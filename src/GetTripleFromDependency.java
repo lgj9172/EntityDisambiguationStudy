@@ -135,9 +135,6 @@ public class GetTripleFromDependency
 						System.out.println(targetTerm+ " - " + "at" + " - " + sourceTerm );
 					}*/
 				}
-			      //buf.append(edge.getRelation().toString()).append("(");
-			      //buf.append(edge.getSource().toString(CoreLabel.OutputFormat.VALUE_INDEX)).append(", ");
-			      //buf.append(edge.getTarget().toString(CoreLabel.OutputFormat.VALUE_INDEX)).append(")\n");
 			}
 			//System.out.println(dependencies);
 		}    
