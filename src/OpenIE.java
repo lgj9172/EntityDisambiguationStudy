@@ -415,12 +415,12 @@ public class OpenIE {
 					
 					if(edge.getRelation().toString().contains("pos")){	// pos로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
+						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm + "\t" + edge.getSource().ner());
 					}
 					
 					else if(edge.getRelation().toString().contains("of")){	// of로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
+						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm + "\t" + edge.getTarget().ner());
 					}
 					else
 					{
