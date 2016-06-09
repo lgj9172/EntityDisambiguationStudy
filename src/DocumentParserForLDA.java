@@ -35,6 +35,7 @@ public class DocumentParserForLDA
 	public Properties props = null;
 	public StanfordCoreNLP pipeline = null;
 	
+	
 	public DocumentParserForLDA()
 	{
 		props = new Properties();
@@ -316,7 +317,7 @@ public class DocumentParserForLDA
 		System.out.println("문서 저장을 완료하였습니다.");		
 	}
 	
-	public void saveMapFile()
+	public void saveMapFile(ArrayList<ArrayList<String>> documentMap)
 	{
 		// LDA의 학습 파일은 각 문서에 대한 id정보를 갖지 않으므로 따로 작성해 주어야 함
 		try
@@ -324,11 +325,13 @@ public class DocumentParserForLDA
 			File mapFile = new File("./data/lda/map.dat");
 			BufferedWriter mapOut = new BufferedWriter(new FileWriter(mapFile));
 			int num = 0;
-			for(String eachDocumentName:loadedDocument.keySet())
+			for(ArrayList<String> eachMap:documentMap)
 			{
-				mapOut.write(num + "\t" + eachDocumentName + "\n");
+				mapOut.write(eachMap.get(0) + "\t" + eachMap.get(1) + "\n");
+				System.out.println(eachMap.get(0));
 				num = num + 1;
 			}
+			mapOut.close();
 		}
 		catch (IOException e)
 		{
@@ -367,7 +370,9 @@ public class DocumentParserForLDA
 		
 		// 모든 폴더를 순회하면서 모든 파일의 패스를 얻어냄
 		ArrayList<String> fileFaths = new ArrayList<String>();
+		ArrayList<ArrayList<String>> documentMap = new ArrayList<ArrayList<String>>();
 		System.out.println(folderFaths.size() +"개의 폴더에 있는 모든 파일 목록을 얻어내는 중입니다.");
+		int num = 0;
 		for(String folderFath:folderFaths)
 		{
 			File eachFolder = new File(folderFath);
@@ -378,8 +383,15 @@ public class DocumentParserForLDA
 				if(eachFile.isFile())
 				{
 					//System.out.println(eachFolderName);
+					///////////////sdddddddddd
+					ArrayList<String> map = new ArrayList<String>();
+					map.add(String.valueOf(num));
+					map.add(eachFile.getName());
+					documentMap.add(map);
 					fileFaths.add(eachFile.getAbsolutePath());
+					
 				}
+				num = num + 1;
 			}
 		}
 		System.out.println(fileFaths.size() +"개의 파일을 찾았습니다.");		
@@ -387,7 +399,7 @@ public class DocumentParserForLDA
 		// 모든 파일을 순회하면서 LDA를 위한 파일을 작성함
 		// 문서 파서를 만듦
 		DocumentParserForLDA dp = new DocumentParserForLDA();
-		int num = 1;
+		num = 1;
 		for(String eachDocument:fileFaths)
 		{
 			// 로드할 파일 경로를 지정함
@@ -397,9 +409,11 @@ public class DocumentParserForLDA
 			System.out.print(num + "/" + fileFaths.size() +"개 진행"); System.out.print("\r");
 			num = num + 1;
 		}
-		dp.saveMapFile();
+		
+		
 		// 로드한 파일을 LDA에 적용 될 수 있는 형태로 저장함
 		dp.saveDocumentFile(targetFile);
+		dp.saveMapFile(documentMap);
 		//System.out.println( dp.applyLemma("The director of the company is Marge. Marge's son is Bart.") );
 	}
 }
