@@ -70,6 +70,8 @@ public class OpenIE {
         	triples.addAll(openIE_triples);
         	triples.addAll(depend_triples);
         }
+        
+        System.out.println(triples.toString());
 	}
 	
 	public ArrayList<String> compareDepend(ArrayList<String> sentences, HashMap<String, HashMap<String, String>> coreference) {
@@ -104,13 +106,13 @@ public class OpenIE {
 				for(int i=0; i<triple.size(); i++) {
 					String t = triple.get(i);
 					String[] tmp = t.split("\t");
-					
+					//System.out.println(t);
 					if(coref.containsKey(tmp[1])) {
 						tmp[1] = coref.get(tmp[1]);
 					}
 					
 					if(coref.containsKey(tmp[3])) {
-						tmp[3] = coref.get(tmp[32]);
+						tmp[3] = coref.get(tmp[3]);
 					}
 					
 					String newTriple = tmp[0] + "\t" + tmp[1] + "\t" + tmp[2] + "\t" + tmp[3];
@@ -122,12 +124,12 @@ public class OpenIE {
 			}
 						
 		}
-		
+		/*
 		System.out.println("->");
 		for(int i=0; i<result.size(); i++) {
 			System.out.println(i+1 + ": " + result.get(i));
 		}
-		
+		*/
 		return result;
 	}
 
@@ -322,7 +324,7 @@ public class OpenIE {
 		
 			// 디펜던시 적용
 			SemanticGraph dependencies = sentence.get(CollapsedCCProcessedDependenciesAnnotation.class);
-			System.out.println(dependencies.toList());	
+			//System.out.println(dependencies.toList());	
 			
 			// 컴파운드 찾기
 			Map<String, String> compoundMap = new HashMap<String, String>();	// 조합된 컴파운드를 저장할 곳
@@ -379,12 +381,12 @@ public class OpenIE {
 					
 					if(edge.getRelation().toString().contains("pos")){	// pos로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add(targetTerm+ "	" + "have" + "	" + sourceTerm);
+						result.add("1" + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
 					}
 					
 					else if(edge.getRelation().toString().contains("of")){	// of로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add(targetTerm+ "	" + "have" + "	" + sourceTerm);
+						result.add("1" + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
 					}
 					else
 					{
