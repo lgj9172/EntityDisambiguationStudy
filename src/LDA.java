@@ -71,7 +71,7 @@ public class LDA
 		String distA = getDistributionByFileName(docAName);
 		String distB = getDistributionByFileName(docBName);
 		String[] stringDistA = distA.split(" ");
-		String[] stringDistB = distA.split(" ");
+		String[] stringDistB = distB.split(" ");
 		double[] doubleDistA = new double[stringDistA.length];
 		double[] doubleDistB = new double[stringDistB.length];
 		int num = 0;
@@ -119,8 +119,6 @@ public class LDA
 	public static void main(String[] args)
 	{
 		LDA lda = new LDA();
-		//String distribution = lda.getDistributionByFileName("AFP_ENG_20070124.0600.LDC2009T13");
-		//System.out.println(distribution);
 		
 		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070124.0600.LDC2009T13", "AFP_ENG_20070101.0074.LDC2009T13"));
 	}
