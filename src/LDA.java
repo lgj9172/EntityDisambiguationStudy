@@ -120,6 +120,8 @@ public class LDA
 	{
 		LDA lda = new LDA();
 		
-		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070124.0600.LDC2009T13", "AFP_ENG_20070101.0074.LDC2009T13"));
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0002.LDC2009T13", "AFP_ENG_20070101.0074.LDC2009T13"));
+		System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0074.LDC2009T13", "AFP_ENG_20070101.0002.LDC2009T13"));
 	}
 }

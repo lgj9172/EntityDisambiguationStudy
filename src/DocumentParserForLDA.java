@@ -360,7 +360,7 @@ public class DocumentParserForLDA
 		for(File eachFolder:sourceAreaFolder.listFiles())
 		{
 			String eachFolderName = eachFolder.getName();
-			if(eachFolderName.startsWith(sourceClue)&&eachFolder.isDirectory())
+			if(eachFolderName.startsWith(sourceClue)&&eachFolder.isDirectory()&&!eachFolderName.endsWith("BAK"))
 			{
 				//System.out.println(eachFolderName);
 				folderFaths.add(sourceArea + eachFolderName);
