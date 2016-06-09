@@ -35,18 +35,16 @@ public class DocumentParserForLDA
 	public Properties props = null;
 	public StanfordCoreNLP pipeline = null;
 	
-	public void DocumentParserForLDA()
+	public DocumentParserForLDA()
 	{
-
+		props = new Properties();
+		props.put("annotators", "tokenize, ssplit, pos, lemma");
+		pipeline = new StanfordCoreNLP(props);
 	}
 	
 	// 문장이 입력되면 lemma을 적용해서 리스트 형태로 반환함
 	public ArrayList<String> applyLemma(String input)
 	{
-		props = new Properties();
-		props.put("annotators", "tokenize, ssplit, pos, lemma");
-		pipeline = new StanfordCoreNLP(props);
-		
 		// create an empty Annotation just with the given text
 	    Annotation document = new Annotation(input);
 	    
@@ -55,6 +53,7 @@ public class DocumentParserForLDA
 	    
 	    // run all Annotators on this text
 	    pipeline.annotate(document);
+	    //pipeline.annotate(document);
 	    List<CoreMap> sentences = document.get(SentencesAnnotation.class);
 		for (CoreMap sentence : sentences)
 		{
@@ -69,6 +68,153 @@ public class DocumentParserForLDA
 						continue;
 					case ",":
 						continue;
+					case "/":
+						continue;
+					case "``":
+						continue;
+					case "''":
+						continue;
+					case ":":
+						continue;
+					case "-LRB-":
+						continue;
+					case "-RRB-":
+						continue;
+					case "--":
+						continue;
+					case "~":
+						continue;
+					case "on":
+						continue;
+					case "of":
+						continue;
+					case "to":
+						continue;
+					case "in":
+						continue;
+					case "the":
+						continue;
+					case "by":
+						continue;
+					case "he":
+						continue;
+					case "she":
+						continue;
+					case "a":
+						continue;
+					case "and":
+						continue;
+					case "or":
+						continue;
+					case "his":
+						continue;
+					case "him":
+						continue;
+					case "her":
+						continue;
+					case "for":
+						continue;
+					case "over":
+						continue;
+					case "men":
+						continue;
+					case "woman":
+						continue;
+					case "?":
+						continue;
+					case "!":
+						continue;
+					case "'":
+						continue;
+					case "at":
+						continue;
+					case "as":
+						continue;
+					case "it":
+						continue;
+					case "its":
+						continue;
+					case "other":
+						continue;
+					case "another":
+						continue;
+					case "'s":
+						continue;
+					case "-":
+						continue;
+					case "an":
+						continue;
+					case "but":
+						continue;
+					case "just":
+						continue;
+					case "we":
+						continue;
+					case "all":
+						continue;
+					case "some":
+						continue;
+					case "were":
+						continue;
+					case "had":
+						continue;
+					case "off":
+						continue;
+					case "from":
+						continue;
+					case "was":
+						continue;
+					case "more":
+						continue;
+					case "that":
+						continue;
+					case "such":
+						continue;
+					case "She":
+						continue;
+					case "He":
+						continue;
+					case "The":
+						continue;
+					case "if":
+						continue;
+					case "before":
+						continue;
+					case "after":
+						continue;
+					case "until":
+						continue;
+					case "also":
+						continue;
+					case "has":
+						continue;
+					case "But":
+						continue;
+					case "Be":
+						continue;
+					case "be":
+						continue;
+					case "who":
+						continue;
+					case "And":
+						continue;
+					case "At":
+						continue;
+					case "I":
+						continue;
+					case "next":
+						continue;
+					case "last":
+						continue;
+					case "than":
+						continue;
+					case "said":
+						continue;
+					case "My":
+						continue;
+					case "my":
+						continue;
+						
 					default:
 						break;
 				}
@@ -93,7 +239,7 @@ public class DocumentParserForLDA
 		else
 		{
 			fileName = sourceFile.getName();
-			System.out.println(fileName + " 파일을 로드중입니다.");
+			//System.out.println(fileName + " 파일을 로드중입니다.");
 		}
 
 		// 소스 파일을 불러옴(html 방식 문서임)
@@ -120,7 +266,7 @@ public class DocumentParserForLDA
 			}
 			// 테스트
 			//System.out.println(sentences);
-			System.out.println(fileName + " 파일을 로드했습니다.");
+			//System.out.println(fileName + " 파일을 로드했습니다.");
 			
 			// lemma가 적용되고, 단어로 나열되어 있는 문서를 파일로써 등록함
 			loadedDocument.put(fileName, sentences);			
@@ -170,15 +316,89 @@ public class DocumentParserForLDA
 		System.out.println("문서 저장을 완료하였습니다.");		
 	}
 	
+	public void saveMapFile()
+	{
+		// LDA의 학습 파일은 각 문서에 대한 id정보를 갖지 않으므로 따로 작성해 주어야 함
+		try
+		{
+			File mapFile = new File("./data/lda/map.dat");
+			BufferedWriter mapOut = new BufferedWriter(new FileWriter(mapFile));
+			int num = 0;
+			for(String eachDocumentName:loadedDocument.keySet())
+			{
+				mapOut.write(num + "\t" + eachDocumentName + "\n");
+				num = num + 1;
+			}
+		}
+		catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
+	
 	public static void main(String[] args)
 	{
-		String sourcePath = "D:/Downloads/LDC2015E45_TAC_KBP_Comprehensive_English_Source_Corpora_2009-2014/data/AFP_ENG_200701/AFP_ENG_20070101.0001.LDC2009T13";
+		// 저장될 경로를 지정함
 		String targetPath = "./data/lda/documentset.dat";
-		File sourceFile = new File(sourcePath);
 		File targetFile = new File(targetPath);
 		
+		// 다음 문자열이 들어간 폴더를 모두 순회하여 파일을 읽도록 합니다.
+		String sourceClue = "AFP_ENG_200701";
+		
+		// 폴더들을 찾을 범위를 지정합니다.
+		String sourceArea = "D:/Downloads/LDC2015E45_TAC_KBP_Comprehensive_English_Source_Corpora_2009-2014/data/";
+		
+		// 폴더들을 찾을 범위에서 폴더명들을 모두 얻어냅니다.
+		File sourceAreaFolder = new File(sourceArea);
+		
+		// AFP_ENG_로 시작하는 모든 폴더패스들을 얻어냅니다.
+		ArrayList<String> folderFaths = new ArrayList<String>();
+		for(File eachFolder:sourceAreaFolder.listFiles())
+		{
+			String eachFolderName = eachFolder.getName();
+			if(eachFolderName.startsWith(sourceClue)&&eachFolder.isDirectory())
+			{
+				//System.out.println(eachFolderName);
+				folderFaths.add(sourceArea + eachFolderName);
+			}
+		}
+		System.out.println(sourceClue + " 로 시작하는 " + folderFaths.size() +"개의 폴더를 찾았습니다.");
+		
+		// 모든 폴더를 순회하면서 모든 파일의 패스를 얻어냄
+		ArrayList<String> fileFaths = new ArrayList<String>();
+		System.out.println(folderFaths.size() +"개의 폴더에 있는 모든 파일 목록을 얻어내는 중입니다.");
+		for(String folderFath:folderFaths)
+		{
+			File eachFolder = new File(folderFath);
+			//System.out.println(eachFolder.exists());
+			for(File eachFile:eachFolder.listFiles())
+			{
+				String eachFileName = eachFolder.getName();
+				if(eachFile.isFile())
+				{
+					//System.out.println(eachFolderName);
+					fileFaths.add(eachFile.getAbsolutePath());
+				}
+			}
+		}
+		System.out.println(fileFaths.size() +"개의 파일을 찾았습니다.");		
+		
+		// 모든 파일을 순회하면서 LDA를 위한 파일을 작성함
+		// 문서 파서를 만듦
 		DocumentParserForLDA dp = new DocumentParserForLDA();
-		dp.loadHTMLFile(sourceFile);
+		int num = 1;
+		for(String eachDocument:fileFaths)
+		{
+			// 로드할 파일 경로를 지정함
+			File sourceFile = new File(eachDocument);
+			// 문서 파서로 로드할 파일을 읽어들임
+			dp.loadHTMLFile(sourceFile);
+			System.out.print(num + "/" + fileFaths.size() +"개 진행"); System.out.print("\r");
+			num = num + 1;
+		}
+		dp.saveMapFile();
+		// 로드한 파일을 LDA에 적용 될 수 있는 형태로 저장함
 		dp.saveDocumentFile(targetFile);
 		//System.out.println( dp.applyLemma("The director of the company is Marge. Marge's son is Bart.") );
 	}
