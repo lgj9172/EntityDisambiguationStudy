@@ -378,14 +378,18 @@ public class OpenIE {
 					String targetTerm = targetCompound + edge.getTarget().toString(CoreLabel.OutputFormat.VALUE);
 					
 					if(edge.getRelation().toString().contains("pos")){	// pos로 이루어진 경우
-						System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
+						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
+						result.add(targetTerm+ "	" + "have" + "	" + sourceTerm);
 					}
 					
 					else if(edge.getRelation().toString().contains("of")){	// of로 이루어진 경우
-						System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
+						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
+						result.add(targetTerm+ "	" + "have" + "	" + sourceTerm);
 					}
 					else
-					{}
+					{
+						
+					}
 					/*
 					else if(edge.getRelation().toString().contains("in")){	// in로 이루어진 경우
 						System.out.println(targetTerm+ " - " + "in" + " - " + sourceTerm );
