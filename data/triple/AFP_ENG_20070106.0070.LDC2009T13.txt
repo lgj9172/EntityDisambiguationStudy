@@ -1,0 +1,71 @@
+1.0	Russia	have	Vesti-24 television news network	O	LOCATION
+1.0	demand	be part of	range of heighten security measure launch	0	0
+1.0	agreement	follow	similar accord sign between United States	0	LOCATION
+1.0	they	violate	fundamental privacy rights	0	0
+1.0	agreement	follow	accord sign in October about passenger travel by air	0	DATE
+1.0	agreement	follow	accord sign about passenger travel by air from Europe	0	LOCATION
+1.0	demand	be part of	range of security measure launch in aftermath of September 11	0	DATE
+1.0	agreement	follow	accord sign between United States about passenger travel by air from Europe	0	LOCATION
+1.0	russian Transport Minister Igor Levitin	say in	interview broadcast	PERSON	0
+1.0	Russia	have	vesti-24 television news network	LOCATION	0
+1.0	agreement	follow	similar accord sign about passenger travel	0	0
+1.0	the United States	tell	Russia 's vesti-24 television news network	PERSON	LOCATION
+1.0	agreement	follow	accord sign between United States about passenger travel by air	0	LOCATION
+1.0	agreement	follow	similar accord	0	0
+1.0	agreement	follow	similar accord sign about passenger travel from Europe	0	LOCATION
+1.0	demand	be part of	range	0	0
+1.0	agreement	follow	accord	0	0
+1.0	air traffic	have	aware	O	O
+1.0	agreement	follow	accord sign about passenger	0	0
+1.0	agreement	follow	similar accord sign about passenger travel by air from Europe	0	LOCATION
+1.0	demand	be part of	range of heighten security measure launch by Washington in aftermath	0	LOCATION
+1.0	Franco Frattini	be	EU Justice	PERSON	ORGANIZATION
+1.0	demand	be part of	range of heighten security measure launch in aftermath of September 11	0	DATE
+1.0	agreement	follow	accord sign about passenger travel by air	0	0
+1.0	agreement	follow	similar accord sign about passenger travel by air	0	0
+1.0	other place	be in	Russia	0	LOCATION
+1.0	demand	be part of	range of heighten security measure	0	0
+1.0	agreement	follow	similar accord sign between United States about passenger travel	0	LOCATION
+1.0	demand	be part of	range of security measure	0	0
+1.0	agreement	follow	similar accord sign between United States about passenger travel by air	0	LOCATION
+1.0	demand	be part of	range of security measure launch by Washington	0	LOCATION
+1.0	demand	be part of	range of heighten security measure launch by Washington in aftermath of September 11	0	LOCATION
+1.0	agreement	follow	accord sign between United States about passenger travel from Europe	0	LOCATION
+1.0	agreement	follow	accord sign	0	0
+1.0	demand	be	part	0	0
+1.0	agreement	follow	similar accord sign in October	0	DATE
+1.0	they	violate	privacy rights	0	0
+1.0	agreement	follow	similar accord sign	0	0
+1.0	agreement	follow	accord sign between United States about passenger	0	LOCATION
+1.0	Franco Frattini	be commissioner of	EU Justice	PERSON	ORGANIZATION
+1.0	agreement	follow	similar accord sign in October about passenger travel from Europe	0	LOCATION
+1.0	agreement	follow	similar accord sign between United States about passenger travel by air from Europe	0	LOCATION
+1.0	demand	be part of	range of heighten security measure launch in aftermath	0	0
+1.0	demand	be part of	range of heighten security measure launch by Washington	0	LOCATION
+1.0	demand	be part of	range of security measure launch by Washington in aftermath	0	LOCATION
+1.0	agreement	follow	similar accord sign between United States about passenger	0	LOCATION
+1.0	agreement	follow	accord sign in October	0	DATE
+1.0	agreement	follow	similar accord sign in October about passenger travel by air from Europe	0	LOCATION
+1.0	agreement	follow	accord sign between United States	0	LOCATION
+1.0	Transport Minister Igor Levitin	say in	interview broadcast	PERSON	0
+1.0	agreement	follow	similar accord sign in October about passenger travel by air	0	DATE
+1.0	agreement	follow	accord sign in October about passenger travel from Europe	0	LOCATION
+1.0	EU Justice Commissioner Franco Frattini	express	concern	PERSON	0
+1.0	agreement	follow	similar accord sign about passenger	0	0
+1.0	September	have	aftermath	O	DATE
+1.0	agreement	follow	accord sign in October about passenger	0	DATE
+1.0	agreement	follow	accord sign between United States about passenger travel	0	LOCATION
+1.0	demand	be part of	range of security measure launch in aftermath	0	0
+1.0	demand	be part of	range of security measure launch by Washington in aftermath of September 11	0	LOCATION
+1.0	range	have	part	O	O
+1.0	security measures	have	range	O	O
+1.0	agreement	follow	similar accord sign between United States about passenger travel from Europe	0	LOCATION
+1.0	United States	have	air traffic	O	LOCATION
+1.0	agreement	follow	accord sign about passenger travel from Europe	0	LOCATION
+1.0	agreement	follow	accord sign about passenger travel	0	0
+1.0	agreement	follow	accord sign in October about passenger travel	0	DATE
+1.0	agreement	follow	similar accord sign in October about passenger travel	0	DATE
+1.0	agreement	follow	similar accord sign in October about passenger	0	DATE
+1.0	demand	be part of	range of security measure launch	0	0
+1.0	Igor Levitin	be	russian	PERSON	0
+1.0	agreement	follow	accord sign in October about passenger travel by air from Europe	0	LOCATION

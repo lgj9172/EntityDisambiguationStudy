@@ -1,0 +1,41 @@
+1.0	number	will	will also keep to those	0	0
+1.0	certain state	be in	New Zealand	0	LOCATION
+1.0	bird	will	will also subject to quarantine	0	0
+1.0	infection	have	risk	O	O
+1.0	origin	have	country	O	O
+1.0	days	have	quarantine	O	DURATION
+1.0	imported bird	will	will subject	0	0
+1.0	bird	will	will also subject to quarantine of at least 30 day	0	DURATION
+1.0	imported bird	will	will also subject to quarantine of at least 30 day	0	DURATION
+1.0	Australia	state in	New Zealand	LOCATION	LOCATION
+1.0	devastation	serve as	reminder	0	0
+1.0	bird	will	will also subject	0	0
+1.0	commission	say in	statement	0	0
+1.0	bird	will	will subject to quarantine	0	0
+1.0	countries	have	number	O	O
+1.0	food chain	decide	veterinary expert	0	0
+1.0	animal health protection	have	level	O	O
+1.0	number	will	will also keep	0	0
+1.0	embargo	be	impose	0	0
+1.0	New Zealand	be in	Brazil	LOCATION	LOCATION
+1.0	imported bird	will	will subject to quarantine of at least 30 day	0	DURATION
+1.0	The European Union	have	ban	O	O
+1.0	food chain	decide	expert	0	0
+1.0	food chain	replace	ban	0	0
+1.0	food chain	replace	veterinary expert	0	0
+1.0	animal health protection	be in	the EU	0	ORGANIZATION
+1.0	bird	will	will subject to quarantine of at least 30 day	0	DURATION
+1.0	their	have	import	O	O
+1.0	European Commission	say at_time	Thursday	ORGANIZATION	DATE
+1.0	embargo	be	impose in October 2005 amid bird flu scare	0	DATE
+1.0	embargo	be impose in	October 2005	0	DATE
+1.0	disease	have	absence	O	O
+1.0	food chain	replace	expert	0	0
+1.0	bird	will	will subject	0	0
+1.0	imported bird	will	will also subject to quarantine	0	0
+1.0	number	will	will keep to those	0	0
+1.0	imported bird	will	will also subject	0	0
+1.0	embargo	be impose amid	bird flu scare	0	0
+1.0	number	will	will keep	0	0
+1.0	imported bird	will	will subject to quarantine	0	0
+1.0	influenza	have	absence	O	O

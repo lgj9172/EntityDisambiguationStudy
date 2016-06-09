@@ -1,0 +1,30 @@
+1.0	month	be	of which suspend	0	0
+1.0	club	have	shareholder	O	O
+1.0	case	be	adjourn	0	0
+1.0	intermediaries	have	pockets	O	O
+1.0	18 month	be	suspend	DURATION	0
+1.0	club 's major shareholder	be give	three-year suspend prison sentence	0	DURATION
+1.0	club 's major shareholder	be give	prison sentence	0	0
+1.0	coach Rolland Courbis	have	pockets	O	PERSON
+1.0	international Jean-Francois Larios	have	involvement	O	O
+1.0	agent	be in	Marseille transfer scandal	0	ORGANIZATION
+1.0	club 's shareholder	be give	suspend prison sentence	0	0
+1.0	case	be adjourn for	further deliberation	0	0
+1.0	club 's major shareholder	be give	suspend prison sentence	0	0
+1.0	club	have	major shareholder at time	0	DATE
+1.0	club 's major shareholder	be give	three-year prison sentence	0	DURATION
+1.0	club 's shareholder	be give	three-year prison sentence	0	DURATION
+1.0	month	be	suspend	0	0
+1.0	case	be	adjourn for deliberation until February 9	0	DATE
+1.0	international Jean-Francois Larios	be fine	200,000 euro	PERSON	MONEY
+1.0	international Jean-Francois Larios	midfielder for	St Etienne	PERSON	ORGANIZATION
+1.0	club 's shareholder	be give	prison sentence	0	0
+1.0	case	be adjourn for	deliberation	0	0
+1.0	50-year-old Larios	be fine	200,000 euro	PERSON	MONEY
+1.0	players	have	pockets	O	O
+1.0	international Jean-Francois Larios	be	50-year-old	PERSON	DURATION
+1.0	case	be	adjourn for further deliberation until February 9	0	DATE
+1.0	club 's shareholder	be give	three-year suspend prison sentence	0	DURATION
+1.0	18 month	be	of which suspend	DURATION	0
+1.0	case	be adjourn until	February 9	0	DATE
+1.0	which	have	suspended	O	O

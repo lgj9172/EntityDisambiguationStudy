@@ -1,0 +1,42 @@
+1.0	ASEAN	of	summit	ORGANIZATION	0
+1.0	the five years to 2005	have	trade	O	O
+1.0	ADB	have	forecast	O	ORGANIZATION
+0.511025850619755	drive	much of	Asia 's growth	0	LOCATION
+1.0	ASEAN	have	summit	O	ORGANIZATION
+1.0	percent growth	have	forecast	O	O
+1.0	New Zealand	be with	Australia	LOCATION	LOCATION
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	have locomotive	drive	much	0	0
+0.5791930532133853	10.4 percent	predict for	2006	PERCENT	DATE
+1.0	summit	have	sidelines	O	O
+1.0	growth	have	much	O	O
+1.0	half a percent this year	have	economy	O	O
+1.0	sectors	have	number	O	O
+1.0	Haruhiko Kuroda	speak on	sideline	PERSON	0
+1.0	Haruhiko Kuroda	say with	growth expect	PERSON	0
+1.0	Asia	of	growth over past decade	LOCATION	DATE
+1.0	Haruhiko Kuroda	speak on	sideline of ASEAN 's summit	PERSON	ORGANIZATION
+1.0	China	be	one of six ASEAN dialogue partner along with Australia Zealand	LOCATION	LOCATION
+1.0	China	be one along	six ASEAN dialogue partner	LOCATION	ORGANIZATION
+1.0	its trade	triple to	total of 113 billion dollar	0	DATE
+1.0	Association	have	members	O	ORGANIZATION
+1.0	China	have	growth	O	O
+1.0	president	say at_time	Saturday	0	DATE
+1.0	Haruhiko Kuroda	tell	reporter	0	0
+1.0	have locomotive	drive	much of Asia 's growth over past decade	0	DATE
+1.0	China	have	have locomotive	LOCATION	0
+1.0	Haruhiko Kuroda	say with	growth	PERSON	0
+0.511025850619755	drive	much of	Asia 's growth over past decade	0	DATE
+1.0	have locomotive	drive	much of Asia 's growth	0	LOCATION
+1.0	trade	have	tenth	ORDINAL	O
+1.0	its trade	triple to	total	0	DATE
+1.0	China	be	one six ASEAN dialogue partner along with Australia Zealand	LOCATION	LOCATION
+1.0	ASEAN dialogue partners	have	one	NUMBER	O
+1.0	its trade	triple in	five year to 2005	0	DATE
+1.0	dollars	have	total	O	MONEY
+1.0	its trade	be with	member of association of southeast asian nation	0	ORGANIZATION
+1.0	Asian Development Bank	have	president	O	ORGANIZATION
+1.0	China	be one along of	six ASEAN dialogue partner	LOCATION	ORGANIZATION
+1.0	Asia	have	growth	O	LOCATION
+1.0	its trade	triple in	five year	0	DATE
+1.0	economy	have	sectors	O	O

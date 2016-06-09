@@ -1,0 +1,107 @@
+1.0	teacher	arm	themselves	0	0
+1.0	Thailand 's junta	extend	emergency rule	LOCATION	0
+1.0	shooting	prompt	Prime Minister Surayud Chulanont	0	PERSON
+1.0	government	take time to	bare fruit	0	0
+1.0	junta	call	Thailand 's junta on Wednesday	0	0
+1.0	regional army commander	agree after	meeting	0	0
+1.0	violence	have spiral with	civilian target	0	0
+1.0	Thailand 's military-backed government	have say in	October	LOCATION	DATE
+1.0	bloodshed	prompt	Council for National Security	0	ORGANIZATION
+1.0	government	have	peace initiatives	O	O
+1.0	shooting Wednesday	prompt	Prime Minister Surayud Chulanont	DATE	PERSON
+1.0	Thailand	have	junta	O	LOCATION
+1.0	fatal shooting Wednesday	highlight	problem	DATE	0
+1.0	conflict	creep over	border	0	0
+1.0	school	on	location	0	0
+1.0	soldier	will	will deploy during teaching hour	0	0
+1.0	violence	have spiral with	civilian increasingly target	0	0
+1.0	Thai soldier	conduct	joint patrol	MISC	0
+1.0	Thai soldier	conduct	patrol	MISC	0
+1.0	Thai army	however describe	incident	MISC	0
+1.0	Thailand 's junta	say in	apparent return to tactic	LOCATION	0
+1.0	government	have	top security adviser	0	0
+1.0	new measure	will	will blow	0	0
+1.0	school	have	location	O	O
+1.0	nation	be mourn	death	0	0
+1.0	Lieutenant General Viroach Buacharoon	beat at	school	0	0
+1.0	conflict	be in	region	0	0
+1.0	nation	be mourn	death Monday	0	DATE
+1.0	Thai army	describe	incident	MISC	0
+1.0	impunity	have	climate	O	O
+1.0	Prime Minister Surayud Chulanont	hold	emergency security meeting	PERSON	0
+1.0	Prakit Prachopachanuk	adviser 's	government	PERSON	0
+1.0	hours	have	arm	O	DURATION
+1.0	Thailand 's junta	say in	apparent return	LOCATION	0
+1.0	shooting Wednesday	highlight	problem	DATE	0
+1.0	Thai army	however reportedly describe	incident	MISC	0
+1.0	Thailand 's junta	say after	attempt at reconciliation	LOCATION	0
+1.0	their	have	duty	O	O
+1.0	Lieutenant General Viroach Buacharoon	tell	reporter	PERSON	0
+0.14059619431790493	army commander	agree	allow	0	0
+0.14059619431790493	regional southern army commander	agree	allow	0	0
+1.0	bloodshed	prompt	Council	0	ORGANIZATION
+1.0	30 day	be in	southern province border	DURATION	0
+1.0	conflict	creep into	Malaysia	0	LOCATION
+1.0	fatal shooting Wednesday	prompt	Prime Minister Surayud Chulanont	DATE	PERSON
+1.0	conflict	appear	be creep into Malaysia	0	LOCATION
+1.0	Lieutenant General Viroach Buacharoon	beat at	school in Narathiwat	0	LOCATION
+1.0	soldier	will	will deploy	0	0
+1.0	Security measure	depend on	school 's location	0	0
+0.9729290988152637	prompt	council for	National Security	0	ORGANIZATION
+0.945044434337202	nation	death at_time	Monday	0	DATE
+1.0	conflict	appear	be creep	0	0
+1.0	fatal shooting	prompt	Prime Minister Surayud Chulanont	0	PERSON
+1.0	Thailand 's junta	say after	attempt	LOCATION	0
+1.0	Thai army	reportedly describe	incident	MISC	0
+1.0	government	take time to	fruit	0	0
+1.0	southern army commander	agree after	meeting	0	0
+1.0	regional army commander	allow	teacher	0	0
+1.0	Prime Minister Surayud Chulanont	hold emergency security meeting in	Bangkok	PERSON	LOCATION
+1.0	conflict	appear	be creep over border	0	0
+1.0	nation	be still mourn	death Monday	0	DATE
+1.0	violence	have spiral with	civilian	0	0
+1.0	regional southern army commander	allow	teacher	0	0
+1.0	fatal shooting	highlight	problem	0	0
+1.0	Thailand 's military-backed government	have say in	late October	LOCATION	DATE
+1.0	Security measure	will vary	depend on school 's location	0	0
+1.0	shooting	highlight	problem	0	0
+1.0	39-year-old muslim female teacher	be in	pattanit	DURATION	0
+0.9729290988152637	prompt	council for	cn	0	0
+1.0	new government	promote	peace	0	0
+1.0	nation	be still mourn	death	0	0
+1.0	teacher	have	shooting	O	O
+1.0	conflict	also appear	be creep	0	0
+1.0	Thailand 's junta	say in	apparent return to strong-arm tactic	LOCATION	0
+1.0	Thailand	have	military-backed government	LOCATION	0
+1.0	Thailand	have	junta on Wednesday	LOCATION	DATE
+1.0	measure	will	will blow	0	0
+1.0	regional southern army commander	agree after	meeting	0	0
+1.0	conflict	also appear	be creep over border	0	0
+0.14059619431790493	southern army commander	agree	allow	0	0
+1.0	army commander	agree after	meeting	0	0
+1.0	teacher	have	death	O	O
+1.0	Thailand 's junta	extend emergency rule in	south	LOCATION	0
+1.0	month	be in	Yala province	0	LOCATION
+0.98289021223604	they	be on	when trip	0	0
+1.0	Thailand 's government	have say in	October	LOCATION	DATE
+1.0	conflict	also appear	be creep into Malaysia	0	LOCATION
+1.0	they	be	private	0	0
+0.98289021223604	they	be on	when private trip	0	0
+1.0	school	be in	Narathiwat	0	LOCATION
+1.0	conflict	appear	be creep over border into Malaysia	0	LOCATION
+1.0	government	have	security adviser	O	O
+1.0	government	take	time	0	0
+0.98289021223604	they	be on	trip	0	0
+0.14059619431790493	regional army commander	agree	allow	0	0
+1.0	conflict	also appear	be creep over border into Malaysia	0	LOCATION
+1.0	Security measure	will vary	depend	0	0
+1.0	Thailand	have	government	O	LOCATION
+1.0	southern army commander	allow	teacher	0	0
+1.0	Thailand 's government	have say in	late October	LOCATION	DATE
+1.0	Lieutenant General Viroach Buacharoon	be take	hostage	0	0
+1.0	government	promote	peace	0	0
+0.98289021223604	they	be on	private trip	0	0
+1.0	soldiers and police	have	policy	O	O
+1.0	Thailand 's junta	extend emergency rule in	restive south	LOCATION	0
+1.0	army commander	allow	teacher	0	0
+1.0	branches	have	series	O	O

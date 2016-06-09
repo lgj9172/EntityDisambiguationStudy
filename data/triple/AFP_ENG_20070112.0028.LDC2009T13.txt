@@ -1,0 +1,67 @@
+1.0	client	continue	buy into all of big miner	0	0
+1.0	Alumina	also gain	0.15	PERSON	NUMBER
+1.0	client	buy into	all of big miner	0	0
+1.0	Bendigo Mining	continue	recover	ORGANIZATION	0
+1.0	consortium	have	part	O	O
+1.0	its UK subsidiary	be select as	part of consortium	LOCATION	0
+1.0	Bendigo Mining	continue	recover from Tuesday 's sell-off	ORGANIZATION	DATE
+1.0	Bendigo Mining	recover from	Tuesday 's sell-off	ORGANIZATION	DATE
+1.0	client	continue	buy	0	0
+0.06221292408889589	Multiplex	add to	3.78	0	NUMBER
+1.0	Iluka	add	0.02	LOCATION	NUMBER
+1.0	Santos	gain	0.06	ORGANIZATION	NUMBER
+1.0	key sp/asx 200	rise	73.9 point	NUMBER	NUMBER
+1.0	years	have	commodities boom	O	DURATION
+1.0	Lihir Gold	add	0.04	ORGANIZATION	NUMBER
+1.0	US	change hand with	rise outnumber	LOCATION	0
+1.0	the company	have	mine operation	O	O
+1.0	trading	have	night	TIME	O
+1.0	news chief executive Bob Browning	have	involvement	O	O
+1.0	BHP Billiton share	close at	25.10	ORGANIZATION	NUMBER
+1.0	10 percent stake	be in	Bendigo Mining	PERCENT	ORGANIZATION
+1.0	Property group	have	UK subsidiary	O	O
+1.0	recovery	be in	base metal price	0	0
+1.0	Alumina	gain	0.15	PERSON	NUMBER
+1.0	fall	be in	oil price	DATE	0
+1.0	its UK subsidiary	build accommodation in	contract	LOCATION	0
+0.06221292408889589	Iluka	add to	6.20	LOCATION	NUMBER
+1.0	miners	have	all	O	O
+0.164266332496663	Paladin	jump to	8.51	0	NUMBER
+1.0	dollars	have	total	O	MONEY
+0.359527035562459	total	fall to	441	0	NUMBER
+1.0	St Barbara Mines	be gold miner of	Australia	ORGANIZATION	LOCATION
+1.0	Bendigo share	close at	0.505	ORGANIZATION	NUMBER
+1.0	takeover bid	have	market speculation	O	O
+1.0	investor	respond favorably to	news chief executive Bob Browning	0	PERSON
+1.0	St Barbara Mines	be	Australia	ORGANIZATION	LOCATION
+1.0	base metal price	be in	London	0	LOCATION
+1.0	client	continue	buy into all big miner	0	0
+1.0	its UK subsidiary	be select as	part	LOCATION	0
+1.0	its UK subsidiary	build	accommodation for UK military	LOCATION	LOCATION
+1.0	Origin Energy	climb	0.39	ORGANIZATION	NUMBER
+1.0	AGL Energy	have	takeover target	O	O
+1.0	Lease share	advance	0.46 dollar	0	MONEY
+1.0	St Barbara share	fall	0.015	ORGANIZATION	NUMBER
+1.0	its UK subsidiary	build	accommodation	LOCATION	0
+0.05938589253241263	Oil	add to	3.27	0	NUMBER
+1.0	Tuesday	have	sell-off	O	DATE
+0.06221292408889589	Lihir Gold	add to	2.88	ORGANIZATION	NUMBER
+1.0	stock	be	unchanged	0	0
+1.0	total	fall	737	0	NUMBER
+0.28627611980559997	key sp/asx	rise at	5,638.8	0	NUMBER
+1.0	key sp/asx	rise	73.9 point	0	NUMBER
+1.0	investor	respond to	news chief executive Bob Browning	0	PERSON
+1.0	3.6 billion US	change hand with	rise outnumber	LOCATION	0
+1.0	346 stock	be	unchanged	NUMBER	0
+1.0	James Foulsham	be	CMC	PERSON	ORGANIZATION
+1.0	night	be in	US market	TIME	LOCATION
+1.0	Multiplex	add	0.02	0	NUMBER
+0.9545587737936296	Oil	add	0.06	0	NUMBER
+1.0	reports	have	full	O	O
+1.0	Zinifex	climb	0.15	0	NUMBER
+1.0	its UK subsidiary	be	select	LOCATION	0
+1.0	Tuesday	from	sell-off	DATE	0
+0.28627611980559997	key sp/asx 200	rise at	5,638.8	NUMBER	NUMBER
+1.0	its UK subsidiary	build accommodation worth	335 million pound	LOCATION	MONEY
+1.0	client	buy into	all big miner	0	0
+0.47937962732886696	St Barbara share	fall to	0.51	ORGANIZATION	NUMBER

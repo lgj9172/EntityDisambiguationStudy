@@ -1,0 +1,23 @@
+1.0	spy chief John Negroponte	fill	vacancy	PERSON	0
+1.0	spy chief John Negroponte	fill	key vacancy	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	Condoleezza Rice	be 's	State	PERSON	ORGANIZATION
+1.0	US President George W. Bush on Friday	announce at	White House	PERSON	LOCATION
+1.0	intelligence	have	director	O	O
+1.0	intelligence veteran Michael McConnell	replace	he	PERSON	0
+1.0	US President George W. Bush	nominate	intelligence veteran Michael McConnell	LOCATION	PERSON
+1.0	spy chief John Negroponte	be	US Secretary of State Condoleezza Rice 's deputy	PERSON	PERSON
+1.0	spy chief John Negroponte	be	director	PERSON	0
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	spy chief John Negroponte	fill	key diplomatic vacancy	PERSON	0
+1.0	US President George W. Bush on Friday	choose	spy chief John Negroponte	0	PERSON
+1.0	spy chief John Negroponte	fill	diplomatic vacancy	PERSON	0
+1.0	spy chief John Negroponte	be director of	national intelligence	PERSON	0
+1.0	spy chief John Negroponte	be director of	intelligence	PERSON	0
+1.0	spy chief John Negroponte	be	US Secretary	PERSON	LOCATION
+1.0	US President George W. Bush	name	spy chief John Negroponte	LOCATION	PERSON
+1.0	deputy	have	US Secretary	O	O
+1.0	intelligence veteran Michael McConnell	have	US Secretary	O	PERSON

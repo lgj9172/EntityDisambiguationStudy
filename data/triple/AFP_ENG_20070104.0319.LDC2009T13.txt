@@ -1,0 +1,38 @@
+1.0	Representative-elect Keith Ellison	become	embroil in controversy	PERSON	0
+1.0	Representative-elect Keith Ellison	have	November election victory	O	O
+1.0	he staff	tell	afp	0	0
+1.0	Representative-elect Keith Ellison	take	he oath of office	0	0
+1.0	Minnesota	have	state	O	LOCATION
+1.0	the first black US lawmaker from his state of Minnesota	be	first baseball player	0	ORDINAL
+1.0	House	have	group swearing-in	O	ORGANIZATION
+1.0	decision	rail by	lawmaker	0	0
+1.0	Representative-elect Keith Ellison	follow	he November election victory	0	DATE
+1.0	faith	have	book	O	O
+1.0	Library of Congress	be to	Muslim US	ORGANIZATION	LOCATION
+1.0	Representative-elect Keith Ellison	have	oath	O	O
+1.0	office	have	oath	O	O
+1.0	the first black US lawmaker from his state of Minnesota	be	first black baseball player	0	ORDINAL
+1.0	Representative-elect Keith Ellison	have	office	O	O
+1.0	the Koran once owned by President Thomas Jefferson at a private swearing-in ceremony Thursday	book of	he islamic faith	MISC	0
+1.0	Representative-elect Keith Ellison	have	state	O	O
+1.0	Representative-elect Keith Ellison	embroil in	controversy	PERSON	0
+1.0	decision	rail by	conservative lawmaker	0	0
+1.0	Representative-elect Keith Ellison	will take	page	0	0
+1.0	Representative-elect Keith Ellison	have	staff	O	O
+1.0	Congress	have	Library	ORGANIZATION	ORGANIZATION
+1.0	sport	have	leagues	O	O
+1.0	Representative-elect Keith Ellison	take	he oath	0	0
+1.0	Koran	have	copy	O	MISC
+1.0	Representative-elect Keith Ellison	have	faith	O	O
+1.0	student	be in	college	0	0
+1.0	Representative-elect Keith Ellison	take	he private oath of office	0	0
+1.0	the first black US lawmaker from his state of Minnesota	be	black baseball player	0	0
+1.0	baseball legend Jackie Robinson	have	book	O	PERSON
+1.0	the first black US lawmaker from his state of Minnesota	be	baseball player	0	0
+1.0	ABC News	be in	broadcast	ORGANIZATION	0
+1.0	Representative-elect Keith Ellison	take	he private oath	0	0
+1.0	sport	in	major league	0	0
+1.0	Thomas Jefferson	be  at_time	Thursday	PERSON	DATE
+1.0	Representative-elect Keith Ellison	become	embroil	PERSON	0
+1.0	Representative-elect Keith Ellison	will take page from	book	0	0
+1.0	Representative-elect Keith Ellison	speak to	ABC News	PERSON	ORGANIZATION

@@ -1,0 +1,39 @@
+1.0	prisoner	be	kill	0	0
+0.08417186681517996	force	be subject of	exhibition in Vienna	0	LOCATION
+1.0	estimate prisoner	be	kill	0	0
+1.0	women	have	liberation	O	O
+1.0	Brandenburg Memorials	have	Foundation	ORGANIZATION	ORGANIZATION
+0.33669769426858	prisoner	be	allow	0	0
+1.0	male prisoner	be allow	visit	0	0
+1.0	encouraging sex	be with	woman	0	0
+0.08417186681517996	force	be subject of	exhibition in Vienna in 2005	0	LOCATION
+1.0	exhibition	have	subject	O	O
+1.0	40,000 prisoner	be	kill	NUMBER	0
+1.0	prisoner	be kill of	mistreatment	0	0
+0.33669769426858	male prisoner	be allow to	sex slave	0	0
+1.0	prisoner	be allow	visit	0	0
+1.0	prostitution	be in	concentration camp	0	0
+1.0	visit	boost	they productivity	0	0
+1.0	their	have	productivity	O	O
+1.0	system	be	little	0	0
+1.0	force prostitution system	be in	camp	0	0
+1.0	male prisoner	be allow visit to	sex slave	0	0
+1.0	system	be	known	0	0
+1.0	mistreatment	have	killed	O	O
+0.33669769426858	prisoner	be allow to	sex slave	0	0
+1.0	sex work	be in	nazi concentration camp	0	0
+0.33669769426858	male prisoner	be	allow	0	0
+1.0	prisoner	be allow visit to	sex slave	0	0
+1.0	estimate 40,000 prisoner	be kill of	mistreatment	NUMBER	0
+1.0	Vienna	be in	2005	LOCATION	DATE
+1.0	Male prisoners	have	camps	O	O
+0.08417186681517996	force	be subject of	exhibition	0	0
+1.0	disease	have	killed	O	O
+0.08417186681517996	force	be	subject	0	0
+1.0	exhibition	be in	Vienna	0	LOCATION
+1.0	The female prisoners who were forced to do sex work	have	experiences	O	O
+1.0	estimate prisoner	be kill of	mistreatment	0	0
+1.0	estimate 40,000 prisoner	be	kill	NUMBER	0
+1.0	Berlin	have	kilometers north	O	LOCATION
+1.0	women	have	Most	O	O
+1.0	40,000 prisoner	be kill of	mistreatment	NUMBER	0

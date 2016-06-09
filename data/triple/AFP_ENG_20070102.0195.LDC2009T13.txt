@@ -1,0 +1,26 @@
+1.0	first company	seek	compensation	ORDINAL	0
+1.0	top airline executicve	say at_time	Tuesday	0	DATE
+1.0	airline executicve	say at_time	Tuesday	0	DATE
+1.0	first company	seek	compensation for delivery delay	ORDINAL	0
+0.8625763634887544	Dubai-based airline Emirates	principal client for	a380	0	0
+1.0	The British newspaper The Observer reported in early October that Emirates had sought 223 million euros -LRB- 290 million dollars -RRB- from Airbus after the manufacturer	have	delivery delay	O	O
+0.8625763634887544	Dubai-based airline Emirates	client for	a380 with order for 43 plane	0	NUMBER
+1.0	Dubai-based airline Emirates	be	company	0	0
+1.0	us	have	orders	O	O
+1.0	Observer	report in	October	0	DATE
+1.0	Dubai-based airline Emirates	be	company publicly	0	0
+1.0	Observer	report in	early October	0	DATE
+1.0	Emirates operation	be in	France	0	LOCATION
+1.0	company	seek	compensation for delivery delay	0	0
+1.0	Dubai-based airline Emirates	client for	a380 with order	0	0
+0.8625763634887544	Dubai-based airline Emirates	client for	a380	0	0
+1.0	Dubai-based airline Emirates	be	first company	0	ORDINAL
+0.8625763634887544	Dubai-based airline Emirates	principal client for	a380 with order for plane	0	0
+0.8625763634887544	Dubai-based airline Emirates	client for	a380 with order for plane	0	0
+0.8625763634887544	Dubai-based airline Emirates	principal client for	a380 with order for 43 plane	0	NUMBER
+1.0	Dubai-based airline Emirates	be	first company publicly	0	ORDINAL
+1.0	Jean-Luc Grillet	director for	Emirates operation in France	PERSON	LOCATION
+1.0	company	seek	compensation	0	0
+1.0	world	have	airliner	O	O
+1.0	A380 superjumbo	have	delivery	O	O
+1.0	a380	be with	order for 43 plane	0	NUMBER

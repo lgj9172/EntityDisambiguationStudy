@@ -1,0 +1,87 @@
+1.0	Sajjad Ahmed Rana	be pakistani father of	Molly Campbell	PERSON	PERSON
+1.0	she	run	live	0	0
+1.0	woman 's lawyer	tell here	pakistani court	0	0
+1.0	The mother of a Scottish schoolgirl at the center of a custody battle	have	claim	O	O
+1.0	Misbah Iram Ahmad	be name of	muslim	PERSON	0
+1.0	Sajjad Ahmed Rana	take	telephone call	0	0
+1.0	Supreme Court	intervene at_time	month	ORGANIZATION	DATE
+1.0	the next week	for	hearing	DATE	0
+1.0	court	direct	party	0	0
+1.0	The girl	mother	Louise Campbell	0	PERSON
+1.0	schoolgirl	have	mother	O	O
+1.0	custody battle	have	center	O	O
+1.0	woman 's lawyer	tell	pakistani court	0	0
+1.0	she mother	say at_time	month	0	DATE
+1.0	Supreme Court	intervene in	drawn-out custody fight	ORGANIZATION	0
+1.0	she	run away	live	0	0
+1.0	court	bring	they proposal	0	0
+1.0	she	travel back to	Pakistan	0	LOCATION
+1.0	her daughter	have	mother	O	O
+1.0	woman 's lawyer	tell court at_time	Wednesday	0	DATE
+1.0	Molly , who is also known by the Muslim name Misbah Iram Ahmad	have	daughter	O	O
+1.0	woman 's lawyer	tell court here at_time	Wednesday	0	DATE
+1.0	Supreme Court	suspend	Lahore High Court order	ORGANIZATION	ORGANIZATION
+1.0	she	live with	she father	0	0
+1.0	Campbell	be subject to	marriage	ORGANIZATION	0
+1.0	Rana	have	lawyer	PERSON	0
+1.0	court	also direct	Sajjad Ahmed Rana	0	PERSON
+1.0	Sajjad Ahmed Rana	have	daughter	O	O
+1.0	Supreme Court	intervene in	custody fight	ORGANIZATION	0
+1.0	her	have	mother	O	O
+1.0	she	run away	live with she father	0	0
+1.0	woman 's lawyer	tell here	court	0	0
+1.0	her daughter	have	father	O	O
+1.0	she mother	say at_time	last month	0	DATE
+1.0	girl	spark	police investigation	0	0
+1.0	Lahore	have	city	O	LOCATION
+1.0	she	run away	live with she father in Pakistan	0	LOCATION
+1.0	country	have	Supreme Court	ORGANIZATION	O
+1.0	Supreme Court	intervene in	drawn-out international custody fight	ORGANIZATION	0
+1.0	country	have	Supreme Court	0	ORGANIZATION
+1.0	Her	have	mother	O	O
+1.0	she	run	live with she father	0	0
+1.0	Malik Muhammad Qayyum	have	client	O	O
+1.0	Supreme Court	intervene at_time	last month	ORGANIZATION	DATE
+1.0	Campbell	be	subject	ORGANIZATION	0
+1.0	she	live with	she father in Pakistan	0	LOCATION
+1.0	she mother	be in	Scotland	0	LOCATION
+1.0	phone	be in	Scotland	0	LOCATION
+1.0	woman 's lawyer	tell	court	0	0
+1.0	Campbell	tell	court	PERSON	0
+1.0	she	run away from	she mother 's home in Scotland	0	LOCATION
+1.0	mother	have	home	O	O
+1.0	Molly , who is also known by the Muslim name Misbah Iram Ahmad	have	mother	O	O
+1.0	girl	spark police investigation in	August 2006	0	DATE
+1.0	country 's Supreme Court	adjourn case till	January 17	ORGANIZATION	DATE
+1.0	Sajjad Ahmed Rana	take telephone call from	she mother	0	0
+1.0	Supreme Court	intervene in	international custody fight	ORGANIZATION	0
+1.0	court	have	settlement	O	O
+1.0	Molly Campbell	have	Pakistani father	PERSON	DATE
+1.0	she	run away from	she mother 's home	0	0
+1.0	her	have	back	O	O
+1.0	court	direct both	party	0	0
+1.0	Campbell	be subject to	muslim marriage	ORGANIZATION	0
+1.0	Molly Campbell	have	Pakistani father	O	PERSON
+1.0	Rana	have	appeal	O	PERSON
+1.0	Lahore High Court order	send	she back	ORGANIZATION	0
+1.0	Misbah Iram Ahmad	be by	muslim	PERSON	0
+1.0	week	have	hearing	O	DATE
+1.0	woman	have	lawyer	O	O
+1.0	she	run	live with she father in Pakistan	0	LOCATION
+1.0	Supreme Court	admit	Rana 's appeal	ORGANIZATION	PERSON
+1.0	woman	have	lawyer	0	0
+1.0	girl	spark	high-profile police investigation	0	0
+1.0	Campbell	be subject to	forced marriage	ORGANIZATION	0
+1.0	Rana	have	lawyer	O	PERSON
+1.0	the parties	have	proposals	O	O
+1.0	country 's Supreme Court	adjourn	case	ORGANIZATION	0
+1.0	court	direct	Sajjad Ahmed Rana	0	PERSON
+1.0	Campbell	be subject to	forced muslim marriage	ORGANIZATION	0
+1.0	Malik Muhammad Qayyum	be lawyer of	Rana	PERSON	PERSON
+1.0	Rana	have	appeal	PERSON	0
+1.0	mother	from	home in Scotland	0	LOCATION
+1.0	Naheeda Mahboob Illahi	be lawyer of	Campbell	PERSON	PERSON
+1.0	she father	be in	Pakistan	0	LOCATION
+1.0	she	run from	she mother 's home	0	0
+1.0	she	run from	she mother 's home in Scotland	0	LOCATION
+1.0	she mother 's home	be in	Scotland	0	LOCATION

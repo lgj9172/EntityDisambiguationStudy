@@ -1,0 +1,22 @@
+1.0	Bush	announce	plan	PERSON	0
+1.0	Kuwait	voice	support	LOCATION	0
+0.8625763634887544	Kuwait	rear-base for	coalition troops in Iraq	LOCATION	LOCATION
+1.0	Kuwait	voice support for	stabilisation plan	LOCATION	0
+1.0	mistake	be make in	Iraq	0	LOCATION
+1.0	Bush	be  at_time	Wednesday	PERSON	DATE
+1.0	coalition troops	be in	Iraq	0	LOCATION
+0.8625763634887544	Kuwait	rear-base for	coalition troops	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Kuwait	voice	terse support	LOCATION	0
+1.0	mistake	be	make	0	0
+1.0	Kuwait	have	neighbour	O	O
+0.8625763634887544	Kuwait	main rear-base for	coalition troops in Iraq	LOCATION	LOCATION
+1.0	Kuwait	voice support at_time	Thursday	LOCATION	DATE
+1.0	Bush	be in	televise speech	PERSON	0
+1.0	Kuwait	voice support for	new stabilisation plan	LOCATION	0
+1.0	Bush Wednesday	announce	plan	DATE	0
+1.0	Kuwait	rear-base for	coalition troops in Iraq	LOCATION	LOCATION
+0.8625763634887544	Kuwait	main rear-base for	coalition troops	LOCATION	0
+1.0	forces	have	Most	O	O
+1.0	ministry spokesman	tell	KUNA news agency	0	ORGANIZATION
+1.0	George W. Bush	be by	US	PERSON	LOCATION

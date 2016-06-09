@@ -1,0 +1,9 @@
+1.0	US President George W. Bush	will announce at_time	Friday	LOCATION	DATE
+1.0	offical Michael McConnell	will replace	he	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Michael McConnell	will replace	he	PERSON	0
+1.0	John Negroponte	be spy czar of	US	PERSON	LOCATION
+1.0	John Negroponte	be	US	PERSON	LOCATION
+1.0	US spy czar John Negroponte	become	number two	LOCATION	NUMBER
+1.0	US spy czar John Negroponte	become	number two at State Department	LOCATION	ORGANIZATION

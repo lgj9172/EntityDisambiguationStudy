@@ -1,0 +1,37 @@
+1.0	he	unveil	he new strategy	0	0
+1.0	US President George W. Bush	override	Congress 's objection	0	ORGANIZATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	interview	have	extract	O	O
+1.0	CBS	release extract at_time	Friday	ORGANIZATION	DATE
+1.0	US President George W. Bush	have	authority press without congressional backing	0	0
+1.0	US President George W. Bush	have	interview	O	PERSON
+1.0	CBS	release	extract	ORGANIZATION	0
+1.0	CBS	release	extract of Bush 's interview on its website	ORGANIZATION	PERSON
+1.0	US President George W. Bush	have	decision	O	O
+1.0	his	have	strategy	O	O
+1.0	US President George W. Bush	have	authority press ahead	0	0
+1.0	US President George W. Bush	have	authority press without backing	0	0
+1.0	its	have	website	O	O
+1.0	US President George W. Bush	have	authority	0	0
+1.0	criticism	have	barrage	O	O
+1.0	US President George W. Bush	go with	plan	0	0
+1.0	forces	have	commander-in-chief	O	O
+1.0	US President George W. Bush	make	my decision	0	0
+0.6669137336901703	CBS television	say at_time	Friday	ORGANIZATION	DATE
+1.0	Congress	have	objections	O	ORGANIZATION
+1.0	he	unveil	he strategy	0	0
+1.0	CBS	release	extract of Bush 's interview	ORGANIZATION	PERSON
+1.0	US President George W. Bush	have	authority press ahead without congressional backing	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US President George W. Bush	go ahead with	plan	0	0
+1.0	Congress	have	objection	ORGANIZATION	0
+1.0	US President George W. Bush	send	21,500 troops	0	NUMBER
+1.0	Bush	have face	barrage of criticism	PERSON	0
+1.0	US President George W. Bush	ask by	60 Minutes	PERSON	DURATION
+1.0	US President George W. Bush	have	authority press ahead without backing	0	0
+1.0	US President George W. Bush	of	interview on website	PERSON	0
+1.0	Bush	have face	barrage	PERSON	0
+1.0	Congress	stop	US President George W. Bush	ORGANIZATION	0
+1.0	US President George W. Bush	send	extra 21,500 troops	0	NUMBER
+1.0	US President George W. Bush	have	authority press	0	0
+1.0	US President George W. Bush	say	I think	PERSON	0

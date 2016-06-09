@@ -1,0 +1,35 @@
+1.0	Slawomir Skrzypek	abstain	one	PERSON	NUMBER
+1.0	lawmaker	endorse	ally of President Lech Kaczynski	0	PERSON
+1.0	Poland 's parliament	elect slawomir skrzypek as	head	LOCATION	0
+1.0	Poland 's parliament	elect slawomir skrzypek as	new head	LOCATION	0
+1.0	Poland 's parliament	elect	Slawomir Skrzypek	LOCATION	PERSON
+0.9503731633344196	Slawomir Skrzypek	ally of	President Lech Kaczynski	PERSON	PERSON
+1.0	Poland	have	parliament on Wednesday	LOCATION	DATE
+1.0	Poland 's parliament	elect	government 's little-known nominee	LOCATION	0
+1.0	conservative government	have	little-known nominee	0	0
+1.0	Poland 's parliament	elect	conservative government 's little-known nominee	LOCATION	0
+1.0	Poland 's parliament	elect	government 's nominee	LOCATION	0
+1.0	Slawomir Skrzypek	nominee 's	conservative government	PERSON	0
+1.0	239 lawmaker	endorse	long-standing ally of President Lech Kaczynski	NUMBER	DURATION
+1.0	239 lawmaker	endorse	Slawomir Skrzypek	NUMBER	PERSON
+1.0	lawmaker	endorse	long-standing ally of President Lech Kaczynski	0	DURATION
+1.0	239 lawmaker	endorse	ally of President Lech Kaczynski	NUMBER	PERSON
+1.0	bank	have	head	O	O
+1.0	Poland 's parliament	elect slawomir skrzypek as	new head of country 's central bank	LOCATION	0
+1.0	country	have	bank	O	O
+1.0	Poland 's parliament	elect	conservative government 's nominee	LOCATION	0
+1.0	President Lech Kaczynski	have	ally	O	PERSON
+1.0	Poland	have	parliament	O	LOCATION
+1.0	239 lawmaker	endorse	long-standing ally	NUMBER	DURATION
+1.0	2005	have	end	DATE	DATE
+1.0	Poland 's parliament	elect slawomir skrzypek as	head of country 's central bank	LOCATION	0
+1.0	government	have	nominee	O	O
+1.0	lawmaker	endorse	Slawomir Skrzypek	0	PERSON
+1.0	lawmaker	endorse	ally	0	0
+1.0	Poland 's parliament	elect slawomir skrzypek as	new head of country 's bank	LOCATION	0
+1.0	country	of	central bank	0	0
+1.0	239 lawmaker	endorse	ally	NUMBER	0
+1.0	lawmaker	endorse	long-standing ally	0	DURATION
+1.0	Slawomir Skrzypek	ally of	Lech Kaczynski	PERSON	PERSON
+1.0	Poland 's parliament	elect slawomir skrzypek as	head of country 's bank	LOCATION	0
+0.9503731633344196	Slawomir Skrzypek	long-standing ally of	President Lech Kaczynski	PERSON	PERSON

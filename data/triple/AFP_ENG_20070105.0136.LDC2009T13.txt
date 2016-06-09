@@ -1,0 +1,105 @@
+1.0	people	die of	starvation	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	day before anniversary	PERSON	0
+1.0	potential defendant	have	so far have arrest	0	0
+1.0	potential defendant	have	far have arrest for crime commit	0	0
+1.0	other former regime leader	be expect	call before UN	0	ORGANIZATION
+1.0	Cambodian Prime Minister Hun Sen	say	day before 28th anniversary of toppling	PERSON	ORDINAL
+1.0	Cambodian Prime Minister Hun Sen	say	just day before 28th anniversary of toppling	PERSON	ORDINAL
+1.0	people	be execute during	1975-1979 rule	0	DURATION
+1.0	foreign judge	fail	agree	0	0
+1.0	Pol Pot	be leader of	the Khmer Rouge	PERSON	ORGANIZATION
+1.0	other former regime leader	be expect	call before joint UN	0	ORGANIZATION
+1.0	other former regime leader	remain	free in Cambodia	0	LOCATION
+1.0	former Khmer Rouge leader	be	bring to justice amid concern	ORGANIZATION	0
+1.0	potential defendant	have	so far have arrest for crime commit	0	0
+1.0	potential defendant	have	far have arrest	0	0
+1.0	people	be execute during	1975-1979 rule of communist	0	DURATION
+1.0	several other former regime leader	be	expect	0	0
+0.6192597711508598	tribunal	prosecute	top regime cadre	0	0
+1.0	cambodian Prime Minister Hun Sen	demand at_time	Friday	PERSON	DATE
+1.0	co-prosecutor	build case at_time	last year	0	DATE
+1.0	Cambodian Prime Minister Hun Sen	say	day	PERSON	0
+1.0	potential defendant	have	have arrest for crime commit during regime 's brutal rule	0	0
+1.0	judge	fail	agree	0	0
+1.0	potential defendant	have	far have arrest for crime	0	0
+1.0	several other former regime leader	be expect	call	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	just day before 28th anniversary of toppling of Khmer Rouge	PERSON	ORDINAL
+1.0	other elderly regime cadre	be	bring	0	0
+1.0	former Khmer Rouge leader	be bring to	justice	ORGANIZATION	0
+1.0	toppling	have	anniversary	O	O
+1.0	potential defendant	have	far have arrest for crime commit during regime 's rule	0	0
+1.0	legal observer	warn of	interference	DURATION	0
+1.0	several former regime leader	be	expect	0	0
+1.0	observer	warn of	interference	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	just day	PERSON	0
+1.0	several other former regime leader	be expect	call before UN	0	ORGANIZATION
+1.0	Khmer Rouge	have	toppling	O	ORGANIZATION
+1.0	co-prosecutor	build	case	0	0
+1.0	potential defendant	have	have arrest for crime	0	0
+1.0	regime	have	rule	O	O
+1.0	several former regime leader	be expect	call	0	0
+1.0	former Khmer Rouge leader	be bring amid	concern	ORGANIZATION	0
+1.0	several other former regime leaders	have	victims	O	O
+1.0	legal observer	warn of	political interference	DURATION	DURATION
+1.0	tribunal	run into	trouble	0	0
+1.0	several former regime leader	be expect	call before joint UN	0	ORGANIZATION
+1.0	potential defendant	have	far have arrest for crime commit during regime 's brutal rule	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	day before anniversary of toppling of Khmer Rouge	PERSON	ORGANIZATION
+1.0	former regime leader	remain	free	0	0
+1.0	Hun Sen	be	cambodian	PERSON	0
+1.0	several other former regime leader	remain	free in Cambodia	0	LOCATION
+1.0	several former regime leader	be expect	call before UN	0	ORGANIZATION
+1.0	negotiations	have	decade	DURATION	O
+0.7415393125550582	tribunal	just month after	open	0	0
+1.0	communist	have	rule	O	O
+1.0	Cambodian Prime Minister Hun Sen	say	just day before 28th anniversary	PERSON	ORDINAL
+1.0	Cambodian Prime Minister Hun Sen	say	just day before anniversary of toppling of Khmer Rouge	PERSON	ORGANIZATION
+1.0	former regime leader	be expect	call before joint UN	0	ORGANIZATION
+1.0	potential defendant	have	have arrest for crime commit	0	0
+1.0	several former regime leader	remain	free in Cambodia	0	LOCATION
+1.0	several other former regime leader	remain	free	0	0
+0.6192597711508598	tribunal	prosecute	regime cadre	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	day before 28th anniversary of toppling of Khmer Rouge	PERSON	ORDINAL
+1.0	regime cadre	be	bring	0	0
+1.0	regime cadre	be bring to	justice	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	day before anniversary of toppling	PERSON	0
+1.0	other former regime leader	be	expect	0	0
+1.0	Khmer Rouge leader Pol Pot	die in	1998	PERSON	DATE
+1.0	several other former regime leader	be expect	call before joint UN	0	ORGANIZATION
+1.0	observer	warn of	political interference	0	DURATION
+1.0	former regime leader	remain	free in Cambodia	0	LOCATION
+1.0	tribunal	soon run into	trouble	0	0
+1.0	potential defendant	have	so far have arrest for crime	0	0
+1.0	foot-dragging	have	accused	O	O
+1.0	Cambodian Prime Minister Hun Sen	say on	state radio	PERSON	0
+1.0	regime	during	brutal rule	0	0
+1.0	starvation	have	died	O	O
+1.0	Prime Minister Hun Sen	demand at_time	Friday	PERSON	DATE
+1.0	people	die of	overwork	0	0
+1.0	other elderly regime cadre	be bring to	justice	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	just day before anniversary of toppling	PERSON	0
+1.0	interference	have	warned	O	O
+1.0	Cambodian Prime Minister Hun Sen	say	day before 28th anniversary	PERSON	ORDINAL
+1.0	former Khmer Rouge leader	be	bring	ORGANIZATION	0
+1.0	co-prosecutor	build case at_time	year	0	DATE
+1.0	potential defendant	have	have arrest	0	0
+0.7415393125550582	tribunal	month after	open	0	0
+1.0	co-prosecutor	build	case against possible defendant	0	0
+1.0	former regime leader	be expect	call	0	0
+1.0	other regime cadre	be bring to	justice	0	0
+1.0	potential defendant	have	so far have arrest for crime commit during regime 's rule	0	0
+1.0	former regime leader	be expect	call before UN	0	ORGANIZATION
+1.0	elderly regime cadre	be	bring	0	0
+1.0	other former regime leader	remain	free	0	0
+1.0	elderly regime cadre	be bring to	justice	0	0
+1.0	potential defendant	have	have arrest for crime commit during regime 's rule	0	0
+1.0	other regime cadre	be	bring	0	0
+1.0	Cambodian Prime Minister Hun Sen	say	just day before anniversary	PERSON	0
+1.0	Cambodian Prime Minister Hun Sen	say in	speech broadcast	PERSON	0
+1.0	other former regime leader	be expect	call	0	0
+1.0	former regime leader	be	expect	0	0
+1.0	Pol Pot genocide	have	leaders	O	O
+1.0	several former regime leader	remain	free	0	0
+1.0	Pol Pot	be	the Khmer Rouge	PERSON	ORGANIZATION
+1.0	people	be	execute	0	0
+1.0	potential defendant	have	so far have arrest for crime commit during regime 's brutal rule	0	0

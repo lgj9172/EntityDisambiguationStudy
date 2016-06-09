@@ -1,0 +1,50 @@
+1.0	Tamils	be in	north	MISC	0
+1.0	military	claim in	statement on Thursday	0	DATE
+1.0	military	claim in	separate statement on Thursday	0	DATE
+1.0	conflict	have claim since	1972	0	DATE
+1.0	military commander	discuss	troop deployment	0	0
+1.0	Army Commander Lieutenant General Sarath Fonseka	be	Army	PERSON	ORGANIZATION
+1.0	top military commander	discuss	troop deployment	0	0
+1.0	top military commander	visit east	embattled	0	0
+1.0	commander	visit east	embattled	0	0
+1.0	Tamil Eelam	have	rebel Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	majority country	have	regions	O	O
+1.0	have place	be with	3,800	0	NUMBER
+1.0	Army Commander Lieutenant General Sarath Fonseka	be commander lieutenant general of	Army	PERSON	ORGANIZATION
+1.0	military official	say at_time	Thursday	0	DATE
+1.0	top military commander	visit	embattled	0	0
+1.0	two	be hurt in	attack blame	NUMBER	0
+1.0	commander	visit	embattled	0	0
+1.0	military commander	visit east	embattled	0	0
+1.0	ltte	have exchange	heavy artillery in east	0	0
+1.0	ltte	have exchange	artillery in east	0	0
+1.0	ltte	have exchange	artillery	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	commander	discuss	troop deployment	0	0
+1.0	heavy artillery	be in	east	0	0
+1.0	top commander	visit east	embattled	0	0
+1.0	top commander	visit	embattled	0	0
+1.0	terrorist claymore mine attack	be in	Sri Lanka	0	LOCATION
+1.0	two	be hurt in	attack blame on rebel Liberation Tigers of Tamil Eelam	NUMBER	ORGANIZATION
+1.0	military	claim in	separate statement	0	0
+1.0	Tigers	lose	2,108 cadre	ORGANIZATION	NUMBER
+1.0	their	have	strength	O	O
+1.0	even more	be	injure	0	0
+1.0	ltte	have exchange	heavy artillery	0	0
+1.0	military	claim in	statement	0	0
+1.0	ltte	have exchange artillery since	start of December	0	DATE
+1.0	police spokesman	say at	Vavuniya	0	LOCATION
+1.0	The LTTE	have	forces	O	O
+1.0	police spokesman	say at	160 mile	0	NUMBER
+1.0	ltte	have exchange artillery since	start	0	DATE
+1.0	forces	have	quarter	DATE	O
+1.0	two	be hurt in	attack blame on rebel Liberation Tigers	NUMBER	ORGANIZATION
+1.0	two	be	hurt	NUMBER	0
+1.0	military commander	visit	embattled	0	0
+1.0	police spokesman	say at	256 kilometre	0	NUMBER
+1.0	December	have	start	DATE	DATE
+1.0	top commander	discuss	troop deployment	0	0
+1.0	defence ministry spokesman	be in	the capital Colombo	0	LOCATION
+1.0	Tigers	reportedly lose	2,108 cadre	ORGANIZATION	NUMBER
+1.0	capital Colombo	have	north	O	LOCATION
+1.0	two	be hurt in	attack	NUMBER	0

@@ -1,0 +1,50 @@
+1.0	place	result in	further casualty in part of country	0	0
+1.0	capture fighter	be in	area	0	0
+1.0	place	result in	casualty	0	0
+0.8082534205887677	civilian	casualty from	Monday 's US raid	0	LOCATION
+1.0	Red Cross	have	International Committee	ORGANIZATION	ORGANIZATION
+1.0	fighting	have	heart	O	O
+1.0	International Committee	reiterate call on	party	ORGANIZATION	0
+1.0	Ethiopia	send troops into	Somalia	LOCATION	LOCATION
+1.0	helicopter	launch attack in	south	0	0
+1.0	fighting	be in	Somalia	0	LOCATION
+1.0	place	result in	casualty in part of country	0	0
+1.0	ethiopian helicopter	launch attack in	south	0	0
+1.0	clinic	be in	somalia	0	0
+1.0	Ethiopia	send	troops	LOCATION	0
+1.0	helicopter	launch	other attack	0	0
+1.0	fighting	have	victims	O	O
+1.0	victims	have	number	O	O
+1.0	place	result in	casualty in part	0	0
+1.0	capture fighter	be	treat humanely	0	0
+1.0	place	result in	further casualty	0	0
+1.0	hospital	have	heart	O	O
+1.0	Monday	from	US raid	DATE	LOCATION
+1.0	country	have	part	O	O
+1.0	place	result in	further casualty in southern part	0	0
+1.0	place	result in	further casualty in southern part of country	0	0
+1.0	ethiopian helicopter	be	believe	0	0
+1.0	US official	say at_time	Thursday	LOCATION	DATE
+1.0	senior US official	say at_time	Thursday	LOCATION	DATE
+1.0	ethiopian helicopter	launch	attack	0	0
+1.0	days	have	journey	O	DURATION
+1.0	capture fighter	be	treat	0	0
+1.0	place	result in	further casualty in part	0	0
+1.0	Meles Zenawi	be	ethiopian	PERSON	0
+1.0	helicopter	be	believe	0	0
+1.0	further casualty	be in	southern part of country	0	0
+1.0	Ethiopia	back	government	LOCATION	0
+1.0	place	result in	casualty in southern part	0	0
+1.0	three top Al-Qaeda suspect	be in	Somalia	NUMBER	LOCATION
+1.0	place	result in	casualty in southern part of country	0	0
+1.0	Ethiopia	send troops at_time	last month	LOCATION	DATE
+1.0	Al-Qaeda suspects	have	none	O	O
+1.0	Monday	have	US raid	O	DATE
+1.0	grow toll	be in	Somalia	0	LOCATION
+1.0	ethiopian helicopter	launch	other attack	0	0
+1.0	Kismayo	have	city	O	LOCATION
+1.0	helicopter	launch	attack	0	0
+1.0	agency	say in	statement	0	0
+1.0	Ethiopia	send troops at_time	month	LOCATION	DATE
+1.0	population	have	plight	O	O
+1.0	Ethiopia	back	transitional government	LOCATION	0

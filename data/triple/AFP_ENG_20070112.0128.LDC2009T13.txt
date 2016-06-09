@@ -1,0 +1,58 @@
+1.0	bonds	have	issue	O	O
+1.0	bank	be	higher	0	0
+1.0	losses	have	some	O	O
+1.0	bank	be also higher with	hsbc at 139.40	0	NUMBER
+1.0	bank	be also higher with	hsbc up 0.40 at 139.40	0	NUMBER
+0.6053639497982628	firm	list in	Hong Kong	0	LOCATION
+1.0	bank	be also higher with	hsbc	0	0
+1.0	its	have	cue	O	O
+1.0	bank	be also higher with	hsbc up 0.40	0	NUMBER
+1.0	hsbc	be at	139.40	0	NUMBER
+1.0	bank	be higher with	hsbc up 0.40	0	NUMBER
+1.0	laggards	have	Wall Street buying	O	O
+1.0	bank	be also higher with	Hang Seng Bank	0	ORGANIZATION
+1.0	mainland	from	approval for issue of yuan-denominated bond	0	0
+1.0	bank	be higher with	hsbc up 0.40 at 139.40	0	NUMBER
+1.0	bank	be higher with	Hang Seng Bank	0	ORGANIZATION
+1.0	activity	make	trading volatile	0	0
+1.0	mainland	have	performance	O	O
+1.0	local bank	be also higher with	Hang Seng Bank	0	ORGANIZATION
+1.0	Hang Seng Index	close up at	19,613.41	MISC	NUMBER
+1.0	local bank	be also higher with	hsbc at 139.40	0	NUMBER
+1.0	H-shares	have	Wall Street buying	O	O
+1.0	mainland	have	approval	O	O
+1.0	its	have	losses	O	O
+1.0	local bank	be also higher with	hsbc up 0.40	0	NUMBER
+1.0	local bank	be	also higher	0	0
+1.0	Hang Seng China Enterprises Index	be at	up 9,674.41	MISC	NUMBER
+1.0	East Asia	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	local bank	be higher with	hsbc	0	0
+0.6305754610280342	China Construction	close up to	4.72	ORGANIZATION	NUMBER
+0.28627611980559997	China Mobile	rise among	large-cap	ORGANIZATION	0
+1.0	Hang Seng Index	close up off	low of 19,523.76	MISC	NUMBER
+1.0	local bank	be also higher with	hsbc up 0.40 at 139.40	0	NUMBER
+1.0	futures-related activity	make	trading volatile	0	0
+1.0	Hang Seng Index	close at	19,613.41	MISC	NUMBER
+1.0	local bank	be higher with	hsbc at 139.40	0	NUMBER
+1.0	low	have	closed	O	O
+1.0	bank	be	also higher	0	0
+1.0	high	have	closed	O	O
+1.0	bank	be higher with	hsbc	0	0
+1.0	China Life	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	she	say	add	0	0
+1.0	Hang Seng Index	close off	low	MISC	0
+1.0	local bank	be higher with	Hang Seng Bank	0	ORGANIZATION
+1.0	bank	be higher with	hsbc at 139.40	0	NUMBER
+1.0	local bank	be	higher	0	0
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Hang Seng Index	close up off	low	MISC	0
+1.0	Hang Seng Index	close off	low of 19,523.76	MISC	NUMBER
+1.0	Kitty Chan	director at	Celestial Asia Securities	PERSON	ORGANIZATION
+1.0	19,523.76	have	low	O	NUMBER
+1.0	19,680.63	have	high	O	NUMBER
+1.0	local bank	be higher with	hsbc up 0.40 at 139.40	0	NUMBER
+1.0	local bank	be also higher with	hsbc	0	0
+1.0	turnover	be	56 billion Hong Kong dollar	0	LOCATION
+0.6305754610280342	China Construction	close to	4.72	ORGANIZATION	NUMBER
+1.0	local bank	be higher with	hsbc up 0.40	0	NUMBER
+1.0	Hang Seng China Enterprises Index	be at	up 162.95 point 9,674.41	MISC	NUMBER

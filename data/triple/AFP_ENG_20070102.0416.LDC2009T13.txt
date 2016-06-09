@@ -1,0 +1,13 @@
+1.0	financial market	be in	China	0	LOCATION
+1.0	market	be close at_time	Wednesday	0	DATE
+1.0	financial market	be	close Wednesday for public holiday	0	DATE
+1.0	financial market	be	close	0	0
+1.0	market	be close for	public holiday	0	0
+1.0	market	be	close Wednesday for public holiday	0	DATE
+1.0	market	be close for	holiday	0	0
+1.0	financial market	be close for	holiday	0	0
+1.0	financial market	be close at_time	Wednesday	0	DATE
+1.0	market	be	close Wednesday for holiday	0	DATE
+1.0	market	be	close	0	0
+1.0	financial market	be close for	public holiday	0	0
+1.0	financial market	be	close Wednesday for holiday	0	DATE

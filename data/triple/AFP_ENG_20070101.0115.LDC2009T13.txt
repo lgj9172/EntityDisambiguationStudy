@@ -1,0 +1,24 @@
+1.0	Khafaji	of	guard	PERSON	0
+1.0	Al	have	hideout	O	ORGANIZATION
+1.0	iraqi security official	give	version	0	0
+1.0	those	have	result	O	O
+1.0	the Al	say	add	0	0
+1.0	Saleh al-Mutlaq	head of	National Dialogue front	PERSON	ORGANIZATION
+1.0	buildings	have	top	O	O
+1.0	iraqi security official	give	different version	0	0
+1.0	lawmaker Salama al-Khafaji	have	those	O	PERSON
+1.0	guards	have	two	NUMBER	O
+1.0	security official	give	version	0	0
+1.0	US military	say in	statement	LOCATION	0
+1.0	senior Sunni lawmaker	be in	Iraq	MISC	LOCATION
+1.0	National Dialogue Front	have	head	O	ORGANIZATION
+1.0	security official	give	different version	0	0
+1.0	Salama al-Khafaji	be of	shiite	PERSON	0
+1.0	Khafaji	have	guards	O	PERSON
+1.0	Mutlaq	have	guards	O	PERSON
+1.0	family	have	members	O	O
+1.0	buildings	have	One	NUMBER	O
+1.0	clashes	have	result	O	O
+1.0	Baghdad	have	Al-Jamel neighbourhood	O	LOCATION
+1.0	Al Qaeda	be in	Iraq insurgent group	ORGANIZATION	LOCATION
+1.0	Mutlaq	between	guard	PERSON	0

@@ -1,0 +1,11 @@
+1.0	club	say at_time	Tuesday	0	DATE
+1.0	Perpignan	to	hope qualify for quarter-final	LOCATION	0
+1.0	Perpignan	have	hopes	O	LOCATION
+1.0	Perpignan	out of	european Cup tie against Wasps	LOCATION	MISC
+1.0	David Marty	be advise	rest for week	PERSON	DURATION
+1.0	David Marty	be	advise	PERSON	DURATION
+1.0	Perpignan	have	Cup tie	O	LOCATION
+1.0	Cup tie	have	Saturday	DATE	O
+1.0	David Marty	be on	Saturday	PERSON	DATE
+1.0	David Marty	have tear	calf muscle	PERSON	DURATION
+1.0	David Marty	be advise	rest	PERSON	0

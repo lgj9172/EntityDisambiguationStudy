@@ -1,0 +1,30 @@
+1.0	conservative Popular Party	have	slogan	O	O
+1.0	pp	fiercely oppose	Socialist premier 's effort	0	0
+1.0	we	demand	end to violence	0	0
+1.0	rally	have	intended	O	O
+1.0	Bilbao	have	city	O	LOCATION
+1.0	pp	oppose	Socialist premier 's effort	0	0
+1.0	ETA	be by	basque	ORGANIZATION	0
+1.0	his	have	policies	O	O
+1.0	evening	government at_time	Juan Jose Ibarretxe	TIME	PERSON
+1.0	rallies	have	one	NUMBER	O
+0.7757723773065389	we	end to	violence	0	0
+1.0	we	demand	end	0	0
+1.0	group	announce	permanent ceasefire	0	0
+1.0	group	announce ceasefire on	March 22	0	DATE
+1.0	second	have also expose	division	ORDINAL	0
+1.0	group	announce	ceasefire	0	0
+1.0	Socialist premier	have	effort secure with ETA	0	ORGANIZATION
+1.0	PSE	have	members	O	ORGANIZATION
+1.0	Batasuna	attend at_time	Bilbao march	ORGANIZATION	DATE
+1.0	Socialist premier	have	efforts	O	O
+1.0	PP	have	secretary	O	O
+1.0	Bilbao	have	version	O	ORGANIZATION
+1.0	Batasuna	prompt member to	reassess	ORGANIZATION	0
+1.0	government	have	head	O	O
+1.0	Thursday	on government be	Juan Jose Ibarretxe	DATE	PERSON
+1.0	clear call	defeat	armed Basque separatist group ETA which killed two people	0	0
+1.0	second	have expose	division	ORDINAL	0
+1.0	ETA	have	ban political wing	ORGANIZATION	0
+1.0	we	demand end from	ETA	0	ORGANIZATION
+1.0	ETA	have	wing	O	ORGANIZATION

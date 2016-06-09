@@ -1,0 +1,109 @@
+1.0	embattled US president	number in	cellar	LOCATION	0
+1.0	Staff	have	Joint Chiefs	ORGANIZATION	ORGANIZATION
+1.0	National Security Agency	have	head	O	ORGANIZATION
+1.0	tour	accelerate	plan deployment	0	0
+1.0	Lieutenant General David Petraeus	would replace general george casey in	post-Saddam Hussein Iraq	PERSON	LOCATION
+1.0	US Central Command	have	head	O	ORGANIZATION
+1.0	he	unveil	he approach	0	0
+1.0	US president	say at_time	late Thursday	LOCATION	DATE
+1.0	William Fallon	head of	US force in Pacific	PERSON	LOCATION
+1.0	John Abizaid	be	55	PERSON	NUMBER
+1.0	Hussein Iraq	be to	post-saddam	LOCATION	0
+1.0	ABC television	report	major US print media	ORGANIZATION	LOCATION
+1.0	war	be in	post-Saddam Hussein Iraq	0	LOCATION
+1.0	US military presence	be in	post-Saddam Hussein Iraq	LOCATION	LOCATION
+1.0	mission	be	accomplish	0	0
+1.0	Maliki	have	government	O	PERSON
+1.0	Bush	be in	White House ceremony	PERSON	ORGANIZATION
+0.16370106347828794	admiral William Fallon	would replace	retire	PERSON	0
+0.9629609649487528	post	vacant since at_time	July 2006	0	DATE
+1.0	spy chief	fill	top vacancy	0	0
+1.0	Donald Rumsfeld	be after	democrat	PERSON	0
+1.0	US forces	have	head	O	O
+1.0	US President George W. Bush	name	new spy chief	LOCATION	0
+1.0	all-volunteer US military	be	already stretch	LOCATION	0
+1.0	coalition forces	have	charge	O	O
+1.0	State Department	have	one	NUMBER	ORGANIZATION
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	US president	have	aides	O	O
+1.0	The embattled US president	visit	german Chancellor Angela Merkel	0	PERSON
+1.0	diplomat John Bolton	have	departure	O	PERSON
+1.0	US military	be	stretch	LOCATION	0
+1.0	new spy chief	fill	vacancy	0	0
+1.0	US President George W. Bush	name	spy chief	LOCATION	0
+0.9629609649487528	key post	vacant since at_time	July 2006	0	DATE
+1.0	Bush	nominate	director	PERSON	0
+1.0	deputy	have	US Secretary	O	O
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	embattled US president	say at_time	late Thursday	LOCATION	DATE
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	spy chief	fill	diplomatic vacancy	0	0
+1.0	The embattled US president	have	strategy	O	O
+1.0	embattled US president	say at_time	Thursday	LOCATION	DATE
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	he	unveil	he new approach	0	0
+1.0	intelligence John Negroponte	have	director	O	PERSON
+1.0	Post	report	cite	ORGANIZATION	0
+1.0	unpopular war	be in	post-Saddam Hussein Iraq	0	LOCATION
+1.0	spy chief	fill	top diplomatic vacancy	0	0
+1.0	things	have	one	NUMBER	O
+1.0	duty reserve units	have	tours	O	O
+1.0	new spy chief	fill	diplomatic vacancy	0	0
+1.0	Bush	dump	defense secretary Donald Rumsfeld	0	PERSON
+1.0	Bush	have	plans	O	O
+1.0	The embattled US president	have	job approval numbers	O	O
+1.0	John Abizaid	be at	Central command	PERSON	ORGANIZATION
+1.0	Lieutenant General David Petraeus	would replace	General George Casey	PERSON	PERSON
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	The embattled US president	make	sure	0	0
+1.0	Bush	be	Negroponte	PERSON	PERSON
+1.0	mission	be	clear	0	0
+1.0	Khalilzad	be in	Baghdad	PERSON	LOCATION
+1.0	a new spy chief	put touch on	strategy for unpopular war	0	0
+1.0	Lieutenant General David Petraeus	would replace	General George Casey as man	PERSON	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	The embattled US president	visit	Chancellor Angela Merkel	0	PERSON
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	official	familiar with	debate	0	0
+1.0	his	have	approach	O	O
+1.0	a new spy chief	put touch on	retooled strategy for unpopular war	0	0
+1.0	a new spy chief	put	touch	0	0
+1.0	country	have	objective	O	O
+0.9629609649487528	post	vacant at_time	July 2006	0	DATE
+1.0	Bush	nominate	director of intelligence John Negroponte	PERSON	PERSON
+1.0	a new spy chief	put touch on	strategy	0	0
+1.0	a new spy chief	put touch on	retooled strategy for war	0	0
+1.0	US president	have	top aide	LOCATION	0
+1.0	US force	be in	Pacific	LOCATION	LOCATION
+1.0	top US military commander	be in	Iraq	LOCATION	LOCATION
+1.0	Bush	reveal	he plan	PERSON	0
+1.0	US president	say at_time	Thursday	LOCATION	DATE
+1.0	The embattled US president	say after	talk	0	0
+1.0	US	have	charge	O	LOCATION
+1.0	a new spy chief	put touch on	strategy for war	0	0
+1.0	US Congress	be in	November election	ORGANIZATION	DATE
+1.0	a new spy chief	put	last touch	0	0
+1.0	US military	be	already stretch	LOCATION	0
+1.0	all-volunteer US military	be	stretch	LOCATION	0
+1.0	Bush	dump	defense secretary Donald Rumsfeld after opposition democrat	0	PERSON
+1.0	a new spy chief	put touch in	post-Saddam Hussein Iraq	0	LOCATION
+1.0	new spy chief	fill	top vacancy	0	0
+1.0	reshuffle	come at_time	day	0	0
+1.0	new spy chief	fill	top diplomatic vacancy	0	0
+0.9629609649487528	key post	vacant at_time	July 2006	0	DATE
+1.0	Post	cite	official familiar	ORGANIZATION	0
+1.0	spy chief	fill	vacancy	0	0
+1.0	Pakistan	be since	November 2004	LOCATION	DATE
+1.0	Ryan Crocker	be	57	PERSON	NUMBER
+1.0	tour	accelerate	deployment	0	0
+1.0	Condoleezza Rice	be 's	State Department 's	PERSON	ORGANIZATION
+1.0	Post	cite	official familiar with debate	ORGANIZATION	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	a new spy chief	put touch on	retooled strategy	0	0
+1.0	he job approval number	be in	cellar	0	0
+1.0	Maliki	have	government	PERSON	0
+1.0	US spy agencies	have	head	O	O
+1.0	Bush	nominate	director of national intelligence John Negroponte	PERSON	PERSON
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	Maliki	have	reliability	O	PERSON
+1.0	Maliki	over	reliability	PERSON	0

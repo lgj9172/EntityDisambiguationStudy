@@ -1,0 +1,101 @@
+1.0	probe	be	set	0	0
+1.0	congolese trial	be	dismiss	0	0
+1.0	appeal	have	court	O	O
+1.0	the case	have	judiciary	O	O
+1.0	french probe	be set	resume follow ruling	0	0
+1.0	350 refugees believed to have been massacred in Congo in 1999	escape	civil war	0	0
+1.0	french probe	resume follow	ruling Wednesday by France 's highest court of appeal	0	LOCATION
+1.0	french probe	resume follow	ruling by France 's highest court	0	LOCATION
+1.0	353 people	disappear accord to	rights group	NUMBER	0
+0.8401152493963767	Congo 's police chief Jean-Francois Ndengue	charge of	crime	LOCATION	0
+1.0	french probe	resume follow	ruling by France 's court of appeal	0	LOCATION
+1.0	probe	be set	resume follow ruling Wednesday by France 's court of appeal	0	LOCATION
+1.0	french probe	be set	resume follow ruling by France 's highest court of appeal	0	LOCATION
+1.0	congolese trial	be dismiss by	rights group	0	0
+1.0	trial	be dismiss as	farce	0	0
+1.0	Cour de Cassation	overturn	2004 decision	ORGANIZATION	DATE
+1.0	those	have	one	NUMBER	O
+1.0	Brazzaville	have	High Court	LOCATION	0
+1.0	french probe	be set	resume follow ruling Wednesday by France 's court	0	LOCATION
+1.0	score	be arrest at	Congo river port	0	LOCATION
+1.0	people	disappear accord to	rights group	0	0
+1.0	probe	be set	resume follow ruling by France 's highest court of appeal	0	LOCATION
+1.0	french probe	resume follow	ruling Wednesday by France 's highest court	0	LOCATION
+1.0	french probe	resume follow	ruling Wednesday	0	DATE
+1.0	inquiry	follow action by	family of victim	0	0
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	people	disappear	have apparently tortured	0	0
+1.0	french probe	resume follow	ruling by France 's court	0	LOCATION
+1.0	France	have	court	O	LOCATION
+1.0	probe	be set	resume follow ruling by France 's highest court	0	LOCATION
+1.0	inquiry	make	possible	0	0
+1.0	people	disappear in	May 1999	0	DATE
+1.0	Brazzaville	have	High Court	O	LOCATION
+1.0	french probe	be set	resume follow ruling Wednesday by France 's court of appeal	0	LOCATION
+1.0	Brazzaville 's High Court	do order	state	LOCATION	0
+1.0	inquiry	follow action by	family	0	0
+1.0	congolese trial	be	dismiss as farce by rights group	0	0
+1.0	Brazzaville 's High Court	have	duty	O	O
+1.0	Cour Cassation	overturn	2004 decision	ORGANIZATION	DATE
+1.0	probe	resume follow	ruling by France 's highest court of appeal	0	LOCATION
+1.0	probe	be set	resume	0	0
+1.0	probe	resume follow	ruling Wednesday by France 's highest court	0	LOCATION
+1.0	353 people	disappear	have apparently tortured	NUMBER	0
+1.0	french probe	be set	resume follow ruling Wednesday by France 's highest court	0	LOCATION
+1.0	french probe	resume follow	ruling	0	0
+1.0	congolese trial	be dismiss as	farce	0	0
+1.0	score	be	arrest	0	0
+1.0	the victims ' families	have	journey home	O	O
+1.0	judiciary	have	test	O	O
+1.0	Brazzaville Beach	have	Congo river port	O	LOCATION
+1.0	french probe	be set	resume	0	0
+1.0	crimes	have	charges	O	O
+1.0	Congo	have	Jean-Francois Ndengue	LOCATION	PERSON
+1.0	probe	be set	resume follow ruling by France 's court of appeal	0	LOCATION
+1.0	Congo	have	police chief Jean-Francois Ndengue	PERSON	LOCATION
+1.0	victims	have	families	O	O
+1.0	Congo 's police chief Jean-Francois Ndengue	face charge against	humanity	LOCATION	0
+1.0	score	be arrest on	suspicion	0	0
+1.0	President Denis Sassou Nguesso	have	authorities	O	PERSON
+1.0	probe	resume follow	ruling Wednesday	0	DATE
+1.0	probe	resume follow	ruling Wednesday by France 's court of appeal	0	LOCATION
+1.0	353 people	disappear	have tortured	NUMBER	0
+1.0	Brazzaville 's High Court	do however order	state	LOCATION	0
+1.0	french probe	resume follow	ruling Wednesday by France 's court	0	LOCATION
+1.0	probe	resume follow	ruling Wednesday by France 's court	0	LOCATION
+1.0	probe	be set	resume follow ruling	0	0
+1.0	15 defendant	all of	they	NUMBER	0
+1.0	Congolese	have	Scores	O	MISC
+1.0	french probe	be	set	0	0
+1.0	french probe	be set	resume follow ruling Wednesday	0	DATE
+1.0	french probe	be set	resume follow ruling Wednesday by France 's highest court of appeal	0	LOCATION
+1.0	inquiry	follow	action	0	0
+1.0	french probe	be set	resume follow ruling by France 's highest court	0	LOCATION
+1.0	probe	resume follow	ruling Wednesday by France 's highest court of appeal	0	LOCATION
+1.0	probe	resume follow	ruling by France 's court of appeal	0	LOCATION
+1.0	probe	be set	resume follow ruling Wednesday by France 's highest court	0	LOCATION
+1.0	probe	be set	resume follow ruling Wednesday	0	DATE
+1.0	Congo 's police chief Jean-Francois Ndengue	face	charge	LOCATION	0
+1.0	probe	resume follow	ruling by France 's highest court	0	LOCATION
+1.0	353 people	disappear in	May 1999	NUMBER	DATE
+1.0	probe	be set	resume follow ruling Wednesday by France 's highest court of appeal	0	LOCATION
+1.0	inquiry	follow	legal action	0	0
+1.0	trial	be	dismiss	0	0
+1.0	France	by	highest court of appeal	LOCATION	0
+1.0	french probe	resume follow	ruling by France 's highest court of appeal	0	LOCATION
+1.0	probe	be set	resume follow ruling by France 's court	0	LOCATION
+1.0	Denis Sassou Nguesso	by	authority	PERSON	0
+1.0	Congo 's police chief Jean-Francois Ndengue	face	charge of crime	LOCATION	0
+1.0	french probe	resume follow	ruling Wednesday by France 's court of appeal	0	LOCATION
+1.0	probe	be set	resume follow ruling Wednesday by France 's court	0	LOCATION
+1.0	probe	resume follow	ruling	0	0
+1.0	french probe	be set	resume follow ruling by France 's court of appeal	0	LOCATION
+1.0	the	have	relatives	O	O
+1.0	trial	be dismiss by	rights group	0	0
+1.0	Jean-Francois Ndengue	be police chief of	Congo	PERSON	LOCATION
+1.0	people	disappear	have tortured	0	0
+1.0	trial	be	dismiss as farce by rights group	0	0
+1.0	them	have	all	O	O
+1.0	350 refugees believed to have been massacred in Congo in 1999	escape	war	0	0
+1.0	probe	resume follow	ruling by France 's court	0	LOCATION
+1.0	french probe	be set	resume follow ruling by France 's court	0	LOCATION

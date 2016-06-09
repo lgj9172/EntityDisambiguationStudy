@@ -1,0 +1,64 @@
+1.0	Dinca	be	deputy minister under Romania 's government before its fall in 1989	PERSON	DATE
+1.0	regime	have	fall	DATE	O
+1.0	Dinca	be as	one	PERSON	NUMBER
+1.0	Dinca	be deputy prime minister under	Romania 's last government	PERSON	LOCATION
+1.0	Dinca	be	deputy prime minister under Romania 's government before its fall in 1989	PERSON	DATE
+1.0	study group	impose	system found on crime	0	0
+1.0	Dinca	be	deputy minister under Romania 's government before its fall	PERSON	DATE
+1.0	Ion Dinca	attend funeral in	November	PERSON	DATE
+1.0	dictator Nicolae Ceausescu	have	regime	O	PERSON
+1.0	romanian press agency Mediafax	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	Dinca	be	deputy prime minister under Romania 's communist government before its fall in 1989	PERSON	DATE
+1.0	Dinca	release after	five year on medical grounds	PERSON	DURATION
+1.0	Dinca	be deputy prime minister before	its fall	PERSON	DATE
+1.0	Dinca	be	deputy minister under Romania 's communist government before its fall in 1989	PERSON	DATE
+1.0	committee	have	member	O	O
+1.0	Dinca	be	deputy minister under Romania 's communist government before its fall	PERSON	DATE
+1.0	Nicolae Ceausescu	be	Ion Dinca	PERSON	PERSON
+1.0	Mediafax	be	romanian	ORGANIZATION	0
+1.0	Dinca	be deputy minister under	Romania 's government	PERSON	LOCATION
+1.0	Dinca	be deputy minister under	Romania 's communist government	PERSON	LOCATION
+1.0	Dinca	release after	five year	PERSON	DURATION
+1.0	79	have	age	O	NUMBER
+1.0	regime	be in	December 1989	0	DATE
+1.0	study group	impose	system	0	0
+1.0	Dinca	be deputy minister before	its fall	PERSON	DATE
+1.0	Dinca	be	sentence	PERSON	0
+1.0	dictator	have	daughter	O	O
+1.0	Dinca	be	deputy prime minister under Romania 's last communist government before its fall in 1989	PERSON	DATE
+1.0	Dinca	be	deputy prime minister under Romania 's government before its fall	PERSON	DATE
+1.0	Dinca	be deputy prime minister under	Romania 's last communist government	PERSON	LOCATION
+1.0	Bucharest	have	mayor	O	LOCATION
+1.0	Dinca	be deputy prime minister under	Romania 's communist government	PERSON	LOCATION
+1.0	people	have	one	NUMBER	O
+1.0	Dinca	release after	five year on grounds	PERSON	DURATION
+1.0	the Communist party 's central committee	have	fall	DATE	O
+1.0	Zoia Ceausescu	have	November	DATE	PERSON
+1.0	Dinca	be	deputy minister under Romania 's last communist government before its fall	PERSON	DATE
+1.0	Ion Dinca	attend	funeral	PERSON	0
+1.0	Dinca	be sentence to	15 year in prison	PERSON	DURATION
+1.0	Dinca	be deputy minister under	Romania 's last communist government	PERSON	LOCATION
+1.0	15 year	be in	prison	DURATION	0
+1.0	study group	impose	system found	0	0
+1.0	Dinca	be	deputy minister under Romania 's last communist government before its fall in 1989	PERSON	DATE
+1.0	Dinca	be	deputy prime minister under Romania 's last government before its fall in 1989	PERSON	DATE
+1.0	Dinca	be	deputy minister	PERSON	DATE
+1.0	Dinca	be sentence to	15 year	PERSON	DURATION
+1.0	Dinca	be	deputy prime minister under Romania 's last communist government before its fall	PERSON	DATE
+1.0	Dinca	be deputy prime minister under	Romania 's government	PERSON	LOCATION
+1.0	Romania	under	last communist government	LOCATION	0
+1.0	Romania	have	government	O	LOCATION
+1.0	Dinca	be deputy minister before	the fall of the regime in December 1989	PERSON	DATE
+1.0	party	have	committee	O	O
+1.0	press agency Mediafax	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	Dinca	be deputy prime minister before	the fall of the regime in December 1989	PERSON	DATE
+1.0	Dinca	be	deputy prime minister under Romania 's communist government before its fall	PERSON	DATE
+1.0	Dinca	be	deputy minister under Romania 's last government before its fall	PERSON	DATE
+1.0	communist party	of	central committee	0	0
+1.0	Zoia Ceausescu	daughter of	former dictator	PERSON	0
+1.0	Dinca	be	deputy prime minister	PERSON	DATE
+1.0	Dinca	be	deputy prime minister under Romania 's last government before its fall	PERSON	DATE
+1.0	Dinca	have	activities	O	O
+1.0	Ion Dinca	attend funeral in	November of Zoia Ceausescu	PERSON	DATE
+1.0	Dinca	be deputy minister under	Romania 's last government	PERSON	LOCATION
+1.0	Dinca	be	deputy minister under Romania 's last government before its fall in 1989	PERSON	DATE

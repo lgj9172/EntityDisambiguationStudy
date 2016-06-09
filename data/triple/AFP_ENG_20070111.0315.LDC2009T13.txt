@@ -1,0 +1,76 @@
+1.0	Bush	be by	overnight	PERSON	TIME
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	member state	have increase	defense spending	0	0
+1.0	violence	have	shadow	O	O
+1.0	Sager	paint picture in	shadow	PERSON	0
+1.0	Sager	paint	bleak picture	PERSON	0
+1.0	sectarian violence	be in	Iraq	0	LOCATION
+1.0	Saudi Arabia	be	Bahrain	LOCATION	LOCATION
+1.0	Gulf Research Center	of	security	ORGANIZATION	0
+1.0	Sager	paint	picture	PERSON	0
+1.0	militias	have	get	O	O
+1.0	Mehdi Army	have	hostage	O	ORGANIZATION
+1.0	crisis	have	shadow	O	O
+1.0	Sager	paint	bleak picture of region	PERSON	0
+1.0	Alani	say	GCC	PERSON	ORGANIZATION
+1.0	Moqtada Sadr	be of	shiite	PERSON	0
+1.0	Mehdi Army	be of	Moqtada Sadr	ORGANIZATION	PERSON
+1.0	GRC	have	Gulf yearbook	O	ORGANIZATION
+1.0	ideas	have	set	O	O
+1.0	iranian nuclear installation	be in	coordination	0	0
+0.633593924617174	Alani	say with	supplier	PERSON	0
+1.0	Bahrain	be group of	gcc	LOCATION	0
+1.0	problem	add	force	0	0
+1.0	Sager	paint	bleak picture of predominantly sunni oil-rich region	PERSON	0
+1.0	Sager	paint	picture of oil-rich region	PERSON	0
+1.0	region	have	picture	O	O
+1.0	Alani	tell	AFP	PERSON	ORGANIZATION
+1.0	Sager	paint	picture of predominantly sunni oil-rich region	PERSON	0
+1.0	volcano	be with	situation akin to civil war	0	0
+1.0	Tehran	have	intransigence	O	LOCATION
+1.0	his	have	government	O	O
+1.0	US policy	have	failure	O	O
+1.0	George W. Bush	have	new plan for Iraq peg	PERSON	LOCATION
+1.0	Sager	paint	bleak picture of predominantly sunni region	PERSON	0
+1.0	member state	have increase	defense spending in 2006	0	DATE
+1.0	intransigence	have	view	O	O
+1.0	security	have	director	O	O
+1.0	problem	be with	Nuri al-Maliki	0	PERSON
+1.0	Mustafa Alani	director of	GRC 's security	PERSON	ORGANIZATION
+1.0	Gulf Research Center	have	chairman	O	ORGANIZATION
+1.0	Sager	paint	bleak picture of sunni region	PERSON	0
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	Sadris	have	support	O	O
+1.0	Sager	paint	bleak picture of oil-rich region	PERSON	0
+1.0	Sager	paint picture in	shadow of violence	PERSON	0
+1.0	volcano	be in	Iraq	0	LOCATION
+1.0	Sager	address	other speaker	PERSON	0
+0.633593924617174	Alani	say with	western supplier	PERSON	0
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	Sunni Arabs	have	killings	O	MISC
+1.0	volcano	have	edge	O	O
+1.0	Shiite Iran	over	nuclear ambition	ORGANIZATION	0
+1.0	Sager	paint	bleak picture of sunni oil-rich region	PERSON	0
+1.0	worst possible scenario	be in	crisis	0	0
+1.0	Sager	paint	picture of sunni region	PERSON	0
+1.0	Sager	paint	speaker	PERSON	0
+1.0	problem	add	more force	0	0
+1.0	US President George W. Bush	have	plan	O	PERSON
+1.0	terrorism program	have	director	O	O
+1.0	Sager	address	speaker	PERSON	0
+1.0	Shiite Iran	have	ambitions	O	ORGANIZATION
+1.0	GRC	have	2006-2007 Gulf yearbook	ORGANIZATION	DURATION
+1.0	Sager	paint	picture of predominantly sunni region	PERSON	0
+1.0	Iraq	have	issues	O	LOCATION
+1.0	Sager	paint	other speaker	PERSON	0
+1.0	confrontation	have	breakout	O	O
+1.0	Sager	paint	picture of sunni oil-rich region	PERSON	0
+1.0	failure	have	shadow	O	O
+1.0	Sager	paint	picture of region	PERSON	0
+1.0	Gulf analyst	say at_time	Thursday	LOCATION	DATE
+1.0	Gulf Research Center	have	security	O	ORGANIZATION
+1.0	defense spending	be in	2006	0	DATE
+1.0	Moqtada Sadr	have	Mehdi Army	ORGANIZATION	PERSON
+1.0	Sager	address	conference	PERSON	0
+1.0	Tehran	of	intransigence	LOCATION	0
+1.0	GRC conference	have	sidelines	O	O

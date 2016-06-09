@@ -1,0 +1,34 @@
+1.0	the government	have	budget deficit	O	O
+1.0	the rich	have	dues	O	O
+1.0	China 's	project	government deficit	LOCATION	0
+1.0	China 's	project government deficit accord to	government budget issue early year	LOCATION	DATE
+0.4385779154303931	government budget	issue	early year	0	DATE
+0.4385779154303931	government budget	issue	last year	0	DATE
+1.0	China 's	project government deficit accord to	government budget issue early last year	LOCATION	DATE
+0.47837687133317236	some	comprehensive change in	its tax rule	0	0
+1.0	Last April	have	tax rules	O	O
+1.0	rich	punish	the rich	0	0
+1.0	China 's	project government deficit accord to	government budget issue last year	LOCATION	DATE
+1.0	comprehensive change	be in	its tax rule	0	0
+1.0	China 's	project	central government deficit	LOCATION	0
+1.0	state media	report at_time	Tuesday	0	DATE
+1.0	Taxation	have	State Administration	ORGANIZATION	ORGANIZATION
+1.0	changes	have	some	O	O
+1.0	increase	be in	revenue	0	0
+1.0	tax collection enforcement	be in	recent year	0	DURATION
+1.0	Jin Renqing	be in	December	PERSON	DATE
+1.0	China	have	tax revenue	O	LOCATION
+1.0	China 's	project government deficit for	2006	LOCATION	DATE
+1.0	China 's	project government deficit accord to	government budget issue year	LOCATION	DATE
+1.0	China 's	introduce	some comprehensive change in its tax rule	LOCATION	0
+1.0	China	have	tax revenue	LOCATION	0
+1.0	China 's	be	295 billion yuan	LOCATION	MONEY
+1.0	Xinhua news agency	cite	State Administration of Taxation	ORGANIZATION	ORGANIZATION
+1.0	China 's	project government deficit accord to	government budget issue	LOCATION	0
+0.4385779154303931	government budget	issue	early last year	0	DATE
+1.0	China 's	project government deficit accord to	government budget	LOCATION	0
+1.0	Xinhua news agency	cite	State Administration	ORGANIZATION	ORGANIZATION
+0.4385779154303931	government budget	issue	year	0	DATE
+0.47837687133317236	some	most comprehensive change in	its tax rule	0	0
+1.0	the rich	try	evade	0	0
+1.0	rich	pay	more	0	0

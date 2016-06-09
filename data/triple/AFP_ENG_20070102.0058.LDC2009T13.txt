@@ -1,0 +1,63 @@
+1.0	Smith	leave jail despite	earlier court ruling	PERSON	0
+0.9706193371971624	Lance corporal Daniel Smith	be	transfer to US embassy custody Friday	PERSON	LOCATION
+1.0	rights group	march to	US embassy	0	LOCATION
+0.9706193371971624	Lance corporal Daniel Smith	be transfer at_time	Friday	PERSON	DATE
+1.0	Lance Corporal Daniel Smith	be convict in	December	PERSON	DATE
+1.0	Smith	cite	VFA	PERSON	ORGANIZATION
+1.0	group Kaisaka	have	leaders	O	PERSON
+1.0	anti-us slogan	demand return to	jail	0	0
+1.0	custody	have	issue	O	O
+1.0	its	have	US master	O	O
+1.0	Arroyo	be in	she first public statement transfer to US embassy custody Friday	PERSON	LOCATION
+1.0	Philippines	have	interest	O	LOCATION
+1.0	Smith	leave	jail	PERSON	0
+0.9706193371971624	Lance corporal Daniel Smith	be	transfer	PERSON	0
+1.0	Lance Corporal Daniel Smith	be	convict	PERSON	0
+0.5961213614278028	court ruling	block	US embassy request	0	LOCATION
+1.0	US authorities	have	alliance	O	O
+1.0	a Filipino woman	have	privacy	O	O
+0.8446441093139676	it	non-nato ally in	Southeast Asia	0	LOCATION
+1.0	Arroyo	urge	Filipinos	PERSON	MISC
+1.0	rape	have	convicted	O	O
+1.0	leaders	have	one	NUMBER	O
+1.0	Filipinos	stand with	United States	MISC	LOCATION
+1.0	Virgie Pinlac	one of	leader	PERSON	0
+1.0	Arroyo	have	statement	O	O
+1.0	key non-nato ally	be in	Southeast Asia	0	LOCATION
+1.0	while official tour	be in	former american colony	0	0
+1.0	anti-us slogan	demand return to	philippine jail	0	0
+1.0	further deterioration	be in	we strategic relationship	0	0
+1.0	Subic	have	port	O	LOCATION
+1.0	compliance	be with	visit force agreement	0	0
+1.0	Philippines	be in	mind	LOCATION	0
+1.0	anti-us slogan	demand	return of Smith	0	PERSON
+1.0	Filipinos	stand behind	we alliance	MISC	0
+1.0	slogan	demand	return	0	0
+1.0	Smith	have	custody	O	PERSON
+1.0	American diplomats	have	non	O	O
+1.0	they	allow	Smith	0	PERSON
+1.0	Philippine President Gloria Arroyo on Tuesday	have	government	O	O
+0.8446441093139676	it	key non-nato ally in	Southeast Asia	0	LOCATION
+0.9706193371971624	Lance corporal Daniel Smith	be transfer to	US embassy custody	PERSON	LOCATION
+0.8446441093139676	it	ally in	Southeast Asia	0	LOCATION
+1.0	warmongers	have	champion	O	O
+1.0	Smith	leave jail despite	court ruling	PERSON	0
+1.0	Gloria Arroyo	be	Philippine	PERSON	MISC
+1.0	rights group	march in	central Manila	0	LOCATION
+1.0	anti-us slogan	demand	return	0	0
+0.8446441093139676	it	key ally in	Southeast Asia	0	LOCATION
+1.0	slogan	demand return to	jail	0	0
+1.0	American diplomats	have	relationship	O	O
+1.0	slogan	demand	return of Smith	0	PERSON
+1.0	rapists	have	champion	O	O
+1.0	Smith	have	return	O	PERSON
+1.0	its	have	embassy	O	O
+1.0	rapist	have	custody	O	O
+1.0	militant woman	of	Kaisaka	0	PERSON
+1.0	women	have	group Kaisaka	PERSON	O
+1.0	Filipino people	have	dignity	O	O
+1.0	Gloria Arroyo	be on	Tuesday	PERSON	DATE
+1.0	slogan	demand return to	philippine jail	0	0
+0.5961213614278028	earlier court ruling	block	US embassy request	0	LOCATION
+1.0	law	have	rule	O	O
+1.0	joint war game	be in	northern port of Subic	0	LOCATION

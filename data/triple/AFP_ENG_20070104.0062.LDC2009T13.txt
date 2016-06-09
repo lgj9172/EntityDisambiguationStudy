@@ -1,0 +1,54 @@
+1.0	US deployment	have	details	O	O
+1.0	Kenya	prevent	influx of weapon	LOCATION	0
+1.0	Kenya	inside kilometre be	1.8 mile	LOCATION	NUMBER
+1.0	some	fall on	kenyan side	0	0
+1.0	truck	be inside	territory	0	0
+1.0	helicopter	drop	six bomb	0	NUMBER
+1.0	top government official	confirm	detail of incident	0	0
+1.0	Somalia	have	stronghold south	O	LOCATION
+1.0	US force	join hunt with	Al-Qaeda tie	LOCATION	MISC
+1.0	incident	have	details	O	O
+1.0	kenyan official	cite	intelligence	0	0
+1.0	top official	cite	intelligence	0	0
+1.0	truck	be inside	somali territory	0	0
+1.0	four helicopter	drop	six bomb	0	NUMBER
+1.0	some	fall on	side	0	0
+1.0	bombs	have	some	O	O
+1.0	some	fall on	kenyan side of border	0	0
+1.0	top government official	confirm	detail	0	0
+1.0	fighters	have	influx	O	O
+1.0	some	fall on	side of border	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	US naval force	join hunt with	Al-Qaeda tie	LOCATION	MISC
+1.0	Kenya	have close	its border	LOCATION	0
+1.0	US naval force	join	hunt	LOCATION	0
+1.0	Somalia	with	Horn	LOCATION	PERSON
+1.0	top somali government official	confirm	detail	0	0
+1.0	their	have	stronghold south	O	O
+1.0	Kenya	prevent	influx	LOCATION	0
+1.0	United States	provide	detail of US deployment	LOCATION	LOCATION
+1.0	US naval force	join	hunt for militant	LOCATION	0
+1.0	border	have	side	O	O
+1.0	top kenyan official	cite	intelligence	0	0
+1.0	its	have	border	O	O
+1.0	US force	join	hunt for militant	LOCATION	0
+1.0	government official	confirm	detail of incident	0	0
+1.0	official	cite	intelligence	0	0
+1.0	somali government official	confirm	detail	0	0
+1.0	top somali government official	confirm	detail of incident	0	0
+1.0	Africa neighbours	have	Horn	PERSON	O
+1.0	Somalia	have	Horn	PERSON	LOCATION
+1.0	government spokesman Abdirahman Dinari	tell	AFP	PERSON	ORGANIZATION
+1.0	United States	provide	detail	LOCATION	0
+1.0	somali government official	confirm	detail of incident	0	0
+1.0	border post	have	south	O	O
+1.0	weapons	have	influx	O	O
+1.0	US naval force	join hunt with	suspect Al-Qaeda tie	LOCATION	MISC
+1.0	US naval force	join	hunt for islamist militant	LOCATION	0
+1.0	US force	join hunt with	suspect Al-Qaeda tie	LOCATION	MISC
+1.0	government official	confirm	detail	0	0
+1.0	US force	join	hunt for islamist militant	LOCATION	0
+1.0	this	have	know	O	O
+1.0	US force	join	hunt	LOCATION	0
+1.0	Badade district	be in	Somalia Lower Jubba region	LOCATION	LOCATION
+1.0	Liboi	have	border post	O	LOCATION

@@ -1,0 +1,46 @@
+1.0	changeover	be proceed well accord	Central Bank say on Wednesday	0	ORGANIZATION
+1.0	Slovenia	join	eurozone	LOCATION	0
+1.0	cash changeover	have	days	DURATION	O
+1.0	changeover	be proceed well accord	Central Bank say	0	ORGANIZATION
+1.0	Mint	so far produce	296.3 million euro coin	0	MONEY
+1.0	changeover	be proceed accord	Central Bank say on Wednesday	0	ORGANIZATION
+1.0	Mint	produce	296.3 million euro coin	0	MONEY
+1.0	eurozone	have	member state	O	O
+1.0	euro	have	adoption	O	O
+1.0	changeover	be proceed accord	Central Bank say	0	ORGANIZATION
+1.0	euro bill	first enter	coin	0	0
+1.0	Eurosystem	have	banknote stocks	O	MISC
+1.0	changeover	be in	eurozone 's newest member state	0	0
+1.0	Finland	have	Mint	O	LOCATION
+1.0	Slovenia	become	country	LOCATION	0
+1.0	euros	have	face value	O	MONEY
+1.0	changeover	be proceed well accord	european Central Bank	0	ORGANIZATION
+1.0	eurozone	's state be	Slovenia	0	LOCATION
+1.0	euro bill	first enter	circulation	0	0
+1.0	changeover	be proceed accord	european Central Bank	0	ORGANIZATION
+1.0	Slovenia	become	13th country	LOCATION	ORDINAL
+1.0	euro bill	enter	circulation	0	0
+1.0	euro bill	enter	coin	0	0
+1.0	eurozone	in	newest member state	0	0
+1.0	Slovenia	have	adoption of euro	LOCATION	0
+1.0	Slovenia	have	bank	O	LOCATION
+1.0	changeover	be proceed well accord	european Central Bank say on Wednesday	0	ORGANIZATION
+1.0	Slovenia	officially join	eurozone	LOCATION	0
+1.0	changeover	be proceed accord	european Central Bank say	0	ORGANIZATION
+1.0	changeover	be proceed well accord	european Central Bank say	0	ORGANIZATION
+1.0	Mint	have win tender in	addition	0	0
+1.0	euro	have	guardian	O	O
+1.0	Slovenia	declare independence from	former Yugoslavia	LOCATION	LOCATION
+1.0	2007	have	remainder	O	DATE
+1.0	Slovenia	join eurozone on	January 1	LOCATION	DATE
+1.0	Mint	far produce	296.3 million euro coin	0	MONEY
+1.0	changeover	be proceed accord	Central Bank	0	ORGANIZATION
+1.0	changeover	be proceed well accord	Central Bank	0	ORGANIZATION
+1.0	changeover	be proceed accord	european Central Bank say on Wednesday	0	ORGANIZATION
+1.0	Slovenia	officially join eurozone on	January 1	LOCATION	DATE
+1.0	Mint	have win	tender	0	0
+1.0	Slovenia	declare	independence	LOCATION	0
+1.0	Slovenia	have	adoption	O	LOCATION
+1.0	Slovenia	accede to	EU	LOCATION	ORGANIZATION
+0.022365932509734954	Slovenia	declare from	former Yugoslavia	LOCATION	LOCATION
+1.0	euro cash changeover	have	success	O	O

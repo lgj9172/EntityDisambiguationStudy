@@ -1,0 +1,40 @@
+1.0	palestinian militant	fire	rocket towards Israel	0	LOCATION
+1.0	the Jewish state	retaliate to	breach of month-old ceasefire	0	0
+1.0	the Jewish state	retaliate to	continue breach of month-old ceasefire	0	0
+1.0	israeli government	order resumption at_time	last week	0	DATE
+1.0	palestinian militant	be in	Gaza Strip	0	LOCATION
+1.0	one palestinian	wound in	strip	NUMBER	0
+1.0	ceasefire	have	breaches	O	O
+1.0	palestinian militant	ignore warning by	state	0	0
+1.0	government	order resumption at_time	week	0	DATE
+1.0	palestinian	wound in	strip	0	0
+1.0	one palestinian	wound by	israeli fire	NUMBER	0
+1.0	government	order	resumption	0	0
+1.0	one palestinian	wound by	fire	NUMBER	0
+1.0	militant	cease	firing rocket	0	0
+1.0	militant	be	suppose	0	0
+1.0	one palestinian	wound in	coastal strip	NUMBER	0
+1.0	palestinian	wound in	coastal strip	0	0
+1.0	the Jewish state	retaliate to	breach of ceasefire	0	0
+1.0	government	order resumption at_time	last week	0	DATE
+1.0	palestinian militant	fire	rocket	0	0
+1.0	palestinian	be	kill	0	0
+1.0	one palestinian	be	kill	NUMBER	0
+1.0	militant	fire	rocket towards Israel	0	LOCATION
+1.0	palestinian militant	ignore warning by	jewish state	0	0
+1.0	militant	fire	rocket	0	0
+1.0	palestinian	wound by	israeli fire	0	0
+1.0	Gaza Strip	be on	Wednesday	LOCATION	DATE
+1.0	militant	ignore warning by	state	0	0
+1.0	palestinian	wound by	fire	0	0
+1.0	the Jewish state	retaliate to	continue breach	0	0
+1.0	militant	ignore warning by	jewish state	0	0
+0.13448128613737897	militant	be suppose	cease	0	0
+1.0	militant	ignore	warning	0	0
+1.0	Israel	withdraw	its troops	LOCATION	0
+1.0	the Jewish state	retaliate to	breach	0	0
+1.0	Israel	have	troops	O	O
+1.0	palestinian militant	ignore	warning	0	0
+1.0	israeli government	order	resumption	0	0
+1.0	the Jewish state	retaliate to	continue breach of ceasefire	0	0
+1.0	israeli government	order resumption at_time	week	0	DATE

@@ -1,0 +1,38 @@
+1.0	Russia	have	exports	O	LOCATION
+1.0	oil exports	have	percent	PERCENT	O
+1.0	US official	say at_time	Tuesday	LOCATION	DATE
+1.0	Viktor Khristenko	be	Russian	PERSON	MISC
+1.0	Czech Republic	have	Poland	LOCATION	LOCATION
+1.0	supply cuts	have	advance	O	O
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	oil	have	third	ORDINAL	O
+1.0	pipeline	account for	third of Russia 's total export of crude oil	0	LOCATION
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	lesson	have	importance	O	O
+1.0	Czech Republic	have	Germany	LOCATION	LOCATION
+1.0	Czech Republic	have	Hungary	LOCATION	LOCATION
+1.0	pipeline	account for	third of crude oil	0	ORDINAL
+1.0	State Department spokesman Sean McCormack	tell	reporter	PERSON	0
+1.0	fact	have	handling	O	O
+1.0	senior US official	say at_time	Tuesday	LOCATION	DATE
+1.0	their	have	energy sources	O	O
+1.0	pipeline	account for	third of oil	0	ORDINAL
+1.0	pipeline	account for	third of Russia 's export of oil	0	LOCATION
+1.0	pipeline	account for	third	0	ORDINAL
+1.0	Russia	of	total export	LOCATION	0
+1.0	pipeline	provide oil to	EU member state	0	ORGANIZATION
+1.0	exports	have	third	ORDINAL	O
+1.0	pipeline	account for	third of Russia 's total export of oil	0	LOCATION
+1.0	pipeline	provide	oil	0	0
+1.0	Viktor Khristenko	be	earlier Tuesday	PERSON	DATE
+1.0	energy supply	have	sources	O	O
+1.0	Russia	have	handling of dispute	LOCATION	0
+1.0	Russia	have	handling	O	LOCATION
+1.0	Czech Republic	have	Slovakia	LOCATION	LOCATION
+1.0	ongoing issue	be with	Russia	0	LOCATION
+1.0	pipeline	account for	third of Russia 's export	0	LOCATION
+1.0	pipeline	account for	third of Russia 's total export	0	LOCATION
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	pipeline	account for	third of Russia 's export of crude oil	0	LOCATION
+1.0	pipeline	provide oil to	several EU member state	0	ORGANIZATION
+1.0	dispute	have	handling	O	O

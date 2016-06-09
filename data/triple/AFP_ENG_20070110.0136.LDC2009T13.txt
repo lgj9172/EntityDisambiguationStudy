@@ -1,0 +1,43 @@
+1.0	ferry	be link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	Senopati Nusantara	be to	en route from Kumai Semarang	0	LOCATION
+1.0	vessel	be carry	542 passenger	0	NUMBER
+1.0	Toni Syaiful	be spokesman of	Eastern Fleet	PERSON	ORGANIZATION
+1.0	ferry	carry	people	0	0
+1.0	archipelago nation	between	17,000 island	0	NUMBER
+1.0	ferry	frequently carry	people	0	0
+1.0	Senopati Nusantara	be to	en route from Kumai on Borneo island Semarang	0	LOCATION
+1.0	disaster	have	survivors	O	O
+1.0	victims	have	scores	O	O
+1.0	archipelago nation	have	islands	O	O
+1.0	naval base	be in	Semarang	0	0
+1.0	survivor	have speak of	panic	0	0
+0.7404790642964145	Senopati Nusantara	carry around	600 people	0	NUMBER
+0.7404790642964145	Senopati Nusantara	carry around	people	0	0
+1.0	The `` Senopati Nusantara '' -LRB- Archipelago Commander -RRB- , carrying around 600 people	sink in	storm	0	0
+1.0	ferry	frequently carry	more people	0	0
+1.0	liferafts	have	plucked'	O	O
+1.0	base	have	head	O	O
+1.0	ferry	be crucial link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	be	crucial link	0	0
+1.0	ferry	be	crucial	0	0
+1.0	Java Sea	have	Mandalika area	O	MISC
+1.0	ferry	be	link	0	0
+1.0	several ship	be in	area	0	0
+1.0	naval base	of head be	the Java Sea	0	MISC
+1.0	Senopati Nusantara	be to	en route Semarang	0	LOCATION
+1.0	Senopati Nusantara	be to	Semarang	0	LOCATION
+1.0	head	tell	afp	0	0
+1.0	Toni Syaiful	be	Eastern Fleet	PERSON	ORGANIZATION
+1.0	ferry	be	link than officially	0	0
+1.0	ship	sink in	minute	0	0
+1.0	ferry	have	location	O	O
+1.0	panic	have	spoken	O	O
+1.0	wreck	have	location	O	O
+1.0	ferry	be	crucial link than officially	0	0
+1.0	Eastern Fleet spokesman Toni Syaiful	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	exact location	remain	unknown	0	0
+1.0	location	remain	unknown	0	0
+1.0	ferry	be link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	carry	more people	0	0
+1.0	Java island	have	north	O	O
+1.0	ferry	be crucial link officially between	archipelago nation 's 17,000 island	0	NUMBER

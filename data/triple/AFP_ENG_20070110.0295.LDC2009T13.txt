@@ -1,0 +1,26 @@
+1.0	Milan Martic	accuse by	International Criminal Tribunal	PERSON	ORGANIZATION
+1.0	Milan Martic	accuse against	humanity	PERSON	0
+1.0	International Criminal Tribunal	be for	Yugoslavia	ORGANIZATION	LOCATION
+1.0	Milan Martic	accuse by	International Criminal Tribunal for former Yugoslavia	PERSON	ORGANIZATION
+0.2853940343615259	Milan Martic	be	guilty	PERSON	0
+1.0	war crimes	have	accused	O	O
+1.0	Milan Martic	accuse of	war crime	PERSON	0
+0.2853940343615259	Milan Martic	be guilty on	charge	PERSON	0
+1.0	villages	have	destruction	O	O
+1.0	Prosecutor Alex Whiting	have	closing argument	O	O
+1.0	icty	be in	May 2002	0	DATE
+1.0	prosecutor	seek	life sentence	0	0
+1.0	His	have	defence	O	O
+1.0	conflict	be in	Croatia	0	LOCATION
+1.0	Milan Martic	transfer to	icty	PERSON	0
+1.0	rebel	have	president	O	O
+1.0	attacks	have	destruction	O	O
+1.0	Milan Martic	transfer to	icty in May 2002	PERSON	DATE
+1.0	its	have	closing arguments	O	O
+1.0	crimes	have	accused	O	O
+1.0	Milan Martic	president of	rebel	PERSON	0
+1.0	Prosecutor Alex Whiting	say in	early 1990s	PERSON	DATE
+1.0	Prosecutor Alex Whiting	say during	conflict in Croatia	PERSON	LOCATION
+1.0	Prosecutor Alex Whiting	say during	conflict	PERSON	0
+0.2853940343615259	Milan Martic	be guilty on	charge of murder	PERSON	0
+1.0	murder	have	charges	O	O

@@ -1,0 +1,31 @@
+1.0	power	serve	limit of four-year term	0	DURATION
+1.0	Nigeria	settle	all its official debt of 4.6 billion dollar	LOCATION	MONEY
+1.0	Nigeria	settle	all its official debt	LOCATION	0
+1.0	Nigeria	settle	all its debt	LOCATION	0
+1.0	Nigeria	settle to	group	LOCATION	0
+1.0	power	serve	constitutional limit of two four-year term	0	DURATION
+1.0	Nigeria	become	first african nation	LOCATION	ORDINAL
+1.0	Nigeria	have	debt	LOCATION	0
+1.0	Nigeria	settle to	Paris Club	LOCATION	ORGANIZATION
+1.0	Nigeria	become	nation	LOCATION	0
+1.0	lenders	have	group	O	O
+1.0	amount	have	dollar	MONEY	O
+1.0	Paris Club	group of	19 international lender	ORGANIZATION	NUMBER
+1.0	dollars	have	debt	O	MONEY
+1.0	terms	have	limit	O	O
+1.0	creditors	have	London Club	ORGANIZATION	O
+1.0	Nigeria	have	total foreign debt stock	LOCATION	0
+1.0	Nigeria	become at_time	last year	LOCATION	DATE
+1.0	Early last year	have	debt	O	O
+1.0	President Olusegun Obasanjo	say at_time	Thursday	PERSON	DATE
+1.0	Nigeria	become at_time	early last year	LOCATION	DATE
+1.0	Nigeria	become	first nation	LOCATION	ORDINAL
+1.0	debt	have	rest	O	O
+1.0	power	serve	constitutional limit of four-year term	0	DURATION
+1.0	power	serve	limit of two four-year term	0	DURATION
+1.0	Nigeria	settle	all its debt of 4.6 billion dollar	LOCATION	MONEY
+1.0	Nigeria	have	debts	O	LOCATION
+1.0	Nigeria	become at_time	early year	LOCATION	DATE
+1.0	Nigeria	have	debt stock	O	LOCATION
+1.0	Nigeria	become	african nation	LOCATION	0
+1.0	Nigeria	become at_time	year	LOCATION	DATE

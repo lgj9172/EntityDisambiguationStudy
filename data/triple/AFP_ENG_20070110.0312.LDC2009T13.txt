@@ -1,0 +1,59 @@
+1.0	Walter	have	departure	PERSON	0
+1.0	Football Association	react	say	ORGANIZATION	0
+1.0	contract	have	breach	O	O
+1.0	our	have	Euro qualification campaign	O	O
+1.0	Rangers	have	season	O	O
+1.0	Premier League title	have	top	O	O
+1.0	their	have	title	O	O
+1.0	Cup	have	round	O	MISC
+1.0	it	will	will Smith 's spell	0	PERSON
+1.0	it	leave	Ibrox	0	0
+1.0	club	have	captain	O	O
+1.0	frenchman	apparently lose in	power struggle	0	0
+1.0	Walter Smith	become in	charge	PERSON	0
+1.0	departure	be	serious	0	0
+1.0	it	will	will Smith 's second spell in charge of Glasgow club	0	ORDINAL
+1.0	frenchman	lose in	power struggle with club 's former captain	0	0
+1.0	Walter Smith	become	they new manager	PERSON	0
+1.0	it	will	will Smith 's second spell in charge	0	ORDINAL
+1.0	scottish Football Association	react angrily	say	ORGANIZATION	0
+1.0	frenchman	lose in	power struggle	0	0
+1.0	Le Guen	have	position	O	PERSON
+1.0	it	will	will Smith 's spell in charge	0	PERSON
+1.0	his	have	failure	O	O
+1.0	scottish Football Association	react angrily to	move	ORGANIZATION	0
+1.0	frenchman	become	shortest-serving manager	0	0
+1.0	it	will	will Smith 's second spell	0	ORDINAL
+1.0	Le Guen	have	position	PERSON	0
+1.0	Smith	have	spell	O	PERSON
+1.0	Walter Smith	become in	charge of Scotland	PERSON	LOCATION
+1.0	Football Association	react angrily to	move	ORGANIZATION	0
+1.0	club	with	former captain	0	0
+1.0	Walter Smith	become in	formerly charge	PERSON	0
+1.0	Rangers	have	manager	O	O
+1.0	Ibrox	be in	1998	0	DATE
+1.0	frenchman	apparently lose in	power struggle with club 's former captain	0	0
+1.0	Le Guen 's position	be weaken by	he failure	PERSON	0
+1.0	Glasgow club	have	charge	O	O
+1.0	frenchman	become	manager	0	0
+1.0	Rangers	announce at_time	Wednesday	0	DATE
+1.0	Rangers ' season	hit	fresh low	0	0
+1.0	will Smith 's second spell	be in	charge of Glasgow club	ORDINAL	LOCATION
+1.0	it	leave	Ibrox in 1998	0	DATE
+1.0	it	will	will Smith 's spell in charge of Glasgow club	0	LOCATION
+1.0	scottish Football Association	react	say	ORGANIZATION	0
+1.0	Walter Smith	become	they manager	PERSON	0
+1.0	scottish Football Association	react to	move	ORGANIZATION	0
+1.0	frenchman	become in	Rangers ' history	0	0
+1.0	Walter	have	departure	O	PERSON
+1.0	Rangers ' season	hit	low	0	0
+1.0	they	lose	3-2	0	NUMBER
+1.0	Football Association	react to	move	ORGANIZATION	0
+1.0	gap	look	certain	0	0
+1.0	Football Association	react angrily	say	ORGANIZATION	0
+1.0	power struggle	be with	club 's former captain	0	0
+1.0	Le Guen 's position	be	weaken	PERSON	0
+1.0	Rangers	have	history	O	O
+1.0	Walter Smith	become in	formerly charge of Scotland	PERSON	LOCATION
+1.0	frenchman	become in	Rangers ' 134-year history	0	DURATION
+1.0	Scotland	have	charge	O	LOCATION

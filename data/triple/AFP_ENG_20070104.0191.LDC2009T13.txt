@@ -1,0 +1,160 @@
+1.0	few appearance	due to	stress adapt	0	0
+1.0	Prince Hisahito	be	bear last September to Emperor Akihito 's son	PERSON	PERSON
+1.0	Japan 's Prime Minister Shinzo Abe	highness	Prince Hisahito	0	PERSON
+1.0	Prince Hisahito	have	uncle	O	O
+1.0	panel	have	proposal	O	O
+1.0	Abe 's comment	be interpret amid	opposition	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shinto shrine	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid opposition within rule party against monarch	PERSON	0
+1.0	have pressure	produce	male heir	0	0
+1.0	Abe	to	predecessor	PERSON	0
+1.0	their father 's	be	cabinet secretary	0	0
+1.0	Abe 's comment	be	interpret by media amid opposition	PERSON	0
+1.0	Abe 's comment	be	interpret by media amid deep opposition within party	PERSON	0
+1.0	Prince Hisahito	be	bear last September to Emperor Akihito 's second son	PERSON	ORDINAL
+1.0	Abe 's comment	be	interpret by local media amid opposition	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	let woman ascend	throne of world 's monarchy	LOCATION	0
+1.0	Emperor Akihito	have	son	O	PERSON
+1.0	emperor	of	throne	0	0
+1.0	Abe 's comment	be interpret amid	opposition within rule party against female monarch	PERSON	0
+1.0	he highness	be bear at_time	year	0	DATE
+1.0	Crown Prince Naruhito	have	child	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid opposition within party	PERSON	0
+1.0	Abe 's comment	be interpret amid	deep opposition within party against female monarch	PERSON	0
+1.0	Abe 's comment	be interpret amid	deep opposition	PERSON	0
+1.0	emperor	of	authority	0	0
+1.0	Crown Princess Masako	be	43	PERSON	NUMBER
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shrine in Ise western Japan	PERSON	LOCATION
+1.0	grand shinto shrine	be in	Japan	0	LOCATION
+1.0	have pressure	produce heir until	Hisahito birth	0	PERSON
+1.0	Abe 's comment	be	interpret by media amid opposition within rule party against monarch	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make	New Year visit	PERSON	DATE
+1.0	he imperial highness	be bear at_time	year	0	DATE
+1.0	Prince Hisahito	have	father	O	O
+1.0	Abe 's comment	be interpret amid	deep opposition within party against monarch	PERSON	0
+1.0	world	of	oldest monarchy	0	0
+1.0	Japan	have	Shinzo Abe	LOCATION	PERSON
+1.0	he imperial highness	be	bear	0	0
+1.0	throne	have	succession	O	O
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within party against female monarch	PERSON	0
+1.0	Prince Hisahito	be	bear September to Emperor Akihito 's second son	PERSON	ORDINAL
+1.0	the emperor 's	have	highness	O	O
+1.0	conservative daily Sankei Shimbun	report on	Wednesday	SET	DATE
+1.0	Sankei Shimbun	be	daily	ORGANIZATION	SET
+1.0	imperial household	be in	41 year	0	DURATION
+1.0	Abe 's comment	be	interpret by media amid opposition within party against female monarch	PERSON	0
+1.0	Abe 's comment	be interpret amid	opposition within party against female monarch	PERSON	0
+1.0	law	update in	1947	0	DATE
+1.0	emperor	have	throne	O	O
+1.0	government panel	to	15-month-old proposal	0	DURATION
+1.0	Abe 's comment	be interpret amid	deep opposition within party	PERSON	0
+1.0	Abe	have	comment	O	PERSON
+1.0	Abe 's comment	be	interpret by media amid deep opposition within party against female monarch	PERSON	0
+1.0	Abe 's comment	be	interpret by media amid deep opposition	PERSON	0
+1.0	he government	deal with	proposal	0	0
+1.0	Abe 's comment	be interpret amid	deep opposition within rule party against monarch	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shrine	PERSON	0
+1.0	birth	have quiet for	now succession crisis due	0	DATE
+1.0	few appearance	due to	stress	0	0
+1.0	the emperor 's	have	government	O	O
+1.0	daily Sankei Shimbun	report on	Wednesday	SET	DATE
+1.0	Aiko	be	five-year-old	PERSON	DURATION
+1.0	Abe	have	comment	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shinto shrine	PERSON	0
+1.0	Abe	have	predecessor	O	PERSON
+1.0	have intense pressure	produce	male heir	0	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shinto shrine in Ise Japan	PERSON	LOCATION
+1.0	government panel	have	proposal	O	O
+0.36632681049637295	Japan 's Prime Minister Shinzo Abe	let ascend	throne of world 's oldest monarchy	LOCATION	0
+1.0	Abe 's comment	be	interpret by local media amid opposition within party against female monarch	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within rule party against monarch	PERSON	0
+1.0	few appearance	due to	stress adapt to palace life	0	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shinto shrine in Ise Japan	PERSON	LOCATION
+1.0	Prince Hisahito	be bear to	Emperor Akihito 's son	PERSON	PERSON
+1.0	their father 's	be	when cabinet secretary	0	0
+1.0	their father 's	be	cabinet secretary under Koizumi government	0	PERSON
+1.0	birth	have quiet for	succession crisis	0	0
+1.0	Abe 's comment	be interpret amid	opposition within party against monarch	PERSON	0
+1.0	father	have	side	O	O
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shrine	PERSON	0
+1.0	Prince Hisahito	be	bear September to Emperor Akihito 's son	PERSON	PERSON
+1.0	Hisahito	have	birth	O	PERSON
+1.0	Prince Hisahito	be bear at_time	last September	PERSON	DATE
+1.0	Japan 's Prime Minister Shinzo Abe	have	reluctance	O	O
+1.0	Abe 's comment	be interpret amid	deep opposition within rule party against female monarch	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid opposition within rule party	PERSON	0
+1.0	succession	be	basic	0	0
+1.0	Abe 's comment	be	interpret by media amid deep opposition within party against monarch	PERSON	0
+1.0	he highness	be	bear	0	0
+1.0	Abe 's comment	be	interpret by media amid opposition within rule party against female monarch	PERSON	0
+1.0	have pressure	produce	heir	0	0
+1.0	emperor	have	authority	O	O
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shrine in Ise Japan	PERSON	LOCATION
+1.0	he highness	be bear at_time	last year	0	DATE
+1.0	Abe 's comment	be	interpret by media amid deep opposition within rule party against female monarch	PERSON	0
+1.0	Abe 's comment	be interpret amid	opposition within rule party	PERSON	0
+1.0	Hisahito	until	birth	PERSON	0
+1.0	birth	have quiet for	now succession crisis	0	DATE
+1.0	have intense pressure	produce male heir until	Hisahito birth	0	PERSON
+1.0	birth	have quiet for	succession crisis due to fact	0	0
+1.0	authority	have	restoration	O	O
+1.0	Abe 's comment	be	interpret by media amid opposition within party against monarch	PERSON	0
+1.0	Abe 's comment	stress caution toward	hasty conclusion on proposal	PERSON	0
+1.0	Japan	have	Prime Minister Shinzo Abe	PERSON	LOCATION
+1.0	Abe 's comment	be	interpret by media amid deep opposition within rule party	PERSON	0
+1.0	Sankei Shimbun	report on	Wednesday	ORGANIZATION	DATE
+1.0	Japan 's Prime Minister Shinzo Abe	let woman ascend	throne	LOCATION	0
+1.0	Japan 's Prime Minister Shinzo Abe	let	woman	LOCATION	0
+1.0	Japan 's Prime Minister Shinzo Abe	reaffirm	he reluctance	LOCATION	0
+1.0	Akihito	to	second son	PERSON	ORDINAL
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shinto shrine in Ise western Japan	PERSON	LOCATION
+1.0	Abe 's comment	be	interpret	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	tell	reporter	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid deep opposition	PERSON	0
+1.0	have intense pressure	produce	heir	0	0
+1.0	Abe 's comment	be interpret amid	opposition within party	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within party	PERSON	0
+1.0	Abe 's comment	be	interpret by media amid opposition within rule party	PERSON	0
+1.0	Abe 's comment	be interpret amid	deep opposition within rule party	PERSON	0
+1.0	Abe 's comment	be interpret amid	opposition within rule party against monarch	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	shinto shrine in Ise western Japan	PERSON	LOCATION
+1.0	Crown Prince Naruhito	have	Princess Masako	PERSON	PERSON
+1.0	Abe 's comment	be interpret by	local media	PERSON	0
+1.0	their father 's	be	when chief cabinet secretary	0	0
+1.0	imperial household law	basis for	male	0	0
+1.0	their father 's	be	when chief cabinet secretary under Koizumi government	0	PERSON
+1.0	have intense pressure	produce heir until	Hisahito birth	0	PERSON
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within rule party against female monarch	PERSON	0
+1.0	their father 's	be	when cabinet secretary under Koizumi government	0	PERSON
+1.0	monarchy	have	throne	O	O
+1.0	Abe 's comment	be	interpret by local media amid opposition within rule party against female monarch	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shrine in Ise western Japan	PERSON	LOCATION
+1.0	Prince Hisahito	be	bear	PERSON	0
+0.36632681049637295	Japan 's Prime Minister Shinzo Abe	let ascend	throne of world 's monarchy	LOCATION	0
+1.0	birth	have quiet for	now succession crisis due to fact	0	DATE
+0.36632681049637295	Japan 's Prime Minister Shinzo Abe	let ascend	throne	LOCATION	0
+1.0	Japan 's Prime Minister Shinzo Abe	make	customary New Year visit	PERSON	DATE
+1.0	their father 's	be	chief cabinet secretary	0	0
+1.0	advisers	have	panel	O	O
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within party against monarch	PERSON	0
+1.0	Abe 's comment	be	interpret by media amid opposition within party	PERSON	0
+1.0	Prince Hisahito	be bear at_time	September	PERSON	DATE
+1.0	their father 's	be	chief cabinet secretary under Koizumi government	0	PERSON
+1.0	advisers to Abe 's predecessor , Junichiro Koizumi	have	father	O	O
+1.0	Abe 's comment	be	interpret by local media amid opposition within party against monarch	PERSON	0
+1.0	birth	have quiet for	succession crisis due	0	0
+1.0	panel	have	proposal allow	0	0
+1.0	Abe 's comment	be	interpret by media amid deep opposition within rule party against monarch	PERSON	0
+1.0	Abe 's comment	be interpret by	media	PERSON	0
+1.0	Abe 's comment	be	interpret by local media amid deep opposition within rule party	PERSON	0
+1.0	Shinzo Abe	be prime minister of	Japan	PERSON	LOCATION
+1.0	Junichiro Koizumi	be predecessor of	Abe	PERSON	PERSON
+1.0	world	have	monarchy	O	O
+1.0	have pressure	produce male heir until	Hisahito birth	0	PERSON
+1.0	Abe	's predecessor be	Junichiro Koizumi	PERSON	PERSON
+1.0	Prince Hisahito	be bear to	Emperor Akihito 's second son	PERSON	ORDINAL
+1.0	father	on	side succeed to throne	0	0
+1.0	Japan 's Prime Minister Shinzo Abe	make new year visit to	grand shrine in Ise Japan	PERSON	LOCATION
+1.0	Crown Prince Naruhito	have	only child	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	let woman ascend	throne of world 's oldest monarchy	LOCATION	0
+1.0	he imperial highness	be bear at_time	last year	0	DATE

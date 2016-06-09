@@ -1,0 +1,45 @@
+1.0	a busy week for aspiring superheroes in New York	be	busy	0	0
+1.0	Harlem	have	Hero	O	LOCATION
+1.0	their	have	arms	O	O
+1.0	citizen	catch	toddler fall	0	0
+1.0	a busy week for aspiring superheroes in New York	have	have busy week for superhero	0	DURATION
+1.0	fellow citizen	catch	toddler fall from building	0	0
+1.0	he	fall	nearly 12 meter	0	NUMBER
+1.0	Pedro Nevarez	save	stricken toddler	PERSON	0
+1.0	city	have	most prestigious medal	0	0
+1.0	subway train	have	diving	O	O
+1.0	citizen	catch	toddler fall from building	0	0
+0.47937962732886696	he	fall into	they arm	0	0
+1.0	train	have	leaping	O	O
+1.0	Wesley Autrey	grab	headline	PERSON	0
+1.0	Wesley Autrey	leap in front of	train	PERSON	0
+1.0	Disney World	medal 's	city	LOCATION	0
+1.0	Wesley Autrey	since be dub	hero of Harlem	0	LOCATION
+1.0	Pedro Nevarez	save	toddler	PERSON	0
+1.0	citizen	catch	toddler	0	0
+1.0	city	have	medal	O	O
+1.0	a busy week for aspiring superheroes in New York	have	have week	0	DURATION
+1.0	Wesley Autrey	be dub	hero	0	0
+1.0	a busy week for aspiring superheroes in New York	have	have busy week	0	DURATION
+1.0	a busy week for aspiring superheroes in New York	save	citizen	0	0
+1.0	fellow citizen	catch	toddler	0	0
+1.0	a busy week for aspiring superheroes in New York	save	fellow citizen	0	0
+1.0	a busy week for aspiring superheroes in New York	have	have week for aspire superhero	0	DURATION
+1.0	a busy week for aspiring superheroes in New York	have	have busy week for superhero in New York	0	LOCATION
+1.0	a busy week for aspiring superheroes in New York	have	have week for superhero in New York	0	LOCATION
+1.0	fellow citizen	catch	toddler fall	0	0
+1.0	baby sitter	have	attention	0	0
+1.0	aspire superhero	be in	New York	0	LOCATION
+1.0	baby sitter	have	attention	O	O
+1.0	Wesley Autrey	leap in front of	train on Tuesday	PERSON	DATE
+1.0	window	have	out sneaked	O	O
+1.0	a busy week for aspiring superheroes in New York	have	have busy week for aspire superhero	0	DURATION
+1.0	he	fall	40 foot	0	NUMBER
+1.0	a busy week for aspiring superheroes in New York	have	have week for superhero	0	DURATION
+1.0	Pedro Nevarez	save	Julio Gonzalez	PERSON	PERSON
+1.0	his	have	baby sitter	O	O
+1.0	the hero	say by	Newsday paper	0	ORGANIZATION
+1.0	hero	be in	New York	0	LOCATION
+1.0	Wesley Autrey	be dub	hero of Harlem	0	LOCATION
+1.0	Wesley Autrey	since be dub	hero	0	0
+1.0	heroes	have	week	DATE	O

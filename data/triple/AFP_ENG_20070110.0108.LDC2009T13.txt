@@ -1,0 +1,114 @@
+1.0	United States	hit	extremist position north of port	LOCATION	0
+1.0	it	be	first US military strike in country there in 1994	0	LOCATION
+1.0	it	be	US military strike	0	LOCATION
+1.0	port	have	extremist position north	O	O
+1.0	it	deny us involvement in	region report by somali defense ministry	0	0
+1.0	Osama bin Laden	be leader of	Al-Qaeda	PERSON	ORGANIZATION
+1.0	resident	report	new US air strike	0	LOCATION
+1.0	Their	have	fate	O	O
+1.0	Ali Jama	be minister of	Somali Information	PERSON	ORGANIZATION
+1.0	he	tell	AFP	0	ORGANIZATION
+0.3550234121835929	region	report by	defense ministry Tuesday	0	DATE
+1.0	Somalia	of	islamist movement	LOCATION	0
+0.3550234121835929	region	report by	somali defense ministry Tuesday	0	DATE
+1.0	it	be	known US military strike	0	LOCATION
+1.0	it	deny	US involvement	0	LOCATION
+1.0	it	follow	rout	0	0
+1.0	it	deny us involvement in	region report by defense ministry on Tuesday	0	DATE
+1.0	Yusuf Ismail Aden	tell afp in	Mogadishu	PERSON	LOCATION
+1.0	resident	report	US air strike	0	LOCATION
+1.0	US embassies	have	bombings	O	O
+1.0	it	be	first known US military strike	0	LOCATION
+1.0	it	deny us involvement in	region report	0	0
+1.0	it	be	US military strike there in 1994	0	LOCATION
+1.0	it	be	known US military strike in country there in 1994	0	LOCATION
+1.0	it	be	US strike	0	LOCATION
+1.0	United States	hit	alleged extremist position north of port of Kismayo	LOCATION	LOCATION
+1.0	Qaeda operative	hide with	element of Somalia 's islamist movement	ORGANIZATION	LOCATION
+0.9859773795464108	people	19 at	least	0	0
+1.0	it	be	US strike in country	0	LOCATION
+1.0	it	be	first US strike in country there in 1994	0	LOCATION
+0.3550234121835929	region	report by	somali defense ministry	0	0
+1.0	it	deny us involvement in	region report by somali defense ministry on Tuesday	0	DATE
+1.0	it	be	known US military strike in country	0	LOCATION
+1.0	United States	acknowledge on	Tuesday	LOCATION	DATE
+1.0	Elders	be in	area	0	0
+1.0	United States	hit	alleged extremist position north	LOCATION	0
+1.0	United States	hit	extremist position north	LOCATION	0
+1.0	its first overy military action	be in	Somalia	ORDINAL	LOCATION
+1.0	resident	report	new US air strike on Al-Qaeda target	0	LOCATION
+1.0	it	be	first known US strike there in 1994	0	LOCATION
+1.0	figure	be	higher	0	0
+1.0	resident	report us air strike in	southern Somalia	0	LOCATION
+1.0	american air strike	be in	today	0	DATE
+1.0	United States	hit	alleged extremist position north of port	LOCATION	0
+1.0	it	be	US strike there in 1994	0	LOCATION
+1.0	Ali Jama	be	Somali Information	PERSON	ORGANIZATION
+0.3550234121835929	region	report by	defense ministry	0	0
+1.0	Somalia	have	movement	O	LOCATION
+1.0	Chris Isleib	say in	Washington	PERSON	LOCATION
+1.0	Abdirahim Dinari	be	somali	PERSON	0
+1.0	it	be	first US military strike in country	0	LOCATION
+1.0	it	be	first known US military strike in country	0	LOCATION
+1.0	it	be	first known US strike	0	LOCATION
+1.0	Afmadow	have	towns	O	O
+1.0	another	be	Abu Taha al-Sudani	0	PERSON
+1.0	Osama bin Laden	be close to	Al-Qaeda	PERSON	ORGANIZATION
+1.0	Yusuf Ismail Aden	tell	AFP	PERSON	ORGANIZATION
+1.0	Elders	be in	Badade	0	LOCATION
+1.0	Somalia	be  at_time	early Monday	LOCATION	DATE
+1.0	it	be	first US military strike there in 1994	0	LOCATION
+1.0	movement	have	elements	O	O
+0.758097332465684	somali elder	say	at least 19 people	0	NUMBER
+1.0	Qaeda operative	hide with	element	ORGANIZATION	0
+1.0	it	be	first US strike	0	LOCATION
+1.0	Somali Information Minister Ali Jama	tell	AFP	0	ORGANIZATION
+1.0	Al-Qaeda	on	main leader	0	0
+1.0	US forces	have	withdrawal	O	O
+1.0	resident	report	US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	it	be	known US strike in country	0	LOCATION
+1.0	it	be	first US military strike	0	LOCATION
+1.0	it	be	known US strike there in 1994	0	LOCATION
+1.0	it	follow	rout of islamist force	0	0
+1.0	first known US military strike	be in	1994	LOCATION	DATE
+1.0	it	be	first known US military strike there in 1994	0	LOCATION
+1.0	it	be	first known US strike in country there in 1994	0	LOCATION
+1.0	Washington	accuse	Somali Islamists	LOCATION	MISC
+1.0	it	be	known US strike in country there in 1994	0	LOCATION
+1.0	government official	deny	account	0	0
+1.0	resident	report us air strike in	Somalia	0	LOCATION
+1.0	it	be	US strike in country there in 1994	0	LOCATION
+1.0	forces	have	rout	O	O
+1.0	first known US military strike	be in	country since withdrawal of US force	LOCATION	LOCATION
+0.24151331572812407	United States	hold	responsible	LOCATION	0
+1.0	Qaeda operative	hide with	element of Somalia 's movement	ORGANIZATION	LOCATION
+1.0	it	be	US military strike in country	0	LOCATION
+1.0	it	follow	rout of force	0	0
+1.0	attack	have die in	in Monday	0	DATE
+1.0	Kismayo	have	resident	O	LOCATION
+1.0	United States	hit	extremist position north of port of Kismayo	LOCATION	LOCATION
+1.0	it	deny us involvement in	region report by defense ministry	0	0
+1.0	it	be	US military strike in country there in 1994	0	LOCATION
+1.0	resident	report	new US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	it	be	first known US military strike in country there in 1994	0	LOCATION
+0.758097332465684	elder	say	at least 19 people	0	NUMBER
+1.0	Badade	have	towns	O	LOCATION
+1.0	Yusuf Ismail Aden	tell afp by	phone	PERSON	0
+1.0	Al-Qaeda	have	leaders	O	O
+1.0	it	deny us involvement in	region	0	0
+1.0	it	follow rout by	ethiopian government troops	0	0
+1.0	it	be	known US military strike there in 1994	0	LOCATION
+1.0	it	be	first US strike in country	0	LOCATION
+1.0	Kismayo	have	port	O	LOCATION
+1.0	air operations	have	unaware	O	O
+1.0	resident	report	US air strike on Al-Qaeda target	0	LOCATION
+1.0	it	be	first known US strike in country	0	LOCATION
+1.0	Chris Isleib	say in	Pentagon spokesman	PERSON	ORGANIZATION
+1.0	it	be	known US strike	0	LOCATION
+1.0	whom	have	two	NUMBER	O
+1.0	Yusuf Ismail Aden	resident of	Kismayo	PERSON	LOCATION
+1.0	it	deny us involvement in	at least two helicopter gunship attack	0	NUMBER
+1.0	it	be	first US strike there in 1994	0	LOCATION
+1.0	its	have	overy action	O	O
+1.0	it	follow rout by	government troops	0	0
+1.0	resident	report us air strike on	Wednesday	0	DATE

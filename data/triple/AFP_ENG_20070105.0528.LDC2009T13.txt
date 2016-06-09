@@ -1,0 +1,57 @@
+1.0	trading	be in	two subsidiary	0	NUMBER
+1.0	charge	fail	bank	0	0
+1.0	charge	fail bank in	succession	0	0
+1.0	non	have	number	O	O
+1.0	Taiwan	have	regulator	O	LOCATION
+1.0	commission	have	watch list	O	O
+1.0	China Rebar Co.	act as	guarantor	LOCATION	0
+1.0	Chia Hsin Food	be burden from	loss in its fiber business	ORGANIZATION	0
+1.0	charge	fail bank in	unprecedented move intend	0	0
+1.0	two	have	charge	O	NUMBER
+1.0	customer	queue	Bank 's branch across island	0	ORGANIZATION
+1.0	loss	be in	its man-made fiber business	0	0
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss	ORGANIZATION	MONEY
+1.0	Taiwan 's financial regulator	have take	charge of two	LOCATION	NUMBER
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss in its fiber business	ORGANIZATION	MONEY
+1.0	Chia Hsin Food	be burden from	loss in its man-made fiber business	ORGANIZATION	0
+1.0	depositor	lose confidence in	company	0	0
+1.0	Taiwan 's financial regulator	have take	charge	LOCATION	0
+1.0	customer	queue	Bank 's branch	0	ORGANIZATION
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss in its fiber business	ORGANIZATION	MONEY
+1.0	Chia Hsin Food	be burden from	loss	ORGANIZATION	0
+1.0	applications	have	court approval	O	O
+1.0	Chia Hsin Food	be burden with	19.9 billion dollar	ORGANIZATION	MONEY
+1.0	charge	fail bank in	unprecedented move	0	0
+1.0	Chia Hsin Food	be burden with	19.9 billion dollar in debt	ORGANIZATION	MONEY
+1.0	Hualien	have	Enterprise Bank	ORGANIZATION	ORGANIZATION
+1.0	depositors	have	applications	O	O
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss in its man-made fiber business	ORGANIZATION	MONEY
+1.0	Chinese Bank	have	branch across island withdraw	ORGANIZATION	0
+1.0	Taiwan 's regulator	have take	charge of two	LOCATION	NUMBER
+1.0	two unit	's company be	conglomerate rebar group	NUMBER	0
+1.0	units	have	parent company	O	O
+1.0	depositor	lose	confidence	0	0
+1.0	Chia Hsin Food	be	burden	ORGANIZATION	0
+1.0	Taiwan 's regulator	have take	charge	LOCATION	0
+1.0	charge	fail bank in	move intend	0	0
+1.0	Bank	have	branches	O	ORGANIZATION
+1.0	Taiwan	have	index	O	LOCATION
+1.0	charge	fail bank in	move	0	0
+1.0	commission	on	watch list	0	0
+1.0	19.9 billion dollar	be in	debt	MONEY	0
+0.8279064765924473	perform loan	be on	commission 's watch list	0	0
+1.0	charge	fail	private bank	0	0
+1.0	China Rebar Co.	act to	Chia Hsin Food	LOCATION	ORGANIZATION
+1.0	Taiwan	have	financial regulator	LOCATION	0
+1.0	depositor	lose confidence in	indebted company	0	0
+1.0	Chia Hsin Food	burden	Synthetic Fiber	ORGANIZATION	ORGANIZATION
+1.0	Taiwan	with	benchmark index down 1.25 percent on Friday	LOCATION	PERCENT
+1.0	two unit	have	parent company	NUMBER	0
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss in its man-made fiber business	ORGANIZATION	MONEY
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss	ORGANIZATION	MONEY
+1.0	depositors	have	money	O	O
+1.0	Customers	have	money	O	O
+1.0	The development	have	fiber business	O	O
+0.8279064765924473	loan	be on	commission 's watch list	0	0
+1.0	charge	fail bank in	quick succession	0	0
+1.0	Chinese Bank	be on	Saturday	ORGANIZATION	DATE

@@ -1,0 +1,40 @@
+1.0	Geely Group	10th automaker in	China 's	0	LOCATION
+1.0	world	have	market	O	O
+1.0	General Motors	be such as	Volkswagen	ORGANIZATION	ORGANIZATION
+1.0	the largest privately owned Chinese auto group , which has said	have	cars	O	O
+1.0	partners	have	name	O	O
+1.0	largest	be	keen	0	0
+1.0	automaker	produce about	83.9 percent of auto sale	0	PERCENT
+1.0	Geely Group	make	it automaker in China	ORGANIZATION	LOCATION
+1.0	Geely Group	sell	204,400 vehicle	ORGANIZATION	NUMBER
+1.0	vehicles	have	sales	O	O
+1.0	204,400 vehicle	be in	2006	NUMBER	DATE
+1.0	Geely Group	automaker in	China 's	0	LOCATION
+1.0	Geely Group	make	it automaker	ORGANIZATION	0
+1.0	China	have	automakers	O	LOCATION
+1.0	sale	increase	30.03 percent	0	PERCENT
+1.0	sale	rise	14.23 percent	0	PERCENT
+1.0	Geely Group	sell	204,400 vehicle in 2006	ORGANIZATION	NUMBER
+1.0	state press report	say at_time	Thursday	0	DATE
+1.0	China	sell	7.22 million auto unit	LOCATION	NUMBER
+1.0	top 10 automaker	produce about	83.9 percent of auto sale	NUMBER	PERCENT
+1.0	Shanghai Automotive Industry Corp	sell	Dong Feng Motor Corp	ORGANIZATION	ORGANIZATION
+1.0	Xinhua news agency	cite	quasi	ORGANIZATION	0
+1.0	vehicles	have	Sales	O	O
+1.0	these companies	have	venture	O	O
+1.0	action	be in	world 's third market	0	ORDINAL
+1.0	world	in	third market	0	ORDINAL
+1.0	Geely Group	make	it 10th automaker	ORGANIZATION	ORDINAL
+1.0	auto sales	have	percent	PERCENT	O
+1.0	Automobile Manufacturers	have	China Association	ORGANIZATION	ORGANIZATION
+1.0	top automaker	produce about	83.9 percent of auto sale	0	PERCENT
+1.0	Shanghai Automotive Industry Corp	sell	First Automobile Works	ORGANIZATION	ORGANIZATION
+1.0	Geely Group	make	it 10th automaker in China	ORGANIZATION	LOCATION
+1.0	10 automaker	produce about	83.9 percent of auto sale	NUMBER	PERCENT
+1.0	China	have	automaker	ORGANIZATION	0
+0.28627611980559997	sale	rise to	2.04 million	0	NUMBER
+1.0	passenger cars	have	Sales	O	O
+1.0	it 10th automaker	be in	China 's	ORDINAL	LOCATION
+1.0	Geely Group	have	models	O	O
+1.0	action	have	slice	O	O
+1.0	largest	sell	its car	0	0

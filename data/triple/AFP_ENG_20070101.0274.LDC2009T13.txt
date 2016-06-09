@@ -1,0 +1,88 @@
+1.0	self-rule	have	promise	O	O
+1.0	party	otherwise will see	window of opportunity slam	0	0
+1.0	delivery	have	year	DURATION	O
+1.0	party	will see	window of opportunity slam	0	0
+1.0	leader	issue	new year 's message	0	DATE
+1.0	government	be suspend after	allegation of IRA spy ring	0	ORGANIZATION
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	northern Ireland	of	largest protestant party	LOCATION	0
+1.0	executive	vote at_time	Friday	0	DATE
+1.0	promise	be many among	main plank	0	0
+1.0	refusal	be	stumbling	0	0
+1.0	Sinn Fein	have	executive	O	ORGANIZATION
+1.0	government	be	suspend	0	0
+1.0	Sinn Fein	have	refusal	O	ORGANIZATION
+1.0	new year 's	have	message	DATE	0
+1.0	party	recognise	PSNI due	0	ORGANIZATION
+1.0	party	otherwise will see	window	0	0
+1.0	promise	be many at	hand of IRA	0	ORGANIZATION
+1.0	the PSNI	due	its predecessor	ORGANIZATION	0
+1.0	retain link	be with	Britain	0	LOCATION
+1.0	the PSNI	due to	perceive Protestant bias	ORGANIZATION	0
+1.0	party	have historically oppose	recognise	0	0
+1.0	government	have set	March 26 deadline	0	DATE
+1.0	Stormont	seat of	administration	LOCATION	0
+1.0	Sinn Fein	have	refusal back	ORGANIZATION	0
+1.0	province	rule from	London	0	LOCATION
+1.0	promise	be many among	plank	0	0
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring	0	ORGANIZATION
+1.0	government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	government	be suspend at	Belfast seat	0	LOCATION
+1.0	party	otherwise will see	window of opportunity slam shut	0	0
+1.0	promise	be	among plank many at hand of IRA	0	ORGANIZATION
+1.0	Sinn Fein	have	military wing	ORGANIZATION	0
+1.0	Northern Ireland	have	main Roman Catholic party	LOCATION	MISC
+1.0	Northern Ireland	have	Roman Catholic party	O	LOCATION
+1.0	party	recognise	PSNI due to Protestant bias	0	ORGANIZATION
+1.0	party	will see	window	0	0
+1.0	landmark agreement	have	planks	O	O
+1.0	IRA spy ring	have	allegations	O	O
+1.0	Unionism	have	desire	O	O
+1.0	british government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	Sinn Fein 's refusal	have	have stumbling block	ORGANIZATION	0
+1.0	party	have	leader	O	O
+1.0	Sinn Fein	have	attitude	O	O
+1.0	executive	hold	landmark conference	0	0
+1.0	government	be	suspend in 2002 after allegation	0	DATE
+1.0	Sinn Fein 's refusal	have	have block	ORGANIZATION	0
+1.0	Ireland	have	Republic	LOCATION	LOCATION
+1.0	Northern Ireland 's	have	Police Service	O	LOCATION
+1.0	party	will see	window of opportunity slam shut	0	0
+1.0	government	be suspend at	Belfast seat of administration	0	LOCATION
+1.0	promise	be	among main plank many at hand	0	0
+1.0	Sinn Fein	have	wing	O	ORGANIZATION
+1.0	refusal	be	major	0	0
+1.0	the PSNI	due to	Protestant bias	ORGANIZATION	0
+1.0	northern Ireland	for	party have restore	LOCATION	0
+1.0	province	rule indefinitely from	London	0	LOCATION
+1.0	promise	be many at	hand	0	0
+1.0	Sinn Fein 's refusal	have	have major block	ORGANIZATION	0
+1.0	the PSNI	have	predecessor	O	O
+1.0	government	be	suspend after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	Troubles	have	decades	DURATION	O
+1.0	opportunity slam	have	window	O	O
+1.0	government	be suspend at	Stormont	0	LOCATION
+1.0	executive	vote on	its attitude	0	0
+1.0	reconciliation	be with	he roman catholic political rival	0	0
+1.0	executive	party 's	Northern Ireland	0	LOCATION
+1.0	leader	issue	year 's message	0	DATE
+1.0	government	be suspend after	allegation	0	0
+1.0	Ireland	have	parties	O	LOCATION
+1.0	party	recognise	PSNI due to perceive Protestant bias	0	ORGANIZATION
+1.0	promise	be	among main plank many at hand of IRA	0	ORGANIZATION
+1.0	british government	have set	March 26 deadline	0	DATE
+1.0	promise	be	many	0	0
+1.0	administration	have	Belfast seat	O	O
+1.0	party	have oppose	recognise	0	0
+1.0	promise	be	among plank many at hand	0	0
+1.0	government	be	suspend in 2002 after allegation at Stormont	0	DATE
+1.0	law	have	rule	O	O
+1.0	IRA	have	hands	O	ORGANIZATION
+1.0	Ireland	have	party	O	LOCATION
+1.0	government	be	suspend in 2002 at Stormont	0	DATE
+1.0	Sinn Fein 's refusal	have	have major stumbling block	ORGANIZATION	0
+1.0	government	be	suspend after allegation at Stormont	0	LOCATION
+1.0	government	be suspend in	2002	0	DATE
+1.0	Year	have	message	O	DATE
+1.0	delivery	better for	power-sharing in the province	0	0
+1.0	Ian Paisley	have	rivals	O	O

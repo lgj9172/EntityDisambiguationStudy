@@ -1,0 +1,44 @@
+1.0	year	have	world cup	O	DATE
+1.0	Avishka Gunawardena	be	Mahela Udawatta	PERSON	PERSON
+1.0	Kaushal Lokuarachchi	be	Gayan Wijekoon	PERSON	PERSON
+0.9844624324236997	player	four at	least	0	0
+1.0	Russel Arnold	be	Prasanna Jayawardena	PERSON	PERSON
+1.0	Sri Lanka 's	have	squad	O	O
+1.0	Sri Lanka 's cricket selector	recall veteran player at_time	here Friday	LOCATION	DATE
+1.0	squad	also feature	at least four player	0	NUMBER
+1.0	squad	feature	at least four uncapped player	0	NUMBER
+1.0	Mahela Jayawardena	be	Former skipper Marvan Atapattu	PERSON	PERSON
+1.0	Russel Arnold	veteran of	over 200 one-day international appearance between they	PERSON	DURATION
+1.0	Kumar Sangakkara	be	T.M Dilshan	PERSON	PERSON
+1.0	Sri Lanka	have	cricket selector	LOCATION	0
+1.0	Chaminda Vaas	be	Ruchira Perera	PERSON	PERSON
+0.9844624324236997	uncapped player	four at	least	0	0
+1.0	place	be in	side	0	0
+1.0	Nuwan Zoysa	be	Akalanka Ganegama	PERSON	PERSON
+1.0	squad	feature	at least four player	0	NUMBER
+1.0	Russel Arnold	be	Upul Chandana	PERSON	PERSON
+1.0	former skipper Marvan Atapattu	find	place	PERSON	0
+1.0	former skipper Marvan Atapattu	find	place in side	PERSON	0
+1.0	squad	also feature	at least four uncapped player	0	NUMBER
+1.0	Sri Lanka	have	cricket selectors	O	LOCATION
+1.0	this year	for	world cup	DATE	0
+1.0	Russel Arnold	be among	those recall to 30-member squad	PERSON	0
+1.0	Chamara Silva	be	Farveez Maharoof	PERSON	PERSON
+1.0	Sri Lanka 's cricket selector	recall	several veteran player	LOCATION	0
+1.0	Russel Arnold	be among	those recall to squad	PERSON	0
+1.0	Rangana Herath	be	Lasith Malinga	PERSON	PERSON
+1.0	Russel Arnold	be among	those	PERSON	0
+1.0	Sri Lanka 's cricket selector	recall veteran player to	its squad	LOCATION	0
+1.0	Russel Arnold	be among	those recall	PERSON	0
+1.0	Dilhara Fernando	be	Ishara Amarasinghe	PERSON	PERSON
+1.0	former skipper Marvan Atapattu	also find place despite	fitness concern	PERSON	0
+1.0	former skipper Marvan Atapattu	find place despite	fitness concern	PERSON	0
+1.0	Dilhara Lokuhettige	be	Muttiah Muralitharan	PERSON	PERSON
+1.0	former skipper Marvan Atapattu	also find	place in side	PERSON	0
+1.0	appearances	have	veterans	O	O
+1.0	Sri Lanka 's cricket selector	recall	veteran player	LOCATION	0
+1.0	former skipper Marvan Atapattu	also find	place	PERSON	0
+1.0	Chamara Kapugedera	be	Malinda Warnapura	PERSON	PERSON
+1.0	Sri Lanka 's cricket selector	recall veteran player at_time	Friday	LOCATION	DATE
+1.0	Sanath Jayasuriya	be	Upul Tharanga	PERSON	PERSON
+1.0	Lasith Malinga	be	Nuwan Kulasekera	PERSON	PERSON

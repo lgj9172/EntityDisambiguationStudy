@@ -1,0 +1,66 @@
+1.0	husband	of	ordeal	0	0
+1.0	he	be chained to	bed	0	0
+1.0	Zhang Qing	tell	afp	PERSON	0
+1.0	Guo	be with	fraud	PERSON	0
+1.0	Guo 's	be	associate	PERSON	0
+1.0	Guo with fraud	have	husband	O	O
+1.0	Guo 's meeting	be time	two have meet since he arrest	PERSON	NUMBER
+1.0	Guo 's meeting	be second time	two have meet since he arrest	PERSON	NUMBER
+1.0	Guo 's meeting	be time	two have meet	PERSON	NUMBER
+1.0	Guo 's meeting	be only time	two have meet since he arrest	PERSON	NUMBER
+1.0	China	have	Guangdong province	LOCATION	LOCATION
+1.0	Gao	be	however parole	PERSON	0
+1.0	Guo 's meeting	be with	he lawyer	PERSON	0
+1.0	Gao	house	arrest	PERSON	0
+1.0	he wife	claim at_time	Friday	0	DATE
+1.0	Gao	be	immediately parole	PERSON	0
+1.0	Guo	have	case	PERSON	0
+1.0	China	in	Guangdong province	LOCATION	LOCATION
+1.0	Guangzhou	capital of	Guangdong province	LOCATION	LOCATION
+0.5372064478710279	watch	release on	Thursday	0	DATE
+1.0	Guo 's	have	ordeal	O	O
+1.0	Guo 's	have	treatment	O	O
+1.0	Guo 's	become	know	PERSON	0
+1.0	China	of	lead cause of social unrest	LOCATION	0
+1.0	Guo 's meeting	be only second time	two have meet	PERSON	NUMBER
+1.0	the police	have	wife	O	O
+1.0	villager	be in	numerous land confiscation case	0	0
+1.0	husband	have	ordeal	O	O
+1.0	Zhang Qing	be wife of	Guo	PERSON	PERSON
+1.0	land dispute	be in	Taishi village	0	LOCATION
+1.0	Guo 's meeting	be only second time	two have meet since he arrest	PERSON	NUMBER
+1.0	Guangdong province	have	capital	O	LOCATION
+1.0	Gao	house arrest on	type	PERSON	0
+1.0	causes	have	one	NUMBER	O
+1.0	Guangdong	have	Taishi village	LOCATION	LOCATION
+0.7553225296641526	Zhang Qing	tortured on	Guo 's wife	PERSON	PERSON
+1.0	Guo	have	wife	O	PERSON
+1.0	probation	have	type	O	O
+1.0	lawyer Gao Zhisheng	have	associate	O	PERSON
+0.6178064907492737	Guo 's	have go on	hunger strike total 40 day	PERSON	DURATION
+1.0	Guo	have	meeting with lawyer	PERSON	0
+1.0	China	have	causes	O	LOCATION
+1.0	Guo	have	case	O	PERSON
+1.0	Gao	be	however immediately parole	PERSON	0
+1.0	he	be	chained	0	0
+1.0	two	have meet since	he arrest	NUMBER	0
+1.0	police	be in	China	0	LOCATION
+1.0	Guo 's meeting	be second time	two have meet	PERSON	NUMBER
+1.0	protests	have	series	O	O
+1.0	Guangdong	in	Taishi village	LOCATION	LOCATION
+1.0	ordeal	have	learned	O	O
+1.0	Guo 's	have	arrest	O	O
+1.0	subversion	have	convicted	O	O
+0.6178064907492737	Guo 's	have go on	hunger strike total	PERSON	0
+0.7553225296641526	Zhang Qing	tortured on	wife	PERSON	0
+1.0	Guo 's	have	lawyer	O	O
+1.0	three year	be in	prison	DURATION	0
+1.0	Gao	house arrest on	type of probation	PERSON	0
+1.0	Guo 's meeting	be only time	two have meet	PERSON	NUMBER
+1.0	Gao	be	parole	PERSON	0
+1.0	Zhang Qing	tell afp by	phone	PERSON	0
+1.0	Guo	have	meeting	O	PERSON
+1.0	unrest	have	causes	O	O
+1.0	resident	be in	land dispute	0	0
+0.6178064907492737	Guo 's	have go on	hunger strike	PERSON	0
+1.0	her husband 's	have	lawyer Hu Xiao	PERSON	O

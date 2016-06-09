@@ -1,0 +1,39 @@
+1.0	speech	be expect	come before Bush 's annual state in January	0	DATE
+1.0	US parties	have	leaders	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	he	be	expect	0	0
+1.0	speech	be expect	come before Bush 's state in late January	0	DATE
+1.0	speech	be expect	come before Bush 's state	0	PERSON
+1.0	evening	be	reception	DATE	0
+1.0	speech	be expect	come in late January	0	DATE
+1.0	issues	have	range	O	O
+1.0	speech	be expect	come before Bush 's state of Union address in January	0	DATE
+1.0	speech	be expect	come before Bush 's annual state	0	SET
+1.0	speech	come before	Bush 's annual state of Union address	0	SET
+1.0	he	unveil	strategy	0	0
+1.0	Bush	before	annual state of Union address	PERSON	SET
+1.0	speech	be expect	come	0	0
+1.0	speech	come before	Bush 's state of Union address	0	PERSON
+1.0	he	unveil	new strategy	0	0
+1.0	speech	be expect	come before Bush 's annual state of Union address in late January	0	DATE
+1.0	speech	come in	late January	0	DATE
+1.0	speech	be expect	come in January	0	DATE
+1.0	Union address	have	State	O	O
+1.0	speech	come in	January	0	DATE
+1.0	speech	come before	Bush 's state	0	PERSON
+1.0	speech	be	expect	0	0
+1.0	topics	have	range	O	O
+1.0	speech	come before	Bush 's annual state	0	SET
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	speech	be expect	come before Bush 's annual state of Union address in January	0	DATE
+1.0	speech	be expect	come before Bush 's annual state in late January	0	DATE
+1.0	Bush	have	State	O	PERSON
+1.0	speech	be expect	come before Bush 's state of Union address in late January	0	DATE
+1.0	speech	have	consultations	O	O
+1.0	evening	be reception at_time	tomorrow	DATE	0
+1.0	he	be	in which expect	0	0
+1.0	speech	be expect	come before Bush 's state of Union address	0	PERSON
+1.0	speech	be expect	come before Bush 's annual state of Union address	0	SET
+1.0	anonymity	have	condition	O	O
+1.0	speech	be expect	come before Bush 's state in January	0	DATE
+1.0	administration official	say at_time	Tuesday	0	DATE

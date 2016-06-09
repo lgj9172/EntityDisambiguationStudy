@@ -1,0 +1,37 @@
+1.0	The 47-year-old man	shoot	man	0	0
+1.0	incident	be	similar	0	0
+1.0	both	be take to	hospital	0	0
+1.0	this	be	third police firearm incident in one year	0	DURATION
+1.0	The 47-year-old man	shoot twice	man	0	0
+1.0	anti-burglary operation	be in	area	0	0
+1.0	he	try	flee on bicycle	0	0
+1.0	he	flee on	bicycle	0	0
+1.0	man	be recently release from	prison	0	0
+1.0	he	try	flee	0	0
+1.0	officer	be stab in	three time	0	NUMBER
+1.0	third police firearm incident	be in	one year	ORDINAL	DURATION
+1.0	man	be	recently release	0	DATE
+1.0	officer 34	be	stab	NUMBER	0
+1.0	officer 34	be	during struggle stab three time in	NUMBER	NUMBER
+1.0	officer 34	be stab during	struggle	NUMBER	0
+1.0	officer	be stab during	struggle	0	0
+1.0	coroner	have	court	O	O
+1.0	officer	be	during struggle stab three time in	0	NUMBER
+1.0	officer 34	be stab in	three time	NUMBER	NUMBER
+1.0	man	be	release	0	0
+0.7843545267664406	police officer	anti-burglary operation in	area	0	0
+1.0	The 47-year-old man	shoot man twice in	neck	0	0
+0.7843545267664406	police officer	operation in	area	0	0
+1.0	incident	be	alarmingly similar	0	0
+1.0	The 47-year-old man	shoot man in	neck	0	0
+1.0	officer	approach	he	0	0
+1.0	both	be	later take	0	0
+1.0	both	be	take	0	0
+1.0	this	be	police firearm incident in one year	0	DURATION
+1.0	mortem	will	will conduct	0	0
+1.0	this	be	police firearm incident	0	0
+1.0	officer	be	stab	0	0
+1.0	both	be later take to	hospital	0	0
+1.0	this	be	third police firearm incident	0	ORDINAL
+1.0	man	be release from	prison	0	0
+1.0	mortem	will	will conduct on Friday	0	DATE

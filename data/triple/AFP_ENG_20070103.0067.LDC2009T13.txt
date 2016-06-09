@@ -1,0 +1,52 @@
+1.0	he unit	be strike by	bomb in army compound south of capital	0	0
+1.0	it	take loss to	2,995	0	NUMBER
+1.0	he unit	be	when strike by bomb in iraqi army compound south	0	0
+1.0	it	take	loss	0	0
+1.0	unit	be conduct	security patrol	0	0
+1.0	unit	be conduct security patrol for	ordnance team return	0	0
+1.0	bomb	go off in	military add	0	0
+1.0	it	also take	total military loss	0	0
+1.0	it	also take loss since	invasion	0	0
+1.0	bomb	be in	iraqi army compound south of capital	0	0
+1.0	unit	be conduct security patrol for	explosive ordnance team return	0	0
+1.0	he unit	be	when strike	0	0
+1.0	it	take loss accord to	afp count	0	0
+1.0	it	take loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	it	take	military loss	0	0
+1.0	bomb	go in	military	0	0
+1.0	The soldier	have	unit	O	O
+1.0	it	take	total loss	0	0
+1.0	military	report at_time	Wednesday	0	DATE
+1.0	it	take	total military loss	0	0
+1.0	bomb	go in	military add	0	0
+1.0	it	take loss since	invasion	0	0
+1.0	fatality	bring	military 's loss	0	0
+1.0	it	also take	total loss	0	0
+1.0	it	take loss accord to	afp count base	0	0
+1.0	he unit	be strike by	bomb in army compound south	0	0
+1.0	he unit	be strike by	bomb	0	0
+1.0	it	also take loss to	2,995	0	NUMBER
+1.0	Baghdad	have	US soldier south	O	LOCATION
+1.0	unit	be conduct security patrol for	explosive ordnance team	0	0
+1.0	military	have	losses	O	O
+1.0	he unit	be	when strike by bomb in iraqi army compound south of capital	0	0
+1.0	unit	be conduct security patrol for	ordnance team	0	0
+1.0	he unit	be	when strike by bomb	0	0
+1.0	it	also take loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	bomb	go off in	military	0	0
+1.0	capital	have	army compound south	O	O
+1.0	he unit	be	strike	0	0
+1.0	he unit	be	when strike by bomb in army compound south of capital	0	0
+1.0	he unit	be	when strike by bomb in army compound south	0	0
+1.0	latest fatality	bring	military 's loss	0	0
+1.0	it	also take	military loss	0	0
+1.0	it	also take loss accord to	afp count	0	0
+1.0	bomb	go in	compound	0	0
+1.0	bomb	go off in	compound	0	0
+1.0	he unit	be strike by	bomb in iraqi army compound south	0	0
+1.0	he unit	be strike by	bomb in iraqi army compound south of capital	0	0
+1.0	highest monthly toll	be in	more than two year	SET	DURATION
+1.0	it	also take	loss	0	0
+1.0	soldier	die on	Sunday	0	DATE
+1.0	it	also take loss accord to	afp count base	0	0
+1.0	military	have	loss	0	0

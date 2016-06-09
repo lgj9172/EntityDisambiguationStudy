@@ -1,0 +1,20 @@
+0.5257288523409243	President George W. Bush	increase number in	Iraq	PERSON	LOCATION
+1.0	senior army commander	say at_time	Thursday	0	DATE
+1.0	aircraft carrier	be in	Middle East	0	LOCATION
+1.0	government military installations	have	defence	O	O
+1.0	army commander	say at_time	Thursday	0	DATE
+1.0	Patriot missiles	have	Washington	LOCATION	O
+1.0	Iran	have	reactor	O	LOCATION
+1.0	President George W. Bush	unveil	plan	PERSON	0
+1.0	russian army commander	say at_time	Thursday	0	DATE
+1.0	number	deploy	anti- missile patriot missile	0	0
+1.0	number	deploy missile patriot missile in	region	0	0
+1.0	Sergei Ivanov	be to	Russian	PERSON	MISC
+1.0	Iran	be with	tor-m1 surface-to-air missile system	LOCATION	0
+0.5257288523409243	President George W. Bush	increase	number of US troops	PERSON	LOCATION
+0.5257288523409243	President George W. Bush	increase	number	PERSON	0
+1.0	President George W. Bush	unveil plan on	Wednesday	PERSON	DATE
+1.0	US troops	have	number	O	O
+1.0	Vladimir Shamanov	aide to	Sergei Ivanov	PERSON	PERSON
+1.0	senior russian army commander	say at_time	Thursday	0	DATE
+1.0	number	deploy	missile patriot missile	0	0

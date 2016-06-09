@@ -1,0 +1,41 @@
+1.0	snap	settle over	northern India	0	LOCATION
+1.0	cold snap	settle over	northern India	0	LOCATION
+1.0	cold snap	settle in	last week of December	0	DATE
+1.0	cold snap	settle in	week of December	0	DATE
+1.0	casualties	have	32	NUMBER	O
+1.0	country	in	north	0	0
+1.0	week	have	rest	O	DATE
+1.0	overnight	of	Mahoba district	TIME	LOCATION
+1.0	people	have	year scores	O	O
+1.0	relief official	say in	capital Lucknow	0	LOCATION
+1.0	cold snap	settle in	week	0	DATE
+1.0	bonfire	be light in	public place	0	0
+1.0	country	have	north	O	O
+1.0	official	have order	bonfire	0	0
+1.0	people	freeze to	death	0	0
+1.0	snap	settle in	week of December	0	DATE
+1.0	official	be in	Uttar Pradesh	0	LOCATION
+1.0	Uttar Pradesh accounting	have	state	O	O
+1.0	relief official	say in	provincial capital Lucknow	0	LOCATION
+1.0	official	state 's	India	0	LOCATION
+1.0	December	have	week	DATE	DATE
+1.0	cold snap	settle in	last week	0	DATE
+1.0	bonfire	be	light	0	0
+1.0	people	freeze at_time	last winter	0	DATE
+1.0	bonfire	be light in	place	0	0
+1.0	exposure	have	die	O	O
+1.0	people	freeze to	death in country 's north	0	0
+1.0	snap	settle in	last week	0	DATE
+1.0	death	be in	country 's north	0	0
+1.0	India	have	state	O	LOCATION
+1.0	snap	settle in	last week of December	0	DATE
+1.0	poor	can warm	Officials in Uttar Pradesh	0	0
+1.0	overnight	have	Mahoba district	O	TIME
+1.0	season	have	lowest	O	O
+1.0	snap	settle in	week	0	DATE
+1.0	snap	settle over	India	0	LOCATION
+1.0	India	have	largest state	LOCATION	0
+1.0	people	freeze at_time	winter	0	DATE
+1.0	cold snap	settle over	India	0	LOCATION
+1.0	Mahoba district	have	died	O	O
+1.0	Mercury	have	lowest	O	O

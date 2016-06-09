@@ -1,0 +1,59 @@
+1.0	their	have	troops	O	O
+1.0	troops	seize	control	0	0
+1.0	Dooyow Hassan Mohamed	say	Jilib	PERSON	LOCATION
+1.0	they camp	open fire in	southern somali town	0	0
+1.0	troops	force	they	0	0
+1.0	ethiopian troops	seize	control	DURATION	0
+0.691499965079084	ethiopian troops	support	force	DURATION	0
+1.0	officer	be take by	ethiopian helicopter	0	0
+1.0	soldier	be	kill	0	0
+0.691499965079084	ethiopian troops	support	somali force	DURATION	DURATION
+1.0	port town	have	control	O	O
+1.0	Islamists	have concede	defeat	MISC	0
+1.0	they camp	open fire in	southern town	0	0
+1.0	Farah	be also gun down	force	PERSON	0
+0.8243335097778991	troops	control of	port town	0	0
+1.0	they camp	open	fire	0	0
+0.691499965079084	troops	support	force	0	0
+1.0	ethiopian troops	force	they	DURATION	0
+1.0	Farah	be	gun	PERSON	0
+0.8243335097778991	troops	control of	southern port town of Kismayo	0	LOCATION
+1.0	officer	be	take	0	0
+0.691499965079084	troops	support	somali force	0	DURATION
+1.0	ethiopian troops	seize	control of southern port town	DURATION	0
+1.0	Farah	be	also gun	PERSON	0
+1.0	Kismayo	have	port town	O	LOCATION
+1.0	ethiopian soldier	be	kill	0	0
+1.0	injured officer	be	take	0	0
+1.0	Farah	be also gun down	ethiopian force	PERSON	0
+1.0	injured officer	be take by	ethiopian helicopter	0	0
+1.0	port town	have	kilometres north	O	O
+0.8243335097778991	ethiopian troops	control of	southern port town	DURATION	0
+1.0	Farah	be gun down	ethiopian force	PERSON	0
+1.0	troops	seize	control of port town of Kismayo	0	LOCATION
+1.0	ethiopian troops	seize	control of port town	DURATION	0
+1.0	they camp	open fire in	town	0	0
+0.9855820808431202	ethiopian soldier	two at	least	0	0
+1.0	Jilib authority	have	chairman	O	O
+0.8243335097778991	ethiopian troops	control of	southern port town of Kismayo	DURATION	LOCATION
+1.0	ethiopian force	be in	camp	0	0
+1.0	Mohamed	say	add	PERSON	0
+1.0	one man	be with	gun	NUMBER	0
+1.0	ethiopian camp	be in	Jilib	0	LOCATION
+1.0	officer	be take by	helicopter	0	0
+1.0	Farah	be gun down	force	PERSON	0
+0.8243335097778991	troops	control of	southern port town	0	0
+0.8243335097778991	troops	control of	port town of Kismayo	0	LOCATION
+0.8243335097778991	ethiopian troops	control of	port town of Kismayo	DURATION	LOCATION
+1.0	they camp	open fire in	somali town	0	0
+1.0	assailant	be	kill	0	0
+1.0	ethiopian troops	seize	control of southern port town of Kismayo	DURATION	LOCATION
+1.0	troops	seize	control of port town	0	0
+1.0	At least two Ethiopian soldiers	have	camp	O	O
+1.0	troops	seize	control of southern port town	0	0
+0.8243335097778991	ethiopian troops	control of	port town	DURATION	0
+1.0	troops	seize	control of southern port town of Kismayo	0	LOCATION
+0.9855820808431202	soldier	two at	least	0	0
+1.0	Dooyow Hassan Mohamed	say	Jilib resident	PERSON	LOCATION
+1.0	injured officer	be take by	helicopter	0	0
+1.0	ethiopian troops	seize	control of port town of Kismayo	DURATION	LOCATION

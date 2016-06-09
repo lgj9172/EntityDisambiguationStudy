@@ -1,0 +1,59 @@
+1.0	progress	be in	political process	0	0
+1.0	Basra	have	city	O	LOCATION
+1.0	two man	agree on	necessity	NUMBER	0
+1.0	US president	have	initiative	O	O
+1.0	Rasmussen	guarantee	reconciliation between different group	PERSON	0
+1.0	Rasmussen	accord to	office	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush during a telephone conversation	be	set	PERSON	0
+1.0	Anders Fogh Rasmussen	have	hope	O	O
+1.0	Prime Minister Anders Fogh Rasmussen	tell	US President George W. Bush	PERSON	LOCATION
+1.0	situation	be in	southern Iraq	0	LOCATION
+1.0	Rasmussen	especially guarantee	reconciliation between different group	PERSON	0
+1.0	staunch Washington ally	be in	war	LOCATION	0
+1.0	specific task	assign to	iraqi government	MONEY	MONEY
+1.0	Anders Fogh Rasmussen	say in	statement	PERSON	0
+1.0	Denmark	reduce	its troop number	LOCATION	0
+1.0	war	be in	southern Iraq	0	LOCATION
+1.0	Rasmussen	guarantee reconciliation in	society	PERSON	0
+1.0	Denmark	have	troop numbers	O	O
+1.0	soldiers	have	number	O	O
+1.0	man	discuss challenge in	southern Iraq	0	LOCATION
+1.0	country	have	security	O	O
+1.0	task	assign to	iraqi government	MONEY	MONEY
+1.0	Rasmussen	stress	need for progress in process	PERSON	0
+1.0	a billion dollar	be in	economic aid	MONEY	MONEY
+1.0	Rasmussen	especially guarantee reconciliation in	society	PERSON	0
+1.0	Rasmussen	stress	need for progress	PERSON	0
+1.0	its	have	efforts	O	O
+1.0	call	last at_time	30 minute	0	DURATION
+1.0	security	be in	Iraq	0	LOCATION
+1.0	danish Prime Minister Anders Fogh Rasmussen	tell	US President George W. Bush during telephone conversation	PERSON	LOCATION
+1.0	Rasmussen	stress need during	conversation with Bush	PERSON	PERSON
+1.0	Rasmussen	stress need during	conversation	PERSON	0
+1.0	Rasmussen	stress	need	PERSON	0
+1.0	Denmark	have	470 soldier serve	LOCATION	NUMBER
+1.0	southern Iraq	be in	the year when the Iraqis can take responsibility for security in southern Iraq '' ... allowing in due course `` the reduction of the number of British and Danish soldiers	LOCATION	DATE
+1.0	man	discuss	challenge	0	0
+1.0	Anders Fogh Rasmussen	be	danish	PERSON	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	tell	US President George W. Bush	PERSON	LOCATION
+1.0	two man	discuss	challenge	NUMBER	0
+1.0	conversation	be with	Bush	0	PERSON
+1.0	Denmark	have	470 soldier	LOCATION	NUMBER
+1.0	task	assign to	government	MONEY	0
+1.0	Anders Fogh Rasmussen	ally in	war	PERSON	0
+1.0	Rasmussen	guarantee	reconciliation	PERSON	0
+1.0	Rasmussen	stress	need for progress in political process	PERSON	0
+0.4933876971418659	470 soldier	serve in	Iraq	NUMBER	LOCATION
+1.0	man	agree on	necessity	0	0
+1.0	Rasmussen	especially guarantee	reconciliation	PERSON	0
+1.0	call	last accord to	Rasmussen 's office	0	PERSON
+1.0	two man	discuss challenge in	southern Iraq	NUMBER	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Rasmussen	especially guarantee	reconciliation between group	PERSON	0
+1.0	number	have	reduction	O	O
+1.0	Rasmussen	have	office	O	PERSON
+1.0	Rasmussen	guarantee	reconciliation between group	PERSON	0
+1.0	Denmark	have	470 soldier serve in Iraq	LOCATION	NUMBER
+1.0	Prime Minister Anders Fogh Rasmussen	tell	US President George W. Bush during telephone conversation	PERSON	LOCATION
+1.0	specific task	assign to	government	MONEY	0

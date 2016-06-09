@@ -1,0 +1,29 @@
+1.0	Beatrix	be on	Thursday	PERSON	DATE
+1.0	Netherlands		Beatrix	LOCATION	PERSON
+1.0	Culture Minister Renaud Donnedieu Vabres	be at	event	PERSON	0
+1.0	sketches	have	exhibition	O	O
+1.0	year	attend by	crowd	DATE	0
+1.0	insitute	organise	series of event	0	0
+1.0	insitute	organise series over	next three month	0	DURATION
+1.0	insitute	organise series include	concert	0	0
+1.0	insitute	organise series over	three month	0	DURATION
+1.0	French Culture Minister Renaud Donnedieu de Vabres and Dutch Foreign Minister Ben Bot	have	identity	O	O
+1.0	Netherlands	have	Queen Beatrix	PERSON	LOCATION
+1.0	events	have	series	O	O
+1.0	VIPs	have	crowd	O	O
+1.0	50th year	attend by	crowd	DATE	0
+1.0	centre	have	work in Paris	0	LOCATION
+1.0	Renaud Donnedieu de Vabres	be	french	PERSON	0
+1.0	institute	have	year	DATE	O
+1.0	centre 's work	be in	Paris	0	LOCATION
+1.0	centre	have	work	O	O
+1.0	Ben Bot	be	Dutch	PERSON	MISC
+1.0	dutch cultural institute	be in	Paris	0	LOCATION
+1.0	french Culture Minister Renaud Donnedieu Vabres	be at	event	PERSON	0
+1.0	50th year	attend by	crowd of vip	DATE	0
+1.0	Rembrandt	be by	dutch	PERSON	0
+1.0	insitute	organise	series	0	0
+1.0	Culture Minister Renaud Donnedieu de Vabres	be at	event	PERSON	0
+1.0	french Culture Minister Renaud Donnedieu de Vabres	be at	event	PERSON	0
+1.0	EU country	have	benefits	O	O
+1.0	year	attend by	crowd of vip	DATE	0

@@ -1,0 +1,49 @@
+1.0	rider	strip	he of he Tour de France title	MISC	MISC
+1.0	american Cycling Federation	have	right	ORGANIZATION	0
+1.0	body 's president Pierre Bordry	tell afp on	Friday	PERSON	DATE
+1.0	Drug-tainted Tour de France winner Floyd Landis	have	samples	O	O
+1.0	american	win tour de france at_time	last July	0	DATE
+1.0	AFLD	bar	rider	0	0
+1.0	body 's president Pierre Bordry	tell	afp	PERSON	0
+1.0	February 8	on agency be	afld	DATE	0
+1.0	test	take place include	one approve by Floyd Landis	0	PERSON
+1.0	rider	eventually strip	he	MISC	0
+1.0	test	take	place	0	0
+1.0	AFLD	be	able	0	0
+1.0	test	take place in	presence	0	0
+1.0	test	take place in	presence of three expert	0	NUMBER
+1.0	Cycling Federation	only have	right	ORGANIZATION	0
+1.0	lawyers	have	one	NUMBER	O
+1.0	the UCI	have	case	O	ORGANIZATION
+1.0	hearing	be in	Paris	0	LOCATION
+1.0	The 32-year-old American	have	name	O	O
+1.0	body	have	president Pierre Bordry	PERSON	O
+1.0	Drug-tainted Tour de France winner Floyd Landis	have	result	O	O
+1.0	32-year-old american	win tour de france at_time	July	DURATION	DATE
+1.0	american Cycling Federation	only have	right	ORGANIZATION	0
+1.0	Cycling Federation	have	right	ORGANIZATION	0
+1.0	32-year-old american	win tour de france at_time	last July	DURATION	DATE
+1.0	test	take place include	one approve	0	NUMBER
+1.0	the rider	have	Tour de France title	O	O
+1.0	rider	eventually strip	he of he Tour de France title	MISC	MISC
+1.0	Drug-tainted Tour de France winner Floyd Landis	have build	he defence	PERSON	0
+1.0	his	have	lawyers	O	O
+0.5693283949828261	place	test on	b sample	0	0
+1.0	The 32-year-old American	test	positive for testosterone	0	0
+1.0	AFLD	be	only able	0	0
+1.0	Cycling Federation	have	International Cycling Union	ORGANIZATION	ORGANIZATION
+1.0	body	have	Pierre Bordry	0	PERSON
+1.0	race	have	stage	O	O
+1.0	american	win tour de france at_time	July	0	DATE
+1.0	The 32-year-old American	test	positive	0	0
+1.0	american	win	Tour de France	0	LOCATION
+1.0	Cycling Federation	only have	International Cycling Union	ORGANIZATION	ORGANIZATION
+1.0	The 32-year-old American	have in	have cycling limbo	0	0
+1.0	Floyd Landis	be	drug-tainted Tour de France	PERSON	MISC
+1.0	experts	have	presence	O	O
+1.0	rider	strip	he	MISC	0
+1.0	american Cycling Federation	only have	International Cycling Union	ORGANIZATION	ORGANIZATION
+1.0	Tour de France title	have	him	O	O
+1.0	32-year-old american	win	Tour de France	DURATION	LOCATION
+1.0	american Cycling Federation	have	International Cycling Union	ORGANIZATION	ORGANIZATION
+1.0	Drug-tainted Tour de France winner Floyd Landis	have	defence	O	O

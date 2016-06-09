@@ -1,0 +1,83 @@
+1.0	country	have	west	O	O
+1.0	Isobel , the first of the state 's annual cyclone season -- which can last until March --	first of	state 's annual cyclone season	PERSON	SET
+1.0	closure	follow	resource	0	0
+0.5931145603517921	there	will	will wind with combination	0	0
+1.0	Broome	kilometre to	north	LOCATION	0
+1.0	biggest summer storm	be in	year	DATE	0
+1.0	Woodside Petroleum	temporarily halt	country largest	ORGANIZATION	0
+1.0	Meteorology	have	Bureau	ORGANIZATION	ORGANIZATION
+1.0	low pressure system	be in	state 's south west	0	0
+1.0	there	risk of	significant livestock loss	0	0
+1.0	storm	be	where expect	0	0
+1.0	storm	have	hatches	O	O
+0.5931145603517921	there	will	will damaging wind with combination of rain	0	0
+0.5931145603517921	there	will	will wind with combination of rain	0	0
+1.0	Woodside Petroleum	temporarily halt	activity	ORGANIZATION	0
+0.10229525773632098	Australia 's Bureau	expect as	as Broome	ORGANIZATION	LOCATION
+1.0	Cyclone Isobel	rapidly close in	in Western Australia 's resource	0	LOCATION
+1.0	will localised damaging wind	be with	combination of rain	0	0
+1.0	Western Australia 's resource - rich north-west coast	have	Cossack Pioneer oilfield	O	O
+1.0	Isobel	have	remains	O	PERSON
+1.0	Woodside Petroleum	halt	country largest	ORGANIZATION	0
+1.0	closure	halt	activity	0	0
+1.0	storm	be expect	hit	0	0
+1.0	Australia 's Bureau	expect	gust	ORGANIZATION	0
+0.5590225477012898	Australia 's Bureau	gust per	hour	ORGANIZATION	DURATION
+0.5590225477012898	Australia 's Bureau	gust of	60 mile	ORGANIZATION	NUMBER
+0.5931145603517921	there	will	will damaging wind	0	0
+0.5931145603517921	there	will	will wind	0	0
+1.0	Woodside Petroleum	halt	country	ORGANIZATION	0
+1.0	rain	have	millimetres	O	O
+1.0	Isobel	have	remains	PERSON	0
+1.0	emergency service	advise	people live on coast	0	0
+1.0	Woodside Petroleum	halt	activity at its 100,000 barrel-per-day Cossack Pioneer oilfield	ORGANIZATION	LOCATION
+1.0	Cyclone Isobel	close in	in Western Australia 's resource	0	LOCATION
+1.0	Woodside Petroleum	halt	activity	ORGANIZATION	0
+1.0	wind hypothermia	have	combination	O	O
+1.0	emergency service	advise	people live	0	0
+0.5931145603517921	there	will	will localised damaging wind with combination of rain	0	0
+1.0	Western Australia	have	resource	O	LOCATION
+1.0	BHP Billiton	have	decision	O	ORGANIZATION
+1.0	property	have	damage	O	O
+1.0	Santos Ltd	cease	production	ORGANIZATION	0
+0.5931145603517921	there	will	will localised damaging wind with combination	0	0
+1.0	emergency service	advise	people	0	0
+0.5931145603517921	there	will	will damaging wind with combination	0	0
+1.0	BHP Billiton	have	decision	ORGANIZATION	0
+1.0	state	have	cyclone season	O	O
+1.0	closure	follow	resource Tuesday	0	DATE
+1.0	emergency service	advise	people live on southern coast	0	0
+1.0	emergency service	advise	people live on southern coast between Bremer Bay	0	LOCATION
+1.0	resource giant BHP Billiton 's decision late Tuesday	have	Nelson Point iron ore operation	O	O
+1.0	state	have	west	O	O
+1.0	Australia	have	Bureau of Meteorology	LOCATION	ORGANIZATION
+1.0	emergency service	advise	people live on coast between Bremer Bay	0	LOCATION
+1.0	Australia	have	Bureau	ORGANIZATION	LOCATION
+1.0	country	to	west	0	0
+1.0	state	of	annual cyclone season	0	SET
+1.0	closure	follow	resource late Tuesday	0	DATE
+1.0	rain	have	combination	O	O
+1.0	Australia 's Bureau	expect	gust per hour	ORGANIZATION	DURATION
+1.0	Woodside Petroleum	temporarily halt	activity at its 100,000 barrel-per-day Cossack Pioneer oilfield	ORGANIZATION	LOCATION
+1.0	Australia 's Bureau	expect gust as	as Broome	ORGANIZATION	LOCATION
+1.0	tropical Cyclone Isobel	close in	in Western Australia 's resource	0	LOCATION
+1.0	cyclone season	have	first	ORDINAL	O
+1.0	tropical Cyclone Isobel	rapidly close in	in Western Australia 's resource	0	LOCATION
+1.0	state	in	south west	0	0
+1.0	its 100,000 barrel-per-day Cossack Pioneer oilfield	activity 's	country largest	LOCATION	0
+1.0	Woodside Petroleum	halt	activity at its Cossack Pioneer oilfield	ORGANIZATION	LOCATION
+1.0	kilometres	have	gusts	O	O
+1.0	day mutineer-exeter project	be in	Carnarvon Basin	DURATION	LOCATION
+1.0	closure	follow resource at_time	night	0	TIME
+0.5931145603517921	there	will	will localised damaging wind	0	0
+1.0	livestock losses	have	risk	O	O
+1.0	Woodside Petroleum	temporarily halt	country	ORGANIZATION	0
+1.0	closure	halt activity at	its Nelson Point iron ore operation	0	LOCATION
+1.0	storm	be	expect	0	0
+1.0	there	risk of	livestock loss	0	0
+1.0	Australia 's Bureau	expect gust as	as away Broome	ORGANIZATION	LOCATION
+1.0	Santos Ltd	have	barrel-per	O	O
+1.0	Woodside Petroleum	temporarily halt	activity at its Cossack Pioneer oilfield	ORGANIZATION	LOCATION
+1.0	Santos Ltd	cease	production at its 50,000 barrel-per	ORGANIZATION	NUMBER
+1.0	there	risk of	quite significant livestock loss	0	0
+0.10229525773632098	Australia 's Bureau	expect as	as away Broome	ORGANIZATION	LOCATION

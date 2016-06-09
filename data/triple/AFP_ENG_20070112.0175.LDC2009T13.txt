@@ -1,0 +1,34 @@
+0.6099129594248616	seven	wound outside	residence	NUMBER	0
+1.0	people	have	around 10 have kill in incident in capital	0	NUMBER
+1.0	people	have	have kill in shooting incident in somali capital	0	0
+1.0	people	have	have kill in incident	0	0
+1.0	Somali President Abdullahi Yusuf Ahmed	have	residence	O	PERSON
+1.0	his	have	security guards	O	O
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed in gunbattle between he security guard	NUMBER	PERSON
+1.0	people	have	around 10 have kill in shooting incident in somali capital	0	NUMBER
+1.0	people	have	around 10 have kill in shooting incident	0	NUMBER
+1.0	president	have	security guards	O	O
+1.0	people	have	have kill	0	0
+1.0	warlord	have	those	O	O
+1.0	people	be	kill	0	0
+1.0	people	have	have kill in incident in somali capital	0	0
+1.0	Villa Somalia	have	entrance	O	LOCATION
+1.0	people	have	around 10 have kill	0	NUMBER
+1.0	those of a powerful warlord , witnesses	have	security guards	O	O
+1.0	people	have	around 10 have kill in shooting incident in capital	0	NUMBER
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed in gunbattle	NUMBER	PERSON
+1.0	people	have	have kill in incident in capital	0	0
+1.0	people	have	have kill in shooting incident in capital	0	0
+1.0	resident	tell	AFP	0	ORGANIZATION
+0.6099129594248616	seven	wound at_time	Friday	NUMBER	DATE
+1.0	people	have	around 10 have kill in incident	0	NUMBER
+1.0	Abdullahi Yusuf Ahmed	be in	gunbattle between he security guard	PERSON	0
+1.0	local resident	tell	AFP	0	ORGANIZATION
+1.0	people	have	around 10 have kill in incident in somali capital	0	NUMBER
+1.0	Abdullahi Yusuf Ahmed	be of	Somali	PERSON	MISC
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed	NUMBER	PERSON
+1.0	local resident	refer to	warlord Mohamed Qanyare Afrah	0	PERSON
+1.0	the	have	Two	NUMBER	O
+1.0	shooting incident	be in	somali capital	0	0
+1.0	people	have	have kill in shooting incident	0	0
+1.0	resident	refer to	warlord Mohamed Qanyare Afrah	0	PERSON

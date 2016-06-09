@@ -1,0 +1,31 @@
+1.0	shareholding	fall below	threshold	0	0
+1.0	Deutsche Bank	say in	filing	0	0
+1.0	biggest bank	be in	Germany	0	LOCATION
+1.0	Deutsche Bank	say in	mandatory filing publish in press on Wednesday	0	DATE
+1.0	shareholding	fall below	certain key threshold	0	0
+1.0	shareholding	fall below	certain threshold	0	0
+1.0	Deutsche Bank	say in	mandatory filing	0	0
+1.0	Deutsche Bank	say in	legal filing publish in press	0	0
+1.0	Deutsche Bank	say in	legal filing	0	0
+1.0	Deutsche Bank	have	stake	O	ORGANIZATION
+1.0	Deutsche Bank	say in	mandatory legal filing publish in press on Wednesday	0	DATE
+1.0	company	be oblige under	law	0	0
+1.0	Deutsche Bank 's stake	be in	industrial gas maker Linde to 7.87 percent	ORGANIZATION	PERSON
+1.0	shareholding	fall below	key threshold	0	0
+1.0	company	disclose	shareholding	0	0
+1.0	Deutsche Bank	have	stake in Linde	ORGANIZATION	PERSON
+1.0	Deutsche Bank	say in	filing publish in press	0	0
+1.0	Deutsche Bank	say in	mandatory legal filing publish in press	0	0
+1.0	company	be	oblige	0	0
+1.0	Linde	be to	7.87 percent	PERSON	PERCENT
+1.0	Deutsche Bank	bank in	Germany	ORGANIZATION	LOCATION
+1.0	Deutsche Bank	have	voting stake	O	O
+1.0	Deutsche Bank	say in	legal filing publish	0	0
+1.0	Deutsche Bank	say in	mandatory filing publish in press	0	0
+1.0	Deutsche Bank	say in	legal filing publish in press on Wednesday	0	DATE
+1.0	Deutsche Bank	say in	mandatory legal filing publish	0	0
+1.0	Deutsche Bank	say in	filing publish in press on Wednesday	0	DATE
+1.0	company	be oblige under	german law	0	0
+1.0	Deutsche Bank	say in	mandatory filing publish	0	0
+1.0	Deutsche Bank	say in	mandatory legal filing	0	0
+1.0	Deutsche Bank	say in	filing publish	0	0

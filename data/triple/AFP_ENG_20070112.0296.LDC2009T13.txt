@@ -1,0 +1,20 @@
+1.0	season	have	success	O	O
+1.0	France 's Sandrine Bailly	achieve	she success of season	LOCATION	0
+1.0	women	have	biathlon World Cup km sprint	O	O
+1.0	France 's Sandrine Bailly	finish	8.5 sec ahead	PERSON	DURATION
+1.0	France	with	Florence Baverel	LOCATION	ORGANIZATION
+1.0	woman	in	biathlon world Cup 7.5 km sprint	0	MISC
+1.0	France 's Sandrine Bailly	achieve	she first success	LOCATION	ORDINAL
+1.0	France 's Sandrine Bailly	achieve	she first success of season in woman 's biathlon world Cup 7.5 km sprint	LOCATION	MISC
+1.0	France	have	Sandrine Bailly	PERSON	LOCATION
+1.0	season	be in	woman 's biathlon world Cup 7.5 km sprint	0	MISC
+1.0	France 's Sandrine Bailly	have	success	O	O
+0.9308485261208141	sec	24min at_time	24.0	DURATION	DURATION
+1.0	France 's Sandrine Bailly	achieve	she success	LOCATION	0
+1.0	Swede Anna-Carin Olofsson	have	sec	DURATION	PERSON
+1.0	France 's Sandrine Bailly	achieve	she first success of season	LOCATION	ORDINAL
+1.0	France 's Sandrine Bailly	finish	8.5 sec	PERSON	DURATION
+1.0	France	have	Florence Baverel	ORGANIZATION	LOCATION
+1.0	France 's Sandrine Bailly	achieve	she success of season in woman 's biathlon world Cup 7.5 km sprint	LOCATION	MISC
+1.0	Anna-Carin Olofsson	be of	swede	PERSON	0
+1.0	France	have	Sandrine Bailly	LOCATION	PERSON

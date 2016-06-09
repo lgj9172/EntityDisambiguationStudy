@@ -1,0 +1,15 @@
+1.0	there have strong growth	be in	demand for air travel between India	0	LOCATION
+1.0	increase	be in	trade	0	0
+1.0	carriers of both nations	have	countries	O	O
+1.0	Delhi	have	cities	O	LOCATION
+1.0	Transport	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Bangalore	have	cities	O	LOCATION
+1.0	ministry	have	secretary	O	O
+1.0	Chennai	have	cities	O	LOCATION
+1.0	India	have	Tamil Nadu state	O	LOCATION
+1.0	Coimbatore	be in	India 's Tamil Nadu state	LOCATION	LOCATION
+1.0	nations	have	carriers	O	O
+1.0	ministry	have	permanent secretary	0	0
+1.0	city-state	say at_time	Wednesday	0	DATE
+1.0	India	in	Tamil Nadu state	LOCATION	LOCATION
+1.0	Choi Shing Kwok	secretary 's	ministry	PERSON	0

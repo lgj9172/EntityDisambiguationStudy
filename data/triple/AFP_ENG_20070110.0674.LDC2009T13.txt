@@ -1,0 +1,73 @@
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach south of Los Angeles on felony charge	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 south of Los Angeles	PERSON	DATE
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center south of Los Angeles	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center south	PERSON	LOCATION
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach south of Los Angeles	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach south on felony charge	PERSON	LOCATION
+1.0	Baldwin	be arraign south at	Harbor Justice Center	PERSON	LOCATION
+1.0	Harbor Justice Center	be in	Newport Beach	LOCATION	LOCATION
+1.0	actor Daniel Baldwin	face court hearing at_time	month	PERSON	DATE
+1.0	Baldwin	be arraign south at	Harbor Justice Center in Newport Beach	PERSON	LOCATION
+1.0	vehicle	receive	steal property	0	0
+1.0	William	be	arrest at motel in Santa Monica after police	PERSON	LOCATION
+1.0	Baldwin	be	arraign south	PERSON	0
+1.0	Baldwin	be	arraign south of Los Angeles on felony charge	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center on felony charge	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach south	PERSON	LOCATION
+1.0	Baldwin	be arraign at	Harbor Justice Center in Newport Beach	PERSON	LOCATION
+1.0	Actor Daniel Baldwin	have	arrest	O	O
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach south of Los Angeles	PERSON	DATE
+1.0	Baldwin	be	arraign on felony charge	PERSON	0
+1.0	William	be	arrest at motel in Santa Monica on November 7 after police	PERSON	DATE
+1.0	Baldwin	be arraign on	February 6	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center south on felony charge	PERSON	LOCATION
+1.0	Baldwin	of	two day	PERSON	DURATION
+1.0	Baldwin	be	arraign on February 6	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center south of Los Angeles on felony charge	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach south on felony charge	PERSON	DATE
+1.0	Santa Monica	be on	November 7	LOCATION	DATE
+1.0	Baldwin	be	arraign on February 6 south of Los Angeles on felony charge	PERSON	DATE
+1.0	Baldwin	be arraign south on	felony charge	PERSON	0
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach	PERSON	LOCATION
+1.0	actors	have	brother	O	O
+1.0	actor Daniel Baldwin	face court hearing on	charge relate	PERSON	0
+1.0	actor Daniel Baldwin	face	court hearing in California	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center south	PERSON	DATE
+1.0	William	be	arrest at motel in Santa Monica on November after police	PERSON	DATE
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center south on felony charge	PERSON	DATE
+1.0	vehicle	receive	property	0	0
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach on felony charge	PERSON	DATE
+1.0	actor Daniel Baldwin	face court hearing on	charge relate to he arrest	PERSON	0
+1.0	Baldwin	be arraign south on	February 6	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center in Newport Beach on felony charge	PERSON	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach south of Los Angeles on felony charge	PERSON	DATE
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach south	PERSON	DATE
+1.0	Baldwin	be	arraign on February 6 south on felony charge	PERSON	DATE
+1.0	Baldwin	be	arraign south on felony charge	PERSON	0
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center in Newport Beach	PERSON	DATE
+1.0	friend	have	sports utility vehicle	O	O
+1.0	Baldwin	be arraign at	Harbor Justice Center	PERSON	LOCATION
+1.0	Baldwin	have	days	DURATION	PERSON
+1.0	actor Daniel Baldwin	face	court hearing	PERSON	0
+1.0	Baldwin	be	arraign at Harbor Justice Center on felony charge	PERSON	LOCATION
+1.0	William	be	arrest at motel after police	PERSON	0
+1.0	Baldwin	be	arraign	PERSON	0
+1.0	court hearing	be in	California	0	LOCATION
+1.0	Baldwin	be	arraign on February 6 south	PERSON	DATE
+0.4971425110045641	William	motel	Alec	PERSON	PERSON
+1.0	actor Daniel Baldwin	face court hearing at_time	next month	PERSON	DATE
+1.0	Baldwin	be	arraign at Harbor Justice Center south of Los Angeles	PERSON	LOCATION
+1.0	Baldwin	be	arraign at Harbor Justice Center	PERSON	LOCATION
+1.0	actor Daniel Baldwin	face court hearing on	charge	PERSON	0
+1.0	court document	reveal at_time	Wednesday	0	DATE
+1.0	Baldwin	be	arraign on February 6 on felony charge	PERSON	DATE
+1.0	motel	be in	Santa Monica	0	LOCATION
+1.0	Baldwin	be	arraign on February 6 at Harbor Justice Center south of Los Angeles on felony charge	PERSON	DATE
+1.0	Baldwin	be arraign on	felony charge	PERSON	0
+1.0	Baldwin	be	arraign south of Los Angeles	PERSON	LOCATION
+1.0	days	have	friend	O	DURATION
+0.4971425110045641	William	motel	Stephen	PERSON	PERSON
+1.0	Los Angeles	have	south	O	LOCATION
+1.0	friend	have	sport utility vehicle	0	0
+1.0	William	be arrest after	police	PERSON	0

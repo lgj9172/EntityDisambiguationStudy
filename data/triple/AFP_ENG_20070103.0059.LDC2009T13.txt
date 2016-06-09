@@ -1,0 +1,85 @@
+0.6154546397183254	offence	us-led coalition in	Iraq	0	LOCATION
+1.0	names	have	None	O	O
+1.0	iraqi court	find	they related offence say	0	0
+0.6154546397183254	related terrorist offence	coalition in	Iraq	0	LOCATION
+1.0	court	find	they related terrorist offence say Wednesday	0	DATE
+1.0	Al-Qaeda times	have	member	O	O
+1.0	court	have sentence	Saudi	0	MISC
+1.0	defendants	have	rest	O	O
+1.0	hundred	have flood	fight	0	0
+0.6154546397183254	related offence	coalition in	Iraq	0	LOCATION
+1.0	defendant	be	media leader	0	0
+1.0	rest	be sentence include	border	0	0
+1.0	eight Iraqis	be sentence to	life imprisonment	MISC	0
+1.0	Iraq	have	Central Criminal Court	ORGANIZATION	ORGANIZATION
+1.0	iraqi army soldier	pull sudanese on	July 7	0	DATE
+1.0	Iraqis	be sentence during	period	MISC	0
+1.0	eight Iraqis	be sentence during	same period	MISC	0
+1.0	eight Iraqis	be	sentence	MISC	0
+1.0	Iraqis	be	sentence to life imprisonment during period	MISC	0
+1.0	Central Criminal Court	prosecute case in	secrecy	ORGANIZATION	0
+0.6154546397183254	terrorist offence	us-led coalition in	Iraq	0	LOCATION
+1.0	defendant	be	media leader for Al-Qaeda	0	MISC
+1.0	force	be in	April 2004	0	DATE
+1.0	Iraqis	be	sentence	MISC	0
+1.0	iraqi court	find	they related terrorist offence say	0	0
+1.0	Saddam Hussein	have	government	O	PERSON
+1.0	court	find	they terrorist offence say	0	0
+1.0	court	find	they related offence say	0	0
+1.0	court	find	they offence say Wednesday	0	DATE
+0.6154546397183254	related offence	us-led coalition in	Iraq	0	LOCATION
+1.0	iraqi court	find	they offence say Wednesday	0	DATE
+0.6154546397183254	related terrorist offence	us-led coalition in	Iraq	0	LOCATION
+1.0	eight Iraqis	be	sentence to life imprisonment during same period	MISC	0
+1.0	Iraqis	be sentence to	life imprisonment	MISC	0
+1.0	murder	have	convicted	O	O
+1.0	he	be	sentence	0	0
+1.0	volunteers	have	hundreds	O	O
+1.0	defendant	produce video for	organisation	0	0
+1.0	government	have	fall	DATE	O
+0.6154546397183254	terrorist offence	coalition in	Iraq	0	LOCATION
+1.0	army soldier	pull	Sudanese	0	MISC
+0.7783340363506673	occupy	force in	April 2004	0	DATE
+1.0	Al-Qaeda	have	guilty	O	MISC
+1.0	eight Iraqis	be	sentence to life imprisonment during period	MISC	0
+1.0	Central Criminal Court of Iraq	be between	December 8	ORGANIZATION	DATE
+1.0	iraqi army soldier	pull sudanese off	bus	0	0
+1.0	eight Iraqis	be sentence during	period	MISC	0
+1.0	Central Criminal Court	prosecute case in	great secrecy	ORGANIZATION	0
+1.0	hundred	fight against	US force	0	LOCATION
+1.0	army soldier	pull sudanese off	bus	0	0
+1.0	offences	have	mix	O	O
+1.0	iraqi court	have sentence	Saudi	0	MISC
+1.0	Iraqis	be	sentence to life imprisonment during same period	MISC	0
+1.0	iraqi court	find	they related offence say Wednesday	0	DATE
+1.0	he	be sentence on	December 12	0	DATE
+1.0	hundred	have flood	fight against US force	0	LOCATION
+1.0	court	find	they offence say	0	0
+1.0	Saddam Hussein	of	government in March 2003	PERSON	DATE
+1.0	iraqi court	find	they offence say	0	0
+0.6154546397183254	offence	coalition in	Iraq	0	LOCATION
+1.0	iraqi army soldier	pull	Sudanese	0	MISC
+1.0	iraqi court	find	they terrorist offence say Wednesday	0	DATE
+1.0	Iraqis	be sentence during	same period	MISC	0
+1.0	hundred	have flood since	fall of Saddam Hussein 's government in March 2003	0	PERSON
+1.0	hundred	have flood since	fall	0	DATE
+1.0	defendant	produce	video	0	0
+1.0	court	find	they terrorist offence say Wednesday	0	DATE
+1.0	bus	have	pulled	O	O
+1.0	court	find	they related terrorist offence say	0	0
+1.0	hundred	have flood since	fall of Saddam Hussein 's government	0	PERSON
+1.0	hundred	have flood into	Iraq	0	LOCATION
+1.0	Central Criminal Court	prosecute	case	ORGANIZATION	0
+1.0	he	be	sentence to death on December 12	0	DATE
+1.0	us-led coalition	be in	Iraq	0	LOCATION
+1.0	iraqi court	find	they terrorist offence say	0	0
+1.0	army soldier	pull sudanese on	July 7	0	DATE
+1.0	court	find	they related offence say Wednesday	0	DATE
+1.0	Central Criminal Court	prosecute	terrorist case	ORGANIZATION	0
+1.0	rest	be sentence include	illegal border	0	0
+1.0	defendants	have	names	O	O
+1.0	related terrorist offence	coalition in	Iraq	0	LOCATION
+1.0	iraqi court	find	they related terrorist offence say Wednesday	0	DATE
+1.0	rest	be sentence include	border cross	0	0
+1.0	Saddam Hussein 's government	be in	March 2003	PERSON	DATE
+1.0	he	be sentence to	death	0	0

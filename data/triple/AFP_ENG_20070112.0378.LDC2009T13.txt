@@ -1,0 +1,51 @@
+1.0	information	be	will send to Holy	0	ORGANIZATION
+1.0	bishops	have	past	DATE	O
+1.0	they	collaborate with	communist secret police	DATE	0
+1.0	crisis	be spark at_time	last Sunday	0	DATE
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	Poland 's episcopate	hold	schedule plenary meeting	0	0
+1.0	Poland 's episcopate	call for	past of bishop in overwhelmingly catholic country	LOCATION	DATE
+1.0	crisis	be	spark	0	0
+0.9093266678168022	emergency meeting	group of	bishop	0	0
+1.0	libera	call at_time	Friday	0	DATE
+1.0	crisis	be spark at_time	Sunday	0	DATE
+1.0	probe	cover past in	Poland 's	0	LOCATION
+1.0	bishops	have	council	O	O
+1.0	Poland 's episcopate	hold	meeting	0	0
+1.0	Poland 's episcopate	be probe	see	LOCATION	0
+1.0	Stanislaw Wielgus	collaborate with	communist police	0	0
+1.0	libera	also call for	investigation	0	0
+1.0	the bishops '	have	past	DATE	O
+1.0	Krakow Cathedral	have	canon	O	ORGANIZATION
+1.0	the bishops '	have	group	O	O
+1.0	council	have	head	O	O
+1.0	council	have	meeting	O	O
+1.0	Stanislaw Wielgus	collaborate with	reviled communist police	0	0
+1.0	Poland	have	episcopate	LOCATION	0
+1.0	historic commission	have submit	they report	0	0
+1.0	Poland 's episcopate	call at_time	Friday	LOCATION	DATE
+1.0	Poland 's episcopate	call	probe	LOCATION	0
+1.0	the 45 bishops who had attended the closed - door crisis meeting of the bishops ' council in Warsaw	have	pasts	O	O
+1.0	probe	cover	past of all 133 bishop	0	DATE
+1.0	libera	call for	investigation	0	0
+1.0	Poland 's episcopate	hold	schedule meeting	0	0
+1.0	they	collaborate with	secret police	DATE	0
+1.0	information	be	will send	0	0
+1.0	they	have	the bishops '	O	O
+1.0	libera	also call at_time	Friday	0	DATE
+1.0	Stanislaw Wielgus	resign as	archbishop	PERSON	0
+1.0	probe	cover	past	0	DATE
+1.0	the bishops '	have	council	O	O
+1.0	Stanislaw Wielgus	resign as	archbishop of Warsaw	PERSON	LOCATION
+1.0	probe	be	widen	0	0
+1.0	Janusz Bielanski	work with	sb	0	0
+1.0	Poland 's episcopate	be	probe	LOCATION	0
+1.0	Stanislaw Wielgus	collaborate with	Sluzba Bezpieczenstwa	0	PERSON
+1.0	experts	have	reports	O	O
+1.0	Poland	have	episcopate	O	LOCATION
+0.9093266678168022	emergency meeting	group of	45 bishop	0	NUMBER
+1.0	head	tell	reporter	0	0
+1.0	Poland 's episcopate	hold	plenary meeting	0	0
+1.0	commission	have submit	they report	0	0
+1.0	Church	be in	catholic Poland	0	ORGANIZATION
+1.0	they	collaborate with	police	DATE	0

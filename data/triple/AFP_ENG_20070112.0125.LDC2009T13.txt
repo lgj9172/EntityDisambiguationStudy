@@ -1,0 +1,34 @@
+1.0	Bank Haga	serve	small business	ORGANIZATION	0
+1.0	two bank	have combine asset at	end of year	NUMBER	DATE
+1.0	Rabobank	have	acquisition	O	O
+1.0	bank	have combine asset at	end of last year	0	DATE
+1.0	Antonio da Silva Costa	president of	pt Bank Rabobank International Indonesia	PERSON	ORGANIZATION
+1.0	sub-branches	have	network	O	O
+1.0	strategy	have	core sector	O	O
+1.0	dutch bank	say at_time	Friday	0	DATE
+1.0	two bank	have combine	asset	NUMBER	0
+1.0	two bank	have combine asset at	end of last year	NUMBER	DATE
+1.0	banks	have	founders	O	O
+1.0	bank	have combine asset at	end of year	0	DATE
+1.0	Bank Haga	serve	business	ORGANIZATION	0
+1.0	bank	have combine	asset	0	0
+1.0	bank	say at_time	Friday	0	DATE
+1.0	Rabobank	have	strategy	O	ORGANIZATION
+1.0	bank	have combine asset at	end	0	DATE
+1.0	banks PT Haga Bank	have	acquisition	O	ORGANIZATION
+1.0	year	have	end	DATE	DATE
+1.0	bank	have combine	asset of 5.28 trillion rupiah	0	MONEY
+1.0	Bank Haga	both focus	PT Haga Bank	ORGANIZATION	ORGANIZATION
+1.0	bank	have	percent	PERCENT	O
+1.0	Anton Suleiman	have	franchise	O	O
+1.0	Rabobank	of	global strategy	ORGANIZATION	0
+1.0	PT Haga Bank	have	acquisition	O	ORGANIZATION
+1.0	1,659	have	staff	O	NUMBER
+1.0	two bank	have combine	asset of 5.28 trillion rupiah	NUMBER	MONEY
+1.0	Bank Haga	serve	PT Haga Bank	ORGANIZATION	ORGANIZATION
+1.0	two bank	have combine asset at	end	NUMBER	DATE
+1.0	PT Bank Rabobank International Indonesia	have	president	O	ORGANIZATION
+1.0	branches	have	network	O	O
+1.0	rupiah	have	assets	O	MONEY
+1.0	Bank Haga	focus	PT Haga Bank	ORGANIZATION	ORGANIZATION
+1.0	pt Haga Bank	be of	indonesian	ORGANIZATION	0

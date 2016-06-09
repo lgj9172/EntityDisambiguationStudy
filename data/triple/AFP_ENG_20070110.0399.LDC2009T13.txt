@@ -1,0 +1,53 @@
+1.0	crude inventory	expect as	most oil trader	0	0
+1.0	US oil inventory	fall by	more expect	LOCATION	0
+1.0	US oil inventory	fall by	more than expect	LOCATION	0
+1.0	US oil inventory	fall by	more than expect in past week	LOCATION	DATE
+1.0	US crude oil inventory	fall by	more than expect in past week	LOCATION	DATE
+1.0	demand	have fall across	US northeast	0	LOCATION
+1.0	US crude oil inventory	fall by	much more	LOCATION	0
+1.0	report	have	wake	O	O
+1.0	US crude oil inventory	fall by	much more than expect	LOCATION	0
+1.0	US crude oil inventory	fall by	much more than expect in past week	LOCATION	DATE
+1.0	US oil inventory	fall by	much more expect	LOCATION	0
+1.0	barrels	have	rise	O	O
+1.0	demand	have fall across	US northeast due to mild winter temperature	0	LOCATION
+1.0	inventory	expect as	oil trader	0	0
+1.0	US crude oil inventory	fall by	more than expect	LOCATION	0
+1.0	US oil inventory	fall by	much more than expect in past week	LOCATION	DATE
+1.0	benchmark crude future	be in	down 1.38 dollar at 54.26 dollar wake of report	0	MONEY
+1.0	benchmark crude future	be in	down 1.38 dollar at 54.26 dollar wake	0	MONEY
+1.0	benchmark crude future	be in	New York	0	LOCATION
+1.0	benchmark crude future	be in	down 1.38 dollar wake	0	MONEY
+1.0	inventory	drop by	just 1.5 million barrel	0	NUMBER
+1.0	benchmark crude future	be in	down 1.38 dollar wake of report	0	MONEY
+1.0	US crude oil inventory	fall by	much more expect	LOCATION	0
+1.0	benchmark crude future	be in	down wake of report	0	0
+1.0	distillate products	have	levels	O	O
+1.0	crude inventory	expect as	oil trader	0	0
+0.3846204474661292	more	than expect in	past week	0	DATE
+1.0	US crude oil inventory	fall by	more expect in past week	LOCATION	DATE
+1.0	crude inventory	drop by	just 1.5 million barrel	0	NUMBER
+1.0	US crude oil inventory	fall by	more	LOCATION	0
+1.0	US oil inventory	fall by	much more expect in past week	LOCATION	DATE
+1.0	US crude oil inventory	fall by	much more expect in past week	LOCATION	DATE
+1.0	benchmark crude future	be in	down wake	0	0
+0.3846204474661292	more	expect in	past week	0	DATE
+1.0	demand	have fall across	US northeast due	0	LOCATION
+1.0	benchmark crude future	be in	wake of report	0	0
+1.0	benchmark crude future	be in	wake	0	0
+1.0	demand	have fall across	US northeast due to unusually mild winter temperature	0	LOCATION
+1.0	US oil inventory	fall by	much more than expect	LOCATION	0
+1.0	benchmark crude future	be in	down at 54.26 dollar wake of report	0	MONEY
+1.0	US oil inventory	fall by	more	LOCATION	0
+1.0	US oil inventory	fall by	much more	LOCATION	0
+1.0	benchmark crude future	be in	down at 54.26 dollar wake	0	MONEY
+1.0	demand	have fall across	US northeast due to winter temperature	0	LOCATION
+1.0	US oil inventory	fall by	more expect in past week	LOCATION	DATE
+1.0	inventory	expect as	most oil trader	0	0
+1.0	heating oil	have	stockpiles	O	O
+1.0	US crude oil inventory	fall by	more expect	LOCATION	0
+1.0	Energy	have	Department	ORGANIZATION	ORGANIZATION
+1.0	decline	be	much	0	0
+1.0	gasoline	have	stockpiles	O	O
+1.0	rise	have	expectations	O	O
+1.0	government datum	show at_time	Wednesday	0	DATE

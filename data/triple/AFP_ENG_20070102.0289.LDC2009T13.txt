@@ -1,0 +1,94 @@
+1.0	Harris stock	be at	in late morning trade 46.00 canadian dollar	PERSON	TIME
+1.0	company	respond to	boom cause by robust demand in fast-growing economy	0	0
+1.0	US steelmaking giant Nucor Corp.	have	steel business	O	O
+1.0	boards	have	approval	O	O
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday up 5.77 percent 46.00 canadian dollar	PERSON	TIME
+0.6381254803438673	have	sale of	1.2 billion US dollar in year	0	MONEY
+1.0	Harris stock	be at	up 46.00 canadian dollar	PERSON	MONEY
+1.0	Harris stock	be at	in late morning trade up 5.77 percent 46.00 dollar	PERSON	TIME
+1.0	Harris stock	be at	in late morning trade up 46.00 canadian dollar	PERSON	TIME
+1.0	Harris stock	be at	in late morning trade up 5.77 percent 46.00 canadian dollar	PERSON	TIME
+1.0	Harris stock	be at	up 5.77 percent 46.00 canadian dollar	PERSON	PERCENT
+1.0	robust demand	be in	fast-growing economy such China	0	LOCATION
+1.0	Harris Steel	per dollar be	39.70 US dollar	ORGANIZATION	MONEY
+1.0	firm	above	closing price on December 29	0	DATE
+1.0	company	respond to	boom cause by robust demand in economy	0	0
+1.0	Sicartsa	be	mexican	ORGANIZATION	0
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday up 46.00 canadian dollar	PERSON	TIME
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday up 46.00 dollar	PERSON	TIME
+0.7363036673412111	concrete	reinforce	steel wiring steel grate	0	0
+1.0	Dan DiMicco	say in	statement	0	0
+1.0	company	be in	partnership	0	0
+0.8889567457102894	US	steelmake	giant Nucor Corp.	MONEY	ORGANIZATION
+1.0	Harris stock	be at	in late morning trade 46.00 dollar	PERSON	TIME
+1.0	company	respond to	boom cause by demand	0	0
+1.0	Canada	have	Harris Steel Group	ORGANIZATION	LOCATION
+1.0	46.00 canadian dollar	be in	late morning trade on Toronto Stock Exchange Tuesday	MONEY	TIME
+1.0	company	respond to	boom cause	0	0
+1.0	the two companies	gain	ground	0	0
+1.0	US	say at_time	the Toronto Stock Exchange Tuesday	MONEY	DATE
+1.0	the two companies	gain ground on	world number-one steelmaker Arcelor Mittal	0	ORGANIZATION
+1.0	India	have	Tata Steel	ORGANIZATION	LOCATION
+1.0	company	respond to	boom cause by robust demand	0	0
+1.0	Sicartsa	be for	1.44 billion dollar	ORGANIZATION	MONEY
+1.0	two company	be in	partnership for three year	NUMBER	DURATION
+1.0	Harris stock	be at	46.00 dollar	PERSON	MONEY
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday up 46.00 dollar	PERSON	TIME
+1.0	company	be in	partnership for three year	0	DURATION
+1.0	Harris stock	be at	in morning trade up 5.77 percent 46.00 canadian dollar	PERSON	TIME
+1.0	Nucor	be with	immediate geographical reach	ORGANIZATION	0
+1.0	India 's Tata Steel	be lock in	bidding war for giant Corus	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday up 46.00 canadian dollar	PERSON	TIME
+0.6381254803438673	have	sale of	1.2 billion US dollar in last year	0	MONEY
+1.0	company	respond to	boom	0	0
+1.0	India	have	Tata Steel	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in late morning trade up 46.00 dollar	PERSON	TIME
+1.0	Harris stock	be at	in morning trade 46.00 canadian dollar	PERSON	TIME
+1.0	Harris Steel Group	have	acquisition	O	ORGANIZATION
+0.6381254803438673	have	sale of	1.2 billion US dollar in last fiscal year	0	MONEY
+1.0	company	respond to	boom cause by demand in economy	0	0
+1.0	India 's Tata Steel	lock	rival CSN	LOCATION	ORGANIZATION
+1.0	India 's Tata Steel	lock	brazilian CSN	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday 46.00 canadian dollar	PERSON	TIME
+0.6381254803438673	have	sale of	1.2 billion US dollar	0	MONEY
+1.0	Nucor	have	downstream growth initiative	ORGANIZATION	0
+1.0	India 's Tata Steel	lock	brazilian rival CSN	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in morning trade up 46.00 dollar	PERSON	TIME
+1.0	firm	have	closing price	O	O
+1.0	Harris stock	be at	in morning trade 46.00 dollar	PERSON	TIME
+1.0	India 's Tata Steel	be	lock	LOCATION	0
+1.0	complementary fit	be with	giant Nucor Corp.	0	ORGANIZATION
+1.0	world number-one steelmaker Arcelor Mittal	say in	late December	ORGANIZATION	DATE
+1.0	India 's Tata Steel	be lock in	bidding war for anglo-dutch Corus	LOCATION	ORGANIZATION
+0.7363036673412111	concrete	reinforce	steel wiring steel	0	0
+1.0	India 's Tata Steel	lock	CSN	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday 46.00 canadian dollar	PERSON	TIME
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday 46.00 dollar	PERSON	TIME
+1.0	Harris stock	be at	in morning trade up 5.77 percent 46.00 dollar	PERSON	TIME
+1.0	India 's Tata Steel	be lock in	bidding war for Corus	LOCATION	ORGANIZATION
+1.0	Harris stock	be at	in morning trade up 46.00 canadian dollar	PERSON	TIME
+1.0	merger	have	product	O	O
+1.0	India 's Tata Steel	be lock in	bidding war for anglo-dutch giant Corus	LOCATION	ORGANIZATION
+1.0	US dollars	have	sales	O	MONEY
+1.0	Canada	have	Harris Steel Group	LOCATION	ORGANIZATION
+1.0	companies	have	boards	O	O
+1.0	two company	be in	partnership	NUMBER	0
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday 46.00 dollar	PERSON	TIME
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday up 5.77 percent 46.00 canadian dollar	PERSON	TIME
+1.0	Harris stock	be at	in late morning trade on Toronto Stock Exchange Tuesday up 5.77 percent 46.00 dollar	PERSON	TIME
+1.0	world number-one steelmaker Arcelor Mittal	say in	December	ORGANIZATION	DATE
+0.8889567457102894	US	steelmake	Nucor Corp.	MONEY	ORGANIZATION
+1.0	Harris stock	be at	in morning trade on Toronto Stock Exchange Tuesday up 5.77 percent 46.00 dollar	PERSON	TIME
+1.0	Harris stock	be at	46.00 canadian dollar	PERSON	MONEY
+0.7363036673412111	concrete	reinforce	steel wiring industrial steel grate	0	0
+1.0	Nucor	have	growth initiatives	O	ORGANIZATION
+1.0	Harris Steel Group	be for	1.07 billion US dollar	ORGANIZATION	MONEY
+1.0	1.2 billion US dollar	be in	the last fiscal year	MONEY	DATE
+0.6381254803438673	have	sale of	1.2 billion US dollar in fiscal year	0	MONEY
+1.0	company	respond to	boom cause by demand in fast-growing economy	0	0
+1.0	Corus	be for	anglo-dutch	ORGANIZATION	0
+1.0	CSN	be	brazilian	ORGANIZATION	0
+1.0	India 's Tata Steel	be lock in	bidding war	LOCATION	0
+1.0	Harris stock	be at	up 5.77 percent 46.00 dollar	PERSON	PERCENT
+0.7363036673412111	concrete	reinforce	steel wiring industrial steel	0	0
+1.0	Harris stock	be at	up 46.00 dollar	PERSON	MONEY

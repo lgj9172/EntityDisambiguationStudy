@@ -1,0 +1,34 @@
+1.0	Elfreya	have	trademark	O	PERSON
+1.0	Elfreya 's	have	those	O	PERSON
+0.5672264943059828	goddess	similar to	Starbucks logo	0	ORGANIZATION
+1.0	a local mobile coffee-shop chain	have	trademark rights	O	O
+1.0	circle	have	logo	O	O
+1.0	Supreme Court	uphold	earlier decision	ORGANIZATION	0
+1.0	South Korea	have	Supreme Court	ORGANIZATION	ORGANIZATION
+1.0	that of Starbucks	have	symbol	O	O
+1.0	south korean company	be	launch	0	0
+1.0	south korean company	surround	image	0	0
+1.0	Starbucks	have	trademarks	O	ORGANIZATION
+0.0037717672117225393	company	surround	image it call	0	0
+0.05096409839578657	The South Korean company	call	goddess similar	0	0
+1.0	Supreme Court	uphold	decision	ORGANIZATION	0
+0.5672264943059828	goddess	similar to	well-known Starbucks logo	0	ORGANIZATION
+1.0	Starbucks	have	that	O	ORGANIZATION
+1.0	the timing when Starbucks started business here	have	advertisement activity	O	O
+1.0	South Korea 's Supreme Court	be on	Friday	ORGANIZATION	DATE
+1.0	advertisement activity	have	intensity	O	O
+0.0037717672117225393	south korean company	surround	image it call	0	0
+1.0	korean company	surround	image	0	0
+1.0	Korea	have	Patent Court	ORGANIZATION	ORGANIZATION
+1.0	The Seattle-based coffee chain	have	190th shop	O	O
+1.0	goddess	have	image	O	O
+1.0	company	surround	image	0	0
+1.0	the timing when Starbucks started business here	have	trademark	O	O
+1.0	Elfreya	have	trademark	PERSON	0
+0.05096409839578657	The South Korean company	call	goddess similar to well-known Starbucks logo	0	ORGANIZATION
+1.0	korean company	be	launch	0	0
+0.05096409839578657	The South Korean company	call	goddess similar to Starbucks logo	0	ORGANIZATION
+1.0	cafe chain	have	those	O	O
+1.0	company	be	launch	0	0
+0.0037717672117225393	korean company	surround	image it call	0	0
+0.05096409839578657	The South Korean company	call	goddess	0	0

@@ -1,0 +1,8 @@
+1.0	Africa country	have	Horn	PERSON	O
+1.0	he spokeswoman	say at_time	Tuesday	0	DATE
+1.0	ban ki-moon	be chief of	UN	0	ORGANIZATION
+1.0	ban ki-moon	be	UN	0	ORGANIZATION
+1.0	hostilities	have	escalation	O	O
+1.0	UN chief Ban Ki-moon	have	spokeswoman	O	O
+1.0	US air strike	be in	Somalia	LOCATION	LOCATION
+1.0	hostility	be in	Horn	0	PERSON

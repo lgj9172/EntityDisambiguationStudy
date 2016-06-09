@@ -1,0 +1,8 @@
+1.0	US President George W. Bush	speak after	White House talk	PERSON	ORGANIZATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Angela Merkel	be with	german	PERSON	0
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	US President George W. Bush	speak with	Chancellor Angela Merkel	PERSON	PERSON
+1.0	US President George W. Bush	say at_time	Thursday	LOCATION	DATE
+1.0	US President George W. Bush	speak with	german Chancellor Angela Merkel	PERSON	PERSON

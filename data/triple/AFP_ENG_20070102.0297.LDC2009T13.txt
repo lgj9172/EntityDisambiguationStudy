@@ -1,0 +1,6 @@
+1.0	Alfredo Perez Rubalcaba	be minister of	Interior	PERSON	ORGANIZATION
+1.0	Alfredo Perez Rubalcaba	be	Interior	PERSON	ORGANIZATION
+1.0	Saturday	have	Madrid airport blast	O	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	tell	news conference	PERSON	0
+1.0	Saturday	after	Madrid airport blast	DATE	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	say on	Tuesday	PERSON	DATE

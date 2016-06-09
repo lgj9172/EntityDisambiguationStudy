@@ -1,0 +1,18 @@
+1.0	Norway	of	Kristin Stormer Steira	LOCATION	PERSON
+1.0	women	have	country race	O	O
+1.0	Virpi Kuitunen	have	finished	O	PERSON
+1.0	Kristin Stormer Steira	have	finished	O	PERSON
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km classic-style cross country race	LOCATION	NUMBER
+1.0	Norway	have	Kristin Stormer Steira	PERSON	LOCATION
+1.0	Tour Ski	have	leg	O	MISC
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km cross country race	LOCATION	NUMBER
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km classic-style country race	LOCATION	NUMBER
+1.0	Slovenia	have	Petra Majdic	LOCATION	PERSON
+1.0	majdic	finish of	Norway 's Kristin Stormer Steira	0	PERSON
+1.0	woman	have	10km classic-style cross country race	0	NUMBER
+1.0	Wednesday	leg of	Tour de Ski	DATE	MISC
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km country race	LOCATION	NUMBER
+1.0	Virpi Kuitunen	be of	Finland	PERSON	LOCATION
+1.0	Slovenia	have	Petra Majdic	PERSON	LOCATION
+1.0	majdic	finish ahead of	Norway 's Kristin Stormer Steira	0	PERSON
+1.0	Finland	have	Virpi Kuitunen	PERSON	LOCATION

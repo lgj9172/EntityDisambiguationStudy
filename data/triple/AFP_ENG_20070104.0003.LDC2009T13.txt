@@ -1,0 +1,50 @@
+1.0	he	be hold with	court	0	0
+1.0	Manila	have	course	O	O
+1.0	Forces Agreement	have	terms	O	O
+1.0	Philippines	say at_time	Thursday	LOCATION	DATE
+1.0	President Gloria Arroyo 's government	recently transfer smith under	pressure	PERSON	0
+1.0	Lance Corporal Daniel Smith	be convict in	December	PERSON	DATE
+1.0	President Gloria Arroyo 's government	recently transfer	Lance Corporal Daniel Smith	PERSON	PERSON
+1.0	he	be	initially hold in local jail with court	0	0
+0.7972606605191824	demand	repeal of	VFA	0	ORGANIZATION
+1.0	Gloria Arroyo	have	government	PERSON	0
+1.0	President Gloria Arroyo 's government	transfer smith under	pressure	PERSON	0
+1.0	traitor	demand	repeal of VFA	0	ORGANIZATION
+1.0	handful	condemn	transfer	0	0
+1.0	President Gloria Arroyo 's government	recently transfer smith to	US embassy	PERSON	LOCATION
+1.0	anti-us sentiment	be in	former US colony	0	LOCATION
+1.0	Lance Corporal Daniel Smith	be	convict	PERSON	0
+1.0	Smith	have	transfer	O	PERSON
+1.0	he	be hold in	local jail	0	0
+1.0	he	be	hold in local jail with court	0	0
+1.0	he	be	hold	0	0
+1.0	Manila	call	Balikatan	LOCATION	0
+1.0	leftists	have	handful	O	O
+1.0	rape	have	convicted	O	O
+1.0	he	be initially hold in	jail	0	0
+1.0	pact	have	provisions	O	O
+1.0	President Gloria Arroyo 's government	anger	Filipinos	PERSON	MISC
+1.0	nation	have	traitor	O	O
+1.0	handful	condemn	transfer of Smith	0	PERSON
+1.0	Lance Corporal Daniel Smith	have	case	O	ORGANIZATION
+1.0	he	be hold in	jail	0	0
+1.0	President Gloria Arroyo 's government	transfer smith to	US embassy	PERSON	LOCATION
+1.0	he	be	hold in jail with court	0	0
+1.0	he	be	initially hold in jail with court	0	0
+1.0	handful	stage rally at	square	0	0
+1.0	President Gloria Arroyo 's government	anger	many Filipinos	PERSON	MISC
+1.0	President Gloria Arroyo	have	government	O	PERSON
+1.0	government	have defend	move	0	0
+1.0	traitor	demand	repeal	0	0
+1.0	handful	stage rally at	public square	0	0
+1.0	he	be initially hold in	local jail	0	0
+1.0	justice	have	wheels	O	O
+1.0	Lance Corporal Daniel Smith	sentence to	40 year	PERSON	DURATION
+1.0	handful	stage	rally	0	0
+1.0	Lance Corporal Daniel Smith	sentence to	40 year in jail	PERSON	DURATION
+1.0	VFA	have	repeal	O	ORGANIZATION
+1.0	40 year	be in	jail	DURATION	0
+1.0	Manila	have	security arrangements	O	O
+1.0	he	be initially hold with	court	0	0
+1.0	he	be	initially hold	0	0
+1.0	President Gloria Arroyo 's government	transfer	Lance Corporal Daniel Smith	PERSON	PERSON

@@ -1,0 +1,43 @@
+1.0	newspaper Metropol	be	where distribute in 10 city	LOCATION	NUMBER
+1.0	Metro Poland	post operating loss with	average readership	ORGANIZATION	0
+1.0	media landscape	have	parts	O	O
+1.0	newspaper Metropol	be	where distribute	LOCATION	0
+0.9436079604361793	January 5 2007	be	publication date of Metropol in Poland	DATE	LOCATION
+1.0	projects	have	each	O	O
+1.0	consumers	have	group	O	O
+0.9436079604361793	January 5 2007	be	publication date in Poland	DATE	LOCATION
+1.0	Metro Poland	post	operating loss of 3.7 million dollar	ORGANIZATION	MONEY
+0.9436079604361793	January 5 2007	be	publication date	DATE	0
+1.0	last publication date	be in	Metro Poland	0	LOCATION
+1.0	the free newspaper Metropol	have	publication date	O	O
+1.0	operation	owe to	loss of several million dollar	0	MONEY
+0.9436079604361793	January 5 2007	be	last publication date of Metropol in Poland	DATE	LOCATION
+1.0	our	have	projects	O	O
+1.0	press group Metro International	have halt operation in	Metro Poland	ORGANIZATION	LOCATION
+0.9436079604361793	January 5 2007	be	publication date of Metropol	DATE	0
+1.0	free newspaper Metropol	be distribute in	10 city	LOCATION	NUMBER
+1.0	swedish press group Metro International	have halt operation in	Metro Poland	ORGANIZATION	LOCATION
+1.0	dollars	have	losses	O	MONEY
+1.0	Metro Poland	post operating loss with	readership of 700,000	ORGANIZATION	NUMBER
+1.0	dollars	have	operating loss	O	MONEY
+1.0	press group Metro International	have halt	operation	ORGANIZATION	0
+0.9436079604361793	January 5 2007	be	last publication date in Poland	DATE	LOCATION
+1.0	operation	owe to	loss	0	0
+1.0	Metro International	be	swedish	ORGANIZATION	0
+1.0	Metro Poland	post operating loss with	readership	ORGANIZATION	0
+1.0	Metro Poland	post operating loss with	average readership of 700,000	ORGANIZATION	NUMBER
+1.0	free newspaper Metropol	be	where distribute in 10 city	LOCATION	NUMBER
+1.0	media landscape	be in	Europe	0	LOCATION
+1.0	swedish press group Metro International	have halt	operation	ORGANIZATION	0
+1.0	700,000	have	readership	O	NUMBER
+1.0	Metro Poland	post operating loss in	2006	ORGANIZATION	DATE
+1.0	free newspaper Metropol	be	distribute	LOCATION	0
+1.0	Metro Poland	post operating loss during	week	ORGANIZATION	DATE
+1.0	profitability growth targets	have	level	O	O
+1.0	elsewhere	have	parts	O	O
+0.9436079604361793	January 5 2007	be	last publication date	DATE	0
+1.0	Metro Poland	post	operating loss	ORGANIZATION	0
+0.9436079604361793	January 5 2007	be	last publication date of Metropol	DATE	0
+1.0	newspaper Metropol	be distribute in	10 city	LOCATION	NUMBER
+1.0	newspaper Metropol	be	distribute	LOCATION	0
+1.0	free newspaper Metropol	be	where distribute	LOCATION	0

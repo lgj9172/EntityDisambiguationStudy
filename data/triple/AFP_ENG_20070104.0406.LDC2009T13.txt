@@ -1,0 +1,71 @@
+1.0	they close contact	be with	George W. Bush	0	PERSON
+1.0	their	have	cases	O	O
+1.0	abuse	keep detainee in	room	0	0
+1.0	Denmark	have	government	O	LOCATION
+1.0	US Guantanamo Bay	have	chapter	O	LOCATION
+1.0	abuse	keep detainee in	hot room	0	0
+1.0	Guantanamo detainees	have	mistreatment	O	O
+1.0	incidents	have	witnessed	O	O
+1.0	pioneer	treat	victim torture	0	0
+0.7175685762899638	RCT	open in	1982	ORGANIZATION	DATE
+1.0	Centre	urge	the United States	ORGANIZATION	LOCATION
+1.0	danish Centre	urge	the United States	ORGANIZATION	LOCATION
+1.0	them	have	85	NUMBER	O
+1.0	danish Centre for Rehabilitation and Research for Torture Victims	be on	Thursday	ORGANIZATION	DATE
+1.0	Centre	urge	key ally of United States	ORGANIZATION	LOCATION
+1.0	agents	have	accounts	O	O
+1.0	RCT	be	world 's treatment centre	ORGANIZATION	0
+1.0	FBI	have	result	O	ORGANIZATION
+1.0	danish Centre	urge	key ally of United States	ORGANIZATION	LOCATION
+1.0	US Guantanamo Bay detention centre	have	closure	O	O
+1.0	Denmark	have	government	LOCATION	0
+1.0	The RCT , based in Copenhagen	have	appeal	O	O
+1.0	Tue Magnusson	be spokesman of	The RCT , based in Copenhagen	PERSON	ORGANIZATION
+1.0	abuse	include	beating	0	0
+1.0	United States	have	ally	O	LOCATION
+1.0	the United States	call for	closure	LOCATION	0
+1.0	RCT	be	world 's first treatment centre	ORGANIZATION	ORDINAL
+1.0	Anders Fogh Rasmussen	have	government	O	O
+1.0	its	have	creation	O	O
+1.0	US Guantanamo Bay	have	opening	O	LOCATION
+1.0	opening	have	anniversary	O	O
+1.0	the United States	call for	closure of US Guantanamo Bay detention centre	LOCATION	LOCATION
+1.0	US Guantanamo Bay detention centre	be in	Cuba	LOCATION	LOCATION
+1.0	UN	have	repeat appeal	ORGANIZATION	0
+1.0	the United States	call for	closure of US Guantanamo Bay detention centre in Cuba	LOCATION	LOCATION
+1.0	beating	menace	they	0	0
+1.0	Denmark 's	country in	fight against torture	LOCATION	0
+1.0	report	have	publication	O	O
+1.0	danish Centre	urge	key ally	ORGANIZATION	0
+1.0	Centre	urge	ally of United States	ORGANIZATION	LOCATION
+1.0	pioneer	treat	victim	0	0
+1.0	200 similar centre	be in	80 country	NUMBER	NUMBER
+1.0	danish Centre	urge	ally	ORGANIZATION	0
+1.0	Anders Fogh Rasmussen	be	danish	PERSON	0
+1.0	The RCT , based in Copenhagen	be	pioneer	ORGANIZATION	0
+1.0	Centre	urge	key ally	ORGANIZATION	0
+1.0	RCT spokesman Tue Magnusson	tell	AFP	PERSON	ORGANIZATION
+1.0	the United States	ally of	United States	LOCATION	LOCATION
+1.0	Centre	urge	ally	ORGANIZATION	0
+1.0	Tue Magnusson	be	The RCT , based in Copenhagen	PERSON	ORGANIZATION
+1.0	alleged abuse	keep detainee in	hot room	0	0
+1.0	world 's treatment centre	torture	victim	0	0
+1.0	abuse	keep detainee in	extremely hot room	0	0
+1.0	alleged abuse	include	beating	0	0
+1.0	UN	have	appeals	O	ORGANIZATION
+1.0	danish Centre	urge	ally of United States	ORGANIZATION	LOCATION
+1.0	abuse	keep	detainee	0	0
+1.0	world	have	first treatment centre torture	0	ORDINAL
+1.0	Thursday	on victims be	The RCT , based in Copenhagen	DATE	0
+1.0	alleged abuse	keep detainee in	extremely hot room	0	0
+1.0	people	have	hundreds	O	O
+1.0	world	have	treatment centre	O	O
+1.0	anniversary	have	eve	O	O
+1.0	FBI	be on	the United States	ORGANIZATION	LOCATION
+1.0	alleged abuse	keep	detainee	0	0
+1.0	Danish Prime Minister Anders Fogh Rasmussen and his government	have	contacts	O	O
+1.0	model country	be in	fight against torture	0	0
+1.0	Pentagon	say on	December 17	ORGANIZATION	DATE
+1.0	alleged abuse	keep detainee in	room	0	0
+1.0	world 's first treatment centre	torture	victim	ORDINAL	0
+1.0	Denmark	's government be	key ally of United States	LOCATION	LOCATION

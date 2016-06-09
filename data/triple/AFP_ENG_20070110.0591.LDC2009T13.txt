@@ -1,0 +1,40 @@
+0.644625788889678	use	arabic term for	Muslims	0	MISC
+1.0	several hundred people	pay	homage	NUMBER	0
+1.0	several people	pay	homage	0	0
+1.0	several hundred people	attend ceremony in	capital Nouakchott	NUMBER	LOCATION
+0.644625788889678	use	term for	Muslims involve	0	MISC
+0.644625788889678	use	arabic term for	Muslims involve in battle	0	MISC
+1.0	organisers	have	one	NUMBER	O
+1.0	people	attend ceremony at_time	Wednesday	0	DATE
+0.644625788889678	use	arabic term for	Muslims involve	0	MISC
+1.0	Saddam as a `` martyr of al-Adha '' whose death `` left a deep wound in the body of humanity	be execute at_time	December 30	PERSON	DATE
+1.0	people	attend	ceremony	0	0
+1.0	several hundred people	attend	ceremony	NUMBER	0
+1.0	hundred people	pay	homage	NUMBER	0
+1.0	hundred people	attend ceremony in	mauritanian capital Nouakchott	NUMBER	LOCATION
+0.644625788889678	use	term for	Muslims	0	MISC
+1.0	several people	attend ceremony at_time	Wednesday	0	DATE
+1.0	several hundred people	attend ceremony in	mauritanian capital Nouakchott	NUMBER	LOCATION
+1.0	Ahmedou Ould Abdela Kder	describe	Saddam as martyr	PERSON	PERSON
+1.0	several hundred people	attend ceremony at_time	Wednesday	NUMBER	DATE
+1.0	humanity	have	body	O	O
+1.0	people	attend ceremony in	mauritanian capital Nouakchott	0	LOCATION
+1.0	people	pay	homage	0	0
+1.0	Ahmedou Ould Abdela Kder	describe	Saddam as martyr of al-adha	PERSON	PERSON
+1.0	several people	attend ceremony in	mauritanian capital Nouakchott	0	LOCATION
+1.0	hundred people	attend	ceremony	NUMBER	0
+0.644625788889678	use	term for	Muslims involve in battle	0	MISC
+1.0	Eid al-Adha feast	have	day	DURATION	O
+1.0	people	attend ceremony in	capital Nouakchott	0	LOCATION
+1.0	al-Adha	have	martyr	O	O
+1.0	Ahmedou Ould Abdela Kder	describe	Saddam	PERSON	PERSON
+1.0	Saddam Hussein	be to	iraqi	PERSON	0
+1.0	parliament	have	poet	O	O
+1.0	hundred people	attend ceremony in	capital Nouakchott	NUMBER	LOCATION
+1.0	Ahmedou Ould Abdela Kder	poet of	mauritanian parliament	PERSON	0
+1.0	Nouakchott	be in	mauritanian	LOCATION	0
+1.0	several people	attend ceremony in	capital Nouakchott	0	LOCATION
+1.0	Saddam as a `` martyr of al-Adha '' whose death `` left a deep wound in the body of humanity	be	execute	PERSON	0
+1.0	several people	attend	ceremony	0	0
+1.0	hundred people	attend ceremony at_time	Wednesday	NUMBER	DATE
+1.0	a ` Mujahedeen ' president	have	principles	O	O

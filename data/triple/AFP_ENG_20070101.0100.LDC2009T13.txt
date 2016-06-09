@@ -1,0 +1,80 @@
+1.0	Head	have	Get	O	O
+1.0	New year	be in	style	DATE	0
+1.0	breast cancer	be in	Melbourne	0	LOCATION
+1.0	she	write	child 's book	0	0
+1.0	Showgirl Homecoming Tour	have	leg	O	O
+1.0	Minogue 's first in Britain	be diagnose in	May 2005	0	DATE
+0.818562479690185	ticket	be	65 pound	0	MONEY
+1.0	Australia	have	biggest pop star with estimate 40 million	LOCATION	NUMBER
+1.0	australian pop princess Kylie Minogue	see with	she show	PERSON	0
+1.0	she	boyfriend	Olivier Martinez	0	PERSON
+0.9358408703128955	Minogue	be	Australia 's biggest pop star with estimate 40 million	PERSON	NUMBER
+1.0	sequins	have	outfit	O	O
+1.0	australian pop princess Kylie Minogue	see with	she first british show	PERSON	ORDINAL
+1.0	Minogue 's first in Britain	have	homeland	O	O
+1.0	2004	have	Get	O	DATE
+1.0	pop princess Kylie Minogue	see in	New year in style	PERSON	DATE
+1.0	all	have	party	O	O
+1.0	London	be for	year	LOCATION	0
+0.818562479690185	ticket	be	for which 65 pound	0	MONEY
+1.0	Minogue 's first in Britain	suspend	Showgirl tour	0	0
+1.0	singer	resume performance in	November 2006	0	DATE
+0.818562479690185	ticket	be	for which pound	0	0
+1.0	Minogue 's first in Britain	force	Minogue 's first in Britain	0	0
+1.0	Australian pop princess Kylie Minogue	have	actor boyfriend	O	O
+1.0	Minogue	be in	Britain	PERSON	LOCATION
+1.0	gig	be 's	Minogue first	0	ORDINAL
+1.0	which	for pound be	127 dollar	0	MONEY
+1.0	pop princess Kylie Minogue	see with	she british show	PERSON	0
+1.0	she french actor boyfriend	have	home	0	0
+1.0	she	launch	she own perfume	0	0
+1.0	pop princess Kylie Minogue	see in	New year	PERSON	DATE
+1.0	her	have	perfume	O	O
+0.9358408703128955	Minogue	be	Australia 's pop star with estimate 40 million	PERSON	NUMBER
+1.0	her	have	recovery	O	O
+1.0	The singer , 38	have	Showgirl Homecoming Tour	O	O
+1.0	chemotherapy	have	course	O	O
+1.0	singer	resume performance in	she homeland	0	0
+1.0	fans	have	off kicked	O	O
+1.0	children	have	book	O	O
+1.0	pop princess Kylie Minogue	see with	she show	PERSON	0
+0.512287003515633	singer	british leg of	she Showgirl Homecoming Tour	0	0
+0.06141471494456796	she	launch	she perfume call	0	0
+1.0	pop princess Kylie Minogue	see with	she first show	PERSON	ORDINAL
+1.0	gig	be 's	Minogue in Britain	0	LOCATION
+1.0	she	launch	she perfume	0	0
+1.0	Slow	have	Get	O	O
+1.0	Minogue 's first in Britain	be	diagnose with cancer in May 2005	0	DATE
+1.0	Minogue 's first in Britain	suspend showgirl tour in	Australia	0	LOCATION
+0.512287003515633	singer	leg of	she Showgirl Homecoming Tour	0	0
+1.0	gig	be 's	Minogue first in Britain	0	ORDINAL
+0.512287003515633	singer 38	leg of	she Showgirl Homecoming Tour	NUMBER	0
+1.0	Her	have	hits	O	O
+1.0	Australian pop princess Kylie Minogue	have	show	O	O
+1.0	australian pop princess Kylie Minogue	recover from	breast cancer	PERSON	0
+1.0	feathers	have	outfit	O	O
+0.818562479690185	ticket	be	pound	0	0
+1.0	Australia 's biggest pop star	be with	40 million	LOCATION	NUMBER
+1.0	gig	be 's	Minogue	0	PERSON
+0.06141471494456796	she	launch	she own perfume call	0	0
+1.0	australian pop princess Kylie Minogue	see in	New year in style	PERSON	DATE
+1.0	Kylie Minogue	be	australian	PERSON	0
+1.0	My	have	Head	O	O
+1.0	pop princess Kylie Minogue	recover from	breast cancer	PERSON	0
+0.512287003515633	singer 38	british leg of	she Showgirl Homecoming Tour	NUMBER	0
+0.9358408703128955	Minogue	be	Australia 's biggest pop star	PERSON	LOCATION
+1.0	australian pop princess Kylie Minogue	see with	she first show	PERSON	ORDINAL
+1.0	child	have	book	0	0
+1.0	australian pop princess Kylie Minogue	see with	she british show	PERSON	0
+1.0	singer	resume	performance	0	0
+1.0	Australia	have	pop star	O	LOCATION
+1.0	she actor boyfriend	have	home	0	0
+1.0	singer	have	record company	O	O
+1.0	singer	have	record company	0	0
+1.0	Minogue 's first in Britain	be diagnose with	cancer	0	0
+0.9358408703128955	Minogue	be	Australia 's pop star	PERSON	LOCATION
+1.0	australian pop princess Kylie Minogue	see in	New year	PERSON	DATE
+1.0	pop princess Kylie Minogue	see with	she first british show	PERSON	ORDINAL
+1.0	Minogue	be 's	first	PERSON	ORDINAL
+1.0	chemotherapy	be in	Paris	0	LOCATION
+1.0	Minogue 's first in Britain	be	diagnose	0	0

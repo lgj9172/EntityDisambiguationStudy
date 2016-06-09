@@ -1,0 +1,116 @@
+1.0	german economy	expand in	its fastest rate	0	0
+1.0	german growth	continue in	year	0	DATE
+1.0	Growth Pact	have	terms	O	O
+1.0	GDP	have rise by	0.9 percent	0	PERCENT
+1.0	german growth year	continue in	previous year	DATE	DATE
+1.0	german growth	continue	drive	0	0
+1.0	deficit ratio	have stand in	2005	0	DATE
+1.0	growth	have	percentage point	O	O
+1.0	consumption	rise on	demand side	0	0
+1.0	german growth	be	drive	0	0
+1.0	Gross capital formation	soar with	investment expand up by 3.6 percent	NUMBER	PERCENT
+1.0	it	be time since	2001	0	DATE
+1.0	impulse	also come from	domestic demand	0	0
+1.0	private consumption	rise by	0.6 percent	0	PERCENT
+1.0	consumption	rise on	domestic demand side	0	0
+1.0	german economy	expand in	2006	0	0
+1.0	import growth	be	almost high	0	0
+1.0	import growth	be almost high at	12.1 percent	0	PERCENT
+1.0	private consumption	rise on	demand side	0	0
+1.0	growth year	be	drive	DATE	0
+1.0	german economy	expand since	2000	0	DATE
+1.0	german GDP	have rise by	0.9 percent	0	PERCENT
+1.0	growth last year	continue in	year	DATE	DATE
+1.0	Stability	have	terms	O	O
+1.0	deficit ratio	be lower than	3.0 percent	0	PERCENT
+1.0	export	jump in	2006	0	DATE
+1.0	Gross capital formation	soar with	investment in plant expand	NUMBER	0
+1.0	german growth last year	be	drive	DATE	0
+1.0	Gross capital formation	soar with	investment expand up	NUMBER	0
+1.0	economy	expand in	its rate	0	0
+1.0	GDP	have	percent	PERCENT	O
+1.0	economy	expand in	its fastest rate	0	0
+1.0	Gross capital formation	soar with	investment	NUMBER	0
+1.0	economy	expand by	2.5 percent in real term	0	PERCENT
+1.0	percent	have	growth	O	PERCENT
+0.770812871821759	official government forecast	have for	have growth	0	0
+0.770812871821759	government forecast	have for	have growth of 2.3 percent in 2006	0	PERCENT
+1.0	growth year	continue	drive	DATE	0
+1.0	german economy	expand in	its rate	0	0
+1.0	growth	continue	drive	0	0
+1.0	Gross capital formation	soar by	5.3 percent	NUMBER	PERCENT
+1.0	german deficit ratio	be lower than	3.0 percent	0	PERCENT
+1.0	percent	have	excess	O	PERCENT
+1.0	german growth year	continue in	year	DATE	DATE
+1.0	deficit ratio	have stand at	3.2 percent	0	PERCENT
+1.0	german deficit ratio	be	lower	0	0
+1.0	The German economy	have	rate	O	O
+1.0	it	be	time	0	0
+1.0	import growth	be high at	12.1 percent	0	PERCENT
+1.0	2.5 percent	be in	real term	PERCENT	0
+1.0	german economy	expand by	2.5 percent in term	0	PERCENT
+1.0	german economy	expand by	2.5 percent in real term	0	PERCENT
+0.770812871821759	government forecast	have for	have growth of 2.3 percent	0	PERCENT
+1.0	german growth last year	continue in	year	DATE	DATE
+1.0	growth last year	continue	drive	DATE	0
+1.0	Gross capital formation	soar with	investment in plant expand up	NUMBER	0
+1.0	import growth	be as high at	12.1 percent	0	PERCENT
+1.0	growth	continue in	previous year	0	DATE
+1.0	growth year	continue in	previous year	DATE	DATE
+1.0	finances	have	subject	O	O
+1.0	economy	expand by	2.5 percent in term	0	PERCENT
+1.0	economy	expand in	2006	0	0
+0.770812871821759	government forecast	have for	have growth in 2006	0	DATE
+1.0	impulse	come from	demand	0	0
+1.0	german economy	expand by	2.5 percent	0	PERCENT
+1.0	deficit ratio	be	lower	0	0
+1.0	state spending	rise by	1.7 percent	0	PERCENT
+1.0	export	jump by	12.4 percent	0	PERCENT
+1.0	investment	be in	plant	0	0
+1.0	import growth	be almost as high at	12.1 percent	0	PERCENT
+1.0	Gross capital formation	soar with	investment in plant	NUMBER	0
+1.0	growth last year	continue in	previous year	DATE	DATE
+1.0	german growth	continue in	previous year	0	DATE
+1.0	private consumption	rise on	domestic demand side	0	0
+0.770812871821759	official government forecast	have for	have growth of 2.3 percent in 2006	0	PERCENT
+1.0	german economy	expand in	its rate of growth	0	0
+1.0	growth	be	drive	0	0
+1.0	Gross capital formation	soar with	investment expand by 7.3 percent	NUMBER	PERCENT
+1.0	GDP	have rise in	2005	0	DATE
+1.0	Gross capital formation	soar with	investment in plant expand by 7.3 percent	NUMBER	PERCENT
+1.0	german economy	biggest in	13-country eurozone	0	0
+0.770812871821759	government forecast	have for	have growth	0	0
+0.770812871821759	official government forecast	have for	have growth in 2006	0	DATE
+1.0	impulse	come from	domestic demand	0	0
+1.0	have growth	be in	2006	0	DATE
+1.0	growth	continue in	year	0	DATE
+1.0	import growth	be	almost as high	0	0
+0.770812871821759	official government forecast	have for	have growth of 2.3 percent	0	PERCENT
+1.0	economy	expand by	2.5 percent	0	PERCENT
+1.0	economy	expand in	its rate of growth	0	0
+1.0	Gross capital formation	soar with	investment in plant expand up by 3.6 percent	NUMBER	PERCENT
+0.2741697425480532	Germany	public deficit of	60 billion dollar	LOCATION	MONEY
+0.2741697425480532	Germany	deficit of	46.5 billion euro	LOCATION	MONEY
+1.0	german growth year	be	drive	DATE	0
+1.0	impulse	also come from	demand	0	0
+1.0	it	be first time since	2001	0	DATE
+1.0	import growth	be	as high	0	0
+1.0	economy	expand since	2000	0	DATE
+1.0	it	be	first time	0	ORDINAL
+1.0	euros	have	deficit	O	MONEY
+0.2741697425480532	Germany	deficit of	60 billion dollar	LOCATION	MONEY
+1.0	Gross capital formation	soar with	investment expand by 7.3 percent up	NUMBER	PERCENT
+1.0	german GDP	have rise in	2005	0	DATE
+1.0	Gross capital formation	soar with	investment in plant expand by 7.3 percent up by 3.6 percent	NUMBER	PERCENT
+1.0	growth year	continue in	year	DATE	DATE
+1.0	german growth last year	continue in	previous year	DATE	DATE
+1.0	Gross capital formation	soar with	investment expand by 7.3 percent up by 3.6 percent	NUMBER	PERCENT
+1.0	import growth	be	high	0	0
+1.0	growth	have	rate	O	O
+1.0	german growth year	continue	drive	DATE	0
+0.2741697425480532	Germany	public deficit of	46.5 billion euro	LOCATION	MONEY
+1.0	german growth last year	continue	drive	DATE	0
+1.0	consumption	rise by	0.6 percent	0	PERCENT
+1.0	Gross capital formation	soar with	investment expand	NUMBER	0
+1.0	Gross capital formation	soar with	investment in plant expand by 7.3 percent up	NUMBER	PERCENT
+1.0	growth last year	be	drive	DATE	0

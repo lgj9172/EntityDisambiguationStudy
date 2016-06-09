@@ -1,0 +1,51 @@
+1.0	Ibrahim	be grant	refugee status	PERSON	0
+1.0	40-year-old man	convert in	April 2005	DURATION	DATE
+1.0	40-year-old man	marry	christian Filipina	DURATION	MISC
+1.0	he	would face persecution by	group	0	0
+1.0	Ibrahim	enter	South Korea on business visa	PERSON	LOCATION
+1.0	Egypt	be in	September 2005	LOCATION	DATE
+1.0	court	say in	ruling	0	0
+1.0	tenth	have receive permission accord to	government datum	ORDINAL	0
+1.0	he	would again face	persecution	0	0
+0.491163118079755	man	identify only by	he surname	0	0
+1.0	man	convert to	Christianity	0	MISC
+1.0	tenth	have receive permission accord to	government datum release last year	ORDINAL	DATE
+1.0	he	would face	persecution	0	0
+1.0	he	would face persecution by	same group	0	0
+1.0	a tenth	have receive permission accord to	government datum	ORDINAL	0
+1.0	a tenth	have receive permission accord to	government datum release year	ORDINAL	DATE
+1.0	he	be	repatriate	0	0
+1.0	consistency	have	lack	O	O
+1.0	United Nations refugee treaty	be in	1992	ORGANIZATION	DATE
+1.0	his	have	lack	O	O
+0.491163118079755	40-year-old man	identify only by	he surname	DURATION	0
+1.0	same islamic group	be in	absence of government protection	0	0
+1.0	40-year-old man	marry	Filipina	DURATION	MISC
+1.0	tenth	have receive permission accord to	government datum release year	ORDINAL	DATE
+1.0	conversion	have	home	O	O
+1.0	40-year-old man	convert to	Christianity	DURATION	MISC
+1.0	he	would again face persecution by	same group	0	0
+1.0	his	have	request	O	O
+1.0	Justice	have	Ministry	ORGANIZATION	ORGANIZATION
+0.491163118079755	40-year-old man	identify by	he surname	DURATION	0
+1.0	tenth	have receive permission accord to	government datum release	ORDINAL	0
+1.0	Ibrahim	enter	South Korea	PERSON	LOCATION
+1.0	The 40-year-old man	have	surname	O	O
+1.0	man	marry	Filipina	0	MISC
+1.0	he	be	depressed	0	0
+1.0	tenth	have receive	permission	ORDINAL	0
+1.0	persecution	have	grounds	O	O
+0.45972132084160955	government datum	release	last year	0	DATE
+1.0	he	have	conversion	O	O
+1.0	man	convert in	April 2005	0	DATE
+1.0	a tenth	have receive permission accord to	government datum release	ORDINAL	0
+0.491163118079755	man	identify by	he surname	0	0
+1.0	a tenth	have receive	permission	ORDINAL	0
+0.45972132084160955	government datum	release	year	0	DATE
+1.0	he	would again face persecution by	group	0	0
+1.0	government protection	have	absence	O	O
+1.0	he	surname	Ibrahim	0	PERSON
+1.0	a tenth	have receive permission accord to	government datum release last year	ORDINAL	DATE
+1.0	man	marry	christian Filipina	0	MISC
+1.0	Ibrahim	ask government for	refugee status	PERSON	0
+1.0	Ibrahim	ask	government	PERSON	0

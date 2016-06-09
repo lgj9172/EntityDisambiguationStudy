@@ -1,0 +1,46 @@
+1.0	six-nation talk	resume at_time	last month	DATE	DATE
+1.0	song	discuss measure on	six-party meeting with he US counterpart	0	LOCATION
+1.0	North Korea	have	programs	O	O
+1.0	song	discuss	follow-up measure	0	0
+1.0	money laundering	have	allegations	O	O
+1.0	North Korea	refuse	engage in discussion	LOCATION	0
+1.0	North Korea	engage at	talk	LOCATION	0
+1.0	song	discuss	measure	0	0
+1.0	song	leave at_time	Monday	0	DATE
+1.0	six-nation talk	resume in	Beijing	DATE	LOCATION
+1.0	song	discuss measure on	latest six-party meeting with he US counterpart	0	LOCATION
+1.0	economic	have	issue	O	O
+1.0	six-nation talk	resume at_time	month	DATE	DATE
+1.0	North Korea	refuse	engage in substantive discussion	LOCATION	0
+1.0	song Min-Soon	tell	Yonhap news agency	PERSON	ORGANIZATION
+1.0	talk	resume after	hiatus	DATE	DATE
+1.0	talk	resume in	Beijing	DATE	LOCATION
+1.0	song	discuss measure on	six-party meeting	0	0
+1.0	song	discuss measure on	latest meeting with he US counterpart	0	LOCATION
+1.0	South Korea	say at_time	Monday	LOCATION	DATE
+1.0	counterfeiting	have	allegations	O	O
+1.0	North Korea	refuse	engage	LOCATION	0
+1.0	song	discuss measure on	latest meeting	0	0
+1.0	normalization	have	process	O	O
+1.0	North Korea	refuse	engage in substantive discussion at talk	LOCATION	0
+1.0	six-nation talk	resume after	hiatus	DATE	DATE
+1.0	North Korea	have	moves	O	O
+1.0	talk	resume at_time	last month	DATE	DATE
+1.0	song	discuss measure on	latest six-party meeting	0	0
+1.0	North Korea	engage in	substantive discussion	LOCATION	0
+1.0	his	have	US counterpart	O	O
+1.0	talk	resume after	13-month hiatus	DATE	DATE
+1.0	US-North Korea relations	have	normalization	O	O
+1.0	North Korea	refuse	engage at talk	LOCATION	0
+1.0	latest six-party meeting	be with	he US counterpart	0	LOCATION
+1.0	North Korea	refuse	engage in discussion at talk	LOCATION	0
+1.0	North Korea	engage in	discussion	LOCATION	0
+1.0	Pyongyang	have	weapons drive	O	LOCATION
+1.0	Condoleezza Rice	be counterpart of	US	PERSON	LOCATION
+1.0	song	leave for	Washongton	0	LOCATION
+1.0	six-nation talk	resume after	13-month hiatus	DATE	DATE
+1.0	song	discuss measure on	meeting with he US counterpart	0	LOCATION
+1.0	energy assistance	have	issue	O	O
+1.0	US sanctions	have	lifting	O	O
+1.0	song	discuss measure on	meeting	0	0
+1.0	talk	resume at_time	month	DATE	DATE

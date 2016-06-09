@@ -1,0 +1,20 @@
+1.0	three iraqi army soldier	be kill in	roadside bomb blast	NUMBER	0
+1.0	Baghdad	have	city northeast	O	LOCATION
+1.0	two other	hit	residental building	NUMBER	0
+1.0	mortars	have	series	O	O
+1.0	which	have	capital	O	O
+1.0	Ali Ismail	be of	Baquba	PERSON	LOCATION
+1.0	iraqi army soldier	be kill in	roadside bomb blast	0	0
+1.0	iraqi army soldier	be	kill	0	0
+1.0	insurgent attack	be in	Iraq	0	LOCATION
+1.0	other	hit	residental building	0	0
+1.0	other	hit	building	0	0
+1.0	mortars	have	Two	NUMBER	O
+1.0	three Iraqi army soldiers	have	patrol	O	O
+1.0	Baquba	be	capital	LOCATION	0
+1.0	Baquba	have	Police Lieutenant Ali Ismail	PERSON	LOCATION
+1.0	Baghdad	have	attack northeast	O	LOCATION
+1.0	two other	hit	building	NUMBER	0
+1.0	three iraqi army soldier	be	kill	NUMBER	0
+1.0	Diyala province	have	Bala Druz area	O	LOCATION
+1.0	Baquba	be	of which capital	LOCATION	0

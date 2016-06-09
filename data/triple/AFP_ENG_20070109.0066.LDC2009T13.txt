@@ -1,0 +1,88 @@
+1.0	11-nation Organisation	cut	output	ORGANIZATION	0
+1.0	warm weather	stoke	concern	0	0
+1.0	We	have	colleagues	O	O
+1.0	New York	have	main contract light sweet crude for delivery in February	LOCATION	DATE
+1.0	warm weather	stoke concern for	heating fuel	0	0
+1.0	New York 's main contract light sweet crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	Organisation	cut output from	February	ORGANIZATION	DATE
+1.0	warm weather	stoke concern over	weak demand	0	0
+1.0	New York 's main contract sweet crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	February	have	start	DATE	DATE
+1.0	state-owned conglomerate Kuwait Petroleum Corp.	later announce with	OPEC decision	ORGANIZATION	ORGANIZATION
+1.0	state-owned conglomerate Kuwait Petroleum Corp.	later announce in	line	ORGANIZATION	0
+1.0	state-owned conglomerate Kuwait Petroleum Corp.	announce in	line	ORGANIZATION	0
+1.0	OPEC	have	reduction	O	ORGANIZATION
+1.0	Energy Minister Ali Jarrah al-Sabah	say at_time	Tuesday	PERSON	DATE
+0.8238215635996603	concern	weather in	northern hemisphere	0	0
+0.8238215635996603	concern	warm weather in	hemisphere	0	0
+1.0	New York 's contract crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	Organisation	decide at_time	month	ORGANIZATION	DATE
+1.0	conglomerate Kuwait Petroleum Corp.	announce with	OPEC decision	ORGANIZATION	ORGANIZATION
+1.0	New York 's main contract light sweet crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	New York 's main contract sweet crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	New York 's contract crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	weather	stoke concern over	weak demand	0	0
+1.0	slide	be in	world oil price	0	0
+1.0	11-nation Organisation	decide at_time	last month	ORGANIZATION	DATE
+1.0	New York 's main contract sweet crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	11-nation Organisation	decide at_time	month	ORGANIZATION	DATE
+1.0	New York 's contract sweet crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	it	will cut	output	0	0
+1.0	New York 's main contract crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	We	have	agreement	O	O
+1.0	Organisation	decide at	meeting	ORGANIZATION	0
+1.0	OPEC	have	reduction of 1.2 million bpd	ORGANIZATION	NUMBER
+1.0	New York 's main contract sweet crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+0.8238215635996603	concern	weather in	hemisphere	0	0
+1.0	New York 's contract light sweet crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	bpd	have	reduction	O	O
+1.0	Organisation	cut output by	500,000 barrel per day	ORGANIZATION	DURATION
+1.0	New York 's main contract crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	New York 's contract sweet crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	New York 's main contract light sweet crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	state-owned conglomerate Kuwait Petroleum Corp.	announce with	OPEC decision	ORGANIZATION	ORGANIZATION
+1.0	colleagues	have	Most	O	O
+1.0	Petroleum Exporting Countries	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	World oil price	plunge at_time	Tuesday	0	DATE
+1.0	New York 's main contract crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	New York	have	contract crude	O	LOCATION
+1.0	11-nation Organisation	decide in	nigerian capital	ORGANIZATION	0
+1.0	Organisation	decide in	capital	ORGANIZATION	0
+1.0	emergency OPEC meeting	have	holding	O	O
+1.0	Organisation	cut	output	ORGANIZATION	0
+1.0	11-nation Organisation	cut output by	500,000 barrel	ORGANIZATION	NUMBER
+1.0	we colleague	be in	OPEC	0	ORGANIZATION
+1.0	it	will cut output by	42,000 bpd start	0	NUMBER
+1.0	warm weather	stoke concern over	demand	0	0
+1.0	New York 's contract sweet crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+0.8238215635996603	concern	warm weather in	northern hemisphere	0	0
+1.0	11-nation Organisation	decide at	meeting	ORGANIZATION	0
+1.0	World oil price	plunge to	they lowest	0	0
+1.0	OPEC	have	emergency meeting	O	ORGANIZATION
+1.0	New York 's main contract crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	conglomerate Kuwait Petroleum Corp.	later announce with	OPEC decision	ORGANIZATION	ORGANIZATION
+1.0	our	have	commitment	O	O
+1.0	weather	stoke concern for	heating fuel	0	0
+1.0	New York 's contract sweet crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	New York 's contract light sweet crude	tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	delivery	be in	February	0	DATE
+1.0	New York 's contract light sweet crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	Organisation	cut output by	500,000 barrel	ORGANIZATION	NUMBER
+1.0	warm weather	be in	northern hemisphere	0	0
+1.0	weather	stoke	concern	0	0
+1.0	it	will cut output by	42,000 bpd start February 1	0	DATE
+1.0	11-nation Organisation	decide in	capital	ORGANIZATION	0
+1.0	11-nation Organisation	cut output by	500,000 barrel per day	ORGANIZATION	DURATION
+1.0	conglomerate Kuwait Petroleum Corp.	later announce in	line	ORGANIZATION	0
+1.0	weather	stoke concern over	demand	0	0
+1.0	their	have	lowest	O	O
+1.0	it	will cut output by	42,000 bpd	0	NUMBER
+1.0	New York 's contract crude	meanwhile tumble	2.21 53.88 dollar	LOCATION	MONEY
+1.0	Organisation	decide at_time	last month	ORGANIZATION	DATE
+1.0	2.5 million bpd	be in	October	NUMBER	DATE
+1.0	11-nation Organisation	cut output from	February	ORGANIZATION	DATE
+1.0	New York 's contract light sweet crude	tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	Organisation	decide in	nigerian capital	ORGANIZATION	0
+1.0	New York 's contract crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY
+1.0	conglomerate Kuwait Petroleum Corp.	announce in	line	ORGANIZATION	0
+1.0	New York 's main contract light sweet crude	meanwhile tumble	2.21 53.88 dollar per barrel	LOCATION	MONEY

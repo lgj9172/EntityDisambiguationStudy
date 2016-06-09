@@ -1,0 +1,60 @@
+1.0	it	be strike at	group of al-qaeda-connected	0	ORGANIZATION
+1.0	official	tell reporter on	condition of anonymity	0	0
+1.0	Clan elder	have report about	100 people kill	0	NUMBER
+1.0	I	ask about	presence	0	0
+1.0	US soldiers	have	presence	O	O
+1.0	Al	have	group	O	ORGANIZATION
+1.0	Clan elder	report	resident in region	0	0
+1.0	Osama bin Laden	be leader of	Al-Qaeda	PERSON	ORGANIZATION
+1.0	Clan elder	have report close to	kenyan border	0	0
+1.0	Clan elder	say	resident in region	0	0
+1.0	Clan elder	report	resident	0	0
+1.0	it	be strike at	group	0	0
+1.0	Clan elder	have report close to	border	0	0
+1.0	official	tell reporter in	capital of Kenya	0	LOCATION
+1.0	it	be target strike at	group	0	0
+1.0	it	be	target	0	0
+1.0	militant	be in	Somalia	0	LOCATION
+0.9597816064899573	government	lead	fighter	0	0
+1.0	US embassies	have	bombings	O	O
+1.0	assets	have	variety	O	O
+0.9597816064899573	somali government	lead	islamist fighter	0	0
+1.0	group	have	One	NUMBER	O
+1.0	it	be target strike at	group of al-qaeda-connected	0	ORGANIZATION
+1.0	official	deny	report	0	0
+1.0	strike	have	result	O	O
+0.9597816064899573	somali government	lead	fighter	0	0
+1.0	US forces	have	numbers	O	O
+0.9597816064899573	government	lead fighter in	battle	0	0
+1.0	it	be	strike	0	0
+1.0	US special force	be in	Somalia	LOCATION	LOCATION
+1.0	Clan elder	say	resident	0	0
+0.9597816064899573	somali government	lead fighter in	battle	0	0
+1.0	resident	be in	bomb region	0	0
+1.0	Kenya	have	capital	O	LOCATION
+1.0	official	tell	reporter	0	0
+1.0	official	tell reporter in	Nairobi	0	LOCATION
+1.0	I	would	would aware	0	0
+1.0	people	have	number	O	O
+1.0	US official	say at_time	Thursday	LOCATION	DATE
+1.0	senior US official	say at_time	Thursday	LOCATION	DATE
+1.0	I	ask about	presence of such US soldier	0	0
+1.0	Al-Qaeda-connected	have	group	O	O
+1.0	official	tell reporter in	capital	0	0
+1.0	official	tell reporter on	condition	0	0
+1.0	Al-Qaeda suspects	have	None	O	O
+0.9597816064899573	government	lead fighter in	recent battle	0	0
+1.0	I	ask about	presence of US soldier	0	0
+1.0	Clan elder	have report about	100 people	0	NUMBER
+1.0	country	have	south	O	O
+1.0	three top Al-Qaeda suspect	be in	Somalia	NUMBER	LOCATION
+0.9597816064899573	government	lead	islamist fighter	0	0
+1.0	US embassy	be in	Kenya	LOCATION	LOCATION
+0.9597816064899573	somali government	lead fighter in	recent battle	0	0
+1.0	it	be	target strike	0	0
+1.0	Nairobi	capital of	Kenya	LOCATION	LOCATION
+1.0	Clan elder	say	resident in bomb region	0	0
+1.0	Osama bin Laden	be close to	Al-Qaeda	PERSON	ORGANIZATION
+1.0	anonymity	have	condition	O	O
+1.0	raid	have	target	O	O
+1.0	Clan elder	report	resident in bomb region	0	0

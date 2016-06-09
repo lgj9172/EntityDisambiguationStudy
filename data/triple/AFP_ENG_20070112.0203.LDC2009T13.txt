@@ -1,0 +1,85 @@
+1.0	Mahmud Abbas	resolve	standoff	PERSON	0
+1.0	100	wound in	clash between group loyal to Fatah	NUMBER	ORGANIZATION
+1.0	Cairo	have	Gaza strongman	O	O
+1.0	Hamas	have	leader	O	ORGANIZATION
+0.8546682476931434	way	revive	dormant palestinian-israeli peace process	0	0
+1.0	Ramallah	have	West Bank city	O	LOCATION
+1.0	100	wound in	clash between group loyal	NUMBER	0
+0.48661616853550815	attempt	end	standoff	0	0
+1.0	Mahmud Abbas	call for	presidential	PERSON	0
+1.0	explosive situation	be in	Gaza Strip	0	LOCATION
+1.0	national accord	be in	Cairo	0	LOCATION
+1.0	Hamas	be	Ziad Abu Amr	ORGANIZATION	PERSON
+1.0	the Gaza Strip	have	have embroil in fighting	LOCATION	0
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	meeting	take place on	Tuesday	0	DATE
+1.0	supporters	have	thousands	O	O
+1.0	Hamas	be	Khaled Meshaal	ORGANIZATION	PERSON
+1.0	the Gaza Strip	have	have embroil in factional fighting	LOCATION	0
+1.0	100	wound in	clash between armed group loyal	NUMBER	0
+1.0	US Secretary	travel to	region in bid	LOCATION	0
+1.0	the Gaza Strip	have	have embroil since December 16	LOCATION	DATE
+1.0	Mahmud Abbas	call for	early presidential	PERSON	0
+1.0	Yasser Arafat	be founder of	fatah	PERSON	0
+0.8546682476931434	way	revive	palestinian-israeli peace process	0	0
+1.0	Their	have	cause	O	O
+1.0	Mahmud Abbas	assure thousand at	rally	PERSON	0
+1.0	them	have	one	NUMBER	O
+1.0	Abbas and Meshaal	have	goal	O	O
+1.0	Mahmud Abbas	tell crowd supporter in	West Bank city of Ramallah	0	LOCATION
+1.0	Yasser Arafat	be	fatah	PERSON	0
+1.0	the Gaza Strip	have	have embroil	LOCATION	0
+1.0	its	have	secretary	O	O
+1.0	Mahmud Abbas	prevent	further clash	0	0
+1.0	Mahmud Abbas	prevent clash with	Hamas	0	ORGANIZATION
+1.0	source	meanwhile say close to	Mahmud Abbas	0	PERSON
+1.0	Mahmud Abbas	prevent	clash	0	0
+1.0	source	say close to	Mahmud Abbas	0	PERSON
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	100	wound in	clash	NUMBER	0
+1.0	Mahmud Abbas	tell	crowd supporter	0	0
+1.0	Yasser Arafat	have	death	O	PERSON
+1.0	several egyptian official	be in	recent day	0	DURATION
+1.0	Mahmud Abbas	assure	thousand of supporter	PERSON	0
+1.0	Amr Mussa	tell	journalist	PERSON	0
+1.0	Amr Mussa	tell journalist in	Cairo	PERSON	LOCATION
+1.0	region	be in	bid seek	0	0
+1.0	100	wound in	clash between group	NUMBER	0
+1.0	Arab League	say on	Tuesday	ORGANIZATION	DATE
+1.0	Hamas	have	rival	O	ORGANIZATION
+1.0	Hamas	be close to	palestinian	ORGANIZATION	0
+1.0	US Secretary	travel to	region	LOCATION	0
+1.0	Hamas	trounce fatah in	parliamentary election two month earlier	ORGANIZATION	DATE
+1.0	Mahmud Abbas	assure thousand at	rally on Thursday	PERSON	DATE
+1.0	Mahmud Abbas	prevent	factional clash	0	0
+1.0	meeting	take	place	0	0
+1.0	Mahmud Abbas	resolve	months-long standoff	PERSON	0
+1.0	Islamic Jihad leader	confirm	development	ORGANIZATION	0
+1.0	their	have	state	O	O
+1.0	the Gaza Strip	have	have embroil in fighting since December 16	LOCATION	DATE
+1.0	100	wound in	clash between armed group loyal to Fatah	NUMBER	ORGANIZATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Mahmud Abbas	resolve standoff with	Hamas	PERSON	ORGANIZATION
+1.0	thousands of supporters	have	priority	O	O
+1.0	official	be in	the Gaza Strip	0	LOCATION
+1.0	Mahmud Abbas	tell crowd supporter in	West Bank city	0	LOCATION
+1.0	Bashar al-Assad	be from	syrian	PERSON	0
+1.0	Mahmud Abbas	call in	bid	PERSON	0
+1.0	Abbas	have	Fatah party	O	PERSON
+0.8546682476931434	way	revive	dormant peace process	0	0
+1.0	Hamas	reject	move	ORGANIZATION	0
+1.0	Mahmud Abbas	prevent	further factional clash	0	0
+1.0	Hamas	advisor to	late palestinian leader	ORGANIZATION	0
+1.0	unified position	be in	grave situation	0	0
+1.0	accord	have	signature	O	O
+1.0	the Gaza Strip	have	have embroil in factional fighting since December 16	LOCATION	DATE
+1.0	unity	have	government	O	O
+1.0	100	wound in	clash between armed group	NUMBER	0
+1.0	Islamic Jihad	rival of	Hamas	ORGANIZATION	ORGANIZATION
+1.0	Mohammed Dahlan	be strongman of	the Gaza Strip	PERSON	LOCATION
+0.48661616853550815	latest attempt	end	standoff	0	0
+1.0	Mahmud Abbas	be	determine	0	0
+1.0	anonymity	have	condition	O	O
+1.0	Mediators	have	parties	O	O
+1.0	Mahmud Abbas	assure	thousand	PERSON	0
+0.8546682476931434	way	revive	peace process	0	0

@@ -1,0 +1,22 @@
+1.0	his	have	bid	O	O
+1.0	body	have	president	O	O
+1.0	Rodriguez	have	Marseille	PERSON	ORGANIZATION
+1.0	past	have	man	O	DATE
+1.0	union fifpro	announce	they support	0	0
+1.0	UEFA	have	head	O	ORGANIZATION
+1.0	Veh	have	contract extension	O	O
+1.0	Veh	have	contract extension	0	0
+1.0	contract	have	points	O	O
+1.0	today	have	president	O	DATE
+1.0	his	have	contract	O	O
+1.0	board	say on	Wednesday	0	DATE
+1.0	european football	of	govern body	0	0
+1.0	their	have	support	O	O
+1.0	Julien Rodriguez	be for	french	PERSON	0
+1.0	Armin Veh	be	Stuttgart	PERSON	ORGANIZATION
+1.0	club	have	board	O	O
+1.0	Rodriguez	be	28-year-old	PERSON	DURATION
+1.0	Rodriguez	have	Marseille	ORGANIZATION	PERSON
+1.0	Armin Veh	be coach of	Stuttgart	PERSON	ORGANIZATION
+1.0	union fifpro	announce	they official support	0	0
+1.0	football	have	body	O	O

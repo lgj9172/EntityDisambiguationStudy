@@ -1,0 +1,30 @@
+1.0	targeting	have	some	O	O
+1.0	Iraqis	send	three additional brigade	LOCATION	NUMBER
+1.0	our	have	targeting	O	O
+1.0	Iraq	have	parts	O	LOCATION
+1.0	Iraqis	agree to	command structure vet by Americans	LOCATION	MISC
+1.0	equation	have	sides	O	O
+1.0	Iraqis	agree to	command structure vet	LOCATION	0
+1.0	Sadr City	stronghold of	Moqtada Al-Sadr	LOCATION	PERSON
+1.0	they	attack first	US force	0	LOCATION
+1.0	Iraqis	send	three brigade	LOCATION	NUMBER
+1.0	Al-Sadr	like	Mahdi Army	LOCATION	ORGANIZATION
+1.0	reporters	have	leadership	O	O
+1.0	they	attack	US force	0	LOCATION
+1.0	commitments	have	one	NUMBER	O
+1.0	violence	have	cycle	O	O
+1.0	Moqtada	have	Baghdad stronghold	O	PERSON
+1.0	US force	be	unlikely	LOCATION	0
+1.0	Al-Sadr	have	Mahdi Army	ORGANIZATION	LOCATION
+1.0	our	have	partners	O	O
+0.8156002440554441	use	acronym for	Jaish al-Mahi	0	PERSON
+1.0	reporters	have	capability	O	O
+1.0	he	use	acronym for Jaish al-Mahi	0	PERSON
+1.0	Iraqis	agree to	command structure	LOCATION	0
+1.0	official	refer to	sectarian militia	0	0
+1.0	US force	go	head	LOCATION	0
+1.0	Moqtada Al-Sadr	be of	shiite	PERSON	0
+1.0	policy	be in	Baghdad	0	LOCATION
+1.0	official	refer to	militia	0	0
+1.0	he	use	acronym	0	0
+1.0	anonymity	have	condition	O	O

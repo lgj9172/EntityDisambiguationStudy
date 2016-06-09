@@ -1,0 +1,113 @@
+1.0	Bank	announce	its interest rate decision	ORGANIZATION	0
+1.0	percent	have	analyst forecast	O	PERCENT
+1.0	Bank	raise interest rate at_time	week	ORGANIZATION	DATE
+1.0	its	have	interest rate decision	O	O
+1.0	flurry	however have renew trader confidence in	american currency	0	0
+1.0	dollar	stand in	late New York trade	0	LOCATION
+1.0	dollar	be	quote	0	0
+1.0	single european currency	fall since	November 22	0	DATE
+1.0	Bank	raise	interest rate	ORGANIZATION	0
+1.0	upbeat economic news	be in	the past week	0	DATE
+1.0	dollar	be in	recent day	0	DURATION
+1.0	pound	be change hand compare with	1.9442 day earlier	0	DATE
+1.0	dollar	be	quote down from 120.43 yen Thursday	0	MONEY
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	currency	fall since	November 22	0	DATE
+1.0	euro	be change hand compare with	1.2892 late Thursday in New York	0	LOCATION
+1.0	yen	climb on	mount speculation	0	0
+1.0	dollar	be	quote at 120.36 yen down from 120.43 yen Thursday	0	MONEY
+1.0	dollar	stand at	1.2471 swiss franc from 1.2492	0	NUMBER
+1.0	dollar	stand at	1.2471 franc from 1.2492	0	NUMBER
+1.0	dollar	be	meanwhile quote down	0	0
+1.0	Kathy Lien , a chief strategist at Capital Forex Markets	strategist at	Capital Forex Markets	PERSON	ORGANIZATION
+1.0	Joel Naroff	be of	Naroff Economic Advisors	PERSON	ORGANIZATION
+1.0	Commerce Department report	show	retail sale	ORGANIZATION	0
+1.0	electronics	lead	way	0	0
+1.0	US retail sale	grow	stronger-than-expected 0.9 percent	LOCATION	PERCENT
+1.0	yen	touch low against	dollar in day	0	0
+1.0	yen	meanwhile climb against	dollar Thursday 's fall	0	DATE
+1.0	yen	touch	low	0	0
+1.0	flurry	however have renew	trader confidence	0	0
+1.0	yen	climb against	dollar Thursday 's sharp fall	0	DATE
+1.0	dollar	be	meanwhile quote at 120.36 yen down from 120.43 yen late Thursday	0	MONEY
+1.0	dollar	stand at_time	Thursday	0	DATE
+1.0	news	have	flurry	O	O
+1.0	US retail sale	defy most	economist ' forecast	LOCATION	0
+1.0	interest rates	have	euro	O	O
+1.0	single currency	fall since	November 22	0	DATE
+1.0	dollar	be	quote down	0	0
+1.0	Commerce Department report	exclude	automobile sale	ORGANIZATION	0
+0.19638968584803773	interest rate	bank of	Japan	0	ORGANIZATION
+1.0	yen	meanwhile climb on	speculation	0	0
+1.0	US sale	defy most	economist ' forecast	LOCATION	0
+1.0	yen	touch low against	dollar in recent day	0	DURATION
+1.0	it	lose to	euro of late growth	0	0
+1.0	US sale	grow	0.9 percent	LOCATION	PERCENT
+1.0	profit-taking	have	bout	O	O
+1.0	british pound	be change hand compare with	1.9442 day earlier	0	DATE
+1.0	dollar	be	quote down from 120.43 yen late Thursday	0	MONEY
+1.0	british pound	be change hand compare with	1.9442 earlier	0	NUMBER
+1.0	trader	cash in	they dollar gain ahead of weekend	0	DATE
+1.0	economists	have	forecasts	O	O
+1.0	US sale	defy	economist ' forecast	LOCATION	0
+1.0	pound	be change hand compare with	1.9442 earlier	0	NUMBER
+1.0	dollar	be quote down at	120.36 yen	0	MONEY
+1.0	dollar	stand at	1.2471 franc	0	MONEY
+1.0	dollar	be	meanwhile quote down from 120.43 yen Thursday	0	MONEY
+1.0	dollar	have	declines	O	O
+1.0	December	have	month	DATE	DATE
+1.0	Bank	raise interest rate at_time	next week	ORGANIZATION	DATE
+1.0	dollar	meanwhile be quote down at	120.36 yen	0	MONEY
+1.0	yen	climb against	dollar Thursday 's fall	0	DATE
+1.0	dollar	stand in	New York trade	0	LOCATION
+1.0	dollar	stand at	1.2471 swiss franc	0	MONEY
+1.0	The single European currency	have	reading	O	O
+1.0	yen	climb on	speculation	0	0
+1.0	Bank	be	schedule	ORGANIZATION	0
+1.0	dollar	be	meanwhile quote at 120.36 yen down from 120.43 yen Thursday	0	MONEY
+1.0	traders	have	dollar gains	O	O
+1.0	flurry	however have renew trader confidence in	currency	0	0
+1.0	flurry	have renew trader confidence in	american currency	0	0
+1.0	US retail sale	grow	0.9 percent	LOCATION	PERCENT
+1.0	dollar	be	meanwhile quote at 120.36 yen down from 120.43 yen	0	MONEY
+1.0	US retail sale	defy	economist ' forecast	LOCATION	0
+1.0	dollar	be	quote down from 120.43 yen	0	MONEY
+0.34785931814430093	US sale	grow in	December	LOCATION	DATE
+1.0	it	lose to	euro of late economic growth	0	0
+1.0	Naroff Economic Advisors	have	Joel Naroff	PERSON	ORGANIZATION
+1.0	dollar	meanwhile be quote at	120.36 yen	0	MONEY
+1.0	this morning	have	retail sale report	DATE	0
+1.0	Commerce Department report	exclude	volatile automobile sale	ORGANIZATION	0
+1.0	The dollar	have	gains	O	O
+1.0	Bank	announce	its next interest rate decision	ORGANIZATION	DATE
+1.0	percent	have	rise	O	PERCENT
+1.0	flurry	have renew	trader confidence	0	0
+1.0	dollar	be	meanwhile quote down from 120.43 yen late Thursday	0	MONEY
+1.0	week	have	end	DATE	DATE
+1.0	Commerce Department report	show	sale	ORGANIZATION	0
+1.0	morning	have	sales report	O	DATE
+1.0	yen	touch low against	dollar	0	0
+1.0	yen	touch	13-month low	0	DURATION
+1.0	dollar	be	meanwhile quote	0	0
+1.0	it	lose to	euro	0	0
+0.34785931814430093	US retail sale	grow in	December	LOCATION	DATE
+1.0	it	lose to	euro of growth	0	0
+1.0	dollar	be quote at	120.36 yen	0	MONEY
+1.0	flurry	have renew trader confidence in	currency	0	0
+1.0	yen	meanwhile climb against	dollar Thursday 's sharp fall	0	DATE
+1.0	growth	have	euro	O	O
+1.0	dollar	be	quote at 120.36 yen down from 120.43 yen	0	MONEY
+1.0	dollar	despite	late decline	0	0
+1.0	trader	cash in	they dollar gain	0	DATE
+1.0	yen	meanwhile climb on	mount speculation	0	0
+1.0	yen	climb against	dollar	0	0
+1.0	US sale	grow	stronger-than-expected 0.9 percent	LOCATION	PERCENT
+1.0	weekend	have	dollar gains	O	DATE
+1.0	it	lose to	euro of economic growth	0	0
+1.0	dollar	be	meanwhile quote down from 120.43 yen	0	MONEY
+1.0	trader	cash in	they dollar gain of weekend	0	DATE
+1.0	gains	have	week	DURATION	O
+1.0	dollar	be	quote at 120.36 yen down from 120.43 yen late Thursday	0	MONEY
+1.0	yen	meanwhile climb against	dollar	0	0
+1.0	euro	be change hand compare with	1.2892 Thursday in New York	0	LOCATION
+1.0	european currency	fall since	November 22	0	DATE

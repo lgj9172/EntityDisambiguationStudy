@@ -1,0 +1,62 @@
+1.0	life	have	loss	O	O
+1.0	they	could contribute to	escalation of conflict	0	LOCATION
+1.0	civilian population	be in	Somalia	0	LOCATION
+1.0	civilian	be	kill	0	0
+0.836825199137869	effort	conducive to	process of pacification	0	0
+1.0	ban ki-moon	be chief of	United Nations	0	ORGANIZATION
+1.0	Michele Montas	regret	loss of life	PERSON	0
+1.0	foreign ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	action	have	kind	O	O
+1.0	kind	have	incident	O	O
+1.0	conflict	have	escalation	O	O
+1.0	Michele Montas	regret	reported loss of life	PERSON	0
+1.0	Michele Montas	regret	reported loss	PERSON	0
+1.0	Africa	have	Horn	LOCATION	LOCATION
+1.0	security	be in	region	0	0
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	they	could contribute to	escalation of conflict in Horn of Africa	0	LOCATION
+1.0	the new UN secretary general	have	post	O	O
+1.0	Amadeu Altafaj	spokesman for	Louis Michel	PERSON	PERSON
+1.0	Raymond Johansen	be	norwegian	PERSON	0
+1.0	ministry undersecretary Raymond Johansen	tell	public service radio NRK	PERSON	ORGANIZATION
+1.0	Washington	have	explanation	O	LOCATION
+1.0	Michele Montas	regret	loss of civilian life	PERSON	0
+1.0	they	could contribute to	escalation	0	0
+1.0	Michele Montas	regret	reported loss of civilian life	PERSON	0
+1.0	norwegian ministry undersecretary Raymond Johansen	tell	public service radio NRK	PERSON	ORGANIZATION
+1.0	ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	pacification	have	process	O	O
+1.0	United Nations	lead criticism on	Somalia	ORGANIZATION	LOCATION
+1.0	United Nations	lead criticism at_time	Tuesday	ORGANIZATION	DATE
+1.0	nature	have	those	O	O
+1.0	United Nations	lead	criticism	ORGANIZATION	0
+1.0	ban ki-moon	be	United Nations	0	ORGANIZATION
+1.0	United Nations	lead	international criticism	ORGANIZATION	0
+1.0	Louis Michel	be for	The EU	PERSON	ORGANIZATION
+1.0	The United States	have launch	air strike	0	0
+1.0	civilian	be kill accord to	witness account	0	0
+1.0	its first overt military intervention	be in	lawless nation since early 1990s	ORDINAL	DATE
+1.0	Somalia government	have	fighting	O	O
+1.0	Ethiopian troops	have	place	O	O
+1.0	Michele Montas	regret	loss	PERSON	0
+1.0	United Nations	lead criticism of	US air strike	ORGANIZATION	LOCATION
+1.0	Washington	have	explanation of conduct in Somalia	LOCATION	LOCATION
+1.0	its conduct	be in	Somalia	0	LOCATION
+1.0	suspect Al-Qaeda hideout	be in	Somalia	MISC	LOCATION
+0.836825199137869	effort	conducive to	process	0	0
+1.0	United Nations	lead	European Union	ORGANIZATION	ORGANIZATION
+1.0	conflict	be in	Horn of Africa	0	LOCATION
+1.0	norwegian foreign ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	The United States	have launch air strike on	Al-Qaeda hideout	0	MISC
+1.0	conduct	have	explanation	O	O
+1.0	Louis Michel	be commissioner of	The EU	PERSON	ORGANIZATION
+1.0	they	could contribute to	escalation of conflict in Horn	0	LOCATION
+1.0	US air strikes	have	led	O	O
+1.0	New UN chief Ban Ki-moon	have	spokeswoman	O	O
+1.0	contact group	have	members	O	O
+1.0	law	have	court	O	O
+1.0	norwegian ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	Washington 's	have	conduct	O	O
+1.0	The United States	have launch air strike on	suspect Al-Qaeda hideout	0	MISC
+1.0	hostilities	have	escalation	O	O
+1.0	The United States	have	intervention	O	O

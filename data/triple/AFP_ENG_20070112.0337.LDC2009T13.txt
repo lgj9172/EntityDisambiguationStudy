@@ -1,0 +1,33 @@
+1.0	34 percent	support	position of ultra	PERCENT	0
+1.0	11 percent	be in	support of democracy	PERCENT	0
+1.0	youth groups	have	views	O	O
+1.0	country	have	field	O	O
+1.0	Kremlin critic Anna Politkovskaya	have	assassination	O	PERSON
+1.0	percent	support	position of ultra	PERCENT	0
+1.0	authorities	have	criticism	O	O
+1.0	country	in	crowded field of political youth movement	0	0
+1.0	Russians	have	third	ORDINAL	MISC
+1.0	percent	support	position	PERCENT	0
+1.0	Russians	have	proportion	O	MISC
+1.0	Anna Politkovskaya	have	killer	O	O
+1.0	freedoms	have	expense	O	O
+1.0	Levada Center	poll 1,600 russians nationwide with	margin error	ORGANIZATION	0
+1.0	ultra	have	positions	O	O
+1.0	Levada Center	poll 1,600 russians with	margin	ORGANIZATION	0
+1.0	pogromists	have	detachments	O	O
+1.0	stormtroopers	have	detachments	O	O
+1.0	youth movements	have	field	O	O
+1.0	error	have	margin	O	O
+1.0	Anna Politkovskaya	be	Kremlin	PERSON	LOCATION
+1.0	democracy	have	support	O	O
+1.0	struggle	have	pretext	O	O
+1.0	34 percent	support	position	PERCENT	0
+1.0	Levada Center	poll	1,600 Russians	ORGANIZATION	MISC
+1.0	Anna Politkovskaya	be critic of	Kremlin	PERSON	LOCATION
+1.0	Levada Center	poll 1,600 russians with	margin error	ORGANIZATION	0
+1.0	journalist	have	assassination	O	O
+1.0	Levada Center	poll 1,600 russians with	margin error three percent	ORGANIZATION	PERCENT
+1.0	Levada Center	poll 1,600 russians nationwide with	margin error three percent	ORGANIZATION	PERCENT
+1.0	Levada Center	poll nationwide	1,600 Russians	ORGANIZATION	MISC
+1.0	percent	have	error	O	PERCENT
+1.0	Levada Center	poll 1,600 russians nationwide with	margin	ORGANIZATION	0

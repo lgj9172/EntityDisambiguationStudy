@@ -1,0 +1,92 @@
+1.0	Russia	pay	45-dollar-per-tonne fee	LOCATION	0
+1.0	Environment minister Sigmar Gabriel	tell	WDR radio	PERSON	ORGANIZATION
+1.0	Europe	have	supply	O	LOCATION
+1.0	gas	have	supply	O	O
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	Tagesthemen	think about	consequence	0	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline	LOCATION	0
+1.0	pull-out	have	have object of debate	0	0
+1.0	Economy Minister Michael Glos	call for	re-think of country 's pledge	PERSON	0
+1.0	Germany	have	17 nuclear power station	LOCATION	NUMBER
+1.0	Michael Glos	be	german	PERSON	0
+1.0	energy sources	have	mix	O	O
+1.0	environmentalist Green parties	have	coalition	O	O
+1.0	Tagesthemen	say	think about consequence for pull-out of power	0	0
+1.0	17 nuclear power station	be in	operation	NUMBER	0
+1.0	Commission	unveil	plan	ORGANIZATION	0
+1.0	Economy Minister Michael Glos	call for	re-think	PERSON	0
+0.563282089210161	Russia	fee for	oil transit through pipeline across its territory	LOCATION	0
+1.0	Moscow	suddenly suspend westwards	oil delivery	LOCATION	0
+0.563282089210161	Russia	fee for	oil transit	LOCATION	0
+1.0	Germany	currently have	17 power station in operation	LOCATION	NUMBER
+1.0	Europe	have	supply of gas	LOCATION	0
+1.0	Russia	pay	fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	Germany	currently have	17 power station	LOCATION	NUMBER
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil	LOCATION	0
+1.0	debate	have	object	O	O
+1.0	Economy Minister Michael Glos	call for	urgent re-think	PERSON	0
+1.0	Tagesthemen	think about	consequence for pull-out of nuclear power	0	0
+1.0	Gerhard Schroeder	coalition of	Social Democrat spd	PERSON	ORGANIZATION
+1.0	Tagesthemen	say naturally	think	0	0
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit	LOCATION	0
+1.0	energy dispute	have	view	O	O
+1.0	Tagesthemen	say	think	0	0
+1.0	Tagesthemen	say naturally	think about consequence for pull-out of power	0	0
+1.0	Germany	currently have	17 nuclear power station	LOCATION	NUMBER
+1.0	pull-out	have	have object	0	0
+1.0	Tagesthemen	think about	consequence for pull-out of power	0	0
+1.0	Tagesthemen	say naturally	think about consequence	0	0
+1.0	German Economy Minister Michael Glos	tell evening tagesthemen news programme on	ARD television	PERSON	0
+1.0	pull-out	have	have object of recur debate ever since	0	0
+1.0	Tagesthemen	say	think about consequence for pull-out	0	0
+1.0	Belarus	be to	Czech Republic	LOCATION	LOCATION
+1.0	european Commission	be in	Brussels	ORGANIZATION	LOCATION
+0.563282089210161	Russia	fee for	oil	LOCATION	0
+1.0	Tagesthemen	say naturally	think about consequence for pull-out of nuclear power	0	0
+1.0	country	of	pledge abandon in view of current energy dispute between Russia	0	LOCATION
+1.0	Tagesthemen	say	think about consequence	0	0
+1.0	Germany	have	independence in energy	LOCATION	0
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline across its territory	LOCATION	0
+1.0	Moscow	suddenly suspend	oil delivery	LOCATION	0
+1.0	pull-out	have	have object of debate ever since	0	0
+1.0	energy	have	sources	O	O
+1.0	Economy Minister Michael Glos	call for	urgent re-think of country 's pledge	PERSON	0
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline	LOCATION	0
+1.0	pull-out	have	have object of recur debate	0	0
+1.0	german Economy Minister Michael Glos	call for	urgent re-think	PERSON	0
+1.0	german Economy Minister Michael Glos	call for	re-think of country 's pledge	PERSON	0
+1.0	Germany 's independence	be in	energy	LOCATION	0
+1.0	supply	have	sources	O	O
+1.0	Russia	pay	fee	LOCATION	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit	LOCATION	0
+1.0	Russia	pay	fee for oil transit through pipeline	LOCATION	0
+1.0	EU unity	diversify	source of supply	ORGANIZATION	0
+1.0	Moscow	suspend	oil delivery	LOCATION	0
+1.0	Russia	have	territory	O	O
+1.0	oil	have	supply	O	O
+1.0	Germany	currently have	17 nuclear power station in operation	LOCATION	NUMBER
+1.0	german Economy Minister Michael Glos	call for	urgent re-think of country 's pledge	PERSON	0
+1.0	German Economy Minister Michael Glos	tell evening tagesthemen news programme on	ARD public television	PERSON	0
+1.0	european Commission	unveil	plan	ORGANIZATION	0
+1.0	Social Democrat SPD	have	coalition	O	ORGANIZATION
+1.0	Germany	have	independence	O	LOCATION
+1.0	pledge	have	re-think	O	O
+1.0	German Economy Minister Michael Glos	tell	evening Tagesthemen news programme	PERSON	TIME
+1.0	Russia	pay	fee for oil transit	LOCATION	0
+1.0	Russia	pay	fee for oil	LOCATION	0
+1.0	Germany	have	17 power station	LOCATION	NUMBER
+1.0	EU unity	diversify	source	ORGANIZATION	0
+1.0	Germany	have	dependance	O	LOCATION
+1.0	Germany	have	17 power station in operation	LOCATION	NUMBER
+1.0	german Economy Minister Michael Glos	call for	re-think	PERSON	0
+1.0	Moscow	suspend westwards	oil delivery	LOCATION	0
+1.0	Tagesthemen	say naturally	think about consequence for pull-out	0	0
+1.0	Germany	have	17 nuclear power station in operation	LOCATION	NUMBER
+1.0	country	have	pledge	O	O
+0.563282089210161	Russia	fee for	oil transit through pipeline	LOCATION	0
+1.0	German Economy Minister Michael Glos	tell	late evening Tagesthemen news programme	PERSON	TIME
+1.0	Tagesthemen	say	think about consequence for pull-out of nuclear power	0	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil	LOCATION	0
+1.0	Environment minister Sigmar Gabriel	tell wdr radio on	Wednesday	PERSON	DATE
+1.0	Tagesthemen	think about	consequence for pull-out	0	0
+1.0	power	have	pull-out	O	O

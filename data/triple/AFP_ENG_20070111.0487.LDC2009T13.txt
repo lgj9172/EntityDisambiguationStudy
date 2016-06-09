@@ -1,0 +1,19 @@
+1.0	two Brazilian strikers	have	Champions League debut	O	O
+1.0	teenager	move league winner to	three-time Champions	0	MISC
+1.0	whose	have	title	O	O
+1.0	Canon Yaounde	be	Cameroon	ORGANIZATION	LOCATION
+1.0	Godofredo Netto	play for	Fluminense	PERSON	ORGANIZATION
+1.0	Etoile of Congo	be in	first round with first leg schedule for Cameroon capital over weekend of January 26-28	DATE	ORDINAL
+1.0	24-year-old Godofredo Netto	play for	Fluminense	PERSON	ORGANIZATION
+1.0	Santos	be dos of	Washington	PERSON	LOCATION
+1.0	teenager	move league winner to	Champions	0	MISC
+1.0	teenager	move	League winner	0	MISC
+1.0	Santos	be	Washington	PERSON	LOCATION
+1.0	Champions League debut	have	signed	O	O
+1.0	Godofredo Netto	previously play for	Fluminense	PERSON	ORGANIZATION
+1.0	first round	be with	first leg schedule for Cameroon capital over weekend of January 26-28	ORDINAL	ORDINAL
+1.0	January	have	weekend	DATE	DATE
+1.0	Canon Yaounde	be club of	Cameroon	ORGANIZATION	LOCATION
+1.0	Godofredo Netto	be	24-year-old	PERSON	DURATION
+1.0	Congo	have	face Etoile	LOCATION	LOCATION
+1.0	24-year-old Godofredo Netto	previously play for	Fluminense	PERSON	ORGANIZATION

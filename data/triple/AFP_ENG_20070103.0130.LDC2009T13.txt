@@ -1,0 +1,44 @@
+1.0	European Union	have	executive arm	O	ORGANIZATION
+0.7855603872613538	EDF share	loss of	1.54 percent	ORGANIZATION	PERCENT
+1.0	electricity giant	have	production	O	O
+1.0	Poweo	now have	78,000 electricity client	PERSON	NUMBER
+1.0	edf	will grant	Poweo access	0	PERSON
+1.0	edf	will grant poweo access to	base energy	0	0
+1.0	EDF share	be show	loss	ORGANIZATION	0
+1.0	capacity	have	some	O	O
+1.0	EDF share	be show	loss of 1.54 percent at 54.35 euro	ORGANIZATION	PERCENT
+1.0	EDF share	be show	loss of 1.54 percent	ORGANIZATION	PERCENT
+1.0	Poweo	will make in	return	PERSON	0
+0.164266332496663	Poweo share	jump to	43.56 euro in trading	PERSON	MONEY
+1.0	its expect sharp growth	be in	french power supply market	0	0
+1.0	Poweo	be create in	2002	PERSON	DATE
+1.0	Poweo	have	78,000 electricity client	PERSON	NUMBER
+1.0	independent energy supplier Poweo	say at_time	Wednesday	PERSON	DATE
+0.164266332496663	Poweo share	jump to	43.56 euro	PERSON	MONEY
+0.7855603872613538	EDF share	loss of	1.54 percent at 54.35 euro	ORGANIZATION	PERCENT
+1.0	power	have	generator	O	O
+1.0	its	have	growth	O	O
+1.0	combined cycle gas plant	be in	pont-sur	0	0
+1.0	percent	have	loss	O	PERCENT
+1.0	french independent energy supplier Poweo	say at_time	Wednesday	PERSON	DATE
+1.0	Poweo	be	french	PERSON	0
+1.0	capacity	have	share	O	O
+1.0	energy supplier Poweo	say at_time	Wednesday	PERSON	DATE
+1.0	analyst	be with	asset manager	0	0
+1.0	electricity giant	from	nuclear production	0	0
+1.0	its	have	capacity	O	O
+1.0	french energy supplier Poweo	say at_time	Wednesday	PERSON	DATE
+1.0	production capacity	have	megawatts	O	O
+1.0	world	have	generator	O	O
+1.0	European Commission	have	wishes	O	ORGANIZATION
+1.0	Poweo	will make	available	PERSON	0
+0.164266332496663	Poweo share	jump on	Paris exchange	PERSON	LOCATION
+1.0	2009	have	start	DATE	DATE
+1.0	European Union	have	executive arm	ORGANIZATION	0
+1.0	43.56 euro	be in	mid-morning trading	MONEY	0
+1.0	Poweo share	jump	9.45 percent	PERSON	PERCENT
+1.0	Poweo	provide	gas	PERSON	0
+1.0	megawatts	have	exchange	O	O
+0.164266332496663	Poweo share	jump to	43.56 euro in mid-morning trading	PERSON	MONEY
+1.0	Julien Quistrbert	analyst with	asset manager	PERSON	0
+1.0	Poweo	be	create	PERSON	0

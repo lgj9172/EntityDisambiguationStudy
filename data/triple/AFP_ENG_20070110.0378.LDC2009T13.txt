@@ -1,0 +1,59 @@
+1.0	Russian President Vladimir Putin	have	ministers	O	O
+1.0	first	will	during visit ever by president will sign include accord	ORDINAL	0
+1.0	T-95	have	purchase	O	MISC
+1.0	Putin	have	visit	PERSON	0
+1.0	first	will	during visit ever by president to Saudi Arabia will sign	ORDINAL	LOCATION
+1.0	first	will	ever by russian president to Saudi Arabia will sign include accord	ORDINAL	LOCATION
+1.0	first	will	during visit ever by president to Saudi Arabia will sign include accord	ORDINAL	LOCATION
+1.0	first	will	will sign include accord	ORDINAL	0
+1.0	Riyadh	strengthen	coordination	LOCATION	0
+1.0	first	will	during visit ever by russian president to Saudi Arabia will sign include accord	ORDINAL	LOCATION
+1.0	Riyadh	strengthen	political coordination	LOCATION	0
+1.0	first	will	ever by president to Saudi Arabia will sign	ORDINAL	LOCATION
+1.0	main battle tank	be in	talk with Russia over possible purchase of russian t-95	0	LOCATION
+1.0	world 's oil	export	nation	0	0
+1.0	Putin 's visit	will enable	Riyadh	PERSON	LOCATION
+1.0	first	will	ever by president to Saudi Arabia will sign include accord	ORDINAL	LOCATION
+1.0	world	have	largest oil export	0	0
+1.0	Saudia Arabia	be	world 's oil	LOCATION	0
+1.0	first	will	ever by president will sign include accord	ORDINAL	0
+1.0	first	will	during visit ever will sign	ORDINAL	0
+1.0	AFP	be in	September	ORGANIZATION	DATE
+1.0	Moscow	supply	machine gun	LOCATION	0
+1.0	talk	be with	Abdullah	0	PERSON
+1.0	first	will	ever by russian president to Saudi Arabia will sign	ORDINAL	LOCATION
+1.0	King Abdullah on bilateral ties	pay	visit	PERSON	0
+1.0	Saudi Arabia	have	ruler	O	LOCATION
+1.0	first	will	during visit ever by russian president to Saudi Arabia will sign	ORDINAL	LOCATION
+1.0	world 's largest oil	export	nation	0	0
+1.0	diplomat	request	anonymity	0	0
+1.0	King Abdullah on bilateral ties	pay	landmark visit	PERSON	0
+1.0	first	will	ever by russian president will sign include accord	ORDINAL	0
+1.0	cooperation agreements	have	series	O	O
+1.0	Vladimir Putin	be	Russian	PERSON	MISC
+1.0	first	will	ever by russian president will sign	ORDINAL	0
+1.0	Putin	have	visit	O	PERSON
+1.0	first	will	ever will sign include accord	ORDINAL	0
+1.0	Saudi Arabia	series of	economic cooperation agreement	LOCATION	0
+1.0	King Abdullah on bilateral ties	pay visit in	September 2003	PERSON	DATE
+1.0	talk	be with	Russia	0	LOCATION
+1.0	Saudi Arabia	be on	February 11-12	LOCATION	DATE
+1.0	first	will	during visit will sign include accord	ORDINAL	0
+1.0	diplomat	say at_time	Wednesday	0	DATE
+1.0	Russian President Vladimir Putin	visit	Jordan	PERSON	LOCATION
+1.0	first	will	during visit ever by russian president will sign	ORDINAL	0
+1.0	Qatar	be for	a few hour	LOCATION	DURATION
+1.0	King Abdullah on bilateral ties	pay visit to	Russia	PERSON	LOCATION
+1.0	Riyadh	strengthen	Moscow	LOCATION	LOCATION
+1.0	russian diplomat	say at_time	Wednesday	0	DATE
+1.0	Russia	have	offer	O	LOCATION
+1.0	first	will	during visit ever by president will sign	ORDINAL	0
+1.0	first	will	ever will sign	ORDINAL	0
+1.0	first	will	will sign	ORDINAL	0
+1.0	Saudia Arabia	be	world 's largest oil	LOCATION	0
+1.0	first	will	during visit ever will sign include accord	ORDINAL	0
+1.0	first	will	during visit ever by russian president will sign include accord	ORDINAL	0
+1.0	first	will	ever by president will sign	ORDINAL	0
+1.0	first	will	during visit will sign	ORDINAL	0
+1.0	world	have	oil	O	O
+1.0	diplomat	tell	AFP	0	ORGANIZATION

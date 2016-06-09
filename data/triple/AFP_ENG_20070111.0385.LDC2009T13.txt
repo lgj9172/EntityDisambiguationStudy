@@ -1,0 +1,51 @@
+1.0	fall oil price	support	early stock gain	0	0
+1.0	stock	gain at_time	day	0	DURATION
+1.0	Steve Jobs	unveil iphone as	one firm 's key new product	PERSON	NUMBER
+1.0	Steve Jobs	unveil iphone as	one firm 's key product	PERSON	NUMBER
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	giant Cisco	launch	its legal salvo	ORGANIZATION	DURATION
+1.0	Poor	have	index	O	O
+1.0	Dick Green	president at	Briefing.com	PERSON	0
+1.0	Steve Jobs	unveil iphone as	one of firm 's product	PERSON	NUMBER
+1.0	fall oil price	support	stock gain	0	0
+1.0	firm	have	products	O	O
+0.28627611980559997	broad-market Standard	rise	Poor 's index	0	0
+1.0	giant Cisco	say at_time	late Wednesday	ORGANIZATION	DATE
+1.0	Steve Jobs	unveil iphone as	one firm 's product	PERSON	NUMBER
+0.7105871266390509	computer network	brand	its cellphone	0	0
+1.0	decline	be in	oil price	0	0
+0.7105871266390509	computer network	brand	its new cellphone	0	0
+1.0	oil price	continue	they downward tumble	0	0
+1.0	oil price	support	stock gain	0	0
+1.0	stock	also gain at_time	day	0	DURATION
+1.0	broad-market Standard	rise	Poor 's index	0	0
+1.0	US share	open higher at_time	Thursday	LOCATION	DATE
+1.0	giant Cisco	combine cellphone in	one sleek device	0	NUMBER
+1.0	oil price	support	early stock gain	0	0
+1.0	computer network	sue	Apple	0	ORGANIZATION
+1.0	their	have	tumble	O	O
+1.0	giant Cisco	have	salvo	O	O
+1.0	Steve Jobs	unveil iphone as	one of firm 's key new product	PERSON	NUMBER
+1.0	Steve Jobs	unveil iphone as	one of firm 's key product	PERSON	NUMBER
+1.0	Dow Jones Industrial Average	be at	up 5.84 point 12,448.00 just after opening bell	MISC	NUMBER
+1.0	giant Cisco	announce after	computer network	ORGANIZATION	0
+1.0	Nasdaq composite	gain	5.14 point	MISC	NUMBER
+1.0	US share	open at_time	Thursday	LOCATION	DATE
+1.0	Steve Jobs	unveil	iPhone	PERSON	NUMBER
+0.28627611980559997	broad-market Standard	rise	Poor 's 500 index	0	NUMBER
+1.0	Poor	have	500 index	0	NUMBER
+1.0	Cisco	announce after	computer network	ORGANIZATION	0
+1.0	giant Cisco	combine cellphone in	one device	0	NUMBER
+1.0	Apple	have	cellphone	O	O
+1.0	Dow Jones Industrial Average	be at	up 12,448.00 just after opening bell	MISC	NUMBER
+1.0	giant Cisco	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	products	have	one	NUMBER	O
+1.0	giant Cisco	combine	cellphone	0	NUMBER
+1.0	Steve Jobs	unveil iphone as	one firm 's new product	PERSON	NUMBER
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	giant Cisco	launch	its salvo	ORGANIZATION	DURATION
+1.0	Steve Jobs	unveil iphone as	one of firm 's new product	PERSON	NUMBER
+1.0	broad-market Standard	rise	Poor 's 500 index	0	NUMBER
+1.0	firm	of	key new product	0	0
+1.0	Nasdaq composite	gain	0.21 percent	MISC	PERCENT
+1.0	oil price	continue	they tumble	0	0

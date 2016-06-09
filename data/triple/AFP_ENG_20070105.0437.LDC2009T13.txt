@@ -1,0 +1,110 @@
+1.0	we	be symbolic of	paranoia of regime	0	0
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist demonstrate	0	0
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist demonstrate against junta	0	0
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist	0	0
+1.0	she	speak in front of	Myanmar embassy in Washington	0	LOCATION
+1.0	political prisoner	end	use of rape	0	0
+1.0	her	have	movement	O	O
+1.0	unanimous support	condemn repression in	military-ruled Myanmar	0	LOCATION
+1.0	United States	circulate draft resolution at_time	month	LOCATION	DATE
+1.0	regime	have	paranoia	O	O
+1.0	political prisoner	end	use	0	0
+1.0	Security Council	be weigh	its first ever resolution on Myanmar	ORGANIZATION	ORDINAL
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist demonstrate against military junta	0	0
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist demonstrate against military junta in Yangon	0	LOCATION
+1.0	She and Iranian laureate Shirin Ebadi	join	group	0	0
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist demonstrate against junta in Yangon	0	LOCATION
+1.0	Aung San Suu Kyi	have	voice	O	PERSON
+1.0	rights abuses	have	accused	O	O
+1.0	Aung San Suu Kyi	have	voice	PERSON	0
+1.0	Security Council	be weigh	its first resolution	ORGANIZATION	ORDINAL
+1.0	prisoner	abort operation against	restive minority	0	0
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist	0	0
+1.0	Security Council	be weigh	its resolution on Myanmar	ORGANIZATION	LOCATION
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist demonstrate against military junta in Yangon	0	LOCATION
+1.0	American Nobel	have	campaign	O	O
+1.0	prisoner	abort operation against	ethnic minority	0	0
+1.0	political prisoner	abort operation against	minority	0	0
+1.0	prisoner	end use as	instrument of war	0	0
+1.0	Myanmar	to	military ruler accuse of human rights abuse	LOCATION	0
+1.0	Security Council	vote in	September	ORGANIZATION	DATE
+1.0	unanimous support	condemn	political repression	0	0
+1.0	ruler	release	prisoner	0	0
+1.0	rape	have	use	O	O
+1.0	Jody Williams	be	American Nobel	PERSON	MISC
+1.0	military ruler	release	prisoner	0	0
+1.0	military junta	be in	Yangon	0	LOCATION
+1.0	Security Council	be weigh	its first ever resolution	ORGANIZATION	ORDINAL
+1.0	Myanmar embassy	be in	Washington	LOCATION	LOCATION
+1.0	military ruler	be in	military-ruled Myanmar	0	LOCATION
+1.0	Myanmar embassy	have	spoke	O	O
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist demonstrate against military junta	0	0
+1.0	support	condemn	repression	0	0
+1.0	13	have	spoke	O	NUMBER
+1.0	unanimous support	condemn repression in	Myanmar	0	LOCATION
+1.0	our	have	sister	O	O
+1.0	she	speak in front of	Myanmar embassy	0	LOCATION
+1.0	support	condemn	political repression	0	0
+1.0	United States	circulate draft resolution at_time	last month	LOCATION	DATE
+1.0	Nobel laureate	also urge	junta	MISC	0
+1.0	political prisoner	abort operation against	restive minority	0	0
+1.0	the Southeast Asian state	have	resolution	O	O
+1.0	United States	circulate	draft resolution	LOCATION	0
+1.0	Burma	have	people	O	LOCATION
+1.0	support	condemn repression in	Myanmar	0	LOCATION
+1.0	Nobel laureate	urge	junta	MISC	0
+1.0	the Southeast Asian state	have	agenda	O	O
+1.0	United States	circulate draft resolution in	council	LOCATION	0
+1.0	political prisoner	abort operation against	ethnic minority	0	0
+1.0	political prisoner	end use as	instrument	0	0
+1.0	Aung San Suu Kyi	have	National League for Democracy party	PERSON	ORGANIZATION
+1.0	Aung San Suu Kyi 's National League	win	landslide victory	PERSON	0
+1.0	She and Iranian laureate Shirin Ebadi	join	group of activist demonstrate against junta in Yangon	0	LOCATION
+1.0	unanimous support	condemn	repression	0	0
+1.0	political prisoner	abort	operation	0	0
+1.0	Nobel Peace Prize winner	call on	UN security Council	MISC	ORGANIZATION
+1.0	war	have	instrument	O	O
+1.0	prisoner	end	use	0	0
+1.0	she	speak	laureate Shirin Ebadi	0	PERSON
+1.0	activists	have	group	O	O
+1.0	Williams , who won the Nobel award in 1997 for her campaign to ban landmines	think	they failure even meet	0	0
+1.0	thirteen Nobel Peace Prize winner	call on	UN security Council	MISC	ORGANIZATION
+1.0	Shirin Ebadi	be	iranian	PERSON	0
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist demonstrate against junta	0	0
+0.6254474269105283	She and Iranian laureate Shirin Ebadi	group of	activist demonstrate	0	0
+1.0	we	be symbolic of	paranoia	0	0
+1.0	Williams , who won the Nobel award in 1997 for her campaign to ban landmines	think	they failure meet	0	0
+1.0	ruler	release	political prisoner	0	0
+1.0	Ebadi	have	work	O	O
+1.0	Myanmar	have	rulers	O	LOCATION
+1.0	military ruler	release	political prisoner	0	0
+1.0	we	be	symbolic	0	0
+1.0	prisoner	abort	operation	0	0
+1.0	Aung San Suu Kyi	have	National League	ORGANIZATION	PERSON
+1.0	political prisoner	abort operation against	restive ethnic minority	0	0
+1.0	Williams , who won the Nobel award in 1997 for her campaign to ban landmines	think	they failure	0	0
+1.0	movement	have	call	O	O
+1.0	paranoia	have	symbolic	O	O
+1.0	we	tell	she	0	0
+1.0	support	condemn repression in	military-ruled Myanmar	0	LOCATION
+1.0	political prisoner	end use as	instrument of war	0	0
+1.0	prisoner	abort operation against	minority	0	0
+1.0	we	support	she movement 's call for UN security Council resolution	0	ORGANIZATION
+1.0	prisoner	end use as	instrument	0	0
+1.0	Ebadi , who received the prize in 2003 for her work in promoting human rights in Iran , and Wiliams	have	failure	O	O
+1.0	she	speak on behalf of	13	0	NUMBER
+1.0	Security Council	be weigh	its resolution	ORGANIZATION	0
+1.0	Security Council resolution	have	proposal	O	O
+1.0	prisoner	abort operation against	restive ethnic minority	0	0
+1.0	prisoner	end	use of rape	0	0
+1.0	Aung San Suu Kyi 's National League	win landslide victory in	1990 election	PERSON	DATE
+1.0	we	support	she movement 's call	0	0
+1.0	years	have	10	NUMBER	DURATION
+0.5224545568894514	visa	travel to	Yangon	0	LOCATION
+1.0	she	be	only	0	0
+1.0	Security Council	be weigh	its first resolution on Myanmar	ORGANIZATION	ORDINAL
+1.0	she	speak	iranian laureate Shirin Ebadi	0	PERSON
+1.0	people	have	leader	O	O
+1.0	Nobel peace laureate	be	keep	MISC	0
+1.0	movement	have	call for UN security Council resolution	0	ORGANIZATION
+1.0	Nobel peace laureate	be keep under	house arrest	MISC	0

@@ -1,0 +1,22 @@
+1.0	boy	be treat in	paediatric intensive care unit	0	0
+1.0	spokesman	tell	afp	0	0
+1.0	polish embassy	be in	central London	0	LOCATION
+1.0	boy	be treat in	paediatric intensive care unit at London hospital	0	LOCATION
+1.0	boy	be treat in	paediatric care unit at London hospital	0	LOCATION
+1.0	boy	be treat in	intensive care unit at London hospital	0	LOCATION
+1.0	London	near	Heathrow Airport	LOCATION	LOCATION
+1.0	boy	be	treat	0	0
+1.0	bus	arrive at_time	morning	0	TIME
+1.0	boy	be treat in	care unit	0	0
+1.0	London	have	Heathrow Airport	LOCATION	LOCATION
+1.0	bus	arrive in	north-east Scotland on Thursday	0	LOCATION
+1.0	boy	be treat in	intensive care unit	0	0
+1.0	boy	be treat in	care unit at London hospital	0	LOCATION
+1.0	Scotland	be on	Thursday	LOCATION	DATE
+1.0	boy	treat	girl	0	0
+1.0	bus	have	have due	0	0
+1.0	boy	be treat in	paediatric care unit	0	0
+1.0	bus	arrive in	Aberdeen	0	LOCATION
+1.0	people	have	dozens	O	O
+1.0	bus	arrive in	north-east Scotland	0	LOCATION
+1.0	Victoria coach station	be in	London	LOCATION	LOCATION

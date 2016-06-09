@@ -1,0 +1,65 @@
+1.0	Anton Kudasov	tell	reporter	PERSON	0
+1.0	Gazprom	have	demand for more double in price for import	ORGANIZATION	0
+1.0	neighbour	be in	political union	0	0
+1.0	Belarus	have	imposition	O	LOCATION
+1.0	Belarus	have	backer	O	LOCATION
+1.0	Belarus	have clash over	belarussian demand	LOCATION	0
+1.0	Belarus	narrowly avert in	russian natural gas supplies	LOCATION	0
+1.0	deliveries	have	conditions	O	O
+1.0	neighbour	be in	formal political union	0	0
+1.0	Belarus ' imposition	respond to	russian decision	LOCATION	0
+1.0	official	here say at_time	Friday	0	DATE
+1.0	Belarus	narrowly avert in	natural gas supplies	LOCATION	0
+1.0	Belarus	avert in	natural gas supplies	LOCATION	0
+1.0	Belarus	have clash again over	belarussian demand	LOCATION	0
+1.0	Gazprom	have	demand	O	ORGANIZATION
+1.0	Belarus	have clash again over	demand	LOCATION	0
+1.0	Belarus ' imposition	respond to	european client	LOCATION	0
+1.0	year	have	start	DATE	DATE
+1.0	Deputy Economic Development Minister Andrei Sharonov	tell	Moscow Echo	PERSON	LOCATION
+1.0	Belarus ' imposition	respond to	decision	LOCATION	0
+1.0	Belarus	have clash over	demand	LOCATION	0
+1.0	Belarus	agree	Gazprom 's demand	LOCATION	ORGANIZATION
+1.0	two neighbour	be in	formal union	NUMBER	0
+1.0	Belarus	have clash again over	belarussian demand for oil transit tax	LOCATION	0
+1.0	official	say at_time	Friday	0	DATE
+1.0	Belarus	have clash again at_time	Thursday	LOCATION	DATE
+0.14726896167224202	Belarus	agree to	monopoly	LOCATION	0
+1.0	Minsk	appear	be seek	LOCATION	0
+1.0	Belarus	avert in	russian natural gas supplies	LOCATION	0
+1.0	two neighbour	be in	formal political union	NUMBER	0
+1.0	New Year	have	trade spat	O	DATE
+1.0	New Year 's	have	trade spat	DATE	0
+1.0	Belarus	agree	Gazprom 's demand for more double	LOCATION	ORGANIZATION
+1.0	Belarus	have clash again over	demand for oil transit tax	LOCATION	0
+1.0	Belarus ' imposition	respond onward to	decision	LOCATION	0
+1.0	neighbour	be in	formal union	0	0
+1.0	Moscow	see	this	LOCATION	0
+1.0	Belarus	have clash at_time	Thursday	LOCATION	DATE
+1.0	Belarus	narrowly avert in	gas supplies	LOCATION	0
+1.0	New Year 's trade spat	have provoke accusation on	side	DATE	0
+1.0	Belarus	agree	Gazprom 's demand for more double in price for import	LOCATION	ORGANIZATION
+1.0	oil	have	deliveries	O	O
+1.0	Belarus	clash again	Russia	LOCATION	LOCATION
+0.14726896167224202	Belarus	agree to	russian monopoly	LOCATION	0
+1.0	Belarus	have clash over	belarussian demand for oil transit tax	LOCATION	0
+1.0	President Alexander Lukashenko	have	ally	O	PERSON
+1.0	Sergei Sidorsky	be	belarussian	PERSON	0
+1.0	Belarus	agree	Gazprom 's demand for more double in price	LOCATION	ORGANIZATION
+1.0	New Year 's trade spat	reveal	tension	DATE	0
+1.0	New Year 's trade spat	reveal tension within	partnership	DATE	0
+1.0	Belarus	clash	Russia	LOCATION	LOCATION
+1.0	Belarus	agree	Gazprom 's demand for more	LOCATION	ORGANIZATION
+1.0	Belarus ' imposition	respond to	client	LOCATION	0
+1.0	oil transit tax	have	imposition	O	O
+1.0	Belarus	be	ready	LOCATION	0
+1.0	two neighbour	be in	union	NUMBER	0
+1.0	Belarus	avert in	russian gas supplies	LOCATION	0
+1.0	Belarus ' imposition	respond onward to	client	LOCATION	0
+1.0	Belarus ' imposition	respond onward to	russian decision	LOCATION	0
+1.0	Belarus	avert in	gas supplies	LOCATION	0
+1.0	Belarus	narrowly avert in	russian gas supplies	LOCATION	0
+1.0	two neighbour	be in	political union	NUMBER	0
+1.0	Belarus ' imposition	respond onward to	european client	LOCATION	0
+1.0	neighbour	be in	union	0	0
+1.0	Belarus	have clash over	demand for oil transit tax	LOCATION	0

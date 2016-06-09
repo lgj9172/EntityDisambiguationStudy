@@ -1,0 +1,25 @@
+1.0	Shingo , 31	be discover in	water in Caribbean city 's port area	PERSON	LOCATION
+1.0	water	be in	Caribbean city 's port area	0	LOCATION
+1.0	Shingo , 31	be discover with	he neck	PERSON	0
+1.0	Shingo 31	be discover with	he neck	PERSON	0
+1.0	Caribbean city	in	port area	LOCATION	0
+1.0	official	say at_time	Friday	DATE	DATE
+1.0	Caribbean city	have	port area	O	LOCATION
+1.0	Shingo 31	be discover in	water in Caribbean city 's port area	PERSON	LOCATION
+1.0	Shingo 31	be discover in	water	PERSON	0
+1.0	Shingo 31	be	discover	PERSON	0
+1.0	Shingo , 31	be	discover in water with he neck	PERSON	0
+1.0	Cartagena	have	city	O	LOCATION
+1.0	Nicolas Curi	be mayor of	Cartagena	PERSON	LOCATION
+1.0	Shingo , 31	have	neck	O	O
+1.0	Shingo , 31	be discover in	water	PERSON	0
+1.0	Shingo , 31	be	bury	0	0
+1.0	Shingo , 31	be	discover	PERSON	0
+1.0	Shingo , 31	be	discover in water in Caribbean city 's port area with he neck	PERSON	LOCATION
+1.0	Shingo , 31	have	companions	O	O
+1.0	Shingo 31	be	discover in water in Caribbean city 's port area with he neck	PERSON	LOCATION
+1.0	Shingo , 31	be	31	PERSON	NUMBER
+1.0	Shingo 31	be	discover in water with he neck	PERSON	0
+1.0	Shingo , 31	be	quickly bury	0	0
+1.0	Shingo Mukai	be	japanese	PERSON	DATE
+1.0	Nicolas Curi	be accord to	Cartagena	PERSON	LOCATION

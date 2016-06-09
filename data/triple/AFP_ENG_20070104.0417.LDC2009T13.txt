@@ -1,0 +1,109 @@
+1.0	document	be in	raid	0	0
+1.0	Hakim	have	compound	O	PERSON
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	iranian diplomat	be detain in	vehicle in Baghdad previous day	0	DATE
+1.0	Iranians	be	release	MISC	0
+1.0	five senior officer	be in	various intelligence organisation	NUMBER	0
+1.0	the coalition	have	advantage	O	O
+1.0	New York Times last week	be senior official with	link	ORGANIZATION	0
+1.0	Lebanon	have	Shiite Hezbollah guerrilla movement	O	LOCATION
+1.0	Hakim	at	compound to Iraq	PERSON	LOCATION
+1.0	Maliki	have	ruling coalition	O	PERSON
+1.0	president Saddam Hussein	have	fall	DATE	PERSON
+1.0	Hakim	meet	US President George W. Bush in White House	PERSON	LOCATION
+1.0	BBC	say at_time	Thursday	ORGANIZATION	DATE
+1.0	New York Times week	be	senior military official	ORGANIZATION	0
+1.0	three iranian diplomat	be detain in	vehicle	0	0
+0.7405528366807083	New York Times week	quote	White House official	ORGANIZATION	LOCATION
+1.0	George W. Bush	be in	White House	PERSON	LOCATION
+1.0	Iranians	be	there	MISC	0
+1.0	Iranians	be release at_time	Friday	MISC	DATE
+1.0	New York Times last week	be military official with	link	ORGANIZATION	0
+1.0	New York Times week	be official with	link	ORGANIZATION	0
+1.0	there	hold meeting with	representative	0	0
+1.0	New York Times week	be military official with	link	ORGANIZATION	0
+1.0	BBC 's political programme Newsnight	cite authority in	Iraq	ORGANIZATION	LOCATION
+1.0	two Iranians	be release at_time	Friday	NUMBER	DATE
+1.0	Iranians	instead be	there	MISC	0
+0.7405528366807083	New York Times last week	quote	White House official	ORGANIZATION	LOCATION
+1.0	New York Times last week	be	military official	ORGANIZATION	0
+1.0	iranian diplomat	be detain in	vehicle previous day	0	DATE
+1.0	two Iranians	be release at_time	last Friday	NUMBER	DATE
+1.0	New York Times week	be	senior official	ORGANIZATION	0
+1.0	New York Times last week	be	senior military official	ORGANIZATION	0
+1.0	Prime Minister Nuri al-Maliki 's shiite-led government	be in	Baghdad	PERSON	LOCATION
+1.0	Iranians	arrest as	persona	MISC	0
+1.0	New York Times week	be senior official with	link	ORGANIZATION	0
+1.0	Lebanon	have	Shiite Hezbollah guerrilla movement	LOCATION	ORGANIZATION
+1.0	ruling coalition	have	part	O	O
+1.0	there	hold	high-level meeting	0	0
+1.0	Hakim	meet	US President George W. Bush	PERSON	LOCATION
+1.0	Hakim	member of	Supreme Council	PERSON	ORGANIZATION
+1.0	Abdul Aziz al-Hakim	have	compound	PERSON	0
+1.0	Abdul Aziz al-Hakim	have	compound	O	PERSON
+1.0	Nuri al-Maliki	have	shiite-led government in Baghdad	PERSON	LOCATION
+0.9129447633152606	Hakim	member of	Supreme Council for islamic revolution	PERSON	ORGANIZATION
+1.0	factions	have	representatives	O	O
+1.0	Washington	urge	Baghdad	LOCATION	LOCATION
+1.0	its	have	forces	O	O
+0.9129447633152606	Hakim	member of	Supreme Council	PERSON	ORGANIZATION
+1.0	islamic revolution	be in	Iraq	0	LOCATION
+1.0	BBC 's political programme Newsnight	cite	authority	ORGANIZATION	0
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	investigation	have	results	O	O
+1.0	fact	be	very significant	0	0
+1.0	iranian diplomat	be detain in	vehicle	0	0
+1.0	Saddam Hussein	be in	2003	PERSON	DATE
+1.0	Abdul Aziz al-Hakim 's compound	be document at	pro-iranian leader	PERSON	0
+1.0	two Iranians	be	release	NUMBER	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	weapons smuggling	have	suspicion	O	O
+1.0	iranian diplomat	be	detain	0	0
+1.0	agreement	have	part	O	O
+1.0	three iranian diplomat	be	detain	0	0
+1.0	iranian diplomat	be detain in	vehicle in Baghdad	0	LOCATION
+1.0	BBC	have	programme Newsnight	O	ORGANIZATION
+1.0	New York Times last week	be senior military official with	link	ORGANIZATION	0
+1.0	BBC 's programme Newsnight	cite	authority	ORGANIZATION	0
+1.0	there	hold	meeting	0	0
+1.0	three iranian diplomat	be detain in	vehicle in Baghdad	0	LOCATION
+1.0	Iranians	have	some	O	MISC
+1.0	job	be	significant	0	0
+1.0	iranian diplomat	be detain in	vehicle day	0	DATE
+1.0	Iraqi President Jalal Talabani	have	office	O	O
+1.0	iranian diplomat	be detain in	vehicle in Baghdad day	0	DATE
+1.0	New York Times last week	be	senior official	ORGANIZATION	0
+1.0	New York Times last week	be official with	link	ORGANIZATION	0
+1.0	Iranians	have	activities	O	MISC
+1.0	fact	be	significant	0	0
+1.0	New York Times week	be	military official	ORGANIZATION	0
+1.0	Abdul Aziz al-Hakim 's compound	be document at	leader	PERSON	0
+1.0	Jalal Talabani	be	iraqi	PERSON	0
+1.0	three iranian diplomat	be detain in	vehicle in Baghdad previous day	0	DATE
+1.0	Baghdad government	have	make-up	O	O
+1.0	three iranian diplomat	be detain in	vehicle in Baghdad day	0	DATE
+1.0	New York Times last week	be	official	ORGANIZATION	0
+0.9129447633152606	Hakim	member of	Supreme Council for revolution	PERSON	ORGANIZATION
+1.0	Maliki	of	ruling coalition	PERSON	0
+1.0	BBC 's programme Newsnight	cite authority in	Iraq	ORGANIZATION	LOCATION
+1.0	BBC	have	flagship political programme Newsnight	ORGANIZATION	0
+1.0	Hakim	meet earlier	US President George W. Bush	PERSON	LOCATION
+1.0	it	be	significant	0	0
+1.0	BBC 's programme Newsnight	cite	british authority	ORGANIZATION	0
+1.0	three iranian diplomat	be detain in	vehicle day	0	DATE
+1.0	Iranians	be release at_time	last Friday	MISC	DATE
+1.0	Hakim	meet earlier	US President George W. Bush in White House	PERSON	LOCATION
+1.0	New York Times week	be senior military official with	link	ORGANIZATION	0
+1.0	BBC 's political programme Newsnight	cite	british authority	ORGANIZATION	0
+1.0	men	have	two	NUMBER	O
+1.0	New York Times week	be	official	ORGANIZATION	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Washington	now urge	Baghdad	LOCATION	LOCATION
+1.0	Abdul Aziz al-Hakim 's compound	be document at	pro-iranian shiite leader	PERSON	0
+1.0	senior military official	be with	link to iranian Revolutionary Guard unit	0	ORGANIZATION
+1.0	Abdul Aziz al-Hakim 's compound	be	document	PERSON	0
+1.0	three iranian diplomat	be detain in	vehicle previous day	0	DATE
+1.0	it	confirm	iranian	0	0
+1.0	Abdul Aziz al-Hakim 's compound	be document at	shiite leader	PERSON	0
+1.0	whom	have	two	NUMBER	O
+1.0	Supreme Council	have	member	O	ORGANIZATION

@@ -1,0 +1,146 @@
+1.0	country	with	former political class	0	0
+1.0	president	be	reelect	0	0
+1.0	its	have	oil	O	O
+1.0	President Hugo Chavez	say in	in cabinet for he new government 's six-year term	PERSON	DURATION
+1.0	oil	have	much	O	O
+1.0	Chavez 's confrontational style	look	he political in name of socialism	PERSON	0
+1.0	Inter-American Dialogue	be in	Washington	MISC	LOCATION
+1.0	court ally	be with	attractive cooperation deal	0	0
+1.0	bevy	deem	program	0	0
+1.0	Chavez 's confrontational style	be with	United States	PERSON	LOCATION
+1.0	Americas	have	country	O	LOCATION
+1.0	bevy	deem	Gas Pipeline of South	0	LOCATION
+1.0	Chavez	also announce	reform of constitution	PERSON	LOCATION
+1.0	Chavez	also announce	deep reform	PERSON	0
+1.0	current official name	republic of	bolivarian republic of Venezuela	LOCATION	LOCATION
+1.0	crude	have	refineries	O	O
+1.0	President Hugo Chavez	say in	Orinoco region	PERSON	LOCATION
+1.0	laws	have	mother	O	O
+1.0	petroleum	have	trade	O	O
+1.0	South	have	Bank	O	O
+1.0	President Hugo Chavez	say in	in cabinet	PERSON	0
+1.0	Inter-American Dialogue	have	Michael Shifter	PERSON	MISC
+1.0	week	have	course	O	DURATION
+1.0	his	have	lead	O	O
+1.0	Chavez	also announce	deep reform of constitution	PERSON	LOCATION
+1.0	Chavez	announce	deep reform	PERSON	0
+1.0	reality	be	often way	0	0
+1.0	analyst	be	quick	0	0
+0.8084809645875602	Managua	member	Quito	LOCATION	LOCATION
+1.0	Chavez	have	style	O	PERSON
+1.0	his	have	government	O	O
+1.0	reality	be	often long way	0	0
+1.0	cooperation projects	have	bevy	O	O
+1.0	alliance	have	members	O	O
+1.0	Daniel Ortega	be in	Rafael Correa	PERSON	PERSON
+1.0	President Hugo Chavez	intend for	Venezela 's sector	0	0
+1.0	reality	be often way from	posturing	0	0
+0.8084809645875602	Managua	new member	Quito	LOCATION	LOCATION
+1.0	his	have	country	O	O
+1.0	more economic cooperation	be with	Managua	0	LOCATION
+1.0	President Hugo Chavez	intend for	Venezela 's chief revenue-making sector	0	0
+1.0	reality	be often long way from	posturing	0	0
+1.0	analyst	be	indeed quick	0	0
+1.0	bevy	deem	Bank of South	0	LOCATION
+1.0	Michael Shifter	be of	Inter-American Dialogue	PERSON	MISC
+1.0	crude	have	refining processes	O	O
+1.0	president	be reelect for	2007-2013 term	0	DURATION
+1.0	bevy	deem	Gas Pipeline	0	0
+1.0	President Hugo Chavez	will	will swear	PERSON	DURATION
+1.0	President Hugo Chavez	give	detail	0	0
+1.0	reality	be way from	posturing	0	0
+1.0	President Hugo Chavez	will	will swear in for new term	PERSON	DURATION
+1.0	Venezela	have	sector	O	O
+1.0	South	have	Gas Pipeline	O	LOCATION
+1.0	director	be in	Washington	0	LOCATION
+1.0	Chavez 's style	look	he political	PERSON	0
+1.0	President Hugo Chavez	to	government	PERSON	0
+1.0	Ecuador	welcome	Nicaragua	LOCATION	LOCATION
+0.7113984160550734	official name	establish in	1999 constitution	LOCATION	DATE
+1.0	Chavez	announce	reform	PERSON	0
+1.0	socialism	have	name	O	O
+1.0	that	have	pass on to Venezuela	0	LOCATION
+1.0	cabinet	have	said	O	O
+1.0	President Hugo Chavez	intend for	Venezela 's revenue-making sector	0	0
+1.0	Peter DeShazo	director in	Washington	PERSON	LOCATION
+1.0	Sandinista front	be after	17 year	ORGANIZATION	DURATION
+1.0	venezuelan president	be	reelect December 3 for 2007-2013 term	0	DURATION
+1.0	Chavez 's confrontational style	look	he political in name	PERSON	0
+1.0	Chavez	be	convince	PERSON	0
+1.0	the leftist-populist Chavez	also see	return	PERSON	0
+1.0	Chavez	have	confrontational style with United States	PERSON	LOCATION
+1.0	their	have	ties	O	O
+1.0	Chavez	announce	deep reform of constitution	PERSON	LOCATION
+1.0	17 year	be in	opposition	DURATION	0
+1.0	emulation	have	worthy	O	O
+1.0	that	have	pass	0	0
+1.0	Chavez 's style	look	he political in name of socialism	PERSON	0
+1.0	Venezuela 's firebrand President Hugo Chavez will be sworn in for a new term , followed by leftist allies Daniel Ortega in Nicaragua and Rafael Correa in Ecuador whom he hopes	have form with	Cuba	0	LOCATION
+1.0	President Hugo Chavez	intend for	Venezela 's chief sector	0	0
+1.0	many analyst	be	quick	0	0
+0.7113984160550734	current name	establish in	1999 constitution	DATE	DATE
+1.0	Chavez	announce	reform of constitution	PERSON	LOCATION
+1.0	Venezuela 's	have	Socialist Republic	O	LOCATION
+1.0	President Hugo Chavez	say in	in cabinet for he government 's term	PERSON	0
+1.0	Chavez 's confrontational style	look	he political	PERSON	0
+1.0	Venezuela	have	firebrand	LOCATION	DURATION
+1.0	many analysts	have	economic	O	O
+1.0	venezuelan president	be reelect for	2007-2013 term	0	DURATION
+1.0	President Hugo Chavez	have	government	O	PERSON
+1.0	country	have	members	O	O
+1.0	Rafael Correa	be in	Ecuador	PERSON	LOCATION
+1.0	reality	be	long way	0	0
+1.0	reality	be	long	0	0
+1.0	Ecuador	welcome	venezuelan cooperation	LOCATION	0
+1.0	reform	have	details	O	O
+1.0	that	be	pass	0	0
+1.0	leftist-populist Chavez	be	convince	PERSON	0
+1.0	Daniel Ortega in Nicaragua and Rafael Correa in Ecuador whom he hopes	have	return	O	PERSON
+1.0	Chavez	say at_time	Monday	PERSON	DATE
+1.0	development	have	bevy	O	O
+1.0	new government	for	six-year term	0	DURATION
+1.0	refineries	have	control	O	O
+1.0	Venezuela 's firebrand President Hugo Chavez will be sworn in for a new term , followed by leftist allies Daniel Ortega in Nicaragua and Rafael Correa in Ecuador whom he hopes	already have form with	Cuba	0	LOCATION
+1.0	the leftist-populist Chavez	see	return of Ortega	PERSON	PERSON
+1.0	president	be	reelect December 3 for 2007-2013 term	0	DURATION
+1.0	ally	follow	he lead	0	0
+1.0	Chavez	create	Socialist Republic of Venezuela	PERSON	LOCATION
+1.0	venezuelan president	be reelect at_time	December 3	0	DATE
+1.0	the leftist-populist Chavez	also see	return of Ortega	PERSON	PERSON
+1.0	Ecuador	welcome	cooperation	LOCATION	0
+1.0	the leftist-populist Chavez	have	Sandinista Front	ORGANIZATION	O
+1.0	country	have	class	O	O
+0.7113984160550734	current official name	establish in	1999 constitution	LOCATION	DATE
+1.0	Venezela	for	chief revenue-making sector	0	0
+1.0	reality	be long way from	posturing	0	0
+1.0	left	have	axis	O	O
+1.0	bevy	deem	regional tv network	0	0
+1.0	Chavez 's confrontational style	look	likely	PERSON	0
+1.0	reality	be	way	0	0
+1.0	president	be reelect at_time	December 3	0	DATE
+1.0	bevy	deem	social program	0	0
+1.0	his	have	political	O	O
+1.0	President Hugo Chavez	say at	swearing	PERSON	0
+1.0	President Hugo Chavez	say in	in cabinet for he new government 's term	PERSON	0
+0.7113984160550734	name	establish in	1999 constitution	0	DATE
+1.0	constitution	have	reform	O	O
+1.0	Hugo Chavez	be firebrand president of	Venezuela	PERSON	LOCATION
+1.0	Venezuela 's	have	Republic	LOCATION	LOCATION
+1.0	President Hugo Chavez	will	will swear in for term	PERSON	DURATION
+1.0	Bolivia	have	members	O	LOCATION
+1.0	government	have	term	O	O
+1.0	bevy	deem	Bank	0	0
+1.0	the leftist-populist Chavez	see	return	PERSON	0
+1.0	Peter DeShazo	director of	Americas program at Center for Strategic Studies	PERSON	ORGANIZATION
+1.0	that	be pass on	on Venezuela	0	LOCATION
+1.0	Chavez 's style	look	likely	PERSON	0
+1.0	President Hugo Chavez	say in	in cabinet for he government 's six-year term	PERSON	DURATION
+1.0	venezuelan president	be	reelect	0	0
+1.0	Chavez 's style	look	he political in name	PERSON	0
+1.0	Americas program	have	director	O	O
+1.0	many analyst	be	indeed quick	0	0
+1.0	Chavez	create	Socialist Republic	PERSON	LOCATION
+1.0	Chavez	also announce	reform	PERSON	0
+1.0	Venezuela	have	firebrand	O	LOCATION
+1.0	President Hugo Chavez	give	further detail	0	0
+1.0	bevy	deem	tv network	0	0

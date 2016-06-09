@@ -1,0 +1,92 @@
+1.0	third wicket	be in	stand	ORDINAL	0
+1.0	Laxman	have	bat	O	PERSON
+1.0	India	restore	hard-hitting Virender Sehwag	LOCATION	PERSON
+1.0	his	have	glove	O	O
+0.8559455023968484	VVS Laxman	be in	last	0	0
+1.0	tourist	intend in	effort	0	0
+1.0	they grip	be loosen on	fourth day at Newlands Friday	DATE	DATE
+1.0	Sachin Tendulkar	edge	Makhaya Ntini	0	PERSON
+1.0	India	restore virender sehwag to	he batsman role	LOCATION	0
+1.0	Rahul Dravid	put	Sourav Ganguly	PERSON	PERSON
+0.8559455023968484	VVS Laxman	be in	out last	0	0
+1.0	Jaffer	be	second man	PERSON	ORDINAL
+1.0	Sachin Tendulkar	be out	almost first ball	0	ORDINAL
+1.0	Tendulkar	be	tell	PERSON	0
+1.0	Sachin Tendulkar	be out	almost ball	0	0
+1.0	Rahul Dravid	put for	wicket	PERSON	0
+1.0	he	be	when too casual	0	DURATION
+1.0	runs	have	lead	O	O
+1.0	their	have	innings	O	O
+1.0	Sachin Tendulkar	edge	Makhaya Ntini between slip	0	PERSON
+1.0	Sachin Tendulkar	edge	Makhaya Ntini between third slip	0	PERSON
+1.0	they grip	be	loosen	DATE	0
+1.0	Jaffer	be	second man out	PERSON	ORDINAL
+1.0	Tendulkar	of	situation one ball	PERSON	NUMBER
+1.0	Murray Brown	have only arrive in	indian	PERSON	0
+1.0	India	restore virender sehwag to	he open batsman role	LOCATION	0
+1.0	tourist	intend to	bat	0	0
+1.0	official Murray Brown	have arrive in	indian	PERSON	0
+1.0	Jaffer	be	man out	PERSON	0
+1.0	Murray Brown	have arrive in	indian	PERSON	0
+1.0	batting	be in	he normal position	0	0
+1.0	captain dravid	add	84	0	NUMBER
+1.0	Sachin Tendulkar	be out	first ball	0	ORDINAL
+1.0	India	start	they inning	LOCATION	DATE
+1.0	they grip	be loosen on	day	DATE	DATE
+1.0	India	lose bat	open batsman in first 14 ball of day	LOCATION	ORDINAL
+1.0	India	restore virender sehwag to	he open batsman role in sign	LOCATION	0
+1.0	their	have	grip	O	O
+1.0	India	have	score rate	LOCATION	0
+1.0	India	be	then tell	LOCATION	DATE
+1.0	he	be	too casual	0	DURATION
+1.0	captain dravid	bat solidly	former skipper Ganguly	0	PERSON
+1.0	his	have	batsman role	O	O
+1.0	series	have	share	O	O
+1.0	fourth official Murray Brown	have arrive in	indian	PERSON	0
+1.0	Rahul Dravid	put on	84	PERSON	NUMBER
+1.0	Rahul Dravid	put for	third wicket	PERSON	ORDINAL
+1.0	India	lose bat both	open batsman in first 14 ball of day	LOCATION	ORDINAL
+1.0	captain dravid	bat	former skipper Ganguly	0	PERSON
+1.0	Sachin Tendulkar	be out	ball	0	0
+1.0	day	have	batsmen	O	DATE
+1.0	India	restore	Virender Sehwag	LOCATION	PERSON
+1.0	India	ensure	share	LOCATION	0
+1.0	wickets	have	loss	O	O
+1.0	Ganguly	appear on	field	PERSON	0
+1.0	Jaffer	be	man	PERSON	0
+1.0	situation ball	have	inform	O	O
+1.0	tourist	intend in	positively effort	0	0
+1.0	South Africa	have	innings	O	LOCATION
+1.0	it	be	rule	0	0
+1.0	Tendulkar	be tell by	match official	PERSON	0
+1.0	captain dravid	add	former skipper Ganguly	0	PERSON
+0.8559455023968484	VVS Laxman	be in	out last over before tea	0	0
+1.0	he	take	second run	0	DURATION
+1.0	his	have	pads	O	O
+1.0	India	restore virender sehwag to	he batsman role in sign	LOCATION	0
+1.0	India	be	tell	LOCATION	0
+1.0	he	be	casual	0	DURATION
+1.0	India	lose	four wicket	LOCATION	NUMBER
+1.0	162	have	lead	O	NUMBER
+1.0	India	have	rate	O	LOCATION
+1.0	innings	have	end	O	O
+1.0	Rahul Dravid	reach	47	PERSON	NUMBER
+1.0	he open batsman role	be in	sign	0	0
+1.0	they grip	be loosen on	fourth day	DATE	DATE
+1.0	South Africa	of	first inning	LOCATION	ORDINAL
+1.0	century-maker Wasim Jaffer	avoid	bouncer	PERSON	0
+1.0	his	have	position	O	O
+1.0	open batsman	be in	first 14 ball	0	ORDINAL
+1.0	he	be	when casual	0	DURATION
+1.0	Tendulkar	have	situation ball	O	PERSON
+1.0	ball	have	pitch	O	O
+1.0	they grip	be loosen on	day at Newlands Friday	DATE	DATE
+1.0	match	have	India	LOCATION	O
+1.0	fourth official Murray Brown	have only arrive in	indian	PERSON	0
+1.0	official Murray Brown	have only arrive in	indian	PERSON	0
+1.0	it	complete	afternoon	0	TIME
+1.0	century-maker Wasim Jaffer	avoid bouncer from	Ntini	PERSON	PERSON
+0.8559455023968484	VVS Laxman	be in	last over before tea	0	0
+1.0	he	take	run	0	0
+1.0	India	start	they second inning	LOCATION	DATE
+1.0	it	complete	poor afternoon	0	TIME

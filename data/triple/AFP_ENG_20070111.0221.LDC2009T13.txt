@@ -1,0 +1,45 @@
+1.0	Roy Keane	be boss of	Sunderland in a deal	PERSON	ORGANIZATION
+1.0	Neil Warnock	be	Sheffield United	PERSON	ORGANIZATION
+1.0	stead	have on	have loan at Derby for three month	0	DURATION
+1.0	stead	have on	have loan	0	0
+1.0	Sunderland boss Roy Keane	sell	he	PERSON	0
+1.0	Sheffield United manager Neil Warnock	fail in	bid for Preston striker David Nugent	PERSON	PERSON
+1.0	stead	have on	have loan at Derby for last three month	0	DURATION
+1.0	David Nugent	be for	Preston	PERSON	ORGANIZATION
+1.0	Ben Thatcher	be full-back of	Manchester City	PERSON	LOCATION
+1.0	Manchester City full-back Ben Thatcher	could on	meanwhile could he way to Charlton	PERSON	PERSON
+1.0	Sunderland boss Roy Keane	manage	one goal	0	NUMBER
+1.0	Sheffield United manager Neil Warnock	fail in	bid	PERSON	0
+1.0	club	agree	fee international	0	0
+1.0	Manchester City full-back Ben Thatcher	could on	meanwhile could he way	PERSON	0
+1.0	Sheffield United manager Neil Warnock	fail in	bid for highly-rated Preston striker David Nugent	PERSON	PERSON
+1.0	their	be	relegate	0	0
+1.0	Jon Stead	be from	Sunderland	PERSON	ORGANIZATION
+1.0	stead	be	1.8-million-pound	0	0
+1.0	Arsenal teenager Anthony Stokes	have	recruitment	O	PERSON
+1.0	his	have	absence	O	O
+1.0	their	have	line	O	O
+1.0	stead 23	have on	have loan at Derby for last three month	NUMBER	DURATION
+1.0	Sunderland boss Roy Keane	manage	just one goal	0	NUMBER
+1.0	Ben Thatcher	be	Manchester City	PERSON	LOCATION
+1.0	David Nugent	be striker of	Preston	PERSON	ORGANIZATION
+1.0	Roy Keane	be	Sunderland in a deal	PERSON	ORGANIZATION
+1.0	two club	agree	fee for former Wales international	NUMBER	LOCATION
+1.0	Sheffield United	bolster	they forward line	ORGANIZATION	0
+1.0	club	agree	fee for former Wales international	0	LOCATION
+1.0	Sunderland	be in	deal	ORGANIZATION	0
+1.0	stead 23	have on	have loan	NUMBER	0
+1.0	Manchester City full-back Ben Thatcher	could on	could he way to Charlton	PERSON	PERSON
+1.0	Manchester City full-back Ben Thatcher	have	way	O	O
+1.0	Sheffield United	bolster	they line	ORGANIZATION	0
+1.0	their	be relegate from	Premiership	0	0
+1.0	Sheffield United manager Neil Warnock	turn to	he	PERSON	0
+1.0	Neil Warnock	be manager of	Sheffield United	PERSON	ORGANIZATION
+1.0	stead 23	have on	have loan at Derby for three month	NUMBER	DURATION
+1.0	their	buy	Sunderland boss Roy Keane	0	0
+1.0	Manchester City full-back Ben Thatcher	could on	could he way	PERSON	0
+1.0	Derby	be for	the last three month	LOCATION	DURATION
+1.0	other position	be in	team	0	0
+1.0	stead	have on	have loan at Derby	0	LOCATION
+1.0	stead 23	have on	have loan at Derby	NUMBER	LOCATION
+1.0	two club	agree	fee international	NUMBER	0

@@ -1,0 +1,34 @@
+1.0	minerals	have	ministry	O	O
+1.0	federal ministry	be	shrink	0	0
+1.0	ministry	have	steel sector	O	O
+1.0	ministry	have	power sector	O	O
+1.0	six new ministers	have	ambitions	O	O
+1.0	President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru from junior oil minister	PERSON	PERSON
+1.0	29 federal ministry	be	shrink	NUMBER	0
+1.0	federal ministry	be shrink to	19	0	NUMBER
+1.0	29 federal ministry	be shrink to	19	NUMBER	NUMBER
+1.0	ministries	have	realignment	O	O
+1.0	full energy minister	be with	expand portfolio follow cabinet reshuffle	0	0
+1.0	President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru	PERSON	PERSON
+1.0	power	have	ministry	O	O
+1.0	Daukoru	have	appointment	O	PERSON
+1.0	former OPEC president Edmund Daukoru from junior oil minister	have	responsibility	PERSON	0
+1.0	steel	have	ministry	O	O
+1.0	President Olusegun Obasanjo	be	de oil minister	PERSON	0
+1.0	President Olusegun Obasanjo	be	before Daukoru 's new appointment oil minister	PERSON	PERSON
+1.0	President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru from oil minister	PERSON	PERSON
+1.0	nigerian President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru from junior oil minister	PERSON	PERSON
+1.0	President Olusegun Obasanjo	be	before Daukoru 's appointment de oil minister	PERSON	PERSON
+1.0	nigerian President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru	PERSON	PERSON
+1.0	President Olusegun Obasanjo	be	before Daukoru 's new appointment de oil minister	PERSON	PERSON
+1.0	Edmund Daukoru	be president of	OPEC	PERSON	ORGANIZATION
+1.0	Edmund Daukoru	be	OPEC	PERSON	ORGANIZATION
+1.0	President Olusegun Obasanjo	have	promotion	O	O
+1.0	new minister	have	have appoint	0	0
+1.0	President Olusegun Obasanjo	be	before Daukoru 's appointment oil minister	PERSON	PERSON
+1.0	nigerian President Olusegun Obasanjo Wednesday	promote	former OPEC president Edmund Daukoru from oil minister	PERSON	PERSON
+1.0	President Olusegun Obasanjo	be	oil minister	PERSON	0
+1.0	former OPEC president Edmund Daukoru from junior oil minister	have responsibility with	he promotion	PERSON	0
+1.0	Daukoru	before	new appointment	PERSON	0
+1.0	six new minister	have	have appoint	NUMBER	0
+1.0	former OPEC president Edmund Daukoru from junior oil minister	have	responsibility for former petroleum ministry	PERSON	0

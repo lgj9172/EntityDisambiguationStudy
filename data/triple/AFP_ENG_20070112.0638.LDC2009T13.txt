@@ -1,0 +1,28 @@
+1.0	activists	have	hundreds	O	O
+1.0	Southeast Asia	have	US	LOCATION	LOCATION
+1.0	whom	have	some	O	O
+1.0	Association	have	Leaders	ORGANIZATION	ORGANIZATION
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	US	read	one banner carry	LOCATION	NUMBER
+1.0	Some 400 demonstrators shouting anti-US slogans gathered Saturday in the central Philippine resort of Cebu as leaders of 10 Southeast Asian nations	have	summit	O	O
+1.0	them	have	three	NUMBER	O
+1.0	demonstrator	carry effigy of	Philippine President Gloria Arroyo	0	PERSON
+1.0	Gloria Arroyo	be of	Philippine	PERSON	MISC
+0.5635337237916401	demonstrator	shout	anti-us slogan gather Saturday in central philippine resort of Cebu as leader of 10 asian nation	0	NUMBER
+1.0	police	halt	Saturday 's protest	0	DATE
+1.0	them	have	many	O	O
+1.0	US	be out of	Southeast Asia	LOCATION	LOCATION
+1.0	nations	have	leaders	O	O
+0.5635337237916401	demonstrator	shout	anti-us slogan gather Saturday in central philippine resort of Cebu as leader of 10 nation	0	NUMBER
+1.0	Cebu City	have	centre	O	LOCATION
+0.5635337237916401	demonstrator	shout	anti-us slogan gather Saturday in central philippine resort of Cebu as leader of 10 southeast asian nation	0	NUMBER
+1.0	protester	be in	centre of Cebu City	0	LOCATION
+1.0	Philippine President Gloria Arroyo	have	carried	O	PERSON
+1.0	Saturday	have	protest	O	DATE
+1.0	demonstrator	carry	effigy	0	0
+1.0	police	halt	protest	0	0
+1.0	some	be	US ally	0	LOCATION
+1.0	US	read	one banner	LOCATION	NUMBER
+1.0	police ban	have	defiance	O	O
+1.0	figure	have	carried'	O	O
+1.0	Cebu City	have	resort	O	LOCATION

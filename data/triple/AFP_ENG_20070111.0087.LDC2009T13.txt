@@ -1,0 +1,33 @@
+1.0	strike	curb	movement of taliban-linked militant	0	0
+1.0	strike	curb	cross-border movement of taliban-linked militant	0	0
+1.0	Paktika	have	province	O	LOCATION
+1.0	engagements	have	series	O	O
+1.0	coordinate use	be in	series of engagement	0	0
+1.0	strike	come amid	row	0	0
+0.8962508970570984	wage	insurgency in	Afghanistan	0	MISC
+1.0	strike	curb	cross-border movement of militant	0	0
+1.0	strike	curb	movement of militant	0	0
+1.0	training camps	have	supporters	O	O
+1.0	Islamabad	have propose	fencing part	LOCATION	0
+1.0	militants	have	movement	O	O
+1.0	strike	come amid	row between Afghan official	0	MISC
+1.0	Islamabad	have propose	fencing part of porous frontier	LOCATION	0
+1.0	Afghanistan	have reject	plan	LOCATION	0
+1.0	border	have	Pakistan side	O	O
+1.0	the Pakistan side of the border	say in	statement	0	0
+1.0	frontier	have	fencing mining parts	O	O
+1.0	strike	curb	movement	0	0
+1.0	air	have	use	O	O
+1.0	ground fire	have	use	O	O
+1.0	Afghan defence ministry spokesman Mohammad Zahir Azimi	tell	AFP	PERSON	ORGANIZATION
+1.0	NATO	have	International Security Assistance Force	ORGANIZATION	ORGANIZATION
+1.0	Afghanistan	have strongly reject	plan	LOCATION	0
+1.0	Afghan military	say at_time	Thursday	MISC	DATE
+1.0	extremism	have	roots	O	O
+1.0	strike	curb	cross-border movement	0	0
+1.0	Islamabad	have propose	fencing part of frontier	LOCATION	0
+1.0	strike	come amid	row between Afghan official about way	0	MISC
+1.0	ISAF	have	statement	ORGANIZATION	0
+1.0	insurgency	be in	Afghanistan	0	MISC
+1.0	ISAF	have	statement	O	ORGANIZATION
+1.0	Mohammad Zahir Azimi	be	Afghan	PERSON	MISC

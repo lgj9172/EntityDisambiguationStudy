@@ -1,0 +1,60 @@
+1.0	it	explode accord to	South China morning post	0	ORGANIZATION
+1.0	early warning aircraft	crash	kill all 40 people on board	0	NUMBER
+1.0	early warning aircraft	crash in	China 's Anhui province	0	LOCATION
+1.0	warning aircraft	crash in	June	0	DATE
+1.0	we	see	parachute come down	0	0
+1.0	warning aircraft	crash	kill all	0	0
+1.0	accident	be latest in	series of aircraft crash	0	0
+1.0	early warning aircraft	crash	kill	0	0
+1.0	jet fighter	come after	mid-air explosion	0	0
+1.0	early warning aircraft	crash	kill all on board	0	0
+1.0	we	see	parachute	0	0
+1.0	jet fighter	come down after	explosion	0	0
+1.0	accident	be	latest	0	0
+1.0	military aircraft crash	be in	China	0	LOCATION
+1.0	accident	be latest in	series of military aircraft crash	0	0
+1.0	China	in	Anhui province	LOCATION	LOCATION
+1.0	warning aircraft	crash	kill all 40 people	0	NUMBER
+1.0	accident	be latest in	series	0	0
+1.0	early warning aircraft	crash	kill on board	0	0
+1.0	person	have	identity	O	O
+1.0	aircraft	have	type	O	O
+1.0	warning aircraft	crash	kill	0	0
+1.0	fire	have	lot	O	O
+1.0	early warning aircraft	crash in	China 's eastern Anhui province	0	LOCATION
+1.0	jet fighter	come down before	two month	0	0
+1.0	jet fighter	come after	explosion	0	0
+1.0	warning aircraft	crash in	China 's Anhui province	0	LOCATION
+1.0	it	crash into	hill near Jiexi city	0	LOCATION
+1.0	accident	be latest in	series of aircraft crash in China	0	LOCATION
+1.0	jet fighter	come before	two month	0	0
+1.0	aircraft	leave	Xingning Military Airport in Guangdong province	0	LOCATION
+1.0	early warning aircraft	kill all on	board	0	0
+1.0	early warning aircraft	kill on	board	0	0
+1.0	we	hear	huge blast	0	0
+1.0	aircraft	leave xingning military airport at_time	Tuesday afternoon	0	DATE
+1.0	aircraft	leave	Xingning Military Airport	0	LOCATION
+1.0	Cable tv	be	Hong kong-based	ORGANIZATION	LOCATION
+1.0	we	see	parachute come	0	0
+1.0	China	have	air force	O	LOCATION
+1.0	jet fighter	come down after	mid-air explosion	0	0
+1.0	we	hear	blast	0	0
+1.0	warning aircraft	crash	kill all 40 people on board	0	NUMBER
+1.0	it	crash into	hill	0	0
+1.0	warning aircraft	kill on	board	0	0
+1.0	crash	have	cause	O	O
+1.0	warning aircraft	crash in	China 's eastern Anhui province	0	LOCATION
+1.0	early warning aircraft	crash	kill all 40 people	0	NUMBER
+1.0	warning aircraft	kill all on	board	0	0
+1.0	early warning aircraft	crash	kill all	0	0
+1.0	type	have	cause	O	O
+1.0	air force	have	history	O	O
+1.0	early warning aircraft	crash in	June	0	DATE
+1.0	smoke	have	lot	O	O
+1.0	accident	be latest in	series of military aircraft crash in China	0	LOCATION
+1.0	warning aircraft	crash	kill all on board	0	0
+1.0	Xingning Military Airport	be in	Guangdong province	LOCATION	LOCATION
+1.0	warning aircraft	crash	kill on board	0	0
+1.0	aircraft crashes	have	series	O	O
+1.0	press report	say at_time	Wednesday	0	DATE
+1.0	China	have	Anhui province	LOCATION	LOCATION

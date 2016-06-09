@@ -1,0 +1,24 @@
+1.0	investor	cheer	sale report	0	0
+1.0	Dow Jones Industrial Average	have	record close	O	O
+1.0	Poor	have	500 index	0	NUMBER
+1.0	Nasdaq composite	increase	0.72 percent	MISC	PERCENT
+1.0	last year	despite	US economic slowdown	DATE	LOCATION
+0.335545539246895	Dow index	soar to	close of 12,556.40	MISC	NUMBER
+1.0	Dow index	soar	0.33 percent	MISC	PERCENT
+0.335545539246895	Dow index	soar to	preliminary close of 12,556.40	MISC	NUMBER
+0.7969621007298414	broad-market Standard	datum	Poor 's 500 index	0	NUMBER
+1.0	12,556.40	have	close	O	NUMBER
+1.0	Poor	have	index	O	O
+1.0	Nasdaq composite	increase	17.97 point	MISC	NUMBER
+0.335545539246895	Dow index	soar to	close	MISC	0
+0.06221292408889589	broad-market Standard	add	Poor 's index	0	0
+0.335545539246895	Dow index	soar to	preliminary close	MISC	0
+0.06221292408889589	broad-market Standard	add	Poor 's 500 index	0	NUMBER
+1.0	year	have	US slowdown	O	DATE
+1.0	0.9 percent	be in	December	PERCENT	DATE
+0.7969621007298414	broad-market Standard	provisional datum	Poor 's index	0	0
+0.7969621007298414	broad-market Standard	datum	Poor 's index	0	0
+1.0	percent	have	rise	O	PERCENT
+0.7969621007298414	broad-market Standard	provisional datum	Poor 's 500 index	0	NUMBER
+1.0	Dow index	soar	41.42 point	MISC	NUMBER
+1.0	investor	cheer sale report as	sign	0	0

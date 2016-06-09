@@ -1,0 +1,19 @@
+1.0	company	on	wildly popular ipod	0	0
+1.0	Chief executive Steve Jobs	unveil	device	0	0
+1.0	Apple Computer	be on	Tuesday	ORGANIZATION	DATE
+1.0	Expo	be in	San Fransciso	0	LOCATION
+1.0	Chief executive Steve Jobs	introduce	new device	PERSON	0
+1.0	Chief executive Steve Jobs	introduce device to	public	PERSON	0
+1.0	Apple	have	shares	O	ORGANIZATION
+1.0	Apple 's share	spike	4.20 dollar	ORGANIZATION	MONEY
+1.0	Chief executive Steve Jobs	unveil	nifty device	0	0
+1.0	Chief executive Steve Jobs	unveil	nifty new device	0	0
+1.0	Chief executive Steve Jobs	introduce device during	appearance	PERSON	0
+1.0	Chief executive Steve Jobs	introduce	device	PERSON	0
+1.0	Apple	have	share	ORGANIZATION	0
+1.0	announcement	have	wake	O	O
+1.0	Chief executive Steve Jobs	unveil	new device	0	0
+1.0	Chief executive Steve Jobs	showcase	Apple technology	PERSON	ORGANIZATION
+1.0	Chief executive Steve Jobs	unveil device at	conference	0	0
+1.0	Chief executive Steve Jobs	introduce device during	appearance at Macworld Conference	PERSON	0
+1.0	company	have	iPod	O	O

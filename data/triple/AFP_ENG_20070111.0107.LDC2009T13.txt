@@ -1,0 +1,22 @@
+1.0	weather service	forecast	storm for next day with wind	DATE	DATE
+1.0	airport spokesman	be	quote	0	0
+1.0	national weather service	forecast	storm for day with wind	DATE	DATE
+1.0	weather service	forecast	storm for day	DATE	DATE
+1.0	kph	have	winds	O	O
+1.0	weather service	forecast	storm for next day	DATE	DATE
+1.0	national weather service	forecast	storm	DATE	0
+1.0	storm front	disrupt air traffic at	Schiphol International airport	0	LOCATION
+1.0	national weather service	forecast storm on	Wednesday	DATE	DATE
+1.0	rest	be	The rest of the day	0	0
+1.0	weather service	forecast	storm	DATE	0
+1.0	planes	have	total	O	O
+1.0	day	have	rest	O	DATE
+1.0	weather service	forecast	storm for day with wind	DATE	DATE
+1.0	national weather service	forecast	storm for next day	DATE	DATE
+1.0	kilometres	have	winds	O	O
+1.0	national weather service	forecast	storm for next day with wind	DATE	DATE
+1.0	storm front	disrupt air traffic at_time	Thursday	0	DATE
+1.0	storm front	disrupt	air traffic	0	0
+1.0	weather service	forecast storm on	Wednesday	DATE	DATE
+1.0	the next day	be with	wind of up 130 kph	DATE	NUMBER
+1.0	national weather service	forecast	storm for day	DATE	DATE

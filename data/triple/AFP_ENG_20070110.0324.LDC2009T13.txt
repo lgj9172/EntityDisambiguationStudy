@@ -1,0 +1,60 @@
+1.0	group	manage despite	fraud in favour	0	0
+1.0	muslim Brotherhood	remain	opposition force	ORGANIZATION	0
+1.0	group	manage despite	report fraud in favour of rule party	0	0
+1.0	Brotherhood	remain	powerful opposition force in country	ORGANIZATION	0
+1.0	group	secure	fifth	0	ORDINAL
+1.0	Brotherhood official	tell	afp	ORGANIZATION	0
+1.0	muslim Brotherhood	remain	powerful opposition force in country	ORGANIZATION	0
+1.0	criminal court	be in	northern egyptian town of Zaqaziq	DURATION	LOCATION
+1.0	group	manage despite	report fraud	0	0
+1.0	muslim Brotherhood	remain	opposition force in country	ORGANIZATION	0
+1.0	members	have	detention	O	O
+1.0	group	manage despite	electoral fraud in favour	0	0
+1.0	group	manage despite	widely report electoral fraud in favour	0	0
+1.0	group	manage despite	report electoral fraud in favour of rule party	0	0
+1.0	group	secure	fifth of seat	0	ORDINAL
+1.0	group	manage despite	fraud	0	0
+1.0	group	secure	fifth of seat in parliament	0	ORDINAL
+1.0	Brotherhood	remain	powerful opposition force	ORGANIZATION	0
+1.0	muslim Brotherhood	remain	powerful opposition force	ORGANIZATION	0
+1.0	displays	have	show	O	O
+1.0	leaders	have	one	NUMBER	O
+1.0	Brotherhood	remain	most powerful opposition force	ORGANIZATION	0
+1.0	group	manage despite	report electoral fraud in favour	0	0
+1.0	group	manage despite	electoral fraud	0	0
+1.0	group	manage despite	electoral fraud in favour of party	0	0
+1.0	group	manage despite	report electoral fraud in favour of party	0	0
+1.0	group	manage despite	widely report fraud in favour	0	0
+1.0	Zaqaziq	have	town	O	LOCATION
+1.0	Brotherhood	remain	opposition force	ORGANIZATION	0
+1.0	group	manage despite	widely report electoral fraud in favour of party	0	0
+0.6503434448059346	candidate	run as	independent	0	0
+1.0	activists	have	custody	O	O
+1.0	group	manage despite	report fraud in favour	0	0
+1.0	group	manage despite	report fraud in favour of party	0	0
+1.0	force	have	show	O	O
+1.0	group	manage despite	fraud in favour of rule party	0	0
+1.0	group	manage despite	widely report fraud in favour of rule party	0	0
+1.0	whom	have	some	O	O
+1.0	Brotherhood	remain	opposition force in country	ORGANIZATION	0
+1.0	muslim Brotherhood	remain	most powerful opposition force in country	ORGANIZATION	0
+1.0	its	have	leaders	O	O
+1.0	independent	be in	2005 election	0	DATE
+1.0	group	manage despite	electoral fraud in favour of rule party	0	0
+1.0	Brotherhood	remain	most powerful opposition force in country	ORGANIZATION	0
+1.0	party	have	favour	O	O
+1.0	muslim Brotherhood	remain	most powerful opposition force	ORGANIZATION	0
+1.0	group	manage despite	fraud in favour of party	0	0
+0.6503434448059346	candidate	run as	independent in 2005 election	0	DATE
+1.0	group	manage despite	widely report fraud in favour of party	0	0
+1.0	powerful opposition force	be in	country	0	0
+1.0	report electoral fraud	be in	favour of rule party	0	0
+1.0	seat	be in	parliament	0	0
+1.0	muslim Brotherhood	be include	one	ORGANIZATION	NUMBER
+1.0	movement	have	financier	O	O
+1.0	opposition Brotherhood	have	members	O	ORGANIZATION
+1.0	group	manage despite	report electoral fraud	0	0
+1.0	group	manage despite	widely report electoral fraud	0	0
+1.0	group	manage despite	widely report fraud	0	0
+1.0	group	manage despite	widely report electoral fraud in favour of rule party	0	0
+1.0	seats	have	fifth	ORDINAL	O

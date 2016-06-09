@@ -1,0 +1,13 @@
+1.0	star Felicity Huffman	winner of	last year 's best actress drama award at Golden Globes	PERSON	DATE
+1.0	housewife	be	report	0	0
+1.0	desperate housewife	be	report	0	0
+1.0	politician	have	wife	0	0
+1.0	desperate housewife	be	report Friday	0	DATE
+1.0	television mini-series	have	US version	O	O
+1.0	housewife	be	report Friday	0	DATE
+1.0	Politician	have	Wife	O	MISC
+1.0	actress drama award	have	winner	O	O
+1.0	last year	of	best actress drama award at Golden Globes	DATE	0
+1.0	politician	have	wife	O	O
+1.0	year	have	actress drama award	O	DATE
+1.0	Oscar nominee	have	winner	O	O

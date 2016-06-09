@@ -1,0 +1,92 @@
+1.0	turkish cypriot	allow	unprecedented movement	0	0
+1.0	turkish cypriot	allow	movement	0	0
+1.0	athens-engineered greek cypriot coup	be in	Nicosia	0	LOCATION
+1.0	northern part	wave	Cypriot	0	MISC
+1.0	Cypriot President Mehmet Ali Talat	meet with	turkish government	PERSON	0
+1.0	turkish Cypriot President Mehmet Ali Talat	meet with	turkish government	PERSON	0
+1.0	turkish Cypriot	shout	flag	MISC	0
+1.0	he visit	be	prompt	0	0
+1.0	elevated walkway	be in	Nicosia	0	LOCATION
+1.0	capital	have	symbol	O	O
+1.0	turkish Cypriot President Mehmet Ali Talat	meet in	Ankara Friday	PERSON	LOCATION
+1.0	Cyprus	have	have divide	LOCATION	0
+1.0	turkish Cypriot	shout	slogan	MISC	0
+1.0	Turkish Cypriot President Mehmet Ali Talat	have announce	decision on December 28	PERSON	DATE
+1.0	row	be with	greek cypriot	0	0
+1.0	cypriot	lift entry restriction to	greek cypriot	0	0
+1.0	barricade	be	first erect there	0	ORDINAL
+1.0	Turkey	seize	its third in response	LOCATION	ORDINAL
+1.0	construction	be	halt	0	0
+1.0	Cypriot	shout	slogan about 100 people	MISC	NUMBER
+1.0	northern part	wave	turkish Cypriot	0	MISC
+1.0	Cypriot President Mehmet Ali Talat	meet in	Ankara Friday	PERSON	LOCATION
+1.0	world	of	last divided capital	0	0
+1.0	barricade	be first erect in	shopping street	0	0
+1.0	Ledra Street	symbol of	world 's last divided capital	LOCATION	0
+1.0	part	wave	Cypriot	0	MISC
+1.0	turkish cypriot	allow movement across	ceasefire line	0	0
+1.0	it	would	would sixth	0	ORDINAL
+1.0	Cypriot nationalist	demonstrate against	plan	MISC	0
+1.0	Turkey	seize	its northern third in response	LOCATION	ORDINAL
+1.0	turkish Cypriot nationalist	demonstrate against	plan	MISC	0
+1.0	barricade	be erect in	shopping street	0	0
+1.0	turkish Cypriot nationalist	demonstrate at_time	Ankara Friday	MISC	DATE
+1.0	cypriot	lift entry restriction to	cypriot	0	0
+1.0	his	have	visit	O	O
+1.0	Cypriot	shout	turkish flag	MISC	0
+1.0	concession	have	symbol	O	O
+1.0	Cypriot nationalist	demonstrate at_time	Ankara Friday	MISC	DATE
+1.0	Turkish Cypriot President Mehmet Ali Talat	have announce	decision	PERSON	0
+1.0	preparation	be	halt	0	0
+1.0	Talat	tell	reporter	PERSON	0
+1.0	solution	be	so negotiate	0	0
+1.0	cypriot	allow	unprecedented movement	0	0
+1.0	Cyprus	have	have divide since 1974	LOCATION	DATE
+1.0	cypriot	lift	entry restriction	0	0
+1.0	he visit	be prompt by	disagreement with Turkey	0	LOCATION
+1.0	turkish Cypriot	shout	slogan about 100 people	MISC	NUMBER
+1.0	turkish Cypriot	shout	turkish flag	MISC	0
+1.0	barricade	be	first erect	0	ORDINAL
+1.0	world	have	capital	O	O
+1.0	solution	be	negotiate	0	0
+1.0	disagreement	be with	Turkey	0	LOCATION
+1.0	bridge	have	The	O	O
+1.0	barricade	be erect there in	shopping street	0	0
+1.0	preparation	be halt in	December 2005	0	DATE
+1.0	Ledra Street	be	significant	LOCATION	0
+1.0	turkish cypriot	lift	entry restriction	0	0
+1.0	barricade	be first erect there in	shopping street	0	0
+1.0	Turkish	have	center	O	MISC
+1.0	Cypriot	shout	slogan	MISC	0
+1.0	Cypriot President Mehmet Ali Talat	meet with	government	PERSON	0
+1.0	Mehmet Ali Talat	be	turkish Cypriot	PERSON	MISC
+0.23154884713092094	turkish cypriot	allow across	ceasefire line	0	0
+1.0	he visit	be prompt by	disagreement	0	0
+1.0	cypriot	allow	movement	0	0
+1.0	Cyprus	be	turkish	LOCATION	0
+0.23154884713092094	cypriot	allow across	ceasefire line	0	0
+1.0	he visit	be	prompt by disagreement over bridge	0	0
+1.0	Cypriot	shout	flag	MISC	0
+1.0	turkish cypriot	lift entry restriction to	cypriot	0	0
+1.0	turkish cypriot	lift entry restriction to	greek cypriot	0	0
+1.0	barricade	be	erect	0	0
+1.0	Turkey	seize	its northern third	LOCATION	ORDINAL
+1.0	barricade	be	erect there	0	0
+1.0	capital	have	part	O	O
+1.0	Cyprus	remain	turkish	0	0
+1.0	he visit	be	prompt by disagreement with Turkey over bridge	0	LOCATION
+1.0	their	have	statelet	O	O
+1.0	they	say in	statement	0	0
+1.0	Cyprus	have	Republic	O	LOCATION
+1.0	cypriot	allow movement across	ceasefire line	0	0
+1.0	it	cross	point	0	0
+0.7672407340946431	preparation	open	Ledra Street	0	LOCATION
+1.0	Our	have	decision	O	O
+1.0	he visit	be prompt over	bridge	0	0
+1.0	part	wave	turkish Cypriot	0	MISC
+1.0	Turkey	seize	its third	LOCATION	ORDINAL
+1.0	turkish Cypriot President Mehmet Ali Talat	meet with	government	PERSON	0
+1.0	it	cross point across	divide	0	0
+1.0	it	cross point across	divide since April 2003	0	DATE
+1.0	its	have	third	ORDINAL	O
+1.0	row	have	core	O	O

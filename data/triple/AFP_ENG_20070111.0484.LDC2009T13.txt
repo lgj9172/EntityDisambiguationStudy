@@ -1,0 +1,62 @@
+1.0	Jay Garner	tell	World Service 's Newshour program	PERSON	ORGANIZATION
+0.6516682989566429	us-led troops	oust	Saddam Hussein in April	0	PERSON
+1.0	interview	be with	BBC radio	0	ORGANIZATION
+1.0	you	kill in	bunch of shia	0	0
+1.0	lots	have	killing	O	O
+0.40086314304374265	who troops	oust	Saddam Hussein	0	PERSON
+1.0	Jay Garner	say at_time	Thursday	PERSON	DATE
+1.0	extra troops	be send there as	part of strategy	0	0
+1.0	Iraq after the 2003 invasion	have	US administrator	O	LOCATION
+1.0	21,500 extra troops	be	send	NUMBER	0
+1.0	21,500 extra troops	be send there as	part	NUMBER	0
+0.6516682989566429	us-led troops	oust	Saddam Hussein	0	PERSON
+1.0	Bush	have	strategy	O	PERSON
+1.0	21,500 extra troops	be send as	part	NUMBER	0
+1.0	troops	have	idea	O	O
+1.0	Anbar province	have	sections	O	O
+0.40086314304374265	who us-led troops	oust	Saddam Hussein	0	PERSON
+1.0	Saddam Hussein	be in	April 2003	PERSON	DATE
+1.0	George W. Bush	be president of	Retired US	PERSON	LOCATION
+0.6516682989566429	troops	oust	Saddam Hussein	0	PERSON
+1.0	21,500 extra troops	crush	terrorist insurgent	NUMBER	0
+1.0	you	kill in	bunch	0	0
+1.0	Jay Garner	have	definition	O	O
+1.0	event	be in	Iraq after the 2003 invasion	0	LOCATION
+1.0	Jay Garner	express	alarm	PERSON	0
+1.0	George W. Bush	be	Retired US	PERSON	LOCATION
+0.40086314304374265	who us-led troops	oust	Saddam Hussein in April	0	PERSON
+1.0	many foreign jihadist	be with	Al-Qaeda	0	MISC
+1.0	Sunnis	have	bunches	O	MISC
+0.6516682989566429	troops	oust	Saddam Hussein in April	0	PERSON
+1.0	strategy	have	part	O	O
+0.40086314304374265	who troops	oust	Saddam Hussein in April 2003	0	PERSON
+1.0	Jay Garner	express alarm in	interview with BBC radio	PERSON	ORGANIZATION
+1.0	Bush	have	new strategy	PERSON	0
+0.6516682989566429	troops	oust	Saddam Hussein in April 2003	0	PERSON
+1.0	Iraq	have	interim government	LOCATION	0
+1.0	21,500 extra troops	be	send there	NUMBER	0
+1.0	people	have	lots	O	O
+1.0	you	be	kill	0	0
+1.0	World Service	have	Newshour program	ORGANIZATION	MISC
+1.0	Anbar province	have	Sunni province	O	LOCATION
+1.0	extra troops	be	send	0	0
+1.0	Shia	have	bunches	O	O
+1.0	you	be kill in	category	0	0
+1.0	extra troops	crush	terrorist insurgent	0	0
+0.6516682989566429	us-led troops	oust	Saddam Hussein in April 2003	0	PERSON
+1.0	you	kill in	bunch of Sunnis	0	MISC
+1.0	war	have	war	O	O
+1.0	Jay Garner	express alarm at	event	PERSON	0
+0.40086314304374265	who us-led troops	oust	Saddam Hussein in April 2003	0	PERSON
+1.0	Jay Garner	express alarm in	interview	PERSON	0
+1.0	Baghdad	have	sections	O	LOCATION
+1.0	21,500 extra troops	be send there as	part of strategy	NUMBER	0
+1.0	World Service	have	Newshour program	O	ORGANIZATION
+1.0	extra troops	be	send there	0	0
+1.0	extra troops	be send there as	part	0	0
+1.0	extra troops	be send as	part	0	0
+0.40086314304374265	who troops	oust	Saddam Hussein in April	0	PERSON
+1.0	extra troops	be send as	part of strategy	0	0
+1.0	Iraq	have	government	O	LOCATION
+1.0	Jay Garner	administrator of	Iraq after the 2003 invasion	PERSON	LOCATION
+1.0	21,500 extra troops	be send as	part of strategy	NUMBER	0

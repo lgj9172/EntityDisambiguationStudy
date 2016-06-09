@@ -1,0 +1,88 @@
+1.0	protest	reach here	climax	0	0
+1.0	Guantanmo	have	opening	O	LOCATION
+1.0	protest	reach climax with	reconstruction of Guantanamo camp	0	LOCATION
+1.0	letter	ask for	help	0	0
+1.0	they father Jamil al-Banna	be arrest to	Gambia in 2002	PERSON	DATE
+1.0	a member of parliament	have	brother	O	O
+1.0	they father Jamil al-Banna	be arrest with	friend	PERSON	0
+1.0	they father Jamil al-Banna	be	arrest with friend to Gambia in 2002	PERSON	DATE
+1.0	whose father	be detain in	Guantanamo Bay US prison camp	0	LOCATION
+1.0	they father Jamil al-Banna	be	arrest to Gambia on suspicion	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be	arrest to Gambia in 2002 on suspicion of link to terrorism	PERSON	DATE
+1.0	Teather	member of	parliament from Banna 's constituency	PERSON	PERSON
+1.0	my	have	life	O	O
+1.0	they father Jamil al-Banna	be	arrest with friend on suspicion of link to terrorism	PERSON	0
+1.0	links	have	suspicion	O	O
+1.0	protest	reach climax outside	US Embassy	0	LOCATION
+1.0	nationals	have	intervene	O	O
+1.0	they father Jamil al-Banna	be	arrest with friend on suspicion	PERSON	0
+1.0	they father Jamil al-Banna	transfer to	camp	PERSON	0
+1.0	british citizen	be free by	September 2004	0	DATE
+1.0	camp	be in	Cuba	0	LOCATION
+1.0	whose father	be	detain	0	0
+1.0	Gambia	be in	2002	LOCATION	DATE
+1.0	protest	reach	climax	0	0
+1.0	they father Jamil al-Banna	be	arrest to Gambia in 2002 on suspicion of link	PERSON	DATE
+1.0	they father Jamil al-Banna	be	arrest with friend to Gambia on suspicion of link	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be hand over	over US security officer	PERSON	LOCATION
+1.0	protest	reach	climax in London	0	LOCATION
+1.0	Mohammed Teather	write	Anas al-Banna	PERSON	PERSON
+1.0	they father Jamil al-Banna	transfer to	camp in Cuba	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip to Gambia on suspicion of link to terrorism	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be	arrest to Gambia in 2002 on suspicion	PERSON	DATE
+1.0	Sarah Teather	member of	parliament	PERSON	0
+1.0	they father Jamil al-Banna	be arrest on	suspicion	PERSON	0
+1.0	they father Jamil al-Banna	be arrest on	suspicion of link	PERSON	0
+1.0	they father Jamil al-Banna	be arrest with	friend during business trip	PERSON	0
+1.0	they father Jamil al-Banna	be	arrest with friend to Gambia on suspicion	PERSON	LOCATION
+1.0	a member of parliament	want	know	0	0
+1.0	they father Jamil al-Banna	be	arrest to Gambia on suspicion of link	PERSON	LOCATION
+1.0	Anas	be in	he fourth letter to prime minister	PERSON	ORDINAL
+1.0	delivery	be part of	protest	0	0
+1.0	years	have	meaning	O	DURATION
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip to Gambia	PERSON	LOCATION
+1.0	Mohammed and Sarah Teather , a member of parliament	have	father Jamil al-Banna	PERSON	O
+1.0	parliament	have	member	O	O
+1.0	they father Jamil al-Banna	be arrest to	Gambia	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be arrest on	suspicion of link to terrorism	PERSON	0
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip on suspicion	PERSON	0
+1.0	Blair	have	office	O	PERSON
+1.0	protest	reach here	climax in London	0	LOCATION
+1.0	they father Jamil al-Banna	be	arrest with friend to Gambia on suspicion of link to terrorism	PERSON	LOCATION
+0.9129447633152606	Teather	member of	parliament from Banna 's constituency	PERSON	PERSON
+1.0	A 10-year-old boy whose father is detained in the Guantanamo Bay US prison camp	have	release	O	O
+1.0	delivery	be	part	0	0
+1.0	my	have	dad	O	O
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip to Gambia on suspicion	PERSON	LOCATION
+1.0	his	have	letter	O	O
+1.0	Downing Street	be with	he nine-year-old brother	LOCATION	DURATION
+1.0	they father Jamil al-Banna	be	arrest to Gambia on suspicion of link to terrorism	PERSON	LOCATION
+1.0	they father Jamil al-Banna	be	hand	PERSON	0
+1.0	Banna	from	constituency	PERSON	0
+1.0	poignant letter	ask for	help	0	0
+1.0	they father Jamil al-Banna	be	arrest with friend to Gambia	PERSON	LOCATION
+1.0	protest	reach climax here with	reconstruction	0	0
+1.0	they father Jamil al-Banna	be	arrest	PERSON	0
+1.0	protest	reach climax here with	reconstruction of Guantanamo camp	0	LOCATION
+1.0	Blair	have	office	PERSON	0
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip to Gambia on suspicion of link	PERSON	LOCATION
+1.0	newspaper	have	page	O	O
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip on suspicion of link	PERSON	0
+0.9129447633152606	Teather	member of	parliament	PERSON	0
+1.0	letter	have	delivery	O	O
+1.0	Guantanamo camp	have	reconstruction	O	O
+1.0	Banna	have	constituency	O	PERSON
+1.0	protests	have	part	O	O
+1.0	they father Jamil al-Banna	be	arrest with friend on suspicion of link	PERSON	0
+1.0	they father Jamil al-Banna	be	arrest with friend during business trip on suspicion of link to terrorism	PERSON	0
+1.0	british citizen	be	free	0	0
+1.0	protest	reach climax here outside	US Embassy	0	LOCATION
+1.0	climax	be in	London	0	LOCATION
+1.0	Mr Blair	care after	four year	PERSON	DURATION
+1.0	delivery	be part of	protest around world	0	0
+1.0	protest	reach climax with	reconstruction	0	0
+1.0	whose	have	father	O	O
+1.0	british citizen	be free from	Guantanamo	0	LOCATION
+1.0	a member of parliament	visit	Blair 's office	0	PERSON
+1.0	british citizen	be	free from Guantanamo by September 2004	0	LOCATION
+1.0	Guantanmo	since	opening	LOCATION	0

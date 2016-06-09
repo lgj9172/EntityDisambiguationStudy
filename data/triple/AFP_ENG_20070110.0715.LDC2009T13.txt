@@ -1,0 +1,19 @@
+1.0	collapse	reduce	US effort	0	LOCATION
+1.0	US President George W. Bush	say in	speech on shift	PERSON	0
+1.0	shift	be in	US strategy	0	LOCATION
+1.0	collapse	reduce now	US effort	0	LOCATION
+1.0	US President George W. Bush	result in	mass killing on scale	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	collapse	reduce us effort now in	Iraq	0	LOCATION
+1.0	government	have	collapse	O	O
+1.0	US President George W. Bush	result in	mass killing	PERSON	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	government	be in	Baghdad	0	LOCATION
+1.0	US President George W. Bush	say in	speech on shift in US strategy	PERSON	LOCATION
+1.0	US President George W. Bush	warn at_time	Wednesday	LOCATION	DATE
+1.0	US strategy	be in	Iraq	LOCATION	LOCATION
+1.0	US President George W. Bush	say in	speech on shift in US strategy in Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	result in	mass killing on unimaginable scale	PERSON	0
+1.0	US President George W. Bush	say in	speech	PERSON	0
+1.0	collapse	reduce us effort in	Iraq	0	LOCATION
+1.0	country	have	up	O	O

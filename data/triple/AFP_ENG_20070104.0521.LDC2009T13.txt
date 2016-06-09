@@ -1,0 +1,37 @@
+1.0	Johnson	be	43-year-old	PERSON	DURATION
+1.0	New York	have	Newsday newspaper	O	LOCATION
+1.0	New York	have	Newsday newspaper	LOCATION	ORGANIZATION
+1.0	they	have	agreement	0	0
+1.0	Diamondbacks	already have agree on	10 million dollar contract extension	ORGANIZATION	MONEY
+1.0	Diamondbacks	have agree in	principle	ORGANIZATION	0
+1.0	Newsday	have	web site	O	O
+1.0	Diamondbacks	already have agree accord to	report	ORGANIZATION	0
+1.0	Diamondbacks	have agree with	Five-time Cy Young award winner Randy Johnson	ORGANIZATION	PERSON
+1.0	Newsday	report on	its web site	ORGANIZATION	0
+1.0	Diamondbacks	already have agree on	10 million dollar contract extension for 2008	ORGANIZATION	MONEY
+1.0	Diamondbacks	have agree on	10 million dollar contract extension for 2008	ORGANIZATION	MONEY
+1.0	Yankees	acquire lefthander from	Diamondbacks	ORGANIZATION	ORGANIZATION
+1.0	Five-time Cy Young award winner Randy Johnson	have	representatives	O	O
+1.0	Diamondbacks	have agree accord to	report	ORGANIZATION	0
+1.0	Randy	have	contract status	O	PERSON
+1.0	Randy Johnson	be award winner of	Cy Young	PERSON	PERSON
+1.0	we	discuss	Randy 's contract status	0	PERSON
+1.0	16 million dollar	be in	2007	MONEY	DATE
+1.0	Johnson	be enter	season	PERSON	0
+1.0	deal	have	season	O	O
+1.0	Randy	have	contract status	PERSON	0
+1.0	New York 's Newsday newspaper	report on	Thursday	ORGANIZATION	DATE
+1.0	Yankees	acquire lefthander in	2005	ORGANIZATION	DATE
+1.0	Randy Johnson	be	Cy Young	PERSON	PERSON
+1.0	Diamondbacks	confirm at_time	Thursday	ORGANIZATION	DATE
+1.0	nothing	be	official	0	0
+1.0	agreement	be in	principle	0	0
+1.0	Diamondbacks	already have agree in	principle	ORGANIZATION	0
+1.0	Johnson	be enter	final season	PERSON	0
+1.0	Yankees	acquire	lefthander	ORGANIZATION	0
+1.0	New York Yankees	be regard	Five-time Cy Young award winner Randy Johnson	ORGANIZATION	PERSON
+1.0	Yankees	acquire	fireballing lefthander	ORGANIZATION	0
+1.0	Diamondbacks	say in	statement	ORGANIZATION	0
+1.0	Diamondbacks	already have agree with	Five-time Cy Young award winner Randy Johnson	ORGANIZATION	PERSON
+1.0	Diamondbacks	have agree on	10 million dollar contract extension	ORGANIZATION	MONEY
+1.0	they	have	tentative agreement	0	0

@@ -1,0 +1,73 @@
+1.0	many Thais	return after	four-day holiday weekend	0	DURATION
+1.0	bus station	be consider	likely target	0	0
+1.0	his	have	lawyer	O	O
+1.0	Thaksin	speak through	he lawyer	PERSON	0
+1.0	it	would	would cause for major concern	0	0
+1.0	His	have	comments	O	O
+1.0	he comment	echo by	army-installed Prime Minister Surayud Chulanont	0	PERSON
+1.0	he comment	largely echo by	earlier army-installed Prime Minister Surayud Chulanont	0	PERSON
+1.0	he comment	largely echo by	statement earlier Prime Minister Surayud Chulanont	0	PERSON
+1.0	allies	have	Four	NUMBER	O
+1.0	junta	have	meeting	O	O
+1.0	Thais	return after	holiday weekend	0	DATE
+1.0	hearing	one of	Thaksin 's former minister	0	PERSON
+1.0	Thailand 's junta chief	blame	politician	DATE	0
+1.0	his	have	Hajj pilgrimage	O	O
+1.0	Buddhist Thailand	have	insurgency	O	LOCATION
+1.0	Thailand	have	junta chief	LOCATION	0
+1.0	many Thais	return to	Bangkok	0	LOCATION
+1.0	he comment	largely echo by	army-installed Prime Minister Surayud Chulanont	0	PERSON
+1.0	hearing	tell	reporter	0	0
+1.0	Thaksin	speak through	he lawyer in Bangkok	PERSON	LOCATION
+1.0	Thailand 's junta chief	blame politician at_time	Monday	DATE	DATE
+1.0	Thaksin	deny	involvement	PERSON	0
+1.0	people	take	precaution	0	0
+1.0	Thaksin	of	former minister	PERSON	0
+1.0	bomb	be	regrettable	0	0
+1.0	he comment	echo by	Prime Minister Surayud Chulanont	0	PERSON
+1.0	it	be	relate	0	0
+1.0	Thaksin	have	ministers	O	PERSON
+1.0	unrest	be in	south	0	0
+1.0	country	from	ousted government	0	0
+1.0	Surayud	urge	people	PERSON	0
+1.0	Thais	return after	four-day holiday weekend	0	DURATION
+1.0	Thaksin	of	close ally	PERSON	0
+1.0	more attack	be	possible	0	0
+1.0	Bangkok	be on	New Year 's Eve	LOCATION	DATE
+1.0	it	would	would cause	0	0
+1.0	Sonthi	cut short	he hajj pilgrimage	PERSON	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	he lawyer	be in	Bangkok	0	LOCATION
+1.0	he comment	echo by	earlier army-installed Prime Minister Surayud Chulanont	0	PERSON
+1.0	ministers	have	one	NUMBER	O
+1.0	Thailand	have	junta chief	O	LOCATION
+1.0	city	have	police	0	0
+1.0	city	have	police	O	O
+1.0	it	be relate to	south	0	0
+1.0	General Sonthi Boonyaratglin	refuse	say	PERSON	0
+1.0	Thailand 's junta chief	blame politician from	country 's government	DATE	DATE
+1.0	he comment	largely echo by	Prime Minister Surayud Chulanont	0	PERSON
+1.0	he comment	echo by	statement earlier Prime Minister Surayud Chulanont	0	PERSON
+1.0	he comment	largely echo by	statement earlier army-installed Prime Minister Surayud Chulanont	0	PERSON
+0.7942892683410983	bus station	likely target for	attack	0	0
+1.0	Surayud	earlier urge	people	PERSON	0
+1.0	many Thais	return after	holiday weekend	0	DATE
+1.0	bus station	be consider	likely target for attack	0	0
+1.0	he comment	echo by	statement earlier army-installed Prime Minister Surayud Chulanont	0	PERSON
+1.0	premier	have	Thai Rak Thai party	O	O
+1.0	Thaksin	have	allies	O	PERSON
+1.0	people	take	extra precaution	0	0
+1.0	many Thais	return to	Bangkok on Tuesday	0	DATE
+1.0	Thaksin	deny involvement in	attack	PERSON	0
+1.0	he comment	echo by	earlier Prime Minister Surayud Chulanont	0	PERSON
+1.0	Bangkok	be on	Tuesday	LOCATION	DATE
+1.0	Thais	return to	Bangkok on Tuesday	0	DATE
+1.0	country	have	government	O	O
+0.32468555244207997	bus station	be	consider	0	0
+1.0	attack	be	possible	0	0
+1.0	people	have	work	O	O
+1.0	Sonthi	cut	he hajj pilgrimage	PERSON	0
+1.0	Thailand 's junta chief	blame politician from	country 's ousted government	DATE	DATE
+1.0	Thais	return to	Bangkok	0	LOCATION
+1.0	it	would	would cause for concern	0	0
+1.0	he comment	largely echo by	earlier Prime Minister Surayud Chulanont	0	PERSON

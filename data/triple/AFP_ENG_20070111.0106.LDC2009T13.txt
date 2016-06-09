@@ -1,0 +1,13 @@
+1.0	life	be in	prison for genocide	0	0
+1.0	country	have	dictator	O	O
+1.0	court	sentence	country 's former dictator exile	0	0
+1.0	ethiopian court	sentence	country 's former dictator currently exile in Zimbabwe	0	LOCATION
+1.0	ethiopian court	sentence	country 's former dictator	0	0
+1.0	court	sentence	country 's former dictator currently exile	0	DATE
+1.0	court	sentence	country 's former dictator exile in Zimbabwe	0	LOCATION
+1.0	court	sentence	country 's former dictator currently exile in Zimbabwe	0	LOCATION
+1.0	country	have	former dictator currently exile in Zimbabwe	0	LOCATION
+1.0	ethiopian court	sentence	country 's former dictator exile in Zimbabwe	0	LOCATION
+1.0	ethiopian court	sentence	country 's former dictator exile	0	0
+1.0	ethiopian court	sentence	country 's former dictator currently exile	0	DATE
+1.0	court	sentence	country 's former dictator	0	0

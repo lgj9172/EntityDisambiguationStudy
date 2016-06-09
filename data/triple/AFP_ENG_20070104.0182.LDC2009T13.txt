@@ -1,0 +1,198 @@
+1.0	document	be cite by	weekly Wprost	0	SET
+1.0	newspaper	also cite	document	0	0
+1.0	new archbishop	be secret and conscious collaborator with	sb	0	0
+1.0	the IPN show Wielgus	say in	interview on radio	PERSON	0
+1.0	accusation	be first level at_time	month	0	DATE
+1.0	he	be	when philosophy student at University of Lublin in Poland	0	LOCATION
+0.08525081604622908	the IPN show Wielgus	use for	he work	PERSON	0
+1.0	Sluzba Bezpieczenstwa	be in	1967	ORGANIZATION	DATE
+1.0	archbishop	be	secret collaborator	0	0
+1.0	document	be cite by	Wprost	0	ORGANIZATION
+1.0	Wielgus	be	secret	PERSON	0
+1.0	holder	have have	come about they communist past	0	DATE
+1.0	same document	be	cite Thursday by weekly Wprost on its website	0	SET
+1.0	last year	apologise for	priest	DATE	0
+1.0	Wielgus	be	67	PERSON	NUMBER
+1.0	communism	have	end	O	O
+1.0	they	have	secret police link	0	0
+1.0	document	be cite by	liberal Wprost on its website	0	ORGANIZATION
+1.0	document	be	cite	0	0
+1.0	Wielgus 67	be recruit by	Sluzba Bezpieczenstwa	NUMBER	ORGANIZATION
+1.0	document	be	cite Thursday by liberal Wprost	0	DATE
+1.0	accusation	be	first level	0	ORDINAL
+1.0	Poland	be in	1989	LOCATION	DATE
+1.0	Poland	be govern by	communist	LOCATION	0
+1.0	document	be cite by	liberal weekly Wprost	0	SET
+1.0	archbishop	be secret and conscious collaborator with	communist police	0	0
+1.0	accusation	be first level at_time	last month	0	DATE
+1.0	archbishop	be secret and conscious collaborator with	police	0	0
+1.0	he	be	call	0	0
+1.0	Poland	have	communist-era security forces	O	LOCATION
+1.0	holder	have have since	end of communism	0	0
+1.0	same document	be cite by	Wprost on its website	0	ORGANIZATION
+0.8540591169166505	accusation	lie about	one 's communist past	0	NUMBER
+1.0	holder	come about	they past	0	DATE
+1.0	Wielgus 67	be recruit accord to	Rzeczpospolita	NUMBER	0
+1.0	accusation	be level at_time	month	0	DATE
+1.0	holder	have have	come about they past	0	DATE
+1.0	the IPN show Wielgus	be show of	the IPN	PERSON	ORGANIZATION
+1.0	his	have	death	O	O
+1.0	Wielgus	be recruit by	Sluzba Bezpieczenstwa in 1967	PERSON	ORGANIZATION
+1.0	he	be	when philosophy student at University of Lublin	0	ORGANIZATION
+1.0	he	be	philosophy student at University of Lublin	0	ORGANIZATION
+1.0	John Paul II	have	death	O	PERSON
+1.0	she	rejoin	government	0	0
+1.0	they	have	police link	0	0
+1.0	archbishop	be collaborator with	communist police	0	0
+1.0	same document	be cite by	Wprost	0	ORGANIZATION
+1.0	secret collaborator	be with	Poland 's hate communist-era security force	0	LOCATION
+1.0	Glemp	stand	polish church	PERSON	0
+1.0	new archbishop	be secret collaborator with	communist police	0	0
+1.0	holder	have have since	end of communism in Poland	0	LOCATION
+1.0	1967	in bezpieczenstwa be	sb	DATE	0
+1.0	newspaper	cite	document hold	0	0
+1.0	document	be	cite Thursday by liberal Wprost on its website	0	DATE
+1.0	document	be	cite Thursday by liberal weekly Wprost	0	SET
+1.0	same document	be	cite Thursday by Wprost on its website	0	DATE
+1.0	Stanislaw Wielgus	be in	1978	PERSON	DATE
+1.0	new archbishop	be	collaborator	0	0
+1.0	he	be	when philosophy student at University	0	ORGANIZATION
+1.0	Vatican	take	step	LOCATION	0
+1.0	last year	church in	Poland	DATE	LOCATION
+1.0	Wielgus	be	recruit	PERSON	0
+1.0	he	acknowledge	have call in	0	0
+1.0	Glemp	stand	Vatican	PERSON	LOCATION
+1.0	Poland	be	govern	LOCATION	0
+1.0	life	have	circumstances	O	O
+1.0	Glemp	have stand by	they man	PERSON	0
+1.0	document	be	cite Thursday by weekly Wprost	0	SET
+1.0	same document	be cite by	liberal weekly Wprost	0	SET
+1.0	Poland	be	when govern	LOCATION	0
+1.0	accusation	have cost	high	0	0
+1.0	same document	be	cite Thursday by weekly Wprost	0	SET
+1.0	same document	be cite by	liberal weekly Wprost on its website	0	SET
+1.0	the IPN show Wielgus	have reject	allegation	PERSON	0
+0.06106983046446333	document	hold by	IPN	0	ORGANIZATION
+1.0	he	replace	Cardinal Jozef Glemp	0	PERSON
+1.0	militate	be	fact	0	0
+1.0	the IPN show Wielgus	say in	interview on radio month	PERSON	DATE
+1.0	new archbishop	be collaborator with	sb	0	0
+1.0	the IPN show Wielgus	say in	interview last month	PERSON	DATE
+1.0	newspaper	report at_time	Thursday	0	DATE
+1.0	archbishop	be collaborator with	police	0	0
+1.0	Wielgus	be recruit by	sb	PERSON	0
+0.08525081604622908	the IPN show Wielgus	use	Adam	PERSON	PERSON
+1.0	one	about	past	NUMBER	DATE
+1.0	document	be cite by	Wprost on its website	0	ORGANIZATION
+1.0	archbishop	be secret collaborator with	police	0	0
+1.0	his	have	work	O	O
+1.0	Cardinal Jozef Glemp	have	life	O	O
+1.0	he	be	choose	0	0
+1.0	new archbishop	be secret and conscious collaborator with	police	0	0
+1.0	his	have	successor	O	O
+1.0	University of Lublin	be in	Poland	ORGANIZATION	LOCATION
+1.0	same document	be	cite Thursday by liberal Wprost	0	DATE
+1.0	new archbishop	be collaborator with	communist police	0	0
+1.0	holder	have have	come	0	0
+1.0	same document	be cite by	weekly Wprost	0	SET
+1.0	archbishop	be collaborator with	sb	0	0
+1.0	same document	be cite by	liberal Wprost	0	ORGANIZATION
+1.0	Nazi	have	collaboration	O	O
+1.0	he	be	call in	0	0
+1.0	new archbishop	be secret collaborator with	sb	0	0
+1.0	Wielgus	be recruit accord to	Rzeczpospolita	PERSON	0
+1.0	year	publicly apologise for	priest	DATE	0
+1.0	communist regime	have	critic	O	O
+0.6148035097191383	2005	have	everyone	0	0
+1.0	secret collaborator	be with	communist police for more 20 year	0	DURATION
+1.0	the IPN show Wielgus	use	three pseudonym	PERSON	NUMBER
+0.7163547904497114	document	hold by	IPN	0	ORGANIZATION
+1.0	accusation	be	withdraw	0	0
+1.0	38.5	have	percent	PERCENT	NUMBER
+1.0	the IPN show Wielgus	be by	the IPN	PERSON	ORGANIZATION
+1.0	newspaper	cite	document	0	0
+1.0	document	be cite by	liberal weekly Wprost on its website	0	SET
+1.0	same document	be cite by	weekly Wprost on its website	0	SET
+1.0	last year	publicly apologise for	priest	DATE	0
+1.0	archbishop	be secret and conscious collaborator with	sb	0	0
+1.0	archbishop	be secret collaborator with	sb	0	0
+1.0	their	have	man	O	O
+1.0	the IPN show Wielgus	say in	interview on radio last month	PERSON	DATE
+1.0	same document	be	cite Thursday by Wprost	0	DATE
+1.0	same document	be	cite Thursday by liberal weekly Wprost on its website	0	SET
+1.0	the IPN show Wielgus	say in	interview on polish radio last month	PERSON	DATE
+1.0	new archbishop	be	secret collaborator	0	0
+1.0	the IPN show Wielgus	have	favour	O	PERSON
+1.0	office	have	holders	O	O
+0.08525081604622908	the IPN show Wielgus	use with	sb	PERSON	0
+1.0	accusation	be	later withdraw	0	0
+1.0	Poland	be	when govern by communist	LOCATION	0
+1.0	same document	be cite by	liberal Wprost on its website	0	ORGANIZATION
+1.0	the IPN show Wielgus	say in	interview	PERSON	0
+1.0	everyone	be in	its clutch	0	0
+1.0	Wielgus	be recruit by	Sluzba Bezpieczenstwa	PERSON	ORGANIZATION
+1.0	Wielgus 67	be	recruit	NUMBER	0
+1.0	he	be	philosophy student at University of Lublin in Poland	0	LOCATION
+1.0	he	be	philosophy student	0	0
+1.0	document	be	cite Thursday by weekly Wprost on its website	0	SET
+0.5772450116819734	2005	everyone in	its clutch	0	0
+1.0	Wielgus 67	be recruit by	Sluzba Bezpieczenstwa in 1967	NUMBER	ORGANIZATION
+1.0	Cardinal Jozef Glemp	have	past	DATE	O
+1.0	new archbishop	be collaborator with	police	0	0
+1.0	document	be	cite Thursday by liberal weekly Wprost on its website	0	SET
+1.0	same document	be cite at_time	Thursday	0	DATE
+1.0	their	have	posts	O	O
+1.0	John Paul II	's death be	polish episcopate	PERSON	0
+1.0	archbishop	be	secret	0	0
+1.0	accusation	be level at_time	last month	0	DATE
+1.0	most	deny	have collaborate	0	0
+1.0	Glemp	stand	church	PERSON	0
+1.0	holder	come about	they communist past	0	DATE
+1.0	archbishop	be	collaborator	0	0
+1.0	the IPN show Wielgus	say in	interview on polish radio month	PERSON	DATE
+1.0	one	have	past	DATE	NUMBER
+1.0	new archbishop	be secret collaborator with	police	0	0
+1.0	new archbishop	be secret and conscious collaborator with	communist police	0	0
+1.0	IPN	say in	2005	ORGANIZATION	DATE
+1.0	more than 20 year	for police be	sb	DURATION	0
+1.0	archbishop	be secret collaborator with	communist police	0	0
+1.0	John Paul II	after	death	PERSON	0
+1.0	most	deny	have ever collaborate	0	0
+1.0	holder	come	clean	0	0
+1.0	communism	be in	Poland	0	LOCATION
+1.0	its	have	clutches	O	O
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	same document	be	cite Thursday by liberal weekly Wprost	0	SET
+1.0	accusation	be	level	0	0
+0.8540591169166505	accusation	lie about	one 's past	0	NUMBER
+1.0	their	have	past	DATE	O
+1.0	Wprost	be by	weekly	ORGANIZATION	SET
+1.0	Thursday	have	police archives	O	O
+1.0	he	be	philosophy student at University of Lublin in eastern Poland	0	LOCATION
+1.0	document	be cite by	liberal Wprost	0	ORGANIZATION
+1.0	year	apologise for	priest	DATE	0
+1.0	her	have	ties	O	O
+1.0	same document	be	cite Thursday by liberal Wprost on its website	0	DATE
+1.0	document	be	cite Thursday by Wprost on its website	0	DATE
+1.0	document	be	cite Thursday by Wprost	0	DATE
+1.0	he	be	when philosophy student at University of Lublin in eastern Poland	0	LOCATION
+1.0	he	be	when philosophy student	0	0
+1.0	Wielgus 67	be recruit by	sb	NUMBER	0
+1.0	its	have	website	O	O
+0.6148035097191383	2005	have	everyone in its clutch	0	0
+1.0	Lublin	have	University	ORGANIZATION	ORGANIZATION
+1.0	priests	have	percent	PERCENT	O
+1.0	newspaper	also cite	document hold	0	0
+1.0	Poland	with	hate communist-era security force	LOCATION	0
+1.0	fudging	have	accused	O	O
+1.0	Vatican	take	unprecedented step	LOCATION	0
+1.0	document	be cite by	weekly Wprost on its website	0	SET
+1.0	same document	be	cite	0	0
+1.0	church	be in	Poland	0	LOCATION
+1.0	the IPN show Wielgus	say in	interview on polish radio	PERSON	0
+1.0	document	be cite at_time	Thursday	0	DATE
+1.0	he	acknowledge	have call	0	0
+1.0	holder	have have since	end	0	0
+1.0	holder	have have since	end of communism in Poland in 1989	0	DATE
+1.0	he	be	philosophy student at University	0	ORGANIZATION
+1.0	the IPN show Wielgus	say in	interview month	PERSON	DATE

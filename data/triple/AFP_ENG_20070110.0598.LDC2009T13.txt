@@ -1,0 +1,214 @@
+1.0	short-term escalation	create problem in	long-term	0	0
+1.0	the Congress	have	houses	O	ORGANIZATION
+0.6833320943187872	problem	even escalation of	number of US troops	0	LOCATION
+1.0	132,000	have	forces	O	NUMBER
+1.0	November	have	elections	O	DATE
+1.0	George W. Bush	to	latest strategy for Iraq with symbolic vote	PERSON	LOCATION
+1.0	lawmaker	write in	letter	0	0
+1.0	you	have	own	O	O
+1.0	Bush	get	prior approval for new deployment	PERSON	0
+0.6833320943187872	problem	short-term escalation of	number	0	0
+1.0	republican lawmaker	write in	letter to president	0	0
+1.0	president	have	plan	O	O
+1.0	they	would also commit	member	0	0
+1.0	escalation	create problem in	long-term	0	0
+1.0	Robert Gates	be	first on hot seat at series of Senate hearing begin Thursday	PERSON	ORDINAL
+1.0	Smith	tell	Fox News	PERSON	ORGANIZATION
+0.6833320943187872	problem	escalation of	number of US troops	0	LOCATION
+1.0	process	have	charge	O	O
+1.0	several lawmaker	write in	letter to president	0	0
+1.0	they	pass bill on	wide range	DURATION	0
+1.0	congressional leader	urge president in	letter to Bush	0	PERSON
+1.0	they	would also commit member include	flock	0	0
+1.0	short-term escalation	create	problem	0	0
+1.0	they	would commit	member	0	0
+1.0	republican lawmaker	write at_time	Wednesday	0	DATE
+1.0	lawmaker	write at_time	Wednesday	0	DATE
+1.0	republican lawmaker	write in	letter	0	0
+1.0	Democrats	plan at_time	Wednesday	MISC	DATE
+0.6833320943187872	larger problem	even short-term escalation of	number of US troops in Iraq	0	LOCATION
+1.0	Democratic	oppose	plan	0	0
+1.0	legislation	require	Bush	0	PERSON
+1.0	leader	urge	president	0	0
+1.0	lawmaker	find	themselves	0	0
+1.0	power	be in	November 's election	0	DATE
+1.0	hearings	have	flurry	O	O
+1.0	you	present at_time	next week	0	DATE
+1.0	they	intend in	100 hour of session	DURATION	DURATION
+1.0	Bush	get	prior congressional approval for new deployment	PERSON	0
+0.6833320943187872	larger problem	escalation of	number	0	0
+1.0	key issue	be in	2008 presidential election	0	DATE
+1.0	sessions	have	hours	DURATION	O
+1.0	push	have	start	O	O
+1.0	several republican lawmaker	write in	letter to president	0	0
+1.0	Bush	get	congressional approval for deployment	PERSON	0
+1.0	president	on	proposal	0	0
+1.0	plan symbolic vote	have	much constraining effect on Bush	0	PERSON
+1.0	continue US military presence	be in	Iraq	LOCATION	LOCATION
+0.6833320943187872	problem	even escalation of	number	0	0
+0.6833320943187872	problem	even escalation of	number of US troops in Iraq	0	LOCATION
+1.0	our	have	hearings	O	O
+1.0	Bush	get	approval for deployment	PERSON	0
+1.0	democrat	come behind	strategy of they own	0	0
+1.0	democrat	come together behind	strategy of they own	0	0
+1.0	you	present at_time	week	0	DATE
+0.6833320943187872	larger problem	short-term escalation of	number of US troops	0	LOCATION
+1.0	US	have	surge	O	LOCATION
+1.0	President George W. Bush 's	be	announce in televise speech	PERSON	0
+1.0	Robert Gates	be	first at series of Senate hearing	PERSON	ORDINAL
+1.0	Robert Gates	be	first on seat	PERSON	ORDINAL
+0.6833320943187872	problem	short-term escalation of	number of US troops in Iraq	0	LOCATION
+1.0	you	would put	Bush 's plan	0	PERSON
+0.980436398536458	propose	surge of	additional US	0	LOCATION
+1.0	plan symbolic vote	be in	Congress	0	ORGANIZATION
+1.0	Bush	get	congressional approval for new deployment	PERSON	0
+0.6833320943187872	problem	even short-term escalation of	number	0	0
+1.0	Robert Gates	be	first on seat at series	PERSON	ORDINAL
+1.0	Robert Gates	be	first on seat at series of Senate hearing begin	PERSON	ORDINAL
+1.0	leader	urge president in	letter to Bush	0	PERSON
+1.0	Robert Gates	be	first on seat at series of Senate hearing begin Thursday	PERSON	ORDINAL
+1.0	Iraq policy	have	revamp	O	O
+1.0	several lawmaker	write in	letter	0	0
+1.0	they	pass bill on	wide range of issue include health care	DURATION	0
+1.0	they	pass	bill	DURATION	0
+1.0	they	pass bill on	wide range include health care	DURATION	0
+1.0	President George W. Bush 's	announce in	speech	PERSON	0
+1.0	short-term escalation	create	larger problem	0	0
+1.0	his	have	proposal	O	O
+1.0	November	in	election	DATE	0
+1.0	House	meet at	White House	LOCATION	LOCATION
+1.0	may symbolic vote	be in	house of Congress	0	ORGANIZATION
+0.6833320943187872	larger problem	even escalation of	number of US troops in Iraq	0	LOCATION
+1.0	war	be in	Iraq	0	LOCATION
+1.0	congressional leader	urge president at_time	week	0	DATE
+1.0	Robert Gates	be	first	PERSON	ORDINAL
+1.0	leader	urge president at_time	last week	0	DATE
+1.0	strategy	have	part	O	O
+1.0	they	pass bill on	range	DURATION	0
+1.0	they	intend in	100 hour	DURATION	DURATION
+1.0	you	present to	Senate	0	ORGANIZATION
+1.0	Bush	get	approval	PERSON	0
+1.0	President George W. Bush 's	be	announce	PERSON	0
+1.0	President George W. Bush 's	on	policy	PERSON	0
+1.0	Bush	get	congressional approval	PERSON	0
+1.0	Senator Edward Kennedy	introduce legislation at_time	Tuesday	PERSON	DATE
+1.0	president	have	proposal	O	O
+0.6833320943187872	problem	even short-term escalation of	number of US troops	0	LOCATION
+1.0	leader	urge president at_time	week	0	DATE
+1.0	several republican lawmaker	write in	letter	0	0
+1.0	Bush	get	approval for new deployment	PERSON	0
+0.6833320943187872	larger problem	even escalation of	number	0	0
+1.0	they	intend in	first 100 hour	DURATION	DURATION
+0.6833320943187872	problem	even short-term escalation of	number of US troops in Iraq	0	LOCATION
+1.0	democrat	come together behind	strategy	0	0
+1.0	House	meet with	Bush	LOCATION	PERSON
+1.0	several lawmaker	write at_time	Wednesday	0	DATE
+0.6833320943187872	problem	escalation of	number	0	0
+1.0	first time	be in	12 year	ORDINAL	DURATION
+1.0	they	would also commit member include	flock of White House hopeful	0	ORGANIZATION
+1.0	president	have	isolation	O	O
+1.0	President George W. Bush 's	be at_time	Wednesday night	PERSON	TIME
+0.6833320943187872	larger problem	escalation of	number of US troops in Iraq	0	LOCATION
+0.6833320943187872	larger problem	even short-term escalation of	number	0	0
+1.0	Harry Reid	be majority leader of	the Senate	PERSON	ORGANIZATION
+1.0	My	have	bill	O	O
+1.0	some	have	have critical	0	0
+1.0	they	pass bill on	wide range of issue	DURATION	0
+1.0	issues	have	range	O	O
+1.0	Bush	get	prior congressional approval	PERSON	0
+0.6833320943187872	larger problem	even short-term escalation of	number of US troops	0	LOCATION
+1.0	Defense Secretary	have	Secretary	O	O
+1.0	they	would commit	member of Congress	0	ORGANIZATION
+1.0	several republican lawmaker	write at_time	Wednesday	0	DATE
+1.0	US troops	be in	Iraq	LOCATION	LOCATION
+1.0	US forces	have	escalation	O	O
+1.0	Charlie Rangel	be congressman of	New York	PERSON	LOCATION
+1.0	kids	have	lot	O	O
+1.0	escalation	create	problem	0	0
+1.0	lawmaker	ally of	president	0	0
+1.0	hearings	have	series	O	O
+1.0	New York Congressman Charlie Rangel	tell	MSNBC television	PERSON	ORGANIZATION
+1.0	they	pass bill on	range of issue	DURATION	0
+1.0	democrat	come behind	strategy	0	0
+1.0	Democrats	be in	the Congress	MISC	ORGANIZATION
+1.0	Bush	at	effort spruce	PERSON	0
+1.0	Charlie Rangel	be	New York	PERSON	LOCATION
+1.0	they	would also commit	member of Congress	0	ORGANIZATION
+1.0	Bush	have	efforts	O	PERSON
+1.0	House	meet along with	Bush	LOCATION	PERSON
+1.0	Republicans	control	Capitol Hill	MISC	LOCATION
+1.0	they	intend in	first 100 hour of session	DURATION	DURATION
+1.0	escalation	create	larger problem	0	0
+1.0	plan vote	have	much constraining effect on Bush	0	PERSON
+1.0	President George W. Bush 's	be	announce in speech	PERSON	0
+1.0	president	have	allies	O	O
+1.0	flurry	mark	start	0	0
+1.0	congressional leader	urge president in	letter	0	0
+1.0	flurry	mark	start of legislative push	0	0
+1.0	House	give	hearing	LOCATION	0
+1.0	number	have	escalation	O	O
+0.6833320943187872	larger problem	even escalation of	number of US troops	0	LOCATION
+1.0	democratic	scorn at	Bush 's effort	0	PERSON
+1.0	Robert Gates	be	first on hot seat at series	PERSON	ORDINAL
+1.0	Edward Kennedy	opponent of	continue US military presence in Iraq	PERSON	LOCATION
+1.0	they	would commit member include	flock of White House hopeful	0	ORGANIZATION
+1.0	Harry Reid	be	the Senate	PERSON	ORGANIZATION
+1.0	lawmaker	write in	letter to president	0	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	congressional leader	urge	president	0	0
+1.0	White House hopefuls	have	flock	O	O
+1.0	House	give	fair hearing	LOCATION	0
+1.0	US presence	have	opponent	O	O
+1.0	Nancy Pelosi	be speaker of	House of Representatives	PERSON	ORGANIZATION
+0.6833320943187872	larger problem	short-term escalation of	number of US troops in Iraq	0	LOCATION
+1.0	they	pass bill on	range of issue include health care	DURATION	0
+1.0	its	have	Iraq policy	O	O
+1.0	Robert Gates	be	first on hot seat at series of Senate hearing begin	PERSON	ORDINAL
+1.0	Bush	get	prior congressional approval for deployment	PERSON	0
+1.0	symbolic vote	have	much constraining effect on Bush	0	PERSON
+1.0	Senator Edward Kennedy	introduce	legislation	PERSON	0
+1.0	Bush	have	plan	O	PERSON
+1.0	some	have	have more critical	0	0
+1.0	Representatives Speaker Nancy Pelosi	have	House	ORGANIZATION	PERSON
+1.0	republican lawmaker	find	themselves	0	0
+1.0	democratic leader	be in	Congress	0	ORGANIZATION
+1.0	Bush	have	plan	PERSON	0
+1.0	Bush	get	prior approval for deployment	PERSON	0
+1.0	Iraq war	have	conduct	O	O
+1.0	they	pass bill on	range include health care	DURATION	0
+1.0	President George W. Bush 's latest strategy	be with	symbolic vote	PERSON	0
+0.6833320943187872	problem	short-term escalation of	number of US troops	0	LOCATION
+1.0	Robert Gates	be	first on hot seat at series of Senate hearing	PERSON	ORDINAL
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	President George W. Bush 's	have	policies	O	PERSON
+1.0	Senate House hearings	have	series	O	O
+1.0	plan	send	20,000 troops	0	NUMBER
+1.0	Nancy Pelosi	be of	House of Representatives	PERSON	ORGANIZATION
+0.6833320943187872	larger problem	short-term escalation of	number	0	0
+1.0	Robert Gates	be	first at series of Senate hearing begin Thursday	PERSON	ORDINAL
+1.0	Robert Gates	be	first on hot seat	PERSON	ORDINAL
+1.0	flurry	mark	start of push	0	0
+0.6833320943187872	larger problem	escalation of	number of US troops	0	LOCATION
+1.0	Robert Gates	be	first at series of Senate hearing begin	PERSON	ORDINAL
+1.0	President George W. Bush	have	strategy	O	PERSON
+1.0	congressional leader	urge president at_time	last week	0	DATE
+1.0	own	have	strategy	O	O
+0.980436398536458	propose	surge of	US	0	LOCATION
+1.0	US troops	have	number	O	O
+1.0	vote	have	much constraining effect on Bush	0	PERSON
+1.0	Senate Majority Leader Harry Reid	tell reporter at_time	Wednesday	PERSON	DATE
+1.0	House of Representatives	be of	Nancy Pelosi	ORGANIZATION	PERSON
+0.6833320943187872	problem	escalation of	number of US troops in Iraq	0	LOCATION
+1.0	his	have	speech	O	O
+1.0	they	would commit member include	flock	0	0
+1.0	plan	send	20,000 more troops	0	NUMBER
+1.0	leader	urge president in	letter	0	0
+1.0	you	hope	able	0	0
+1.0	Robert Gates	be	first at series	PERSON	ORDINAL
+1.0	Senate Majority Leader Harry Reid	tell	reporter	PERSON	0
+1.0	House	meet along at	White House	LOCATION	LOCATION
+1.0	Bush	get	prior approval	PERSON	0
+1.0	President George W. Bush 's	announce in	televise speech	PERSON	0
+1.0	Congress	have	members	O	ORGANIZATION
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	Robert Gates	be	first on seat at series of Senate hearing	PERSON	ORDINAL

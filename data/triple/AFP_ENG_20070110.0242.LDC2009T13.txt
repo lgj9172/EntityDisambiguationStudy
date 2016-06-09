@@ -1,0 +1,9 @@
+1.0	Lukashenko 's office	say in	telephone conversation	PERSON	0
+1.0	Russia	have	presidents	O	LOCATION
+1.0	Belarus	have	presidents	O	LOCATION
+1.0	Belarus presidency	say at_time	Wednesday	LOCATION	DATE
+1.0	Belarus presidency	say in	statement	LOCATION	0
+1.0	Lukashenko	have	office	O	PERSON
+1.0	situation	have	resolution	O	O
+1.0	Vladimir Putin	have	counterpart	O	O
+1.0	Lukashenko	have	office	PERSON	0

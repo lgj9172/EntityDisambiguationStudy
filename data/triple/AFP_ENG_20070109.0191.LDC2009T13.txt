@@ -1,0 +1,59 @@
+1.0	`` an up-and-down day on Wall Street '' as the market	be	up-and-down	0	0
+1.0	day	have	trade	O	DURATION
+1.0	earnings season	have	kick-off	O	O
+0.5510818027428446	Apple Computer	lift	tech sector	ORGANIZATION	0
+1.0	Dow Jones Industrial Average	close at	12,416.60 follow choppy day 's trade	MISC	DURATION
+1.0	Nasdaq composite	rise	0.23 percent	MISC	PERCENT
+1.0	earnings reports	have	wave	O	O
+1.0	Dow Jones Industrial Average	close down at	12,416.60 follow choppy day 's trade	MISC	DURATION
+0.5950857578548603	first blue-chip company	report	earnings	ORDINAL	0
+1.0	Apple	have	share	ORGANIZATION	0
+1.0	America	on	financial health	LOCATION	0
+0.5950857578548603	blue-chip company	report	earnings	0	0
+1.0	forecasts	have	end	O	O
+1.0	their	have	commodity holdings	O	O
+1.0	ExxonMobil	have	shares	O	ORGANIZATION
+1.0	market	brace with	Apple Computer	0	ORGANIZATION
+1.0	broad-market Standard	close	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Chevron	close at	70.63 dollar	ORGANIZATION	MONEY
+1.0	their	have	footing	O	O
+1.0	Apple	have	shares	O	ORGANIZATION
+1.0	Alcoa	gain	four cent	ORGANIZATION	MONEY
+1.0	broad-market Standard	close down	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	broad-market Standard	close	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	Nasdaq composite	close at	2,443.83	MISC	NUMBER
+1.0	US share	close at_time	Tuesday	LOCATION	DATE
+1.0	market	brace for	wave of earnings report	0	0
+1.0	he	showcase	iPhone	0	0
+1.0	market	brace for	wave of corporate earnings report	0	0
+1.0	Al Goldman	be at	AG Edwards	PERSON	ORGANIZATION
+1.0	broad-market Standard	close down	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	iPhone announcement	have	wake	O	O
+1.0	bond price	move	higher	0	0
+0.5950857578548603	first company	report	earnings	ORDINAL	0
+1.0	its	have	operating costs	O	O
+1.0	he	showcase iphone at	San Francisco technology conference	0	LOCATION
+1.0	Nasdaq composite	rise	5.63 point	MISC	NUMBER
+1.0	conocophillip	shed	1.79 66.51 dollar	0	MONEY
+1.0	day	follow	trade	DURATION	0
+1.0	Dow Jones Industrial Average	close down at	12,416.60 follow day 's trade	MISC	DURATION
+0.5950857578548603	company	report	earnings	0	0
+1.0	America	have	health	O	LOCATION
+1.0	workforce	have	percent	PERCENT	O
+1.0	its	have	workforce	O	O
+1.0	bond price	move	slightly higher	0	0
+1.0	its	have	iPhone announcement	O	O
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	its	have	earnings	O	O
+1.0	Dow Jones Industrial Average	close at	12,416.60 follow day 's trade	MISC	DURATION
+1.0	dollars	have	profit	O	MONEY
+1.0	phone	feature	two megapixel	0	NUMBER
+1.0	ExxonMobil	have	share	ORGANIZATION	0
+1.0	market	brace for	wave	0	0
+1.0	device	pack	phone	0	0
+1.0	its	have	iPod	O	O
+1.0	Chevron	close down at	70.63 dollar	ORGANIZATION	MONEY
+1.0	phone	feature	mp3 player	0	0
+1.0	phone	feature	Internet capability	0	0
+1.0	US share	close at_time	mixed Tuesday	LOCATION	DATE

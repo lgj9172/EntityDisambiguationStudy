@@ -1,0 +1,84 @@
+1.0	working	have	importance	O	O
+1.0	Senate Armed Services Committee	have	chairman	O	ORGANIZATION
+1.0	Whitman	press from	Somalia	PERSON	MISC
+1.0	Carl Levin	decline	add	PERSON	0
+1.0	Pentagon spokesman	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	target	be	principal Al-Qaeda leadership	0	MISC
+1.0	it	be	US military strike	0	LOCATION
+1.0	Pentagon spokesman	confirm	known US strike	ORGANIZATION	LOCATION
+1.0	it	be	first US strike	0	LOCATION
+1.0	Pentagon spokesman	confirm	US strike on country	ORGANIZATION	LOCATION
+1.0	Pentagon spokesman	confirm	known US strike on country since 1994	ORGANIZATION	LOCATION
+1.0	US forces	have	withdrawal	O	O
+1.0	Carl Levin	chairman of	Senate Armed Services Committee	PERSON	ORGANIZATION
+1.0	that	have	example	O	O
+1.0	tracking capability	have	details	O	O
+1.0	acts	have	perpetrators	O	O
+1.0	air strike	be in	Somalia	0	LOCATION
+1.0	attack	have	targets	O	O
+1.0	Somalia	in	southernmost tip	MISC	0
+1.0	it	be	known US military strike	0	LOCATION
+1.0	he	decline	say	0	0
+1.0	Pentagon spokesman	confirm	first known US strike on country	ORGANIZATION	ORDINAL
+1.0	target	be	Al-Qaeda leadership	0	MISC
+1.0	it	follow	rout	0	0
+1.0	it	be	first US military strike	0	LOCATION
+1.0	it	be	known US strike there in 1994	0	LOCATION
+1.0	it	follow	rout of islamist force	0	0
+1.0	Pentagon spokesman	confirm	known US strike on country	ORGANIZATION	LOCATION
+1.0	first known US military strike	be in	1994	LOCATION	DATE
+1.0	it	be	first known US military strike there in 1994	0	LOCATION
+1.0	attack	have	Somalia	LOCATION	O
+1.0	it	follow rout by	ethiopian force	0	0
+1.0	strike	have	target	O	O
+1.0	it	be	first known US military strike	0	LOCATION
+1.0	it	follow rout by	force	0	0
+1.0	forces	have	rout	O	O
+1.0	two village	be in	Somalia 's southernmost tip	NUMBER	MISC
+1.0	it	be	US military strike there in 1994	0	LOCATION
+1.0	first known US military strike	be in	country since withdrawal of US force	LOCATION	LOCATION
+1.0	Bryan Whitman	be	The Pentagon	PERSON	ORGANIZATION
+1.0	Carl Levin	ask for	detail of tracking capability	PERSON	0
+1.0	Pentagon spokesman	confirm	first US strike on country	ORGANIZATION	ORDINAL
+1.0	military	conduct	operation in close cooperation	0	0
+1.0	Pentagon spokesman	confirm	first US strike on country since 1994	ORGANIZATION	ORDINAL
+1.0	US embassies	have	twin bombings	O	O
+1.0	it	be	US strike	0	LOCATION
+1.0	target	be	principal Al-Qaeda leadership in region	0	MISC
+1.0	it	follow	rout of force	0	0
+1.0	Pentagon spokesman	confirm	first known US strike	ORGANIZATION	ORDINAL
+1.0	ally	be in	region	0	0
+1.0	Pentagon spokesman	confirm	first US strike	ORGANIZATION	ORDINAL
+1.0	Somalia	have	tip	O	LOCATION
+1.0	Whitman	press on	report	PERSON	0
+1.0	it	follow rout there by	ethiopian force	0	0
+1.0	Pentagon spokesman	confirm	US strike	ORGANIZATION	LOCATION
+1.0	our	have	allies	O	O
+1.0	I	be	wrong	0	0
+1.0	target	be	Al-Qaeda leadership in region	0	MISC
+1.0	it	follow there	rout of force	0	0
+1.0	it	be	first known US strike there in 1994	0	LOCATION
+1.0	principal Al-Qaeda leadership	be in	area	MISC	0
+1.0	it	be	known US military strike there in 1994	0	LOCATION
+1.0	target	be al-qaeda	militant think	0	0
+1.0	it	follow there	rout	0	0
+1.0	Pentagon spokesman	confirm	US strike on country since 1994	ORGANIZATION	LOCATION
+1.0	it	follow there	rout of islamist force	0	0
+1.0	it	be	US strike there in 1994	0	LOCATION
+1.0	Carl Levin	ask for	detail	PERSON	0
+1.0	military	conduct	we operation in close cooperation	0	0
+1.0	Pentagon spokesman	confirm	first known US strike on country since 1994	ORGANIZATION	ORDINAL
+1.0	US embassy	be in	Kenya	LOCATION	LOCATION
+1.0	strike	be in	a Somalia of a second attack	0	LOCATION
+1.0	our	have	operations	O	O
+1.0	it	be	known US strike	0	LOCATION
+1.0	it	follow rout there by	force	0	0
+1.0	principal Al-Qaeda leadership	be in	region	MISC	0
+1.0	Whitman	press from	Somalia of second attack	PERSON	DURATION
+1.0	it	be	first known US strike	0	LOCATION
+1.0	Whitman	press from	Somalia of attack	PERSON	MISC
+1.0	it	be	first US strike there in 1994	0	LOCATION
+1.0	Bryan Whitman	be spokesman of	The Pentagon	PERSON	ORGANIZATION
+1.0	night time attack	have	time	O	O
+1.0	it	be	first US military strike there in 1994	0	LOCATION
+1.0	he	decline	say more	0	0

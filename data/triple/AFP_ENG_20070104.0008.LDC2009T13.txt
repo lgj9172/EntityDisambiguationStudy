@@ -1,0 +1,172 @@
+1.0	Japan 's Defense Agency	want	broader plan	ORGANIZATION	0
+0.022365932509734954	Japan	declare as	only legitimate government of China	LOCATION	LOCATION
+0.022365932509734954	Japan	declare as	only government	LOCATION	0
+1.0	ease tension	be in	Taiwan Strait	0	LOCATION
+0.07149773898788192	plan	would consider by	China of force	0	LOCATION
+1.0	Japan 's Defense Agency	also want	broader plan	ORGANIZATION	0
+1.0	tie	have	have badly strain in recent year in part	0	DURATION
+0.022365932509734954	Japan	declare as	government of China	LOCATION	LOCATION
+1.0	Junichiro Koizumi 's visit	see as	symbol of Japan 's past militarism	PERSON	DATE
+1.0	Junichiro Koizumi 's visit	see by	other nation	PERSON	0
+1.0	test	have	light	O	O
+1.0	sino-japanese tie	have	have strain in year	0	0
+1.0	China	have	government	O	LOCATION
+1.0	Japan	have	Defense Agency	ORGANIZATION	LOCATION
+1.0	Washington	provide taiwan in	event	LOCATION	0
+1.0	sino-japanese tie	have	have badly strain in year in part	0	0
+1.0	Japan 's decision	reflect	stance of Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	Japan	declare beijing as	only legitimate government of China	LOCATION	LOCATION
+1.0	violence	have	risk	O	O
+1.0	plan	would consider	possible taiwanese declaration of independence	0	0
+0.961967309882953	plan	call	Diaoyus	0	ORGANIZATION
+1.0	Japan 's Defense Agency	look at	risk of violence spread to territory	ORGANIZATION	0
+1.0	Washington	provide	Taiwan with arm	LOCATION	LOCATION
+1.0	island	have	even have govern separately since end of war	0	0
+1.0	sino-japanese tie	have	have strain in recent year	0	DURATION
+1.0	character	have	arms	O	O
+1.0	sino-japanese tie	have	have badly strain in year	0	0
+0.05907894812245443	plan	call by	China	0	LOCATION
+1.0	civil war	be in	1949	0	DATE
+1.0	sino-japanese tie	have	have strain in part	0	0
+1.0	tie	have	have badly strain in year in part	0	0
+1.0	plan	would consider	possible declaration of independence	0	0
+1.0	Japan	declare beijing as	only government of China	LOCATION	LOCATION
+1.0	Japan	normalize relation under	Japan-China joint communique	0	LOCATION
+1.0	Junichiro Koizumi 's visit	see by	asian nation	PERSON	0
+1.0	island	have	even have govern since end	0	0
+1.0	Washington	provide taiwan in	event of invasion of island	LOCATION	0
+1.0	Washington	provide	Taiwan with arm of defensive character	LOCATION	LOCATION
+1.0	tie	have	have strain in recent year in part	0	DURATION
+0.07149773898788192	plan	would consider by	China	0	LOCATION
+1.0	north korean nuclear test	be in	October 2006	0	DATE
+1.0	Japan	normalize relation in	1972	0	DATE
+1.0	island	have	have govern separately since end of civil war	0	0
+1.0	island	have	even have govern since end of war	0	0
+1.0	island	have	even have govern separately	0	0
+1.0	Japan	normalize relation under	Japan-China communique	0	LOCATION
+1.0	Japan	at	Defense Agency	LOCATION	ORGANIZATION
+1.0	Japan	have	decision go ahead with Taiwan study	LOCATION	LOCATION
+1.0	sino-japanese tie	have	have badly strain in recent year	0	DURATION
+1.0	island	have	even have govern separately since end	0	0
+0.022365932509734954	Japan	declare as	government	LOCATION	0
+1.0	island	have	have govern	0	0
+1.0	Japan	declare beijing as	government of China	LOCATION	LOCATION
+1.0	news report	say at_time	Thursday	0	DATE
+1.0	Junichiro Koizumi 's visit	see by	other asian nation	PERSON	0
+1.0	Japan 's Defense Agency	want	plan	ORGANIZATION	0
+1.0	Japan	have	decision	O	LOCATION
+1.0	forces	have	response	O	O
+1.0	island	have	even have govern separately since end of civil war in 1949	0	DATE
+1.0	force	have	China	LOCATION	O
+1.0	Junichiro Koizumi 's annual visit	see as	symbol	SET	0
+1.0	the United States	anger	China in February 2005	LOCATION	DATE
+1.0	island	have	have govern since end	0	0
+1.0	island	have	have govern separately since end of war	0	0
+1.0	Japan 's Defense Agency	also want	plan	ORGANIZATION	0
+1.0	China	have	power	O	LOCATION
+1.0	island	have	even have govern separately since end of civil war	0	0
+1.0	Japan	declare beijing as	only legitimate government	LOCATION	0
+1.0	China	over	grow military power	LOCATION	0
+1.0	tie	have	have strain in year in part	0	0
+1.0	tie	have	have badly strain	0	0
+1.0	official	tell	Asahi	0	ORGANIZATION
+1.0	plan	would consider	possible taiwanese declaration	0	0
+1.0	Junichiro Koizumi 's visit	see by	nation	PERSON	0
+1.0	island	have	have govern since end of civil war	0	0
+0.9450617846245211	Japan 's Defense Agency	call diaoyus by	China	ORGANIZATION	LOCATION
+1.0	Japan	normalize	relation	0	0
+1.0	independence	have	declaration	O	O
+1.0	sino-japanese tie	have	have strain in recent year in part	0	DURATION
+1.0	tie	have	have strain	0	0
+1.0	sino-japanese tie	have	have strain in year in part	0	0
+1.0	confrontation	have	scenarios	O	O
+1.0	island	have	have govern since end of war in 1949	0	DATE
+1.0	tie	have	have badly strain in year	0	0
+1.0	China	be in	February 2005	LOCATION	DATE
+1.0	Japan	of	past militarism	LOCATION	DATE
+1.0	Japan 's Defense Agency	look at	risk of violence	ORGANIZATION	0
+1.0	Junichiro Koizumi 's annual visit	see as	symbol of Japan 's past militarism	SET	DATE
+1.0	island	have	even have govern	0	0
+1.0	Japan 's decision	reflect	pro-taiwan stance	LOCATION	0
+0.07149773898788192	plan	would consider by	China of military force	0	LOCATION
+1.0	tie	have	have badly strain in recent year	0	DURATION
+0.022365932509734954	Japan	declare as	only government of China	LOCATION	LOCATION
+1.0	the United States	anger	Japan	LOCATION	LOCATION
+1.0	support	have	troops	O	O
+1.0	island	have	even have govern separately since end of war in 1949	0	DATE
+1.0	Japan	declare beijing as	legitimate government of China	LOCATION	LOCATION
+1.0	island	have	even have govern since end of civil war in 1949	0	DATE
+1.0	Washington	provide taiwan in	event of chinese invasion	LOCATION	0
+1.0	Japan	declare beijing as	only government	LOCATION	0
+1.0	sino-japanese tie	have	have badly strain	0	0
+1.0	Junichiro Koizumi 's annual visit	see by	other nation	SET	0
+0.07149773898788192	plan	would consider by	China of military force against island	0	LOCATION
+1.0	Japan 's decision	be believe accord to	Kyodo News	LOCATION	ORGANIZATION
+1.0	plan	would consider	possible declaration	0	0
+0.961967309882953	plan	call diaoyus by	China	0	LOCATION
+0.07149773898788192	plan	would consider by	China of force against island	0	LOCATION
+1.0	tie	have	have strain in recent year	0	DURATION
+1.0	supplies	have	troops	O	O
+1.0	Washington	be	require	LOCATION	0
+1.0	invasion	have	event	O	O
+1.0	Washington	provide taiwan in	event of chinese invasion of island	LOCATION	0
+0.022365932509734954	Japan	declare as	legitimate government	LOCATION	0
+1.0	Washington	provide	Taiwan	LOCATION	LOCATION
+1.0	spokeswoman	decline	comment on report	0	0
+1.0	tie	have	have strain in part	0	0
+1.0	spokeswoman	comment on	report	0	0
+1.0	tie	have	have badly strain in part	0	0
+1.0	Japan 's decision	be	believe	LOCATION	0
+1.0	the United States	anger	China	LOCATION	LOCATION
+0.022365932509734954	Japan	declare as	legitimate government of China	LOCATION	LOCATION
+1.0	island	have	have govern separately	0	0
+1.0	Taiwan	be with	arm of defensive character	LOCATION	0
+0.022365932509734954	Japan	declare as	only legitimate government	LOCATION	0
+1.0	Pyongyang	of	nuclear test	LOCATION	0
+1.0	Japan	declare beijing as	legitimate government	LOCATION	0
+0.9450617846245211	Japan 's Defense Agency	call	Diaoyus	ORGANIZATION	ORGANIZATION
+0.961967309882953	broader plan	call	Diaoyus	0	ORGANIZATION
+1.0	Japan 's Defense Agency	look at	risk of violence spread	ORGANIZATION	0
+1.0	Japan 's decision	reflect	stance	LOCATION	0
+1.0	Junichiro Koizumi 's annual visit	see by	nation	SET	0
+0.05907894812245443	broader plan	call by	China	0	LOCATION
+1.0	Japan 's Defense Agency	look at	risk	ORGANIZATION	0
+1.0	Pyongyang	have	test	O	LOCATION
+1.0	Japan	declare beijing as	government	LOCATION	0
+1.0	Japan	have	Defense Agency	LOCATION	ORGANIZATION
+1.0	Junichiro Koizumi 's annual visit	see by	other asian nation	SET	0
+1.0	Prime Minister Shinzo Abe	have	stance	O	PERSON
+1.0	newspaper	cite official in	country	0	0
+1.0	island	have	invasion	O	O
+1.0	sino-japanese tie	have	have badly strain in recent year in part	0	DURATION
+1.0	Japan 's Defense Agency	look at	risk of violence spread to japanese territory	ORGANIZATION	0
+1.0	militarism	have	symbol	O	O
+1.0	their	have	forces	O	O
+1.0	war	have	end	O	O
+1.0	Japan 's decision	reflect	pro-taiwan stance of Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	Washington	provide taiwan in	event of invasion	LOCATION	0
+1.0	Washington	provide	Taiwan with arm of character	LOCATION	LOCATION
+1.0	island	have	even have govern since end of civil war	0	0
+1.0	island	have	have govern since end of civil war in 1949	0	DATE
+0.05804070010771964	Japan 's Defense Agency	call by	China	ORGANIZATION	LOCATION
+1.0	their	have	part	O	O
+1.0	Washington	be require under	US legislation	LOCATION	LOCATION
+0.961967309882953	broader plan	call diaoyus by	China	0	LOCATION
+1.0	Junichiro Koizumi	have	visits	O	PERSON
+1.0	island	have	have govern since end of war	0	0
+1.0	sino-japanese tie	have	have badly strain in part	0	0
+1.0	Japan	declare	Beijing	LOCATION	LOCATION
+1.0	spokeswoman	decline	comment	0	0
+1.0	island	have	have govern separately since end of war in 1949	0	DATE
+1.0	tie	have	have strain in year	0	0
+1.0	2007	have	half	DATE	DATE
+1.0	island	have	have govern separately since end	0	0
+1.0	island	have	even have govern since end of war in 1949	0	DATE
+1.0	Junichiro Koizumi	have	annual visit to Tokyo shrine	PERSON	SET
+1.0	possible crisis	be in	korean peninsula	0	LOCATION
+1.0	use	have	declaration	O	O
+1.0	sino-japanese tie	have	have strain	0	0
+1.0	Japan	have	militarism	O	LOCATION
+1.0	Junichiro Koizumi 's visit	see as	symbol	PERSON	0
+1.0	island	have	have govern separately since end of civil war in 1949	0	DATE
+1.0	Junichiro Koizumi 's annual visit	see by	asian nation	SET	0

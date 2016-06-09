@@ -1,0 +1,11 @@
+1.0	expansion	have	trend	O	O
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	news report	say at_time	Saturday	0	DATE
+1.0	policy meeting	have	week	DATE	O
+1.0	The central bank	have	decision	O	O
+1.0	policy board members	have	majority	O	O
+1.0	economy	be in	region	0	0
+1.0	policy board	have	majority	O	O
+1.0	The Bank of Japan	have	policy board meeting	O	O
+1.0	The central bank	have	policy meeting	O	O
+1.0	the Mainichi Shimbun	say	Jiji Press	ORGANIZATION	ORGANIZATION

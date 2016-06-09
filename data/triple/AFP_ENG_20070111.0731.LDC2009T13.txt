@@ -1,0 +1,168 @@
+1.0	Vladimir Putin	be between	Russian	PERSON	MISC
+1.0	its neighbour	pump to	Europe	0	LOCATION
+1.0	Moscow	have	main demand	LOCATION	0
+1.0	we negotiation	be	always pragmatic	0	0
+1.0	contracts	have	vulnerability	O	O
+1.0	we colleague	hold talk over	past two day	0	DURATION
+0.17974797504936701	Russia	continue at_time	Friday	LOCATION	DATE
+1.0	Russia	create	joint state	LOCATION	0
+1.0	its neighbour	pump about	80,000 tonne of crude oil	0	NUMBER
+1.0	its ex-soviet neighbour	pump about	80,000 tonne of crude oil	0	NUMBER
+1.0	International Energy Agency	have	Council	ORGANIZATION	ORGANIZATION
+0.8163753921758726	Belarus	cancel tax on	oil pass to Europe	LOCATION	LOCATION
+1.0	Moscow	have	demand	O	LOCATION
+1.0	crisis	have show up	vulnerability	0	0
+1.0	Russia 's Prime Minister Mikhail Fradkov	take pause in	they talk	LOCATION	DATE
+1.0	we negotiation	be	pragmatic	0	0
+1.0	Europe	have	Assembly	ORGANIZATION	ORGANIZATION
+1.0	resolution	have	details	O	O
+1.0	impasse	be	break after telephone conversation with detail	0	0
+1.0	impasse	be	break after telephone conversation between Russian President Vladimir Putin with detail of resolution finalise	0	PERSON
+1.0	Belarus	return to	system	LOCATION	0
+1.0	Russia	continue	Belarus	LOCATION	LOCATION
+1.0	Our	have	negotiations	O	O
+0.17974797504936701	Russia	continue	Belarus	LOCATION	LOCATION
+1.0	oil exports	have	third	ORDINAL	O
+1.0	Andrei Sharonov	be	russian	PERSON	0
+0.8163753921758726	Belarus	cancel	tax	LOCATION	0
+1.0	Russia	impose	its export tax	LOCATION	0
+1.0	Assembly	have	Council	ORGANIZATION	ORGANIZATION
+1.0	it	sell	it	0	0
+1.0	Moscow	have	reputation	O	LOCATION
+1.0	impasse	be	break after telephone conversation between Russian President Vladimir Putin with detail	0	PERSON
+1.0	Mikhail Fradkov	voice	hope	PERSON	0
+1.0	Russia	be in	its turn	LOCATION	0
+1.0	impasse	be break after	telephone conversation between Russian President Vladimir Putin	0	PERSON
+1.0	Russia	have	union state	O	LOCATION
+1.0	interruption	spark	sharp criticism of Moscow 's handling	0	ORGANIZATION
+1.0	impasse	be	break after telephone conversation with detail of resolution	0	0
+1.0	Deputy Economic Development Minister Andrei Sharonov	say at_time	Thursday	PERSON	DATE
+1.0	his	have	President Alexander Lukashenko	PERSON	O
+1.0	its ex-soviet neighbour	pump to	Europe	0	LOCATION
+1.0	Russia 's Prime Minister Mikhail Fradkov	take pause in	hour	LOCATION	0
+1.0	Eight	have	Group	O	NUMBER
+1.0	Belarus	transfer to	Moscow part	LOCATION	LOCATION
+1.0	interruption	spark	sharp criticism of Moscow 's handling of crisis	0	ORGANIZATION
+1.0	Russia 's Prime Minister Mikhail Fradkov	take	brief pause	LOCATION	0
+1.0	Russia 's Prime Minister Mikhail Fradkov	take pause in	early hour of Friday	LOCATION	DATE
+1.0	Sidorsky	have	office	O	PERSON
+1.0	interruption	spark	criticism of Moscow 's handling	0	ORGANIZATION
+1.0	crisis	have show up	vulnerability of contract	0	0
+1.0	russian Deputy Economic Development Minister Andrei Sharonov	be quote by	Gazeta newspaper	PERSON	ORGANIZATION
+1.0	Russia	pay	new transit tax	LOCATION	0
+1.0	its neighbour	resume	supplies	0	0
+1.0	Russia	have	Mikhail Fradkov	LOCATION	PERSON
+1.0	Russia	be	resume	LOCATION	0
+1.0	it	have take from	Russia	0	LOCATION
+1.0	interruption	spark criticism by	official in Council of Europe 's assembly	0	ORGANIZATION
+1.0	Deputy Economic Development Minister Andrei Sharonov	be	quote	PERSON	0
+1.0	Belarus	return to	earlier system	LOCATION	0
+1.0	we colleague	hold	talk	0	0
+1.0	its ex-soviet neighbour	resume	supplies	0	0
+1.0	Russia	pay	transit tax	LOCATION	0
+1.0	Russia	look at	way	LOCATION	0
+1.0	impasse	be	break after telephone conversation with detail of resolution finalise	0	0
+1.0	Belarus	transfer to	Moscow part of tax	LOCATION	LOCATION
+1.0	its ex-soviet neighbour	first pump about	80,000 tonne of crude oil	0	NUMBER
+1.0	its neighbour	first pump to	Europe	0	LOCATION
+1.0	crisis	have show up	vulnerability of russian contract	0	0
+1.0	G8	have	chairmanship	O	O
+1.0	it	store in lieu of	transit tax payment	0	0
+1.0	interruption	spark criticism by	official	0	ORGANIZATION
+1.0	crisis	have	handling	O	O
+1.0	holds	have	Council	ORGANIZATION	O
+1.0	Russia	continue	talk	LOCATION	0
+1.0	Moscow	have	handling	O	LOCATION
+1.0	Deputy Economic Development Minister Andrei Sharonov	be quote by	Gazeta newspaper	PERSON	ORGANIZATION
+1.0	Russia	create	state	LOCATION	0
+1.0	Belarus	have	tax	O	LOCATION
+1.0	its ex-soviet neighbour	first pump about	80,000 tonne	0	NUMBER
+1.0	Russia	due	Belarus	LOCATION	LOCATION
+1.0	Sidorsky	have	office	PERSON	0
+1.0	oil	refine	Russia	0	0
+1.0	countries	have	interests	O	O
+0.8163753921758726	Belarus	cancel	new tax	LOCATION	0
+1.0	Moscow	have	reputation	LOCATION	0
+1.0	impasse	be	break after telephone conversation between Russian President Vladimir Putin with detail of resolution finalise by Friday	0	PERSON
+0.8163753921758726	Belarus	cancel tax on	oil	LOCATION	0
+1.0	cheap oil	refine	Russia	0	0
+1.0	Russia 's Prime Minister Mikhail Fradkov	take pause in	early hour	LOCATION	DATE
+0.8163753921758726	Belarus	cancel	new 45-dollar-per-tonne tax	LOCATION	0
+1.0	impasse	be break with	detail	0	0
+1.0	efforts	have	Belarus	LOCATION	O
+1.0	Russia	now look at	way	LOCATION	0
+1.0	top official	be in	Council of Europe 's parliamentary assembly	ORGANIZATION	ORGANIZATION
+1.0	transit tax payments	have	stored	O	O
+1.0	Russia	have	image	O	LOCATION
+1.0	supplies	be halt on	Monday	0	DATE
+1.0	Belarus	import	oil	LOCATION	0
+1.0	duties	have	division	O	O
+1.0	Mikhail Fradkov	be prime minister of	Russia	PERSON	LOCATION
+1.0	interruption	spark	criticism of Moscow 's handling of crisis	0	ORGANIZATION
+1.0	interruption	spark criticism by	official in Council of Europe 's parliamentary assembly	0	ORGANIZATION
+1.0	impasse	be	break after telephone conversation between Russian President Vladimir Putin with detail of resolution	0	PERSON
+1.0	Russia	continue talk at_time	Friday	LOCATION	DATE
+1.0	Moscow	of	handling of crisis	LOCATION	ORGANIZATION
+1.0	Russia	have	export tax	O	O
+1.0	impasse	be	break after telephone conversation with detail of resolution finalise by Friday	0	DATE
+1.0	Russia 's Prime Minister Mikhail Fradkov and his Belarussian counterpart Sergei Sidorsky	have	talks	O	O
+1.0	its neighbour	first pump about	80,000 tonne of crude oil	0	NUMBER
+1.0	Russia	have	Prime Minister Mikhail Fradkov	PERSON	LOCATION
+1.0	impasse	be	break with detail of resolution finalise by Friday	0	DATE
+1.0	oil	have	tonnes	O	O
+0.8163753921758726	Belarus	cancel	45-dollar-per-tonne tax	LOCATION	0
+1.0	well	be	find	0	0
+1.0	its ex-soviet neighbour	first pump about	80,000 tonne of oil	0	NUMBER
+1.0	interruption	spark criticism by	official in Council	0	ORGANIZATION
+1.0	Russia	pay	new transit tax impose	LOCATION	0
+1.0	Russia 's Prime Minister Mikhail Fradkov	take	pause	LOCATION	0
+1.0	oil	have	interrupted	O	O
+1.0	its ex-soviet neighbour	pump about	80,000 tonne of oil	0	NUMBER
+1.0	oil	sell	Russia	0	0
+1.0	he	seek concession by	Russia	0	LOCATION
+1.0	Russia 's Prime Minister Mikhail Fradkov	take pause in	hour of Friday	LOCATION	DATE
+1.0	Russia 's Prime Minister Mikhail Fradkov	take	he counterpart Sergei Sidorsky	LOCATION	PERSON
+1.0	its neighbour	pump about	80,000 tonne of oil	0	NUMBER
+1.0	he	arrive for	talk	0	0
+1.0	Our	have	colleagues	O	O
+1.0	handling	have	criticism	O	O
+1.0	interruption	spark	sharp criticism	0	0
+1.0	interruption	spark	criticism	0	0
+1.0	Russia 's Prime Minister Mikhail Fradkov	take	he belarussian counterpart Sergei Sidorsky	LOCATION	PERSON
+1.0	its neighbour	first pump about	80,000 tonne of oil	0	NUMBER
+1.0	taxes	have	Moscow part	O	O
+1.0	he	arrive here for	talk	0	0
+1.0	impasse	be	break	0	0
+1.0	Belarus	import	cheap oil	LOCATION	0
+1.0	russian Deputy Economic Development Minister Andrei Sharonov	say at_time	Thursday	PERSON	DATE
+1.0	we colleague	hold	intensive talk	0	0
+1.0	Russia	be	due	LOCATION	0
+1.0	supplies	be	halt	0	0
+1.0	Friday	have	hours	DATE	DATE
+1.0	its	have	neighbour	O	O
+1.0	EU oil consumption	have	pipeline accounts	O	O
+1.0	its ex-soviet neighbour	first pump to	Europe	0	LOCATION
+1.0	russian Deputy Economic Development Minister Andrei Sharonov	be	quote	PERSON	0
+1.0	Sergei Sidorsky	be	belarussian	PERSON	0
+1.0	cheap oil	sell	Russia	0	0
+1.0	its neighbour	pump about	80,000 tonne	0	NUMBER
+1.0	impasse	be	break with detail of resolution finalise	0	0
+1.0	Russia	pay	transit tax impose	LOCATION	0
+0.8163753921758726	Belarus	cancel tax on	oil pass	LOCATION	0
+1.0	Mikhail Fradkov	have	counterpart Sergei Sidorsky	PERSON	O
+1.0	we negotiation	consider	interest of country	0	0
+1.0	it	collect from	refining oil	0	0
+0.9396984743018822	consider	interest of	country	0	0
+1.0	Germany	have	Council	ORGANIZATION	LOCATION
+1.0	Alexander Lukashenko	be	belarussian	PERSON	0
+1.0	duties	have	introduction	O	O
+0.8163753921758726	Belarus	cancel tax on	oil pass through Druzhba pipeline to Europe	LOCATION	MISC
+1.0	he	seek	concession	0	0
+1.0	its	have	turn	O	O
+1.0	Belarus	be	ready	LOCATION	0
+1.0	its ex-soviet neighbour	pump about	80,000 tonne	0	NUMBER
+0.8163753921758726	Belarus	cancel tax on	oil pass through Druzhba pipeline	LOCATION	MISC
+1.0	impasse	be break with	detail of resolution	0	0
+1.0	Belarus	have	union state	O	LOCATION
+1.0	its neighbour	first pump about	80,000 tonne	0	NUMBER
+1.0	impasse	be break after	telephone conversation	0	0

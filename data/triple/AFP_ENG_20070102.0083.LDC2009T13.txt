@@ -1,0 +1,40 @@
+1.0	THAAD missile	could	could deliver to Israel	0	LOCATION
+1.0	Arrow development cost	have	have split between Israel	0	LOCATION
+1.0	Ronald Regan	have	Wars project	O	PERSON
+1.0	Ronald Regan	have	Star Wars project	PERSON	0
+1.0	THAAD missile	could	could deliver in 2009	0	DATE
+1.0	Israel	be still develop arrow missile for	time be	LOCATION	0
+1.0	US missile defense system	resolve	number of technological bug	LOCATION	0
+1.0	Arrow development cost	have	have split equally between Israel	0	LOCATION
+1.0	Arrow project	begin as	part	MISC	0
+1.0	Israel	be still develop arrow missile for	time	LOCATION	0
+1.0	Arrow defense missiles	have	generation	O	O
+1.0	Arrow development cost	have	have split equally	0	0
+1.0	bugs	have	number	O	O
+1.0	Iran	have	Shihab-3	O	LOCATION
+1.0	THAAD missile	could	could deliver to Israel in 2009	0	LOCATION
+1.0	us-made thaad missile defense system	be in	the coming year	0	DATE
+1.0	Arrow project	begin in	1988	MISC	DATE
+1.0	Arrow development cost	have	since 1991 have split equally	0	DATE
+1.0	Israel	be develop	Arrow missile	LOCATION	MISC
+1.0	missiles	have	favour	O	O
+1.0	US missile defense system	resolve	number of bug	LOCATION	0
+1.0	Arrow project	begin with	80 percent	MISC	PERCENT
+1.0	Haaretz newspaper	report at_time	Tuesday	ORGANIZATION	DATE
+1.0	source	be in	Washington	0	LOCATION
+1.0	Arrow development cost	have	have split	0	0
+1.0	THAAD missile	could	could deliver	0	0
+1.0	Ronald Regan	be president of	the United States	PERSON	LOCATION
+1.0	Arrow development cost	have	since 1991 have split equally between Israel	0	LOCATION
+1.0	Israel	be develop arrow missile for	time be	LOCATION	0
+1.0	Israel	be still develop	Arrow missile	LOCATION	MISC
+1.0	US missile defense system	resolve	number	LOCATION	0
+1.0	Iran	to	shihab-3	LOCATION	0
+1.0	Arrow development cost	have	since 1991 have split between Israel	0	LOCATION
+1.0	generation	have	development	O	O
+1.0	last test	be in	December 2005	0	DATE
+1.0	Israel	have	Arrow defense missiles	O	O
+1.0	US president	have	part	O	O
+1.0	Israel	be develop arrow missile for	time	LOCATION	0
+1.0	Arrow development cost	have	since 1991 have split	0	DATE
+1.0	negotiation	be in	recent month	0	DURATION

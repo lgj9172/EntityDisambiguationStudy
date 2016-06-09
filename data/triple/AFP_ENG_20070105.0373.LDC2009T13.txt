@@ -1,0 +1,30 @@
+0.9747532849466276	seven	hurt in	series	NUMBER	0
+1.0	police official	say in	Guwahati	0	LOCATION
+1.0	three attack	occur in	adjoining Dibrugarh district	NUMBER	LOCATION
+1.0	attack	occur in	adjoining Dibrugarh district	0	LOCATION
+1.0	India	in	troubled northeastern state of Assam	LOCATION	LOCATION
+1.0	three attack	occur in	Tinsukia district	NUMBER	LOCATION
+1.0	attack	occur in	Dibrugarh district	0	LOCATION
+0.9747532849466276	seven	hurt in	India 's state	NUMBER	LOCATION
+1.0	attack	occur in	eastern Tinsukia district	0	LOCATION
+1.0	Assam	have	city	O	LOCATION
+0.9747532849466276	seven	hurt in	India 's troubled state	NUMBER	LOCATION
+1.0	Assam	have	largest city	LOCATION	0
+1.0	people	be	kill	0	0
+1.0	homeland	be in	tea	0	0
+0.9747532849466276	seven	hurt in	India 's state of Assam	NUMBER	LOCATION
+1.0	attack	occur in	Tinsukia district	0	LOCATION
+0.9747532849466276	seven	hurt in	India 's northeastern state	NUMBER	LOCATION
+0.9747532849466276	seven	hurt in	series of attack	NUMBER	0
+0.9747532849466276	seven	hurt in	India 's troubled state of Assam	NUMBER	LOCATION
+1.0	police official	say in	Assam 's city	0	LOCATION
+0.9747532849466276	seven	hurt at_time	Friday	NUMBER	DATE
+0.9747532849466276	seven	hurt in	India 's troubled northeastern state of Assam	NUMBER	LOCATION
+1.0	attacks	have	series	O	O
+0.9747532849466276	seven	hurt in	India 's troubled northeastern state	NUMBER	LOCATION
+1.0	three attack	occur in	eastern Tinsukia district	NUMBER	LOCATION
+1.0	India	have	state	O	LOCATION
+1.0	Assam	have	state	O	LOCATION
+0.9747532849466276	seven	hurt in	India 's northeastern state of Assam	NUMBER	LOCATION
+1.0	three attack	occur in	Dibrugarh district	NUMBER	LOCATION
+1.0	Asom group	have	United Liberation Front	ORGANIZATION	O

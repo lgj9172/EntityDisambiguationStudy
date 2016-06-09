@@ -1,0 +1,31 @@
+1.0	massachusetts-born	serve	connecticut-bred former congressman	0	0
+1.0	World War II veteran	be living at	82	MISC	NUMBER
+1.0	hip	have	replacement	O	O
+1.0	US President George W. Bush	undergo surgery for	replacement of he hip	PERSON	0
+1.0	massachusetts-born	also serve under	Ronald Reagan	0	PERSON
+1.0	massachusetts-born	serve as	diplomat	0	0
+1.0	massachusetts-born	also serve	former congressman	0	0
+1.0	US President George W. Bush	have	father	O	PERSON
+1.0	massachusetts-born	serve	diplomat	0	0
+1.0	Minnesota clinic	say in	statement	LOCATION	0
+1.0	World War II veteran	be oldest living at	82	MISC	NUMBER
+1.0	World War II veteran	be	living	MISC	0
+1.0	World War II veteran	be	oldest living	MISC	0
+1.0	massachusetts-born	serve	former congressman	0	0
+1.0	former president George Bush	undergo	successful hip replacement surgery	PERSON	0
+1.0	massachusetts-born	also serve	diplomat	0	0
+1.0	massachusetts-born	serve under	Ronald Reagan	0	PERSON
+1.0	former president George Bush	undergo	hip replacement surgery	PERSON	0
+1.0	US President George W. Bush	undergo	surgery	PERSON	0
+1.0	US President George W. Bush	undergo surgery for	replacement of he right hip on Wednesday	PERSON	DATE
+1.0	US President George W. Bush	be of	US	PERSON	LOCATION
+1.0	Mayo Clinic	announce at_time	Friday	ORGANIZATION	DATE
+1.0	US President George W. Bush	undergo surgery for	replacement	PERSON	0
+1.0	US President George W. Bush	have	hip	O	O
+1.0	US President George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	father of	US President George W. Bush	PERSON	PERSON
+1.0	his	have	hospital room	O	O
+1.0	US President George W. Bush	undergo surgery for	replacement of he hip on Wednesday	PERSON	DATE
+1.0	US President George W. Bush	undergo surgery for	replacement of he right hip	PERSON	0
+1.0	massachusetts-born	also serve as	diplomat	0	0
+1.0	massachusetts-born	also serve	connecticut-bred former congressman	0	0

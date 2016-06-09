@@ -1,0 +1,44 @@
+1.0	Alfredo Perez Rubalcaba	be minister of	Interior	PERSON	ORGANIZATION
+0.022365932509734954	separatist group	declare at_time	last year	0	DATE
+1.0	separatist group	declare ceasefire at_time	last year	0	DATE
+1.0	Batasuna	be	ban in 2003 by spanish judiciary	PERSON	DATE
+1.0	separatist group	declare ceasefire in	March	0	DATE
+1.0	Batasuna	be	ban	PERSON	0
+1.0	spanish government	respond to	Saturday 's car bomb attack	0	DATE
+1.0	it	hope	stand in municipal election	0	0
+0.022365932509734954	separatist group	declare in	its four-decade campaign	0	0
+1.0	Saturday	have	car bomb attack	O	DATE
+1.0	it	stand in	election	0	0
+1.0	political wing	say at_time	Wednesday	0	DATE
+1.0	process	be	critical	0	0
+1.0	Bayonne	have	town	O	LOCATION
+1.0	separatist group ETA	have	wing	O	ORGANIZATION
+1.0	Our	have	concern	O	O
+0.022365932509734954	separatist group	declare in	its four-decade campaign for independence	0	0
+1.0	Batasuna	be ban by	judiciary	PERSON	0
+1.0	separatist group	declare ceasefire in	its four-decade campaign	0	0
+1.0	Larralde	call for	side	PERSON	0
+1.0	separatist group	declare	ceasefire	0	0
+1.0	peace process	be with	Spain	0	LOCATION
+0.022365932509734954	separatist group	declare in	its campaign for independence	0	0
+0.022365932509734954	separatist group	declare in	its campaign	0	0
+1.0	we concern	be	reaffirm	0	0
+1.0	Batasuna	be	ban in 2003 by judiciary	PERSON	DATE
+1.0	it	stand in	municipal election	0	0
+1.0	wing	say at_time	Wednesday	0	DATE
+1.0	separatist group	declare ceasefire in	its campaign	0	0
+1.0	it	hope	stand	0	0
+1.0	Alfredo Perez Rubalcaba	be	Interior	PERSON	ORGANIZATION
+1.0	it	hope	stand in election	0	0
+1.0	Larralde	demonstrate	responsibility	PERSON	0
+1.0	Batasuna	be ban in	2003	PERSON	DATE
+1.0	government	respond to	Saturday 's car bomb attack	0	DATE
+1.0	Saturday	to	car bomb attack	DATE	0
+1.0	Batasuna	be ban by	spanish judiciary	PERSON	0
+1.0	the armed Basque separatist group ETA	be of	basque	ORGANIZATION	0
+0.022365932509734954	separatist group	declare in	March	0	DATE
+1.0	separatist group	declare ceasefire in	its campaign for independence	0	0
+1.0	its	have	campaign	O	O
+1.0	separatist group	declare ceasefire in	its four-decade campaign for independence	0	0
+0.022365932509734954	separatist group	declare at_time	year	0	DATE
+1.0	separatist group	declare ceasefire at_time	year	0	DATE

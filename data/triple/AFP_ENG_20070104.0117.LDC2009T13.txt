@@ -1,0 +1,46 @@
+1.0	Adam Air Boeing	go	miss	ORGANIZATION	0
+1.0	Sulawesi	on	northeast tip	LOCATION	0
+1.0	plane	be with	96 passenger	0	NUMBER
+1.0	Adam Air Boeing 737-400	miss on	Monday	NUMBER	DATE
+1.0	Adam Air Boeing	miss in	vicinity of Sulawesi island	ORGANIZATION	LOCATION
+1.0	Adam Air Boeing	go	miss on Monday	ORGANIZATION	DATE
+1.0	Polewali	have	northwest	O	LOCATION
+1.0	transport minister	say at_time	Thursday	0	DATE
+0.8828891789535348	wreckage	have	have find on mountain	0	0
+1.0	Adam Air Boeing 737-400	go	miss in vicinity	NUMBER	0
+1.0	Adam Air Boeing	miss on	Monday	ORGANIZATION	DATE
+1.0	help	have	offer	O	O
+1.0	Adam Air Boeing	go	miss in vicinity	ORGANIZATION	0
+1.0	Sulawesi	have	tip	O	LOCATION
+1.0	miss indonesian aircraft	be with	102 people	0	NUMBER
+1.0	Adam Air Boeing 737-400	go	miss on Monday	NUMBER	DATE
+0.6086502197837895	wreckage	jungle-covered mountain	survivor	0	0
+1.0	Singapore	have send	fokker-50 complete with search equipment	LOCATION	0
+1.0	Singapore	have send	fokker-50 complete	LOCATION	0
+0.8828891789535348	wreckage	have	have find	0	0
+1.0	Suyanto	tell reporter at_time	late Wednesday	PERSON	DATE
+1.0	Adam Air Boeing 737-400	go	miss on Monday in vicinity of Sulawesi island	NUMBER	LOCATION
+1.0	Suyanto	tell reporter at_time	Wednesday	PERSON	DATE
+1.0	Adam Air Boeing 737-400	go	miss on Monday in vicinity	NUMBER	DATE
+0.8828891789535348	wreckage	have	have find on jungle-covered mountain	0	0
+1.0	Adam Air Boeing 737-400	go	miss in vicinity of Sulawesi island	NUMBER	LOCATION
+0.6086502197837895	wreckage	mountain	survivor	0	0
+1.0	fokker-50	complete with	search equipment	0	0
+1.0	Adam Air Boeing	go	miss on Monday in vicinity	ORGANIZATION	DATE
+1.0	Adam Air Boeing 737-400	miss in	vicinity	NUMBER	0
+1.0	Boeing	be	four	ORGANIZATION	NUMBER
+1.0	Adam Air Boeing	go	miss on Monday in vicinity of Sulawesi island	ORGANIZATION	LOCATION
+1.0	Sulawesi island	have	vicinity	O	O
+1.0	Our	have	radars	O	O
+1.0	Suyanto	tell	reporter	PERSON	0
+1.0	Mamuju	have	waters	O	LOCATION
+1.0	Majene	have	waters	O	LOCATION
+1.0	massive air search	be	underway	0	0
+0.8828891789535348	wreckage	have	have find on jungle-covered mountain near Polewali	0	LOCATION
+0.8828891789535348	wreckage	have	have find on mountain near Polewali	0	LOCATION
+1.0	Polewali	be in	West Sulawesi	LOCATION	LOCATION
+1.0	Adam Air Boeing 737-400	go	miss	NUMBER	0
+1.0	Adam Air Boeing	go	miss in vicinity of Sulawesi island	ORGANIZATION	LOCATION
+1.0	air search	be	underway	0	0
+1.0	Adam Air Boeing	miss in	vicinity	ORGANIZATION	0
+1.0	Adam Air Boeing 737-400	miss in	vicinity of Sulawesi island	NUMBER	LOCATION

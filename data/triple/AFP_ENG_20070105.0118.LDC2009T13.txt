@@ -1,0 +1,10 @@
+1.0	SET 50 index	shed	14.26 point	NUMBER	NUMBER
+1.0	Thailand	have	Stock Exchange	ORGANIZATION	ORGANIZATION
+1.0	increase uncertainty	be in	market	0	0
+1.0	SET index	shed	14.26 point	0	NUMBER
+1.0	bomb attacks	have	government warnings	O	O
+1.0	Stock Exchange	lose	20.03 point	ORGANIZATION	NUMBER
+1.0	bluechip SET index	shed	14.26 point	0	NUMBER
+1.0	coup	have	bomb attacks	O	O
+1.0	rumours	have	government warnings	O	O
+1.0	bluechip SET 50 index	shed	14.26 point	NUMBER	NUMBER

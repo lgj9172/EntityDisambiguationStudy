@@ -1,0 +1,45 @@
+1.0	journalists	have	group	O	O
+1.0	German Interior Minister Wolfgang Schaeuble	host	informal meeting of EU justice	0	ORGANIZATION
+1.0	world	have	parts	O	O
+1.0	battle cooperation	will	will high on agenda at meeting	0	0
+1.0	German Interior Minister Wolfgang Schaeuble	prepare at_time	week	0	DATE
+1.0	battle cooperation	will	will high on agenda at next week 's meeting	0	DATE
+1.0	German Interior Minister Wolfgang Schaeuble	prepare at_time	next week	0	DATE
+1.0	achievements	have	rule	O	O
+1.0	woman	be in	muslim community	0	0
+1.0	increase dialogue	be with	cleric	0	0
+1.0	German Interior Minister Wolfgang Schaeuble	host meeting in	Dresden	0	LOCATION
+1.0	German Interior Minister Wolfgang Schaeuble	host	meeting	0	0
+1.0	German Interior Minister Wolfgang Schaeuble	have	comments	O	O
+0.8851937595353463	full-body garment	wear by	woman	0	0
+1.0	may way	make	contribution	DATE	0
+1.0	headscarves	have	question	O	O
+1.0	German Interior Minister Wolfgang Schaeuble	host	informal meeting	0	0
+1.0	this	may	may way	0	DATE
+0.8851937595353463	garment	wear by	woman	0	0
+1.0	question	be	personal	0	0
+1.0	population	have	percent	PERCENT	O
+0.8851937595353463	garment	wear by	woman in muslim community	0	0
+1.0	Enlightenment	have	Age	MISC	MISC
+1.0	enlightenment	have	achievements	O	O
+1.0	Wolfgang Schaeuble	be	german	PERSON	0
+1.0	German Interior Minister Wolfgang Schaeuble	have	opposition	O	O
+1.0	he comment	come at_time	day	0	0
+0.8851937595353463	full-body garment	wear by	woman in muslim community	0	0
+1.0	he	advocate	training imam	0	0
+1.0	German Interior Minister Wolfgang Schaeuble	host	meeting of EU justice	0	ORGANIZATION
+1.0	Islam	have	aspect	O	MISC
+1.0	Germany	assume	rotate EU presidency	LOCATION	ORGANIZATION
+0.8851937595353463	garment	wear by	woman in community	0	0
+1.0	battle cooperation	will	will high on agenda	0	0
+0.8851937595353463	full-body garment	wear by	woman in community	0	0
+1.0	Jack Straw	be secretary of	foreign	PERSON	ORGANIZATION
+1.0	law	have	rule	O	O
+1.0	EU justice	have	meeting	O	O
+1.0	battle cooperation	will	will high	0	0
+1.0	Germany	assume	EU presidency	LOCATION	ORGANIZATION
+1.0	rights	have	rule	O	O
+1.0	battle cooperation	will	will high on agenda at week 's meeting	0	DATE
+1.0	Jack Straw	be to	british	PERSON	0
+1.0	Jack Straw	be to	foreign	PERSON	ORGANIZATION
+1.0	interior ministers	have	meeting	O	O

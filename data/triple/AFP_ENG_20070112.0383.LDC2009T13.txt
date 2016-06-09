@@ -1,0 +1,48 @@
+1.0	leader	call on	worshipper pray follow mulsim prayer	0	0
+1.0	leader	call on	worshipper pray	0	0
+1.0	worshipper	pray for	rain	0	0
+1.0	country	experience	drought condition	0	0
+1.0	Council	be ask	worshipper up	0	0
+1.0	ministry	have ask	muslim worshipper	ORGANIZATION	0
+1.0	leader	call on	worshipper pray follow mulsim prayer on Friday	0	DATE
+1.0	leader	call on	worshipper pray for rain follow prayer	0	0
+1.0	27 percent drop	be in	rainfall	PERCENT	0
+1.0	country	experience	27 percent drop	0	PERCENT
+1.0	country	experience	27 percent drop in rainfall	0	PERCENT
+1.0	worshipper	unite give	give map	0	0
+0.886270312048924	worshipper	up	country	0	0
+1.0	2006	have	quarter	DATE	DATE
+1.0	leader	call on	worshipper pray for rain Saturday follow prayer on Friday	0	DATE
+1.0	leader	call on	worshipper pray Saturday follow mulsim prayer	0	DATE
+1.0	Council	be ask	worshipper up country	0	0
+1.0	ministry	evoke passage in	its request	0	0
+1.0	leader	call on	worshipper	0	0
+1.0	leader	call on	worshipper pray Saturday follow prayer on Friday	0	DATE
+1.0	leader	call on	worshipper pray Saturday	0	DATE
+0.6766814942174457	time rain	be	scarce	0	0
+1.0	leader	call on	worshipper pray for rain	0	0
+1.0	leader	call on	worshipper pray for rain Saturday follow mulsim prayer on Friday	0	DATE
+1.0	muslim worshipper	pray for	rain on Friday	0	DATE
+1.0	leader	call on	worshipper pray Saturday follow mulsim prayer on Friday	0	DATE
+1.0	leader	call on	worshipper pray for rain follow prayer on Friday	0	DATE
+1.0	Morocco	of	Jews	LOCATION	MISC
+1.0	leader	call on	worshipper pray for rain Saturday follow mulsim prayer	0	DATE
+1.0	muslim worshipper	pray for	rain	0	0
+1.0	leader	call on	worshipper pray follow prayer	0	0
+1.0	ministry	have ask	worshipper	ORGANIZATION	0
+1.0	Moroccan Jewish Communities	have	Council	O	O
+1.0	leader	call on	worshipper pray for rain Saturday	0	DATE
+1.0	Morocco	have	Jews	MISC	LOCATION
+1.0	leader	call on	worshipper pray for rain follow mulsim prayer on Friday	0	DATE
+1.0	worshipper	pray for	rain on Friday	0	DATE
+1.0	Jews	have	Leaders	O	MISC
+1.0	whom	have	2,000	NUMBER	O
+1.0	Earlier this week	have	request	O	O
+1.0	worshipper	unite give	give map on Friday	0	DATE
+1.0	ministry	evoke	passage	0	0
+1.0	leader	call on	worshipper pray follow prayer on Friday	0	DATE
+1.0	leader	call on	worshipper pray for rain follow mulsim prayer	0	0
+1.0	Council	be ask	worshipper	0	0
+1.0	leader	call on	worshipper pray for rain Saturday follow prayer	0	DATE
+1.0	leader	call on	worshipper pray Saturday follow prayer	0	DATE
+1.0	affairs	have	ministry	ORGANIZATION	O

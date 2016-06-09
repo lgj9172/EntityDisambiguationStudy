@@ -1,0 +1,47 @@
+1.0	Walter Smith	have	capture	O	PERSON
+1.0	Smith `` for breach of contract ''	be	present	PERSON	0
+1.0	Glasgow Rangers	agree	compensation deal	ORGANIZATION	0
+1.0	Smith `` for breach of contract ''	be	present as Rangers in afternoon on Wednesday	PERSON	TIME
+1.0	payment	be	set	0	0
+1.0	briefly	be with	David Taylor	0	PERSON
+1.0	pounds	have	region	O	MONEY
+1.0	Smith `` for breach of contract ''	have	request	O	PERSON
+1.0	SFA	take action against	Smith	0	PERSON
+1.0	contract	have	breach	O	O
+1.0	SFA	take action for	inducement	0	0
+1.0	Smith `` for breach of contract ''	resign on	visit	PERSON	0
+1.0	Smith `` for breach of contract ''	meet at_time	morning	PERSON	TIME
+1.0	Smith `` for breach of contract ''	be	present as Rangers in afternoon	PERSON	TIME
+0.601248313716034	Glasgow Rangers	agree with	scottish Football Association	ORGANIZATION	ORGANIZATION
+1.0	Glasgow Rangers	agree compensation deal with	Football Association	ORGANIZATION	ORGANIZATION
+1.0	Smith `` for breach of contract ''	meet on	Wednesday	PERSON	DATE
+1.0	Smith	have	decision	O	PERSON
+1.0	Smith `` for breach of contract ''	meet briefly at_time	morning	PERSON	TIME
+1.0	Glasgow Rangers	agree compensation deal with	scottish Football Association	ORGANIZATION	ORGANIZATION
+1.0	Smith `` for breach of contract ''	resign on	quick visit	PERSON	0
+1.0	SFA	take action against	Smith for breach	0	PERSON
+1.0	payment	be	when set	0	0
+1.0	Smith `` for breach of contract ''	be present in	afternoon on Wednesday	PERSON	TIME
+1.0	Glasgow Rangers	prevent fallout from	capture	ORGANIZATION	0
+1.0	Glasgow Rangers on Thursday	be understand	have agree	0	0
+1.0	payment	be	ratify	0	0
+1.0	Glasgow Rangers	prevent	fallout	ORGANIZATION	0
+1.0	Smith `` for breach of contract ''	be present in	afternoon	PERSON	TIME
+1.0	SFA board	be	meet	ORGANIZATION	0
+1.0	Glasgow Rangers	agree	compensation deal believe	ORGANIZATION	0
+1.0	Glasgow Rangers	be on	Thursday	ORGANIZATION	DATE
+1.0	Glasgow Rangers	prevent fallout from	capture of Walter Smith	ORGANIZATION	PERSON
+1.0	payment	be set	ratify	0	0
+1.0	payment	be in	region of 400,000 pound	0	MONEY
+1.0	SFA	take	legal action	0	0
+1.0	Smith `` for breach of contract ''	meet briefly on	Wednesday	PERSON	DATE
+1.0	SFA	take action against	Smith for breach of contract	0	PERSON
+0.601248313716034	Glasgow Rangers	agree with	Football Association	ORGANIZATION	ORGANIZATION
+1.0	Glasgow Rangers on Thursday	be	understand	0	0
+1.0	Smith `` for breach of contract ''	hand in	resignation letter	PERSON	0
+1.0	his	have	contract	O	O
+1.0	SFA	take	action	0	0
+1.0	Smith `` for breach of contract ''	resign at	Hampden Park	PERSON	LOCATION
+1.0	Smith	follow	decision quit	PERSON	0
+1.0	Smith `` for breach of contract ''	resign to	SFA headquarters	PERSON	DURATION
+1.0	Smith `` for breach of contract ''	be present as	Glasgow Rangers on Thursday	PERSON	DURATION

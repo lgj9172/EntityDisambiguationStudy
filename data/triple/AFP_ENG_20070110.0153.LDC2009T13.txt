@@ -1,0 +1,96 @@
+1.0	haul budget airline Oasis	have	performance	O	O
+1.0	Hong Kong	be	generally stronger business destination than	LOCATION	0
+1.0	their	have	hub	O	O
+1.0	haul budget airline Oasis	have	service	O	O
+1.0	flight connections	have	go	O	O
+0.8876057089604859	Oasis	have in	have talk for connection	ORGANIZATION	0
+1.0	Stephen Miller	say in	have talk for connection to rest	PERSON	0
+1.0	Hong Kong	be	much stronger business destination	LOCATION	0
+1.0	Malaysia Airlines	return after	five consecutive quarter of loss	ORGANIZATION	NUMBER
+1.0	hold-up	be in	approval	0	0
+1.0	haul budget airline Oasis	make	you arrangement	0	0
+1.0	have talk	be with	UK budget airline easyJet	0	LOCATION
+1.0	flight delays	have	reports	O	O
+1.0	we	need	easyJet on regular basis	0	0
+0.8876057089604859	Oasis	have in	have talk with UK budget airline easyJet for connection to rest of Europe America	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	return after	five consecutive quarter	ORGANIZATION	NUMBER
+1.0	Hong Kong	be	generally stronger business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	carrier	launch	its service	0	0
+1.0	Stephen Miller	say in	have talk for connection	PERSON	0
+1.0	Travellers	go from	Hong Kong	0	LOCATION
+1.0	Europe North America	have	rest	O	LOCATION
+1.0	low-cost carrier	launch	its first service	0	ORDINAL
+0.8876057089604859	Oasis	have in	have talk for connection to rest	ORGANIZATION	0
+1.0	low-cost carrier	launch	its service	0	0
+1.0	week	be in	advance	0	0
+1.0	we	need	easyJet	0	0
+1.0	Travellers	go from	Hong Kong to else too	0	LOCATION
+0.8876057089604859	Oasis	have in	have talk with UK budget airline easyJet for connection	ORGANIZATION	LOCATION
+1.0	Hong Kong	be	generally business destination than	LOCATION	0
+1.0	Malaysia Airlines	return after	five quarter	ORGANIZATION	NUMBER
+1.0	Stephen Miller	say in	have talk	PERSON	0
+1.0	Stephen Miller	say in	have talk with UK budget airline easyJet	PERSON	LOCATION
+1.0	its	have	flight connections	O	O
+1.0	Hong Kong	be	stronger business destination	LOCATION	0
+1.0	Travellers	usually go from	Hong Kong to else too	0	LOCATION
+1.0	losses	have	quarters	O	O
+1.0	Hong Kong	be	business destination than	LOCATION	0
+1.0	Hong Kong	be	generally business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	Our	have	target	O	O
+1.0	Hong Kong	be	generally stronger business destination	LOCATION	0
+1.0	Hong Kong	be	business destination	LOCATION	0
+1.0	Stephen Miller	say in	have talk with UK budget airline easyJet for connection to rest of Europe America	PERSON	LOCATION
+1.0	company	have	expectation	0	0
+0.8876057089604859	Oasis	have in	have talk for connection to rest of Europe America	ORGANIZATION	LOCATION
+1.0	Malaysia	have	market	O	LOCATION
+1.0	Hong Kong	will	will launch	LOCATION	DURATION
+1.0	London	to	Gatwick Airport	LOCATION	LOCATION
+1.0	24 hours	have	flight	O	O
+1.0	California	have	Oakland	LOCATION	LOCATION
+1.0	percent	have	load factor	O	PERCENT
+1.0	Hong Kong	be	stronger business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	Hong Kong	be	much stronger business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	Travellers	usually go from	Hong Kong to somewhere else	0	LOCATION
+1.0	Hong Kong	be	generally much stronger business destination	LOCATION	0
+1.0	carrier	launch	its first service	0	ORDINAL
+1.0	California	to	Oakland	LOCATION	LOCATION
+1.0	our	have	number	O	O
+1.0	Malaysia Airlines	return at_time	last November	ORGANIZATION	DATE
+1.0	Hong Kong long	will	will launch in June	LOCATION	DATE
+0.8876057089604859	Oasis	have in	have talk with UK budget airline easyJet	ORGANIZATION	LOCATION
+1.0	Stephen Miller	say in	have talk for connection to rest of Europe America	PERSON	LOCATION
+1.0	Travellers	usually go from	Hong Kong	0	LOCATION
+1.0	our	have	bookings	O	O
+1.0	Hong Kong	be	stronger business destination than	LOCATION	0
+1.0	Hong Kong	be	generally much stronger business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	our	have	website	O	O
+1.0	budget carrier AirAsia X	have	launch	O	ORGANIZATION
+1.0	Hong Kong	be	much stronger business destination than	LOCATION	0
+0.8876057089604859	Oasis	have in	have talk	ORGANIZATION	0
+1.0	Hong Kong	will	will launch in June	LOCATION	DATE
+1.0	October	have	end	DATE	DATE
+1.0	Travellers	usually go from	Hong Kong to somewhere else too	0	LOCATION
+1.0	Hong Kong	be	generally business destination	LOCATION	0
+1.0	Hong Kong long	will	will launch	LOCATION	DURATION
+1.0	Miller	say despite	launch	PERSON	0
+1.0	Travellers	go from	Hong Kong to else	0	LOCATION
+1.0	employees	have	number	O	O
+1.0	Hong Kong	be	generally much stronger business destination than	LOCATION	0
+1.0	Kong	be	stronger	LOCATION	0
+1.0	The low-cost carrier	have	service	O	O
+1.0	your	have	arrangement	O	O
+1.0	Stephen Miller	say in	have talk with UK budget airline easyJet for connection	PERSON	LOCATION
+1.0	Hong Kong	be	business destination than in Kuala Lumpur	LOCATION	LOCATION
+1.0	people	have	lot	O	O
+1.0	Travellers	go from	Hong Kong to somewhere else	0	LOCATION
+1.0	Malaysia Airlines	return to	profitability	ORGANIZATION	0
+1.0	Malaysia Airlines	return at_time	November	ORGANIZATION	DATE
+1.0	Travellers	usually go from	Hong Kong to else	0	LOCATION
+1.0	Stephen Miller	say in	have talk with UK budget airline easyJet for connection to rest	PERSON	LOCATION
+0.8876057089604859	Oasis	have in	have talk with UK budget airline easyJet for connection to rest	ORGANIZATION	LOCATION
+1.0	London	have	Gatwick Airport	LOCATION	LOCATION
+1.0	company	have	expectations	O	O
+1.0	we	need	easyJet on basis	0	0
+1.0	haul budget airline Oasis	make	you own arrangement	0	0
+1.0	Travellers	go from	Hong Kong to somewhere else too	0	LOCATION
+1.0	Malaysia Airlines	return after	five quarter of loss	ORGANIZATION	NUMBER

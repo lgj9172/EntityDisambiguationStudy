@@ -1,0 +1,139 @@
+1.0	Nepal	have	constitution	LOCATION	0
+1.0	Nepal	have	parliament	O	LOCATION
+1.0	interim parliament	decide	future	0	DATE
+1.0	Society	divide along	line	0	0
+1.0	new delegate	will change	make-up	0	0
+1.0	interim parliament	also decide	future	0	DATE
+1.0	monarchy	establish	communist republic in 1996	0	DATE
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate late Thursday	PERSON	DATE
+1.0	Society	remain	divide	0	0
+1.0	party	have	policy	O	O
+1.0	plains region	have	residents	O	O
+0.13578433017498404	interim parliament due	will begin on	key maoist demand	0	0
+1.0	rebel	be give	73 seat in parliament	0	NUMBER
+1.0	parliament due	also decide	future of monarchy	0	DATE
+1.0	interim parliament due	also decide	future	0	DATE
+0.13578433017498404	parliament	will begin on	election	0	0
+1.0	Society	remain	divide along line	0	0
+1.0	high-caste male	have dominate	business	0	0
+1.0	people	have	percent	PERCENT	O
+1.0	parliament	also decide	future of monarchy	0	DATE
+1.0	Nepal 's Maoists	begin	people 's war aim	LOCATION	0
+1.0	party	have	leadership	O	O
+1.0	new delegate	will radically change	make-up of Nepal 's parliament	0	LOCATION
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	Society	remain	strictly divide	0	0
+1.0	Maoist 's communist ideology	have prove to	many marginalised group	MISC	0
+1.0	monarchy	establish	republic in 1996	0	DATE
+1.0	delegate	will radically change	make-up	0	0
+1.0	monarchy	have	future	DATE	O
+1.0	male	have dominate	business	0	0
+1.0	rebel	be give	73 seat	0	NUMBER
+1.0	rebel	sign	peace deal	0	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate Thursday	PERSON	DATE
+1.0	interim parliament due	decide	future	0	DATE
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate late Thursday with leader Prachanda	PERSON	DATE
+1.0	communist republic	be in	1996	0	DATE
+1.0	Society	remain	strictly divide along line	0	0
+0.13578433017498404	interim parliament	will begin on	demand	0	0
+1.0	Maoist spokesman	say at_time	Friday	MISC	DATE
+1.0	society	have	sectors	O	O
+1.0	parliament due	decide	future of monarchy	0	DATE
+1.0	monarchy	establish	communist republic	0	0
+1.0	Nepal	have	Maoists	MISC	LOCATION
+1.0	Society	remain	strictly divide along gender line	0	0
+1.0	people	be	kill	0	0
+1.0	interim parliament	also decide	future of monarchy	0	DATE
+1.0	The new delegates announced by the Maoists	have	best	O	O
+1.0	Nepal	of	parliament	LOCATION	0
+1.0	Society	be in	majority-hindu country	0	0
+1.0	Society	remain	divide along gender line	0	0
+1.0	their	have	weapons	O	O
+1.0	parliament	decide	future of monarchy	0	DATE
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel Thursday with leader Prachanda	PERSON	DATE
+1.0	83 seat	be in	new 330 seat parliament	NUMBER	NUMBER
+0.13578433017498404	parliament	will begin on	key maoist demand	0	0
+1.0	parliament due	decide	future	0	DATE
+0.13578433017498404	parliament	will begin on	demand	0	0
+0.13578433017498404	parliament due	will begin on	demand	0	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel with leader Prachanda	PERSON	PERSON
+0.13578433017498404	interim parliament	will begin on	key demand	0	0
+1.0	parliament	decide	future	0	DATE
+1.0	party	as per	policy	0	0
+1.0	interim parliament	decide	future of monarchy	0	DATE
+1.0	positions	have	any	O	O
+1.0	The new delegates announced by the Maoists	have	party	O	O
+1.0	monarchy	establish	republic	0	0
+1.0	Krishna Bahadur Mahara	tell	afp	PERSON	0
+1.0	UN monitors	have	team	O	O
+1.0	rebel	sign	comprehensive peace deal	0	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate Thursday with leader Prachanda	PERSON	DATE
+1.0	deal	have	part	O	O
+1.0	people	have	war aim	0	0
+1.0	delegate	will change	make-up of Nepal 's parliament	0	LOCATION
+1.0	high-caste male	have traditionally dominate	business	0	0
+1.0	Maoist	have	communist ideology	MISC	0
+1.0	parliament	also decide	future	0	DATE
+0.7801771903330815	new delegate	announce by	Maoists	0	MISC
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group	PERSON	0
+0.13578433017498404	interim parliament due	will begin on	key demand	0	0
+1.0	new delegate	will radically change	make-up	0	0
+1.0	parliament due	also decide	future	0	DATE
+0.13578433017498404	parliament due	will begin on	key demand	0	0
+1.0	rebel	be initially give	73 seat in parliament	0	NUMBER
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel late Thursday with leader Prachanda	PERSON	DATE
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel	PERSON	0
+1.0	Nepal	have	people	O	LOCATION
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate	PERSON	0
+1.0	Maoist 's ideology	have prove to	marginalised group	MISC	0
+0.8335758111624182	establish	republic in	1996	0	DATE
+1.0	Nepal	have	constitution	O	LOCATION
+1.0	new delegate	will change	make-up of Nepal 's parliament	0	LOCATION
+1.0	Nepal	of	27 million people	LOCATION	NUMBER
+0.13578433017498404	interim parliament due	will begin on	election	0	0
+1.0	women	have	some	O	O
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate with leader Prachanda	PERSON	PERSON
+0.13578433017498404	interim parliament	will begin on	maoist demand	0	0
+1.0	legislators	have	pool	O	O
+0.13578433017498404	parliament	will begin on	key demand	0	0
+0.13578433017498404	interim parliament	will begin on	key maoist demand	0	0
+1.0	party	have	top leadership	0	0
+0.13578433017498404	interim parliament due	will begin on	maoist demand	0	0
+1.0	interim parliament due	also decide	future of monarchy	0	DATE
+1.0	rebel	have agree as	part	0	0
+1.0	Maoist	have	ideology	O	MISC
+0.13578433017498404	interim parliament	will begin on	election	0	0
+1.0	rebel	have agree as	part of deal	0	0
+0.13578433017498404	parliament due	will begin on	maoist demand	0	0
+0.13578433017498404	interim parliament due	will begin on	demand	0	0
+1.0	people	have	war	O	O
+1.0	rebel	be initially give	73 seat	0	NUMBER
+0.7801771903330815	delegate	announce by	Maoists	0	MISC
+1.0	Nepal 's Maoists	begin	people 's war	LOCATION	0
+1.0	Society	strictly divide along	gender line	0	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel Thursday	PERSON	DATE
+0.13578433017498404	parliament due	will begin on	key maoist demand	0	0
+1.0	Maoist 's communist ideology	have prove to	marginalised group	MISC	0
+1.0	former rebel	be grant	83 seat in new 330 seat parliament	0	NUMBER
+1.0	Maoist 's ideology	have prove to	many marginalised group	MISC	0
+1.0	parliament	have	make-up	O	O
+0.8335758111624182	establish	communist republic in	1996	0	DATE
+1.0	interim parliament due	decide	future of monarchy	0	DATE
+0.13578433017498404	parliament	will begin on	maoist demand	0	0
+1.0	73 seat	be in	parliament	NUMBER	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	tell	AFP	PERSON	ORGANIZATION
+1.0	many marginalised groups	have	party structure	O	O
+0.13578433017498404	parliament due	will begin on	election	0	0
+1.0	delegate	will change	make-up	0	0
+1.0	rebel	place	they weapon	0	0
+1.0	delegate	will radically change	make-up of Nepal 's parliament	0	LOCATION
+1.0	some	be from	dalit group	0	0
+1.0	Society	strictly divide along	line	0	0
+1.0	Krishna Bahadur Mahara the Maoist spokesman	will lead	group nominate by rebel late Thursday	PERSON	DATE
+1.0	former rebel	be grant	83 seat	0	NUMBER
+1.0	Society	divide along	gender line	0	0
+1.0	former rebel	be grant	83 seat in 330 seat parliament	0	NUMBER
+1.0	people	have	nine	NUMBER	O
+1.0	rebel	sign	government	0	0
+1.0	Nepal	have	Maoists	LOCATION	MISC
+1.0	male	have traditionally dominate	business	0	0

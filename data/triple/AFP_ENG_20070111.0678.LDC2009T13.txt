@@ -1,0 +1,84 @@
+1.0	festival	have	curator	O	O
+1.0	William Shakespeare	have	influence	O	O
+1.0	world	to	most famous playwright	0	0
+1.0	Shakespeare Theatre Company	have	director	O	ORGANIZATION
+1.0	Night	have	Dream	O	TIME
+1.0	festival	will include	500 event	0	NUMBER
+1.0	ninja figure	embody	assorted dime-store figure	0	0
+1.0	ninja figure	embody character in	Hamlet	0	0
+1.0	his	have	impact	O	O
+1.0	Shakespeare	be in	Washington	0	LOCATION
+1.0	miniature ninja figure	embody character in	Hamlet	0	0
+1.0	several Washington museum	be also hold	event related to Shakespeare	LOCATION	PERSON
+1.0	Washington museum	be also hold	event related	LOCATION	0
+1.0	festival	will include	500 event range from play	0	NUMBER
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	it	be imaginative in	term	0	0
+1.0	several Washington museum	be also hold	event	LOCATION	0
+1.0	Washington museum	be also hold	event	LOCATION	0
+1.0	miniature ninja figure	embody	character	0	0
+1.0	it	be imaginative in	term of breadth	0	0
+1.0	edginess	have	European	MISC	O
+1.0	festival	will include	500 event range	0	NUMBER
+1.0	it	be very imaginative in	term	0	0
+1.0	ninja figure	embody	other dime-store figure	0	0
+1.0	US capital	be celebrate genius with	unprecedented festival	ORGANIZATION	0
+1.0	film	relate to	world famous playwright	0	0
+1.0	miniature ninja figure	embody	dime-store figure	0	0
+1.0	entries	have	lot	O	O
+1.0	William Shakespeare	have	genius	O	PERSON
+1.0	Tempest	have	production	O	O
+1.0	it	be	imaginative	0	0
+1.0	Shakespeare Theatre Company	be in	Washington	ORGANIZATION	LOCATION
+1.0	Washington museum	be hold	event	LOCATION	0
+1.0	Michael Kaiser	be president of	Kennedy Center	PERSON	ORGANIZATION
+1.0	miniature ninja figure	embody	assorted dime-store figure	0	0
+1.0	Washington museum	be also hold	event related to Shakespeare	LOCATION	PERSON
+1.0	Michael Kaiser	be	Kennedy Center	PERSON	ORGANIZATION
+1.0	plays	have	portrayals	O	O
+1.0	Kennedy	have	performance	O	PERSON
+1.0	influence	have	all	O	O
+1.0	Michael Kahn , artistic director of the Shakespeare Theatre Company in Washington and curator of the festival	tell	afp	PERSON	0
+1.0	ninja figure	embody	other assorted dime-store figure	0	0
+1.0	several Washington museum	be also hold	event related	LOCATION	0
+1.0	Hamlet	have	trial	O	O
+1.0	several Washington museum	be hold	event related to Shakespeare	LOCATION	PERSON
+1.0	course	have	thrilled	O	O
+1.0	film	relate to	world playwright	0	0
+1.0	ninja figure	embody	dime-store figure	0	0
+1.0	Anthony Kennedy	be justice of	the US Supreme Court	PERSON	ORGANIZATION
+1.0	people	have	thousands	O	O
+1.0	it	be	very imaginative	0	0
+1.0	miniature ninja figure	embody	other assorted dime-store figure	0	0
+1.0	Kennedy	have	already sold-out March 15 performance at Kennedy Center	ORGANIZATION	ORGANIZATION
+1.0	several Washington museum	be hold	event	LOCATION	0
+1.0	Anthony Kennedy	production of	Tempest by canadian group	PERSON	0
+1.0	Russia	like	Kirov Ballet	LOCATION	LOCATION
+1.0	US capital	be celebrate genius with	festival	ORGANIZATION	0
+1.0	world	have	playwright	O	O
+1.0	plays	have	Many	O	O
+1.0	US capital	be celebrate genius with	six-month festival	ORGANIZATION	DURATION
+1.0	it	be very imaginative in	term of breadth	0	0
+0.485512446603176	500 event	range from	play	NUMBER	0
+1.0	US Supreme Court	have	member	O	ORGANIZATION
+1.0	US capital	be celebrate	genius	ORGANIZATION	0
+1.0	Shakespeare	have	plays	O	PERSON
+1.0	Russia	have	Kirov Ballet	LOCATION	LOCATION
+1.0	US capital	be celebrate genius with	unprecedented six-month festival	ORGANIZATION	DURATION
+1.0	miniature ninja figure	embody	other dime-store figure	0	0
+1.0	film	relate to	world most famous playwright	0	0
+1.0	US capital	be celebrate	genius of William Shakespeare	ORGANIZATION	PERSON
+1.0	Michael Kahn , artistic director of the Shakespeare Theatre Company in Washington and curator of the festival	director of	Shakespeare Theatre Company	PERSON	ORGANIZATION
+1.0	curator	have	director	O	O
+1.0	William Shakespeare	have	works	O	PERSON
+1.0	night	have	dream by New York City Ballet	0	LOCATION
+1.0	The `` Shakespeare in Washington '' festival running through June	have	part	O	O
+1.0	festival	be in	other art form	0	0
+1.0	performance	have	production	O	O
+1.0	quirkiness	have	European	MISC	O
+1.0	ninja figure	embody	character	0	0
+1.0	Washington museum	be hold	event related to Shakespeare	LOCATION	PERSON
+1.0	lot	have	edginess	O	O
+1.0	breadth	have	terms	O	O
+1.0	Washington museum	be hold	event related	LOCATION	0
+1.0	several Washington museum	be hold	event related	LOCATION	0

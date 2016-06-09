@@ -1,0 +1,136 @@
+1.0	John Abizaid	be at	US Central command	PERSON	ORGANIZATION
+1.0	unpopular US war	be in	Iraq	LOCATION	LOCATION
+1.0	Petraeus	be	praise	PERSON	0
+0.5839789631894649	report plan	increase	number	0	0
+1.0	he	would oversee us force as	head	0	0
+1.0	US Pacific Command	have	head	O	ORGANIZATION
+1.0	US President George W. Bush	announce at_time	Friday	0	DATE
+1.0	Petraeus	serve as	commander	PERSON	0
+1.0	Petraeus	be	widely praise	PERSON	0
+1.0	US official	tell	ABC	LOCATION	ORGANIZATION
+1.0	US President George W. Bush	could announce increase on	order	PERSON	0
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	Petraeus	be widely praise for	he work	PERSON	0
+1.0	ABC	say as	naval officer	ORGANIZATION	0
+0.6018859724623673	US President George W. Bush	director of	National Intelligence John Negroponte	0	PERSON
+1.0	George Casey	commander in	Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	pursue	aggressive overhaul among he top aide	PERSON	0
+1.0	ABC	be television network of	the United States	ORGANIZATION	ORGANIZATION
+1.0	Abizaid , 55	announce at_time	month	PERSON	DATE
+1.0	Casey , 58	be	58	PERSON	NUMBER
+1.0	US President George W. Bush	be expect	announce Friday	0	DATE
+1.0	Petraeus 54	serve at	Fort Leavenworth	NUMBER	LOCATION
+1.0	he	be in	from June 2004 charge	0	DATE
+1.0	US President George W. Bush	pursue	overhaul among he top military aide	PERSON	0
+1.0	Petraeus	currently serve as	commander of US Army Combined arm Center	PERSON	ORGANIZATION
+1.0	US President George W. Bush	appoint	two top commander for Iraq	LOCATION	NUMBER
+1.0	Petraeus	currently serve at	Kansas	PERSON	LOCATION
+1.0	US President George W. Bush	could announce	increase of US force	PERSON	LOCATION
+1.0	he	would oversee us force from	North Africa to Central Asia	0	LOCATION
+0.5839789631894649	report plan	increase	number of US troops	0	LOCATION
+0.5839789631894649	report plan	increase number in	Iraq	0	LOCATION
+1.0	US President George W. Bush	appoint	two new commander	LOCATION	NUMBER
+1.0	Abizaid , 55	be	55	PERSON	NUMBER
+1.0	charge	train	iraqi Army	0	ORGANIZATION
+1.0	William Fallon	have	appointment	O	PERSON
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	Central Command	have	head	O	ORGANIZATION
+1.0	William Fallon	head of	US Pacific command	PERSON	ORGANIZATION
+1.0	US President George W. Bush	have	aides	O	O
+1.0	Petraeus 54	currently serve as	commander of US Army Combined arm Center	NUMBER	ORGANIZATION
+1.0	he	be in	from June 2004 to September 2005 charge	0	DATE
+0.5839789631894649	plan	increase number of us troops from	current 140,000	0	NUMBER
+1.0	Mosul	have	city	O	LOCATION
+1.0	he	would oversee us force from	North Africa	0	LOCATION
+1.0	he	would oversee us force as	head of Central command	0	LOCATION
+1.0	Petraeus 54	serve as	commander of US Army Combined arm Center	NUMBER	ORGANIZATION
+1.0	NATO	have	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	he	be in	charge	0	0
+0.5839789631894649	report plan	increase number from	current 140,000	0	NUMBER
+1.0	US forces	have	increase	O	O
+0.11056553347562792	US President George W. Bush	move to	Secretary	0	0
+1.0	troops	have	order	O	O
+0.6564807714741797	increase	number of	US troops	0	LOCATION
+1.0	US military commander	be in	Iraq	LOCATION	LOCATION
+1.0	US President George W. Bush	move	director of National Intelligence John Negroponte	0	PERSON
+0.5839789631894649	report plan	increase number of us troops from	current 140,000	0	NUMBER
+1.0	Petraeus 54	serve at	Kansas	NUMBER	LOCATION
+1.0	9,000 40,000 extra troops	be in	bid	NUMBER	0
+0.11056553347562792	US President George W. Bush	move as	deputy	0	0
+1.0	US President George W. Bush	appoint	two top commander	LOCATION	NUMBER
+1.0	Petraeus	serve at	Fort Leavenworth	PERSON	LOCATION
+1.0	US President George W. Bush	pursue	aggressive overhaul among he top military aide	PERSON	0
+1.0	US President George W. Bush	end	sectarian strife	PERSON	0
+1.0	US President George W. Bush	move director to	State Department	0	ORGANIZATION
+1.0	US President George W. Bush	pursue	overhaul	PERSON	0
+1.0	Petraeus 54	serve as	commander	NUMBER	0
+1.0	shift	be in	strategy	0	0
+1.0	US Army Combined Arms Center	have	commander	O	ORGANIZATION
+1.0	Petraeus	serve as	commander of US Army Combined arm Center	PERSON	ORGANIZATION
+1.0	US President George W. Bush	appoint	two top new commander	LOCATION	NUMBER
+1.0	US television network	say at_time	Thursday	ORGANIZATION	DATE
+1.0	charge	train	new Army	0	ORGANIZATION
+1.0	Petraeus 54	currently serve at	Kansas	NUMBER	LOCATION
+1.0	US President George W. Bush	move director as	deputy	0	0
+1.0	North Africa	be to	Central Asia	LOCATION	LOCATION
+0.5839789631894649	plan	increase number in	Iraq	0	LOCATION
+1.0	US President George W. Bush	restore	security	PERSON	0
+1.0	Petraeus	be praise for	he subsequent work	PERSON	0
+0.5839789631894649	plan	increase	number of US troops	0	LOCATION
+1.0	US President George W. Bush	could announce	increase	PERSON	0
+1.0	US President George W. Bush	pursue	aggressive overhaul among he aide	PERSON	0
+1.0	US servicemen	have	lives	O	O
+1.0	US President George W. Bush	could announce increase accord to	US media report	PERSON	LOCATION
+1.0	charge	train	Army	0	ORGANIZATION
+0.5839789631894649	plan	increase number of us troops in	Iraq	0	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	Abizaid , 55	announce at_time	last month	PERSON	DATE
+1.0	Abizaid 55	announce at_time	month	PERSON	DATE
+1.0	Fallon	be	62	PERSON	NUMBER
+1.0	Petraeus 54	currently serve as	commander	NUMBER	0
+1.0	Petraeus	command	101st Airborne Division	PERSON	ORGANIZATION
+1.0	National Intelligence John Negroponte	have	Director	O	PERSON
+1.0	security forces	have	training	O	O
+1.0	US President George W. Bush	pursue	aggressive overhaul among he military aide	PERSON	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Petraeus	be praise for	he work	PERSON	0
+1.0	US President George W. Bush	appoint	two new commander for Iraq	LOCATION	NUMBER
+1.0	Abizaid 55	announce at_time	last month	PERSON	DATE
+1.0	ABC	say as	officer	ORGANIZATION	0
+1.0	NATO	in	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	US President George W. Bush	appoint	two commander for Iraq	LOCATION	NUMBER
+1.0	Zalmay Khalilzad	be	next week	PERSON	DATE
+1.0	Petraeus	be widely praise for	he subsequent work	PERSON	0
+1.0	US President George W. Bush	pursue	overhaul among he aide	PERSON	0
+1.0	US President George W. Bush	pursue	overhaul among he military aide	PERSON	0
+1.0	its	have	troop strength	O	O
+1.0	Petraeus	currently serve as	commander	PERSON	0
+1.0	US President George W. Bush	appoint	two commander	LOCATION	NUMBER
+0.5839789631894649	plan	increase	number	0	0
+1.0	his	have	work	O	O
+1.0	US President George W. Bush	be expect	announce	0	0
+1.0	Zalmay Khalilzad	ambassador to	Iraq	PERSON	LOCATION
+1.0	US troops	have	number	O	O
+0.11056553347562792	US President George W. Bush	move to	State Department	0	ORGANIZATION
+1.0	US President George W. Bush	end	strife	PERSON	0
+1.0	Petraeus 54	currently serve at	Fort Leavenworth	NUMBER	LOCATION
+1.0	US President George W. Bush	be	expect	0	0
+1.0	Petraeus	serve at	Kansas	PERSON	LOCATION
+1.0	US President George W. Bush	pursue	aggressive overhaul	PERSON	0
+0.5839789631894649	plan	increase number from	current 140,000	0	NUMBER
+1.0	US President George W. Bush	move director to	Secretary	0	0
+0.5839789631894649	report plan	increase number of us troops in	Iraq	0	LOCATION
+1.0	Abizaid , 55	plan	retire	0	0
+0.11056553347562792	US President George W. Bush	move to	Secretary of State Condoleezza Rice	0	PERSON
+1.0	US President George W. Bush	appoint	two top new commander for Iraq	LOCATION	NUMBER
+1.0	US President George W. Bush	have	speech	O	O
+1.0	United States	reduce	its troop strength	LOCATION	0
+1.0	charge	train	new iraqi Army	0	ORGANIZATION
+1.0	US President George W. Bush	could announce increase in	Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	move	director	0	0
+1.0	Petraeus	currently serve at	Fort Leavenworth	PERSON	LOCATION
+1.0	Petraeus	be	54	PERSON	NUMBER
+1.0	he	would oversee	US force	0	LOCATION
+1.0	US President George W. Bush	pursue	overhaul among he top aide	PERSON	0
+1.0	US President George W. Bush	move director to	Secretary of State Condoleezza Rice	0	PERSON
+1.0	unidentified US official	tell	ABC	LOCATION	ORGANIZATION

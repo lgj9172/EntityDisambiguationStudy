@@ -1,0 +1,5 @@
+1.0	Tyumen	have	region	O	LOCATION
+1.0	Plekhanovo	have	village	O	LOCATION
+1.0	cause	be under	investigaton	0	0
+1.0	automobile market	have	grounds	O	O
+1.0	accident	have	cause	O	O

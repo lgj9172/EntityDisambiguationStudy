@@ -1,0 +1,80 @@
+1.0	appreciation	be expect	proceed	0	0
+1.0	currency	be	also revalue	0	0
+1.0	appreciation	proceed at	pace in half	0	DATE
+1.0	chinese currency	be revalue to	8.11	0	NUMBER
+1.0	Xinhua news agency	report in	second	ORGANIZATION	ORDINAL
+1.0	reference rate	have	side	O	O
+1.0	currency	be	also revalue to 8.11 to dollar	0	NUMBER
+1.0	Xinhua news agency	cite	report compile by team of 80 economic analyst	ORGANIZATION	NUMBER
+1.0	snail 's pace appreciation	reflect	Beijing 's management	0	LOCATION
+1.0	it	be	record	0	0
+1.0	snail 's pace appreciation	reflect	Beijing 's continue tight management	0	LOCATION
+1.0	appreciation	proceed at	faster pace	0	0
+1.0	chinese currency	be	also revalue to 8.11 to dollar	0	NUMBER
+1.0	appreciation	be expect	proceed at faster pace	0	0
+1.0	dollar	be in	July 2005	0	DATE
+1.0	snail 's pace appreciation	reflect	Beijing 's tight management	0	LOCATION
+1.0	currency	be revalue to	dollar	0	0
+1.0	state media	say at_time	Monday	0	DATE
+1.0	appreciation	be expect	proceed at pace in half of year	0	DATE
+1.0	yuan	end at	high of 7.8087	0	NUMBER
+1.0	currency	be revalue to	8.11	0	NUMBER
+1.0	appreciation	proceed at	pace in half of year	0	DATE
+1.0	state media	cite	group of local economist	0	0
+1.0	appreciation	be expect	proceed at pace	0	0
+1.0	appreciation	be expect	proceed at pace in first half	0	DATE
+1.0	Beijing	have	management	O	LOCATION
+1.0	chinese currency	be also revalue to	8.11	0	NUMBER
+1.0	snail 's pace appreciation	reflect	Beijing 's continue management	0	LOCATION
+1.0	appreciation	proceed at	faster pace in half of year	0	DATE
+1.0	state media	cite	group	0	0
+1.0	appreciation	be expect	proceed at pace in first half of year	0	DATE
+1.0	chinese currency	be also revalue to	dollar	0	0
+1.0	five percent	be in	value	PERCENT	0
+1.0	Xinhua news agency	cite	report compile by team	ORGANIZATION	0
+1.0	yuan	end to	dollar	0	0
+1.0	appreciation	be	expect	0	0
+1.0	yuan	end at	post-revaluation high of 7.8087	0	NUMBER
+1.0	China	delink	yuan	LOCATION	0
+1.0	appreciation	proceed at	faster pace in first half of year	0	DATE
+1.0	currency	be also revalue to	8.11	0	NUMBER
+1.0	appreciation	proceed at	pace	0	0
+1.0	appreciation	be expect	proceed at faster pace in half of year	0	DATE
+1.0	appreciation	proceed at	faster pace in first half	0	DATE
+1.0	China	allow	China	LOCATION	0
+1.0	yuan	end at	post-revaluation high	0	0
+1.0	key macroeconomic figure	be in	the year	0	DATE
+1.0	pace	be in	the first half of the year	0	DATE
+1.0	appreciation	be expect	proceed at pace in half	0	DATE
+1.0	economists	have	group	O	O
+1.0	appreciation	be expect	proceed at faster pace in first half	0	DATE
+1.0	chinese currency	be	revalue to 8.11 to dollar	0	NUMBER
+1.0	appreciation	proceed at	faster pace in half	0	DATE
+1.0	appreciation	proceed at	pace in first half	0	DATE
+1.0	currency	be	revalue to 8.11 to dollar	0	NUMBER
+1.0	appreciation	proceed at	pace in first half of year	0	DATE
+1.0	yuan	end on	Friday	0	DATE
+1.0	analysts	have	team	O	O
+1.0	yuan	end at	high	0	0
+1.0	state media	cite	group of economist	0	0
+1.0	chinese currency	be revalue to	dollar	0	0
+1.0	7.8087	have	high	O	NUMBER
+1.0	appreciation	be expect	proceed at faster pace in half	0	DATE
+1.0	snail	have	pace appreciation since then	0	0
+1.0	December	have	beginning	DATE	DATE
+1.0	currency	be	revalue	0	0
+1.0	yuan	end at_time	year	0	DATE
+1.0	China	delink yuan from	dollar	LOCATION	0
+1.0	chinese currency	be	revalue	0	0
+1.0	Xinhua news agency	cite	report compile by team of 80 analyst	ORGANIZATION	NUMBER
+1.0	Xinhua news agency	cite	report compile	ORGANIZATION	0
+1.0	currency	be also revalue to	dollar	0	0
+1.0	Xinhua news agency	cite	report	ORGANIZATION	0
+1.0	yuan	have	appreciation	O	O
+1.0	appreciation	be expect	proceed at faster pace in first half of year	0	DATE
+1.0	China	delink yuan from	dollar in July 2005	LOCATION	DATE
+1.0	it	be	seventh record	0	ORDINAL
+1.0	snail	have	pace appreciation	O	O
+1.0	chinese currency	be	also revalue	0	0
+1.0	year	have	half	DATE	DATE
+1.0	Beijing	have	continue tight management	LOCATION	0

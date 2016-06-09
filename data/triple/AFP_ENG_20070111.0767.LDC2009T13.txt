@@ -1,0 +1,43 @@
+0.6295639059907783	UN High Commissioner	oversee	process	ORGANIZATION	0
+1.0	Refugees	risk	persecution	0	0
+1.0	migrants	have	flow	O	O
+1.0	junta leader	describe border crossing by	illegal migrant	0	0
+1.0	army-installed Prime Minister Surayud Chulanont and his Laotian counterpart Bouasone Bouphavanh	have	nationality	O	O
+1.0	whom	have	some	O	O
+1.0	junta leader	describe border crossing after	domestic terrorism	0	0
+1.0	lao exile group	say	rights activist	0	0
+1.0	Hmong	be	send back	MISC	0
+1.0	government	have	proposal	O	O
+1.0	Surayud Chulanont	have	counterpart Bouasone Bouphavanh	PERSON	O
+1.0	Hmong	be send to	Laos	MISC	LOCATION
+1.0	Thailand	have	junta leader	LOCATION	0
+1.0	6,500 Hmong	be send back to	Laos	MISC	LOCATION
+1.0	Refugees	have	homeland	O	O
+1.0	junta leader	describe border crossing by	migrant	0	0
+1.0	Laos	want	avoid	LOCATION	0
+1.0	Hmong	have	numbers	O	MISC
+1.0	junta leader	describe border crossing after	terrorism	0	0
+1.0	Thailand	's leader be	General Sonthi Boonyaratglin	LOCATION	PERSON
+1.0	junta leader	describe border crossing accord to	nation newspaper	0	0
+1.0	6,500 Hmong	be send to	Laos	MISC	LOCATION
+1.0	junta leader	describe	border crossing	0	0
+1.0	Bouasone Bouphavanh	be	laotian	PERSON	0
+1.0	Hmong	be send back to	Laos	MISC	LOCATION
+1.0	government	over	proposal repatriate to Laos	0	LOCATION
+1.0	Thailand	have	junta leader	O	LOCATION
+1.0	Thailand	agree at_time	month	LOCATION	DATE
+1.0	Refugees	risk persecution in	they homeland	0	0
+1.0	Thailand	agree at_time	last month	LOCATION	DATE
+1.0	Thailand	want	UN High Commissioner for Refugees	LOCATION	ORGANIZATION
+1.0	UNHCR	condemn	plan	ORGANIZATION	0
+1.0	Thailand	want	UN High Commissioner	LOCATION	ORGANIZATION
+1.0	lao exile group	say	human rights activist	0	0
+1.0	6,500 Hmong	be	send back	MISC	0
+1.0	Refugees	risk persecution in	they communist homeland	0	0
+1.0	Hmong	be	send	MISC	0
+1.0	camp	be in	northeastern Phetchabun province	0	LOCATION
+1.0	6,500 Hmong	be	send	MISC	0
+1.0	Laos	have	jungle areas	O	LOCATION
+1.0	General Sonthi Boonyaratglin	say in	Thai newspaper	LOCATION	MISC
+1.0	more than 6,000 ethnic Hmong	have	group	O	MISC
+1.0	Thai media	report at_time	Friday	MISC	DATE

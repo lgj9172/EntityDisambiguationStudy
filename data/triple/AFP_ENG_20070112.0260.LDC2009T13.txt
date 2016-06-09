@@ -1,0 +1,36 @@
+1.0	Bayer Leverkusen	be from	german Bundesliga	ORGANIZATION	MISC
+1.0	I	play in	last few match for Dinamo	0	ORGANIZATION
+1.0	I	play in	few match for Dinamo	0	ORGANIZATION
+1.0	medical test	be in	Germany	0	LOCATION
+1.0	he	undergo	operation	0	0
+1.0	Jens Nowotny	be of	german	PERSON	0
+1.0	he	undergo operation in	Zagreb	0	LOCATION
+1.0	he	suffer injury to	he knee	0	0
+1.0	Nowotny	say in	newspaper Vecernji list	PERSON	0
+1.0	his	have	knee	O	O
+1.0	he	suffer injury to	he right knee	0	0
+1.0	Dinamo Zagreb	have sign at_time	year	ORGANIZATION	DATE
+1.0	Dinamo Zagreb	say at_time	Friday	ORGANIZATION	DATE
+1.0	32-year-old	arrive after	10 year	DURATION	DURATION
+1.0	Nowotny	be	quote	PERSON	0
+1.0	operation	be in	Germany	0	LOCATION
+1.0	story	be with	Jens Nowotny	0	PERSON
+1.0	contract	have	cancelling	O	O
+1.0	club	in	history	0	0
+1.0	The 32-year-old	have	condition	O	O
+1.0	defender Jens Nowotny	have	contract	O	PERSON
+1.0	season	have	half	O	O
+1.0	Dinamo Zagreb	have sign for	former international	ORGANIZATION	DATE
+1.0	32-year-old	arrive from	german Bundesliga side Bayer Leverkusen	DURATION	MISC
+1.0	he	suffer	serious injury	0	0
+1.0	I	play in	match for Dinamo	0	ORGANIZATION
+1.0	club	have	history	O	O
+1.0	story	be	finish	0	0
+1.0	biggest transfer	be in	club 's history	0	0
+1.0	32-year-old	arrive after	10 year of service	DURATION	DURATION
+1.0	service	have	years	DURATION	O
+1.0	he	suffer	injury	0	0
+1.0	I	play in	last match for Dinamo	0	ORGANIZATION
+1.0	he	play	12 match	0	NUMBER
+1.0	32-year-old	arrive from	Bundesliga side Bayer Leverkusen	DURATION	MISC
+1.0	Dinamo Zagreb	have sign at_time	last year	ORGANIZATION	DATE

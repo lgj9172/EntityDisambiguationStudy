@@ -1,0 +1,19 @@
+1.0	US Representative Nancy Pelosi	become	first woman	LOCATION	ORDINAL
+1.0	members	have	majority	O	O
+1.0	the first woman	have	third	ORDINAL	O
+1.0	California Democrat	win with	majority of 435 member	LOCATION	NUMBER
+1.0	Nancy Pelosi	be	US	PERSON	LOCATION
+1.0	US Representative Nancy Pelosi	become	woman	LOCATION	0
+1.0	US Representative Nancy Pelosi	make history at_time	Thursday	LOCATION	DATE
+1.0	House	have	speaker	O	ORGANIZATION
+1.0	succession	have	line	O	O
+1.0	223 vote	majority of	435 member	NUMBER	NUMBER
+1.0	US Representative Nancy Pelosi	make	history	LOCATION	0
+1.0	California Democrat	win with	majority	LOCATION	0
+1.0	Nancy Pelosi	be representative of	US	PERSON	LOCATION
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	seats	have	majority	O	O
+1.0	California Democrat	win with	223 vote	LOCATION	NUMBER
+1.0	Congress	have	members	O	ORGANIZATION
+1.0	House	have	control	O	ORGANIZATION
+1.0	California Democrat	win with	majority of 435 member of Congress	LOCATION	NUMBER

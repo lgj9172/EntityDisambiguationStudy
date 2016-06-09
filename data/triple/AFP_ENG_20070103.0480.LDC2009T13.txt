@@ -1,0 +1,67 @@
+1.0	diplomat	identify	an unidentified Chinese diplomat	0	0
+1.0	unidentified diplomat	take	breathalyser test	0	0
+1.0	diplomatic status	drive	vehicle	0	0
+1.0	chinese embassy official	arrive	south korean foreign ministry representative	0	0
+1.0	he	take	drunk drive test	0	0
+0.6214384204216536	vehicle	bear	diplomatic licence plate	0	0
+1.0	Beijing	have	embassy	O	LOCATION
+1.0	Beijing	have	embassy	LOCATION	0
+1.0	official	tell	afp	0	0
+1.0	official	tell afp on	condition	0	0
+1.0	chinese embassy official	arrive	korean foreign ministry representative	0	0
+1.0	his	have	car	O	O
+1.0	chinese embassy official	arrive	ministry representative	0	0
+1.0	he	take	drive test	0	0
+1.0	passengers	have	status	O	O
+1.0	Foreign Minister song Min-Soon	criticise	embassy staffer	PERSON	0
+1.0	official	tell afp on	condition of anonymity	0	0
+1.0	embassy	have	counsellor	O	O
+1.0	embassy official	arrive	korean foreign ministry representative	0	0
+1.0	police	be in	Seoul	0	LOCATION
+1.0	chinese diplomat	refuse in	highly publicised incident	0	0
+1.0	embassy official	arrive	south korean foreign ministry representative	0	0
+1.0	embassy official	arrive	foreign ministry representative	0	0
+1.0	he car	be	when stop by police	0	0
+1.0	host country	have	laws	O	O
+1.0	foreign ministry official	say at_time	Thursday	0	DATE
+1.0	unidentified chinese diplomat	refuse in	publicised incident	0	0
+1.0	unidentified chinese diplomat	refuse in	highly publicised incident	0	0
+1.0	embassy official	arrive	south korean ministry representative	0	0
+1.0	chinese diplomat	take	breathalyser test	0	0
+1.0	chinese embassy official	arrive	korean ministry representative	0	0
+1.0	diplomat	refuse in	incident	0	0
+0.6214384204216536	vehicle	bear	licence plate	0	0
+1.0	passenger ' diplomatic status	drive	vehicle	0	0
+1.0	unidentified diplomat	refuse in	publicised incident	0	0
+1.0	chinese diplomat	refuse in	incident	0	0
+1.0	a Chinese envoy	have	car	O	O
+1.0	diplomat	refuse in	highly publicised incident	0	0
+1.0	he	be immune from	prosecution	0	0
+1.0	ministry official	say at_time	Thursday	0	DATE
+1.0	chinese embassy official	arrive	foreign ministry representative	0	0
+1.0	chinese embassy official	arrive	south korean ministry representative	0	0
+1.0	diplomat	refuse in	publicised incident	0	0
+1.0	embassy official	arrive	ministry representative	0	0
+1.0	he	take	drunk test	0	0
+1.0	unidentified chinese diplomat	take	breathalyser test	0	0
+1.0	alcohol	have	influence	O	O
+1.0	he car	be	stop	0	0
+1.0	song Min-Soon	be at	time	PERSON	DATE
+1.0	unidentified diplomat	refuse in	incident	0	0
+1.0	diplomat	take	breathalyser test	0	0
+1.0	he car	be	when stop by police in Seoul	0	LOCATION
+1.0	he car	be	when stop	0	0
+1.0	he car	be stop by	police	0	0
+1.0	unidentified chinese diplomat	refuse in	incident	0	0
+1.0	he	be	even immune	0	0
+1.0	Foreign Minister song Min-Soon	also criticise	embassy staffer	PERSON	0
+1.0	chinese embassy official	arrive at	scene	0	0
+1.0	chinese diplomat	refuse in	publicised incident	0	0
+1.0	he	even be immune from	prosecution	0	0
+1.0	he	be	immune	0	0
+1.0	embassy official	arrive at	scene	0	0
+1.0	embassy official	arrive	korean ministry representative	0	0
+1.0	unidentified diplomat	refuse in	highly publicised incident	0	0
+1.0	anonymity	have	condition	O	O
+1.0	he car	be stop by	police in Seoul	0	LOCATION
+1.0	he	take	test	0	0

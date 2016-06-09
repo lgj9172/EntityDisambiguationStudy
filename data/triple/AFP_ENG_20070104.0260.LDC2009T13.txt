@@ -1,0 +1,95 @@
+1.0	China	gain access to	Africa 's raw material reserve	LOCATION	LOCATION
+1.0	China	gain access to	Africa 's massive raw material reserve	LOCATION	LOCATION
+1.0	Africa	have	material reserves	O	LOCATION
+1.0	Ivory Coast	have	Economic	ORGANIZATION	ORGANIZATION
+1.0	firm	build	complex	0	0
+1.0	Social Council	have	president	O	ORGANIZATION
+1.0	aid package	have	quarters	DURATION	O
+1.0	chinese firm	fund	a large parliamentary complex	0	0
+1.0	country	be	when split	0	0
+1.0	president	do more for	country	0	0
+1.0	country	be	when split in two between government force after fail coup	0	NUMBER
+1.0	country	be	when split after fail coup against President Laurent Gbagbo	0	PERSON
+1.0	Beijing	be also finance	palace	LOCATION	0
+1.0	chinese firm	build	large parliamentary complex	0	0
+1.0	Ivory Coast	have	government	O	LOCATION
+1.0	China	be honour promise accord to	foreign ministry	LOCATION	0
+1.0	China	be honour promise accord to	ministry	LOCATION	0
+1.0	country	be split after	fail coup against President Laurent Gbagbo	0	PERSON
+1.0	chinese firm	build there	large complex	0	0
+1.0	country	be	when split in two between government force	0	NUMBER
+1.0	country	be	split	0	0
+1.0	firm	build	large complex	0	0
+1.0	Beijing	be also finance	presidential palace	LOCATION	0
+1.0	country	be	split in two between government force after fail coup	0	NUMBER
+1.0	China	be	keen	LOCATION	0
+1.0	Beijing	be finance	new palace	LOCATION	0
+1.0	ministry	announce at_time	Thursday	0	DATE
+1.0	political crisis	be in	2002	0	DATE
+1.0	country	be	when split in two between government force after coup against President Laurent Gbagbo	0	NUMBER
+1.0	China	gain access to	Africa 's material reserve	LOCATION	LOCATION
+1.0	chinese firm	build there	complex	0	0
+1.0	Africa	to	massive raw material reserve	LOCATION	0
+1.0	China	be honour	promise make at summit	LOCATION	0
+1.0	China	be honour	promise make at china-african summit	LOCATION	0
+1.0	ministry	announce in	statement	0	0
+1.0	country	be split after	coup against President Laurent Gbagbo	0	PERSON
+1.0	China	have give	33 million euro	LOCATION	MONEY
+1.0	chinese firm	build	parliamentary complex	0	0
+1.0	country	be	when split after coup	0	0
+1.0	firm	build	parliamentary complex	0	0
+1.0	Africa 's	have	economy	O	O
+1.0	Beijing	be finance	palace	LOCATION	0
+1.0	China	be honour	promise make at china-african summit in November 2006	LOCATION	DATE
+1.0	chinese firm	build there	large parliamentary complex	0	0
+1.0	construction work	be in	Yamoussoukro	0	LOCATION
+1.0	Beijing	be finance	new presidential palace	LOCATION	0
+1.0	country	be	when split in two between government force after coup	0	NUMBER
+1.0	president	do more for	country than Europeans	0	MISC
+1.0	firm	fund	a large parliamentary complex	0	0
+1.0	China	be honour promise accord to	ministry in economic capital Abidjan	LOCATION	LOCATION
+1.0	China	be honour promise accord to	foreign ministry in capital Abidjan	LOCATION	LOCATION
+1.0	firm	build	large parliamentary complex	0	0
+1.0	China	be honour	promise	LOCATION	0
+1.0	country	be	split in two between government force after coup	0	NUMBER
+1.0	Beijing	be also finance	new palace	LOCATION	0
+1.0	firm	build there	large parliamentary complex	0	0
+1.0	country	be	split in two between government force after fail coup against President Laurent Gbagbo	0	NUMBER
+1.0	president	praise	chinese	0	0
+1.0	firm	build there	large complex	0	0
+1.0	percent	have	tune	O	PERCENT
+1.0	foreign ministry	announce in	statement	0	0
+1.0	foreign ministry	announce at_time	Thursday	0	DATE
+1.0	president	do for	country	0	0
+1.0	president	do for	country than Europeans	0	MISC
+1.0	three billion CFA franc	be in	all	MONEY	0
+1.0	crisis	have	beginning	O	O
+1.0	country	be	when split after fail coup	0	0
+1.0	euros	have	millions	O	O
+1.0	country	be split after	coup	0	0
+1.0	China	be honour	promise make at summit in November 2006	LOCATION	DATE
+1.0	country	be split after	fail coup	0	0
+0.48920070220639267	China	million of	euro	LOCATION	0
+1.0	China	be honour promise accord to	foreign ministry in economic capital Abidjan	LOCATION	LOCATION
+1.0	China	gain	access	LOCATION	0
+1.0	China	be honour	promise make	LOCATION	0
+1.0	country	be split in	two between government force	0	NUMBER
+1.0	Beijing	be finance	presidential palace	LOCATION	0
+1.0	China	gain access to	Africa 's massive material reserve	LOCATION	LOCATION
+1.0	country	be	when split in two between government force after fail coup against President Laurent Gbagbo	0	NUMBER
+1.0	foreign ministry	be in	Abidjan	0	LOCATION
+1.0	Economic	have	president	O	ORGANIZATION
+1.0	china-african summit	be in	November 2006	0	DATE
+1.0	firm	build there	parliamentary complex	0	0
+1.0	remainder	consist of	loan	0	0
+1.0	China	be honour promise accord to	ministry in capital Abidjan	LOCATION	LOCATION
+1.0	firm	build there	complex	0	0
+1.0	chinese firm	build	large complex	0	0
+1.0	country	be	split in two between government force after coup against President Laurent Gbagbo	0	NUMBER
+1.0	Beijing	be also finance	new presidential palace	LOCATION	0
+1.0	country	be	when split after coup against President Laurent Gbagbo	0	PERSON
+1.0	Ivory Coast 's Economic and Social Council	be	Laurent Dona Fologo	ORGANIZATION	PERSON
+1.0	chinese firm	build there	parliamentary complex	0	0
+1.0	chinese firm	build	complex	0	0
+1.0	loan	have	consists	O	O
+1.0	world	have	cocoa producer	O	O

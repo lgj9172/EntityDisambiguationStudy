@@ -1,0 +1,45 @@
+1.0	Association	last	related meeting on island of Cebu	ORGANIZATION	LOCATION
+1.0	Association	last	meeting on island	ORGANIZATION	0
+1.0	Ministry	say in	statement	ORGANIZATION	0
+0.6863614097580877	issue	warning about	possible attack	0	DURATION
+1.0	Gloria Arroyo	be	Philippine	PERSON	MISC
+1.0	Southeast Asian Nations summit	have	Association	ORGANIZATION	O
+1.0	city-state	say at_time	Thursday	0	DATE
+1.0	Mindanao	have	island	O	LOCATION
+1.0	postponement	come after	Australia	0	LOCATION
+1.0	nation	issue	warning	DURATION	DURATION
+1.0	Lee Hsien Loong	be prime minister of	Singapore	PERSON	LOCATION
+1.0	nation	issue	warning about possible terrorist attack	DURATION	DURATION
+1.0	postponement	come at_time	day	0	DURATION
+1.0	Singapore 's	host	summit of 10-member ASEAN group	LOCATION	ORGANIZATION
+1.0	summit	have	nerves	O	O
+1.0	other nation	issue	warning about possible terrorist attack	DURATION	DURATION
+1.0	ASEAN group	have	summit	O	O
+1.0	Association	will last until	Monday	ORGANIZATION	DATE
+1.0	postponement	come at_time	just day	0	DURATION
+1.0	Cebu	have	island	O	LOCATION
+1.0	Singapore	have	Prime Minister Lee Hsien Loong	PERSON	LOCATION
+1.0	Philippine President Gloria Arroyo	cite	worry over typhoon	PERSON	0
+1.0	Singapore 's	host	next summit	LOCATION	0
+1.0	Association	last	related meeting on island	ORGANIZATION	0
+1.0	Singapore 's	host	summit of ASEAN group	LOCATION	ORGANIZATION
+1.0	associate summit	be with	China	0	LOCATION
+1.0	Association	last	meeting	ORGANIZATION	0
+1.0	other nation	issue	warning	DURATION	DURATION
+1.0	Singapore 's	host	summit	LOCATION	0
+1.0	Philippine President Gloria Arroyo	cite	worry over loom typhoon	PERSON	0
+1.0	Association	last	meeting on island of Cebu	ORGANIZATION	LOCATION
+1.0	other nation	issue	warning about possible attack	DURATION	DURATION
+1.0	Foreign Affairs	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Philippine President Gloria Arroyo	cite	worry	PERSON	0
+1.0	postpone ASEAN summit	be in	Philippines	ORGANIZATION	LOCATION
+1.0	they	be postpone at_time	last month	0	DATE
+1.0	Singapore 's	host	next summit of ASEAN group	LOCATION	ORGANIZATION
+1.0	they	be	postpone	0	0
+1.0	they	be postpone at_time	month	0	DATE
+1.0	Singapore 's	host	next summit of 10-member ASEAN group	LOCATION	ORGANIZATION
+1.0	Association	last	related meeting	ORGANIZATION	0
+0.6863614097580877	issue	warning about	possible terrorist attack	0	DURATION
+1.0	nation	issue	warning about possible attack	DURATION	DURATION
+1.0	Singapore 's	host summit in	December	LOCATION	DATE
+1.0	Singapore	have	Lee Hsien Loong	LOCATION	PERSON

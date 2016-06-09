@@ -1,0 +1,17 @@
+1.0	Nicaragua	of	presidential inauguration	LOCATION	0
+1.0	Taiwan	have	trade deal	LOCATION	0
+1.0	La Nacion	quote	Foreign Minister Bruno Stagno	ORGANIZATION	PERSON
+1.0	Taiwan	have trade deal with	Guatemala	LOCATION	LOCATION
+1.0	media	report at_time	Thursday	0	DATE
+1.0	Bruno Stagno	be	costa rican	PERSON	0
+1.0	La Nacion	quote	rican Foreign Minister Bruno Stagno	ORGANIZATION	PERSON
+1.0	Taiwan	have	free trade deal	LOCATION	0
+1.0	La Nacion	quote	costa rican Foreign Minister Bruno Stagno	ORGANIZATION	PERSON
+1.0	Taiwan	have	Chen Shui-bian	LOCATION	PERSON
+1.0	brief meeting	be in	Managua	0	LOCATION
+1.0	Nicaragua	have	inauguration	O	LOCATION
+1.0	local media	report at_time	Thursday	0	DATE
+1.0	La Nacion	quote	costa Foreign Minister Bruno Stagno	ORGANIZATION	PERSON
+1.0	Chen Shui-bian	be president of	Taiwan	PERSON	LOCATION
+1.0	inauguration	have	sidelines	O	O
+1.0	Taiwan	have	President Chen Shui-bian	PERSON	LOCATION

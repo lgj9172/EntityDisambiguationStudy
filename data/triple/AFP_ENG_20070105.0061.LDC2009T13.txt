@@ -1,0 +1,24 @@
+1.0	board member Xavier Marin	tell business in	Handelsblatt	PERSON	ORGANIZATION
+1.0	French investment group Eurazeo	buy	car company	MISC	0
+1.0	French investment group Eurazeo	buy	Europcar	MISC	ORGANIZATION
+1.0	French investment group Eurazeo	buy car company from	auto giant volkswagen for 3.32 billion euro	MISC	MONEY
+1.0	board member Xavier Marin	tell business daily in	Handelsblatt	PERSON	ORGANIZATION
+1.0	French investment group Eurazeo	buy car company at_time	year	MISC	DATE
+1.0	board member	provide	detail	0	0
+1.0	French investment group Eurazeo	buy	car rental company	MISC	0
+1.0	potential takeover target	be in	Germany	0	LOCATION
+1.0	French investment group Eurazeo	buy car company from	auto giant volkswagen	MISC	0
+1.0	board member Xavier Marin	tell daily	business	PERSON	0
+1.0	investments	have	director	O	O
+1.0	candidates	have	number	O	O
+1.0	we	have invest in	France	0	LOCATION
+1.0	Eurazeo	eye	potential target	MISC	0
+1.0	we	have invest primarily in	France	0	LOCATION
+1.0	we	have invest primarily until	now	0	DATE
+1.0	board member	provide	further detail	0	0
+1.0	volkswagen	be for	3.32 billion euro	0	MONEY
+1.0	board member Xavier Marin	tell	business	PERSON	0
+1.0	we	have invest until	now	0	DATE
+1.0	Eurazeo	also eye	potential target	MISC	0
+1.0	continental Europe	have	rest	O	LOCATION
+1.0	French investment group Eurazeo	buy car company at_time	last year	MISC	DATE

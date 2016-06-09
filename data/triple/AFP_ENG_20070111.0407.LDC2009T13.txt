@@ -1,0 +1,132 @@
+1.0	EU	have	dependency	O	ORGANIZATION
+1.0	Europeans	find	those responsible	MISC	0
+1.0	Russia	pump through	friendship	LOCATION	0
+1.0	Russia	be	supplier of energy provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	oil	have	consumption	O	O
+1.0	Russia	be	main supplier of energy to EU provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	Russia	be	main supplier of energy provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	Belarus	across pipeline be	friendship	LOCATION	0
+1.0	EU	have	dependence	O	ORGANIZATION
+1.0	interruption	highlight	EU 's grow dependence	0	ORGANIZATION
+1.0	shut-down	be	incident	0	0
+1.0	EU 's dependency	be only likely despite	reservation about supplies	ORGANIZATION	0
+1.0	EU 's dependency	be only likely despite	reservation about russian supplies	ORGANIZATION	0
+1.0	International Energy Agency chief Claude Mandil	urge russia on	Thursday	ORGANIZATION	DATE
+1.0	EU energy experts	have	emergency meeting	O	O
+1.0	energy	have	supplier	O	O
+1.0	incident	destroy	confidence	0	0
+1.0	oil deliveries	have	interruption	O	O
+1.0	International Energy Agency chief Claude Mandil	raise possibility for	incident	0	0
+1.0	transparent behaviour	be in	the future	0	DATE
+1.0	EU energy experts	have	supplies	O	O
+1.0	EU 's dependency	grow in	come year	ORGANIZATION	0
+1.0	Russia	be	supplier of energy to EU provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	EU	have	grow dependence on russian energy supplies	ORGANIZATION	0
+1.0	Commission	publish on	Wednesday	ORGANIZATION	DATE
+1.0	interruption	highlight	EU 's dependence on energy supplies	0	ORGANIZATION
+1.0	EU 's dependency	be only likely despite	reservation	ORGANIZATION	0
+1.0	Russia	resume	pump through Druzhba pipeline	LOCATION	0
+1.0	Russia	resume	pump early	LOCATION	0
+1.0	bloc	meet	demand	0	0
+1.0	Russia	be	supplier provide for about quarter	LOCATION	DURATION
+1.0	Moscow	should draw	clear lesson	LOCATION	0
+1.0	EU 's dependency	be likely despite	reservation about russian supplies	ORGANIZATION	0
+1.0	Russia	be	supplier	LOCATION	0
+1.0	EU 's energy import dependence	rise to	currently 65 percent	ORGANIZATION	PERCENT
+1.0	Andris Pielbalgs	be with	EU Energy	PERSON	ORGANIZATION
+1.0	EU Energy Commissioner Andris Pielbalgs	be speak after	emergency meeting	PERSON	0
+1.0	International Energy Agency chief Claude Mandil	compare	situation	0	0
+1.0	Joachim Wuermeling	be of	State	PERSON	ORGANIZATION
+1.0	Druzhba oil pipeline	have	shut-down	O	O
+1.0	Russia	be	supplier provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	Russia	be	supplier provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	incident	destroy	confidence in Russia	0	LOCATION
+1.0	confidence	be in	Russia	0	LOCATION
+0.6338313721679163	incident	confidence in	Russia	0	LOCATION
+1.0	EU 's dependency	be likely despite	reservation	ORGANIZATION	0
+1.0	Russia	be	supplier of energy provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	Russia	be	main supplier of energy provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	Jose Manuel Barroso	be	European Commission	PERSON	ORGANIZATION
+1.0	Russia	be	supplier of energy provide	LOCATION	0
+1.0	Russia	be	main supplier provide for about quarter of bloc 's consumption	LOCATION	DURATION
+1.0	Russia	be	main supplier of energy provide	LOCATION	DURATION
+1.0	EU 's dependency	be	likely	ORGANIZATION	0
+1.0	bloc	for	source	0	0
+1.0	EU	have	energy import dependence	ORGANIZATION	0
+1.0	german Chancellor Angela Merkel	warn	European Commission chief Jose Manuel Barroso	PERSON	PERSON
+1.0	EU 's energy import dependence	rise to	currently 65 percent in 2030	ORGANIZATION	PERCENT
+1.0	EU 's dependency	grow in	year	ORGANIZATION	0
+1.0	bloc	meet	european demand	0	0
+1.0	commission	warn on	Wednesday	0	DATE
+1.0	Russia	be main supplier of	energy	LOCATION	0
+1.0	Moscow	should draw	lesson	LOCATION	0
+1.0	what	have	consist	O	O
+1.0	Russia	be supplier of	energy	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell afp after	talk	0	0
+1.0	Russia	pump through	Druzhba pipeline	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell afp after	talk with EU Energy Commissioner Andris Pielbalgs	0	PERSON
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction against those	0	0
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	Russia	be	supplier of energy to EU provide for about quarter	LOCATION	DURATION
+1.0	International Energy Agency chief Claude Mandil	tell afp in	Brussels	0	LOCATION
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction	0	0
+1.0	State Joachim Wuermeling	have	German Secretary	O	PERSON
+1.0	Russia	resume	pump through Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	Claude Mandil	be	International Energy Agency	PERSON	ORGANIZATION
+1.0	Russia	be	main supplier provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	commissioner	analyse	situation	0	0
+1.0	Russia	have	neighbour	O	O
+1.0	EU Energy Commissioner Andris Pielbalgs	speak	International Energy Agency chief Claude Mandil	PERSON	PERSON
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction against those responsible	0	0
+1.0	Russia	be	main supplier	LOCATION	DURATION
+1.0	consumption	have	quarter	DURATION	O
+1.0	International Energy Agency chief Claude Mandil	raise	possibility	0	0
+1.0	EU	have	dependency	ORGANIZATION	0
+1.0	bloc	become	more reliant	0	0
+1.0	Russia	be	supplier provide	LOCATION	0
+1.0	incident	destroy confidence as	energy supplier	0	0
+1.0	sanctions	have	possibility	O	O
+1.0	Jose Manuel Barroso	be chief of	European Commission	PERSON	ORGANIZATION
+1.0	Russia	be	supplier of energy provide for about quarter	LOCATION	DURATION
+1.0	Russia	be supplier of	energy to EU	LOCATION	ORGANIZATION
+1.0	Claude Mandil	be chief of	International Energy Agency	PERSON	ORGANIZATION
+1.0	Russia	pump early through	Druzhba pipeline	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell	AFP	0	ORGANIZATION
+1.0	EU 's energy import dependence	rise from	50 percent	ORGANIZATION	PERCENT
+1.0	Russia	pump early through	Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	interruption	highlight	EU 's dependence	0	ORGANIZATION
+1.0	Russia	be	main supplier of energy to EU provide	LOCATION	DURATION
+1.0	bloc	have	consumption	O	O
+1.0	German Chancellor Angela Merkel and European Commission chief Jose Manuel Barroso	have	energy relationship	O	O
+1.0	Russia	be	main supplier provide	LOCATION	DURATION
+1.0	incident	destroy confidence to	EU	0	ORGANIZATION
+1.0	Russia	resume	pump through Druzhba pipeline across Belarus early	LOCATION	LOCATION
+1.0	Russia	be	supplier of energy to EU provide	LOCATION	ORGANIZATION
+1.0	EU	have	energy import dependence	O	ORGANIZATION
+1.0	65 percent	be in	2030	PERCENT	DATE
+1.0	gas	have	consumption	O	O
+1.0	Russia	resume	pump	LOCATION	0
+1.0	Russia	pump through	Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	talk	be with	Andris Pielbalgs	0	PERSON
+1.0	Russia	be main supplier of	energy to EU	LOCATION	ORGANIZATION
+1.0	EU 's energy import dependence	rise to	65 percent	ORGANIZATION	PERCENT
+1.0	International Energy Agency chief Claude Mandil	urge	Russia	ORGANIZATION	LOCATION
+1.0	Russia	be	main supplier provide for about quarter	LOCATION	DURATION
+1.0	EU Energy Commissioner Andris Pielbalgs	be speak after	emergency meeting of EU energy expert	PERSON	ORGANIZATION
+1.0	shut-down	be	grave	0	0
+1.0	Russia	be	main supplier of energy to EU provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	european Commission	publish on	Wednesday	ORGANIZATION	DATE
+1.0	Chancellor Angela Merkel	warn	European Commission chief Jose Manuel Barroso	PERSON	PERSON
+1.0	EU 's dependency	be likely despite	reservation about supplies	ORGANIZATION	0
+1.0	shut-down	be	grave incident	0	0
+1.0	EU 's dependency	be	only likely	ORGANIZATION	0
+1.0	Andris Pielbalgs	be commissioner of	EU Energy	PERSON	ORGANIZATION
+1.0	Russia	resume	pump through Druzhba pipeline early	LOCATION	0
+1.0	bloc	of	consumption of oil	0	0
+1.0	bloc	have	sources	O	O
+1.0	Russia	be	main supplier of energy provide for about quarter	LOCATION	DURATION
+1.0	Russia	be	supplier of energy to EU provide for about quarter of bloc 's consumption of oil	LOCATION	DURATION
+1.0	Russia	pump early through	friendship	LOCATION	0
+1.0	Russia	be	main supplier of energy to EU provide for about quarter	LOCATION	DURATION
+1.0	bloc	become	reliant	0	0
+1.0	EU 's energy import dependence	rise to	65 percent in 2030	ORGANIZATION	PERCENT

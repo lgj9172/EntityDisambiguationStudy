@@ -1,0 +1,49 @@
+0.4651184972406518	minnesota-based airline plan	emerge in	second quarter	0	DATE
+1.0	Northwest	begin	Delta	0	ORGANIZATION
+1.0	our	have	fleet	O	O
+1.0	our	have	restructuring	O	O
+1.0	Northwest	begin	discussion	0	0
+1.0	Northwest Airlines	will maintain	its order	ORGANIZATION	0
+1.0	our	have	balance sheet	O	O
+1.0	they	exit	bankruptcy protection	0	0
+1.0	Northwest	be	partner with Air France in SkyTeam alliance	ORGANIZATION	ORGANIZATION
+1.0	2.4 billion dollar	be in	annual cost	MONEY	SET
+1.0	Northwest	begin discussion accord to	report in Wall Street Journal	0	ORGANIZATION
+0.4651184972406518	minnesota-based airline plan	emerge in	quarter 2007	0	DATE
+1.0	Northwest	recently begin	discussion	0	0
+1.0	Northwest	recently begin discussion accord to	report in Wall Street Journal	0	ORGANIZATION
+1.0	GE Aircraft Engines	be with	Airbus	ORGANIZATION	ORGANIZATION
+0.4651184972406518	minnesota-based airline plan	emerge in	second quarter 2007	0	DATE
+0.4651184972406518	airline plan	emerge in	second quarter 2007	0	DATE
+1.0	Airbus	be	Boeing	ORGANIZATION	ORGANIZATION
+1.0	Northwest Airlines	have	orders	O	O
+0.4651184972406518	airline plan	emerge from	chapter 11 bankruptcy protection	0	NUMBER
+1.0	we	negotiate purchase agreement with	Bombardier	0	ORGANIZATION
+1.0	report	be in	Wall Street Journal	0	ORGANIZATION
+1.0	we	have	fleet	O	O
+1.0	Northwest	be partner in	SkyTeam alliance	ORGANIZATION	MISC
+1.0	Northwest	recently begin	discussion merge	0	0
+1.0	Northwest	be	fourth US airline	ORGANIZATION	LOCATION
+0.4651184972406518	minnesota-based airline plan	emerge in	quarter	0	DATE
+0.4651184972406518	airline plan	emerge in	quarter	0	DATE
+1.0	Northwest	recently begin discussion accord to	report	0	0
+1.0	Northwest	be	US airline	ORGANIZATION	LOCATION
+1.0	Northwest	be partner with	Air France	ORGANIZATION	ORGANIZATION
+1.0	we	also negotiate	additional purchase agreement	0	0
+1.0	Northwest Airlines	will maintain	its exist order	ORGANIZATION	0
+1.0	we	also negotiate purchase agreement with	Bombardier	0	ORGANIZATION
+1.0	Northwest	begin	discussion merge	0	0
+1.0	we	also negotiate	purchase agreement	0	0
+0.4651184972406518	airline plan	emerge in	second quarter	0	DATE
+1.0	Northwest	be	partner	ORGANIZATION	0
+1.0	restructuring plan	have	part	O	O
+1.0	we	have	product	O	O
+1.0	Northwest Airlines	present at_time	Friday	0	DATE
+0.4651184972406518	minnesota-based airline plan	emerge from	chapter 11 bankruptcy protection	0	NUMBER
+1.0	we	negotiate	purchase agreement	0	0
+0.4651184972406518	airline plan	emerge in	quarter 2007	0	DATE
+1.0	Northwest Airlines	present to	New York bankruptcy court	0	LOCATION
+1.0	Northwest	recently begin	Delta	0	ORGANIZATION
+1.0	2007	have	quarter	DATE	DATE
+1.0	we	negotiate	additional purchase agreement	0	0
+1.0	Northwest	begin discussion accord to	report	0	0

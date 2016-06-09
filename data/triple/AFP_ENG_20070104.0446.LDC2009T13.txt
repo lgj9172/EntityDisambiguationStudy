@@ -1,0 +1,37 @@
+1.0	spokesman Tony Snow	fight	strategy	PERSON	0
+1.0	Iraq	of	large Sunni minority	LOCATION	MISC
+1.0	spokesman Tony Snow	fight strategy during	one hour	PERSON	DURATION
+1.0	spokesman Tony Snow	fight strategy during	45-minute teleconference	PERSON	DURATION
+1.0	execution	have	footage	O	O
+1.0	the ousted dictator 's	have	war	O	O
+1.0	Iraq	have	Sunni minority	O	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Saddam 's execution	trigger	criticism	PERSON	0
+1.0	Saddam	have	execution	O	PERSON
+1.0	Nuri al Maliki	be on	Thursday	PERSON	DATE
+1.0	Saddam 's execution	have anger	member of Iraq 's large Sunni minority	PERSON	MISC
+1.0	Saddam 's execution	have anger	member of Iraq 's Sunni minority	PERSON	MISC
+1.0	spokesman Tony Snow	fight strategy during	teleconference	PERSON	0
+1.0	president	discuss in	he plan	0	0
+1.0	Saddam 's execution	have anger	member	PERSON	0
+1.0	the president	have	plans	O	O
+1.0	Nuri al Maliki	be	iraqi	PERSON	0
+1.0	spokesman	say amid	anger	0	0
+1.0	president	discuss in	he report plan	0	0
+1.0	Sunni minority	have	members	O	O
+1.0	Bush	have	plan overhaul of war	PERSON	0
+1.0	war	have	overhaul	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	oust dictator	over	hanging	0	0
+1.0	Saddam Hussein 's	have	execution	O	PERSON
+1.0	Saddam Hussein 's	be humiliate	minute	0	0
+1.0	Saddam Hussein 's	be	put	0	0
+1.0	the president	get into	detail at level	0	0
+1.0	US President George W. Bush	have	strategy	O	O
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	Bush	have	overhaul	O	PERSON
+1.0	dictator	have	hanging	O	O
+1.0	Saddam Hussein 's	be put to	death	0	0
+1.0	spokesman Tony Snow	have	captors	O	O
+1.0	Saddam Hussein	of	execution	PERSON	0
+1.0	Saddam	have	execution on Saturday	PERSON	DATE

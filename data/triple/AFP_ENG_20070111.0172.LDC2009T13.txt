@@ -1,0 +1,21 @@
+1.0	growth	be	only 2.9 percent	0	PERCENT
+0.34785931814430093	bloc	grow on	quarterly basis	0	DATE
+1.0	EU	have	statistics arm	O	ORGANIZATION
+0.526899281218369	European Union	growth of	3.0 percent	ORGANIZATION	PERCENT
+1.0	Bulgaria	join	Romania	LOCATION	LOCATION
+1.0	12 month	be in	the 25-nation European Union	DATE	ORGANIZATION
+1.0	12-nation bloc	grow	0.5 percent	0	PERCENT
+1.0	EU	have	statistics arm	ORGANIZATION	0
+1.0	percent	have	growth	O	PERCENT
+0.526899281218369	25-nation European Union	growth of	3.0 percent	ORGANIZATION	PERCENT
+0.34785931814430093	bloc	grow on	basis	0	0
+0.34785931814430093	12-nation bloc	grow on	quarterly basis	0	DATE
+1.0	bloc	grow	0.5 percent	0	PERCENT
+1.0	2006	have	quarter	DATE	DATE
+1.0	Eurostat datum agency	confirm	estimate	ORGANIZATION	0
+1.0	Eurostat datum agency	confirm	earlier estimate	ORGANIZATION	0
+1.0	2.9 percent	be in	the previous quarter	PERCENT	DATE
+1.0	Eurostat datum agency	say at_time	Thursday	ORGANIZATION	DATE
+0.34785931814430093	12-nation bloc	grow on	basis	0	0
+1.0	1.0 percent	be in	the second quarter	PERCENT	DATE
+1.0	growth	be	2.9 percent	0	PERCENT

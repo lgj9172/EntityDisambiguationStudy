@@ -1,0 +1,14 @@
+1.0	Jakaya Kikwete	be	Tanzanian	PERSON	MISC
+1.0	Batilda Burian	be elevated to	parliamentary affair portfolio	PERSON	0
+1.0	Tanzanian President Jakaya Kikwete	be	elect in December 2005 as country 's fourth president	PERSON	ORDINAL
+1.0	Batilda Burian	be elevated to	affair portfolio	PERSON	0
+1.0	country	as	fourth president	0	ORDINAL
+1.0	State House	say in	statement	ORGANIZATION	0
+1.0	Batilda Burian	be	elevated	PERSON	0
+1.0	Tanzanian President Jakaya Kikwete	be elect as	country 's fourth president	PERSON	ORDINAL
+1.0	official	say at_time	later Friday	0	DATE
+1.0	Tanzanian President Jakaya Kikwete	be	elect	PERSON	0
+1.0	Tanzanian President Jakaya Kikwete	be	elect in December 2005 as country 's president	PERSON	DATE
+1.0	country	have	president	O	O
+1.0	Tanzanian President Jakaya Kikwete	be elect as	country 's president	PERSON	0
+1.0	Tanzanian President Jakaya Kikwete	be elect in	December 2005	PERSON	DATE

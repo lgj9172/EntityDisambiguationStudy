@@ -1,0 +1,68 @@
+1.0	Comilla	have	town	O	LOCATION
+1.0	bus	be	frequently overloaded	0	0
+1.0	Survivor Jyotsna Akhter	flee as	flame	PERSON	0
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep through bus within seconds	PERSON	DURATION
+1.0	million	celebrate with	they family	0	0
+1.0	bus	have	whole	O	O
+1.0	bus accident	be	common	0	0
+1.0	week	have	Eid holidays	O	DATE
+1.0	body	have	have remove so far	0	0
+1.0	migrant worker	be in	Bangladesh	0	LOCATION
+1.0	whose passenger	be travel	Chittagong	0	LOCATION
+1.0	circumstances	have	process	O	O
+1.0	Jyotsna Akhter	be	19	PERSON	NUMBER
+1.0	their	have	condition	O	O
+1.0	my	have	seat	O	O
+1.0	bus	be	overloaded	0	0
+1.0	bus accident	be common in	Bangladesh	0	LOCATION
+1.0	bus	be	dangerously overloaded	0	0
+1.0	body	have	have remove from bus so far	0	0
+1.0	her	have	mother	O	O
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep within seconds	PERSON	DURATION
+1.0	20 body	have	have remove so far	NUMBER	0
+1.0	million	travel	celebrate	0	0
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep within seconds of explosion	PERSON	DURATION
+1.0	accident	have	time	DATE	O
+1.0	her	have	life	O	O
+1.0	20 body	have	have remove from bus so far	NUMBER	0
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep	PERSON	0
+1.0	country	have	city	O	O
+1.0	Survivor Jyotsna Akhter	flee for	she life	PERSON	0
+1.0	whose passenger	be travel	Chittagong follow week 's eid holiday	0	DATE
+1.0	their	have	home villages	O	O
+1.0	last week	follow	eid holiday	DATE	0
+1.0	fire	start through	bus	0	0
+1.0	20 body	have	have remove	NUMBER	0
+1.0	their	have	families	O	O
+1.0	whose passenger	be travel	Chittagong follow last week 's eid holiday	0	DATE
+1.0	people	have	millions	O	O
+1.0	whose passenger	be travel back	Chittagong follow last week 's eid holiday	0	DATE
+1.0	whose passenger	be travel back	Chittagong	0	LOCATION
+1.0	whose passenger	be travel back	Chittagong follow week 's eid holiday	0	DATE
+1.0	20 body	have	have remove far	NUMBER	0
+1.0	they	be under	constant pressure	0	0
+1.0	body	have	have remove from bus	0	0
+1.0	body	have	have remove far	0	0
+1.0	body	have	have burn	0	0
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep through bus within seconds of explosion	PERSON	DURATION
+1.0	they	complete	journey	0	0
+1.0	explosion	have	seconds	DURATION	O
+1.0	whose passenger	be travel chittagong after	gas cylinder	0	0
+1.0	Survivor Jyotsna Akhter	flee as	flame sweep through bus	PERSON	0
+1.0	body	have	have remove	0	0
+1.0	whose passenger	be travel back chittagong after	gas cylinder	0	0
+1.0	Comilla fire brigade	have	director	O	O
+1.0	sudden	have	all	O	O
+1.0	they	be under	pressure	0	0
+1.0	whose	have	passengers	O	O
+1.0	20 body	have	have remove from bus far	NUMBER	0
+1.0	body	have	have remove from bus far	0	0
+1.0	20 body	have	have remove from bus	NUMBER	0
+1.0	last week 's eid holiday	burst into	flame near eastern town of Comilla	DATE	LOCATION
+1.0	country	to	second city	0	ORDINAL
+1.0	last week	's holiday be	burst into flame near eastern town of Comilla	DATE	LOCATION
+1.0	bus	be	frequently dangerously overloaded	0	0
+1.0	Abdur Rashid	director of	Comilla fire brigade	PERSON	LOCATION
+1.0	million	travel	celebrate with they family	0	0
+1.0	body	have	have burn beyond recognition	0	0
+1.0	million	travel to	they home village	0	0

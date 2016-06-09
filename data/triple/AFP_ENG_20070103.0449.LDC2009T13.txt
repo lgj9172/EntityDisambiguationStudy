@@ -1,0 +1,35 @@
+1.0	The Peruvian journalist	be return from	assignment with translator	0	0
+1.0	journalist	be kidnap at	entrance	0	0
+1.0	journalist	be	kidnap at gunpoint at entrance of afp office	0	0
+1.0	peruvian Foreign Minister Jose Garcia Belaunde	say at_time	Wednesday	PERSON	DATE
+1.0	Jose Garcia Belaunde	be	peruvian	PERSON	0
+1.0	Hamas	have	group	O	ORGANIZATION
+1.0	Foreign Minister Jose Garcia Belaunde	say at_time	Wednesday	PERSON	DATE
+1.0	journalist	be kidnap at	entrance of afp office in Gaza City	0	LOCATION
+1.0	AFP photographer Jaime Razuri in Gaza Strip	have	liberation	O	PERSON
+1.0	Peruvian Foreign Minister Jose Garcia Belaunde	tell reporter at	government headquarters	PERSON	0
+1.0	journalist	be	kidnap	0	0
+1.0	peruvian journalist	be kidnap at	entrance of afp office in Gaza City	0	LOCATION
+1.0	cabinet	have	meeting	O	O
+1.0	journalist	be	kidnap at gunpoint at entrance	0	0
+1.0	Jaime Razuri	be	AFP	PERSON	ORGANIZATION
+1.0	Peruvian Foreign Minister Jose Garcia Belaunde	tell	reporter	PERSON	0
+1.0	peruvian journalist	be kidnap at	gunpoint	0	0
+1.0	journalist	be	kidnap at gunpoint at entrance of afp office in Gaza City	0	LOCATION
+1.0	journalist	be kidnap at	entrance of afp office	0	0
+1.0	Jaime Razuri	be in	the Gaza Strip	PERSON	LOCATION
+1.0	peruvian journalist	be	kidnap	0	0
+1.0	peruvian journalist	be kidnap at	entrance	0	0
+1.0	assignment	be with	translator	0	0
+1.0	afp office	be in	Gaza City	0	LOCATION
+1.0	Peruvian Foreign Minister Jose Garcia Belaunde	tell reporter after	meeting of cabinet	PERSON	0
+1.0	peruvian journalist	be kidnap at	entrance of afp office	0	0
+1.0	The Peruvian journalist	be return from	assignment	0	0
+1.0	Hamas movement	have	group	O	O
+1.0	peruvian journalist	be	kidnap at gunpoint at entrance of afp office in Gaza City	0	LOCATION
+1.0	Jaime Razuri	be photographer of	AFP	PERSON	ORGANIZATION
+1.0	peruvian journalist	be	kidnap at gunpoint at entrance of afp office	0	0
+1.0	Peruvian Foreign Minister Jose Garcia Belaunde	tell reporter after	meeting	PERSON	0
+1.0	AFP offices	have	entrance	O	O
+1.0	peruvian journalist	be	kidnap at gunpoint at entrance	0	0
+1.0	journalist	be kidnap at	gunpoint	0	0

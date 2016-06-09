@@ -1,0 +1,14 @@
+1.0	Rene Meulensteen	be	dutch	PERSON	0
+1.0	Dutch coach Rene Meulensteen	have decide	return	PERSON	0
+1.0	Dutch coach Rene Meulensteen	have decide	return with he family	PERSON	0
+1.0	club	say on	friday	0	DATE
+1.0	Dutch coach Rene Meulensteen	return to	England	PERSON	LOCATION
+1.0	Dutch coach Rene Meulensteen	return with	he family	PERSON	0
+1.0	Dane	have	Brondby	ORGANIZATION	PERSON
+1.0	Dutch coach Rene Meulensteen	have	family	O	O
+1.0	Dutch coach Rene Meulensteen	have decide	return to England	PERSON	LOCATION
+1.0	Dutch coach Rene Meulensteen	coach at	Manchester United	PERSON	ORGANIZATION
+1.0	Dane 's Brondby after just six months	have replace	he	ORGANIZATION	0
+1.0	Brondby	be after	six month	ORGANIZATION	DURATION
+1.0	dane	have	Brondby	0	ORGANIZATION
+1.0	Dutch coach Rene Meulensteen	have decide	return to England with he family	PERSON	LOCATION

@@ -1,0 +1,28 @@
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	hold talk with	Emperor Akihito	PERSON	PERSON
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	address	fallout of December 30 Madrid airport bombing by basque separatist group ETA	0	DATE
+1.0	police crackdown	have	proponent	O	O
+0.557097602535933	Japan	schedule for	next week	LOCATION	DATE
+1.0	right	have	spokesman	O	O
+1.0	Jose Luis Rodriguez Zapatero	be on	Tuesday	PERSON	DATE
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	address	fallout of December 30 Madrid airport bombing by separatist group ETA	0	DATE
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	be set	appear in parliament	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	be set	appear in parliament on Monday	PERSON	DATE
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	address	fallout of December 30 Madrid airport bombing	0	DATE
+0.660460668196303	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	fallout of	December 30 Madrid airport bombing by basque separatist group ETA	0	DATE
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	appear in	parliament	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	address	fallout	0	0
+1.0	ETA	be by	basque	ORGANIZATION	0
+0.660460668196303	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	fallout of	December 30 Madrid airport bombing by separatist group ETA	0	DATE
+0.557097602535933	Japan	schedule for	week	LOCATION	DATE
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	have	agenda	O	O
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	be	set	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	hold	talk	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	be set	appear	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	appear in	parliament on Monday	PERSON	DATE
+0.660460668196303	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	fallout of	December 30 Madrid airport bombing	0	DATE
+1.0	Jose Luis Rodriguez Zapatero	be	spanish	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	have	presence	O	O
+1.0	ETA blast	have	consequences	O	O
+1.0	Eduardo Zaplana	spokesman of	right	PERSON	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero on Tuesday	be in	Japan scheduled for next week	PERSON	LOCATION
+1.0	December Madrid airport bombing	have	fallout	O	O

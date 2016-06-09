@@ -1,0 +1,43 @@
+1.0	Episcopal Church	be autonomous province of	worldwide anglican Communion	ORGANIZATION	MISC
+1.0	Episcopal Church	have	Canon Sylvester Thomas	PERSON	ORGANIZATION
+1.0	Sudan	of	current first vice president	LOCATION	ORDINAL
+1.0	Episcopal Church	be province of	anglican Communion	ORGANIZATION	MISC
+1.0	Church	be	autonomous	ORGANIZATION	0
+0.5366875143672626	security source	say	Police	0	0
+1.0	Episcopal Church	be autonomous province of	Communion	ORGANIZATION	MISC
+0.5366875143672626	daily security source	say	Police	SET	0
+0.5366875143672626	daily quote security source	say	Police	SET	0
+1.0	Episcopal Church	be province of	worldwide anglican Communion	ORGANIZATION	MISC
+1.0	Sudan	of	first vice president	LOCATION	ORDINAL
+1.0	it	quote	Thomas	0	PERSON
+1.0	Communion	have	province	O	MISC
+1.0	report	be in	Al-Sudani	0	PERSON
+1.0	Sudan	have	population	O	LOCATION
+1.0	majority	be	muslim	0	0
+1.0	Episcopal Church	be autonomous province of	anglican Communion	ORGANIZATION	MISC
+1.0	parish priest	say at_time	Tuesday	0	DATE
+1.0	police official	be unavailable for	comment	0	0
+1.0	population	have	majority	O	O
+1.0	complaint	be with	authority	0	0
+1.0	Alair	have	wife	O	PERSON
+1.0	Canon Sylvester Thomas	be of	Episcopal Church	PERSON	ORGANIZATION
+1.0	Sudan	of	population	LOCATION	0
+1.0	Episcopal Church	be autonomous province of	worldwide Communion	ORGANIZATION	MISC
+1.0	New Year	have	Eve mass	O	DATE
+1.0	Sudan	have	vice president	O	LOCATION
+1.0	he	say among	those hurt	0	0
+1.0	Alair	have	wife	PERSON	0
+1.0	worshipper	be at	door	0	0
+1.0	Episcopal Church	be	province	ORGANIZATION	0
+1.0	Saint	have	Cathedral	MISC	MISC
+1.0	Episcopal Church	be province of	Communion	ORGANIZATION	MISC
+1.0	he	say among	those	0	0
+1.0	it	however quote	Thomas	0	PERSON
+1.0	vice president	have	secretary	O	O
+1.0	the Sudan	have	Episcopal Church	ORGANIZATION	LOCATION
+1.0	Episcopal Church	be of	the Sudan	ORGANIZATION	LOCATION
+1.0	Episcopal Church	be	autonomous province	ORGANIZATION	0
+1.0	anglican cathedral	be in	Khartoum	0	LOCATION
+1.0	police official	be	unavailable	0	0
+1.0	Episcopal Church	be province of	worldwide Communion	ORGANIZATION	MISC
+0.5366875143672626	quote security source	say	Police	0	0

@@ -1,0 +1,29 @@
+0.9431475901053689	party coalition	win	election	0	0
+1.0	third minister	leave	Jansa 's cabinet	ORDINAL	PERSON
+1.0	Jansa	have	cabinet	O	PERSON
+0.5787568874299832	party coalition	lead by	Prime Minister Janez Jansa Democratic Party	0	PERSON
+1.0	she resignation	come after	labour	0	0
+1.0	Janez Jansa	's party be	sds	PERSON	0
+1.0	Family Affairs Minister Janez Drobnic	be	replace	PERSON	0
+1.0	she	be	often criticise	0	0
+1.0	Lukacic , 58	be	minister	0	0
+1.0	minister	leave	Jansa 's cabinet	0	PERSON
+1.0	Janez Jansa	by	slovenian Democratic Party	PERSON	ORGANIZATION
+1.0	Marija Lukacic	be	slovenian	PERSON	0
+1.0	Janez Drobnic	be	Social Affairs	PERSON	ORGANIZATION
+1.0	minister	have	cabinet	O	O
+1.0	she resignation	come at_time	two month	0	DURATION
+1.0	government	have	member	O	O
+1.0	Slovenian Agriculture Minister Marija Lukacic	have	resignation	O	O
+0.9431475901053689	party coalition	win election in	2004	0	DATE
+1.0	she	be	criticise	0	0
+1.0	Janez Drobnic	be minister of	Social Affairs	PERSON	ORGANIZATION
+1.0	Prime Minister Janez Jansa	have	Democratic Party	ORGANIZATION	PERSON
+1.0	prime minister 's cabinet	say in	statement	0	0
+0.5787568874299832	party coalition	lead by	Prime Minister Janez Jansa slovenian Democratic Party	0	PERSON
+1.0	prime minister	have	cabinet	0	0
+1.0	Lukacic , 58	be	58	PERSON	NUMBER
+1.0	minister 's cabinet	say in	statement	0	0
+1.0	Lukacic , 58	be	third minister	0	ORDINAL
+0.9431475901053689	party coalition	win	parliamentary election	0	0
+1.0	Jansa	have	cabinet	PERSON	0

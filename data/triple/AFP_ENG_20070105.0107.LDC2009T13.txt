@@ -1,0 +1,77 @@
+1.0	south african player	ask	umpire Daryl Harper about rule	0	PERSON
+1.0	Sourav Ganguly	get instead	ready	PERSON	0
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of south african inning previous day	0	DATE
+1.0	african player	ask	umpire Daryl Harper	0	PERSON
+0.13481432134008006	umpire Daryl Harper	african player	Asad Rauf	PERSON	PERSON
+1.0	african player	ask	umpire Daryl Harper about rule	0	PERSON
+1.0	India 's	lose	they first two wicket within 12 minute	LOCATION	ORDINAL
+1.0	Star Indian batsman Sachin Tendulkar	have	position	O	O
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of african inning day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of african inning	0	DURATION
+1.0	India	have	innings	O	LOCATION
+1.0	India 's	lose	they two wicket	LOCATION	NUMBER
+1.0	Gordon Templeton	be	South Africa at Newlands Friday	PERSON	LOCATION
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of african inning	0	0
+1.0	fourth official	make	fourth	ORDINAL	0
+1.0	official	make	fourth	0	0
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of south african inning previous day	0	DATE
+1.0	India	have	wicket	O	LOCATION
+1.0	time	have	amount	O	O
+1.0	India	of	second wicket	LOCATION	ORDINAL
+1.0	south african player	ask	umpire Daryl Harper	0	PERSON
+1.0	wicket	have	minutes	DURATION	O
+1.0	player	ask	umpire Daryl Harper	0	PERSON
+0.13481432134008006	umpire Daryl Harper	south african player	Asad Rauf	PERSON	PERSON
+1.0	Sourav Ganguly	get	ready	PERSON	0
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of inning	0	0
+1.0	South Africa	be at	Friday	LOCATION	DATE
+0.13481432134008006	umpire Daryl Harper	player	Asad Rauf	PERSON	PERSON
+1.0	play	have	start	O	O
+1.0	India 's	lose	they two wicket within 12 minute	LOCATION	NUMBER
+1.0	Sachin Tendulkar	be	Indian	PERSON	MISC
+1.0	India 's	lose	they first two wicket within 12 minute of start	LOCATION	ORDINAL
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of south african inning	0	DURATION
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end	0	0
+1.0	India 's	lose	they two wicket within 12 minute of start of play	LOCATION	NUMBER
+1.0	circumstances	have	out timed	O	O
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of south african inning	0	0
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end day	0	DATE
+1.0	fourth official	only make	fourth	ORDINAL	0
+1.0	India 's	lose	they first two wicket	LOCATION	ORDINAL
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field	0	0
+1.0	South Africa	have	innings	O	LOCATION
+1.0	innings	have	start	O	O
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute	0	DURATION
+1.0	Sourav Ganguly	have	field	O	PERSON
+1.0	Gordon Templeton	be media officer of	South Africa at Newlands Friday	PERSON	LOCATION
+1.0	start	have	minutes	DURATION	O
+1.0	batting	be in	he usual position on fourth day of third test against South Africa at Newlands Friday	0	DATE
+1.0	India 's	lose	they first two wicket within 12 minute of start of play	LOCATION	ORDINAL
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of inning day	0	DATE
+1.0	Roshan Mahanama	be of	Sri Lanka	PERSON	LOCATION
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of inning day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end previous day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of inning	0	DURATION
+1.0	official	only make	fourth	0	0
+1.0	Test	have	day	DATE	O
+1.0	Sri Lanka	have	match referee Roshan Mahanama	PERSON	LOCATION
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of south african inning day	0	DATE
+1.0	innings	have	end	O	O
+1.0	the South African players	have	wickets	O	O
+1.0	player	ask	umpire Daryl Harper about rule	0	PERSON
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of inning previous day	0	DATE
+1.0	wicket	have	fall	DATE	O
+1.0	a batsman	face within	three minute of previous wicket fall	0	DURATION
+1.0	South Africa	of	first inning	LOCATION	ORDINAL
+1.0	India 's	lose	they two wicket within 12 minute of start	LOCATION	NUMBER
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of south african inning day	0	DATE
+1.0	fourth	dress	room	0	0
+1.0	number	have	position	O	O
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end previous day	0	DATE
+1.0	fourth	dress room before	ball	0	0
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of african inning previous day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end	0	DURATION
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of african inning day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field at end of african inning previous day	0	DATE
+0.644972718752452	Cricket South Africa media officer Gordon Templeton	have off	have field for 18 minute at end of inning previous day	0	DATE

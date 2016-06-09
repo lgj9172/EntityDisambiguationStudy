@@ -1,0 +1,33 @@
+1.0	Al-Haritha	north of	Basra	0	LOCATION
+1.0	they	be	when abducted	0	0
+1.0	detainees	have	release	O	O
+1.0	Kuwaiti	have	escorting	O	MISC
+1.0	American	have	kidnapping	O	MISC
+1.0	American	have	disappearance	O	MISC
+1.0	they captor	release	video	0	0
+1.0	US embassy spokesman Louis Fintor	confirm	disappearance of American	0	MISC
+1.0	Americans	kidnap	austrian	MISC	0
+1.0	they	be	abducted	0	0
+1.0	US embassy	confirm	kidnapping	LOCATION	0
+1.0	group	be escort convoy on behalf of	Kuwaiti	0	MISC
+1.0	US embassy	confirm	kidnapping of american	LOCATION	0
+1.0	Basra	have	north	O	LOCATION
+1.0	group	be escort	convoy	0	0
+1.0	american	bring	number of security contractor	0	0
+1.0	Their	have	captors	O	O
+1.0	latter group	be escort convoy by	kidnapper	0	0
+1.0	group	be escort convoy by	kidnapper	0	0
+1.0	american	bring	number	0	0
+1.0	latter group	be escort convoy on behalf of	Kuwaiti	0	MISC
+1.0	US embassy spokesman Louis Fintor	confirm	disappearance	0	0
+1.0	american	bring number to	six	0	NUMBER
+1.0	Baghdad	be on	Saturday	LOCATION	DATE
+1.0	security contractors	have	number	O	O
+1.0	american	bring	number of private security contractor	0	0
+1.0	they captor	show	hostage	0	0
+1.0	hostage	be in	Iraq	0	LOCATION
+1.0	four Americans	kidnap	austrian	MISC	0
+1.0	his	have	interpretors	O	O
+1.0	US embassy	be in	Baghdad	LOCATION	LOCATION
+1.0	gunmen	have	cars	O	O
+1.0	latter group	be escort	convoy	0	0

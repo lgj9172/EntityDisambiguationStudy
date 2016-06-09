@@ -1,0 +1,39 @@
+1.0	market-maker	be give priority in	primary market	0	0
+1.0	bond	be value at	fraction of United States	0	LOCATION
+1.0	outstanding bond	be value at_time	last year	0	DATE
+1.0	restriction	have	have also discard	0	0
+1.0	book	be in	bond market	0	0
+1.0	9.2 trillion yuan	fraction of	United States	MONEY	LOCATION
+1.0	bond	be	value	0	0
+1.0	bond	have	maturity	O	O
+1.0	China	announce	move	LOCATION	0
+1.0	China	announce	move aim	LOCATION	0
+1.0	bond	be value at	fraction	0	0
+1.0	outstanding bond	be value at	1.17 trillion dollar	0	MONEY
+1.0	market-maker	be give	priority	0	0
+1.0	market-maker	be give priority in	market	0	0
+1.0	China	announce move for	new bond trading rule	LOCATION	0
+1.0	sale	be	where make	0	0
+1.0	rules	have	said	O	O
+1.0	outstanding bond	be	value	0	0
+1.0	outstanding bond	be value at	fraction	0	0
+1.0	bond	be value at_time	last year	0	DATE
+1.0	bank	have	Internet statement	O	O
+1.0	China	announce move at_time	Thursday	LOCATION	DATE
+1.0	profit-making	have	levels	O	O
+1.0	1.2 billion yuan	be in	register capital	MONEY	0
+1.0	restriction	have	have discard	0	0
+1.0	debt security	be in	2006	0	DATE
+1.0	market-maker	be	set	0	0
+1.0	market-maker	be give	priority on debt issuance	0	0
+1.0	outstanding bond	be value at	fraction of United States	0	LOCATION
+1.0	current	will	will require	DATE	0
+1.0	outstanding bond	be in	China	0	LOCATION
+1.0	China	announce move for	bond trading rule	LOCATION	0
+1.0	central bank	have	internet statement	0	0
+1.0	register capital	in yuan be	153 million dollar	0	MONEY
+1.0	outstanding bond	be value at_time	year	0	DATE
+1.0	United States	have	fraction	O	LOCATION
+1.0	sale	be	make	0	0
+1.0	bond	be value at	1.17 trillion dollar	0	MONEY
+1.0	bond	be value at_time	year	0	DATE

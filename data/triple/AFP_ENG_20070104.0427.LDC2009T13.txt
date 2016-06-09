@@ -1,0 +1,17 @@
+1.0	Eid al-Adha	be	cancel	0	0
+1.0	villagers	have	deaths	O	O
+1.0	Saddam Hussein	order death from	Dujail north	PERSON	LOCATION
+1.0	Saddam Hussein	order death from	Dujail north of Baghdad	PERSON	LOCATION
+1.0	Saddam	have	execution	O	PERSON
+1.0	Sacrifice	have	Feast	O	O
+1.0	official JANA news agency	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Saddam Hussein	order death in	1980	PERSON	0
+1.0	Saddam Hussein	order	death of 148 villager	PERSON	NUMBER
+1.0	Saddam Hussein	be sentence to	death	PERSON	0
+1.0	JANA news agency	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Saddam Hussein	be	sentence	PERSON	0
+1.0	Saddam Hussein	order	death	PERSON	0
+1.0	Saddam Hussein	order	death of 148 shiite villager	PERSON	NUMBER
+1.0	Baghdad	have	Dujail north	O	LOCATION
+1.0	Saddam	after	execution	PERSON	0
+1.0	Eid al-Adha	feast of	Sacrifice	0	0

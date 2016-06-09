@@ -1,0 +1,44 @@
+1.0	Jalal Talabani	be	iraqi	PERSON	0
+1.0	Iraq	restore tie in	November	LOCATION	DATE
+0.9570143676685857	Syria	turn	blind eye	LOCATION	0
+1.0	Iraq	restore	tie	LOCATION	0
+1.0	Iraqi President Jalal Talabani	be	iraqi president	PERSON	0
+1.0	Damascus	be in	three decade	LOCATION	DURATION
+1.0	iraqi president	visit	Damascus	0	LOCATION
+0.9570143676685857	Syria	turn	blind eye towards foreign fighter	LOCATION	0
+1.0	first iraqi president	visit	Damascus in three decade	ORDINAL	DURATION
+1.0	agreements	have	range	O	O
+1.0	Bashar al-Assad	be with	syrian	PERSON	0
+1.0	Iraqi President Jalal Talabani	be	first iraqi president	PERSON	ORDINAL
+1.0	official	tell	AFP	0	ORGANIZATION
+1.0	Iraq	restore	diplomatic tie	LOCATION	0
+1.0	iraqi president	visit	Damascus in three decade	0	DURATION
+1.0	Iraq	restore tie after	break	LOCATION	0
+1.0	talk	be with	Bashar al-Assad	0	PERSON
+1.0	Iraqi President Jalal Talabani	be	president	PERSON	0
+1.0	Talabani	at	office	PERSON	0
+1.0	president	visit	Damascus	0	LOCATION
+1.0	Iraq	participate in	insurgency	LOCATION	0
+1.0	official	tell afp at_time	Friday	0	DATE
+0.7187545440329117	Iraqi President Jalal Talabani	visit	Damascus	PERSON	LOCATION
+1.0	first president	visit	Damascus	ORDINAL	LOCATION
+1.0	Walid Muallem	be by	syrian	PERSON	0
+1.0	Iraqi President Jalal Talabani	have	counterpart Bashar al-Assad	PERSON	O
+0.9570143676685857	Syria	turn	eye towards fighter	LOCATION	0
+0.9570143676685857	Syria	turn	eye	LOCATION	0
+1.0	Baghdad	have insist on	building tie	LOCATION	0
+1.0	Washington	have repeatedly accuse	Syria	LOCATION	LOCATION
+1.0	Iraqi President Jalal Talabani	be	first president	PERSON	ORDINAL
+1.0	Iraq	restore tie after	26-year break	LOCATION	DURATION
+0.9570143676685857	Syria	turn	blind eye towards fighter	LOCATION	0
+1.0	security	have	range	O	O
+1.0	Washington	have	territory	O	O
+1.0	Iraq	restore	Syria	LOCATION	LOCATION
+1.0	Washington	have accuse	Syria	LOCATION	LOCATION
+1.0	Talabani	have	office	O	PERSON
+1.0	first iraqi president	visit	Damascus	ORDINAL	LOCATION
+0.9570143676685857	Syria	turn	eye towards foreign fighter	LOCATION	0
+0.7187545440329117	Iraqi President Jalal Talabani	visit	Damascus in three decade	PERSON	DURATION
+1.0	Bashar al-Assad	say	add	0	0
+1.0	president	visit	Damascus in three decade	0	DURATION
+1.0	first president	visit	Damascus in three decade	ORDINAL	DURATION

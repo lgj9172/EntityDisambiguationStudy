@@ -1,0 +1,80 @@
+1.0	third seed Xavier Malisse	will clash later at_time	night	PERSON	TIME
+1.0	Nadal	take to	centre court	PERSON	0
+1.0	Paradorn Srichaphan	also miss moya from	opening day 's action	PERSON	DURATION
+1.0	Taiwan	have	Lu Yen-hsun	PERSON	LOCATION
+1.0	Asia	have	top player	LOCATION	0
+1.0	Petr Pala	be of	Czech Republic	PERSON	LOCATION
+1.0	Nadal	however take to	centre court	PERSON	0
+1.0	american Kevin Kim	oust	Simon Greul	PERSON	PERSON
+1.0	seed Xavier Malisse	will clash later at_time	night	PERSON	TIME
+1.0	tournament 's star	will join singles action on	Tuesday	0	DATE
+0.585670518425531	Nicolas Mahut	seed	eighth	PERSON	ORDINAL
+1.0	Kevin Kim	oust	Simon Greul of Germany 1-6 6-2 6-3	PERSON	LOCATION
+1.0	Asia	have	player	O	LOCATION
+1.0	I	continue	same way	0	0
+1.0	my	have	game	O	O
+1.0	the	whip	defend champion	0	0
+0.585670518425531	Nicolas Mahut	seed in	season-opening event	PERSON	0
+1.0	Stefano Galvani	beat lu yen-hsun in	other match	PERSON	0
+1.0	Argentina	have	number David Nalbandian	PERSON	LOCATION
+1.0	tournament	have	top star	0	0
+1.0	american Kevin Kim	oust	Simon Greul of Germany 1-6 6-2 6-3	PERSON	LOCATION
+1.0	Thailand	have	Danai Udomchoke	PERSON	LOCATION
+1.0	ATP Chennai Open	have	opening day	DURATION	MISC
+1.0	2006	be	my best year on circuit	DATE	DURATION
+1.0	Teimuraz Gabashvili	be of	Russia	PERSON	LOCATION
+1.0	Nicolas Mahut	overcome resistance in	set	PERSON	0
+1.0	Kevin Kim	be	american	PERSON	0
+1.0	Germany	have	Simon Greul	PERSON	LOCATION
+1.0	Danai Udomchoke	be of	Thailand	PERSON	LOCATION
+1.0	Carlos Moya	be	Spaniard	PERSON	MISC
+1.0	Stefano Galvani	beat	Lu yen-hsun of Taiwan 6-2 6-3	PERSON	NUMBER
+1.0	Julien Benneteau	have	year	DURATION	O
+1.0	tournament 's top star	will join singles action on	Tuesday	0	DATE
+1.0	tournament 's top star	will join	singles action	0	0
+0.585670518425531	Nicolas Mahut	seed in	event	PERSON	0
+1.0	tournament	have	stars	O	O
+1.0	Nicolas Mahut	defeat	Alejandro Falla of Colombia 7-5 6-4	PERSON	NUMBER
+1.0	Nicolas Mahut	defeat	Alejandro Falla	PERSON	PERSON
+1.0	Thailand	have	Paradorn Srichaphan	PERSON	LOCATION
+1.0	Stefano Galvani	be of	Italy	PERSON	LOCATION
+1.0	Games	champion	Danai Udomchoke of Thailand	MISC	LOCATION
+1.0	Spain	have	Rafael Nadal	PERSON	LOCATION
+1.0	Colombia	have	Alejandro Falla	PERSON	LOCATION
+1.0	David Nalbandian	be of	Argentina	PERSON	LOCATION
+1.0	Stefano Galvani	beat lu yen-hsun in	match	PERSON	0
+1.0	Paradorn Srichaphan	be of	Thailand	PERSON	LOCATION
+1.0	Lu yen-hsun	be of	Taiwan	PERSON	LOCATION
+1.0	Michal Mertinak	have	Petr Pala	PERSON	PERSON
+1.0	Xavier Malisse	be	third	PERSON	0
+1.0	day	from	action	DURATION	0
+1.0	Alejandro Falla	be of	Colombia	PERSON	LOCATION
+1.0	Nicolas Mahut	overcome	resistance	PERSON	0
+1.0	I	continue	way	0	0
+1.0	Stefano Galvani	beat lu yen-hsun in	other early match	PERSON	0
+1.0	Kevin Kim	oust	Simon Greul	PERSON	PERSON
+1.0	asian Games	champion	Danai Udomchoke	MISC	PERSON
+1.0	Slovalia	have	Petr Pala	PERSON	O
+1.0	Stefano Galvani	beat	Lu yen-hsun	PERSON	PERSON
+1.0	tournament 's star	will join	singles action	0	0
+1.0	Russia	have	Teimuraz Gabashvili	PERSON	LOCATION
+1.0	opening day	have	action	O	DURATION
+1.0	seed Xavier Malisse	will clash at_time	night	PERSON	TIME
+0.17974797504936701	I	hope	continue	0	0
+1.0	my	have	match	O	O
+1.0	Paradorn Srichaphan	miss moya from	opening day 's action	PERSON	DURATION
+1.0	Simon Greul	be of	Germany	PERSON	LOCATION
+1.0	Xavier Malisse	be of	Belgium	PERSON	LOCATION
+1.0	Games	champion	Danai Udomchoke	MISC	PERSON
+1.0	Italy	have	Stefano Galvani	PERSON	LOCATION
+1.0	2006	be	my best year	DATE	DURATION
+1.0	2006	be	my year	DATE	DURATION
+1.0	third seed Xavier Malisse	will clash at_time	night	PERSON	TIME
+1.0	tournament	's star be	world number	0	0
+1.0	Czech Republic	have	Petr Pala	PERSON	LOCATION
+1.0	Nicolas Mahut	overcome resistance in	first set	PERSON	ORDINAL
+1.0	Stefano Galvani	beat lu yen-hsun in	early match	PERSON	0
+1.0	Belgium	have	seed Xavier Malisse	PERSON	LOCATION
+1.0	40	have	ranking	O	NUMBER
+1.0	2006	be	my year on circuit	DATE	DURATION
+1.0	asian Games	champion	Danai Udomchoke of Thailand	MISC	LOCATION

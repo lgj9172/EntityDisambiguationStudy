@@ -1,0 +1,30 @@
+1.0	court	set	free chief press spokesman	0	0
+1.0	incident	occur in	Lilongwe in presence	0	LOCATION
+1.0	incident	occur in	Lilongwe in presence of she collegue	0	LOCATION
+1.0	Nation	have	offices	O	O
+1.0	Juliet Chimwaga	interview	news source	0	0
+1.0	incident	occur at	Nation 's regional office	0	0
+1.0	Juliet Chimwaga	have	collegues	O	O
+1.0	Malawi	be on	Friday	LOCATION	DATE
+1.0	Bingu wa Mutharika	be of	Malawian	PERSON	MISC
+1.0	Lilongwe	be in	presence of she collegue	LOCATION	0
+1.0	court	be in	Malawi	0	LOCATION
+1.0	incident	occur on	December 18	0	DATE
+1.0	court	set	chief press spokesman	0	0
+1.0	colleagues	have	Two	NUMBER	O
+1.0	Nation	at	regional office	0	0
+0.8546682476931434	charge	harass	female journalist	0	0
+1.0	incident	occur in	Lilongwe	0	LOCATION
+1.0	journalist	have	breast	O	O
+1.0	country	have	newapapers	O	O
+1.0	Juliet Chimwaga	have	breast	O	PERSON
+1.0	court	set	free press spokesman	0	0
+1.0	Juliet Chimwaga	have	consent	O	O
+1.0	her	have	colleagues	O	O
+1.0	Malawian President Bingu wa Mutharika	have	press spokesman	O	PERSON
+1.0	Ralph Kasambara	general for	Juliet Chimwaga	PERSON	PERSON
+1.0	incident	occur at	Nation 's office	0	0
+0.8546682476931434	charge	harass	journalist	0	0
+1.0	collegues	have	presence	O	O
+1.0	court	set	press spokesman	0	0
+1.0	newapapers	have	one	NUMBER	O

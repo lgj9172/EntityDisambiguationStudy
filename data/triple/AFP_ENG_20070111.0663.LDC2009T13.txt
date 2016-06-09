@@ -1,0 +1,38 @@
+1.0	US President George W. Bush	set in	August 2001	0	DATE
+1.0	embryos	have	destruction	O	O
+1.0	House of Representatives	be	US	ORGANIZATION	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	set on	federal funding for stem cell research	0	0
+0.21798674533488105	US House	vote in	first challenge	LOCATION	ORDINAL
+1.0	US President George W. Bush	set on	federal funding for embryonic stem cell research	0	0
+0.21798674533488105	democrat-controlled US House	vote in	major challenge to Bush	LOCATION	PERSON
+1.0	US President George W. Bush	set on	funding for embryonic stem cell research	0	0
+1.0	his	have	desk	O	O
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+0.21798674533488105	US House	vote in	first challenge to Bush	LOCATION	ORDINAL
+1.0	techniques	have	development	O	O
+0.21798674533488105	democrat-controlled US House	vote in	challenge to Bush	LOCATION	PERSON
+0.21798674533488105	US House	vote in	challenge	LOCATION	0
+0.21798674533488105	democrat-controlled US House	vote in	first challenge	LOCATION	ORDINAL
+1.0	US President George W. Bush	set on	funding	0	0
+0.21798674533488105	democrat-controlled US House	vote in	first challenge to Bush	LOCATION	ORDINAL
+1.0	House of Representatives	be	democrat-controlled	ORGANIZATION	0
+1.0	stem cells	have	derivation	O	O
+1.0	US President George W. Bush	set on	federal funding	0	0
+0.21798674533488105	democrat-controlled US House	vote in	major challenge	LOCATION	0
+0.21798674533488105	US House	vote in	first major challenge to Bush	LOCATION	ORDINAL
+1.0	US President George W. Bush	have	desk	O	O
+0.21798674533488105	US House	vote in	challenge to Bush	LOCATION	PERSON
+0.21798674533488105	democrat-controlled US House	vote in	challenge	LOCATION	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+0.21798674533488105	democrat-controlled US House	vote in	first major challenge	LOCATION	ORDINAL
+0.21798674533488105	democrat-controlled US House	vote in	first major challenge to Bush	LOCATION	ORDINAL
+0.21798674533488105	US House	vote in	major challenge	LOCATION	0
+1.0	democrat-controlled US House	vote	earlier	LOCATION	0
+0.21798674533488105	US House	vote in	first major challenge	LOCATION	ORDINAL
+0.21798674533488105	US House	vote in	major challenge to Bush	LOCATION	PERSON
+1.0	US House	vote	earlier	LOCATION	0
+1.0	stem cell research	have	forms	O	O
+1.0	White House	warn at_time	Thursday	ORGANIZATION	DATE
+1.0	US President George W. Bush	set on	funding for stem cell research	0	0
+1.0	it	reach	he desk	0	0

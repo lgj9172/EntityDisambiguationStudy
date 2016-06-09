@@ -1,0 +1,67 @@
+1.0	report	show	0.9 percent gain	0	PERCENT
+1.0	broad-market	inch	up 0.67 point	0	NUMBER
+1.0	consumption	be gdp	growth could come in above most estimate	0	0
+1.0	report	show	strong 0.9 percent gain	0	PERCENT
+1.0	crude future	hit	19-month low	0	DURATION
+1.0	retail sale	be report on	also burner	0	0
+1.0	Dow Jones Industrial Average	close at	high	MISC	0
+1.0	sale	be	report	0	0
+1.0	datum	be	big	0	0
+1.0	consumption	look	gross product	0	NUMBER
+1.0	future	hit	low	0	0
+1.0	Dow Jones Industrial Average	edge	up 6.41 point	MISC	NUMBER
+1.0	market	mull	sale report	DURATION	DURATION
+1.0	crude future	hit	low	0	0
+1.0	market	mull sale report after	fresh record high for blue-chip share	DURATION	DURATION
+1.0	broad-market	inch	Poor	0	0
+1.0	Nasdaq composite	add	0.12 percent	MISC	PERCENT
+1.0	consumption	look	product	0	0
+1.0	growth	could come in	in estimate	0	0
+1.0	market	mull sale report after	record high for blue-chip share	DURATION	DURATION
+1.0	market	mull sale report after	record high	DURATION	0
+1.0	market	mull sale report after	record high for share	DURATION	DURATION
+1.0	retail sale	be report on	front burner	0	0
+1.0	retail sale	be report on	burner	0	0
+1.0	Joel Naroff	be of	Naroff Economic Advisors	PERSON	ORGANIZATION
+1.0	sale	be report on	also burner	0	0
+1.0	market	mull	strong sale report	DURATION	DURATION
+1.0	Naroff Economic Advisors	have	Joel Naroff	PERSON	ORGANIZATION
+1.0	market	mull sale report after	fresh record high	DURATION	0
+1.0	broad-market	inch	0.05 percent	0	PERCENT
+1.0	market	be digest	rebound	DURATION	0
+1.0	market	mull sale report in	crude oil price	DURATION	0
+1.0	consumption	be up gdp	growth could come in above most estimate	0	0
+1.0	sale	be report on	also front burner	0	0
+1.0	12,514.98	have	high	O	NUMBER
+1.0	Dow Jones Industrial Average	close at_time	Thursday	MISC	DATE
+1.0	market	mull	retail sale report	DURATION	DURATION
+1.0	Dow Jones Industrial Average	close at	all-time high	MISC	0
+1.0	Nasdaq composite	add	3.04 point	MISC	NUMBER
+1.0	consumption	look	domestic product	0	0
+1.0	Dow Jones Industrial Average	close at	all-time high of 12,514.98	MISC	NUMBER
+1.0	US stock	trade	marginally higher at open	LOCATION	DURATION
+1.0	market	be digest	rebound in world oil price	DURATION	0
+1.0	Dow Jones Industrial Average	close at	high of 12,514.98	MISC	NUMBER
+1.0	market	mull sale report after	fresh record high for share	DURATION	DURATION
+0.06221292408889589	Nasdaq composite	add at	2,487.88	MISC	NUMBER
+1.0	consumption	be gdp	growth could come in above estimate	0	0
+1.0	US stock	trade at_time	Friday	LOCATION	DURATION
+1.0	retail sale	be report on	also front burner	0	0
+1.0	consumption	be up gdp	growth could come in above estimate	0	0
+1.0	US stock	trade	higher	LOCATION	0
+1.0	Dow Jones Industrial Average	edge	0.05 percent	MISC	PERCENT
+1.0	future	hit	19-month low	0	DURATION
+1.0	rebound	be in	world oil price	0	0
+1.0	retail sale	be	report	0	0
+1.0	trade	have	minutes	DURATION	O
+1.0	market	mull	strong retail sale report	DURATION	DURATION
+1.0	sale	be report on	burner	0	0
+1.0	growth	could come in	in most estimate	0	0
+1.0	US stock	trade	marginally higher	LOCATION	DURATION
+1.0	market	mull sale report in	oil price	DURATION	0
+1.0	US stock	trade	higher at open	LOCATION	DURATION
+1.0	market	be digest rebound at_time	Friday	DURATION	DURATION
+1.0	report	show	0.9 percent gain for US	0	LOCATION
+1.0	sale	be report on	front burner	0	0
+1.0	consumption	look	gross domestic product	0	NUMBER
+1.0	market	mull sale report in	day	DURATION	DURATION

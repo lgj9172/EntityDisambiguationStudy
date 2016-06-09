@@ -1,0 +1,39 @@
+1.0	game	be 's	Vaughan one-day international since 2005	0	DURATION
+1.0	Australia	promote	speedster Mitchell Johnson due	LOCATION	PERSON
+1.0	game	be 's	Vaughan one-day international	0	DURATION
+1.0	series	have	game	O	O
+1.0	Australia	promote	speedster Mitchell Johnson due to absence of Brett Lee	LOCATION	PERSON
+1.0	James Anderson	be	Monty Panesar	PERSON	PERSON
+1.0	James Dalrymple	be	Jon Lewis	PERSON	PERSON
+1.0	game	be 's	Vaughan	0	PERSON
+1.0	game	be 's	Vaughan first one-day international since 2005	0	ORDINAL
+1.0	it	be	first game	0	ORDINAL
+1.0	Michael Vaughan	be captain of	England	PERSON	LOCATION
+1.0	Andrew Symonds	be	Cameron White	PERSON	PERSON
+1.0	Australia	promote	speedster Mitchell Johnson	LOCATION	PERSON
+1.0	game	be 's	Vaughan international	0	PERSON
+1.0	Australia	be at	MCG	LOCATION	ORGANIZATION
+1.0	game	be 's	Vaughan first one-day international	0	ORDINAL
+1.0	Paul Collingwood	be	Paul Nixon	PERSON	PERSON
+1.0	game	be 's	Vaughan first international since 2005	0	ORDINAL
+1.0	Vaughan 's first one-day international since 2005	will open	batting	PERSON	0
+1.0	game	be 's	Vaughan international since 2005	0	PERSON
+1.0	game	be 's	Vaughan one-day	0	DURATION
+1.0	Vaughan	be 's	one-day	PERSON	DURATION
+1.0	Michael Vaughan	be	England	PERSON	LOCATION
+1.0	game	be 's	Vaughan first one-day	0	ORDINAL
+1.0	Vaughan 's first one-day international since 2005	will open batting with	Andrew Strauss	PERSON	PERSON
+1.0	Nathan Bracken	be	Stuart Clark	PERSON	PERSON
+1.0	Kevin Pietersen	be	Andrew Flintoff	PERSON	PERSON
+1.0	England	lose	Ashes	LOCATION	0
+1.0	it	be	game	0	0
+1.0	Mitchell Johnson	be	Glenn McGrath	PERSON	PERSON
+1.0	Andrew Strauss	be	Ian Bell	PERSON	PERSON
+1.0	game	be 's	Vaughan first	0	ORDINAL
+1.0	Brett Lee	have	absence	O	PERSON
+1.0	game	be 's	Vaughan first international	0	ORDINAL
+1.0	their	have	debuts	O	O
+1.0	Michael Clarke	be	Adam Gilchrist	PERSON	PERSON
+1.0	Matthew Hayden	be	Mike Hussey	PERSON	PERSON
+1.0	Australia	promote	speedster Mitchell Johnson due to absence	LOCATION	PERSON
+1.0	Vaughan	be 's	first	PERSON	ORDINAL

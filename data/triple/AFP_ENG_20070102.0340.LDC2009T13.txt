@@ -1,0 +1,17 @@
+1.0	five	have	doors	O	O
+1.0	attraction	include exhibition by	master Tintoretto	0	PERSON
+1.0	people	have	total	O	O
+1.0	museum	have	neighbour	0	0
+1.0	Madrid	to	celebrated Thyssen-Bornemisza museum	LOCATION	0
+1.0	museum	's neighbour be	the Prado	0	PERSON
+1.0	museum	have	neighbour	O	O
+1.0	Madrid	have	Thyssen-Bornemisza museum	O	LOCATION
+1.0	works	have	exhibitions	O	O
+1.0	attraction	include	exhibition	0	0
+1.0	attraction	include exhibition on	work	0	0
+1.0	attraction	include exhibition by	italian master Tintoretto	0	PERSON
+1.0	total	have	percent	PERCENT	O
+1.0	museum 's neighbour	say at_time	last month	0	DATE
+1.0	visitors	have	number	O	O
+1.0	Tintoretto	be by	italian	PERSON	0
+1.0	museum 's neighbour	say at_time	month	0	DATE

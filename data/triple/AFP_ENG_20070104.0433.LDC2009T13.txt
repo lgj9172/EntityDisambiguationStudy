@@ -1,0 +1,39 @@
+1.0	a350	be	twin-engined passenger jet	0	0
+1.0	European plane maker Airbus	overhaul design from	customer	0	0
+1.0	deal	be book in	2006 Airbus account	0	DATE
+1.0	a350	be	twin-engined mid-sized passenger jet	0	0
+0.49549580141275196	European plane maker Airbus	design of	aircraft	0	0
+1.0	European plane maker Airbus	launch	re-designed version of a350 in December	ORGANIZATION	DATE
+1.0	a350	be	twin-engined passenger jet intend	0	0
+1.0	a350	be	mid-sized	0	0
+1.0	Airbus	be	european	ORGANIZATION	0
+1.0	European plane maker Airbus	overhaul	design	0	0
+1.0	plane maker Airbus	say at_time	Thursday	ORGANIZATION	DATE
+1.0	a350	be	twin-engined	0	0
+1.0	the US-based group	have	fleet	O	O
+1.0	deal	be	book	0	0
+1.0	European plane maker Airbus	have collect	100 firm order	ORGANIZATION	NUMBER
+1.0	a350	be	twin-engined mid-sized passenger jet intend	0	0
+1.0	A350	have	version	O	O
+1.0	European plane maker Airbus	launch	version of a350	ORGANIZATION	0
+1.0	aircraft	have	design	O	O
+1.0	European plane maker Airbus	launch	re-designed version	ORGANIZATION	0
+1.0	European plane maker Airbus	overhaul design under	pressure	0	0
+1.0	a350	be	mid-sized passenger jet intend	0	0
+1.0	second-hand Airbus aircraft	be in	its fleet of 200 plane	ORGANIZATION	NUMBER
+1.0	decision	be	take	0	0
+1.0	a350	be in	December	0	DATE
+1.0	decision	develop	aircraft	0	0
+1.0	order	be	first	0	ORDINAL
+1.0	European plane maker Airbus	launch	version	ORGANIZATION	0
+1.0	European plane maker Airbus	launch	version of a350 in December	ORGANIZATION	DATE
+1.0	deal	be	sign	0	0
+1.0	a350	be	passenger jet intend	0	0
+1.0	a350	be	passenger jet	0	0
+1.0	european plane maker Airbus	say at_time	Thursday	ORGANIZATION	DATE
+1.0	planes	have	fleet	O	O
+1.0	European plane maker Airbus	have collect	100 firm order for a350	ORGANIZATION	NUMBER
+1.0	European plane maker Airbus	launch	re-designed version of a350	ORGANIZATION	0
+1.0	European plane maker Airbus	overhaul	design of aircraft	0	0
+1.0	deal	be sign in	December	0	DATE
+1.0	a350	be	mid-sized passenger jet	0	0

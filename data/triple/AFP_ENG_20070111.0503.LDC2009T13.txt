@@ -1,0 +1,19 @@
+1.0	The 40-year-old playwright	be look for	right profile	0	0
+1.0	playwright	tell le point magazine at_time	Thursday	0	DATE
+1.0	they	have	forebear	0	0
+1.0	Nicolas Sarkozy	be	obvious choice	PERSON	0
+1.0	40-year-old playwright	tell le point magazine at_time	Thursday	DURATION	DATE
+1.0	playwright	tell	Le Point magazine	0	ORGANIZATION
+1.0	point	be in	common	0	0
+1.0	Sarkozy	be right-wing candidate against	Socialist Segolene Royal	PERSON	PERSON
+1.0	writer	have	point	0	0
+1.0	The 40-year-old playwright	be look for	profile	0	0
+1.0	writer	have	politician	0	0
+1.0	Yasmina Reza	see	The 40-year-old playwright	0	0
+1.0	Nicolas Sarkozy	be	choice	PERSON	0
+1.0	candidate Nicolas Sarkozy	have	circle	O	PERSON
+1.0	Yasmina Reza	writer of	hit 1995 play Art	PERSON	DATE
+1.0	play Art	have	French writer	O	O
+1.0	40-year-old playwright	tell	Le Point magazine	DURATION	ORGANIZATION
+1.0	they	have	hungarian forebear	0	0
+1.0	politician	have	dimension	O	O

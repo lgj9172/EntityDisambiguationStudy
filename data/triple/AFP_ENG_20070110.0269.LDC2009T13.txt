@@ -1,0 +1,182 @@
+1.0	government	have	policy	O	O
+1.0	Iran	have	enemies	O	LOCATION
+1.0	ultra-conservative cleric	be trounce in	election for assembly	0	0
+1.0	President Mahmoud Ahmadinejad	have	handling	O	PERSON
+1.0	elections	have	results	O	O
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff over Iran 's nuclear programme	0	PERSON
+1.0	week	criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff	0	PERSON
+0.6519986647118983	moderate conservative	seat on	council	0	0
+1.0	cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's handling	0	PERSON
+1.0	fear	have	climate	O	O
+1.0	cleric	be	in twin vote trounce in election for clerical assembly	0	0
+1.0	Iran 's reformist	have already condemn	Ahmadinejad 's rhetoric	LOCATION	PERSON
+1.0	score success	be in	election	0	0
+1.0	situation	have	aggravation	O	O
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff	0	PERSON
+1.0	daily Jomhuri Eslami	be see as	close	ORGANIZATION	0
+1.0	ultra-conservative cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	daily Jomhuri Eslami	like as	mouthpiece of Iran 's leader	ORGANIZATION	LOCATION
+1.0	ultra-conservative cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	Hossein Entezami	member of	team	PERSON	0
+1.0	his	have	critics	O	O
+1.0	iranian political force	remain as	right	0	0
+1.0	cleric	be	in vote trounce in election for clerical assembly	0	0
+1.0	Iran	have	programme	O	LOCATION
+1.0	ultra-conservative cleric	be	in twin vote trounce in election for clerical assembly	0	0
+1.0	Jomhuri Eslami	be	daily	ORGANIZATION	SET
+1.0	cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	nuclear crisis	be in	2006	0	DATE
+0.6519986647118983	conservative	seat on	local council	0	0
+1.0	cleric	be	in vote trounce in election for assembly	0	0
+1.0	Hamshahri	be direct by	member of team of chief negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	foreign policy	end in	adoption of two resolution	0	NUMBER
+1.0	Iran 's	have	UN Security	ORGANIZATION	O
+1.0	policy	end against	Iran	0	LOCATION
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's handling of standoff over Iran 's programme	0	PERSON
+1.0	Hamshahri	be direct by	member of team	ORGANIZATION	0
+1.0	reformist	have	presidency	O	O
+1.0	week	criticise	President Mahmoud Ahmadinejad 's handling of standoff over Iran 's nuclear programme	0	PERSON
+1.0	cleric	be	in twin vote trounce in election for assembly	0	0
+0.6519986647118983	conservative	seat on	council	0	0
+1.0	iranian political force	remain	committed to nuclear programme	0	0
+1.0	voice	have become louder over	president 's tirade against country	0	0
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's confrontational handling	0	PERSON
+1.0	UN security Council	be under	first	ORGANIZATION	ORDINAL
+1.0	cleric	be trounce in	vote	0	0
+1.0	cleric	be trounce in	election for clerical assembly	0	0
+1.0	president	have	allies	O	O
+1.0	president	have	style	O	O
+1.0	Jomhuri Eslami	like to	style itself	ORGANIZATION	0
+0.8851305257129554	Ahmadinejad	defiant as	ever	PERSON	0
+1.0	Iran 's	have	reformists	O	LOCATION
+0.7426407343766103	the	seat on	local council	0	0
+1.0	paper	have	executive	O	O
+1.0	Jomhuri Eslami	like as	mouthpiece of Iran 's islamic leader	ORGANIZATION	LOCATION
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's handling of standoff over Iran 's nuclear programme	0	PERSON
+1.0	Mohammad Atrianfar	say in	speech	0	0
+1.0	resolutions	have	adoption	O	O
+1.0	week	criticise	President Mahmoud Ahmadinejad 's confrontational handling	0	PERSON
+1.0	voice	have become louder over	president 's tirade	0	0
+1.0	daily Jomhuri Eslami	like as	mouthpiece of Iran 's islamic leader	ORGANIZATION	LOCATION
+1.0	foreign policy	end against	Iran	0	LOCATION
+1.0	ultra-conservative cleric	be trounce in	twin vote	0	0
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's handling of standoff	0	PERSON
+1.0	cleric	be trounce in	election for assembly	0	0
+1.0	authority	prefer approach base on	negotiation	0	0
+1.0	cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	Rafsanjani	have	Mohammad Hashemi	PERSON	PERSON
+1.0	Jomhuri Eslami	be also see as	close	ORGANIZATION	0
+1.0	ultra-conservative cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+1.0	Hamshahri	be	direct by Hossein Entezami at Supreme National Security Council	ORGANIZATION	ORGANIZATION
+1.0	policy	end in	adoption of two resolution	0	NUMBER
+1.0	Jomhuri Eslami	like as	mouthpiece	ORGANIZATION	0
+1.0	western country	be in	he public speech	0	0
+1.0	cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+1.0	Iran	by	enemy	LOCATION	0
+1.0	week	criticise	President Mahmoud Ahmadinejad 's handling of standoff over Iran 's programme	0	PERSON
+1.0	iranian political force	remain	committed	0	0
+1.0	Hamshahri	be direct by	important member of team of chief nuclear negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	week	criticise	President Mahmoud Ahmadinejad 's handling	0	PERSON
+1.0	ultra-conservative cleric	be trounce in	vote	0	0
+1.0	Mohammad Hashemi	be brother of	Rafsanjani	PERSON	PERSON
+1.0	ultra-conservative cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+1.0	ultra-conservative cleric	be	in vote trounce in election for clerical assembly	0	0
+1.0	ultra-conservative cleric	be trounce by	former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	ultra-conservative cleric	be	in twin vote trounce in election for assembly	0	0
+1.0	Iran 's reformist	have condemn	Ahmadinejad 's rhetoric	LOCATION	PERSON
+1.0	iranian political force	remain as	national right	0	0
+1.0	ultra-conservative cleric	be trounce in	election	0	0
+1.0	leaders	have	mouthpiece	O	O
+1.0	cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	daily Jomhuri Eslami	like to	style	ORGANIZATION	0
+1.0	people	have	will	O	O
+1.0	week	criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff over Iran 's programme	0	PERSON
+1.0	cleric	be	in twin vote trounce in election	0	0
+1.0	president	of	style	0	0
+1.0	cleric	be trounce in	election	0	0
+1.0	cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	ultra-conservative cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	style	have	editorials	O	O
+1.0	Hamshahri	be direct by	member	ORGANIZATION	0
+1.0	ultra-conservative cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	foreign policy	end in	adoption	0	0
+1.0	paper	end in	failure	0	0
+1.0	Hamshahri	be direct by	member of team of chief nuclear negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	cleric	be	trounce	0	0
+0.6519986647118983	conservative	seat	reformist	0	0
+1.0	Iran	over	nuclear programme	LOCATION	0
+1.0	voice	have become particularly over	president 's tirade	0	0
+1.0	team	have	member	O	O
+1.0	ultra-conservative cleric	be	in vote trounce in election	0	0
+1.0	Rafsanjani	have	brother Mohammad Hashemi	PERSON	PERSON
+1.0	week	criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff over Iran 's nuclear programme	0	PERSON
+0.6519986647118983	moderate conservative	seat	reformist	0	0
+1.0	ultra-conservative cleric	be	in twin vote trounce in election	0	0
+1.0	ultra-conservative cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	the president 's	have	speeches	O	O
+1.0	Hamshahri	be direct by	important member of team of negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	Hamshahri	be direct by	important member of team	ORGANIZATION	0
+1.0	Iran	of	islamic leader	LOCATION	0
+1.0	Hamshahri	be direct by	member of team of negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	week	have join	reformer	0	0
+1.0	week	publicly criticise	President Mahmoud Ahmadinejad 's confrontational handling of standoff over Iran 's programme	0	PERSON
+1.0	cleric	be trounce by	former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	Jomhuri Eslami	be see as	close	ORGANIZATION	0
+1.0	Hamshahri	be direct by	important member of team of chief negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	iranian political force	remain	committed to programme	0	0
+1.0	Hamshahri	be direct by	important member of team of nuclear negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	Hamshahri	be direct by	important member	ORGANIZATION	0
+1.0	ultra-conservative cleric	be	in vote trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+0.5250930665678292	paper	express	regret	0	0
+1.0	cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+1.0	ultra-conservative cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election for assembly	0	PERSON
+1.0	daily Jomhuri Eslami	be also see as	close	ORGANIZATION	0
+1.0	Hamshahri	be direct by	Hossein Entezami	ORGANIZATION	PERSON
+1.0	president	over	angry tirade against western country in public speech	0	0
+1.0	president	have	speeches	O	O
+1.0	Mahmoud Ahmadinejad	have	confrontational handling of standoff over nuclear programme	PERSON	0
+1.0	failure	have	lessons	O	O
+1.0	you	say	60,000	0	NUMBER
+1.0	ultra-conservative cleric	be	trounce	0	0
+0.6519986647118983	moderate conservative	seat on	local council	0	0
+1.0	president	have	ally	0	0
+1.0	Jomhuri Eslami	like as	mouthpiece of Iran 's leader	ORGANIZATION	LOCATION
+1.0	Javier Solana	be	EU	PERSON	ORGANIZATION
+1.0	president	have	tirades	O	O
+1.0	intimidation	have	climate	O	O
+1.0	voice	have become louder particularly over	president 's tirade	0	0
+1.0	cleric	be	in vote trounce in election	0	0
+1.0	policy	end in	adoption	0	0
+1.0	standoff	have	handling	O	O
+1.0	discomfort	have	voices	O	O
+1.0	the president 's angry tirades against Western countries in his public speeches	install	3,000 centrifuge	0	NUMBER
+1.0	crisis	have	find	O	O
+1.0	Iran 's	have	reformist lead by main faction	LOCATION	0
+1.0	Hamshahri	be direct by	member of team of nuclear negotiator Ali Larijani	ORGANIZATION	PERSON
+1.0	week	criticise	President Mahmoud Ahmadinejad 's handling of standoff	0	PERSON
+1.0	ultra-conservative cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	their	have	defeat	O	O
+1.0	ultra-conservative cleric	be trounce in	election for clerical assembly	0	0
+1.0	Jomhuri Eslami	like to	style	ORGANIZATION	0
+1.0	daily Jomhuri Eslami	like as	mouthpiece	ORGANIZATION	0
+1.0	ultra-conservative cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani	0	PERSON
+1.0	their	have	faction	O	O
+1.0	voice	have become over	president 's tirade	0	0
+1.0	you	announce at_time	one day	0	DATE
+1.0	Ahmadinejad	have	rhetoric	O	PERSON
+0.7426407343766103	the	seat on	council	0	0
+1.0	daily Jomhuri Eslami	like to	style itself	ORGANIZATION	0
+1.0	cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	voice	have become over	president 's tirade against country	0	0
+1.0	cleric	be trounce in	twin vote	0	0
+1.0	Iran	have	leaders	O	LOCATION
+1.0	Ahmadinejad	have	rhetoric	PERSON	0
+1.0	cleric	be	trounce by former president Akbar Hashemi Rafsanjani in election	0	PERSON
+1.0	negotiator Ali Larijani	have	team	O	PERSON
+1.0	Hamshahri	be	direct	ORGANIZATION	0
+1.0	Hamshahri	be direct at	Supreme National Security Council	ORGANIZATION	ORGANIZATION
+1.0	voice	have become particularly over	president 's tirade against country	0	0
+1.0	cleric	be	in twin vote trounce by former president Akbar Hashemi Rafsanjani in election for clerical assembly	0	PERSON
+1.0	ultra-conservative cleric	be	in vote trounce in election for assembly	0	0

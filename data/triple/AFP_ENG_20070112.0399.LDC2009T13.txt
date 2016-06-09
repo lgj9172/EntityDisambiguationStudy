@@ -1,0 +1,36 @@
+0.9204426555381401	Total	be in	detention	0	0
+1.0	front company	smuggle money under	UN sanction at time	0	DATE
+1.0	Jean Caillet	be detain at_time	December 26	PERSON	DATE
+1.0	company	smuggle	money	0	0
+0.9204426555381401	Total	be in	detention for corruption	0	0
+1.0	company	smuggle money under	UN sanction at time	0	DATE
+1.0	Jean Caillet	use	front company	0	0
+1.0	he	appeal	he incarceration	0	0
+1.0	Jean Caillet	use	Telliac	0	LOCATION
+0.9656551960039986	Total	intermediary in	illicit oil dealings between Iraq	0	LOCATION
+0.9204426555381401	intermediary Total	be in	detention for corruption	0	0
+0.9656551960039986	Total	intermediary in	alleged illicit oil dealings between Iraq	0	LOCATION
+1.0	Jean Caillet	put under	criminal investigation	PERSON	0
+1.0	Jean Caillet	be	detain	PERSON	0
+1.0	he	win	right	0	0
+1.0	front company	smuggle	money	0	0
+0.9656551960039986	Total	intermediary in	alleged illicit oil dealings	0	0
+1.0	Jean Caillet	visit	France	0	LOCATION
+0.9656551960039986	Total	intermediary in	alleged oil dealings between Iraq	0	LOCATION
+1.0	Jean Caillet	act as	go-between	0	0
+0.9656551960039986	Total	intermediary in	oil dealings between Iraq	0	LOCATION
+0.9656551960039986	Total	intermediary in	oil dealings	0	0
+1.0	businessman	act in	detention for corruption	0	0
+0.9656551960039986	Total	intermediary in	alleged oil dealings	0	0
+0.9656551960039986	Total	intermediary in	illicit oil dealings	0	0
+1.0	company	smuggle money into	Iraq	0	LOCATION
+1.0	front company	smuggle money into	Iraq	0	LOCATION
+0.9204426555381401	intermediary Total	be in	detention	0	0
+1.0	company	smuggle money under	UN sanction	0	ORGANIZATION
+1.0	businessman	act in	detention	0	0
+1.0	official	say at_time	Friday	0	DATE
+1.0	it	be	allege	0	0
+1.0	Jean Caillet	put under	investigation	PERSON	0
+1.0	Jean Caillet	have	incarceration	O	O
+1.0	Jean Caillet	use	company	0	0
+1.0	front company	smuggle money under	UN sanction	0	ORGANIZATION

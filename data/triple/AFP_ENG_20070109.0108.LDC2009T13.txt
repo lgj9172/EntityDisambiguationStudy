@@ -1,0 +1,29 @@
+1.0	British Prime Minister Tony Blair	say with	Prime Minister Shinzo Abe	0	PERSON
+1.0	British Prime Minister Tony Blair	say at	joint press conference	0	0
+1.0	Prime Minister Tony Blair	say in	he first reaction	PERSON	ORDINAL
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging of former leader	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	say with	japanese Prime Minister Shinzo Abe	0	PERSON
+1.0	Saddam Hussein	have	people	O	O
+1.0	execution	have	manner	O	O
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging	PERSON	ORDINAL
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging of former leader	PERSON	0
+1.0	Prime Minister Tony Blair	say at_time	Tuesday	PERSON	DATE
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging of former iraqi leader	PERSON	ORDINAL
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging of former iraqi leader	PERSON	0
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging	PERSON	0
+1.0	Prime Minister Tony Blair	say in	he reaction	PERSON	0
+1.0	british Prime Minister Tony Blair	say at_time	Tuesday	PERSON	DATE
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging of former iraqi leader	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	say at	press conference	0	0
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging of former leader	PERSON	0
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging of former leader	PERSON	ORDINAL
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging	PERSON	ORDINAL
+1.0	british Prime Minister Tony Blair	say in	he reaction	PERSON	0
+1.0	british Prime Minister Tony Blair	say in	he first reaction	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	have	reaction	O	O
+1.0	Shinzo Abe	be with	japanese	PERSON	0
+1.0	leader	have	hanging	O	O
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging of former iraqi leader	PERSON	0
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging	PERSON	0
+1.0	Tony Blair	be	british	PERSON	0

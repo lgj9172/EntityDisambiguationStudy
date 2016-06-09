@@ -1,0 +1,127 @@
+0.6831340364079248	analyst	new rate of	inflation	0	0
+1.0	analyst	say	rate of inflation	0	0
+1.0	country	have	moribund economy	0	0
+1.0	Finance Minister Herbert Murerwa	present budget at_time	month	PERSON	DATE
+1.0	President Robert Mugabe	have	government	O	PERSON
+1.0	country	have	consumer watchdog	O	O
+1.0	Independent financial analyst	say after	batch of figure	0	0
+1.0	country	have	economy	O	O
+1.0	inflation	reach	its previous high	0	0
+1.0	currency	have	unemployment	O	O
+1.0	Independent financial analyst	say after	batch	0	0
+1.0	list	have	out struck	O	O
+1.0	inflation	reach	its previous high of 1,204 percent in August	0	DATE
+1.0	President Robert Mugabe 's government	unveil blueprint at_time	last year	PERSON	DATE
+1.0	Zimbabwe	be in	seventh year	LOCATION	DATE
+1.0	inflation	reach	its high of 1,204 percent	0	PERCENT
+1.0	impact	be	highlight	0	0
+1.0	workers	have	income	O	O
+1.0	year-on	rise by	182 percentage point in December	DURATION	PERCENT
+1.0	Zimbabwe	be in	year of recession	LOCATION	DATE
+1.0	inflation	have	rate	O	O
+1.0	The figures	have	batch	O	O
+1.0	Zimbabwe	be in	seventh year of economic recession characterise by inflation	LOCATION	DATE
+1.0	182 percentage point	be in	early December	PERCENT	DATE
+1.0	country	have	leading consumer watchdog	0	0
+1.0	President Robert Mugabe 's government	revive	country 's moribund economy	PERSON	0
+1.0	percent	have	record high	O	PERCENT
+1.0	bread	have	price	O	O
+1.0	year-on	rise from	1,098 percent in November	DURATION	DATE
+1.0	decline	be	however way	0	0
+1.0	oil	have	price	O	O
+1.0	inflation	pass slightly	1,000 percent rate in April	0	DATE
+1.0	currency	attract	more foreign tourism	0	0
+1.0	inflation	drop in	half of year	0	DATE
+1.0	inflation	reach	its high	0	0
+1.0	Murerwa	have	projections	O	PERSON
+1.0	1,204 percent	be in	August before	PERCENT	DATE
+1.0	Independent analyst	say after	batch	0	0
+1.0	Consumer Council of Zimbabwe	's council be	ccz	ORGANIZATION	0
+1.0	inflation	drop in	half	0	DATE
+1.0	last year	have	highest	O	O
+1.0	inflation	drop to	below 400 percent	0	PERCENT
+1.0	Zimbabwe	be in	seventh year of recession	LOCATION	DATE
+1.0	ingredient	have become for	most family	0	0
+1.0	inflation	hit	record high of 1,281 percent on Thursday	0	PERCENT
+1.0	Zimbabwe	be in	year of recession characterise	LOCATION	DATE
+1.0	goods	have	bundle	O	O
+1.0	President Robert Mugabe 's government	unveil blueprint at_time	year	PERSON	DATE
+1.0	month	have	end	DATE	DATE
+1.0	Robert Mugabe	have	government	PERSON	0
+1.0	services	have	bundle	O	O
+1.0	Zimbabwe	be in	seventh year of recession characterise by inflation	LOCATION	DATE
+1.0	Zimbabwe	be in	seventh year of economic recession	LOCATION	DATE
+1.0	Independent analyst	say after	latest batch of figure	0	0
+1.0	year-on	rise from	1,098 percent	DURATION	PERCENT
+1.0	inflation	hit	new record high of 1,281 percent	0	PERCENT
+1.0	President Robert Mugabe 's government	unveil	economic blueprint	PERSON	0
+1.0	inflation	first pass slightly	1,000 percent rate	0	PERCENT
+1.0	inflation	reach	its high of 1,204 percent in August	0	DATE
+1.0	inflation	puncture	government hope	0	0
+1.0	inflation	puncture	government hope rein	0	0
+1.0	percent	have	high	O	PERCENT
+1.0	analyst	say	rate	0	0
+1.0	inflation	hit	new record high of 1,281 percent on Thursday	0	PERCENT
+1.0	year-on	rise by	182 percentage point	DURATION	PERCENT
+1.0	way	way above	government projection	0	0
+1.0	Independent financial analyst	say after	latest batch	0	0
+1.0	Independent analyst	say after	batch of figure	0	0
+1.0	impact	be highlight by	ccz	0	0
+1.0	living	have	family	O	O
+1.0	Finance Minister Herbert Murerwa	present budget at_time	last month	PERSON	DATE
+1.0	price	meal for	Zimbabwean	0	MISC
+1.0	Zimbabwe	be in	year of economic recession characterise	LOCATION	DATE
+1.0	Murerwa	have	projection	PERSON	0
+1.0	groceries	have	list	O	O
+1.0	1,000 percent rate	be in	April last year	PERCENT	DATE
+1.0	inflation	pass slightly	1,000 percent rate	0	PERCENT
+1.0	ingredient	have become for	family	0	0
+1.0	bread	of price be	most common meal for average Zimbabwean	0	MISC
+1.0	six living	be in	urban area	NUMBER	0
+1.0	urban worker	be in	65,000 dollar	0	MONEY
+1.0	first	have	high	O	O
+1.0	inflation	first pass slightly	1,000 percent rate in April	0	DATE
+1.0	crisis	have	impact	O	O
+1.0	currency	attract	foreign tourism	0	0
+1.0	inflation	pass	1,000 percent rate in April	0	DATE
+1.0	decline	be	way	0	0
+1.0	foreign currency	attract	more foreign tourism	0	0
+1.0	Moffat Nyoni	be director of	CSO	PERSON	ORGANIZATION
+1.0	inflation	first pass	1,000 percent rate in April	0	DATE
+1.0	1,098 percent	be in	November	PERCENT	DATE
+1.0	Zimbabwe	be in	seventh year of recession characterise	LOCATION	DATE
+1.0	decline	be	still however way	0	0
+1.0	President Robert Mugabe 's government	unveil	blueprint	PERSON	0
+1.0	Zimbabwe	be in	year	LOCATION	DATE
+1.0	recession	have	year	DATE	O
+1.0	inflation	reach	its previous high of 1,204 percent	0	PERCENT
+1.0	President Robert Mugabe 's government	unveil blueprint in	April	PERSON	DATE
+1.0	analyst	say	new rate	0	0
+1.0	Zimbabwe	be in	year of recession characterise by inflation	LOCATION	DATE
+1.0	Moffat Nyoni	be	CSO	PERSON	ORGANIZATION
+1.0	analyst	say	new rate of inflation	0	0
+1.0	Zimbabwe	be in	year of economic recession characterise by inflation	LOCATION	DATE
+1.0	most families	have	list	O	O
+1.0	average cost	be in	1,381,000 dollar	0	MONEY
+1.0	President Robert Mugabe 's government	revive	country 's economy	PERSON	0
+1.0	Zimbabwe	be in	year of economic recession	LOCATION	DATE
+1.0	policies	have	some	O	O
+1.0	decline	be	still way	0	0
+1.0	Independent analyst	say after	latest batch	0	0
+1.0	inflation	first pass	1,000 percent rate	0	PERCENT
+1.0	inflation	drop in	latter half of year	0	DATE
+1.0	inflation	hit	record high	0	0
+1.0	inflation	hit	new record high	0	0
+1.0	inflation	pass	1,000 percent rate	0	PERCENT
+1.0	Finance Minister Herbert Murerwa	present	budget	PERSON	0
+1.0	100,000 dollar	be in	December 2005	MONEY	DATE
+1.0	foreign currency	attract	foreign tourism	0	0
+1.0	Independent financial analyst	say after	latest batch of figure	0	0
+0.6831340364079248	analyst	rate of	inflation	0	0
+1.0	analyst	be with	economic thinktank	0	0
+1.0	Finance Minister Herbert Murerwa	present	budget for 2007	PERSON	DATE
+1.0	Zimbabwe	be in	seventh year of economic recession characterise	LOCATION	DATE
+1.0	inflation	be in	Zimbabwe	0	LOCATION
+1.0	inflation	drop in	latter half	0	DATE
+1.0	year	have	half	DATE	DATE
+1.0	inflation	hit	record high of 1,281 percent	0	PERCENT

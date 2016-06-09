@@ -1,0 +1,19 @@
+1.0	23-year-old Dropsy	son of	Dominique Dropsy	DURATION	PERSON
+1.0	Bordeaux	be	french	ORGANIZATION	0
+1.0	23-year-old Dropsy	sign	professional contract	DURATION	0
+1.0	Dominique Dropsy	have	son	O	PERSON
+1.0	Dropsy	sign	first contract	PERSON	ORDINAL
+1.0	23-year-old Dropsy	sign	first professional contract	DURATION	ORDINAL
+1.0	Dropsy	sign	first professional contract	PERSON	ORDINAL
+1.0	Dropsy	sign	professional contract	PERSON	0
+1.0	Bordeaux	have	goalkeeper coach	O	LOCATION
+1.0	23-year-old Dropsy	sign contract for	six month	DURATION	DURATION
+1.0	Dropsy	sign	contract	PERSON	0
+1.0	San Francisco de Cordoba	be from	argentinian	LOCATION	0
+1.0	Bordeaux	have	goalkeeper coach	LOCATION	0
+1.0	23-year-old Dropsy	sign	first contract	DURATION	ORDINAL
+1.0	Dropsy	sign contract for	six month	PERSON	DURATION
+1.0	23-year-old Dropsy	sign	contract	DURATION	0
+1.0	Damien Dropsy	be	french	PERSON	0
+1.0	Bordeaux	be	first	ORGANIZATION	ORDINAL
+1.0	christian peruchinus	be	argentinian	0	0

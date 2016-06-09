@@ -1,0 +1,51 @@
+1.0	Palestinians	be	daily	MISC	SET
+1.0	Amir Peretz	be	Defence	PERSON	ORGANIZATION
+1.0	We	have	eyes	O	O
+1.0	Mahmud Abbas	be with	palestinian	PERSON	0
+1.0	Israel	begin	ease restriction	LOCATION	0
+1.0	Palestinians	run	gauntlet of dozen	MISC	0
+1.0	Defence Minister Amir Peretz	later tell	parliament 's foreign affair	ORGANIZATION	0
+1.0	palestinian chief negotiator Saeb Erakat	tell	AFP	PERSON	ORGANIZATION
+1.0	400 roadblock	be in	West Bank	NUMBER	LOCATION
+1.0	checkpoints	have	dozens	O	O
+1.0	militants	have	movement	O	O
+1.0	premier	take	immediate	0	0
+1.0	West Bank	be in	two phase	LOCATION	NUMBER
+1.0	Palestinians	run	gauntlet of dozen of checkpoint erect by army	MISC	0
+1.0	Defence Minister Amir Peretz	tell	parliament 's foreign affair	ORGANIZATION	0
+1.0	Palestinians	be	forced daily	MISC	SET
+1.0	Saeb Erakat	be	palestinian	PERSON	0
+1.0	Israel	begin restriction at	checkpoint in occupied West Bank Monday	LOCATION	LOCATION
+1.0	Israel	begin restriction at	checkpoint	LOCATION	0
+1.0	Amir Peretz	be minister of	Defence	PERSON	ORGANIZATION
+1.0	parliament	have	foreign affair	0	0
+1.0	Israel	promise at_time	month	LOCATION	DATE
+1.0	checkpoint	be in	Monday	0	DATE
+1.0	stage	removal of	military barrier	0	0
+1.0	checks	have	easing	O	O
+1.0	dozens	have	gauntlet	O	O
+1.0	two man 's first meeting	be in	six month	ORDINAL	DURATION
+1.0	Palestinians	run	gauntlet of dozen of checkpoint erect	MISC	0
+1.0	two man	have	first meeting in six month	NUMBER	ORDINAL
+1.0	Defence Minister Amir Peretz	later tell	parliament 's affair	ORGANIZATION	0
+1.0	barriers	have	removal	O	O
+1.0	roadblocks	have	59	NUMBER	O
+1.0	Israel	begin restriction at	checkpoint in West Bank Monday	LOCATION	LOCATION
+1.0	the Palestinians	have	December talks	O	O
+1.0	chief negotiator Saeb Erakat	tell	AFP	PERSON	ORGANIZATION
+0.533108565549848	Palestinians	travel across	West Bank	MISC	LOCATION
+1.0	Palestinians	run	gauntlet of dozen of checkpoint erect by israeli army	MISC	0
+1.0	Israel	promise at_time	last month	LOCATION	DATE
+1.0	men	have	meeting	O	O
+1.0	summit	be with	Mahmud Abbas	0	PERSON
+1.0	Israel	begin	restriction	LOCATION	0
+1.0	Defence Minister Amir Peretz	tell	parliament 's affair	ORGANIZATION	0
+1.0	Israel	promise by	Prime Minister Ehud Olmert at summit	LOCATION	PERSON
+1.0	parliament	have	affairs	O	O
+1.0	Israel	promise by	Prime Minister Ehud Olmert at summit with palestinian president Mahmud Abbas	LOCATION	PERSON
+1.0	Palestinians	run	gauntlet of dozen of checkpoint	MISC	0
+1.0	Palestinians	run	gauntlet	MISC	0
+1.0	Palestinian chief negotiator Saeb Erakat	tell	AFP	0	ORGANIZATION
+1.0	Israel	promise by	Prime Minister Ehud Olmert	LOCATION	PERSON
+1.0	Israel	promise by	Prime Minister Ehud Olmert at summit with president Mahmud Abbas	LOCATION	PERSON
+1.0	israeli premier	take	immediate	0	0

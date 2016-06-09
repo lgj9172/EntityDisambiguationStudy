@@ -1,0 +1,29 @@
+1.0	disgruntled Chrysler shareholder	use	Schrempp 's comment	ORGANIZATION	PERSON
+1.0	Chrysler	have	merger	O	ORGANIZATION
+1.0	Juergen Schrempp in 2000	describe	1998 tie-up	PERSON	DATE
+1.0	claim	in euro be	222 million dollar	0	MONEY
+1.0	group	have	chairman	O	O
+1.0	group	by	former chairman regard merger of Daimler in 1998	0	DATE
+1.0	Juergen Schrempp	be in	2000	PERSON	DATE
+1.0	euros	have	billions	O	O
+1.0	merger	be in	1998	0	DATE
+1.0	Chrysler shareholder	use	Schrempp 's comment	ORGANIZATION	PERSON
+1.0	corresponding report	be in	Financial Times Deutschland	0	ORGANIZATION
+1.0	US car maker	have	takeover	O	O
+1.0	Schrempp	have	comments	O	PERSON
+1.0	Juergen Schrempp in 2000	describe	1998 tie-up between Daimler	PERSON	ORGANIZATION
+1.0	euro	be in	compensation	0	0
+1.0	the 1998 tie-up between Daimler and Chrysler	be merger of	equal	0	0
+1.0	German-US auto giant DaimlerChrysler	sue	other insurer	ORGANIZATION	0
+1.0	German-US auto giant DaimlerChrysler	be insure against	such lawsuit	0	0
+1.0	German-US auto giant DaimlerChrysler	have	merger	O	ORGANIZATION
+1.0	German-US auto giant DaimlerChrysler	sue	insurer	ORGANIZATION	0
+1.0	Schrempp	have	comment file	PERSON	0
+1.0	insurer	recover	money	0	NUMBER
+1.0	car maker	have	chairman	O	O
+1.0	German-US auto giant DaimlerChrysler	be	insure	0	0
+1.0	auto giant DaimlerChrysler	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	german-us auto giant DaimlerChrysler	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	168 million euro	be in	claim date back to interview	MONEY	0
+1.0	German-US auto giant DaimlerChrysler	be insure against	lawsuit	0	0
+1.0	other insurer	recover	money	0	NUMBER

@@ -1,0 +1,28 @@
+1.0	night	have	hour	DATE	TIME
+1.0	US Guantanamo prison	be in	Cuba	LOCATION	LOCATION
+1.0	his	have	face	O	O
+1.0	he	be	be transport	0	0
+1.0	he	be	be transport back	0	0
+1.0	detention	have	stress	O	O
+1.0	Center	have	Gita Gutierrez	PERSON	ORGANIZATION
+1.0	their	have	guards	O	O
+1.0	he	be	be transport back to he cell	0	0
+1.0	Detainees at the US Guantanamo prison in Cuba	have	abuse	O	O
+1.0	their	have	cells	O	O
+1.0	his	have	cell	O	O
+1.0	Gita Gutierrez of the Center for Constitutional Rights	have	trip	O	O
+1.0	he	be	be transport to he cell	0	0
+1.0	he	be	when be transport	0	0
+1.0	he	be	when be transport back	0	0
+1.0	US detainees	have	dozens	O	O
+1.0	he	be	when be transport to he cell	0	0
+1.0	Gita Gutierrez	be of	Center for Constitutional Rights	PERSON	ORGANIZATION
+1.0	day	have	hour	DATE	DATE
+1.0	year	have	middle	DATE	DATE
+0.8433794545190224	I	be in	base in December	0	DATE
+1.0	several prisoners	have	most	O	O
+1.0	he	be	when be transport back to he cell	0	0
+1.0	base	be in	December	0	DATE
+1.0	prisoners	have	abuse	O	O
+1.0	new building	be in	camp v	0	0
+0.8433794545190224	I	be in	base	0	0

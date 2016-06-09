@@ -1,0 +1,101 @@
+1.0	online auction giant eBay	announce on	front	ORGANIZATION	0
+1.0	Poor	have	index	O	O
+1.0	auction giant eBay	announce on	front	ORGANIZATION	0
+1.0	bond yield	move in	opposite direction	0	0
+1.0	strength	be in	technology share	0	0
+1.0	firm	have	new all-in-one cellphone	0	0
+1.0	it	purchase	StubHub	0	ORGANIZATION
+1.0	Dow index	break	prior record	MISC	0
+1.0	Apple	have	executive	O	ORGANIZATION
+1.0	Al Goldman	strategist at	AG Edwards	PERSON	ORGANIZATION
+1.0	first time	be in	19 month	ORDINAL	DURATION
+1.0	Steve Jobs	have unveil	firm 's all-in-one cellphone	PERSON	0
+1.0	Ebay	buy	StubHub for around 310 million dollar	ORGANIZATION	MONEY
+1.0	Ebay	buy	StubHub	ORGANIZATION	ORGANIZATION
+1.0	a barrel	stimulate	growth	0	0
+0.6129652132497325	it	maker of	ipod stop	0	0
+1.0	world	have	nation	O	O
+0.6428420969455333	it	use	iPhone name for its new cellphone	0	DURATION
+0.5129180644636157	shade	more expect by	26,000 claim	0	NUMBER
+1.0	New York 's benchmark oil future contract	crude for	February delivery	LOCATION	DATE
+1.0	iPod	have	maker	O	O
+1.0	Today 's broad rally	have	record close	O	O
+1.0	stock	accelerate	higher	0	0
+1.0	world	have	contact lens maker	O	O
+0.5129180644636157	shade	expect by	26,000 claim 299,000 week	0	NUMBER
+1.0	Today	have	rally	O	DATE
+0.5129180644636157	shade	more expect by	26,000 claim week	0	NUMBER
+1.0	bond yield	move	price	0	0
+0.5129180644636157	shade	more expect by	26,000 claim 299,000	0	NUMBER
+1.0	Dow index	break	record of 12,510.57 point set on December 27	MISC	NUMBER
+1.0	Cisco	close up at	28.69 dollar	ORGANIZATION	MONEY
+1.0	Energy stock	lose	ground	0	0
+1.0	New York 's benchmark oil futures contract	have	level	O	O
+1.0	a barrel	stimulate	economic growth	0	0
+1.0	online auction giant eBay	announce on	corporate front	ORGANIZATION	0
+1.0	year	have	record close	O	DATE
+1.0	Labor Department report	show on	economic front	ORGANIZATION	0
+1.0	Labor Department report	show on	front	ORGANIZATION	0
+1.0	event tickets	have	resale	O	O
+1.0	France	have	Essilor	ORGANIZATION	LOCATION
+1.0	51.88 dollar	level since	late May 2005	MONEY	DATE
+1.0	Steve Jobs	have unveil	firm 's new cellphone	PERSON	0
+1.0	share	be in	Cooper company	0	ORGANIZATION
+0.5129180644636157	shade	more expect by	26,000 claim 299,000 week	0	NUMBER
+0.6428420969455333	it	use	iPhone name for its hot cellphone	0	DURATION
+1.0	Dow index	close	0.59 percent	MISC	PERCENT
+1.0	share	close at	51.44 dollar	0	MONEY
+1.0	Steve Jobs	have unveil	firm 's cellphone	PERSON	0
+0.5129180644636157	shade	expect by	26,000 claim 299,000	0	NUMBER
+1.0	auction giant eBay	announce on	corporate front	ORGANIZATION	0
+1.0	investor	cheer	decline	0	0
+1.0	Dow index	close	up 72.82 point	MISC	NUMBER
+1.0	New York	have	benchmark oil future contract	LOCATION	0
+1.0	Dow index	break	record	MISC	0
+1.0	51.88 dollar	at level be	New York 's benchmark oil futures contract	MONEY	0
+1.0	StubHub	be for	310 million dollar	ORGANIZATION	MONEY
+1.0	it	sue	maker	0	DURATION
+1.0	Dow index	break	record of 12,510.57 point set	MISC	NUMBER
+1.0	it	sue	maker of ipod	0	DURATION
+1.0	France	have	Essilor	LOCATION	ORGANIZATION
+1.0	shade	end at_time	January 6	0	DATE
+0.6428420969455333	it	use	iPhone name for its cellphone	0	DURATION
+1.0	that	increase to	4.822 percent	0	PERCENT
+1.0	firm	have	cellphone	O	O
+1.0	broad-market Standard	gain	Poor 's 500 index	0	NUMBER
+1.0	yield	rise to	4.737 percent from 4.682 percent	0	PERCENT
+1.0	today	have	broad rally	0	0
+1.0	Cisco	close at	28.69 dollar	ORGANIZATION	MONEY
+1.0	world	for	largest oil-importing nation	0	0
+0.6428420969455333	it	use	iPhone name for its hot new cellphone	0	DURATION
+1.0	Steve Jobs	have unveil	firm 's new all-in-one cellphone	PERSON	0
+1.0	Dow index	break	prior record of 12,510.57 point set on December 27	MISC	NUMBER
+1.0	contact lens maker	have	takeover bid	O	O
+1.0	Dow index	break	prior record of 12,510.57 point	MISC	NUMBER
+1.0	yield	rise at_time	Wednesday	0	DATE
+1.0	deal	have	closing	O	O
+0.5129180644636157	shade	expect by	26,000 claim	0	NUMBER
+1.0	Ebay	have	shares	O	ORGANIZATION
+1.0	broad-market Standard	gain	Poor 's index	0	0
+1.0	its	have	cellphone	O	O
+0.6129652132497325	it	maker of	ipod	0	0
+1.0	New York	's contract be	light sweet crude for February delivery	LOCATION	DATE
+1.0	points	have	record	O	O
+1.0	a barrel	stimulate growth for	world 's oil-importing nation	0	0
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	that	increase against	4.770 percent	0	PERCENT
+1.0	a barrel	stimulate growth for	world 's nation	0	0
+1.0	share	close up at	51.44 dollar	0	MONEY
+1.0	Poor	have	500 index	0	NUMBER
+1.0	a barrel	stimulate growth for	world 's largest oil-importing nation	0	0
+0.6428420969455333	it	use	iPhone name	0	DURATION
+0.5129180644636157	shade	expect by	26,000 claim week	0	NUMBER
+1.0	giant Cisco	have	trademark	O	O
+1.0	bond yield	move in	direction	0	0
+1.0	yield	rise to	4.737 percent	0	PERCENT
+1.0	a barrel	stimulate growth for	world 's largest nation	0	0
+1.0	Apple	have	chief executive	ORGANIZATION	0
+1.0	it	sue	maker of ipod stop	0	DURATION
+1.0	Dow index	break	record of 12,510.57 point	MISC	NUMBER
+1.0	Dow index	break	prior record of 12,510.57 point set	MISC	NUMBER
+1.0	world	of	third-biggest contact lens maker	0	0

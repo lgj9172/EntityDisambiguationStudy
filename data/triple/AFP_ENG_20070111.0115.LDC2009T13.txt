@@ -1,0 +1,60 @@
+1.0	high death toll	be	due	0	0
+1.0	typhoons	have	series	O	O
+1.0	yuan	have	losses	O	MONEY
+1.0	report	cite	affair vice minister	0	0
+1.0	death toll	be	mainly due	0	0
+1.0	flood	responsible	drought	0	0
+1.0	Xinhua	cite official from	affair ministry	ORGANIZATION	0
+1.0	China	be  at_time	last year	LOCATION	DATE
+1.0	highest figure	be in	eight year	0	DURATION
+1.0	China	have	coast	O	LOCATION
+1.0	Xinhua	cite	official	ORGANIZATION	0
+1.0	devastating period	report at_time	Thursday	DURATION	DATE
+1.0	disaster	cause	loss of 252.8 billion yuan	0	MONEY
+1.0	their	have	homes	O	O
+1.0	flood	responsible	weather	0	0
+1.0	death toll	be mainly due to	series	0	0
+1.0	flood	also responsible	drought	0	0
+1.0	disaster relief department	have	director	O	O
+1.0	devastating period	be in	a decade	DURATION	DURATION
+1.0	disaster	cause loss in	highest figure	0	0
+1.0	toll	be highest in	eight year	0	DURATION
+1.0	Xinhua	cite official from	civil affair ministry	ORGANIZATION	0
+1.0	reasons	have	one	NUMBER	O
+1.0	1,326 people	one of	main reason	NUMBER	DATE
+1.0	houses	have	lot	O	O
+1.0	death toll	be due to	series	0	0
+1.0	flood	responsible	landslide	0	0
+1.0	flood	also responsible	earthquake	0	0
+1.0	disaster	cause loss in	highest figure in eight year	0	DURATION
+1.0	flood	be	also responsible	0	0
+1.0	report	cite	civil affair vice minister	0	0
+1.0	house	be	build	0	0
+1.0	disaster	cause	direct loss of 252.8 billion yuan	0	MONEY
+1.0	flood	be	responsible	0	0
+1.0	telecommunications	be in	a day	DURATION	DURATION
+1.0	flood	also responsible	landslide	0	0
+1.0	China	have	east coast	LOCATION	0
+1.0	many house	be	build	0	0
+1.0	Bilis	be in	July	0	DATE
+1.0	spike	be in	full-year death toll	0	DATE
+1.0	mud	have	made	O	O
+1.0	high death toll	be mainly due to	series	0	0
+1.0	disaster	cause loss in	figure in eight year	0	DURATION
+1.0	disaster	cause	direct loss	0	0
+1.0	high death toll	be	mainly due	0	0
+1.0	flood	be also responsible accord to	report	0	0
+1.0	period	report at_time	Thursday	0	DATE
+1.0	flood	be responsible accord to	report	0	0
+1.0	flood	also responsible	cold weather	0	0
+1.0	toll	be	highest	0	0
+1.0	disaster	cause	loss	0	0
+1.0	3,186	have	death toll	O	NUMBER
+1.0	flood	also responsible	weather	0	0
+1.0	high death toll	be due to	series	0	0
+1.0	report	cite	Li Liguo	0	PERSON
+1.0	disaster	cause loss accord to	Li Liguo	0	PERSON
+1.0	death toll	be	due	0	0
+1.0	flood	responsible	cold weather	0	0
+1.0	disaster	cause loss in	figure	0	0
+1.0	flood	responsible	earthquake	0	0

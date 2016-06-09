@@ -1,0 +1,24 @@
+1.0	country	be on	course	0	0
+1.0	assessment	be base on	leading indicator in November	0	DATE
+1.0	datum	point to	weakening outlook	0	0
+1.0	assessment	be base on	indicator	0	0
+1.0	assessment	be base on	six-month leading indicator	0	DURATION
+1.0	Organisation	say on	Friday	ORGANIZATION	DATE
+1.0	Organisation	say on	basis of indicator	ORGANIZATION	0
+1.0	assessment	be base on	six-month indicator in November	0	DATE
+1.0	indicators	have	basis	O	O
+1.0	assessment	be base on	leading indicator	0	0
+1.0	country	be on	course for expansion	0	ORGANIZATION
+1.0	Organisation	say on	basis of lead indicator	ORGANIZATION	0
+1.0	assessment	be base on	six-month leading indicator in November	0	DATE
+1.0	expansion	have	weakening	O	O
+1.0	country	be on	course for economic expansion	0	ORGANIZATION
+1.0	country	be on	course for further expansion	0	ORGANIZATION
+1.0	assessment	be	base	0	0
+1.0	Organisation	say on	basis	ORGANIZATION	0
+1.0	country	be on	course for further economic expansion	0	ORGANIZATION
+1.0	improvement	be in	Canada	0	LOCATION
+1.0	six-month leading indicator	be in	November	DURATION	DATE
+1.0	assessment	be base on	six-month indicator	0	DURATION
+1.0	datum	point to	weakening outlook for Brazil	0	LOCATION
+1.0	assessment	be base on	indicator in November	0	DATE

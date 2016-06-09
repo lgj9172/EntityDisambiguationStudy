@@ -1,0 +1,52 @@
+0.505041589934328	Ramadan holy month	spike	which leave	DURATION	0
+1.0	incident	take	military 's fatality	0	0
+1.0	worst month	be to	The previous highest monthly death toll for US soldiers in 2006	DURATION	0
+1.0	fatality	take loss accord to	afp count base	0	0
+1.0	Diyala	have	province	O	LOCATION
+1.0	fatality	take loss since	invasion	0	0
+1.0	latest fatality	take	total loss of military	0	0
+1.0	toll	be in	December	0	DATE
+1.0	fatality	take	loss	0	0
+1.0	explosion	have	result	O	O
+1.0	military	specify	nature of blast	0	0
+1.0	fatality	take loss accord to	afp count	0	0
+1.0	Iraq	have	province	O	LOCATION
+1.0	latest fatality	take loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	fatality	take	total loss	0	0
+1.0	worst month	be to	prior that	DURATION	0
+1.0	fatality	take loss in	Iraq 's	0	LOCATION
+1.0	latest fatality	take loss in	Iraq 's	0	LOCATION
+1.0	blast	have	nature	O	O
+1.0	latest fatality	take loss accord to	afp count base	0	0
+1.0	latest fatality	take	loss of military	0	0
+0.8483336889169626	fatality	total loss of	military	0	0
+1.0	military	report at_time	Monday	0	DATE
+1.0	2,993	have	invasion	O	NUMBER
+1.0	battle	push	country-wide toll	0	0
+1.0	month	be to	The previous highest monthly death toll for US soldiers in 2006	DURATION	0
+1.0	fatality	take	total loss of military	0	0
+0.8483336889169626	fatality	loss of	military	0	0
+0.505041589934328	Ramadan month	spike	which leave	DURATION	0
+1.0	military	have	losses	O	O
+1.0	explosion	be in	the Diyala province	0	LOCATION
+0.8483336889169626	latest fatality	total loss of	military	0	0
+1.0	latest fatality	take loss accord to	afp count	0	0
+0.8483336889169626	latest fatality	loss of	military	0	0
+1.0	Fallujah	have	battle	O	LOCATION
+1.0	Iraq	in	restive northeastern province of Diyala	LOCATION	LOCATION
+1.0	month	be to	prior that	DURATION	0
+1.0	battle	push toll to	137	0	NUMBER
+1.0	toll	be	highest	0	0
+1.0	fatality	take loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	incident	occur on	Sunday	0	DATE
+1.0	spike	be in	violence	0	0
+1.0	US soldier	be in	2006	0	DATE
+1.0	latest fatality	take loss since	invasion	0	0
+1.0	military	have	fatality	0	0
+1.0	military	specify	nature	0	0
+1.0	military	have	fatalities	O	O
+1.0	latest fatality	take	loss	0	0
+1.0	battle	push	toll	0	0
+1.0	fatality	take	loss of military	0	0
+1.0	latest fatality	take	total loss	0	0
+1.0	December	have	month	DATE	DATE

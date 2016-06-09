@@ -1,0 +1,32 @@
+1.0	US oil Chevron 's subsidiary	will initially own	70 percent of joint venture	LOCATION	PERCENT
+1.0	energy giant	have	oil subsidiary	O	O
+1.0	US oil major Chevron 's subsidiary	will own	70 percent	LOCATION	PERCENT
+1.0	Chevron	be 's	US	ORGANIZATION	LOCATION
+1.0	world	have	energy producers	O	O
+1.0	energy producers	have	two of the world 's biggest energy producers	NUMBER	O
+1.0	US oil Chevron 's subsidiary	will own	70 percent	LOCATION	PERCENT
+1.0	Sergei Kuznetsov	head of	public affair at Chevron Neftegaz	PERSON	ORGANIZATION
+1.0	companies	have	cooperation	O	O
+1.0	US oil Chevron 's subsidiary	will initially own	70 percent of venture	LOCATION	PERCENT
+1.0	US oil major Chevron 's subsidiary	will own	70 percent of joint venture	LOCATION	PERCENT
+1.0	US oil Chevron 's subsidiary	will initially own	70 percent	LOCATION	PERCENT
+1.0	US oil major Chevron 's subsidiary	will initially own	70 percent of venture	LOCATION	PERCENT
+0.5705096043455326	Sergei Kuznetsov	say in	statement	PERSON	0
+1.0	US oil major Chevron 's subsidiary	will initially own	70 percent of joint venture	LOCATION	PERCENT
+0.06141471494456796	venture	will	will call	0	0
+1.0	our	have	companies	O	O
+1.0	two company	say on	Thursday	NUMBER	DATE
+1.0	world	of	biggest energy producer	0	0
+1.0	US oil Chevron 's subsidiary	will own	70 percent of venture	LOCATION	PERCENT
+1.0	Gazprom Neft	two of	world 's biggest energy producer	ORGANIZATION	0
+1.0	Chevron	have	subsidiary	ORGANIZATION	0
+1.0	US oil major Chevron 's subsidiary	will own	70 percent of venture	LOCATION	PERCENT
+1.0	US oil major Chevron 's subsidiary	will initially own	70 percent	LOCATION	PERCENT
+1.0	US oil Chevron 's subsidiary	will own	70 percent of joint venture	LOCATION	PERCENT
+0.5705096043455326	Sergei Kuznetsov	say in	separate statement	PERSON	0
+1.0	venture	have	percent	PERCENT	O
+1.0	affairs	have	head	O	O
+1.0	US oil Chevron	have	subsidiary	O	ORGANIZATION
+0.06141471494456796	joint venture	will	will call	0	0
+1.0	its	have	share	O	O
+1.0	company	say on	Thursday	0	DATE

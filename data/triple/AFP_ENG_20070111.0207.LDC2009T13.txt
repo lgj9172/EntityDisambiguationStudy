@@ -1,0 +1,160 @@
+1.0	batsman	play	shot	0	0
+1.0	south african bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	left-handed Farhat	be miss on	14	PERSON	NUMBER
+1.0	99	have for	have South Africa for World XI against Australia last season	NUMBER	LOCATION
+1.0	bowlers	have	switch	O	O
+1.0	99	have for	of which have South Africa for World XI	NUMBER	LOCATION
+1.0	South African fast bowler Makhaya Ntini	have	bats	O	O
+1.0	99	have for	of which have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	his	have	replacement	O	O
+1.0	he	replacement	Shoaib Akhtar	0	PERSON
+1.0	south african fast bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	fast bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	african fast bowler Makhaya Ntini	end start on	day	PERSON	DURATION
+1.0	which	have	South Africa	LOCATION	O
+1.0	99	have for	of which have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	fast bowler Makhaya Ntini	end start on	day	PERSON	DURATION
+1.0	african bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	South African fast bowler Makhaya Ntini	withdraw	he bat	0	0
+1.0	fast bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	african bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	Inzamam-ul-Haq	be	Pakistan	PERSON	LOCATION
+1.0	left-handed Farhat	play	time	PERSON	0
+1.0	South African fast bowler Makhaya Ntini	dismiss shortly	opener	PERSON	0
+1.0	South African fast bowler Makhaya Ntini	replace nel at	Hennops River	PERSON	LOCATION
+1.0	Farhat	seem	be	PERSON	0
+1.0	Farhat	be	miss	PERSON	0
+1.0	south african bowler Makhaya Ntini	end start on	day	PERSON	DURATION
+1.0	South African fast bowler Makhaya Ntini	concede	14 run	PERSON	NUMBER
+1.0	Pakistan	have	pace attack back by leg-spinner danish kaneria	LOCATION	0
+1.0	99	have for	of which have South Africa for World XI season	NUMBER	LOCATION
+1.0	african bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	fast bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	south african bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	african bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	fast bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	fast bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	99	have for	have South Africa	NUMBER	LOCATION
+1.0	Farhat	be miss on	14	PERSON	NUMBER
+1.0	batsman	play	loose shot	0	0
+1.0	Makhaya Ntini	be	south african	PERSON	0
+1.0	fast bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	south african fast bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	fast bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	fast bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	south african fast bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	south african bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	african fast bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	Mohammad Hafeez	look	unhappy	PERSON	0
+1.0	bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	South Africa	make	one change	LOCATION	NUMBER
+1.0	african fast bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	african bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	fast bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african fast bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	south african fast bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	south african bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	african fast bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	Dale Steyn	be in	switch of fast bowler	PERSON	0
+1.0	african bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	Pakistan	strengthen	they batting	LOCATION	0
+1.0	South African fast bowler Makhaya Ntini	dismiss	opener	PERSON	0
+1.0	Farhat	play	time	PERSON	0
+1.0	african bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	99	have for	of which have South Africa for World XI last season	NUMBER	LOCATION
+1.0	99	have for	have South Africa for World XI	NUMBER	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	ball	be catch by	wicketkeeper Mark Boucher	0	PERSON
+1.0	african fast bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	South African fast bowler Makhaya Ntini	have bowl	first spell	PERSON	ORDINAL
+1.0	fast bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	south african bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	ball	be	catch	0	0
+1.0	african bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	99	have for	have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	South African fast bowler Makhaya Ntini	dismiss opener shortly before	lunch	PERSON	0
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of bowler	PERSON	PERSON
+1.0	bowler Makhaya Ntini	end start on	day	PERSON	DURATION
+1.0	Test	have	day	DURATION	O
+1.0	left-handed Farhat	play	several time	PERSON	0
+1.0	south african fast bowler Makhaya Ntini	end	start	PERSON	0
+1.0	bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	99	have for	of which have South Africa	NUMBER	LOCATION
+1.0	african fast bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+0.8995146121932608	Farhat	catch at	backward point	PERSON	0
+1.0	south african fast bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	99	have for	have South Africa for World XI season	NUMBER	LOCATION
+1.0	african fast bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	south african fast bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	ball	brush	he glove	0	0
+1.0	african fast bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	South African fast bowler Makhaya Ntini	have bowl	poor spell	PERSON	0
+1.0	Farhat	play	several time	PERSON	0
+1.0	South African fast bowler Makhaya Ntini	have	next	O	O
+1.0	bowler Makhaya Ntini	end	start	PERSON	0
+1.0	bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	their	have	batting	O	O
+1.0	african fast bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	fast bowler Makhaya Ntini	end start on	first day	PERSON	ORDINAL
+1.0	south african bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african fast bowler Makhaya Ntini	end start on	day	PERSON	DURATION
+1.0	Inzamam-ul-Haq	be captain of	Pakistan	PERSON	LOCATION
+1.0	India	be in	Cape Town	LOCATION	LOCATION
+1.0	Mohammad Hafeez	have	glove	O	O
+1.0	wicketkeeper Mark Boucher	have	Test	O	O
+1.0	bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	Mohammad Hafeez	have	wicket	O	PERSON
+1.0	bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	south african bowler Makhaya Ntini	end	start	PERSON	0
+1.0	south african fast bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	Pakistan captain Inzamam-ul-Haq	decide to	bat	PERSON	0
+1.0	african fast bowler Makhaya Ntini	end start on	first day of first test	PERSON	ORDINAL
+1.0	south african fast bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	fast bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	african bowler Makhaya Ntini	end	start	PERSON	0
+1.0	99	have for	have South Africa for World XI last season	NUMBER	LOCATION
+1.0	south african fast bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	South African fast bowler Makhaya Ntini	have bowl	spell	PERSON	0
+0.8995146121932608	Farhat	catch at	point	PERSON	0
+1.0	South African fast bowler Makhaya Ntini	replace	new ball partner Andre Nel	PERSON	PERSON
+1.0	South African fast bowler Makhaya Ntini	have bowl	poor first spell	PERSON	ORDINAL
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of fast bowler	PERSON	PERSON
+1.0	south african bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	african fast bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african bowler Makhaya Ntini	end start on	day of test	PERSON	DURATION
+1.0	Pakistan	be	64 for two at lunch	LOCATION	NUMBER
+1.0	african fast bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	99	have for	have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	african bowler Makhaya Ntini	end	promising start	PERSON	0
+1.0	fast bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	left-handed Farhat	be	miss	PERSON	0
+1.0	Pakistan	have	pace attack	O	LOCATION
+1.0	South African fast bowler Makhaya Ntini	dismiss opener before	lunch	PERSON	0
+1.0	african bowler Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	african bowler Makhaya Ntini	end start on	first day of test	PERSON	ORDINAL
+1.0	99	have for	of which have South Africa for World XI against Australia last season	NUMBER	LOCATION
+0.7201047883137485	Andre Nel	replace	Dale Steyn	PERSON	PERSON
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch	PERSON	PERSON
+1.0	south african fast bowler Makhaya Ntini	end start on	day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	african fast bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	african fast bowler Makhaya Ntini	end start on	first day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	south african fast bowler Makhaya Ntini	end start on	day of first test	PERSON	ORDINAL
+1.0	african bowler Makhaya Ntini	end start on	first day of first test at Centurion Park Thursday	PERSON	LOCATION
+1.0	african fast bowler Makhaya Ntini	end	start	PERSON	0
+1.0	south african fast bowler Makhaya Ntini	end start on	day of test at Centurion Park Thursday	PERSON	LOCATION
+1.0	african bowler Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	Farhat	have for	26	PERSON	NUMBER
+1.0	fast bowler Makhaya Ntini	end	start	PERSON	0
+1.0	bowler Makhaya Ntini	end start by	Pakistan	PERSON	LOCATION
+1.0	african bowler Makhaya Ntini	end start on	day	PERSON	DURATION

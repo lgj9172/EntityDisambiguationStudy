@@ -1,0 +1,18 @@
+0.6479632088196384	building	raid in	northern city Arbil	0	LOCATION
+0.6479632088196384	building	raid by	US force	0	LOCATION
+1.0	building	be	iranian	0	0
+0.6479632088196384	building	raid in	city	0	0
+0.6479632088196384	building	raid in	iraqi city	0	0
+1.0	building	be	iranian consulate	0	0
+1.0	Bryan Whitman	be	Pentagon	PERSON	ORGANIZATION
+1.0	Pentagon spokesman	deny at_time	Thursday	ORGANIZATION	DATE
+1.0	building	be	consulate	0	0
+1.0	people	have	nationality	O	O
+0.6479632088196384	building	raid in	iraqi city Arbil	0	LOCATION
+0.6479632088196384	building	raid in	northern iraqi city	0	0
+0.6479632088196384	building	raid in	northern iraqi city Arbil	0	LOCATION
+0.6479632088196384	building	raid in	northern city	0	0
+1.0	Bryan Whitman	be spokesman of	Pentagon	PERSON	ORGANIZATION
+1.0	our	have	forces	O	O
+1.0	Arbil	have	city	O	LOCATION
+0.6479632088196384	building	raid in	city Arbil	0	LOCATION

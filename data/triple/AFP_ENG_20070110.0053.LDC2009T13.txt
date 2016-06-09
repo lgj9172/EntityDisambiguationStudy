@@ -1,0 +1,33 @@
+1.0	Federal Bureau of Investigation	be of	the United States	ORGANIZATION	LOCATION
+1.0	US Federal Bureau	have	members	O	ORGANIZATION
+0.06747068488575703	he	attempt to	board	0	0
+0.06747068488575703	he	attempt on	January 4	0	DATE
+1.0	Thavarajah 32	be	seek	NUMBER	0
+1.0	New York court	supply	military equipment component	LOCATION	0
+1.0	he	attempt flight to	Kuala Lumpur at Sukarno-Hatta airport	0	LOCATION
+1.0	his	have	baggage	O	O
+1.0	New York court	supply	equipment component	LOCATION	0
+0.06747068488575703	he	attempt to	Kuala Lumpur at Sukarno-Hatta airport	0	LOCATION
+1.0	Thavarajah 32	be seek by	US authority	NUMBER	LOCATION
+1.0	he	attempt flight to	Kuala Lumpur	0	LOCATION
+1.0	Interpol 's Washington bureau	issue	notice	LOCATION	0
+1.0	Interpol	have	Washington bureau	ORGANIZATION	LOCATION
+1.0	Interpol 's Washington bureau	issue notice after	two day	LOCATION	DURATION
+1.0	he	attempt flight on	January 4	0	DATE
+1.0	Interpol 's Washington bureau	issue notice on	he	LOCATION	0
+1.0	years	have	jail	O	DURATION
+1.0	Interpol 's Washington bureau	issue	red notice	LOCATION	0
+1.0	Interpol	have	Washington bureau	O	ORGANIZATION
+1.0	separate homeland	be in	Sri Lanka	0	LOCATION
+1.0	he	attempt	flight	0	0
+1.0	Thavarajah	be seek by	US authority	0	LOCATION
+1.0	New York court	be in	August	LOCATION	DATE
+1.0	Thavarajah	be	seek	0	0
+0.06747068488575703	he	attempt to	Kuala Lumpur	0	LOCATION
+1.0	New York court	sentence	he	LOCATION	0
+1.0	New York court	supply equipment component to	Tamil Tiger rebel	LOCATION	ORGANIZATION
+1.0	he	attempt flight to	board	0	0
+1.0	Indonesia	be in	October	LOCATION	DATE
+1.0	Thavarajah	be	arrest	PERSON	0
+1.0	Investigation	have	US Federal Bureau	ORGANIZATION	ORGANIZATION
+1.0	Indonesia	be on	Wednesday	LOCATION	DATE

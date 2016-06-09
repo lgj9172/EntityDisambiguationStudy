@@ -1,0 +1,43 @@
+0.7037594946097071	Frenchman Cyril Despres	ride	KTM	MISC	ORGANIZATION
+1.0	Frenchman Cyril Despres	take	motorbike honour	MISC	0
+1.0	Frenchman Cyril Despres	take	top motorbike honour ahead of Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	a Volkswagen	have	Sainz	PERSON	ORGANIZATION
+1.0	Anders Ullevalster	be of	norwegian	PERSON	0
+1.0	Frenchman Cyril Despres	take	top motorbike honour ahead of Pal Anders Ullevalster	MISC	PERSON
+1.0	Anders Ullevalster	be of	France	PERSON	LOCATION
+1.0	result	put	he	0	0
+1.0	France	have	Pal Anders Ullevalster	PERSON	LOCATION
+1.0	Frenchman Cyril Despres	take	motorbike honour ahead of Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	Frenchman Cyril Despres	take	top motorbike honour of norwegian Pal Anders Ullevalster	MISC	PERSON
+1.0	Frenchman Cyril Despres	take	motorbike honour ahead of Pal Anders Ullevalster	MISC	PERSON
+1.0	car	win	stage between Zouerat	0	0
+1.0	South Africa	have	Giniel De Villiers	PERSON	LOCATION
+1.0	Frenchman Cyril Despres	take	motorbike honour of norwegian Pal Anders Ullevalster	MISC	PERSON
+1.0	Carlos Sainz	be of	Spain	PERSON	LOCATION
+1.0	car	win	seventh stage	0	ORDINAL
+1.0	Frenchman Cyril Despres	take	top motorbike honour of Pal Anders Ullevalster	MISC	PERSON
+1.0	Sainz	be of	a Volkswagen	PERSON	ORGANIZATION
+1.0	Frenchman Cyril Despres	take	motorbike honour ahead of norwegian Pal Anders Ullevalster	MISC	PERSON
+1.0	Spain	have	race leader Carlos Sainz	PERSON	LOCATION
+1.0	Frenchman Cyril Despres	take	top motorbike honour of Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	car	win	seventh stage between Zouerat	0	ORDINAL
+1.0	David Casteu	have	motorbike honours	O	PERSON
+1.0	Frenchman Cyril Despres	take	top motorbike honour of norwegian Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	car	lead in	Dakar Rally	0	LOCATION
+1.0	result	put and	he	0	0
+1.0	race leader Carlos Sainz	have	shortened	O	PERSON
+1.0	Sainz	have	ahead	O	PERSON
+1.0	Frenchman Cyril Despres	take	top motorbike honour	MISC	0
+1.0	car	win	stage	0	0
+1.0	Frenchman Cyril Despres	take	motorbike honour of Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	South Africa	have	Giniel De Villiers	LOCATION	PERSON
+1.0	Frenchman Cyril Despres	take	motorbike honour ahead of norwegian Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	Pal Anders Ullevalster	have	motorbike honours	O	PERSON
+1.0	Frenchman Cyril Despres	take	top motorbike honour ahead of norwegian Pal Anders Ullevalster	MISC	PERSON
+1.0	car	win stage on	Friday	0	DATE
+1.0	Frenchman Cyril Despres	take	motorbike honour of norwegian Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	Frenchman Cyril Despres	take	motorbike honour of Pal Anders Ullevalster	MISC	PERSON
+1.0	result	put and ahead	he	0	0
+1.0	South Africa 's Giniel De Villiers	drive	volkswagen	PERSON	0
+1.0	Frenchman Cyril Despres	take	top motorbike honour ahead of norwegian Pal Anders Ullevalster of France	MISC	LOCATION
+1.0	Cyril Despres	be	Frenchman	PERSON	MISC

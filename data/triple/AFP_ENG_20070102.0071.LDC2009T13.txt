@@ -1,0 +1,137 @@
+1.0	earlier decision	come into	effect	0	0
+1.0	lifeblood	be cancel on	Monday	0	DATE
+1.0	Belarus '	lose over	10 percent of its annual budget due hike	LOCATION	PERCENT
+1.0	Valery Karbalevich	have	economy	O	O
+1.0	budget	have	percent	PERCENT	O
+1.0	Moscow	have	decisions	O	LOCATION
+1.0	lifeblood	be	effectively cancel on Monday in move observer	0	DATE
+0.5572627572580815	end	come into	effect	0	0
+0.5572627572580815	end	come at_time	January 1	0	DATE
+1.0	Belarus '	lose alone over	10 percent of its budget due hike in oil duty	LOCATION	PERCENT
+0.5572627572580815	end	come in	potentially disastrous development	0	0
+1.0	country	have	economy	O	O
+0.5307308042668876	decision	raise duty to	dollar tone crude	0	0
+1.0	President Alexander Lukashenko	face choice accord to	political economist Valery Karbalevich	PERSON	PERSON
+1.0	President Alexander Lukashenko	now face	choice watch	PERSON	0
+1.0	crude	have	tone	O	O
+1.0	Alexander Lukashenko	have	regime	O	PERSON
+1.0	economy	have	lifeblood	O	O
+1.0	Belarus	economy be	subsidy on energy import from Russia	LOCATION	LOCATION
+1.0	gas deal	be	agree	0	0
+1.0	Sergei Sidorsky	be	Belarussian	PERSON	LOCATION
+1.0	lifeblood	be	cancel on Monday in move observer	0	DATE
+1.0	country 's top refiner	import	russian crude	0	0
+1.0	Belarus '	lose over	10 percent of its budget due hike in oil duty	LOCATION	PERCENT
+1.0	price	have	doubling	O	O
+1.0	the authoritarian regime of Alexander Lukashenko	be force	agree	PERSON	0
+1.0	New Year	have	Eve	TIME	TIME
+1.0	Sergei Karaganov	be	russian	PERSON	0
+1.0	lifeblood	be	cancel	0	0
+1.0	Belarus	have	economy	O	LOCATION
+1.0	Belarus '	have	economy	O	O
+1.0	decision	also come	make	0	0
+1.0	lifeblood	be effectively cancel on	Monday	0	DATE
+1.0	we	have	neighbor	O	O
+1.0	country	have	parliament	O	O
+1.0	deal	have	television	O	O
+1.0	President Alexander Lukashenko	now face choice accord to	independent economist Valery Karbalevich	PERSON	PERSON
+1.0	Russian political analyst Sergei Karaganov	subsidise	energy	0	0
+1.0	President Alexander Lukashenko	face choice accord to	economist Valery Karbalevich	PERSON	PERSON
+1.0	country 's refiner	import	russian crude	0	0
+1.0	Russian political analyst Sergei Karaganov	tell	television ahead of deal	0	0
+1.0	gas deal	be agree on	New Year 's Eve	0	DATE
+1.0	change	be in	economic policy	0	0
+1.0	parliament	have	head	O	O
+1.0	gas deliveries	have	price	O	O
+1.0	decision	come	make	0	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	have	New Year	DATE	O
+1.0	President Alexander Lukashenko	accuse	neighboring state	PERSON	0
+1.0	President Alexander Lukashenko	now face choice accord to	independent political economist Valery Karbalevich	PERSON	PERSON
+1.0	lifeblood	be cancel in	move observer	0	0
+1.0	the authoritarian regime of Alexander Lukashenko	be force into	climb-down	PERSON	0
+1.0	gas deliveries	have	cost	O	O
+1.0	Russian political analyst Sergei Karaganov	tell	television of deal	0	0
+1.0	hope	have	sort	O	O
+1.0	decision	come into	effect	0	0
+1.0	Russia	have	move	O	O
+1.0	country 's refiner	import	crude	0	0
+1.0	Mechislav Grib	head of	country 's parliament	PERSON	0
+1.0	country 's top refiner	import	crude	0	0
+1.0	President Alexander Lukashenko	say in	he New Year 's address	PERSON	DATE
+1.0	New Year	have	Day	DATE	DATE
+1.0	the authoritarian regime of Alexander Lukashenko	be	force	PERSON	0
+1.0	President Alexander Lukashenko	now face	awkward choice	PERSON	0
+1.0	President Alexander Lukashenko	now face	awkward choice watch	PERSON	0
+1.0	President Alexander Lukashenko	now face choice accord to	political economist Valery Karbalevich	PERSON	PERSON
+1.0	Russian political analyst Sergei Karaganov	tell	television	0	0
+1.0	Belarus '	lose over	10 percent of its budget	LOCATION	PERCENT
+1.0	Belarus '	have	budget	O	O
+1.0	Russia	justify	a move the Belarussian government had fiercely resisted	LOCATION	0
+1.0	earlier decision	also come	make	0	0
+1.0	Belarus '	lose alone over	10 percent of its annual budget	LOCATION	PERCENT
+1.0	earlier decision	make	import unviable	0	0
+1.0	Belarus ' command-style economy	subsidy on	energy import from Russia	LOCATION	LOCATION
+1.0	Moscow	after	latest decision	LOCATION	0
+0.5307308042668876	earlier decision	raise duty to	dollar tone crude	0	0
+1.0	President Alexander Lukashenko	face	awkward choice watch	PERSON	0
+1.0	President Alexander Lukashenko	face	choice	PERSON	0
+1.0	reduction	be in	duty	0	0
+1.0	President Alexander Lukashenko	now face	choice	PERSON	0
+1.0	Belarus	have	miracle	O	LOCATION
+1.0	Belarus '	lose alone over	10 percent of its budget due hike	LOCATION	PERCENT
+1.0	President Alexander Lukashenko	face	awkward choice	PERSON	0
+1.0	New Year 's	in	address	DATE	0
+1.0	decision	also come into	effect	0	0
+1.0	money	have	All	O	O
+1.0	lifeblood	be	effectively cancel	0	0
+1.0	Belarus '	lose alone over	10 percent of its budget	LOCATION	PERCENT
+1.0	President Alexander Lukashenko	face choice accord to	independent political economist Valery Karbalevich	PERSON	PERSON
+1.0	Belarus '	lose alone over	10 percent	LOCATION	PERCENT
+1.0	money	have	amounts	O	O
+1.0	hike	be in	oil duty	0	0
+1.0	decision	make	import unviable	0	0
+0.5307308042668876	earlier decision	raise duty to	180 dollar tone crude	0	MONEY
+1.0	Belarus	operator be	Beltransgaz	LOCATION	ORGANIZATION
+1.0	the authoritarian regime of Alexander Lukashenko	be force into	embarrassing climb-down	PERSON	0
+1.0	country	have	refiner	O	O
+1.0	Belarus '	lose over	10 percent	LOCATION	PERCENT
+1.0	price	will reach	market level likely	0	0
+1.0	New Year	have	Eve	DATE	DATE
+0.5307308042668876	decision	raise duty to	180 dollar tone crude	0	MONEY
+1.0	Our	have	union	O	O
+1.0	President Alexander Lukashenko	face choice accord to	independent economist Valery Karbalevich	PERSON	PERSON
+1.0	Moscow	be in	December	LOCATION	DATE
+1.0	earlier decision	also come into	effect	0	0
+1.0	country	have	top refiner	0	0
+1.0	Belarus '	lose over	10 percent of its budget due hike	LOCATION	PERCENT
+1.0	gas price	double on	New Year 's day	0	DATE
+1.0	cut-off	have	threat	O	O
+1.0	country	for	economy	0	TIME
+1.0	President Alexander Lukashenko	accuse	neighboring state try	PERSON	0
+1.0	Belarus '	lose alone over	10 percent of its annual budget due hike	LOCATION	PERCENT
+1.0	decision	make	import economically unviable	0	0
+1.0	earlier decision	make	import economically unviable	0	0
+1.0	Lukashenko	have	regime	PERSON	0
+0.5572627572580815	end	come in	disastrous development	0	0
+1.0	Russian political analyst Sergei Karaganov	tell	russian television	0	0
+1.0	Belarus '	lose alone over	10 percent of its annual budget due hike in oil duty	LOCATION	PERCENT
+1.0	growth	be with	GDP	0	0
+1.0	Belarus '	lose over	10 percent of its annual budget due hike in oil duty	LOCATION	PERCENT
+1.0	President Alexander Lukashenko	now face choice accord to	economist Valery Karbalevich	PERSON	PERSON
+1.0	President Alexander Lukashenko	accuse	state try	PERSON	0
+1.0	lifeblood	be effectively cancel in	move observer	0	0
+1.0	President Alexander Lukashenko	accuse	state	PERSON	0
+1.0	earlier decision	come	make	0	0
+1.0	country	of	parliament	0	0
+1.0	Belarus	have	state gas pipeline operator	O	LOCATION
+1.0	neighbor	have	regime	O	O
+1.0	subsidies	have	loss	O	O
+1.0	nine percent	be in	2005	PERCENT	DATE
+1.0	Lukashenko	have	regime	O	PERSON
+0.5572627572580815	end	come in	development	0	0
+1.0	President Alexander Lukashenko	have	popularity	O	O
+1.0	we union	be with	Belarus	0	LOCATION
+1.0	Belarus '	lose over	10 percent of its annual budget	LOCATION	PERCENT
+1.0	New Year	have	address	O	DATE
+1.0	President Alexander Lukashenko	face	choice watch	PERSON	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	have	country	O	O

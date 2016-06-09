@@ -1,0 +1,46 @@
+1.0	norwegian ministry undersecretary Raymond Johansen	tell	public service radio NRK	PERSON	ORGANIZATION
+1.0	ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	norwegian Refugee Council	be	present	ORGANIZATION	DATE
+1.0	Norway	be member of	contact group on Somalia	LOCATION	LOCATION
+1.0	Norway	criticize	US strike	LOCATION	LOCATION
+1.0	Washington	cease	its military strike	LOCATION	0
+1.0	civilian	be	kill	0	0
+1.0	US bombing	could further destabilise	situation in country	LOCATION	0
+1.0	US bombing	could destabilise	situation in country	LOCATION	0
+1.0	Norway	of	biggest humanitarian organisation	LOCATION	0
+1.0	norwegian Refugee Council	be present in	Somalia	ORGANIZATION	LOCATION
+1.0	The United States	have launch	air strike	0	0
+1.0	foreign ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	civilian	be kill accord to	witness account	0	0
+1.0	Norway	be on	Tuesday	LOCATION	DATE
+1.0	its first overt military intervention	be in	lawless nation since early 1990s	ORDINAL	DATE
+1.0	Washington	cease	its strike	LOCATION	0
+1.0	Refugee Council	be	present	ORGANIZATION	DATE
+1.0	Norway	criticize	US military strike	LOCATION	LOCATION
+1.0	Norway	be member of	international contact group	LOCATION	0
+1.0	Tuesday	on one be	The Refugee Council	DATE	ORGANIZATION
+1.0	Norway 's biggest humanitarian organisation	of one be	The Refugee Council	LOCATION	ORGANIZATION
+1.0	organisations	have	One	NUMBER	O
+1.0	Washington	have	strikes	O	O
+1.0	spokesman	tell	afp	0	0
+1.0	Norway	be member of	contact group	LOCATION	0
+1.0	Norway	be	member	LOCATION	0
+1.0	bases	have	US bombing	O	O
+1.0	Norway	be member of	international contact group on Somalia	LOCATION	LOCATION
+1.0	situation	be in	country	0	0
+1.0	norwegian foreign ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	The United States	have launch air strike on	Al-Qaeda hideout	0	MISC
+1.0	US bombing	could destabilise	situation	LOCATION	0
+1.0	contact group	have	member	O	O
+1.0	Norway	criticize us strike on	Somalia	LOCATION	LOCATION
+1.0	Raymond Johansen	be	norwegian	PERSON	0
+1.0	civilian	be kill in	strike	0	0
+1.0	ministry undersecretary Raymond Johansen	tell	public service radio NRK	PERSON	ORGANIZATION
+1.0	law	have	court	O	O
+1.0	norwegian ministry undersecretary Raymond Johansen	tell	service radio NRK	PERSON	ORGANIZATION
+1.0	US bombing	could further destabilise	situation	LOCATION	0
+1.0	The United States	have launch air strike on	suspect Al-Qaeda hideout	0	MISC
+1.0	alleged terrorist basis	be in	Somalia	0	LOCATION
+1.0	Refugee Council	be present in	Somalia	ORGANIZATION	LOCATION
+1.0	The United States	have	intervention	O	O
+1.0	Norway	have	organisations	O	LOCATION

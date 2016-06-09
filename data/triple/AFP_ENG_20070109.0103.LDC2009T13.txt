@@ -1,0 +1,45 @@
+1.0	move	be	latest chapter	0	0
+1.0	move	be latest chapter in	long run dispute	0	0
+1.0	move	be latest chapter in	long dispute	0	0
+1.0	UCI Pro Tour	have	development	O	O
+1.0	Cycling 's three biggest races are to be taken to the European Commission by the International Cycling Union -LRB- UCI -RRB-	have	Tour series	O	O
+1.0	UCI 's main gripe	be with	France	ORGANIZATION	LOCATION
+1.0	the UCI	have	main gripe with Tour de France	ORGANIZATION	LOCATION
+1.0	Cycling	have	Cycling 's three biggest races are to be taken to the European Commission by the International Cycling Union -LRB- UCI -RRB-	O	O
+1.0	UCI	decide against	orgainser of Tours	ORGANIZATION	0
+1.0	competition	have	laws	O	O
+1.0	Tours	have	orgainsers	O	O
+1.0	Cycling	have	three biggest race	ORGANIZATION	NUMBER
+1.0	Tours	have	organisers	O	O
+1.0	sport	between	ruling body	0	0
+1.0	UCI	explain in	statement	ORGANIZATION	0
+1.0	UCI 's main gripe	be restriction	they place	ORGANIZATION	0
+1.0	UCI	decide against	orgainser	ORGANIZATION	0
+1.0	UCI 's gripe	be restriction	they place on choice	ORGANIZATION	0
+1.0	move	be chapter in	run dispute	0	0
+1.0	Tours	have	Organisers	O	MISC
+1.0	move	be	chapter	0	0
+1.0	organiser	sabotage	development	0	0
+1.0	organiser	sabotage	development of UCI pro Tour	0	ORGANIZATION
+1.0	the UCI	have	gripe	O	ORGANIZATION
+1.0	Hein Verbruggen	be by	UCI	PERSON	ORGANIZATION
+1.0	teams	have	choice	O	O
+1.0	latest chapter	be in	long run dispute between sport 's ruling body	0	0
+1.0	UCI	decide against	orgainser of main Tours	ORGANIZATION	0
+1.0	move	be latest chapter in	dispute	0	0
+1.0	they	place on	choice	0	0
+1.0	move	be chapter in	dispute	0	0
+1.0	Italy	have	Tour	O	LOCATION
+1.0	move	be latest chapter in	run dispute	0	0
+1.0	move	be chapter in	long dispute	0	0
+1.0	sport	have	ruling body	O	O
+1.0	UCI	explain in	statement Tuesday	ORGANIZATION	DATE
+1.0	Spain	have	Tour	O	LOCATION
+1.0	UCI 's gripe	be restriction	they place	ORGANIZATION	0
+1.0	their	have	position	O	O
+1.0	their	have	events	O	O
+1.0	Hein Verbruggen	be president of	UCI	PERSON	ORGANIZATION
+1.0	three jewel	be in	cycling calendar	NUMBER	0
+1.0	move	be chapter in	long run dispute	0	0
+1.0	UCI	decide at_time	today	ORGANIZATION	DATE
+1.0	UCI 's main gripe	be restriction	they place on choice	ORGANIZATION	0

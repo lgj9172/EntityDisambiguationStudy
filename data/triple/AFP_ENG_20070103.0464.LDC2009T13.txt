@@ -1,0 +1,51 @@
+1.0	National Intelligence	have	US Director	O	ORGANIZATION
+1.0	John Negroponte	must	must confirm by Senate for he position	PERSON	ORGANIZATION
+1.0	John Negroponte	serve briefly as	ambassador	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush 's	finalize	review of fail US policy in Iraq	PERSON	LOCATION
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	official	say on	condition of anonymity	0	0
+1.0	senior official	say at_time	Wednesday	0	DATE
+1.0	Negroponte 67	must	must confirm by Senate for he new position	PERSON	ORGANIZATION
+1.0	John Negroponte	serve as	ambassador	PERSON	0
+1.0	US policy	have	review	O	O
+1.0	Negroponte 67	must	must confirm by Senate for he position	PERSON	ORGANIZATION
+1.0	John Negroponte	must	must confirm by Senate	PERSON	ORGANIZATION
+1.0	John Negroponte	must	must confirm	PERSON	0
+0.8530998944533777	US President George W. Bush 's	review of	fail US policy in Iraq	PERSON	LOCATION
+1.0	US President George W. Bush 's	finalize	review	PERSON	0
+1.0	US President George W. Bush 's	finalize	review of fail US policy	PERSON	LOCATION
+1.0	John Negroponte	become	first US director	PERSON	LOCATION
+1.0	John Negroponte	have	position	O	O
+1.0	intelligence failure	be in	Iraq	0	LOCATION
+1.0	September 11 2001	attack on	New York	DATE	LOCATION
+1.0	fail US policy	be in	Iraq	LOCATION	LOCATION
+1.0	official	say at_time	Wednesday	0	DATE
+1.0	John Negroponte	have	resignation	O	O
+1.0	George W. Bush	's official be	John Negroponte	PERSON	PERSON
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	deputy	have	Secretary	O	O
+1.0	John Negroponte	be	67	PERSON	NUMBER
+1.0	George W. Bush	have	top intelligence official	PERSON	0
+1.0	move	have	News	O	O
+0.8530998944533777	US President George W. Bush 's	review of	US policy in Iraq	PERSON	LOCATION
+1.0	Negroponte 67	must	must confirm	PERSON	0
+0.8530998944533777	US President George W. Bush 's	review of	fail US policy	PERSON	LOCATION
+1.0	Negroponte 67	must	must confirm by Senate	PERSON	ORGANIZATION
+1.0	John Negroponte	must	must confirm by Senate for he new position	PERSON	ORGANIZATION
+1.0	office	be in	January 2008	0	DATE
+1.0	John Negroponte	become	US director	PERSON	LOCATION
+1.0	US President George W. Bush 's	finalize	review of US policy	PERSON	LOCATION
+1.0	US President George W. Bush	have	intelligence official	O	PERSON
+1.0	John Negroponte	become as	part of overhaul	PERSON	0
+1.0	official	say on	condition	0	0
+1.0	overhaul	have	part	O	O
+1.0	John Negroponte	become as	part	PERSON	0
+1.0	National Intelligence	be in	2005	ORGANIZATION	DATE
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+0.8530998944533777	US President George W. Bush 's	review of	US policy	PERSON	LOCATION
+1.0	John Negroponte	have	move	O	O
+1.0	state	have	deputy secretary	O	O
+1.0	US President George W. Bush 's	finalize	review of US policy in Iraq	PERSON	LOCATION
+1.0	John Negroponte	have	State Department roots	O	O
+1.0	anonymity	have	condition	O	O

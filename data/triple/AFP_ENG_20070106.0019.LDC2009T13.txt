@@ -1,0 +1,26 @@
+1.0	assam state 's main city	of kilometer be	365 mile	0	NUMBER
+1.0	Ghormori Chapori	near fisherman be	police	LOCATION	0
+1.0	separatist attacks	have	string	O	O
+1.0	590 kilometer	about fisherman be	police	NUMBER	0
+1.0	brick kiln workers	have	group	O	O
+1.0	arm militant	attack	group of brick kiln worker	0	0
+1.0	militant	attack	group of brick kiln worker	0	0
+1.0	Asom	have	United Liberation Front	ORGANIZATION	ORGANIZATION
+1.0	militant	heavily attack	group	0	0
+1.0	Absar Hazarika	be district magistrate of	Tinsukia	PERSON	LOCATION
+1.0	state	have	city	O	O
+1.0	Tinsukia district magistrate Absar Hazarika	tell	afp	LOCATION	0
+1.0	Absar Hazarika	be	Tinsukia	PERSON	LOCATION
+1.0	India	have	northeast	O	LOCATION
+1.0	Guwahati	have	city	O	LOCATION
+1.0	arm militant	attack	group	0	0
+1.0	pre-dawn separatist rebel raid	be in	India 's northeast	0	LOCATION
+1.0	United Liberation Front	have	militants	O	ORGANIZATION
+1.0	militant	attack	group	0	0
+1.0	violence	have	hours	DURATION	O
+1.0	India	in	northeast	LOCATION	0
+1.0	Tinsukia district magistrate Absar Hazarika	tell afp by	telephone	LOCATION	0
+1.0	city	have	kilometers	O	O
+1.0	militant	heavily attack	group of brick kiln worker	0	0
+1.0	arm militant	heavily attack	group of brick kiln worker	0	0
+1.0	arm militant	heavily attack	group	0	0

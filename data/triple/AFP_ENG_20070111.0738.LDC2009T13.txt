@@ -1,0 +1,169 @@
+1.0	Wednesday	have	speech	O	DATE
+1.0	district	be target include	stronghold	0	0
+1.0	district	be target include	stronghold of cleric Moqtada	0	PERSON
+1.0	whose political legacy	pacify	Iraq	0	LOCATION
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	United States	monitor compliance before	new troops arrive	LOCATION	0
+1.0	his	have	push	O	O
+1.0	United States	closely monitor	iraqi compliance	LOCATION	0
+1.0	United States	monitor compliance before	first new troops arrive in Iraq	LOCATION	ORDINAL
+1.0	success	have	chances	O	O
+1.0	United States	monitor compliance before	first troops	LOCATION	ORDINAL
+1.0	secretary	be	head on tour	0	0
+1.0	top member	dismiss strategy as	worst blunder	0	0
+0.5820179127675978	strategy	member of	he Republican Party	0	ORGANIZATION
+1.0	Iraq	have	minister	O	LOCATION
+1.0	President George W. Bush	have	plan	O	O
+1.0	United States	monitor compliance before	first new troops	LOCATION	ORDINAL
+1.0	United States	monitor compliance before	troops	LOCATION	0
+1.0	Condoleezza Rice	face	fearsome grilling	PERSON	0
+1.0	Bush	have	warning	O	PERSON
+1.0	control	help	Iraq 's security force	0	LOCATION
+1.0	bargain	have	end	O	O
+1.0	the government of Iraqi Prime Minister Nuri al-Maliki	have	end	O	O
+1.0	Americans	have	prayers	O	MISC
+1.0	United States	closely monitor compliance before	first new troops	LOCATION	ORDINAL
+1.0	iranian agent	be in	country	0	0
+1.0	government	be on	borrow	0	0
+1.0	his	have	government	O	O
+1.0	district	be target include	stronghold of shiite cleric Moqtada	0	PERSON
+1.0	district	be target include	stronghold of radical Moqtada	0	PERSON
+1.0	district	be target include	stronghold of shiite Moqtada al-Sadr	0	PERSON
+1.0	he	tell	BBC	0	ORGANIZATION
+1.0	the United States	have	terms	O	LOCATION
+1.0	Condoleezza Rice	face grilling over	plan	PERSON	0
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	our	have	military	O	O
+1.0	his	have	country	O	O
+1.0	President George W. Bush	have	Republican Party	ORGANIZATION	O
+1.0	secretary	be	head on tour of Middle East	0	LOCATION
+1.0	district	be target include	stronghold of Moqtada	0	PERSON
+1.0	US troops	be in	Fort Benning	LOCATION	LOCATION
+1.0	secretary	head on	tour	0	0
+1.0	United States	closely monitor compliance before	troops	LOCATION	0
+1.0	United States	monitor compliance before	first troops arrive	LOCATION	ORDINAL
+1.0	district	be target include	stronghold of radical shiite cleric Moqtada	0	PERSON
+1.0	success	have	prospect	O	O
+1.0	United States	closely monitor compliance before	troops arrive in Iraq	LOCATION	LOCATION
+1.0	United States	closely monitor compliance before	first troops arrive in Iraq	LOCATION	ORDINAL
+1.0	Middle East	have	tour	O	LOCATION
+1.0	top member	dismiss strategy as	blunder	0	0
+1.0	US troops	pour into	Baghdad	LOCATION	LOCATION
+1.0	Bush administration	have	reliance	PERSON	0
+1.0	member	dismiss strategy as	blunder	0	0
+1.0	district	be target include	stronghold al-Sadr	0	PERSON
+1.0	secretary	head on	Friday	0	DATE
+1.0	president	have	strategy	O	O
+1.0	United States	closely monitor compliance before	first new troops arrive	LOCATION	ORDINAL
+1.0	United States	monitor compliance before	first troops arrive in Iraq	LOCATION	ORDINAL
+1.0	district	be target include	stronghold of shiite Moqtada	0	PERSON
+1.0	US troops	detain	six Iranians	LOCATION	NUMBER
+1.0	US Iraq policy	have	paradise	O	O
+1.0	United States	closely monitor compliance before	first troops arrive	LOCATION	ORDINAL
+1.0	US soldier	would confront	element	0	0
+1.0	whose political legacy	be ride on	long-odds bid	0	0
+1.0	United States	monitor compliance before	new troops	LOCATION	0
+1.0	whose	have	legacy	O	O
+0.8271824664817301	Democrats	rein of	Congress	MISC	ORGANIZATION
+1.0	our	have	chance	O	O
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	member	dismiss	strategy	0	0
+1.0	district	be target include	stronghold of Moqtada al-Sadr	0	PERSON
+1.0	Bush	have	warning	PERSON	0
+1.0	United States	closely monitor compliance before	first troops	LOCATION	ORDINAL
+1.0	Rice	defend	Bush administration 's reliance	PERSON	PERSON
+1.0	military	have	loss	O	O
+1.0	district	be target include	stronghold of cleric Moqtada al-Sadr	0	PERSON
+1.0	Iraq	's minister be	Hoshyar Zebari	LOCATION	PERSON
+1.0	secretary	be	head on tour of Middle East on Friday	0	LOCATION
+1.0	state	have	secretary	O	O
+1.0	US soldier	would confront there	iranian element	0	0
+1.0	member	dismiss strategy as	worst blunder	0	0
+1.0	Bush and top aides	convince	nation weary	0	0
+1.0	he	tell	troops	0	0
+1.0	whose legacy	pacify	Iraq	0	LOCATION
+1.0	Moqtada	have	stronghold	O	PERSON
+1.0	Secretary of State Condoleezza Rice	speak	hour	PERSON	0
+1.0	secretary	be	head	0	0
+1.0	President George W. Bush	face	pitched battle	PERSON	0
+1.0	district	be target include	stronghold of radical shiite cleric Moqtada al-Sadr	0	PERSON
+1.0	Bush	have	plan	O	PERSON
+1.0	Rice	meanwhile defend	Bush administration 's reliance	PERSON	PERSON
+1.0	secretary	head on	tour of Middle East	0	LOCATION
+1.0	committee	have	inquisition	O	O
+1.0	Wednesday	in	speech	DATE	0
+1.0	Bush	have	plan	PERSON	0
+1.0	district	be target include	stronghold of radical shiite Moqtada al-Sadr	0	PERSON
+1.0	President George W. Bush	come	aide	PERSON	0
+1.0	nation	weary of	war	0	0
+1.0	administration figure	have	inquisition	O	O
+1.0	US Iraq policy	have	paradise	LOCATION	0
+1.0	country	have	control	O	O
+1.0	whose political legacy	be ride on	bid	0	0
+1.0	United States	closely monitor compliance before	troops arrive	LOCATION	0
+1.0	United States	closely monitor	compliance	LOCATION	0
+1.0	State	have	Secretary	O	ORGANIZATION
+1.0	Chuck Hagel	be	Republican	PERSON	MISC
+1.0	Christopher Dodd	be	Democrat	PERSON	MISC
+0.5820179127675978	strategy	even top member of	he Republican Party	0	ORGANIZATION
+1.0	secretary	be	head on Friday	0	DATE
+1.0	United States	monitor compliance before	troops arrive in Iraq	LOCATION	LOCATION
+1.0	US soldier	would confront there	element	0	0
+1.0	President George W. Bush	face battle with	US lawmaker	PERSON	LOCATION
+1.0	Nuri al-Maliki	be of	iraqi	PERSON	0
+1.0	district	be target include	stronghold of radical cleric Moqtada al-Sadr	0	PERSON
+1.0	Bush and top aides	launch	sell	0	0
+1.0	US soldier	would confront	iranian element	0	0
+1.0	Democrats	take	rein of Congress	MISC	ORGANIZATION
+1.0	United States	monitor	compliance	LOCATION	0
+1.0	top member	dismiss strategy since	Vietnam	0	LOCATION
+1.0	President George W. Bush	face battle at_time	Thursday	PERSON	DATE
+1.0	United States	monitor	iraqi compliance	LOCATION	0
+0.5820179127675978	strategy	even member of	he Republican Party	0	ORGANIZATION
+1.0	secretary	be	head on tour on Friday	0	DATE
+1.0	district	be target include	stronghold of shiite cleric Moqtada al-Sadr	0	PERSON
+1.0	Democrats	take rein at_time	week	MISC	DATE
+1.0	Democrats	say at_time	Wednesday	MISC	DATE
+1.0	whose legacy	be ride on	long-odds bid	0	0
+1.0	member	dismiss strategy since	Vietnam	0	LOCATION
+1.0	district	be target include	stronghold of radical cleric Moqtada	0	PERSON
+1.0	President George W. Bush	come	top aide	PERSON	0
+1.0	Bush and top aides	convince	nation weary of war	0	0
+1.0	Democrats	take rein at_time	last week	MISC	DATE
+1.0	United States	closely monitor compliance before	new troops	LOCATION	0
+1.0	top member	dismiss	strategy	0	0
+1.0	United States	monitor compliance before	first new troops arrive	LOCATION	ORDINAL
+1.0	United States	closely monitor compliance before	new troops arrive	LOCATION	0
+1.0	Moqtada al-Sadr	be of	shiite	PERSON	0
+1.0	President George W. Bush	face battle over	he plan	PERSON	0
+1.0	President George W. Bush	come under	criticism	PERSON	0
+1.0	its	have	consulate	O	O
+1.0	Bush and top aides	launch	hard sell	0	0
+1.0	Republican Party	have	member	O	ORGANIZATION
+1.0	president	have	strategy	0	0
+1.0	United States	monitor compliance before	troops arrive	LOCATION	0
+1.0	district	be target include	stronghold of radical shiite Moqtada	0	PERSON
+1.0	President George W. Bush	come under	heavy criticism	PERSON	0
+1.0	Condoleezza Rice	face	grilling	PERSON	0
+1.0	United States	closely monitor compliance before	new troops arrive in Iraq	LOCATION	LOCATION
+1.0	Bush administration	have	reliance	O	O
+1.0	Iraq	have	foreign minister	LOCATION	0
+1.0	Iraqi Prime Minister Nuri al-Maliki	have	government	O	O
+1.0	whose legacy	be ride on	bid	0	0
+1.0	United States	monitor compliance before	new troops arrive in Iraq	LOCATION	LOCATION
+1.0	President George W. Bush	face	battle	PERSON	0
+0.5820179127675978	strategy	top member of	he Republican Party	0	ORGANIZATION
+1.0	committee	over	first inquisition of senior administration figure	0	ORDINAL
+1.0	Gates	say	add	PERSON	0
+1.0	lives	have	loss	O	O
+1.0	district	be target include	stronghold of radical Moqtada al-Sadr	0	PERSON
+1.0	government	be on	borrow time	0	0
+1.0	Congress	have	reins	O	ORGANIZATION
+1.0	war	have	weary	O	O
+1.0	his	have	sales pitch	O	O
+1.0	Iraq	have	security force	LOCATION	0
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	district	be	target	0	0
+1.0	Democrats	take	rein	MISC	0
+1.0	Arbil	have	city	O	LOCATION
+1.0	United States	closely monitor compliance before	first new troops arrive in Iraq	LOCATION	ORDINAL

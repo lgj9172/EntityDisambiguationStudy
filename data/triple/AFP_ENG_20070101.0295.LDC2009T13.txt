@@ -1,0 +1,64 @@
+1.0	Hyundai Motor	aim	become	ORGANIZATION	0
+1.0	revenue target	be	42 trillion win higher than estimate 37 trillion win	0	MONEY
+1.0	analyst	cite	labour dispute	0	0
+1.0	Kia Motors	say in	filing	ORGANIZATION	0
+1.0	Hyundai Motor	aim	become by 2010	ORGANIZATION	DATE
+1.0	chairman Chung Mong-Koo	be arrest at_time	year	PERSON	DATE
+1.0	Ahn Soo-Woong	be analyst of	Woori Investment and Securities	PERSON	ORGANIZATION
+1.0	Hyundai Motor	have	affiliate	O	O
+1.0	chairman Chung Mong-Koo	have	New Year	DATE	O
+1.0	2007 than last year	sell vehicle include	include United States	0	LOCATION
+1.0	New Year	have	message	O	DATE
+1.0	2007 than last year	raise overseas	production	0	0
+1.0	Woori Investment	say	Securities analyst Ahn Soo-Woong	ORGANIZATION	ORGANIZATION
+1.0	five	have	one	NUMBER	NUMBER
+1.0	chairman Chung Mong-Koo	tell employee in	he New Year 's message	PERSON	DATE
+1.0	chairman Chung Mong-Koo	be	year arrest on charge	PERSON	DATE
+1.0	chairman Chung Mong-Koo	be arrest on	charge	PERSON	0
+1.0	2007 than last year	raise	production	0	0
+1.0	The company	have	sales target	O	O
+1.0	Woori Investment	say in	research note	ORGANIZATION	0
+1.0	analyst	cite	the 's strength	0	0
+1.0	its	have	year	DATE	O
+1.0	labour dispute	have	have cite by analyst	0	0
+1.0	chairman Chung Mong-Koo	be	early year arrest on charge	PERSON	DATE
+1.0	22 trillion	have	revenue	O	MONEY
+1.0	the	have	strength	O	O
+1.0	the win	have	strength	0	0
+1.0	New Year 's	in	message	DATE	0
+0.8158420549022113	company	miss	its sale target of 2.69 million vehicle	0	NUMBER
+1.0	chairman Chung Mong-Koo	be arrest at_time	early year	PERSON	DATE
+1.0	Ahn Soo-Woong	be	Woori Investment and Securities	PERSON	ORGANIZATION
+1.0	Woori Investment	say in	research note quote	ORGANIZATION	0
+1.0	South Korea	have	top automaker	LOCATION	0
+0.585085890576795	labour dispute	analyst	chairman 's management style	0	0
+1.0	2006	in million be	increase of 9.4 percent	DATE	PERCENT
+1.0	slush fund	bribe	government official	0	0
+1.0	chairman Chung Mong-Koo	be arrest at_time	last year	PERSON	DATE
+1.0	revenue target	be	42 trillion win 13.5 percent higher than estimate 37 trillion win	0	PERCENT
+1.0	labour dispute	have	have cite	0	0
+1.0	Hyundai Motor	have	brand awareness	O	O
+1.0	labour dispute	have	have cite by analyst as obstacle	0	0
+1.0	world	have	automakers	O	O
+1.0	vehicles	have	sales	O	O
+0.585085890576795	labour dispute	analyst	69-year-old chairman 's management style	0	DURATION
+1.0	revenue target	be	42 trillion win higher than estimate 37 trillion win in 2006	0	MONEY
+1.0	chairman Chung Mong-Koo	be arrest at_time	early last year	PERSON	DATE
+1.0	South Korea	have	automaker	O	LOCATION
+1.0	Woori Investment	say in	research note quote by Yonhap news agency	ORGANIZATION	ORGANIZATION
+0.9788506817503282	vehicle	more	almost 10 percent	0	PERCENT
+1.0	69-year-old chairman	have	management style	DURATION	0
+1.0	chairman Chung Mong-Koo	be	arrest	PERSON	0
+1.0	chairman Chung Mong-Koo	be	early last year arrest on charge	PERSON	DATE
+1.0	chairman Chung Mong-Koo	tell	employee	PERSON	0
+1.0	chairman Chung Mong-Koo	be	last year arrest on charge	PERSON	DATE
+1.0	percent	have	increase	O	PERCENT
+1.0	analyst	cite	the win 's strength	0	0
+1.0	chairman	have	management style	O	O
+1.0	vehicles'	have	sales	O	O
+1.0	world	among	automaker	0	0
+0.8158420549022113	company	miss	its sale target	0	0
+1.0	vehicles	have	sales target	O	O
+1.0	revenue target	be	42 trillion win 13.5 percent higher than estimate 37 trillion win in 2006	0	PERCENT
+1.0	Hyundai Motor	rank among	world 's automaker	ORGANIZATION	0
+1.0	Kia Motors	say in	separate filing	ORGANIZATION	0

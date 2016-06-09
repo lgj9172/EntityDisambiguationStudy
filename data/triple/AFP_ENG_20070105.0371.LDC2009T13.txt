@@ -1,0 +1,77 @@
+1.0	side	meet in	northern city	0	0
+1.0	side	last meet in	northern portuguese city of Oporto	0	LOCATION
+1.0	quality	have	pitch	O	O
+1.0	Portugal 's	beat	five-times world champion	LOCATION	0
+1.0	two side	last meet in	northern city of Oporto	NUMBER	LOCATION
+1.0	two side	meet in	northern city	NUMBER	0
+1.0	Oporto	have	city	O	LOCATION
+0.7366145524904056	Luiz Felipe Scolari	helm of	national team	PERSON	0
+1.0	Luiz Felipe Scolari	take	helm of team	PERSON	0
+1.0	side	meet in	portuguese city of Oporto	0	LOCATION
+1.0	side	have	month	DATE	O
+0.7366145524904056	Luiz Felipe Scolari	helm of	team	PERSON	0
+1.0	side	last meet in	friendly	0	0
+1.0	two side	last meet in	friendly in March 2003	NUMBER	DATE
+1.0	Portugal 's Brazilian coach Luiz Felipe Scolari says he	say in	comment	0	0
+1.0	side	meet in	northern portuguese city	0	0
+1.0	Portugal 's Brazilian coach Luiz Felipe Scolari says he	say in	comment publish on internet site of Portuguese Football Federation	0	ORGANIZATION
+1.0	Portugal 's	beat world champion at_time	Brazil 2-1	LOCATION	LOCATION
+1.0	Luiz Felipe Scolari	be	sure	0	0
+0.7366145524904056	Luiz Felipe Scolari	helm of	portuguese national team	PERSON	0
+1.0	a very special day	be	special	0	0
+1.0	Luiz Felipe Scolari	take	helm of portuguese national team	PERSON	0
+1.0	side	meet in	city of Oporto	0	LOCATION
+1.0	side	last meet in	northern portuguese city	0	0
+1.0	side	last meet in	friendly in March 2003	0	DATE
+1.0	two side	last meet in	portuguese city of Oporto	NUMBER	LOCATION
+1.0	two side	last meet in	northern portuguese city of Oporto	NUMBER	LOCATION
+1.0	Portugal 's Brazilian coach Luiz Felipe Scolari says he	say in	comment publish on internet site	0	0
+1.0	two side	last meet in	city of Oporto	NUMBER	LOCATION
+1.0	two side	meet in	friendly in March 2003	NUMBER	DATE
+1.0	two side	meet in	portuguese city of Oporto	NUMBER	LOCATION
+1.0	two side	meet in	portuguese city	NUMBER	0
+1.0	side	meet in	friendly in March 2003	0	DATE
+1.0	side	last meet in	northern city of Oporto	0	LOCATION
+1.0	Portugal 's Brazilian coach Luiz Felipe Scolari says he	have	side	O	O
+1.0	side	last meet in	city	0	0
+1.0	two side	last meet in	portuguese city	NUMBER	0
+1.0	Portuguese Football Federation	have	Internet site	O	ORGANIZATION
+1.0	Luiz Felipe Scolari	take helm in	December 2002	PERSON	DATE
+1.0	two side	last meet in	city	NUMBER	0
+0.7366145524904056	Luiz Felipe Scolari	helm of	portuguese team	PERSON	0
+1.0	two side	meet in	northern portuguese city of Oporto	NUMBER	LOCATION
+1.0	two side	last meet in	northern city	NUMBER	0
+1.0	Arsenal	have	Emirates Stadium	LOCATION	ORGANIZATION
+1.0	Portugal	have	brazilian coach	LOCATION	0
+1.0	two side	meet in	city	NUMBER	0
+1.0	Portugal 's	beat	world champion	LOCATION	0
+1.0	a very special day	be	spectacular	0	0
+1.0	side	last meet in	portuguese city of Oporto	0	LOCATION
+1.0	talent	have	pitch	O	O
+1.0	two side	meet in	northern portuguese city	NUMBER	0
+1.0	side	meet in	northern city of Oporto	0	LOCATION
+1.0	side	to	next month	0	DATE
+1.0	side	last meet in	city of Oporto	0	LOCATION
+1.0	side	meet in	city	0	0
+1.0	Luiz Felipe Scolari	say	Luiz Felipe Scolari	PERSON	0
+1.0	side	last meet in	portuguese city	0	0
+1.0	Luiz Felipe Scolari	have	Brazil	LOCATION	O
+1.0	Luiz Felipe Scolari	take	helm of national team	PERSON	0
+1.0	his native Brazil	have	World Cup title	O	O
+1.0	Arsenal	at	Emirates Stadium	ORGANIZATION	LOCATION
+1.0	team	have	helm	O	O
+1.0	Portugal 's Brazilian coach Luiz Felipe Scolari says he	say in	comment publish	0	0
+1.0	side	last meet in	northern city	0	0
+1.0	two side	meet in	friendly	NUMBER	0
+1.0	side	meet in	portuguese city	0	0
+1.0	Luiz Felipe Scolari	take	helm	PERSON	0
+1.0	two side	last meet in	friendly	NUMBER	0
+1.0	match	will	will second	0	ORDINAL
+1.0	Portugal	have	coach	O	LOCATION
+1.0	Luiz Felipe Scolari	take	helm of portuguese team	PERSON	0
+1.0	match	will	will second between Portugal	0	ORDINAL
+1.0	two side	last meet in	northern portuguese city	NUMBER	0
+1.0	two side	meet in	northern city of Oporto	NUMBER	LOCATION
+1.0	side	meet in	northern portuguese city of Oporto	0	LOCATION
+1.0	side	meet in	friendly	0	0
+1.0	two side	meet in	city of Oporto	NUMBER	LOCATION

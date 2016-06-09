@@ -1,0 +1,8 @@
+1.0	White House	criticize	way	ORGANIZATION	0
+1.0	US official	express	concern	LOCATION	0
+0.6181128500337086	oust	dictator	execute	0	0
+1.0	top US official	be in	Baghdad	LOCATION	LOCATION
+1.0	White House	be on	Wednesday	ORGANIZATION	DATE
+1.0	Saddam Hussein	be	execute	PERSON	0
+1.0	top US official	express	concern	LOCATION	0
+0.6181128500337086	oust	iraqi dictator	execute	0	0

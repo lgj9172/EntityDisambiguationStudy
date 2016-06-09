@@ -1,0 +1,5 @@
+1.0	Kollek	be	Theodor	PERSON	PERSON
+1.0	Kollek	figure in	israeli labour party	PERSON	ORGANIZATION
+1.0	Jerusalem	be for	30 year	LOCATION	DURATION
+1.0	Jerusalem	have	mayor	O	LOCATION
+1.0	top figure	be in	israeli labour party	0	ORGANIZATION

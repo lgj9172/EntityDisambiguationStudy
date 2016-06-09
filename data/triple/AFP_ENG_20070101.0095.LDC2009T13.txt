@@ -1,0 +1,62 @@
+0.781167336963673	christian pop group	create in	1991	0	DATE
+1.0	New Year	have	celebrations	O	DATE
+1.0	sightings	have	reports	O	O
+1.0	piousness	come	partying	0	0
+0.6629573156285158	christian pilgrim	visit	France 's miracle town	0	LOCATION
+1.0	Bishop Jacques Perrier	hold mass in front of	town 's grotto	PERSON	0
+0.781167336963673	christian pop group	create by	couple	0	0
+1.0	Christians	have	millions	O	MISC
+1.0	Catherine Albrech	be give	ticket	0	0
+0.781167336963673	pop group	create in	1991	0	DATE
+1.0	Catherine Albrech	have	congregation	O	O
+1.0	report	surface in	century	0	DATE
+1.0	piousness	come together	partying	0	0
+0.781167336963673	christian pop group	create by	couple US missionary	0	LOCATION
+1.0	God	in	disco	0	0
+1.0	report	first surface in	mid-19th century	0	DATE
+0.6629573156285158	pilgrim	visit	France 's miracle town	0	LOCATION
+1.0	site	have draw	million	0	0
+1.0	Catherine Albrech	be give ticket by	she congregation	0	0
+1.0	christian pilgrim	boogie in	God 's disco	0	DATE
+1.0	festivity	give way to	traditional religious tone	0	0
+0.6629573156285158	pilgrim	visit	France 's miracle town of Lourdes	0	LOCATION
+1.0	report	surface in	mid-19th century	0	DATE
+1.0	town	in front of	grotto	0	0
+1.0	crowd	be	mostly young	0	0
+0.6629573156285158	christian pilgrim	visit	France 's famous miracle town of Lourdes	0	LOCATION
+1.0	Catherine Albrech	have	foot	O	O
+1.0	site	have draw million from	from world	0	0
+0.6629573156285158	pilgrim	visit	France 's famous miracle town	0	LOCATION
+1.0	international crowd	be	mostly young	0	0
+1.0	site	have draw	million of christian	0	0
+1.0	report	first surface in	century	0	DATE
+1.0	New Year	have	Eve	DATE	DATE
+1.0	Catherine Albrech	one of	team	PERSON	0
+0.6629573156285158	pilgrim	visit	France 's famous miracle town of Lourdes	0	LOCATION
+1.0	France	have	famous miracle town of Lourdes	LOCATION	LOCATION
+1.0	Catherine Albrech	be give	free ticket	0	0
+1.0	God	have	disco	O	O
+1.0	US missionaries	have	tunes	O	O
+1.0	town	have	grotto	O	O
+1.0	Lourdes	have	miracle town	O	LOCATION
+1.0	New Year 's Eve	for	celebration	DATE	0
+1.0	festivity	give way to	more traditional religious tone	0	0
+0.781167336963673	pop group	create by	couple US missionary	0	LOCATION
+1.0	Bishop Jacques Perrier	hold	mass	PERSON	0
+1.0	international crowd	be	young	0	0
+1.0	pilgrim	boogie in	God 's disco	0	DATE
+1.0	Jacques Perrier	be of	Lourdes	PERSON	PERSON
+1.0	Lourdes	have	Bishop Jacques Perrier	PERSON	PERSON
+1.0	grotto	have	held	O	O
+1.0	crowd	be	young	0	0
+1.0	festivity	eventually give way to	traditional religious tone	0	0
+0.781167336963673	pop group	create by	couple	0	0
+1.0	team	have	one	NUMBER	O
+1.0	Virgin Mary	have	sightings	O	PERSON
+1.0	France	have	miracle town	O	LOCATION
+1.0	US missionaries	have	couple	O	O
+0.6629573156285158	christian pilgrim	visit	France 's famous miracle town	0	LOCATION
+0.6629573156285158	christian pilgrim	visit	France 's miracle town of Lourdes	0	LOCATION
+1.0	they heel	be in	unusual nightclub	0	0
+1.0	US missionaries	have	heels	O	O
+1.0	festivity	eventually give way to	more traditional religious tone	0	0

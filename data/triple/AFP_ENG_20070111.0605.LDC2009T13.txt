@@ -1,0 +1,18 @@
+1.0	US government officials involved in successful efforts here in the US aimed at preventing the exploitation of women and children and prosecuting offenders	have	plans	O	O
+1.0	education	be	crucial	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Laura Bush	be	First	PERSON	ORDINAL
+1.0	United Nations Educational Scientific Cultural Organization	have	ambassador	O	O
+1.0	women	have	exploitation	O	O
+1.0	literacy	have	decade	DATE	O
+1.0	United Nations Educational Organization	have	honorary ambassador for decade of literacy	ORGANIZATION	DATE
+1.0	US government officials	have	delegation	O	O
+1.0	teacher training	have	issue	O	O
+1.0	US First Lady Laura Bush	have	counterpart	O	O
+1.0	Laura Bush	be	US	PERSON	LOCATION
+1.0	organization	have	Paris headquarters	0	LOCATION
+1.0	Laura Bush	be first lady of	US	PERSON	LOCATION
+1.0	White House	say at_time	Thursday	ORGANIZATION	DATE
+1.0	children	have	exploitation	O	O
+1.0	organization	have	Paris headquarters	O	O

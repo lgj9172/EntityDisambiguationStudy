@@ -1,0 +1,111 @@
+1.0	President George W. Bush	order deployment as	part of major shift in war strategy	PERSON	DURATION
+1.0	Gates	speak of	two-pronged military expansion	0	0
+1.0	US Defense Secretary Robert Gates	expand	US armed force	0	LOCATION
+1.0	our	have	men	O	O
+1.0	time	have	length	O	O
+1.0	he	speak at_time	day	0	DURATION
+1.0	we	make	increase	0	0
+1.0	we	see in	term of length of time	0	0
+1.0	President George W. Bush	order	deployment of additional 21,500 troops	PERSON	NUMBER
+1.0	president	at	new plan	0	0
+1.0	US Defense Secretary Robert Gates	expand us force by	92,000	0	NUMBER
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	his	have	decision	O	O
+1.0	Bush	from	Republicans	PERSON	MISC
+0.785257561837404	President George W. Bush	deployment of	21,500 troops	PERSON	NUMBER
+0.785257561837404	President George W. Bush	deployment of	additional 21,500 troops	PERSON	NUMBER
+1.0	president	have	plan	O	O
+1.0	it	may take	time	0	0
+1.0	Rice	be	Gates	PERSON	PERSON
+1.0	President George W. Bush	order deployment as	part	PERSON	DURATION
+1.0	we	see in	term of length	0	0
+1.0	United States	have	1.4 million active duty troops	LOCATION	NUMBER
+1.0	Rice	appear at	Congress Thursday	PERSON	DATE
+1.0	US Defense Secretary Robert Gates	tell news conference with	Secretary	PERSON	0
+1.0	it	may take	time for troops	0	0
+1.0	US Defense Secretary Robert Gates	expand	overall US force	0	LOCATION
+0.8537784902521076	it	time for	new troops	0	0
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	shift	have	part	O	O
+1.0	US Defense Secretary Robert Gates	expand	overall US armed force	0	LOCATION
+1.0	we	make	permanent temporary increase	0	0
+1.0	United States	have	1.4 million duty troops	LOCATION	NUMBER
+1.0	we	will have	see in term of length of time	0	0
+1.0	it	become for	deployment	0	0
+1.0	President George W. Bush	order deployment as	part of major shift	PERSON	DURATION
+1.0	Bush	say in	speech from White House	PERSON	ORGANIZATION
+1.0	major shift	be in	war strategy	DURATION	DURATION
+1.0	we	make	permanent temporary increase of 30,000	0	NUMBER
+0.8537784902521076	it	time for	troops	0	0
+1.0	US Defense Secretary Robert Gates	expand	US force	0	LOCATION
+1.0	we	make	increase of 30,000	0	NUMBER
+1.0	Gates	speak of	two-pronged expansion	0	0
+1.0	Bush	on	new war plan	PERSON	0
+1.0	Bush	say at_time	Wednesday	PERSON	DATE
+1.0	it	may take	time for new troops	0	0
+1.0	we	will have	see in term of length	0	0
+1.0	marines	have	services	O	O
+1.0	Bush	say in	major televised speech	PERSON	0
+1.0	Rice	be	appear at Congress Thursday	PERSON	DATE
+1.0	United States	have	currently 1.4 million duty troops	LOCATION	NUMBER
+1.0	US Defense Secretary Robert Gates	tell	news conference	PERSON	0
+1.0	we	make increase for	marine corps	0	0
+1.0	base	be in	annual increment of 7,000 troops	DURATION	SET
+1.0	Joint Chiefs	have	chairman	O	ORGANIZATION
+1.0	President George W. Bush	order deployment as	part of shift in war strategy	PERSON	DURATION
+1.0	Rice	be	appear	PERSON	0
+1.0	US Defense Secretary Robert Gates	tell news conference with	Secretary of State Condoleezza Rice	PERSON	PERSON
+1.0	we	make	temporary increase	0	0
+1.0	Bush	have	Republicans	MISC	PERSON
+1.0	length	have	terms	O	O
+1.0	add troops	be in	Iraq	0	LOCATION
+1.0	country	have	control	O	O
+1.0	US Defense Secretary Robert Gates	announce	say	PERSON	0
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION
+1.0	President George W. Bush	order deployment as	part of shift	PERSON	DURATION
+1.0	manpower	be on	way	0	0
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	we	make increase for	army	0	0
+1.0	Bush	say in	televised speech	PERSON	0
+1.0	Republicans	be in	election November 7	MISC	DATE
+1.0	Gates	speak of	expansion	0	0
+0.9088636417688121	marine corps	would	would increase	0	0
+1.0	Peter Pace	be of	the Joint Chiefs	PERSON	ORGANIZATION
+1.0	expansion	have	spoke	O	O
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Bush	say in	major televised speech from White House	PERSON	ORGANIZATION
+1.0	US Defense Secretary Robert Gates	announce at_time	the Congress Thursday	PERSON	DATE
+1.0	President George W. Bush	order deployment to	Iraq	PERSON	LOCATION
+1.0	Bush	say in	speech	PERSON	0
+1.0	President George W. Bush	order	deployment	PERSON	0
+1.0	it	become	available	0	0
+1.0	we	see in	term	0	0
+1.0	Bush	say in	televised speech from White House	PERSON	ORGANIZATION
+1.0	we	make	permanent increase	0	0
+1.0	Bush	say in	major speech	PERSON	0
+0.9088636417688121	corps	would	would increase to 547,000	0	NUMBER
+1.0	Bush	say in	major speech from White House	PERSON	ORGANIZATION
+1.0	30,000	have	increase	O	NUMBER
+1.0	United States	have	currently 1.4 million active duty troops	LOCATION	NUMBER
+1.0	Staff Peter Pace	have	chairman	O	PERSON
+0.9088636417688121	marine corps	would	would increase to 547,000	0	NUMBER
+1.0	we	will have	see in term	0	0
+1.0	we	make	temporary increase of 30,000	0	NUMBER
+1.0	Gates	speak of	military expansion	0	0
+1.0	soldiers	have	services	O	O
+1.0	reserve	have	members	O	O
+1.0	troops	have	increments	O	O
+1.0	we	make increase for	corps	0	0
+0.9088636417688121	corps	would	would increase	0	0
+1.0	Rice	appear	Gates	PERSON	PERSON
+1.0	we	will have	see	0	0
+1.0	Bush	have	war plans	O	PERSON
+1.0	additional manpower	be on	way	0	0
+1.0	total increase	be in	two service of 92,000 soldier over next five year	0	DURATION
+1.0	Iraq	have	security force	LOCATION	0
+1.0	we	make	permanent increase of 30,000	0	NUMBER
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	President George W. Bush	order	deployment of 21,500 troops	PERSON	NUMBER
+1.0	guard	have	members	O	O
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	troops	have	deployment	O	O

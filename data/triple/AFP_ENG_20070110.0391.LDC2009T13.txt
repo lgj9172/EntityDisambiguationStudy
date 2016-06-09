@@ -1,0 +1,64 @@
+1.0	Hugo Chavez	have	allies	O	O
+1.0	its	have	oil	O	O
+1.0	his	have	friend	O	O
+1.0	Hugo Chavez	earlier be swear in	in term	PERSON	0
+1.0	Cuba	have	ally	O	LOCATION
+1.0	Hugo Chavez	be swear in	in term promise	PERSON	0
+1.0	Hugo Chavez	earlier be swear in	in new six-year term	PERSON	DURATION
+1.0	Hugo Chavez	paraphrase hero at	he swearing-in	PERSON	0
+0.7394399654191781	law	be	change	0	0
+1.0	Venezuela	have	constitution	O	LOCATION
+0.832203580769143	Hugo Chavez	ally of	Cuba	PERSON	LOCATION
+1.0	terms	have	number	O	O
+1.0	crude	have	refineries	O	O
+1.0	Hugo Chavez	have	swearing-in	O	O
+1.0	Hugo Chavez	be swear in	in term	PERSON	0
+1.0	laws	have	mother	O	O
+1.0	Hugo Chavez	paraphrase	argentine-born revolutionary hero	PERSON	0
+1.0	Karl Marx	have	writings	O	PERSON
+1.0	Hugo Chavez	be swear in	in six-year term	PERSON	DURATION
+1.0	Fidel Castro	be	80	PERSON	NUMBER
+1.0	Hugo Chavez	paraphrase	argentine-born cuban hero	PERSON	0
+1.0	Cuba	have	regime afloat	LOCATION	0
+1.0	Hugo Chavez	announce on	Monday	PERSON	DATE
+1.0	Hugo Chavez	earlier be swear in	in six-year term promise	PERSON	DURATION
+1.0	Hugo Chavez	be swear in	in new six-year term promise	PERSON	DURATION
+1.0	Hugo Chavez	reelect at_time	December 2	0	DATE
+1.0	Hugo Chavez	ask	legislature	0	0
+1.0	Hugo Chavez	be swear in	in new term	PERSON	0
+1.0	Hugo Chavez	be swear in	in six-year term promise	PERSON	DURATION
+1.0	refineries	have	control	O	O
+0.832203580769143	Hugo Chavez	ally of	communist Cuba	PERSON	LOCATION
+1.0	Hugo Chavez	paraphrase	cuban hero	PERSON	0
+1.0	Hugo Chavez	be	earlier swear	PERSON	0
+1.0	Hugo Chavez	paraphrase	argentine-born hero	PERSON	0
+1.0	Hugo Chavez	have	constitution rewrite	0	0
+1.0	Hugo Chavez	paraphrase	revolutionary hero	PERSON	0
+1.0	people	make	decision	0	0
+1.0	Hugo Chavez	ally of	Cuba	PERSON	LOCATION
+1.0	Hugo Chavez	earlier be swear in	in new term promise	PERSON	0
+1.0	Venezuela	have	constitution let	LOCATION	0
+1.0	Hugo Chavez	earlier be swear in	in new term	PERSON	0
+1.0	Cuba	have	regime	O	LOCATION
+1.0	Hugo Chavez	earlier be swear in	in term promise	PERSON	0
+1.0	Hugo Chavez	paraphrase	argentine-born cuban revolutionary hero	PERSON	0
+1.0	Hugo Chavez	have	system	O	O
+1.0	Hugo Chavez	be swear in	in new six-year term	PERSON	DURATION
+1.0	Bible	have	writings	O	O
+1.0	Hugo Chavez	paraphrase	cuban revolutionary hero	PERSON	0
+1.0	United States	have	critic	O	LOCATION
+1.0	Hugo Chavez	have	constitution	0	0
+0.832203580769143	Hugo Chavez	close ally of	communist Cuba	PERSON	LOCATION
+1.0	people	have	majority	O	O
+1.0	country	have	bank	O	O
+0.832203580769143	Hugo Chavez	close ally of	Cuba	PERSON	LOCATION
+1.0	Hugo Chavez	paraphrase	hero	PERSON	0
+1.0	Hugo Chavez	earlier have	constitution rewrite	0	0
+1.0	Hugo Chavez	be	swear	PERSON	0
+1.0	Hugo Chavez	earlier have	constitution	0	0
+1.0	Hugo Chavez	earlier be swear in	in six-year term	PERSON	DURATION
+1.0	Hugo Chavez	be in	power since 1999	PERSON	DATE
+1.0	he ally	control	legislature	0	0
+1.0	Vladimir Ilich Lenin	have	writings	O	PERSON
+1.0	Venezuela	have	constitution	LOCATION	0
+1.0	Hugo Chavez	be swear in	in new term promise	PERSON	0

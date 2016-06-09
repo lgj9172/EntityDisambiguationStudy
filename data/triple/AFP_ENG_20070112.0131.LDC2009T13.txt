@@ -1,0 +1,88 @@
+1.0	financial service market	be become	major draw	0	0
+1.0	Alexei Frenkel	be	detain yesterday at 1:00 a.m. in night	PERSON	TIME
+1.0	Deputy Central Bank Chairman Andrei Kozlov	earn reputation as	enforcer	PERSON	0
+1.0	suspect 's lawyer	be	quote	0	0
+1.0	russian news agency	quote	lawyer for woman	0	0
+1.0	Russian President Vladimir Putin	order tightening in	Russia	LOCATION	LOCATION
+1.0	service market	be become	major draw for foreign investor	0	0
+1.0	Russia	have	Central Bank	ORGANIZATION	LOCATION
+1.0	Alexei Frenkel	be detain at	1:00 a.m.	PERSON	TIME
+1.0	news agency	quote	lawyer	0	0
+1.0	Frenkel	chair	board	PERSON	0
+1.0	Andrei Kozlov	be chairman of	Central Bank	PERSON	ORGANIZATION
+1.0	Kozlov	have	murder	O	PERSON
+1.0	financial service market	be become	major draw for investor	0	0
+1.0	his	have	driver	O	O
+1.0	Alexei Frenkel	have	relatives	O	O
+1.0	Frenkel	formerly chair	board	PERSON	0
+1.0	suspect	have	lawyer	0	0
+0.6902120225586281	money	laundering in	Russia 's	0	LOCATION
+1.0	suspect	have	lawyer	O	O
+1.0	Frenkel 35	be	well know	NUMBER	0
+1.0	financial service market	major draw for	foreign investor	0	0
+1.0	involvement	be in	killing	0	0
+1.0	Russia	of	Central Bank	LOCATION	ORGANIZATION
+1.0	Frenkel	be know in	russian banking community	PERSON	0
+1.0	Frenkel 35	be	know	NUMBER	0
+1.0	financial service market	draw for	investor	0	0
+1.0	Deputy Central Bank Chairman Andrei Kozlov	spearhead	effort	PERSON	0
+1.0	Frenkel 35	be well know in	banking community	NUMBER	0
+1.0	people	have	total	O	O
+1.0	Russian President Vladimir Putin	order	tightening	LOCATION	0
+1.0	Kozlov	have	murder	PERSON	0
+1.0	Frenkel 35	be know in	banking community	NUMBER	0
+1.0	service market	be become	draw for foreign investor	0	0
+1.0	he relative	be tell about	this	DATE	0
+1.0	suspect	's lawyer be	Igor Trunov	0	PERSON
+1.0	financial service market	be become	draw for foreign investor	0	0
+1.0	Deputy Central Bank Chairman Andrei Kozlov	counter	money	PERSON	0
+1.0	prosecutor	have	office	O	O
+1.0	Frenkel	be know in	banking community	PERSON	0
+1.0	his	have	banking career	O	O
+1.0	Frenkel	be well know in	russian banking community	PERSON	0
+1.0	Alexei Frenkel	be detain at	1:00 a.m. in night	PERSON	TIME
+1.0	laundering	be in	Russia 's	0	LOCATION
+1.0	Alexei Frenkel	be	detain	PERSON	TIME
+1.0	service market	be become	draw for investor	0	0
+1.0	Andrei Kozlov	be	Central Bank	PERSON	ORGANIZATION
+1.0	financial service market	draw for	foreign investor	0	0
+1.0	Frenkel 35	formerly chair	board	NUMBER	0
+1.0	their	have	identities	O	O
+1.0	Deputy Central Bank Chairman Andrei Kozlov	earn	reputation	PERSON	0
+1.0	deputy head	have	contract murder	O	O
+1.0	service market	be become	major draw for investor	0	0
+1.0	service market	major draw for	foreign investor	0	0
+1.0	Alexei Frenkel	be	detain yesterday at 1:00 a.m.	PERSON	TIME
+1.0	rbk	be	daily	0	SET
+1.0	institutions	have	chairman	O	O
+1.0	Vladimir Putin	be	Russian	PERSON	LOCATION
+1.0	Central Bank	have	deputy head	O	ORGANIZATION
+1.0	Alexei Frenkel	be detain at_time	yesterday	PERSON	DATE
+1.0	Frenkel	be	35	PERSON	NUMBER
+1.0	service market	draw for	foreign investor	0	0
+1.0	suspect 's lawyer	be quote by	ria-novosti	0	0
+1.0	service market	draw for	investor	0	0
+1.0	VIP-Bank	have	board	O	ORGANIZATION
+1.0	russian news agency	quote	lawyer	0	0
+1.0	service market	be become	major draw	0	0
+1.0	its	have	licence	O	O
+1.0	financial service market	major draw for	investor	0	0
+1.0	service market	be become	draw	0	0
+1.0	financial service market	be become	draw for investor	0	0
+1.0	Frenkel	be	well know	PERSON	0
+1.0	service market	major draw for	investor	0	0
+1.0	he relative	be	tell	DATE	0
+1.0	banking controls	have	tightening	O	O
+1.0	Deputy Central Bank Chairman Andrei Kozlov	earn reputation as	strict enforcer	PERSON	0
+1.0	Frenkel 35	be know in	russian banking community	NUMBER	0
+1.0	Frenkel 35	be well know in	russian banking community	NUMBER	0
+1.0	Frenkel	be well know in	banking community	PERSON	0
+1.0	Frenkel	be	know	PERSON	0
+1.0	financial service market	be become	draw	0	0
+1.0	Frenkel 35	chair	board	NUMBER	0
+1.0	involvement	have	suspicion	O	O
+1.0	VIP-Bank	have	chairman	O	O
+1.0	Russian President Vladimir Putin	order	tightening of banking control	LOCATION	0
+1.0	news agency	quote	lawyer for woman	0	0
+1.0	financial service market	be become	major draw for foreign investor	0	0
+1.0	Kozlov 's murder	prompt	Russian President Vladimir Putin	PERSON	LOCATION

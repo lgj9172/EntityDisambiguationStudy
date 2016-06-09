@@ -1,0 +1,36 @@
+1.0	global share	be on	track for solid gain	0	0
+1.0	global share	be on	track	0	0
+1.0	benchmark sp/asx 200	end	up 66.8 point	NUMBER	NUMBER
+1.0	percent	have	moves	O	PERCENT
+1.0	share	be on	track	0	0
+1.0	profit growth	be expect	slow	0	0
+1.0	Oliver	say to	year	PERSON	DATE
+1.0	the previous week	on	close of 5,572.0	DATE	NUMBER
+1.0	valuation	be	reasonable	0	0
+1.0	week	have	close	O	DATE
+1.0	share	be on	track for gain over 2007	0	DATE
+1.0	strong	propel by	continued takeover activity	0	0
+1.0	profit	have	bout	O	O
+1.0	benchmark sp/asx	end	up 66.8 point	0	NUMBER
+1.0	several daily move	be in	excess	SET	0
+1.0	profit growth	be	expect	0	0
+1.0	strong	propel by	takeover activity	0	0
+1.0	rise trend	be in	share price	0	0
+1.0	share	be on	track for solid gain over 2007	0	DATE
+1.0	global share	be on	track for gain over 2007	0	DATE
+1.0	Oliver	say despite	start	PERSON	0
+1.0	Oliver	say despite	rough start	PERSON	0
+1.0	zinc	have	price	O	O
+1.0	fluctuation	be in	base metal price	0	0
+1.0	James Foulsham	be	CMC	PERSON	ORGANIZATION
+1.0	5,572.0	have	close	O	NUMBER
+1.0	dealer	say at_time	Friday	0	DATE
+1.0	share	be on	track for gain	0	0
+1.0	trend	have	context	O	O
+1.0	investment strategy Shane Oliver	have	AMP Capital Investors	O	PERSON
+1.0	global share	be on	track for solid gain over 2007	0	DATE
+1.0	copper	have	price	O	O
+1.0	percent	have	correction	O	PERCENT
+1.0	share	be on	track for solid gain	0	0
+1.0	global share	be on	track for gain	0	0
+1.0	gain	be in	price of copper overnight	0	TIME

@@ -1,0 +1,27 @@
+1.0	argentine boxer 's control	come in	December	0	DATE
+1.0	Spain	from	Javier Castillejo	LOCATION	PERSON
+1.0	Sebastian Contursi	be representative of	WBA	PERSON	ORGANIZATION
+0.7488221183967785	substance	be	clenbuterol	0	0
+1.0	Sebastian Contursi	be	WBA	PERSON	ORGANIZATION
+1.0	Spain	have	Javier Castillejo	PERSON	LOCATION
+1.0	Clenbuterol	be steroid	that help	0	0
+1.0	Carrera 's agent Mario Margossian	have	fighter	O	O
+1.0	The Argentine boxer 's	win	title	0	0
+1.0	The Argentine boxer 's	win title from	Spain 's Javier Castillejo	0	LOCATION
+1.0	Clarin	be	argentine	ORGANIZATION	0
+1.0	argentine boxer 's positive control	come in	December	0	DATE
+1.0	Mariano Carrera	have	WBA title	O	O
+1.0	argentine newspaper Clarin	report on	Tuesday	ORGANIZATION	DATE
+1.0	argentine boxer	have	positive control	0	0
+1.0	muscle mass	improve	breathing	0	0
+1.0	boxer 's control	come in	December	0	DATE
+1.0	WBA title	have	stripped	O	O
+1.0	Argentina	have	WBA representative Sebastian Contursi	PERSON	LOCATION
+1.0	Carrera	have	agent Mario Margossian	PERSON	PERSON
+1.0	newspaper Clarin	report on	Tuesday	ORGANIZATION	DATE
+1.0	boxer	have	control	O	O
+1.0	Mario Margossian	be agent of	Carrera	PERSON	PERSON
+1.0	Carrera	have	Mario Margossian	PERSON	PERSON
+1.0	Argentina	have	Sebastian Contursi	LOCATION	PERSON
+1.0	boxer 's positive control	come in	December	0	DATE
+1.0	muscle mass	reduce	weight	0	0

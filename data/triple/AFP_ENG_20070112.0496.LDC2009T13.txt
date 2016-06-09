@@ -1,0 +1,29 @@
+1.0	man	neighbour	Delta state	0	ORGANIZATION
+1.0	man	be	employ	0	0
+1.0	they	be take hostage at_time	early Wednesday	0	DATE
+1.0	man	be	subcontract	0	0
+1.0	they	release	all 10 of hostage	0	NUMBER
+1.0	Niger Delta	have	Emancipation	ORGANIZATION	ORGANIZATION
+1.0	man	neighbour delta state with	airport	0	0
+1.0	groups	have	variety	O	O
+1.0	Shell	be for	anglo-dutch	ORGANIZATION	0
+1.0	W.S. Kim	be	Y.M. Park	PERSON	PERSON
+1.0	variety	have intensify	they attack	0	DATE
+1.0	groups	have	Some	O	O
+1.0	man	be in	Warri	0	LOCATION
+1.0	2006	have	start	DATE	DATE
+1.0	their	have	attacks	O	O
+1.0	ninth	have	identity	O	ORDINAL
+1.0	men	have	release	O	O
+1.0	government spokesman	tell	AFP	0	ORGANIZATION
+1.0	they	be take	hostage	0	0
+1.0	man	neighbour delta state with	function airport	0	0
+1.0	South Koreans	have	Eight	NUMBER	O
+1.0	hostages	have	10	NUMBER	O
+1.0	M.S. Lee	be	J.T. Hong	PERSON	PERSON
+1.0	they	be take hostage at_time	Wednesday	0	DATE
+1.0	man	be employ by	Daewoo	0	ORGANIZATION
+1.0	they	release	all 10 hostage	0	NUMBER
+1.0	Y.I. Yong	be	J.C. Choi	PERSON	PERSON
+1.0	Bayelsa	have	state	O	LOCATION
+1.0	Nigeria	have	Niger Delta region	O	LOCATION

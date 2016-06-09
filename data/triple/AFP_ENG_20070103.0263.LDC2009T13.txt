@@ -1,0 +1,23 @@
+1.0	Raphael Tuju	be	Foreign Affairs	PERSON	ORGANIZATION
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport to nation	PERSON	0
+1.0	country	have	border	O	O
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport back to african nation	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport back to nation	PERSON	0
+1.0	country	have	border	0	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport back to lawless african nation	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport at least 600 refugee back to nation	PERSON	NUMBER
+1.0	Raphael Tuju	be minister of	Foreign Affairs	PERSON	ORGANIZATION
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport to african nation	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference in	Nairobi	PERSON	LOCATION
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	say at_time	Wednesday	PERSON	DATE
+1.0	Foreign Affairs Minister Raphael Tuju	tell	press conference	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport at least 600 refugee back to lawless african nation	PERSON	NUMBER
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport to lawless african nation	PERSON	0
+1.0	Kenya	have	government	LOCATION	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport back	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport at least 600 refugee back to african nation	PERSON	NUMBER
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference in	hour	PERSON	0
+1.0	Foreign Affairs Minister Raphael Tuju	tell press conference after	security force deport at least 600 refugee back	PERSON	NUMBER
+1.0	Kenya	have	government	O	LOCATION

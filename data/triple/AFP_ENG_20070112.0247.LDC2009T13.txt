@@ -1,0 +1,22 @@
+1.0	Thai Airways	use superjumbo on	some of its route	ORGANIZATION	0
+1.0	Thai Airways	use	superjumbo	ORGANIZATION	0
+1.0	Airbus planes	have	orders	O	O
+1.0	Thai Airways	use superjumbo on	some of its popular route	ORGANIZATION	0
+1.0	discounts	have	form	O	O
+1.0	the 300-seat mid-sized jets that suit Thai Airways ' expansion plans in the medium term	have	purchase	O	O
+1.0	Thai Airways	use superjumbo on	some of its most popular route	ORGANIZATION	0
+1.0	Airbus	be with	european	ORGANIZATION	0
+1.0	delivery	have	have postpone	0	0
+1.0	cancelling	have	possibility	O	O
+1.0	delivery	have	have postpone by two year	0	DURATION
+1.0	Thai Airways	have	routes	O	O
+1.0	Thai Airways	use superjumbo on	some its most popular route	ORGANIZATION	0
+1.0	Apinan Sumanaseni	be	Thai Airways	PERSON	ORGANIZATION
+1.0	Thai Airways	use superjumbo on	some	ORGANIZATION	0
+1.0	Thai Airways	have	expansion plans	O	ORGANIZATION
+1.0	Thai Airways	have order	six a380	ORGANIZATION	NUMBER
+1.0	A380 superjumbos	have	delivery delays	O	O
+1.0	routes	have	some	O	O
+1.0	Apinan Sumanaseni	be president of	Thai Airways	PERSON	ORGANIZATION
+1.0	Thai Airways	use superjumbo on	some its popular route	ORGANIZATION	0
+1.0	Thai Airways	use superjumbo on	some its route	ORGANIZATION	0

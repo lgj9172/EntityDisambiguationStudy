@@ -1,0 +1,97 @@
+1.0	area	be in	Africa	0	LOCATION
+1.0	Al	have	group	O	ORGANIZATION
+1.0	he	say	refer	0	0
+1.0	US	have	presence	O	O
+1.0	Osama bin Laden	be leader of	Al-Qaeda	PERSON	ORGANIZATION
+1.0	he	refer to	report of major casualty	0	0
+1.0	ground	be in	Somalia	0	MISC
+1.0	asset	be in	area	0	0
+1.0	Clan elder	claim	resident	0	0
+1.0	he	speak because of	nature	0	0
+1.0	bodies	have	some	O	O
+1.0	forces	have	custody	O	O
+1.0	he	say	refer to report	0	0
+1.0	US embassies	have	bombings	O	O
+1.0	assets	have	variety	O	O
+1.0	prisoners	have	claim	O	O
+0.9597816064899573	somali government	lead	islamist fighter	0	0
+1.0	group	have	One	NUMBER	O
+1.0	Clan elder	claim	resident in bomb region	0	0
+1.0	nature	have	spoke	O	O
+1.0	he	say	refer to report in area	0	0
+1.0	international water	be in	Indian Ocean	0	LOCATION
+1.0	official	say in	capital Nairobi	0	LOCATION
+1.0	civilian	be kill in	numerous airstrike	0	0
+1.0	Fazul Abdullah Mohammed	deny	report	0	0
+1.0	matter	have	nature	O	O
+1.0	four US naval ship	be in	international water	LOCATION	0
+1.0	100 civilian	be	kill	NUMBER	0
+0.9597816064899573	somali government	lead fighter in	battle	0	0
+1.0	civilian	be kill in	numerous airstrike on Monday	0	DATE
+1.0	civilian	be kill in	airstrike	0	0
+1.0	senior US official	say at_time	Thursday	LOCATION	DATE
+1.0	Al-Qaeda-connected	have	group	O	O
+1.0	he	speak on	condition of anonymity	0	0
+1.0	he	say	refer to report of casualty	0	0
+1.0	Somalia	have	transitional government defeat	LOCATION	0
+0.9597816064899573	government	lead fighter in	recent battle	0	0
+1.0	he	say	refer in area	0	0
+1.0	Al-Qaeda	have	US pursuit	O	ORGANIZATION
+0.9597816064899573	government	lead	islamist fighter	0	0
+1.0	100 civilian	be kill in	numerous airstrike on Monday	NUMBER	DATE
+1.0	Africa nation	have	Horn	LOCATION	O
+1.0	Osama bin Laden	be close to	Al-Qaeda	PERSON	ORGANIZATION
+1.0	he	say	refer to report of major casualty	0	0
+1.0	anonymity	have	condition	O	O
+1.0	Clan elder	claim close to	border	0	0
+1.0	misinformation	have	amount	O	O
+1.0	official	say in	Nairobi	0	LOCATION
+1.0	civilian	be	kill	0	0
+1.0	other	be	Abu Taha al-Sudani	0	PERSON
+1.0	Clan elder	claim close to	kenyan border	0	0
+1.0	coast	have	US ships	O	O
+1.0	US official	discuss	Meles ' claim	LOCATION	PERSON
+1.0	it	be	target	0	0
+1.0	he	speak on	condition	0	0
+1.0	casualties	have	reports	O	O
+0.9597816064899573	government	lead	fighter	0	0
+1.0	official	say in	kenyan capital Nairobi	0	LOCATION
+1.0	100 civilian	be kill in	numerous airstrike	NUMBER	0
+1.0	mis	have	discuss	O	O
+1.0	he	refer to	report of casualty	0	0
+1.0	Meles	say at_time	Wednesday	PERSON	DATE
+1.0	ac-130 gunship	aircraft with	rapid firing gun	0	0
+0.9597816064899573	somali government	lead	fighter	0	0
+1.0	other 20 member	be in	target group	NUMBER	0
+1.0	Meles	have	claim	O	PERSON
+1.0	100 civilian	be kill in	airstrike on Monday	NUMBER	DATE
+0.9597816064899573	government	lead fighter in	battle	0	0
+1.0	I	be	aware	0	0
+1.0	Fazul Abdullah Mohammed	be	Comoran	PERSON	MISC
+1.0	I	be	aware of	0	0
+1.0	resident	be in	bomb region	0	0
+1.0	Fazul Abdullah Mohammed	decline	discuss	0	0
+1.0	raid	have	targets	O	O
+1.0	I	would	would aware	0	0
+1.0	Nairobi	be in	kenyan	LOCATION	0
+1.0	people	have	number	O	O
+1.0	Somalia	have	government defeat	O	LOCATION
+1.0	US official	say at_time	Thursday	LOCATION	DATE
+1.0	concern	have	is	O	O
+1.0	he	say	refer to report of major casualty in area	0	0
+1.0	fixed-wing aircraft	be with	rapid firing gun	0	0
+1.0	US airstrike	be in	Somalia	LOCATION	LOCATION
+1.0	he	say	refer to report of casualty in area	0	0
+1.0	militants	have	none	O	O
+1.0	official	say on	condition	0	0
+1.0	those	have	any	O	O
+1.0	100 civilian	be kill in	airstrike	NUMBER	0
+1.0	members	have	seven	NUMBER	O
+1.0	US official	discuss	Meles ' claim of prisoner	LOCATION	PERSON
+1.0	Monday	have	US raid	O	DATE
+0.9597816064899573	somali government	lead fighter in	recent battle	0	0
+1.0	civilian	be kill in	airstrike on Monday	0	DATE
+0.7344424215855164	say	eight to	ten	0	NUMBER
+1.0	he	refer to	report	0	0
+1.0	Clan elder	claim	resident in region	0	0
+1.0	he	refer in	area	0	0

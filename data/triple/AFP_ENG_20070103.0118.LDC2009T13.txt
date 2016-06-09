@@ -1,0 +1,54 @@
+1.0	AirAsia	remain on	its route	ORGANIZATION	0
+1.0	share	be in	AirAsia	0	ORGANIZATION
+1.0	Richard Branson	with	Virgin Group	PERSON	ORGANIZATION
+1.0	AirAsia	have	chief executive officer	ORGANIZATION	0
+1.0	AirAsia 's chief executive officer Tony Fernandes has previously	say at_time	month	0	DATE
+1.0	it	announce launch in	alliance	0	0
+1.0	it	announce	launch	0	0
+1.0	allaince	produce	innovative new model	0	0
+1.0	AirAsia 's chief executive officer Tony Fernandes has previously	say at_time	late month	0	DATE
+1.0	Hangzhou	be near	Shanghai	LOCATION	LOCATION
+1.0	it	announce	launch of long-haul route	0	0
+1.0	AirAsia	remain on	its short-haul route	ORGANIZATION	0
+1.0	it	announce	launch of route	0	0
+1.0	aviation travel	have	face	O	O
+1.0	allaince	produce	new model	0	0
+1.0	it	announce launch in	alliance with carrier	0	0
+1.0	world	have	first low-cost global network	0	ORDINAL
+1.0	allaince	be with	virgin Atlantic	0	PERSON
+1.0	Malaysia	along with	transport	LOCATION	0
+0.7138023280436708	new model	allaince with	virgin Atlantic	0	PERSON
+1.0	long	be	viable	0	0
+0.7138023280436708	new model	allaince with	Atlantic	0	PERSON
+1.0	it	add	note	0	0
+0.7138023280436708	innovative model	allaince with	Atlantic	0	PERSON
+1.0	AirAsia	have	executive officer	O	ORGANIZATION
+1.0	allaince	produce	model	0	0
+1.0	Star	would fly between	Kuala Lumpur	0	LOCATION
+1.0	Star	would fly in	Britain	0	LOCATION
+1.0	airline	have	stock	0	0
+1.0	time	have	matter	O	O
+1.0	it	be	poise	0	0
+1.0	we	prefer	AirAsia	0	ORGANIZATION
+1.0	airline	have	stock	O	O
+0.245106737592649	share	surge at_time	Wednesday	0	DATE
+0.7138023280436708	model	allaince with	virgin Atlantic	0	PERSON
+1.0	allaince	produce	innovative model	0	0
+1.0	routes	have	launch	O	O
+1.0	Star	would first fly between	Kuala Lumpur	0	LOCATION
+1.0	world	have	network	O	O
+1.0	AirAsia	remain	focused	ORGANIZATION	0
+1.0	it	announce launch in	alliance with low-cost carrier	0	0
+1.0	its	have	routes	O	O
+0.7138023280436708	innovative new model	allaince with	Atlantic	0	PERSON
+1.0	it	announce launch in	alliance with european low-cost carrier	0	0
+1.0	low-cost long	be	viable	0	0
+0.7138023280436708	innovative model	allaince with	virgin Atlantic	0	PERSON
+1.0	it	add	note however	0	0
+1.0	it	announce launch in	alliance with european carrier	0	0
+1.0	Richard Branson	have	Virgin Group	ORGANIZATION	PERSON
+1.0	alliance	be with	european low-cost carrier	0	0
+1.0	Malaysia	have	transport	O	LOCATION
+0.7138023280436708	innovative new model	allaince with	virgin Atlantic	0	PERSON
+0.7138023280436708	model	allaince with	Atlantic	0	PERSON
+1.0	Star	would first fly in	Britain	0	LOCATION

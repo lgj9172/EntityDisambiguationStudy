@@ -1,0 +1,133 @@
+1.0	Dhaka University	have	science	O	ORGANIZATION
+1.0	politics	be	widely regard	0	0
+1.0	politics	be	regard as passport to wealth	0	0
+1.0	opposition Awami League	have	Sheikh Hasina Wajed	PERSON	ORGANIZATION
+0.551985459734209	country	know as	East Pakistan	0	LOCATION
+1.0	takeover	have	state	O	O
+1.0	benefit	be	report	0	0
+1.0	law	have	professor	O	O
+1.0	politics	be	regard	0	0
+1.0	caretaker administration	ask	government	DURATION	0
+1.0	it	be	very clear	0	0
+1.0	politics	be in	Bangladesh 's	0	LOCATION
+1.0	necessary reform	be in	electoral process	0	0
+1.0	government	pave	way	0	0
+1.0	political impasse	have raise	fear of possible state of emergency	0	0
+1.0	it	be	clear	0	0
+0.5981281873583981	government	necessary reform in	process	0	0
+1.0	outgoing	have	Sheikh Hasina Wajed	PERSON	O
+1.0	national strike	negotiate tactic in	opposition	0	0
+0.5500184464299065	rank	one of	world 's most corrupt nation	0	0
+1.0	unrest	have leave	impoverished nation	0	0
+1.0	Khaleda Zia	have	Sheikh Hasina Wajed	PERSON	PERSON
+1.0	government	prepare	fresh voter list	0	0
+1.0	thing	get	even tougher	0	0
+1.0	country	be stagnant in	everything at moment	0	0
+1.0	Awami League	say after	month of strike	ORGANIZATION	0
+1.0	interim government	pave	way	0	0
+1.0	protests	have	days	DURATION	O
+1.0	columnist	be with	lead Daily Star newspaper	0	ORGANIZATION
+1.0	thing	be go	get	0	0
+1.0	political impasse	have raise	fear	0	0
+1.0	unrest	have leave	nation	0	0
+1.0	politics	be regard as	passport	0	0
+1.0	Ataur Rahman	professor of	political science	PERSON	0
+1.0	win independence	be in	1971	0	DATE
+1.0	impasse	have raise	fear	0	0
+1.0	Awami League	demand	revision	ORGANIZATION	0
+1.0	government	pave	way for election	0	0
+1.0	election	be hold on	schedule	0	0
+1.0	restore	stage a	strike	0	0
+1.0	world	of	most corrupt nation	0	0
+1.0	interim government	pave	way for general election	0	0
+1.0	chaos	have	months	DURATION	O
+1.0	option	declare	emergency	0	0
+1.0	strike	negotiate tactic in	opposition	0	0
+1.0	scenarios	have	variety	O	O
+1.0	country	have	history of coup	0	0
+1.0	national strike	negotiate	tactic	0	0
+1.0	restore	stage	national strike	0	0
+1.0	state	have	fears	O	O
+0.5176584389140558	political impasse	fear	street violence	0	0
+1.0	politics	be	widely regard as passport to wealth	0	0
+1.0	election	go ahead without	opposition	0	0
+1.0	year	have	time	O	DURATION
+1.0	new government	prepare	fresh voter list	0	0
+0.5176584389140558	impasse	fear of	possible state	0	0
+1.0	protester	hurl	bomb	0	0
+1.0	antagonism	have	history	O	O
+1.0	nations	have	one	NUMBER	O
+1.0	government	pave	way for general election	0	0
+1.0	country	have	history counter	0	0
+1.0	latest unrest	have leave	impoverished nation	0	0
+0.5981281873583981	interim government	necessary reform in	process	0	0
+1.0	vote	be in	year 's time	0	DURATION
+1.0	restore	stage a	national strike	0	0
+1.0	Golam Hossain	professor at	Jahangir Nagar Univerisity	PERSON	ORGANIZATION
+0.5500184464299065	rank	one of	world 's corrupt nation	0	0
+1.0	government	have	professor	O	O
+1.0	impasse	have raise	fear of possible state	0	0
+1.0	party	have	levels	O	O
+1.0	thing	get	tougher	0	0
+1.0	protests	have	months	DURATION	O
+0.5981281873583981	government	reform in	process	0	0
+1.0	development contracts	have	benefits	O	O
+0.012206467877736937	opposition claim	be	bias	0	0
+1.0	searing divide	be	new	0	0
+0.5176584389140558	political impasse	fear of	possible state of emergency	0	0
+1.0	Dhaka	run	clash	LOCATION	0
+1.0	country	have	history	0	0
+0.551985459734209	country	formally know as	East Pakistan	0	LOCATION
+1.0	restore	have boycott	parliament	0	0
+1.0	poll	have seek to	rig	0	0
+1.0	restore	stage	strike	0	0
+1.0	a year	in	time	DURATION	0
+0.5176584389140558	political impasse	fear of	possible state	0	0
+0.5500184464299065	rank	one	world 's most corrupt nation	0	0
+0.5176584389140558	impasse	fear	street violence	0	0
+1.0	country	be stagnant in	everything	0	0
+1.0	world	have	nations	O	O
+1.0	science	have	professor	O	O
+1.0	way	have	particular	O	O
+1.0	politics	be regard to	wealth	0	0
+1.0	election	be	hold	0	0
+1.0	politics	have	professor	O	O
+1.0	divide	be	new	0	0
+1.0	Dhaka	have	Jahangir Nagar Univerisity	ORGANIZATION	LOCATION
+1.0	Awami League	say after	month	ORGANIZATION	0
+1.0	politics	be widely regard to	wealth	0	0
+1.0	country	be	stagnant	0	0
+1.0	caretaker administration	ask	new government	DURATION	0
+1.0	strikes	have	months	DURATION	O
+1.0	election	go without	opposition	0	0
+1.0	politics	be widely regard as	passport	0	0
+0.5981281873583981	interim government	necessary reform in	electoral process	0	0
+1.0	Zafar Sobhan	columnist with	lead Daily Star newspaper	PERSON	ORGANIZATION
+1.0	administration	have	head	O	O
+0.5500184464299065	rank	one	world 's corrupt nation	0	0
+0.5981281873583981	government	necessary reform in	electoral process	0	0
+0.5176584389140558	impasse	fear of	possible state of emergency	0	0
+1.0	parties	have	leaders	O	O
+1.0	Golam Hossain	professor of	government	PERSON	0
+0.5981281873583981	interim government	reform in	process	0	0
+1.0	restore	have regularly boycott	parliament	0	0
+1.0	emergency	have	state	O	O
+1.0	144 million	have	country	O	NUMBER
+1.0	coups	have	history	O	O
+1.0	new government	prepare	voter list	0	0
+1.0	Dhaka	at	Jahangir Nagar Univerisity	LOCATION	ORGANIZATION
+0.5981281873583981	government	reform in	electoral process	0	0
+1.0	political impasse	have raise	fear of possible state	0	0
+0.5981281873583981	interim government	reform in	electoral process	0	0
+1.0	only option	declare	emergency	0	0
+1.0	deals	have	benefits	O	O
+1.0	government	prepare	voter list	0	0
+1.0	Bangladesh	have	parties	O	LOCATION
+1.0	country	have	history of coup counter	0	0
+1.0	democracy	have	January election	O	O
+1.0	Bangladesh	between	main party	LOCATION	0
+1.0	latest unrest	have leave	nation	0	0
+1.0	democracy	be	restore	0	0
+1.0	strike	negotiate	tactic	0	0
+1.0	interim government	pave	way for election	0	0
+1.0	impasse	have raise	fear of possible state of emergency	0	0

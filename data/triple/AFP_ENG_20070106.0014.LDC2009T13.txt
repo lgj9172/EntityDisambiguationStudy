@@ -1,0 +1,60 @@
+1.0	police	say	suspect militant of outlaw United Liberation front	0	ORGANIZATION
+1.0	authority	sound	high security alert follow attack	0	0
+1.0	100 hindi-speaking people	be in	series of well-planned attack	NUMBER	0
+1.0	authority	sound	high security alert follow attack in six location Friday	0	DATE
+1.0	string	have leave	19 people dead	0	NUMBER
+1.0	police	say	militant of outlaw United Liberation front	0	ORGANIZATION
+1.0	separatist attacks	have	string	O	O
+1.0	outfit	kill	at least 100 hindi-speaking people in series of well-planned attack	0	NUMBER
+1.0	outfit	kill	at least 100 hindi-speaking people	0	NUMBER
+1.0	string	have leave	dead	0	0
+1.0	police	say	militant of United Liberation front	0	ORGANIZATION
+1.0	Asom	have	United Liberation Front	ORGANIZATION	ORGANIZATION
+1.0	police	say	suspect militant of United Liberation front	0	ORGANIZATION
+1.0	authority	sound	security alert follow attack in six location late Friday	0	DATE
+1.0	police	say	suspect militant of United Liberation front of Asom	0	ORGANIZATION
+1.0	heavily-armed rebel	trigger explosion in	language speaker	0	0
+1.0	police	say	militant of outlaw United Liberation front of Asom	0	ORGANIZATION
+1.0	northeastern India	have	belt	O	LOCATION
+1.0	separatist attack	be in	India	0	LOCATION
+1.0	police	say	militant	0	0
+1.0	attacks	have	series	O	O
+1.0	outfit	kill	at least 100 people in series of well-planned attack	0	NUMBER
+1.0	rebel	trigger explosion in	language speaker	0	0
+1.0	outfit	kill	at least 100 hindi-speaking people in series	0	NUMBER
+1.0	outfit	kill	at least 100 hindi-speaking people in series of attack	0	NUMBER
+1.0	at least 100 Hindi-speaking people in a series of well-planned attacks	have	jobs	O	O
+1.0	outfit	kill	at least 100 people in series of attack	0	NUMBER
+1.0	outfit	kill	at least 100 people	0	NUMBER
+1.0	authority	be in	northeastern assam state	0	0
+1.0	authority	sound	high security alert follow attack in six location late Friday	0	DATE
+1.0	heavily-armed rebel	trigger	explosion near tea garden	0	0
+1.0	authority	sound	security alert follow attack	0	0
+1.0	authority	sound	security alert follow attack Friday	0	DATE
+1.0	police	say	suspect militant of outlaw United Liberation front of Asom	0	ORGANIZATION
+1.0	heavily-armed rebel	fire at	shop	0	0
+1.0	authority	sound	high security alert follow attack Friday	0	DATE
+1.0	authority	sound	security alert follow attack in six location	0	NUMBER
+1.0	outfit	kill	at least 100 people in series	0	NUMBER
+1.0	authority	sound	security alert	0	0
+1.0	authority	sound	high security alert follow attack in six location	0	NUMBER
+1.0	rebel	fire at	shop	0	0
+1.0	Assam chief minister Tarun Gogoi	tell	AFP	PERSON	ORGANIZATION
+1.0	Tinsukia	have	districts	O	LOCATION
+1.0	rebel	trigger	explosion	0	0
+1.0	authority	sound security alert at_time	Saturday	0	DATE
+1.0	authority	sound	security alert follow attack late Friday	0	DATE
+1.0	rebel	trigger	explosion near tea garden	0	0
+1.0	Tarun Gogoi	be chief minister of	Assam	PERSON	LOCATION
+1.0	United Liberation Front	have	militants	O	ORGANIZATION
+1.0	Tarun Gogoi	be	Assam	PERSON	LOCATION
+1.0	heavily-armed rebel	trigger	explosion	0	0
+1.0	police	say	militant of United Liberation front of Asom	0	ORGANIZATION
+1.0	Dibrugarh	have	districts	O	LOCATION
+1.0	authority	sound	high security alert	0	0
+1.0	authority	sound	security alert follow attack in six location Friday	0	DATE
+1.0	six separate location	be in	eastern district of Dibrugarh	NUMBER	ORGANIZATION
+1.0	workers	have	state	O	O
+1.0	police	say	suspect militant	0	0
+1.0	authority	sound	high security alert follow attack late Friday	0	DATE
+1.0	people	have	ouster	O	O

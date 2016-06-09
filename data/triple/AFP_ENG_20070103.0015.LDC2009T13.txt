@@ -1,0 +1,113 @@
+1.0	rainfall	be	very low	0	0
+1.0	rainfall	be	in which very low	0	0
+1.0	period	occur at	moment	0	0
+1.0	army	be	when defeat by Arabs	0	MISC
+1.0	new study	appear in	Nature	0	0
+1.0	two period	occur at	moment	NUMBER	0
+1.0	first period	occur at	key moment	ORDINAL	0
+1.0	art	have	flowering	O	O
+1.0	first two period	occur during	last Ice Age	ORDINAL	MISC
+1.0	winter cycle	be in	east asian monsoon system	DATE	0
+1.0	both	suggest	shift towards climate	0	0
+1.0	The Tang dynasty	have	knees	O	O
+1.0	imperial army	be defeat by	Arabs	0	MISC
+1.0	Tang dynasty	be bring by	shift	0	0
+1.0	scientist	look opposite	tropical island of Hainan	0	LOCATION
+1.0	titanium	have	content	O	O
+1.0	study	appear in	Nature	0	0
+1.0	new study	appear in	weekly british science journal	0	SET
+1.0	two period	occur at	key moment	NUMBER	0
+1.0	scientist	look at	core take from lake at Zhanjiang	0	LOCATION
+1.0	Tang dynasty	be bring by	shift in monsoon cycle	0	0
+1.0	scientist	look opposite	tropical island	0	0
+1.0	monsoon	have	Each	O	O
+1.0	Tang dynasty	be bring to	its knee	0	0
+0.8246114161877479	scientist	lead by	Gerald Haug of Geoforschungszentrum in Potsdam eastern Germany	0	LOCATION
+1.0	literature	have	flowering	O	O
+1.0	new study	appear in	science journal	0	0
+1.0	civilisation	have	period	O	O
+1.0	scientist	look at	sedimentary core take from lake	0	0
+1.0	winter monsoon	be	strong	DATE	0
+1.0	army	be	when defeat	0	0
+1.0	both	suggest	general shift towards climate at around 750	0	NUMBER
+1.0	shift	be in	monsoon cycle	0	0
+1.0	study	appear in	british science journal	0	0
+1.0	titanium	be in	deposit	0	0
+1.0	both	suggest	general shift towards drier climate at around 750	0	NUMBER
+1.0	rainfall	be	low	0	0
+1.0	scientist	look opposite	island	0	0
+1.0	Tang dynasty	be	bring to its knee by shift in monsoon cycle	0	0
+1.0	first two period	occur at	moment	ORDINAL	0
+1.0	China	have	history	O	LOCATION
+1.0	period	occur during	Ice Age	0	MISC
+1.0	both	suggest	shift towards drier climate	0	0
+1.0	new study	appear in	british science journal	0	0
+1.0	a flowering of art and literature	be	overwhelm	0	0
+1.0	Tang dynasty	be	bring to its knee by shift	0	0
+1.0	both	suggest	shift towards climate at around 750	0	NUMBER
+1.0	scientist	look at	sedimentary core take	0	0
+1.0	both	suggest	general shift	0	0
+1.0	first two period	occur during	Ice Age	ORDINAL	MISC
+1.0	winter cycle	have	strength	O	O
+1.0	study	appear on	Thursday	0	DATE
+1.0	period	occur at	key moment	0	0
+1.0	Tang dynasty	be bring accord to	study	0	0
+1.0	peasants	have	uprisings	O	O
+1.0	scientist	look in	China 's	0	LOCATION
+1.0	scientist	look at	sedimentary core	0	0
+1.0	study	appear in	weekly science journal	0	SET
+1.0	winter monsoon	be	in which strong	DATE	0
+1.0	Haug	have	team	O	PERSON
+1.0	Tang dynasty	be	bring	0	0
+1.0	Geoforschungszentrum	be in	Germany	0	LOCATION
+1.0	Germany	in geoforschungszentrum be	GFZ	LOCATION	0
+1.0	new study	appear on	Thursday	0	DATE
+1.0	Tang dynasty	be bring accord to	study publish	0	0
+1.0	both	suggest	shift towards drier climate at around 750	0	NUMBER
+1.0	scientist	look at	core take from lake	0	0
+1.0	dynasty	span	nearly three century	0	DURATION
+1.0	scientist	look at	core	0	0
+1.0	scientist	look opposite	island of Hainan	0	LOCATION
+1.0	two period	occur during	last Ice Age	NUMBER	MISC
+0.8246114161877479	scientist	lead by	Gerald Haug	0	PERSON
+1.0	both	suggest	shift	0	0
+1.0	first period	occur at	moment	ORDINAL	0
+1.0	army	be	defeat	0	0
+0.8246114161877479	scientist	lead by	Gerald Haug of Geoforschungszentrum in Potsdam Germany	0	LOCATION
+1.0	first period	occur during	last Ice Age	ORDINAL	MISC
+1.0	first two period	occur at	key moment	ORDINAL	0
+1.0	twilight	begin in	751	TIME	NUMBER
+1.0	scientist	look at	sedimentary core take from lake at Zhanjiang	0	LOCATION
+1.0	island	have	looked	O	O
+1.0	Germany	be in	Potsdam	LOCATION	LOCATION
+1.0	shift	be in	tropical precipitation	0	0
+1.0	imperial army	be	when defeat	0	0
+1.0	study	appear in	weekly british science journal	0	SET
+1.0	two period	occur during	Ice Age	NUMBER	MISC
+1.0	both	suggest	general shift towards climate	0	0
+1.0	first period	occur during	Ice Age	ORDINAL	MISC
+1.0	imperial army	be	when defeat by Arabs	0	MISC
+1.0	Haug	have	team	PERSON	0
+1.0	rainfall	be	in which low	0	0
+1.0	imperial army	be	defeat	0	0
+1.0	new study	appear in	weekly science journal	0	SET
+1.0	study	appear in	science journal	0	0
+1.0	Hainan	have	island	O	LOCATION
+1.0	summer monsoon	be	weak	DATE	0
+1.0	Pacific	have	sides	O	LOCATION
+1.0	Tang dynasty	be bring accord to	study publish on Thursday	0	DATE
+1.0	a flowering of art and literature	be overwhelm by	revolt	0	0
+1.0	titanium records	have	Comparison	O	O
+1.0	Geoforschungszentrum	have	Gerald Haug	PERSON	O
+1.0	strength	have	indicator	O	O
+1.0	scientist	look at	core take	0	0
+1.0	rainband	have	migration	O	O
+1.0	China	in	history	LOCATION	0
+1.0	scientist	look in	coastal China	0	LOCATION
+1.0	glittering peak	be in	China 's history	0	LOCATION
+1.0	army	be defeat by	Arabs	0	MISC
+1.0	both	suggest	general shift towards drier climate	0	0
+1.0	Tang	have	twilight	TIME	PERSON
+0.8246114161877479	scientist	lead by	Gerald Haug of Geoforschungszentrum	0	PERSON
+1.0	dynasty	have	collapse	O	O
+1.0	period	occur during	last Ice Age	0	MISC

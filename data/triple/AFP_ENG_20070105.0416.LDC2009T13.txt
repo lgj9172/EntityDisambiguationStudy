@@ -1,0 +1,69 @@
+1.0	last weekend	before	airport bomb	DATE	0
+1.0	ban	have	announcement	O	O
+1.0	court judge Ismael Moreno	ban meeting on	basis of police report	PERSON	0
+1.0	it	be at	Anoeta velodrome	0	LOCATION
+1.0	blast	be in	two people	0	NUMBER
+1.0	court	take line with	pro-independence group	0	0
+1.0	San Sebastian	have	town	O	LOCATION
+0.5230120046475008	a meeting called for Saturday by a pro-independence Basque group at the Anoeta velodrome in the coastal town of San Sebastian	have	have organise by basque prisoner support committee	0	0
+1.0	group	release	statement confirm as much	0	0
+1.0	high court	take line with	pro-independence group follow violence	0	0
+1.0	high court	take	visibly tougher line	0	0
+1.0	caller	claim	responsibility	0	0
+1.0	conflict	have	years	DURATION	O
+1.0	group	release	statement confirm	0	0
+1.0	court	take line with	basque pro-independence group follow recent violence	0	0
+1.0	Saturday	have	Madrid airport bomb	O	DATE
+0.5230120046475008	a meeting called for Saturday by a pro-independence Basque group at the Anoeta velodrome in the coastal town of San Sebastian	have	have organise by outlaw prisoner support committee	0	0
+1.0	high court judge Ismael Moreno	ban meeting on	basis of police report	PERSON	0
+0.937626771026604	high court	judiciary in	day	0	0
+0.937626771026604	judiciary court	couple with	Friday meeting ban	0	DATE
+1.0	weekend	have	airport bomb	O	DATE
+1.0	high court	take line with	pro-independence group	0	0
+1.0	court	take	line	0	0
+1.0	Friday	with	meeting ban	DATE	0
+0.937626771026604	court	judiciary in	day	0	0
+1.0	court	take line with	pro-independence group follow violence	0	0
+1.0	group	say at	Friday press conference in San Sebastian	0	LOCATION
+1.0	high court	take line with	basque pro-independence group follow recent violence	0	0
+1.0	group	say prior at	Friday press conference	0	DATE
+1.0	Arnaldo Otegi	leader of	ETA 's ban political wing in November 2004	PERSON	DATE
+0.937626771026604	high court	judiciary in	coming day	0	0
+1.0	police reports	have	basis	O	O
+1.0	high court	take	line	0	0
+0.5230120046475008	a meeting called for Saturday by a pro-independence Basque group at the Anoeta velodrome in the coastal town of San Sebastian	have	have organise	0	0
+1.0	high court	take line with	pro-independence group follow recent violence	0	0
+1.0	ETA 's ban political wing	be in	November 2004	ORGANIZATION	DATE
+0.937626771026604	judiciary high court	couple with	Friday meeting ban	0	DATE
+1.0	wing	have	leader	O	O
+1.0	high court	take line with	basque pro-independence group follow violence	0	0
+1.0	group	say prior at	Friday press conference in San Sebastian	0	LOCATION
+1.0	high court judge Ismael Moreno	ban meeting on	basis	PERSON	0
+1.0	court judge Ismael Moreno	ban meeting on	basis	PERSON	0
+1.0	Friday press conference	be in	San Sebastian	DATE	LOCATION
+1.0	judiciary	be in	day	0	0
+1.0	solution	have	offer	O	O
+1.0	ETA	of	ban political wing in November 2004	ORGANIZATION	DATE
+1.0	court	take line with	basque pro-independence group follow violence	0	0
+1.0	high court judge Ismael Moreno	ban	meeting	PERSON	0
+1.0	court	take	visibly tougher line	0	0
+0.5230120046475008	a meeting called for Saturday by a pro-independence Basque group at the Anoeta velodrome in the coastal town of San Sebastian	have	have organise by prisoner support committee	0	0
+1.0	group	say at	Friday press conference	0	DATE
+0.5230120046475008	a meeting called for Saturday by a pro-independence Basque group at the Anoeta velodrome in the coastal town of San Sebastian	have	have organise by outlaw basque prisoner support committee	0	0
+1.0	group	release	statement	0	0
+1.0	court	take line with	pro-independence group follow recent violence	0	0
+1.0	high court	take line with	basque pro-independence group	0	0
+0.937626771026604	court	judiciary in	coming day	0	0
+1.0	court judge Ismael Moreno	ban	meeting	PERSON	0
+1.0	Saturday	for	Madrid airport bomb	DATE	LOCATION
+0.6940742443185555	judiciary	couple with	Friday meeting ban	0	DATE
+1.0	ETA	have	have blame	ORGANIZATION	0
+1.0	Moreno	be  at_time	earlier this week	PERSON	DATE
+1.0	caller	claim responsibility for	ETA	0	ORGANIZATION
+1.0	court	take	tougher line	0	0
+1.0	court	take line with	basque pro-independence group	0	0
+1.0	Judge Moreno	ban	Arnaldo Otegi	PERSON	PERSON
+1.0	high court	take	tougher line	0	0
+1.0	group	release	statement confirm much	0	0
+1.0	ETA	have	wing	O	ORGANIZATION
+1.0	Friday	have	meeting ban	O	DATE

@@ -1,0 +1,26 @@
+1.0	its	have	employees	O	O
+1.0	hour	per mile be	675 kilometre	DURATION	NUMBER
+1.0	Newport	have	Tom Matthews	PERSON	LOCATION
+1.0	he	travel at	420 mph in 30 mph zone	0	NUMBER
+1.0	world diesel engine land speed record	be	set in Utah in United States last August	0	DATE
+1.0	Tom Matthews	appeal against	60 pound fine	0	MONEY
+1.0	Tom Matthews	say	add	0	0
+1.0	world diesel engine land speed record	be set in	Utah in United States	0	LOCATION
+1.0	he	travel at	420 mph	0	NUMBER
+1.0	Tom Matthews	be	38	PERSON	NUMBER
+1.0	he	be	accuse	0	0
+1.0	420 mph	be in	30 mph zone	NUMBER	NUMBER
+1.0	Tom Matthews	have	Vauxhall Cavalier diesel	O	O
+1.0	world diesel engine land speed record	be	set	0	0
+1.0	world diesel engine land speed record	be set at_time	last August	0	DATE
+1.0	Utah	be in	United States	LOCATION	LOCATION
+1.0	employees	have	one	NUMBER	O
+1.0	Tom Matthews	be of	Newport	PERSON	LOCATION
+1.0	world diesel engine land speed record	be	set in Utah last August	0	DATE
+1.0	inconvenience	cause to	Tom Matthews	0	PERSON
+1.0	A British taxi driver	say at_time	Thursday	0	DATE
+1.0	world diesel engine land speed record	be	set in Utah August	0	DATE
+1.0	world diesel engine land speed record	be set in	Utah	0	LOCATION
+1.0	world diesel engine land speed record	be	set in Utah in United States August	0	DATE
+1.0	world diesel engine land speed record	be set at_time	August	0	DATE
+1.0	world diesel engine land speed record	stand at	just over 328 mph	0	NUMBER

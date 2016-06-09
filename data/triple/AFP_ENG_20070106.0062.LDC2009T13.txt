@@ -1,0 +1,66 @@
+1.0	she	tell	newspaper	0	0
+1.0	The mother of a British tourist , who was found dead in an Indian jungle last month	have	son	O	O
+1.0	she	see	stranger approach	0	0
+1.0	High Commission spokeswoman	hang near	India 's western financial capital	ORGANIZATION	LOCATION
+1.0	Goa	in	Panaji	LOCATION	LOCATION
+1.0	Bennett 's mother	have	son	O	O
+1.0	british High Commission spokeswoman	hang near	India 's western financial capital of Mumbai	ORGANIZATION	LOCATION
+1.0	High Commission spokeswoman	hang near	India 's financial capital of Mumbai	ORGANIZATION	LOCATION
+1.0	woman	have	husband	0	0
+1.0	british High Commission spokeswoman	hang in	jungle	ORGANIZATION	0
+1.0	her	have	porch	O	O
+1.0	british High Commission spokeswoman	hang in	jungle on December 12	ORGANIZATION	DATE
+1.0	her son	call	I	0	0
+1.0	Goa	have	tourist resort	O	LOCATION
+1.0	woman	have	husband	O	O
+1.0	High Commission spokeswoman	hang near	India 's western financial capital of Mumbai	ORGANIZATION	LOCATION
+1.0	High Commission spokeswoman	hang in	jungle	ORGANIZATION	0
+1.0	newspaper	cite	police source	0	0
+1.0	british High Commission spokeswoman	hang near	India 's western capital of Mumbai	ORGANIZATION	LOCATION
+1.0	Stephen	check into	hotel	PERSON	0
+1.0	which	have	capital	O	O
+1.0	british High Commission spokeswoman	hang near	India 's financial capital of Mumbai	ORGANIZATION	LOCATION
+1.0	Stephen	check on	credit card	PERSON	0
+1.0	High Commission spokeswoman	hang near	India 's western capital	ORGANIZATION	LOCATION
+0.06141471494456796	her son	call from	Goa	0	0
+1.0	High Commission spokeswoman	hang in	jungle on December 12	ORGANIZATION	DATE
+1.0	british High Commission spokeswoman	hang near	India 's capital of Mumbai	ORGANIZATION	LOCATION
+1.0	Malasai village	be in	western Maharashtra state	LOCATION	LOCATION
+1.0	newspaper	cite	unnamed police source	0	0
+1.0	High Commission spokeswoman	hang near	India 's western capital of Mumbai	ORGANIZATION	LOCATION
+1.0	his	have	hotel	O	O
+1.0	hotel	be in	Panaji	0	LOCATION
+1.0	India	near	western financial capital of Mumbai	LOCATION	LOCATION
+1.0	High Commission spokeswoman	hang near	India 's capital	ORGANIZATION	LOCATION
+1.0	british High Commission spokeswoman	hang near	India 's western financial capital	ORGANIZATION	LOCATION
+1.0	british High Commission spokeswoman	hang near	India 's financial capital	ORGANIZATION	LOCATION
+1.0	Nirmala Rane	have	door	O	PERSON
+1.0	Goa	have	Baga beach	O	LOCATION
+1.0	report	say at_time	Saturday	0	DATE
+1.0	he	hotel	goa	0	0
+1.0	High Commission spokeswoman	hang near	India 's financial capital	ORGANIZATION	LOCATION
+1.0	Goa	have	capital Panaji	LOCATION	LOCATION
+1.0	Mumbai	have	capital	O	LOCATION
+1.0	Goa	at	popular Baga beach	LOCATION	0
+1.0	India	have	capital	O	LOCATION
+1.0	Mumbai	be	capital	LOCATION	0
+1.0	Bennett	have	mother	PERSON	0
+1.0	british High Commission spokeswoman	hang near	India 's capital	ORGANIZATION	LOCATION
+1.0	Panaji	be capital of	Goa	LOCATION	LOCATION
+1.0	her son	sound	afraid	0	0
+1.0	villagers	have	part	O	O
+1.0	High Commission spokeswoman	hang near	India 's capital of Mumbai	ORGANIZATION	LOCATION
+1.0	british High Commission spokeswoman	hang near	India 's western capital	ORGANIZATION	LOCATION
+1.0	Stephen Bennett	be of	Cheltenham	PERSON	LOCATION
+1.0	Mumbai	be	of which capital	LOCATION	0
+1.0	Stephen Bennett	be	40	PERSON	NUMBER
+1.0	Stephen	check into	hotel in Goa 's capital Panaji	PERSON	LOCATION
+1.0	her son	sound	very afraid	0	0
+1.0	six man	be in	Malasai village	NUMBER	LOCATION
+1.0	Media	report	quote	0	0
+1.0	Cheltenham	have	Stephen Bennett	PERSON	LOCATION
+1.0	her son	have	life	O	O
+1.0	Bennett	have	mother	O	PERSON
+1.0	her	have	son	O	O
+1.0	tourist	have	mother	O	O
+1.0	his	have	money	O	O

@@ -1,0 +1,75 @@
+1.0	unnamed administration official	tell	CNN	0	ORGANIZATION
+1.0	he	address ahead	nation on Iraq strategy in day	0	LOCATION
+1.0	he	address nation ahead in	opinion column in Wall Street Journal	0	ORGANIZATION
+1.0	speech	have	focus	O	O
+1.0	Wall Street Journal	be on	Wednesday	ORGANIZATION	DATE
+1.0	1,500 marine	would	would send to volatile Sunni province	NUMBER	MISC
+1.0	Tony Snow	be spokesman of	White House	PERSON	ORGANIZATION
+1.0	he	address nation in	opinion column in Wall Street Journal on Wednesday	0	ORGANIZATION
+1.0	1,500 marine	would	would send to Sunni province of Al-Anbar	NUMBER	MISC
+1.0	marine	would	would send to Sunni western province of Al-Anbar	0	MISC
+1.0	marine	would	would send to volatile Sunni western province	0	MISC
+1.0	Tony Snow	be	White House	PERSON	ORGANIZATION
+1.0	he	address ahead	nation on new Iraq strategy	0	LOCATION
+1.0	Iraq war	be increasingly unpopular with	US public	LOCATION	LOCATION
+1.0	would standby	be in	Kuwait	0	LOCATION
+1.0	senior administration official	tell	CNN	0	ORGANIZATION
+1.0	Iraq war	be unpopular with	US public	LOCATION	LOCATION
+1.0	increase	be	active	0	0
+1.0	he	address nation in	opinion column in Wall Street Journal	0	ORGANIZATION
+1.0	add	be	significantly along in process	0	0
+1.0	marine	would	would send	0	0
+1.0	CBS News	cite	US military source	ORGANIZATION	LOCATION
+1.0	1,500 marine	would	would send to Sunni western province of Al-Anbar	NUMBER	MISC
+1.0	report	give	estimate	0	0
+1.0	he	address nation in	opinion column	0	0
+1.0	he	address	nation on new Iraq strategy in day	0	LOCATION
+1.0	troops	have	estimates	O	O
+1.0	he	address ahead	nation on Iraq strategy	0	LOCATION
+1.0	Iraq war	be	increasingly unpopular	LOCATION	0
+1.0	he	address	nation on new Iraq strategy	0	LOCATION
+1.0	unnamed State Department official	tell	McClatchy	ORGANIZATION	PERSON
+1.0	he	address ahead	nation on new Iraq strategy in day	0	LOCATION
+1.0	he	address	nation on Iraq strategy	0	LOCATION
+1.0	marine	would	would send to volatile Sunni western province of Al-Anbar	0	MISC
+1.0	1,500 marine	would	would send to volatile Sunni western province of Al-Anbar	NUMBER	MISC
+1.0	1,500 marine	would	would send	NUMBER	0
+1.0	would standby	be in	the United States	0	LOCATION
+1.0	report	be send to	Iraq	0	LOCATION
+1.0	US media	say at_time	Thursday	LOCATION	DATE
+1.0	surge	have	bump	O	O
+1.0	he	address	nation on Iraq strategy in day	0	LOCATION
+1.0	1,500 marine	would	would send to Sunni western province	NUMBER	MISC
+1.0	State Department official	tell	McClatchy	ORGANIZATION	PERSON
+1.0	he	address	nation	0	0
+1.0	administration official	tell	CNN	0	ORGANIZATION
+1.0	President George W. Bush	have	Iraq policy	O	O
+1.0	report	be	send	0	0
+1.0	1,500 marine	would	would send to volatile Sunni western province	NUMBER	MISC
+1.0	marine	would	would send to volatile Sunni province of Al-Anbar	0	MISC
+1.0	he	address nation ahead in	opinion column	0	0
+1.0	Iraq war	be	unpopular	LOCATION	0
+1.0	US troops	have	increase	O	O
+0.776279960346521	he	nation on	Iraq strategy	0	LOCATION
+1.0	two army brigade	would go to	Baghdad	0	LOCATION
+1.0	army brigade	would go to	Baghdad	0	LOCATION
+1.0	new Iraq strategy	be in	the day	LOCATION	DURATION
+0.776279960346521	he	nation on	new Iraq strategy	0	LOCATION
+0.776279960346521	he	nation on	new Iraq strategy in day	0	LOCATION
+1.0	opinion column	be in	Wall Street Journal	0	ORGANIZATION
+1.0	targeted increase	be in	troop strength	0	0
+1.0	marine	would	would send to Sunni province of Al-Anbar	0	MISC
+1.0	he	address ahead	nation	0	0
+1.0	1,500 marine	would	would send to volatile Sunni province of Al-Anbar	NUMBER	MISC
+1.0	1,500 marine	would	would send to Sunni province	NUMBER	MISC
+1.0	unnamed senior administration official	tell	CNN	0	ORGANIZATION
+1.0	add	be	significantly	0	0
+1.0	marine	would	would send to volatile Sunni province	0	MISC
+1.0	marine	would	would send to Sunni western province	0	MISC
+0.776279960346521	he	nation on	Iraq strategy in day	0	LOCATION
+1.0	Al-Anbar	have	Sunni province	O	LOCATION
+1.0	discussion	have	subject	O	O
+1.0	move	could	could controversial	0	0
+1.0	CBS News	cite	US source	ORGANIZATION	LOCATION
+1.0	marine	would	would send to Sunni province	0	MISC
+1.0	he	address nation ahead in	opinion column in Wall Street Journal on Wednesday	0	ORGANIZATION

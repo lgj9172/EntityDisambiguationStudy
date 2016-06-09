@@ -1,0 +1,9 @@
+1.0	Ashes	have	opening day	DURATION	O
+1.0	Andrew Flintoff	be unbeaten on	42	PERSON	NUMBER
+1.0	Andrew Flintoff	be unbeaten with	Paul Collingwood on 25	PERSON	PERSON
+1.0	Australia	be at	Sydney Cricket Ground	LOCATION	LOCATION
+1.0	Andrew Flintoff	be unbeaten with	Paul Collingwood	PERSON	PERSON
+1.0	Andrew Flintoff	be	unbeaten on 42 with Paul Collingwood on 25	PERSON	NUMBER
+1.0	Andrew Flintoff	be	unbeaten on 42 with Paul Collingwood	PERSON	NUMBER
+1.0	Andrew Flintoff	be	unbeaten	PERSON	0
+1.0	Paul Collingwood	be on	25	PERSON	NUMBER

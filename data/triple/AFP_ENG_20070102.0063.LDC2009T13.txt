@@ -1,0 +1,61 @@
+1.0	it	be	political resolution	0	0
+1.0	president	be address	thousand	0	0
+1.0	resolution	have	pretext	O	O
+1.0	its	have	right	O	O
+1.0	he	refer to	nationalisation	0	0
+1.0	he	refer by	iranian government	0	0
+1.0	they	launch	military action	0	0
+1.0	it	be adopt with	two objective	0	NUMBER
+1.0	process	make	nuclear weapon	0	0
+1.0	he	say	refer	0	0
+0.5932666907991551	UN security Council	impose sanction over	iranian programme	ORGANIZATION	0
+0.6053639497982628	thousand	gather in	Ahvaz	0	LOCATION
+0.7053141076877403	Ahmadinejad	maintain	Iran 's defiance	0	LOCATION
+0.08546423742311493	Iran	deal to	western nation	LOCATION	0
+1.0	Iran	deal slap to	nation	LOCATION	0
+1.0	Iran	have	defiance	O	LOCATION
+1.0	Iran	deal slap to	western nation	LOCATION	0
+1.0	it	be	resolution	0	0
+1.0	it	be	adopt	0	0
+1.0	he	refer to	nationalisation of Iran 's oil resource	0	LOCATION
+1.0	Mahmoud Ahmadinejad	be on	Tuesday	PERSON	DATE
+1.0	he	refer by	iranian government in 1950	0	0
+1.0	Iran	deal	historic slap	LOCATION	0
+1.0	Iran	of	oil resource	LOCATION	0
+1.0	Iran	have	oil resources	O	LOCATION
+1.0	Khuzestan province	have	capital	O	O
+1.0	president	be address	thousand gather	0	0
+1.0	he	say	refer by government	0	0
+0.5932666907991551	UN security Council	impose sanction over	iranian nuclear programme	ORGANIZATION	0
+1.0	Iran	have	defiance	LOCATION	0
+0.5932666907991551	UN security Council	impose sanction over	programme	ORGANIZATION	0
+1.0	he	refer by	government in 1950	0	0
+1.0	Iran	deal	slap	LOCATION	0
+1.0	oil resources	have	nationalisation	O	O
+1.0	energy	have	exploitation	O	O
+1.0	it	be	political	0	0
+1.0	Ahmadinejad	say in	speech	PERSON	0
+1.0	Ahmadinejad	tell	audience	0	0
+1.0	oil	have	nationalisation	O	O
+1.0	president	be address	thousand gather in Ahvaz	0	LOCATION
+1.0	its	have	programme	O	O
+0.08546423742311493	Iran	deal to	nation	LOCATION	0
+1.0	Ahvaz	capital of	western Khuzestan province	LOCATION	LOCATION
+1.0	process	make	weapon	0	0
+0.6053639497982628	thousand	gather in	capital	0	0
+1.0	Iran 's defiance	have	programme	O	O
+1.0	western power	want	Iran	0	LOCATION
+1.0	the Islamic republic	have	programme	O	O
+1.0	Iran 's defiance	have	best	O	O
+1.0	power	want	Iran	0	LOCATION
+1.0	he	refer by	government	0	0
+1.0	he	say	refer by government in 1950	0	0
+0.5932666907991551	UN security Council	impose sanction over	nuclear programme	ORGANIZATION	0
+1.0	process	be	could use	0	0
+0.5932666907991551	UN security Council	impose	sanction	ORGANIZATION	0
+1.0	he	say	refer by iranian government	0	0
+1.0	resolution	have	content	O	O
+1.0	Ahmadinejad	tell	cheer audience	0	0
+1.0	Iran 's defiance	have	rights	O	O
+1.0	iranian government	be in	the 1950	0	DATE
+1.0	Iran	suspend	uranium enrichment	LOCATION	0

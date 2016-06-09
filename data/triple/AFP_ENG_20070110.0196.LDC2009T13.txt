@@ -1,0 +1,32 @@
+1.0	Commerzbank	have	New York branch	O	O
+1.0	second-biggest bank	be in	Germany	0	LOCATION
+1.0	bank	handle euro transaction for	client	0	0
+1.0	number	have already take	decision	0	0
+1.0	spokesman	confirm	corresponding report in Wall Street Journal Europe	0	ORGANIZATION
+1.0	Iran	have	banks	O	LOCATION
+1.0	Washington	quarantine	Iran	LOCATION	LOCATION
+1.0	Iranian clients	have	operations	O	O
+1.0	month	have	end	DATE	DATE
+1.0	its nuclear programme	be in	defiance of international will	0	0
+1.0	german bank	handle euro transaction for	iranian client	0	0
+1.0	german bank	handle euro transaction for	client	0	0
+1.0	german bank	handle	euro transaction	0	0
+1.0	will	have	defiance	O	O
+1.0	corresponding report	be in	Wall Street Journal Europe	0	ORGANIZATION
+1.0	spokesman	confirm	report in Wall Street Journal Europe	0	ORGANIZATION
+1.0	bank	handle euro transaction for	iranian client	0	0
+1.0	Teheran	have	programme	O	O
+1.0	spokesman	confirm	report	0	0
+1.0	spokesman	confirm report on	Wednesday	0	DATE
+1.0	number	have take	similar decision	0	0
+1.0	number	have already take	similar decision	0	0
+1.0	Washington	financially quarantine	Iran	LOCATION	LOCATION
+1.0	United States	isolate economically	Teheran	LOCATION	LOCATION
+1.0	number	have take	decision	0	0
+1.0	Iran	have	state-controlled bank	LOCATION	0
+1.0	Commerzbank	have	activities	O	O
+1.0	Commerzbank	bank in	Germany	ORGANIZATION	LOCATION
+1.0	United States	isolate	Teheran	LOCATION	LOCATION
+1.0	banks	have	number	O	O
+1.0	spokesman	confirm	corresponding report	0	0
+1.0	bank	handle	euro transaction	0	0

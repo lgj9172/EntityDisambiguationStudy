@@ -1,0 +1,6 @@
+1.0	Saddam Hussein	have	two former aide	PERSON	NUMBER
+1.0	Prime Minister	at	office	0	0
+1.0	Saddam Hussein	have	aides	O	PERSON
+1.0	Prime Minister	have	office	O	O
+1.0	official	tell afp at_time	Wednesday	0	DATE
+1.0	official	tell	AFP	0	ORGANIZATION

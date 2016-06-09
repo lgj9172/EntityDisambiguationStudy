@@ -1,0 +1,89 @@
+1.0	province	have	people	O	O
+1.0	sovereignty	have	inviolability	O	O
+1.0	Ban ki moon	be secretary general of	the United Nations	PERSON	ORGANIZATION
+0.684072589019177	national minority	part of	sovereign country	0	0
+1.0	Serbia Kosovo	have	part	O	LOCATION
+1.0	president Slobodan Milosevic	have	command	O	PERSON
+1.0	Serbian Prime Minister Vojislav Kostunica	have	office	O	O
+1.0	national minority	create	new independent state	0	0
+1.0	minority	create	independent state	0	0
+0.6366130295258015	move	staunchly oppose by	Belgrade	0	LOCATION
+1.0	Technically	have	have run since 1999	0	DATE
+1.0	Serbian President Boris Tadic	say at_time	week	LOCATION	DATE
+1.0	Ban ki moon	be	the United Nations	PERSON	ORGANIZATION
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on separatist albanian in province	ORGANIZATION	PERSON
+1.0	Serbia	have	government	O	LOCATION
+1.0	one	be in	Serbia explicitly requests that UN Charter be fully applied to the Republic of Serbia	NUMBER	LOCATION
+1.0	NATO bombing campaign	end crackdown under	command	ORGANIZATION	0
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on ethnic albanian	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on separatist ethnic albanian in province	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end	crackdown	ORGANIZATION	0
+1.0	national minority	create	state	0	0
+1.0	Technically	have	have run	0	0
+1.0	UN special envoy	make recommendation to	the United Nations	ORGANIZATION	ORGANIZATION
+1.0	2006	have	end	DATE	DATE
+1.0	minority	create	new independent state	0	0
+1.0	minority	create	state	0	0
+1.0	its borders	have	UN members inviolability	O	O
+1.0	albanian	be in	province	0	0
+1.0	borders	have	inviolability	O	O
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic	ORGANIZATION	PERSON
+1.0	Slobodan Milosevic	be on	albanian	PERSON	0
+1.0	Serbia	have	Republic	LOCATION	LOCATION
+1.0	national minority	create	new state	0	0
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on ethnic albanian	ORGANIZATION	PERSON
+1.0	Serbian Prime Minister Vojislav Kostunica	say in	letter	PERSON	0
+0.6629573156285158	albanian	comprise	90-percent of province 's two million people	0	NUMBER
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic	ORGANIZATION	PERSON
+1.0	Boris Tadic	be	Serbian	PERSON	LOCATION
+1.0	countries	have	parts	O	O
+1.0	separatists	have	project	O	O
+1.0	minority	create	new state	0	0
+1.0	integrity	have	inviolability	O	O
+1.0	talks	have	series	O	O
+1.0	inviolability	have	protection	O	O
+1.0	integrity	have	guarantees'	O	O
+1.0	Martti Ahtisaari	have	plans	O	O
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on separatist albanian in province	ORGANIZATION	PERSON
+1.0	senior Serbian	major development	Kosovo Albanian official	MISC	LOCATION
+1.0	challenges	have	one	NUMBER	O
+1.0	Vojislav Kostunica	be	Serbian	PERSON	MISC
+1.0	province	of	two million people	0	NUMBER
+1.0	Technically	have	have run by UN mission since 1999	0	DATE
+0.6629573156285158	ethnic albanian	comprise	90-percent of province 's two million people	0	NUMBER
+1.0	law	have	principles	O	O
+1.0	UN special envoy	make	recommendation	ORGANIZATION	DATE
+1.0	Serbian President Boris Tadic	say at_time	last week	LOCATION	DATE
+0.684072589019177	minority	part of	sovereign country	0	0
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on separatist ethnic albanian	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on albanian in province	ORGANIZATION	PERSON
+1.0	UN Charter	have	principles	O	O
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on separatist ethnic albanian	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on albanian	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on ethnic albanian in province	ORGANIZATION	PERSON
+1.0	he office	say at_time	Thursday	0	DATE
+1.0	Serbian	major development	Kosovo Albanian official	MISC	LOCATION
+1.0	UN special envoy	be due by	end	ORGANIZATION	DATE
+0.6366130295258015	move	oppose by	Belgrade	0	LOCATION
+1.0	their	have	sovereignty	O	O
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on separatist ethnic albanian in province	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on albanian	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on separatist albanian	ORGANIZATION	PERSON
+0.6629573156285158	albanian	comprise	90-percent of province 's people	0	0
+1.0	he office	say in	statement	0	0
+1.0	national minority	create	independent state	0	0
+1.0	UN special envoy	be	due	ORGANIZATION	0
+1.0	UN special envoy	be due by	end of 2006	ORGANIZATION	DATE
+1.0	the United Nations	have	borders	O	O
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on ethnic albanian in province	ORGANIZATION	PERSON
+1.0	NATO bombing campaign	end crackdown under	command of then president Slobodan Milosevic on albanian in province	ORGANIZATION	PERSON
+1.0	people	have	90-percent	O	O
+1.0	independence-seeking Kosovo	have	status	O	LOCATION
+1.0	majority region	have	future	DATE	O
+1.0	Technically	have	have run by UN mission	0	ORGANIZATION
+1.0	NATO bombing campaign	end crackdown by	Belgrade troops	ORGANIZATION	LOCATION
+1.0	NATO bombing campaign	end crackdown under	command of president Slobodan Milosevic on separatist albanian	ORGANIZATION	PERSON
+0.6629573156285158	ethnic albanian	comprise	90-percent of province 's people	0	0
+1.0	conflict	have	end	DATE	O
+1.0	Serbia	be in	2007	LOCATION	DATE
+1.0	sovereignty	have	guarantees'	O	O

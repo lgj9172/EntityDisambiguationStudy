@@ -1,0 +1,43 @@
+1.0	Cavaco Silva	schedule	cabinet minister	PERSON	0
+1.0	state visit	have	importance	O	O
+1.0	1990s	have	middle	DATE	DATE
+1.0	Portuguese President Anibal Cavaco Silva	outline	importance	PERSON	0
+1.0	India which begins on Thursday	have	financial hub	LOCATION	0
+1.0	India which begins on Thursday	have	coast	O	LOCATION
+1.0	Portuguese President Anibal Cavaco Silva	outline	importance of he seven-day state visit	PERSON	DURATION
+1.0	India which begins on Thursday	have make	change	LOCATION	0
+1.0	Cavaco Silva	schedule	he wife	PERSON	0
+1.0	Cavaco Silva	stop	over 60 business leader	PERSON	NUMBER
+1.0	trip	boost	its export	0	0
+1.0	Portuguese President Anibal Cavaco Silva	have	speech	O	O
+1.0	Cavaco Silva	stop	cabinet minister	PERSON	0
+1.0	its	have	reform programme	O	O
+1.0	India which begins on Thursday	in	west coast	LOCATION	0
+1.0	Cavaco Silva	schedule	over 60 business leader	PERSON	NUMBER
+1.0	India which begins on Thursday	have make change since	middle	LOCATION	DATE
+1.0	India which begins on Thursday	have make	extraordinary change	LOCATION	0
+1.0	Portuguese President Anibal Cavaco Silva	have make	he first-ever speech	PERSON	0
+1.0	India which begins on Thursday	have make change since	middle of 1990s	LOCATION	DATE
+1.0	palm-fringed former Portuguese colony	be in	India 's west coast	MISC	LOCATION
+1.0	Portuguese President Anibal Cavaco Silva	have make	he speech	PERSON	0
+1.0	state	be in	15 year	0	DURATION
+1.0	gross product	have grow in	past three year	NUMBER	DURATION
+1.0	Portuguese President Anibal Cavaco Silva	have	state visit	O	O
+1.0	Anibal Cavaco Silva	be	Portuguese	PERSON	MISC
+1.0	India which begins on Thursday	have	hub	O	LOCATION
+1.0	Cavaco Silva	stop	he wife	PERSON	0
+1.0	Goa	colony in	India 's west coast	ORGANIZATION	LOCATION
+1.0	Cavaco Silva	stop	business leader	PERSON	0
+1.0	Cavaco Silva	schedule	several cabinet minister	PERSON	0
+1.0	Cavaco Silva	schedule	business leader	PERSON	0
+1.0	gross domestic product	have grow in	past three year	NUMBER	DURATION
+1.0	product	have grow in	past three year	0	DURATION
+1.0	nations	have	one	NUMBER	O
+1.0	domestic product	have grow in	past three year	0	DURATION
+1.0	presidency	have	site	O	O
+1.0	state	have	head	O	O
+1.0	his	have	visit	O	O
+1.0	The conservative president	have	wife	O	O
+1.0	Cavaco Silva	stop	several cabinet minister	PERSON	0
+1.0	its	have	exports	O	O
+1.0	Portuguese President Anibal Cavaco Silva	outline	importance of he state visit	PERSON	0

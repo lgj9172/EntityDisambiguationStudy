@@ -1,0 +1,38 @@
+1.0	Jalal Talabani	be	iraqi	PERSON	0
+1.0	Iraq strategy	have	outcome	O	O
+1.0	he	also discuss	he new initiative	0	0
+1.0	South Korea	be of	Japan	LOCATION	LOCATION
+1.0	he	be unveil in	speech at 9:00 pm with Iraq 's Sunni Arab official	0	TIME
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	he	be unveil in	speech with Iraq 's Sunni Arab official	0	LOCATION
+1.0	Bush	have	plan	O	PERSON
+1.0	US President George W. Bush on Wednesday	have	initiative	O	O
+1.0	George W. Bush	be on	Wednesday	PERSON	DATE
+1.0	speech	be with	Iraq 's senior Sunni Arab official	0	LOCATION
+1.0	Japan Korea	have	Poland	LOCATION	LOCATION
+1.0	he	be unveil in	speech at 9:00 pm	0	TIME
+1.0	Japan Korea	have	combat force serve in Iraq	LOCATION	LOCATION
+1.0	US President George W. Bush on Wednesday	have	Iraq strategy	O	O
+1.0	Coalition efforts	have	support	O	O
+1.0	government	have	commitment	O	O
+1.0	he	also discuss	he initiative	0	0
+1.0	Japan Korea	have	South	LOCATION	LOCATION
+1.0	country	have	people	O	O
+1.0	he	discuss	he initiative	0	0
+1.0	Coalition effort	be in	Iraq	ORGANIZATION	LOCATION
+1.0	he	be unveil in	speech with Iraq 's senior Sunni Arab official	0	LOCATION
+1.0	he	be unveil in	speech at 9:00 pm with Iraq 's senior Sunni Arab official	0	TIME
+1.0	Iraq	's official be	Tareq al-Hashimi	LOCATION	PERSON
+1.0	Japanese Prime Minister Shinzo Abe , South Korean President Roh Moo-Hyun , and Polish President Lech Kaczynski	have	support	O	O
+1.0	he	be	unveil	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Lech Kaczynski	be	Polish	PERSON	MISC
+1.0	he	be unveil in	speech	0	0
+1.0	Shinzo Abe	be to	japanese	PERSON	0
+1.0	Japan Korea	have	combat force	LOCATION	0
+1.0	he	discuss	he new initiative	0	0
+1.0	Iraq	have	Sunni Arab official	O	LOCATION
+1.0	Iraq	with	senior Sunni Arab official	LOCATION	MISC
+1.0	Roh Moo-Hyun	be	South Korean	PERSON	MISC
+1.0	Japan Korea	have	combat force serve	LOCATION	0
+1.0	Japan Poland South Korea	have	leaders	O	LOCATION

@@ -1,0 +1,25 @@
+1.0	Trafalgar Square	be in	London	LOCATION	LOCATION
+1.0	One of the pieces	have	star	O	O
+1.0	the board	have	nothing	0	0
+1.0	pieces	have	One	NUMBER	O
+1.0	chess piece	start	disappear from board	0	0
+1.0	chess piece	disappear from	board	0	0
+1.0	seconds	have	time limit	O	DURATION
+1.0	russian	face	british chessmaster Anatoly Karpov	0	PERSON
+1.0	game	get	go	0	0
+1.0	skill	play in	video relay match	0	0
+1.0	Anatoly Karpov	be	british	PERSON	0
+1.0	giant board	be in	Pushkinskaya Square	0	LOCATION
+1.0	the board	have	nothing do	0	0
+1.0	winter	be in	Moscow	0	LOCATION
+1.0	urgency	have	sense	O	O
+1.0	ice	have	made	O	O
+1.0	chess piece	start	disappear	0	0
+1.0	skill	play in	video relay match on Thursday	0	DATE
+1.0	Pushkinskaya Square	be in	Moscow	LOCATION	LOCATION
+1.0	piece	be make of	ice	0	0
+1.0	teams	have	skill	O	O
+1.0	russian	face	chessmaster Anatoly Karpov	0	PERSON
+1.0	piece	of one be	king fashion	0	0
+1.0	game	even get	go	0	0
+1.0	piece	be	make	0	0

@@ -1,0 +1,25 @@
+1.0	rights group	have express	concern about number of civilian casualty	0	0
+1.0	Paktika	have	province	O	LOCATION
+1.0	police	say at_time	Friday	0	DATE
+1.0	150 insurgent	be in	eastern province of Paktika	NUMBER	LOCATION
+1.0	hospital	be in	Lashkar Gah	0	LOCATION
+1.0	military strike	be in	southern province of Helmand early Thursday	0	DATE
+1.0	intense fighting	be in	insurgency launch by Taliban	0	ORGANIZATION
+1.0	casualties	have	number	O	O
+1.0	Helmand	have	province	O	LOCATION
+1.0	fighting	have	some	O	O
+1.0	police chief Mohammad Nabi Mullahkhail	tell	AFP	PERSON	ORGANIZATION
+1.0	rights group	have express	concern about number	0	0
+1.0	rights group	have express	concern	0	0
+1.0	deployment	have	Most	O	O
+1.0	ISAF	announce at_time	Thursday	ORGANIZATION	DATE
+1.0	rights group	have express	concern about number of casualty	0	0
+1.0	its	have	forces	O	O
+1.0	compound	be in	Garmser district	0	LOCATION
+1.0	rights group	have express concern in	insurgency	0	0
+1.0	5,200 troops in Afghanistan	be remove from	government	0	0
+1.0	5,200 troops in Afghanistan	be	remove	0	0
+1.0	rebel camp	be in	Afghanistan	0	MISC
+1.0	5,200 troops in Afghanistan	be remove from	government in late 2001	0	DATE
+1.0	government	be in	late 2001	0	DATE
+1.0	of 5,200 troops	be in	Afghanistan	NUMBER	LOCATION

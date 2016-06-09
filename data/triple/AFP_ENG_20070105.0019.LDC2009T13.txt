@@ -1,0 +1,4 @@
+1.0	s	drop	p/asx 200 index	0	NUMBER
+1.0	benchmark s	drop	p/asx index	0	0
+1.0	benchmark s	drop	p/asx 200 index	0	NUMBER
+1.0	s	drop	p/asx index	0	0

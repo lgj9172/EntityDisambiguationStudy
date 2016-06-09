@@ -1,0 +1,39 @@
+0.32468555244207997	wolf	be	consider	0	0
+1.0	wolf	be already consider	weighty trophy	0	0
+1.0	50-kilo wolf	be already consider	weighty trophy	0	0
+0.32468555244207997	50-kilo wolf	be	already consider	0	0
+0.6910134421095558	grey wolf	weigh	kilogramme	0	0
+1.0	50-kilo wolf	be consider	trophy	0	0
+1.0	Slavcho Slavchev	have	party	O	O
+1.0	50-kilo wolf	be consider	exceptionally weighty trophy	0	0
+1.0	animal	have	weight	O	O
+1.0	hunters	have	None	O	O
+1.0	largest game population	be in	Europe	0	LOCATION
+1.0	50-kilo wolf	be already consider	exceptionally weighty trophy	0	0
+1.0	game populations	have	one	NUMBER	O
+1.0	weight	have	confirmation	O	O
+1.0	Minnesota	have	US state	O	LOCATION
+0.32468555244207997	50-kilo wolf	be	consider	0	0
+1.0	wolf	weigh	175 pound	0	NUMBER
+1.0	hunter	be in	he party	0	0
+1.0	Brusartzi	have	village	O	LOCATION
+1.0	50-kilo wolf	be consider	weighty trophy	0	0
+1.0	International Wolf Center	be in	Ely	ORGANIZATION	0
+1.0	wolf	weigh	79.4 kilo	0	NUMBER
+1.0	that	be	dead	0	0
+0.6910134421095558	wolf	weigh	80 kilogramme	0	NUMBER
+0.6910134421095558	grey wolf	weigh	80 kilogramme	0	NUMBER
+1.0	50-kilo wolf	be already consider	trophy	0	0
+1.0	wolf	be consider	exceptionally weighty trophy	0	0
+1.0	Ely	be in	US state of Minnesota	0	LOCATION
+1.0	wolf	be consider	trophy	0	0
+1.0	animal shot dead	be in	1939	0	DATE
+1.0	she	record outside	United States	0	LOCATION
+1.0	wolf	be already consider	trophy	0	0
+0.32468555244207997	wolf	be	already consider	0	0
+1.0	heaviest wolf	weigh	175 pound	0	NUMBER
+1.0	wolf	be consider	weighty trophy	0	0
+1.0	wolf	be already consider	exceptionally weighty trophy	0	0
+0.6910134421095558	wolf	weigh	kilogramme	0	0
+1.0	heaviest wolf	weigh	79.4 kilo	0	NUMBER
+1.0	Slavcho Slavchev	say	add	PERSON	0

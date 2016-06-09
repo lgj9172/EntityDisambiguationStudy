@@ -1,0 +1,47 @@
+1.0	region	be currently experience	warm winter weather	0	DATE
+1.0	London	be on	Wednesday	LOCATION	DATE
+1.0	market	remain	focus	0	0
+1.0	Gerald Ford	be president of	the United States	PERSON	LOCATION
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	northeastern region	be experience	unusually warm winter weather	0	DATE
+1.0	region	be currently experience	unusually warm winter weather	0	DATE
+1.0	New York 's main contract	drop	50 cent 60.55 dollar	LOCATION	MONEY
+1.0	Brent North Sea crude	lose 15 60.29 dollar in	London on Wednesday	LOCATION	LOCATION
+1.0	New York	have	contract	O	LOCATION
+1.0	pit trading	be close because of	national day of mourning	0	DURATION
+1.0	United States	have	region	O	LOCATION
+1.0	New York 's main contract	drop	50 cent 60.55 dollar barrel	LOCATION	MONEY
+1.0	New York 's main contract	crude for	February delivery	LOCATION	DATE
+1.0	New York 's	have see	only electronic deal	LOCATION	0
+1.0	Gerald Ford	be for	the United States	PERSON	LOCATION
+1.0	Brent North Sea crude	lose 15 60.29 dollar in	London	LOCATION	LOCATION
+1.0	Brent North Sea crude	lose	15 60.29 dollar	LOCATION	MONEY
+1.0	Brent North Sea crude	lose 15 60.29 dollar in	electronic trading	LOCATION	0
+1.0	world	have	consumer	O	O
+1.0	New York	have	main contract	LOCATION	0
+1.0	region	be experience	winter weather	0	DATE
+1.0	day	have	closed	O	DURATION
+1.0	Brent North Sea crude	lose 15 60.29 dollar in	trading	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	northeastern region	be currently experience	unusually warm winter weather	0	DATE
+0.010717726303177022	New York 's	have see at_time	Tuesday	LOCATION	DURATION
+1.0	northeastern region	be experience	warm winter weather	0	DATE
+1.0	heating fuel	have	consumer	O	O
+1.0	region	be experience	unusually warm winter weather	0	DATE
+1.0	region	be experience	warm winter weather	0	DATE
+1.0	New York 's contract	drop	50 cent 60.55 dollar barrel	LOCATION	MONEY
+1.0	world	have	biggest consumer of heating fuel	0	0
+1.0	northeastern region	be currently experience	winter weather	0	DATE
+1.0	New York 's	have see	deal	LOCATION	0
+1.0	northeastern region	be experience	winter weather	0	DATE
+1.0	World oil price	fall on	Wednesday	0	DATE
+1.0	pit trading	be close because of	day of mourning	0	DURATION
+1.0	World oil price	fall further on	Wednesday	0	DATE
+1.0	New York 's contract	drop	50 cent 60.55 dollar	LOCATION	MONEY
+1.0	northeastern region	be currently experience	warm winter weather	0	DATE
+1.0	pit trading	be close for	former US president Gerald Ford	0	LOCATION
+1.0	New York 's	have see	only deal	LOCATION	0
+1.0	New York 's	have see	electronic deal	LOCATION	0
+1.0	New York 's	have see deal at_time	Tuesday	LOCATION	DURATION
+1.0	pit trading	be	close	0	0
+1.0	region	be currently experience	winter weather	0	DATE

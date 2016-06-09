@@ -1,0 +1,41 @@
+1.0	their	have	effort	O	O
+1.0	rebel	suffer	casualty	0	0
+1.0	ltte	express	hope	0	0
+1.0	upsurge	be in	violence between government troops	0	0
+1.0	Padahuthurai	have	hamlet	O	LOCATION
+1.0	people	be	wound	0	0
+1.0	Tamil areas	have	Liberation Tigers	ORGANIZATION	O
+1.0	world	stand in	they effort	0	0
+1.0	toll	have	verification	O	O
+1.0	30 people	be	wound	NUMBER	0
+1.0	world	seek	peace	0	0
+1.0	conflict	have claim since	1972	0	DATE
+0.7395875786216839	President Mahinda Rajapakse	island	ltte	PERSON	0
+1.0	his	have	message	O	O
+1.0	rebel	be fight for	independence	0	0
+1.0	world	seek peace through	just political solution	0	0
+1.0	island	be in	they new year message	0	0
+1.0	world	seek peace through	just solution	0	0
+1.0	further people	be	seriously wound	0	0
+1.0	further people	be	wound	0	0
+1.0	world	seek peace through	solution	0	0
+1.0	island	for	minority	0	0
+1.0	their	have	Year messages	O	O
+1.0	rebel	be fight for	independence for island 's minority	0	0
+1.0	world	seek	permanent peace	0	0
+1.0	30 people	be	seriously wound	NUMBER	0
+1.0	norwegian-arranged truce	be in	place	0	0
+1.0	world	stand in	they sincere effort	0	0
+1.0	people	be	seriously wound	0	0
+1.0	rebel	suffer	serious casualty	0	0
+1.0	Mannar	have	Tiger base north	O	LOCATION
+1.0	island	have	north	O	O
+1.0	homes	have	left	O	O
+1.0	further 30 people	be	seriously wound	NUMBER	0
+1.0	island	have	east	O	O
+1.0	world	stand with	Tamil people	0	MISC
+1.0	Rajapakse	say in	he message	PERSON	0
+1.0	world	seek peace through	political solution	0	0
+1.0	island	have	minority	O	O
+1.0	further 30 people	be	wound	NUMBER	0
+1.0	President Mahinda Rajapakse	wish	ltte	PERSON	0

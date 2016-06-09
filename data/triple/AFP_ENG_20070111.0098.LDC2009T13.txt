@@ -1,0 +1,64 @@
+1.0	Bank of Japan	of	policy board	ORGANIZATION	0
+1.0	company	announce	plan	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	extend	Wednesday 's loss	ORGANIZATION	DATE
+1.0	policy board	have	Bank	ORGANIZATION	O
+1.0	Wednesday	have	losses	O	DATE
+1.0	euro	rise to	1.2960 dollar	0	MONEY
+1.0	retail stock	be	generally lower following	0	0
+1.0	South Korea	have	Samsung Electronics	ORGANIZATION	LOCATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+0.47937962732886696	Daiei	fall to	1,668	ORGANIZATION	NUMBER
+1.0	stock	be	lower following	0	0
+1.0	company	raise	its forecast	0	0
+1.0	company	raise	its forecast of profit for year	0	DATE
+1.0	US currency	rise on	foreign exchange market	LOCATION	0
+1.0	retail stock	be	following	0	0
+1.0	US currency	rise to	119.68 yen in Tokyo afternoon trade	LOCATION	MONEY
+1.0	Kazuhiro Takahashi	manager at	Daiwa Securities SMBC	PERSON	ORGANIZATION
+1.0	Daiei	fall	35 yen	ORGANIZATION	MONEY
+1.0	stock	be	following	0	0
+1.0	company	raise	its forecast of profit for year end March	0	DATE
+1.0	119.59 yen	be in	New York	MONEY	LOCATION
+1.0	retail stock	be	lower following	0	0
+1.0	Matsushita Electric Industrial	be	20 yen at 2,310	ORGANIZATION	MONEY
+1.0	company	raise	its forecast of net profit for year end March	0	DATE
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	extend	Wednesday 's sharp loss	ORGANIZATION	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop	104.23 point	ORGANIZATION	NUMBER
+1.0	US currency	rise on	exchange market	LOCATION	0
+1.0	Department store operator	shed	46 yen	0	MONEY
+1.0	the Bank of Japan	have	policy board meeting	O	O
+1.0	volume	fall from	2.09 billion	0	MONEY
+1.0	meeting next week	be with	market still divide about	DATE	0
+1.0	100 billion	have	projection	O	MONEY
+1.0	Matsushita Electric Industrial	be	20 yen	ORGANIZATION	MONEY
+1.0	interest rate decision	have	nervousness	O	O
+1.0	Japan	have	policy board	O	ORGANIZATION
+1.0	company	raise	its forecast of profit	0	0
+1.0	its	have	forecast	O	O
+1.0	US currency	rise up on	foreign exchange market	LOCATION	0
+1.0	company	raise	its forecast of net profit	0	0
+1.0	volume	fall to	2.07 billion share	0	MONEY
+1.0	Bank	have	meeting	O	ORGANIZATION
+1.0	euro	rise to	1.2960 dollar after 1.2935	0	NUMBER
+1.0	volume	fall on	late Wednesday	0	DATE
+1.0	US currency	rise up on	exchange market	LOCATION	0
+1.0	euro	rise from	154.80	0	NUMBER
+1.0	stock	be	generally lower following	0	0
+1.0	companies	have	TOPIX index	O	O
+1.0	company	raise	its forecast of net profit for year end	0	DATE
+1.0	company	raise	its forecast of profit for year end	0	DATE
+1.0	South Korea	before	Samsung Electronics	LOCATION	ORGANIZATION
+0.164266332496663	Nintendo	jump to	30,700	ORGANIZATION	NUMBER
+1.0	US currency	rise up to	119.68 yen in Tokyo afternoon trade	LOCATION	MONEY
+1.0	US currency	rise to	119.68 yen	LOCATION	MONEY
+1.0	US currency	rise up to	119.68 yen	LOCATION	MONEY
+1.0	results	have	nervousness	O	O
+1.0	Elpida memory	gain	80 yen	ORGANIZATION	MONEY
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	Wednesday	have	sharp loss	DATE	0
+1.0	company	raise	its forecast of net profit for year	0	DATE
+1.0	profit	have	forecast	O	O
+1.0	Samsung Electronics	be in	bid reap	ORGANIZATION	0
+1.0	119.68 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+1.0	shares	have	Nikkei-225 index	O	O

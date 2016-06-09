@@ -1,0 +1,83 @@
+1.0	group	will spend	week-long shift	0	0
+1.0	project	will also raise money in	South Australia state	0	LOCATION
+1.0	zoo	put human on	display in one its enclosure	0	NUMBER
+1.0	project	will also raise	money	0	0
+1.0	group	will spend	shift lock in enclosure	0	0
+1.0	group	will spend	shift lock in enclosure with public	0	0
+0.9683273995540607	week-long shift	lock with	public	0	0
+0.9683273995540607	week-long shift	lock during	zoo 's opening hour	0	0
+1.0	group	will spend	shift lock during zoo 's opening hour with public	0	0
+1.0	visitor	be invite	vote	0	0
+0.8577882532988177	way	improve living condition for	ape	0	0
+1.0	Carla Litchfield	be of	University of South Australia	PERSON	ORGANIZATION
+1.0	University	be spend in	enclosure	ORGANIZATION	0
+1.0	australian zoo	put human on	display	0	0
+1.0	group	live	webcam	0	0
+1.0	visitor	be	invite	0	0
+0.9683273995540607	shift	lock with	public	0	0
+1.0	australian zoo	be claim	world	0	0
+1.0	australian zoo	be claim first	world	0	0
+1.0	group	will spend	week-long shift lock	0	0
+1.0	Visitors	have	human	O	O
+1.0	project	will raise	money	0	0
+1.0	zoo	put human on	display in one of its enclosure	0	NUMBER
+0.9683273995540607	shift	lock during	zoo 's opening hour	0	0
+0.9683273995540607	shift	lock in	enclosure	0	0
+1.0	residence	be in	disused Adelaide zoo orangutang enclosure last week	0	ORGANIZATION
+1.0	group	will spend	week-long shift lock with public	0	0
+1.0	project	will also raise	money for chimpanzee enclosure	0	0
+1.0	zoo	have	opening hours	DURATION	O
+1.0	Part of what I do at the zoo	be stare at	at thousand	0	DURATION
+1.0	its	have	enclosures	O	O
+1.0	South Australia animal psychology specialist Carla Litchfield	tell	ABC radio	0	ORGANIZATION
+1.0	group	will spend	shift lock during zoo 's opening hour	0	0
+1.0	zoo	during	hour	0	0
+1.0	South Australia animal psychology specialist Carla Litchfield	have	University	ORGANIZATION	PERSON
+1.0	group	will spend	shift lock in enclosure during zoo 's opening hour	0	0
+1.0	zoo	put human on	public display in one of its enclosure	0	NUMBER
+1.0	University	be spend in	enclosure with human	ORGANIZATION	0
+1.0	project	will raise	money for chimpanzee enclosure	0	0
+1.0	project	will also raise	money for new chimpanzee enclosure	0	0
+1.0	group	will spend	shift	0	0
+1.0	display	be in	such way	0	0
+1.0	group	will spend	week-long shift lock during zoo 's opening hour with public	0	0
+1.0	group	will spend	week-long shift lock in enclosure during zoo 's opening hour	0	0
+1.0	enclosure	be with	human	0	0
+0.8577882532988177	way	improve living condition for	captive ape	0	0
+1.0	australian zoo	put	human	0	0
+1.0	people	have	thousands	O	O
+0.8577882532988177	way	improve	living condition	0	0
+1.0	zoo	put human on	public display in one its enclosure	0	NUMBER
+1.0	group	will spend	shift lock in enclosure during zoo 's opening hour with public	0	0
+1.0	group	will spend	week-long shift lock in enclosure during zoo 's opening hour with public	0	0
+1.0	first time	be in	world	ORDINAL	0
+1.0	australian zoo	put human on	display in one of its enclosure	0	NUMBER
+1.0	University of South Australia	be of	Carla Litchfield	ORGANIZATION	PERSON
+1.0	enclosures	have	one	NUMBER	O
+1.0	australian zoo	put human on	display in one its enclosure	0	NUMBER
+1.0	group	will spend	shift lock with public	0	0
+1.0	Carla Litchfield	be animal psychology specialist of	University of South Australia	PERSON	ORGANIZATION
+1.0	zoo	put human on	display	0	0
+1.0	australian zoo	put human on	public display in one of its enclosure	0	NUMBER
+1.0	University	be spend at_time	entire month	ORGANIZATION	DATE
+1.0	project	will raise money in	South Australia state	0	LOCATION
+1.0	project	will raise	money for new chimpanzee enclosure	0	0
+1.0	group	will spend	week-long shift lock during zoo 's opening hour	0	0
+1.0	group	will spend	week-long shift lock in enclosure	0	0
+1.0	group	will spend	week-long shift lock in enclosure with public	0	0
+0.8577882532988177	way	improve living condition for	great ape	0	0
+1.0	public display	be in	one	0	NUMBER
+1.0	australian zoo	put human on	public display in one its enclosure	0	NUMBER
+1.0	the	have	idea	O	O
+1.0	humans	have	Groups	O	O
+1.0	Six humans	have	brains	O	O
+1.0	University	be spend at_time	month	ORGANIZATION	DATE
+1.0	zoo	be claim	world	0	0
+1.0	australian zoo	put human on	public display	0	0
+1.0	zoo	put human on	public display	0	0
+0.8577882532988177	way	improve living condition for	captive great ape	0	0
+1.0	Part of what I do at the zoo	be	stare	0	DURATION
+1.0	zoo	be claim first	world	0	0
+1.0	zoo	put	human	0	0
+1.0	group	will spend	shift lock	0	0
+0.9683273995540607	week-long shift	lock in	enclosure	0	0

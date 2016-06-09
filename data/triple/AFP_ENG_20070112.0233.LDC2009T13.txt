@@ -1,0 +1,73 @@
+1.0	Kurdish rebel leader Abdullah Ocalan	have	PKK	PERSON	ORGANIZATION
+1.0	Kurds	be in	region	MISC	0
+1.0	oppression	have	policies	O	O
+1.0	PKK	declare ceasefire begin	begin October 1	ORGANIZATION	DATE
+1.0	treason	be in	1999	0	DATE
+1.0	Kurdistan Workers	have	Party	ORGANIZATION	ORGANIZATION
+1.0	Ocalan	have say on	several occasion	PERSON	0
+0.8568229474124254	avoid	kind of	turmoil	0	0
+1.0	autonomy	avoid	kind of turmoil see	0	0
+0.9129447633152606	Kurdish rebel leader Abdullah Ocalan	leader of	Kurdistan Workers ' Party	PERSON	ORGANIZATION
+0.6046692291320666	autonomy	resolve	bloody conflict	0	0
+1.0	Turkey Friday	grant	regional autonomy	DATE	0
+0.6046692291320666	regional autonomy	resolve	22-year bloody conflict	0	DURATION
+1.0	Kurdish rebel leader Abdullah Ocalan	say in	statement relay	PERSON	0
+1.0	Kurdish rebel leader Abdullah Ocalan	say in	statement	PERSON	0
+1.0	Turkey Friday	have	community	O	O
+1.0	regional autonomy	avoid	kind of turmoil	0	0
+1.0	country	in	mainly kurdish southeast in bitter conflict	0	0
+1.0	strategic alliance	be with	Kurds	0	MISC
+1.0	it	have	have reject	0	0
+1.0	country	have	southeast	O	O
+1.0	Ocalan	have say since	he capture	PERSON	0
+1.0	Turkey Friday	grant	autonomy	DATE	0
+1.0	autonomy	avoid	kind	0	0
+1.0	regional autonomy	avoid	kind of turmoil see in its war-torn neighbour Iraq	0	LOCATION
+1.0	Kurdish rebel leader Abdullah Ocalan	have	PKK	ORGANIZATION	PERSON
+0.6046692291320666	autonomy	resolve	conflict	0	0
+1.0	Ocalan	have say on	occasion	PERSON	0
+1.0	Ocalan	strengthen	it	PERSON	0
+0.5478681366300027	suggestion	give	degree of autonomy	0	0
+1.0	Turkey Friday	have	neighbour Iraq	LOCATION	O
+0.8568229474124254	avoid	kind of	turmoil see	0	0
+1.0	independence	be in	country 's mainly kurdish southeast	0	0
+1.0	Kurdistan Workers ' Party	party be	Ocalan 's PKK	ORGANIZATION	ORGANIZATION
+1.0	PKK	find	peaceful resolution	ORGANIZATION	0
+1.0	regional autonomy	avoid	kind	0	0
+1.0	regional autonomy	avoid	kind of turmoil see in its neighbour Iraq	0	LOCATION
+1.0	autonomy	avoid	kind of turmoil see in its neighbour Iraq	0	LOCATION
+1.0	kurdish rebel leader Abdullah Ocalan	urge	Turkey Friday	PERSON	DATE
+1.0	regional autonomy	avoid	kind of turmoil see	0	0
+1.0	Kurdish rebel leader Abdullah Ocalan	have	lawyers	O	O
+1.0	turmoil	have	kind	O	O
+0.9129447633152606	Kurdish rebel leader Abdullah Ocalan	leader of	outlawed Kurdistan Workers ' Party	PERSON	ORGANIZATION
+1.0	Imrali	have	prison island	O	LOCATION
+1.0	his	have	capture	O	O
+0.022365932509734954	PKK	declare begin	begin October 1	ORGANIZATION	DATE
+1.0	Abdullah Ocalan	be	kurdish	PERSON	0
+1.0	Turkey	have	integrity	O	LOCATION
+0.6046692291320666	regional autonomy	resolve	conflict	0	0
+1.0	autonomy	avoid	kind of turmoil see in its war-torn neighbour Iraq	0	LOCATION
+1.0	Ocalan	have say since	he capture for treason	PERSON	0
+1.0	Party	have	leader	O	ORGANIZATION
+1.0	their	have	policies	O	O
+0.6046692291320666	regional autonomy	resolve	22-year conflict	0	DURATION
+1.0	its	have	community	O	O
+1.0	Turkey	have	territory	O	O
+1.0	his lawyers	have	autonomy	O	O
+1.0	autonomy	avoid	kind of turmoil	0	0
+1.0	Ocalan	have say since	he capture for treason in 1999	PERSON	DATE
+0.6046692291320666	autonomy	resolve	22-year conflict	0	DURATION
+0.6046692291320666	regional autonomy	resolve	bloody conflict	0	0
+1.0	country 's kurdish southeast	be in	bitter conflict	0	0
+1.0	it	have	have reject by Turkey	0	LOCATION
+0.8568229474124254	avoid	kind of	turmoil see in its war-torn neighbour Iraq	0	LOCATION
+1.0	rebel leader Abdullah Ocalan	urge	Turkey Friday	PERSON	DATE
+1.0	PKK	find resolution to	conflict	ORGANIZATION	0
+1.0	Kurdish rebel leader Abdullah Ocalan	leader of	Kurdistan Workers ' Party	PERSON	ORGANIZATION
+0.6046692291320666	autonomy	resolve	22-year bloody conflict	0	DURATION
+1.0	autonomy	have	degree	O	O
+0.9129447633152606	Kurdish rebel leader Abdullah Ocalan	leader of	Ocalan 's PKK	PERSON	ORGANIZATION
+1.0	PKK	find	resolution	ORGANIZATION	0
+0.8568229474124254	avoid	kind of	turmoil see in its neighbour Iraq	0	LOCATION
+1.0	interlocutor	be in	kurdish conflict	0	0

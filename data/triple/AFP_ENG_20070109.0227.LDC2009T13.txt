@@ -1,0 +1,39 @@
+0.7169202987522189	surgery	correct hammer toe condition on	he left foot	0	0
+1.0	Jim Edmonds	be	the Cardinals	PERSON	ORGANIZATION
+1.0	he	undergo surgery on	he right shoulder	0	0
+1.0	Edmonds	hit	.257	PERSON	NUMBER
+1.0	Cardinals outfielder Jim Edmonds	have	operation	O	O
+1.0	Jim Edmonds	be outfielder of	the Cardinals	PERSON	ORGANIZATION
+1.0	rbi	be in	1,697 career game with Anaheim Louis	0	LOCATION
+1.0	Cardinals outfielder Jim Edmonds	have	right shoulder	O	O
+1.0	Cardinals outfielder Jim Edmonds	ink	two-year contract extension	PERSON	DURATION
+1.0	Cardinals outfielder Jim Edmonds	drive in	four run	PERSON	NUMBER
+1.0	he	undergo surgery at_time	five day	0	DATE
+0.7169202987522189	surgery	correct	hammer toe condition of second toe	0	ORDINAL
+1.0	1,697 career game	be with	St. Louis	NUMBER	LOCATION
+0.7169202987522189	surgery	correct hammer toe condition on	he foot	0	0
+1.0	he	undergo surgery on	he balky right shoulder	0	0
+1.0	team	have	list	O	O
+1.0	Cardinals outfielder Jim Edmonds	have	surgery	PERSON	0
+1.0	Edmonds	have	.289 lifetime average	PERSON	NUMBER
+1.0	Cardinals outfielder Jim Edmonds	have	foot	O	O
+1.0	St. Louis	be on	November 10	LOCATION	DATE
+0.542071105027755	Cardinals outfielder Jim Edmonds	surgery on	he foot	PERSON	0
+1.0	Cardinals outfielder Jim Edmonds	ink	contract extension	PERSON	0
+1.0	Cardinals outfielder Jim Edmonds	drive in	four run in National League Championship Series	PERSON	MISC
+1.0	four run	be in	National League Championship Series	NUMBER	MISC
+1.0	Cardinals outfielder Jim Edmonds	have surgery on	Tuesday	PERSON	DATE
+1.0	he	undergo	surgery	0	0
+1.0	he	undergo	arthroscopic surgery	0	0
+1.0	he	undergo surgery at_time	five day later	0	DATE
+1.0	Edmonds	have	.289 lifetime	PERSON	NUMBER
+0.7169202987522189	surgery	correct	hammer toe condition of toe	0	0
+1.0	game	have	center fielders	O	O
+1.0	toe	have	hammer toe condition	O	O
+1.0	Cardinals outfielder Jim Edmonds	bat	.250	PERSON	NUMBER
+1.0	center fielders	have	one	NUMBER	O
+1.0	game	of	best defensive center fielder	0	0
+0.7169202987522189	surgery	correct	hammer toe condition	0	0
+0.542071105027755	Cardinals outfielder Jim Edmonds	surgery on	he left foot	PERSON	0
+1.0	Cardinals outfielder Jim Edmonds	have	surgery on he left foot	PERSON	0
+1.0	Cardinals outfielder Jim Edmonds	have	surgery on he foot	PERSON	0

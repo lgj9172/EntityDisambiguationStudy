@@ -1,0 +1,165 @@
+1.0	captain Graeme Smith	lead	confident south response	PERSON	0
+1.0	AB de Villiers	be	Sreesanth 's 17th victim of series	ORGANIZATION	ORDINAL
+1.0	the hard-hitting Virender Sehwag	resume out on	28	0	NUMBER
+1.0	his	have	boundary	O	O
+1.0	game	have	looked	O	O
+1.0	leg stump	have	out spin	O	O
+1.0	captain Graeme Smith	lead	african response	PERSON	0
+1.0	he	hit	11 fours	0	NUMBER
+1.0	Smith	play particularly against	leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Harris	have	caught	O	PERSON
+1.0	his	have	balance	O	O
+1.0	India	have	innings	O	LOCATION
+1.0	edge	have	Dinesh Karthik	PERSON	O
+1.0	Sourav Ganguly	be	hit	PERSON	0
+1.0	Dale Steyn	bowl	VVS Laxman for 13	PERSON	NUMBER
+1.0	Ganguly	put	Virender Sehwag	PERSON	PERSON
+1.0	India	to	first inning of 414	LOCATION	ORDINAL
+1.0	Ganguly	put	hard-hitting Virender Sehwag	PERSON	PERSON
+1.0	India	lose	they last five wicket for 19 run	LOCATION	NUMBER
+1.0	South Africa	be	144 for one at close to India 's first inning of 414	LOCATION	LOCATION
+1.0	Ganguly	put in	49 minute for wicket	PERSON	DURATION
+1.0	African captain Graeme Smith	lead	south response	PERSON	0
+1.0	Smith	play particularly against	leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	India	have	tailenders	O	LOCATION
+1.0	day	have	boundary	O	DATE
+1.0	balls	have	reached	O	O
+1.0	Ganguly	put in	49 minute	PERSON	DURATION
+1.0	AB de Villiers	be catch behind	behind Dinesh Karthik off edge	ORGANIZATION	PERSON
+1.0	AB de Villiers	be	Sreesanth 's victim	ORGANIZATION	PERSON
+1.0	African captain Graeme Smith	lead	south african response	PERSON	0
+1.0	innings	have	ball	O	O
+1.0	he	require	treatment	0	0
+1.0	balls	have	fifty	NUMBER	O
+1.0	right-hander	outside	leg stump	0	0
+1.0	Shanthakumaran Sreesanth	strike	blow	0	0
+1.0	Sreesanth	have	17th victim of series	PERSON	ORDINAL
+1.0	Pollock	have	persistence	PERSON	0
+1.0	captain Graeme Smith	lead	response	PERSON	0
+1.0	Shanthakumaran Sreesanth	strike blow for	India	0	LOCATION
+1.0	India	have	danger man	O	LOCATION
+1.0	Tendulkar	start in	watchful mode	PERSON	0
+1.0	his	have	innings	O	O
+1.0	South Africa	be	144 for one at close to India 's first inning	LOCATION	LOCATION
+1.0	Smith	play against	leg-spinner Anil Kumble	PERSON	PERSON
+1.0	he	reach	he fifty off 125 ball	0	NUMBER
+1.0	ball	have	slip	O	O
+1.0	Pollock	have	persistence	O	PERSON
+1.0	Smith	play against	indian leg-spinner Anil Kumble	PERSON	PERSON
+0.8472345865432953	series	lock at	1-1	0	NUMBER
+1.0	South Africa	be	able	LOCATION	0
+1.0	Smith	put	Hashim Amla not out	PERSON	PERSON
+1.0	Ganguly	go for	he shot	PERSON	0
+1.0	Smith	play against	indian leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	Smith	play positively against	leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	Sehwag	have	dismissal	O	O
+1.0	Ganguly	hit	six over long-on	PERSON	NUMBER
+1.0	Sourav Ganguly	make	66	PERSON	NUMBER
+1.0	The left-handed Smith	have	half-century	O	O
+1.0	African captain Graeme Smith	lead	confident south response	PERSON	0
+1.0	AB de Villiers	be catch	Sreesanth 's 17th victim of series	ORGANIZATION	ORDINAL
+1.0	AB de Villiers	be catch behind	behind Dinesh Karthik off inside edge	ORGANIZATION	PERSON
+1.0	Sachin Tendulkar	earlier make	Sourav Ganguly	PERSON	PERSON
+1.0	his	have	wicket	O	O
+1.0	south African captain Graeme Smith	lead	response	PERSON	0
+1.0	Harris four	have	hit	O	PERSON
+1.0	Shaun Pollock	have	bowling	O	PERSON
+1.0	close	be in	reply	0	0
+1.0	Smith	put for	second wicket	PERSON	ORDINAL
+1.0	Anil Kumble	be against	indian	PERSON	0
+1.0	balls	have	made	O	O
+1.0	Test	have	day	DATE	O
+1.0	series	have	victim	O	O
+1.0	Smith	play positively against	indian leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	south African captain Graeme Smith	lead	south response	PERSON	0
+1.0	Smith	play against	leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	he	trap	Kumble leg	0	PERSON
+1.0	Smith	play particularly positively against	leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	Zaheer Khan	lose	he balance	PERSON	0
+1.0	Smith	play particularly positively against	leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Kumble	bowl into	rough patch outside right-hander 's leg stump	PERSON	0
+1.0	Smith	put	Hashim Amla	PERSON	PERSON
+1.0	Kumble	bowl into	patch outside right-hander 's leg stump	PERSON	0
+1.0	Smith	play particularly positively against	indian leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Dale Steyn	bowl	VVS Laxman	PERSON	0
+1.0	African captain Graeme Smith	lead	african response	PERSON	0
+1.0	South Africa	be	only able	LOCATION	0
+1.0	south African captain Graeme Smith	lead	confident south african response	PERSON	0
+1.0	he	reach	he half-century	0	0
+1.0	Tendulkar	edge	it	PERSON	0
+1.0	Smith	play particularly against	indian leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	Smith	put for	wicket	PERSON	0
+1.0	south African captain Graeme Smith	lead	south african response	PERSON	0
+1.0	he	concede	39 run	0	NUMBER
+1.0	captain Graeme Smith	lead	south response	PERSON	0
+1.0	Tendulkar	start in	mode	PERSON	0
+1.0	South Africa	be	144 for one at close in reply to India 's inning of 414	LOCATION	LOCATION
+1.0	AB de Villiers	be catch	Sreesanth 's victim	ORGANIZATION	PERSON
+1.0	Harris	have	hold	O	PERSON
+1.0	ball	have	opened	O	O
+1.0	39 run	be in	12 over	NUMBER	NUMBER
+1.0	India	lose	they last five wicket	LOCATION	NUMBER
+1.0	half-century	be in	second test	0	ORDINAL
+1.0	the hard-hitting Virender Sehwag	resume on	28	0	NUMBER
+1.0	AB de Villiers	be catch	Sreesanth 's victim of series	ORGANIZATION	PERSON
+1.0	South Africa	be	144 for one at close to India 's inning	LOCATION	LOCATION
+1.0	he	concede	39 run in 12 over	0	NUMBER
+1.0	Sehwag 's dismissal	spark	collapse	PERSON	0
+1.0	Smith	play positively against	indian leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Kumble	bowl into	patch	PERSON	0
+1.0	he	bat by	close	0	0
+1.0	AB de Villiers	be catch behind	behind Dinesh Karthik	ORGANIZATION	PERSON
+1.0	Sourav Ganguly	be hit on	helmet	PERSON	0
+1.0	ball	have	use	O	O
+1.0	Sehwag	have	dismissal	PERSON	0
+1.0	captain Graeme Smith	lead	south african response	PERSON	0
+1.0	morning	have	came	O	TIME
+1.0	south African captain Graeme Smith	lead	confident south response	PERSON	0
+1.0	The left-handed Smith	have	score	NUMBER	O
+1.0	Amla	have	runs	O	PERSON
+1.0	south African captain Graeme Smith	lead	african response	PERSON	0
+1.0	South Africa	be	144 for one at close in reply to India 's first inning	LOCATION	LOCATION
+1.0	AB de Villiers	be catch	Sreesanth 's 17th victim	ORGANIZATION	ORDINAL
+1.0	AB de Villiers	be	catch	ORGANIZATION	0
+1.0	414	have	innings	O	NUMBER
+1.0	their	have	wickets	O	O
+1.0	he	bat for	180 minute	0	DURATION
+1.0	India	lose	they five wicket for 19 run	LOCATION	NUMBER
+1.0	he	open	he score	0	NUMBER
+1.0	African captain Graeme Smith	lead	confident south african response	PERSON	0
+1.0	Smith	play particularly positively against	indian leg-spinner Anil Kumble expect	PERSON	PERSON
+1.0	Ganguly	put on	58	PERSON	NUMBER
+1.0	he	require treatment on	field	0	0
+1.0	spinner Paul Harris	have	bowling	O	PERSON
+1.0	captain Graeme Smith	lead	confident south african response	PERSON	0
+1.0	Smith	play particularly against	indian leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Sachin Tendulkar	make	Sourav Ganguly	PERSON	PERSON
+1.0	Wasim Jaffer	be	Indian	PERSON	LOCATION
+1.0	Smith	play positively against	leg-spinner Anil Kumble	PERSON	PERSON
+1.0	Kumble	bowl into	rough patch	PERSON	0
+1.0	Shanthakumaran Sreesanth	strike	early blow	0	0
+1.0	his	have	shots	O	O
+1.0	South Africa	be	144 for one at close in reply to India 's inning	LOCATION	LOCATION
+1.0	he	bowl	maiden	0	0
+1.0	Sreesanth	have	victim	O	PERSON
+1.0	right-hander	have	leg stump	O	O
+1.0	Sourav Ganguly	duck into	Steyn bouncer	PERSON	PERSON
+1.0	South Africa	be	144 for one at close to India 's inning of 414	LOCATION	LOCATION
+1.0	India	but	tailender	LOCATION	0
+1.0	India	have	danger man on pitch	LOCATION	0
+1.0	series	have	innings	O	O
+1.0	balls	have	raced	O	O
+1.0	second test	be in	Durban	ORDINAL	LOCATION
+1.0	Ganguly	put in	49 minute for sixth wicket	PERSON	DURATION
+1.0	Graeme Smith	be	south African	PERSON	MISC
+1.0	Smith	put on	unbeaten 130	PERSON	NUMBER
+1.0	India	lose	they five wicket	LOCATION	NUMBER
+1.0	African captain Graeme Smith	lead	response	PERSON	0
+1.0	AB de Villiers	be	Sreesanth 's 17th victim	ORGANIZATION	ORDINAL
+1.0	Amla	have	first run	PERSON	ORDINAL
+1.0	South Africa	be	144 for one at close in reply to India 's first inning of 414	LOCATION	LOCATION
+1.0	Smith	put	Hashim Amla 50 not out	PERSON	PERSON
+1.0	Kumble	trouble	The left-handed Smith	PERSON	PERSON
+1.0	AB de Villiers	be	Sreesanth 's victim of series	ORGANIZATION	PERSON
+1.0	his	have	fifty	NUMBER	O
+1.0	his	have	half-century	O	O

@@ -1,0 +1,55 @@
+1.0	Prime Minister Dominique de Villepin	be person in	race	0	0
+1.0	division	derail	he bid	0	0
+1.0	victory	be in	ballot	0	0
+1.0	animosity	be with	presidential hopeful Nicolas Sarkozy	0	PERSON
+1.0	supporter	urge	Villepin	0	PERSON
+1.0	Sarkozy	continue neck	and-neck with candidate Segolene Royal	PERSON	PERSON
+1.0	presidential hopeful Nicolas Sarkozy	have	rival	O	O
+1.0	his	have	ideas	O	O
+1.0	Villepin	endorse	other ally of President Jacques Chirac	PERSON	PERSON
+0.23597688364101307	he bid	glare division within	rule party	0	0
+1.0	his	have	vote	O	O
+1.0	victory	have	certain	O	O
+1.0	Sarkozy	continue neck	and-neck with socialist candidate Segolene Royal	PERSON	PERSON
+1.0	Villepin	endorse	he campaign	PERSON	0
+1.0	his	have	bid	O	O
+1.0	UMP deputies	have	fury	O	O
+1.0	congress	be in	Paris	0	LOCATION
+1.0	Union	have	ballot	O	O
+1.0	presidential hopeful Nicolas Sarkozy	be certain of	victory	PERSON	0
+0.23597688364101307	he bid	glare division within	party	0	0
+1.0	Prime Minister Dominique de Villepin	be	person	0	0
+1.0	Villepin	endorse	other ally	PERSON	0
+1.0	Villepin	endorse	ally	PERSON	0
+1.0	Sarkozy	continue	and-neck with candidate Segolene Royal	PERSON	PERSON
+1.0	Sarkozy	continue	and-neck	PERSON	0
+1.0	glare division	derail	he bid	0	0
+1.0	Sarkozy	continue	and-neck with socialist candidate Segolene Royal	PERSON	PERSON
+1.0	Sarkozy	continue neck	and-neck	PERSON	0
+1.0	Dominique de Villepin	over	good faith	PERSON	0
+1.0	presidential hopeful Nicolas Sarkozy	be certain of	victory in ballot	PERSON	0
+1.0	party	as	candidate for April presidential	0	DATE
+1.0	Sarkozy	have	Supporters	O	PERSON
+1.0	animosity	have	history	O	O
+1.0	only person	be in	race	0	0
+1.0	his	have	campaign	O	O
+1.0	Prime Minister Dominique de Villepin	be only person in	race	0	0
+1.0	Villepin	endorse	other close ally of President Jacques Chirac	PERSON	PERSON
+1.0	Villepin	endorse	close ally of President Jacques Chirac	PERSON	PERSON
+1.0	and-neck	be with	Segolene Royal	0	PERSON
+1.0	which	have	party leader	O	O
+1.0	Villepin	endorse	close ally	PERSON	0
+0.23597688364101307	he bid	division within	party	0	0
+1.0	intentions	have	percent	PERCENT	O
+1.0	Dominique de Villepin	need	he	PERSON	0
+1.0	President Jacques Chirac	have	allies	O	PERSON
+1.0	Paris	be on	Sunday	LOCATION	DATE
+0.23597688364101307	he bid	division within	rule party	0	0
+1.0	party	have	candidate	O	O
+1.0	Villepin	endorse	other close ally	PERSON	0
+1.0	he rival	be in	ruling centre right	0	0
+1.0	Prime Minister Dominique de Villepin	be	only person	0	0
+1.0	presidential hopeful Nicolas Sarkozy	be	certain	PERSON	0
+1.0	Villepin	endorse	ally of President Jacques Chirac	PERSON	PERSON
+1.0	Dominique de Villepin	need too	he	PERSON	0
+1.0	Dominique Villepin	have	faith	O	PERSON

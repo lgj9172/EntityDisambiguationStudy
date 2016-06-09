@@ -1,0 +1,12 @@
+1.0	three-day trip	be in	Riyadh	DATE	LOCATION
+1.0	Italy	have	top diplomat	LOCATION	0
+1.0	foreign ministry	say at_time	Wednesday	0	DATE
+1.0	italian Trade Minister Emma Bonino	visit	UAE in October	PERSON	LOCATION
+1.0	Italy	have	diplomat	O	LOCATION
+1.0	italian Trade Minister Emma Bonino	visit	the United Arab Emirates	PERSON	LOCATION
+1.0	the United Arab Emirates	be in	October	LOCATION	DATE
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	Emma Bonino	be	italian	PERSON	0
+1.0	Trade Minister Emma Bonino	visit	UAE in October	PERSON	LOCATION
+1.0	ministry	say at_time	Wednesday	0	DATE
+1.0	Trade Minister Emma Bonino	visit	the United Arab Emirates	PERSON	LOCATION

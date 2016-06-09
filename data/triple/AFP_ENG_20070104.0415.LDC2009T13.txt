@@ -1,0 +1,12 @@
+1.0	women	have	World Cup Alpine Skiing slalom race	O	O
+1.0	Czech Republic	have	Ana Jelusic	PERSON	LOCATION
+1.0	Croatia	have	Ana Jelusic	PERSON	LOCATION
+1.0	Austria	have	Marlies Schild	LOCATION	PERSON
+1.0	Sarka Zahrobska	have	Thursday	DATE	PERSON
+1.0	Ana Jelusic	have	Thursday	DATE	PERSON
+1.0	Austria 's Marlies Schild	win	woman 's World Cup Alpine skiing slalom race	PERSON	MISC
+1.0	Austria	have	Marlies Schild	PERSON	LOCATION
+1.0	Austria 's Marlies Schild	win here	woman 's World Cup Alpine skiing slalom race	PERSON	MISC
+1.0	Croatia	of	Ana Jelusic	LOCATION	PERSON
+1.0	Ana Jelusic	be of	Czech Republic	PERSON	LOCATION
+1.0	woman	have	World Cup Alpine skiing slalom race	0	MISC

@@ -1,0 +1,88 @@
+1.0	aides	have	one	NUMBER	O
+1.0	donor	call	firm	0	0
+1.0	DRC	in	huge mineral wealth	ORGANIZATION	0
+1.0	political party	be in	the vast DRC	0	ORGANIZATION
+0.8488957724118811	unelected transitional one	form in	2003	NUMBER	DATE
+1.0	analyst	predict team because of	lobby with interest in power	0	0
+1.0	former rebel leader Jean-Pierre Bemba	be one	renowned political player uninterested in government job	PERSON	0
+1.0	foreign donor	have call for	administration	0	0
+1.0	resources	have	looting	O	O
+1.0	whose defeat	lead in	Kinshasa	0	LOCATION
+1.0	former rebel leader Jean-Pierre Bemba	be one of	few renowned political player uninterested in government job	PERSON	0
+1.0	DRC	have	mineral wealth	O	ORGANIZATION
+1.0	Kabila	be in	presidential election	PERSON	0
+1.0	foreign donor	have call for	streamlined administration	0	0
+0.9588533191859536	Adolphe Mozitu	secretary-general of	Unified Lumumbist Party	PERSON	ORGANIZATION
+1.0	donor	have call for	streamlined administration	0	0
+1.0	whose defeat	lead to	tense standoff	0	0
+1.0	the vast DRC	be appoint by	President Joseph Kabila	PERSON	PERSON
+1.0	Saturday	have	year	DATE	O
+1.0	President Joseph Kabila in line	have mandate	the vast DRC	PERSON	PERSON
+0.49252692715858765	power	be seize by	dictator Mobutu Sese Seko	0	PERSON
+1.0	deal	reach among	party	0	0
+1.0	staff	say at_time	Tuesday	0	DATE
+0.9588533191859536	Adolphe Mozitu	secretary-general of	PALU	PERSON	ORGANIZATION
+1.0	the vast DRC	be	head	PERSON	0
+1.0	whose	have	defeat	O	O
+1.0	the vast DRC	minister in	democratic republic of Congo	PERSON	LOCATION
+1.0	the vast DRC	spend at_time	many year	PERSON	0
+1.0	power	be in	vast central african country	0	0
+1.0	presidential election	be in	October	0	DATE
+1.0	PALU headquarters	have	working	O	O
+1.0	the vast DRC	form	broad-based government	PERSON	0
+1.0	the vast DRC	be appoint by	President Joseph Kabila in line	PERSON	PERSON
+1.0	the vast DRC	form	government	PERSON	0
+1.0	whose defeat	lead to	tense military standoff	0	0
+1.0	DRC	of	resource	ORGANIZATION	0
+1.0	former rebel leader Jean-Pierre Bemba	acknowledge	defeat	0	0
+1.0	today	in	the vast DRC	DATE	ORGANIZATION
+1.0	lobbies	have	predict	O	O
+1.0	the vast DRC	be	appoint	PERSON	0
+1.0	today	have	the vast DRC	ORGANIZATION	DATE
+1.0	the vast DRC	have	offices	O	O
+0.8488957724118811	unelected transitional one	form under	un-supervised process	NUMBER	0
+1.0	Patrice Lumumba	have	heritage	O	PERSON
+0.8488957724118811	unelected transitional one	form under	long process	NUMBER	0
+1.0	players	have	one	NUMBER	O
+1.0	Congo river	have	banks	O	O
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	the vast DRC	replace	unelected transitional one	PERSON	NUMBER
+0.49252692715858765	power	be	seize	0	0
+1.0	UN	publish report into	looting of DRC 's resource	ORGANIZATION	ORGANIZATION
+1.0	Kabila	have	supporter	PERSON	0
+0.8488957724118811	unelected transitional one	form under	process	NUMBER	0
+1.0	the vast DRC	be	appoint on Saturday by President Joseph Kabila in line	PERSON	DATE
+1.0	donor	have call for	administration	0	0
+1.0	conflict	have	history	O	O
+1.0	the vast DRC	be	appoint on Saturday by President Joseph Kabila	PERSON	DATE
+1.0	analyst	be in	Kinshasa	0	LOCATION
+1.0	whose defeat	lead to	military standoff	0	0
+0.8488957724118811	unelected transitional one	form under	long un-supervised process	NUMBER	0
+1.0	Adolphe Mozitu	tell	AFP	PERSON	ORGANIZATION
+1.0	deal	reach among	political party	0	0
+1.0	foreign donor	be with	stake in DRC 's huge mineral wealth	0	ORGANIZATION
+1.0	parties	have	scores	O	O
+1.0	Adolphe Mozitu	secretary-general of	Unified Lumumbist Party	PERSON	ORGANIZATION
+0.49252692715858765	power	be	once seize	0	DATE
+1.0	UN	publish report into	looting	ORGANIZATION	0
+1.0	former rebel leader Jean-Pierre Bemba	be one	few renowned political player uninterested in government job	PERSON	0
+1.0	DRC	have	resources	O	ORGANIZATION
+1.0	new prime minister	be in	democratic republic of Congo	0	LOCATION
+1.0	scores	have	Many	O	O
+1.0	President Joseph Kabila in line	say at	weekend	PERSON	DATE
+1.0	the vast DRC	be appoint on	Saturday	PERSON	DATE
+1.0	Kabila	have	supporters	O	PERSON
+1.0	the vast DRC	have	aides	O	O
+1.0	administration	have	Staff	O	O
+1.0	deputy prime minister	be in	first government	0	ORDINAL
+1.0	stake	be in	DRC 's huge mineral wealth	0	ORGANIZATION
+1.0	President Joseph Kabila in line	nevertheless say at	weekend	PERSON	DATE
+1.0	independence	be in	1960	0	DATE
+1.0	former rebel leader Jean-Pierre Bemba	be one of	renowned political player uninterested in government job	PERSON	0
+1.0	foreign donor	call	firm	0	0
+1.0	Joseph Kabila	be in	line	PERSON	0
+1.0	the vast DRC	spend at_time	year	PERSON	0
+1.0	whose defeat	lead to	standoff	0	0
+1.0	UN	publish	report	ORGANIZATION	0
+0.49252692715858765	power	once be seize by	dictator Mobutu Sese Seko	0	PERSON
+1.0	Unified Lumumbist Party	have	secretary-general	O	ORGANIZATION

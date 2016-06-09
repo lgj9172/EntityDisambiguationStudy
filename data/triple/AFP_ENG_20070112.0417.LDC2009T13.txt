@@ -1,0 +1,44 @@
+1.0	Information Society	be in	2005	ORGANIZATION	DATE
+0.8161410504069134	176 country	attend	event	NUMBER	0
+1.0	Hamadoun Toure	argue for	better cooperation between organisation	PERSON	0
+1.0	formal declaration	underline need to	respect freedom of expression	0	0
+1.0	head	say at_time	Friday	0	DATE
+1.0	Hamadoun Toure	ask about	control on internet	PERSON	0
+1.0	declaration	underline	need	0	0
+1.0	dissidents	have	Internet	MISC	O
+1.0	Hamadoun Toure	argue for	cooperation	PERSON	0
+1.0	Hamadoun Toure	argue like	the Internet Corporation for Assigned Names and Numbers -LRB- ICANN -RRB-	PERSON	ORGANIZATION
+1.0	information	have	freedom	O	O
+1.0	International Telecommunication Union	have	mandate	O	ORGANIZATION
+1.0	Hamadoun Toure	ask about	control	PERSON	0
+1.0	US private body managing global website allocation	corporation for	Internet Corporation for Assigned Names and Numbers	LOCATION	ORGANIZATION
+1.0	declaration	underline need to	respect freedom of expression	0	0
+1.0	the UN agency	have	own	O	O
+1.0	expression	have	respect freedom	O	O
+1.0	web	be in	country like China	0	LOCATION
+1.0	formal declaration	underline need in	technology	0	0
+1.0	Hamadoun Toure	argue for	cooperation between organisation	PERSON	0
+1.0	Hamadoun Toure	argue for	better cooperation	PERSON	0
+1.0	ITU	have	secretary general	O	ORGANIZATION
+1.0	new head	say at_time	Friday	0	DATE
+1.0	content	have	question	O	O
+1.0	formal declaration	underline need in	new technology	0	0
+1.0	UN	have	International Telecommunication Union	ORGANIZATION	ORGANIZATION
+1.0	expression	have	Freedom	O	O
+1.0	agency	have	priority	O	O
+1.0	then	call on	participant	0	0
+1.0	declaration	underline need in	technology	0	0
+1.0	standards	have	ensure'	O	O
+1.0	agency	have	priority	0	0
+1.0	expression	have	freedom	O	O
+1.0	participants	have	efforts	O	O
+1.0	formal declaration	underline need to	respect freedom	0	0
+1.0	declaration	underline need to	respect freedom	0	0
+1.0	UN	during	World Summit on Information Society in 2005	ORGANIZATION	ORGANIZATION
+1.0	declaration	underline need in	new technology	0	0
+1.0	International Telecommunication Union	have	head	O	ORGANIZATION
+1.0	formal declaration	underline	need	0	0
+1.0	communications infrastructure	have	functioning	O	O
+1.0	UN	have	World Summit	O	ORGANIZATION
+1.0	UN	of	International Telecommunication Union	ORGANIZATION	ORGANIZATION
+1.0	International Telecommunication Union	be	Hamadoun Toure	ORGANIZATION	PERSON

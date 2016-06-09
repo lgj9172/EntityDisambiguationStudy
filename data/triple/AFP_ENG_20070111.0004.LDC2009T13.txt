@@ -1,0 +1,21 @@
+1.0	Open	have	staging	O	MISC
+1.0	Tour season	have	event	O	O
+1.0	Karachi	be  at_time	next week	LOCATION	DATE
+1.0	Tour season	have	leg	O	O
+1.0	Karachi	be with	Pakistan Open	LOCATION	MISC
+1.0	organiser	delay	due	0	0
+1.0	event	be set	play	0	0
+1.0	Prize money	have	have boost by 100,000 US dollar	0	MONEY
+1.0	Open	will	will now third leg	MISC	DATE
+1.0	event	be	set	0	0
+1.0	Open	will	will leg	MISC	0
+1.0	event	have	details	O	O
+1.0	organiser	delay	due to detail	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	event	be	play	0	0
+1.0	Open	will	will now leg	MISC	DATE
+1.0	Prize money	have	have boost to 300,000 dollar	0	MONEY
+1.0	Prize money	have	have boost by 100,000 US dollar to 300,000 dollar	0	MONEY
+1.0	Prize money	have	have boost	0	0
+1.0	staging	be	successful	0	0
+1.0	Open	will	will third leg	MISC	ORDINAL

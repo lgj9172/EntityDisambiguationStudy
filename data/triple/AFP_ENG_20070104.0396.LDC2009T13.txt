@@ -1,0 +1,37 @@
+1.0	Moreno estate	's attorney be	Barry Novack	PERSON	PERSON
+1.0	Moreno	have complain of	headache	PERSON	0
+1.0	Disney	design attraction with	jarring jump	ORGANIZATION	0
+1.0	Moreno estate	have	attorney	O	O
+1.0	Moreno	go on	ride	PERSON	0
+1.0	roller coaster	have	ups	O	O
+1.0	attraction	be	safe	0	0
+1.0	Disney 's theme park	be in	Anaheim	ORGANIZATION	LOCATION
+1.0	Gary Wolensky	be attorney of	Disneyland	PERSON	ORGANIZATION
+1.0	the 23-year-old	have	honeymoon	O	O
+1.0	lawsuit	claim	wrongful death	0	0
+1.0	woman 's death	be	unrelated	0	0
+1.0	Disney	at	theme park in Anaheim	ORGANIZATION	LOCATION
+1.0	Cristina Moreno	die in	September 2000	PERSON	DATE
+0.5364679287262402	Disney	envelope to	extreme	ORGANIZATION	0
+1.0	settlement	have	terms	O	O
+1.0	lawyer	say at_time	Thursday	0	DATE
+1.0	Disney	be in	2001	ORGANIZATION	DATE
+1.0	Adventureland	have	part	O	LOCATION
+1.0	Moreno estate	have	attorney	PERSON	0
+1.0	lawsuit	claim	death	0	0
+1.0	Disney	push	envelope	ORGANIZATION	0
+1.0	Disney	have	theme park	O	ORGANIZATION
+1.0	headache	have	complained	O	O
+1.0	tourist	have	family	O	O
+1.0	park	of	Adventureland	0	LOCATION
+1.0	park	have	Adventureland	LOCATION	O
+1.0	woman	have	death	0	0
+1.0	Disney	design	attraction	ORGANIZATION	0
+1.0	woman	have	death	O	O
+1.0	Moreno	have complain accord to	suit	PERSON	0
+1.0	Disney	design attraction with	jump	ORGANIZATION	0
+1.0	Cristina Moreno	have	family	O	O
+1.0	Disney	push	envelope to extreme	ORGANIZATION	0
+1.0	Los Angeles	have	south	O	LOCATION
+1.0	Moreno	have complain of	severe headache	PERSON	0
+1.0	Gary Wolensky	be	Disneyland	PERSON	ORGANIZATION

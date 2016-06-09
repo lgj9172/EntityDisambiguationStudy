@@ -1,0 +1,45 @@
+1.0	Defense Secretary Robert Gates	make	announcement	PERSON	0
+1.0	Defense Secretary Robert Gates	make announcement at	White House along with Secretary of State Condoleezza Rice of Staff	PERSON	PERSON
+1.0	US military	woman in	uniform	LOCATION	0
+1.0	Pentagon	send	army reserve troops	ORGANIZATION	0
+1.0	gate	have	report announcement	0	0
+1.0	Joint Chiefs	have	head	O	ORGANIZATION
+1.0	Defense Secretary Robert Gates	make announcement at	White House along with Secretary	PERSON	LOCATION
+1.0	the Joint Chiefs	of house be	Peter Pace	ORGANIZATION	PERSON
+1.0	Defense Secretary Robert Gates	make announcement at	White House	PERSON	LOCATION
+1.0	Defense Secretary Robert Gates	will also present	plan	PERSON	0
+1.0	state governors	have	control	O	O
+1.0	one million men	have	bulk	O	O
+1.0	Defense Secretary Robert Gates	make announcement at	White House along	PERSON	LOCATION
+1.0	Defense Secretary Robert Gates	make announcement at	White House along with Secretary of State Condoleezza Rice	PERSON	PERSON
+1.0	gate 's report announcement	will come at_time	one day	0	DURATION
+1.0	soldiers	have	US force	O	O
+1.0	Defense Secretary Robert Gates	will present	plan	PERSON	0
+1.0	woman	be in	uniform	0	0
+1.0	duty US army	have	size	O	O
+1.0	Defense Secretary Robert Gates	make announcement at	General Peter Pace	PERSON	PERSON
+1.0	132,000 soldiers in Iraq	troops	army	0	0
+1.0	President George W. Bush	increase	US force of 132,000 soldier	0	LOCATION
+1.0	White House	be of	the Joint Chiefs	LOCATION	ORGANIZATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	President George W. Bush	increase	US force	0	LOCATION
+1.0	Defense Secretary Robert Gates	make announcement at	White House of Staff	PERSON	ORGANIZATION
+1.0	Defense Secretary Robert Gates	make announcement at	White House along of Staff	PERSON	ORGANIZATION
+1.0	132,000 soldier	be in	Iraq	NUMBER	LOCATION
+1.0	Pentagon	send army reserve troops into	active duty	ORGANIZATION	0
+1.0	President George W. Bush	increase us force by	some 21,000	0	NUMBER
+1.0	increase	have	size	O	O
+1.0	Defense Secretary Robert Gates	make announcement at	White House along with Secretary of Staff	PERSON	ORGANIZATION
+1.0	the Marines	have	size	O	O
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Pentagon	send army reserve troops accord to	Fox	ORGANIZATION	PERSON
+1.0	Gate	have	announcement	O	O
+1.0	Pentagon	send army reserve troops into	duty	ORGANIZATION	0
+1.0	Staff	have	White House	LOCATION	ORGANIZATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	President George W. Bush	increase	US force of 132,000 soldier in Iraq	0	LOCATION
+1.0	US military	have	size	O	O
+1.0	Defense Secretary Robert Gates	make	announcement at morning appearance	PERSON	TIME
+1.0	132,000 soldiers in Iraq	have	troops	O	O
+1.0	gate 's announcement	will come at_time	one day	0	DURATION

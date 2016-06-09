@@ -1,0 +1,26 @@
+1.0	Jet Airways	say at_time	Tuesday	LOCATION	DATE
+1.0	India 's largest airline	say at_time	Tuesday	LOCATION	DATE
+1.0	India	have	airline	O	LOCATION
+1.0	Jet Airways	run to	48 destination	ORGANIZATION	NUMBER
+1.0	India 's airline	say at_time	Tuesday	LOCATION	DATE
+1.0	Air Sahara	be for	500 million dollar	ORGANIZATION	MONEY
+1.0	Jet Airways ' deal	collapse in	June 2006	ORGANIZATION	DATE
+1.0	airline passenger market	have	half	O	O
+1.0	India	have	largest private airline	LOCATION	0
+1.0	Jet Airways ' deal	collapse over	price	ORGANIZATION	0
+1.0	Jet Airways	run daily around	320 flight	ORGANIZATION	NUMBER
+1.0	Jet Airways	run daily to	48 destination in India	ORGANIZATION	LOCATION
+1.0	Jet Airways	run around	320 flight	ORGANIZATION	NUMBER
+1.0	India	's airline be	Jet Airways	LOCATION	ORGANIZATION
+1.0	Jet Airways ' planned deal	collapse in	June 2006	ORGANIZATION	DATE
+1.0	Jet Airways	run to	48 destination in India	ORGANIZATION	LOCATION
+1.0	Jet Airways	run around	320 schedule flight	ORGANIZATION	NUMBER
+1.0	Jet Airways ' planned deal	collapse amid	row	ORGANIZATION	0
+1.0	787-8	have	buy	O	NUMBER
+1.0	Jet Airways	have	deal	O	ORGANIZATION
+1.0	Jet Airways	run daily around	320 schedule flight	ORGANIZATION	NUMBER
+1.0	48 destination	be in	India 's	NUMBER	LOCATION
+1.0	Jet Airways ' deal	collapse amid	row	ORGANIZATION	0
+1.0	Jet Airways	run daily to	48 destination	ORGANIZATION	NUMBER
+1.0	Jet Airways ' planned deal	collapse over	price	ORGANIZATION	0
+1.0	India 's private airline	say at_time	Tuesday	LOCATION	DATE

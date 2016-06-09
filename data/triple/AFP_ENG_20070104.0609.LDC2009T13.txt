@@ -1,0 +1,40 @@
+1.0	China	abide by	rule	LOCATION	0
+1.0	uranium requirement	will about	by 2020 will 8,000 tonne	DURATION	DATE
+1.0	annual uranium requirement	will about	will 8,000 tonne	SET	NUMBER
+1.0	diplomatic note	be in	Beijing 's	0	LOCATION
+1.0	Beijing	have	power programme	O	LOCATION
+1.0	world	have	known reserve of uranium	0	DURATION
+1.0	fuel	have	shipments	O	O
+1.0	China	build	28 new reactor	LOCATION	NUMBER
+1.0	uranium	have	export	O	O
+1.0	China	build	28 new nuclear reactor	LOCATION	NUMBER
+1.0	annual uranium requirement	will about	by 2020 will 8,000 tonne	SET	DATE
+1.0	notes	have	exchange	O	O
+1.0	Canberra	say at_time	Friday	LOCATION	DATE
+1.0	government	have	standing committee on treaty	0	0
+1.0	government	have	standing committee	O	O
+1.0	China	abide by	rule of International Energy Agency	LOCATION	ORGANIZATION
+1.0	uranium requirement	will about	will 8,000 tonne year	DURATION	DURATION
+1.0	annual uranium requirement	will about	will 8,000 tonne year	SET	DURATION
+1.0	uranium requirement	will about	will 8,000 tonne	DURATION	NUMBER
+1.0	negotiations	have	months	DATE	O
+1.0	Senate committee	be tell at_time	year	ORGANIZATION	DATE
+0.5760411300813398	agreement	sign by	Chinese Premier Wen Jiabao during a visit to Australia	0	PERSON
+1.0	agreement	commit	China	0	LOCATION
+1.0	Non-Proliferation Treaty	have	principles	O	O
+1.0	world	have	reserves	O	O
+1.0	Beijing	have	giant nuclear power programme	LOCATION	0
+1.0	China	build	28 reactor	LOCATION	NUMBER
+1.0	International Energy Agency	have	rules	O	ORGANIZATION
+1.0	Senate committee	be	tell	ORGANIZATION	0
+1.0	China	abide by	rule of International atomic Energy Agency	LOCATION	ORGANIZATION
+1.0	uranium requirement	will about	by 2020 will 8,000 tonne year	DURATION	DATE
+1.0	uranium	have	reserves	O	O
+1.0	China	announce	plan	LOCATION	DURATION
+1.0	force	be in	30 day	0	DURATION
+1.0	Foreign Minister Alexander Downer	say in	statement	PERSON	0
+1.0	exports	have	timing	O	O
+1.0	annual uranium requirement	will about	by 2020 will 8,000 tonne year	SET	DATE
+1.0	Wen Jiabao	be by	chinese	PERSON	0
+1.0	China	build	28 nuclear reactor	LOCATION	NUMBER
+1.0	Senate committee	be tell at_time	last year	ORGANIZATION	DATE

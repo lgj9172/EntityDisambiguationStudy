@@ -1,0 +1,15 @@
+1.0	stadium	be home of	professional B.C. Lions football team	0	ORGANIZATION
+1.0	battalion chief	be with	Vancouver Fire and rescue Services	0	ORGANIZATION
+1.0	stadium	be	home	0	0
+1.0	AFP	be	big	0	0
+1.0	stadium	have	seat for 60,000	0	NUMBER
+1.0	snow	have	blanket	O	O
+1.0	Kirk Lucas	chief with	Vancouver Fire and rescue Services	PERSON	ORGANIZATION
+1.0	Vancouver Fire and rescue Services	be in	western canadian city	ORGANIZATION	0
+1.0	B.C. Lions football team	have	home	O	O
+1.0	aging roof	rip	open	0	0
+1.0	aging roof	slowly begin	deflate	0	0
+1.0	aging roof	begin	deflate	0	0
+1.0	stadium	be home of	B.C. Lions football team	0	ORGANIZATION
+1.0	stadium	have	seat	0	0
+1.0	Kirk Lucas	tell	AFP	PERSON	ORGANIZATION

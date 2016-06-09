@@ -1,0 +1,10 @@
+1.0	army	open	fire	0	0
+1.0	Sidon	be in	Lebanon	LOCATION	LOCATION
+1.0	woman	call for	help	0	0
+1.0	veil woman	be in	car at entrance	0	0
+1.0	a veiled woman	have	veil	O	O
+1.0	army	open fire in	response	0	0
+1.0	Jund al	have	members	O	PERSON
+1.0	injuries	have	reports	O	O
+1.0	lebanese army	be in	the past	0	DATE
+1.0	woman	remove	she veil	0	0

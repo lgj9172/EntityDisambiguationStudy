@@ -1,0 +1,38 @@
+1.0	President Hosni Mubarak	urge	different faction	PERSON	0
+0.4332009986312979	visit	come at	time	0	0
+1.0	egyptian President Hosni Mubarak	urge	different palestinian faction	PERSON	0
+1.0	President Hosni Mubarak	issue call on	Monday	PERSON	DATE
+1.0	Recep Tayyip Erdogan	be	turkish	PERSON	0
+1.0	infighting	have	time	O	O
+1.0	Ahmed Abul Gheit	be	egyptian	PERSON	0
+1.0	Hosni Mubarak	be	egyptian	PERSON	0
+1.0	egyptian President Hosni Mubarak	urge	different faction	PERSON	0
+1.0	egyptian President Hosni Mubarak	urge	palestinian faction	PERSON	0
+1.0	turkish foreign ministry	say at_time	Wednesday	0	DATE
+1.0	Egyptian Foreign Minister Ahmed Abul Gheit	have	stay	O	O
+1.0	turkish ministry	say at_time	Wednesday	0	DATE
+1.0	turkish Prime Minister Recep Tayyip Erdogan	denounce	conflict between two party	PERSON	NUMBER
+1.0	Prime Minister Recep Tayyip Erdogan	denounce	conflict between two party	PERSON	NUMBER
+1.0	Prime Minister Recep Tayyip Erdogan	denounce	conflict	PERSON	0
+1.0	President Hosni Mubarak	issue	similar call	PERSON	0
+1.0	egyptian President Hosni Mubarak	issue	call	PERSON	0
+0.4332009986312979	visit	come at	time of infighting between rival faction	0	DURATION
+1.0	President Hosni Mubarak	urge	faction	PERSON	0
+1.0	Abdullah Gul	be with	turkish	PERSON	0
+1.0	talk	be with	Abdullah Gul	0	PERSON
+0.4332009986312979	visit	come at	time of infighting between faction	0	DURATION
+1.0	ministry	say at_time	Wednesday	0	DATE
+1.0	President Hosni Mubarak	issue	call	PERSON	0
+1.0	Egyptian Foreign Minister Ahmed Abul Gheit	have	counterpart Abdullah Gul	PERSON	O
+1.0	turkish Prime Minister Recep Tayyip Erdogan	denounce	conflict	PERSON	0
+1.0	foreign ministry	say at_time	Wednesday	0	DATE
+1.0	Recep Tayyip Erdogan	be on	Tuesday	PERSON	DATE
+0.4332009986312979	visit	come at	time of infighting between palestinian faction	0	DURATION
+1.0	President Hosni Mubarak	urge	palestinian faction	PERSON	0
+1.0	egyptian President Hosni Mubarak	issue call on	Monday	PERSON	DATE
+1.0	President Hosni Mubarak	urge	different palestinian faction	PERSON	0
+0.4332009986312979	visit	come at	time of infighting	0	0
+1.0	egyptian President Hosni Mubarak	issue	similar call	PERSON	0
+1.0	egyptian President Hosni Mubarak	urge	faction	PERSON	0
+1.0	Palestine	have	name	O	MISC
+0.4332009986312979	visit	come at	time of infighting between rival palestinian faction	0	DURATION

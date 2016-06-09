@@ -1,0 +1,53 @@
+1.0	IEA 's effort	be	restrict	ORGANIZATION	0
+1.0	France	have	Claude Mandil	PERSON	LOCATION
+1.0	agency	have	efforts	O	O
+1.0	France 's Claude Mandil	tell reporter at	foreign correspondent ' Club	0	ORGANIZATION
+1.0	its	have	oil	O	O
+1.0	France 's Claude Mandil	tell	reporter	0	0
+1.0	he	call on	major energy-saving country	0	0
+1.0	The International Energy Agency -LRB- IEA -RRB-	have	executive director	O	O
+1.0	India	have	involvement	O	LOCATION
+1.0	he	call on	energy-saving country	0	0
+0.633593924617174	France 's Claude Mandil	say in	agency 's effort	LOCATION	0
+1.0	IEA 's effort	be restrict without	involvement of China	ORGANIZATION	ORGANIZATION
+1.0	IEA 's effort	be restrict without	involvement	ORGANIZATION	0
+1.0	he	also call on	energy-saving country	0	0
+1.0	IEA	be create	act	ORGANIZATION	0
+1.0	he	call on	country	0	0
+1.0	consuming country	relevance of	IEA	0	ORGANIZATION
+1.0	China	have	involvement	O	LOCATION
+1.0	China	have	stockpile program	O	LOCATION
+1.0	oil	have	energy	O	O
+1.0	days	have	target	O	DURATION
+1.0	he	call on	major country	0	0
+1.0	he	also call on	country	0	0
+1.0	China	have	stockpile program	LOCATION	0
+1.0	the OECD	have	members	O	ORGANIZATION
+1.0	France	have	Claude Mandil	LOCATION	PERSON
+1.0	IEA 's effort	clearly be restrict without	involvement of China	ORGANIZATION	ORGANIZATION
+1.0	he	call on	Japan	0	LOCATION
+1.0	Correspondents	have	Club	ORGANIZATION	ORGANIZATION
+1.0	he	share	its knowledge	0	0
+1.0	IEA	have	members	O	ORGANIZATION
+1.0	Economic Cooperation	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	energy crises	have	experience	O	O
+1.0	IEA	have	effort promote	ORGANIZATION	0
+1.0	he	also call on	major energy-saving country	0	0
+1.0	IEA	have	head	O	ORGANIZATION
+1.0	Development	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	agency	in	effort promote	0	0
+1.0	he	also call on	major country	0	0
+1.0	IEA	be create	act as energy policy advisor	ORGANIZATION	0
+1.0	he	also call on	Japan	0	LOCATION
+1.0	IEA 's effort	clearly be restrict without	involvement	ORGANIZATION	0
+1.0	IEA	be create during	1973-74 oil shock	ORGANIZATION	NUMBER
+1.0	France 's Claude Mandil	tell reporter at	correspondent ' Club	0	ORGANIZATION
+1.0	IEA	have	relevance	O	ORGANIZATION
+1.0	IEA	have	efforts	O	ORGANIZATION
+1.0	IEA	be	create	ORGANIZATION	0
+1.0	IEA	act as	energy policy advisor	ORGANIZATION	0
+1.0	IEA 's effort	be	clearly restrict	ORGANIZATION	0
+1.0	its executive director	say at_time	Friday	0	DATE
+1.0	imports	have	days	DURATION	O
+1.0	Japan	have	knowledge	O	O
+1.0	IEA	have	first non-european head	ORGANIZATION	ORDINAL

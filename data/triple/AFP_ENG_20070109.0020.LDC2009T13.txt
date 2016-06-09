@@ -1,0 +1,23 @@
+1.0	bank	need	autonomous	0	0
+1.0	autonomy	have	bank	O	O
+1.0	Venezuela	's bank be	Domingo Maza Zabala	LOCATION	PERSON
+1.0	Hugo Chavez	have	proposal strip	PERSON	0
+1.0	directors	have	One	NUMBER	O
+1.0	Domingo Maza Zabala	however argue on	Globovision tv	PERSON	ORGANIZATION
+1.0	state	have	purview	O	O
+1.0	Venezuela	of	central bank	LOCATION	0
+1.0	its	have	autonomy	O	O
+1.0	currency	have	value	O	O
+1.0	bank	have	function	O	O
+1.0	local media	report at_time	Tuesday	0	DATE
+1.0	President Hugo Chavez	have	proposal	O	PERSON
+1.0	President Hugo Chavez 's	seek	power	0	0
+1.0	One of the directors of Venezuela 's central bank , Domingo Maza Zabala	have	autonomy	O	O
+1.0	central bank	need	autonomous	0	0
+1.0	bank	have	directors	O	O
+1.0	Domingo Maza Zabala	argue on	Globovision tv	PERSON	ORGANIZATION
+1.0	Globovision TV	have	duties	O	O
+1.0	state	have	organ	O	O
+1.0	President Hugo Chavez 's	nationalize	power sector	0	0
+1.0	Venezuela	have	bank	O	LOCATION
+1.0	media	report at_time	Tuesday	0	DATE

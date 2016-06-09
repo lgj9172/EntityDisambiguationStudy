@@ -1,0 +1,79 @@
+1.0	Moqtada al-Sadr	turn	the hang into sectarian event	LOCATION	DATE
+1.0	Nuri al-Maliki	be on	December 31	PERSON	DATE
+1.0	cleric Moqtada al-Sadr	turn	the hang	LOCATION	DATE
+1.0	Moqtada al-Sadr	turn	the hang into event	LOCATION	DATE
+1.0	hanging	have	have approve by Talabani 's vice president	0	PERSON
+1.0	Saddam	have	execution order	PERSON	0
+1.0	iraqi President Jalal Talabani	distance	Iraqi President Jalal Talabani on Tuesday	PERSON	0
+1.0	statement	also quote	letter write to cabinet	0	0
+1.0	cleric Moqtada al-Sadr	chant	name	LOCATION	0
+1.0	hanging	have	date	O	O
+1.0	Iraqi President Jalal Talabani on Tuesday	have	approval	O	O
+1.0	Article 27 of the law founding this court	have	decisions	O	O
+1.0	Moqtada al-Sadr	chant	name	LOCATION	0
+1.0	Jalal Talabani	be on	Tuesday	PERSON	DATE
+1.0	President Jalal Talabani	distance	Iraqi President Jalal Talabani on Tuesday	PERSON	0
+1.0	Saddam 's execution order	be confirm by	panel	PERSON	0
+1.0	recent hanging	be in	Iraq	0	LOCATION
+1.0	dictator	be hang for	crime against humanity	0	0
+1.0	Saddam	have	execution order	O	PERSON
+1.0	oust dictator	be hang for	crime	0	0
+1.0	cleric Moqtada al-Sadr	turn	the hang into sectarian event	LOCATION	DATE
+1.0	statement	quote	letter write to cabinet	0	0
+1.0	statement	quote	letter	0	0
+1.0	statement	quote	letter write	0	0
+0.5757516096135016	president	restate	he opposition	0	0
+1.0	Moqtada al-Sadr	turn	the	LOCATION	DATE
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	statement	also quote	letter write by Talabani to cabinet	0	PERSON
+1.0	Saddam 's execution order	be confirm on	December 26	PERSON	DATE
+1.0	jurisdiction	have	crimes	O	O
+1.0	Iraqi President Jalal Talabani on Tuesday	be	oppose	0	0
+1.0	Jalal Talabani	be	iraqi	PERSON	0
+1.0	statement	quote	letter write by Talabani	0	PERSON
+1.0	statement	also quote	letter write by Talabani to iraqi cabinet	0	PERSON
+1.0	cleric Moqtada al-Sadr	chant	name of radical shiite	LOCATION	0
+1.0	Iraqi President Jalal Talabani on Tuesday	be	personally oppose	0	0
+1.0	Moqtada al-Sadr	turn	the hang	LOCATION	DATE
+1.0	constitution	have	Article	O	O
+1.0	statement	also quote	letter write to iraqi cabinet	0	0
+1.0	Saddam 's execution order	be	confirm on December 26 by panel	PERSON	DATE
+1.0	law founding	have	Article	O	O
+1.0	court	have	decisions	O	O
+1.0	oust dictator	be hang for	crime against humanity	0	0
+1.0	cleric Moqtada al-Sadr	turn	the hang into event	LOCATION	DATE
+1.0	statement	also quote	letter write	0	0
+1.0	Talabani	have	vice presidents	O	PERSON
+1.0	statement	also quote	letter write by Talabani	0	PERSON
+1.0	Saddam 's execution order	be	confirm	PERSON	0
+1.0	Talabani	by	vice president	PERSON	0
+1.0	that	sentence	Saddam Hussein	0	PERSON
+1.0	hanging	have	have approve	0	0
+1.0	dictator	be	hang	0	0
+1.0	oust dictator	be	hang	0	0
+1.0	execution party	have	members	O	O
+1.0	cleric Moqtada al-Sadr	chant	name of shiite	LOCATION	0
+1.0	Iraqi President Jalal Talabani on Tuesday	be oppose to	death penalty	0	0
+1.0	court	have	decision	O	O
+1.0	Tribunal	have	decisions	O	ORGANIZATION
+1.0	cleric Moqtada al-Sadr	turn	the	LOCATION	DATE
+1.0	Saddam 's execution order	be	confirm on December 26 by panel of appeal court judge	PERSON	DATE
+1.0	Moqtada al-Sadr	chant	name of shiite	LOCATION	0
+1.0	a spokesman for Talabani	have	opposition	O	O
+1.0	statement	also quote	letter	0	0
+1.0	Shiite	have	name	O	MISC
+1.0	judiciary	have	independence	O	O
+1.0	recent hanging	have	have approve by Talabani 's vice president	0	PERSON
+1.0	statement	quote	letter write to iraqi cabinet	0	0
+1.0	appeal court judges	have	panel	O	O
+1.0	dictator	be hang for	crime	0	0
+1.0	Moqtada al-Sadr	chant	name of radical shiite	LOCATION	0
+1.0	recent hanging	have	have approve	0	0
+1.0	Saddam 's execution order	be confirm by	panel of appeal court judge	PERSON	0
+1.0	Iraqi President Jalal Talabani on Tuesday	have	stance	O	O
+1.0	member	taunt	he	0	0
+1.0	statement	quote	letter write by Talabani to iraqi cabinet	0	PERSON
+1.0	Iraqi President Jalal Talabani on Tuesday	be personally oppose to	death penalty	0	0
+1.0	Saddam Hussein	have	execution	O	O
+0.8985212828535598	he	member of	execution party	0	0
+1.0	statement	quote	letter write by Talabani to cabinet	0	PERSON

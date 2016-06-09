@@ -1,0 +1,88 @@
+1.0	15	have	ages	O	NUMBER
+1.0	5.8 child	be in	the 1970s	NUMBER	DATE
+1.0	controversial one-child policy	apply to	urban resident	0	0
+1.0	report	call for	implementation	0	0
+1.0	population	have	numbers	O	O
+1.0	year	be	complete	0	0
+1.0	prospective parents in the cities , who face financial penalties and social stigma if they have more than one child	have	baby	O	O
+0.632832863116628	effort	build	security	0	0
+1.0	people between the ages of 15 and 64	have	country	O	O
+1.0	it	lower number from	5.8 child	0	NUMBER
+1.0	it	lower number to	current 1.8 child	0	NUMBER
+1.0	trend	be in	rebound	0	0
+1.0	workers	have	numbers	O	O
+0.632832863116628	effort	build	social security	0	0
+1.0	200 million more people from the current population of 1.3 billion	maintain	low birth rate	0	0
+1.0	1.3 billion	have	population	O	NUMBER
+1.0	controversial policy	apply to	urban resident	0	0
+1.0	we	effectively alleviate	population pressure	0	0
+1.0	200 million more people from the current population of 1.3 billion	maintain	birth rate	0	0
+1.0	China	have	work population of people between age of 15	LOCATION	NUMBER
+1.0	prospective parent	be in	city	0	0
+1.0	population	be expect	peak	0	0
+1.0	reform	have	years	DURATION	O
+1.0	we	alleviate	population pressure	0	0
+1.0	we	alleviate	grow population pressure	0	0
+1.0	education	have	years	DURATION	O
+0.6493909385829372	phenomenon other	have attribute to	one-child policy	0	0
+1.0	one-child policy	apply to	urban resident	0	0
+1.0	age	find	wife	0	0
+1.0	policy	apply to	resident	0	0
+1.0	200 million more people from the current population of 1.3 billion	create	new work plan	0	0
+1.0	we	effectively alleviate	population pressure on society	0	0
+1.0	year	be	social	0	0
+1.0	policy	apply to	urban resident	0	0
+1.0	those	have	two child	0	NUMBER
+1.0	200 million more people from the current population of 1.3 billion	be witness	trend in rebound	0	0
+1.0	controversial one-child policy	apply to	resident	0	0
+1.0	1.5 billion people	be in	2033	NUMBER	DATE
+1.0	population	be	expect	0	0
+1.0	it	lower	average number of birth per woman	0	0
+1.0	population	peak in	2033	0	DATE
+1.0	we	alleviate	grow population pressure on society	0	0
+1.0	it	lower number to	1.8 child	0	NUMBER
+1.0	it	lower	average number	0	0
+1.0	first	be	girl	ORDINAL	0
+1.0	China 's population	will jump by	2040	LOCATION	DATE
+1.0	200 million more people from the current population of 1.3 billion	be presently witness	trend	0	0
+1.0	200 million more people from the current population of 1.3 billion	have	work	O	O
+1.0	200 million more people from the current population of 1.3 billion	be presently witness	trend in rebound	0	0
+1.0	report	further call for	implementation	0	0
+1.0	gender imbalance	have	numbers	O	O
+1.0	population	be expect	peak in 2033	0	DATE
+1.0	we	effectively alleviate	grow population pressure	0	0
+1.0	64	have	ages	O	NUMBER
+1.0	those	be	allow	0	0
+1.0	China	have	population	LOCATION	0
+1.0	China	have	views	O	LOCATION
+1.0	controversial policy	apply to	resident	0	0
+1.0	report	call for	continue implementation	0	0
+1.0	200 million more people from the current population of 1.3 billion	be witness	trend	0	0
+1.0	China	in	traditional view	LOCATION	0
+1.0	we	alleviate	population pressure on society	0	0
+1.0	we	effectively alleviate	grow population pressure on society	0	0
+1.0	China	have	years	DURATION	LOCATION
+1.0	there should complete social security system	be in	urban area	0	0
+1.0	China	have	population age over 60	LOCATION	NUMBER
+1.0	it	lower	average number of birth	0	0
+1.0	child	have	sex	O	O
+1.0	it	lower	number of birth per woman	0	0
+1.0	it	lower	number of birth	0	0
+1.0	report	further call for	continue implementation	0	0
+1.0	China 's population	will jump	mean	LOCATION	0
+1.0	100 girl	be in	prosperous area like Guangdong province	NUMBER	LOCATION
+1.0	births	have	number	O	O
+1.0	one-child policy	apply to	resident	0	0
+1.0	people	have	increase	O	O
+0.6493909385829372	phenomenon other	have attribute to	policy	0	0
+1.0	it	lower	number	0	0
+1.0	one	be	girl	0	0
+0.6493909385829372	phenomenon other	have attribute to	so-called one-child policy	0	0
+1.0	migration	be in	history	0	0
+1.0	child policy	have	implementation	O	O
+1.0	China	have	population	O	LOCATION
+1.0	it	lower number from	5.8 child in 1970s	0	DATE
+1.0	people	have	population	O	O
+1.0	age	find wife by	2020	0	DATE
+1.0	200 million more people from the current population of 1.3 billion	create	work plan	0	0
+0.6493909385829372	phenomenon other	have attribute to	so-called policy	0	0

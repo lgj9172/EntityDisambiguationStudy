@@ -1,0 +1,51 @@
+1.0	Alexander Litvinenko	be of	russian	PERSON	0
+1.0	experience	have	basis	O	O
+1.0	quantity	be	of which find	0	0
+1.0	Litvinenko	have	urine	O	PERSON
+1.0	it	be	London restaurant	0	LOCATION
+1.0	quantity	be	find	0	0
+1.0	large quantity	be	of which find	0	0
+1.0	quantity	be find in	Litvinenko 's urine	0	PERSON
+1.0	large quantity	be	find	0	0
+1.0	police investigation	have	focus	O	O
+1.0	dozen location	be in	Britain	NUMBER	LOCATION
+1.0	restaurant	have	staff	O	O
+1.0	BBC	report at_time	month	ORGANIZATION	DATE
+1.0	second London restaurant	show	trace	ORDINAL	0
+1.0	Mario Scaramella	be	italian	PERSON	0
+1.0	large quantity	be	of which find in Litvinenko 's urine	0	PERSON
+1.0	restaurant	be open for	business	0	0
+1.0	sites	have	experience	O	O
+1.0	Some evidence of contamination with Polonium-210	monitor	business	0	0
+1.0	BBC	report at_time	last month	ORGANIZATION	DATE
+1.0	Millennium Hotel	be in	London	DATE	LOCATION
+1.0	restaurant	be	back open	0	0
+1.0	it	be	second London restaurant	0	ORDINAL
+1.0	restaurant	be	open	0	0
+1.0	quantity	be	of which find in Litvinenko 's urine	0	PERSON
+0.7967903186872967	former Russian spy Alexander Litvinenko	fall on	November 1	0	DATE
+1.0	contamination	be with	polonium-210	0	0
+1.0	Some evidence of contamination with Polonium-210	monitor business at	request	0	0
+1.0	authority	say at_time	Friday	0	DATE
+1.0	former Russian spy Alexander Litvinenko	meet	italian contact Mario Scaramella	PERSON	PERSON
+1.0	radiation	have	traces	O	O
+1.0	restaurant	be in	upscale Mayfair region	0	LOCATION
+1.0	former Russian spy Alexander Litvinenko	meet contact mario scaramella at_time	day	PERSON	DATE
+1.0	Health Protection Agency	say	add	ORGANIZATION	0
+1.0	large quantity	be find in	Litvinenko 's urine	0	PERSON
+1.0	Metropolitan Police	have	request	O	ORGANIZATION
+1.0	restaurant	be back open for	business	0	0
+1.0	London	have	Metropolitan Police	ORGANIZATION	LOCATION
+1.0	spy Alexander Litvinenko	have	death	O	PERSON
+1.0	which	have	found	O	O
+1.0	former Russian spy Alexander Litvinenko	meet	contact Mario Scaramella	PERSON	PERSON
+1.0	London restaurant	show	trace of radiation	LOCATION	0
+1.0	second London restaurant	show	trace of radiation	ORDINAL	0
+1.0	staff or customers of the restaurant	have	urine	O	O
+0.7967903186872967	former Russian spy Alexander Litvinenko	fall ill on	November 1	0	DATE
+1.0	London restaurant	show	trace	LOCATION	0
+1.0	british authority	say at_time	Friday	0	DATE
+1.0	contamination	have	evidence	O	O
+1.0	Some evidence of contamination with Polonium-210	monitor business at	request of London 's Metropolitan Police	0	ORGANIZATION
+1.0	Litvinenko	in	urine	PERSON	0
+1.0	London	of	Metropolitan Police	LOCATION	ORGANIZATION

@@ -1,0 +1,48 @@
+1.0	Ponti	bear in	Magenta northern Italy	PERSON	LOCATION
+1.0	actress Sofia Loren	have	husband	O	PERSON
+1.0	film producer Alex Ponti	have	Loren	0	PERSON
+1.0	he	be	charge	0	0
+1.0	his	have	wife	O	O
+1.0	Ponti	have	son	PERSON	0
+1.0	Ponti	begin	film in early 1940	PERSON	0
+1.0	son	be with	Fiastri	0	PERSON
+1.0	Ponti	bear in	Magenta Italy	PERSON	LOCATION
+1.0	their	have	marriage	O	O
+1.0	Ponti	make	he name	PERSON	0
+1.0	Ponti	begin	produce film in 1940	PERSON	0
+1.0	he	discover	model queen	0	0
+1.0	Ponti	also have	son	PERSON	0
+1.0	ponti	obtain	french citizenship in 1964	0	DATE
+1.0	Ponti	have	son with Fiastri	PERSON	PERSON
+1.0	ANSA news agency	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	Michelangelo Antonioni	's blowup be	1966	PERSON	DATE
+1.0	three dozen	be with	Loren	NUMBER	PERSON
+1.0	ponti	obtain	citizenship in 1964	0	DATE
+1.0	produce film	be in	1940	0	0
+1.0	they	have	Jr.	0	0
+1.0	Ponti	begin	produce film in early 1940	PERSON	0
+1.0	Italy	be in	Magenta	LOCATION	LOCATION
+1.0	San Bernardino Symphony	have	music director	O	ORGANIZATION
+1.0	Ponti	begin	film in 1940	PERSON	0
+1.0	his	have	name	O	O
+1.0	Federico Fellini	have	La Strada	O	PERSON
+1.0	Michelangelo Antonioni	have	`` blowup	PERSON	MISC
+1.0	prominent italian film producer Carlo Ponti	husband of	Sofia Loren	0	PERSON
+1.0	family source	tell	ANSA	0	ORGANIZATION
+1.0	he	discover	then model queen	0	0
+1.0	he	be charge with	bigamy	0	0
+1.0	Ponti	begin	produce film	PERSON	0
+1.0	ponti	obtain	french citizenship	0	0
+1.0	Sofia Loren	be of	italian	PERSON	0
+1.0	he	marry	she	0	0
+1.0	Michelangelo Antonioni	have	Blowup	MISC	PERSON
+1.0	ponti	obtain	citizenship	0	0
+1.0	they	have	Carlo Ponti	0	PERSON
+1.0	Ponti	have	divorce	O	PERSON
+1.0	film producer Alex Ponti	have	credit	O	O
+1.0	Federico Fellini	have	La Strada	PERSON	0
+1.0	Ponti	begin	film	PERSON	0
+1.0	Dino De Laurentis	be in	1954	PERSON	DATE
+1.0	Ponti	also have	son with Fiastri	PERSON	PERSON
+1.0	he	discover	Sofia Loren	0	PERSON
+1.0	french citizenship	be in	1964	0	DATE

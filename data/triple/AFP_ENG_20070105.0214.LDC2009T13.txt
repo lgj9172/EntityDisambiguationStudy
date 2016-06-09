@@ -1,0 +1,93 @@
+1.0	Bayern Munich president Franz Beckenbauer	say	Bild	PERSON	ORGANIZATION
+1.0	Bayern Munich president Franz Beckenbauer	open door at_time	Friday	PERSON	DATE
+1.0	whose	have	stock	O	O
+1.0	Manchester United	be	relate	ORGANIZATION	0
+1.0	Owen Hargreaves	have	desire	O	O
+1.0	Manchester United	see	the German double-winners	ORGANIZATION	0
+1.0	Bayern	be in	1997	ORGANIZATION	DATE
+1.0	the German double-winners	have	think	0	0
+1.0	England	have	numerical disadvantage	LOCATION	0
+1.0	Karl-Heinz Rummenigge since United	warn	midfielder	PERSON	0
+1.0	Bayern Munich president Franz Beckenbauer	sign	England midfielder Owen Hargreaves	PERSON	PERSON
+1.0	Bayern	have	manager	O	ORGANIZATION
+1.0	Bayern Munich president Franz Beckenbauer	sign	England midfielder Owen Hargreaves only if they	PERSON	PERSON
+1.0	Owen Hargreaves	have	leg	O	O
+1.0	Bayern Munich president Franz Beckenbauer	say bild in	sport newspaper	PERSON	0
+0.9161412022907308	it	possibly play	my family life	0	0
+1.0	Bayern Munich	do	business	ORGANIZATION	0
+1.0	dad	have	side	O	O
+1.0	Franz Beckenbauer	be president of	Bayern Munich	PERSON	ORGANIZATION
+1.0	desire	have	said	O	O
+1.0	Karl-Heinz Rummenigge	make inquiry about	canadian-born player	PERSON	0
+1.0	mum	have	side	O	O
+1.0	Owen Hargreaves	be	England	PERSON	LOCATION
+1.0	Bayern Munich	do business with	Manchester United	ORGANIZATION	ORGANIZATION
+1.0	whose stock	rise to	Portugal	0	LOCATION
+1.0	Kaiser 's comment	however come in	contrast	PERSON	0
+1.0	Kaiser 's comment	come to	position hold	PERSON	0
+1.0	Kaiser	have	comments	O	PERSON
+1.0	Kaiser 's comment	however come to	position hold	PERSON	0
+1.0	Kaiser	have	comment	PERSON	0
+1.0	Owen Hargreaves	say	he desire join	PERSON	0
+0.633593924617174	Bayern Munich president Franz Beckenbauer	say in	sport newspaper	PERSON	0
+1.0	Owen Hargreaves	seem with	Wayne Rooney sent-off	PERSON	PERSON
+0.633593924617174	Owen Hargreaves	say at_time	only month	PERSON	DATE
+1.0	they	will pay	he	0	0
+1.0	England	have	disadvantage	O	LOCATION
+1.0	Karl-Heinz Rummenigge	first make inquiry about	canadian-born player	PERSON	0
+1.0	Karl-Heinz Rummenigge since United	have	conduct	O	O
+1.0	my	have	brothers	O	O
+1.0	Owen Hargreaves	be midfielder of	England	PERSON	LOCATION
+1.0	Karl-Heinz Rummenigge	first make inquiry about	player	PERSON	0
+1.0	Owen Hargreaves	say	he desire	PERSON	0
+1.0	Kaiser 's comment	come in	stark contrast	PERSON	0
+1.0	my	have	mum	O	O
+1.0	a player	have	contract	O	O
+1.0	Bayern Munich president Franz Beckenbauer	open	door	PERSON	0
+1.0	Manchester United	be relate to	wish	ORGANIZATION	0
+1.0	my	have	dad	O	O
+1.0	Bayern Munich president Franz Beckenbauer	open door for	Manchester United	PERSON	ORGANIZATION
+0.633593924617174	Owen Hargreaves	say at_time	only last month	PERSON	DATE
+1.0	England man	go	say	LOCATION	0
+1.0	Bayern Munich	have refuse until	now	ORGANIZATION	DATE
+1.0	the German double-winners	have	think about it	0	0
+1.0	Kaiser 's comment	come in	contrast	PERSON	0
+1.0	Karl-Heinz Rummenigge	first make	inquiry	PERSON	0
+1.0	England	have	defeat	O	LOCATION
+1.0	side	have	whole	O	O
+1.0	contract extension	take	he	0	0
+1.0	Bayern Munich president Franz Beckenbauer	sign	England midfielder Owen Hargreaves only	PERSON	PERSON
+0.633593924617174	Owen Hargreaves	say at_time	last month	PERSON	DATE
+0.6966864752523247	sports newspaper	would take	offer	0	0
+0.633593924617174	Owen Hargreaves	say at_time	month	PERSON	DATE
+1.0	it	be	normal	0	0
+1.0	my	have	family	O	O
+1.0	My	have	parents	O	O
+1.0	Karl-Heinz Rummenigge	make inquiry about	player	PERSON	0
+1.0	family	have	side	O	O
+1.0	Franz Beckenbauer	be	Bayern Munich	PERSON	ORGANIZATION
+0.14059619431790493	that	be figure	that would allow	0	0
+1.0	they	will pay better	he	0	0
+1.0	whose	have	team	O	O
+1.0	it	be	England	0	LOCATION
+1.0	the German double-winners	think about	Manchester United	0	0
+1.0	last year	during	World Cup	DATE	MISC
+1.0	Manchester United	be relate	play	ORGANIZATION	0
+1.0	Karl-Heinz Rummenigge	be since	Manchester United	PERSON	ORGANIZATION
+1.0	euros	have	offer	O	MONEY
+1.0	size	have	offer	O	O
+1.0	men	have	role	O	O
+1.0	Owen Hargreaves	have	family lives	O	O
+1.0	whose stock	rise on	penalty	0	0
+0.9161412022907308	it	play	my family life	0	0
+1.0	Bayern Munich	have stoically refuse until	now	ORGANIZATION	DATE
+1.0	Kaiser 's comment	come to	position	PERSON	0
+1.0	Karl-Heinz Rummenigge	make	inquiry	PERSON	0
+1.0	their	have	life	O	O
+1.0	Karl-Heinz Rummenigge since United	warn midfielder about	he conduct	PERSON	0
+1.0	Bayern	by	general manager	ORGANIZATION	0
+1.0	year	have	World Cup	MISC	DATE
+1.0	Kaiser 's comment	however come to	position	PERSON	0
+1.0	Kaiser 's comment	however come in	stark contrast	PERSON	0
+1.0	Manchester United	play in	something	ORGANIZATION	0
+1.0	England man	go on	record	LOCATION	0

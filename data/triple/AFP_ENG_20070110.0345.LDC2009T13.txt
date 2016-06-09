@@ -1,0 +1,28 @@
+1.0	England captain	have	deal	O	O
+1.0	Roberto Carlos	be with	Zinedine Zidane	PERSON	PERSON
+1.0	former England captain	have	current deal at Bernabeu	LOCATION	LOCATION
+1.0	he	be one along of	several signing	0	0
+1.0	he	be one along of	several high-profile signing	0	0
+1.0	he	be one along of	signing	0	0
+1.0	team	have	out drifted	O	O
+1.0	he	be one along of	high-profile signing	0	0
+1.0	Beckham	have	time	O	PERSON
+1.0	he	be one along	several high-profile signing	0	0
+1.0	The former England captain 's	have	career	O	O
+1.0	signings	have	one	NUMBER	O
+1.0	career	have	whole	O	O
+1.0	mijatovic	tell	Sky Italia	0	ORGANIZATION
+1.0	Alex Ferguson	be with	Old Trafford	PERSON	LOCATION
+1.0	Predrag Mijatovic	say at_time	Wednesday	PERSON	DATE
+1.0	season	have	end	O	O
+1.0	he	be one along	signing	0	0
+0.5319629755968184	Beckham	will leave	we	PERSON	0
+1.0	his	have	contract	O	O
+1.0	he	be one along	several signing	0	0
+1.0	David Beckham	have	contract	O	PERSON
+1.0	giants	have	director	O	O
+1.0	David Beckham	have	contract with real Madrid	PERSON	ORGANIZATION
+1.0	he	be one along	high-profile signing	0	0
+1.0	David Beckham 's contract	be with	real Madrid	PERSON	ORGANIZATION
+1.0	Alex Ferguson	be mentor sir of	Old Trafford	PERSON	LOCATION
+1.0	Zinedine Zidane	be	Ronaldo	PERSON	PERSON

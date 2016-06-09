@@ -1,0 +1,91 @@
+1.0	ambassador	be in	Baghdad	0	LOCATION
+1.0	Below	be figure in	reshuffle of President George W. Bush 's policy	0	PERSON
+1.0	Bush	have	Director	O	PERSON
+1.0	Crocker	replace khalilzad to	Iraq	PERSON	LOCATION
+1.0	Bush	have	intelligence adviser	O	PERSON
+1.0	Pacific	be	62	LOCATION	NUMBER
+1.0	Washington	have	envoy	O	LOCATION
+1.0	Arms	have	Commander	O	O
+1.0	Below	be figure in	major reshuffle of President George W. Bush 's foreign policy	0	PERSON
+1.0	his	have	Iraq policy	O	O
+1.0	Michael McConnell	director of	National Intelligence	PERSON	ORGANIZATION
+1.0	Below	be main figure in	major reshuffle	0	0
+1.0	military team	link accord	US official	0	LOCATION
+1.0	North Africa	be to	Central Asia	LOCATION	LOCATION
+1.0	intelligence gathering	have	reorganization	O	O
+1.0	Negroponte	have	replacement	PERSON	0
+1.0	Michael McConnell	second director of	Bush 's intelligence adviser with responsibility	PERSON	PERSON
+1.0	Michael McConnell	second director of	Bush 's intelligence adviser	PERSON	PERSON
+1.0	Iraq policy	have	plank	O	O
+1.0	team	link accord	US official	0	LOCATION
+1.0	Security Council resolutions	have	series	O	O
+1.0	Rice	have	deputy secretary	O	PERSON
+1.0	Michael McConnell	will become	second director	PERSON	ORDINAL
+1.0	Michael McConnell	director of	Bush 's top intelligence adviser	PERSON	PERSON
+1.0	predecessor	have	that	O	O
+1.0	Below	be figure in	major reshuffle of President George W. Bush 's policy	0	PERSON
+1.0	military team	link to	Iraq policy overhaul	0	LOCATION
+1.0	team	link to	upcome Iraq policy overhaul	0	LOCATION
+1.0	Crocker	replace	Khalilzad	PERSON	PERSON
+1.0	Bush 's top intelligence adviser	be with	responsibility	PERSON	0
+1.0	Below	be figure in	reshuffle of President George W. Bush 's foreign policy	0	PERSON
+1.0	National Intelligence	adviser with	responsibility	ORGANIZATION	0
+1.0	Bush	have	policy	O	PERSON
+1.0	Bush	have	Iraq policy	O	PERSON
+1.0	Crocker	replace	Khalilzad as Washington 's envoy	PERSON	LOCATION
+1.0	His	have	task	O	O
+1.0	Michael McConnell	director of	Bush 's intelligence adviser	PERSON	PERSON
+1.0	country	have	security	O	O
+1.0	teams	have	reshuffle	O	O
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	Bush	as	director of National Intelligence become to Secretary of State Condoleezza Rice	PERSON	PERSON
+1.0	bombings	have	invasion	O	O
+1.0	US forces	have	commander	O	O
+1.0	Below	be main figure in	major reshuffle of President George W. Bush 's foreign policy	0	PERSON
+1.0	policy	have	reshuffle	O	O
+1.0	State Department	have	one	NUMBER	ORGANIZATION
+1.0	Below	be	main figure	0	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Below	be main figure in	reshuffle of President George W. Bush 's foreign policy	0	PERSON
+1.0	Michael McConnell	second director of	Bush 's top intelligence adviser with responsibility	PERSON	PERSON
+1.0	intelligence	have	reshuffle	O	O
+1.0	Lebanon	have	invasion	O	LOCATION
+1.0	his	have	talents	O	O
+1.0	George W. Bush	of	foreign policy	PERSON	0
+1.0	Michael McConnell	second director of	National Intelligence	PERSON	ORGANIZATION
+1.0	Below	be figure in	reshuffle	0	0
+1.0	Below	be figure in	major reshuffle	0	0
+1.0	Ryan Crocker	be since	November 2004	PERSON	DATE
+1.0	Central Command	have	head	O	ORGANIZATION
+1.0	Michael McConnell	oversee	16 US spy agency	PERSON	LOCATION
+1.0	Crocker	be	due	PERSON	0
+1.0	Mosul	have	city	O	LOCATION
+1.0	Below	be	figure	0	0
+1.0	Michael McConnell	director of	Bush 's top intelligence adviser with responsibility	PERSON	PERSON
+1.0	his	have	work	O	O
+1.0	NATO	have	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	Below	be main figure in	major reshuffle of President George W. Bush 's policy	0	PERSON
+1.0	US ambassador	be in	Pakistan	LOCATION	LOCATION
+1.0	main figure	be in	major reshuffle of President George W. Bush 's foreign policy	0	PERSON
+1.0	Army	of	combine arm	ORGANIZATION	0
+1.0	embassy	have	bombings	O	O
+1.0	series	have	implementation	O	O
+1.0	Below	be main figure in	reshuffle	0	0
+1.0	Washington	as	envoy	LOCATION	0
+1.0	government	have	listening shop	O	O
+1.0	Army	have	Arms	O	ORGANIZATION
+1.0	National Intelligence	have	Director	O	ORGANIZATION
+1.0	his	have	predecessor	O	O
+1.0	Michael McConnell	will become	director of National Intelligence	PERSON	ORGANIZATION
+1.0	team	link to	Iraq policy overhaul	0	LOCATION
+1.0	Negroponte	have	replacement	O	PERSON
+1.0	Michael McConnell	will become	second director of National Intelligence	PERSON	ORDINAL
+1.0	Below	be main figure in	reshuffle of President George W. Bush 's policy	0	PERSON
+1.0	Michael McConnell	director of	Bush 's intelligence adviser with responsibility	PERSON	PERSON
+1.0	President George W. Bush	have	policy	O	PERSON
+1.0	state	have	deputy secretary	O	O
+1.0	military team	link to	upcome Iraq policy overhaul	0	LOCATION
+1.0	Michael McConnell	second director of	Bush 's top intelligence adviser	PERSON	PERSON
+1.0	Michael McConnell	will become	director	PERSON	0
+1.0	US	have	head	O	LOCATION
+1.0	Bush	have	top intelligence adviser with responsibility	PERSON	0

@@ -1,0 +1,21 @@
+1.0	Defense Secretary Robert Gates	acknowledge	concern	PERSON	0
+1.0	President George W. Bush	say at_time	Wednesday	PERSON	DATE
+1.0	The United States	go without	interference	LOCATION	0
+1.0	The United States	go	iraqi force	LOCATION	0
+1.0	The United States	go without	political interference	LOCATION	0
+1.0	Defense Secretary Robert Gates	say at_time	Thursday	PERSON	DATE
+1.0	Defense Secretary Robert Gates	have	goverment	O	O
+1.0	Defense Secretary Robert Gates	say by	House Armed Services Committee	PERSON	ORGANIZATION
+1.0	Defense Secretary Robert Gates	acknowledge concern about	Prime Minister Nuri Al	PERSON	PERSON
+1.0	his goverment	have	commitments	O	O
+1.0	more than 20,000 US troops	have	commitments	O	O
+1.0	Defense Secretary Robert Gates	say at	hearing	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Defense Secretary Robert Gates	acknowledge concern about	whether Prime Minister Nuri Al	PERSON	PERSON
+1.0	Iraqi leaders	have	commitments	O	O
+1.0	The United States	go	force	LOCATION	0
+1.0	brigades	have	deployment	O	O
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	its	have	plan	O	O
+1.0	The United States	go after	Shiite	LOCATION	0
+1.0	US troops	have	deployment	O	O

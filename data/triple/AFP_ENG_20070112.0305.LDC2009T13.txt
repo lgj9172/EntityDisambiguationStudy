@@ -1,0 +1,56 @@
+1.0	russian parliament	ratify	protocol aim	0	0
+1.0	parliament	refuse with	several deputy protest	0	0
+1.0	body	have	criticism	O	O
+1.0	people	be in	you country	0	0
+1.0	parliament	refuse with	several deputy	0	0
+1.0	Russia	dismiss criticism as	as Russia 's interest	LOCATION	LOCATION
+1.0	Rene van der Linden	say	explain	PERSON	0
+1.0	vote	have	time	DATE	O
+1.0	rights	have	violations	O	O
+1.0	parliament	refuse in	December	0	DATE
+1.0	conflict	be in	Chechnya	0	LOCATION
+1.0	parliament	refuse with	deputy	0	0
+1.0	Vladimir Zhirinovsky	head of	far-right ldpr party	PERSON	0
+1.0	Council	have	member	O	ORGANIZATION
+1.0	Rene van der Linden	tell reporter in	Moscow	PERSON	LOCATION
+1.0	Russia	approve	reform	LOCATION	0
+1.0	our	have	state interests	O	O
+1.0	Russia	be	only member	LOCATION	0
+1.0	parliament	ratify	protocol aim	0	0
+1.0	cases	have	number	O	O
+1.0	Russia	dismiss criticism from	lawmaker	LOCATION	0
+1.0	Russia	approve	reform of European Court	LOCATION	LOCATION
+1.0	Rene van der Linden	head of	parliamentary assembly	PERSON	0
+1.0	country	have	population	0	0
+1.0	Russia	have	interests	O	LOCATION
+1.0	LDPR party	have	head	O	O
+1.0	parliament	have	house	O	O
+1.0	Europe	urge russia on	Friday	LOCATION	DATE
+1.0	Russia	dismiss	criticism of body	LOCATION	0
+1.0	Russian cases	have	hundreds	O	O
+1.0	Rene van der Linden	tell	reporter	PERSON	0
+1.0	country	have	large population	0	0
+1.0	Strasbourg	have	city	O	LOCATION
+1.0	parliament	ratify	protocol	0	0
+1.0	russian parliament	refuse with	deputy	0	0
+1.0	court	be	anti-russian	0	0
+1.0	russian parliament	refuse with	several deputy	0	0
+1.0	Sergei Baburin	head of	Rodina party	PERSON	PERSON
+1.0	Russia	approve	reform of European Court of Human Rights	LOCATION	LOCATION
+1.0	your	have	country	O	O
+1.0	russian parliament	ratify	protocol	0	0
+1.0	Russia	dismiss	criticism	LOCATION	0
+1.0	Council	have	assembly	O	ORGANIZATION
+1.0	russian parliament	refuse in	December	0	DATE
+1.0	parliament	refuse with	deputy protest	0	0
+1.0	Human Rights	have	European Court	O	O
+1.0	Europe	have	Council	ORGANIZATION	ORGANIZATION
+1.0	Duma	have	mind	O	ORGANIZATION
+1.0	Rodina party	have	head	O	O
+1.0	European Court	have	reform	O	O
+1.0	russian parliament	refuse with	several deputy protest	0	0
+1.0	Europe	urge	Russia	LOCATION	LOCATION
+1.0	russian parliament	refuse with	deputy protest	0	0
+1.0	argument	be in	favour	0	0
+1.0	Russia	be	member	LOCATION	0
+1.0	assembly	have	head	O	O

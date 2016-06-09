@@ -1,0 +1,83 @@
+1.0	whose	have	ranking	O	O
+1.0	Nadal 's opponent	will	will third seed Xavier Malisse	PERSON	PERSON
+1.0	belgian	be	satisfy	0	0
+1.0	belgian	be satisfy with	he current form	0	DATE
+1.0	20-year-old top seed	whip david sanguinetti in	quarter-final of 416,000-dollar season opener	DURATION	0
+1.0	it	should	should good match on surface here	0	0
+1.0	World number	step	closer to he atp title	0	0
+1.0	he first atp title	be in	seven month	ORDINAL	DURATION
+1.0	20-year-old top seed	whip	David Sanguinetti	DURATION	PERSON
+1.0	20-year-old seed	whip david sanguinetti in	quarter-final of season opener	DURATION	0
+1.0	it	be	good	0	0
+1.0	I	have	lose	0	0
+1.0	David Sanguinetti	be of	Italy	PERSON	LOCATION
+1.0	seed	whip david sanguinetti in	quarter-final of 416,000-dollar season opener	0	0
+1.0	Nadal 's semi-final opponent	will	will seed Xavier Malisse	PERSON	PERSON
+1.0	20-year-old top seed	whip david sanguinetti in	quarter-final	DURATION	0
+1.0	it	should	should match on hard surface here	0	0
+1.0	World number	step	closer to he atp title in seven month	0	DURATION
+1.0	Fabrice Santoro	be in	a hour	PERSON	DURATION
+1.0	I	have nothing	lose really	0	0
+1.0	Nadal	have	ground strokes	O	PERSON
+1.0	it	should	should good match	0	0
+0.7642703758371585	Malisse	rank	37th in world	PERSON	ORDINAL
+1.0	World number	step	closer to he first atp title	0	ORDINAL
+1.0	left-handed Nadal	win	five title	PERSON	NUMBER
+1.0	fifth time	be in	six year	ORDINAL	DATE
+1.0	it	should	should match on surface here	0	0
+1.0	two Rafael Nadal of Spain	have	tournaments	O	O
+1.0	20-year-old seed	whip	David Sanguinetti of Italy 6-3 6-2	DURATION	NUMBER
+1.0	Rafael Nadal	be of	Spain	PERSON	LOCATION
+1.0	Xavier Malisse	be	third	PERSON	ORDINAL
+1.0	season opener	have	quarter-final	O	O
+1.0	it	should	should good match on surface	0	0
+1.0	Nadal	have	opponent	O	PERSON
+1.0	Sanguinetti	be	34-year-old	PERSON	DURATION
+1.0	it	should	should match	0	0
+1.0	I	have nothing	lose	0	0
+0.7083947644691035	rank	37th in	world	0	0
+1.0	20-year-old seed	whip david sanguinetti in	quarter-final	DURATION	0
+1.0	belgian	be satisfy with	he form	0	0
+1.0	top seed	whip david sanguinetti in	quarter-final of 416,000-dollar season opener	0	0
+1.0	yourself	have	image	O	O
+1.0	Italy	have	David Sanguinetti	PERSON	LOCATION
+0.7642703758371585	Malisse	rank	37th	PERSON	ORDINAL
+1.0	two Rafael Nadal of Spain	cruise on	here Friday	0	DATE
+1.0	Spain	have	Rafael Nadal	PERSON	LOCATION
+1.0	World number	step	closer	0	0
+1.0	top seed	whip	David Sanguinetti	0	PERSON
+1.0	Nadal 's opponent	will	will seed Xavier Malisse	PERSON	PERSON
+1.0	second consecutive french Open crown	be in	June	MISC	DATE
+1.0	seed	whip	David Sanguinetti	0	PERSON
+1.0	it	should	should match on surface	0	0
+1.0	three	have	match	O	NUMBER
+1.0	I	have	lose really	0	0
+1.0	his	have	year	DATE	O
+1.0	20-year-old top seed	whip david sanguinetti in	quarter-final of season opener	DURATION	0
+1.0	top seed	whip	David Sanguinetti of Italy 6-3 6-2	0	NUMBER
+1.0	top seed	whip david sanguinetti in	quarter-final of season opener	0	0
+1.0	your	have	country	O	O
+1.0	it	should	should good match on hard surface here	0	0
+1.0	20-year-old top seed	whip	David Sanguinetti of Italy 6-3 6-2	DURATION	NUMBER
+1.0	it	should	should match on hard surface	0	0
+1.0	tennis	have	lot	O	O
+1.0	20-year-old seed	whip david sanguinetti in	quarter-final of 416,000-dollar season opener	DURATION	0
+1.0	Nadal	win	five title	PERSON	NUMBER
+1.0	my	have	match	O	O
+1.0	year	have	events	O	DATE
+1.0	20-year-old seed	whip	David Sanguinetti	DURATION	PERSON
+1.0	seed	whip david sanguinetti in	quarter-final of season opener	0	0
+1.0	Xavier Malisse	be of	Belgium	PERSON	LOCATION
+1.0	two Rafael Nadal of Spain	have	ATP title	O	O
+1.0	Nadal	have	semi-final opponent on Saturday	PERSON	DATE
+1.0	it	should	should good match on hard surface	0	0
+1.0	World number	step	closer to he first atp title in seven month	0	ORDINAL
+1.0	two Rafael Nadal of Spain	cruise on	Friday	0	DATE
+1.0	seed	whip	David Sanguinetti of Italy 6-3 6-2	0	NUMBER
+1.0	seed	whip david sanguinetti in	quarter-final	0	0
+1.0	he first eight tournament	be in	2006	NUMBER	DATE
+1.0	two Rafael Nadal of Spain	cruise into	Chennai Open semi-final	0	MISC
+1.0	his	have	form	O	O
+1.0	Nadal 's semi-final opponent	will	will third seed Xavier Malisse	PERSON	PERSON
+1.0	Belgium	have	seed Xavier Malisse	PERSON	LOCATION
+1.0	top seed	whip david sanguinetti in	quarter-final	0	0

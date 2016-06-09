@@ -1,0 +1,137 @@
+1.0	working	have	importance	O	O
+1.0	Senate Armed Services Committee	have	chairman	O	ORGANIZATION
+1.0	United States	call	it target air strike on Al-Qaeda 's main leader	LOCATION	ORGANIZATION
+1.0	strike	be in	Somalia	0	LOCATION
+1.0	it	be	first US military strike in country there in 1994	0	LOCATION
+1.0	United States	call	it air strike on Al-Qaeda 's main leader	LOCATION	ORGANIZATION
+1.0	it	be	US military strike	0	LOCATION
+1.0	Osama bin Laden	be leader of	Al-Qaeda	PERSON	ORGANIZATION
+1.0	five senior Al-Qaeda leader	be in	Somalia	NUMBER	LOCATION
+1.0	operation	appear	discrete anti-terrorist operation	0	0
+1.0	that	have	example	O	O
+1.0	operation	be	discrete operation	0	0
+1.0	United States	call	it target air strike on Al-Qaeda 's main leader in region	LOCATION	ORGANIZATION
+1.0	Somalia	in	southernmost tip	MISC	0
+1.0	it	be	known US military strike	0	LOCATION
+1.0	it	follow	rout	0	0
+1.0	Levin	decline	add	PERSON	0
+1.0	United States	acknowledge in	its military action	LOCATION	0
+1.0	broader US military engagement	be in	Somalia	LOCATION	LOCATION
+1.0	attack	have	Somalia	LOCATION	O
+1.0	US embassies	have	bombings	O	O
+1.0	strike	have	target	O	O
+1.0	it	be	first known US military strike	0	LOCATION
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	southern Somalia Monday	0	LOCATION
+1.0	United States	call	it air strike on Al-Qaeda 's leader in region	LOCATION	ORGANIZATION
+1.0	it	be	US military strike there in 1994	0	LOCATION
+1.0	bombing	be in	Kenya	0	LOCATION
+1.0	Levin	ask for	detail	PERSON	0
+1.0	military	conduct	operation in close cooperation	0	0
+1.0	it	be	known US military strike in country there in 1994	0	LOCATION
+1.0	it	be	US strike	0	LOCATION
+1.0	target	be	principal Al-Qaeda leadership in region	0	MISC
+1.0	principle Al-Qaeda leadership	be in	region	MISC	0
+1.0	it	be	US strike in country	0	LOCATION
+1.0	it	be	first US strike in country there in 1994	0	LOCATION
+1.0	Tuesday	have	action	O	O
+1.0	ally	be in	region	0	0
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	southern Somalia early Monday	0	DATE
+1.0	it	be	known US military strike in country	0	LOCATION
+1.0	United States	acknowledge in	its first known action	LOCATION	ORDINAL
+1.0	another	be	Abu Talha al-Sudani	0	PERSON
+1.0	spokesman Tony Snow	say at	White House	PERSON	ORGANIZATION
+1.0	United States	call	it target air strike on Al-Qaeda 's leader in region	LOCATION	ORGANIZATION
+1.0	our	have	allies	O	O
+1.0	US official	say	military believe	LOCATION	0
+1.0	it	be	first known US strike there in 1994	0	LOCATION
+1.0	operation	be	anti-terrorist	0	0
+1.0	operation	appear	operation	0	0
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	Somalia Monday	0	LOCATION
+1.0	US involvement	have	sign	O	O
+1.0	United States	acknowledge in	its first military action	LOCATION	ORDINAL
+1.0	it	be	US strike there in 1994	0	LOCATION
+1.0	it target air strike	be in	region	0	0
+1.0	operation	appear	anti-terrorist operation	0	0
+1.0	United States	acknowledge since	1994	LOCATION	DATE
+1.0	it	be	first US military strike in country	0	LOCATION
+1.0	Carl Levin	be	wrong	0	0
+1.0	it	be	first known US military strike in country	0	LOCATION
+1.0	principal Al-Qaeda leadership	be in	region	MISC	0
+1.0	it	be	first known US strike	0	LOCATION
+1.0	Osama bin Laden	be close to	Al-Qaeda	PERSON	ORGANIZATION
+1.0	United States	call	it target air strike on Al-Qaeda 's leader	LOCATION	ORGANIZATION
+1.0	Somalia	be  at_time	early Monday	LOCATION	DATE
+1.0	it	be	first US military strike there in 1994	0	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	ac-130 gunship	attack	principle Al-Qaeda leadership	0	MISC
+1.0	target	be	principal Al-Qaeda leadership	0	MISC
+1.0	it	be	first US strike	0	LOCATION
+1.0	United States	acknowledge at_time	Tuesday	LOCATION	DATE
+1.0	United States	call	it air strike on Al-Qaeda 's leader	LOCATION	ORGANIZATION
+1.0	United States	call	it air strike on Al-Qaeda 's main leader in region	LOCATION	ORGANIZATION
+1.0	it	follow rout by	government force	0	0
+1.0	US forces	have	withdrawal	O	O
+1.0	Carl Levin	chairman of	Senate Armed Services Committee	PERSON	ORGANIZATION
+1.0	acts	have	perpetrators	O	O
+1.0	tracking capability	have	details	O	O
+1.0	Al-Qaeda	have	leaders	O	ORGANIZATION
+1.0	operation	appear	discrete operation	0	0
+1.0	attack	have	targets	O	O
+1.0	operation	be	discrete anti-terrorist operation	0	0
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	Somalia	0	LOCATION
+1.0	it	be	known US strike in country	0	LOCATION
+1.0	target	be	Al-Qaeda leadership	0	MISC
+1.0	fact	have	reiteration	O	O
+1.0	it	be	first US military strike	0	LOCATION
+1.0	operation	be	anti-terrorist operation	0	0
+1.0	it	be	known US strike there in 1994	0	LOCATION
+1.0	it	follow	rout of islamist force	0	0
+1.0	first known US military strike	be in	1994	LOCATION	DATE
+1.0	it	be	first known US military strike there in 1994	0	LOCATION
+1.0	it	be	first known US strike in country there in 1994	0	LOCATION
+1.0	United States	call	it air strike	LOCATION	0
+1.0	it	be	known US strike in country there in 1994	0	LOCATION
+1.0	US engagement	have	part	O	O
+1.0	ac-130 gunship	be	use	0	0
+1.0	it	be	US strike in country there in 1994	0	LOCATION
+1.0	forces	have	rout	O	O
+1.0	two village	be in	Somalia 's southernmost tip	NUMBER	MISC
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	Somalia early Monday	0	DATE
+1.0	first known US military strike	be in	country since withdrawal of US force	LOCATION	LOCATION
+1.0	United States	acknowledge in	its first action	LOCATION	ORDINAL
+1.0	it	be	US military strike in country	0	LOCATION
+1.0	it	follow	rout of force	0	0
+1.0	more attack	be in	the future	0	DATE
+1.0	Al-Qaeda	on	main leader	ORGANIZATION	0
+1.0	it	be	US military strike in country there in 1994	0	LOCATION
+1.0	Somalia	have	tip	O	LOCATION
+1.0	it	be	first known US military strike in country there in 1994	0	LOCATION
+1.0	their	have	sights	O	O
+1.0	United States	acknowledge in	its first known military action	LOCATION	ORDINAL
+1.0	ac-130 gunship	attack principle al-qaeda leadership in	southern Somalia	0	LOCATION
+1.0	target	be	Al-Qaeda leadership in region	0	MISC
+1.0	ac-130 gunship	attack	principle Al-Qaeda leadership in region	0	MISC
+1.0	United States	acknowledge in	its known military action	LOCATION	0
+1.0	US official	say	military	LOCATION	0
+1.0	principal Al-Qaeda leadership	be in	area	MISC	0
+1.0	it	follow rout by	ethiopian government force	0	0
+1.0	it	be	known US military strike there in 1994	0	LOCATION
+1.0	Levin	ask for	detail of tracking capability	PERSON	0
+1.0	it	be	first US strike in country	0	LOCATION
+1.0	military	conduct	we operation in close cooperation	0	0
+1.0	operation	be	discrete	0	0
+1.0	deeper US military involvement	be in	Somalia conflict	LOCATION	LOCATION
+1.0	it	be	first known US strike in country	0	LOCATION
+1.0	our	have	operations	O	O
+1.0	United States	call	it target air strike	LOCATION	0
+1.0	United States	call	it target air strike in region	LOCATION	0
+1.0	it	be	known US strike	0	LOCATION
+1.0	figure	operate in	Somalia	0	LOCATION
+1.0	operation	be	operation	0	0
+1.0	United States	acknowledge in	its known action	LOCATION	0
+1.0	United States	call	it air strike in region	LOCATION	0
+1.0	it	be	first US strike there in 1994	0	LOCATION
+1.0	opportunity	have	target	O	O
+1.0	four	have	couple	O	NUMBER
+1.0	United States	acknowledge in	its action	LOCATION	0
+1.0	attacks	have	possibility	O	O

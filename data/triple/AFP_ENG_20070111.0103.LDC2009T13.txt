@@ -1,0 +1,30 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	Bush	have	decision send to Iraq	PERSON	LOCATION
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	reporters Bush 's decision to send 21,500 more troops to Iraq and other measures showed his administration was determined to get to grips with the security situation , particularly in Baghdad	have	intention	O	O
+1.0	Britain	have	Margaret Beckett	LOCATION	PERSON
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	George W. Bush	have	new strategy	PERSON	0
+1.0	he administration	get to	grip with security situation	0	0
+1.0	he administration	get to	grip	0	0
+1.0	country	have	rest	O	O
+1.0	Britain	have	Foreign Secretary Margaret Beckett	PERSON	LOCATION
+1.0	grip	be with	security situation	0	0
+1.0	he administration	be	determine	0	0
+1.0	Margaret Beckett	be foreign secretary of	Britain	PERSON	LOCATION
+1.0	same position	be in	Iraq	0	LOCATION
+1.0	Britain 's Foreign Secretary Margaret Beckett	have	government	O	O
+1.0	grip	be in	Baghdad	0	LOCATION
+1.0	year	have	end	DATE	DATE
+1.0	Britain 's Foreign Secretary Margaret Beckett	welcome	Thursday US President George W. Bush 's new strategy	LOCATION	LOCATION
+1.0	its	have	troops	O	O
+1.0	Bush	have	decision	O	PERSON
+1.0	troops	have	thousands	O	O
+1.0	Thursday US President George W. Bush	have	strategy	O	PERSON
+1.0	her government	have	presence	O	O
+1.0	he administration	get to	grip in Baghdad	0	LOCATION
+1.0	George W. Bush	be 's	Thursday	PERSON	DATE
+1.0	he administration	get to	grip with security situation in Baghdad	0	LOCATION
+1.0	Thursday US President George W. Bush 's	have	administration	O	O
+1.0	Britain 's Foreign Secretary Margaret Beckett	welcome	Thursday US President George W. Bush 's strategy	LOCATION	LOCATION
+1.0	Britain 's Foreign Secretary Margaret Beckett	say before	cabinet meeting	PERSON	0

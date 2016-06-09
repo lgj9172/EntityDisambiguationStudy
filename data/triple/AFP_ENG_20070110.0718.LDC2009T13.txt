@@ -1,0 +1,27 @@
+1.0	dealer	set	interest rate jitters	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break	ORGANIZATION	0
+1.0	dealer	set aside	interest rate jitters	0	0
+1.0	share price	rise	0.25 percent in morning trade	0	TIME
+1.0	japanese share price	rise	0.25 percent	0	PERCENT
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after loss	ORGANIZATION	0
+1.0	investor	take heart from	rally	0	0
+0.28627611980559997	japanese share price	rise at_time	Thursday	0	DATE
+1.0	share price	rise	0.25 percent	0	PERCENT
+1.0	investor	take heart on	Wall Street	0	LOCATION
+0.28627611980559997	share price	rise at_time	Thursday	0	DATE
+1.0	dealer	set aside	local interest rate jitters	0	0
+1.0	dealer	set	local interest rate jitters	0	0
+1.0	japanese share price	rise	0.25 percent in morning trade	0	TIME
+1.0	companies	have	TOPIX index	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break Wednesday	ORGANIZATION	DATE
+1.0	0.25 percent	be in	morning trade	PERCENT	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after sharp loss Wednesday	ORGANIZATION	DATE
+1.0	investor	take heart from	overnight rally	0	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put on	42.56 point	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after loss Wednesday	ORGANIZATION	DATE
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put to	16,984.96	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after sharp loss	ORGANIZATION	0
+1.0	investor	take	heart	0	0

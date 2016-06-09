@@ -1,0 +1,17 @@
+1.0	commander	go	police chief	0	0
+1.0	plane	have	wreckage	O	O
+1.0	whose	have	area	O	O
+1.0	Boeing 737-400	have send route	distress signal	NUMBER	0
+1.0	Boeing 737-400	have send	distress signal	NUMBER	0
+1.0	local commander	go to	location	0	0
+1.0	commander	go to	location	0	0
+1.0	survivors	have	number	O	O
+1.0	whose area	include	Sulawesi island	0	LOCATION
+1.0	Boeing	have send	distress signal	ORGANIZATION	0
+1.0	commander	go	governor	0	0
+1.0	Adam Air plane	be with	96 passenger include three Americans	MISC	NUMBER
+1.0	command	have	area	O	O
+1.0	location	number of	survivor	0	0
+1.0	local commander	go	governor	0	0
+1.0	Boeing	have send route	distress signal	ORGANIZATION	0
+1.0	local commander	go	police chief	0	0

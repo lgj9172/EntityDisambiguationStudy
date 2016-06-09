@@ -1,0 +1,42 @@
+1.0	leader	be in	party	0	0
+1.0	partisan bickering	lead in	two year	0	DURATION
+1.0	bickering	lead in	final two year of he presidency	0	DURATION
+1.0	partisan bickering	lead in	two year of he presidency	0	DURATION
+1.0	war	make	he tax cut permanent	0	0
+1.0	Washington	have	environment	O	LOCATION
+1.0	partisan bickering	lead in	final two year	0	DURATION
+1.0	the Congress	have	takeover	O	ORGANIZATION
+1.0	its	have	affairs	O	O
+1.0	stake	be in	struggle	0	0
+1.0	partisan bickering	lead to	political deadlock	0	0
+1.0	they	choose	stalemate	0	0
+1.0	presidency	have	years	DURATION	O
+1.0	we	will show	we enemy	0	0
+1.0	lawmaker	take	they oath of office	0	0
+1.0	lawmaker	take	they oath	0	0
+1.0	bickering	lead in	two year	0	DURATION
+1.0	lawmakers	have	oaths	O	O
+1.0	George W. Bush	be in	column publish Wednesday	PERSON	DATE
+1.0	his	have	presidency	O	O
+1.0	bickering	lead in	final two year	0	DURATION
+1.0	office	have	oaths	O	O
+1.0	our	have	enemies	O	O
+1.0	George W. Bush	write in	Wall Street Journal	PERSON	0
+1.0	partisan bickering	lead in	final two year of he presidency	0	DURATION
+1.0	debate	be	fatal	0	0
+1.0	George W. Bush	have	tax cuts	O	O
+1.0	Iraq war	have	unpopularity	O	O
+1.0	George W. Bush	have but head with	democrat	0	0
+1.0	whose	have	party	O	O
+1.0	bickering	lead to	political deadlock	0	0
+1.0	bickering	lead in	two year of he presidency	0	DURATION
+1.0	takeover	have	eve	O	O
+1.0	partisan bickering	lead to	deadlock	0	0
+1.0	bickering	lead to	deadlock	0	0
+0.4676507984814126	chance	serve	people	0	0
+1.0	our	have	nation	O	O
+1.0	George W. Bush	have but	head	0	0
+1.0	their	have	takeover	O	O
+1.0	today	have	Washington	LOCATION	DATE
+0.4676507984814126	chance	serve	american people	0	0
+1.0	war	be in	Iraq	0	LOCATION

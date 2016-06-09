@@ -1,0 +1,73 @@
+1.0	third soldier	also die on	Tuesday	ORDINAL	DATE
+1.0	US military	have face	some of resistance	LOCATION	0
+1.0	third soldier	die as	result of injury receive	ORDINAL	0
+1.0	soldier	also die as	result of injury receive in Diyala province northeast	0	LOCATION
+1.0	injuries	have	result	O	O
+1.0	third soldier	die as	result of injury receive in combat in Diyala province northeast	ORDINAL	LOCATION
+1.0	third soldier	die as	result	ORDINAL	0
+1.0	third soldier	also die as	result of injury receive in combat	ORDINAL	0
+1.0	soldier	die as	result of injury receive in Diyala province northeast	0	LOCATION
+1.0	resistance	have	flashpoint	O	O
+1.0	US military	have face	some insurgent resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	soldier	also die as	result of injury receive	0	0
+1.0	third soldier	die as	result of injury receive in Diyala province northeast of Baghdad	ORDINAL	LOCATION
+1.0	soldier	die as	result of injury receive in combat	0	0
+1.0	US fatality	be in	Iraq	LOCATION	LOCATION
+1.0	US military	have face	some of stiffest insurgent resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	a	hotb of	sectarian unrest	0	0
+1.0	soldiers	have	Two	NUMBER	O
+1.0	US military	have face	some stiffest resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	third soldier	die on	Tuesday	ORDINAL	DATE
+1.0	soldier	also die on	Tuesday	0	DATE
+1.0	a	hotb of	unrest	0	0
+1.0	US military	have face	some stiffest resistance	LOCATION	0
+1.0	third soldier	also die as	result of injury receive in Diyala province northeast	ORDINAL	LOCATION
+1.0	soldier	also die as	result of injury	0	0
+1.0	third soldier	die as	result of injury receive in combat in Diyala province northeast of Baghdad	ORDINAL	LOCATION
+1.0	third soldier	die as	result of injury receive in Diyala province northeast	ORDINAL	LOCATION
+1.0	military	report at_time	Wednesday	0	DATE
+1.0	US military	have face	some stiffest resistance since 2003 invasion	LOCATION	DATE
+1.0	soldier	die as	result of injury receive in Diyala province northeast of Baghdad	0	LOCATION
+1.0	soldier	also die as	result of injury receive in Diyala province northeast of Baghdad	0	LOCATION
+1.0	soldier	also die as	result	0	0
+1.0	third soldier	also die as	result	ORDINAL	0
+1.0	US military	have face	some of stiffest insurgent resistance since 2003 invasion	LOCATION	DATE
+1.0	US military	have face	some of stiffest resistance	LOCATION	0
+1.0	US military	have face	some insurgent resistance	LOCATION	0
+1.0	third soldier	also die as	result of injury receive in Diyala province northeast of Baghdad	ORDINAL	LOCATION
+1.0	third soldier	also die as	result of injury receive in combat in Diyala province northeast	ORDINAL	LOCATION
+1.0	resistance	have	some	O	O
+1.0	US military	have face	some resistance since 2003 invasion	LOCATION	DATE
+1.0	soldier	also die as	result of injury receive in combat in Diyala province northeast of Baghdad	0	LOCATION
+1.0	US military	have face	some of stiffest resistance since 2003 invasion	LOCATION	DATE
+1.0	soldier	die as	result	0	0
+1.0	US military	have face	some of insurgent resistance	LOCATION	0
+1.0	soldier	die as	result of injury receive in combat in Diyala province northeast of Baghdad	0	LOCATION
+1.0	US military	have face	some of stiffest resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	US military	have face	some stiffest insurgent resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	US military	have face	some of insurgent resistance since 2003 invasion	LOCATION	DATE
+1.0	soldier	die as	result of injury	0	0
+1.0	third soldier	also die as	result of injury receive	ORDINAL	0
+1.0	third soldier	also die as	result of injury	ORDINAL	0
+1.0	US military	have face	some stiffest insurgent resistance	LOCATION	0
+1.0	US military	have face	some of resistance since 2003 invasion	LOCATION	DATE
+1.0	soldier	die on	Tuesday	0	DATE
+1.0	Pentagon figure	release on	Tuesday	ORGANIZATION	DATE
+1.0	soldier	also die as	result of injury receive in combat in Diyala province northeast	0	LOCATION
+1.0	third soldier	also die as	result of injury receive in combat in Diyala province northeast of Baghdad	ORDINAL	LOCATION
+1.0	soldier	die as	result of injury receive	0	0
+1.0	US military	have face	some of resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	US military	have face	some stiffest insurgent resistance since 2003 invasion	LOCATION	DATE
+1.0	US fatality	have reach	3,005	LOCATION	NUMBER
+1.0	third soldier	die as	result of injury	ORDINAL	0
+1.0	soldier	die as	result of injury receive in combat in Diyala province northeast	0	LOCATION
+1.0	third soldier	die as	result of injury receive in combat	ORDINAL	0
+1.0	US military	have face	some resistance	LOCATION	0
+1.0	soldier	also die as	result of injury receive in combat	0	0
+1.0	unrest	have	hotbed	O	O
+1.0	US military	have face	some resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	US military	have face	some of stiffest insurgent resistance	LOCATION	0
+1.0	US military	have face	some of insurgent resistance since 2003 us-led invasion	LOCATION	DATE
+1.0	US military	have face	some	LOCATION	0
+1.0	Baghdad	have	Diyala province northeast	O	LOCATION
+1.0	US military	have face	some insurgent resistance since 2003 invasion	LOCATION	DATE

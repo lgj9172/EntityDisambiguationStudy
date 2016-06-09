@@ -1,0 +1,85 @@
+1.0	rise	be in	November	0	DATE
+1.0	unemployment	have	publication	O	O
+1.0	Roger Bootle	be	Capital Economics	PERSON	ORGANIZATION
+1.0	inflation rate	be above	government 's 2.0-percent target for month	0	DATE
+1.0	ftse	slide as	company worry about prospect of higher repayment cost	0	0
+1.0	Roger Bootle	be analyst of	Capital Economics	PERSON	ORGANIZATION
+0.7012543574574512	this	expectation of	rate rise sometime soon	0	0
+1.0	England governor Mervyn King	have	Bank	ORGANIZATION	PERSON
+1.0	Bank	increase	its key interest rate	ORGANIZATION	0
+1.0	inflation rate	be above	british government 's 2.0-percent target for month	0	DATE
+1.0	investor	be in	London	0	LOCATION
+1.0	ftse	slide as	company	0	0
+1.0	companies worried about the prospect of higher repayment costs for themselves and consumers	show	inflation rise above 3.0 percent	0	PERCENT
+1.0	level	come to	power	0	0
+1.0	ftse	slide as	company worry	0	0
+1.0	Bank of England	of	rate rise	ORGANIZATION	0
+1.0	british government	above	2.0-percent target for seventh month in row	0	DATE
+1.0	inflation rate	be above	british government 's target for seventh month	0	DATE
+1.0	inflation rate	be above	government 's 2.0-percent target for seventh month	0	DATE
+1.0	level	come in	1997	0	DATE
+1.0	Tuesday	have	December inflation data	O	DATE
+0.7012543574574512	this	expectation of	further rate rise soon	0	0
+1.0	british 12-month inflation	rise to	2.7 percent in November	DURATION	DATE
+0.7012543574574512	this	expectation of	further rate rise	0	0
+1.0	highest level	come to	power	0	0
+1.0	2.7 percent	be in	November	PERCENT	DATE
+1.0	inflation rate	be above	government 's target for month	0	DATE
+1.0	inflation rate	be above	british government 's target for month in row	0	DATE
+1.0	a move aimed at tackling inflation	have	interest rate	O	O
+1.0	London	have	FTSE index	O	LOCATION
+1.0	12-month inflation	rise to	2.7 percent	DURATION	PERCENT
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	ftse	slide as	company worry about prospect of repayment cost for themselves	0	0
+1.0	british 12-month inflation	rise to	2.7 percent	DURATION	PERCENT
+1.0	12-month inflation	rise to	2.7 percent in November	DURATION	DATE
+1.0	highest level	come in	1997	0	DATE
+1.0	inflation rate	be above	british government 's 2.0-percent target for month in row	0	DATE
+1.0	companies worried about the prospect of higher repayment costs for themselves and consumers	show	inflation rise	0	0
+1.0	inflation rate	be above	government 's 2.0-percent target	0	0
+1.0	repayment costs	have	prospect	O	O
+1.0	Monetary Policy Committee	have	Monetary Policy Committee	ORGANIZATION	O
+1.0	inflation rate	be above	british government 's target	0	0
+1.0	inflation rate	be above	government 's target for seventh month in row	0	DATE
+1.0	inflation rate	be above	government 's target for month in row	0	DATE
+0.7012543574574512	this	expectation of	further rate rise sometime soon	0	0
+1.0	explanation	have	letter	O	O
+0.7012543574574512	this	expectation of	rate rise soon	0	0
+1.0	companies worried about the prospect of higher repayment costs for themselves and consumers	show	inflation	0	0
+1.0	inflation rate	be above	british government 's target for seventh month in row	0	DATE
+1.0	Bank	have	timing	O	ORGANIZATION
+1.0	Bank of England	be on	Thursday	ORGANIZATION	DATE
+1.0	inflation rate	be above	government 's target for seventh month	0	DATE
+1.0	Bank	increase	its interest rate	ORGANIZATION	0
+1.0	rate rise	have	expectations	O	O
+1.0	ftse	slide on	unexpected announcement	0	0
+1.0	next week	see publication aside from	inflation	DATE	0
+1.0	rate rise	have	Bank	ORGANIZATION	O
+1.0	next week	see also publication aside from	inflation	DATE	0
+1.0	british inflation	rise to	2.7 percent in November	0	DATE
+1.0	shares	have	FTSE index	O	O
+1.0	government	have	target	O	O
+1.0	inflation	rise to	2.7 percent in November	0	DATE
+1.0	ftse	slide on	announcement	0	0
+1.0	inflation	rise to	2.7 percent	0	PERCENT
+1.0	inflation rate	be above	government 's target	0	0
+1.0	inflation rate	be above	british government 's target for month	0	DATE
+1.0	England	have	rate rise	O	ORGANIZATION
+1.0	week	see also publication aside from	inflation	DATE	0
+1.0	inflation rate	be above	british government 's 2.0-percent target for seventh month in row	0	DATE
+0.7012543574574512	this	expectation of	rate rise	0	0
+1.0	Tuesday	have	data	O	DATE
+1.0	sales figures	have	publication	O	O
+1.0	week	see publication aside from	inflation	DATE	0
+1.0	inflation rate	be above	british government 's 2.0-percent target	0	0
+1.0	british inflation	rise to	2.7 percent	0	PERCENT
+1.0	inflation rate	be above	government 's 2.0-percent target for seventh month in row	0	DATE
+1.0	seventh month	be in	row	DATE	0
+1.0	ftse	slide as	company worry about prospect of repayment cost	0	0
+1.0	heavyweight mining	be in	London	0	LOCATION
+1.0	further rate tighten	be in	Britain	0	LOCATION
+1.0	ftse	slide as	company worry about prospect of higher repayment cost for themselves	0	0
+1.0	inflation rate	be above	british government 's 2.0-percent target for seventh month	0	DATE
+1.0	ftse	slide as	company worry about prospect	0	0
+1.0	London	have	ftse 100 index of lead share	LOCATION	DATE
+1.0	inflation rate	be above	government 's 2.0-percent target for month in row	0	DATE

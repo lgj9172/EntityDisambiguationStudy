@@ -1,0 +1,27 @@
+1.0	yuan	have	average	O	MONEY
+1.0	Internet bloggers	have	number	O	O
+1.0	more than three million web-users regularly posting their writings	have	thoughts	O	O
+1.0	China	have	online consumer market expand by 47 percent in 2006 over previous year	LOCATION	PERCENT
+1.0	report	provide	figure	0	0
+1.0	web log	be in	China	0	LOCATION
+1.0	internet blogger	be in	China	0	LOCATION
+1.0	bloggers	break	law	0	0
+1.0	their	have	writings	O	O
+1.0	government	have	concern	O	O
+1.0	47 percent	be in	2006	PERCENT	DATE
+1.0	new trend	be in	Internet information communication many public figure	0	ORGANIZATION
+1.0	bloggers	have	names	O	O
+1.0	2006	have	end	DATE	DATE
+1.0	Huang Chengqing	be of	China Internet Association	PERSON	ORGANIZATION
+1.0	government	have	concern over rise of blog	0	0
+1.0	ordinary people use web blogs ... to express their thoughts	have	names	O	O
+1.0	state press	say at_time	Thursday	0	DATE
+1.0	China	have	consumer market	O	LOCATION
+1.0	Xinhua news agency	cite	China Internet Survey Report	ORGANIZATION	LOCATION
+1.0	China Internet Association	have	Huang Chengqing	PERSON	ORGANIZATION
+1.0	bloggers	will	will hold	0	0
+1.0	explosive growth	be in	online advertising	0	0
+1.0	web access	have	costs	O	O
+1.0	Xinhua news agency	cite china internet survey report at_time	2007	ORGANIZATION	DATE
+1.0	blog	have	rise	O	O
+1.0	The government 's concern over the rise of the blog	have	decision	O	O

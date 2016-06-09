@@ -1,0 +1,61 @@
+1.0	one Martina Hingis	be	overwhelming	0	0
+1.0	this year	at	australian Open	DATE	MISC
+1.0	year	have	Open	MISC	DATE
+1.0	year	have	Grand Slam	MISC	DATE
+1.0	Australia	be of	6-3	LOCATION	NUMBER
+1.0	Ana Ivanovic	be	serbian	PERSON	0
+1.0	future	have	kind	O	DATE
+1.0	one Martina Hingis	cruise into	semi-final of australian Women 's Hardcourt championship Thursday	0	DATE
+1.0	Ana Ivanovic	be in	three set	PERSON	NUMBER
+1.0	Hingis	will play wta tournament for	australian Open	PERSON	MISC
+1.0	peer	cause	upset 5-7 6-4 6-4	0	NUMBER
+1.0	Hingis	will play wta tournament for	first Grand Slam	PERSON	ORDINAL
+1.0	other semi-final	will between	will seed Dinara Safina	0	PERSON
+1.0	Hingis	will play wta tournament for	Grand Slam	PERSON	MISC
+1.0	Friday	have	semi	O	DATE
+1.0	one Martina Hingis	cruise into	semi-final	0	0
+1.0	Colombia	have	Colombia 's Catalina	LOCATION	LOCATION
+1.0	one Martina Hingis	cruise into	semi-final of australian Women 's Hardcourt championship	0	0
+1.0	semi-final	will between	will second seed Dinara Safina	0	ORDINAL
+1.0	australian Open	slam of	the year	MISC	DATE
+1.0	one Martina Hingis	cruise into	semi-final of Women 's Hardcourt championship here Thursday	0	DATE
+1.0	her	have	warm	O	O
+1.0	Shahar Peer	be	israeli	ORGANIZATION	0
+1.0	Women	have	Hardcourt championships	O	O
+1.0	fifth	seed	Shahar Peer	ORDINAL	ORGANIZATION
+1.0	one Martina Hingis	cruise into	semi-final here Thursday	0	DATE
+1.0	Samantha Stosur	be of	Australia	PERSON	LOCATION
+1.0	girl	be	great	0	0
+1.0	6-2	win over	Russia 's Elena Vesnina	NUMBER	PERSON
+1.0	one Martina Hingis	be	major	0	0
+1.0	one Martina Hingis	cruise into	semi-final Thursday	0	DATE
+1.0	Hingis	will play wta tournament for	Open	PERSON	MISC
+1.0	one Martina Hingis	cruise into	semi-final of australian Women 's Hardcourt championship here Thursday	0	DATE
+1.0	one Martina Hingis	have	comeback	O	O
+1.0	one Martina Hingis	cruise into	semi-final of Women 's Hardcourt championship	0	0
+1.0	Sydney	be  at_time	next week	LOCATION	DATE
+1.0	one Martina Hingis	be	player	0	0
+1.0	one Martina Hingis	be	overwhelming favourite	0	0
+1.0	one Martina Hingis	be	major player	0	0
+1.0	other semi-final	will between	will second seed Dinara Safina	0	ORDINAL
+1.0	women	have	tennis	O	O
+1.0	Colombia 's Catalina	be in	68 minute	LOCATION	DURATION
+1.0	Hingis	will play wta tournament for	first Grand Slam of year	PERSON	ORDINAL
+1.0	Sydney	be in	she final warm	LOCATION	0
+1.0	Ana Ivanovic	be	third	PERSON	ORDINAL
+1.0	Russia	have	Elena Vesnina	PERSON	LOCATION
+1.0	Tathiana Garbin	be	italian	PERSON	0
+1.0	Dinara Safina	be between	second	PERSON	ORDINAL
+1.0	Friday	in	semi	DATE	0
+1.0	Russia	over	Elena Vesnina	LOCATION	PERSON
+1.0	semi-final	will between	will seed Dinara Safina	0	PERSON
+1.0	one Martina Hingis	dispatch	Colombia 's Catalina Castano 6-3 6-1	0	LOCATION
+1.0	one Martina Hingis	dispatch	Colombia 's Catalina Castano 6-3 6-1 in 68 minute	0	LOCATION
+1.0	fifth	seed	israeli Shahar Peer	ORDINAL	ORGANIZATION
+1.0	one Martina Hingis	be	favourite	0	0
+1.0	Australia	have	Samantha Stosur	PERSON	LOCATION
+1.0	Hardcourt championships	have	semi-finals	O	O
+1.0	australian Women	of	Hardcourt championship	0	0
+1.0	Colombia	have	Catalina	LOCATION	LOCATION
+1.0	one Martina Hingis	cruise into	semi-final of Women 's Hardcourt championship Thursday	0	DATE
+1.0	Hingis	will play wta tournament for	Grand Slam of year	PERSON	DATE

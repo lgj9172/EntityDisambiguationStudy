@@ -1,0 +1,43 @@
+1.0	constitution	have	approval	O	O
+1.0	referendum	be hold at_time	last year	0	DATE
+1.0	Chancellor Merkel	have make	it clear	PERSON	0
+1.0	France	have	elections	O	LOCATION
+1.0	France 's presidential election	be	hold on May 6	LOCATION	DATE
+1.0	italian President Romano Prodi	say after	election	PERSON	0
+1.0	Germany	have	hopes	O	LOCATION
+1.0	France 's election	be hold on	May 6	LOCATION	DATE
+1.0	referendum	be	hold	0	0
+1.0	referendum	be	hold in they country last year	0	DATE
+1.0	Romano Prodi	be	italian	PERSON	0
+1.0	France 's election	be	hold on May 6	LOCATION	DATE
+1.0	italian President Romano Prodi	say after	presidential election	PERSON	0
+1.0	France 's election	be	hold	LOCATION	0
+1.0	Germany	before	presidency of EU	LOCATION	LOCATION
+1.0	Germany	have	presidency	O	LOCATION
+0.5911069272974321	EU presidency	build	Europe	LOCATION	LOCATION
+1.0	EU	have	presidency	O	LOCATION
+1.0	referendum	be	hold in they respective country last year	0	DATE
+1.0	France 's presidential election	be hold on	May 6	LOCATION	DATE
+1.0	week	end on	June 30	0	DATE
+1.0	President Romano Prodi	say after	french presidential election	PERSON	0
+1.0	referendum	be hold in	they country	0	0
+1.0	italian President Romano Prodi	say after	french presidential election	PERSON	0
+1.0	President Romano Prodi	say after	french election	PERSON	0
+1.0	France 's presidential election	be	hold	LOCATION	0
+1.0	referendum	be hold at_time	year	0	DATE
+0.5911069272974321	EU presidency	build	stronger Europe	LOCATION	LOCATION
+1.0	President Romano Prodi	say after	presidential election	PERSON	0
+1.0	France	have	presidential election	LOCATION	0
+1.0	referendum	be hold in	they respective country	0	0
+1.0	italian president	say on	France 24 news channel	0	LOCATION
+1.0	president	say at_time	Friday	0	DATE
+1.0	referendum	be	hold in they country year	0	DATE
+1.0	week	end at_time	June 17	0	DATE
+1.0	italian President Romano Prodi	say at_time	Friday	PERSON	DATE
+1.0	italian President Romano Prodi	say after	french election	PERSON	0
+1.0	President Romano Prodi	say after	election	PERSON	0
+1.0	italian president	say at_time	Friday	0	DATE
+1.0	their	have	countries	O	O
+1.0	President Romano Prodi	say at_time	Friday	PERSON	DATE
+1.0	president	say on	France 24 news channel	0	LOCATION
+1.0	referendum	be	hold in they respective country year	0	DATE

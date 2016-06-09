@@ -1,0 +1,22 @@
+1.0	US	wound in	action	LOCATION	0
+1.0	number	estimate range to	as high	0	0
+1.0	US force	have in	have Iraq	LOCATION	LOCATION
+1.0	casualties	have	fraction	O	O
+1.0	they	do with	only fraction of casualty	0	0
+1.0	US military force	have in	have Iraq for nearly three year	LOCATION	DURATION
+1.0	number	estimate	range	0	0
+1.0	interior	have	ministry	O	O
+1.0	they	do with	fraction	0	0
+1.0	January	have	3,009	NUMBER	DATE
+1.0	they	do with	only fraction	0	0
+1.0	number	estimate	range from 50,000	0	NUMBER
+1.0	Iraq	be for	nearly three year	LOCATION	DURATION
+1.0	number	estimate range to	as high as 650,000	0	NUMBER
+1.0	they	do with	fraction of casualty	0	0
+1.0	US troops	be in	Iraq	LOCATION	LOCATION
+1.0	US military force	have in	have Iraq	LOCATION	LOCATION
+1.0	they	do in	World War II	0	MISC
+0.5049301814691969	number	be	unknown	0	0
+1.0	number	estimate range to	high	0	0
+1.0	number	estimate range to	high as 650,000	0	NUMBER
+1.0	US force	have in	have Iraq for nearly three year	LOCATION	DURATION

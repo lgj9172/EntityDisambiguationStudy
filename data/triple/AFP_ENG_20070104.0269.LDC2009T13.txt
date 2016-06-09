@@ -1,0 +1,14 @@
+1.0	Dow Jones Industrial Average	be at	up 14.66 point 12,489.18 just after opening bell	MISC	NUMBER
+1.0	its	have	sales	O	O
+1.0	mega retailer Wal-Mart Stores	have	profit forecast	O	O
+1.0	its	have	profit target	O	O
+1.0	US stock	open higher at_time	Thursday	LOCATION	DATE
+1.0	sale	have grow	1.6 percent	0	PERCENT
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	mega retailer Wal-Mart Stores	have	December	DATE	O
+1.0	Dow Jones Industrial Average	be at	up 12,489.18 just after opening bell	MISC	NUMBER
+1.0	better-than	have	back	O	O
+1.0	US stock	open at_time	Thursday	LOCATION	DATE
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	same-store sale	have grow	1.6 percent	0	PERCENT
+1.0	cents	have	book fourth-quarter profits	O	MONEY

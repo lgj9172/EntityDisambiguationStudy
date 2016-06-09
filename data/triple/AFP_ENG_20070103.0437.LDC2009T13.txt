@@ -1,0 +1,67 @@
+1.0	51.4 percent	be in	December	PERCENT	DATE
+1.0	dollar	stand in	late New York trade	0	LOCATION
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent	ORGANIZATION	PERCENT
+1.0	US industrial activity	rebound in	December	LOCATION	DATE
+1.0	FOMC	keep	its key fed fund rate peg	ORGANIZATION	0
+1.0	US economy	shrink in	November	LOCATION	DATE
+1.0	dollar	stand at	1.2259 swiss franc	0	MONEY
+1.0	dollar	stand in	New York trade	0	LOCATION
+1.0	Wall Street analyst	have expect	index	0	0
+1.0	dollar	stand after	1.2131	0	NUMBER
+1.0	additional policy	be	possible	0	0
+1.0	euro	be in	the past year	0	DATE
+1.0	US greenback	be change	hand	LOCATION	DATE
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent at month 's meeting	ORGANIZATION	PERCENT
+1.0	activity	have	ISM index	O	O
+1.0	policymaker	remain about	inflation risk	0	0
+1.0	policy	be	possible	0	0
+1.0	dollar	stand at	1.2259 franc	0	MONEY
+1.0	Wall Street analyst	have expect	index read	0	0
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent at last month 's meeting	ORGANIZATION	PERCENT
+1.0	most Wall Street analyst	have only expect	index read	0	0
+1.0	US industrial activity	rebound in	December follow surprise contraction in prior month	LOCATION	DATE
+1.0	Wall Street analyst	have only expect	index	0	0
+1.0	Fed	from	December 12 meeting	ORGANIZATION	DATE
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent at last month 's meeting	ORGANIZATION	PERCENT
+1.0	ISM index	rise to	percent	MISC	PERCENT
+1.0	most Wall Street analyst	have expect	index read	0	0
+1.0	dollar	gain traction from	Fed 's December 12 meeting	0	ORGANIZATION
+1.0	Supply Management	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	minutes	have	release	O	DURATION
+1.0	meeting participant	remain	concerned	0	0
+1.0	euro	be trade in	New York	0	LOCATION
+1.0	concern	have	remained	O	O
+1.0	Wall Street analyst	have only expect	index read	0	0
+1.0	its	have	fed funds rate	O	O
+1.0	FOMC	keep	its fed fund rate peg	ORGANIZATION	0
+1.0	most Wall Street analyst	have only expect	index	0	0
+1.0	FOMC	keep	its key fed fund rate	ORGANIZATION	0
+1.0	policymaker	remain	concerned	0	0
+1.0	meeting participant	remain about	outlook	0	0
+1.0	meeting participant	remain about	outlook for inflation	0	0
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent	ORGANIZATION	PERCENT
+1.0	US activity	rebound in	December	LOCATION	DATE
+1.0	US industrial economy	shrink in	November	LOCATION	DATE
+1.0	US industrial activity	rebound in	December follow surprise contraction	LOCATION	DATE
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent at meeting	ORGANIZATION	PERCENT
+1.0	dollar	gain against	euro	0	0
+1.0	dollar	gain at_time	Wednesday	0	DATE
+1.0	ISM index	rise in	November	MISC	DATE
+1.0	most Wall Street analyst	have expect	index	0	0
+1.0	US activity	rebound in	December follow surprise contraction in month	LOCATION	DATE
+1.0	dollar	gain traction after	release of minute	0	0
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent at meeting	ORGANIZATION	PERCENT
+1.0	US activity	rebound in	December follow surprise contraction	LOCATION	DATE
+1.0	Fed minutes	have	release	O	DURATION
+1.0	FOMC	keep	its fed fund rate	ORGANIZATION	0
+1.0	surprise contraction	be in	the prior month	0	DATE
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent at month 's meeting	ORGANIZATION	PERCENT
+1.0	dollar	gain traction after	release	0	0
+1.0	US industrial activity	rebound in	December follow surprise contraction in month	LOCATION	DATE
+1.0	dollar	gain	traction	0	0
+1.0	statement	continue	convey	0	0
+1.0	Fed	have	December meeting	O	ORGANIZATION
+1.0	US activity	rebound in	December follow surprise contraction in prior month	LOCATION	DATE
+1.0	ISM index	rise to	better percent	MISC	PERCENT
+1.0	rate hikes	have	expectations	O	O
+1.0	dollar	stand at_time	Tuesday	0	DATE

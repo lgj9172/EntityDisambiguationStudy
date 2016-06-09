@@ -1,0 +1,39 @@
+1.0	troops	engage	four terrorist	0	NUMBER
+1.0	military	frequently conduct raid on	hideout in capital	DURATION	DURATION
+1.0	military	conduct raid on	suspect insurgent hideout	DURATION	0
+1.0	they subsequent action	be assess as	threat to coalition force	0	0
+1.0	individuals	have	four	NUMBER	O
+1.0	they subsequent action	be assess as	threat	0	0
+1.0	The five suspects	have	actions	O	O
+1.0	The five suspects	refuse	surrender	0	0
+1.0	military	frequently conduct raid on	hideout	DURATION	0
+1.0	military	conduct	raid	DURATION	DURATION
+1.0	military	frequently conduct	raid	DURATION	DURATION
+1.0	military	frequently conduct raid on	suspect hideout	DURATION	0
+1.0	military	conduct raid on	insurgent hideout in capital	DURATION	DURATION
+1.0	military	conduct raid on	suspect insurgent hideout in capital	DURATION	DURATION
+1.0	military	frequently conduct raid on	suspect insurgent hideout in capital	DURATION	DURATION
+1.0	military	frequently conduct raid on	suspect insurgent hideout	DURATION	0
+1.0	they action	force	troops	0	0
+1.0	Iraqis	be in	area	MISC	0
+1.0	Coalition force	track	four of individual	0	NUMBER
+1.0	they action	be assess as	threat to coalition force	0	0
+1.0	military	conduct raid on	suspect hideout	DURATION	0
+1.0	military	conduct raid on	suspect hideout in capital	DURATION	DURATION
+1.0	Coalition force	track	four individual	0	NUMBER
+1.0	they action	be assess as	immediate threat to coalition force	0	0
+1.0	they action	be assess as	immediate threat	0	0
+1.0	they subsequent action	be assess as	immediate threat to coalition force	0	0
+1.0	military	conduct raid on	hideout in capital	DURATION	DURATION
+1.0	they subsequent action	force	troops	0	0
+1.0	early morning raid	be in	Saturday	TIME	DATE
+1.0	military	conduct raid on	insurgent hideout	DURATION	0
+1.0	they action	be assess as	threat	0	0
+1.0	they subsequent action	be assess as	immediate threat	0	0
+1.0	military	frequently conduct raid on	suspect hideout in capital	DURATION	DURATION
+1.0	they subsequent action	be	assess	0	0
+1.0	military	frequently conduct raid on	insurgent hideout in capital	DURATION	DURATION
+1.0	military	conduct raid on	hideout	DURATION	0
+1.0	military	frequently conduct raid on	insurgent hideout	DURATION	0
+1.0	suspect insurgent hideout	be in	capital amid more 100 death from rebel	0	DURATION
+1.0	they action	be	assess	0	0

@@ -1,0 +1,48 @@
+1.0	Denner	could	could sweep	PERSON	0
+1.0	Denner	could	could otherwise sweep by german discount retailer	PERSON	0
+1.0	Migros	employ	80,000 staff across business	ORGANIZATION	NUMBER
+1.0	Philippe Gaydoul	tell	journalist	PERSON	0
+1.0	Migros	chain 's	alpine state	ORGANIZATION	0
+0.7853571965180671	whose family	chain for	year	0	0
+1.0	Migros	will take	70 percent stake	ORGANIZATION	PERCENT
+1.0	deal	be subject to	approval	0	0
+1.0	Migros	have	identity	O	O
+1.0	Denner	be	swiss	PERSON	0
+1.0	Denner	could	could otherwise sweep	PERSON	0
+1.0	Denner	could	could otherwise sweep aside by discount retailer	PERSON	0
+1.0	discount supermarket Denner	say at_time	Friday	PERSON	DATE
+1.0	Denner	could	could sweep aside	PERSON	0
+1.0	whose family	have own	chain for over 100 year	0	DURATION
+1.0	Denner	could	could otherwise sweep aside by german discount retailer	PERSON	0
+1.0	whose family	have own	chain for year	0	0
+1.0	he	add	make on basis	0	0
+1.0	whose family	have own	chain for over year	0	0
+1.0	Migros	employ	80,000 staff across its business	ORGANIZATION	NUMBER
+1.0	German discount retailers such as Aldi and Lidl	have	business	O	O
+1.0	whose	have	family	O	O
+1.0	Denner	could	could sweep by discount retailer	PERSON	0
+1.0	business	have	future	DATE	O
+1.0	Migros	will take	70 percent stake in Denner	ORGANIZATION	PERCENT
+1.0	Migros	be with	swiss market share of 16.6 percent	ORGANIZATION	PERCENT
+1.0	state	have	number supermarket chain	O	O
+1.0	deal	be	subject	0	0
+1.0	Denner	could	could otherwise sweep aside	PERSON	0
+1.0	whose family	have own	chain for 100 year	0	DURATION
+1.0	70 percent stake	be in	Denner	PERCENT	PERSON
+1.0	its	have	businesses	O	O
+1.0	swiss discount supermarket Denner	say at_time	Friday	PERSON	DATE
+1.0	alpine state	have	number one supermarket chain	0	NUMBER
+1.0	he	add	make	0	0
+1.0	other	have	run	O	O
+0.7853571965180671	whose family	chain for	100 year	0	DURATION
+1.0	deal	be subject to	approval from competition authority	0	0
+1.0	Denner	could	could otherwise sweep by discount retailer	PERSON	0
+1.0	Denner	could	could sweep aside by german discount retailer	PERSON	0
+0.7853571965180671	whose family	chain for	over 100 year	0	DURATION
+1.0	Denner	could	could sweep by german discount retailer	PERSON	0
+1.0	francs	have	sales	O	MONEY
+0.7853571965180671	whose family	chain for	over year	0	0
+1.0	percent	have	market share	O	PERCENT
+1.0	Denner	have	head	O	PERSON
+1.0	Migros	have	585 outlet	ORGANIZATION	NUMBER
+1.0	Denner	could	could sweep aside by discount retailer	PERSON	0

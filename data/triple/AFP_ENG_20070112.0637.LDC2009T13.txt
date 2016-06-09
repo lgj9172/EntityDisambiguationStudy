@@ -1,0 +1,115 @@
+1.0	Finance minister Gordon Brown	warn of	drift towards separation of England	PERSON	LOCATION
+1.0	many English voter	resent	number	MISC	0
+1.0	scottish lawmaker	can continue	vote on english issue	0	0
+1.0	English voter	resent number in	politics	MISC	0
+1.0	union	have	supporters	O	O
+1.0	Finance minister Gordon Brown	warn of	drift	PERSON	0
+1.0	opposition politician	highlight	attraction of division	0	0
+1.0	border	have	policy north	O	O
+1.0	Chancellor	have	comments	O	O
+1.0	Scottish Parliament	control	policy	ORGANIZATION	0
+1.0	scottish lawmaker	can continue	vote at Westminster	0	ORGANIZATION
+1.0	brown	clearly have	May 's election	0	DATE
+1.0	Finance minister Gordon Brown	warn of	dangerous drift	PERSON	0
+1.0	many English voter	resent	number of Scots	MISC	0
+1.0	Scottish Parliament	control policy over	issue	ORGANIZATION	0
+1.0	Finance minister Gordon Brown	warn at_time	Saturday	PERSON	DATE
+1.0	drift	have	warned	O	O
+1.0	lawmaker	be in	London	0	LOCATION
+1.0	Labour Party	be in	1999	ORGANIZATION	DATE
+1.0	May	have	election to the devolve	DATE	0
+1.0	brown	clearly also have	May 's election	0	DATE
+1.0	Britain	have	minister	O	LOCATION
+1.0	Finance minister Gordon Brown	warn of	dangerous drift towards separation	PERSON	0
+1.0	Union	have	Act	O	ORGANIZATION
+1.0	opportunist opposition politician	highlight	attraction of division	0	0
+1.0	country	for	future	0	DATE
+0.7080035348166867	opportunist opposition politician	attraction of	division	0	0
+1.0	Gordon Brown	warn against	balkanisation of Britain	PERSON	LOCATION
+1.0	two	be	unite	NUMBER	0
+1.0	Gordon Brown	outline	vision for we country 's future	PERSON	DATE
+1.0	lawmaker	retain over	control	0	0
+1.0	Finance minister Gordon Brown	warn of	drift towards separation	PERSON	0
+1.0	brown	clearly also have	May 's election to the	0	DATE
+1.0	lawmaker	can continue	vote on issue at Westminster	0	ORGANIZATION
+1.0	Scotland	have	separation	O	LOCATION
+1.0	Gordon Brown	warn in	article in Daily Telegraph	PERSON	ORGANIZATION
+1.0	many English voter	express frustration with	so-called West Lothian Question	MISC	0
+1.0	this	just be wake from	once	0	DATE
+1.0	English voter	see	he	MISC	0
+1.0	brown	also have	May 's election to the	0	DATE
+1.0	lawmaker	can continue	vote	0	0
+1.0	multiculturalism	have	view	O	O
+1.0	scottish lawmaker	vote on	english issue	0	0
+1.0	lawmaker	can continue	vote on issue	0	0
+1.0	English voter	express frustration with	West Lothian Question	MISC	0
+1.0	English voter	express	frustration	MISC	0
+1.0	Scots	have	number	O	O
+1.0	Gordon Brown	warn against	balkanisation	PERSON	0
+1.0	Chancellor 's comment	be	likely	0	0
+1.0	May	have	elections	O	DATE
+1.0	Gordon Brown	have	Labour Party	ORGANIZATION	O
+1.0	many English voter	resent number in	politics at Westminster	MISC	LOCATION
+1.0	Chancellor 's comment	be see as	evidence of he concern	0	0
+1.0	English voter	resent	number	MISC	0
+1.0	Finance minister Gordon Brown	warn of	dangerous drift towards separation of England	PERSON	LOCATION
+1.0	brown	have	May 's election	0	DATE
+1.0	many English voter	resent number in	top-flight politics at Westminster	MISC	LOCATION
+1.0	Gordon Brown	outline	patriotic vision for we country 's future	PERSON	DATE
+1.0	Gordon Brown	warn in	article	PERSON	0
+1.0	it	be	ironic	0	0
+1.0	English voter	resent number in	top-flight politics at Westminster	MISC	LOCATION
+1.0	Chancellor 's comment	be see as	evidence	0	0
+1.0	unity	have	cost	O	O
+1.0	lawmaker	can continue	vote at Westminster	0	ORGANIZATION
+1.0	opposition politician	highlight	attraction	0	0
+1.0	Parliament	be	Scottish	ORGANIZATION	MISC
+1.0	division	have	attractions	O	O
+1.0	scottish lawmaker	vote at	Westminster	0	ORGANIZATION
+1.0	opportunist opposition politician	highlight	attraction	0	0
+1.0	The Chancellor 's	have	concern	O	O
+1.0	our	have	country	O	O
+1.0	English voter	resent number in	politics at Westminster	MISC	LOCATION
+1.0	many English voter	express	frustration	MISC	0
+1.0	this	be wake from	once	0	DATE
+1.0	Scottish Parliament	control	policy in Scotland	ORGANIZATION	LOCATION
+1.0	scottish lawmaker	can continue	vote on english issue at Westminster	0	ORGANIZATION
+1.0	Great Britain	have	Balkanisation	O	LOCATION
+1.0	lawmaker	vote at	Westminster	0	ORGANIZATION
+1.0	Gordon Brown	outline	vision	PERSON	0
+1.0	scottish lawmaker	vote on	issue	0	0
+1.0	scottish lawmaker	can continue	vote on issue	0	0
+1.0	Britain	have	next prime minister	LOCATION	0
+1.0	article	come at_time	day	0	0
+1.0	brown	clearly have	May 's election to the	0	DATE
+1.0	article	be in	Daily Telegraph	0	ORGANIZATION
+1.0	lawmaker	can continue	vote on english issue at Westminster	0	ORGANIZATION
+1.0	English voter	resent	number of Scots	MISC	0
+1.0	lawmaker	retain	control	0	0
+1.0	Gordon Brown	outline	patriotic vision	PERSON	0
+1.0	Gordon Brown	express	regret	PERSON	0
+1.0	scottish lawmaker	can continue	vote	0	0
+1.0	Chancellor 's comment	be	see	0	0
+1.0	country	have	future	DATE	O
+1.0	England	have	separation	O	LOCATION
+1.0	lawmaker	vote on	english issue	0	0
+1.0	many English voter	resent number in	top-flight politics	MISC	0
+1.0	many English voter	express frustration with	West Lothian Question	MISC	0
+1.0	lawmaker	vote on	issue	0	0
+1.0	many English voter	resent number in	politics	MISC	0
+1.0	Act	have	January anniversary	DATE	O
+0.539409636701246	control	lawmaker in	London	0	LOCATION
+1.0	this	have	colleagues	O	O
+1.0	lawmaker	retain control over for	example defence affair	0	0
+1.0	brown	have	May 's election to the	0	DATE
+1.0	Chancellor	have	comment	0	0
+1.0	lawmaker	can continue	vote on english issue	0	0
+1.0	charge	be in	coalition	0	0
+1.0	scottish lawmaker	can continue	vote on issue at Westminster	0	ORGANIZATION
+1.0	lawmaker	retain control for	example defence affair	0	0
+1.0	policy	be in	Scotland	0	LOCATION
+1.0	English voter	express frustration with	so-called West Lothian Question	MISC	0
+1.0	brown	also have	May 's election	0	DATE
+1.0	concern	have	evidence	O	O
+1.0	English voter	resent number in	top-flight politics	MISC	0
+0.7080035348166867	opposition politician	attraction of	division	0	0

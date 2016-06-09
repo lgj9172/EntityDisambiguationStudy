@@ -1,0 +1,130 @@
+1.0	self-rule	have	promise	O	O
+1.0	British Prime Minister Tony Blair	be at	back he Downing Street office	0	LOCATION
+1.0	party	otherwise will see	window of opportunity slam	0	0
+1.0	party	will see	window of opportunity slam	0	0
+1.0	British Prime Minister Tony Blair	have	New Year holiday	O	O
+1.0	source	tell afp close to	prime minister	0	0
+1.0	source	say amid	sign of new hurdle	0	0
+1.0	government	be suspend after	allegation of IRA spy ring	0	ORGANIZATION
+1.0	police	be view until	1994	0	DATE
+1.0	promise	be many among	main plank	0	0
+1.0	Florida	have	US state	O	LOCATION
+1.0	Sinn Fein	have	leader	ORGANIZATION	0
+1.0	government	be	suspend	0	0
+1.0	police	be	until 1994 view by Army	0	DATE
+1.0	province	have	police service	O	O
+1.0	dup	be	wary	0	0
+1.0	have major block	restore	government	0	0
+1.0	police	be	until 1994 view by irish Army	0	DATE
+1.0	Sinn Fein 's leader	vote at_time	week	ORGANIZATION	DATE
+1.0	Ian Paisley	have	party	O	O
+1.0	promise	be many at	hand of IRA	0	ORGANIZATION
+1.0	dup	be	equally wary	0	0
+1.0	government	have set	March 26 deadline	0	DATE
+1.0	Sinn Fein intentions	have	wary	O	O
+1.0	source	say in	northern Ireland peace process	0	LOCATION
+1.0	Sinn Fein	have	refusal back	ORGANIZATION	0
+1.0	Sinn Fein 's leader	hold	conference	ORGANIZATION	0
+1.0	promise	be many among	plank	0	0
+1.0	government	be suspend at	Belfast seat	0	LOCATION
+1.0	have major block	restore	power-sharing government	0	0
+1.0	party	otherwise will see	window of opportunity slam shut	0	0
+1.0	source	tell afp on	condition	0	0
+1.0	promise	be	among plank many at hand of IRA	0	ORGANIZATION
+1.0	source	say amid	sign of hurdle	0	0
+1.0	IRA spy ring	have	allegations	O	O
+1.0	british government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	have block	restore	government	0	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	Sinn Fein 's refusal	have	have stumbling block	ORGANIZATION	0
+1.0	Blair	have	office	O	PERSON
+1.0	Ian Paisley	head of	Protestant Democratic Unionist Party	PERSON	ORGANIZATION
+1.0	Protestant Democratic Unionist Party	have	head	O	ORGANIZATION
+1.0	Ian Paisley	show	flexibility	PERSON	0
+1.0	Northern Ireland -LRB- PSNI -RRB-	have	republic	O	LOCATION
+1.0	Sinn Fein	party in	Northern Ireland	ORGANIZATION	LOCATION
+1.0	government	be	suspend in 2002 after allegation	0	DATE
+1.0	Sinn Fein 's refusal	have	have block	ORGANIZATION	0
+1.0	northern Ireland	for	party have restore	LOCATION	0
+1.0	province	rule indefinitely from	London	0	LOCATION
+1.0	Blair	have	office	PERSON	0
+1.0	promise	be many at	hand	0	0
+1.0	Troubles	have	decades	DURATION	O
+1.0	opportunity slam	have	window	O	O
+1.0	government	be suspend at	Stormont	0	LOCATION
+1.0	source	say amid	sign	0	0
+0.022365932509734954	police	be view by	the IRA	0	ORGANIZATION
+1.0	promise	be	among main plank many at hand of IRA	0	ORGANIZATION
+1.0	promise	be	many	0	0
+1.0	promise	be	among plank many at hand	0	0
+1.0	Sinn Fein 's refusal	have	have major stumbling block	ORGANIZATION	0
+1.0	police	be view by	irish Army	0	ORGANIZATION
+1.0	government	be	suspend after allegation at Stormont	0	LOCATION
+1.0	Gerry Adams	want	vote	PERSON	0
+1.0	anonymity	have	condition	O	O
+1.0	source	say close to	leadership	0	0
+1.0	have stumbling block	restore	government	0	0
+1.0	source	tell afp close to	minister	0	0
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	the PSNI	actually join	the PSNI	ORGANIZATION	0
+1.0	Catholic Party	be in	Northern Ireland	ORGANIZATION	LOCATION
+1.0	refusal	be	stumbling	0	0
+1.0	province	have	police service	0	0
+1.0	Northern Ireland	have	Police Service	O	LOCATION
+1.0	police	be view by	the IRA	0	ORGANIZATION
+1.0	Sinn Fein	have	refusal	O	ORGANIZATION
+1.0	source	say close to	leadership of Sinn Fein	0	ORGANIZATION
+1.0	party	otherwise will see	window	0	0
+1.0	retain link	be with	Britain	0	LOCATION
+1.0	Gerry Adams	want vote from	Republicans	PERSON	MISC
+1.0	British Prime Minister Tony Blair	be at	he Downing Street office on Thursday	0	LOCATION
+1.0	Stormont	seat of	administration	LOCATION	0
+1.0	have major stumbling block	restore	power-sharing government	0	0
+1.0	province	rule from	London	0	LOCATION
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring	0	ORGANIZATION
+1.0	source	say in	Ireland peace process	0	LOCATION
+1.0	government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	source	tell	afp	0	0
+1.0	dup	be wary of	Sinn Fein intention	0	ORGANIZATION
+1.0	have major stumbling block	restore	government	0	0
+1.0	hurdles	have	signs	O	O
+1.0	leadership	be	angry	0	0
+1.0	have block	restore	power-sharing government	0	0
+1.0	Sinn Fein	have	leadership	O	ORGANIZATION
+1.0	the PSNI	join	the PSNI	ORGANIZATION	0
+1.0	party	will see	window	0	0
+1.0	landmark agreement	have	planks	O	O
+1.0	source	tell afp on	condition of anonymity	0	0
+1.0	British Prime Minister Tony Blair	have	Downing Street office	O	O
+1.0	Ireland	have	Republic	LOCATION	LOCATION
+1.0	party	will see	window of opportunity slam shut	0	0
+1.0	government	be suspend at	Belfast seat of administration	0	LOCATION
+1.0	have stumbling block	restore	power-sharing government	0	0
+1.0	irish republican Army	wing of	Sinn Fein	ORGANIZATION	ORGANIZATION
+1.0	means	have	favor	O	O
+1.0	promise	be	among main plank many at hand	0	0
+1.0	Sinn Fein	have	wing	O	ORGANIZATION
+1.0	Sinn Fein	have	leaders	O	ORGANIZATION
+1.0	refusal	be	major	0	0
+1.0	Sinn Fein 's refusal	have	have major block	ORGANIZATION	0
+1.0	government	be	suspend after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	source	say at_time	Wednesday	0	DATE
+1.0	police	be view by	Army	0	ORGANIZATION
+1.0	government	be suspend after	allegation	0	0
+1.0	Ireland	have	parties	O	LOCATION
+1.0	police	be view by	wing	0	0
+1.0	dup	be equally wary of	Sinn Fein intention	0	ORGANIZATION
+1.0	british government	have set	March 26 deadline	0	DATE
+1.0	situation	be in	Northern Ireland	0	LOCATION
+1.0	administration	have	Belfast seat	O	O
+1.0	government	be	suspend in 2002 after allegation at Stormont	0	DATE
+1.0	police	be	view	0	0
+1.0	British Prime Minister Tony Blair	be at	back he Downing Street office on Thursday	0	LOCATION
+1.0	IRA	have	hands	O	ORGANIZATION
+1.0	republican leadership	be	angry	0	0
+1.0	government	be	suspend in 2002 at Stormont	0	DATE
+1.0	British Prime Minister Tony Blair	be at	he Downing Street office	0	LOCATION
+1.0	government	be suspend in	2002	0	DATE
+1.0	source	say close to	British Prime Minister Tony Blair	0	PERSON
+1.0	police	be view by	military wing	0	0
+1.0	Sinn Fein 's leader	vote at_time	last week	ORGANIZATION	DATE

@@ -1,0 +1,75 @@
+1.0	New York 's main contract	crude for	delivery in February	LOCATION	DATE
+1.0	dip	be in	oil price	0	0
+1.0	BMO Capital Markets	be in	New York 's	ORGANIZATION	LOCATION
+1.0	New York 's main contract	be	down	LOCATION	0
+1.0	contract	have tumble	2.73 dollar in US hour	0	MONEY
+1.0	New York 's main contract	have	point	O	O
+1.0	Michael Davies	be	Sucden	PERSON	ORGANIZATION
+1.0	high	owe to	unrest	0	0
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	2.73 dollar	be in	hour	MONEY	0
+1.0	analyst	say of	mild condition in country 's northeast	0	DATE
+1.0	potential disruption	be in	supply	0	0
+1.0	Bart Melek of BMO Capital Markets in New York	say during	US trading hour	PERSON	LOCATION
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	increase	be in	crude inventory	0	0
+1.0	price	record high in	July	0	DATE
+1.0	analyst	say of	condition in country 's northeast	0	DATE
+1.0	65 dollar	be in	the next six month	MONEY	DURATION
+1.0	58.32 dollar	be in	late US trade	MONEY	LOCATION
+1.0	commodities	have	out pulled	O	O
+1.0	market	overlook supply risk in	Iran	0	LOCATION
+1.0	Michael Davies	be analyst of	Sucden	PERSON	ORGANIZATION
+1.0	US Department	be at_time	later Thursday	ORGANIZATION	DATE
+1.0	country	have	northeast	O	O
+1.0	New York 's contract	be down at_time	Wednesday	LOCATION	DATE
+1.0	Victor Shum	principal at	Gertz Inc	PERSON	ORGANIZATION
+1.0	Later Thursday	have	report	O	O
+1.0	January	have	week	DATE	DATE
+1.0	conditions	have	said	O	O
+1.0	milder weather	be in	US	0	LOCATION
+1.0	contract	have tumble 2.73 dollar to	its point since mid	0	0
+1.0	mild condition	be in	country 's northeast	0	DATE
+1.0	analyst	say of	condition	0	0
+1.0	US winter demand	look increasingly	less than expect	LOCATION	0
+1.0	price	record	high	0	0
+1.0	contract	have tumble	2.73 dollar	0	MONEY
+1.0	drop	be in	oil price	0	0
+1.0	disruptions	have	signs	O	O
+1.0	US winter demand	look	less than expect	LOCATION	0
+1.0	US Department	release	its weekly report	ORGANIZATION	SET
+1.0	Brent North Sea crude	fall	five 57.91 dollar	LOCATION	MONEY
+1.0	Sucden analyst Michael Davies	add in	London	ORGANIZATION	LOCATION
+1.0	sharp decline	be in	oil price	0	0
+1.0	New York	have	contract	O	LOCATION
+1.0	market	overlook	supply risk	0	0
+0.8374623263990905	geopolitical concern	milder weather in	US	0	LOCATION
+1.0	contract	have tumble 2.73 dollar to	its lowest point since mid	0	0
+1.0	contract	have tumble 2.73 dollar to	its point	0	0
+1.0	country	in	northeast	0	DATE
+1.0	US Department	be at_time	Thursday	ORGANIZATION	DATE
+1.0	US winter demand	be	less than expect	LOCATION	0
+1.0	New York 's main contract	be down at_time	Wednesday	LOCATION	DATE
+1.0	Gertz Inc	be in	Singapore	ORGANIZATION	LOCATION
+1.0	then	have tumble since	then	0	0
+1.0	US winter demand	be	expect	LOCATION	0
+1.0	New York	have	main contract	LOCATION	0
+1.0	Victor Shum	say	predict	0	0
+1.0	milder weather	counter	geopolitical concern	0	0
+1.0	delivery	be in	February	0	DATE
+1.0	Bart Melek	be of	BMO Capital Markets	PERSON	ORGANIZATION
+1.0	unseasonal weather	be in	December	DATE	DATE
+1.0	weather	counter	geopolitical concern	0	0
+1.0	US winter demand	look increasingly	expect	LOCATION	0
+1.0	BMO Capital Markets	have	Bart Melek	PERSON	ORGANIZATION
+1.0	New York 's contract	be	down	LOCATION	0
+1.0	contract	have tumble 2.73 dollar to	its lowest point	0	0
+1.0	analyst	say of	mild condition	0	0
+1.0	US Department	release	its report	ORGANIZATION	0
+1.0	price	record high above	78 dollar	0	MONEY
+1.0	high	owe in	oil-rich Middle East	0	LOCATION
+1.0	high	owe in	Middle East	0	LOCATION
+0.8374623263990905	geopolitical concern	weather in	US	0	LOCATION
+1.0	US winter demand	look	expect	LOCATION	0
+1.0	energy stockpile	be in	country	0	0
+1.0	warm winter weather	be in	northern hemisphere	DATE	0

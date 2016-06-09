@@ -1,0 +1,31 @@
+1.0	indian Kashmir	in	main city	LOCATION	0
+1.0	police	fire rubber bullet in	Srinagar demonstrate	0	LOCATION
+1.0	president Saddam Hussein	have	execution	O	PERSON
+1.0	police	fire rubber bullet in	Srinagar demonstrate against Saddam 's execution in Baghdad	0	LOCATION
+1.0	Saddam	have	execution	O	PERSON
+1.0	Saddam	have	regime	O	PERSON
+1.0	Kashmir	have	city	O	LOCATION
+1.0	Sunni militants	have	hub	O	O
+1.0	police	fire rubber bullet in	Srinagar demonstrate against Saddam 's execution	0	LOCATION
+1.0	police	fire rubber bullet in	Srinagar 's	0	LOCATION
+1.0	Srinagar	have	business centre	O	LOCATION
+1.0	police	fire rubber bullet in	Srinagar demonstrate against Saddam 's execution Saturday in Baghdad	0	DATE
+1.0	police	fire rubber bullet in	Srinagar demonstrate against Saddam 's execution Saturday	0	DATE
+1.0	trader	hold	strike	0	0
+0.5371675545474909	Srinagar 's	demonstrate against	Saddam execution	LOCATION	PERSON
+0.5371675545474909	Srinagar 's	demonstrate in	Baghdad	LOCATION	LOCATION
+1.0	Srinagar	have	main business centre	LOCATION	0
+1.0	Saddam	against	execution	PERSON	0
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	warm tie	be with	Saddam 's regime	0	PERSON
+1.0	most shop	shut	business	0	0
+1.0	shop	shut	business	0	0
+1.0	police	fire	rubber bullet	0	0
+1.0	police	fire rubber bullet in	Srinagar demonstrate in Baghdad	0	LOCATION
+1.0	police	fire rubber bullet in	Srinagar demonstrate Saturday	0	DATE
+1.0	Saddam	with	regime	PERSON	0
+1.0	Srinagar	have	parts	O	LOCATION
+1.0	police	fire rubber bullet in	Srinagar demonstrate Saturday in Baghdad	0	DATE
+1.0	a strike to protest the execution of former Iraqi president Saddam Hussein	have	areas	O	O
+1.0	police	fire rubber bullet at	protester	0	0
+0.5371675545474909	Srinagar 's	demonstrate	Saturday	LOCATION	DATE

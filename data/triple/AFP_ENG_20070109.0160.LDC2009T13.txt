@@ -1,0 +1,23 @@
+1.0	celebrity 's lawyer	enter	plea	0	0
+1.0	american celebrity	's lawyer be	Shawn Holley	0	PERSON
+1.0	celebrity 's lawyer	enter plea in	Los Angeles court	0	LOCATION
+1.0	Hilton 25	be	arrest	ORGANIZATION	0
+1.0	Hilton 25	be	arrest in Hollywood on September 7	ORGANIZATION	DATE
+1.0	celebrity	have	lawyer	O	O
+1.0	american celebrity 's lawyer	enter plea in	Los Angeles court	0	LOCATION
+1.0	Tuesday	have	hearing	O	DATE
+1.0	Hilton	be arrest on	September 7	ORGANIZATION	DATE
+1.0	Paris Hilton	have	Mercedes	O	O
+1.0	Hilton	be	arrest in Hollywood on September 7	ORGANIZATION	DATE
+1.0	Hilton 25	be arrest on	September 7	ORGANIZATION	DATE
+1.0	Paris Hilton	drive under	influence	PERSON	0
+1.0	Hilton 25	be arrest in	Hollywood	ORGANIZATION	LOCATION
+1.0	american celebrity	have	lawyer	0	0
+1.0	Hilton	be arrest in	Hollywood	ORGANIZATION	LOCATION
+1.0	Paris Hilton	be arrest in	Hollywood	0	LOCATION
+1.0	her	have	Mercedes SLR	O	O
+1.0	Hilton	be	arrest	ORGANIZATION	0
+1.0	Paris Hilton	be	arrest	0	0
+1.0	american celebrity 's lawyer	enter	plea	0	0
+1.0	Hilton	be	25	ORGANIZATION	NUMBER
+1.0	Paris Hilton	drive	she mercedes	0	0

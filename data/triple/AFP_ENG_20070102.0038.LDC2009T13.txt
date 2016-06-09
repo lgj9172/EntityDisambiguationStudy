@@ -1,0 +1,8 @@
+1.0	territories	have	control	O	O
+1.0	government	have gain	control	0	0
+1.0	Somalia	have	control	O	LOCATION
+1.0	government	say at_time	Tuesday	0	DATE
+1.0	government	have gain	control of southern Somalia	0	LOCATION
+1.0	country	have	part	O	O
+1.0	somali government	say at_time	Tuesday	0	DATE
+1.0	government	have gain	control of Somalia	0	LOCATION

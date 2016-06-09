@@ -1,0 +1,94 @@
+1.0	recent upturn	be in	oil price	0	0
+1.0	currency	have	ascent	O	O
+1.0	consumers	have	views	O	O
+1.0	budget	have	percent	PERCENT	O
+1.0	the win	have	rise	0	0
+1.0	spending growth	be expect	fall	0	0
+1.0	government	increase	investment in infrastructure	0	0
+1.0	government	increase investment by	18 percent	0	PERCENT
+1.0	domestic spending growth	be expect	fall	0	0
+1.0	corporate capital spending	grow	6.5 percent	0	PERCENT
+1.0	domestic spending growth	fall to	3.9 percent	0	PERCENT
+1.0	government Thursday	announce	plan	DATE	0
+1.0	government	lower	its economic growth forecast	0	0
+1.0	The South Korean government Thursday	have	growth forecast	O	O
+0.28627611980559997	housing price	rise at_time	year	0	DATE
+1.0	government	announce	plan	0	0
+1.0	economy	expand	4.5 percent from its earlier forecast	0	PERCENT
+1.0	domestic spending growth	be	expect	0	0
+1.0	economy	expand	4.5 percent down from its forecast	0	PERCENT
+1.0	North Korea	have	nuclear program	LOCATION	0
+1.0	investment	be in	social infrastructure	0	0
+1.0	government	lower	its growth forecast	0	0
+1.0	local currency	have	ascent against US dollar	0	LOCATION
+1.0	government Thursday	lower	its growth forecast	DATE	0
+1.0	Finance	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	economy	expand	4.5 percent	0	PERCENT
+1.0	this year	have	presidential election	DATE	0
+1.0	spending growth	be	expect	0	0
+1.0	south korean government Thursday	lower	its growth forecast	DATE	0
+1.0	Economy	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	economy	expand	4.5 percent down from its forecast of 4.6 percent	0	PERCENT
+1.0	it	create	regional financial hub	0	0
+1.0	government Thursday	lower	its economic growth forecast	DATE	0
+1.0	government	will front-load	56 percent of its budget	0	PERCENT
+1.0	Chung Chang-ho	official from	National Statistics Office	PERSON	ORGANIZATION
+1.0	the economy	have	forecast	O	O
+1.0	government	will front-load	56 percent of its budget in half	0	PERCENT
+1.0	south korean government Thursday	announce	plan	DATE	0
+1.0	slowdown	be in	US economy	0	LOCATION
+1.0	household debt	have	said	O	O
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	spending growth	fall to	3.9 percent	0	PERCENT
+1.0	it	would press ahead with	policy package	0	0
+1.0	government	increase	investment	0	0
+1.0	360 billion	spend	more	MONEY	0
+1.0	North Korea	have	programs	O	LOCATION
+1.0	it	create	hub	0	0
+1.0	government	will front-load	56 percent of its budget in first half	0	DATE
+1.0	capital spending	grow down	6.5 percent	0	PERCENT
+1.0	its budget	be in	the first half of this year	0	DATE
+1.0	government	sustain	growth	0	0
+1.0	south korean government	lower	its economic growth forecast	0	0
+1.0	korean government	announce	plan	0	0
+1.0	government	increase	investment in social infrastructure	0	0
+1.0	free trade agreement	be in	first half	0	ORDINAL
+1.0	it	would press with	policy package	0	0
+1.0	domestic spending growth	be expect	fall to 3.9 percent	0	PERCENT
+1.0	economy	expand	4.5 percent down from its earlier forecast of 4.6 percent	0	PERCENT
+0.28627611980559997	housing price	rise accord to	report	0	0
+0.28627611980559997	housing price	rise accord to	report by Kookmin Bank	0	ORGANIZATION
+1.0	year	have	elections	O	DATE
+1.0	it	create	regional hub	0	0
+1.0	south korean government Thursday	lower	its economic growth forecast	DATE	0
+1.0	it	would also press with	policy package	0	0
+1.0	south korean government	announce	plan	0	0
+1.0	korean government Thursday	announce	plan	DATE	0
+1.0	The South Korean government Thursday	have	budget	O	O
+1.0	spending growth	be expect	fall to 3.9 percent	0	PERCENT
+1.0	government	will front-load	56 percent	0	PERCENT
+1.0	it	would also press ahead with	policy package	0	0
+1.0	the	have	rise	O	O
+1.0	capital spending	grow	6.5 percent	0	PERCENT
+1.0	percent	have	forecast	O	PERCENT
+1.0	economy	expand	4.5 percent from its forecast of 4.6 percent	0	PERCENT
+1.0	savings rate	have	said	O	O
+1.0	korean government	lower	its growth forecast	0	0
+1.0	one billion dollar	be in	2007	MONEY	DATE
+1.0	economy	expand	4.5 percent down from its earlier forecast	0	PERCENT
+1.0	it	say of	household debt	0	0
+1.0	south korean government	lower	its growth forecast	0	0
+1.0	corporate capital spending	grow down	6.5 percent	0	PERCENT
+1.0	economy	expand	4.5 percent from its forecast	0	PERCENT
+1.0	korean government Thursday	lower	its growth forecast	DATE	0
+1.0	housing price	rise	average 11.6 percent	0	PERCENT
+0.28627611980559997	housing price	rise at_time	last year	0	DATE
+1.0	it	say of	soar household debt	0	0
+1.0	korean government	lower	its economic growth forecast	0	0
+1.0	4.2 percent	be in	2006	PERCENT	DATE
+1.0	korean government Thursday	lower	its economic growth forecast	DATE	0
+1.0	ministry	provide	360 billion	0	MONEY
+1.0	it	create	financial hub	0	0
+1.0	economy	expand	4.5 percent from its earlier forecast of 4.6 percent	0	PERCENT
+1.0	housing price	rise	11.6 percent	0	PERCENT
+1.0	year	have	half	DATE	DATE

@@ -1,0 +1,13 @@
+1.0	shoot-out	be with	guerrilla in late December	0	DATE
+1.0	explosive	have	have seize	0	0
+1.0	explosive	have	have seize by police after shoot-out	0	0
+1.0	explosive	have	have seize by police	0	0
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	early January	PERSON	DATE
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	January	PERSON	DATE
+1.0	list	have	Explosives	O	O
+1.0	guerrilla	be in	late December	0	DATE
+1.0	explosive	have	have seize after shoot-out	0	0
+1.0	diplomats	have	list	O	O
+1.0	foreign diplomat	be in	Tunis	0	LOCATION
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	Friday	PERSON	DATE
+1.0	embassies	have	Explosives	O	O

@@ -1,0 +1,61 @@
+1.0	bid	have	possibility	O	O
+1.0	candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	New Year 's	during	speech	DATE	0
+0.8397993234145578	he	four-fifth of	french public	0	0
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	centre-right candidacy	play jean-marie le pen into	hand	0	0
+1.0	French President Jacques Chirac	say frontrunner against	he rival on french right Nicolas Sarkozy	PERSON	PERSON
+1.0	rival candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	public	have	four-fifths	O	O
+1.0	candidacy	play jean-marie le pen into	hand	0	0
+1.0	Jacques Chirac	be	French	PERSON	MISC
+1.0	he	have	have accuse by member for Popular Movement	0	ORGANIZATION
+1.0	French President Jacques Chirac	ask to	press	PERSON	0
+1.0	French President Jacques Chirac	be	74	PERSON	NUMBER
+1.0	rival centre-right candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	French President Jacques Chirac	say frontrunner against	he rival on right Nicolas Sarkozy	PERSON	PERSON
+1.0	Jean-Marie Le Pen	be leader of	National front	PERSON	ORGANIZATION
+1.0	rival candidacy	play jean-marie le pen into	hand	0	0
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	centre-right candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	April	have	election	O	DATE
+1.0	French President Jacques Chirac	be candidate in	April 's presidential election	0	DATE
+1.0	he	have	have accuse for Popular Movement	0	ORGANIZATION
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand	0	0
+1.0	French President Jacques Chirac	have	rival	O	O
+0.633593924617174	French President Jacques Chirac	say against	he rival on right Nicolas Sarkozy	PERSON	PERSON
+1.0	would candidate	be in	April 's presidential election	0	DATE
+1.0	candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	rival candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	French President Jacques Chirac	say frontrunner at_time	Thursday	PERSON	DATE
+1.0	rival candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	frontrunner	succeed	French President Jacques Chirac	0	0
+1.0	he	have	have accuse	0	ORGANIZATION
+0.2890677270592331	Jean-Marie Le Pen	increase	he chance	PERSON	0
+1.0	French President Jacques Chirac	reply	something	PERSON	0
+1.0	ruling Union	have	members	O	ORGANIZATION
+1.0	April	in	presidential election	DATE	0
+1.0	that	be	something	0	0
+1.0	New Year	have	speech	O	DATE
+0.8397993234145578	he	four-fifth of	public	0	0
+1.0	centre-right candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	the far-right National Front leader	have	chances	O	O
+1.0	party	as	official candidate	ORGANIZATION	ORGANIZATION
+1.0	minister	have	chances	O	O
+1.0	French President Jacques Chirac	have	ally Prime Minister Dominique Villepin	PERSON	O
+1.0	that	be	something consider	0	0
+1.0	French President Jacques Chirac	ask during	New Year 's speech	PERSON	DATE
+1.0	French President Jacques Chirac	be	candidate	0	0
+0.633593924617174	French President Jacques Chirac	say against	he rival	PERSON	0
+1.0	French President Jacques Chirac	reply	something consider	PERSON	0
+1.0	party	have	candidate	O	O
+1.0	French President Jacques Chirac	say	frontrunner	PERSON	0
+1.0	candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	French President Jacques Chirac	say frontrunner against	he rival	PERSON	0
+1.0	centre-right candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+0.633593924617174	French President Jacques Chirac	say at_time	Thursday	PERSON	DATE
+0.633593924617174	French President Jacques Chirac	say against	he rival on french right Nicolas Sarkozy	PERSON	PERSON
+1.0	he	have	have accuse by member	0	ORGANIZATION
+1.0	French President Jacques Chirac	be candidate in	April 's election	0	DATE
+1.0	National Front leader	have	hands	O	O
+1.0	Nicolas Sarkozy	be on	french	PERSON	0

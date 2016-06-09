@@ -1,0 +1,11 @@
+1.0	Poland	have	episcopate	O	LOCATION
+1.0	Poland 's episcopate	call at_time	Friday	LOCATION	DATE
+1.0	Poland 's episcopate	call	probe	LOCATION	0
+1.0	Poland 's episcopate	call for	past of bishop in overwhelmingly catholic country	LOCATION	DATE
+1.0	bishops	have	past	DATE	O
+1.0	Poland 's episcopate	be	probe	LOCATION	0
+1.0	Poland 's episcopate	be probe	see	LOCATION	0
+1.0	they	collaborate with	police	DATE	0
+1.0	they	collaborate with	communist secret police	DATE	0
+1.0	Poland	have	episcopate	LOCATION	0
+1.0	they	collaborate with	secret police	DATE	0

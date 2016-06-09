@@ -1,0 +1,15 @@
+1.0	disease	have infect	nearly 200 people	0	NUMBER
+1.0	country	in	Northeastern Province	0	LOCATION
+1.0	Rift Valley fever	have	outbreak	O	O
+1.0	Omar Ahmed	chief in	Northeastern Province	PERSON	LOCATION
+1.0	health ministry	threaten	countrywide explosion	0	0
+1.0	country	have	Northeastern Province	LOCATION	O
+1.0	25 life	be in	Kenya	NUMBER	LOCATION
+1.0	outbreak	be	diagonise	0	0
+1.0	outbreak	be first diagonise in	mid-december	0	0
+1.0	outbreak	be	first diagonise	0	ORDINAL
+1.0	health official	say at_time	Thursday	0	DATE
+1.0	health ministry	threaten	explosion	0	0
+1.0	outbreak	be diagonise in	mid-december	0	0
+1.0	medical service chief	be in	Northeastern Province	0	LOCATION
+1.0	blood	have	fever	O	O

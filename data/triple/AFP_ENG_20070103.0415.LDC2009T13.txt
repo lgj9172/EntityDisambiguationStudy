@@ -1,0 +1,186 @@
+1.0	attack	come to	political group	0	0
+1.0	second ecuadorian man	remain	missing	DURATION	0
+1.0	person	be kill by	separatist group ETA	0	ORGANIZATION
+1.0	Mariano Rajoy	leader of	Popular Party	PERSON	ORGANIZATION
+1.0	person	be kill by	armed separatist group ETA	0	ORGANIZATION
+1.0	person	be	kill in Saturday 's Madrid airport blast by basque separatist group ETA	0	DATE
+1.0	fresh blow	hope for	peace over Spain 's troubled region	0	LOCATION
+1.0	committee member Joseba Alvarez	say	Batasuna executive	PERSON	PERSON
+1.0	basque goverment	call for	protest	0	0
+1.0	ETA	be by	basque	ORGANIZATION	0
+1.0	Spain	over	troubled basque region	LOCATION	0
+1.0	Palate	have	remains	0	0
+1.0	ministry	confirm	first eta-related death	0	ORDINAL
+0.0025671451558210157	Batasuna	want	stand	PERSON	0
+1.0	Navarra	have	region	O	LOCATION
+1.0	Madrid	announce	day of mourning	LOCATION	DURATION
+1.0	it	accept	rule	0	0
+1.0	ministry	confirm death since	May 30 2003	0	DATE
+1.0	Zapatero	be	due	PERSON	0
+0.022365932509734954	Madrid city hall	declare for	Thursday	LOCATION	DURATION
+1.0	basque goverment	condemn	blast	0	0
+1.0	Zapatero	see devastation for	himself Thursday	PERSON	DATE
+1.0	ecuadorian man	remain	missing	0	0
+1.0	person	be kill in	attack	0	0
+1.0	regional goverment	call outside	building in northern region	0	0
+1.0	regional goverment	call outside	institutional building in wealthy region	0	0
+1.0	regional basque goverment	call outside	building in region	0	0
+1.0	person	be	kill in Saturday 's Madrid airport blast by armed separatist group ETA	0	DATE
+1.0	ministry	confirm	death	0	0
+1.0	Madrid city hall	call for	silent midday protest	LOCATION	DURATION
+1.0	goverment	call outside	building in northern region	0	0
+1.0	diego Armando Estacio Civizapa	be	19-year-old	PERSON	DURATION
+1.0	basque goverment	call at	midday	0	TIME
+1.0	goverment	call outside	building	0	0
+1.0	regional basque goverment	condemn	blast	0	0
+1.0	basque goverment	call outside	building	0	0
+1.0	goverment	call outside	institutional building in wealthy region	0	0
+1.0	Rubalcaba	say at_time	Wednesday	PERSON	DATE
+1.0	Carlos Alonso Palate	of	car	PERSON	DURATION
+1.0	radio Euskadi	be	basque	ORGANIZATION	0
+1.0	ETA	have	Batasuna	ORGANIZATION	ORGANIZATION
+1.0	Socialists	urge	political unity	0	0
+1.0	bombing	be in	region of Navarra	0	LOCATION
+1.0	man	have	body	0	0
+1.0	basque goverment	call outside	institutional building in northern region	0	0
+1.0	basque goverment	call outside	institutional building in wealthy northern region	0	0
+1.0	government	act after	blast	0	0
+1.0	Alvarez	tell	basque radio station radio Euskadi	PERSON	ORGANIZATION
+1.0	person	be	kill by separatist group ETA since 2003	0	DATE
+1.0	his	have	talks	O	O
+1.0	fresh blow	hope for	peace over Spain 's region	0	LOCATION
+1.0	goverment	call outside	institutional building in northern region	0	0
+1.0	tension	be in	ETA leadership	0	ORGANIZATION
+1.0	Carlos Alonso Palate	have	car	O	PERSON
+1.0	regional goverment	call for	protest	0	0
+1.0	regional basque goverment	call for	protest	0	0
+1.0	Madrid	announce	basque authority	LOCATION	DURATION
+1.0	regional basque goverment	call outside	institutional building	0	0
+1.0	Carlos Alonso Palate	have	remains	O	O
+1.0	responsibility	be in	one	0	NUMBER
+1.0	government	have	approach	O	O
+1.0	hardliners	have	families	O	O
+1.0	blow	hope for	peace over Spain 's troubled basque region	0	LOCATION
+1.0	regional goverment	condemn	blast	0	0
+0.4222076705520951	Interior Minister Alfredo Perez Rubalcaba	announce	Tuesday	PERSON	DATE
+1.0	basque goverment	call for	silent protest	0	0
+1.0	interior ministry	identify	remains	ORGANIZATION	DURATION
+1.0	regional goverment	call outside	building in region	0	0
+1.0	ETA	have	batasuna	ORGANIZATION	0
+1.0	Palate	have	relatives	O	O
+1.0	person	be kill in	first attack	0	ORDINAL
+1.0	goverment	call outside	institutional building in region	0	0
+1.0	person	be	kill by armed basque separatist group ETA since 2003	0	DATE
+1.0	Madrid city hall	call for	midday protest	LOCATION	DURATION
+1.0	goverment	call outside	institutional building	0	0
+1.0	regional basque goverment	call outside	building in wealthy northern region	0	0
+1.0	his	have	vehicle	O	O
+1.0	second man	remain	missing	DURATION	0
+1.0	regional basque goverment	call outside	building in wealthy region	0	0
+1.0	Valencia	have	city	O	LOCATION
+1.0	regional goverment	call outside	institutional building	0	0
+1.0	regional goverment	call at	midday	0	TIME
+1.0	government	have	view	O	O
+1.0	person	be	kill by basque separatist group ETA since 2003	0	DATE
+1.0	person	be	kill in Saturday 's Madrid airport blast by armed basque separatist group ETA	0	DATE
+1.0	Madrid city hall	declare	official day of mourning	LOCATION	DURATION
+1.0	spanish government	have	view	0	0
+1.0	concrete	have	storeys	O	O
+1.0	opposition Popular Party	have	leader	O	ORGANIZATION
+1.0	fresh blow	hope for	peace over Spain 's troubled basque region	0	LOCATION
+1.0	Saturday	in	Madrid airport blast	DATE	LOCATION
+1.0	blow	hope for	peace	0	0
+1.0	Palate	have	remains	O	O
+1.0	person	be	kill	0	0
+1.0	basque goverment	call outside	building in northern region	0	0
+1.0	Saturday	's blast be	first lethal attack	DATE	ORDINAL
+1.0	Palate 's remains	be	find	0	0
+1.0	person	be	kill in Saturday 's Madrid airport blast by basque separatist group ETA since 2003	0	DATE
+0.0025671451558210157	Batasuna	want	stand in May	PERSON	DATE
+1.0	person	be kill in	first lethal attack	0	ORDINAL
+1.0	goverment	call outside	building in region	0	0
+1.0	Zapatero	see	devastation	PERSON	0
+1.0	person	be kill in	lethal attack	0	0
+1.0	person	be kill by	basque separatist group ETA	0	ORGANIZATION
+1.0	relative	locate	man 's body	0	0
+1.0	regional goverment	call outside	building in wealthy region	0	0
+1.0	storeys	have	impact	O	O
+0.9135444816083425	Batasuna	ban since	2003	PERSON	DATE
+1.0	regional goverment	call outside	building	0	0
+1.0	telephone	have	one	NUMBER	O
+1.0	fresh blow	hope for	peace over Spain 's basque region	0	LOCATION
+1.0	goverment	call at	midday	0	TIME
+1.0	regional goverment	call for	silent protest	0	0
+1.0	regional basque goverment	call outside	institutional building in region	0	0
+1.0	Saturday	have	Madrid airport blast	O	DATE
+1.0	bombing	be with	Alfredo Perez Rubalcaba	0	PERSON
+1.0	Spain	have	region	O	LOCATION
+1.0	protection unit	have	director	O	O
+1.0	rule	condemn	violence	0	0
+1.0	Alvarez	tell	radio station radio Euskadi	PERSON	ORGANIZATION
+1.0	regional basque goverment	call outside	building in northern region	0	0
+1.0	person	be	kill in Saturday 's Madrid airport blast by armed separatist group ETA since 2003	0	DATE
+1.0	hope	suffer	blow	0	0
+1.0	Socialists	urge	unity	0	0
+0.0025671451558210157	Batasuna	stand in	May	PERSON	DATE
+1.0	Del Alamo	say	say	PERSON	0
+1.0	ministry	confirm	first death	0	ORDINAL
+1.0	basque goverment	call outside	building in wealthy northern region	0	0
+1.0	regional goverment	call outside	institutional building in region	0	0
+1.0	blow	hope for	peace over Spain 's troubled region	0	LOCATION
+1.0	regional basque goverment	call outside	institutional building in wealthy northern region	0	0
+1.0	person	be kill by	armed basque separatist group ETA	0	ORGANIZATION
+1.0	person	be	kill by armed separatist group ETA since 2003	0	DATE
+1.0	person	be kill since	2003	0	DATE
+1.0	man	have	body	O	O
+1.0	regional goverment	call outside	institutional building in northern region	0	0
+1.0	person	be kill in	Saturday 's Madrid airport blast	0	DATE
+1.0	institutional building	be in	wealthy northern region	0	0
+1.0	attack	come as	surprise	0	0
+1.0	basque goverment	call outside	institutional building	0	0
+1.0	blast	have	calls	O	O
+1.0	goverment	condemn	blast	0	0
+1.0	goverment	call for	protest	0	0
+1.0	construction worker	have	remains	O	O
+1.0	person	be	kill in Saturday 's Madrid airport blast by separatist group ETA since 2003	0	DATE
+1.0	Madrid	have	protection unit	O	LOCATION
+1.0	Civizapa	have	relatives	O	O
+1.0	fresh blow	hope for	peace	0	0
+1.0	blow	hope for	peace over Spain 's region	0	LOCATION
+1.0	goverment	call outside	building in wealthy northern region	0	0
+1.0	regional basque goverment	call outside	institutional building in wealthy region	0	0
+1.0	regional goverment	call outside	institutional building in wealthy northern region	0	0
+1.0	regional goverment	call outside	building in wealthy northern region	0	0
+1.0	ministry	confirm	eta-related death	0	0
+1.0	regional basque goverment	call outside	building	0	0
+1.0	attack	come to	group	0	0
+1.0	blow	hope for	peace over Spain 's basque region	0	LOCATION
+1.0	Joseba Alvarez	be executive committee member of	ETA 's banned political wing Batasuna	PERSON	PERSON
+1.0	authority	confirm at_time	Wednesday	0	DATE
+1.0	goverment	call outside	institutional building in wealthy northern region	0	0
+1.0	Zapatero	see devastation for	himself early Thursday	PERSON	DATE
+1.0	car	have	wreck	O	O
+1.0	Madrid city hall	declare	day of mourning	LOCATION	DURATION
+1.0	Madrid	of	civil protection unit	LOCATION	0
+1.0	regional basque goverment	call outside	institutional building in northern region	0	0
+1.0	basque goverment	call outside	institutional building in region	0	0
+1.0	regional basque goverment	call at	midday	0	TIME
+1.0	Mariano Rajoy	demand	know	PERSON	0
+1.0	person	be	kill in Saturday 's Madrid airport blast by armed basque separatist group ETA since 2003	0	DATE
+1.0	their	have	negotiator Josu Ternera	PERSON	O
+1.0	person	be	kill in Saturday 's Madrid airport blast by separatist group ETA	0	DATE
+1.0	man	remain	missing	0	0
+1.0	basque goverment	call outside	institutional building in wealthy region	0	0
+1.0	Batasuna	have	member	O	PERSON
+0.9135444816083425	Batasuna	legally ban since	2003	PERSON	DATE
+1.0	openness	have	one	NUMBER	O
+1.0	basque goverment	call outside	building in region	0	0
+1.0	goverment	call for	silent protest	0	0
+1.0	negotiation	be with	the armed Basque separatist group ETA	0	ORGANIZATION
+1.0	ministry	identify	remains	ORGANIZATION	DURATION
+1.0	Zapatero	see devastation for	himself	PERSON	0
+1.0	person	be	kill in Saturday 's Madrid airport blast since 2003	0	DATE
+1.0	Madrid	announce	authority	LOCATION	DURATION
+1.0	regional basque goverment	call for	silent protest	0	0
+1.0	basque goverment	call outside	building in wealthy region	0	0
+1.0	goverment	call outside	building in wealthy region	0	0

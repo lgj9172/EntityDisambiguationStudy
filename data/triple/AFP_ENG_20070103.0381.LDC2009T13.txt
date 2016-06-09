@@ -1,0 +1,45 @@
+1.0	she	have hold number in	United Nations	0	ORGANIZATION
+1.0	New UN Secretary General Ban Ki-moon	name	mexican Alicia Barcena	PERSON	PERSON
+1.0	biologist director	will replace	Christopher Burnham	0	PERSON
+1.0	Mexican Alicia Barcena as his deputy	be previously chief of	cabinet for just-departed secretary general Kofi Annan	PERSON	PERSON
+1.0	Ban	have	spokeswoman	O	O
+1.0	New UN Secretary General Ban Ki-moon	have	deputy	O	O
+1.0	Ban Ki-moon	be	the United Nations	PERSON	ORGANIZATION
+1.0	Mexican Alicia Barcena as his deputy	be previously chief of	cabinet for just-departed secretary Kofi Annan	PERSON	PERSON
+1.0	she	have hold number include	coordinator	0	0
+1.0	Mexican Alicia Barcena as his deputy	be chief of	cabinet for secretary general Kofi Annan	PERSON	PERSON
+1.0	she	have hold	number of position	0	0
+1.0	UN Environment Programme	have	coordinator	O	ORGANIZATION
+1.0	Fisheries	have	National Institute	ORGANIZATION	ORGANIZATION
+1.0	she	have hold	number of senior position	0	0
+1.0	ecology	have	vice minister	O	O
+1.0	post	be in	UN Economic Commission	0	ORGANIZATION
+1.0	New UN Secretary General Ban Ki-moon	name	Alicia Barcena	PERSON	PERSON
+1.0	Mexican Alicia Barcena as his deputy	be previously chief of	cabinet	PERSON	0
+1.0	biologist director	will replace	Christopher Burnham as UN secretary general	0	ORGANIZATION
+1.0	cabinet	have	chief	O	O
+1.0	she	have hold	number	0	0
+1.0	Mexican Alicia Barcena as his deputy	be chief of	cabinet for just-departed secretary Kofi Annan	PERSON	PERSON
+1.0	she	have hold number include	coordinator of UN environment Programme	0	ORGANIZATION
+1.0	New UN Secretary General Ban Ki-moon	name alicia barcena in	charge	PERSON	0
+1.0	Mexican Alicia Barcena as his deputy	be previously chief of	cabinet for secretary Kofi Annan	PERSON	PERSON
+1.0	New UN Secretary General Ban Ki-moon	name	Alicia Barcena as he deputy	PERSON	PERSON
+1.0	Mexican Alicia Barcena as his deputy	be chief of	cabinet for secretary Kofi Annan	PERSON	PERSON
+1.0	Mexican Alicia Barcena as his deputy	be chief of	cabinet for just-departed secretary general Kofi Annan	PERSON	PERSON
+1.0	Mexican Alicia Barcena as his deputy	be	previously chief	PERSON	DATE
+1.0	Mexican Alicia Barcena as his deputy	be chief of	cabinet	PERSON	0
+1.0	Mexican Alicia Barcena as his deputy	be	chief	PERSON	0
+1.0	ban 's spokeswoman	announce at_time	Wednesday	0	DATE
+1.0	Alicia Barcena	be	mexican	PERSON	0
+1.0	Ban Ki-moon	be secretary general of	the United Nations	PERSON	ORGANIZATION
+1.0	Mexico	of	National Institute of Fisheries	LOCATION	ORGANIZATION
+1.0	New UN Secretary General Ban Ki-moon	name	mexican Alicia Barcena as he deputy	PERSON	PERSON
+1.0	Mexico	have	National Institute	ORGANIZATION	LOCATION
+1.0	Mexican Alicia Barcena as his deputy	be previously chief of	cabinet for secretary general Kofi Annan	PERSON	PERSON
+1.0	vice minister	have	biologist former director	O	O
+1.0	National Institute	have	biologist former director	O	ORGANIZATION
+1.0	India	have	Vijay Nambiar	PERSON	LOCATION
+1.0	ban	have	spokeswoman	0	0
+1.0	UN Economic Commission	be for	Latin America	ORGANIZATION	LOCATION
+1.0	positions	have	number	O	O
+1.0	biologist director	will replace christopher burnham for	management	0	0

@@ -1,0 +1,65 @@
+1.0	O'Neal	undergo surgery on	he knee	PERSON	0
+1.0	their	have	NBA title	O	O
+1.0	they	be 10th in	one-half game	0	0
+1.0	Heat 's inaugural coach	be in	1988	0	DATE
+1.0	O'Neal	undergo	surgery	PERSON	0
+1.0	NBA finals	have	Valuable Player	O	O
+1.0	they	be 10th in	one-half game behind Milwaukee	0	ORGANIZATION
+1.0	Riley	guide heat at_time	June	PERSON	DATE
+1.0	Eastern Conference	game behind	Milwaukee	0	ORGANIZATION
+1.0	they	be 10th in	game behind Milwaukee for final playoff spot	0	ORGANIZATION
+1.0	his	have	knee	O	O
+1.0	they	be 10th in	game behind Milwaukee for playoff spot	0	ORGANIZATION
+1.0	he	come back as	coach	0	0
+1.0	they	be 10th in	game behind Milwaukee	0	ORGANIZATION
+1.0	he left knee	be in	November	0	DATE
+1.0	O'Neal	undergo surgery on	he left knee	PERSON	0
+1.0	O'Neal	undergo surgery on	he knee in November	PERSON	DATE
+1.0	they	be 10th in	Eastern Conference	0	0
+1.0	Miami Heat	have	coach	O	O
+1.0	year	have	NBA finals	O	DATE
+1.0	Pat Riley	have	hour-long operation on Thursday	PERSON	DATE
+1.0	they	be 10th in	game	0	0
+1.0	Riley	guide heat at_time	last June	PERSON	DATE
+1.0	Heat	have	coach	O	O
+1.0	Riley	guide heat to	they first NBA title	PERSON	ORDINAL
+1.0	injuries	have	struggled	O	O
+1.0	Assistant Ron Rothstein	have	have coaching reign National	PERSON	ORGANIZATION
+1.0	Riley	return to	sideline	PERSON	0
+1.0	Pat Riley	have	operation	PERSON	0
+1.0	Wade	miss	four game	PERSON	NUMBER
+1.0	O'Neal	undergo surgery on	he left knee in November	PERSON	DATE
+1.0	it	be	fifth championship	0	ORDINAL
+1.0	Riley	guide	Heat	PERSON	0
+1.0	Riley	return in	December 2005	PERSON	DATE
+1.0	Riley	replace	Stan Van Gundy	PERSON	PERSON
+1.0	team	say at_time	Friday	0	DATE
+1.0	it	be	championship	0	0
+1.0	absence	have	leave	O	O
+1.0	their	have	stride	O	O
+1.0	Assistant Ron Rothstein	have	have coaching reign National Basketball Association in	PERSON	ORGANIZATION
+1.0	Rothstein	be	Heat 's inaugural coach	PERSON	0
+1.0	Assistant Ron Rothstein	have	have coaching	PERSON	0
+1.0	Pat Riley	have	absence	O	PERSON
+1.0	they	be 10th in	one-half game behind Milwaukee for final playoff spot	0	ORGANIZATION
+1.0	1980s	have	four	NUMBER	DATE
+1.0	Rothstein	be	Heat 's coach	PERSON	0
+1.0	Heat	have struggle because of	injury	0	0
+1.0	Pat Riley	have	operation on Thursday	PERSON	DATE
+1.0	Riley	guide heat to	they NBA title	PERSON	ORGANIZATION
+1.0	Rothstein	be	Heat 's coach in 1988	PERSON	DATE
+1.0	Heat	have struggle because of	injury to superstar Shaquille O'Neal	0	PERSON
+1.0	his	have	four	NUMBER	O
+1.0	Assistant Ron Rothstein	have	have coaching National	PERSON	ORGANIZATION
+1.0	Heat	have	inaugural coach in 1988	0	DATE
+1.0	they	be 10th in	one-half game behind Milwaukee for playoff spot	0	ORGANIZATION
+1.0	they	be	10th	0	ORDINAL
+1.0	last year	of	NBA final	DATE	ORGANIZATION
+1.0	Pat Riley	have	post	O	O
+1.0	Pat Riley	have	hour-long operation	PERSON	0
+1.0	he	come as	coach	0	0
+1.0	Rothstein	be	Heat 's inaugural coach in 1988	PERSON	DATE
+1.0	Heat	have struggle because of	largely injury	0	0
+1.0	Assistant Ron Rothstein	have	have coaching National Basketball Association in	PERSON	ORGANIZATION
+1.0	Heat	have struggle because of	largely injury to superstar Shaquille O'Neal	0	PERSON
+1.0	Pat Riley	have	absence	PERSON	0

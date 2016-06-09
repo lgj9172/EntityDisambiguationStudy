@@ -1,0 +1,62 @@
+1.0	Greece	be	in place 35 place	LOCATION	NUMBER
+1.0	they first meeting	be in	friendly	ORDINAL	0
+1.0	FIFA World	body 's	world football	ORGANIZATION	0
+1.0	national squad	of	itinerary	0	0
+1.0	us	play	team	0	0
+1.0	Football Championship	have	winners	O	MISC
+1.0	Greece	be	35 place above South Korea	LOCATION	LOCATION
+1.0	Greece	be	in FIFA World ranking 35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	Fulham FC	have	pitch	O	ORGANIZATION
+1.0	South Korea	have	football govern body	LOCATION	0
+1.0	detail	have yet	set	0	0
+1.0	South Korea	have	football body	O	LOCATION
+1.0	Greece	be	in 16th place 35 place	LOCATION	ORDINAL
+1.0	their	have	meeting	O	O
+1.0	FIFA World	sanction for	day	ORGANIZATION	DURATION
+1.0	detail	be	set	0	0
+1.0	Korea Football Association	be in	press release	ORGANIZATION	0
+1.0	world football	have	body	O	O
+1.0	Greece	be	in 16th place 35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	us	have	strength	O	O
+1.0	Greece	be	in 16th place in FIFA World ranking 35 place above South Korea	LOCATION	LOCATION
+1.0	FIFA World	sanction for	a-match day	ORGANIZATION	DURATION
+1.0	Greece	be	in 16th place 35 place above South Korea	LOCATION	LOCATION
+1.0	Greece	be	in place in FIFA World ranking 35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	squad	have	itinerary	O	O
+0.9845849645527004	Greece	winner of	european football Championship in 2004	LOCATION	MISC
+1.0	us	test	we strength	0	0
+1.0	korean fan	have urge	us	0	0
+1.0	Greece	be	in place 35 place above South Korea in spot	LOCATION	LOCATION
+1.0	us	play	strong team	0	0
+0.9845849645527004	Greece	winner of	football Championship	LOCATION	MISC
+1.0	Greece	winner of	european football Championship	LOCATION	MISC
+1.0	FIFA World	sanction at_time	Feb. 6	ORGANIZATION	DATE
+1.0	Greece	be	in FIFA World ranking 35 place above South Korea	LOCATION	LOCATION
+1.0	Greece	be	in 16th place 35 place above South Korea in spot	LOCATION	LOCATION
+1.0	World Cup	have	opening	O	MISC
+1.0	Greece	be	35 place	LOCATION	NUMBER
+0.9845849645527004	Greece	winner of	european football Championship	LOCATION	MISC
+1.0	Greece	be	in 16th place in FIFA World ranking 35 place	LOCATION	ORGANIZATION
+1.0	South Korea	be in	51st spot	LOCATION	ORDINAL
+1.0	Greece	be	in FIFA World ranking 35 place above South Korea in spot	LOCATION	LOCATION
+0.9845849645527004	Greece	winner of	football Championship in 2004	LOCATION	MISC
+1.0	Greece	be	35 place above South Korea in spot	LOCATION	LOCATION
+1.0	itinerary	have	details	O	O
+1.0	world football	have	govern body	0	0
+1.0	Greece	be in	football friendly	LOCATION	0
+1.0	Greece	be	in place in FIFA World ranking 35 place above South Korea	LOCATION	LOCATION
+1.0	european football Championship	be in	2004	MISC	DATE
+1.0	south korean fan	have urge	us	0	0
+1.0	Greece	be	in 16th place in FIFA World ranking 35 place above South Korea in spot	LOCATION	LOCATION
+1.0	Greece	be	35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	35 place	be in	16th place	NUMBER	ORDINAL
+1.0	Fulham FC	be in	English Premier League	ORGANIZATION	MISC
+1.0	South Korea	have	football	O	LOCATION
+1.0	fan	have urge	us	0	0
+1.0	Greece	be	in 16th place in FIFA World ranking 35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	Greece	be	in place in FIFA World ranking 35 place above South Korea in spot	LOCATION	LOCATION
+1.0	Greece	be	in FIFA World ranking 35 place	LOCATION	ORGANIZATION
+1.0	Greece	be	in place 35 place above South Korea in 51st spot	LOCATION	LOCATION
+1.0	Greece	be	in place 35 place above South Korea	LOCATION	LOCATION
+1.0	Greece	be	in place in FIFA World ranking 35 place	LOCATION	ORGANIZATION
+1.0	detail	have	set	0	0

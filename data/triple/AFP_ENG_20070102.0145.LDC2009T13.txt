@@ -1,0 +1,93 @@
+1.0	smoking	be in	cafe	0	0
+1.0	smoking	be in	enclosed public place	0	0
+1.0	world 's first nationwide smoking ban	be	impose in Ireland in 2004	ORDINAL	LOCATION
+1.0	establishments	have	Owners	O	O
+1.0	EU	have	most enthusiastic smoker	ORGANIZATION	0
+1.0	citizen	support	ban	0	0
+1.0	EU 's enthusiastic smoker	be in	Greece	ORGANIZATION	LOCATION
+1.0	Smokers in European Union member state Lithuania	have	clientele	O	O
+1.0	world 's first nationwide smoking ban	be	impose	ORDINAL	0
+1.0	country	have ban	smoking in public place	0	0
+1.0	citizen	support ban in	office	0	DATE
+1.0	other country	have also ban	smoking	0	0
+1.0	baltic country	by	department of statistics	0	0
+1.0	other country	have ban	smoking in enclosed public place	0	0
+1.0	Lithuania	be member state of	European Union	LOCATION	LOCATION
+1.0	men	have	percent	PERCENT	O
+1.0	smoker	indulge	they habit	0	DATE
+1.0	country	have also ban	smoking in public place	0	0
+1.0	EU 's most enthusiastic smoker	be in	Greece	ORGANIZATION	LOCATION
+1.0	world 's nationwide smoking ban	be	impose	0	0
+0.8767853401647616	effect	ban on	smoking in establishment	0	0
+1.0	world 's smoking ban	be impose in	2004	0	DATE
+1.0	country	have also ban	smoking	0	0
+1.0	world 's first smoking ban	be impose in	2004	ORDINAL	DATE
+1.0	country	have also ban	smoking in enclosed place	0	0
+1.0	other country	have also ban	smoking in public place	0	0
+1.0	country	have ban	smoking in enclosed public place	0	0
+1.0	EU	have	smokers	O	ORGANIZATION
+1.0	year	have	start	DATE	DATE
+0.37999818347223124	poll	conduct throughout	European Union	0	ORGANIZATION
+1.0	2005	have	end	DATE	DATE
+1.0	Lithuania	be in	European Union	LOCATION	LOCATION
+1.0	countries	have	one	NUMBER	O
+0.8767853401647616	effect	ban on	smoking in public establishment	0	0
+1.0	other country	have also ban	smoking in enclosed place	0	0
+1.0	country 's parliament	be in	May	0	DATE
+1.0	world 's nationwide smoking ban	be impose in	2004	0	DATE
+1.0	country	have ban	smoking in place	0	0
+0.8950594945119196	ban	percent of	29,000 people survey	0	NUMBER
+1.0	world	have	first nationwide smoking ban in public place	0	ORDINAL
+1.0	ban	take effect at	start of year	0	DATE
+1.0	Lithuania	's neighbour be	Latvia	LOCATION	LOCATION
+1.0	Smokers in European Union member state Lithuania	have	habit	O	O
+1.0	people	have	percent	PERCENT	O
+1.0	ban	take effect at	start	0	DATE
+1.0	country	have	parliament	O	O
+1.0	smoker	indulge	they habit in street	0	DATE
+0.8767853401647616	effect	ban on	smoking	0	0
+1.0	statistics	have	department	O	O
+1.0	smoker	be	force	0	0
+1.0	ban	be in	bar	0	0
+1.0	European Union	have	fifths	O	ORGANIZATION
+1.0	world 's first nationwide smoking ban	be in	public place	ORDINAL	0
+1.0	world 's first smoking ban	be	impose in Ireland in 2004	ORDINAL	LOCATION
+1.0	other country	have ban	smoking in place	0	0
+1.0	other country	have ban	smoking in enclosed place	0	0
+1.0	33 percent	be in	2002	PERCENT	DATE
+1.0	ban	take	effect	0	0
+0.37999818347223124	poll	conduct at	end	0	DATE
+1.0	world 's first nationwide smoking ban	be impose in	2004	ORDINAL	DATE
+1.0	country	by	parliament in May	0	DATE
+1.0	world 's first nationwide smoking ban	be impose in	Ireland	ORDINAL	LOCATION
+1.0	world 's first smoking ban	be impose in	Ireland	ORDINAL	LOCATION
+1.0	world 's smoking ban	be	impose in Ireland in 2004	0	LOCATION
+1.0	European Union	have	current	DATE	O
+1.0	other country	have ban	smoking	0	0
+1.0	they habit	be in	street	DATE	0
+0.6492599203171183	citizen	ban on	smoking	0	0
+1.0	world 's smoking ban	be impose in	Ireland	0	LOCATION
+1.0	world 's smoking ban	be	impose	0	0
+1.0	women	have	percent	PERCENT	O
+1.0	respondents	have	percent	PERCENT	O
+1.0	world 's nationwide smoking ban	be impose in	Ireland	0	LOCATION
+1.0	smoker	be in	Lithuania	0	LOCATION
+1.0	Lithuania	have	northern neighbour	LOCATION	0
+1.0	other country	have also ban	smoking in place	0	0
+1.0	country	have also ban	smoking in enclosed public place	0	0
+1.0	country	have ban	smoking in enclosed place	0	0
+0.37999818347223124	poll	conduct at	end 2005	0	DATE
+1.0	world 's nationwide smoking ban	be	impose in Ireland in 2004	0	LOCATION
+1.0	law	come on	Monday	0	DATE
+1.0	country	have also ban	smoking in place	0	0
+1.0	world 's first smoking ban	be	impose	ORDINAL	0
+1.0	smoking	be in	public establishment	0	0
+1.0	Lithuania	have	neighbour	O	LOCATION
+1.0	citizen	support	ban on smoking	0	0
+1.0	other country	have also ban	smoking in enclosed public place	0	0
+1.0	Greeks	have	percent	PERCENT	MISC
+1.0	other country	have ban	smoking in public place	0	0
+1.0	Cypriots	have	percent	PERCENT	O
+1.0	country	have	department	O	O
+1.0	country	have ban	smoking	0	0
+1.0	world	have	smoking ban	O	O

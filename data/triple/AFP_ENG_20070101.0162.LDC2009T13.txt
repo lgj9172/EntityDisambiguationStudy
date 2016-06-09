@@ -1,0 +1,73 @@
+1.0	other rebel group	have express	its desire	0	0
+1.0	donor	call	firm	0	0
+1.0	deputies	have	team	O	O
+1.0	absolute majority	be in	national assembly	0	0
+1.0	the elderly politician	give	job	0	0
+1.0	stake	be in	DRC 's considerable mineral wealth	0	ORGANIZATION
+1.0	foreign donor	source in	the past	0	DATE
+1.0	Republic	have	minister	O	LOCATION
+1.0	analyst	tell	afp	0	0
+1.0	resources	have	looting	O	O
+1.0	competence	have	those	O	O
+1.0	DRC	have	mineral wealth	O	ORGANIZATION
+1.0	police	have	those	O	O
+1.0	The former rebel leader whom Kabila beat at the polls in the second round of presidential elections in October , Jean-Pierre Bemba	have	Liberation Movement	ORGANIZATION	O
+1.0	country	of	resource	0	0
+1.0	Adolphe Mozitu	tell	afp	PERSON	0
+1.0	other main rebel group	however have express	its desire	0	0
+1.0	lobbies	have	form	O	O
+1.0	rebel group	have express	its desire	0	0
+1.0	representativity	have	principle	O	O
+1.0	integrity	have	those	O	O
+1.0	Kabila	have	entourage	O	PERSON
+1.0	Antoine Gizenga	draw on	Alliance	PERSON	0
+1.0	reasons	have	one	NUMBER	O
+1.0	the elderly politician	give job to	people in Kabila 's entourage	0	PERSON
+1.0	ministers	have	team	O	O
+1.0	government	have	part	O	O
+1.0	Antoine Gizenga	draw on	Alliance of Presidential Majority	PERSON	ORGANIZATION
+1.0	Antoine Gizenga	be expect	draw on Alliance of Presidential Majority	PERSON	ORGANIZATION
+1.0	DRC	in	considerable mineral wealth	ORGANIZATION	0
+1.0	Antoine Gizenga	be	expect	PERSON	0
+0.6853918039819415	defeat	bemba in	November	0	DATE
+1.0	source	be in	the past	0	DATE
+1.0	other main rebel group	have express	its desire	0	0
+1.0	elections	have	round	O	O
+1.0	poll	be in	second round of presidential election	0	ORDINAL
+1.0	country	have	resources	O	O
+1.0	people	be in	Kabila 's entourage	0	PERSON
+1.0	Bemba	end	tense military standoff	PERSON	0
+1.0	Bemba	end	tense standoff	PERSON	0
+1.0	country	have	chance get	0	0
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	main rebel group	have express	its desire	0	0
+1.0	Bemba	end	standoff	PERSON	0
+1.0	Antoine Gizenga	have	party	O	O
+1.0	guard	have	those	O	O
+1.0	Bemba	accept	defeat	PERSON	0
+1.0	Bemba	be in	November	PERSON	DATE
+1.0	the elderly politician	give job to	people	0	0
+1.0	corruption	have	past	DATE	O
+1.0	country	have	chance	O	O
+1.0	Bemba in November	have	forces	O	O
+1.0	Adolphe Mozitu	secretary-general of	Unified Lumumbist Party	PERSON	ORGANIZATION
+1.0	Bemba	end standoff in	Kinshasa between he force	PERSON	LOCATION
+1.0	the elderly politician	be	oppose	0	0
+1.0	The three parties	come to	arrangement	0	0
+1.0	Bemba	end	military standoff	PERSON	0
+1.0	Antoine Gizenga	be expect	draw on Alliance	PERSON	0
+1.0	rebel group	however have express	its desire	0	0
+1.0	main rebel group	however have express	its desire	0	0
+1.0	stake	with donor be	source in past of endemic corruption	0	DATE
+1.0	foreign donor	be with	stake in DRC 's considerable mineral wealth	0	ORGANIZATION
+1.0	Mobutists	have	Union	MISC	MISC
+1.0	Bemba	end standoff in	Kinshasa	PERSON	LOCATION
+1.0	Kabila	in	entourage	PERSON	0
+1.0	Presidential Majority	have	Alliance	O	ORGANIZATION
+1.0	the other main rebel group during the last war to wrack the vast central African country from 1998-2003 , , the Congolese Rally for Democracy headed by Azarias Ruberwa	have	desire	O	O
+1.0	deputy prime minister	be in	first government	0	ORDINAL
+1.0	other rebel group	however have express	its desire	0	0
+1.0	foreign donor	call	firm	0	0
+1.0	Antoine Gizenga	be expect	draw	PERSON	0
+1.0	which	have	biggest	O	O
+1.0	Unified Lumumbist Party	have	secretary-general	O	ORGANIZATION

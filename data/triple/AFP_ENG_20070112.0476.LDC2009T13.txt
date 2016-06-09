@@ -1,0 +1,33 @@
+1.0	telephone conversation	take	place	0	0
+1.0	detail	be	finalise	0	0
+1.0	countries	have	ministers	O	O
+1.0	Kremlin	decline	confirm	LOCATION	0
+1.0	detail	be	due	0	0
+1.0	agreement	have	details	O	O
+1.0	lengthy telephone conversation	take	place	0	0
+1.0	supplies	restart at_time	Wednesday	0	DATE
+1.0	detail	be	when due	0	0
+1.0	Lukashenko	have	office	O	PERSON
+1.0	two side	say on	Wednesday	NUMBER	DATE
+1.0	lengthy telephone conversation	take	place between Alexander Lukashenko	0	PERSON
+1.0	Lukashenko	have	office	PERSON	0
+1.0	telephone conversation	take	place between Alexander Lukashenko	0	PERSON
+1.0	oil	have	transit	O	O
+1.0	Kremlin	contact by	afp	LOCATION	0
+1.0	Alexander Lukashenko	have	countries	O	O
+1.0	Minsk	drop	tax demand	LOCATION	0
+1.0	talk	be in	Moscow	0	LOCATION
+1.0	week	have	supply shut-down	O	DATE
+1.0	its	have	delivery	O	O
+1.0	Alexander Lukashenko	be	Belarussian	PERSON	MISC
+1.0	side	say on	Wednesday	0	DATE
+1.0	countries	have	oil transit dispute	O	O
+1.0	this week	have	supply shut-down	DATE	0
+1.0	telephone conversation	take place at_time	today	0	0
+1.0	energy resources	have	deliveries	O	O
+1.0	Vladimir Putin	be	Russian	PERSON	MISC
+1.0	lengthy telephone conversation	take place at_time	today	0	0
+1.0	supplies	restart at_time	late Wednesday	0	DATE
+1.0	Sergei Sidorsky	be	Belarussian	PERSON	MISC
+1.0	oil transit	have	mechanisms	O	O
+1.0	Russia	from pipeline be	friendship	LOCATION	0

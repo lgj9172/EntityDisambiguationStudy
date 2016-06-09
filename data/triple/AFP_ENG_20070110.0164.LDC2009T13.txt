@@ -1,0 +1,40 @@
+1.0	government	reject at_time	month	0	DATE
+1.0	UNESCO	de-register victoria falls from	its list of heritage place	ORGANIZATION	0
+1.0	plan	endanger	animal	0	0
+1.0	firm	say at_time	Wednesday	0	DATE
+1.0	UNESCO	de-register	Victoria Falls	ORGANIZATION	LOCATION
+1.0	south african firm	say at_time	Wednesday	0	DATE
+1.0	government	reject at_time	last month	0	DATE
+1.0	the Victoria Falls	have	list	O	O
+1.0	Legacy Holdings	have	dollar project	O	O
+1.0	UNESCO	de-register victoria falls from	its list	ORGANIZATION	0
+1.0	tourist town	have	outskirts	O	O
+1.0	Jacob Sikazwe	be in	statement	PERSON	0
+1.0	Zambia government	have	buildings	O	O
+1.0	area	have	fencing	O	O
+1.0	project	proceed	as plan	0	0
+1.0	project	proceed	as originally plan	0	0
+1.0	UNESCO	de-register victoria falls from	its list of natural heritage place	ORGANIZATION	0
+1.0	their	have	proposals	O	O
+1.0	heritage places	have	list	O	O
+1.0	zambian government	reject at_time	last month	0	DATE
+1.0	Zambia	have	tourist town	O	LOCATION
+1.0	Livingstone	have	tourist town	O	LOCATION
+1.0	zambian government	reject at_time	month	0	DATE
+1.0	project	be allow	proceed	0	0
+1.0	land	have	balance	O	O
+1.0	african firm	say at_time	Wednesday	0	DATE
+1.0	fencing	be	will prohibit	0	0
+1.0	Legacy	construct	two hotel	0	NUMBER
+1.0	hotel	be	build	0	0
+1.0	Zambia	of	tourist town of Livingstone	LOCATION	LOCATION
+1.0	plan	endanger	wild animal	0	0
+1.0	project	proceed	plan	0	0
+1.0	villas	have	construction	O	O
+1.0	UNESCO	de-register victoria falls from	its international list of heritage place	ORGANIZATION	0
+1.0	project	proceed	originally plan	0	0
+1.0	UNESCO	de-register victoria falls from	its international list	ORGANIZATION	0
+1.0	UNESCO	de-register victoria falls from	its international list of natural heritage place	ORGANIZATION	0
+1.0	land	have	hectares	O	O
+1.0	project	be	allow	0	0
+1.0	Victoria Falls	have	side	O	ORGANIZATION

@@ -1,0 +1,42 @@
+1.0	French billionaire Francois Pinault	would put	bid	PERSON	0
+1.0	whose	group	PPR	0	ORGANIZATION
+1.0	Suez share	jump	1.96 percent	ORGANIZATION	PERCENT
+1.0	initiative	be affect by	outcome of election	0	0
+1.0	French billionaire Francois Pinault	have	company	O	O
+0.9610473441092743	French billionaire Francois Pinault	bid of	70 billion euro	PERSON	MONEY
+1.0	French billionaire Francois Pinault	sell	company 's energy asset	PERSON	0
+1.0	company	have	energy asset	0	0
+0.8261183695294736	government-backed plan	create	french energy giant	0	0
+1.0	Francois Pinault	be	french	PERSON	0
+1.0	Suez	be set under	plan	ORGANIZATION	0
+1.0	presidential election	be in	April	0	DATE
+1.0	initiative	have face	opposition	0	0
+1.0	initiative	be	affect	0	0
+1.0	Suez	merge with	gdf	ORGANIZATION	0
+0.164266332496663	Suez share	jump after	publication of communique	ORGANIZATION	0
+0.164266332496663	Suez share	jump to	40 euro	ORGANIZATION	MONEY
+1.0	whose	have	luxury group	O	O
+1.0	initiative	have face	political opposition	0	0
+1.0	Suez	be set	merge	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of election in April	0	DATE
+1.0	company	have	energy assets	O	O
+0.9610473441092743	French billionaire Francois Pinault	bid of	92 billion dollar	PERSON	MONEY
+1.0	euros	have	bid	O	MONEY
+1.0	French billionaire Francois Pinault	would put forward	bid	PERSON	0
+1.0	initiative	be affect by	outcome	0	0
+0.8261183695294736	government-backed plan	create	energy giant	0	0
+0.8261183695294736	plan	create	french energy giant	0	0
+0.8261183695294736	plan	create	energy giant	0	0
+1.0	Suez	be set	merge with gdf	ORGANIZATION	0
+1.0	option	remain	possible	0	0
+1.0	communique	have	publication	O	O
+1.0	offer	have	decision	O	O
+1.0	Capital	be  at_time	last week	ORGANIZATION	DATE
+1.0	initiative	be affect by	outcome of presidential election	0	0
+1.0	Suez	be set under	government-backed plan	ORGANIZATION	0
+0.164266332496663	Suez share	jump after	publication	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election in April	0	DATE
+1.0	whose luxury group	include	Gucci fashion label	0	ORGANIZATION
+1.0	elections	have	outcome	O	O
+1.0	state-controlled GDF	have	privatisation	O	ORGANIZATION
+1.0	Suez	be	set	ORGANIZATION	0

@@ -1,0 +1,88 @@
+1.0	Islamists	desert	they stronghold	MISC	0
+1.0	Somalia	among	myriad faction	LOCATION	0
+1.0	Somalia 's	have	neighbors	O	LOCATION
+1.0	peacekeeping troops	have	strongholds	O	O
+1.0	Jendayi Frazer	will co-host	meeting	PERSON	0
+1.0	Secretary of State Condoleezza Rice	send	Jendayi Frazer	PERSON	PERSON
+1.0	Somalia	have	neighbor accept from fighting	MISC	0
+1.0	peace support mission	have	deployment	O	O
+1.0	somali government	organize	deployment	0	0
+1.0	government	organize	deployment of peacekeeper	0	0
+1.0	Meles Zenawi	be with	ethiopian	PERSON	0
+1.0	anarchy	have	years	DURATION	O
+1.0	she	aide	Jendayi Frazer	0	PERSON
+1.0	suffering	have	two-decades	O	O
+1.0	she	call on	other donor country	0	0
+1.0	Secretary of State Condoleezza Rice	send	she top Africa aide	PERSON	LOCATION
+1.0	Washington	have	priority	LOCATION	0
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	islamist force	be in	Horn of Africa	0	LOCATION
+1.0	offensive	have	face	O	O
+1.0	Secretary of State Condoleezza Rice	have	Africa aide	O	O
+1.0	Somalia	have	government	O	LOCATION
+1.0	Jendayi Frazer	will co-host meeting at_time	Friday	PERSON	DATE
+1.0	Secretary of State Condoleezza Rice	unveil	aid package	0	0
+1.0	government	organize deployment to	country	0	0
+1.0	Islamists	desert	they urban stronghold	MISC	0
+1.0	Jendayi Frazer	will co-host meeting in	Kenya	PERSON	LOCATION
+1.0	forces	have	rout	O	O
+1.0	UN official	criticize	Kenya	ORGANIZATION	LOCATION
+1.0	somali government	organize	deployment of peacekeeper	0	0
+1.0	Addis Ababa	be with	Meles Zenawi	LOCATION	PERSON
+1.0	Secretary of State Condoleezza Rice	unveil	initial aid package	0	0
+1.0	Kenya	be of	Somalia contact group	LOCATION	ORGANIZATION
+1.0	Secretary of State Condoleezza Rice	boost	somali government	PERSON	0
+1.0	Baidoa	have	town	O	LOCATION
+1.0	Condoleezza Rice	promise	robust	PERSON	0
+1.0	she	provide	immediate	0	0
+1.0	governance	have	consolidation	O	O
+1.0	Jendayi Frazer	will co-host meeting in	Kenya of Somalia contact group of nation on next step	PERSON	LOCATION
+1.0	State Department	have	Assistant	O	ORGANIZATION
+1.0	Somalia	have	factions	O	LOCATION
+1.0	State Department	have	Secretary	O	ORGANIZATION
+1.0	Somalia 's	have	neighbor	LOCATION	0
+1.0	community	have	rest	O	O
+1.0	16.58 million dollar	be in	food aid	MONEY	0
+1.0	immediate	help	humanitarian aid	0	0
+1.0	Washington	have	priorities	O	LOCATION
+1.0	interest	be in	Somalia 's	0	LOCATION
+1.0	Jendayi Frazer	will co-host meeting in	Kenya of Somalia contact group	PERSON	LOCATION
+1.0	Jendayi Frazer	will co-host meeting in	Kenya of Somalia contact group of nation on step	PERSON	LOCATION
+1.0	government	organize	deployment	0	0
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	Secretary of State Condoleezza Rice	prevent	flight	0	0
+1.0	Secretary of State Condoleezza Rice	unveil	initial urgent aid package	0	0
+1.0	warlordism	have	two-decades	O	O
+1.0	Somalia	have	neighbors	O	LOCATION
+1.0	efforts	have	part	O	O
+1.0	Somalia	be with	16.58 million dollar	LOCATION	MONEY
+1.0	Secretary of State Condoleezza Rice	mainly provide	food	0	0
+1.0	dollars	have	aid package	O	MONEY
+1.0	immediate	help	aid	0	0
+1.0	Africa country	have	Horn	LOCATION	O
+1.0	peacekeepers	have	deployment	O	O
+1.0	nations	have	Somalia Contact Group	ORGANIZATION	O
+1.0	Secretary of State Condoleezza Rice	provide food to	Somalis displaced	0	MISC
+1.0	immediate	help	assistance	0	0
+1.0	Secretary of State Condoleezza Rice	boost	government	PERSON	0
+1.0	Al-Qaeda movement	have	members	O	O
+1.0	peacekeeping force	have	deployment	O	O
+1.0	Islamic Court leaders	have	flight	O	O
+1.0	Secretary of State Condoleezza Rice	mainly provide food to	Somalis displaced	0	MISC
+1.0	Secretary of State Condoleezza Rice	prevent	flight of Islamic Court leader	0	ORGANIZATION
+1.0	Somalia Contact Group	have	Kenya	LOCATION	ORGANIZATION
+1.0	Secretary of State Condoleezza Rice	mainly provide food to	Somalis	0	MISC
+1.0	Secretary of State Condoleezza Rice	provide food to	Somalis	0	MISC
+1.0	Jendayi Frazer	will co-host meeting in	Kenya of Somalia contact group of nation	PERSON	LOCATION
+1.0	Somalia	for	beleagured interim government on Thursday follow rout of islamist force in strategic Horn of Africa country	LOCATION	LOCATION
+1.0	Secretary of State Condoleezza Rice	send	she Africa aide	PERSON	LOCATION
+1.0	somali government	organize deployment to	country	0	0
+1.0	violence	have	two-decades	O	O
+1.0	Secretary of State Condoleezza Rice	unveil	urgent aid package	0	0
+1.0	she	also provide	immediate	0	0
+1.0	Secretary of State Condoleezza Rice	provide	food	0	0
+1.0	Yoweri Museveni	be of	Uganda	PERSON	LOCATION
+1.0	Secretary of State Condoleezza Rice	urge	Somalia 's neighbor	PERSON	MISC
+1.0	immediate	help	capacity-building assistance	0	0
+1.0	Uganda	have	President Yoweri Museveni	PERSON	LOCATION
+1.0	she	call on	donor country	0	0

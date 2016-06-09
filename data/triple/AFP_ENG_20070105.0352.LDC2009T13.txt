@@ -1,0 +1,13 @@
+1.0	2005	have	end	DATE	DATE
+1.0	we	qualify for	Europe	0	LOCATION
+1.0	Middlesbrough	be for	Martin Lejsal	ORGANIZATION	PERSON
+1.0	czech division	say at_time	Friday	0	DATE
+1.0	first division	say at_time	Friday	ORDINAL	DATE
+1.0	Brno	have	vice president	O	PERSON
+1.0	czech first division	say at_time	Friday	ORDINAL	DATE
+1.0	we	want	qualify	0	0
+1.0	view	have	point	O	O
+1.0	Czech squad	have	part	O	O
+1.0	division	say at_time	Friday	0	DATE
+1.0	we	want	qualify for Europe	0	LOCATION
+1.0	Denmark	be in	November	LOCATION	DATE

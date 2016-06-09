@@ -1,0 +1,19 @@
+1.0	George Bush	father 's	current US leader	PERSON	LOCATION
+1.0	facility	be in	1997	0	DATE
+1.0	his	have	hip	O	O
+1.0	Barbara Bush	be	first	PERSON	ORDINAL
+0.8862891105507797	surgery	replace hip at	facility	0	0
+1.0	former lady Barbara Bush	have	surgery	PERSON	0
+1.0	former lady Barbara Bush	also have	surgery	PERSON	0
+0.8862891105507797	surgery	replace hip at	facility in 1997	0	DATE
+1.0	US leader	have	father	O	O
+1.0	Gerald Ford	have	death	O	PERSON
+1.0	current US leader	have	father	LOCATION	0
+1.0	Bush , 82	be	82	PERSON	NUMBER
+1.0	former first lady Barbara Bush	also have	surgery	ORDINAL	0
+1.0	Mayo Clinic	be in	2000	ORGANIZATION	DATE
+1.0	Mayo Clinic	be in	Minnesota	ORGANIZATION	LOCATION
+0.8862891105507797	surgery	replace	hip	0	0
+1.0	Bush , 82	have	hip	O	O
+1.0	The president	have	hospital room	O	O
+1.0	former first lady Barbara Bush	have	surgery	ORDINAL	0

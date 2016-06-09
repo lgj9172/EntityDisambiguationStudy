@@ -1,0 +1,72 @@
+1.0	brazilian	play	Santiago	0	LOCATION
+1.0	Challenger Series	tournament in	chilean capital	0	0
+1.0	Clay Gustavo Kuerten	need	compete	0	0
+1.0	hardcourt	be in	2000	0	DATE
+1.0	Clay Gustavo Kuerten	also win	masters cup	0	0
+1.0	Florianopolis	have	hometown	O	LOCATION
+1.0	The 30-year-old Brazilian	intend	play in Vina del Mar atp claycourt tournament from January 29	0	DATE
+1.0	Clay Gustavo Kuerten	play	just atp tour game	0	0
+1.0	tournaments	have	one	NUMBER	O
+1.0	Clay Gustavo Kuerten	win masters cup on	he way	0	0
+1.0	former world number	make	King	0	0
+1.0	Clay Gustavo Kuerten	also win masters cup on	hardcourt	0	0
+1.0	brazilian	play	Santiago on January 22	0	DATE
+1.0	Clay Gustavo Kuerten	have	he triumph	PERSON	0
+1.0	Santiago	be on	January 22	LOCATION	DATE
+1.0	Clay Gustavo Kuerten	play	just one full atp tour game	0	NUMBER
+1.0	Clay Gustavo Kuerten	play atp tour game at_time	year	0	DATE
+1.0	hip injury	be in	2002	0	DATE
+1.0	brazilian	play santiago in	second tier tournament in capital	0	ORDINAL
+1.0	Clay Gustavo Kuerten	rediscover	he form	0	0
+1.0	brazilian	play santiago in	Challenger Series	0	0
+1.0	The 30-year-old Brazilian	play in	Vina del Mar atp claycourt tournament	0	DATE
+1.0	The 30-year-old Brazilian	intend	play	0	0
+1.0	Clay Gustavo Kuerten	play	just one atp tour game	0	NUMBER
+1.0	Clay Gustavo Kuerten	have	way	O	O
+1.0	Clay Gustavo Kuerten	have	form	O	O
+1.0	Clay Gustavo Kuerten	win	masters cup	0	0
+1.0	The 30-year-old Brazilian	intend	play in Vina del Mar atp claycourt tournament	0	DATE
+1.0	former world number	make	King of Clay Gustavo Kuerten	0	PERSON
+1.0	brazilian	play santiago in	second tier tournament	0	ORDINAL
+1.0	30-year-old brazilian	play santiago in	second tier tournament in chilean capital	DURATION	ORDINAL
+1.0	Clay Gustavo Kuerten	play	just full atp tour game	0	0
+1.0	30-year-old brazilian	play	Santiago on January 22	DURATION	DATE
+1.0	Clay Gustavo Kuerten	have win twice before	hope	0	0
+1.0	brazilian	play santiago in	tier tournament in chilean capital	0	0
+1.0	30-year-old brazilian	play	Santiago	DURATION	LOCATION
+1.0	Clay Gustavo Kuerten	have	triumphs	O	O
+1.0	brazilian	play santiago in	tier tournament in capital	0	0
+1.0	brazilian	play santiago in	second tier tournament in chilean capital	0	ORDINAL
+1.0	Clay Gustavo Kuerten	win masters cup to	world number one spot	0	NUMBER
+1.0	30-year-old brazilian	play santiago in	second tier tournament	DURATION	ORDINAL
+1.0	part	be in	Challenger tournament	0	0
+1.0	brazilian	play santiago in	tier tournament	0	0
+1.0	Clay Gustavo Kuerten	also win masters cup to	world number one spot	0	NUMBER
+1.0	former world number	set	King of Clay Gustavo Kuerten	0	PERSON
+1.0	30-year-old brazilian	play santiago in	tier tournament in capital	DURATION	0
+1.0	Clay Gustavo Kuerten	will seek	wildcard	PERSON	0
+1.0	Clay Gustavo Kuerten	have	King	O	PERSON
+1.0	Clay Gustavo Kuerten	rediscover	he top form	0	0
+1.0	Clay Gustavo Kuerten	have win	hope	0	0
+1.0	Clay Gustavo Kuerten	have win before	hope	0	0
+1.0	30-year-old brazilian	play santiago in	tier tournament	DURATION	0
+1.0	Clay Gustavo Kuerten	play	full atp tour game	0	0
+1.0	Clay Gustavo Kuerten	also win masters cup on	he way	0	0
+1.0	30-year-old brazilian	play santiago in	tier tournament in chilean capital	DURATION	0
+1.0	Clay Gustavo Kuerten	win masters cup on	hardcourt	0	0
+1.0	Clay Gustavo Kuerten	also win masters cup on	hardcourt in 2000	0	DATE
+1.0	Clay Gustavo Kuerten	have	chances	O	O
+1.0	Clay Gustavo Kuerten	play	atp tour game	0	0
+1.0	former world number	be	set	0	0
+1.0	Clay Gustavo Kuerten	have	he greatest triumph	PERSON	0
+1.0	second tier tournament	be in	chilean capital	ORDINAL	0
+1.0	Clay Gustavo Kuerten	play atp tour game at_time	last year	0	DATE
+1.0	30-year-old brazilian	play santiago in	second tier tournament in capital	DURATION	ORDINAL
+1.0	Clay Gustavo Kuerten	win masters cup on	hardcourt in 2000	0	DATE
+1.0	Clay Gustavo Kuerten	have	rhythm	O	O
+1.0	The 30-year-old Brazilian	play from	January 29	0	DATE
+1.0	former world number	set	King	0	0
+1.0	The 30-year-old Brazilian	intend	play from January 29	0	DATE
+1.0	30-year-old brazilian	play santiago in	Challenger Series	DURATION	0
+1.0	Clay Gustavo Kuerten	will seek	wildcard play	PERSON	0
+1.0	The 30-year-old Brazilian	have	hometown	O	O

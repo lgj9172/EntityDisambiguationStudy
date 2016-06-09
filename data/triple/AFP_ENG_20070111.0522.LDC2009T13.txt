@@ -1,0 +1,34 @@
+1.0	Bush	announce	plan	PERSON	0
+1.0	US President George W. Bush 's	prefer	political solution	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	mistake	be	make	0	0
+1.0	Bush	have	plan	O	PERSON
+1.0	Bush	be  at_time	late Wednesday	PERSON	DATE
+1.0	lead opponent	also express	doubt	0	0
+1.0	lead opponent	also express doubt on	Thursday	0	DATE
+1.0	lead opponent	express doubt on	Thursday	0	DATE
+1.0	George W. Bush	on	plan send to Iraq	PERSON	LOCATION
+1.0	powerful military presence	resolve	problem	0	0
+1.0	three lead opponent	also express doubt on	Thursday	0	DATE
+1.0	european ally	say on	Thursday	0	DATE
+1.0	whose	have	country	O	O
+1.0	Bush	be in	televise speech	PERSON	0
+1.0	lead opponent	express	doubt	0	0
+1.0	US President George W. Bush	have	plan	O	PERSON
+1.0	Bush Wednesday	announce	plan	DATE	0
+1.0	forces	have	Most	O	O
+1.0	new measure	stabilise	Iraq	0	LOCATION
+1.0	mistake	be make in	Iraq	0	LOCATION
+1.0	ally	say on	Thursday	0	DATE
+1.0	insurgents	have	movement	O	O
+1.0	US President George W. Bush 's	prefer	solution	0	0
+1.0	three lead opponent	express	doubt	0	0
+1.0	measure	stabilise	Iraq	0	LOCATION
+1.0	Bush late Wednesday	announce	plan	DATE	0
+1.0	invasion	have	opponents	O	O
+1.0	types	have	forces	O	O
+1.0	three lead opponent	express doubt on	Thursday	0	DATE
+1.0	three lead opponent	also express	doubt	0	0
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	Tariceanu	tell	press conference	PERSON	0
+1.0	Iraq	have	opponents	O	LOCATION

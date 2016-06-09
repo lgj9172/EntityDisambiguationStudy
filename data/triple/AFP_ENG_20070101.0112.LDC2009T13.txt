@@ -1,0 +1,41 @@
+1.0	press	report at_time	Monday	0	DATE
+1.0	Iran Khodro	have	director of marketing Mehdi Ghasem	ORGANIZATION	PERSON
+1.0	this year	in	car	DATE	0
+1.0	Iran	have	largest car manufacturer	LOCATION	0
+1.0	our	have	citizens	O	O
+1.0	Iran	on	road	LOCATION	0
+1.0	Iran	have	car manufacturer	O	LOCATION
+1.0	Iran Khodro	have	director	O	ORGANIZATION
+1.0	state-owned Iran Khodro company	have	annual production of about 550,000 car	ORGANIZATION	SET
+1.0	Iran Khodro company	have	annual production	ORGANIZATION	SET
+1.0	state-owned Iran Khodro company	have	production of about 550,000 car	ORGANIZATION	NUMBER
+1.0	them	have	percent	PERCENT	O
+1.0	state-owned Iran Khodro company	have	annual production	ORGANIZATION	SET
+1.0	Iran	have	flagship	O	LOCATION
+1.0	Iran Khodro company	have	annual production of about 550,000 car	ORGANIZATION	SET
+1.0	automobile	be in	iranian market	0	0
+1.0	year	have	beginning	DATE	DATE
+1.0	problem	be	occasional	0	0
+1.0	cars	have	Hundreds	O	O
+1.0	year	have	cars	O	DATE
+1.0	chief Mohammad Rooyanian	tell	hardline Kayhan newspaper	0	ORGANIZATION
+1.0	fault	be in	year 's car	0	DATE
+1.0	Iran	include	flagship	LOCATION	0
+1.0	Peugeot	be flagship samand of	Iran	ORGANIZATION	LOCATION
+1.0	Iran Khodro company	have	production of about 550,000 car	ORGANIZATION	NUMBER
+1.0	problem	be	technical	0	0
+1.0	fatalities	have	percent	PERCENT	O
+1.0	state-owned Iran Khodro company	have	production	ORGANIZATION	0
+1.0	Iran Khodro company	have	production of about 550,000 car include Iran 's flagship	ORGANIZATION	LOCATION
+1.0	occasional technical fault	be in	car more two year old	0	DURATION
+1.0	occasional technical fault	be in	fuel system	0	0
+1.0	Iran Khodro company	have	production	ORGANIZATION	0
+1.0	state-owned Iran Khodro company	have	production of about 550,000 car include Iran 's flagship	ORGANIZATION	LOCATION
+1.0	vehicles	have	safety	O	O
+1.0	state-owned Iran Khodro company	have	annual production of about 550,000 car include Iran 's flagship	ORGANIZATION	SET
+1.0	Iran	have	roads	O	LOCATION
+1.0	marketing Mehdi Ghasem	have	director	O	PERSON
+1.0	ban	have	warnings	O	O
+1.0	year	have	months	DATE	DATE
+1.0	Iran Khodro company	have	annual production of about 550,000 car include Iran 's flagship	ORGANIZATION	SET
+1.0	cars	have	incidents	O	O

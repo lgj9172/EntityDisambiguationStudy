@@ -1,0 +1,24 @@
+1.0	nuclear submarine	be in	Russia	0	LOCATION
+1.0	province	to	main city of Petropavlovsk Kamchatsky	0	LOCATION
+1.0	ministry	say statement from	local emergency situation	0	0
+0.633593924617174	ministry	say from	emergency situation	0	0
+1.0	province	have	city	O	O
+1.0	there have leak	be in	Vilyuchinsk	0	LOCATION
+1.0	failure	be	reason	0	0
+1.0	ministry	say statement from	emergency situation	0	0
+1.0	fuel sensor	have	breakdown	O	O
+1.0	submarines	have	information	O	O
+1.0	Russia	involve	ageing fleet of nuclear submarine in recent year include fatal explosion	LOCATION	DURATION
+1.0	failure	be reason for	alarm	0	0
+1.0	ministry	say	statement	0	0
+1.0	submarines	have	fleet	O	O
+0.633593924617174	ministry	say from	local emergency situation	0	0
+1.0	Petropavlovsk Kamchatsky	have	city	O	LOCATION
+1.0	200,000	have	population	O	NUMBER
+1.0	submarine base	be	where located	0	0
+1.0	nuclear submarine	be in	recent year	0	DURATION
+1.0	submarine base	be	located	0	0
+1.0	which	have	failure	O	O
+1.0	town	have	Inhabitants	O	O
+1.0	Russia	have	fleet	O	LOCATION
+1.0	ministry	be in	Kamchatka peninsula	0	LOCATION

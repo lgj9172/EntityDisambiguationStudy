@@ -1,0 +1,36 @@
+1.0	Bolivia	require visa at_time	effective Monday	LOCATION	DATE
+1.0	President Evo Morales	announce	new decree	PERSON	0
+1.0	decree	support	development of country 's Amazon region	0	LOCATION
+1.0	President Evo Morales	also announce	new decree	PERSON	0
+1.0	US State Department	accord to	Bolivia embassy website	ORGANIZATION	LOCATION
+1.0	government	announce change after	cabinet meeting	0	0
+1.0	Bolivians	be	require	MISC	0
+1.0	bolivian	be charge	non-refundable 100 dollar	0	MONEY
+1.0	new decree	support	intensify development	0	0
+1.0	government	announce	change	0	0
+1.0	new decree	support	development	0	0
+1.0	decree	support	intensify development of country 's Amazon region	0	LOCATION
+1.0	US State Department	have	Bolivia embassy website	O	ORGANIZATION
+1.0	bolivian	be charge	100 dollar	0	MONEY
+1.0	Bolivia	require	visa	LOCATION	0
+1.0	new decree	support	intensify development of country 's Amazon region	0	LOCATION
+1.0	new decree	support	development of country 's Amazon region	0	LOCATION
+1.0	bolivian	be currently charge	100 dollar	0	MONEY
+1.0	Bolivia	require	visa of visitor	LOCATION	0
+1.0	bolivian	be currently charge	non-refundable 100 dollar	0	MONEY
+1.0	decree	support	development	0	0
+1.0	President Evo Morales	have	government	O	PERSON
+1.0	Bolivia	require	visa of visitor from United States	LOCATION	LOCATION
+1.0	Bolivia	require visa at_time	Monday	LOCATION	DATE
+1.0	President Evo Morales	also announce	decree	PERSON	0
+0.4661691669221458	Bolivians	travel to	United States	MISC	LOCATION
+1.0	Bolivia	be	small	LOCATION	0
+1.0	country	of	Amazon region	0	LOCATION
+1.0	Amazon region	have	development	O	O
+1.0	country	have	Amazon region	O	O
+1.0	bolivian	apply for	visa	0	0
+1.0	Bolivians	obtain	visa	MISC	0
+1.0	decree	support	intensify development	0	0
+1.0	government	announce change at_time	Sunday	0	DATE
+1.0	President Evo Morales	announce	decree	PERSON	0
+1.0	visitors	have	visas	O	O

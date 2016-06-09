@@ -1,0 +1,183 @@
+1.0	african bloc	also rebuff	offer	0	0
+1.0	Iran 's	have	programme	O	O
+1.0	Pyongyang	announce at_time	year	LOCATION	DATE
+1.0	Germany	assume	year-long presidency of group most industrialize nation	LOCATION	0
+1.0	Angela Merkel	have	support	O	O
+1.0	Pyongyang	announce at_time	last year	LOCATION	DATE
+1.0	Germany	assume	presidency industrialize nation	LOCATION	0
+1.0	Security Council	have	membership	O	ORGANIZATION
+1.0	Japanese Prime Minister Shinzo Abe	meet	german leader	0	0
+1.0	Tokyo 's	be participant in	six-party talk	LOCATION	0
+1.0	joint attempt	fall in	2005	0	DATE
+1.0	Tokyo 's	involve	the United States	LOCATION	LOCATION
+1.0	Germany	assume	year-long presidency most industrialize nation	LOCATION	0
+1.0	Japan	have take	line against Pyongyang	LOCATION	LOCATION
+1.0	Tokyo 's	be participant in	so-called six-party talk over North Korea 's nuclear programme	LOCATION	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	meet leader for	first time	0	ORDINAL
+1.0	European Union	be on	January 1	ORGANIZATION	DATE
+1.0	North Korea	have	programme	O	LOCATION
+1.0	year-long presidency	six-month stint at	helm of European Union	0	ORGANIZATION
+1.0	Tokyo 's	be participant in	talk over North Korea 's nuclear programme	LOCATION	LOCATION
+1.0	Prime Minister Shinzo Abe	say after	talk in Germany	PERSON	LOCATION
+1.0	its	have	energy muscle	O	O
+1.0	Iran	have	programme	O	LOCATION
+1.0	Prime Minister Shinzo Abe	say at_time	Wednesday	PERSON	DATE
+1.0	United States	fear	lift	LOCATION	0
+1.0	island	have	even have govern separately since end of war	0	0
+1.0	abe	also win	pledge	0	0
+1.0	he	replace	Junichiro Koizumi	0	PERSON
+1.0	presidency	stint at	helm	0	0
+1.0	presidency	six-month stint at	helm	0	0
+1.0	countries	have	representation	O	O
+1.0	Tokyo 's	be participant in	talk over North Korea 's programme	LOCATION	LOCATION
+1.0	civil war	be in	1949	0	DATE
+1.0	presidency	stint at	helm of European Union	0	ORGANIZATION
+1.0	seven missile launch	be in	July	NUMBER	DATE
+1.0	Germany	assume	year-long presidency of group industrialize nation	LOCATION	0
+1.0	ban	break	military balance	0	0
+1.0	Japanese Prime Minister Shinzo Abe	have	stance	O	O
+1.0	japanese Prime Minister Shinzo Abe	say after	talk in Germany	PERSON	LOCATION
+1.0	island	have	even have govern since end	0	0
+1.0	Tokyo 's	be participant in	so-called six-party talk	LOCATION	0
+1.0	Japan	repeatedly raise	issue of citizen	LOCATION	0
+1.0	Eight	have	Group	O	NUMBER
+1.0	European Union	have	helm	O	ORGANIZATION
+1.0	participant	be in	so-called six-party talk over North Korea 's nuclear programme	0	LOCATION
+1.0	citizens	have	issue	O	O
+1.0	United States	lift	Japan	LOCATION	LOCATION
+1.0	abe	win	pledge	0	0
+1.0	Japan	have take	line	LOCATION	0
+1.0	North Korea	have	program	O	LOCATION
+1.0	the G4	have	countries	O	O
+1.0	problems	have	issue	O	O
+1.0	Germany	assume	presidency of group most industrialize nation	LOCATION	0
+1.0	island	have	have govern separately since end of civil war	0	0
+1.0	year-long presidency	stint at	helm of European Union	0	ORGANIZATION
+1.0	island	have	even have govern since end of war	0	0
+1.0	53-member bloc	join	they	0	0
+1.0	Germany	assume	presidency of group of eight nation	LOCATION	0
+1.0	53-member bloc	rebuff	offer	0	0
+1.0	island	have	even have govern separately	0	0
+1.0	Germany	support	EU 's arm embargo	LOCATION	ORGANIZATION
+1.0	Council	impose	sanction on Iran	ORGANIZATION	LOCATION
+1.0	United States	fear	Japan	LOCATION	LOCATION
+1.0	Pyongyang	have	bomb test	O	O
+1.0	Tokyo	have	bid win Council along with key partner	LOCATION	ORGANIZATION
+1.0	53-member african bloc	also rebuff	offer	0	0
+1.0	Tokyo 's	be participant in	so-called talk over North Korea 's programme	LOCATION	LOCATION
+1.0	Germany	assume	year-long presidency of group of eight most industrialize nation	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	tell reporter after	meeting	PERSON	0
+1.0	island	have	even have govern separately since end	0	0
+1.0	Germany	assume	presidency of group nation	LOCATION	0
+1.0	island	have	have govern	0	0
+1.0	Japan	repeatedly raise	issue	LOCATION	0
+1.0	Germany	assume	presidency of group of eight most industrialize nation	LOCATION	0
+1.0	presidency	six-month stint at	helm of European Union	0	ORGANIZATION
+1.0	Germany	assume	year-long presidency of group of eight nation	LOCATION	0
+1.0	Angela Merkel	tell	reporter	PERSON	0
+1.0	island	have	even have govern separately since end of civil war in 1949	0	DATE
+1.0	Germany	assume	year-long presidency industrialize nation	LOCATION	0
+1.0	North Korea	over	nuclear programme	LOCATION	0
+1.0	Iran	over	nuclear ambition	LOCATION	0
+1.0	year-long presidency	six-month stint at	helm	0	0
+1.0	framework	have	Group	O	O
+1.0	Japanese Prime Minister Shinzo Abe	earn	she support	PERSON	0
+1.0	the EU	have	arms embargo	O	O
+1.0	island	have	have govern since end	0	0
+1.0	island	have	have govern separately since end of war	0	0
+1.0	bloc	join	they	0	0
+1.0	Japanese Prime Minister Shinzo Abe	meet	leader	0	0
+1.0	Germany	assume	year-long presidency nation	LOCATION	0
+1.0	island	have	even have govern separately since end of civil war	0	0
+1.0	african bloc	rebuff	offer	0	0
+1.0	talk	be in	Germany	0	LOCATION
+1.0	he	replace	Junichiro Koizumi as premier	0	PERSON
+1.0	Japan	make	amends	LOCATION	0
+1.0	island	have	have govern since end of civil war	0	0
+1.0	Japan	have take line with	its own economic sanction	LOCATION	0
+1.0	presidency	stint at	helm of European Union on January 1	0	ORGANIZATION
+1.0	initiative	be with	key partner	0	0
+1.0	Japanese Prime Minister Shinzo Abe	tell	reporter	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	say at_time	Wednesday	PERSON	DATE
+1.0	Iran 's	have	refusal	O	O
+1.0	Security Council	have	membership	ORGANIZATION	0
+1.0	bloc	also rebuff	offer	0	0
+1.0	island	have	have govern since end of war in 1949	0	DATE
+1.0	Germany	assume	presidency of group of eight industrialize nation	LOCATION	0
+1.0	island	have	even have govern	0	0
+1.0	japanese Prime Minister Shinzo Abe	say after	talk	PERSON	0
+1.0	Group	have	presidency	O	O
+1.0	attempt	fall in	2005	0	DATE
+1.0	Japan	raise	issue of citizen believe	LOCATION	0
+1.0	year-long presidency	stint at	helm	0	0
+1.0	Germany	assume	presidency of group industrialize nation	LOCATION	0
+1.0	EU	maintain	its arm embargo	ORGANIZATION	0
+1.0	Germany	support	EU 's arm embargo against China	LOCATION	LOCATION
+1.0	island	have	even have govern separately since end of war in 1949	0	DATE
+1.0	Tokyo 's	be participant in	six-party talk over North Korea 's programme	LOCATION	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	meet leader for	time	0	0
+1.0	island	have	even have govern since end of civil war in 1949	0	DATE
+1.0	abe	also win pledge from	Merkel	0	PERSON
+1.0	ban	break	balance	0	0
+1.0	Japan	have take	toughest line against Pyongyang	LOCATION	LOCATION
+1.0	Pyongyang	announce in	October	LOCATION	DATE
+1.0	abe	win pledge from	Merkel	0	PERSON
+1.0	Tokyo 's	be participant in	so-called six-party talk over North Korea 's programme	LOCATION	LOCATION
+1.0	53-member bloc	also rebuff	offer	0	0
+1.0	he	replace	Junichiro Koizumi as premier September	0	DATE
+1.0	Tokyo 's	be participant in	so-called talk over North Korea 's nuclear programme	LOCATION	LOCATION
+1.0	Tokyo 's	be participant in	talk	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	also earn	she support	PERSON	0
+1.0	Tokyo 's	be participant in	so-called talk	LOCATION	0
+1.0	our	have	position	O	O
+1.0	Council	vote in	December	ORGANIZATION	DATE
+1.0	Council	impose	sanction	ORGANIZATION	0
+1.0	Japan	repeatedly raise	issue of citizen believe	LOCATION	0
+1.0	year-long presidency	six-month stint at	helm of European Union on January 1	0	ORGANIZATION
+1.0	UN Security Council	have	reform	O	ORGANIZATION
+1.0	Japan	make	greater amends	LOCATION	0
+1.0	island	have	have govern separately	0	0
+1.0	Prime Minister Shinzo Abe	say after	talk	PERSON	0
+1.0	Iran	on	nuclear programme bilaterally	LOCATION	0
+1.0	EU	have	arm embargo against China	ORGANIZATION	LOCATION
+1.0	ban	break balance in	Taiwan Strait	0	LOCATION
+1.0	Germany	assume	presidency most industrialize nation	LOCATION	0
+1.0	Council	vote unanimously in	December	ORGANIZATION	DATE
+1.0	meeting	be with	Angela Merkel	0	PERSON
+1.0	african bloc	join	they	0	0
+1.0	North Korea	on	nuclear program	LOCATION	0
+1.0	Tokyo	have	bid	O	LOCATION
+1.0	Tokyo 's	be	participant	LOCATION	0
+1.0	bloc	rebuff	offer	0	0
+1.0	Japan	have take	toughest line	LOCATION	0
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	Japan	have take line with	its economic sanction	LOCATION	0
+1.0	tour	have	leg	O	O
+1.0	53-member african bloc	rebuff	offer	0	0
+1.0	Japan	have take line with	its own sanction	LOCATION	0
+1.0	Germany	assume	year-long presidency of group nation	LOCATION	0
+1.0	war	have	end	O	O
+1.0	presidency	six-month stint at	helm of European Union on January 1	0	ORGANIZATION
+1.0	Tokyo 's	also involve	the United States	LOCATION	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	tell reporter in	Berlin	PERSON	LOCATION
+1.0	island	have	even have govern since end of civil war	0	0
+1.0	island	have	have govern since end of civil war in 1949	0	DATE
+1.0	Iran	have	ambitions	O	LOCATION
+1.0	53-member african bloc	join	they	0	0
+1.0	island	have	have govern since end of war	0	0
+1.0	year-long presidency	stint at	helm of European Union on January 1	0	ORGANIZATION
+1.0	he	replace	Junichiro Koizumi as premier last September	0	DATE
+1.0	island	have	have govern separately since end of war in 1949	0	DATE
+1.0	island	have	have govern separately since end	0	0
+1.0	Japan	have	sanctions	O	O
+1.0	island	have	even have govern since end of war in 1949	0	DATE
+1.0	Council	impose sanction for	its refusal	ORGANIZATION	0
+1.0	EU	have	arms embargo	O	ORGANIZATION
+1.0	Japan	raise	issue of citizen	LOCATION	0
+1.0	Japan	raise	issue	LOCATION	0
+1.0	Germany	assume	year-long presidency of group of eight industrialize nation	LOCATION	0
+1.0	Angela Merkel	be with	german	PERSON	0
+1.0	Japan	have take line with	its sanction	LOCATION	0
+1.0	Germany	assume	presidency nation	LOCATION	0
+1.0	island	have	have govern separately since end of civil war in 1949	0	DATE
+1.0	Tokyo 's	be participant in	six-party talk over North Korea 's nuclear programme	LOCATION	LOCATION

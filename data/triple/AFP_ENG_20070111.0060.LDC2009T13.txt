@@ -1,0 +1,54 @@
+1.0	dissident	be in	2006	0	DATE
+1.0	283 political prisoner	be accord to	dissident	NUMBER	0
+1.0	he	have	visa	0	0
+1.0	Valdez Tamayo	be among	75 opponent to government	PERSON	NUMBER
+1.0	political prisoner	be accord to	dissident in 2006	0	DATE
+1.0	Valdez Tamayo	be among	75 opponent to government of President Fidel Castro arrest	PERSON	NUMBER
+1.0	political prisoner	be than accord to	dissident in 2006	0	DATE
+1.0	283 political prisoner	be than accord to	dissident	NUMBER	0
+1.0	cuban government	have release	16 of 75 arrest in 2003	0	NUMBER
+1.0	government	have release	16 of 75 arrest	0	NUMBER
+1.0	government	have release	16 of 75 arrest in 2003	0	NUMBER
+1.0	political prisoner 50 fewer	be accord to	dissident in 2006	NUMBER	DATE
+1.0	island	have	regime	O	O
+1.0	political prisoner	be accord to	dissident	0	0
+1.0	us	have	any	O	O
+1.0	political prisoner 50 fewer	be than accord to	dissident	NUMBER	0
+1.0	political prisoner	be than accord to	dissident	0	0
+1.0	79	have	age	O	NUMBER
+1.0	Valdez Tamayo	be among	75 opponent to government of President Fidel Castro arrest in April 2003 crackdown	PERSON	DATE
+1.0	283 political prisoner 50 fewer	be accord to	dissident	NUMBER	0
+1.0	Valdez Tamayo	be among	75 opponent	PERSON	NUMBER
+1.0	revolutionary	be in	1953 attack	0	DATE
+1.0	283 political prisoner 50 fewer	be than accord to	dissident in 2006	NUMBER	DATE
+1.0	regime	have	opponent	O	O
+1.0	President Fidel Castro	have	government	O	PERSON
+1.0	283 political prisoner 50 fewer	be accord to	dissident in 2006	NUMBER	DATE
+1.0	cuban government	have release	16 of 75 arrest	0	NUMBER
+1.0	283 political prisoner 50 fewer	be than accord to	dissident	NUMBER	0
+1.0	it	be	cruel	0	0
+1.0	political prisoner 50 fewer	be than accord to	dissident in 2006	NUMBER	DATE
+1.0	government	have already release	16 of 75 arrest	0	NUMBER
+1.0	arrest	have	died	O	O
+1.0	283 political prisoner	be than accord to	dissident in 2006	NUMBER	DATE
+1.0	cuban government	have already release	16 of 75 arrest	0	NUMBER
+1.0	island	of	communist regime	0	0
+1.0	revolutionaries	have	band	O	O
+1.0	death	have	AFP	ORGANIZATION	O
+1.0	Valdez Tamayo	have	health problems	O	PERSON
+1.0	government	have	action	O	O
+1.0	75	have	16	NUMBER	NUMBER
+1.0	Martha Beatriz Roque	inform	afp of death	PERSON	0
+0.632832863116628	visa	visit	Netherlands	0	LOCATION
+1.0	dissidents	have	One	NUMBER	O
+1.0	Valdez Tamayo	be among	75 opponent to government of President Fidel Castro	PERSON	NUMBER
+1.0	jail	have	out let	O	O
+1.0	Martha Beatriz Roque	inform	afp	PERSON	0
+1.0	he	even have	visa	0	0
+1.0	government	have already release	16 of 75 arrest in 2003	0	NUMBER
+1.0	cuban government	have already release	16 of 75 arrest in 2003	0	NUMBER
+1.0	cardiac arrest	be in	Havana hospital	0	LOCATION
+1.0	his	have	band	O	O
+1.0	283 political prisoner	be accord to	dissident in 2006	NUMBER	DATE
+1.0	political prisoner 50 fewer	be accord to	dissident	NUMBER	0
+1.0	Valdez Tamayo	have	health problem	PERSON	0

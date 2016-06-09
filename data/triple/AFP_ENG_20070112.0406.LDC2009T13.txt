@@ -1,0 +1,27 @@
+0.3856700620037359	London ftse 100 index	rise 0.14 percent to	6,239 point	LOCATION	NUMBER
+1.0	Dax	rise	0.26 percent	MISC	PERCENT
+0.06221292408889589	CAC	add in	Paris	0	LOCATION
+0.06835273580835857	London ftse 100 index	rise to	6,239 point	LOCATION	NUMBER
+0.28627611980559997	Dax	rise to	6,705.17	MISC	NUMBER
+1.0	stock exchange	post gain with	London ftse 100 index	0	LOCATION
+1.0	stock exchange	post gain at	end	0	DATE
+1.0	european stock exchange	post	gain	0	0
+0.17723111680806702	european stock exchange	post gain with	London ftse 100 index rise	0	LOCATION
+1.0	CAC	close at	5,617.62	0	NUMBER
+1.0	CAC 40	close at	5,617.62	NUMBER	NUMBER
+0.06221292408889589	CAC 40	add in	Paris	NUMBER	LOCATION
+0.3856700620037359	London ftse 100 index	rise	0.14 percent	LOCATION	PERCENT
+1.0	european stock exchange	post gain at	end of week	0	DATE
+1.0	stock exchange	post	gain	0	0
+0.17723111680806702	european stock exchange	post gain with	London ftse 100 index rise to 6,239 point	0	NUMBER
+1.0	european stock exchange	post gain with	London ftse 100 index	0	LOCATION
+1.0	stock exchange	post gain at	end of week	0	DATE
+0.17723111680806702	stock exchange	post gain with	London ftse 100 index rise	0	LOCATION
+1.0	european stock exchange	post gain at	end	0	DATE
+1.0	CAC 40	add	0.14 percent	NUMBER	PERCENT
+0.17723111680806702	stock exchange	post gain with	London ftse 100 index rise to 6,239 point	0	NUMBER
+0.28627611980559997	Dax	rise in	Frankfurt	MISC	LOCATION
+1.0	european stock exchange	post gain at_time	Friday	0	DATE
+1.0	CAC	add	0.14 percent	0	PERCENT
+1.0	week	have	end	DATE	DATE
+1.0	stock exchange	post gain at_time	Friday	0	DATE

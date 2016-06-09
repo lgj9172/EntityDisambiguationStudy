@@ -1,0 +1,34 @@
+1.0	aides	have	11	NUMBER	O
+1.0	ethiopian court	sentence to	life	0	0
+1.0	court	sentence in	absentia former dictator exile	0	0
+1.0	ethiopian court	sentence to	life in prison for genocide commit under he regime	0	0
+1.0	life	be in	prison for genocide commit under he marxist regime	0	0
+1.0	ethiopian court	sentence in	absentia former dictator currently	0	DATE
+1.0	sentence	follow	ethiopian Federal High Court 's conviction	0	ORGANIZATION
+1.0	absentia former dictator Mengistu Haile Mariam , currently exiled in Zimbabwe	have	regime	O	O
+1.0	court	sentence to	life in prison	0	0
+1.0	ethiopian court	sentence to	life in prison for genocide commit under he marxist regime	0	0
+1.0	court	sentence in	absentia former dictator exile in Zimbabwe	0	LOCATION
+1.0	court	sentence in	absentia former dictator currently exile in Zimbabwe	0	LOCATION
+1.0	ethiopian court	sentence in	absentia former dictator exile in Zimbabwe	0	LOCATION
+1.0	ethiopian court	sentence to	life in prison	0	0
+1.0	ethiopian court	sentence to	life in prison for genocide commit	0	0
+1.0	ethiopian court	sentence in	absentia former dictator exile	0	0
+1.0	court	sentence to	life in prison for genocide commit	0	0
+1.0	sentence	follow	Federal High Court 's conviction	0	ORGANIZATION
+1.0	court	sentence in	absentia former dictator currently exile	0	DATE
+1.0	court	sentence in	absentia former dictator	0	0
+1.0	Mengistu	have	December	DATE	LOCATION
+1.0	ethiopian court	sentence to	life in prison for genocide	0	0
+1.0	property seizure	have	counts	O	O
+1.0	genocide imprisonment	have	counts	O	O
+1.0	court	sentence to	life in prison for genocide commit under he marxist regime	0	0
+1.0	ethiopian court	sentence in	absentia former dictator currently exile	0	DATE
+1.0	court	sentence to	life	0	0
+1.0	absentia former dictator Mengistu Haile Mariam , currently exiled in Zimbabwe	have	aides	O	O
+1.0	ethiopian court	sentence in	absentia former dictator	0	0
+1.0	ethiopian court	sentence in	absentia former dictator currently exile in Zimbabwe	0	LOCATION
+1.0	court	sentence to	life in prison for genocide	0	0
+1.0	court	sentence to	life in prison for genocide commit under he regime	0	0
+1.0	court	sentence in	absentia former dictator currently	0	DATE
+1.0	Federal High Court	have	conviction	O	ORGANIZATION

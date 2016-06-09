@@ -1,0 +1,24 @@
+1.0	world	have	maker	O	O
+1.0	company	be	world 's top maker	0	0
+1.0	company	be	already world 's maker	0	0
+1.0	company	be	already world 's maker of plasma television	0	0
+1.0	giant Matsushita Electric Industrial Co.	build	world 's largest plasma display panel factory	ORGANIZATION	0
+1.0	world	have	panel factory	O	O
+1.0	company	be	world 's top maker of plasma television	0	0
+1.0	The company	have	management plan	O	O
+1.0	Matsushita Electric Industrial Co.	build	world 's plasma display panel factory	ORGANIZATION	0
+1.0	units	have	production capacity	O	O
+1.0	company	be	already world 's top maker	0	0
+1.0	world	have	largest plasma display panel factory	0	0
+1.0	Matsushita Electric Industrial Co.	will spend	2.35 billion dollar	ORGANIZATION	MONEY
+1.0	plasma televisions	have	maker	O	O
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	company	be	world 's maker	0	0
+1.0	giant Matsushita Electric Industrial Co.	will spend	2.35 billion dollar	ORGANIZATION	MONEY
+1.0	Amagasaki	have	city	O	LOCATION
+1.0	products	have	Panasonic brand	O	O
+1.0	company	be	already world 's top maker of plasma television	0	0
+1.0	giant Matsushita Electric Industrial Co.	build	world 's plasma display panel factory	ORGANIZATION	0
+1.0	plant	be in	western japanese city of Amagasaki	DURATION	LOCATION
+1.0	Matsushita Electric Industrial Co.	build	world 's largest plasma display panel factory	ORGANIZATION	0
+1.0	company	be	world 's maker of plasma television	0	0

@@ -1,0 +1,81 @@
+1.0	bus	be	full	0	0
+1.0	force jet	stage	fourth day of raid against Tamil position	0	MISC
+1.0	force jet	stage	day of raid against Tamil position	0	MISC
+1.0	ltte	accuse	military	0	0
+1.0	LTTE	have	military spokesperson	ORGANIZATION	0
+1.0	conflict	have claim since	1972	0	DATE
+1.0	LTTE	have	spokesperson	O	ORGANIZATION
+1.0	casualties	have	number	O	O
+1.0	Policy Planning	have	Minister	O	O
+1.0	blast	have	cause	O	O
+1.0	force jet	stage	day	0	DURATION
+1.0	desperation	have	signs	O	O
+1.0	force jet	stage	fourth straight day of raid	0	DURATION
+1.0	force jet	stage	straight day	0	DURATION
+1.0	Rasiah Ilanthirayan	accuse	government force	PERSON	0
+1.0	A bomb	travel during	evening rush hour	0	TIME
+1.0	ltte	want homeland in	northern region of country	0	0
+1.0	force jet	stage	fourth day of raid	0	DURATION
+1.0	government	have	defence affair spokesman	0	0
+1.0	evidence	point	finger towards Tigers	0	ORGANIZATION
+1.0	force jet	stage day in	north	0	0
+1.0	historical evidence	point	finger towards Tigers	0	ORGANIZATION
+1.0	force jet	stage	fourth straight day	0	DURATION
+1.0	bus	be	full of passenger at time of blast	0	DATE
+1.0	these	be	sign	0	0
+1.0	country	have	regions	O	O
+1.0	ltte	want homeland in	region of sinhalese-majority country	0	0
+1.0	Kandy	have	town	O	LOCATION
+1.0	ltte	want homeland in	region of country	0	0
+1.0	ltte	want homeland in	northern region of sinhalese-majority country	0	0
+1.0	force jet	stage	fourth straight day of raid against Tamil position	0	MISC
+1.0	sea Tigers	arm of	rebel	ORGANIZATION	0
+1.0	force jet	stage	fourth day	0	DURATION
+1.0	force jet	stage day in	north of island	0	0
+1.0	desperation	be in	view of the	0	0
+1.0	ltte	want	separate homeland for minority tamil	0	0
+1.0	ltte	accuse	military of air raid	0	0
+1.0	Rasiah Ilanthirayan	also accuse	government force	PERSON	0
+1.0	bus	be	full of passenger at time	0	DATE
+1.0	rebels	have	arm	O	O
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	spokesman	have	allegations	O	O
+1.0	passengers	have	full	O	O
+1.0	force jet	stage	day of raid	0	DURATION
+1.0	explosion	have	form	O	O
+1.0	three other	be in	fragmentation mine blast inside Tiger territory	NUMBER	0
+1.0	historical evidence	point	finger towards Tigers for blast	0	ORGANIZATION
+1.0	Keheliya Rambukwella	spokesman 's	government	PERSON	0
+1.0	blast	have	time	DATE	O
+1.0	two state employee	injure	three other	NUMBER	NUMBER
+1.0	A bomb	travel between	Nittambuwa	0	LOCATION
+1.0	bomb	rip through	passenger bus	0	0
+1.0	force jet	stage	straight day of raid against Tamil position	0	MISC
+1.0	ltte	want	homeland for minority tamil	0	0
+1.0	ltte	want homeland in	northern region	0	0
+1.0	bus	be full of	passenger	0	0
+1.0	A bomb	travel during	evening rush hour on Colombo-Kandy highway	0	LOCATION
+1.0	these	be sign of	desperation in view	0	0
+1.0	force jet	stage	straight day of raid	0	DURATION
+1.0	ltte	want homeland in	region	0	0
+1.0	bus	be full at	time	0	DATE
+1.0	two state employee	injure	three other in fragmentation mine blast inside Tiger territory	NUMBER	NUMBER
+1.0	bus	be full at	time of blast	0	DATE
+1.0	government	have	defence affairs spokesman	O	O
+1.0	the	have	view	O	O
+1.0	ltte	accuse	military of non-stop air raid	0	0
+1.0	Rasiah Ilanthirayan	spokesperson 's	LTTE	PERSON	ORGANIZATION
+1.0	historical evidence	point	finger	0	0
+1.0	evidence	point	finger towards Tigers for blast	0	ORGANIZATION
+1.0	island	have	north	O	O
+1.0	LTTE	have	work	O	ORGANIZATION
+1.0	ltte	want	homeland	0	0
+1.0	these	be sign of	desperation	0	0
+1.0	ltte	want	separate homeland	0	0
+1.0	evidence	point	finger	0	0
+1.0	Colombo	be near	Sri Lankan	LOCATION	LOCATION
+1.0	air raids	have	military	O	O
+1.0	Colombo	be capital of	Sri Lankan	LOCATION	LOCATION
+1.0	A1	have	closure	O	O
+1.0	raids	have	day	DURATION	O
+1.0	two state employee	injure	three other in fragmentation mine blast	NUMBER	NUMBER

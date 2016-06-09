@@ -1,0 +1,52 @@
+1.0	he	be	charge	0	0
+1.0	EU leader	be in	mid-december	ORGANIZATION	0
+1.0	interference	engage in	stabilization	0	0
+1.0	human rights situation	be in	Syria	0	LOCATION
+1.0	rights lawyer	have	brother	O	O
+1.0	National Organization	say in	statement	ORGANIZATION	0
+1.0	state	have	EU heads	O	O
+1.0	Syria	have	deputy prime minister for economic affair Abdallah Dardari MPs	LOCATION	PERSON
+1.0	Syria 's deputy prime minister	be expect	attend	LOCATION	0
+1.0	Syria	have	deputy minister	O	LOCATION
+1.0	meeting	be	focus	0	0
+1.0	writer Akram Bunni	have	trial	O	O
+1.0	meeting	be	focus on human rights situation	0	0
+1.0	society organization	have	director	O	O
+1.0	parliament	have	meeting	O	O
+1.0	authority	be in	March 2006	DURATION	DATE
+1.0	he	have	have director	0	DURATION
+1.0	interference	engage in	stabilization of Lebanon	0	LOCATION
+1.0	rights group	denounce travel ban as	service	0	0
+1.0	meeting	focus on	human rights situation in Syria	0	LOCATION
+1.0	meeting	focus on	rights situation in Syria	0	LOCATION
+1.0	rights group	denounce travel ban as	illegal service	0	0
+1.0	meeting	focus on	rights situation	0	0
+1.0	interference	actively engage in	stabilization of Lebanon	0	LOCATION
+1.0	meeting	be	focus on rights situation	0	0
+1.0	Syria 's deputy minister	be	expect	LOCATION	0
+1.0	Syria 's deputy prime minister	be	expect	LOCATION	0
+1.0	EU leader	urge syria follow	Brussels summit of EU head of state	ORGANIZATION	LOCATION
+1.0	rights group	denounce	travel ban	0	0
+1.0	interference	actively engage in	stabilization	0	0
+1.0	government	have	EU heads	O	O
+1.0	writer Akram Bunni	be	brother	PERSON	0
+1.0	EU leader	urge	Syria	ORGANIZATION	LOCATION
+1.0	EU leader	urge syria follow	Brussels summit	ORGANIZATION	LOCATION
+1.0	meeting	be	focus on rights situation in Syria	0	LOCATION
+1.0	he	have	have director of civil society organization	0	DURATION
+1.0	National Organization for Human Rights	be in	Syria	ORGANIZATION	LOCATION
+1.0	meeting	be in	Brussels	0	LOCATION
+1.0	EU heads	have	Brussels summit	O	O
+0.7718460692650202	European Union	begin	operation	0	DURATION
+1.0	lawyer	have	brother	O	O
+1.0	he	have	have director of society organization	0	DURATION
+1.0	meeting	focus on	human rights situation	0	0
+1.0	Syria 's deputy minister	be expect	attend	LOCATION	0
+1.0	rights activist Anwar Bunni	have	brother	O	PERSON
+1.0	region	have	stabilization	O	O
+1.0	EU leader	urge syria follow	Brussels summit of EU head	ORGANIZATION	LOCATION
+1.0	trial	have	resumption	O	O
+1.0	rights group	say on	Wednesday	0	DATE
+1.0	Syria	end	interference in lebanese internal affair	LOCATION	0
+1.0	Lebanon	have	stabilization	O	LOCATION
+1.0	meeting	be	focus on human rights situation in Syria	0	LOCATION

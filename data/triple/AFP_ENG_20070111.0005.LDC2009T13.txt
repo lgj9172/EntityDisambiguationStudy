@@ -1,0 +1,41 @@
+0.9150898653282052	Bush	speech in	prime-time	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	mistake	be in	my life	0	0
+1.0	mistake	be	make	0	0
+1.0	his	have	push	O	O
+1.0	Bush 's new strategy	deploy	21,500 soldier to Iraq	PERSON	LOCATION
+1.0	my	have	life	O	O
+1.0	Bush 's strategy	deploy	extra 21,500 soldier	PERSON	NUMBER
+1.0	mistake	make	stake	0	0
+0.9150898653282052	Bush	speech from	White House	PERSON	LOCATION
+1.0	John Howard	be	australian	PERSON	0
+0.4103028394416464	attempt	crush	spiralling violence	0	0
+0.9150898653282052	Bush	televise speech in	prime-time	PERSON	0
+1.0	Bush	have	strategy	O	PERSON
+1.0	Bush	have	new strategy outline in major broadcast to nation	PERSON	0
+1.0	Bush 's new strategy	deploy	21,500 soldier	PERSON	NUMBER
+1.0	country	have	control	O	O
+1.0	american defeat	be in	Iraq	0	LOCATION
+1.0	Prime Minister John Howard	say at_time	Thursday	PERSON	DATE
+1.0	mistakes	have	lot	O	O
+0.9150898653282052	Bush	televise speech from	White House	PERSON	LOCATION
+1.0	whose nation	contribute soldier to	2003 invasion of Iraq	0	LOCATION
+1.0	it	be	clear	0	0
+1.0	Australia	have	troop level	O	O
+1.0	televise speech	be in	prime-time	0	0
+1.0	it	be at	stake	0	0
+1.0	australian Prime Minister John Howard	say at_time	Thursday	PERSON	DATE
+0.4103028394416464	attempt	crush	violence	0	0
+1.0	Bush 's new strategy	deploy	extra 21,500 soldier	PERSON	NUMBER
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	whose	have	nation	O	O
+1.0	Bush 's strategy	deploy	extra 21,500 soldier to Iraq	PERSON	LOCATION
+1.0	Bush 's strategy	deploy	21,500 soldier	PERSON	NUMBER
+1.0	Bush 's strategy	deploy	21,500 soldier to Iraq	PERSON	LOCATION
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	Iraq	have	security force	LOCATION	0
+1.0	Bush	speech from	White House	PERSON	LOCATION
+1.0	whose nation	contribute soldier to	invasion of Iraq	0	LOCATION
+1.0	Bush	speech in	prime-time	PERSON	0
+1.0	George W. Bush	be by	US	PERSON	LOCATION
+1.0	Bush 's new strategy	deploy	extra 21,500 soldier to Iraq	PERSON	LOCATION

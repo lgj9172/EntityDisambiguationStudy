@@ -1,0 +1,49 @@
+1.0	militants	have	number	O	O
+1.0	19-year-old Buddhist man	kill at_time	Thursday	ORGANIZATION	DATE
+1.0	army base	be in	Narathiwat	0	LOCATION
+1.0	region	be	autonomous	0	0
+1.0	Thailand	have	south	O	LOCATION
+1.0	Buddhist man	kill at_time	Thursday	ORGANIZATION	DATE
+1.0	19-year-old Buddhist man	be shoot	afternoon	ORGANIZATION	TIME
+1.0	militant	stage	raid on January 4 2004	0	DATE
+1.0	mutilations shootings	have	escalation	O	O
+0.7060875238981666	region	border	Malaysia	0	MISC
+1.0	19-year-old Buddhist man	be shoot afternoon in	drive-by shooting	ORGANIZATION	0
+1.0	September	after	military coup	DATE	0
+1.0	Buddhist man	kill at_time	early Thursday	ORGANIZATION	TIME
+1.0	Buddhist Thailand	be in	1902	ORGANIZATION	DATE
+1.0	Buddhist monk	meanwhile gather at	army base	ORGANIZATION	0
+1.0	militant	stage	raid	0	0
+1.0	official	mark	event	0	0
+1.0	official	conduct	religious ceremony	0	0
+1.0	Buddhist monk	gather at_time	morning	ORGANIZATION	TIME
+1.0	region	be	autonomous malay sultanate	0	0
+1.0	victim	be shoot by	militant in Narathiwat	0	LOCATION
+1.0	violence	have	years	DURATION	O
+1.0	unrest	have	anniversary	DATE	O
+1.0	19-year-old Buddhist man	kill at_time	early Thursday	ORGANIZATION	TIME
+1.0	Buddhist man	be shoot afternoon in	shooting	ORGANIZATION	0
+1.0	people	offer	alms	0	0
+1.0	Buddhist monk	gather on	Wednesday	ORGANIZATION	DATE
+1.0	arson attacks	have	escalation	O	O
+1.0	Buddhist monk	gather at	army base	ORGANIZATION	0
+0.9584841626684978	people	dead at_time	two	0	NUMBER
+1.0	militant	be in	Narathiwat	0	LOCATION
+1.0	victim	be	shoot	0	0
+1.0	Buddhist man	be shoot afternoon in	drive-by shooting	ORGANIZATION	0
+1.0	region	be	malay sultanate	0	0
+1.0	official	conduct	ceremony	0	0
+1.0	people	offer alms to	monk	0	0
+1.0	victim	be shoot by	militant	0	0
+1.0	unrest	be in	Thailand 's troubled south	0	LOCATION
+1.0	September	have	coup	O	DATE
+1.0	19-year-old Buddhist man	be shoot afternoon in	shooting	ORGANIZATION	0
+1.0	Thailand	in	troubled south	LOCATION	0
+1.0	Buddhist monk	meanwhile gather at	army base in Narathiwat	ORGANIZATION	LOCATION
+1.0	Buddhist monk	gather at	army base in Narathiwat	ORGANIZATION	LOCATION
+1.0	Narathiwat	one of	three	LOCATION	DURATION
+1.0	victim	be shoot	dead	0	0
+1.0	Buddhist man	be shoot	afternoon	ORGANIZATION	TIME
+1.0	Buddhist monk	meanwhile gather at_time	morning	ORGANIZATION	TIME
+1.0	Buddhist monk	meanwhile gather on	Wednesday	ORGANIZATION	DATE
+1.0	three	have	one	NUMBER	NUMBER

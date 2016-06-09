@@ -1,0 +1,62 @@
+1.0	spokesman Martin Kotthaus	say at	meeting expect	PERSON	0
+1.0	International Somalia Contact group	have	members	O	O
+1.0	EU nation	send	high-level delegate	ORGANIZATION	0
+1.0	UN resolution	require	foreign troops	ORGANIZATION	0
+1.0	Martin Kotthaus	be	german	PERSON	0
+1.0	other aim	be for	stability	0	0
+1.0	proxy war	be in	Somalia	0	LOCATION
+1.0	spokesman Martin Kotthaus	say at	meeting	PERSON	0
+1.0	participate EU nation	also send	delegate	ORGANIZATION	0
+1.0	participate EU nation	send	high-level delegate	ORGANIZATION	0
+1.0	Somalia	have	government	O	LOCATION
+1.0	its	have	Development Commissioner Louis Michel	PERSON	O
+1.0	Somalia	turn into	quagmire	MISC	0
+1.0	Emma Udwin	be spokeswoman of	the European Commission	PERSON	ORGANIZATION
+1.0	contact group members	have	representatives	O	O
+1.0	reconciliation	have	process	O	O
+1.0	fighting	have	weeks	DURATION	O
+1.0	Frank-Walter Steinmeier	be	german	PERSON	0
+1.0	weeks	have	scene	O	DURATION
+1.0	European Union	supporter of	Somalia 's government	ORGANIZATION	LOCATION
+0.9170625824285257	method	restore peace to	country	0	0
+1.0	European Union	remain	supporter	ORGANIZATION	0
+1.0	Somalia	scene of	nearly two week	MISC	DURATION
+1.0	government	have	supporter	O	O
+1.0	Eritrea	be on	Wednesday	LOCATION	DATE
+1.0	other aim	be for	political stability	0	0
+1.0	EU nation	also send	delegate	ORGANIZATION	0
+0.9170625824285257	method	restore	peace	0	0
+1.0	aim	be for	stability	0	0
+1.0	foreign troops	withdraw from	Somalia	0	LOCATION
+1.0	german spokesman Martin Kotthaus	say at	meeting expect	PERSON	0
+0.9610758231040665	EU	have send	300 million euro	ORGANIZATION	MONEY
+1.0	members	have	meeting	O	O
+1.0	german Foreign Minister Frank-Walter Steinmeier	meet in	Brussels	PERSON	LOCATION
+1.0	EU presidency	discuss	method	ORGANIZATION	0
+1.0	EU executive arm	at	daily briefing	ORGANIZATION	SET
+1.0	Foreign Minister Frank-Walter Steinmeier	meet along with	representative	PERSON	0
+1.0	aim	be for	political stability	0	0
+1.0	Somalia	of	transitional government	LOCATION	0
+1.0	german EU presidency	discuss	method	ORGANIZATION	0
+1.0	Foreign Minister Frank-Walter Steinmeier	meet along with	representative of contact group member	PERSON	0
+1.0	Commission spokeswoman Emma Udwin	tell	reporter	0	0
+1.0	participate EU nation	send	delegate	ORGANIZATION	0
+1.0	german Foreign Minister Frank-Walter Steinmeier	meet along with	representative of contact group member	PERSON	0
+1.0	Foreign Minister Frank-Walter Steinmeier	meet in	Brussels	PERSON	LOCATION
+1.0	Commission spokeswoman Emma Udwin	tell reporter at	EU executive arm 's daily briefing	0	SET
+0.6535532714882589	EU	be	represent	ORGANIZATION	0
+1.0	Commission spokeswoman Emma Udwin	tell reporter at	EU executive arm 's briefing	0	ORGANIZATION
+0.6535532714882589	EU	be represent by	its Development Commissioner Louis Michel	ORGANIZATION	PERSON
+1.0	European Union	remain	supporter of Somalia 's government	ORGANIZATION	LOCATION
+1.0	European Union	remain	supporter of Somalia 's transitional government	ORGANIZATION	LOCATION
+1.0	UN	be	the European Union	ORGANIZATION	ORGANIZATION
+1.0	german Foreign Minister Frank-Walter Steinmeier	meet along with	representative	PERSON	0
+1.0	European Union	supporter of	Somalia 's transitional government	ORGANIZATION	LOCATION
+1.0	EU executive arm	have	briefing	O	O
+1.0	participate EU nation	also send	high-level delegate	ORGANIZATION	0
+1.0	EU nation	also send	high-level delegate	ORGANIZATION	0
+1.0	german spokesman Martin Kotthaus	say at	meeting	PERSON	0
+1.0	Emma Udwin	be	the European Commission	PERSON	ORGANIZATION
+1.0	EU nation	send	delegate	ORGANIZATION	0
+1.0	African Union	be	UN	LOCATION	ORGANIZATION
+1.0	UN resolution 1725	require	foreign troops	DATE	0

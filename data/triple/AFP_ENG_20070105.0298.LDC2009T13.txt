@@ -1,0 +1,29 @@
+1.0	US employer	add	healthy 167,000 job	LOCATION	NUMBER
+1.0	government	announce on	front	0	0
+1.0	that	suggest condition despite	evidence of slowdown	0	0
+1.0	that	suggest	economic condition	0	0
+1.0	slowdown	have	evidence	O	O
+1.0	Dick Green	president at	Briefing.com	PERSON	0
+1.0	that	suggest	upbeat condition	0	0
+1.0	that	suggest	condition	0	0
+1.0	that	suggest condition despite	evidence	0	0
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	government	announce on	economic front	0	0
+1.0	Dow Jones Industrial Average	be after	down at 12,437.19 shortly opening bell	MISC	NUMBER
+1.0	Dow Jones Industrial Average	be after	down 43.50 point opening bell	MISC	NUMBER
+1.0	Dow Jones Industrial Average	be after	down opening bell	MISC	0
+1.0	US employer	add	167,000 new job in December	LOCATION	NUMBER
+0.10640812119574006	that	suggest despite	evidence of slowdown	0	0
+1.0	US employer	add	167,000 job	LOCATION	NUMBER
+1.0	spike	be in	US job growth on concern about corporate earnings after profit warning from telecom group	0	LOCATION
+0.10640812119574006	that	suggest despite	evidence	0	0
+1.0	US employer	add	167,000 job in December	LOCATION	NUMBER
+1.0	US employer	add	healthy 167,000 new job	LOCATION	NUMBER
+1.0	US employer	add	healthy 167,000 job in December	LOCATION	NUMBER
+1.0	Dow Jones Industrial Average	be after	opening bell	MISC	0
+1.0	healthy 167,000 new job	be in	December	NUMBER	DATE
+1.0	that	suggest	upbeat economic condition	0	0
+1.0	US employer	add	healthy 167,000 new job in December	LOCATION	NUMBER
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	Dow Jones Industrial Average	be after	down 43.50 point at 12,437.19 shortly opening bell	MISC	NUMBER
+1.0	US employer	add	167,000 new job	LOCATION	NUMBER

@@ -1,0 +1,26 @@
+1.0	the eastern province of Anhui	have	website	O	O
+1.0	Li	until	case	PERSON	0
+1.0	it	emerge in	Asia	0	LOCATION
+1.0	Li	have in	have contact with poultry	0	0
+1.0	h5n1 strain	be in	China	0	LOCATION
+1.0	Li	have in	have contact	0	0
+1.0	bird flu	be in	six month	0	DURATION
+1.0	it	emerge in	late 2003	0	DATE
+1.0	person	have	report	O	O
+1.0	people	have	number	O	O
+1.0	have close contact	be with	poultry	0	0
+1.0	health ministry	say on	its website	0	0
+1.0	Anhui	have	province	O	LOCATION
+1.0	Li	have in	have close contact	0	0
+1.0	health ministry	say in	statement	0	0
+1.0	bird flu	have	case	O	O
+1.0	Li	have in	have close contact with poultry	0	0
+1.0	Li	have	case	O	PERSON
+1.0	bird flu	have	H5N1 strain	O	O
+1.0	Xinjiang	have	region	O	LOCATION
+1.0	China	report at_time	Wednesday	LOCATION	DATE
+1.0	China	have	case	O	O
+1.0	people	be in	China	0	LOCATION
+1.0	Li	have	case	PERSON	0
+1.0	Li	have	relatives	O	O
+1.0	bird flu on Monday	have	signs	O	O

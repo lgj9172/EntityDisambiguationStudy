@@ -1,0 +1,52 @@
+1.0	bombing	follow	pattern similar to attack	0	0
+1.0	deadly new year bombing	be in	Bangkok	0	LOCATION
+1.0	militants	have	work	O	O
+1.0	bombing	follow pattern by	militant of mainly Buddhist Thailand	0	LOCATION
+1.0	Thaksin	be in	September	PERSON	DATE
+1.0	Buddhist Thailand	have	militants	O	LOCATION
+1.0	them	have	none	O	O
+1.0	bombing	follow pattern by	militant in province	0	0
+1.0	Thaksin in September	be criticise for	he strong-arm tactic	PERSON	0
+1.0	Thailand	be of	Buddhist	LOCATION	ORGANIZATION
+0.3955180137413015	letter	date	Tuesday	0	DATE
+1.0	Thaksin in September	be widely criticise for	he strong-arm tactic	PERSON	0
+1.0	bombing	follow	pattern	0	0
+1.0	ex-premier	accuse general in	handwritten letter date Tuesday	0	DATE
+1.0	ex-premier	accuse general in	letter date	0	0
+1.0	Thaksin in September	fight	insurgency	PERSON	0
+1.0	New Year 's Eve	be in	Bangkok	DATE	LOCATION
+1.0	militant	be in	muslim-majority province	0	0
+1.0	bombing	follow pattern by	militant in muslim-majority province of mainly Buddhist Thailand	0	LOCATION
+1.0	Thaksin in September	be criticise for	he tactic	PERSON	0
+1.0	the militants in the south	have	branch approach	O	O
+1.0	involvement	depose minister thaksin shinawatra on	Tuesday	0	DATE
+0.3955180137413015	handwritten letter	date	Tuesday	0	DATE
+1.0	ex-premier	accuse	general rush to conclusion	0	0
+1.0	bombing	follow pattern by	militant	0	0
+1.0	ex-premier	accuse	general rush	0	0
+0.5672264943059828	pattern	similar to	attack	0	0
+1.0	Thaksin in September	have	lawyer	O	O
+0.5672264943059828	pattern	similar to	previous attack	0	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	ex-premier	accuse general in	letter date Tuesday	0	DATE
+1.0	ex-premier	accuse	general	0	0
+1.0	involvement	depose	prime minister Thaksin Shinawatra	0	PERSON
+1.0	bombing	follow pattern by	militant in province of Buddhist Thailand	0	LOCATION
+1.0	Thaksin in September	be	criticise	PERSON	0
+1.0	bombing	follow	pattern similar	0	0
+1.0	bombing	follow pattern by	militant in muslim-majority province	0	0
+1.0	ex-premier	accuse general in	handwritten letter	0	0
+1.0	bombing	follow pattern by	militant in province of mainly Buddhist Thailand	0	LOCATION
+1.0	Thaksin in September	fight	separatist insurgency	PERSON	0
+1.0	Thaksin in September	have	tactics	O	O
+1.0	ex-premier	accuse general in	handwritten letter date	0	0
+1.0	bombing	follow	pattern similar to previous attack	0	0
+1.0	bombing	follow pattern by	militant of Buddhist Thailand	0	LOCATION
+1.0	Thaksin in September	be widely criticise for	he tactic	PERSON	0
+1.0	ex-premier	accuse general in	letter	0	0
+1.0	Thailand	have	attacked	O	LOCATION
+1.0	Thaksin in September	be	widely criticise	PERSON	0
+1.0	involvement	depose	minister Thaksin Shinawatra	0	PERSON
+1.0	bombing	follow pattern by	militant in muslim-majority province of Buddhist Thailand	0	LOCATION
+1.0	Thaksin in September	have	government	O	O
+1.0	branch approach	have	failure	O	O

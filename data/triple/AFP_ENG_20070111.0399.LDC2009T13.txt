@@ -1,0 +1,10 @@
+1.0	The Agriculture , Forestry and Fisheries Ministry said it was looking into a possible case at a farm in the Miyazaki prefecture	be	true	0	0
+1.0	infection	be in	bird but human death	0	0
+1.0	Japan	have report infection in	past	LOCATION	DATE
+1.0	farm	be in	Miyazaki prefecture	0	LOCATION
+1.0	government	handle	case	0	0
+1.0	chicken farm	be in	Japan	0	LOCATION
+1.0	Kyodo news agency	report at_time	Thursday	ORGANIZATION	DATE
+1.0	report	say with	around 10,000 poultry	0	NUMBER
+1.0	Japan	have report	infection	LOCATION	0
+1.0	We	look into	The Agriculture , Forestry and Fisheries Ministry said it was looking into a possible case at a farm in the Miyazaki prefecture	0	0

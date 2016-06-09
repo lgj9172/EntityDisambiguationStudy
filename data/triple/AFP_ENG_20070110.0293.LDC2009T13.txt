@@ -1,0 +1,11 @@
+1.0	european Commission	unveil	plan	ORGANIZATION	0
+1.0	european Commission	unveil plan at_time	Wednesday	ORGANIZATION	DATE
+1.0	Commission	unveil	sweeping plan	ORGANIZATION	0
+1.0	EU energy source	slash	carbon emission	ORGANIZATION	0
+1.0	european Commission	diversify	EU energy source	ORGANIZATION	ORGANIZATION
+1.0	EU energy source	slash carbon emission by	20 percent	ORGANIZATION	PERCENT
+1.0	Commission	diversify	EU energy source	ORGANIZATION	ORGANIZATION
+1.0	Commission	unveil plan at_time	Wednesday	ORGANIZATION	DATE
+1.0	EU energy source	enforce	fuel competition	ORGANIZATION	0
+1.0	Commission	unveil	plan	ORGANIZATION	0
+1.0	european Commission	unveil	sweeping plan	ORGANIZATION	0

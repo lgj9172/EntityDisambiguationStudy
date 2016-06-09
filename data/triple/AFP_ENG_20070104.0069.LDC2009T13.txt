@@ -1,0 +1,69 @@
+1.0	Eastman Kodak Co. of the US	file lawsuit in	March 2004 in court	ORGANIZATION	DATE
+1.0	Sony	infringe	10 of its patent	ORGANIZATION	NUMBER
+0.4637825308547831	japanese electronics giant	infringe	10 of its patent	0	NUMBER
+1.0	Eastman Kodak Co. of the US	file	lawsuit	ORGANIZATION	0
+1.0	Eastman Kodak Co. of the US	file lawsuit in	March 2004 in federal court in Rochester	ORGANIZATION	DATE
+0.8388825794442135	patent	register between	February 1987	0	DATE
+1.0	other	to	patent portfolio	0	0
+1.0	Japan	have	Sony Corp.	ORGANIZATION	LOCATION
+1.0	Eastman Kodak Co.	be of	US	ORGANIZATION	LOCATION
+1.0	Sony	file countersuit in	April	ORGANIZATION	DATE
+1.0	US	have	Eastman Kodak Co.	ORGANIZATION	LOCATION
+0.4637825308547831	japanese electronics giant	infringe 10 its patent on	photo technology	0	0
+1.0	Eastman Kodak Co. of the US	be	base	ORGANIZATION	0
+1.0	Sony Sony Ericsson	have	technology	O	ORGANIZATION
+1.0	Eastman Kodak Co. of the US	file lawsuit in	March 2004 in federal court	ORGANIZATION	DATE
+1.0	Eastman Kodak Co. of the US	file lawsuit in	March 2004	ORGANIZATION	DATE
+0.4637825308547831	japanese electronics giant	infringe 10 its patent on	digital photo technology	0	0
+1.0	Eastman Kodak Co. of the US	file lawsuit in	March 2004 in court in Rochester	ORGANIZATION	DATE
+0.8568229474124254	validate	strength of	Kodak 's intellectual property portfolio	0	ORGANIZATION
+1.0	Laura G. Quatela	be vice president of	Eastman Kodak	PERSON	ORGANIZATION
+0.4637825308547831	japanese electronics giant	infringe 10 of its patent on	photo technology	0	0
+1.0	Eastman Kodak Co. of the US	be	where base	ORGANIZATION	0
+1.0	complaint	cover	patent	0	0
+1.0	Sony	file countersuit in	April of year	ORGANIZATION	DATE
+1.0	lawsuit	accuse	electronics giant	0	0
+1.0	lawsuit	accuse	japanese electronics giant	0	0
+1.0	March 2004	be in	federal court	DATE	0
+1.0	it	enter into	technology cross license	0	0
+1.0	Sony	file countersuit in	April of same year	ORGANIZATION	DATE
+0.4637825308547831	electronics giant	infringe 10 its patent on	photo technology	0	0
+1.0	year	have	April	DATE	DATE
+0.4637825308547831	electronics giant	infringe 10 its patent on	digital photo technology	0	0
+1.0	Sony	allegedly infringe	10 of its patent	ORGANIZATION	NUMBER
+1.0	federal court	be in	Rochester	0	LOCATION
+1.0	companies	have	reached	O	O
+1.0	property portfolio	have	strength	O	O
+0.4637825308547831	electronics giant	infringe	10 its patent	0	NUMBER
+1.0	Japan 's Sony Corp.	say at_time	Thursday	LOCATION	DATE
+1.0	Kodak	also announce at_time	late Wednesday	ORGANIZATION	DATE
+1.0	Japan	have	Sony Corp.	LOCATION	ORGANIZATION
+1.0	Sony	allegedly infringe	10 its patent	ORGANIZATION	NUMBER
+1.0	technology cross license	be with	Sony Ericsson Mobile Communications AB	0	ORGANIZATION
+0.8568229474124254	validate	strength of	Kodak 's property portfolio	0	ORGANIZATION
+1.0	Sony	file	countersuit	ORGANIZATION	0
+1.0	Japan 's Sony Corp.	say in	statement	ORGANIZATION	0
+1.0	it	enter into	technology cross license with Sony Ericsson Mobile Communications AB	0	ORGANIZATION
+0.4637825308547831	electronics giant	infringe	10 of its patent	0	NUMBER
+1.0	Sony	file countersuit in	United States	ORGANIZATION	LOCATION
+1.0	patents	have	10	NUMBER	O
+1.0	Sony	infringe	10 its patent	ORGANIZATION	NUMBER
+1.0	its	have	patents	O	O
+1.0	Kodak	also announce at_time	Wednesday	ORGANIZATION	DATE
+1.0	Kodak	of	intellectual property portfolio	ORGANIZATION	0
+1.0	Japan 's Sony Corp.	say in	brief statement	ORGANIZATION	0
+1.0	complaint	cover	patent register between February 1987	0	DATE
+1.0	Sony	file countersuit against	Eastman Kodak	ORGANIZATION	ORGANIZATION
+1.0	Eastman Kodak Co. of the US	file	lawsuit against Sony	ORGANIZATION	ORGANIZATION
+0.4637825308547831	electronics giant	infringe 10 of its patent on	photo technology	0	0
+0.4637825308547831	japanese electronics giant	infringe 10 of its patent on	digital photo technology	0	0
+1.0	complaint	cover	patent register	0	0
+1.0	Eastman Kodak vice president Laura G. Quatela	say in	statement	PERSON	0
+1.0	Kodak	announce at_time	late Wednesday	ORGANIZATION	DATE
+1.0	Kodak	announce at_time	Wednesday	ORGANIZATION	DATE
+1.0	Laura G. Quatela	be	Eastman Kodak	PERSON	ORGANIZATION
+1.0	Eastman Kodak Co. of the US	have	patents	O	O
+1.0	Kodak	have	property portfolio	O	ORGANIZATION
+0.4637825308547831	japanese electronics giant	infringe	10 its patent	0	NUMBER
+0.4637825308547831	electronics giant	infringe 10 of its patent on	digital photo technology	0	0
+1.0	other	have	patent portfolios	O	O

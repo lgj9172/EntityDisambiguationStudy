@@ -1,0 +1,24 @@
+1.0	England	be in	50 over	LOCATION	NUMBER
+1.0	australian	defeat england in	triangular series one-day match Friday	0	DURATION
+1.0	England batsman Kevin Pietersen	miss	rest of series	PERSON	0
+1.0	australian	defeat england in	series one-day match Friday	0	DURATION
+1.0	England batsman Kevin Pietersen	suffer	rib	PERSON	0
+1.0	England batsman Kevin Pietersen	suffer	crack rib	PERSON	0
+1.0	Australia	be in	45.2 over	LOCATION	NUMBER
+1.0	australian	defeat england in	series match	0	0
+1.0	Kevin Pietersen	be batsman of	England	PERSON	LOCATION
+1.0	Kevin Pietersen	be	England	PERSON	LOCATION
+1.0	England batsman Kevin Pietersen	miss	rest	PERSON	0
+1.0	australian	defeat england in	triangular series match	0	0
+1.0	australian	defeat	England	0	LOCATION
+1.0	England batsman Kevin Pietersen	suffer rib during	match	PERSON	0
+1.0	australian	defeat england by	eight wicket	0	NUMBER
+1.0	australian	defeat england in	triangular series match Friday	0	DATE
+1.0	australian	defeat england in	series match Friday	0	DATE
+1.0	australian	defeat england in	triangular series one-day match	0	DURATION
+1.0	australian	defeat england in	triangular series match here Friday	0	DATE
+1.0	australian	defeat england in	triangular series one-day match here Friday	0	DURATION
+1.0	australian	defeat england in	series one-day match	0	DURATION
+1.0	australian	defeat england in	series one-day match here Friday	0	DURATION
+1.0	australian	defeat england in	series match here Friday	0	DATE
+1.0	series	have	rest	O	O

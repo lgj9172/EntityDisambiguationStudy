@@ -1,0 +1,61 @@
+1.0	Mexico City	approve	same-sex union	LOCATION	0
+1.0	Mexico City	approve	union	LOCATION	0
+1.0	same-sex	register as	companion	0	0
+1.0	latin american jurisdiction	approve	civil union	0	0
+1.0	third jurisdiction	approve	union	DATE	0
+1.0	third latin jurisdiction	approve	gay civil union	DATE	0
+1.0	jurisdiction	approve	gay union	0	0
+1.0	Mexico City	approve	same-sex civil union	LOCATION	0
+1.0	latin american jurisdiction	approve	union	0	0
+1.0	President Felipe Calderon	have	National Action Party	ORGANIZATION	PERSON
+1.0	state	become at_time	Friday	0	DATE
+1.0	third american jurisdiction	approve	civil union	DATE	0
+1.0	Buenos Aires	have recognize	they	LOCATION	0
+1.0	american jurisdiction	approve	gay civil union	0	0
+1.0	american jurisdiction	approve	gay union	0	0
+1.0	latin jurisdiction	approve	gay union	0	0
+1.0	discrimination	have	victims	O	O
+1.0	northern mexican state	become at_time	Friday	DATE	DATE
+1.0	third latin jurisdiction	approve	gay union	DATE	0
+1.0	adopting children	have	custody	O	O
+1.0	same-sex	register as	civil companion	0	0
+1.0	third american jurisdiction	approve	union	DATE	0
+1.0	jurisdiction	approve	union	0	0
+1.0	latin jurisdiction	approve	gay civil union	0	0
+1.0	third latin jurisdiction	approve	civil union	DATE	0
+1.0	third jurisdiction	approve	gay union	DATE	0
+1.0	National Action Party	have	Luis Alberto Mendoza	PERSON	ORGANIZATION
+1.0	third american jurisdiction	approve	gay civil union	DATE	0
+1.0	third latin american jurisdiction	approve	union	DATE	0
+1.0	Institutional	have	deputy Julieta Lopez	PERSON	ORGANIZATION
+1.0	third latin jurisdiction	approve	union	DATE	0
+1.0	Coahuila	have	state	O	LOCATION
+1.0	third american jurisdiction	approve	gay union	DATE	0
+1.0	mexican state	become at_time	Friday	0	DATE
+1.0	humiliation	have	victims	O	O
+1.0	latin jurisdiction	approve	civil union	0	0
+1.0	jurisdiction	approve	civil union	0	0
+1.0	latin jurisdiction	approve	union	0	0
+1.0	same-sex	register	heterosexual couple	0	0
+1.0	third latin american jurisdiction	approve	gay union	DATE	0
+1.0	abuse	have	victims	O	O
+1.0	northern state	become at_time	Friday	DATE	DATE
+1.0	same-sex	register	couple	0	0
+1.0	Mexico City	approve union in	November	LOCATION	DATE
+1.0	19 member	vote for	law	NUMBER	0
+1.0	third latin american jurisdiction	approve	gay civil union	DATE	0
+1.0	society	have	natural group	0	0
+1.0	society	have	group	O	O
+1.0	Luis Alberto Mendoza	be of	National Action Party	PERSON	ORGANIZATION
+1.0	Felipe Calderon	of	National Action Party	PERSON	ORGANIZATION
+1.0	third latin american jurisdiction	approve	civil union	DATE	0
+1.0	american jurisdiction	approve	civil union	0	0
+1.0	latin american jurisdiction	approve	gay civil union	0	0
+1.0	Julieta Lopez	be of	institutional Revolutionary Party	PERSON	ORGANIZATION
+1.0	latin american jurisdiction	approve	gay union	0	0
+1.0	third jurisdiction	approve	civil union	DATE	0
+1.0	Mexico City	approve	civil union	LOCATION	0
+1.0	jurisdiction	approve	gay civil union	0	0
+1.0	citizens	have	existence	O	O
+1.0	american jurisdiction	approve	union	0	0
+1.0	third jurisdiction	approve	gay civil union	DATE	0

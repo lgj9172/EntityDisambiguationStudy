@@ -1,0 +1,145 @@
+1.0	United States	express worry before	Saddam 's hanging	LOCATION	PERSON
+1.0	Scott Stanzel	be spokesman of	the White House	PERSON	ORGANIZATION
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	United States	express	worry	LOCATION	0
+1.0	Maliki	in	media office	PERSON	0
+1.0	him	have	control	O	O
+1.0	new row	rattle us role in	Iraq	0	LOCATION
+1.0	it	be	sovereign nation	0	0
+0.633593924617174	he	say to	he interpreter	0	0
+1.0	Caldwell	offer insight into	Saddam 's moment	PERSON	PERSON
+1.0	John Prescott	be on	Tuesday	PERSON	DATE
+1.0	Saddam Hussein	dampen	row	0	0
+1.0	Saddam	before	hanging on December 30	PERSON	DATE
+1.0	Saddam	capture by	nine month later US commando	PERSON	LOCATION
+1.0	Saddam	be	overthrow	PERSON	0
+1.0	government	have	actions	O	O
+1.0	President George W. Bush	hail saddam execution as	important milestone	PERSON	0
+1.0	he death sentence	be	uphold	0	0
+1.0	US embassy	have express	they concern	LOCATION	0
+1.0	US official	raise concern with	iraqi government over execution of Saddam Hussein	LOCATION	PERSON
+1.0	the United States	have	Sunni supporters	O	O
+1.0	their	have	decision	O	O
+1.0	US embassy	express concern to	official	LOCATION	0
+1.0	phone footage	have	leaking	O	O
+1.0	hanging	have	manner	O	O
+1.0	Saddam	have	hanging	O	PERSON
+1.0	foes	have	reference	O	O
+1.0	White House spokesman Scott Stanzel	say major general william caldwell in	Iraq	PERSON	LOCATION
+1.0	White House spokesman Scott Stanzel	say	Major General William Caldwell	PERSON	PERSON
+1.0	US official	raise concern with	iraqi government	LOCATION	0
+1.0	Saddam	be overthrow in	March 2003	PERSON	DATE
+1.0	he	be courteous to	always have he police guard	0	0
+1.0	White House spokesman Scott Stanzel	say	spokesman for us-led coalition	PERSON	0
+1.0	he	be courteous to	have he US military police guard	0	LOCATION
+1.0	ally	be in	war on terror	0	0
+1.0	senior US official	raise concern with	iraqi government over execution of Saddam Hussein	LOCATION	PERSON
+1.0	US embassy	express concern to	iraqi official	LOCATION	0
+1.0	United States	express worry before	Saddam 's hanging on December 30	LOCATION	DATE
+1.0	that	have	charge	O	O
+1.0	british Deputy Prime Minister John Prescott	describe manner as	deplorable	PERSON	0
+0.7142997911981888	he	have to	always have he military police guard	0	0
+1.0	William Caldwell	spokesman for	us-led coalition	PERSON	0
+0.7142997911981888	he	have to	always have he US military police guard	0	LOCATION
+1.0	Iraq	to	government	LOCATION	0
+0.7142997911981888	he	have to	have he military police guard	0	0
+1.0	new row	rattle	US role	0	LOCATION
+1.0	Maliki	have	media office	O	PERSON
+1.0	President George W. Bush	hail saddam execution on	road	PERSON	0
+1.0	Saddam	be	overthrow in March 2003 by us-led invasion	PERSON	DATE
+1.0	US embassy	express	concern	LOCATION	0
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	Saddam Hussein	be	execute so quickly	PERSON	0
+1.0	he	be courteous to	always have he military police guard	0	0
+1.0	the United States	have	death sentence	O	O
+1.0	leader	have	foes	O	O
+1.0	Deputy Prime Minister John Prescott	describe manner as	deplorable	PERSON	0
+1.0	Saddam	be overthrow by	invasion	PERSON	0
+1.0	Saddam Hussein	be	execute	PERSON	0
+1.0	President George W. Bush	hail	Saddam execution	PERSON	PERSON
+0.7142997911981888	he	have to	have he police guard	0	0
+1.0	he	be courteous to	have he military police guard	0	0
+1.0	those	have	behavior	O	O
+1.0	Caldwell	offer	insight	PERSON	0
+1.0	senior US official	raise concern with	government over execution	LOCATION	0
+1.0	Scott Stanzel	be	the White House	PERSON	ORGANIZATION
+1.0	John Prescott	be	british	PERSON	0
+1.0	Saddam	for	release	PERSON	0
+1.0	Prime Minister Nuri al-Maliki 's government	crush	shiite militia	PERSON	0
+1.0	he death sentence	be	on December 26 uphold by appeal chamber	0	DATE
+1.0	US official	raise	concern	LOCATION	0
+1.0	present	have	one	NUMBER	DATE
+1.0	White House spokesman Scott Stanzel	say	spokesman	PERSON	0
+1.0	Saddam	capture by	US commando	PERSON	LOCATION
+1.0	probe	have	part	O	O
+1.0	Saddam	have	release	O	PERSON
+1.0	criticism	have	storm	O	O
+1.0	his	have	police guards	O	O
+1.0	Iraq	have	government	O	LOCATION
+1.0	Saddam	capture by	later US commando	PERSON	LOCATION
+1.0	their	have	responsibility	O	O
+1.0	crimes	have	convicted	O	O
+1.0	his	have	US captors	O	O
+1.0	US official	raise concern with	government	LOCATION	0
+1.0	President George W. Bush	hail saddam execution as	milestone	PERSON	0
+1.0	senior US official	raise concern with	iraqi government	LOCATION	0
+1.0	Saddam Hussein	dampen	new row	0	0
+1.0	he	be courteous to	have he police guard	0	0
+1.0	United States	express worry to	Iraq 's government	LOCATION	LOCATION
+1.0	US official	raise concern with	government over execution	LOCATION	0
+1.0	senior US official	raise concern with	government over execution of Saddam Hussein	LOCATION	PERSON
+1.0	Iraqi authorities	have prior	comment	0	0
+1.0	Saddam	be overthrow by	us-led invasion	PERSON	0
+1.0	Prime Minister Nuri al-Maliki 's government	be	serious	PERSON	0
+1.0	official	say	add	0	0
+1.0	iraqi leader	be put to	death	0	0
+1.0	administration concern	have	sign	O	O
+1.0	he	be courteous to	always have he US military police guard	0	LOCATION
+1.0	he death sentence	be uphold by	appeal chamber	0	0
+1.0	senior US official	raise concern with	iraqi government over execution	LOCATION	0
+1.0	leader	be put to	death	0	0
+1.0	questions	have	barrage	O	O
+1.0	Saddam	be	overthrow in March 2003 by invasion	PERSON	DATE
+1.0	New York Times	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	he death sentence	be uphold on	December 26	0	DATE
+1.0	US official	raise concern with	iraqi government over execution	LOCATION	0
+1.0	he	say farewell to	he interpreter	0	0
+1.0	leader	be	put	0	0
+1.0	his	have	doctor	O	O
+1.0	Caldwell	offer insight into	Saddam 's final moment	PERSON	PERSON
+1.0	Nuri al-Maliki	have	government	PERSON	0
+1.0	Saddam Hussein	be	execute quickly	PERSON	0
+1.0	Maliki	be	disappointed	0	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	Prime Minister Nuri al-Maliki 's government	crush	militia	PERSON	0
+1.0	villagers	have	murder	O	O
+1.0	barrage	post on	internet	0	0
+1.0	Caldwell	offer insight with	he US captor	PERSON	LOCATION
+1.0	Iraqi authorities	have	their concerns	O	O
+1.0	it	be	nation	0	0
+0.7142997911981888	he	have to	always have he police guard	0	0
+1.0	official	be in	Maliki 's media office	0	PERSON
+1.0	iraqi leader	be	put	0	0
+1.0	guards	have	one	NUMBER	O
+1.0	Caldwell	say in	Iraq	PERSON	LOCATION
+1.0	the United States	have	death warrant	O	O
+1.0	row	rattle	US role	0	LOCATION
+1.0	row	rattle us role in	Iraq	0	LOCATION
+1.0	his	have	interpreter	O	O
+1.0	Saddam	of	hanging	PERSON	0
+1.0	Maliki	be disappointed at	behavior	0	0
+1.0	you	be ask	I	0	0
+1.0	he	say	farewell	0	0
+1.0	Saddam	into	final moment	PERSON	0
+1.0	Saddam	have	moments	O	PERSON
+1.0	His	have	characterization	O	O
+1.0	Iraqi authorities	have	comment	0	0
+1.0	Caldwell	offer	new insight	PERSON	0
+1.0	it	be	sovereign	0	0
+1.0	Saddam	have	neck	O	PERSON
+0.633593924617174	White House spokesman Scott Stanzel	say in	Iraq	PERSON	LOCATION
+1.0	senior US official	raise concern with	government	LOCATION	0
+1.0	senior US official	raise	concern	LOCATION	0
+1.0	US official	raise concern with	government over execution of Saddam Hussein	LOCATION	PERSON
+1.0	White House spokesman Scott Stanzel	say	spokesman for coalition	PERSON	0
+0.7142997911981888	he	have to	have he US military police guard	0	LOCATION

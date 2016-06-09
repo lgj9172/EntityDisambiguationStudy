@@ -1,0 +1,42 @@
+1.0	members	have	majority	O	O
+1.0	the first woman	have	third	ORDINAL	O
+1.0	House	have	members	O	ORGANIZATION
+1.0	Nancy Pelosi	be	US	PERSON	LOCATION
+1.0	US Representative Nancy Pelosi	make history at_time	Thursday	LOCATION	DATE
+1.0	US Representative Nancy Pelosi	end	12 year of republican control	PERSON	DURATION
+1.0	223 vote	majority of	435 member	NUMBER	NUMBER
+1.0	US Representative Nancy Pelosi	end	12 year of republican control of lower house of Congress	PERSON	DURATION
+1.0	applause	have	rounds	O	O
+1.0	US Representative Nancy Pelosi	make	history	LOCATION	0
+1.0	position	make	she government history	0	0
+1.0	Nancy Pelosi	be representative of	US	PERSON	LOCATION
+1.0	California Democrat	win with	majority of 435 member of House	LOCATION	ORGANIZATION
+1.0	US Representative Nancy Pelosi	end	12 year	PERSON	DURATION
+1.0	gavel	be in	spirit of partnership	0	0
+1.0	US Representative Nancy Pelosi	have	government history	O	O
+1.0	US Representative Nancy Pelosi	take	speaker 's gavel	PERSON	0
+1.0	people	have	good	O	O
+1.0	US Representative Nancy Pelosi	become	first woman	LOCATION	ORDINAL
+1.0	US Representative Nancy Pelosi	end	12 year of control of house of Congress	PERSON	DURATION
+1.0	California Democrat	win with	majority of 435 member	LOCATION	NUMBER
+1.0	US Representative Nancy Pelosi	end	12 year of control of lower house of Congress	PERSON	DURATION
+1.0	US Representative Nancy Pelosi	become	woman	LOCATION	0
+1.0	US Representative Nancy Pelosi	end	12 year of control of house	PERSON	DURATION
+1.0	house	have	control	O	O
+1.0	House	have	speaker	O	ORGANIZATION
+1.0	succession	have	line	O	O
+1.0	partnership	have	spirit	O	O
+1.0	speaker	have	gavel	0	0
+1.0	US Representative Nancy Pelosi	end	12 year of republican control of house	PERSON	DURATION
+1.0	US Representative Nancy Pelosi	end	12 year of republican control of lower house	PERSON	DURATION
+1.0	control	have	years	DURATION	O
+1.0	cheers	have	rounds	O	O
+1.0	Congress	have	house	O	ORGANIZATION
+1.0	California Democrat	win with	majority	LOCATION	0
+1.0	US Representative Nancy Pelosi	end	12 year of control	PERSON	DURATION
+1.0	speaker	have	gavel	O	O
+1.0	US Representative Nancy Pelosi	end	12 year of republican control of house of Congress	PERSON	DURATION
+1.0	US Representative Nancy Pelosi	end	12 year of control of lower house	PERSON	DURATION
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	California Democrat	win with	223 vote	LOCATION	NUMBER
+1.0	highest-ranking woman	be in	US	0	LOCATION

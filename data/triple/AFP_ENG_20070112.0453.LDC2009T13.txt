@@ -1,0 +1,18 @@
+1.0	the president 's	prepare way for	war	0	0
+1.0	the president 's	prepare way for	war with	0	0
+0.06141471494456796	The White House on Friday	call	rumor	0	0
+1.0	it	come from	language	0	0
+1.0	it	talk about	Iran	0	LOCATION
+1.0	spokesman Tony Snow	tell	reporter	PERSON	0
+1.0	spokesman Tony Snow	tell reporter at	he daily briefing	PERSON	SET
+1.0	rumor	have	kind	O	O
+1.0	spokesman Tony Snow	tell reporter in	prepared statement	PERSON	0
+1.0	spokesman Tony Snow	tell reporter at	he briefing	PERSON	0
+1.0	president	have	Wednesday night address	O	O
+1.0	spokesman Tony Snow	tell reporter in	statement	PERSON	0
+1.0	the president 's	prepare	way	0	0
+1.0	it	come from	language in president 's Wednesday night address	0	TIME
+1.0	president	in	Wednesday night address	0	TIME
+1.0	spokesman Tony Snow	have	briefing	O	O
+1.0	White House	be on	Friday	ORGANIZATION	DATE
+1.0	language	be in	president 's Wednesday night address	0	TIME

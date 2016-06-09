@@ -1,0 +1,117 @@
+1.0	US deployment	have	details	O	O
+1.0	country	have	takeover	O	O
+1.0	court movement	defeat	us-backed warlord alliance	0	0
+1.0	Somalia	have	much	O	LOCATION
+1.0	israeli hotel	be in	kenyan port city of Mombasa	0	LOCATION
+1.0	Meles Zenawi	be with	ethiopian	PERSON	0
+1.0	Yemen	be one of	arab state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	Al-Qaeda agent	include movement be	islamic court movement Union	MISC	ORGANIZATION
+1.0	the US embassies	have	bombings	O	O
+1.0	African Union	be	Arab League	MISC	ORGANIZATION
+1.0	United States	also warn	its citizen	LOCATION	0
+1.0	court movement	defeat	warlord alliance	0	0
+0.6050772204274711	Islamists	enter	country	MISC	0
+1.0	Yemen	be one	state accuse	LOCATION	0
+1.0	islamic court movement	gain	control of much of Somalia	0	LOCATION
+1.0	islamic court movement	defeat	us-backed warlord alliance	0	0
+1.0	us-backed warlord alliance	impose	Sharia law	0	0
+1.0	State Department spokesman Sean McCormack	tell	reporter	0	0
+1.0	Yemen	be one of	arab state	LOCATION	0
+1.0	Yemen	be one of	several state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	US embassies	have	bombings	O	O
+1.0	Somalia	be in	bid capture	LOCATION	0
+1.0	Kismayo	have	port town	O	LOCATION
+1.0	Yemen	be one	arab state accuse	LOCATION	0
+1.0	Somali Islamists	be	defeat	MISC	0
+1.0	The United States	announce later	emergency food aid package	LOCATION	0
+1.0	Mombasa	have	city	O	LOCATION
+1.0	takeover	have	fears	O	O
+1.0	UN	be	EU	ORGANIZATION	ORGANIZATION
+1.0	troops	have	offer	O	O
+1.0	State Department	have	Africa official	O	ORGANIZATION
+1.0	Yemen	be one	several arab state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	The United States	announce emergency food aid package at_time	Wednesday	LOCATION	DATE
+1.0	State Department 's top Africa official	secretary of	Jendayi Frazer	ORGANIZATION	PERSON
+1.0	Yemen	be one of	several arab state accuse	LOCATION	0
+1.0	Kenya	close	its border	0	0
+1.0	warlord alliance	rapidly expand	they territory	0	0
+1.0	Somali Islamists	be defeat by	ethiopian-backed government force	MISC	0
+1.0	arm	fund to	Somalia Islamists	0	MISC
+1.0	warlord alliance	impose	strict Sharia law	0	0
+1.0	State Department	have	top Africa official	ORGANIZATION	LOCATION
+1.0	Somalia	have	seas	O	LOCATION
+1.0	State Department	's official be	Assistant Secretary of State Jendayi Frazer	ORGANIZATION	ORGANIZATION
+1.0	contact group	include	UN	0	ORGANIZATION
+1.0	terrorist organizations including Al - Qaeda	be force	flee	0	0
+1.0	Sean McCormack	be spokesman of	The State Department 's	PERSON	ORGANIZATION
+1.0	islamic court movement	gain	control	0	0
+1.0	Somalia 's Western-backed government	capture	Islamic Court leader	0	0
+1.0	US and Somali officials	have	territory	O	O
+1.0	states	have	one	NUMBER	O
+1.0	US embassy	be in	Nairobi	LOCATION	LOCATION
+1.0	Somalia	have	Horn	PERSON	LOCATION
+1.0	Courts movement	have	leaders	O	ORGANIZATION
+1.0	warlord alliance	expand	they territory	0	0
+1.0	Yemen	be one	several arab state	LOCATION	0
+1.0	us-backed warlord alliance	impose	strict Sharia law	0	0
+1.0	Yoweri Museveni	be	Ugandan	PERSON	MISC
+1.0	islamic court movement	defeat warlord alliance in	Mogadish in June	0	DATE
+0.6050772204274711	the Somali Islamists	enter	country	MISC	0
+1.0	Yemen	be one	state	LOCATION	0
+1.0	islamic court movement	defeat	warlord alliance	0	0
+1.0	Yemen	be one	several state accuse	LOCATION	0
+1.0	Yemen	be one of	several arab state	LOCATION	0
+1.0	much	have	control	O	O
+1.0	Yemen	be one of	several arab state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	court movement	defeat warlord alliance in	Mogadish in June	0	DATE
+1.0	Yemen	be one of	several state	LOCATION	0
+1.0	islamic court movement	defeat warlord alliance in	Mogadish	0	LOCATION
+1.0	Africa neighbors	have	Horn	PERSON	O
+1.0	State Jendayi Frazer	have	Assistant Secretary	O	PERSON
+1.0	islamic court movement	gain	control of much	0	0
+1.0	Yemen	be one	several state	LOCATION	0
+1.0	Somali Islamists	be defeat by	government force	MISC	0
+1.0	US official	say at_time	Wednesday	LOCATION	DATE
+1.0	reprisals	have	Wednesday	DATE	O
+1.0	The United States	announce	emergency food aid package	LOCATION	0
+1.0	us-backed warlord alliance	expand	they territory	0	0
+1.0	court movement	gain	control	0	0
+1.0	Somalia	have	government	O	LOCATION
+1.0	Kenya	have	citizens	O	O
+1.0	Yemen	be one	arab state	LOCATION	0
+1.0	The United States	announce later	emergency food aid package for Somalia	LOCATION	LOCATION
+1.0	us-backed warlord alliance	rapidly expand	they territory	0	0
+1.0	Yemen	be one	several arab state accuse	LOCATION	0
+1.0	Somalia	with	Horn	LOCATION	PERSON
+1.0	court movement	defeat warlord alliance in	Mogadish	0	LOCATION
+1.0	court movement	gain	control of much	0	0
+1.0	lightning offensive	have	face	O	O
+1.0	Yemen	be one of	state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	terrorist organizations including Al - Qaeda	have	stronghold	O	O
+1.0	Mogadish	be in	June	LOCATION	DATE
+1.0	states	have	grouping	O	O
+1.0	Yemen	be one of	several state accuse	LOCATION	0
+1.0	other country	be in	region	0	0
+1.0	warlord alliance	impose	Sharia law	0	0
+1.0	courts	have	leaders	O	O
+1.0	Jendayi Frazer	be of	The State Department 's	PERSON	ORGANIZATION
+1.0	The United States	be	expect	LOCATION	0
+1.0	Kenya	be on	Wednesday	LOCATION	DATE
+1.0	Yemen	be one of	state	LOCATION	0
+1.0	Somali Contact Group Friday	have	meeting	O	DATE
+1.0	Yemen	be one of	state accuse	LOCATION	0
+1.0	Yemen	be one	state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	Yemen	be one of	arab state accuse	LOCATION	0
+1.0	The United States	be	also expect	LOCATION	0
+1.0	Kenya	have	border	O	O
+1.0	Somalia	have	western-backed government	LOCATION	0
+1.0	terrorist organizations including Al - Qaeda	have	bastion	O	O
+1.0	Sean McCormack	be	The State Department 's	PERSON	ORGANIZATION
+1.0	terrorist organizations including Al - Qaeda	be	force	0	0
+1.0	United States	warn	its citizen	LOCATION	0
+1.0	The United States	announce	emergency food aid package for Somalia	LOCATION	LOCATION
+1.0	Yemen	be one	arab state accuse by United Nations	LOCATION	ORGANIZATION
+1.0	talk	be with	Meles Zenawi	0	PERSON
+1.0	The United States	announce emergency food aid package later at_time	Wednesday	LOCATION	DATE
+1.0	court movement	gain	control of much of Somalia	0	LOCATION
+1.0	Yemen	be one	several state accuse by United Nations	LOCATION	ORGANIZATION

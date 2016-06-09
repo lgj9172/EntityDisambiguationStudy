@@ -1,0 +1,107 @@
+1.0	US currency	change	hand	LOCATION	0
+1.0	US currency	change hand up at	119.68 yen in Tokyo afternoon trade	LOCATION	MONEY
+1.0	inflation	have	forecast	O	O
+1.0	dollar	be firmer against	asian currency	0	0
+1.0	Fed official	have	forecast	O	O
+1.0	euro	be in	focus of Thursday 's interest rate decision	0	DATE
+1.0	Bank	raise	interest rate	ORGANIZATION	0
+1.0	Bank	raise interest rate to	0.25 percent	ORGANIZATION	PERCENT
+1.0	dollar	be also firmer against	asian currency	0	0
+1.0	dollar	rise to	9,068 rupiah from 9,067 Wednesday	0	DATE
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	the Bank of Japan 's monetary policy meeting	end	its unorthodox policy	0	0
+1.0	euro	be in	also focus by Central Bank	0	ORGANIZATION
+1.0	US currency	change hand at	119.68 yen	LOCATION	MONEY
+1.0	Seiichi Kanazawa , a dealer at Resona Bank	dealer at	Resona Bank	PERSON	ORGANIZATION
+1.0	yen	be in	asian trade	0	0
+1.0	euro	be in	also focus of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	Commerce Department	report at_time	late Wednesday	ORGANIZATION	DATE
+1.0	dollar	rise to	9,068 indonesian rupiah Wednesday	0	DATE
+1.0	the Bank of Japan 's monetary policy meeting	end	its five-year policy	0	DURATION
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision	0	DATE
+1.0	dollar	rise to	9,068 rupiah from 9,067	0	NUMBER
+0.42544942084531656	bid	stimulate	economy	0	0
+1.0	Michael Moskow	say in	prepared remark	PERSON	0
+1.0	the Bank of Japan 's monetary policy meeting	end	its policy	0	0
+1.0	euro	be in	focus ahead by european Central Bank	0	ORGANIZATION
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	US unit	increase to	48.99 peso	LOCATION	NUMBER
+1.0	policy meeting	have	Bank	ORGANIZATION	O
+1.0	interest rate decision	have	focus	O	O
+1.0	euro	be in	also focus ahead	0	0
+1.0	euro	be in	focus by european Central Bank	0	ORGANIZATION
+1.0	it	be	widely expect	0	0
+1.0	euro	be in	also focus of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	dollar	rise to	9,068 indonesian rupiah from 9,067 Wednesday	0	DATE
+1.0	improvement	be in	US trade deficit to its lowest level since July 2005	0	LOCATION
+1.0	Fed official	have	forecast of slow inflation	ORGANIZATION	0
+1.0	Chicago	have	Federal Reserve Bank	ORGANIZATION	ORGANIZATION
+1.0	inflation	be see	slow	0	0
+1.0	possible rate	hike	here	0	0
+1.0	market player	be in	Tokyo	0	LOCATION
+1.0	dollar	rise to	9,068 rupiah	0	NUMBER
+1.0	euro	be in	also focus ahead by european Central Bank	0	ORGANIZATION
+1.0	euro	be in	focus by Central Bank	0	ORGANIZATION
+1.0	fall	be in	US trade deficit	DATE	LOCATION
+1.0	US unit	increase to	48.99 peso from 48.84	LOCATION	NUMBER
+1.0	dollar	rise to	1.5390 Singapore dollar from 1.5376	0	MONEY
+1.0	dollar	rise to	1.5390 Singapore dollar	0	MONEY
+1.0	0.25 percent	be in	July 2005	PERCENT	DATE
+1.0	it	be	expect	0	0
+1.0	market	be	brace	0	0
+1.0	euro	be in	focus ahead by Central Bank	0	ORGANIZATION
+1.0	euro	be in	focus	0	0
+1.0	Thursday	of	interest rate decision	DATE	0
+1.0	Japan	have	policy meeting	O	ORGANIZATION
+1.0	US currency	change up	hand	LOCATION	0
+1.0	euro	gain to	155.05 yen from 154.80	0	NUMBER
+1.0	euro	be in	focus of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	euro	be in	also focus ahead by Central Bank	0	ORGANIZATION
+1.0	dollar	rise at_time	afternoon	0	TIME
+1.0	euro	rise to	1.2960 dollar	0	MONEY
+1.0	Federal Reserve Bank	have	President	O	ORGANIZATION
+1.0	the Bank of Japan 's monetary policy meeting	end	its unorthodox five-year policy	0	DURATION
+1.0	euro	be in	also focus of Thursday 's interest rate decision	0	DATE
+1.0	Bank	have	remain	O	ORGANIZATION
+1.0	US currency	change hand at	119.68 yen in Tokyo afternoon trade	LOCATION	MONEY
+1.0	inflation	be	see	0	0
+1.0	it	keep	rate	0	0
+1.0	dollar	be firmer against	most asian currency	0	0
+1.0	US unit	increase to	48.99 philippine peso	LOCATION	NUMBER
+1.0	euro	rise after	1.2935	0	NUMBER
+1.0	remarks	have	series	O	O
+1.0	ECB	be	tip	ORGANIZATION	0
+1.0	dollar	be also firmer against	most asian currency	0	0
+1.0	here	have	levels	O	O
+1.0	dollar	rise to	9,068 indonesian rupiah	0	NUMBER
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	119.59 yen	be in	New York	MONEY	LOCATION
+1.0	US unit	slip to	36.00 Thai baht	LOCATION	NUMBER
+1.0	euro	gain to	155.05 yen	0	MONEY
+1.0	euro	be in	focus of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	US unit	slip from	36.03	LOCATION	NUMBER
+1.0	US unit	increase from	32.74	LOCATION	NUMBER
+1.0	the Bank of Japan 's monetary policy meeting	have	policy	O	O
+1.0	euro	be in	focus ahead	0	0
+1.0	ECB	be tip by	many	ORGANIZATION	0
+1.0	58.2 billion dollar	be in	November	MONEY	DATE
+1.0	inflation	slow in	2007	0	DATE
+1.0	Michael Moskow	say in	remark	PERSON	0
+1.0	dollar	rise to	9,068 indonesian rupiah from 9,067	0	NUMBER
+1.0	US unit	increase to	48.99 philippine peso from 48.84	LOCATION	NUMBER
+1.0	US currency	change hand up at	119.68 yen	LOCATION	MONEY
+1.0	Michael Moskow	president of	Federal Reserve Bank of Chicago	PERSON	ORGANIZATION
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	the US trade deficit	have	level	O	O
+1.0	Bank	raise interest rate to	0.25 percent in July	ORGANIZATION	PERCENT
+1.0	euro	be in	also focus by european Central Bank	0	ORGANIZATION
+1.0	it	keep	rate unchanged	0	0
+1.0	dollar	rise to	9,068 rupiah Wednesday	0	DATE
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision	0	DATE
+1.0	inflation	be see	slow in 2007	0	DATE
+1.0	119.68 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+1.0	risks	have	warned	O	O
+1.0	euro	be in	also focus	0	0
+1.0	Thursday	have	interest rate decision	O	DATE
+1.0	Bank of Japan	of	monetary policy meeting	ORGANIZATION	0

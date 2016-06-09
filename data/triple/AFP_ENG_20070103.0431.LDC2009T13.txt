@@ -1,0 +1,41 @@
+1.0	Razuri 50	be kidnap at	entrance of afp office	PERSON	0
+1.0	Peru	have	Gonzalo Garcia	LOCATION	PERSON
+1.0	Gonzalo Garcia	be deputy foreign minister of	Peru	PERSON	LOCATION
+1.0	whereabouts	have	word	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	have	office	O	PERSON
+1.0	Jaime Razuri	be kidnap at	entrance	PERSON	0
+1.0	Jaime Razuri	be kidnap at	entrance of afp office	PERSON	0
+1.0	Jaime Razuri	be	kidnap	PERSON	0
+1.0	Jaime Razuri	be return from	assignment	0	0
+1.0	AFP photographer Jaime Razuri	have	liberation	O	PERSON
+1.0	Jaime Razuri	be	50	PERSON	NUMBER
+1.0	Razuri 50	be	kidnap at gunpoint at entrance	PERSON	0
+1.0	Razuri 50	be kidnap at	entrance	PERSON	0
+1.0	Jaime Razuri	be kidnap at	entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	Jaime Razuri	be	kidnap at gunpoint at entrance	PERSON	0
+1.0	Jaime Razuri	be	kidnap at gunpoint at entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	have	office	PERSON	0
+1.0	Jaime Razuri	be return from	assignment with translator	0	0
+1.0	Razuri 50	be kidnap at	gunpoint	PERSON	0
+1.0	Razuri 50	be	kidnap at gunpoint at entrance of afp office	PERSON	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	seek	liberation	LOCATION	0
+1.0	Jaime Razuri	be of	afp	PERSON	0
+1.0	assignment	be with	translator	0	0
+1.0	Jaime Razuri	be kidnap at	gunpoint	PERSON	0
+1.0	Jaime Razuri	be	kidnap at gunpoint at entrance of afp office	PERSON	0
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	Razuri 50	be	kidnap	PERSON	0
+1.0	Razuri 50	be kidnap at	entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	Peru	have	Deputy Foreign Minister Gonzalo Garcia	PERSON	LOCATION
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	have	office	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel to	Gaza Strip later	LOCATION	DATE
+1.0	afp office	be in	Gaza City	0	LOCATION
+1.0	journalist	have	release	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel at_time	Wednesday	LOCATION	DATE
+1.0	Jaime Razuri	have	whereabouts	O	O
+1.0	Razuri 50	be	kidnap at gunpoint at entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	AFP offices	have	entrance	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel to	Gaza Strip	LOCATION	LOCATION
+1.0	Jaime Razuri	have	kidnappers	O	O
+1.0	kidnappers	have	motives	O	O
+1.0	identity	have	word	O	O

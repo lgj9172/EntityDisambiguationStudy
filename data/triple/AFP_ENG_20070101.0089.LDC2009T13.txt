@@ -1,0 +1,94 @@
+0.4856673263555367	Vatican diplomatic corps	attend	mass	LOCATION	0
+1.0	wide-ranging message	condemn	attitude	0	0
+1.0	peoples '	have	reduction	O	O
+1.0	message	also condemn	religion transform	0	0
+1.0	Saint Peter	have	Basilica	O	PERSON
+1.0	wide-ranging message	also condemn	religion	0	0
+1.0	message	condemn	disrespectful attitude	0	0
+1.0	wide-ranging message	condemn	religion transform	0	0
+1.0	The 79-year-old pontiff	urge	Vatican diplomatic corps	0	LOCATION
+0.06141471494456796	Pope Benedict XVI	call	transformation of religion into ideology	0	0
+1.0	Pope Benedict XVI	call during	he new year 's day mass	PERSON	DATE
+1.0	sexes	have	inequality	O	O
+1.0	wide-ranging message	also condemn	disrespectful attitude	0	0
+1.0	Pope Benedict XVI	call for	peace accord	PERSON	0
+1.0	peace accord	rest on	respect	0	0
+1.0	Year	have	Day mass	O	DATE
+1.0	war	be in	name of God	0	0
+1.0	Pope Benedict XVI	call during	he year 's day mass	PERSON	DATE
+1.0	Pope Benedict XVI	mark at_time	World Peace Day	0	DURATION
+1.0	wide-ranging message	condemn	attitude towards environment	0	0
+1.0	message	condemn	attitude towards environment	0	0
+1.0	message	also condemn	religion	0	0
+1.0	violence	have	situations	O	O
+1.0	wide-ranging message	condemn	violation	0	0
+0.06141471494456796	Pope Benedict XVI	call	transformation of religion	0	0
+1.0	religious freedom	of violation be	disrespectful attitude towards environment	0	0
+1.0	Peter	at	basilica	PERSON	0
+1.0	wide-ranging message	also condemn	attitude towards environment	0	0
+1.0	violation	inequality of	sex	0	0
+1.0	message	also condemn	violation	0	0
+1.0	injustice	have	situations	O	O
+1.0	Pope Benedict XVI	send	message	PERSON	0
+0.7914358456319804	Pope Benedict XVI	transformation of	religion	0	0
+1.0	message	also condemn	religion transform into ideology	0	0
+1.0	weapons	have	non-proliferation	O	O
+0.06141471494456796	Pope Benedict XVI	call	transformation	0	0
+1.0	message	condemn	religion	0	0
+1.0	wide-ranging message	condemn	religion transform into ideology	0	0
+1.0	message	also condemn	disrespectful attitude	0	0
+1.0	message	condemn	violation	0	0
+1.0	God	have	name	O	O
+1.0	Pope Benedict XVI	call at_time	Monday	PERSON	DATE
+1.0	wide-ranging message	also condemn	violation	0	0
+1.0	world	have	parts	O	O
+1.0	Pope Benedict XVI	refer to	scene	0	0
+1.0	Pope Benedict XVI	call during	he year 's day mass at Saint Peter 's basilica	PERSON	DATE
+1.0	Pope Benedict XVI	refer to	scene of shepherd ask	0	0
+1.0	peoples	have	serenity	O	O
+1.0	message	also condemn	disrespectful attitude towards environment	0	0
+1.0	shepherds	have	scene	O	O
+1.0	Pope Benedict XVI	refer to	scene of shepherd	0	0
+1.0	opinion	have	much	O	O
+1.0	religion	have	transformation	O	O
+1.0	wide-ranging message	condemn	disrespectful attitude towards environment	0	0
+1.0	Pope Benedict XVI	call in	Middle East embroil	PERSON	LOCATION
+1.0	Pope Benedict XVI	refer to	scene of shepherd of Bethlehem	0	LOCATION
+1.0	terrorism	have	danger	O	O
+1.0	weapons	have	spread	O	O
+1.0	message	condemn	attitude	0	0
+1.0	peace accord	rest on	respect for dignity	0	0
+1.0	wide-ranging message	also condemn	religion transform into ideology	0	0
+1.0	violation	attitude towards	environment	0	0
+1.0	wide-ranging message	also condemn	disrespectful attitude towards environment	0	0
+1.0	message	condemn	religion transform	0	0
+1.0	Jesus in the manger	be	where bear	PERSON	0
+1.0	Pope Benedict XVI	refer to	scene ask	0	0
+1.0	threats	have	face	O	O
+1.0	wide-ranging message	condemn	disrespectful attitude	0	0
+1.0	situations	have	face	O	O
+1.0	Pope Benedict XVI	send message on	December 12	PERSON	DATE
+1.0	Jesus in the manger	be	bear	PERSON	0
+1.0	message	condemn	religion transform into ideology	0	0
+0.7914358456319804	Pope Benedict XVI	transformation of	religion into ideology	0	0
+1.0	message	also condemn	attitude towards environment	0	0
+1.0	peace	have	future	DATE	O
+1.0	message	condemn	disrespectful attitude towards environment	0	0
+1.0	wide-ranging message	also condemn	religion transform	0	0
+1.0	Jesus in the manger	be in	manger	PERSON	0
+1.0	person	have	rights	O	O
+1.0	World Peace Day	have	sent	O	DURATION
+1.0	Pope Benedict XVI	refer to	scene of shepherd of Bethlehem ask	0	LOCATION
+1.0	Pope Benedict XVI	call during	he new year 's day mass at Saint Peter 's basilica	PERSON	DATE
+0.4856673263555367	Vatican corps	attend	mass	LOCATION	0
+1.0	The 79-year-old pontiff	urge	Vatican corps	0	LOCATION
+1.0	religious freedom	of violation be	religion transform into ideology	0	0
+1.0	peace	have	day	DATE	O
+1.0	Pope Benedict XVI	call in	Middle East	PERSON	LOCATION
+0.9088960272389057	religion	transform into	ideology	0	0
+1.0	freedoms	have	violations	O	O
+1.0	Pope Benedict XVI	have	Year	DATE	O
+1.0	Bethlehem	have	shepherds	O	LOCATION
+1.0	wide-ranging message	condemn	religion	0	0
+1.0	message	also condemn	attitude	0	0
+1.0	wide-ranging message	also condemn	attitude	0	0

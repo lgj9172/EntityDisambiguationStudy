@@ -1,0 +1,101 @@
+1.0	embattled US president	number in	cellar	LOCATION	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	be	US Secretary	PERSON	LOCATION
+1.0	National Security Agency	have	head	O	ORGANIZATION
+1.0	US Central Command	have	head	O	ORGANIZATION
+1.0	William Fallon	head of	US force in Pacific	PERSON	LOCATION
+1.0	John Abizaid	be	55	PERSON	NUMBER
+1.0	Hussein Iraq	be to	post-saddam	LOCATION	0
+1.0	Maliki	have	government	O	PERSON
+1.0	consultation	be with	key world leader	0	0
+0.16370106347828794	admiral William Fallon	would replace	retire	PERSON	0
+0.9629609649487528	post	vacant since at_time	July 2006	0	DATE
+1.0	current US ambassador	be in	Pakistan	LOCATION	LOCATION
+1.0	Mike	will report to	I	PERSON	0
+1.0	Donald Rumsfeld	be after	democrat	PERSON	0
+1.0	world	be with	one voice	0	NUMBER
+1.0	US forces	have	head	O	O
+1.0	their	have	responsibilities	O	O
+1.0	his	have	Iraq approach	O	O
+1.0	US President George W. Bush	name	new spy chief	LOCATION	0
+1.0	former ambassador	have	responsibility help	0	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	put	touch	0	0
+1.0	coalition forces	have	charge	O	O
+1.0	State Department	have	one	NUMBER	ORGANIZATION
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	US president	have	aides	O	O
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	nominate	director of national intelligence John Negroponte	PERSON	PERSON
+1.0	unpopular war	be in	Iraq	0	LOCATION
+1.0	diplomat John Bolton	have	departure	O	PERSON
+1.0	US President George W. Bush	fill	critical vacancy	LOCATION	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	have leave	untouched	PERSON	0
+1.0	US President George W. Bush	name	spy chief	LOCATION	0
+0.9629609649487528	key post	vacant since at_time	July 2006	0	DATE
+1.0	deputy	have	US Secretary	O	O
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	Bush	change	head	PERSON	0
+1.0	his	have	core	O	O
+1.0	America	speak to	world with one voice	LOCATION	NUMBER
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	his	have	job approval numbers	O	O
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	America	speak to	world	LOCATION	0
+1.0	intelligence John Negroponte	have	director	O	PERSON
+1.0	Post	report	cite	ORGANIZATION	0
+1.0	things	have	one	NUMBER	O
+1.0	Mike	dump	defense secretary Donald Rumsfeld	0	PERSON
+1.0	his	have	Iraq overhaul	O	O
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	nominate	director	PERSON	0
+1.0	John Abizaid	be at	Central command	PERSON	ORGANIZATION
+1.0	Lieutenant General David Petraeus	would replace	General George Casey	PERSON	PERSON
+1.0	America	have	intelligence community	O	LOCATION
+1.0	Bush	be	Negroponte	PERSON	PERSON
+1.0	Bush	change	head of US Central command	PERSON	LOCATION
+1.0	ambassador	have	responsibility	O	O
+1.0	Khalilzad	be in	Baghdad	PERSON	LOCATION
+1.0	Lieutenant General David Petraeus	would replace	General George Casey as man	PERSON	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	their	have	Senate confirmation	O	O
+1.0	official	familiar with	debate	0	0
+1.0	US President George W. Bush	fill	diplomatic vacancy	LOCATION	0
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+0.9629609649487528	post	vacant at_time	July 2006	0	DATE
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	put	last touch	0	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	nominate director in	brief White House ceremony	PERSON	ORGANIZATION
+1.0	US president	have	top aide	LOCATION	0
+1.0	US force	be in	Pacific	LOCATION	LOCATION
+1.0	his	have	plans	O	O
+1.0	top US military commander	be in	Iraq	LOCATION	LOCATION
+1.0	Bush	be on	side	PERSON	0
+1.0	US President George W. Bush	fill	critical diplomatic vacancy	LOCATION	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	be	US Secretary of State Condoleezza Rice 's deputy	PERSON	PERSON
+1.0	Bush	reveal	he plan	PERSON	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	stress	former ambassador 's responsibility help	PERSON	0
+1.0	Bush	be on	military side	PERSON	0
+1.0	US	have	charge	O	LOCATION
+1.0	US President George W. Bush	fill	vacancy	LOCATION	0
+1.0	US Congress	be in	November election	ORGANIZATION	DATE
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	nominate	director of intelligence John Negroponte	PERSON	PERSON
+1.0	reshuffle	come at_time	day	0	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	say in	message	PERSON	0
+1.0	Post	cite	official familiar	ORGANIZATION	0
+0.9629609649487528	key post	vacant at_time	July 2006	0	DATE
+1.0	Pakistan	be since	November 2004	LOCATION	DATE
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	nominate director in	White House ceremony	PERSON	ORGANIZATION
+1.0	Ryan Crocker	be	57	PERSON	NUMBER
+1.0	Condoleezza Rice	be 's	State Department 's	PERSON	ORGANIZATION
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	stress	former ambassador 's responsibility	PERSON	0
+1.0	Post	cite	official familiar with debate	ORGANIZATION	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Mike	will report directly to	I	PERSON	0
+1.0	Negroponte -- the first US ambassador to post-Saddam Hussein Iraq -- Bush was to nominate the current US ambassador there	say in	message aim	PERSON	0
+1.0	Lieutenant General David Petraeus	would replace general george casey in	Iraq	PERSON	LOCATION
+1.0	he job approval number	be in	cellar	0	0
+1.0	Maliki	have	government	PERSON	0
+1.0	Ryan Crocker	ambassador in	Pakistan	PERSON	LOCATION
+1.0	US spy agencies	have	head	O	O
+1.0	media reports	have	wave	O	O
+1.0	Dick Cheney	be	Rice	PERSON	PERSON
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	Maliki	have	reliability	O	PERSON
+1.0	Mike	dump	defense secretary Donald Rumsfeld after opposition democrat	0	PERSON
+1.0	Maliki	over	reliability	PERSON	0

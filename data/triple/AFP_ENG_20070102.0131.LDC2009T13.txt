@@ -1,0 +1,45 @@
+1.0	warplane	drop bomb at_time	week	0	DATE
+1.0	warplane	drop	bomb	0	0
+1.0	plane	land in	Mogadishu after last week 's closure	0	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after last week 's closure of country 's airspace	PERSON	LOCATION
+1.0	ethiopian warplane	drop bomb at_time	last week	0	DATE
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu of country 's airspace	PERSON	LOCATION
+1.0	warplane	drop bomb at_time	last week	0	DATE
+1.0	their	have	stronghold	O	O
+1.0	plane	will	will allow	0	0
+1.0	airport	be in	Mogadishu	0	LOCATION
+1.0	planes	have	kinds	O	O
+1.0	ethiopian warplane	drop	bomb	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after closure of country 's airspace	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of country 's airspace	PERSON	0
+1.0	warplane	drop bomb on	Mogadishu 's airport	0	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after last week 's closure	PERSON	LOCATION
+1.0	efforts	have	part	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after week 's closure of country 's airspace	PERSON	LOCATION
+1.0	country	of	airspace	0	0
+1.0	rule	ask from	government	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic of country 's airspace	PERSON	0
+1.0	Mogadishu	have	airport	O	LOCATION
+1.0	plane	will	from tomorrow will allow	0	DATE
+1.0	ethiopian warplane	drop bomb on	Mogadishu 's airport	0	LOCATION
+1.0	airspace	have	resumption	O	O
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport	PERSON	0
+1.0	Mogadishu	on	international airport	LOCATION	0
+1.0	Kismayo	have	port town	O	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after week 's closure	PERSON	LOCATION
+1.0	rule	ask for	authorisation	0	0
+1.0	country	have	airspace	O	O
+1.0	rule	clearly ask for	authorisation	0	0
+1.0	rule	clearly ask from	government	0	0
+1.0	air traffic	have	resumption	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce resumption at_time	Tuesday	PERSON	DATE
+1.0	ethiopian warplane	drop bomb at_time	week	0	DATE
+1.0	capital	have	airport north	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport of country 's airspace	PERSON	0
+1.0	ethiopian warplane	drop bomb on	Mogadishu 's international airport	0	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after closure	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption	PERSON	0
+1.0	warplane	drop bomb on	Mogadishu 's international airport	0	LOCATION

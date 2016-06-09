@@ -1,0 +1,176 @@
+1.0	basque newspaper Gara	say in	full version of its statement	PERSON	0
+1.0	ETA 's decision	depend on	behavior of government	ORGANIZATION	0
+1.0	bombing	be	deadly attack by ETA since May 2003	0	DATE
+0.08453415743209902	ETA	admit on	December 30	ORGANIZATION	DATE
+1.0	bombing	be	first attack	0	ORDINAL
+1.0	ETA	be on	Tuesday	ORGANIZATION	DATE
+1.0	obstacle	process	cause	0	0
+1.0	bomb attack	destroy	hope of peace talk	0	0
+1.0	ETA	have	arm Batasuna	O	O
+1.0	newspaper Gara	say in	version of its statement	PERSON	0
+1.0	basque newspaper Gara	say in	version	PERSON	0
+1.0	newspaper Gara	say in	full version of its statement publish Wednesday	PERSON	DATE
+1.0	political wing Batasuna	be surprise by	attack	ORGANIZATION	0
+1.0	basque newspaper Gara	say in	version of its statement	PERSON	0
+1.0	bombing	be	attack	0	0
+1.0	819 people	stretch to	1968	NUMBER	DATE
+1.0	Spain	be rule by	dictator Francisco Franco	LOCATION	PERSON
+1.0	Spain	be	when still rule by dictator Francisco Franco	LOCATION	PERSON
+0.09510152750802991	spanish government	continue in	basque region	0	0
+1.0	basque newspaper Gara	say in	full version of its statement publish Wednesday	PERSON	DATE
+1.0	basque newspaper Gara	say in	full version of its statement publish Wednesday by pro- independence	PERSON	DATE
+1.0	political wing Batasuna	be	even surprise	ORGANIZATION	0
+1.0	ETA	even deceive	its own political arm	ORGANIZATION	0
+1.0	Armed basque separatist group	have warn of	attack	0	0
+0.08453415743209902	ETA	admit for	bomb attack at carpark at Barajas airport	ORGANIZATION	LOCATION
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	reference	0	0
+1.0	ETA	avoid	casualty	0	0
+1.0	statement	have	version	O	O
+1.0	bombing	be attack since	May 2003	0	DATE
+0.36639307510779784	ETA 's decision	behavior	reaction	ORGANIZATION	0
+1.0	basque newspaper Gara	say in	full version of its statement publish	PERSON	0
+1.0	ETA	give	ample warning	0	0
+0.6928527758318491	ETA	ample warning of	carpark attack	0	0
+1.0	bombing	be	first deadly attack	0	ORDINAL
+1.0	device	have	location	O	O
+1.0	leader	be under	investigation	0	0
+1.0	bombing	be	deadly attack	0	0
+1.0	bombing	be first attack by	ETA	0	ORGANIZATION
+1.0	Spain	be	rule	LOCATION	0
+1.0	government	continue	its crackdown	0	0
+1.0	Jose Luis Rodriguez Zapatero	be	spanish	PERSON	0
+1.0	Gara	be newspaper of	basque	PERSON	0
+1.0	bomb attack	kill	two man	0	NUMBER
+0.6381254803438673	destroy	hope of	peace talk	0	0
+1.0	ETA	admit responsibility for	bomb attack at carpark at Barajas airport	ORGANIZATION	LOCATION
+1.0	newspaper Gara	say in	version	PERSON	0
+1.0	basque newspaper Gara	say in	full version of its statement publish Wednesday by independence	PERSON	DATE
+1.0	claim	have	scornful	O	O
+1.0	819 people	stretch back to	1968	NUMBER	DATE
+1.0	Gara	be	basque	PERSON	0
+1.0	Alfredo Perez Rubalcaba	earlier say in	interview with New York Times	0	ORGANIZATION
+1.0	newspaper Gara	say in	full version of its statement publish	PERSON	0
+1.0	ETA	deceive	its own arm	ORGANIZATION	0
+1.0	Alfredo Perez Rubalcaba	earlier say in	interview	0	0
+1.0	newspaper Gara	say in	full version	PERSON	0
+1.0	bomb attack	destroy	hope	0	0
+1.0	ETA	even deceive	its own arm	ORGANIZATION	0
+1.0	Madrid	at	Barajas international aiport	LOCATION	0
+1.0	newspaper Gara	say in	version of its statement publish by pro- independence	PERSON	0
+1.0	ETA	even deceive	its arm	ORGANIZATION	0
+1.0	political wing Batasuna	even be surprise by	attack	ORGANIZATION	0
+1.0	ETA	deceive	its own political arm	ORGANIZATION	0
+1.0	Spain	be	when rule by dictator Francisco Franco	LOCATION	PERSON
+1.0	Perez Rubalcaba	say	path	PERSON	0
+1.0	bombing	break	they nine-month unilateral ceasefire	0	DURATION
+1.0	there will credible truce	be with	ETA	0	ORGANIZATION
+1.0	basque newspaper Gara	say in	version of its statement publish Wednesday	PERSON	DATE
+1.0	Alfredo Perez Rubalcaba	be for	ETA	PERSON	ORGANIZATION
+1.0	location	have	details	O	O
+1.0	which	have	investigation	O	O
+1.0	newspaper Gara	say in	full version of its statement publish by independence	PERSON	0
+0.6381254803438673	destroy	hope of	peace talk between spanish government	0	0
+1.0	Perez Rubalcaba	say that	path	PERSON	0
+1.0	ETA 's decision	depend on	behavior of spanish government	ORGANIZATION	0
+1.0	ETA	give	warning of carpark attack	0	0
+1.0	bombing	be attack by	ETA	0	ORGANIZATION
+1.0	Armed separatist group	have warn of	new attack	0	0
+1.0	ETA militants	have	arrest	O	O
+1.0	government	have	behavior	O	O
+1.0	ETA	have	claim	O	ORGANIZATION
+0.09510152750802991	government	continue in	basque region	0	0
+1.0	newspaper Gara	say in	version of its statement publish Wednesday	PERSON	DATE
+1.0	newspaper Gara	say in	full version of its statement publish by pro- independence	PERSON	0
+1.0	the Spanish government	have	crackdown	O	O
+1.0	ETA	even deceive	its political arm	ORGANIZATION	0
+1.0	ETA	have	arm	O	O
+1.0	wing Batasuna	be surprise by	attack	ORGANIZATION	0
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	veil reference to arrest of ETA militant	0	ORGANIZATION
+1.0	Alfredo Perez Rubalcaba	say in	interview with New York Times	0	ORGANIZATION
+1.0	Alfredo Perez Rubalcaba	go	insist	0	0
+1.0	Spain	be	when still rule	LOCATION	0
+1.0	Spain	be	when rule	LOCATION	0
+0.6381254803438673	destroy	hope of	peace talk between government	0	0
+1.0	attacks	have	warned	O	O
+1.0	newspaper Gara	say in	full version of its statement publish Wednesday by independence	PERSON	DATE
+1.0	Armed basque separatist group	have warn of	new attack	0	0
+1.0	political wing Batasuna	be	surprise	ORGANIZATION	0
+1.0	ETA	admit responsibility on	December 30	ORGANIZATION	DATE
+1.0	bombing	break	they ceasefire	0	0
+1.0	basque newspaper Gara	say in	full version of its statement publish by pro- independence	PERSON	0
+1.0	ETA	have	decision	ORGANIZATION	0
+0.09510152750802991	spanish government	continue in	region	0	0
+1.0	Perez Rubalcaba	say that	only path	PERSON	0
+0.42046360787901194	spanish government statement	claim	responsibility	0	0
+1.0	bombing	break	they nine-month ceasefire	0	DURATION
+1.0	basque newspaper Gara	say in	full version	PERSON	0
+1.0	ETA 's decision	depend on	behavior	ORGANIZATION	0
+1.0	wing Batasuna	even be surprise by	attack	ORGANIZATION	0
+1.0	bomb attack	destroy	hope of peace talk between government	0	0
+1.0	ETA	of	claim	ORGANIZATION	0
+1.0	spanish government	continue	its crackdown	0	0
+1.0	newspaper Gara	say in	version of its statement publish	PERSON	0
+1.0	ETA	blame	government	ORGANIZATION	0
+1.0	Alfredo Perez Rubalcaba	say in	interview	0	0
+1.0	newspaper Gara	say in	version of its statement publish Wednesday by independence	PERSON	DATE
+1.0	ETA	have	decisions	O	ORGANIZATION
+1.0	ETA	deceive	its arm	ORGANIZATION	0
+1.0	newspaper Gara	say in	full version of its statement publish Wednesday by pro- independence	PERSON	DATE
+1.0	basque newspaper Gara	say in	version of its statement publish Wednesday by independence	PERSON	DATE
+1.0	basque newspaper Gara	say in	version of its statement publish by independence	PERSON	0
+1.0	basque newspaper Gara	say in	version of its statement publish by pro- independence	PERSON	0
+1.0	bombing	be first deadly attack since	May 2003	0	DATE
+1.0	Spain	be still rule by	dictator Francisco Franco	LOCATION	PERSON
+1.0	ETA on Tuesday	have	statement	O	O
+1.0	ETA	deceive	its political arm	ORGANIZATION	0
+1.0	ETA	admit	responsibility	ORGANIZATION	0
+1.0	ETA	admit responsibility for	bomb attack	ORGANIZATION	0
+1.0	ETA	do	ETA	ORGANIZATION	0
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	veil reference to arrest	0	0
+1.0	bombing	be first attack since	May 2003	0	DATE
+1.0	Perez Rubalcaba	say	only path	PERSON	0
+1.0	bombing	be	first attack by ETA since May 2003	0	ORDINAL
+0.09510152750802991	government	continue in	region	0	0
+1.0	bombing	be first deadly attack by	ETA	0	ORGANIZATION
+1.0	ETA 's decision	depend	reaction	ORGANIZATION	0
+1.0	bombing	be	first deadly attack by ETA since May 2003	0	ORDINAL
+1.0	bombing	break	they unilateral ceasefire	0	0
+0.09510152750802991	government	continue in	statement	0	0
+1.0	basque newspaper Gara	say in	version of its statement publish Wednesday by pro- independence	PERSON	DATE
+1.0	bombing	be deadly attack since	May 2003	0	DATE
+1.0	ETA on Tuesday	have	ceasefire	O	O
+1.0	democratic	have	way	O	O
+1.0	bombing	be deadly attack by	ETA	0	ORGANIZATION
+1.0	arm Batasuna	have	the	O	O
+1.0	basque newspaper Gara	say in	full version of its statement publish by independence	PERSON	0
+1.0	Madrid	have	Barajas aiport	O	LOCATION
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	veil reference	0	0
+1.0	Perez Rubalcaba	respond to	statement	PERSON	0
+0.6928527758318491	ETA	warning of	carpark attack	0	0
+1.0	carpark attack	have	warning	O	O
+1.0	Armed separatist group	have warn of	attack	0	0
+1.0	ETA	give	warning	0	0
+0.42046360787901194	government statement	claim	responsibility	0	0
+1.0	leader	be under	of which investigation	0	0
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	reference to arrest	0	0
+1.0	attack	have	aim	O	O
+1.0	ETA	admit responsibility for	bomb attack at carpark	ORGANIZATION	0
+1.0	newspaper Gara	say in	version of its statement publish Wednesday by pro- independence	PERSON	DATE
+1.0	interview	be with	New York Times	0	ORGANIZATION
+1.0	obstacle	be in	way of democratic	0	0
+0.08453415743209902	ETA	admit for	bomb attack at carpark	ORGANIZATION	0
+1.0	Jose Luis Rodriguez Zapatero	have	priority	O	O
+1.0	wing Batasuna	be	surprise	ORGANIZATION	0
+1.0	wing Batasuna	be	even surprise	ORGANIZATION	0
+1.0	basque newspaper Gara	say in	version of its statement publish	PERSON	0
+1.0	Spain	be	still rule	LOCATION	0
+1.0	bombing	be	attack by ETA since May 2003	0	DATE
+1.0	newspaper Gara	say in	version of its statement publish by independence	PERSON	0
+1.0	bomb attack	destroy	hope of peace talk between spanish government	0	0
+1.0	the full version of its statement published Wednesday by pro- independence	warn in	reference to arrest of ETA militant	0	ORGANIZATION
+1.0	two men	have	ceasefire	O	O
+1.0	peace talks	have	hopes	O	O
+0.08453415743209902	ETA	admit for	bomb attack	ORGANIZATION	0
+0.09510152750802991	spanish government	continue in	statement	0	0
+1.0	ETA	give	ample warning of carpark attack	0	0
+1.0	newspaper Gara	say in	full version of its statement	PERSON	0

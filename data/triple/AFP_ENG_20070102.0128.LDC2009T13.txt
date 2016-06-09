@@ -1,0 +1,54 @@
+1.0	place	be in	party	0	0
+1.0	first test	start from	January 11	ORDINAL	DATE
+1.0	their	have	South Africa tour	O	O
+1.0	Pakistan captain Inzamam-ul-Haq	be	confident	PERSON	0
+1.0	test	start at	Centurion	0	0
+1.0	tour	be	consider	0	0
+1.0	their South Africa tour	form	lead up to ninth World Cup	0	MISC
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	strong showing by he side on they South Africa tour	PERSON	LOCATION
+1.0	17-man party	include	doping-tainted Mohammad Asif	0	PERSON
+1.0	Kimberley	be from	January 6	LOCATION	DATE
+1.0	whose father	die at_time	week	DURATION	DATE
+1.0	Inzamam-ul-Haq	be	Pakistan	PERSON	LOCATION
+1.0	Pakistan captain Inzamam-ul-Haq	have	team	O	O
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	strong showing	PERSON	0
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	showing	PERSON	0
+1.0	Faisal Iqbal	be	Asim Kamal	PERSON	PERSON
+1.0	tour	be consider	crucial	0	0
+1.0	first test	start at	Centurion	ORDINAL	0
+1.0	Mohammad Asif	be	Umar Gul	PERSON	PERSON
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	strong showing by he side	PERSON	0
+1.0	team	schedule departure at_time	Tuesday night	0	DATE
+1.0	Pakistan	be	due	LOCATION	0
+1.0	Mohammad Sami	be	Rana Naved-ul-Hasan	PERSON	PERSON
+1.0	their	have	potential	O	O
+1.0	their	play to	they potential	0	0
+1.0	showing	have	confident	O	O
+1.0	tour	be consider	crucial for team	0	0
+1.0	his	have	ban	O	O
+1.0	days	have	couple	DURATION	DURATION
+1.0	Mohammad Hafeez	be	Imran Farhat	PERSON	PERSON
+1.0	Inzamam-ul-Haq	be captain of	Pakistan	PERSON	LOCATION
+1.0	Pakistan	be due at	Kimberley	LOCATION	LOCATION
+1.0	five one-day internationals	have	tour	O	O
+1.0	party	include	Mohammad Asif	0	PERSON
+1.0	Yasir Hameed	be	Shoaib Malik	PERSON	PERSON
+1.0	team	schedule	departure	0	0
+1.0	we	be to	up task	0	0
+1.0	Mohammad Yousuf	be	Kamran Akmal	PERSON	PERSON
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	showing by he side on they South Africa tour	PERSON	LOCATION
+1.0	tour	have	importance	O	O
+1.0	Pakistan	be due at	Kimberley from January 6	LOCATION	LOCATION
+1.0	whose father	die in	Lahore	DURATION	LOCATION
+1.0	their South Africa tour	form	lead up to World Cup	0	MISC
+1.0	their South Africa tour	form	lead up	0	0
+1.0	we	be to	task	0	0
+1.0	17-man party	include	Mohammad Asif	0	PERSON
+1.0	whose father	die at_time	last week	DURATION	DATE
+1.0	party	include	doping-tainted Mohammad Asif	0	PERSON
+1.0	Pakistan captain Inzamam-ul-Haq	be confident of	showing by he side	PERSON	0
+1.0	their South Africa tour	form	lead	0	0
+1.0	Pakistan	play	three test	LOCATION	NUMBER
+1.0	test	start from	January 11	0	DATE
+1.0	whose	have	father	O	O
+1.0	Pakistan captain Inzamam-ul-Haq	have	side	O	O

@@ -1,0 +1,38 @@
+1.0	security	be tighten at	ban Di Samoe outpost	0	LOCATION
+1.0	security	be	tighten	0	0
+1.0	border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	Thai fuel smugglers	have	group	O	O
+1.0	four soldier	be injure in	explosion	0	0
+1.0	Malaysia	have	army	LOCATION	0
+1.0	defence ministry spokeswoman Fadzlette Othman Merican	dismiss	report	PERSON	0
+1.0	security	be tighten at	ban Di Samoe outpost in state	0	LOCATION
+1.0	malaysian border official	be attack by	group	0	0
+1.0	soldiers	have	three	NUMBER	O
+1.0	Malaysia 's	tighten security at_time	month	LOCATION	DATE
+1.0	one	be	stable	NUMBER	0
+1.0	Southern Thailand	be in	grip	LOCATION	0
+1.0	border official	be attack by	group	0	0
+1.0	malaysian border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	soldier	be	injure	0	0
+1.0	security	be tighten at	ban Di Samoe outpost in northern state	0	LOCATION
+1.0	Malaysia 's	tighten security with	Thailand	LOCATION	LOCATION
+0.8945479728213065	Malaysia 's	restrict	entry	LOCATION	0
+1.0	security	be tighten at	ban Di Samoe outpost in northern kedah state	0	LOCATION
+1.0	defence ministry spokeswoman Fadzlette Othman Merican	tell	AFP	PERSON	ORGANIZATION
+1.0	security	be tighten at	ban Di Samoe outpost in kedah state	0	LOCATION
+1.0	ban Di Samoe outpost	be in	northern kedah state	LOCATION	0
+1.0	defence official	say at_time	Thursday	0	DATE
+1.0	northern border	be with	Thailand	0	LOCATION
+1.0	entry	ban	Thai motorcycle	0	MISC
+1.0	border official	be	attack	0	0
+1.0	malaysian border official	be	attack	0	0
+1.0	Malaysia 's	tighten security on	its border	LOCATION	0
+1.0	soldier	be injure in	explosion	0	0
+1.0	Thai soldier	conduct	joint patrol	MISC	0
+1.0	Malaysia 's	tighten security at_time	last month	LOCATION	DATE
+1.0	Malaysia 's	have	border	O	O
+1.0	Thai soldier	conduct	patrol	MISC	0
+1.0	four soldier	be	injure	0	0
+1.0	insurgency	have	grip	O	O
+1.0	Malaysia 's	tighten	security	LOCATION	0
+1.0	Malaysia	have	army	O	LOCATION

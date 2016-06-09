@@ -1,0 +1,45 @@
+1.0	2.5 percent rise	take sale in	company 's market outside Spain	PERCENT	LOCATION
+0.4009579909513197	2.8 percent	sale in	Europe	PERCENT	LOCATION
+1.0	percent rise	take sale in	company 's largest market	PERCENT	0
+1.0	sale	be in	Europe	0	LOCATION
+1.0	Germany	market 's	company	LOCATION	0
+1.0	Germany	market outside	Spain	LOCATION	LOCATION
+1.0	Ibiza model	have	units	O	O
+0.28627611980559997	sale	rise in	western Europe	0	LOCATION
+1.0	Volkswagen	have	unit Seat	O	ORGANIZATION
+1.0	company	have	market	O	O
+1.0	Leon model	have	sales	O	O
+1.0	percent rise	take	sale	PERCENT	0
+1.0	sales	have	a	O	O
+1.0	continued innovation	be	priority	0	0
+0.4009579909513197	2.8 percent	sale in	western Europe	PERCENT	LOCATION
+1.0	2.5 percent rise	take sale in	Germany	PERCENT	LOCATION
+1.0	2.5 percent rise	take sale in	company 's largest market outside Spain	PERCENT	LOCATION
+1.0	percent rise	take sale in	Germany	PERCENT	LOCATION
+1.0	2.5 percent rise	take sale in	company 's largest market	PERCENT	0
+1.0	percent rise	take sale in	company 's market	PERCENT	0
+1.0	Spain	see at_time	2.5 percent fall	LOCATION	PERCENT
+1.0	sale	rise	20 percent	0	PERCENT
+1.0	company	reveal to	32,844 unit in United Kingdom	0	LOCATION
+1.0	rise	have	back	O	O
+1.0	Volkswagen	have	spanish unit seat on Wednesday	ORGANIZATION	DATE
+1.0	percent rise	take sale in	company 's largest market outside Spain	PERCENT	LOCATION
+1.0	Europa Press news agency	say	add	ORGANIZATION	0
+1.0	company	reveal on	back	0	0
+1.0	32,844 unit	be in	United Kingdom	NUMBER	LOCATION
+1.0	percent rise	take sale in	company 's market outside Spain	PERCENT	LOCATION
+0.28627611980559997	sale	rise in	eastern Europe	0	LOCATION
+1.0	430,000	have	Leon model	O	O
+1.0	10 percent	increase in	Italy	PERCENT	LOCATION
+1.0	Spain	see to	146,515 unit	LOCATION	NUMBER
+0.28627611980559997	sale	rise to	2,366	0	NUMBER
+1.0	2.5 percent rise	take	sale	PERCENT	0
+1.0	innovation	be	priority	0	0
+1.0	company	reveal to	32,844 unit	0	NUMBER
+1.0	company	reveal on	back of 15.5 rise	0	NUMBER
+1.0	sale	rise	2.8 percent	0	PERCENT
+1.0	company	have	largest market outside Spain	0	LOCATION
+1.0	percent rise	take sale to	51,367	PERCENT	NUMBER
+1.0	The automaker	have	Ibiza model	O	O
+1.0	2.5 percent rise	take sale to	51,367	PERCENT	NUMBER
+1.0	2.5 percent rise	take sale in	company 's market	PERCENT	0

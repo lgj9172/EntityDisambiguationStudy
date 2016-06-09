@@ -1,0 +1,139 @@
+1.0	surprising jet	will play	contest	0	0
+1.0	his	have	playoff debut	O	O
+1.0	Peyton Manning	have make in	he career	PERSON	0
+1.0	Cincinnati	all lose on	Sunday of season	LOCATION	DATE
+1.0	Cincinnati	lose on	final Sunday	LOCATION	DATE
+1.0	Philadelphia Eagles	be in	nfc	ORGANIZATION	0
+1.0	Seahawks	reach super bowl for	first time	ORGANIZATION	ORDINAL
+1.0	Chiefs	win	three road playoff game	0	NUMBER
+1.0	man	complete	65 percent	0	PERCENT
+1.0	Owens	will face	fourth-seeded Seattle Seahawks	PERSON	ORGANIZATION
+1.0	man	lead nfl with	101.0 passer rating	0	NUMBER
+1.0	NFL	of	loudest stadium	ORGANIZATION	0
+1.0	surprising jet	will play	wild-card contest	0	0
+1.0	Seahawks	reach	Super Bowl	ORGANIZATION	0
+1.0	Peyton Manning	will	will some headline performer on Saturday	PERSON	DATE
+1.0	Owens	will face	fourth-seeded Seattle Seahawks in nfc contest	PERSON	ORGANIZATION
+1.0	Eagles	be do	just fine	0	0
+1.0	New England Patriots	be in	AFC wild-card game	ORGANIZATION	MISC
+1.0	jet	will play	contest	0	0
+1.0	man	complete	65 percent of he pass	0	PERCENT
+1.0	his	have	ACL	O	O
+1.0	NFL	have	stadiums	O	ORGANIZATION
+1.0	Herman Edwards	have	year	DATE	PERSON
+1.0	Eagles	be do	fine without Owens	0	PERSON
+1.0	Owens	will face	Seattle Seahawks in nfc contest	PERSON	ORGANIZATION
+1.0	Giants	meet	10-6	ORGANIZATION	NUMBER
+1.0	Seahawks	reach super bowl throughout	nfc playoff	ORGANIZATION	0
+1.0	AFC wild-card contest	in chiefs be	9-7	MISC	NUMBER
+1.0	nfc wild-card contest	in seahawks be	9-7	0	NUMBER
+1.0	Cowboys	win	playoff game	ORGANIZATION	0
+1.0	Peyton Manning	have make in	he nine-year career	PERSON	DURATION
+1.0	Eagles	be do	fine	0	0
+1.0	surprising jet	will play	fourth-seeded wild-card contest	0	0
+1.0	season	have	Sunday	DATE	O
+1.0	headline performers	have	some	O	O
+1.0	Giants	meet	Philadelphia Eagles	ORGANIZATION	ORGANIZATION
+1.0	Cincinnati	lose on	final Sunday of regular season	LOCATION	DATE
+1.0	his	have	career	O	O
+1.0	Romo	now will make	he playoff debut	PERSON	0
+1.0	Eagles	be do	just fine without Owens	0	PERSON
+1.0	Cincinnati	all lose on	final Sunday of season	LOCATION	DATE
+0.7104770850202085	Cincinnati	final sunday	Tennessee	LOCATION	LOCATION
+1.0	Indianapolis Colts	will host	sixth	ORGANIZATION	ORDINAL
+1.0	Giants	meet	third-seeded Philadelphia Eagles in nfc	ORGANIZATION	ORGANIZATION
+1.0	Seahawks	reach super bowl for	time in franchise history last February	ORGANIZATION	DATE
+1.0	Peyton Manning	have make in	he nine-year career with Colts	PERSON	ORGANIZATION
+1.0	nfc	in eagles be	10-6	0	NUMBER
+1.0	Chiefs	lose	three	ORGANIZATION	NUMBER
+1.0	their	have	games	O	O
+1.0	Owens	will face	Seattle Seahawks in nfc wild-card contest	PERSON	ORGANIZATION
+1.0	Romo	will make	he playoff debut	PERSON	0
+1.0	Seattle	be in	Super Bowl XL	LOCATION	0
+1.0	Owens	catch	85 pass	PERSON	NUMBER
+1.0	Tedy Bruschi	be	New England Patriots	PERSON	ORGANIZATION
+1.0	10-6 record	be in	Dick Vermeil 's final campaign as coach	NUMBER	PERSON
+1.0	Peyton Manning	will	will some	PERSON	0
+1.0	Seahawks	reach super bowl for	first time February	ORGANIZATION	ORDINAL
+1.0	Seahawks	reach super bowl for	first time last February	ORGANIZATION	ORDINAL
+1.0	Seattle Seahawks	be in	nfc wild-card contest	ORGANIZATION	0
+1.0	coach Bill Parcells	make quarterback switch from	Drew Bledsoe	PERSON	PERSON
+1.0	Peyton Manning	will	will some of headline performer	PERSON	0
+1.0	Seahawks	reach super bowl for	first time in franchise history	ORGANIZATION	ORDINAL
+1.0	Seahawks	reach super bowl for	first time in franchise history last February	ORGANIZATION	ORDINAL
+1.0	Chiefs	be thrill	playoff	0	0
+1.0	home-field advantage	have	help	O	O
+1.0	NFL playoffs	have	day	DURATION	O
+1.0	Seahawks	reach super bowl for	time	ORGANIZATION	0
+1.0	Chiefs	win	three straight road playoff game	0	NUMBER
+1.0	Kansas City	grab	last card spot	LOCATION	0
+1.0	Cincinnati	all lose on	final Sunday of regular season	LOCATION	DATE
+1.0	Seahawks	reach super bowl for	time February	ORGANIZATION	DATE
+1.0	Cincinnati	lose	Denver	LOCATION	LOCATION
+1.0	Cincinnati	all lose	Tennessee	LOCATION	LOCATION
+1.0	Cincinnati	lose	Tennessee	LOCATION	LOCATION
+1.0	sixth seed	be in	last year	ORDINAL	DATE
+1.0	Chiefs	can draw	inspiration	0	0
+1.0	Peyton Manning	have make	pro Bowl seven time	PERSON	LOCATION
+1.0	Cincinnati	lose on	Sunday of regular season	LOCATION	DATE
+1.0	Cincinnati	all lose on	Sunday	LOCATION	DATE
+1.0	Cincinnati	lose on	final Sunday of season	LOCATION	DATE
+1.0	jet	will play	wild-card contest	0	0
+1.0	Seahawks	reach super bowl with	help of home-field advantage	ORGANIZATION	0
+1.0	man	lead	NFL	0	ORGANIZATION
+0.7104770850202085	Cincinnati	final sunday	Denver	LOCATION	LOCATION
+1.0	surprising jet	will play	fourth-seeded contest	0	0
+1.0	Peyton Manning	have make in	he career with Colts	PERSON	ORGANIZATION
+1.0	Peyton Manning	will	will some headline performer	PERSON	0
+1.0	Dick Vermeil	in	final campaign as coach	PERSON	0
+1.0	endorsement deals	have	plenty	O	O
+1.0	Owens	will face	Seattle Seahawks	PERSON	ORGANIZATION
+1.0	Peyton Manning	have make	pro Bowl	PERSON	LOCATION
+1.0	Kansas City Chiefs	be in	AFC wild-card contest	ORGANIZATION	MISC
+1.0	Kansas City	grab	card spot	LOCATION	0
+1.0	passes	have	percent	PERCENT	O
+1.0	Giants	meet	third-seeded Philadelphia Eagles	ORGANIZATION	ORGANIZATION
+1.0	games	have	four	NUMBER	O
+1.0	A two-time MVP	have	passes	O	O
+1.0	Peyton Manning	will	will some of headline performer on Saturday	PERSON	DATE
+0.7607199889497277	two game	feature new york team against	division rival	NUMBER	0
+1.0	Cincinnati	all lose on	Sunday of regular season	LOCATION	DATE
+1.0	Super Bowl	be set for	February 4	0	DATE
+1.0	third-seeded Indianapolis Colts	will host	sixth	ORGANIZATION	ORDINAL
+1.0	Cincinnati	all lose on	final Sunday	LOCATION	DATE
+1.0	Cowboys	last win ago	playoff game	ORGANIZATION	0
+1.0	Cowboys	win ago	playoff game	ORGANIZATION	0
+1.0	pro	bowl at_time	seven time	0	NUMBER
+1.0	Dick Vermeil	have	campaign	O	PERSON
+1.0	Giants	meet	Philadelphia Eagles in nfc	ORGANIZATION	ORGANIZATION
+1.0	Kansas City	grab	wild card spot	LOCATION	0
+1.0	defend nfc champion	be in	one	0	NUMBER
+1.0	jet	will play	fourth-seeded wild-card contest	0	0
+1.0	Seahawks	reach super bowl for	time last February	ORGANIZATION	DATE
+1.0	jet	will play	fourth-seeded contest	0	0
+1.0	Seahawks	reach super bowl for	time in franchise history	ORGANIZATION	0
+1.0	Cowboys	last win	playoff game	ORGANIZATION	0
+1.0	stadiums	have	NFC champions	O	O
+0.7104770850202085	Cincinnati	sunday	Tennessee	LOCATION	LOCATION
+1.0	coach Bill Parcells	make quarterback switch to	Tony Romo	PERSON	PERSON
+1.0	Cincinnati	lose on	Sunday	LOCATION	DATE
+1.0	Colts	start	9-0	ORGANIZATION	NUMBER
+1.0	he nine-year career	be with	Colts	DURATION	ORGANIZATION
+1.0	Seahawks	reach super bowl with	help	ORGANIZATION	0
+1.0	Pro	have	loss	O	O
+1.0	Kansas City	grab	last wild card spot	LOCATION	0
+1.0	Owens	will face	9-7	PERSON	NUMBER
+1.0	Chiefs	be in	playoff	0	0
+1.0	AFC wild-card game	in patriots be	12-4	MISC	NUMBER
+1.0	Kansas City	end	season	LOCATION	0
+1.0	Cincinnati	all lose	Denver	LOCATION	LOCATION
+1.0	coach Bill Parcells	make	quarterback switch	PERSON	0
+1.0	Owens	will face	fourth-seeded Seattle Seahawks in nfc wild-card contest	PERSON	ORGANIZATION
+1.0	Super Bowl	be	set	0	0
+1.0	third place	be in	AFC West	ORDINAL	MISC
+1.0	Tedy Bruschi	be linebacker of	New England Patriots	PERSON	ORGANIZATION
+1.0	Seahawks	reach super bowl for	time in franchise history February	ORGANIZATION	DATE
+1.0	Chiefs	be	thrill	0	0
+1.0	Cincinnati	lose on	Sunday of season	LOCATION	DATE
+0.7104770850202085	Cincinnati	sunday	Denver	LOCATION	LOCATION
+1.0	Seahawks	reach super bowl for	first time in franchise history February	ORGANIZATION	ORDINAL

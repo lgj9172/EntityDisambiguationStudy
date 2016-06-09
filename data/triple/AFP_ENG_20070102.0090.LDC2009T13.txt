@@ -1,0 +1,26 @@
+1.0	explosion	severely damage	house	0	0
+1.0	security official	say at_time	early Tuesday	0	DATE
+1.0	incident	occur in	Baghdad 's mixed Shiite-Sunni neighbourhood	0	LOCATION
+1.0	Baghdad	have	Shiite-Sunni neighbourhood	O	LOCATION
+1.0	security official	say in	gunman abducted	0	0
+1.0	Khamsara	have	Shiite-Sunni neighbourhood	O	LOCATION
+1.0	explosion	damage	nearby house	0	0
+1.0	blast	have	Photos	O	O
+1.0	garbage	have	pile	O	O
+1.0	bomb	be hide in	pile	0	0
+1.0	incident	occur in	Baghdad 's Shiite-Sunni neighbourhood	0	LOCATION
+1.0	early Tuesday	have	went	O	DATE
+1.0	Baghdad	have	south	O	LOCATION
+1.0	incident	occur in	Baghdad 's mixed Shiite-Sunni neighbourhood of Khamsara	0	LOCATION
+1.0	explosion	severely damage	nearby house	0	0
+1.0	bomb	be	hide	0	0
+1.0	they whereabout	be	unknown	0	0
+1.0	incident	occur in	Baghdad 's Shiite-Sunni neighbourhood of Khamsara	0	LOCATION
+1.0	six members of a family in Madaen	have	whereabout	O	O
+1.0	Baghdad	in	mixed Shiite-Sunni neighbourhood of Khamsara	LOCATION	LOCATION
+1.0	family	have	members	O	O
+1.0	bomb	be hide in	pile of garbage	0	0
+1.0	family	be in	Madaen	0	LOCATION
+1.0	they whereabout	be	still unknown	0	0
+1.0	explosion	damage	house	0	0
+1.0	security official	say at_time	Tuesday	0	DATE

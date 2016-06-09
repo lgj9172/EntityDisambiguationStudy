@@ -1,0 +1,32 @@
+1.0	detail	distinguish civilian from	intended target	0	0
+1.0	attack	have	means	O	O
+1.0	Robert Gates	be to	US Defense	PERSON	ORGANIZATION
+1.0	International law	prohibit	attack	0	0
+1.0	Somalia	have	tip	O	LOCATION
+1.0	civilians and combatants	have	forces	O	O
+1.0	rights group	demand	detail	0	0
+1.0	detail	distinguish	civilian	0	0
+1.0	Kenyan authorities	have	borders	O	O
+1.0	International humantarian law	prohibit	attack on civilian	0	0
+1.0	International humantarian law	prohibit	attack	0	0
+1.0	Research Programme	have	Senior Director	O	ORGANIZATION
+1.0	detail	distinguish civilian from	target	0	0
+1.0	rights group	urge	they	0	0
+1.0	they	open	they border	0	0
+1.0	rights group	demand	detail about air strike	0	0
+1.0	Somalia	in	southernmost tip	MISC	0
+1.0	International law	prohibit	attack on civilian	0	0
+1.0	Claudio Cordone	director of	Amnesty 's Research Programme	PERSON	ORGANIZATION
+1.0	Amnesty	have	Research Programme	ORGANIZATION	ORGANIZATION
+1.0	Monday	in	attack	DATE	0
+1.0	failure	have	result	O	O
+1.0	organisation	say at_time	Wednesday	0	DATE
+1.0	london-based rights group	demand	detail about air strike	0	0
+1.0	london-based rights group	demand	detail	0	0
+1.0	report civilian death	be in	letter to US Defense Secretary Robert Gates	0	PERSON
+1.0	two village	be in	Somalia 's southernmost tip	NUMBER	MISC
+1.0	Robert Gates	be secretary of	US Defense	PERSON	ORGANIZATION
+1.0	human rights group	urge	they	0	0
+1.0	civilians and combatants	have	attack	O	O
+1.0	Monday	have	attack	O	DATE
+1.0	report civilian death	be in	US air strike on southern Somalia	0	ORGANIZATION

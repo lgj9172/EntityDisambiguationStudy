@@ -1,0 +1,34 @@
+1.0	5,533.03 point	be in	Paris	NUMBER	LOCATION
+1.0	London 's ftse 100 index	be	mere 0.03 percent higher at 6,196.10 point	LOCATION	NUMBER
+0.9545377244378365	CAC 40	be at	0.26 percent higher 5,533.03 point	NUMBER	PERCENT
+1.0	London 's ftse 100 index	be	0.03 percent	LOCATION	PERCENT
+1.0	stock market	trade in	territory	0	0
+0.9545377244378365	CAC	be at	5,533.03 point	0	NUMBER
+0.9545377244378365	CAC 40	be at	in Paris 5,533.03 point	NUMBER	LOCATION
+1.0	London 's ftse index	be	0.03 percent at 6,196.10 point	LOCATION	NUMBER
+1.0	stock market	trade on	Tuesday	0	DATE
+0.9545377244378365	CAC	be at	0.26 percent higher 5,533.03 point	0	PERCENT
+0.9545377244378365	CAC 40	be at	in Paris 0.26 percent higher 5,533.03 point	NUMBER	LOCATION
+0.9545377244378365	CAC	be at	in Paris 0.26 percent higher 5,533.03 point	0	LOCATION
+1.0	index	be	mere	0	0
+1.0	european stock market	trade on	Tuesday	0	DATE
+0.9545377244378365	CAC 40	be at	5,533.03 point	NUMBER	NUMBER
+1.0	London 's ftse 100 index	be	mere 0.03 percent	LOCATION	PERCENT
+1.0	London 's ftse index	be	mere 0.03 percent	LOCATION	PERCENT
+1.0	London 's ftse 100 index	be	0.03 percent at 6,196.10 point	LOCATION	NUMBER
+1.0	european stock market	trade in	positive territory	0	0
+1.0	London	have	ftse 100 index	LOCATION	NUMBER
+1.0	London 's ftse 100 index	be	mere 0.03 percent at 6,196.10 point	LOCATION	NUMBER
+0.9545377244378365	CAC 40	be at	in Paris higher 5,533.03 point	NUMBER	LOCATION
+0.9545377244378365	CAC	be at	higher 5,533.03 point	0	NUMBER
+0.9545377244378365	CAC	be at	in Paris higher 5,533.03 point	0	LOCATION
+1.0	London 's ftse index	be	mere 0.03 percent at 6,196.10 point	LOCATION	NUMBER
+1.0	european stock market	trade in	territory	0	0
+1.0	London	have	FTSE index	O	LOCATION
+0.9545377244378365	CAC 40	be at	higher 5,533.03 point	NUMBER	NUMBER
+1.0	London 's ftse index	be	0.03 percent higher at 6,196.10 point	LOCATION	NUMBER
+1.0	London 's ftse index	be	mere 0.03 percent higher at 6,196.10 point	LOCATION	NUMBER
+1.0	London 's ftse 100 index	be	0.03 percent higher at 6,196.10 point	LOCATION	NUMBER
+1.0	London 's ftse index	be	0.03 percent	LOCATION	PERCENT
+0.9545377244378365	CAC	be at	in Paris 5,533.03 point	0	LOCATION
+1.0	stock market	trade in	positive territory	0	0

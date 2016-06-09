@@ -1,0 +1,45 @@
+1.0	Myanmar	over	refusal issue	LOCATION	0
+1.0	Kim	try	other laureate from Seoul to Washington	PERSON	LOCATION
+1.0	Nobel laureate	have also urge	United Nations Security Council	MISC	ORGANIZATION
+1.0	her	have	campaign	O	O
+1.0	United Nations Security Council	give	unanimous support	ORGANIZATION	0
+1.0	Aung San Suu Kyi	be	Nobel Peace Prize	PERSON	MISC
+1.0	Myanmar	have	embassy	O	LOCATION
+1.0	Kim	file	12 other laureate from Seoul to Washington	PERSON	LOCATION
+1.0	Kim	request	visa	PERSON	0
+1.0	embassy official	accept	application	0	0
+1.0	United Nations Security Council	give support to	resolution	ORGANIZATION	0
+1.0	support	condemn repression in	Myanmar	0	LOCATION
+1.0	Suu Kyi	have	release	O	PERSON
+1.0	Kim Dae-Jung	for	request	PERSON	0
+1.0	Kim	have	efforts	O	O
+1.0	he aide	say on	Saturday	0	DATE
+1.0	Myanmar	to	military ruler accuse of human rights abuse	LOCATION	0
+1.0	campaign	have	part	O	O
+1.0	Myanmar	have	refusal	O	LOCATION
+1.0	Nobel laureate	have urge	United Nations Security Council	MISC	ORGANIZATION
+1.0	Myanmar	from	embassy here Friday	LOCATION	DATE
+1.0	unanimous support	condemn	political repression	0	0
+1.0	unanimous support	condemn	repression	0	0
+1.0	group	ask at_time	Kim	0	PERSON
+1.0	Jody Williams	be	american	PERSON	0
+1.0	support	condemn	repression	0	0
+1.0	Myanmar	have	junta	O	LOCATION
+1.0	Myanmar	have	democratisation	O	LOCATION
+1.0	part	pressure	Myanmar 's junta	0	LOCATION
+1.0	Kim Dae-Jung	have	request	O	PERSON
+1.0	Shirin Ebadi	be	iranian	PERSON	0
+1.0	Kim	file	other laureate from Seoul to Washington	PERSON	LOCATION
+1.0	unanimous support	condemn repression in	Myanmar	0	LOCATION
+1.0	group	join	they	0	DATE
+1.0	Myanmar	have	junta release	LOCATION	0
+1.0	Kim	try	12 other laureate from Seoul to Washington	PERSON	LOCATION
+1.0	Suu Kyi	for	release	PERSON	0
+1.0	United Nations Security Council	give	support	ORGANIZATION	0
+1.0	her	have	work	O	O
+1.0	rights abuses	have	accused	O	O
+1.0	United Nations Security Council	give support to	us-proposed resolution	ORGANIZATION	0
+1.0	support	condemn	political repression	0	0
+1.0	Myanmar	have	rulers	O	LOCATION
+1.0	embassy official	be in	charge	0	0
+1.0	Kim Dae-Jung 's	have	aide	O	O

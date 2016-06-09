@@ -1,0 +1,84 @@
+1.0	confidence	have	full	O	O
+1.0	arsenal	continue	they form	0	0
+1.0	they	have win	four match	0	NUMBER
+0.7946617463077541	reason	run of	recent victory	0	0
+1.0	goal	have	continue	O	O
+1.0	their	have	form	O	O
+1.0	result	bizarrely though have set	Mark Hughes ' side	0	PERSON
+1.0	their	lose	6-2	0	NUMBER
+1.0	nine goal	be in	they last two game	NUMBER	NUMBER
+1.0	he	have again	little setback	0	0
+1.0	result	though have set	Mark Hughes ' side	0	PERSON
+0.7946617463077541	reason	run of	victory	0	0
+1.0	successes	have	all	O	O
+1.0	Emmanuel Adebayor	return follow	spell on sideline	PERSON	0
+1.0	Ryan Nelson	be	injure	PERSON	0
+1.0	their	have	four good game	0	NUMBER
+1.0	confidence	come after	game	0	0
+1.0	Emmanuel Adebayor	return follow	spell	PERSON	0
+1.0	their	have	four good game since then	0	NUMBER
+1.0	side	have	afraid	O	O
+1.0	Arsenal	have score	nine goal in they last two game	0	NUMBER
+1.0	Ryan Nelson	be by	back end of month	PERSON	DATE
+1.0	their	have	four game since then	0	NUMBER
+1.0	Ryan Nelson	be injure for	Blackburn	PERSON	ORGANIZATION
+1.0	their	travel before	Christmas	0	DATE
+1.0	Ryan Nelson	be by	end of month	PERSON	DATE
+1.0	Ryan Nelson	be by	back end	PERSON	DATE
+1.0	their	forget about	it	0	0
+1.0	striker Benni McCarthy	have score in	all of success	PERSON	0
+1.0	their	have	matches	O	O
+1.0	Mark Hughes	have	side	O	PERSON
+1.0	Arsene Wenger 's side	have score	13 goal	PERSON	NUMBER
+1.0	striker Benni McCarthy	have score in	all success	PERSON	0
+1.0	their	have	thrashing	O	O
+1.0	four goal	be in	6-3	NUMBER	NUMBER
+1.0	arsenal	continue	they incredible form	0	0
+1.0	Gallas	be	close	PERSON	0
+1.0	we	have do well against	they	0	DATE
+1.0	results	have	run	O	O
+1.0	he	have	setback	0	0
+1.0	Arsene Wenger 's side	have score	13 goal in they three match	PERSON	NUMBER
+1.0	Ryan Nelson	be still injure for	Blackburn	PERSON	ORGANIZATION
+1.0	their	trail	league leader Manchester United	0	ORGANIZATION
+1.0	their	trail	league leader Manchester United by 15 point	0	ORGANIZATION
+1.0	it	feel	bad	0	0
+1.0	Arsene Wenger	have	side	PERSON	0
+1.0	Wenger	have	side	O	PERSON
+1.0	Emmanuel Adebayor	return to	Arsenal squad	PERSON	0
+1.0	result	have set	Mark Hughes ' side	0	PERSON
+1.0	their	have	four game	0	NUMBER
+1.0	we	get	point	0	0
+1.0	the forward	surprise	the forward	0	0
+1.0	their	have	games	O	O
+1.0	13 goal	be in	they last three match	NUMBER	NUMBER
+1.0	the forward	play	more	0	0
+0.17974797504936701	arsenal	continue in front of	goal	0	0
+0.17974797504936701	arsenal	continue in front of	goal on Saturday	0	DATE
+1.0	month	have	end	DATE	DATE
+1.0	they	have win	four match in row	0	NUMBER
+1.0	result	bizarrely have set	Mark Hughes ' side	0	PERSON
+1.0	man Morten Gamst Pedersen	admit	he side	PERSON	0
+1.0	their	have	defeat	O	O
+1.0	front man Morten Gamst Pedersen	admit	he side	PERSON	0
+1.0	their	travel to	Ewood Park	0	LOCATION
+1.0	their	travel to	Emirates Stadium	0	0
+1.0	we	have do against	they	0	DATE
+1.0	their	have	league standing	O	O
+1.0	Arsene Wenger 's side	have score	13 goal in they last three match	PERSON	NUMBER
+1.0	the forward	surprise more	the forward	0	0
+1.0	he	have	little setback	0	0
+1.0	Arsenal	have score	nine goal	0	NUMBER
+1.0	their	travel at_time	two day	0	DATE
+1.0	front man Morten Gamst Pedersen	have	side	O	O
+1.0	Ryan Nelson	be by	end	PERSON	DATE
+1.0	confidence	come after	win game	0	0
+1.0	Arsene Wenger	have	side	O	PERSON
+1.0	Arsenal	have score	nine goal in they two game	0	NUMBER
+1.0	four match	be in	row	NUMBER	0
+1.0	's	be	fun	0	0
+1.0	he	have again	setback	0	0
+1.0	Emmanuel Adebayor	return follow	spell on sideline with thigh injury	PERSON	0
+1.0	sideline	be with	thigh injury	0	0
+1.0	Ryan Nelson	be	still injure	PERSON	0
+1.0	victories	have	run	O	O

@@ -1,0 +1,234 @@
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in skiing resort on Tuesday	PERSON	DATE
+1.0	catalogue	have	possession	O	O
+1.0	people	have	three	NUMBER	O
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	french newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in skiing resort	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	illegal activity	be in	France	0	LOCATION
+1.0	Prokhorov 41	be arrest in	skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in chic skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be arrest in	skiing resort	NUMBER	0
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in chic skiing resort	PERSON	NUMBER
+1.0	prostitution	be	legal	0	0
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be arrest with	25 other people in raid	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in chic skiing resort on Tuesday	PERSON	DATE
+1.0	billionaire	remain	other	0	0
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	french authority	be	decide	0	0
+1.0	Mr Prokhorov	be	arrest	PERSON	0
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be arrest on	Tuesday	NUMBER	DATE
+1.0	businessmen	have	group	O	O
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	hand	be in	glove	0	0
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in skiing resort of Courchevel	PERSON	LOCATION
+1.0	spokesman	tell afp on	Thursday	0	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in skiing resort on Tuesday	NUMBER	DATE
+1.0	spokesman	tell	afp	0	0
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in chic skiing resort	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort	NUMBER	NUMBER
+1.0	authority	be	decide	0	0
+1.0	Prokhorov 41	be arrest with	25 other people in raid on they swish hotel	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in skiing resort on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	41	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in raid in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	many Russians	take	fright	MISC	0
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in skiing resort on Tuesday	NUMBER	DATE
+1.0	police investigation	be for	pimping	0	0
+1.0	Prokhorov 41	be arrest with	25 people in raid on they hotel	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in chic skiing resort	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in skiing resort	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov	celebrate at_time	Christian Orthodox New Year	PERSON	MISC
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in chic skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	people	have	list	O	O
+1.0	Prokhorov 41	be arrest in	chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be arrest with	25 people in raid on they hotel	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in chic skiing resort	PERSON	NUMBER
+1.0	authority	be	decide Friday	0	DATE
+1.0	Prokhorov 41	be arrest with	25 other people in raid on they hotel	NUMBER	NUMBER
+1.0	Mr Prokhorov	be arrest with	25 people in raid	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid in chic skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest in skiing resort on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	billionaire	remain	around 10 other	0	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in raid in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	prostitution	be	even legal	0	0
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	one	have	CEO	O	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in skiing resort of Courchevel	PERSON	LOCATION
+1.0	French authorities	have	hotel	O	O
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be arrest with	25 other people in raid on they swish hotel	PERSON	NUMBER
+1.0	man	have	arrest	O	O
+1.0	Mr Prokhorov	be	arrest with 25 other people in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in chic skiing resort	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Courchevel	have	skiing resort	O	LOCATION
+1.0	employee	be in	ski shop	0	0
+1.0	Norilsk Nickel	be in	Moscow	ORGANIZATION	LOCATION
+1.0	Prokhorov 41	be arrest with	25 other people in raid	NUMBER	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in chic skiing resort on Tuesday	PERSON	DATE
+1.0	french authority	be	decide Friday	0	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be arrest with	25 people in raid	NUMBER	NUMBER
+1.0	Prokhorov 41	be arrest in	chic skiing resort	NUMBER	0
+1.0	pimping	activity in	France	0	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	eight woman	be in	20s	NUMBER	NUMBER
+1.0	Mr Prokhorov	be arrest in	skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	Forbes magazine	have	list	O	O
+1.0	girls	have	catalogue	O	O
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in chic skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	world	of	wealthiest people	0	0
+1.0	Mr Prokhorov	be arrest with	25 people	PERSON	NUMBER
+1.0	discreet prostitution	be	even legal	0	0
+1.0	Prokhorov 41	be	arrest	NUMBER	0
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in skiing resort on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	austrian man	be in	possession of catalogue of call girl	0	0
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be arrest in	chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	authority	decide at_time	Friday	0	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be arrest with	25 people in raid on they swish hotel	PERSON	NUMBER
+1.0	men	have	one	NUMBER	O
+1.0	Courchevel	be with	group of russian businessman	LOCATION	0
+1.0	Mr Prokhorov	be arrest in	skiing resort	PERSON	0
+1.0	Mr Prokhorov	be arrest with	25 other people	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people on Tuesday	NUMBER	DATE
+1.0	Forbes magazine	on	list of wealthiest people	ORGANIZATION	0
+1.0	french authority	decide at_time	Friday	0	DATE
+1.0	Prokhorov 41	be	arrest in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	planet	have	men	O	O
+1.0	Mr Prokhorov	be	arrest with 25 people in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be arrest on	Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be arrest with	25 people	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in raid in skiing resort on Tuesday	NUMBER	DATE
+1.0	Mikhail Prokhorov	ceo of	Russian metal	PERSON	MISC
+1.0	Mr Prokhorov	be	arrest in skiing resort on Tuesday	PERSON	DATE
+1.0	Le Parisen	be	french	ORGANIZATION	0
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they hotel on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they hotel in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in chic skiing resort	PERSON	NUMBER
+1.0	employee	tell	daily	0	SET
+1.0	Prokhorov 41	be	arrest with 25 people in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in chic skiing resort on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be arrest with	25 other people in raid on they hotel	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	shop owners	have	dismay	O	O
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be arrest in	chic skiing resort	PERSON	0
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel in chic skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 other people on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel on Tuesday	NUMBER	DATE
+1.0	matter	have	heart	O	O
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be arrest with	25 people in raid on they swish hotel	NUMBER	NUMBER
+1.0	Prokhorov 41	be arrest with	25 other people	NUMBER	NUMBER
+1.0	25 other people in a raid on their swish hotel	have	20s	NUMBER	O
+1.0	Mr Prokhorov	be	arrest with 25 people in raid in chic skiing resort	PERSON	NUMBER
+1.0	Mr Prokhorov	be	arrest with 25 people in chic skiing resort of Courchevel	PERSON	LOCATION
+1.0	25 other people	be in	raid on they swish hotel	NUMBER	0
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in chic skiing resort	NUMBER	NUMBER
+1.0	discreet prostitution	be	legal	0	0
+1.0	Prokhorov 41	be	arrest with 25 people in raid in chic skiing resort of Courchevel on Tuesday	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid on Tuesday	NUMBER	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in skiing resort of Courchevel	PERSON	LOCATION
+1.0	Prokhorov 41	be	arrest with 25 people in raid on they swish hotel in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they hotel on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	state prosecutor	tell	afp	0	0
+1.0	planet	of	richest man	0	0
+1.0	Prokhorov 41	be	arrest with 25 other people in raid on they hotel in chic skiing resort	NUMBER	NUMBER
+1.0	Russians	take	fright	MISC	0
+1.0	world	have	people	O	O
+1.0	Mr Prokhorov	be	arrest with 25 other people in raid on they swish hotel in chic skiing resort of Courchevel on Tuesday	PERSON	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in skiing resort	PERSON	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 other people in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Mr Prokhorov	be	arrest with 25 people in raid on they swish hotel on Tuesday	PERSON	DATE
+1.0	Mr Prokhorov	be	arrest with 25 other people in skiing resort on Tuesday	PERSON	DATE
+1.0	Prokhorov 41	be	arrest with 25 other people in raid in chic skiing resort on Tuesday	NUMBER	DATE
+1.0	Prokhorov 41	be	arrest with 25 people in raid in skiing resort	NUMBER	NUMBER
+1.0	Prokhorov 41	be	arrest with 25 people in skiing resort of Courchevel	NUMBER	LOCATION
+1.0	Russian metals	have	CEO	O	O

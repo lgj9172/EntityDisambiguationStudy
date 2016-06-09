@@ -1,0 +1,121 @@
+1.0	John Browne	be	retire as executive of energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of schedule	PERSON	DATE
+1.0	John Browne	retire as	chief executive	PERSON	0
+1.0	exploration	have	head	O	O
+1.0	John Browne	be	retire as chief executive at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive at end	PERSON	DATE
+1.0	June	have	end	DATE	DATE
+1.0	John Browne	retire at	end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end 18 month ahead of schedule	PERSON	DATE
+1.0	energy group BP	have	executive	O	ORGANIZATION
+1.0	John Browne	be	retire of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive	PERSON	0
+1.0	John Browne	be	retire as executive of british energy group bp at end of schedule	PERSON	DATE
+1.0	John Browne	retire at	end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire at end ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	retire at	end	PERSON	DATE
+1.0	John Browne	be	retire at end of June ahead of schedule	PERSON	DATE
+1.0	BP	have	head	O	ORGANIZATION
+1.0	John Browne	be	retire as executive of british energy group bp at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire at end of June ahead	PERSON	DATE
+1.0	company	announce on	Friday	0	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June 18 month ahead	PERSON	DATE
+1.0	schedule	have	retire	O	O
+1.0	John Browne	be	retire	PERSON	0
+1.0	John Browne	be	retire as executive at end 18 month ahead	PERSON	DATE
+1.0	production	have	head	O	O
+1.0	John Browne	retire as	chief executive of energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	retire as	executive of british energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June of schedule	PERSON	DATE
+1.0	John Browne	retire as	chief executive of british energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive	PERSON	0
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June	PERSON	DATE
+1.0	John Browne	retire at	end of June	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end of June	PERSON	DATE
+1.0	BP	have	head of exploration	ORGANIZATION	DURATION
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive at end 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end ahead of schedule	PERSON	DATE
+1.0	John Browne	retire as	executive	PERSON	0
+1.0	John Browne	be	retire at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp	PERSON	DATE
+1.0	bp	be of	british	0	0
+1.0	John Browne	be	retire at end 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive at end ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June	PERSON	DATE
+1.0	John Browne	retire as	executive of energy group bp	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end of June 18 month ahead	PERSON	DATE
+1.0	John Browne	retire of	schedule	PERSON	0
+1.0	John Browne	be	retire as executive at end ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of energy group bp at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	retire at	end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire at end of June 18 month ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end ahead	PERSON	DATE
+1.0	John Browne	be	retire at end of June	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June ahead of schedule	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive at end of schedule	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end	PERSON	DATE
+1.0	John Browne	be	retire as executive of energy group bp at end ahead of schedule	PERSON	DATE
+1.0	Tony Hayward	head of	exploration	PERSON	DURATION
+1.0	John Browne	be	retire at end of schedule	PERSON	DATE
+1.0	John Browne	be	retire at end of June of schedule	PERSON	DATE
+1.0	John Browne	be	retire at end	PERSON	DATE
+1.0	John Browne	retire at	end ahead	PERSON	DATE
+1.0	John Browne	be	retire at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as executive of british energy group bp at end 18 month ahead	PERSON	DATE
+1.0	John Browne	be	retire as chief executive of british energy group bp at end of June	PERSON	DATE
+1.0	John Browne	be	retire as chief executive at end 18 month ahead of schedule	PERSON	DATE

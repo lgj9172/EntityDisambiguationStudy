@@ -1,0 +1,11 @@
+1.0	Peru	have	Gonzalo Garcia	LOCATION	PERSON
+1.0	Gonzalo Garcia	be deputy foreign minister of	Peru	PERSON	LOCATION
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel at_time	Wednesday	LOCATION	DATE
+1.0	AFP photographer Jaime Razuri	have	liberation	O	PERSON
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	seek	liberation	LOCATION	0
+1.0	Jaime Razuri	be of	afp	PERSON	0
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel to	Gaza Strip	LOCATION	LOCATION
+1.0	Peru	have	Deputy Foreign Minister Gonzalo Garcia	PERSON	LOCATION
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	have	office	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Garcia	travel to	Gaza Strip later	LOCATION	DATE

@@ -1,0 +1,18 @@
+1.0	Metroliner	be	short-distance aircraft	0	0
+1.0	Metroliner	be	19-seat	0	0
+1.0	Metroliner	be	turboprop-powered short-distance 19-seat aircraft	0	0
+1.0	Federal Aviation Administration	require near	US airport	ORGANIZATION	LOCATION
+1.0	Metroliner	be	turboprop-powered 19-seat aircraft	0	0
+1.0	plane	have	meters	O	O
+1.0	Metroliner	be	short-distance	0	0
+1.0	Metroliner	be	turboprop-powered aircraft	0	0
+1.0	smaller plane	of meter be	50 foot	0	NUMBER
+1.0	Metroliner	be	aircraft	0	0
+1.0	Metroliner	be	turboprop-powered short-distance aircraft	0	0
+1.0	Metroliner	be	19-seat aircraft	0	0
+1.0	Metroliner	be	short-distance 19-seat aircraft	0	0
+1.0	NTSB	ask	Federal Aviation Administration	ORGANIZATION	ORGANIZATION
+1.0	Frontier flight crew	see	Swearingen Metroliner	ORGANIZATION	ORGANIZATION
+1.0	NTSB	ask federal aviation administration in	November	ORGANIZATION	DATE
+1.0	other	have	feet	O	O
+1.0	Metroliner	be	turboprop-powered	0	0

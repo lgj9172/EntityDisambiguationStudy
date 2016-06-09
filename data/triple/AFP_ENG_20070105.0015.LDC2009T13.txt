@@ -1,0 +1,24 @@
+1.0	incidents	have	series	O	O
+1.0	the toy guns	have	Some	O	O
+1.0	Taliban attacks	have	target	O	O
+0.6529024101318154	International Security Assistance Force	say at_time	Thursday	ORGANIZATION	DATE
+1.0	International Security Assistance Force soldier	kill	civilian	ORGANIZATION	0
+1.0	its troops	have report increase in	number	0	0
+1.0	Major Dominic Whyte	would urge	parent	0	0
+0.8196832549677379	its troops	be	play	0	0
+1.0	mistakes	have	one	NUMBER	O
+0.6529024101318154	International Security Assistance Force	say in	statement	ORGANIZATION	0
+1.0	nato-led force	have urge	parent	0	0
+1.0	its	have	mistakes	O	O
+1.0	parents	have	children	O	O
+1.0	series	may	may have attacker	0	0
+1.0	International Security Assistance Force	have	troops	O	O
+1.0	force	have urge	parent	0	0
+1.0	replica toy guns	have	number	O	O
+1.0	civilian	fear	International Security Assistance Force -LRB- ISAF -RRB- soldiers	0	0
+1.0	nato-led force	be in	Afghanistan	0	LOCATION
+1.0	its troops	have report increase in	number of replica gun	0	0
+1.0	its troops	have report	increase	0	0
+0.8196832549677379	its troops	be play with	with child	0	0
+1.0	International Security Assistance Force soldier	target of	Taliban attack	ORGANIZATION	ORGANIZATION
+0.6529024101318154	International Security Assistance Force	say at_time	late Thursday	ORGANIZATION	DATE

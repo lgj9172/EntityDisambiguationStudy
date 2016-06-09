@@ -1,0 +1,23 @@
+0.6159993812701925	broad-market Standard	preliminary close	Poor 's index	ORGANIZATION	ORGANIZATION
+0.45736629914078963	four gigabyte version	price at	499 dollar	NUMBER	MONEY
+1.0	day	have	trading	O	DURATION
+1.0	day	after	trading	DURATION	0
+1.0	Apple Computer	iphone	all player	0	0
+0.6159993812701925	broad-market Standard	preliminary close	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	US share	end after	day 's trading	LOCATION	DURATION
+1.0	12,416.44	at point be	0.06 percent	NUMBER	PERCENT
+1.0	Nasdaq composite	finish up at	2,443.83	MISC	NUMBER
+1.0	broad-market Standard	shed	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	US share	end at_time	mixed Tuesday	LOCATION	DATE
+1.0	Poor	have	index	O	ORGANIZATION
+0.6159993812701925	broad-market Standard	close	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	US share	end after	volatile day 's trading	LOCATION	DURATION
+1.0	1,412.10	have	close	O	NUMBER
+1.0	US share	end at_time	Tuesday	LOCATION	DATE
+0.6159993812701925	broad-market Standard	close	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	broad-market Standard	shed	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	Nasdaq composite	finish at	2,443.83	MISC	NUMBER
+1.0	US share	end	mixed	LOCATION	0
+1.0	iPhone	have	versions	O	O
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	Apple Computer	have	iPhone	O	O

@@ -1,0 +1,58 @@
+1.0	UN peacekeeping force	disarm	The Shiite militant group Hezbollah	ORGANIZATION	ORGANIZATION
+1.0	Shiite	have	guerrillas	O	O
+1.0	Lebanon	have	Hezbollah	LOCATION	ORGANIZATION
+1.0	organization	have	number	O	O
+1.0	Al-Qaeda operatives	have	Dozens	O	O
+1.0	Major General Amos Yadlin	tell	parliamentary affair	PERSON	0
+1.0	United Nations Interim Force	have	up	O	ORGANIZATION
+1.0	the parliamentary committee	have	forces	O	O
+1.0	its guerrilla	capture	two israeli soldier in cross	0	NUMBER
+1.0	committee	have	member	O	O
+1.0	jewish state	respond with	assault on Lebanon	0	LOCATION
+1.0	rockets	have	thousands	O	O
+1.0	summer	follow	war with Israel	DATE	LOCATION
+1.0	Yediot Aharonot newspaper	have	web site	O	O
+1.0	Israel 's intelligence chief	claim at_time	Tuesday	LOCATION	DATE
+1.0	hezbollah	kill around	most of soldier	0	0
+1.0	resolution	be in	August	0	DATE
+1.0	The Shiite militant group Hezbollah	be	shiite	ORGANIZATION	0
+1.0	jewish state	respond with	assault	0	0
+1.0	Israel 's	have	intelligence chief	O	LOCATION
+1.0	jewish state	respond with	deadly assault	0	0
+1.0	two israeli soldier	be in	cross	NUMBER	0
+1.0	border raid	be in	July	0	DATE
+1.0	Israel	be	Haifa	LOCATION	LOCATION
+1.0	its guerrilla	capture	two israeli soldier	0	NUMBER
+1.0	hezbollah	fire	thousand	0	0
+1.0	its guerrilla	capture	two soldier	0	NUMBER
+1.0	Yuval Steinitz	tell	army radio	PERSON	ORGANIZATION
+1.0	Major General Amos Yadlin	tell	foreign affair	PERSON	0
+1.0	Yuval Steinitz	member of	parliamentary committee	PERSON	0
+1.0	its guerrilla	capture	two soldier in cross	0	NUMBER
+1.0	hezbollah	kill around	most	0	0
+1.0	Lebanon	have	Hezbollah	ORGANIZATION	LOCATION
+1.0	Israel 's	have	military intelligence chief	LOCATION	0
+1.0	hezbollah	fire thousand at	Israel 's	0	LOCATION
+1.0	hezbollah	kill around	160 Israelis	0	MISC
+1.0	dozen	arrive in	Lebanon 's	0	LOCATION
+0.9179690944654578	hezbollah	thousand of	rocket	0	0
+1.0	soldiers	have	most	O	O
+1.0	Major General Amos Yadlin	tell	parliamentary foreign affair	PERSON	0
+1.0	Major General Amos Yadlin	be quote by	army radio	PERSON	0
+1.0	Israel 's	have	arsenal	O	O
+1.0	rockets	have	arsenal	O	O
+1.0	state	respond with	assault	0	0
+1.0	arms	have	arsenal	O	O
+1.0	hezbollah	fire thousand at	northern Israel	0	LOCATION
+1.0	Israelis	most of	soldier	MISC	0
+1.0	Al-Qaeda	have	presence	O	O
+1.0	Major General Amos Yadlin	be	quote	PERSON	0
+1.0	arms	have	traffic	O	O
+1.0	summer	have	war	O	DATE
+1.0	UN peacekeeping force	be do	nothing	ORGANIZATION	0
+1.0	state	respond with	assault on Lebanon	0	LOCATION
+1.0	last summer 's war	be with	Israel 's	DATE	LOCATION
+1.0	hezbollah	fire	thousand of rocket	0	0
+1.0	Israel 's military intelligence chief	claim at_time	Tuesday	LOCATION	DATE
+1.0	Major General Amos Yadlin	tell	affair	PERSON	0
+1.0	state	respond with	deadly assault	0	0

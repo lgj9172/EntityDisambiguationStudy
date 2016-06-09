@@ -1,0 +1,77 @@
+1.0	passenger jets	have	development	O	O
+1.0	pressure	increase	level	0	0
+1.0	delivery	be run	two year result	0	DURATION
+1.0	The chief executive of Airbus , Louis Gallois	have	plan	O	O
+1.0	it	lead to	vast reorganisation	0	0
+1.0	delivery	be run	two year	0	DURATION
+1.0	Louis Gallois	visit factory at	Meaulte	PERSON	LOCATION
+1.0	it	be expect	lead to reorganisation of Airbus ' manufacturing activity	0	ORGANIZATION
+1.0	Airbus	have	production sites	O	O
+1.0	Paris	have	north	O	LOCATION
+1.0	Airbus	unveil	cost-cutting target	ORGANIZATION	0
+1.0	delivery	fund	development of passenger jet	0	0
+1.0	Airbus	have	manufacturing activity	O	ORGANIZATION
+1.0	Louis Gallois	visit	third factory	PERSON	ORDINAL
+1.0	manufacturing activity	have	reorganisation	O	O
+1.0	dollar	have	weakness	O	O
+1.0	pressure	increase	higher level	0	0
+1.0	it	be expect	lead to vast reorganisation	0	0
+1.0	it	be expect	lead to vast reorganisation of Airbus ' manufacturing activity	0	ORGANIZATION
+1.0	pressure	increase	level of outsourcing	0	0
+1.0	Louis Gallois	visit	factory	PERSON	0
+1.0	CFDT trade union	have	secretary	O	O
+1.0	Airbus	unveil	target	ORGANIZATION	0
+1.0	its intention	implement	power 8	0	NUMBER
+1.0	delivery	fund	development of other passenger jet	0	0
+1.0	it	be expect	lead to reorganisation	0	0
+1.0	main problem	face airbus during	he visit	0	0
+1.0	Power 8	have	intention	O	O
+1.0	main problem	face	Airbus	0	ORGANIZATION
+1.0	Power 8	have	superjumbo A380 airliner	O	O
+0.42879544822507937	aim	save	2.0 billion euro per year	0	DATE
+1.0	delivery	fund	development of other passenger jet notably	0	0
+0.42879544822507937	aim	save 2.0 billion euro per year from	2010	0	DATE
+1.0	it	lead to	vast reorganisation of Airbus ' manufacturing activity	0	ORGANIZATION
+1.0	pressure	increase	higher level of outsourcing	0	0
+1.0	plan	be	set	0	0
+1.0	Airbus	be	Louis Gallois	ORGANIZATION	PERSON
+1.0	it	be expect	lead	0	0
+1.0	Airbus	overhaul	its 16 european production site	ORGANIZATION	NUMBER
+1.0	trade union source	tell	AFP	0	ORGANIZATION
+1.0	superjumbo A380 airliner	have	manufacturing	O	O
+1.0	problem	face airbus during	he visit	0	0
+1.0	delivery	be run	two year result in cost over-run	0	DURATION
+1.0	it	lead to	reorganisation of Airbus ' manufacturing activity	0	ORGANIZATION
+0.42879544822507937	aim	save	2.0 billion euro	0	MONEY
+1.0	delivery	be run	two year behind schedule	0	DURATION
+1.0	representative	tell	afp	0	0
+1.0	delivery	fund	development	0	0
+1.0	CFDT trade union	be in	Nantes factory	ORGANIZATION	ORGANIZATION
+1.0	plan	include	job loss	0	0
+1.0	outsourcing	have	level	O	O
+1.0	Louis Gallois	visit factory at	north	PERSON	0
+1.0	Power	have	details	O	O
+1.0	Meaulte	north of	Paris	LOCATION	LOCATION
+1.0	year from 2010	per euro be	2.6 billion dollar	DATE	MONEY
+1.0	Airbus	have	executive	O	ORGANIZATION
+1.0	Louis Gallois	visit factory in	France	PERSON	LOCATION
+1.0	delivery	be run	two year behind schedule result in cost over-run	0	DURATION
+1.0	February	have	beginning	DATE	DATE
+1.0	Louis Gallois	have outline	main problem	PERSON	0
+1.0	Louis Gallois	visit factory on	Wednesday	PERSON	DATE
+1.0	Nantes Saint Nazaire	have	cities	O	ORGANIZATION
+0.42879544822507937	aim	save 2.0 billion euro from	2010	0	DATE
+1.0	Airbus	announce plan in	October	ORGANIZATION	DATE
+1.0	problem	face	Airbus	0	ORGANIZATION
+1.0	A380	have	Deliveries	O	O
+1.0	Airbus	announce	plan	ORGANIZATION	0
+1.0	Louis Gallois	have	visit	O	O
+1.0	Force Ouvriere trade union	have	representative	O	O
+1.0	Airbus	overhaul	its 16 production site	ORGANIZATION	NUMBER
+1.0	Christian Brizais	secretary of	CFDT trade union in Nantes factory	PERSON	ORGANIZATION
+1.0	Louis Gallois	have outline	problem	PERSON	0
+1.0	it	lead to	reorganisation	0	0
+1.0	trade union source	tell afp at_time	Wednesday	0	DATE
+1.0	it	be	expect	0	0
+1.0	delivery	be run	two year behind schedule result	0	DURATION
+1.0	delivery	fund	development of passenger jet notably	0	0

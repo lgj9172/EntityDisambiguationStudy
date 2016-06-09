@@ -1,0 +1,27 @@
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	congratulate	slovenian authority	0	0
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	congratulate	authority	0	0
+1.0	hour	appear	run	0	0
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	congratulate	Slovenia on Monday	ORGANIZATION	LOCATION
+1.0	first hour	appear with	bank	DURATION	0
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	urge	consumer	ORGANIZATION	0
+1.0	people	involve in	changeover operation	0	0
+1.0	first hour	appear	run	DURATION	0
+1.0	first hour	appear	run smoothly	DURATION	0
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	join	eurozone	ORGANIZATION	0
+1.0	Joaquin Almunia	be commissioner of	European Monetary Affairs	PERSON	ORGANIZATION
+1.0	Slovenia on Monday	be first	that become in 2004	LOCATION	DATE
+1.0	countries	have	first	ORDINAL	O
+1.0	EU enlargement	have	country	O	O
+1.0	country	adopt	euro	0	0
+1.0	Slovenia on Monday	be first	that become	LOCATION	0
+1.0	hour	appear with	bank	0	0
+1.0	move	have	hours	DURATION	O
+1.0	first country	adopt	euro	ORDINAL	0
+1.0	this	be	day	0	DURATION
+1.0	European Union	have	members	O	ORGANIZATION
+1.0	hour	appear	run smoothly	0	0
+1.0	this	be	important	0	0
+1.0	Joaquin Almunia	be	European Monetary Affairs	PERSON	ORGANIZATION
+1.0	European Monetary Affairs Commissioner Joaquin Almunia	congratulate	Slovenia	ORGANIZATION	LOCATION
+1.0	this	be	important day	0	DURATION
+1.0	Slovenia	be on	Monday	LOCATION	DATE

@@ -1,0 +1,76 @@
+1.0	Cesare Salvi	consult with	he counterpart in house	0	0
+1.0	Family Minister Rosy Bindi	have	Equality Minister Barbara Pollastrini	PERSON	PERSON
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present legislation	PERSON	DATE
+1.0	Family Minister Rosy Bindi	have yet	Equality Minister Barbara Pollastrini	PERSON	PERSON
+1.0	Cesare Salvi	consult in	recent day	0	DURATION
+1.0	Romano Prodi	have	government elect last April	PERSON	DATE
+0.5031472098136189	opposition	lead by	Forza Italia	0	ORGANIZATION
+1.0	Forza Italia	have	Isabella Bertolini	PERSON	ORGANIZATION
+1.0	its	have	mouthpiece L'Osservatore	PERSON	O
+1.0	Prodi	have	Union	O	PERSON
+1.0	dispute	have	subject	O	O
+1.0	Left	have	Democrats	MISC	O
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present propose legislation by end of month	PERSON	DATE
+1.0	Senate	have	justice committee	O	ORGANIZATION
+1.0	Forza Italia 's Isabella Bertolini	say at_time	month	ORGANIZATION	DATE
+1.0	Prime Minister Romano Prodi 's government	have pledge to	propose legislation	PERSON	0
+1.0	Prodi	within	Union	PERSON	0
+1.0	unions	have	recognition	O	O
+1.0	the government	have	proposal	O	O
+1.0	Pollastrini	belong to	Democrats	PERSON	MISC
+1.0	Senate 's justice committee	examine	proposal	ORGANIZATION	0
+1.0	government	have	draft bill	O	O
+0.9129447633152606	Cesare Salvi	member of	Democrats of leave	PERSON	MISC
+1.0	Forza Italia	have	Isabella Bertolini	ORGANIZATION	PERSON
+1.0	Prodi 's motley coalition	unite behind	initiative	PERSON	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present legislation by end	PERSON	DATE
+0.5031472098136189	italian opposition	lead by	Forza Italia former minister Silvio Berlusconi	0	ORGANIZATION
+1.0	Pollastrini	belong to	largest coalition member	PERSON	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	legislation by end of month	PERSON	DATE
+1.0	Forza Italia	be of	Silvio Berlusconi	ORGANIZATION	PERSON
+1.0	Prime Minister Romano Prodi 's government	have pledge to	legislation by end	PERSON	DATE
+1.0	civil union	pledge of	center-left government in socially conservative Italy	0	LOCATION
+1.0	legislation	would apply to	couple	0	0
+1.0	Prodi 's motley coalition	be	able	PERSON	0
+1.0	politics	have	priority	O	O
+1.0	Prime Minister Romano Prodi	have	government	O	PERSON
+1.0	Prime Minister Romano Prodi 's government	have pledge to	propose legislation by end of month	PERSON	DATE
+1.0	Cesare Salvi	consult in	day	0	0
+1.0	their	have	orientation	O	O
+1.0	Rosy Bindi	be	member	PERSON	0
+1.0	its	l'osservatore	l'osservatore Romano	0	PERSON
+1.0	center-left government	be in	Italy	0	LOCATION
+0.9129447633152606	Cesare Salvi	member of	Democrats	PERSON	MISC
+1.0	Prodi	have	motley coalition	PERSON	0
+1.0	its	have	election manifesto	O	O
+1.0	month	have	end	DATE	DATE
+1.0	Pollastrini	belong to	coalition member	PERSON	0
+1.0	italian Senate 's justice committee	examine	proposal	ORGANIZATION	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present propose legislation by end	PERSON	DATE
+1.0	Rosy Bindi	be member of	catholic-rooted Daisy party	PERSON	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present legislation by end of month	PERSON	DATE
+0.5031472098136189	italian opposition	lead by	Forza Italia	0	ORGANIZATION
+1.0	government	have	election pledge	O	O
+1.0	Cesare Salvi	have	counterpart	O	O
+1.0	Forza Italia 's Isabella Bertolini	say at_time	last month	ORGANIZATION	DATE
+0.5031472098136189	italian opposition	lead by	Forza Italia former prime minister Silvio Berlusconi	0	ORGANIZATION
+1.0	Rosy Bindi	be member of	Daisy party	PERSON	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	present propose legislation	PERSON	DATE
+0.5031472098136189	opposition	lead by	Forza Italia former minister Silvio Berlusconi	0	ORGANIZATION
+1.0	legislation	would apply without	reference	0	0
+1.0	Cesare Salvi	consult with	he counterpart in lower house	0	0
+1.0	he counterpart	be in	lower house	0	0
+1.0	visit rights	be in	prison	0	0
+1.0	Prime Minister Romano Prodi 's government	have pledge to	propose legislation by end	PERSON	DATE
+0.5031472098136189	opposition	lead by	Forza Italia former prime minister Silvio Berlusconi	0	ORGANIZATION
+1.0	plan	charge in	editorial	0	0
+1.0	Cesare Salvi	member of	Democrats	PERSON	MISC
+1.0	Prime Minister Romano Prodi 's government	have pledge to	legislation	PERSON	0
+1.0	Daisy party	have	member	O	O
+1.0	Prodi	have	motley coalition	O	PERSON
+1.0	minister Silvio Berlusconi	have	Forza Italia	ORGANIZATION	PERSON
+1.0	Pollastrini	belong to	Democrats of leave	PERSON	MISC
+1.0	Democrats	have	member	O	MISC
+1.0	Cesare Salvi	consult with	he counterpart	0	0
+1.0	Family Minister Rosy Bindi	be draft	proposal	PERSON	0
+1.0	largest coalition member	democrats of	leave	0	0

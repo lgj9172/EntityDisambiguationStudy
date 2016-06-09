@@ -1,0 +1,40 @@
+1.0	Alexander Litvinenko	be of	russian	PERSON	0
+1.0	Alexander Litvinenko	accuse	russian President Vladimir Putin of involvement	PERSON	PERSON
+1.0	spy Alexander Litvinenko	have	poisoning death	O	PERSON
+1.0	Litvinenko	have	death	O	PERSON
+1.0	Hollywood	be	report	0	0
+1.0	Alexander Litvinenko	apparently accuse	russian President Vladimir Putin of involvement	PERSON	PERSON
+1.0	Alexander Litvinenko	accuse	President Vladimir Putin	PERSON	PERSON
+1.0	Alexander Litvinenko	apparently accuse	President Vladimir Putin of involvement	PERSON	PERSON
+1.0	Alexander Litvinenko	apparently accuse president vladimir putin in	he murder	PERSON	0
+1.0	Alexander Litvinenko	apparently accuse	President Vladimir Putin	PERSON	PERSON
+1.0	police	be investigate	death	0	0
+1.0	Litvinenko 's death	be in	London	PERSON	LOCATION
+1.0	Alexander Litvinenko	accuse	russian President Vladimir Putin	PERSON	PERSON
+1.0	Alexander Litvinenko	apparently accuse	russian President Vladimir Putin	PERSON	PERSON
+1.0	Charlie	have	Pirates	O	O
+1.0	Hollywood	be report at_time	Friday	0	DATE
+1.0	Litvinenko	about	death in London	PERSON	LOCATION
+1.0	London hospital	be in	November	LOCATION	DATE
+1.0	Alexander Litvinenko	die from	radiation poisoning	PERSON	0
+1.0	Alexander Litvinenko	die in	London hospital in November	PERSON	DATE
+1.0	involvement	have	President Vladimir Putin	PERSON	O
+1.0	Variety	be	daily	ORGANIZATION	SET
+1.0	Vladimir Putin	be	russian	PERSON	0
+1.0	Pirates	have	star	O	O
+1.0	Litvinenko	on	death	PERSON	0
+1.0	Hollywood heart-throb Johnny Depp	star of	pirate	PERSON	0
+1.0	Warner Bros for Depp	for	production company develop	ORGANIZATION	0
+1.0	Russian President Vladimir Putin of involvement	have	murder	O	O
+1.0	Chocolate Factory	have	Pirates	O	O
+1.0	Alexander Litvinenko	die in	London hospital	PERSON	LOCATION
+1.0	Hollywood	be report here at_time	Friday	0	DATE
+1.0	Alexander Litvinenko	accuse	President Vladimir Putin of involvement	PERSON	PERSON
+1.0	Alan Cowell	journalist at	New York Times	PERSON	ORGANIZATION
+1.0	Depp	have	production company	O	ORGANIZATION
+1.0	Caribbean	have	Pirates	O	LOCATION
+1.0	Hollywood	be	report here	0	0
+1.0	Alexander Litvinenko	accuse president vladimir putin in	he murder	PERSON	0
+1.0	Johnny Depp	be	Hollywood	PERSON	LOCATION
+1.0	Johnny Depp	be heart-throb of	Hollywood	PERSON	LOCATION
+1.0	police	be in	Britain	0	LOCATION

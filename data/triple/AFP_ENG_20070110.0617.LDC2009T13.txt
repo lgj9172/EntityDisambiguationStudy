@@ -1,0 +1,57 @@
+1.0	Florida	have	Palm Beach	LOCATION	LOCATION
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar	0	MONEY
+1.0	picturesque community	begin in	1920	0	DATE
+1.0	its 488 residents	have	lots	O	O
+1.0	Briny Breezes	community of	millionaire	0	MONEY
+1.0	resident	be subdivide with	home lot go from 2,000 dollar in 1960s to 129,000 dollar in 2000	0	DATE
+1.0	beaches	have	meters	O	O
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar to 129,000 dollar in 2000	0	DATE
+1.0	developer	have	offer	0	0
+1.0	resident	be subdivide with	mobile home lot	0	0
+1.0	developer	have	offer	O	O
+1.0	war	have	tug	O	O
+1.0	Briny Breezes	become	community of millionaire	0	MONEY
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar in 1960s	0	DATE
+1.0	resident	be subdivide with	mobile home lot go to 129,000 dollar	0	MONEY
+1.0	resident	be subdivide with	home lot go to 129,000 dollar in 2000	0	DATE
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar in 1960s to 129,000 dollar	0	DATE
+1.0	decision	come after	year	0	DURATION
+1.0	resident	be	subdivide	0	0
+1.0	community	begin in	1920	0	DATE
+1.0	Briny Breezes	park in	Palm Beach	0	LOCATION
+1.0	Florida	in	Palm Beach	LOCATION	LOCATION
+1.0	resident	be subdivide with	home lot go	0	0
+1.0	real estate	be in	Palm Beach	0	LOCATION
+1.0	The tourists	have	trailers	O	O
+1.0	129,000 dollar	be in	2000	MONEY	DATE
+1.0	farmer	allow	tourist	0	0
+1.0	2,000 dollar	be in	the 1960s	MONEY	DATE
+1.0	Briny Breezes	become at_time	Wednesday	0	DATE
+1.0	resident	be subdivide with	home lot go from 2,000 dollar in 1960s	0	DATE
+1.0	resident	be subdivide with	home lot	0	0
+1.0	share holders	have	desire	O	O
+1.0	its resident	sell	they lot	0	0
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar to 129,000 dollar	0	MONEY
+1.0	Briny Breezes	become	community	0	0
+1.0	resident	be subdivide with	home lot go from 2,000 dollar to 129,000 dollar in 2000	0	DATE
+1.0	resident	be subdivide with	mobile home lot go to 129,000 dollar in 2000	0	DATE
+1.0	resident	be subdivide with	home lot go from 2,000 dollar	0	MONEY
+1.0	resident	subdivide	property	0	0
+1.0	sandy beach	of meter be	660 foot	0	NUMBER
+1.0	tourist	park	they trailer	0	0
+1.0	Briny Breezes	have	residents	O	O
+1.0	resident	be subdivide with	mobile home lot go from 2,000 dollar in 1960s to 129,000 dollar in 2000	0	DATE
+1.0	a farmer	have	land	O	O
+1.0	resident	be subdivide with	home lot go to 129,000 dollar	0	MONEY
+1.0	millionaires	have	community	O	O
+1.0	a farmer	have	strawberries	O	O
+1.0	resident	be subdivide with	home lot go from 2,000 dollar in 1960s to 129,000 dollar	0	DATE
+1.0	resident	be subdivide with	home lot go from 2,000 dollar to 129,000 dollar	0	MONEY
+1.0	owners	have	percent	PERCENT	O
+1.0	community shares	have	percent	PERCENT	O
+1.0	resident	be subdivide with	mobile home lot go	0	0
+1.0	estate	have	price	O	O
+1.0	owners	have	properties	O	O
+1.0	its 488 resident	sell	they lot	NUMBER	0
+1.0	beach-front trailer park	be in	Palm Beach	0	LOCATION
+1.0	The tourists	buy	he strawberry	0	0

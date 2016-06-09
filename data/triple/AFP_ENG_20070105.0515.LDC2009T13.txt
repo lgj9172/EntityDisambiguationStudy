@@ -1,0 +1,81 @@
+1.0	rain	delay	start	0	0
+1.0	Stuart Appleby	be	australian	PERSON	0
+1.0	Mercedes-Benz Championship	have	rounds	O	O
+1.0	strong wind	make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	he	finish with	69	0	NUMBER
+1.0	he only bogey	come at	par-four fourth	0	ORDINAL
+1.0	australian Stuart Appleby	sign for	72	PERSON	NUMBER
+1.0	Vijay Singh	seize possession after	two round	PERSON	NUMBER
+1.0	wind	again make	thing difficult	0	0
+1.0	effect	be mitigate somewhat by	softer course	0	0
+1.0	he bogey	come at	par-four fourth	0	ORDINAL
+1.0	he	two-putt	finish	0	0
+1.0	tie	have	part	O	O
+1.0	fourth player	be in	Tour history	ORDINAL	MISC
+1.0	effect	be	mitigate	0	0
+1.0	pace	have	shots	O	O
+1.0	Vijay Singh	save par here at	final hole	PERSON	0
+1.0	heavy rain	delay	start of play	0	0
+1.0	Vijay Singh	save par at	hole	PERSON	0
+1.0	Vijay Singh	seize	sole possession	PERSON	0
+1.0	Vijay Singh	seize possession after	two round of Mercedes-Benz Championship	PERSON	NUMBER
+1.0	Vijay Singh	respond at	par-five fifth	0	ORDINAL
+1.0	strong wind	again make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	Vijay Singh	drain	20-foot putt	0	0
+1.0	68	share	American Will MacKenzie	NUMBER	PERSON
+1.0	Vijay Singh	save par here at	hole	PERSON	0
+1.0	Vijay Singh	seize	sole possession of lead	PERSON	0
+1.0	strong wind	make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	play	have	start	O	O
+1.0	Americans J.B. Holmes	be	three shot	PERSON	NUMBER
+1.0	effect	be mitigate by	softer course	0	0
+1.0	rain	delay	start of play	0	0
+1.0	day	have	bogey	O	DATE
+1.0	Vijay Singh	have	victory	O	O
+1.0	fijian	take	penalty stroke	0	0
+1.0	strong wind	again make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	The Fijian	have	drive	O	O
+1.0	US PGA Tour	have	event	O	O
+1.0	fijian	pull	he drive	0	0
+1.0	wind	make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	J.B. Holmes	be	Americans	PERSON	MISC
+1.0	US PGA Tour	in	season-opening event	LOCATION	0
+1.0	Vijay Singh	have	bogey	O	O
+1.0	wind	make	thing difficult	0	0
+1.0	he only bogey	come at	par-four	0	0
+1.0	wind	again make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	thing	difficult in	US PGA Tour 's season-opening event	0	LOCATION
+1.0	strong wind	again make	thing difficult	0	0
+1.0	he	two-putt	finish with 69	0	NUMBER
+1.0	South Africa	have	Trevor Immelman	PERSON	LOCATION
+1.0	lead	have	possession	O	O
+1.0	Will MacKenzie	be	American	PERSON	MISC
+1.0	wind	make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	Vijay Singh	seize possession after	two round of 5.5 million-dollar Mercedes-Benz Championship	PERSON	NUMBER
+1.0	Vijay Singh	respond at	fifth	0	ORDINAL
+1.0	Americans J.B. Holmes	be	three shot off pace	PERSON	NUMBER
+1.0	effect	be mitigate by	course	0	0
+1.0	Vijay Singh	save par at	final hole	PERSON	0
+1.0	Vijay Singh	save par here at_time	Friday	PERSON	DATE
+1.0	strong wind	make	thing difficult	0	0
+1.0	Vijay Singh	save par at_time	Friday	PERSON	DATE
+1.0	he	two-putt for	par	0	0
+1.0	wind	again make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	Vijay Singh	have	starts	O	O
+1.0	Vijay Singh	seize	possession of lead	PERSON	0
+1.0	Vijay Singh	save here	par	PERSON	0
+1.0	rain	delay start for	hour	0	DURATION
+1.0	effect	be mitigate somewhat by	course	0	0
+1.0	Vijay Singh	seize	possession	PERSON	0
+1.0	he bogey	come at	par-four	0	0
+1.0	Stuart Appleby	sign for	72	PERSON	NUMBER
+1.0	winds	have	effect	O	O
+1.0	Vijay Singh	drain	putt	0	0
+1.0	Vijay Singh	save	par	PERSON	0
+1.0	heavy rain	delay	start	0	0
+1.0	68	close	American Will MacKenzie	NUMBER	PERSON
+1.0	thing	difficult in	US PGA Tour 's event	0	LOCATION
+1.0	effect	be	mitigate somewhat	0	0
+1.0	South Africa	over	Trevor Immelman	LOCATION	PERSON
+1.0	Vijay Singh	respond with	eagle	0	0
+1.0	heavy rain	delay start for	hour	0	DURATION

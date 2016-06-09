@@ -1,0 +1,11 @@
+1.0	Argentine defender Leandro Grimi	play at	left-back	PERSON	0
+1.0	four-and-a-half year contract	be with	ac Milan	NUMBER	ORGANIZATION
+1.0	Argentine defender Leandro Grimi	retire at	end of season	0	0
+1.0	Leandro Grimi	be	argentine	PERSON	0
+1.0	Argentine defender Leandro Grimi	retire at	end	0	0
+1.0	season	have	end	O	O
+1.0	21-year-old	race	Avellaneda	DURATION	0
+1.0	Serie club	say on	Thursday	MISC	DATE
+1.0	21-year-old	be play in	Argentina	DURATION	LOCATION
+1.0	Argentine defender Leandro Grimi	provide	cover	PERSON	0
+1.0	Argentine defender Leandro Grimi	provide	cover for Milan 's 38	PERSON	NUMBER

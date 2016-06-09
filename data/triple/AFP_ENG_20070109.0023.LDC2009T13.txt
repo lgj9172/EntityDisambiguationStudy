@@ -1,0 +1,37 @@
+1.0	serbian man	have declare	indian	0	0
+1.0	serbian man	have declare	amercian indian	0	0
+0.47497830172700894	association dozen member	register in	Serbia register organisation	NUMBER	LOCATION
+0.6058161765157573	association	officially register in	Serbia register social organisation	0	LOCATION
+0.6058161765157573	association	officially register in	Serbia register organisation	0	LOCATION
+0.47497830172700894	association dozen member	officially register in	Serbia register	NUMBER	LOCATION
+1.0	association	have	dozen member	0	NUMBER
+1.0	man	have declare	amercian indian	0	0
+0.47497830172700894	association dozen member	register in	Serbia register social organisation	NUMBER	LOCATION
+1.0	Indians	have	Association	O	O
+0.47497830172700894	association dozen member	officially register in	Serbia register organisation	NUMBER	LOCATION
+0.47497830172700894	association dozen member	register in	Serbia register	NUMBER	LOCATION
+1.0	serbian man	compare	he plight	0	0
+1.0	Aleksinac	have	hamlet	O	LOCATION
+1.0	indian village	make	it	0	0
+1.0	Serbia	have	register	O	LOCATION
+1.0	association	already have	dozen member	0	NUMBER
+0.6058161765157573	association	register in	Serbia register	0	LOCATION
+0.6058161765157573	association	register in	Serbia register social organisation	0	LOCATION
+1.0	Indians	do in	the United States	MISC	LOCATION
+1.0	living condition	be in	he country	0	0
+1.0	man	compare	he plight	0	0
+1.0	capital	have	south	O	O
+1.0	town	have	centre	O	O
+1.0	organisations	have	register	O	O
+1.0	local	be in	he hamlet of Aleksinac	0	LOCATION
+1.0	justice state institutions	have	deprived	O	O
+1.0	village	make	it	0	0
+1.0	his	have	plight	O	O
+0.47497830172700894	association dozen member	officially register in	Serbia register social organisation	NUMBER	LOCATION
+1.0	man	have declare	indian	0	0
+1.0	anybody	be with	similar gripe	0	0
+1.0	his	have	country	O	O
+0.6058161765157573	association	register in	Serbia register organisation	0	LOCATION
+0.6058161765157573	association	officially register in	Serbia register	0	LOCATION
+1.0	Serbia	in	register of social organisation	LOCATION	0
+1.0	his	have	hamlet	O	O

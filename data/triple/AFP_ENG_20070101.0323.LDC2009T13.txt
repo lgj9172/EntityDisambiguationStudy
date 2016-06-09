@@ -1,0 +1,30 @@
+1.0	Iverson era	come at_time	month	PERSON	DATE
+1.0	prolific scorer	be	when trade	0	0
+1.0	success	have	lot	O	O
+1.0	The Philadelphia 76ers	have	taste	O	O
+1.0	Allen Iverson as an opponent on Tuesday	have	departure	O	PERSON
+1.0	Iverson era	come to	close after 11 year	PERSON	DATE
+1.0	Philadelphia 76er	will get	they first taste	LOCATION	ORDINAL
+1.0	Iverson era	be in	Philadelphia	PERSON	LOCATION
+1.0	Allen Iverson as an opponent on Tuesday	have	unhappiness	O	O
+1.0	scorer	be	trade	0	0
+1.0	five game	be with	Denver	NUMBER	LOCATION
+1.0	coach Maurice Cheeks	say	76er	PERSON	0
+1.0	coach Maurice Cheeks	decline	say	PERSON	0
+1.0	George Karl	be coach of	Nuggets	PERSON	ORGANIZATION
+1.0	3.0	shoot	48.6 percent	NUMBER	PERCENT
+1.0	Tuesday	have	game	O	DATE
+1.0	George Karl	be	Nuggets	PERSON	ORGANIZATION
+1.0	Allen Iverson as an opponent on Tuesday	to	departure	PERSON	0
+1.0	scorer	be	when trade	0	0
+1.0	Iverson	be in	early December	PERSON	DATE
+1.0	Tuesday	have	game	DATE	0
+1.0	Iverson era	come to	year	PERSON	0
+1.0	Philadelphia 76er	will get	they taste	LOCATION	0
+1.0	The Philadelphia 76ers	visit	Denver Nuggets	0	ORGANIZATION
+1.0	The Philadelphia 76ers	visit	Denver Nuggets in National Basketball Association contest	0	ORGANIZATION
+1.0	Allen Iverson as an opponent on Tuesday	have express	he unhappiness	PERSON	0
+1.0	Denver Nuggets	be in	National Basketball Association contest	ORGANIZATION	ORGANIZATION
+1.0	Iverson era	come to	close year	PERSON	0
+1.0	Iverson era	come at_time	last month	PERSON	DATE
+1.0	prolific scorer	be	trade	0	0

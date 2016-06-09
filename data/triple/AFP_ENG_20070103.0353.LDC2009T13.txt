@@ -1,0 +1,58 @@
+1.0	member	be	shoot	0	0
+1.0	incident	come amid	tight security	0	0
+1.0	place	district near	town of Nabeul	0	LOCATION
+1.0	tight security measure	be in	country stamp	0	0
+1.0	interior ministry	say amid	security measure in country	ORGANIZATION	0
+1.0	Wednesday 's fire fight	take	district near town of Nabeul	DATE	LOCATION
+1.0	Wednesday 's fire fight	take	place	DATE	0
+1.0	Tunis	have	suburb	O	LOCATION
+1.0	gun shots	have	exchange	O	O
+1.0	ministry	say on	Wednesday	ORGANIZATION	DATE
+1.0	member	be	during which shoot	0	0
+1.0	first raid	overnight on	December 23	ORDINAL	DATE
+0.06141471494456796	police	call	criminal	0	0
+1.0	incident	come amid	exceptionally tight security	0	0
+1.0	permission	have	have grant	0	0
+1.0	group	have	elements	O	O
+1.0	Wednesday 's fire fight	take	wooded district	DATE	0
+1.0	Wednesday 's fire fight	take	district	DATE	0
+1.0	interior ministry	say amid	tight security measure	ORGANIZATION	0
+1.0	Wednesday 's fire fight	take	district near town	DATE	0
+1.0	crimes	have	details	O	O
+1.0	Wednesday	have	fire fight	DATE	0
+1.0	ministry	say amid	security measure	ORGANIZATION	0
+1.0	incident	come amid	security	0	0
+1.0	firearm	be illegal in	Tunis	0	LOCATION
+1.0	ministry	say amid	tight security measure in country	ORGANIZATION	0
+1.0	December fire fight	leave	dead	DATE	0
+1.0	permission	have	where have grant	0	0
+1.0	Wednesday 's fire fight	take	a wooded district near the town of Nabeul	DATE	LOCATION
+1.0	Soliman	in place be	45 kilometre of capital Tunis	LOCATION	LOCATION
+1.0	incident	come in	Tunis	0	LOCATION
+1.0	Wednesday	have	fire fight	O	DATE
+1.0	elements	have	tracking	O	O
+1.0	member	be shoot	dead	0	0
+1.0	December fire fight	yield	two arrest	DATE	NUMBER
+1.0	group	have	members	O	O
+1.0	dead several people	have	tracking	O	O
+1.0	capital Tunis	have	kilometres	O	LOCATION
+1.0	Soliman	in place be	wooded district near town of Nabeul	LOCATION	LOCATION
+1.0	interior ministry	say on	Wednesday	ORGANIZATION	DATE
+1.0	interior ministry	say amid	security measure	ORGANIZATION	0
+1.0	Wednesday 's fire fight	take	wooded district near town of Nabeul	DATE	LOCATION
+1.0	December fire fight	leave	two people dead	DATE	NUMBER
+1.0	Nabeul	have	town	O	LOCATION
+1.0	Wednesday 's fire fight	take	45 kilometre of capital Tunis	DATE	LOCATION
+1.0	ministry	say amid	tight security measure	ORGANIZATION	0
+1.0	house	be in	suburb of Tunis	0	LOCATION
+1.0	dead several people	have	crimes	O	O
+0.06141471494456796	police	call	dangerous criminal	0	0
+1.0	Wednesday 's fire fight	take	wooded district near town	DATE	0
+1.0	firearm	be	illegal	0	0
+1.0	Tunis	of kilometre be	28 mile	LOCATION	NUMBER
+1.0	interior ministry	say amid	tight security measure in country	ORGANIZATION	0
+1.0	ministry	say amid	security measure in country	ORGANIZATION	0
+1.0	district	have	sealed	O	O
+1.0	Wednesday 's fire fight	take	45 kilometre	DATE	NUMBER
+1.0	place	kilometre of	Tunis	0	LOCATION
+1.0	place	be in	Soliman	0	LOCATION

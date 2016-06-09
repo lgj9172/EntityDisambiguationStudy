@@ -1,0 +1,72 @@
+1.0	equipment department	have	head	O	O
+0.9859773795464108	people	six at	least	0	0
+1.0	counterfeit drug	treat	gallstone	0	0
+1.0	chinese patient	die in	2006	0	DATE
+1.0	China 's	ban use at_time	last year	LOCATION	DATE
+1.0	Hao Heping	take	1 million yuan	PERSON	MONEY
+1.0	Zheng 's and the head	have	products state media reports	O	O
+1.0	week	have	edition	O	DATE
+1.0	administration	have	medicine registration department	O	O
+1.0	bribery	have	suspicion	O	O
+1.0	several patient	die in	2006	0	DATE
+1.0	Hao Heping	aide 's	Zheng	PERSON	PERSON
+1.0	local media	carry	report	0	0
+1.0	local media	carry	report of patient die	0	0
+1.0	media	carry	report of patient	0	0
+1.0	patients	have	reports	O	O
+0.6167601763219667	China 's	use of	antibiotic drug	LOCATION	0
+1.0	media	carry	frequent report of patient die	0	0
+1.0	Hao Heping	be	sentence	PERSON	0
+1.0	media	carry	frequent report of patient	0	0
+1.0	China 's	ban	use of Xinfu	LOCATION	LOCATION
+1.0	China 's	ban	use of Xinfu in August	LOCATION	DATE
+1.0	media	carry	frequent report	0	0
+0.6167601763219667	China 's	use in	August	LOCATION	DATE
+1.0	local media	carry	frequent report of patient	0	0
+1.0	Cao Wenzhuang	have	graft investigation	O	PERSON
+1.0	Drug Administration	have	head	O	ORGANIZATION
+1.0	media	carry	report	0	0
+1.0	local media	carry	frequent report of patient die	0	0
+1.0	several chinese patient	die in	2006	0	DATE
+1.0	patient	die in	2006	0	DATE
+1.0	several chinese patient	also die in	2006	0	DATE
+0.6167601763219667	China 's	use of	drug	LOCATION	0
+1.0	administration	have	head	O	O
+1.0	administration	of	medical equipment department	0	0
+1.0	patient	also die in	2006	0	DATE
+1.0	Hao Heping	take	126,000 dollar	PERSON	MONEY
+1.0	Hao Heping	demand	cash bribe	PERSON	0
+1.0	local media	carry	frequent report	0	0
+1.0	use	be in	August last year	0	DATE
+1.0	several patient	also die in	2006	0	DATE
+1.0	chinese patient	also die in	2006	0	DATE
+0.6167601763219667	China 's	use of	Xinfu	LOCATION	LOCATION
+1.0	Zheng Xiaoyu	have	aide	O	O
+1.0	China	have	State Food	ORGANIZATION	LOCATION
+1.0	Hao Heping	be sentence to	jail	PERSON	0
+1.0	bribe	be in	November 2006	0	DATE
+1.0	State Food	have	head	O	ORGANIZATION
+0.08525081604622908	Hao Heping	use as	head	PERSON	0
+1.0	media	carry	report of patient die	0	0
+1.0	equipment department	have	aide	O	O
+0.08525081604622908	Hao Heping	use as	head of administration 's medical equipment department	PERSON	0
+1.0	China 's	ban	use in August	LOCATION	DATE
+1.0	China 's	ban	use	LOCATION	0
+1.0	medicine registration department	have	head	O	O
+1.0	Hao Heping	be sentence to	jail for 15 year	PERSON	DURATION
+1.0	this week	in	edition	DATE	0
+1.0	China 's	ban use at_time	year	LOCATION	DATE
+1.0	Hao Heping	aide of	medical equipment department	PERSON	0
+1.0	Xinfu	have	use	O	LOCATION
+1.0	Hao Heping	use	he position	PERSON	0
+1.0	administration	have	equipment department	O	O
+1.0	local media	carry	report of patient	0	0
+1.0	Hao Heping	have	position	O	O
+1.0	Cao Wenzhuang	head of	administration 's medicine registration department	DATE	DATE
+0.08525081604622908	Hao Heping	use as	head of administration 's equipment department	PERSON	0
+1.0	administration	of	medicine registration department	DATE	DATE
+1.0	China	of	State Food and Drug Administration	LOCATION	ORGANIZATION
+1.0	Cao Wenzhuang	aide of	he	PERSON	0
+1.0	Hao Heping	demand cash bribe from	medical company	PERSON	0
+1.0	Hao Heping	demand cash bribe from	company	PERSON	0
+1.0	China 's	kill	at least six people	0	NUMBER

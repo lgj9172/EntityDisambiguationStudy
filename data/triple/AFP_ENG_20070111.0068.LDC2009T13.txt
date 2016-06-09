@@ -1,0 +1,48 @@
+1.0	Talisay	have	coast	O	LOCATION
+1.0	Navy gunboat	block protest by	activist against ASEAN	ORGANIZATION	ORGANIZATION
+1.0	protester	have plan	sail north toward seaside compound use as residence	0	0
+1.0	leftist group	have announce plan to	stage picket of summit venue	0	0
+1.0	Cebu city	have	south	O	LOCATION
+1.0	protester	have plan	sail north toward seaside compound use as provincial residence	0	0
+1.0	East Asia summit	be in	Philippines	LOCATION	LOCATION
+1.0	Marines	prevent	police	0	0
+1.0	leftist group	have announce plan to	stage picket	0	0
+1.0	summit venues	have	stage pickets	O	O
+1.0	protester	have plan	sail north toward seaside compound	0	0
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	protester	have plan	sail north toward compound use	0	0
+1.0	Marines	disembark	coastguard personnel	0	0
+1.0	three gunboat	sail to	coast of Talisay	0	LOCATION
+1.0	Navy gunboat	block protest by	activist against upcome ASEAN	ORGANIZATION	ORGANIZATION
+1.0	Marines	prevent	coastguard personnel	0	0
+1.0	Navy gunboat	block	protest	ORGANIZATION	0
+1.0	group	have announce	plan	0	0
+1.0	East Asia summit	will	will hold	LOCATION	0
+1.0	group	have announce plan to	stage picket	0	0
+1.0	Navy gunboat	block protest by	left-wing activist	ORGANIZATION	0
+1.0	Navy gunboat	block protest by	left-wing activist against ASEAN	ORGANIZATION	ORGANIZATION
+1.0	Navy gunboat	block	seagoing protest	ORGANIZATION	0
+1.0	Marines	disembark	police	0	0
+1.0	Navy gunboat	block	plan protest	ORGANIZATION	0
+1.0	Navy gunboat	block	plan seagoing protest	ORGANIZATION	0
+1.0	three gunboat	sail to	coast	0	0
+1.0	protester	have plan	sail north toward seaside compound use	0	0
+1.0	Marines	prevent	six outrigger	0	NUMBER
+1.0	three gunboat	sail south to	coast of Talisay	0	LOCATION
+1.0	East Asia summit	will	will hold Monday	LOCATION	DATE
+1.0	gunboat	sail to	coast	0	0
+1.0	Navy gunboat	block protest by	left-wing activist against upcome ASEAN	ORGANIZATION	ORGANIZATION
+1.0	Marines	disembark into	six rubber dinghy	0	NUMBER
+1.0	protester	have plan	sail north toward compound use as residence	0	0
+1.0	three gunboat	sail south to	coast	0	0
+1.0	protester	have plan	sail north toward compound use as provincial residence	0	0
+1.0	Navy gunboat	block protest by	activist	ORGANIZATION	0
+1.0	gunboat	sail south to	coast	0	0
+1.0	protester	have plan	sail north	0	0
+1.0	protester	have plan	sail north toward compound	0	0
+1.0	protester	have plan	sail	0	0
+1.0	gunboat	sail to	coast of Talisay	0	LOCATION
+1.0	protest	have	flags	O	O
+1.0	group	have announce plan to	stage picket of summit venue	0	0
+1.0	gunboat	sail south to	coast of Talisay	0	LOCATION
+1.0	leftist group	have announce	plan	0	0

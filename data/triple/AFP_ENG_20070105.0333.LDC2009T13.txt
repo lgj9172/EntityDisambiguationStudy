@@ -1,0 +1,91 @@
+1.0	refuge	be in	public building	0	0
+1.0	Tutsis	aid	conspiracy	MISC	0
+1.0	Nteziryayo	live in	Manchester northwest England	PERSON	LOCATION
+1.0	court	release on	bail one of four man	0	NUMBER
+1.0	Nteziryayo	live in	Manchester northwest	PERSON	LOCATION
+1.0	his	have	wife	O	O
+1.0	his	have	arrest	O	O
+1.0	court	refuse	release on bail one four man arrest	0	NUMBER
+1.0	british court	refuse	release on bail one four man arrest	0	NUMBER
+1.0	their	have	cases	O	O
+1.0	involvement	have	accused	O	O
+1.0	court	refuse	release on bail one of four man	0	NUMBER
+1.0	resident	collaborate with	other	0	0
+1.0	british court	refuse	release on bail one	0	NUMBER
+1.0	Rwanda	have	republic	O	LOCATION
+1.0	London	have	City	ORGANIZATION	LOCATION
+1.0	cases	have	Details	O	O
+1.0	resident	kill	they tutsi neighbour	0	0
+1.0	he	be former mayor of	Mudasomwa commune in southern region	0	LOCATION
+1.0	Nteziryayo	claim	asylum	PERSON	0
+1.0	he	be former mayor of	Mudasomwa commune in southern region of Gikongoro	0	LOCATION
+1.0	he	be allegedly former mayor of	Mudasomwa commune in southern region	0	LOCATION
+1.0	Emmanuel Nteziryayo	be	accuse	PERSON	0
+1.0	british court	refuse	release on bail one of four man	0	NUMBER
+1.0	Gikongoro	have	region	O	LOCATION
+1.0	court	refuse	release on bail one of four man arrest	0	NUMBER
+1.0	Emmanuel Nteziryayo	be	suspect	0	0
+1.0	Emmanuel Nteziryayo 44	be	accuse	PERSON	0
+1.0	country	have	population	O	O
+1.0	Court	have	City	ORGANIZATION	ORGANIZATION
+1.0	court	release on	bail one four man arrest	0	NUMBER
+1.0	Mudasomwa commune	be in	southern region of Gikongoro	LOCATION	LOCATION
+1.0	Nteziryayo	live in	Manchester northwest England with he wife	PERSON	LOCATION
+1.0	Emmanuel Nteziryayo	urge	resident	0	0
+1.0	involvement	be in	1994 Rwanda genocide	0	LOCATION
+1.0	Mudasomwa commune	have	mayor	O	O
+1.0	court	refuse	release on bail one	0	NUMBER
+1.0	british court	release on	bail one of four man	0	NUMBER
+1.0	Emmanuel Nteziryayo	be	44	PERSON	NUMBER
+1.0	they	have	have also remand in custody	0	0
+1.0	Gemma Lindfield	lawyer for	republic of Rwanda	PERSON	LOCATION
+1.0	Westminster Magistrates	have	Court	ORGANIZATION	ORGANIZATION
+1.0	court	release on	bail one of four man arrest	0	NUMBER
+1.0	court	refuse at_time	Friday	0	DATE
+1.0	he	be	former mayor	0	0
+1.0	Charles Munyaneza	be	48	PERSON	NUMBER
+1.0	Vincent Bajinya	be	45	PERSON	NUMBER
+1.0	Nteziryayo	claim	asylum in Britain	PERSON	LOCATION
+1.0	they	have	have remand in custody	0	0
+1.0	he	be allegedly former mayor of	Mudasomwa commune in southern region of Gikongoro	0	LOCATION
+1.0	british court	release on	bail one four man	0	NUMBER
+1.0	Emmanuel Nteziryayo	be	also suspect	0	0
+1.0	british court	refuse	release on bail one of four man arrest	0	NUMBER
+1.0	men	have	bail	O	O
+1.0	they	have	have also remand	0	0
+1.0	Nteziryayo	claim asylum under	assumed name	PERSON	0
+1.0	he	be allegedly former mayor of	Mudasomwa commune in region	0	LOCATION
+1.0	Nteziryayo	live in	Manchester northwest with he wife	PERSON	LOCATION
+1.0	Emmanuel Nteziryayo 44	kill	Tutsis	PERSON	MISC
+1.0	court	refuse	release on bail one four man	0	NUMBER
+1.0	Tutsis	aid	other murderer	MISC	0
+1.0	resident	kill	they neighbour	0	0
+1.0	british court	release on	bail one four man arrest	0	NUMBER
+1.0	Charles Munyaneza , 48 , Celestin Ugirashebuja , 53 and Vincent Bajinya	be	send back	0	0
+1.0	british court	refuse	release	0	0
+1.0	he	be former mayor of	Mudasomwa commune in region	0	LOCATION
+1.0	Nteziryayo	live in	Manchester	PERSON	LOCATION
+1.0	he	be	allegedly former mayor	0	0
+1.0	six week	be in	Rwanda	DURATION	LOCATION
+1.0	court	refuse	release	0	0
+1.0	he	be allegedly former mayor of	Mudasomwa commune	0	LOCATION
+1.0	Tutsis	aid	murderer	MISC	0
+1.0	british court	refuse	release on bail one four man	0	NUMBER
+1.0	british court	release on	bail one	0	NUMBER
+1.0	detail	have	have already hear	0	0
+1.0	he	be former mayor of	Mudasomwa commune	0	LOCATION
+1.0	Charles Munyaneza , 48 , Celestin Ugirashebuja , 53 and Vincent Bajinya	be	send	0	0
+1.0	court	release on	bail one four man	0	NUMBER
+1.0	he	be allegedly former mayor of	Mudasomwa commune in region of Gikongoro	0	LOCATION
+1.0	asylum	be in	Britain	0	LOCATION
+1.0	he	be former mayor of	Mudasomwa commune in region of Gikongoro	0	LOCATION
+1.0	british court	refuse at_time	Friday	0	DATE
+1.0	they	have	have remand	0	0
+1.0	his	have	commune	O	O
+1.0	british court	release on	bail one of four man arrest	0	NUMBER
+1.0	court	release on	bail one	0	NUMBER
+1.0	population	have	tenth	ORDINAL	O
+1.0	detail	have	have hear	0	0
+1.0	Nteziryayo	live in	council housing	PERSON	0
+1.0	their	have	neighbours	O	O
+1.0	Emmanuel Nteziryayo	kill	Tutsis	PERSON	MISC

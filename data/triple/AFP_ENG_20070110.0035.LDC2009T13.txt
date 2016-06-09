@@ -1,0 +1,69 @@
+1.0	Seoul department store	have	head	O	O
+1.0	Lee Keun-Young , former governor of the Financial Supervisory Service -LRB- FSS -RRB-	governor of	Financial Supervisory Service	PERSON	ORGANIZATION
+1.0	charge	oversee	non-bank institution include savings bank	0	0
+1.0	fss	conduct	overhaul of insolvent savings bank	0	0
+1.0	Kim Jung-Hoe	be arrest at_time	Monday	PERSON	DATE
+1.0	charge	oversee	non-bank financial institution	0	0
+1.0	Kim Jung-Hoe	take	245,000 dollar	PERSON	MONEY
+1.0	State prosecutor	summon	former chief of South Korea 's watchdog	0	LOCATION
+1.0	Lee Keun-Young	have tell	media	PERSON	0
+1.0	fss	conduct	massive overhaul	0	0
+1.0	charge	oversee	financial institution include mutual savings bank	0	0
+1.0	charge	oversee	non-bank institution	0	0
+1.0	charge	oversee	financial institution	0	0
+1.0	fraud	have	charges	O	O
+1.0	businessman	be	arrest	0	0
+1.0	Financial Supervisory Service	have	governor	O	ORGANIZATION
+1.0	businessman	have	have arrest	0	0
+1.0	charge	oversee	non-bank financial institution include mutual savings bank	0	0
+1.0	Lee Keun-Young , former governor of the Financial Supervisory Service -LRB- FSS -RRB-	be	believe	PERSON	0
+1.0	South Korea	of	financial watchdog	LOCATION	0
+1.0	State prosecutor	summon	former chief	0	0
+1.0	State prosecutor	question in	expand corruption probe	0	0
+1.0	fund	issue	cheque	0	0
+1.0	country	have	sector	O	O
+1.0	prosecutors	have	office	O	O
+1.0	businessman	be arrest on	charge	0	0
+1.0	charge	oversee	non-bank financial institution include savings bank	0	0
+1.0	datum	peddle	influence	0	0
+1.0	Kim Jung-Hoe	leak	datum	PERSON	0
+1.0	Kim Heung-Ju	be in	separate case	PERSON	0
+1.0	Kim Jung-Hoe	leak	financial datum	PERSON	0
+1.0	Lee Keun-Young , former governor of the Financial Supervisory Service -LRB- FSS -RRB-	have	former deputy	PERSON	0
+1.0	Kim Jung-Hoe	be in	charge	PERSON	0
+1.0	union opposition	have	failed	O	O
+1.0	financial datum	peddle	influence	0	0
+1.0	fss	conduct overhaul with	30 out of 160 savings	0	NUMBER
+1.0	mutual savings bank	be in	2001	0	DATE
+1.0	savings banks	have	overhaul	O	O
+1.0	fss	conduct	overhaul	0	0
+1.0	charge	oversee	financial institution include savings bank	0	0
+1.0	charge	oversee	institution include mutual savings bank	0	0
+1.0	Kim Jung-Hoe	be arrest at_time	late Monday	PERSON	DATE
+1.0	Kim Jung-Hoe	be in	at time charge	PERSON	DATE
+1.0	country	have	financial sector	0	0
+1.0	Kim Jung-Hoe	be	arrest	PERSON	0
+1.0	charge	oversee	non-bank institution include mutual savings bank	0	0
+1.0	South Korea	have	watchdog	O	LOCATION
+1.0	fss	conduct overhaul in	2001	0	DATE
+1.0	Lee Keun-Young	have tell	local media	PERSON	0
+1.0	Lee Keun-Young , former governor of the Financial Supervisory Service -LRB- FSS -RRB-	have	deputy	O	PERSON
+1.0	fss	conduct	massive overhaul of savings bank	0	0
+1.0	charge	oversee	institution include savings bank	0	0
+1.0	businessman	be arrest in	December	0	DATE
+1.0	nothing	say to	you	0	0
+1.0	Kim Jung-Hoe	allegedly take	245,000 dollar	PERSON	MONEY
+1.0	fss	conduct	massive overhaul of insolvent savings bank	0	0
+1.0	businessman	be arrest on	charge of fraud	0	0
+1.0	fss	conduct	overhaul of savings bank	0	0
+1.0	State prosecutor	summon	former chief of South Korea 's financial watchdog	0	LOCATION
+1.0	FSS vice governors	have	one	NUMBER	O
+1.0	his	have	efforts	O	O
+1.0	watchdog	have	chief	O	O
+1.0	fund	issue	bad cheque	0	0
+1.0	businessman	be	arrest in December on charge of fraud	0	DATE
+1.0	Kim Jung-Hoe	be	accuse	PERSON	0
+1.0	businessman	be	arrest in December on charge	0	DATE
+1.0	charge	oversee	institution	0	0
+1.0	State prosecutor	question in	corruption probe	0	0
+1.0	Kim Heung-Ju	head of	Seoul department store	PERSON	LOCATION

@@ -1,0 +1,48 @@
+1.0	White House	confirm at_time	Friday	ORGANIZATION	DATE
+1.0	government	of	preparation try internationally	0	0
+1.0	exist facility	be in	Japan	0	LOCATION
+1.0	contingency	have	event	O	O
+1.0	the United States	work on	emergency plan for possible crisis on peninsula	LOCATION	LOCATION
+1.0	it	conduct	its nuclear test	0	0
+1.0	it	conduct	its test	0	0
+1.0	Taro Aso	be	Japanese	PERSON	MISC
+1.0	South Korea	be	China	LOCATION	LOCATION
+1.0	it	spark condemnation on	impoverished nation	0	0
+1.0	preparation	have	part	O	O
+1.0	the United States	work on	emergency plan	LOCATION	0
+1.0	the United States	work on	emergency plan for possible crisis	LOCATION	0
+1.0	Japan	to	national security council	LOCATION	0
+0.5174493699604719	source	relate to	matter	0	0
+1.0	report	cite	source relate to matter	0	0
+1.0	tourists	have	thousands	O	O
+1.0	government	have	preparation	O	O
+1.0	it	conduct	its first test	0	ORDINAL
+1.0	report	cite	source	0	0
+1.0	aim	protect	20,000 resident	0	NUMBER
+1.0	it	conduct	its first nuclear test	0	ORDINAL
+1.0	its	have	test	O	O
+1.0	Japan	have	security council	O	LOCATION
+1.0	it	spark	international condemnation	0	0
+1.0	The White House	be	routine	0	0
+1.0	world	have	rest	O	O
+1.0	it	spark condemnation on	already impoverished nation	0	0
+1.0	spokesman Tony Snow	tell	reporter	0	0
+1.0	refugees	have	number	O	O
+1.0	the United States	work on	emergency plan for possible crisis on korean peninsula	LOCATION	LOCATION
+1.0	it	spark	condemnation	0	0
+1.0	the United States	work	Japan	LOCATION	LOCATION
+1.0	report	cite	source relate	0	0
+1.0	it	spark condemnation on	nation	0	0
+1.0	it	announce on	October 9	0	DATE
+1.0	Japan	be in	event of unspecified contingency	LOCATION	0
+1.0	report	cite	unnamed source	0	0
+1.0	report	cite	unnamed source relate to matter	0	0
+1.0	unspecified contingency	be in	korean peninsula	0	LOCATION
+1.0	report	cite	unnamed source relate	0	0
+1.0	it	be	standard	0	0
+0.5174493699604719	unnamed source	relate to	matter	0	0
+1.0	aim	protect	20,000 japanese resident	0	NUMBER
+1.0	them	have	some	O	O
+1.0	it	spark condemnation on	already nation	0	0
+1.0	North Korea	shock	Japan	LOCATION	LOCATION
+1.0	Taro Aso	be in	Tokyo	PERSON	LOCATION

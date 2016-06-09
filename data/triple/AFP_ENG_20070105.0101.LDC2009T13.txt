@@ -1,0 +1,81 @@
+1.0	five television station	be represent in	Beijing	NUMBER	LOCATION
+1.0	five taiwanese television station	be represent on	rotation basis	NUMBER	0
+1.0	Taiwan on Friday	lift ban on	chinese journalist	LOCATION	0
+1.0	China still curbs freedom of the press	have	territory	O	O
+1.0	five taiwanese television station	be	represent in Beijing on rotation basis	NUMBER	LOCATION
+1.0	Taiwan on Friday	lift ban on	chinese journalist six year ago	LOCATION	DATE
+1.0	Taiwan on Friday	only lift ban on	journalist six year ago	LOCATION	DATE
+1.0	island	declare	formal independence	0	0
+1.0	press	have	curbs freedom	O	O
+1.0	Taiwan	be on	Friday	LOCATION	DATE
+1.0	five television station	be	represent in Beijing also on rotation basis	NUMBER	LOCATION
+1.0	five television station	be represent on	monthly rotation basis	NUMBER	SET
+1.0	Taiwan on Friday	lift ban on	journalist	LOCATION	0
+1.0	China still curbs freedom of the press	see	Taiwan on Friday	LOCATION	LOCATION
+1.0	five taiwanese television station	be	represent in Beijing also on monthly rotation basis	NUMBER	SET
+1.0	media	have	reports	O	O
+1.0	Taiwan on Friday	only lift ban on	chinese journalist six year ago	LOCATION	DATE
+0.14059619431790493	Taiwan on Friday	allow from	restricted Hong Kong	0	LOCATION
+1.0	territory	have	part	O	O
+1.0	five television station	represent	two newspaper	NUMBER	NUMBER
+1.0	restricted Hong Kong	be from	chinese-controlled	LOCATION	0
+1.0	two reporter	work on	three-month rotation basis	NUMBER	DURATION
+1.0	Taiwan on Friday	lift	decades-old ban	LOCATION	0
+1.0	five taiwanese television station	be represent in	Beijing	NUMBER	LOCATION
+1.0	Taiwan on Friday	have	reports	O	LOCATION
+1.0	Taiwan on Friday	lift	ban	LOCATION	0
+1.0	Taiwan on Friday	have	coverage	O	LOCATION
+1.0	Taiwan on Friday	only lift ban on	journalist ago	LOCATION	DATE
+1.0	China still curbs freedom of the press	see taiwan as	part	LOCATION	0
+1.0	five television station	be	represent in Beijing also on monthly rotation basis	NUMBER	SET
+1.0	Taiwan on Friday	allow reporter from	restricted Hong Kong	0	LOCATION
+1.0	move	come after	Taiwan year	0	LOCATION
+1.0	five taiwanese television station	be represent on	monthly rotation basis	NUMBER	SET
+1.0	chinese media	have	report of Taiwan	0	LOCATION
+1.0	island	declare	independence	0	0
+1.0	Taiwan on Friday	lift ban on	journalist six year ago	LOCATION	DATE
+1.0	China still curbs freedom of the press	allow	five taiwanese television station	LOCATION	NUMBER
+1.0	Wen Wei Po	be	Ta Kung Pao	PERSON	PERSON
+1.0	five taiwanese television station	be represent on	also monthly rotation basis	NUMBER	SET
+1.0	five taiwanese television station	be	represent in Beijing also on rotation basis	NUMBER	LOCATION
+1.0	five television station	be represent on	also rotation basis	NUMBER	0
+1.0	People	have	Daily	ORGANIZATION	ORGANIZATION
+1.0	two reporter	work in	Taiwan on Friday	NUMBER	LOCATION
+1.0	Taiwan on Friday	only lift	decades-old ban	LOCATION	0
+1.0	Taiwan on Friday	only lift ban on	chinese journalist	LOCATION	0
+1.0	five television station	be represent on	also monthly rotation basis	NUMBER	SET
+1.0	move	come after	Taiwan last year	0	LOCATION
+1.0	Taiwan on Friday	have	development	O	LOCATION
+1.0	five taiwanese television station	represent	two newspaper	NUMBER	NUMBER
+1.0	Taiwan on Friday	only lift ban on	chinese journalist ago	LOCATION	DATE
+1.0	five television station	represent	news agency	NUMBER	0
+0.8181116395536272	reporter	station on	monthly rotation basis	0	SET
+1.0	Taiwan on Friday	allow	reporter	0	0
+1.0	island	have	coverage	O	O
+1.0	The journalists	have	reporting	O	O
+1.0	two reporter	work on	rotation basis	NUMBER	0
+1.0	Taiwan on Friday	lift ban on	chinese journalist ago	LOCATION	DATE
+0.8181116395536272	reporter	station on	rotation basis	0	0
+1.0	Government Information Office	be in	statement	ORGANIZATION	0
+1.0	Taiwan on Friday	on	current development	LOCATION	DATE
+1.0	five television station	be	represent in Beijing on rotation basis	NUMBER	LOCATION
+1.0	reporter	be station in	Taipei	0	LOCATION
+1.0	China still curbs freedom of the press	see taiwan as	part of its territory	LOCATION	0
+1.0	five television station	be represent on	rotation basis	NUMBER	0
+1.0	reporter	be	station	0	0
+1.0	five television station	be	represent	NUMBER	0
+1.0	five taiwanese television station	represent	news agency	NUMBER	0
+1.0	Taiwan on Friday	lift ban on	journalist ago	LOCATION	DATE
+1.0	China still curbs freedom of the press	allow	five television station	LOCATION	NUMBER
+1.0	Taiwan on Friday	allow reporter from	chinese-controlled Hong Kong	0	LOCATION
+1.0	Taiwan on Friday	only lift	ban	LOCATION	0
+0.14059619431790493	Taiwan on Friday	allow	station	0	0
+1.0	five television station	be	represent in Beijing on monthly rotation basis	NUMBER	SET
+0.14059619431790493	Taiwan on Friday	allow from	chinese-controlled Hong Kong	0	LOCATION
+1.0	five taiwanese television station	be represent on	also rotation basis	NUMBER	0
+0.8181116395536272	reporter	station in	Taiwan on Friday	0	LOCATION
+1.0	five taiwanese television station	be	represent in Beijing on monthly rotation basis	NUMBER	SET
+1.0	China	have	law	O	LOCATION
+0.14059619431790493	Taiwan on Friday	allow	station in Taipei	0	LOCATION
+1.0	five taiwanese television station	be	represent	NUMBER	0
+1.0	Taiwan on Friday	only lift ban on	journalist	LOCATION	0

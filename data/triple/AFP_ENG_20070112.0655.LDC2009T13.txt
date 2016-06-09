@@ -1,0 +1,29 @@
+1.0	Mickey Fine Pharmacy	have file	lawsuit	PERSON	0
+1.0	Pop ' Michael Jackson	have	acquittal	O	O
+1.0	Jackson	allege in	court document file	PERSON	0
+1.0	Jackson	allege in	court document file last month	PERSON	DATE
+1.0	contract	have	breach	O	O
+1.0	spokesman	say at_time	Friday	0	DATE
+1.0	company	mismanage	he affair	0	0
+1.0	Pop ' Michael Jackson	rebuild	he career	PERSON	0
+1.0	spokesman	say in	statement	0	0
+1.0	Fox	have	company	O	PERSON
+1.0	Bernstein	be	Fox	PERSON	PERSON
+1.0	Jackson	allege in	court document	PERSON	0
+0.6140426780753424	allege	breach of	oral contract	0	0
+1.0	Pop	have	Michael Jackson	PERSON	O
+0.6140426780753424	allege	breach of	contract	0	0
+1.0	company	mismanage	he financial affair	0	0
+0.7193469353136741	he financial affair	company of	Bernstein	0	PERSON
+1.0	Michael Jackson	have	King	O	PERSON
+1.0	Sloan	have	company	O	PERSON
+1.0	Mickey Fine Pharmacy	have file	lawsuit in Santa Monica Superior Court	PERSON	ORGANIZATION
+1.0	Jackson	allege in	court document file month	PERSON	DATE
+1.0	Pop ' Michael Jackson	have	career	O	O
+1.0	Bernstein	have	company	O	PERSON
+1.0	his	have	affairs	O	O
+1.0	Whitman	have	company	O	PERSON
+1.0	lawsuit	be in	Santa Monica Superior Court	0	ORGANIZATION
+1.0	his	have	accountants	O	O
+0.7193469353136741	he affair	company of	Bernstein	0	PERSON
+1.0	Goldman	have	company	O	ORGANIZATION

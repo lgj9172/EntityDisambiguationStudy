@@ -1,0 +1,14 @@
+1.0	Honda	be	Porsche Neveu	ORGANIZATION	PERSON
+1.0	race	be in	1979	0	DATE
+1.0	race	have	winners	O	O
+1.0	Yamaha	be	Volkswagen Neveu	ORGANIZATION	PERSON
+1.0	Yamaha	be	Mitsubishi Peterhansel	ORGANIZATION	ORGANIZATION
+1.0	Honda	be	Peugeot Orioli	ORGANIZATION	PERSON
+1.0	Yamaha	be	Citroën Peterhansel	ORGANIZATION	ORGANIZATION
+1.0	Yamaha	be	Citroen Peterhansel	ORGANIZATION	ORGANIZATION
+1.0	Honda	be	Renault Neveu	ORGANIZATION	PERSON
+1.0	Dakar Rally	have	winners	O	O
+1.0	Honda	be	Peugeot Neveu	ORGANIZATION	PERSON
+1.0	Yamaha	be	Citroen Orioli	ORGANIZATION	PERSON
+1.0	Yamaha	be	Rover Neveu	ORGANIZATION	PERSON
+1.0	Honda	be	Peugeot Lalay	ORGANIZATION	PERSON

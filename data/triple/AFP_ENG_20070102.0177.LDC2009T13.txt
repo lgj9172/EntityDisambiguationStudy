@@ -1,0 +1,14 @@
+1.0	Ukraine	of	Valentina Shevchenko	LOCATION	PERSON
+1.0	woman	have	10km cross country sprint race	0	NUMBER
+1.0	Norway 's Kristin Stormer Steira	win	woman 's 10km cross country sprint race	PERSON	NUMBER
+1.0	Olga Saviavola	have	Tuesday	DATE	PERSON
+1.0	Norway 's Kristin Stormer Steira	win here	woman 's 10km country sprint race	PERSON	NUMBER
+1.0	Norway	have	Kristin Stormer Steira	PERSON	LOCATION
+1.0	Ukraine	have	Valentina Shevchenko	PERSON	LOCATION
+1.0	Norway	have	Kristin Stormer Steira	LOCATION	PERSON
+1.0	women	have	country sprint race	O	O
+1.0	Norway 's Kristin Stormer Steira	win	woman 's 10km country sprint race	PERSON	NUMBER
+1.0	Valentina Shevchenko	be of	Russia	PERSON	LOCATION
+1.0	Norway 's Kristin Stormer Steira	win here	woman 's 10km cross country sprint race	PERSON	NUMBER
+1.0	Valentina Shevchenko	have	Tuesday	DATE	PERSON
+1.0	Russia	have	Valentina Shevchenko	PERSON	LOCATION

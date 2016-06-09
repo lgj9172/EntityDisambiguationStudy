@@ -1,0 +1,45 @@
+1.0	Mahmud Abbas	resolve	standoff	PERSON	0
+1.0	100	wound in	clash between Islamists	NUMBER	MISC
+1.0	Cairo	have	Gaza strongman	O	O
+1.0	Hamas	have	leader	O	ORGANIZATION
+1.0	several egyptian official	be in	recent day	0	DURATION
+1.0	100	wound in	clash between loyal Islamists	NUMBER	MISC
+1.0	100	wound in	clash between group loyal Islamists	NUMBER	MISC
+1.0	Mahmud Abbas	call for	presidential	PERSON	0
+1.0	explosive situation	be in	Gaza Strip	0	LOCATION
+1.0	national accord	be in	Cairo	0	LOCATION
+1.0	Hamas	have	rival	O	ORGANIZATION
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	the Gaza Strip	have	have embroil in fighting	LOCATION	0
+1.0	meeting	take place on	Tuesday	0	DATE
+1.0	Hamas	be	Khaled Meshaal	ORGANIZATION	PERSON
+1.0	meeting	take	place	0	0
+1.0	the Gaza Strip	have	have embroil in factional fighting	LOCATION	0
+1.0	100	wound in	clash between loyal to Fatah Islamists	NUMBER	ORGANIZATION
+1.0	100	wound in	clash between armed group loyal to Fatah Islamists	NUMBER	ORGANIZATION
+1.0	Mahmud Abbas	resolve	months-long standoff	PERSON	0
+1.0	Islamic Jihad leader	confirm	development	ORGANIZATION	0
+1.0	the Gaza Strip	have	have embroil since December 16	LOCATION	DATE
+1.0	the Gaza Strip	have	have embroil in fighting since December 16	LOCATION	DATE
+1.0	100	wound in	clash between group loyal to Fatah Islamists	NUMBER	ORGANIZATION
+1.0	Mahmud Abbas	call for	early presidential	PERSON	0
+1.0	Mahmud Abbas	resolve standoff with	Hamas	PERSON	ORGANIZATION
+1.0	official	be in	the Gaza Strip	0	LOCATION
+1.0	Bashar al-Assad	be from	syrian	PERSON	0
+1.0	Mahmud Abbas	call in	bid	PERSON	0
+1.0	Abbas	have	Fatah party	O	PERSON
+1.0	them	have	one	NUMBER	O
+1.0	Hamas	reject	move	ORGANIZATION	0
+1.0	Abbas and Meshaal	have	goal	O	O
+1.0	the Gaza Strip	have	have embroil	LOCATION	0
+1.0	accord	have	signature	O	O
+1.0	the Gaza Strip	have	have embroil in factional fighting since December 16	LOCATION	DATE
+1.0	100	wound in	clash between armed group loyal Islamists	NUMBER	MISC
+1.0	unity	have	government	O	O
+1.0	source	meanwhile say close to	Mahmud Abbas	0	PERSON
+1.0	source	say close to	Mahmud Abbas	0	PERSON
+1.0	Islamic Jihad	rival of	Hamas	ORGANIZATION	ORGANIZATION
+1.0	Mohammed Dahlan	be strongman of	the Gaza Strip	PERSON	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	100	wound in	clash	NUMBER	0
+1.0	Mediators	have	parties	O	O

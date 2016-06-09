@@ -1,0 +1,20 @@
+1.0	woman	have	World Cup biathlon relay	0	MISC
+1.0	last World Cup relay	be in	February	MISC	DATE
+1.0	4x6km competition	be	last World Cup relay before world championship in February	0	MISC
+1.0	world championship	be in	Italy	0	LOCATION
+1.0	4x6km competition	be	World Cup relay	0	MISC
+1.0	Russia	win here	woman 's World Cup biathlon relay	LOCATION	MISC
+1.0	4x6km competition	be	last World Cup relay before world championship in Antholz/Anterselva Italy	0	MISC
+1.0	4x6km competition	be	World Cup relay before world championship in February	0	MISC
+1.0	4x6km competition	be	last World Cup relay before world championship in Antholz/Anterselva Italy in February	0	MISC
+1.0	Germany	have	Wednesday	DATE	LOCATION
+1.0	4x6km competition	be	World Cup relay in February	0	MISC
+1.0	4x6km competition	be	World Cup relay before world championship in Antholz/Anterselva Italy in February	0	MISC
+1.0	4x6km competition	be	World Cup relay before world championship	0	MISC
+1.0	4x6km competition	be	last World Cup relay	0	MISC
+1.0	4x6km competition	be	World Cup relay before world championship in Antholz/Anterselva Italy	0	MISC
+1.0	France	have	Wednesday	DATE	LOCATION
+1.0	women	have	World Cup biathlon relay	O	O
+1.0	4x6km competition	be	last World Cup relay in February	0	MISC
+1.0	4x6km competition	be	last World Cup relay before world championship	0	MISC
+1.0	Russia	win	woman 's World Cup biathlon relay	LOCATION	MISC

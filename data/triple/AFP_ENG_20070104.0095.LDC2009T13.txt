@@ -1,0 +1,45 @@
+1.0	Beijing	have call for	talk on nuclear issue	LOCATION	0
+1.0	Mahmoud Ahmadinejad	be to	Hu Jintao	PERSON	PERSON
+1.0	-LRB- Ali -RRB- Larijani	will deliver message accord to	Iran 's state news agency	PERSON	LOCATION
+1.0	Larijani	be	Ali	PERSON	PERSON
+1.0	China	have	foreign ministry spokesman	LOCATION	0
+1.0	Russia	work	China that started earlier Thursday	LOCATION	LOCATION
+1.0	Iran	have	issues	O	LOCATION
+1.0	strong economic interest	be in	Iran 's	0	LOCATION
+1.0	Hu Jintao	be to	Chinese	PERSON	MISC
+1.0	-LRB- Ali -RRB- Larijani	will deliver	message	PERSON	0
+1.0	United Nations Security Council	have	member	O	ORGANIZATION
+1.0	Iran 's top nuclear negotiator	have	country	O	O
+1.0	Iran	of	national security council	LOCATION	0
+1.0	concern	have	regional	O	O
+1.0	Iran	have	nuclear issue	LOCATION	0
+1.0	country	have	programs	O	O
+1.0	China	have	ministry spokesman	O	LOCATION
+1.0	Iran	have	right	LOCATION	0
+1.0	country	have	nuclear program	0	0
+1.0	-LRB- Ali -RRB- Larijani	will deliver message during	visit	PERSON	0
+1.0	Iran	have	top nuclear negotiator	LOCATION	0
+1.0	Iran	have	negotiator	O	LOCATION
+1.0	Iran	accord to	state news agency	LOCATION	0
+1.0	Beijing	have since call for	talk on nuclear issue	LOCATION	0
+1.0	Iran	have	state news agency	O	LOCATION
+1.0	Iran	have	right	O	LOCATION
+1.0	-LRB- Ali -RRB- Larijani	will deliver	message from President Mahmoud Ahmadinejad	PERSON	PERSON
+1.0	Beijing	have since call for	more talk on nuclear issue	LOCATION	0
+1.0	Iran	's agency be	IRNA	LOCATION	ORGANIZATION
+1.0	security council	have	head	O	O
+1.0	Iran	have	nuclear industry	LOCATION	0
+1.0	Iran	have	industry	O	LOCATION
+1.0	Liu Jianchao	disclose	detail	PERSON	0
+1.0	-LRB- Ali -RRB- Larijani	head of	Iran 's national security council	PERSON	LOCATION
+1.0	-LRB- Ali -RRB- Larijani	will deliver message accord to	IRNA	PERSON	ORGANIZATION
+1.0	Iran	have	security council	O	LOCATION
+1.0	-LRB- Ali -RRB- Larijani	will deliver	message from President Mahmoud Ahmadinejad to Chinese President Hu Jintao	PERSON	PERSON
+1.0	Security Council resolution	have	drafts	O	O
+0.9588533191859536	-LRB- Ali -RRB- Larijani	head of	Iran 's security council	PERSON	LOCATION
+1.0	Beijing	have call for	more talk on nuclear issue	LOCATION	0
+0.9588533191859536	-LRB- Ali -RRB- Larijani	head of	Iran 's national security council	PERSON	LOCATION
+0.5015479493517508	sanction	target	Iran 's industry	0	LOCATION
+1.0	Liu Jianchao	disclose	further detail	PERSON	0
+0.5015479493517508	sanction	target	Iran 's nuclear industry	0	LOCATION
+1.0	IRNA	be state news agency of	Iran	ORGANIZATION	LOCATION

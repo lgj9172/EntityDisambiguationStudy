@@ -1,0 +1,193 @@
+1.0	Rangers	unfortunate	former Monaco striker Dado Prso	ORGANIZATION	PERSON
+1.0	Rangers	remain above	Aberdeen	0	ORGANIZATION
+1.0	Alan Hutton	be	Rangers	PERSON	ORGANIZATION
+1.0	Le Guen	be with	ibrox	PERSON	0
+1.0	former Lyon coach Le Guen	be manager of	Rangers	PERSON	ORGANIZATION
+1.0	Rangers defender Alan Hutton	handle	ball	ORGANIZATION	0
+1.0	he	walk through	Fir Park main door	0	0
+1.0	Rangers	however remain above	Aberdeen in place	0	ORGANIZATION
+1.0	Rangers	remain above	Aberdeen in second place	0	ORDINAL
+1.0	Rangers	remain above	now Aberdeen	0	DATE
+1.0	home side	have	appeal	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play	he last game	PERSON	0
+1.0	Rangers	ironically though almost take	lead	ORGANIZATION	0
+1.0	Rangers	take lead through	minute Boyd penalty	ORGANIZATION	DATE
+0.9574022567203277	Gers	be above	now Aberdeen in second place	PERSON	ORDINAL
+1.0	Nacho Novo	be	spanish	PERSON	0
+1.0	it	be	problem	0	0
+1.0	Rangers	though almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	he axed captain	ever play again for	he	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	understand	reaction	0	0
+0.9574022567203277	Gers	be above	Aberdeen in second place	PERSON	ORDINAL
+1.0	Rangers manager Paul Le Guen saw his side begin life without Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have	side	O	O
+1.0	his	have	team-mate	O	O
+1.0	Rangers	be	unfortunate	ORGANIZATION	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play during	11-year association	PERSON	DURATION
+1.0	Rangers	almost take	lead	ORGANIZATION	0
+1.0	Motherwell	have chance through	australian striker Scott McDonald	ORGANIZATION	PERSON
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play in	over 300 game	PERSON	NUMBER
+1.0	he captain	ever play again for	he	0	0
+1.0	Rangers	though almost take	lead	ORGANIZATION	0
+1.0	he	cut in	in left flank	0	0
+0.11982177299755592	Hearts	have turn into	fight for Champions League spot	ORGANIZATION	MISC
+1.0	meeting	be with	Le Guen	0	PERSON
+1.0	he axed captain	ever play for	he	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	understand	reaction of fan	0	0
+0.11982177299755592	Hearts	have turn in	SPL	ORGANIZATION	ORGANIZATION
+1.0	Aberdeen	drop to	third place	ORGANIZATION	ORDINAL
+1.0	Rangers fan	be in	10,338	ORGANIZATION	NUMBER
+0.9574022567203277	Gers	be above	now Aberdeen	PERSON	DATE
+1.0	area	be in	Glasgow	0	LOCATION
+1.0	he	cut in	in flank	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play	he game	PERSON	0
+1.0	Rangers	however remain above	now Aberdeen in place	0	DATE
+0.11982177299755592	Hearts	have turn	net	ORGANIZATION	0
+1.0	Alan Hutton	be defender of	Rangers	PERSON	ORGANIZATION
+0.11982177299755592	Hearts	have turn into	fight for second Champions League spot with czech Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Motherwell	have	chance	ORGANIZATION	0
+1.0	Shunsuke Nakamura	be	Japanese	PERSON	MISC
+1.0	Rangers	ironically almost take	lead	ORGANIZATION	0
+1.0	you	feel	adversity	0	0
+1.0	Kris Boyd lay-off	have	end	O	O
+1.0	Motherwell	have	Marc Fitzpatrick	PERSON	ORGANIZATION
+1.0	Rangers side	have	out left	O	O
+1.0	he	walk through	Fir Park door	0	0
+1.0	Rangers	however remain above	now Aberdeen	0	DATE
+0.9058481882812295	saw punch	fall-out from	Trevor Molloy	0	PERSON
+1.0	Motherwell	take	command of game	ORGANIZATION	0
+1.0	they	be deny	penalty	0	0
+1.0	Rangers	have	15 yard drive save	ORGANIZATION	NUMBER
+1.0	he captain	play for	he	0	0
+1.0	Rangers	however remain above	Aberdeen	0	ORGANIZATION
+1.0	Aiden McGeady	add	second	PERSON	DURATION
+1.0	that	have	aware	O	O
+1.0	Dado Prso	be striker of	Monaco	PERSON	ORGANIZATION
+1.0	team	have	interests	O	O
+1.0	Aiden McGeady	add	late second	PERSON	DURATION
+0.632832863116628	chance	open	the score	0	0
+1.0	Michal Pospisil	be with	czech Republic	PERSON	LOCATION
+1.0	Rangers fans	have	Many	O	O
+1.0	Rangers	have	15 yard drive save by Graeme Smith	ORGANIZATION	PERSON
+1.0	Rangers defender Alan Hutton	handle	ball inside box	ORGANIZATION	0
+1.0	other	pen banner in	support of Ferguson	0	PERSON
+1.0	it	come from	within	0	0
+1.0	side	be reduce to	10 man	0	NUMBER
+1.0	feeling	have	depth	O	O
+1.0	he	drive	ball	0	0
+1.0	side	be	three minute later reduce to 10 man	0	NUMBER
+1.0	Rangers	take	lead	ORGANIZATION	0
+1.0	it	be	see	0	0
+1.0	Rangers	ironically though take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	it	remain	see	0	0
+1.0	Rangers	however remain above	Aberdeen in second place	0	ORDINAL
+1.0	Motherwell	have chance through	striker Scott McDonald	ORGANIZATION	PERSON
+1.0	Rangers	have	former Monaco striker Dado Prso	ORGANIZATION	PERSON
+1.0	my	have	choice	O	O
+1.0	Rangers	remain above	Aberdeen in place	0	ORGANIZATION
+0.11982177299755592	Hearts	have turn into	three-way fight for Champions League spot with czech Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Rangers	ironically take	lead	ORGANIZATION	0
+1.0	they	could only manage	0-0 draw	0	NUMBER
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play during	association	PERSON	0
+1.0	it	be	then ok	0	0
+0.11982177299755592	Hearts	have turn into	fight for second Champions League spot with Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Le Guen	be on	Monday	PERSON	DATE
+1.0	interests	have	think	O	O
+1.0	Rangers	however remain above	now Aberdeen in second place	0	ORDINAL
+0.9574022567203277	Gers	be above	now Aberdeen in place	PERSON	DATE
+1.0	Rangers manager Paul Le Guen saw his side begin life without Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have	captain	O	O
+1.0	Ferguson	have	support	O	PERSON
+1.0	Rangers	be struggle at	Motherwell	0	ORGANIZATION
+1.0	other	urge	they manager resign	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	support as	youngster	0	0
+0.9574022567203277	Gers	be above	Aberdeen in place	PERSON	ORGANIZATION
+1.0	side	be	reduce	0	0
+1.0	he	jump for	handball	0	0
+1.0	Rangers	remain above	now Aberdeen in place	0	DATE
+1.0	their	have	manager	O	O
+1.0	Rae	get on	end	PERSON	0
+1.0	Rangers	almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	his	have	free	O	O
+1.0	Rangers	remain above	now Aberdeen in second place	0	ORDINAL
+1.0	my	have	captain	O	O
+1.0	former Lyon coach Le Guen	be	Rangers	PERSON	ORGANIZATION
+0.632832863116628	chance	open	the	0	0
+1.0	the scoring	have	part	O	O
+1.0	Michal Pospisil	be striker of	czech Republic	PERSON	LOCATION
+1.0	fall-out	shoot	saw punch	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	always think of	interest	0	0
+1.0	he captain	play again for	he	0	0
+1.0	he axed captain	be	unlikely	0	0
+1.0	11-year association	be with	side	DURATION	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	think of	interest	0	0
+1.0	Aberdeen	drop to	place	ORGANIZATION	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have	game	O	O
+0.11982177299755592	Hearts	have turn into	fight for second Champions League spot	ORGANIZATION	ORDINAL
+1.0	Rae	find space inside	18-yard box	PERSON	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	think of	interest of team	0	0
+1.0	Rae	miscue	he shot	PERSON	0
+1.0	other	pen banner in	support	0	0
+1.0	their	have	grasp	O	O
+1.0	he axed captain	play for	he	0	0
+0.11982177299755592	Hearts	have turn into	fight for Champions League spot with Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Rangers	have	15 yard drive	ORGANIZATION	NUMBER
+1.0	Rangers	though take	lead	ORGANIZATION	0
+1.0	side	be reduce at_time	three minute	0	0
+1.0	captaincy	have	stripped	O	O
+1.0	side	be	three minute reduce to 10 man	0	NUMBER
+1.0	Le Guen	be coach of	Lyon	PERSON	ORGANIZATION
+1.0	he axed captain	play again for	he	0	0
+1.0	you	feel adversity from	from camp	0	0
+0.11982177299755592	Hearts	have turn into	three-way fight for second Champions League spot	ORGANIZATION	ORDINAL
+1.0	other	pen	banner	0	0
+1.0	Rangers	ironically almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	squad	have	interests	O	O
+1.0	Rae	get on	end of Kris Boyd lay-off	PERSON	PERSON
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	have play in	over 300 game for Rangers	PERSON	ORGANIZATION
+1.0	side	be reduce at_time	three minute later	0	DATE
+1.0	second Champions League spot	be with	Michal Pospisil	ORDINAL	PERSON
+1.0	it	be	ok	0	0
+1.0	Barry Ferguson with a win that takes them second in the Scottish Premier League - then	always think of	interest of team	0	0
+0.11982177299755592	Hearts	have turn into	fight for Champions League spot with czech Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	he captain	be	unlikely	0	0
+1.0	Rangers	take lead through	Boyd penalty	ORGANIZATION	PERSON
+1.0	winner	be in	1-0	0	NUMBER
+0.11982177299755592	Hearts	have turn into	three-way fight for second Champions League spot with Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Rangers	ironically though take	lead	ORGANIZATION	0
+0.9058481882812295	saw punch	fall-out from	scramble Trevor Molloy	0	PERSON
+0.11982177299755592	Hearts	have turn in	elsewhere SPL	ORGANIZATION	ORGANIZATION
+0.11982177299755592	Hearts	have turn into	fight	ORGANIZATION	0
+1.0	Rangers	ironically though almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Rangers	ironically take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Rae	find	space	PERSON	0
+0.11982177299755592	Hearts	have turn into	three-way fight for second Champions League spot with czech Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+1.0	Gavin Rae	captain	future Le Guen team	PERSON	PERSON
+1.0	Kris Boyd	have	captaincy	O	O
+0.12093069135470202	you	feel from	from camp	0	0
+1.0	Rangers	though take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Le Guen	be manager of	ibrox	PERSON	0
+0.11982177299755592	Hearts	have turn into	three-way fight for Champions League spot	ORGANIZATION	MISC
+1.0	Motherwell	take	command	ORGANIZATION	0
+1.0	Rangers	take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Scott McDonald	be through	australian	PERSON	0
+1.0	other	urge	they manager	0	0
+0.11982177299755592	Hearts	have turn into	three-way fight for Champions League spot with Republic striker Michal Pospisil	ORGANIZATION	LOCATION
+0.11982177299755592	Hearts	have turn into	three-way fight	ORGANIZATION	0
+1.0	Rae	find space inside	box	PERSON	0
+1.0	Aberdeen	be in	second place	ORGANIZATION	ORDINAL
+1.0	home side	have	appeals	O	O
+1.0	my	have	situation	O	O
+1.0	net	have	corner	O	O
+1.0	his	have	shot	O	O
+1.0	it	cross	goal-line	0	0
+1.0	Rae	only miscue	he shot	PERSON	0
+1.0	they	could manage	0-0 draw	0	NUMBER
+1.0	he	walk before	kick-off	0	0
+1.0	Hearts	have turn	it	ORGANIZATION	0
+1.0	he side	begin	life	0	0
+1.0	Dado Prso	be	Monaco	PERSON	ORGANIZATION
+1.0	Le Guen	be	Lyon	PERSON	ORGANIZATION
+1.0	their	have	depth	O	O
+1.0	he captain	ever play for	he	0	0
+1.0	game	have	command	O	O
+0.9574022567203277	Gers	be above	Aberdeen	PERSON	ORGANIZATION
+1.0	fans	have	reaction	O	O

@@ -1,0 +1,104 @@
+1.0	thousand	flood amid	fear	0	0
+1.0	people	stay at	home	0	0
+1.0	thousand	flood amid	fear of repeat of New Year bombing	0	DATE
+1.0	thousand	flood into	Bangkok	0	LOCATION
+1.0	tourist industry	have	highlight	O	O
+1.0	Hat Yai	have	center	O	O
+1.0	tranquil Chiang Mai	be	rattle	PERSON	0
+1.0	thousand	return after	weekend for New Year holiday	0	DATE
+1.0	Bangkok	have	governor	O	LOCATION
+1.0	Hat Yai	suffer	violence link to separatist insurgency in muslim	PERSON	0
+1.0	tranquil Chiang Mai	be rattle by	small bomb attack	PERSON	0
+1.0	Hat Yai	periodically suffer	violence	PERSON	0
+1.0	exile	be in	Beijing	0	LOCATION
+1.0	staff	have	out sent	O	O
+1.0	Chiang Mai	be	rattle	PERSON	0
+1.0	Thaksin	from	government	PERSON	0
+1.0	coup leader	have blame blast on	politician	0	0
+1.0	thousand	return after	four-day weekend	0	DATE
+1.0	wake	in cancellation be	major highlight of Thailand 's 13-billion-dollar tourist industry	0	LOCATION
+1.0	Normally tranquil Chiang Mai	have	city	O	PERSON
+1.0	thousand	flood back into	Bangkok	0	LOCATION
+1.0	Thailand	have	Airports	O	LOCATION
+1.0	Thailand	have	State Railway	ORGANIZATION	LOCATION
+1.0	state railway	be of	Thailand	0	LOCATION
+1.0	thousand	flood amid	fear of repeat of deadly New Year bombing	0	DATE
+1.0	thousand	return to	Thai capital	0	MISC
+1.0	our	have	staff	O	O
+1.0	Chiang Mai	be rattle by	small bomb attack	PERSON	0
+1.0	few people	follow	advice	0	0
+1.0	immediate cancellation	be in	wake of blast	0	0
+1.0	people	have	thousands	O	O
+1.0	coup leader	have blame blast on	politician from Thaksin 's government	0	PERSON
+1.0	people	follow	advice	0	0
+1.0	New Year bombings	have	repeat	O	O
+1.0	thousand	flood back amid	fear of repeat	0	0
+1.0	Sniffer dog	patrol	transport hub	0	0
+1.0	Tourism official	have report	highlight of Thailand 's tourist industry	0	LOCATION
+1.0	first violence	be in	capital since September coup	ORDINAL	DATE
+1.0	coup leader	summon	four of they	0	NUMBER
+1.0	thousand	return after	weekend	0	DATE
+1.0	Chiang Mai	be rattle by	bomb attack	PERSON	0
+1.0	Hat Yai	suffer	violence link to islamic separatist insurgency	PERSON	0
+1.0	bus stations	have	all	O	O
+1.0	Hat Yai	periodically suffer	violence link to separatist insurgency	PERSON	0
+1.0	Bangkok	at	Suvarnabhumi Airport	LOCATION	LOCATION
+1.0	Hat Yai	suffer	violence link	PERSON	0
+1.0	attack	be	link	0	0
+1.0	Sniffer dog	patrol	security force	0	0
+1.0	Hat Yai	periodically suffer	violence link to islamic separatist insurgency in muslim	PERSON	0
+1.0	thousand	return after	four-day weekend for New Year holiday	0	DATE
+1.0	Tourism official	have report	major highlight	0	0
+1.0	insurgency	be in	Thailand	0	LOCATION
+1.0	islamic separatist insurgency	be in	muslim	0	0
+1.0	Thailand	have	tourist industry	O	LOCATION
+1.0	Hat Yai	suffer	violence link to separatist insurgency	PERSON	0
+1.0	security measures	have	level	O	O
+1.0	repeat	have	fears	O	O
+1.0	Bangkok 's governor	have urge	people	LOCATION	0
+1.0	Hat Yai	suffer	violence	PERSON	0
+1.0	Airports	have	president	O	O
+1.0	Tourism official	have report	major highlight of Thailand 's 13-billion-dollar tourist industry	0	LOCATION
+1.0	thousand	flood back amid	fear of repeat of deadly New Year bombing	0	DATE
+1.0	Hat Yai	suffer	violence link to islamic separatist insurgency in muslim	PERSON	0
+1.0	tranquil Chiang Mai	be rattle at	mosque	PERSON	0
+1.0	attack	be link to	insurgency	0	0
+1.0	thousand	flood back amid	fear	0	0
+1.0	Chiang Mai	be rattle at	mosque	PERSON	0
+1.0	Bangkok	have	governor	LOCATION	0
+1.0	Thailand	of	13-billion-dollar tourist industry	LOCATION	0
+1.0	bombing	follow	pattern	0	0
+1.0	bombing	follow	pattern often see	0	0
+1.0	attack	be link to	insurgency in Thailand	0	LOCATION
+1.0	Thaksin	have	government	O	PERSON
+1.0	immediate cancellation	highlight of	Thailand 's 13-billion-dollar tourist industry	0	LOCATION
+1.0	Sniffer dog	patrol	extra security force	0	0
+1.0	Tourism official	have report	highlight	0	0
+1.0	Chotisak Asapaviriya	president of	airport	PERSON	0
+1.0	Tourism official	have report	highlight of Thailand 's 13-billion-dollar tourist industry	0	LOCATION
+1.0	attack	be link to	insurgency in southern Thailand	0	LOCATION
+1.0	Sniffer dog	patrol transport hub across	Thailand Tuesday	0	LOCATION
+1.0	violence	have	years	DURATION	O
+1.0	Thailand	of	inter-city bus station	LOCATION	0
+1.0	Hat Yai	periodically suffer	violence link to separatist insurgency in muslim	PERSON	0
+1.0	thousand	flood amid	fear of repeat	0	0
+1.0	Hat Yai	periodically suffer	violence link to islamic separatist insurgency	PERSON	0
+1.0	nine foreign tourist	be in	first violence	NUMBER	ORDINAL
+1.0	New Year	have	Eve	DATE	DATE
+1.0	them	have	four	NUMBER	O
+1.0	which	have	two	NUMBER	O
+1.0	Monthakarn Srivilas	spokeswoman for	state railway	PERSON	0
+1.0	Tourism official	have report	major highlight of Thailand 's tourist industry	0	LOCATION
+1.0	thousand	flood back amid	fear of repeat of New Year bombing	0	DATE
+1.0	tranquil Chiang Mai	be rattle by	bomb attack	PERSON	0
+1.0	coup leader	have blame	blast	0	0
+1.0	explosion	be in	Bangkok	0	LOCATION
+1.0	border	be with	Malaysia	0	LOCATION
+1.0	Bangkok	have	Suvarnabhumi Airport	LOCATION	LOCATION
+1.0	Thailand	have	bus stations	O	LOCATION
+1.0	government	have take	pain	0	0
+1.0	company	have	president	O	O
+1.0	blasts	have	wake	O	O
+1.0	bombing	follow	pattern see	0	0
+1.0	Chotisak Asapaviriya	tell	AFP	0	ORGANIZATION
+1.0	Hat Yai	periodically suffer	violence link	PERSON	0

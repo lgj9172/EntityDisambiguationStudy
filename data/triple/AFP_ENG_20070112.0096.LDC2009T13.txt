@@ -1,0 +1,22 @@
+1.0	Sri Lanka	be in	recently New Zealand for two test	LOCATION	NUMBER
+1.0	Sri Lanka	be in	recently New Zealand	LOCATION	DATE
+1.0	Boralesgamuva	have	Colombo suburb	O	PERSON
+1.0	10,000 run	be in	one-day cricket	NUMBER	DURATION
+1.0	break-in	have	signs	O	O
+1.0	Jayasuriya	complete	10,000 run in cricket	PERSON	NUMBER
+1.0	Sanath Jayasuriya	at	home	PERSON	0
+1.0	Jayasuriya	complete	10,000 run in one-day cricket	PERSON	DURATION
+1.0	Jayasuriya	have	home	O	PERSON
+1.0	Jayasuriya	be	Sri Lankan	PERSON	MISC
+1.0	Jayasuriya	have	return	O	PERSON
+1.0	Sri Lanka	be in	New Zealand for two test	LOCATION	NUMBER
+1.0	incident	have	time	DATE	O
+1.0	Jayasuriya	before	return	PERSON	0
+1.0	His	have	wife Sandra	PERSON	O
+1.0	Jayasuriya	from	home	PERSON	0
+1.0	Jayasuriya	complete	10,000 run	PERSON	NUMBER
+1.0	police official	tell	afp	0	0
+1.0	Jayasuriya	be	only Sri Lankan	PERSON	MISC
+1.0	police	be in	Colombo suburb of Boralesgamuva	0	LOCATION
+1.0	Sri Lanka	be in	New Zealand	LOCATION	LOCATION
+1.0	batting star Sanath Jayasuriya	have	home	O	PERSON

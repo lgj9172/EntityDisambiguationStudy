@@ -1,0 +1,21 @@
+1.0	Williams	have	team	PERSON	0
+1.0	Williams , 24	be	24	TIME	NUMBER
+1.0	Williams 's team	go to	playoff	PERSON	0
+1.0	city	have	center	O	O
+1.0	Two other companions	have	wounds	O	O
+1.0	US football player	be shoot at_time	early Monday	LOCATION	DATE
+1.0	Darrent Williams	be cornerback of	Denver bronco	PERSON	ORGANIZATION
+1.0	team	say in	statement	0	0
+1.0	Darrent Williams	be	Denver bronco	PERSON	ORGANIZATION
+1.0	US football player	be shoot at_time	Monday	LOCATION	DATE
+1.0	Williams 's team	end	they season	PERSON	0
+1.0	A US football player for the Denver Broncos	be ride	stretch Hummer limousine	0	PERSON
+1.0	Denver police	have	season	O	O
+1.0	team	announce	police	0	0
+1.0	Williams , 24	be	dead	TIME	0
+1.0	US football player	be shoot	dead	LOCATION	0
+1.0	US football player	be	shoot	LOCATION	0
+1.0	Williams	have	team	O	PERSON
+1.0	death	come at_time	morning	0	TIME
+1.0	Williams , 24	have	limousine	O	O
+1.0	A US football player for the Denver Broncos	be ride here	stretch Hummer limousine	0	PERSON

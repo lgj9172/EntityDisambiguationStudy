@@ -1,0 +1,83 @@
+1.0	United States	call	refrain from violence	LOCATION	0
+1.0	US State Department spokeswoman Janelle Hironimus	say on	election	PERSON	0
+1.0	Bangladesh	have	people	O	LOCATION
+0.4212834886739282	bid	tackle	violence	0	0
+1.0	the country 's president Iajuddin Ahmed	declare	state	0	0
+1.0	he announcement	come	hour	0	0
+1.0	United States	call on	people of crisis	LOCATION	0
+1.0	United States	adhere to	rule	LOCATION	0
+1.0	complete overhaul	contain	14 million ghost voter	0	NUMBER
+1.0	election	be	bias	0	0
+1.0	election	be	free	0	0
+1.0	country 's president Iajuddin Ahmed	quit	he role	PERSON	0
+1.0	he announcement	come hour at_time	Thursday	0	DATE
+1.0	United States	call on	people	LOCATION	0
+1.0	the country 's president Iajuddin Ahmed	declare state in	bid	0	0
+1.0	the country 's president Iajuddin Ahmed	have	announcement	O	O
+1.0	plan election	be bias in	favor of Party	0	ORGANIZATION
+1.0	country	have	Iajuddin Ahmed	0	PERSON
+1.0	The people of Bangladesh and the political leaders	have	position	O	O
+1.0	country 's president Iajuddin Ahmed	buckle to	massive opposition	PERSON	0
+0.4212834886739282	bid	tackle	violence generate	0	0
+1.0	Janelle Hironimus	be spokeswoman of	the US State Department	PERSON	ORGANIZATION
+1.0	leaders	have	people	O	O
+1.0	United States	call on	people of crisis stricken	LOCATION	0
+0.4212834886739282	bid	tackle	worsen violence generate	0	0
+1.0	Party	have	favor	O	ORGANIZATION
+1.0	Fazlul Haq	be judge of	Supreme Court	PERSON	ORGANIZATION
+1.0	law human rights	have	rule	O	O
+1.0	the country 's president Iajuddin Ahmed	declare	state of emergency	0	0
+1.0	they movement	monitor	announcement	0	0
+1.0	overhaul	contain	14 million ghost voter	0	NUMBER
+0.37999818347223124	opposition	lead by	Awami League	0	ORGANIZATION
+1.0	plan election	be	bias	0	0
+0.5665966021597978	poll	schedule for	January 22	0	DATE
+1.0	election	be bias in	favor of nationalist Party	0	ORGANIZATION
+1.0	citizen	limit	they movement	0	0
+1.0	he temporary replacement	be	Supreme Court Judge Fazlul Haq see	0	ORGANIZATION
+1.0	american citizen	limit	they movement	0	0
+1.0	fluid	have	view	O	O
+1.0	security situation	have	view	O	O
+1.0	country	have	president Iajuddin Ahmed	PERSON	O
+0.7366145524904056	the country 's president Iajuddin Ahmed	state of	emergency	0	0
+1.0	US State Department spokeswoman Janelle Hironimus	say on	new election	PERSON	0
+1.0	American citizens	have	movements	O	O
+0.37999818347223124	opposition	lead by	left-leaning Awami League	0	ORGANIZATION
+1.0	plan election	be bias in	favor of nationalist Party	0	ORGANIZATION
+1.0	list	have	overhaul	O	O
+1.0	US State Department	advise citizen in	view	ORGANIZATION	0
+1.0	US State Department	advise citizen in	view of fluid	ORGANIZATION	0
+1.0	he replacement	be	Supreme Court Judge Fazlul Haq	0	ORGANIZATION
+1.0	United States	call	refrain	LOCATION	0
+1.0	country 's president Iajuddin Ahmed	buckle to	opposition	PERSON	0
+1.0	he temporary replacement	be	Supreme Court Judge Fazlul Haq widely see	0	ORGANIZATION
+1.0	election	be bias in	favor of Party	0	ORGANIZATION
+1.0	United States	adhere to	rule of law rights	LOCATION	0
+1.0	emergency	have	state	O	O
+0.4212834886739282	bid	tackle	worsen violence	0	0
+1.0	they movement	monitor announcement in	media	0	0
+1.0	US State Department	advise citizen in	Bangldesh	ORGANIZATION	LOCATION
+1.0	he replacement	be	Supreme Court Judge Fazlul Haq widely see	0	ORGANIZATION
+1.0	Janelle Hironimus	be	the US State Department	PERSON	ORGANIZATION
+1.0	election	be bias in	favor	0	0
+1.0	plan election	be bias in	favor	0	0
+1.0	the country 's president Iajuddin Ahmed	have	role	O	O
+1.0	respect	have	rule	O	O
+1.0	he replacement	be	Supreme Court Judge Fazlul Haq see	0	ORGANIZATION
+1.0	United States	be on	Thursday	LOCATION	DATE
+1.0	crisis	have	people	O	O
+0.022365932509734954	the country 's president Iajuddin Ahmed	declare in	bid	0	0
+1.0	new election	be	free	0	0
+1.0	the country 's president Iajuddin Ahmed	have	replacement	O	O
+1.0	government	have	head	O	O
+1.0	United States	refrain from	violence	LOCATION	0
+1.0	law	have	rule	O	O
+1.0	US State Department	advise	american citizen	ORGANIZATION	0
+0.6399519129670479	he announcement	come at_time	Thursday	0	DATE
+1.0	US State Department	advise citizen in	view of fluid political	ORGANIZATION	0
+1.0	US State Department	advise	citizen	ORGANIZATION	0
+1.0	United States	call on	people stricken	LOCATION	0
+1.0	they movement	monitor announcement in	local media	0	0
+1.0	people	have	interests	O	O
+1.0	Fazlul Haq	be	Supreme Court	PERSON	ORGANIZATION
+1.0	he temporary replacement	be	Supreme Court Judge Fazlul Haq	0	ORGANIZATION

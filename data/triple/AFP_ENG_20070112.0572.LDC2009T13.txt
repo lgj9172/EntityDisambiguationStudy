@@ -1,0 +1,93 @@
+1.0	analyst	track closely	consumer spending	0	0
+1.0	oil price	remain in	focus	0	0
+1.0	percent	have	analyst forecast	O	PERCENT
+1.0	yield	rise at_time	Thursday	0	DATE
+1.0	yield	rise to	4.771 percent	0	PERCENT
+1.0	New York 's main oil future contract	close at	52.99 dollar	LOCATION	MONEY
+1.0	AMD	have	share	ORGANIZATION	0
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	Napster	have	shares	O	ORGANIZATION
+1.0	rival Intel	have	service	O	O
+1.0	Poor	have	index	O	O
+1.0	ConocoPhillips	climb	2.01 dollar	ORGANIZATION	MONEY
+1.0	Energy firm	appear	benefit	0	0
+1.0	Technology share	gain from	number-two semiconductor firm	0	0
+1.0	year	have	slowdown	O	DATE
+1.0	ExxonMobil	rise	1.68 72.66 dollar	ORGANIZATION	MONEY
+1.0	bond yield	move in	opposite direction	0	0
+1.0	consumer	be do despite	weakness	0	0
+1.0	consumer	be do despite	weakness in housing sector	0	0
+0.05977429091059594	consumer	be do despite	weakness in housing sector observe	0	0
+1.0	New York 's main oil future contract	close up at	52.99 dollar	LOCATION	MONEY
+1.0	Napster 's share	surge	30 cent 4.12 dollar	ORGANIZATION	MONEY
+1.0	AMD	have	shares	O	ORGANIZATION
+1.0	consumer	be obviously do despite	weakness in housing sector	0	0
+1.0	Chevron 's stock	close up at	70.35 dollar	ORGANIZATION	MONEY
+1.0	analyst	track	consumer spending	0	0
+1.0	Commerce Department report	also show sale up	1.0 percent	ORGANIZATION	PERCENT
+1.0	better-than-expected 0.9 percent clip	be in	December	PERCENT	DATE
+1.0	Joel Naroff	be of	Naroff Economic Advisors	PERSON	ORGANIZATION
+1.0	Chevron	have	stock	ORGANIZATION	0
+1.0	broad-market Standard	gain	Poor 's 500 index	0	NUMBER
+1.0	18.26 dollar	at dollar be	9.5 percent	MONEY	PERCENT
+1.0	investor	cheer	retail-sale snapshot	0	0
+1.0	last year	despite	economic slowdown	DATE	0
+1.0	Commerce Department report	show	retail sale	ORGANIZATION	0
+1.0	Naroff Economic Advisors	have	Joel Naroff	PERSON	ORGANIZATION
+1.0	Napster	have	share	ORGANIZATION	0
+1.0	than-expected economic reading	be in	recent day	0	DURATION
+0.05977429091059594	consumer	be obviously do despite	weakness in housing sector observe	0	0
+1.0	report	raise	confidence level	0	0
+1.0	Technology share	gain despite	profit warning	0	0
+1.0	yield	rise to	4.771 percent from 4.737 percent	0	PERCENT
+1.0	0.7	have	rise	O	PERCENT
+0.05977429091059594	consumer	be obviously do despite	weakness observe	0	0
+1.0	Commerce Department report	show	sale	ORGANIZATION	0
+1.0	their	have	forecasts	O	O
+1.0	Commerce Department report	show sale exclude	automobile sale	ORGANIZATION	0
+1.0	AOL	unit of	Time Warner	ORGANIZATION	ORGANIZATION
+1.0	New York 's main oil future contract	crude for	delivery in February	LOCATION	DATE
+1.0	consumer spending	account for	two-third of US economic growth	0	0
+1.0	Chevron	have	stock	O	ORGANIZATION
+1.0	New York 's oil future contract	close at	52.99 dollar	LOCATION	MONEY
+1.0	broad-market Standard	gain	Poor 's index	0	0
+1.0	consumer	be obviously do	just fine	0	0
+1.0	the Dow Jones Industrial Average	have	record close	O	O
+1.0	Commerce Department report	also show sale exclude	automobile sale	ORGANIZATION	0
+1.0	Commerce Department report	also show	retail sale	ORGANIZATION	0
+1.0	consumer	be do	just fine	0	0
+1.0	bond yield	move	price	0	0
+1.0	New York 's oil future contract	close up at	52.99 dollar	LOCATION	MONEY
+1.0	points	have	record	O	O
+1.0	30 cent 4.12 dollar	replace	its service	MONEY	0
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	Briefing.com	have	Dick Green	PERSON	O
+1.0	weakness	be in	housing sector	0	0
+1.0	Commerce Department report	also show sale exclude	volatile automobile sale	ORGANIZATION	0
+1.0	consumer	be obviously do	fine	0	0
+1.0	that	spike against	4.822 percent	0	PERCENT
+1.0	its	have	earnings	O	O
+1.0	consumer	be obviously do despite	weakness	0	0
+1.0	Commerce Department report	also show	sale	ORGANIZATION	0
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	report	also raise	confidence level	0	0
+1.0	Poor	have	500 index	0	NUMBER
+1.0	consumer	be do	fine	0	0
+1.0	bond yield	move in	direction	0	0
+1.0	oil price	also remain in	focus	0	0
+1.0	its bruising price war	be with	Intel	0	ORGANIZATION
+1.0	that	spike to	4.861 percent	0	PERCENT
+1.0	Technology share	gain from	semiconductor firm	0	0
+1.0	investor	cheer	latest retail-sale snapshot	0	0
+1.0	Energy firm	appear	benefit from price rebound	0	0
+1.0	Energy firm	benefit from	price rebound	0	0
+1.0	investor	cheer retail-sale snapshot as	sign	0	0
+1.0	Commerce Department report	show sale exclude	volatile automobile sale	ORGANIZATION	0
+0.05977429091059594	consumer	be do despite	weakness observe	0	0
+1.0	Time Warner	have	unit	O	ORGANIZATION
+0.9129447633152606	AOL	unit of	Time Warner	ORGANIZATION	ORGANIZATION
+1.0	Chevron 's stock	close at	70.35 dollar	ORGANIZATION	MONEY
+1.0	its	have	price	O	O
+1.0	Commerce Department report	show sale up	1.0 percent	ORGANIZATION	PERCENT
+1.0	US growth	have	two-thirds	O	O

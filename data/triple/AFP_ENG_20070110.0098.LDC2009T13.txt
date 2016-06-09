@@ -1,0 +1,41 @@
+1.0	United States	hit	extremist position north of port of Kismayo	LOCATION	LOCATION
+1.0	United States	hit	extremist position north of port	LOCATION	0
+1.0	United States	acknowledge on	Tuesday	LOCATION	DATE
+1.0	resident	report	new US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	Elders	be in	area	0	0
+1.0	United States	hit	alleged extremist position north	LOCATION	0
+1.0	port	have	extremist position north	O	O
+1.0	United States	hit	extremist position north	LOCATION	0
+1.0	Somali Information Minister Ali Jama	tell	AFP	0	ORGANIZATION
+1.0	resident	report	new US air strike	0	LOCATION
+1.0	Ali Jama	be minister of	Somali Information	PERSON	ORGANIZATION
+1.0	Badade	have	towns	O	LOCATION
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	Al-Qaeda	on	main leader	0	0
+1.0	its first known military action	be in	Somalia	ORDINAL	LOCATION
+1.0	resident	report	new US air strike on Al-Qaeda target	0	LOCATION
+1.0	Yusuf Ismail Aden	tell afp by	phone	PERSON	0
+1.0	resident	report	US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	resident	report us air strike in	southern Somalia	0	LOCATION
+1.0	american air strike	be in	today	0	DATE
+1.0	Al-Qaeda	have	leaders	O	O
+1.0	United States	hit	alleged extremist position north of port	LOCATION	0
+1.0	Kismayo	have	port	O	LOCATION
+1.0	government official	deny	account	0	0
+1.0	Ali Jama	be	Somali Information	PERSON	ORGANIZATION
+1.0	Yusuf Ismail Aden	tell afp in	Mogadishu	PERSON	LOCATION
+1.0	resident	report	US air strike	0	LOCATION
+1.0	air operations	have	unaware	O	O
+1.0	resident	report us air strike in	Somalia	0	LOCATION
+1.0	resident	report	US air strike on Al-Qaeda target	0	LOCATION
+1.0	Chris Isleib	say in	Washington	PERSON	LOCATION
+1.0	its	have	action	O	O
+1.0	Abdirahim Dinari	be	somali	PERSON	0
+1.0	Chris Isleib	say in	Pentagon spokesman	PERSON	ORGANIZATION
+1.0	Yusuf Ismail Aden	resident of	Kismayo	PERSON	LOCATION
+1.0	Afmadow	have	towns	O	O
+1.0	United States	hit	alleged extremist position north of port of Kismayo	LOCATION	LOCATION
+1.0	Yusuf Ismail Aden	tell	AFP	PERSON	ORGANIZATION
+1.0	resident	report us air strike on	Wednesday	0	DATE
+1.0	Elders	be in	Badade	0	LOCATION
+1.0	Kismayo	have	resident	O	LOCATION

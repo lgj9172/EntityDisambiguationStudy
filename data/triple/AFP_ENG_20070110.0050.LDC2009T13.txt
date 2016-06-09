@@ -1,0 +1,130 @@
+1.0	dollar	rise to	938.45 korean win	0	NUMBER
+1.0	US unit	firm to	48.84 peso	LOCATION	NUMBER
+1.0	Bank	will hike interest rate from	0.25 percent	ORGANIZATION	PERCENT
+1.0	oil price	fall	drop at one point	0	NUMBER
+1.0	US unit	firm to	48.84 peso from 48.69	LOCATION	NUMBER
+1.0	investor	be	likely	0	0
+1.0	possible rise	be in	japanese interest rate	0	0
+1.0	euro	be in	focus of Thursday 's interest rate decision	0	DATE
+0.5907203617476203	level last	see in	late November	0	DATE
+1.0	US currency	have rise after	further fall in price	LOCATION	DATE
+1.0	US currency	have rise after	further sharp fall in price	LOCATION	DATE
+1.0	US currency	have rise after	further sharp fall in price of crude oil	LOCATION	ORGANIZATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	statement	will	will watch	0	0
+1.0	dollar	rise to	938.45 south korean win	0	NUMBER
+1.0	dollar	rise to	9,067 indonesian rupiah from 9,015	0	NUMBER
+1.0	National Australia Bank strategist John Kyriakopoulos	write in	note	PERSON	0
+1.0	US unit	firm to	48.84 philippine peso	LOCATION	NUMBER
+1.0	The BoJ	have	desire	O	O
+1.0	statement	will	will closely watch	0	0
+1.0	US currency	have rise in	US trade	LOCATION	LOCATION
+1.0	dollar	ease to	119.22 yen in Tokyo afternoon trade	0	MONEY
+1.0	US currency	have rise after	further fall in price of crude oil	LOCATION	ORGANIZATION
+1.0	US currency	have rise after	sharp fall in price	LOCATION	DATE
+1.0	Wednesday	have	data	O	DATE
+1.0	euro	be in	also focus of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	oil	have	price	O	O
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision	0	DATE
+1.0	US currency	have rise after	further sharp fall in price of oil	LOCATION	ORGANIZATION
+1.0	player	be await	fresh clue	0	0
+1.0	US unit	firm from	35.89	LOCATION	NUMBER
+1.0	National Australia Bank strategist John Kyriakopoulos	predict ahead of	Wednesday 's datum	ORGANIZATION	DATE
+1.0	boj	have make	clear	0	0
+1.0	euro	fall to	1.2972 dollar from 1.3000	0	NUMBER
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	player	be await clue on	outlook for US policy	0	LOCATION
+1.0	interest rate decision	have	focus	O	O
+1.0	dollar	ease in	New York	0	LOCATION
+1.0	accompany statement	will	will watch for signal	0	0
+1.0	it	be	widely expect	0	0
+1.0	accompany statement	will	will closely watch	0	0
+1.0	euro	be in	also focus of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	John Kyriakopoulos	be	National Australia Bank	PERSON	ORGANIZATION
+0.5907203617476203	level	see in	November	0	DATE
+1.0	US consumers	have	income	O	O
+1.0	statement	will	will watch for signal	0	0
+1.0	dollar	rise to	938.45 south korean win from 937.15	0	NUMBER
+1.0	US currency	have rise after	sharp fall in price of oil	LOCATION	ORGANIZATION
+1.0	it	be	expect	0	0
+1.0	euro	fall to	1.2972 dollar	0	MONEY
+1.0	euro	be in	focus	0	0
+1.0	oil price	fall	drop below 54 dollar at one point	0	MONEY
+1.0	US unit	also firm to	48.84 peso	LOCATION	NUMBER
+0.5907203617476203	level	see in	late November	0	DATE
+1.0	euro	be in	focus of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	player	be await clue from	Fed board member Michael Moskow	0	PERSON
+1.0	US currency	have rise after	fall in price of crude oil	LOCATION	ORGANIZATION
+1.0	dollar	rise at_time	afternoon	0	TIME
+1.0	119.22 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+1.0	their	have	levels	O	O
+1.0	US currency	have rise after	further fall	LOCATION	DATE
+1.0	euro	be in	also focus of Thursday 's interest rate decision	0	DATE
+1.0	Michael Moskow	be from	the US Federal Reserve	PERSON	ORGANIZATION
+0.5907203617476203	level last	see in	November	0	DATE
+1.0	oil price	drop at	one point	0	NUMBER
+1.0	it	keep	rate	0	0
+1.0	John Kyriakopoulos	be strategist of	National Australia Bank	PERSON	ORGANIZATION
+1.0	investor	be likely as	such	0	0
+1.0	ECB	be	tip	ORGANIZATION	0
+1.0	oil price	fall	drop below 54 dollar	0	MONEY
+1.0	US currency	have rise after	fall in price of oil	LOCATION	ORGANIZATION
+1.0	Bank	will hike	interest rate	ORGANIZATION	0
+1.0	US currency	have rise after	sharp fall	LOCATION	DATE
+1.0	oil price	drop below	54 dollar	0	MONEY
+1.0	data	have	predicted	O	O
+1.0	US currency	have rise in	late US trade	LOCATION	LOCATION
+1.0	Bank	will hike interest rate at_time	week	ORGANIZATION	DATE
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision by Central Bank	0	ORGANIZATION
+1.0	US currency	have rise after	further sharp fall	LOCATION	DATE
+1.0	player	be await clue on	outlook	0	0
+1.0	euro	be in	focus of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	US unit	also firm to	48.84 philippine peso from 48.69	LOCATION	NUMBER
+1.0	oil price	fall	drop	0	0
+1.0	dollar	ease from	119.34	0	NUMBER
+1.0	market	hike at_time	next week	0	DATE
+1.0	US currency	have rise after	sharp fall in price of crude oil	LOCATION	ORGANIZATION
+1.0	dollar	ease at_time	late Tuesday	0	DATE
+1.0	statement	will	will closely watch for signal	0	0
+1.0	US currency	have rise on	late Tuesday	LOCATION	DATE
+1.0	National Australia Bank strategist John Kyriakopoulos	write to	client	PERSON	0
+1.0	gain	be trim amid	nervousness	0	0
+1.0	market	hike at_time	week	0	DATE
+1.0	player	be await	clue	0	0
+1.0	ECB	be tip by	many	ORGANIZATION	0
+1.0	dollar	rise to	938.45 korean win from 937.15	0	NUMBER
+1.0	dollar	rise on	late Tuesday	0	DATE
+1.0	dollar	rise to	9,067 rupiah from 9,015	0	NUMBER
+1.0	gain	be	trim	0	0
+1.0	oil price	fall to	they level	0	0
+1.0	Michael Moskow	be board member of	the US Federal Reserve	PERSON	ORGANIZATION
+1.0	US unit	also firm to	48.84 peso from 48.69	LOCATION	NUMBER
+1.0	US currency	have rise after	further fall in price of oil	LOCATION	ORGANIZATION
+1.0	accompany statement	will	will watch	0	0
+1.0	dollar	rise to	1.5376 Singapore dollar	0	MONEY
+1.0	Wednesday	of	datum	DATE	0
+1.0	dollar	rise from	1.5360	0	NUMBER
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	National Australia Bank strategist John Kyriakopoulos	predict of	Wednesday 's datum	ORGANIZATION	DATE
+1.0	dollar	rise to	9,067 rupiah	0	NUMBER
+1.0	US unit	also firm from	35.89	LOCATION	NUMBER
+1.0	fall	be in	price of crude oil	DATE	ORGANIZATION
+1.0	US unit	also firm to	48.84 philippine peso	LOCATION	NUMBER
+1.0	it	keep	rate unchanged	0	0
+1.0	National Australia Bank strategist John Kyriakopoulos	have	rate	O	O
+1.0	US Federal Reserve	have	expectations	O	ORGANIZATION
+1.0	euro	be in	also focus ahead of Thursday 's interest rate decision by european Central Bank	0	ORGANIZATION
+1.0	player	be await clue on	outlook for US monetary policy	0	LOCATION
+1.0	oil price	fall to	they lowest level	0	0
+1.0	euro	be in	focus ahead of Thursday 's interest rate decision	0	DATE
+1.0	accompany statement	will	will closely watch for signal	0	0
+1.0	oil price	fall since	mid-2005	0	0
+1.0	US unit	firm to	48.84 philippine peso from 48.69	LOCATION	NUMBER
+1.0	dollar	ease at_time	Tuesday	0	DATE
+1.0	dollar	ease to	119.22 yen	0	MONEY
+1.0	US currency	have rise after	fall in price	LOCATION	DATE
+1.0	dollar	rise to	9,067 indonesian rupiah	0	NUMBER
+1.0	euro	be in	also focus	0	0
+1.0	US currency	have rise after	fall	LOCATION	DATE
+1.0	Thursday	have	interest rate decision	O	DATE
+1.0	Bank	will hike interest rate at_time	next week	ORGANIZATION	DATE

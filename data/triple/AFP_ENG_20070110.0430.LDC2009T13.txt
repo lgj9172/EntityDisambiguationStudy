@@ -1,0 +1,31 @@
+1.0	pupils	have	meeting	O	O
+1.0	local school	call	meeting of pupil	0	0
+1.0	children	have	reports	O	O
+0.7025924726456585	school	meeting of	pupil	0	0
+1.0	child	be leave with	bruise	0	0
+1.0	primary school	call	meeting of pupil	0	0
+1.0	school	call	meeting of pupil	0	0
+1.0	An eight-year-old Norwegian boy	have	neck	O	O
+1.0	Gausdal	have	town	O	LOCATION
+1.0	his	have	life	O	O
+1.0	doctor Sverre Karper	tell	VG	PERSON	0
+1.0	fear dread thinking	have	mix	O	O
+1.0	neighbours	have	son	O	O
+1.0	local primary school	call	meeting of pupil	0	0
+1.0	his	have	neck	O	O
+1.0	mothers	have	one	NUMBER	O
+1.0	our	have	neighbours	O	O
+0.7025924726456585	local school	meeting of	pupil	0	0
+1.0	Oslo	have	north	O	LOCATION
+1.0	local doctor Sverre Karper	tell	VG	PERSON	0
+0.7025924726456585	local primary school	meeting of	pupil	0	0
+1.0	Saddam Hussein	have	hanging	O	PERSON
+0.7025924726456585	primary school	meeting of	pupil	0	0
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	12-year-old boy	be in	Turkey	DURATION	LOCATION
+1.0	dictator	have	hangings	O	O
+1.0	town	in child be	north of Oslo	0	LOCATION
+1.0	child	north of	Oslo	0	LOCATION
+1.0	child	be in	town of Gausdal	0	LOCATION
+1.0	children	have	mothers	O	O
+1.0	The children in the town of Gausdal	see on	television	0	0

@@ -1,0 +1,60 @@
+1.0	George W. Bush	be with	US	PERSON	LOCATION
+1.0	Hamid Karzai	be	Afghan	PERSON	MISC
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	commission	have	appointment	O	O
+1.0	Aftab Ahmed Sherpao	be minister of	Interior	PERSON	ORGANIZATION
+1.0	Pakistan	ally in	us-led	LOCATION	0
+0.5015479493517508	militant	launch	attack in Afghanistan	0	LOCATION
+0.08525081604622908	Pashtuns	have use for	century	MISC	0
+1.0	statement	say	add	0	0
+1.0	Pakistan	have deploy	80,000 troops along frontier	LOCATION	NUMBER
+1.0	organize jirga	for commission be	tribal assembly	0	0
+1.0	decision	be take in	September	0	DATE
+1.0	border	have	sides	O	O
+1.0	leaders	have	meeting	O	O
+1.0	Pakistan President Pervez Musharraf	hold meeting with	US President George W. Bush	LOCATION	LOCATION
+1.0	Pashtuns	have use jirga for	century	MISC	0
+1.0	a commission for organizing and holding jirgas -LRB- tribal assemblies -RRB-	liase with	commission	0	0
+0.08525081604622908	ethnic Pashtuns	have use for	century	MISC	0
+1.0	decision	be	take	0	0
+1.0	Afghan leader	convene jirga amid	tension	MISC	0
+1.0	frontier province	governor of	Baluchistan	0	LOCATION
+1.0	the	have	governor	O	O
+1.0	Aftab Ahmed Sherpao	be by	Interior	PERSON	ORGANIZATION
+1.0	attack	be in	Afghanistan	0	LOCATION
+1.0	Pakistan	be on	Wednesday	LOCATION	DATE
+1.0	commission	include	governor	0	0
+1.0	Pakistan	announce	new commission	LOCATION	0
+1.0	elders	have	meeting	O	O
+0.17901780312863755	Pakistan President Pervez Musharraf	joint meeting	Afghan President Hamid Karzai	LOCATION	PERSON
+1.0	Minister	have	governor	O	O
+0.17901780312863755	Pakistan President Pervez Musharraf	meeting	Afghan President Hamid Karzai	LOCATION	PERSON
+1.0	ethnic Pashtuns	have use jirga for	century	MISC	0
+1.0	Pashtuns	have use	jirga	MISC	0
+1.0	Pashtuns	resolve	dispute	MISC	0
+1.0	Pervez Musharraf	be president of	Pakistan	PERSON	LOCATION
+1.0	ethnic Pashtuns	resolve	dispute	MISC	0
+1.0	ethnic Pashtuns	resolve	internal dispute	MISC	0
+1.0	Pervez Musharraf	be	Pakistan	PERSON	LOCATION
+1.0	a commission for organizing and holding jirgas -LRB- tribal assemblies -RRB-	have	recommendations	O	O
+1.0	a commission for organizing and holding jirgas -LRB- tribal assemblies -RRB-	liase with	similar commission	0	0
+1.0	Pakistan	have deploy	80,000 troops	LOCATION	NUMBER
+1.0	Baluchistan	be	Owais Ahmed Ghani	LOCATION	PERSON
+0.8606190239925854	Pakistan	key ally in	us-led	LOCATION	0
+1.0	Pakistan President Pervez Musharraf	hold	Afghan President Hamid Karzai	LOCATION	PERSON
+0.8606190239925854	Pakistan	ally in	us-led	LOCATION	0
+1.0	ethnic Pashtuns	have use	jirga	MISC	0
+1.0	Pakistan President Pervez Musharraf	hold	joint meeting	LOCATION	0
+1.0	commission	will	will head	0	0
+1.0	commission	will	will head by Interior Minister Aftab Ahmed Sherpao	0	PERSON
+1.0	Pakistan President Pervez Musharraf	hold meeting at	White House	LOCATION	LOCATION
+1.0	jirgas	have	holding	O	O
+0.5015479493517508	militant	launch	attack	0	0
+1.0	Pakistan President Pervez Musharraf	hold	meeting	LOCATION	0
+0.7518700775196921	launch	attack in	Afghanistan	0	LOCATION
+1.0	elders	have	gathering	O	O
+1.0	Pakistan	announce	commission	LOCATION	0
+1.0	key ally	be in	us-led	0	0
+1.0	Baluchistan	have	governor	O	LOCATION
+1.0	Afghan leader	convene	jirga	MISC	0
+1.0	Pashtuns	resolve	internal dispute	MISC	0

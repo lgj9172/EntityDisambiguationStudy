@@ -1,0 +1,115 @@
+1.0	Moira Cameron	become	female appoint to ceremonial guard	PERSON	0
+1.0	22 year	be in	armed force	DURATION	0
+1.0	The first female beefeater at the Tower of London , whose appointment overturned more than 500 years of tradition	meet	she new colleague	0	0
+1.0	Moira Cameron	become	first female appoint	PERSON	ORDINAL
+1.0	female	ever appoint to	guard	0	0
+1.0	Moira Cameron 42	become	first female appoint to famous guard	NUMBER	ORDINAL
+1.0	Moira Cameron 42	become	first female appoint to ceremonial guard	NUMBER	ORDINAL
+1.0	Moira Cameron	become	female ever appoint to famous guard	PERSON	0
+1.0	Moira Cameron 42	beat	five man	NUMBER	NUMBER
+1.0	Moira Cameron	become	first female ever appoint to famous ceremonial guard	PERSON	ORDINAL
+1.0	tradition	have	years	DURATION	O
+1.0	Moira Cameron 42	become	first female ever appoint to famous ceremonial guard	NUMBER	ORDINAL
+1.0	Moira Cameron	become	first female appoint to famous ceremonial guard	PERSON	ORDINAL
+1.0	Moira Cameron 42	become	female ever appoint to guard	NUMBER	0
+1.0	Moira Cameron 42	become	first female	NUMBER	ORDINAL
+1.0	Moira Cameron 42	become	first female appoint to famous ceremonial guard	NUMBER	ORDINAL
+1.0	The first female beefeater at the Tower of London , whose appointment overturned more than 500 years of tradition	have	colleagues	O	O
+1.0	Moira Cameron	beat	five man	PERSON	NUMBER
+1.0	nickname	be think	date back	0	0
+1.0	Moira Cameron 42	become	female ever appoint	NUMBER	0
+1.0	tower	be found in	11th century	0	DATE
+1.0	yeoman warder	be give	ration	0	0
+1.0	Moira Cameron	become	first female ever appoint to famous guard	PERSON	ORDINAL
+1.0	meat	have	ration	O	O
+1.0	nickname	date back to	day	0	0
+1.0	Moira Cameron 42	become	female appoint to famous guard	NUMBER	0
+1.0	first female	appoint to	famous ceremonial guard	ORDINAL	0
+1.0	female	appoint to	ceremonial guard	0	0
+1.0	female	ever appoint to	famous guard	0	0
+1.0	tower	be found in	century	0	DATE
+1.0	Moira Cameron 42	become	female ever appoint to famous guard	NUMBER	0
+1.0	Moira Cameron	become	first female ever appoint to ceremonial guard	PERSON	ORDINAL
+1.0	beefeater nickname	date back to	day	0	0
+1.0	whose	have	appointment	O	O
+1.0	Moira Cameron 42	become	female appoint to ceremonial guard	NUMBER	0
+1.0	she	wear	she army uniform	0	0
+1.0	Moira Cameron	become	female appoint	PERSON	0
+1.0	Moira Cameron 42	become	first female ever appoint to ceremonial guard	NUMBER	ORDINAL
+1.0	female	appoint to	famous ceremonial guard	0	0
+1.0	London	have	Tower	O	LOCATION
+1.0	tower	be	found	0	0
+1.0	her	have	duties	O	O
+1.0	Cameron	have serve	22 year	PERSON	DURATION
+1.0	Moira Cameron	become	female ever appoint to ceremonial guard	PERSON	0
+1.0	Moira Cameron	become	first female ever appoint	PERSON	ORDINAL
+1.0	Moira Cameron	become	female appoint to guard	PERSON	0
+1.0	Moira Cameron	be	42	PERSON	NUMBER
+1.0	first female	ever appoint to	famous ceremonial guard	ORDINAL	0
+1.0	Cameron	have serve	22 year in force	PERSON	DURATION
+1.0	beefeater nickname	be	think	0	0
+1.0	Moira Cameron	become	female ever appoint to guard	PERSON	0
+1.0	Yeomen warders	have	right	O	O
+1.0	The first female beefeater at the Tower of London , whose appointment overturned more than 500 years of tradition	meet	she colleague	0	0
+1.0	allegiance	have	oath	O	O
+1.0	Moira Cameron	become	first female appoint to guard	PERSON	ORDINAL
+1.0	female	ever appoint to	ceremonial guard	0	0
+1.0	beefeater nickname	be think	date to day	0	0
+1.0	yeoman warder	be give	daily ration of meat	0	SET
+1.0	female	appoint to	guard	0	0
+1.0	Moira Cameron 42	become	female	NUMBER	0
+1.0	Cameron	have serve	22 year in armed force	PERSON	DURATION
+1.0	Yeomen warders	have	red	O	O
+1.0	first female	ever appoint to	famous guard	ORDINAL	0
+1.0	London	have	Tower	ORGANIZATION	ORGANIZATION
+1.0	Moira Cameron	become	female appoint to famous guard	PERSON	0
+1.0	Moira Cameron	become	female appoint to famous ceremonial guard	PERSON	0
+1.0	first female	appoint to	ceremonial guard	ORDINAL	0
+1.0	Moira Cameron 42	become	first female ever appoint to guard	NUMBER	ORDINAL
+1.0	Cameron	have serve	minimum 22 year in armed force	PERSON	DURATION
+1.0	Moira Cameron	become	female ever appoint to famous ceremonial guard	PERSON	0
+1.0	Cameron	boast	service	PERSON	0
+1.0	female	appoint to	famous guard	0	0
+1.0	beefeater nickname	be think	date back to day	0	0
+1.0	first female	appoint to	guard	ORDINAL	0
+1.0	nickname	be think	date to day	0	0
+1.0	her	have	army uniform	O	O
+1.0	first female	ever appoint to	ceremonial guard	ORDINAL	0
+1.0	nickname	be	think	0	0
+1.0	Cameron	have serve	minimum 22 year	PERSON	DURATION
+0.802778807832918	yeoman warder	daily ration of	meat	0	0
+1.0	Moira Cameron 42	become	first female appoint	NUMBER	ORDINAL
+1.0	Cameron	be from	Argyll	PERSON	ORGANIZATION
+1.0	Moira Cameron 42	become	female appoint	NUMBER	0
+1.0	warder	be	familiar	0	0
+1.0	Moira Cameron 42	become	female ever appoint to ceremonial guard	NUMBER	0
+1.0	Argyll	be in	Scotland	ORGANIZATION	LOCATION
+1.0	Moira Cameron 42	become	female appoint to famous ceremonial guard	NUMBER	0
+1.0	beefeater nickname	be think	date	0	0
+0.802778807832918	yeoman warder	ration of	meat	0	0
+1.0	beefeater nickname	be think	date back	0	0
+1.0	female	ever appoint to	famous ceremonial guard	0	0
+1.0	Beefeaters	live at	tower	0	0
+1.0	Moira Cameron	become	first female appoint to famous guard	PERSON	ORDINAL
+1.0	nickname	date to	day	0	0
+1.0	Moira Cameron	become	first female appoint to ceremonial guard	PERSON	ORDINAL
+1.0	first female	appoint to	famous guard	ORDINAL	0
+1.0	Moira Cameron	become	first female ever appoint to guard	PERSON	ORDINAL
+1.0	Moira Cameron 42	become	female appoint to guard	NUMBER	0
+1.0	tourist	be in	they red	0	0
+1.0	nickname	be think	date back to day	0	0
+1.0	her	have	appearance	O	O
+1.0	Moira Cameron 42	become	first female ever appoint	NUMBER	ORDINAL
+1.0	nickname	be think	date	0	0
+1.0	Cameron	boast	long service	PERSON	0
+1.0	Moira Cameron 42	become	female ever appoint to famous ceremonial guard	NUMBER	0
+1.0	Moira Cameron 42	become	first female appoint to guard	NUMBER	ORDINAL
+1.0	yeoman warder	be give	ration of meat	0	0
+1.0	Cameron	have serve	minimum 22 year in force	PERSON	DURATION
+1.0	Moira Cameron 42	become	first female ever appoint to famous guard	NUMBER	ORDINAL
+1.0	yeoman warder	be give	daily ration	0	SET
+1.0	Moira Cameron	become	female	PERSON	0
+1.0	beefeater nickname	date to	day	0	0
+1.0	Moira Cameron	become	first female	PERSON	ORDINAL
+1.0	Moira Cameron	become	female ever appoint	PERSON	0
+1.0	first female	ever appoint to	guard	ORDINAL	0

@@ -1,0 +1,137 @@
+1.0	World oil price	recover from	19-month low cause by winter temperature in hemisphere	0	DATE
+1.0	78 dollar	be in	the middle of the year	MONEY	DATE
+1.0	New York 's main oil future contract	close at	52.99 dollar	LOCATION	MONEY
+1.0	group	cut	output	0	0
+1.0	New York 's oil future contract	gain	1.11 dollar	LOCATION	MONEY
+1.0	World oil price	climb	recover from low cause	0	0
+1.0	Africa	in	biggest crude exporter	LOCATION	0
+1.0	group	cut output after	announced reduction	0	0
+1.0	group	cut output after	announced reduction of 1.2 million bpd in November	0	DATE
+1.0	World oil price	recover from	low cause by winter temperature in hemisphere	0	DATE
+1.0	separatist unrest	have ravage	oil industry	0	0
+1.0	World oil price	recover from	low cause by warm winter temperature	0	DATE
+1.0	group	cut output after	announced reduction of 1.2 million bpd	0	NUMBER
+1.0	World oil price	climb	recover from 19-month low cause by winter temperature	0	DATE
+1.0	crude price	be	unlikely	0	0
+1.0	unrest	have ravage	oil industry in Africa 's biggest crude exporter	0	LOCATION
+1.0	World oil price	climb	recover from low cause by warm winter temperature	0	DATE
+1.0	dollars	have	support level	O	MONEY
+1.0	oil industry	be in	Africa 's biggest crude exporter	0	LOCATION
+1.0	crude price	drop below	support level	0	0
+1.0	OPEC basket	fall since	May of 2005	ORGANIZATION	DATE
+1.0	Tony Nunan	analyst at	Mitsubishi Corp. energy risk management	PERSON	ORGANIZATION
+1.0	price	hit record high above	78 dollar in middle	0	DATE
+1.0	unrest	have ravage	oil industry in Africa 's crude exporter	0	LOCATION
+1.0	group	cut output after	reduction	0	0
+1.0	world	have	nation	O	O
+1.0	oil	have	price	O	O
+1.0	World oil price	climb	recover from low cause by warm winter temperature in northern hemisphere	0	DATE
+1.0	crude future	have slump by	14 percent since start of 2007	0	PERCENT
+1.0	jitters	link to	country	0	0
+1.0	World oil price	recover from	19-month low cause	0	DURATION
+1.0	World oil price	climb	recover	0	0
+1.0	bpd	have	reduction	O	O
+1.0	Bayelsa	have	state	O	LOCATION
+1.0	future	have slump by	14 percent	0	PERCENT
+1.0	Nigeria	have	Niger Delta region	O	LOCATION
+1.0	price	be above	at close 60 dollar	0	MONEY
+1.0	World oil price	recover from	19-month low cause by warm winter temperature in northern hemisphere	0	DATE
+1.0	OPEC basket	fall under	50 dollar for first time	ORGANIZATION	ORDINAL
+1.0	New York 's oil future contract	close at	52.99 dollar	LOCATION	MONEY
+1.0	mild weather	be in	America	0	LOCATION
+1.0	future	have slump by	14 percent since start of 2007	0	PERCENT
+1.0	World oil price	climb	recover from low cause by winter temperature in hemisphere	0	DATE
+1.0	World oil price	climb on	Friday	0	DATE
+1.0	group	decide at	meeting	0	0
+1.0	group	cut output after	reduction of 1.2 million bpd in November	0	DATE
+1.0	dollars	have	test	O	MONEY
+1.0	OPEC basket	fall under	50 dollar	ORGANIZATION	MONEY
+1.0	World oil price	recover from	low cause by winter temperature in northern hemisphere	0	DATE
+1.0	emergency meeting	be	hold	0	0
+1.0	world	with	biggest energy-consuming nation enjoy unusually warm winter	0	DATE
+1.0	warm winter temperature	be in	northern hemisphere	DATE	0
+1.0	its	have	supply	O	O
+1.0	World oil price	recover from	19-month low	0	DURATION
+1.0	World oil price	recover from	19-month low cause by warm winter temperature	0	DATE
+1.0	World oil price	climb	recover from 19-month low cause by warm winter temperature in northern hemisphere	0	DATE
+1.0	1.2 million bpd	be in	November	NUMBER	DATE
+1.0	price	hit record high above	78 dollar	0	MONEY
+1.0	building	have	surplus	O	O
+1.0	price	hit record high above	78 dollar in middle of year	0	DATE
+1.0	World oil price	climb to	nearly 53 dollar	0	MONEY
+1.0	last year geopolitical jitters	link to	country	DATE	0
+1.0	World oil price	climb	recover from 19-month low cause by warm winter temperature	0	DATE
+1.0	unrest	have ravage	oil industry	0	0
+1.0	US petroleum products	have	inventories	O	O
+1.0	crude price	drop below	strong support level	0	0
+1.0	Organization	cut further	its oil output	ORGANIZATION	0
+1.0	group	cut output after	reduction of 1.2 million bpd	0	NUMBER
+1.0	World oil price	recover from	19-month low cause by winter temperature	0	DATE
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	geopolitical jitters	link to	country	0	0
+1.0	last year jitters	link to	country	DATE	0
+1.0	Africa	have	crude exporter	O	LOCATION
+1.0	New York 's main oil future contract	crude for	February delivery	LOCATION	DATE
+0.11998017411404804	market	be	afraid	0	0
+1.0	2005	have	May	DATE	DATE
+1.0	the Organization of the Petroleum Exporting Countries -LRB- OPEC -RRB-	have	oil output	O	O
+1.0	New York 's main oil future contract	gain	1.11 dollar	LOCATION	MONEY
+1.0	crude price	drop in	come week	0	DATE
+1.0	group	cut output by	500,000 barrel per day	0	DURATION
+1.0	World oil price	recover from	low cause by warm winter temperature in northern hemisphere	0	DATE
+1.0	2007	have	start	DATE	DATE
+1.0	World oil price	recover from	low cause by winter temperature	0	DATE
+1.0	Organization	cut	its oil output	ORGANIZATION	0
+1.0	separatist unrest	have ravage	oil industry in Africa 's crude exporter	0	LOCATION
+1.0	group	decide at_time	month	0	DATE
+1.0	World oil price	recover from	low cause by warm winter temperature in hemisphere	0	DATE
+1.0	World oil price	recover from	low cause	0	0
+1.0	group	decide at_time	last month	0	DATE
+1.0	World oil price	climb	recover from 19-month low cause by warm winter temperature in hemisphere	0	DATE
+1.0	World oil price	climb	recover from 19-month low cause by winter temperature in northern hemisphere	0	DATE
+1.0	World oil price	climb	recover from 19-month low cause by winter temperature in hemisphere	0	DATE
+1.0	crude price	drop in	week	0	DATE
+1.0	World oil price	climb	recover from 19-month low cause	0	DURATION
+1.0	World oil price	recover from	19-month low cause by warm winter temperature in hemisphere	0	DATE
+1.0	World oil price	climb	recover from low cause by winter temperature	0	DATE
+1.0	government spokesman	tell afp on	Friday	0	DATE
+1.0	World oil price	climb	recover from 19-month low	0	DURATION
+1.0	year	have	middle	DATE	DATE
+1.0	price	be above	at close of 2006 60 dollar	0	MONEY
+1.0	World oil price	climb	recover from low cause by winter temperature in northern hemisphere	0	DATE
+1.0	price	settle at	52.95 dollar	0	MONEY
+1.0	future	have slump by	14 percent since start	0	PERCENT
+1.0	OPEC basket	fall under	50 dollar for time	ORGANIZATION	MONEY
+1.0	year geopolitical jitters	link to	country	DATE	0
+0.11998017411404804	market	be	afraid of	0	0
+1.0	World oil price	recover from	low	0	0
+1.0	World oil price	recover from	19-month low cause by winter temperature in northern hemisphere	0	DATE
+1.0	OPEC basket	fall since	May	ORGANIZATION	DATE
+1.0	cartel	have	prognosis	O	O
+1.0	year jitters	link to	country	DATE	0
+1.0	Investec	have	Jackson	ORGANIZATION	PERSON
+1.0	group	cut output by	500,000 barrel	0	NUMBER
+1.0	crude future	have slump by	14 percent since start	0	PERCENT
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	World oil price	climb	recover from low	0	0
+1.0	price	rise	1.25 dollar	0	MONEY
+1.0	crude price	drop below	support level of 50 dollar	0	MONEY
+1.0	crude price	drop below	strong support level of 50 dollar	0	MONEY
+1.0	World oil price	climb	recover from low cause by warm winter temperature in hemisphere	0	DATE
+1.0	Adrian Jackson	analyst at	Investec Asset Management	PERSON	ORGANIZATION
+1.0	group	cut output from	February	0	DATE
+1.0	Brent North Sea crude	have	price	O	O
+1.0	price	hit	record high	0	0
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	2006	have	close	O	DATE
+1.0	government spokesman	tell	AFP	0	ORGANIZATION
+1.0	gunman	be in	Nigeria	0	LOCATION
+1.0	emergency meeting	be hold on	January 20	0	DATE
+1.0	separatist unrest	have ravage	oil industry in Africa 's biggest crude exporter	0	LOCATION
+0.28627611980559997	price	rise in	London	0	LOCATION
+1.0	price	be above	60 dollar	0	MONEY
+1.0	crude future	have slump by	14 percent	0	PERCENT
+1.0	Investec	have	Jackson	PERSON	ORGANIZATION
+1.0	Petroleum Exporting Countries	have	Organization	ORGANIZATION	ORGANIZATION
+1.0	analysts	have	levels	O	O

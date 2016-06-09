@@ -1,0 +1,96 @@
+1.0	US casino operator Las Vegas Sands Corp.	say in	statement	LOCATION	0
+1.0	Sands	be	foreign-owned casino open in Macau in 2004	MISC	LOCATION
+1.0	development	have	feet	O	O
+1.0	Sands	be	first foreign-owned casino open in Macau	MISC	ORDINAL
+1.0	Resort Project	have	development	O	O
+1.0	Sands	be	casino open	MISC	0
+1.0	US group	be boost	investment	LOCATION	0
+1.0	Sands ' project	will feature	replica of successful venetian hotel	0	0
+1.0	hengqin	be part of	Zhuhai city government 's administration in China	0	LOCATION
+1.0	Zhuhai city government	of	administration in southern China	LOCATION	LOCATION
+1.0	US group	build	extra 6,000 hotel room along 198-acre channel of land	LOCATION	NUMBER
+1.0	administration	have	part	O	O
+1.0	Macau	have	gambling mecca	O	LOCATION
+1.0	Sands	be	casino open in Macau	MISC	LOCATION
+1.0	Sands	be	first foreign-owned casino	MISC	ORDINAL
+1.0	US casino operator Las Vegas Sands Corp.	open	another	LOCATION	0
+1.0	Sands	be	foreign-owned casino open in Macau	MISC	LOCATION
+1.0	US group	build	extra 6,000 hotel room along channel of reclaim land	LOCATION	NUMBER
+1.0	Las Vegas Sands Corp.	be	US	ORGANIZATION	LOCATION
+1.0	Macau	in	Cotai Strip casino resort	LOCATION	LOCATION
+1.0	US group	be boost investment by	25 percent	LOCATION	PERCENT
+1.0	Sands	be	first foreign-owned casino open in Macau in 2004	MISC	ORDINAL
+1.0	project	would cover	80 million foot of development include convention center	0	NUMBER
+1.0	project	would cover	80 million square foot	0	NUMBER
+1.0	Las Vegas Sands Corp.	be casino operator of	US	ORGANIZATION	LOCATION
+1.0	Sands	be	casino	MISC	0
+1.0	US group	build	6,000 hotel room of reclaim land	LOCATION	NUMBER
+1.0	project	would cover	80 million square foot of development	0	NUMBER
+1.0	Zhuhai city government 's administration	be in	China 's	LOCATION	LOCATION
+1.0	project	would cover	80 million foot	0	NUMBER
+1.0	US group	build	extra 6,000 hotel room along 198-acre channel of reclaim land	LOCATION	NUMBER
+1.0	Sands ' project	will feature	replica of successful hotel	0	0
+1.0	Sands ' project	will feature	replica of hotel	0	0
+1.0	scale	be in	China 's	0	LOCATION
+1.0	tycoon Stanley Ho	have	control	O	PERSON
+1.0	Sands	be	foreign-owned casino open	MISC	0
+1.0	US group	be boost investment to	10 billion dollar	LOCATION	MONEY
+1.0	hengqin	be	part	0	0
+1.0	US group	build	extra 6,000 hotel room along 198-acre channel	LOCATION	NUMBER
+1.0	China	have	Hengqin Island	LOCATION	LOCATION
+1.0	project	would cover	80 million foot of development	0	NUMBER
+1.0	company	to	propose development of venetian Hengqin International Convention in Zhuhai	0	LOCATION
+1.0	Sands ' project	will feature	replica	0	0
+1.0	project	have	development	O	O
+1.0	Sands	be	foreign-owned casino	MISC	0
+1.0	US group	build	extra 6,000 hotel room of reclaim land	LOCATION	NUMBER
+1.0	China	on	Hengqin Island	LOCATION	LOCATION
+1.0	US casino operator Las Vegas Sands Corp.	have	one casino	LOCATION	NUMBER
+1.0	Sands	be	first casino open in Macau in 2004	MISC	ORDINAL
+1.0	US group	build	extra 6,000 hotel room along channel	LOCATION	NUMBER
+1.0	US group	build	6,000 hotel room along 198-acre channel	LOCATION	NUMBER
+1.0	US group	build	6,000 hotel room along channel	LOCATION	NUMBER
+1.0	Sands ' project	will feature	replica of venetian hotel	0	0
+1.0	Sands	have	project	O	O
+1.0	new investment	be in	Macau 's Cotai Strip casino resort	0	LOCATION
+1.0	US group	build	6,000 hotel room along 198-acre channel of reclaim land	LOCATION	NUMBER
+1.0	US group	build	6,000 hotel room along channel of land	LOCATION	NUMBER
+1.0	US casino operator Las Vegas Sands Corp.	have	proposal	O	O
+1.0	Portuguese enclave	have	gaming market	O	O
+1.0	US group	build	extra 6,000 hotel room along channel of land	LOCATION	NUMBER
+1.0	Macau	have	Cotai Strip casino resorts	O	LOCATION
+1.0	hotel	have	replica	O	O
+1.0	formation	be	positive	0	0
+1.0	US group	be boost	investment in Macau 's Cotai Strip casino resort	LOCATION	LOCATION
+1.0	US group	be boost	new investment in Macau 's Cotai Strip casino resort	LOCATION	LOCATION
+1.0	Sands	be	casino open in Macau in 2004	MISC	LOCATION
+1.0	Hengqin International Convention	have	development	O	O
+1.0	Zhuhai city government	have	administration	O	O
+1.0	land	have	hotel rooms	O	O
+1.0	hengqin	lie near	gambling mecca	0	0
+1.0	Sands ' project	will feature replica in	US casino operator Las Vegas Sands Corp.	0	LOCATION
+1.0	scale	have	projects	O	O
+1.0	Sands	be	first casino open in Macau	MISC	ORDINAL
+1.0	US group	build	6,000 hotel room along channel of reclaim land	LOCATION	NUMBER
+1.0	Sands	be	first casino open	MISC	ORDINAL
+1.0	Macau	be in	2004	LOCATION	DATE
+1.0	former Portuguese enclave	have	gaming market	MISC	0
+1.0	hengqin	lie near	gambling mecca of Macau	0	LOCATION
+1.0	Sands	be	first foreign-owned casino open	MISC	ORDINAL
+1.0	former Portuguese enclave 's gaming market	be liberalize under	40 year under	MISC	DATE
+1.0	US group	build	6,000 hotel room along 198-acre channel of land	LOCATION	NUMBER
+1.0	US casino operator Las Vegas Sands Corp.	already have	one casino	LOCATION	NUMBER
+1.0	US group	build	extra 6,000 hotel room	LOCATION	NUMBER
+1.0	US group	be boost	new investment	LOCATION	0
+1.0	US group	build	6,000 hotel room	LOCATION	NUMBER
+1.0	company	have	development	O	O
+1.0	project	would cover	80 million square foot of development include convention center	0	NUMBER
+1.0	US group	build	extra 6,000 hotel room of land	LOCATION	NUMBER
+1.0	hengqin	be part of	Zhuhai city government 's administration in southern China	0	LOCATION
+1.0	venetian Hengqin International Convention	be in	Zhuhai	0	LOCATION
+1.0	US group	build	6,000 hotel room of land	LOCATION	NUMBER
+1.0	hengqin	be part of	Zhuhai city government 's administration	0	LOCATION
+1.0	a `` Project Coordination Committee	have	formation	O	ORGANIZATION
+1.0	US casino operator Las Vegas Sands Corp.	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Sands ' project	be in	Cotai Strip	0	LOCATION
+1.0	Sands	be	first casino	MISC	ORDINAL

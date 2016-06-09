@@ -1,0 +1,16 @@
+1.0	explosion	be in	General Santos city	0	PERSON
+1.0	bomb	go off in	Kidapawan city	0	LOCATION
+1.0	bomb	be	leave	0	0
+1.0	bomb	be leave on	roadside in Cotabato City	0	LOCATION
+1.0	roadside	be in	Cotabato City	0	LOCATION
+1.0	long separatist war	be on	run	DURATION	0
+1.0	long separatist war	be on	run from manhunt	DURATION	DURATION
+1.0	long separatist war	be on	run from military manhunt	DURATION	DURATION
+1.0	separatist war	be on	run	DURATION	0
+1.0	attack	occur on	Mindanao island	DURATION	DURATION
+1.0	bomb	be leave on	roadside	0	0
+1.0	attack	all occur on	Mindanao island	DURATION	DURATION
+1.0	separatist war	be on	run from manhunt	DURATION	DURATION
+1.0	bomb	go in	Kidapawan city	0	LOCATION
+1.0	separatist war	be on	run from military manhunt	DURATION	DURATION
+1.0	bomb	be leave on	roadside in Cotabato City on Mindanao island	0	LOCATION

@@ -1,0 +1,68 @@
+1.0	gains	have	some	O	O
+1.0	their	have	positions	O	O
+1.0	19,948.02	have	low	O	NUMBER
+0.6382175535764603	bearish pressure	heavy activity in	warrant market	0	0
+1.0	US Federal Reserve meeting	have	Minutes	DURATION	O
+1.0	heavy activity	also exert	bearish pressure	0	0
+1.0	activity	exert pressure on	market	0	0
+1.0	Hang Seng Index	close down off	low of 19,948.02	MISC	NUMBER
+1.0	heavy activity	also exert pressure on	market	0	0
+1.0	mainland property	be lower with	Beijing Capital Land	0	ORGANIZATION
+1.0	biggest gain	be in	recent rally of market	0	0
+1.0	heavy activity	exert pressure on	market	0	0
+0.6382175535764603	bearish pressure	activity in	warrant market	0	0
+1.0	profit-taking	be in	China stock	0	LOCATION
+0.32672923300205287	HSBC	fall at	143.90	ORGANIZATION	NUMBER
+1.0	heavy activity	be in	warrant market	0	0
+1.0	Alex Wong	manager at	Shenyin Wanguo Securities	PERSON	ORGANIZATION
+1.0	investors	have	scores	O	O
+1.0	market	have	rallies	O	O
+1.0	activity	exert	bearish pressure	0	0
+0.47937962732886696	Cheung Kong	fall at	95.85	LOCATION	NUMBER
+0.6382175535764603	pressure	heavy activity in	warrant market	0	0
+1.0	activity	exert	pressure	0	0
+1.0	heavy activity	exert	bearish pressure	0	0
+1.0	Hang Seng Index	close off	low of 19,948.02	MISC	NUMBER
+0.47937962732886696	Bank	fall at	8.97	ORGANIZATION	NUMBER
+0.3096862753600879	Chalco	fall at	7.64	ORGANIZATION	NUMBER
+1.0	20,463.18	have	high	O	NUMBER
+1.0	market	have	matter	O	O
+0.6382175535764603	pressure	activity in	warrant market	0	0
+1.0	Bank	fall	0.83	ORGANIZATION	NUMBER
+1.0	activity	also exert	bearish pressure	0	0
+1.0	bulls	have	matter	O	O
+1.0	mainland property	be also lower with	Beijing Capital Land	0	ORGANIZATION
+1.0	low	have	closed	O	O
+1.0	their	have	surge	O	O
+1.0	activity	also exert pressure at_time	today	0	DATE
+1.0	high	have	closed	O	O
+1.0	mainland property	be	also lower	0	0
+0.6129371151831279	Beijing Capital Land	lose	0.28	ORGANIZATION	NUMBER
+1.0	activity	also exert	pressure	0	0
+1.0	stock	be in	other sector	0	0
+1.0	mainland property	be	lower	0	0
+1.0	heavy activity	also exert pressure at_time	today	0	DATE
+1.0	activity	exert pressure at_time	today	0	DATE
+1.0	Matthew Kwok	head of	research at Tanrich Securities	PERSON	ORGANIZATION
+1.0	profit-taking today	have	target	O	DATE
+1.0	heavy activity	exert	pressure	0	0
+1.0	Thursday	have	selling	O	DATE
+1.0	Cheung Kong	fall	2.95	LOCATION	NUMBER
+1.0	research	have	head	O	O
+1.0	Hang Seng Index	close down off	low	MISC	0
+1.0	Hang Seng Index	close off	low	MISC	0
+1.0	pullback	have	severity	O	O
+1.0	activity	also exert pressure on	market	0	0
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Hang Seng China Enterprises index	be at	down 418.41 point 10,347.67	ORGANIZATION	NUMBER
+0.4767559192395985	0.83	bank of	Communications	NUMBER	ORGANIZATION
+1.0	Hang Seng Index	close down at	20,025.58	MISC	NUMBER
+1.0	Hang Seng Index	close at	20,025.58	MISC	NUMBER
+1.0	pullback	be in	US housing sector	0	LOCATION
+1.0	heavy activity	also exert	pressure	0	0
+1.0	heavy activity	exert pressure at_time	today	0	DATE
+1.0	Hang Seng China Enterprises index	be at	down 10,347.67	ORGANIZATION	NUMBER
+0.6815667883564607	HSBC	fall	0.90	ORGANIZATION	NUMBER
+0.6460146775232796	Chalco	fall	0.03	ORGANIZATION	NUMBER
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION
+0.47937962732886696	Bank	fall among	China financial	ORGANIZATION	LOCATION

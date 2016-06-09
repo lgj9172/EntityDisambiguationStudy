@@ -1,0 +1,76 @@
+1.0	David Taylor	be by	Fed	PERSON	ORGANIZATION
+1.0	family	be in	Melbourne	0	LOCATION
+1.0	Serbian teenager Ana Ivanovic	be	coach	0	0
+1.0	Ivanovic	start against	Vinci	PERSON	PERSON
+1.0	season	have	match	O	O
+1.0	Women	have	Hardcourt tennis championships	O	O
+1.0	connections	have	crowd favourite	O	O
+1.0	Germany	of groenefeld be	6-7	LOCATION	NUMBER
+1.0	teenager Ana Ivanovic	cruise into	round of Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	serbian teenager Ana Ivanovic	cruise into	round of Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	Ana Ivanovic	be	serbian	PERSON	0
+1.0	serbian teenager Ana Ivanovic	cruise into	second round of Women 's Hardcourt tennis championship	PERSON	ORDINAL
+1.0	Anna-Lena Groenefeld	be of	Germany	PERSON	LOCATION
+1.0	Serbian teenager Ana Ivanovic	beat	italian qualifier Roberta Vinci 7-6 here Monday	0	PERSON
+1.0	Tathiana Garbin	cause	day 's big upset	PERSON	DATE
+1.0	Tathiana Garbin	cause	day 's upset	PERSON	DATE
+1.0	her	have	power	O	O
+1.0	Venezuela	have	Milagros Sequera	PERSON	LOCATION
+1.0	Shahar Peer	be	fifth	PERSON	ORDINAL
+1.0	Shahar Peer	be	israeli	PERSON	0
+1.0	Serbian teenager Ana Ivanovic	be coach by	australian Fed Cup captain David Taylor	0	PERSON
+1.0	the day	have	big upset	DATE	0
+1.0	Serbian teenager Ana Ivanovic	have	connections	O	O
+1.0	teenager Ana Ivanovic	cruise into	round	PERSON	0
+1.0	tennis	have	glamour girls	O	O
+1.0	Serbian teenager Ana Ivanovic	beat	italian qualifier Roberta Vinci 7-6 6-1 here Monday	0	NUMBER
+1.0	Serbian teenager Ana Ivanovic	beat	italian qualifier Roberta Vinci 7-6	0	PERSON
+0.8251939746352556	Serbian teenager Ana Ivanovic	family in	Melbourne	0	LOCATION
+1.0	seed	beat	czech qualifer	0	0
+1.0	Serbian teenager Ana Ivanovic	beat	qualifier Roberta Vinci 7-6 6-1 here	0	NUMBER
+1.0	fourth seed	beat	czech qualifer	ORDINAL	0
+1.0	australian Women	of	Hardcourt tennis championship	0	MISC
+1.0	Serbian teenager Ana Ivanovic	beat	qualifier Roberta Vinci 7-6 6-1 here Monday	0	NUMBER
+1.0	David Taylor	be cup captain of	Fed	PERSON	ORGANIZATION
+1.0	Serbian teenager Ana Ivanovic	beat	7/5	0	NUMBER
+1.0	Serbian teenager Ana Ivanovic	beat	qualifier Roberta Vinci 7-6 here Monday	0	PERSON
+1.0	Li Na	be	sixth	PERSON	ORDINAL
+1.0	Hardcourt tennis championships	have	round	O	O
+1.0	serbian teenager Ana Ivanovic	cruise into	second round of australian Women 's Hardcourt tennis championship	PERSON	ORDINAL
+1.0	teenager Ana Ivanovic	cruise into	round of australian Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	Serbian teenager Ana Ivanovic	will play	Venezuela 's Milagros Sequera in round	PERSON	PERSON
+1.0	day	have	upset	O	DATE
+1.0	Germany	have	Anna-Lena Groenefeld	PERSON	LOCATION
+1.0	serbian teenager Ana Ivanovic	cruise into	round of australian Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	serbian teenager Ana Ivanovic	cruise into	second round	PERSON	ORDINAL
+1.0	Serbian teenager Ana Ivanovic	beat	qualifier Roberta Vinci 7-6 here	0	PERSON
+1.0	teenager Ana Ivanovic	cruise into	second round of australian Women 's Hardcourt tennis championship	PERSON	ORDINAL
+1.0	Venezuela	have	Milagros Sequera	LOCATION	PERSON
+1.0	teenager Ana Ivanovic	cruise into	second round	PERSON	ORDINAL
+1.0	seed	beat	qualifer	0	0
+1.0	Serbian teenager Ana Ivanovic	will play	Venezuela 's Milagros Sequera	PERSON	PERSON
+1.0	Serbian teenager Ana Ivanovic	beat	italian qualifier Roberta Vinci 7-6 here	0	PERSON
+1.0	serbian teenager Ana Ivanovic	cruise into	round	PERSON	0
+1.0	Serbian teenager Ana Ivanovic	beat	italian qualifier Roberta Vinci 7-6 6-1 here	0	NUMBER
+1.0	women	have	tennis	O	O
+1.0	perfectionist	be in	way	0	0
+1.0	Serbian teenager Ana Ivanovic	beat	qualifier Roberta Vinci 7-6	0	PERSON
+1.0	Ivanovic	need	tiebreaker	PERSON	0
+1.0	Serbian teenager Ana Ivanovic	will play	Venezuela 's Milagros Sequera in second round	PERSON	ORDINAL
+1.0	italian Tathiana Garbin	cause	day 's big upset	PERSON	DATE
+1.0	my	have	career	O	O
+1.0	italian Tathiana Garbin	cause	day 's upset	PERSON	DATE
+1.0	Ivanovic	start slowly against	Vinci	PERSON	PERSON
+1.0	China	have	seed Li Na	PERSON	LOCATION
+1.0	Tathiana Garbin	be	italian	PERSON	0
+1.0	Germany	of groenefeld be	7/4	LOCATION	NUMBER
+1.0	the Australian Women 's	expect	the Australian Women 's	0	0
+1.0	Li Na	be of	China	PERSON	LOCATION
+1.0	Milagros Sequera	be in	second round	PERSON	ORDINAL
+1.0	Roberta Vinci	be	italian	PERSON	0
+1.0	glamour girls	have	one	NUMBER	O
+1.0	the Australian Women 's	have	game	O	O
+1.0	Serbian teenager Ana Ivanovic	be coach by	Fed Cup captain David Taylor	0	PERSON
+1.0	woman	of	tennis	0	0
+1.0	teenager Ana Ivanovic	cruise into	second round of Women 's Hardcourt tennis championship	PERSON	ORDINAL
+1.0	fourth seed	beat	qualifer	ORDINAL	0

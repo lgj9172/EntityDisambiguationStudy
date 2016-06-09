@@ -1,0 +1,67 @@
+1.0	La Caixa	be from	spanish	ORGANIZATION	0
+1.0	French utility company Suez	be currently engage in	merger	ORGANIZATION	0
+1.0	Suez spokesman	confirm report in	spanish newspaper	ORGANIZATION	0
+1.0	percent interest	have	portion	O	O
+1.0	Pinault	have	hold company Artemis make	PERSON	ORGANIZATION
+1.0	transaction	have	have complicate	0	0
+1.0	Sofina	prior have	1.1 percent stake in Suez	ORGANIZATION	PERCENT
+1.0	french business heavywight	mull	Chirac ally Fancois Pinault	0	PERSON
+1.0	French utility company Suez	say at_time	Friday	ORGANIZATION	DATE
+1.0	Suez spokesman	confirm report in	newspaper	ORGANIZATION	0
+1.0	delicate merger	be with	state	LOCATION	0
+1.0	transaction	have	have complicate in recent day on report	0	DURATION
+1.0	Fancois Pinault	be	Chirac	PERSON	PERSON
+1.0	Albert Frere	have acquire	1.35 percent stake in utility company Suez	PERSON	PERCENT
+1.0	Sofina	prior have	1.1 percent stake	ORGANIZATION	PERCENT
+1.0	government	announce	plan	0	0
+1.0	French utility company Suez	be engage in	merger	ORGANIZATION	0
+1.0	LVMH	be	Bernard Arnault	ORGANIZATION	PERSON
+1.0	French utility company Suez	be	currently engage	ORGANIZATION	DATE
+1.0	Enel	be by	italian	ORGANIZATION	0
+1.0	transaction	have	have complicate in recent day	0	DURATION
+1.0	markets regulator	have	intervention	O	O
+1.0	Suez spokesman	confirm	report	ORGANIZATION	0
+1.0	Frere	have	company	O	PERSON
+1.0	Albert Frere	have acquire	1.35 percent stake in french utility company Suez	PERSON	PERCENT
+1.0	Thursday Frere	prepare	they own bid	DATE	0
+1.0	Finance Minister Thierry Breton	have	backing	O	PERSON
+1.0	business heavywight	mull	Chirac ally Fancois Pinault	0	PERSON
+1.0	Thursday Frere	later be report by	publication Mariane	DATE	PERSON
+1.0	French utility company Suez	be currently engage in	delicate merger	ORGANIZATION	LOCATION
+1.0	GDF	have	privatization	O	ORGANIZATION
+1.0	Pinault	have	company	O	PERSON
+1.0	Suez spokesman	confirm report at_time	EL Pais	ORGANIZATION	ORGANIZATION
+1.0	Thursday Frere	be report by	publication Mariane	DATE	PERSON
+1.0	French utility company Suez	be in	french	ORGANIZATION	0
+1.0	business heavywight	mull	bid for Suez himself	0	ORGANIZATION
+1.0	Mariane	be by	weekly	PERSON	SET
+1.0	source	say close to	French utility company Suez	0	ORGANIZATION
+1.0	Albert Frere	have acquire	1.35 percent stake	PERSON	PERCENT
+1.0	Sofina	have	1.1 percent stake	ORGANIZATION	PERCENT
+1.0	French utility company Suez	be	engage	ORGANIZATION	0
+1.0	French utility company Suez	be engage in	delicate merger	ORGANIZATION	LOCATION
+1.0	company 's principal shareholder	be with	stake of 8.0 percent	0	PERCENT
+1.0	Albert Frere	have	hold company	PERSON	0
+1.0	Thursday Frere	prepare	they bid	DATE	0
+1.0	Sofina	have	1.1 percent stake in Suez	ORGANIZATION	PERCENT
+1.0	Socialist opposition	have	objections	O	O
+1.0	french business heavywight	mull	bid himself	0	0
+1.0	its	have	intentions	O	O
+1.0	french business heavywight	mull	bid for Suez himself	0	ORGANIZATION
+1.0	transaction	have	have complicate in day	0	0
+1.0	Thursday Frere	be	report	DATE	0
+1.0	percent	have	stake	O	PERCENT
+1.0	1.1 percent stake	be in	French utility company Suez	PERCENT	ORGANIZATION
+1.0	Bernard Arnault	be of	french	PERSON	0
+1.0	french government	announce	plan	0	0
+1.0	Fancois Pinault	be ally of	Chirac	PERSON	PERSON
+1.0	luxury goods group LVMH Arnault	have	executive	O	PERSON
+1.0	holding	have	re-assignment	O	O
+1.0	transaction	have	have complicate in day on report	0	0
+1.0	their	have	bid	O	O
+1.0	its	have	sources	O	O
+1.0	company	have	shareholder	O	O
+1.0	business heavywight	mull	bid himself	0	0
+1.0	Thierry Breton	be of	french	PERSON	0
+1.0	Thursday Frere	be	later report	DATE	DATE
+1.0	1.35 percent stake	be in	French utility company Suez	PERCENT	ORGANIZATION

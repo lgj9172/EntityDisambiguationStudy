@@ -1,0 +1,12 @@
+1.0	european stock market	close	higher	0	0
+0.28627611980559997	CAC 40 index	rise to	5,617.71 point	NUMBER	NUMBER
+1.0	CAC 40 index	rise	1.37 percent	NUMBER	PERCENT
+0.28627611980559997	CAC index	rise to	5,617.71 point	MISC	NUMBER
+0.28627611980559997	CAC index	rise in	Paris	MISC	LOCATION
+1.0	Tuesday	day of	trading	DURATION	0
+1.0	stock market	close	higher	0	0
+1.0	CAC index	rise	1.37 percent	MISC	PERCENT
+0.28627611980559997	CAC 40 index	rise in	Paris	NUMBER	LOCATION
+1.0	trading	have	day	DURATION	O
+1.0	Dax	gain	1.28 percent	0	PERCENT
+1.0	Dax	end at	6,681.13 point	0	NUMBER

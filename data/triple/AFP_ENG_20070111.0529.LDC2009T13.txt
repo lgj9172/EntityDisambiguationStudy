@@ -1,0 +1,59 @@
+1.0	Giniel De Villiers	have	Jean-Louis Schlesser	PERSON	ORGANIZATION
+1.0	Jean-Louis Schlesser	be of	Giniel De Villiers	PERSON	ORGANIZATION
+1.0	America 's Robby Gordon	drive	Hummer	LOCATION	0
+1.0	it	be	race 's longest stage over 817km from Tan-Tan	0	LOCATION
+1.0	America 's Robby Gordon	win	sixth stage of Dakar Rally	LOCATION	LOCATION
+1.0	race	have	longest stage over 817km from Tan-Tan in Morocco	0	LOCATION
+1.0	Jordi Villadoms	be rider of	ktm	PERSON	0
+1.0	America 's Robby Gordon	win stage on	Thursday finish of Jean-Louis Schlesser	LOCATION	DATE
+1.0	America 's Robby Gordon	win stage on	Thursday finish ahead of Jean-Louis Schlesser	LOCATION	DATE
+1.0	America 's Robby Gordon	win stage on	Thursday finish	LOCATION	DATE
+1.0	spanish ktm rider	win	motorcycle section ahead of compatriot leader Marc Coma	0	PERSON
+1.0	stages	have	394km	O	O
+1.0	America 's Robby Gordon	win stage on	Thursday finish of Jean-Louis Schlesser of France Africa 's Giniel De Villiers	LOCATION	LOCATION
+1.0	America 's Robby Gordon	win stage on	Thursday finish ahead of Jean-Louis Schlesser of France Africa 's Giniel De Villiers	LOCATION	LOCATION
+0.7681933335395105	KTM rider	cover	394km of stage between Tan-Tan	ORGANIZATION	DURATION
+1.0	American Chris Blais	have	motorcycle section	O	PERSON
+1.0	America 's Robby Gordon	win	stage of Dakar Rally	LOCATION	LOCATION
+1.0	394km	finish	57sec	0	0
+1.0	KTM rider	take	six place	ORGANIZATION	NUMBER
+1.0	South Africa	of	Giniel De Villiers	LOCATION	ORGANIZATION
+1.0	KTM rider	take	top six place with villadom	ORGANIZATION	NUMBER
+1.0	America 's Robby Gordon	win	sixth stage	LOCATION	ORDINAL
+1.0	spanish ktm rider	win	motorcycle section	0	0
+1.0	Jean-Louis Schlesser	have	finishing	O	PERSON
+1.0	it	be	race 's stage over 817km	0	0
+1.0	394km	finish	57sec of coma 57sec	0	DURATION
+1.0	America	have	Robby Gordon	PERSON	LOCATION
+1.0	Dakar Rally	have	stage	O	O
+0.7681933335395105	KTM rider	cover	394km of stage	ORGANIZATION	DURATION
+1.0	ktm rider	win	motorcycle section of compatriot leader Marc Coma	0	PERSON
+1.0	KTM rider	take	six place with villadom	ORGANIZATION	NUMBER
+1.0	it	be	race 's longest stage	0	0
+1.0	it	be	race 's stage over 817km from Tan-Tan	0	LOCATION
+1.0	top six place	be with	villadom	NUMBER	DURATION
+1.0	spanish ktm rider	win	motorcycle section of compatriot leader Marc Coma	0	PERSON
+1.0	394km	here finish	57sec of coma 57sec	0	DURATION
+1.0	394km	here finish	57sec ahead of coma 57sec	0	DURATION
+1.0	it	be	race 's longest stage over 817km	0	0
+1.0	Coma 57sec	have	57sec	O	O
+1.0	394km	finish	57sec ahead of coma 57sec	0	DURATION
+1.0	America 's Robby Gordon	win	stage	LOCATION	0
+1.0	KTM rider	take	top six place	ORGANIZATION	NUMBER
+1.0	ktm rider	win	motorcycle section	0	0
+1.0	America 's Robby Gordon	win stage on	Thursday finish ahead	LOCATION	DATE
+1.0	race	have	stage	O	O
+0.7681933335395105	KTM rider	cover	394km of special stage	ORGANIZATION	DURATION
+1.0	America 's Robby Gordon	win stage on	Thursday	LOCATION	DATE
+1.0	ktm rider	win	motorcycle section ahead of compatriot leader Marc Coma	0	PERSON
+1.0	Chris Blais	be	American	PERSON	MISC
+1.0	it	be	race 's stage	0	0
+1.0	France South Africa	have	Giniel De Villiers	ORGANIZATION	LOCATION
+1.0	America	have	Robby Gordon	LOCATION	PERSON
+1.0	394km	here finish	57sec	0	0
+1.0	Tan-Tan	be in	Morocco	LOCATION	LOCATION
+0.7681933335395105	KTM rider	cover 394km in	Morocco	ORGANIZATION	LOCATION
+1.0	it	be	race 's stage over 817km from Tan-Tan in Morocco	0	LOCATION
+1.0	it	be	race 's longest stage over 817km from Tan-Tan in Morocco	0	LOCATION
+0.7681933335395105	KTM rider	cover	394km	ORGANIZATION	0
+1.0	compatriot race leader Marc Coma	have	motorcycle section	O	PERSON

@@ -1,0 +1,49 @@
+1.0	Slovenia European Union state	use	euro	LOCATION	0
+1.0	Slovenia 's	accede to	13th European Union	LOCATION	ORGANIZATION
+1.0	Slovenia	of	integration	LOCATION	0
+1.0	Slovenia 's	become	13th European Union state	LOCATION	LOCATION
+1.0	Slovenia 's	have	adoption	O	LOCATION
+1.0	ECB	have	capital amounting	O	ORGANIZATION
+1.0	The Bank of Slovenia	also transfer to	foreign reserve asset of ecb	0	ORGANIZATION
+1.0	Slovenia	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Slovenia 's bank	say at_time	Tuesday	LOCATION	DATE
+1.0	The Bank of Slovenia	also transfer to	reserve asset	0	0
+1.0	The Bank of Slovenia	have	contribution	O	O
+1.0	contribution	have	remainder	O	O
+1.0	Slovenia 's	become on	January 1	LOCATION	DATE
+1.0	Slovenia	have	bank	O	LOCATION
+1.0	Slovenia	have	total contribution to capital of ecb	LOCATION	0
+1.0	Slovenia 's	declare independence from	former Yugoslavia	LOCATION	LOCATION
+1.0	The Bank of Slovenia	transfer to	ecb	0	0
+1.0	The Bank of Slovenia	transfer to	foreign reserve asset of ecb	0	ORGANIZATION
+1.0	Slovenia	have	central bank	LOCATION	0
+1.0	The Bank of Slovenia	transfer to	reserve asset of ecb	0	ORGANIZATION
+1.0	ECB	have	reserve assets	O	ORGANIZATION
+0.022365932509734954	Slovenia 's	declare from	former Yugoslavia	LOCATION	LOCATION
+1.0	ECB	to	capital amounting	ORGANIZATION	0
+1.0	Eurosystem	have	member	O	MISC
+1.0	Slovenia 's	have	adoption of euro	LOCATION	0
+1.0	The Bank of Slovenia	also transfer to	ecb	0	0
+1.0	Slovenia 's	declare	independence	LOCATION	0
+1.0	Slovenia 's	become	European Union state	LOCATION	LOCATION
+1.0	euro	have	adoption	O	O
+1.0	euro bill	first enter	coin	0	0
+1.0	Slovenia 13th European Union state	use	euro	LOCATION	0
+1.0	The Bank of Slovenia	transfer to	reserve asset	0	0
+1.0	Slovenia	have	contribution	O	LOCATION
+1.0	The Bank of Slovenia	transfer to	foreign reserve asset	0	0
+1.0	EU	have	currency	O	ORGANIZATION
+1.0	euro bill	first enter	circulation	0	0
+1.0	euro bill	enter	circulation	0	0
+1.0	euro bill	enter	coin	0	0
+1.0	Slovenia	have	integration	O	LOCATION
+1.0	EU	have	common currency	ORGANIZATION	0
+1.0	Slovenia 's central bank	say at_time	Tuesday	LOCATION	DATE
+1.0	integration	have	part	O	O
+1.0	Central Bank	have	capital	O	ORGANIZATION
+1.0	The Bank of Slovenia	also transfer to	foreign reserve asset	0	0
+1.0	bank	say in	statement	0	0
+1.0	Slovenia 's central bank	have	contribution	O	O
+1.0	ECB	have	capital	O	ORGANIZATION
+1.0	The Bank of Slovenia	also transfer to	reserve asset of ecb	0	ORGANIZATION
+1.0	euro	currency 's	EU	0	ORGANIZATION

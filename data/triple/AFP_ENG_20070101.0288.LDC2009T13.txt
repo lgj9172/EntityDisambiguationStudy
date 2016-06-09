@@ -1,0 +1,19 @@
+1.0	Hong Kong gold price	open higher at	637.00-637 .50 US dollar	LOCATION	MONEY
+1.0	market	be	close Monday for New Year public holiday	0	DATE
+1.0	.50	have	close	O	MONEY
+1.0	Friday	have	close	O	DATE
+1.0	Hong Kong gold price	open at	637.00-637 .50 US dollar up from Friday 's close	LOCATION	MONEY
+1.0	Hong Kong gold price	open higher at	637.00-637 .50 US dollar up from Friday 's close	LOCATION	MONEY
+1.0	market	be close for	New Year public holiday	0	DATE
+1.0	Friday	from	close of 634.00-634 .50	DATE	MONEY
+1.0	Hong Kong gold price	open higher at_time	Tuesday	LOCATION	DATE
+1.0	market	be	close Monday for New Year holiday	0	DATE
+1.0	market	be close for	New Year holiday	0	DATE
+1.0	market	be close at_time	Monday	0	DATE
+1.0	Hong Kong gold price	open at	637.00-637 .50 US dollar	LOCATION	MONEY
+1.0	Hong Kong gold price	open at_time	Tuesday	LOCATION	DATE
+1.0	Hong Kong gold price	open higher at	637.00-637 .50 US dollar up from Friday 's close of 634.00-634 .50	LOCATION	MONEY
+1.0	Hong Kong gold price	open at	637.00-637 .50 US dollar up	LOCATION	MONEY
+1.0	market	be	close	0	0
+1.0	Hong Kong gold price	open at	637.00-637 .50 US dollar up from Friday 's close of 634.00-634 .50	LOCATION	MONEY
+1.0	Hong Kong gold price	open higher at	637.00-637 .50 US dollar up	LOCATION	MONEY

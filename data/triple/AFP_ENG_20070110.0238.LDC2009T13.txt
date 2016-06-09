@@ -1,0 +1,36 @@
+0.09510152750802991	government	continue in	region	0	0
+1.0	its Tuesday communique	say in	veil militant	0	0
+1.0	Zapatero	have	number	O	PERSON
+1.0	ETA	be in	March last year	ORGANIZATION	DATE
+1.0	group	claim responsibility in	its Tuesday communique	0	DATE
+1.0	Spain 's Deputy Prime Minister Maria Teresa Fernandez	say at_time	Wednesday	PERSON	DATE
+1.0	peace process	be with	courage	0	0
+1.0	ETA	have	arm Batasuna	PERSON	O
+1.0	elections	have	status	O	O
+1.0	ETA	have	decision	ORGANIZATION	0
+1.0	government	do	government	0	0
+0.09510152750802991	spanish government	continue in	region	0	0
+1.0	Spain	have	Maria Teresa Fernandez de la Vega	LOCATION	PERSON
+1.0	two	have	ceasefire	O	O
+1.0	the Spanish government	have	duty	O	O
+1.0	its Tuesday communique	say in	militant	0	0
+0.09510152750802991	spanish government	continue in	basque region	0	0
+1.0	Batasuna	be	illegal	0	0
+1.0	basque group	claim responsibility in	its Tuesday communique	0	DATE
+1.0	Maria Teresa Fernandez de la Vega	be deputy prime minister of	Spain	PERSON	LOCATION
+1.0	arm Batasuna	have	the	O	PERSON
+1.0	spanish government	continue	its crackdown	0	0
+1.0	government	have	behavior	O	O
+1.0	basque group	claim	responsibility	0	0
+0.09510152750802991	government	continue in	basque region	0	0
+1.0	Spain	have	Deputy Prime Minister Maria Teresa Fernandez	PERSON	LOCATION
+1.0	ETA	have	arrest	O	ORGANIZATION
+1.0	Zapatero	have	number	PERSON	0
+1.0	government	continue	its crackdown	0	0
+1.0	the Spanish government	have	crackdown	O	O
+1.0	ETA	have	decisions	O	ORGANIZATION
+1.0	attacks	have	warning	O	O
+1.0	group	claim	responsibility	0	0
+1.0	De la Vega	defend	Prime Minister Jose Luis Rodriguez Zapatero	PERSON	PERSON
+1.0	government	do	previous government	0	0
+1.0	the Spanish government	have	Tuesday communique	O	O

@@ -1,0 +1,52 @@
+1.0	years	have	minimum	O	DURATION
+1.0	crown jewel	act as	tour guide	0	0
+1.0	crown jewel	also act as	tour guide	0	0
+1.0	successful candidate	be serve in	hm force	0	0
+1.0	successful candidate	be currently serve in	hm force	0	0
+1.0	british crown jewel	be	where keep	0	0
+1.0	tradition	have	years	DURATION	O
+1.0	forces	have	members	O	O
+1.0	candidate	join	she colleague	0	0
+1.0	they nickname	date to	day	DURATION	0
+1.0	Beefeaters , a familiar sight to tourists in their red and gold uniforms	have	colleagues	O	O
+0.802778807832918	yeoman warder	daily ration of	meat	0	0
+1.0	candidate	be currently serve in	hm force	0	0
+1.0	group	be	up to now have all-male	0	DATE
+1.0	their	have	red	O	O
+1.0	35-strong group	be	have all-male	0	0
+1.0	London	be in	summer 2007	LOCATION	DATE
+1.0	yeoman warder	be give	ration	0	0
+0.802778807832918	yeoman warder	ration of	meat	0	0
+0.6731608235955824	Beefeaters	familiar sight to	tourist in they red	0	0
+1.0	candidate	be serve in	hm force	0	0
+1.0	meat	have	ration	O	O
+1.0	authority	now have break with	tradition	0	0
+1.0	they nickname	be think	date to day	DURATION	0
+0.6731608235955824	Beefeaters	sight to	tourist	0	0
+1.0	they nickname	be think	date back to day	DURATION	0
+1.0	tourist	be in	they red	0	0
+1.0	the Tower of London	have	warder	O	O
+1.0	crown jewel	be	keep	0	0
+0.6731608235955824	Beefeaters	familiar sight to	tourist	0	0
+1.0	successful candidate	join	she new colleague	0	0
+1.0	former members of the armed forces who have served for a minimum of 22 years , the paper added	have	nickname	O	O
+1.0	british crown jewel	also act as	tour guide	0	0
+1.0	London	have	Tower	O	LOCATION
+1.0	crown jewel	be	where keep	0	0
+1.0	they nickname	be think	date	DURATION	0
+0.6731608235955824	Beefeaters	sight to	tourist in they red	0	0
+1.0	successful candidate	join	she colleague	0	0
+1.0	british crown jewel	act as	tour guide	0	0
+1.0	Sun newspaper	report at_time	Wednesday	0	DATE
+1.0	Beefeaters	sight to	tourist in they red	0	0
+1.0	yeoman warder	be give	ration of meat	0	0
+1.0	british crown jewel	be	keep	0	0
+1.0	candidate	join	she new colleague	0	0
+1.0	yeoman warder	be give	daily ration	0	SET
+1.0	35-strong group	be	up to now have all-male	0	DATE
+1.0	they nickname	be think	date back	DURATION	0
+1.0	yeoman warder	be give	daily ration of meat	0	SET
+1.0	they nickname	date back to	day	DURATION	0
+1.0	group	be	have all-male	0	0
+1.0	authority	have break with	tradition	0	0
+1.0	they nickname	be	think	DURATION	0

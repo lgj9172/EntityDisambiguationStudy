@@ -1,0 +1,28 @@
+1.0	figure	be	dominate	0	0
+1.0	Boeing	be throughout	last year	ORGANIZATION	DATE
+1.0	figure	be dominate by	order	0	0
+1.0	figure	be	dominate by order for 82 Boeing 737 from low-cost US carrier Southwest Airlines	0	LOCATION
+1.0	US aviation giant Boeing Co.	say at_time	Thursday	LOCATION	DATE
+1.0	US aviation giant Boeing Co.	have	new	O	O
+1.0	figure	be	dominate by order from US carrier Southwest Airlines	0	LOCATION
+1.0	its	have	forecasts	O	O
+1.0	figure	be dominate by	order for 82 Boeing 737	0	NUMBER
+1.0	Airbus	be	best-selling aircraft maker since 2001	ORGANIZATION	DATE
+1.0	Australia	to	Qantas	LOCATION	ORGANIZATION
+1.0	Boeing Co.	be	US	ORGANIZATION	LOCATION
+1.0	figure	be	dominate by order from low-cost US carrier Southwest Airlines	0	LOCATION
+1.0	Australia	have	Qantas	ORGANIZATION	LOCATION
+1.0	new	have	157	NUMBER	O
+1.0	Airbus	be from	european	ORGANIZATION	0
+1.0	Southwest Airlines	be from	US	ORGANIZATION	LOCATION
+1.0	Southwest Airlines	be carrier of	US	ORGANIZATION	LOCATION
+1.0	Airbus	lag	Boeing throughout last year	ORGANIZATION	DATE
+1.0	Airbus	lag	Boeing	ORGANIZATION	ORGANIZATION
+1.0	Airbus	be	aircraft maker	ORGANIZATION	0
+1.0	Airbus	be	best-selling aircraft maker	ORGANIZATION	0
+1.0	Airbus	be	aircraft maker since 2001	ORGANIZATION	DATE
+1.0	figure	be	dominate by order for 82 Boeing 737 from US carrier Southwest Airlines	0	LOCATION
+1.0	figure	be dominate from	low-cost US carrier Southwest Airlines	0	LOCATION
+1.0	figure	be dominate from	US carrier Southwest Airlines	0	LOCATION
+1.0	Boeing Co.	be aviation giant of	US	ORGANIZATION	LOCATION
+1.0	Airbus	lag	Boeing throughout year	ORGANIZATION	DATE

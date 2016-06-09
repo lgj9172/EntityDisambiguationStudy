@@ -1,0 +1,52 @@
+1.0	Hu Jintao	be president of	China	PERSON	LOCATION
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	reject	Beijing 's one-China principle in he new year message	PERSON	LOCATION
+1.0	China 's President Hu Jintao	make speech at	new year tea party	PERSON	0
+0.3616568477020333	year tea party	hold national committee of chinese people 's political consultative conference by	body	0	0
+1.0	Taiwan 's President Chen Shui-bian	reiterate	he call	PERSON	0
+1.0	China 's President Hu Jintao	call around	world unite	PERSON	0
+1.0	China 's President Hu Jintao	call on	chinese people	PERSON	0
+1.0	Beijing	have	one-China principle	O	LOCATION
+1.0	National Committee	be of	chinese people 's Political Consultative Conference	ORGANIZATION	ORGANIZATION
+1.0	Beijing 's one-China principle	be in	he new year message	LOCATION	0
+0.3616568477020333	year tea party	hold national committee by	body	0	0
+1.0	China 's President Hu Jintao	call around	world	PERSON	0
+1.0	island	have	sovereignty	O	O
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	reject	Beijing 's one-China principle	PERSON	LOCATION
+0.3616568477020333	new year tea party	hold national committee of chinese people 's political consultative conference by	legislative body	0	0
+1.0	island	for	sovereignty	0	0
+1.0	Beijing	have	one-China principle in new year message	LOCATION	0
+0.3616568477020333	new year tea party	hold national committee by	legislative body	0	0
+0.3616568477020333	new year tea party	hold national committee of people 's political consultative conference by	body	0	0
+1.0	People	have	Political Consultative Conference	ORGANIZATION	ORGANIZATION
+1.0	China 's President Hu Jintao	make speech at	year tea party	PERSON	0
+0.3616568477020333	year tea party	hold national committee of people 's political consultative conference by	body	0	0
+1.0	mainland	have	Taiwan policy	O	O
+1.0	reunification	have	Taiwan policy	O	O
+1.0	Taiwan	have	President Chen Shui-bian	PERSON	LOCATION
+0.3616568477020333	year tea party	hold	National Committee	0	ORGANIZATION
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	reiterate	he call	PERSON	0
+0.3616568477020333	year tea party	hold	National Committee of people 's Political Consultative Conference	0	ORGANIZATION
+1.0	China	have	President Hu Jintao	PERSON	LOCATION
+1.0	his	have	Year message	O	O
+0.3616568477020333	new year tea party	hold national committee by	body	0	0
+1.0	nation	have	reunification	O	O
+1.0	Political Consultative Conference	have	National Committee	ORGANIZATION	ORGANIZATION
+1.0	China	have	Hu Jintao	LOCATION	PERSON
+1.0	country	have	Taiwan policy	O	O
+0.3616568477020333	year tea party	hold national committee of people 's political consultative conference by	legislative body	0	0
+1.0	China 's President Hu Jintao	make	speech	PERSON	0
+0.3616568477020333	new year tea party	hold national committee of chinese people 's political consultative conference by	body	0	0
+0.3616568477020333	new year tea party	hold	National Committee of people 's Political Consultative Conference	0	ORGANIZATION
+1.0	Taiwan 's President Chen Shui-bian	reject	Beijing 's one-China principle in he new year message	PERSON	LOCATION
+1.0	Taiwan	have	Chen Shui-bian Monday	LOCATION	PERSON
+0.3616568477020333	new year tea party	hold national committee of people 's political consultative conference by	legislative body	0	0
+0.3616568477020333	year tea party	hold national committee of chinese people 's political consultative conference by	legislative body	0	0
+0.3616568477020333	new year tea party	hold	National Committee of chinese people 's Political Consultative Conference	0	ORGANIZATION
+1.0	Taiwan 's President Chen Shui-bian	reject	Beijing 's one-China principle in he year message	PERSON	LOCATION
+0.3616568477020333	year tea party	hold	National Committee of chinese people 's Political Consultative Conference	0	ORGANIZATION
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	reject	Beijing 's one-China principle in he year message	PERSON	LOCATION
+1.0	China 's President Hu Jintao	call on	people	PERSON	0
+0.3616568477020333	year tea party	hold national committee by	legislative body	0	0
+1.0	Taiwan 's President Chen Shui-bian	reject	Beijing 's one-China principle	PERSON	LOCATION
+1.0	his	have	call	O	O
+0.3616568477020333	new year tea party	hold	National Committee	0	ORGANIZATION

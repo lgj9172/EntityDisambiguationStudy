@@ -1,0 +1,22 @@
+1.0	Manson	be at	Los Angeles Superior Court	PERSON	ORGANIZATION
+1.0	Manson	have court	controversy	PERSON	0
+1.0	star-studded wedding ceremony	be in	Ireland	0	LOCATION
+1.0	pair	be	marry	0	0
+1.0	Manson	anger	politician	PERSON	0
+1.0	shock rocker Marilyn Manson	have	wife	O	PERSON
+1.0	Manson	have regularly court controversy throughout	he career	PERSON	0
+1.0	wife	have file accord to	court document publish by celebrity news website on Friday	0	DATE
+1.0	Manson	have regularly court	controversy	PERSON	0
+1.0	wife	have file for	divorce	0	0
+1.0	papers	cite difference as	reason	0	0
+1.0	pair	be marry at	wedding ceremony in Ireland	0	LOCATION
+1.0	wife	have file accord to	court document publish	0	0
+1.0	papers	cite	difference	0	0
+1.0	wife	have file accord to	court document	0	0
+1.0	pair	be marry at	wedding ceremony	0	0
+1.0	pair	be marry at	star-studded wedding ceremony	0	0
+1.0	his	have	career	O	O
+1.0	papers	cite	irreconcilable difference	0	0
+1.0	Manson	have court controversy throughout	he career	PERSON	0
+1.0	pair	be marry at	star-studded wedding ceremony in Ireland	0	LOCATION
+1.0	wife	have file accord to	court document publish by celebrity news website	0	0

@@ -1,0 +1,28 @@
+1.0	serious condition Tuesday	be with	sever leg	DATE	0
+1.0	a five year-old girl	have	eyes	O	O
+1.0	accident	problem on	board	0	0
+1.0	accident	be result of	error	0	0
+1.0	five	go out of	control Sunday	0	DATE
+1.0	Tarascon	have	town	O	LOCATION
+1.0	authority	open	judicial investigation	0	0
+1.0	aircraft	have	blades	O	O
+1.0	woman	be	serious	0	0
+1.0	authority	open	investigation	0	0
+1.0	investigator	try	determine	0	0
+1.0	girl	have	parents	O	O
+1.0	alcohol	have	influence	O	O
+1.0	french authority	open	judicial investigation	0	0
+1.0	state prosecutor	have	office in southern town of Tarascon	0	LOCATION
+1.0	control	have	went	O	O
+1.0	five	go out of	control	0	0
+1.0	error	have	result	O	O
+1.0	Marseille	have	Camargue region west	O	LOCATION
+1.0	accident	be result of	human error	0	0
+1.0	french authority	open	investigation	0	0
+1.0	investigator	be	try	0	0
+1.0	state prosecutor	have	office	O	O
+1.0	state prosecutor 's office	be in	southern town of Tarascon	0	LOCATION
+1.0	restaurant	be in	France	0	LOCATION
+1.0	accident	technical problem on	board	0	0
+1.0	accident	be	result	0	0
+1.0	restaurant	have	car-park	O	O

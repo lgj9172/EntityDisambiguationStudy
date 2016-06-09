@@ -1,0 +1,143 @@
+1.0	China	issue	key defence paper	LOCATION	0
+1.0	source	put total at	between 100-150 billion dollar	0	MONEY
+1.0	Beijing 's	consider	island part of its territory	LOCATION	0
+1.0	Taiwan	have	government	O	LOCATION
+1.0	Beijing 's	have	territory	O	O
+1.0	his	have	sovereignty argument	O	O
+1.0	other source	put total at	between 100-150 billion dollar	0	MONEY
+1.0	clear change	be in	people 's thinking	0	0
+1.0	his	have	election	O	O
+1.0	China	have	have also Taiwan 's biggest market	LOCATION	LOCATION
+1.0	Taiwan	have maintain	control	LOCATION	0
+1.0	Beijing 's	be reunify by	force	LOCATION	0
+1.0	Taiwan	have	target	O	LOCATION
+1.0	longstanding insistence	be	have confine within framework	0	0
+0.34680350196573995	Chen	insist unlike	kmt leader	PERSON	0
+1.0	New Year	have	message	O	DATE
+1.0	Beijing 's	still consider	island part of its territory	LOCATION	0
+1.0	Taiwan	have maintain control over	mainland-bound hi-tech investment due	LOCATION	0
+1.0	island	have	sovereignty	0	0
+1.0	observer	here be wait	see	0	0
+1.0	rest	have	Most	O	O
+1.0	China	replace united states since	end of 2001	LOCATION	DATE
+1.0	island 's sovereignty	lay in	its own hand	DATE	0
+1.0	source	put	total	0	0
+1.0	Taiwan	have maintain	close control	LOCATION	0
+1.0	insistence	be	have continually confine within framework	0	0
+1.0	eventual reunification	be with	chinese mainland	0	0
+1.0	China	have	policy	O	LOCATION
+1.0	2001	have	end	DATE	DATE
+1.0	Taiwan	have maintain control over	hi-tech investment	LOCATION	0
+1.0	we	have	country	O	O
+1.0	Beijing 's	be	reunify	LOCATION	0
+1.0	KMT	have	grip	O	ORGANIZATION
+1.0	latest survey	show compare to	13.1 percent ago	0	PERCENT
+1.0	Taiwan	have maintain control over	investment due	LOCATION	0
+1.0	Taiwan	have	future	DATE	LOCATION
+1.0	Beijing 's	still consider	island part	LOCATION	0
+1.0	the 23 million	have	right decide on future of Taiwan	NUMBER	LOCATION
+1.0	Taiwan 's	be	we country	LOCATION	0
+1.0	improved tie	be with	Beijing	0	LOCATION
+1.0	Beijing 's	be reunify with	mainland	LOCATION	0
+1.0	island 's sovereignty	reject	Beijing 's one-China policy	DATE	DATE
+1.0	latest survey	show compare to	13.1 percent six year ago	0	PERCENT
+1.0	Taiwan	have maintain control over	investment	LOCATION	0
+1.0	the 23 million	only have	right decide on future	NUMBER	DATE
+1.0	Taiwan	have	President Chen	PERSON	LOCATION
+1.0	Taiwan 's	have	sovereignty	O	LOCATION
+1.0	Chen	insist policy unlike	kmt leader	PERSON	0
+1.0	survey	be in	November	0	DATE
+1.0	China	have	have Taiwan 's market	LOCATION	LOCATION
+1.0	percent	identify	themselves	PERCENT	0
+1.0	longstanding insistence	be	have continually confine within framework	0	0
+1.0	China	issue	defence paper	LOCATION	0
+1.0	the 23 million	have	right	NUMBER	0
+1.0	respondents	have	percent	PERCENT	O
+1.0	insistence	be	have continually confine with China	0	LOCATION
+1.0	Taiwan 's independence-leaning President Chen shui-bian	insist at_time	Monday	PERSON	DATE
+1.0	the island 's sovereignty	have	hands	O	O
+1.0	Beijing 's	consider	island part	LOCATION	0
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	end	kmt 's grip	PERSON	0
+1.0	Taiwan	have maintain control over	mainland-bound investment	LOCATION	0
+1.0	rival China	split in	1949	LOCATION	DATE
+1.0	the 23 million	only have	right	NUMBER	0
+1.0	other source	put	total	0	0
+1.0	China	have	have also Taiwan 's market	LOCATION	LOCATION
+1.0	Chen	defend	he sovereignty argument	PERSON	0
+1.0	longstanding insistence	be	have continually confine	0	0
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	end	kmt 's 51-year grip	PERSON	DURATION
+1.0	president	criticise	kmt	0	0
+1.0	insistence	be	have confine with China	0	LOCATION
+1.0	island 's sovereignty	reject	Beijing 's one-China policy in he New Year 's message	DATE	DATE
+1.0	observer	be wait	see	0	0
+1.0	his	have	family	O	O
+1.0	people	have	thinking	O	O
+1.0	Taiwan 's independence-leaning President Chen	insist at_time	Monday	PERSON	DATE
+1.0	rival China	split at	end	LOCATION	0
+1.0	Chen	will harden	he China policy	PERSON	LOCATION
+1.0	Beijing	have	one-China policy in message	LOCATION	0
+1.0	China	have	Republic	LOCATION	LOCATION
+1.0	his	have	China policy	O	O
+1.0	Taiwan 's government	have approve	34,746 China	LOCATION	LOCATION
+1.0	island	of	total foreign investment	0	0
+1.0	insistence	be	have continually confine	0	0
+1.0	Taiwan	have	government	LOCATION	0
+1.0	world	have	part	O	O
+1.0	Taiwan	have maintain control over	mainland-bound hi-tech investment	LOCATION	0
+1.0	China	have	myth	O	LOCATION
+1.0	China	replace	United States	LOCATION	LOCATION
+1.0	island	have	sovereignty	O	O
+1.0	Taiwan	have	Chen shui-bian	LOCATION	PERSON
+1.0	rival China	split	Taiwan 's	LOCATION	LOCATION
+1.0	the 23 million	only have	right decide on future of Taiwan	NUMBER	LOCATION
+1.0	the 23 million	have	right decide on future	NUMBER	DATE
+1.0	Taiwan	have	leaders	O	LOCATION
+1.0	kmt	have	51-year grip	0	DURATION
+1.0	China	replace united states since	end	LOCATION	DATE
+1.0	source	put total at	100-150 billion dollar	0	MONEY
+1.0	New Year 's	in	message	DATE	0
+1.0	the 23 million	only have	right decide	NUMBER	0
+1.0	survey	show compare to	13.1 percent	0	PERCENT
+1.0	Taiwan 's independence-leaning President Chen Shui-bian	have	New Year	DATE	O
+1.0	Taiwan	have	independence drive	O	LOCATION
+1.0	Beijing 's one-China policy	be in	he New Year 's message	DATE	DATE
+1.0	longstanding insistence	be	have confine	0	0
+1.0	leaders	have	insistence	O	O
+1.0	China	have	have Taiwan 's biggest market	LOCATION	LOCATION
+1.0	latest survey	show compare to	13.1 percent	0	PERCENT
+1.0	people	in	thinking	0	0
+1.0	Taiwan	have maintain control over	hi-tech investment due	LOCATION	0
+1.0	Taiwan	have	status	O	LOCATION
+1.0	the 23 million	have	right decide	NUMBER	0
+1.0	Chen	insist	policy	PERSON	0
+1.0	it	need	strong military	0	0
+1.0	insistence	be	have confine	0	0
+1.0	His	have	remarks	O	O
+1.0	Taiwan	have	market	O	LOCATION
+1.0	Taiwan	have maintain control over	mainland-bound investment due	LOCATION	0
+1.0	island 's sovereignty	lay in	its hand	DATE	0
+1.0	4.8 percent	identify	themselves	PERCENT	0
+1.0	survey	show compare to	13.1 percent six year ago	0	PERCENT
+1.0	war	have	end	O	O
+1.0	longstanding insistence	be	have confine with China	0	LOCATION
+1.0	Beijing	have	one-China policy	O	LOCATION
+1.0	People	have	Republic	LOCATION	LOCATION
+1.0	Beijing 's	be reunify by	force necessary	LOCATION	0
+1.0	insistence	be	have confine within framework	0	0
+1.0	Taiwan 's President Chen	insist at_time	Monday	PERSON	DATE
+1.0	longstanding insistence	be	have continually confine with China	0	LOCATION
+1.0	years	have	span	O	DURATION
+1.0	territory	have	island part	O	O
+1.0	island	have	investments	O	O
+1.0	Taiwan 's President Chen shui-bian	insist at_time	Monday	PERSON	DATE
+1.0	Beijing 's	be	reunify with mainland by force	LOCATION	0
+1.0	development	have	path	O	O
+1.0	other source	put total at	100-150 billion dollar	0	MONEY
+1.0	Beijing 's	be	reunify with mainland by force necessary	LOCATION	0
+1.0	it	need	military	0	0
+1.0	China	have	part	O	LOCATION
+1.0	survey	show compare to	13.1 percent ago	0	PERCENT
+1.0	president	be in	2000	0	DATE
+1.0	investments	have	percent	PERCENT	O
+1.0	Taiwan	such as	independence drive	LOCATION	0
+0.9112835911247694	taiwanese	percent of	respondent	0	0

@@ -1,0 +1,46 @@
+1.0	information	be also obtain accord to	prosecutor	0	0
+1.0	information	be obtain by	ruse	0	0
+1.0	information	be also obtain by	ruse	0	0
+1.0	computer maker Hewlett-Packard	agree at_time	last month	ORGANIZATION	DATE
+1.0	HP board members	have	information	O	O
+1.0	detective	obtain	news reporter 's telephone record	0	0
+1.0	reporters	have	relatives	O	O
+1.0	three security agent	hire by	firm	NUMBER	0
+1.0	US Attorney	have	office spokesman	LOCATION	0
+1.0	news reporter	have	telephone record	0	0
+1.0	Luke Macaulay	say	US Attorney 's office spokesman	PERSON	LOCATION
+1.0	HP board members	have	telephone records	O	O
+1.0	board members	have	relatives	O	O
+1.0	private detective	obtain	news reporter 's telephone record	0	0
+1.0	Wall Street Journal reporter	have	social security number to access telephone record	ORGANIZATION	0
+1.0	San Jose	have	California city	O	LOCATION
+1.0	US Attorney	have	office spokesman	O	O
+1.0	private detective	illegally obtain	news reporter 's telephone record	0	0
+1.0	information	be	obtain	0	0
+1.0	information	be obtain accord to	prosecutor	0	0
+1.0	computer maker Hewlett-Packard	agree at_time	month	ORGANIZATION	DATE
+1.0	world	of	largest computer maker	0	0
+1.0	Wagner , 29	be	29	PERSON	NUMBER
+1.0	Wagner , 29	plead	guilty	0	0
+1.0	Wall Street Journal reporter	have	security number	O	O
+1.0	detective	plead	guilty	0	0
+1.0	Wagner , 29	be	part	PERSON	0
+1.0	information	be also obtain by	illegal ruse	0	0
+1.0	information	be	also obtain	0	0
+1.0	news reporter	have	telephone records	O	O
+1.0	information	be obtain by	illegal ruse	0	0
+1.0	computer maker	have	image	O	O
+1.0	detective	plead	guilty on Friday	0	DATE
+1.0	world	have	computer maker	O	O
+1.0	news reporters	have	telephone records	O	O
+0.5174493699604719	charge	link to	boardroom espionage scandal	0	0
+1.0	private detective	plead	guilty	0	0
+1.0	three outside security agent	hire by	firm	NUMBER	0
+1.0	Wagner , 29	be	charge	PERSON	0
+1.0	computer maker Hewlett-Packard	pay	14.5 million dollar	ORGANIZATION	MONEY
+1.0	news reporters	have	information	O	O
+1.0	private detective	plead	guilty on Friday	0	DATE
+0.5174493699604719	civil charge	link to	boardroom espionage scandal	0	0
+1.0	detective	illegally obtain	news reporter 's telephone record	0	0
+1.0	hunt	have	part	O	O
+1.0	conspiracy	have	part	O	O

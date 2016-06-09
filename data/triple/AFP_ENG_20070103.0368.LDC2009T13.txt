@@ -1,0 +1,54 @@
+1.0	company	buy permit from	company	0	0
+1.0	price	be at	below 5.0 euro on Wednesday from 15 euro start of 2006	0	DATE
+1.0	tonne	make	market biggest carbon exchange of its kind	0	0
+1.0	price	be at	below 5.0 euro on Wednesday start	0	DATE
+1.0	tonne	make	paris-based market carbon exchange	0	0
+1.0	carbon dioxide	have	tonne	O	O
+1.0	2006	have	start	DATE	DATE
+1.0	Powernext Carbon	be part of	system in EU	LOCATION	ORGANIZATION
+1.0	tonne	make	market carbon exchange	0	0
+1.0	trading	be in	carbon dioxide	0	0
+1.0	tonne	make	market biggest carbon exchange	0	0
+1.0	trading	be in	December	0	DATE
+1.0	tonne	make	paris-based market carbon exchange of its kind	0	0
+1.0	price	be at	below 5.0 euro start	0	DATE
+1.0	system	have	part	O	O
+1.0	31.4 million tonne	be buy	make	NUMBER	0
+1.0	CO2 permits	have	price	O	O
+1.0	The European market for trading in carbon dioxide	have	volume	O	O
+1.0	permit	have	price	O	O
+1.0	energy provider	be assign	emission quota	0	0
+1.0	31.4 million tonne	make	market biggest carbon exchange of its kind	NUMBER	0
+1.0	trading	have	volume	O	O
+1.0	31.4 million tonne	make	paris-based market carbon exchange of its kind	NUMBER	0
+1.0	tonne	be	buy	0	0
+1.0	Powernext Carbon	be part of	system	LOCATION	0
+1.0	tonne	be buy	make	0	0
+1.0	price	be at	start	0	DATE
+1.0	Powernext Carbon	be	part	LOCATION	0
+1.0	company	buy	permit	0	0
+1.0	the Paris-based market	have	kind	O	O
+1.0	price	be at	below 5.0 euro start of 2006	0	DATE
+1.0	31.4 million tonne	make	paris-based market biggest carbon exchange of its kind	NUMBER	0
+1.0	31.4 million tonne	make	market biggest carbon exchange	NUMBER	0
+1.0	31.4 million tonne	be	buy	NUMBER	0
+1.0	price	be at	start of 2006	0	DATE
+1.0	price	be at	below 5.0 euro from 15 euro start	0	DATE
+1.0	company	buy permit from	company with surplus	0	0
+1.0	company	be with	surplus	0	0
+1.0	31.4 million tonne	make	market carbon exchange of its kind	NUMBER	0
+1.0	kind	have	carbon exchange	O	O
+1.0	energy providers	have	quota	O	O
+1.0	tonne	make	market carbon exchange of its kind	0	0
+1.0	price	be at	below 5.0 euro on Wednesday start of 2006	0	DATE
+1.0	system	be in	EU	0	ORGANIZATION
+1.0	tonne	make	paris-based market biggest carbon exchange	0	0
+1.0	31.4 million tonne	be buy over	year	NUMBER	DATE
+1.0	tonne	make	paris-based market biggest carbon exchange of its kind	0	0
+1.0	31.4 million tonne	make	paris-based market carbon exchange	NUMBER	0
+1.0	price	be at	below 5.0 euro on Wednesday from 15 euro start	0	DATE
+1.0	31.4 million tonne	make	paris-based market biggest carbon exchange	NUMBER	0
+1.0	price	be at	below 5.0 euro from 15 euro start of 2006	0	DATE
+1.0	tonne	be buy over	year	0	DATE
+1.0	31.4 million tonne	make	market carbon exchange	NUMBER	0
+1.0	news	lead during	2006	0	DATE

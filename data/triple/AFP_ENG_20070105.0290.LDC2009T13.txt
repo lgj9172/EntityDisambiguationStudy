@@ -1,0 +1,46 @@
+1.0	club chairman Mansour al Balwi	tell afp on	Friday	PERSON	DATE
+1.0	Luis Figo	be	Portugal	PERSON	LOCATION
+1.0	Inter coach Roberto Mancini	have retire from	football	PERSON	0
+1.0	he	previously play with	1989-1995	0	DURATION
+1.0	deals	have	one	NUMBER	O
+1.0	Inter	face	Bahrain team in friendly match	ORGANIZATION	LOCATION
+1.0	final	be in	July 1 , 2007	0	DATE
+1.0	June	have	end	DATE	DATE
+1.0	France	be in	World Cup	LOCATION	MISC
+1.0	he	play with	Sporting Lisbon	0	ORGANIZATION
+1.0	Inter	face	Bahrain team in match on Saturday	ORGANIZATION	DATE
+1.0	Roberto Mancini	be coach of	Inter	PERSON	ORGANIZATION
+1.0	Inter coach Roberto Mancini	little have retire from	international football	PERSON	0
+1.0	Inter	face	Bahrain team	ORGANIZATION	LOCATION
+1.0	Inter	face	Bahrain team in friendly match on Saturday	ORGANIZATION	DATE
+1.0	experience	have	lots	O	O
+1.0	Inter	be in	Bahrain	ORGANIZATION	LOCATION
+1.0	Inter	face	Bahrain national team in friendly match on Saturday	ORGANIZATION	DATE
+1.0	Inter	face	Bahrain national team	ORGANIZATION	LOCATION
+1.0	he	play with	1989-1995	0	DURATION
+1.0	Inter	face	Bahrain national team in friendly match	ORGANIZATION	LOCATION
+1.0	Roberto Mancini	be	Inter	PERSON	ORGANIZATION
+1.0	Inter	face	Bahrain national team in match	ORGANIZATION	LOCATION
+1.0	detail	be	available	0	0
+1.0	Inter coach Roberto Mancini	have retire to	France	PERSON	LOCATION
+1.0	Luis Figo	be	the World Cup	PERSON	MISC
+1.0	Bahrain national team	be in	friendly match on Saturday	LOCATION	DATE
+1.0	club chairman Mansour al Balwi	tell	afp	PERSON	0
+1.0	Inter coach Roberto Mancini	have retire to	France in World Cup	PERSON	MISC
+1.0	he	join	Inter	0	ORGANIZATION
+1.0	the Italian champions	hold on	on former World	DATE	MISC
+1.0	he	previously play with	Sporting Lisbon	0	ORGANIZATION
+1.0	Al Ittihad	be for	saudi arabian	ORGANIZATION	0
+1.0	Inter coach Roberto Mancini	little have retire to	France in World Cup	PERSON	MISC
+1.0	contract	have	details	O	O
+1.0	Inter coach Roberto Mancini	little have retire from	football	PERSON	0
+1.0	Inter	face	Bahrain team in match	ORGANIZATION	LOCATION
+1.0	Inter coach Roberto Mancini	have retire from	international football	PERSON	0
+1.0	Inter	face	Bahrain national team in match on Saturday	ORGANIZATION	DATE
+1.0	Luis Figo	be world cup star of	Portugal	PERSON	LOCATION
+1.0	Inter	be in	currently Bahrain	ORGANIZATION	LOCATION
+1.0	biggest deal	be in	Middle East	PERSON	LOCATION
+1.0	Year	have	Footballer	MISC	DATE
+1.0	Portugal World Cup star Luis Figo	be	great	0	0
+1.0	Inter coach Roberto Mancini	little have retire to	France	PERSON	LOCATION
+1.0	Saudi Arabian side Al Ittihad	have	contract	O	O

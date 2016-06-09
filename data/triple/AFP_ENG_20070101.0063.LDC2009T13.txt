@@ -1,0 +1,180 @@
+1.0	ban	be	flout	0	0
+1.0	midnight	have	stroke	O	TIME
+1.0	tray	be	like in many other around town remove at stroke of midnight	0	TIME
+1.0	authority	anticipate resistance to	ban	0	0
+1.0	ash tray	be	at popular Island Bar like in other around town remove at stroke of midnight	0	LOCATION
+1.0	government	have designate	255 area	0	NUMBER
+0.633593924617174	Island	say at	Deli Lamma bar	LOCATION	LOCATION
+1.0	line	have	outside office building have even paint	0	0
+1.0	tray	be	like in many other around town remove at stroke	0	0
+0.633593924617174	Island	say at	popular water hole on Lamma	LOCATION	LOCATION
+1.0	tray	be	at popular Island Bar like in many other around town remove at stroke	0	LOCATION
+0.633593924617174	Island	say at	hole on Lamma	LOCATION	LOCATION
+1.0	line	outline	smoking area	0	0
+1.0	tray	be remove like	like other around town	0	0
+1.0	city	of	thousand of bar	0	0
+1.0	rest	must comply with	law	0	0
+1.0	ban	discourage	regular	0	0
+1.0	law	ban smoking in	indoor place	0	0
+1.0	tray	be	at popular Island Bar like in other around town remove at stroke	0	LOCATION
+1.0	smoker	face	on-the-spot fine of 5,000 Hong Kong dollar	0	LOCATION
+1.0	they business	be at	risk	0	0
+1.0	police control	have	centre	O	O
+1.0	smokers	have	legions	O	O
+1.0	yellow line	have	have even paint	0	0
+1.0	ash tray	be	at popular Island Bar like in other around town remove	0	LOCATION
+1.0	places	have	places	O	O
+1.0	ash tray	be	at Island Bar like in other around town remove at stroke	0	LOCATION
+1.0	tray	be	at Island Bar like in other around town remove	0	LOCATION
+1.0	ash tray	be	at popular Island Bar like in many other around town remove	0	LOCATION
+1.0	new law	ban	smoking	0	0
+1.0	city	have	legion of diehard smoker	0	0
+1.0	law	ban smoking in	place	0	0
+1.0	Hong Kong	have	establishment	O	LOCATION
+1.0	law	ban smoking in	indoor public place	0	0
+1.0	bars	have	thousands	O	O
+0.7700003109055037	smoker	fine of	640 US dollar	0	NUMBER
+1.0	Hong Kong health department	have	tobacco control Office	LOCATION	ORGANIZATION
+1.0	ash tray	be	like in other around town remove at stroke of midnight	0	TIME
+1.0	Hong Kong health department	have	Tobacco Control	ORGANIZATION	O
+1.0	yellow line	have	outside office building have paint	0	0
+1.0	street demonstration	be hold during	year	0	DATE
+1.0	Hong Kong	welcome	sweeping law	LOCATION	0
+0.633593924617174	Island	say at	popular hole on Lamma	LOCATION	LOCATION
+1.0	Hong Kong	welcome	new law	LOCATION	0
+1.0	smoker	face	fine	0	0
+1.0	resentment	be despite	measure 's passage	0	0
+1.0	line	have	have paint	0	0
+1.0	city	have	smokers	O	O
+1.0	members	have	comments	O	O
+1.0	Office	have send	team	ORGANIZATION	0
+1.0	constraints	have	view	O	O
+1.0	255 area	be in	public park	NUMBER	0
+1.0	Island	say	one barman	LOCATION	NUMBER
+1.0	new law	ban smoking in	place	0	0
+1.0	sweeping new law	ban smoking in	public place	0	0
+1.0	tray	be	at Island Bar like in other around town remove at stroke of midnight	0	LOCATION
+1.0	ash tray	be	at popular Island Bar like in many other around town remove at stroke	0	LOCATION
+1.0	specificity	have	view	O	O
+1.0	Correspondents	have	Club	ORGANIZATION	ORGANIZATION
+1.0	law	have	specificity	O	O
+1.0	Office	have send team into	community	ORGANIZATION	0
+1.0	tray	be	at popular Island Bar like in other around town remove	0	LOCATION
+0.7700003109055037	smoker	on-the-spot fine of	640 US dollar	0	NUMBER
+1.0	smokers	risk	prosecution	0	0
+1.0	ban	control 's	Hong Kong health department	0	LOCATION
+1.0	tray	be	at Island Bar like in many other around town remove at stroke of midnight	0	LOCATION
+1.0	tray	be	at popular Island Bar like in many other around town remove at stroke of midnight	0	LOCATION
+1.0	officer	have target	smoking spot	0	0
+1.0	huge street demonstration	be	hold	0	0
+1.0	Hong Kong	welcome	sweeping new law	LOCATION	0
+1.0	clubs	have	thousands	O	O
+1.0	government spokesman	comment out	patrolling	0	0
+1.0	fine	have	have issue	0	0
+1.0	new law	ban smoking in	public place	0	0
+0.633593924617174	Island	say at	popular water hole	LOCATION	0
+0.7700003109055037	smoker	fine of	5,000 Hong Kong dollar	0	LOCATION
+1.0	premise	allow smoking until	2009	0	DATE
+0.633593924617174	Island	say at	hole	LOCATION	0
+1.0	ash tray	be	like in many other around town remove at stroke	0	0
+1.0	yellow line	outline	smoking area	0	0
+1.0	deep resentment	be despite	measure 's passage	0	0
+1.0	the city 's thousands of bars , restaurants and clubs	have	businesses	O	O
+1.0	law	ban	smoking	0	0
+1.0	thousands	have	rest	O	O
+1.0	premise	allow	smoking	0	0
+1.0	restaurants	have	thousands	O	O
+1.0	Deli Lamma bar	hole on	Lamma Island	LOCATION	LOCATION
+1.0	sweeping new law	ban smoking in	indoor public place	0	0
+1.0	ash tray	be	like in many other around town remove at stroke of midnight	0	TIME
+1.0	smoker	face	on-the-spot fine	0	0
+1.0	yellow line	have	outside office building have even paint	0	0
+1.0	regulars	have	premises	O	O
+1.0	sweeping new law	ban	smoking	0	0
+1.0	ban	have	day	DURATION	O
+1.0	ash tray	be	at popular Island Bar like in many other around town remove at stroke of midnight	0	LOCATION
+1.0	huge street demonstration	be hold during	year	0	DATE
+1.0	ban	discourage regular from	they premise	0	DATE
+1.0	measure	be	unworkable	0	0
+1.0	new law	ban smoking in	indoor place	0	0
+1.0	measure	have	passage	O	O
+0.8705174108866569	the 200,000 people employed in the hospitality industry who would otherwise be exposed to second - hand smoke	be in	party mood	0	0
+1.0	people	have	health	O	O
+1.0	sweeping law	ban smoking in	indoor public place	0	0
+1.0	measure	despite	passage	0	0
+1.0	new law	ban smoking in	indoor public place	0	0
+1.0	tray	be	at Island Bar like in many other around town remove at stroke	0	LOCATION
+1.0	tray	be	at Island Bar like in many other around town remove	0	LOCATION
+1.0	celebration	have	night	TIME	O
+1.0	sweeping new law	ban smoking in	place	0	0
+1.0	tray	be	at popular Island Bar like in other around town remove at stroke of midnight	0	LOCATION
+1.0	Office	have send team in	effort	ORGANIZATION	0
+1.0	sign	warn punter against	smoking	0	0
+1.0	sign	be	erect	0	0
+1.0	sweeping law	ban smoking in	public place	0	0
+1.0	officer	have target smoking spot on	day of ban	0	DURATION
+0.7700003109055037	smoker	on-the-spot fine of	5,000 Hong Kong dollar	0	LOCATION
+1.0	yellow line	have	have paint	0	0
+1.0	ash tray	be	at Island Bar like in other around town remove	0	LOCATION
+1.0	smoker	face	fine of 5,000 Hong Kong dollar	0	LOCATION
+1.0	smokers	be	catch	0	0
+1.0	costs	have	view	O	O
+0.633593924617174	Island	say at	popular hole	LOCATION	0
+1.0	officer	have target smoking spot on	day	0	DURATION
+1.0	tray	be	at Island Bar like in other around town remove at stroke	0	LOCATION
+0.14059619431790493	premise	allow until	2009	0	DATE
+1.0	ash tray	be	at Island Bar like in many other around town remove at stroke	0	LOCATION
+1.0	ash tray	be remove like	like other around town	0	0
+1.0	Hong Kong	welcome	law	LOCATION	0
+1.0	the 200,000 people employed in the hospitality industry who would otherwise be exposed to second - hand smoke	have	cigarettes	O	O
+1.0	sweeping law	ban smoking in	place	0	0
+1.0	tray	be	like in other around town remove at stroke of midnight	0	TIME
+1.0	Hong Kong	have	establishment	LOCATION	0
+1.0	line	have	have even paint	0	0
+1.0	ash tray	be	at popular Island Bar like in other around town remove at stroke	0	LOCATION
+1.0	ash tray	be	at Island Bar like in many other around town remove at stroke of midnight	0	LOCATION
+1.0	sweeping new law	ban smoking in	indoor place	0	0
+1.0	Hong Kong	welcome law at_time	Monday	LOCATION	DATE
+1.0	New Year	have	Eve	DATE	DATE
+0.8739189721337494	effort	enforce	ban	0	0
+1.0	officer	have target smoking spot on	first day of ban	0	DURATION
+1.0	tray	be	like in other around town remove at stroke	0	0
+1.0	government	have designate	255 area in park	0	NUMBER
+1.0	sweeping law	ban smoking in	indoor place	0	0
+1.0	city	have	thousands	O	O
+1.0	business	have	places	O	O
+1.0	ash tray	be	at Island Bar like in other around town remove at stroke of midnight	0	LOCATION
+1.0	Hong Kong	party into	New year	LOCATION	DATE
+1.0	ash tray	be	like in other around town remove at stroke	0	0
+1.0	Deli Lamma	have	bars	O	LOCATION
+1.0	street demonstration	be	hold	0	0
+1.0	Office	have send	team of inspector	ORGANIZATION	0
+1.0	New Year 's Eve	's eve be	night	DATE	TIME
+1.0	tray	be	at popular Island Bar like in many other around town remove	0	LOCATION
+1.0	Hong Kong	teem	bar	LOCATION	0
+1.0	Lamma Island	isle about	mile from downtown	LOCATION	0
+1.0	Hong Kong	usually teem	bar	LOCATION	0
+1.0	entertainment	have	places	O	O
+1.0	Hong Kong dollars	have	fines	O	O
+0.633593924617174	Island	say at	water hole on Lamma	LOCATION	LOCATION
+1.0	line	have	outside office building have paint	0	0
+1.0	sign	warn	punter	0	0
+1.0	inspectors	have	teams	O	O
+1.0	law	ban smoking in	public place	0	0
+1.0	government	have designate	255 area in public park	0	NUMBER
+1.0	New Year 's Eve	night of	celebration for former british colony	DATE	0
+1.0	rest	must comply with	new law	0	0
+1.0	ash tray	be remove like	like many other around town	0	0
+1.0	officer	have target	smoking hot spot	0	0
+1.0	fine	have	have issue on New Year 's Eve	0	DATE
+1.0	law	have	enforceability	O	O
+0.8705174108866569	the 200,000 people employed in the hospitality industry who would otherwise be exposed to second - hand smoke	be in	when party mood	0	0
+1.0	sweeping law	ban	smoking	0	0
+0.7869587773020208	bar and restaurant staff	be in	Hong Kong	0	LOCATION
+1.0	city	have	legions	O	O
+1.0	ash tray	be	at Island Bar like in many other around town remove	0	LOCATION
+1.0	enforceability	have	test	O	O
+1.0	tray	be remove like	like many other around town	0	0
+1.0	authority	anticipate	resistance	0	0
+0.633593924617174	Island	say at	water hole	LOCATION	0
+1.0	officer	have target smoking spot on	first day	0	DURATION

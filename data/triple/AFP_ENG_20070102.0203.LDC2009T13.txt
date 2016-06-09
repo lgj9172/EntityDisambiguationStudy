@@ -1,0 +1,41 @@
+1.0	Norway 's Kristin Stormer Steira	win	woman 's 10km country pursuit race	PERSON	NUMBER
+1.0	Ukraine	of	Valentina Shevchenko	LOCATION	PERSON
+1.0	Norway 's Kristin Stormer Steira	take	spot	PERSON	0
+1.0	Norway 's Kristin Stormer Steira	finish ahead of	Ukraine 's Valentina Shevchenko	PERSON	PERSON
+1.0	5km	be in	classic	0	0
+1.0	Norway	have	Kristin Stormer Steira	PERSON	LOCATION
+1.0	compatriot Marit Bjoergen	winner of	the World Cup	PERSON	MISC
+1.0	Norway 's Kristin Stormer Steira	have	55sec	NUMBER	PERSON
+1.0	Norway 's Kristin Stormer Steira	time	27.6 seconds over course further adrift	PERSON	DURATION
+1.0	Norway	have	Kristin Stormer Steira	LOCATION	PERSON
+1.0	the World Cup	have	winner	O	MISC
+1.0	Norway 's Kristin Stormer Steira	finish ahead of	Ukraine 's Valentina Shevchenko of Russia	PERSON	LOCATION
+1.0	Olga Saviavola	have	finished	O	PERSON
+1.0	Norway 's Kristin Stormer Steira	time	27.6 seconds over course adrift	PERSON	DURATION
+1.0	Norway 's Kristin Stormer Steira	finish of	Ukraine 's Valentina Shevchenko	PERSON	PERSON
+1.0	Norway 's Kristin Stormer Steira	finish of	Ukraine 's Valentina Shevchenko of Russia	PERSON	LOCATION
+1.0	freestyle	sec of	Valentina Shevchenko	0	PERSON
+1.0	Norway 's Kristin Stormer Steira	time	27.6 seconds	PERSON	DURATION
+1.0	Tour Ski	have	event	O	MISC
+1.0	Tuesday the second	event of	Tour de Ski	DATE	MISC
+1.0	compatriot Marit Bjoergen	winner of	last two edition	PERSON	NUMBER
+1.0	woman	have	10km cross country pursuit race	0	NUMBER
+1.0	compatriot Marit Bjoergen	finish in	place	PERSON	0
+1.0	25th place	55sec off	Norway 's Kristin Stormer Steira	ORDINAL	PERSON
+1.0	editions	have	winner	O	O
+1.0	Norway 's Kristin Stormer Steira	take spot in	standing	PERSON	0
+1.0	Ukraine	have	Valentina Shevchenko	PERSON	LOCATION
+1.0	Valentina Shevchenko	have	finished	O	PERSON
+1.0	Norway 's Kristin Stormer Steira	take spot in	overall standing of compatriot Marit Bjoergen	PERSON	PERSON
+1.0	Norway 's Kristin Stormer Steira	take	top spot	PERSON	0
+1.0	women	have	country pursuit race	O	O
+1.0	Norway 's Kristin Stormer Steira	win	woman 's 10km cross country pursuit race	PERSON	NUMBER
+1.0	Norway 's Kristin Stormer Steira	take spot in	overall standing	PERSON	0
+1.0	Norway 's Kristin Stormer Steira	take spot in	overall standing ahead of compatriot Marit Bjoergen	PERSON	PERSON
+1.0	Norway 's Kristin Stormer Steira	take spot in	standing of compatriot Marit Bjoergen	PERSON	PERSON
+1.0	compatriot Marit Bjoergen	have	standings	O	PERSON
+1.0	Valentina Shevchenko	be of	Russia	PERSON	LOCATION
+1.0	Norway 's Kristin Stormer Steira	take spot in	standing ahead of compatriot Marit Bjoergen	PERSON	PERSON
+1.0	Russia	have	Valentina Shevchenko	PERSON	LOCATION
+1.0	compatriot Marit Bjoergen	finish in	25th place	PERSON	ORDINAL
+1.0	Valentina Shevchenko	have	sec	DURATION	PERSON

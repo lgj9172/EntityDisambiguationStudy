@@ -1,0 +1,43 @@
+0.8109924606542299	rain	play on	second day	0	DATE
+0.8109924606542299	rain	play late on	day	0	DATE
+1.0	rain	stop	play on day	0	DATE
+0.8109924606542299	rain	play late between	Australia	0	LOCATION
+1.0	rain	stop play on	here Wednesday	0	DATE
+1.0	rain	stop	play late on second day	0	DATE
+1.0	rain	stop play at	Sydney Cricket Ground	0	LOCATION
+1.0	rain	stop	play late	0	0
+0.8109924606542299	rain	play on	day of fifth	0	DATE
+1.0	rain	stop play on	Wednesday	0	DATE
+1.0	Australia	have lose	wicket	LOCATION	0
+0.8109924606542299	rain	play on	second day of fifth	0	DATE
+0.8109924606542299	rain	play late on	second day of fifth	0	DATE
+1.0	rain	stop	play on day of fifth between Australia	0	DATE
+1.0	rain	stop	play late on day of fifth	0	DATE
+0.8109924606542299	rain	play late on	second day	0	DATE
+1.0	rain	stop	play late on second day of fifth between Australia	0	DATE
+1.0	rain	stop	play late on second day of fifth	0	DATE
+1.0	rain	stop	play on second day of fifth between Australia	0	DATE
+1.0	Australia	have just lose	wicket of Michael Clarke for 11	LOCATION	PERSON
+1.0	Australia	have lose	wicket of Michael Clarke for 11	LOCATION	PERSON
+1.0	rain	stop	play late on day between Australia	0	DATE
+1.0	rain	stop	play late between Australia	0	LOCATION
+1.0	Ashes cricket Test	have	day	DATE	O
+1.0	rain	stop	play on second day between Australia	0	DATE
+1.0	rain	stop	play	0	0
+1.0	rain	stop	play on day between Australia	0	DATE
+1.0	rain	stop	play on day of fifth	0	DATE
+1.0	rain	stop	play on second day	0	DATE
+1.0	rain	stop	play between Australia	0	LOCATION
+1.0	Australia	have just lose	wicket of Michael Clarke	LOCATION	PERSON
+1.0	Australia	have lose	wicket of Michael Clarke	LOCATION	PERSON
+1.0	rain	stop	play late on day	0	DATE
+1.0	rain	stop	play on second day of fifth	0	DATE
+1.0	Australia	have just lose	wicket	LOCATION	0
+1.0	Michael Clarke	be for	11	PERSON	NUMBER
+1.0	fifth	have	day	DATE	ORDINAL
+0.8109924606542299	rain	play between	Australia	0	LOCATION
+1.0	Michael Clarke	have	wicket	O	PERSON
+0.8109924606542299	rain	play on	day	0	DATE
+1.0	rain	stop	play late on day of fifth between Australia	0	DATE
+1.0	rain	stop	play late on second day between Australia	0	DATE
+0.8109924606542299	rain	play late on	day of fifth	0	DATE

@@ -1,0 +1,20 @@
+1.0	minister	have	spokesman	O	O
+1.0	Belarus	agree to	gas supply deal	LOCATION	0
+1.0	Minsk	pay price for	gas	LOCATION	0
+1.0	tax	come into	operation	0	0
+1.0	Belarus	reluctantly agree to	gas supply deal	LOCATION	0
+1.0	prime minister	have	spokesman	0	0
+1.0	Alexander Timochenko	tell	AFP	PERSON	ORGANIZATION
+1.0	prime minister 's spokesman	say at_time	Wednesday	0	DATE
+1.0	Belarus	have	territory	O	O
+1.0	Minsk	pay	price	LOCATION	0
+1.0	Belarus	agree to	new gas supply deal	LOCATION	0
+1.0	Minsk	be	force	LOCATION	0
+1.0	Minsk	pay	higher price	LOCATION	0
+1.0	comment	come at_time	three day	0	DURATION
+1.0	Belarus	reluctantly agree to	new gas supply deal	LOCATION	0
+1.0	minister 's spokesman	say at_time	Wednesday	0	DATE
+1.0	oil	have	transit	O	O
+1.0	imports	have	cost	O	O
+1.0	Minsk	pay price for	russian gas	LOCATION	0
+1.0	tax	come on	January 1	0	DATE

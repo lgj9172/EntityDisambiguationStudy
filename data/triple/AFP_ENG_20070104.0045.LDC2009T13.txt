@@ -1,0 +1,16 @@
+1.0	company	as	2007 model	0	DATE
+1.0	her	have	image	O	O
+1.0	her	have	home video	O	O
+1.0	her	have	debut	O	O
+1.0	company	sign	contract	0	0
+1.0	brand	have	that	O	O
+1.0	South Korea	be in	March	LOCATION	DATE
+1.0	Korea	be for	Fila Korea following filming in Los Angeles this month	LOCATION	ORGANIZATION
+1.0	the US socialite and heiress to the Hilton Hotel empire	have	brand	O	O
+1.0	company	sign	one-year contract	0	DURATION
+1.0	home video	have	Internet	MISC	O
+1.0	Kil Young-Og	spokeswoman for	Korea	PERSON	LOCATION
+1.0	company	sign contract with	Paris Hilton	0	ORGANIZATION
+1.0	company	have	model	O	O
+1.0	Paris Hilton	socialite to	Hilton Hotel empire	LOCATION	LOCATION
+1.0	company	say at_time	Thursday	0	DATE

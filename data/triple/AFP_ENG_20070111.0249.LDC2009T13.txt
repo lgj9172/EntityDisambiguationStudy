@@ -1,0 +1,275 @@
+1.0	Poland	have	reforms	O	LOCATION
+1.0	Balcerowicz	be	architect of Poland 's economic reform after collapse	PERSON	LOCATION
+1.0	critic	have say	have serve in several post since 1993	0	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker	NUMBER	DATE
+1.0	EU 's member state	adopt	single currency	ORGANIZATION	0
+1.0	critic	serve in	key post	0	0
+1.0	communism	be in	1989	0	DATE
+1.0	critic	have say	have serve in key post since 1993	0	DATE
+0.9767684936435655	Balcerowicz	pay attention to	monetary policy at expense of economic growth	PERSON	0
+1.0	his	have	election	O	O
+1.0	Skrzypek	be	on Wednesday endorse after latter complete six-year term in office	PERSON	DATE
+1.0	Skrzypek 42	be endorse after	latter	NUMBER	0
+1.0	outgoing bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete	NUMBER	DATE
+1.0	EU 's new member state	adopt currency with	first wave of three	ORGANIZATION	ORDINAL
+1.0	Balcerowicz 60	be	highly rate	PERSON	0
+1.0	chief	reject suggestion on	Thursday	0	DATE
+1.0	critic	serve in	post	0	0
+1.0	critic	serve in	several key post	0	0
+1.0	Skrzypek	be	on Wednesday endorse after latter complete term	PERSON	DATE
+1.0	Balcerowicz 60	be	architect	PERSON	0
+1.0	Hungary	have push back	its target	LOCATION	0
+1.0	critic	serve in	key post since 1993	0	DATE
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete term in office	NUMBER	0
+1.0	bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter complete six-year term in office	PERSON	DURATION
+1.0	Balcerowicz 60	be architect after	collapse	PERSON	0
+1.0	chief	however reject	suggestion	0	0
+1.0	Balcerowicz	be architect after	collapse of communism in 1989	PERSON	DATE
+0.9898813636551625	inflation	key measure of	eurozone eligibility	0	0
+1.0	his	have	mandate	O	O
+1.0	eurozone	have only gain	Slovenia	NUMBER	LOCATION
+1.0	Skrzypek 42	be endorse after	latter complete term	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse after latter	PERSON	DATE
+1.0	reforms	have	architect	O	O
+1.0	he	chief of	bank	0	0
+1.0	Balcerowicz 60	be	architect of Poland 's reform after collapse	PERSON	LOCATION
+0.9898813636551625	inflation	measure of	eurozone eligibility	0	0
+1.0	Skrzypek 42	be endorse by	lawmaker	NUMBER	0
+1.0	Balcerowicz	be architect after	collapse of communism	PERSON	0
+1.0	Skrzypek	succeed balcerowicz as	governor of bank	PERSON	0
+1.0	new chief	reject	suggestion	0	0
+1.0	euro	have	adoption	O	O
+1.0	bank	have	guarantee	O	O
+1.0	board	be in	2008	0	DATE
+1.0	central bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	he	chief of	bank in January 2001	0	DATE
+1.0	Skrzypek	be	on Wednesday endorse after latter complete six-year term	PERSON	DATE
+1.0	their	have	plans	O	O
+1.0	Skrzypek	be	on Wednesday endorse after latter complete term in office	PERSON	DATE
+1.0	their	have	growth	O	O
+0.9767684936435655	Balcerowicz	pay	attention	PERSON	0
+1.0	Skrzypek	be endorse after	latter complete term	PERSON	0
+1.0	bank	have	head	O	O
+1.0	critic	serve in	several post	0	0
+1.0	states	have	one	NUMBER	O
+1.0	critic	have say	have serve in several key post since 1993	0	DATE
+1.0	independence	have	defence	O	O
+1.0	Cyprus	come on	board	LOCATION	0
+1.0	he	become	chief of central bank	0	0
+1.0	bank	have	governor	O	O
+1.0	communism	have	collapse	O	O
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete six-year term in office	NUMBER	DURATION
+1.0	new head	set target date for	Poland	0	LOCATION
+1.0	EU 's member state	adopt	currency	ORGANIZATION	0
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete in office	PERSON	DATE
+1.0	Skrzypek 42	succeed balcerowicz as	governor of central bank	NUMBER	0
+1.0	EU 's member state	adopt currency with	first wave of three	ORGANIZATION	ORDINAL
+1.0	EU 's new member state	adopt currency with	first wave	ORGANIZATION	ORDINAL
+1.0	critic	have say	have serve under he in post	0	0
+1.0	Poland	of	economic reform	LOCATION	0
+1.0	Skrzypek 42	be	endorse	NUMBER	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete in office	NUMBER	0
+1.0	critic	have say	have serve in post	0	0
+1.0	new head	set	target date	0	0
+1.0	EU 's member state	adopt currency with	first wave	ORGANIZATION	ORDINAL
+1.0	referendum	be in	2003	0	DATE
+1.0	we	analyse	problem	0	0
+1.0	Skrzypek 42	succeed balcerowicz as	governor of bank	NUMBER	0
+1.0	outgoing bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete six-year term	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete in office	NUMBER	DATE
+1.0	chief	however reject suggestion on	Thursday	0	DATE
+1.0	he	become	chief of bank	0	0
+1.0	Poland	have	advantage	O	LOCATION
+1.0	Lithuania	have	have also force	LOCATION	0
+1.0	Cyprus	expect	Malta	LOCATION	LOCATION
+1.0	Lithuania	delay	Estonia	LOCATION	LOCATION
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete six-year term in office	PERSON	DATE
+1.0	EU 's new member state	adopt currency with	wave of three	ORGANIZATION	NUMBER
+1.0	Balcerowicz	be	architect of Poland 's reform after collapse	PERSON	LOCATION
+1.0	Balcerowicz	be	rate	PERSON	0
+1.0	critic	have say	have serve in post since 1993	0	DATE
+1.0	Skrzypek	be endorse after	latter complete	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete term in office	NUMBER	DATE
+1.0	Skrzypek	be endorse after	latter complete six-year term in office	PERSON	DURATION
+1.0	Balcerowicz	be architect of	Poland 's economic reform	PERSON	LOCATION
+1.0	critic	have say	have serve in key post	0	0
+1.0	eurozone	have	membership	O	O
+1.0	outgoing bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter complete in office	PERSON	0
+1.0	Slawomir Skrzypek	have	opponents	O	PERSON
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete six-year term in office	NUMBER	DATE
+1.0	he	annoy	left-wing	0	0
+1.0	Skrzypek	succeed balcerowicz as	governor	PERSON	0
+1.0	critic	have say	have serve in several post	0	0
+1.0	mandate	have	end	O	O
+1.0	work	have	strength	O	O
+1.0	Skrzypek	be	on Wednesday endorse after latter complete in office	PERSON	DATE
+1.0	central bank	be in	January 2001	0	DATE
+1.0	head	set	target date	0	0
+1.0	Balcerowicz	be rate by	market	PERSON	0
+1.0	Skrzypek 42	be endorse after	latter complete	NUMBER	0
+1.0	Slawomir Skrzypek	have	opponent	PERSON	0
+1.0	he	chief of	central bank	0	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete six-year term	PERSON	DATE
+1.0	head	join	eurozone	0	0
+0.9767684936435655	Balcerowicz	pay attention to	monetary policy at expense of growth	PERSON	0
+1.0	new head	join	eurozone	0	0
+1.0	Balcerowicz	be architect of	Poland 's reform	PERSON	LOCATION
+1.0	EU 's new member state	adopt currency than	2010	ORGANIZATION	DATE
+1.0	Balcerowicz	be highly rate by	market	PERSON	0
+1.0	bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Lithuania	delay	Latvia	LOCATION	LOCATION
+1.0	zloty	have	strength	O	O
+1.0	Skrzypek	be endorse after	latter complete term in office	PERSON	0
+1.0	Balcerowicz 60	be highly rate by	market	PERSON	0
+1.0	Balcerowicz	be architect after	collapse	PERSON	0
+1.0	head	set target date for	Poland	0	LOCATION
+1.0	bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete six-year term	NUMBER	DURATION
+1.0	bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek 42	succeed balcerowicz as	governor	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse after latter complete	PERSON	DATE
+1.0	chief	reject	suggestion	0	0
+1.0	three	have	wave	O	NUMBER
+1.0	his	have	defence	O	O
+1.0	Balcerowicz	be	architect	PERSON	0
+1.0	EU 's new member state	adopt currency with	wave	ORGANIZATION	0
+1.0	critic	have say	have serve under he in key post	0	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter	NUMBER	DATE
+1.0	defence	have	became	O	O
+1.0	he	guarantee independence of	bank	0	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete six-year term	PERSON	DURATION
+1.0	he	become	chief of bank in January 2001	0	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter	PERSON	0
+1.0	Lithuania	delay	they plan	LOCATION	DATE
+1.0	Skrzypek	be endorse after	latter complete six-year term	PERSON	DURATION
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete	PERSON	DATE
+1.0	EU	have	member states	O	ORGANIZATION
+1.0	Czech Republic	be plan	join	LOCATION	0
+1.0	he	adopt	weaker line	0	0
+1.0	Cyprus	be expect	come on board	LOCATION	0
+1.0	outgoing bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek 42	be endorse after	latter complete in office	NUMBER	0
+1.0	Skrzypek 42	be endorse on	Wednesday	NUMBER	DATE
+1.0	Balcerowicz 60	be architect of	Poland 's economic reform	PERSON	LOCATION
+1.0	outgoing central bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Cyprus	come	Malta	LOCATION	LOCATION
+1.0	dogma	have	matter	O	O
+1.0	institution	have	independence	O	O
+1.0	Skrzypek 42	be endorse after	latter complete six-year term	NUMBER	DURATION
+1.0	central bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	he election	be in	2005	0	DATE
+1.0	its	have	target	O	O
+1.0	EU 's member state	adopt currency than	2010	ORGANIZATION	DATE
+1.0	new chief	however reject suggestion on	Thursday	0	DATE
+1.0	critic	serve in	post since 1993	0	DATE
+1.0	he mandate	be in	2010	0	DATE
+1.0	Balcerowicz	be	60	PERSON	NUMBER
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete	NUMBER	DATE
+1.0	Warsaw	point to	example of Sweden	LOCATION	LOCATION
+1.0	he	guarantee	independence	0	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete	PERSON	0
+1.0	critic	serve in	several post since 1993	0	DATE
+1.0	Cyprus	be expect	come on board in 2008	LOCATION	DATE
+1.0	Balcerowicz 60	be rate by	market	PERSON	0
+1.0	critic	have say	have serve	0	0
+1.0	EU 's new member state	adopt	single currency	ORGANIZATION	0
+1.0	he	become because of	he fierce defence of institution 's independence	0	0
+1.0	Cyprus	be	expect	LOCATION	0
+1.0	he	chief of	central bank in January 2001	0	DATE
+1.0	EU 's member state	adopt currency with	wave	ORGANIZATION	0
+1.0	critic	have say	have serve under he	0	0
+1.0	Balcerowicz	be	architect of Poland 's economic reform after collapse of communism in 1989	PERSON	DATE
+1.0	our	have	European Union partners	O	O
+1.0	Skrzypek	be endorse on	Wednesday	PERSON	DATE
+1.0	eurozone eligibility	have	measure	O	O
+0.9767684936435655	Balcerowicz	pay attention to	monetary policy at expense	PERSON	0
+1.0	Balcerowicz 60	be	architect of Poland 's economic reform after collapse of communism	PERSON	LOCATION
+1.0	Balcerowicz 60	be	architect of Poland 's economic reform after collapse of communism in 1989	PERSON	DATE
+1.0	Skrzypek	be endorse after	latter complete in office	PERSON	0
+1.0	Balcerowicz 60	be	architect of Poland 's reform after collapse of communism	PERSON	LOCATION
+1.0	central bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	EU 's new member state	adopt	currency	ORGANIZATION	0
+1.0	Czech Republic	join in	2012	LOCATION	DATE
+0.9767684936435655	Balcerowicz	pay	much attention	PERSON	0
+0.9767684936435655	Balcerowicz	pay attention to	policy at expense	PERSON	0
+1.0	institution	of	independence	0	0
+0.9767684936435655	Balcerowicz	pay attention to	policy at expense of economic growth	PERSON	0
+1.0	treaty	have	part	O	O
+1.0	critic	serve under	he	0	0
+1.0	Balcerowicz 60	be architect of	Poland 's reform	PERSON	LOCATION
+1.0	he	become	chief of central bank in January 2001	0	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete term	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete in office	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete six-year term	NUMBER	DATE
+1.0	eurozone	have gain	Slovenia	NUMBER	LOCATION
+1.0	Balcerowicz 60	be	architect of Poland 's economic reform after collapse	PERSON	LOCATION
+1.0	bank	have	chief	O	O
+1.0	Balcerowicz 60	be architect after	collapse of communism	PERSON	0
+1.0	conservative President Lech Kaczynski	say after	he election	PERSON	0
+1.0	new chief	reject suggestion on	Thursday	0	DATE
+1.0	Balcerowicz 60	be architect after	collapse of communism in 1989	PERSON	DATE
+1.0	Balcerowicz	be	architect of Poland 's reform after collapse of communism	PERSON	LOCATION
+1.0	he	become	chief	0	0
+1.0	Sweden	have	example	O	LOCATION
+1.0	Skrzypek	be	42	PERSON	NUMBER
+0.9767684936435655	Balcerowicz	pay	too much attention	PERSON	0
+1.0	President Lech Kaczynski	say after	he election	PERSON	0
+1.0	outgoing central bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	he	guarantee independence of	central bank	0	0
+1.0	Cyprus	come on	board in 2008	LOCATION	DATE
+1.0	Skrzypek	be endorse after	latter	PERSON	0
+0.9767684936435655	Balcerowicz	pay attention to	policy	PERSON	0
+1.0	critic	have say	have serve in several key post	0	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete term	NUMBER	0
+1.0	he	adopt line under	government pressure	0	0
+1.0	inflation	measure of	eurozone eligibility	0	0
+1.0	Czech Republic	be plan	join in 2012	LOCATION	DATE
+1.0	Skrzypek 42	be endorse after	latter complete term in office	NUMBER	0
+1.0	new chief	however reject	suggestion	0	0
+1.0	Hungary	have push	its target	LOCATION	0
+1.0	critic	accuse	Balcerowicz	0	PERSON
+1.0	Cyprus	be expect	come	LOCATION	0
+1.0	he	become because of	he defence	0	0
+1.0	he	become because of	he defence of institution 's independence	0	0
+1.0	Skrzypek	succeed balcerowicz as	governor of central bank	PERSON	0
+1.0	he	become because of	he fierce defence	0	0
+1.0	he	adopt	line	0	0
+0.9767684936435655	Balcerowicz	pay attention to	policy at expense of growth	PERSON	0
+1.0	Slovakia	be in	2009	LOCATION	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter complete term in office	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete term	NUMBER	DATE
+1.0	critic	serve in	several key post since 1993	0	DATE
+1.0	Balcerowicz	be	architect of Poland 's reform after collapse of communism in 1989	PERSON	DATE
+1.0	EU 's member state	adopt currency with	wave of three	ORGANIZATION	NUMBER
+1.0	he	adopt line on	bank independence	0	0
+1.0	Lithuania	have	have force	LOCATION	0
+1.0	Poland	one of	former communist state	LOCATION	0
+1.0	Balcerowicz 60	be	rate	PERSON	0
+1.0	outgoing central bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete term	PERSON	0
+0.9767684936435655	Balcerowicz	pay attention to	monetary policy	PERSON	0
+1.0	Skrzypek	be	endorse	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete term in office	NUMBER	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete term	PERSON	DATE
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete	NUMBER	0
+1.0	Skrzypek	be endorse by	lawmaker	PERSON	0
+1.0	EU	have	new member state	ORGANIZATION	0
+1.0	outgoing central bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter	PERSON	DATE
+1.0	Balcerowicz 60	be	architect of Poland 's reform after collapse of communism in 1989	PERSON	DATE
+1.0	growth	have	expense	O	O
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete six-year term in office	NUMBER	DATE
+1.0	central bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Balcerowicz	be	highly rate	PERSON	0
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete term in office	PERSON	DATE
+1.0	Skrzypek	succeed	Balcerowicz	PERSON	PERSON
+1.0	Skrzypek 42	succeed	Balcerowicz	NUMBER	PERSON
+1.0	Skrzypek 42	be endorse after	latter complete six-year term in office	NUMBER	DURATION
+1.0	Balcerowicz	be	architect of Poland 's economic reform after collapse of communism	PERSON	LOCATION
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter	NUMBER	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker	PERSON	DATE

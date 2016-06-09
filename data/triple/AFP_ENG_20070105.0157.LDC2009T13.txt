@@ -1,0 +1,63 @@
+1.0	provincial government	dismiss	series of appeal	0	0
+1.0	status	have	stripped	O	O
+1.0	tournament	have	organisers	O	O
+1.0	provincial government	dismiss series against	its construction	0	0
+1.0	The appeal against the construction of the stadium at Green Point	be	dismiss by provincial government	0	0
+1.0	enough time	complete stadium by	end of 2009	0	DATE
+1.0	Essop	have	decision	O	PERSON
+0.829329140521791	government	series of	appeal	0	0
+1.0	Cape Town	be strip as	one of nine host city	LOCATION	NUMBER
+1.0	Essop	have	decision	PERSON	0
+1.0	lengthy dispute	delay	construction	0	0
+1.0	public consultation	be in	final stage of authorisation process	0	0
+1.0	few	have	one	NUMBER	O
+1.0	The appeal against the construction of the stadium at Green Point	be	dismiss	0	0
+1.0	time	complete	stadium	0	0
+1.0	council	be	meet	0	0
+1.0	appeals	have	series	O	O
+1.0	Tasneem Essop	tell	reporter	0	0
+1.0	Cape Town	be strip as	one nine host city	LOCATION	NUMBER
+1.0	The Green Point Common Association	one of	final prerequisite for stadium construction	ORGANIZATION	0
+1.0	The Green Point Common Association	have	appeal	O	O
+1.0	Cape Town	be	strip of its status as one of nine host city	LOCATION	NUMBER
+1.0	2009	have	end	DATE	DATE
+1.0	appeal	have	have launch	0	0
+1.0	Tasneem Essop	minister in	western Cape provincial government	PERSON	LOCATION
+1.0	council	be	meet on January 17	0	DATE
+1.0	time	complete stadium by	end of 2009	0	DATE
+1.0	The Green Point Common Association	have previously threaten	court action	0	0
+1.0	council	meet on	January 17	0	DATE
+1.0	The appeal against the construction of the stadium at Green Point	be dismiss by	provincial government	0	0
+1.0	government	dismiss	series of appeal	0	0
+1.0	enough time	complete	stadium	0	0
+0.829329140521791	provincial government	series of	appeal	0	0
+1.0	government	dismiss	series	0	0
+1.0	The appeal against the construction of the stadium at Green Point	be dismiss by	government	0	0
+1.0	provincial government	dismiss	series	0	0
+1.0	The appeal against the construction of the stadium at Green Point	be	dismiss by government	0	0
+0.4003023476513975	construction	lengthy dispute about	planning process	0	0
+1.0	stadium	have	construction	O	O
+1.0	dispute	delay	construction	0	0
+1.0	Cape Town	be	strip of its status as one nine host city	LOCATION	NUMBER
+1.0	new stadium	be in	Cape Town	0	LOCATION
+1.0	Cape Town	be	strip	LOCATION	0
+1.0	time	complete stadium by	end	0	DATE
+1.0	authorisation process	have	stages	O	O
+1.0	Cape Town	be strip of	its status	LOCATION	0
+1.0	planning development minister	be in	western Cape provincial government	0	LOCATION
+1.0	Tasneem Essop	express	confidence	PERSON	0
+1.0	Tasneem Essop	express confidence on	Friday when the provincial government dismissed a series of appeals against its construction	PERSON	DATE
+1.0	Cape Town city council	note	Essop 's decision	LOCATION	PERSON
+1.0	semi-finals	have	stage	O	O
+1.0	The Cape Town city council	have	commitment	O	O
+1.0	The Green Point Common Association	have threaten	court action	0	0
+1.0	council	meet	consider	0	0
+1.0	the provincial government	have	construction	O	O
+1.0	residents	have	association	O	O
+0.4003023476513975	construction	dispute about	planning process	0	0
+1.0	host cities	have	one	NUMBER	O
+1.0	government	dismiss series against	its construction	0	0
+1.0	enough time	complete stadium by	end	0	DATE
+1.0	prerequisites	have	one	NUMBER	O
+1.0	Cape Town city council	express	its commitment	LOCATION	0
+1.0	Cape Town	have	status	O	O

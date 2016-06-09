@@ -1,0 +1,154 @@
+1.0	John McCain	have stake	he reputation	PERSON	0
+1.0	Jamie McKown	professor of	government at College	PERSON	0
+1.0	Mitt Romney	be	Massachusetts	PERSON	LOCATION
+1.0	John McCain	choose	fall	0	0
+1.0	his	have	stance	O	O
+1.0	President George W. Bush 's 11th hour bid	pose	test for top hopeful include Hillary Clinton	PERSON	PERSON
+1.0	hopefuls	have	fate	O	O
+0.9114653688961706	individual	be tie to	failed policy	0	0
+1.0	John Edwards	run at_time	hard year	PERSON	DURATION
+1.0	President George W. Bush 's hour bid	be shape battleground for	2008 White House race	PERSON	ORGANIZATION
+1.0	John McCain	have	reputation	O	O
+1.0	former New York mayor Rudolph Giuliani	also stand with	President George W. Bush 's	PERSON	PERSON
+1.0	Bush	have	tactic	PERSON	0
+1.0	Mitt Romney	be governor of	Massachusetts	PERSON	LOCATION
+0.644625788889678	pose	early test for	top hopeful include Hillary Clinton	0	PERSON
+1.0	sentiment	have	heat	O	O
+1.0	president	have	speech	O	O
+1.0	Iraq	have	government	LOCATION	0
+1.0	his	have	party	O	O
+1.0	John McCain	choose	fall behind McCain	0	PERSON
+1.0	president	have	increase	O	O
+1.0	disaster	be in	bloodstained Iraq	0	LOCATION
+1.0	John McCain	choose	fall into line behind McCain	0	PERSON
+1.0	Tom Baldino	professor of	political science at Wilkes University	PERSON	ORGANIZATION
+1.0	early skirmish	be	dominate	0	0
+0.644625788889678	pose	early test for	top hopeful	0	0
+1.0	their	have	success	O	O
+0.644625788889678	pose	test for	top hopeful	0	0
+1.0	iraqi civilian	require	troops	0	0
+1.0	Bush	with	Iraq malaise	PERSON	LOCATION
+0.644625788889678	pose	test for	hopeful	0	0
+1.0	president	have	increase in troops	0	0
+1.0	John Edwards	have already try to	tar	PERSON	DURATION
+1.0	president	have	decision	0	0
+1.0	Barack Obama	be	democratic	PERSON	0
+1.0	President George W. Bush 's 11th hour bid	pose	test for top hopeful	PERSON	0
+1.0	former New York mayor Rudolph Giuliani	stand with	President George W. Bush 's	PERSON	PERSON
+1.0	President George W. Bush 's hour bid	pose	early test for hopeful	PERSON	0
+1.0	possible republican rival	be with	Bush 's Iraq malaise	DURATION	LOCATION
+0.644625788889678	pose	test for	hopeful include Hillary Clinton	0	PERSON
+1.0	he stance	doom	he presidential dream	0	0
+1.0	president	over	speech	0	0
+1.0	John McCain	demand troops for	Iraq	PERSON	LOCATION
+1.0	skirmish	be	dominate	0	0
+1.0	vote	authorize war with	grassroot Democrat anti-war sentiment	0	MISC
+1.0	should important policy	be in	wartorn nation	0	0
+1.0	John McCain	demand	troops	PERSON	0
+1.0	early skirmish	be in	nascent campaign	0	0
+1.0	Bush	have	decision	O	PERSON
+1.0	John Edwards	be	senator	0	0
+1.0	John McCain	demand	more troops	PERSON	0
+0.9114653688961706	individual	be	tie	0	0
+0.9114653688961706	individual	be tie to	policy	0	0
+1.0	President George W. Bush 's hour bid	pose	early test for hopeful include Hillary Clinton	PERSON	PERSON
+1.0	one republican	be	however conservative outsider	0	0
+1.0	President George W. Bush 's 11th hour bid	pose	test for hopeful	PERSON	0
+1.0	former New York mayor Rudolph Giuliani	stand on	Wednesday	PERSON	DATE
+1.0	government	have	professor	O	O
+1.0	President George W. Bush 's 11th hour bid	pose	early test for hopeful	PERSON	0
+1.0	repeat demand	embrace	they chance	0	0
+1.0	President George W. Bush 's hour bid	be shape	battleground	PERSON	0
+1.0	success	be in	bloodstained Iraq	0	LOCATION
+1.0	one republican	be	however outsider	0	0
+1.0	Iraq 's government	quell	violence	LOCATION	0
+1.0	one republican	be	outsider	0	0
+1.0	Iraq	have	government	O	LOCATION
+1.0	President George W. Bush 's 11th hour bid	pose	early test	PERSON	0
+1.0	Democrats	have	some	O	MISC
+1.0	analyst	see iraq strategy as	chance for Clinton	0	PERSON
+1.0	John Edwards	run before	party contest	PERSON	DURATION
+1.0	President George W. Bush 's 11th hour bid	pose	early test for top hopeful include Hillary Clinton	PERSON	PERSON
+1.0	John Edwards	run before	party nominating contest	PERSON	DURATION
+1.0	war	be	vote loser	0	0
+1.0	earlier vote	authorize	war	0	0
+1.0	John Edwards	cast for	Iraq war	0	0
+1.0	politics	have	matter	O	O
+1.0	President George W. Bush 's hour bid	pose	test for top hopeful include Hillary Clinton	PERSON	PERSON
+1.0	President George W. Bush 's 11th hour bid	be shape battleground for	2008 White House race	PERSON	ORGANIZATION
+1.0	President George W. Bush 's 11th hour bid	pose	early test for top hopeful	PERSON	0
+1.0	analyst	be with	Center for Strategic and International Studies	0	ORGANIZATION
+1.0	John McCain	choose	fall into line	0	0
+1.0	Sam Brownback	be senator of	Kansas	PERSON	LOCATION
+1.0	science	have	professor	O	O
+1.0	President George W. Bush 's hour bid	pose	test for hopeful include Hillary Clinton	PERSON	PERSON
+1.0	US	have	factor	O	LOCATION
+1.0	President George W. Bush 's hour bid	pose	test for top hopeful	PERSON	0
+1.0	President George W. Bush 's hour bid	pose	early test for top hopeful	PERSON	0
+1.0	soldier	be in	field	0	0
+1.0	Rudolph Giuliani	be mayor of	New York	PERSON	LOCATION
+1.0	Bush	have	tactics	O	PERSON
+1.0	campaign politics	have	glare	O	O
+1.0	frenzy	thrust	one possible hopeful	0	NUMBER
+1.0	Bush administration	have	management	O	O
+1.0	analyst	see iraq strategy as	chance	0	0
+1.0	President George W. Bush 's 11th hour bid	pose	test	PERSON	0
+1.0	John Edwards	be	when senator	0	0
+1.0	frenzy	immediately thrust	former Massachusetts Governor Mitt Romney	0	PERSON
+1.0	this	be	new	0	0
+1.0	US troops to leave	have	chance	O	O
+1.0	Sam Brownback	be	Kansas	PERSON	LOCATION
+1.0	President George W. Bush 's 11th hour bid	pose	early test for hopeful include Hillary Clinton	PERSON	PERSON
+1.0	civilian	require	troops	0	0
+1.0	President George W. Bush 's hour bid	pose	test	PERSON	0
+1.0	demand	embrace	they chance	0	0
+1.0	John Edwards	fail	2004 candidate	PERSON	DATE
+1.0	John Edwards	have try to	tar	PERSON	DURATION
+1.0	one republican	be	conservative outsider	0	0
+1.0	Atlantic	have	College	O	LOCATION
+1.0	frenzy	thrust	former Massachusetts Governor Mitt Romney	0	PERSON
+1.0	iraqi civilian	require	additional troops	0	0
+1.0	their	have	candidacy	O	O
+1.0	John Edwards	fail	2004 democratic vice-presidential candidate	PERSON	DATE
+1.0	John McCain	fall into	line	0	0
+1.0	analyst	see	Iraq strategy	0	LOCATION
+1.0	warning	have	management	O	O
+1.0	Rick Barton	analyst with	Center for Strategic and International Studies	PERSON	ORGANIZATION
+1.0	President George W. Bush 's 11th hour bid	pose	test for hopeful include Hillary Clinton	PERSON	PERSON
+1.0	president	have	decision	O	O
+0.644625788889678	pose	test for	top hopeful include Hillary Clinton	0	PERSON
+1.0	vote	authorize	war	0	0
+1.0	President George W. Bush 's 11th hour bid	be shape	battleground	PERSON	0
+1.0	frenzy	immediately thrust	one possible hopeful	0	NUMBER
+1.0	John Edwards	fail	2004 vice-presidential candidate	PERSON	DATE
+1.0	John McCain	fall behind	John McCain	0	PERSON
+1.0	former New York mayor Rudolph Giuliani	also stand on	Wednesday	PERSON	DATE
+0.644625788889678	pose	early test for	hopeful include Hillary Clinton	0	PERSON
+1.0	President George W. Bush	have	hour bid	O	PERSON
+1.0	factor	be in	race	0	0
+1.0	President George W. Bush 's hour bid	pose	test for hopeful	PERSON	0
+1.0	his	have	dreams	O	O
+1.0	president 's increase	be in	US troops to leave	0	0
+1.0	George W. Bush	have	11th hour bid stave	PERSON	DATE
+1.0	he stance	doom	he dream	0	0
+1.0	conflict	have	management	O	O
+1.0	Bush administration	have	management of conflict	PERSON	0
+1.0	John Edwards	fail	2004 democratic candidate	PERSON	DATE
+1.0	earlier vote	authorize war with	grassroot Democrat sentiment	0	MISC
+1.0	President George W. Bush 's hour bid	pose	early test for top hopeful include Hillary Clinton	PERSON	PERSON
+1.0	Bush	have	Iraq malaise	O	PERSON
+1.0	civilian	require	additional troops	0	0
+1.0	earlier vote	authorize war with	grassroot Democrat anti-war sentiment	0	MISC
+1.0	analyst	ally	herself	0	0
+1.0	Rudolph Giuliani	be	New York	PERSON	LOCATION
+1.0	security	have	matter	O	O
+1.0	vote	authorize war with	grassroot Democrat sentiment	0	MISC
+1.0	political debate	be in	Washington	0	LOCATION
+1.0	John Edwards	run at_time	year	PERSON	DURATION
+1.0	frenzy	thrust	one possible republican hopeful	0	NUMBER
+1.0	Bush	have	decision Wednesday send into Iraq	PERSON	LOCATION
+1.0	President George W. Bush 's hour bid	pose	early test	PERSON	0
+1.0	analyst	see	new Iraq strategy	0	LOCATION
+1.0	Atlantic	be in	Maine	LOCATION	LOCATION
+1.0	frenzy	immediately thrust	one possible republican hopeful	0	NUMBER
+0.644625788889678	pose	early test for	hopeful	0	0

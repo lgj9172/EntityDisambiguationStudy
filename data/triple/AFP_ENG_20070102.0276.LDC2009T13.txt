@@ -1,0 +1,182 @@
+1.0	he	have	Karthik catch at silly point after tea	0	PERSON
+1.0	India	forge position on	first day of third test against South Africa	LOCATION	DURATION
+1.0	they	go home with	at least share of honour	0	0
+1.0	Wicketkeeper Karthik	come into	side	PERSON	0
+1.0	his	have	Test	O	O
+1.0	bowlers	have	switch	O	O
+1.0	Shaun Pollock	claim	wicket	PERSON	0
+1.0	his	have	replacement	O	O
+1.0	form	have	signs	O	O
+1.0	tall Jaffer	make horror start from	he five inning	PERSON	NUMBER
+1.0	Kallis	have	Test catch	O	PERSON
+1.0	partner	strike	firm drive	0	0
+1.0	tall Jaffer 28	make horror start with	top score	PERSON	NUMBER
+1.0	his	have	toes	O	O
+1.0	he	have	Karthik catch at point off first ball after tea	0	ORDINAL
+1.0	South Africa	against	fast bowler	LOCATION	0
+1.0	India	forge position on	first day of test	LOCATION	DURATION
+1.0	Indian captain	edge catch to	wicketkeeper Mark Boucher	MISC	PERSON
+1.0	India	forge position on	day of decisive third test against South Africa	LOCATION	DURATION
+1.0	Shaun Pollock	have	hold	O	PERSON
+1.0	India	take	step	LOCATION	0
+1.0	India	move	out-of-form Virender Sehwag	LOCATION	PERSON
+1.0	India	forge position on	day of decisive third test	LOCATION	DURATION
+1.0	VRV Singh	be in	indian team	0	0
+1.0	Karthik	leave	ball	PERSON	0
+1.0	he	have	Karthik catch at point	0	PERSON
+1.0	Munaf Patel	replace	VRV Singh in indian team	PERSON	0
+1.0	India	move virender sehwag down	batting order	LOCATION	0
+1.0	tall Jaffer	make horror start to	tour of South Africa	PERSON	LOCATION
+1.0	he	play	chanceless inning	0	0
+1.0	South Africa 's bowler	be make	work hard	LOCATION	0
+1.0	they	go home with	share of honour	0	0
+1.0	tall Jaffer 28	make horror start with	score	PERSON	NUMBER
+1.0	India	have	previous best stand in series	LOCATION	0
+1.0	Indian captain	score	29	MISC	NUMBER
+1.0	Indian captain	edge	catch	MISC	0
+1.0	his	have	innings	O	O
+1.0	tall Jaffer 28	make horror start from	he first five inning	PERSON	ORDINAL
+1.0	tall Jaffer 28	make horror start to	tour of South Africa	PERSON	LOCATION
+1.0	Kallis	miss	second test	PERSON	ORDINAL
+1.0	toes	have	striking	O	O
+1.0	India	forge position on	first day of decisive third test against South Africa	LOCATION	DURATION
+1.0	Wasim Jaffer	make	century	PERSON	DURATION
+1.0	Dravid	have	wicket	O	LOCATION
+1.0	he	have	Karthik catch at point off ball after tea	0	PERSON
+1.0	ball	have	caught	O	O
+1.0	Munaf Patel	replace vrv singh in	switch of fast bowler	PERSON	0
+1.0	Munaf Patel	replace	VRV Singh	PERSON	0
+1.0	he	reach	he century	0	DATE
+1.0	South Africa	have	bowlers	O	LOCATION
+1.0	India	forge position on	first day of test against South Africa	LOCATION	DURATION
+1.0	India	forge position on	day of test against South Africa	LOCATION	DURATION
+1.0	Dale Steyn	have	slip	O	PERSON
+1.0	tall Jaffer 28	make horror start with	top score of 10	PERSON	NUMBER
+1.0	it	be	Kallis ' test catch	0	PERSON
+1.0	Karthik	leave ball alone in	he inning	PERSON	0
+1.0	he	have	Karthik catch at silly point	0	PERSON
+1.0	stand	be break by	left-arm spinner Paul Harris	0	PERSON
+1.0	he	have	Karthik catch at silly point off ball after tea	0	PERSON
+1.0	Indian captain Rahul Dravid	decide to	bat	MISC	0
+1.0	he	play inning at_time	Tuesday	0	DATE
+1.0	South Africa 's bowler	be make with	series lock at 1-1	LOCATION	NUMBER
+1.0	India	forge position on	day of test	LOCATION	DURATION
+0.40698801184380096	they	go with	share of honour	0	0
+0.40698801184380096	they	go with	share	0	0
+1.0	tall Jaffer	make	horror start	PERSON	0
+1.0	he	have	Karthik catch off ball	0	PERSON
+1.0	South Africa 's bowler	be make with	series lock	LOCATION	0
+1.0	India	forge position on	first day of decisive test against South Africa	LOCATION	DURATION
+1.0	Rahul Dravid	be	Indian	PERSON	MISC
+1.0	overs	have	spell	O	O
+1.0	Munaf Patel	replace	VRV Singh in team	PERSON	0
+1.0	it	be	Kallis ' 100th test catch for South Africa	0	ORDINAL
+1.0	South Africa	have	tour	O	LOCATION
+1.0	Munaf Patel	replace vrv singh in	switch	PERSON	0
+0.6680522880479459	Karthik	catch off	first ball	PERSON	ORDINAL
+1.0	India	forge position on	first day of decisive test	LOCATION	DURATION
+1.0	tall Jaffer	make horror start with	top score	PERSON	NUMBER
+1.0	they	go	home	0	0
+1.0	back injury	have	missing	O	O
+1.0	India	forge position on	first day of decisive third test	LOCATION	DURATION
+1.0	he	reach	he third century	0	DATE
+1.0	Jaffer	be	partner	PERSON	0
+1.0	South Africa 's bowler	be make with	series	LOCATION	0
+1.0	India	take	big step	LOCATION	0
+1.0	Karthik	leave ball in	he inning	PERSON	0
+1.0	Harris	bowl	24 over	PERSON	NUMBER
+1.0	Wasim Jaffer	have	century	DATE	O
+1.0	he	have	Karthik catch after tea	0	PERSON
+1.0	he	have	Karthik catch at silly point off first ball after tea	0	ORDINAL
+1.0	Kallis	miss	test	PERSON	0
+0.40698801184380096	they	go with	at least share	0	0
+1.0	Karthik	leave alone	ball	PERSON	0
+1.0	honours	have	share	O	O
+1.0	he	have	Karthik catch at point off ball	0	PERSON
+1.0	stand	be break by	spinner Paul Harris	0	PERSON
+1.0	Karthik	be	content	PERSON	0
+1.0	Jaffer	be	senior partner	PERSON	0
+1.0	South Africa 's bowler	be make	work on easy-paced pitch	LOCATION	0
+1.0	Karthik	leave ball early in	he inning	PERSON	0
+1.0	he	have	Karthik catch	0	PERSON
+1.0	tall Jaffer 28	make	horror start	PERSON	0
+1.0	India	forge	position	LOCATION	0
+0.6680522880479459	Karthik	catch off	ball	PERSON	0
+1.0	tall Jaffer	make horror start with	score	PERSON	NUMBER
+0.6680522880479459	Karthik	catch at	point	PERSON	0
+1.0	Test	have	day	DURATION	O
+1.0	India	move	Virender Sehwag	LOCATION	PERSON
+1.0	South Africa 's bowler	be make	work hard on easy-paced pitch	LOCATION	0
+0.6680522880479459	Karthik	catch after	tea	PERSON	0
+1.0	Harris	be one of	three change	PERSON	NUMBER
+1.0	spinner Paul Harris	have	mistimed	O	PERSON
+1.0	tall Jaffer 28	make horror start with	score of 10	PERSON	NUMBER
+1.0	Shaun Pollock	claim	wicket of Dravid	PERSON	LOCATION
+1.0	he	have	Karthik catch off first ball	0	ORDINAL
+1.0	Karthik	leave alone early	ball	PERSON	0
+1.0	he	have	Karthik catch at silly point off ball	0	PERSON
+0.7091338787194379	Kallis	lead	batsman	PERSON	0
+1.0	Wasim Jaffer	make	116	PERSON	NUMBER
+1.0	they	go home with	share	0	0
+1.0	it	be	Kallis ' test catch for South Africa	0	LOCATION
+1.0	he	have	Karthik catch at silly point off first ball	0	ORDINAL
+1.0	India	forge position at	Newlands Tuesday	LOCATION	DURATION
+1.0	India	forge position on	first day of third test	LOCATION	DURATION
+1.0	India	forge position on	day	LOCATION	DURATION
+1.0	tall Jaffer	make horror start with	top score of 10	PERSON	NUMBER
+0.6680522880479459	Karthik	catch at	silly point	PERSON	0
+1.0	changes	have	one	NUMBER	O
+1.0	partner	strike firm drive off	he toe	0	0
+1.0	he	have	Karthik catch at point after tea	0	PERSON
+1.0	action	be with	assistance for fast bowler	0	0
+1.0	South Africa	have	bowler	LOCATION	0
+1.0	South Africa 's bowler	work hard on	pitch	LOCATION	0
+1.0	India	have	stand	O	LOCATION
+1.0	bowler Steyn	have recover from	thigh injury	PERSON	0
+1.0	right finger	have	out ruled	O	O
+1.0	he	have	Karthik catch at point off first ball	0	ORDINAL
+1.0	South Africa 's bowler	be	make	LOCATION	0
+1.0	Jaffer	be	28	PERSON	NUMBER
+1.0	Karthik	leave ball alone early in	he inning	PERSON	0
+1.0	Harris	be one	three change	PERSON	NUMBER
+1.0	tall Jaffer	make horror start from	he first five inning	PERSON	ORDINAL
+1.0	India	forge position on	day of decisive test	LOCATION	DURATION
+1.0	India	forge	strong position	LOCATION	0
+1.0	he	have	Karthik catch off ball after tea	0	PERSON
+1.0	India	forge position on	first day	LOCATION	DURATION
+1.0	India 's previous best stand	be in	series	LOCATION	0
+1.0	stand	be break	play	0	0
+1.0	tall Jaffer 28	make horror start to	tour	PERSON	0
+1.0	he	have	Karthik catch off first ball after tea	0	ORDINAL
+1.0	South Africa 's bowler	be make	work hard on pitch	LOCATION	0
+1.0	stand	be	break	0	0
+1.0	Munaf Patel	replace vrv singh in	switch of bowler	PERSON	0
+1.0	India	forge position on	day of third test against South Africa	LOCATION	DURATION
+1.0	they	go home with	at least share	0	0
+1.0	tall Jaffer	make horror start to	tour	PERSON	0
+1.0	tall Jaffer	make horror start with	score of 10	PERSON	NUMBER
+1.0	India	reach	254	LOCATION	NUMBER
+1.0	South Africa 's bowler	work on	easy-paced pitch	LOCATION	0
+1.0	he	have	Karthik	0	PERSON
+1.0	Wasim Jaffer	have	Test	O	O
+0.40698801184380096	they	go with	at least share of honour	0	0
+1.0	he	play	inning	0	0
+1.0	senior partner	strike firm drive off	he toe	0	0
+1.0	Karthik	leave early	ball	PERSON	0
+1.0	tall Jaffer 28	make horror start from	he five inning	PERSON	NUMBER
+1.0	India	forge position on	day of third test	LOCATION	DURATION
+1.0	South Africa 's bowler	work on	pitch	LOCATION	0
+1.0	South Africa 's bowler	be make	work on pitch	LOCATION	0
+1.0	second test	be in	Durban	ORDINAL	LOCATION
+1.0	Wasim Jaffer	make	measured century	PERSON	DURATION
+1.0	India	forge position on	day of decisive test against South Africa	LOCATION	DURATION
+1.0	Graeme Smith	be	south African	PERSON	MISC
+1.0	Karthik	have	bat	O	PERSON
+1.0	Herschelle Gibbs	have	drive	O	PERSON
+1.0	South Africa 's bowler	work hard on	easy-paced pitch	LOCATION	0
+1.0	fast bowler Steyn	have recover from	thigh injury	PERSON	0
+1.0	India	benefit from	decision	LOCATION	0
+1.0	10	have	score	NUMBER	NUMBER
+1.0	senior partner	strike	firm drive	0	0
+1.0	South Africa 's bowler	be make	work	LOCATION	0
+1.0	it	be	Kallis ' 100th test catch	0	ORDINAL

@@ -1,0 +1,8 @@
+1.0	Belarus	have resume	transit of oil	LOCATION	0
+1.0	Belarus	have resume transit to	western Europe	LOCATION	LOCATION
+1.0	bitter dispute	be with	Russia	0	LOCATION
+1.0	Belarus	have resume	transit of russian oil	LOCATION	0
+1.0	oil	have	transit	O	O
+1.0	Belarus	have resume	transit	LOCATION	0
+1.0	Belarus	have resume transit to	Europe	LOCATION	LOCATION
+1.0	dispute	have	focus	O	O

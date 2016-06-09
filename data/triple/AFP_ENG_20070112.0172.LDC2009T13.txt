@@ -1,0 +1,31 @@
+1.0	55-year-old director	study	law	DURATION	0
+1.0	response	have	dramatisation	O	O
+1.0	55-year-old director	go into	television	DURATION	0
+1.0	director	go into	television in 1960	0	0
+1.0	My	have	Laundrette	O	O
+1.0	pleasure	have	freedom	O	O
+1.0	Elizabeth II	of	response to 1997 death of Princess Diana	PERSON	DATE
+1.0	55-year-old director	go into	television in late 1960	DURATION	0
+1.0	director	study	law at Cambridge	0	LOCATION
+1.0	55-year-old director	study	law at Cambridge	DURATION	LOCATION
+1.0	Cannes film festival	have	jury	O	O
+1.0	Britain	's frears be	director of box-office hit	LOCATION	0
+1.0	55-year-old director	go into	television in 1960	DURATION	0
+1.0	Queen Elizabeth II	have	response	O	PERSON
+1.0	Princess Diana	have	response	O	PERSON
+1.0	director	go into	television	0	0
+0.9607141033493821	Palme d'or prize	jury on	May	0	DATE
+1.0	director	go into	television in late 1960	0	0
+1.0	films	have	latest	O	O
+1.0	box-office hit	have	director	O	O
+1.0	british monarch	be in	movie	0	0
+1.0	director	study	law	0	0
+1.0	his	have	freedom	O	O
+1.0	Stephen Frears	director of	box-office hit	PERSON	0
+1.0	spirit	have	freedom	O	O
+1.0	television	be in	1960	0	0
+1.0	Frears	have	dramatisation	O	PERSON
+1.0	Britain	have	Stephen Frears	PERSON	LOCATION
+1.0	Britain 's Stephen Frears	be	head	PERSON	0
+0.9607141033493821	Palme d'or prize	jury on	May 27	0	DATE
+1.0	Britain	have	Stephen Frears	LOCATION	PERSON

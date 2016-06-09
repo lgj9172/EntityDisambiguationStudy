@@ -1,0 +1,13 @@
+1.0	former president BJ Vorster	resign follow	report	PERSON	0
+1.0	country	have	last non-executive president	0	0
+1.0	state funds	have	use	O	O
+1.0	Viljoen	have	role	O	PERSON
+1.0	he	come into	power	0	0
+1.0	Viljoen 's role	be	largely ceremonial	PERSON	0
+1.0	Marais Viljoen	be	South African	PERSON	MISC
+1.0	Viljoen 's role	be	ceremonial	PERSON	0
+1.0	country	have	president	O	O
+1.0	media report	say at_time	Friday	0	DATE
+1.0	91	have	age	O	NUMBER
+1.0	his	have	resignation	O	O
+1.0	Viljoen	have	role	PERSON	0

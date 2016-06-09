@@ -1,0 +1,22 @@
+1.0	rebel	be fight for	independence for island 's minority	0	0
+1.0	Sri Lankan government jet	conduct raid in	east	MISC	0
+1.0	civilian	be targett in	bombing	0	0
+1.0	upsurge	be in	violence between government troops	0	0
+0.6305032143304539	rebel	kill	15 civilian	0	NUMBER
+1.0	civilian	be	targett	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	Sri Lankan government jet	conduct raid against	Tamil Tiger position	MISC	0
+1.0	Sri Lankan government jet	conduct raid in	east of island	MISC	0
+1.0	Sri Lankan government jet	conduct	raid	MISC	0
+1.0	15 civilian	wound	25	NUMBER	NUMBER
+1.0	Sri Lankan government jet	conduct	fresh raid	MISC	0
+1.0	Tuesday	have	raid	O	DATE
+1.0	rebel	be fight for	independence	0	0
+1.0	truce	be in	place	0	0
+1.0	island	have	east	O	O
+1.0	island	for	minority	0	0
+1.0	island	have	minority	O	O
+1.0	Sri Lankan government jet	conduct raid in	east of island on Wednesday	MISC	DATE
+1.0	strike	come after	raid	0	DURATION
+1.0	strike	come at_time	day	0	DURATION
+1.0	raid	have	target	O	O

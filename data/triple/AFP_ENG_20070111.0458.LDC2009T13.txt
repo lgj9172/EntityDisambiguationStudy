@@ -1,0 +1,142 @@
+1.0	French Interior Minister	be officially nominate by	ruling Union	0	ORGANIZATION
+1.0	Interior Minister	hail	hopeful Nicolas Sarkozy on Thursday	0	PERSON
+1.0	President Jacques Chirac	have	centre	O	PERSON
+1.0	french Interior Minister	hail	presidential hopeful Nicolas Sarkozy	0	PERSON
+1.0	illegal immigrant	be return in	line	0	0
+1.0	Sarkozy 51	have serve as	interior minister	NUMBER	0
+1.0	Sarkozy	draw comparison with	record	PERSON	0
+1.0	Sarkozy	have serve as	minister	PERSON	0
+1.0	24,000 illegal immigrant	be	return to they country in 2006 in line with government projection	NUMBER	DATE
+1.0	illegal immigrant	be	return to they country of origin in 2006 in line	0	DATE
+1.0	24,000 illegal immigrant	be return in	line	NUMBER	0
+1.0	Sarkozy	have serve as	interior minister under Chirac	PERSON	PERSON
+1.0	line	be with	government projection	0	0
+1.0	French Interior Minister	be	officially nominate as candidate by ruling Union	0	ORGANIZATION
+1.0	administration	bring crime under	control	0	0
+1.0	french Interior Minister	hail	hopeful Nicolas Sarkozy on Thursday	0	PERSON
+1.0	right administration	bring	crime	0	0
+1.0	Sarkozy 51	have twice serve as	minister under Chirac	NUMBER	PERSON
+1.0	Sarkozy	draw comparison under	prime minister Lionel Jospin	PERSON	PERSON
+1.0	Sarkozy	announce	1.33 percent cut in overall crime in 2006	PERSON	PERCENT
+1.0	French Interior Minister	be	nominate	0	ORGANIZATION
+1.0	illegal immigrant	be	return in 2006 in line	0	DATE
+1.0	French Interior Minister	be	officially nominate as presidential candidate by ruling Union	0	ORGANIZATION
+1.0	Sarkozy 51	have serve from	2005	NUMBER	DATE
+1.0	French Interior Minister	be	officially nominate	0	ORGANIZATION
+1.0	24,000 illegal immigrant	be return in	2006	NUMBER	DATE
+1.0	minister	be speak to	press	0	0
+1.0	french Interior Minister	hail	Nicolas Sarkozy on Thursday	0	PERSON
+1.0	Sarkozy	draw comparison with	record of last period	PERSON	0
+1.0	French Interior Minister	be nominate as	candidate	0	ORGANIZATION
+1.0	French Interior Minister	be nominate as	presidential candidate	0	ORGANIZATION
+1.0	presidential election	take	place in April	0	DATE
+1.0	illegal immigrant	be	return to they country in 2006 in line	0	DATE
+1.0	illegal immigrant	be return to	they country	0	0
+1.0	Sarkozy	draw	comparison	PERSON	0
+1.0	illegal immigrant	be return to	they country of origin	0	0
+1.0	Sarkozy	have twice serve as	interior minister under Chirac	PERSON	PERSON
+1.0	Sarkozy 51	have serve as	minister under Chirac	NUMBER	PERSON
+1.0	24,000 illegal immigrant	be	return in 2006 in line	NUMBER	DATE
+1.0	french election	take	place in April	0	DATE
+1.0	Sarkozy	have serve as	minister under Chirac	PERSON	PERSON
+1.0	Sarkozy	draw comparison with	record of last socialist period	PERSON	0
+1.0	their	have	countries	O	O
+1.0	place	be in	April	0	DATE
+1.0	illegal immigrant	be	return to they country of origin in 2006 in line with government projection	0	DATE
+1.0	Sarkozy	draw comparison with	record of socialist period	PERSON	0
+1.0	Sarkozy	have serve from	2005	PERSON	DATE
+1.0	French Interior Minister	be	nominate as candidate by ruling Union	0	ORGANIZATION
+1.0	Sarkozy	draw comparison with	record of period in office	PERSON	0
+1.0	illegal immigrant	be	return to they country in line with government projection	0	0
+1.0	Interior Minister	hail	Nicolas Sarkozy	0	PERSON
+1.0	country	have	crime problem	O	O
+1.0	Sarkozy	have twice serve from	2005	PERSON	DATE
+1.0	24,000 illegal immigrant	be	return to they country of origin in line	NUMBER	0
+1.0	1.33 percent cut	be in	overall crime	PERCENT	0
+1.0	24,000 illegal immigrant	be	return in 2006 in line with government projection	NUMBER	DATE
+1.0	Sarkozy	announce	1.33 percent cut in crime	PERSON	PERCENT
+1.0	Sarkozy	have twice serve as	minister	PERSON	0
+1.0	Interior Minister	hail	presidential hopeful Nicolas Sarkozy	0	PERSON
+1.0	french Interior Minister	hail	hopeful Nicolas Sarkozy	0	PERSON
+1.0	election	take	place	0	0
+1.0	Sarkozy 51	have twice serve as	interior minister under Chirac	NUMBER	PERSON
+1.0	illegal immigrant	be	return to they country in line	0	0
+1.0	Sarkozy	draw comparison with	record of period	PERSON	0
+1.0	French Interior Minister	be	nominate as presidential candidate by ruling Union	0	ORGANIZATION
+1.0	French Interior Minister	be nominate by	ruling Union	0	ORGANIZATION
+1.0	illegal immigrant	be	return to they country of origin in line	0	0
+1.0	minister	be speak at_time	three day	0	DURATION
+1.0	Sarkozy	be neck-and-neck with	Socialist contender Segolene Royal	PERSON	PERSON
+1.0	24,000 illegal immigrant	be	return to they country in line with government projection	NUMBER	0
+1.0	we	prepare for	future	0	DATE
+1.0	Sarkozy 51	have twice serve as	minister	NUMBER	0
+1.0	french election	take	place	0	0
+1.0	illegal immigrant	be	return to they country of origin in 2006	0	DATE
+1.0	24,000 illegal immigrant	be	return to they country in 2006 in line	NUMBER	DATE
+1.0	right administration	bring crime under	control	0	0
+1.0	24,000 illegal immigrant	be return in	line with government projection	NUMBER	0
+0.33669769426858	2006	be year	which have allow	DATE	DURATION
+1.0	Jacques Chirac	have	centre	PERSON	0
+1.0	period	have	record	O	O
+1.0	fall	be in	offence record since 2002 under current government despite accompany rise	DATE	DATE
+1.0	Sarkozy	announce	1.33 percent cut in overall crime	PERSON	PERCENT
+1.0	illegal immigrant	be	return in 2006 in line with government projection	0	DATE
+1.0	Sarkozy 51	have serve as	minister	NUMBER	0
+1.0	Sarkozy	have serve as	interior minister	PERSON	0
+1.0	24,000 illegal immigrant	be	return to they country of origin in 2006	NUMBER	DATE
+1.0	illegal immigrant	be	return to they country of origin in line with government projection	0	0
+1.0	Sarkozy	announce	1.33 percent cut	PERSON	PERCENT
+1.0	French Interior Minister	be officially nominate as	candidate	0	ORGANIZATION
+1.0	concern	have	source	O	O
+1.0	French Interior Minister	be officially nominate as	presidential candidate	0	ORGANIZATION
+1.0	Sarkozy	draw comparison with	record of socialist period in office	PERSON	0
+1.0	His	have	claims	O	O
+1.0	24,000 illegal immigrant	be	return to they country in line	NUMBER	0
+1.0	Sarkozy 51	have serve as	interior minister under Chirac	NUMBER	PERSON
+1.0	Sarkozy	be	neck-and-neck	PERSON	0
+1.0	Sarkozy	draw comparison with	record of last socialist period in office	PERSON	0
+1.0	24,000 illegal immigrant	be	return	NUMBER	0
+1.0	illegal immigrant	be	return to they country in 2006 in line with government projection	0	DATE
+1.0	24,000 illegal immigrant	be	return to they country of origin in 2006 in line	NUMBER	DATE
+1.0	presidential election	take	place	0	0
+1.0	Sarkozy	draw comparison with	record of last period in office	PERSON	0
+1.0	French Interior Minister	be	French Interior Minister	0	ORGANIZATION
+1.0	illegal immigrant	be return in	2006	0	DATE
+1.0	french presidential election	take	place in April	0	DATE
+1.0	Sarkozy 51	have twice serve from	2005	NUMBER	DATE
+1.0	illegal immigrant	be	return	0	0
+1.0	origin	have	countries	O	O
+1.0	24,000 illegal immigrant	be	return to they country of origin in 2006 in line with government projection	NUMBER	DATE
+1.0	24,000 illegal immigrant	be return to	they country	NUMBER	0
+1.0	accompany rise	be in	physical violence	0	0
+1.0	administration	bring	crime	0	0
+1.0	24,000 illegal immigrant	be	return to they country in 2006	NUMBER	DATE
+1.0	which	have	French Interior Minister	O	O
+1.0	government	have	watch	O	O
+1.0	french Interior Minister	hail	Nicolas Sarkozy	0	PERSON
+1.0	overall crime	be in	2006	0	DATE
+1.0	Sarkozy	have twice serve as	minister under Chirac	PERSON	PERSON
+1.0	Interior Minister	hail	Nicolas Sarkozy on Thursday	0	PERSON
+1.0	French Interior Minister	be	due	0	0
+1.0	government	on	watch	0	0
+1.0	last socialist period	be in	office	0	0
+1.0	Interior Minister	hail	presidential hopeful Nicolas Sarkozy on Thursday	0	PERSON
+1.0	illegal immigrant	be return in	line with government projection	0	0
+1.0	Nicolas Sarkozy	be on	Thursday	PERSON	DATE
+1.0	illegal immigrant	be	return to they country in 2006	0	DATE
+1.0	24,000 illegal immigrant	be	return to they country of origin in line with government projection	NUMBER	0
+1.0	his	have	image	O	O
+1.0	Lionel Jospin	want	everyone	0	0
+0.38126515199720734	1997	have shoot under	Jospin	0	PERSON
+1.0	french Interior Minister	hail	presidential hopeful Nicolas Sarkozy on Thursday	0	PERSON
+1.0	Sarkozy	draw comparison under	minister Lionel Jospin	PERSON	PERSON
+1.0	Sarkozy	be	51	PERSON	NUMBER
+1.0	Interior Minister	hail	hopeful Nicolas Sarkozy	0	PERSON
+1.0	French Interior Minister	be	of which party chief	0	ORGANIZATION
+1.0	Sarkozy	announce	1.33 percent cut in crime in 2006	PERSON	PERCENT
+1.0	french presidential election	take	place	0	0
+1.0	election	take	place in April	0	DATE
+1.0	Sarkozy 51	have twice serve as	interior minister	NUMBER	0
+1.0	Sarkozy	have twice serve as	interior minister	PERSON	0
+0.38126515199720734	1997	have shoot up under	Jospin	0	PERSON
+1.0	24,000 illegal immigrant	be return to	they country of origin	NUMBER	0

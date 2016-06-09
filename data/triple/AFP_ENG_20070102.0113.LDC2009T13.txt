@@ -1,0 +1,21 @@
+1.0	US embassy	have	custody	O	O
+1.0	marine	be	move from Manila jail to custody of US embassy	0	LOCATION
+1.0	The United States	have	exercises	O	O
+1.0	marine	be move to	custody	0	0
+0.564434722158494	decision	resume	joint exercise	0	0
+1.0	marine	be	move from Manila jail to custody	0	LOCATION
+1.0	rape	have	convicted	O	O
+1.0	marine	be	move from suburban Manila jail to custody	0	LOCATION
+0.6158102897557984	marine	convict of	rape	0	0
+0.564434722158494	decision	resume	exercise	0	0
+1.0	marine	be move from	Manila jail	0	LOCATION
+1.0	marine	be	move	0	0
+1.0	United States	resume	its annual exercise	LOCATION	SET
+1.0	marine	be	return	0	0
+1.0	marine	be	move from suburban Manila jail to custody of US embassy	0	LOCATION
+1.0	marine	be move to	custody of US embassy	0	LOCATION
+1.0	marine	be move from	suburban Manila jail	0	LOCATION
+1.0	marine	be return to	american custody	0	0
+1.0	United States	resume	its exercise	LOCATION	0
+1.0	marine	be return to	custody	0	0
+1.0	United States	resume	its joint exercise	LOCATION	0

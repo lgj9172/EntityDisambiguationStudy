@@ -1,0 +1,39 @@
+1.0	thousand	flee	they home	0	0
+1.0	mission	have	office in Banda Aceh	0	LOCATION
+1.0	their	have	office	O	O
+1.0	Banda Aceh on Wednesday	have	districts	O	O
+1.0	voting	have	round	O	O
+1.0	Banda Aceh on Wednesday	vote as	regency	LOCATION	0
+1.0	European Union monitor	be	due for one month	ORGANIZATION	DURATION
+1.0	people	have	thousands	O	O
+1.0	European Union monitor	close	they office	ORGANIZATION	0
+1.0	Indonesia	have	Aceh province	O	LOCATION
+1.0	former rebel	win landslide victory for	governor	0	0
+1.0	mission	have	core team	O	O
+1.0	hundreds of thousands of people	have	homes	O	O
+1.0	Banda Aceh on Wednesday	vote on	December 11	LOCATION	DATE
+1.0	Jakarta	be	Irwandi Yusuf	LOCATION	PERSON
+1.0	Banda Aceh on Wednesday	vote for	provincial governor	LOCATION	0
+1.0	European Union monitor	be	due	ORGANIZATION	0
+1.0	three district	be with	overall winner	0	DURATION
+1.0	Indonesia	in	Aceh province	LOCATION	LOCATION
+1.0	mission	have	office	O	O
+1.0	mission 's office	be in	Banda Aceh on Wednesday	0	LOCATION
+1.0	former rebel	win landslide victory in	race	0	0
+1.0	European Union monitor	be due for	one	ORGANIZATION	DURATION
+1.0	bloodshed	have	decades	DURATION	O
+1.0	Banda Aceh on Wednesday	vote for	governor	LOCATION	0
+1.0	regent elections	have	round	O	O
+0.49109360535411567	former rebel	jail by	Jakarta	0	LOCATION
+1.0	districts	have	heads	O	O
+1.0	month	have	election	O	DATE
+1.0	last month	have	election	DATE	0
+1.0	Banda Aceh	be on	Wednesday	LOCATION	DATE
+1.0	European Union monitors	have	team	O	O
+1.0	European Union monitor	be due at_time	month	ORGANIZATION	DURATION
+1.0	core team	have	expert members	O	O
+1.0	districts	have	One	NUMBER	O
+1.0	elections	have	round	O	O
+1.0	poll	be	see	0	0
+1.0	European Union Election Observation Mission	say in	statement	ORGANIZATION	0
+1.0	former rebel	win	landslide victory	0	0

@@ -1,0 +1,18 @@
+1.0	Russia	have	gas	LOCATION	0
+1.0	Gazprom	own	30 percent	ORGANIZATION	PERCENT
+1.0	plans	have	percent	PERCENT	O
+1.0	Interfax news agency	report at_time	Thursday	ORGANIZATION	DATE
+1.0	Russia	have	gas	O	LOCATION
+1.0	Gazprom official	refuse	elaborate further	ORGANIZATION	0
+1.0	Gazprom	own	30 percent of new company 's share	ORGANIZATION	PERCENT
+1.0	shares	have	percent	PERCENT	O
+1.0	Gazprom	own	30 percent of company 's share	ORGANIZATION	PERCENT
+1.0	Chevron	be	US	ORGANIZATION	LOCATION
+1.0	company	have	shares	O	O
+1.0	new company	of	share	0	0
+1.0	Chevron	have	Moscow office	O	ORGANIZATION
+1.0	Chevron	have	Moscow office	ORGANIZATION	LOCATION
+1.0	30 percent	increase	its stock	PERCENT	0
+1.0	the new company 's	have	stock	O	O
+1.0	Interfax news agency	quote	Gazprom official	ORGANIZATION	ORGANIZATION
+1.0	Gazprom official	refuse	elaborate	ORGANIZATION	0

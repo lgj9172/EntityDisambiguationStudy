@@ -1,0 +1,52 @@
+1.0	leader	be	also due	PERSON	0
+1.0	japanese leader	be	due	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	leave london for	second leg of trip	PERSON	ORDINAL
+1.0	Prime Minister Tony Blair on Tuesday	be notably seek	support	0	0
+1.0	japanese Prime Minister Shinzo Abe	leave london to	correspondent	PERSON	0
+1.0	leader	be	due	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london to	correspondent	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london for	Germany	PERSON	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	leave london for	leg of four-nation trip	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	leave london for	leg of trip	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london for	second leg of trip	PERSON	ORDINAL
+1.0	trip	have	start	O	O
+1.0	abe	hold talk at	start	0	0
+1.0	japanese leader	visit	France	PERSON	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	leave london for	second leg	PERSON	ORDINAL
+1.0	japanese leader	be	also due	PERSON	0
+1.0	abe	hold talk at_time	evening	0	TIME
+1.0	Jaap de Hoop Scheffer	be secretary general of	NATO	PERSON	ORGANIZATION
+1.0	japanese Prime Minister Shinzo Abe	leave	London	PERSON	LOCATION
+1.0	The Japanese leader	will meet	Commission President Jose Manuel Barroso	0	PERSON
+1.0	Prime Minister Shinzo Abe	leave	London	PERSON	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	leave london for	leg	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	leave london for	Germany	PERSON	LOCATION
+1.0	leader	visit	France	PERSON	LOCATION
+1.0	Prime Minister Tony Blair on Tuesday	be seek support for	hardline stance	0	0
+1.0	Prime Minister Shinzo Abe	leave london for	leg of four-nation trip	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london on	Wednesday	PERSON	DATE
+1.0	japanese Prime Minister Shinzo Abe	leave london to	correspondent travel	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london for	leg	PERSON	0
+1.0	The Japanese leader	will meet	european Commission President Jose Manuel Barroso	0	PERSON
+1.0	Jaap de Hoop Scheffer	be	NATO	PERSON	ORGANIZATION
+1.0	Jose Manuel Barroso	be	european Commission	PERSON	ORGANIZATION
+1.0	Prime Minister Tony Blair on Tuesday	be seek	support	0	0
+1.0	Tony Blair	be on	Tuesday	PERSON	DATE
+1.0	Jose Manuel Barroso	be president of	european Commission	PERSON	ORGANIZATION
+1.0	Prime Minister Shinzo Abe	leave london to	correspondent travel	PERSON	0
+1.0	Prime Minister Shinzo Abe	leave london to	Europe	PERSON	LOCATION
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	Prime Minister Tony Blair on Tuesday	be seek support for	hardline stance against North Korea	0	LOCATION
+1.0	Prime Minister Shinzo Abe	leave london for	second leg	PERSON	ORDINAL
+1.0	abe	hold	talk	0	0
+1.0	abe	hold talk with	Prime Minister Tony Blair	0	PERSON
+1.0	japanese Prime Minister Shinzo Abe	leave london for	second leg of four-nation trip	PERSON	ORDINAL
+1.0	trip	have	leg	O	O
+1.0	Prime Minister Shinzo Abe	leave london for	second leg of four-nation trip	PERSON	ORDINAL
+1.0	Prime Minister Tony Blair on Tuesday	be notably seek support for	hardline stance against North Korea	0	LOCATION
+1.0	Prime Minister Tony Blair on Tuesday	be notably seek support for	hardline stance	0	0
+1.0	japanese Prime Minister Shinzo Abe	leave london on	Wednesday	PERSON	DATE
+1.0	abe	hold talk with	Prime Minister Tony Blair on Tuesday	0	DATE
+1.0	Prime Minister Shinzo Abe	leave london for	leg of trip	PERSON	0
+1.0	Germany	leg of	four-nation trip	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	leave london to	Europe	PERSON	LOCATION

@@ -1,0 +1,13 @@
+1.0	financial market	be closed for	public holiday	0	0
+1.0	financial market	be	closed Tuesday for public holiday	0	DATE
+1.0	financial market	be in	China	0	LOCATION
+1.0	financial market	be closed for	holiday	0	0
+1.0	financial market	be	closed	0	0
+1.0	market	be	closed Tuesday for holiday	0	DATE
+1.0	market	be	closed Tuesday for public holiday	0	DATE
+1.0	financial market	be	closed Tuesday for holiday	0	DATE
+1.0	market	be	closed	0	0
+1.0	market	be closed for	holiday	0	0
+1.0	financial market	be closed at_time	Tuesday	0	DATE
+1.0	market	be closed at_time	Tuesday	0	DATE
+1.0	market	be closed for	public holiday	0	0

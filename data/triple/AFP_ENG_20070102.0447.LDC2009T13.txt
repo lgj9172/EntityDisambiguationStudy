@@ -1,0 +1,79 @@
+0.8364881057895536	one party	temporary custody of	foreign soldier	NUMBER	0
+1.0	transfer	be	do	0	0
+1.0	party	seek	temporary custody	0	0
+1.0	US embassy	gain	custody	LOCATION	0
+1.0	Lance Corporal Daniel Smith	have	transfer	O	PERSON
+1.0	custody	have	transfer	O	O
+1.0	one party	seek	temporary custody	NUMBER	0
+1.0	ties	have	deterioration	O	O
+1.0	group	file contempt suit against	five senior Arroyo aide	0	NUMBER
+1.0	year	have	exercises	O	DATE
+1.0	Ronaldo Puno	be secretary of	Interior	PERSON	ORGANIZATION
+1.0	Arroyo	order	transfer of custody	PERSON	0
+1.0	Arroyo	violate	philippine process	PERSON	0
+1.0	sellout	have	President Gloria Arroyo	PERSON	O
+1.0	countrymen	have	understanding	O	O
+0.8364881057895536	one party	custody of	soldier	NUMBER	0
+1.0	party	seek	custody of soldier	0	0
+1.0	one party	seek	custody of soldier	NUMBER	0
+1.0	Manila	have	international credibility	LOCATION	0
+1.0	Ronaldo Puno	be	Interior	PERSON	ORGANIZATION
+1.0	Arroyo	violate	process	PERSON	0
+1.0	jailing	cause	Washington	0	LOCATION
+1.0	Lance Corporal Daniel Smith from a Manila jail to the US embassy on Friday following his conviction for raping a young Filipina woman in November 2005	have	jailing	O	PERSON
+1.0	leftist group	file	contempt suit	0	0
+0.8364881057895536	party	custody of	soldier	0	0
+1.0	marine	have	custody	O	O
+1.0	one party	seek	custody	NUMBER	0
+1.0	Interior Secretary Ronaldo Puno	tell	ABS-CBN television	PERSON	ORGANIZATION
+1.0	group	file	contempt suit	0	0
+1.0	rape victim	identify as	Nicole	0	0
+1.0	Evalyn Ursua	have accuse	Arroyo government	PERSON	PERSON
+1.0	one party	seek	custody of foreign soldier	NUMBER	0
+1.0	annual military exercise	be in	Philippines	SET	LOCATION
+1.0	Manila	have	credibility	O	LOCATION
+0.6641894716353546	problem	have	agreement	0	0
+1.0	rape	have	convicted	O	O
+1.0	leftist group	accuse	President Gloria Arroyo	0	PERSON
+1.0	party	seek	custody of foreign soldier	0	0
+0.8364881057895536	party	temporary custody of	foreign soldier	0	0
+1.0	appeal process	have	have complete	0	0
+0.8364881057895536	party	temporary custody of	soldier	0	0
+1.0	group	accuse	President Gloria Arroyo	0	PERSON
+1.0	Arroyo	order	transfer	PERSON	0
+1.0	party	seek	temporary custody of foreign soldier	0	0
+1.0	group	accuse	President Gloria Arroyo of sellout	0	PERSON
+1.0	party	seek	temporary custody of soldier	0	0
+1.0	countryman	have	understanding over controversy	0	0
+1.0	Arroyo	violate	judicial process	PERSON	0
+1.0	one party	seek	temporary custody of soldier	NUMBER	0
+1.0	year 's annual joint military exercise	be with	Manila	DATE	LOCATION
+1.0	party	seek	custody	0	0
+1.0	group	file contempt suit against	five Arroyo aide	0	NUMBER
+1.0	Interior Secretary Ronaldo Puno	say at_time	Wednesday	ORGANIZATION	DATE
+0.8364881057895536	one party	custody of	foreign soldier	NUMBER	0
+1.0	President Gloria Arroyo of a sellout	have	countrymen	O	O
+1.0	President Gloria Arroyo of a sellout	have seek	she countryman 's understanding over controversy	PERSON	0
+0.8364881057895536	party	custody of	foreign soldier	0	0
+1.0	1999	have	provisions	O	DATE
+1.0	leftist group	file contempt suit against	five senior Arroyo aide	0	NUMBER
+1.0	leftist group	file contempt suit against	five Arroyo aide	0	NUMBER
+1.0	legal process	be	complete	0	0
+1.0	critics	have	allegations	O	O
+1.0	leftist group	accuse	President Gloria Arroyo of sellout	0	PERSON
+1.0	President Gloria Arroyo of a sellout	have seek	she countryman 's understanding	PERSON	0
+1.0	one party	seek	temporary custody of foreign soldier	NUMBER	0
+1.0	rape victim	identify only as	Nicole	0	0
+1.0	Manila	have	main military ally	LOCATION	0
+1.0	Arroyo	violate	philippine judicial process	PERSON	0
+0.6641894716353546	problem	have	international agreement	0	0
+1.0	her countrymen 's	have	agreements	O	O
+1.0	Interior Secretary Ronaldo Puno	tell abs-cbn television in	interview	PERSON	0
+0.8364881057895536	one party	temporary custody of	soldier	NUMBER	0
+1.0	soldier	have	custody	O	O
+1.0	US embassy	gain	custody of marine	LOCATION	0
+1.0	Manila	have	ally	O	LOCATION
+1.0	a senior Filipino official	have	conviction	O	O
+1.0	US forces	have	status	O	O
+1.0	he	reject	critic ' allegation	0	0
+0.5581004297771383	US embassy	custody of	marine	LOCATION	0

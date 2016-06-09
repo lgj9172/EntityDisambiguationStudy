@@ -1,0 +1,85 @@
+1.0	Burberry chairman John Peace	be	summon before parliamentary committee	PERSON	0
+1.0	local Welsh Assembly member Leighton Andrews	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	Burberry chairman John Peace	be	summon before committee as result of Andrews ' intervention	PERSON	PERSON
+1.0	Burberry	claim	luxury brand with sensibility	0	0
+1.0	Committee	have	chairman	O	ORGANIZATION
+1.0	Burberry chairman John Peace	be	executive Angela Ahrendts	PERSON	PERSON
+1.0	Burberry	have	bosses	O	ORGANIZATION
+1.0	he	ask	chairman	0	0
+1.0	Burberry	be	luxury brand with distinctive british sensibility	0	0
+1.0	Burberry	be	luxury brand with distinctive sensibility	0	0
+1.0	they	even have tell	we	0	0
+1.0	Burberry	claim	luxury brand	0	0
+1.0	Bosses from the British luxury goods retailer	have	plans	O	O
+1.0	Burberry	put figure on	table in public	0	0
+1.0	they	move	job from Britain	0	LOCATION
+1.0	committee	have	inquiry	O	O
+1.0	Burberry chairman John Peace	be	summon before parliamentary committee as result of Andrews ' intervention	PERSON	PERSON
+1.0	this	make	even more money	0	0
+1.0	table	be in	public	0	0
+1.0	Burberry	have	relocation decision	O	PERSON
+1.0	he	save	Treorchy plant	0	0
+1.0	Burberry	claim	luxury brand with distinctive british sensibility	0	0
+1.0	Leighton Andrews	be member of	local Welsh Assembly	PERSON	ORGANIZATION
+1.0	the upmarket firm	have	check pattern	O	O
+1.0	Government minister Peter Hain	have slam	Burberry 's relocation decision in open letter	PERSON	PERSON
+1.0	Welsh Assembly member Leighton Andrews	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	Burberry chairman John Peace	be summon before	committee as result of Andrews ' intervention	PERSON	PERSON
+1.0	Paul Kenny	secretary of	gmb union	PERSON	0
+1.0	committee	to	inquiry	0	0
+1.0	Government minister Peter Hain	have slam	Burberry 's relocation decision	PERSON	PERSON
+1.0	their	have	decision	O	O
+1.0	Burberry	put figure on	table	0	0
+1.0	Burberry	be	luxury brand	0	0
+1.0	Burberry	be	luxury brand with sensibility	0	0
+1.0	Prince Charles	have contact	government	LOCATION	0
+1.0	Burberry plant	be in	Treorchy	0	LOCATION
+1.0	this	make	money	0	0
+1.0	Burberry	claim	luxury brand with british sensibility	0	0
+1.0	Leighton Andrews	be	local Welsh Assembly	PERSON	ORGANIZATION
+1.0	Hywel Francis	summon	Burberry 's executive	PERSON	ORGANIZATION
+1.0	Burberry	have	bosses	O	PERSON
+1.0	they	have tell	we	0	0
+1.0	John Peace	be chairman of	Burberry	PERSON	ORGANIZATION
+1.0	Burberry	put	figure	0	0
+1.0	Burberry	have	relocation decision in open letter	PERSON	0
+1.0	Burberry 's bosses	have	actions	O	O
+1.0	factory	be in	south Wales	0	LOCATION
+1.0	Burberry chairman John Peace	be	chief executive Angela Ahrendts	PERSON	PERSON
+1.0	Burberry	be	luxury brand with british sensibility	0	0
+1.0	Burberry	claim	luxury brand with distinctive sensibility	0	0
+1.0	Burberry chairman John Peace	be summon before	parliamentary committee	PERSON	0
+1.0	Burberry chairman John Peace	be	summon before parliamentary committee as result	PERSON	0
+1.0	Burberry	have	boss	ORGANIZATION	0
+1.0	luxury brand	be with	distinctive british sensibility	0	0
+1.0	Andrews	have	intervention	O	PERSON
+1.0	he	ask	chairman of Committee	0	ORGANIZATION
+1.0	Prince Charles	prince of	Prince of Wales	LOCATION	LOCATION
+1.0	Burberry	have	executive	ORGANIZATION	0
+1.0	Burberry chairman John Peace	be	summon before committee as result	PERSON	0
+1.0	Government minister Peter Hain	have slam	Burberry 's relocation decision in letter	PERSON	PERSON
+1.0	this	will force	Burberry	0	0
+1.0	Our	have	members	O	O
+1.0	Wales	have	Prince	LOCATION	LOCATION
+1.0	Burberry chairman John Peace	be summon before	parliamentary committee as result of Andrews ' intervention	PERSON	PERSON
+1.0	Burberry chairman John Peace	summon	executive Angela Ahrendts	PERSON	PERSON
+1.0	they	move job to	China	0	LOCATION
+1.0	Burberry chairman John Peace	be summon before	committee	PERSON	0
+1.0	Burberry chairman John Peace	be summon before	committee as result	PERSON	0
+1.0	intervention	have	result	O	O
+1.0	he	ask	Hywel Francis	0	PERSON
+1.0	Burberry	have	boss	PERSON	0
+1.0	GMB union	have	secretary	O	O
+1.0	Burberry chairman John Peace	be	summon	PERSON	0
+1.0	John Peace	be	Burberry	PERSON	ORGANIZATION
+1.0	Burberry chairman John Peace	be	summon before committee	PERSON	0
+1.0	Burberry chairman John Peace	be summon before	parliamentary committee as result	PERSON	0
+1.0	Hywel Francis	chairman of	House of Commons Welsh Affairs Select Committee	PERSON	ORGANIZATION
+1.0	the upmarket firm	have	trademark	O	O
+1.0	Burberry chairman John Peace	summon	chief executive Angela Ahrendts	PERSON	PERSON
+1.0	Burberry 's relocation decision	be in	open letter	PERSON	0
+1.0	Commons	have	House	ORGANIZATION	ORGANIZATION
+1.0	this	make	more money	0	0
+1.0	Burberry	have	executives	O	ORGANIZATION
+1.0	they	move	job	0	0
+1.0	Commons Welsh Affairs Select	have	House	ORGANIZATION	ORGANIZATION

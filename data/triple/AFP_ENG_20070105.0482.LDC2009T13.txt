@@ -1,0 +1,24 @@
+1.0	Soviet Union	have	countries	O	LOCATION
+1.0	Employment Service Maxim Topilin	have	head	O	PERSON
+1.0	five million foreign worker	be in	effort	NUMBER	0
+1.0	rest	have	most	O	O
+1.0	China	be with	most of rest from country of former Soviet Union	LOCATION	LOCATION
+1.0	Konstantin Romodanovsky	be of	Federal Migration Service	PERSON	ORGANIZATION
+1.0	head	tell	Moscow Echo radio station on Friday	0	DATE
+0.8472140230633859	180,000	be from	China with most of rest	NUMBER	LOCATION
+0.8472140230633859	180,000	be from	China with most of rest from country of former Soviet Union	NUMBER	LOCATION
+1.0	head	tell	radio station	0	0
+1.0	Federal Migration Service Konstantin Romodanovsky	have	head	O	PERSON
+1.0	sums	have	percentage	O	O
+1.0	dollars	have	billions	MONEY	MONEY
+1.0	Maxim Topilin	be	Federal Labor and Employment Service	PERSON	ORGANIZATION
+0.8472140230633859	180,000	be from	China with most	NUMBER	LOCATION
+1.0	Federal Labor	have	head	O	ORGANIZATION
+1.0	country	have	out sent	O	O
+0.8472140230633859	180,000	be from	China with most of rest from country	NUMBER	LOCATION
+1.0	top official	say at_time	Friday	MONEY	DATE
+0.8472140230633859	180,000	be from	China	NUMBER	LOCATION
+1.0	foreigners	have	said	O	O
+1.0	workers	have	quota	O	O
+1.0	official	say at_time	Friday	MONEY	DATE
+1.0	head	tell	Moscow Echo radio station	0	LOCATION

@@ -1,0 +1,166 @@
+1.0	head	chief of	armed force	0	0
+0.6097468261486962	Colonel Mengistu	control of	Derg	0	ORGANIZATION
+0.8254530770192572	Mengistu	be confirm	president of people 's republic of Ethiopia	PERSON	ORGANIZATION
+1.0	administration council	have	control	O	O
+1.0	Colonel Mengistu	have	rise	O	O
+1.0	forces	have	chief	O	O
+1.0	Colonel Mengistu	head of	marxist regime on February 3 1977	PERSON	DATE
+1.0	his	have	skin	O	O
+1.0	officers	have	group	O	O
+1.0	nationalist rebellion	be in	Eritrea	0	LOCATION
+1.0	Colonel Mengistu	seriously threaten by	coordinate offensive by Tigre People 's Liberation front	PERSON	ORGANIZATION
+1.0	he	also hold	rotate presidency	0	0
+1.0	Colonel Mengistu	win	control of administration council	0	0
+1.0	Zimbabwe	have	President Robert Mugabe	PERSON	LOCATION
+0.8254530770192572	Mengistu	be confirm	president of people 's democratic republic	PERSON	ORGANIZATION
+1.0	conflict	be with	Somalia	0	LOCATION
+1.0	politician	tortured	other foe	0	0
+0.8189539751066728	Mengistu	president of	people 's republic	PERSON	ORGANIZATION
+1.0	Colonel Mengistu	threaten by	offensive	PERSON	0
+1.0	Mengistu Haile Mariam	bear at	Wallayata	PERSON	LOCATION
+0.8254530770192572	Mengistu	be officially confirm	president of people 's republic of Ethiopia	PERSON	ORGANIZATION
+1.0	Zimbabwe	's mugabe be	old ally of Mengistu	LOCATION	LOCATION
+0.6097468261486962	Colonel Mengistu	control of	military administration council	0	0
+1.0	he	take part in	uprising against Emperor Haile Selassie	0	PERSON
+1.0	he	become	delegate	0	0
+0.8254530770192572	Mengistu	be confirm	president of people 's democratic republic of Ethiopia	PERSON	ORGANIZATION
+1.0	Workers	have	Party	ORGANIZATION	ORGANIZATION
+1.0	Ethiopia 's head	be	when assassinate	LOCATION	0
+1.0	Mengistu	face with	nationalist rebellion in Eritrea	PERSON	LOCATION
+1.0	Zimbabwe	have	Robert Mugabe	LOCATION	PERSON
+1.0	Ethiopia 's head	be assassinate in	February 1977	LOCATION	DATE
+1.0	Colonel Mengistu	crush	coup attempt	PERSON	0
+1.0	Mengistu Haile Mariam	be	blame	PERSON	0
+0.8254530770192572	Mengistu	be officially confirm	president of people 's democratic republic of Ethiopia	PERSON	ORGANIZATION
+1.0	Colonel Mengistu	threaten by	offensive by Tigre People 's Liberation front	PERSON	ORGANIZATION
+1.0	Colonel Mengistu	be in	seven month	LOCATION	DURATION
+1.0	Robert Mugabe	be president of	Zimbabwe	PERSON	LOCATION
+1.0	Colonel Mengistu	seriously threaten by	offensive	PERSON	0
+1.0	further training	be in	United States	0	LOCATION
+1.0	Emperor Haile Selassie	have	ouster	O	PERSON
+1.0	he	hold	rotate presidency	0	0
+1.0	Holetta	be in	1966	LOCATION	DATE
+1.0	politician	tortured	intellectual	0	0
+1.0	he dark skin	crowd at	place	0	0
+1.0	Addis Ababa	have	heart	O	LOCATION
+1.0	Colonel Mengistu	win	control of provisional administration council	0	0
+1.0	he dark skin	crowd of	revolution	0	0
+1.0	Colonel Mengistu	become	head of marxist regime on February 3 1977	PERSON	DATE
+1.0	he	become in	armed force	0	0
+0.8189539751066728	Mengistu	president of	people 's republic of Ethiopia	PERSON	ORGANIZATION
+1.0	disaster	have	out pulling	O	O
+1.0	politician	tortured	foe	0	0
+1.0	Ethiopia	have	dictator	O	LOCATION
+1.0	Colonel Mengistu	win	control	0	0
+0.8254530770192572	Mengistu	be officially confirm president in	September 1987	PERSON	DATE
+1.0	he	hold	presidency of Addis-Ababa	0	LOCATION
+1.0	Mengistu Haile Mariam	bear in	1937	PERSON	DATE
+0.6097468261486962	Colonel Mengistu	control of	administration council	0	0
+1.0	Robert Mugabe	ally of	Mengistu	PERSON	LOCATION
+1.0	Colonel Mengistu	execute	12 general	PERSON	NUMBER
+1.0	Colonel Mengistu	become	head	PERSON	0
+0.8254530770192572	Mengistu	be confirm president in	September 1987	PERSON	DATE
+0.757402445403403	base	organisation of	African Unity in 1983-84	0	LOCATION
+1.0	Party	have	forces	O	ORGANIZATION
+1.0	exile	be in	Zimbabwe	0	LOCATION
+0.8254530770192572	Mengistu	be confirm	president	PERSON	0
+1.0	Colonel Mengistu	resign in	April	PERSON	DATE
+1.0	the man who came to be known as the Red Negus	have	conviction	O	O
+1.0	Mengistu	face with	nationalist rebellion	PERSON	0
+1.0	Africa nation	have	Horn	LOCATION	O
+1.0	Colonel Mengistu	seriously threaten by	coordinate offensive	PERSON	0
+1.0	Ethiopia	have	head of state	LOCATION	0
+1.0	Ethiopia 's head	be	when assassinate in February 1977	LOCATION	DATE
+1.0	Addis-Ababa	have	presidency	O	LOCATION
+1.0	workers	have	state	O	O
+1.0	killings	have	arrests	O	O
+1.0	regime	have	head	O	O
+1.0	he	coordinate committee at	time of February 1974 revolution	0	DATE
+1.0	Ethiopia	have	Federal High Court	ORGANIZATION	LOCATION
+1.0	Colonel Mengistu	become	head of regime on February 3 1977	PERSON	DATE
+1.0	war	have	out pulling	O	O
+1.0	Mengistu Haile Mariam	be blame for	death of thousand	PERSON	0
+1.0	his	have	father	O	O
+1.0	Ethiopia 's head	be	assassinate	LOCATION	0
+1.0	he	take part in	uprising	0	0
+1.0	Colonel Mengistu	oversee	Red terror	PERSON	0
+0.757402445403403	base	organisation of	African Unity	0	LOCATION
+1.0	Colonel Mengistu	oversee red terror in	1977-78	PERSON	DATE
+1.0	Colonel Mengistu	threaten by	coordinate offensive by Tigre People 's Liberation front	PERSON	ORGANIZATION
+1.0	Colonel Mengistu	offer	resign	PERSON	0
+1.0	emperor	be in	Amharic	0	LOCATION
+1.0	politician	be	when tortured	0	0
+1.0	Ethiopia	have	head	O	LOCATION
+1.0	he	take part in	uprising against Emperor Haile Selassie in 1960	0	PERSON
+1.0	Emperor Haile Selassie in 1960	skin	harangue crowd at place of revolution in heart of Addis Ababa	0	LOCATION
+1.0	harangue crowd	be in	heart of Addis Ababa	0	LOCATION
+1.0	them	have	many	O	O
+0.8189539751066728	Mengistu	president of	people 's democratic republic of Ethiopia	PERSON	ORGANIZATION
+1.0	Mengistu	become	de ruler	PERSON	0
+0.8254530770192572	Mengistu	be officially confirm	president of people 's democratic republic	PERSON	ORGANIZATION
+1.0	Organisation of African Unity	be in	1983-84	LOCATION	DATE
+1.0	country	have	unity	O	O
+1.0	Haile Selassie	be in	1974	PERSON	DATE
+1.0	Mengistu	face with	rebellion in Eritrea	PERSON	LOCATION
+1.0	he	become in	force	0	0
+1.0	Colonel Mengistu	head of	regime on February 3 1977	PERSON	DATE
+1.0	Colonel Mengistu	head of	regime	PERSON	0
+0.8254530770192572	Mengistu	be officially confirm	president	PERSON	0
+1.0	People	have	Liberation Front	ORGANIZATION	ORGANIZATION
+1.0	Mengistu	create	wpe	PERSON	0
+1.0	People	have	Republic	ORGANIZATION	ORGANIZATION
+1.0	Colonel Mengistu	become	head of regime	PERSON	0
+1.0	political asylum	be in	1991	0	DATE
+1.0	Haile Selassie	be in	1960	PERSON	DATE
+1.0	he	coordinate committee at	time	0	DATE
+1.0	African Unity	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	state	have	head	O	O
+1.0	secretary general	have	chief	O	O
+1.0	Tigre People	have	Liberation Front	ORGANIZATION	ORGANIZATION
+1.0	Colonel Mengistu	win	control of military administration council	0	0
+0.8189539751066728	Mengistu	president of	people 's democratic republic	PERSON	ORGANIZATION
+1.0	state	of head be	WPE	0	0
+1.0	thousands	have	deaths	O	O
+1.0	Mengistu	become	ruler	PERSON	0
+0.8254530770192572	Mengistu	be confirm	president of people 's republic	PERSON	ORGANIZATION
+1.0	Colonel Mengistu	crush coup attempt in	May 1989	PERSON	DATE
+1.0	Colonel Mengistu	threaten by	coordinate offensive	PERSON	0
+1.0	politician	tortured	other perceive foe	0	0
+0.6097468261486962	Colonel Mengistu	control of	provisional administration council	0	0
+1.0	Colonel Mengistu	win	control of provisional military administration council	0	0
+1.0	he	also hold	rotate presidency of Addis-Ababa	0	LOCATION
+1.0	he dark skin	crowd in	heart of Addis Ababa	0	LOCATION
+1.0	Ethiopia	have	Party	ORGANIZATION	ORGANIZATION
+1.0	politician	be	tortured	0	0
+1.0	he	take	part	0	0
+1.0	he	also hold	presidency of Addis-Ababa	0	LOCATION
+1.0	Mengistu	create wpe in	1984	PERSON	DATE
+1.0	he	also hold	presidency	0	0
+1.0	Colonel Mengistu	seriously threaten from	February 1991	PERSON	DATE
+1.0	politician	tortured	perceive foe	0	0
+1.0	Mengistu	face with	rebellion	PERSON	0
+0.8254530770192572	Mengistu	be officially confirm	president of people 's republic	PERSON	ORGANIZATION
+1.0	he	coordinate	committee	0	0
+1.0	Ethiopia 's former dictator	have	rule	O	O
+1.0	Ethiopia	by	Federal High Court	LOCATION	ORGANIZATION
+1.0	he	hold	presidency	0	0
+1.0	Derg	have	member	O	ORGANIZATION
+1.0	Colonel Mengistu	seriously threaten by	offensive by Tigre People 's Liberation front	PERSON	ORGANIZATION
+1.0	Ethiopia	have	Republic	ORGANIZATION	ORGANIZATION
+1.0	Mengistu	run	cabinet	PERSON	0
+1.0	Ethiopia	have	former dictator	LOCATION	0
+1.0	training	have	spell	O	O
+1.0	February revolution	have	time	DATE	O
+1.0	Republic	have	president	O	ORGANIZATION
+1.0	he	hold	rotate presidency of Addis-Ababa	0	LOCATION
+1.0	Colonel Mengistu	become	head of marxist regime	PERSON	0
+1.0	Revolution	have	crowds	O	O
+1.0	Mengistu	have	ally	O	LOCATION
+1.0	Federal High Court	be  at_time	last month	ORGANIZATION	DATE
+1.0	Colonel Mengistu	threaten from	February 1991	PERSON	DATE
+1.0	Mengistu	create	marxist-leninist wpe	PERSON	0
+1.0	Mengistu Haile Mariam	be blame for	death of of thousand	PERSON	0
+0.6097468261486962	Colonel Mengistu	control of	provisional military administration council	0	0
+1.0	Mengistu Haile Mariam	become like	he father	PERSON	0
+1.0	Mengistu Haile Mariam	be blame for	death	PERSON	0
+1.0	Colonel Mengistu	head of	marxist regime	PERSON	0

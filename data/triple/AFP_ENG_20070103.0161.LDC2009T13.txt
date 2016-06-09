@@ -1,0 +1,65 @@
+1.0	Zheng 26	will begin	train	PERSON	0
+1.0	Zheng , 26	lead	Shandong	PERSON	LOCATION
+1.0	I	be	asian player	0	0
+1.0	he fitness level	be	least	0	0
+1.0	player	could in	could squad for Charlton 's crucial home premiership clash	0	PERSON
+1.0	versitile player	could in	could squad against Middlesbrough on January 13	0	DATE
+1.0	China captain Zheng Zhi	be	capable	0	0
+1.0	versitile player	could in	could squad for Charlton 's home premiership clash against Middlesbrough	0	PERSON
+1.0	he	get here	big challenge	0	0
+1.0	struggle London team	see	he signing	LOCATION	0
+1.0	I	would suggest	asian player	0	0
+1.0	Charlton	have	home Premiership clash	O	PERSON
+1.0	Charlton	for	crucial home premiership clash	PERSON	0
+1.0	I	be	asian	0	0
+1.0	Zheng Zhi	be	China	PERSON	LOCATION
+1.0	Zheng , 26	be	26	PERSON	NUMBER
+1.0	struggle London team	see	he first signing	LOCATION	ORDINAL
+1.0	player	could in	could squad for Charlton 's home premiership clash	0	PERSON
+1.0	London team	see	he signing	LOCATION	0
+1.0	versitile player	could in	could squad against Middlesbrough	0	ORGANIZATION
+1.0	player	could in	could squad for Charlton 's home premiership clash against Middlesbrough	0	PERSON
+1.0	player	could in	could squad against Middlesbrough on January 13	0	DATE
+1.0	I	be	player	0	0
+1.0	Zheng , 26	will begin	train	PERSON	0
+1.0	he	be	pretty	0	0
+1.0	season	be with	view to permanent two million pound	0	MONEY
+1.0	my	have	worries	O	O
+1.0	versitile player	could in	could squad for Charlton 's home premiership clash	0	PERSON
+1.0	versitile player	could in	could squad for Charlton 's crucial home premiership clash	0	PERSON
+1.0	versitile player	could in	could squad for Charlton 's home premiership clash against Middlesbrough on January 13	0	DATE
+1.0	worries	have	least	O	O
+0.10199368314675994	Zheng , 26	expect	pretty condition	0	0
+1.0	player	could in	could squad against Middlesbrough	0	ORGANIZATION
+1.0	London team	see	he first signing	LOCATION	ORDINAL
+1.0	Zheng , 26	expect	he	0	0
+1.0	Charlton manager Alan Pardew	have	signing	O	O
+1.0	his	have	fitness levels	O	O
+1.0	Middlesbrough	be on	January 13	ORGANIZATION	DATE
+1.0	versitile player	could in	could squad	0	0
+1.0	player	could in	could squad for Charlton 's home premiership clash against Middlesbrough on January 13	0	DATE
+1.0	versitile player	could in	could squad for Charlton 's crucial home premiership clash against Middlesbrough	0	PERSON
+1.0	he	be in	pretty condition	0	0
+0.21798674533488105	Zheng , 26	have	have twice vote	PERSON	0
+1.0	I	would suggest	player	0	0
+1.0	player	could in	could squad for Charlton 's crucial home premiership clash against Middlesbrough	0	PERSON
+1.0	player	could in	could squad for Charlton 's crucial home premiership clash against Middlesbrough on January 13	0	DATE
+1.0	season	have	end	O	O
+1.0	Zheng	have	fitness	O	PERSON
+1.0	he	be in	condition	0	0
+1.0	Alan Pardew	be manager of	Charlton manager Alan Pardew	PERSON	PERSON
+1.0	Zheng Zhi	be captain of	China	PERSON	LOCATION
+1.0	Zheng , 26	lead	Shandong to league title	PERSON	LOCATION
+1.0	he fitness level	be least of	my worry	0	0
+1.0	versitile player	could in	could squad for Charlton 's crucial home premiership clash against Middlesbrough on January 13	0	DATE
+1.0	Year	have	Footballer	O	DATE
+1.0	week	have	training	O	DURATION
+1.0	Charlton manager Alan Pardew	have challenge	China captain Zheng Zhi	PERSON	PERSON
+1.0	China captain Zheng Zhi	star in	Premiership	0	0
+0.21798674533488105	Zheng , 26	have	have vote	PERSON	0
+1.0	Alan Pardew	be	Charlton manager Alan Pardew	PERSON	PERSON
+1.0	player	could in	could squad	0	0
+1.0	he	get here	challenge	0	0
+1.0	he	get	challenge	0	0
+1.0	he	get	big challenge	0	0
+0.10199368314675994	Zheng , 26	expect	condition	0	0

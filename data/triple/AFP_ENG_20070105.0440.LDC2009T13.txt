@@ -1,0 +1,9 @@
+1.0	Yalta	nearest to	accident	LOCATION	0
+1.0	Sierre Leone	have	flag	O	PERSON
+1.0	Ukraine	have	coast	O	LOCATION
+1.0	Kerch	be to	Istanbul	LOCATION	LOCATION
+1.0	Tetyana Ogarkova	spokesman for	administration of southern city of Yalta	PERSON	LOCATION
+1.0	city	have	administration	O	O
+1.0	gas	have	leak	O	O
+1.0	Yalta	have	city	O	LOCATION
+1.0	Kerch	have	port	O	LOCATION

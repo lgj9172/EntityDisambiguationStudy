@@ -1,0 +1,72 @@
+1.0	contest	be	sharp	0	0
+1.0	Marat Safin	have	defeat	O	PERSON
+1.0	Roger Federer	have	game	O	O
+1.0	elite eight-man Kooyong tune-up	be consider	ideal preparation for Grand Slam	0	MISC
+1.0	world no. 1	require	three tiebreaker	NUMBER	NUMBER
+1.0	world no.	require	three tiebreaker	0	NUMBER
+1.0	major	begin on	Monday	DURATION	DATE
+1.0	them	have	both	O	O
+1.0	Federer	have	chances	O	PERSON
+1.0	Roger Federer	hone	he razor-sharp tennis	PERSON	0
+1.0	Federer	for	chance	PERSON	DURATION
+1.0	our	have	level	O	O
+1.0	Tommy Haas	be	german	PERSON	DURATION
+1.0	elite eight-man Kooyong tune-up	be consider	preparation for Grand Slam	0	MISC
+0.8946731205760322	knee injury	year of	he season	0	DURATION
+1.0	elite eight-man Kooyong tune-up	be consider preparation with	its guarantee of match	0	0
+1.0	Streaky Russian Safin	have	season	O	O
+0.32468555244207997	elite eight-man Kooyong tune-up	be consider with	its guarantee of match on Rebound Ace surface	0	0
+1.0	he	play winner from	Friday contest between Andy Roddick	0	PERSON
+1.0	elite eight-man Kooyong tune-up	be consider preparation with	its guarantee	0	0
+1.0	three tiebreaker	get	past Radek Stepanek	NUMBER	DURATION
+0.6482352528282815	I	practise with	both of they	0	0
+1.0	major	begin at	Melbourne Park	DURATION	LOCATION
+1.0	elite eight-man Kooyong tune-up	be consider	preparation	0	0
+1.0	Roger Federer	polish	he lethal silky-smooth game	PERSON	0
+0.32468555244207997	elite eight-man Kooyong tune-up	be consider with	its guarantee of match	0	0
+1.0	he	play	winner	0	0
+1.0	season	have	major	O	O
+1.0	Roger Federer	polish	he game	PERSON	0
+1.0	Marat Safin	be of	russian	PERSON	0
+0.8946731205760322	knee injury	almost year of	he season	0	DURATION
+1.0	Federer	will aim for	he Kooyong title	PERSON	0
+1.0	Federer	will aim for	he second Kooyong title on Saturday	PERSON	DATE
+1.0	first major	begin on	Monday	ORDINAL	DATE
+1.0	first major	begin at	Melbourne Park	ORDINAL	LOCATION
+1.0	matches	have	guarantee	O	O
+1.0	Federer	will aim for	he Kooyong title on Saturday	PERSON	DATE
+1.0	he	play winner from	Friday contest between american Andy Roddick	0	PERSON
+1.0	Roger Federer	storm into	final of Kooyong Classic	0	MISC
+1.0	Radek Stepanek	be	past	DURATION	DATE
+1.0	Streaky Russian Safin	loom as	potential spoiler for Federer 's chance	PERSON	DURATION
+1.0	Andy Roddick	be between	american	PERSON	0
+1.0	knee injury	compromise	year	0	DURATION
+1.0	knee injury	compromise year from	mid-2005	0	DATE
+1.0	The elite eight-man Kooyong tune-up	have	guarantee	O	O
+1.0	title	say	holder of dozen	0	NUMBER
+1.0	Andy Murray	be	Briton	PERSON	MISC
+1.0	title	say	holder	0	0
+1.0	Roger Federer	have	tennis	O	O
+1.0	season	have	year	DURATION	O
+0.6482352528282815	I	practise with	both	0	0
+1.0	he	play winner from	Friday contest	0	DATE
+0.32468555244207997	elite eight-man Kooyong tune-up	be	consider	0	0
+1.0	Federer	will aim for	he second Kooyong title	PERSON	ORDINAL
+1.0	Roger Federer	polish	he silky-smooth game	PERSON	0
+1.0	Ivan Ljubicic	be	croatian	PERSON	DURATION
+1.0	Roger Federer	storm into	final	0	0
+1.0	knee injury	compromise	year of he season	0	DURATION
+1.0	Kooyong Classic	have	final	O	MISC
+1.0	Roger Federer	hone	he tennis	PERSON	0
+1.0	Roger Federer	storm with	7/2	0	NUMBER
+1.0	knee injury	compromise	almost year of he season	0	DURATION
+0.6482352528282815	I	practise at_time	last week	0	DATE
+1.0	his	have	Kooyong title	O	O
+1.0	elite eight-man Kooyong tune-up	be consider	ideal preparation	0	0
+1.0	Roger Federer	polish	he lethal game	PERSON	0
+1.0	Streaky Russian Safin	loom as	potential spoiler	PERSON	DURATION
+0.32468555244207997	elite eight-man Kooyong tune-up	be consider with	its guarantee	0	0
+1.0	dozen	have	holder	O	NUMBER
+1.0	elite eight-man Kooyong tune-up	be consider preparation with	its guarantee of match on Rebound Ace surface	0	0
+1.0	knee injury	compromise	almost year	0	DURATION
+0.6482352528282815	I	practise at_time	week	0	DATE

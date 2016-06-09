@@ -1,0 +1,25 @@
+1.0	Shula Zaken	be cabinet of	Ehud Olmert	PERSON	PERSON
+1.0	her	have	connections	O	O
+1.0	Ehud Olmert	have	cabinet	PERSON	0
+1.0	Olmert 's cabinet	be	be investigate for suspect corruption	PERSON	0
+1.0	Prime Minister Ehud	have	director	O	PERSON
+1.0	Olmert	have	cabinet	O	PERSON
+1.0	controversy	be haunt	Israel 's leadership	0	LOCATION
+1.0	Israel	have	leadership	LOCATION	0
+1.0	Olmert 's cabinet	be	be investigate	PERSON	0
+1.0	her	have	brother	O	O
+1.0	corruption	have	case	O	O
+1.0	Israel	have	leadership	O	LOCATION
+1.0	controversy	be currently haunt	Israel 's leadership	0	LOCATION
+1.0	inquiry	have	part	O	O
+1.0	officials	have	number	O	O
+1.0	President Moshe Katsav	face	possible indictment	PERSON	0
+1.0	corruption probes	have	subject	O	O
+1.0	Moshe Katsav	father of	five	PERSON	NUMBER
+1.0	five	have	father	O	NUMBER
+1.0	Olmert 's cabinet	be	be investigate for corruption	PERSON	0
+1.0	tax service	be in	return for tax benefit	0	0
+1.0	Ehud Olmert	be of	israeli	PERSON	0
+1.0	government officials	have	nomination	O	O
+1.0	bribes	have	case	O	O
+1.0	Ehud Olmert	's cabinet be	Shula Zaken	PERSON	PERSON

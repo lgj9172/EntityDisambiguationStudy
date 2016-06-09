@@ -1,0 +1,20 @@
+1.0	court	be in	Munich	0	LOCATION
+1.0	Martin Prager	find	buyer	PERSON	0
+1.0	operation	have	part	O	O
+1.0	BenQ	have	production operations	O	ORGANIZATION
+1.0	electronics maker	have	phone arm	O	O
+1.0	Martin Prager	find buyer since	benq	PERSON	0
+1.0	the company	have	workforce	O	O
+1.0	Martin Prager	find	buyer for company	PERSON	0
+1.0	Martin Prager	find buyer since	benq file for insolvency at end of September	PERSON	DATE
+1.0	Martin Prager	find buyer since	benq file for insolvency at end	PERSON	DATE
+1.0	September	have	end	DATE	DATE
+1.0	Proceedings	be	open	0	0
+1.0	Martin Prager	find buyer since	benq file	PERSON	0
+1.0	BenQ	have	production operation in Munich	ORGANIZATION	LOCATION
+0.44971416980511786	court	say on	Tuesday	0	DATE
+1.0	Martin Prager	find buyer since	benq file for insolvency	PERSON	0
+1.0	Proceedings	be open on	Monday	0	DATE
+1.0	BenQ 's production operation	be in	Munich	ORGANIZATION	LOCATION
+1.0	Martin Prager	find buyer since	benq file at end	PERSON	DATE
+1.0	Martin Prager	find buyer since	benq file at end of September	PERSON	DATE

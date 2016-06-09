@@ -1,0 +1,73 @@
+0.9135890228418696	Hilton	star of	reality television series	ORGANIZATION	0
+1.0	Celebrity socialite Paris Hilton	drive under	influence	PERSON	0
+0.21798674533488105	Hilton	be vote along with	Britney Spears	ORGANIZATION	PERSON
+1.0	Hilton 25	be	arrest	ORGANIZATION	0
+1.0	celebrity	have	lawyer	O	O
+0.21798674533488105	Hilton	be	vote	ORGANIZATION	0
+1.0	Hilton	star of	reality television series	ORGANIZATION	0
+1.0	Tuesday	have	hearing	O	DATE
+1.0	american celebrity	have	lawyer	0	0
+1.0	her	have	Mercedes SLR	O	O
+1.0	2006	have	celebrity	O	DATE
+1.0	Hilton	be vote celebrity in	annual list release by fashion critic Mr Blackwell	ORGANIZATION	SET
+0.21798674533488105	Hilton	be vote in	list release by fashion critic Mr Blackwell	ORGANIZATION	PERSON
+1.0	Hilton	be	25	ORGANIZATION	NUMBER
+1.0	The socialite	enjoy	one margarita	0	NUMBER
+0.6879096847687036	list	release by	fashion critic Mr Blackwell	0	PERSON
+0.21798674533488105	Hilton	be vote on	meanwhile Tuesday	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be vote in	annual list release	ORGANIZATION	SET
+0.21798674533488105	Hilton	be vote in	list release	ORGANIZATION	0
+1.0	style	have	arbiter	O	O
+0.21798674533488105	Hilton	be	on Tuesday vote in annual list release	ORGANIZATION	DATE
+1.0	Hilton	be vote celebrity on	meanwhile Tuesday	ORGANIZATION	DATE
+1.0	Hilton	be arrest on	September 7	ORGANIZATION	DATE
+1.0	Hilton	be vote	celebrity	ORGANIZATION	0
+1.0	Hilton	be vote celebrity in	list	ORGANIZATION	0
+0.9928382681798622	Celebrity socialite Paris Hilton	drive erratically	she Mercedes	0	0
+0.21798674533488105	Hilton	be vote in	annual list	ORGANIZATION	SET
+1.0	Celebrity socialite Paris Hilton	be	spotted	0	0
+1.0	reality television series	have	star	O	O
+0.6879096847687036	annual list	release by	fashion critic Mr Blackwell	SET	PERSON
+1.0	poison-penned arbiter	describe	single	0	0
+0.9928382681798622	Celebrity socialite Paris Hilton	drive	she Mercedes	0	0
+0.21798674533488105	Hilton	be vote in	annual list release by fashion critic Mr Blackwell	ORGANIZATION	SET
+1.0	Hilton	be vote celebrity in	annual list release	ORGANIZATION	SET
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in annual list release	ORGANIZATION	DATE
+1.0	poison-penned arbiter	describe	newly single	0	0
+1.0	celebrity 's lawyer	enter plea in	Los Angeles court	0	LOCATION
+0.21798674533488105	Hilton	be vote on	Tuesday	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in list release	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in annual list	ORGANIZATION	DATE
+1.0	Hilton	be vote	worst-dressed celebrity of 2006	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	on Tuesday vote in annual list release by fashion critic Mr Blackwell	ORGANIZATION	DATE
+1.0	Hilton	be vote celebrity in	list release	ORGANIZATION	0
+1.0	Hilton 25	be arrest on	September 7	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	on Tuesday vote in list release by fashion critic Mr Blackwell	ORGANIZATION	DATE
+1.0	arbiter	describe	single	0	0
+0.21798674533488105	Hilton	be	on Tuesday vote in list release	ORGANIZATION	DATE
+1.0	arbiter	describe	newly single	0	0
+1.0	Hilton	be vote celebrity in	annual list	ORGANIZATION	SET
+1.0	american celebrity 's lawyer	enter	plea	0	0
+1.0	The socialite	have	album	O	O
+1.0	The socialite	enjoy just	one margarita	0	NUMBER
+1.0	celebrity 's lawyer	enter	plea	0	0
+1.0	american celebrity	's lawyer be	Shawn Holley	0	PERSON
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in annual list release by fashion critic Mr Blackwell	ORGANIZATION	DATE
+1.0	Hilton 25	be	arrest in Hollywood on September 7	ORGANIZATION	DATE
+1.0	Hilton	be vote celebrity in	list release by fashion critic Mr Blackwell	ORGANIZATION	PERSON
+1.0	Hilton	be vote celebrity on	Tuesday	ORGANIZATION	DATE
+1.0	Hilton	be vote celebrity along with	Britney Spears	ORGANIZATION	PERSON
+1.0	american celebrity 's lawyer	enter plea in	Los Angeles court	0	LOCATION
+1.0	Hilton	be vote	celebrity of 2006	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in list release by fashion critic Mr Blackwell	ORGANIZATION	DATE
+1.0	Hilton	be	arrest in Hollywood on September 7	ORGANIZATION	DATE
+1.0	Hilton 25	be arrest in	Hollywood	ORGANIZATION	LOCATION
+1.0	Hilton	be vote	worst-dressed celebrity	ORGANIZATION	0
+1.0	two pea	be in	over-exposed pod	NUMBER	0
+1.0	Hilton	be arrest in	Hollywood	ORGANIZATION	LOCATION
+0.21798674533488105	Hilton	be	on Tuesday vote in list	ORGANIZATION	DATE
+1.0	Celebrity socialite Paris Hilton	have	Mercedes	O	O
+1.0	Hilton	be	arrest	ORGANIZATION	0
+0.21798674533488105	Hilton	be vote in	list	ORGANIZATION	0
+0.21798674533488105	Hilton	be	on Tuesday vote in annual list	ORGANIZATION	DATE
+0.21798674533488105	Hilton	be	meanwhile on Tuesday vote in list	ORGANIZATION	DATE

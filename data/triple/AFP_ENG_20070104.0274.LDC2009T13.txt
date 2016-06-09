@@ -1,0 +1,37 @@
+1.0	attorney	have	office in southern town of Mostar	0	LOCATION
+1.0	it	refuse	disclose	0	0
+1.0	army	have	members	O	O
+1.0	former member	be charge with	killing	0	0
+1.0	ally	be in	fight against serbia-backed Bosnian Serbs	0	MISC
+1.0	former member	be	charge with killing of five member of Croat family in village	0	NUMBER
+1.0	Gradacac	have	town	O	LOCATION
+1.0	Sead Karagic	have	members	O	PERSON
+1.0	Croat family	have	members	O	O
+1.0	former member	be charge with	killing of five member	0	NUMBER
+1.0	former member	be charge in	village	0	0
+1.0	former member	be	charge with killing of five member in village	0	NUMBER
+1.0	civilians	have	number	O	O
+1.0	Grabovica	have	village	O	LOCATION
+1.0	suspect	be	arrest	0	0
+1.0	Haris Rajkic	have	members	O	PERSON
+1.0	area	be in	1992	0	DATE
+1.0	attorney 's office	be in	southern town of Mostar	0	LOCATION
+1.0	former member	be	charge with killing of five member of Croat family in village of grabovica	0	NUMBER
+1.0	members	have	killing	O	O
+1.0	former member	be	charge with killing in village	0	0
+1.0	country	have	war	O	O
+1.0	cars	have	column	O	O
+1.0	former member	be	charge	0	0
+1.0	country	during	1992-95 war	0	DATE
+1.0	attorney	have	office	0	0
+1.0	former member	be charge with	killing of five member of Croat family	0	NUMBER
+1.0	former member	be	charge with killing of five member in village of grabovica	0	NUMBER
+1.0	attorney	have	office	O	O
+1.0	former member	be	charge with killing in village of grabovica	0	0
+1.0	country	have	population	O	O
+1.0	official	say at_time	Thursday	0	DATE
+1.0	former member	be charge in	village of grabovica	0	0
+1.0	2.2 million people	population 's	country	NUMBER	0
+1.0	war	claim at_time	200,000 life	0	NUMBER
+1.0	Mostar	have	town	O	LOCATION
+1.0	whose	have	identity	O	O

@@ -1,0 +1,54 @@
+1.0	Interior Minister Rumen Petkov	say	add since country 's entry into EU	PERSON	ORGANIZATION
+1.0	Interior Minister Rumen Petkov	add since	country 's entry	PERSON	0
+1.0	Schengen zone	be in	2009	MISC	DATE
+1.0	the bloc 's no-borders	have	entry	O	O
+1.0	visa	be in	Schengen zone	0	LOCATION
+1.0	child pickpockets	have	Austria	LOCATION	O
+1.0	Bulgaria	also introduce	special measure	LOCATION	0
+1.0	Bulgaria	limit abroad	trip	LOCATION	0
+1.0	Interior Minister Rumen Petkov	add since	country 's entry into EU	PERSON	ORGANIZATION
+1.0	Bulgarians	travel without	visa	MISC	0
+1.0	Interior Minister Rumen Petkov	say	add since country 's entry	PERSON	0
+1.0	months	have	period	O	DURATION
+1.0	Interior Minister Rumen Petkov	say at_time	Friday	PERSON	DATE
+1.0	European Union	of	external border	ORGANIZATION	0
+1.0	bloc	have	no-border	0	0
+1.0	border control	be	reinforce	0	0
+1.0	Turkish emigrants in Europe	obtain transit visa at	border checkpoint	0	0
+1.0	condition	be	fulfil	0	0
+1.0	Bulgaria	introduce	measure	LOCATION	0
+1.0	Bulgaria	at	border checkpoint	LOCATION	0
+1.0	bulgarian consulate	be in	country	0	0
+1.0	Bulgaria	introduce measure in	year	LOCATION	0
+1.0	Bulgarians	have	influx	O	MISC
+1.0	Interior Minister Rumen Petkov	say	add	PERSON	0
+1.0	Turkish emigrants in Europe	have	country	O	O
+1.0	beggars	have	Austria	LOCATION	O
+1.0	Bulgarians	travel for	period	MISC	0
+1.0	European Union	have	borders	O	ORGANIZATION
+1.0	Interior Minister Rumen Petkov	tell	journalist	PERSON	0
+1.0	Bulgaria	have	border checkpoints	O	LOCATION
+1.0	Bulgaria	also introduce measure in	recent year	LOCATION	DURATION
+1.0	borders	have	kilometres	O	O
+1.0	country	have	entry	O	O
+1.0	residence	have	country	O	O
+1.0	The Schengen treaty	have	members	O	O
+1.0	Bulgaria	have introduce	visa	LOCATION	0
+1.0	bulgarian consulate	be in	they country of residence	0	0
+1.0	bloc	have	no-borders	O	O
+1.0	Bulgaria	limit	trip	LOCATION	0
+1.0	Bulgaria	have introduce	visa for traveller	LOCATION	0
+1.0	Turkish emigrants in Europe	be	force	0	0
+1.0	the European Union	have	part	O	ORGANIZATION
+1.0	European Union 's external border	of kilometre be	1,025 mile	ORGANIZATION	NUMBER
+1.0	Bulgaria	also introduce	measure	LOCATION	0
+1.0	turkish emigrant	be in	Bulgaria , which joined the European Union on January 1	0	LOCATION
+1.0	Bulgaria	introduce	special measure	LOCATION	0
+1.0	Bulgaria	have	EU accession	O	LOCATION
+1.0	Turkish emigrants in Europe	obtain	transit visa	0	0
+1.0	Bulgarians	travel without	visa in Schengen zone	MISC	LOCATION
+1.0	years	have	ban	O	DURATION
+1.0	Interior Minister Rumen Petkov	tell journalist in	Sofia	PERSON	LOCATION
+1.0	country	since	entry into EU	0	ORGANIZATION
+1.0	Bulgaria	introduce measure in	recent year	LOCATION	DURATION
+1.0	Bulgaria	also introduce measure in	year	LOCATION	0

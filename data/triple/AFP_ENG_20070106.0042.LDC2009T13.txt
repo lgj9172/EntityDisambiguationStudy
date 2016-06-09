@@ -1,0 +1,114 @@
+1.0	Lee , 83	be	83	PERSON	NUMBER
+1.0	Lee , 83	praise trip to	Beijing make	PERSON	LOCATION
+1.0	name	join	United Nations	0	ORGANIZATION
+1.0	Our	have	goal	O	O
+1.0	Taiwan	have	former president	LOCATION	0
+1.0	Lee , 83	need treatment at	home	0	0
+1.0	Lee , 83	take	office	0	0
+1.0	its	have	chairman	O	O
+1.0	Lee , 83	praise trip to	Beijing	PERSON	LOCATION
+1.0	Japan	have	Jiji Press news agency	O	LOCATION
+1.0	Taiwan 's	have	territory	O	O
+1.0	Lee	anger china with	visit	PERSON	0
+1.0	territory	have	part	O	O
+1.0	Japan	by	Jiji Press news agency in interview	LOCATION	ORGANIZATION
+1.0	Beijing	cancel visit by	its chairman	LOCATION	0
+1.0	Lee , 83	be	quote	PERSON	0
+1.0	Lee Teng-hui	go in	good physical condition	0	0
+1.0	we goal	have	name	0	0
+1.0	Shinzo Abe	be by	japanese	PERSON	0
+1.0	Lee , 83	praise trip to	Beijing make by japanese Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	Lee , 83	say by	Japan 's Jiji Press news agency	PERSON	ORGANIZATION
+1.0	Taiwan 's former president Lee Teng-hui has said he	have	health	O	O
+1.0	Lee	make at	2004 sightseeing trip	PERSON	DATE
+1.0	Lee , 83	contract tuberculosis in	May	PERSON	DATE
+1.0	name	join united nations as	member	0	0
+1.0	Lee	anger	China	PERSON	LOCATION
+1.0	Japan	have keep	kowtow to China	LOCATION	LOCATION
+0.3947241257837596	Beijing	make by	japanese Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	visit	prompt	Beijing	0	LOCATION
+1.0	China	conduct	missile test	LOCATION	0
+1.0	Tokyo	switch recognition to	Beijing	LOCATION	LOCATION
+0.3947241257837596	Beijing	make by	Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	Lee , 83	have	trip	O	O
+1.0	Taiwan	have	separate identity	LOCATION	0
+1.0	Lee Teng-hui	go in	condition	0	0
+1.0	Lee , 83	need	treatment	0	0
+1.0	Beijing	be in	1972	LOCATION	DATE
+1.0	Japan	kowtow to	China	LOCATION	LOCATION
+1.0	Lee	anger china at_time	October	PERSON	DATE
+1.0	Lee , 83	praise trip in	interview	PERSON	0
+1.0	Lee , 83	say by	Japan 's Jiji Press news agency in interview	PERSON	ORGANIZATION
+0.5249490407603586	I	independence of	Taiwan	0	LOCATION
+1.0	Lee	also anger china at_time	last October	PERSON	DATE
+1.0	he	make	he trip	0	0
+1.0	Lee , 83	take office in	late September	0	DATE
+1.0	Taiwan	have	identity	O	LOCATION
+1.0	Lee 83	be	quote	PERSON	0
+1.0	Tokyo	switch	recognition	LOCATION	0
+0.9037168055247496	Lee Teng-hui	be in	condition	0	0
+1.0	Taiwan 's	part of	its territory	LOCATION	0
+1.0	Lee	also anger	China	PERSON	LOCATION
+1.0	state	have	normalization	O	O
+1.0	his	have	term	O	O
+1.0	Tokyo	switch recognition to	Beijing in 1972	LOCATION	DATE
+1.0	Lee 83	say by	Japan 's Jiji Press news agency	PERSON	ORGANIZATION
+1.0	Tokyo	since bar contact with	Taiwan	LOCATION	LOCATION
+1.0	Lee , 83	take office in	September	0	DATE
+1.0	Tokyo	since bar	official contact	LOCATION	0
+1.0	Beijing	cancel visit by	its then chairman	LOCATION	0
+1.0	Taiwan 's independence	split	motherland	0	0
+1.0	Lee	anger china at_time	last October	PERSON	DATE
+1.0	Lee Teng-hui	go in	good condition	0	0
+1.0	Lee , 83	praise	trip	PERSON	0
+1.0	Lee	also anger china to	United States	PERSON	LOCATION
+1.0	Lee , 83	cancel visit to	Japan	PERSON	LOCATION
+1.0	its	have	constitution	O	O
+1.0	he	say accord to	Jiji Press	0	ORGANIZATION
+1.0	we goal	have	name as country	0	0
+1.0	Taiwan	have	independence	LOCATION	0
+1.0	Lee	nurture	democracy	PERSON	0
+0.9037168055247496	Lee Teng-hui	be in	good physical condition	0	0
+1.0	press report	say at_time	Saturday	0	DATE
+1.0	Tokyo	bar	official contact	LOCATION	0
+1.0	Beijing	cancel visit by	its then legislative chairman	LOCATION	0
+1.0	Lee , 83	need	medical treatment	0	0
+1.0	Taiwan 's independence	call	he attempt	0	0
+1.0	he	make	he first trip	0	ORDINAL
+1.0	name	join united nations as	member of world	0	0
+1.0	Lee , 83	contract	tuberculosis	PERSON	0
+1.0	Lee , 83	cancel visit to	Japan schedule for September 12-17	PERSON	NUMBER
+1.0	Tokyo	since bar	contact	LOCATION	0
+1.0	trust	have	relationship	O	O
+1.0	Lee , 83	cancel visit to	Japan schedule	PERSON	LOCATION
+1.0	Lee	make to	Japan	PERSON	LOCATION
+1.0	Taiwan	be in	1995	LOCATION	DATE
+0.6591020974560895	Japan	schedule for	September 12-17	LOCATION	NUMBER
+1.0	independence	have	leader	O	O
+1.0	Tokyo	bar	contact	LOCATION	0
+1.0	Tokyo	switch	diplomatic recognition	LOCATION	0
+1.0	Lee	anger china to	United States	PERSON	LOCATION
+1.0	Japan	have keep	kowtow	LOCATION	0
+0.9037168055247496	Lee Teng-hui	be in	good condition	0	0
+1.0	his	have	attempts	O	O
+1.0	Beijing	cancel visit to	Japan	LOCATION	LOCATION
+1.0	Japan 's Jiji Press news agency	be in	interview	ORGANIZATION	0
+1.0	Lee Teng-hui	go in	physical condition	0	0
+1.0	Taiwan	have	president	O	LOCATION
+1.0	Lee , 83	praise trip to	Beijing make by Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	Tokyo	switch recognition from	Taipei	LOCATION	LOCATION
+1.0	Lee	also anger china at_time	October	PERSON	DATE
+1.0	Lee , 83	cancel	visit	PERSON	0
+1.0	Lee 83	say by	Japan 's Jiji Press news agency in interview	PERSON	ORGANIZATION
+1.0	his	have	goal	O	O
+1.0	Taiwan 's independence	be	he goal	LOCATION	0
+1.0	Taiwan 's independence	be	he ultimate goal	LOCATION	0
+1.0	Beijing	cancel visit by	its legislative chairman	LOCATION	0
+0.9037168055247496	Lee Teng-hui	be in	physical condition	0	0
+1.0	world	have	member	O	O
+1.0	Lee	also anger china with	visit	PERSON	0
+1.0	Beijing	cancel	visit	LOCATION	0
+1.0	Tokyo	bar contact with	Taiwan	LOCATION	LOCATION
+1.0	Taiwan	of	independence	LOCATION	0
+1.0	Taiwan	have	independence	O	LOCATION
+1.0	China	conduct missile test in	water	LOCATION	0

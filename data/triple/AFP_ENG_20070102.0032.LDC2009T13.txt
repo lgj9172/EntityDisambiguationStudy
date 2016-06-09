@@ -1,0 +1,59 @@
+1.0	improving	have	sign	O	O
+1.0	study	find at_time	last month	0	DATE
+1.0	city	have	environmental watchdog	0	0
+0.5176190412220422	heavy industry	sandstorm from	Gobi desert	0	LOCATION
+1.0	it	cite beijing as	one of city	0	NUMBER
+1.0	air pollution	be in	China 's city	0	LOCATION
+1.0	Dhaka Hanoi Jakarta New Delhi	have	likes	O	LOCATION
+1.0	will city government 's top priority	be in	2007	0	DATE
+0.5176190412220422	industry	sandstorm from	Gobi desert	0	LOCATION
+1.0	China	have	State Environmental Protection Administration	LOCATION	ORGANIZATION
+1.0	China 's State Environmental Protection Administration	say in	report release in November	ORGANIZATION	DATE
+1.0	city	have	environment ahead of 2008 Olympic Games	0	MISC
+1.0	study	find at_time	month	0	DATE
+1.0	millions	have	health	O	O
+1.0	people	have	health	O	O
+1.0	it	cite beijing along with	likes of Dhaka Delhi	0	LOCATION
+1.0	Olympic Games	have	environment	O	MISC
+1.0	the capital Beijing	have	air quality	O	LOCATION
+1.0	city government	have	priority	O	O
+1.0	study	show	sign of improve	0	0
+1.0	One of the world 's most polluted cities , Beijing	have	target	O	O
+1.0	China 's State Environmental Protection Administration	say in	report release	ORGANIZATION	0
+1.0	study	show	little sign of improve	0	0
+1.0	the capital Beijing	have	air quality	LOCATION	0
+1.0	it	cite beijing as	one worst city	0	NUMBER
+1.0	it	cite beijing as	one of worst city	0	NUMBER
+1.0	Beijing 's air quality	have	website	O	O
+1.0	resident	be in	November	0	DATE
+1.0	study	show	sign	0	0
+1.0	New Delhi	be of	Dhaka	LOCATION	LOCATION
+0.6650711735203868	number	contribute in	2006	0	DATE
+1.0	Beijing protection bureau	say on	its website	LOCATION	0
+1.0	city	have	watchdog	O	O
+1.0	bureau	classify at_time	blue-sky day	0	0
+1.0	world	of	most polluted city	0	0
+1.0	China	have	State Environmental Protection Administration	ORGANIZATION	LOCATION
+1.0	it	cite	the capital Beijing	0	LOCATION
+1.0	cars	have	number	O	O
+1.0	million people	be in	asian city	NUMBER	0
+1.0	China	have	cities	O	LOCATION
+0.6650711735203868	rise number	contribute in	2006	0	DATE
+1.0	heavy industry	sandstorm from	Gobi desert	0	LOCATION
+1.0	China 's State Environmental Protection Administration	say in	report	ORGANIZATION	0
+1.0	days	have	one-third	ORDINAL	DATE
+1.0	official	say at_time	Tuesday	0	DATE
+1.0	world	's city be	the capital Beijing	0	DATE
+1.0	study	show	little sign	0	0
+1.0	it	cite beijing along with	likes	0	0
+1.0	city	have	environment	O	O
+1.0	cities	have	One	NUMBER	O
+1.0	world	have	cities	O	O
+1.0	cities	have	one	NUMBER	O
+1.0	it	cite beijing as	one city	0	NUMBER
+1.0	China	in	city	LOCATION	0
+1.0	Beijing environmental protection bureau	say on	its website	LOCATION	0
+1.0	air days	have	target	O	DURATION
+1.0	238	have	target	O	NUMBER
+1.0	Beijing authorities	have	drive	O	O
+1.0	bureau	classify at_time	day	0	0

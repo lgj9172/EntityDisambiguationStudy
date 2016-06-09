@@ -1,0 +1,79 @@
+1.0	134 mm	double	record	NUMBER	0
+1.0	Western Australia	over	southern coast	LOCATION	0
+1.0	remains	merge with	deep pressure system	0	0
+1.0	massive mm	fall on	Baladonia	DURATION	LOCATION
+1.0	massive 134 mm	fall on	Baladonia	NUMBER	LOCATION
+1.0	remains	merge with	deep low pressure system	0	0
+1.0	massive mm	fall at_time	further east	DURATION	DURATION
+1.0	134 mm	double	previous record	NUMBER	0
+1.0	remains	merge with	deep low pressure system over Western Australia 's southern coast	0	LOCATION
+1.0	Southwestern Australia	prepare for	worst	LOCATION	0
+1.0	remains	merge with	low pressure system over Western Australia 's coast	0	LOCATION
+1.0	people	have	home	0	0
+1.0	massive mm	double	previous record	DURATION	0
+1.0	a day	for	rain	DURATION	DURATION
+1.0	remains	merge with	deep pressure system over Western Australia 's southern coast	0	LOCATION
+1.0	remains	merge with	low pressure system over Western Australia 's southern coast	0	LOCATION
+1.0	massive 134 mm	double	previous record for day 's rain	NUMBER	DURATION
+1.0	sandbagging	have	lot	O	O
+1.0	134 mm	double	previous record for day 's rain	NUMBER	DURATION
+0.8353170923373947	double	previous record for	day 's rain	0	DURATION
+0.8353170923373947	double	record for	day 's rain	0	DURATION
+1.0	remains	merge with	deep low pressure system over Western Australia 's coast	0	LOCATION
+1.0	massive 134 mm	double	record	NUMBER	0
+0.5541865994841897	storm	sweep	75 mm deluge force	0	NUMBER
+1.0	massive mm	double	record for day 's rain	DURATION	DURATION
+1.0	remains	merge with	deep pressure system over Western Australia 's coast	0	LOCATION
+1.0	people	have	homes	O	O
+1.0	remains	merge with	low pressure system	0	0
+1.0	tropical Cyclone Isobel	of	northwestern landfall Wednesday	0	DATE
+1.0	mm	double	previous record	0	0
+1.0	remains	merge with	pressure system over Western Australia 's southern coast	0	LOCATION
+1.0	Southwestern Australia	prepare as	once	LOCATION	DATE
+1.0	Cyclone Isobel	have	landfall	O	O
+0.5541865994841897	storm	sweep southward	75 mm deluge force	0	NUMBER
+1.0	rain	have	mm	O	O
+1.0	134 mm	fall at_time	further east	NUMBER	DURATION
+1.0	community	brace for	gust of rain	0	0
+1.0	mm	fall at_time	further	0	0
+1.0	massive mm	double	previous record for day 's rain	DURATION	DURATION
+1.0	Western Australia	have	coast	O	LOCATION
+1.0	Southwestern Australia	prepare at_time	Thursday	LOCATION	DATE
+1.0	community	brace for	gust of up rain	0	0
+1.0	massive 134 mm	double	previous record	NUMBER	0
+1.0	community	brace for	gust of up to 120 kilometre rain	0	NUMBER
+1.0	landfall	have	ahead	O	O
+1.0	rain	have	millimetres	O	O
+1.0	community	brace for	gust	0	0
+1.0	massive mm	double	record	DURATION	0
+1.0	massive 134 mm	fall at_time	further east	NUMBER	DURATION
+1.0	134 mm	double	record for day 's rain	NUMBER	DURATION
+0.5541865994841897	storm	sweep southward	75 mm deluge	0	NUMBER
+1.0	Cyclone Isobel	have	remains	O	O
+1.0	massive 134 mm	double	record for day 's rain	NUMBER	DURATION
+1.0	country	have	nickel producers	O	O
+1.0	rain	of millimetre be	39.4 inch	0	NUMBER
+1.0	remains	merge with	pressure system	0	0
+1.0	fire	say	Emergency Services Association spokesman Mike Venn	0	ORGANIZATION
+1.0	massive 134 mm	fall at_time	further	NUMBER	0
+1.0	day	have	rain	O	DURATION
+1.0	street	have	have close	0	0
+1.0	few street	be in	Esperance townsite	0	0
+1.0	mm	fall at_time	further east	0	DURATION
+1.0	country	have	two largest nickel producer	0	NUMBER
+1.0	Mike Venn	be spokesman of	fire and Emergency Services Association	PERSON	ORGANIZATION
+1.0	massive mm	fall at_time	further	DURATION	0
+1.0	134 mm	fall at_time	further	NUMBER	0
+1.0	West Australian Weather Bureau	have	Caroline Bojarski	PERSON	ORGANIZATION
+1.0	Mike Venn	be	fire and Emergency Services Association	PERSON	ORGANIZATION
+1.0	few street	have	have close	0	0
+1.0	mm	fall on	Baladonia	0	LOCATION
+1.0	mm	double	previous record for day 's rain	0	DURATION
+1.0	resources giants BHP Billiton	have	operations	O	O
+1.0	remains	merge with	pressure system over Western Australia 's coast	0	LOCATION
+0.5541865994841897	storm	sweep	75 mm deluge	0	NUMBER
+1.0	rains	have	gusts	O	O
+1.0	Caroline Bojarski	be of	West Australian Weather Bureau	PERSON	ORGANIZATION
+1.0	mm	double	record	0	0
+1.0	134 mm	fall on	Baladonia	NUMBER	LOCATION
+1.0	mm	double	record for day 's rain	0	DURATION

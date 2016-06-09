@@ -1,0 +1,47 @@
+1.0	India	be in	Cape Town	LOCATION	LOCATION
+1.0	Pakistan	decide in	test	LOCATION	0
+1.0	Pakistan	decide in	test against South Africa	LOCATION	LOCATION
+1.0	Pakistan	decide in	first test against South Africa	LOCATION	ORDINAL
+1.0	99	have for	have South Africa for World XI against Australia last season	NUMBER	LOCATION
+1.0	bowlers	have	switch	O	O
+1.0	his	have	Test	O	O
+1.0	99	have for	of which have South Africa for World XI	NUMBER	LOCATION
+1.0	South Africa	be at	Thursday	LOCATION	DATE
+1.0	99	have for	of which have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	The injured fast bowler Umar Gul	have	replacement	O	O
+1.0	Pakistan	decide in	test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	he	replacement	Shoaib Akhtar	0	PERSON
+1.0	99	have for	have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	Mark Boucher	be	south african	PERSON	0
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of bowler	PERSON	PERSON
+1.0	99	have for	have South Africa for World XI last season	NUMBER	LOCATION
+1.0	which	have	South Africa	LOCATION	O
+1.0	99	have for	of which have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	Pakistan	decide in	first test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	99	have for	of which have South Africa	NUMBER	LOCATION
+1.0	Herschelle Gibbs	be	South African wicketkeeper Mark Boucher	PERSON	PERSON
+1.0	Shaun Pollock	be	Andrew Hall	PERSON	PERSON
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of fast bowler	PERSON	PERSON
+1.0	99	have for	have South Africa for World XI season	NUMBER	LOCATION
+1.0	Yasir Hameed	be	Younis Khan	PERSON	PERSON
+1.0	Dale Steyn	be in	switch of fast bowler	PERSON	0
+1.0	99	have for	have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	Pakistan	strengthen	they batting	LOCATION	0
+1.0	Pakistan	decide to	bat	LOCATION	0
+1.0	Faisal Iqbal	be	Kamran Akmal	PERSON	PERSON
+1.0	Pakistan	have	pace attack back by leg-spinner danish kaneria	LOCATION	0
+1.0	99	have for	of which have South Africa for World XI season	NUMBER	LOCATION
+1.0	Pakistan	have	pace attack	O	LOCATION
+1.0	Shahid Nazir	be	Mohammad Asif	PERSON	PERSON
+1.0	99	have for	of which have South Africa for World XI last season	NUMBER	LOCATION
+1.0	99	have for	of which have South Africa for World XI against Australia last season	NUMBER	LOCATION
+1.0	the	have	batting	O	O
+0.7201047883137485	Andre Nel	replace	Dale Steyn	PERSON	PERSON
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch	PERSON	PERSON
+1.0	South Africa at Centurion Park Thursday	make	one change	LOCATION	NUMBER
+1.0	99	have for	have South Africa for World XI	NUMBER	LOCATION
+1.0	Pakistan	decide in	first test	LOCATION	ORDINAL
+1.0	99	have for	have South Africa	NUMBER	LOCATION
+1.0	AB de Villiers	be	Hashim Amla	ORGANIZATION	PERSON
+1.0	Mohammad Hafeez	be	Imran Farhat	PERSON	PERSON
+1.0	Jacques Kallis	be	Ashwell Prince	PERSON	PERSON

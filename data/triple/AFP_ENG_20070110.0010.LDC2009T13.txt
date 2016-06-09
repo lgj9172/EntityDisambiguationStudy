@@ -1,0 +1,8 @@
+1.0	bird flu	have	cases	O	O
+1.0	14-year-old boy	southwest of	Jakarta	DURATION	LOCATION
+1.0	two	have	one	NUMBER	NUMBER
+1.0	country	have	death toll	0	0
+1.0	bird flu	have	died	O	O
+1.0	Jakarta	have	southwest	O	LOCATION
+1.0	spokeswoman	be in	Jakarta	0	LOCATION
+1.0	country	have	death toll	O	O

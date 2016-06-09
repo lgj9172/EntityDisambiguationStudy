@@ -1,0 +1,106 @@
+1.0	Asan	have	cities	O	O
+1.0	anti-body	have form in	person 's system	0	0
+1.0	country 's first case	be	confirm	ORDINAL	0
+1.0	person	in	immune system	0	0
+1.0	country 's case	be confirm at	poultry farm	0	0
+1.0	country 's first case	be confirm on	November 25	ORDINAL	DATE
+1.0	South Korea	be hit hard	result in cull of 5.3 million poultry at cost of about one billion dollar	LOCATION	NUMBER
+1.0	South Korea	result in	cull	LOCATION	0
+1.0	this	be	expose	0	0
+1.0	country 's case	be	confirm at poultry farm at Iksan south of Seoul	0	LOCATION
+1.0	country 's case	be confirm at	Iksan 230 kilometre south	0	NUMBER
+1.0	South Korea	be	hit hard by bird flu between December 2003	LOCATION	DATE
+1.0	country 's first case	be	confirm at poultry farm at Iksan 230 kilometre south of Seoul	ORDINAL	NUMBER
+1.0	country 's first case	be	confirm on November 25 at poultry farm at Iksan south	ORDINAL	DATE
+1.0	South Korea	result at	cost of about one billion dollar	LOCATION	MONEY
+1.0	South Korea	be hit hard	result in cull at cost	LOCATION	0
+1.0	country 's case	be	confirm on November 25 at poultry farm at Iksan	0	DATE
+1.0	South Korea	be hit hard	result at cost of about one billion dollar	LOCATION	MONEY
+1.0	worker	be	confirm	0	0
+1.0	country 's first case	be confirm at	Iksan	ORDINAL	LOCATION
+1.0	country 's case	be	confirm on November 25 at poultry farm	0	DATE
+1.0	country 's case	be	confirm on November 25 at Iksan	0	DATE
+1.0	poultry	have	cull	O	O
+1.0	South Korea	be hit hard	result in cull of 5.3 million poultry at cost	LOCATION	NUMBER
+1.0	country 's case	be confirm at	Iksan	0	LOCATION
+1.0	South Korea	result in	cull of 5.3 million poultry	LOCATION	NUMBER
+1.0	country 's first case	be	confirm at poultry farm at Iksan south	ORDINAL	LOCATION
+1.0	South Korea	be	hit	LOCATION	0
+1.0	South Korea	be hit	result at cost of about one billion dollar	LOCATION	MONEY
+1.0	Iksan	have	cities	O	LOCATION
+1.0	worker	be	confirm in February year	0	DATE
+1.0	virus	have	transmission	O	O
+1.0	country 's first case	be confirm at	Iksan south of Seoul	ORDINAL	LOCATION
+1.0	South Korea	be hit	result in cull of 5.3 million poultry at cost	LOCATION	NUMBER
+1.0	South Korea	be	hit hard	LOCATION	0
+1.0	country	have	first case of bird flu in almost three year	0	ORDINAL
+1.0	South Korea	have	incident	O	LOCATION
+1.0	country 's case	be	confirm at poultry farm at Iksan south	0	LOCATION
+1.0	country 's first case	be	confirm at poultry farm at Iksan south of Seoul	ORDINAL	LOCATION
+1.0	official	have slaughter	some 1.2 million bird	0	NUMBER
+1.0	country 's first case	be	confirm on November 25 at poultry farm at Iksan 230 kilometre south of Seoul	ORDINAL	NUMBER
+1.0	country 's first case	be confirm at	Iksan 230 kilometre south	ORDINAL	NUMBER
+1.0	country 's first case	be	confirm on November 25 at Iksan south of Seoul	ORDINAL	DATE
+1.0	country	have	third case	0	ORDINAL
+1.0	South Korea	be hit hard	result at cost	LOCATION	0
+1.0	country 's case	be	confirm on November 25 at poultry farm at Iksan 230 kilometre south of Seoul	0	NUMBER
+1.0	December	in virus be	avian influenza	DATE	0
+1.0	country 's first case	be	confirm on November 25 at poultry farm at Iksan 230 kilometre south	ORDINAL	NUMBER
+1.0	anti-body	have form in	person 's immune system	0	0
+1.0	country 's case	be	confirm at poultry farm at Iksan	0	LOCATION
+1.0	this	be expose to	ai virus	0	0
+1.0	country 's case	be confirm at	Iksan south of Seoul	0	LOCATION
+1.0	country 's case	be	confirm on November 25 at Iksan 230 kilometre south of Seoul	0	NUMBER
+1.0	country 's first case	be	confirm on November 25 at poultry farm	ORDINAL	DATE
+1.0	country 's first case	be	confirm at poultry farm at Iksan	ORDINAL	LOCATION
+1.0	country 's first case	be confirm at	Iksan south	ORDINAL	LOCATION
+1.0	country 's case	be confirm on	November 25	0	DATE
+1.0	South Korea	be hit	result in cull	LOCATION	0
+1.0	South Korea	be	hit hard by bird flu	LOCATION	0
+1.0	country 's first case	be	confirm at poultry farm at Iksan 230 kilometre south	ORDINAL	NUMBER
+1.0	worker	be confirm at_time	last year	0	DATE
+1.0	infection	have	incident	O	O
+1.0	South Korea	be hit	result in cull of 5.3 million poultry at cost of about one billion dollar	LOCATION	NUMBER
+1.0	country 's first case	be	confirm on November 25 at poultry farm at Iksan south of Seoul	ORDINAL	DATE
+1.0	country 's case	be confirm at	Iksan 230 kilometre south of Seoul	0	NUMBER
+1.0	country	have	case	O	O
+1.0	South Korea	be hit	result in cull at cost	LOCATION	0
+1.0	Welfare	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	South Korea	be hit hard	result in cull	LOCATION	0
+1.0	South Korea	be hit	result at cost	LOCATION	0
+1.0	country 's first case	be	confirm on November 25 at Iksan	ORDINAL	DATE
+1.0	bird flu	have	case	O	O
+1.0	country 's case	be	confirm on November 25 at Iksan 230 kilometre south	0	NUMBER
+1.0	Gimje	have	cities	O	PERSON
+1.0	country 's case	be confirm at	Iksan south	0	LOCATION
+1.0	South Korea	be hit	result in cull at cost of about one billion dollar	LOCATION	MONEY
+1.0	South Korea	be hit hard	result in cull of 5.3 million poultry	LOCATION	NUMBER
+1.0	person	have	system	O	O
+1.0	country 's case	be	confirm on November 25 at poultry farm at Iksan 230 kilometre south	0	NUMBER
+1.0	bird flu	be in	three year	0	DURATION
+1.0	country 's case	be	confirm	0	0
+1.0	Health	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Ministry	say in	statement	ORGANIZATION	0
+1.0	country 's case	be	confirm at poultry farm at Iksan 230 kilometre south	0	NUMBER
+1.0	South Korea	be hit	result	LOCATION	0
+1.0	country 's first case	be confirm at	poultry farm	ORDINAL	0
+1.0	country 's case	be	confirm on November 25 at Iksan south of Seoul	0	DATE
+1.0	ai virus	be in	December	0	DATE
+1.0	worker	be confirm at_time	year	0	DATE
+1.0	Seoul	have	south	O	LOCATION
+1.0	South Korea	be hit hard	result in cull at cost of about one billion dollar	LOCATION	MONEY
+1.0	country 's first case	be	confirm on November 25 at Iksan south	ORDINAL	DATE
+1.0	country 's first case	be confirm at	Iksan 230 kilometre south of Seoul	ORDINAL	NUMBER
+1.0	South Korea	result at	cost	LOCATION	0
+1.0	worker	be	confirm in February last year	0	DATE
+1.0	country 's first case	be	confirm on November 25 at Iksan 230 kilometre south of Seoul	ORDINAL	NUMBER
+1.0	country 's case	be	confirm on November 25 at poultry farm at Iksan south of Seoul	0	DATE
+1.0	worker	be confirm in	February	0	DATE
+1.0	country 's first case	be	confirm on November 25 at poultry farm at Iksan	ORDINAL	DATE
+1.0	country 's case	be	confirm on November 25 at poultry farm at Iksan south	0	DATE
+1.0	country 's first case	be	confirm on November 25 at Iksan 230 kilometre south	ORDINAL	NUMBER
+1.0	official	have slaughter	some 1.2 million bird at farm	0	NUMBER
+1.0	country 's case	be	confirm on November 25 at Iksan south	0	DATE
+1.0	country 's case	be	confirm at poultry farm at Iksan 230 kilometre south of Seoul	0	NUMBER
+1.0	South Korea	be hit	result in cull of 5.3 million poultry	LOCATION	NUMBER
+1.0	South Korea	be hit hard	result	LOCATION	0

@@ -1,0 +1,79 @@
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Bush	be part of	new insurgency strategy	PERSON	0
+1.0	Bush	make	first post	PERSON	ORDINAL
+1.0	Condoleezza Rice	head to	Middle East Friday	PERSON	LOCATION
+1.0	US President George W. Bush	lay groundwork for	new strategy	PERSON	0
+1.0	Bush	will reportedly announce	new job program for Iraq	PERSON	LOCATION
+1.0	Baath Party	have	members	O	ORGANIZATION
+1.0	John Abizaid	head of	Central command	PERSON	ORGANIZATION
+1.0	US President George W. Bush	have shuffle deck for	Iraq	PERSON	LOCATION
+1.0	Bush	be part of	anti- insurgency strategy	PERSON	0
+1.0	Bush	will also announce	job program for Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	have	command	O	O
+1.0	State	have	Secretary	O	ORGANIZATION
+1.0	US President George W. Bush	tinker with	he national security team	PERSON	0
+1.0	Bush	will also reportedly announce	job program for Iraq	PERSON	LOCATION
+1.0	Bush	will reportedly announce	new job program	PERSON	0
+1.0	insurgency strategy	have	part	O	O
+1.0	US official	say on	condition	LOCATION	0
+1.0	Bush	will reportedly announce	job program	PERSON	0
+1.0	Condoleezza Rice	sell us strategy to	wary ally	PERSON	0
+1.0	Bush	will also reportedly announce	new job program	PERSON	0
+1.0	US President George W. Bush	tinker with	he security team	PERSON	0
+1.0	militia	have	pool	O	O
+1.0	US President George W. Bush	overhaul	he chain of command	PERSON	0
+1.0	Bush	also make	first post	PERSON	ORDINAL
+1.0	Bush	will reportedly announce	job program for Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	have shuffle	deck in he military command	PERSON	0
+1.0	Bush	make	post	PERSON	0
+1.0	US President George W. Bush	have already shuffle deck for	Iraq	PERSON	LOCATION
+1.0	Bush	will also announce	new job program	PERSON	0
+1.0	Bush	be part of	insurgency strategy	PERSON	0
+1.0	Condoleezza Rice	sell us strategy to	ally	PERSON	0
+1.0	US President George W. Bush	have shuffle	deck	PERSON	0
+1.0	Bush	will also reportedly announce	new job program for Iraq	PERSON	LOCATION
+1.0	Bush	also make	Deputy Secretary	PERSON	0
+1.0	command	have	chain	O	O
+1.0	US President George W. Bush	have already shuffle	deck	PERSON	0
+1.0	Bush	will announce	job program for Iraq	PERSON	LOCATION
+1.0	Bush	also make	Deputy Secretary of State	PERSON	ORGANIZATION
+1.0	troops	have	surge	O	O
+1.0	Central Command	have	head	O	ORGANIZATION
+1.0	intelligence	have	director	O	O
+1.0	his	have	chain	O	O
+1.0	Bush	make	intelligence czar John Negroponte	PERSON	PERSON
+1.0	US President George W. Bush	lay	groundwork	PERSON	0
+1.0	Condoleezza Rice	sell	new US strategy	PERSON	LOCATION
+1.0	US President George W. Bush	have already shuffle	deck in he military command	PERSON	0
+1.0	US official	say on	condition of anonymity	LOCATION	0
+1.0	Bush	be	part	PERSON	0
+1.0	Bush	will also announce	job program	PERSON	0
+1.0	Iraq	have	control	O	LOCATION
+1.0	Bush	will announce	new job program for Iraq	PERSON	LOCATION
+1.0	Bush	will announce	job program	PERSON	0
+1.0	Condoleezza Rice	sell	US strategy	PERSON	LOCATION
+1.0	Bush	also make	post	PERSON	0
+1.0	US President George W. Bush	overhaul	he chain	PERSON	0
+1.0	Bush	will also announce	new job program for Iraq	PERSON	LOCATION
+1.0	US President George W. Bush	have	plan	O	O
+1.0	oil revenue	have	distribution	O	O
+1.0	US President George W. Bush	lay groundwork for	strategy	PERSON	0
+1.0	US President George W. Bush	have shuffle	deck in he command	PERSON	0
+1.0	Bush	make	Deputy Secretary	PERSON	0
+1.0	General John Abizaid	hand to	to admiral William Fallon	PERSON	PERSON
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	John Negroponte	secretary of	State	PERSON	ORGANIZATION
+1.0	Bush	will announce	new job program	PERSON	0
+1.0	Saddam Hussein	have	Baath Party	ORGANIZATION	PERSON
+1.0	Bush	be part of	new anti- insurgency strategy	PERSON	0
+1.0	US President George W. Bush	have	security team	O	O
+1.0	Bush	make	Deputy Secretary of State	PERSON	ORGANIZATION
+1.0	benchmarks	have	series	O	O
+1.0	Bush	will also reportedly announce	job program	PERSON	0
+1.0	deck	be in	he military command	0	0
+1.0	State	have	Deputy Secretary	O	ORGANIZATION
+1.0	Bush	also make	intelligence czar John Negroponte	PERSON	PERSON
+1.0	US President George W. Bush	have already shuffle	deck in he command	PERSON	0
+1.0	anonymity	have	condition	O	O
+1.0	Iraq	have	government	O	LOCATION
+1.0	Iraq	have	government take on political reconciliation reportedly worth a billion dollar	LOCATION	MONEY

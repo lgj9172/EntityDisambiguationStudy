@@ -1,0 +1,141 @@
+1.0	Romney 59	serve to	president to	PERSON	0
+1.0	A Boston businessman	stand against	Ted Kennedy	0	PERSON
+1.0	Mitt Romney	be	Massachusetts	PERSON	LOCATION
+1.0	November	have	elections	O	DATE
+1.0	he father	run in	1968 presidential election	0	DATE
+1.0	most poll	put	Romney at leader Newt Gingrich	0	PERSON
+1.0	gay marriage	be	put	0	0
+1.0	it	be on	he reputation as manager	0	0
+1.0	he	be	only US state	0	LOCATION
+1.0	Romney , 59	be	59	PERSON	NUMBER
+0.7626103577685961	Romney , 59	say at_time	Wednesday	PERSON	DATE
+1.0	A Boston businessman	have	reputation	O	O
+0.7493276532465951	support	lean	voter	0	0
+1.0	Romney , 59	be form	committee	0	0
+1.0	A Boston businessman	face	budgetary difficulty	0	0
+1.0	Games	have	plaudits	O	O
+1.0	Mitt Romney	be governor of	Massachusetts	PERSON	LOCATION
+1.0	A Boston businessman	be bring in	earn plaudit of Games	0	0
+0.6632923042140421	move	seek	Republican Party nomination	0	ORGANIZATION
+1.0	John McCain	have make	preliminary move	PERSON	0
+1.0	Rudolph Giuliani	mccain of	House of Representatives	PERSON	ORGANIZATION
+1.0	he father	run for	republican candidacy	0	0
+1.0	party	have	candidate for 2008 election	0	DATE
+1.0	vote	have	percent	PERCENT	O
+1.0	Romney , 59	be	unelectable	0	0
+1.0	A Boston businessman	be	in 1999 bring in earn plaudit	0	DATE
+1.0	A Boston businessman	be	bring	0	0
+1.0	poll	put	Romney	0	PERSON
+1.0	he father	run for	candidacy	0	0
+1.0	he	be outspoken critic of	gay marriage	0	0
+0.14059619431790493	he	be	only US state allow	0	LOCATION
+1.0	A Boston businessman	be bring in	plaudit of Games	0	0
+1.0	Newt Gingrich	be leader of	House of Representatives	PERSON	ORGANIZATION
+1.0	son	be bear in	1947	0	DATE
+1.0	Newt Gingrich	be at	fourth	PERSON	ORDINAL
+1.0	he	be in	most recently headline	0	DATE
+1.0	A Boston businessman	be	in 1999 bring in earn plaudit for he handling of Games	0	DATE
+1.0	Winter Olympics	have	organization	O	MISC
+1.0	Romney , 59	be form committee with	eye	0	0
+1.0	A Boston businessman	be	in 1999 bring in earn plaudit for he handling	0	DATE
+0.14059619431790493	he	be	despite Massachusetts only US state allow	0	LOCATION
+0.7626103577685961	Romney , 59	say in	statement	PERSON	0
+1.0	he	be	despite Massachusetts US state	0	LOCATION
+1.0	it	be on	he reputation as good manager	0	0
+1.0	Republican	have	percent	PERCENT	ORGANIZATION
+1.0	A Boston businessman	be	elect	0	0
+1.0	The son of the former governor of Michigan , Romney	have	five son	0	NUMBER
+1.0	american	vote for	female candidate	0	0
+1.0	most poll	put	Romney	0	PERSON
+0.14059619431790493	he	be	despite Massachusetts US state allow	0	LOCATION
+1.0	anti-abortion	be	consider	0	0
+1.0	Romney , 59	be form committee with	eye run in primary election	0	0
+0.14059619431790493	he	be	US state allow	0	LOCATION
+1.0	he	make	he money	0	0
+1.0	Massachusetts	have	law	O	LOCATION
+1.0	most poll	put	Romney at fourth leader Newt Gingrich	0	ORDINAL
+1.0	son	be	bear in Detroit in 1947	0	DATE
+1.0	Massachusetts	have	governor	O	LOCATION
+1.0	A Boston businessman	be	in 1999 bring in plaudit for he handling of Games	0	DATE
+1.0	he	be	critic	0	0
+1.0	Romney , 59	would	would first Mormon	PERSON	ORDINAL
+1.0	A Boston businessman	face	difficulty	0	0
+1.0	he	father	George	0	PERSON
+1.0	he	be	outspoken	0	0
+1.0	Rudolph Giuliani	be mayor of	New York City	PERSON	LOCATION
+1.0	son	be marry for	37 year	0	DURATION
+1.0	John McCain	be	Arizona	PERSON	LOCATION
+1.0	The son of the former governor of Michigan , Romney	have	father	O	O
+1.0	A Boston businessman	unsuccessfully stand for	Massachusetts senator	0	LOCATION
+1.0	A Boston businessman	be	in 1999 bring in plaudit	0	DATE
+1.0	son	be	marry	0	0
+1.0	management consultancy firm	have	businessman chief executive	O	O
+1.0	Rudolph Giuliani	be behind	New York City	PERSON	LOCATION
+1.0	John McCain	have make	move	PERSON	0
+1.0	he	be	outspoken critic	0	0
+1.0	Romney , 59	elect	governor of Massachusetts	PERSON	LOCATION
+1.0	state	have	governor	O	O
+1.0	poll	put	Romney at fourth leader Newt Gingrich	0	ORDINAL
+1.0	John McCain	be senator of	Arizona	PERSON	LOCATION
+1.0	Romney , 59	be form committee with	eye run in election	0	0
+1.0	investment company	have	businessman chief executive	O	O
+1.0	governor of Massachusetts	have	ambition	O	O
+1.0	governor	have	son	O	O
+1.0	Mitt Romney	have	views	O	O
+1.0	A Boston businessman	be bring in	plaudit for he handling of Games	0	0
+1.0	A Boston businessman	be bring in	1999	0	DATE
+1.0	Romney , 59	have	money	O	O
+1.0	he	be in	recently headline	0	DATE
+1.0	Romney , 59	be form committee with	eye run	0	0
+1.0	A Boston businessman	be elect in	2002 as governor	0	DATE
+1.0	Romney , 59	elect governor in	2002	PERSON	DATE
+1.0	whose term	end at_time	Thursday	0	DATE
+1.0	Republican	have	percent	PERCENT	O
+1.0	whose	have	term	O	O
+1.0	John McCain	have make move like	Romney , 59	PERSON	PERSON
+1.0	A Boston businessman	be bring in	earn plaudit	0	0
+1.0	he	be	US state	0	LOCATION
+1.0	marriage	have	critic	O	O
+1.0	A Boston businessman	be bring in	plaudit for he handling	0	0
+1.0	Romney , 59	would	would Mormon	PERSON	MISC
+1.0	A Boston businessman	be	in 1999 bring in plaudit of Games	0	DATE
+1.0	only US state	allow	practice	LOCATION	0
+1.0	Romney 59	would	would first Mormon	PERSON	ORDINAL
+1.0	A Boston businessman	be	in 1999 bring in plaudit for he handling	0	DATE
+1.0	ambition	have	secret	O	O
+1.0	he father	run in	1968 election	0	DATE
+1.0	he	be critic of	gay marriage	0	0
+1.0	marriage	be	put	0	0
+1.0	A Boston businessman	be bring in	earn plaudit for he handling of Games	0	0
+1.0	son	be	bear	0	0
+1.0	Michigan Romney	have	governor	O	PERSON
+1.0	Romney 59	would	would Mormon	PERSON	MISC
+1.0	it	be on	he reputation	0	0
+1.0	Romney , 59	be form	preliminary committee	0	0
+1.0	son	be bear in	Detroit	0	LOCATION
+1.0	he	be critic of	marriage	0	0
+1.0	american	be	prepared	0	0
+1.0	he	be in	headline	0	0
+1.0	A Boston businessman	be bring in	earn plaudit for he handling	0	0
+1.0	John McCain	be of	House of Representatives	PERSON	ORGANIZATION
+1.0	A Boston businessman	unsuccessfully stand against	Ted Kennedy	0	PERSON
+1.0	anti-abortion tough	be	consider	0	0
+1.0	Massachusetts	have	state	O	LOCATION
+1.0	american	be	more prepared	0	0
+1.0	A Boston businessman	be elect in	2002 as governor for Massachusetts	0	DATE
+1.0	party	have	candidate	O	O
+1.0	he	be	despite Massachusetts only US state	0	LOCATION
+1.0	A Boston businessman	stand for	Massachusetts senator	0	LOCATION
+1.0	Romney , 59	elect	governor	PERSON	0
+1.0	Romney	be at	Newt Gingrich	PERSON	PERSON
+1.0	US state	allow	practice	LOCATION	0
+1.0	Romney , 59	serve to	president to	PERSON	0
+1.0	Romney	be	successful	PERSON	0
+1.0	he	be outspoken critic of	marriage	0	0
+0.6632923042140421	preliminary move	seek	Republican Party nomination	0	ORGANIZATION
+1.0	american	vote for	candidate	0	0
+1.0	Representatives	have	Arizona John McCain	PERSON	ORGANIZATION
+1.0	A Boston businessman	be bring in	plaudit	0	0
+1.0	poll	put	Romney at leader Newt Gingrich	0	PERSON
+1.0	A Boston businessman	be	in 1999 bring in earn plaudit of Games	0	DATE
+1.0	A Boston businessman	have	handling	O	O

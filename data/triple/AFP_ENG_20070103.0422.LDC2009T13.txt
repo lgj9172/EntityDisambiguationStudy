@@ -1,0 +1,53 @@
+1.0	he death	be in	2004	0	DATE
+1.0	Angela Borlaza	have seek	627,000 dollar in actual damages	PERSON	MONEY
+1.0	Angela Borlaza	rise to	executive assistant	PERSON	0
+1.0	Angela Borlaza	work	rise	PERSON	0
+1.0	Borlaza	agree accord to	papers file	PERSON	0
+1.0	Angela Borlaza	work until	he death	PERSON	0
+1.0	Borlaza	agree accord to	papers file in case in Los Angeles	PERSON	LOCATION
+1.0	Angela Borlaza	evict	she	PERSON	0
+1.0	the late actor 's	have	death	O	O
+1.0	Borlaza	have	attorney Joel Pipes	PERSON	PERSON
+1.0	Angela Borlaza	work until	he death ago	PERSON	DATE
+1.0	related case	be in	Los Angeles	0	LOCATION
+1.0	Angela Borlaza	work	rise to executive assistant	PERSON	0
+1.0	Brando	be for	nine year from February 1995	PERSON	DATE
+1.0	Borlaza	settle claim in	exchange	PERSON	0
+1.0	Borlaza	settle claim in	exchange for 125,000 dollar	PERSON	MONEY
+1.0	Borlaza	agree accord to	papers file in case in Los Angeles on December 22	PERSON	LOCATION
+1.0	Angela Borlaza	work until	he death and-a-half year ago	PERSON	DATE
+1.0	home	have	out cheated	O	O
+1.0	her	have	lawsuit	O	O
+1.0	Marlon Brando	leave to	she	0	0
+1.0	Brando	of	estate	PERSON	0
+1.0	action	be	settle	0	0
+1.0	she lawyer	say at_time	Wednesday	0	DATE
+1.0	Los Angeles	be on	December 22	LOCATION	DATE
+1.0	Borlaza	have	Joel Pipes	PERSON	PERSON
+1.0	legal action	be	settle	0	0
+1.0	Borlaza	agree accord to	papers file in related case	PERSON	0
+1.0	Borlaza	settle	claim	PERSON	0
+1.0	estate	have	executors	O	O
+1.0	late actor	of	estate	0	0
+1.0	Borlaza	agree accord to	papers file in case	PERSON	0
+1.0	actor	have	estate	O	O
+1.0	Angela Borlaza	work for	Brando	PERSON	PERSON
+0.4618770714208407	lawsuit	file	last year	0	DATE
+1.0	Angela Borlaza	rise accord to	she lawsuit	PERSON	0
+1.0	she	have	lawyer	O	O
+1.0	Borlaza	agree accord to	papers	PERSON	0
+1.0	Marlon Brando	have promise	leave	0	0
+1.0	Angela Borlaza	work	rise from cook to executive assistant	PERSON	DATE
+1.0	Angela Borlaza	work for	Brando for nine year	PERSON	PERSON
+1.0	Borlaza	agree accord to	papers file in related case in Los Angeles on December 22	PERSON	LOCATION
+1.0	Angela Borlaza	work	rise from cook	PERSON	DATE
+1.0	his	have	death	O	O
+1.0	627,000 dollar	be in	actual damages	MONEY	0
+1.0	Borlaza	agree accord to	papers file in related case in Los Angeles	PERSON	LOCATION
+1.0	Angela Borlaza	have seek	627,000 dollar in damages	PERSON	MONEY
+0.4618770714208407	lawsuit	file	year	0	DATE
+1.0	Angela Borlaza	have seek	627,000 dollar	PERSON	MONEY
+1.0	Joel Pipes	be attorney of	Borlaza	PERSON	PERSON
+1.0	Angela Borlaza	rise from	cook	PERSON	0
+1.0	Brando	have	estate	O	PERSON
+1.0	Angela Borlaza	work for	Brando for nine year from February 1995	PERSON	DATE

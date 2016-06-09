@@ -1,0 +1,42 @@
+1.0	ktm rider	win motorcycle section of	ahead compatriot leader Marc Coma	0	PERSON
+1.0	top six place	be with	villadom	NUMBER	DURATION
+1.0	Jordi Villadoms	be rider of	ktm	PERSON	0
+1.0	spanish ktm rider	win motorcycle section of	compatriot leader Marc Coma	0	PERSON
+1.0	394km	here finish	57sec of coma 57sec	0	DURATION
+1.0	394km	here finish	57sec ahead of coma 57sec	0	DURATION
+1.0	ktm rider	win	motorcycle section of sixth stage of of 2007 Dakar Rally	0	LOCATION
+1.0	spanish ktm rider	win	motorcycle section of stage of of 2007 Dakar Rally	0	LOCATION
+1.0	spanish ktm rider	win	motorcycle section of sixth stage of of 2007 Dakar Rally	0	LOCATION
+1.0	spanish ktm rider	win	motorcycle section of sixth stage	0	ORDINAL
+1.0	Coma 57sec	have	57sec	O	O
+1.0	American Chris Blais	have	won	O	PERSON
+1.0	stages	have	394km	O	O
+1.0	spanish ktm rider	win	motorcycle section of stage of of 2007 Dakar Rally on Thursday	0	DATE
+1.0	compatriot race leader Marc Coma	have	won	O	PERSON
+1.0	394km	finish	57sec ahead of coma 57sec	0	DURATION
+0.7681933335395105	KTM rider	cover	394km of stage between Tan-Tan	ORGANIZATION	DURATION
+1.0	ktm rider	win	motorcycle section of stage of of 2007 Dakar Rally on Thursday	0	DATE
+1.0	stage	have	motorcycle section	O	O
+1.0	KTM rider	take	top six place	ORGANIZATION	NUMBER
+1.0	394km	finish	57sec	0	0
+1.0	KTM rider	take	six place	ORGANIZATION	NUMBER
+1.0	ktm rider	win	motorcycle section	0	0
+0.7681933335395105	KTM rider	cover	394km of special stage	ORGANIZATION	DURATION
+1.0	spanish ktm rider	win	motorcycle section of sixth stage of of 2007 Dakar Rally on Thursday	0	DATE
+1.0	Chris Blais	be	American	PERSON	MISC
+1.0	ktm rider	win	motorcycle section of stage	0	0
+1.0	KTM rider	take	top six place with villadom	ORGANIZATION	NUMBER
+1.0	ktm rider	win	motorcycle section of sixth stage of of 2007 Dakar Rally on Thursday	0	DATE
+1.0	spanish ktm rider	win	motorcycle section of stage	0	0
+1.0	spanish ktm rider	win	motorcycle section	0	0
+1.0	spanish ktm rider	win motorcycle section of	ahead compatriot leader Marc Coma	0	PERSON
+1.0	394km	here finish	57sec	0	0
+0.7681933335395105	KTM rider	cover 394km in	Morocco	ORGANIZATION	LOCATION
+1.0	394km	finish	57sec of coma 57sec	0	DURATION
+1.0	Dakar Rally	have	stage	O	O
+0.7681933335395105	KTM rider	cover	394km	ORGANIZATION	0
+0.7681933335395105	KTM rider	cover	394km of stage	ORGANIZATION	DURATION
+1.0	ktm rider	win	motorcycle section of stage of of 2007 Dakar Rally	0	LOCATION
+1.0	KTM rider	take	six place with villadom	ORGANIZATION	NUMBER
+1.0	ktm rider	win motorcycle section of	compatriot leader Marc Coma	0	PERSON
+1.0	ktm rider	win	motorcycle section of sixth stage	0	ORDINAL

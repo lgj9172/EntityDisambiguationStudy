@@ -1,0 +1,167 @@
+1.0	Olmert 's remark	slam	brake	PERSON	0
+1.0	talks	have	contents	O	O
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk	PERSON	0
+1.0	Olmert and Hu	have	talks	O	O
+1.0	its programme	be for	energy use	0	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus mainly	PERSON	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus mainly	PERSON	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	community	prepare for	next round of sanction	0	0
+1.0	China	be player as	member of UN security Council	LOCATION	ORGANIZATION
+1.0	Wen Jiabao	be with	chinese	PERSON	0
+1.0	Israeli Prime Minister Ehud Olmert	will also attend concert after	he meeting schedule	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	will also attend concert after	he meeting	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	premier	have	visit	O	O
+1.0	China	be player as	veto-wielding member	LOCATION	0
+1.0	premier 's three-day visit	draw to	end	DURATION	0
+1.0	Hu Jintao	be	Chinese	PERSON	MISC
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder	PERSON	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus mainly on Iran 's nuclear programme	PERSON	LOCATION
+1.0	senior official	tell	afp	0	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	Iran	have	programme	O	LOCATION
+1.0	Chinese President Hu Jintao	will host here	israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate	0	0
+1.0	Chinese President Hu Jintao	will host	israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	community	prepare for	round of sanction	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call	PERSON	LOCATION
+0.44994352747590716	talk	focus mainly on	Iran programme	0	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	international community	prepare for	round of sanction	0	0
+1.0	China	be player as	veto-wielding permanent member	LOCATION	0
+1.0	Israeli Prime Minister Ehud Olmert	will also attend concert after	he meeting schedule for afternoon	PERSON	TIME
+1.0	that	impose sanction on	Iran 's	0	LOCATION
+1.0	China	be pivotal player as	member of UN security Council	LOCATION	ORGANIZATION
+1.0	premier 's visit	draw to	end	0	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus	PERSON	0
+1.0	China	be	player	LOCATION	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus	PERSON	0
+1.0	China	be pivotal player as	permanent member	LOCATION	0
+1.0	Israeli Prime Minister Ehud Olmert	have	talks	O	O
+1.0	international community	prepare for	next round	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	China	be pivotal player as	veto-wielding member of UN security Council	LOCATION	ORGANIZATION
+1.0	Olmert	have	remarks	O	PERSON
+1.0	sanctions	have	round	O	O
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus on Iran 's programme	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus mainly on Iran 's programme	PERSON	LOCATION
+1.0	community	prepare in	coming month	0	DATE
+0.44994352747590716	talk	focus on	Iran nuclear programme	0	LOCATION
+1.0	its programme	be for	only energy use	0	0
+1.0	his	have	talks	O	O
+1.0	China	be pivotal player as	permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk	PERSON	0
+1.0	China	be player as	veto-wielding member of UN security Council	LOCATION	ORGANIZATION
+1.0	its nuclear programme	be for	energy use	0	0
+1.0	talks	have	brunt	O	O
+1.0	shoulder	have	expectations	O	O
+1.0	that	impose	limited sanction	0	0
+1.0	international community	prepare for	next round of sanction	0	0
+1.0	Israeli Prime Minister Ehud Olmert	will also attend	concert	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder	PERSON	0
+1.0	China	be pivotal player as	veto-wielding permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Iran	refuse	bow to UN demand	LOCATION	ORGANIZATION
+1.0	Chinese President Hu Jintao	will host here	Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	leader	stress	wen	0	0
+1.0	its	have	position	O	O
+1.0	community	prepare in	month	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Iran	refuse	bow	LOCATION	0
+1.0	state	have	call	O	O
+0.5438576007626847	Olmert	implementation of	December 23 resolution	PERSON	DATE
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	its nuclear programme	be for	only energy use	0	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder	PERSON	0
+1.0	its	have	economy	O	O
+1.0	Israeli Prime Minister Ehud Olmert	will attend	concert	PERSON	0
+1.0	talk	be with	Wen Jiabao	0	PERSON
+1.0	international community	prepare in	month	0	0
+1.0	community	prepare for	next round of sanction against Iran	0	LOCATION
+1.0	China	be pivotal player as	veto-wielding permanent member	LOCATION	0
+1.0	its	have	need	O	O
+1.0	official	tell	afp	0	0
+1.0	international community	prepare in	coming month	0	DATE
+1.0	Israeli Prime Minister Ehud Olmert	will attend concert after	he meeting	PERSON	0
+1.0	China	be player as	permanent member	LOCATION	0
+1.0	international community	prepare for	round	0	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus on Iran 's programme	PERSON	LOCATION
+1.0	its need for Iranian oil	have	programme	O	O
+1.0	Olmert	have	remark	PERSON	0
+1.0	international community	prepare for	next round of sanction against Iran	0	LOCATION
+0.44994352747590716	talk	focus mainly on	Iran nuclear programme	0	LOCATION
+1.0	China	make	it clear	LOCATION	0
+1.0	Olmert 's remark	contrast with	israeli expectation	PERSON	0
+1.0	Iran	over	nuclear programme	LOCATION	0
+1.0	Olmert 's remark	contrast with	expectation	PERSON	0
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate on contents	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	Iran	on	nuclear ambition	LOCATION	0
+1.0	premier	have	three-day visit to Beijing	0	DURATION
+1.0	Iran	on	nuclear programme	LOCATION	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus on Iran 's nuclear programme	PERSON	LOCATION
+1.0	China	be	pivotal	LOCATION	0
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus on Iran 's nuclear programme	PERSON	LOCATION
+1.0	talk	be	front	0	0
+1.0	israeli leader	stress	wen	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder	PERSON	0
+1.0	Wen Jiabao	have	counterpart Wen Jiabao	PERSON	O
+1.0	China	oppose iran with	bomb	0	0
+1.0	UN Security Council	have	member	O	ORGANIZATION
+1.0	December resolution	have	implementation	O	O
+1.0	that	impose	sanction	0	0
+1.0	community	prepare for	next round	0	0
+1.0	China	oppose iran with	nuclear bomb	0	0
+1.0	jewish state	over	call for tough sanction	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	China	be player as	member	LOCATION	0
+1.0	China	be pivotal player as	veto-wielding member	LOCATION	0
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate on contents of he talk	0	0
+1.0	Olmert 's remark	slam brake on	Iran 's ambition	PERSON	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	will attend concert after	he meeting schedule	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	have	meeting	O	O
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	China	oppose	Iran	0	LOCATION
+0.7863880899336431	Olmert	discuss	implementation	PERSON	0
+1.0	talk	be front for	atomic weapon development	0	0
+1.0	ties	have	years	DURATION	O
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here for	talk focus mainly on Iran 's programme	PERSON	LOCATION
+0.44994352747590716	talk	focus on	Iran programme	0	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	China	be pivotal player as	member	LOCATION	0
+1.0	international community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	will attend concert after	he meeting schedule for late afternoon	PERSON	TIME
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert for	talk focus mainly on Iran 's nuclear programme	PERSON	LOCATION
+1.0	community	prepare for	round	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing	PERSON	LOCATION
+1.0	China	be player as	veto-wielding permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Iran	have	ambitions	O	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call	PERSON	LOCATION
+0.7863880899336431	Olmert	discuss	implementation of December 23 resolution	PERSON	DATE
+1.0	China	make	it absolutely clear	LOCATION	0
+1.0	Olmert 's remark	slam brake on	Iran 's nuclear ambition	PERSON	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	hold on	Wednesday	PERSON	DATE
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert at_time	Thursday	PERSON	DATE
+1.0	talk	be front for	weapon development	0	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	will host prime minister ehud olmert here at_time	Thursday	PERSON	DATE
+1.0	Israeli Prime Minister Ehud Olmert	will attend concert after	he meeting schedule for afternoon	PERSON	TIME
+1.0	China	be player as	permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Israeli Prime Minister Ehud Olmert	will also attend concert after	he meeting schedule for late afternoon	PERSON	TIME
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Chinese President Hu Jintao	will host	Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	China	be	pivotal player	LOCATION	0

@@ -1,0 +1,35 @@
+1.0	Malaysia	tighten security at_time	last month	LOCATION	DATE
+1.0	border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	Malaysia	tighten security at_time	month	LOCATION	DATE
+1.0	its	have	border	O	O
+1.0	Thai fuel smugglers	have	group	O	O
+1.0	Malaysia 's	have	defence ministry	O	LOCATION
+1.0	Malaysia	tighten	security	LOCATION	0
+1.0	Malaysia 's	have offer	explanation for incident	LOCATION	0
+1.0	Malaysia 's	have offer	different explanation	LOCATION	0
+1.0	Malaysia	have	deputy army chief	O	LOCATION
+1.0	Malaysia	have	military	O	LOCATION
+1.0	malaysian border official	be attack by	group	0	0
+1.0	Malaysia 's military	have	base	O	O
+1.0	Southern Thailand	be in	grip	LOCATION	0
+1.0	border official	be attack by	group	0	0
+1.0	malaysian border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	Muhammad Ismail Jamaluddin	be deputy army chief lieutenant general of	Malaysia	PERSON	LOCATION
+1.0	our	have	side	O	O
+1.0	Malaysia 's	have offer	different explanation for incident	LOCATION	0
+1.0	Malaysia	tighten security with	Thailand	LOCATION	LOCATION
+1.0	Malaysia 's military	say at_time	Friday seven	LOCATION	NUMBER
+0.8945479728213065	Malaysia	restrict	entry	LOCATION	0
+1.0	attack	be	isolate	0	0
+1.0	Malaysia	tighten security on	its border	LOCATION	0
+1.0	entry	ban	Thai motorcycle	0	MISC
+1.0	border official	be	attack	0	0
+1.0	malaysian border official	be	attack	0	0
+1.0	their	have	motives	O	O
+1.0	Thai soldier	conduct	joint patrol	MISC	0
+1.0	Thai soldier	conduct	patrol	MISC	0
+1.0	Malaysia	have	military	LOCATION	0
+1.0	Malaysia 's	have offer	explanation	LOCATION	0
+1.0	Lieutenant General Muhammad Ismail Jamaluddin	dismiss	Thai account	PERSON	MISC
+1.0	Malaysia	have	deputy army chief	LOCATION	0
+1.0	insurgency	have	grip	O	O

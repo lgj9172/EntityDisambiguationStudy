@@ -1,0 +1,152 @@
+1.0	it	be	first known US strike in Somalia	0	LOCATION
+1.0	it	be	US military strike	0	LOCATION
+1.0	Osama bin Laden	be leader of	Al-Qaeda	PERSON	ORGANIZATION
+1.0	resident	report	new US air strike	0	LOCATION
+1.0	offensive	begin at_time	last month	0	DATE
+1.0	conflict	have	escalation	O	O
+1.0	Gedi	also appeal to	community	PERSON	0
+1.0	it	be	known US military strike	0	LOCATION
+1.0	Gedi	support	initiative see as way	PERSON	0
+1.0	Gedi	support	initiative see widely as way	PERSON	0
+1.0	Ban Ki-Moon	be secretary general of	United Nations	PERSON	ORGANIZATION
+1.0	report	come amid	criticism of US action	0	LOCATION
+1.0	it	follow	rout	0	0
+1.0	its	have	troops	O	O
+1.0	Yusuf Ismail Aden	tell afp in	Mogadishu	PERSON	LOCATION
+1.0	resident	report	US air strike	0	LOCATION
+1.0	offensive	begin under	cosh	0	0
+1.0	Somali elders	could contribute to	escalation of conflict in Horn	0	LOCATION
+1.0	it	be	first known US military strike	0	LOCATION
+1.0	Pentagon	deny us involvement in	at least two helicopter strike in region	ORGANIZATION	NUMBER
+1.0	Somali Prime Minister Ali Mohamed Gedi	remain	silent	PERSON	0
+1.0	it	be	US military strike there in 1994	0	LOCATION
+1.0	Chris Isleib	be	The Pentagon	PERSON	ORGANIZATION
+1.0	ethiopian-backed offensive	begin at_time	last month	0	DATE
+1.0	Islamists	seize	Mogadishu in June	MISC	LOCATION
+1.0	it	be	US strike	0	LOCATION
+1.0	US air strike	be	immediately condemn	LOCATION	0
+1.0	it	be	first US strike in Somalia	0	LOCATION
+1.0	Pentagon	deny us involvement in	at least two later helicopter strike in region report	ORGANIZATION	NUMBER
+1.0	it	be	known US strike in Somalia	0	LOCATION
+1.0	Gedi	support	initiative see	PERSON	0
+1.0	report	come amid	criticism of US military action	0	LOCATION
+1.0	move	send in	peacekeeper	0	0
+1.0	Pentagon	deny us involvement in	at least two later helicopter strike in region	ORGANIZATION	NUMBER
+1.0	Pentagon	deny us involvement in	at least two helicopter strike in region report by somali defense ministry	ORGANIZATION	NUMBER
+1.0	Somali elders	could contribute to	escalation	0	0
+1.0	Abdirahman Dinari	be	somali	PERSON	0
+1.0	its	have	intervention	O	O
+1.0	resident	report	new US air strike on Al-Qaeda target	0	LOCATION
+1.0	it	be	first known US strike there in 1994	0	LOCATION
+1.0	offensive	begin under	cosh of movement	0	0
+1.0	Islamists	seize	Mogadishu	MISC	LOCATION
+1.0	resident	report us air strike in	southern Somalia	0	LOCATION
+1.0	it	be	US strike in Somalia	0	LOCATION
+1.0	american air strike	be in	today	0	DATE
+1.0	Pentagon	deny us involvement in	at least two later helicopter strike in region report by defense ministry	ORGANIZATION	NUMBER
+1.0	ethiopian-backed offensive	begin under	cosh of movement	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	remain on	US raid	PERSON	LOCATION
+1.0	Somali elders	could contribute to	escalation of conflict	0	LOCATION
+1.0	it	be	US military strike in Somalia	0	LOCATION
+1.0	first known US military strike	be in	Somalia	LOCATION	MISC
+1.0	Somali elders	could contribute to	escalation of conflict in Horn of Africa	0	LOCATION
+1.0	report	come amid	mount criticism	0	0
+1.0	it	be	US strike there in 1994	0	LOCATION
+1.0	offensive	begin at_time	month	0	DATE
+1.0	Pentagon	deny us involvement in	at least two helicopter strike in region report by defense ministry	ORGANIZATION	NUMBER
+1.0	government	have	offensive	O	O
+1.0	report	come in	southern Somalia	0	LOCATION
+1.0	southern Somalia	have without	have function central authority	LOCATION	0
+1.0	it	be	US strike in Somalia there in 1994	0	LOCATION
+1.0	southern Somalia	be	function	LOCATION	0
+1.0	it	be	first known US strike	0	LOCATION
+1.0	The United States	have	bombings	O	LOCATION
+1.0	another	be	Abu Taha al-Sudani	0	PERSON
+1.0	Osama bin Laden	be close to	Al-Qaeda	PERSON	ORGANIZATION
+1.0	Yusuf Ismail Aden	tell	AFP	PERSON	ORGANIZATION
+1.0	Elders	be in	Badade	0	LOCATION
+1.0	it	be	first US military strike there in 1994	0	LOCATION
+1.0	Gedi	support	initiative	PERSON	0
+1.0	much	have	control	O	O
+1.0	country	by	defeat islamist movement	0	0
+1.0	UN security Council	discuss	move	ORGANIZATION	0
+1.0	it	be	first known US strike in Somalia there in 1994	0	LOCATION
+1.0	responsible embassy	be in	Kenya	0	LOCATION
+1.0	Chris Isleib	be spokesman of	The Pentagon	PERSON	ORGANIZATION
+1.0	it	be	first US strike	0	LOCATION
+1.0	ethiopian-backed offensive	begin at_time	month	0	DATE
+1.0	action	have	kind	O	O
+1.0	somali government	have	offensive	0	0
+1.0	US forces	have	withdrawal	O	O
+1.0	Islamists	have take	control of much of southern Somalia	MISC	LOCATION
+1.0	resident	report	US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	ethiopian-backed offensive	begin under	cosh of islamist movement	0	0
+1.0	Pentagon	deny us involvement in	at least two later helicopter strike	ORGANIZATION	NUMBER
+1.0	Africa	have	Horn	LOCATION	LOCATION
+1.0	it	be	first US military strike	0	LOCATION
+1.0	it	be	known US strike there in 1994	0	LOCATION
+1.0	Gedi	also appeal to	international community	PERSON	0
+1.0	two later helicopter strike	be in	region report by somali defense ministry	NUMBER	0
+1.0	it	follow	rout of islamist force	0	0
+1.0	Ali Mohamed Gedi	be on	Wednesday	PERSON	DATE
+1.0	first known US military strike	be in	1994	LOCATION	DATE
+1.0	it	be	first known US military strike there in 1994	0	LOCATION
+1.0	militant	be in	Somalia	0	LOCATION
+1.0	Islamists	have take	control of much of Somalia	MISC	LOCATION
+0.8451148764721685	United States	use	ac-130 gunship	LOCATION	0
+1.0	resident	report us air strike in	Somalia	0	LOCATION
+1.0	UN Secretary General Ban Ki-Moon	warn against	dimension	PERSON	0
+1.0	forces	have	rout	O	O
+1.0	it	be	first known US military strike in Somalia there in 1994	0	LOCATION
+1.0	southern Somalia	have without	have authority	LOCATION	0
+1.0	Gedi	appeal to	community	PERSON	0
+1.0	Pentagon	deny us involvement in	at least two later helicopter strike in region report by somali defense ministry	ORGANIZATION	NUMBER
+1.0	offensive	begin under	cosh of islamist movement	0	0
+1.0	report	come amid	criticism	0	0
+1.0	Ban Ki-Moon	be	United Nations	PERSON	ORGANIZATION
+1.0	UN Secretary General Ban Ki-Moon	warn against	new dimension	PERSON	0
+1.0	Islamists	have take	control	MISC	0
+1.0	Pentagon	deny us involvement in	at least two helicopter strike in region report	ORGANIZATION	NUMBER
+1.0	it	follow	rout of force	0	0
+1.0	Kismayo	have	resident	O	LOCATION
+1.0	southern Somalia	have without	have function authority	LOCATION	0
+1.0	US air strike	be condemn by	United Nations	LOCATION	ORGANIZATION
+1.0	resident	report	new US air strike on suspect Al-Qaeda target	0	LOCATION
+1.0	it	be	known US strike in Somalia there in 1994	0	LOCATION
+1.0	movement	have	cosh	O	O
+1.0	it	be	known US military strike in Somalia there in 1994	0	LOCATION
+1.0	it	be	first known US military strike in Somalia	0	LOCATION
+1.0	Gedi	appeal to	international community	PERSON	0
+1.0	Pentagon	deny us involvement in	at least two helicopter strike	ORGANIZATION	NUMBER
+1.0	it	be	first US military strike in Somalia	0	LOCATION
+1.0	Yusuf Ismail Aden	tell afp by	phone	PERSON	0
+1.0	it	be	US military strike in Somalia there in 1994	0	LOCATION
+1.0	ethiopian-backed offensive	begin under	cosh	0	0
+1.0	southern Somalia	be	central	LOCATION	0
+1.0	the resident accounts	have	action	O	O
+1.0	it	follow rout by	ethiopian government troops	0	0
+1.0	it	be	known US military strike there in 1994	0	LOCATION
+1.0	move	send in	african peacekeeper	0	0
+1.0	southern Somalia	have	much	O	LOCATION
+1.0	Pentagon	deny	US involvement	ORGANIZATION	LOCATION
+1.0	country	have	movement	O	O
+1.0	it	be	first US strike in Somalia there in 1994	0	LOCATION
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Gedi	support	initiative see widely	PERSON	0
+1.0	air operations	have	unaware	O	O
+1.0	southern Somalia	have without	have central authority	LOCATION	0
+1.0	it	be	known US military strike in Somalia	0	LOCATION
+1.0	resident	report	US air strike on Al-Qaeda target	0	LOCATION
+1.0	conflict	be in	Horn of Africa	0	LOCATION
+1.0	Islamists	have take	control of much	MISC	0
+1.0	it	be	known US strike	0	LOCATION
+1.0	US air strike	be immediately condemn by	United Nations	LOCATION	ORGANIZATION
+1.0	Yusuf Ismail Aden	resident of	Kismayo	PERSON	LOCATION
+1.0	it	be	first US strike there in 1994	0	LOCATION
+1.0	it	follow rout by	government troops	0	0
+1.0	strike	have	reports	O	O
+1.0	resident	report us air strike on	Wednesday	0	DATE
+1.0	US action	have	criticism	O	O
+1.0	Mogadishu	be in	June	LOCATION	DATE
+1.0	US air strike	be	condemn	LOCATION	0
+1.0	it	be	first US military strike in Somalia there in 1994	0	LOCATION

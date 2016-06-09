@@ -1,0 +1,146 @@
+1.0	Germany 's appeal court	convict motassadeq in	suicide attack on New York	LOCATION	LOCATION
+1.0	it	refer back to	judge in northern german city for sentencing	0	0
+1.0	it	refer to	judge in northern city for sentencing	0	0
+1.0	Mounir el Motassadeq	be	sentence	0	0
+1.0	German authorities	deport motassadeq to	Morocco	0	LOCATION
+1.0	it	refer back to	judge in northern german port city	0	0
+1.0	this	will mark step in	marathon legal process	0	0
+1.0	court	begin hearing to	moroccan convict last year	0	DATE
+1.0	it	refer back to	judge in port city for sentencing	0	0
+1.0	german court	begin hearing to	sentence Mounir el Motassadeq	0	PERSON
+1.0	it	scrap	verdict	0	0
+1.0	it	refer to	judge in northern port city for sentencing	0	0
+1.0	it	refer back to	judge in city	0	0
+1.0	Mounir el Motassadeq	be convict over	attack	0	0
+1.0	up to 15 year	be in	prison	DURATION	0
+1.0	it	refer back to	judge in northern german city	0	0
+1.0	this	will likely mark step in	marathon process	0	0
+1.0	this	will mark step in	marathon legal process span five year	0	DURATION
+1.0	Mounir el Motassadeq	become	first person	0	ORDINAL
+1.0	german court	begin hearing to	moroccan convict last year as accomplice	0	DATE
+1.0	Mounir el Motassadeq	become in	2003	0	DATE
+1.0	court	begin hearing to	moroccan convict last year as accomplice in September 11	0	DATE
+1.0	Germany 's highest appeal court	convict motassadeq as	accessory	LOCATION	0
+1.0	US authority	allow	court	LOCATION	0
+1.0	this	will likely mark step in	marathon process span	0	0
+1.0	Mounir el Motassadeq	be give	seven-year prison sentence	PERSON	DURATION
+1.0	sentencing process	take at_time	several day	0	DURATION
+0.4552547489065496	marathon process	span	five year	0	DURATION
+1.0	this	will mark	last step	0	0
+1.0	three	have	friend	O	NUMBER
+1.0	it	refer back to	judge	0	0
+1.0	it	refer to	judge in northern german port city	0	0
+0.6397729517350402	Mounir el Motassadeq	once have serve	he sentence	0	0
+1.0	Germany 's highest appeal court	find	he guilty	LOCATION	0
+1.0	accomplice	be in	September 11 2001	0	DATE
+1.0	court	begin hearing to	moroccan convict year as accomplice in September 11	0	DATE
+1.0	it	refer to	judge in northern german city	0	0
+1.0	Germany 's highest appeal court	convict motassadeq in	suicide attack on New York	LOCATION	LOCATION
+1.0	Germany 's appeal court	find	he guilty	LOCATION	0
+1.0	sentencing process	be	expect	0	0
+1.0	four	have	crew	O	NUMBER
+1.0	Germany 's highest appeal court	be in	November	LOCATION	DATE
+1.0	15 year	be in	prison	DURATION	0
+1.0	it	refer back to	judge in northern city for sentencing	0	0
+1.0	it	refer to	judge in northern city	0	0
+1.0	Mounir el Motassadeq	play role in	death	PERSON	0
+1.0	it	refer to	judge in northern german city for sentencing	0	0
+1.0	federal court	order	retrial	0	0
+1.0	Germany 's appeal court	convict motassadeq in	suicide attack	LOCATION	0
+1.0	it	refer back to	judge in northern german port city for sentencing	0	0
+1.0	german court	begin hearing to	moroccan convict last year	0	DATE
+1.0	german court	begin hearing to	moroccan convict last year as accomplice in September 11	0	DATE
+1.0	Germany	have	highest appeal court in November	LOCATION	DATE
+1.0	it	refer back to	judge in german port city for sentencing	0	0
+1.0	Karslruhe	have	city	O	LOCATION
+1.0	this	will likely mark step in	marathon process span five year	0	DURATION
+1.0	this	will likely mark step in	marathon legal process span five year	0	DURATION
+1.0	court	begin hearing to	moroccan convict year	0	DATE
+1.0	Germany 's highest appeal court	also find	he guilty	LOCATION	0
+1.0	it	refer back to	judge in port city	0	0
+0.14059619431790493	US authority	have refuse	allow	LOCATION	0
+1.0	this	will mark step in	marathon process	0	0
+1.0	it	refer back to	judge in northern port city for sentencing	0	0
+1.0	sentencing process	be expect	take day	0	0
+1.0	court	order retrial in	Hamburg	0	LOCATION
+1.0	Mounir el Motassadeq	be give prison sentence in	2005	PERSON	DATE
+1.0	it	scrap	earlier verdict	0	0
+1.0	sentencing process	be expect	take several day	0	DURATION
+1.0	court	begin	hearing	0	0
+1.0	Mounir el Motassadeq	friend of	three	PERSON	NUMBER
+1.0	court	begin hearing to	moroccan convict as accomplice in September 11	0	DATE
+1.0	Mounir el Motassadeq	be give	prison sentence	PERSON	0
+1.0	he	belong to	organisation	0	0
+1.0	he	belong to	terrorist organisation	0	0
+1.0	it	refer to	judge in german city for sentencing	0	0
+1.0	Germany 's appeal court	convict motassadeq as	accessory	LOCATION	0
+1.0	it	refer back to	judge in german city	0	0
+1.0	this	will mark step in	marathon legal process span	0	0
+1.0	it	refer to	judge in german city	0	0
+1.0	Mounir el Motassadeq	become	person	0	0
+1.0	Germany 's highest appeal court	convict	Mounir el Motassadeq	LOCATION	PERSON
+1.0	german court	begin hearing to	moroccan convict year as accomplice	0	DATE
+1.0	Mounir el Motassadeq	support	attack	PERSON	0
+1.0	Mounir el Motassadeq	be	convict	0	0
+1.0	men	have	three	NUMBER	O
+1.0	it	refer back to	judge in northern city	0	0
+1.0	it	refer to	judge in northern port city	0	0
+1.0	Germany 's highest appeal court	convict motassadeq in	suicide attack	LOCATION	0
+1.0	german court	begin hearing to	moroccan convict as accomplice in September 11	0	DATE
+0.4552547489065496	marathon legal process	span	five year	0	DURATION
+1.0	it	refer to	judge in german port city	0	0
+1.0	verdict	hold in	US custody	0	LOCATION
+1.0	it	refer back to	judge in german city for sentencing	0	0
+1.0	federal court	be in	Karlsruhe	0	ORGANIZATION
+0.6397729517350402	Mounir el Motassadeq	have serve	he sentence	0	0
+1.0	Germany 's appeal court	convict	Mounir el Motassadeq	LOCATION	PERSON
+1.0	german court	begin	hearing	0	0
+1.0	it	refer to	judge	0	0
+1.0	court	order	retrial	0	0
+1.0	it	refer back to	judge in northern port city	0	0
+1.0	german court	begin hearing to	moroccan convict year as accomplice in September 11	0	DATE
+1.0	it	refer to	judge in german port city for sentencing	0	0
+1.0	it	refer to	judge in port city for sentencing	0	0
+1.0	judge	be in	northern german port city for sentencing	0	0
+1.0	crew	hijack	plane	0	0
+1.0	german court	begin hearing to	moroccan convict year	0	DATE
+1.0	it	refer to	judge in city for sentencing	0	0
+1.0	Germany	have	appeals court	O	LOCATION
+1.0	this	will mark step in	marathon process span	0	0
+1.0	federal court	order retrial in	Hamburg	0	LOCATION
+1.0	it	refer to	judge in port city	0	0
+1.0	it	refer back to	judge in german port city	0	0
+1.0	german court	begin hearing to	moroccan	0	0
+1.0	this	will likely mark step in	marathon legal process	0	0
+1.0	Mounir el Motassadeq	be sentence to	15 year in prison	0	DURATION
+1.0	passengers	have	death	O	O
+1.0	Mounir el Motassadeq	play	role	PERSON	0
+1.0	german court	begin hearing to	moroccan convict	0	0
+1.0	court	begin hearing to	moroccan convict as accomplice	0	0
+1.0	Mounir el Motassadeq	belong to	terrorist organisation	PERSON	0
+1.0	court	begin hearing to	moroccan convict last year as accomplice	0	DATE
+1.0	court	begin hearing to	sentence Mounir el Motassadeq	0	PERSON
+1.0	court	begin hearing to	moroccan convict	0	0
+1.0	this	will mark	step	0	0
+1.0	this	will likely mark	last step	0	0
+1.0	Mounir el Motassadeq	be sentence to	15 year	0	DURATION
+1.0	it	scrap verdict by	Hamburg court	0	LOCATION
+1.0	Mounir el Motassadeq	play role in	death of 246 passenger	PERSON	NUMBER
+1.0	this	will likely mark step in	marathon legal process span	0	0
+1.0	court	begin hearing to	moroccan convict year as accomplice	0	DATE
+1.0	German authorities	deport	Mounir el Motassadeq	0	PERSON
+1.0	Mounir el Motassadeq	be	clear	PERSON	0
+1.0	it	refer back to	judge in city for sentencing	0	0
+1.0	court	begin hearing to	moroccan	0	0
+1.0	two	have	father	O	NUMBER
+1.0	german court	begin hearing to	moroccan convict as accomplice	0	0
+1.0	Mounir el Motassadeq	have	sentence	O	O
+1.0	this	will mark step in	marathon process span five year	0	DURATION
+1.0	Mounir el Motassadeq	belong to	organisation	PERSON	0
+1.0	it	refer to	judge in city	0	0
+1.0	court	be in	southwestern city of Karslruhe	0	LOCATION
+1.0	this	will likely mark	step	0	0
+1.0	sentencing process	take at_time	day	0	0
+1.0	sentencing process	be expect	take	0	0
+1.0	it	refer to	judge in northern german port city for sentencing	0	0
+1.0	Germany 's appeal court	also find	he guilty	LOCATION	0

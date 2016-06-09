@@ -1,0 +1,40 @@
+0.010717726303177022	Irwin 's manager	say	friend John Stainton	PERSON	PERSON
+1.0	coronial investigation	be expect	find	0	0
+0.010717726303177022	Irwin 's long-time manager	say	friend John Stainton	PERSON	PERSON
+1.0	coronial investigation	be	expect	0	0
+1.0	Steve Irwin dying from a stingray barb to the heart	be	44	PERSON	NUMBER
+1.0	Steve Irwin dying from a stingray barb to the heart	have	widow Terri Irwin	PERSON	O
+1.0	John Stainton	tell	australian newspaper	PERSON	0
+1.0	Steve Irwin dying from a stingray barb to the heart	have	death	O	O
+1.0	Irwin	have	manager	PERSON	0
+1.0	nature	have	something	O	O
+1.0	he death	be	accidental	0	0
+1.0	personal	have	something	O	O
+1.0	John Stainton	tell newspaper at_time	Friday	PERSON	DATE
+1.0	The self-proclaimed `` wildlife warrior ''	have	Crocodile Hunter series	O	O
+1.0	Irwin 's manager	say	friend John Stainton	PERSON	PERSON
+1.0	Irwin	have	manager	O	PERSON
+1.0	Irwin 's long-time manager	say	friend John Stainton	PERSON	PERSON
+1.0	few	have	one	NUMBER	O
+1.0	Irwin	into	death	PERSON	0
+1.0	Steve Irwin dying from a stingray barb to the heart	be	diving on Australia 's Great Barrier reef in September	0	LOCATION
+1.0	Irwin	have	long-time manager	PERSON	0
+1.0	investigation	be	expect	0	0
+1.0	the stingray	whip	its tail	0	0
+1.0	Wildlife television star Irwin 44	be	kill	PERSON	0
+1.0	Steve Irwin dying from a stingray barb to the heart	be	diving	0	0
+1.0	John Stainton	tell	newspaper	PERSON	0
+0.49762518126695454	Irwin	snorkel above	stingray	PERSON	0
+1.0	Irwin	have	death	O	PERSON
+1.0	Wildlife television star Irwin	be	kill	PERSON	0
+1.0	investigation	be expect	find	0	0
+1.0	Terri Irwin	be  at_time	last month	PERSON	DATE
+1.0	the stingray	have	tail	O	O
+1.0	Steve Irwin dying from a stingray barb to the heart	be diving in	September	0	DATE
+1.0	Australia	have	Great Barrier Reef	LOCATION	LOCATION
+1.0	Steve Irwin dying from a stingray barb to the heart	be diving on	Australia 's Great Barrier reef	0	LOCATION
+1.0	Steve Irwin dying from a stingray barb to the heart	be	in which see	PERSON	0
+1.0	Steve Irwin dying from a stingray barb to the heart	have	chest	O	O
+1.0	Australia	have	Crocodile Hunter	O	LOCATION
+1.0	Steve Irwin dying from a stingray barb to the heart	be	see	PERSON	0
+1.0	Australia	on	Great Barrier reef	LOCATION	LOCATION

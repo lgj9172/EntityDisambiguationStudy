@@ -1,0 +1,17 @@
+1.0	overnight	weigh on	sentiment	TIME	0
+1.0	they	say on	market	0	0
+1.0	Hang Seng Index	close down off	low	MISC	0
+1.0	Hang Seng Index	close off	low	MISC	0
+1.0	19,507.97	have	low	O	NUMBER
+1.0	Hang Seng Index	close down off	low of 19,507.97	MISC	NUMBER
+1.0	low	have	closed	O	O
+1.0	19,693.70	have	high	O	NUMBER
+1.0	high	have	closed	O	O
+1.0	they	say at_time	steep fall	0	DATE
+1.0	turnover	be	64 billion Hong Kong dollar	0	LOCATION
+1.0	Hang Seng Index	close off	low of 19,507.97	MISC	NUMBER
+1.0	they	say on	japanese market	0	0
+1.0	Hang Seng Index	close down at	19,568.34	MISC	NUMBER
+1.0	they	say	show	0	0
+1.0	they	say at_time	fall	0	DATE
+1.0	Hang Seng Index	close at	19,568.34	MISC	NUMBER

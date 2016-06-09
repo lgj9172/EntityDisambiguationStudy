@@ -1,0 +1,16 @@
+1.0	New Year	have	Eve bombings	O	DATE
+1.0	Boonrawd Somtas	be	Thai	PERSON	MISC
+0.6422972432095924	say	leave only either	police	0	0
+1.0	people	have	groups	O	O
+1.0	element	be in	police	0	0
+1.0	man	be in	uniform	0	0
+0.6422972432095924	say	leave	police	0	0
+1.0	analyst	be behind	bombing	0	0
+1.0	Thaksin	have deny	role	PERSON	0
+1.0	groups	have	handful	O	O
+1.0	leader	have	acting	O	O
+0.6422972432095924	say	leave only	police	0	0
+0.6422972432095924	say	leave either	police	0	0
+1.0	Thai Defence Minister Boonrawd Somtas	tell	reporter	0	0
+1.0	Thai Defence Minister Boonrawd Somtas	say at_time	Thursday	MISC	DATE
+1.0	Thai Defence Minister Boonrawd Somtas	tell	reporter	PERSON	0

@@ -1,0 +1,97 @@
+1.0	Ellis Stanley	manager of	Los Angeles Emergency preparedness Department	PERSON	ORGANIZATION
+1.0	earthquake	have	type	O	O
+1.0	major quake	be in	region	0	0
+1.0	expert	tell	conference	0	0
+1.0	San Andreas Fault	have	tip	O	LOCATION
+1.0	quake	be likely within	30 year	0	DURATION
+1.0	Los Angeles Emergency Preparedness Department	have	manager	O	ORGANIZATION
+1.0	Southern California Earthquake Center	have	director	O	ORGANIZATION
+1.0	powerful earthquake	be in	California 's history	0	LOCATION
+1.0	repeat	cause	150 billion dollar of damages	0	MONEY
+1.0	major earthquake	be in	the next 30 year	0	NUMBER
+1.0	quake	be	likely	0	0
+1.0	self-reliance	be	key	0	0
+1.0	major rupture	cause	several minute	0	DURATION
+1.0	repeat	cause	150 billion dollar of economic damages	0	MONEY
+1.0	Lucy Jones	reinforce	home	PERSON	0
+1.0	Southern California	have	University	ORGANIZATION	ORGANIZATION
+0.5470984664969432	piece	come in	first place	0	ORDINAL
+1.0	southern tip	rock	region	0	0
+1.0	you	measure	The probability of a major earthquake in the next 30 years	0	0
+0.8554043529197755	consequence	earthquake on	similar scale today	0	DATE
+1.0	San Andreas Fault	have	rupture	O	LOCATION
+1.0	strongest ever	hit	California 's	0	LOCATION
+0.872574430930807	several minute	major rupture of	San Andreas Fault	DURATION	LOCATION
+1.0	El Tejon temblor	have	repeat	O	O
+1.0	El Tejon	cause	relatively little damage	LOCATION	0
+1.0	seismologist	be with	US Geological Survey	0	ORGANIZATION
+1.0	expert	tell here	conference	0	0
+1.0	New Orleans	have	percent	PERCENT	LOCATION
+1.0	rupture	cause	minute	0	0
+1.0	damages	have	dollars	MONEY	O
+1.0	El Tejon	cause	little damage	LOCATION	0
+1.0	major quake	be likely within	30 year	0	DURATION
+0.872574430930807	minute	rupture of	San Andreas Fault	0	LOCATION
+1.0	Thomas Jordan	launch preparedness campaign on	anniversary of El Tejon	PERSON	LOCATION
+0.5470984664969432	piece	come down in	place	0	0
+1.0	home	secure	furniture	0	0
+1.0	earthquake	have	consequence	0	0
+0.872574430930807	minute	major rupture of	San Andreas Fault	0	LOCATION
+1.0	Thomas Jordan	launch preparedness campaign on	150th anniversary of El Tejon	PERSON	LOCATION
+1.0	tip	rock	region	0	0
+1.0	Thomas Jordan	director of	Southern California Earthquake Center	PERSON	ORGANIZATION
+1.0	earthquake	have	repeat	O	O
+0.5470984664969432	piece	come down in	first place	0	ORDINAL
+1.0	California Earthquake Prediction Council	have	member	O	ORGANIZATION
+1.0	Ellis Stanley	call	ready for big one	PERSON	NUMBER
+1.0	public	have	members	O	O
+1.0	expert	tell conference here at_time	Tuesday	0	DATE
+1.0	San Andreas Fault	have	segment	O	LOCATION
+1.0	California	in	history	LOCATION	0
+0.872574430930807	several minute	rupture of	San Andreas Fault	DURATION	LOCATION
+1.0	major rupture	cause	minute of tremor	0	0
+1.0	California	have	history	O	LOCATION
+1.0	New Orleans	be in	August-September 2005	LOCATION	DATE
+1.0	repeat	cause	150 billion dollar	0	MONEY
+1.0	150 people	have	Katrina	O	O
+1.0	El Tejon	have	anniversary	O	LOCATION
+1.0	150 billion dollar	be in	damages	MONEY	0
+1.0	Ellis Stanley	say	refer	PERSON	0
+0.5470984664969432	piece	come in	place	0	0
+1.0	major quake	be	likely	0	0
+1.0	ever	hit	California 's	0	LOCATION
+1.0	rupture	cause	several minute of tremor	0	DURATION
+1.0	major rupture	cause	minute	0	0
+1.0	impact	will	will devastate	0	0
+1.0	Thomas Jordan	launch preparedness campaign on	150th anniversary	PERSON	0
+1.0	El Tejon	be	Thomas Jordan	LOCATION	PERSON
+1.0	El Tejon	cause	damage	LOCATION	0
+1.0	Ellis Stanley	call	ready for one	PERSON	NUMBER
+1.0	Lucy Jones	seismologist with	US Geological Survey	PERSON	ORGANIZATION
+0.6253337722293014	150 billion dollar	repeat of	El Tejon temblor	MONEY	LOCATION
+1.0	Thomas Jordan	launch	preparedness campaign	PERSON	0
+1.0	rupture	cause	minute of tremor	0	0
+0.8554043529197755	consequence	earthquake on	scale today	0	DATE
+0.8554043529197755	disastrous consequence	earthquake on	scale today	0	DATE
+1.0	earthquake	have	disastrous consequence	0	0
+1.0	earthquake	have	disastrous consequence on densely-populated region	0	0
+1.0	life	have	quality	O	O
+1.0	rupture	cause	several minute	0	DURATION
+1.0	societal impact	will	will devastate	0	0
+1.0	expert	tell conference at_time	Tuesday	0	DATE
+1.0	earthquake	have	probability	O	O
+1.0	major rupture	cause	several minute of tremor	0	DURATION
+1.0	Ellis Stanley	call for	public	PERSON	0
+1.0	earthquake	have	disastrous consequence on region	0	0
+1.0	El Tejon temblor	be	ever	LOCATION	0
+1.0	earthquake	have	consequence on densely-populated region	0	0
+1.0	earquake researcher	be with	Risk Management Solutions	0	ORGANIZATION
+1.0	Ellis Stanley	call	ready	PERSON	0
+1.0	Thomas Jordan	tell	press conference	PERSON	0
+1.0	earthquake	have	consequence on region	0	0
+1.0	Patricia Grossi	researcher with	Risk Management Solutions	PERSON	ORGANIZATION
+1.0	El Tejon temblor	be in	1857	LOCATION	DATE
+1.0	Thomas Jordan	launch preparedness campaign on	anniversary	PERSON	0
+1.0	El Tejon temblor	be	strongest ever	LOCATION	0
+0.8554043529197755	disastrous consequence	earthquake on	similar scale today	0	DATE
+1.0	tremors	have	minutes	DURATION	O

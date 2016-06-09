@@ -1,0 +1,56 @@
+1.0	Beijing	have	embassy in Seoul	LOCATION	LOCATION
+1.0	chinese embassy official	arrive	south korean foreign ministry representative	0	0
+1.0	December	have	night	TIME	DATE
+1.0	its	have	diplomats	O	O
+1.0	Beijing	have	embassy	O	LOCATION
+1.0	official	tell	afp	0	0
+1.0	official	tell afp on	condition	0	0
+1.0	he	take	drink drive test	0	0
+1.0	chinese embassy official	arrive	korean foreign ministry representative	0	0
+1.0	his	have	car	O	O
+1.0	diplomat	lock	a Chinese diplomat in Seoul	0	0
+1.0	a Chinese diplomat	drink	drive	0	0
+1.0	chinese embassy official	arrive	ministry representative	0	0
+1.0	embassy	have	counsellor	O	O
+1.0	ministry spokesman Liu Jianchao	tell	press conference	PERSON	0
+1.0	he	take	drink test	0	0
+1.0	diplomat	reportedly refuse	breathalyser test	0	0
+1.0	embassy official	arrive	korean foreign ministry representative	0	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	press conference	PERSON	0
+1.0	chinese diplomat	be in	Seoul	0	LOCATION
+1.0	embassy official	arrive	south korean foreign ministry representative	0	0
+1.0	embassy official	arrive	foreign ministry representative	0	0
+1.0	South Korea ministry official	say at_time	Thursday	LOCATION	DATE
+1.0	diplomat	refuse	breathalyser test	0	0
+0.8675485213062841	breathalyser test	chinese diplomat in	Seoul	0	LOCATION
+1.0	host country	have	laws	O	O
+1.0	China	attempt on	Thursday	LOCATION	DATE
+1.0	his	have	country	O	O
+1.0	embassy official	arrive	south korean ministry representative	0	0
+1.0	Beijing 's embassy	be in	Seoul	LOCATION	LOCATION
+1.0	chinese embassy official	arrive	korean ministry representative	0	0
+1.0	diplomat	abide by	local law	0	0
+1.0	he	be immune from	prosecution	0	0
+1.0	chinese embassy official	arrive	foreign ministry representative	0	0
+1.0	chinese embassy official	arrive	south korean ministry representative	0	0
+1.0	korean official	tell	afp	0	0
+1.0	its diplomat	abide by	law	0	0
+1.0	embassy official	arrive	ministry representative	0	0
+1.0	South Korea foreign ministry official	say at_time	Thursday	LOCATION	DATE
+1.0	diplomat	identify	himself	0	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	regular press conference	PERSON	0
+1.0	chinese diplomat	refuse	breathalyser test	0	0
+1.0	chinese diplomat	lock	a Chinese diplomat in Seoul	0	0
+1.0	a Chinese diplomat in Seoul	have	car	O	O
+1.0	he	be	even immune	0	0
+1.0	its diplomat	abide by	local law	0	0
+1.0	diplomat	abide by	law	0	0
+1.0	chinese diplomat	reportedly refuse	breathalyser test	0	0
+1.0	chinese embassy official	arrive at	scene	0	0
+1.0	ministry spokesman Liu Jianchao	tell	regular press conference	PERSON	0
+1.0	he	even be immune from	prosecution	0	0
+0.8675485213062841	breathalyser test	diplomat in	Seoul	0	LOCATION
+1.0	he	be	immune	0	0
+1.0	embassy official	arrive at	scene	0	0
+1.0	embassy official	arrive	korean ministry representative	0	0
+1.0	anonymity	have	condition	O	O

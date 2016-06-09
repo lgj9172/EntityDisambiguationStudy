@@ -1,0 +1,57 @@
+1.0	Thailand 's junta	accuse	oust premier	LOCATION	0
+1.0	former prime minister Thaksin	have	government	O	O
+1.0	powers	have	few	O	O
+1.0	Thailand 's junta	accuse	premier engage	LOCATION	0
+1.0	regime	have so far use	few	0	0
+1.0	billionaire businessman	have remain	hop	0	0
+1.0	Thaksin Shinawatra	have	lawyer	O	O
+1.0	Council	meet at_time	Wednesday	ORGANIZATION	DATE
+1.0	junta	carry after	coup	0	0
+1.0	its	have	orders	O	O
+1.0	The billionaire businessman	make	statement	0	0
+1.0	The billionaire businessman	have	lawyer	O	O
+1.0	The billionaire businessman	make statement through	he lawyer in Bangkok	0	LOCATION
+1.0	Thailand	have	junta	O	LOCATION
+1.0	Thailand 's junta	accuse	oust premier engage in media war	LOCATION	0
+1.0	billionaire businessman	have since remain	hop	0	0
+1.0	The billionaire businessman	periodically make	statement	0	0
+1.0	Thaksin	have	government	O	PERSON
+1.0	Thailand 's junta	accuse	premier engage in media war	LOCATION	0
+1.0	Council	have	secretary	O	ORGANIZATION
+1.0	Thailand 's junta	threaten at_time	early Wednesday	LOCATION	DATE
+1.0	this morning	during	meeting of television executive	TIME	0
+1.0	Hong Kong	be between	London	LOCATION	LOCATION
+1.0	Thailand 's junta	accuse	oust premier engage	LOCATION	0
+1.0	regime	have use	few	0	0
+1.0	billionaire businessman	have since remain in	exile	0	0
+1.0	Council	meet with	radio executive	ORGANIZATION	0
+1.0	former prime minister Thaksin	be in	New York	PERSON	LOCATION
+1.0	military	topple	he elected government	0	0
+1.0	Thailand	have	junta	LOCATION	0
+1.0	billionaire businessman	have remain in	exile	0	0
+1.0	former prime minister Thaksin	have	case	O	O
+1.0	he lawyer	be in	Bangkok	0	LOCATION
+1.0	billionaire businessman	hop between	London Kong	0	LOCATION
+1.0	billionaire businessman	have remain	hop between London Kong	0	LOCATION
+1.0	Winai Phathiyakul	secretary of	the Council for National Security	PERSON	ORGANIZATION
+1.0	military	topple	he government	0	0
+1.0	The billionaire businessman	periodically make statement through	he lawyer in Bangkok	0	LOCATION
+1.0	junta	remind	broadcaster	0	0
+1.0	junta	carry by	news channel	0	0
+1.0	junta	carry after	immediately coup	0	0
+1.0	television radio executives	have	meeting	O	O
+0.6454657318133463	junta	call	Thailand 's junta	0	0
+1.0	junta	carry by	international news channel	0	0
+1.0	The billionaire businessman	periodically make statement through	he lawyer	0	0
+1.0	soldier	block report on	former prime minister Thaksin	0	PERSON
+1.0	orders	have	one	NUMBER	O
+1.0	morning	have	meeting	O	TIME
+1.0	soldier	block	report	0	0
+1.0	the regime	claim after	takeover	0	0
+1.0	regime	have far use	few	0	0
+1.0	The billionaire businessman	make statement through	he lawyer	0	0
+1.0	Thaksin 's government	be in	September	PERSON	DATE
+1.0	Council	meet at_time	early Wednesday	ORGANIZATION	DATE
+1.0	Thaksin	have	government in September	PERSON	DATE
+1.0	Thailand 's junta	accuse	premier	LOCATION	0
+1.0	billionaire businessman	have since remain	hop between London Kong	0	LOCATION

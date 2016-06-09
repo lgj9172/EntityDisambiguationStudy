@@ -1,0 +1,94 @@
+1.0	Apple Computer share	extend rally from	prior session	ORGANIZATION	0
+1.0	buyers	have	part	O	O
+1.0	US Airways share	rise	1.10 dollar 59.00	LOCATION	NUMBER
+1.0	Onex	be for	2.55 billion dollar	ORGANIZATION	MONEY
+1.0	New York 's main contract , light sweet crude for delivery in February	have	close	O	O
+1.0	New York	have	main contract light sweet crude for delivery in February	LOCATION	DATE
+1.0	afternoon	have	market recovery	O	DATE
+1.0	this afternoon	behind	market recovery	DATE	0
+1.0	Nasdaq composite	increase	15.50 point	MISC	NUMBER
+1.0	market breadth	lend	conviction	0	0
+1.0	blue	have	first	ORDINAL	O
+1.0	2006	have	quarter	DATE	DATE
+1.0	tech giant	bring comment from	analyst	0	0
+1.0	dollars	have	2006	DATE	MONEY
+1.0	market gains	have	most	O	O
+1.0	US Airways share	rise 1.10 dollar 59.00 after	sixth	LOCATION	ORDINAL
+1.0	Canada	have	Onex	ORGANIZATION	LOCATION
+1.0	Apple Computer share	extend	rally	ORGANIZATION	0
+1.0	real GDP growth	be in	the fourth quarter of 2006	0	DATE
+1.0	Dow Jones Industrial Average	rise	0.21 percent	MISC	PERCENT
+0.07146203771914894	Alcoa	leap among	stock	ORGANIZATION	0
+1.0	positive news	include	one percent decline	0	PERCENT
+1.0	sharp drop	be in	crude oil price	0	0
+1.0	broad-market Standard	add	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	market breadth	lend conviction on	part of buyer	0	0
+1.0	London oil future	fall to	low	LOCATION	0
+1.0	tech	bring comment from	analyst	0	0
+1.0	positive news	include	one percent decline in US trade deficit	0	LOCATION
+0.7603806595184428	skittishness	go into	heart of corporate earnings season	0	0
+1.0	today	have	trade report	0	0
+0.07146203771914894	Alcoa	leap to	30.23 dollar	ORGANIZATION	MONEY
+1.0	news	include	one percent decline	0	PERCENT
+1.0	tech giant	bring	comment	0	0
+1.0	a rally	have	imaging division	O	O
+1.0	drop	be in	energy price	0	0
+1.0	market breadth	lend	little conviction	0	0
+1.0	one percent decline	be in	US trade deficit	PERCENT	LOCATION
+1.0	broad-market Standard	add	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+0.07146203771914894	Alcoa	leap among	stock in focus	ORGANIZATION	0
+1.0	negative market breadth	lend	conviction	0	0
+1.0	the drop in energy prices	have	iPhone	O	O
+1.0	Dow Jones Industrial Average	rise	25.56 point	MISC	NUMBER
+0.7603806595184428	skittishness	go into	heart	0	0
+1.0	New York	have	contract crude	O	LOCATION
+1.0	tech giant	bring	positive comment	0	0
+1.0	drop	be in	oil price	0	0
+1.0	today	of	modest market gain	DATE	0
+1.0	Eastman Kodak	dip	38 cent	ORGANIZATION	MONEY
+1.0	news	include	one percent decline in US trade deficit	0	LOCATION
+1.0	negative market breadth	lend	little conviction	0	0
+1.0	Delta Air Lines	be to	10.2 billion dollar	ORGANIZATION	MONEY
+1.0	market	open	weaker	0	0
+1.0	earnings season	have	heart	O	O
+1.0	Alcoa	leap	1.71 dollar	ORGANIZATION	MONEY
+0.28627611980559997	US Airways share	rise after	sixth	LOCATION	ORDINAL
+1.0	London crude oil future	fall to	19-month low	LOCATION	DURATION
+1.0	London oil future	fall to	19-month low	LOCATION	DURATION
+1.0	names	have	handful	O	O
+1.0	stock	be in	focus	0	0
+1.0	tech	bring	comment	0	0
+1.0	its	have	offer	O	O
+1.0	negative market breadth	lend conviction on	part	0	0
+1.0	analyst	say in	research note	0	0
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	market breadth	lend conviction on	part	0	0
+1.0	Apple Computer share	surge	4.52	ORGANIZATION	NUMBER
+1.0	Michael Malone	analyst at	Cowen and Co.	PERSON	ORGANIZATION
+0.06221292408889589	broad-market Standard	add	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	delivery	be in	February	0	DATE
+1.0	aluminum giant	first of	blue	0	0
+1.0	another sharp drop in crude oil prices	be	worth	0	0
+1.0	its	have	profits	O	O
+0.06221292408889589	broad-market Standard	add	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	drop	impact	its profit	0	0
+1.0	aluminum giant	report record profit for	2006 of 2.248 billion dollar	0	MONEY
+0.10628540098496497	drop	impact for	fourth quarter	0	DATE
+1.0	aluminum giant	report record profit for	2006 2.248 billion dollar	0	MONEY
+1.0	aluminum giant	report	record profit	0	0
+1.0	Dow Jones Industrial Average	close at	12,442.16	MISC	NUMBER
+0.245106737592649	Apple Computer share	surge to	97.09	ORGANIZATION	NUMBER
+1.0	today	have	market gains	O	DATE
+1.0	tech	bring	positive comment	0	0
+1.0	Eastman Kodak	annnounce	deal	ORGANIZATION	0
+1.0	Today	have	trade report	O	DATE
+1.0	its	have	takeover offer	O	O
+1.0	negative market breadth	lend conviction on	part of buyer	0	0
+1.0	Apple Computer share	extend rally from	session	ORGANIZATION	0
+0.10628540098496497	drop	impact for	quarter	0	DATE
+1.0	Nasdaq composite	increase	0.63 percent	MISC	PERCENT
+0.7603806595184428	skittishness	go into	heart of earnings season	0	0
+0.8618475977006119	its profit	drop in	energy price	0	0
+1.0	Canada	to	Onex	LOCATION	ORGANIZATION
+1.0	London crude oil future	fall to	low	LOCATION	0

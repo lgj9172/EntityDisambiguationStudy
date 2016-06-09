@@ -1,0 +1,23 @@
+1.0	Defence	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	one	have	laceration	NUMBER	0
+0.36557685961113096	one	be believe	non	NUMBER	0
+1.0	one	be	injured	0	0
+1.0	one	be	very seriously injured	0	0
+1.0	mid-air	be in	England	0	LOCATION
+1.0	others	have	has	O	O
+1.0	one	have laceration of	two other	NUMBER	NUMBER
+1.0	two people	be in	helicopter	NUMBER	0
+1.0	his	have	30s	O	O
+1.0	one	be	seriously injured	0	0
+0.36557685961113096	one	be	believe	NUMBER	0
+1.0	North Staffordshire trauma centre	have	University Hospital	ORGANIZATION	O
+1.0	crash	happen at	2.51 pm	0	NUMBER
+1.0	his	have	jaw	O	O
+1.0	Shropshire	have	county	O	LOCATION
+1.0	injuries	have	extent	O	O
+1.0	Britain	have	Ministry of Defence	LOCATION	ORGANIZATION
+1.0	one	be believe	injury	NUMBER	0
+1.0	he	decline	say	0	0
+1.0	Britain	have	Ministry	ORGANIZATION	LOCATION
+1.0	Shrewsbury	have	city	O	LOCATION
+1.0	one	have	minor laceration	NUMBER	0

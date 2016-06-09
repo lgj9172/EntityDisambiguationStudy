@@ -1,0 +1,175 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	none	offer	new military help	0	0
+1.0	whose measure	be announce at_time	late Wednesday	0	DATE
+1.0	Australia	have	Prime Minister John Howard	PERSON	LOCATION
+1.0	government	withdraw	many of its 7,200 troops deploy around city	0	DATE
+1.0	Bush	have	speech	O	PERSON
+1.0	Iraq	reduce	its troop presence	LOCATION	0
+1.0	report	be in	Daily Telegraph	0	ORGANIZATION
+1.0	whose measure	be	announce	0	0
+1.0	he country	provide reconstruction aid to	Iraq	0	LOCATION
+1.0	Karsten Voigt	express doubt in	Germany	PERSON	LOCATION
+1.0	Iraq	have	troop presence	O	O
+1.0	democratic peaceful development	be	way out	0	0
+1.0	more than 21,000 extra US troops in a bid to quell the insurgent-fuelled strife in Iraq	have face	more serious violence	LOCATION	0
+1.0	government	withdraw	many of its 7,200 troops deploy by end	0	DATE
+1.0	Britain	ally in	Iraq	LOCATION	LOCATION
+1.0	Sunni insurgency	also spiral	Shiite-Sunni violence	MISC	MISC
+1.0	widespread doubt	remain about	Iraq 's future	0	LOCATION
+1.0	they	participate in	effort on Iraq	0	LOCATION
+1.0	whose measure	be	announce in speech late Wednesday	0	DATE
+1.0	american defeat	be in	Iraq	0	LOCATION
+1.0	Sunni insurgency	spiral	Shiite-Sunni violence	MISC	MISC
+1.0	whose measure	be announce in	speech	0	0
+1.0	they	participate in	diplomatic effort on Iraq	0	LOCATION
+1.0	democratic development	be	final way out	0	0
+1.0	british government	withdraw	many of its 7,200 troops deploy	0	DATE
+1.0	year	have	end	DATE	DATE
+1.0	more than 21,000 extra US troops in a bid to quell the insurgent-fuelled strife in Iraq	have face	violence	LOCATION	0
+1.0	Germany	have	access	LOCATION	0
+1.0	President George W. Bush	have	Allies	O	PERSON
+1.0	it	be	clear	0	0
+1.0	its	have	record	O	O
+1.0	it	be at	stake	0	0
+1.0	peaceful development	be	final way out	0	0
+1.0	Iraq	have	peace	O	LOCATION
+1.0	21,000 extra US troops	be in	bid quell	LOCATION	0
+1.0	british government	withdraw	many of its 7,200 troops deploy around southern city of Basra	0	LOCATION
+1.0	Japan	send troops to	Iraq in its deployment	LOCATION	LOCATION
+1.0	plan	have	result	O	O
+1.0	his	have	country	O	O
+1.0	Germany	be	Karsten Voigt	LOCATION	PERSON
+1.0	John Howard	be prime minister of	Australia	PERSON	LOCATION
+1.0	government	withdraw	many of its 7,200 troops deploy around city by end	0	DATE
+1.0	President George W. Bush	have	strategy	O	O
+1.0	ministry spokesman Liu Jianchao	tell	reporter	PERSON	0
+1.0	US president	have prove	optimistic	LOCATION	0
+1.0	defeat	would give	unbelievable boost	0	0
+1.0	China	opponent of	invasion	LOCATION	0
+1.0	measure	defuse	conflict	0	0
+1.0	japanese embassy	be in	Berlin	0	LOCATION
+1.0	none	offer	new help	0	0
+1.0	democratic peaceful development	be	final way	0	0
+1.0	jordanian newspaper	say in	commentary	0	0
+1.0	US president	have prove	too optimistic	LOCATION	0
+1.0	peaceful development	be	final way	0	0
+1.0	Karsten Voigt	express doubt over	new measure	PERSON	0
+1.0	measure	show	US determination	0	LOCATION
+1.0	Britain	back	Japan	LOCATION	LOCATION
+1.0	Voigt	tell suedwestrundfunk radio in	Germany	PERSON	LOCATION
+1.0	peaceful development	be	way out	0	0
+1.0	Iraq	be in	its first foreign deployment	LOCATION	ORDINAL
+1.0	british government	withdraw	many of its 7,200 troops deploy around city	0	DATE
+1.0	government	withdraw	many	0	0
+1.0	same position	be in	Iraq	0	LOCATION
+1.0	The British government	have	troops	O	O
+1.0	other measure	show	US determination	0	LOCATION
+1.0	relation	be with	United States	0	LOCATION
+1.0	Japan	send troops to	Iraq in its first foreign deployment	LOCATION	ORDINAL
+1.0	whose measure	be announce in	speech to nation	0	0
+1.0	its	have	deployment	O	O
+1.0	Britain	send	more troops	LOCATION	0
+1.0	Bush	to	speech	PERSON	0
+1.0	Iraq	about	future	LOCATION	DATE
+1.0	British Foreign Secretary Margaret Beckett	decline	draw	PERSON	0
+1.0	Iraq	have	future	DATE	LOCATION
+1.0	invasion	have	opponents	O	O
+1.0	troops	have	many	O	O
+1.0	Sunni muslim insurgency	also spiral	Shiite-Sunni violence	MISC	MISC
+1.0	Japan	send	troops	LOCATION	0
+1.0	government	withdraw	many of its 7,200 troops deploy around city of Basra	0	LOCATION
+1.0	whose	have	measures	O	O
+1.0	british government	withdraw	many of its 7,200 troops	0	DATE
+1.0	Britain	send	troops	LOCATION	0
+1.0	Karsten Voigt	coordinator for	relation with United States	PERSON	LOCATION
+1.0	british government	withdraw	many	0	0
+1.0	Karsten Voigt	also express	doubt	PERSON	0
+1.0	government	withdraw	many of its 7,200 troops deploy around southern city	0	DATE
+1.0	british government	withdraw	many of its 7,200 troops deploy around city of Basra by end	0	LOCATION
+1.0	independent newspaper	say in	commentary	0	0
+1.0	democratic peaceful development	be	final way out	0	0
+1.0	Iraq	have	development	O	LOCATION
+1.0	development	be	way	0	0
+1.0	Japan	send troops to	country	LOCATION	0
+1.0	defeat	would give	boost	0	0
+1.0	mistake	be	make	0	0
+1.0	government	have	coordinator	O	O
+1.0	Taro Aso	be	Japanese	PERSON	MISC
+1.0	foreign ministry spokesman Liu Jianchao	tell	reporter	PERSON	0
+1.0	Japanese Foreign Minister Taro Aso	say in	Tokyo	PERSON	LOCATION
+1.0	democratic peaceful development	be	way	0	0
+1.0	democratic development	be	way	0	0
+1.0	US president	have often prove	too optimistic	LOCATION	0
+1.0	mistake	make	stake	0	0
+1.0	british government	withdraw	many of its 7,200 troops deploy around southern city	0	DATE
+1.0	democratic development	be	way out	0	0
+1.0	development	be	way out	0	0
+1.0	government	withdraw	many of its 7,200 troops deploy around southern city of Basra	0	LOCATION
+1.0	country	have	rest	O	O
+1.0	other measure	defuse	conflict	0	0
+1.0	government	withdraw	many of its 7,200 troops	0	DATE
+1.0	Karsten Voigt	also express doubt over	new measure	PERSON	0
+1.0	Japan	send troops to	country in conflict	LOCATION	0
+1.0	Japan	send troops to	country in conflict since World War II	LOCATION	MISC
+1.0	Japan	send troops to	Iraq in its foreign deployment	LOCATION	LOCATION
+1.0	british government	withdraw	many of its 7,200 troops deploy around city of Basra	0	LOCATION
+1.0	democratic development	be	final way	0	0
+1.0	Karsten Voigt	express doubt over	measure	PERSON	0
+1.0	defeat	would give boost to	terrorism	0	0
+1.0	british government	withdraw	many of its 7,200 troops deploy by end	0	DATE
+1.0	certain scepticism	be in	United States	0	LOCATION
+1.0	US president	have often prove in	past	LOCATION	DATE
+1.0	hatred	increase in	Arab world	0	MISC
+1.0	government	withdraw	many of its 7,200 troops deploy	0	DATE
+1.0	main US ally	be in	Iraq	LOCATION	LOCATION
+1.0	whose measure	be	announce in speech Wednesday	0	DATE
+1.0	ally	rally to	he strategy	0	0
+1.0	government	withdraw	many of its 7,200 troops deploy around southern city of Basra by end	0	LOCATION
+1.0	Karsten Voigt	also express doubt over	measure	PERSON	0
+1.0	hatred	increase as	result	0	0
+1.0	Britain	say	US decision	LOCATION	LOCATION
+1.0	whose measure	be	announce in speech to nation Wednesday	0	DATE
+1.0	newspaper	say in	commentary	0	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	none	offer	help	0	0
+1.0	development	be	final way	0	0
+1.0	doubt	remain about	Iraq 's future	0	LOCATION
+1.0	Margaret Beckett	be	British	PERSON	MISC
+1.0	more than 21,000 extra US troops in a bid to quell the insurgent-fuelled strife in Iraq	have face	serious violence	LOCATION	0
+1.0	government	withdraw	many of its 7,200 troops deploy around southern city by end	0	DATE
+1.0	Karsten Voigt	coordinator 's	government	PERSON	0
+1.0	British Foreign Secretary Margaret Beckett	be	draw	PERSON	0
+1.0	country	be in	conflict since World War II	0	MISC
+1.0	they	participate in	effort	0	0
+1.0	its	have	troop strength	O	O
+1.0	Britain	have	troop presence	O	O
+1.0	Voigt	here tell	Suedwestrundfunk radio	PERSON	ORGANIZATION
+1.0	Karsten Voigt	express	doubt	PERSON	0
+1.0	government	withdraw	many of its 7,200 troops deploy around city of Basra by end	0	LOCATION
+1.0	Japan	send troops to	Iraq	LOCATION	LOCATION
+1.0	whose measure	be	announce in speech to nation late Wednesday	0	DATE
+1.0	US president	have often prove	optimistic	LOCATION	0
+1.0	US president	have prove in	past	LOCATION	DATE
+1.0	Voigt	tell	Suedwestrundfunk radio	PERSON	ORGANIZATION
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	independent jordanian newspaper	say in	commentary	0	0
+1.0	peaceful development	be	way	0	0
+1.0	Karsten Voigt	also express doubt in	Germany	PERSON	LOCATION
+1.0	development	be	final way out	0	0
+1.0	British Foreign Secretary Margaret Beckett	say in	London	MISC	LOCATION
+1.0	Australia	have	John Howard	LOCATION	PERSON
+1.0	Sunni muslim insurgency	spiral	Shiite-Sunni violence	MISC	MISC
+1.0	he country	provide	reconstruction aid	0	0
+1.0	british government	withdraw	many of its 7,200 troops deploy around southern city of Basra by end	0	LOCATION
+1.0	government	have	coordinator for relation with United States	0	LOCATION
+1.0	whose measure	be announce at_time	Wednesday	0	DATE
+1.0	they	participate in	diplomatic effort	0	0
+1.0	Japan	send troops to	Iraq in its first deployment	LOCATION	ORDINAL
+1.0	british government	withdraw	many of its 7,200 troops deploy around city by end	0	DATE
+1.0	Voigt	use	Germany 's access	PERSON	LOCATION
+1.0	none	offer	military help	0	0
+1.0	Britain	back	Australia	LOCATION	LOCATION
+1.0	british government	withdraw	many of its 7,200 troops deploy around southern city by end	0	DATE
+1.0	course	have	hope	O	O
+1.0	Voigt	here tell suedwestrundfunk radio in	Germany	PERSON	LOCATION
+1.0	Germany	have	access	O	LOCATION

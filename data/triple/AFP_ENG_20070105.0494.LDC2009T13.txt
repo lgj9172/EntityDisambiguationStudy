@@ -1,0 +1,86 @@
+1.0	team	need	five more successive win	0	NUMBER
+1.0	1980s	have	sides	O	DATE
+1.0	it	be	run	0	0
+1.0	greats Glenn McGrath	have	trio	O	PERSON
+1.0	bible	have	editor	O	O
+1.0	Australia	can rate	they era	LOCATION	DATE
+1.0	England	be in	they first ash whitewash	LOCATION	ORDINAL
+1.0	West Indian sides	have	lot	O	O
+1.0	team	need	five more win	0	NUMBER
+1.0	Australia	can rate	they own era	LOCATION	DATE
+1.0	Steve Waugh	have	captaincy	O	PERSON
+1.0	team	need	five more win at home	0	NUMBER
+1.0	Matthew Engel	be	Englishman	PERSON	MISC
+1.0	coach John Buchanan	have	tenure	O	PERSON
+1.0	Australia	can rate	they own era of domination	LOCATION	DATE
+1.0	it	be	good run for we	0	0
+1.0	Sydney Test Friday	have	day	DATE	DATE
+1.0	Ponting	have	side	O	PERSON
+1.0	Steve Waugh	have	captaincy	PERSON	0
+1.0	John Buchanan	have	Test	O	O
+1.0	team	have	lot	O	O
+1.0	it	be	really good run for we	0	0
+1.0	50s	have	England	LOCATION	NUMBER
+1.0	Andrew Flintoff	be	Kevin Pietersen	PERSON	PERSON
+1.0	their	have	Ashes whitewash	O	O
+1.0	game	as	no. 1 side	0	NUMBER
+0.5501093039005212	team	weaken by	World Series Cricket	0	MISC
+1.0	Shane Warne	have	trio	O	PERSON
+1.0	that	help	its chance	0	0
+1.0	90s	have	sides	O	O
+1.0	Ricky Ponting 's Australians	overpower	tourist	PERSON	0
+1.0	team	break	record	0	0
+1.0	teams	have	lot	O	O
+1.0	Justin Langer	have	trio	O	PERSON
+1.0	Ricky Ponting 's Australians	overpower tourist by	10 wicket	PERSON	NUMBER
+1.0	cricket	of	great dynasty	0	0
+1.0	England	have	team	O	LOCATION
+1.0	their	have	Test victory	O	O
+1.0	Ricky Ponting 's Australians	overpower tourist on	fourth day of Sydney Test Friday	PERSON	DATE
+1.0	record	stand at	16	0	NUMBER
+1.0	Australia	can rate	they era of domination	LOCATION	DATE
+1.0	Ricky Ponting	have	Australians	MISC	PERSON
+1.0	australian team	need	five more win at home	0	NUMBER
+1.0	England	be of	50s	LOCATION	NUMBER
+1.0	Ricky Ponting 's Australians	overpower tourist on	day	PERSON	DATE
+1.0	Australians	have	lot	O	MISC
+1.0	it	be	run for we	0	0
+1.0	australian team	break	record	0	0
+1.0	record	have	part	O	O
+1.0	he	believe after	11 year	0	NUMBER
+1.0	team	need	five more successive win at home	0	NUMBER
+1.0	sides	have	The Test cricket we 've played	O	O
+1.0	no-one	be in	history	0	0
+1.0	it	be	good run	0	0
+1.0	cricket	have	dynasties	O	O
+1.0	Matthew Engel	editor of	cricketing bible	PERSON	0
+1.0	their	have	era	O	O
+1.0	Sydney morning Herald	say at_time	Saturday	ORGANIZATION	DATE
+1.0	it	be	really good run	0	0
+1.0	australian team	need	five more successive win at home	0	NUMBER
+1.0	its	have	crystal replica	O	O
+1.0	dynasties	have	one	NUMBER	O
+1.0	australian team	need	five more win	0	NUMBER
+1.0	Ricky Ponting 's Australians	overpower	english tourist	PERSON	0
+1.0	Australia	have	own	O	O
+1.0	Ponting 's side	have play	17 test	PERSON	NUMBER
+1.0	Ricky Ponting	have	Australians	PERSON	MISC
+1.0	team	have	youth	O	O
+1.0	70s	have	team	O	NUMBER
+1.0	australian team	need	five more successive win	0	NUMBER
+1.0	Steve Waugh 's captaincy	begin	tenure	PERSON	0
+1.0	its	have	chances	O	O
+1.0	England	of	team	LOCATION	0
+1.0	16	draw	one	NUMBER	NUMBER
+1.0	game	have	No. side	O	O
+1.0	their	have	trio	O	O
+1.0	Australia	have	shame	O	O
+1.0	Ricky Ponting 's Australians	overpower tourist on	day of Sydney Test Friday	PERSON	DATE
+1.0	Ricky Ponting 's Australians	overpower tourist by	10 wicket before lunch	PERSON	NUMBER
+1.0	1980s	have	West Indian sides	O	DATE
+1.0	Ponting	have	side	PERSON	0
+1.0	domination	have	era	O	O
+0.5501093039005212	australian team	weaken by	World Series Cricket	0	MISC
+1.0	2005 ash defeat	be in	England 5-0 in their first Ashes whitewash	DATE	LOCATION
+1.0	Ricky Ponting 's Australians	overpower tourist on	fourth day	PERSON	DATE
+1.0	England	have	lot	O	LOCATION

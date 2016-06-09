@@ -1,0 +1,75 @@
+1.0	Vinexpo	have	manager Robert Beynat	PERSON	LOCATION
+1.0	wine	have	popularity	O	O
+1.0	wine	have	popularity	0	0
+1.0	average price	be	higher in Britain than in most european country	0	LOCATION
+1.0	Vinexpo	be	hold second June in Bordeaux	LOCATION	SET
+1.0	briton	become in	Europe	0	LOCATION
+1.0	briton	be	set	0	0
+1.0	average price	be	at 3.11 pound higher in Britain than in european country	0	MONEY
+0.7706503149824523	it	best way for	drinker	0	0
+1.0	growth	be explain by	rise	0	0
+1.0	average price	be	at 3.11 pound higher in Britain than in most european country	0	MONEY
+1.0	Britain	have	neighbours	O	O
+1.0	price	be	at 3.11 pound higher than in most european country	0	MONEY
+0.32468555244207997	it	be	consider	0	0
+0.7706503149824523	it	way for	new drinker	0	0
+1.0	Vinexpo	showcase 's	world	LOCATION	0
+1.0	Rose wine	be in	particular	0	0
+1.0	world	have	showcase	O	O
+1.0	briton	become accord to	report publish by Vinexpo wine trade exhibition on Wednesday	0	LOCATION
+1.0	briton	become accord to	report publish by Vinexpo wine trade exhibition	0	LOCATION
+1.0	growth	be	explain	0	0
+1.0	Vinexpo 's general manager Robert Beynat	tell	BBC radio	LOCATION	ORGANIZATION
+1.0	growth	be in	retail value	0	0
+1.0	it	be consider	way for new drinker	0	0
+1.0	wine	have	amount	O	O
+1.0	fact	have	amount	O	O
+1.0	average price	be	at 3.11 pound higher than in most european country	0	MONEY
+1.0	briton	be set	become in Europe	0	LOCATION
+1.0	price	be	at 3.11 pound higher in Britain than in european country	0	MONEY
+1.0	average price	be	at 3.11 pound higher than in european country	0	MONEY
+1.0	briton	become	biggest spender	0	0
+1.0	briton	drink	fewer bottle	0	0
+1.0	price	be higher than	than european country	0	0
+1.0	it	be consider	way for drinker	0	0
+1.0	Vinexpo 's general manager Robert Beynat	say	add	0	0
+1.0	average price	be	higher in Britain than in european country	0	LOCATION
+1.0	briton	become accord to	report	0	0
+1.0	Britain	be	expect	LOCATION	0
+1.0	it	be consider	best way for drinker	0	0
+0.7706503149824523	it	best way for	new drinker	0	0
+1.0	beer	have	sales	O	O
+1.0	growth	be explain by	rise in amount	0	0
+1.0	price	be	at 3.11 pound higher in Britain than in most european country	0	MONEY
+1.0	briton	become	spender on wine	0	0
+1.0	average price	be higher than	than most european country	0	0
+1.0	briton	become	spender	0	0
+1.0	briton	become	biggest spender on wine	0	0
+0.9066239423920611	sale	have in	have slow decline	0	0
+1.0	Vinexpo	have	Robert Beynat	LOCATION	PERSON
+0.7706503149824523	it	way for	drinker	0	0
+1.0	price	be	at 3.11 pound higher than in european country	0	MONEY
+1.0	Vinexpo	be hold at_time	second June	LOCATION	SET
+1.0	price	be higher than	than most european country	0	0
+1.0	Britain	overtake	its european neighbour	LOCATION	DURATION
+1.0	rise	be in	amount of wine drunk	0	0
+1.0	retail value	be in	Britain	0	LOCATION
+0.9066239423920611	sale	have in	have decline	0	0
+1.0	it	be consider	best way	0	0
+1.0	briton	drink bottle than	french	0	0
+1.0	briton	become accord to	report publish	0	0
+1.0	it	be consider	way	0	0
+1.0	money	have	terms	O	O
+1.0	price	be	higher in Britain than in most european country	0	LOCATION
+1.0	it	be consider	best way for new drinker	0	0
+1.0	briton	drink	bottle	0	0
+1.0	price	be	higher in Britain than in european country	0	LOCATION
+1.0	Britain	overtake	its neighbour	LOCATION	0
+1.0	it	enter	wine world	0	0
+1.0	briton	be set	become	0	0
+1.0	bottle	have	price	O	O
+1.0	Vinexpo 's manager Robert Beynat	tell	BBC radio	LOCATION	ORGANIZATION
+1.0	average price	be higher than	than european country	0	0
+1.0	world	have	largest showcase for wine	0	0
+1.0	Vinexpo	showcase for	wine	LOCATION	0
+1.0	wine	be in	Britain	0	LOCATION

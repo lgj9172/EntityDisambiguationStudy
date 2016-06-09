@@ -1,0 +1,69 @@
+1.0	temperature last year	be	12.8 degree above century yearly average	DATE	SET
+1.0	temperature	rise in	northern part of country	0	0
+1.0	month	fourth december on	record	DATE	0
+1.0	average temperature last year	be	12.8 degree above 20th century average	DATE	NUMBER
+1.0	temperature year	be	12.8 degree above century average	DATE	NUMBER
+1.0	temperature last year	be	12.8 degree above century average	DATE	NUMBER
+1.0	month	become by	end	DATE	DATE
+1.0	December	begin with	its chill	DATE	0
+1.0	month	december on	record	DATE	0
+1.0	temperature year	be	12.8 degree	DATE	NUMBER
+1.0	average temperature year	exclude	Alaska state	DATE	LOCATION
+1.0	average temperature last year	be in	the United States	DATE	LOCATION
+1.0	temperature year	be	12.8 degree above 20th century average	DATE	NUMBER
+1.0	month	become on	record	DATE	0
+1.0	temperature last year	be	12.8 degree above 20th century average	DATE	NUMBER
+1.0	average temperature last year	be	12.8 degree above century average	DATE	NUMBER
+1.0	temperature	rise in	especially part	0	0
+1.0	average temperature	be	12.8 degree	0	NUMBER
+1.0	average temperature year	be	12.8 degree above 20th century yearly average	DATE	SET
+1.0	temperature year	be	12.8 degree above 20th century yearly average	DATE	SET
+1.0	month	become	fourth December on record	DATE	ORDINAL
+1.0	temperature	rise in	especially northern part	0	0
+1.0	temperature year	be	12.8 degree above century yearly average	DATE	SET
+1.0	December 2006	begin with	its chill	DATE	0
+1.0	average temperature	be	12.8 degree above century yearly average	0	SET
+1.0	average temperature	be	12.8 degree above century average	0	NUMBER
+1.0	temperature last year	be	12.8 degree	DATE	NUMBER
+1.0	temperature	rise in	part	0	0
+1.0	December	begin with	its normal chill	DATE	0
+1.0	temperature	rise in	especially part of country	0	0
+1.0	temperature	be	12.8 degree above century average	0	NUMBER
+1.0	average temperature year	be	12.8 degree above century yearly average	DATE	SET
+1.0	temperature last year	be	12.8 degree above 20th century yearly average	DATE	SET
+1.0	temperature	rise in	part of country	0	0
+1.0	temperature last year	exclude	Alaska state	DATE	LOCATION
+1.0	average temperature	be	12.8 degree above 20th century yearly average	0	SET
+1.0	temperature	be	12.8 degree above 20th century average	0	NUMBER
+1.0	December 2006	begin in	the United States	DATE	LOCATION
+1.0	temperature	rise in	second half	0	ORDINAL
+1.0	month	have	warming trend	O	DATE
+1.0	average temperature year	be	12.8 degree above 20th century average	DATE	NUMBER
+1.0	temperature	be	12.8 degree above century yearly average	0	SET
+1.0	average temperature last year	be	12.8 degree above century yearly average	DATE	SET
+1.0	average temperature	be	12.8 degree above 20th century average	0	NUMBER
+1.0	average temperature year	be	12.8 degree	DATE	NUMBER
+1.0	December	have	temperatures	O	DATE
+1.0	month	become	December on record	DATE	DATE
+1.0	country	have	part	O	O
+1.0	temperature	exclude	Alaska state	0	LOCATION
+1.0	temperature	be	12.8 degree	0	NUMBER
+1.0	temperature	rise in	northern part	0	0
+1.0	year	be in	US history	DURATION	LOCATION
+1.0	temperature year	exclude	Alaska state	DATE	LOCATION
+1.0	average temperature last year	exclude	Alaska state	DATE	LOCATION
+1.0	average temperature year	be	12.8 degree above century average	DATE	NUMBER
+1.0	month	become	December	DATE	DATE
+1.0	average temperature	exclude	Alaska state	0	LOCATION
+1.0	sixth warmest	be in	world	ORDINAL	0
+1.0	average temperature last year	be	12.8 degree above 20th century yearly average	DATE	SET
+1.0	temperature	be	12.8 degree above 20th century yearly average	0	SET
+1.0	temperature	rise in	especially northern part of country	0	0
+1.0	December 2006	have	chill	O	O
+1.0	National climate Data Center	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	December 2006	begin with	its normal chill	DATE	0
+1.0	month	become	fourth December	DATE	ORDINAL
+1.0	temperature	rise in	half	0	0
+1.0	record	be in	the United States	0	LOCATION
+1.0	December	begin in	the United States	DATE	LOCATION
+1.0	average temperature last year	be	12.8 degree	DATE	NUMBER

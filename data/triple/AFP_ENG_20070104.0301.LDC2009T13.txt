@@ -1,0 +1,25 @@
+1.0	Britain 's National Health Service	will face	shortage	LOCATION	0
+1.0	Health	have	Department	ORGANIZATION	ORGANIZATION
+1.0	Britain 's state-run National Health Service	will face	shortage of doctor	LOCATION	0
+1.0	nhs strategy document	call for	2.7-percent reduction	0	0
+1.0	junior	have	short	O	O
+1.0	Britain 's National Health Service	will face shortage by	2011	LOCATION	DATE
+1.0	Britain	have	National Health Service	ORGANIZATION	LOCATION
+1.0	british government	for	Department of Health	0	ORGANIZATION
+1.0	Britain	have	National Health Service	LOCATION	ORGANIZATION
+1.0	consultants	have	surplus	O	O
+1.0	nhs strategy document	call for	2.7-percent reduction in staff	0	0
+1.0	government	have	Department	ORGANIZATION	O
+1.0	Britain 's state-run National Health Service	will face shortage by	2011	LOCATION	DATE
+1.0	nhs strategy document	call for	reduction	0	0
+1.0	doctors	have	short	O	O
+1.0	nhs strategy document	call for	reduction in staff	0	0
+1.0	nurses	have	short	O	O
+1.0	workers	have	surplus	O	O
+1.0	reduction	be in	staff	0	0
+1.0	Britain 's state-run National Health Service	will face	shortage	LOCATION	0
+1.0	Britain 's National Health Service	will face	shortage of doctor	LOCATION	0
+0.7114681048455028	leak government report	publish	Thursday	0	DATE
+0.7114681048455028	government report	publish	Thursday	0	DATE
+1.0	doctors	have	shortage	O	O
+1.0	nurses	have	shortage	O	O

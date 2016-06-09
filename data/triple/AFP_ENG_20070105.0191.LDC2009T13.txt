@@ -1,0 +1,50 @@
+1.0	service	have	quality	O	O
+1.0	Europe 's biggest telecom operator	be in	mid-November	LOCATION	DATE
+1.0	german telecommunications	of chairman be	Rene Obermann	0	PERSON
+1.0	a letter	have	service	O	O
+1.0	which	have	copy	O	O
+1.0	Rene Obermann	paint	picture of situation	PERSON	0
+1.0	new chairman	warn in	letter	0	0
+1.0	it	say	goodbye	0	0
+1.0	measures	have	Friday	DATE	O
+1.0	Rene Obermann	paint	sombre picture of situation	PERSON	0
+1.0	year	have	beginning	DATE	DATE
+1.0	Europe	have	telecoms operator	O	LOCATION
+1.0	employees	offer condition compare with	company	0	0
+1.0	it	say goodbye to	certain practice	0	0
+1.0	labour cost	boost	productivity	0	0
+1.0	Deutsche Telekom	embark at	beginning of year	ORGANIZATION	DATE
+1.0	Europe	of	biggest telecom operator in mid-November	LOCATION	DATE
+0.3505170746302929	Deutsche Telekom	embark	axe	ORGANIZATION	0
+1.0	chairman	warn to	employee	0	0
+1.0	chairman	warn on	Friday	0	DATE
+1.0	Rene Obermann	paint picture in	he letter	PERSON	0
+1.0	chairman	warn in	letter	0	0
+1.0	Deutsche Telekom	embark on	programme	ORGANIZATION	0
+0.3505170746302929	Deutsche Telekom	axe by	2008	ORGANIZATION	DATE
+1.0	other company	be in	sector	0	0
+1.0	whom	have	enjoy	O	O
+1.0	situation	have	picture	O	O
+0.13382134206666407	it	say to	certain practice	0	0
+1.0	copy	be	obtain	0	0
+1.0	it	say goodbye to	practice	0	0
+1.0	telecoms operator	have	chief	O	O
+1.0	employees	offer condition compare with	company in sector	0	0
+1.0	Deutsche Telekom	be	Rene Obermann	ORGANIZATION	PERSON
+0.13382134206666407	it	say to	practice	0	0
+1.0	new chairman	warn on	Friday	0	DATE
+1.0	new chairman	warn to	employee	0	0
+1.0	telecommunications	have	chairman	O	O
+1.0	copy	be obtain by	afp	0	0
+1.0	Deutsche Telekom	axe	32,000 job	ORGANIZATION	NUMBER
+1.0	Rene Obermann	have	letter	O	O
+1.0	Deutsche Telekom	embark at	beginning of last year	ORGANIZATION	DATE
+1.0	employees	have	aim	O	O
+0.3505170746302929	Deutsche Telekom	embark	axe by 2008	ORGANIZATION	DATE
+1.0	Rene Obermann	paint	sombre picture	PERSON	0
+1.0	customers	have	exodus	O	O
+1.0	Deutsche Telekom	embark at	beginning	ORGANIZATION	DATE
+1.0	employees	offer condition compare with	other company	0	0
+1.0	employees	offer condition compare with	other company in sector	0	0
+1.0	hourly labour cost	boost	productivity	SET	0
+1.0	Rene Obermann	paint	picture	PERSON	0

@@ -1,0 +1,81 @@
+1.0	gross domestic product	be	likely	NUMBER	0
+1.0	capita gross product	surpass	10,000 dollar	NUMBER	MONEY
+1.0	Peng Peng	researcher with	Guangzhou Academy of Social Sciences	PERSON	ORGANIZATION
+1.0	capita gdp	be in	city	0	0
+1.0	10,000-dollar figure	be recognize threshold between	develop	0	0
+1.0	China	of	export	LOCATION	0
+1.0	China	have	first developed city	LOCATION	ORDINAL
+1.0	country 's export industry	have soar in	year	0	0
+1.0	Guangdong	produce about	one-third	LOCATION	ORDINAL
+1.0	country	have	export industry	0	0
+1.0	figure	be	widely recognize threshold	0	0
+1.0	Guangzhou	become	China 's developed city	ORGANIZATION	LOCATION
+1.0	Guangzhou	become	China 's city	ORGANIZATION	LOCATION
+1.0	city	put brake in	ahead bid for more	0	0
+1.0	capita domestic product	surpass	10,000 dollar	0	MONEY
+1.0	capita gross domestic product	be in	south China 's Guangzhou city	NUMBER	LOCATION
+1.0	figure	be	threshold	0	0
+1.0	Guangzhou	become	China 's first city	ORGANIZATION	ORDINAL
+1.0	Xinhua news agency	cite	city government report	ORGANIZATION	0
+1.0	Guangdong	produce about	one-third of China 's export	LOCATION	LOCATION
+1.0	city	put brake in	bid for more balanced	0	0
+1.0	Guangzhou paper	quote	Peng Peng	ORGANIZATION	PERSON
+1.0	10,000-dollar figure	develop	country	0	0
+1.0	China	have	Guangzhou city	O	LOCATION
+1.0	gross product	surpass	10,000 dollar	NUMBER	MONEY
+1.0	seven million	have	city	O	NUMBER
+1.0	China	have	manufacturing hub	O	LOCATION
+1.0	China	have	city	O	LOCATION
+1.0	figure	be threshold between	develop	0	0
+1.0	growth	be propel	industry base there	0	0
+1.0	10,000-dollar figure	be	recognize threshold	0	0
+1.0	10,000-dollar figure	be threshold between	develop	0	0
+1.0	city	put brake in	bid	0	0
+1.0	capita domestic product	be	likely	0	0
+1.0	growth	be in	year	0	0
+1.0	10,000-dollar figure	be	threshold	0	0
+1.0	city	put brake on	growth	0	0
+1.0	city	put brake on	growth in year	0	0
+1.0	Guangzhou	become by	World Bank standard	ORGANIZATION	ORGANIZATION
+1.0	China	have	exports	O	LOCATION
+1.0	figure	be	recognize	0	0
+1.0	domestic product	be	likely	0	0
+1.0	product	surpass	10,000 dollar	0	MONEY
+1.0	city	put brake in	ahead bid	0	0
+1.0	gross product	be	likely	NUMBER	0
+1.0	10,000-dollar figure	be widely recognize threshold between	develop	0	0
+1.0	Social Sciences	have	Guangzhou Academy	ORGANIZATION	ORGANIZATION
+1.0	country	include	Hungary	0	LOCATION
+1.0	Guangdong province	have	manufacturing hub	O	O
+1.0	product	be	likely	0	0
+1.0	capita product	surpass	10,000 dollar	0	MONEY
+1.0	figure	develop	country	0	0
+1.0	gross domestic product	surpass	10,000 dollar	NUMBER	MONEY
+1.0	capita gross product	be	likely	NUMBER	0
+1.0	growth	be propel	industry base	0	0
+1.0	figure	be widely recognize threshold between	develop	0	0
+1.0	country	include hungary accord to	International Monetary Fund	0	ORGANIZATION
+1.0	exports	have	one-third	ORDINAL	O
+1.0	city	put	brake	0	0
+1.0	growth	be propel	industry	0	0
+1.0	domestic product	surpass	10,000 dollar	0	MONEY
+1.0	researcher	be with	Guangzhou Academy of Social Sciences	0	ORGANIZATION
+1.0	Guangzhou	become	paper	ORGANIZATION	0
+1.0	figure	be	recognize threshold	0	0
+1.0	capita gross domestic product	surpass	10,000 dollar	NUMBER	MONEY
+1.0	figure	be recognize threshold between	develop	0	0
+1.0	country	have	export industry	O	O
+1.0	8,500 dollar	be in	2005	MONEY	DATE
+1.0	growth	be in	city	0	0
+1.0	mark	report on	Thursday	0	DATE
+1.0	country 's export industry	have soar in	recent year	0	DURATION
+1.0	China	in	Guangzhou city	LOCATION	LOCATION
+1.0	China	in	manufacturing hub of Guangdong province	LOCATION	LOCATION
+1.0	city	put brake in	bid for more	0	0
+1.0	10,000-dollar figure	be	widely recognize threshold	0	0
+1.0	Guangzhou	become	China 's first developed city	ORGANIZATION	ORDINAL
+1.0	growth	be propel industry by	automobile manufacturing electronics	0	0
+1.0	capita gross domestic product	be	likely	NUMBER	0
+1.0	breakthrough	be in	GDP capita	0	0
+1.0	city	put brake in	ahead bid for more balanced	0	0
+1.0	capita product	be	likely	0	0

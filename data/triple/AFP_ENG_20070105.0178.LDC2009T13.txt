@@ -1,0 +1,92 @@
+1.0	China 's	be key player in	diplomatic maneuvering over Iran 's nuclear program	LOCATION	LOCATION
+1.0	Iran	make	response	LOCATION	0
+1.0	Iran	over	nuclear program	LOCATION	0
+1.0	key player	be in	diplomatic maneuvering over Iran 's nuclear program	0	LOCATION
+1.0	China 's	be	member	0	0
+1.0	Tehran	have	right	O	LOCATION
+1.0	China 's	be	veto-wielding	0	0
+1.0	China 's	be	veto-wielding member	0	0
+1.0	major energy interest	be in	Iran	0	LOCATION
+1.0	Chinese President Hu Jintao	tell	Ali Larijani	PERSON	PERSON
+1.0	China	have	policy	LOCATION	0
+1.0	Tehran	have	program	O	O
+1.0	China 's	vote at_time	last month	LOCATION	DATE
+1.0	Hu Jintao	be	Chinese	PERSON	MISC
+1.0	Tehran	have	right	LOCATION	0
+1.0	republic	have	program	O	O
+1.0	China	have	state media	LOCATION	0
+1.0	China 's	be key player in	diplomatic maneuvering over Iran 's program	LOCATION	LOCATION
+1.0	China 's	be member of	UN security Council	0	ORGANIZATION
+1.0	international community	seek solution to	nuclear issue	0	0
+1.0	China 's	be veto-wielding permanent member of	UN security Council	0	ORGANIZATION
+1.0	China 's	vote at_time	month	LOCATION	DATE
+1.0	China	have	policy	O	LOCATION
+1.0	community	seek	lasting solution	0	0
+1.0	international community	seek	lasting solution	0	0
+1.0	China 's	be	key	LOCATION	0
+1.0	China 's	be player in	maneuvering	LOCATION	0
+0.5838843759186733	it	right to	full nuclear fuel cycle	0	0
+1.0	Chinese President Hu Jintao	be	quote	PERSON	0
+1.0	China 's	be key player in	diplomatic maneuvering	LOCATION	0
+0.17974797504936701	community	continue for	return	0	0
+1.0	UN Security Council	have	member	O	ORGANIZATION
+1.0	community	seek solution to	iranian nuclear issue	0	0
+1.0	China 's	be player in	diplomatic maneuvering over Iran 's program	LOCATION	LOCATION
+1.0	China 's	be permanent member of	UN security Council	0	ORGANIZATION
+1.0	international community	seek solution to	iranian issue	0	0
+1.0	China 's	be player in	diplomatic maneuvering	LOCATION	0
+1.0	it	have	right to full nuclear fuel cycle	0	0
+1.0	its program	be	entirely peaceful	0	0
+1.0	Iran	visit	top negotiator	LOCATION	0
+0.17974797504936701	international community	continue for	return	0	0
+1.0	China 's	be player in	diplomatic maneuvering over Iran 's nuclear program	LOCATION	LOCATION
+1.0	China 's	vote in	favor of UN resolution	LOCATION	ORGANIZATION
+1.0	UN resolution	have	favor	O	O
+1.0	a `` serious response ''	have	program	O	O
+1.0	China	have	state media	O	LOCATION
+1.0	Iran	make response to	resolution	LOCATION	0
+1.0	sanction	take aim at	effort	0	0
+1.0	community	continue	its diplomatic effort	0	0
+1.0	community	seek solution to	iranian issue	0	0
+1.0	international community	seek	solution	0	0
+1.0	international community	continue	its diplomatic effort	0	0
+1.0	its atomic program	be	peaceful	0	0
+1.0	its	have	program	O	O
+1.0	community	seek solution to	issue	0	0
+1.0	United States	fear	other	LOCATION	0
+1.0	China 's	be key player in	maneuvering over Iran 's nuclear program	LOCATION	LOCATION
+1.0	sanction	take aim at	iranian effort	0	0
+1.0	Iran	visit	nuclear negotiator	LOCATION	0
+1.0	China 's	be	permanent	0	0
+1.0	Iran	have	program	O	LOCATION
+1.0	Chinese President Hu Jintao	say by	state television	PERSON	0
+1.0	sanctions	have	negotiations	O	O
+1.0	community	seek	solution	0	0
+1.0	community	have	concerns	O	O
+1.0	community	seek solution to	nuclear issue	0	0
+1.0	China 's policy	be	consistent	LOCATION	0
+1.0	its program	be	peaceful	0	0
+1.0	China 's	be	key player	LOCATION	0
+1.0	Iran	visit	top nuclear negotiator	LOCATION	0
+1.0	China 's	be key player in	maneuvering over Iran 's program	LOCATION	LOCATION
+1.0	China 's	vote in	favor	LOCATION	0
+1.0	Tehran	have	failure	O	O
+1.0	international community	continue	its effort	0	0
+1.0	China 's	be	permanent member	0	0
+1.0	China 's	be veto-wielding member of	UN security Council	0	ORGANIZATION
+1.0	international community	seek solution to	issue	0	0
+1.0	China 's	be	player	LOCATION	0
+1.0	China 's	be	veto-wielding permanent member	0	0
+1.0	China 's	be player in	maneuvering over Iran 's program	LOCATION	LOCATION
+1.0	resolution	have	defiance	O	O
+1.0	community	continue	its effort	0	0
+1.0	sanction	take	aim	0	0
+1.0	the international community over the Iranian nuclear issue	have	efforts	O	O
+1.0	Iran	visit	negotiator	LOCATION	0
+1.0	Mahmoud Ahmadinejad	be	iranian	PERSON	0
+1.0	Iran	make	serious response	LOCATION	0
+1.0	Chinese President Hu Jintao	say by	chinese state television	PERSON	0
+1.0	China 's	be key player in	maneuvering	LOCATION	0
+1.0	international community	seek solution to	iranian nuclear issue	0	0
+1.0	its atomic program	be	entirely peaceful	0	0
+1.0	China 's	be player in	maneuvering over Iran 's nuclear program	LOCATION	LOCATION

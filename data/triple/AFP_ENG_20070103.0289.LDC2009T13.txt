@@ -1,0 +1,35 @@
+1.0	renew factional fighting	be in	Gaza	0	LOCATION
+1.0	people	be	wound	0	0
+1.0	member	be	shoot	0	0
+1.0	force	have	deputy chief	O	O
+1.0	two people	be	also wound	0	0
+1.0	member	be	earlier shoot	0	0
+1.0	clash	wound	at least 10 people	0	NUMBER
+1.0	clash	erupt follow	killing in Jabaliya	0	MISC
+1.0	member	be shoot in	town	0	0
+1.0	member	earlier be shoot in	northern town of Jabaliya	0	LOCATION
+1.0	member	earlier be shoot in	northern town	0	0
+1.0	member	be shoot in	town of Jabaliya	0	LOCATION
+1.0	member	be shoot in	northern town	0	0
+1.0	two people	be	wound	0	0
+0.9859773795464108	people	10 at	least	0	0
+1.0	security force	have	members	O	O
+1.0	member	earlier be shoot in	town of Jabaliya	0	LOCATION
+1.0	medic	say	security source	0	0
+1.0	two people	be also wound as	result	0	0
+1.0	member	earlier be shoot in	town	0	0
+1.0	clash	erupt follow	killing	0	0
+1.0	killing	be in	Jabaliya	0	MISC
+1.0	Khan Yunis	have	town	O	LOCATION
+1.0	two people	be wound as	result	0	0
+1.0	clash	be with	force loyal to ruling Hamas movement in southern town of Khan Yunis	0	LOCATION
+1.0	people	be also wound as	result	0	0
+1.0	a member of the Al - Aqsa Martyrs Brigades , loosely affiliated with Fatah	have	house	O	O
+1.0	Jabaliya	have	town	O	LOCATION
+1.0	people	be wound as	result	0	0
+1.0	Al	have	member	O	ORGANIZATION
+1.0	ruling Hamas movement	be in	southern town of Khan Yunis	ORGANIZATION	LOCATION
+1.0	people	be	also wound	0	0
+1.0	her	have	injuries	O	O
+1.0	a member of the Al - Aqsa Martyrs Brigades , loosely affiliated with Fatah	leave	he house	0	0
+1.0	member	be shoot in	northern town of Jabaliya	0	LOCATION

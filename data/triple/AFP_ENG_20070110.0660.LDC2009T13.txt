@@ -1,0 +1,52 @@
+0.1397451868590844	opposition	greater autonomy	four wealthy eastern province	0	NUMBER
+1.0	constitutional assembly meeting	have	decide	0	0
+1.0	majority	pass in	constitutional assembly	0	0
+0.1397451868590844	opposition	autonomy	four wealthy eastern province	0	NUMBER
+1.0	simple majority	pass in	constitutional assembly	0	0
+1.0	its	have	proposal	O	O
+1.0	opposition	insist on	two-third majority	0	ORDINAL
+1.0	irksome	be	Morales ' proposal	0	PERSON
+1.0	assembly meeting	ultimately have	decide	0	0
+1.0	government	have	decision withdraw	0	0
+1.0	Opposition National Unity leader Samuel Doria	welcome	government 's decision	PERSON	0
+1.0	presidents	have	one	NUMBER	O
+1.0	simple majority	pass in	assembly	0	0
+1.0	Morales	have	proposal	O	PERSON
+1.0	constitution	have	articles	O	O
+1.0	government	want	article	0	0
+1.0	constitutional assembly meeting	be in	Sucre	0	LOCATION
+1.0	President Evo Morales 's government	have	agenda	O	O
+0.7466540472821096	opposition	face	four wealthy eastern province	0	NUMBER
+1.0	Daniel Ortega	have	presidential inauguration	PERSON	0
+0.1397451868590844	opposition	greater autonomy	wealthy eastern province	0	0
+0.8435492011510667	opposition	seek	wealthy eastern province	0	0
+1.0	majority	pass in	assembly	0	0
+1.0	Daniel Ortega	have	inauguration	O	PERSON
+1.0	President Evo Morales 's government	have	attempt	O	O
+1.0	Morales	have	party	O	PERSON
+0.04812451479275803	President Evo Morales 's government	be deal at_time	Wednesday	PERSON	DATE
+1.0	Latin America	be	President Evo Morales 's	LOCATION	PERSON
+1.0	reforms	have	face	O	O
+1.0	Bolivia	have	gas industry	LOCATION	0
+0.1397451868590844	opposition	autonomy	wealthy eastern province	0	0
+1.0	Nicaragua	be  at_time	Wednesday	LOCATION	DATE
+1.0	government	have	decision	O	O
+1.0	Samuel Doria	be leader of	Opposition National Unity	PERSON	ORGANIZATION
+1.0	President Evo Morales 's government	be deal setback at_time	Wednesday	PERSON	DATE
+1.0	President Evo Morales 's government	be deal	setback	PERSON	0
+1.0	assembly meeting	have	decide	0	0
+1.0	constitutional assembly meeting	ultimately have	decide	0	0
+1.0	assembly	have	percent	PERCENT	O
+1.0	President Evo Morales	have	government	O	PERSON
+1.0	Bolivia	have	gas industry	O	LOCATION
+1.0	opposition	insist on	majority	0	0
+1.0	government	require	simple majority	0	0
+1.0	opposition members	have	stupidity	O	O
+0.7466540472821096	opposition	face	wealthy eastern province	0	0
+1.0	government	require	majority	0	0
+1.0	President Evo Morales 's government	abandon	its attempt	0	0
+0.8435492011510667	opposition	seek	four wealthy eastern province	0	NUMBER
+1.0	Evo Morales	have	government	PERSON	0
+0.04812451479275803	President Evo Morales 's government	be	deal	PERSON	0
+1.0	several elect leftist president	be in	Latin America	0	LOCATION
+1.0	Samuel Doria	be	Opposition National Unity	PERSON	ORGANIZATION

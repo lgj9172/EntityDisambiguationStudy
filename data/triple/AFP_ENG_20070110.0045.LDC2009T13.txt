@@ -1,0 +1,55 @@
+1.0	Malaysia	tighten security at_time	month	LOCATION	DATE
+1.0	Malaysia	anger	Thai government	LOCATION	MISC
+1.0	Malaysia	tighten	security	LOCATION	0
+1.0	resident	be mostly malay across	border	0	0
+1.0	relation	have	have strain	0	0
+1.0	1,800 people	have	safety	O	O
+1.0	malaysian border official	be attack by	group	0	0
+1.0	Southern Thailand	be in	grip	LOCATION	0
+1.0	131 Thai Muslims	flee across	border	NUMBER	0
+1.0	Malaysia	tighten security with	Thailand	LOCATION	LOCATION
+1.0	resident	be	ethnic malay	0	0
+1.0	resident	be	mostly malay with they neighbor across border	0	0
+1.0	resident	be	mostly ethnic malay with they neighbor across border	0	0
+1.0	1,800 people	have	neighbors	O	O
+1.0	entry	ban	Thai motorcycle	0	MISC
+1.0	soldier	be airlift to	hospital	0	0
+1.0	she	tell	AFP	0	ORGANIZATION
+1.0	resident	be	mostly ethnic malay	0	0
+1.0	their	have	lives	O	O
+1.0	Thailand	have	provinces	O	LOCATION
+1.0	resident	be malay with	they neighbor	0	0
+1.0	resident	be ethnic malay across	border	0	0
+1.0	resident	be malay across	border	0	0
+1.0	insurgency	have	grip	O	O
+1.0	Malaysia	tighten security at_time	last month	LOCATION	DATE
+1.0	border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	its	have	border	O	O
+1.0	Thai fuel smugglers	have	group	O	O
+1.0	provinces	have	Residents	O	O
+1.0	tension	be heighten in	2005	0	DATE
+1.0	Thailand	of	southernmost province	LOCATION	0
+1.0	resident	be mostly ethnic malay across	border	0	0
+1.0	resident	be ethnic malay with	they neighbor	0	0
+1.0	ban Di Samoa security outpost	be in	northern kedah state	LOCATION	0
+1.0	tension	be	heighten	0	0
+1.0	resident	be mostly malay with	they neighbor	0	0
+1.0	resident	be	ethnic malay with they neighbor across border	0	0
+1.0	border official	be attack by	group	0	0
+1.0	malaysian border official	be attack by	group of Thai fuel smuggler	0	MISC
+1.0	resident	be	malay with they neighbor across border	0	0
+1.0	Thai Muslims	flee across	border	MISC	0
+1.0	soldier	be airlift to	hospital for treatment	0	0
+0.8945479728213065	Malaysia	restrict	entry	LOCATION	0
+1.0	131 Thai Muslims	flee	say	NUMBER	0
+1.0	Malaysia	tighten security on	its border	LOCATION	0
+1.0	malay	be with	they neighbor	0	0
+1.0	border official	be	attack	0	0
+1.0	malaysian border official	be	attack	0	0
+1.0	Thai Muslims	flee	say	MISC	0
+1.0	soldier	be	airlift	0	0
+1.0	resident	be	mostly malay	0	0
+1.0	resident	be mostly ethnic malay with	they neighbor	0	0
+1.0	Malaysia authority	be investigate	attack	LOCATION	0
+1.0	resident	be	malay	0	0
+1.0	relation	have	have strain over crisis	0	0

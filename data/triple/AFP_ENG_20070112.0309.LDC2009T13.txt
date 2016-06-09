@@ -1,0 +1,83 @@
+1.0	first	recognise	Montenegro 's status	ORDINAL	LOCATION
+1.0	part	have	stability	O	O
+1.0	the historic town which is on the UNESCO heritage list	have	area	O	O
+1.0	premier	say at	press conference	0	0
+1.0	Croatian Prime Minister Ivo Sanader on Friday	have	country	O	O
+1.0	whose	have	government	O	O
+1.0	Yugoslav federation	have	remnant	O	O
+1.0	Sanader	say on	he first visit	PERSON	ORDINAL
+1.0	whose government	be first in	former Yugoslavia	0	LOCATION
+1.0	the first in the former Yugoslavia to recognise Montenegro 's new status	have	bid	O	O
+1.0	goodwill	have	sign	O	O
+0.7712512789165057	whose government	recognise	Montenegro 's status	0	LOCATION
+1.0	history	have	page	O	O
+1.0	croatian premier	say at	press conference	0	0
+1.0	Croatia	in	1991-1995 war	LOCATION	DATE
+0.7712512789165057	whose government	recognise	Montenegro 's new status	0	LOCATION
+1.0	Ivo Sanader	be on	Friday	PERSON	DATE
+1.0	damage	cause as	sign of goodwill	0	0
+1.0	Sanader	say on	he visit	PERSON	0
+1.0	premier	say at	earlier press conference	0	0
+1.0	embassy	have	opening	O	O
+1.0	Friday	have	partner Serbia	LOCATION	O
+1.0	its role	be in	Croatia 's 1991-1995 war	0	DATE
+1.0	Montenegro	proclaim	independence	LOCATION	0
+1.0	Zagreb	have	support	O	LOCATION
+1.0	damage	cause as	sign of goodwill between two neighbour	0	NUMBER
+1.0	Europe	have	part	O	LOCATION
+1.0	Sanader	say during	ceremony	PERSON	0
+1.0	its voter	choose	separate from loose union with Serbia	0	LOCATION
+1.0	Montenegro	have	status	O	LOCATION
+1.0	whose government	be	first	0	ORDINAL
+1.0	Croatian Prime Minister Ivo Sanader	open	he country 's embassy	MISC	0
+1.0	the stability of our part of Europe	become in	June	0	DATE
+1.0	damage	cause to	Dubrovnik area	0	LOCATION
+1.0	its voter	choose	separate from union with Serbia	0	LOCATION
+1.0	croatian premier	say at	earlier press conference	0	0
+1.0	hold talk	be with	Zeljko Sturanovic	0	PERSON
+1.0	country	have	first embassy	0	ORDINAL
+1.0	the Croatian premier	say after	hold talk with Montenegrin Prime Minister Zeljko Sturanovic	0	PERSON
+1.0	its voter	choose	separate from loose union	0	0
+1.0	Sanader	say on	he first official visit	PERSON	ORDINAL
+1.0	the Croatian premier	say after	hold talk	0	0
+1.0	country	have	embassy	O	O
+1.0	Dubrovnik	have	area	O	LOCATION
+1.0	Croatian Prime Minister Ivo Sanader	open	he country 's first embassy	MISC	ORDINAL
+1.0	historic referendum	be in	May 2006	0	DATE
+1.0	its traditional partner Serbia	remnant of	Yugoslav federation	LOCATION	MISC
+1.0	Ivo Sanader	be	Croatian	PERSON	MISC
+1.0	the stability of our part of Europe	become	independent	0	0
+1.0	independence	have	role	O	O
+1.0	Montenegro 's response	have	role	O	O
+1.0	Sanader	say to	Montenegro	PERSON	LOCATION
+1.0	Zagreb	have	support	LOCATION	0
+1.0	first	recognise	Montenegro 's new status	ORDINAL	LOCATION
+1.0	its voter	separate with	its traditional partner Serbia	0	LOCATION
+1.0	Sanader	mark	opening of embassy	PERSON	0
+1.0	its voter	separate with	last remnant of Yugoslav federation	0	MISC
+1.0	Croatia	have	war	O	LOCATION
+1.0	damage	cause as	sign	0	0
+1.0	its voter	choose	separate with Serbia	0	LOCATION
+1.0	its voter	separate with	remnant of Yugoslav federation	0	MISC
+1.0	its voter	choose	separate	0	0
+1.0	wars	have	years	DURATION	O
+1.0	its voter	separate with	last remnant	0	0
+1.0	Sanader	say on	he official visit	PERSON	0
+1.0	aggression	have	years	DURATION	O
+1.0	Montenegro	agree in	2005	LOCATION	DATE
+1.0	its voter	separate from	union	0	0
+1.0	its voter	separate from	loose union	0	0
+1.0	Sanader	mark	opening	PERSON	0
+1.0	war	have	outbreak	O	O
+1.0	the Croatian premier	say after	talk with Montenegrin Prime Minister Zeljko Sturanovic	0	PERSON
+1.0	Montenegro	with	response	LOCATION	0
+1.0	Montenegro	have	response	O	LOCATION
+1.0	the Croatian premier	say after	talk	0	0
+1.0	Montenegro	have	voters	O	O
+1.0	its voter	separate with	remnant	0	0
+1.0	Zeljko Sturanovic	be with	Montenegrin	PERSON	MISC
+1.0	Montenegro	have	new status	LOCATION	0
+1.0	its voter	choose	separate from union	0	0
+1.0	Sanader	have	visit	O	O
+1.0	We	have	part	O	O
+1.0	the former Yugoslavia	have	army	O	LOCATION

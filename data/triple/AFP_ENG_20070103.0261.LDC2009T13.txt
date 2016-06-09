@@ -1,0 +1,13 @@
+1.0	result	be in	Australia	0	LOCATION
+1.0	Rohan Bopanna	be	Mario Ancic	PERSON	PERSON
+1.0	ancic/ancic cro	double	Mirza/Bopanna	0	0
+1.0	Croatia	be	India	LOCATION	LOCATION
+1.0	Women	have	singles	0	0
+1.0	Men	have	singles	O	O
+1.0	Croatia	be bt of	India	LOCATION	LOCATION
+1.0	Women	have	singles	O	O
+1.0	Sanja Ancic	be	Sania Mirza	PERSON	PERSON
+1.0	cro	double	Mirza/Bopanna	0	0
+1.0	ancic/ancic cro	double	IND	0	0
+1.0	men	have	singles	0	0
+1.0	cro	double	IND	0	0

@@ -1,0 +1,122 @@
+1.0	Skrzypek	be	endorse by lawmaker after latter complete six-year term	PERSON	DURATION
+1.0	Slovenia	become	13th member of eurozone	LOCATION	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter	PERSON	0
+1.0	Skrzypek	be endorse after	latter complete six-year term	PERSON	DURATION
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker	NUMBER	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete	PERSON	DATE
+1.0	his	have	election	O	O
+1.0	2007	have	beginning	DATE	DATE
+1.0	Skrzypek	be	on Wednesday endorse after latter complete six-year term in office	PERSON	DATE
+1.0	Skrzypek 42	be endorse after	latter	NUMBER	0
+1.0	outgoing bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete	NUMBER	DATE
+1.0	Slovenia	13th member of	eurozone	LOCATION	0
+1.0	Skrzypek	be	on Wednesday endorse after latter complete term	PERSON	DATE
+1.0	outgoing bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek 42	be endorse after	latter complete in office	NUMBER	0
+1.0	Skrzypek 42	be endorse on	Wednesday	NUMBER	DATE
+1.0	outgoing central bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	dogma	have	matter	O	O
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete term in office	NUMBER	0
+1.0	Slovenia	become at	beginning	LOCATION	DATE
+1.0	bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek 42	be endorse after	latter complete six-year term	NUMBER	DURATION
+1.0	central bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	he election	be in	2005	0	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter complete six-year term in office	PERSON	DURATION
+1.0	he mandate	be in	2010	0	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete	NUMBER	DATE
+1.0	his	have	mandate	O	O
+1.0	Skrzypek 42	be endorse after	latter complete term	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse after latter	PERSON	DATE
+1.0	Skrzypek	be	endorse by lawmaker after latter complete	PERSON	0
+1.0	Skrzypek 42	be endorse by	lawmaker	NUMBER	0
+1.0	Skrzypek	succeed balcerowicz as	governor of bank	PERSON	0
+1.0	euro	have	adoption	O	O
+1.0	our	have	European Union partners	O	O
+1.0	Slovenia	become	member of eurozone	LOCATION	DATE
+1.0	eurozone	have	member	O	O
+1.0	central bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Skrzypek	be endorse on	Wednesday	PERSON	DATE
+1.0	Skrzypek	be	on Wednesday endorse after latter complete six-year term	PERSON	DATE
+1.0	Skrzypek	be	on Wednesday endorse after latter complete term in office	PERSON	DATE
+1.0	Skrzypek	be endorse after	latter complete in office	PERSON	0
+1.0	central bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek	be endorse after	latter complete term	PERSON	0
+1.0	bank	have	head	O	O
+1.0	Slovenia	become	member	LOCATION	0
+1.0	states	have	one	NUMBER	O
+1.0	treaty	have	part	O	O
+1.0	bank	have	governor	O	O
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete six-year term in office	NUMBER	DURATION
+1.0	new head	set target date for	Poland	0	LOCATION
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete in office	PERSON	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete term	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete in office	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete six-year term	NUMBER	DATE
+1.0	Skrzypek 42	succeed balcerowicz as	governor of central bank	NUMBER	0
+1.0	Skrzypek 42	be	endorse	NUMBER	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete in office	NUMBER	0
+1.0	new head	set	target date	0	0
+1.0	we	analyse	problem	0	0
+1.0	Skrzypek 42	succeed balcerowicz as	governor of bank	NUMBER	0
+1.0	outgoing bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete six-year term	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete in office	NUMBER	DATE
+1.0	Skrzypek	be	42	PERSON	NUMBER
+1.0	President Lech Kaczynski	say after	he election	PERSON	0
+1.0	Poland	have	advantage	O	LOCATION
+1.0	outgoing central bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Slovenia	become	13th member	LOCATION	ORDINAL
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete six-year term in office	PERSON	DATE
+1.0	Slovenia	become at	beginning of 2007	LOCATION	DATE
+1.0	Skrzypek	be endorse after	latter	PERSON	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete term	NUMBER	0
+1.0	Skrzypek	be endorse after	latter complete	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete term in office	NUMBER	DATE
+1.0	Skrzypek 42	be endorse after	latter complete term in office	NUMBER	0
+1.0	Skrzypek	be endorse after	latter complete six-year term in office	PERSON	DURATION
+1.0	eurozone	have	membership	O	O
+1.0	outgoing bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek	succeed balcerowicz as	governor of central bank	PERSON	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete in office	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete six-year term in office	NUMBER	DATE
+1.0	Skrzypek	succeed balcerowicz as	governor	PERSON	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete term in office	PERSON	0
+1.0	Skrzypek 42	be	on Wednesday endorse after latter complete term	NUMBER	DATE
+1.0	mandate	have	end	O	O
+1.0	Skrzypek	be	on Wednesday endorse after latter complete in office	PERSON	DATE
+1.0	Poland	one of	former communist state	LOCATION	0
+1.0	head	set	target date	0	0
+1.0	Skrzypek 42	be endorse after	latter complete	NUMBER	0
+1.0	outgoing central bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	Skrzypek	be	endorse by lawmaker after latter complete term	PERSON	0
+1.0	Skrzypek 42	be	endorse by lawmaker after latter	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete six-year term	PERSON	DATE
+1.0	head	join	eurozone	0	0
+1.0	Skrzypek	be	endorse	PERSON	0
+1.0	new head	join	eurozone	0	0
+1.0	bank governor Leszek Balcerowicz	cause	concern among we European Union partner	PERSON	ORGANIZATION
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete term in office	NUMBER	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete term	PERSON	DATE
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete	NUMBER	0
+1.0	Skrzypek	be endorse by	lawmaker	PERSON	0
+1.0	outgoing central bank governor Leszek Balcerowicz	say at_time	month	PERSON	DATE
+1.0	Skrzypek	be endorse after	latter complete term in office	PERSON	0
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter	PERSON	DATE
+1.0	head	set target date for	Poland	0	LOCATION
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter complete six-year term in office	NUMBER	DATE
+1.0	bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Skrzypek 42	be	endorse by lawmaker after latter complete six-year term	NUMBER	DURATION
+1.0	Slovenia	member of	eurozone	LOCATION	0
+1.0	bank governor Leszek Balcerowicz	cause	concern	PERSON	0
+1.0	central bank governor Leszek Balcerowicz	say at_time	last month	PERSON	DATE
+1.0	Skrzypek 42	succeed balcerowicz as	governor	NUMBER	0
+1.0	Skrzypek	be	on Wednesday endorse after latter complete	PERSON	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker after latter complete term in office	PERSON	DATE
+1.0	Skrzypek	succeed	Balcerowicz	PERSON	PERSON
+1.0	Skrzypek 42	succeed	Balcerowicz	NUMBER	PERSON
+1.0	Skrzypek 42	be endorse after	latter complete six-year term in office	NUMBER	DURATION
+1.0	Skrzypek 42	be	on Wednesday endorse by lawmaker after latter	NUMBER	DATE
+1.0	Skrzypek 42	be	on Wednesday endorse after latter	NUMBER	DATE
+1.0	Skrzypek	be	on Wednesday endorse by lawmaker	PERSON	DATE

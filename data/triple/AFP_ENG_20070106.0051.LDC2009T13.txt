@@ -1,0 +1,33 @@
+1.0	Al-Haritha	north of	Basra	0	LOCATION
+1.0	detainees	have	release	O	O
+1.0	Iraq	have	city	O	LOCATION
+1.0	Kuwaiti	have	escorting	O	MISC
+1.0	they captor	release	video	0	0
+1.0	US official	investigate abduction from	from Iraq 's second city	LOCATION	ORDINAL
+1.0	US soldier	be	kidnap	LOCATION	0
+1.0	descent	have	US soldier	O	O
+1.0	US official	investigate	abduction	LOCATION	0
+1.0	US soldier	be kidnap in	October	LOCATION	DATE
+1.0	A US soldier of Iraqi descent	visit	he iraqi wife	0	0
+1.0	US official	investigate	report abduction	LOCATION	0
+1.0	Americans	have	number	O	MISC
+1.0	bullet	be in	back of they head	0	0
+1.0	abduction	bring to	six	0	NUMBER
+1.0	Basra	have	north	O	LOCATION
+1.0	A US soldier of Iraqi descent	have	wife	O	O
+1.0	Their	have	captors	O	O
+1.0	gunmen	have	vehicles	O	O
+1.0	A US soldier of Iraqi descent	visit	he wife	0	0
+1.0	number	hold hostage in	Iraq 's	0	LOCATION
+1.0	Louis Fintor	be	US	PERSON	LOCATION
+1.0	Basra	be on	November 16	LOCATION	DATE
+1.0	Basra	be on	January 5	LOCATION	DATE
+1.0	Two Iraqi interpreters kidnapped along with an American citizen a day ago	have	heads	O	O
+1.0	stadium	be with	bullet in back of they head	0	0
+1.0	US official	investigate abduction from	from Iraq 's city	LOCATION	LOCATION
+1.0	Louis Fintor	be embassy spokesman of	US	PERSON	LOCATION
+1.0	spokesman	tell at_time	AFP Saturday	DATE	DATE
+1.0	they captor	show	hostage	0	0
+1.0	number	hold	hostage	0	0
+1.0	heads	have	back	O	O
+0.7065960887693167	hostage	number of	Americans	0	MISC

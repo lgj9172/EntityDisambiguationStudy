@@ -1,0 +1,9 @@
+1.0	100 civilian	be	kill	NUMBER	0
+1.0	civilian	be kill in	US	0	LOCATION
+1.0	clan elder	say	resident	0	0
+1.0	ethiopian air strike	be in	Somalia	0	MISC
+1.0	civilian	be	kill	0	0
+1.0	somali clan elder	say at_time	Thursday	0	DATE
+1.0	clan elder	say at_time	Thursday	0	DATE
+1.0	somali clan elder	say	resident	0	0
+1.0	100 civilian	be kill in	US	NUMBER	LOCATION

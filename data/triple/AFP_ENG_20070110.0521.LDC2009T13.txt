@@ -1,0 +1,26 @@
+1.0	Mexico	have	state	O	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract from bark of tree in Mexico 's eastern state of Quitana Roo	ORGANIZATION	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract from bark of tree	ORGANIZATION	0
+1.0	Japan 's Mitsuba	buy	latex extract from bark of tree in Mexico 's state	ORGANIZATION	LOCATION
+1.0	Japan 's Mitsuba	buy	latex	ORGANIZATION	0
+1.0	Japan 's Mitsuba	want	make	ORGANIZATION	0
+1.0	natural material	be	extract	0	0
+1.0	natural material	be extract from	chico	0	0
+1.0	tree	have	bark	O	O
+1.0	zapote tree	be in	Quintana-Roo	0	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract from bark	ORGANIZATION	0
+1.0	mexican product	be in	Asia	0	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract from bark of tree in Mexico 's state of Quitana Roo	ORGANIZATION	LOCATION
+1.0	Quitana Roo	have	state	O	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract	ORGANIZATION	0
+1.0	gum executive Juzu hashimoto	tell	reporter	PERSON	0
+1.0	Japan	have	Mitsuba	ORGANIZATION	LOCATION
+1.0	it	be	first	0	ORDINAL
+1.0	Japan 's Mitsuba	make	chew	ORGANIZATION	0
+1.0	Mexico	in	eastern state of Quitana Roo	LOCATION	LOCATION
+1.0	Japan 's Mitsuba	buy	latex extract from bark of tree in Mexico 's eastern state	ORGANIZATION	LOCATION
+1.0	Japan	have	Mitsuba	LOCATION	ORGANIZATION
+1.0	material	be extract from	chico	0	0
+1.0	tree	be in	Mexico 's eastern state of Quitana Roo	0	LOCATION
+1.0	gum executive Juzu hashimoto	tell reporter at_time	Wednesday	PERSON	DATE
+1.0	material	be	extract	0	0

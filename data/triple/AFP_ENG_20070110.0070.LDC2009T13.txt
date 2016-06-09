@@ -1,0 +1,153 @@
+1.0	27 percent	want	amendment	PERCENT	0
+1.0	South Korea 's	sway	election	0	0
+1.0	Roh possible	be	cite	PERSON	0
+1.0	it	will	will interpret	0	0
+1.0	percent	want	change	PERCENT	0
+1.0	Roh possible motivation	be cite as	main reason	PERSON	0
+1.0	poll	show	64 percent support	0	PERCENT
+1.0	Roh possible	be cite accord to	poll	PERSON	0
+1.0	percent	want	amendment	PERCENT	0
+1.0	Roh	propose in	surprise nationwide address	PERSON	0
+1.0	December	have	election	O	DATE
+1.0	disintegrating	have	signs	O	O
+1.0	I	will invoke	authority vest in I	0	0
+0.6319085913935688	poll	publish by	daily Chosun Ilbo	0	SET
+1.0	seats	have	127	NUMBER	O
+1.0	South Korea 's main opposition party	vow at_time	Wednesday	LOCATION	DATE
+1.0	last year	be in	office	DATE	0
+1.0	33 percent	favour	current system	PERCENT	DATE
+1.0	President Roh 's	have	term	O	O
+1.0	South Korea 's main opposition party	vow	term	LOCATION	0
+1.0	he	appear	duck	0	0
+1.0	South Korea 's opposition party	introduce	presidency	LOCATION	0
+1.0	two-third approval	be in	house	0	0
+1.0	South Korea	have	main opposition party	LOCATION	0
+1.0	it	will	now will interpret	0	0
+1.0	it	will	will only interpret as politically motivated attempt	0	0
+1.0	Roh	introduce amendment to	parliament in month	PERSON	0
+1.0	it	move to	democracy	0	0
+1.0	Roh possible motivation	be cite as	reason	PERSON	0
+1.0	Roh possible motivation	be cite as	main reason for delay	PERSON	0
+1.0	President Roh	be use	issue politically	PERSON	0
+1.0	70 percent	want	change	PERCENT	0
+1.0	Roh 's proposal	be	motivate	PERSON	0
+1.0	Roh	introduce	amendment	PERSON	0
+1.0	majority	support	introduction	0	0
+1.0	President Roh 's	have	proposals	O	PERSON
+1.0	opinion poll	indicate at_time	Wednesday	0	DATE
+1.0	Kang Jae-Sup	chairman of	Grand National Party	PERSON	ORGANIZATION
+0.6121733858042833	majority	introduction of	presidency	0	0
+1.0	President Roh 's	have	ruling	O	O
+1.0	percent	want amendment during	Roh 's term	PERCENT	PERSON
+1.0	Roh	introduce amendment to	parliament in coming few month	PERSON	DURATION
+1.0	Roh	during	term	PERSON	0
+1.0	South Korea 's opposition party	vow by	President Roh Moo-Hyun	LOCATION	PERSON
+1.0	it	turn	tide in he favor	0	0
+1.0	majority	support	introduction of two-term presidency	0	0
+1.0	Roh possible	be cite as	main reason	PERSON	0
+1.0	election	be only	conspiracy	0	0
+1.0	state	have	heads	O	O
+1.0	Sonn Ho-Chul	professor at	Sogang University	PERSON	ORGANIZATION
+1.0	South Korea 's opposition party	vow at_time	Wednesday	LOCATION	DATE
+1.0	South Korea 's main opposition party	vow by	President Roh Moo-Hyun	LOCATION	PERSON
+1.0	his	have	year	DATE	O
+1.0	President Roh	have	head	O	PERSON
+1.0	South Korea 's opposition party	vow	term	LOCATION	0
+1.0	he	appear duck in	he last year in office	0	DATE
+1.0	South Korea 's main opposition party	vow to	boycott attempt	LOCATION	0
+1.0	South Korea	adopt	five-year single-term presidency	LOCATION	DURATION
+1.0	it	will	will only interpret as motivated attempt	0	0
+1.0	poll	be in	Hankyoreh newspaper	0	ORGANIZATION
+1.0	majority	support	introduction of presidency	0	0
+1.0	percent	favour	system	PERCENT	0
+1.0	election	extend	conspiracy	0	0
+0.6121733858042833	majority	introduction of	two-term presidency	0	0
+1.0	respondents	have	percent	PERCENT	O
+1.0	South Korea 's main opposition party	introduce	two-term presidency	LOCATION	0
+1.0	Sogang University	be in	Seoul	ORGANIZATION	LOCATION
+1.0	South Korea	adopt	presidency	LOCATION	0
+1.0	it	will	now will only interpret as attempt	0	0
+1.0	country	have	good	O	O
+1.0	it	will	now will only interpret as politically motivated attempt	0	0
+1.0	my	have	rights	O	O
+1.0	he	appear	lame duck	0	0
+1.0	Uri	show	sign of disintegrate	PERSON	0
+1.0	future head	stand twice for	election	DATE	0
+1.0	his	have	term	O	O
+1.0	South Korea	adopt	five-year presidency	LOCATION	DURATION
+1.0	South Korea 's opposition party	vow to	boycott attempt	LOCATION	0
+1.0	it	move in	1987	0	DATE
+1.0	he	appear duck in	he last year	0	DATE
+1.0	it	will	will interpret as motivated attempt	0	0
+1.0	it	move	try	0	0
+1.0	70 percent	be	introduce	PERCENT	0
+1.0	he	appear duck in	he year	0	DATE
+1.0	it	will	will interpret as politically motivated attempt	0	0
+1.0	President Roh	be use	issue	PERSON	0
+1.0	it	will	will only interpret as attempt	0	0
+1.0	it	will	will interpret as attempt	0	0
+0.03191106735239502	percent	want during	Roh 's term	PERCENT	PERSON
+1.0	he approval rate	be around	10 percent	0	PERCENT
+1.0	Roh	have	term	O	PERSON
+1.0	I	will invoke	authority	0	0
+1.0	President Roh	be use	issue very politically	PERSON	0
+1.0	I	will invoke	authority vest	0	0
+1.0	election	be	conspiracy	0	0
+1.0	Roh	have	term	PERSON	0
+1.0	Roh possible	be cite as	reason for delay	PERSON	0
+1.0	Roh	introduce amendment to	parliament in coming month	PERSON	DURATION
+1.0	Roh	propose in	surprise address	PERSON	0
+1.0	opinion poll	be in	newspaper	0	0
+1.0	term presidency	have	supporters	O	O
+1.0	Roh	propose on	Tuesday	PERSON	DATE
+1.0	President Roh 's	have	proposal	PERSON	0
+1.0	Roh possible motivation	be	cite	PERSON	0
+1.0	Chosun Ilbo	be by	daily	ORGANIZATION	SET
+1.0	its	have	lawmakers	O	O
+1.0	Grand National Party	have	chairman	O	ORGANIZATION
+1.0	term	have	phase	O	O
+1.0	presidency	have	introduction	O	O
+1.0	it	will	now will interpret as motivated attempt	0	0
+1.0	it	will	now will only interpret as motivated attempt	0	0
+0.6319085913935688	poll	publish by	Chosun Ilbo	0	ORGANIZATION
+1.0	South Korea 's opposition party	introduce	two-term presidency	LOCATION	0
+0.03191106735239502	27 percent	want during	Roh 's term	PERCENT	PERSON
+1.0	South Korea 's main opposition party	introduce	presidency	LOCATION	0
+1.0	President Roh 's	have	approval rate	O	O
+1.0	it	will	now will interpret as politically motivated attempt	0	0
+1.0	tide	be in	he favor	0	0
+1.0	Roh	leave	office	PERSON	0
+1.0	they	need	two-third approval	DURATION	0
+1.0	GNP	have	127 of 296 seat	0	NUMBER
+1.0	I	will invoke	authority vest by constitution	0	0
+1.0	27 percent	want amendment during	Roh 's term	PERCENT	PERSON
+1.0	his	have	favor	O	O
+1.0	future head	stand for	election	DATE	0
+1.0	I	will invoke	authority vest in I by constitution	0	0
+1.0	Uri	show	sign	PERSON	0
+1.0	Roh possible motivation	be cite accord to	poll	PERSON	0
+1.0	Sonn Ho-Chul	tell	Korea Times	PERSON	ORGANIZATION
+1.0	percent	favour	current system	PERCENT	DATE
+1.0	Roh possible	be cite as	reason	PERSON	0
+1.0	South Korea 's	sway	upcome election	0	0
+1.0	Roh possible motivation	be cite as	reason for delay	PERSON	0
+1.0	he personal approval rate	be around	10 percent	0	PERCENT
+1.0	percent	be	introduce	PERCENT	0
+1.0	GNP	have	127 296 seat	0	NUMBER
+1.0	it	will	now will only interpret	0	0
+1.0	rule	have	decades	DURATION	O
+1.0	33 percent	favour	system	PERCENT	0
+1.0	Roh 's possible `` political motivation ''	have	motivation	O	O
+1.0	election	extend	power	0	0
+1.0	parliament	be in	the coming few month	0	DURATION
+1.0	Roh	amend	constitution	PERSON	0
+1.0	it	will	now will interpret as attempt	0	0
+1.0	South Korea	adopt	single-term presidency	LOCATION	0
+1.0	it	turn	tide	0	0
+1.0	he	appear duck in	he year in office	0	DATE
+1.0	Roh 's proposal	be	politically motivate	PERSON	0
+1.0	South Korea	have	opposition party	O	LOCATION
+1.0	Roh	introduce amendment to	parliament in few month	PERSON	DURATION
+1.0	I	exercise	my rights	0	0
+1.0	it	will	will only interpret	0	0
+1.0	Roh possible	be cite as	main reason for delay	PERSON	0

@@ -1,0 +1,17 @@
+0.8987096601315157	Sunni	kill	member	MISC	0
+1.0	council	have	member	O	O
+1.0	other	have	communities	O	O
+1.0	Akram al-Zubaidi	have	guards	O	O
+1.0	Iraq	have	Iraq 's rival Shiite	MISC	LOCATION
+1.0	Iraq 's rival Shiite	have	gangs	O	MISC
+1.0	Iraq	of	Iraq 's rival Shiite	LOCATION	MISC
+1.0	communities	have	members	O	O
+1.0	Iraq 's rival Shiite	have	bodyguards	O	O
+1.0	bodyguards	have	council	O	O
+1.0	Karbala	have	Shiite city	O	LOCATION
+1.0	other	of	community	0	0
+1.0	Iraq	have	Shiite city	O	LOCATION
+1.0	Najaf	have	city	O	LOCATION
+1.0	Iraq	of	Shiite holy city of Karbala	LOCATION	LOCATION
+1.0	Shiite city	have	council	O	O
+1.0	officer	tell	afp	0	0

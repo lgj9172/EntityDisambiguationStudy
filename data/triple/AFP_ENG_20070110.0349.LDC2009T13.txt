@@ -1,0 +1,43 @@
+1.0	flood water	break bank into	street	0	0
+1.0	Russia 's second city	be	found on swampland on Gulf by Tsar Peter	ORDINAL	PERSON
+1.0	Russia 's city	be found on	swampland on Gulf	LOCATION	LOCATION
+1.0	Russia 's second city	be	found	ORDINAL	0
+1.0	Russia 's second city	be	found on swampland by Tsar Peter	ORDINAL	PERSON
+1.0	historic centre	be under	threat Wednesday	0	DATE
+1.0	city	at	emergency situation ministry	0	0
+1.0	Russia 's city	be	found on swampland on Gulf of Finland by Tsar Peter	LOCATION	PERSON
+1.0	canals	have	network	O	O
+1.0	Russia	have	city	O	LOCATION
+1.0	city	have	emergency situations ministry	O	O
+1.0	Russia 's second city	be	found on swampland on Gulf of Finland by Tsar Peter	ORDINAL	PERSON
+1.0	Russia	have	second city	LOCATION	ORDINAL
+1.0	which	have	some	O	O
+1.0	Russia 's second city	be found on	swampland on Gulf of Finland in 1703	ORDINAL	DATE
+1.0	flood water	break bank into	street near world-famous Hermitage art museum	0	0
+1.0	flood water	break	bank of River Neva	0	LOCATION
+1.0	Russia 's city	be found on	swampland on Gulf of Finland in 1703	LOCATION	DATE
+1.0	Russia 's city	be	found on swampland by Tsar Peter	LOCATION	PERSON
+1.0	centre	be under	threat Wednesday	0	DATE
+1.0	Gulf of Finland	be in	1703	LOCATION	DATE
+1.0	Russia 's second city	be	found on swampland on Gulf of Finland in 1703 by Tsar Peter	ORDINAL	DATE
+1.0	River Neva	have	banks	O	LOCATION
+1.0	Russia 's city	be	found on swampland on Gulf of Finland in 1703 by Tsar Peter	LOCATION	DATE
+1.0	flood water	break bank into	street near Hermitage art museum	0	0
+1.0	Russia 's city	be	found on swampland on Gulf by Tsar Peter	LOCATION	PERSON
+1.0	flood water	break bank in	place	0	0
+1.0	Russia 's second city	be found on	swampland on Gulf of Finland	ORDINAL	LOCATION
+1.0	Russia 's second city	be found by	Tsar Peter	ORDINAL	PERSON
+1.0	centre	be under	threat	0	0
+0.8878036964398747	flood water	bank of	River Neva	0	LOCATION
+1.0	Russia 's city	be found on	swampland	LOCATION	0
+1.0	Russia 's city	be found on	swampland on Gulf of Finland	LOCATION	LOCATION
+1.0	flood water	break	bank	0	0
+1.0	Russia 's second city	be found on	swampland on Gulf	ORDINAL	LOCATION
+1.0	flood water	break bank in	spilling	0	0
+1.0	Russia 's city	be	found	LOCATION	0
+1.0	historic centre	be under	threat	0	0
+1.0	Russia 's second city	be found on	swampland	ORDINAL	0
+1.0	Finland	have	Gulf	LOCATION	LOCATION
+1.0	Saint Petersburg	have	centre	O	LOCATION
+1.0	city	have	population	O	O
+1.0	Russia 's city	be found by	Tsar Peter	LOCATION	PERSON

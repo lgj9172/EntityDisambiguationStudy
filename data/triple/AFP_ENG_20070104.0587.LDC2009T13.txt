@@ -1,0 +1,52 @@
+1.0	year	have	euro purchase	O	DATE
+1.0	acquisition	be subject to	regulatory approval	0	0
+1.0	sales agreement	have	part	O	O
+1.0	US operations	have	review	O	O
+1.0	Australia	have	QBE Insurance Group	ORGANIZATION	LOCATION
+1.0	QBE 's Winterthur US acquisition	come after	its 800 million dollar purchase	LOCATION	MONEY
+1.0	capital	have	combination	O	O
+1.0	Australia 's QBE Insurance Group	say at_time	Friday	LOCATION	DATE
+1.0	France	from	AXA SA	LOCATION	ORGANIZATION
+1.0	Australia 's QBE Insurance Group	expect	premium in 2007	ORGANIZATION	DATE
+1.0	Australia 's QBE Insurance Group	expect	gross premium in 2007	ORGANIZATION	NUMBER
+1.0	gross written premium	be in	2007	NUMBER	DATE
+1.0	last year	after	7.9 billion euro purchase	DATE	NUMBER
+1.0	QBE 's Winterthur US acquisition	come at_time	just three week	LOCATION	DURATION
+0.838007551351055	QBE	underwriter on	Lloyds of London market	ORGANIZATION	ORGANIZATION
+1.0	Winterthur US	have	acquisition	O	ORGANIZATION
+1.0	premium	be around	1.45 billion dollar	0	MONEY
+1.0	QBE	underwriter on	Lloyds	ORGANIZATION	ORGANIZATION
+0.838007551351055	QBE	underwriter on	Lloyds	ORGANIZATION	ORGANIZATION
+1.0	gross premium	be around	1.45 billion dollar	NUMBER	MONEY
+1.0	Australia 's QBE Insurance Group	expect	premium	ORGANIZATION	0
+1.0	agents	have	base	O	O
+1.0	London market	have	Lloyds	ORGANIZATION	O
+1.0	Australia 's QBE Insurance Group	expect	gross premium	ORGANIZATION	NUMBER
+1.0	QBE 's Winterthur US acquisition	come after	its 800 million dollar purchase of us-based property	LOCATION	MONEY
+1.0	QBE 's Winterthur US acquisition	come after	its 800 million dollar purchase of property	LOCATION	MONEY
+1.0	QBE	have	Winterthur US acquisition	ORGANIZATION	LOCATION
+1.0	Winterthur group	have	review	O	O
+1.0	Australia	have	QBE Insurance Group	LOCATION	ORGANIZATION
+1.0	Australia 's QBE Insurance Group	expect	written premium in 2007	ORGANIZATION	DATE
+1.0	Australia 's QBE Insurance Group	expect	written premium	ORGANIZATION	0
+1.0	Winterthur US	have	sale	O	LOCATION
+1.0	636 million dollar	be in	inter	MONEY	0
+1.0	dollars	have	profit	O	MONEY
+1.0	gross written premium	be around	1.45 billion dollar	NUMBER	MONEY
+1.0	France	have	AXA SA	ORGANIZATION	LOCATION
+1.0	Australia 's QBE Insurance Group	expect premium from	Winterthur	ORGANIZATION	0
+1.0	property	have	dollar purchase	O	O
+1.0	its	have	dollar purchase	O	O
+1.0	synergies	have	cost	O	O
+1.0	written premium	be around	1.45 billion dollar	0	MONEY
+1.0	funding	have	cost	O	O
+0.838007551351055	QBE	second underwriter on	Lloyds	ORGANIZATION	ORGANIZATION
+1.0	Australia 's QBE Insurance Group	expect	gross written premium	ORGANIZATION	NUMBER
+1.0	QBE	have	Winterthur US acquisition	O	ORGANIZATION
+1.0	casualty insurance company Praetorian Financial Group	have	dollar purchase	O	ORGANIZATION
+1.0	Australia 's QBE Insurance Group	expect	gross written premium in 2007	ORGANIZATION	NUMBER
+1.0	acquisition	be subject to	approval	0	0
+0.838007551351055	QBE	second underwriter on	Lloyds of London market	ORGANIZATION	ORGANIZATION
+1.0	acquisition	be	subject	0	0
+1.0	QBE 's Winterthur US acquisition	come at_time	three week	LOCATION	DURATION
+1.0	strong footprint	be in	western mid-west US state for small to medium property business through large base of independent agent	0	LOCATION

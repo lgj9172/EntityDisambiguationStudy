@@ -1,0 +1,64 @@
+1.0	President Iajuddin Ahmed	appoint	member of country 's court	PERSON	0
+1.0	President Iajuddin Ahmed	appoint	politically independent member of country 's court	PERSON	0
+1.0	President Iajuddin Ahmed	appoint	independent member of country 's court	PERSON	0
+1.0	President Iajuddin Ahmed	declare	state of emergency	PERSON	0
+1.0	poll	be	rig	0	0
+1.0	President Iajuddin Ahmed	quit	he controversial position	PERSON	0
+1.0	President Iajuddin Ahmed	have	position	O	O
+1.0	opposition party	have promise	series of protest	0	0
+1.0	announcement	come	hour	0	0
+1.0	government	have	chief	O	O
+1.0	Ahmed	will continue	serve	PERSON	0
+1.0	poll	demand	overhaul	0	0
+1.0	Bangladesh 's president	have	spokesman	O	O
+1.0	opposition party	have promise	series	0	0
+1.0	Ahmed	serve as	president	PERSON	0
+1.0	poll	demand	complete overhaul of voting list	0	0
+1.0	President Iajuddin Ahmed	appoint	politically independent member	PERSON	0
+1.0	opposition party	have promise	series of non-stop protest	0	0
+1.0	president	hold	free election	0	0
+1.0	President Iajuddin Ahmed	appoint	independent member	PERSON	0
+1.0	president	declare	emergency	0	0
+1.0	they	be boycott	election	0	0
+1.0	President Iajuddin Ahmed	declare	state	PERSON	0
+1.0	government	have deploy	60,000 troops across country	0	NUMBER
+1.0	Bangladesh	have	president	O	LOCATION
+1.0	President Iajuddin Ahmed	appoint	independent member of country 's supreme court	PERSON	0
+1.0	President Iajuddin Ahmed	impose night curfew across	nation	PERSON	0
+1.0	President Iajuddin Ahmed	impose	night curfew	PERSON	TIME
+1.0	Ahmed	however will continue	serve as president	PERSON	0
+1.0	poll	demand	complete overhaul	0	0
+1.0	government	have deploy	60,000 troops	0	NUMBER
+1.0	Ahmed	will continue	serve as president	PERSON	0
+1.0	Bangladesh	have	president	LOCATION	0
+1.0	Ahmed	however will continue	serve	PERSON	0
+1.0	he spokesman	tell	AFP	0	ORGANIZATION
+1.0	president	hold	election	0	0
+1.0	emergency	have	state	O	O
+1.0	blockades	have	series	O	O
+1.0	President Iajuddin Ahmed	appoint member to	post	PERSON	0
+1.0	President Iajuddin Ahmed	impose night curfew across	impoverished politically polarised nation	PERSON	0
+1.0	poll	be rig in	favour	0	0
+1.0	court	have	member	O	O
+1.0	violence	have	weeks	DURATION	O
+1.0	President Iajuddin Ahmed	quit	he position	PERSON	0
+1.0	country	have	court	O	O
+1.0	President Iajuddin Ahmed	impose night curfew across	politically polarised nation	PERSON	0
+1.0	strikes	have	series	O	O
+1.0	protests	have	series	O	O
+1.0	Party	have	favour	O	ORGANIZATION
+1.0	President Iajuddin Ahmed	appoint	politically independent member of country 's supreme court	PERSON	0
+1.0	President Iajuddin Ahmed	appoint	member of country 's supreme court	PERSON	0
+1.0	poll	demand	overhaul of voting list	0	0
+1.0	he spokesman	tell afp at_time	Thursday	0	DATE
+0.8248126077492078	President Iajuddin Ahmed	state of	emergency	PERSON	0
+1.0	President Iajuddin Ahmed	appoint	member	PERSON	0
+1.0	voting list	have	overhaul	O	O
+1.0	poll	be rig in	favour of Party	0	ORGANIZATION
+1.0	government	have	head	O	O
+1.0	election	will	will postpone	0	0
+1.0	country	of	supreme court	0	0
+1.0	President Iajuddin Ahmed	impose night curfew across	polarised nation	PERSON	0
+1.0	President Iajuddin Ahmed	impose night curfew across	impoverished polarised nation	PERSON	0
+1.0	poll	be rig in	favour of nationalist Party	0	ORGANIZATION
+1.0	forces	have	role	O	O

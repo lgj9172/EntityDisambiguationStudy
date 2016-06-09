@@ -1,0 +1,36 @@
+1.0	cut	be in	oil supplies	0	0
+1.0	republic	have	demand	O	O
+1.0	Kremlin spokesman	provide	confirmation	ORGANIZATION	0
+1.0	energy conflict	have	part	O	O
+1.0	Belarus	claim	breakthrough	LOCATION	0
+1.0	petroleum delivery	be in	Druzhba pipeline	0	MISC
+1.0	solution	have	prospects	O	O
+1.0	shipment	be cut as	part of energy conflict	0	0
+1.0	shipment	be	cut Monday as part of energy conflict	0	DATE
+1.0	ex-soviet republic	have	illegal demand for transit fee	0	0
+1.0	Kremlin spokesman	provide however	immediate confirmation	ORGANIZATION	0
+1.0	shipment	be cut at_time	Monday	0	DATE
+1.0	Russia	cut	oil supplies	LOCATION	0
+1.0	line	have	Slovakia section	0	LOCATION
+1.0	shipment	be	cut late Monday as part	0	DATE
+1.0	shipment	be	cut Monday as part of energy conflict between Russia	0	LOCATION
+1.0	shipment	be	cut Monday as part	0	DATE
+1.0	shipment	be cut at_time	late Monday	0	DATE
+1.0	Kremlin spokesman	provide	immediate confirmation	ORGANIZATION	0
+1.0	Belarus	claim breakthrough with	prospects of solution within two day	LOCATION	DURATION
+1.0	Belarus	claim breakthrough in	dispute	LOCATION	0
+1.0	Belarus	claim breakthrough with	prospects of solution	LOCATION	0
+1.0	Belarus	claim breakthrough in	dispute on Wednesday	LOCATION	DATE
+1.0	shipment	be	cut late Monday as part of energy conflict between Russia	0	LOCATION
+1.0	oil	have	siphoning	O	O
+1.0	shipment	be cut as	part of energy conflict between Russia	0	LOCATION
+1.0	shipment	be	cut late Monday as part of energy conflict	0	DATE
+1.0	Kremlin spokesman	provide however	confirmation	ORGANIZATION	0
+1.0	shipment	be	cut	0	0
+1.0	Russia	cut	oil supplies via Belarus	LOCATION	LOCATION
+1.0	Russia	cut	oil supplies via Belarus in response	LOCATION	LOCATION
+1.0	Belarus	be in	response	LOCATION	0
+1.0	Belarus	claim breakthrough with	prospects	LOCATION	0
+1.0	line	have	Slovakia section	O	O
+1.0	oil	have	Shipments	O	O
+1.0	shipment	be cut as	part	0	0

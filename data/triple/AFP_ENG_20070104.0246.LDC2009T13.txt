@@ -1,0 +1,150 @@
+1.0	tour table	have	sort	O	O
+1.0	OECD	be provide	attend by british official	ORGANIZATION	0
+1.0	OECD	be provide ahead at	meeting	ORGANIZATION	0
+1.0	A Foreign Office spokesman	be	sure	0	0
+1.0	OECD	be	provide	ORGANIZATION	0
+1.0	the OECD	ask	the OECD	0	0
+1.0	british Prime Minister Tony Blair	have defend	decision	PERSON	0
+1.0	OECD	on behalf of	work group on corporate bribery	ORGANIZATION	0
+1.0	case	have	discussion	O	O
+1.0	OECD	ask	provide ahead of discussion at meeting	ORGANIZATION	0
+1.0	OECD	be	provide ahead of discussion at meeting	ORGANIZATION	0
+1.0	this	be	discuss	0	0
+1.0	Britain 's Attorney General Peter Goldsmith	combate	bribery	PERSON	0
+1.0	articles	have	One	NUMBER	O
+1.0	OECD	ask	provide ahead at regular meeting	ORGANIZATION	0
+1.0	time	have	couple	DURATION	O
+1.0	BAE	agree for	72 Eurofighter jet	ORGANIZATION	NUMBER
+1.0	Britain 's	have	Attorney General Peter Goldsmith	PERSON	LOCATION
+1.0	group	have	sent	O	O
+1.0	OECD	ask	provide at regular meeting	ORGANIZATION	0
+1.0	Britain 's	be	to which party	LOCATION	0
+1.0	OECD	be provide at	regular meeting	ORGANIZATION	0
+1.0	Organisation	confirm at_time	Thursday	ORGANIZATION	DATE
+1.0	OECD	be provide at	regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	OECD	be	provide ahead of discussion of case at meeting	ORGANIZATION	0
+1.0	OECD convention	have	One	NUMBER	O
+1.0	its	have	investigation	O	O
+1.0	OECD	be	provide ahead of discussion of case at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	OECD	be provide ahead at	regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	fund	keep saudis at	BAE Systems	0	ORGANIZATION
+1.0	persons	have	One	NUMBER	O
+1.0	weeks	have	time	O	DURATION
+1.0	deal	be under	threat because of SFO investigation	0	ORGANIZATION
+1.0	Financial Times	say at_time	Thursday	ORGANIZATION	DATE
+1.0	deal	be under	threat	0	0
+1.0	nations	have	grouping	O	O
+1.0	deal	be under	reportedly threat	0	0
+1.0	FT	quote	Mark Pieth	0	PERSON
+1.0	fund	allegedly provide	perk include luxury car	0	0
+1.0	OECD	ask	provide at meeting	ORGANIZATION	0
+1.0	Britain 's government	have	decision	O	O
+1.0	BAE	agree to	10 billion-pound deal	ORGANIZATION	NUMBER
+1.0	fund	provide	perk	0	0
+1.0	OECD	be provide	attend by official	ORGANIZATION	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	Britain 's Attorney General Peter Goldsmith	deny in	December	PERSON	DATE
+1.0	OECD head	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	line	be with	convention	0	0
+1.0	letter	be send accord to	business	0	0
+1.0	OECD	be	provide ahead of discussion at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	letter	be send on behalf of	OECD 's work group on corporate bribery	0	ORGANIZATION
+1.0	OECD	have	meeting	O	ORGANIZATION
+1.0	letter	be send on behalf of	OECD 's group on bribery	0	ORGANIZATION
+1.0	BAE	agree to	deal with Saudi Arabia	ORGANIZATION	LOCATION
+1.0	OECD	ask	provide ahead at meeting	ORGANIZATION	0
+1.0	bribery group	have	chairman	O	O
+1.0	OECD	be provide at	meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	BAE Systems	be between	british	ORGANIZATION	0
+1.0	OECD	ask	provide ahead	ORGANIZATION	0
+1.0	OECD	be	provide ahead of discussion	ORGANIZATION	0
+1.0	OECD	ask	provide ahead of discussion of case	ORGANIZATION	0
+1.0	the OECD	write to	government	0	0
+1.0	10 billion-pound deal	be with	Saudi Arabia	NUMBER	LOCATION
+1.0	Mark Pieth	chairman 's	bribery group	PERSON	0
+1.0	Britain	have	government	LOCATION	0
+1.0	OECD	be provide ahead	attend	ORGANIZATION	0
+1.0	OECD	ask for	information	ORGANIZATION	0
+1.0	Serious Fraud Office	halt	the investigation	ORGANIZATION	0
+1.0	letter	be send on behalf of	OECD 's group	0	ORGANIZATION
+1.0	the OECD	grouping of	30 industrialised nation	ORGANIZATION	NUMBER
+1.0	OECD	ask	provide ahead at regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	Tornado Hawk jets	have	supply	O	O
+1.0	OECD	ask	provide ahead of discussion of case at meeting	ORGANIZATION	0
+1.0	deal	be under	reportedly threat because of SFO investigation	0	ORGANIZATION
+1.0	OECD	be	provide ahead of discussion at regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	OECD	ask	provide at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	Britain 's Attorney General Peter Goldsmith	combate bribery in	business transaction	PERSON	0
+1.0	Britain 's government	be face	pressure	LOCATION	0
+1.0	agenda	have	matter part	O	O
+1.0	fund	allegedly provide	perk	0	0
+1.0	the OECD	drop investigation at_time	last month	0	DATE
+1.0	airbase	have	construction	O	O
+1.0	BAE	agree to	deal	ORGANIZATION	0
+1.0	Britain 's government	have	probe	O	O
+1.0	SFO investigation	have	threat	O	O
+1.0	this	be discuss at	meeting	0	0
+1.0	Prime Minister Tony Blair	have defend	decision	PERSON	0
+1.0	OECD	be provide ahead	attend by official	ORGANIZATION	0
+1.0	OECD	ask	provide at regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	Britain	have	government	O	LOCATION
+1.0	letter	be send on behalf of	OECD 's work group	0	ORGANIZATION
+1.0	SFO	have	head	O	ORGANIZATION
+1.0	OECD	be provide ahead	attend by british official	ORGANIZATION	0
+1.0	BAE Systems	establish	slush fund for royal family member	ORGANIZATION	0
+1.0	Britain 's government	be face	international pressure	LOCATION	0
+1.0	letter	be	send	0	0
+1.0	its	have	probe	O	O
+1.0	interest	have	considerations	O	O
+1.0	OECD	be provide at	meeting	ORGANIZATION	0
+1.0	BAE Systems	establish	slush fund for saudi royal family member	ORGANIZATION	0
+1.0	OECD	be	provide ahead of discussion at regular meeting	ORGANIZATION	0
+1.0	meeting	be in	a couple of week	0	DURATION
+1.0	Britain 's	be	party	LOCATION	0
+1.0	letter	be send on behalf of	OECD 's group on corporate bribery	0	ORGANIZATION
+1.0	OECD	be provide ahead at	regular meeting	ORGANIZATION	0
+1.0	OECD	ask	provide ahead at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	the Serious Fraud Office -LRB- SFO -RRB- -- a government department --	have	investigation	O	O
+1.0	OECD	ask	provide ahead of discussion of case at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	OECD	be	provide ahead of discussion of case at regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	we	respond in	course	0	0
+1.0	Britain 's Attorney General Peter Goldsmith	combate bribery in	international business transaction	PERSON	0
+1.0	Britain 's government	be face pressure over	its decision	LOCATION	0
+1.0	My	have	understanding	O	O
+1.0	OECD	ask	provide ahead of discussion at regular meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	BAE Systems	establish	slush fund	ORGANIZATION	0
+1.0	feeling	have	years	DURATION	O
+1.0	OECD	be provide ahead at	meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	Peter Goldsmith	be attorney general of	Britain 's	PERSON	LOCATION
+1.0	Britain 's Attorney General Peter Goldsmith	announce on	December 14	PERSON	DATE
+1.0	fund	keep	Saudis	0	MISC
+1.0	OECD	ask	provide ahead of discussion	ORGANIZATION	0
+1.0	OECD	be	provide ahead	ORGANIZATION	0
+1.0	discussion	have	ahead	O	O
+1.0	FT	quote	bribery group 's chairman	0	0
+1.0	we	respond in	due course	0	0
+1.0	OECD	be	provide ahead of discussion of case	ORGANIZATION	0
+1.0	bribery group	have	chairman	0	0
+1.0	he	add	my understanding be	0	0
+1.0	OECD	have	group	O	ORGANIZATION
+1.0	OECD	ask	provide ahead of discussion at regular meeting	ORGANIZATION	0
+1.0	this	be discuss at	meeting in couple	0	DURATION
+1.0	media	have	OECD head	O	O
+1.0	OECD	ask	provide	ORGANIZATION	0
+1.0	letter	be send on behalf of	OECD 's work group on bribery	0	ORGANIZATION
+1.0	letter	be send accord to	business daily	0	SET
+1.0	OECD	ask	provide ahead of discussion of case at regular meeting	ORGANIZATION	0
+1.0	this	be discuss at	meeting in couple of week ' time	0	DURATION
+1.0	OECD	be	provide ahead of discussion of case at regular meeting	ORGANIZATION	0
+1.0	the OECD	write to	british government	0	0
+1.0	the OECD	drop investigation at_time	month	0	DATE
+1.0	OECD	be provide	attend	ORGANIZATION	0
+1.0	the OECD	drop	investigation	0	0
+1.0	Britain 's	have	Peter Goldsmith	LOCATION	PERSON
+1.0	the OECD	for organisation be	grouping of 30 industrialised nation	ORGANIZATION	NUMBER
+1.0	its	have	agenda	O	O
+1.0	OECD	ask	provide ahead of discussion at meeting of OECD	ORGANIZATION	ORGANIZATION
+1.0	fund	keep saudis on	board	0	0
+1.0	fund	provide	perk include luxury car	0	0
+1.0	BAE	agree to	10 billion-pound deal with Saudi Arabia	ORGANIZATION	NUMBER
+1.0	OECD	ask	provide ahead of discussion of case at regular meeting of OECD	ORGANIZATION	ORGANIZATION

@@ -1,0 +1,40 @@
+1.0	I	therefore expect	slight pick-up	0	0
+0.10199368314675994	I	expect in	demand for loan from household	0	0
+1.0	current recovery	be set	continue	DATE	0
+1.0	bdb chief	handelsblatt	Commerzbank chief executive Klaus-Peter Mueller	0	PERSON
+0.10199368314675994	I	therefore expect in	demand for loan from household	0	0
+1.0	Germany	have	sector banks	O	LOCATION
+1.0	2006	be	good	DATE	0
+0.10199368314675994	I	expect in	demand for loan	0	0
+0.10199368314675994	I	therefore expect in	demand	0	0
+1.0	bdb chief	tell	daily Handelsblatt	0	ORGANIZATION
+0.10199368314675994	I	expect in	demand	0	0
+1.0	I	expect	pick-up	0	0
+1.0	bdb chief	tell	Commerzbank chief executive Klaus-Peter Mueller	0	PERSON
+1.0	Germany	have	private sector bank	LOCATION	0
+1.0	bdb chief	handelsblatt	Commerzbank executive Klaus-Peter Mueller	0	PERSON
+1.0	2007	certainly have	potential	DATE	0
+1.0	economic recovery	be	set	0	0
+1.0	current economic recovery	be set	continue	DATE	0
+1.0	bdb chief	daily handelsblatt	Commerzbank executive Klaus-Peter Mueller	0	PERSON
+1.0	bdb chief	daily handelsblatt	Commerzbank chief executive Klaus-Peter Mueller	0	PERSON
+0.10199368314675994	I	expect in	demand for loan from private household	0	0
+1.0	unemployment	would continue	decline	0	0
+1.0	head	say in	newspaper interview	0	0
+1.0	current recovery	be	set	DATE	0
+0.10199368314675994	I	therefore expect in	demand for loan from private household	0	0
+1.0	bdb chief	tell	Handelsblatt	0	ORGANIZATION
+1.0	recovery	be	set	0	0
+1.0	I	expect	slight pick-up	0	0
+1.0	economic recovery	be set	continue	0	0
+1.0	head	say in	newspaper interview publish	0	0
+1.0	bdb chief	tell	Commerzbank executive Klaus-Peter Mueller	0	PERSON
+1.0	head	say in	newspaper interview publish Wednesday	0	DATE
+0.10199368314675994	I	therefore expect in	demand for loan	0	0
+1.0	current economic recovery	be in	Germany	DATE	LOCATION
+1.0	BdB banking federation	have	head	O	ORGANIZATION
+1.0	I	therefore expect	pick-up	0	0
+1.0	Klaus-Peter Mueller	be	Commerzbank	PERSON	ORGANIZATION
+1.0	2007	have	potential	DATE	0
+1.0	recovery	be set	continue	0	0
+1.0	current economic recovery	be	set	DATE	0

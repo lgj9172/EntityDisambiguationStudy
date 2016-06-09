@@ -1,0 +1,79 @@
+1.0	Tang	be chairman of	estate company list	PERSON	0
+1.0	city	to	parliament	0	0
+1.0	financial scandal	have fell	raft of Shanghai 's state industry executive	0	LOCATION
+1.0	pair	be remove from	body	0	0
+1.0	Shanghai Hainiao Enterprise Development Co	have	chairman	O	ORGANIZATION
+1.0	Shanghai Electric official	be	link	ORGANIZATION	0
+1.0	Tang	be chairman of	estate company	PERSON	0
+1.0	Two senior businessmen	have	detention	O	O
+1.0	Li	be list by	Forbes	PERSON	PERSON
+1.0	pair	be	remove	0	0
+1.0	financial scandal	have fell	raft of Shanghai 's state industry executive include city 's	0	LOCATION
+1.0	Li	have	worth of 850 million dollar	PERSON	MONEY
+1.0	Li 45	be president of	power equipment provider Shanghai Electric Group	PERSON	ORGANIZATION
+1.0	Li	be list by	Forbes in 2004	PERSON	DATE
+1.0	Tang	be chairman of	real estate company list	PERSON	0
+1.0	Tang	be	49	PERSON	NUMBER
+1.0	Qu Dong	official at	Shanghai committee	PERSON	LOCATION
+1.0	million	have	hundreds	O	NUMBER
+1.0	Forbes	be in	2004	PERSON	DATE
+1.0	Tang 49	be chairman of	Shanghai Hainiao Enterprise Development Co	NUMBER	ORGANIZATION
+1.0	Mingyuan Group , a real estate company that held shares in power equipment provider Shanghai Electric Group , according to the official Xinhua news agency and other press reports	chairman	state run group	0	0
+1.0	power equipment provider Shanghai Electric Group	have	president	O	ORGANIZATION
+1.0	financial scandal	have fell	raft of Shanghai 's top state industry executive	0	LOCATION
+1.0	Political Consultative Conference	have	Shanghai committee	O	ORGANIZATION
+1.0	financial scandal	have fell	raft of Shanghai 's top state industry executive include city 's	0	LOCATION
+1.0	Tang 49	be	chairman	NUMBER	0
+1.0	Li	be	list	PERSON	0
+1.0	scandal	have fell	raft of Shanghai 's top state industry executive	0	LOCATION
+1.0	official	say at_time	Thursday	0	DATE
+1.0	Li	be president of	power equipment provider Shanghai Electric Group	PERSON	ORGANIZATION
+1.0	People	have	Political Consultative Conference	ORGANIZATION	ORGANIZATION
+1.0	dollars	have	worth	O	MONEY
+1.0	yuan	have	billions	O	O
+1.0	Li	be	president	PERSON	0
+1.0	Shanghai	from	social security fund use for illicit investment in speculative deal relate to property road	LOCATION	0
+1.0	Shanghai	have	security fund	O	LOCATION
+1.0	government official	tell	afp	0	0
+1.0	senior Shanghai Electric official	be link to	corruption probe	ORGANIZATION	0
+1.0	senior Shanghai Electric official	be link to	lengthy corruption probe	ORGANIZATION	0
+1.0	scandal	have fell	raft of Shanghai 's top state industry executive include city 's	0	LOCATION
+1.0	Li	have	personal worth of 850 million dollar	PERSON	MONEY
+1.0	Tang 49	be chairman of	estate company list in Shanghai	NUMBER	LOCATION
+1.0	Tang 49	be chairman of	estate company	NUMBER	0
+1.0	Tang	be chairman of	estate company list in Shanghai	PERSON	LOCATION
+1.0	scandal	have fell	raft of Shanghai 's state industry executive include city 's	0	LOCATION
+1.0	senior Shanghai Electric official	be	link	ORGANIZATION	0
+1.0	Tang 49	be chairman of	estate company list	NUMBER	0
+1.0	it	involve	billion of yuan	0	0
+1.0	it	involve	billion	0	0
+1.0	Tang	be chairman of	Shanghai Hainiao Enterprise Development Co	PERSON	ORGANIZATION
+1.0	it	involve billion from	Shanghai 's social security fund	0	LOCATION
+1.0	scandal	have fell	raft of Shanghai 's state industry executive	0	LOCATION
+1.0	Li	have	personal worth	PERSON	0
+1.0	pair	be remove from	advisory body on Wednesday	0	DATE
+1.0	Tang 49	be chairman of	real estate company list	NUMBER	0
+1.0	Tang	be	chairman	PERSON	0
+1.0	Li	have	worth	PERSON	0
+1.0	dollars	have	hundreds	O	O
+1.0	Shanghai Electric official	be link to	corruption probe	ORGANIZATION	0
+1.0	pair	be remove from	advisory body	0	0
+1.0	it	involve billion from	Shanghai 's security fund	0	LOCATION
+1.0	politicians	have	raft	O	O
+1.0	key political advisory body	be in	Shanghai	0	LOCATION
+1.0	Tang	be chairman of	real estate company list in Shanghai	PERSON	LOCATION
+1.0	pair	be remove from	body on Wednesday	0	DATE
+1.0	financial scandal	have fell	raft	0	0
+1.0	Shanghai	have	state industry executives	O	LOCATION
+1.0	Li	be	45	PERSON	NUMBER
+1.0	Mingyuan Group , a real estate company that held shares in power equipment provider Shanghai Electric Group , according to the official Xinhua news agency and other press reports	have	chairman	O	O
+1.0	scandal	have fell	raft	0	0
+1.0	Tang 49	be chairman of	real estate company list in Shanghai	NUMBER	LOCATION
+1.0	Tang 49	be chairman of	real estate company	NUMBER	0
+1.0	Shanghai Electric official	be link to	lengthy corruption probe	ORGANIZATION	0
+1.0	Tang	be chairman of	real estate company	PERSON	0
+1.0	Shanghai	of	top state industry executive include city 's	LOCATION	0
+1.0	embezzlement	have	suspected	O	O
+1.0	city	have	parliament	O	O
+1.0	Li 45	be	president	PERSON	0
+1.0	state industry executives	have	raft	O	O

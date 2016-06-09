@@ -1,0 +1,49 @@
+1.0	president	have	Iraq policy	O	O
+1.0	visit	have	statement	O	O
+1.0	Evan Bayh	be with	democratic	PERSON	0
+1.0	presidential hopeful Hillary Clinton	hear	frank assessment of we mission	0	0
+1.0	campaign	have	critic	O	O
+1.0	John McHugh	be	Republican	PERSON	MISC
+1.0	her	have	spokeswoman	O	O
+1.0	presidential hopeful Hillary Clinton	hear assessment from	we commander on ground	0	0
+1.0	our	have	troops	O	O
+1.0	we nation	face	challenge	0	0
+1.0	Clinton	be expect	run for Democratic Party nomination in 2008 presidential election	PERSON	ORGANIZATION
+1.0	fellow Democratic Senator Evan Bayh and Republican Congressman John McHugh	have	commanders	O	O
+1.0	presidential hopeful Hillary Clinton	have	office	O	O
+1.0	Clinton	be expect	run for Democratic Party nomination	PERSON	ORGANIZATION
+1.0	we nation	face	serious challenge	0	0
+1.0	Clinton	be	expect	PERSON	0
+1.0	current situation	be in	Iraq	DATE	LOCATION
+1.0	their	have	view	O	O
+1.0	W. Bush	have	proposals	O	PERSON
+1.0	missions	have	assessment	O	O
+1.0	war	be in	Iraq	0	LOCATION
+1.0	W. Bush 's proposal	send	20,000 more US troops	PERSON	LOCATION
+1.0	fellow Democratic Senator Evan Bayh and Republican Congressman John McHugh	have	missions	O	O
+1.0	presidential hopeful Hillary Clinton	hear	assessment	0	0
+1.0	Clinton	have	schedule	O	PERSON
+1.0	fellow Democratic Senator Evan Bayh and Republican Congressman John McHugh	have	nation	O	O
+1.0	Clinton	run for	Democratic Party nomination	PERSON	ORGANIZATION
+1.0	his	have	administration	O	O
+1.0	presidential hopeful Hillary Clinton	be	eager	0	0
+1.0	George W. Bush	have	proposal	PERSON	0
+1.0	presidential hopeful Hillary Clinton	hear	assessment of we mission	0	0
+1.0	war	have	escalation	O	O
+1.0	my	have	gratitude	O	O
+1.0	Democratic Party nomination	be in	2008 presidential election	ORGANIZATION	DATE
+1.0	opinion poll	put	presidential hopeful Hillary Clinton	0	0
+1.0	presidential hopeful Hillary Clinton	hear	frank assessment	0	0
+1.0	we mission	be in	country	0	0
+1.0	Clinton	run for	Democratic Party nomination in 2008 election	PERSON	ORGANIZATION
+1.0	Clinton	be expect	run for Democratic Party nomination in 2008 election	PERSON	ORGANIZATION
+1.0	opinion poll	currently put	presidential hopeful Hillary Clinton	0	0
+1.0	Clinton	be expect	run	PERSON	0
+1.0	serious challenge	be in	Iraq	0	LOCATION
+1.0	schedule	have	details	O	O
+1.0	we nation	face	challenge in Iraq	0	LOCATION
+1.0	we nation	face	serious challenge in Iraq	0	LOCATION
+1.0	presidential hopeful Hillary Clinton	hear assessment from	we commander	0	0
+1.0	president	have	Iraq policy	0	LOCATION
+1.0	Clinton	of	schedule	PERSON	0
+1.0	Clinton	run for	Democratic Party nomination in 2008 presidential election	PERSON	ORGANIZATION

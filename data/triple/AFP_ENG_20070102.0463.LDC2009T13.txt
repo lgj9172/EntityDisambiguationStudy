@@ -1,0 +1,19 @@
+1.0	government panel	have	proposal	O	O
+0.6606737148580362	prime minister Junichiro Koizumi	suspend	widely popular plan	PERSON	0
+1.0	world	have	oldest monarchy	0	0
+1.0	Crown Princess Masako	have	only one child	PERSON	NUMBER
+1.0	newspaper report	say at_time	Wednesday	0	DATE
+1.0	Crown Princess Masako	have	one child	PERSON	NUMBER
+0.6606737148580362	minister Junichiro Koizumi	suspend	plan	PERSON	0
+1.0	government panel	have	proposal let	0	0
+0.6606737148580362	minister Junichiro Koizumi	suspend	widely popular plan	PERSON	0
+1.0	marriage	have	years	DURATION	O
+1.0	Sankei Shimbun	cite	source	ORGANIZATION	0
+0.6606737148580362	minister Junichiro Koizumi	suspend	popular plan	PERSON	0
+0.6606737148580362	prime minister Junichiro Koizumi	suspend	popular plan	PERSON	0
+1.0	world	have	monarchy	O	O
+1.0	Prince Hisahito	have	September birth	O	PERSON
+1.0	birth	be	dream	0	0
+1.0	conservative Sankei Shimbun	cite	source	ORGANIZATION	0
+1.0	a crisis	have	male	O	O
+0.6606737148580362	prime minister Junichiro Koizumi	suspend	plan	PERSON	0

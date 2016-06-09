@@ -1,0 +1,55 @@
+1.0	US government	reveal increase in	stock of distillate	LOCATION	0
+1.0	New York contract	stand at	53.26 dollar	LOCATION	MONEY
+1.0	New York contract	pull	stand	LOCATION	0
+1.0	London	have	Brent North Sea crude for February delivery	LOCATION	LOCATION
+1.0	distillates	have	stockpiles	O	O
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	New York contract	pull	stand at 53.26 dollar	LOCATION	MONEY
+1.0	New York contract	later pull slightly	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York contract	later pull	stand at 53.26 dollar	LOCATION	MONEY
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	World oil price	dive beneath	53 dollar	0	MONEY
+1.0	New York 's oil future contract	tumble	1.08 dollar 52.94 dollar	LOCATION	MONEY
+1.0	New York contract	later pull	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York contract	pull back slightly	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York contract	later pull slightly	stand at 53.26 dollar	LOCATION	MONEY
+1.0	New York contract	later pull back slightly	stand	LOCATION	0
+1.0	barrels	have	rise	O	O
+1.0	New York 's main oil future contract	tumble	1.08 dollar 52.94 dollar	LOCATION	MONEY
+1.0	New York contract	stand at	53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York contract	pull	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York contract	pull back slightly	stand	LOCATION	0
+1.0	London 's Brent North Sea crude	sink	1.09 dollar 52.60 dollar	LOCATION	MONEY
+1.0	US government	reveal	increase	LOCATION	0
+1.0	US government	reveal increase in	stock	LOCATION	0
+1.0	distillates	have	stocks	O	O
+1.0	New York contract	pull slightly	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	New York 's main oil future contract	tumble	1.08 dollar 52.94 dollar barrel	LOCATION	MONEY
+1.0	New York 's oil future contract	tumble	1.08 dollar 52.94 dollar barrel	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	sink	1.09 dollar 52.60 dollar barrel	LOCATION	MONEY
+1.0	expect drop	be in	crude oil inventory	0	0
+1.0	US government	reveal	sharp weekly increase	LOCATION	SET
+1.0	New York 's main oil future contract	crude for	delivery in February	LOCATION	DATE
+1.0	New York contract	pull slightly	stand	LOCATION	0
+1.0	World oil price	dive beneath	53 dollar per barrel	0	MONEY
+1.0	US government	reveal	weekly increase	LOCATION	SET
+1.0	distillate products	have	Inventories	O	O
+1.0	US government	reveal	sharp increase	LOCATION	0
+1.0	US government	reveal increase include	heating fuel	LOCATION	0
+1.0	New York contract	later pull slightly	stand	LOCATION	0
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	inventory	increase	5.4 million barrel	0	NUMBER
+1.0	delivery	be in	February	0	DATE
+0.948161230304371	predict	rise of	2.0 million barrel	0	NUMBER
+1.0	New York contract	later pull	stand	LOCATION	0
+1.0	New York contract	later pull back slightly	stand at 53.26 dollar per barrel	LOCATION	MONEY
+1.0	World oil price	dive on	Thursday	0	DATE
+1.0	North Sea	be brent of	London	LOCATION	LOCATION
+1.0	trading	have	start	O	O
+1.0	US Department of Energy	of department be	DoE	ORGANIZATION	0
+1.0	gasoline	have	stockpiles	O	O
+1.0	New York contract	later pull back slightly	stand at 53.26 dollar	LOCATION	MONEY
+1.0	London	have	Brent North Sea crude	O	LOCATION
+1.0	New York contract	pull slightly	stand at 53.26 dollar	LOCATION	MONEY
+1.0	New York contract	pull back slightly	stand at 53.26 dollar	LOCATION	MONEY

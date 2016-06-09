@@ -1,0 +1,29 @@
+1.0	US central banker	remain about	inflation	LOCATION	0
+1.0	Wall Street stock gain	recede abruptly at_time	Wednesday	0	DATE
+1.0	Nasdaq composite	finish at	2,423.16	ORGANIZATION	NUMBER
+1.0	Wall Street stock gain	recede at_time	Wednesday	0	DATE
+1.0	US banker	remain about	inflation	LOCATION	0
+1.0	12,580.35	have	intraday record high	O	NUMBER
+1.0	US central banker	remain	concerned	LOCATION	0
+1.0	tech-weighted Nasdaq composite	finish higher at	2,423.16	ORGANIZATION	NUMBER
+1.0	broad-market Standard	shed	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	stock	reverse	course follow strong morning gain	0	TIME
+1.0	stock	reverse	course follow morning gain	0	TIME
+1.0	Nasdaq composite	finish higher at	2,423.16	ORGANIZATION	NUMBER
+1.0	broad-market Standard	shed	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	meeting participant	remain	concerned about outlook for inflation	0	0
+1.0	key US rate	peg at	5.25 percent	LOCATION	PERCENT
+1.0	stock	reverse course after	minute	0	0
+1.0	US banker	remain	concerned	LOCATION	0
+1.0	Fed	from	December 12 meeting	ORGANIZATION	DATE
+1.0	US rate	peg at	5.25 percent	LOCATION	PERCENT
+1.0	meeting participant	remain accord to	minute	0	0
+1.0	Fed meeting	have	minutes	DURATION	O
+1.0	stock	reverse	course	0	0
+1.0	meeting participant	remain	concerned	0	0
+1.0	intraday record high	have	12,474.04	NUMBER	O
+1.0	meeting participant	remain	concerned about outlook	0	0
+1.0	Fed	have	December meeting	O	ORGANIZATION
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	tech-weighted Nasdaq composite	finish at	2,423.16	ORGANIZATION	NUMBER

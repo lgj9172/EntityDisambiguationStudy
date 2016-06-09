@@ -1,0 +1,64 @@
+1.0	Prime Minister Jose Luis Zapatero	have	priority	O	O
+0.7526926607291682	he priority	prospect of	settlement prior to Madrid blast	0	LOCATION
+1.0	Madrid Mayor Alberto Ruiz-Gallardon	tell	Cadena Ser radio	PERSON	ORGANIZATION
+1.0	Madrid Mayor Alberto Ruiz-Gallardon	earlier tell	Cadena Ser radio	PERSON	ORGANIZATION
+1.0	body	be recover at_time	Saturday	0	DATE
+0.7526926607291682	he top priority	prospect	he government	0	0
+0.7526926607291682	he priority	prospect of	settlement	0	0
+1.0	body	be spotted at_time	Friday	0	DATE
+1.0	body	be find at_time	Wednesday	0	DATE
+1.0	rescue worker	proceed carefully in	structure	0	0
+0.7526926607291682	he priority	prospect of	negotiate settlement prior to Madrid blast	0	LOCATION
+1.0	it	break	they ceasefire	0	0
+1.0	it	break	they unilateral nine-month ceasefire	0	DURATION
+1.0	settlement	have	prospect	O	O
+0.7526926607291682	he top priority	prospect of	negotiate settlement	0	0
+0.7526926607291682	he top priority	prospect of	settlement prior to Madrid blast	0	LOCATION
+1.0	ETA 's	have pursue	violent campaign	ORGANIZATION	0
+1.0	Alberto Ruiz-Gallardon	be	Madrid	PERSON	LOCATION
+1.0	rescue worker	have	have force	0	0
+1.0	it	be	separatist group ETA 's deadly attack since	0	ORGANIZATION
+1.0	attack	shocked	Spain	DURATION	LOCATION
+0.7526926607291682	he priority	prospect of	negotiate settlement prior	0	0
+1.0	rescue worker	proceed carefully in	unstable structure	0	0
+0.7526926607291682	he top priority	prospect of	settlement	0	0
+1.0	rescue worker	proceed in	structure	0	0
+1.0	ETA	since	first deadly attack	ORGANIZATION	ORDINAL
+1.0	attack	end	ceasefire	DURATION	DURATION
+1.0	it	be	separatist group ETA 's first deadly attack since	0	ORDINAL
+1.0	Alberto Ruiz-Gallardon	be mayor of	Madrid	PERSON	LOCATION
+0.7526926607291682	he priority	prospect of	settlement prior	0	0
+1.0	it	be	basque separatist group ETA 's deadly attack since	0	ORGANIZATION
+1.0	man	have	body	O	O
+1.0	ETA 's	have pursue	campaign	ORGANIZATION	0
+0.7526926607291682	he priority	prospect	he government	0	0
+1.0	it	break	they unilateral ceasefire	0	0
+1.0	it	be	basque separatist group ETA 's first deadly attack since	0	ORDINAL
+1.0	body	be	spotted	0	0
+1.0	body	be	recover	0	0
+1.0	concrete	have	blocks	O	O
+1.0	Armando Estacio	have	body	O	PERSON
+1.0	rescue worker	proceed in	unstable structure	0	0
+1.0	rescue workers	have	ceasefire	O	O
+1.0	it	break	they nine-month ceasefire	0	DURATION
+0.7526926607291682	he top priority	prospect of	negotiate settlement prior	0	0
+1.0	huge blast	be in	booby trap van	0	0
+1.0	body	be	find	0	0
+1.0	rescue effort	have	have hamper	0	0
+1.0	first body	be find at_time	Wednesday	ORDINAL	DATE
+1.0	Prime Minister Jose Luis Zapatero	have	government	O	O
+1.0	body	be spotted at_time	early Friday	0	DATE
+1.0	it	be	basque separatist group ETA 's first attack since	0	ORDINAL
+0.7526926607291682	he priority	prospect of	negotiate settlement	0	0
+1.0	attack	end	nine-month ceasefire	DURATION	DURATION
+0.7526926607291682	he top priority	prospect of	settlement prior	0	0
+1.0	it	be	separatist group ETA 's first attack since	0	ORDINAL
+1.0	debris	have	blocks	O	O
+1.0	ETA	have	attack	O	ORGANIZATION
+0.7526926607291682	he top priority	prospect of	negotiate settlement prior to Madrid blast	0	LOCATION
+1.0	ETA 's	have pursue campaign since	1968	ORGANIZATION	DATE
+1.0	it	be	basque separatist group	0	0
+1.0	first body	be	find	ORDINAL	0
+1.0	it	be	separatist group ETA 's attack since	0	ORGANIZATION
+1.0	it	be	basque separatist group ETA 's attack since	0	ORGANIZATION
+1.0	it	be	separatist group	0	0

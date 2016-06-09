@@ -1,0 +1,37 @@
+0.9187747673178711	province	dead in	Yala	0	LOCATION
+1.0	insurgency	have	year anniversary	O	O
+1.0	35-year-old Buddhist man	be shoot province by	four militant	ORGANIZATION	NUMBER
+1.0	Buddhist man	be shoot province by	four militant on motorbike	ORGANIZATION	NUMBER
+0.6781110923425508	region	border	Malaysia	0	LOCATION
+1.0	Thailand	have	south	O	LOCATION
+0.6302517591868944	attention	turn to	Bangkok	0	LOCATION
+1.0	region	be	sultanate	0	0
+1.0	Yala	have	provinces	O	LOCATION
+1.0	an independent sultanate	be	annex	0	0
+1.0	35-year-old Buddhist man	be shoot	dead province	ORGANIZATION	0
+1.0	eight bomb	kill	the three	NUMBER	NUMBER
+1.0	bomb	kill	the three	0	NUMBER
+1.0	Narathiwat	have	provinces	O	LOCATION
+1.0	35-year-old Buddhist man	be shoot	province	ORGANIZATION	0
+0.7491322309327979	Prime Minister Surayud Chulanont	install after	coup	PERSON	0
+1.0	New year	be in	three muslim-majority province of Yala	DATE	NUMBER
+1.0	have lull	be in	attack over New year	0	DATE
+1.0	region	be	independent	0	0
+1.0	Buddhist man	be shoot province by	four militant	ORGANIZATION	NUMBER
+1.0	an independent sultanate	be annex by	Buddhist Thailand	0	LOCATION
+1.0	Thailand	be in	1902	LOCATION	DATE
+1.0	an independent sultanate	be annex by	mainly Buddhist Thailand	0	LOCATION
+1.0	region	be	independent sultanate	0	0
+1.0	Thaksin Shinawatra	be on	Tuesday	PERSON	DATE
+1.0	recent insurgency	be in	January 2004	0	DATE
+1.0	Pattani	have	provinces	O	LOCATION
+1.0	suspect militant Tuesday	be in	Thailand 's restive south	DATE	LOCATION
+1.0	Thailand	in	restive south	LOCATION	0
+1.0	an independent sultanate	be annex by	Buddhist Thailand in 1902	0	DATE
+1.0	35-year-old Buddhist man	be shoot province by	four militant on motorbike	ORGANIZATION	NUMBER
+1.0	Bangkok New Year	have	Eve bombs	O	DATE
+1.0	Buddhist man	be shoot	province	ORGANIZATION	0
+1.0	Thailand	be by	Buddhist	LOCATION	ORGANIZATION
+1.0	insurgency	have	outbreak	O	O
+1.0	an independent sultanate	be annex by	mainly Buddhist Thailand in 1902	0	DATE
+1.0	Buddhist man	be shoot	dead province	ORGANIZATION	0

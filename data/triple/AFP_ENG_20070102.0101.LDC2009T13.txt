@@ -1,0 +1,57 @@
+1.0	Aung San Suu Kyi	be most famous of	Myanmar 's political prisoner	PERSON	LOCATION
+1.0	prisoners	have	famous	O	O
+1.0	Myint Thein	spokesman for	she National League	PERSON	0
+1.0	Aung San Suu Kyi	be famous of	Myanmar 's prisoner	PERSON	LOCATION
+1.0	course	have	want	O	O
+1.0	Myanmar	have	prisoners	O	LOCATION
+1.0	diplomat	buy	supporter	0	0
+1.0	Myanmar	have	opposition party	LOCATION	0
+1.0	years	have	10	NUMBER	DATE
+1.0	prisoners	have	hundreds	O	O
+1.0	diplomat	decide	supporter	0	0
+1.0	Aung San Suu Kyi	be most famous of	Myanmar 's prisoner	PERSON	LOCATION
+1.0	Aung San Suu Kyi	be	famous	PERSON	0
+1.0	Aung San Suu Kyi	have	home	O	O
+1.0	Aung San Suu Kyi	have	bronze bust	O	PERSON
+1.0	diplomat	buy	supporter in Yangon	0	LOCATION
+1.0	Myanmar	be since	1962	LOCATION	DATE
+0.828801152784677	Aung San Suu Kyi	be under	where house arrest	0	0
+1.0	NLD 's	to	central humanitarian assistance committee	ORGANIZATION	0
+1.0	diplomat	buy	wealthy supporter in Yangon	0	LOCATION
+1.0	diplomat	decide	wealthy supporter	0	0
+1.0	Aung San Suu Kyi	in front of	closed compound	LOCATION	0
+1.0	diplomat	buy	wealthy supporter	0	0
+1.0	Aung San Suu Kyi	have	compound	O	LOCATION
+1.0	their families	have	artwork	O	O
+1.0	Myanmar 's	have	some 1,100 prisoner	LOCATION	NUMBER
+1.0	their	have	families	O	O
+1.0	party	have	fund	O	O
+1.0	political prisoners	have	families	O	O
+0.828801152784677	Aung San Suu Kyi	be under	house arrest	0	0
+1.0	Myanmar 's	have	some 1,100 political prisoner	LOCATION	NUMBER
+1.0	she party	win	most	0	0
+1.0	families	have	hundreds	O	O
+1.0	party	have	fund support	0	0
+1.0	home	have	picture	O	O
+1.0	seats	have	most	O	O
+1.0	Aung San Suu Kyi	be famous of	Myanmar 's political prisoner	PERSON	LOCATION
+1.0	she party	win	most of seat	0	0
+1.0	Her	have	party	O	O
+1.0	painting	title	great expectation	0	0
+1.0	wealthy supporter	be in	Yangon	0	LOCATION
+1.0	need	have	facing	O	O
+1.0	diplomat	decide	supporter in Yangon	0	LOCATION
+1.0	they	take	office	0	0
+0.13999900030216295	painting	be	price	0	0
+1.0	Myanmar	of	political prisoner	LOCATION	0
+1.0	Myanmar	have	opposition party	O	LOCATION
+1.0	prisoners	have	families	O	O
+1.0	Aung San Suu Kyi	have	National League	O	O
+1.0	compound	have	members	O	O
+1.0	her	have	home	O	O
+1.0	their	have	names	O	O
+1.0	painting	title	expectation	0	0
+1.0	diplomat	decide	wealthy supporter in Yangon	0	LOCATION
+1.0	diplomat	decide	buy	0	0
+1.0	NLD 's	have	assistance committee	O	ORGANIZATION
+1.0	Aung San Suu Kyi	be	most famous	PERSON	0

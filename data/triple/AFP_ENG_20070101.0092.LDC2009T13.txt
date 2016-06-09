@@ -1,0 +1,71 @@
+1.0	test run	take test ride at_time	Monday	0	DATE
+1.0	speed rail system	mark	export	0	0
+1.0	north	be with	Kaohsiung	0	LOCATION
+1.0	President Chen shui-bian	speak	highly of Taiwan 's high-speed rail system	PERSON	LOCATION
+1.0	President Chen Shui-bian	repeatedly give	thumbs-up gesture	PERSON	0
+1.0	Taiwan	have	rail system	O	LOCATION
+1.0	Taiwan	of	newly complete high-speed rail system	LOCATION	0
+1.0	core system	have	supply	O	O
+1.0	President Chen	speak	highly	PERSON	0
+1.0	President Chen	speak	highly of Taiwan 's newly complete high-speed rail system	PERSON	LOCATION
+1.0	President Chen	speak	highly of Taiwan 's rail system	PERSON	LOCATION
+1.0	test run	take	test ride	0	0
+1.0	President Chen shui-bian	speak	highly of Taiwan 's newly complete rail system	PERSON	LOCATION
+1.0	service	will link	capital Taipei in north with Kaohsiung	0	LOCATION
+1.0	much	be	groundless	0	0
+1.0	President Chen Shui-bian	give	thumbs-up gesture	PERSON	0
+1.0	President Chen	speak	highly of Taiwan 's complete rail system	PERSON	LOCATION
+1.0	transport ministry	impose safety requirement at_time	last month	0	DATE
+1.0	commercial test run	take test ride before	controversial project	0	0
+1.0	President Chen shui-bian	speak	highly of Taiwan 's newly complete high-speed rail system	PERSON	LOCATION
+1.0	service	will link capital taipei in	90 minute	0	DURATION
+1.0	January 15	be	January 15	0	DATE
+1.0	commercial test run	take test ride at_time	Monday	0	DATE
+1.0	criticism safety concerns	have	much	O	O
+1.0	THSRC	start run on	October 31 2005	0	DATE
+1.0	transport ministry	impose safety requirement after	derailment	0	0
+1.0	service	will link	capital Taipei	0	LOCATION
+1.0	high speed rail system	mark	first export	0	ORDINAL
+0.5015479493517508	reporter	cover	trip	0	0
+1.0	commercial test run	take test ride at_time	four day	0	DURATION
+1.0	Japan	have	Taiwan Shinkansen Consortium	ORGANIZATION	LOCATION
+1.0	President Chen Shui-bian	give	gesture	PERSON	0
+1.0	transport ministry	impose safety requirement after	minor derailment on November 24	0	DATE
+1.0	rail system	have	highly	O	O
+1.0	President Chen shui-bian	speak	highly of Taiwan 's complete high-speed rail system	PERSON	LOCATION
+1.0	transport ministry	impose safety requirement after	derailment on November 24	0	DATE
+1.0	kilometers	have	speeds	O	O
+1.0	test run	take test ride before	project	0	0
+1.0	THSRC	start	run	0	0
+1.0	345-kilometer service	will link	capital Taipei in north	0	LOCATION
+1.0	operations	have	launch date	O	O
+1.0	THSRC	start	commercial run	0	0
+1.0	bullet train	have	export	O	O
+1.0	President Chen Shui-bian	repeatedly give	gesture	PERSON	0
+1.0	transport ministry	impose	new safety requirement	0	0
+1.0	President Chen	speak	highly of Taiwan 's newly complete rail system	PERSON	LOCATION
+1.0	345-kilometer service	will link	capital Taipei	0	LOCATION
+1.0	transport ministry	impose safety requirement after	minor derailment	0	0
+1.0	President Chen shui-bian	speak	highly of Taiwan 's complete rail system	PERSON	LOCATION
+1.0	Japan	have	bullet train	O	LOCATION
+1.0	President Chen shui-bian	speak	highly of Taiwan 's rail system	PERSON	LOCATION
+1.0	transport ministry	impose safety requirement at_time	month	0	DATE
+1.0	transport ministry	impose	safety requirement	0	0
+1.0	Taipei	be in	north with Kaohsiung	LOCATION	LOCATION
+1.0	commercial test run	take test ride before	project	0	0
+1.0	speed rail system	mark	first export	0	ORDINAL
+1.0	high speed rail system	mark	export	0	0
+1.0	President Chen Shui-bian	tell	reporter	PERSON	0
+1.0	test run	take test ride at_time	four day	0	DURATION
+1.0	service	will link	capital Taipei in north	0	LOCATION
+1.0	345-kilometer service	will link capital taipei in	90 minute	0	DURATION
+1.0	345-kilometer service	will link	capital Taipei in north with Kaohsiung	0	LOCATION
+1.0	Japan	of	famous bullet train	LOCATION	0
+1.0	operations	have	start	O	O
+1.0	Japan	have	Taiwan Shinkansen Consortium	LOCATION	ORGANIZATION
+1.0	President Chen	speak	highly of Taiwan 's complete high-speed rail system	PERSON	LOCATION
+1.0	test	have	days	DURATION	O
+1.0	commercial test run	take	test ride	0	0
+1.0	President Chen	speak	highly of Taiwan 's high-speed rail system	PERSON	LOCATION
+1.0	President Chen shui-bian	speak	highly	PERSON	0
+1.0	test run	take test ride before	controversial project	0	0

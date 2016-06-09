@@ -1,0 +1,58 @@
+1.0	November	paralyse	city	DATE	0
+1.0	Zia	have	BNP	ORGANIZATION	PERSON
+1.0	country	see	number	0	0
+1.0	bias	have	concerns	O	O
+1.0	144 million	have	majority nation	O	NUMBER
+1.0	coups	have	number	O	O
+1.0	it	win independence in	1971	0	DATE
+1.0	her	have	term	O	O
+1.0	Sheikh Mujib	have	Sheikh Hasina Wajed	PERSON	PERSON
+1.0	country	see	number of coup in 1981	0	DATE
+1.0	Ahmed	delare state on	January 11	PERSON	DATE
+1.0	November	paralyse city with	blockade	DATE	0
+1.0	opposition Awami League	declare on	January 3	ORGANIZATION	DATE
+0.7593698986127924	he	concern of	bias	0	0
+1.0	main opposition Awami League	declare on	January 3	ORGANIZATION	DATE
+1.0	November	paralyse city with	massive blockade	DATE	0
+1.0	November	paralyse	December	DATE	DATE
+1.0	Ziaur Rahman	have	number	O	PERSON
+1.0	country	see	number of coup	0	0
+1.0	Sheikh Mujib	have	number	O	O
+1.0	Mujib	of wajed be	59	PERSON	NUMBER
+1.0	Khaleda Zia	be	61	PERSON	NUMBER
+1.0	Ahmed	delare	state	PERSON	0
+1.0	Bangladesh	be	majority nation	LOCATION	0
+1.0	new government	be	appoint	0	0
+1.0	they	boycott	election	0	0
+1.0	Sheikh Mujib	be in	1975	0	DATE
+1.0	Hasina Wajed	be	59	PERSON	NUMBER
+1.0	Khaleda Zia	be	BNP leader of Ziaur Rahman	PERSON	PERSON
+1.0	general election	originally slate for	January 22	0	DATE
+1.0	whom	have	live	O	O
+1.0	their	have	complaint	O	O
+1.0	corrupt	have	one	NUMBER	O
+1.0	Ziaur Rahman	have	BNP leader	O	PERSON
+1.0	poll	be	suspend	0	0
+1.0	caretaker government	have	head	O	O
+1.0	counter-coups	have	number	O	O
+1.0	coup	be in	1981	0	DATE
+1.0	emergency	have	state	O	O
+1.0	dollars	have	millions	MONEY	MONEY
+1.0	government	be	appoint	0	0
+1.0	himself	head of	caretaker government	0	0
+1.0	Bangladesh	be	secular majority nation	LOCATION	0
+1.0	presidents	have	assassination	O	O
+1.0	interim government	be	appoint	0	0
+1.0	Sheikh Hasina Wajed	slay in	1975	PERSON	DATE
+1.0	Hasina Wajed	be of	Mujib	PERSON	PERSON
+1.0	Bangladesh	be	secular	LOCATION	0
+1.0	election commission	have	head	O	O
+1.0	Khaleda Zia 61	be	BNP leader of Ziaur Rahman	PERSON	PERSON
+1.0	it	win	independence	0	0
+1.0	assassination	have	number	O	O
+1.0	new interim government	be	appoint	0	0
+1.0	himself	head of	caretaker government on October 29	0	DATE
+1.0	Khaleda Zia 61	be	BNP leader	PERSON	ORGANIZATION
+1.0	Khaleda Zia	be	BNP leader	PERSON	ORGANIZATION
+1.0	a guide to the feuding that has paralysed the impoverished nation	be	guide	0	0
+1.0	Ahmed	delare	state of emergency	PERSON	0

@@ -1,0 +1,32 @@
+1.0	Hunting Association chief Mihail Boyadzhiev	deny report by	state	0	0
+1.0	this	be	indeed big wolf	0	0
+1.0	wolf	weigh	80 kilogramme	0	NUMBER
+1.0	BTA	have cite	hunter Slavcho Slavchev	ORGANIZATION	PERSON
+1.0	largest game population	be in	Europe	0	LOCATION
+1.0	game populations	have	one	NUMBER	O
+1.0	Mihail Boyadzhiev	be chief of	Hunting Association	PERSON	ORGANIZATION
+1.0	Minnesota	have	US state	O	LOCATION
+1.0	BTA	have cite hunter slavcho slavchev for	game	ORGANIZATION	0
+1.0	wolf	weigh	175 pound	0	NUMBER
+1.0	International Wolf Center	be in	Ely	ORGANIZATION	0
+1.0	wolf	weigh	79.4 kilo	0	NUMBER
+1.0	that	be	dead	0	0
+1.0	this	be	wolf	0	0
+1.0	Brusartzi	have	town	O	LOCATION
+1.0	Mihail Boyadzhiev	be	Hunting Association	PERSON	ORGANIZATION
+1.0	Ely	be in	US state of Minnesota	0	LOCATION
+1.0	animal shot dead	be in	1939	0	DATE
+1.0	expert	tell	AFP	0	ORGANIZATION
+1.0	this	be	exceptionally big wolf	0	0
+1.0	this	be	big	0	0
+1.0	BTA	have cite	hunter Slavcho Slavchev say	ORGANIZATION	PERSON
+1.0	this	be	indeed exceptionally big wolf	0	0
+1.0	this	be	indeed wolf	0	0
+1.0	BTA	have cite hunter slavcho slavchev for	other game	ORGANIZATION	0
+1.0	Hunting Association chief Mihail Boyadzhiev	tell	AFP	PERSON	ORGANIZATION
+1.0	heaviest wolf	weigh	175 pound	0	NUMBER
+1.0	Hunting Association chief Mihail Boyadzhiev	deny	earlier report	0	0
+1.0	heaviest wolf	weigh	79.4 kilo	0	NUMBER
+1.0	Hunting Association chief Mihail Boyadzhiev	deny	report	0	0
+1.0	this	be	big wolf	0	0
+1.0	BTA	have cite hunter slavcho slavchev at_time	Wednesday	ORGANIZATION	DATE

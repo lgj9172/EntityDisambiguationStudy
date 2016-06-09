@@ -1,0 +1,34 @@
+1.0	Israel	be	Friday	LOCATION	DATE
+1.0	Prime Minister Ehud Olmert	resume	strike on Palestinians	PERSON	MISC
+1.0	exchanges	have	reports	O	O
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	late month	PERSON	DATE
+1.0	month	halt	hostility in Gaza Strip	0	LOCATION
+1.0	Prime Minister Ehud Olmert	resume strike in	Gaza Strip	PERSON	LOCATION
+1.0	violence	have	months	DATE	O
+1.0	Prime Minister Ehud Olmert	instruct army at_time	late last month	PERSON	DATE
+1.0	Prime Minister Ehud Olmert	instruct army at_time	late month	PERSON	DATE
+1.0	Jabaliya refugee camp	have	area	O	O
+1.0	Prime Minister Ehud Olmert	instruct army at_time	last month	PERSON	DATE
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	month	PERSON	DATE
+1.0	Prime Minister Ehud Olmert	resume	strike	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	Gaza Strip	PERSON	LOCATION
+1.0	violations	have	wake	O	O
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	wake	PERSON	0
+1.0	Prime Minister Ehud Olmert	instruct	army	PERSON	0
+1.0	following month	halt	hostility in Gaza Strip	DATE	LOCATION
+1.0	fire	have	exchanges	O	O
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	late last month	PERSON	DATE
+1.0	armoured vehicle	remain in	area	0	0
+1.0	source	tell	afp	0	0
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	wake of violation	PERSON	0
+1.0	Prime Minister Ehud Olmert	resume strike in	wake of violation	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	resume	strike on Palestinians	PERSON	MISC
+1.0	southern Israel	refrain from	action	LOCATION	0
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	last month	PERSON	DATE
+1.0	open area	be in	Friday	0	DATE
+1.0	israeli Prime Minister Ehud Olmert	instruct	army	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	resume	strike	PERSON	0
+1.0	Prime Minister Ehud Olmert	instruct army at_time	month	PERSON	DATE
+1.0	Prime Minister Ehud Olmert	resume strike in	wake	PERSON	0
+1.0	vehicle	remain in	area	0	0

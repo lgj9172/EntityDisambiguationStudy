@@ -1,0 +1,36 @@
+1.0	world	of	estimate cigarette smoker	0	0
+1.0	Health	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	China	have	120,000 lung cancer patient in past five year	LOCATION	NUMBER
+1.0	occurrence	be related to	motor vehicle	0	0
+1.0	China 's government	discourage	smoking	LOCATION	0
+1.0	car ownership	grow in	rapidly develop country	0	0
+1.0	Sun Yan	expert with	chinese academy of Engineering	PERSON	ORGANIZATION
+1.0	China	have	government	O	LOCATION
+1.0	world	have	tobacco market	O	O
+1.0	China	have	government	LOCATION	0
+1.0	world	have	cigarette smokers	O	O
+1.0	occurrence	be	closely related	0	0
+1.0	lung cancer rate	be	be fuel by emission	0	0
+1.0	cigarette smokers	have	one third	ORDINAL	O
+1.0	smokers	have	half	O	O
+1.0	lung cancer rate	be	also be fuel by emission	0	0
+1.0	lung cancer rate	be	also be fuel by harmful emission	0	0
+1.0	China	have	120,000 lung cancer patient	LOCATION	NUMBER
+1.0	lung cancer rate	be	be fuel by harmful emission	0	0
+1.0	Engineering	have	Academy	ORGANIZATION	ORGANIZATION
+1.0	lung cancer	have	occurrence	O	O
+1.0	lung cancer rate	be	also be fuel	0	0
+1.0	occurrence	be closely related to	motor vehicle	0	0
+1.0	China 's government	fear	health crisis	LOCATION	0
+1.0	adult	have	thirds	O	O
+1.0	occurrence	be	related	0	0
+1.0	120,000 new lung cancer patient	be in	the past five year	NUMBER	DURATION
+1.0	more than half of Chinese smokers	cause	lung cancer	0	0
+1.0	China	have	120,000 new lung cancer patient	LOCATION	NUMBER
+1.0	China	have	120,000 new lung cancer patient in past five year	LOCATION	NUMBER
+1.0	lung cancer rate	be	be fuel	0	0
+1.0	illnesses	have	range	O	O
+1.0	action	have	stopped	O	O
+1.0	car ownership	grow in	develop country	0	0
+1.0	cancer expert	be with	chinese academy of Engineering	0	ORGANIZATION
+1.0	car ownership	grow in	country	0	0

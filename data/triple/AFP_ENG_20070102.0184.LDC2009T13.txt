@@ -1,0 +1,80 @@
+1.0	Gemma Adams	be	25	PERSON	NUMBER
+1.0	case	be	then transfer to Ipswich Crown Court	0	ORGANIZATION
+1.0	they naked body	be	find in countryside around Ipswich during 10-day period in December	0	DURATION
+1.0	Steve Wright	be	remand	PERSON	0
+1.0	Anneli Alderton	be	24	PERSON	NUMBER
+1.0	they naked body	be find during	10-day period	0	DURATION
+1.0	48-year-old	appear at	Ipswich Crown Court charge	DURATION	ORGANIZATION
+1.0	they body	be	find in countryside around Ipswich during 10-day period in December	0	DURATION
+1.0	they body	be find in	countryside	0	0
+1.0	they naked body	be find in	countryside around Ipswich	0	LOCATION
+1.0	Paula Clennell	be	24	PERSON	NUMBER
+1.0	death	have	Cause	O	O
+1.0	compression	have	died	O	O
+1.0	case	be	then transfer	0	0
+1.0	24	have	murders	O	NUMBER
+1.0	Steve Wright	be remand in	custody	PERSON	0
+1.0	they body	be	find in countryside during 10-day period in December	0	DURATION
+1.0	they naked body	be	find in countryside around Ipswich during period	0	LOCATION
+1.0	they body	be find during	10-day period	0	DURATION
+1.0	Anneli Alderton	have	murders	O	PERSON
+1.0	they naked body	be	find in countryside around Ipswich during period in December	0	DATE
+1.0	they body	be	find in countryside during period in December	0	DATE
+1.0	they naked body	be find during	period in December	0	DATE
+1.0	they body	be find during	10-day period in December	0	DURATION
+1.0	they body	be find during	period in December	0	DATE
+1.0	they body	be	find in countryside around Ipswich during period in December	0	DATE
+1.0	they body	be	find in countryside around Ipswich during 10-day period	0	DURATION
+1.0	they body	be find during	period	0	0
+1.0	case	be	transfer	0	0
+1.0	Steve Wright	have	home	O	O
+1.0	course	have	going	O	O
+1.0	they body	be	find in countryside during period	0	0
+1.0	they body	be	find in countryside around Ipswich during period	0	LOCATION
+1.0	they naked body	be find during	period	0	0
+1.0	I	remind	everybody	0	0
+1.0	Tania Nicol	have	murders	O	PERSON
+1.0	Paul Osler	be solicitor of	Wright	PERSON	PERSON
+1.0	they body	be	find in countryside during 10-day period	0	DURATION
+1.0	they naked body	be find during	10-day period in December	0	DURATION
+1.0	they naked body	be	find in countryside around Ipswich during 10-day period	0	DURATION
+1.0	he home	be in	town centre	0	0
+1.0	they body	be	find	0	0
+1.0	Gemma Adams	have	murders	O	PERSON
+1.0	they naked body	be	find in countryside during 10-day period in December	0	DURATION
+1.0	Gemma Adams , 25 , Anneli Alderton , 24 , Paula Clennell , 24 , Tania Nicol , 19 , and Annette Nicholls , 29	have	bodies	O	O
+1.0	Steve Wright	be arrest on	December 19	PERSON	DATE
+1.0	case	be transfer to	Ipswich Crown Court	0	ORGANIZATION
+1.0	his	have	client	O	O
+1.0	they naked body	be	find in countryside during period in December	0	DATE
+1.0	they body	be find in	countryside around Ipswich	0	LOCATION
+1.0	offences	have	sorts	O	O
+1.0	10-day period	be in	December	DURATION	DATE
+1.0	Steve Wright	be	arrest at he home in town centre on December 19	PERSON	DATE
+1.0	innocence	have	presumption	O	O
+1.0	Wright	have	Paul Osler	PERSON	PERSON
+1.0	48-year-old	appear at	Ipswich Crown Court charge with murder	DURATION	ORGANIZATION
+1.0	sorts	have	accused	O	O
+1.0	they naked body	be	find in countryside during 10-day period	0	DURATION
+1.0	Steve Wright	be arrest at	he home	PERSON	0
+1.0	Steve Wright	be	arrest at he home on December 19	PERSON	DATE
+1.0	Steve Wright	be	arrest	PERSON	0
+1.0	Ipswich	have	town	O	LOCATION
+1.0	48-year-old	appear at	Ipswich Crown Court charge with murder of Gemma Adams	DURATION	PERSON
+1.0	they naked body	be find in	countryside	0	0
+1.0	Wright 's solicitor Paul Osler	speak before	December 22 court appearance	PERSON	DATE
+1.0	Annette Nicholls	have	murders	O	PERSON
+1.0	they naked body	be	find in countryside during period	0	0
+1.0	25	have	murders	O	NUMBER
+1.0	Tania Nicol	be	19	PERSON	NUMBER
+1.0	Steve Wright	be arrest at	he home in town centre	PERSON	0
+1.0	I	remind everybody about	presumption	0	0
+1.0	I	remind everybody about	presumption of innocence	0	0
+1.0	Alderton	die from	asphyxiation	PERSON	0
+1.0	Paula Clennell	have	murders	O	PERSON
+1.0	19	have	murders	O	NUMBER
+1.0	they naked body	be	find	0	0
+1.0	Wright	have	solicitor Paul Osler	PERSON	PERSON
+1.0	cases	have	two	NUMBER	O
+1.0	he	say	add	0	0
+1.0	48-year-old	appear at	Ipswich Crown Court	DURATION	ORGANIZATION

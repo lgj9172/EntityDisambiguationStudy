@@ -1,0 +1,168 @@
+1.0	world 's largest retailer	post well	fourth quarter revenue	0	DATE
+1.0	european stock market	fall with	support from Wall Street counter	0	0
+1.0	CAC 40 index	dip to	5,607.38 point	NUMBER	NUMBER
+1.0	London	have	tier FTSE index	O	LOCATION
+1.0	world 's retailer	post well	fourth quarter revenue	0	DATE
+1.0	stock	head lower in	Europe	0	LOCATION
+1.0	CAC index	dip to	5,607.38 point	MISC	NUMBER
+1.0	Wall Street	have	record high	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher	rebound above 17,000 point level	ORGANIZATION	NUMBER
+1.0	japanese share price	rally strongly after	heavy recent loss	0	0
+0.5425682436898807	break	record of	12,510.57 point	0	NUMBER
+1.0	european stock market	fall on	Friday	0	DATE
+1.0	CAC index	dip in	Paris	MISC	LOCATION
+1.0	Hong Kong 's key Hang Seng Index	snap	losing streak	LOCATION	0
+1.0	Poor	have	index	O	O
+1.0	Paris	owe to	comment	LOCATION	0
+1.0	stock market	fall with	overall overnight support from Wall Street counter	0	TIME
+1.0	stock market	fall with	support from Wall Street	0	0
+1.0	european stock market	fall with	overnight support from Wall Street counter	0	TIME
+1.0	Dow index	break	prior record	MISC	0
+1.0	Hong Kong 's key Hang Seng Index	snap	four-day losing streak	LOCATION	DURATION
+1.0	japanese share price	rally strongly after	heavy loss	0	0
+1.0	world 's largest retailer	post quarter revenue below	analyst forecast	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish on	Friday in Asia	ORGANIZATION	LOCATION
+1.0	Hong Kong 's key Hang Seng Index	close higher at	19,613.41 point	LOCATION	NUMBER
+1.0	world 's retailer	post	quarter revenue	0	DATE
+1.0	DAX 30 index	drop	0.11 percent	NUMBER	PERCENT
+0.5425682436898807	break	record of	12,510.57 point set on December 27	0	NUMBER
+1.0	stock market	fall with	support from Wall Street counter	0	0
+1.0	Hong Kong 's Hang Seng Index	close higher at	19,613.41 point	LOCATION	NUMBER
+1.0	european stock market	fall with	overall support	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rebound above	17,000 point level	ORGANIZATION	NUMBER
+1.0	european stock market	fall with	overall overnight support from Wall Street	0	TIME
+1.0	a barrel	stimulate	growth	0	0
+1.0	London	have	FTSE index	O	LOCATION
+1.0	eurozone chip shares	have	DJ Euro Stoxx	MISC	O
+1.0	world	have	nation	O	O
+0.5425682436898807	break	prior record of	12,510.57 point	0	NUMBER
+1.0	CAC 40 index	dip in	Paris	NUMBER	LOCATION
+1.0	world	have	music company	O	O
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	crude future	rebound towards	53 dollar	0	MONEY
+1.0	Dow index	close in	New York	MISC	LOCATION
+1.0	stock market	fall with	overall support from Wall Street	0	0
+1.0	european stock market	fall with	overall overnight support	0	TIME
+0.11105180709810691	French supermarket giant Carrefour	dive to	44.4 euro	ORGANIZATION	MONEY
+1.0	euro	stand at	1.2902 dollar	0	MONEY
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	DATE
+1.0	japanese share price	rally strongly after	loss	0	0
+1.0	Hong Kong	have	Hang Seng Index	MISC	LOCATION
+1.0	world 's largest retailer	post quarter revenue well below	analyst forecast	0	0
+1.0	London	on	second tier ftse 250 index	LOCATION	ORDINAL
+1.0	EMI Group	be for	british	ORGANIZATION	0
+1.0	lead	fall for	music group EMI	0	ORGANIZATION
+1.0	world	have	third-biggest music company	0	0
+0.5425682436898807	break	record of	12,510.57 point set	0	NUMBER
+1.0	stock market	fall on	Friday	0	DATE
+1.0	EMI Group	plunge	6.14 percent	ORGANIZATION	PERCENT
+1.0	crude future	rebound on	Friday	0	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher on	Friday in Asia	ORGANIZATION	LOCATION
+1.0	Dow index	break	record of 12,510.57 point set on December 27	MISC	NUMBER
+1.0	stock market	fall with	support	0	0
+1.0	Paris	largely owe to	comment	LOCATION	0
+1.0	share price	rally after	heavy recent loss	0	0
+1.0	a barrel	stimulate	economic growth	0	0
+1.0	Paris	largely owe	Frankfurt stock market	LOCATION	LOCATION
+1.0	Hong Kong 's Hang Seng Index	snap	losing streak	LOCATION	0
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+1.0	DAX index	drop	0.11 percent	MISC	PERCENT
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher at	17,057.01 point	ORGANIZATION	NUMBER
+1.0	Hong Kong 's Hang Seng Index	snap	four-day losing streak	LOCATION	DURATION
+1.0	japanese share price	rally after	heavy loss	0	0
+1.0	world	have	second largest retailer	0	ORDINAL
+1.0	european stock market	fall with	overall support from Wall Street	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish	rebound above 17,000 point level	ORGANIZATION	NUMBER
+1.0	stock market	fall with	overnight support	0	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher	rebound	ORGANIZATION	0
+1.0	EMI Group	issue	profit warning	ORGANIZATION	0
+1.0	world 's largest retailer	post well	quarter revenue	0	DATE
+1.0	53 dollar	be in	New York	MONEY	LOCATION
+1.0	French supermarket giant Carrefour	dive	5.07 percent	ORGANIZATION	PERCENT
+0.11105180709810691	French supermarket giant Carrefour	dive in	Paris	ORGANIZATION	LOCATION
+1.0	stock market	fall with	overnight support from Wall Street counter	0	TIME
+1.0	investor	take	flight	0	0
+1.0	Dow index	close up in	New York	MISC	LOCATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher on	Friday	ORGANIZATION	DATE
+0.5425682436898807	break	prior record of	12,510.57 point set on December 27	0	NUMBER
+1.0	future	rebound on	Friday	0	DATE
+1.0	future	rebound towards	53 dollar in London York	0	MONEY
+1.0	Wall Street	have	record high	O	O
+1.0	european stock market	fall with	support	0	0
+1.0	investor	cheer	decline	0	0
+1.0	Dow index	break	record	MISC	0
+1.0	japanese share price	rally after	heavy recent loss	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish	rebound back	ORGANIZATION	0
+1.0	Hong Kong	have	Hang Seng Index	LOCATION	MISC
+1.0	Carrefour	be	French	ORGANIZATION	MISC
+1.0	japanese share price	rally after	loss	0	0
+1.0	investor	cheer	yen	0	0
+1.0	Dow index	break	record of 12,510.57 point set	MISC	NUMBER
+1.0	european stock market	fall with	overnight support	0	TIME
+1.0	stock market	fall with	overall support from Wall Street counter	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish at	17,057.01 point	ORGANIZATION	NUMBER
+1.0	EMI Group	company 's	world	ORGANIZATION	0
+1.0	world 's retailer	post	fourth quarter revenue	0	DATE
+1.0	share price	rally after	recent loss	0	0
+1.0	CAC 40 index	dip by	0.04 percent	NUMBER	PERCENT
+1.0	broad-market Standard	gain	Poor 's 500 index	0	NUMBER
+1.0	share price	rally after	loss	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish	rebound	ORGANIZATION	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish on	Friday	ORGANIZATION	DATE
+1.0	Dow index	close up on	12,514.98 point	MISC	NUMBER
+1.0	London 's	have end with	gain	LOCATION	0
+1.0	crude future	rebound towards	53 dollar in London York	0	MONEY
+1.0	Hong Kong 's Hang Seng Index	close at	19,613.41 point	LOCATION	NUMBER
+1.0	world	for	largest oil-importing nation	0	0
+1.0	european stock market	fall with	overnight support from Wall Street	0	TIME
+1.0	world 's retailer	post well	quarter revenue	0	DATE
+1.0	world 's largest retailer	post	quarter revenue	0	DATE
+1.0	Dow index	break	prior record of 12,510.57 point set on December 27	MISC	NUMBER
+1.0	Hong Kong 's key Hang Seng Index	close at	19,613.41 point	LOCATION	NUMBER
+0.5425682436898807	break	prior record of	12,510.57 point set	0	NUMBER
+1.0	Dow index	break	prior record of 12,510.57 point	MISC	NUMBER
+1.0	stock market	fall with	overall overnight support	0	TIME
+1.0	stock market	fall with	overall overnight support from Wall Street	0	TIME
+1.0	stock market	fall with	overall support	0	0
+1.0	investor	cheer	weaker yen	0	0
+1.0	Paris	owe	Frankfurt stock market	LOCATION	LOCATION
+1.0	broad-market Standard	gain	Poor 's index	0	0
+1.0	share price	rally strongly after	loss	0	0
+1.0	share price	rally after	heavy loss	0	0
+1.0	points	have	record	O	O
+1.0	a barrel	stimulate growth for	world 's oil-importing nation	0	0
+1.0	share price	rally strongly after	heavy recent loss	0	0
+1.0	a barrel	stimulate growth for	world 's nation	0	0
+1.0	world 's retailer	post quarter revenue well below	analyst forecast	0	0
+1.0	future	rebound towards	53 dollar	0	MONEY
+1.0	japanese share price	rally strongly after	recent loss	0	0
+1.0	european stock market	fall with	overall overnight support from Wall Street counter	0	TIME
+1.0	share price	rally strongly after	heavy loss	0	0
+1.0	european stock market	fall with	support from Wall Street	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rebound back above	17,000 point level	ORGANIZATION	NUMBER
+1.0	shares	have	FTSE index	O	O
+1.0	japanese share price	rally after	recent loss	0	0
+1.0	Poor	have	500 index	0	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher	rebound back above 17,000 point level	ORGANIZATION	NUMBER
+1.0	stock	head in	Europe	0	LOCATION
+1.0	a barrel	stimulate growth for	world 's largest oil-importing nation	0	0
+1.0	Friday	be in	Asia	DATE	LOCATION
+1.0	Dow index	close on	12,514.98 point	MISC	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish	rebound back above 17,000 point level	ORGANIZATION	NUMBER
+1.0	world 's largest retailer	post	fourth quarter revenue	0	DATE
+1.0	lead	fall for	british music group EMI	0	ORGANIZATION
+1.0	stock market	fall with	overnight support from Wall Street	0	TIME
+1.0	a barrel	stimulate growth for	world 's largest nation	0	0
+1.0	world	have	retailer	O	O
+1.0	percent	have	gain	O	PERCENT
+1.0	Tokyo Stock Exchange 's nikkei-225 index	finish higher	rebound back	ORGANIZATION	0
+1.0	EMI Group	announce	cost cut	ORGANIZATION	0
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Dow index	break	record of 12,510.57 point	MISC	NUMBER
+1.0	european stock market	fall with	overall support from Wall Street counter	0	0
+0.9427120646812395	percent	strong at_time	1.04	PERCENT	PERCENT
+1.0	EMI Group	make	boardroom change	ORGANIZATION	0
+1.0	world 's retailer	post quarter revenue below	analyst forecast	0	0
+1.0	Dow index	break	prior record of 12,510.57 point set	MISC	NUMBER
+1.0	share price	rally strongly after	recent loss	0	0
+1.0	CAC index	dip by	0.04 percent	MISC	PERCENT

@@ -1,0 +1,6 @@
+1.0	wounds	have	died	O	O
+1.0	Yussef Abdel Kader	be	23	PERSON	NUMBER
+1.0	city	into	Manara Square	0	LOCATION
+1.0	city	have	Manara Square	LOCATION	O
+1.0	Yussef Abdel Kader 23	be	wound	PERSON	0
+1.0	Yussef Abdel Kader	be	wound	PERSON	0

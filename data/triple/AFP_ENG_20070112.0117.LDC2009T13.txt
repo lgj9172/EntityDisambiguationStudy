@@ -1,0 +1,55 @@
+1.0	Chen Guangcheng	be sentence for	public property	PERSON	0
+1.0	China	have	official Xinhua news agency earlier in day	LOCATION	DATE
+1.0	Shandong	have	Linyi city	O	LOCATION
+1.0	process	be	deeply flaw	0	0
+1.0	A blind activist who exposed government abuses of China 's one - child policy	have	client	O	O
+1.0	Chen Guangcheng	be	sentence to four year for public property	PERSON	DURATION
+1.0	legal process	be	flaw	0	0
+1.0	Chen	have	case	PERSON	0
+1.0	Chen	have	appeal	PERSON	0
+1.0	New york-based Human Rights Watch	raise	Chen 's case	ORGANIZATION	PERSON
+1.0	Chen Guangcheng	be sentence for	property	PERSON	0
+1.0	local officials in this case	have	powers	O	O
+1.0	Li Jinsong	say	other lawyer	PERSON	0
+1.0	Li Jinsong	say	lawyer	PERSON	0
+1.0	court	reject	Chen 's appeal	0	PERSON
+1.0	Chen Guangcheng	be	sentence to four year for property	PERSON	DURATION
+1.0	Chen Guangcheng	be	sentence	PERSON	0
+1.0	Chen Guangcheng	be sentence for	damaging public property	PERSON	0
+1.0	case	have	handling	O	O
+1.0	Chen 's	have	favour	O	PERSON
+1.0	rights conditions	have	deterioration	O	O
+1.0	China	have	family planning	O	LOCATION
+1.0	Li Jinsong	be lawyer of	Chen	PERSON	PERSON
+1.0	Communist Party	have	report	O	O
+1.0	authorities	have	actions	O	O
+1.0	york-based Human Rights Watch	raise	Chen 's case	ORGANIZATION	PERSON
+1.0	Li Jinsong	maintain at_time	Friday	PERSON	DATE
+1.0	Chen Guangcheng	be sentence for	damaging property	PERSON	0
+1.0	Chen Guangcheng	be	sentence to four year for damaging property	PERSON	DURATION
+1.0	court	be in	Linyi city	0	LOCATION
+1.0	Linyi city	have	politics	O	O
+1.0	years	have	jail term	O	DURATION
+1.0	Chen	's lawyer be	Li Jinsong	PERSON	PERSON
+1.0	Human Rights Watch	raise	Chen 's case	ORGANIZATION	PERSON
+1.0	A blind activist who exposed government abuses of China 's one - child policy	have	lawyer	O	O
+1.0	Chen Guangcheng	be sentence to	four year	PERSON	DURATION
+1.0	three month	be in	jail	DURATION	0
+1.0	China	have	controversial family planning	LOCATION	0
+1.0	Chen	have	appeal	O	PERSON
+1.0	Chen	have	case	O	PERSON
+1.0	A blind activist who exposed government abuses of China 's one - child policy	have	appeal	O	O
+1.0	Chen Guangcheng	be	sentence to four year for damaging public property	PERSON	DURATION
+1.0	Chen Guangcheng	have	lawyers	O	O
+1.0	legal process	be	deeply flaw	0	0
+1.0	process	be	flaw	0	0
+1.0	China	have	Xinhua news agency	O	LOCATION
+1.0	Li Jinsong	have	client	O	O
+1.0	the local authorities '	have	pregnancies	O	O
+1.0	Chen Guangcheng	disrupt	traffic	PERSON	0
+1.0	women	have	thousands	O	O
+1.0	Chen 's	be	35	PERSON	NUMBER
+1.0	Chen	have	lawyer	PERSON	0
+1.0	Chen	have	lawyer	O	PERSON
+1.0	deterioration	have	example	O	O
+1.0	way	have	rights	O	O

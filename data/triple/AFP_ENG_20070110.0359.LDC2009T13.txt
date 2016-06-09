@@ -1,0 +1,96 @@
+1.0	pressure	have	face	O	O
+0.9972830243667661	most	be	drop in face of pressure from Brussels	0	LOCATION
+1.0	utility 's offer	receive acceptance from	shareholder account for 50.01 percent on voting rights	0	PERCENT
+1.0	Acciona	be	spanish	ORGANIZATION	0
+1.0	construction group Acciona	have become with	20 percent capital stake	ORGANIZATION	PERCENT
+1.0	compatriot Endesa	have	percent	PERCENT	ORGANIZATION
+1.0	afternoon	be	on Madrid market up 3.13 percent to 36.55 euro	TIME	PERCENT
+1.0	utility 's offer	be	conditional	0	0
+1.0	spanish construction group Acciona	have become in	recent month	ORGANIZATION	DURATION
+1.0	Gas Natural following an Endesa request to that effect	slide	2.18 percent	0	PERCENT
+1.0	Germany	have	power supplier	O	LOCATION
+1.0	afternoon	be	up 3.13 percent to 36.55 euro	TIME	PERCENT
+1.0	afternoon	be	Wednesday up 3.13 percent	TIME	PERCENT
+1.0	court	say in	statement	ORGANIZATION	0
+1.0	utility	have	offer	O	O
+1.0	spanish government	have back	gas natural bid	0	0
+1.0	Gas Natural	on	bid	ORGANIZATION	0
+0.9972830243667661	most	be	drop in face from Brussels	0	LOCATION
+1.0	supreme court	be of	spanish	ORGANIZATION	0
+1.0	german utility 's offer	receive	acceptance	0	0
+1.0	german utility	have	offer	0	0
+1.0	construction group Acciona	shareholder in	compatriot Endesa	ORGANIZATION	ORGANIZATION
+1.0	german utility 's offer	receive acceptance from	shareholder	0	0
+1.0	german utility 's offer	receive acceptance from	shareholder account for 50.01 percent on voting rights	0	PERCENT
+1.0	compatriot Endesa	oppose	Gas Natural propose tie-up	ORGANIZATION	0
+1.0	main shareholder	be in	compatriot Endesa	0	ORGANIZATION
+1.0	afternoon	be	up 3.13 percent	TIME	PERCENT
+1.0	utility 's offer	receive acceptance from	shareholder	0	0
+1.0	Commission	criticise	Madrid	ORGANIZATION	LOCATION
+1.0	german utility 's offer	receive acceptance from	shareholder account on voting rights	0	0
+0.9972830243667661	most	be drop in	face	0	0
+1.0	spanish construction group Acciona	shareholder in	compatriot Endesa	ORGANIZATION	ORGANIZATION
+1.0	move	will allow offer from	german energy giant EON	0	ORGANIZATION
+1.0	a 20 percent capital stake	have	own	O	O
+1.0	supreme court	have	chamber	O	ORGANIZATION
+1.0	compatriot Endesa	be market wednesday afternoon of	Madrid	ORGANIZATION	LOCATION
+1.0	move	will allow offer from	energy giant EON	0	ORGANIZATION
+1.0	Iberdrola SA	be by	spanish	ORGANIZATION	0
+0.14059619431790493	move	will allow	proceed	0	0
+1.0	market	overall sag	1.38 percent	0	PERCENT
+1.0	construction group Acciona	have become in	recent month	ORGANIZATION	DURATION
+0.14059619431790493	move	will allow from	energy giant EON	0	ORGANIZATION
+0.9972830243667661	most	be drop in	face of pressure	0	0
+1.0	utility 's offer	receive acceptance from	shareholder account for 50.01 percent of Endesa on voting rights	0	PERCENT
+1.0	compatriot Endesa	oppose	Gas Natural tie-up	ORGANIZATION	0
+1.0	spanish construction group Acciona	be	set	ORGANIZATION	0
+1.0	german utility 's offer	receive acceptance from	shareholder account	0	0
+1.0	construction group Acciona	be	set	ORGANIZATION	0
+1.0	afternoon	be	on Madrid market up 3.13 percent	TIME	PERCENT
+1.0	utility 's offer	receive	acceptance	0	0
+1.0	german utility 's offer	receive acceptance from	shareholder account for 50.01 percent	0	PERCENT
+0.9972830243667661	most	be drop from	Brussels	0	LOCATION
+1.0	members	have	majority	O	O
+1.0	market	sag	1.38 percent	0	PERCENT
+1.0	injunction	be	lift	0	0
+1.0	Germany	have	biggest power supplier	LOCATION	0
+0.9570143676685857	Madrid	impose	raft	LOCATION	0
+1.0	Spain	have	court	O	LOCATION
+1.0	move	will allow	compete offer	0	0
+0.14059619431790493	move	will allow from	german energy giant EON	0	ORGANIZATION
+1.0	afternoon	be	on Madrid market Wednesday up 3.13 percent	TIME	PERCENT
+1.0	utility 's offer	receive acceptance from	shareholder account on voting rights	0	0
+1.0	German energy giant EON	have reserve	right	ORGANIZATION	0
+1.0	Spain	have	supreme court on Wednesday	LOCATION	DATE
+0.9972830243667661	most	be	drop	0	0
+1.0	spanish construction group Acciona	have become with	20 percent capital stake	ORGANIZATION	PERCENT
+1.0	spanish government	have back	gas bid	0	0
+1.0	Gas Natural	have	bid	O	O
+1.0	Madrid court	have also block	Gas Natural bid	LOCATION	MISC
+1.0	afternoon	be	Wednesday up 3.13 percent to 36.55 euro	TIME	PERCENT
+1.0	spanish construction group Acciona	main shareholder in	compatriot Endesa	ORGANIZATION	ORGANIZATION
+1.0	utility 's offer	receive acceptance from	shareholder account	0	0
+1.0	government	have back	gas natural bid	0	0
+1.0	which	have	most	O	O
+1.0	Madrid court	have block	Gas Natural bid	LOCATION	MISC
+1.0	construction group Acciona	have become in	month	ORGANIZATION	0
+1.0	construction group Acciona	main shareholder in	compatriot Endesa	ORGANIZATION	ORGANIZATION
+1.0	german utility 's offer	be	conditional	0	0
+1.0	court	suspend	22.5 billion euro cash	0	MONEY
+1.0	utility 's offer	receive acceptance from	shareholder account for 50.01 percent	0	PERCENT
+1.0	conditions	have	raft	O	O
+1.0	compatriot Endesa	have	Gas Natural	O	ORGANIZATION
+1.0	The Spanish government	would create	sector champion	0	0
+1.0	EON	be from	german	ORGANIZATION	0
+1.0	Madrid court	be	expect	LOCATION	0
+1.0	european Commission	criticise	Madrid	ORGANIZATION	LOCATION
+1.0	The third chamber of the Spanish supreme court	have	members	O	O
+1.0	move	will allow	offer	0	0
+1.0	german utility 's offer	receive acceptance from	shareholder account for 50.01 percent of Endesa on voting rights	0	PERCENT
+1.0	government	have back	gas bid	0	0
+1.0	The Spanish government	would create	sector national champion	0	0
+1.0	afternoon	be	on Madrid market Wednesday up 3.13 percent to 36.55 euro	TIME	PERCENT
+1.0	spanish construction group Acciona	have become in	month	ORGANIZATION	0
+1.0	german utility 's offer	receive acceptance from	shareholder account for 50.01 percent of Endesa	0	PERCENT
+1.0	own	have	bid	O	O
+1.0	utility 's offer	receive acceptance from	shareholder account for 50.01 percent of Endesa	0	PERCENT

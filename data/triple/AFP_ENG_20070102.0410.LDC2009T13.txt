@@ -1,0 +1,98 @@
+1.0	Minnesota Vikings receiver Travis Taylor	be arrest on	three misdemeanor charge	ORGANIZATION	NUMBER
+1.0	Minnesota Vikings receiver Travis Taylor	be	arrest by Minneapolis police on three misdemeanor charge stem	ORGANIZATION	NUMBER
+1.0	Darrent	have	life	PERSON	0
+1.0	Minnesota Vikings receiver Travis Taylor	be arrest on	three misdemeanor charge stem from incident outside nightclub	ORGANIZATION	NUMBER
+1.0	police	be in	they investigation	0	0
+1.0	Taylor	have	run-in with authority in 2006 season	PERSON	DATE
+1.0	Taylor	member of	Vikings	PERSON	PERSON
+1.0	Williams	kill at_time	Monday morning	PERSON	TIME
+1.0	Pittsburgh Steelers linebacker Joey Porter	be one of	six people	ORGANIZATION	NUMBER
+1.0	run-in	be with	authority in 2006 season	0	DATE
+1.0	Denver bronco	announce plan as	police press into he shooting death	ORGANIZATION	0
+1.0	authority	be in	2006 season	0	DATE
+1.0	bronco	say on	Tuesday	0	DATE
+1.0	Denver bronco	announce plan as	police press	ORGANIZATION	0
+1.0	Cincinnati Bengals	have	members	O	ORGANIZATION
+0.9836216211123467	they playoff	end to	San Francisco in they final game	0	LOCATION
+1.0	the police	have	face	O	O
+1.0	Williams	leave party with	he friend	PERSON	0
+1.0	2003	have	August	DATE	DATE
+1.0	Fort Worth	have	hometown	O	LOCATION
+1.0	Taylor	become	fourth member of Vikings	PERSON	ORDINAL
+1.0	Minnesota Vikings receiver Travis Taylor	be arrest by	Minneapolis police	ORGANIZATION	LOCATION
+1.0	Williams	be	24	PERSON	NUMBER
+0.9554099362239642	plan	honor	teammate	0	0
+1.0	Williams	attend	those	PERSON	0
+1.0	Vikings	have	member	O	PERSON
+0.9554099362239642	plan	honor	slay teammate	0	0
+1.0	Taylor	have	run-in with authority	PERSON	0
+1.0	Williams	kill at_time	early Monday morning	PERSON	TIME
+1.0	Travis Taylor	be receiver of	Minnesota Vikings	PERSON	ORGANIZATION
+1.0	Denver bronco	announce plan as	police	ORGANIZATION	0
+1.0	bronco	say at	press conference	0	0
+1.0	tomorrow	be with	we player	DATE	0
+1.0	Taylor	have	run-in	PERSON	0
+1.0	Denver bronco	announce plan as	police press on with investigation	ORGANIZATION	0
+1.0	Williams	attend	party	PERSON	0
+1.0	event	be in	Williams ' death	0	PERSON
+1.0	his	have	limo	O	O
+1.0	Mike Shanahan	be coach of	bronco	PERSON	0
+1.0	a man	have	playoff	O	O
+0.9554099362239642	plan	honor teammate at_time	Darrent Williams on Tuesday	0	DATE
+1.0	their	have	investigation	O	O
+1.0	Minnesota Vikings receiver Travis Taylor	be	arrest by Minneapolis police on three misdemeanor charge	ORGANIZATION	NUMBER
+1.0	Taylor	become	member	PERSON	0
+1.0	Darrent Williams	be on	Tuesday	PERSON	DATE
+1.0	Williams 24	be	shoot	PERSON	0
+0.9836216211123467	they playoff	end to	San Francisco in they final game of season	0	LOCATION
+1.0	Williams	leave	party	PERSON	0
+1.0	Williams 24	kill at_time	early Monday morning	PERSON	TIME
+1.0	San Francisco	be in	they final game of season	LOCATION	0
+1.0	Denver bronco	announce plan as	police press on with investigation into he shooting death	ORGANIZATION	0
+0.8233274541880914	best	conduct	themselves	0	0
+1.0	Joey Porter	be	Pittsburgh Steelers	PERSON	ORGANIZATION
+1.0	the police	have	players	O	O
+1.0	Joey Porter	be linebacker of	Pittsburgh Steelers	PERSON	ORGANIZATION
+1.0	Minnesota Vikings receiver Travis Taylor	be arrest on	three misdemeanor charge stem from incident	ORGANIZATION	NUMBER
+0.9554099362239642	plan	honor teammate at_time	Darrent Williams	0	PERSON
+1.0	them	have	one	NUMBER	O
+1.0	Taylor	become	member of Vikings	PERSON	PERSON
+1.0	he	agency	Momentum Sports	0	0
+0.7665954714957863	brush	member of	Cincinnati Bengals	0	ORGANIZATION
+1.0	Darrent	have	family	PERSON	0
+1.0	Minnesota Vikings receiver Travis Taylor	be	arrest by Minneapolis police on three misdemeanor charge stem from incident outside nightclub	ORGANIZATION	NUMBER
+1.0	people	have	one	NUMBER	O
+1.0	Taylor	become	fourth member	PERSON	ORDINAL
+1.0	Darrent	have	family	O	PERSON
+1.0	disagreement	have	type	O	O
+1.0	Travis Taylor	be	Minnesota Vikings	PERSON	ORGANIZATION
+1.0	his	have	hometown	O	O
+1.0	the police	have	friend	O	O
+1.0	a man	have	game	O	O
+1.0	New Year	have	Eve	DATE	DATE
+1.0	brush	be with	law	0	0
+1.0	Minnesota Vikings receiver Travis Taylor	be arrest on	three misdemeanor charge stem	ORGANIZATION	NUMBER
+1.0	he	say	note	0	0
+1.0	Minnesota Vikings receiver Travis Taylor	be	arrest	ORGANIZATION	0
+1.0	events	have	sequence	O	O
+1.0	Williams	have	death	O	PERSON
+1.0	sequence	remain	unclear	0	0
+1.0	limousine	be with	several other people	0	0
+1.0	Taylor	fourth member of	Vikings	PERSON	PERSON
+1.0	Williams	be	shoot	PERSON	0
+1.0	Williams	attend	those with he	PERSON	0
+1.0	Williams	have	friends	O	O
+1.0	Minnesota Vikings receiver Travis Taylor	be	arrest by Minneapolis police on three misdemeanor charge stem from incident	ORGANIZATION	NUMBER
+0.9836216211123467	they playoff	end to	San Francisco	0	LOCATION
+1.0	Denver bronco	announce	plan	ORGANIZATION	0
+0.9836216211123467	they playoff	end to	San Francisco in they game	0	LOCATION
+1.0	season	have	game	O	O
+0.9836216211123467	they playoff	end by	loss	0	0
+1.0	Darrent	have	life	O	PERSON
+1.0	his	have	agency	O	O
+1.0	agency	have	part	O	O
+1.0	Williams 24	kill at_time	Monday morning	PERSON	TIME
+0.9836216211123467	they playoff	end to	San Francisco in they game of season	0	LOCATION
+1.0	slain teammate	have	shooting death	O	O
+1.0	Denver sport bar	be in	August of 2003	LOCATION	DATE
+1.0	Pittsburgh Steelers linebacker Joey Porter	be one	six people	ORGANIZATION	NUMBER

@@ -1,0 +1,150 @@
+1.0	its annual US sale	fall	8.7 percent	LOCATION	PERCENT
+1.0	Camry	be best-selling car for	fifth year	MISC	DURATION
+1.0	world	have	automaker	O	O
+1.0	sale datum	show at_time	Wednesday	DURATION	DATE
+1.0	Toyota	have	better brand image	ORGANIZATION	0
+1.0	its recovery	have	recovery	O	O
+1.0	Camry	be car for	fifth consecutive year	MISC	DURATION
+1.0	other reason	be	Toyota 's product mix	0	ORGANIZATION
+1.0	its recovery	have	US sales	O	O
+1.0	turnaround plan	have	support	O	O
+1.0	Camry	be	last year best-selling car for year	MISC	DATE
+1.0	Camry	be best-selling car at_time	last year	MISC	DATE
+1.0	Camry	be best-selling car at_time	year	MISC	DATE
+1.0	GM 's car	fall	hefty 9.6 percent year-on	ORGANIZATION	PERCENT
+1.0	GM 's total car	fall	truck sale	ORGANIZATION	0
+1.0	Camry	be car for	fifth year	MISC	DURATION
+1.0	Ford	go down to	17.2 percent	ORGANIZATION	PERCENT
+1.0	Ford	have	figure	O	ORGANIZATION
+1.0	Ford group	have	brand	O	O
+1.0	Camry	be best-selling car for	fifth consecutive year	MISC	DURATION
+1.0	Rick Wagoner	of	turnaround plan for North America	PERSON	LOCATION
+1.0	housing bubble	have	strain	O	O
+1.0	last year best-selling car	be in	America	DATE	LOCATION
+1.0	Camry	be	year best-selling car for fifth consecutive year	MISC	DURATION
+1.0	eight percent drop	be in	2006 US sale	PERCENT	LOCATION
+1.0	GM	have	vice president	O	ORGANIZATION
+1.0	Camry	be	year car for fifth year	MISC	DURATION
+1.0	Toyota 's Lexus brand	be best accord to	Toyota Motor Sales	ORGANIZATION	ORGANIZATION
+1.0	fuel prices	have	strain	O	O
+1.0	its	have	December sales	O	O
+1.0	our	have	goals	O	O
+0.47937962732886696	GM 's total car	fall in	December	ORGANIZATION	DATE
+1.0	GM	have	total car	ORGANIZATION	0
+0.47937962732886696	GM 's car	fall in	December	ORGANIZATION	DATE
+1.0	GM	have	car	O	ORGANIZATION
+1.0	number one reason	be	production cut from domestic	NUMBER	0
+1.0	its annual US sale	fall	8.7 percent from 2005	LOCATION	DATE
+1.0	Camry	be car at_time	last year	MISC	DATE
+1.0	Toyota 's Lexus brand	be	best	ORGANIZATION	0
+1.0	its December sale	plummet	13 percent year-on-year	DATE	PERCENT
+1.0	South Korea 's Hyundai	see	its annual US sale advance	LOCATION	LOCATION
+1.0	Camry	be	best-selling car	MISC	0
+1.0	vehicles	have	record US sales	O	O
+1.0	Toyota	have	brand image for reliability	ORGANIZATION	0
+1.0	Ford	have at_time	year forget	ORGANIZATION	DURATION
+1.0	Ford	have	heels	O	ORGANIZATION
+1.0	US sale	rise	3.5 percent	LOCATION	PERCENT
+1.0	13 percent	year-on-year to	233,621 unit	PERCENT	NUMBER
+1.0	same	be	true	0	0
+1.0	Camry	be	year best-selling car for fifth year	MISC	DURATION
+1.0	Toyota	have	Lexus brand	ORGANIZATION	MISC
+1.0	South Korea	have	Hyundai	LOCATION	ORGANIZATION
+1.0	its December sale	plummet	13 percent year-on-year to 233,621 unit	DATE	PERCENT
+1.0	its	have	sales	O	O
+1.0	Camry	be	year best-selling car for consecutive year	MISC	DURATION
+1.0	Ford	suffer	eight percent drop in 2006 US sale	ORGANIZATION	PERCENT
+0.434683980509494	its US sale	fall to	just over 4.124 million last year	LOCATION	NUMBER
+1.0	world	have	biggest automaker	0	0
+1.0	Jesse Toprak	analyst at	Edmunds.com	PERSON	ORGANIZATION
+1.0	DaimlerChrysler	have	2006 sale	ORGANIZATION	DATE
+0.434683980509494	its annual US sale	fall to	just over 4.124 million last year	LOCATION	NUMBER
+0.28627611980559997	US sale	rise to	record 1.51 million	LOCATION	NUMBER
+1.0	Toyota	have	Lexus brand	O	ORGANIZATION
+1.0	Camry	be	last year best-selling car for fifth year	MISC	DURATION
+1.0	its	have	business	O	O
+1.0	Jim Lentz	be executive vice president of	TMS	PERSON	ORGANIZATION
+1.0	Land Rover	be	Ford group 's brand	0	ORGANIZATION
+1.0	2006	be	respectable	DATE	0
+1.0	South Korea 's Hyundai	see	its US sale advance	LOCATION	LOCATION
+1.0	GM	have	US market share	ORGANIZATION	LOCATION
+1.0	26.4 percent	be in	2005	PERCENT	DATE
+1.0	Toyota	have	much better brand image for reliability	ORGANIZATION	0
+0.434683980509494	its annual US sale	fall to	just over 4.124 million year	LOCATION	NUMBER
+1.0	2006	have	quarter	DATE	DATE
+1.0	Toyota	have	diverse product mix	ORGANIZATION	0
+1.0	Mark LaNeve	president for	north american sale	PERSON	0
+1.0	Japan	have	Toyota	ORGANIZATION	LOCATION
+0.28627611980559997	US sale	rise at_time	last year	LOCATION	DATE
+0.47937962732886696	GM 's car	fall	truck sale	ORGANIZATION	0
+1.0	world	as	lead automaker	0	0
+0.28627611980559997	US sale	rise for	Japan 's Honda	LOCATION	ORGANIZATION
+1.0	manufacturer	have	accolade	O	O
+1.0	Japan 's Toyota	have	US sales	O	O
+1.0	number one reason	be	production cut	NUMBER	0
+1.0	Toyota	have	better brand image for reliability	ORGANIZATION	0
+1.0	GM 's car	fall	9.6 percent year-on	ORGANIZATION	PERCENT
+0.434683980509494	its US sale	fall to	just over 4.124 million year	LOCATION	NUMBER
+1.0	its	have	US sales advance	O	O
+1.0	GM	have	vice president for north american sale	ORGANIZATION	0
+1.0	GM 's total car	fall	9.6 percent year-on	ORGANIZATION	PERCENT
+0.47937962732886696	its December sale	fall to	218,530 vehicle	DATE	NUMBER
+1.0	Camry	be best-selling car for	consecutive year	MISC	DURATION
+1.0	workers	have	thousands	O	O
+1.0	South Korea	have	Hyundai	ORGANIZATION	LOCATION
+1.0	Camry	be	last year car for fifth consecutive year	MISC	DURATION
+1.0	we	have	plans	O	O
+1.0	number reason	be	production cut from domestic	0	0
+1.0	Land Rover	post	sale	0	0
+1.0	Japan	have	Honda	ORGANIZATION	LOCATION
+1.0	rival Ford Motor Co. GM	shutter	plant	ORGANIZATION	0
+1.0	Camry	be	car	MISC	0
+1.0	its	have	US sales	O	O
+1.0	we	have	mix	O	O
+1.0	same	be true of	GM	0	ORGANIZATION
+1.0	Camry	be	last year best-selling car for fifth consecutive year	MISC	DURATION
+1.0	Camry	be best-selling car for	year	MISC	DATE
+1.0	Toyota	have	brand image	ORGANIZATION	0
+1.0	Camry	be	last year best-selling car for consecutive year	MISC	DURATION
+1.0	Land Rover	post sale in	2006	0	DATE
+1.0	Toyota	rise to	13.4	ORGANIZATION	NUMBER
+1.0	Toyota	have	product mix	O	ORGANIZATION
+1.0	Camry	be	year best-selling car for year	MISC	DATE
+1.0	Land Rover	post	higher sale	0	0
+1.0	GM	have	US market share	O	ORGANIZATION
+1.0	Rick Wagoner	have	turnaround plan	O	PERSON
+1.0	GM 's car	fall	truck sale	ORGANIZATION	0
+0.28627611980559997	US sale	rise at_time	year	LOCATION	DATE
+1.0	Jim Lentz	be	TMS	PERSON	ORGANIZATION
+1.0	Camry	be	year car for year	MISC	DATE
+1.0	Camry	be car for	consecutive year	MISC	DURATION
+1.0	Camry	be	last year car for consecutive year	MISC	DURATION
+1.0	Japan	have	Toyota	LOCATION	ORGANIZATION
+1.0	its recovery	be on	track	0	0
+1.0	its US sale	fall	8.7 percent from 2005	LOCATION	DATE
+1.0	Land Rover	be	Ford group 's only brand	0	ORGANIZATION
+0.47937962732886696	GM 's total car	fall	truck sale	ORGANIZATION	0
+1.0	Ford group	have	only brand	ORGANIZATION	0
+1.0	GM 's total car	fall	hefty 9.6 percent year-on	ORGANIZATION	PERCENT
+1.0	DaimlerChrysler	have	sales	O	ORGANIZATION
+1.0	reason	be	Toyota 's diverse product mix	0	ORGANIZATION
+1.0	Camry	be	last year car for year	MISC	DATE
+1.0	Ford	suffer	eight percent drop	ORGANIZATION	PERCENT
+1.0	GM	have	true	O	ORGANIZATION
+1.0	Camry	be car at_time	year	MISC	DATE
+1.0	he	say in	statement	0	0
+1.0	Japan	for	Honda	LOCATION	ORGANIZATION
+1.0	reason	be	Toyota 's product mix	0	ORGANIZATION
+1.0	its December sale	fall	one percent	DATE	PERCENT
+1.0	Ford	have at_time	year	ORGANIZATION	DURATION
+1.0	Camry	be	last year car for fifth year	MISC	DURATION
+1.0	Camry	be car for	year	MISC	DATE
+1.0	Camry	be	year car for consecutive year	MISC	DURATION
+1.0	Ford	go to	17.2 percent	ORGANIZATION	PERCENT
+1.0	number reason	be	production cut	0	0
+1.0	its US sale	fall	8.7 percent	LOCATION	PERCENT
+1.0	Toyota	have	much better brand image	ORGANIZATION	0
+1.0	its	have	Detroit	LOCATION	O
+1.0	Ford Motor Co. GM	shutter	plant	ORGANIZATION	0
+1.0	other reason	be	Toyota 's diverse product mix	0	ORGANIZATION
+1.0	Camry	be	year car for fifth consecutive year	MISC	DURATION

@@ -1,0 +1,11 @@
+1.0	billion-euro hole	be in	its account	NUMBER	0
+1.0	civil action	be in	US	0	LOCATION
+1.0	dairy group 's near collapse	be in	December 2003	0	DATE
+1.0	14	have	discovery	O	NUMBER
+1.0	dairy group	have	collapse	O	O
+1.0	food group Parmalat	have seek	damages against Deloitte	ORGANIZATION	PERSON
+1.0	activity	have	years	DURATION	O
+1.0	food group Parmalat	have seek	damages	ORGANIZATION	0
+1.0	Deloitte and Touche	have	claims	O	O
+1.0	dairy group	follow	near collapse in December 2003	0	DATE
+1.0	a 14	have	accounts	O	O

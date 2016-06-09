@@ -1,0 +1,31 @@
+1.0	UN peacekeepers	have	deployment	O	O
+1.0	equipment	have	transfer	O	O
+1.0	remainder worth	be deliver in	come week	0	0
+1.0	remainder worth	be	deliver	0	0
+1.0	compromise	be in	November	0	DATE
+1.0	United Nations	say at_time	Friday	ORGANIZATION	DATE
+1.0	remainder	be deliver in	come week	0	0
+1.0	UN security Council	overstretch african union force at_time	last July	ORGANIZATION	DATE
+1.0	UN support	have	phase	O	O
+1.0	violent	have	one	NUMBER	O
+1.0	remainder	be	deliver	0	0
+1.0	phase	have	details	O	O
+1.0	conflict	be in	Darfur	0	LOCATION
+1.0	supplies	have	remainder	O	O
+1.0	conflict	have leave	200,000 people dead two million other	0	NUMBER
+1.0	conflict	have leave	two million other	0	NUMBER
+1.0	conflict	have leave	dead two million other	0	NUMBER
+1.0	remainder worth	be	deliver in come week	0	0
+1.0	remainder	be deliver in	week	0	0
+1.0	remainder worth	be deliver in	week	0	0
+1.0	peacekeep effort	be in	conflict-stricken Darfur province	0	LOCATION
+1.0	remainder	be	deliver in week	0	0
+1.0	UN security Council	overstretch african union force at_time	July	ORGANIZATION	DATE
+1.0	UN security Council	overstretch	African Union force	ORGANIZATION	LOCATION
+0.814138969043514	UN security Council	call on	Khartoum	ORGANIZATION	LOCATION
+1.0	dollars	have	total	O	MONEY
+1.0	African Union mission headquarters	be in	al-fashar town	LOCATION	0
+1.0	remainder worth	be	deliver in week	0	0
+1.0	The United Nations	be in	process	ORGANIZATION	0
+1.0	item	be in	so-called light support package	0	0
+1.0	remainder	be	deliver in come week	0	0

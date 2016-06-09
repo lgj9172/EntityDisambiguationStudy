@@ -1,0 +1,80 @@
+1.0	82	have	age	O	NUMBER
+1.0	sport	of	top legal body	0	0
+1.0	he faith	build	world	0	0
+1.0	International Court of Justice	be	legally-enshrined final avenue	0	0
+1.0	CAS	become after	year	ORGANIZATION	DURATION
+1.0	Lausanne	be in	1983	LOCATION	DATE
+1.0	lausanne-based CAS	pay tribute to	to Mbaye	ORGANIZATION	PERSON
+1.0	Keba Mbaye	have	devotion	O	O
+1.0	member	head	Ethics Commission from 1999	0	DATE
+1.0	IOC President Jacques Rogge	say in	statement	PERSON	0
+1.0	court	grow in	stature	0	0
+1.0	International Court of Justice	be	now legally-enshrined avenue	0	DATE
+1.0	senegalese judge	be	lead member	0	0
+1.0	Mbaye	arbitrate	grow number of dispute	PERSON	0
+1.0	lead member	notably head	Ethics Commission from 1999	0	DATE
+1.0	Olympic Movement	have	values	O	O
+1.0	he unshakeable faith	build	world	0	0
+1.0	Mbaye	arbitrate	grow number of sports-related dispute	PERSON	0
+1.0	lead member	notably head	Ethics Commission	0	ORGANIZATION
+1.0	CAS	pay tribute to	to Mbaye	ORGANIZATION	PERSON
+1.0	Mbaye	arbitrate	number of sports-related dispute	PERSON	0
+1.0	International Court of Justice	be	now avenue	0	DATE
+1.0	IOC	have	member	O	ORGANIZATION
+1.0	senegalese judge	be	member	0	0
+1.0	Mbaye	arbitrate	number	PERSON	0
+1.0	judge	be member of	IOC	0	ORGANIZATION
+1.0	Mbaye	arbitrate	number of dispute	PERSON	0
+1.0	CAS	become at_time	year	ORGANIZATION	DURATION
+1.0	sport 's top legal body	of president be	International Olympic Committee	0	ORGANIZATION
+1.0	Jacques Rogge	be president of	the IOC	PERSON	ORGANIZATION
+1.0	International Court of Justice	be	now legally-enshrined final avenue	0	DATE
+1.0	International Court of Justice	be	now final avenue	0	DATE
+1.0	International Court	have	vice-president	O	ORGANIZATION
+0.5197367681610737	remarkable development institution	stand	world	0	0
+1.0	senegalese judge	be lead member of	IOC	0	ORGANIZATION
+1.0	he faith	build	better world	0	0
+1.0	member	notably head	Ethics Commission	0	ORGANIZATION
+1.0	judge	be lead member of	IOC	0	ORGANIZATION
+1.0	it	add in	statement	0	0
+1.0	CAS	pay	tribute	ORGANIZATION	0
+1.0	judge	be	member	0	0
+1.0	his extraordinary eloquence	have	ability	O	O
+1.0	body	have	president	O	O
+1.0	his	have	passion	O	O
+1.0	he unshakeable faith	build	better world	0	0
+1.0	Justice	have	International Court	ORGANIZATION	ORGANIZATION
+1.0	Arbitration	have	Court	ORGANIZATION	ORGANIZATION
+1.0	Ethics Commission	be from	1999	ORGANIZATION	DATE
+1.0	Keba Mbaye	have	faith	O	O
+1.0	senegalese judge	vice-president of	International Court of Justice	0	ORGANIZATION
+1.0	International Court of Justice	be	final avenue	0	0
+1.0	Olympism	have	love	O	MISC
+1.0	men	have	one	NUMBER	O
+1.0	whose	have	humanity	O	O
+1.0	judge	be	lead	0	0
+1.0	Keba Mbaye	have	love	O	O
+1.0	Keba Mbaye	have	eloquence	O	O
+1.0	Court of Arbitration for Sport	of court be	The Lausanne-based CAS	ORGANIZATION	ORGANIZATION
+1.0	judge	be	lead member	0	0
+1.0	Jacques Rogge	be	the IOC	PERSON	ORGANIZATION
+1.0	he devotion	be	unfailing	0	0
+1.0	lead member	head	Ethics Commission	0	ORGANIZATION
+1.0	International Court of Justice	be	legally-enshrined avenue	0	0
+1.0	CAS	be	lausanne-based	ORGANIZATION	0
+1.0	sport	have	body	O	O
+1.0	disputes	have	number	O	O
+1.0	International Court of Justice	be	avenue	0	0
+1.0	sports	have	range	O	O
+1.0	member	head	Ethics Commission	0	ORGANIZATION
+1.0	lead member	head	Ethics Commission from 1999	0	DATE
+1.0	he unshakeable faith	be in	humanity	0	0
+0.5197367681610737	development institution	stand	world	0	0
+1.0	member	notably head	Ethics Commission from 1999	0	DATE
+1.0	justice	have	sense	O	O
+1.0	senegalese judge	be member of	IOC	0	ORGANIZATION
+1.0	appeal	have	avenue	O	O
+1.0	Lausanne-based	have	guidance	O	O
+1.0	Mbaye	arbitrate	grow number	PERSON	0
+1.0	lausanne-based CAS	pay	tribute	ORGANIZATION	0
+1.0	its	have	independence	O	O

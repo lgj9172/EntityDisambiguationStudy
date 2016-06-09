@@ -1,0 +1,18 @@
+1.0	interlocutor	have	emergence	O	O
+1.0	Henri Cuq	minister in	charge of relation with parliament	PERSON	DATE
+1.0	crisis	have	gravity	O	O
+1.0	quartet	have	meeting	O	O
+1.0	current crisis	be in	palestinian territory	DATE	0
+1.0	relation	be with	parliament	0	0
+1.0	Paris on the sidelines of an international conference on Lebanon	will host	conference on aid	LOCATION	0
+1.0	US	be	EU	LOCATION	ORGANIZATION
+1.0	conference	have	sidelines	O	O
+1.0	minister	be in	charge of relation with parliament	0	DATE
+1.0	Paris on the sidelines of an international conference on Lebanon	will host conference on	January 25	LOCATION	DATE
+1.0	Paris on the sidelines of an international conference on Lebanon	will host	international conference	LOCATION	0
+1.0	Paris on the sidelines of an international conference on Lebanon	will host	conference	LOCATION	0
+1.0	relations	have	charge	O	O
+1.0	Henri Cuq	tell	Senate	PERSON	ORGANIZATION
+1.0	month	have	end	DATE	DATE
+1.0	Paris on the sidelines of an international conference on Lebanon	will host	international conference on aid	LOCATION	0
+1.0	Paris on the sidelines of an international conference on Lebanon	will host conference to	Lebanon	LOCATION	LOCATION

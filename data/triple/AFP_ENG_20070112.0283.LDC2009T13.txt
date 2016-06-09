@@ -1,0 +1,73 @@
+1.0	abbreviated name	recount in	book	0	0
+1.0	its worst crisis	be in	recent history	0	0
+1.0	highest instance	convene emergency meeting at_time	Friday	0	DATE
+1.0	book	be	publish	0	0
+1.0	sb	keep on	he	0	0
+1.0	episcopate	have	council	O	O
+1.0	Fifty-year-old Zaleski	be	fifty-year-old	PERSON	0
+1.0	February	have	end	DATE	DATE
+1.0	instance	try	find way out of crisis	0	0
+1.0	38.5 million	have	population	O	NUMBER
+1.0	Solidarity trade union branch	be in	Nowa Huta	ORGANIZATION	LOCATION
+1.0	instance	try	find	0	0
+1.0	highest instance	try	find of crisis	0	0
+1.0	population	have	percent	PERCENT	O
+1.0	book	be	finally publish	0	0
+1.0	clergy	have	some	O	O
+1.0	city	have	class suburb	O	O
+1.0	he	be	when chaplain in 1980 for Solidarity trade union branch	0	ORGANIZATION
+1.0	instance	convene	emergency meeting	0	0
+1.0	instance	try	find of crisis	0	0
+1.0	Stanislaw Wielgus	resign of	Warsaw	PERSON	LOCATION
+1.0	Znak publishing house	say at_time	Friday	0	DATE
+1.0	he	be chaplain in	1980 for Solidarity trade union branch	0	ORGANIZATION
+1.0	highest instance	try	find	0	0
+1.0	Bezpieka	be	happy	0	0
+1.0	cleric	collaborate with	communist force	0	0
+1.0	Krakow Cathedral	have	canon	O	ORGANIZATION
+1.0	he	collaborate with	police	0	0
+1.0	his	have	activities	O	O
+1.0	abbreviated name	recount in	book entitle	0	0
+1.0	Janusz Bielanski	also quit over	accusation	PERSON	0
+1.0	catholic cleric	collaborate with	communist force	0	0
+1.0	highest instance	convene	emergency meeting	0	0
+1.0	Sluzba Bezpieczenstwa	have	name	O	PERSON
+1.0	abbreviated name	recount in	book entitle in polish	0	0
+1.0	he	be chaplain in	1980 for Solidarity trade union branch in Nowa Huta	0	LOCATION
+1.0	he	be	when chaplain in 1980 for Solidarity trade union branch in Nowa Huta	0	LOCATION
+1.0	Nowa Huta	suburb of	southern city	LOCATION	DATE
+1.0	its	have	crisis	O	O
+1.0	Warsaw	have	resigned	O	LOCATION
+1.0	he	have	access	0	0
+1.0	he	have	access to file	0	0
+1.0	he	be	when chaplain in 1980	0	0
+1.0	Stanislaw Wielgus	resign at_time	Sunday	PERSON	DATE
+1.0	highest instance	be in	polish catholic church	0	0
+1.0	chaplain	be in	the 1980	0	DATE
+0.4971488989272423	he	access to	file	0	0
+1.0	name	recount in	book entitle	0	0
+1.0	Janusz Bielanski	quit over	accusation	PERSON	0
+1.0	crisis	have	find	O	O
+1.0	he	work with	reviled force	0	0
+1.0	he	be chaplain in	1980	0	0
+1.0	Stanislaw Wielgus	resign as	archbishop	PERSON	0
+1.0	he	collaborate with	communist police	0	0
+1.0	fifty-year-old Zaleski	write	book	PERSON	0
+1.0	he	work with	force	0	0
+1.0	he	be	when chaplain	0	0
+1.0	highest instance	try	find way out of crisis	0	0
+1.0	he	be	chaplain	0	0
+1.0	its	have	clergy	O	O
+1.0	Fifty-year-old Zaleski	write	book	PERSON	0
+1.0	Church	be in	Poland	0	LOCATION
+1.0	polish catholic church	in instance be	permanent council of episcopate	0	0
+1.0	Zaleski	say at_time	Friday	PERSON	DATE
+1.0	Janusz Bielanski	canon of	Krakow Cathedral	PERSON	ORGANIZATION
+1.0	instance	convene emergency meeting at_time	Friday	0	DATE
+1.0	name	recount in	book	0	0
+1.0	highest instance	council of	episcopate	0	0
+1.0	some	have	past	DATE	O
+1.0	name	recount in	book entitle in polish	0	0
+1.0	his	have	quest	O	O
+1.0	Bezpieka	be	very happy	0	0
+1.0	Krakow	have	city	O	LOCATION

@@ -1,0 +1,104 @@
+1.0	military	also announce	death of three US soldier	0	NUMBER
+1.0	unrest	unveil	long-awaited plan	0	0
+1.0	military	announce	recent death of three more US soldier	0	NUMBER
+1.0	gunman	separately raid	clinic	0	0
+1.0	Abdullah 's vehicle	have come under	car bomb attack in restive city of Mosul	PERSON	LOCATION
+1.0	gunman	separately raid clinic in	neighbourhood of Qahira	0	LOCATION
+1.0	Diyala	have	province	O	LOCATION
+1.0	US soldiers	have	deaths	O	O
+1.0	men	have	bodies	O	O
+1.0	unrest	unveil	long-awaited new plan	0	0
+1.0	Abdullah 's vehicle	have come under	car bomb attack in city of Mosul	PERSON	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district	0	0
+1.0	military	also announce	recent death of three US soldier	0	NUMBER
+1.0	result	northeast of	Baghdad	0	LOCATION
+1.0	unrest	come with	US President George W. Bush	0	PERSON
+1.0	strategy shift	have	unveiling	O	O
+1.0	gunman	open	fire inside central bus terminal	0	0
+1.0	the city council	have	meeting	O	O
+0.7842015714225353	water pipeline	supply	slum district	0	0
+1.0	US military	say in	version	LOCATION	0
+1.0	Baghdad	have	south	O	LOCATION
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in restive city	PERSON	0
+1.0	Tal Afar	councillor 's	northern town	LOCATION	0
+0.633593924617174	water pipeline	say on	condition of anonymity	0	0
+1.0	Sadr City	have	slum district	O	LOCATION
+1.0	bombing	ravage	shooting	0	0
+1.0	military	announce	death of three more US soldier	0	NUMBER
+1.0	sectarian-torn Iraq	have	city	O	LOCATION
+1.0	nine men aged between 20 and 30	have	eyes	O	O
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in city of Mosul	PERSON	LOCATION
+1.0	gunman	open	fire terminal	0	0
+1.0	unrest	unveil	plan	0	0
+1.0	gunman	raid	clinic	0	0
+1.0	civilian	be	wound	0	0
+1.0	latest unrest	come with	US President George W. Bush	0	PERSON
+1.0	which	have	one	NUMBER	O
+1.0	people	be	kill	0	0
+1.0	Mosul	have	city	O	LOCATION
+1.0	gunman	raid clinic in	neighbourhood	0	0
+1.0	civilian	be wound in	Baghdad	0	LOCATION
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack	PERSON	0
+1.0	military	also announce	death of three more US soldier	0	NUMBER
+1.0	water pipeline	say security source on	condition of anonymity	0	0
+1.0	Baghdad	have	northeast	O	LOCATION
+1.0	gunman	separately raid	private clinic	0	0
+1.0	latest unrest	unveil	new plan	0	0
+1.0	gunman	open	fire randomly inside bus terminal	0	0
+1.0	gunman	raid	private clinic	0	0
+1.0	gunman	raid clinic in	neighbourhood of Qahira	0	LOCATION
+1.0	northern town	have	councillor	0	0
+1.0	chaos	have	brink	O	O
+1.0	four people	be	kill	0	0
+1.0	Brigadier General Najem Abdullah	have	driver	O	O
+0.7842015714225353	water pipeline	supply	shiite slum district of Sadr City	0	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	latest unrest	unveil	long-awaited plan	0	0
+1.0	Baghdad	have	South	O	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	car bomb attack	be in	restive city of Mosul	0	LOCATION
+1.0	four civilian	be	wound	NUMBER	0
+1.0	gunman	open	fire inside bus terminal	0	0
+1.0	bombing	ravage	body	0	0
+1.0	four civilian	be wound in	Baghdad	NUMBER	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district of Sadr City	0	LOCATION
+1.0	water pipeline	say	security source	0	0
+1.0	result	two in	western province of Al-Anbar	0	LOCATION
+1.0	Abdullah 's vehicle	have come under	car bomb attack	PERSON	0
+1.0	US military	say in	separate version	LOCATION	0
+1.0	gas station	be in	Mahmudiyah	0	LOCATION
+1.0	crowded market	be in	Al-Khadra neighbourhood of Tal Afar	0	LOCATION
+1.0	nine men aged between 20 and 30	have	hands	O	O
+1.0	gunman	separately raid clinic in	neighbourhood	0	0
+1.0	latest unrest	unveil	long-awaited new plan	0	0
+1.0	George W. Bush	be from	US	PERSON	LOCATION
+1.0	Abdullah 's vehicle	have come under	car bomb attack in city	PERSON	0
+1.0	military	also announce	recent death of three more US soldier	0	NUMBER
+0.7842015714225353	water pipeline	supply	impoverished slum district	0	0
+1.0	gunman	open	fire randomly inside central bus terminal	0	0
+1.0	Qahira	have	neighbourhood	O	LOCATION
+1.0	unrest	unveil	new plan	0	0
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in city	PERSON	0
+1.0	military	announce	recent death of three US soldier	0	NUMBER
+1.0	bombing	ravage	dump body	0	0
+1.0	Abdullah	have	vehicle	O	PERSON
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in restive city of Mosul	PERSON	LOCATION
+1.0	Mosul	city of	sectarian-torn Iraq	LOCATION	LOCATION
+1.0	water pipeline	say security source on	condition	0	0
+1.0	latest unrest	unveil	plan	0	0
+1.0	bombing	ravage	assassination attempt	0	0
+1.0	US President George W. Bush	be	expect	0	0
+0.7842015714225353	water pipeline	supply	shiite slum district	0	0
+1.0	Al-Anbar	have	province	O	LOCATION
+1.0	unveiling	have	Wednesday	DATE	O
+1.0	Abdullah	have	vehicle	PERSON	0
+1.0	US President George W. Bush	be	in which expect	0	0
+0.7842015714225353	water pipeline	supply	impoverished slum district of Sadr City	0	LOCATION
+1.0	constant curse	be in	sectarian-torn Iraq	0	LOCATION
+1.0	town	have	councillor	O	O
+0.633593924617174	water pipeline	say on	condition	0	0
+0.7842015714225353	water pipeline	supply	slum district of Sadr City	0	LOCATION
+1.0	gunman	open	fire randomly terminal	0	0
+1.0	Abdullah 's vehicle	have come under	car bomb attack in restive city	PERSON	0
+1.0	Tal Afar	have	Al-Khadra neighbourhood	O	LOCATION
+1.0	military	announce	death of three US soldier	0	NUMBER

@@ -1,0 +1,34 @@
+1.0	causes	have	died	O	O
+1.0	Myanmar	in	prison	DURATION	0
+1.0	prisoners	have	famous	O	O
+1.0	death	be in	prison	0	0
+1.0	Myanmar	have	prisons	O	LOCATION
+1.0	Amnesty International	report in	October	ORGANIZATION	DATE
+1.0	Nobel peace laureate Aung San Suu Kyi	be	famous	PERSON	0
+1.0	Aung San Suu Kyi	be	Nobel	PERSON	MISC
+1.0	prisoners	have	any	O	O
+1.0	Mandalay	have	city	O	LOCATION
+1.0	Red Cross	visit	they	ORGANIZATION	0
+1.0	nation	have	Independence Day	DURATION	O
+1.0	Myanmar	have	government	O	LOCATION
+1.0	condition	be in	Myanmar 's prison	0	DURATION
+1.0	Her	have	National League	O	O
+1.0	Nobel peace laureate Aung San Suu Kyi	be most famous of	nation 's prisoner	PERSON	0
+1.0	junta	allow	Red Cross	DURATION	ORGANIZATION
+1.0	nation	have	day	0	0
+1.0	years	have	10	NUMBER	DURATION
+1.0	she National League	win	1990 election	0	DATE
+1.0	Nobel peace laureate Aung San Suu Kyi	be	most famous	PERSON	0
+1.0	Myanmar	be since	1962	LOCATION	DATE
+1.0	state media	say at_time	Wednesday	0	DATE
+1.0	condition	be in	Myanmar prison	0	LOCATION
+1.0	Myanmar	have	military government	LOCATION	0
+1.0	Myanmar 's	have	New Light	O	LOCATION
+1.0	nation	of	1,100 political prisoner	0	NUMBER
+1.0	Nobel peace laureate Aung San Suu Kyi	be famous of	nation 's prisoner	PERSON	0
+1.0	condition	be	notoriously grim	0	0
+0.14059619431790493	junta	have refuse	allow	DURATION	DURATION
+1.0	condition	be	grim	0	0
+1.0	nation	of	prisoner	0	0
+1.0	nation	have	prisoners	O	O
+1.0	Thursday	have	holiday	O	DATE

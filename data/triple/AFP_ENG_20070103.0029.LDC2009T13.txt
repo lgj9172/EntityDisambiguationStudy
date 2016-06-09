@@ -1,0 +1,58 @@
+1.0	the China Postal Savings Bank	offer	financial service	ORGANIZATION	0
+1.0	lender	be	Industrial Bank	0	ORGANIZATION
+1.0	industry expert	see move by	government	0	0
+1.0	four lender	be	Industrial Bank	NUMBER	ORGANIZATION
+1.0	nation	have	lender	O	O
+1.0	lender	be	in China Industrial Bank	0	ORGANIZATION
+1.0	the China Construction Bank , the Bank of China	bank of	Commercial Bank of China	ORGANIZATION	ORGANIZATION
+1.0	newspaper	quote	statement	0	0
+1.0	industry expert	see	move	0	0
+1.0	China	have	Agricultural Bank	ORGANIZATION	ORGANIZATION
+1.0	nation	have	savings system	O	O
+1.0	fifth lender	be in	China	ORDINAL	LOCATION
+1.0	the China Postal Savings Bank	offer	service	ORGANIZATION	0
+1.0	2005	have	end	DATE	DATE
+1.0	lender	be	Industrial Bank of China	0	ORGANIZATION
+1.0	Post office	be in	China	0	LOCATION
+1.0	savings outlets	have	most	O	O
+1.0	the China Postal Savings Bank	develop	business	ORGANIZATION	0
+1.0	biggest four lender	be	in China Industrial Bank	NUMBER	ORGANIZATION
+1.0	biggest four lender	be	Industrial Bank	NUMBER	ORGANIZATION
+1.0	biggest lender	be	Industrial Bank of China	0	ORGANIZATION
+1.0	China	have	Industrial Commercial Bank	ORGANIZATION	ORGANIZATION
+1.0	Commercial Bank of China	be in	China	ORGANIZATION	ORGANIZATION
+1.0	biggest four lender	be	Industrial Bank of China	NUMBER	ORGANIZATION
+1.0	State Post Bureau	have	formed	O	ORGANIZATION
+1.0	newspaper	quote	statement of commission	0	0
+1.0	lender	be	in China Industrial Bank of China	0	ORGANIZATION
+1.0	industry expert	see	move as attempt	0	0
+1.0	biggest lender	be	in China Industrial Bank	0	ORGANIZATION
+1.0	China	have	household savings	O	LOCATION
+1.0	biggest lender	be	Industrial Bank	0	ORGANIZATION
+1.0	household savings	have	percent	PERCENT	O
+1.0	the China Postal Savings Bank	develop	retail business	ORGANIZATION	0
+1.0	People	have	Daily	ORGANIZATION	ORGANIZATION
+1.0	China Banking Regulatory Commission	have	vice chairman	O	ORGANIZATION
+1.0	China	of	household savings	LOCATION	0
+1.0	four lender	be	in China Industrial Bank	NUMBER	ORGANIZATION
+1.0	post savings	have	deposit balance	O	O
+1.0	nation	have	fifth lender	0	ORDINAL
+1.0	company	cite	commission	0	0
+0.9462803577788523	most	be in	area	0	0
+1.0	commission	have	statement	O	O
+0.9462803577788523	most	be in	rural area	0	0
+1.0	Cai Ersheng	chairman of	China Banking Regulatory Commission	PERSON	ORGANIZATION
+1.0	biggest four lender	be	in China Industrial Bank of China	NUMBER	ORGANIZATION
+1.0	the China Postal Savings Bank	offer	basic financial service	ORGANIZATION	0
+1.0	billion-dollar company	cite	commission	0	0
+1.0	the China Postal Savings Bank	offer	basic service	ORGANIZATION	0
+1.0	biggest lender	be	in China Industrial Bank of China	0	ORGANIZATION
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Daily	have	version	O	ORGANIZATION
+1.0	the China Postal Savings Bank	offer service for	resident	ORGANIZATION	0
+1.0	four lender	be	Industrial Bank of China	NUMBER	ORGANIZATION
+1.0	residents	have	thirds	O	O
+1.0	nation	have	huge postal savings system	0	0
+1.0	state media	say at_time	Wednesday	0	DATE
+1.0	four lender	be	in China Industrial Bank of China	NUMBER	ORGANIZATION
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION

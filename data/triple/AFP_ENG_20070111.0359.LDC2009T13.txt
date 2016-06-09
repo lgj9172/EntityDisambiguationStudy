@@ -1,0 +1,18 @@
+1.0	US Secretary	announce appointment of	Timothy Carney	LOCATION	PERSON
+1.0	US push	aid	economic stability	LOCATION	0
+1.0	US push	aid stability in	Iraq	LOCATION	LOCATION
+1.0	US Secretary	announce appointment at_time	Thursday	LOCATION	DATE
+1.0	Timothy Carney	ambassador to	Haiti	PERSON	LOCATION
+1.0	US Secretary	head	new US push	LOCATION	LOCATION
+1.0	George W. Bush	under	just announce new plan	PERSON	0
+1.0	US push	aid	stability	LOCATION	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	new US push	aid	stability	LOCATION	0
+1.0	new US push	aid stability in	Iraq	LOCATION	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	diplomat	have	announced	O	O
+1.0	US Secretary	head	US push	LOCATION	LOCATION
+1.0	US Secretary	announce	appointment	LOCATION	0
+1.0	US Secretary	announce appointment of	diplomat	LOCATION	0
+1.0	new US push	aid	economic stability	LOCATION	0

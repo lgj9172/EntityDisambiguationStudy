@@ -1,0 +1,24 @@
+1.0	group	also offer	its sincere condolence	0	0
+1.0	life	have	loss	O	O
+1.0	ecuadoran man	be in	ETA 's weekend bombing	0	DATE
+1.0	Thursday	on batasuna be	ban political wing of armed basque separatist group ETA	DATE	ORGANIZATION
+1.0	Ecuadoran	have	car	O	O
+1.0	group	offer	its condolence	0	0
+1.0	group	offer	its sincere condolence	0	0
+0.7362267234906241	spanish judiciary	ban in	2003	DURATION	DATE
+1.0	search	continue for	second Ecuadoran	DURATION	DURATION
+1.0	man	have	family	O	O
+1.0	Batasuna	be on	Thursday	PERSON	DATE
+0.633593924617174	spanish judiciary	say in	statement	DURATION	DURATION
+1.0	group	also offer	its condolence	0	0
+1.0	separatist group ETA	have	wing	O	ORGANIZATION
+1.0	man	have	regretted	O	O
+1.0	Carlos Palate	be	35-year-old	PERSON	DURATION
+1.0	the group	have	condolences	O	O
+1.0	ETA	in	weekend bombing	ORGANIZATION	DATE
+1.0	Batasuna	wing of	ETA	PERSON	ORGANIZATION
+0.7362267234906241	judiciary	ban in	2003	DURATION	DATE
+0.633593924617174	judiciary	say in	statement	DURATION	DURATION
+1.0	ETA	have	weekend bombing	O	ORGANIZATION
+1.0	ETA	be of	basque	ORGANIZATION	0
+1.0	search	continue for	Ecuadoran	DURATION	DURATION

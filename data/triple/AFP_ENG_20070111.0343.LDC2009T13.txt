@@ -1,0 +1,66 @@
+1.0	complicated situation	lead	we	0	0
+1.0	situation	be	catastrophic	0	0
+1.0	their	have	territory	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	probability	be	stronger	0	0
+1.0	probability	be stronger than	its chance of success	0	0
+1.0	George W. Bush 's	tell us public in	speech late	PERSON	0
+1.0	situation	have	complexity	O	O
+1.0	political solution	be	only way	0	0
+1.0	W. Bush 's decision	more throw	oil	PERSON	0
+1.0	complicated situation	be in	Iraq	0	LOCATION
+1.0	Bush	have	strategy	O	PERSON
+1.0	our	have	forces	O	O
+1.0	we	will disrupt attack on	we force	0	0
+1.0	George W. Bush 's	tell us public in	speech	PERSON	0
+1.0	Bush strategy	have	probability	O	O
+1.0	Iraq	have	people	O	LOCATION
+1.0	Tishrin	write in	editorial	ORGANIZATION	0
+1.0	probability	be stronger than	its chance	0	0
+1.0	Shara	say in	remark	PERSON	0
+1.0	George W. Bush 's	accuse	Iran	0	LOCATION
+1.0	probability	be far stronger than	its chance of success	0	0
+1.0	the probability of the new Bush strategy failing	have	chance	O	O
+1.0	US president	also promise in	he speech	LOCATION	0
+1.0	Bush	have	security plan	O	PERSON
+1.0	US president	promise in	he speech	LOCATION	0
+1.0	George W. Bush	have	decision send to Iraq	PERSON	LOCATION
+1.0	terrorist	use	they territory	0	0
+1.0	we	will disrupt	attack	0	0
+1.0	George W. Bush	be on	Thursday	PERSON	DATE
+1.0	George W. Bush 's	charge	Tehran	0	LOCATION
+1.0	W. Bush 's decision	throw	oil	PERSON	0
+1.0	W. Bush 's decision	more throw oil onto	fire	PERSON	0
+1.0	George W. Bush 's	tell us public in	prime-time speech late on Wednesday	PERSON	DATE
+1.0	solution	be	way	0	0
+1.0	Shara	say in	publish remark	PERSON	0
+1.0	solution	be	only way	0	0
+1.0	George W. Bush 's	tell	US public	PERSON	LOCATION
+1.0	W. Bush	have	decision	O	PERSON
+1.0	Bush	have	new security plan	PERSON	0
+1.0	probability	be far stronger than	its chance	0	0
+1.0	human catastrophe	be in	Iraq	0	LOCATION
+1.0	George W. Bush 's	tell us public in	prime-time speech	PERSON	0
+1.0	crisis	have	way	O	O
+1.0	situation	lead	we	0	0
+1.0	Iraq	have	economy	O	LOCATION
+1.0	George W. Bush 's	tell us public in	speech late on Wednesday	PERSON	DATE
+1.0	strategic blunder	be in	Iraq	0	LOCATION
+1.0	support	have	flow	O	O
+1.0	our	have	enemies	O	O
+1.0	political solution	be	way	0	0
+0.7164337178174441	we	situation in	Iraq	0	LOCATION
+1.0	his	have	speech	O	O
+1.0	Faruq al-Shara	be	syrian	PERSON	0
+1.0	forces	have	number	O	O
+0.7164337178174441	we	complicated situation in	Iraq	0	LOCATION
+1.0	W. Bush 's decision	throw oil onto	fire	PERSON	0
+1.0	George W. Bush 's	tell us public in	prime-time speech late	PERSON	0
+1.0	success	have	chance	O	O
+1.0	probability	be	far stronger	0	0
+1.0	US president	take	step	LOCATION	0
+1.0	W. Bush 's decision	amount to	nothing	PERSON	0
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	George W. Bush	be on	US	PERSON	LOCATION
+1.0	US president	take	aggressive step	LOCATION	0
+0.23154884713092094	George W. Bush 's	accuse	Iran allow	0	LOCATION

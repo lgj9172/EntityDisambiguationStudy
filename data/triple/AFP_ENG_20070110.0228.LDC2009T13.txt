@@ -1,0 +1,56 @@
+1.0	Ecuador 's President-elect Rafael Correa	cancel	plan visit	PERSON	0
+1.0	coca	plant near	he country 's border	0	0
+1.0	country	near	border	0	0
+1.0	Bogota	of	neighbour	LOCATION	0
+1.0	Ecuador 's President-elect Rafael Correa	cancel	visit	PERSON	0
+1.0	Lisbon	be on	Luis Amado	LOCATION	PERSON
+1.0	area	have	expansion	O	O
+1.0	environmentalists	have	goals	O	O
+1.0	coca fields	have	fumigation	O	O
+1.0	expansion	have	effects	O	O
+1.0	Foreign Minister Maria Consuelo Araujo	tell	newspaper Publico	PERSON	ORGANIZATION
+1.0	world	have	cocaine producer	O	O
+1.0	Consuelo Araujo	be in	Lisbon on Luis Amado	PERSON	PERSON
+1.0	whose	have	country	O	O
+1.0	Ecuador	have	Rafael Correa	LOCATION	PERSON
+1.0	Ecuador 's President-elect Rafael Correa	protest against	Colombia 's use	PERSON	LOCATION
+1.0	herbicide glyphosate	have	use	O	O
+1.0	Colombia	be	world 's cocaine producer	LOCATION	0
+1.0	her	have	counterpart	O	O
+1.0	nation	have	foreign minister	0	0
+1.0	neighbours	have	some	O	O
+1.0	whose country	also share	border	0	0
+1.0	Alvaro Uribe	be of	colombian	PERSON	0
+1.0	United States	have	critical	O	LOCATION
+1.0	Foreign Minister Maria Consuelo Araujo	tell	daily newspaper Publico	PERSON	ORGANIZATION
+1.0	Ecuador	have	President-elect Rafael Correa	PERSON	LOCATION
+1.0	Colombia	have	us-backed aerial fumigation of coca field	LOCATION	0
+1.0	whose country	share	border with Colombia	0	LOCATION
+1.0	Colombia	have	fumigation	O	LOCATION
+1.0	whose country	also share	border with Colombia	0	LOCATION
+1.0	coca	have	fields	O	O
+1.0	his	have	country	O	O
+1.0	Ecuador 's President-elect Rafael Correa	protest on	field	PERSON	0
+1.0	Ecuador 's President-elect Rafael Correa	protest against	Colombia 's use of herbicide glyphosate	PERSON	LOCATION
+1.0	Consuelo Araujo	be in	Lisbon	PERSON	LOCATION
+1.0	Colombia 's	have	use	O	LOCATION
+1.0	talk	be with	she portuguese counterpart	0	0
+1.0	border	have	side	O	O
+1.0	Ecuador 's President-elect Rafael Correa	cancel visit at_time	month	PERSON	DATE
+1.0	pesticides	have	effects	O	O
+1.0	world	have	top cocaine producer	0	0
+1.0	Colombia	be	world 's top cocaine producer	LOCATION	0
+1.0	Colombia 's	against	use of herbicide glyphosate	LOCATION	0
+1.0	Ecuador 's President-elect Rafael Correa	protest on	field of coca	PERSON	0
+1.0	chemicals	have	effects'	O	O
+1.0	Rafael Correa	be president-elect of	Ecuador	PERSON	LOCATION
+1.0	border	be with	Colombia	0	LOCATION
+1.0	Ecuador 's President-elect Rafael Correa	cancel visit at_time	last month	PERSON	DATE
+1.0	Ecuador 's President-elect Rafael Correa	cancel visit to	Bogota	PERSON	LOCATION
+1.0	country	have	border	O	O
+1.0	President Alvaro Uribe	have	ally	O	PERSON
+0.6476682313564562	whose country	border with	Colombia	0	LOCATION
+1.0	nation 's minister	say in	interview	0	0
+1.0	Bogota	have	neighbours	O	LOCATION
+1.0	nation	have	minister	O	O
+1.0	whose country	share	border	0	0

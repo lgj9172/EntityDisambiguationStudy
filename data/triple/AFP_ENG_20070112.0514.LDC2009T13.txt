@@ -1,0 +1,65 @@
+1.0	US official	press for	big role	LOCATION	0
+1.0	US institution	be frequently target include	include murder of CIA station chief	LOCATION	ORGANIZATION
+1.0	government	have	minister	0	0
+1.0	government	have	minister	O	O
+1.0	US institution	be frequently target include	include murder of CIA station chief in Athens	LOCATION	LOCATION
+1.0	Tony Snow	be spokesman of	White House	PERSON	ORGANIZATION
+1.0	United States	heap praise to	rocket attack on US embassy in Athens	LOCATION	LOCATION
+1.0	US official	press for	big international role	LOCATION	0
+1.0	Tony Snow	be	White House	PERSON	ORGANIZATION
+1.0	Friday	have	incident	DATE	0
+1.0	CIA station chief	have	murder	O	O
+1.0	US State Department spokesman	hail response from	Green government	ORGANIZATION	0
+1.0	early morning attack	be claim by	group	TIME	0
+1.0	US official	be	outspoken	LOCATION	0
+1.0	Friday 's incident	be	view	DATE	0
+1.0	US officials	have	concerns	O	O
+1.0	early morning attack	be with	rocket-propelled grenade	TIME	0
+1.0	Sean McCormack	be	US State Department	PERSON	ORGANIZATION
+0.06141471494456796	morning attack	be claim by	group call	TIME	0
+1.0	Greek authorities	have	response	O	O
+1.0	United States	heap praise on	authority	LOCATION	0
+1.0	forensic experts from the US Federal Bureau of Investigation	have	facility	O	O
+1.0	US State Department spokesman	hail	response	ORGANIZATION	0
+1.0	United States	heap praise for	they response	LOCATION	0
+1.0	United States	heap praise at_time	Friday	LOCATION	DATE
+0.06141471494456796	morning attack	be claim by	far-left group call	TIME	0
+0.06141471494456796	early morning attack	be claim by	group call	TIME	0
+1.0	morning attack	be claim by	far-left group	TIME	0
+1.0	United States	heap praise to	rocket attack on US embassy	LOCATION	LOCATION
+1.0	US institution	be target include	include murder of CIA station chief in Athens	LOCATION	LOCATION
+1.0	US institution	be frequently target include	include murder of CIA station chief in Athens in 1975	LOCATION	LOCATION
+1.0	attack	have	hours	DURATION	O
+1.0	Friday	have	incident	O	DATE
+1.0	links	have	unaware	O	O
+0.8644333882521965	one	fear of	resurgence of extremist violence	NUMBER	0
+1.0	resurgence	have	fears	O	O
+1.0	morning attack	be	claim	TIME	0
+1.0	Federal Bureau of Investigation	be from	US	ORGANIZATION	LOCATION
+1.0	Department spokesman Sean McCormack	have	deputy	O	O
+1.0	early morning attack	be	claim	TIME	0
+1.0	US institution	be target include	include murder of CIA station chief	LOCATION	ORGANIZATION
+1.0	US embassy	be in	Athens	LOCATION	LOCATION
+1.0	greek government	be in	addition	0	0
+1.0	Athens	be in	1975	LOCATION	DATE
+1.0	United States	heap	praise	LOCATION	0
+0.8644333882521965	one	fear of	resurgence	NUMBER	0
+1.0	US institution	be frequently target include	include murder	LOCATION	0
+1.0	US institution	be target include	include murder of CIA station chief in Athens in 1975	LOCATION	LOCATION
+1.0	Sean McCormack	be spokesman of	US State Department	PERSON	ORGANIZATION
+1.0	extremist violence	have	resurgence	O	O
+1.0	US State Department spokesman	condemn	attack	ORGANIZATION	0
+1.0	Dora Bakoyannis	be	greek	PERSON	0
+1.0	US institution	be target include	include murder	LOCATION	0
+1.0	US	be	isolate	0	0
+1.0	United States	heap praise on	greek authority	LOCATION	0
+1.0	United States	heap praise to	rocket attack	LOCATION	0
+1.0	serious	have	one	NUMBER	O
+1.0	security	have	have see	0	0
+1.0	US official	press for	international role	LOCATION	0
+0.06141471494456796	early morning attack	be claim by	far-left group call	TIME	0
+1.0	early morning attack	be claim by	far-left group	TIME	0
+1.0	morning attack	be claim by	group	TIME	0
+1.0	Investigation	have	US Federal Bureau	ORGANIZATION	ORGANIZATION
+1.0	US official	press for	role	LOCATION	0
+1.0	CIA station chief	be in	Athens	ORGANIZATION	LOCATION

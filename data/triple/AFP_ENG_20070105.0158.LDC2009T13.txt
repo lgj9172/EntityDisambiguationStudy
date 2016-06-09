@@ -1,0 +1,58 @@
+1.0	victims	have	names	O	O
+1.0	authority	be in	region of Abkhazia	0	LOCATION
+1.0	georgian President Mikheil Saakashvili	regain	control	PERSON	0
+1.0	President Mikheil Saakashvili	regain	control	PERSON	0
+0.022365932509734954	Abkhazia on Friday	declare after	1991 breakup of Soviet Union	LOCATION	LOCATION
+1.0	conflicts	have	one	NUMBER	O
+1.0	Abkhazia	have	region	O	LOCATION
+1.0	Gali regional police chief	be kill provocation in	shootout with criminal	LOCATION	0
+1.0	Gali police chief	be kill provocation in	shootout with georgian criminal	LOCATION	0
+0.022365932509734954	Abkhazia on Friday	declare after	shortly 1991 breakup of Soviet Union	LOCATION	LOCATION
+0.022365932509734954	Abkhazia on Friday	declare after	1991 breakup	LOCATION	DATE
+1.0	Zugdidi	have	city	O	LOCATION
+0.022365932509734954	Abkhazia on Friday	declare from	Tbilisi	LOCATION	LOCATION
+1.0	Abkhazia	be on	Friday	LOCATION	DATE
+1.0	Gali regional police chief	be kill	provocation	LOCATION	0
+1.0	Gali police chief	be kill provocation in	shootout with criminal	LOCATION	0
+1.0	Russia	have	state-run itar-tass news agency	LOCATION	0
+1.0	Abkhazia on Friday	have	region	O	LOCATION
+1.0	both	have receive	tacit backing	0	0
+1.0	both	have receive backing from	Russia 's	0	LOCATION
+1.0	Gali regional police chief	be kill provocation in	shootout	LOCATION	0
+1.0	Gali police chief	be kill provocation in	shootout	LOCATION	0
+1.0	President Mikheil Saakashvili	regain	control over Abkhazia	PERSON	LOCATION
+1.0	rustavi-2 television network	quote	local police	0	0
+0.022365932509734954	Abkhazia on Friday	declare after	shortly 1991 breakup	LOCATION	DATE
+1.0	Gali police chief	be kill	provocation	LOCATION	0
+1.0	georgian leader	have make	headway	0	0
+1.0	georgian leader	have make	little headway	0	0
+1.0	Mikheil Saakashvili	be	georgian	PERSON	0
+1.0	Gali police chief	be kill provocation outside	Russia 's state-run ITAR-TASS news agency	LOCATION	MISC
+1.0	Soviet Union	have	breakup	O	LOCATION
+1.0	leader	have make	headway	0	0
+1.0	Russia	have	ITAR-TASS news agency	O	LOCATION
+1.0	Gali police chief	call	report	LOCATION	0
+1.0	authority	be in	Abkhazia on Friday	0	MISC
+1.0	group	have	members	O	O
+1.0	Gali regional police chief	be kill	georgian provocation	LOCATION	0
+1.0	rustavi-2 television network	quote	police	0	0
+1.0	shootout	be with	georgian criminal	0	0
+1.0	Gali regional police chief	be kill provocation outside	Russia 's state-run ITAR-TASS news agency	LOCATION	MISC
+1.0	border	be with	separatist region of Abkhazia on Friday	0	DATE
+1.0	standoff	be one	two frozen conflict	0	NUMBER
+1.0	two frozen conflict	be in	ex-soviet republic	NUMBER	0
+1.0	Abkhazia on Friday	declare	its independence	LOCATION	0
+1.0	leader	have make	little headway	0	0
+1.0	Gali	have	town	O	LOCATION
+1.0	Gali regional police chief	call	report	LOCATION	0
+1.0	georgian President Mikheil Saakashvili	regain	control over Abkhazia	PERSON	LOCATION
+1.0	Gali regional police chief	be kill provocation in	shootout with georgian criminal	LOCATION	0
+1.0	firing	come from	Abkhaz side	0	MISC
+1.0	standoff	be one of	two conflict	0	NUMBER
+1.0	the Georgian leader	have in	have power	0	0
+1.0	western Georgia	have	government	O	LOCATION
+1.0	Abkhazia on Friday	have	independence	O	O
+1.0	standoff	be one	two conflict	0	NUMBER
+1.0	Gali police chief	be kill	georgian provocation	LOCATION	0
+1.0	both	have receive	backing	0	0
+1.0	standoff	be one of	two frozen conflict	0	NUMBER

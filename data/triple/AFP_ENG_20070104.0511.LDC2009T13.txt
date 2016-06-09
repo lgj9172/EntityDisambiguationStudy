@@ -1,0 +1,123 @@
+1.0	six-nation negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after hiatus	0	LOCATION
+1.0	North Korea	appear	have prepare	LOCATION	DURATION
+1.0	North Korea	prepare for	second weapon test	LOCATION	DURATION
+1.0	six-nation negotiation	be hold after	13-month hiatus due	0	DURATION
+1.0	negotiation	be hold in	Beijing	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing in December after hiatus	0	DATE
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	North Korea	conduct	its nuclear test	LOCATION	0
+1.0	North Korea	conduct	its test	LOCATION	0
+1.0	six-nation negotiation	be	hold in Beijing in December after hiatus due	0	DATE
+1.0	negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	North Korea	refuse	engage	LOCATION	0
+1.0	North Korea	agree	return to talk among United States	LOCATION	LOCATION
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	cables	have	the	O	O
+1.0	North Korea	appear	have prepare for nuclear weapon test	LOCATION	DURATION
+1.0	six-nation negotiation	be hold in	Beijing	0	LOCATION
+1.0	negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	North Korea	refuse	engage at talk	LOCATION	0
+1.0	Pyongyang	have	boycott	O	LOCATION
+1.0	North Korea	engage in	discussion	LOCATION	0
+1.0	six-nation negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	negotiation	be hold in	Beijing in December	0	DATE
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	six-nation negotiation	be hold after	hiatus due	0	0
+1.0	Pyongyang	have	test	O	O
+1.0	negotiation	be	hold in Beijing in December after hiatus	0	DATE
+1.0	banking issue	be	discuss	0	0
+1.0	negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	North Korea	prepare for	US television network ABC report Thursday	LOCATION	LOCATION
+1.0	negotiation	be	hold in Beijing in December after hiatus due	0	DATE
+1.0	six-nation negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	North Korea	prepare for	second nuclear weapon test	LOCATION	DURATION
+1.0	US defense official	be	quote	LOCATION	0
+1.0	North Korea	conduct	its first test	LOCATION	ORDINAL
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	agree	return	LOCATION	0
+1.0	six-nation negotiation	be hold in	Beijing in December	0	DATE
+1.0	negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	intelligence official	tell	US television network ABC reported Thursday	0	ORGANIZATION
+1.0	North Korea	return to	talk among United States	LOCATION	LOCATION
+1.0	senior intelligence official	tell	US television network ABC reported Thursday	0	ORGANIZATION
+1.0	negotiation	be hold after	hiatus due	0	0
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	refuse	engage in substantive discussion at talk	LOCATION	0
+1.0	senior US defense official	be	quote	LOCATION	0
+1.0	six-nation negotiation	be	hold in Beijing in December after 13-month hiatus	0	DATE
+1.0	North Korea	cite	US defense official	LOCATION	LOCATION
+1.0	p'onggye	be in	North Korea	0	LOCATION
+1.0	negotiation	be	hold in Beijing after hiatus due	0	LOCATION
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	North Korea	refuse	engage in discussion at talk	LOCATION	0
+1.0	six-nation negotiation	be hold after	hiatus	0	0
+1.0	North Korea	appear	have prepare for second nuclear weapon test	LOCATION	DURATION
+1.0	North Korea	prepare for	weapon test	LOCATION	DURATION
+1.0	ABC	be	the United States	ORGANIZATION	LOCATION
+1.0	negotiation	be hold after	13-month hiatus	0	DURATION
+1.0	negotiation	be	hold in Beijing in December after 13-month hiatus	0	DATE
+1.0	Beijing	be in	December	LOCATION	DATE
+1.0	six-nation negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	US defense official	say by	US television network ABC reported Thursday	LOCATION	ORGANIZATION
+1.0	senior US defense official	say by	US television network ABC reported Thursday	LOCATION	ORGANIZATION
+1.0	money laundering	have	allegations	O	O
+1.0	North Korea	engage at	talk	LOCATION	0
+1.0	North Korea	refuse	engage in substantive discussion	LOCATION	0
+1.0	North Korea	return to	talk	LOCATION	0
+1.0	negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	counterfeiting	have	allegations	O	O
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	North Korea	prepare for	US television network ABC	LOCATION	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus	0	DURATION
+1.0	North Korea	have	nuclear program	LOCATION	0
+1.0	six-nation negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	its	have	test	O	O
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	engage in	substantive discussion	LOCATION	0
+1.0	six-nation negotiation	be hold after	13-month hiatus	0	DURATION
+1.0	six-nation negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	negotiation	be	hold in Beijing after 13-month hiatus	0	DURATION
+1.0	six-nation negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus due	0	DURATION
+1.0	North Korea	conduct	its first nuclear test	LOCATION	ORDINAL
+1.0	negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing in December after 13-month hiatus due	0	DATE
+1.0	North Korea	conduct	test	LOCATION	0
+1.0	negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	negotiation	be hold after	13-month hiatus due	0	DURATION
+1.0	North Korea	refuse	engage in discussion	LOCATION	0
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be	hold in Beijing after hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	have	programs	O	LOCATION
+1.0	negotiation	be	hold	0	0
+1.0	North Korea	prepare for	US television network ABC report	LOCATION	LOCATION
+1.0	same area	p'onggye in	North Korea	0	LOCATION
+1.0	negotiation	be	hold in Beijing after hiatus	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	negotiation	be	hold in Beijing in December after 13-month hiatus due	0	DATE
+1.0	intelligence	be	inconclusive	0	0
+1.0	test	be in	Two	0	NUMBER
+1.0	six-nation negotiation	be	hold in Beijing after hiatus due	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	appear	have prepare for weapon test	LOCATION	DURATION
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	six-nation negotiation	be	hold	0	0
+0.8686409721530663	US television network ABC	report	Thursday	LOCATION	DATE
+1.0	US sanctions	have	lifting	O	O
+1.0	six-nation negotiation	be	hold in Beijing in December after 13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be hold after	hiatus	0	0
+1.0	North Korea	prepare for	nuclear weapon test	LOCATION	DURATION
+1.0	North Korea	appear	have prepare for second weapon test	LOCATION	DURATION
+1.0	negotiation	be	hold in Beijing in December after hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	negotiation	be	hold in Beijing after 13-month hiatus due	0	DURATION
+1.0	Pyongyang	to	boycott over US financial sanction	LOCATION	LOCATION
+1.0	North Korea	agree	return to talk	LOCATION	0
+1.0	ABC	be television network of	the United States	ORGANIZATION	LOCATION

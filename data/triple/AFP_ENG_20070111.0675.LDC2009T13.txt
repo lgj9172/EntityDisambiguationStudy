@@ -1,0 +1,197 @@
+1.0	change	be in	wording as signal	0	0
+0.8130737985732656	rate	bank of	Japan	0	LOCATION
+1.0	dollar	stand in	late New York trade	0	LOCATION
+1.0	rate	be increase at	bank 's February meeting	0	DATE
+1.0	Neil Mellor	cite	November 's sharp drop in Japan 's indicator	PERSON	DATE
+1.0	yen	elsewhere weaken significantly with	dollar	0	DURATION
+1.0	boe	say risk to	inflation	0	0
+1.0	majority	have see in	hike only February	0	DATE
+1.0	another	come in	year	DATE	DATE
+1.0	dollar	gain	ground	0	0
+1.0	Neil Mellor	cite	November 's worryingly sharp drop in Japan 's indicator	PERSON	DATE
+1.0	the Monetary Policy Committee	be	favor for hike before end	ORGANIZATION	DATE
+1.0	yen	elsewhere weaken with	dollar break above level for first time in over year	0	ORDINAL
+1.0	trader	borrow in	currency	0	0
+1.0	bank president Jean-Claude Trichet	replace	word	PERSON	0
+1.0	yen	weaken significantly with	dollar break	0	DURATION
+1.0	November	have	worryingly sharp drop in lead indicator	DATE	0
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level for time in over year	0	DURATION
+1.0	the Monetary Policy Committee	be favor for	hike	ORGANIZATION	0
+1.0	yen	weaken with	dollar break above 120-yen level in over year	0	DURATION
+1.0	yen	elsewhere weaken significantly with	dollar break in over year	0	DURATION
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level for first time	0	ORDINAL
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level for first time in over year	0	ORDINAL
+1.0	yen	weaken significantly with	dollar break above 120-yen level for time	0	DURATION
+1.0	AFP	have	partner	O	ORGANIZATION
+1.0	boe move	catch	currency market	0	0
+0.9129447633152606	AFX	partner of	AFP	ORGANIZATION	ORGANIZATION
+1.0	rate	be increase at	February meeting	0	DATE
+1.0	Fed	cut	rate	ORGANIZATION	DURATION
+1.0	Monetary Policy Committee	be	favor for second hike before end	ORGANIZATION	DURATION
+1.0	dollar	gain ground at_time	Thursday	0	DATE
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level for first time	0	ORDINAL
+1.0	pound	meanwhile catch analyst with	quarter-point hike in british interest rate	0	0
+1.0	boe	say	risk	0	0
+1.0	yen	weaken significantly with	dollar break above level in over year	0	DURATION
+1.0	its	have	November inflation report	O	O
+1.0	pound	meanwhile catch analyst by	surprise	0	0
+1.0	pound	catch analyst with	quarter-point hike	0	0
+1.0	the Monetary Policy Committee	be	favor for hike before end of quarter	ORGANIZATION	DATE
+1.0	yen	elsewhere weaken significantly with	dollar break above level for time	0	DURATION
+1.0	another	come perhaps later in	year	DATE	DATE
+1.0	yen	elsewhere weaken with	dollar break above level for time	0	DURATION
+1.0	Trichet	use in	public comment	PERSON	0
+0.633593924617174	boe	say to	inflation	0	0
+0.6772337936179286	pound	spike after	Bank	0	ORGANIZATION
+1.0	yen	weaken with	dollar break above level	0	DURATION
+1.0	Federal Reserve	have keep us rate on	hold	ORGANIZATION	0
+1.0	yen	weaken with	dollar break above level for first time	0	ORDINAL
+1.0	pound	meanwhile catch analyst with	quarter-point hike in interest rate	0	0
+1.0	pound	catch analyst with	quarter-point hike in british interest rate	0	0
+1.0	Monetary Policy Committee	be	favor for hike before end	ORGANIZATION	DATE
+1.0	dollar	stand in	New York trade	0	LOCATION
+1.0	yen	elsewhere weaken with	dollar break above level in over year	0	DURATION
+1.0	AFX	partner of	AFP	ORGANIZATION	ORGANIZATION
+1.0	yen	weaken significantly with	dollar break above level for time	0	DURATION
+1.0	yen	elsewhere weaken with	dollar break above level	0	DURATION
+1.0	yen	weaken across	board	0	DURATION
+1.0	yen	weaken significantly with	dollar break above 120-yen level for first time	0	ORDINAL
+1.0	Neil Mellor	cite	November 's worryingly sharp drop	PERSON	DATE
+1.0	euro	drop at_time	late Wednesday	0	DATE
+1.0	yen	weaken with	dollar break above 120-yen level for first time in over year	0	ORDINAL
+0.8806338167375951	boe	cite	datum	0	0
+1.0	dollar	stand after	1.2464	0	NUMBER
+1.0	Trichet	use	vigilant	PERSON	0
+0.670813497539887	it	last make in	its November inflation report	0	DATE
+1.0	Michael Saunders	be at	Citigroup	PERSON	ORGANIZATION
+1.0	yen	weaken with	dollar break above level for time in over year	0	DURATION
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	pound	rise from	1.9319 earlier	0	NUMBER
+1.0	pound	catch	analyst	0	0
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level in over year	0	DURATION
+1.0	yen	elsewhere weaken significantly with	dollar break above level for first time in over year	0	ORDINAL
+1.0	Monetary Policy Committee	be	favor	ORGANIZATION	DURATION
+1.0	pound	catch analyst with	quarter-point hike in interest rate	0	0
+1.0	yen	weaken with	dollar break above 120-yen level for time	0	DURATION
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level in over year	0	DURATION
+1.0	yen	elsewhere weaken with	dollar break above level for first time	0	ORDINAL
+1.0	Monetary Policy Committee	be favor before	end of quarter	ORGANIZATION	DATE
+1.0	Neil Mellor	cite	November 's sharp drop	PERSON	DATE
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level	0	DURATION
+1.0	New York	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	sterling	rally from	Bank of England	0	ORGANIZATION
+1.0	yen	elsewhere weaken with	dollar break in over year	0	DURATION
+1.0	yen	weaken with	dollar break above level for first time in over year	0	ORDINAL
+1.0	the Monetary Policy Committee	be favor for	second hike	ORGANIZATION	DURATION
+1.0	euro	drop in	New York depress by comment	0	LOCATION
+1.0	Neil Mellor	cite	November 's drop	PERSON	DATE
+1.0	Neil Mellor	cite	November 's sharp drop in Japan 's lead indicator	PERSON	DATE
+1.0	bank president Jean-Claude Trichet	replace	word vigilant	PERSON	0
+1.0	market	expect	Fed	DURATION	ORGANIZATION
+1.0	recent increase	be in	eurozone rate	0	0
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level	0	DURATION
+1.0	trade	have	buy side	O	O
+1.0	bank president Jean-Claude Trichet	address	news conference	PERSON	0
+1.0	Trichet	use in	comment	PERSON	0
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level for first time in over year	0	ORDINAL
+1.0	their	have	level	O	O
+1.0	another	come later in	year	DATE	DATE
+1.0	it	remain compare with	forecast	0	0
+1.0	dollar	gain ground against	euro	0	0
+1.0	majority	have see in	February	0	DATE
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Neil Mellor	be at	Bank of New York	PERSON	ORGANIZATION
+1.0	yen	weaken significantly with	dollar	0	DURATION
+1.0	the Monetary Policy Committee	be	favor for second hike before end of quarter	ORGANIZATION	DATE
+1.0	yen	weaken with	dollar break above 120-yen level for time in over year	0	DURATION
+1.0	yen	weaken with	dollar break above 120-yen level	0	DURATION
+0.670813497539887	it	make in	its November inflation report	0	DATE
+1.0	yen	elsewhere weaken significantly across	board	0	DURATION
+1.0	hikes	have	campaign	O	O
+1.0	yen	elsewhere weaken with	dollar break	0	DURATION
+1.0	Neil Mellor	cite	November 's drop in Japan 's lead indicator	PERSON	DATE
+1.0	interest rate	be	where low	0	0
+1.0	euro	drop to	1.2892 dollar	0	MONEY
+1.0	yen	weaken significantly with	dollar break above 120-yen level in over year	0	DURATION
+1.0	Neil Mellor	cite	November 's drop in Japan 's indicator	PERSON	DATE
+1.0	pound	meanwhile catch analyst with	quarter-point hike	0	0
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level for time	0	DURATION
+1.0	majority	have see in	only February	0	DATE
+1.0	economic weakness	be in	Japan	0	ORGANIZATION
+1.0	its	have	part	O	O
+0.8806338167375951	boe	cite	economic datum	0	0
+1.0	yen	elsewhere weaken significantly with	dollar break above 120-yen level for time	0	DURATION
+1.0	yen	weaken with	dollar break	0	DURATION
+1.0	yen	elsewhere weaken across	board	0	DURATION
+1.0	dollar	stand at_time	Wednesday	0	DATE
+1.0	sterling	rally on	surprise rate increase	0	0
+0.8806338167375951	boe	cite	strong datum	0	0
+1.0	the Monetary Policy Committee	be favor before	end	ORGANIZATION	DATE
+1.0	the Monetary Policy Committee	be favor before	end of quarter	ORGANIZATION	DATE
+1.0	yen	elsewhere weaken with	dollar break above 120-yen level for time in over year	0	DURATION
+1.0	Federal Reserve	have keep	US rate	ORGANIZATION	LOCATION
+1.0	euro	drop in	New York depress	0	LOCATION
+1.0	Monetary Policy Committee	be favor before	end	ORGANIZATION	DATE
+1.0	euro	drop in	New York	0	LOCATION
+1.0	yen	weaken with	dollar break above level in over year	0	DURATION
+1.0	dollar	stand at	1.2492 swiss franc	0	MONEY
+1.0	sterling	rally from	Bank	0	ORGANIZATION
+1.0	yen	elsewhere weaken significantly with	dollar break above level	0	DURATION
+1.0	dollar	stand at	1.2492 franc	0	MONEY
+1.0	yen	elsewhere weaken significantly with	dollar break	0	DURATION
+0.8806338167375951	boe	cite	strong economic datum	0	0
+0.8806338167375951	boe	cite datum over	past month	0	DATE
+1.0	the Monetary Policy Committee	be	favor	ORGANIZATION	DURATION
+1.0	interest rate	invest in	currency	0	0
+1.0	pound	catch analyst by	surprise	0	0
+0.6772337936179286	pound	spike after	Bank England	0	ORGANIZATION
+1.0	interest rate	invest in	higher-yielding currency	0	0
+1.0	yen	elsewhere weaken with	dollar break above level for time in over year	0	DURATION
+1.0	yen	elsewhere weaken significantly with	dollar break above level for first time	0	ORDINAL
+1.0	pound	rise from	1.9319 day earlier	0	NUMBER
+1.0	Neil Mellor	cite	November 's worryingly sharp drop in Japan 's lead indicator	PERSON	DATE
+1.0	November 's sharp drop	be in	Japan 's lead indicator	DATE	LOCATION
+1.0	yen	weaken significantly with	dollar break in over year	0	DURATION
+1.0	which	have	had	O	O
+1.0	Fed	eventually cut	rate	ORGANIZATION	DURATION
+1.0	euro	drop at_time	Wednesday	0	DATE
+1.0	Monetary Policy Committee	be favor for	second hike	ORGANIZATION	DURATION
+1.0	yen	weaken with	dollar	0	DURATION
+1.0	policy tightening measures	have	suitability	O	O
+1.0	euro	drop at	2200 GMT from 1.2935	0	MISC
+1.0	pound	rise to	1.9442 dollar	0	MONEY
+1.0	boe	have	advance knowledge	0	0
+1.0	interest rate	be	low	0	0
+1.0	yen	elsewhere weaken significantly with	dollar break above level in over year	0	DURATION
+1.0	yen	weaken significantly with	dollar break above 120-yen level for time in over year	0	DURATION
+1.0	yen	weaken significantly across	board	0	DURATION
+1.0	bank	have	February meeting	O	O
+1.0	yen	elsewhere weaken with	dollar	0	DURATION
+1.0	euro	drop at	2200 GMT	0	MISC
+1.0	yen	weaken significantly with	dollar break above 120-yen level for first time in over year	0	ORDINAL
+1.0	yen	weaken with	dollar break above level for time	0	DURATION
+1.0	quarter-point hike	be in	british interest rate	0	0
+1.0	yen	weaken significantly with	dollar break above level	0	DURATION
+1.0	quarter	have	end	DATE	DATE
+1.0	November	have	drop	O	DATE
+1.0	pound	meanwhile catch	analyst	0	0
+1.0	ecb	hold	rate steady	0	0
+1.0	yen	weaken significantly with	dollar break above 120-yen level	0	DURATION
+1.0	yen	weaken significantly with	dollar break above level for first time	0	ORDINAL
+1.0	John Kicklighter	be at	Forex Capital Markets	PERSON	ORGANIZATION
+1.0	Monetary Policy Committee	be	favor for hike before end of quarter	ORGANIZATION	DATE
+1.0	ecb	decide	hold	0	0
+1.0	March hike	remain on	card	DATE	0
+1.0	Monetary Policy Committee	be favor for	hike	ORGANIZATION	0
+1.0	Monetary Policy Committee	be	favor for second hike before end of quarter	ORGANIZATION	DATE
+1.0	the Monetary Policy Committee	be	favor for second hike before end	ORGANIZATION	DURATION
+1.0	yen	weaken with	dollar break above 120-yen level for first time	0	ORDINAL
+1.0	hike	be in	August	0	DATE
+1.0	weakness	have	signs	O	O
+1.0	yen	elsewhere weaken significantly with	dollar break above level for time in over year	0	DURATION
+1.0	yen	weaken significantly with	dollar break above level for time in over year	0	DURATION
+1.0	Japan	in	lead indicator	LOCATION	0
+1.0	boe move	catch	currency market guard	0	0
+1.0	yen	weaken significantly with	dollar break above level for first time in over year	0	ORDINAL
+1.0	yen	weaken with	dollar break in over year	0	DURATION
+1.0	Japan	have	indicator	O	LOCATION

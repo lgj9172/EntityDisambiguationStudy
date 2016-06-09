@@ -1,0 +1,18 @@
+1.0	African Union	announce after	meeting here	ORGANIZATION	0
+1.0	group	issue	its warning	0	0
+1.0	peace process	be in	Ivory Coast	0	LOCATION
+1.0	West African States	have	Economic Community	ORGANIZATION	ORGANIZATION
+1.0	peace process	be at	total deadlock	0	0
+1.0	African Union	announce at_time	Friday	ORGANIZATION	DATE
+1.0	group	issue	its pessimistic warning	0	0
+1.0	situation	be in	troubled Ivory Coast	0	LOCATION
+0.5909034909249276	working group	chair by	United Nations	0	ORGANIZATION
+1.0	group	reassess	situation	0	0
+1.0	group	reassess	situation in Ivory Coast	0	LOCATION
+1.0	peace process	be at	deadlock	0	0
+1.0	process	be	total	0	0
+1.0	group	reassess	situation in Ivory Coast divide since 2002	0	DATE
+1.0	group	reassess	situation in Ivory Coast divide	0	LOCATION
+0.5909034909249276	international working group	chair by	United Nations	0	ORGANIZATION
+1.0	a `` total deadlock ''	have	warning	O	O
+1.0	African Union	announce after	meeting	ORGANIZATION	0

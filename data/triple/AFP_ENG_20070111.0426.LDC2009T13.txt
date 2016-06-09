@@ -1,0 +1,32 @@
+1.0	Gazprom Marketing	subsidiary	Trading	ORGANIZATION	ORGANIZATION
+1.0	Russian energy giant Gazprom	have	subsidiary	O	ORGANIZATION
+1.0	Marketing	be	fully-owned	ORGANIZATION	0
+1.0	Gazprom Marketing	be subsidiary of	Russian energy giant Gazprom	ORGANIZATION	ORGANIZATION
+1.0	Gazprom Marketing	fully-owned subsidiary	Trading	ORGANIZATION	ORGANIZATION
+1.0	company executive	say in	interview publish on Thursday	0	DATE
+1.0	Gazprom Marketing	be	fully-owned subsidiary	ORGANIZATION	0
+1.0	russian state-owned Gazprom	look for	shareholding role	ORGANIZATION	0
+1.0	Vitaly Vasilyev	ceo of	Gazprom Marketing and Trading	PERSON	ORGANIZATION
+1.0	state-owned Gazprom	look for	shareholding role	ORGANIZATION	0
+1.0	Gazprom Marketing	be establish in	London	ORGANIZATION	LOCATION
+1.0	the energy giant increase	have	presence	O	O
+1.0	Gazprom Marketing	have	CEO	O	ORGANIZATION
+1.0	senior company executive	say in	interview publish	0	0
+1.0	Gazprom Marketing	be	establish in 2004 in London	ORGANIZATION	LOCATION
+1.0	company executive	say in	interview publish	0	0
+1.0	senior company executive	say in	interview publish on Thursday	0	DATE
+1.0	Gazprom Marketing	be	subsidiary	ORGANIZATION	0
+1.0	Gazprom Marketing	establish	Trading	ORGANIZATION	ORGANIZATION
+1.0	senior company executive	say in	interview	0	0
+1.0	Gazprom Marketing	be establish in	2004	ORGANIZATION	DATE
+1.0	Gazprom Marketing	be fully-owned subsidiary of	Russian energy giant Gazprom	ORGANIZATION	ORGANIZATION
+1.0	Vitaly Vasilyev	tell	Gazprom magazine	PERSON	ORGANIZATION
+1.0	Gazprom	be	russian	ORGANIZATION	0
+1.0	gas	have	supplies	O	O
+1.0	Gazprom Marketing	be	establish	ORGANIZATION	0
+1.0	stake	be in	power station	0	0
+1.0	company executive	say in	interview	0	0
+1.0	Gazprom Marketing	be establish	help	ORGANIZATION	0
+1.0	Trading	have	CEO	O	ORGANIZATION
+1.0	electricity	have	sale	O	O
+1.0	Gazprom	look for	shareholding role	ORGANIZATION	0

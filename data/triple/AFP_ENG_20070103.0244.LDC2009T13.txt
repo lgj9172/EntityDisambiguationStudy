@@ -1,0 +1,107 @@
+1.0	Iran	make	major announcement on its programme	LOCATION	0
+1.0	Russia	be build	Iran 's power station in city	LOCATION	LOCATION
+1.0	its	have	failure	O	O
+1.0	process	make	nuclear weapon	0	0
+1.0	Iran	make	major announcement	LOCATION	0
+1.0	quantity	have	uranium	O	O
+1.0	continuous running	produce	fuel	0	0
+1.0	Russia	be build	Iran 's nuclear power station in southern city of Bushehr	LOCATION	LOCATION
+1.0	Ahmadinejad	have	latest comment	PERSON	0
+1.0	Russia	be build	Iran 's first nuclear power station	LOCATION	ORDINAL
+1.0	3,000	have	fuel	O	O
+1.0	Russia	be build	Iran 's power station in city of Bushehr	LOCATION	LOCATION
+1.0	Iran	make announcement during	28th anniversary celebration of islamic revolution	LOCATION	ORDINAL
+1.0	its enrichment plant	be in	Iran	0	LOCATION
+1.0	Russia	be build	Iran 's nuclear power station in southern city	LOCATION	LOCATION
+1.0	Tehran would soon `` push the button ''	have	programme	O	O
+1.0	people	want	more	0	0
+1.0	its	have	enrichment plant	O	O
+1.0	centrifuges	have	running	O	O
+1.0	year	have	end	DATE	DATE
+0.4735073641878579	Ahmadinejad 's latest comment	come in	defiance of UN security	PERSON	ORGANIZATION
+1.0	164 centrifuge	be in	Natanz	NUMBER	LOCATION
+1.0	Iran	be in	Natanz	LOCATION	LOCATION
+1.0	their	have	position	O	O
+1.0	continuous running	produce	nuclear fuel	0	0
+1.0	Mahmoud Ahmadinejad	be on	Wednesday	PERSON	DATE
+1.0	Ahmadinejad 's comment	suspend	uranium enrichment	PERSON	0
+1.0	Ahmadinejad 's latest comment	suspend	uranium enrichment	PERSON	0
+1.0	people	be insist on	they position	0	0
+1.0	Ahmadinejad	be in	Khuzestan province	PERSON	LOCATION
+1.0	continuous running	produce fuel for	power station	0	0
+1.0	Iran	enrich uranium to	level of around five percent	0	PERCENT
+1.0	calls	have	defiance	O	O
+1.0	Iran	make announcement during	anniversary celebration of islamic revolution	LOCATION	0
+1.0	Iran	make announcement during	anniversary celebration of revolution in February	LOCATION	DATE
+1.0	its	have	programme	O	O
+1.0	running	produce	nuclear fuel	0	0
+1.0	Iran	have	power station	O	LOCATION
+1.0	Russia	be build	Iran 's nuclear power station	LOCATION	LOCATION
+1.0	Iran	make announcement during	28th anniversary celebration	LOCATION	ORDINAL
+1.0	Russia	be build	Iran 's first power station in city	LOCATION	ORDINAL
+1.0	Iran	make announcement during	anniversary celebration	LOCATION	0
+1.0	Russia	be build	Iran 's first nuclear power station in southern city	LOCATION	ORDINAL
+1.0	Iran	make	announcement	LOCATION	0
+0.03191106735239502	people	want than	they rights	0	0
+1.0	revolution	have	anniversary celebrations	O	O
+1.0	Iran	have	programme	O	O
+1.0	fuel production	have	scale	O	O
+1.0	process	could	could use	0	0
+1.0	their	have	rights	O	O
+1.0	iranian people	want	more	0	0
+1.0	running	produce	fuel	0	0
+1.0	Iran	be	able	LOCATION	0
+1.0	Iran	have	nuclear rights	LOCATION	0
+1.0	Ahmadinejad	have	comments	O	PERSON
+1.0	Ahmadinejad	say accord to	IRNA news agency	PERSON	ORGANIZATION
+1.0	Iran	enrich uranium to	level	0	0
+1.0	materialists	have	way pay attention	O	O
+1.0	Bushehr	have	city	O	LOCATION
+1.0	quality	have	uranium	O	O
+1.0	Ahmadinejad	be in	Ghotvand	PERSON	LOCATION
+1.0	percent	have	levels	O	PERCENT
+0.4735073641878579	Ahmadinejad 's latest comment	come in	defiance	PERSON	0
+1.0	centrifuges	have	cascades	O	O
+1.0	The Iranian people	have	decision	O	O
+1.0	Russia	be build	Iran 's nuclear power station in city	LOCATION	LOCATION
+1.0	islamic revolution	be in	February	0	DATE
+1.0	Iran	have	first nuclear power station in southern city of Bushehr	LOCATION	ORDINAL
+1.0	UN Security	have	defiance	O	ORGANIZATION
+1.0	Iran	make announcement during	28th anniversary celebration of revolution	LOCATION	ORDINAL
+0.4735073641878579	Ahmadinejad 's comment	come in	defiance	PERSON	0
+1.0	continuous running	produce fuel for	atomic power station	0	0
+1.0	Iran	make	announcement on its programme	LOCATION	0
+1.0	Iran	make announcement during	28th anniversary celebration of islamic revolution in February	LOCATION	DATE
+1.0	Iran	make announcement during	anniversary celebration of revolution	LOCATION	0
+1.0	Russia	be build	Iran 's first power station in southern city	LOCATION	ORDINAL
+1.0	Russia	be build	Iran 's first nuclear power station in southern city of Bushehr	LOCATION	ORDINAL
+1.0	Iran	make	announcement on its nuclear programme	LOCATION	0
+1.0	Iran 's first nuclear power station	be in	southern city of Bushehr	ORDINAL	LOCATION
+1.0	powers	have	bullying	O	O
+0.03191106735239502	iranian people	want than	they rights	0	0
+0.4735073641878579	Ahmadinejad 's comment	come in	defiance of UN security	PERSON	ORGANIZATION
+1.0	plan	would take	its enrichment	0	0
+1.0	Iran	make announcement during	28th anniversary celebration of revolution in February	LOCATION	DATE
+1.0	Russia	be build	Iran 's first power station in southern city of Bushehr	LOCATION	ORDINAL
+1.0	Iran	make	major announcement on its nuclear programme	LOCATION	0
+1.0	running	produce fuel for	atomic power station	0	0
+1.0	Russia	be build	Iran 's first power station in city of Bushehr	LOCATION	ORDINAL
+1.0	Iran	suspend	enrichment	LOCATION	0
+1.0	Russia	be build	Iran 's first nuclear power station in city of Bushehr	LOCATION	ORDINAL
+1.0	Iran	make announcement during	anniversary celebration of islamic revolution in February	LOCATION	DATE
+1.0	its	have	enrichment	O	O
+1.0	Russia	be build	Iran 's first power station	LOCATION	ORDINAL
+1.0	process	make	weapon	0	0
+1.0	western power	want	Iran	0	LOCATION
+1.0	Iran	enrich	uranium	0	0
+1.0	power	want	Iran	0	LOCATION
+1.0	Iran	have	rights	O	LOCATION
+1.0	Russia	be build	Iran 's power station	LOCATION	LOCATION
+1.0	iranian people	be insist on	they position	0	0
+1.0	Ahmadinejad	be in	speech	PERSON	0
+1.0	Russia	be build	Iran 's power station in southern city	LOCATION	LOCATION
+1.0	it	be	unclear	0	0
+1.0	Russia	be build	Iran 's power station in southern city of Bushehr	LOCATION	LOCATION
+1.0	running	produce fuel for	power station	0	0
+1.0	Russia	be build	Iran 's nuclear power station in city of Bushehr	LOCATION	LOCATION
+1.0	Russia	be build	Iran 's first nuclear power station in city	LOCATION	ORDINAL

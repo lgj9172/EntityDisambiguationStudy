@@ -1,0 +1,19 @@
+1.0	US troops	raid	Iran 's consulate	LOCATION	LOCATION
+1.0	Iran	have	general consulate in Irbil	LOCATION	LOCATION
+1.0	Iran 's general consulate	be in	Irbil	LOCATION	LOCATION
+1.0	US occupiers	have	attack	O	O
+1.0	official	be	quote	0	0
+1.0	raider	break gate in	US occupier ' attack on	0	LOCATION
+1.0	raider	break	gate	0	0
+1.0	raider	arrest	consulate 's guard	0	0
+0.8043861411025129	raider	gate of	office	0	0
+1.0	consulate staff	have	five	NUMBER	O
+1.0	consulate	have	guards	O	O
+1.0	Iran	have	consulate	LOCATION	0
+1.0	consulate	have	guard	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	Iran	have	consulate	O	LOCATION
+1.0	US troops	arrest	five staff member	LOCATION	NUMBER
+1.0	raider	break gate in	US occupier ' attack	0	LOCATION
+1.0	raider	break	gate of office	0	0
+1.0	office	have	gate	O	O

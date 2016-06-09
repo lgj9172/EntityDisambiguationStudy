@@ -1,0 +1,73 @@
+1.0	no	be	when attack by boar	DATE	0
+1.0	wild boar	be in	rural city on New Year 's day	0	DATE
+1.0	no	be attack by	boar in rural city on New Year 's day	DATE	DATE
+1.0	three wild boar	go on	rampage in area	NUMBER	0
+1.0	duty officer	city of	41,000 people	0	NUMBER
+1.0	wild boar	go on	rampage in residential area in yawatahama	0	0
+1.0	no	be	when attack by wild boar in rural city	DATE	0
+1.0	no	be attack by	boar in city	DATE	0
+1.0	wild boar	go on	rampage in area	0	0
+1.0	pig	have	year	DATE	O
+1.0	three wild boar	go on	rampage in area in yawatahama	NUMBER	0
+1.0	three wild boar	go on	island of Shikoku	NUMBER	NUMBER
+1.0	three wild boar	go on	rampage in residential area	NUMBER	0
+1.0	no	be attack by	wild boar in rural city	DATE	0
+1.0	no	be	when attack by boar in rural city on New Year 's day	DATE	DATE
+1.0	wild boar	go on	island of Shikoku	0	NUMBER
+1.0	no	be	attack	DATE	0
+1.0	three wild boar	go on	police	NUMBER	0
+1.0	three wild boars	have	aware	O	O
+1.0	year	come after	year of dog in cycle	DATE	DATE
+1.0	wild boar	go on	police	0	0
+1.0	no	be attack by	wild boar	DATE	0
+1.0	year	come after	year of dog	DATE	DATE
+1.0	police station	at officer be	seaside city of 41,000 people	0	NUMBER
+1.0	year	come after	year of dog in 12-animal cycle in east asian astrology	DATE	DATE
+1.0	police station	be in	Yawatahama	0	LOCATION
+1.0	no	be	when attack by boar in city on New Year 's day	DATE	DATE
+1.0	no	be attack by	wild boar in rural city on New Year 's day	DATE	DATE
+1.0	no	be	when attack by wild boar	DATE	0
+1.0	no	be	when attack by wild boar in city on New Year 's day	DATE	DATE
+1.0	year	come after	year of dog in 12-animal cycle	DATE	DATE
+1.0	no	be	when attack	DATE	0
+1.0	year	come after	year	DATE	DATE
+1.0	no	be	when attack by wild boar in rural city on New Year 's day	DATE	DATE
+1.0	year	will begin accord to	calendar	DATE	0
+1.0	three wild boar	go on	island	NUMBER	NUMBER
+1.0	no	be	when attack by boar in city	DATE	0
+1.0	wild boar	go on	rampage	0	0
+1.0	year	will begin accord to	lunar calendar	DATE	0
+1.0	year	will begin on	February 18	DATE	DATE
+1.0	its	have	day	DATE	O
+1.0	year	come after	year of dog in 12-animal cycle in astrology	DATE	DATE
+1.0	year	come after	year of dog in cycle in east astrology	DATE	DATE
+1.0	wild boar	go on	Monday afternoon	0	DATE
+1.0	wild boar	go on	island	0	NUMBER
+1.0	no	be attack by	wild boar in city on New Year 's day	DATE	DATE
+1.0	people	have	city	O	O
+1.0	three wild boar	go on	rampage	NUMBER	0
+1.0	wild boar	go on	rampage in area in yawatahama	0	0
+1.0	12-animal cycle	be in	east asian astrology	0	0
+1.0	no	be attack by	boar in city on New Year 's day	DATE	DATE
+1.0	rampage	be in	residential area	0	0
+1.0	New Year	have	Day	DATE	DATE
+1.0	year	come after	year of dog in cycle in asian astrology	DATE	DATE
+1.0	year	come after	year of dog in cycle in astrology	DATE	DATE
+1.0	year	come after	year of dog in 12-animal cycle in asian astrology	DATE	DATE
+1.0	hours	have	couple	DURATION	DURATION
+1.0	dog	have	year	DATE	O
+1.0	three wild boar	go on	rampage in residential area in yawatahama	NUMBER	0
+1.0	residential area	be in	yawatahama	0	0
+1.0	no	be attack by	boar	DATE	0
+1.0	year	come after	year of dog in cycle in east asian astrology	DATE	DATE
+1.0	no	be	when attack by wild boar in city	DATE	0
+1.0	year	come after	year of dog in 12-animal cycle in east astrology	DATE	DATE
+1.0	no	be	when attack by boar in rural city	DATE	0
+1.0	Shikoku	have	island	O	LOCATION
+1.0	no	be attack by	boar in rural city	DATE	0
+1.0	dog	be in	12-animal cycle	0	0
+1.0	pig	of year be	more	0	0
+1.0	wild boar	go on	rampage in residential area	0	0
+1.0	three wild boar	go on	Monday afternoon	NUMBER	DATE
+1.0	year	have	day	DATE	DATE
+1.0	no	be attack by	wild boar in city	DATE	0

@@ -1,0 +1,58 @@
+1.0	discussion	be	expect	0	0
+1.0	Pakistan Prime Minister Shaukat Aziz	mine	they border	PERSON	0
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk	PERSON	0
+1.0	Karzai	be in	December	PERSON	DATE
+1.0	Pakistan	on	announcement	LOCATION	0
+1.0	other militant	cross from	its side	0	0
+1.0	4,000 people	die at_time	year	NUMBER	DATE
+1.0	relations	have	aspects	O	O
+1.0	4,000 people	die in	insurgency-related unrest	NUMBER	0
+1.0	Karzai	accuse	Islamabad	PERSON	LOCATION
+1.0	That move	have	side	O	O
+1.0	its	have	deadliest	O	O
+1.0	border	have	sides	O	O
+1.0	Pakistan 's announcement	have	army	O	O
+0.9570143676685857	Islamabad	back	Islamists	LOCATION	MISC
+1.0	people	die in	unrest	0	0
+1.0	Pakistan	have	announcement	O	LOCATION
+1.0	Taliban	be topple from	government in late 2001	ORGANIZATION	DATE
+1.0	Pakistan	over	decision to fence	LOCATION	0
+1.0	Pakistan 's announcement	task	its army	0	0
+1.0	neighbour	have at	have loggerheads	0	0
+1.0	the	have	Afghanistan	LOCATION	O
+1.0	their	have	border	O	O
+1.0	leader	be	also likely	0	0
+1.0	4,000 people	die in	unrest	NUMBER	0
+1.0	people	die in	insurgency-related unrest	0	0
+1.0	Pakistan Prime Minister Shaukat Aziz	be	due	PERSON	0
+1.0	Pakistan Prime Minister Shaukat Aziz	mine	they joint border	PERSON	0
+1.0	discussion	be expect	touch on Pakistan 's announcement	0	LOCATION
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk Thursday	PERSON	DATE
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk later Thursday	PERSON	DATE
+1.0	discussion	be expect	touch	0	0
+1.0	discussion	touch on	Pakistan 's announcement	0	LOCATION
+1.0	Shaukat Aziz	be	Pakistan	PERSON	LOCATION
+1.0	government	be in	late 2001	0	DATE
+1.0	border	have	side	O	O
+1.0	Pakistan	have	decision	O	LOCATION
+1.0	Taliban	be topple from	government	ORGANIZATION	0
+1.0	Shaukat Aziz	be prime minister of	Pakistan	PERSON	LOCATION
+1.0	Pakistan	turn afghans into	slave	LOCATION	0
+1.0	war	have	decades	DURATION	O
+1.0	Karzai	publicly accuse	Islamabad	PERSON	LOCATION
+1.0	militant	cross from	its side	0	0
+1.0	militant	cross from	its side border	0	0
+1.0	frontier	have	fencing mining parts	O	O
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk with karzai	PERSON	0
+1.0	Islamabad	have deny	allegation	LOCATION	0
+1.0	other militant	cross from	its side border	0	0
+1.0	Pakistan	turn	Afghans	LOCATION	MISC
+1.0	talk	be with	Hamid Karzai	0	PERSON
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk with karzai Thursday	PERSON	DATE
+1.0	leader	be	likely	0	0
+1.0	Taliban	be	topple	ORGANIZATION	0
+1.0	4,000 people	die at_time	last year	NUMBER	DATE
+1.0	people	die at_time	last year	0	DATE
+1.0	people	die at_time	year	0	DATE
+1.0	Pakistan Prime Minister Shaukat Aziz	go into	talk with karzai later Thursday	PERSON	DATE
+1.0	discussion	touch at_time	month	0	DATE

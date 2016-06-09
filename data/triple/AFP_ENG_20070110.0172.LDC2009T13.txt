@@ -1,0 +1,45 @@
+1.0	Beijing	have	Olympic	LOCATION	MISC
+1.0	China	have	countryside	O	LOCATION
+0.7428805376520885	construction cost	be	higher	0	0
+1.0	construction company	control	they budget	0	0
+1.0	work	be underway on	31 in Beijing include National Stadium know	0	NUMBER
+1.0	building work	be on	schedule	0	0
+1.0	38 Olympics venues	have	design	O	O
+1.0	work	be underway on	38 Olympics	0	MISC
+1.0	we	have suspend	project conduct	0	0
+1.0	government	have	municipal construction committee	0	0
+0.7428805376520885	construction cost	be higher than	amount	0	0
+1.0	constructor	be in	difficulty	0	0
+1.0	Beijing city	have	head	O	O
+1.0	government	have	construction committee	O	O
+1.0	venue construction	be in	Beijing	0	LOCATION
+1.0	workers	have	some	O	O
+1.0	venue construction	have	terms	O	O
+1.0	Bird	have	Nest	O	O
+1.0	we	have suspend	project	0	0
+1.0	year	have	end	DATE	DATE
+1.0	design	have	known	O	O
+1.0	Beijing	be about	one million	LOCATION	NUMBER
+1.0	work	be underway on	31 in Beijing include National Stadium	0	NUMBER
+1.0	steel	have	design	O	O
+1.0	some	pay	worker ' wages	0	0
+1.0	construction company	be have	difficulty	0	0
+1.0	workers	have	wages	O	O
+1.0	Beijing	employ in	low-status job	LOCATION	0
+1.0	Beijing	be include	National Stadium	LOCATION	LOCATION
+1.0	Beijing official	say at_time	Wednesday	LOCATION	DATE
+1.0	Sui Zhenjiang	head of	Beijing city	PERSON	LOCATION
+1.0	Beijing	have	Olympic	MISC	LOCATION
+1.0	work	be underway on	31 in Beijing	0	NUMBER
+1.0	work	be	underway	0	0
+1.0	venues	have	cost	O	O
+1.0	Aquatics centre	know as	water cube	MISC	0
+0.7428805376520885	construction cost	be higher than	project amount	0	0
+1.0	Beijing officials	have	workers	O	O
+1.0	work	be underway on	31 in Beijing include National Stadium know as Bird 's Nest	0	NUMBER
+1.0	some construction companies	have	budgets	O	O
+1.0	Beijing	employ in	job	LOCATION	0
+1.0	Sui Zhenjiang	tell	press conference	0	0
+1.0	sites	have	thousands	O	O
+1.0	site	be in	city	0	0
+1.0	Olympics	31 in	Beijing	MISC	LOCATION

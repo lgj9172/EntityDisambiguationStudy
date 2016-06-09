@@ -1,0 +1,55 @@
+1.0	A lawyer for three Indonesian Islamic militants on death row for the 2002 Bali bombings	have	request	O	O
+1.0	Bali	have	capital Denpasar	LOCATION	LOCATION
+1.0	three Indonesian Islamic militants on death row for the 2002 Bali bombings	have	cases	O	O
+1.0	he request	be	refuse	0	0
+1.0	similar scene	be in	same courtroom	0	0
+1.0	Fahmi Bahmid	want	case put on hold	PERSON	0
+1.0	similar scene	be repeat for	appeal hearing of third Ghufron	0	PERSON
+1.0	scene	be repeat for	appeal hearing of militant Ghufron	0	PERSON
+1.0	The lawyers	have	appeal	O	O
+1.0	court	be	due	0	0
+1.0	scene	be	repeat	0	0
+1.0	scene	be repeat for	appeal hearing of third Ghufron	0	PERSON
+1.0	three Indonesian Islamic militants on death row for the 2002 Bali bombings	have	request	O	O
+1.0	court	have	location	O	O
+1.0	higher court	have deal with	he request	0	0
+1.0	scene	be repeat for	appeal hearing of third militant Ghufron	0	PERSON
+1.0	Ghufron	have	appeal hearing	O	PERSON
+1.0	2002 Bali bombing	be blame on	Al-Qaeda-linked Jemaah Islamiyah extremist network	DATE	MISC
+1.0	lawyer	have	request	O	O
+1.0	Bali	in	Bali 's capital Denpasar	LOCATION	LOCATION
+1.0	lawyer	have	request	0	0
+1.0	court	have deal with	he request	0	0
+1.0	Ali Ghufron	be of	third	PERSON	ORDINAL
+1.0	Judge Gde Wirya	angrily ask	lawyer	PERSON	0
+1.0	scene	be repeat for	appeal hearing of Ghufron	0	PERSON
+1.0	similar scene	be repeat for	appeal hearing of third militant Ghufron	0	PERSON
+1.0	court	adjourn to	time	0	0
+1.0	our	have	clients	O	O
+1.0	Fahmi Bahmid	tell court in	Bali 's capital Denpasar	PERSON	LOCATION
+1.0	case	fear	prejudice	0	0
+1.0	court	have	out walked	O	O
+1.0	Judge Daniel Palitin	dismiss	lawyer 's request	PERSON	0
+1.0	Supreme Court	accept	request	ORGANIZATION	0
+1.0	Judge Gde Wirya	ask	lawyer	PERSON	0
+1.0	Judge Gde Wirya	refuse	lawyer ' request	PERSON	0
+1.0	Bali 's capital Denpasar	be capital of	Bali	LOCATION	LOCATION
+1.0	Fahmi Bahmid	tell	court	PERSON	0
+1.0	Fahmi Bahmid	want	case	PERSON	0
+1.0	scene	be repeat for	appeal hearing	0	0
+1.0	similar scene	be repeat for	appeal hearing of militant Ghufron	0	PERSON
+1.0	similar scene	be	repeat	0	0
+1.0	Bali bombing	be blame on	Al-Qaeda-linked Jemaah Islamiyah extremist network	LOCATION	MISC
+1.0	convicts	have	None	O	O
+1.0	court	adjourn to	unspecified time	0	0
+1.0	he request	be	when refuse	0	0
+1.0	similar scene	be repeat for	appeal hearing of Ghufron	0	PERSON
+1.0	Judge Daniel Palitin	also dismiss	lawyer 's request	PERSON	0
+1.0	lawyers	have	request	O	O
+1.0	case	fear prejudice on	resort island	0	0
+1.0	Fahmi Bahmid	have	request	O	O
+1.0	case	fear	local prejudice	0	0
+1.0	similar scene	be repeat for	appeal hearing	0	0
+1.0	Fahmi Bahmid	want	case put	PERSON	0
+1.0	Bali bombing	be	blame	LOCATION	0
+1.0	2002 Bali bombing	be	blame	DATE	0

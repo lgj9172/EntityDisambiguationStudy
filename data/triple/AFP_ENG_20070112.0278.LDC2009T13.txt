@@ -1,0 +1,61 @@
+1.0	Italian Foreign Minister Massimo d'Alema on Friday	have	condemnation	O	O
+1.0	foreign minister	send	message	0	0
+1.0	italian Foreign Minister Massimo d'Alema	voice	he condemnation on US embassy	PERSON	LOCATION
+1.0	foreign minister	also send	message	0	0
+1.0	foreign minister	send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	italian foreign minister	also send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	Foreign Minister Massimo d'Alema	voice	he strongest condemnation	PERSON	0
+1.0	greek authority	be investigate	claim	0	0
+1.0	Foreign Minister Massimo d'Alema	voice	he condemnation	PERSON	0
+1.0	minister	send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	minister	also send	message	0	0
+1.0	minister	send	message	0	0
+1.0	foreign minister	also send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	italian minister	also send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	left	stage	attack	0	0
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	italian Foreign Minister Massimo d'Alema	voice	he strongest condemnation of rocket attack	PERSON	0
+1.0	Massimo d'Alema	be on	early Friday	PERSON	DATE
+1.0	d'alema	issue	statement	0	0
+1.0	The Italian foreign minister	have	counterpart Dora Bakoyannis	PERSON	O
+1.0	Foreign Minister Massimo d'Alema	voice	he condemnation of rocket attack on US embassy	PERSON	LOCATION
+1.0	minister	also send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	foreign minister	also send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	italian Foreign Minister Massimo d'Alema	voice	he condemnation	PERSON	0
+1.0	italian Foreign Minister Massimo d'Alema	voice	he condemnation of rocket attack	PERSON	0
+1.0	statement	express	solidarity	0	0
+1.0	minister	send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	act	have	face	O	O
+1.0	extreme left	stage	attack	0	0
+1.0	italian minister	send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	message	assure	he of Italy 's deep friendship	0	LOCATION
+1.0	italian foreign minister	send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	violence	have	act	O	O
+1.0	rocket attack	have	condemnation	O	O
+1.0	Foreign Minister Massimo d'Alema	voice	he condemnation of rocket attack	PERSON	0
+1.0	italian minister	also send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	Italy	have	friendship	O	LOCATION
+1.0	Foreign Minister Massimo d'Alema	voice	he condemnation on US embassy	PERSON	LOCATION
+1.0	italian minister	also send	message	0	0
+1.0	friendship	have	him	O	O
+1.0	italian Foreign Minister Massimo d'Alema	voice	he strongest condemnation on US embassy	PERSON	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	voice	he strongest condemnation	PERSON	0
+1.0	Foreign Minister Massimo d'Alema	voice	he strongest condemnation on US embassy	PERSON	LOCATION
+1.0	italian foreign minister	also send	message	0	0
+1.0	italian minister	send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	italian Foreign Minister Massimo d'Alema	voice	he condemnation of rocket attack on US embassy	PERSON	LOCATION
+1.0	italian foreign minister	send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	message	assure	he	0	0
+1.0	italian foreign minister	send	message	0	0
+1.0	Dora Bakoyannis	be to	greek	PERSON	0
+1.0	Italy	of	deep friendship	LOCATION	0
+1.0	statement	express solidarity with	United States	0	LOCATION
+1.0	italian foreign minister	also send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	Foreign Minister Massimo d'Alema	voice	he strongest condemnation of rocket attack on US embassy	PERSON	LOCATION
+1.0	message	assure	he of Italy 's friendship	0	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	voice	he strongest condemnation of rocket attack on US embassy	PERSON	LOCATION
+1.0	authority	be investigate	claim	0	0
+1.0	italian minister	send	message	0	0
+1.0	minister	also send message to	he counterpart Dora Bakoyannis	0	PERSON
+1.0	foreign minister	send message to	he greek counterpart Dora Bakoyannis	0	PERSON
+1.0	Foreign Minister Massimo d'Alema	voice	he strongest condemnation of rocket attack	PERSON	0

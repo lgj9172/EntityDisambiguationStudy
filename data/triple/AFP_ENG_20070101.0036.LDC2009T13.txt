@@ -1,0 +1,53 @@
+1.0	two others	celebrate on top of	Japan 's highest mountain	0	DATE
+1.0	two other	be injure at_time	Monday	NUMBER	DATE
+1.0	number	decline in	winter	0	DATE
+1.0	two others	celebrate at_time	New Year 's day	0	DATE
+1.0	mountain	be	active	0	0
+1.0	spokesman	say	add	0	0
+1.0	Police Department	say police spokesman at	Fuji Yoshida	ORGANIZATION	ORGANIZATION
+1.0	another climber	break	he leg	0	0
+1.0	Japan	have	mountain	O	LOCATION
+1.0	number	decline sharply in	winter due to weather	0	DATE
+0.633593924617174	Police Department	say at	Fuji Yoshida	ORGANIZATION	ORGANIZATION
+1.0	two others	attempt	celebrate New Year 's day	0	DATE
+1.0	New Year	have	day	DATE	DATE
+1.0	another climber	have	leg	O	O
+1.0	Mount Fuji	believe	holy mountain	LOCATION	0
+1.0	two other	be	injure Monday on Mount Fuji	NUMBER	LOCATION
+1.0	them	have	one	NUMBER	O
+1.0	Mount Fuji	be mountain in	summer	LOCATION	DATE
+1.0	Mount Fuji	be holy mountain in	summer	LOCATION	DATE
+1.0	other	be injure on	Mount Fuji	0	LOCATION
+1.0	Tokyo	have	kilometers west	O	LOCATION
+1.0	conical-shaped mountain	be as	also active volcano	0	0
+1.0	two others	attempt	celebrate	0	0
+1.0	Japan	on top of	highest mountain	LOCATION	0
+1.0	number	decline sharply in	winter	0	DATE
+1.0	mountain	be as	volcano	0	0
+1.0	mountain	have	celebrate	O	O
+1.0	two other	be	injure	NUMBER	0
+1.0	mountain	be as	also volcano	0	0
+1.0	conical-shaped mountain	west of	Tokyo	0	LOCATION
+1.0	Mount Fuji	believe	mountain	LOCATION	0
+1.0	two others	celebrate on top of	Japan 's mountain	0	DATE
+1.0	other	be	injure Monday on Mount Fuji	0	LOCATION
+1.0	mountain	be as	also active volcano	0	0
+1.0	mountain	be as	active volcano	0	0
+1.0	other	be	injure	0	0
+1.0	other	be injure at_time	Monday	0	DATE
+1.0	climbers	have	number	O	O
+1.0	number	decline in	winter due	0	DATE
+1.0	number	decline sharply in	winter due to severe weather	0	DATE
+1.0	Mount Fuji	be	mountain	LOCATION	0
+1.0	number	decline sharply in	winter due	0	DATE
+1.0	holy mountain	be in	Japan 's	0	LOCATION
+1.0	conical-shaped mountain	be as	also volcano	0	0
+1.0	Mount Fuji	be	holy	LOCATION	0
+1.0	conical-shaped mountain	be as	active volcano	0	0
+1.0	3,776-meter mountain	have	top	O	O
+1.0	number	decline in	winter due to severe weather	0	DATE
+1.0	Mount Fuji	be	holy mountain	LOCATION	0
+1.0	number	decline in	winter due to weather	0	DATE
+1.0	conical-shaped mountain	be as	volcano	0	0
+1.0	two other	be injure on	Mount Fuji	NUMBER	LOCATION
+1.0	Police Department	say	police spokesman	ORGANIZATION	0

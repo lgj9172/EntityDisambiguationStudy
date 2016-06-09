@@ -1,0 +1,10 @@
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop	290.88 point	ORGANIZATION	NUMBER
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Tuesday	have	gains	O	DATE
+1.0	Tuesday	have	gain	DATE	0
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	1.69 percent	be in	morning trade	PERCENT	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop more	290.88 point	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	companies	have	TOPIX index	O	O

@@ -1,0 +1,6 @@
+1.0	Somali Prime Minister Ali Mohamed Gedi	be	implement	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	disarmament plan	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce disarmament plan for	capital Mogadishu	PERSON	LOCATION
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Somali Prime Minister Ali Mohamed Gedi	be implement over	three day	PERSON	DURATION
+1.0	Ali Mohamed Gedi	be on	Monday	PERSON	DATE

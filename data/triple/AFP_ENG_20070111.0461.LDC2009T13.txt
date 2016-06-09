@@ -1,0 +1,12 @@
+1.0	republican Senator Chuck Hagel	brand	President George W. Bush 's new plan	PERSON	PERSON
+1.0	Chuck Hagel	be	republican	PERSON	0
+1.0	George W. Bush	have	new plan for Iraq	PERSON	LOCATION
+1.0	Chuck Hagel	be on	Thursday	PERSON	DATE
+1.0	Senator Chuck Hagel	brand	President George W. Bush 's new plan for Iraq	PERSON	LOCATION
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	republican Senator Chuck Hagel	brand	President George W. Bush 's plan	PERSON	PERSON
+1.0	republican Senator Chuck Hagel	brand	President George W. Bush 's new plan for Iraq	PERSON	LOCATION
+1.0	republican Senator Chuck Hagel	brand	President George W. Bush 's plan for Iraq	PERSON	LOCATION
+1.0	Senator Chuck Hagel	brand	President George W. Bush 's plan for Iraq	PERSON	LOCATION
+1.0	Senator Chuck Hagel	brand	President George W. Bush 's new plan	PERSON	PERSON
+1.0	Senator Chuck Hagel	brand	President George W. Bush 's plan	PERSON	PERSON

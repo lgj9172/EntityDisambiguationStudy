@@ -1,0 +1,64 @@
+1.0	four man	along be arrest in	Rabat	NUMBER	LOCATION
+1.0	man	be	arrest	0	0
+1.0	four man	be arrest at_time	last June	NUMBER	DATE
+1.0	country	have	history	O	O
+1.0	Britain	have issue	arrest warrant	LOCATION	0
+1.0	Britons	have	Morocco	LOCATION	MISC
+1.0	four man	be	along with two moroccan arrest June in Rabat	NUMBER	NUMBER
+1.0	four man	be	along with two moroccan arrest	NUMBER	NUMBER
+1.0	Britain	have issue	international arrest warrant	LOCATION	0
+1.0	man	be arrest in	Rabat	0	LOCATION
+1.0	Securitas cash depot	be in	Kent	ORGANIZATION	ORGANIZATION
+1.0	four	be accuse in	Morocco of four Britons	NUMBER	LOCATION
+1.0	four man	be	along arrest June in Rabat	NUMBER	LOCATION
+1.0	four man	be	along arrest	NUMBER	0
+1.0	four man	be arrest at_time	June	NUMBER	DATE
+1.0	man	along be arrest in	Rabat	0	LOCATION
+1.0	formal extradition treaty	be with	Morocco of four Britons	0	LOCATION
+1.0	man	be	arrest June in Rabat	0	LOCATION
+1.0	man	be	along with two moroccan arrest June in Rabat	0	NUMBER
+1.0	man	be	along with two moroccan arrest last June in Rabat	0	NUMBER
+1.0	man	be arrest at_time	June	0	DATE
+1.0	the suspects	evade	arrest	0	0
+1.0	man	be arrest at_time	last June	0	DATE
+1.0	Lee Lamrani Ibrahim Murray	be among	they	PERSON	0
+1.0	The Sale court	hear	testimony	0	0
+1.0	man	be	along arrest June in Rabat	0	LOCATION
+1.0	official	say at_time	Wednesday	0	DATE
+1.0	Tonbridge	be	Kent	LOCATION	ORGANIZATION
+1.0	man	be	along with two moroccan arrest last June	0	NUMBER
+1.0	four man	be arrest in	Rabat	NUMBER	LOCATION
+1.0	four man	be	arrest last June in Rabat	NUMBER	LOCATION
+1.0	four man	be	along with two moroccan arrest June	NUMBER	NUMBER
+1.0	four man	be	along with two moroccan arrest last June in Rabat	NUMBER	NUMBER
+1.0	man	be	along arrest last June in Rabat	0	LOCATION
+1.0	man	be	arrest last June in Rabat	0	LOCATION
+1.0	four	be	accuse	NUMBER	0
+1.0	four man	be	arrest June in Rabat	NUMBER	LOCATION
+1.0	Lee Lamrani Ibrahim Murray	be	also want	0	0
+1.0	trust	have	breach	O	O
+1.0	four man	be	arrest	NUMBER	0
+1.0	man	along be arrest at_time	last June	0	DATE
+1.0	four man	be	along arrest last June in Rabat	NUMBER	LOCATION
+1.0	man	be	along with two moroccan arrest in Rabat	0	NUMBER
+1.0	trial	be in	Morocco	0	LOCATION
+1.0	four man	along be arrest at_time	last June	NUMBER	DATE
+1.0	man	be	along arrest	0	0
+1.0	man	be	along with two moroccan arrest June	0	NUMBER
+1.0	Lee Lamrani Ibrahim Murray	be	want	0	0
+1.0	man	be	along with two moroccan arrest	0	NUMBER
+1.0	their	have	country	O	O
+1.0	Morocco	be of	Britons	LOCATION	MISC
+1.0	judicial official	say at_time	Wednesday	0	DATE
+1.0	four man	along be arrest at_time	June	NUMBER	DATE
+1.0	criminal gang	violence against	police officer	0	0
+1.0	four	be	gang	NUMBER	0
+1.0	Lee Lamrani Ibrahim Murray	be also want by	Interpol	0	ORGANIZATION
+1.0	four	be	criminal	NUMBER	0
+1.0	man	along be arrest at_time	June	0	DATE
+1.0	four	be	criminal gang	NUMBER	0
+1.0	Lee Lamrani Ibrahim Murray	be want by	Interpol	0	ORGANIZATION
+1.0	drugs	have	possession	O	O
+1.0	policemen	have	testimony	O	O
+1.0	four man	be	along with two moroccan arrest last June	NUMBER	NUMBER
+1.0	four man	be	along with two moroccan arrest in Rabat	NUMBER	NUMBER

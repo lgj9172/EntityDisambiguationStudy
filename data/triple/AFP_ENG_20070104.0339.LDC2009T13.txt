@@ -1,0 +1,28 @@
+1.0	The vehicle	be	abandon	0	0
+1.0	police	say	add	0	0
+1.0	detonators	have	cache	O	O
+1.0	cache	have	December discovery	O	O
+1.0	Spain	in	basque region	LOCATION	0
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north	0	LOCATION
+1.0	The vehicle	be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north	0	LOCATION
+1.0	The vehicle	be	apparently abandon	0	0
+1.0	ETA	be by	basque	ORGANIZATION	0
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache	0	DATE
+1.0	police	be in	Spain 's basque region	0	LOCATION
+1.0	explosive	of kilo be	220 pound	0	MONEY
+1.0	The vehicle	be abandon follow	December 23 discovery	0	DATE
+1.0	The vehicle	be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north of basque region	0	LOCATION
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache of detonator at Amorebieta	0	LOCATION
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache of detonator	0	DATE
+1.0	The vehicle	be abandon follow	December 23 discovery of cache of detonator	0	DATE
+1.0	Spain	have	region	O	LOCATION
+1.0	explosives	have	kilos	O	O
+1.0	The vehicle	be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north of region	0	LOCATION
+1.0	The vehicle	be abandon follow	December 23 discovery of cache of detonator at Amorebieta	0	LOCATION
+1.0	Amorebieta	be in	north of basque region	LOCATION	0
+1.0	The vehicle	be abandon follow	December 23 discovery of cache	0	DATE
+1.0	region	have	north	O	O
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north of basque region	0	LOCATION
+1.0	The vehicle	apparently be abandon follow	December 23 discovery	0	DATE
+1.0	explosives	have	cache	O	O
+1.0	The vehicle	apparently be abandon follow	December 23 discovery of cache of detonator at Amorebieta in north of region	0	LOCATION

@@ -1,0 +1,59 @@
+1.0	first major disagreement	be with	brass over Iraq since then-army chief of staff	ORDINAL	LOCATION
+1.0	officers	have	advice	O	O
+1.0	Staff	have	Joint Chiefs	ORGANIZATION	ORGANIZATION
+1.0	the 132,000 US troops	have	surge	O	O
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	staff	have	chief	O	O
+1.0	Bush 's decision	be	first disagreement	PERSON	ORDINAL
+1.0	Bush	have	decision ignore	PERSON	0
+1.0	Bush 's decision	be	disagreement	PERSON	0
+1.0	Joint Chiefs	have oppose	add to 132,000 US troops	0	LOCATION
+1.0	Joint Chiefs	have oppose already	add to 132,000 US troops	0	LOCATION
+1.0	military Joint Chiefs	will support	President George W. Bush 's plan	ORGANIZATION	PERSON
+1.0	Joint Chiefs	will support	President George W. Bush 's plan	ORGANIZATION	PERSON
+1.0	Joint Chiefs	have long oppose	add to 132,000 US troops	0	LOCATION
+1.0	forces	have	commander	O	O
+1.0	Joint Chiefs	have oppose already in	Iraq	0	LOCATION
+1.0	multinational force	be in	Iraq	0	LOCATION
+1.0	Iraq	have	problems	O	LOCATION
+1.0	Bush 's decision	be	first major disagreement	PERSON	ORDINAL
+1.0	Joint Chiefs	have oppose	add	0	0
+1.0	General Eric Shinseki	take	early retirement	PERSON	0
+1.0	President George W. Bush 's	have	officers	O	O
+1.0	military Joint Chiefs	will reluctantly support	President George W. Bush 's plan	ORGANIZATION	PERSON
+1.0	Joint Chiefs	have long oppose already	add to 132,000 US troops	0	LOCATION
+1.0	Nuri al-Maliki	be of	iraqi	PERSON	0
+1.0	Joint Chiefs	have long oppose	add	0	0
+1.0	George Casey	commander of	multinational force in Iraq	PERSON	LOCATION
+1.0	Joint Chiefs	have oppose already accord to	post	0	0
+1.0	General Eric Shinseki	subsequently take	early retirement	PERSON	0
+1.0	Joint Chiefs	add to	132,000 US troops	0	LOCATION
+1.0	General Eric Shinseki	take	retirement	PERSON	0
+1.0	Bush 's decision	appear	disagreement with brass	PERSON	0
+1.0	George W. Bush	have	plan send to Iraq	PERSON	LOCATION
+1.0	Joint Chiefs	have oppose accord to	post	0	0
+1.0	soldier	would	would need	0	0
+1.0	White House	announce on	January 5	ORGANIZATION	DATE
+1.0	Washington Post	cite	Pentagon insider	ORGANIZATION	ORGANIZATION
+1.0	Central Command	have	head	O	ORGANIZATION
+1.0	political effort	be in	Iraq	0	LOCATION
+1.0	General George Casey	be	be also replace	PERSON	0
+1.0	Joint Chiefs	have long oppose in	Iraq	0	LOCATION
+1.0	Joint Chiefs	have long oppose accord to	post	0	0
+1.0	Joint Chiefs	have long oppose already	add	0	0
+1.0	US military operation	be in	North Africa	LOCATION	LOCATION
+1.0	Bush 's decision	be	major disagreement	PERSON	0
+1.0	General Eric Shinseki	subsequently take	retirement	PERSON	0
+1.0	Bush 's decision	appear	disagreement	PERSON	0
+1.0	Bush	have	decision	O	PERSON
+1.0	Joint Chiefs	have long oppose already in	Iraq	0	LOCATION
+1.0	Joint Chiefs	have long oppose already accord to	post	0	0
+1.0	US operations	have	charge	O	O
+1.0	Joint Chiefs	have oppose already	add	0	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	Joint Chiefs	will reluctantly support	President George W. Bush 's plan	ORGANIZATION	PERSON
+1.0	Washington Post	report at_time	late Wednesday	ORGANIZATION	DATE
+1.0	General George Casey	be	be replace	PERSON	0
+1.0	Joint Chiefs	have oppose in	Iraq	0	LOCATION
+1.0	Congress	be in	February 2003	ORGANIZATION	DATE
+1.0	Bush 's decision	appear	disagreement with brass over Iraq	PERSON	LOCATION

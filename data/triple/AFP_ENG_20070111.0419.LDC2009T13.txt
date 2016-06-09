@@ -1,0 +1,41 @@
+1.0	prison	in year be	152 pound	0	MONEY
+1.0	he	be jail for	14 year	0	DURATION
+1.0	he	have	conviction	0	0
+1.0	he	have	prior conviction for extortion	0	0
+1.0	acting	arrest	man	0	0
+1.0	he role	be in	smuggling 69 kilo	0	NUMBER
+1.0	man	have	car	O	O
+1.0	pair	drive from	Denmark	0	LOCATION
+1.0	car	have	back	O	O
+1.0	pair	drive on	Oeresund bridge in car	0	LOCATION
+1.0	he	be	jail	0	0
+1.0	pair	drive on	Oeresund bridge	0	LOCATION
+0.33206527842909395	acting	find over	69 kilo of amphetamine lie	0	NUMBER
+1.0	man	have	home	O	O
+1.0	he	also have	prior conviction	0	0
+1.0	tt	be	swedish	0	0
+1.0	he	have	prior conviction	0	0
+1.0	he	have	conviction for extortion	0	0
+1.0	Oeresund bridge	be in	separate car	LOCATION	0
+0.6358003184248165	lie	uncovered in	back	0	0
+1.0	ten year	be in	prison for he role	DURATION	0
+1.0	pair	drive from	Amsterdam	0	LOCATION
+1.0	his	have	accomplice	O	O
+1.0	amphetamines	have	kilos	O	O
+0.6358003184248165	lie	uncovered in	back of second man 's car	0	ORDINAL
+1.0	a former police officer	have	role	O	O
+1.0	second man	of	car	ORDINAL	0
+1.0	court	sentence	former police officer	0	0
+1.0	pair	drive on	Oeresund bridge in separate car	0	LOCATION
+0.6358003184248165	lie	uncovered in	back of man 's car	0	0
+1.0	acting	find over	69 kilo of amphetamine	0	NUMBER
+1.0	amphetamines	have	years	DURATION	O
+1.0	alcohol	have	quantities	O	O
+1.0	he	also have	conviction for extortion	0	0
+1.0	swedish court	sentence	former police officer	0	0
+1.0	Malmoe district court	say in	its verdict	LOCATION	0
+1.0	he	also have	conviction	0	0
+1.0	acting	find over	69 kilo	0	NUMBER
+1.0	amphetamine	of year be	152 pound	0	MONEY
+1.0	he	also have	prior conviction for extortion	0	0
+1.0	June 2006	have	verdict	O	O

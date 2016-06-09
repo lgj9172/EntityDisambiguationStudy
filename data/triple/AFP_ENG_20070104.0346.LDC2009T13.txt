@@ -1,0 +1,30 @@
+1.0	auto dealer ' association acap	say at_time	Thursday	0	DATE
+1.0	french automaker Renault	have performance at_time	last year	ORGANIZATION	DATE
+1.0	acap president Helder Pedro	tell	newspaper	PERSON	0
+1.0	portuguese auto dealer		acap	0	0
+1.0	automaker Renault	have performance at_time	last year	ORGANIZATION	DATE
+1.0	automaker Renault	again have	performance	ORGANIZATION	0
+1.0	automaker Renault	have performance at_time	year	ORGANIZATION	DATE
+1.0	french automaker Renault	again have performance at_time	year	ORGANIZATION	DATE
+1.0	4.8 percent	be in	2006	PERCENT	DATE
+1.0	french automaker Renault	again have	performance	ORGANIZATION	0
+1.0	french automaker Renault	again have	best performance	ORGANIZATION	0
+1.0	new car	be in	Portugal	0	LOCATION
+1.0	Helder Pedro	be president of	acap	PERSON	0
+1.0	automaker Renault	again have	best performance	ORGANIZATION	0
+1.0	Renault	be	french	ORGANIZATION	0
+1.0	December	drop over	the same month in 2005	DATE	DATE
+1.0	automaker Renault	have	best performance	ORGANIZATION	0
+1.0	acap president Helder Pedro	tell	daily newspaper	PERSON	SET
+1.0	portuguese auto dealer ' association acap	say at_time	Thursday	0	DATE
+1.0	french automaker Renault	have	best performance	ORGANIZATION	0
+1.0	automaker Renault	again have performance at_time	last year	ORGANIZATION	DATE
+1.0	french automaker Renault	again have performance at_time	last year	ORGANIZATION	DATE
+1.0	year	be in	memory	DURATION	0
+1.0	french automaker Renault	have performance at_time	year	ORGANIZATION	DATE
+1.0	cars	have	Sales	O	O
+1.0	auto dealers	have	association ACAP	ORGANIZATION	O
+1.0	automaker Renault	have	performance	ORGANIZATION	0
+1.0	french automaker Renault	have	performance	ORGANIZATION	0
+1.0	Helder Pedro	be	acap	PERSON	0
+1.0	automaker Renault	again have performance at_time	year	ORGANIZATION	DATE

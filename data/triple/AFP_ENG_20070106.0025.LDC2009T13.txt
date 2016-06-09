@@ -1,0 +1,71 @@
+1.0	it	be	tournament lead	0	0
+1.0	place	be in	20	0	NUMBER
+1.0	Wally Masur	be in	mix	PERSON	0
+1.0	it	be	tournament lead into January 15 australian Open in Melbourne	0	MISC
+1.0	Hewitt	have	manager Justin Cohen	PERSON	PERSON
+1.0	their	have	association	O	O
+1.0	Wally Masur	be with	australian Davis Cup	PERSON	MISC
+1.0	he	make	announcement	0	0
+1.0	downturn	be in	fortune	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	have	early exit from Adelaide International	PERSON	ORGANIZATION
+1.0	announcement	be in	the coming day	0	DATE
+1.0	next week	out of	Sydney International	DATE	LOCATION
+1.0	it	be	last tournament lead into Open	0	MISC
+1.0	Sydney International	have	pulled	O	O
+1.0	it	be	last tournament lead into australian Open in Melbourne	0	MISC
+1.0	it	be	tournament lead into Open in Melbourne	0	MISC
+1.0	it	be	last tournament lead into January 15 australian Open in Melbourne	0	MISC
+1.0	he	make announcement with	Davis Cup coach Wally Masur in mix	0	MISC
+1.0	it	be	tournament lead into australian Open	0	MISC
+1.0	Justin Cohen	be manager of	Hewitt	PERSON	PERSON
+1.0	we	be manage	Wimbledon	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	will have	physio	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	have	exit from Adelaide International	PERSON	ORGANIZATION
+1.0	Igor Kunitsyn	be to	russian	PERSON	0
+1.0	australian Open	be in	Melbourne	MISC	LOCATION
+1.0	Australia 's No. 1 Lleyton Hewitt	be	when world no. 1	PERSON	NUMBER
+1.0	he	make announcement with	australian Davis Cup coach Wally Masur	0	MISC
+1.0	it	be	last tournament	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	have exit at_time	Thursday	PERSON	DATE
+0.5274450421768823	go	down to	94th-ranked russian Igor Kunitsyn	0	PERSON
+1.0	Australia 's No. 1 Lleyton Hewitt	begin	Rasheed	PERSON	PERSON
+1.0	it	be	last tournament lead into January 15 australian Open	0	MISC
+1.0	Australia	have	Lleyton Hewitt	PERSON	LOCATION
+1.0	it	be	last tournament lead into Open in Melbourne	0	MISC
+1.0	it	have end with	Australia 's No. 1 Lleyton Hewitt	0	PERSON
+1.0	their association	be	likely	0	0
+0.644761645979449	he	announcement in	day	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	be	when world	PERSON	0
+1.0	Australia 's No. 1 Lleyton Hewitt	have	exit	PERSON	0
+1.0	this month	have	australian Open	DATE	MISC
+1.0	it	have end with	Hewitt cling	0	PERSON
+1.0	he	make	announcement in coming day	0	DATE
+1.0	week	have	Sydney International	O	DATE
+1.0	it	be	tournament	0	0
+0.5274450421768823	go	down to	russian Igor Kunitsyn	0	PERSON
+1.0	Australia 's No. 1 Lleyton Hewitt	have	early exit	PERSON	0
+1.0	Australia 's No. 1 Lleyton Hewitt	be	world no. 1	PERSON	NUMBER
+1.0	Australia 's No. 1 Lleyton Hewitt	be	world	PERSON	0
+1.0	it	be	last tournament lead into australian Open	0	MISC
+0.5274450421768823	go	down to	94th-ranked Igor Kunitsyn	0	PERSON
+1.0	month	have	Open	MISC	DATE
+1.0	he	make announcement with	australian Davis Cup coach Wally Masur in mix	0	MISC
+1.0	he	make announcement with	Davis Cup coach Wally Masur	0	MISC
+0.644761645979449	he	announcement in	coming day	0	DATE
+1.0	it	be	last tournament lead	0	0
+1.0	it	be	tournament lead into australian Open in Melbourne	0	MISC
+1.0	Hewitt 's withdrawal	come within	hour of announcement	PERSON	0
+1.0	Hewitt 's withdrawal	come within	hour	PERSON	0
+1.0	announcement	have	hours	DURATION	O
+1.0	Hewitt	have	withdrawal	PERSON	0
+1.0	it	have end with	Hewitt cling to place in top 20	0	NUMBER
+1.0	he	make	announcement in day	0	0
+1.0	Australia 's No. 1 Lleyton Hewitt	have exit at_time	last Thursday	PERSON	DATE
+1.0	Australia 's No. 1 Lleyton Hewitt	begin	they association	PERSON	0
+1.0	it	have end with	Hewitt cling to place	0	PERSON
+1.0	it	be	tournament lead into January 15 australian Open	0	MISC
+1.0	Hewitt	have	withdrawal	O	PERSON
+1.0	it	be	tournament lead into Open	0	MISC
+1.0	Australia	have	Lleyton Hewitt	LOCATION	PERSON
+1.0	Hewitt	have	Justin Cohen	PERSON	PERSON
+0.5274450421768823	go	down to	Igor Kunitsyn	0	PERSON

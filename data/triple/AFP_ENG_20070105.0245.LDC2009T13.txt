@@ -1,0 +1,98 @@
+1.0	story	be	nonsense	0	0
+1.0	we	do	it	0	0
+1.0	Cup Final	be	expect	MISC	0
+1.0	club	go at	point	0	0
+1.0	club	will want	go at point	0	0
+1.0	Sir Alex Ferguson	make	two new addition	0	NUMBER
+1.0	three front	be in	Premiership	NUMBER	0
+1.0	Edwin van der Sar	have	make	O	PERSON
+1.0	loan signing Henrik Larsson	be set for	place on bench against Villa	PERSON	PERSON
+1.0	goalkeeper Tomasz Kuszczak	make start in place of	Edwin van der Sar	PERSON	PERSON
+1.0	polish goalkeeper Tomasz Kuszczak	make start in place of	Edwin van der Sar against Villa	PERSON	PERSON
+1.0	Gareth Bale	be	Southampton	PERSON	ORGANIZATION
+1.0	Edwin van der Sar	be against	Villa	PERSON	PERSON
+1.0	story	be	nonsense though	0	0
+1.0	Cup Final	be at	new Wembley	MISC	LOCATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring lot back from	loan spell	0	0
+1.0	United	launch	they bid	0	0
+1.0	Tomasz Kuszczak	be	polish	PERSON	0
+1.0	Cup Final	be at	Wembley	MISC	LOCATION
+1.0	will best stadium	be in	world	0	0
+1.0	he pursuit	have	have boost by report	0	0
+1.0	United	launch	they bid for FA Cup glory	0	MISC
+1.0	polish goalkeeper Tomasz Kuszczak	make start in place of	Edwin van der Sar	PERSON	PERSON
+1.0	England star Hargreaves	have	pursuit	O	PERSON
+1.0	Cup Final	be set	return	MISC	0
+1.0	goalkeeper Tomasz Kuszczak	make	rare start	PERSON	0
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring lot from	loan spell	0	0
+1.0	Darren Bent	be in	recent week	PERSON	DURATION
+1.0	The Cup Final	be stadium in	world	0	0
+1.0	The Cup Final	be	best stadium	0	0
+1.0	Cup Final	be expect	new Wembley	MISC	LOCATION
+1.0	he pursuit	have	have boost	0	0
+1.0	Gareth Bale	be full-back of	Southampton	PERSON	ORGANIZATION
+1.0	Sir Alex Ferguson	refuse with	United push on three front	PERSON	NUMBER
+1.0	Hargreaves	be star of	England	PERSON	LOCATION
+1.0	speculation	move to	real Madrid	0	ORGANIZATION
+1.0	swedish striker	be give	he United debut	0	ORGANIZATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring back	lot	0	0
+1.0	loan signing Henrik Larsson	be set for	place	PERSON	0
+0.4037561725005909	United	push on	three front	ORGANIZATION	NUMBER
+1.0	Cup Final	be expect	Wembley	MISC	LOCATION
+1.0	The Cup Final	be best stadium in	world	0	0
+1.0	Owen Hargreaves	be with	Bayern Munich	PERSON	ORGANIZATION
+1.0	the players	have	lot	O	O
+1.0	Sir Alex Ferguson	reveal at_time	Friday	PERSON	DATE
+1.0	their	have	bid	O	O
+1.0	club	go there at	point	0	0
+1.0	Cristiano Ronaldo	be about	portuguese	PERSON	0
+0.8907033776431604	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	lot of	player	0	0
+1.0	The Cup Final	be	stadium	0	0
+1.0	club	will want	go there	0	0
+1.0	his	have	United debut	O	O
+1.0	polish goalkeeper Tomasz Kuszczak	make	start	PERSON	0
+1.0	Cup Final	be	set	MISC	0
+1.0	Cup Final	be set	finally return	MISC	0
+1.0	Owen Hargreaves	be midfielder of	Bayern Munich	PERSON	ORGANIZATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring lot back to	club	0	0
+1.0	they	be	cup fever	0	0
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring lot to	club	0	0
+1.0	The Manchester United manager	have	pursuit	O	O
+1.0	His	have	training performances	O	O
+1.0	Bayern Munich	be	ready	ORGANIZATION	0
+1.0	he lengthy pursuit	have	have boost by report	0	0
+1.0	it	see	it	0	0
+1.0	goalkeeper Tomasz Kuszczak	make start in place of	Edwin van der Sar against Villa	PERSON	PERSON
+1.0	his	have	fitness	O	O
+1.0	he lengthy pursuit	have	have boost	0	0
+1.0	Sir Alex Ferguson	name player on	he hit list	PERSON	0
+1.0	Sir Alex Ferguson	make	two addition	0	NUMBER
+1.0	Sir Alex Ferguson	refuse with	United push on three front in Premiership	PERSON	NUMBER
+1.0	club	will want	go there at point	0	0
+1.0	Sunday	be with	third round tie at home	DATE	ORDINAL
+1.0	we	be look at	thing	0	0
+1.0	club	will want	go	0	0
+1.0	Sir Alex Ferguson	refuse with	United push	PERSON	ORGANIZATION
+1.0	striker	be give	he United debut	0	ORGANIZATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring	lot	0	0
+1.0	loan signing Henrik Larsson	be set for	place on bench	PERSON	0
+1.0	they	be bring	6,000 fan	0	NUMBER
+1.0	Hargreaves	be of	England	PERSON	LOCATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring back	lot of player	0	0
+0.4037561725005909	United	push on	three front Premiership	ORGANIZATION	NUMBER
+1.0	it	will	will interesting	0	0
+1.0	speculation	move to	Madrid	0	ORGANIZATION
+1.0	we	be look at	few thing	0	0
+1.0	loan signing Henrik Larsson	be	set	PERSON	0
+1.0	they	be	cup fever at game	0	0
+1.0	Sir Alex Ferguson	have	squad	O	O
+1.0	Sir Alex Ferguson	refuse with	United	PERSON	ORGANIZATION
+1.0	Bayern Munich midfielder Owen Hargreaves , Southampton full-back Gareth Bale and Charlton forward Darren Bent in recent weeks	bring	lot of player	0	0
+1.0	he	say	expect	0	0
+1.0	his	have	future	DATE	O
+1.0	goalkeeper Tomasz Kuszczak	make	start	PERSON	0
+1.0	FA Cup history	have	lot	O	O
+1.0	Sir Alex Ferguson	name	player	PERSON	0
+1.0	polish goalkeeper Tomasz Kuszczak	make	rare start	PERSON	0
+1.0	Sir Alex Ferguson	have	hit list	O	O
+1.0	The Cup Final	have cost	lot	0	0

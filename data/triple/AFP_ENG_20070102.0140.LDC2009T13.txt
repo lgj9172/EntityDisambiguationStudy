@@ -1,0 +1,125 @@
+1.0	tie-up	be	unveil early year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government early last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government as means	0	0
+1.0	suez-gdf tie-up	be unveil at_time	year	0	DATE
+1.0	amf	be on	french	0	0
+1.0	company	have	energy asset	0	0
+1.0	suez-gdf tie-up	be	unveil by french government early last year as means	0	DATE
+1.0	tie-up	be unveil at_time	year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government early last year	0	DATE
+1.0	it	be issue after	Suez	0	ORGANIZATION
+1.0	it	be	issue	0	0
+1.0	suez-gdf tie-up	be	unveil last year as means	0	DATE
+1.0	initiative	have face	opposition	0	0
+1.0	suez-gdf tie-up	be	unveil by government early year	0	DATE
+1.0	French billionaire Francois Pinault	acquire	group call on stock market regulator amf	PERSON	0
+1.0	PPR	be luxury group of	Pinault	ORGANIZATION	PERSON
+1.0	Suez	merge with	gdf	ORGANIZATION	0
+1.0	tie-up	be	unveil by government early year	0	DATE
+0.164266332496663	Suez share	jump after	publication of communique	ORGANIZATION	0
+1.0	tie-up	be	unveil early last year as means	0	DATE
+1.0	initiative	have face	political opposition	0	0
+1.0	Suez	be set	merge	ORGANIZATION	0
+1.0	it	be	issue after Suez in face	0	ORGANIZATION
+1.0	company	have	energy assets	O	O
+1.0	suez-gdf tie-up	be	unveil by french government early year	0	DATE
+1.0	initiative	be affect by	outcome	0	0
+1.0	french magazine Capital	report at_time	week	ORGANIZATION	DATE
+1.0	tie-up	be	unveil by government last year as means	0	DATE
+1.0	The Wall Street Journal in its weekend edition	have	weekend edition	O	O
+0.8261183695294736	plan	create	french energy giant	0	0
+1.0	suez-gdf tie-up	be	unveil early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government year	0	DATE
+1.0	suez-gdf tie-up	be unveil by	government	0	0
+1.0	tie-up	be	unveil by french government last year as means	0	DATE
+0.8261183695294736	plan	create	energy giant	0	0
+1.0	Suez	be set	merge with gdf	ORGANIZATION	0
+1.0	tie-up	be	unveil by government early last year as means	0	DATE
+1.0	communique	have	publication	O	O
+1.0	initiative	be affect by	outcome of presidential election	0	0
+1.0	tie-up	be	unveil by government early year as means	0	DATE
+1.0	it	be issue in	face	0	0
+1.0	offer	have	possibility	O	O
+1.0	elections	have	outcome	O	O
+1.0	suez-gdf tie-up	be unveil at_time	last year	0	DATE
+1.0	Suez	be	set	ORGANIZATION	0
+1.0	tie-up	be unveil at_time	last year	0	DATE
+1.0	Suez share	jump	1.96 percent	ORGANIZATION	PERCENT
+1.0	French billionaire Francois Pinault	have	company	O	O
+1.0	tie-up	be	unveil by french government year as means	0	DATE
+1.0	French billionaire Francois Pinault	acquire	group call on french stock market regulator amf	PERSON	0
+1.0	suez-gdf tie-up	be	unveil year as means	0	DATE
+1.0	Wall Street Journal	be in	its weekend edition	ORGANIZATION	DATE
+1.0	magazine Capital	report at_time	last week	ORGANIZATION	DATE
+1.0	The Wall Street Journal in its weekend edition	have	merger	O	O
+1.0	tie-up	be	unveil last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil	0	0
+1.0	suez-gdf tie-up	be	unveil by government as means	0	0
+1.0	magazine Capital	report at_time	week	ORGANIZATION	DATE
+1.0	suez-gdf tie-up	be unveil at_time	early last year	0	DATE
+0.8261183695294736	government-backed plan	create	energy giant	0	0
+1.0	it	be	issue after Suez in face of report	0	ORGANIZATION
+1.0	Pinault	be in	early January	PERSON	DATE
+0.164266332496663	Suez share	jump after	publication	ORGANIZATION	0
+1.0	tie-up	be	unveil by government year as means	0	DATE
+1.0	suez-gdf tie-up	be unveil as	means	0	0
+1.0	tie-up	be	unveil by government last year	0	DATE
+1.0	tie-up	be	unveil by french government year	0	DATE
+1.0	its planned merger	be with	gdf	0	0
+1.0	tie-up	be	unveil by government early last year	0	DATE
+1.0	French billionaire Francois Pinault	acquire	group	PERSON	0
+1.0	Pinault	have	PPR	PERSON	ORGANIZATION
+0.8261183695294736	government-backed plan	create	french energy giant	0	0
+1.0	presidential election	be in	April	0	DATE
+1.0	tie-up	be	unveil by french government early last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil early year as means	0	DATE
+1.0	he	state	he intention	0	0
+1.0	suez-gdf tie-up	be unveil by	french government	0	0
+0.164266332496663	Suez share	jump by	Artemis	ORGANIZATION	ORGANIZATION
+1.0	tie-up	be unveil by	french government	0	0
+1.0	tie-up	be	unveil	0	0
+1.0	tie-up	be	unveil by french government early year as means	0	DATE
+1.0	Suez	have	shares	O	ORGANIZATION
+1.0	suez-gdf tie-up	be	unveil by french government last year as means	0	DATE
+1.0	euros	have	bid	O	MONEY
+1.0	tie-up	be unveil at_time	early last year	0	DATE
+1.0	Enel	be by	italian	ORGANIZATION	0
+1.0	tie-up	be	unveil by french government early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government early year as means	0	DATE
+1.0	suez-gdf tie-up	be unveil at_time	early year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government early year as means	0	DATE
+1.0	state-controlled GDF	have	privatisation	O	ORGANIZATION
+1.0	tie-up	be	unveil by french government early year	0	DATE
+1.0	Pinault 's luxury group PPR	control	Gucci fashion label	PERSON	ORGANIZATION
+1.0	suez-gdf tie-up	be	unveil by government last year	0	DATE
+1.0	tie-up	be unveil at_time	early year	0	DATE
+1.0	initiative	be affect by	outcome of election	0	0
+1.0	tie-up	be	unveil by french government as means	0	0
+1.0	suez-gdf tie-up	be	unveil by french government year	0	DATE
+1.0	tie-up	be unveil by	government	0	0
+0.5626812725178608	French billionaire Francois Pinault	be	interested	PERSON	0
+1.0	french magazine Capital	report at_time	last week	ORGANIZATION	DATE
+1.0	suez-gdf tie-up	be	unveil by french government year as means	0	DATE
+1.0	Francois Pinault	be	french	PERSON	0
+1.0	Suez	be set under	plan	ORGANIZATION	0
+1.0	tie-up	be	unveil by government as means	0	0
+1.0	initiative	be	affect	0	0
+1.0	French billionaire Francois Pinault	acquire	group call	PERSON	0
+1.0	tie-up	be	unveil by government year	0	DATE
+1.0	reports	have	face	O	O
+0.164266332496663	Suez share	jump to	40 euro	ORGANIZATION	MONEY
+1.0	initiative	be affect by	outcome of election in April	0	DATE
+1.0	Pinault	have	luxury group PPR	ORGANIZATION	PERSON
+1.0	it	be issue in	face of report	0	0
+1.0	tie-up	be	unveil by french government last year	0	DATE
+1.0	French billionaire Francois Pinault	have	intentions	O	O
+1.0	suez-gdf tie-up	be	unveil by government year as means	0	DATE
+1.0	option	remain	possible	0	0
+1.0	tie-up	be	unveil year as means	0	DATE
+1.0	tie-up	be unveil as	means	0	0
+1.0	Suez	be set under	government-backed plan	ORGANIZATION	0
+1.0	Capital	be	french	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election in April	0	DATE

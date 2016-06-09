@@ -1,0 +1,36 @@
+1.0	plan	be	present	0	0
+1.0	Denmark more ` green '	be	where world leader	LOCATION	0
+1.0	benefit	be	limit	0	0
+1.0	danish government	have	have oppose	0	0
+1.0	government	have	have oppose	0	0
+1.0	spokesman	tell	danish television TV2 News	0	ORGANIZATION
+1.0	environmental benefit	be	limit	0	0
+1.0	government	have	have until now oppose	0	DATE
+1.0	government	have	energy strategy	O	O
+1.0	centre-right government	of	long-term energy strategy	0	0
+1.0	danish government	have	have until now oppose	0	DATE
+1.0	Denmark more ` green '	have	dependence	O	O
+1.0	spokesman	tell	television TV2 News	0	ORGANIZATION
+1.0	plan	be due for	2025	0	DATE
+1.0	bio-ethanol	have	use	O	O
+1.0	Denmark more ` green '	reduce	its dependence	LOCATION	0
+1.0	spokesman	tell television tv2 news on	Thursday	0	DATE
+1.0	government	add	two percent bio-ethanol to petrol	0	PERCENT
+1.0	government	add	two bio-ethanol	0	PERCENT
+1.0	government	add	two percent bio-ethanol	0	PERCENT
+1.0	Denmark more ` green '	pursue	other alternative	LOCATION	0
+1.0	year	have	end	DATE	DATE
+1.0	Denmark more ` green '	pursue	alternative	LOCATION	0
+1.0	2007	have	end	DATE	DATE
+1.0	our	have	transport sector	O	O
+1.0	its	have	oil reserves	O	O
+1.0	generation bio-ethanol	have	use	O	O
+1.0	plan	be	present soon	0	0
+1.0	government	add	two bio-ethanol to petrol	0	PERCENT
+1.0	Denmark more ` green '	be	world leader	LOCATION	0
+1.0	plan	be	due	0	0
+1.0	energy strategy	have	part	O	O
+1.0	petrol	have	percent	PERCENT	O
+1.0	six percent	be in	2010	PERCENT	DATE
+1.0	bio-ethanol	have	generation	O	O
+1.0	bio-ethanol	be in	petrol	0	0

@@ -1,0 +1,56 @@
+0.4852203874174137	latest stab	end month of political paralysis in	Czech Republic	0	LOCATION
+1.0	opposition leader	reject	propose new government line-up	0	0
+1.0	government	have	30 day	0	DURATION
+1.0	failure	would pitch deeper	country	0	0
+1.0	stab	look in	trouble	0	0
+1.0	opposition leader	reject	propose government line-up	0	0
+1.0	your	have	government	O	O
+1.0	Vaclav Klaus	have approve	coalition government put	PERSON	0
+1.0	We	have	allies	O	O
+1.0	opposition leader	reject	government line-up	0	0
+1.0	Vaclav Klaus	have approve	coalition government put together by Topolanek	PERSON	PERSON
+1.0	Prime Minister Mirek Topolanek	say during	debate	PERSON	0
+0.4852203874174137	stab	end seven month of political paralysis in	Czech Republic	0	LOCATION
+1.0	Vaclav Klaus	have approve	coalition government	PERSON	0
+1.0	the Social Democrats	dominate since	June election	MISC	DATE
+0.4852203874174137	latest stab	end seven month of political paralysis in	Czech Republic	0	LOCATION
+1.0	second failure	would pitch country into	confusion	DURATION	0
+1.0	Prime Minister Mirek Topolanek	have	job	O	O
+1.0	Social Democrat leader Jiri Paroubek	have	party	O	O
+1.0	Topolanek	for	first attempt	PERSON	ORDINAL
+1.0	failure	would pitch country into	political confusion	0	0
+1.0	failure	would pitch country into	confusion	0	0
+1.0	We	have	hand	O	O
+1.0	latest stab	look in	trouble	0	0
+1.0	main opposition leader	reject	propose government line-up	0	0
+1.0	Prime Minister Mirek Topolanek	have	Civic Democrats	MISC	PERSON
+1.0	Vaclav Klaus	have approve	coalition government put by Topolanek	PERSON	PERSON
+1.0	Vaclav Klaus	have approve	coalition government put together	PERSON	0
+1.0	failure	would pitch country deeper into	political confusion	0	0
+0.7610549503042154	coalition government	put together by	Prime Minister Mirek Topolanek	0	PERSON
+1.0	the Social Democrats	dominate by	Civic Democrats of Prime Minister Mirek Topolanek	MISC	PERSON
+0.7610549503042154	coalition government	put by	Prime Minister Mirek Topolanek	0	PERSON
+1.0	Jiri Paroubek	be	the Social Democrats	PERSON	MISC
+1.0	second failure	would pitch deeper	country	DURATION	0
+1.0	second failure	would pitch country deeper into	political confusion	DURATION	0
+1.0	failure	would pitch	country	0	0
+1.0	second failure	would pitch country into	political confusion	DURATION	0
+1.0	100 seat	be in	200-seat czech parliament	NUMBER	0
+1.0	main opposition leader	reject	government line-up	0	0
+1.0	opposition leader	reject	new government line-up	0	0
+1.0	new government	have	30 day	0	DURATION
+1.0	the Social Democrats	dominate by	Civic Democrats	MISC	MISC
+1.0	Vaclav Klaus	have approve coalition government on	Tuesday Czech President	PERSON	MISC
+1.0	main opposition leader	reject	new government line-up	0	0
+1.0	main opposition leader	reject	propose new government line-up	0	0
+1.0	Topolanek	have	attempt	O	PERSON
+1.0	We	have	government	O	O
+1.0	second failure	would pitch	country	DURATION	0
+1.0	Vaclav Klaus	raise	hope	PERSON	0
+1.0	failure	would pitch country deeper into	confusion	0	0
+1.0	stab	look in	trouble on Wednesday	0	DATE
+1.0	paralysis	have	months	DURATION	O
+0.4852203874174137	stab	end month of political paralysis in	Czech Republic	0	LOCATION
+1.0	latest stab	look in	trouble on Wednesday	0	DATE
+1.0	second failure	would pitch country deeper into	confusion	DURATION	0
+1.0	honest role	be in	opposition	0	0

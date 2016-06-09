@@ -1,0 +1,30 @@
+1.0	Pope Benedict XVI	call at_time	Monday	PERSON	DATE
+1.0	world	have	parts	O	O
+1.0	Saint Peter	have	Basilica	O	PERSON
+1.0	Pope Benedict XVI	call during	he year 's day mass at Saint Peter 's basilica	PERSON	DATE
+1.0	peoples	have	serenity	O	O
+0.6433284899835399	Pope Benedict XVI	refer to	scene of shepherd of Bethlehem	0	LOCATION
+1.0	shepherds	have	scene	O	O
+1.0	opinion	have	much	O	O
+1.0	Pope Benedict XVI	call in	Middle East embroil	PERSON	LOCATION
+1.0	terrorism	have	danger	O	O
+1.0	Pope Benedict XVI	call during	he new year 's day mass	PERSON	DATE
+1.0	Pope Benedict XVI	call for	peace accord	PERSON	0
+1.0	peace accord	rest on	respect	0	0
+1.0	Year	have	Day mass	O	DATE
+1.0	peace accord	rest on	respect for dignity	0	0
+1.0	Pope Benedict XVI	call during	he year 's day mass	PERSON	DATE
+1.0	threats	have	face	O	O
+1.0	situations	have	face	O	O
+1.0	violence	have	situations	O	O
+1.0	Peter	at	basilica	PERSON	0
+1.0	Jesus in the manger	be in	manger	PERSON	0
+1.0	person	have	rights	O	O
+1.0	Pope Benedict XVI	call during	he new year 's day mass at Saint Peter 's basilica	PERSON	DATE
+1.0	injustice	have	situations	O	O
+0.6433284899835399	Pope Benedict XVI	refer to	scene of shepherd	0	0
+1.0	peace	have	day	DATE	O
+0.6433284899835399	Pope Benedict XVI	refer to	scene	0	0
+1.0	Pope Benedict XVI	call in	Middle East	PERSON	LOCATION
+1.0	Pope Benedict XVI	have	Year	DATE	O
+1.0	Bethlehem	have	shepherds	O	LOCATION

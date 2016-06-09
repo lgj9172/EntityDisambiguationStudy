@@ -1,0 +1,42 @@
+1.0	2005	have	half	DATE	DATE
+1.0	number	fall in	second half	0	DATE
+1.0	circulation	have	pulled	O	O
+1.0	banknote	be	note	0	0
+1.0	banknote	be	widely forge note	0	0
+1.0	number	fall slightly in	second half of 2006	0	DATE
+1.0	note	account for	31 percent of forgery	0	PERCENT
+1.0	50-euro note	now account for	31 percent of forgery	0	PERCENT
+1.0	number	fall in	half	0	DATE
+0.817757012400236	slightly	level of	counterfeiting	0	0
+1.0	datum	show on	Friday	0	DATE
+1.0	20-euro banknote	be	note	0	0
+1.0	banknote	be	most widely forge note	0	0
+1.0	number	fall in	second half of 2006	0	DATE
+1.0	number	fall slightly in	half	0	DATE
+1.0	number	fall in	half of 2006	0	DATE
+0.8246114161877479	datum	publish by	Central Bank	0	ORGANIZATION
+1.0	20-euro banknote	be	most forge note	0	0
+1.0	2006	have	half	DATE	DATE
+1.0	number	fall slightly in	second half	0	DATE
+1.0	note	now account for	31 percent of forgery	0	PERCENT
+1.0	counterfeit euro banknotes	have	number	O	O
+1.0	banknotes	have	number	O	O
+1.0	euro	have	guardian	O	O
+0.8246114161877479	datum	publish by	european Central Bank	0	ORGANIZATION
+1.0	counterfeiting	have	level	O	O
+1.0	counterfeit euro banknote	be in	circulation	0	0
+1.0	20-euro banknote	be	most widely forge note	0	0
+1.0	ECB	say in	statement	ORGANIZATION	0
+1.0	banknote	be	forge note	0	0
+1.0	note	now account for	31 percent	0	PERCENT
+1.0	50-euro note	account for	31 percent	0	PERCENT
+1.0	50-euro note	now account for	31 percent	0	PERCENT
+1.0	20-euro banknote	be	forge note	0	0
+1.0	note	account for	31 percent	0	PERCENT
+1.0	banknote	be	most forge note	0	0
+1.0	increase	have	context	O	O
+1.0	counterfeits	have	percent	PERCENT	O
+1.0	number	fall slightly in	half of 2006	0	DATE
+1.0	forgeries	have	percent	PERCENT	O
+1.0	50-euro note	account for	31 percent of forgery	0	PERCENT
+1.0	20-euro banknote	be	widely forge note	0	0

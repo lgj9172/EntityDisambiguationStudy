@@ -1,0 +1,66 @@
+1.0	he airline	sign contract on	50 more	0	NUMBER
+1.0	16 million passenger	be in	the financial year	NUMBER	DATE
+1.0	Fernandes	bring	budget air travel	PERSON	0
+1.0	AirAsia	have	50 plane fly to Malaysia Vietnam	ORGANIZATION	NUMBER
+1.0	we	be	airline in Asia by passenger size	0	LOCATION
+1.0	world	have	airline	O	O
+1.0	we	be	world 's largest airline	0	DURATION
+1.0	he airline	sign	contract	0	0
+0.4933876971418659	50 plane	fly to	Malaysia Vietnam	NUMBER	LOCATION
+1.0	his	have	dream	O	O
+1.0	AirAsia	have	50 plane	ORGANIZATION	NUMBER
+1.0	will world 's largest airline	be with	50 million passenger	DURATION	NUMBER
+1.0	Fernandes	bring budget air travel with	he low cost formula	PERSON	0
+1.0	he	surprise aviation industry at_time	Friday	0	DATE
+1.0	Fernandes	bring budget air travel with	he cost formula	PERSON	0
+1.0	he airline	sign contract for	50 Airbus a320 jet	0	NUMBER
+1.0	today newspaper	quote	he	0	0
+1.0	Singapore	quote	Tony Fernandes	LOCATION	PERSON
+1.0	we	be	airline	0	0
+1.0	airline	will	will operate	0	0
+1.0	he airline	sign contract for	50 medium-range Airbus a320 jet	0	NUMBER
+1.0	Fernandes	bring budget air travel to	Southeast Asia	PERSON	LOCATION
+1.0	Vietnam	be to	Malaysia	LOCATION	LOCATION
+1.0	airline	will	will operate by malaysian carrier	0	0
+1.0	I	be convince within	seven year	0	DURATION
+1.0	Singapore Airlines	report in	October	ORGANIZATION	DATE
+1.0	its	have	year	DATE	O
+1.0	he	surprise	aviation industry	0	0
+1.0	we	be	largest airline in Asia by passenger size	0	LOCATION
+1.0	world	have	airline group	O	O
+1.0	The founder of the Malaysia-based airline , Tony Fernandes	have	airline	O	O
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	airline	have	founder	O	O
+1.0	we	be	world 's largest airline with 50 million passenger	0	NUMBER
+1.0	he airline	sign contract at_time	Monday	0	DATE
+1.0	AirAsia	surpass sia pacific in	passenger number	ORGANIZATION	0
+1.0	we	be largest airline by	passenger size	0	0
+1.0	Business Times	quote	Tony Fernandes	ORGANIZATION	PERSON
+1.0	I	be convince within	next seven year	0	DURATION
+1.0	I	be	convince	0	0
+1.0	Fernandes	be	quote	PERSON	0
+1.0	AirAsia	surpass	SIA Pacific	ORGANIZATION	ORGANIZATION
+1.0	Fernandes	bring budget air travel with	he short-haul low cost formula	PERSON	0
+1.0	we	be	world 's airline with 50 million passenger	0	NUMBER
+1.0	we	be	largest airline	0	0
+1.0	we	be	Qantas	0	ORGANIZATION
+1.0	Fernandes	say in	November	PERSON	DATE
+1.0	Fernandes	bring budget air travel with	he short-haul cost formula	PERSON	0
+1.0	his	have	cost formula	O	O
+1.0	Singapore Airlines	be than	asian	ORGANIZATION	0
+1.0	we	be airline in	Southeast Asia	0	LOCATION
+1.0	year	have	half	O	DURATION
+1.0	would largest airline	be in	Southeast Asia	0	LOCATION
+1.0	we	be largest airline in	Southeast Asia	0	LOCATION
+1.0	we	be airline by	passenger size	0	0
+1.0	we	be	world 's airline	0	DURATION
+1.0	he	announce	new budget airline	0	0
+1.0	passenger carriage	have	terms	O	O
+1.0	AirAsia	have	50 plane fly	ORGANIZATION	NUMBER
+1.0	airline	will	will operate by carrier	0	0
+1.0	he	announce budget airline for	long	0	0
+1.0	Singapore Airlines	be by	next year	ORGANIZATION	DATE
+1.0	operation	have	year	DATE	O
+1.0	he	surprise aviation industry at_time	last Friday	0	DATE
+1.0	world	have	biggest airline group	0	0
+1.0	he	announce	budget airline	0	0

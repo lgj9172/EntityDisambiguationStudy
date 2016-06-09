@@ -1,0 +1,19 @@
+1.0	state press	report at_time	Friday	DURATION	DATE
+1.0	children	have	murder	O	O
+1.0	Laijiti , from the Uighur ethnic Muslim minority	have	grades	O	O
+1.0	China	have	Xinjiang region	O	LOCATION
+1.0	Laijiti , from the Uighur ethnic Muslim minority	blame school for	tragedy	PERSON	0
+1.0	Laijiti 's son	have	sister	O	O
+1.0	Urumqi	capital of	China 's Xinjiang region	LOCATION	LOCATION
+1.0	Laijiti , from the Uighur ethnic Muslim minority	blame	school	PERSON	0
+1.0	Laijiti , from the Uighur ethnic Muslim minority	take	revenge	PERSON	0
+1.0	Laijiti	have	son	PERSON	0
+1.0	he older sister	be in	school yard	0	DURATION
+1.0	his son	have	son	O	O
+1.0	Laijiti	have	son	O	PERSON
+1.0	Xinjiang region	have	capital	O	O
+1.0	the primary school	accept	paper add	0	0
+1.0	his son	have	sister	O	O
+1.0	two child	be in	revenge attack at chinese school	NUMBER	DURATION
+1.0	intermediate court	be in	Urumqi	0	LOCATION
+1.0	China	of	Xinjiang region	LOCATION	LOCATION

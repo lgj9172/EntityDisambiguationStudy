@@ -1,0 +1,69 @@
+1.0	five employee	be	arrest	NUMBER	0
+1.0	two Iranians	be later handed over	over official	NUMBER	0
+1.0	agent	foment	unrest	0	0
+1.0	iranian diplomat	say on	condition of anonymity	0	0
+1.0	US troops	have	pressure	O	O
+1.0	employee	be	during which arrest	0	0
+1.0	unrest	be in	Iraq 's	0	LOCATION
+1.0	weapons smuggling	have	suspicion	O	O
+1.0	Iranians	be handed over	over official in Baghdad	MISC	LOCATION
+1.0	two Iranians	be later handed over	over iranian official in Baghdad	NUMBER	LOCATION
+1.0	two Iranians	be later handed over	over iranian official	NUMBER	0
+1.0	Mohammad Ali Hosseini	be	iranian	PERSON	0
+1.0	Iranians	be handed over	over iranian official in Baghdad	MISC	LOCATION
+1.0	iranian ministry spokesman Mohammad Ali Hosseini	tell	state run radio	PERSON	0
+1.0	two Iranians	be	later handed	NUMBER	0
+1.0	Iranians	be handed over	over iranian official	MISC	0
+1.0	Iran	be on	Thursday	LOCATION	DATE
+1.0	Iranians	be later handed over	over iranian official	MISC	0
+1.0	agent	order	attack	0	0
+1.0	diplomat	say on	condition	0	0
+1.0	Iranians	be later handed over	over official in Baghdad	MISC	LOCATION
+1.0	diplomat	say on	condition of anonymity	0	0
+1.0	agent	order attack on	force	0	0
+1.0	Iranians	be	later handed	MISC	0
+1.0	two Iranians	be handed over	over iranian official	NUMBER	0
+1.0	raid	have	said	O	O
+1.0	six arrest	be in	Arbil	NUMBER	LOCATION
+1.0	Iraq	among	neighbor	LOCATION	0
+1.0	iranian agent	order attack on	force	0	0
+1.0	raid	be in	Baghdad	0	LOCATION
+1.0	iranian consulate	be in	northern iraqi city of Arbil	0	LOCATION
+1.0	US military spokesman	say on	December 27	LOCATION	DATE
+1.0	Iranians	be later handed over	over iranian official in Baghdad	MISC	LOCATION
+1.0	over iranian official	be in	Baghdad	0	LOCATION
+1.0	iranian diplomat	say on	condition	0	0
+1.0	US military	be in	Iraq 's	LOCATION	LOCATION
+1.0	two Iranians	be handed over	over official	NUMBER	0
+1.0	iranian agent	order	attack	0	0
+1.0	iranian diplomat	be in	Baghdad	0	LOCATION
+1.0	Iranians	be later handed over	over official	MISC	0
+1.0	agent	foment	unrest in Iraq	0	LOCATION
+1.0	Iraq	have	neighbors	O	LOCATION
+1.0	iranian agent	foment	unrest	0	0
+1.0	Iran	condemn raid as	provocative	LOCATION	0
+1.0	iranian consulate building	be in	Arbil	0	LOCATION
+1.0	two Iranians	be later handed over	over official in Baghdad	NUMBER	LOCATION
+1.0	five employee	be	during which arrest	NUMBER	0
+1.0	employee	be	arrest	0	0
+1.0	Iraq	of	autonomous kurdish region	LOCATION	0
+1.0	iranian agent	order attack on	american force	0	0
+1.0	agent	order attack on	american force	0	0
+1.0	iranian agent	foment	unrest in Iraq	0	LOCATION
+1.0	ministry spokesman Mohammad Ali Hosseini	tell	state run radio	PERSON	0
+1.0	two Iranians	be handed over	over iranian official in Baghdad	NUMBER	LOCATION
+1.0	foreign ministry spokesman Mohammad Ali Hosseini	tell	state run radio	PERSON	0
+1.0	Iranians	be	handed	MISC	0
+0.7193811984153091	iranian agent	unrest in	Iraq 's	0	LOCATION
+1.0	US spokesman	say on	December 27	LOCATION	DATE
+1.0	Iranians	be handed over	over official	MISC	0
+1.0	iranian foreign ministry spokesman Mohammad Ali Hosseini	tell	state run radio	PERSON	0
+1.0	Iraq	have	region	O	LOCATION
+1.0	two Iranians	be handed over	over official in Baghdad	NUMBER	LOCATION
+1.0	The US military in Iraq	have	forces	O	O
+1.0	two Iranians	be	handed	NUMBER	0
+1.0	this	be	provocative	0	0
+0.7193811984153091	agent	unrest in	Iraq 's	0	LOCATION
+1.0	Arbil	have	city	O	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	region	have	capital	O	O

@@ -1,0 +1,9 @@
+1.0	last stronghold	be under	now government control	0	DATE
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	stronghold	be under	government control	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	confirm on	Monday	PERSON	DATE
+1.0	stronghold	be under	now government control	0	DATE
+1.0	fighters	have	stronghold	O	O
+1.0	Kismayo	be in	Somalia	LOCATION	MISC
+1.0	last stronghold	be under	government control	0	0
+1.0	last stronghold	kismayo in	Somalia	0	MISC

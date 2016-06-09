@@ -1,0 +1,45 @@
+0.14059619431790493	let	allow	treat like animal	0	0
+1.0	sundry	have	passengers	O	O
+1.0	nigerian government	warn british airways at_time	Friday	0	DATE
+1.0	some Nigerian passengers	have	flights	O	O
+1.0	some Nigerian passengers	be	airborne	0	0
+1.0	airline	treat	Nigerians	0	MISC
+1.0	aviation minister	have	office	O	O
+1.0	government	warn british airways against	treatment of nigerian passenger	0	0
+1.0	aviation minister	from	office	0	0
+1.0	nigerian government	warn british airways against	allege treatment of nigerian passenger	0	0
+0.14059619431790493	let	allow	treat	0	0
+1.0	government	warn british airways against	treatment	0	0
+1.0	some Nigerian passengers	be on	they flight	0	0
+1.0	maltreatment	have	kind	O	O
+1.0	nigerian government	threaten	airline	0	0
+1.0	let	allow	we people	0	0
+1.0	carriers	have	ground	O	O
+0.14059619431790493	let	allow	treat like animal by anybody	0	0
+1.0	government	warn british airways against	allege treatment of passenger	0	0
+1.0	government	warn british airways against	allege treatment of nigerian passenger	0	0
+1.0	nigerian government	threaten airline with	possible sanction	0	0
+1.0	carriers	have	people	O	O
+1.0	government	warn british airways against	allege treatment	0	0
+1.0	nigerian government	warn british airways against	treatment	0	0
+1.0	we people	be	treat	0	0
+1.0	nigerian government	warn british airways against	allege treatment	0	0
+1.0	some Nigerian passengers	be	when airborne	0	0
+1.0	passengers	have	treatment	O	O
+0.9769834287894724	specify	kind of	maltreatment	0	0
+1.0	government	have	attention	O	O
+1.0	nigerian government	warn british airways against	treatment of passenger	0	0
+1.0	government	threaten	airline	0	0
+1.0	government	warn	British Airways	0	ORGANIZATION
+1.0	government	threaten airline with	possible sanction	0	0
+1.0	some Nigerian passengers	be on	when they flight	0	0
+1.0	nigerian government	warn british airways against	treatment of nigerian passenger	0	0
+1.0	we people	be treat like	animal by anybody	0	0
+1.0	government	warn british airways at_time	Friday	0	DATE
+1.0	government	to	attention in	0	0
+1.0	two airline	treat	Nigerians	NUMBER	MISC
+1.0	nigerian government	warn british airways against	allege treatment of passenger	0	0
+1.0	government	warn british airways against	treatment of passenger	0	0
+1.0	we people	be treat like	animal	0	0
+1.0	nigerian government	warn	British Airways	0	ORGANIZATION
+1.0	some Nigerian passengers	flight	both	0	0

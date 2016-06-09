@@ -1,0 +1,41 @@
+1.0	ally	be in	region	0	0
+1.0	Pentagon	have	assertion	O	ORGANIZATION
+1.0	strike	be in	Somalia	0	LOCATION
+1.0	Whitman	press on	report	PERSON	0
+1.0	Whitman	press from	Somalia	PERSON	MISC
+1.0	Whitman	identify	target of attack	PERSON	0
+1.0	our	have	allies	O	O
+1.0	we	recognize	importance	0	0
+1.0	that	have	example	O	O
+1.0	acts	have	perpetrators	O	O
+1.0	Bryan Whitman	be spokesman of	the Pentagon 's	PERSON	ORGANIZATION
+1.0	principal Al-Qaeda leadership	be in	area	MISC	0
+1.0	we	recognize	importance work with we ally	0	0
+1.0	attack	have	targets	O	O
+1.0	Bryan Whitman	be	the Pentagon 's	PERSON	ORGANIZATION
+1.0	discrepancy	could	could explain	0	0
+1.0	Whitman	precisely identify	target	PERSON	0
+1.0	Whitman	precisely identify	target of attack	PERSON	0
+0.9047104581326322	helicopter gunship	somalia of	second attack	0	DURATION
+1.0	Sunday	have	US air strike	O	DATE
+1.0	we	recognize	importance work	0	0
+1.0	attack	have	Somalia	LOCATION	O
+1.0	strike	have	target	O	O
+1.0	US	conduct	we operation in close cooperation	LOCATION	0
+0.8984735911953804	US Air Force ac-130	fix	wing gunship	ORGANIZATION	0
+1.0	US Air Force ac-130	conduct air strike in	Somalia Sunday	ORGANIZATION	LOCATION
+1.0	our	have	operations	O	O
+1.0	US military	conduct	we operation in close cooperation	LOCATION	0
+1.0	US Air Force ac-130	conduct air strike against	Al-Qaeda leader	ORGANIZATION	MISC
+1.0	US Air Force ac-130	conduct air strike in	southern Somalia Sunday	ORGANIZATION	LOCATION
+1.0	US Air Force ac-130	conduct	air strike	ORGANIZATION	0
+1.0	discrepancy	could	could explain by difference in time zone	0	0
+1.0	Pentagon	have	assertion	ORGANIZATION	0
+1.0	discrepancy	could	could explain by difference	0	0
+1.0	Whitman	press from	Somalia of second attack	PERSON	DURATION
+1.0	Whitman	press from	Somalia of attack	PERSON	MISC
+1.0	difference	be in	time zone	0	0
+1.0	Whitman	identify	target	PERSON	0
+1.0	US	conduct	operation in close cooperation	LOCATION	0
+1.0	Pentagon spokesman	confirm at_time	Tuesday	ORGANIZATION	DATE
+1.0	US military	conduct	operation in close cooperation	LOCATION	0

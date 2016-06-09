@@ -1,0 +1,54 @@
+1.0	Russia	resume	pump through Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	Claude Mandil	be	International Energy Agency	PERSON	ORGANIZATION
+1.0	Europeans	find	those responsible	MISC	0
+1.0	Russia	pump through	friendship	LOCATION	0
+1.0	Russia	have	neighbour	O	O
+1.0	Belarus	across pipeline be	friendship	LOCATION	0
+1.0	shut-down	be	incident	0	0
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction against those responsible	0	0
+1.0	talk	be with	International Energy Agency chief Claude Mandil	0	PERSON
+1.0	International Energy Agency chief Claude Mandil	urge russia on	Thursday	ORGANIZATION	DATE
+1.0	International Energy Agency chief Claude Mandil	raise	possibility	0	0
+1.0	incident	destroy	confidence	0	0
+1.0	International Energy Agency chief Claude Mandil	raise possibility for	incident	0	0
+1.0	incident	destroy confidence as	energy supplier	0	0
+1.0	transparent behaviour	be in	the future	0	DATE
+1.0	sanctions	have	possibility	O	O
+1.0	Jose Manuel Barroso	be chief of	European Commission	PERSON	ORGANIZATION
+1.0	Claude Mandil	be chief of	International Energy Agency	PERSON	ORGANIZATION
+1.0	Russia	pump early through	Druzhba pipeline	LOCATION	0
+1.0	Russia	resume	pump through Druzhba pipeline	LOCATION	0
+1.0	Russia	resume	pump early	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell	AFP	0	ORGANIZATION
+1.0	Andris Pielbalgs	be with	EU Energy	PERSON	ORGANIZATION
+1.0	Russia	pump early through	Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	International Energy Agency chief Claude Mandil	compare	situation	0	0
+1.0	the shut-down of the Druzhba oil pipeline	should draw	clear lesson	0	0
+1.0	Druzhba oil pipeline	have	shut-down	O	O
+1.0	German Chancellor Angela Merkel and European Commission chief Jose Manuel Barroso	have	energy relationship	O	O
+1.0	incident	destroy	confidence in Russia	0	LOCATION
+1.0	incident	destroy confidence to	EU	0	ORGANIZATION
+1.0	the shut-down of the Druzhba oil pipeline	should draw	lesson	0	0
+1.0	confidence	be in	Russia	0	LOCATION
+1.0	Russia	resume	pump through Druzhba pipeline across Belarus early	LOCATION	LOCATION
+0.6338313721679163	incident	confidence in	Russia	0	LOCATION
+1.0	Russia	resume	pump	LOCATION	0
+1.0	Russia	pump through	Druzhba pipeline across Belarus	LOCATION	LOCATION
+1.0	talk	be with	Andris Pielbalgs	0	PERSON
+1.0	Jose Manuel Barroso	be	European Commission	PERSON	ORGANIZATION
+1.0	International Energy Agency chief Claude Mandil	urge	Russia	ORGANIZATION	LOCATION
+1.0	shut-down	be	grave	0	0
+1.0	Chancellor Angela Merkel	warn	European Commission chief Jose Manuel Barroso	PERSON	PERSON
+1.0	shut-down	be	grave incident	0	0
+1.0	german Chancellor Angela Merkel	warn	European Commission chief Jose Manuel Barroso	PERSON	PERSON
+1.0	Andris Pielbalgs	be commissioner of	EU Energy	PERSON	ORGANIZATION
+1.0	Russia	resume	pump through Druzhba pipeline early	LOCATION	0
+1.0	what	have	consist	O	O
+1.0	International Energy Agency chief Claude Mandil	tell afp after	talk	0	0
+1.0	Russia	pump through	Druzhba pipeline	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell afp after	talk with EU Energy Commissioner Andris Pielbalgs	0	PERSON
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction against those	0	0
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	Russia	pump early through	friendship	LOCATION	0
+1.0	International Energy Agency chief Claude Mandil	tell afp in	Brussels	0	LOCATION
+1.0	International Energy Agency chief Claude Mandil	raise	possibility of sanction	0	0

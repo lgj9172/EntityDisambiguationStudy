@@ -1,0 +1,4 @@
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	effort	have	part	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	George W. Bush	be on	Wednesday	PERSON	DATE

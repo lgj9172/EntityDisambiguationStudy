@@ -1,0 +1,33 @@
+1.0	country	join	European Union	0	ORGANIZATION
+1.0	Bulgaria 's	become on	January 1	LOCATION	DATE
+1.0	Bulgaria 's	have	finance ministry	O	LOCATION
+1.0	bloc	have	member	O	O
+1.0	euro	be in	2009	0	DATE
+1.0	10 country	join	European Union	NUMBER	ORGANIZATION
+1.0	Bulgaria 's	member of	bloc	LOCATION	0
+1.0	it	miss	2004 wave	0	DATE
+1.0	Bulgaria 's central bank	pay	its first contribution	0	ORDINAL
+1.0	Bulgaria 's	officially join european union on	January 1	LOCATION	DATE
+1.0	Bulgaria 's	join	European Union	LOCATION	ORGANIZATION
+1.0	Bulgaria 's	become	member of bloc	LOCATION	0
+1.0	Bulgaria 's central bank	pay	its contribution	0	0
+1.0	enlargement	have	missed	O	O
+1.0	the ECB	have	capital	O	ORGANIZATION
+1.0	Bulgaria 's central bank	have	contribution	O	O
+1.0	Central Bank	have	capital	O	ORGANIZATION
+1.0	Bulgaria 's	become along	member of bloc	LOCATION	0
+1.0	Bulgaria 's finance ministry	adopt	euro in 2009	LOCATION	DATE
+1.0	Bulgaria 's bank	announce at_time	Wednesday	LOCATION	DATE
+1.0	euros	have	percent	PERCENT	MONEY
+1.0	Bulgaria 's	have	central bank	LOCATION	0
+1.0	Bulgaria 's	join european union on	January 1	LOCATION	DATE
+1.0	Bulgaria 's	have	finance ministry	LOCATION	0
+1.0	Bulgaria 's	become along	member	LOCATION	0
+1.0	Bulgaria 's	become	member	LOCATION	0
+1.0	Bulgaria 's finance ministry	adopt	euro	LOCATION	0
+1.0	Bulgaria 's	become along on	January 1	LOCATION	DATE
+1.0	Bulgaria 's	have	bank	O	LOCATION
+1.0	bank	say in	statement	0	0
+1.0	Bulgaria 's	officially join	European Union	LOCATION	ORGANIZATION
+1.0	it	miss	2004 big-bang wave	0	DATE
+1.0	Bulgaria 's central bank	announce at_time	Wednesday	LOCATION	DATE

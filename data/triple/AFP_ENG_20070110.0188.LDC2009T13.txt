@@ -1,0 +1,58 @@
+1.0	world	of	busiest seaway	0	0
+1.0	US Navy submarine USS Newport News	collide in	one world 's seaway	ORGANIZATION	NUMBER
+1.0	japanese commercial tanker	be in	Arabian Sea	0	0
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	one world 's seaway	ORGANIZATION	NUMBER
+1.0	US Navy nuclear-powered submarine USS Newport News	collide with	Mogamigawa tanker late Monday	ORGANIZATION	DATE
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	one of world 's busiest seaway	ORGANIZATION	LOCATION
+0.6508085145420899	tanker	hole of	of 10 centimeter	0	NUMBER
+1.0	Chief Cabinet Secretary Yasuhisa Shiozaki	say at	press conference	PERSON	0
+1.0	United States	fully investigate	cause of collision between US nuclear submarine	LOCATION	LOCATION
+1.0	United States	investigate	cause of collision between US submarine	LOCATION	LOCATION
+1.0	world	have	seaways	O	O
+1.0	United States	investigate	cause of collision	LOCATION	0
+1.0	ship	's owner be	Kawasaki Kisen Kaisha	0	ORGANIZATION
+1.0	a Japanese commercial tanker in the Arabian Sea	be	temporarily repair	0	0
+1.0	japanese government	urge united states at_time	Wednesday	0	DATE
+1.0	US Navy submarine USS Newport News	collide in	Strait of Hormuz	ORGANIZATION	LOCATION
+1.0	United States	fully investigate	cause of collision between US submarine	LOCATION	LOCATION
+1.0	United States	fully investigate	cause of collision	LOCATION	0
+1.0	tanker	suffer hole on	bottom	0	0
+1.0	tanker	suffer hole by	35 centimeter	0	NUMBER
+1.0	tanker	suffer hole on	bottom of ballast tank	0	0
+1.0	tanker	suffer	hole	0	0
+1.0	United States	investigate	cause	LOCATION	0
+1.0	Chief Cabinet Secretary Yasuhisa Shiozaki	say at	regular press conference	PERSON	0
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	Strait of Hormuz	ORGANIZATION	LOCATION
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	the Arabian Sea	ORGANIZATION	LOCATION
+1.0	ballast tank	have	bottom	O	O
+1.0	government	urge united states at_time	Wednesday	0	DATE
+1.0	US Navy nuclear-powered submarine USS Newport News	collide with	Mogamigawa tanker	ORGANIZATION	LOCATION
+1.0	US Navy submarine USS Newport News	collide in	the Arabian Sea	ORGANIZATION	LOCATION
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	one of world 's seaway	ORGANIZATION	LOCATION
+1.0	the Arabian Sea	one of	world 's busiest seaway	LOCATION	0
+1.0	US Navy submarine USS Newport News	collide in	one of world 's seaway	ORGANIZATION	LOCATION
+1.0	United States	fully investigate	cause	LOCATION	0
+1.0	government	urge	United States	0	LOCATION
+1.0	ship	have	owner	O	O
+1.0	ship	have	owner	0	0
+1.0	US Navy nuclear-powered submarine USS Newport News	collide with	Mogamigawa tanker Monday	ORGANIZATION	LOCATION
+1.0	tanker	have	cause	O	O
+0.6508085145420899	tanker	hole of	four inch	0	NUMBER
+1.0	US Navy submarine USS Newport News	collide in	one world 's busiest seaway	ORGANIZATION	NUMBER
+1.0	United States	investigate	cause of collision between US nuclear submarine	LOCATION	LOCATION
+1.0	collision	have	cause	O	O
+1.0	US Navy submarine USS Newport News	collide with	Mogamigawa tanker	ORGANIZATION	LOCATION
+1.0	tanker	suffer	hole of about 10 centimeter	0	NUMBER
+1.0	a Japanese commercial tanker in the Arabian Sea	be	repair	0	0
+1.0	US Navy submarine USS Newport News	collide in	one of world 's busiest seaway	ORGANIZATION	LOCATION
+1.0	ministry	say in	statement	0	0
+1.0	USS Newport News	be	US Navy	ORGANIZATION	ORGANIZATION
+1.0	tanker	suffer hole by	14 inch	0	NUMBER
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	Strait	ORGANIZATION	LOCATION
+1.0	US Navy submarine USS Newport News	collide with	Mogamigawa tanker Monday	ORGANIZATION	LOCATION
+1.0	US Navy submarine USS Newport News	collide with	Mogamigawa tanker late Monday	ORGANIZATION	DATE
+1.0	US Navy submarine USS Newport News	collide in	Strait	ORGANIZATION	LOCATION
+1.0	japanese government	urge	United States	0	LOCATION
+1.0	seaways	have	one	NUMBER	O
+1.0	Hormuz	have	Strait	LOCATION	LOCATION
+1.0	US Navy nuclear-powered submarine USS Newport News	collide in	one world 's busiest seaway	ORGANIZATION	NUMBER

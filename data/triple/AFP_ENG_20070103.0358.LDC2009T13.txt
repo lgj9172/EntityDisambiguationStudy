@@ -1,0 +1,61 @@
+1.0	Land Rover	be	Ford group 's brand	0	ORGANIZATION
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be year in	row of higher car sale	0	DURATION
+1.0	focus sedan/hatchback	be	Ford 's car	MISC	ORGANIZATION
+0.8548731895925794	14.3	sale of	its profitable pickup truck	NUMBER	0
+1.0	Land Rover	post sale with	rise of 3.5 percent	0	PERCENT
+1.0	F-series	remain	Ford 's most popular truck	MISC	ORGANIZATION
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be year in	row of car sale	0	DURATION
+1.0	focus sedan/hatchback	be	Ford 's best-selling car	MISC	ORGANIZATION
+1.0	company	stress in	statement	DURATION	DURATION
+1.0	aging Taurus	have	ahead	O	O
+1.0	Ford	have	cars	O	ORGANIZATION
+1.0	F-series	remain at	just over 796,000	MISC	NUMBER
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be second year in	row of car sale	0	DURATION
+1.0	Ford group	have	brand	O	O
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be	second year	0	DURATION
+1.0	Ford 's best-selling car	be in	2006	ORGANIZATION	DATE
+1.0	December	have	year	DURATION	O
+1.0	Land Rover	post	sale	0	0
+1.0	177,000 unit	ahead of	aging Taurus	NUMBER	0
+1.0	pickup trucks	have	sales	O	O
+1.0	Ford	have	most popular truck	ORGANIZATION	0
+1.0	F-series	remain	Ford 's truck	MISC	ORGANIZATION
+0.6033676558348405	on-year sale	plummet	13 percent	DURATION	PERCENT
+1.0	percent	have	rise	O	PERCENT
+0.28627611980559997	sale	rise over	year	0	DATE
+0.6033676558348405	sale	plummet	13 percent	0	PERCENT
+0.6033676558348405	sale	plummet	13 percent to 233,621 unit	0	PERCENT
+1.0	Ford	of	car	ORGANIZATION	0
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be second year in	row	0	DURATION
+1.0	sale performance	be in	2006	0	DATE
+1.0	its year	have	pickup trucks	O	O
+1.0	sale	rise	5.4 percent	0	PERCENT
+1.0	Ford	have	car	O	ORGANIZATION
+1.0	US auto giant Ford Motor Co.	have	operations	O	O
+1.0	Land Rover	post sale in	2006	0	DATE
+1.0	Ford Motor Co.	be	US	ORGANIZATION	LOCATION
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be second year in	row of higher car sale	0	DURATION
+1.0	Land Rover	post	higher sale	0	0
+1.0	car sales	have	row	DURATION	O
+1.0	Ford Motor Co.	be auto giant of	US	ORGANIZATION	LOCATION
+1.0	F-series	remain	Ford 's popular truck	MISC	ORGANIZATION
+1.0	Land Rover	be	Ford group 's only brand	0	ORGANIZATION
+1.0	Ford	have	truck	O	ORGANIZATION
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be year in	row	0	DURATION
+1.0	focus sedan/hatchback	be	Ford 's car in 2006	MISC	ORGANIZATION
+1.0	Ford group	have	only brand	ORGANIZATION	0
+1.0	Ford	have	best-selling car in 2006 shift	ORGANIZATION	DATE
+0.8548731895925794	14.3	sale of	its more profitable pickup truck	NUMBER	0
+1.0	sale performance	underline	trouble	0	0
+1.0	cars	have	sales	O	O
+1.0	its loss-making operation	be in	face of sale onslaught	0	0
+0.6033676558348405	on-year sale	plummet	13 percent to 233,621 unit	DURATION	PERCENT
+1.0	sales onslaught	have	face	O	O
+1.0	the second year in a row of higher car sales and the first back-to-back increase since 1993-1994	be	year	0	DURATION
+1.0	Land Rover	post sale with	rise	0	0
+1.0	sale performance	overall underline	trouble	0	0
+1.0	eight percent drop	be in	2006 sale	PERCENT	DATE
+1.0	focus sedan/hatchback	be	Ford 's best-selling car in 2006	MISC	ORGANIZATION
+0.28627611980559997	sale	rise from	2005	0	DATE
+0.28627611980559997	sale	rise to	1.095 million	0	MONEY
+1.0	trouble	face	US auto giant Ford Motor Co.	0	ORGANIZATION

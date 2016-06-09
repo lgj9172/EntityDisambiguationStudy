@@ -1,0 +1,83 @@
+1.0	China	have	program	O	O
+1.0	China 's energy firm	strike deal worth	16 billion dollar	LOCATION	MONEY
+1.0	he	meet with	one of China 's diplomat	0	NUMBER
+1.0	Tehran	have	right	O	LOCATION
+1.0	Iran	have	issues	O	LOCATION
+1.0	Iranian	have	purchase	O	MISC
+1.0	Councilor Tang	be	State	PERSON	ORGANIZATION
+1.0	its	have	energy needs	O	O
+1.0	China	accord to	Xinhua news agency	LOCATION	ORGANIZATION
+1.0	Ali Larijani	have	visit	O	O
+1.0	China	have aggressively pursue oil deal in	Iran	LOCATION	LOCATION
+1.0	government spokesman Gholam Hossein Elham	tell	reporter	PERSON	0
+1.0	China 's top energy firm	strike deal worth	16 billion dollar for purchase of iranian	LOCATION	MONEY
+1.0	Iran	of	national security council	LOCATION	0
+1.0	we	have	capacity	O	O
+1.0	Tang Jiaxuan	be with	chinese	PERSON	0
+1.0	concern	have	regional	O	O
+1.0	China 's energy firm	strike deal worth	16 billion dollar for purchase	LOCATION	MONEY
+1.0	treaty	have	out drop	O	O
+1.0	The sanctions	have	negotiations	O	O
+1.0	we	have	rights	O	O
+1.0	he	make	remark	0	0
+1.0	Chinese State Councilor Tang Jiaxuan	urge	side	PERSON	0
+1.0	side	show	flexibility	0	0
+1.0	Tehran	have	right	LOCATION	0
+1.0	United Nations resolution	have	favor	O	O
+1.0	China	have aggressively pursue	oil deal	LOCATION	0
+1.0	Non	have	principles	O	O
+1.0	Iran	have	negotiator	O	LOCATION
+1.0	Chinese State Councilor Tang Jiaxuan	reiterate call for	negotiation in he meeting	PERSON	0
+1.0	China 's top energy firm	strike	mammoth deal	LOCATION	0
+1.0	China	have	energy firm	O	LOCATION
+1.0	Chinese State Councilor Tang Jiaxuan	reiterate call with	Ali Larijani	PERSON	PERSON
+1.0	Iran 's	say on	Tuesday	LOCATION	DATE
+1.0	Tang Jiaxuan	one of	China 's top diplomat	PERSON	LOCATION
+1.0	China	vote at_time	last month	LOCATION	DATE
+1.0	China 's energy firm	strike	deal	LOCATION	0
+1.0	China	have pursue	oil deal	LOCATION	0
+1.0	China	's firm be	PetroChina	LOCATION	ORGANIZATION
+1.0	rights	have	deprived	O	O
+1.0	China 's ministry spokesman Liu Jianchao	tell	press conference	PERSON	0
+1.0	China	have	ministry spokesman Liu Jianchao	PERSON	LOCATION
+1.0	China 's energy firm	strike deal at_time	last month	LOCATION	DATE
+1.0	state media	report at_time	Friday	0	DATE
+1.0	sanction	take aim at	effort	0	0
+1.0	China	have	diplomats	O	LOCATION
+1.0	China 's top energy firm	strike deal at_time	month	LOCATION	DATE
+1.0	Chinese State Councilor Tang Jiaxuan	reiterate call on	Thursday	PERSON	DATE
+1.0	Chinese State Councilor Tang Jiaxuan	reiterate call for	negotiation	PERSON	0
+1.0	United States	fear	other	LOCATION	0
+1.0	China 's top energy firm	strike deal at_time	last month	LOCATION	DATE
+1.0	China	of	top diplomat	LOCATION	0
+1.0	sanction	take aim at	iranian effort	0	0
+1.0	Chinese State Councilor Tang Jiaxuan	reiterate	call	PERSON	0
+1.0	China	have	Liu Jianchao	LOCATION	PERSON
+1.0	Iran	have	nuclear issue	LOCATION	0
+1.0	China	have	top energy firm	LOCATION	0
+1.0	China 's top energy firm	strike deal worth	16 billion dollar	LOCATION	MONEY
+1.0	Mahmoud Ahmadinejad	be to	President Hu Jintao	PERSON	PERSON
+1.0	Chinese State Councilor Tang Jiaxuan	have	meeting	O	O
+1.0	China 's top energy firm	strike	deal	LOCATION	0
+1.0	China	have	Xinhua news agency	O	LOCATION
+1.0	China 's energy firm	strike deal worth	16 billion dollar for purchase of iranian	LOCATION	MONEY
+1.0	China 's energy firm	strike deal at_time	month	LOCATION	DATE
+1.0	Iran	have	top nuclear negotiator	LOCATION	0
+1.0	he	meet with	one China 's top diplomat	0	NUMBER
+1.0	negotiation	be in	he meeting	0	0
+1.0	pledge	head of	Iran 's national security council	0	LOCATION
+1.0	China	vote at_time	month	LOCATION	DATE
+1.0	security council	have	head	O	O
+1.0	he	meet with	state Councilor Tang Jiaxuan	0	PERSON
+1.0	major energy interest	be in	Iran 's	0	LOCATION
+1.0	Iran	have	security council	O	LOCATION
+1.0	China	have pursue oil deal in	Iran	LOCATION	LOCATION
+1.0	Ali Larijani	be in	China	PERSON	LOCATION
+1.0	sanction	take	aim	0	0
+1.0	he	make remark at_time	Thursday	0	DATE
+1.0	he	meet with	one China 's diplomat	0	NUMBER
+1.0	he	meet with	one of China 's top diplomat	0	NUMBER
+1.0	he	meet with	chinese state Councilor Tang Jiaxuan	0	PERSON
+1.0	diplomats	have	one	NUMBER	O
+1.0	China 's energy firm	strike	mammoth deal	LOCATION	0
+1.0	China 's top energy firm	strike deal worth	16 billion dollar for purchase	LOCATION	MONEY

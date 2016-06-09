@@ -1,0 +1,54 @@
+1.0	three year	be in	Sukun woman 's prison	DURATION	LOCATION
+1.0	M. Achwan	be at_time	last month	0	DATE
+1.0	Munfiatun , 31	sentence in	Malang	PERSON	LOCATION
+1.0	metrotv	show picture in	black robe while still in prison	0	0
+1.0	marriage	have	certificate	O	O
+1.0	months	have	remission	O	DURATION
+0.6011224008874775	Jemaah Islamiyah extremist network	blame for	series terrorist attack	ORGANIZATION	0
+1.0	pair	mastermind	suicide bombing	0	0
+1.0	Munfiatun 31	sentence to	three year	NUMBER	DURATION
+1.0	metrotv	show picture in	flow black robe while still in prison	0	0
+1.0	Munfiatun 31	sentence in	East Java	NUMBER	LOCATION
+1.0	Noordin	be in	July 2004	PERSON	DATE
+1.0	metrotv	show	picture of she	0	0
+1.0	The wife of fugitive terror mastermind Noordin Muhammad Top	have	sentence	O	O
+0.6011224008874775	Jemaah Islamiyah extremist network	blame for	series	ORGANIZATION	0
+1.0	Munfiatun 31	sentence to	three year in Sukun woman 's prison	NUMBER	DURATION
+1.0	pair	be	believe	0	0
+1.0	Munfiatun , 31	have	months	DURATION	O
+1.0	Munfiatun , 31	have	jail term	O	O
+1.0	attacks	have	series	O	O
+1.0	Abu Bakar Bashir	be	muslim	PERSON	0
+1.0	police raid	be in	November 2006	0	DATE
+1.0	Mujahedin Council	have	member	O	ORGANIZATION
+1.0	Munfiatun 31	be arrest in	2004	NUMBER	DATE
+1.0	Bali	be in	2005	LOCATION	NUMBER
+1.0	flow black robe	be in	prison	0	0
+1.0	M. Achwan	member of	Mujahedin Council	PERSON	ORGANIZATION
+1.0	role	have	Supreme Court	ORGANIZATION	O
+1.0	metrotv	show picture in	flow robe while still	0	0
+0.6011224008874775	Jemaah Islamiyah extremist network	blame for	series attack	ORGANIZATION	0
+1.0	metrotv	show picture in	flow robe while still in prison	0	0
+1.0	Munfiatun , 31	be	arrest	PERSON	0
+1.0	Munfiatun , 31	be	31	PERSON	NUMBER
+1.0	metrotv	show picture in	robe while still in prison	0	0
+1.0	metrotv	show picture in	robe while still	0	0
+1.0	M. Achwan	be at_time	month	0	DATE
+1.0	Sukun woman	in	prison	LOCATION	0
+1.0	Munfiatun 31	be	arrest	NUMBER	0
+1.0	Munfiatun , 31	have	pictures	O	O
+1.0	Munfiatun	be	31	PERSON	NUMBER
+1.0	terror mastermind Noordin Muhammad Top	have	wife	O	PERSON
+1.0	pair	mastermind	triple suicide bombing	0	0
+1.0	her	have	certificate	O	O
+1.0	Munfiatun , 31	sentence to	three year	PERSON	DURATION
+1.0	metrotv	show picture in	flow black robe while still	0	0
+1.0	Munfiatun 31	sentence in	Malang	NUMBER	LOCATION
+1.0	metrotv	show	picture	0	0
+1.0	metrotv	show picture in	black robe while still	0	0
+1.0	Munfiatun , 31	sentence to	three year in Sukun woman 's prison	PERSON	DURATION
+1.0	Mujahedin Council	be of	indonesian	ORGANIZATION	0
+1.0	Munfiatun , 31	sentence in	East Java	PERSON	LOCATION
+1.0	Munfiatun , 31	be arrest in	2004	PERSON	DATE
+1.0	Sukun women	have	prison	O	O
+1.0	Al-Qaeda	have	members	O	O

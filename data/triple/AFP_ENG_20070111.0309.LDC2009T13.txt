@@ -1,0 +1,100 @@
+1.0	Bush	have	speech	O	PERSON
+1.0	minute	slam plan in	he party 's response	0	0
+1.0	president	have	remarks	O	O
+1.0	minute	also slam plan in	he party 's official response	0	0
+1.0	forces	have	redeployment	O	O
+1.0	Bush	after	nationally-televised late Wednesday speech	PERSON	DATE
+1.0	Senate	have	number	O	ORGANIZATION
+1.0	president	at	new plan	0	0
+1.0	Defense Secretary	have	Secretary	O	O
+1.0	Carl Levin	be	democratic	PERSON	0
+1.0	House Speaker Nancy Pelosi	provide	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	Bush	from	Republicans	PERSON	MISC
+1.0	Senator Carl Levin	tell cnn at_time	Thursday	PERSON	DATE
+1.0	president	have	plan	O	O
+1.0	Bush	have	Iraq policy	O	PERSON
+1.0	their	have	nation	O	O
+1.0	president	of	own party	0	0
+1.0	his	have	support	O	O
+1.0	John McCain	be	US	PERSON	LOCATION
+0.17974797504936701	House Speaker Nancy Pelosi	pledge	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	burden	begin	redeployment of we force	0	0
+1.0	my	have	position	O	O
+1.0	his	have	party	O	O
+1.0	they	continue	they fight	0	0
+1.0	party	in	official response	0	0
+1.0	war	have	Escalation	O	O
+0.0025671451558210157	it	be	time stand	0	0
+1.0	Senator Carl Levin	tell	CNN	PERSON	ORGANIZATION
+1.0	our	have	military	O	O
+1.0	democratic Senator Carl Levin	tell	CNN	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice and Defense Secretary	have	case	O	O
+1.0	George W. Bush	have	plan send to Iraq	PERSON	LOCATION
+1.0	Bush	go to	war	PERSON	0
+1.0	course	be	disastrous	0	0
+1.0	Democrats	question	President George W. Bush 's plan	MISC	PERSON
+1.0	Bush plan	have	Success	O	O
+1.0	he	say on	US television	0	LOCATION
+1.0	Senate	have	new Foreign Relations Committee chairman	ORGANIZATION	0
+1.0	party	have	members	O	O
+1.0	he	say after	speech	0	0
+1.0	Norm Coleman	be senator of	Republican	PERSON	ORGANIZATION
+1.0	Nancy Pelosi	be	House	PERSON	ORGANIZATION
+1.0	party	have	response	O	O
+1.0	success	depend on	target	0	0
+1.0	Harry Reid	be majority leader of	Senate	PERSON	ORGANIZATION
+1.0	burden	begin	redeployment	0	0
+1.0	it	be	time	0	0
+1.0	president	for	plan	0	0
+1.0	House Speaker Nancy Pelosi	pledge	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	Robert Gates	make	they case	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Dick Durbin	be	Democrat	PERSON	MISC
+1.0	Republicans	soft-pedal	fact	MISC	0
+0.0025671451558210157	it	be	time for Iraqis stand	0	MISC
+1.0	Bush 's nationally-televised late Wednesday speech	after minute be	Dick Durbin	DATE	PERSON
+1.0	time	stand	they own nation	0	0
+1.0	minute	slam plan in	he party 's official response	0	0
+1.0	Harry Reid	be	Senate	PERSON	ORGANIZATION
+1.0	Iraq	have	government	O	LOCATION
+1.0	Norm Coleman	be	Republican	PERSON	ORGANIZATION
+1.0	burden	begin	phased redeployment	0	0
+1.0	sectarian violence	be in	Iraq	0	LOCATION
+1.0	democratic Senator Carl Levin	tell cnn at_time	Thursday	PERSON	DATE
+1.0	Bush	have	Republicans	MISC	PERSON
+1.0	minute	also slam plan in	he party 's response	0	0
+1.0	one exception	be	likely	0	0
+1.0	Senator Hillary Clinton	rip	Bush 's Iraq policy as mar	PERSON	LOCATION
+1.0	Senate	's chairman be	Joe Biden	ORGANIZATION	PERSON
+1.0	president	have	party	O	O
+1.0	our	have	forces	O	O
+1.0	Senate	have	number	ORGANIZATION	0
+1.0	Hillary Clinton	candidate for	2008 democratic presidential nomination	PERSON	DATE
+1.0	that	block	president	0	0
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	minute	slam	plan	0	0
+1.0	Republicans	be in	election November 7	MISC	DATE
+1.0	minute	also slam	plan	0	0
+1.0	time	stand	they nation	0	0
+1.0	resolution	have	favor	O	O
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	our	have	commanders	O	O
+1.0	burden	begin	phased redeployment of we force	0	0
+1.0	military	have	courage immense sacrifice	O	O
+1.0	House Speaker Nancy Pelosi	provide	132,000 US troops	PERSON	LOCATION
+1.0	Congress	have	chambers	O	ORGANIZATION
+1.0	president	have	course	O	O
+1.0	American	have	lives	O	O
+0.17974797504936701	they	need	continue	0	0
+1.0	Senator Hillary Clinton	rip	Bush 's Iraq policy as mar by incompetence	PERSON	LOCATION
+1.0	exception	be	likely	0	0
+1.0	his	have	speech	O	O
+1.0	Bush	have	Iraq policy as mar by incompetence	PERSON	LOCATION
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	their	have	fight	O	O
+1.0	Senate	have	Foreign Relations Committee chairman	O	ORGANIZATION
+1.0	John McCain	be senator of	US	PERSON	LOCATION
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	accommodation	have	sort	O	O
+1.0	it	be time for	Iraqis	0	MISC
+1.0	Congress	have	control	O	ORGANIZATION

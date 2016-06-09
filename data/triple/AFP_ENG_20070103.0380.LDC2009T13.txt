@@ -1,0 +1,73 @@
+0.9320488470376583	Artemis	bid for	Suez	ORGANIZATION	ORGANIZATION
+1.0	french business magazine Capital	have report at_time	week	ORGANIZATION	DATE
+1.0	french billionaire Francois Pinault	be	order	PERSON	0
+1.0	company	have	energy asset	0	0
+1.0	statement	confirm	press report	0	0
+0.8261183695294736	government-backed plan	create	french energy giant	0	0
+1.0	market regulator	be give	power	0	0
+1.0	french business magazine Capital	have report at_time	last week	ORGANIZATION	DATE
+1.0	presidential election	be in	April	0	DATE
+1.0	market regulator	be give power at_time	later this year	0	DATE
+1.0	initiative	have face	opposition	0	0
+0.9036005317691038	Paris stock market regulator AMF	say	Wednesday	LOCATION	DATE
+1.0	Suez	merge with	gdf	ORGANIZATION	0
+1.0	business magazine Capital	have report at_time	last week	ORGANIZATION	DATE
+1.0	French billionaire Francois Pinault	be reportedly consider	Paris stock market regulator AMF say Wednesday	0	LOCATION
+1.0	initiative	have face	political opposition	0	0
+1.0	Suez	be set	merge	ORGANIZATION	0
+1.0	French billionaire Francois Pinault	be consider	takeover bid	0	0
+1.0	company	have	energy assets	O	O
+1.0	Suez	have	shares	O	ORGANIZATION
+1.0	market regulator	be give	new power	0	0
+1.0	vague statement	confirm	press report	0	0
+1.0	initiative	be affect by	outcome	0	0
+0.9320488470376583	Artemis	bid to	launch	ORGANIZATION	0
+0.8261183695294736	plan	create	french energy giant	0	0
+1.0	french market regulator	be give power to	request	0	0
+1.0	French billionaire Francois Pinault	be consider	Paris stock market regulator AMF	0	LOCATION
+1.0	Artemis	have	bid	ORGANIZATION	0
+0.8261183695294736	plan	create	energy giant	0	0
+1.0	Suez	be set	merge with gdf	ORGANIZATION	0
+1.0	Artemis	have	bid for Suez	ORGANIZATION	ORGANIZATION
+1.0	French billionaire Francois Pinault	be reportedly consider	Paris stock market regulator AMF say	0	LOCATION
+1.0	initiative	be affect by	outcome of presidential election	0	0
+1.0	French billionaire Francois Pinault	be	set	0	0
+1.0	offer	have	possibility	O	O
+1.0	French billionaire Francois Pinault	be reportedly consider	takeover bid	0	0
+1.0	Suez	denounce statement as	vague	ORGANIZATION	0
+1.0	elections	have	outcome	O	O
+1.0	state-controlled GDF	have	privatisation	O	ORGANIZATION
+1.0	french market regulator	be give	power	0	0
+1.0	Suez	be	set	ORGANIZATION	0
+1.0	AMF	be	Paris	ORGANIZATION	LOCATION
+1.0	companies or individuals	consider	bid	0	0
+1.0	initiative	be affect by	outcome of election	0	0
+1.0	companies or individuals	have	intentions	O	O
+1.0	Pinault	have	company	O	PERSON
+1.0	Suez	be regard	french	ORGANIZATION	0
+1.0	Artemis	have	to launch bid	ORGANIZATION	0
+1.0	billionaire Francois Pinault	be	order	PERSON	0
+1.0	Francois Pinault	be	french	PERSON	0
+1.0	Suez	be set under	plan	ORGANIZATION	0
+1.0	French billionaire Francois Pinault	make	bid for Suez euro	0	ORGANIZATION
+1.0	french market regulator	be give power at_time	year	0	DATE
+1.0	french market regulator	be give	new power	0	0
+1.0	initiative	be	affect	0	0
+1.0	French billionaire Francois Pinault	make	bid for Suez worth euro	0	ORGANIZATION
+1.0	initiative	be affect by	outcome of election in April	0	DATE
+1.0	Artemis	have	to launch bid for Suez	ORGANIZATION	ORGANIZATION
+1.0	market regulator	be give power at_time	year	0	DATE
+1.0	business magazine Capital	have report at_time	week	ORGANIZATION	DATE
+1.0	French billionaire Francois Pinault	have	intentions	O	O
+1.0	french market regulator	be give power at_time	later this year	0	DATE
+0.8261183695294736	government-backed plan	create	energy giant	0	0
+1.0	French billionaire Francois Pinault	be consider	Paris stock market regulator AMF say	0	LOCATION
+1.0	Pinault	have	hold company	PERSON	0
+1.0	French billionaire Francois Pinault	be consider	Paris stock market regulator AMF say Wednesday	0	LOCATION
+1.0	Suez	be set under	government-backed plan	ORGANIZATION	0
+1.0	French billionaire Francois Pinault	be reportedly consider	Paris stock market regulator AMF	0	LOCATION
+1.0	Capital	be	french	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election in April	0	DATE
+1.0	market regulator	be give power to	request	0	0
+1.0	AMF	be stock market regulator of	Paris	ORGANIZATION	LOCATION
+1.0	French billionaire Francois Pinault	make	bid	0	0

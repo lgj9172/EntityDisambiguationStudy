@@ -1,0 +1,108 @@
+0.8905665523730246	docudrama	direct by	director Michael Winterbottom	0	PERSON
+1.0	relative	gather here	Wednesday	0	DATE
+1.0	detainee	interrogate	20 hour	DURATION	DURATION
+1.0	other detainee	be	subject	0	0
+1.0	FBI	indicate	document	ORGANIZATION	0
+1.0	war	have	arrivals	O	O
+1.0	they	have	music	0	0
+1.0	most	hold at	base	0	0
+1.0	he	be	release	0	0
+1.0	tear	be	few	0	0
+1.0	most	once hold at	base	0	0
+1.0	detainee	be place in	confinement	DURATION	0
+1.0	United States	reject by	Cuba	LOCATION	LOCATION
+1.0	Britain	be on	the day	LOCATION	DATE
+1.0	him	have	make	O	O
+1.0	she	demand	closure	0	0
+1.0	arrivals	have	anniversary	O	O
+1.0	they	have	abuse	0	0
+1.0	plan	arrive as	part	0	0
+1.0	plan	arrive as	part of International Day	0	MISC
+1.0	other detainee	be subject at	US base	0	LOCATION
+1.0	Iqbal	be	25	PERSON	NUMBER
+1.0	detainee	be subject	to	0	0
+1.0	the	torture	Asif Iqbal	0	0
+1.0	they	make	we squat	0	0
+1.0	he	take part in	meeting with Al-Qaeda leader Osama bin Laden	0	PERSON
+1.0	he	be	nervous	0	0
+1.0	he	be nervous	little	0	0
+1.0	she son	be	where hold	0	0
+1.0	damages	be in	US court	0	LOCATION
+1.0	she	have travel to	communist Cuba	0	LOCATION
+1.0	his	have	brother	O	O
+1.0	she	have travel with	former Guantanamo prisoner	0	LOCATION
+1.0	detainee	leave in	temperature	DURATION	DURATION
+1.0	hope	have	beacon	O	O
+1.0	men	have	one	NUMBER	O
+1.0	center	have	closure	O	O
+1.0	Zohra Zewawi	have	wish	O	O
+1.0	they	make	we	0	0
+1.0	detainee	be	subject	0	0
+1.0	detainee	leave for	hour	DURATION	0
+1.0	Another of her sons	have	guilt	O	O
+1.0	detainee	be place in	confinement for month at time	DURATION	DURATION
+1.0	detainee	be place in	solitary confinement for month	DURATION	DURATION
+1.0	she	demand	closure of center	0	0
+1.0	her	be	few	0	0
+1.0	she son	be	hold	0	0
+1.0	he	be in	Britain	0	LOCATION
+1.0	he	be	allege	0	0
+1.0	her	have	eyes	O	O
+1.0	detainee	be place in	solitary confinement	DURATION	DURATION
+1.0	Guantanamo detainees	have	held	O	O
+1.0	Asif Iqbal	briton of	pakistani descent	PERSON	0
+1.0	detainee	be subject at	US base	0	LOCATION
+1.0	Michael Winterbottom	be by	british	PERSON	0
+1.0	detainee	be place in	solitary confinement for month at time	DURATION	DURATION
+1.0	meeting	be with	Osama bin Laden	0	PERSON
+1.0	detainee	be subject at	US naval base	0	LOCATION
+1.0	US government	establish	facility	LOCATION	0
+1.0	other detainee	be subject at	US naval base	0	LOCATION
+1.0	Zohra Zewawi	son	Omar	0	PERSON
+1.0	anniversary	have	ahead	O	O
+1.0	US prison	have	closure	O	O
+1.0	Zohra Zewawi	tell	AFP	PERSON	ORGANIZATION
+1.0	Taher Deghayes	have	brother	O	O
+1.0	relative	gather	Wednesday	0	DATE
+1.0	treaty	have	terms	O	O
+1.0	Guantanamo Bay	have	city	O	LOCATION
+1.0	detainee	be	place	DURATION	DURATION
+1.0	they	call	short shackling	0	0
+1.0	detainee	be place in	confinement for month	DURATION	0
+1.0	detainee	leave	handcuff	DURATION	DURATION
+1.0	he	take part in	meeting	0	0
+1.0	she son	be	where hold without charge	0	0
+1.0	Zohra Zewawi	have	head	O	O
+0.8905665523730246	docudrama	direct by	british director Michael Winterbottom	0	PERSON
+1.0	Cindy Sheehan	be	US	PERSON	ORGANIZATION
+1.0	cuban revolution	be in	city of Guantanamo	0	LOCATION
+1.0	they	have	verbal abuse	0	0
+0.6742221221712207	tear	well in	she eye	0	0
+1.0	their	have	confinement	O	O
+1.0	sons	have	Another	O	O
+0.9795160859558748	most	be	ever charge	0	0
+1.0	he	go to	gate	0	0
+1.0	detainee	leave in	brutal temperature	DURATION	DURATION
+1.0	Osama bin Laden	be with	Al-Qaeda	PERSON	MISC
+1.0	other detainee	be subject	to	0	0
+1.0	US detention center	have	kilometers	O	O
+0.9795160859558748	most	be	charge	0	0
+1.0	controversial US detention center	of kilometer be	mile	LOCATION	0
+1.0	FBI	indicate	military document	ORGANIZATION	DURATION
+1.0	he	take	part	0	0
+1.0	International Day	have	part	O	DURATION
+1.0	Zohra Zewawi	have	sons	O	O
+1.0	Zohra Zewawi	have	son	O	O
+1.0	they	have	loud music	0	0
+1.0	Cindy Sheehan	be peace activist of	US	PERSON	ORGANIZATION
+1.0	US government	establish	secure facility	LOCATION	0
+1.0	kilometer US enclave	have	gates	O	O
+1.0	our	have	families	O	O
+1.0	whose	have	son	O	O
+1.0	United States	reject by	communist Cuba	LOCATION	LOCATION
+1.0	she son	be hold without	charge	0	0
+1.0	detainee	leave	handcuff to ground	DURATION	DURATION
+1.0	they	call	shackling	0	0
+1.0	her	have	son	O	O
+1.0	descent	have	Briton	MISC	O
+1.0	base	have	gates	O	O

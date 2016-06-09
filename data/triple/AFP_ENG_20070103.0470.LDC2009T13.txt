@@ -1,0 +1,8 @@
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rise	6.92 percent in 2006	ORGANIZATION	PERCENT
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rise	6.92 percent	ORGANIZATION	PERCENT
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	6.92 percent	be in	2006	PERCENT	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	gain	127.84 point	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	companies	have	TOPIX index	O	O

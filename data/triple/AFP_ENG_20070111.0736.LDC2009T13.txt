@@ -1,0 +1,28 @@
+1.0	dozen	remain at_time	morning	0	TIME
+1.0	dozen	be	kill	0	0
+1.0	dozen	be	last month kill in landslide	0	DATE
+1.0	Sangihe island	say at_time	Lium Kendage hospital in Tahuna	PERSON	LOCATION
+1.0	dozen	remain	missing	0	0
+1.0	dozen	remain	missing follow landslide Friday	0	DATE
+1.0	Manado	have	North Sulawesi capital	O	LOCATION
+1.0	Sumatra island	have	north	O	O
+1.0	many people	have	homes	O	O
+1.0	dozen	remain	missing follow landslide early Friday	0	TIME
+1.0	dozen	be kill in	landslide	0	0
+1.0	health office head Christian Sila	tell elshinta radio from	North Sulawesi capital	PERSON	LOCATION
+1.0	Sulawesi	have	island	O	LOCATION
+1.0	people	have	dozens	O	O
+1.0	Manado	have	north	O	LOCATION
+1.0	dozen	be	month kill in landslide	0	DATE
+1.0	health office head Christian Sila	tell elshinta radio from	North Sulawesi provincial capital	PERSON	LOCATION
+1.0	400,000 people	flee	they home	NUMBER	0
+1.0	health office head Christian Sila	tell	ElShinta radio	PERSON	ORGANIZATION
+1.0	report	say at_time	early Friday	0	DATE
+1.0	Lium Kendage hospital	be in	Tahuna	0	LOCATION
+1.0	dozen	be kill at_time	month	0	DATE
+1.0	dozen	be kill at_time	last month	0	DATE
+1.0	dozen	remain	missing follow landslide	0	0
+1.0	health office head Christian Sila	tell elshinta radio from	North Sulawesi capital of Manado	PERSON	LOCATION
+1.0	some 400,000 people	have	homes	O	O
+1.0	Sangihe island	say at_time	Lium Kendage hospital	PERSON	0
+1.0	health office head Christian Sila	tell elshinta radio from	North Sulawesi provincial capital of Manado	PERSON	LOCATION

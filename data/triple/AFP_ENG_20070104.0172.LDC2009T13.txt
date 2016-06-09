@@ -1,0 +1,93 @@
+1.0	necessary measure	avoid contact with	bird	0	0
+1.0	he	urge	farmer trader	0	0
+1.0	precautionary measure	avoid contact with	wild bird	0	0
+1.0	precautionary measure	avoid	contact	0	0
+1.0	six people	die of	mutation of flu virus	NUMBER	0
+1.0	necessary measure	avoid	contact	0	0
+1.0	precautionary measure	avoid contact with	bird	0	0
+1.0	six people	die of	unknown mutation of flu virus	NUMBER	0
+1.0	farmer trader	take	pet	0	0
+1.0	farmer trader	take	measure	0	0
+1.0	farmer trader	take	necessary precautionary measure	0	0
+1.0	six people	die of	then unknown mutation of avian flu virus	NUMBER	0
+1.0	bird	have	carcass	O	O
+1.0	people	die of	then unknown mutation of avian flu virus	0	0
+1.0	six people	die of	unknown mutation of avian flu virus	NUMBER	0
+0.7904534318948675	breasted munia	be find in	busy shopping area	0	0
+1.0	local farmer trader	take	measure	0	0
+1.0	scene	report	major bird flu outbreak among human	0	0
+1.0	people	die of	unknown mutation	0	0
+1.0	scene	first report	bird flu outbreak	0	0
+1.0	tests	have	results	O	O
+1.0	Causeway Bay	be on	Sunday	LOCATION	DATE
+0.7904534318948675	breasted munia	be find in	busy shopping area of Causeway Bay on Sunday	0	LOCATION
+1.0	Hong Kong	be	scene	LOCATION	0
+1.0	farmer trader	take	necessary measure	0	0
+0.7904534318948675	breasted munia	be find in	shopping area of Causeway Bay	0	LOCATION
+1.0	he	urge	local farmer trader	0	0
+1.0	H5N1 virus	have	died	O	O
+0.7904534318948675	munia	be find in	busy shopping area of Causeway Bay on Sunday	0	LOCATION
+1.0	Thomas Sit	director of	agricultural department	PERSON	0
+1.0	farmer trader	take	owner	0	0
+1.0	bird	have	species	O	O
+1.0	necessary precautionary measure	avoid contact with	bird	0	0
+1.0	six people	die of	then unknown mutation of flu virus	NUMBER	0
+1.0	Thomas Sit	observe	good hygiene	0	0
+1.0	flu virus	have	mutation	O	O
+1.0	scene	report	bird flu outbreak among human	0	0
+1.0	department	have	director	O	O
+1.0	local farmer trader	take	owner	0	0
+1.0	local farmer trader	take	necessary precautionary measure	0	0
+1.0	Hong Kong	be scene of	of world	LOCATION	0
+0.7904534318948675	munia	be find in	shopping area of Causeway Bay on Sunday	0	LOCATION
+1.0	scene	first report	major bird flu outbreak among human in 1997	0	DATE
+0.7904534318948675	breasted munia	be find in	shopping area of Causeway Bay on Sunday	0	LOCATION
+1.0	people	die of	then unknown mutation	0	0
+1.0	local farmer trader	take	necessary measure	0	0
+1.0	birds	have	discovery	O	O
+0.7904534318948675	breasted munia	be find in	busy shopping area of Causeway Bay	0	LOCATION
+1.0	Thomas Sit	observe	hygiene	0	0
+1.0	species	have	carcasses	O	O
+1.0	scene	first report	bird flu outbreak among human in 1997	0	DATE
+1.0	farmer trader	take	precautionary measure	0	0
+1.0	six people	die of	mutation	NUMBER	0
+1.0	six people	die of	then unknown mutation	NUMBER	0
+1.0	measure	avoid	contact	0	0
+1.0	mutation	have	died	O	O
+0.7904534318948675	munia	be find in	shopping area of Causeway Bay	0	LOCATION
+1.0	Thomas Sit	remind	public	0	0
+1.0	human	be in	1997	0	DATE
+1.0	people	have	millions	O	O
+1.0	scene	report	bird flu outbreak	0	0
+1.0	Causeway Bay	have	shopping area	O	LOCATION
+0.7904534318948675	munia	be find in	busy shopping area of Causeway Bay	0	LOCATION
+1.0	people	die of	unknown mutation of avian flu virus	0	0
+1.0	people	die of	then unknown mutation of flu virus	0	0
+1.0	measure	avoid contact with	bird	0	0
+0.7904534318948675	breasted munia	be find in	shopping area	0	0
+1.0	government	say at_time	Thursday	0	DATE
+1.0	Thomas Sit	observe	personal hygiene	0	0
+0.7904534318948675	breasted munia	be	find	0	0
+1.0	people	die of	mutation of avian flu virus	0	0
+1.0	scene	report	major bird flu outbreak	0	0
+0.7904534318948675	munia	be	find	0	0
+1.0	measure	avoid contact with	wild bird	0	0
+1.0	scene	report	bird flu outbreak among human in 1997	0	DATE
+1.0	local farmer trader	take	pet	0	0
+1.0	scene	first report	bird flu outbreak among human	0	0
+1.0	six people	die of	unknown mutation	NUMBER	0
+1.0	scene	first report	major bird flu outbreak among human	0	0
+1.0	scene	report	major bird flu outbreak among human in 1997	0	DATE
+1.0	necessary precautionary measure	avoid	contact	0	0
+1.0	local farmer trader	take	precautionary measure	0	0
+1.0	people	die of	unknown mutation of flu virus	0	0
+1.0	scene	first report	major bird flu outbreak	0	0
+1.0	necessary measure	avoid contact with	wild bird	0	0
+1.0	people	die of	mutation	0	0
+1.0	chickens	have	discovery	O	O
+1.0	necessary precautionary measure	avoid contact with	wild bird	0	0
+0.7904534318948675	munia	be find in	busy shopping area	0	0
+1.0	six people	die of	mutation of avian flu virus	NUMBER	0
+1.0	people	die of	mutation of flu virus	0	0
+0.7904534318948675	munia	be find in	shopping area	0	0
+1.0	Thomas Sit	observe	good personal hygiene	0	0

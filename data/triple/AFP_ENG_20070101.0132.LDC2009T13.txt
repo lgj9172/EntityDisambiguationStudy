@@ -1,0 +1,29 @@
+1.0	Heiligendamm	have	Baltic Sea resort	O	LOCATION
+1.0	group 's leader	pledge	debt relief	0	0
+1.0	Bild newspaper	say in	advance extract of its Tuesday edition	ORGANIZATION	DATE
+1.0	group	have	leaders	O	O
+1.0	Irish rocker Bob Geldof	mastermind behind	1985 Live Aid concert	PERSON	MISC
+1.0	g8 summit	be in	Scotland	NUMBER	LOCATION
+1.0	continent	have	problem	0	0
+1.0	Tuesday edition	have	advance extract	O	O
+1.0	Germany	have	chancellor	O	O
+1.0	Group	have	presidency	O	O
+1.0	Germany	chancellor	Mrs Merkel	0	PERSON
+1.0	nations	have	Group	O	O
+1.0	let	get politician at	last	0	0
+1.0	German Chancellor Angela Merkel	have	country	O	O
+1.0	Bob Geldof	be	irish	PERSON	0
+1.0	Germany	have	Tuesday edition	O	O
+1.0	press report	say at_time	Monday	0	DATE
+1.0	group	have	leader	0	0
+1.0	Germany host	be in	June	LOCATION	DATE
+1.0	eight nation	be in	2007	0	DATE
+1.0	group 's leader	pledge debt relief for	Africa 's poor	0	LOCATION
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	Africa 's poor	have	aid	O	LOCATION
+1.0	2005 Live 8 concert	be in	aid of Africa	NUMBER	LOCATION
+1.0	summit	be in	Baltic Sea resort of Heiligendamm	0	LOCATION
+1.0	let	get	politician	0	0
+1.0	continent	have	problems	O	O
+1.0	Bild newspaper	cite	Irish rocker Bob Geldof	ORGANIZATION	PERSON
+1.0	Bild newspaper	say in	advance extract	ORGANIZATION	0

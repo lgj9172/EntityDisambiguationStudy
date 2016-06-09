@@ -1,0 +1,21 @@
+1.0	floor trading	have	opening	O	O
+1.0	New York 's main contract sweet crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	New York 's main contract crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	New York 's contract crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	New York	have	contract crude	O	LOCATION
+1.0	New York 's main contract sweet crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	New York	have	main contract light sweet crude for delivery in February	LOCATION	DATE
+1.0	New York 's main contract light sweet crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	New York	have	oil	O	LOCATION
+1.0	New York 's contract light sweet crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	New York 's contract sweet crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	oil	have	price	O	O
+1.0	Brent North Sea crude	lose	61 cent	LOCATION	MONEY
+1.0	New York 's contract sweet crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	New York	of	light sweet crude oil	LOCATION	0
+1.0	New York 's contract crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	New York 's main contract light sweet crude	slide	69 cent 54.90 dollar	LOCATION	MONEY
+1.0	New York 's contract light sweet crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	warm winter weather	be in	United States	DATE	LOCATION
+1.0	New York 's main contract crude	slide	69 cent 54.90 dollar barrel	LOCATION	MONEY
+1.0	delivery	be in	February	0	DATE

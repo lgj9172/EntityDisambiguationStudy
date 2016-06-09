@@ -1,0 +1,47 @@
+1.0	US leader	to	prime-time television announcement of new strategy	LOCATION	0
+1.0	way	be	forward contain	0	0
+1.0	US President George W. Bush 's	have	strategy	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	fiasco	be with	fuel combust into region-wide conflagration	0	0
+1.0	Bush	have	new strategy	PERSON	0
+1.0	influential newspaper	blast	he	0	0
+1.0	George W. Bush	have	new strategy	PERSON	0
+1.0	Bush	have	body language in speech bespoke	PERSON	0
+1.0	Britain 's Financial Times	liken	Britain 's Financial Times on Friday	LOCATION	0
+1.0	one	do into	Cambodia	NUMBER	LOCATION
+1.0	Iraq Study Group	have	proposals	O	ORGANIZATION
+1.0	Britain 's Financial Times	blast	US President George W. Bush 's strategy	LOCATION	LOCATION
+1.0	Britain 's Financial Times	blast	US President George W. Bush 's new strategy	LOCATION	LOCATION
+1.0	Iraq surge	begin	look like Vietnam escalation	LOCATION	LOCATION
+1.0	Iraq Study Group	in	proposal	LOCATION	0
+1.0	Bush	have	strategy	O	PERSON
+1.0	influential newspaper	say in	editorial	0	0
+1.0	Washington	back insurgency in	Iraq	LOCATION	LOCATION
+1.0	Iraq surge	begin	look	LOCATION	0
+1.0	only feasible way	be	contain	0	0
+1.0	newspaper	say in	strongly-worded editorial	0	0
+1.0	Britain	have	Financial Times	LOCATION	ORGANIZATION
+1.0	way	be	contain	0	0
+1.0	Britain	have	Financial Times	ORGANIZATION	LOCATION
+1.0	US President George W. Bush	have	strategy	O	PERSON
+1.0	denial	have	web	O	O
+1.0	strategy	have	television announcement	O	O
+1.0	feasible way	be	forward contain	0	0
+1.0	US leader	have	television announcement	O	O
+1.0	Financial Times	be on	Friday	ORGANIZATION	DATE
+1.0	newspaper	blast	he	0	0
+1.0	situation	have	gravity	O	O
+1.0	Washington	back	insurgency	LOCATION	0
+1.0	delusion	have	web	O	O
+1.0	Iraq surge	look like	Vietnam escalation	LOCATION	LOCATION
+1.0	feasible way	be	contain	0	0
+1.0	only feasible way	be	forward contain	0	0
+1.0	The only feasible way	liken	The only feasible way	0	0
+1.0	debacle	have	depths	O	O
+1.0	Iraq	have	ethnic	O	LOCATION
+1.0	Mr. Bush 's body language	be in	speech bespoke	PERSON	0
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	newspaper	say in	editorial	0	0
+1.0	Iraq Study Group	have	recommendations	O	ORGANIZATION
+1.0	influential newspaper	say in	strongly-worded editorial	0	0
+1.0	Mr. Bush	have	body language	O	PERSON

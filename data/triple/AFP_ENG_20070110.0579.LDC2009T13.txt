@@ -1,0 +1,20 @@
+1.0	Maina Kamanda	be	kenyan	PERSON	0
+1.0	Hatimy	elect	charge	PERSON	0
+1.0	FIFA	be on	October 24	ORGANIZATION	DATE
+1.0	Hatimy	be in	charge of football	PERSON	0
+1.0	its	have	failure	O	O
+1.0	country	have	football govern with fifa	0	0
+1.0	country	have	football	O	O
+0.6050772204274711	problem	face	sport	0	0
+1.0	Hatimy	elect	charge of football	PERSON	0
+1.0	kenyan Sports Minister Maina Kamanda	reject	country 's football	PERSON	0
+1.0	Hatimy	be	Titus Kasuve	PERSON	PERSON
+1.0	Sports Minister Maina Kamanda	reject	country 's football	PERSON	0
+1.0	Maina Kamanda	be on	Wednesday	PERSON	DATE
+1.0	Hatimy	be even	Titus Kasuve	PERSON	PERSON
+1.0	Hatimy	elect	Titus Kasuve	PERSON	PERSON
+1.0	charge	be in	country	0	0
+1.0	Hatimy	be in	charge	PERSON	0
+1.0	meeting	have	body	O	O
+1.0	football	have	charge	O	O
+1.0	panel	have	leaders	O	O

@@ -1,0 +1,6 @@
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Bank	raise	its interest rate	ORGANIZATION	0
+1.0	The Bank of England	have	interest rate	O	O
+0.6810359572971214	its key interest rate	bank of	England	0	ORGANIZATION
+0.6810359572971214	its interest rate	bank of	England	0	ORGANIZATION
+1.0	Bank	raise	its key interest rate	ORGANIZATION	0

@@ -1,0 +1,65 @@
+1.0	ethiopia-led government troops	advance to	they remain stronghold	0	0
+1.0	their	have	territory	O	O
+1.0	they	gain	control of capital Mogadishu	0	LOCATION
+1.0	government troops	advance to	city	0	0
+1.0	country	have	pacification	O	O
+1.0	capital Mogadishu	have	control	O	LOCATION
+1.0	they	gain control in	June	0	DATE
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment of African Union peacekeeper	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day of fierce fighting	PERSON	0
+1.0	au	deploy peace force to	war-torn Somalia	0	LOCATION
+1.0	Islamists	be flee on	Monday	MISC	DATE
+1.0	au	deploy	near peace force	0	0
+1.0	Gedi	earlier order mogadishu resident within	three day	PERSON	DURATION
+1.0	Mogadishu	have	forced	O	LOCATION
+1.0	Gedi	order mogadishu resident to	hand in they weapon	PERSON	0
+1.0	au	deploy	8,000-strong east african peace force	0	0
+1.0	ethiopia-led government troops	advance to	city	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment	PERSON	0
+1.0	move	be	vehemently oppose	0	0
+1.0	Kismayo	have	port town	O	LOCATION
+1.0	they	expandend	they territory	0	0
+1.0	Gedi	earlier order mogadishu resident to	hand	PERSON	0
+1.0	ethiopia-led government troops	advance to	they stronghold	0	0
+1.0	their	have	support	O	O
+1.0	Gedi	order mogadishu resident within	three day	PERSON	DURATION
+1.0	hand	be in	they weapon	0	0
+1.0	au	deploy	near african peace force	0	0
+1.0	au	deploy	8,000-strong african peace force	0	0
+1.0	government troops	advance to	they last remain stronghold	0	DATE
+1.0	move	be	oppose	0	0
+1.0	their	have	stronghold	O	O
+1.0	au	deploy	near 8,000-strong east african peace force	0	0
+1.0	government troops	advance to	they last stronghold	0	DATE
+1.0	au	deploy	near 8,000-strong peace force	0	0
+1.0	au	deploy	near east african peace force	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment of African Union peacekeeper	PERSON	LOCATION
+1.0	ethiopia-led government troops	advance to	they last remain stronghold	0	DATE
+1.0	we	be consult with	the African Union	0	LOCATION
+1.0	au	deploy peace force to	Somalia	0	LOCATION
+1.0	au	endorse	plan	0	0
+1.0	au	endorse plan in	September	0	DATE
+1.0	then	have	weapons	O	O
+1.0	they	gain	control	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment	PERSON	0
+1.0	au	deploy	8,000-strong peace force	0	0
+1.0	au	deploy	african peace force	0	0
+1.0	Gedi	earlier order	Mogadishu resident	PERSON	LOCATION
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Gedi	order	Mogadishu resident	PERSON	LOCATION
+1.0	au	deploy	east african peace force	0	0
+1.0	Gedi	earlier order mogadishu resident to	hand in they weapon	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call between	ethiopia-backed government force	PERSON	0
+1.0	au	deploy	peace force	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call between	government force	PERSON	0
+1.0	Mogadishu	be  at_time	last week	LOCATION	DATE
+1.0	African Union peacekeepers	have	deployment	O	O
+1.0	government troops	advance to	they remain stronghold	0	0
+1.0	Gedi	order mogadishu resident to	hand	PERSON	0
+1.0	au	deploy	near 8,000-strong african peace force	0	0
+1.0	Ali Mohamed Gedi	be on	Monday	PERSON	DATE
+1.0	government troops	advance to	they stronghold	0	0
+1.0	ethiopia-led government troops	advance to	they last stronghold	0	DATE
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day of fighting	PERSON	0
+1.0	fighting	have	days	DURATION	O

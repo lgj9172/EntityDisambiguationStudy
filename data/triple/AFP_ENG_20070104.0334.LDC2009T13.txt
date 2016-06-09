@@ -1,0 +1,167 @@
+1.0	Mark Boucher	put	Shaun Pollock	PERSON	PERSON
+1.0	Smith	hit	low catch	PERSON	0
+1.0	South Africa	have	three productive partnership	LOCATION	NUMBER
+1.0	day	have	strike	O	DATE
+1.0	Kumble	steadily have	Smith catch at short midwicket	PERSON	PERSON
+1.0	balls	have	dismissing	O	O
+0.9445219455178006	equal	record for	bowler in series	0	0
+1.0	it	be	Sreesanth 's wicket in three match	0	NUMBER
+1.0	foot	have	play	O	O
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series against South Africa	ORDINAL	LOCATION
+1.0	he	lose	patience	0	0
+1.0	his	have	Test century	DATE	O
+1.0	Kumble	have	Smith catch at midwicket	PERSON	PERSON
+1.0	Kumble	steadily have	Smith catch at midwicket	PERSON	PERSON
+1.0	Smith	seem	set	PERSON	0
+1.0	Mark Boucher	force	Shaun Pollock	PERSON	PERSON
+0.08417186681517996	Mark Boucher	eventually force	call for second new ball	PERSON	ORDINAL
+0.08417186681517996	Mark Boucher	force	call for new ball	PERSON	0
+1.0	India	successfully employ	strangulation tactic	LOCATION	0
+0.08417186681517996	Mark Boucher	force	call after 115 over	PERSON	MONEY
+1.0	Smith	hit catch to	Sehwag	PERSON	LOCATION
+1.0	Sreesanth 's 18th wicket	be in	three match	ORDINAL	NUMBER
+1.0	Kumble	have	Smith catch by diving sehwag at midwicket	PERSON	PERSON
+1.0	Kumble	have	Smith catch at short midwicket	PERSON	PERSON
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series against South Africa	PERSON	LOCATION
+1.0	India	take	new ball	LOCATION	0
+1.0	his	have	bat	O	O
+1.0	Sreesanth	have	wicket	O	PERSON
+1.0	Mark Boucher	put for	wicket	PERSON	0
+0.08417186681517996	Mark Boucher	eventually force	call for new ball	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series	PERSON	0
+0.08417186681517996	Mark Boucher	eventually force	call for second new ball after 115 over	PERSON	ORDINAL
+0.08417186681517996	Mark Boucher	force	call for second new ball	PERSON	ORDINAL
+1.0	Sreesanth 's 18th wicket	equal	record	ORDINAL	0
+1.0	Ashwell Prince	be in	next spinner	PERSON	0
+0.08417186681517996	Mark Boucher	eventually force	call for ball after 115 over	PERSON	MONEY
+1.0	India	employ	strangulation tactic	LOCATION	0
+1.0	Indian captain Rahul Dravid	call for	new ball	MISC	0
+1.0	Mark Boucher	put for	seventh wicket	PERSON	ORDINAL
+1.0	Mark Boucher	put on	69	PERSON	NUMBER
+1.0	a slow pitch	lead afterwards to	at least one more	0	NUMBER
+1.0	India	have	second double strike of day	LOCATION	ORDINAL
+1.0	Sreesanth 's wicket	equal	record	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for bowler	PERSON	0
+1.0	Virender Sehwag	strike blow to	South Africa 's hope	PERSON	LOCATION
+1.0	it	be	India 's second double strike	0	ORDINAL
+1.0	it	be	India 's double strike	0	LOCATION
+0.9445219455178006	equal	record for	bowler	0	0
+0.08417186681517996	Mark Boucher	eventually force	call for ball	PERSON	0
+1.0	Kallis	regain	Prince	PERSON	PERSON
+1.0	Kumble	have	Smith catch by diving sehwag at short midwicket	PERSON	PERSON
+0.08417186681517996	Mark Boucher	force	call for ball after 115 over	PERSON	MONEY
+1.0	Kallis	have put for	wicket	PERSON	0
+1.0	it	be	India 's second strike of day	0	ORDINAL
+1.0	Indian captain Rahul Dravid	call after	115 over	MISC	MONEY
+1.0	indian bowler	be in	series against South Africa	0	LOCATION
+1.0	continue	have	effect	0	0
+1.0	balls	have	made	O	O
+1.0	Test	have	day	DATE	O
+1.0	India	have	strike	O	LOCATION
+0.08417186681517996	Mark Boucher	eventually force	Shaun Pollock	PERSON	PERSON
+1.0	South Africa	to	hope	LOCATION	0
+1.0	Shanthakumaran Sreesanth	have	Amla	0	PERSON
+1.0	his	have	thigh pad	O	O
+1.0	Rahul Dravid	be	Indian	PERSON	MISC
+0.08417186681517996	Mark Boucher	force	call for second ball after 115 over	PERSON	ORDINAL
+1.0	Kumble	steadily have	Smith catch by diving sehwag	PERSON	PERSON
+1.0	Kallis	dig	Prince	PERSON	PERSON
+1.0	Kumble	steadily have	Smith	PERSON	PERSON
+1.0	it	be	India 's strike	0	LOCATION
+1.0	his	have	runs	O	O
+1.0	Kallis	have put for	fourth wicket	PERSON	ORDINAL
+0.08417186681517996	Mark Boucher	eventually force	call for second ball	PERSON	ORDINAL
+1.0	Anil Kumble	take	four wicket	PERSON	NUMBER
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for bowler in series against South Africa	PERSON	LOCATION
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series against South Africa	ORDINAL	LOCATION
+0.08417186681517996	Mark Boucher	force	call	PERSON	0
+1.0	South Africa	resume on	144	LOCATION	NUMBER
+1.0	Indian captain Rahul Dravid	call for	second new ball	MISC	ORDINAL
+1.0	Kumble	have	Smith catch by diving sehwag	PERSON	PERSON
+1.0	Indian captain Rahul Dravid	call for	ball	MISC	0
+1.0	Virender Sehwag	strike	third blow	PERSON	ORDINAL
+1.0	Kallis	slowly regain	Prince	PERSON	PERSON
+1.0	Indian captain Rahul Dravid	call for	second ball	MISC	ORDINAL
+0.9445219455178006	equal	record for	indian bowler	0	0
+1.0	it	be	Sreesanth 's wicket	0	PERSON
+0.9705646580934503	Smith	catch at	midwicket	PERSON	0
+0.08417186681517996	Mark Boucher	force	call for new ball after 115 over	PERSON	MONEY
+1.0	Pollock	have	wicket	O	LOCATION
+1.0	Zaheer Khan	have	caught	O	PERSON
+1.0	Kallis	be in	uncharacteristic fashion	PERSON	0
+1.0	it	be	India 's double strike of day	0	LOCATION
+1.0	a slow pitch	lead soon afterwards to	at least one more	0	NUMBER
+1.0	India	take	second new ball	LOCATION	ORDINAL
+1.0	Shanthakumaran Sreesanth	have	Amla catch by wicketkeeper Dinesh Karthik	0	PERSON
+1.0	Kallis	be in	out uncharacteristic fashion	PERSON	0
+1.0	it	be	Sreesanth 's 18th wicket in three match	0	NUMBER
+0.9445219455178006	equal	record for	bowler in series against South Africa	0	LOCATION
+1.0	South Africa	have	hopes	O	LOCATION
+0.08417186681517996	Mark Boucher	eventually force	call for second ball after 115 over	PERSON	ORDINAL
+1.0	Sreesanth 's 18th wicket	equal	record for bowler	ORDINAL	0
+1.0	Kallis -LRB- 54 -RRB-	have make	careful 54	PERSON	NUMBER
+1.0	South Africa	resume with	Smith	LOCATION	PERSON
+1.0	Munaf Patel	have	edging	O	PERSON
+1.0	Gibbs	be	unlucky	PERSON	0
+1.0	it	be	India 's second double strike of day	0	ORDINAL
+1.0	South African captain Graeme Smith	have	stumps	O	O
+1.0	thigh pad	have	leg fielder Wasim Jaffer	PERSON	O
+1.0	South Africa	have	three partnership	LOCATION	NUMBER
+1.0	Kumble	have	Smith	PERSON	PERSON
+1.0	it	be	India 's second strike	0	ORDINAL
+1.0	South Africa	resume for	one	LOCATION	NUMBER
+0.08417186681517996	Mark Boucher	eventually force	call after 115 over	PERSON	MONEY
+0.9705646580934503	Smith	catch by	diving sehwag	PERSON	0
+1.0	Shanthakumaran Sreesanth	have	Amla catch	0	PERSON
+0.9445219455178006	equal	record for	indian bowler in series	0	0
+1.0	old ball	be with	slow bowler in action	0	0
+1.0	continue	have	effect make	0	0
+1.0	ball	go to	leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for indian bowler	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for bowler in series	PERSON	0
+1.0	Mark Boucher	eventually force	Indian captain Rahul Dravid	PERSON	MISC
+0.9705646580934503	Smith	catch at	short midwicket	PERSON	0
+1.0	Virender Sehwag	strike	blow	PERSON	0
+1.0	ball	miss	he bat	0	0
+1.0	Mark Boucher	eventually force	Shaun Pollock	PERSON	PERSON
+1.0	Kumble	steadily have	Smith catch by diving sehwag at midwicket	PERSON	PERSON
+0.08417186681517996	Mark Boucher	eventually force	call for new ball after 115 over	PERSON	MONEY
+1.0	India	take	ball	LOCATION	0
+1.0	it	be	Sreesanth 's 18th wicket	0	ORDINAL
+1.0	veteran leg-spinner Kumble taking four for 117	bowl	Ashwell Prince	PERSON	PERSON
+1.0	Kallis	put	Prince	PERSON	PERSON
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler	ORDINAL	0
+0.9445219455178006	equal	record for	indian bowler in series against South Africa	0	LOCATION
+0.08417186681517996	Mark Boucher	force	call for second new ball after 115 over	PERSON	ORDINAL
+1.0	Sachin Tendulkar	make	breakthrough	PERSON	0
+1.0	Kallis	have put on	83	PERSON	NUMBER
+1.0	deliveries	have	making	O	O
+1.0	Kumble	steadily have	Smith catch by diving sehwag at short midwicket	PERSON	PERSON
+1.0	ball	go to	short leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+1.0	Kallis	be in	fashion	PERSON	0
+0.08417186681517996	Mark Boucher	force	call for ball	PERSON	0
+1.0	India	take	second ball	LOCATION	ORDINAL
+0.08417186681517996	Mark Boucher	eventually force	call	PERSON	0
+1.0	Kumble	steadily have	Smith catch	PERSON	PERSON
+1.0	key wicket	fall during	afternoon	0	TIME
+1.0	ball	go to	short leg fielder Wasim Jaffer	0	PERSON
+1.0	slow bowler	be in	action	0	0
+0.08417186681517996	Mark Boucher	put	Shaun Pollock	PERSON	PERSON
+1.0	Smith	hit	catch	PERSON	0
+1.0	Kallis	be in	out fashion	PERSON	0
+1.0	wicket	fall on	time	0	0
+1.0	Sreesanth	have	18th wicket in three match equal	PERSON	NUMBER
+1.0	Kumble	have	Smith catch	PERSON	PERSON
+1.0	three key wicket	fall during	afternoon	0	TIME
+1.0	Sachin Tendulkar	make	key breakthrough	PERSON	0
+1.0	it	be	India 's strike of day	0	LOCATION
+0.8015335418959469	Amla	catch by	wicketkeeper Dinesh Karthik	PERSON	PERSON
+1.0	a slow pitch	lead to	at least one more	0	NUMBER
+1.0	Boucher	make	50	PERSON	NUMBER
+1.0	a slow pitch	lead soon to	at least one more	0	NUMBER
+0.08417186681517996	Mark Boucher	force	call for second ball	PERSON	ORDINAL
+0.08417186681517996	Mark Boucher	force	Shaun Pollock	PERSON	PERSON
+1.0	Mark Boucher	force	Indian captain Rahul Dravid	PERSON	MISC
+1.0	ball	go to	leg fielder Wasim Jaffer	0	PERSON

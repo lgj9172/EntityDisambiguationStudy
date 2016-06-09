@@ -1,0 +1,155 @@
+1.0	government	backtrack despite	confusion about impact	0	DURATION
+1.0	investors	have	confidence	O	O
+1.0	their	have	level	O	O
+1.0	rule	be announce with	Stock Exchange of Thailand	0	ORGANIZATION
+1.0	company	be affect by	change	0	0
+1.0	Temasek	have	3.8-billion-dollar takeover of Shin Corp	ORGANIZATION	ORGANIZATION
+0.08417186681517996	Advance Info Services	would	would force to restructure	ORGANIZATION	0
+1.0	deal	be	affect	0	0
+1.0	revise investment law	even produce	few change in practice	0	0
+0.7676456568083988	investment law	change in	practice	0	0
+1.0	revise investment law	produce	few change in practice	0	0
+1.0	rule	be announce with	Stock Exchange composite up 15.36 point to 637.63	0	NUMBER
+1.0	telecom	have	part	O	O
+1.0	voting rights	be in	company	0	0
+1.0	Thailand 's military-installed government	limit	they	LOCATION	0
+1.0	companies	have	categories	O	O
+1.0	record 15-percent sell-off	be in	stock	0	0
+1.0	Thai share price	rise by	2.47 percent	MISC	PERCENT
+1.0	government	reverse	some of key provision	0	0
+1.0	investment law	produce	few change in practice	0	0
+1.0	law	have	details	O	O
+1.0	shares	have	percent	PERCENT	O
+1.0	new rule	be announce with	Stock Exchange	0	ORGANIZATION
+1.0	she	tell	AFP	0	ORGANIZATION
+1.0	their	have	investments	O	O
+1.0	Thailand 's military-installed government	approve rule for	foreign investor	LOCATION	0
+1.0	rule	be announce with	Stock Exchange up 15.36 point to 637.63	0	NUMBER
+1.0	government	reverse	some provision	0	0
+1.0	government	quickly reverse	some of key provision	0	0
+1.0	it	have	details	O	O
+1.0	it	appear	unclear	0	0
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover by Singapore 's investment firm	ORGANIZATION	LOCATION
+1.0	rule	be announce with	Stock Exchange composite	0	ORGANIZATION
+1.0	rule	be announce with	Stock Exchange of Thailand up 15.36 point	0	ORGANIZATION
+1.0	Temasek	have	control of Shin Corp	ORGANIZATION	ORGANIZATION
+1.0	Shin Corp	have	takeover	O	ORGANIZATION
+1.0	new rule	be announce with	Stock Exchange of Thailand composite	0	ORGANIZATION
+1.0	government	reverse	some	0	0
+1.0	gain	come in	chaotic week	0	DURATION
+1.0	investment law	produce	change in practice	0	0
+1.0	voting rights	have	percent	PERCENT	O
+1.0	government	quickly reverse	some key provision	0	0
+1.0	few change	be in	practice	0	0
+1.0	government	backtrack despite	confusion about impact of new investment rule	0	DURATION
+1.0	Shin Corp	have	control	O	ORGANIZATION
+1.0	capital control rule	have already shake	investor ' confidence	0	0
+1.0	Thailand	have	stock market	O	LOCATION
+1.0	investment law	even produce	change in practice	0	0
+1.0	Singapore	have	investment firm	O	LOCATION
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover	ORGANIZATION	0
+1.0	Thailand 's government	approve rule for	investor	LOCATION	0
+1.0	revise investment law	even produce	change in practice	0	0
+1.0	Thailand 's stock market	rebound at_time	Thursday	LOCATION	DATE
+1.0	Thailand 's military-installed government Tuesday	limit	they	LOCATION	0
+1.0	Thailand	have	stock market	LOCATION	DURATION
+1.0	new rule	be announce with	Stock Exchange composite	0	ORGANIZATION
+1.0	10,000 company	be affect by	change	NUMBER	0
+1.0	Thailand 's military-installed government Tuesday	approve	new rule	LOCATION	0
+1.0	Thailand 's government	approve	new rule	LOCATION	0
+1.0	new rule	be announce with	Stock Exchange of Thailand composite up 15.36 point to 637.63	0	NUMBER
+1.0	company	be	affect	0	0
+1.0	Thailand 's government Tuesday	approve rule for	investor	LOCATION	0
+1.0	he	soften	impact of law	0	0
+1.0	rule	be announce with	Stock Exchange up 15.36 point	0	ORGANIZATION
+1.0	provisions	have	some	O	O
+1.0	government	backtrack on	its major policy change	0	DURATION
+1.0	Thailand 's government	approve rule for	foreign investor	LOCATION	0
+1.0	rule	be announce with	Stock Exchange	0	ORGANIZATION
+1.0	government	quickly reverse	some of provision	0	0
+1.0	Thailand 's government Tuesday	approve	new rule	LOCATION	0
+1.0	deal	be affect at	all	0	0
+1.0	The Shin Corp sale	have	investment law	O	O
+1.0	anonymity	have	condition	O	O
+1.0	investment rules	have	impact	O	O
+1.0	new rule	be announce with	Stock Exchange up 15.36 point	0	ORGANIZATION
+1.0	Thai share price	rise at_time	Thursday	MISC	DATE
+1.0	authority	insist at_time	Wednesday	0	DATE
+1.0	Advance Info Services	have	takeover	O	O
+1.0	law	have	revision	O	O
+1.0	implication	be	huge especially	0	0
+1.0	he	soften	impact of new law	0	0
+1.0	Finance Minister Pridiyathorn Devakula	tell investor at_time	Wednesday	PERSON	DATE
+1.0	new rule	be announce with	Stock Exchange of Thailand	0	ORGANIZATION
+1.0	government	backtrack despite	confusion about impact of investment rule	0	DURATION
+1.0	government	backtrack in	a	0	DURATION
+1.0	he	soften	impact	0	0
+1.0	new rule	be announce with	Stock Exchange composite up 15.36 point	0	ORGANIZATION
+1.0	rule	be announce with	Stock Exchange of Thailand composite	0	ORGANIZATION
+1.0	Thailand 's military-installed government Tuesday	approve rule for	investor	LOCATION	0
+1.0	Thailand 's military-installed government	approve	new rule	LOCATION	0
+1.0	new rule	be	announce	0	0
+1.0	Thailand 's government	limit	they	LOCATION	0
+1.0	rule	be announce with	Stock Exchange of Thailand composite up 15.36 point to 637.63	0	NUMBER
+1.0	foreign investors	have	confidence	O	O
+1.0	government	backtrack on	its second policy change	0	ORDINAL
+1.0	gain	come in	week	0	DURATION
+1.0	minister Thaksin Shinawatra	have	ouster	O	PERSON
+1.0	new rule	be announce with	Stock Exchange composite up 15.36 point to 637.63	0	NUMBER
+1.0	Thai media	report at_time	Thursday	MISC	DATE
+1.0	Supong	tell	AFP	PERSON	ORGANIZATION
+1.0	investment law	even produce	few change in practice	0	0
+1.0	law	of	revision	0	0
+1.0	Thailand 's military-installed government Tuesday	approve rule for	foreign investor	LOCATION	0
+1.0	new rule	be announce with	Stock Exchange of Thailand up 15.36 point to 637.63	0	NUMBER
+1.0	rule	be announce with	Stock Exchange of Thailand up 15.36 point to 637.63	0	NUMBER
+1.0	law	have	effects	O	O
+1.0	Pridiyathorn	be on	Wednesday	PERSON	DATE
+1.0	rule	be announce with	Stock Exchange of Thailand composite up 15.36 point	0	ORGANIZATION
+1.0	Advance Info Services	part of	telecom	ORGANIZATION	0
+1.0	Thailand	have	military-installed government Tuesday	LOCATION	DATE
+1.0	government	reverse	some key provision	0	0
+1.0	rule	be announce with	Stock Exchange composite up 15.36 point	0	ORGANIZATION
+1.0	their	have	money	O	O
+1.0	government	backtrack on	its policy change	0	DURATION
+1.0	revise investment law	produce	change in practice	0	0
+1.0	new rule	be announce with	Stock Exchange up 15.36 point to 637.63	0	NUMBER
+1.0	government	quickly reverse	some	0	0
+1.0	new rule	be announce with	Stock Exchange of Thailand up 15.36 point	0	ORGANIZATION
+1.0	Temasek	have	control	O	ORGANIZATION
+1.0	government	backtrack on	its second major policy change	0	ORDINAL
+1.0	Finance Minister Pridiyathorn Devakula	tell	investor	PERSON	0
+1.0	Thailand 's government Tuesday	approve rule for	foreign investor	LOCATION	0
+1.0	new rule	be announce with	Stock Exchange of Thailand composite up 15.36 point	0	ORGANIZATION
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover by Singapore 's state-linked investment firm	ORGANIZATION	LOCATION
+1.0	government	backtrack despite	confusion	0	0
+1.0	10,000 company	be	affect	NUMBER	0
+1.0	the government	have	policy change	O	O
+1.0	government	quickly reverse	some provision	0	0
+1.0	Thailand 's government Tuesday	limit	they	LOCATION	0
+1.0	government	reverse	some of provision	0	0
+0.7676456568083988	investment law	few change in	practice	0	0
+1.0	Singapore	by	state-linked investment firm	LOCATION	0
+1.0	Thanomsri Fongkarunrung	economist at	Phatra Securities	PERSON	ORGANIZATION
+1.0	law	have	impact	O	O
+1.0	new investor	would	would affect	0	0
+1.0	Thailand 's military-installed government	approve	rule	LOCATION	0
+1.0	government	backtrack at_time	month	0	DURATION
+1.0	Thailand 's government	approve	rule	LOCATION	0
+1.0	Thai share price	slightly exceed	they level	MISC	0
+1.0	Thailand	have	Stock Exchange	ORGANIZATION	ORGANIZATION
+0.7676456568083988	revise investment law	few change in	practice	0	0
+1.0	rule	be	announce	0	0
+1.0	Thailand 's military-installed government Tuesday	approve	rule	LOCATION	0
+1.0	Thailand	have	government	O	LOCATION
+1.0	Thai share price	exceed	they level	MISC	0
+1.0	implication	be	huge	0	0
+1.0	Temasek	have	takeover	O	ORGANIZATION
+1.0	it	now appear	unclear	0	0
+1.0	Thailand 's government Tuesday	approve	rule	LOCATION	0
+0.7676456568083988	revise investment law	change in	practice	0	0
+1.0	capital control rule	have shake	investor ' confidence	0	0
+1.0	Thailand 's military-installed government	approve rule for	investor	LOCATION	0
+1.0	investor	would	would affect	0	0
+0.08417186681517996	Advance Info Services	would	would force	ORGANIZATION	0
+1.0	revision	have	implication	O	O

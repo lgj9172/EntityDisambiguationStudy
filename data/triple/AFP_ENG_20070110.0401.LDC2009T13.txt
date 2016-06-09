@@ -1,0 +1,78 @@
+1.0	Costas Karamanlis	be	quote	PERSON	0
+1.0	The government	have	plans	O	O
+1.0	communist-affiliated activist	be detain by	police	0	0
+1.0	communist-affiliated activist	be	earlier detain	0	0
+1.0	constitution	permit	operation of university	0	0
+1.0	propose change	have trigger	demonstration	0	0
+1.0	government	stem	flow of student	0	0
+1.0	government	stem	massive flow	0	0
+1.0	change	have trigger	several demonstration	0	0
+1.0	protest	be in	Athens	0	LOCATION
+1.0	government	amend constitution in	hope	0	0
+1.0	change	have trigger	demonstration	0	0
+1.0	tomb of the unknown soldier	site of	remembrance	LOCATION	0
+1.0	Left	have	parties	O	O
+1.0	Costas Karamanlis	say by	ANA	PERSON	0
+1.0	debate	begin on	propose change to constitution	0	0
+1.0	constitution	permit	operation of private university	0	0
+1.0	communist-affiliated activist	be	earlier on Wednesday detain by police	0	DATE
+1.0	eight communist-affiliated activist	be	earlier detain	NUMBER	0
+1.0	Costas Karamanlis	say by	Athens News Agency	PERSON	ORGANIZATION
+1.0	Volos	have	cities	O	LOCATION
+1.0	debate	continue in	parliament	0	0
+1.0	propose change	have trigger	several demonstration	0	0
+1.0	thousand	hold	protest in Athens	0	LOCATION
+1.0	debate	begin on	change	0	0
+1.0	eight communist-affiliated activist	be detain by	police	NUMBER	0
+1.0	Prime Minister Costas Karamanlis	have	effigies	O	PERSON
+1.0	eight communist-affiliated activist	be	earlier on Wednesday detain	NUMBER	DATE
+1.0	debate	begin on	Wednesday	0	DATE
+1.0	university	open in	Greece	0	LOCATION
+1.0	government	stem	flow of greek student	0	0
+1.0	communist-affiliated activist	earlier be detain by	police	0	0
+1.0	eight communist-affiliated activist	earlier be detain by	police	NUMBER	0
+0.14059619431790493	thousand	allow	open	0	0
+1.0	thousand	allow	university	0	0
+1.0	government	stem	massive flow of student	0	0
+1.0	communist-affiliated activist	be	detain	0	0
+1.0	Salonika	have	cities	O	LOCATION
+1.0	academics	have	Thousands	O	O
+1.0	government	stem flow to	university	0	0
+1.0	thousand	allow	private university	0	0
+1.0	GDP	have	percent	PERCENT	O
+1.0	communist-affiliated activist	be	earlier on Wednesday detain	0	DATE
+1.0	labour union	by backed be	Communists	0	MISC
+1.0	thousand	hold	protest	0	0
+1.0	private university	open in	Greece	0	LOCATION
+1.0	The leader of the main opposition socialists	have	party	O	O
+0.14059619431790493	thousand	allow	open in Greece	0	LOCATION
+1.0	government	amend	constitution	0	0
+1.0	universities	have	operation	O	O
+1.0	university students	have	Thousands	O	O
+1.0	government	stem	flow	0	0
+1.0	higher education amendment	display of	consensus	0	0
+1.0	eight communist-affiliated activist	be	detain	NUMBER	0
+1.0	debate	begin on	change to constitution	0	0
+1.0	remembrance	have	site	O	O
+1.0	Iraklio	have	cities	O	LOCATION
+1.0	government	stem flow to	university abroad	0	0
+0.9473236585523636	the proposed changes to the constitution	be	non-negotiable	0	0
+1.0	debate	begin on	propose change	0	0
+1.0	coffin	dress as	undertaker	0	0
+0.42480615764791513	Greeks	fall in	combat	MISC	0
+1.0	constitution	permit	operation	0	0
+1.0	government	stem	massive flow of greek student	0	0
+1.0	students	have	flow	O	O
+1.0	opposition leader George Papandreou	have	effigies	O	PERSON
+1.0	propose change	have trigger demonstration since	June	0	DATE
+1.0	The government	have	critics	O	O
+1.0	Patras	have	cities	O	LOCATION
+1.0	change	have trigger demonstration since	June	0	DATE
+1.0	leader	have call upon	he party	0	0
+1.0	eight communist-affiliated activist	be	earlier on Wednesday detain by police	NUMBER	DATE
+1.0	Costas Karamanlis	say on	Wednesday	PERSON	DATE
+1.0	government	assuage	its critic	0	0
+1.0	protestor	carry during	Athens demo	0	LOCATION
+1.0	consensus	have	display	O	O
+1.0	opposition socialists	have	leader	O	O
+1.0	Soldier	have	Tomb	LOCATION	LOCATION

@@ -1,0 +1,82 @@
+1.0	world	have	do-it retailer	0	0
+1.0	update	be	release shortly	0	0
+1.0	its chief executive Bob Nardelli	have leave home depot under	fire	PERSON	0
+1.0	US bank	keep	its key fed fund rate	LOCATION	0
+1.0	fresh update	be release after	market open	0	0
+1.0	economic update	be	release	0	0
+1.0	Dow Jones Industrial Average	be after	9.37 point higher opening bell	MISC	NUMBER
+1.0	trader	say aside from	Nardelli 's departure	0	PERSON
+1.0	fresh update	be release shortly after	market	0	0
+1.0	Nasdaq composite	have gain	0.75 percent	MISC	PERCENT
+1.0	US central bank	keep	its key fed fund rate peg	LOCATION	0
+1.0	update	be	due	0	0
+1.0	The US central bank	have	fed funds rate	O	O
+1.0	its chief executive Bob Nardelli	have leave home depot under	fire for size of he compensation	PERSON	0
+1.0	Home Depot	have	executive Bob Nardelli	PERSON	O
+1.0	Dow Jones Industrial Average	be after	higher opening bell	MISC	0
+1.0	Nardelli	aside from	departure from Home Depot	PERSON	ORGANIZATION
+1.0	Nardelli	have	departure	O	PERSON
+1.0	economic update	be release after	market open	0	0
+1.0	2007	have	trading day	DATE	DATE
+1.0	US bank	keep	its fed fund rate peg	LOCATION	0
+1.0	fresh update	be	release	0	0
+1.0	US bank	keep	its key fed fund rate peg at 5.25 percent on December 12	LOCATION	PERCENT
+1.0	1,421.30	at point be	0.21 percent	NUMBER	PERCENT
+1.0	US bank	keep	its fed fund rate peg at 5.25 percent on December 12	LOCATION	PERCENT
+1.0	US bank	keep	its fed fund rate	LOCATION	0
+1.0	tech-heavy Nasdaq composite	have gain	18.12 point	MISC	NUMBER
+1.0	tech-heavy Nasdaq composite	have gain	0.75 percent	MISC	PERCENT
+1.0	Nasdaq composite	have gain	18.12 point	MISC	NUMBER
+1.0	fresh update	be	due	0	0
+1.0	fresh economic update	be	also due	0	0
+1.0	update	be release shortly after	market	0	0
+1.0	fresh economic update	be release shortly after	market	0	0
+1.0	fresh economic update	be release after	market	0	0
+1.0	fresh economic update	be release after	market open	0	0
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	its chief executive Bob Nardelli	have leave	Home Depot with immediate effect	PERSON	ORGANIZATION
+1.0	its chief executive Bob Nardelli	have leave home depot under	fire for size	PERSON	0
+1.0	fresh update	be	also due	0	0
+1.0	US bank	keep	its fed fund rate peg at 5.25 percent	LOCATION	PERCENT
+1.0	compensation	have	size	O	O
+1.0	fresh economic update	be	due	0	0
+1.0	US central bank	keep	its fed fund rate	LOCATION	0
+1.0	210-million-dollar payoff	retailer 's	world	0	0
+1.0	Dow Jones Industrial Average	be after	9.37 point higher at 12,472.52 just opening bell	MISC	NUMBER
+1.0	its chief executive Bob Nardelli	have	compensation	O	O
+1.0	US central bank	keep	its key fed fund rate peg at 5.25 percent	LOCATION	PERCENT
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	trader	say aside from	Nardelli 's departure from Home Depot	0	ORGANIZATION
+1.0	US central bank	keep	its key fed fund rate	LOCATION	0
+1.0	its chief executive Bob Nardelli	have leave	Home Depot	PERSON	ORGANIZATION
+1.0	its chief executive Bob Nardelli	have leave	Home Depot with effect	PERSON	ORGANIZATION
+1.0	fresh economic update	be	release shortly	0	0
+1.0	update	be	also due	0	0
+1.0	US central bank	keep	its fed fund rate peg at 5.25 percent	LOCATION	PERCENT
+1.0	economic update	be	due	0	0
+1.0	fresh economic update	be release shortly after	market open	0	0
+1.0	update	be	release	0	0
+1.0	fresh update	be release shortly after	market open	0	0
+1.0	economic update	be	also due	0	0
+1.0	update	be release after	market open	0	0
+1.0	US central bank	keep	its fed fund rate peg at 5.25 percent on December 12	LOCATION	PERCENT
+1.0	economic update	be release shortly after	market	0	0
+1.0	fresh economic update	be	release	0	0
+1.0	US bank	keep	its key fed fund rate peg	LOCATION	0
+1.0	US central bank	keep	its fed fund rate peg	LOCATION	0
+1.0	Federal Reserve	have	interest-rate	O	ORGANIZATION
+1.0	Federal Reserve	from	last interest-rate	ORGANIZATION	0
+1.0	executive Bob Nardelli	have	surprise departure	O	PERSON
+1.0	fresh update	be	release shortly	0	0
+1.0	world	have	retailer	O	O
+1.0	US central bank	keep	its key fed fund rate peg at 5.25 percent on December 12	LOCATION	PERCENT
+1.0	fresh update	be release after	market	0	0
+1.0	economic update	be	release shortly	0	0
+1.0	Home Depot	be with	immediate effect	ORGANIZATION	0
+1.0	Dow Jones Industrial Average	be after	higher at 12,472.52 just opening bell	MISC	NUMBER
+1.0	update	be release shortly after	market open	0	0
+1.0	economic update	be release after	market	0	0
+1.0	Dow Jones Industrial Average	be after	opening bell	MISC	0
+1.0	update	be release after	market	0	0
+1.0	US bank	keep	its key fed fund rate peg at 5.25 percent	LOCATION	PERCENT
+1.0	economic update	be release shortly after	market open	0	0

@@ -1,0 +1,32 @@
+1.0	EU energy source	slash	carbon emission	ORGANIZATION	0
+1.0	german energy industry	express scepticism at	proposal	0	0
+1.0	german energy industry	express scepticism at_time	Wednesday	0	DATE
+1.0	energy industry	express scepticism at_time	Wednesday	0	DATE
+1.0	german energy industry	express scepticism at	latest proposal by european Commission	0	ORGANIZATION
+1.0	energy	have	sources	O	O
+1.0	german energy industry	express scepticism at	latest proposal by Commission	0	ORGANIZATION
+1.0	EU	have	dependence	O	ORGANIZATION
+1.0	german energy industry	express	scepticism	0	0
+1.0	energy industry	express scepticism at	latest proposal by Commission	0	ORGANIZATION
+1.0	german energy industry	express scepticism at	proposal by european Commission	0	ORGANIZATION
+1.0	energy industry	express scepticism at	latest proposal by european Commission	0	ORGANIZATION
+1.0	EU energy source	slash carbon emission by	20 percent	ORGANIZATION	PERCENT
+1.0	energy industry	express scepticism at	proposal	0	0
+1.0	energy industry	express scepticism at	latest proposal	0	0
+1.0	energy industry	diversify	EU energy source	0	ORGANIZATION
+1.0	german energy industry	diversify	EU energy source	0	ORGANIZATION
+1.0	energy industry	express scepticism at	proposal by european Commission	0	ORGANIZATION
+1.0	EU energy source	enforce	rule for fuel competition	ORGANIZATION	0
+0.7796488909999457	enforce	rule for	fuel competition	0	0
+1.0	EU 's dependence	be on	energy supplies from Russia	ORGANIZATION	LOCATION
+1.0	EU 's dependence	be on	energy supplies	ORGANIZATION	0
+1.0	german energy industry	express scepticism at	proposal by Commission	0	ORGANIZATION
+1.0	joint statement	in head be	Milan Nitzschke	0	ORGANIZATION
+1.0	EU	have	dependence	ORGANIZATION	0
+1.0	german energy industry	express scepticism at	latest proposal	0	0
+1.0	energy industry	express scepticism at	proposal by Commission	0	ORGANIZATION
+1.0	head	be in	joint statement	0	0
+1.0	EU energy source	enforce	rule	ORGANIZATION	0
+1.0	energy industry	express	scepticism	0	0
+1.0	energy policy	have	shortcomings	O	O
+1.0	BEE	have	head	O	O

@@ -1,0 +1,44 @@
+1.0	defence ministry spokesman Ibrahim Shaker	tell afp at_time	central Baghdad Wednesday following a day of heavy fighting in which at least 50 militants were killed	PERSON	DATE
+1.0	defence ministry spokesman Ibrahim Shaker	tell	AFP	PERSON	ORGANIZATION
+1.0	military	say at_time	central Baghdad Wednesday following a day of heavy fighting in which at least 50 militants were killed	0	DATE
+1.0	government	have	seat	O	O
+1.0	army	launch	operation	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	war	have	Haifa Street sector	O	O
+1.0	army	launch operation before	dawn	0	DATE
+1.0	hideout	be in	Haifa Street	0	LOCATION
+1.0	Sunni insurgents	have	stronghold	O	O
+1.0	Iraqi troops	be in	out force	0	0
+1.0	Iraqi troops	be in	force on street	0	0
+0.727287516361632	troops	stronghold of	Sunni insurgent	0	MISC
+0.5952787548667478	army	back by	US force	0	LOCATION
+1.0	gunfire	have	sound	O	O
+0.727287516361632	troops	notorious stronghold of	Sunni insurgent	0	MISC
+1.0	army	launch	massive operation	0	0
+1.0	Haifa Street battle	underscore	precarious security situation	LOCATION	0
+0.727287516361632	iraqi troops	notorious stronghold of	Sunni insurgent	DATE	MISC
+0.5952787548667478	iraqi army	back by	US force	0	LOCATION
+1.0	operation	be in	Haifa Street	0	LOCATION
+1.0	Ali al-Dabbagh	be government spokesman of	Iraq 's	PERSON	LOCATION
+1.0	at least 50 militants	have	area	O	O
+1.0	issues	have	one	NUMBER	O
+1.0	Haifa Street battle	underscore	security situation	LOCATION	0
+1.0	Haifa Street battle	be	address	LOCATION	0
+1.0	Iraq	of	government	LOCATION	0
+1.0	fighting	have	day	DATE	O
+1.0	precarious security situation	be in	Baghdad	0	LOCATION
+1.0	iraqi army	launch	operation	0	0
+1.0	Haifa Street battle	underscore	precarious security situation in Baghdad	LOCATION	LOCATION
+1.0	Haifa Street battle	underscore	security situation in Baghdad	LOCATION	LOCATION
+1.0	iraqi army	launch operation at_time	Tuesday	0	DATE
+1.0	army	launch operation at_time	Tuesday	0	DATE
+1.0	operation	have	support	O	O
+1.0	Iraqi troops	be in	force	0	0
+1.0	iraqi army	launch	massive operation	0	0
+1.0	Iraqi troops	be in	out force on street	0	0
+0.727287516361632	iraqi troops	stronghold of	Sunni insurgent	DATE	MISC
+1.0	Dabbagh	tell	reporter	PERSON	0
+1.0	iraqi army	launch operation before	dawn	0	DATE
+1.0	Iraq	have	government	O	LOCATION
+1.0	George W. Bush	be by	US	PERSON	LOCATION
+1.0	Ali al-Dabbagh	be	Iraq 's	PERSON	LOCATION

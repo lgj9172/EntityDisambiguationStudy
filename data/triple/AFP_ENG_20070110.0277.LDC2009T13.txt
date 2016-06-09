@@ -1,0 +1,40 @@
+1.0	worker	ignore strike call by	union at city 's three bid department store	0	TIME
+1.0	crowd	take luxury goods counter by	storm	0	0
+1.0	crowd	take	luxury goods counter	0	0
+1.0	France	of	three-week winter sale	LOCATION	DATE
+1.0	city	at	three bid department store	0	NUMBER
+1.0	sales	have	day	DURATION	O
+1.0	crowd	take	luxury goods counter of capital 's major department store	0	0
+1.0	worker	ignore strike call over	decision	0	TIME
+1.0	winter sales	have	start	O	O
+1.0	retailer	be offer	discount	0	0
+1.0	worker	appear despite	fear	0	0
+1.0	shoppers	have	Crowds	O	O
+1.0	crowd	take	luxury goods counter of capital 's department store	0	0
+1.0	capital	of	major department store	0	0
+1.0	many retailer	be offer	discount	0	0
+1.0	disruption	have	fears	O	O
+1.0	sector	of	turnover	0	0
+1.0	worker	ignore strike call by	union	0	TIME
+1.0	France	have	winter sales	O	LOCATION
+1.0	worker	ignore	strike call	0	0
+0.14059619431790493	worker	ignore strike call over	decision allow	0	TIME
+1.0	retailer	be offer	deep discount	0	0
+1.0	consumers	have	percent	PERCENT	O
+1.0	workers	have	opening hours	DURATION	O
+1.0	capital	have	department stores	O	O
+1.0	bargain hunter	know	tourist	0	0
+1.0	French consumers	have	clothes	O	O
+1.0	turnover	have	quarter	DURATION	O
+1.0	Paris shop	extend	they opening hour	LOCATION	0
+1.0	city	have	bid department stores	O	O
+1.0	percent	have	discounts	O	PERCENT
+1.0	department stores	have	luxury goods counters	O	O
+1.0	wish list	be in	the week	0	DURATION
+1.0	worker	appear despite	fear of disruption	0	TIME
+1.0	sector	have	turnover	O	O
+0.8825997733445483	decision	allow	Paris shop	TIME	LOCATION
+1.0	web users	have	two-thirds	O	O
+1.0	bargain hunter	be in	the	0	0
+1.0	bargain hunter	know	fashionista	0	0
+1.0	many retailer	be offer	deep discount	0	0

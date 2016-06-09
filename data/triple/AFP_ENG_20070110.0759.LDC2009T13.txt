@@ -1,0 +1,70 @@
+1.0	Bank of Japan	of	policy board	ORGANIZATION	0
+1.0	company	announce	plan	0	0
+1.0	policy board	have	Bank	ORGANIZATION	O
+1.0	dealer	set aside	interest rate jitters	0	0
+1.0	foreign investors	have	positions	O	O
+1.0	investors	be	encourage	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after loss	ORGANIZATION	0
+0.164266332496663	Nintendo	jump to	30,250	ORGANIZATION	NUMBER
+1.0	investor	take heart from	rally	0	0
+0.28627611980559997	japanese share price	rise at_time	Thursday	0	DATE
+1.0	South Korea	have	Samsung Electronics	ORGANIZATION	LOCATION
+1.0	share price	rise	0.25 percent	0	PERCENT
+1.0	investor	take heart on	Wall Street	0	LOCATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+0.28627611980559997	share price	rise at_time	Thursday	0	DATE
+1.0	dealer	set aside	local interest rate jitters	0	0
+1.0	company	raise	its forecast	0	0
+1.0	money	have	flow	O	O
+1.0	company	raise	its forecast of profit for year	0	DATE
+1.0	japanese share price	rise	0.25 percent in morning trade	0	TIME
+1.0	Kazuhiro Takahashi	manager at	Daiwa Securities SMBC	PERSON	ORGANIZATION
+1.0	change	be in	flow of money invest by hedge fund arise from drop	0	0
+1.0	0.25 percent	be in	morning trade	PERCENT	TIME
+1.0	Norihiro Fujito	strategist at	Mitsubishi UFJ Securities	PERSON	ORGANIZATION
+1.0	Elpida memory	gain	160 yen	ORGANIZATION	MONEY
+1.0	company	raise	its forecast of profit for year end March	0	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after loss Wednesday	ORGANIZATION	DATE
+1.0	decline	be in	oil price	0	0
+1.0	decline	have	emerging	O	O
+1.0	company	raise	its forecast of net profit for year end March	0	DATE
+1.0	investors	be encourage by	rally	0	0
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Matsushita Electric Industrial	be	50 yen at 2,340	ORGANIZATION	MONEY
+1.0	dealer	set	interest rate jitters	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break	ORGANIZATION	0
+1.0	next week	have	decision	O	O
+1.0	meeting next week	be with	market still divide about	DATE	0
+1.0	100 billion	have	projection	O	MONEY
+1.0	share price	rise	0.25 percent in morning trade	0	TIME
+1.0	japanese share price	rise	0.25 percent	0	PERCENT
+1.0	volume	drop on	Wednesday	0	DATE
+1.0	volume	drop from	1.0 billion	0	NUMBER
+1.0	Japan	have	policy board	O	ORGANIZATION
+1.0	company	raise	its forecast of profit	0	0
+1.0	company	raise	its forecast of net profit	0	0
+1.0	Bank	have	meeting	O	ORGANIZATION
+1.0	dealer	set	local interest rate jitters	0	0
+1.0	companies	have	TOPIX index	O	O
+1.0	the company	have	forecast	O	O
+1.0	company	raise	its forecast of net profit for year end	0	DATE
+1.0	company	raise	its forecast of profit for year end	0	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break Wednesday	ORGANIZATION	DATE
+1.0	volume	drop to	990 million share	0	NUMBER
+1.0	South Korea	before	Samsung Electronics	LOCATION	ORGANIZATION
+1.0	volume	drop at_time	morning	0	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after sharp loss Wednesday	ORGANIZATION	DATE
+1.0	decision	have	meeting	O	O
+1.0	Matsushita Electric Industrial	be	50 yen	ORGANIZATION	MONEY
+1.0	investor	take heart from	overnight rally	0	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put on	42.56 point	ORGANIZATION	NUMBER
+1.0	drop	be in	crude oil price	0	0
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	investors	be encourage by	rally on Wall Street	0	0
+1.0	company	raise	its forecast of net profit for year	0	DATE
+1.0	profit	have	forecast	O	O
+1.0	Samsung Electronics	be in	bid reap	ORGANIZATION	0
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put to	16,984.96	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	put by	lunch break after sharp loss	ORGANIZATION	0
+1.0	investor	take	heart	0	0

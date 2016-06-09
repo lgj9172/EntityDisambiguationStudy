@@ -1,0 +1,71 @@
+1.0	Fallujah	be	capture by US troops after major assault in November 2004	LOCATION	DATE
+1.0	police	be	3,000 iraqi soldier	0	NUMBER
+1.0	700 police	be currently	3,000 soldier in Fallujah	NUMBER	LOCATION
+1.0	Fallujah	be capture by	US troops	LOCATION	LOCATION
+1.0	Fallujah	be	capture by US troops after assault in November 2004	LOCATION	DATE
+1.0	Fallujah	be capture after	major assault	LOCATION	0
+1.0	Fallujah	be	capture	LOCATION	0
+1.0	US marine	have man security post since	arrival	LOCATION	0
+1.0	Fallujah	be	capture by US troops after assault	LOCATION	LOCATION
+0.9787443462664682	Fallujah	once symbol of	sunni-led anti-us insurgency	LOCATION	0
+0.8214160469631357	soldier	be from	3rd battalion	0	ORDINAL
+1.0	US marine	have man security post in	ago Fallujah	LOCATION	DATE
+1.0	two	have	altercation	NUMBER	0
+1.0	US marine	have man security post since	arrival of unit	LOCATION	0
+1.0	two	have	altercation at post	NUMBER	0
+1.0	US marine	have man security post in	several month ago Fallujah	LOCATION	DATE
+1.0	security responsibility	have	transition	O	O
+0.7215856571053689	two	altercation at	post at Fallujah government centre	NUMBER	LOCATION
+1.0	US marine	have man security post in	Fallujah	LOCATION	LOCATION
+1.0	Fallujah	be capture after	assault in November 2004	LOCATION	DATE
+1.0	US marine	have man	combined security post	LOCATION	0
+1.0	police	be	3,000 iraqi soldier in Fallujah	0	LOCATION
+1.0	700 police	be	3,000 soldier	NUMBER	NUMBER
+1.0	two	have	altercation at post at Fallujah government centre	NUMBER	LOCATION
+1.0	incident	occur on	Saturday	0	DATE
+1.0	US marine	have man	security post	LOCATION	0
+1.0	Fallujah	be	capture by US troops after major assault	LOCATION	LOCATION
+1.0	police	be	3,000 soldier	0	NUMBER
+1.0	Fallujah	be capture after	major assault in November 2004	LOCATION	DATE
+0.9787443462664682	Fallujah	symbol of	sunni-led insurgency	LOCATION	0
+1.0	police	be currently	3,000 iraqi soldier	0	NUMBER
+1.0	two	have altercation in	province of Al-Anbar	NUMBER	LOCATION
+0.7215856571053689	two	altercation at	post	NUMBER	0
+1.0	700 police	be currently	3,000 iraqi soldier in Fallujah	NUMBER	LOCATION
+0.9787443462664682	Fallujah	symbol of	sunni-led anti-us insurgency	LOCATION	0
+1.0	700 police	be currently	3,000 iraqi soldier	NUMBER	NUMBER
+1.0	major assault	be in	November 2004	0	DATE
+1.0	security forces	have	members	O	O
+1.0	3,000 iraqi soldier	be in	Fallujah	NUMBER	LOCATION
+1.0	US marine	have man security post in	month ago Fallujah	LOCATION	DATE
+1.0	700 police	be currently	3,000 soldier	NUMBER	NUMBER
+1.0	police	be	3,000 soldier in Fallujah	0	LOCATION
+1.0	5	battalion at_time	24th Marine Regiment regimental Combat Team	NUMBER	ORDINAL
+1.0	police	be currently	3,000 soldier	0	NUMBER
+1.0	combined security post	be in	former Sunni rebel bastion of Fallujah	0	MISC
+0.8214160469631357	soldier	be from	battalion	0	0
+1.0	Fallujah	symbol of	sunni-led anti-us insurgency	LOCATION	0
+0.9787443462664682	Fallujah	once symbol of	sunni-led insurgency	LOCATION	0
+1.0	700 police	be	3,000 iraqi soldier	NUMBER	NUMBER
+1.0	Al-Anbar	have	province	O	LOCATION
+0.8214160469631357	iraqi soldier	be from	battalion	0	0
+1.0	US marines and Iraqi soldiers	have	mission	O	O
+1.0	US military	report at_time	Tuesday	LOCATION	DATE
+1.0	unit	have	arrival	O	O
+1.0	3,000 marine	be	only 300 member of iraqi security force	NUMBER	NUMBER
+1.0	police	be currently	3,000 iraqi soldier in Fallujah	0	LOCATION
+1.0	police	be currently	3,000 soldier in Fallujah	0	LOCATION
+1.0	700 police	be	3,000 soldier in Fallujah	NUMBER	LOCATION
+1.0	two	have altercation in	restive province of Al-Anbar	NUMBER	LOCATION
+0.9787443462664682	Fallujah	once symbol of	anti-us insurgency	LOCATION	0
+1.0	two	have altercation in	province	NUMBER	0
+1.0	US marine	have man security post since	arrival of marine unit	LOCATION	0
+1.0	Fallujah	have	Sunni rebel bastion	O	LOCATION
+1.0	700 police	be	3,000 iraqi soldier in Fallujah	NUMBER	LOCATION
+1.0	Fallujah	be capture after	assault	LOCATION	0
+0.8214160469631357	iraqi soldier	be from	3rd battalion	0	ORDINAL
+1.0	insurgency	have	symbol	O	O
+0.9787443462664682	Fallujah	once symbol of	insurgency	LOCATION	0
+0.9787443462664682	Fallujah	symbol of	anti-us insurgency	LOCATION	0
+0.9787443462664682	Fallujah	symbol of	insurgency	LOCATION	0
+1.0	two	have altercation in	restive province	NUMBER	0

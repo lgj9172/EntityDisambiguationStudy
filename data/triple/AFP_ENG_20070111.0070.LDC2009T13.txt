@@ -1,0 +1,5 @@
+1.0	strike	be in	eastern province of Paktika	0	LOCATION
+1.0	Afghanistan	be from	Pakistan	MISC	LOCATION
+1.0	Paktika	have	province	O	LOCATION
+1.0	NATO 's International Security Assistance Force	say at_time	Thursday	ORGANIZATION	DATE
+1.0	NATO	have	International Security Assistance Force	ORGANIZATION	ORGANIZATION

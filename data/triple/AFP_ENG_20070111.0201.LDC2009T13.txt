@@ -1,0 +1,41 @@
+1.0	vote	have	have anticipate as indication of support for government	0	0
+1.0	irregularity	be in	administration of electoral roll	0	0
+1.0	Nasharudin Mat Isa	be deputy president of	pas	PERSON	0
+1.0	Keadlilan	tell	press conference	0	0
+1.0	vote	have	have anticipate as indication of support	0	0
+1.0	military	vote	day ahead of polling day	0	DURATION
+1.0	Nasharudin Mat Isa	be	pas	PERSON	0
+1.0	minister	have	department	O	O
+1.0	vote	have	have anticipate for government	0	0
+1.0	he	take	charge of reform process	0	0
+1.0	military	vote	day of polling day	0	DURATION
+1.0	Pahang	have	assemblyman Tengku Paris Tengku Razlan	PERSON	O
+1.0	reform process	have	charge	O	O
+1.0	Abdullah Ahmad Badawi	have	promises	O	O
+1.0	military	vote	unscrutinised day ahead of polling day	0	DURATION
+1.0	vote	have	have anticipate	0	0
+1.0	polling day	have	days	DURATION	DURATION
+1.0	information chief Tian Chua	say	Keadlilan	PERSON	PERSON
+1.0	graft	have	Malaysia	LOCATION	O
+1.0	Keadline	have	Tian	PERSON	PERSON
+1.0	vote	have	have anticipate as indication	0	0
+1.0	Tian Chua	be information chief of	Keadlilan	PERSON	PERSON
+1.0	coalition	will	will unoppose	0	0
+1.0	military	vote	unscrutinised day	0	DURATION
+1.0	Keadline 's Tian	challenge	he	PERSON	0
+1.0	military	vote	unscrutinised day of polling day	0	DURATION
+1.0	military	be	allow	0	0
+1.0	support	have	indication	O	O
+1.0	coalition	will	will unoppose in January 28 by-election	0	DATE
+1.0	vote	have	have anticipate as indication for government	0	0
+1.0	voters	have	views	O	O
+1.0	January 28 by-election	be in	central pahang state	DATE	0
+1.0	deputy minister Anwar Ibrahim	have	wife	O	PERSON
+1.0	prime minister	of	department	0	0
+1.0	system	have	reform	O	O
+1.0	rolls	have	administration	O	O
+0.026432750590264065	military	be allow	vote	0	0
+1.0	Prime Minister Abdullah Ahmad Badawi	have	government	O	PERSON
+1.0	military	vote	day	0	DURATION
+1.0	he	take	charge	0	0
+1.0	department	have	patronage	O	O

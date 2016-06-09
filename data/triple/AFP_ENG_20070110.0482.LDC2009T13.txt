@@ -1,0 +1,15 @@
+0.7502891150070512	Italy	will face romania on	side Siena	LOCATION	LOCATION
+0.7502891150070512	Italy	will face romania at	stadium of Serie	LOCATION	MISC
+1.0	Serie	have	stadium	O	MISC
+0.8313827434992637	Italy	romania in	match	LOCATION	0
+1.0	Italians	have meet	Romania in a friendly match	MISC	LOCATION
+0.7502891150070512	Italy	will face	Romania	LOCATION	LOCATION
+1.0	A side Siena	have	city	O	LOCATION
+0.7502891150070512	Italy	will face romania at	stadium	LOCATION	0
+0.7502891150070512	Italy	will face	Romania in match	LOCATION	LOCATION
+1.0	Italians	have meet romania on	14 previous occasion	MISC	NUMBER
+0.7502891150070512	Italy	will face	Romania in friendly match	LOCATION	LOCATION
+1.0	Italians	have meet romania on	14 occasion	MISC	NUMBER
+1.0	Italians	have meet romania on	Azzurri	MISC	ORGANIZATION
+0.8313827434992637	Italy	romania in	friendly match	LOCATION	0
+1.0	Romania	be in	friendly match	LOCATION	0

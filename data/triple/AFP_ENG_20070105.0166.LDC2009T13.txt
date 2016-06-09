@@ -1,0 +1,44 @@
+1.0	president Saddam Hussein	have	execution	O	PERSON
+1.0	Srinagar	have	streets	O	LOCATION
+1.0	Saddam	have	regime	O	PERSON
+1.0	muslim youth	pour at	over dozen place	0	NUMBER
+1.0	Sunni militants	have	hub	O	O
+1.0	last week	have	execution	DATE	0
+1.0	rubber bullet	demonstrate	tearga	0	0
+1.0	youth	pour into	street	0	0
+1.0	Srinagar	have	business centre	O	LOCATION
+1.0	shop	also shut	business	0	0
+1.0	protester	be in	Srinagar	0	LOCATION
+1.0	week	have	execution	O	DATE
+1.0	youth	pour after	Friday prayer	0	DATE
+1.0	Police	fire at_time	rubber bullet	0	0
+1.0	trader	hold	strike	0	0
+1.0	muslim youth	pour after	Friday prayer	0	DATE
+1.0	rubber bullet	demonstrate against	execution Saturday	0	DATE
+1.0	Police	fire at_time	tearga	0	0
+1.0	Muslim youths	have	hearts	O	O
+1.0	youth	pour at	dozen place	0	NUMBER
+1.0	Sopore	have	town	O	LOCATION
+1.0	Srinagar	have	main business centre	LOCATION	0
+1.0	execution Saturday	be in	Baghdad	DATE	LOCATION
+1.0	muslim youth	pour into	street	0	0
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	muslim youth	pour at	dozen place	0	NUMBER
+1.0	muslim youth	pour into	street of Srinagar	0	LOCATION
+1.0	rubber bullet	demonstrate against	execution	0	0
+1.0	a strike to protest last week 's execution	have	areas	O	O
+1.0	youth	pour into	street of Srinagar	0	LOCATION
+1.0	warm tie	be with	Saddam 's regime	0	PERSON
+1.0	most shop	shut	business	0	0
+1.0	shop	shut	business	0	0
+1.0	police	fire	rubber bullet	0	0
+1.0	rubber bullet	demonstrate against	execution Saturday in Baghdad	0	DATE
+1.0	Srinagar	capital of	indian Kashmir	LOCATION	LOCATION
+1.0	most shop	also shut	business	0	0
+1.0	rubber bullet	demonstrate against	execution in Baghdad	0	LOCATION
+1.0	youth	pour at	over dozen place	0	NUMBER
+1.0	police	fire rubber bullet at	protester in Srinagar	0	LOCATION
+1.0	Saddam	with	regime	PERSON	0
+1.0	Srinagar	have	parts	O	LOCATION
+1.0	police	fire rubber bullet at	protester	0	0
+1.0	Kashmir	have	summer capital	O	LOCATION

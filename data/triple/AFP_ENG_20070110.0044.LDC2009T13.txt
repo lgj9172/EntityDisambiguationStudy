@@ -1,0 +1,57 @@
+1.0	National Stock Exchange	be	unavailable	ORGANIZATION	0
+1.0	exchange	decline	comment on report	0	0
+1.0	report	cap	investment	0	0
+1.0	rival Bombay Stock Exchange	have	have approach by investor	ORGANIZATION	0
+1.0	India	in	The National Stock Exchange	LOCATION	ORGANIZATION
+1.0	report	cap investment at	49 percent with ownership	0	PERCENT
+1.0	rival Bombay Stock Exchange	have	have approach by overseas investor	ORGANIZATION	0
+1.0	report	follow decision by	Reserve Bank	0	ORGANIZATION
+1.0	report	cap	overseas investment in stock exchange	0	0
+1.0	report	cap investment at	49 percent with ownership limit	0	PERCENT
+1.0	potential investor	be in	26 percent stake	0	PERCENT
+1.0	report	cap investment at	49 percent with direct ownership	0	PERCENT
+1.0	Bombay Stock Exchange	have	have approach	ORGANIZATION	0
+1.0	National Stock Exchange	be unavailable for	comment	ORGANIZATION	0
+1.0	report	follow decision by	Reserve Bank of India	0	ORGANIZATION
+1.0	Mumbai	in exchange be	BSE	LOCATION	MISC
+1.0	Asia	have	exchange	O	LOCATION
+1.0	49 percent	be with	direct ownership limit to 26 percent	PERCENT	PERCENT
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	report	cap investment at	49 percent with ownership limit to 26 percent	0	PERCENT
+1.0	rival Bombay Stock Exchange	have	have approach	ORGANIZATION	0
+1.0	26 percent stake	be in	Mumbai stock exchange	PERCENT	LOCATION
+1.0	report	cap investment at	49 percent with direct ownership limit	0	PERCENT
+1.0	report	cap investment at	49 percent with direct ownership limit to 26 percent	0	PERCENT
+1.0	rival Bombay Stock Exchange	have	have also approach	ORGANIZATION	0
+1.0	rival Bombay Stock Exchange	have	have also approach by investor	ORGANIZATION	0
+1.0	report	follow	decision	0	0
+1.0	Bombay Stock Exchange	have	have also approach	ORGANIZATION	0
+1.0	report	cap	investment in stock exchange	0	0
+1.0	overseas investment	be in	stock exchange	0	0
+1.0	report	be in	business Standard	0	ORGANIZATION
+1.0	Bombay Stock Exchange	exchange 's	Asia	ORGANIZATION	LOCATION
+1.0	India	have	The National Stock Exchange	ORGANIZATION	LOCATION
+1.0	India	have	Reserve Bank	ORGANIZATION	ORGANIZATION
+1.0	Bombay Stock Exchange	have	have also approach by investor	ORGANIZATION	0
+1.0	India	with	Bombay Stock Exchange	LOCATION	ORGANIZATION
+1.0	rival Bombay Stock Exchange	have	have also approach by overseas investor	ORGANIZATION	0
+1.0	unspecified stake	be in	The National Stock Exchange	0	ORGANIZATION
+1.0	exchange	decline	comment	0	0
+1.0	stakes	have	investors part	O	O
+1.0	exchange	comment on	report	0	0
+1.0	Bombay Stock Exchange	have	have approach by investor	ORGANIZATION	0
+1.0	India	have	Bombay Stock Exchange	ORGANIZATION	LOCATION
+1.0	Asia	have	oldest exchange	LOCATION	0
+1.0	India	in	business Standard	LOCATION	ORGANIZATION
+1.0	preliminary discussion	be with	Bombay Stock Exchange	0	ORGANIZATION
+1.0	investors who plan to buy an unspecified stake in India 's National Stock Exchange	have	stakes	O	O
+1.0	India	have	Business	ORGANIZATION	LOCATION
+1.0	report	cap investment at	49 percent	0	PERCENT
+1.0	report	cap	overseas investment	0	0
+1.0	Bombay Stock Exchange	have	have also approach by overseas investor	ORGANIZATION	0
+1.0	overseas investor part	be in	bourse	0	0
+1.0	Bombay Stock Exchange	be in	Mumbai	ORGANIZATION	LOCATION
+1.0	Singapore Exchange	say on	Tuesday	ORGANIZATION	DATE
+1.0	Bombay Stock Exchange	have	have approach by overseas investor	ORGANIZATION	0
+1.0	Singapore Exchange	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	preliminary discussion	be with	bse	0	0

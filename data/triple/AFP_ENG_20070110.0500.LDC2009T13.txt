@@ -1,0 +1,17 @@
+1.0	Defence	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Britain	have	second city	LOCATION	ORDINAL
+1.0	british airforce	from	Air Accident Investigations Board	0	ORGANIZATION
+1.0	another	be	injured	0	0
+1.0	another	be	seriously injured	0	0
+1.0	inquiry	have	RAF board	O	O
+1.0	England	be on	Wednesday	LOCATION	DATE
+1.0	Birmingham	have	northwest	O	LOCATION
+1.0	two people	be in	helicopter	NUMBER	0
+1.0	Britain	have	city	O	LOCATION
+1.0	more people	be	also injure	0	0
+1.0	more people	be	injure	0	0
+1.0	two more people	be	injure	NUMBER	0
+1.0	two more people	be	also injure	NUMBER	0
+1.0	Britain	have	Ministry of Defence	LOCATION	ORGANIZATION
+1.0	airforce	have	Air Accident Investigations Board	ORGANIZATION	O
+1.0	Britain	have	Ministry	ORGANIZATION	LOCATION

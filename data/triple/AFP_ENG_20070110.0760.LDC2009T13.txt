@@ -1,0 +1,74 @@
+1.0	coal mining accidents	have	total	O	O
+1.0	he	say	refer to gas explosion in mine	0	0
+1.0	state press	say at_time	Thursday	DURATION	DURATION
+1.0	kong-based worker	have	rights group	0	0
+1.0	duty	of dereliction be	collusion between official	0	ORGANIZATION
+1.0	facility	endanger	lack	0	0
+1.0	people	have	life	0	0
+1.0	he	say	refer	0	0
+1.0	outdated facility	endanger	lack	0	0
+1.0	people	have	death toll	O	O
+1.0	energy needs	have	percent	PERCENT	O
+1.0	people	have	average	O	O
+1.0	many local officials	have	owners	O	O
+1.0	safety administrator	say corruption collusion disregard for	human life	0	0
+1.0	he	refer to	frequent gas explosion in mine	0	0
+1.0	he	say	refer to deadly gas explosion in mine	0	0
+1.0	state press	cite	official	DURATION	DURATION
+1.0	death rate	be in	China 's coal mine	DURATION	LOCATION
+0.633593924617174	safety administrator	say for	human life	0	0
+1.0	safety awareness	have	lack	O	O
+1.0	he	refer to	frequent gas explosion	0	0
+1.0	production safety	remain	grim	0	0
+1.0	safety administrator	say corruption collusion disregard at_time	last month	0	DATE
+1.0	duty	have	dereliction	O	O
+1.0	he	refer to	deadly gas explosion in mine	0	0
+1.0	people	have	deaths	O	O
+1.0	power	have	trading	O	O
+1.0	Li Yizhong	head of	State Administration of Work Safety	PERSON	ORGANIZATION
+1.0	Li Yizhong	tell	press conference	PERSON	0
+1.0	he	refer to	gas explosion	0	0
+0.633593924617174	safety administrator	say for	life	0	0
+0.633593924617174	safety administrator	say at_time	month	0	DATE
+1.0	he	say	refer to gas explosion	0	0
+1.0	he	say	refer to frequent deadly gas explosion in mine	0	0
+1.0	China	have	mines	O	LOCATION
+1.0	safety administrator	say corruption collusion disregard at_time	month	0	DATE
+1.0	safety administrator	say corruption collusion disregard among	government official	0	0
+1.0	high death rate	be in	nation 's coal mine	0	0
+1.0	record coal production	be in	recent year	0	DURATION
+1.0	China	in	mine	LOCATION	0
+1.0	he	say	refer to frequent gas explosion in mine	0	0
+1.0	State Administration	have	head	O	ORGANIZATION
+1.0	China	in	coal mine	LOCATION	DURATION
+1.0	state press	cite	senior official	DURATION	DURATION
+1.0	he	refer to	frequent deadly gas explosion	0	0
+1.0	facility	endanger	lack of safety awareness	0	0
+1.0	16	have	rate	O	NUMBER
+1.0	China	have	coal mines	O	LOCATION
+1.0	safety administrator	say	corruption collusion disregard	0	0
+1.0	China 's	have	energy needs	O	O
+1.0	people	have	lives	O	O
+1.0	he	say	refer to frequent deadly gas explosion	0	0
+1.0	dereliction	collusion between	official	0	ORGANIZATION
+1.0	miners	have	average	O	O
+1.0	5,948 people	be in	2005	NUMBER	DATE
+1.0	annual death toll	be in	China 's mine	SET	LOCATION
+1.0	outdated facility	endanger	lack of safety awareness	0	0
+0.633593924617174	safety administrator	say at_time	last month	0	DATE
+1.0	he	say	refer to deadly gas explosion	0	0
+1.0	worker	have	rights group	O	O
+1.0	outdated facility	endanger	people 's life	0	0
+1.0	he	refer to	gas explosion in mine	0	0
+1.0	safety administrator	say corruption collusion disregard for	life	0	0
+1.0	he	refer to	frequent deadly gas explosion in mine	0	0
+1.0	money	have	trading	O	O
+1.0	frequent deadly gas explosion	be in	mine	0	0
+1.0	nation	in	coal mine	0	0
+1.0	dereliction	trading of	power	0	0
+1.0	nation	have	coal mines	O	O
+1.0	he	say	refer to frequent gas explosion	0	0
+1.0	he	refer to	deadly gas explosion	0	0
+1.0	Work Safety	have	State Administration	ORGANIZATION	ORGANIZATION
+1.0	facility	endanger	people 's life	0	0
+0.633593924617174	safety administrator	say among	government official	0	0

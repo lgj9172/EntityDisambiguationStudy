@@ -1,0 +1,131 @@
+1.0	ferry	sink at_time	Friday	0	DATE
+1.0	ferry	be to	en route city of Semarang	0	LOCATION
+1.0	weather	scour	sea	0	0
+1.0	archipelago nation	between	17,000 island	0	NUMBER
+1.0	weather	scour water off	north coast	0	0
+1.0	Transport Minister Hatta Rajasa	be	quote	0	0
+1.0	ferry	be to	en route from Kumai javanese city	0	PERSON
+1.0	ferry	be to	port city of Semarang	0	LOCATION
+1.0	ferry	be to	en route from Kumai on Borneo island city of Semarang	0	LOCATION
+1.0	fishermen	have	boat	O	O
+1.0	ship	scour	sea	0	0
+1.0	warship vessel	continue	fishing	0	0
+1.0	ship	scour sea for	hundred of people miss after ferry disaster off Java island	0	MISC
+1.0	ferry	be	link	0	0
+1.0	weather	scour water off	north coast of Java	0	MISC
+1.0	meteorologist	have warn	weather	0	DURATION
+1.0	ferry	sink with	600 people on board	0	NUMBER
+1.0	ferry	sink at_time	late Friday	0	DATE
+1.0	ferry	be to	en route from Kumai city of Semarang	0	LOCATION
+1.0	weary survivor	be pluck to	safety	0	0
+1.0	warship vessel	continue	bad weather	0	0
+1.0	ferry	be	crucial link than officially	0	0
+1.0	rough sea	will continue for	few day	0	DURATION
+1.0	Suara Merdeka newspaper	quote	government search	ORGANIZATION	0
+1.0	Transport Minister Hatta Rajasa	say by	detikcom news portal	0	0
+1.0	ferry	carry	more people	0	0
+1.0	he	say in	hospital	0	0
+1.0	more weary survivor	be	pluck	0	0
+1.0	ship	scour sea for	hundred of people still miss	0	0
+1.0	ship	scour sea for	hundred of people miss after ferry disaster	0	0
+1.0	he	say here in	hospital	0	0
+1.0	ferry	be to	en route javanese city	0	0
+1.0	ferry	be to	en route javanese port city of Semarang	0	LOCATION
+1.0	Tanoto 19	tell	ElShinta radio	NUMBER	ORGANIZATION
+1.0	ferry	be to	javanese port city	0	0
+1.0	ferry	be to	en route from Kumai on Borneo island port city of Semarang	0	LOCATION
+1.0	Tanoto	be	19	PERSON	NUMBER
+1.0	water	be in	area	0	0
+1.0	ship	scour sea off	Indonesia	0	LOCATION
+1.0	many	be	trap	0	0
+1.0	rough sea	will continue for	next few day	0	DURATION
+1.0	ferry	be to	en route from Kumai on Borneo island port city	0	PERSON
+1.0	ferry	be to	en route from Kumai javanese city of Semarang	0	LOCATION
+1.0	many	be	still trap	0	0
+1.0	ferry	be crucial link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	be	crucial link	0	0
+1.0	many	be still trap in	ferry	0	0
+1.0	ship	scour sea for	hundred	0	0
+1.0	search	be extend to	time	0	0
+1.0	ferry	be to	port city	0	0
+1.0	north coast	have	scour	O	O
+1.0	ferry	be to	en route from Kumai on Borneo island city	0	PERSON
+1.0	warship vessel	continue	weather	0	0
+1.0	ship	scour sea for	hundred of people	0	0
+1.0	Tanoto	tell	ElShinta radio	PERSON	ORGANIZATION
+1.0	bad weather	scour	water	0	0
+1.0	ferry	be to	javanese port city of Semarang	0	LOCATION
+1.0	Ahmad Zakir	tell	Antara news agency	PERSON	ORGANIZATION
+1.0	ship	scour sea for	hundred of people still miss off Java island	0	MISC
+1.0	bad weather	scour	sea	0	0
+1.0	ferry	be to	en route from Kumai javanese port city of Semarang	0	LOCATION
+1.0	ferry	be link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	be to	en route from Kumai on Borneo island javanese port city	0	PERSON
+1.0	ferry	be to	en route from Kumai javanese port city	0	PERSON
+1.0	ferry	sink with	600 people	0	NUMBER
+1.0	ship	scour sea for	hundred of people miss off Java island	0	MISC
+1.0	ferry	frequently carry	people	0	0
+1.0	newspaper	be in	base javanese port of Semarang	0	0
+1.0	ferry	be to	en route from Kumai on Borneo island javanese port city of Semarang	0	LOCATION
+1.0	archipelago nation	have	islands	O	O
+1.0	passengers	have	percent	PERCENT	O
+1.0	sea	will continue for	next day	0	DURATION
+1.0	Java island	have	missing	O	O
+1.0	ferry	frequently carry	more people	0	0
+1.0	ferry	be to	city	0	0
+1.0	fisherman	have	boat	0	0
+1.0	more weary survivor	be pluck to	safety	0	0
+1.0	ferry	be to	en route from Kumai port city of Semarang	0	LOCATION
+1.0	sea	will continue for	day	0	0
+1.0	Java	have	north coast	O	MISC
+1.0	weary survivor	be	pluck	0	0
+1.0	ferry	be to	en route from Kumai city	0	PERSON
+1.0	ferry	be	link than officially	0	0
+1.0	metres	have	waves	O	O
+1.0	bad weather	scour	rough sea	0	0
+1.0	ship	scour sea for	hundred of people still miss after ferry disaster	0	0
+1.0	ship	scour	rough sea	0	0
+1.0	meteorologist	have warn	bad weather	0	DURATION
+1.0	ferry	be to	en route city	0	0
+1.0	ferry	be to	javanese city of Semarang	0	LOCATION
+1.0	ferry	be to	en route port city of Semarang	0	LOCATION
+1.0	they	collect	datum	0	0
+1.0	many	be trap in	ferry	0	0
+1.0	weather	scour	rough sea	0	0
+1.0	ferry	be link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	vessel	be carry	542 passenger	0	NUMBER
+1.0	rough sea	will continue for	day	0	0
+1.0	Transport Minister Hatta Rajasa	say by	detikcom	0	0
+1.0	ferry	be to	city of Semarang	0	LOCATION
+1.0	ferry	carry	people	0	0
+1.0	Semarang	have	port	O	O
+1.0	ferry	be to	en route from Kumai on Borneo island javanese city	0	PERSON
+1.0	search	be	extend	0	0
+1.0	warship vessel	brave	helicopter	0	0
+1.0	Indonesia	have	scoured	O	LOCATION
+1.0	bad weather	scour water off	north coast of Java	0	MISC
+1.0	ferry	be to	en route from Kumai on Borneo island javanese city of Semarang	0	LOCATION
+1.0	ferry	be to	javanese city	0	0
+1.0	sea	will continue for	few day	0	DURATION
+1.0	Suara Merdeka newspaper	quote	local government search	ORGANIZATION	0
+1.0	Semarang	have	city	O	LOCATION
+1.0	ferry	be	crucial	0	0
+1.0	ship	scour	rescue team	0	0
+1.0	Ahmad Zakir	tell	state-run Antara news agency	PERSON	ORGANIZATION
+1.0	warship vessel	brave	fishing	0	0
+1.0	bad weather	scour water off	north coast	0	0
+1.0	ferry	be to	en route javanese city of Semarang	0	LOCATION
+1.0	search	be extend to	unspecified time	0	0
+1.0	ferry	be to	en route port city	0	0
+1.0	people	have	hundreds	O	O
+1.0	East Java	have	seas	O	MISC
+1.0	ferry	be to	en route javanese port city	0	0
+1.0	warship vessel	continue	helicopter	0	0
+1.0	ferry	be to	en route from Kumai port city	0	PERSON
+1.0	ship	scour sea for	hundred of people still miss after ferry disaster off Java island	0	MISC
+1.0	ship	scour sea for	hundred of people miss	0	0
+1.0	sea	will continue for	next few day	0	DURATION
+1.0	rough sea	will continue for	next day	0	DURATION
+1.0	weather	scour	water	0	0
+1.0	ferry	be crucial link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	body bags	have	hundreds	O	O

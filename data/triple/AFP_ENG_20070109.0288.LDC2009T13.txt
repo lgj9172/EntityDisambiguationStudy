@@ -1,0 +1,54 @@
+0.528054499680204	proposal	disclose	Monday	0	DATE
+1.0	President Roh Moo-Hyun 's	as	diplomatic amateurism	PERSON	0
+1.0	Japan	colonise	Korea	LOCATION	LOCATION
+1.0	South Korea	have	minister	O	LOCATION
+1.0	Japan 's insistence	be one of	series of longstanding dispute between two nation	LOCATION	NUMBER
+1.0	Japan	have	insistence on name	LOCATION	0
+1.0	water	sea of	peace	0	0
+1.0	Japan	colonise korea from	1910	LOCATION	DATE
+1.0	his	have	offer	O	O
+1.0	government	be do	its best	0	0
+1.0	Roh	suggest	rename	PERSON	0
+1.0	our	have	country	O	O
+1.0	Japan 's insistence	be one of	series of dispute between two nation	LOCATION	NUMBER
+1.0	Japan	have	Sea	O	LOCATION
+1.0	proposal	spark	widespread criticism	0	0
+1.0	Foreign Minister song Min-Soon	tell	briefing	PERSON	0
+1.0	Japan 's insistence	be one	series of dispute	LOCATION	0
+1.0	South Korea	have	foreign minister on Wednesday	LOCATION	DATE
+1.0	Friendship	have	Sea	O	O
+1.0	Japan 's insistence	be one	series of longstanding dispute	LOCATION	0
+1.0	Roh	have	office	O	PERSON
+1.0	South Korea 's foreign minister	rename	water between Korea	LOCATION	LOCATION
+1.0	Japan	react coolly at_time	Tuesday	LOCATION	DATE
+1.0	South Korea 's minister	rename	water	LOCATION	0
+1.0	Roh	have	office	PERSON	0
+1.0	Roh	rename	water sea of peace	PERSON	MISC
+1.0	its	have	defeat	O	O
+1.0	Japan 's insistence	be one of	series	LOCATION	0
+1.0	Japan 's insistence	be one	series of longstanding dispute between two nation	LOCATION	NUMBER
+1.0	waters	have	name	O	O
+1.0	Peace	have	Sea	MISC	MISC
+1.0	South Korea 's foreign minister	rename	water	LOCATION	0
+1.0	Roh	suggest in	bid	PERSON	0
+1.0	South Korea 's minister	rename	water between Korea	LOCATION	LOCATION
+1.0	Roh Moo-Hyun	have	informal offer	PERSON	0
+1.0	disputes	have	series	O	O
+1.0	government	have	position	0	0
+1.0	Japan 's insistence	be one of	series of longstanding dispute	LOCATION	0
+1.0	government	have	position	O	O
+1.0	Japan	colonise korea until	its 1945 defeat	LOCATION	DATE
+1.0	Japan 's insistence	be one	series	LOCATION	0
+1.0	Japan	have	insistence	O	LOCATION
+1.0	Japan	colonise korea until	its 1945 defeat in World War II	LOCATION	DATE
+1.0	Japan 's insistence	be one of	series of dispute	LOCATION	0
+1.0	Roh	rename	water sea	PERSON	0
+1.0	Japan 's insistence	be one	series of dispute between two nation	LOCATION	NUMBER
+1.0	proposal	spark	criticism	0	0
+1.0	Japan	react at_time	Tuesday	LOCATION	DATE
+1.0	The government 's	have	best	O	O
+1.0	President Roh Moo-Hyun 's	have	amateurism	O	PERSON
+1.0	President Roh Moo-Hyun	have	offer	O	PERSON
+1.0	series	have	one	NUMBER	O
+1.0	its 1945 defeat	be in	World War II	DATE	MISC
+1.0	Foreign Minister song Min-Soon	tell	weekly briefing	PERSON	SET

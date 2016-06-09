@@ -1,0 +1,136 @@
+1.0	Beckham	ask by	ESPN	PERSON	ORGANIZATION
+1.0	money	have	amount	O	O
+1.0	dollars	have	take	O	MONEY
+1.0	252 million dollar	be with	New York Yankees	NUMBER	ORGANIZATION
+1.0	Tiger Woods	remain to	world 's highest-paid sportsman	PERSON	0
+1.0	Alex Rodriguez	have deal worth	252 million dollar	PERSON	NUMBER
+1.0	baseball	with	New York Yankees	0	ORGANIZATION
+1.0	that	be easy for	Beckham	DURATION	PERSON
+1.0	US golf legend	be only unretired athlete with	payment package	LOCATION	DURATION
+1.0	US golf legend	be athlete with	payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	Englishman	have dwarf	highest-priced giant in other US sport	MISC	LOCATION
+0.7746913031194822	250 million dollar	mention in	AEG press release	MONEY	ORGANIZATION
+1.0	US golf legend	be athlete with	better payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	Timothy Leiweke	president of	AEG ownership group	PERSON	ORGANIZATION
+1.0	US golf legend	be only unretired athlete with	payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be only athlete with	payment package	LOCATION	DURATION
+1.0	Kevin Garnett	have salary at	21 million dollar	PERSON	MONEY
+1.0	US golf legend	be	unretired athlete	LOCATION	DURATION
+1.0	US golf legend	be unretired athlete with	better payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	Kevin Garnett	have	salary in basketball	PERSON	0
+1.0	he	join	Los Angeles Galaxy	0	LOCATION
+1.0	dollar	be	figure	0	0
+1.0	US golf legend	be only athlete with	better payment package than Beckham 's take	LOCATION	PERSON
+1.0	US golf legend	be only athlete with	payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	it	have	half	O	O
+1.0	Kevin Garnett	have	annual salary	PERSON	SET
+1.0	Tiger Woods	remain accord to	Forbes magazine	PERSON	ORGANIZATION
+1.0	world	have	highest pay footballer	0	0
+1.0	it	be	amazing	0	0
+1.0	US golf legend	be only athlete with	payment package than Beckham 's take	LOCATION	PERSON
+1.0	money	have	lot	O	O
+1.0	US golf legend	be unretired athlete with	better payment package than Beckham 's take	LOCATION	PERSON
+1.0	my	have	football career	O	O
+1.0	US golf legend	be only unretired athlete with	payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	Englishman	have dwarf	highest-priced giant	MISC	0
+1.0	31-year-old Englishman	have dwarf	highest-priced giant in other US sport	DURATION	LOCATION
+1.0	I	can assure	you	0	0
+1.0	basketball	have	Chicago Bulls	ORGANIZATION	O
+1.0	250 million dollar	be	figure	MONEY	0
+1.0	top annual salary	be in	basketball	SET	0
+1.0	US golf legend	be only unretired athlete with	better payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	US golf legend	be only unretired athlete with	payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	basketball	with	Chicago Bulls	0	ORGANIZATION
+1.0	Beckham	than	estimate take of 50 million dollar	PERSON	MONEY
+0.7746913031194822	dollar	mention in	AEG press release on Friday	0	DATE
+1.0	would line	be with	Beckham 's stature as player endorser	0	PERSON
+1.0	pact	be with	team 's owner	DURATION	DURATION
+1.0	US golf legend	be only unretired athlete with	better payment package	LOCATION	DURATION
+1.0	31-year-old Englishman	have dwarf	giant	DURATION	0
+1.0	Alex Rodriguez	have	deal	PERSON	0
+1.0	US golf legend	be only athlete with	better payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be only athlete with	better payment package	LOCATION	DURATION
+1.0	dollar	make	gridiron standout Michael Vick	0	PERSON
+1.0	US golf legend	be unretired athlete with	payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	his	have	footwork	O	O
+1.0	team	have	owners	O	O
+1.0	world	to	highest-paid sportsman	0	0
+1.0	Ice hockey	have	Jaromir Jagr	PERSON	O
+1.0	Beckham	with	stature as player endorser	PERSON	0
+1.0	dollars	have	year	DURATION	MONEY
+1.0	team	with	owner	DURATION	0
+1.0	Englishman	have dwarf	giant in other US sport	MISC	LOCATION
+1.0	US golf legend	be athlete with	better payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be athlete with	better payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	Alex Rodriguez	have deal worth	252 million dollar with baseball 's New York Yankees	PERSON	ORGANIZATION
+1.0	Beckham	have	take	O	PERSON
+1.0	Englishman	have dwarf	giant in US sport	MISC	LOCATION
+1.0	dollar	make	130 million over 10 year	0	DURATION
+1.0	US golf legend	be athlete with	payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	US golf legend	be	athlete	LOCATION	DURATION
+1.0	world	have	footballer	O	O
+1.0	US golf legend	be unretired athlete with	better payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	Kevin Garnett	have	top salary in basketball	PERSON	0
+1.0	highest-priced giant	be in	other US sport	0	LOCATION
+1.0	Kevin Garnett	have	top annual salary	PERSON	SET
+1.0	Tiger Woods	remain to	world 's sportsman	PERSON	0
+1.0	Kevin Garnett	have	salary	PERSON	0
+1.0	US golf legend	be athlete with	payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be unretired athlete with	better payment package	LOCATION	DURATION
+1.0	athlete	be with	better payment package than Beckham 's estimate take of 50 million dollar	DURATION	MONEY
+1.0	Englishman	have dwarf	highest-priced giant in US sport	MISC	LOCATION
+1.0	that	be	easy	DURATION	DURATION
+1.0	Jagr	have	year of 8.4 million dollar	MISC	MONEY
+1.0	US golf legend	be unretired athlete with	payment package than Beckham 's take	LOCATION	PERSON
+1.0	US golf legend	be only athlete with	better payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	US golf legend	be unretired athlete with	payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+0.7746913031194822	dollar	mention in	AEG press release	0	ORGANIZATION
+1.0	31-year-old Englishman	have dwarf	highest-priced giant	DURATION	0
+1.0	31-year-old Englishman	have dwarf	giant in US sport	DURATION	LOCATION
+1.0	US golf legend	be only unretired athlete with	better payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be only athlete with	better payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be unretired athlete with	payment package	LOCATION	DURATION
+1.0	England	have	Daily Telegraph newspaper	LOCATION	ORGANIZATION
+1.0	US golf legend	be only athlete with	payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	Jagr	have	year	MISC	DURATION
+0.6489009206145052	Jagr	year of	8.4 million dollar	MISC	MONEY
+1.0	US golf legend	be	only athlete	LOCATION	DURATION
+1.0	Tiger Woods	make	90 million dollar	PERSON	MONEY
+1.0	US golf legend	be athlete with	better payment package than Beckham 's take	LOCATION	PERSON
+1.0	his	have	days	DURATION	O
+1.0	Beckham	have	stature	O	PERSON
+1.0	that	be	100 dollar for five year	DURATION	DURATION
+0.8962508970570984	have	stake in	each	0	0
+0.5597462879647879	we	make	economic deal	0	0
+1.0	AEG ownership group	have	president	O	O
+1.0	Alex Rodriguez	have	10-year deal	PERSON	DURATION
+1.0	US golf legend	be only unretired athlete with	payment package than Beckham 's take	LOCATION	PERSON
+0.7746913031194822	250 million dollar	mention in	AEG press release on Friday	MONEY	DATE
+1.0	stake	be in	each	0	0
+1.0	US golf legend	be athlete with	payment package	LOCATION	DURATION
+1.0	31-year-old Englishman	have dwarf	giant in other US sport	DURATION	LOCATION
+0.6489009206145052	Jagr	top year of	8.4 million dollar	MISC	MONEY
+1.0	US golf legend	be only athlete with	payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be unretired athlete with	payment package than Beckham 's estimate take	LOCATION	PERSON
+1.0	US golf legend	be athlete with	better payment package	LOCATION	DURATION
+1.0	US golf legend	be only unretired athlete with	better payment package than Beckham 's take	LOCATION	PERSON
+1.0	Beckham	have	deal	O	PERSON
+1.0	US golf legend	be only unretired athlete with	better payment package than Beckham 's take of 50 million dollar	LOCATION	MONEY
+1.0	money	be with	Beckham	NUMBER	PERSON
+1.0	England	have	Daily Telegraph newspaper	O	LOCATION
+0.5597462879647879	we	make	deal	0	0
+1.0	US golf legend	be unretired athlete with	better payment package than Beckham 's estimate take of 50 million dollar	LOCATION	MONEY
+1.0	US golf legend	be	only unretired athlete	LOCATION	DURATION
+1.0	Jagr	have	top year	MISC	DURATION
+1.0	Kevin Garnett	have	annual salary in basketball	PERSON	SET
+1.0	other great sport	be in	America	0	LOCATION
+1.0	his	have	dollar merchandise deal	O	O
+1.0	US golf legend	be athlete with	payment package than Beckham 's take	LOCATION	PERSON
+1.0	world	have	sportsman	O	O
+1.0	31-year-old Englishman	have dwarf	highest-priced giant in US sport	DURATION	LOCATION
+1.0	Jagr	have	top year of 8.4 million dollar	MISC	MONEY
+1.0	baseball	have	New York Yankees	ORGANIZATION	O
+1.0	Kevin Garnett	have	top annual salary in basketball	PERSON	SET
+1.0	that	be	100 dollar	DURATION	DURATION
+1.0	Englishman	have dwarf	giant	MISC	0
+1.0	Kevin Garnett	have	top salary	PERSON	0

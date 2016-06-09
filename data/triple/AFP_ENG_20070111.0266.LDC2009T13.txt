@@ -1,0 +1,21 @@
+1.0	bank	announce in	decision	0	0
+1.0	central bank	announce in	decision	0	0
+1.0	rate	be keep	steady	0	0
+1.0	bank	announce in	unexpected decision	0	0
+1.0	inflation	have	dangers	O	O
+1.0	The Bank of England	have	interest rate	O	O
+0.6810359572971214	its interest rate	bank of	England	0	ORGANIZATION
+1.0	boe	warn about	danger of british inflation	0	0
+1.0	Bank	raise	its key interest rate	ORGANIZATION	0
+1.0	boe	warn about	danger of inflation	0	0
+1.0	boe	warn about	danger of rise british inflation	0	0
+1.0	2007	have	decision	O	DATE
+1.0	boe	warn about	danger of rise inflation	0	0
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	boe	warn about	danger	0	0
+1.0	The BoE	have	policy	O	O
+1.0	Bank	raise	its interest rate	ORGANIZATION	0
+1.0	rate	be	keep	0	0
+0.6810359572971214	its key interest rate	bank of	England	0	ORGANIZATION
+1.0	central bank	announce in	unexpected decision	0	0
+1.0	The BoE	give	decision	0	0

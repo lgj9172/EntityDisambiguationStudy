@@ -1,0 +1,97 @@
+1.0	tunisian newspaper	devote	amount	0	0
+1.0	own newspaper	devote	amount	0	0
+1.0	book	be	when rally	0	0
+1.0	rally	be in	tunisian capital	0	0
+1.0	newspaper	devote	large amount of space	0	0
+1.0	they	be celebrate	religious festival	DATE	0
+1.0	tunisian newspaper	devote	amount of space	0	0
+1.0	tunisian newspaper	devote	large amount	0	0
+1.0	crowd	include	member of opposition	0	0
+1.0	it	say in	press communique Britain	0	LOCATION
+1.0	General Labour Union	of executive be	UGTT	ORGANIZATION	0
+1.0	representatives	have	members	O	O
+1.0	space	have	amount	O	O
+1.0	key date	be in	muslim calendar	0	0
+1.0	own newspaper	devote	large amount	0	0
+1.0	opposition	have	members	O	O
+1.0	Adha	be	serious	0	0
+1.0	he	tell	crowd	0	0
+1.0	tunisian newspaper	cover	execution	0	0
+1.0	labour union leader	here charge	Britain	0	LOCATION
+1.0	book	be	further	0	0
+0.9786424429429244	Adha	be serious affront to	feeling	0	0
+1.0	own tunisian newspaper	devote	large amount of space	0	0
+1.0	crowd	include	member of politicial opposition	0	0
+1.0	condolences	have	book	O	O
+1.0	violence	be in	Iraq	0	LOCATION
+1.0	book	be	when further rally	0	0
+1.0	book	stay	open	0	0
+0.9786424429429244	Adha	be affront to	feeling of muslim people	0	0
+1.0	hundred	demonstrate in	Tunis	0	LOCATION
+1.0	bar association	have	president	O	O
+1.0	its	have	regret	O	O
+0.9786424429429244	Adha	be affront to	feeling	0	0
+1.0	crowd	include	member	0	0
+1.0	own tunisian newspaper	devote	amount of space	0	0
+1.0	crowd	include	member of opposition in Tunisia	0	LOCATION
+1.0	crowd	include	member of politicial opposition in Tunisia	0	LOCATION
+1.0	his	have	memory	O	O
+0.9786424429429244	Adha	be	serious affront	0	0
+1.0	Tunisia	have	labour union headquarters	O	LOCATION
+1.0	bodies	have	representatives	O	O
+1.0	own newspaper	cover	execution	0	0
+1.0	newspaper	devote	amount	0	0
+1.0	labour union leader	charge britain with	responsibility	0	0
+1.0	rally	be address by	Ahmed Seddiq	0	PERSON
+1.0	situation	be in	Iraq	0	LOCATION
+0.8606190239925854	Adha	key date in	calendar	0	0
+1.0	newspaper	cover	execution	0	0
+0.8606190239925854	Adha	date in	calendar	0	0
+1.0	executive	describe	execution	0	0
+1.0	demonstrator	carry	Saddam portrait chant	0	PERSON
+1.0	own newspaper	devote	amount of space	0	0
+1.0	hundred	demonstrate at_time	Tuesday	0	DATE
+1.0	people	have	feelings	O	O
+0.9786424429429244	Adha	be	affront	0	0
+1.0	crowd	include member include	Abdessattar Ben Moussa	0	PERSON
+1.0	Tunisia	outside	labour union headquarters	LOCATION	0
+1.0	book	be	further rally	0	0
+1.0	they	be celebrate	festival	DATE	0
+1.0	labour union leader	here charge britain with	responsibility	0	0
+1.0	crowd	include member include	president of country 's bar association	0	0
+0.8606190239925854	Adha	key date in	muslim calendar	0	0
+1.0	Adha	date in	muslim calendar	0	0
+1.0	newspaper	devote	amount of space	0	0
+1.0	tunisian newspaper	devote	large amount of space	0	0
+1.0	own tunisian newspaper	devote	large amount	0	0
+0.9786424429429244	Adha	be serious affront to	feeling of people	0	0
+1.0	executive	describe execution as	barbarian crime	0	0
+1.0	Saddam	be in	court	PERSON	0
+1.0	demonstrator	carry	Saddam portrait	0	PERSON
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	own newspaper	devote	large amount of space	0	0
+1.0	book	be	rally	0	0
+1.0	politicial opposition	be in	Tunisia	0	LOCATION
+0.5257927149616499	demonstrator	assemble outside	Tunisia labour union headquarters	0	LOCATION
+1.0	hundred	demonstrate against	execution	0	0
+1.0	executive	describe execution as	crime	0	0
+1.0	they	be celebrate	sacred festival	DATE	0
+1.0	book	stay	open until Friday	0	DATE
+1.0	hundred	demonstrate against	execution of Saddam Hussein	0	PERSON
+1.0	country	have	bar association	O	O
+1.0	crowd	include member include	president	0	0
+1.0	teaching union	have	secretary-general	O	O
+1.0	newspaper	devote	large amount	0	0
+1.0	United States	bear	responsibility	LOCATION	0
+1.0	General Labour Union	have	executive	O	ORGANIZATION
+0.9786424429429244	Adha	be affront to	feeling of people	0	0
+0.8606190239925854	Adha	date in	muslim calendar	0	0
+1.0	own tunisian newspaper	devote	amount	0	0
+1.0	labour union leader	charge	Britain	0	LOCATION
+1.0	own tunisian newspaper	cover	execution	0	0
+0.9786424429429244	Adha	be serious affront to	feeling of muslim people	0	0
+1.0	they	be celebrate	sacred religious festival	DATE	0
+1.0	Aid al	have	day	DATE	O
+1.0	country	of	bar association	0	0
+1.0	rally	be	address	0	0
+1.0	Abdessattar Ben Moussa	president of	country 's bar association	PERSON	0

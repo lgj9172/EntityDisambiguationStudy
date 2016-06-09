@@ -1,0 +1,10 @@
+1.0	Condoleezza Rice	of	new deputy	PERSON	0
+1.0	Michael McConnell	be director of	National Security Agency	PERSON	ORGANIZATION
+1.0	US official	say at_time	Thursday	LOCATION	DATE
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Michael McConnell	be by	National Security Agency	PERSON	ORGANIZATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	intelligence	have	director	O	O
+1.0	John Negroponte	have	9:50	TIME	PERSON
+1.0	deputy	have	Secretary	O	O

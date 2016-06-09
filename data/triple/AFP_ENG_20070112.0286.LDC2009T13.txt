@@ -1,0 +1,39 @@
+1.0	Turkey	do	something	0	0
+1.0	membership	have	goal	O	O
+1.0	cases	have	dozens	O	O
+1.0	its	have	refusal	O	O
+1.0	policy areas	have	eight	NUMBER	O
+1.0	December	have	bid	O	O
+1.0	intellectuals	have	Dozens	O	O
+1.0	Ankara	have	respect	O	LOCATION
+1.0	Turkey	to	ire	LOCATION	0
+1.0	Turkey	move with	the European Union	LOCATION	ORGANIZATION
+1.0	senior government official	say at_time	turkish government plan	0	0
+1.0	Turkey	want	move forward with European Union	LOCATION	ORGANIZATION
+1.0	government official	say at_time	Friday	0	DATE
+1.0	Turkey	want	move forward	LOCATION	0
+1.0	EU	have slam article to	freedom of expression	ORGANIZATION	0
+1.0	EU	freeze accession talk in	December	ORGANIZATION	DATE
+1.0	government official	say at_time	turkish government plan	0	0
+1.0	Turkey	want	move	LOCATION	0
+1.0	Turkey	want	move with European Union	LOCATION	ORGANIZATION
+1.0	there will amendment	be in	the near future	DATE	DATE
+1.0	EU	have slam	article	ORGANIZATION	0
+1.0	government official	say at_time	government plan	0	0
+1.0	expression	have	freedom	O	O
+1.0	Turkey	move forward with	the European Union	LOCATION	ORGANIZATION
+1.0	Turkey	do something about	Article 301	0	NUMBER
+1.0	EU	have slam	article as threat	ORGANIZATION	0
+1.0	Ankara	over	respect for free speech	LOCATION	0
+1.0	Armenians	have	massacres	O	MISC
+1.0	senior government official	say at_time	Friday	0	DATE
+1.0	EU	freeze	accession talk	ORGANIZATION	0
+1.0	senior government official	say at_time	government plan	0	0
+1.0	EU	have slam article to	freedom	ORGANIZATION	0
+1.0	EU	call on	government	ORGANIZATION	0
+1.0	up to four year	be in	jail	DURATION	0
+1.0	EU	freeze accession talk with	Turkey	ORGANIZATION	LOCATION
+1.0	intellectuals	have	dozens	O	O
+1.0	December	have	goal	O	O
+1.0	EU	repeatedly call on	government	ORGANIZATION	0
+1.0	Turkey	have	ire	O	LOCATION

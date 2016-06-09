@@ -1,0 +1,5 @@
+1.0	the armed Basque separatist group ETA	be of	basque	ORGANIZATION	0
+1.0	wing	say at_time	Wednesday	0	DATE
+1.0	peace process	be with	Spain	0	LOCATION
+1.0	political wing	say at_time	Wednesday	0	DATE
+1.0	separatist group ETA	have	wing	O	ORGANIZATION

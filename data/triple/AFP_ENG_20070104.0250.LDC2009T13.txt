@@ -1,0 +1,105 @@
+1.0	he	call for	reduction in corporate tax rate to 20 percent	0	PERCENT
+1.0	Segolene Royal	have	chief rival	O	O
+1.0	trip	have	details	O	O
+1.0	China	be	enormous	LOCATION	0
+1.0	France 's unemployment rate	fall to	its level in 25 year	LOCATION	DURATION
+0.6297165071374858	race	succeed chirac in	election	0	0
+1.0	he	call for	reduction in tax rate to 20 percent	0	PERCENT
+1.0	Segolene Royal	improve housing security for	family	0	0
+1.0	business	be in	France	0	LOCATION
+1.0	he	call in	he own New Year greet to labor leader	0	DATE
+1.0	France 's high unemployment rate	fall by	end of 2007	LOCATION	DATE
+1.0	France 's unemployment rate	fall to	its lowest level	LOCATION	0
+1.0	French	would benefit under	she	MISC	0
+1.0	policies	have	heart	O	O
+1.0	delegation	speak to	official	0	0
+1.0	he	call in	he New Year greet	0	DATE
+1.0	Royal 's campaign manager	tell	afp	0	0
+1.0	he	boost	investment company	0	0
+1.0	he	call in	he New Year	0	DATE
+1.0	he	call for	reduction in french corporate tax rate	0	0
+1.0	France 's unemployment rate	fall to	its lowest level in 25 year	LOCATION	DURATION
+1.0	she	take job compare to	48 percent	0	PERCENT
+1.0	she	take job compare to	48 percent for 51-year-old Sarkozy	0	DURATION
+1.0	Sarkozy	be for	51-year-old	PERSON	DURATION
+1.0	its	have	level	O	O
+0.6297165071374858	race	succeed	Chirac	0	PERSON
+0.6297165071374858	race	succeed 74-year-old chirac in	presidential election	0	0
+1.0	France 's high unemployment rate	fall to	its level	LOCATION	0
+1.0	France	have	woman president	O	LOCATION
+1.0	France	have	stubbornly high unemployment rate	LOCATION	0
+1.0	he	call for	reduction	0	0
+1.0	France 's high unemployment rate	fall to	its lowest level	LOCATION	0
+1.0	welfare system	have	reform	O	O
+1.0	he	boost	investment company relocate to more fiscally advantageous country	0	0
+1.0	power	have	exercise	O	O
+1.0	52 percent	be in	final vote	PERCENT	0
+1.0	his	have	New Year	DATE	O
+1.0	Segolene Royal	have	campaign manager	0	0
+1.0	France 's unemployment rate	fall to	its level	LOCATION	0
+1.0	Segolene Royal	convey	New Year 's wish	0	DATE
+1.0	he	call in	he own New Year greet	0	DATE
+1.0	she	pledge	ensure	0	0
+1.0	15-strong delegation	speak to	official	0	0
+1.0	Royal	give	detail	0	0
+1.0	France	have	welfare system	O	LOCATION
+1.0	votes	have	percent	PERCENT	O
+1.0	policies	have	raft	O	O
+1.0	increase clout	be in	globalised marketplace	0	0
+1.0	France 's	have	leaders	O	O
+1.0	he	call for	reduction in french tax rate to 20 percent	0	PERCENT
+1.0	Segolene Royal	improve	housing security	0	0
+1.0	details	have	raft	O	O
+1.0	France	have	first ever woman president	LOCATION	ORDINAL
+1.0	he	call for	reduction in french corporate tax rate to 20 percent	0	PERCENT
+1.0	France	have	unemployment rate	O	LOCATION
+1.0	measure	weaken	euro	0	0
+1.0	Segolene Royal	have	credibility	O	O
+1.0	candidate	be	political	0	0
+1.0	he	call for	reduction in tax rate	0	0
+1.0	France	have	influence over EU labour law	LOCATION	ORGANIZATION
+1.0	visit	have	policies	O	O
+1.0	it	underline	Royal 's attempt	0	0
+1.0	reduction	be in	french corporate tax rate to 20 percent	0	PERCENT
+1.0	Royal	give	detail of trip	0	0
+1.0	its lowest level	be in	25 year	0	DURATION
+1.0	European Union	take	measure	ORGANIZATION	0
+1.0	France 's high unemployment rate	fall by	end	LOCATION	DATE
+1.0	Chirac	be	74-year-old	PERSON	DURATION
+1.0	Segolene Royal	improve housing security for	especially family	0	0
+1.0	2007	have	end	DATE	DATE
+1.0	Segolene Royal	's manager be	Jean-Louis Biano	0	PERSON
+1.0	he	boost	investment company relocate to fiscally advantageous country	0	0
+1.0	Royal	have	attempts	O	O
+1.0	delegation	speak to	top official	0	0
+1.0	Jacques Chirac	have	years	DURATION	O
+1.0	France 's unemployment rate	fall by	end	LOCATION	DATE
+1.0	she	outline	platform of promise	0	0
+1.0	she	take job compare to	48 percent for Sarkozy	0	PERCENT
+1.0	advantages	have	lack	O	O
+1.0	France	have	influence	LOCATION	0
+1.0	he	call for	reduction in corporate tax rate	0	0
+1.0	France 's high unemployment rate	fall to	its lowest level in 25 year	LOCATION	DURATION
+1.0	Jacques Chirac	have	policies	O	O
+1.0	France 's high unemployment rate	fall to	its level in 25 year	LOCATION	DURATION
+1.0	New Year 's	have	wish	DATE	0
+1.0	Segolene Royal	have	campaign manager	O	O
+1.0	he	call for	reduction in french tax rate	0	0
+1.0	France 's unemployment rate	fall by	end of 2007	LOCATION	DATE
+0.6297165071374858	race	succeed 74-year-old chirac in	election	0	0
+1.0	his	have	months	DATE	O
+0.6297165071374858	race	succeed chirac in	presidential election	0	0
+1.0	New Year	have	wishes	O	DATE
+1.0	he	call in	he New Year greet to labor leader	0	DATE
+1.0	15-strong delegation	speak to	top official	0	0
+1.0	Royal	be at_time	Thursday	0	DATE
+1.0	it	also underline	Royal 's attempt	0	0
+1.0	France	of	generous welfare system	LOCATION	0
+1.0	12 year	be in	power	DURATION	0
+1.0	opposition Socialist Party	have	candidate	O	ORGANIZATION
+1.0	he	call in	he own New Year	0	DATE
+0.6297165071374858	race	succeed	74-year-old Chirac	0	PERSON
+1.0	promises	have	platform	O	O
+1.0	she	outline	platform	0	0
+1.0	Royal	have	attempt	0	0
+1.0	Royal	be at_time	later Thursday	0	DATE

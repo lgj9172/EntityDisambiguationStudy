@@ -1,0 +1,59 @@
+1.0	South Korea	suspend	aid shipment	LOCATION	0
+1.0	nuclear disarmament talk	resume at_time	last month	0	DATE
+1.0	six-nation nuclear disarmament talk	resume for	time	0	0
+1.0	six-nation disarmament talk	end in	apparent deadlock	0	0
+1.0	South Korea	suspend aid shipment in	July	LOCATION	DATE
+1.0	six-nation disarmament talk	resume for	time in 13 month	0	DATE
+1.0	nuclear disarmament talk	end in	apparent deadlock	0	0
+1.0	disarmament talk	resume for	time	0	0
+1.0	South Korea	suspend	regular aid shipment	LOCATION	0
+1.0	Unification Minister Lee Jae-Joung	cooperate with	South	PERSON	LOCATION
+1.0	South Korea	urge	North Korea Tuesday	LOCATION	LOCATION
+1.0	relations	have	charge	O	O
+1.0	six-nation nuclear disarmament talk	resume at_time	month	0	DATE
+1.0	six-nation disarmament talk	resume for	first time in 13 month	0	ORDINAL
+1.0	nuclear disarmament talk	resume for	first time	0	ORDINAL
+1.0	North Korea Tuesday	scrap	its nuclear weapon	LOCATION	0
+1.0	North	at	missile test	0	0
+1.0	Unification Minister Lee Jae-Joung	call on	hardline communist state	PERSON	0
+1.0	six-nation nuclear disarmament talk	resume for	time in 13 month	0	DATE
+1.0	six-nation disarmament talk	resume at_time	last month	0	DATE
+1.0	Unification Minister Lee Jae-Joung	call on	hardline state	PERSON	0
+1.0	first time	be in	13 month	ORDINAL	DATE
+1.0	nuclear disarmament talk	resume for	time	0	0
+1.0	disarmament talk	resume for	first time	0	ORDINAL
+1.0	North	have	missile tests	O	O
+1.0	Its	have	people	O	O
+1.0	aid	have	distribution	O	O
+1.0	six-nation disarmament talk	resume at_time	month	0	DATE
+1.0	its	have	weapons test	O	O
+1.0	disarmament talk	resume for	first time in 13 month	0	ORDINAL
+1.0	North Korea Tuesday	scrap	its weapon	LOCATION	0
+1.0	Lee Jae-Joung	be in	charge of relation with North	PERSON	LOCATION
+1.0	Unification Minister Lee Jae-Joung	call in	year message	PERSON	0
+1.0	world	as	10th economy	0	ORDINAL
+1.0	people	have	thousands	O	O
+1.0	South Korea	suspend aid shipment worth	million	LOCATION	0
+1.0	six-nation nuclear disarmament talk	end in	apparent deadlock	0	0
+1.0	disarmament talk	resume at_time	month	0	DATE
+1.0	relation	be with	North	0	LOCATION
+1.0	Unification Minister Lee Jae-Joung	call	cooperate	PERSON	0
+1.0	dollars	have	millions	MONEY	MONEY
+1.0	nuclear disarmament talk	resume for	first time in 13 month	0	ORDINAL
+1.0	Unification Minister Lee Jae-Joung	call in	new year message	PERSON	0
+1.0	six-nation disarmament talk	resume for	time	0	0
+1.0	Unification Minister Lee Jae-Joung	call	cooperate with South	PERSON	LOCATION
+1.0	six-nation nuclear disarmament talk	resume for	first time in 13 month	0	ORDINAL
+1.0	North Korea Tuesday	have	weapons	O	O
+1.0	its	have	weapons drive	O	O
+1.0	six-nation nuclear disarmament talk	resume for	first time	0	ORDINAL
+1.0	world	have	economy	O	O
+1.0	disarmament talk	resume at_time	last month	0	DATE
+1.0	their	have	security	O	O
+1.0	six-nation disarmament talk	resume for	first time	0	ORDINAL
+1.0	nuclear disarmament talk	resume at_time	month	0	DATE
+1.0	South Korea	suspend aid shipment worth	million of dollar	LOCATION	MONEY
+1.0	disarmament talk	end in	apparent deadlock	0	0
+1.0	six-nation nuclear disarmament talk	resume at_time	last month	0	DATE
+1.0	nuclear disarmament talk	resume for	time in 13 month	0	DATE
+1.0	disarmament talk	resume for	time in 13 month	0	DATE

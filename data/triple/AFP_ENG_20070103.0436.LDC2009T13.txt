@@ -1,0 +1,118 @@
+1.0	whereabouts	have	word	O	O
+1.0	Delia Razuri	be	kidnap	PERSON	0
+1.0	Delia Razuri	have	friends	O	PERSON
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	have	kidnappers	O	O
+1.0	she	urge	newspaper guild	0	0
+1.0	friend	meanwhile gather	call for photographer 's release	0	0
+1.0	Delia Razuri	be	kidnap at gunpoint at entrance	PERSON	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	everything possible	PERSON	0
+1.0	Razuri 50	be kidnap at	entrance	PERSON	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	be return from	assignment with translator	0	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	travel to	Gaza Strip later	PERSON	DATE
+1.0	Delia Razuri	be kidnap at	entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	Jaime Razuri	be of	afp	PERSON	0
+1.0	Delia Razuri	have	son	O	O
+0.6856842486483582	group	represent foreign reporter in	Peru	0	LOCATION
+1.0	Delia Razuri	be	kidnap at gunpoint at entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	hostage 's mother	also call on	government	0	0
+1.0	Razuri 50	be kidnap at	entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	palestinian Authority	persist in	its effort	ORGANIZATION	0
+1.0	its	have	efforts	O	O
+1.0	hostage	have	mother	0	0
+1.0	group	express	its condemnation	0	0
+1.0	Peru 's	have	Jose Antonio Garcia Belaunde	LOCATION	PERSON
+1.0	friend	gather outside	palestinian delegation	0	0
+1.0	identity	have	word	O	O
+1.0	newspaper guild	organize	demonstration outside palestinian delegation	0	0
+1.0	Peru	have	Deputy Foreign Minister Gonzalo Gutierrez	PERSON	LOCATION
+1.0	Delia Razuri	be kidnap at	entrance	PERSON	0
+1.0	hostage	's mother be	Delia Razuri	0	PERSON
+0.6856842486483582	group	represent reporter in	Peru	0	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	help	PERSON	0
+1.0	group	separately express	its condemnation	0	0
+1.0	friend	gather outside	delegation in Lima	0	LOCATION
+1.0	Lima	at	historic downtown cathedral	LOCATION	0
+1.0	gathering	follow	candlelight vigil	0	0
+1.0	authority	do	they utmost	0	0
+1.0	friend	meanwhile gather	relative	0	0
+1.0	Peru	have	Gonzalo Gutierrez	LOCATION	PERSON
+1.0	Razuri 50	be	kidnap at gunpoint at entrance	PERSON	0
+1.0	friend	meanwhile gather	call	0	0
+1.0	hostage 's mother	tell reporter at	cathedral	0	0
+1.0	Delia Razuri	be kidnap at	gunpoint	PERSON	0
+1.0	friend	gather outside	palestinian delegation in Lima	0	LOCATION
+1.0	hostage 's mother	tell	he brother Carlos	0	PERSON
+1.0	its	have	condemnation	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	travel at_time	Wednesday	PERSON	DATE
+1.0	Razuri 50	be	kidnap at gunpoint at entrance of afp office	PERSON	0
+1.0	Jose Antonio Garcia Belaunde	be foreign minister of	Peru 's	PERSON	LOCATION
+1.0	friend	meanwhile gather at_time	Wednesday	0	DATE
+1.0	friend	meanwhile gather outside	delegation	0	0
+1.0	newspaper guild	organize	demonstration outside delegation	0	0
+1.0	Lima	have	downtown cathedral	O	LOCATION
+1.0	friend	gather outside	delegation	0	0
+1.0	Jose Antonio Garcia Belaunde	be on	Tuesday	PERSON	DATE
+1.0	palestinian delegation	be in	Lima	0	LOCATION
+1.0	photographer	for	release	0	0
+1.0	son	for	release	0	0
+1.0	hostage 's mother	tell	reporter	0	0
+1.0	Delia Razuri	be	kidnap at gunpoint at entrance of afp office	PERSON	0
+1.0	AFP offices	have	entrance	O	O
+1.0	friend	gather	call	0	0
+1.0	newspaper guild	organize	peaceful demonstration outside palestinian delegation	0	0
+1.0	newspaper guild	organize	peaceful demonstration	0	0
+1.0	friend	gather	relative	0	0
+1.0	well-wishers	have	group	O	O
+1.0	Razuri 50	be kidnap at	entrance of afp office	PERSON	0
+1.0	newspaper guild	organize	demonstration	0	0
+1.0	friend	meanwhile gather outside	delegation in Lima	0	LOCATION
+1.0	gathering	follow candlelight vigil at	Lima 's downtown cathedral	0	LOCATION
+1.0	gathering	follow candlelight vigil at	Lima 's historic downtown cathedral	0	LOCATION
+1.0	gathering	follow candlelight vigil by	group	0	0
+1.0	The hostage 's	have	brother Carlos	PERSON	O
+1.0	friend	call for	photographer 's release	0	0
+1.0	Delia Razuri	be kidnap at	entrance of afp office	PERSON	0
+1.0	AFP photographer Jaime Razuri	have	liberation	O	PERSON
+1.0	Gonzalo Gutierrez	be deputy foreign minister of	Peru	PERSON	LOCATION
+1.0	Delia Razuri	have	son home	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	have	whereabouts	O	O
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	travel to	Gaza Strip	PERSON	LOCATION
+1.0	Razuri 50	be kidnap at	gunpoint	PERSON	0
+1.0	friend	meanwhile gather outside	palestinian delegation in Lima	0	LOCATION
+1.0	gathering	follow candlelight vigil by	group of 100 well-wisher	0	NUMBER
+1.0	Razuri 50	be	kidnap	PERSON	0
+0.6856842486483582	group	represent	foreign reporter	0	0
+1.0	hostage	have	mother	O	O
+1.0	journalist	have	release	O	O
+0.6856842486483582	group	represent	reporter	0	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	be return from	assignment	0	0
+1.0	kidnappers	have	motives	O	O
+1.0	Peru 's	have	Foreign Minister Jose Antonio Garcia Belaunde	PERSON	LOCATION
+1.0	Delia Razuri	be	50	PERSON	NUMBER
+1.0	photographer	have	release	O	O
+1.0	hostage 's mother	also call on	peruvian government	0	0
+1.0	friends and relatives of Razuri	have	utmost	O	O
+1.0	friend	gather	call for photographer 's release	0	0
+1.0	she	also urge	newspaper guild	0	0
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	have	office	O	O
+1.0	friend	gather at_time	Wednesday	0	DATE
+1.0	abduction	have	expressed	O	O
+1.0	his	have	colleagues	O	O
+1.0	friend	meanwhile gather outside	palestinian delegation	0	0
+1.0	gathering	follow candlelight vigil at_time	late Tuesday	0	DATE
+1.0	newspaper guild	organize	peaceful demonstration outside delegation	0	0
+1.0	assignment	be with	translator	0	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	promise	do	PERSON	0
+1.0	gathering	follow candlelight vigil at_time	Tuesday	0	DATE
+1.0	hostage 's mother	call on	peruvian government	0	0
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	afp office	be in	Gaza City	0	LOCATION
+1.0	friend	call	relative	0	0
+1.0	son	have	release	O	O
+1.0	Razuri 50	be	kidnap at gunpoint at entrance of afp office in Gaza City	PERSON	LOCATION
+1.0	group	urge	palestinian Authority	0	ORGANIZATION
+1.0	hostage 's mother	call on	government	0	0
+1.0	Authority	persist in	its effort	ORGANIZATION	0
+1.0	group	urge	Authority	0	ORGANIZATION
+1.0	Peru 's Deputy Foreign Minister Gonzalo Gutierrez	seek	liberation	PERSON	0
+1.0	palestinian authority	do	they utmost	0	0

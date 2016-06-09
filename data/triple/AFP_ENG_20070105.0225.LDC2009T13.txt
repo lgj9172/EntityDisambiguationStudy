@@ -1,0 +1,67 @@
+1.0	Merck	say in	its statement	ORGANIZATION	0
+1.0	Merck	say in	statement	PERSON	DURATION
+1.0	group 's family shareholder	give	green light	0	0
+1.0	we	be consider	divestiture of Merck Generics to qualify buyer	0	ORGANIZATION
+1.0	media speculation	have	drugs business	O	O
+1.0	Serono	be of	swiss-based	ORGANIZATION	0
+1.0	generics division	have	divestiture	O	O
+1.0	group sales	have	percent	PERCENT	O
+1.0	Merck Generics	have	strong business	ORGANIZATION	0
+1.0	Merck Generics	have	divestiture	O	ORGANIZATION
+1.0	Merck Generics	have	strong business with growth prospects for future	ORGANIZATION	DATE
+1.0	its	have	market presence	O	O
+1.0	media speculation	have refuse	comment	0	0
+1.0	Merck share	soar on	stock exchange	ORGANIZATION	0
+1.0	Merck	say in	its statement on Friday	ORGANIZATION	DATE
+1.0	group	have	family shareholders	O	O
+1.0	Merck Generics	have	business with good growth prospects for future	ORGANIZATION	DATE
+1.0	euros	have	turnover	O	MONEY
+1.0	drug maker Serono	have	acquisition	O	ORGANIZATION
+1.0	Serono	be of	swiss	ORGANIZATION	0
+1.0	its	have	plans	O	O
+1.0	strong business	be with	good growth prospects for future	0	DATE
+1.0	Merck share	soar on	stock exchange on back of report	ORGANIZATION	0
+1.0	we	be consider	divestiture	0	0
+1.0	concrete talk	be with	potential buyer	0	0
+1.0	Handelsblatt	be	daily	ORGANIZATION	SET
+1.0	2.0-2 .5 billion euro	be in	fresh capital	MONEY	0
+1.0	media speculation	sell	its drug business	0	0
+1.0	we	be consider	divestiture of Merck Generics	0	ORGANIZATION
+1.0	Merck Generics	have	strong business with growth prospects	ORGANIZATION	0
+1.0	Merck share	soar on	stock exchange on back	ORGANIZATION	0
+1.0	Merck KGaA	confirm at_time	Friday	ORGANIZATION	DATE
+1.0	media speculation	have refuse	comment on media speculation	0	DURATION
+1.0	Merck	say in	day	PERSON	DURATION
+1.0	Merck Generics	have	business with growth prospects for future	ORGANIZATION	DATE
+1.0	Merck Generics	have	strong business with good growth prospects for future	ORGANIZATION	DATE
+1.0	Serono	have	acquisition	O	ORGANIZATION
+1.0	media speculation	comment on	media speculation	0	DURATION
+1.0	Merck Generics	have	strong business with good growth prospects	ORGANIZATION	0
+1.0	Merck Generics	have	business with good growth prospects	ORGANIZATION	0
+1.0	group 's family shareholder	give	light	0	0
+1.0	Merck Generics	have	business	ORGANIZATION	0
+1.0	we	be consider divestiture as	option	0	0
+1.0	acquisition	have	result	O	O
+1.0	firm	concentrate on	drug	0	0
+1.0	german firm	concentrate on	patent-protected drug	0	0
+1.0	we	be consider	divestiture of Merck Generics to buyer	0	ORGANIZATION
+1.0	media speculation	sell	its off-patent drug business	0	DURATION
+1.0	its generic drugs business	have	acquisition	O	O
+1.0	its generic drugs business	have	drugs business	O	O
+1.0	Merck KGaA	sell	its generic drug business	0	0
+1.0	the German pharmaceuticals and specialty chemicals maker	have	generics division	O	O
+1.0	Merck KGaA	sell	its drug business	0	0
+1.0	newspaper	quote	company source	0	0
+1.0	changes	have	light	O	O
+1.0	report	have	back	O	O
+1.0	Merck share	soar on	Thursday	ORGANIZATION	DATE
+1.0	business	have	sale	O	O
+1.0	its	have	statement	O	O
+1.0	Merck Generics	have	business with growth prospects	ORGANIZATION	0
+1.0	firm	concentrate on	patent-protected drug	0	0
+1.0	light	occur in	market	0	0
+1.0	its	have	potential	O	O
+1.0	german firm	concentrate on	drug	0	0
+1.0	2007	have	quarter	DATE	DATE
+1.0	group	have	family shareholder	0	0
+1.0	group 's family shareholder	give light to	possible sale	0	0

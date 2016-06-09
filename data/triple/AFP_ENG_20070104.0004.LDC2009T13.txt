@@ -1,0 +1,89 @@
+1.0	fifth overall pick	be in	2003	ORDINAL	DATE
+1.0	their	have	NBA title	O	O
+1.0	Dwyane Wade	be	all Star	PERSON	ORGANIZATION
+1.0	one	win	shy	NUMBER	0
+1.0	two-time	defend	Eastern Conference champion Detroit	0	LOCATION
+1.0	Miami Heat coach Pat Riley	build	nucleus	PERSON	0
+1.0	Riley	guide heat at_time	June	PERSON	DATE
+1.0	Pat Riley	be	Miami Heat	PERSON	ORGANIZATION
+1.0	Antoine Walker	be	Jason Williams	PERSON	PERSON
+1.0	have starter	be in	National Basketball Association	0	ORGANIZATION
+1.0	Pat Riley	be coach of	Miami Heat	PERSON	ORGANIZATION
+1.0	Miami	trail milwaukee by	2 1/2 game for eighth playoff spot in Eastern Conference	LOCATION	NUMBER
+1.0	he	come back as	coach	0	0
+1.0	Miami	dispatch	Chicago in six game	LOCATION	LOCATION
+1.0	Rothstein	be	Heat 's coach in 1998	PERSON	DATE
+1.0	series	have	games	O	O
+1.0	his	have	guidance	O	O
+1.0	Riley	revamp	roster	PERSON	0
+1.0	Miami Heat coach Pat Riley	take	leave of absence	0	0
+1.0	Los Angeles Clippers	be on	Wednesday before	ORGANIZATION	DATE
+1.0	chips	have	lot	O	O
+1.0	Riley	guide heat at_time	last June	PERSON	DATE
+1.0	Miami	trail milwaukee by	2 1/2 game for eighth playoff spot	LOCATION	NUMBER
+1.0	Heat	have	coach	O	O
+1.0	Riley	guide heat to	they first NBA title	PERSON	ORDINAL
+1.0	Heat	hit	they stride	0	0
+1.0	Miami	dispatch	Chicago	LOCATION	LOCATION
+1.0	Miami Heat coach Pat Riley	take	indefinite leave of absence	0	0
+1.0	Miami	trail	Milwaukee	LOCATION	LOCATION
+1.0	Riley	have	absence	O	PERSON
+1.0	Miami	be to	13-17 start	LOCATION	NUMBER
+1.0	Riley	return to	sideline	PERSON	0
+1.0	Miami Heat coach Pat Riley	take	leave	0	0
+1.0	Miami Heat coach Pat Riley	take	indefinite leave	0	0
+1.0	his	have	stars	O	O
+1.0	Heat	will host	Los Angeles Clippers	0	ORGANIZATION
+1.0	it	be	fifth championship	0	ORDINAL
+1.0	all	acquire	Shaquille O'Neal from Lakers	0	PERSON
+1.0	Riley	guide	Heat	PERSON	0
+1.0	Miami Heat coach Pat Riley	need on	Wednesday	0	DATE
+1.0	their	have	Southeast Division title	O	O
+1.0	Riley	return in	December 2005	PERSON	DATE
+1.0	all	acquire shaquille o'neal in	July 2004	0	DATE
+1.0	Riley	replace	Stan Van Gundy	PERSON	PERSON
+1.0	one	win	largely due	NUMBER	0
+1.0	Dwyane Wade	be guard of	all Star	PERSON	ORGANIZATION
+1.0	Riley	in	absence	PERSON	0
+1.0	it	be	championship	0	0
+0.6087334694823242	Miami Heat coach Pat Riley	draft	all	PERSON	0
+1.0	absence	have	leave	O	O
+1.0	Heat 's inaugural coach	be in	1998	0	DATE
+1.0	their	have	stride	O	O
+1.0	Miami Heat coach Pat Riley	take leave for	health reason	0	0
+1.0	Heat	beat	Dallas Mavericks	0	ORGANIZATION
+1.0	Rothstein	be	Heat 's inaugural coach	PERSON	0
+1.0	two-time	defend	Eastern Conference champion Detroit in six	0	NUMBER
+1.0	Heat	embark on	road trip	0	0
+1.0	Miami Heat coach Pat Riley	build	nucleus of championship team	PERSON	0
+1.0	one	win	shy of NBA Finals	NUMBER	ORGANIZATION
+1.0	Rothstein	be	Heat 's coach	PERSON	0
+1.0	I	want	get	0	0
+1.0	eighth playoff spot	be in	Eastern Conference	ORDINAL	0
+1.0	Riley	guide heat to	they NBA title	PERSON	ORGANIZATION
+1.0	New Jersey	be in	five	LOCATION	NUMBER
+1.0	Dwyane Wade	be with	fifth overall pick in 2003	PERSON	ORDINAL
+1.0	Heat	have	inaugural coach in 1998	0	DATE
+1.0	one	win	due	NUMBER	0
+1.0	his	have	four	NUMBER	O
+1.0	season	have	end	O	O
+1.0	Heat	will host	Los Angeles Clippers on Wednesday	0	ORGANIZATION
+1.0	National Basketball Association champion	be in	Riley 's absence	ORGANIZATION	PERSON
+1.0	the	have	coach	O	O
+1.0	NBA Finals	have	shy	O	O
+1.0	Miami	trail milwaukee by	2 1/2 game for playoff spot	LOCATION	NUMBER
+1.0	Detroit	be in	six	LOCATION	NUMBER
+1.0	Rothstein	be	Heat 's inaugural coach in 1998	PERSON	DATE
+1.0	he	come as	coach	0	0
+1.0	Miami	trail milwaukee by	2 1/2 game	LOCATION	NUMBER
+1.0	Miami	trail milwaukee by	2 1/2 game for playoff spot in Eastern Conference	LOCATION	NUMBER
+1.0	Miami	be to	off 13-17 start	LOCATION	NUMBER
+1.0	one	win in	2005	NUMBER	DATE
+1.0	Dallas Mavericks	be in	NBA Finals	ORGANIZATION	ORGANIZATION
+1.0	Shaquille O'Neal	be from	Lakers	PERSON	ORGANIZATION
+1.0	Heat	embark on	six-game road trip	0	0
+1.0	Heat	beat	Dallas Mavericks in NBA Finals	0	ORGANIZATION
+1.0	Chicago	be in	six game	LOCATION	NUMBER
+1.0	all	acquire	Shaquille O'Neal	0	PERSON
+1.0	championship team	have	nucleus	O	O
+1.0	my	have	knee	O	O

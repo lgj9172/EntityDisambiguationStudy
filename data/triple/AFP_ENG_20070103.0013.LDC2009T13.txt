@@ -1,0 +1,5 @@
+1.0	record highs	have	run	O	O
+1.0	benchmark sp/asx	close at	5,649.3	0	NUMBER
+1.0	benchmark sp/asx 200	close at	5,649.3	NUMBER	NUMBER
+1.0	benchmark sp/asx 200	close down at	5,649.3	NUMBER	NUMBER
+1.0	benchmark sp/asx	close down at	5,649.3	0	NUMBER

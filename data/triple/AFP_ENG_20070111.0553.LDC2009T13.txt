@@ -1,0 +1,28 @@
+1.0	Iraq	have	Sunnis	MISC	LOCATION
+1.0	Abdullah	be with	Saudi	PERSON	MISC
+1.0	US President George W. Bush	escalate	war in Iraq	LOCATION	LOCATION
+1.0	Condoleezza Rice	have	trip	O	PERSON
+1.0	Iraq 's Sunnis	back	shiite	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush on Thursday	travel	talk	PERSON	0
+1.0	Condoleezza Rice	have	upcome trip to Middle East	PERSON	LOCATION
+1.0	US President George W. Bush	discuss	he plan	LOCATION	0
+1.0	Iraq	have	Sunnis	LOCATION	MISC
+1.0	Saudi Arabia	deny report at_time	last month	LOCATION	DATE
+1.0	US President George W. Bush	escalate war accord to	White House security spokesman Gordon Johndroe	LOCATION	ORGANIZATION
+1.0	Saudi Arabia	deny report at_time	month	LOCATION	DATE
+1.0	US President George W. Bush on Thursday	have	plans	O	O
+1.0	US President George W. Bush	escalate war with	Saudi King Abdullah	LOCATION	PERSON
+1.0	Saudi Arabia	deny	report	LOCATION	0
+1.0	US Army	have	Infantry School	ORGANIZATION	ORGANIZATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	White House national security spokesman Gordon Johndroe	tell	reporter	PERSON	0
+1.0	rage civil war	be in	country	0	0
+1.0	Saudi Arabia	step	bankroll	0	0
+1.0	Gordon Johndroe	be accord to	White House	PERSON	ORGANIZATION
+1.0	George W. Bush	be on	Thursday	PERSON	DATE
+1.0	State	have	US Secretary	O	ORGANIZATION
+1.0	US President George W. Bush	escalate war accord to	White House national security spokesman Gordon Johndroe	LOCATION	ORGANIZATION
+1.0	US President George W. Bush	escalate	war	LOCATION	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	US President George W. Bush on Thursday	travel home	talk	PERSON	0

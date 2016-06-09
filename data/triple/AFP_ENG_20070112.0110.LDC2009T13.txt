@@ -1,0 +1,98 @@
+1.0	union representatives	have	emergency meeting	O	O
+1.0	The workers	have	struggle	O	O
+1.0	Hyundai Motor	lose	production	ORGANIZATION	0
+1.0	Hyundai Motor	lose	production win	ORGANIZATION	0
+1.0	Hyundai Motor	lose production at_time	year	ORGANIZATION	DATE
+1.0	full bonus	face	strike vote	0	0
+1.0	strikes	have	lost	O	O
+1.0	Hyundai Motor 's main plant	be	where located	ORGANIZATION	0
+1.0	it	produce	1.62 million vehicle	0	NUMBER
+1.0	bonus	face	strike vote	0	0
+1.0	strikes	have	impact	O	O
+1.0	Hyundai Motor	lose	production of 115,683 vehicle	ORGANIZATION	NUMBER
+1.0	44,000-strong union	give company until	Thursday	0	DATE
+1.0	its	have	target	O	O
+1.0	side	have sue	other compensation for production	0	0
+1.0	side	have sue	compensation for production	0	0
+1.0	side	have sue	other compensation	0	0
+1.0	Hyundai Motor	lose production because of	strike last	ORGANIZATION	DATE
+1.0	Lee Sang-Soo	be	Labor	PERSON	ORGANIZATION
+1.0	company	cite	miss production target in 2006	0	DATE
+1.0	Hyundai Motor	lose production at_time	last year	ORGANIZATION	DATE
+1.0	decision	come at	emergency meeting of union representative in city of Ulsan	0	LOCATION
+1.0	Hyundai Motor 's plant	be	where located	ORGANIZATION	0
+1.0	side	have sue	other over dispute with management compensation for production	0	0
+1.0	bonus	have	payment	O	O
+1.0	Hyundai Motor	have	plants	O	ORGANIZATION
+1.0	Hyundai Motor	lose production because of	strike last 17 day	ORGANIZATION	DURATION
+1.0	side	have sue	other over dispute with management compensation	0	0
+1.0	firm	have	70 percent	0	PERCENT
+1.0	spokesman	tell	afp	0	0
+1.0	company 's New year business	injure	executive	DATE	0
+1.0	Lee Sang-Soo	be minister of	Labor	PERSON	ORGANIZATION
+1.0	union	call overtime ban in	protest	0	0
+1.0	side	have sue	other over dispute with management compensation for lost production	0	0
+0.8358515749576352	Hyundai Motor	production worth of	115,683 vehicle	ORGANIZATION	NUMBER
+1.0	decision	come at	emergency meeting of union representative	0	0
+1.0	company 's New year business	slightly injure	executive	DATE	0
+1.0	Hyundai Motor	have	earnings for 2006	ORGANIZATION	DATE
+1.0	union	give company until	Thursday	0	DATE
+1.0	company	cite	production target	0	0
+1.0	country	have	car market	O	O
+1.0	side	have sue	other over dispute compensation for lost production	0	0
+1.0	union	give	company	0	0
+1.0	Hyundai Motor	lose production because of	strike	ORGANIZATION	0
+1.0	company 's New year business	open	ceremony	DATE	0
+1.0	company	suffer record loss at_time	year	0	DATE
+1.0	Hyundai Motor 's main plant	be	located	ORGANIZATION	0
+1.0	side	have sue	other over dispute compensation	0	0
+0.06141471494456796	union	call in	protest	0	0
+1.0	side	have sue	other compensation for lost production	0	0
+1.0	side	have sue	other over dispute compensation for production	0	0
+0.6067577736301444	strike	last	17 day	0	DURATION
+0.06141471494456796	44,000-strong union	call in	protest	0	0
+1.0	union	call	overtime ban	0	0
+1.0	company	have	New Year business	O	O
+1.0	Ulsan	have	city	O	LOCATION
+1.0	vehicles	have	production	O	O
+1.0	decision	come at	emergency meeting of union representative in city	0	0
+1.0	side	have sue	compensation for lost production	0	0
+1.0	it	produce less	1.62 million vehicle	0	NUMBER
+1.0	company	cite	miss production target	0	0
+1.0	Hyundai Motor	lose	production of 115,683 vehicle worth win	ORGANIZATION	NUMBER
+1.0	side	have sue	compensation	0	0
+1.0	Hyundai Motor 's plant	be	located	ORGANIZATION	0
+1.0	company would sternly deal	be with	illegal strike	0	0
+1.0	Hyundai Motor	have	main plant	ORGANIZATION	0
+1.0	side	have sue	other with management compensation for lost production	0	0
+1.0	Hyundai Motor	have	earnings	O	ORGANIZATION
+1.0	company	cut bonus payment by	third	0	ORDINAL
+1.0	company	suffer	record strike-incurred loss	0	0
+0.8358515749576352	Hyundai Motor	production of	115,683 vehicle	ORGANIZATION	NUMBER
+1.0	union representative	be in	southeastern city of Ulsan	0	LOCATION
+1.0	side	have sue	other with management compensation for production	0	0
+1.0	company	cite	production target in 2006	0	DATE
+1.0	country	of	car market	0	0
+1.0	firm	have	70 percent of country 's car market	0	PERCENT
+1.0	South Korea	have	auto firm	O	LOCATION
+1.0	its	have	sister company	O	O
+1.0	company	cut	year-end bonus payment	0	0
+1.0	miss production target	be in	2006	0	DATE
+1.0	Hyundai Motor	lose	production worth	ORGANIZATION	0
+1.0	decision	come at	emergency meeting of union representative in southeastern city	0	0
+1.0	Hyundai Motor	lose	production of 115,683 vehicle win	ORGANIZATION	NUMBER
+1.0	South Korea	have	largest auto firm	LOCATION	0
+1.0	company	cut	bonus payment	0	0
+1.0	44,000-strong union	give	company	0	0
+1.0	44,000-strong union	call	overtime ban	0	0
+1.0	its	have	threat	O	O
+1.0	decision	come at	emergency meeting	0	0
+1.0	side	have sue	other with management compensation	0	0
+1.0	car market	have	percent	PERCENT	O
+1.0	decision	come at	emergency meeting of union representative in southeastern city of Ulsan	0	LOCATION
+1.0	Hyundai Motor	lose	production of 115,683 vehicle worth	ORGANIZATION	NUMBER
+1.0	company	suffer	record loss	0	0
+1.0	Hyundai Motor	lose	production worth win	ORGANIZATION	0
+1.0	company	suffer record loss at_time	last year	0	DATE
+1.0	44,000-strong union	call overtime ban in	protest	0	0
+1.0	company	have	New year business	0	DATE

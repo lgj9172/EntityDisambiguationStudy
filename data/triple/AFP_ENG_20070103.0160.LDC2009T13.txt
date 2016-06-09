@@ -1,0 +1,78 @@
+1.0	US President George W. Bush	will meet on	eve of democratic takeover of Senate of Representatives	PERSON	ORGANIZATION
+1.0	president	have clash with	democrat on issue	0	0
+1.0	speech	be	expect before Bush 's annual state in January	0	DATE
+1.0	Bush 's Republican Party	lose control on	November 7	ORGANIZATION	DATE
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Bush 's Republican Party	lose control on	defeat attribute to reaction against Iraq war	ORGANIZATION	LOCATION
+1.0	Bush 's Republican Party	lose control on	defeat attribute to public reaction	ORGANIZATION	0
+1.0	speech	be	expect before Bush 's state of Union address in January	0	DATE
+1.0	US President George W. Bush	write in	Journal	PERSON	0
+1.0	Wednesday	have	Wall Street Journal	ORGANIZATION	DATE
+1.0	speech	be	expect before Bush 's state in January	0	DATE
+1.0	Bush 's Republican Party	lose control on	defeat attribute to public reaction against unpopular Iraq war	ORGANIZATION	LOCATION
+1.0	Senate	have	takeover	O	ORGANIZATION
+1.0	US President George W. Bush	will meet on	eve of democratic takeover	PERSON	ORGANIZATION
+1.0	The president	address nation about	new strategy	0	0
+1.0	Bush 's Republican Party	lose control on	defeat attribute to public reaction against Iraq war	ORGANIZATION	LOCATION
+1.0	Bush 's Republican Party	lose	control of Congress	ORGANIZATION	ORGANIZATION
+1.0	US President George W. Bush	will meet on	eve of takeover of Senate of Representatives	PERSON	ORGANIZATION
+1.0	Union address	have	State	O	O
+1.0	White House	from	Rose Garden	ORGANIZATION	LOCATION
+1.0	US President George W. Bush	will meet on	eve of takeover of Representatives	PERSON	ORGANIZATION
+1.0	The president	address ahead	nation in day	0	0
+1.0	speech	be	expect before Bush 's state in late January	0	DATE
+1.0	new strategy	be in	Iraq	0	LOCATION
+1.0	speech	be	expect before Bush 's state of Union address in late January	0	DATE
+1.0	The president	address nation about	new strategy in Iraq	0	LOCATION
+1.0	speech	be	expect	0	0
+1.0	US President George W. Bush	will meet with	he cabinet	PERSON	0
+1.0	speech	be	expect before Bush 's annual state of Union address in late January	0	DATE
+1.0	The president	address nation ahead about	strategy	0	0
+1.0	White House	have	Rose Garden	LOCATION	ORGANIZATION
+1.0	The president	address nation ahead about	new strategy in Iraq	0	LOCATION
+1.0	speech	be expect in	late January	0	DATE
+1.0	Bush	have	State	O	PERSON
+1.0	US President George W. Bush	say in	opinion column	PERSON	0
+1.0	nation	be in	the day	0	DURATION
+1.0	speech	be expect before	Bush 's annual state of Union address	0	SET
+1.0	war	make	tax cut permanent	0	0
+1.0	Bush 's Republican Party	lose control on	defeat	ORGANIZATION	0
+1.0	Wednesday	in	Wall Street Journal	DATE	ORGANIZATION
+1.0	US President George W. Bush	will meet on	eve	PERSON	0
+1.0	US President George W. Bush	have	office	O	O
+1.0	US President George W. Bush	say in	opinion column in Wednesday 's Wall Street Journal	PERSON	ORGANIZATION
+1.0	war	be in	Iraq	0	LOCATION
+1.0	speech	be	expect before Bush 's annual state of Union address in January	0	DATE
+0.6718993529057314	The president	nation in	day	0	0
+1.0	Bush 's Republican Party	lose control on	defeat attribute to reaction against unpopular Iraq war	ORGANIZATION	LOCATION
+1.0	The president	address	nation	0	0
+1.0	House	have	takeover	O	ORGANIZATION
+1.0	US President George W. Bush	have	cabinet	O	O
+1.0	speech	be expect in	January	0	DATE
+1.0	Bush	have	Republican Party	ORGANIZATION	PERSON
+1.0	The president	address ahead	nation	0	0
+1.0	US President George W. Bush	will meet on	eve of democratic takeover of Representatives	PERSON	ORGANIZATION
+1.0	The president	address nation about	strategy	0	0
+1.0	speech	be expect before	Bush 's state of Union address	0	PERSON
+1.0	The president	address nation ahead about	strategy in Iraq	0	LOCATION
+1.0	Rose Garden	be on	Wednesday	LOCATION	DATE
+1.0	Bush	before	annual state of Union address	PERSON	SET
+1.0	Bush 's Republican Party	lose control on	defeat attribute to reaction	ORGANIZATION	0
+1.0	Bush	have	Republican Party	PERSON	ORGANIZATION
+1.0	Representatives	have	takeover	O	ORGANIZATION
+1.0	US President George W. Bush	will meet on	eve of takeover of Senate	PERSON	ORGANIZATION
+1.0	war	make	sweeping tax cut permanent	0	0
+1.0	The president	address nation about	strategy in Iraq	0	LOCATION
+1.0	The president	address	nation in day	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	takeover	have	eve	O	O
+1.0	Bush 's Republican Party	lose control on	defeat attribute	ORGANIZATION	0
+1.0	opinion column	be in	Wall Street Journal	0	ORGANIZATION
+1.0	speech	be expect before	Bush 's state	0	PERSON
+1.0	speech	be	expect before Bush 's annual state in late January	0	DATE
+1.0	Bush 's Republican Party	lose	control	ORGANIZATION	0
+1.0	US President George W. Bush	will meet on	eve of democratic takeover of Senate	PERSON	ORGANIZATION
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	US President George W. Bush	will meet on	eve of takeover	PERSON	ORGANIZATION
+1.0	The president	address nation ahead about	new strategy	0	0
+1.0	speech	be expect before	Bush 's annual state	0	SET

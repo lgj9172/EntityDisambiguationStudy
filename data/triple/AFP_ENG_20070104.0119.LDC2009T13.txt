@@ -1,0 +1,24 @@
+1.0	club	be in	discussion with St James ' Park Group Limited	0	ORGANIZATION
+1.0	company	to	book	0	0
+1.0	group	request access to	company 's book	0	0
+1.0	club	be in	discussion	0	0
+1.0	Freddy Shepherd	be chairman of	English Premiership side Newcastle over a potential takeover	PERSON	ORGANIZATION
+1.0	English Premiership side Newcastle over a potential takeover	have	have link with takeover for sometime	ORGANIZATION	0
+1.0	group	request access with	view	0	0
+1.0	investment group Belgravia	speak to	club	LOCATION	0
+1.0	Newcastle chairman Freddy Shepherd	reveal at_time	month	ORGANIZATION	DATE
+1.0	Freddy Shepherd	be	English Premiership side Newcastle over a potential takeover	PERSON	ORGANIZATION
+1.0	Newcastle chairman Freddy Shepherd	reveal at_time	last month	ORGANIZATION	DATE
+1.0	group	request	access	0	0
+1.0	Newcastle	be with	english	ORGANIZATION	0
+1.0	Belgravia	be	jersey-based	LOCATION	0
+1.0	English Premiership side Newcastle over a potential takeover	have	have link	ORGANIZATION	0
+1.0	investment group Belgravia	also speak to	club	LOCATION	0
+1.0	discussion	be with	St James ' Park Group Limited	0	ORGANIZATION
+1.0	jersey-based investment group Belgravia	also speak to	club	LOCATION	0
+1.0	company	have	books	O	O
+1.0	St. James	have	Park Group Limited	ORGANIZATION	ORGANIZATION
+1.0	English Premiership side Newcastle over a potential takeover	have	have link with takeover	ORGANIZATION	0
+1.0	two	have	one	NUMBER	NUMBER
+1.0	jersey-based investment group Belgravia	speak to	club	LOCATION	0
+1.0	St James	have	Park Group Limited	ORGANIZATION	ORGANIZATION

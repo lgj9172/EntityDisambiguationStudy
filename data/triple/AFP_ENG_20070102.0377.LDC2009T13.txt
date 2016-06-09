@@ -1,0 +1,20 @@
+1.0	two-storey building	mosque in	East Germany	0	LOCATION
+1.0	it	finance by	Ahmadiyya community	0	ORGANIZATION
+1.0	it	be	be build	0	0
+1.0	two-storey building	complete in	year	0	DURATION
+1.0	Marcel Kuhlmey	spokesman for	police	PERSON	0
+1.0	Islam	be with	30,000 follower in Germany	ORGANIZATION	LOCATION
+1.0	first mosque	be in	former communist	ORDINAL	0
+1.0	mosque	have	Tuesday	DATE	O
+1.0	two-storey building	be	due	0	0
+1.0	it	finance by	Ahmadiyya muslim community	0	ORGANIZATION
+1.0	building	be	due	0	0
+1.0	30,000 follower	be in	East Germany	NUMBER	LOCATION
+1.0	feeling	have	lots	O	O
+1.0	it	be	be build for	0	0
+1.0	first such purpose-built mosque	be in	East Germany	ORDINAL	LOCATION
+1.0	two-storey building	have	dome	0	0
+1.0	building	have	dome	0	0
+1.0	building	complete in	year	0	DURATION
+1.0	construction	have	start	O	O
+1.0	mainstream Islam	have	offshoot	O	ORGANIZATION

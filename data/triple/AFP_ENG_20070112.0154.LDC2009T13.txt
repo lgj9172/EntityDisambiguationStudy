@@ -1,0 +1,74 @@
+1.0	Film	have	Academy	ORGANIZATION	ORGANIZATION
+1.0	Casino Royale	scoop	nine nomination	0	NUMBER
+1.0	Casino Royale	scoop	nine nomination include british film	0	NUMBER
+1.0	best director	go for	United 93	0	NUMBER
+1.0	BAFTA film award	be now see as	pointer	ORGANIZATION	0
+1.0	director	go to	Alejandro Gonzalez Inarritu for Babel	0	PERSON
+1.0	year	have	BAFTAs	MISC	DATE
+0.578282020894347	Daniel Craig	shoe of	he predecessor particularly	0	0
+1.0	Daniel Craig	have	predecessors	O	O
+1.0	Casino Royale	scoop	nine nomination include british film of year	0	DATE
+1.0	James Bond	triumph for	English actor	PERSON	MISC
+1.0	nominations	have	share	O	O
+1.0	it	be	Craig 's first major award nod as James Bond	0	ORDINAL
+1.0	Casino Royale	scoop	nine nomination include film of year	0	DATE
+1.0	it	be	Craig 's first award nod	0	ORDINAL
+1.0	director	go for	United 93	0	NUMBER
+1.0	film nominee	be	`` Babel , '' Martin Scorsese for `` The Departed , '' Jonathan Dayton/Valerie Faris for `` Little Miss Sunshine , '' Stephen Frears for `` The Queen ''	0	0
+1.0	BAFTA film award	be	move	ORGANIZATION	0
+1.0	it	be	Craig 's award nod as James Bond	0	PERSON
+1.0	BAFTA film award	be move before	Oscars	ORGANIZATION	MISC
+1.0	list	be with	10	0	NUMBER
+1.0	Casino Royale	scoop	nine nomination include outstanding british film of year	0	DATE
+1.0	Daniel Craig	fill	shoe of he predecessor particularly	0	0
+1.0	film	star	Helen Mirren	0	PERSON
+1.0	it	be	Craig 's major award nod as James Bond	0	PERSON
+1.0	nominee	be	Dame Judi Dench	0	PERSON
+1.0	Casino Royale	scoop	nine nomination include outstanding film	0	NUMBER
+1.0	Daniel Craig	fill	shoe	0	0
+1.0	Scotland	have	King	O	LOCATION
+1.0	BAFTA film award	be move before	Oscars in 2001	ORGANIZATION	DATE
+1.0	Casino Royale	grab	lion 's share of nomination	0	ORGANIZATION
+1.0	BAFTA film award	be move to	date	ORGANIZATION	0
+1.0	it	be	Craig 's first award nod as James Bond	0	ORDINAL
+1.0	BAFTA film award	be see as	pointer	ORGANIZATION	0
+1.0	lion	have	share of nomination	0	ORGANIZATION
+1.0	best director	go to	Alejandro Gonzalez Inarritu for Babel	0	PERSON
+1.0	BAFTA film award	be	move to date before Oscars in 2001	ORGANIZATION	DATE
+1.0	it	be	Craig 's first major award nod	0	ORDINAL
+1.0	monarch	have	portrayal	O	O
+1.0	Casino Royale	grab	lion 's share	0	0
+1.0	predecessors	have	shoes	O	O
+1.0	Casino Royale	scoop	nine nomination include film	0	NUMBER
+1.0	Craig	have	first major award nod as James Bond	PERSON	ORDINAL
+1.0	it	be	Craig 's award nod	0	PERSON
+1.0	lion	have	share	O	O
+1.0	Royal	hit	film	0	0
+1.0	Oscars	be in	Hollywood	MISC	LOCATION
+1.0	Daniel Craig	face competition from	Leonardo DiCaprio	PERSON	PERSON
+1.0	BAFTA film award	be	see	ORGANIZATION	0
+1.0	BAFTA film award	be	now see	ORGANIZATION	DATE
+1.0	BAFTA film award	be	move to date before Oscars	ORGANIZATION	MISC
+1.0	Casino Royale	scoop	nine nomination include outstanding british film	0	NUMBER
+1.0	best director	go to	Alejandro Gonzalez Inarritu	0	PERSON
+1.0	other nominee	be	Dame Judi Dench	0	PERSON
+1.0	Casino Royale	scoop	nine nomination include outstanding film of year	0	DATE
+1.0	Oscars	be in	2001	MISC	DATE
+1.0	iconic golden statuette	be in	United States	0	LOCATION
+1.0	Martin Scorsese	be for	Departed	PERSON	MISC
+1.0	Daniel Craig	face competition from	Leonardo DiCaprio for Departed	PERSON	PERSON
+0.578282020894347	Daniel Craig	shoe of	he predecessor	0	0
+1.0	Mirren	have	portrayal	O	PERSON
+1.0	Film	have	film	O	O
+1.0	last year	at	bafta	DATE	0
+1.0	Mirren	for	portrayal of 80-year-old british monarch	PERSON	DURATION
+1.0	other nominee	be	Dame Judi Dench for Notes On Scandal	0	PERSON
+1.0	Daniel Craig	fill	shoe of he predecessor	0	0
+1.0	Leonardo DiCaprio	be for	Departed	PERSON	MISC
+1.0	Daniel Craig	face	competition	PERSON	0
+1.0	other film nominee	be	`` Babel , '' Martin Scorsese for `` The Departed , '' Jonathan Dayton/Valerie Faris for `` Little Miss Sunshine , '' Stephen Frears for `` The Queen ''	0	0
+1.0	Craig	have	awards nod	O	PERSON
+1.0	director	go to	Alejandro Gonzalez Inarritu	0	PERSON
+1.0	year	have	film	O	DATE
+1.0	nominee	be	Dame Judi Dench for Notes On Scandal	0	PERSON
+1.0	it	be	Craig 's major award nod	0	PERSON

@@ -1,0 +1,110 @@
+1.0	neighbour	be in	political union	0	0
+1.0	ex-Soviet Belarus	avert in	gas supplies	LOCATION	0
+1.0	Belarus	have	backer	O	LOCATION
+1.0	ex-Soviet Belarus	narrowly avert in	gas supplies	LOCATION	0
+1.0	the opinion of the economic development ministry	contradict trade in	opinion	0	0
+1.0	ex-Soviet Belarus	agree	Gazprom 's demand for more double in price	LOCATION	ORGANIZATION
+1.0	neighbour	be in	formal political union	0	0
+1.0	Belarus ' imposition	respond to	russian decision	LOCATION	0
+1.0	demand	deliver accord to	spokesman	0	0
+1.0	Gazprom	have	demand	O	ORGANIZATION
+1.0	ex-Soviet Belarus	agree	Gazprom 's demand	LOCATION	ORGANIZATION
+1.0	we	be within	we rights act	0	0
+1.0	year	have	start	DATE	DATE
+1.0	its	have	commitments	O	O
+1.0	ex-Soviet Belarus	agree	Gazprom 's demand for more double	LOCATION	ORGANIZATION
+1.0	tax	be impose without	consultation	0	0
+1.0	Belarus ' imposition	respond to	decision	LOCATION	0
+1.0	tax	have	heard	O	O
+1.0	ex-Soviet Belarus	clash in	increasingly rancourous trade relation between two neighbour	LOCATION	NUMBER
+1.0	demand	deliver to	state-run oil transport company Transneft	0	ORGANIZATION
+1.0	demand	deliver formally on	Thursday	0	DATE
+1.0	ex-Soviet Belarus	avert in	natural gas supplies	LOCATION	0
+1.0	two neighbour	be in	formal political union	NUMBER	0
+1.0	tax	be impose without	consultation with side	0	0
+1.0	ex-Soviet Belarus	narrowly avert in	russian natural gas supplies	LOCATION	0
+1.0	demand	be announce belneftekhim at_time	Wednesday	0	DATE
+1.0	tax	be impose without	consultation with russian side	0	0
+1.0	ex-Soviet Belarus	agree	Gazprom 's demand for more double in price for import	LOCATION	ORGANIZATION
+1.0	Belarus ' imposition	respond onward to	decision	LOCATION	0
+1.0	neighbour	be in	formal union	0	0
+1.0	we	be within	we rights	0	0
+1.0	New Year 's trade spat	have provoke accusation on	side	DATE	0
+1.0	ex-Soviet Belarus	agree	Gazprom 's demand for more	LOCATION	ORGANIZATION
+1.0	ex-Soviet Belarus	clash at_time	Thursday	LOCATION	DATE
+1.0	demand	deliver on	Thursday	0	DATE
+1.0	oil	have	transit	O	O
+1.0	ex-Soviet Belarus	clash over	belarussian demand	LOCATION	0
+1.0	President Alexander Lukashenko	have	ally	O	PERSON
+1.0	Sergei Grigoryev	be	Russian state-run oil transport company Transneft	PERSON	ORGANIZATION
+1.0	ex-Soviet Belarus	clash for	oil transit tax	LOCATION	0
+1.0	demand	deliver formally accord to	Viktor Azarov	0	PERSON
+1.0	New Year 's trade spat	reveal tension within	partnership	DATE	0
+1.0	demand	deliver accord to	Viktor Azarov	0	LOCATION
+1.0	oil	have	tonne	O	O
+0.6231809935267482	current trade	agreement between	Russia	DATE	LOCATION
+1.0	ex-Soviet Belarus	narrowly avert in	natural gas supplies	LOCATION	0
+1.0	Belarus ' imposition	respond to	client	LOCATION	0
+1.0	ex-Soviet Belarus	narrowly avert in	russian gas supplies	LOCATION	0
+1.0	ex-Soviet Belarus	clash	Russia	LOCATION	LOCATION
+1.0	oil transit tax	have	imposition	O	O
+1.0	tonne	per demand be	34 euro	0	MONEY
+1.0	Lukashenko	say at_time	Wednesday	PERSON	DATE
+1.0	ex-Soviet Belarus	clash in	rancourous trade relation	LOCATION	0
+1.0	ex-Soviet Belarus	clash for	signalling	LOCATION	0
+1.0	Russia	have	development ministry	O	LOCATION
+1.0	the opinion of the economic development ministry	contradict trade in	opinion of development ministry	0	0
+1.0	ex-Soviet Belarus	avert in	russian natural gas supplies	LOCATION	0
+0.6231809935267482	current trade	economic agreement between	Russia	DATE	LOCATION
+1.0	two neighbour	be in	political union	NUMBER	0
+1.0	Transneft	be to	russian	ORGANIZATION	0
+1.0	the opinion of the economic development ministry	contradict	current trade	0	DATE
+1.0	Gazprom	have	demand for more double in price for import	ORGANIZATION	0
+1.0	New Year 's trade spat	however have provoke accusation on	side	DATE	0
+1.0	Russia	have	economic development ministry	LOCATION	0
+1.0	the opinion of the economic development ministry	contradict	trade	0	0
+0.14726896167224202	ex-Soviet Belarus	agree to	russian monopoly	LOCATION	0
+1.0	Belarus	have	oil refinery company	O	LOCATION
+1.0	oil	have	tonnes	MONEY	O
+1.0	transit	have	question	O	O
+1.0	demand	deliver to	russian oil transport company Transneft	0	ORGANIZATION
+1.0	demand	be announce belneftekhim at_time	late Wednesday	0	DATE
+1.0	demand	deliver to	oil transport company Transneft	0	ORGANIZATION
+1.0	ex-Soviet Belarus	clash in	trade relation between two neighbour	LOCATION	NUMBER
+1.0	Belarus ' imposition	respond to	european client	LOCATION	0
+1.0	tax	for demand be	34 euro	0	MONEY
+1.0	ex-Soviet Belarus	avert in	russian gas supplies	LOCATION	0
+1.0	ex-Soviet Belarus	clash over	demand	LOCATION	0
+1.0	our	have	rights	O	O
+1.0	two neighbour	be in	formal union	NUMBER	0
+0.14726896167224202	ex-Soviet Belarus	agree to	monopoly	LOCATION	0
+1.0	demand	be announce	Belneftekhim	0	PERSON
+1.0	Sergei Grigoryev	be deputy chairman of	Russian state-run oil transport company Transneft	PERSON	ORGANIZATION
+1.0	the opinion of the economic development ministry	contradict trade in	opinion of economic development ministry	0	0
+1.0	tax	be	impose	0	0
+1.0	demand	deliver formally accord to	Viktor Azarov	0	LOCATION
+1.0	New Year	have	trade spat	O	DATE
+1.0	New Year 's	have	trade spat	DATE	0
+1.0	Viktor Azarov	spokesman for	Belarus ' oil refinery company	PERSON	LOCATION
+0.6231809935267482	trade	agreement between	Russia	0	LOCATION
+1.0	demand	deliver accord to	Viktor Azarov	0	PERSON
+1.0	we	be within	we rights act in turn	0	0
+1.0	ex-Soviet Belarus	clash in	trade relation	LOCATION	0
+1.0	ex-Soviet Belarus	have	imposition	O	LOCATION
+1.0	demand	deliver formally to	oil transport company Transneft	0	ORGANIZATION
+1.0	ex-Soviet Belarus	clash in	rancourous trade relation between two neighbour	LOCATION	NUMBER
+1.0	New Year 's trade spat	reveal	tension	DATE	0
+1.0	US dollars	have	tax	O	MONEY
+1.0	demand	deliver formally accord to	spokesman	0	0
+1.0	consultation	be with	russian side	0	0
+1.0	two neighbour	be in	union	NUMBER	0
+0.6366137229148148	we	act in	turn	0	0
+1.0	Belarus ' imposition	respond onward to	client	LOCATION	0
+1.0	Moscow radio	have	Echo	O	O
+1.0	ex-Soviet Belarus	clash in	increasingly rancourous trade relation	LOCATION	0
+1.0	Belarus ' imposition	respond onward to	russian decision	LOCATION	0
+0.6231809935267482	trade	economic agreement between	Russia	0	LOCATION
+1.0	development ministry	have	opinion	O	O
+1.0	Belarus ' imposition	respond onward to	european client	LOCATION	0
+1.0	neighbour	be in	union	0	0
+1.0	demand	deliver formally to	russian oil transport company Transneft	0	ORGANIZATION

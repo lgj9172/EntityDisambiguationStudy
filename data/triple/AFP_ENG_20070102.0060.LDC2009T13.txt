@@ -1,0 +1,46 @@
+1.0	penalty	be boost in	2002	0	DATE
+1.0	total	reach	6,374	0	NUMBER
+1.0	penalty	be boost from	maximum	0	0
+1.0	penalty	be	in 2002 boost from maximum of two year	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum three year in from maximum	0	DURATION
+1.0	penalty	be boost from	maximum of two year	0	DURATION
+1.0	years	have	maximum	O	DURATION
+1.0	penalty	be	boost to maximum from maximum	0	0
+1.0	annual total	peak in	1970	SET	DATE
+1.0	annual total	peak at	16,765	SET	NUMBER
+1.0	penalty	be	in 2002 boost from maximum of two year in prison	0	DURATION
+1.0	people	have	number	O	O
+1.0	penalty	be boost to	maximum	0	0
+1.0	penalty	be	boost to maximum three year in from maximum	0	DURATION
+1.0	seat belts	have	use	O	O
+1.0	total	peak in	1970	0	DATE
+1.0	penalty	be	in 2002 boost from maximum	0	DATE
+1.0	agency	bring death toll under	5,000	0	NUMBER
+1.0	yen	have	fine	O	MONEY
+1.0	penalty	be	boost to maximum three year in from maximum of two year	0	DURATION
+1.0	6,352	have	low	O	NUMBER
+1.0	penalty	be	in 2002 boost to maximum three year in	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum three year in from maximum of two year	0	DURATION
+1.0	agency	bring death toll within	10 year	0	DURATION
+1.0	penalty	be	boost	0	0
+1.0	two year	be in	prison	DURATION	0
+1.0	annual total	reach	6,374	SET	NUMBER
+1.0	total	peak at	16,765	0	NUMBER
+1.0	penalty	be boost to	maximum three year in	0	DURATION
+1.0	penalty	be	boost to maximum from maximum of two year in prison	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum	0	DATE
+1.0	penalty	be	boost to maximum three year in from maximum of two year in prison	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum from maximum	0	DATE
+1.0	traffic accident	be in	Japan	0	LOCATION
+1.0	agency	bring	annual death toll	0	SET
+1.0	National Police Agency	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	penalty	be	boost to maximum from maximum of two year	0	DURATION
+1.0	maximum	be in	three year	0	DURATION
+1.0	agency	bring	death toll	0	0
+1.0	annual total	top	6,000	SET	NUMBER
+1.0	fine	have	maximum	O	O
+1.0	total	top	6,000	0	NUMBER
+1.0	penalty	be boost from	maximum of two year in prison	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum from maximum of two year in prison	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum from maximum of two year	0	DURATION
+1.0	penalty	be	in 2002 boost to maximum three year in from maximum of two year in prison	0	DURATION

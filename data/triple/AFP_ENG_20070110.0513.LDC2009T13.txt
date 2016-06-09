@@ -1,0 +1,31 @@
+1.0	US military official	deny report from	Somalia of strike	LOCATION	LOCATION
+1.0	Al-Qaeda	have	leaders	O	MISC
+1.0	Afmadow	have	localities	O	O
+1.0	report	come from	elder	0	0
+1.0	he	be refer to	strike Monday	0	DATE
+1.0	report	come in	locality	0	DURATION
+1.0	he	be refer to	strike in Somalia early Monday	0	DATE
+1.0	Al-Qaeda	have	main leader in region	MISC	0
+1.0	he	be refer to	strike in southern Somalia early Monday	0	DATE
+1.0	US military official	deny report from	Somalia	LOCATION	LOCATION
+1.0	US military official	say at_time	Wednesday	LOCATION	DATE
+1.0	US official	deny report from	Somalia	LOCATION	LOCATION
+1.0	US military official	deny	report	LOCATION	0
+1.0	he	be refer to	strike in Somalia	0	LOCATION
+1.0	Al-Qaeda 's main leader	be in	region	MISC	0
+1.0	US official	deny report from	Somalia of strike	LOCATION	LOCATION
+1.0	US official	say at_time	Wednesday	LOCATION	DATE
+1.0	US air strike	have	reports	O	O
+1.0	he	be refer to	strike in southern Somalia	0	LOCATION
+1.0	strike	have	Somalia	LOCATION	O
+1.0	Badade	have	localities	O	LOCATION
+1.0	US official	deny report from	Somalia of second strike	LOCATION	DURATION
+1.0	he	be refer to	strike in southern Somalia Monday	0	LOCATION
+1.0	report	come in	locality of Badade	0	LOCATION
+1.0	he	be refer to	strike early Monday	0	DATE
+1.0	US official	deny	report	LOCATION	0
+1.0	he	be refer to	strike in Somalia Monday	0	LOCATION
+1.0	he	be refer to	strike	0	0
+1.0	attack	have	aware	O	O
+1.0	US military official	deny report from	Somalia of second strike	LOCATION	DURATION
+1.0	anonymity	have	condition	O	O

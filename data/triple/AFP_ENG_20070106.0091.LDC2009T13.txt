@@ -1,0 +1,28 @@
+1.0	this	be	scale	0	0
+1.0	Temelin	be site	60 kilometre	0	NUMBER
+1.0	reactor	have	unit	O	O
+1.0	Temelin	be site	40 mile	0	NUMBER
+1.0	equipment	have	have test from Czech Republic 's nuclear authority	0	LOCATION
+1.0	original soviet design	be with	western security system	0	0
+1.0	plant	have	safety	O	O
+1.0	equipment	have	have test once month since order	0	DATE
+1.0	this	be	scale back	0	0
+1.0	equipment	have	have test once month	0	DATE
+1.0	equipment	have	have test once month since order from Czech Republic 's nuclear authority	0	LOCATION
+1.0	equipment	have	have test once month since order in mid-2006	0	DATE
+1.0	Czech Republic	have	authority	O	LOCATION
+1.0	equipment	have	have test	0	DURATION
+1.0	this	be scale back to	two	0	NUMBER
+1.0	equipment	have	have test once month since order in mid-2006 from Czech Republic 's nuclear authority	0	LOCATION
+1.0	Czech Republic	from	nuclear authority	LOCATION	DURATION
+1.0	equipment	have	have test once month since order from Czech Republic 's authority	0	LOCATION
+1.0	equipment	have	have test once month since order in mid-2006 from Czech Republic 's authority	0	LOCATION
+1.0	The Temelin plant	have	power plants	O	O
+1.0	this	be scale to	two	0	NUMBER
+1.0	equipment	have	have test once month from Czech Republic 's nuclear authority	0	LOCATION
+1.0	order	be in	mid-2006	0	0
+1.0	equipment	have	have test once month from Czech Republic 's authority	0	LOCATION
+1.0	original plan	count on	four reactor	0	NUMBER
+1.0	CTK	say at_time	Saturday	ORGANIZATION	DATE
+1.0	plan	count on	four reactor	0	NUMBER
+1.0	equipment	have	have test from Czech Republic 's authority	0	LOCATION

@@ -1,0 +1,7 @@
+1.0	military	say at_time	Thursday	0	DATE
+1.0	US military	have	loss	LOCATION	0
+1.0	Fallujah	have	town	O	LOCATION
+1.0	Wednesday	have	Pentagon figures	O	DATE
+1.0	US military	have	losses	O	O
+1.0	fatality	bring	US military 's loss	0	LOCATION
+1.0	latest fatality	bring	US military 's loss	0	LOCATION

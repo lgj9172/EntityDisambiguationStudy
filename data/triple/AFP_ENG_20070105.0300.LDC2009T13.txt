@@ -1,0 +1,10 @@
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	spy chief John Negroponte	fill	vacancy	PERSON	0
+1.0	spy chief John Negroponte	fill	key vacancy	PERSON	0
+1.0	spy chief John Negroponte	fill	key diplomatic vacancy	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	spy chief John Negroponte	fill	diplomatic vacancy	PERSON	0
+1.0	US President George W. Bush	name	spy chief John Negroponte	LOCATION	PERSON
+1.0	intelligence veteran Michael McConnell	replace	he	PERSON	0
+1.0	US President George W. Bush	nominate	intelligence veteran Michael McConnell	LOCATION	PERSON

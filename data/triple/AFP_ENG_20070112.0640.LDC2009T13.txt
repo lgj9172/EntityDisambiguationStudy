@@ -1,0 +1,145 @@
+1.0	president	sell iraq strategy with	Secretary of State Condoleezza Rice head	0	PERSON
+1.0	United States	have	interests	O	LOCATION
+1.0	Bush	have	speech	O	PERSON
+1.0	US President George W. Bush	have	authority go ahead without congressional backing	0	0
+0.42092277139596185	Americans	confidence in	Bush 's handling	MISC	PERSON
+1.0	US President George W. Bush	press with	plan	LOCATION	0
+1.0	CBS	release extract with	60 Minutes program	ORGANIZATION	DURATION
+1.0	Gates Peter Pace	face	tough grilling equivalent	PERSON	0
+1.0	Bush 's next major speech	be	he January 23 State	PERSON	DATE
+1.0	his	have	strategy	O	O
+1.0	US President George W. Bush	have	speech	PERSON	0
+1.0	Bush 's major speech	be	he televised January 23 State	PERSON	DATE
+1.0	president	sell abroad	Iraq strategy	0	LOCATION
+1.0	Bush 's speech	be	he televised January 23 State of Union address	PERSON	DATE
+1.0	CBS News poll	have	50 percent	ORGANIZATION	PERCENT
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	CBS	release extract with	60 Minutes program on its website Friday	ORGANIZATION	DURATION
+1.0	criticism	have	barrage	O	O
+1.0	Staff	have	head	O	ORGANIZATION
+1.0	Bush 's next speech	be	he televised January 23 State of Union address	PERSON	DATE
+1.0	Bush 's next speech	be	he televised January 23 State	PERSON	DATE
+1.0	defeat	have	consequences	O	O
+1.0	president	have	plan	O	O
+1.0	his	have	years	DATE	O
+1.0	CBS	release	extract of Bush 's interview	ORGANIZATION	PERSON
+1.0	Gates Peter Pace	defend	plan	PERSON	0
+1.0	failure	have	consequences	O	O
+1.0	Americans	have	confidence in Bush 's handling of Iraq war	MISC	LOCATION
+1.0	Bush 's major speech	be	he televised January 23 State of Union address	PERSON	DATE
+1.0	US President George W. Bush	have	authority go ahead without backing	0	0
+1.0	people	have	percent	PERCENT	O
+1.0	Americans	have	little confidence in Bush 's handling	MISC	PERSON
+0.5219252948561975	ABC News/Washington Post poll	publish	Friday	ORGANIZATION	DATE
+1.0	US President George W. Bush	have	authority go	0	0
+1.0	Defense Secretary Robert Gates	face	lawmaker	PERSON	0
+1.0	its	have	influence	O	O
+1.0	US President George W. Bush	have	speech	O	PERSON
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	US President George W. Bush	vow	press	LOCATION	0
+1.0	he	unveil	he new strategy	0	0
+0.42092277139596185	Americans	little confidence in	Bush 's handling	MISC	PERSON
+1.0	strategy	have	kind	O	O
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	Rice	depart for	she tour	PERSON	0
+1.0	Peter Pace	be	Gates	PERSON	PERSON
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	the US Congress , a key opportunity to defend his Iraq war approach	stop	US President George W. Bush	ORGANIZATION	0
+1.0	Iraq	be in	four to six month	LOCATION	DURATION
+1.0	US President George W. Bush	have	decision	O	O
+1.0	US President George W. Bush	have	aides	O	O
+1.0	Peter Pace	head of	Joint Chiefs of Staff	PERSON	ORGANIZATION
+1.0	his	have	January State	O	O
+1.0	Bush	of	interview	PERSON	0
+1.0	Rice	depart to	Middle East	PERSON	LOCATION
+1.0	president	sell iraq strategy at	home	0	0
+1.0	tour	bolster effort with	Rice	0	PERSON
+1.0	talk	be in	Israel	0	LOCATION
+1.0	percent	oppose	president 's plan	PERCENT	0
+1.0	Rice	depart for	she week-long tour	PERSON	0
+1.0	Iraq war	have	handling	O	O
+1.0	Americans	have	confidence	MISC	0
+1.0	CBS News poll	have	50 percent say	ORGANIZATION	PERCENT
+1.0	US President George W. Bush	have	authority go without backing	0	0
+1.0	US President George W. Bush	press ahead with	plan	LOCATION	0
+1.0	Bush	have face	barrage of criticism	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Bush 's next speech	be	he January 23 State of Union address	PERSON	DATE
+1.0	Bush 's major speech	be	he January 23 State	PERSON	DATE
+1.0	Bush	have face	barrage	PERSON	0
+1.0	strong opposition	be in	the US Congress , a key opportunity to defend his Iraq war approach	0	ORGANIZATION
+1.0	Bush	have	handling	O	PERSON
+1.0	US President George W. Bush	say	I think	PERSON	0
+1.0	US President George W. Bush	vow	press with plan	LOCATION	0
+1.0	US President George W. Bush	vow	press ahead	LOCATION	0
+1.0	sectarian strife	be in	Baghdad	0	LOCATION
+1.0	CBS	release extract with	60 Minutes program Friday	ORGANIZATION	DURATION
+1.0	CBS	release extract with	60 Minutes program on its website	ORGANIZATION	DURATION
+1.0	his	have	approach	O	O
+1.0	Joint Chiefs	have	head	O	ORGANIZATION
+1.0	CBS	release	extract	ORGANIZATION	0
+1.0	tour	bolster effort with	Rice schedule	0	PERSON
+1.0	little confidence	be in	Bush 's handling of Iraq war	0	LOCATION
+1.0	sectarian violence	be in	Iraq	0	LOCATION
+1.0	Bush 's next major speech	be	he January 23 State of Union address	PERSON	DATE
+1.0	Gates Peter Pace	face	grilling by its House equivalent	PERSON	ORGANIZATION
+1.0	Gates Peter Pace	face	grilling equivalent	PERSON	0
+1.0	his	have	Iraq war approach	O	O
+1.0	tour	bolster	effort	0	0
+1.0	US forces	have	withdrawal	O	O
+1.0	US President George W. Bush	have	authority	0	0
+1.0	her	have	tour	O	O
+1.0	president	sell iraq strategy abroad at	home	0	0
+1.0	his	have	priorities	O	O
+1.0	Americans	have	little confidence in Bush 's handling of Iraq war	MISC	LOCATION
+1.0	president	sell iraq strategy abroad with	Secretary of State Condoleezza Rice head to Middle East	0	PERSON
+1.0	Gates Peter Pace	defend plan before	Senate Armed Services Committee	PERSON	ORGANIZATION
+0.42092277139596185	Americans	little confidence in	Bush 's handling of Iraq war	MISC	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	Bush 's speech	be	he January 23 State of Union address	PERSON	DATE
+1.0	Bush 's speech	be	he January 23 State	PERSON	DATE
+1.0	Bush	in	handling of Iraq war	PERSON	LOCATION
+1.0	president	have	plan	0	0
+1.0	66 percent	oppose	president 's plan	PERCENT	0
+1.0	president	sell iraq strategy abroad with	Secretary of State Condoleezza Rice	0	PERSON
+1.0	Gates Peter Pace	face	tough grilling by its House of Representatives equivalent	PERSON	ORGANIZATION
+1.0	president	sell iraq strategy with	Secretary	0	0
+1.0	Bush 's major speech	be	he January 23 State of Union address	PERSON	DATE
+1.0	Americans	have	confidence in Bush 's handling	MISC	PERSON
+1.0	Gates Peter Pace	face	grilling by its House of Representatives equivalent	PERSON	ORGANIZATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Bush 's next major speech	be	he televised January 23 State of Union address	PERSON	DATE
+1.0	interview	have	extract	O	O
+1.0	strategy	have	disapproved	O	O
+1.0	three	have	error margin	O	NUMBER
+1.0	Americans	have	little confidence	MISC	0
+1.0	there would significant increase	be in	sectarian violence	0	0
+1.0	respondents	have	three-quarters	DURATION	O
+1.0	Defense Secretary Robert Gates	face	skeptical lawmaker	PERSON	0
+1.0	its	have	website	O	O
+1.0	US Congress	have	houses	O	ORGANIZATION
+1.0	american failure	be in	Iraq	0	LOCATION
+1.0	US President George W. Bush	have	authority go without congressional backing	0	0
+1.0	president	sell iraq strategy with	Secretary of State Condoleezza Rice head to Middle East	0	PERSON
+1.0	its	have	House	ORGANIZATION	O
+1.0	Union address	have	January State	O	O
+1.0	US President George W. Bush	make	my decision	0	0
+1.0	Bush 's next speech	be	he January 23 State	PERSON	DATE
+1.0	president	sell iraq strategy abroad with	Secretary of State Condoleezza Rice head	0	PERSON
+1.0	Bush 's next major speech	be	he televised January 23 State	PERSON	DATE
+1.0	US President George W. Bush	vow	press ahead with plan	LOCATION	0
+1.0	he	unveil	he strategy	0	0
+1.0	Bush	have	next major speech	PERSON	0
+1.0	US President George W. Bush	have	authority go ahead	0	0
+1.0	Gates Peter Pace	defend plan at_time	one day	PERSON	DURATION
+1.0	US President George W. Bush	ask by	CBS television	PERSON	ORGANIZATION
+1.0	Defense Secretary Robert Gates	face lawmaker in	Congress	PERSON	ORGANIZATION
+1.0	president	sell iraq strategy abroad with	Secretary	0	0
+1.0	Bush	have	interview	O	PERSON
+1.0	Gates Peter Pace	face	tough grilling by its House equivalent	PERSON	ORGANIZATION
+1.0	president	sell	Iraq strategy	0	LOCATION
+0.5219252948561975	ABC News/Washington Post poll	publish in	post	ORGANIZATION	0
+0.42092277139596185	Americans	confidence in	Bush 's handling of Iraq war	MISC	LOCATION
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	president	sell iraq strategy with	Secretary of State Condoleezza Rice	0	PERSON
+1.0	Bush 's speech	be	he televised January 23 State	PERSON	DATE

@@ -1,0 +1,83 @@
+1.0	New Zealand cricket captain Stephen Fleming	be rest for	three game	PERSON	NUMBER
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day series against Sri Lanka	PERSON	LOCATION
+1.0	James Franklin	be	Peter Fulton	PERSON	PERSON
+1.0	Michael Mason	be	Brendon McCullum at the top of the order	PERSON	PERSON
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day international series against Sri Lanka	PERSON	LOCATION
+1.0	Batsman Craig McMillan	be	Jeetan Patel	PERSON	PERSON
+1.0	Andre Adams	be	Shane Bond	PERSON	PERSON
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of international series	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team	PERSON	0
+1.0	James Marshall	have	place	O	PERSON
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day international series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day series	PERSON	DURATION
+1.0	Brendon McCullum	have	use	O	PERSON
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of international series against Sri Lanka	PERSON	LOCATION
+1.0	series	have	games	O	O
+1.0	New Zealand cricket captain Stephen Fleming	be rest for	first three game	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day international series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of series	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day international series against Sri Lanka	PERSON	LOCATION
+1.0	Stephen Fleming	be	New Zealand	PERSON	LOCATION
+1.0	order	have	top	O	O
+1.0	team management	say at_time	Wednesday	0	DATE
+1.0	pool	start in	March	0	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day series against Sri Lanka	PERSON	LOCATION
+1.0	wider pool	start in	March	0	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day international series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of international series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of international series	PERSON	0
+1.0	Nathan Astle	have	place	O	PERSON
+1.0	fourth match	be in	Auckland	ORDINAL	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of series	PERSON	ORDINAL
+1.0	match-fit players	have	pool	O	O
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day international series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day international series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of series against Sri Lanka	PERSON	LOCATION
+1.0	coach John Bracewell	have	rotation policy	O	PERSON
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day international series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	team management	say in	statement	0	0
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of international series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of series against Sri Lanka on Saturday	PERSON	DATE
+1.0	John Bracewell	of	rotation policy aim	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	rest	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	set	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of international series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of series	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of one-day series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of international series	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day series against Sri Lanka on Saturday	PERSON	DATE
+1.0	Stephen Fleming	be cricket captain of	New Zealand	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of international series against Sri Lanka	PERSON	LOCATION
+1.0	Mark Gillespie	be	Hamish Marshall	PERSON	PERSON
+1.0	he	take	place	0	0
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match	PERSON	0
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for fourth match of series	PERSON	ORDINAL
+1.0	New Zealand cricket captain Stephen Fleming	be set for	return	PERSON	0
+1.0	Sri Lanka	be on	Saturday	LOCATION	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of international series	PERSON	0
+1.0	series	have	match	O	O
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of one-day series against Sri Lanka on Saturday	PERSON	DATE
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for fourth match of one-day series	PERSON	DURATION
+1.0	New Zealand cricket captain Stephen Fleming	be set to	team for match of series against Sri Lanka	PERSON	LOCATION
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day series against Sri Lanka	PERSON	LOCATION
+1.0	rotation policy	have	part	O	O
+1.0	New Zealand cricket captain Stephen Fleming	be	set for return to team for match of one-day series against Sri Lanka on Saturday	PERSON	DATE

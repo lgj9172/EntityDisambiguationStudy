@@ -1,0 +1,42 @@
+1.0	percent	have	reduction	O	PERCENT
+1.0	its	have	format	O	O
+1.0	Kyoto	amount to	reduction	0	0
+1.0	gas	have	carbon product	O	O
+1.0	coal	have	carbon product	O	O
+1.0	1990 the benchmark year	be in	UN 's Kyoto Protocol	DATE	ORGANIZATION
+1.0	Earth	have	climate	O	LOCATION
+0.5575686463315587	cut	amount to	around five	0	PERCENT
+1.0	fast-growing develop country	make	binding cut	0	0
+1.0	Kyoto	have	emissions	O	O
+1.0	percent	have	cut	O	PERCENT
+1.0	its	have	emissions	O	O
+1.0	Kyoto	have commit	Kyoto	0	0
+1.0	Earth	have	atmosphere	LOCATION	0
+1.0	Earth	have	climate change	LOCATION	0
+1.0	greenhouse gases	have	percent	PERCENT	O
+1.0	Earth	have	atmosphere	O	LOCATION
+1.0	2005	have	end	DATE	DATE
+1.0	Kyoto	amount to	reduction of three percent	0	PERCENT
+1.0	develop country	make	binding cut	0	0
+1.0	Ecology Minister Nelly Olin	say on	Thursday	PERSON	DATE
+1.0	they	trap	radiation	0	0
+1.0	it	make	cut amount to around five	0	PERCENT
+1.0	UN	have	Kyoto Protocol	O	ORGANIZATION
+1.0	figure	correspond to	end	0	DATE
+1.0	greenhouse gases	have	emissions	O	O
+1.0	Kyoto	separately have commit	Kyoto	0	0
+1.0	UN	in	Kyoto Protocol	ORGANIZATION	0
+1.0	percent	have	increase	O	PERCENT
+1.0	Kyoto	amount to	annualised reduction	0	0
+1.0	country	make	binding cut	0	0
+1.0	fast-growing country	make	binding cut	0	0
+1.0	their	have	pollution	O	O
+1.0	Kyoto	amount to	annualised reduction of three percent	0	PERCENT
+1.0	they	trap	solar radiation	0	0
+1.0	country	have	greenhouse gases	O	O
+1.0	their	have	emissions	O	O
+1.0	greenhouse gas	be	call	0	0
+1.0	it	make	cut	0	0
+1.0	oil	have	carbon product	O	O
+1.0	it	make	cut amount	0	0
+1.0	greenhouse gas	be	so call	0	0

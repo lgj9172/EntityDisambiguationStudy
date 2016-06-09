@@ -1,0 +1,63 @@
+1.0	hanging	have	have approve by Talabani 's vice president	0	PERSON
+1.0	punishment	have	opponent	O	O
+1.0	they hanging	have	have delay	0	0
+1.0	crimes	have	Saddam	PERSON	O
+1.0	Iraqi President Jalal Talabani	tell	reporter in news conference from northern city	PERSON	0
+1.0	iraqi President Jalal Talabani	say on	Wednesday	PERSON	DATE
+1.0	he	go to	he death	0	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in joint news conference from northern city of Sulaimaniyah	PERSON	LOCATION
+1.0	that	sentence	Saddam	0	PERSON
+1.0	Iraqi President Jalal Talabani	tell	reporter in joint news conference from city of Sulaimaniyah	PERSON	LOCATION
+1.0	Iraqi President Jalal Talabani	tell	reporter in news conference from city of Sulaimaniyah	PERSON	LOCATION
+1.0	recent hanging	be in	Iraq	0	LOCATION
+1.0	they hanging	have	have delay amid outrage	0	0
+1.0	their	have	hangings	O	O
+1.0	Iraqi President Jalal Talabani	tell	reporter in news conference from northern city of Sulaimaniyah	PERSON	LOCATION
+1.0	dictator Saddam Hussein	have	aides	O	PERSON
+1.0	ban ki-moon	be chief of	UN	0	ORGANIZATION
+1.0	execution	have	stay	O	O
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise joint news conference from northern city of Sulaimaniyah	PERSON	LOCATION
+1.0	aides	have	executions	O	O
+1.0	his	have	opposition	O	O
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise news conference from city	PERSON	0
+1.0	former police chief Barzan	due	court judge Bandar	PERSON	PERSON
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise joint news conference from northern city	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in joint news conference from city	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise news conference from northern city	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in news conference from city	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell reporter to	Iraq	PERSON	LOCATION
+1.0	Jalal Talabani	be	iraqi	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in joint news conference from northern city	PERSON	0
+1.0	former secret police chief Barzan	hang	revolutionary court judge Bandar	PERSON	PERSON
+1.0	former police chief Barzan	be	due	PERSON	0
+1.0	former police chief Barzan	hang	revolutionary court judge Bandar	PERSON	PERSON
+1.0	they hanging	have	have delay amid international outrage	0	0
+1.0	former secret police chief Barzan	be	due	PERSON	0
+1.0	former police chief Barzan	hang	court judge Bandar	PERSON	PERSON
+1.0	Sulaimaniyah	have	city	O	LOCATION
+1.0	we	execute	they	0	0
+1.0	Talabani	have	vice presidents	O	PERSON
+1.0	hanging	have	have approve	0	0
+0.8155140338517752	Saddam	be	taunt	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise joint news conference from city	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell reporter with	US ambassador	PERSON	LOCATION
+1.0	former secret police chief Barzan	due	revolutionary court judge Bandar	PERSON	PERSON
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise joint news conference	PERSON	0
+1.0	former secret police chief Barzan	hang	court judge Bandar	PERSON	PERSON
+1.0	Iraqi President Jalal Talabani	tell	reporter in joint news conference	PERSON	0
+1.0	Tribunal	have	decisions	O	ORGANIZATION
+1.0	Iraqi President Jalal Talabani	opponent of	capital punishment	PERSON	0
+1.0	his	have	death	O	O
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise joint news conference from city of Sulaimaniyah	PERSON	LOCATION
+1.0	reporter	be in	televise joint news conference from northern city of Sulaimaniyah	0	LOCATION
+1.0	recent hanging	have	have approve by Talabani 's vice president	0	PERSON
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise news conference from northern city of Sulaimaniyah	PERSON	LOCATION
+1.0	recent hanging	have	have approve	0	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise news conference from city of Sulaimaniyah	PERSON	LOCATION
+1.0	former secret police chief Barzan	due	court judge Bandar	PERSON	PERSON
+1.0	former police chief Barzan	due	revolutionary court judge Bandar	PERSON	PERSON
+1.0	Talabani	by	vice president give to death penalty	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in news conference	PERSON	0
+1.0	Iraqi President Jalal Talabani	tell	reporter in televise news conference	PERSON	0
+1.0	President Jalal Talabani	say on	Wednesday	PERSON	DATE

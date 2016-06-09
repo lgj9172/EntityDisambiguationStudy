@@ -1,0 +1,22 @@
+1.0	Xinhua report	say at_time	last year	ORGANIZATION	DATE
+1.0	McKinsey 's	be consultancy firm of	US	ORGANIZATION	LOCATION
+1.0	its	have	employees	O	O
+1.0	McKinsey	be cooperate with	police	ORGANIZATION	0
+1.0	employees	have	two	NUMBER	O
+1.0	Commerce	have	State Administration	ORGANIZATION	ORGANIZATION
+0.6135957576850721	we	department on	issue	0	0
+1.0	Industry	have	State Administration	ORGANIZATION	ORGANIZATION
+1.0	McKinsey	cooperate	Company	ORGANIZATION	ORGANIZATION
+1.0	Xinhua report	say at_time	year	ORGANIZATION	DATE
+1.0	we	cooperate	department	0	0
+1.0	Corruption	be	common	0	0
+1.0	Taike Electronics	company in	base Kunshan city	ORGANIZATION	LOCATION
+1.0	Corruption	be common in	China	0	LOCATION
+1.0	Taike Electronics	company near	Shanghai	ORGANIZATION	LOCATION
+1.0	spokesman	describe	McKinsey 's Shanghai office	0	0
+1.0	we	cooperate	department on issue	0	0
+1.0	McKinsey	have	Shanghai office	O	ORGANIZATION
+1.0	case	be under	investigation	0	0
+1.0	company	be in	base Kunshan city	0	LOCATION
+1.0	we	cooperate department with	police	0	0
+1.0	McKinsey	at	Shanghai office	ORGANIZATION	LOCATION

@@ -1,0 +1,9 @@
+1.0	US President George W. Bush	say in	prepared speech	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iraq	have	security force	LOCATION	0
+1.0	US President George W. Bush	say in	speech	LOCATION	0
+1.0	US President George W. Bush	say in	prepared speech on Wednesday	LOCATION	DATE
+1.0	country	have	charge	O	O
+1.0	US President George W. Bush	say in	speech on Wednesday	LOCATION	DATE

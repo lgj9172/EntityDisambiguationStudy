@@ -1,0 +1,16 @@
+1.0	those	have	one	NUMBER	O
+1.0	links	have	unaware	O	O
+1.0	Athens	be  at_time	early Friday	LOCATION	DATE
+1.0	Charles Ries	be ambassador of	US	PERSON	LOCATION
+1.0	link	have	unaware	O	O
+1.0	Greece	's minister be	Dora Bakoyannis	LOCATION	PERSON
+1.0	anarchist group	be in	Greece	0	LOCATION
+1.0	Sean McCormack	be spokesman of	The US State Department	PERSON	ORGANIZATION
+1.0	State Department spokesman Sean McCormack	be unaware of	link with international terrorist group	0	0
+1.0	Greece	have	minister	O	LOCATION
+1.0	Charles Ries	be	US	PERSON	LOCATION
+1.0	Greece	have	foreign minister	LOCATION	0
+1.0	Sean McCormack	be	The US State Department	PERSON	ORGANIZATION
+1.0	Condoleezza Rice	be of	The US State Department	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	anarchist groups	have	number	O	O

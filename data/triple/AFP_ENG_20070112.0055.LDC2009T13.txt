@@ -1,0 +1,28 @@
+1.0	area	be in	Africa	0	LOCATION
+1.0	US source	speak on	condition	LOCATION	0
+1.0	US official	tell	afp	LOCATION	0
+1.0	piece	suggest accord to	post	0	0
+1.0	senior US official	tell	afp	LOCATION	0
+1.0	Monday	have	US air strike	O	DATE
+1.0	Courts	have	arm	O	O
+1.0	US official	tell afp in	Nairobi	LOCATION	LOCATION
+1.0	senior US official	tell afp in	Nairobi	LOCATION	LOCATION
+1.0	those	have	identity	O	O
+1.0	Monday	of	US air strike	DATE	LOCATION
+1.0	ground	be in	Somalia	0	LOCATION
+1.0	Post	report	cite	ORGANIZATION	0
+1.0	fixed-wing aircraft	be with	rapid firing gun	0	0
+1.0	militants	have	none	O	O
+1.0	Washington Post	report at_time	Friday	ORGANIZATION	DATE
+1.0	US air strike	have	site	O	O
+1.0	arm	have	head	O	O
+1.0	US official	tell afp on	Thursday	LOCATION	DATE
+1.0	Aden Ayrow	head of	military arm	LOCATION	0
+1.0	senior US official	tell afp on	Thursday	LOCATION	DATE
+1.0	Aden Ayrow	be at	scene	LOCATION	0
+1.0	US source	speak on	condition of anonymity	LOCATION	0
+1.0	clothing	have	piece	O	O
+1.0	ac-130 gunship	aircraft with	rapid firing gun	0	0
+1.0	document	have	piece	O	O
+1.0	US soldiers	have	case	O	O
+1.0	anonymity	have	condition	O	O

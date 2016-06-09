@@ -1,0 +1,26 @@
+1.0	Kazimierz Marcinkiewicz	will	will nominate as executive	PERSON	0
+1.0	PKO BP	have	executive	O	ORGANIZATION
+1.0	42-year-old economist	's nomination be	office	DURATION	0
+1.0	Slawomir Skrzypek	director of	PKO Bank Polski	PERSON	ORGANIZATION
+1.0	Skrzypek	would replace	current central bank chief	PERSON	DATE
+1.0	Kazimierz Marcinkiewicz	will	will nominate as chief executive	PERSON	0
+1.0	Poland	have	bank	O	LOCATION
+1.0	Skrzypek	would replace	bank chief	PERSON	0
+1.0	bank	have	head	O	O
+1.0	Poland	have	bank	O	O
+1.0	president	have	office	0	0
+1.0	PKO Bank Polski	have	director	O	ORGANIZATION
+1.0	president	have	office	O	O
+1.0	country	have	ex-premier	O	O
+1.0	treasury	announce at_time	month	0	DATE
+1.0	whose	have	term	O	O
+1.0	economist	have	nomination	O	O
+1.0	Skrzypek	would replace	central bank chief	PERSON	0
+1.0	Poland	have	biggest bank	LOCATION	0
+1.0	42-year-old economist	have	nomination	DURATION	0
+1.0	Kazimierz Marcinkiewicz	will	will nominate	PERSON	0
+1.0	country	have	conservative ex-premier	0	0
+1.0	nomination	office 's	president	0	0
+1.0	Skrzypek	would replace	current bank chief	PERSON	DATE
+1.0	treasury	announce at_time	last month	0	DATE
+1.0	President Lech Kaczynski	refer to	parliament	PERSON	0

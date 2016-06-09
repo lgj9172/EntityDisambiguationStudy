@@ -1,0 +1,147 @@
+1.0	four official	attend	next hearing schedule	NUMBER	0
+1.0	they	be	use	0	0
+1.0	involvement	have	suspected	O	O
+1.0	ail wife	collapse at_time	last month	0	DATE
+1.0	ail wife	be	absent	0	0
+1.0	lady	have	records	O	O
+1.0	wife	collapse at_time	last month	0	DATE
+1.0	importance	have	affairs	O	O
+1.0	prosecutor	review	first lady 's record follow she repeat absence	0	ORDINAL
+1.0	he	have vow	resign	0	0
+0.6056829007965586	Wu	wife of	taiwanese leader	PERSON	0
+1.0	ail wife	be	absent from court for third time	0	ORDINAL
+1.0	Chen	be also suspect of	involvement	PERSON	0
+1.0	dollar	be	spend	0	0
+1.0	prosecutor	indict wu on	charge of corruption	0	0
+1.0	Chen	escape	prosecution	PERSON	0
+1.0	Wu	be	discharge from hospital on December 31	PERSON	DATE
+1.0	trial	have	opening day	DURATION	O
+1.0	forgery	have	charges	O	O
+1.0	judges	have	panel	O	O
+1.0	panel	order	four presidential official	0	NUMBER
+1.0	The wheelchair-bound Wu	be	find	PERSON	0
+1.0	the first lady 's	have	privacy	O	O
+1.0	landmark case	however could end	Chen 's presidency	0	PERSON
+1.0	wheelchair-bound Wu	be	discharge from hospital 16 day	PERSON	DURATION
+1.0	wheelchair-bound Wu	be discharge on	December 31	PERSON	DATE
+1.0	Chen	survive	three vote	PERSON	NUMBER
+1.0	The wheelchair-bound Wu	be find	guilty	PERSON	0
+1.0	prosecutor	review	lady 's record	0	0
+1.0	Chen	escape prosecution of	of presidential immunity	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge on December 31 16 day	PERSON	DATE
+1.0	the first lady 's	have	trial	O	O
+1.0	dollar	be spend on	diamond ring	0	0
+1.0	four presidential official	attend	next hearing schedule for January 19	NUMBER	DATE
+1.0	four official	attend	hearing	NUMBER	0
+1.0	Wu	be	discharge from hospital 16 day	PERSON	DURATION
+1.0	she	illegally claim	450,000 US dollar	0	NUMBER
+1.0	wife	be absent from	court	0	0
+1.0	involvement	be in	case	0	0
+1.0	prosecutor	indict wu on	charge	0	0
+1.0	he son-in-law Chao Chien-ming	fine	30 million dollar	PERSON	MONEY
+1.0	her	have	conditions	O	O
+1.0	Chen	be suspect of	involvement	PERSON	0
+1.0	prosecutor	indict	Wu	0	PERSON
+1.0	dollar	be spend for	he wife	0	0
+1.0	Chen Shui-bian	be of	taiwanese	PERSON	0
+1.0	Chen	have	presidency	O	PERSON
+1.0	The wheelchair-bound Wu	have	doctors	O	PERSON
+1.0	she	claim	14.8 million Taiwan dollar	0	MONEY
+1.0	Wu Shu-chen	have	doctors	O	O
+1.0	he son-in-law Chao Chien-ming	be sentence to	six year in prison	PERSON	DURATION
+1.0	Chen	escape prosecution of	of immunity	PERSON	0
+1.0	first lady	have	medical record follow repeat absence	ORDINAL	0
+1.0	Wu	be	discharge on December 31 16 day	PERSON	DATE
+1.0	Wu Shu-chen	be	54	PERSON	NUMBER
+1.0	documents	have	handling	O	O
+1.0	The wheelchair-bound Wu	have	doctor	PERSON	0
+1.0	he son-in-law Chao Chien-ming	be sentence to	six year	PERSON	DURATION
+1.0	four presidential official	attend	hearing schedule for January 19	NUMBER	DATE
+1.0	six year	be in	prison	DURATION	0
+1.0	wife	collapse at	start	0	0
+1.0	Wu Shu-chen	have	absence	O	O
+1.0	wife	be	absent from court for time	0	0
+1.0	Wu	be	discharge 16 day	PERSON	DURATION
+1.0	prosecutor	review	lady 's record follow she repeat absence	0	0
+1.0	Chen	be suspect of	involvement in case	PERSON	0
+1.0	four official	attend	hearing schedule	NUMBER	0
+1.0	wheelchair-bound Wu	be	discharge	PERSON	0
+1.0	Wu	be discharge on	December 31	PERSON	DATE
+1.0	Wu Shu-chen	have	lawyer	O	O
+1.0	prosecutor	review	lady 's record follow she absence	0	0
+1.0	wife	be	absent	0	0
+0.6056829007965586	Wu	first wife of	taiwanese leader	PERSON	0
+1.0	prosecutor	review	first lady 's medical record follow she repeat absence	0	ORDINAL
+1.0	his	have	wife	O	O
+1.0	ail wife	collapse at	start of she trial	0	0
+1.0	wife	collapse at_time	month	0	DATE
+1.0	ail wife	be absent for	time	0	0
+1.0	ail wife	be absent from	court	0	0
+1.0	Wu Shu-chen	have	lawyers	O	O
+1.0	opposition	garner	enough support	0	0
+1.0	prosecutor	review	first lady 's record	0	ORDINAL
+1.0	Wu 's doctor	attend	future court hearing	PERSON	DATE
+1.0	panel	also order	four official	0	NUMBER
+1.0	prosecutor	review	first lady 's medical record	0	ORDINAL
+1.0	corruption	have	charges	O	O
+1.0	prosecutor	demand during	court session	0	0
+1.0	four official	attend	next hearing	NUMBER	0
+1.0	four presidential official	attend	hearing schedule	NUMBER	0
+1.0	Chen	have	presidency	PERSON	0
+1.0	wife	collapse at	start of she trial	0	0
+1.0	opposition	garner	support	0	0
+1.0	wife	be absent for	third time	0	ORDINAL
+1.0	four presidential official	attend	next hearing schedule	NUMBER	0
+1.0	Wu	be	discharge from hospital on December 31 16 day	PERSON	DATE
+1.0	wheelchair-bound Wu	be	discharge from hospital on December 31 16 day	PERSON	DATE
+1.0	four presidential official	attend	hearing	NUMBER	0
+1.0	future court hearing	explain instead	she condition	DATE	0
+1.0	wheelchair-bound Wu	be	discharge from hospital on December 31	PERSON	DATE
+0.6056829007965586	Wu	first wife of	leader	PERSON	0
+1.0	wife	collapse on	corruption charge	0	0
+1.0	he son-in-law Chao Chien-ming	be	when sentence	PERSON	0
+1.0	he son-in-law Chao Chien-ming	be	when sentence to six year	PERSON	DURATION
+1.0	ail wife	collapse at_time	month	0	DATE
+1.0	ail wife	be	absent from court for time	0	0
+1.0	his	have	son-in-law Chao Chien-ming	PERSON	O
+1.0	Wu	be discharge from	hospital	PERSON	0
+1.0	prosecutor	review	lady 's medical record follow she repeat absence	0	0
+1.0	Chen	be	also suspect	PERSON	0
+0.6056829007965586	Wu	wife of	leader	PERSON	0
+1.0	dollar	be	spend on diamond ring for he wife	0	0
+1.0	wife	be	absent from court for third time	0	ORDINAL
+1.0	Wu Shu-chen	have	blood pressure	O	O
+1.0	panel	order	four official	0	NUMBER
+1.0	ail wife	collapse on	corruption charge	0	0
+1.0	prosecutor	review	first lady 's medical record follow she absence	0	ORDINAL
+1.0	landmark case	could end	Chen 's presidency	0	PERSON
+1.0	it	be	unnecessary	0	0
+1.0	prosecutor	review	lady 's medical record follow she absence	0	0
+1.0	four presidential official	attend	next hearing	NUMBER	0
+1.0	she	claim	450,000 US dollar	0	NUMBER
+1.0	four official	attend	hearing schedule for January 19	NUMBER	DATE
+1.0	wheelchair-bound Wu	be discharge from	hospital	PERSON	0
+1.0	president	use	false receipt	0	0
+1.0	panel	also order	four presidential official	0	NUMBER
+1.0	President Chen Shui-bian	have	wife	O	PERSON
+1.0	wife	be absent for	time	0	0
+1.0	Chen	survive	three parliamentary vote	PERSON	NUMBER
+1.0	ail wife	collapse at	start	0	0
+1.0	trial	have	start	O	O
+1.0	he son-in-law Chao Chien-ming	be	sentence	PERSON	0
+1.0	Chen	be	suspect	PERSON	0
+1.0	she	illegally claim	14.8 million Taiwan dollar	0	MONEY
+1.0	their	have	handling	O	O
+1.0	prosecutor	review	first lady 's record follow she absence	0	ORDINAL
+1.0	ail wife	be absent for	third time	0	ORDINAL
+1.0	prosecutor	be in	November	0	DATE
+1.0	he son-in-law Chao Chien-ming	be	when sentence to six year in prison	PERSON	DURATION
+1.0	future court hearing	explain	she condition	DATE	0
+1.0	prosecutor	review	lady 's medical record	0	0
+1.0	four official	attend	next hearing schedule for January 19	NUMBER	DATE
+1.0	Chen	be also suspect of	involvement in case	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge 16 day	PERSON	DURATION
+1.0	The ailing wife of Taiwanese President Chen Shui-bian	have	trial	O	O
+1.0	Wu	be	discharge	PERSON	0
+1.0	Chen	escape	immediate prosecution	PERSON	0
+1.0	leader	have	wife	O	O

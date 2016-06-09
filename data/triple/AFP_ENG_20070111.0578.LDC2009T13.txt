@@ -1,0 +1,26 @@
+0.37999818347223124	statement	receive in	London	0	LOCATION
+1.0	London Stock Exchange	have	board	O	ORGANIZATION
+1.0	The board of The Nasdaq Stock Market	have	offers	O	O
+1.0	28.75-percent stake	be in	the London Stock Exchange	PERCENT	ORGANIZATION
+1.0	Nasdaq	accept	offer	ORGANIZATION	0
+1.0	Nasdaq	go to	LSE shareholder	MISC	ORGANIZATION
+1.0	Nasdaq Stock Market	have	board	O	ORGANIZATION
+1.0	acceptance	be	closing date	0	0
+1.0	the	have	percent	PERCENT	O
+1.0	valid acceptance	be	first closing date	0	ORDINAL
+1.0	Nasdaq	go directly to	LSE shareholder	MISC	ORGANIZATION
+1.0	January 26	have	deadline	O	O
+0.8044415184757732	takeover bid	board of	London Stock Exchange	0	ORGANIZATION
+1.0	capital worth	have	percent	PERCENT	O
+1.0	valid acceptance	be	closing date	0	0
+1.0	acceptance	be	first closing date	0	ORDINAL
+1.0	LSE shares	have	total	O	O
+1.0	LSE	have	capital worth	O	ORGANIZATION
+1.0	Thursday	have	deadline	O	DATE
+1.0	January 26	have	takeover bid	O	O
+1.0	US stock exchange operator	say at_time	Thursday	LOCATION	DATE
+1.0	Nasdaq	be stock exchange operator of	US	ORGANIZATION	LOCATION
+1.0	the London Stock Exchange	have	share capital	O	ORGANIZATION
+1.0	London Stock Exchange	have	shareholders	O	ORGANIZATION
+1.0	LSE	of	capital worth	ORGANIZATION	0
+1.0	total	have	respect	O	O

@@ -1,0 +1,43 @@
+1.0	she	regret	loss of life	0	0
+1.0	life	have	loss	O	O
+1.0	the incoming UN secretary general	have	post	O	O
+0.0988436233277199	ban	be concern for	irrespective report US action	0	LOCATION
+0.0988436233277199	ban	be concern for	report US action	0	LOCATION
+1.0	civilian population	be in	Somalia	0	LOCATION
+1.0	Bryan Whitman	be	Pentagon	PERSON	ORGANIZATION
+0.0988436233277199	ban	be concern for	irrespective US action	0	LOCATION
+1.0	ban ki-moon	be	the United Nations	0	ORGANIZATION
+1.0	action	have	kind	O	O
+1.0	ban ki-moon	be chief of	the United Nations	0	ORGANIZATION
+0.0988436233277199	ban	be concern for	US military action	0	LOCATION
+0.0988436233277199	ban	be concern for	US action	0	LOCATION
+1.0	US military action	be in	Somalia	LOCATION	LOCATION
+1.0	she	regret	reported loss of civilian life	0	0
+0.0988436233277199	ban	be concern for	irrespective of motive US action	0	LOCATION
+0.0988436233277199	ban	be concern for	irrespective of motive report US action	0	LOCATION
+0.0988436233277199	ban	be concern for	report US military action	0	LOCATION
+1.0	Africa country	have	Horn	PERSON	O
+0.0988436233277199	ban	be concern for	irrespective of motive US military action	0	LOCATION
+1.0	she	regret	reported loss	0	0
+1.0	US attack	have	reports	O	O
+0.8984735911953804	US Air Force ac-130	fix	wing gunship	ORGANIZATION	0
+1.0	US Air Force ac-130	conduct air strike in	Somalia Sunday	ORGANIZATION	LOCATION
+1.0	she	regret	loss	0	0
+1.0	UN chief Ban Ki-moon	have	spokeswoman	O	O
+1.0	Pentagon spokesman	be in	Washington	ORGANIZATION	LOCATION
+1.0	she	regret	loss of civilian life	0	0
+1.0	US Air Force ac-130	conduct air strike against	Al-Qaeda leader	ORGANIZATION	MISC
+1.0	motives	have	irrespective	O	O
+1.0	he spokeswoman	say at_time	Tuesday	0	DATE
+0.0988436233277199	ban	be	concern	0	0
+1.0	US Air Force ac-130	conduct air strike in	southern Somalia Sunday	ORGANIZATION	LOCATION
+1.0	US Air Force ac-130	conduct	air strike	ORGANIZATION	0
+1.0	Bryan Whitman	be spokesman of	Pentagon	PERSON	ORGANIZATION
+0.0988436233277199	ban	be concern for	irrespective of motive report US military action	0	LOCATION
+1.0	she	regret	reported loss of life	0	0
+0.0988436233277199	ban	be concern for	irrespective US military action	0	LOCATION
+1.0	hostilities	have	escalation	O	O
+1.0	US air strike	be in	Somalia	LOCATION	LOCATION
+0.0988436233277199	ban	be concern for	irrespective report US military action	0	LOCATION
+1.0	Washington	be  at_time	earlier Tuesday	LOCATION	DATE
+1.0	hostility	be in	Horn	0	PERSON

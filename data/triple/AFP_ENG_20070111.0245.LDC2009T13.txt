@@ -1,0 +1,75 @@
+1.0	bid	have	possibility	O	O
+1.0	candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	New Year 's	during	speech	DATE	0
+1.0	French President Jacques Chirac	say at_time	Thursday	PERSON	DATE
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	centre-right candidacy	play jean-marie le pen into	hand	0	0
+1.0	rival candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	public	have	four-fifths	O	O
+1.0	decision	have	people	O	O
+1.0	policy pledges	have	series	O	O
+1.0	Nicolas Sarkozy	have	have accuse by ump deputy	0	0
+1.0	Chirac	reply	something consider	PERSON	0
+1.0	candidacy	play jean-marie le pen into	hand	0	0
+1.0	French President Jacques Chirac	be candidate after	12 year in power	0	DURATION
+1.0	Jacques Chirac	be	French	PERSON	MISC
+1.0	the president	have	ally Prime Minister Dominique Villepin	PERSON	O
+1.0	ruling Union	have	candidate	O	ORGANIZATION
+1.0	two term	be in	power	NUMBER	0
+1.0	Sarkozy	to	camp	PERSON	0
+1.0	rival centre-right candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	year	have	start	DATE	DATE
+1.0	Chirac	be	74-year-old	PERSON	DURATION
+1.0	French President Jacques Chirac	insist on	Thursday	PERSON	DATE
+1.0	Jean-Marie Le Pen	be leader of	National front	PERSON	ORGANIZATION
+1.0	French President Jacques Chirac	be	attach	0	0
+1.0	rival candidacy	play jean-marie le pen into	hand	0	0
+1.0	speeches	have	series	O	O
+1.0	Neither he nor his ally Prime Minister Dominique de Villepin	have	champion	O	O
+1.0	French President Jacques Chirac	be attach to	ump	0	0
+1.0	French President Jacques Chirac	be	after 12 year in power candidate in April 's presidential election	0	DATE
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	centre-right candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	French President Jacques Chirac	defeat	Jean-Marie Le Pen	PERSON	PERSON
+1.0	April	have	election	O	DATE
+1.0	Nicolas Sarkozy	have	have accuse	0	0
+1.0	French President Jacques Chirac	be candidate in	April 's presidential election	0	DATE
+1.0	74-year-old Chirac	reply	something consider	PERSON	0
+1.0	rival centre-right candidacy	play jean-marie le pen into	hand	0	0
+1.0	French President Jacques Chirac	have	rival	O	O
+1.0	would candidate	be in	April 's presidential election	0	DATE
+1.0	candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	champion	have	chances	O	O
+1.0	French President Jacques Chirac	have	decision	O	O
+1.0	rival candidacy	play jean-marie le pen into	hand of National front leader	0	ORGANIZATION
+1.0	French President Jacques Chirac	be candidate after	12 year	0	DURATION
+1.0	rival candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	number	have defect to	Sarkozy 's camp	0	PERSON
+0.2890677270592331	Jean-Marie Le Pen	increase	he chance	PERSON	0
+1.0	Segolene Royal	have	shape	O	PERSON
+1.0	Chirac allies	have	number	O	O
+1.0	their champion	have	policies	O	O
+1.0	April	in	presidential election	DATE	0
+1.0	French President Jacques Chirac	say to	press	0	0
+1.0	that	be	something	0	0
+1.0	New Year	have	speech	O	DATE
+1.0	French President Jacques Chirac	have	answer	O	O
+1.0	centre-right candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	the far-right National Front leader	have	chances	O	O
+1.0	that	be	something consider	0	0
+1.0	French President Jacques Chirac	be	after 12 year candidate in April 's presidential election	0	DATE
+1.0	French President Jacques Chirac	be	candidate	0	0
+1.0	12 year	be in	power	DURATION	0
+1.0	French President Jacques Chirac	say during	New Year 's speech	0	DATE
+1.0	French President Jacques Chirac	defeat handily	Jean-Marie Le Pen	PERSON	PERSON
+1.0	Sarkozy	have	camp	O	PERSON
+1.0	party	have	nomination congress	O	O
+1.0	74-year-old Chirac	reply	something	PERSON	0
+1.0	candidacy	play	Jean-Marie Le Pen	0	PERSON
+1.0	Chirac	reply	something	PERSON	0
+1.0	centre-right candidacy	play jean-marie le pen into	hand of far-right National front leader	0	ORGANIZATION
+1.0	French President Jacques Chirac	be	after 12 year candidate in April 's election	0	DATE
+1.0	French President Jacques Chirac	be candidate in	April 's election	0	DATE
+1.0	our	have	interest	O	O
+1.0	National Front leader	have	hands	O	O
+1.0	French President Jacques Chirac	be	after 12 year in power candidate in April 's election	0	DATE

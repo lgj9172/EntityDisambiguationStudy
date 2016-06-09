@@ -1,0 +1,18 @@
+1.0	ministry	of	civil aviation bureau	0	0
+1.0	plane	land at	Kansai International Airport in Osaka	0	LOCATION
+1.0	McDonnell Douglas md-11	be travel at	altitude of about 11,600 meter over Kochi Japan	ORGANIZATION	LOCATION
+1.0	western Japan	over meter be	38,000 foot	LOCATION	NUMBER
+1.0	McDonnell Douglas md-11	be travel at	altitude of about 11,600 meter	ORGANIZATION	NUMBER
+1.0	co-pilot	in	seat	0	0
+1.0	his	have	condition	O	O
+1.0	aviation bureau	have	Hiroshi Oda	PERSON	O
+1.0	A Malaysian cargo plane	have	captain	O	O
+1.0	McDonnell Douglas md-11	be travel at	altitude	ORGANIZATION	0
+1.0	western Japan	be over	Kochi	LOCATION	LOCATION
+1.0	McDonnell Douglas md-11	be travel at	altitude of about 11,600 meter over Kochi western Japan	ORGANIZATION	LOCATION
+1.0	plane	land at	Kansai International Airport	0	LOCATION
+1.0	ministry	have	aviation bureau	O	O
+1.0	Kansai International Airport	be in	Osaka	LOCATION	LOCATION
+1.0	co-pilot	have	seat	O	O
+1.0	whose	have	identity	O	O
+1.0	whose identity	be	withhold	0	0

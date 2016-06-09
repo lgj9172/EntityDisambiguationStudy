@@ -1,0 +1,60 @@
+1.0	euro	strengthen to	1.3279	0	NUMBER
+1.0	Bank	be	likely	ORGANIZATION	0
+1.0	Bank	be schedule	meet	ORGANIZATION	0
+1.0	recent datum	be in	Japan	0	ORGANIZATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	dollar	be at	118.77 yen	0	MONEY
+1.0	dollar	be at	118.77 yen down	0	MONEY
+1.0	Tokyo market	close on	Wednesday for holiday	LOCATION	DATE
+1.0	Bank	be	schedule	ORGANIZATION	0
+1.0	euro	strengthen after	trading	0	0
+1.0	dollar	weaken to	8,964 indonesian rupiah	0	NUMBER
+1.0	The dollar	have	lead	O	O
+1.0	Bank	meet around	January 17	ORGANIZATION	DATE
+1.0	Bank	be	now likely	ORGANIZATION	DATE
+1.0	dollar	weaken to	8,964 rupiah	0	NUMBER
+1.0	it	be trade at	925.65 south korean won	0	NUMBER
+1.0	it	be trade at	925.65 won	0	NUMBER
+1.0	dollar	strengthen against	Thai baht	0	MISC
+1.0	Thomas Lam	economist with	United Overseas Bank Group	PERSON	ORGANIZATION
+1.0	US data including the key employment figures due Friday	have	sets	O	O
+1.0	it	be trade at	925.65 south won	0	NUMBER
+1.0	Bank	be	now more likely	ORGANIZATION	DATE
+1.0	dollar	weaken on	Friday	0	DATE
+1.0	dollar	be at	118.77 yen down from 118.81 in late New York trade Tuesday	0	MONEY
+1.0	it	hike	rate	0	0
+1.0	Japan 's policy board	keep cost at	0.25 percent	ORGANIZATION	PERCENT
+1.0	dollar	weaken to	1.5296 Singapore dollar from 1.5336	0	MONEY
+1.0	week	have	end	DATE	DATE
+1.0	borrowing	have	cost	O	O
+1.0	1.3282 dollar	be in	morning	MONEY	TIME
+1.0	dollar	be at	in afternoon trade 118.77 yen down	0	MONEY
+1.0	dollar	be at	in afternoon trade 118.77 yen down from 118.81 in late New York trade Tuesday	0	MONEY
+1.0	it	be trade at	925.65 korean won	0	NUMBER
+1.0	dollar	weaken to	1.5296 Singapore dollar	0	MONEY
+1.0	Tokyo market	close on	Wednesday	LOCATION	DATE
+1.0	recent datum	have	have read	0	0
+1.0	Japan 's policy board	be much speculation about	possible rate	ORGANIZATION	0
+1.0	treasury economist	be with	United Overseas Bank Group	0	ORGANIZATION
+1.0	dollar	be at	in afternoon trade 118.77 yen	0	MONEY
+1.0	Bank	hike at	January meeting	ORGANIZATION	DATE
+1.0	Japan	have	policy board	O	ORGANIZATION
+1.0	dollar	weaken to	8,964 indonesian rupiah from 9,005	0	NUMBER
+1.0	dollar	be at	118.77 yen down from 118.81 in New York trade Tuesday	0	MONEY
+1.0	Tokyo market	close on	Wednesday for public holiday	LOCATION	DATE
+1.0	dollar	be at	in afternoon trade 118.77 yen down from 118.81 in New York trade Tuesday	0	MONEY
+1.0	Tokyo market	remain	close on Wednesday for holiday	LOCATION	DATE
+1.0	Japan 's policy board	keep cost at	percent	ORGANIZATION	PERCENT
+1.0	118.77 yen	be in	afternoon trade	MONEY	TIME
+1.0	Tokyo market	remain	close on Wednesday for public holiday	LOCATION	DATE
+1.0	dollar	weaken to	8,964 rupiah from 9,005	0	NUMBER
+1.0	Bank	be schedule	meet around January 17	ORGANIZATION	DATE
+1.0	Tokyo market	remain	close on Wednesday	LOCATION	DATE
+1.0	Tokyo market	remain	close	LOCATION	0
+1.0	Bank of Japan	have	policy board	ORGANIZATION	0
+1.0	Bank	be	more likely	ORGANIZATION	0
+1.0	euro	strengthen at	1.3282 dollar	0	MONEY
+1.0	trend	have	representative	O	O
+1.0	datum	have	have read	0	0
+1.0	Bank	remain on	hold	ORGANIZATION	0
+1.0	euro	strengthen at	1.3282 dollar in morning	0	TIME

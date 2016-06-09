@@ -1,0 +1,147 @@
+0.9638943426231087	italian prosecutor	call at_time	Wednesday	0	DATE
+1.0	Nazis	all in	80s	MISC	NUMBER
+1.0	military court	impose in	2005 life sentence in absentia	0	DATE
+1.0	same court	impose from	division of 550 civilian	0	LOCATION
+1.0	same military court	impose from	same division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	time	have	length	O	O
+0.9638943426231087	prosecutor	call for	life sentence for german	0	0
+1.0	Marzabotto	have	village	O	LOCATION
+1.0	Salerno	be in	1943	LOCATION	DATE
+1.0	court	impose from	division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	all	be member of	ss reichsfuhrer tank division order	0	0
+1.0	military court	impose in	2005 life sentence	0	DATE
+1.0	60 people	be in	monastary near Lucca	NUMBER	LOCATION
+1.0	same military court	impose from	same division of 550 civilian in tuscan village	0	LOCATION
+1.0	military court	impose from	same division of 550 civilian in village	0	LOCATION
+1.0	all	be member of	16th ss reichsfuhrer tank division	0	ORDINAL
+1.0	late president Johannes Rau	express	he profound sorrow for massacre	PERSON	0
+1.0	late president Johannes Rau	express	he sorrow for massacre	PERSON	0
+0.460266700507544	they	live in	Germany	0	LOCATION
+1.0	the	have	Wednesday	DATE	O
+1.0	court	impose from	same division of 550 civilian in village	0	LOCATION
+1.0	court	impose from	same division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	same military court	impose from	division of 550 civilian in tuscan village	0	LOCATION
+1.0	court	impose in	2005 life sentence in absentia on 10 former Nazis	0	NUMBER
+1.0	court	impose from	division of 550 civilian in tuscan village	0	LOCATION
+0.9638943426231087	prosecutor	call at_time	Wednesday	0	DATE
+1.0	Nazis	have	trials	O	MISC
+1.0	military court	impose from	division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	all	be member of	notorious ss reichsfuhrer tank division	0	0
+1.0	Seventeen men	have	80s	NUMBER	O
+1.0	same court	impose from	same division of 550 civilian	0	LOCATION
+1.0	same court	impose from	division of 550 civilian in village	0	LOCATION
+1.0	military court	impose from	same division of 550 civilian in tuscan village	0	LOCATION
+1.0	Bologna	have	city	O	LOCATION
+1.0	their	have	age	O	O
+1.0	same court	impose from	same division	0	LOCATION
+1.0	same military court	impose in	2005 life sentence in absentia on 10 former Nazis	0	NUMBER
+1.0	president Johannes Rau	express	he profound sorrow	PERSON	0
+1.0	all	be member of	16th ss reichsfuhrer tank division order	0	ORDINAL
+1.0	president Johannes Rau	express	he sorrow	PERSON	0
+1.0	prosecutor	accuse in	country 's worst civilian massacre	0	0
+1.0	all	be member of	notorious 16th ss reichsfuhrer tank division	0	ORDINAL
+1.0	court	impose from	division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	Nazis	of trial be	vast majority they live in Germany	MISC	LOCATION
+1.0	prosecutor	accuse during	World War II	0	MISC
+1.0	same court	impose from	division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	same military court	impose in	1944	0	DATE
+1.0	same military court	impose from	division of 550 civilian	0	LOCATION
+1.0	same military court	impose from	division	0	LOCATION
+1.0	same court	impose from	division of 550 civilian in tuscan village	0	LOCATION
+1.0	military court	impose from	same division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	country	in	worst civilian massacre	0	0
+1.0	late german president Johannes Rau	express	he profound sorrow	PERSON	0
+1.0	same court	impose from	division	0	LOCATION
+1.0	people	have	September massacre	O	O
+1.0	The late German president Johannes Rau	have	sorrow	O	O
+1.0	late german president Johannes Rau	express	he sorrow for massacre	PERSON	0
+1.0	2005 life sentence	be in	absentia on 10 former Nazis	DATE	NUMBER
+1.0	italian prosecutor	accuse during	World War II	0	MISC
+1.0	prosecutor	request on	Wednesday two of the accuse	0	NUMBER
+1.0	military court	impose in	2005 life sentence in absentia on 10 former Nazis	0	NUMBER
+1.0	he part	be in	September 1944 massacre of 60 people	0	DATE
+1.0	Italian prosecutors called Wednesday for life sentences for 15 Germans	have	80s	NUMBER	O
+1.0	military court	impose from	division	0	LOCATION
+1.0	trial	remain	conviction	0	0
+0.9638943426231087	italian prosecutor	call for	life sentence for german	0	0
+1.0	court	be in	Rome	0	LOCATION
+1.0	another former SS officer	have	part	O	O
+1.0	prosecutor	request on	Wednesday two	0	NUMBER
+1.0	trial	remain	largely symbolic	0	0
+1.0	all	be	member	0	0
+1.0	civilians	have	division	O	O
+1.0	all	be member of	notorious ss reichsfuhrer tank division order	0	0
+1.0	same court	impose from	same division of 550 civilian in tuscan village	0	LOCATION
+1.0	same military court	impose from	division of 550 civilian in village	0	LOCATION
+1.0	life	be in	absentia for he part	0	0
+1.0	late german president Johannes Rau	express	he sorrow	PERSON	0
+1.0	military court	impose from	division of 550 civilian in village	0	LOCATION
+1.0	court	impose from	same division	0	LOCATION
+1.0	same court	impose in	1944	0	DATE
+1.0	involvement	have	accused	O	O
+1.0	italian prosecutor	accuse in	country 's worst massacre	0	0
+1.0	court	impose in	2005 life sentence in absentia	0	DATE
+1.0	military court	impose in	1944	0	DATE
+1.0	same court	impose from	same division of 550 civilian in village	0	LOCATION
+1.0	all	be member of	ss reichsfuhrer tank division	0	0
+1.0	german president Johannes Rau	express	he sorrow for massacre	PERSON	0
+1.0	550 civilian	be in	tuscan village of Sant Ana di Stazzema	NUMBER	LOCATION
+1.0	Sant Ana di Stazzema	have	village	O	LOCATION
+1.0	late president Johannes Rau	express	he sorrow	PERSON	0
+1.0	same military court	impose from	division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	prosecutor	accuse of	involvement	0	0
+1.0	court	impose in	2005 life sentence	0	DATE
+1.0	italian prosecutor	accuse of	involvement	0	0
+1.0	seventeen man	all in	80s	0	NUMBER
+1.0	late german president Johannes Rau	express	he profound sorrow for massacre	PERSON	0
+1.0	same military court	impose in	2005 life sentence in absentia	0	DATE
+1.0	all	be member of	notorious 16th ss reichsfuhrer tank division order	0	ORDINAL
+1.0	military court	impose from	division of 550 civilian in tuscan village	0	LOCATION
+1.0	late president Johannes Rau	express	he profound sorrow	PERSON	0
+1.0	same military court	impose in	2005 life sentence	0	DATE
+1.0	court	impose from	same division of 550 civilian	0	LOCATION
+1.0	same court	impose from	same division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	trial	remain	symbolic	0	0
+0.9638943426231087	italian prosecutor	call for	life sentence for 15 german	0	NUMBER
+1.0	same military court	impose from	same division of 550 civilian in village	0	LOCATION
+1.0	same court	impose in	2005 life sentence in absentia on 10 former Nazis	0	NUMBER
+1.0	SS Reichsfuhrer tank division	have	members	O	O
+1.0	president Johannes Rau	express	he sorrow for massacre	PERSON	0
+1.0	same military court	impose from	same division of 550 civilian	0	LOCATION
+1.0	memorial	be in	village of Marzabotto	0	LOCATION
+1.0	same court	impose from	same division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	same court	impose from	division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	court	impose from	division of 550 civilian in village	0	LOCATION
+1.0	prosecutor	accuse in	country 's massacre	0	0
+1.0	president Johannes Rau	express	he profound sorrow for massacre	PERSON	0
+1.0	german president Johannes Rau	express	he sorrow	PERSON	0
+1.0	same court	impose in	2005 life sentence in absentia	0	DATE
+1.0	same military court	impose from	division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	military court	impose from	division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	same court	impose in	2005 life sentence	0	DATE
+1.0	military court	impose from	division of 550 civilian	0	LOCATION
+1.0	prosecutor	accuse in	country 's worst massacre	0	0
+1.0	italian prosecutor	accuse in	country 's civilian massacre	0	0
+1.0	court	impose from	division	0	LOCATION
+1.0	italian prosecutor	accuse in	country 's worst civilian massacre	0	0
+1.0	military court	impose from	same division of 550 civilian	0	LOCATION
+1.0	german president Johannes Rau	express	he profound sorrow	PERSON	0
+1.0	german president Johannes Rau	express	he profound sorrow for massacre	PERSON	0
+1.0	military court	impose from	same division	0	LOCATION
+1.0	court	impose in	1944	0	DATE
+1.0	country	have	massacre	O	O
+1.0	children	have	many	O	O
+1.0	Johannes Rau	be	german	PERSON	0
+1.0	same military court	impose from	same division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	italian prosecutor	accuse in	country 's massacre	0	0
+1.0	same military court	impose from	same division	0	LOCATION
+1.0	military court	impose from	same division of 550 civilian in tuscan village of Sant Ana di Stazzema	0	LOCATION
+1.0	civilians	have	massacre	O	O
+0.9638943426231087	prosecutor	call for	life sentence for 15 german	0	NUMBER
+1.0	court	impose from	same division of 550 civilian in tuscan village	0	LOCATION
+1.0	Allied landing	be in	Salerno	MISC	LOCATION
+1.0	court	impose from	same division of 550 civilian in village of Sant Ana di Stazzema	0	LOCATION
+1.0	court	impose from	division of 550 civilian	0	LOCATION
+1.0	prosecutor	accuse in	country 's civilian massacre	0	0
+1.0	prosecutor	request on	Wednesday two of the	0	NUMBER
+1.0	warcrimes	have	convicted	O	O

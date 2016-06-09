@@ -1,0 +1,14 @@
+1.0	branch	be in	New York	0	LOCATION
+1.0	Auction house Bonhams	extend auction to	branch in New York	PERSON	LOCATION
+1.0	Auction house Bonhams	extend	auction	PERSON	0
+1.0	auction house Bonhams	say at_time	Thursday	PERSON	DATE
+1.0	world premiere	sell	most of they	0	0
+1.0	buyers	have	percent	PERCENT	O
+1.0	Jon Baddeley	director 's	auction house	PERSON	0
+1.0	women	have	most	O	O
+1.0	world premiere	sell	most	0	0
+1.0	Auction house Bonhams	extend auction to	branch	PERSON	0
+1.0	auction house	have	director	O	O
+1.0	Women Want	have	auction	O	O
+1.0	auction house	have	director	0	0
+1.0	300 lot	most of	they	NUMBER	0

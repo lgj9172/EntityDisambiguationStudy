@@ -1,0 +1,33 @@
+1.0	rain	stop play on	day of test between South Africa	0	DATE
+1.0	Shaun Pollock	play	he stroke	0	0
+1.0	rain	stop play on	day	0	DATE
+1.0	wicket	fall with	last ball	0	0
+1.0	rain	start	fall	0	0
+1.0	Shaun Pollock	have	strokes	O	O
+0.8890335866659799	rain	unusual for	time of year	0	DURATION
+1.0	Graeme Smith	be	unbeaten	PERSON	0
+1.0	rain	stop play after	50 minute	0	DURATION
+1.0	victory	have	100	NUMBER	O
+1.0	wicket	fall on	day	0	DATE
+1.0	rain	stop play on	day of third test between South Africa	0	DATE
+1.0	wicket	fall with	ball	0	0
+1.0	Test	have	day	DATE	O
+1.0	rain	stop play on	fifth day of third test between South Africa	0	DATE
+1.0	cricket	have	minutes	DURATION	O
+1.0	rain	stop play at	Newlands Saturday	0	DATE
+1.0	Graeme Smith	be unbeaten on	25	PERSON	NUMBER
+1.0	rain	stop	play	0	0
+0.8890335866659799	rain	unusual for	time	0	0
+1.0	Shaun Pollock	be	promote	PERSON	0
+1.0	year	have	time	O	DURATION
+1.0	rain	stop play on	fifth day of third test	0	DATE
+1.0	rain	stop play on	fifth day of test between South Africa	0	DATE
+1.0	rain	stop play after	50 minute of cricket	0	DURATION
+1.0	rain	stop play on	fifth day	0	DATE
+1.0	Graeme Smith	put on	unbeaten 56	PERSON	NUMBER
+1.0	heavy rain	start	fall	0	0
+1.0	rain	stop play on	day of test	0	DATE
+1.0	rain	stop play on	day of third test	0	DATE
+1.0	rain	stop play on	fifth day of test	0	DATE
+1.0	Shaun Pollock	be promote to	number four	PERSON	NUMBER
+1.0	wicket	fall on	fourth day	0	DATE

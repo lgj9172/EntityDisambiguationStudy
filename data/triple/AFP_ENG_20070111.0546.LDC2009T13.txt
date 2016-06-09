@@ -1,0 +1,54 @@
+1.0	Russia	take	tough stand	LOCATION	0
+1.0	talk	be	lead	0	0
+1.0	Marti Ahtisaari	have	recommendations	O	O
+1.0	Marti Ahtisaari	be envoy of	the UN Security	PERSON	ORGANIZATION
+1.0	Kosovo	on	future	LOCATION	DATE
+1.0	election campaigning	have	have dominate by Kosovo 's hope for independence under its constitution	0	LOCATION
+1.0	Russia	take	stand as veto-holding member of UN security	LOCATION	ORGANIZATION
+1.0	talk	be lead by	UN envoy Marti Ahtisaari	0	PERSON
+1.0	election campaigning	have	have dominate for independence under its constitution	0	0
+1.0	negotiations	have	weeks	DURATION	O
+1.0	election campaigning	see	rise in nationalist rhetoric	0	0
+1.0	expert	analyst with	International Crisis Group think-tank	0	ORGANIZATION
+1.0	province	be part of	Serbia	0	LOCATION
+1.0	Serbia	have	part	O	LOCATION
+1.0	Kosovo	have	future	DATE	LOCATION
+1.0	election campaigning	see	rise	0	0
+1.0	Ahtisaari	after	proposal	PERSON	0
+1.0	Russia	take	tough stand as member of UN security	LOCATION	ORGANIZATION
+1.0	Ahtisaari	have	proposal	O	PERSON
+1.0	Marti Ahtisaari	be by	the UN Security	PERSON	ORGANIZATION
+1.0	Russia	take	tough stand as veto-holding member of UN security	LOCATION	ORGANIZATION
+1.0	analyst	be with	International Crisis Group think-tank	0	ORGANIZATION
+1.0	majority	have	independence	O	O
+1.0	envoy	be	due	0	0
+1.0	Russia	take	stand as member	LOCATION	0
+1.0	province	be integral part of	Serbia	0	LOCATION
+1.0	rise	be in	nationalist rhetoric	0	0
+1.0	election campaigning	have	have dominate by Kosovo 's hope	0	LOCATION
+1.0	Election campaigning	have	constitution	O	O
+1.0	Russia	take	stand	LOCATION	0
+1.0	UN Security	have	member	O	ORGANIZATION
+1.0	Russia	take	stand as member of UN security	LOCATION	ORGANIZATION
+1.0	Russia	take	tough stand as member	LOCATION	0
+1.0	province	be	integral part	0	0
+1.0	expert	say at_time	Thursday	0	DATE
+1.0	election campaigning	have	have dominate by Kosovo 's hope for independence	0	LOCATION
+0.8701239964507991	election	be hold in	Serbia	0	LOCATION
+1.0	Russia	take	stand as veto-holding member	LOCATION	0
+1.0	Russia	take	tough stand as veto-holding member	LOCATION	0
+0.8701239964507991	election	be	hold	0	0
+1.0	election campaigning	have	have dominate by Kosovo 's hope under its constitution	0	LOCATION
+1.0	envoy	make	they	0	0
+1.0	province	be	integral	0	0
+1.0	negotiation	be in	Vienna	0	LOCATION
+1.0	Kosovo	by	hope	LOCATION	0
+1.0	election campaigning	have	have dominate	0	0
+1.0	the UN envoy	have	announcement	O	O
+1.0	election campaigning	have	have dominate for independence	0	0
+1.0	election campaigning	see	rise in rhetoric	0	0
+1.0	Kosovo	have	hopes	O	LOCATION
+1.0	election campaigning	have	have dominate under its constitution	0	0
+1.0	autonomy	have	degree	O	O
+1.0	province	be	part	0	0
+1.0	talks	have	weeks	DURATION	O

@@ -1,0 +1,10 @@
+1.0	Hong Kong gold price	close	higher	LOCATION	0
+1.0	Hong Kong gold price	close at	613.70-614 .20 US dollar up from Thursday 's close	LOCATION	MONEY
+1.0	Thursday	have	close	O	DATE
+1.0	Hong Kong gold price	close at	613.70-614 .20 US dollar up from Thursday 's close of 612.60-613 .10 dollar	LOCATION	MONEY
+1.0	Hong Kong gold price	close at	613.70-614 .20 US dollar	LOCATION	MONEY
+1.0	dollars	have	close	O	MONEY
+1.0	Thursday	from	close of 612.60-613 .10 dollar	DATE	MONEY
+1.0	Gold	open at	610.30-610 .80 dollar	0	MONEY
+1.0	Hong Kong gold price	close at	613.70-614 .20 US dollar up	LOCATION	MONEY
+1.0	Hong Kong gold price	close at_time	Friday	LOCATION	DATE

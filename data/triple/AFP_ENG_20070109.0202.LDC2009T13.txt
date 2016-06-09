@@ -1,0 +1,60 @@
+1.0	darts	fire from	probe	0	0
+1.0	Britain	have	moon shot	O	O
+1.0	long darts	fire into	moon 's surface	0	LOCATION
+1.0	mission	send spacecraft to	surface of moon in search of site for potential basis	0	DURATION
+1.0	cost	have fall accord to	Professor Martin Sweeting	0	PERSON
+1.0	darts	fire deep from	probe	0	0
+1.0	BBC	say on	Tuesday	ORGANIZATION	DATE
+1.0	moon	have	centre	O	O
+1.0	BBC	cite	plan submit	ORGANIZATION	0
+1.0	second mission	send spacecraft to	surface of moon in search of suitable site	DURATION	DURATION
+1.0	moon	be in	search of suitable site for potential manned basis	0	DURATION
+1.0	second mission	send spacecraft to	surface of moon in search of site for potential manned basis	DURATION	DURATION
+1.0	mission	tell	BBC	0	ORGANIZATION
+1.0	mission	send spacecraft to	surface of moon in search of suitable site for potential manned basis	0	DURATION
+1.0	current mission	tell	BBC	0	ORGANIZATION
+1.0	darts	fire deep into	moon 's surface	0	LOCATION
+1.0	mission	send spacecraft to	surface	0	DURATION
+1.0	long darts	fire deep into	moon 's surface	0	LOCATION
+1.0	second mission	be	could launch	DURATION	DURATION
+1.0	mission	send spacecraft to	surface of moon in search of suitable site	0	DURATION
+1.0	moon cost	be with	advance in small satellite sweet	0	0
+1.0	second mission	send spacecraft to	surface of moon in search	DURATION	DURATION
+1.0	space exploration	have	cost	O	O
+1.0	darts	fire into	moon 's surface	0	LOCATION
+1.0	long darts	fire from	probe	0	0
+1.0	current small mission	tell	BBC	0	ORGANIZATION
+1.0	Moonlight	be	successful	0	0
+1.0	moon	have	surface	O	LOCATION
+1.0	mission	send spacecraft to	surface of moon in search of site	0	DURATION
+1.0	moon	have	surface	O	O
+1.0	darts	fire from	orbit probe	0	0
+1.0	advance	be in	small satellite sweet	0	0
+1.0	sites	have	search	O	O
+1.0	moon	into	surface	LOCATION	0
+1.0	second mission	send spacecraft to	surface of moon in search of site for potential basis	DURATION	DURATION
+1.0	second mission	send	spacecraft	DURATION	DURATION
+1.0	cost	have fall	enough	0	0
+1.0	BBC	cite	plan	ORGANIZATION	0
+1.0	mission	be	could launch	0	DURATION
+1.0	small mission	tell	BBC	0	ORGANIZATION
+1.0	first	could	could launch by 2010	ORDINAL	DATE
+1.0	cost	have fall for	Britain	0	LOCATION
+1.0	mission	send spacecraft to	surface of moon in search of suitable site for potential basis	0	DURATION
+1.0	mission	send spacecraft to	surface of moon in search	0	DURATION
+1.0	moonquakes	have	possibility	O	O
+1.0	Surrey Satellite Technology Ltd.	have	executive	O	ORGANIZATION
+1.0	darts	fire deep from	orbit probe	0	0
+1.0	long darts	fire deep from	orbit probe	0	0
+1.0	second mission	send spacecraft to	surface of moon	DURATION	DURATION
+1.0	second mission	send spacecraft to	surface of moon in search of suitable site for potential manned basis	DURATION	DURATION
+1.0	first	could	could launch	ORDINAL	0
+1.0	moon	about	centre	LOCATION	0
+1.0	second mission	send spacecraft to	surface of moon in search of site	DURATION	DURATION
+1.0	second mission	send spacecraft to	surface of moon in search of suitable site for potential basis	DURATION	DURATION
+1.0	mission	send spacecraft to	surface of moon	0	DURATION
+1.0	long darts	fire deep from	probe	0	0
+1.0	second mission	send spacecraft to	surface	DURATION	DURATION
+1.0	mission	send	spacecraft	0	DURATION
+1.0	long darts	fire from	orbit probe	0	0
+1.0	mission	send spacecraft to	surface of moon in search of site for potential manned basis	0	DURATION

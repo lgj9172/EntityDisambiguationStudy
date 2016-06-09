@@ -1,0 +1,110 @@
+1.0	Amin Gemayel	have	advisors	O	PERSON
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline on Middle East peace process	PERSON	LOCATION
+1.0	former president	be quote at_time	Friday	0	DATE
+1.0	israeli official	say at_time	month	0	DATE
+1.0	Amin Gemayel	be approach on	peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on peace process	PERSON	SET
+1.0	conference	have	sidelines	O	O
+1.0	soldiers	have	fate	O	O
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline on peace process	PERSON	0
+1.0	Madrid Conference	have	anniversary	O	O
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline of conference on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from Maariv on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline	PERSON	SET
+1.0	Amin Gemayel	be approach on	sideline of conference	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline of conference	PERSON	0
+1.0	Amin Gemayel	be approach on	Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on sideline	PERSON	0
+1.0	military official	say at_time	month	0	DATE
+1.0	Amin Gemayel	be approach by	reporter from israeli Maariv	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	of	advisor	PERSON	0
+1.0	Amin Gemayel	be	president	PERSON	0
+1.0	Eldad Regev	have	fate	O	PERSON
+1.0	Amin Gemayel	be	approach by reporter on sideline of conference on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline on Middle East peace process	PERSON	LOCATION
+1.0	two soldier	would return	home	NUMBER	0
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline of conference on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline of conference on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on sideline on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach on sideline of conference on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach	PERSON	0
+1.0	former lebanese president	be	quote	0	0
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline on peace process	PERSON	0
+1.0	soldier	would return	home	0	0
+1.0	Amin Gemayel	be	approach by reporter on sideline of conference	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline on Middle East peace process	PERSON	LOCATION
+1.0	former president	be	quote	0	0
+1.0	gathering	mark	anniversary	0	0
+1.0	men	have	fate	O	O
+1.0	gathering Thursday	mark	anniversary	DATE	0
+1.0	Amin Gemayel	be	approach by reporter on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach on sideline on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline on East peace process	PERSON	LOCATION
+1.0	military official	say at_time	last month	0	DATE
+1.0	gathering Thursday	mark	15th anniversary	DATE	ORDINAL
+1.0	israeli military official	say at_time	month	0	DATE
+1.0	advisors	have	one	NUMBER	O
+1.0	Amin Gemayel	be	approach on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be approach by	reporter from Maariv	PERSON	0
+1.0	gathering Thursday	be in	spanish capital	DATE	0
+1.0	Ehud Goldwasser	have	fate	O	PERSON
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on peace process	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be approach by	reporter	PERSON	0
+1.0	Lebanon	have	president	O	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline of conference on East peace process	PERSON	LOCATION
+1.0	two soldier	would return	home alive	NUMBER	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on sideline on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be approach by	reporter from daily Maariv	PERSON	SET
+1.0	soldier	would return	home alive	0	0
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on sideline of conference on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from Maariv on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline of conference	PERSON	0
+1.0	israeli official	say at_time	last month	0	DATE
+1.0	conference	be in	Madrid	0	LOCATION
+1.0	official	say at_time	last month	0	DATE
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline on peace process	PERSON	SET
+1.0	Amin Gemayel	be approach on	sideline	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline of conference on peace process	PERSON	0
+1.0	them	have	one	NUMBER	O
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline of conference on East peace process	PERSON	LOCATION
+1.0	official	say at_time	month	0	DATE
+1.0	Amin Gemayel	be president of	Lebanon	PERSON	LOCATION
+1.0	gathering	mark	15th anniversary	0	ORDINAL
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline on peace process	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from Maariv on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach on sideline of conference on peace process	PERSON	0
+1.0	speculation	have	subject	O	O
+1.0	Amin Gemayel	be approach by	reporter from israeli daily Maariv	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline of conference on peace process	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline of conference on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on sideline on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from Maariv on sideline on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach on sideline on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on Middle East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on East peace process	PERSON	LOCATION
+1.0	former lebanese president	be quote at_time	Friday	0	DATE
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline of conference on peace process	PERSON	SET
+1.0	Amin Gemayel	be approach on	East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on East peace process	PERSON	LOCATION
+1.0	Amin Gemayel	be	approach by reporter from daily Maariv on sideline of conference	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from israeli daily Maariv on sideline of conference	PERSON	SET
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline on East peace process	PERSON	LOCATION
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Amin Gemayel	be	approach on sideline on peace process	PERSON	0
+1.0	Amin Gemayel	be	approach by reporter from israeli Maariv on sideline	PERSON	0
+1.0	israeli military official	say at_time	last month	0	DATE
+1.0	whose	have	capture	O	O

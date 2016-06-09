@@ -1,0 +1,80 @@
+1.0	Chelsea 's lengthy injury list	include	Khalid Boulahrouz	PERSON	PERSON
+1.0	FA Cup holder	begin defence on	Saturday	MISC	DATE
+1.0	Chelsea coach Jose Mourinho	rest	few Macclesfield	ORGANIZATION	ORGANIZATION
+1.0	Chelsea 's injury list	include	Joe Cole	PERSON	PERSON
+1.0	Wales	be fit after	groin problem	LOCATION	0
+1.0	Wales	be	fit	LOCATION	0
+0.022440233804983056	Chelsea coach Jose Mourinho	be set	rest at Stamford Bridge	ORGANIZATION	LOCATION
+0.13578433017498404	FA Cup holder	begin on	Saturday	MISC	DATE
+1.0	Australia striker Harry Kewell	be out	Bolo Zenden	LOCATION	PERSON
+1.0	Chelsea 's injury list	include	Petr Cech	PERSON	PERSON
+1.0	FA Cup holder	begin	defence	MISC	0
+1.0	Luis Boa Morte	should go into	West Ham 's start xi	PERSON	LOCATION
+1.0	West Ham	have	XI	O	LOCATION
+1.0	Chelsea coach Jose Mourinho	rest	Macclesfield	ORGANIZATION	ORGANIZATION
+1.0	Rafael Benitez	to	forward option	PERSON	0
+1.0	Chelsea 's lengthy injury list	include	Arjen Robben	PERSON	PERSON
+1.0	Luis Boa Morte	should go into	straight West Ham 's start xi	PERSON	LOCATION
+1.0	Jose Mourinho	be	Chelsea	PERSON	ORGANIZATION
+1.0	Chelsea	have	injury list	O	PERSON
+1.0	manager Rafael Benitez	have	options	O	PERSON
+1.0	Chelsea coach Jose Mourinho	be	set	ORGANIZATION	0
+1.0	Lassana Diarra	come	Wayne Bridge	PERSON	LOCATION
+1.0	Luis Boa Morte	should go into	straight West Ham 's xi for match Brighton	PERSON	LOCATION
+1.0	Chelsea 's lengthy injury list	include	John Terry	PERSON	PERSON
+1.0	first	have	few	O	ORDINAL
+1.0	FA Cup holder	begin	defence of trophy at Anfield	MISC	LOCATION
+1.0	Craig Bellamy	be	available	PERSON	0
+1.0	Australia striker Harry Kewell	be out	Mohammed Sissoko	LOCATION	PERSON
+1.0	Australia striker Harry Kewell	however be	Bolo Zenden	LOCATION	PERSON
+1.0	Chelsea 's injury list	include	Khalid Boulahrouz	PERSON	PERSON
+1.0	Luis Boa Morte	should go into	straight West Ham 's start xi for match Brighton	PERSON	LOCATION
+1.0	Luis Boa Morte	should go into	straight West Ham 's start xi for match against League one Brighton	PERSON	LOCATION
+1.0	Australia striker Harry Kewell	however be out	Mohammed Sissoko	LOCATION	PERSON
+1.0	Luis Boa Morte	should go into	West Ham 's xi for match against League one Brighton	PERSON	LOCATION
+1.0	Craig Bellamy	can now add to	manager Rafael Benitez 's option	0	PERSON
+1.0	Luis Boa Morte	should go into	West Ham 's xi	PERSON	LOCATION
+1.0	Lassana Diarra	come	Mikel Jon Obi	PERSON	PERSON
+1.0	Chelsea 's injury list	include	Arjen Robben	PERSON	PERSON
+1.0	Luis Boa Morte	complete	he move	PERSON	0
+1.0	Bolton manager Sam Allardyce	be	suspend	PERSON	0
+1.0	Chelsea 's lengthy injury list	include	Joe Cole	PERSON	PERSON
+1.0	Wales	be fit again after	groin problem	LOCATION	0
+1.0	Stelios Giannakopoulos	remain	doubtful	PERSON	0
+0.022440233804983056	Chelsea coach Jose Mourinho	be set	rest	ORGANIZATION	0
+1.0	Craig Bellamy	can add to	manager Rafael Benitez 's forward option	0	PERSON
+1.0	Chelsea 's injury list	include	John Terry	PERSON	PERSON
+1.0	Sam Allardyce	be manager of	Bolton	PERSON	PERSON
+0.8578912440037204	FA Cup holder	defence of	trophy	MISC	0
+1.0	Craig Bellamy	can now add to	manager Rafael Benitez 's forward option	0	PERSON
+1.0	Australia striker Harry Kewell	be	Mohammed Sissoko	LOCATION	PERSON
+1.0	Fulham	be on	Friday	LOCATION	DATE
+1.0	Chelsea coach Jose Mourinho	give	Frank Lampard	PERSON	PERSON
+1.0	Luis Boa Morte	should go into	straight West Ham 's xi	PERSON	LOCATION
+1.0	Sam Allardyce	be	Bolton	PERSON	PERSON
+1.0	Luis Boa Morte	should go into	West Ham 's xi for match Brighton	PERSON	LOCATION
+1.0	FA Cup holder	begin	defence of trophy	MISC	0
+0.8578912440037204	FA Cup holder	defence of	trophy at Anfield	MISC	LOCATION
+1.0	Australia striker Harry Kewell	be	Bolo Zenden	LOCATION	PERSON
+1.0	Chelsea coach Jose Mourinho	give match	Frank Lampard	PERSON	PERSON
+1.0	Luis Boa Morte	should go into	West Ham 's start xi for match against League one Brighton	PERSON	LOCATION
+0.022440233804983056	Chelsea coach Jose Mourinho	rest at	Stamford Bridge	ORGANIZATION	LOCATION
+1.0	Wales	be	fit again	LOCATION	0
+1.0	trophy	have	defence	O	O
+1.0	Luis Boa Morte	should go into	West Ham 's start xi for match Brighton	PERSON	LOCATION
+1.0	Harry Kewell	be striker of	Australia	PERSON	LOCATION
+1.0	Chelsea	have	lengthy injury list	PERSON	0
+1.0	Australia striker Harry Kewell	however be	Mohammed Sissoko	LOCATION	PERSON
+1.0	Australia striker Harry Kewell	however be out	Bolo Zenden	LOCATION	PERSON
+1.0	Chelsea 's lengthy injury list	include	Petr Cech	PERSON	PERSON
+1.0	Jose Mourinho	be coach of	Chelsea	PERSON	ORGANIZATION
+1.0	Chelsea coach Jose Mourinho	rest macclesfield at	Stamford Bridge	ORGANIZATION	LOCATION
+1.0	Chelsea coach Jose Mourinho	rest	few of he first Macclesfield	ORGANIZATION	ORDINAL
+1.0	Stelios Giannakopoulos	remain	Quinton Fortune	PERSON	PERSON
+1.0	Craig Bellamy	play for	Liverpool	PERSON	ORGANIZATION
+1.0	Luis Boa Morte	should go into	straight West Ham 's xi for match against League one Brighton	PERSON	LOCATION
+1.0	Julio Baptista	return to	squad	PERSON	0
+1.0	Chelsea coach Jose Mourinho	have	first	ORDINAL	O
+1.0	Harry Kewell	be	Australia	PERSON	LOCATION
+1.0	Craig Bellamy	can add to	manager Rafael Benitez 's option	0	PERSON
+1.0	Luis Boa Morte	have	move	O	O

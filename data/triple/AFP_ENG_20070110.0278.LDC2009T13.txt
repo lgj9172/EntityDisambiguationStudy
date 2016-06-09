@@ -1,0 +1,40 @@
+1.0	Bentley	have	Oyster Bar	PERSON	MISC
+1.0	restaurant	adopt	practice widespread in country	0	0
+1.0	people	have	groups	O	O
+1.0	London	emerge at_time	Wednesday	0	DATE
+1.0	some	be penalise no-show to	tune of up 30 pound	0	MONEY
+1.0	Fat duck	be in	Bray	0	LOCATION
+1.0	Bentley	have	Oyster Bar	MISC	PERSON
+1.0	restaurant	be in	London	0	LOCATION
+1.0	London	have	Evening Standard newspaper	O	LOCATION
+1.0	Bentley 's	tell	Evening Standard	0	TIME
+1.0	restaurant	adopt	practice widespread in country like United States	0	LOCATION
+1.0	practice	widespread in	country like United States	0	LOCATION
+1.0	restaurant	adopt	practice already widespread	0	0
+1.0	practice	already widespread in	country	0	0
+1.0	pounds	have	tune	O	MONEY
+0.9377218557436122	roast	located in	foodie haven Borough Market	0	0
+1.0	Gaby Huddart	editor of	Square Meal restaurant guide	PERSON	ORGANIZATION
+1.0	some	be penalise no-show to	tune	0	0
+1.0	Oyster Bar	be in	West End theatre district	MISC	LOCATION
+1.0	eateries	have	Some	O	O
+1.0	some	be penalise no-show to	tune per person	0	0
+1.0	London	have	west	O	LOCATION
+1.0	restaurant	adopt	practice widespread	0	0
+1.0	some	be penalise	no-show	0	0
+1.0	London	have	Evening Standard newspaper	LOCATION	ORGANIZATION
+1.0	people	have	lot	O	O
+1.0	restaurant	adopt	practice already widespread in country like United States	0	LOCATION
+1.0	Square Meal restaurant guide	have	editor	O	O
+1.0	capital	have	eateries	O	O
+1.0	some	be penalise no-show to	tune of up 30 pound per person	0	MONEY
+0.7051684910649592	two city centre restaurant	contact by	AFP	0	ORGANIZATION
+1.0	Some of the capital 's glitziest eateries	have	revenues	O	O
+1.0	Some of the capital 's glitziest eateries	impose fee as	way	0	0
+1.0	restaurant	adopt	practice already widespread in country	0	0
+1.0	practice	already widespread in	country like United States	0	LOCATION
+1.0	capital	of	glitziest eaterie	0	0
+1.0	Fat duck	west of	London	0	LOCATION
+0.9377218557436122	roast	located in	historic foodie haven Borough Market	0	0
+1.0	practice	widespread in	country	0	0
+1.0	Some of the capital 's glitziest eateries	impose	fee	0	0

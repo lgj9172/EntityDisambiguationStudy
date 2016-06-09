@@ -1,0 +1,21 @@
+1.0	France	have	Vincent Vittoz	PERSON	LOCATION
+1.0	Tour Ski	have	stage	O	MISC
+1.0	Alexander Legkov	be of	Germany	PERSON	LOCATION
+1.0	frenchman	finish of	russian Alexander Legkov of Germany	0	LOCATION
+1.0	Alexander Legkov	be of	russian	PERSON	0
+1.0	frenchman	finish ahead of	russian Alexander Legkov of Germany	0	LOCATION
+1.0	Alexander Legkov	have	finished	O	PERSON
+1.0	Germany	have	Alexander Legkov	PERSON	LOCATION
+1.0	Tuesday the second	stage of	Tour de Ski	DATE	MISC
+1.0	frenchman	finish ahead of	Alexander Legkov	0	PERSON
+1.0	frenchman	finish ahead of	russian Alexander Legkov	0	PERSON
+1.0	France	have	Vincent Vittoz	LOCATION	PERSON
+1.0	frenchman	finish of	Alexander Legkov of Germany	0	LOCATION
+1.0	France 's Vincent Vittoz	win	man 's country pursuit race	LOCATION	0
+1.0	frenchman	finish of	Alexander Legkov	0	PERSON
+1.0	Tobias Angerer	have	finished	O	PERSON
+1.0	man	have	cross country pursuit race	0	0
+1.0	France 's Vincent Vittoz	win	man 's cross country pursuit race	LOCATION	0
+1.0	frenchman	finish ahead of	Alexander Legkov of Germany	0	LOCATION
+1.0	frenchman	finish of	russian Alexander Legkov	0	PERSON
+1.0	men	have	country pursuit race	O	O

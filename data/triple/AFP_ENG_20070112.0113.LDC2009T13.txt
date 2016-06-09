@@ -1,0 +1,55 @@
+1.0	Association	create earlier	free-trade zone	ORGANIZATION	0
+1.0	Association	face	financial might	ORGANIZATION	0
+1.0	global terrorism	have assume	new form of virulence	0	0
+1.0	region	be in	shape of Jemaah Islamiyah	0	0
+1.0	summit	will also see	adoption	0	0
+1.0	the leaders	have	summit	O	O
+1.0	leader	meet on	Saturday	0	DATE
+1.0	Association	face	increase financial might of China	ORGANIZATION	ORGANIZATION
+1.0	terrorism	have assume	form	0	0
+1.0	Association	face	might	ORGANIZATION	0
+1.0	its first anti-terrorism convention	extradite	suspect	0	0
+1.0	this weekend	at	summit	DATE	0
+1.0	leader	meet in	resort	0	0
+1.0	the 40-year-old group 's	have	convention	O	O
+1.0	Association	face	increase financial might	ORGANIZATION	0
+1.0	group	have	charter	O	O
+1.0	terrorism	have assume	form of virulence	0	0
+1.0	India	have	might	O	LOCATION
+1.0	blueprint	have	adoption	O	O
+1.0	Southeast Asian Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	terrorism	have assume	new form of virulence	0	0
+1.0	Association	face	financial might of China	ORGANIZATION	ORGANIZATION
+1.0	Association	create earlier	zone	ORGANIZATION	0
+1.0	central role	be in	economy across Southeast Asia	0	LOCATION
+1.0	global terrorism	have assume	new form	0	0
+1.0	40-year-old group	have	first-ever charter	DURATION	0
+1.0	agreement	be	intend	0	0
+1.0	Jemaah Islamiyah	have	shape	O	O
+1.0	host nation	say at_time	Friday	0	DATE
+1.0	summit	will see	adoption	0	0
+1.0	China	have	might	O	LOCATION
+1.0	global terrorism	have assume	form	0	0
+1.0	Association	face	increase might of China	ORGANIZATION	ORGANIZATION
+1.0	Association	create zone earlier by	2015	ORGANIZATION	DATE
+1.0	Association	face	might of China	ORGANIZATION	ORGANIZATION
+1.0	Association	face	increase might	ORGANIZATION	0
+1.0	terror	have	threat	O	O
+1.0	summit	will also see	adoption of blueprint	0	0
+1.0	terrorism	have assume	new form	0	0
+1.0	Association	create	free-trade zone	ORGANIZATION	0
+1.0	Cebu	have	resort	O	LOCATION
+1.0	weekend	have	summit	O	DATE
+1.0	workers	have	rights	O	O
+1.0	Alberto Romulo	be	Philippine	PERSON	MISC
+1.0	leader	meet on	Saturday for they summit	0	DATE
+1.0	Association	create	zone	ORGANIZATION	0
+1.0	leader	meet in	resort of Cebu	0	LOCATION
+1.0	summit	will see	adoption of blueprint	0	0
+1.0	Association	create zone by	2015	ORGANIZATION	DATE
+1.0	separate agreement	be	intend	0	0
+1.0	extremist groups	have	shape	O	O
+1.0	people	have	movement	O	O
+1.0	global terrorism	have assume	form of virulence	0	0
+1.0	virulence	have	forms	O	O
+1.0	money	have	movement	O	O

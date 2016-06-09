@@ -1,0 +1,56 @@
+1.0	the PSNI	have follow	reform	ORGANIZATION	0
+1.0	job	be in	Police Service of Northern Ireland	0	LOCATION
+1.0	it	be	final block	0	0
+1.0	Poles	join	irish police	0	0
+1.0	salary	be	20,000 pound per year	0	MONEY
+1.0	Army	have	wing	O	ORGANIZATION
+1.0	Northern Ireland	have	Police Service	O	LOCATION
+1.0	it	be final block on	path	0	0
+1.0	it	be final stumbling block on	path	0	0
+1.0	it	be	major final stumbling block	0	0
+1.0	it	be	major block	0	0
+1.0	2006	have	end	DATE	DATE
+1.0	Poles	join	northern police	0	0
+1.0	basic salary	be	20,000 pound per year	0	MONEY
+1.0	it	be	block	0	0
+1.0	it	be	major stumbling block	0	0
+1.0	it	be stumbling block on	path	0	0
+1.0	salary	be	20,000 pound	0	MONEY
+1.0	Catholics	have	number	O	MISC
+1.0	968	be percent of	applicant	NUMBER	0
+1.0	PSNI	have	percent	PERCENT	ORGANIZATION
+1.0	it	be major final stumbling block on	path	0	0
+1.0	police officer	injure in	Northern Ireland	0	LOCATION
+1.0	it	be	final stumbling block	0	0
+1.0	basic salary	be	20,000 pound	0	MONEY
+1.0	power-sharing government	be in	province	0	0
+1.0	Ireland	have	Republic	LOCATION	LOCATION
+1.0	Northern Ireland	have	biggest catholic party	LOCATION	0
+1.0	candidates	have	968	NUMBER	O
+1.0	police officer	have	salary	O	O
+1.0	year	per pound be	39,000 dollar	DURATION	MONEY
+1.0	it	be	stumbling block	0	0
+1.0	applicants	have	percent	PERCENT	O
+1.0	the PSNI	have follow	reform install in 2000	ORGANIZATION	DATE
+1.0	police officer	injure during	Troubles	0	0
+1.0	Poles	have apply accord to	statistics publish Thursday	0	DATE
+1.0	Poles	join	northern irish police	0	0
+1.0	968	be polish percent of	applicant	NUMBER	0
+1.0	it	be major stumbling block on	path	0	0
+1.0	1.6-million Northern	have	percent	PERCENT	MISC
+1.0	police officer	be	kill	0	0
+1.0	Poland	join european union in	May 2004	LOCATION	DATE
+1.0	it	be major block on	path	0	0
+1.0	Poles	have apply accord to	statistics	0	0
+1.0	Northern Ireland	have	party	O	LOCATION
+1.0	the PSNI	recruit	one Catholic for Protestant	ORGANIZATION	NUMBER
+1.0	the PSNI	have follow	reform install	ORGANIZATION	0
+1.0	it	be	major final block	0	0
+1.0	whom	have	277	NUMBER	O
+1.0	Poles	have migrate to	Northern Ireland -LRB- PSNI -RRB-	0	LOCATION
+1.0	Poles	join	police	0	0
+1.0	the PSNI	redress	balance	ORGANIZATION	0
+1.0	it	be major final block on	path	0	0
+1.0	Poles	have apply accord to	statistics publish	0	0
+1.0	it	be block on	path	0	0
+1.0	Poland	join	European Union	LOCATION	ORGANIZATION

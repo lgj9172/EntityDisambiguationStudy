@@ -1,0 +1,183 @@
+0.9555154934457469	vote	likely in	House	0	ORGANIZATION
+1.0	the 132,000 US troops	have	leadership	O	O
+1.0	Jack Reed	be democrat of	Senate	PERSON	ORGANIZATION
+1.0	they	ready	they challenge	0	0
+1.0	the Democrats '	have	plan	O	O
+1.0	Minutes	salvage	Iraq	DURATION	ORGANIZATION
+1.0	forces	have	redeployment	O	O
+1.0	they	far have agree upon	tough new oversight	0	0
+1.0	his	have	party	ORGANIZATION	O
+1.0	their	have	challenge	O	O
+1.0	vote likely	condemn	troop deployment	0	0
+1.0	he	tell us television after	speech	0	0
+0.9555154934457469	vote	likely in	House of Representatives	0	ORGANIZATION
+1.0	Senate	have	number	O	ORGANIZATION
+1.0	Bush	get	prior congressional approval	PERSON	0
+1.0	they	far have agree upon	oversight	0	0
+1.0	Iraq policy	revamp	begin Thursday	LOCATION	DATE
+1.0	Bush	get	prior approval for new deployment	PERSON	0
+1.0	House Speaker Nancy Pelosi	provide	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	member	send	troops	0	0
+1.0	leadership	ready vote at_time	next week	0	DATE
+1.0	Republicans	have	majority	O	MISC
+1.0	George W. Bush	have	latest strategy	PERSON	0
+1.0	president	have	plan	O	O
+1.0	hearings	have	series	O	O
+1.0	Bush	have	Iraq policy	O	PERSON
+1.0	president	of	own party	0	0
+1.0	his	have	support	O	O
+1.0	John McCain	be	US	PERSON	LOCATION
+0.17974797504936701	House Speaker Nancy Pelosi	pledge	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	burden	begin	redeployment of we force	0	0
+1.0	Senate 's new Foreign Relations Committee chairman	say on	US television	ORGANIZATION	LOCATION
+1.0	we	need	course	0	0
+1.0	they	so far have agree upon	new oversight	0	0
+0.8278784599583923	party	latest effort by	White House	0	ORGANIZATION
+1.0	they	continue	they fight	0	0
+1.0	war	have	Escalation	O	O
+0.0025671451558210157	it	be	time stand	0	0
+1.0	our	have	military	O	O
+1.0	he	tell	US television	0	LOCATION
+1.0	democratic leadership	ready	symbolic vote	0	0
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	vote likely	condemn troop deployment at_time	week	0	DATE
+0.8278784599583923	party	ineffectual effort by	White House	0	ORGANIZATION
+1.0	best	respond to	he plan	0	0
+1.0	member	send troops to	Iraq	0	LOCATION
+1.0	vote likely	condemn	new troop deployment	0	0
+0.8278784599583923	party	just latest effort by	White House	0	ORGANIZATION
+1.0	plan	have	condemnation	O	O
+1.0	he	be among	chorus of democratic condemnation	0	0
+1.0	Bush	be	Tonight	PERSON	DATE
+1.0	they	so far have agree upon	tough new oversight	0	0
+1.0	leader	accuse	Bush fail	0	PERSON
+1.0	Senate 's Foreign Relations Committee chairman	say on	US television	ORGANIZATION	LOCATION
+1.0	they	have agree upon	new oversight	0	0
+1.0	Minutes	outline	last-ditch effort	DURATION	0
+1.0	president	have	attention	O	O
+1.0	party	have	members	O	O
+1.0	we	need	new course	0	0
+0.8278784599583923	party	effort by	White House	0	ORGANIZATION
+0.8278784599583923	party	as ineffectual effort by	White House	0	ORGANIZATION
+1.0	legislation	require	Bush	0	PERSON
+0.8278784599583923	party	as latest effort by	White House	0	ORGANIZATION
+1.0	Bush	be in	nationally-televised speech	PERSON	0
+1.0	Bush	get	prior congressional approval for new deployment	PERSON	0
+1.0	Nancy Pelosi	be	House	PERSON	ORGANIZATION
+1.0	runaway violence	be in	Iraq	0	LOCATION
+1.0	Bush	get	congressional approval for deployment	PERSON	0
+1.0	Edward Kennedy	opponent of	continue US military presence in Iraq	PERSON	LOCATION
+1.0	end	fail	policy	0	0
+1.0	Harry Reid	be majority leader of	Senate	PERSON	ORGANIZATION
+1.0	burden	begin	redeployment	0	0
+1.0	it	be	time	0	0
+1.0	president	for	plan	0	0
+0.8278784599583923	party	just latest ineffectual effort by	White House	0	ORGANIZATION
+1.0	House Speaker Nancy Pelosi	pledge	Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	Senator Hillary Clinton	lambast	Bush 's Iraq policy as mar by incompetence	PERSON	LOCATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	continue US military presence	be in	Iraq	LOCATION	LOCATION
+1.0	Republicans	soft-pedal	fact	MISC	0
+0.8278784599583923	party	as just latest ineffectual effort by	White House	0	ORGANIZATION
+0.0025671451558210157	it	be	time for Iraqis stand	0	MISC
+1.0	time	stand	they own nation	0	0
+1.0	US presence	have	opponent	O	O
+1.0	Bush	get	approval for deployment	PERSON	0
+1.0	democratic leader	accuse bush with	he plan	0	0
+1.0	Harry Reid	be	Senate	PERSON	ORGANIZATION
+1.0	Iraq	have	government	O	LOCATION
+1.0	Democrats	have	response	O	MISC
+1.0	Iraq policy	begin at_time	Thursday	LOCATION	DATE
+1.0	his	have	plan	O	O
+1.0	leadership	ready vote at_time	week	0	DATE
+0.8278784599583923	party	as just ineffectual effort by	White House	0	ORGANIZATION
+1.0	Reed	say at_time	Wednesday	PERSON	DATE
+1.0	leader	accuse bush with	he plan	0	0
+1.0	they	have agree upon	oversight	0	0
+1.0	party	have	defeat	O	ORGANIZATION
+1.0	Iraq policy	revamp at	series	LOCATION	0
+1.0	democratic leadership	ready vote at_time	week	0	DATE
+1.0	Bush	get	prior congressional approval for deployment	PERSON	0
+1.0	vote likely	condemn troop deployment at_time	next week	0	DATE
+1.0	Senator Edward Kennedy	introduce	legislation	PERSON	0
+1.0	Americans	have	majority	O	MISC
+0.8278784599583923	party	as effort by	White House	0	ORGANIZATION
+1.0	defeat	have	lessons	O	O
+1.0	Iraq policy	revamp	begin	LOCATION	0
+1.0	burden	begin	phased redeployment	0	0
+1.0	they	far have agree upon	tough oversight	0	0
+1.0	republican party	of	crush defeat	ORGANIZATION	0
+0.8278784599583923	party	latest ineffectual effort by	White House	0	ORGANIZATION
+1.0	he	be among	chorus of condemnation	0	0
+1.0	Bush	get	prior approval for deployment	PERSON	0
+1.0	vote	rebuff	additional deployment	0	0
+1.0	one exception	be	likely	0	0
+1.0	Bush	get	congressional approval for new deployment	PERSON	0
+1.0	president	have	party	O	O
+1.0	our	have	forces	O	O
+1.0	Senate	have	number	ORGANIZATION	0
+1.0	democratic leader	accuse	Bush	0	PERSON
+1.0	they	have agree upon	tough oversight	0	0
+1.0	they	so far have agree upon	oversight	0	0
+1.0	democratic leader	accuse	Bush fail	0	PERSON
+1.0	Minutes	outline	effort	DURATION	0
+1.0	rift	emerge among	they	0	0
+0.8278784599583923	party	as just effort by	White House	0	ORGANIZATION
+1.0	Senate	have	new Foreign Relations Committee chairman	ORGANIZATION	ORGANIZATION
+1.0	the Democrats '	slam	President George W. Bush 's strategy	MISC	PERSON
+1.0	they	so far have agree upon	tough oversight	0	0
+1.0	Senator Hillary Clinton	lambast	Bush 's Iraq policy as mar	PERSON	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	symbolic vote	rebuff	additional deployment	0	0
+1.0	time	stand	they nation	0	0
+1.0	this	be	new	0	0
+1.0	leader	accuse	Bush	0	PERSON
+0.8278784599583923	party	just ineffectual effort by	White House	0	ORGANIZATION
+1.0	vote	rebuff	deployment	0	0
+1.0	condemnation	have	chorus	O	O
+1.0	symbolic vote	rebuff	deployment	0	0
+1.0	Iraq policy	revamp at	series of hearing	LOCATION	0
+1.0	our	have	commanders	O	O
+1.0	Jack Reed	be	Senate	PERSON	ORGANIZATION
+1.0	leadership	ready	symbolic vote	0	0
+1.0	Minutes	salvage	Iraq	DURATION	LOCATION
+1.0	violence	have	control	O	O
+1.0	democratic leadership	ready	vote	0	0
+1.0	burden	begin	phased redeployment of we force	0	0
+0.8278784599583923	party	just effort by	White House	0	ORGANIZATION
+1.0	military	have	courage immense sacrifice	O	O
+1.0	president	have	attention	0	0
+1.0	member	send	new troops	0	0
+1.0	House Speaker Nancy Pelosi	provide	132,000 US troops	PERSON	LOCATION
+0.8278784599583923	party	as latest ineffectual effort by	White House	0	ORGANIZATION
+1.0	President George W. Bush	have	strategy	O	PERSON
+1.0	leader	accuse bush in	November election	0	DATE
+1.0	president	of	plan	0	0
+0.17974797504936701	they	need	continue	0	0
+1.0	Bush	get	approval	PERSON	0
+1.0	Bush	get	congressional approval	PERSON	0
+1.0	exception	be	likely	0	0
+1.0	Senator Edward Kennedy	introduce legislation at_time	Tuesday	PERSON	DATE
+1.0	Iraq policy	revamp at	series of congressional hearing	LOCATION	0
+1.0	democratic leadership	ready vote at_time	next week	0	DATE
+1.0	fresh US troops	have	nation	O	O
+1.0	democratic leader	accuse bush in	November election	0	DATE
+1.0	Democrats	have	majority	O	MISC
+1.0	Bush	get	approval for new deployment	PERSON	0
+1.0	they	far have agree upon	new oversight	0	0
+1.0	they	have agree upon	tough new oversight	0	0
+1.0	Bush	have	Iraq policy as mar by incompetence	PERSON	LOCATION
+1.0	leadership	ready	vote	0	0
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	their	have	fight	O	O
+1.0	Defense Secretary Robert Gates	have	Secretary	O	PERSON
+1.0	Senate	have	Foreign Relations Committee chairman	O	ORGANIZATION
+1.0	John McCain	be senator of	US	PERSON	LOCATION
+1.0	he	be among	chorus	0	0
+1.0	Bush	get	prior approval	PERSON	0
+0.8278784599583923	party	as just latest effort by	White House	0	ORGANIZATION
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	Joe Biden	be chairman of	Foreign Relations Committee	PERSON	ORGANIZATION
+1.0	the Democrats '	slam	President George W. Bush 's latest strategy	MISC	PERSON
+1.0	it	be time for	Iraqis	0	MISC
+1.0	they	forward ready	they challenge	0	0

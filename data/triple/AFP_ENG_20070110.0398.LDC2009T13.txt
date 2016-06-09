@@ -1,0 +1,43 @@
+1.0	similar referendum	be declare of	low turnout	0	0
+0.6277444666018778	similar referendum	hold in	1998	0	DATE
+1.0	referendum	be declare of	low turnout	0	0
+1.0	rape	have	cases	O	O
+1.0	meeting	be with	foreign reporter	0	0
+1.0	nation	on	abortion law	0	0
+1.0	month	have	referendum	O	DATE
+1.0	nation	have	laws	O	O
+1.0	changes	have	favour	O	O
+1.0	Portugal	have	exist abortion	LOCATION	0
+1.0	those	have	said	O	O
+1.0	restrictive	have	one	NUMBER	O
+1.0	ruling Socialist Party	have launch	poster campaign	ORGANIZATION	0
+1.0	10 eligible voter	in four be	plan stay away ballot box during next month 's referendum	NUMBER	DATE
+1.0	Portugal 's abortion	be	one of most restrictive in Europe	LOCATION	NUMBER
+1.0	Portugal 's exist abortion	be	one of restrictive in Europe	LOCATION	NUMBER
+1.0	next month	have	referendum in Portugal	DATE	LOCATION
+1.0	next month	during	referendum	DATE	0
+1.0	Portugal 's exist abortion	be	one of most restrictive	LOCATION	NUMBER
+1.0	voters	agree with	legalization of abortion for woman	DATE	0
+1.0	nation	have	strict law	0	0
+1.0	Portugal 's exist abortion	be	one of restrictive	LOCATION	NUMBER
+1.0	Portugal	have	abortion	O	LOCATION
+1.0	Portugal 's abortion	be	one of most restrictive	LOCATION	NUMBER
+1.0	similar referendum	be declare of	turnout	0	0
+1.0	Portugal 's abortion	be	one of restrictive	LOCATION	NUMBER
+1.0	Portugal 's exist abortion	be	one of most restrictive in Europe	LOCATION	NUMBER
+1.0	government cabinet minister	say at_time	Wednesday	0	DATE
+1.0	voters	agree up with	legalization	DATE	0
+1.0	woman	have	life	O	O
+1.0	next month 's referendum	be in	Portugal	DATE	LOCATION
+1.0	voters	agree up with	legalization of abortion for woman	DATE	0
+1.0	pregnancy	have	week	DATE	O
+1.0	referendum	be declare of	turnout	0	0
+1.0	abortion	have	legalization	O	O
+1.0	Portugal 's abortion	be	one of restrictive in Europe	LOCATION	NUMBER
+1.0	voters	agree with	legalization	DATE	0
+1.0	Correio da Manha	be in	daily	ORGANIZATION	ORGANIZATION
+1.0	side	have	favour	O	O
+0.6277444666018778	referendum	hold in	1998	0	DATE
+1.0	law	remain	same	0	0
+1.0	next month	's referendum be	poll publish earlier month in daily newspaper Correio da Manha	DATE	ORGANIZATION
+1.0	nation	have	abortion laws	O	O

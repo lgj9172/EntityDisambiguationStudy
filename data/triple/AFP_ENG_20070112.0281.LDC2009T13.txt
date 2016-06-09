@@ -1,0 +1,148 @@
+1.0	percent	have	analyst forecast	O	PERCENT
+1.0	rise	be	month lead in sale	0	DATE
+1.0	rise	be	month lead follow 2.9 percent increase in month	0	PERCENT
+1.0	sale	rise	robust 0.6 percent	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase in sale follow 2.9 percent increase	0	PERCENT
+1.0	5.4 percent	be in	the past year	PERCENT	DATE
+1.0	auto sale	remain in	month	0	DATE
+1.0	December 's rise	sharpest increase since	July	DATE	DATE
+1.0	retail sale	make	December 's rise sharpest increase	0	DATE
+1.0	sale	have rise	5.4 percent	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase in sale at gasoline station	0	PERCENT
+1.0	sale	be closely watch since	consumer spending account	0	0
+1.0	retail sale	make	December 's rise sharpest increase since July	0	DATE
+0.28627611980559997	sale	rise after	0.4 percent gain in November	0	DATE
+1.0	sale	be watch since	consumer spending account for about two	0	NUMBER
+1.0	rise	be	last month lead by 3.8 percent increase follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	month lead in sale follow 2.9 percent increase in month	0	PERCENT
+0.28627611980559997	sale	rise exclude	gasoline sale	0	0
+0.6368641194277541	0.7 percent increase	expect by	Wall Street analyst	PERCENT	0
+1.0	rise	be	last month lead in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+0.28627611980559997	retail sale	rise exclude	gasoline sale	0	0
+1.0	rise	be lead by	3.8 percent increase	0	PERCENT
+1.0	auto sale	rise	0.3 percent in December	0	PERCENT
+1.0	sale	make	December 's rise sharpest increase	0	DATE
+1.0	December	have	rise	O	DATE
+1.0	rise	be	lead by 3.8 percent increase in sale follow 2.9 percent increase in month	0	PERCENT
+1.0	retail sale	rise	0.6 percent	0	PERCENT
+1.0	rise	be	lead in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase follow 2.9 percent increase	0	PERCENT
+1.0	auto sale	remain	unchanged	0	0
+1.0	rise	be	lead by 3.8 percent increase follow 2.9 percent increase in month	0	PERCENT
+1.0	US retail sale	increase	0.9 percent	LOCATION	PERCENT
+1.0	rise	be	lead by 3.8 percent increase in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	gain	be stronger than	0.7 percent increase	0	PERCENT
+1.0	rise	be	last month lead in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	retail sale	rise	robust 0.6 percent	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+1.0	sale	make	December 's rise increase since July	0	DATE
+1.0	auto sale	remain in	prior month	0	DATE
+1.0	rise	be	month lead by 3.8 percent increase	0	PERCENT
+1.0	rise	be	lead in sale follow 2.9 percent increase	0	PERCENT
+1.0	December	have	rise	DATE	0
+1.0	rise	be lead in	sale at gasoline station	0	0
+1.0	rise	be	month lead by 3.8 percent increase in sale	0	PERCENT
+1.0	0.4 percent gain	be in	November	PERCENT	DATE
+1.0	rise	be lead in	sale	0	0
+0.28627611980559997	retail sale	rise in	month	0	DATE
+1.0	Commerce Department report	exclude	automobile sale	ORGANIZATION	0
+1.0	US sale	increase	0.9 percent	LOCATION	PERCENT
+1.0	gain	be stronger than	0.7 percent increase expect	0	PERCENT
+1.0	weakness	be in	other segment of economy	0	0
+1.0	retail sale	be watch since	consumer spending account	0	0
+1.0	retail sale	have rise	5.4 percent	0	PERCENT
+1.0	rise	be lead follow	2.9 percent increase	0	PERCENT
+1.0	rise	be	last month lead by 3.8 percent increase follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be	lead by 3.8 percent increase follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	last month lead in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT
+0.28627611980559997	sale	rise after	0.4 percent gain	0	PERCENT
+1.0	sale	make	December 's rise increase	0	DATE
+1.0	gain	be stronger than	0.7 percent increase expect by Wall Street analyst	0	PERCENT
+1.0	rise	be lead follow	2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	month lead in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT
+1.0	retail sale	be	closely watch	0	0
+1.0	rise	be	last month lead in sale follow 2.9 percent increase	0	PERCENT
+1.0	economy	have	segments	O	O
+1.0	rise	be	last month lead by 3.8 percent increase in sale	0	PERCENT
+1.0	rise	be	last month lead in sale follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be	lead by 3.8 percent increase in sale follow 2.9 percent increase	0	PERCENT
+1.0	rise	be	month lead in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+1.0	0.9 percent	be in	December	PERCENT	DATE
+1.0	retail sale	have rise	5.4 percent in past year	0	PERCENT
+1.0	rise	be	month lead follow 2.9 percent increase in prior month	0	PERCENT
+1.0	0.3 percent	be in	December	PERCENT	DATE
+1.0	rise	be	last month lead in sale	0	DATE
+1.0	rise	be	lead in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	lead in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+1.0	rise	be	last month lead by 3.8 percent increase in sale follow 2.9 percent increase in month	0	PERCENT
+1.0	December	have	increase	DATE	0
+1.0	rise	be	last month lead in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+1.0	retail sale	make	December 's rise increase	0	DATE
+1.0	rise	be	month lead by 3.8 percent increase follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be	lead by 3.8 percent increase in sale at gasoline station	0	PERCENT
+1.0	rise	be	last month lead by 3.8 percent increase follow 2.9 percent increase	0	PERCENT
+1.0	rise	be	month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+1.0	retail sale	be closely watch since	consumer spending account	0	0
+1.0	rise	be	lead by 3.8 percent increase in sale	0	PERCENT
+1.0	rise	be	lead in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	auto sale	rise	0.3 percent	0	PERCENT
+1.0	November	have	increase	O	DATE
+1.0	US sale	increase	0.9 percent in December	LOCATION	PERCENT
+1.0	rise	be lead follow	2.9 percent increase in month	0	PERCENT
+1.0	rise	be	lead	0	0
+1.0	rise	be	month lead follow 2.9 percent increase	0	PERCENT
+1.0	rise	be	last month lead in sale at gasoline station	0	DATE
+1.0	rise	be	month lead by 3.8 percent increase follow 2.9 percent increase in prior month	0	PERCENT
+1.0	retail sale	be closely watch since	consumer spending account for about two	0	NUMBER
+1.0	retail sale	make	December 's rise increase since July	0	DATE
+1.0	2.9 percent increase	be in	the prior month	PERCENT	DATE
+1.0	December 's increase	be largest since	July	DATE	DATE
+1.0	rise	be	last month lead follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	lead in sale follow 2.9 percent increase in month	0	PERCENT
+1.0	consumer	still open	they wallet	0	0
+1.0	rise	be	lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT
+1.0	rise	be lead at_time	last month	0	DATE
+1.0	Commerce Department report	exclude	volatile automobile sale	ORGANIZATION	0
+1.0	rise	be	month lead by 3.8 percent increase in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	month lead in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+1.0	December	have	increase	O	DATE
+1.0	retail sale	be	watch	0	0
+0.28627611980559997	retail sale	rise after	0.4 percent gain in November	0	DATE
+1.0	sale	make	December 's rise sharpest increase since July	0	DATE
+1.0	gain	be	stronger	0	0
+1.0	consumer	open	they wallet	0	0
+1.0	Commerce Department report	show	sale	ORGANIZATION	0
+1.0	sale	be	watch	0	0
+1.0	rise	be	last month lead by 3.8 percent increase in sale follow 2.9 percent increase	0	PERCENT
+1.0	wealth effect	have	reversal	O	O
+1.0	consumers	have	wallets	O	O
+1.0	rise	be	lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+0.28627611980559997	sale	rise in	month	0	DATE
+1.0	rise	be	last month lead by 3.8 percent increase in sale at gasoline station	0	PERCENT
+1.0	rise	be	last month lead follow 2.9 percent increase	0	PERCENT
+1.0	retail sale	be watch since	consumer spending account for about two	0	NUMBER
+1.0	rise	be	lead by 3.8 percent increase follow 2.9 percent increase	0	PERCENT
+1.0	rise	be	last month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in prior month	0	PERCENT
+1.0	rise	be	last month lead follow 2.9 percent increase in month	0	PERCENT
+0.28627611980559997	retail sale	rise after	0.4 percent gain	0	PERCENT
+1.0	US retail sale	increase	0.9 percent in December	LOCATION	PERCENT
+1.0	sale	be closely watch since	consumer spending account for about two	0	NUMBER
+1.0	rise	be	month lead in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	sale	be watch since	consumer spending account	0	0
+1.0	rise	be	month lead in sale follow 2.9 percent increase	0	PERCENT
+1.0	sale	have rise	5.4 percent in past year	0	PERCENT
+1.0	rise	be	last month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase	0	PERCENT
+1.0	December 's increase	be	largest	DATE	0
+1.0	sale	be	closely watch	0	0
+1.0	rise	be	last month lead by 3.8 percent increase in sale follow 2.9 percent increase in prior month	0	PERCENT
+1.0	sale	rise	0.6 percent	0	PERCENT
+1.0	rise	be lead at_time	month	0	DATE
+1.0	rise	be	month lead by 3.8 percent increase in sale follow 2.9 percent increase in month	0	PERCENT
+1.0	datum	show at_time	Friday	0	DATE
+1.0	December 's rise	increase since	July	DATE	DATE
+1.0	activity	have	thirds	O	O
+1.0	rise	be	last month lead by 3.8 percent increase	0	PERCENT
+1.0	rise	be	month lead in sale at gasoline station	0	DATE
+1.0	rise	be	last month lead by 3.8 percent increase in sale at gasoline station follow 2.9 percent increase in month	0	PERCENT

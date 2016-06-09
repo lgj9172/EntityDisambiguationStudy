@@ -1,0 +1,43 @@
+1.0	prison	be in	central city of Isfahan	0	LOCATION
+1.0	executions	have	number	O	O
+1.0	Isfahan	have	city	O	LOCATION
+1.0	people	be	last year execute in Iran	0	DATE
+1.0	people	be execute in	Iran	0	LOCATION
+1.0	they	bring to	at least four number of execution	DATE	NUMBER
+1.0	people	accord to	afp tally	0	0
+1.0	they	bring far to	at least four number of execution	DATE	NUMBER
+1.0	Iran	be in	2005	LOCATION	DATE
+1.0	three woman	be in	Tehran 's	NUMBER	LOCATION
+1.0	Rasoul	be by	first	PERSON	ORDINAL
+1.0	they	bring far to	at least four number of execution in Iran	DATE	NUMBER
+1.0	Tehran	have	prison	O	LOCATION
+1.0	hanging	be	all	0	0
+1.0	three women in Tehran	have	bodies	O	O
+1.0	Capital offence	repeat	sodomy	0	0
+1.0	they	bring far to	at least four number	DATE	NUMBER
+1.0	94 execution	be in	Iran	NUMBER	LOCATION
+1.0	they	bring so far to	at least four number	DATE	NUMBER
+1.0	they	bring so far to	at least four number of execution in Iran	DATE	NUMBER
+1.0	2,160 dollar	be in	desert area on outskirts of Tehran	MONEY	LOCATION
+1.0	they	bring to	at least four number	DATE	NUMBER
+1.0	press report	say on	Thursday	0	DATE
+1.0	people	be execute at_time	last year	0	DATE
+1.0	they	bring to	at least four number of execution in Iran	DATE	NUMBER
+1.0	Capital offence	include	murder robbery serious drug trafficking	0	0
+1.0	Qader	be by	first	PERSON	ORDINAL
+1.0	people	accord to	afp tally base	0	0
+1.0	Another murderer	have	name Qader	PERSON	O
+1.0	Capital offence	include	murder robbery drug trafficking	0	0
+1.0	Tehran	have	main prison	LOCATION	0
+1.0	building	have	sewage	O	O
+1.0	execution	be in	Iran	0	LOCATION
+1.0	they	bring so far to	at least four number of execution	DATE	NUMBER
+1.0	Capital offence	include	murder armed robbery serious drug trafficking	0	0
+1.0	Capital offence	include	murder armed robbery drug trafficking	0	0
+1.0	A third man	have	name Rasoul	PERSON	O
+1.0	Tehran 's	have	outskirts	O	LOCATION
+1.0	people	be	year execute in Iran	0	DATE
+1.0	Capital offence	be in	islamic republic	0	0
+1.0	people	be execute at_time	year	0	DATE
+1.0	people	accord to	afp tally base on press report	0	0
+1.0	people	be	execute	0	0

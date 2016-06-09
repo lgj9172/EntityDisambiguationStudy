@@ -1,0 +1,79 @@
+1.0	peace laureate Aung San Suu Kyi	say	party head by detain Nobel	PERSON	MISC
+1.0	UN security Council	decide with	United States	ORGANIZATION	LOCATION
+1.0	United States	submit draft resolution to	UN security Council	LOCATION	ORGANIZATION
+1.0	peace laureate Aung San Suu Kyi	say	party	PERSON	0
+1.0	text	be	amend	0	0
+1.0	UN security Council	put myanmar in	September	ORGANIZATION	DATE
+1.0	situation	pose	serious risk	0	0
+0.6900679939199892	serious risk	situation in	nation	0	0
+0.6900679939199892	risk	overall situation in	nation	0	0
+1.0	Myanmar	have	have rule	LOCATION	0
+1.0	Myanmar 's opposition National League	urge	UN security Council	ORGANIZATION	ORGANIZATION
+1.0	United States	submit	draft resolution	LOCATION	0
+1.0	Myanmar	have	allies	O	LOCATION
+1.0	situation	pose risk in	region	0	0
+1.0	text	be version of	draft	0	0
+1.0	it	also call for	release	0	DURATION
+1.0	it	call for	release of prisoner	0	DURATION
+1.0	China	however have question	need for resolution	LOCATION	0
+1.0	UN security Council	decide at_time	last year	ORGANIZATION	DATE
+1.0	text	be	version	0	0
+0.6900679939199892	serious risk	overall situation in	nation	0	0
+1.0	China	veto	Russia	LOCATION	LOCATION
+1.0	it	also call for	release of political prisoner	0	DURATION
+1.0	China	veto	move	LOCATION	0
+1.0	text	be	slightly amend version	0	0
+1.0	National League for Democracy	be on	Thursday	ORGANIZATION	DATE
+1.0	text	be	amend version	0	0
+1.0	democratic reform	be in	military-ruled nation	ORGANIZATION	0
+1.0	China	veto move by	Security Council	LOCATION	ORGANIZATION
+0.6900679939199892	serious risk	situation in	military-run nation	0	0
+0.6900679939199892	risk	situation in	nation	0	0
+1.0	prisoners	have	release	O	O
+1.0	UN security Council	support	US draft resolution	ORGANIZATION	LOCATION
+1.0	overall situation	pose	serious risk	0	0
+1.0	China	have question	need for resolution	LOCATION	0
+1.0	UN security Council	put	Myanmar on its agenda	ORGANIZATION	LOCATION
+1.0	text	be amend version of	draft	0	0
+1.0	overall situation	be in	military-run nation	0	0
+1.0	Aung San Suu Kyi	be leader of	NLD	PERSON	ORGANIZATION
+1.0	United Nations Security Council	have	members	O	ORGANIZATION
+1.0	draft resolution	express	concern	0	0
+1.0	United States	be on	Tuesday	LOCATION	DATE
+0.6900679939199892	risk	situation in	military-run nation	0	0
+1.0	peace laureate Aung San Suu Kyi	say	party head	PERSON	0
+1.0	Myanmar	have	have rule by military since 1962	LOCATION	DATE
+1.0	UN security Council	support	US draft resolution call for reform	ORGANIZATION	LOCATION
+1.0	it	call for	release of political prisoner	0	DURATION
+1.0	allies	have	two	NUMBER	O
+1.0	Myanmar	have	National League for Democracy	LOCATION	ORGANIZATION
+0.6900679939199892	serious risk	overall situation in	military-run nation	0	0
+1.0	draft	have	version	O	O
+1.0	overall situation	pose	risk	0	0
+1.0	it	call for	release	0	DURATION
+1.0	China	two of	Myanmar 's closest ally	LOCATION	LOCATION
+1.0	UN security Council	put	Myanmar	ORGANIZATION	LOCATION
+1.0	situation	pose	risk	0	0
+1.0	UN security Council	decide at_time	year	ORGANIZATION	DATE
+1.0	Aung San Suu Kyi	have	NLD party	O	PERSON
+1.0	UN security Council	support	US draft resolution call for democratic reform	ORGANIZATION	LOCATION
+0.6900679939199892	risk	overall situation in	military-run nation	0	0
+1.0	Myanmar	have	have rule by military	LOCATION	0
+1.0	Aung San Suu Kyi	be include	NLD	PERSON	ORGANIZATION
+1.0	text	be slightly amend version of	draft	0	0
+1.0	China	veto move by	15-member Security Council	LOCATION	ORGANIZATION
+1.0	its	have	agenda	O	O
+1.0	China	however have question	need	LOCATION	0
+1.0	Myanmar	of	closest ally	LOCATION	0
+1.0	punitive action	be in	propose draft resolution	0	0
+1.0	Myanmar	have	opposition National League	ORGANIZATION	LOCATION
+1.0	it	also call for	release of prisoner	0	DURATION
+1.0	overall situation	pose risk to	peace	0	0
+1.0	UN security Council	support	US draft resolution call	ORGANIZATION	LOCATION
+1.0	overall situation	pose risk in	region	0	0
+1.0	China	have question	need	LOCATION	0
+1.0	reconciliation	have	establishment	O	O
+1.0	National League for Democracy	be opposition of	Myanmar	ORGANIZATION	LOCATION
+1.0	peace laureate Aung San Suu Kyi	say	party head by Nobel	PERSON	MISC
+1.0	situation	pose risk to	peace	0	0
+1.0	dialogue	have	way	O	O

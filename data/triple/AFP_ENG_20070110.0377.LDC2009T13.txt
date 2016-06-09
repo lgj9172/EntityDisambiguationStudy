@@ -1,0 +1,42 @@
+1.0	dispute	renew fear about	Russia 's reliability	0	LOCATION
+1.0	prime minister 's spokesman	clear way to	resolution of dispute	0	0
+1.0	minister	have	spokesman	O	O
+1.0	Belarus	be on	Wednesday	LOCATION	DATE
+1.0	Russia	have	reliability	O	LOCATION
+1.0	prime minister	have	spokesman	0	0
+1.0	dispute	renew	fear	0	0
+1.0	supplies	be	when interrupt	0	0
+1.0	President Alexander Lukashenko	have	office	O	PERSON
+1.0	Europe	to pipeline be	friendship	LOCATION	0
+1.0	dispute	renew	european fear	0	0
+1.0	Europe	be via	Belarus	LOCATION	LOCATION
+0.8678009004184376	Prime Minister Sergei Sidorsky	say after	government meeting	PERSON	0
+1.0	minister 's spokesman	tell	AFP	0	ORGANIZATION
+1.0	Alexander Lukashenko	be 's	belarussian	PERSON	0
+1.0	prime minister 's spokesman	tell	AFP	0	ORGANIZATION
+1.0	spokesman Alexander Timoshenko	quote	Prime Minister Sergei Sidorsky say after government meeting	PERSON	PERSON
+1.0	spokesman Alexander Timoshenko	quote	Prime Minister Sergei Sidorsky	PERSON	PERSON
+1.0	tariff	be	cancel	0	0
+1.0	supplies	be	interrupt	0	0
+1.0	supplies	be	when interrupt on Monday	0	DATE
+1.0	minister 's spokesman	clear way to	resolution of dispute	0	0
+1.0	prime minister 's spokesman	clear	way	0	0
+1.0	oil exports	have	third	ORDINAL	O
+1.0	spokesman Alexander Timoshenko	quote	Prime Minister Sergei Sidorsky say	PERSON	PERSON
+1.0	Wednesday	say	he	DATE	0
+1.0	dispute	have	resolution	O	O
+1.0	EU oil consumption	have	Druzhba accounts	O	O
+1.0	percent	have	third	ORDINAL	PERCENT
+1.0	dispute	renew fear about	Russia 's reliability as energy supplier	0	LOCATION
+1.0	prime minister 's spokesman	clear way to	resolution	0	0
+1.0	supplies	be interrupt on	Monday	0	DATE
+1.0	minister 's spokesman	clear way to	resolution	0	0
+1.0	Alexander Lukashenko	have	office	PERSON	0
+1.0	Viktor Khristenko	be	Russian	PERSON	LOCATION
+1.0	situation	have	resolution	O	O
+1.0	minister 's spokesman	clear	way	0	0
+1.0	its	have	territory	O	O
+1.0	Russia	about	reliability as energy supplier	LOCATION	0
+1.0	Vladimir Putin	be	Russian	PERSON	MISC
+1.0	Wednesday	earlier say	he	DATE	0
+1.0	Russia	from pipeline be	friendship	LOCATION	0

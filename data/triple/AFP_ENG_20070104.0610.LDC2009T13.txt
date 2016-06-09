@@ -1,0 +1,32 @@
+1.0	report	say at_time	Friday	0	DATE
+1.0	mile	have	two-thirds	O	O
+1.0	Railways engineer	have	Ministry	ORGANIZATION	O
+1.0	huawu	be	quote	0	0
+1.0	railway ministry	expect work on	link	0	0
+1.0	he huawu	be engineer of	Ministry of Railways	0	ORGANIZATION
+1.0	China	have	parliament	O	LOCATION
+1.0	work	begin by	end	0	DATE
+1.0	kilometer	per yuan be	Ministry of Railways	0	ORGANIZATION
+1.0	project	need	approve	0	0
+1.0	China	have	parliament	LOCATION	0
+0.10229525773632098	railway ministry	expect on	1,320-kilometre link	0	0
+1.0	similar line	be in	South Korea	0	LOCATION
+0.10229525773632098	railway ministry	expect on	link	0	0
+1.0	year	have	end	DATE	DATE
+1.0	kilometres	have	speeds	O	O
+1.0	railway ministry	expect work on	1,320-kilometre link	0	0
+0.10229525773632098	railway ministry	expect	begin	0	0
+1.0	yuan	have	price tag	O	MONEY
+1.0	project	be approve by	National People 's Congress	0	ORGANIZATION
+1.0	project	be	approve	0	0
+1.0	National People	have	Congress	ORGANIZATION	ORGANIZATION
+1.0	National People 's Congress	's congress be	parliament	ORGANIZATION	0
+1.0	China	have	cabinet	O	LOCATION
+0.10229525773632098	railway ministry	expect	begin by end	0	DATE
+1.0	railway ministry	expect	work	0	0
+1.0	cost	have	third	ORDINAL	O
+1.0	project	be approve by	China 's parliament	0	ORGANIZATION
+1.0	line	have	cost	O	O
+1.0	kilometer	per yuan be	third	0	ORDINAL
+1.0	project	need	approve by National People 's Congress	0	ORGANIZATION
+1.0	China	have	cabinet	LOCATION	0

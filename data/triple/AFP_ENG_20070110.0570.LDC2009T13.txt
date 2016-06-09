@@ -1,0 +1,69 @@
+1.0	expensive drug cocktail	be in	in develop country short supply	0	0
+1.0	short supply	be in	develop country	0	0
+1.0	mother	be likely without	treatment	0	0
+1.0	treatment	say	study	DURATION	0
+1.0	pregnant woman	pass hiv to	she child	0	0
+1.0	single dose	be all	available to hiv	0	0
+1.0	expensive drug cocktail	be in	in country short supply	0	0
+1.0	antiretroviral drug cocktail	be in	in country short supply	0	0
+1.0	woman	pass	hiv	0	0
+1.0	that	be	available	0	0
+1.0	mother	be	more likely	0	0
+1.0	expensive drug cocktail	be in	supply	0	0
+1.0	expensive antiretroviral drug cocktail	be in	supply	0	0
+1.0	this	create	terrible dilemma	0	0
+1.0	mother	pass hiv to	she child	0	0
+1.0	antiretroviral drug cocktail	be in	in develop country supply	0	0
+1.0	expensive drug cocktail	be in	in develop country supply	0	0
+1.0	delay treatment	say	study publish	DURATION	0
+1.0	that	be available to	hiv	0	0
+1.0	drug cocktail	be in	supply	0	0
+1.0	researcher	be in	article publish	0	0
+1.0	labor	reduce	they risk	0	0
+1.0	single dose	be often all	available	0	0
+1.0	women	have	treatment	O	O
+1.0	drug cocktail	be in	in develop country short supply	0	0
+1.0	this	create	dilemma for doctor	0	0
+1.0	pregnant woman	pass	hiv	0	0
+1.0	single dose	be often all	available to hiv	0	0
+1.0	drug cocktail	be in	short supply	0	0
+1.0	drug cocktail	be in	in develop country supply	0	0
+1.0	dose	be often all	available to hiv	0	0
+1.0	delay treatment	say	study	DURATION	0
+1.0	New England Journal	have	January issue	O	ORGANIZATION
+1.0	drug cocktail	be in	in country supply	0	0
+1.0	mothers	have	millions	O	O
+0.6775334439561684	this	dilemma for	doctor	0	0
+1.0	treatment	say	study publish	DURATION	0
+1.0	antiretroviral drug cocktail	be in	in develop country short supply	0	0
+1.0	antiretroviral drug cocktail	be in	short supply	0	0
+1.0	drug cocktail	be in	in country short supply	0	0
+1.0	expensive antiretroviral drug cocktail	be in	in country short supply	0	0
+1.0	a pregnant woman	have	child	O	O
+1.0	their	have	risk	O	O
+1.0	single dose	be all	available	0	0
+1.0	expensive drug cocktail	be in	short supply	0	0
+1.0	woman	pass hiv to	she child	0	0
+1.0	hiv-infected woman	be with	antiretroviral drug contain by at least six month	0	DURATION
+1.0	delay treatment	say	study publish Wednesday	DURATION	DATE
+1.0	dose	be all	available	0	0
+1.0	nevirapine	have	dose	O	O
+1.0	expensive antiretroviral drug cocktail	be in	in country supply	0	0
+1.0	women	have	percent	PERCENT	O
+1.0	a mother	have	child	O	O
+0.6775334439561684	this	terrible dilemma for	doctor	0	0
+1.0	mother	pass	hiv	0	0
+1.0	Medicine	have	New England Journal	ORGANIZATION	ORGANIZATION
+1.0	antiretroviral drug cocktail	be in	supply	0	0
+1.0	expensive drug cocktail	be in	in country supply	0	0
+1.0	expensive antiretroviral drug cocktail	be in	in develop country supply	0	0
+1.0	antiretroviral drug cocktail	be in	in country supply	0	0
+1.0	expensive antiretroviral drug cocktail	be in	in develop country short supply	0	0
+1.0	dose	be all	available to hiv	0	0
+1.0	expensive antiretroviral drug cocktail	be in	short supply	0	0
+1.0	this	create	terrible dilemma for doctor	0	0
+1.0	mother	be	likely	0	0
+1.0	dose	be often all	available	0	0
+1.0	this	create	dilemma	0	0
+1.0	treatment	say	study publish Wednesday	DURATION	DATE
+1.0	mother	be more likely without	treatment	0	0

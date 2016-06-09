@@ -1,0 +1,35 @@
+1.0	army	launch operation on	Thursday	0	DATE
+1.0	incursion	be in	Doha	0	LOCATION
+1.0	army incursion	be in	West Bank	0	LOCATION
+1.0	army	launch	operation	0	0
+1.0	man	be	kill	0	0
+1.0	army	launch operation in	Ramallah	0	LOCATION
+1.0	Prime Minister Ehud Olmert	express	regret	PERSON	0
+1.0	army incursion	be in	Ramallah	0	LOCATION
+1.0	army incursion	kill	four Palestinians	0	NUMBER
+1.0	hold talk	be in	Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	Ehud Olmert	be on	Thursday	PERSON	DATE
+1.0	israeli army	launch operation on	Thursday	0	DATE
+1.0	israeli Prime Minister Ehud Olmert	express	regret	PERSON	0
+1.0	israeli army	launch operation in	Ramallah	0	LOCATION
+1.0	army	launch operation in	central Ramallah	0	LOCATION
+1.0	israeli army	launch operation with	dozen israeli army jeep	0	NUMBER
+1.0	israeli army	launch	major operation	0	0
+1.0	israeli army	launch operation with	dozen army jeep	0	NUMBER
+1.0	israeli army	launch operation in	central Ramallah	0	LOCATION
+1.0	israeli army	launch	operation	0	0
+1.0	Israeli Prime Minister Ehud Olmert on Thursday	tell news conference with	egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	Bethlehem	have	suburb	O	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert on Thursday	tell	news conference	PERSON	0
+1.0	army	launch operation with	dozen army jeep	0	NUMBER
+1.0	Israeli Prime Minister Ehud Olmert on Thursday	tell news conference with	President Hosni Mubarak	PERSON	PERSON
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	four man	be	kill	0	0
+1.0	army	launch operation with	dozen israeli army jeep	0	NUMBER
+1.0	Israeli Prime Minister Ehud Olmert on Thursday	tell news conference after	talk	PERSON	0
+1.0	Doha	suburb of	Bethlehem	LOCATION	LOCATION
+1.0	Hosni Mubarak	be with	egyptian	PERSON	0
+1.0	Israel	have	security	O	O
+1.0	army	launch	major operation	0	0
+1.0	Israeli Prime Minister Ehud Olmert on Thursday	tell	joint news conference	PERSON	0
+1.0	Sharm el-Sheikh	have	Red Sea resort	O	LOCATION

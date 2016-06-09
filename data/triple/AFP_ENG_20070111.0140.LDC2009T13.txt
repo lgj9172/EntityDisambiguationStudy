@@ -1,0 +1,19 @@
+1.0	overnight	damage	four bank	TIME	NUMBER
+1.0	Liberation	have	Revolutionary Action	ORGANIZATION	ORGANIZATION
+1.0	group	claim	author of three attack	0	NUMBER
+1.0	group	emerge in	January 2006	0	DATE
+1.0	group	emerge	claim	0	0
+1.0	attack	be	common	0	0
+1.0	group	claim	author	0	0
+1.0	group	first emerge	claim	0	0
+1.0	group	first emerge in	January 2006	0	DATE
+1.0	attacks	have	authors	O	O
+1.0	attack	be in	Greece	0	LOCATION
+1.0	group	claim	author of three attack against bank	0	NUMBER
+1.0	group	claim	author of three similar attack	0	NUMBER
+1.0	group	claim	author of three similar attack against bank	0	NUMBER
+1.0	group	claim	responsibility	0	0
+1.0	overnight	damage	office	TIME	0
+1.0	overnight	damage	office belong to ruling	TIME	0
+1.0	New Democracy party	have	office	O	O
+1.0	overnight	damage	office belong	TIME	0

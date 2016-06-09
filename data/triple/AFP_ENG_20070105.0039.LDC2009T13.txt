@@ -1,0 +1,93 @@
+1.0	Thais	have	number	O	MISC
+1.0	center	have	director	O	O
+1.0	people	visit	Thailand	0	LOCATION
+1.0	Tourism	be	money spinner generate about six percent of gross product	0	PERCENT
+1.0	Tourism	be	money spinner generate	0	0
+1.0	Tourism	be	key money spinner generate	0	0
+1.0	damage	result from	original projection	0	0
+1.0	growth	drop in	worst-case scenario	0	0
+1.0	13.45 million people	visit	generate tourism income	NUMBER	0
+1.0	percent	have	projection	O	PERCENT
+1.0	13.45 million people	visit	Thailand	NUMBER	LOCATION
+1.0	Tourism	be	money spinner generate about six percent	0	PERCENT
+1.0	Tourism	be	key money spinner for Thailand generate about six percent	0	PERCENT
+1.0	Tourism	be	key money spinner generate about six percent	0	PERCENT
+1.0	Tourism	be	money spinner generate about six percent of product	0	PERCENT
+1.0	13.45 million people	visit	generate tourism income of 428 billion baht	NUMBER	MONEY
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of gross domestic product	0	PERCENT
+1.0	damage	result in	half-point decline in first quarter gdp	0	DATE
+1.0	tourists	have	number	O	O
+1.0	its	have	GDP forecast	O	O
+1.0	deadly bombing	be in	Bangkok	0	LOCATION
+1.0	damage	result in	decline in quarter gdp	0	DATE
+1.0	Thailand	income of	428 billion baht	LOCATION	MONEY
+1.0	Tourism	be	key money spinner generate about six percent of gross product	0	PERCENT
+1.0	economic growth	drop in	worst-case scenario	0	0
+1.0	centre	have	earlier forecast	0	0
+1.0	people	visit	generate tourism income	0	0
+1.0	Tourism	be	money spinner for Thailand generate about six percent	0	PERCENT
+1.0	blast	be	expect	0	0
+1.0	damage	result in	decline	0	0
+1.0	13.45 million people	visit	tourism income of 428 billion baht	NUMBER	MONEY
+1.0	Tourism	be	money spinner	0	0
+1.0	people	visit	generate tourism income of 428 billion baht	0	MONEY
+1.0	Tourism	be	money spinner for Thailand generate about six percent of domestic product	0	PERCENT
+1.0	damage	result in	half-point decline	0	0
+1.0	baht	have	tourism income	O	MONEY
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of gross product	0	PERCENT
+1.0	damage	result from	projection	0	0
+1.0	lead think-tank	say at_time	Friday	0	DATE
+1.0	number	will drop from	we projection	0	0
+1.0	Tourism	be	money spinner for Thailand generate about six percent of product	0	PERCENT
+1.0	number	will drop from	we previous projection	0	0
+1.0	damage	result from	original projection of 4.0 percent	0	PERCENT
+1.0	year	have	Thailand	LOCATION	DATE
+1.0	Tourism	be	key	0	0
+1.0	damage	result from	projection of 4.0 percent	0	PERCENT
+1.0	unrest	have	months	DURATION	O
+1.0	the four million tourists expected to visit Thailand in the first three months of the year	have	trips	O	O
+1.0	Prime Minister Surayud Chulanont	warn at_time	Friday	PERSON	DATE
+1.0	Tourism	be	money spinner for Thailand generate about six percent of gross product	0	PERCENT
+1.0	Tourism	be	money spinner for Thailand	0	LOCATION
+1.0	Tourism	be	money spinner generate about six percent of gross domestic product	0	PERCENT
+1.0	product	have	percent	PERCENT	O
+1.0	centre	have	forecast	0	0
+1.0	Thais	brace for	at least month of unrest	MISC	DURATION
+1.0	Tourism	be	key money spinner	0	0
+1.0	he	tell	reporter	0	0
+1.0	percent	have	range	O	PERCENT
+1.0	damage	result in	half-point decline in quarter gdp	0	DATE
+1.0	think-tank	say at_time	Friday	0	DATE
+1.0	13.45 million people	have	projection	O	O
+1.0	Tourism	be	money spinner generate about six percent of domestic product	0	PERCENT
+1.0	economic growth	drop by	1.0 percent	0	PERCENT
+1.0	army-installed Prime Minister Surayud Chulanont	warn at_time	Friday	PERSON	DATE
+1.0	Thais	brace for	month of political unrest	MISC	0
+1.0	Thais	brace for	month	MISC	0
+1.0	Tourism	be	key money spinner for Thailand	0	LOCATION
+1.0	Thailand	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	growth	drop by	1.0 percent	0	PERCENT
+1.0	people	visit	tourism income	0	0
+1.0	growth	drop in	scenario	0	0
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of product	0	PERCENT
+1.0	economic growth	drop in	scenario	0	0
+1.0	Tourism	be	money spinner for Thailand generate about six percent of gross domestic product	0	PERCENT
+1.0	Thanavath	say apart from	tourism	PERSON	0
+1.0	Thailand	be of	the first three month of the year may	LOCATION	DATE
+1.0	damage	result in	decline in first quarter gdp	0	DATE
+1.0	foreigners	have	number	O	O
+1.0	Tourism	be	key money spinner generate about six percent of domestic product	0	PERCENT
+1.0	Tourism	be	key money spinner generate about six percent of gross domestic product	0	PERCENT
+1.0	Thais	brace for	month of unrest	MISC	0
+1.0	Thais	brace for	at least month	MISC	DURATION
+1.0	Tourism	be	money spinner for Thailand generate	0	LOCATION
+1.0	Tourism	be	key money spinner for Thailand generate	0	LOCATION
+1.0	Thailand	be in	the first three month of the year may	LOCATION	DATE
+1.0	13.45 million people	visit	tourism income	NUMBER	0
+1.0	Thais	brace for	at least month of political unrest	MISC	DURATION
+1.0	Surayud Chulanont	be	army-installed	PERSON	0
+1.0	people	visit	tourism income of 428 billion baht	0	MONEY
+1.0	half-point decline	be in	first quarter gdp	0	DATE
+1.0	Tourism	be	key money spinner generate about six percent of product	0	PERCENT
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of domestic product	0	PERCENT
+1.0	tourists	have	percent	PERCENT	O

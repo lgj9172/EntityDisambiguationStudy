@@ -1,0 +1,97 @@
+0.8575634000170774	british officer	serve in	Iraq	0	LOCATION
+0.8575634000170774	unnamed senior british officer	serve in	Iraq quote	0	LOCATION
+0.8575634000170774	unnamed senior british officer	serve in	Iraq quote by Telegraph	0	LOCATION
+1.0	spokesman	comment on	specifics	0	0
+0.8575634000170774	unnamed british officer	serve in	Iraq	0	LOCATION
+1.0	Americans	face	problem of violence	MISC	0
+1.0	British Prime Minister Tony Blair	will announce	decision	PERSON	0
+1.0	Tony Blair	be	British	PERSON	MISC
+1.0	US President George W. Bush	order about	21,500 more US soldier	LOCATION	LOCATION
+1.0	Queen	have	Royal Lancers	ORGANIZATION	ORGANIZATION
+1.0	Americans	face	gargantuan problem	MISC	0
+1.0	Daily Telegraph	report on	Thursday	ORGANIZATION	DATE
+0.8575634000170774	british officer	serve in	Iraq quote	0	LOCATION
+0.7967794054115543	Americans	problem of	violence	MISC	0
+1.0	British Prime Minister Tony Blair	will announce decision accord to	Telegraph	PERSON	ORGANIZATION
+1.0	situation	be	different	0	0
+1.0	its troops	have	position	O	O
+1.0	its	have	troops	O	O
+1.0	US President George W. Bush	be set	order about 21,500 US soldier	LOCATION	LOCATION
+1.0	7,200	of level be	vast majority station in south	NUMBER	0
+1.0	spring	have	end	O	DATE
+1.0	7,200	have	level	O	NUMBER
+1.0	Americans	face	gargantuan problem of sectarian violence	MISC	0
+0.8575634000170774	unnamed british officer	serve in	Iraq quote by Telegraph	0	LOCATION
+0.8575634000170774	unnamed officer	serve in	Iraq quote by Telegraph	0	LOCATION
+0.8575634000170774	senior british officer	serve in	Iraq quote	0	LOCATION
+1.0	it	be intend as	signal of achievement make by force	0	0
+1.0	british force	be in	Iraq	0	LOCATION
+0.8575634000170774	senior officer	serve in	Iraq	0	LOCATION
+1.0	spokesman	decline	comment on specifics of report	0	ORGANIZATION
+0.7967794054115543	Americans	problem of	sectarian violence	MISC	0
+0.8575634000170774	senior officer	serve in	Iraq quote by Telegraph	0	LOCATION
+1.0	Americans	face	problem	MISC	0
+1.0	Britain	have	troops	O	O
+1.0	Americans	face	gargantuan problem of violence	MISC	0
+1.0	Britain be United States 's closest partner	be in	2003 invasion of Iraq	LOCATION	LOCATION
+0.8575634000170774	unnamed senior officer	serve in	Iraq quote by Telegraph	0	LOCATION
+0.8575634000170774	officer	serve in	Iraq	0	LOCATION
+0.8575634000170774	unnamed senior british officer	serve in	Iraq	0	LOCATION
+1.0	Britain	have	second there	LOCATION	ORDINAL
+1.0	US President George W. Bush	order about	21,500 US soldier	LOCATION	LOCATION
+1.0	newspaper	cite	timetable for british withdrawal	0	0
+1.0	it	be intend as	signal of achievement make	0	0
+1.0	it	be intend as	signal of achievement	0	0
+1.0	May	have	end	DATE	DATE
+1.0	spokesman	comment on	specifics of report	0	ORGANIZATION
+0.8575634000170774	unnamed senior officer	serve in	Iraq	0	LOCATION
+0.8575634000170774	senior british officer	serve in	Iraq quote by Telegraph	0	LOCATION
+1.0	Defence	have	Ministry	ORGANIZATION	ORGANIZATION
+0.8575634000170774	unnamed officer	serve in	Iraq	0	LOCATION
+1.0	it	be intend as	signal of achievement make by british force in Iraq	0	LOCATION
+1.0	spokesman	decline	comment on specifics	0	0
+1.0	Our position on withdrawal from Iraq	have	have base	0	0
+1.0	US President George W. Bush	be set	order about 21,500 US soldier to Iraq	LOCATION	LOCATION
+1.0	violence	have	problem	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+0.8575634000170774	unnamed senior officer	serve in	Iraq quote	0	LOCATION
+1.0	report	have	specifics	O	O
+1.0	British Prime Minister Tony Blair	will announce decision within	two week	PERSON	DURATION
+1.0	February	have	end	DATE	DATE
+1.0	US President George W. Bush	be set	order about 21,500 more US soldier	LOCATION	LOCATION
+1.0	soldiers	have	number	O	O
+1.0	he	be	due	0	0
+0.7967794054115543	Americans	gargantuan problem of	sectarian violence	MISC	0
+1.0	achievements	have	signal	O	O
+1.0	spokesman	decline	comment	0	0
+1.0	troops	have	2,700	NUMBER	O
+1.0	Americans	face	problem of sectarian violence	MISC	0
+1.0	Iraq	have	invasion	O	LOCATION
+0.8575634000170774	officer	serve in	Iraq quote by Telegraph	0	LOCATION
+1.0	US President George W. Bush	be set	order about 21,500 more US soldier to Iraq	LOCATION	LOCATION
+1.0	Britain	overthrow	Saddam Hussein	LOCATION	PERSON
+1.0	Britain	have	second	LOCATION	ORDINAL
+1.0	Our position on withdrawal from Iraq	have	always have base	0	0
+0.8575634000170774	unnamed officer	serve in	Iraq quote	0	LOCATION
+1.0	US President George W. Bush	be	set	LOCATION	0
+1.0	US President George W. Bush	be set accord to	portion	LOCATION	0
+0.8575634000170774	officer	serve in	Iraq quote	0	LOCATION
+0.8575634000170774	british officer	serve in	Iraq quote by Telegraph	0	LOCATION
+0.7967794054115543	Americans	gargantuan problem of	violence	MISC	0
+1.0	United States	have	partner	O	LOCATION
+1.0	newspaper	cite	timetable for withdrawal	0	0
+0.8575634000170774	senior british officer	serve in	Iraq	0	LOCATION
+1.0	speech	have	portions	O	O
+1.0	British Prime Minister Tony Blair	will announce decision within	next two week	PERSON	DURATION
+1.0	it	be intend as	signal of achievement make by force in Iraq	0	LOCATION
+1.0	it	be intend as	signal of achievement make by british force	0	0
+0.8575634000170774	senior officer	serve in	Iraq quote	0	LOCATION
+1.0	it	be	intend	0	0
+1.0	it	be intend as	signal	0	0
+1.0	country	have	south	O	O
+1.0	Basra	have	troops	O	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	british soldier	be in	Iraq	0	LOCATION
+0.8575634000170774	unnamed british officer	serve in	Iraq quote	0	LOCATION
+1.0	US President George W. Bush	be set accord to	portion of speech	LOCATION	0
+1.0	newspaper	cite	timetable	0	0

@@ -1,0 +1,47 @@
+1.0	Charlton defender	be	send	PERSON	0
+1.0	Charlton manager Alan Pardew	say before	hearing	PERSON	0
+1.0	Alan Pardew	be	Charlton	PERSON	PERSON
+1.0	Osei Sankofa	be defender of	Charlton	PERSON	PERSON
+1.0	FA Cup	have	round	O	MISC
+1.0	Robin van Persie	be in	the 29th minute	PERSON	DATE
+1.0	Osei Sankofa	have	appeal	PERSON	0
+1.0	Charlton defender	be reject by	Football Association 's disciplinary commission	PERSON	ORGANIZATION
+1.0	Football Association	's commission be	fa	ORGANIZATION	0
+1.0	January league match	have	round	O	O
+1.0	Football Association	by	disciplinary commission	ORGANIZATION	0
+1.0	that	be	blow	0	0
+1.0	that	be	big blow	0	0
+1.0	defeat	leave charlton second-bottom in	table	0	0
+1.0	decision	be	triple	0	0
+1.0	defeat	leave	Charlton second-bottom	0	PERSON
+1.0	Charlton defender	be reject by	fa	PERSON	0
+1.0	Osei Sankofa 's	miss	club 's next two match away	0	NUMBER
+1.0	Gunners	go	fourth	0	ORDINAL
+1.0	Charlton defender	be reject at_time	Thursday	PERSON	DATE
+1.0	Osei Sankofa	have	appeal	O	PERSON
+1.0	Charlton defender	be	reject Thursday by Football Association 's commission	PERSON	ORGANIZATION
+1.0	Charlton defender	be reject by	Football Association 's commission	PERSON	ORGANIZATION
+1.0	club	have	matches	O	O
+1.0	Charlton defender	be	reject	PERSON	0
+1.0	Charlton defender	be	send off during 4-0 Premier League defeat against Arsenal	PERSON	ORGANIZATION
+1.0	that	be big blow for	team	0	0
+1.0	Osei Sankofa 's	miss	club 's two match away	0	NUMBER
+1.0	Osei Sankofa 's	pull	arsenal	PERSON	0
+1.0	Charlton defender	be	send off	PERSON	0
+1.0	van Persie	be	dutch	PERSON	0
+1.0	Charlton defender	be	reject Thursday by Football Association 's disciplinary commission	PERSON	ORGANIZATION
+1.0	Osei Sankofa 's	miss	club 's next two match away to Nottingham Forest	0	NUMBER
+1.0	that	be blow for	team	0	0
+1.0	Football Association	have	commission	O	ORGANIZATION
+1.0	Osei Sankofa 's	miss	club 's two match	0	NUMBER
+1.0	Alan Pardew	be manager of	Charlton	PERSON	PERSON
+1.0	Osei Sankofa 's	miss	club 's two match away to Nottingham Forest	0	NUMBER
+1.0	victory	move into	Champions League	0	MISC
+1.0	club	have	next two match away to Nottingham Forest	0	NUMBER
+1.0	Osei Sankofa 's	miss	club 's next two match	0	NUMBER
+1.0	Charlton defender	be	send off during Premier League defeat	PERSON	MISC
+1.0	Charlton defender	be	send off during 4-0 Premier League defeat	PERSON	MISC
+1.0	Charlton defender	be	send off during Premier League defeat against Arsenal	PERSON	ORGANIZATION
+1.0	Osei Sankofa 's	pull	back arsenal	PERSON	0
+1.0	Osei Sankofa 's	be	red-carded	PERSON	0
+1.0	that	be	big	0	0

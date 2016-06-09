@@ -1,0 +1,45 @@
+1.0	Abdirizaq Salah Sheekh	could return to	safe part of Somalia	0	LOCATION
+1.0	asylum	have	rules	O	O
+1.0	Abdirizaq Salah Sheekh	could return to	part of Somalia	0	LOCATION
+1.0	minority	have	member	O	O
+1.0	Abdirizaq Salah Sheekh	could return to	part	0	0
+1.0	three vulnerable group	be in	Somalia in 2003 claiming to have been persecuted as a member of an ethnic minority	NUMBER	LOCATION
+1.0	Abdirizaq Salah Sheekh	could return to	relatively safe part	0	0
+1.0	authorities	have	opposition	O	O
+1.0	somali refugee	be subject to	treatment	0	0
+1.0	somali refugee	be subject to	inhuman treatment	0	0
+1.0	people	have	individuals	O	O
+1.0	Somalia in 2003 claiming to have been persecuted as a member of an ethnic minority	have	part	O	LOCATION
+1.0	Article	have	violation	O	O
+1.0	refugee	be subject to	inhuman treatment	0	0
+1.0	expulsion	be in	violation of Convention	MISC	MISC
+1.0	expulsion	be in	violation of Article 3	MISC	MISC
+1.0	somali refugee	be	subject	0	0
+1.0	Convention	have	breach	O	MISC
+1.0	Abdirizaq Salah Sheekh	could return to	relatively safe part of Somalia	0	LOCATION
+1.0	Salah Sheekh	be allow	settle in	PERSON	0
+1.0	applicant	have	expulsion	O	O
+1.0	Somalia	be in	2003	LOCATION	DATE
+1.0	Somaliland	have	regions	O	LOCATION
+1.0	Abdirizaq Salah Sheekh	asylum on	grounds	0	0
+1.0	Human Rights	have	European Court	ORGANIZATION	ORGANIZATION
+1.0	membership	have	virtue	O	O
+1.0	Convention	have	violation	O	MISC
+1.0	Salah Sheekh	be	allow	PERSON	0
+1.0	refugee	be	subject	0	0
+1.0	situation	have	improvement	O	O
+1.0	situation	be in	Somalia	0	LOCATION
+1.0	persecution	have	cases	O	O
+1.0	Abdirizaq Salah Sheekh	have	persecution	O	O
+1.0	Abdirizaq Salah Sheekh	could return to	safe part	0	0
+1.0	Abdirizaq Salah Sheekh	have	membership	O	O
+1.0	A Somali refugee	be expel as	plan	0	0
+1.0	expulsion	be in	violation of european Convention	MISC	MISC
+1.0	minority clan	have	membership	O	O
+1.0	Puntland	have	regions	O	LOCATION
+1.0	refugee	be subject to	treatment	0	0
+1.0	Salah Sheekh	be allow	settle	PERSON	0
+1.0	expulsion	be in	violation of Article 3 of european Convention	MISC	MISC
+1.0	expulsion	be in	violation	MISC	MISC
+1.0	expulsion	be in	violation of Article 3 of Convention	MISC	MISC
+1.0	European Court	rule at_time	Thursday	ORGANIZATION	DATE

@@ -1,0 +1,43 @@
+1.0	Carlo Ponti	die at_time	Wednesday	0	DATE
+1.0	Ponti 's widow	be among	mourner	PERSON	0
+1.0	Ponti	have	widow	PERSON	0
+1.0	Loren	feature in	three dozen	PERSON	NUMBER
+1.0	Carlo Ponti	die at_time	early Wednesday	0	DATE
+1.0	spokesman	here tell afp near	Milan	0	LOCATION
+1.0	Ponti	work with	most	PERSON	0
+1.0	Carlo Ponti	be	bury Friday in he Magenta	PERSON	DATE
+1.0	Ponti	work include	compatriot Roberto Rossellini	PERSON	PERSON
+1.0	Carlo Ponti	die at	hospital	0	0
+1.0	Ponti	work with	most of director of he period	PERSON	0
+1.0	period	have	directors	O	O
+1.0	couple	have	son	0	0
+1.0	Roberto Rossellini	be	Federico Fellini	PERSON	PERSON
+1.0	Carlo Ponti	have	Magenta	O	O
+1.0	Carlo Ponti	have	productions	O	O
+1.0	Ponti 's widow	be among	mourner at mass	PERSON	0
+1.0	spokesman	tell	afp	0	0
+1.0	Carlo Ponti	be	bury Friday in he native Magenta	PERSON	DATE
+1.0	Carlo Ponti	have	marriage	O	O
+1.0	spokesman	tell afp near	Milan	0	LOCATION
+1.0	Sophia Loren	be widow of	Ponti	PERSON	PERSON
+1.0	Ponti	work with	most of great director	PERSON	0
+1.0	Carlo Ponti	die at	hospital in Geneva	0	LOCATION
+1.0	spokesman	here tell	afp	0	0
+0.9712646425946856	Loren	now	72	PERSON	NUMBER
+1.0	San Martino Basilica	have	spokesman	O	LOCATION
+1.0	Ponti	have	widow	O	PERSON
+1.0	Carlo Ponti	be bury at_time	Friday	PERSON	DATE
+1.0	Loren	feature in	three dozen of he production	PERSON	NUMBER
+1.0	Loren	feature in	some three dozen of he production	PERSON	NUMBER
+1.0	Carlo Ponti	be bury in	he Magenta	PERSON	0
+1.0	Loren	feature in	some three dozen	PERSON	NUMBER
+1.0	couple	have	sons	O	O
+1.0	his	have	period	O	O
+1.0	Carlo Ponti	be	bury	PERSON	0
+1.0	Ponti	work with	most of great director of he period	PERSON	0
+1.0	hospital	be in	Geneva	0	LOCATION
+1.0	directors	have	most	O	O
+1.0	Ponti 's widow	be among	mourner at funeral mass	PERSON	0
+1.0	productions	have	three dozen	NUMBER	O
+1.0	Carlo Ponti	be bury in	he native Magenta	PERSON	0
+1.0	Ponti	work with	most of director	PERSON	0

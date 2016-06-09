@@ -1,0 +1,90 @@
+1.0	Iraq	of	large Sunni minority	LOCATION	MISC
+1.0	one senior Bush aide	be put to	death	0	0
+1.0	National Security Agency	have	head	O	ORGANIZATION
+1.0	White House	challenge	report	ORGANIZATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	top military commander	be in	Iraq	0	LOCATION
+1.0	US military presence	be in	Iraq	LOCATION	LOCATION
+1.0	Bush 's personnel overhaul	follow	he decision	PERSON	0
+1.0	US President George W. Bush	move at_time	Thursday	LOCATION	DATE
+1.0	their	have	conversation	O	O
+1.0	Saddam	from	Saturday execution	PERSON	DATE
+1.0	his	have	captors	O	O
+1.0	Democrats	respond to	change	MISC	0
+1.0	Maliki	spark	charge	PERSON	0
+1.0	his	have	decision	O	O
+1.0	Bush	later say during	joint appearance	PERSON	0
+1.0	his	have	Sunni Muslims	MISC	O
+1.0	US President George W. Bush	move to	shuffle top intelligence	LOCATION	0
+1.0	Bush 's personnel overhaul	follow	he decision dump	PERSON	0
+1.0	US forces	have	head	O	O
+1.0	Bush	say during	public appearance	PERSON	0
+1.0	aide	say on	condition	0	0
+1.0	Robert Gates	have	favor	O	PERSON
+1.0	Saddam	have	Saturday execution	O	PERSON
+1.0	Snow	say at	at dictator	PERSON	0
+0.7946583494427483	day	unveil	he new Iraq strategy	0	LOCATION
+1.0	Bush	later say during	joint public appearance	PERSON	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	US President George W. Bush	hold	talk	LOCATION	0
+1.0	Maliki	reassure	George W. Bush	PERSON	PERSON
+0.7946583494427483	day	unveil	he Iraq strategy	0	LOCATION
+1.0	George Casey	be with	David Petraeus	PERSON	PERSON
+1.0	Bush	say during	joint public appearance	PERSON	0
+1.0	Saddam Hussein	of	execution	PERSON	0
+1.0	deputy	have	US Secretary	O	O
+1.0	Snow	say among	Sunni Muslims	PERSON	MISC
+1.0	they	talk about	importance	0	0
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	quality	have	nominees	O	O
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	execution	have	footage	O	O
+1.0	US President George W. Bush	hold talk with	official	LOCATION	0
+1.0	Iraq	have	Sunni minority	O	LOCATION
+1.0	US President George W. Bush	move to	diplomatic aide	LOCATION	0
+1.0	Saddam	have	execution	O	PERSON
+1.0	George W. Bush	have	war	O	O
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	US Congress	have	control	O	ORGANIZATION
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	John Negroponte	be spy chief of	US	PERSON	LOCATION
+1.0	Bush	say during	joint appearance	PERSON	0
+1.0	conversation	be with	Nuri al-Maliki	0	PERSON
+1.0	aide	say on	condition of anonymity	0	0
+1.0	US President George W. Bush	move to	shuffle intelligence	LOCATION	0
+1.0	Bush	later say during	appearance	PERSON	0
+1.0	Bush	later say during	public appearance	PERSON	0
+1.0	George W. Bush	have	personnel overhaul	O	PERSON
+1.0	George W. Bush	have	Iraq strategy	O	O
+1.0	order	be in	Baghdad	0	LOCATION
+0.7269768391885043	George W. Bush	fight	approach	PERSON	0
+1.0	their	have	translators	O	O
+1.0	Sunni minority	have	members	O	O
+0.6445317110961839	Bush	will name	current US ambassador	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Maliki	reassure	Bush about fallout	PERSON	PERSON
+1.0	oust dictator	over	hanging	0	0
+1.0	John Negroponte	be	US	PERSON	LOCATION
+1.0	Iraq	be	Zalmay Khalilzad	LOCATION	PERSON
+1.0	George W. Bush	have	plan	O	O
+1.0	one senior Bush aide	be	put	0	0
+0.6445317110961839	Bush	will name us ambassador to	Iraq	PERSON	LOCATION
+1.0	Saddam	have	execution	PERSON	0
+1.0	US President George W. Bush	hold talk with	top official	LOCATION	0
+1.0	US President George W. Bush	move to	aide	LOCATION	0
+1.0	Donald Rumsfeld	be in	favor of Robert Gates	PERSON	PERSON
+1.0	Condoleezza Rice	be 's	State Department	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	they	discuss	possible troop increase	0	0
+1.0	Bush	say during	appearance	PERSON	0
+1.0	John Abizaid	be at	Central command	PERSON	ORGANIZATION
+1.0	it	be	unclear	0	0
+1.0	Bush 's personnel overhaul	follow	he decision dump then	PERSON	0
+1.0	dictator	have	hanging	O	O
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	George W. Bush	have	personnel overhaul	PERSON	0
+0.6445317110961839	Bush	will name	US ambassador	PERSON	LOCATION
+1.0	US President George W. Bush	hold talk in	Baghdad	LOCATION	LOCATION
+1.0	US troops commitment	be in	Iraq	LOCATION	LOCATION
+1.0	anonymity	have	condition	O	O

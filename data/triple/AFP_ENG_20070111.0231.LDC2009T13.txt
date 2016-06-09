@@ -1,0 +1,93 @@
+1.0	funding	be	regular feature of country 's annual budget with much	0	SET
+1.0	special funding	be	regular feature of country 's annual budget with much	0	SET
+1.0	US embassy	be in	Tehran 's	LOCATION	LOCATION
+1.0	Tehran 's decision	come as	tit-for-tat move	LOCATION	0
+1.0	funding	be	feature of country 's annual budget with much of cash go	0	SET
+1.0	funding	be	regular	0	0
+1.0	funding	be feature with	much of cash	0	0
+1.0	country	of	annual budget	0	SET
+1.0	funding	be regular feature with	much of cash	0	0
+1.0	funding	be feature with	much	0	0
+1.0	budget	have	feature	O	O
+1.0	funding	be	regular feature of country 's annual budget with much of cash go	0	SET
+1.0	government	say on	Thursday	0	DATE
+1.0	special funding	be feature with	much of cash go	0	0
+1.0	special funding	be regular feature of	country 's budget	0	0
+1.0	special funding	be	regular feature of country 's budget with much of cash	0	0
+1.0	amount	be allocate at_time	last year	0	DATE
+1.0	special funding	be	feature of country 's budget with much	0	0
+1.0	Tehran	have	arch foe	LOCATION	0
+1.0	special funding	be regular feature with	much of cash go	0	0
+1.0	funding	be regular feature with	much	0	0
+1.0	special funding	be feature of	country 's budget	0	0
+1.0	US Congress	boost	democracy	ORGANIZATION	0
+1.0	special funding	be	regular feature	0	0
+1.0	similar amount	be allocate at_time	year	0	DATE
+1.0	funding	be	regular feature of country 's budget with much of cash	0	0
+1.0	Iran	sever relation follow	1979 Islamic revolution	LOCATION	DATE
+1.0	US Congress	boost	democracy in Iran	ORGANIZATION	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	funding	be	regular feature of country 's budget with much	0	0
+1.0	country	have	budget	O	O
+1.0	special funding	be	regular feature of country 's annual budget with much of cash	0	SET
+1.0	parliament	ago adopt	bill	0	0
+1.0	special funding	be	feature of country 's budget with much of cash	0	0
+1.0	special funding	be	feature of country 's annual budget with much of cash go	0	SET
+1.0	funding	be	feature of country 's budget with much	0	0
+1.0	Iran	sever relation in	1980	LOCATION	DATE
+1.0	regime	have	policies	O	O
+1.0	US embassy	have	takeover	O	O
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	government	daily say on	Thursday	0	DATE
+0.4947826167407238	government	spend	1.5 million dollar	0	MONEY
+1.0	funding	be feature with	much of cash go	0	0
+1.0	funding	be regular feature of	country 's budget	0	0
+1.0	funding	be	feature of country 's budget with much of cash	0	0
+1.0	Iran	sever	United States	LOCATION	LOCATION
+1.0	Tehran	have	decision	LOCATION	0
+1.0	Tehran 's decision	also come as	tit-for-tat move	LOCATION	0
+1.0	funding	be	feature of country 's budget with much of cash go	0	0
+1.0	special funding	be feature with	much	0	0
+1.0	Tehran 's decision	also come as	move	LOCATION	0
+1.0	special funding	be	feature of country 's budget with much of cash go	0	0
+1.0	amount	be	allocate	0	0
+1.0	special funding	be	regular feature of country 's budget with much	0	0
+1.0	Secretary	propose	budget	0	0
+1.0	funding	be feature of	country 's annual budget	0	SET
+1.0	special funding	be feature with	much of cash	0	0
+1.0	Tehran 's decision	come as	move	LOCATION	0
+1.0	US Congress	grant	75 million dollar	ORGANIZATION	MONEY
+1.0	similar amount	be allocate at_time	last year	0	DATE
+1.0	funding	be	feature	0	0
+1.0	special funding	be	regular feature of country 's budget with much of cash go	0	0
+1.0	special funding	be regular feature with	much	0	0
+1.0	regular feature	be with	much of cash go to state-sponsored body	0	0
+1.0	democracy	be in	Iran	0	LOCATION
+1.0	special funding	be	feature of country 's annual budget with much of cash	0	SET
+1.0	amount	be allocate at_time	year	0	DATE
+1.0	similar amount	be	allocate	0	0
+1.0	funding	be	regular feature	0	0
+1.0	funding	be feature of	country 's budget	0	0
+1.0	special funding	be	feature of country 's annual budget with much	0	SET
+1.0	special funding	be regular feature with	much of cash	0	0
+1.0	funding	be	feature of country 's annual budget with much of cash	0	SET
+1.0	Iran	sever	diplomatic relation	LOCATION	0
+1.0	Tehran	have	decision	O	LOCATION
+1.0	iranian meddling	be in	Iraq	0	LOCATION
+1.0	which	have	amount	O	O
+1.0	special funding	be	regular feature of country 's annual budget with much of cash go	0	SET
+1.0	special funding	be	feature	0	0
+1.0	special funding	be feature of	country 's annual budget	0	SET
+1.0	Tehran	have	arch foe	O	LOCATION
+1.0	funding	be regular feature with	much of cash go	0	0
+1.0	special funding	be regular feature of	country 's annual budget	0	SET
+1.0	funding	be	regular feature of country 's budget with much of cash go	0	0
+1.0	Iran	sever	relation	LOCATION	0
+1.0	US Congress	boost democracy in	February 2006	ORGANIZATION	DATE
+1.0	funding	be regular feature of	country 's annual budget	0	SET
+1.0	US Congress	boost democracy in	February	ORGANIZATION	DATE
+1.0	money	have	Part	O	O
+1.0	funding	be	feature of country 's annual budget with much	0	SET
+1.0	funding	be	regular feature of country 's annual budget with much of cash	0	SET
+1.0	parliament	adopt	bill	0	0
+1.0	cash	have	much	O	O

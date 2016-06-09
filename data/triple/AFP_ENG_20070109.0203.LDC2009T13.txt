@@ -1,0 +1,20 @@
+1.0	US official	be also engage	government	LOCATION	0
+1.0	US official	be engage	government	LOCATION	0
+1.0	California	have	Apple Computer	ORGANIZATION	LOCATION
+1.0	Carlos Gutierrez	say at	international technology policy forum	PERSON	0
+1.0	its	have	iTunes online music	O	O
+1.0	Carlos Gutierrez	say at	technology policy forum at Consumer Electronics Show	PERSON	0
+1.0	California	have	Apple Computer	LOCATION	ORGANIZATION
+1.0	Carlos Gutierrez	say in	Las Vegas	PERSON	LOCATION
+1.0	US official	be also engage	french government	LOCATION	0
+1.0	Carlos Gutierrez	say at	technology policy forum	PERSON	0
+1.0	standards	have	pockets	O	O
+1.0	Apple	have	ipod-itunes bond	ORGANIZATION	0
+1.0	world	at	largest consumer electronics	0	0
+1.0	world	have	consumer electronics	O	O
+1.0	decisions	have	takes	O	O
+1.0	US official	be engage	french government	LOCATION	0
+1.0	Carlos Gutierrez	say at	international technology policy forum at Consumer Electronics Show	PERSON	0
+1.0	Commerce	have	Department	ORGANIZATION	ORGANIZATION
+1.0	company	share	proprietary technology	0	0
+1.0	Apple	have	bond	O	ORGANIZATION

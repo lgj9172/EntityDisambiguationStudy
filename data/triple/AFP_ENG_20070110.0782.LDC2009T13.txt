@@ -1,0 +1,76 @@
+1.0	Noppadon Patama	be lawyer of	Thaksin	PERSON	PERSON
+1.0	Thaksin	have	passport	O	PERSON
+1.0	order	be	part of security clampdown follow bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	junta	have	crackdown on activity	0	0
+0.17241963259109505	Noppadon	have remain	hop	0	0
+1.0	order	be	part of security clampdown follow deadly bombing in Thai capital	0	MISC
+1.0	order	be part follow	bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	Thaksin	be in	September	PERSON	DATE
+1.0	order	be	part of security clampdown in Bangkok follow bombing	0	LOCATION
+1.0	security clampdown	be in	Bangkok	0	LOCATION
+1.0	Prime Minister Surayud Chulanont	have accuse	faction	PERSON	0
+1.0	Thaksin in September	have	one	NUMBER	O
+1.0	order	be	part of security clampdown in Bangkok follow bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	Thai premier	have	television coverage	O	O
+1.0	Hong Kong	be in	London	LOCATION	LOCATION
+1.0	announcement	come at_time	late Wednesday	0	DATE
+1.0	announcement	come amid	flurry of order	0	0
+1.0	Prime Minister Surayud Chulanont	have accuse	faction link	PERSON	0
+1.0	Noppadon	have remain since	then	0	0
+0.17241963259109505	Noppadon	hop with	stay in London Kong	0	LOCATION
+1.0	Prime Minister Surayud Chulanont	have accuse	faction link to Thaksin	PERSON	PERSON
+1.0	order	be part follow	deadly bombing	0	0
+1.0	The orders	have	flurry	O	O
+1.0	his	have	government	O	O
+1.0	order	be part follow	bombing in Thai capital	0	MISC
+1.0	Thaksin 's lawyer Noppadon Patama	tell	AFP	PERSON	ORGANIZATION
+0.5328212221721539	faction	link to	Thaksin	0	PERSON
+1.0	security clampdown	have	part	O	O
+1.0	army-installed Prime Minister Surayud Chulanont	have accuse	faction	PERSON	0
+1.0	Thaksin Shinawatra	say at_time	early Thursday	PERSON	DATE
+1.0	Noppadon	have remain in	exile	0	0
+1.0	announcement	come amid	flurry	0	0
+1.0	my	have	messages	O	O
+0.17241963259109505	Noppadon	have remain	hop with stay in London Kong	0	LOCATION
+1.0	stay	be in	Hong Kong	0	LOCATION
+1.0	order	be part of	security clampdown	0	0
+1.0	order	be	part of security clampdown in Bangkok follow bombing in Thai capital	0	MISC
+1.0	order	be part follow	deadly bombing in Thai capital	0	MISC
+1.0	Noppadon	hop globe with	stay in London Kong	0	LOCATION
+0.17241963259109505	Noppadon	hop with	stay	0	0
+1.0	deadly bombing	be in	Thai capital on New Year 's Eve	0	DATE
+1.0	New Year	have	Eve	DATE	DATE
+1.0	Noppadon	hop globe with	stay	0	0
+1.0	security situation	have	revoked	O	O
+1.0	Thaksin in September	have	wife	O	O
+1.0	Thaksin	be in	New York	PERSON	LOCATION
+1.0	order	be	part of security clampdown follow bombing in Thai capital	0	MISC
+1.0	army-installed Prime Minister Surayud Chulanont	have accuse	faction link	PERSON	0
+1.0	order	be	part of security clampdown follow deadly bombing	0	0
+1.0	order	be part follow	deadly bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	order	be part follow	bombing	0	0
+1.0	Army-installed Prime Minister Surayud Chulanont	have deny	involvement	0	0
+1.0	military	topple	he government	0	0
+1.0	Muslims	be in	Thailand	MISC	LOCATION
+1.0	order	be	part of security clampdown in Bangkok follow deadly bombing in Thai capital	0	MISC
+1.0	order	be	part of security clampdown follow bombing	0	0
+1.0	Thaksin	have	Noppadon Patama	PERSON	PERSON
+1.0	order	be	part of security clampdown in Bangkok follow deadly bombing	0	LOCATION
+1.0	Noppadon	have	briefings	O	O
+1.0	order	be	part	0	0
+1.0	Thaksin	have	passport	PERSON	0
+0.17241963259109505	Noppadon	have remain	hop with stay	0	0
+1.0	Thaksin	have	lawyer Noppadon Patama	PERSON	PERSON
+1.0	Thaksin in September	have	passport	O	O
+1.0	announcement	come at_time	Wednesday	0	DATE
+1.0	army-installed Prime Minister Surayud Chulanont	have accuse	faction link to Thaksin	PERSON	PERSON
+1.0	Thaksin in September	have	activities	O	O
+1.0	order	be part of	security clampdown in Bangkok	0	LOCATION
+1.0	junta	have	crackdown	O	O
+1.0	order	be	part of security clampdown follow deadly bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	order	be	part of security clampdown in Bangkok follow deadly bombing in Thai capital on New Year 's Eve	0	DATE
+1.0	Noppadon	hop	globe	0	0
+1.0	Thai premier	have	passport	O	O
+1.0	Surayud Chulanont	be	army-installed	PERSON	0
+1.0	Army-installed Prime Minister Surayud Chulanont	be	Surapong Jayanama	PERSON	PERSON
+1.0	Thai premier	have	activities	O	O

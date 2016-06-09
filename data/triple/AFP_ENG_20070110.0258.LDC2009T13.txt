@@ -1,0 +1,40 @@
+1.0	Belarus	have	presidents	O	LOCATION
+1.0	concrete proposal	submit	these	0	0
+1.0	minister	be	order	0	0
+1.0	prime minister	be	order	0	0
+1.0	Vladimir Putin	have	counterpart	O	O
+1.0	state	have	heads	O	O
+1.0	negotiator	be in	Moscow	0	LOCATION
+1.0	discussion	have	details	O	O
+1.0	problem questions	have	resolution	O	O
+1.0	Lukashenko	have	office	O	PERSON
+1.0	Belarus ' demand for a new transit tax	have	territory	O	O
+1.0	concrete proposal	submit	these for review	0	0
+1.0	Lukashenko	have	office	PERSON	0
+1.0	oil	have	transit	O	O
+1.0	Belarus	have	demand	O	LOCATION
+1.0	supplies	have	siphoning	O	O
+1.0	Russia	cut	flow	LOCATION	0
+1.0	russian news agency Interfax	quote kremlin spokesperson include	include energy sphere	ORGANIZATION	0
+1.0	Belarus	have	ministers	O	LOCATION
+1.0	Belarus presidency	say on	Wednesday	LOCATION	DATE
+1.0	dispute	have disrupt	oil supplies	0	0
+1.0	proposal	submit	these for review	0	0
+1.0	Lukashenko 's office	say in	telephone conversation	PERSON	0
+1.0	Belarus presidency	say in	statement	LOCATION	0
+1.0	telephone conversation	be	lengthy	0	0
+1.0	cooperation	have	questions	O	O
+1.0	Russia	cut flow through	pipeline on Monday	LOCATION	DATE
+1.0	telephone conversation	be lengthy accord to	statement	0	0
+1.0	Russia	have	presidents	O	LOCATION
+1.0	Russia	have	ministers	O	LOCATION
+1.0	proposal	submit	these	0	0
+1.0	situation	have	resolution	O	O
+1.0	negotiator	reportedly remain at	loggerheads	0	0
+1.0	Kremlin press service	confirm to	AFP	ORGANIZATION	0
+1.0	client	be in	European Union	0	ORGANIZATION
+1.0	Interfax	be	russian	ORGANIZATION	0
+1.0	news agency Interfax	quote kremlin spokesperson include	include energy sphere	ORGANIZATION	0
+1.0	Russia	cut flow through	pipeline	LOCATION	0
+1.0	problem	be with	transit of russian oil	0	0
+1.0	negotiator	remain at	loggerheads	0	0

@@ -1,0 +1,74 @@
+1.0	polish episcopate	call	meeting	0	0
+1.0	its worst crisis	be in	recent history	0	0
+1.0	Janusz Bielanski	work with	communist force	0	0
+1.0	polish episcopate	hastily call meeting in	face	0	0
+1.0	its permanent council	instance in	Catholic Church	0	ORGANIZATION
+1.0	Poland	have	Catholic Church	ORGANIZATION	LOCATION
+1.0	Poland 's Catholic Church	have	crisis	O	O
+0.06141471494456796	episcopate	hastily call in	face	0	0
+1.0	episcopate	hastily call	meeting	0	0
+1.0	episcopate	have	council	O	O
+1.0	Stanislaw Wielgus	resign at_time	last Sunday	PERSON	DATE
+1.0	polish episcopate	hastily call	meeting	0	0
+1.0	38.5 million	have	population	O	NUMBER
+1.0	deep crisis	be in	Catholic Church	0	ORGANIZATION
+1.0	Jozef Kloch	spokesman for	polish episcopate	PERSON	0
+1.0	polish bishop	hold	emergency meeting	0	0
+1.0	population	have	percent	PERCENT	O
+1.0	follow day	quit over	accusation	DATE	0
+1.0	Stanislaw Wielgus	collaborate with	communist-era secret police	0	0
+1.0	episcopate	call meeting in	face	0	0
+1.0	Stanislaw Wielgus	be officially consider	bishop	PERSON	0
+1.0	Stanislaw Wielgus	resign of	Warsaw	PERSON	LOCATION
+1.0	episcopate	hastily call meeting in	face	0	0
+1.0	problem	have	type	O	O
+1.0	bishop	hold emergency meeting at_time	Friday	0	DATE
+1.0	episcopate	call	meeting of its council	0	0
+0.32468555244207997	Stanislaw Wielgus	be	consider	PERSON	0
+1.0	Krakow Cathedral	have	canon	O	ORGANIZATION
+1.0	council	have	meeting	O	O
+1.0	episcopate	call	meeting	0	0
+1.0	the face of the crisis , which analysts have said has severely weakened the Polish Church	council	highest instance in Catholic Church	0	ORGANIZATION
+1.0	bishop	hold emergency meeting here at_time	Friday	0	DATE
+1.0	polish episcopate	call	meeting of its permanent council	0	0
+1.0	episcopate	hastily call	meeting of its council	0	0
+1.0	Janusz Bielanski	work with	reviled communist force	0	0
+1.0	Jozef Kloch	say at_time	Friday	PERSON	DATE
+1.0	council	have	immediate	O	O
+0.32468555244207997	Stanislaw Wielgus	be	officially consider	PERSON	0
+1.0	polish bishop	hold emergency meeting at_time	Friday	0	DATE
+1.0	day	also quit over	accusation	DATE	0
+1.0	polish bishop	hold here	emergency meeting	0	0
+1.0	episcopate	hastily call	meeting of its permanent council	0	0
+1.0	bishop	hold here	emergency meeting	0	0
+1.0	polish episcopate	hastily call	meeting of its council	0	0
+1.0	Warsaw	have	resigned	O	LOCATION
+1.0	Stanislaw Wielgus	be consider	retired bishop	PERSON	0
+1.0	day	quit over	accusation	DATE	0
+1.0	Stanislaw Wielgus	be officially consider	retired bishop	PERSON	0
+1.0	council	have	reporters	O	O
+1.0	polish episcopate	hastily call	meeting of its permanent council	0	0
+1.0	meeting	have	agenda	O	O
+1.0	episcopate	call	meeting of its permanent council	0	0
+1.0	polish episcopate	call	meeting of its council	0	0
+1.0	polish bishop	hold here	emergency high-level meeting	0	0
+1.0	bishop	hold here	emergency high-level meeting	0	0
+1.0	Stanislaw Wielgus	be consider	bishop	PERSON	0
+1.0	crisis	have	face	O	O
+1.0	Poland	in	Catholic Church	LOCATION	ORGANIZATION
+1.0	Stanislaw Wielgus	resign as	archbishop	PERSON	0
+1.0	bishop	hold	emergency high-level meeting	0	0
+1.0	polish bishop	hold	emergency high-level meeting	0	0
+0.06141471494456796	polish episcopate	call in	face	0	0
+1.0	days	have	events	O	DURATION
+1.0	polish episcopate	call meeting in	face	0	0
+1.0	Church	be in	Poland	0	LOCATION
+1.0	follow day	also quit over	accusation	DATE	0
+1.0	bishop	hold	emergency meeting	0	0
+0.06141471494456796	polish episcopate	hastily call in	face	0	0
+1.0	the face of the crisis , which analysts have said has severely weakened the Polish Church	have	council	O	O
+1.0	highest instance	be in	Catholic Church	0	ORGANIZATION
+1.0	Janusz Bielanski	canon of	Krakow Cathedral	PERSON	ORGANIZATION
+0.06141471494456796	episcopate	call in	face	0	0
+1.0	polish bishop	hold emergency meeting here at_time	Friday	0	DATE
+1.0	Stanislaw Wielgus	collaborate with	communist-era police	0	0

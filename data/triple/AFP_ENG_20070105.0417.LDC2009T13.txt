@@ -1,0 +1,27 @@
+1.0	d'agostino	be deputy administrator for	defense program	0	0
+1.0	US weapons program	have	head	O	O
+1.0	d'agostino	be currently deputy administrator for	defense program at National Nuclear Security Administration	0	ORGANIZATION
+1.0	Linton Brooks	tender	he resignation	PERSON	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	d'agostino	be currently deputy administrator for	defense program	0	0
+1.0	Samuel Bodman	be secretary of	Department of Energy	PERSON	ORGANIZATION
+1.0	Linton Brooks	have	resignation	O	O
+1.0	its	have	best	O	O
+1.0	security breaches	have	series	O	O
+1.0	d'agostino	be	deputy administrator	0	0
+1.0	Linton Brooks	have	post	O	O
+1.0	the National Nuclear Security Administration	say in	statement	0	0
+1.0	recent	be	serious	0	0
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	Energy Secretary Samuel Bodman	announce on	Thursday	PERSON	DATE
+1.0	Linton Brooks	leave	he post	PERSON	0
+1.0	United States	have	security	O	LOCATION
+1.0	management issues	have	number	O	O
+1.0	d'agostino	be	currently deputy administrator	0	DATE
+1.0	National Nuclear Security Administration	have	security	O	ORGANIZATION
+1.0	Samuel Bodman	be	Department of Energy	PERSON	ORGANIZATION
+1.0	White House	say at_time	Friday	ORGANIZATION	DATE
+1.0	Energy	have	Department	ORGANIZATION	ORGANIZATION
+1.0	Energy Secretary Samuel Bodman	have	tenure	O	O
+1.0	which	have	recent	O	O
+1.0	d'agostino	be deputy administrator for	defense program at National Nuclear Security Administration	0	ORGANIZATION

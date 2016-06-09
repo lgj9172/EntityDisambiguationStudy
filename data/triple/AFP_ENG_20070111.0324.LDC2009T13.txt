@@ -1,0 +1,120 @@
+1.0	british judge	select	juror	0	0
+1.0	Yahya	plead to	conspiracy	PERSON	0
+1.0	six	cause	explosion likely	NUMBER	0
+1.0	London	on	mass transport system	LOCATION	0
+1.0	six	deny	charge of conspiracy	NUMBER	0
+1.0	Ibrahim 28 28	deny	conspiracy	NUMBER	0
+1.0	Yahya	plead to	murder	PERSON	0
+1.0	origin	have	many	O	O
+1.0	Ibrahim 28 28	deny conspiracy on	April 18	NUMBER	DATE
+1.0	defendants	have	custody	O	O
+1.0	six	deny charge at_time	year	NUMBER	DATE
+1.0	Ibrahim 28 28	attempt	murder	NUMBER	0
+1.0	Muktar Said Ibrahim	stand	Adel Yahya	PERSON	PERSON
+1.0	Muktar Said Ibrahim	stand	Manfo Kwaku Asiedu	PERSON	PERSON
+1.0	100 potential jurors for their impartiality over the failed attacks , which came exactly two weeks after 56 people were killed in the shock July 7 suicide bombings	have	many	O	O
+1.0	main question	be in	trial	0	0
+1.0	your	learn anything about	defendant	0	0
+1.0	they	have work as	police officer	0	0
+1.0	judge	select	juror	0	0
+1.0	your	have	ability	O	O
+1.0	Yahya	plead on	seperately August 18	PERSON	DATE
+1.0	six	deny charge at_time	last year	NUMBER	DATE
+1.0	jurors	have	impartiality	O	O
+1.0	12-member jury	will	when will select	0	0
+1.0	explosion	endanger	life	0	0
+0.6670877778859772	member	view of	strength	0	0
+1.0	London	have	mass transport system	O	LOCATION
+1.0	Ibrahim 28 28	deny conspiracy at_time	last year	NUMBER	DATE
+1.0	Muktar Said Ibrahim	be	Manfo Kwaku Asiedu	PERSON	PERSON
+1.0	Muktar Said Ibrahim	due	Hussain Osman	PERSON	PERSON
+1.0	your	learn	anything	0	0
+1.0	bombing	have	trauma	O	O
+1.0	murder	improvise	device	0	0
+1.0	british judge	begin at_time	Thursday	0	DATE
+1.0	allege	fail bombing on	train network	0	0
+1.0	islamist bomber	kill	four Islamist bombers	0	0
+1.0	family	have	member	O	O
+1.0	strength	have	views	O	O
+1.0	six	deny	charge	NUMBER	0
+0.0025671451558210157	Muktar Said Ibrahim	stand	Ramzi Mohammed	PERSON	PERSON
+1.0	men	have	trial	O	O
+0.6670877778859772	member	view of	such strength	0	0
+1.0	your	have	beliefs	O	O
+0.6670877778859772	member	political view of	such strength	0	0
+0.11834356280871694	allege	fail on	underground train network	0	0
+1.0	prison service	have	members	O	O
+1.0	conspiracy	have	charges	O	O
+1.0	your	have	family	O	O
+1.0	your	learn	anything private	0	0
+1.0	12-member jury	will	will select	0	0
+1.0	Yahya	plead at_time	last year	PERSON	DATE
+1.0	Osman	be	28	PERSON	NUMBER
+1.0	relatives	have	any	O	O
+1.0	allege	fail bombing on	underground train network	0	0
+1.0	they	be member	have involve in custody	0	0
+1.0	they	be member	have involve	0	0
+1.0	they	work in	squad	0	0
+1.0	Muktar Said Ibrahim	due	Ramzi Mohammed	PERSON	PERSON
+1.0	Muktar Said Ibrahim	due	Yassin Omar	PERSON	PERSON
+0.0025671451558210157	Muktar Said Ibrahim	stand	Hussain Osman	PERSON	PERSON
+1.0	Woolwich Crown Court	be in	London	ORGANIZATION	LOCATION
+1.0	judge	begin for	highly	0	0
+1.0	Muktar Said Ibrahim	stand	Ramzi Mohammed	PERSON	PERSON
+1.0	Mohammed	be	25	PERSON	NUMBER
+1.0	transport users	have	murder	O	O
+1.0	they	work in	anti-terrorist squad	0	0
+1.0	murder	cause	explosion	0	0
+1.0	judge	test	100 potential juror	0	NUMBER
+1.0	Ibrahim 28 28	attempt	murder of transport user	NUMBER	0
+1.0	jury	will	when will select	0	0
+0.11834356280871694	allege	fail on	train network	0	0
+0.6670877778859772	member	political or religious view of	such strength	0	0
+1.0	Britain	in	worst peacetime	LOCATION	0
+1.0	Yahya	plead on	August 18	PERSON	DATE
+1.0	Ibrahim	be	28	PERSON	NUMBER
+1.0	british judge	begin for	highly	0	0
+1.0	bombings	have	wake	O	O
+1.0	ideology	have	basis	O	O
+1.0	judge	begin at_time	Thursday	0	DATE
+1.0	judge	test	100 potential juror for they impartiality	0	NUMBER
+0.0025671451558210157	Muktar Said Ibrahim	stand	Adel Yahya	PERSON	PERSON
+0.6670877778859772	member	political or religious view of	strength	0	0
+1.0	100 potential jurors for their impartiality over the failed attacks , which came exactly two weeks after 56 people were killed in the shock July 7 suicide bombings	have	relatives	O	O
+1.0	murder	improvise	explosive device	0	0
+1.0	they	be member	have involve in custody of defendant	0	0
+1.0	Muktar Said Ibrahim	stand	trial	PERSON	0
+1.0	they	materially influence	you consideration	0	0
+1.0	they	influence	you consideration	0	0
+1.0	witnesses	have	list	O	O
+1.0	witness	be in	case	0	0
+1.0	bombings	have	series	O	O
+1.0	explosion	endanger life during	bid	0	0
+1.0	Muktar Said Ibrahim	due	Manfo Kwaku Asiedu	PERSON	PERSON
+0.6670877778859772	member	political view of	strength	0	0
+1.0	six	deny charge in	court	NUMBER	0
+1.0	Muktar Said Ibrahim	stand	Hussain Osman	PERSON	PERSON
+0.0025671451558210157	Muktar Said Ibrahim	stand	Yassin Omar	PERSON	PERSON
+1.0	Yahya	plead at_time	year	PERSON	DATE
+1.0	four islamist bomber	kill	four Islamist bombers	NUMBER	0
+1.0	terrorism incident	have	trauma	O	O
+1.0	he	want	know	0	0
+1.0	Hussain Osman	be	Yassin Omar	PERSON	PERSON
+0.0025671451558210157	Muktar Said Ibrahim	stand	Manfo Kwaku Asiedu	PERSON	PERSON
+1.0	your	have	consideration	O	O
+1.0	he	also want	know	0	0
+1.0	friends	have	member	O	O
+1.0	bid	have	accused	O	O
+1.0	Britain	have	peacetime	O	LOCATION
+1.0	Ibrahim 28 28	deny conspiracy at_time	year	NUMBER	DATE
+1.0	allege	fail	bombing	0	0
+1.0	Asiedu	be	32	PERSON	NUMBER
+1.0	he	remind	potential juror	0	0
+1.0	friends	have	any	O	O
+1.0	jury	will	will select	0	0
+1.0	murder	improvise device with	intent	0	0
+1.0	Muktar Said Ibrahim	be	due	PERSON	0
+1.0	Yahya	cause	explosion	PERSON	0
+1.0	case	have	consideration	O	O
+1.0	Muktar Said Ibrahim	due	Adel Yahya	PERSON	PERSON
+1.0	belief	have	basis	O	O

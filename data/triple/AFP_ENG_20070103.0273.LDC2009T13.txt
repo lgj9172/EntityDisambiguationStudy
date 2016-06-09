@@ -1,0 +1,45 @@
+1.0	index	indicate	moderation	0	DATE
+1.0	pressure	have	some	O	O
+1.0	51.4 percent	be in	December	PERCENT	DATE
+1.0	US industrial activity	rebound in	December	LOCATION	DATE
+1.0	US economy	shrink in	November	LOCATION	DATE
+1.0	index	decline to	47.5 percent	0	PERCENT
+1.0	index	decline to	54.3 percent	0	PERCENT
+1.0	Wall Street analyst	have expect	index	0	0
+1.0	2006	have	month	DATE	DATE
+1.0	US activity	rebound in	December	LOCATION	DATE
+1.0	US industrial economy	shrink in	November	LOCATION	DATE
+0.9911588811863297	index	measure of	inflation	0	DATE
+1.0	activity	have	ISM index	O	O
+1.0	index	indicate moderation in	inflationary pressure	0	DATE
+1.0	US industrial activity	rebound in	December follow surprise contraction	LOCATION	DATE
+1.0	survey	show at_time	Wednesday	0	DATE
+1.0	index	decline from	53.5 percent	0	PERCENT
+1.0	Wall Street analyst	have expect	index read	0	0
+1.0	price index	relieve	some	0	0
+1.0	index	rise to	52.1 percent	0	PERCENT
+1.0	ISM index	rise in	November	MISC	DATE
+1.0	most Wall Street analyst	have only expect	index read	0	0
+1.0	most Wall Street analyst	have expect	index	0	0
+1.0	US industrial activity	rebound in	December follow surprise contraction in prior month	LOCATION	DATE
+1.0	US activity	rebound in	December follow surprise contraction in month	LOCATION	DATE
+1.0	Wall Street analyst	have only expect	index	0	0
+1.0	ISM index	rise to	percent	MISC	PERCENT
+1.0	inflation	have	measure	O	O
+1.0	most Wall Street analyst	have expect	index read	0	0
+0.9911588811863297	index	measure for	company	0	DATE
+1.0	Supply Management	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	US activity	rebound in	December follow surprise contraction	LOCATION	DATE
+1.0	index	decline from	53.5 percent month	0	PERCENT
+1.0	index	decline from	56.9 percent	0	PERCENT
+1.0	2003	have	middle	DATE	DATE
+1.0	surprise contraction	be in	the prior month	0	DATE
+1.0	exports	have	index	O	O
+1.0	index	decline from	53.5 percent month earlier	0	PERCENT
+1.0	US industrial activity	rebound in	December follow surprise contraction in month	LOCATION	DATE
+1.0	index	indicate moderation in	pressure	0	0
+1.0	US activity	rebound in	December follow surprise contraction in prior month	LOCATION	DATE
+1.0	Wall Street analyst	have only expect	index read	0	0
+1.0	ISM index	rise to	better percent	MISC	PERCENT
+1.0	most Wall Street analyst	have only expect	index	0	0
+1.0	orders	have	index	O	O

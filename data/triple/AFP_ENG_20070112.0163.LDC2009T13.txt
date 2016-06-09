@@ -1,0 +1,40 @@
+1.0	Pang	expect	index move in level between 19,500 point next week	PERSON	NUMBER
+1.0	share price	be expect in	next week	0	DURATION
+1.0	Pang	expect	index move	PERSON	0
+1.0	investment manager	be with	DBS Vickers	0	ORGANIZATION
+1.0	Peter Lai	manager with	DBS Vickers	PERSON	ORGANIZATION
+1.0	share price	consolidate more	some	0	0
+1.0	market	will stay at_time	week	0	DATE
+1.0	Pang	expect	benchmark index	PERSON	0
+1.0	Pang	expect	index move in level next week	PERSON	DATE
+1.0	share price	be	in few week ahead of Lunar New Year expect	0	DURATION
+1.0	investor	wait	stablise	0	0
+1.0	investor	wait for	share	0	0
+1.0	Hang Seng Index	drop	597.87 point	MISC	NUMBER
+1.0	New Year	have	profit-taking pressure	O	DATE
+1.0	share price	ahead be expect in	next few week	0	DURATION
+1.0	Lunar New Year	have	ahead	O	DATE
+1.0	share price	consolidate	some	0	0
+1.0	New Year	have	profits	O	DATE
+1.0	benchmark Hang Seng Index	drop	597.87 point	MISC	NUMBER
+1.0	Pang	expect	index move in level between 19,500 point	PERSON	NUMBER
+1.0	share price	be expect in	next few week	0	DURATION
+1.0	market	will stay	volatile	0	0
+1.0	share price	ahead be expect in	week	0	0
+1.0	market	will stay at_time	next week	0	DATE
+1.0	share price	be	in next few week ahead of Lunar New Year expect	0	DURATION
+1.0	dealer	say at_time	Friday	0	DATE
+1.0	Pang	expect	index move in level week	PERSON	DATE
+1.0	Pang	expect	index move week	PERSON	DATE
+1.0	Pang	expect	index	PERSON	0
+1.0	gains	have	view	O	O
+1.0	share price	be expect in	few week	0	DURATION
+1.0	Pang	expect	index move in level between 19,500 point week	PERSON	NUMBER
+1.0	share price	be	in next week ahead of Lunar New Year expect	0	DATE
+1.0	Pang	expect	index move in level	PERSON	0
+1.0	share price	be expect in	week	0	0
+1.0	Pang	advise	investor	PERSON	0
+1.0	share price	ahead be expect in	few week	0	DURATION
+1.0	Pang	expect	index move next week	PERSON	DATE
+1.0	share price	ahead be expect in	next week	0	DURATION
+1.0	share price	be	in week ahead of Lunar New Year expect	0	DATE

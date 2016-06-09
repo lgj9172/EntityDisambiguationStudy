@@ -1,0 +1,31 @@
+1.0	Malaysia	join	United Nations force	LOCATION	ORGANIZATION
+1.0	Deputy Prime Minister Najib Razak	say at_time	last week	PERSON	DATE
+1.0	United Nations Interim Force	be in	Lebanon headquarters	ORGANIZATION	LOCATION
+1.0	365	have	contingent	O	NUMBER
+1.0	UN	be in	October	ORGANIZATION	DATE
+1.0	lesson	be in	arabic	0	0
+1.0	UN	approve	deployment	ORGANIZATION	0
+1.0	Hezbollah	be	lebanese shiite	ORGANIZATION	0
+1.0	Malaysia	be on	Tuesday	LOCATION	DATE
+1.0	Deputy Defence Minister Datuk Zainal Abidin Zin	tell	state	PERSON	DURATION
+1.0	Malaysia	join united nations force include	elite unit	LOCATION	0
+1.0	mission	have	deputy commander	0	0
+1.0	army	have	elite units	O	O
+1.0	peacekeepers	have	deployment	O	O
+1.0	mission	have	deputy commander	O	O
+1.0	training	have	months	DURATION	O
+1.0	Hezbollah	be in	July	ORGANIZATION	DATE
+1.0	Malaysia	send	100 troops	LOCATION	NUMBER
+1.0	troops	have	contingent	O	O
+1.0	Israel	have	offensive	LOCATION	ORGANIZATION
+1.0	Malaysia	join united nations force include	elite unit of army	LOCATION	0
+1.0	UN	approve	deployment of malaysian peacekeeper	ORGANIZATION	0
+1.0	Malaysia	join	United Nations peacekeep force	LOCATION	ORGANIZATION
+1.0	Conference	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	Deputy Prime Minister Najib Razak	say at_time	week	PERSON	DATE
+1.0	UN	approve	deployment of peacekeeper	ORGANIZATION	0
+1.0	air force	have	elite units	O	O
+1.0	Israel	have	offensive	O	LOCATION
+1.0	Malaysia	join united nations force in	Lebanon	LOCATION	LOCATION
+1.0	navy	have	elite units	O	O
+1.0	mission	's commander be	Lt Kol Fadzil Tajuddin	0	PERSON

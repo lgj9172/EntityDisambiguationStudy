@@ -1,0 +1,115 @@
+1.0	Peter Jackson	make hobbit to	public feud	PERSON	0
+1.0	dispute	have	ruling	O	O
+1.0	Peter Jackson	make hobbit to	bitter feud	PERSON	0
+1.0	it	imagine	other director	0	0
+1.0	other director	match	he achievement	0	0
+1.0	member	decline	participate	0	0
+1.0	Variety	be on	daily	ORGANIZATION	SET
+1.0	Peter Jackson	make hobbit to	bitter feud between Hollywood studio New Line	PERSON	LOCATION
+1.0	Peter Jackson	make hobbit to	bitter public feud between Hollywood studio New Line	PERSON	LOCATION
+0.7430331344379842	Bilbo Baggins	discover	ring	PERSON	0
+1.0	Peter Jackson	be embroil in	wrangle	PERSON	0
+1.0	J.R.R. Tolkien	have	Rings trilogy	O	ORGANIZATION
+1.0	Peter Jackson	be embroil in	legal wrangle with New Line	PERSON	0
+1.0	three billion dollar	be in	ticket sale	MONEY	0
+1.0	Ian McKellen	be	british	PERSON	0
+1.0	Jackson	say in	statement publish by trade Variety on	PERSON	ORGANIZATION
+1.0	Peter Jackson	be	embroil in legal wrangle with New Line over royalty from Lord	PERSON	0
+1.0	Jackson	say in	statement	PERSON	0
+1.0	Peter Jackson	be	embroil in legal wrangle from Lord of ring	PERSON	0
+1.0	his	have	achievement	O	O
+1.0	Peter Jackson	be embroil in	legal wrangle with New Line over royalty	PERSON	0
+1.0	The	have	film	O	O
+1.0	Jackson	have	lawsuit for apparent boycott	PERSON	0
+0.7430331344379842	Bilbo Baggins	discover	ring of power	PERSON	0
+1.0	Rings trilogy	have	adaptation	O	O
+1.0	Peter Jackson	be embroil in	wrangle with New Line	PERSON	0
+1.0	several member	participate in	event	0	0
+1.0	Peter Jackson	be	embroil in legal wrangle from Lord	PERSON	0
+1.0	actor	say on	he website	0	0
+1.0	member	participate in	event	0	0
+1.0	books	have	fans	O	O
+1.0	Peter Jackson	make	Hobbit in twist	PERSON	0
+1.0	Jackson	issue	statement	PERSON	0
+1.0	Bob	choose	make	PERSON	0
+1.0	Peter Jackson	be	embroil in wrangle with New Line over royalty from Lord of ring	PERSON	0
+1.0	Peter Jackson	be	embroil in wrangle from Lord of ring	PERSON	0
+1.0	Jackson	say in	statement publish daily Variety on	PERSON	ORGANIZATION
+0.6471928779349803	Bilbo Baggins	ring of	power	PERSON	0
+1.0	it	be	hard	0	0
+1.0	Rings director	have	Lord	O	O
+1.0	prospect	have anger	fan	0	0
+1.0	Peter Jackson	be embroil from	Lord	PERSON	0
+1.0	Peter Jackson	of	oscar-winning adaptation of ring trilogy	PERSON	0
+1.0	Peter Jackson	be embroil in	wrangle with New Line over royalty	PERSON	0
+1.0	several member	decline	participate in upcoming event	0	0
+1.0	his	have	website	O	O
+1.0	Peter Jackson	be	embroil in wrangle from Lord	PERSON	0
+1.0	Hollywood studio New Line	have	co-chairman	O	O
+1.0	Bob Shaye	co-chairman of	Hollywood studio New Line	PERSON	0
+1.0	Shaye	also express	anger	PERSON	0
+1.0	Peter Jackson	make	Hobbit in latest twist	PERSON	0
+1.0	Peter Jackson	be embroil in	legal wrangle	PERSON	0
+1.0	dollars	have	quarter	DURATION	MONEY
+1.0	Peter Jackson	be embroil from	Lord of ring	PERSON	0
+1.0	member	decline	participate in event	0	0
+1.0	Peter Jackson	be	embroil in legal wrangle with New Line from Lord	PERSON	0
+1.0	several member	participate in	upcoming event	0	0
+1.0	New Line	be studio of	Hollywood	LOCATION	LOCATION
+1.0	member	decline	participate in upcoming event	0	0
+1.0	discussion	be with	we	0	0
+1.0	he	be disappoint by	Shaye 's comment	0	PERSON
+1.0	feud	go at_time	last November	0	DATE
+1.0	our	have	minds	O	O
+1.0	Shaye	express	anger	PERSON	0
+1.0	Hobbit	have	prospect	O	O
+1.0	right reason	be in	we mind	0	0
+1.0	Hobbit	be in	latest twist	0	0
+1.0	feud	go	public	0	0
+1.0	Peter Jackson	have	adaptation	O	PERSON
+1.0	Jackson	say in	statement publish	PERSON	0
+1.0	New Line	be between	Hollywood	LOCATION	LOCATION
+1.0	Jackson	say in	statement publish by trade	PERSON	0
+1.0	Bob	make	it personal	PERSON	0
+1.0	several member	decline	participate in event	0	0
+1.0	Peter Jackson	be	embroil in legal wrangle with New Line over royalty from Lord of ring	PERSON	0
+1.0	power	have	ring	O	O
+1.0	actor	say at_time	last November	0	DATE
+1.0	Hobbit	have	The	O	O
+1.0	film	be in	exchange	0	0
+1.0	Peter Jackson	be	embroil in wrangle with New Line from Lord of ring	PERSON	0
+1.0	Jackson	have	lawsuit	O	PERSON
+1.0	New Line	have	40th anniversary blame	0	ORDINAL
+1.0	actor	say at_time	November	0	DATE
+1.0	the	have	ruling	O	O
+1.0	Peter Jackson	be	embroil in wrangle with New Line over royalty from Lord	PERSON	0
+1.0	my	have	watch	O	O
+1.0	Peter Jackson	be	embroil in legal wrangle with New Line from Lord of ring	PERSON	0
+1.0	member	participate in	upcoming event	0	0
+1.0	Jackson	say in	statement publish Variety on	PERSON	ORGANIZATION
+1.0	cast	have	members	O	O
+1.0	he	be	disappoint	0	0
+1.0	Bob Shaye	by	comment	PERSON	0
+1.0	Peter Jackson	make hobbit to	feud	PERSON	0
+1.0	legal wrangle	be with	New Line over royalty	0	0
+1.0	lord	have	have bar	0	0
+1.0	his	have	lawsuit	O	O
+1.0	prospect	have anger	fan of book	0	0
+1.0	Peter Jackson	be	embroil	PERSON	0
+1.0	Peter Jackson	make	Hobbit	PERSON	0
+1.0	it	be	regrettable	0	0
+1.0	films	have	fans	O	O
+1.0	Peter Jackson	make hobbit to	bitter public feud	PERSON	0
+1.0	Peter Jackson	make hobbit to	feud between Hollywood studio New Line	PERSON	LOCATION
+1.0	adaptation	have	production	O	O
+1.0	Middle Earth	be with	Peter	LOCATION	PERSON
+1.0	feud	go at_time	November	0	DATE
+1.0	Peter Jackson	make hobbit to	public feud between Hollywood studio New Line	PERSON	LOCATION
+1.0	I	work anymore with	guy	0	0
+1.0	Rings	have	Lord	O	O
+1.0	J.R.R. Tolkien	of	ring trilogy	ORGANIZATION	0
+1.0	several member	decline	participate	0	0
+1.0	Jackson	say in	statement publish by trade daily Variety on	PERSON	ORGANIZATION
+1.0	Peter Jackson	be	embroil in wrangle with New Line from Lord	PERSON	0
+1.0	New Line	have	anniversary	O	O
+1.0	Bob Shaye	have	comments	O	PERSON

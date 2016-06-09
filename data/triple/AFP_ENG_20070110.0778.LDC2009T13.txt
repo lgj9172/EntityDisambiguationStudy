@@ -1,0 +1,67 @@
+1.0	it	be	betrayal	0	0
+1.0	US troop increase	be in	Iraq	LOCATION	LOCATION
+1.0	Bush	of	speech	PERSON	0
+1.0	Bush	have	speech	O	PERSON
+1.0	Bush	have	proposal	O	PERSON
+1.0	protest	demand withdrawal from	Iraq	0	LOCATION
+1.0	tambourine	add to	deafening thunder of man bang on soup kettle	0	0
+1.0	Sam Crook	be of	Maryland	PERSON	LOCATION
+1.0	Washington resident	cite	concentration	LOCATION	0
+1.0	protester	carry	sign	0	0
+1.0	Americans	have	percent	PERCENT	MISC
+1.0	Bush	deliver	address	PERSON	0
+1.0	Washington resident	liken	situation	LOCATION	0
+1.0	tambourine	add to	thunder of man bang	0	0
+1.0	tambourine	add to	deafening thunder	0	0
+1.0	Washington resident	liken situation under	Nazis	LOCATION	ORGANIZATION
+1.0	Washington resident	liken	current situation in United States	LOCATION	LOCATION
+1.0	protest	demand	withdrawal of US troops	0	LOCATION
+1.0	noisy protest	demand	withdrawal	0	0
+1.0	US troops	have	withdrawal	O	O
+1.0	security officers	have	watch	O	O
+1.0	tambourine	add to	deafening thunder of man	0	0
+1.0	Bush	have	daughters	O	PERSON
+1.0	president	be do	this	0	0
+1.0	protester	stage protest at_time	late Wednesday	0	DATE
+1.0	lies	have	crock	O	O
+1.0	their	have	shouts	O	O
+1.0	voter	put democrats in	November election	0	DATE
+1.0	Bush	deliver	televise address	PERSON	0
+1.0	voter	put democrats in	charge of Congress	0	ORGANIZATION
+1.0	protester	stage	protest outside White House	0	LOCATION
+1.0	tambourine	add to	thunder	0	0
+1.0	Washington resident	liken situation to	Germany	LOCATION	LOCATION
+1.0	tambourine	add to	thunder of man bang on soup kettle	0	0
+1.0	power	have	concentration	O	O
+1.0	Maryland	have	Sam Crook	PERSON	LOCATION
+1.0	Washington resident	liken	situation in United States	LOCATION	LOCATION
+1.0	voter	put democrats in	charge	0	0
+1.0	protester	stage	noisy protest	0	0
+1.0	tambourine	add to	deafening thunder of man bang	0	0
+1.0	Washington resident	cite concentration in	executive	LOCATION	0
+1.0	Washington resident	liken	current situation	LOCATION	DATE
+1.0	president	have	decision	O	O
+1.0	tambourine	add	brass bell	0	0
+1.0	they	oppose	Iraq war	0	0
+1.0	voter	put	Democrats	0	MISC
+1.0	Congress	have	charge	O	ORGANIZATION
+1.0	My	have	brother	O	O
+1.0	Jay Mason	be of	World can not wait	PERSON	ORGANIZATION
+1.0	speech	have	part	O	O
+1.0	my brother	be in	Iraq	0	LOCATION
+1.0	protester	stage protest at_time	Wednesday	0	DATE
+1.0	protest	demand	withdrawal	0	0
+1.0	World	have	Jay Mason	PERSON	ORGANIZATION
+1.0	tambourine	add	large brass bell	0	0
+1.0	this	save	face	0	0
+1.0	they	mainly oppose	Iraq war	0	0
+1.0	current situation	be in	United States	DATE	LOCATION
+1.0	protester	stage	noisy protest outside White House	0	LOCATION
+1.0	Washington resident	cite	concentration of power	LOCATION	0
+1.0	tambourine	add to	thunder of man	0	0
+1.0	protester	stage	protest	0	0
+1.0	radio	be in	crowd	0	0
+1.0	noisy protest	demand withdrawal from	Iraq	0	LOCATION
+1.0	protester	stage protest about	40	0	NUMBER
+1.0	man	have	thunder	O	O
+1.0	noisy protest	demand	withdrawal of US troops	0	LOCATION

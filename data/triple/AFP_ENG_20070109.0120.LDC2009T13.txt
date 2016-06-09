@@ -1,0 +1,166 @@
+1.0	European Union	place	ETA	ORGANIZATION	ORGANIZATION
+1.0	ETA 's deadliest strike date	wound	45	ORGANIZATION	NUMBER
+1.0	ETA	have	deadliest strike date	ORGANIZATION	0
+1.0	Euskadi Ta Askatasuna	lay claim to	adjacent region	ORGANIZATION	0
+1.0	Euskadi Ta Askatasuna	also lay claim to	spanish region of Navarra	ORGANIZATION	LOCATION
+1.0	two policeman	be	when kill in northern region of Navarra	NUMBER	LOCATION
+1.0	Saturday	for	bomb	DATE	0
+1.0	group	be	blame	0	0
+1.0	European Union	be in	2001	ORGANIZATION	DATE
+1.0	cooperation	have	have step up	0	0
+1.0	group	be found by	student	0	0
+1.0	ETA	shoot on	June 7 1968	ORGANIZATION	DATE
+1.0	Madrid	be in	1995	LOCATION	DATE
+1.0	ETA 's wing	be found in	1978	ORGANIZATION	DATE
+1.0	group	be blame for	theft	0	0
+1.0	police	be in	France	0	LOCATION
+1.0	ETA	have	founders	O	ORGANIZATION
+0.11834356280871694	two	fail in	Madrid	NUMBER	LOCATION
+1.0	group	be also blame for	theft	0	0
+1.0	Navarra	have	region	O	LOCATION
+1.0	group	kill admiral luis carrero blanco in	spectacular attack	0	0
+0.11834356280871694	two	fail in	Madrid in 1995	NUMBER	LOCATION
+1.0	group	kill admiral luis carrero blanco in	attack	0	0
+1.0	policeman	be kill in	region of Navarra	0	LOCATION
+1.0	policeman	be kill in	northern region of Navarra	0	LOCATION
+1.0	conflict 's bloodiest year	see	118 killing	DURATION	NUMBER
+1.0	group	kill	head	0	0
+1.0	vote	have	percent	PERCENT	O
+1.0	ETA	shoot at_time	25-year-old policeman	ORGANIZATION	DURATION
+1.0	Spain	have accuse	Paris	LOCATION	LOCATION
+1.0	police	have cooperate since	1980 in attempt	0	0
+0.44098351047765205	Spain Paris	offer	sanctuary	LOCATION	0
+1.0	two policeman	be kill in	northern region of Navarra	NUMBER	LOCATION
+1.0	ETA 's strike date	wound	45	ORGANIZATION	NUMBER
+1.0	ETA 's political wing	be	found	ORGANIZATION	0
+1.0	European Union	place	ETA on its list of organisation	ORGANIZATION	ORGANIZATION
+1.0	last attack	come to	prior Madrid airport blast	0	LOCATION
+1.0	policeman	be	when kill	0	0
+1.0	police	have cooperate since	early 1980 in attempt	0	0
+1.0	Euskadi Ta Askatasuna	also lay claim to	region of Navarra	ORGANIZATION	LOCATION
+1.0	last deadly attack	come to	Madrid airport blast	0	LOCATION
+1.0	arrests	have	swathes	O	O
+1.0	his	have	philosophy	O	O
+1.0	Euskadi Ta Askatasuna	also lay claim to	adjacent spanish region of Navarra	ORGANIZATION	LOCATION
+1.0	European Union	place	ETA on its list	ORGANIZATION	ORGANIZATION
+1.0	Euskadi Ta Askatasuna	also lay	claim	ORGANIZATION	0
+1.0	ETA 's deadliest strike date	back kill	21 people	ORGANIZATION	NUMBER
+1.0	group	be blame for	theft of 350 handgun	0	NUMBER
+1.0	1980	be in	attempt	0	0
+1.0	ETA	have	political wing ban by judiciary in 2003	ORGANIZATION	DATE
+1.0	Party	have	inability	O	ORGANIZATION
+1.0	Sabino Arana	have	ideology	O	PERSON
+1.0	attack	come to	prior Madrid airport blast	0	LOCATION
+1.0	group	be	found on July 31 1959 by nationalist student	0	DATE
+1.0	Euskadi Ta Askatasuna	lay claim to	region	ORGANIZATION	0
+1.0	group	kill	then head	0	0
+1.0	policeman	be	when kill in region of Navarra	0	LOCATION
+1.0	two policeman	be	when kill in region of Navarra	NUMBER	LOCATION
+1.0	policeman	be kill in	northern region	0	0
+1.0	group	have	losses	O	O
+1.0	group	announce	permanent ceasefire	0	0
+1.0	policeman	be	kill	0	0
+1.0	policeman	be	when kill in northern region	0	0
+1.0	European Union	place	ETA on its list of terrorist organisation	ORGANIZATION	ORGANIZATION
+1.0	interior ministry	be	spanish	ORGANIZATION	0
+1.0	police	cripple	group	0	0
+1.0	group	be also blame for	theft of 350 handgun in France	0	NUMBER
+1.0	last deadly attack	come to	prior Madrid airport blast	0	LOCATION
+1.0	ETA operatives	have	arrests	O	O
+1.0	group	kill	then head of government	0	0
+1.0	Euskadi Ta Askatasuna	also lay claim to	spanish region	ORGANIZATION	0
+1.0	police	have cooperate since	1980	0	0
+1.0	councillor Miguel Angel Blanco	be kill	48 hour	PERSON	DURATION
+1.0	government	have	head	O	O
+1.0	Euskadi Ta Askatasuna	lay claim to	spanish region of Navarra	ORGANIZATION	LOCATION
+1.0	two	fail attack against	month	NUMBER	0
+1.0	policeman	be	when kill in northern region of Navarra	0	LOCATION
+1.0	judiciary	be in	2003	0	DATE
+1.0	ETA 's political wing	be found in	1978	ORGANIZATION	DATE
+1.0	ETA	have	strike dates	O	ORGANIZATION
+1.0	Euskadi Ta Askatasuna	also lay claim to	adjacent region of Navarra	ORGANIZATION	LOCATION
+1.0	conflict	have	year	DURATION	O
+1.0	Barcelona supermarket	have	parking lot	O	O
+1.0	group	kill admiral luis carrero blanco on	December 20 1973	0	DATE
+1.0	Euskadi Ta Askatasuna	also lay claim to	adjacent spanish region	ORGANIZATION	0
+1.0	police	have cooperate since	early 1980	0	0
+1.0	group	kill	head of government	0	0
+1.0	ETA 's strike date	back kill	21 people	ORGANIZATION	NUMBER
+1.0	municipal councillor Miguel Angel Blanco	be kill	48 hour	PERSON	DURATION
+1.0	Euskadi Ta Askatasuna	be	basque	ORGANIZATION	0
+0.9767684936435655	Paris	offer sanctuary to	ETA fugitive	LOCATION	ORGANIZATION
+1.0	ceasefire	be in	1989	0	DATE
+1.0	Euskadi Ta Askatasuna	lay claim to	adjacent spanish region	ORGANIZATION	0
+1.0	group	be	also blame	0	0
+0.9767684936435655	Paris	offer	sanctuary	LOCATION	0
+1.0	group	be also blame for	theft of 350 handgun	0	NUMBER
+1.0	deadly attack	come to	prior Madrid airport blast	0	LOCATION
+1.0	two policeman	be	when kill in region	NUMBER	0
+1.0	25-year-old paramilitary policeman	pardines in	basque city of Villabona	DURATION	PERSON
+1.0	conflict	have	year	0	DURATION
+1.0	group	have	attack	O	O
+1.0	two	fail attack in	Madrid	NUMBER	LOCATION
+0.11834356280871694	two	fail against	month	NUMBER	0
+1.0	ETA	's wing be	Batasuna	ORGANIZATION	ORGANIZATION
+1.0	attack	come to	Madrid airport blast	0	LOCATION
+1.0	group	be found on	July 31 1959	0	DATE
+1.0	his	have	car	O	O
+1.0	two	fail	attack	NUMBER	0
+1.0	deadly attack	come to	Madrid airport blast	0	LOCATION
+1.0	last attack	come to	Madrid airport blast	0	LOCATION
+1.0	group	be	found	0	0
+1.0	Euskadi Ta Askatasuna	lay claim to	spanish region	ORGANIZATION	0
+1.0	policeman	be	when kill in region	0	0
+1.0	Euskadi Ta Askatasuna	lay claim to	adjacent spanish region of Navarra	ORGANIZATION	LOCATION
+1.0	cooperation	have	have step	0	0
+1.0	group	announce	ceasefire	0	0
+1.0	handguns	have	theft	O	O
+1.0	Jose Pardines	be in	basque city of Villabona	PERSON	PERSON
+1.0	Spain	have	region	O	LOCATION
+1.0	group	be blame for	theft of 350 handgun in France	0	NUMBER
+1.0	ministry	put	group 's own loss	0	0
+1.0	two	fail attack in	Madrid in 1995	NUMBER	LOCATION
+1.0	regional parliament	be in	power	0	0
+1.0	the group 's	have	roots	O	O
+1.0	two policeman	be	kill	NUMBER	0
+1.0	group	kill	admiral Luis Carrero Blanco	0	PERSON
+1.0	two	fail attack against	Jose Maria Aznar	NUMBER	PERSON
+1.0	group	announce ceasefire at_time	year	0	DATE
+1.0	group	be	found on July 31 1959 by student	0	DATE
+1.0	two policeman	be kill in	region	NUMBER	0
+0.9978873978221741	Batasuna	be	ban	PERSON	0
+1.0	group	have	own loss	0	0
+1.0	group	as	first deadly attack	0	ORDINAL
+1.0	ETA	shoot at_time	Jose Pardines	ORGANIZATION	PERSON
+1.0	conflict 's year	see	118 killing	DURATION	NUMBER
+1.0	Luis Carrero Blanco	head of	government	PERSON	0
+1.0	two policeman	be kill in	northern region	NUMBER	0
+1.0	Villabona	have	city	O	PERSON
+1.0	ETA 's strike date	kill	21 people	ORGANIZATION	NUMBER
+1.0	France	have	parts	O	LOCATION
+1.0	ministry	put	group 's loss	0	0
+1.0	Euskadi Ta Askatasuna	lay claim to	region of Navarra	ORGANIZATION	LOCATION
+1.0	Euskadi Ta Askatasuna	lay claim to	adjacent region of Navarra	ORGANIZATION	LOCATION
+1.0	group	be found by	nationalist student	0	0
+1.0	policeman	be kill in	region	0	0
+1.0	group	announce ceasefire on	March 22	0	DATE
+1.0	ETA 's wing	be	found	ORGANIZATION	0
+1.0	350 handgun	be in	France	NUMBER	LOCATION
+1.0	Euskadi Ta Askatasuna	also lay claim to	region	ORGANIZATION	0
+1.0	ETA 's deadliest strike date	kill	21 people	ORGANIZATION	NUMBER
+1.0	Saturday	have	bomb	O	DATE
+1.0	group	be found	counter	0	0
+1.0	two policeman	be kill in	region of Navarra	NUMBER	LOCATION
+0.44098351047765205	Spain Paris	offer sanctuary to	ETA fugitive	LOCATION	ORGANIZATION
+1.0	two policeman	be	when kill	NUMBER	0
+1.0	ETA	shoot	dead	ORGANIZATION	0
+1.0	ETA	shoot at_time	policeman	ORGANIZATION	0
+1.0	his	have	kidnapping	O	O
+1.0	The European Union in 2001	have	list	O	O
+1.0	two policeman	be	when kill in northern region	NUMBER	0
+1.0	Euskadi Ta Askatasuna	lay	claim	ORGANIZATION	0
+1.0	ceasefire	fail within	week	0	0
+1.0	organisations	have	list	O	O
+0.11834356280871694	two	fail against	Jose Maria Aznar	NUMBER	PERSON
+1.0	Euskadi Ta Askatasuna	also lay claim to	adjacent region	ORGANIZATION	0
+1.0	ETA	have	wing	O	ORGANIZATION

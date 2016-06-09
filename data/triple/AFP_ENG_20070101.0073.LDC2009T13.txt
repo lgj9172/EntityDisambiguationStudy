@@ -1,0 +1,114 @@
+1.0	Mujahedeen	have	name	O	ORGANIZATION
+1.0	Martyr Saddam Hussein	be	where capture by US troops	PERSON	LOCATION
+1.0	Louhai Tayeh	live forever in	we heart	PERSON	0
+1.0	Coward Moqtada	have	name	O	PERSON
+1.0	Americans	against sadr be	Coward Moqtada	MISC	PERSON
+1.0	Saddam	have	minutes	DURATION	PERSON
+0.8891058644029586	fear	angry reprisal for	execution	0	0
+1.0	man	slam	shiite leader Moqtada al-Sadr	0	PERSON
+1.0	dozen	be	in town of Tikrit erect for leader	0	LOCATION
+1.0	Martyr Saddam Hussein	be	capture	PERSON	0
+1.0	Coward Moqtada	be	shiite	PERSON	0
+1.0	Martyr Saddam Hussein	be	where bury	PERSON	0
+1.0	Hundreds of mourners	have	respects	O	O
+1.0	hero	have	hanging	O	O
+1.0	he	guilty of	crime against humanity for he role in killing of 148 shiite civilian	0	NUMBER
+1.0	US troops	be in	December 2003	LOCATION	DATE
+1.0	he	guilty of	crime against humanity for he role	0	0
+1.0	Martyr Saddam Hussein	be	where bury on Sunday	PERSON	DATE
+1.0	civilians	have	killing	O	O
+1.0	he	guilty of	crime	0	0
+1.0	hero	for	hanging	0	0
+1.0	Martyr Saddam Hussein	have	home village	O	O
+1.0	Coward Moqtada	be against	Americans	PERSON	MISC
+1.0	dozen	be	in nearby town of Tikrit erect for late leader	0	LOCATION
+1.0	Martyr Saddam Hussein	be	where privately bury on Sunday	PERSON	DATE
+1.0	he	guilty of	crime against humanity for he role in killing	0	0
+1.0	iraqi court	find	he guilty of crime against humanity for he role	0	0
+1.0	court	find	he guilty of crime against humanity	0	0
+1.0	Martyr Saddam Hussein	have	executioners	O	O
+1.0	Martyr Saddam Hussein	be hang at	dawn	PERSON	0
+1.0	Martyr Saddam Hussein	be bury on	Sunday	PERSON	DATE
+1.0	Martyr Saddam Hussein	be	where privately bury	PERSON	0
+1.0	iraqi court	find	he guilty of crime against humanity for he role in killing of 148 civilian	0	NUMBER
+1.0	he	guilty of	crime against humanity	0	0
+1.0	Tikrit	bastion of	Saddam supporter	LOCATION	PERSON
+1.0	dozen	be	in nearby town of Tikrit erect for leader	0	LOCATION
+1.0	Martyr Saddam Hussein	have	Sunni Arab supporters	O	PERSON
+1.0	Martyr Saddam Hussein	be	where capture	PERSON	0
+1.0	Martyr Saddam Hussein	be	where capture by US troops in December 2003	PERSON	LOCATION
+1.0	protestor	march through	Ad-Dawr	0	0
+1.0	protestor	march through	village north	0	0
+1.0	iraqi court	find	he guilty	0	0
+1.0	men	have	hero	O	O
+1.0	Martyr Saddam Hussein	be hang at	dawn on Saturday	PERSON	DATE
+1.0	court	find	he guilty of crime against humanity for he role in killing of 148 civilian	0	NUMBER
+1.0	dozen	be	erect	0	0
+1.0	dozen	be	in town of Tikrit erect for late leader	0	LOCATION
+1.0	Tikrit	have	town	O	LOCATION
+1.0	dozen	be erect for	leader	0	0
+1.0	Martyr Saddam Hussein	be	bury	PERSON	0
+1.0	Martyr Saddam Hussein	be capture by	US troops	PERSON	LOCATION
+1.0	man	slam	shiite radical leader Moqtada al-Sadr	0	PERSON
+1.0	dozen	be erect in	town	0	0
+1.0	Louhai Tayeh	live in	we heart	PERSON	0
+1.0	Saddam supporters	have	bastion	O	O
+1.0	his	have	execution	O	O
+1.0	Saddam	of	minute	PERSON	0
+1.0	dozen	be erect in	town of Tikrit	0	LOCATION
+1.0	Martyr Saddam Hussein	be privately bury on	Sunday	PERSON	DATE
+1.0	iraqi court	find	he guilty of crime against humanity for he role in killing of 148 shiite civilian	0	NUMBER
+1.0	court	find	he guilty of crime against humanity for he role	0	0
+1.0	Martyr Saddam Hussein	be	bury	0	0
+1.0	dictator	have	loyalist	O	O
+1.0	Martyr Saddam Hussein	be	hang	PERSON	0
+1.0	them	have	many	O	O
+1.0	firing gun	be in	air	0	0
+1.0	dozen	be	in town erect for leader	0	0
+1.0	Baghdad	have	village north	O	LOCATION
+1.0	Nuri al - -RRB- Maliki	have	name	O	O
+1.0	dozen	be	in nearby town erect for late leader	0	0
+1.0	dozen	be erect for	late leader	0	0
+1.0	protestor	march through	village north of Baghdad	0	LOCATION
+1.0	Louhai Tayeh	arab among	protestor	PERSON	0
+1.0	Martyr Saddam Hussein	be	where bury	0	0
+1.0	court	find	he guilty of crime against humanity for he role in killing	0	0
+1.0	Martyr Saddam Hussein	be	privately bury	PERSON	0
+1.0	Sunni Arab supporter	of hundred be	many armed	MISC	0
+1.0	men	sit in	queue	0	0
+1.0	mourners	have	Hundreds	O	O
+1.0	Baathists	have	name	O	MISC
+1.0	US troops in December 2003	have	hearts	O	O
+1.0	Martyr Saddam Hussein	have	grave	O	O
+1.0	court	find	he guilty	0	0
+0.8891058644029586	fear	reprisal for	execution	0	0
+1.0	Martyr Saddam Hussein	have	role	O	O
+1.0	Sunni Arab supporters	have	Hundreds	O	O
+1.0	president	have	posters	O	O
+1.0	men	sit	child	0	0
+1.0	iraqi court	find	he guilty of crime	0	0
+1.0	Americans	against sadr be	Ayatollah Ali	MISC	PERSON
+1.0	man	slam	leader Moqtada al-Sadr	0	PERSON
+1.0	minutes	have	Footage	O	DURATION
+1.0	hundred	have sidestep	vehicle ban	0	0
+1.0	iraqi court	find	he guilty of crime against humanity	0	0
+1.0	dozen	be	in nearby town erect for leader	0	0
+1.0	men	sit	woman	0	0
+1.0	iraqi court	find	he guilty of crime against humanity for he role in killing	0	0
+1.0	Awja	have	home village	O	LOCATION
+1.0	crimes	have	guilty	O	O
+1.0	Ad-Dawr	north of	Baghdad	0	LOCATION
+1.0	dozen	be	in town erect for late leader	0	0
+1.0	dozen	be erect in	nearby town	0	0
+1.0	Martyr Saddam Hussein	have	poster	O	PERSON
+1.0	hundred	walk to	he grave	0	0
+1.0	he role	be in	killing of 148 shiite civilian	0	NUMBER
+1.0	court	find	he guilty of crime against humanity for he role in killing of 148 shiite civilian	0	NUMBER
+1.0	mourning tents	have	dozens	O	O
+1.0	he	guilty of	crime against humanity for he role in killing of 148 civilian	0	NUMBER
+1.0	court	find	he guilty of crime	0	0
+1.0	dozen	be erect in	nearby town of Tikrit	0	LOCATION
+1.0	man	slam	radical leader Moqtada al-Sadr	0	PERSON
+1.0	hundred	many of	they	0	0
+1.0	Martyr Saddam Hussein	be capture by	US troops in December 2003	PERSON	LOCATION
+1.0	Islamic Party	have	name	O	ORGANIZATION

@@ -1,0 +1,69 @@
+1.0	Economic Times	quote	source	ORGANIZATION	0
+1.0	world	have	phone company	O	O
+1.0	world	have	market	O	O
+1.0	Indian outsourcing group Hinduja TMT	divest	its 5.11 percent stake	ORGANIZATION	PERCENT
+1.0	Indian outsourcing group Hinduja TMT	have	stake	O	O
+1.0	Hutchison Essar	have	percent	PERCENT	ORGANIZATION
+1.0	Reliance Communications	signal	Reliance Communications	ORGANIZATION	0
+1.0	group	with	policy remain only in company	0	0
+1.0	dollars	have	offer	O	MONEY
+1.0	Economic Times	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Hutch Essar	have	right	ORGANIZATION	0
+1.0	group	have	policy	O	O
+1.0	London 's Financial Times	say at_time	week	ORGANIZATION	DATE
+1.0	Britain	have	Vodafone	ORGANIZATION	LOCATION
+1.0	Hutch Essar	have	first right	ORGANIZATION	ORDINAL
+1.0	India	have	second-largest telecom company	LOCATION	0
+1.0	minority stake	be in	nation 's fourth-largest mobile phone group	0	0
+1.0	newspaper	quote source with	knowledge	0	0
+1.0	India	have	telecoms company	O	LOCATION
+1.0	Hutch	have	stake in Hutch Essar	ORGANIZATION	ORGANIZATION
+1.0	Essar Group	value	company	ORGANIZATION	0
+1.0	world	have	mobile phone company	0	0
+1.0	Britain	for	Vodafone	LOCATION	ORGANIZATION
+1.0	Hutch 's stake	be in	Hutch Essar	ORGANIZATION	ORGANIZATION
+1.0	London	have	Financial Times	ORGANIZATION	LOCATION
+1.0	we	will definitely place	we proposal	0	0
+1.0	Essar Group	value	company at 21	ORGANIZATION	NUMBER
+1.0	India	have	Essar group	O	LOCATION
+1.0	Li ka	be by	Hong Kong	PERSON	LOCATION
+1.0	India	have	biggest mobile phone company	LOCATION	0
+1.0	Essar Group	value company to	22 billion dollar	ORGANIZATION	MONEY
+1.0	securities	have	issue	O	O
+1.0	market	have	slice	O	O
+1.0	India	have	phone company	O	LOCATION
+1.0	Hutchison Telecom 's stake	be in	Hutchison Essar	ORGANIZATION	ORGANIZATION
+1.0	Hutchison Telecom	have	stake	O	ORGANIZATION
+1.0	Hutchison Telecom	have	stake in Hutchison Essar	ORGANIZATION	ORGANIZATION
+1.0	Hutchison	have	majority stake	O	PERSON
+1.0	nation	in	fourth-largest mobile phone group	0	0
+1.0	Hutchison Telecommunications International	be	67-percent	ORGANIZATION	0
+1.0	newspaper	quote	source	0	0
+1.0	newspaper	quote	unnamed source	0	0
+1.0	our proposal	have	percent stake	O	O
+1.0	nation	have	phone group	O	O
+1.0	world	of	fastest-growing major mobile market	0	0
+1.0	newspaper	quote source with	knowledge of plan	0	0
+1.0	Hutchison	have	majority stake	ORGANIZATION	0
+1.0	plans	have	knowledge	O	O
+1.0	Hutchison Essar	be with	offer of 17 billion 18 billion dollar	PERSON	MONEY
+1.0	Hutch Essar	have	right of refusal	ORGANIZATION	0
+1.0	Hinduja TMT	have	executive chairman	O	ORGANIZATION
+1.0	Hinduja TMT	be	indian	ORGANIZATION	0
+1.0	India	have	Essar group	LOCATION	ORGANIZATION
+1.0	Economic Times	quote	unnamed source	ORGANIZATION	0
+1.0	Hutchison Telecommunications International	be	67-percent own	ORGANIZATION	0
+1.0	company	be in	June	0	DATE
+1.0	other contenders	have	bids	O	O
+1.0	Hutch Essar	have	first right of refusal	ORGANIZATION	ORDINAL
+1.0	London	have	Financial Times	LOCATION	ORGANIZATION
+1.0	Hutch	have	stake	O	PERSON
+1.0	on minority stake	be in	Hutchsion Essar	0	ORGANIZATION
+1.0	Hutchison Telecommunications International	be	67-percent own by Hong Kong	ORGANIZATION	LOCATION
+1.0	requirement	have	excess	O	O
+1.0	We	have	proposal	O	O
+1.0	refusal	have	right	O	O
+1.0	its	have	shareholding	O	O
+1.0	Li ka	be billionaire of	Hong Kong	PERSON	LOCATION
+1.0	London 's Financial Times	say at_time	last week	ORGANIZATION	DATE
+1.0	we	will place	we proposal	0	0

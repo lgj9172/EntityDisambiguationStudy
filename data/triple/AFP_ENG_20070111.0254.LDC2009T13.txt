@@ -1,0 +1,90 @@
+1.0	President George W. Bush 's plan	draw	skepticism	PERSON	0
+1.0	Britain 's The Independent	have	frontpage	O	O
+1.0	132,000	have	level	O	NUMBER
+1.0	Iraq	have	graveyard	O	LOCATION
+1.0	strategy	however win approval from	Times as last-ditch attempt	0	ORGANIZATION
+1.0	strategy	however win approval from	Times as valid attempt	0	ORGANIZATION
+1.0	Al-Arab Al-Yawm	be in	Amman	PERSON	LOCATION
+1.0	citizens	have	majority	O	O
+1.0	President George W. Bush 's	send	another 21,000 of he soldier	PERSON	NUMBER
+1.0	more american	die as	result	0	0
+1.0	strategy	put	Iraq	0	LOCATION
+1.0	success	have	chances	O	O
+1.0	soldiers	have	21,000	NUMBER	O
+1.0	Washington	now set	its sight	LOCATION	0
+1.0	Washington	secure	control of capital Baghdad	LOCATION	LOCATION
+1.0	new Iraq strategy	involve	serious risk	LOCATION	0
+1.0	Austria	have	Der Standard	LOCATION	ORGANIZATION
+1.0	Bush 's strategy	be catastrophe for	Iraq	PERSON	LOCATION
+1.0	strategy	put	Iraq on path	0	LOCATION
+1.0	strategy	however win approval from	Times as valid last-ditch attempt	0	ORGANIZATION
+1.0	President George W. Bush 's plan	draw skepticism from	Arab newspaper on Thursday	PERSON	MISC
+0.7982167851875066	Iraq	protect	America	LOCATION	LOCATION
+1.0	Bush	have	strategy	O	PERSON
+1.0	Washington	set	its sight	LOCATION	0
+1.0	its	have	citizens	O	O
+1.0	american	die in	Iraq	0	LOCATION
+1.0	strategy	however win approval from	Times as attempt	0	ORGANIZATION
+1.0	new Iraq strategy	involve	risk	LOCATION	0
+1.0	Britain	have	Independent	O	LOCATION
+1.0	soliders	have	dispatch	O	O
+1.0	Bush	have	strategy	PERSON	0
+1.0	Fahd al-Khittan	be in	Al-Arab Al-Yawm	PERSON	PERSON
+1.0	President George W. Bush 's	throw	oil	PERSON	0
+1.0	Bush 's strategy	be	catastrophe	PERSON	0
+1.0	its	have	people	O	O
+1.0	President George W. Bush 's	send	21,500 new rambo	PERSON	NUMBER
+1.0	the American administration	have	record	O	O
+1.0	strategy	win approval from	Times	0	ORGANIZATION
+1.0	catastrophe	have	warning	O	O
+1.0	Times	add	it be right	ORGANIZATION	0
+1.0	this	be	new	0	0
+1.0	President George W. Bush 's	throw	oil on fire	PERSON	0
+1.0	Iraq	be	President George W. Bush 's	LOCATION	PERSON
+1.0	folly	have	march	DATE	O
+1.0	Iraq strategy	involve	risk	LOCATION	0
+1.0	chance	be	lower	0	0
+1.0	Iraq	have	sort	O	LOCATION
+1.0	strategy	put	Iraq on path towards stability	0	LOCATION
+1.0	President George W. Bush 's plan	draw skepticism with	warning of catastrophe for region	PERSON	0
+1.0	President George W. Bush 's plan	draw skepticism with	warning of catastrophe	PERSON	0
+1.0	George W. Bush	have	plan send to Iraq	PERSON	LOCATION
+1.0	Britain Independent	declare on	march	LOCATION	DATE
+1.0	President George W. Bush 's	have	soldiers	O	O
+1.0	Times	add	it be	ORGANIZATION	0
+1.0	Austria	have	Der Standard	ORGANIZATION	LOCATION
+1.0	its	have	sights	O	O
+1.0	strategy	however win	approval	0	0
+1.0	Washington	have	editorial	O	O
+1.0	strategy	win approval from	Times as attempt	0	ORGANIZATION
+1.0	strategy	however win approval from	Times	0	ORGANIZATION
+1.0	capital Baghdad	have	control	O	LOCATION
+1.0	plan	be	risky	0	0
+1.0	Washington Post	write in	its main editorial	ORGANIZATION	0
+1.0	President George W. Bush 's	send	another 21,000 he soldier	PERSON	NUMBER
+1.0	strategy	win	approval	0	0
+1.0	more american	die in	Iraq	0	LOCATION
+1.0	independent Al-Ghad newspaper	be in	Jordan	ORGANIZATION	LOCATION
+0.5811062244155907	President George W. Bush 's	oil on	fire	PERSON	0
+1.0	Fahd al-Khittan	write	columnist	PERSON	0
+1.0	strategy	win approval from	Times as valid last-ditch attempt	0	ORGANIZATION
+1.0	strategy	win approval from	Times as valid attempt	0	ORGANIZATION
+1.0	Arabs	have	suggestions	O	MISC
+1.0	troops	have	number	O	O
+1.0	President George W. Bush 's plan	draw skepticism from	several european	PERSON	0
+1.0	whose	have	chances	O	O
+1.0	plan	be	very risky	0	0
+1.0	President George W. Bush 's plan	draw skepticism from	european	PERSON	0
+1.0	its record	be in	region	0	0
+1.0	Washington	secure	control	LOCATION	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	strategy	win approval from	Times as last-ditch attempt	0	ORGANIZATION
+1.0	american	die as	result	0	0
+1.0	surge	be in	number of troops fight from current level of 132,000	0	NUMBER
+1.0	President George W. Bush 's plan	draw skepticism from	Arab newspaper	PERSON	MISC
+1.0	President George W. Bush 's plan	draw skepticism with	warning	PERSON	0
+1.0	socialist Ethnos newspaper	be in	Greece	ORGANIZATION	LOCATION
+1.0	chance	be	far lower	0	0
+1.0	President George W. Bush 's	send	21,500 rambo	PERSON	NUMBER
+1.0	Iraq strategy	involve	serious risk	LOCATION	0
+1.0	Washington Post	write in	its editorial	ORGANIZATION	0

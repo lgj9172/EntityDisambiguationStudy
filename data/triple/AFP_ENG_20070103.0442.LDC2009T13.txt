@@ -1,0 +1,76 @@
+1.0	male student	turn	they gun	0	0
+1.0	shooting	be latest in	long line of incident at US school	0	LOCATION
+1.0	shooting	be latest in	line of violent incident at US school	0	LOCATION
+1.0	student	be move to	area	0	0
+1.0	Ramsdell	tell	reporter	PERSON	0
+1.0	shooting	be latest in	line of incident	0	0
+1.0	school shooting	take place at	Columbine High School in Denver Colorado	0	LOCATION
+1.0	police	say at_time	Wednesday	0	DATE
+1.0	both	be	student	0	0
+1.0	Jacki Phongsavath	tell	KOMO-TV of Seattle	PERSON	ORGANIZATION
+1.0	shooting	be latest in	line of violent incident	0	0
+1.0	Leanna Albrecht	be	Tacoma Public Schools authority	PERSON	ORGANIZATION
+1.0	thing	have	sort	O	O
+1.0	shooting	be latest in	long line of violent incident at US school	0	LOCATION
+1.0	school shooting	take	place	0	0
+1.0	Leanna Albrecht	be spokeswoman of	Tacoma Public Schools authority	PERSON	ORGANIZATION
+1.0	Columbine High School	be in	Colorado	ORGANIZATION	LOCATION
+1.0	two male student	shoot	dead	NUMBER	0
+1.0	police	arrest	gunman	0	0
+1.0	school	be in	Pennsylvania	0	LOCATION
+1.0	worst school shooting	take place at	Columbine High School	0	ORGANIZATION
+1.0	three separate incident	be in	less than a week last September	DATE	DATE
+1.0	Jacki Phongsavath	tell	KOMO-TV	PERSON	ORGANIZATION
+1.0	police	arrest gunman from	few mile	0	0
+1.0	Washington	have	US state	O	LOCATION
+1.0	shooting	be	latest	0	0
+1.0	shooting	be latest in	long line of incident at US school in month	0	LOCATION
+1.0	shooting	be latest in	long line of violent incident at US school in month	0	LOCATION
+1.0	student	be move to	safe area	0	0
+1.0	KOMO-TV	be of	Seattle	ORGANIZATION	LOCATION
+1.0	school shooting	take place in	1999	0	DATE
+1.0	details	have	identities	O	O
+1.0	his	have	victim	O	O
+1.0	their	have	classroom	O	O
+1.0	Don Ramsdell	be	Tacoma	PERSON	LOCATION
+1.0	police	be in	Tacoma	0	LOCATION
+1.0	shooting	be latest in	long line of incident at US school in recent month	0	LOCATION
+1.0	police	later arrest gunman from	mile	0	0
+1.0	worst school shooting	take place at	Columbine High School in Denver Colorado	0	LOCATION
+1.0	shooting	be latest in	long line of violent incident at US school in recent month	0	LOCATION
+1.0	worst school shooting	be in	US history	0	LOCATION
+1.0	incidents	have	line	O	O
+1.0	14	have	ages	O	NUMBER
+1.0	Don Ramsdell	be police chief of	Tacoma	PERSON	LOCATION
+1.0	police	later arrest	18-year-old gunman	0	DURATION
+1.0	school shooting	take place at	Columbine High School	0	ORGANIZATION
+1.0	18	have	ages	O	NUMBER
+1.0	shooting	be latest in	line of incident at US school	0	LOCATION
+1.0	student	be	move	0	0
+1.0	Seattle	have	KOMO-TV	ORGANIZATION	LOCATION
+1.0	shooting	be latest in	line of incident at US school in month	0	LOCATION
+1.0	school	be in	northwestern US state of Washington	0	LOCATION
+1.0	detail	have	identity	0	0
+1.0	shooting	be latest in	long line of incident	0	0
+1.0	student	be	evacuate	0	0
+1.0	shooting	be latest in	line of incident at US school in recent month	0	LOCATION
+1.0	detail 's identity	have	have release	0	0
+1.0	both	be student at	school	0	0
+1.0	shooting	be latest in	long line of violent incident	0	0
+1.0	gunman	have	details	O	O
+1.0	shooting	be latest in	line	0	0
+1.0	shooting	be latest in	long line	0	0
+1.0	male student	shoot	dead	0	0
+1.0	Tacoma police chief Don Ramsdell	tell	press conference	PERSON	0
+1.0	police	arrest gunman from	mile	0	0
+1.0	police	later arrest	gunman	0	0
+1.0	US school	be in	recent month	LOCATION	DURATION
+1.0	worst school shooting	take place in	1999	0	DATE
+1.0	police	later arrest gunman from	few mile	0	0
+1.0	their	have	guns	O	O
+1.0	shooting	be latest in	line of violent incident at US school in month	0	LOCATION
+1.0	two male student	turn	they gun	NUMBER	0
+1.0	worst school shooting	take	place	0	0
+1.0	victim	have	details	O	O
+1.0	police	arrest	18-year-old gunman	0	DURATION
+1.0	shooting	be latest in	line of violent incident at US school in recent month	0	LOCATION

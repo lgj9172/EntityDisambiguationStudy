@@ -1,0 +1,41 @@
+1.0	split decision victory	be in	September last year	0	DATE
+1.0	referee	stop	bout one minute	0	DURATION
+1.0	former world champion Kawashima	have	30 win include 20 ko	PERSON	NUMBER
+1.0	former world champion Kawashima	have	30 win	PERSON	NUMBER
+1.0	super flyweight title	be with	technical knockout victory	0	0
+1.0	Mijares , 25	once send	Kawashima	PERSON	PERSON
+1.0	I	suffer time in	match against Kawashima	0	PERSON
+1.0	title-holder	return	title	0	0
+1.0	Cristian Mijares	defend	the WBC	PERSON	ORGANIZATION
+1.0	his	have	record	O	O
+1.0	I	suffer time in	previous match	0	0
+1.0	their	have	titles	O	O
+1.0	I	suffer	time	0	0
+1.0	I	suffer	down for first time	0	ORDINAL
+1.0	title-holder	return title to	WBC	0	ORGANIZATION
+1.0	Japan	have	Katsushige Kawashima	PERSON	LOCATION
+1.0	Cristian Mijares of Mexico	have	World Boxing Council	O	O
+1.0	whose proper name	be	Hong Chang-Soo	0	LOCATION
+1.0	he	council	the WBC	0	ORGANIZATION
+1.0	I	suffer time in	my career	0	0
+1.0	Japan	have	Katsushige Kawashima	LOCATION	PERSON
+1.0	Mexico	have	Cristian Mijares	PERSON	LOCATION
+1.0	Cristian Mijares	be of	Mexico	PERSON	LOCATION
+1.0	I	suffer	down for first ever time	0	ORDINAL
+1.0	former world champion Kawashima	have now	30 win	PERSON	NUMBER
+1.0	my	have	career	O	O
+1.0	Mijares , 25	send kawashima onto	floor	PERSON	0
+1.0	Cristian Mijares	successfully defend	the WBC	PERSON	ORGANIZATION
+1.0	champion	defend	they title	DURATION	0
+1.0	Cristian Mijares	defend	he World Boxing Council	PERSON	0
+1.0	whose	have	name	O	O
+1.0	Mijares , 25	once send kawashima onto	floor	PERSON	0
+1.0	it	be	repeat performance	0	0
+1.0	whose name	be	Hong Chang-Soo	0	LOCATION
+1.0	former world champion Kawashima	have now	30 win include 20 ko	PERSON	NUMBER
+1.0	I	suffer time in	previous match against Kawashima	0	PERSON
+1.0	Cristian Mijares	successfully defend	he World Boxing Council	PERSON	0
+0.24511853840911302	title-holder	return to	WBC	0	ORGANIZATION
+1.0	Mijares , 25	send	Kawashima	PERSON	PERSON
+1.0	I	suffer time in	match	0	0
+1.0	I	suffer	down time	0	0

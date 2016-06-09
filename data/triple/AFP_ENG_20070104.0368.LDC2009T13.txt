@@ -1,0 +1,189 @@
+1.0	Mark Boucher	put	Shaun Pollock	PERSON	PERSON
+1.0	South Africa	have	three productive partnership	LOCATION	NUMBER
+1.0	veteran leg-spinner Kumble	bowl	South Africa out for 373 shortly	PERSON	NUMBER
+1.0	first inning	lead on	day	ORDINAL	DATE
+1.0	day	have	strike	O	DATE
+1.0	balls	have	dismissing	O	O
+1.0	Kumble	bowl	Ashwell Prince	PERSON	PERSON
+1.0	effect	continue with	ball with bowler	0	0
+1.0	India successfully employed strangulation tactics	be step for	India successfully employed strangulation tactics	0	LOCATION
+1.0	giant step	ensure	least	0	0
+1.0	he	lose	patience	0	0
+1.0	he	lose patience against	Tendulkar	0	PERSON
+1.0	the last day	be with	Kumble	DATE	PERSON
+1.0	Mark Boucher	force	Shaun Pollock	PERSON	PERSON
+0.08417186681517996	Mark Boucher	eventually force	call for second new ball	PERSON	ORDINAL
+1.0	Indian captain Rahul Dravid	have	assessment of state of match	PERSON	0
+0.08417186681517996	Mark Boucher	force	call for new ball	PERSON	0
+1.0	41-run inning	lead on	third day	0	DATE
+1.0	veteran leg-spinner Kumble	bowl	South Africa out	PERSON	LOCATION
+0.08417186681517996	Mark Boucher	force	call after 115 over	PERSON	MONEY
+1.0	India successfully employed strangulation tactics	be	giant	0	0
+1.0	it	lead soon afterwards to	at least one more	0	NUMBER
+1.0	India	take	new ball	LOCATION	0
+1.0	his	have	team	O	O
+1.0	he	bowl	leg break	0	0
+1.0	his	have	bat	O	O
+1.0	Mark Boucher	put for	wicket	PERSON	0
+0.08417186681517996	Mark Boucher	eventually force	call for new ball	PERSON	0
+1.0	Kumble	dismiss dale steyn over	ball over	PERSON	0
+1.0	step	ensure	least	0	0
+0.08417186681517996	Mark Boucher	eventually force	call for second new ball after 115 over	PERSON	ORDINAL
+1.0	41-run inning	lead on	day	0	DATE
+1.0	41-run first inning	lead on	day of test	ORDINAL	DATE
+0.08417186681517996	Mark Boucher	force	call for second new ball	PERSON	ORDINAL
+1.0	Hashim Amla	have	that	O	PERSON
+0.08417186681517996	Mark Boucher	eventually force	call for ball after 115 over	PERSON	MONEY
+1.0	Indian captain Rahul Dravid	call for	new ball	MISC	0
+1.0	effect	continue with	old ball with bowler in action	0	0
+1.0	inning	lead on	day of third test	0	DATE
+1.0	Mark Boucher	put for	seventh wicket	PERSON	ORDINAL
+1.0	Mark Boucher	put on	69	PERSON	NUMBER
+1.0	41-run inning	lead on	third day of test	0	DATE
+1.0	India successfully employed strangulation tactics	be giant step for	India successfully employed strangulation tactics	0	LOCATION
+1.0	veteran leg-spinner Kumble	bowl south africa before	close	PERSON	0
+1.0	whose	have	dismissal	O	O
+1.0	India	have	second double strike of day	LOCATION	ORDINAL
+1.0	effect	continue with	old ball with bowler	0	0
+1.0	41-run first inning	lead on	day of third test	ORDINAL	DATE
+1.0	Ashwell Prince	be in	next	PERSON	0
+1.0	their	have	success	O	O
+1.0	it	be	India 's second double strike	0	ORDINAL
+1.0	it	be	India 's double strike	0	LOCATION
+0.08417186681517996	Mark Boucher	eventually force	call for ball	PERSON	0
+1.0	Kallis	regain	Prince	PERSON	PERSON
+1.0	41-run first inning	lead on	day	ORDINAL	DATE
+1.0	Eden Gardens	be  at_time	today	LOCATION	DATE
+0.08417186681517996	Mark Boucher	force	call for ball after 115 over	PERSON	MONEY
+1.0	Kumble	dismiss dale steyn over	successive ball over	PERSON	0
+1.0	Kallis	have put for	wicket	PERSON	0
+1.0	Indian captain Rahul Dravid	have	assessment	O	PERSON
+1.0	effect	continue with	ball with bowler in action	0	0
+1.0	it	be	India 's second strike of day	0	ORDINAL
+1.0	41-run inning	lead at	Newlands Thursday	0	DATE
+1.0	Indian captain Rahul Dravid	call after	115 over	MISC	MONEY
+1.0	it	lead soon to	at least one more	0	NUMBER
+1.0	continue	have	effect	0	0
+1.0	balls	have	made	O	O
+1.0	it	lead to	at least one more	0	NUMBER
+1.0	Test	have	day	DATE	O
+1.0	India	have	strike	O	LOCATION
+0.08417186681517996	Mark Boucher	eventually force	Shaun Pollock	PERSON	PERSON
+1.0	South Africa	to	hope	LOCATION	0
+1.0	it	lead afterwards to	at least one more	0	NUMBER
+1.0	his	have	stumps	O	O
+1.0	first inning	lead at	Newlands Thursday	ORDINAL	DATE
+1.0	off-spinner sehwag	strike blow to	South Africa 's hope	0	LOCATION
+1.0	game	have	part	O	O
+1.0	41-run first inning	lead on	third day of third test	ORDINAL	DATE
+1.0	his	have	thigh pad	O	O
+1.0	Rahul Dravid	be	Indian	PERSON	MISC
+0.08417186681517996	Mark Boucher	force	call for second ball after 115 over	PERSON	ORDINAL
+1.0	it	be	India 's strike	0	LOCATION
+1.0	41-run inning	lead on	day of test	0	DATE
+1.0	his	have	runs	O	O
+1.0	Kallis	have put for	fourth wicket	PERSON	ORDINAL
+1.0	state	have	assessment	O	O
+0.08417186681517996	Mark Boucher	eventually force	call for second ball	PERSON	ORDINAL
+1.0	first inning	lead on	day of test	ORDINAL	DATE
+1.0	Smith	have	dismissal	O	PERSON
+1.0	effect	continue with	old ball	0	0
+1.0	first inning	lead on	day of third test	ORDINAL	DATE
+1.0	41-run first inning	lead on	third day	ORDINAL	DATE
+0.08417186681517996	Mark Boucher	force	call	PERSON	0
+1.0	inning	lead at	Newlands Thursday	0	DATE
+1.0	Kumble	dismiss	Dale Steyn	PERSON	PERSON
+1.0	Indian captain Rahul Dravid	call for	second new ball	MISC	ORDINAL
+1.0	inning	lead on	day of test	0	DATE
+1.0	Indian captain Rahul Dravid	call for	ball	MISC	0
+1.0	Kallis	slowly regain	Prince	PERSON	PERSON
+1.0	first inning	lead on	third day of third test	ORDINAL	DATE
+1.0	whose dismissal	set	he team	0	0
+1.0	Indian captain Rahul Dravid	call for	second ball	MISC	ORDINAL
+1.0	off-spinner sehwag	strike	third blow	0	ORDINAL
+0.08417186681517996	Mark Boucher	force	call for new ball after 115 over	PERSON	MONEY
+1.0	Pollock	have	wicket	O	LOCATION
+1.0	Zaheer Khan	have	caught	O	PERSON
+1.0	their	have	noses	O	O
+1.0	Tendulkar	make	breakthrough	PERSON	0
+1.0	effect	continue with	old ball with slow bowler	0	0
+1.0	inning	lead on	third day	0	DATE
+1.0	Kallis	be in	uncharacteristic fashion	PERSON	0
+1.0	41-run inning	lead on	third day of third test	0	DATE
+1.0	India successfully employed strangulation tactics	be	giant step	0	0
+1.0	day	have	94	NUMBER	DATE
+1.0	it	be	India 's double strike of day	0	LOCATION
+1.0	India	take	second new ball	LOCATION	ORDINAL
+1.0	Kallis	be in	out uncharacteristic fashion	PERSON	0
+1.0	off-spinner sehwag	strike	blow	0	0
+1.0	inning	lead on	third day of third test	0	DATE
+1.0	South Africa	have	hopes	O	LOCATION
+0.08417186681517996	Mark Boucher	eventually force	call for second ball after 115 over	PERSON	ORDINAL
+1.0	Kumble	bowl	Ashwell Prince in next	PERSON	PERSON
+1.0	inning	lead on	day	0	DATE
+1.0	first inning	lead on	third day of test	ORDINAL	DATE
+1.0	Munaf Patel	have	edging	O	PERSON
+1.0	Gibbs	be	unlucky	PERSON	0
+1.0	it	be	India 's second double strike of day	0	ORDINAL
+1.0	series	have	least	O	O
+1.0	Kumble	dismiss dale steyn over	successive ball in next over	PERSON	0
+1.0	effect	continue with	ball with slow bowler in action	0	0
+1.0	thigh pad	have	leg fielder Wasim Jaffer	PERSON	O
+1.0	South Africa	have	three partnership	LOCATION	NUMBER
+1.0	match	have	state	O	O
+1.0	it	be	India 's second strike	0	ORDINAL
+0.08417186681517996	Mark Boucher	eventually force	call after 115 over	PERSON	MONEY
+1.0	old ball	be with	slow bowler in action	0	0
+1.0	continue	have	effect make	0	0
+1.0	South Africa	be on	the last day	LOCATION	DATE
+1.0	ball	go to	leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+1.0	41-run inning	lead on	day of third test	0	DATE
+1.0	effect	continue with	ball	0	0
+1.0	Mark Boucher	eventually force	Indian captain Rahul Dravid	PERSON	MISC
+1.0	swing	have	lot	O	O
+1.0	ball	miss	he bat	0	0
+1.0	pitch	be in	South Africa	0	LOCATION
+1.0	inning	lead on	third day of test	0	DATE
+1.0	Indian captain Rahul Dravid	have	team	O	O
+1.0	Mark Boucher	eventually force	Shaun Pollock	PERSON	PERSON
+0.08417186681517996	Mark Boucher	eventually force	call for new ball after 115 over	PERSON	MONEY
+1.0	India	take	ball	LOCATION	0
+1.0	today	gardens at_time	Kolkata	DATE	LOCATION
+1.0	41-run first inning	lead at	Newlands Thursday	ORDINAL	DATE
+1.0	Kallis	put	Prince	PERSON	PERSON
+1.0	Tendulkar	make	key breakthrough	PERSON	0
+1.0	Kallis	have make	careful 54	PERSON	NUMBER
+1.0	Kumble	dismiss dale steyn over	ball in next over	PERSON	0
+0.08417186681517996	Mark Boucher	force	call for second new ball after 115 over	PERSON	ORDINAL
+1.0	41-run first inning	lead on	third day of test	ORDINAL	DATE
+1.0	Kallis	have put on	83	PERSON	NUMBER
+1.0	deliveries	have	making	O	O
+1.0	first inning	lead on	third day	ORDINAL	DATE
+1.0	Kallis	be in	fashion	PERSON	0
+1.0	India successfully employed strangulation tactics	be	step	0	0
+1.0	ball	go to	short leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+0.08417186681517996	Mark Boucher	force	call for ball	PERSON	0
+1.0	India	take	second ball	LOCATION	ORDINAL
+0.08417186681517996	Mark Boucher	eventually force	call	PERSON	0
+1.0	key wicket	fall during	afternoon	0	TIME
+1.0	effect	continue with	old ball with slow bowler in action	0	0
+1.0	ball	go to	short leg fielder Wasim Jaffer	0	PERSON
+1.0	slow bowler	be in	action	0	0
+0.08417186681517996	Mark Boucher	put	Shaun Pollock	PERSON	PERSON
+1.0	Kallis	be in	out fashion	PERSON	0
+1.0	wicket	fall on	time	0	0
+1.0	Graeme Smith	be	south African	PERSON	MISC
+1.0	pitch	deteriorate	more	0	0
+1.0	three key wicket	fall during	afternoon	0	TIME
+1.0	it	be	India 's strike of day	0	LOCATION
+1.0	veteran leg-spinner Kumble	bowl	South Africa	PERSON	LOCATION
+1.0	effect	continue with	ball with slow bowler	0	0
+1.0	veteran leg-spinner Kumble	take	four wicket	PERSON	NUMBER
+1.0	Boucher	make	50	PERSON	NUMBER
+1.0	our	have	success	O	O
+0.08417186681517996	Mark Boucher	force	call for second ball	PERSON	ORDINAL
+0.08417186681517996	Mark Boucher	force	Shaun Pollock	PERSON	PERSON
+1.0	Mark Boucher	force	Indian captain Rahul Dravid	PERSON	MISC
+1.0	foot	have	playing	O	O
+1.0	ball	go to	leg fielder Wasim Jaffer	0	PERSON
+1.0	a	have	hope	O	O

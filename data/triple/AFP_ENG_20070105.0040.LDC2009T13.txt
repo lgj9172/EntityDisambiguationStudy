@@ -1,0 +1,84 @@
+1.0	the United States	say	add	0	0
+1.0	six-nation negotiation	be	hold in Beijing after hiatus	0	LOCATION
+1.0	six-nation negotiation	be hold after	13-month hiatus due	0	DURATION
+1.0	North Korea	conduct	its nuclear test	0	0
+1.0	contingency	have	event	O	O
+1.0	negotiator	make	much progress	0	0
+1.0	North Korea	conduct	its first test	0	ORDINAL
+1.0	negotiation	be hold in	Beijing	0	LOCATION
+1.0	Foreign Minister Taro Aso	elaborate on	scenario	PERSON	0
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	North Korea	spark condemnation on	nation	0	0
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	report	cite	source relate to matter	0	0
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	reporters	have	forces	O	O
+1.0	possible crisis	be in	North East Asia	0	LOCATION
+1.0	six-nation negotiation	be	hold in Beijing after 13-month hiatus	0	DURATION
+1.0	North Korea	have	nuclear program	LOCATION	0
+1.0	Japan	have	security council	O	LOCATION
+1.0	many as 100,000 to 150,000 North Korean refugees	have	some	O	O
+1.0	six-nation negotiation	be hold after	hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiator	make	progress	0	0
+1.0	Foreign Minister Taro Aso	tell	reporter	PERSON	0
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	North Korea	have	test	O	O
+1.0	six-nation negotiation	be hold after	13-month hiatus	0	DURATION
+1.0	Yasuhisa Shiozaki	tell	reporter	0	0
+1.0	six-nation negotiation	be hold in	Beijing	0	LOCATION
+1.0	Pyongyang	have	boycott	O	LOCATION
+1.0	refugees	have	number	O	O
+1.0	North Korea	spark condemnation on	already nation	0	0
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	Japan	be in	event of unspecified contingency	LOCATION	0
+1.0	report	cite	unnamed source	0	0
+1.0	six-nation negotiation	be hold after	hiatus due	0	0
+1.0	report	cite	unnamed source relate to matter	0	0
+1.0	negotiation	be	hold in Beijing after 13-month hiatus	0	DURATION
+1.0	North Korea	spark	international condemnation	0	0
+0.5174493699604719	unnamed source	relate to	matter	0	0
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	US television network	report at_time	Thursday	LOCATION	DATE
+1.0	major development	be in	situation	0	0
+1.0	exist facility	be in	Japan	0	LOCATION
+1.0	negotiation	be hold after	13-month hiatus due	0	DURATION
+1.0	negotiation	be hold after	hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	Foreign Minister Taro Aso	say on	Friday	PERSON	DATE
+1.0	North Korea	have	programs	O	LOCATION
+1.0	negotiation	be	hold	0	0
+1.0	China	invade	Taiwan	LOCATION	LOCATION
+1.0	Foreign Minister Taro Aso	elaborate on	various scenario	PERSON	0
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott	0	LOCATION
+1.0	negotiation	be	hold in Beijing after hiatus	0	LOCATION
+1.0	negotiation	be hold after	hiatus due	0	0
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US sanction	0	LOCATION
+1.0	efforts	have	part	O	O
+1.0	North Korea	conduct	its test	0	0
+1.0	Japan	to	national security council	LOCATION	0
+0.5174493699604719	source	relate to	matter	0	0
+1.0	North Korea	spark	condemnation	0	0
+1.0	tourists	have	thousands	O	O
+1.0	report	cite	source	0	0
+1.0	Tokyo	also prepare	Washington	LOCATION	LOCATION
+1.0	attacks	have	case	O	O
+1.0	North Korea	spark condemnation on	already impoverished nation	0	0
+1.0	forces	have	response	O	O
+1.0	six-nation negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	world	have	rest	O	O
+1.0	negotiation	be hold after	13-month hiatus due to Pyongyang 's boycott over US financial sanction	0	LOCATION
+1.0	six-nation negotiation	be hold after	hiatus	0	0
+1.0	six-nation negotiation	be	hold	0	0
+1.0	report	cite	source relate	0	0
+1.0	North Korea	conduct	its first nuclear test	0	ORDINAL
+1.0	North Korea	spark condemnation on	impoverished nation	0	0
+1.0	negotiation	be hold after	13-month hiatus	0	DURATION
+1.0	unspecified contingency	be in	korean peninsula	0	LOCATION
+1.0	report	cite	unnamed source relate	0	0
+1.0	North Korea	announce on	October 9	0	DATE
+1.0	negotiation	be hold after	hiatus	0	0
+1.0	possible crisis	be in	korean peninsula	0	LOCATION
+1.0	Tokyo	prepare	Washington	LOCATION	LOCATION
+1.0	Beijing	be in	December	LOCATION	DATE
+1.0	Pyongyang	to	boycott over US financial sanction	LOCATION	LOCATION
+1.0	North Korea	shock	Japan	LOCATION	LOCATION
+1.0	ABC	be television network of	the United States	ORGANIZATION	LOCATION

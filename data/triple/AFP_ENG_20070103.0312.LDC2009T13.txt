@@ -1,0 +1,20 @@
+1.0	german-us automaker DaimlerChrysler AG	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	german-us automaker DaimlerChrysler AG	report to	2.39 million unit	ORGANIZATION	NUMBER
+1.0	Dodge	be brand of	US	ORGANIZATION	LOCATION
+1.0	US car badge	lose	ground	LOCATION	0
+1.0	1.0 percent	be in	December alone	PERCENT	DATE
+1.0	automaker DaimlerChrysler AG	report in	5.0 percent drop	ORGANIZATION	PERCENT
+1.0	automaker DaimlerChrysler AG	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	sale	rise	1.0 percent in December	0	PERCENT
+1.0	US car badge	lose ground to	asian rival	LOCATION	DURATION
+1.0	US car badge	lose ground to	rival	LOCATION	DURATION
+1.0	December alone	have	US sales	O	O
+0.363876969759211	sale	rise to	190,415	0	NUMBER
+1.0	Chrysler Group sale	be over	2006	ORGANIZATION	DATE
+1.0	Chrysler Group sale	be down over	2006	ORGANIZATION	DATE
+1.0	German-US automaker DaimlerChrysler AG	have	US sales	O	O
+1.0	Mercedes-Benz USA sale	advance	11.0 percent	ORGANIZATION	PERCENT
+1.0	german-us automaker DaimlerChrysler AG	report in	5.0 percent drop	ORGANIZATION	PERCENT
+1.0	sale	rise	1.0 percent	0	PERCENT
+1.0	November	have	third	ORDINAL	O
+1.0	automaker DaimlerChrysler AG	report to	2.39 million unit	ORGANIZATION	NUMBER

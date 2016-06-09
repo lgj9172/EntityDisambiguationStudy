@@ -1,0 +1,132 @@
+1.0	contract	pull back to	53.15 dollar	0	MONEY
+1.0	London	have	Brent North Sea crude for February delivery	LOCATION	LOCATION
+1.0	distillates	have	stockpiles	O	O
+1.0	OPEC oil cartel	decide at	meeting	ORGANIZATION	0
+1.0	United Arab Emirates	minister be	Mohammad bin Dhaen al Hamli	ORGANIZATION	PERSON
+1.0	OPEC oil cartel	cut output by	500,000 barrel per day	ORGANIZATION	DURATION
+1.0	weather	be in	the United States	0	LOCATION
+1.0	distillate	of stockpile be	petrol	0	0
+1.0	OPEC	have	reduction	O	ORGANIZATION
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	United Arab Emirates ' oil minister	acknowledge at_time	Thursday	ORGANIZATION	DATE
+1.0	oil price	have shed about	14 percent in value	0	PERCENT
+1.0	powerful 11-nation OPEC oil cartel	cut output by	500,000 barrel	ORGANIZATION	NUMBER
+1.0	London 's Brent North Sea crude	sink in	trading	LOCATION	0
+1.0	pit trading	stand in	pit trading	0	0
+1.0	11-nation OPEC oil cartel	decide at_time	month	ORGANIZATION	DATE
+1.0	oil	flow through	main pipeline from Russia to Europe	0	LOCATION
+1.0	Russia	be to	Europe	LOCATION	LOCATION
+1.0	contract	pull down to	53.15 dollar	0	MONEY
+1.0	oil price	have shed since	start	0	DATE
+1.0	contract	pull back down to	53.15 dollar	0	MONEY
+1.0	heating fuel demand	be in	the United States	0	LOCATION
+1.0	oil	flow through	main pipeline from Russia	0	LOCATION
+1.0	potential	be with	mild weather in United States	0	LOCATION
+1.0	contract	pull to	53.15 dollar	0	MONEY
+1.0	likely OPEC	make	output cut	ORGANIZATION	0
+1.0	OPEC member	be	concerned	ORGANIZATION	0
+0.55577050104786	emergency production meeting	organisation of	the more likely OPEC	0	ORGANIZATION
+1.0	potential	be with	weather	0	0
+1.0	OPEC member	be concerned by	price	ORGANIZATION	0
+1.0	OPEC oil cartel	cut output from	February 2007	ORGANIZATION	DATE
+1.0	powerful 11-nation OPEC oil cartel	cut output by	500,000 barrel per day	ORGANIZATION	DURATION
+1.0	bpd	have	reduction	O	O
+1.0	OPEC member	be concerned by	plunge price	ORGANIZATION	0
+1.0	11-nation OPEC oil cartel	cut	output	ORGANIZATION	0
+1.0	Petroleum Exporting Countries	have	Organisation	ORGANIZATION	ORGANIZATION
+1.0	OPEC oil cartel	cut output by	500,000 barrel	ORGANIZATION	NUMBER
+1.0	powerful 11-nation OPEC oil cartel	decide at	meeting	ORGANIZATION	0
+1.0	Moscow	agree	Belarus	LOCATION	LOCATION
+1.0	Russia to Europe	pay	new transit tax	LOCATION	0
+1.0	11-nation OPEC oil cartel	decide in	nigerian capital Abuja	ORGANIZATION	LOCATION
+0.8007309404049813	market	test at	level	0	0
+1.0	pit trading	stand down at	53.42 dollar	0	MONEY
+1.0	pit trading	stand down in	later pit trading	0	0
+1.0	oil price	have now shed about	14 percent in value	0	PERCENT
+1.0	London 's Brent North Sea crude	sink in	electronic trading	LOCATION	0
+1.0	Russia to Europe	pay	transit tax	LOCATION	0
+1.0	OPEC oil cartel	decide in	nigerian capital Abuja	ORGANIZATION	LOCATION
+1.0	Wednesday	from	close	DATE	0
+1.0	14 percent	be in	value	PERCENT	0
+1.0	it	be announce at_time	Thursday	0	DATE
+1.0	OPEC oil cartel	decide at_time	last month	ORGANIZATION	DATE
+1.0	oil price	have now shed since	start of 2007	0	DATE
+1.0	Organisation	hold	emergency production meeting	ORGANIZATION	0
+1.0	oil price	spark	speculation	0	0
+1.0	Russia	have	reputation	O	LOCATION
+0.55577050104786	emergency production meeting	organisation of	Petroleum Exporting Countries	0	ORGANIZATION
+1.0	11-nation OPEC oil cartel	cut output from	February 2007	ORGANIZATION	DATE
+1.0	Kevin Norrish	be analyst of	Barclays Capital	PERSON	ORGANIZATION
+1.0	potential	be with	mild weather	0	0
+1.0	North Sea	be brent of	London	LOCATION	LOCATION
+1.0	pit trading	stand at	53.42 dollar per barrel	0	MONEY
+1.0	oil	again flow through	main pipeline from Russia to Europe	0	LOCATION
+1.0	11-nation OPEC oil cartel	cut output by	500,000 barrel per day	ORGANIZATION	DURATION
+1.0	11-nation OPEC oil cartel	decide at	meeting	ORGANIZATION	0
+1.0	it	be announce in	other news	0	0
+1.0	Organisation	soon hold	emergency production meeting	ORGANIZATION	0
+1.0	London 's Brent North Sea crude	sink to	52.60 dollar per barrel	LOCATION	MONEY
+0.47079032867367177	mark	lowest point since	June 9 2005	0	DATE
+1.0	potential	be with	weather in United States	0	LOCATION
+1.0	Thursday	in	early electronic deal	DATE	0
+1.0	Russia to Europe	pay	transit tax impose	LOCATION	0
+1.0	supplies	be halt on	Monday	0	DATE
+1.0	oil	again flow through	pipeline	0	0
+1.0	oil	flow through	pipeline from Russia	0	LOCATION
+1.0	it	be	announce	0	0
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	pit trading	stand down at	53.42 dollar per barrel	0	MONEY
+1.0	it	be	in other news Thursday announce	0	DATE
+1.0	New York 's main oil future contract	crude for	February delivery	LOCATION	DATE
+1.0	Thursday	have	deals	O	DATE
+1.0	OPEC oil cartel	decide in	capital Abuja	ORGANIZATION	LOCATION
+1.0	powerful 11-nation OPEC oil cartel	decide at_time	last month	ORGANIZATION	DATE
+1.0	OPEC oil cartel	decide at_time	month	ORGANIZATION	DATE
+1.0	powerful 11-nation OPEC oil cartel	cut output from	February 2007	ORGANIZATION	DATE
+1.0	pit trading	stand in	later pit trading	0	0
+1.0	2007	have	start	DATE	DATE
+1.0	oil	again flow through	pipeline from Russia to Europe	0	LOCATION
+1.0	oil price	have now shed since	start	0	DATE
+1.0	powerful 11-nation OPEC oil cartel	decide at_time	month	ORGANIZATION	DATE
+1.0	oil price	have shed since	start of 2007	0	DATE
+1.0	Abuja	be in	nigerian	LOCATION	0
+1.0	OPEC	have	reduction of 1.2 million bpd	ORGANIZATION	NUMBER
+1.0	11-nation OPEC oil cartel	cut output by	500,000 barrel	ORGANIZATION	NUMBER
+1.0	barrel	be in	Thursday 's early electronic deal	0	DATE
+1.0	Russia to Europe	pay	new transit tax impose	LOCATION	0
+1.0	oil	again flow through	main pipeline from Russia	0	LOCATION
+1.0	powerful 11-nation OPEC oil cartel	decide in	capital Abuja	ORGANIZATION	LOCATION
+1.0	powerful 11-nation OPEC oil cartel	cut	output	ORGANIZATION	0
+1.0	powerful 11-nation OPEC oil cartel	decide in	nigerian capital Abuja	ORGANIZATION	LOCATION
+1.0	oil	flow through	pipeline	0	0
+1.0	it	be	in news Thursday announce	0	DATE
+1.0	Russia	have	reputation	LOCATION	0
+1.0	Kevin Norrish	be	Barclays Capital	PERSON	ORGANIZATION
+1.0	11-nation OPEC oil cartel	decide in	capital Abuja	ORGANIZATION	LOCATION
+1.0	it	be announce in	news	0	0
+1.0	pit trading	stand at	53.42 dollar	0	MONEY
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	Wednesday	have	close	O	DATE
+1.0	oil price	have shed about	14 percent	0	PERCENT
+1.0	London 's Brent North Sea crude	sink to	52.60 dollar	LOCATION	MONEY
+1.0	oil	again flow through	pipeline from Russia	0	LOCATION
+1.0	supplies	be	halt	0	0
+1.0	Moscow	settle	Belarus	LOCATION	LOCATION
+1.0	oil price	have now shed about	14 percent	0	PERCENT
+0.47079032867367177	mark	point since	June 9 2005	0	DATE
+1.0	oil	again flow through	main pipeline	0	0
+1.0	oil	flow through	main pipeline	0	0
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	big build	be in	product	0	0
+1.0	delivery	be in	February	0	DATE
+1.0	US Department	add to	picture	ORGANIZATION	0
+1.0	11-nation OPEC oil cartel	decide at_time	last month	ORGANIZATION	DATE
+1.0	United Arab Emirates	have	oil minister	O	ORGANIZATION
+1.0	potential	be with	very mild weather in United States	0	LOCATION
+1.0	pit trading	stand down in	pit trading	0	0
+1.0	OPEC oil cartel	cut	output	ORGANIZATION	0
+1.0	gasoline	have	stockpiles	O	O
+1.0	potential	be with	very mild weather	0	0
+1.0	London	have	Brent North Sea crude	O	LOCATION
+1.0	likely OPEC	make	fresh output cut	ORGANIZATION	0
+1.0	oil	flow through	pipeline from Russia to Europe	0	LOCATION

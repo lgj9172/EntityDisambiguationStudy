@@ -1,0 +1,38 @@
+1.0	nation	have	leadership	0	0
+0.9602735066816073	top official	string of	corruption scandal	0	0
+1.0	Israel	of	second largest lender	LOCATION	ORDINAL
+1.0	influence	have	abuse	O	O
+1.0	error	have	percent margin	O	O
+1.0	ITA	have	Jacky Matza	PERSON	O
+1.0	string	allegedly involve	top official	0	0
+1.0	Olmert 's	have deny	wrongdoing	PERSON	0
+1.0	Israel	have	have wrack in recent month	LOCATION	DURATION
+1.0	that	include authority be	ITA	0	0
+1.0	finance minister	be in	2004	0	DATE
+1.0	nation	have	leadership	O	O
+1.0	Olmert	have	secretary	O	PERSON
+1.0	Israel	have	lender	O	LOCATION
+1.0	ITA official	be under	currently investigation	ORGANIZATION	DATE
+0.9602735066816073	official	string of	corruption scandal	0	0
+1.0	Israel	's lender be	Bank Leumi	LOCATION	ORGANIZATION
+1.0	poll	have	4.5 percent margin of error	0	PERCENT
+1.0	poll	have	4.5 percent margin	0	PERCENT
+1.0	other ITA official	be under	currently investigation	ORGANIZATION	DATE
+1.0	Israel	have	have wrack in month	LOCATION	0
+1.0	its chief Jacky Matza	have	personal secretary of 30 year	PERSON	DURATION
+1.0	Jacky Matza	have	that	O	PERSON
+1.0	Israel	have	have wrack	LOCATION	0
+1.0	tax treatment	have	promises	O	O
+1.0	lender	have	privatization	O	O
+1.0	years	have	secretary	O	DURATION
+1.0	corruption scandals	have	string	O	O
+1.0	other ITA official	be under	investigation	ORGANIZATION	0
+1.0	its chief Jacky Matza	have	secretary	O	PERSON
+1.0	ITA official	be under	investigation	ORGANIZATION	0
+1.0	house arrest	be in	case	0	0
+1.0	string	involve	official	0	0
+1.0	string	involve	top official	0	0
+1.0	powerful businessman	be in	exchange	0	0
+1.0	string	allegedly involve	official	0	0
+1.0	media	report on	Tuesday Israeli	0	LOCATION
+1.0	Israelis	have	percent	PERCENT	MISC

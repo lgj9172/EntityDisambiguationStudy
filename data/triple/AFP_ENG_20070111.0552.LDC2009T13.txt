@@ -1,0 +1,60 @@
+1.0	increase	would meanwhile put closer	leave of british worker	0	0
+1.0	increase	would meanwhile put closer	annual leave of british worker	0	SET
+1.0	holidays	have	business	O	O
+1.0	wages bill	have	percent	PERCENT	O
+1.0	Britain	have	government	O	LOCATION
+1.0	Britain 's minimum holiday entitlement	increase from	20	LOCATION	NUMBER
+1.0	increase	would meanwhile put closer	annual leave of worker	0	SET
+1.0	worker	be entitle compare with	current minimum allowance of 20 day in Britain	0	DURATION
+1.0	increase	would put closer	annual leave of worker	0	SET
+1.0	increase	would meanwhile put closer	leave of worker	0	0
+1.0	Britain 's holiday entitlement	increase to	28 day	LOCATION	DURATION
+1.0	increase	would put closer	annual leave	0	SET
+1.0	People	deserve	break	0	0
+1.0	increase	would put closer	leave of worker	0	0
+1.0	Britain 's government	unveil	plan	LOCATION	DURATION
+1.0	days	have	holiday	O	DURATION
+1.0	increase	would meanwhile put	annual leave	0	SET
+1.0	nation	of	total wages bill	DURATION	DURATION
+1.0	increase	would meanwhile put	leave of british worker	0	0
+1.0	increase	would put	leave	0	0
+1.0	Britain	have	holiday entitlement	O	LOCATION
+1.0	those	receive	38	0	NUMBER
+1.0	break	have	part	O	O
+1.0	increase	would meanwhile put closer	annual leave	0	SET
+1.0	Britain	have	minimum holiday entitlement	LOCATION	0
+1.0	20 day	be in	Britain	DURATION	LOCATION
+1.0	worker	be in	Ireland	0	LOCATION
+1.0	employers	offer to	staff	0	0
+1.0	increase	would meanwhile put	leave	0	0
+1.0	worker	be entitle compare with	minimum allowance of 20 day	0	DURATION
+1.0	nation	have	wages bill	O	O
+1.0	worker	be entitle compare with	minimum allowance	0	0
+1.0	worker	be entitle compare with	current minimum allowance	0	DATE
+1.0	increase	would meanwhile put	leave of worker	0	0
+1.0	increase	would meanwhile put	annual leave of british worker	0	SET
+1.0	increase	would put closer	leave	0	0
+1.0	increase	would meanwhile put closer	leave	0	0
+1.0	Britain 's holiday entitlement	increase from	20	LOCATION	NUMBER
+1.0	increase	would put	leave of worker	0	0
+1.0	worker	be entitle compare with	minimum allowance of 20 day in Britain	0	DURATION
+1.0	million	be give	just 12 day	0	DURATION
+1.0	workers	have	total	O	O
+1.0	increase	would put	annual leave of british worker	0	SET
+1.0	days	have	minimum allowance	O	DURATION
+1.0	Britain	have	government	LOCATION	0
+1.0	their	have	counterparts	O	O
+1.0	increase	would meanwhile put	annual leave of worker	0	SET
+1.0	move	prevent	employer	0	0
+1.0	increase	would put	leave of british worker	0	0
+1.0	increase	would put closer	leave of british worker	0	0
+1.0	workers	have	leave	O	O
+1.0	worker	would see under	plan	0	0
+1.0	worker	be entitle compare with	current minimum allowance of 20 day	0	DURATION
+1.0	Britain	have	government on Thursday	LOCATION	DATE
+1.0	People	deserve	decent break	0	0
+1.0	Britain 's minimum holiday entitlement	increase to	28 day	LOCATION	DURATION
+1.0	increase	would put closer	annual leave of british worker	0	SET
+1.0	workers	have	millions	O	O
+1.0	increase	would put	annual leave of worker	0	SET
+1.0	increase	would put	annual leave	0	SET

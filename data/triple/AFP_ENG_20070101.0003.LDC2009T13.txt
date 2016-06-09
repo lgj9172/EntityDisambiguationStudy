@@ -1,0 +1,29 @@
+1.0	Mikhail Fradkov	be of	russian	PERSON	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	tell	journalist	0	0
+1.0	budget	have	percent	PERCENT	O
+1.0	country	of	annual budget	0	SET
+1.0	gas imports	have	price	O	O
+1.0	oil	have	tonnes	MONEY	O
+1.0	Belarussian Prime Minister Sergei Sidorsky	colleague	head of russian government Mikhail Fradkov	0	PERSON
+1.0	my colleague	head of	Mikhail Fradkov	0	PERSON
+1.0	Russia	sell	they	LOCATION	0
+1.0	Prime Minister Sergei Sidorsky	say at_time	Monday	PERSON	DATE
+1.0	Belarussian Prime Minister Sergei Sidorsky	tell journalist after	shortly midnight	0	TIME
+1.0	Belarussian Prime Minister Sergei Sidorsky	tell journalist after	midnight	0	TIME
+1.0	belarussian Prime Minister Sergei Sidorsky	say at_time	Monday	PERSON	DATE
+1.0	Belarussian Prime Minister Sergei Sidorsky	tell journalist after	shortly midnight at press conference	0	TIME
+1.0	Sergei Sidorsky	be	belarussian	PERSON	0
+1.0	price	have	doubling	O	O
+1.0	country	have	budget	O	O
+1.0	new duties	have	division	O	O
+1.0	government Mikhail Fradkov	have	head	O	PERSON
+1.0	money	have	amounts	O	O
+1.0	Belarussian Prime Minister Sergei Sidorsky	tell journalist after	midnight at press conference	0	TIME
+1.0	duty hike	be announce in	mid-december	0	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	have	colleague	O	O
+1.0	journalist	announce	gas deal	0	0
+1.0	duty hike	be	announce	0	0
+1.0	duty hike	be	when announce in mid-december	0	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	have	counterpart	O	O
+1.0	duty hike	be	when announce	0	0
+1.0	crude	have	tonne	O	O

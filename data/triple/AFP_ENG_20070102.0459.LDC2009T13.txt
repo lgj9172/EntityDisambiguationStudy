@@ -1,0 +1,89 @@
+1.0	David Hicks	fight with	Taliban government force	0	ORGANIZATION
+1.0	controversy	have grow ahead of	next week 's fifth anniversary of he detention in US military prison	0	LOCATION
+0.16092090867323494	one	have	have already refuse to prison	NUMBER	0
+1.0	controversy	have grow of	week 's anniversary of he detention	0	DATE
+1.0	Australia 's prosecutor	label	US treatment of country 's Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	Australia 's chief military prosecutor	label	US treatment of country 's Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	anniversary	have	grown	O	O
+1.0	trial	be in	Guantanamo Bay	0	LOCATION
+1.0	detention	have	anniversary	O	O
+1.0	opposition	demand	release	0	0
+1.0	constituents	have	one	NUMBER	O
+1.0	controversy	have grow of	week 's fifth anniversary	0	ORDINAL
+1.0	controversy	have grow ahead of	next week 's fifth anniversary of he detention in US prison	0	LOCATION
+1.0	controversy	have grow ahead of	week 's fifth anniversary	0	ORDINAL
+1.0	australian politician	say at_time	Wednesday	0	DATE
+1.0	controversy	have grow ahead of	next week 's anniversary	0	DATE
+1.0	senator	be lead	appeal	0	0
+1.0	controversy	have grow of	week 's anniversary of he detention in US prison	0	LOCATION
+1.0	controversy	have grow of	next week 's anniversary of he detention	0	DATE
+1.0	next week	of	fifth anniversary of detention in US military prison	DATE	LOCATION
+1.0	controversy	have grow ahead of	week 's anniversary of he detention	0	DATE
+1.0	David Hicks	be allege	have be fight with Taliban government force	0	ORGANIZATION
+1.0	Australia	have	chief military prosecutor	LOCATION	0
+1.0	Australia 's military prosecutor	label	US treatment	LOCATION	LOCATION
+0.16092090867323494	one	have	have refuse to prison	NUMBER	0
+1.0	controversy	have grow of	week 's fifth anniversary of he detention in US prison	0	LOCATION
+1.0	John Howard	say in	interview publish	PERSON	0
+1.0	controversy	have grow of	next week 's fifth anniversary	0	ORDINAL
+1.0	controversy	have grow of	week 's anniversary of he detention in US military prison	0	LOCATION
+1.0	David Hicks	be	where allege	0	0
+1.0	country	of	sole Guantanamo Bay detainee	0	LOCATION
+1.0	he detention	be in	US military prison	0	LOCATION
+1.0	Prime Minister John Howard	have	government	O	PERSON
+1.0	Australia 's prosecutor	label	US treatment of country 's sole Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	controversy	have grow of	week 's fifth anniversary of he detention	0	ORDINAL
+1.0	South Australia	have	home state	O	LOCATION
+1.0	controversy	have grow of	next week 's fifth anniversary of he detention in US military prison	0	LOCATION
+0.16092090867323494	one	have	have refuse	NUMBER	0
+1.0	Australia 's chief military prosecutor	label	US treatment of country 's sole Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	controversy	have grow ahead of	week 's fifth anniversary of he detention in US prison	0	LOCATION
+1.0	controversy	have grow of	next week 's anniversary of he detention in US prison	0	LOCATION
+1.0	Australia 's chief military prosecutor	label us treatment on	Tuesday	LOCATION	DATE
+1.0	opposition	demand	release of Hicks	0	PERSON
+1.0	Australia 's military prosecutor	label us treatment on	Tuesday	LOCATION	DATE
+1.0	controversy	have grow ahead of	next week 's anniversary of he detention	0	DATE
+1.0	controversy	have grow ahead of	week 's anniversary of he detention in US prison	0	LOCATION
+1.0	David Hicks	have	plight	O	PERSON
+1.0	Australia 's chief prosecutor	label	US treatment of country 's sole Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	controversy	have grow of	week 's anniversary	0	DATE
+1.0	Australia	have	prosecutor	O	LOCATION
+1.0	controversy	have grow ahead of	next week 's anniversary of he detention in US military prison	0	LOCATION
+1.0	controversy	have grow of	week 's fifth anniversary of he detention in US military prison	0	LOCATION
+1.0	David Hicks	have	detention	O	O
+1.0	controversy	have grow ahead of	week 's fifth anniversary of he detention in US military prison	0	LOCATION
+1.0	controversy	have grow in	Cuba	0	LOCATION
+1.0	Hicks	from	home state of South Australia	PERSON	LOCATION
+1.0	John Howard	say in	interview publish on Sunday	PERSON	DATE
+1.0	country	have	Guantanamo Bay detainee	O	O
+1.0	John Howard	say in	interview	PERSON	0
+1.0	politician	say at_time	Wednesday	0	DATE
+1.0	controversy	have grow ahead of	next week 's fifth anniversary of he detention	0	ORDINAL
+1.0	senator	be lead	appeal for right	0	0
+1.0	controversy	have grow ahead of	next week 's anniversary of he detention in US prison	0	LOCATION
+1.0	Australia 's chief prosecutor	label	US treatment of country 's Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	Australia 's chief prosecutor	label us treatment on	Tuesday	LOCATION	DATE
+1.0	David Hicks	have	release	O	PERSON
+1.0	Guantanamo inmates	have	one	NUMBER	O
+1.0	controversy	have grow ahead of	week 's fifth anniversary of he detention	0	ORDINAL
+1.0	week	have	anniversary	O	DATE
+1.0	controversy	have grow of	next week 's anniversary of he detention in US military prison	0	LOCATION
+1.0	controversy	have grow of	next week 's fifth anniversary of he detention in US prison	0	LOCATION
+1.0	Australia 's military prosecutor	label	US treatment of country 's sole Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	controversy	have grow ahead of	week 's anniversary of he detention in US military prison	0	LOCATION
+1.0	controversy	have grow ahead of	week 's anniversary	0	DATE
+1.0	controversy	have grow ahead of	next week 's fifth anniversary	0	ORDINAL
+1.0	controversy	have grow of	next week 's fifth anniversary of he detention	0	ORDINAL
+1.0	Australia 's military prosecutor	label	US treatment of country 's Guantanamo Bay detainee	LOCATION	LOCATION
+1.0	Australia 's chief prosecutor	label	US treatment	LOCATION	LOCATION
+1.0	David Hicks	be	allege	0	0
+1.0	Hicks	have	home state	O	PERSON
+1.0	our	have	constituents	O	O
+1.0	Guantanamo Bay detainee	have	US treatment	O	O
+1.0	controversy	have grow of	next week 's anniversary	0	DATE
+1.0	Australia 's chief military prosecutor	label	US treatment	LOCATION	LOCATION
+1.0	Australia 's prosecutor	label us treatment on	Tuesday	LOCATION	DATE
+0.16092090867323494	one	have	have already refuse	NUMBER	0
+1.0	Australia 's prosecutor	label	US treatment	LOCATION	LOCATION
+1.0	David Hicks	be allege	have be fight	0	0
+1.0	controversy	have grow ahead in	Cuba	0	LOCATION

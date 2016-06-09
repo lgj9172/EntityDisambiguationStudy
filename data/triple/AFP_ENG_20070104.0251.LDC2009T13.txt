@@ -1,0 +1,83 @@
+1.0	Mr. Shoaib Akhtar	test	positive for steroid nandrolone	PERSON	0
+1.0	tribunal	ban	decision hail by WADA	0	ORGANIZATION
+1.0	tribunal	ban	two player	0	NUMBER
+1.0	Pakistan	with	team	LOCATION	0
+1.0	World Anti-Doping Agency	on	appeal against lifting of ban on pakistani bowler Shoaib Akhtar	ORGANIZATION	PERSON
+1.0	period	be impose follow	detection of metabolite of nandrolone in urine sample of cricketer	0	0
+1.0	period	be	impose for anti-doping rule infraction follow detection of metabolite	0	0
+1.0	period	be	impose for anti-doping rule infraction follow detection of metabolite of nandrolone	0	0
+1.0	tribunal	subsequently ban	decision hail by WADA	0	ORGANIZATION
+1.0	decision	be in	Court of Arbitration for Sport	0	ORGANIZATION
+1.0	Asif	be with	Pakistan 's team	PERSON	LOCATION
+1.0	World Anti-Doping Agency	file	appeal	ORGANIZATION	0
+1.0	World Anti-Doping Agency	file appeal by	The PCB	ORGANIZATION	ORGANIZATION
+1.0	Mr. Shoaib Akhtar	test	positive for steroid nandrolone in test	PERSON	0
+1.0	tests	have	results	O	O
+1.0	Mr. Shoaib Akhtar	test	positive	PERSON	0
+1.0	World Anti-Doping Agency	file appeal with	court	ORGANIZATION	0
+1.0	Mr. Shoaib Akhtar	test	positive for steroid nandrolone in test conduct	PERSON	0
+1.0	ineligibility	have	year periods	O	O
+1.0	Mr. Shoaib Akhtar	test	Mr. Mohammad Asif	PERSON	PERSON
+1.0	Mr. Shoaib Akhtar	test	positive for ban steroid nandrolone in test	PERSON	0
+1.0	period	be	impose for anti-doping rule infraction follow detection	0	0
+1.0	Mr. Shoaib Akhtar	test	positive for ban steroid nandrolone in test conduct	PERSON	0
+1.0	period	be	impose for anti-doping rule infraction follow detection of metabolite of nandrolone in urine sample of cricketer	0	0
+1.0	period	be	impose for rule infraction follow detection	0	0
+1.0	Pakistan	have	team touring India	LOCATION	LOCATION
+1.0	period	be	impose for rule infraction follow detection of metabolite	0	0
+1.0	period	be	impose	0	0
+1.0	period	be	impose for rule infraction follow detection of metabolite of nandrolone in urine sample of cricketer	0	0
+1.0	World Anti-Doping Agency	have	appeal	O	ORGANIZATION
+1.0	Pakistan	of	India	LOCATION	LOCATION
+1.0	court	stick to	four-month timeframe	0	DURATION
+1.0	Mr. Shoaib Akhtar	test	positive for steroid nandrolone in test conduct in September	PERSON	DATE
+1.0	metabolite	have	detection	O	O
+1.0	bans	have	lifting	O	O
+1.0	tribunal	ban	decision	0	0
+1.0	arbitration	have	code	O	O
+1.0	WADA	have	appeal	O	ORGANIZATION
+0.37999818347223124	statement	issue from	Lausanne Switzerland	0	LOCATION
+1.0	Mr. Shoaib Akhtar	test	positive for ban steroid nandrolone	PERSON	0
+1.0	tribunal	ban	decision hail	0	0
+1.0	24-year-old Asif	be with	Pakistan 's team	DURATION	LOCATION
+1.0	period	be impose for	anti-doping rule infraction	0	0
+1.0	World Anti-Doping Agency	file appeal by	Pakistan Cricket Board	ORGANIZATION	ORGANIZATION
+1.0	arbitration procedure	be in	due course	0	0
+1.0	court	say in	statement	0	0
+1.0	period	be impose for	rule infraction	0	0
+1.0	Arbitration	have	Court	ORGANIZATION	ORGANIZATION
+1.0	court	have	statement	O	O
+1.0	tribunal	subsequently ban	two player	0	NUMBER
+1.0	PCB	say reservation by	WADA	ORGANIZATION	ORGANIZATION
+1.0	court	have	statement	0	0
+1.0	nandrolone	be in	urine sample of cricketer	0	0
+1.0	World Anti-Doping Agency	file appeal at_time	last month	ORGANIZATION	DATE
+1.0	appeal	have	filing	O	O
+1.0	tribunal	subsequently ban	decision	0	0
+1.0	court	stick to	timeframe	0	0
+1.0	nandrolone	have	metabolite	O	O
+1.0	PCB	say	reservation	ORGANIZATION	0
+1.0	period	be impose follow	detection of metabolite	0	0
+1.0	India	be team touring of	Pakistan	LOCATION	LOCATION
+1.0	player	however appeal against	ban	0	0
+1.0	player	appeal against	ban	0	0
+1.0	PCB tribunal	conduct	inquiry	ORGANIZATION	0
+1.0	Asif	be	24-year-old	PERSON	DURATION
+1.0	India	be in	October	LOCATION	DATE
+1.0	Mr. Shoaib Akhtar	test	positive for ban steroid nandrolone in test conduct in September	PERSON	DATE
+1.0	Court	say at_time	Thursday	ORGANIZATION	DATE
+1.0	their	have	B samples	O	O
+1.0	period	be	impose for rule infraction follow detection of metabolite of nandrolone	0	0
+1.0	ineligibility	have	periods	O	O
+1.0	World Anti-Doping Agency	file appeal at_time	month	ORGANIZATION	DATE
+1.0	World Anti-Doping Agency	file appeal with	court against decision	ORGANIZATION	0
+1.0	Pakistan	have	team	O	LOCATION
+1.0	ban steroid nandrolone	be in	test conduct	0	0
+1.0	cricketers	have	urine samples	O	O
+1.0	Mr. Shoaib Akhtar	be on	pakistani	PERSON	0
+1.0	period	be impose follow	detection of metabolite of nandrolone	0	0
+1.0	a general rule	have	decisions	O	O
+1.0	period	be impose follow	detection	0	0
+1.0	team touring India	have	out pulled	O	LOCATION
+1.0	WADA	have	appeal	ORGANIZATION	0
+1.0	tribunal	subsequently ban	decision hail	0	0

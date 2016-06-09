@@ -1,0 +1,52 @@
+1.0	Kabila	have	Presidential Majority Alliance	ORGANIZATION	PERSON
+0.8488957724118811	unelected transitional one	form in	2003	NUMBER	DATE
+1.0	administration	be	make politician belong to party	0	0
+1.0	administration	be expect	make politician belong	0	0
+1.0	Republic	have	minister	O	LOCATION
+1.0	dictator Mobutu Sese Seko	have	son	O	PERSON
+1.0	administration	be expect	make	0	0
+1.0	Gizenga , 81	be	appoint	PERSON	0
+0.49252692715858765	power	be seize by	dictator Mobutu Sese Seko	0	PERSON
+1.0	deal	reach among	party	0	0
+1.0	power	be in	vast central african country	0	0
+1.0	Antoine Gizenga	have	spokesman	O	O
+1.0	Gizenga 81	be	appoint	NUMBER	0
+1.0	administration	be expect	make politician belong to party	0	0
+1.0	Antoine Gizenga	minister of	democratic republic of Congo	PERSON	LOCATION
+1.0	party	be in	Presidential Majority Alliance	0	ORGANIZATION
+1.0	Mobutist Democrats	have	Union	ORGANIZATION	ORGANIZATION
+1.0	Kabila	in	Presidential Majority Alliance	PERSON	ORGANIZATION
+0.8488957724118811	unelected transitional one	form under	un-supervised process	NUMBER	0
+0.8488957724118811	unelected transitional one	form under	long process	NUMBER	0
+1.0	Congo	have	Republic	LOCATION	LOCATION
+0.49252692715858765	power	be	seize	0	0
+0.8488957724118811	unelected transitional one	form under	process	NUMBER	0
+1.0	President Joseph Kabila in line	have mandate	Gizenga , 81	PERSON	PERSON
+1.0	administration	be	make politician	0	0
+1.0	administration	be expect	make politician belong to party in Kabila 's Presidential Majority Alliance	0	ORGANIZATION
+1.0	Gizenga , 81	spend at_time	year	PERSON	0
+1.0	Gizenga , 81	be	81	PERSON	NUMBER
+1.0	Gizenga , 81	spend at_time	many year	PERSON	0
+1.0	Gizenga	have	Unified Lumumbist Party	PERSON	ORGANIZATION
+1.0	conflict	have	history	O	O
+0.8488957724118811	unelected transitional one	form under	long un-supervised process	NUMBER	0
+1.0	Gizenga , 81	form	government	PERSON	0
+1.0	deal	reach among	political party	0	0
+0.49252692715858765	power	be	once seize	0	DATE
+1.0	the vast DRC	have	year	DATE	O
+1.0	administration	be	make	0	0
+1.0	administration	be	make politician belong	0	0
+1.0	Gizenga , 81	be	head	PERSON	0
+1.0	Gizenga	have	Unified Lumumbist Party	ORGANIZATION	PERSON
+1.0	administration	be	expect	0	0
+1.0	reconstruction	have	problems	O	O
+1.0	spokesman Godefroid Mayobo	tell	journalist	PERSON	0
+1.0	Gizenga , 81	replace	unelected transitional one	PERSON	NUMBER
+1.0	administration	be expect	make politician	0	0
+1.0	deputy prime minister	be in	first government	0	ORDINAL
+1.0	independence	be in	1960	0	DATE
+1.0	administration	be	make politician belong to party in Kabila 's Presidential Majority Alliance	0	ORGANIZATION
+1.0	Gizenga , 81	form	broad-based government	PERSON	0
+1.0	Joseph Kabila	be in	line	PERSON	0
+1.0	Gizenga	's party be	PALU	PERSON	ORGANIZATION
+0.49252692715858765	power	once be seize by	dictator Mobutu Sese Seko	0	PERSON

@@ -1,0 +1,16 @@
+1.0	child sex abuse	be in	Sudan	0	LOCATION
+1.0	UN	say at_time	Thursday	ORGANIZATION	DATE
+1.0	actions	have	knowing	O	O
+1.0	Bangladeshis	have	One	NUMBER	MISC
+1.0	Daily Telegraph	cite	UN source	ORGANIZATION	ORGANIZATION
+1.0	10,000 UN personnel	be in	area	ORGANIZATION	0
+1.0	a minor	have	actions	O	O
+1.0	UN 's policy	be	the UN 's policy on the issue	ORGANIZATION	NUMBER
+1.0	child sex abuse	have	allegations	O	O
+1.0	assault	have	accused	O	O
+1.0	Daily Telegraph	cite	anonymous UN source	ORGANIZATION	ORGANIZATION
+1.0	UN	have	policy	O	ORGANIZATION
+1.0	Daily Telegraph	report at_time	Friday	ORGANIZATION	DATE
+0.8030266204928025	UN 's policy	mean	zero complacency	ORGANIZATION	NUMBER
+1.0	the UN 's policy on the issue	mean	zero complacency	NUMBER	NUMBER
+1.0	UN	have	policy on issue	ORGANIZATION	0

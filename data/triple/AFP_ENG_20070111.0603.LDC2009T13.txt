@@ -1,0 +1,21 @@
+1.0	UN chief ban ki-moon	say of	scheduling conflict	ORGANIZATION	0
+1.0	meeting	have	have postpone	0	0
+1.0	UN source	speak on	condition of anonymity	ORGANIZATION	0
+1.0	state	have	creation	O	O
+1.0	UN chief Ban Ki-moon	attend	donor ' conference	0	0
+1.0	UN chief Ban Ki-moon	travel to	Paris	0	LOCATION
+1.0	it	be	very important	0	0
+1.0	Quartet	have	meeting	O	O
+1.0	it	re-energize	process	0	0
+1.0	UN source	speak on	condition	ORGANIZATION	0
+1.0	scheduling conflict	have	said	O	O
+1.0	ban ki-moon	be	the United Nations	0	ORGANIZATION
+1.0	UN chief ban ki-moon	say at_time	Thursday	ORGANIZATION	DATE
+1.0	ban ki-moon	be chief of	the United Nations	0	ORGANIZATION
+1.0	ban	tell	reporter	0	0
+1.0	independent palestinian state	be in	West Bank	0	LOCATION
+1.0	parley	have	sidelines	O	O
+1.0	it	be	important	0	0
+1.0	anonymity	have	condition	O	O
+1.0	plan	have	have stall	0	0
+1.0	donors	have	conference	O	O

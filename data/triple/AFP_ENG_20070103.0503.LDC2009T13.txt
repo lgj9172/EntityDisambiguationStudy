@@ -1,0 +1,66 @@
+1.0	California	have	Josh Munz	PERSON	LOCATION
+1.0	Basra	have	city	O	LOCATION
+1.0	tape	show	man	0	0
+1.0	Jon Cote of Buffalo	join marine corps in	2001	0	DATE
+1.0	Kuwait	have	Kuwaiti-based Crescent Security	ORGANIZATION	LOCATION
+1.0	today	be at_time	December 21 2006	DATE	DATE
+1.0	last captive	be	film	0	0
+1.0	captive	be	film	0	0
+1.0	I	be old	44 year	0	DURATION
+1.0	five	have	Four	NUMBER	NUMBER
+1.0	Crescent Security	have	city	O	ORGANIZATION
+1.0	first	identify	himself	ORDINAL	0
+1.0	security contractors	have	video	O	O
+1.0	my	have	friends	O	O
+1.0	group	be escort convoy near	city of Basra in Iraq	0	LOCATION
+1.0	scene	be	time stamped	0	0
+1.0	Islamic National Resistance	have	kidnapping	O	ORGANIZATION
+1.0	captive	be film on	December 22	0	DATE
+1.0	short tape	begin with	text	0	0
+1.0	I	be	old	0	DURATION
+1.0	tape	show	man in apparently good health	0	0
+1.0	scene	be	time stamped December 21	0	DATE
+0.5942815935982578	tape	viewable on	website	0	0
+1.0	Marine Corps	have	out got	O	ORGANIZATION
+0.5942815935982578	tape	viewable on	website of network orf	0	0
+1.0	tape viewable	show	man in health	0	0
+1.0	group	be escort convoy near	city of Basra	0	LOCATION
+1.0	Kuwaiti-based Crescent Security	be out of	Kuwait	ORGANIZATION	LOCATION
+1.0	them	have	One	NUMBER	O
+0.719252457837899	cross	leg in front of	black sheet	0	0
+0.5942815935982578	tape	viewable on	website of austrian network orf	0	0
+0.719252457837899	cross	leg in front of	sheet	0	0
+1.0	Crescent Security	be on behalf of	kuwaiti-based	ORGANIZATION	0
+1.0	sheet	have	legged	O	O
+1.0	orf	be of	austrian	0	0
+1.0	tape viewable	show	man in apparently good health	0	0
+1.0	scene	be	time	0	0
+1.0	Jon Cote	be of	Buffalo	PERSON	LOCATION
+1.0	tape	begin with	text	0	0
+1.0	group	be escort convoy near	city	0	0
+1.0	group	be escort convoy near	city of Basra in southern Iraq	0	LOCATION
+1.0	cross	speak to	camera	0	0
+0.24663246139539763	group	convoy in	Safwan	0	LOCATION
+1.0	tape viewable	show	man in good health	0	0
+1.0	last captive	be film on	December 22	0	DATE
+1.0	my	have	family	O	O
+1.0	group	be escort	convoy	0	0
+1.0	british jail	be	release	0	0
+1.0	Buffalo	have	Jon Cote	PERSON	LOCATION
+1.0	Jon Cote of Buffalo	join	Marine Corps	0	ORGANIZATION
+1.0	2006	have	July	DATE	DATE
+1.0	group	be escort convoy on	November 16	0	DATE
+1.0	network ORF	have	website	O	ORGANIZATION
+1.0	tape	show	man in health	0	0
+1.0	group	be escort	convoy in Safwan	0	LOCATION
+1.0	convoy	be in	Safwan	0	LOCATION
+1.0	cross	speak directly to	camera	0	0
+1.0	us-led coalition force	be in	Iraq	0	LOCATION
+1.0	jail	be	release	0	0
+1.0	man	be in	apparently good health	0	0
+1.0	a middle-aged man dressed in a grey tracksuit	be	austrian	0	0
+1.0	tape viewable	show	man	0	0
+1.0	Josh Munz	be of	California	PERSON	LOCATION
+1.0	Bert Nussbaumer amd I 'm an Austrian citizen working in the private security business for Crescent Security	work for	Kuwaiti-based Crescent Security	0	ORGANIZATION
+1.0	tape	show	man in good health	0	0
+1.0	Basra	be in	Iraq	LOCATION	LOCATION

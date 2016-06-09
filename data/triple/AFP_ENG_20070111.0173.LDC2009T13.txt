@@ -1,0 +1,78 @@
+1.0	its	have	actions	O	O
+1.0	Liu	ask by	Rebiya Kadeer	PERSON	PERSON
+1.0	Liu	ask by	exile leader of Xinjiang region 's ethnic Uighur muslim community	PERSON	LOCATION
+1.0	Liu	ask for	China 's response	PERSON	LOCATION
+1.0	China	have	interests	O	LOCATION
+1.0	China	have	firm attitude to counter-terrorism	LOCATION	0
+1.0	Liu	make remark into	raid on camp	PERSON	0
+1.0	minority group	harbour	independence ambition	0	0
+1.0	China	have	border region	O	O
+1.0	Xinjiang	be between	1930 and 1949	LOCATION	DATE
+1.0	Liu	ask by	exile leader of Xinjiang region 's Uighur muslim community	PERSON	LOCATION
+1.0	Liu	ask by	leader of Xinjiang region 's Uighur community	PERSON	LOCATION
+1.0	Al-Qaeda	have operate for	year	MISC	0
+1.0	China	have	attack	O	O
+1.0	Liu	ask for	China 's response to call	PERSON	LOCATION
+1.0	China 's firm attitude	be in	interest of China	LOCATION	LOCATION
+1.0	Liu	ask by	exile leader of Xinjiang region 's Uighur muslim community for UN probe	PERSON	LOCATION
+1.0	its	have	police	O	O
+1.0	China	indicate on	Thursday	LOCATION	DATE
+1.0	Liu	ask by	exile leader	PERSON	0
+1.0	raid	take place within	200 kilometer	0	NUMBER
+1.0	we	counter	terrorist force	0	0
+1.0	Pakistan border	of kilometer be	120 mile	LOCATION	NUMBER
+1.0	its attack	prevent	organisation	0	0
+1.0	Liu	ask by	leader of Xinjiang region 's ethnic Uighur community for UN probe	PERSON	LOCATION
+1.0	Liu	ask by	exile leader of Xinjiang region 's ethnic Uighur community for UN probe	PERSON	LOCATION
+1.0	camp	be in	muslim-populated region	0	0
+1.0	we	severely counter	terrorist force	0	0
+1.0	Xinjiang region	of	ethnic Uighur muslim community	LOCATION	MISC
+1.0	Liu	ask by	leader of Xinjiang region 's Uighur muslim community	PERSON	LOCATION
+1.0	we	have in accordance with	consensus	0	0
+1.0	China	have	response	O	LOCATION
+1.0	Liu	ask by	leader of Xinjiang region 's ethnic Uighur muslim community	PERSON	LOCATION
+1.0	Liu	ask by	leader of Xinjiang region 's Uighur community for UN probe	PERSON	LOCATION
+1.0	minority	have	members	O	O
+1.0	Liu	ask by	leader of Xinjiang region 's Uighur muslim community for UN probe	PERSON	LOCATION
+1.0	Rebiya Kadeer	leader for	UN probe	PERSON	ORGANIZATION
+1.0	its attack	prevent	organisation similar	0	0
+1.0	China 's firm attitude	be in	interest	LOCATION	0
+1.0	Liu	ask by	exile leader for UN probe	PERSON	ORGANIZATION
+1.0	Liu	ask by	leader of Xinjiang region 's ethnic Uighur muslim community for UN probe	PERSON	LOCATION
+1.0	China	have	firm attitude	O	LOCATION
+1.0	Liu	make	remark	PERSON	0
+1.0	Rebiya Kadeer	leader of	Xinjiang region 's ethnic Uighur muslim community	PERSON	LOCATION
+1.0	Liu	ask by	exile leader of Xinjiang region 's ethnic Uighur community	PERSON	LOCATION
+1.0	Xinjiang region	have	Uighur community	O	O
+1.0	Liu	make remark into	raid	PERSON	0
+1.0	we	severely counter	force	0	0
+1.0	18 suspect terrorist	be in	attack	NUMBER	0
+1.0	we	have firmly in accordance with	consensus	0	0
+1.0	we	have in accordance with	consensus of community	0	0
+1.0	its attack	prevent	organisation similar to Al-Qaeda	0	MISC
+1.0	Uighur community	have	leader	O	O
+1.0	Liu	ask by	exile leader of Xinjiang region 's Uighur community	PERSON	LOCATION
+1.0	raid	take place within	200 kilometer of Pakistan border	0	LOCATION
+1.0	Liu	ask by	exile leader of Xinjiang region 's Uighur community for UN probe	PERSON	LOCATION
+1.0	Liu	ask by	leader of Xinjiang region 's ethnic Uighur community	PERSON	LOCATION
+1.0	we	have firmly in accordance with	consensus of international community	0	0
+1.0	Liu	make remark into	raid on alleged terrorist camp	PERSON	0
+1.0	community	have	consensus	O	O
+1.0	we	have firmly in accordance with	consensus of community	0	0
+1.0	its border region	be with	Afghanistan	0	LOCATION
+1.0	Liu	ask by	leader for UN probe	PERSON	ORGANIZATION
+1.0	Liu	make remark into	raid on alleged camp	PERSON	0
+1.0	Liu	ask by	leader	PERSON	0
+1.0	raid	take place within	120 mile	0	NUMBER
+1.0	raid	take	place	0	0
+0.5672264943059828	organisation	similar to	Al-Qaeda	0	MISC
+1.0	we	counter	force	0	0
+1.0	its attack	be	aim	0	0
+1.0	minority group	continue at_time	today	0	DATE
+1.0	Liu	ask by	exile leader of Xinjiang region 's ethnic Uighur muslim community for UN probe	PERSON	LOCATION
+1.0	alleged terrorist camp	be in	its border region with Afghanistan	0	LOCATION
+1.0	China	for	response to call	LOCATION	0
+1.0	Liu	make remark into	raid on terrorist camp	PERSON	0
+1.0	world	have	interests	O	O
+1.0	Pakistan Afghanistan borders	have	kilometers	O	O
+1.0	we	have in accordance with	consensus of international community	0	0

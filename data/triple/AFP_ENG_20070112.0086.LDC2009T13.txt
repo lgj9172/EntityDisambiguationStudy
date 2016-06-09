@@ -1,0 +1,104 @@
+1.0	investor	cheer yen on	Wall Street	0	0
+1.0	BoJ governor Toshihiko Fukui	say on	Friday	PERSON	DATE
+1.0	investor	be likely than	rather monetary issue	0	0
+0.6881063795124241	say	would	would decide	0	0
+1.0	investor	trade base on	micro factor	0	0
+1.0	Bank	raise	interest rate	ORGANIZATION	0
+0.6881063795124241	say	would	only would decide appropriately	0	0
+1.0	country	have	economy	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	fall at_time	week	ORGANIZATION	DATE
+1.0	Japan 's monetary authorities	have	decision	O	O
+1.0	Bank	raise interest rate to	0.25 percent	ORGANIZATION	PERCENT
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	it	be rollercoaster week amid	nervousness	0	0
+1.0	Tokyo Stock Exchange 's benchmark nikkei-225 index	lose	34.58 point	ORGANIZATION	NUMBER
+0.6881063795124241	say	would	only would decide	0	0
+1.0	the Bank of Japan	end	its unorthodox policy	0	0
+1.0	section stocks	have	TOPIX index	O	O
+1.0	it	be	rollercoaster week of up amid nervousness about chance of rate	0	DATE
+1.0	Norihiro Fujito	broker at	Mitsubishi UFJ Securities	PERSON	ORGANIZATION
+1.0	it	be rollercoaster week of	up	0	0
+1.0	Bank of Japan	be  at_time	here next week	ORGANIZATION	DATE
+1.0	BoJ governor Toshihiko Fukui	give hint about	chance of boj	0	0
+1.0	Kenichi Azuma	broker at	Cosmo Securities	PERSON	ORGANIZATION
+1.0	capital spending	have	machinery orders	O	O
+1.0	investor	trade base on	factor	0	0
+1.0	TOPIX index	gain	9.94 point	MISC	NUMBER
+1.0	it	be	rollercoaster week of up amid nervousness	0	DATE
+1.0	BoJ governor Toshihiko Fukui	give	few hint	0	0
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Japan	have	machinery order for November of corporate capital spending	LOCATION	DATE
+1.0	it	be	rollercoaster	0	0
+1.0	the Bank of Japan	end	its policy	0	0
+1.0	Japan 's machinery order	be	due out on Monday	LOCATION	DATE
+1.0	the Bank of Japan	have	policy	O	O
+0.42544942084531656	bid	stimulate	economy	0	0
+1.0	market view	be divide on	likelihood	0	0
+1.0	decision	have	Bank	ORGANIZATION	O
+1.0	BoJ governor Toshihiko Fukui	give	hint	0	0
+1.0	it	be week amid	nervousness	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	fall by	0.78 percent	ORGANIZATION	PERCENT
+1.0	investor	be likely than	issue	0	0
+1.0	Bank of Japan	of	decision	ORGANIZATION	0
+1.0	it	be	rollercoaster week of up amid nervousness about chance	0	DATE
+1.0	it	be rollercoaster week amid	nervousness about chance	0	0
+1.0	broader TOPIX index	gain	9.94 point	MISC	NUMBER
+1.0	Tokyo Stock Exchange 's benchmark nikkei-225 index	fall at_time	previous week	ORGANIZATION	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	fall at_time	previous week	ORGANIZATION	DATE
+1.0	November	for order be	closely watch indicator	DATE	0
+1.0	BoJ governor Toshihiko Fukui	give hint about	chance	0	0
+1.0	it	be week of	up	0	0
+1.0	investor	trade base on	economic factor	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	lose	34.58 point	ORGANIZATION	NUMBER
+1.0	Nikkei index	rally	1.3 percent	ORGANIZATION	PERCENT
+1.0	it	be	week	0	DATE
+1.0	broader TOPIX index	meanwhile gain	9.94 point	MISC	NUMBER
+1.0	investor	trade base on	micro economic factor	0	0
+1.0	BoJ	have	chances	O	O
+1.0	rallies	have	beginning	O	O
+1.0	market view	be divide on	likelihood of rate	0	0
+1.0	rate	have	chances	O	O
+1.0	Japan 's machinery order	be	due out	LOCATION	0
+1.0	it	be week amid	nervousness about chance	0	0
+1.0	boj governor Toshihiko Fukui	have make	clear	PERSON	0
+1.0	corporate capital spending	of order be	closely watch indicator	0	0
+1.0	Japan	have	decision	O	ORGANIZATION
+1.0	country	have	economy	0	0
+1.0	Japan	's order be	closely watch indicator	LOCATION	0
+1.0	government ministers	have	country	O	O
+1.0	investor	cheer	yen	0	0
+1.0	series	have	results	O	O
+1.0	TOPIX index	meanwhile gain	9.94 point	MISC	NUMBER
+1.0	downs	have	week	DURATION	O
+1.0	it	be	week of up amid nervousness about chance	0	DATE
+1.0	Tokyo Stock Exchange 's benchmark nikkei-225 index	fall by	0.78 percent	ORGANIZATION	PERCENT
+1.0	it	be rollercoaster week amid	nervousness about chance of rate	0	0
+1.0	results	have	announcement	O	O
+1.0	investor	be likely than	rather issue	0	0
+1.0	Tokyo Stock Exchange 's benchmark nikkei-225 index	fall at_time	week	ORGANIZATION	DATE
+0.6881063795124241	say	would	would decide appropriately	0	0
+1.0	0.25 percent	be in	July	PERCENT	DATE
+1.0	the central bank	have	interest rates	O	O
+1.0	investor	cheer	weaker yen	0	0
+1.0	it	be	week of up amid nervousness	0	DATE
+1.0	Our country 's economy	have	interest rates	O	O
+1.0	Bank	have	impact	O	ORGANIZATION
+1.0	announcement	have	series	O	O
+1.0	it	be	rollercoaster week	0	DATE
+1.0	it	be week amid	nervousness about chance of rate	0	0
+1.0	rate	have	likelihood	O	O
+1.0	Japan 's machinery order	be	due	LOCATION	0
+1.0	Japan	have	monetary authority	LOCATION	0
+1.0	the Bank of Japan	end	its unorthodox five-year policy	0	DURATION
+1.0	Tokyo Stock Exchange	have	benchmark nikkei-225 index	ORGANIZATION	0
+1.0	it	be	week of up amid nervousness about chance of rate	0	DATE
+1.0	Japan	have	machinery orders	O	LOCATION
+1.0	market view	be	divide	0	0
+1.0	the Bank of Japan	end	its five-year policy	0	DURATION
+1.0	Bank	raise interest rate to	0.25 percent in July	ORGANIZATION	PERCENT
+1.0	BoJ governor Toshihiko Fukui	have	desire	O	O
+1.0	BoJ governor Toshihiko Fukui	say in	speech	PERSON	0
+1.0	investor	be likely than	monetary issue	0	0
+1.0	ups	have	week	DURATION	O
+1.0	Japan	have	authorities	O	LOCATION
+1.0	government minister	have voice	concern	0	0

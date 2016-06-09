@@ -1,0 +1,72 @@
+1.0	Football Association	have	headquarters	O	ORGANIZATION
+1.0	Saturday	have	Premier League match	O	DATE
+1.0	his contract	be expect	impediment	0	0
+0.14059619431790493	that	would allow at_time	time	0	0
+1.0	Smith	be at	headquarters	PERSON	0
+1.0	58-year-old Smith	be at	headquarters later on Wednesday	PERSON	DATE
+1.0	Smith	be at	headquarters later	PERSON	0
+1.0	Glasgow giant	have	Smith in place	LOCATION	PERSON
+1.0	58-year-old Smith	be at	headquarters of scottish Football Association	PERSON	ORGANIZATION
+1.0	Scotland manager Walter Smith	have	contract	O	O
+1.0	transfer window	close at	end	0	DATE
+1.0	Scotland manager Walter Smith	have persuade	Kenny McDowall	PERSON	PERSON
+1.0	Scotland manager Walter Smith	have	move	O	O
+1.0	Smith	be	58-year-old	PERSON	DURATION
+1.0	his contract	be	temporary impediment	0	0
+1.0	58-year-old Smith	be at	headquarters of Football Association later on Wednesday	PERSON	ORGANIZATION
+1.0	his contract	be	just impediment	0	0
+1.0	Smith	be at	headquarters of scottish Football Association later	PERSON	ORGANIZATION
+1.0	58-year-old Smith	be at	headquarters later	PERSON	0
+1.0	Smith	be in	place for Saturday 's Premier League match	PERSON	DATE
+1.0	McDowell	be	Partick Thistle	PERSON	ORGANIZATION
+1.0	he	strengthen	squad	0	0
+1.0	his contract	be	just temporary impediment	0	0
+1.0	58-year-old Smith	be at	headquarters of Football Association later	PERSON	ORGANIZATION
+1.0	Kenny McDowall	quit	he role	PERSON	0
+1.0	the 58-year-old national team boss	resign	firm indication	0	0
+0.14059619431790493	that	would allow at_time	ample time	0	0
+1.0	meeting	have	end	O	O
+1.0	his contract	be expect	temporary impediment	0	0
+1.0	his contract	be widely expect	temporary impediment	0	0
+1.0	McDowell	be striker of	Partick Thistle	PERSON	ORGANIZATION
+1.0	Scotland football official	be	release	LOCATION	0
+1.0	Glasgow giant	have smith against	Dundee United	LOCATION	ORGANIZATION
+1.0	Scotland manager Walter Smith	have already persuade	Kenny McDowall	PERSON	PERSON
+1.0	his contract	be widely expect	impediment	0	0
+1.0	his contract	be widely expect	just impediment	0	0
+1.0	58-year-old Smith	be	due	PERSON	0
+1.0	Smith	be at	headquarters of Football Association later	PERSON	ORGANIZATION
+1.0	his contract	be	widely expect	0	0
+1.0	his contract	be	temporary	0	0
+1.0	Smith	be at	headquarters of scottish Football Association later on Wednesday	PERSON	ORGANIZATION
+1.0	Scotland football official	be release from	he contract	LOCATION	0
+1.0	the 58-year-old national team boss	discuss	Rangers job	0	0
+1.0	Smith	be	due	PERSON	0
+1.0	Saturday	for	Premier League match	DATE	ORGANIZATION
+1.0	the 58-year-old national team boss	head back to	Ibrox	0	LOCATION
+1.0	the 58-year-old national team boss	head to	Ibrox	0	LOCATION
+1.0	Smith	be at	headquarters of Football Association later on Wednesday	PERSON	ORGANIZATION
+1.0	his contract	be	expect	0	0
+1.0	58-year-old Smith	be at	headquarters of Football Association	PERSON	ORGANIZATION
+1.0	his contract	be expect	just impediment	0	0
+1.0	58-year-old Smith	be at	headquarters of scottish Football Association later on Wednesday	PERSON	ORGANIZATION
+1.0	the 58-year-old national team boss	post	firm indication	0	0
+1.0	Glasgow giant	have	Smith	LOCATION	PERSON
+1.0	month	have	end	DATE	DATE
+1.0	that	would allow	he	0	0
+1.0	Walter Smith	be	Scotland	PERSON	LOCATION
+1.0	his contract	be expect	just temporary impediment	0	0
+1.0	Kenny McDowall	have	Celtic post	O	O
+1.0	the 58-year-old national team boss	discuss rangers job with	Scotland manager Walter Smith	0	PERSON
+1.0	Smith	be at	headquarters later on Wednesday	PERSON	DATE
+1.0	Glasgow giant	have	Smith in place for Saturday 's Premier League match	LOCATION	DATE
+1.0	Smith	be at	headquarters of scottish Football Association	PERSON	ORGANIZATION
+1.0	the 58-year-old national team boss	resign	he Celtic post	0	ORGANIZATION
+1.0	transfer window	close at	end of month	0	DATE
+1.0	his contract	be widely expect	just temporary impediment	0	0
+1.0	Walter Smith	be manager of	Scotland	PERSON	LOCATION
+1.0	58-year-old Smith	be at	headquarters of scottish Football Association later	PERSON	ORGANIZATION
+1.0	Kenny McDowall	have	role	O	O
+1.0	his contract	be	impediment	0	0
+1.0	58-year-old Smith	be at	headquarters	PERSON	0
+1.0	Smith	be at	headquarters of Football Association	PERSON	ORGANIZATION

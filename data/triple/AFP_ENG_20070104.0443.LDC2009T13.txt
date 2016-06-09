@@ -1,0 +1,42 @@
+1.0	13 million lev	invest	82.1 million euro	MONEY	MONEY
+1.0	investment	will go into	company	0	0
+1.0	Bulgaria Air	have	position	O	ORGANIZATION
+1.0	13 million lev	invest	additional 82.1 million euro	MONEY	MONEY
+1.0	group	have	sale	O	O
+1.0	Balkan Hemus Group	have	offer	O	ORGANIZATION
+1.0	government	choose	local company Balkan Hemus Group	0	DATE
+1.0	European Union	have	countries	O	ORGANIZATION
+1.0	government statement	keep share in	carrier	0	0
+1.0	airline company Air	have	that	O	ORGANIZATION
+1.0	Balkan Hemus Group	be in	November	ORGANIZATION	DATE
+1.0	government	choose balkan hemus group as	preferred bidder	0	0
+1.0	Balkan Hemus Group 's offer	be	prefer	ORGANIZATION	0
+1.0	it	have sell	99.99 percent of company	0	PERCENT
+1.0	bulgarian government	say at_time	Thursday	0	DATE
+1.0	government	say at_time	Thursday	0	DATE
+1.0	investment	will go into	company within two year	0	DATE
+1.0	Balkan Hemus Group	have	offer buy	ORGANIZATION	0
+1.0	privatisation	have	goal	O	O
+1.0	it	have sell	99.99 percent	0	PERCENT
+1.0	goal	be strengthen	Bulgaria Air 's position	0	LOCATION
+1.0	government statement	keep share in	carrier as control mechanism over its future management	0	DATE
+1.0	government	choose balkan hemus group after	tender	0	0
+1.0	goal	ensure	connection between Bulgaria	0	LOCATION
+1.0	a golden share	have	management	O	O
+1.0	government statement	keep share in	carrier as control mechanism	0	0
+1.0	Air one	be of	italian	ORGANIZATION	0
+1.0	carrier Bulgaria Air	have	privatisation	O	ORGANIZATION
+1.0	government statement	keep	share	0	0
+1.0	planned	have	two-thirds	O	O
+1.0	investment	will go about	two-third	0	DATE
+1.0	government	choose	Balkan Hemus Group	0	ORGANIZATION
+1.0	government statement	keep	golden share	0	0
+1.0	26 destination	be in	Europe	NUMBER	LOCATION
+1.0	Bulgaria Air	have	position	LOCATION	0
+1.0	government	choose balkan hemus group after	public tender	0	0
+1.0	goal	ensure	connection	0	0
+1.0	government	choose balkan hemus group as	bidder	0	0
+1.0	Bulgaria	have	part	O	LOCATION
+1.0	company	have	percent	PERCENT	O
+1.0	investment	will go about	two-third of planned	0	DATE
+1.0	investment	will go into	company within next two year	0	DATE

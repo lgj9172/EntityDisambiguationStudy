@@ -1,0 +1,41 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	Britain 's situation	be different in	Basra Iraq	LOCATION	LOCATION
+1.0	Iraq	be in	Basra	LOCATION	LOCATION
+1.0	truth	be condition	different from those	0	0
+1.0	George W. Bush	be 's	the US	PERSON	LOCATION
+1.0	Britain	have	policy	O	LOCATION
+1.0	US President George W. Bush 's	be send	21,500 US troops	PERSON	LOCATION
+1.0	Britain 's situation	be different to	one face by US	LOCATION	LOCATION
+1.0	condition	be in	Baghdad at the moment	0	LOCATION
+1.0	Britain 's situation	be different in	Basra southern Iraq	LOCATION	LOCATION
+1.0	British Prime Minister Tony Blair	tell westcountry television to	southwest England	PERSON	LOCATION
+1.0	fighting	have	type	O	O
+1.0	Britain	have	situation	O	LOCATION
+1.0	George W. Bush	be president of	the US	PERSON	LOCATION
+1.0	Britain 's situation	be	in Basra southern Iraq different to one face	LOCATION	LOCATION
+1.0	troops	have	increase	O	O
+1.0	their	have	forces	O	O
+1.0	Britain 's situation	be	in Basra Iraq different to one face	LOCATION	LOCATION
+1.0	British Prime Minister Tony Blair	ask in	Daily Telegraph newspaper	PERSON	ORGANIZATION
+1.0	the Iraqi authorities	have	security	O	O
+1.0	Britain	have	policy	LOCATION	0
+1.0	George W. Bush	have	increase of troops in Iraq	PERSON	LOCATION
+1.0	Britain 's situation	be	different	LOCATION	0
+1.0	forces	have	number	O	O
+1.0	Britain	have	situation	LOCATION	0
+1.0	British Prime Minister Tony Blair	tell	Westcountry Television	PERSON	ORGANIZATION
+1.0	condition	be in	Baghdad	0	LOCATION
+1.0	US President George W. Bush	have	increase	O	PERSON
+1.0	British Prime Minister Tony Blair	ask about	report	PERSON	0
+1.0	May	have	end	DATE	DATE
+1.0	Britain 's situation	be	in Basra southern Iraq different to one face by US	LOCATION	LOCATION
+1.0	force	be in	Baghdad at the moment	0	LOCATION
+1.0	truth	be condition	different from those in Basra	0	LOCATION
+1.0	Britain 's situation	be	in Basra Iraq different to one face by US	LOCATION	LOCATION
+1.0	US President George W. Bush 's	be send	21,500 extra US troops	PERSON	LOCATION
+1.0	Britain 's situation	be different to	one face	LOCATION	NUMBER
+1.0	troops	be in	Iraq	0	LOCATION
+1.0	British Prime Minister Tony Blair	tell westcountry television during	visit	PERSON	0
+1.0	truth	be condition	different	0	0
+1.0	countries	have	policies	O	O
+1.0	Tony Blair	be	british	PERSON	0

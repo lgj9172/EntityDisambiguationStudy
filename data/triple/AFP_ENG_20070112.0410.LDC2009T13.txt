@@ -1,0 +1,138 @@
+1.0	catalogue	have	possession	O	O
+1.0	employee	be in	ski shop	0	0
+1.0	Norilsk Nickel	be in	Moscow	ORGANIZATION	LOCATION
+1.0	french newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	Mikhail Prokhorov	be	escort by police to law court in city	PERSON	0
+1.0	police	swoop on	they hotel	0	0
+1.0	50 police	raid hotel in	swish ski resort of Courchevel	NUMBER	LOCATION
+1.0	company	be	Russia 's mining enterprise	0	LOCATION
+1.0	spokesman	also say at_time	Thursday	0	DATE
+1.0	Norilsk Nickel	have	vice-president	O	ORGANIZATION
+1.0	Courchevel	have	ski resort	O	LOCATION
+1.0	deputy chair	say in	capital	0	0
+1.0	politician	react indignantly	media	0	0
+1.0	suspect prostitution ring	be in	alpine ski resort	0	0
+1.0	Mikhail Prokhorov	be escort to	law court in city of Lyon	PERSON	LOCATION
+1.0	Mikhail Prokhorov	be escort to	law court in southeast city	PERSON	0
+1.0	50 police	raid hotel in	swish ski resort	NUMBER	0
+1.0	newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	Prosecutor Xavier Richaud	identify	they	PERSON	0
+1.0	prostitute	be	procure there	0	0
+1.0	Forbes magazine	have	list	O	O
+1.0	political motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign	0	PERSON
+1.0	group	have in	have custody	0	0
+1.0	police	raid	upmarket hotel	0	0
+1.0	girls	have	catalogue	O	O
+1.0	he	organise	suspect prostitution ring	0	0
+1.0	Mikhail Prokhorov	be escort to	law court in city	PERSON	0
+1.0	Mikhail Prokhorov	be escort by	police	PERSON	0
+1.0	50 police	raid	upmarket hotel	NUMBER	0
+1.0	police	raid hotel in	swish ski resort of Courchevel	0	LOCATION
+1.0	russian politician	react indignantly	media	0	0
+1.0	world	of	wealthiest people	0	0
+1.0	prostitute	be procure for	guest	0	0
+1.0	motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand in April presidential election	0	DATE
+1.0	authority	question	one Russia 's man	0	LOCATION
+1.0	this week	have	police raid	DATE	0
+1.0	their	have	hotel	O	O
+1.0	Nicolas Sarkozy	be 's	french	PERSON	0
+1.0	police	raid hotel in	ski resort	0	0
+1.0	russian politician	react to	sting	0	0
+1.0	austrian man	be in	possession of catalogue of call girl	0	0
+1.0	businessmen	have	group	O	O
+1.0	political motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand	0	PERSON
+1.0	campaign	have	context	O	O
+1.0	police	raid hotel in	ski resort of Courchevel	0	LOCATION
+1.0	men	have	one	NUMBER	O
+1.0	group	have in	have french custody	0	0
+1.0	hand	be in	glove	0	0
+1.0	Forbes magazine	on	list of wealthiest people	ORGANIZATION	0
+1.0	State Duma	of	international affair committee	ORGANIZATION	0
+1.0	Mikhail Prokhorov	be	escort by police to law court in city of Lyon	PERSON	LOCATION
+1.0	authority	question	one of Russia 's wealthiest man	0	LOCATION
+1.0	he	should	should place under criminal investigation	0	0
+1.0	Nicolas Sarkozy	of	campaign stand in April presidential election	PERSON	DATE
+1.0	motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign	0	PERSON
+1.0	many Russians	take	fright	MISC	0
+1.0	Russia	of	wealthiest man	LOCATION	0
+1.0	metals	have	CEO	O	O
+1.0	motive	be at	play	0	0
+1.0	political motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand in April presidential election	0	DATE
+1.0	man	have	Courchevel	LOCATION	O
+1.0	Oleg Bocharov	be deputy of	Moscow City Duma	PERSON	LOCATION
+1.0	world leader	be in	nickel production	0	0
+1.0	Le Parisen	be	french	ORGANIZATION	0
+1.0	russian politician	suggest	media	0	0
+1.0	those arrested	have	20s	O	O
+1.0	employee	tell	daily	0	SET
+1.0	deputy chair	say in	russian capital	0	0
+1.0	motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand	0	PERSON
+1.0	politician	react indignantly to	sting	0	0
+1.0	police	raid	hotel	0	0
+1.0	50 police	raid hotel in	ski resort of Courchevel	NUMBER	LOCATION
+1.0	affairs committee	have	deputy chair	O	O
+1.0	he	should	should place	0	0
+1.0	he	organise	prostitution ring	0	0
+1.0	50 police	raid hotel in	ski resort	NUMBER	0
+1.0	political motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign	0	PERSON
+1.0	Mikhail Prokhorov	be	escort by police to law court in southeast city of Lyon	PERSON	LOCATION
+1.0	shop owners	have	dismay	O	O
+1.0	other people	question by	magistrate	0	0
+1.0	political motive	be at	play	0	0
+1.0	Russia	have	biggest mining enterprise	LOCATION	0
+1.0	Russians	have	stay	O	MISC
+1.0	motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand	0	PERSON
+1.0	people	have	list	O	O
+1.0	Oleg Bocharov	be	Moscow City Duma	PERSON	LOCATION
+1.0	politician	react	media	0	0
+1.0	russian politician	react indignantly to	sting	0	0
+1.0	Mikhail Prokhorov	be escort to	law court in southeast city of Lyon	PERSON	LOCATION
+1.0	political motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand in April election	0	DATE
+1.0	he	should	should place under investigation	0	0
+1.0	Mikhail Prokhorov	be	escort	PERSON	0
+1.0	french authority	question	one of Russia 's wealthiest man	0	LOCATION
+1.0	those	have	Many	O	O
+1.0	political motive	be at	play within context	0	0
+1.0	motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand in April election	0	DATE
+1.0	french authority	question	one of Russia 's man	0	LOCATION
+1.0	political motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand in April election	0	DATE
+1.0	political motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand	0	PERSON
+1.0	motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand in April election	0	DATE
+1.0	Mikhail Prokhorov	be	escort by police to law court in southeast city	PERSON	0
+1.0	he	organise	suspect prostitution ring in ski resort	0	0
+1.0	eight woman	be in	they 20	NUMBER	0
+1.0	he	organise	suspect prostitution ring in alpine ski resort	0	0
+1.0	prostitute	be procure there for	guest	0	0
+1.0	police	raid hotel in	swish ski resort	0	0
+1.0	french authority	question	one Russia 's wealthiest man	0	LOCATION
+1.0	political motive	be at	play within context of french Interior Minister Nicolas Sarkozy 's campaign stand in April presidential election	0	DATE
+1.0	authority	question	one of Russia 's man	0	LOCATION
+1.0	Interior Minister Nicolas Sarkozy	have	campaign	O	PERSON
+1.0	week	have	police raid	O	DATE
+1.0	50 police	raid	hotel	NUMBER	0
+1.0	he	organise	prostitution ring in ski resort	0	0
+1.0	Lyon	have	city	O	LOCATION
+1.0	motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign	0	PERSON
+1.0	Mikhail Prokhorov	be escort to	law court	PERSON	0
+1.0	spokesman	say at_time	Thursday	0	DATE
+1.0	he	organise	prostitution ring in alpine ski resort	0	0
+1.0	group	arrest	26 people	0	NUMBER
+1.0	Russia	have	mining enterprise	O	LOCATION
+1.0	russian politician	react	media	0	0
+1.0	french authority	question	one Russia 's man	0	LOCATION
+1.0	four other people	question by	magistrate	0	0
+1.0	politician	react to	sting	0	0
+1.0	Mikhail Prokhorov	ceo of	russian metal giant Norilsk Nickel	PERSON	ORGANIZATION
+1.0	law court	be in	southeast city of Lyon	0	LOCATION
+1.0	motive	be at	play within context of Interior Minister Nicolas Sarkozy 's campaign stand in April presidential election	0	DATE
+1.0	Russians	take	fright	MISC	0
+1.0	world	have	people	O	O
+1.0	company	be	Russia 's biggest mining enterprise	0	LOCATION
+1.0	arrest	be in	Courchevel	0	LOCATION
+1.0	motive	be at	play within context	0	0
+1.0	prostitute	be	procure	0	0
+1.0	authority	question	one Russia 's wealthiest man	0	LOCATION
+1.0	Mikhail Prokhorov	be	escort by police to law court	PERSON	0
+1.0	politician	suggest	media	0	0
+1.0	Russia	have	men	O	LOCATION
+1.0	State Duma	have	affairs committee	O	ORGANIZATION

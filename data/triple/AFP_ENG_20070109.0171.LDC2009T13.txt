@@ -1,0 +1,22 @@
+1.0	film trade press	report at_time	Tuesday	0	DATE
+1.0	release	be in	2009	0	DATE
+1.0	pic	have	back	O	O
+1.0	band	have	story	O	O
+1.0	Legendary Canadian director James Cameron	tell	Daily Variety	PERSON	ORGANIZATION
+1.0	movie	be due after	Titanic	0	0
+1.0	films	have	one	NUMBER	O
+1.0	The 52-year-old director	bring	he vision	0	0
+1.0	expensive film	be in	history of cinema	0	0
+1.0	planet	have	inhabitants	O	O
+1.0	James Cameron	be	canadian	PERSON	0
+1.0	1997	have	epic	O	DATE
+1.0	battle	be with	inhabitant of distant planet	0	0
+1.0	humans	have	band	O	O
+1.0	movie	be due for	release	0	0
+1.0	1997	since	oscar-winning epic	DATE	0
+1.0	cinema	have	history	O	O
+1.0	Rings director	have	Lord	O	O
+1.0	The 52-year-old director	have	vision	O	O
+1.0	movie	be	due	0	0
+1.0	movie	be	due for release after Titanic	0	0
+1.0	Legendary Canadian director James Cameron	have	movie	O	O

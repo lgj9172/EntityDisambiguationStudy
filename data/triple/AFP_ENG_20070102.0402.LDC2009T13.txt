@@ -1,0 +1,160 @@
+1.0	England	crumble against	second new ball lose three wicket early on day	LOCATION	DATE
+1.0	Paul Collingwood	give	edge	PERSON	0
+1.0	day	have	up took	O	DATE
+1.0	Pacemen Brett Lee	revel	bowling	PERSON	0
+1.0	Paul Collingwood	be drop on	he overnight score	PERSON	NUMBER
+1.0	Sajid Mahmood	be next ball pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	Paul Collingwood	be drop on	he score	PERSON	NUMBER
+1.0	Sajid Mahmood	be pop	catch	PERSON	0
+1.0	McGrath	remove	Kevin Pietersen	PERSON	PERSON
+1.0	Sajid Mahmood	put	Lee on hat-trick	PERSON	PERSON
+1.0	England	crumble against	second ball lose three wicket early on second day	LOCATION	DATE
+0.9932995789325233	Paul Collingwood	be on	when he overnight score	0	NUMBER
+1.0	England	crumble against	second ball lose	LOCATION	DATE
+0.6003294965534998	Ricky Ponting	second ball in	Lee 's opening	PERSON	PERSON
+1.0	Andrew Flintoff	raise	he half-century	PERSON	0
+1.0	England 's pair	come under	pressure	LOCATION	0
+1.0	England 's pair	resume	at 234 for four	LOCATION	NUMBER
+1.0	England	have	pair	O	LOCATION
+1.0	Sajid Mahmood	be pop	easy catch off shoulder	PERSON	0
+1.0	Pacemen Brett Lee	entice edge off	bat have	PERSON	0
+1.0	Sajid Mahmood	be next ball pop	easy catch off shoulder	PERSON	0
+1.0	off-stump	have	wide	O	O
+1.0	England	crumble against	new ball lose three wicket early on day	LOCATION	DATE
+1.0	Paul Collingwood	have	score	NUMBER	O
+1.0	series	have	half-century	O	O
+1.0	England	have	overnight pair	LOCATION	TIME
+1.0	England	crumble against	second ball lose early on day	LOCATION	DATE
+0.9932995789325233	Paul Collingwood	be on	he overnight score of 25	0	NUMBER
+1.0	Pacemen Brett Lee	revel bowling with	ball	PERSON	0
+1.0	Sajid Mahmood	be next ball pop	easy catch off shoulder of bat	PERSON	0
+1.0	England	crumble against	ball lose early on second day	LOCATION	DATE
+1.0	Sajid Mahmood	be pop	catch off shoulder	PERSON	0
+0.6003294965534998	Ricky Ponting	ball in	Lee 's opening	PERSON	PERSON
+1.0	tourist	face	prospect of sub-300 run total	0	0
+0.9932995789325233	Paul Collingwood	be on	when he score	0	NUMBER
+1.0	McGrath	remove kevin pietersen in	four ball	PERSON	NUMBER
+1.0	Sajid Mahmood	be ball pop	catch	PERSON	0
+1.0	Wicketkeeper Chris Read	dabble	off-stump	0	0
+1.0	Lee	have	hat-trick delivery	O	PERSON
+1.0	series	be with	three run	0	NUMBER
+1.0	England	be	at drink 274 for seven with Flintoff unbeaten	LOCATION	NUMBER
+1.0	Paul Collingwood	have	fumble	O	O
+1.0	Andrew Flintoff	raise	he second half-century of series	PERSON	ORDINAL
+0.9932995789325233	Paul Collingwood	be on	when he overnight score of 25	0	NUMBER
+1.0	Andrew Flintoff	have	half-century	O	O
+1.0	England 's pair	come under	immediate pressure	LOCATION	0
+1.0	Paul Collingwood	be drop on	when he overnight score	PERSON	NUMBER
+1.0	Australia	have	efforts	O	LOCATION
+0.9932995789325233	Paul Collingwood	be on	he score of 25	0	NUMBER
+1.0	Pacemen Brett Lee	revel	Glenn McGrath	PERSON	PERSON
+1.0	Paul Collingwood	be drop on	when he score of 25	PERSON	NUMBER
+1.0	innings	have	wicket	O	O
+1.0	Sajid Mahmood	be ball pop	easy catch	PERSON	0
+1.0	Andrew Flintoff	raise	he second half-century	PERSON	ORDINAL
+1.0	England	crumble against	second ball lose on day	LOCATION	DATE
+1.0	McGrath	strike on	Tuesday 's opening day	PERSON	DURATION
+1.0	England	crumble against	second new ball lose early on second day	LOCATION	DATE
+1.0	Pacemen Brett Lee	entice	Glenn McGrath	PERSON	PERSON
+1.0	England 's overnight pair	resume	at 234 for four	TIME	NUMBER
+1.0	Brett Lee	have	dropped	O	PERSON
+1.0	second new ball	be in	Lee 's opening	ORDINAL	PERSON
+1.0	England 's pair	come	Paul Collingwood	LOCATION	PERSON
+1.0	shoulder	have	catch	O	O
+1.0	Sajid Mahmood	be ball pop	catch off shoulder of bat	PERSON	0
+1.0	Lee	have	hat-trick delivery	PERSON	0
+1.0	England	crumble against	second new ball	LOCATION	DATE
+1.0	Ashes	have	day	DATE	O
+1.0	England 's pair	resume	Paul Collingwood	LOCATION	PERSON
+1.0	England	lose	3-13	LOCATION	NUMBER
+1.0	England	be	at first-hour drink 274 for seven with Flintoff unbeaten on 74	LOCATION	NUMBER
+1.0	Andrew Flintoff	play	lone role	PERSON	0
+0.5720869944384471	tourist	prospect of	sub-300 run total	0	0
+1.0	England	crumble against	ball lose on day	LOCATION	DATE
+0.9932995789325233	Paul Collingwood	be on	he overnight score	0	NUMBER
+1.0	England	crumble against	new ball lose early on second day	LOCATION	DATE
+1.0	Sajid Mahmood	be pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	Paul Collingwood	be drop on	he score of 25	PERSON	NUMBER
+1.0	England	crumble against	second new ball lose on second day	LOCATION	DATE
+1.0	Paul Collingwood	be drop on	when he score	PERSON	NUMBER
+0.5720869944384471	tourist	prospect of	run total	0	0
+1.0	England	crumble against	new ball lose early on day	LOCATION	DATE
+1.0	England	crumble against	ball lose three wicket early on second day	LOCATION	DATE
+1.0	McGrath	strike late on	Tuesday 's opening day	PERSON	DURATION
+1.0	Sajid Mahmood	be next ball pop	catch off shoulder	PERSON	0
+1.0	England	crumble against	second ball lose early on second day	LOCATION	DATE
+1.0	tourist	face	prospect	0	0
+1.0	Sajid Mahmood	be next ball pop	catch off shoulder of bat	PERSON	0
+1.0	England	crumble against	second new ball lose on day	LOCATION	DATE
+1.0	England	be	at first-hour drink 274 for seven with Flintoff unbeaten	LOCATION	NUMBER
+1.0	England 's overnight pair	resume	Paul Collingwood	TIME	PERSON
+1.0	Sajid Mahmood	be pop	easy catch	PERSON	0
+1.0	harmison	be on	two	0	NUMBER
+1.0	England	crumble against	ball lose early on day	LOCATION	DATE
+1.0	McGrath	have	raised	O	PERSON
+1.0	England	crumble against	second new ball lose	LOCATION	DATE
+1.0	Sajid Mahmood	be next ball pop	easy catch	PERSON	0
+1.0	England	crumble against	ball	LOCATION	0
+1.0	Wicketkeeper Chris Read	dabble	outside off-stump	0	0
+1.0	Paul Collingwood	give edge to	Adam Gilchrist	PERSON	PERSON
+1.0	England 's overnight pair	come under	pressure	TIME	0
+1.0	tourist	face	prospect of run total	0	0
+1.0	Sajid Mahmood	be pop	catch off shoulder of bat	PERSON	0
+1.0	England	crumble against	ball lose three wicket early on day	LOCATION	DATE
+1.0	bat	have	shoulder	O	O
+1.0	Pacemen Brett Lee	entice edge off	bat	PERSON	0
+1.0	Lee	in	opening	PERSON	0
+1.0	Sajid Mahmood	be next ball pop	catch	PERSON	0
+1.0	Paul Collingwood	give	outside edge	PERSON	0
+1.0	England	crumble against	new ball lose on second day	LOCATION	DATE
+1.0	England	crumble against	new ball	LOCATION	0
+1.0	England 's overnight pair	come	Paul Collingwood	TIME	PERSON
+1.0	McGrath	have	wicket	O	O
+1.0	England	crumble against	second new ball lose three wicket early on second day	LOCATION	DATE
+1.0	England	crumble against	second new ball lose early on day	LOCATION	DATE
+1.0	England	be	at drink 274 for seven with Flintoff unbeaten on 74	LOCATION	NUMBER
+0.9932995789325233	Paul Collingwood	be on	he score	0	NUMBER
+1.0	Tuesday	on	day	DURATION	DURATION
+1.0	Pacemen Brett Lee	entice	edge	PERSON	0
+1.0	bat	have	enticing	O	O
+1.0	Sajid Mahmood	be ball pop	catch off shoulder	PERSON	0
+1.0	England	crumble against	new ball lose three wicket early on second day	LOCATION	DATE
+1.0	two wicket	be in	two ball	NUMBER	NUMBER
+1.0	innings	have	catch	O	O
+1.0	Sajid Mahmood	be ball pop	easy catch off shoulder of bat	PERSON	0
+1.0	Sajid Mahmood	be pop	easy catch off shoulder of bat	PERSON	0
+1.0	England	crumble against	second ball	LOCATION	DATE
+1.0	Sajid Mahmood	be ball pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	England	crumble against	second ball lose three wicket early on day	LOCATION	DATE
+0.6003294965534998	Ricky Ponting	new ball in	Lee 's opening	PERSON	PERSON
+1.0	England	crumble against	ball lose on second day	LOCATION	DATE
+1.0	Sajid Mahmood	be ball pop	easy catch off shoulder	PERSON	0
+1.0	Sajid Mahmood	be next ball pop catch to	Matthew Hayden in gully	PERSON	PERSON
+0.8137150669194889	resume	at 234 for	four	0	NUMBER
+1.0	Sajid Mahmood	be ball pop catch to	Matthew Hayden in gully	PERSON	PERSON
+1.0	England	crumble against	second ball lose on second day	LOCATION	DATE
+1.0	Lee	have	opening	O	PERSON
+1.0	Tuesday	have	opening day	DURATION	DATE
+1.0	Pacemen Brett Lee	revel bowling with	new ball	PERSON	0
+1.0	Andrew Flintoff	raise	he second half-century of series with three run	PERSON	ORDINAL
+1.0	Australia	have	effort mop	LOCATION	0
+1.0	England	be in	familiar trouble	LOCATION	0
+1.0	McGrath	have	124th	O	O
+0.9932995789325233	Paul Collingwood	be on	when he score of 25	0	NUMBER
+1.0	Sajid Mahmood	put	Lee	PERSON	PERSON
+1.0	England	crumble against	new ball lose	LOCATION	0
+0.6003294965534998	Ricky Ponting	second new ball in	Lee 's opening	PERSON	PERSON
+1.0	Andrew Flintoff	raise	he half-century of series with three run	PERSON	NUMBER
+1.0	England	crumble against	ball lose	LOCATION	0
+1.0	innings	have	fumble	O	O
+1.0	Adam Gilchrist	have	catch	O	O
+1.0	25	have	score	NUMBER	NUMBER
+1.0	Sajid Mahmood	be pop catch to	Matthew Hayden in gully	PERSON	PERSON
+1.0	Andrew Flintoff	raise	he half-century of series	PERSON	0
+1.0	run total	have	prospect	O	O
+1.0	Matthew Hayden	be in	gully	PERSON	0
+1.0	England	crumble against	new ball lose on day	LOCATION	DATE
+1.0	England 's overnight pair	come under	immediate pressure	TIME	0
+1.0	Paul Collingwood	be drop on	when he overnight score of 25	PERSON	NUMBER
+1.0	Andrew Flintoff	play	role	PERSON	0
+1.0	Paul Collingwood	be drop on	he overnight score of 25	PERSON	NUMBER

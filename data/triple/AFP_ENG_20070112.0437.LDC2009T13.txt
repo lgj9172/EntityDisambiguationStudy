@@ -1,0 +1,77 @@
+1.0	airline	add to	one-off employee saving	0	0
+0.707815645804518	ba	one-off payment of	800 million pound	0	MONEY
+1.0	strike	have	warned	O	O
+1.0	ba 's deal	involve	contribution	0	0
+1.0	ba	would make	one-off payment of 800 million pound in exchange	0	MONEY
+1.0	ba 's propose deal	involve contribution into	pension fund subject to acceptance of benefit change	0	0
+1.0	deal	tackle	flag carrier 's pension deficit	0	0
+1.0	earlier	recommend	acceptance	0	0
+1.0	pounds	have	payment	O	MONEY
+1.0	ba 's deal	involve	one-off contribution of 800 million pound	0	MONEY
+1.0	we	have just conclude	16 month of talk	0	DURATION
+1.0	earlier	recommend	acceptance of package	0	0
+1.0	airline	add to	employee saving of 400 million pound	0	MONEY
+1.0	we	have just conclude	16 month	0	DURATION
+1.0	pension deficit	would	would reduce	0	0
+1.0	company	have	contributions	O	O
+1.0	800 million pound	be in	exchange	MONEY	0
+1.0	ba	would make	payment of 800 million pound	0	MONEY
+1.0	pounds	have	contribution	O	MONEY
+1.0	deal	tackle	flag carrier 's giant pension deficit	0	0
+1.0	ba 's deal	involve contribution into	pension fund subject	0	0
+1.0	ba 's propose deal	involve	one-off contribution of 800 million pound	0	MONEY
+1.0	we	have conclude	16 month of talk	0	DURATION
+1.0	talks	have	months	DURATION	O
+1.0	benefit changes	have	acceptance	O	O
+1.0	Ed Blissett	be	the GMB	PERSON	ORGANIZATION
+1.0	BA workers	have	ballot thousands	O	O
+1.0	propose deal	tackle	flag carrier 's giant pension deficit	0	0
+1.0	pounds	have	employee saving	O	MONEY
+1.0	ba 's propose deal	involve contribution into	pension fund subject to acceptance	0	0
+1.0	unions	have	One	NUMBER	O
+1.0	BA	have	offer	O	ORGANIZATION
+1.0	ba	would make	payment	0	0
+1.0	trade unions	have	smallest	O	O
+1.0	ba	would make	one-off payment	0	0
+1.0	GMB	be	smallest	ORGANIZATION	0
+1.0	ballot thousands of BA workers	want	strike	0	0
+0.707815645804518	ba	payment of	800 million pound	0	MONEY
+1.0	proposal	put forward by	trade union	0	0
+1.0	ba 's deal	involve	contribution of 800 million pound	0	MONEY
+1.0	Shop steward	represent	baggage handler	0	0
+1.0	ba 's deal	involve contribution into	pension fund subject to acceptance of benefit change	0	0
+1.0	company	have	annual contribution	DURATION	SET
+1.0	ba	would make payment for	contribution	0	0
+1.0	ba 's propose deal	involve	one-off contribution	0	0
+1.0	Airline Pilots Association	have	leaders	O	ORGANIZATION
+1.0	ba 's pension scheme	have	deficit	0	0
+1.0	package	have	acceptance	O	O
+1.0	ba 's deal	involve contribution into	pension fund subject to acceptance	0	0
+1.0	their	have	members	O	O
+1.0	ba 's propose deal	involve	contribution of 800 million pound	0	MONEY
+1.0	propose deal	tackle	flag carrier 's pension deficit	0	0
+1.0	one	warn of	possible strike	0	0
+1.0	ba 's pension scheme	have	2.1-billion-pound deficit	0	0
+1.0	proposal	put by	trade union	0	0
+1.0	BA	have	deal	O	ORGANIZATION
+1.0	BA	have	pension scheme	O	ORGANIZATION
+0.707815645804518	ba	payment of	800 million pound in exchange	0	MONEY
+1.0	ba 's deal	involve	one-off contribution	0	0
+1.0	ba	have	propose deal	0	0
+1.0	ba	would make payment for	increase contribution	0	0
+1.0	flag carrier	have	pensions deficit	O	O
+1.0	flag carrier	have	giant pension deficit	0	0
+1.0	ba 's propose deal	involve contribution into	pension fund subject	0	0
+1.0	final offer	be in	comparison	0	0
+1.0	Shop steward	reject	ba 's offer	0	0
+1.0	ba 's propose deal	involve	contribution	0	0
+1.0	airline	add to	one-off employee saving of 400 million pound	0	MONEY
+1.0	ba	have	pension scheme	0	0
+1.0	ba	would make	one-off payment of 800 million pound	0	MONEY
+1.0	we	have conclude	16 month	0	DURATION
+1.0	ba	have	offer	0	0
+1.0	airline	add to	employee saving	0	0
+1.0	earlier Monday	recommend	acceptance of package	DATE	0
+1.0	earlier Monday	recommend	acceptance	DATE	0
+0.707815645804518	ba	one-off payment of	800 million pound in exchange	0	MONEY
+1.0	ba	would make	payment of 800 million pound in exchange	0	MONEY

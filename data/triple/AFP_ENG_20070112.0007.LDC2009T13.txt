@@ -1,0 +1,188 @@
+1.0	market	be wait nervously for	interest rate meeting	0	0
+1.0	market	be now wait with	view divide	0	0
+1.0	dollar	rise from	120.43 yen in New York late Thursday	0	MONEY
+1.0	dollar	rise to	120.56 yen	0	MONEY
+1.0	market	be wait nervously with	view divide on chance	0	0
+1.0	market	be wait nervously for	interest rate meeting week	0	DATE
+1.0	120 yen	be in	asian trade	MONEY	0
+1.0	US datum	ease worry include	expect fall in weekly claim	LOCATION	SET
+1.0	it	gain to	1.5460 Singapore dollar	0	MONEY
+1.0	Bank	raise	interest rate	ORGANIZATION	0
+1.0	US currency	rise for	time since December 2005	LOCATION	DATE
+1.0	Bank	raise interest rate to	0.25 percent	ORGANIZATION	PERCENT
+1.0	BoJ governor Toshihiko Fukui	tell meeting in	Tokyo	PERSON	LOCATION
+1.0	US datum	ease worry there include	fall	LOCATION	DATE
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Bank	catch analyst with	quarter-point hike in british interest rate	ORGANIZATION	0
+1.0	US datum	ease worry there include	expect fall in jobless claim	LOCATION	DATE
+1.0	euro	recover from	earlier weakness as participant	0	0
+1.0	market	be now wait with	view divide on chance of hike	0	ORGANIZATION
+1.0	dollar	have	strength	0	0
+1.0	market	be now wait nervously with	view divide on chance of hike	0	ORGANIZATION
+1.0	dollar	rise to	939.90 south korean win Thursday	0	NUMBER
+1.0	euro	rise	recover from weakness	0	0
+1.0	euro	recover from	earlier weakness as participant lock	0	0
+1.0	euro	rise to	1.2897 dollar	0	MONEY
+1.0	weakness	come from	boj official	0	0
+1.0	market	be wait with	view still divide on chance	0	0
+1.0	US datum	ease worry include	expect fall in claim	LOCATION	DATE
+1.0	US currency	rise for	first time	LOCATION	ORDINAL
+1.0	US datum	ease worry there include	expect fall in weekly jobless claim	LOCATION	SET
+1.0	market	be now wait nervously for	interest rate meeting next week	0	DATE
+1.0	market	be wait nervously with	view divide on chance of hike	0	ORGANIZATION
+1.0	dollar	rise to	939.90 korean win from 938.70	0	NUMBER
+1.0	market	be wait nervously with	view	0	0
+1.0	market	be now wait nervously with	view divide	0	0
+1.0	market	be wait nervously with	view still divide on chance of hike	0	ORGANIZATION
+1.0	US datum	ease worry over	economic outlook	LOCATION	0
+1.0	change in wording as a signal that the European central bank	do on	late Thursday	0	DATE
+1.0	market	be wait nervously with	view still divide	0	0
+1.0	US datum	ease worry include	fall in weekly claim	LOCATION	SET
+1.0	market	be now wait nervously for	interest rate meeting week	0	DATE
+1.0	latest weakness	be in	yen	0	0
+1.0	US datum	ease worry there include	fall in weekly jobless claim	LOCATION	SET
+1.0	market	be wait nervously with	view divide	0	0
+0.42544942084531656	bid	stimulate	economy	0	0
+1.0	it	gain to	9,155.00 Indonesia rupiah from 9,065	0	LOCATION
+1.0	euro	recover from	weakness as participant lock in profit	0	0
+1.0	Sterling	meanwhile rally	overnight	0	TIME
+0.6737396783744833	analyst	bank of	England	0	ORGANIZATION
+1.0	dollar	rise from	120.43 yen	0	MONEY
+1.0	market	be wait with	view	0	0
+1.0	dollar	on	recent advance	0	0
+1.0	US currency	rise for	time	LOCATION	0
+1.0	ecb policy	be in	news conference	0	0
+1.0	market	be wait nervously for	interest rate meeting next week	0	DATE
+1.0	120.56 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+1.0	euro	recover from	weakness as participant lock	0	0
+1.0	weakness	come despite	upbeat rhetoric	0	0
+1.0	world	have	number economy	O	O
+1.0	euro	recover from	weakness as participant lock in profit on dollar 's advance	0	0
+1.0	euro	rise	recover from weakness as participant lock in profit on dollar 's advance	0	0
+1.0	John Kyriakopoulos	be	National Australia Bank	PERSON	ORGANIZATION
+1.0	dollar	rise to	939.90 korean win late Thursday	0	NUMBER
+1.0	world	have	number two economy	0	NUMBER
+1.0	Sterling	rally	overnight	0	TIME
+1.0	dollar	rise to	939.90 south korean win from 938.70	0	NUMBER
+1.0	US datum	ease worry there over	outlook	LOCATION	0
+1.0	dollar	rise to	939.90 south korean win from 938.70 Thursday	0	NUMBER
+1.0	dollar	rise to	939.90 south korean win from 938.70 late Thursday	0	NUMBER
+1.0	US datum	ease worry there include	fall in jobless claim	LOCATION	DATE
+1.0	The Bank of Japan	have	policy	O	O
+1.0	dollar	have	advance	O	O
+1.0	euro	recover from	earlier weakness as participant lock in profit on dollar 's recent advance	0	0
+1.0	dollar	rise to	939.90 south korean win late Thursday	0	NUMBER
+1.0	euro	rise	recover from weakness as participant lock	0	0
+1.0	US datum	ease worry include	fall	LOCATION	DATE
+1.0	market	be now wait nervously for	interest rate meeting	0	0
+1.0	euro	rise to	1.2897 dollar after 1.2892	0	MONEY
+1.0	US datum	ease worry include	fall in jobless claim	LOCATION	DATE
+1.0	US datum	ease worry include	expect fall in weekly jobless claim	LOCATION	SET
+1.0	change in wording as a signal that the European central bank	have	February meeting	O	O
+1.0	The Bank of Japan	end	its policy	0	0
+1.0	Bank	catch analyst with	quarter-point hike	ORGANIZATION	0
+1.0	market	be now wait with	view still divide	0	0
+1.0	HSBC	be in	Tokyo	ORGANIZATION	LOCATION
+1.0	US datum	ease worry there include	fall in weekly claim	LOCATION	SET
+1.0	The Bank of Japan	end	its five-year policy	0	DURATION
+1.0	dollar	rise from	120.43 yen late Thursday	0	MONEY
+1.0	Bank	catch	analyst	ORGANIZATION	0
+1.0	it	gain from	1.5390	0	NUMBER
+1.0	Bank	catch analyst with	quarter-point hike in interest rate	ORGANIZATION	0
+1.0	market	be now wait with	view divide on chance	0	0
+1.0	boj governor Toshihiko Fukui	have make	clear	PERSON	0
+1.0	market	be now wait with	view still divide on chance	0	0
+1.0	latest weakness	come despite	relatively upbeat rhetoric	0	0
+1.0	weakness	come despite	relatively upbeat rhetoric	0	0
+1.0	US datum	ease worry there include	expect fall in weekly claim	LOCATION	SET
+1.0	market	be now wait nervously with	view still divide on chance of hike	0	ORGANIZATION
+1.0	The Bank of Japan	end	its unorthodox five-year policy	0	DURATION
+1.0	dollar	rise to	939.90 korean win from 938.70 Thursday	0	NUMBER
+1.0	market	be now wait nervously with	view	0	0
+1.0	euro	rise	recover from earlier weakness as participant lock	0	0
+1.0	dollar	have	strength	O	O
+1.0	US datum	ease worry over	outlook	LOCATION	0
+1.0	market	be wait with	view still divide on chance of hike	0	ORGANIZATION
+1.0	market	be now wait with	view still divide on chance of hike	0	ORGANIZATION
+1.0	market	be now wait with	view	0	0
+1.0	landing	have	market fears	O	O
+1.0	market	be wait with	view divide on chance	0	0
+1.0	US datum	ease there	worry	LOCATION	0
+1.0	it	gain to	9,155.00 Indonesia rupiah	0	LOCATION
+1.0	market	be now wait for	interest rate meeting	0	0
+1.0	dollar	rise to	939.90 south korean win	0	NUMBER
+1.0	euro	rise	recover from earlier weakness as participant	0	0
+1.0	euro	rise	recover from earlier weakness as participant lock in profit on dollar 's recent advance	0	0
+1.0	change	leave	interest rate unchanged at its February meeting	0	DATE
+1.0	US datum	ease	worry	LOCATION	0
+1.0	fall	be in	weekly jobless claim	DATE	SET
+1.0	120.43 yen	be in	New York	MONEY	LOCATION
+1.0	euro	rise from	155.30	0	NUMBER
+1.0	BoJ governor Toshihiko Fukui	tell	meeting	PERSON	0
+1.0	hike	have	chances	O	O
+1.0	latest weakness	come from	boj official	0	0
+1.0	market	be now wait nervously with	view still divide	0	0
+1.0	BoJ governor Toshihiko Fukui	tell	meeting of branch manager	PERSON	0
+1.0	interest rate	unchanged at	its February meeting	0	DATE
+1.0	market	be wait with	view divide	0	0
+1.0	euro	rise	recover from earlier weakness	0	0
+1.0	market	be now wait for	interest rate meeting week	0	DATE
+1.0	market	be now wait for	interest rate meeting next week	0	DATE
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	euro	rise	recover from earlier weakness as participant lock in profit on dollar 's advance	0	0
+1.0	US datum	ease worry there include	fall in claim	LOCATION	DATE
+1.0	change	leave	interest rate unchanged	0	0
+1.0	John Kyriakopoulos	be currency strategist of	National Australia Bank	PERSON	ORGANIZATION
+1.0	euro	recover from	earlier weakness as participant lock in profit on dollar 's advance	0	0
+1.0	euro	recover from	earlier weakness as participant lock in profit	0	0
+1.0	dollar	rise from	120.43 yen in New York	0	MONEY
+1.0	it	gain from	32.76	0	NUMBER
+1.0	dollar	rise from	120.43 yen in New York Thursday	0	MONEY
+1.0	euro	rise	recover	0	0
+1.0	euro	rise	recover from weakness as participant	0	0
+1.0	Bank	catch analyst by	surprise	ORGANIZATION	0
+1.0	market	be wait with	view divide on chance of hike	0	ORGANIZATION
+1.0	quarter-point hike	be in	british interest rate	0	0
+1.0	market	be wait for	interest rate meeting	0	0
+1.0	euro	recover from	weakness as participant	0	0
+1.0	US datum	ease worry include	fall in claim	LOCATION	DATE
+1.0	euro	recover from	weakness as participant lock in profit on dollar 's recent advance	0	0
+1.0	US datum	ease worry include	fall in weekly jobless claim	LOCATION	SET
+1.0	0.25 percent	be in	July	PERCENT	DATE
+1.0	dollar	rise from	120.43 yen Thursday	0	MONEY
+1.0	Jean-Claude Trichet	be president of	ecb	PERSON	0
+1.0	market	be wait nervously with	view still divide on chance	0	0
+1.0	The Bank of Japan	end	its unorthodox policy	0	0
+1.0	latest weakness	come despite	upbeat rhetoric	0	0
+1.0	US datum	ease worry there include	expect fall in claim	LOCATION	DATE
+1.0	euro	rise	recover from weakness as participant lock in profit	0	0
+1.0	latest weakness	come despite	rhetoric	0	0
+1.0	dollar	rise to	939.90 korean win	0	NUMBER
+1.0	market	be now wait nervously with	view divide on chance	0	0
+1.0	weakness	come despite	rhetoric	0	0
+1.0	Jean-Claude Trichet	be	ecb	PERSON	0
+1.0	US currency	rise for	first time since December 2005	LOCATION	ORDINAL
+1.0	US datum	ease worry there over	economic outlook	LOCATION	0
+1.0	US currency	rise in	New York	LOCATION	LOCATION
+1.0	change	be	likely	0	0
+1.0	dollar	rise to	120.56 yen in Tokyo afternoon trade	0	LOCATION
+1.0	Bank	raise interest rate to	0.25 percent in July	ORGANIZATION	PERCENT
+1.0	dollar	rise to	939.90 korean win Thursday	0	NUMBER
+1.0	market	be wait with	view still divide	0	0
+1.0	US datum	ease worry there include	expect fall	LOCATION	DATE
+1.0	euro	recover from	weakness	0	0
+1.0	BoJ governor Toshihiko Fukui	have	desire	O	O
+1.0	euro	rise	recover from earlier weakness as participant lock in profit	0	0
+1.0	forex sales	have	head	O	O
+1.0	change	be in	wording as signal that european central bank	0	0
+1.0	market	be wait for	interest rate meeting next week	0	DATE
+1.0	market	be wait for	interest rate meeting week	0	DATE
+1.0	Kosuke Hanao	head of	forex sale at HSBC in Tokyo	PERSON	ORGANIZATION
+1.0	branch managers	have	meeting	O	O
+1.0	US datum	ease worry include	expect fall in jobless claim	LOCATION	DATE
+1.0	government minister	have voice	concern	0	0
+1.0	euro	rise	recover from weakness as participant lock in profit on dollar 's recent advance	0	0
+1.0	market	be now wait nervously with	view still divide on chance	0	0
+1.0	dollar	rise to	939.90 korean win from 938.70 late Thursday	0	NUMBER
+1.0	US datum	ease worry include	expect fall	LOCATION	DATE
+1.0	euro	recover from	earlier weakness	0	0

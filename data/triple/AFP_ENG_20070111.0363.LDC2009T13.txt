@@ -1,0 +1,15 @@
+1.0	US Defense Secretary Robert Gates	increase us force by	92,000 soldier over five year	0	DURATION
+1.0	US Defense Secretary Robert Gates	increase us force as	part of war on terror	0	0
+1.0	US Defense Secretary Robert Gates	announce at_time	Thursday	PERSON	DATE
+1.0	soldiers	have	services	O	O
+1.0	US Defense Secretary Robert Gates	increase us force as	part of war	0	0
+1.0	US Defense Secretary Robert Gates	increase us force by	92,000 soldier over next five year	0	DURATION
+1.0	marines	have	services	O	O
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	total increase	be in	two service of 92,000 soldier over next five year	0	DURATION
+1.0	US Defense Secretary Robert Gates	increase us force as	part	0	0
+1.0	US Defense Secretary Robert Gates	increase us force by	92,000 soldier	0	NUMBER
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	war	have	part	O	O
+1.0	US Defense Secretary Robert Gates	increase	US force	0	LOCATION
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION

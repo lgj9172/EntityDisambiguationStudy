@@ -1,0 +1,58 @@
+1.0	Samuel Bodman	be between	Energy	PERSON	ORGANIZATION
+1.0	fuel	have	reprocessing	O	O
+1.0	landmark agreement	be	reach	0	0
+1.0	Samuel Bodman	be between	The United States	PERSON	LOCATION
+1.0	fuel	have	fuel	O	O
+1.0	landmark agreement	be reach during	talk in Washington	0	LOCATION
+1.0	trade insurance	would compensate firm for	loss suffer from overseas investment	0	0
+1.0	landmark agreement	be reach between	US Energy Secretary Samuel Bodman	0	LOCATION
+1.0	The United States	develop	Japan	LOCATION	LOCATION
+1.0	energy partnership	have	aspects	O	O
+1.0	US financial institution	be say	reluctant	LOCATION	0
+1.0	trade insurance	would compensate firm for	loss suffer from investment	0	0
+0.44362585602666216	loss	suffer from	overseas investment	0	0
+1.0	plan	be	complete	0	0
+1.0	US institution	be say	reluctant	LOCATION	0
+1.0	Samuel Bodman	say	Industry Minister Akira Amari	PERSON	PERSON
+1.0	power plants	have	construction	O	O
+1.0	skills	have	use	O	O
+1.0	energy policy	have	history	O	O
+1.0	world	between	top two richest country	0	NUMBER
+1.0	President George W. Bush	have	administration	O	PERSON
+1.0	Industry Minister Akira Amari	tell	reporter	PERSON	0
+1.0	new atomic power plant	be in	The United States	0	LOCATION
+1.0	proliferation	have	construction	O	O
+1.0	Samuel Bodman	say in	joint statement	PERSON	0
+1.0	plan	be	complete by April	0	DATE
+0.44362585602666216	loss	suffer from	investment	0	0
+1.0	elements	have	conversion	O	O
+1.0	scientists	have	skills	O	O
+1.0	Industry Minister Akira Amari	have	side	O	O
+1.0	their	have	construction	O	O
+1.0	The United States	agree at_time	Tuesday	LOCATION	DATE
+1.0	American companies	lack experience in	field	0	0
+1.0	American companies	lack	experience	0	0
+1.0	trade insurance	would compensate firm for	loss	0	0
+1.0	plan	be complete by	April	0	DATE
+1.0	new nuclear power plant	be in	United States	0	LOCATION
+1.0	reactor	have	development	O	O
+1.0	landmark agreement	be reach during	talk	0	0
+1.0	Industry Minister Akira Amari	tell reporter with	bodman	PERSON	0
+1.0	Samuel Bodman	say in	statement	PERSON	0
+1.0	world	have	countries	O	O
+1.0	The United States	agree	Japan	LOCATION	LOCATION
+1.0	talk	be in	Washington	0	LOCATION
+1.0	landmark agreement	be	reach between US Energy Secretary Samuel Bodman during talk	0	LOCATION
+1.0	engineers	have	skills	O	O
+1.0	George W. Bush	by	administration	PERSON	0
+1.0	Industry Minister Akira Amari	tell reporter by	he side	PERSON	0
+1.0	trade insurance	would compensate	firm	0	0
+1.0	US financial institution	be	say	LOCATION	0
+1.0	US institution	be	say	LOCATION	0
+1.0	use of the considerable skills of Japanese scientists and engineers	have	terms	O	O
+1.0	power plants	have	up setting	O	O
+1.0	trade insurance	would compensate firm for	loss suffer	0	0
+1.0	areas	have	number	O	O
+1.0	new power plant	be in	The United States	0	LOCATION
+1.0	Samuel Bodman	be secretary of	The United States	PERSON	LOCATION
+1.0	landmark agreement	be	reach between US Energy Secretary Samuel Bodman during talk in Washington	0	LOCATION

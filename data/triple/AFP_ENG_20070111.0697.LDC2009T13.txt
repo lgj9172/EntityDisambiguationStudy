@@ -1,0 +1,89 @@
+1.0	Cochabamba leader	recently join	autonomy movement	LOCATION	0
+0.8915523280589742	bolivian troops	mobilize here at_time	Thursday	0	DATE
+1.0	people	hold	counter demonstration	0	0
+1.0	police	tear	gas	0	0
+1.0	Santa Cruz	have	provinces	O	LOCATION
+1.0	city	have	have paralyze	0	0
+1.0	separate demonstration	degenerate into	pitched street battle	0	0
+1.0	demonstration	degenerate into	pitched street battle	0	0
+1.0	demonstration	degenerate into	pitched street battle over plan	0	0
+1.0	city	have	have paralyze since Monday	0	DATE
+1.0	Evo Morales	be	55	PERSON	NUMBER
+1.0	governor	have	support	O	O
+1.0	demonstration	degenerate into	street battle	0	0
+1.0	separate demonstration	degenerate by	local governor for regional autonomy	0	0
+1.0	districts	have	legislator	O	O
+1.0	Bolivia	be increasingly divide between	mostly indigenous highland	LOCATION	DATE
+0.8915523280589742	troops	mobilize here at_time	Thursday	0	DATE
+1.0	separate demonstration	degenerate into	street battle over plan	0	0
+1.0	Bolivia	be divide between	highland	LOCATION	DATE
+1.0	city	stage	daily demonstration	0	SET
+0.8915523280589742	bolivian troops	mobilize at_time	Thursday	0	DATE
+1.0	unrest	follow	clash	0	0
+1.0	Morales	of	move	PERSON	0
+1.0	separate demonstration	degenerate by	local governor for autonomy	0	0
+1.0	coca farmer	supporter of	Evo Morales	0	PERSON
+1.0	people	hold counter demonstration in	support	0	0
+1.0	moves	have	wake	O	O
+1.0	Pando	have	provinces	O	PERSON
+1.0	Cochabamba region	's governor be	Manfred Reyes	LOCATION	PERSON
+1.0	La Paz	have	kilometers southeast	O	LOCATION
+1.0	demonstration	degenerate by	local governor for regional autonomy	0	0
+1.0	people	hold counter demonstration in	support of governor	0	0
+1.0	Bolivia	be increasingly divide between	poor indigenous highland	LOCATION	DATE
+1.0	coca farmers	have	thousands	O	O
+0.8915523280589742	troops	mobilize at_time	Thursday	0	DATE
+1.0	Bolivia	be divide between	indigenous highland	LOCATION	DATE
+1.0	country	have	president	O	O
+1.0	separate demonstration	degenerate by	governor for autonomy	0	0
+1.0	Bolivia	be	increasingly divide	LOCATION	DATE
+1.0	unrest	follow clash between	thousand of coca farmer	0	0
+1.0	Bolivia	be	divide	LOCATION	0
+1.0	unrest	follow clash between	thousand	0	0
+1.0	separate demonstration	degenerate by	governor for regional autonomy	0	0
+1.0	Cochabamba region	have	governor	O	O
+1.0	Nicomedes Gutierrez	kill grower in	violence	PERSON	0
+1.0	Bolivia	be increasingly divide between	highland	LOCATION	DATE
+1.0	demonstration	degenerate into	street battle over plan	0	0
+1.0	Cochabamba leader	join	autonomy movement	LOCATION	0
+1.0	demonstration	degenerate by	governor for regional autonomy	0	0
+1.0	demonstration	degenerate by	governor for autonomy	0	0
+1.0	president	have	legislator	O	O
+1.0	Bolivia	be divide between	poor indigenous highland	LOCATION	DATE
+1.0	Tarija	have	provinces	O	LOCATION
+1.0	separate demonstration	degenerate by	governor	0	0
+1.0	Nicomedes Gutierrez	grower	kill	PERSON	0
+1.0	Morales	have	moves	O	PERSON
+1.0	young people	hold	counter demonstration	0	0
+1.0	young people	hold counter demonstration in	support of governor	0	0
+1.0	separate demonstration	degenerate into	pitched street battle over plan	0	0
+1.0	separate demonstration	degenerate by	local governor	0	0
+1.0	Christian Urrestia	be	20	PERSON	NUMBER
+1.0	demonstration	degenerate by	local governor for autonomy	0	0
+1.0	young people	hold counter demonstration in	support	0	0
+1.0	Bolivia	be divide between	mostly indigenous highland	LOCATION	DATE
+1.0	middle-class background	have	people	O	O
+1.0	Nicomedes Gutierrez	be	36	PERSON	NUMBER
+1.0	land holding	rewrite	constitution	0	0
+1.0	half	have	city	O	O
+1.0	greater autonomy	be in	wake of Morales 's move	0	PERSON
+1.0	10 journalist	be in	city	NUMBER	0
+1.0	separate demonstration	degenerate into	street battle	0	0
+1.0	country	have	first native indian president	0	ORDINAL
+1.0	government	have	authority	O	O
+1.0	Beni	have	provinces	O	PERSON
+1.0	city	stage	demonstration	0	0
+1.0	unrest	follow	similar clash	0	0
+1.0	Bolivia	be divide between	poor mostly indigenous highland	LOCATION	DATE
+1.0	Evo Morales	have	reform program	O	O
+1.0	President Evo Morales	have	supporters	O	PERSON
+1.0	unrest	follow clash include	10 journalist	0	NUMBER
+1.0	Cochabamba region	of	governor	LOCATION	0
+1.0	demonstration	degenerate by	local governor	0	0
+1.0	governor	have	resignation	O	O
+1.0	demonstration	degenerate by	governor	0	0
+1.0	Bolivia	be increasingly divide between	indigenous highland	LOCATION	DATE
+1.0	Morales administration	have	policies	O	O
+1.0	unrest	follow clash at_time	Monday	0	DATE
+1.0	Bolivia	be increasingly divide between	poor mostly indigenous highland	LOCATION	DATE
+1.0	reform program	have	supporters	O	O

@@ -1,0 +1,12 @@
+1.0	Federico Fellini	's strada be	1954	PERSON	DATE
+1.0	Federico Fellini	have	La Strada	O	PERSON
+1.0	actress Sofia Loren	have	husband	O	PERSON
+1.0	Michelangelo Antonioni	have	`` blowup	PERSON	MISC
+1.0	Federico Fellini	include	La Strada	PERSON	0
+1.0	italian film producer Carlo Ponti	husband of	Sofia Loren	0	PERSON
+1.0	Michelangelo Antonioni	's blowup be	1966	PERSON	DATE
+1.0	his	have	credit	O	O
+1.0	family source	tell	ANSA	0	ORGANIZATION
+1.0	Sofia Loren	be of	italian	PERSON	0
+1.0	Michelangelo Antonioni	have	Blowup	MISC	PERSON
+1.0	San Bernardino Symphony	have	music director	O	ORGANIZATION

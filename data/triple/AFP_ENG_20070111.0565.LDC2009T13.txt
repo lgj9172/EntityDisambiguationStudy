@@ -1,0 +1,59 @@
+1.0	Arcelor	have	takeover	O	ORGANIZATION
+1.0	independent foundation	be in	the Netherlands	0	LOCATION
+1.0	he	consider	legal action against it necessary	0	0
+1.0	he	consider	legal action necessary	0	0
+1.0	Arcelor	have	Dofasco part	O	ORGANIZATION
+1.0	purpose	keep	Dofasco part of Arcelor	0	ORGANIZATION
+1.0	Mittal	have	takeover	O	PERSON
+1.0	purpose	be for	Mittal	0	PERSON
+1.0	Arcelor Mittal	arrange at_time	last year	ORGANIZATION	DATE
+1.0	Arcelor	protect	Dofasco from Mittal Steel	ORGANIZATION	ORGANIZATION
+1.0	Duco Oranje	appear at_time	Thursday	PERSON	DATE
+1.0	he	consider	legal action	0	0
+1.0	Dofasco	be	german	ORGANIZATION	0
+1.0	Arcelor Mittal	buy	Dofasco for 4.0 billion euro	ORGANIZATION	MONEY
+1.0	he	consider	action against it	0	0
+1.0	Dofasco	be for	4.0 billion euro	ORGANIZATION	MONEY
+1.0	foundation	have	purpose	O	O
+1.0	Arcelor Mittal	arrange at_time	year	ORGANIZATION	DATE
+1.0	Arcelor Mittal	buy dofasco with	ThyssenKrupp of Germany	ORGANIZATION	LOCATION
+1.0	Arcelor Mittal	later strike deal with	ThyssenKrupp	ORGANIZATION	ORGANIZATION
+1.0	seventh-biggest steel producer	be in	world	0	0
+1.0	producer Dofasco	have	control	O	ORGANIZATION
+1.0	Arcelor Mittal	be at	time	ORGANIZATION	DATE
+1.0	largest steel group	be in	Europe	0	LOCATION
+1.0	purpose	be accord to	attorney Albert Krigge	0	PERSON
+1.0	ThyssenKrupp	obtain	Dofaso	ORGANIZATION	PERSON
+1.0	the German group Dofasco	be of	canadian	ORGANIZATION	0
+1.0	its	have	bid	O	O
+1.0	court statement	say follow	hearing Thursday	0	DATE
+1.0	he	consider	action necessary	0	0
+1.0	arrangements	have	protect	O	O
+1.0	Duco Oranje	represemt	ThyssenKrupp	PERSON	ORGANIZATION
+1.0	Arcelor Mittal	arrange in	January	ORGANIZATION	DATE
+1.0	shares	have	transfer	O	O
+1.0	Arcelor Mittal	buy	Dofasco	ORGANIZATION	ORGANIZATION
+1.0	Arcelor	protect	Dofasco	ORGANIZATION	ORGANIZATION
+1.0	Arcelor Mittal	later strike	deal	ORGANIZATION	0
+1.0	Mittal	of	friendly takeover of Arcelor	PERSON	ORGANIZATION
+1.0	ThyssenKrupp	obtain dofaso from	new Arcelor Mittal group	ORGANIZATION	ORGANIZATION
+1.0	Arcelor Mittal	sell	group Dofasco	ORGANIZATION	ORGANIZATION
+1.0	he	consider	action against it necessary	0	0
+1.0	Arcelor Mittal	strike	deal	ORGANIZATION	0
+1.0	share	be in	Dofasco	0	ORGANIZATION
+1.0	Arcelor Mittal	acquire	Arcelor Mittal	PERSON	ORGANIZATION
+1.0	purpose	keep	Dofasco part	0	ORGANIZATION
+1.0	Germany	have	ThyssenKrupp	ORGANIZATION	LOCATION
+1.0	court statement	say follow	hearing	0	0
+1.0	Arcelor Mittal	buy dofasco with	ThyssenKrupp	ORGANIZATION	ORGANIZATION
+1.0	takeover	have	light	O	O
+1.0	he	consider	legal action against it	0	0
+1.0	ThyssenKrupp	be of	Germany	ORGANIZATION	LOCATION
+1.0	he	consider	action	0	0
+1.0	Arcelor Mittal	buy dofasco after	bidding battle	ORGANIZATION	0
+1.0	Dofasco	be from	Mittal Steel	ORGANIZATION	ORGANIZATION
+1.0	Arcelor Mittal	strike deal with	ThyssenKrupp	ORGANIZATION	ORGANIZATION
+1.0	Arcelor Mittal	sell	german group Dofasco	ORGANIZATION	ORGANIZATION
+1.0	Duco Oranje	appear before	court	PERSON	0
+1.0	ThyssenKrupp	obtain dofaso from	Arcelor Mittal group	ORGANIZATION	ORGANIZATION
+1.0	Arcelor Mittal	be	successful	PERSON	0

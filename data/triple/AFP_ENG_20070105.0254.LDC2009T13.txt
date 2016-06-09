@@ -1,0 +1,32 @@
+1.0	group	have claim	responsibility for abduction	0	ORGANIZATION
+1.0	information department	have	Wu	PERSON	O
+1.0	group	have claim	responsibility	0	0
+1.0	five Chinese	be abducted in	Rivers State by armed man	NUMBER	0
+1.0	we	be ask for	help	0	0
+1.0	Italians	have	Lebanese	MISC	MISC
+1.0	Niger Delta	have	Emancipation	ORGANIZATION	ORGANIZATION
+1.0	circumstance	surround	incident	0	0
+1.0	we	be ask from	nigerian government	0	0
+1.0	Nigeria	in	Niger Delta	LOCATION	LOCATION
+1.0	Chinese	be	abducted	MISC	0
+1.0	five Chinese	be abducted in	Rivers State	NUMBER	0
+1.0	abducted	have	identities	O	O
+1.0	chinese diplomat	tell	afp	0	0
+1.0	we	be ask from	government	0	0
+1.0	five Chinese	be abducted in	Rivers State by man	NUMBER	0
+1.0	Nigeria	have	Niger Delta	LOCATION	LOCATION
+1.0	abducted morning	be in	Rivers State by armed man	DATE	0
+1.0	armed group	have claim	responsibility for abduction	DATE	ORGANIZATION
+1.0	one	have	Lebanese	MISC	NUMBER
+1.0	Chinese	be abducted in	Rivers State by man	MISC	0
+1.0	Chinese	be abducted in	Rivers State by armed man	MISC	0
+1.0	embassy	have	information department	O	O
+1.0	armed group	have claim	responsibility	DATE	0
+1.0	abducted early Friday	be in	Niger Delta	DATE	LOCATION
+1.0	armed group	movement for	Movement for the Emancipation of Niger Delta	DATE	ORGANIZATION
+1.0	diplomat	tell	afp	0	0
+1.0	it	be	true	0	0
+1.0	four foreign oil worker	abducted in	Niger Delta region	NUMBER	LOCATION
+1.0	five Chinese	be	abducted	NUMBER	0
+1.0	abducted	be in	Niger Delta region	0	LOCATION
+1.0	Chinese	be abducted in	Rivers State	MISC	0

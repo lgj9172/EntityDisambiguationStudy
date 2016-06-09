@@ -1,0 +1,30 @@
+1.0	jazz	get	ball	0	0
+1.0	Dirk Nowitzki	get	need support	PERSON	0
+1.0	Nowitzki	have	teammate	PERSON	0
+1.0	Devin Harris	make	Jason Terry	PERSON	PERSON
+1.0	106-101 lead	be with	1:41	NUMBER	TIME
+1.0	Dirk Nowitzki	get support from	he Dallas teammate	PERSON	LOCATION
+1.0	Sunday	from	101-98 loss	DATE	NUMBER
+1.0	club	spar for	nearly 44 minute	0	DURATION
+1.0	Nowitzki	have	teammates	O	PERSON
+1.0	nowhere	have	Erick Dampier cameout	O	O
+1.0	Mavericks	beat	Utah 108-105	ORGANIZATION	LOCATION
+1.0	club	spar in	crisp shooting game	0	0
+1.0	Utah	be in	National Basketball Association contest	LOCATION	ORGANIZATION
+1.0	club	spar in	shooting game	0	0
+1.0	Josh Howard	add	21 point	PERSON	NUMBER
+1.0	jazz	get back	ball	0	0
+1.0	Dirk Nowitzki	have	Dallas teammates	O	O
+1.0	Dirk Nowitzki	get	support	PERSON	0
+1.0	Mavericks	beat	Utah 108-105 in National Basketball Association contest	ORGANIZATION	LOCATION
+1.0	Utah	have	Carlos Boozer	PERSON	LOCATION
+1.0	Sunday	have	loss	O	DATE
+1.0	Utah	have	Carlos Boozer	LOCATION	PERSON
+1.0	Utah	have	Deron Williams	PERSON	LOCATION
+1.0	Dirk Nowitzki	get support from	he Dallas teammate Tuesday	PERSON	LOCATION
+1.0	53 percent	harris on	14 point	PERCENT	NUMBER
+1.0	left	have	three-tenths	O	O
+1.0	102-97 lead	be with	2:38	NUMBER	TIME
+1.0	Williams	have	attempt	O	PERSON
+1.0	Nowitzki 's teammate	make	play	PERSON	0
+1.0	Dirk Nowitzki	score	38 point	PERSON	NUMBER

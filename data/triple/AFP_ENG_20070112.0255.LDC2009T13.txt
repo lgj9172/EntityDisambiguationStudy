@@ -1,0 +1,48 @@
+1.0	Sulawesi	have	missing	O	LOCATION
+1.0	Indonesia	off	Sulawesi	LOCATION	LOCATION
+1.0	Denny Bela	be police spokesman of	North Sulawesi	PERSON	LOCATION
+1.0	victim	be take in	Tahuna	0	LOCATION
+1.0	dozen	be	kill	0	0
+1.0	dozen	be	last month kill in landslide	0	DATE
+1.0	Tahuna	capital of	Sangihe island	LOCATION	0
+1.0	flood	hit tahuna about	155 mile	0	NUMBER
+1.0	flood	hit	Tahuna	0	LOCATION
+1.0	victim	be	take to Lium Kendage hospital in Tahuna	0	LOCATION
+1.0	North Sulawesi police spokesman Denny Bela	say earlier	refer	LOCATION	0
+1.0	Sumatra island	have	north	O	O
+1.0	many people	have	homes	O	O
+1.0	dozen	be kill in	landslide	0	0
+1.0	flood	hit	district capital	0	0
+1.0	victim	be	take	0	0
+1.0	Red Cross	be send supplies from	Jakarta	ORGANIZATION	LOCATION
+1.0	people	have	dozens	O	O
+1.0	dozen	be	month kill in landslide	0	DATE
+1.0	the past month	be in	North Sulawesi	DATE	LOCATION
+1.0	Red Cross	be send	supplies	ORGANIZATION	0
+1.0	400,000 people	flee	they home	NUMBER	0
+1.0	health office head Christian Sila	tell	ElShinta radio	PERSON	ORGANIZATION
+1.0	At least 16 people	have	homes	O	O
+1.0	flood	hit tahuna about	250 kilometre	0	NUMBER
+1.0	health office head Christian Sila	tell elshinta from	Manado	PERSON	LOCATION
+1.0	local police	tell	ElShinta radio	0	ORGANIZATION
+1.0	Denny Bela	be	North Sulawesi	PERSON	LOCATION
+1.0	dozen	be kill at_time	month	0	DATE
+1.0	flood	be in	school	0	0
+1.0	dozen	be kill at_time	last month	0	DATE
+1.0	North Sulawesi provincial capital	of north be	Manado	LOCATION	LOCATION
+1.0	police	tell	ElShinta radio	0	ORGANIZATION
+1.0	victim	be take to	Lium Kendage hospital	0	0
+1.0	Red Cross	be send	medical supplies	ORGANIZATION	0
+1.0	North Sulawesi capital	have	north	O	O
+1.0	rescuer	be use	heavy machinery	0	0
+1.0	Frans Liwutang	be	The Indonesian Red Cross	PERSON	ORGANIZATION
+1.0	flood	hit	district capital of Sangihe island	0	0
+1.0	North Sulawesi police spokesman Denny Bela	say	refer	LOCATION	0
+1.0	Indonesia	have	Sulawesi	LOCATION	LOCATION
+1.0	some 400,000 people	have	homes	O	O
+1.0	January	have	end	DATE	DATE
+1.0	landslide	be in	Tabukan Utara	0	LOCATION
+1.0	Sangihe islands	have	district capital	O	O
+1.0	rescuer	search for	survivor	0	0
+1.0	flood	kill	landslide	0	0
+1.0	rescuer	be use	machinery	0	0

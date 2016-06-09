@@ -1,0 +1,66 @@
+1.0	Regions	have	Party	ORGANIZATION	ORGANIZATION
+1.0	parliament	of	450 seat	0	NUMBER
+1.0	Western-leaning Yushchenko	be of	western-leaning	PERSON	0
+1.0	member	threaten at_time	Wednesday	0	DATE
+1.0	Viktor Yushchenko	be against	ukrainian	PERSON	0
+1.0	deputies	have	One	NUMBER	O
+1.0	parliament	have	seats	O	O
+1.0	president	have	impeachment	O	O
+1.0	party	call for	compromise	0	0
+0.0037717672117225393	member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call against pro-russian legislature	0	PERSON
+1.0	situation	put	question of president 's impeachment	0	0
+0.0037717672117225393	communist member	start impeachment proceedings against	President Viktor Yushchenko they call	0	PERSON
+1.0	member	start	impeachment proceedings	0	0
+0.0037717672117225393	member	start impeachment proceedings against	President Viktor Yushchenko they call against legislature	0	PERSON
+1.0	Communists	be	of which member	MISC	0
+1.0	political situation	put question on	agenda	0	0
+1.0	parliament	have	members	O	O
+1.0	political situation	be in	Ukraine	0	LOCATION
+1.0	political situation	put	question	0	0
+0.0037717672117225393	communist member	start impeachment proceedings against	President Viktor Yushchenko they call against pro-russian legislature	0	PERSON
+1.0	group	say in	statement quote by Interfax news agency	0	ORGANIZATION
+1.0	other party	call with	president	0	0
+1.0	impeachment	have	question	O	O
+0.0037717672117225393	member	start impeachment proceedings against	President Viktor Yushchenko they call against pro-russian legislature	0	PERSON
+0.536066213907059	Yushchenko	conduct	virtual war against parliament	PERSON	0
+0.0037717672117225393	communist member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call	0	PERSON
+1.0	group	say in	statement quote	0	0
+0.0037717672117225393	communist member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call against legislature	0	PERSON
+1.0	other party	call for	compromise	0	0
+1.0	situation	put question on	agenda	0	0
+1.0	coalition	be with	the Communists	0	MISC
+0.536066213907059	Yushchenko	conduct	virtual war	PERSON	0
+1.0	his	have	war	O	O
+1.0	Western-leaning Yushchenko	have	impeachment	O	PERSON
+1.0	deputies	have	group	O	O
+1.0	186 deputy	be in	parliament	NUMBER	0
+1.0	Socialist Party	have	Party	ORGANIZATION	ORGANIZATION
+1.0	president	of	impeachment	0	0
+1.0	member	start impeachment proceedings against	ukrainian President Viktor Yushchenko	0	PERSON
+0.0037717672117225393	member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call	0	PERSON
+1.0	communist member	threaten at_time	Wednesday	0	DATE
+0.0037717672117225393	member	start impeachment proceedings against	President Viktor Yushchenko they call	0	PERSON
+0.0037040760049145806	Communist members of parliament	call against	pro-russian legislature	0	0
+0.0037040760049145806	Communist members of parliament	call against	legislature	0	0
+1.0	communist member	start impeachment proceedings against	President Viktor Yushchenko	0	PERSON
+1.0	which	have	Communist members of parliament	O	O
+1.0	party	call with	president	0	0
+1.0	communist member	start	impeachment proceedings	0	0
+0.6706362098153862	political situation	question of	president 's impeachment	0	0
+0.06031251644264451	Communist members of parliament	call	he war	0	0
+0.0037717672117225393	communist member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call against pro-russian legislature	0	PERSON
+1.0	seats	have	21	NUMBER	O
+0.0037717672117225393	member	start impeachment proceedings against	ukrainian President Viktor Yushchenko they call against legislature	0	PERSON
+1.0	communist member	start impeachment proceedings against	ukrainian President Viktor Yushchenko	0	PERSON
+1.0	other party	be in	coalition with Communists however	0	MISC
+1.0	member	start impeachment proceedings against	President Viktor Yushchenko	0	PERSON
+1.0	political situation	put	question of president 's impeachment	0	0
+1.0	party head Petro Simonenko	be	quote	PERSON	0
+0.0037717672117225393	communist member	start impeachment proceedings against	President Viktor Yushchenko they call against legislature	0	PERSON
+1.0	situation	put	question	0	0
+1.0	group	say in	statement	0	0
+1.0	other party	have reject	idea	0	0
+1.0	Communists	be	member	MISC	0
+0.6706362098153862	situation	question of	president 's impeachment	0	0
+1.0	party head Petro Simonenko	be quote by	Interfax	PERSON	ORGANIZATION
+1.0	party	have reject	idea	0	0

@@ -1,0 +1,81 @@
+1.0	Serena Williams	be in	quarter-final	PERSON	0
+1.0	19-year-old Russian	add hobart title from	Guangzhou	MISC	LOCATION
+1.0	Sybille Bammer	be of	Austria	PERSON	LOCATION
+1.0	Vasilia Bardina	be	6-3	PERSON	NUMBER
+1.0	discomfort	have	signs	O	O
+1.0	fatigue	get in	final	0	0
+0.7615483767817889	seed	12 for	Open	0	MISC
+1.0	Chakvetadze	seed	12 for australian Open	PERSON	MISC
+1.0	Chakvetadze	seed	12 for Open	PERSON	MISC
+1.0	Bardina	play	belgian fourth seed Kim Clijsters	PERSON	PERSON
+1.0	World No. 13 Chakvetadze	show sign through	first set	PERSON	ORDINAL
+1.0	Sybille Bammer	be semi-finalist of	Hobart	PERSON	LOCATION
+1.0	her	have	career	O	O
+0.06221292408889589	Russian	add from	Guangzhou	MISC	LOCATION
+1.0	top seed Anna Chakvetadze	win	she third WTA tour title	PERSON	ORDINAL
+1.0	World No. 13 Chakvetadze	show	sign of discomfort	PERSON	0
+1.0	World No. 13 Chakvetadze	show sign through	midway first set	PERSON	ORDINAL
+1.0	World No. Bardina	win	seven match	PERSON	NUMBER
+1.0	top seed Anna Chakvetadze	win	she WTA tour title	PERSON	0
+1.0	she	be better at_time	today	0	DATE
+1.0	her	have	WTA tour	O	O
+1.0	Bardina	play	seed Kim Clijsters	PERSON	PERSON
+1.0	Bardina	play	newly	PERSON	0
+1.0	World No. 70 Bardina	win	seven match	PERSON	NUMBER
+1.0	19-year-old Russian	add	Hobart title	MISC	LOCATION
+1.0	Bardina	play	belgian seed Kim Clijsters	PERSON	PERSON
+1.0	Chakvetadze	play	Hobart semi-finalist Sybille Bammer	PERSON	LOCATION
+1.0	Russian	add hobart title to	she 2006 title	MISC	DATE
+1.0	19-year-old Russian	add hobart title to	she 2006 title	MISC	DATE
+1.0	World No. 13 Chakvetadze	down	teenaged qualifier Vasilia Bardina	NUMBER	PERSON
+0.06221292408889589	19-year-old Russian	add to	she 2006 title	MISC	DATE
+1.0	she	maybe be better at_time	today	0	DATE
+1.0	career	have	win	O	O
+1.0	World No. 13 Chakvetadze	down	teenaged qualifier Vasilia Bardina 6-3	NUMBER	PERSON
+1.0	seed Anna Chakvetadze	win	she WTA tour title	PERSON	0
+1.0	she	be	maybe better	0	0
+1.0	Moscow	have	hometown	O	LOCATION
+1.0	World No. Chakvetadze	down	qualifier Vasilia Bardina	PERSON	PERSON
+0.06221292408889589	19-year-old Russian	add from	Guangzhou	MISC	LOCATION
+1.0	Bardina	play	fourth seed Kim Clijsters	PERSON	PERSON
+1.0	World No. Chakvetadze	down	qualifier Vasilia Bardina 6-3	PERSON	PERSON
+1.0	World No. 13 Chakvetadze	feel	good	0	0
+1.0	Kim Clijsters	be	fourth	PERSON	ORDINAL
+1.0	World No. 13 Chakvetadze	have come into	decider	PERSON	0
+1.0	Chakvetadze	have	have draw	PERSON	0
+1.0	my	have	last	O	O
+1.0	India	have	Sania Mirza	PERSON	LOCATION
+1.0	Bardina	have	have draw	PERSON	0
+1.0	fatigue	get to	World No. 13 Chakvetadze	0	0
+1.0	World No. Chakvetadze	down	teenaged qualifier Vasilia Bardina	PERSON	PERSON
+1.0	World No. 13 Chakvetadze	feel almost	okay	0	0
+1.0	World No. 13 Chakvetadze	have	semi-final	O	O
+0.7615483767817889	seed	12 for	australian Open	0	MISC
+1.0	Sania Mirza	be  at_time	the previous night	PERSON	DATE
+1.0	next week	for	australian Open	DATE	MISC
+1.0	World No. 13 Chakvetadze	down	qualifier Vasilia Bardina 6-3	NUMBER	PERSON
+1.0	World No. 13 Chakvetadze	show sign through	midway set	PERSON	0
+1.0	Top seed Anna Chakvetadze	have	WTA tour title	O	O
+1.0	World No. 13 Chakvetadze	have come into	decider with injury concern	PERSON	0
+1.0	Sybille Bammer	be	Hobart	PERSON	LOCATION
+1.0	World No. Chakvetadze	down	teenaged qualifier Vasilia Bardina 6-3	PERSON	PERSON
+1.0	decider	be with	injury concern	0	0
+0.06221292408889589	Russian	add to	she 2006 title	MISC	DATE
+1.0	World No. 13 Chakvetadze	down	qualifier Vasilia Bardina	NUMBER	PERSON
+1.0	Chakvetadze	play hobart semi-finalist sybille bammer in	round	PERSON	0
+1.0	India	over	Sania Mirza	LOCATION	PERSON
+1.0	World No. 13 Chakvetadze	show sign through	set	PERSON	0
+1.0	Russian	add	Hobart title	MISC	LOCATION
+1.0	Russian	add hobart title from	Guangzhou	MISC	LOCATION
+1.0	World No. 13 Chakvetadze	feel	okay	0	0
+1.0	The 19-year-old Russian	have	titles	O	O
+1.0	The 19-year-old Russian	have	hometown	O	O
+1.0	Austria	have	Hobart semi-finalist Sybille Bammer	PERSON	LOCATION
+1.0	my	have	result	O	O
+1.0	Kim Clijsters	be	belgian	PERSON	0
+1.0	Chakvetadze	play	Hobart semi-finalist Sybille Bammer of Austria	PERSON	LOCATION
+1.0	week	have	Open	MISC	DATE
+1.0	she	be	better	0	0
+1.0	seed Anna Chakvetadze	win	she third WTA tour title	PERSON	ORDINAL
+1.0	World No. 13 Chakvetadze	show	sign	PERSON	0
+1.0	Chakvetadze	play hobart semi-finalist sybille bammer in	first round	PERSON	ORDINAL

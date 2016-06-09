@@ -1,0 +1,73 @@
+1.0	5,000	be displaced in	fact	NUMBER	0
+1.0	university	of	Department of Earth Sciences	0	ORGANIZATION
+1.0	first commercial nuclear reactor	generate	power	ORDINAL	0
+1.0	they biggest problem	be highly radioactive waste	which have	0	0
+1.0	paper	appear on	Thursday	0	DATE
+1.0	Zircon ceramic	be	degrade	0	0
+0.7565718844499879	technique	assess	atomic structure of material	0	ORGANIZATION
+1.0	zircon	cope with	exposure	0	0
+1.0	university	have	Department	ORGANIZATION	O
+1.0	its	have	strength	O	O
+1.0	zircon container	leak radioactivity after	only 1,400 year	0	DURATION
+1.0	zircon	have emerge as	a lead	0	0
+1.0	first reactor	generate	power	ORDINAL	0
+1.0	they problem	be highly radioactive waste	which have even	0	0
+0.4373357100371613	author	lead by	Ian Farnan university Department	0	PERSON
+1.0	Earth Sciences	have	Department	ORGANIZATION	ORGANIZATION
+1.0	immobilisation	have	terms	O	O
+1.0	plutonium	have	immobilisation	O	O
+1.0	Zircon ceramic	be degrade by	radioactive bombardment	0	0
+1.0	paper	appear in	science journal	0	0
+1.0	nuclear reactor	generate	power	0	0
+0.08525081604622908	scientist	use at_time	technique	0	0
+1.0	they biggest problem	be radioactive waste	which have even	0	0
+1.0	synthetic zircon	have emerge as	a	0	0
+1.0	they	have expect	alpha particle	0	0
+1.0	synthetic zircon	have emerge as	a lead	0	0
+1.0	plutonium waste	have	headache	O	O
+1.0	Zircon ceramic	be	swiftly degrade	0	0
+1.0	they problem	be waste	which have	0	0
+1.0	synthetic zircon container	leak radioactivity after	only 1,400 year	0	DURATION
+1.0	Department	have	Ian Farnan	PERSON	ORGANIZATION
+1.0	materials	have	structure	O	O
+1.0	Cambridge	have	University	ORGANIZATION	ORGANIZATION
+1.0	paper	appear in	Nature	0	0
+1.0	they problem	be highly radioactive waste	which have	0	0
+1.0	years	have	millions	DURATION	DURATION
+1.0	structure	have	order	O	O
+0.4373357100371613	author	lead by	Ian Farnan university Department Earth Sciences	0	PERSON
+1.0	paper	appear in	weekly science journal	0	SET
+1.0	natural zircon	cope with	exposure	0	0
+0.4373357100371613	author	lead by	Ian Farnan	0	PERSON
+1.0	Ian Farnan	be of	Department of Earth Sciences	PERSON	ORGANIZATION
+1.0	first commercial reactor	generate	power	ORDINAL	0
+1.0	Zircon ceramic	be swiftly degrade by	bombardment	0	0
+1.0	zircon container	leak	radioactivity	0	0
+1.0	5,000	be	displaced	NUMBER	0
+0.7565718844499879	technique	assess	structure of material	0	ORGANIZATION
+1.0	reactor	generate	power	0	0
+1.0	they problem	be radioactive waste	which have even	0	0
+1.0	scientists	have	problem	O	O
+1.0	paper	appear in	british science journal	0	0
+1.0	they problem	be waste	which have even	0	0
+1.0	Zircon ceramic	be swiftly degrade by	radioactive bombardment	0	0
+1.0	zircon	cope to	plutonium 239	0	NUMBER
+1.0	natural zircon	cope to	plutonium 239	0	NUMBER
+0.08525081604622908	scientist	use at_time	spectroscopy	0	0
+1.0	they biggest problem	be highly radioactive waste	which have even	0	0
+1.0	commercial reactor	generate	power	0	0
+1.0	hazard	have	storage	O	O
+1.0	paper	appear in	weekly british science journal	0	SET
+1.0	years	have	thousands	DURATION	DURATION
+1.0	first nuclear reactor	generate	power	ORDINAL	0
+1.0	they biggest problem	be waste	which have	0	0
+1.0	University of Cambridge	be in	Britain	ORGANIZATION	LOCATION
+0.7565718844499879	technique	assess	structure	0	0
+0.7565718844499879	technique	assess	atomic structure	0	0
+1.0	they biggest problem	be waste	which have even	0	0
+1.0	they problem	be radioactive waste	which have	0	0
+1.0	commercial nuclear reactor	generate	power	0	0
+1.0	they biggest problem	be radioactive waste	which have	0	0
+1.0	synthetic zircon container	leak	radioactivity	0	0
+1.0	Zircon ceramic	be degrade by	bombardment	0	0
+1.0	zircon	have emerge as	a	0	0

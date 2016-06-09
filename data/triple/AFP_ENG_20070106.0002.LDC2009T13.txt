@@ -1,0 +1,96 @@
+1.0	rain	delay	start	0	0
+1.0	Stuart Appleby	be	australian	PERSON	0
+1.0	68	share	MacKenzie	NUMBER	PERSON
+1.0	strong wind	make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	he	finish with	69	0	NUMBER
+1.0	australian Stuart Appleby	sign for	72	PERSON	NUMBER
+1.0	wind	again make	thing difficult	0	0
+1.0	effect	be mitigate somewhat by	softer course	0	0
+1.0	he	pull	he drive	0	0
+1.0	Vijay Singh	complete on	Kapalua Plantation course	PERSON	LOCATION
+1.0	he	two-putt	finish	0	0
+1.0	tie	have	part	O	O
+1.0	fourth player	be in	Tour history	ORDINAL	MISC
+1.0	my	have	game	O	O
+1.0	Vijay Singh	complete on	Kapalua Plantation course with one-shot lead	PERSON	LOCATION
+1.0	68	close	MacKenzie	NUMBER	PERSON
+1.0	effect	be	mitigate	0	0
+1.0	iron shots	have	lot	O	O
+1.0	pace	have	shots	O	O
+1.0	Immelman	be	27	PERSON	NUMBER
+1.0	Vijay Singh	save par here at	final hole	PERSON	0
+1.0	greens	have	lot	O	O
+1.0	shotmaker	have	paradise	O	O
+1.0	heavy rain	delay	start of play	0	0
+1.0	year	have	money list	O	DATE
+1.0	Vijay Singh	save par at	hole	PERSON	0
+1.0	one-shot lead	be in	Mercedes-Benz Championship	0	MISC
+1.0	strong wind	again make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	his	have	lead	O	O
+1.0	Vijay Singh	save par here at	hole	PERSON	0
+1.0	strong wind	make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	play	have	start	O	O
+1.0	Americans J.B. Holmes	be	three shot	PERSON	NUMBER
+1.0	Vijay Singh	complete on	Kapalua Plantation course with one-shot lead in Mercedes-Benz Championship	PERSON	LOCATION
+1.0	Vijay Singh	complete on	wind-whipped Kapalua Plantation course with lead	PERSON	LOCATION
+1.0	Vijay Singh	save par at_time	Friday	PERSON	DURATION
+1.0	your	have	ball flight	O	O
+1.0	effect	be mitigate by	softer course	0	0
+1.0	wind	be	howling	0	0
+1.0	wind	have	lot	O	O
+1.0	rain	delay	start of play	0	0
+1.0	day	have	bogey	O	DATE
+1.0	Vijay Singh	complete at_time	difficult day	PERSON	DURATION
+1.0	strong wind	again make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	US PGA Tour	have	event	O	O
+1.0	wind	make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	Cape Town	have	native	O	LOCATION
+1.0	J.B. Holmes	be	Americans	PERSON	MISC
+1.0	US PGA Tour	in	season-opening event	LOCATION	0
+1.0	wind	make	thing difficult	0	0
+1.0	Vijay Singh	complete on	wind-whipped Kapalua Plantation course	PERSON	LOCATION
+1.0	he	take	penalty stroke	0	0
+1.0	his	have	starts	O	O
+1.0	sort	have	lot	O	O
+1.0	wind	again make	thing difficult in US PGA Tour 's season-opening event	0	LOCATION
+1.0	my	have	ball flight	O	O
+1.0	thing	difficult in	US PGA Tour 's season-opening event	0	LOCATION
+1.0	strong wind	again make	thing difficult	0	0
+1.0	he	two-putt	finish with 69	0	NUMBER
+1.0	South Africa	have	Trevor Immelman	PERSON	LOCATION
+1.0	His	have	bogey	O	O
+1.0	Will MacKenzie	be	American	PERSON	MISC
+1.0	playing	be in	lot of wind	0	0
+1.0	wind	make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	weather	have	sort	O	O
+1.0	Americans J.B. Holmes	be	three shot off pace	PERSON	NUMBER
+1.0	Vijay Singh	complete on	Kapalua Plantation course with lead in Mercedes-Benz Championship	PERSON	LOCATION
+1.0	effect	be mitigate by	course	0	0
+1.0	my	have	time	O	O
+1.0	Vijay Singh	save par at	final hole	PERSON	0
+1.0	strong wind	make	thing difficult	0	0
+1.0	he	two-putt for	par	0	0
+1.0	wind	again make	thing difficult in US PGA Tour 's event	0	LOCATION
+1.0	Vijay Singh	save here	par	PERSON	0
+1.0	key	be in	condition like today	0	DATE
+1.0	rain	delay start for	hour	0	DURATION
+1.0	his	have	drive	O	O
+1.0	effect	be mitigate somewhat by	course	0	0
+1.0	Vijay Singh	save par here at_time	Friday	PERSON	DURATION
+1.0	Vijay Singh	complete on	wind-whipped Kapalua Plantation course with lead in Mercedes-Benz Championship	PERSON	LOCATION
+1.0	Vijay Singh	complete on	wind-whipped Kapalua Plantation course with one-shot lead	PERSON	LOCATION
+1.0	game	have	control	O	O
+1.0	Vijay Singh	complete at_time	day	PERSON	DURATION
+1.0	Stuart Appleby	sign for	72	PERSON	NUMBER
+1.0	winds	have	effect	O	O
+1.0	Vijay Singh	save	par	PERSON	0
+1.0	Vijay Singh	complete on	Kapalua Plantation course with lead	PERSON	LOCATION
+1.0	Singh	look in	danger	PERSON	0
+1.0	heavy rain	delay	start	0	0
+1.0	thing	difficult in	US PGA Tour 's event	0	LOCATION
+1.0	effect	be	mitigate somewhat	0	0
+1.0	South Africa	over	Trevor Immelman	LOCATION	PERSON
+1.0	his	have	victory	O	O
+1.0	heavy rain	delay start for	hour	0	DURATION
+1.0	wind-whipped Kapalua Plantation course	be with	one-shot lead in Mercedes-Benz Championship	LOCATION	MISC
+1.0	Vijay Singh	complete on	wind-whipped Kapalua Plantation course with one-shot lead in Mercedes-Benz Championship	PERSON	LOCATION

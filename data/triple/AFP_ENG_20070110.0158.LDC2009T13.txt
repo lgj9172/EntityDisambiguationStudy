@@ -1,0 +1,55 @@
+1.0	Vietnam	face	future water shortage due to rapid growth of its population	LOCATION	DATE
+1.0	Red River	be at	Hanoi	LOCATION	LOCATION
+0.8606190239925854	Tuesday	lowest mark in	year	DATE	0
+1.0	situation	shorten	rainy season	0	0
+1.0	government official	warn at_time	Wednesday	0	DATE
+1.0	Tuesday	mark in	100 year	DATE	DURATION
+0.5199961613904935	water	flow in	stream	0	0
+1.0	situation	shorten	season	0	0
+1.0	Vietnam	face	future water shortage due to rapid growth	LOCATION	DATE
+1.0	future water shortage	due to	rapid growth of its population	DATE	0
+1.0	Vietnam 's population	rapidly grow to	84 million	LOCATION	NUMBER
+1.0	population	have	growth	O	O
+1.0	Agriculture Ministry	have	irrigation department	O	ORGANIZATION
+1.0	Vietnam	face	future water shortage due	LOCATION	DATE
+1.0	year	be in	time	DURATION	0
+1.0	future water shortage	due to	rapid growth	DATE	0
+1.0	Nguyen Dinh Ninh	director of	Agriculture Ministry 's irrigation department	PERSON	ORGANIZATION
+1.0	Vietnam 's population	grow from	20 million	LOCATION	NUMBER
+1.0	Vietnam	have	population	O	O
+1.0	Nguyen Dinh Ninh	say	stress	0	0
+1.0	Vietnam	face	future water shortage due to growth	LOCATION	DATE
+1.0	Vietnam	face	future water shortage due to growth of its population	LOCATION	DATE
+1.0	Vietnam 's population	rapidly grow now from	20 million	LOCATION	NUMBER
+1.0	Vietnam 's population	grow now from	20 million	LOCATION	NUMBER
+1.0	Vietnam 's population	grow in	1940s	LOCATION	DATE
+1.0	Vietnam	have	water resources	O	LOCATION
+1.0	level	drop to	historic low	0	0
+1.0	Vietnam	have	water resource	LOCATION	0
+0.8606190239925854	Tuesday	lowest mark in	100 year	DATE	DURATION
+1.0	Vietnam 's population	grow now in	1940s	LOCATION	DATE
+1.0	Vietnam	be forecast	affect	LOCATION	0
+0.8606190239925854	Tuesday	mark in	year	DATE	0
+1.0	Vietnam	have	population	O	LOCATION
+1.0	Vietnam	be	affect	LOCATION	0
+1.0	water use	farm to	industry project	0	0
+1.0	future water shortage	due to	growth	DATE	0
+1.0	development	have	lack	O	O
+1.0	Vietnam	have	population	LOCATION	0
+1.0	Vietnam 's population	rapidly grow now in	1940s	LOCATION	DATE
+1.0	economy	have	growth	O	O
+1.0	Vietnam 's population	grow now to	84 million	LOCATION	NUMBER
+1.0	irrigation department	have	deputy director	O	O
+1.0	Vietnam 's population	rapidly grow in	1940s	LOCATION	DATE
+1.0	river	have	level	O	O
+1.0	lowest mark	be in	100 year	0	DURATION
+1.0	Vietnam 's population	grow to	84 million	LOCATION	NUMBER
+1.0	Vietnam	be	forecast	LOCATION	0
+1.0	Vietnam 's population	rapidly grow from	20 million	LOCATION	NUMBER
+1.0	he	reduce	water supply	0	0
+1.0	Agriculture Ministry	of	irrigation department	ORGANIZATION	0
+1.0	level	drop to	low	0	0
+1.0	water level	be in	Red River	0	LOCATION
+0.8606190239925854	Tuesday	mark in	100 year	DATE	DURATION
+1.0	future water shortage	due to	growth of its population	DATE	0
+1.0	Vietnam 's population	rapidly grow now to	84 million	LOCATION	NUMBER

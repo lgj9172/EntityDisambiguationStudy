@@ -1,0 +1,17 @@
+1.0	Central Asia country	have	minister	O	O
+1.0	Kazakhstan 's parliament	make	Karim Masimov	LOCATION	PERSON
+1.0	Kazakhstan 's parliament	make	new minister of Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	prime minister of energy-rich Central Asia country	LOCATION	LOCATION
+1.0	Karim Masimov	minister of	energy-rich Central Asia country	PERSON	LOCATION
+1.0	Kazakhstan 's parliament	make	minister	LOCATION	0
+1.0	Kazakhstan 's parliament	make	new prime minister	LOCATION	0
+1.0	Kazakhstan	have	parliament	O	LOCATION
+1.0	Kazakhstan	have	parliament on Wednesday	LOCATION	DATE
+1.0	Kazakhstan 's parliament	make	prime minister	LOCATION	0
+1.0	Kazakhstan 's parliament	make	minister of energy-rich Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	new minister of energy-rich Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	new prime minister of Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	minister of Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	new prime minister of energy-rich Central Asia country	LOCATION	LOCATION
+1.0	Kazakhstan 's parliament	make	new minister	LOCATION	0
+1.0	Kazakhstan 's parliament	make	prime minister of Central Asia country	LOCATION	LOCATION

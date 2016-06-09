@@ -1,0 +1,6 @@
+1.0	bomb	have	separatist group ETA	ORGANIZATION	O
+1.0	separatist group ETA	have	name	O	ORGANIZATION
+1.0	police spokesman	tell	afp	0	0
+1.0	ETA	have	name	O	ORGANIZATION
+1.0	ETA	in	name	ORGANIZATION	0
+1.0	ETA	be of	basque	ORGANIZATION	0

@@ -1,0 +1,46 @@
+1.0	country	on	south coast	0	0
+1.0	satellite	weigh	220 pound	0	MONEY
+1.0	small satellite	weigh	100 kilogram	0	NUMBER
+1.0	South Korea	develop rocket with	Russia in 2004	LOCATION	LOCATION
+1.0	world	have	ninth country	0	ORDINAL
+1.0	construction	begin in	late 2000	0	DATE
+1.0	Science	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	space centre	be	complete	0	0
+1.0	South Korea	develop rocket through	technology tie-up	LOCATION	0
+1.0	they	will	will send to Russia for intensive training	0	LOCATION
+1.0	rocket	will put	satellite	0	0
+1.0	they	will	will send	0	0
+1.0	South Korea	develop	two-stage rocket	LOCATION	0
+1.0	Hwang Pan-Sik	tell	afp	PERSON	0
+1.0	officials	have	satellites	O	O
+1.0	satellite	weigh	100 kilogram	0	NUMBER
+1.0	small satellite	weigh	220 pound	0	MONEY
+1.0	country	have	coast	O	O
+1.0	South Korea	build	total of nine satellite	LOCATION	NUMBER
+1.0	world	have	country	O	O
+1.0	construction	begin at	cost	0	0
+1.0	Ministry	have	deputy director	O	ORGANIZATION
+1.0	South Korea	develop rocket with	Russia	LOCATION	LOCATION
+1.0	they	will	will send for training	0	0
+1.0	construction	begin at	cost of 265 billion win	0	MONEY
+1.0	South Korea	build	total	LOCATION	0
+1.0	South Korea	have	space rocket	O	O
+1.0	Russia	have	Angara rocket	O	LOCATION
+1.0	South Korea	develop	rocket	LOCATION	0
+1.0	official	say at_time	Tuesday	0	DATE
+1.0	they	will	will send to Russia	0	LOCATION
+1.0	satellites	have	total	O	O
+1.0	Hwang Pan-Sik	director of	Ministry of Science and Technology	PERSON	ORGANIZATION
+1.0	they	will	will send for intensive training	0	0
+1.0	space centre	be complete	some 90 percent	0	PERCENT
+1.0	Korea Space	launch	Vehicle	LOCATION	0
+1.0	country	have	astronaut	O	O
+1.0	rocket	will put	small satellite	0	0
+1.0	country	have	first astronaut	0	ORDINAL
+1.0	construction	begin at	cost of 265 billion	0	MONEY
+1.0	Technology	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Russia	be in	2004	LOCATION	DATE
+1.0	them	have	One	NUMBER	O
+1.0	construction	begin at	cost win	0	0
+1.0	265 billion	have	cost	O	MONEY
+1.0	they	will	will send to Russia for training	0	LOCATION

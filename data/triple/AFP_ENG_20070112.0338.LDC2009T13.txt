@@ -1,0 +1,34 @@
+1.0	Benedict	have	trip	O	PERSON
+1.0	prelate David Gutierrez Gutierrez	confirm at_time	Friday	PERSON	DATE
+1.0	agenda	will include poverty in	proliferation of evangelical sect	0	0
+1.0	agenda	will include poverty in	proliferation of evangelical sect compete	0	0
+1.0	Pope Benedict XVI	open	bishop ' conference	PERSON	0
+1.0	agenda	will include poverty in	proliferation	0	0
+1.0	globalization	have	impact	O	O
+1.0	brazilian prelate David Gutierrez Gutierrez	confirm at_time	Friday	PERSON	DATE
+1.0	Roman Catholic Church source	be in	Aparacedia	ORGANIZATION	LOCATION
+1.0	agenda	will include poverty in	proliferation of sect compete with Catholic Church	0	ORGANIZATION
+1.0	women	have	role	O	O
+1.0	agenda	will include poverty in	proliferation of evangelical sect compete with Catholic Church	0	ORGANIZATION
+1.0	Latin America	proliferation of	evangelical sect compete with Catholic Church	LOCATION	ORGANIZATION
+1.0	Brazilian prelate David Gutierrez Gutierrez	tell news briefing at	Vatican	PERSON	LOCATION
+1.0	Pope Benedict XVI	open	latin american bishop ' conference	PERSON	0
+1.0	Episcopal Conference	have	agenda	O	MISC
+1.0	agenda	will include poverty in	proliferation of sect	0	0
+1.0	trip	have	itinerary	O	O
+1.0	bishops	have	conference	O	O
+1.0	David Gutierrez Gutierrez	be	brazilian	PERSON	0
+1.0	episcopal conference	be in	Aparecida	0	LOCATION
+1.0	recent change	be in	Latin America	0	LOCATION
+1.0	sects	have	proliferation	O	O
+1.0	Brazilian prelate David Gutierrez Gutierrez	tell	news briefing	PERSON	0
+1.0	agenda	will include poverty in	Latin America	0	LOCATION
+1.0	Roman Catholic Church source	tell	brazilian newspaper o	ORGANIZATION	0
+1.0	agenda	will include	poverty	0	0
+1.0	Roman Catholic Church source	tell	newspaper o	ORGANIZATION	0
+1.0	o Globo	be	brazilian	ORGANIZATION	0
+0.9711534794165695	first	pontificate in	Americas	ORDINAL	LOCATION
+1.0	agenda	will include poverty in	proliferation of sect compete	0	0
+1.0	Pope Benedict XVI	have	first	ORDINAL	O
+1.0	Pope Benedict XVI	open	american bishop ' conference	PERSON	0
+1.0	Pope Benedict XVI	have	May trip	O	O

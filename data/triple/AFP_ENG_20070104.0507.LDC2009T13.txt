@@ -1,0 +1,42 @@
+1.0	President George W. Bush	have	strategy	O	O
+1.0	Saddam Hussein	be overthrow in	Iraq	PERSON	LOCATION
+1.0	Iraq	be	George Casey	LOCATION	PERSON
+1.0	change	be	expect	0	0
+1.0	change	be expect	make	0	0
+1.0	President George W. Bush	announce	he new strategy	PERSON	0
+1.0	Saddam Hussein	be overthrow in	Iraq three month earlier	PERSON	DATE
+1.0	ABC News	say at_time	Thursday	ORGANIZATION	DATE
+1.0	US Pacific Command	have	Commander	O	ORGANIZATION
+1.0	Saddam Hussein	be overthrow in	Iraq earlier	PERSON	LOCATION
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	be	55	PERSON	NUMBER
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	go	head of CENTCOM in July 2003	PERSON	DATE
+1.0	President George W. Bush	announce	he strategy	PERSON	0
+1.0	David Petraeus	be	54	PERSON	NUMBER
+1.0	change	be	make	0	0
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	go	head in July 2003	PERSON	DATE
+0.7930077321925301	ABC	quote	US official	ORGANIZATION	LOCATION
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	head in	July 2003	PERSON	DATE
+1.0	Multi-National Security Transition Command	have	Commander	O	ORGANIZATION
+1.0	change	be make at_time	public week	0	DATE
+1.0	change	be make at_time	next week	0	DATE
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	go	head	PERSON	0
+1.0	US	have	replacement	O	LOCATION
+1.0	change	be expect	make public week	0	DATE
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	go from	number two	PERSON	NUMBER
+1.0	change	be make at_time	week	0	DATE
+1.0	change	be expect	make public next week	0	DATE
+1.0	unidentified US official	tell	ABC quoting US officials	LOCATION	ORGANIZATION
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	go	head of CENTCOM	PERSON	ORGANIZATION
+1.0	the Middle East	be	John Abizaid	LOCATION	PERSON
+1.0	Iraq	have	problems	O	LOCATION
+1.0	Abizaid , 55 , Commander of the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	head of	the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	PERSON	ORGANIZATION
+1.0	the United States Central Command -LRB- CENTCOM -RRB- comprising the Middle East , who in December announced he would retire in the first quarter of 2007 , will be replaced by Admiral William Fallon	have	head	O	ORGANIZATION
+1.0	change	be expect	make week	0	DATE
+1.0	Multi-National Security transition command	be in	Iraq	ORGANIZATION	LOCATION
+1.0	2007	have	quarter	DATE	DATE
+1.0	George Casey	be	58	PERSON	NUMBER
+1.0	change	be make at_time	public next week	0	DATE
+1.0	US official	tell	ABC quoting US officials	LOCATION	ORGANIZATION
+1.0	Saddam Hussein	be	overthrow	PERSON	0
+1.0	United States Central Command	have	Commander	O	ORGANIZATION
+1.0	change	be expect	make next week	0	DATE

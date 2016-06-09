@@ -1,0 +1,48 @@
+1.0	Alejandro Gonzalez Inarritu	have	powerful Babel both	PERSON	0
+1.0	PGA	have	members	O	ORGANIZATION
+1.0	PGA	have	feature award	O	ORGANIZATION
+1.0	the Producers Guild of America	award	key Oscars indicator	0	MISC
+1.0	nomination	be reveal in	Beverly Hills	0	LOCATION
+1.0	the Producers Guild of America	have	awards	O	O
+1.0	Producers Guild	release	its best picture nominee	ORGANIZATION	0
+1.0	producer award	will	will announce in Los Angeles on January 20	0	DATE
+1.0	place	have	out edged	O	O
+1.0	the Producers Guild of America	have	picture nominees	O	O
+1.0	Clint Eastwood 's letter	be notable absentee at_time	Wednesday	PERSON	DATE
+1.0	PGA 's member	make	it barometer for oscar pundit	ORGANIZATION	0
+1.0	Los Angeles	be on	January 20	LOCATION	DATE
+1.0	PGA 's 3,000 member	make	it key barometer	ORGANIZATION	0
+1.0	Martin Scorsese	have	gangster flick	O	PERSON
+1.0	PGA 's 3,000 member	include	Academy award voter	ORGANIZATION	0
+1.0	nomination	be	reveal	0	0
+1.0	producer award	will	will announce	0	0
+1.0	year	have	Oscars	MISC	DATE
+1.0	Producers Guild	release	its picture nominee	ORGANIZATION	0
+1.0	PGA 's member	make	it key barometer	ORGANIZATION	0
+1.0	PGA 's 3,000 member	make	it key barometer for oscar pundit	ORGANIZATION	0
+1.0	PGA 's 3,000 member	include	many Academy award voter	ORGANIZATION	0
+1.0	Eastwood	have	gritty World War two drama depict from perspective of japanese soldier	PERSON	NUMBER
+1.0	Martin Scorsese	have	gangster flick	PERSON	0
+1.0	PGA 's 3,000 member	make	it barometer for oscar pundit	ORGANIZATION	0
+1.0	Clint Eastwood 's letter	be	notable absentee	PERSON	0
+1.0	Clint Eastwood 's letter	be	absentee	PERSON	0
+1.0	it	key barometer for	oscar pundit	0	0
+1.0	Clint Eastwood 's letter	be absentee at_time	Wednesday	PERSON	DATE
+1.0	PGA 's member	include	Academy award voter	ORGANIZATION	0
+1.0	PGA	have	3,000 member	ORGANIZATION	NUMBER
+1.0	Clint Eastwood	have	letter from Iwo Jima	PERSON	0
+1.0	producer award	will	will announce in Los Angeles	0	LOCATION
+1.0	Eastwood 's gritty World War Two drama depicting the battle for Iwo Jima from the perspective of Japanese soldiers	have	US release	O	O
+1.0	PGA 's member	make	it barometer	ORGANIZATION	0
+1.0	Eastwood	have	World War drama	O	PERSON
+1.0	it	barometer for	oscar pundit	0	0
+1.0	letter	be	notable	0	0
+1.0	Alejandro Gonzalez Inarritu	have	Babel	O	PERSON
+1.0	America	have	Producers Guild	ORGANIZATION	ORGANIZATION
+1.0	PGA 's member	make	it key barometer for oscar pundit	ORGANIZATION	0
+1.0	soldiers	have	perspective	O	O
+1.0	Stephen Frears	have	Queen	O	PERSON
+1.0	PGA 's 3,000 member	make	it barometer	ORGANIZATION	0
+1.0	PGA winners	have	11	NUMBER	O
+1.0	PGA 's member	include	many Academy award voter	ORGANIZATION	0
+1.0	Clint Eastwood	have	Letters	O	PERSON

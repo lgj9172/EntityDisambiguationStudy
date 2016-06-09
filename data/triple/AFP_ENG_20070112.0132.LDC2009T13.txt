@@ -1,0 +1,37 @@
+1.0	spanish inflation	be	2.7 percent down	0	PERCENT
+1.0	2.6 percent	be in	November	PERCENT	DATE
+1.0	spanish inflation	be	2.7 percent in 2006	0	PERCENT
+1.0	3.7 percent	be in	2005	PERCENT	DATE
+1.0	inflation	be	2.6 percent	0	PERCENT
+1.0	inflation	be	in November 2.6 percent	0	DATE
+1.0	spanish inflation	be	2.7 percent in 2006 down from 3.7 percent in 2005	0	PERCENT
+1.0	Eurostat	be statistics office of	European Union	ORGANIZATION	ORGANIZATION
+1.0	inflation	be	2.7 percent down from 3.7 percent	0	PERCENT
+1.0	rates	have	one	NUMBER	O
+1.0	spanish inflation	be	2.7 percent in 2006 down	0	PERCENT
+1.0	highest rate	be in	eurozone	0	NUMBER
+1.0	inflation	be	2.7 percent	0	PERCENT
+1.0	inflation	be	2.7 percent down from 3.7 percent in 2005	0	PERCENT
+1.0	consumer price	rise on	monthly basis	0	SET
+1.0	European Union statistics office	put inflation on	Thursday	ORGANIZATION	DATE
+1.0	consumer price	rise on	basis	0	0
+1.0	consumer price	rise by	0.3 percent	0	PERCENT
+1.0	12-month inflation	be	2.6 percent	DURATION	PERCENT
+1.0	consumer price	rise in	December	0	DATE
+1.0	spanish inflation	be	2.7 percent in 2006 down from 3.7 percent	0	PERCENT
+1.0	European Union statistics office	put inflation in	eurozone	ORGANIZATION	0
+1.0	spanish inflation	be	2.7 percent down from 3.7 percent	0	PERCENT
+1.0	European Union statistics office	put inflation at	1.9 percent	ORGANIZATION	PERCENT
+1.0	2.7 percent	be in	2006	PERCENT	DATE
+1.0	inflation	be	2.7 percent in 2006 down from 3.7 percent	0	PERCENT
+1.0	spanish inflation	be	2.7 percent down from 3.7 percent in 2005	0	PERCENT
+1.0	European Union statistics office	put	12-month inflation	ORGANIZATION	DURATION
+1.0	eurozone	be in	December	0	DATE
+1.0	spanish inflation	be	2.7 percent	0	PERCENT
+1.0	inflation	be	2.7 percent down	0	PERCENT
+1.0	inflation	be	2.7 percent in 2006 down	0	PERCENT
+1.0	European Union statistics office	put inflation in	eurozone in December	ORGANIZATION	DATE
+1.0	European Union statistics office	put	inflation	ORGANIZATION	0
+1.0	inflation	be	2.7 percent in 2006 down from 3.7 percent in 2005	0	PERCENT
+1.0	12-month inflation	be	in November 2.6 percent	DURATION	DATE
+1.0	inflation	be	2.7 percent in 2006	0	PERCENT

@@ -1,0 +1,46 @@
+1.0	George W. Bush	have	special envoy to Sudan	PERSON	LOCATION
+1.0	Sudan	be	Andrew Natsios	LOCATION	PERSON
+1.0	President George W. Bush	have	envoy	O	PERSON
+1.0	George W. Bush	's envoy be	Andrew Natsios	PERSON	PERSON
+1.0	US	steer	european company	LOCATION	0
+1.0	they	exercise	they considerable influence	0	0
+1.0	bombing rebel position	be in	Darfur region	0	LOCATION
+1.0	China 's	demonstrate	its support	LOCATION	0
+1.0	January visit	have	announcement	O	O
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	US	steer	clear	LOCATION	0
+1.0	US	steer	company	LOCATION	0
+1.0	arab-led government	be in	Khartoum	0	LOCATION
+1.0	senior Chinese officials	have	influence	O	O
+1.0	humanitarian worker	be in	Darfur	0	LOCATION
+1.0	ceasefire agreement	have	violation	O	O
+1.0	US	steer due to	insecurity	LOCATION	0
+1.0	bloodshed	be in	Darfur	0	LOCATION
+1.0	China 's	have	support	O	O
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	he	leave for	African Union headquarters	0	LOCATION
+1.0	China	have	influence on Sudan	LOCATION	LOCATION
+1.0	he	leave in	Addis Ababa later Friday	0	LOCATION
+1.0	which	have	most	O	O
+1.0	State Department	say at_time	later Friday	ORGANIZATION	DATE
+1.0	he	leave in	Addis Ababa Friday	0	LOCATION
+1.0	oil	have	barrels	O	O
+1.0	Andrew Natsios	encourage	they	PERSON	0
+1.0	US	steer due to	economic insecurity	LOCATION	0
+1.0	Khartum	turn to	Asia	PERSON	LOCATION
+1.0	side	be in	four-year-old conflict	0	DURATION
+1.0	Sudan	have	clear	O	LOCATION
+1.0	effort	deploy	peacekeeping force	0	0
+1.0	its	have	partner	O	O
+1.0	he	leave in	Addis Ababa	0	LOCATION
+1.0	China	have	influence	O	LOCATION
+1.0	Addis Ababa	be  at_time	later Friday	LOCATION	DATE
+1.0	Natsios	have	January visit	O	PERSON
+1.0	they	exercise	they influence	0	0
+1.0	Natsios	of	January 8-12 visit	PERSON	DATE
+1.0	China 's	have	engagement	O	LOCATION
+0.9865601769964174	people	200,000 at	least	0	0
+1.0	US	steer	clear of Sudan	LOCATION	LOCATION
+1.0	November Addis Agreement	have	achievement	O	O
+1.0	Addis Agreement	have	implementation	O	MISC
+1.0	Sudan	be	Jan Eliasson	LOCATION	PERSON

@@ -1,0 +1,75 @@
+1.0	international contact group	open meeting in	kenyan capital	0	0
+1.0	dictator Mohamed Siad Barre	have	ouster	O	PERSON
+1.0	Abdullahi Yusuf Ahmed	be by	Somali	PERSON	MISC
+1.0	Somali Prime Minister Ali Mohamed Gedi	call on	Monday	PERSON	DATE
+1.0	contact group	open meeting at_time	Friday	0	DATE
+1.0	key	include	governance of peacekeeper in Somalia	0	MISC
+1.0	meeting	solicit	african country	0	0
+1.0	lot	be	interested	0	0
+1.0	lot	be highly interested in	stability of Somalia	0	LOCATION
+1.0	african country	send	Ethiopian-backed Somali government troops	0	0
+1.0	lot	be interested in	stability of Somalia	0	LOCATION
+1.0	country	send troops to	country	0	0
+1.0	Somali Foreign Minister Ismael Mohmoud Hurreh	say	governemnt	PERSON	0
+1.0	African Union	be	Arab League	MISC	ORGANIZATION
+1.0	lot	be highly interested in	stability of Somalia especially	0	LOCATION
+1.0	international contact group	seek	way	0	0
+1.0	African countries	have	lot	O	O
+1.0	Ethiopian-backed Somali government troops	solicit	commununity	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment of troops	PERSON	0
+1.0	lot	be interested in	stability of Somalia especially	0	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment	PERSON	0
+1.0	Somalia	have	stability	O	LOCATION
+1.0	meeting	solicit	country	0	0
+1.0	international contact group	open meeting at_time	Friday	0	DATE
+1.0	other potential country	include	Rwanda Africa	0	LOCATION
+1.0	country	send troops to	warning	0	0
+1.0	country	send	Ethiopian-backed Somali government troops	0	0
+0.9425519254663477	way	restore	stability	0	0
+1.0	african country	send troops to	warning	0	0
+1.0	UN	be	EU	ORGANIZATION	ORGANIZATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment of troops	PERSON	0
+1.0	key	include	governance	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call	help	PERSON	0
+1.0	states	have	grouping	O	O
+0.9425519254663477	way	restore stability in	war-torn african nation	0	0
+1.0	country	send troops to	warning of power vaccuum	0	0
+1.0	South Africa	be	Rwanda	LOCATION	LOCATION
+1.0	administration	have	authority	O	O
+1.0	african country	send troops to	country	0	0
+1.0	Somali Foreign Minister Ismael Mohmoud Hurreh	tell	reporter moment	PERSON	0
+1.0	lot	be interested in	stability especially	0	0
+1.0	contact group	include	UN	0	ORGANIZATION
+1.0	lot	be highly interested in	stability especially	0	0
+1.0	peacekeeper	be in	Somalia	0	MISC
+1.0	lot	be interested in	stability	0	0
+1.0	lot	be highly interested in	stability	0	0
+1.0	Ethiopian-backed Somali government troops	have	deployment	O	O
+1.0	meeting	be	attend	0	0
+1.0	Uganda	deploy	Ethiopian-backed Somali government troops	LOCATION	0
+1.0	country	warning of	power vaccuum	0	0
+1.0	lot	be	highly interested	0	0
+1.0	meeting	be attend by	Somali President Abdullahi Yusuf Ahmed	0	PERSON
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment	PERSON	0
+1.0	Raphel Tuju	be	kenyan	PERSON	0
+1.0	peacekeepers	have	governance	O	O
+1.0	contact group	seek	way	0	0
+0.9425519254663477	way	restore stability in	african nation	0	0
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+0.9425519254663477	way	restore stability in	nation	0	0
+1.0	key	include	governance of peacekeeper	0	0
+1.0	international contact group	open	meeting	0	0
+1.0	State	have	Secretary	O	O
+1.0	contact group	open	meeting	0	0
+0.9425519254663477	way	restore stability in	war-torn nation	0	0
+1.0	contact group	open meeting in	kenyan capital	0	0
+1.0	international contact group	open meeting in	capital	0	0
+1.0	power vaccuum	have	warning	O	O
+1.0	contact group	open meeting in	capital	0	0
+1.0	Ismael Mohmoud Hurreh	be	Somali	PERSON	MISC
+1.0	african country	send troops to	warning of power vaccuum	0	0
+1.0	potential country	include	Rwanda Africa	0	LOCATION
+1.0	Somali Foreign Minister Ismael Mohmoud Hurreh	say	governemnt intend	PERSON	0
+1.0	key	be in	issue discuss	0	0
+1.0	Ethiopian-backed Somali government troops	solicit	international commununity	0	0
+1.0	fighting	have	days	DURATION	O

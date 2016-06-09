@@ -1,0 +1,119 @@
+1.0	lead figure	will	in House will Nancy Pelosi	0	PERSON
+1.0	dramatic sea change	can	can expect in Iraq	0	LOCATION
+1.0	signal new change	be push from	power	0	0
+1.0	his	have	Iraq policy	O	O
+1.0	November	have	elections	O	DATE
+1.0	Charles Schumer	be	democratic	PERSON	0
+1.0	Koran	book of	he islamic faith	MISC	0
+1.0	swearing-in ceremony	be precede by	banquet	0	0
+1.0	their	have	clout	O	O
+1.0	Joseph Biden	be	63	PERSON	NUMBER
+1.0	democrat	will take	control of US Congress	0	LOCATION
+1.0	speaker	have	job	O	O
+1.0	president	however will face	resistance	0	0
+1.0	Tom Lantos	be	78	PERSON	NUMBER
+1.0	signal change	be push from	power	0	0
+1.0	signal dramatic new political change	be	push	0	0
+1.0	bills	have	passage	O	O
+1.0	Keith Ellison	be	US	PERSON	LOCATION
+1.0	chamber	have	members	O	O
+1.0	his	have	years	DATE	O
+1.0	signal dramatic new political change	be push from	power	0	0
+1.0	Koran	have	copy	O	MISC
+1.0	signal dramatic change	be push from	power	0	0
+1.0	dramatic sea change	can	can expect on US policy in Iraq	0	LOCATION
+1.0	democrat	will take control in	Iraq	0	LOCATION
+1.0	Vice President Dick Cheney	will swear in	member	PERSON	0
+1.0	policy	have	oversight	O	O
+1.0	signal political change	be push from	power	0	0
+1.0	compromise	have	message	O	O
+1.0	signal dramatic political change	be push from	power	0	0
+1.0	signal dramatic new change	be push from	power	0	0
+1.0	ABC News	be in	broadcast	ORGANIZATION	0
+0.8065893242105094	first woman	take	top job of speaker	ORDINAL	0
+1.0	November	of	historic legislative election	DATE	0
+1.0	Congress	have	caciques	O	ORGANIZATION
+1.0	figure	will	in House will Nancy Pelosi	0	PERSON
+1.0	ceremony	formalize	new order	0	0
+1.0	dramatic sea change	can	can expect	0	0
+0.8065893242105094	woman	take	top job	0	0
+0.8065893242105094	first woman	take	job of speaker	ORDINAL	0
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	thousands	have	surge	O	O
+1.0	figure	will	will Nancy Pelosi 66	0	PERSON
+1.0	oath-taking ceremony	formalize	sweeping order	0	0
+1.0	US Congress	have	control	O	ORGANIZATION
+1.0	signal change	be	push	0	0
+1.0	sweeping new political order	be in	Washington	0	LOCATION
+0.8065893242105094	woman	take	job of speaker	0	0
+1.0	Nancy Pelosi	be in	House	PERSON	ORGANIZATION
+1.0	Bush	announce	overhaul of he Iraq policy	PERSON	LOCATION
+1.0	Vice President Dick Cheney	will swear in	he official capacity as president	PERSON	0
+0.8065893242105094	woman	take	top job of speaker	0	0
+1.0	ceremony	formalize	order	0	0
+1.0	Congress	as	conservative political cacique	ORGANIZATION	0
+1.0	Congress	be to	US	ORGANIZATION	LOCATION
+1.0	Thursday	have	head	O	DATE
+1.0	House	in pelosi be	first woman take	ORGANIZATION	ORDINAL
+1.0	sympathetic	have	years	DURATION	O
+1.0	ceremony	formalize	sweeping order	0	0
+0.8065893242105094	first woman	take	job	ORDINAL	0
+1.0	George W. Bush	be 's	Republican	PERSON	MISC
+1.0	US Senate	be in	official midday ceremony at 1700	ORGANIZATION	TIME
+1.0	Harry Reid	be	67	PERSON	NUMBER
+1.0	democrat	will take control on	Thursday	0	DATE
+1.0	lead figure	will	will Nancy Pelosi	0	PERSON
+1.0	signal new change	be	push	0	0
+1.0	official swearing-in ceremony	be precede by	banquet	0	0
+1.0	democratic Senator Charles Schumer	say at_time	Wednesday	PERSON	DATE
+1.0	official swearing-in ceremony	be	precede	0	0
+1.0	Vice President Dick Cheney	will swear in	member of 110th GMT	PERSON	MISC
+1.0	faith	have	book	O	O
+1.0	GMT	have	members	O	MISC
+1.0	figure	will	will Nancy Pelosi	0	PERSON
+1.0	lead figure	will	in House will Nancy Pelosi 66	0	PERSON
+1.0	Vice President Dick Cheney	will swear in	he capacity	PERSON	0
+1.0	Vice President Dick Cheney	will swear in	member of GMT	PERSON	MISC
+1.0	my	have	way	O	O
+0.8065893242105094	woman	take	job	0	0
+1.0	Democrats	be	elect	MISC	0
+1.0	signal dramatic new change	be	push	0	0
+1.0	its	have	agenda hearings	O	O
+1.0	elections	have	aftermath	O	O
+1.0	president	however will face resistance from	Capitol Hill	0	ORGANIZATION
+1.0	lead figure	will	will Nancy Pelosi 66	0	PERSON
+1.0	president	will face	resistance	0	0
+1.0	Republican President George W. Bush	have	policy	O	PERSON
+1.0	Senator Charles Schumer	say at_time	Wednesday	PERSON	DATE
+1.0	Keith Ellison	be representative of	US	PERSON	LOCATION
+1.0	Vice President Dick Cheney	will swear in	he official capacity as president of US Senate	PERSON	ORGANIZATION
+1.0	oath-taking ceremony	formalize	new order	0	0
+1.0	last two year	be in	office	DATE	0
+1.0	signal political change	be	push	0	0
+1.0	his	have	faith	O	O
+1.0	Nancy Pelosi	be	66	PERSON	NUMBER
+1.0	Vice President Dick Cheney	will swear in	he capacity as president of US Senate	PERSON	ORGANIZATION
+1.0	figure	will	in House will Nancy Pelosi 66	0	PERSON
+1.0	Democrats	have	capacity	O	O
+1.0	signal new political change	be push from	power	0	0
+1.0	US Senate	have	president	O	ORGANIZATION
+1.0	president	will face resistance from	Capitol Hill	0	ORGANIZATION
+1.0	democrat	will take	control	0	0
+1.0	will new majority leader	be in	Senate	0	ORGANIZATION
+1.0	indication	be democrats	plan	0	0
+1.0	signal new political change	be	push	0	0
+1.0	signal dramatic political change	be	push	0	0
+1.0	signal dramatic change	be	push	0	0
+1.0	swearing-in ceremony	be	precede	0	0
+0.8065893242105094	first woman	take	top job	ORDINAL	0
+1.0	US troops	have	thousands	O	O
+1.0	his	have	oath	O	O
+1.0	Iraq policy	have	overhaul	O	O
+1.0	oath-taking ceremony	formalize	order	0	0
+1.0	Vice President Dick Cheney	will swear in	he official capacity	PERSON	0
+1.0	student	be in	college	0	0
+1.0	Ellison	speak to	ABC News	PERSON	ORGANIZATION
+1.0	dramatic sea change	can	can expect on US policy	0	LOCATION
+1.0	Bush	announce	overhaul	PERSON	0
+1.0	George W. Bush	of	policy	PERSON	0
+1.0	Vice President Dick Cheney	will swear in	he capacity as president	PERSON	0

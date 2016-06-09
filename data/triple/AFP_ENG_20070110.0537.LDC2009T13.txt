@@ -1,0 +1,137 @@
+1.0	they	would also commit member include	flock of White House hopeful	0	ORGANIZATION
+1.0	president	have	isolation	O	O
+1.0	President George W. Bush 's	be at_time	Wednesday night	PERSON	TIME
+1.0	132,000	have	forces	O	NUMBER
+1.0	November	have	elections	O	DATE
+1.0	Harry Reid	be majority leader of	the Senate	PERSON	ORGANIZATION
+1.0	My	have	bill	O	O
+1.0	George W. Bush	to	latest strategy for Iraq with symbolic vote	PERSON	LOCATION
+1.0	they	pass bill on	wide range of issue	DURATION	0
+1.0	issues	have	range	O	O
+1.0	Bush	get	prior congressional approval	PERSON	0
+1.0	Congress resolution	have	sense	O	O
+1.0	you	have	own	O	O
+1.0	republican	add	US force	0	LOCATION
+1.0	they	would commit	member of Congress	0	ORGANIZATION
+1.0	Bush	get	prior approval for new deployment	PERSON	0
+1.0	Charlie Rangel	be congressman of	New York	PERSON	LOCATION
+1.0	kids	have	lot	O	O
+1.0	Reid	urge	president	PERSON	0
+1.0	hearings	have	series	O	O
+1.0	president	have	plan	O	O
+1.0	New York Congressman Charlie Rangel	tell	MSNBC television	PERSON	ORGANIZATION
+1.0	they	would also commit	member	0	0
+1.0	they	pass bill on	range of issue	DURATION	0
+1.0	Smith	tell	Fox News	PERSON	ORGANIZATION
+1.0	democrat	come behind	strategy	0	0
+1.0	Reid	urge president in	letter to Bush	PERSON	PERSON
+1.0	process	have	charge	O	O
+1.0	Bush	at	effort spruce	PERSON	0
+1.0	Charlie Rangel	be	New York	PERSON	LOCATION
+1.0	they	would also commit	member of Congress	0	ORGANIZATION
+0.9527834370627838	president 's plan	several lawmaker from	Bush 's party	0	PERSON
+1.0	Nancy Pelosi	be to	House	PERSON	ORGANIZATION
+1.0	Bush	have	efforts	O	PERSON
+1.0	Republicans	control	Capitol Hill	MISC	LOCATION
+1.0	they	intend in	first 100 hour of session	DURATION	DURATION
+1.0	they	pass bill on	wide range	DURATION	0
+1.0	they	would also commit member include	flock	0	0
+1.0	vote	be in	lower chamber	0	0
+1.0	aide	tell	AFP	0	ORGANIZATION
+1.0	President George W. Bush 's	be	announce in speech	PERSON	0
+1.0	they	would commit	member	0	0
+1.0	Reid	urge president at_time	week	PERSON	DATE
+1.0	Democrats	plan at_time	Wednesday	MISC	DATE
+1.0	Reid	urge president at_time	last week	PERSON	DATE
+1.0	flurry	mark	start	0	0
+1.0	legislation	require	Bush	0	PERSON
+1.0	power	be in	November 's election	0	DATE
+1.0	hearings	have	flurry	O	O
+1.0	you	present at_time	next week	0	DATE
+1.0	flurry	mark	start of legislative push	0	0
+1.0	Bush	from	party	PERSON	0
+1.0	Bush	get	prior congressional approval for new deployment	PERSON	0
+1.0	Reid	urge	Pelosi	PERSON	PERSON
+1.0	they	intend in	100 hour of session	DURATION	DURATION
+1.0	key issue	be in	2008 presidential election	0	DATE
+1.0	democratic	scorn at	Bush 's effort	0	PERSON
+1.0	sessions	have	hours	DURATION	O
+1.0	push	have	start	O	O
+1.0	Bush	get	congressional approval for deployment	PERSON	0
+1.0	Edward Kennedy	opponent of	continue US military presence in Iraq	PERSON	LOCATION
+1.0	lawmaker	oppose outright	president 's plan	0	0
+1.0	they	would commit member include	flock of White House hopeful	0	ORGANIZATION
+1.0	Harry Reid	be	the Senate	PERSON	ORGANIZATION
+1.0	continue US military presence	be in	Iraq	LOCATION	LOCATION
+1.0	White House hopefuls	have	flock	O	O
+1.0	US presence	have	opponent	O	O
+1.0	Bush	get	approval for deployment	PERSON	0
+1.0	democrat	come behind	strategy of they own	0	0
+1.0	anonymity	have	condition	O	O
+1.0	democrat	come together behind	strategy of they own	0	0
+1.0	you	present at_time	week	0	DATE
+1.0	they	pass bill on	range of issue include health care	DURATION	0
+1.0	US	have	surge	O	LOCATION
+1.0	several lawmaker	oppose	president 's plan	0	0
+1.0	President George W. Bush 's	be	announce in televise speech	PERSON	0
+1.0	several lawmaker	oppose outright	president 's plan	0	0
+1.0	Bush	get	prior congressional approval for deployment	PERSON	0
+1.0	republican	add	fresh US force	0	LOCATION
+1.0	Senator Edward Kennedy	introduce	legislation	PERSON	0
+1.0	Bush	have	plan	O	PERSON
+1.0	democratic leader	be in	Congress	0	ORGANIZATION
+1.0	Bush	have	plan	PERSON	0
+1.0	you	would put	Bush 's plan	0	PERSON
+1.0	Bush	get	prior approval for deployment	PERSON	0
+0.980436398536458	propose	surge of	additional US	0	LOCATION
+1.0	Bush	get	congressional approval for new deployment	PERSON	0
+1.0	Iraq war	have	conduct	O	O
+1.0	they	pass bill on	range include health care	DURATION	0
+1.0	President George W. Bush 's latest strategy	be with	symbolic vote	PERSON	0
+1.0	Congress	have	houses	O	ORGANIZATION
+1.0	republican	add us force in	Iraq	0	LOCATION
+1.0	they	pass bill on	wide range of issue include health care	DURATION	0
+1.0	President George W. Bush 's	have	policies	O	PERSON
+1.0	lawmaker	oppose	president 's plan	0	0
+1.0	they	pass	bill	DURATION	0
+1.0	they	pass bill on	wide range include health care	DURATION	0
+1.0	President George W. Bush 's	announce in	speech	PERSON	0
+1.0	president	have	plan	0	0
+1.0	aide	speak on	condition	0	0
+1.0	November	in	election	DATE	0
+1.0	may symbolic vote	be in	house of Congress	0	ORGANIZATION
+1.0	republican	have express	support	0	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	republican	have express	tepid support	0	0
+1.0	flurry	mark	start of push	0	0
+1.0	President George W. Bush	have	strategy	O	PERSON
+1.0	aide	speak on	condition of anonymity	0	0
+1.0	they	pass bill on	range	DURATION	0
+1.0	you	present to	Senate	0	ORGANIZATION
+1.0	they	intend in	100 hour	DURATION	DURATION
+1.0	Bush	get	approval	PERSON	0
+1.0	President George W. Bush 's	be	announce	PERSON	0
+1.0	own	have	strategy	O	O
+1.0	Democratic	have	opposition	O	O
+0.980436398536458	propose	surge of	US	0	LOCATION
+1.0	Senate Majority Leader Harry Reid	tell reporter at_time	Wednesday	PERSON	DATE
+1.0	vote	have	much constraining effect on Bush	0	PERSON
+1.0	President George W. Bush 's	on	policy	PERSON	0
+1.0	Bush	get	congressional approval	PERSON	0
+1.0	they	would commit member include	flock	0	0
+1.0	Senator Edward Kennedy	introduce legislation at_time	Tuesday	PERSON	DATE
+1.0	Bush	get	approval for new deployment	PERSON	0
+1.0	you	hope	able	0	0
+1.0	Bush	have	party	O	PERSON
+1.0	Reid	urge president in	letter	PERSON	0
+1.0	they	intend in	first 100 hour	DURATION	DURATION
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+0.9527834370627838	president 's plan	lawmaker from	Bush 's party	0	PERSON
+1.0	Senate Majority Leader Harry Reid	tell	reporter	PERSON	0
+1.0	democrat	come together behind	strategy	0	0
+1.0	Bush	get	prior approval	PERSON	0
+1.0	Democrats	be in	Congress	MISC	ORGANIZATION
+1.0	President George W. Bush 's	announce in	televise speech	PERSON	0
+1.0	Congress	have	members	O	ORGANIZATION
+1.0	first time	be in	12 year	ORDINAL	DURATION
+1.0	Congress	have	control	O	ORGANIZATION

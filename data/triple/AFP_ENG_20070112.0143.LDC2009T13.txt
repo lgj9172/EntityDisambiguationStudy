@@ -1,0 +1,29 @@
+1.0	statistics office destatis	have calculate in	estimate	DATE	DATE
+1.0	product	have	percent	PERCENT	O
+1.0	percent	have	EU limit	O	PERCENT
+1.0	german economy	be	biggest	0	0
+1.0	deficit ratio	stand well at_time	last year	DATE	DATE
+1.0	german deficit ratio	stand at	2.0 percent	DATE	PERCENT
+1.0	economy	be	biggest	0	0
+1.0	deficit ratio	stand well at	2.0 percent	DATE	PERCENT
+1.0	statistics office destatis	earlier have calculate in	preliminary estimate	DATE	DATE
+1.0	federal statistics office destatis	have calculate in	estimate	DATE	DATE
+1.0	deficit ratio	stand at_time	last year	DATE	DATE
+1.0	german deficit ratio	stand well at	2.0 percent	DATE	PERCENT
+1.0	Finance Minister Peer Steinbrueck	say on	Friday	PERSON	DATE
+1.0	statistics office destatis	have calculate in	preliminary estimate	DATE	DATE
+1.0	deficit ratio	stand at	2.0 percent	DATE	PERCENT
+1.0	federal statistics office destatis	earlier have calculate in	preliminary estimate	DATE	DATE
+1.0	statistics office destatis	earlier have calculate in	estimate	DATE	DATE
+1.0	german deficit ratio	stand well at_time	year	DATE	DATE
+1.0	economy	be biggest in	13-country eurozone	0	0
+1.0	federal statistics office destatis	earlier have calculate in	estimate	DATE	DATE
+1.0	german economy	be biggest in	13-country eurozone	0	0
+1.0	german deficit ratio	stand at_time	last year	DATE	DATE
+1.0	federal statistics office destatis	have calculate in	preliminary estimate	DATE	DATE
+1.0	deficit ratio	stand well at_time	year	DATE	DATE
+1.0	german economy	be biggest in	eurozone	0	0
+1.0	german deficit ratio	stand well at_time	last year	DATE	DATE
+1.0	economy	be biggest in	eurozone	0	0
+1.0	deficit ratio	stand at_time	year	DATE	DATE
+1.0	german deficit ratio	stand at_time	year	DATE	DATE

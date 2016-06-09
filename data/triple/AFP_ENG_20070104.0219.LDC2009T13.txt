@@ -1,0 +1,186 @@
+1.0	Chris Guccione	use condition to	he advantage	PERSON	0
+1.0	Canada	over	Frank Dancevic	LOCATION	PERSON
+1.0	seed Richard Gasquet	also make	grade	PERSON	0
+1.0	Lleyton Hewitt 's	play poorly against	world number	0	0
+1.0	Chris Guccione	use	condition	PERSON	0
+1.0	french second seed Richard Gasquet	also make	grade follow he 7-5 5-7	ORDINAL	NUMBER
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	Frenchman Gilles Simon due	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against Frenchman Gilles Simon due	PERSON	MISC
+1.0	australian Chris Guccione	use	local condition	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against Frenchman Gilles Simon	PERSON	MISC
+1.0	french second seed Richard Gasquet	make	grade follow he 7-5 5-7	ORDINAL	NUMBER
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+0.6522570636590446	heatwave condition	endure by	player	0	0
+1.0	Lleyton Hewitt	have	preparations	O	PERSON
+0.08525081604622908	Chris Guccione	use to	he advantage	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	Lleyton Hewitt 's	be bundle by	russian Igor Kunitsyn	0	PERSON
+1.0	Lleyton Hewitt 's	be	when bundle by russian Igor Kunitsyn on Thursday	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set	PERSON	0
+1.0	city	in degree be	Celsius	0	MISC
+1.0	Unseeded Australian Chris Guccione	have	advantage	O	O
+1.0	Grand Slam	have	match practice	O	MISC
+1.0	Lleyton Hewitt 's	be	bundle by unheralded Igor Kunitsyn on Thursday	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	Chris Guccione	be	australian	PERSON	0
+1.0	Lleyton Hewitt 's	be bundle out of	Adelaide International	0	0
+1.0	Lleyton Hewitt 's	be	bundle	0	0
+1.0	Richard Gasquet	be	second	PERSON	ORDINAL
+1.0	Vince Spadea	progress at_time	Thursday	PERSON	DATE
+1.0	Sweden 's Joachim Johansson	beat simon at_time	Wednesday	PERSON	DATE
+1.0	french second seed Richard Gasquet	also make	grade	ORDINAL	0
+1.0	Lleyton Hewitt 's	be bundle on	Thursday	0	DATE
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	withdrawal	highlight heatwave condition here with	temperature	0	0
+1.0	Lleyton Hewitt 's	be	when bundle by Igor Kunitsyn	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	withdrawal	highlight	heatwave condition endure	0	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	retire during	third set	PERSON	ORDINAL
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	Unseeded Australian Chris Guccione	beat	Frenchman Arnaud Clement 7-6	0	MISC
+1.0	Sweden 's Joachim Johansson	beat simon in	atp 's new round robin format	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Florent Serra	be	Adelaide International	PERSON	ORGANIZATION
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against Frenchman Gilles Simon due	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+0.04812451479275803	Lleyton Hewitt 's preparation	be	deal	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	top seed Novak Djokovic	qualify for	quarter	PERSON	DATE
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against Frenchman Gilles Simon	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	this month	for	australian Open	DATE	MISC
+1.0	US	have	Vince Spadea	PERSON	LOCATION
+1.0	french seed Richard Gasquet	make	grade	PERSON	0
+1.0	Lleyton Hewitt 's	be	bundle by russian Igor Kunitsyn on Thursday	0	PERSON
+1.0	Sweden 's Joachim Johansson	beat simon in	atp 's round robin format	PERSON	0
+1.0	Lleyton Hewitt 's	be	when bundle by russian Igor Kunitsyn	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	match	have	set	O	O
+1.0	Lleyton Hewitt 's	be	when bundle by unheralded Igor Kunitsyn on Thursday	0	PERSON
+1.0	Lleyton Hewitt 's	be bundle by	unheralded russian Igor Kunitsyn	0	PERSON
+1.0	Sweden	have	Joachim Johansson	LOCATION	PERSON
+1.0	Lleyton Hewitt 's	be	bundle by unheralded russian Igor Kunitsyn on Thursday	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	month	have	Open	MISC	DATE
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	withdrawal	highlight heatwave condition with	temperature	0	0
+1.0	Russia	have	Evgeny Korolev	LOCATION	PERSON
+1.0	Sweden 's Joachim Johansson	beat	Simon in they meeting	PERSON	PERSON
+1.0	Lleyton Hewitt 's	be	when bundle by unheralded Igor Kunitsyn	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be	force	PERSON	0
+1.0	Arnaud Clement	be	Frenchman	PERSON	MISC
+1.0	seed Novak Djokovic	qualify for	quarter	PERSON	DATE
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	french seed Richard Gasquet	make	grade follow he 7-5 5-7	PERSON	NUMBER
+1.0	best	have	one	NUMBER	O
+1.0	Lleyton Hewitt 's	be	bundle by Igor Kunitsyn on Thursday	0	PERSON
+1.0	37 degree	be in	city	NUMBER	0
+1.0	withdrawal	highlight here	heatwave condition endure by player	0	0
+1.0	Paul-Henri Mathieu	be	eighth	PERSON	ORDINAL
+1.0	french second seed Richard Gasquet	make	grade	ORDINAL	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	Sweden 's Joachim Johansson	go through	through quarter-final as result	PERSON	0
+0.08525081604622908	unseeded australian Chris Guccione	use to	he advantage	PERSON	0
+1.0	second seed Richard Gasquet	also make	grade follow he 7-5 5-7	ORDINAL	NUMBER
+1.0	Lleyton Hewitt 's	play against	world number	0	0
+1.0	Adelaide International champion Florent Serra on the sidelines	have	match	O	O
+1.0	Lleyton Hewitt 's	defend	Adelaide International champion Florent Serra	PERSON	ORGANIZATION
+1.0	french seed Richard Gasquet	also make	grade	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against Frenchman Gilles Simon due	PERSON	MISC
+1.0	seed Richard Gasquet	make	grade follow he 7-5 5-7	PERSON	NUMBER
+1.0	Lleyton Hewitt	have	preparation for australian Open	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	year	have	Grand Slam	MISC	DATE
+1.0	Vince Spadea	be of	US	PERSON	LOCATION
+1.0	Richard Gasquet	be	french	PERSON	0
+1.0	the year	of	Grand Slam	DATE	MISC
+0.9655216318245468	Vince Spadea of the US , who defeated Russia 's Evgeny Korolev 6-1 , 7-6 -LRB- 8/6 -RRB- , also	upset	seed Paul-Henri Mathieu	0	PERSON
+1.0	Sweden 's Joachim Johansson	beat	Simon	PERSON	PERSON
+1.0	ATP	have	round robin format	O	ORGANIZATION
+0.08525081604622908	australian Chris Guccione	use to	he advantage	PERSON	0
+1.0	Adelaide International	have	bundled	O	O
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire	PERSON	0
+1.0	seed Richard Gasquet	also make	grade follow he 7-5 5-7	PERSON	NUMBER
+1.0	Florent Serra	be champion of	Adelaide International	PERSON	ORGANIZATION
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Vince Spadea	also progress to	quarter-final	PERSON	0
+1.0	Argentina	have	Juan Martin del Potro	PERSON	LOCATION
+1.0	Unseeded Australian Chris Guccione	have	ATP tour quarter-final	O	O
+1.0	6-3	win over	Canada 's Frank Dancevic	NUMBER	PERSON
+1.0	Unseeded Australian Chris Guccione	have	best	O	O
+1.0	Lleyton Hewitt 's	be bundle by	unheralded Igor Kunitsyn	0	PERSON
+1.0	Novak Djokovic	be of	Serbia	PERSON	LOCATION
+1.0	their	have	meeting	O	O
+1.0	Adelaide International champion Florent Serra on the sidelines	retire during	set of he match	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Sweden	have	Joachim Johansson	PERSON	LOCATION
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against Frenchman Gilles Simon	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match	PERSON	ORDINAL
+1.0	times	have	couple	O	O
+1.0	Lleyton Hewitt 's	be bundle by	Igor Kunitsyn	0	PERSON
+1.0	unseeded australian Chris Guccione	use condition to	he advantage	PERSON	0
+1.0	Lleyton Hewitt 's	be	when bundle by Igor Kunitsyn on Thursday	0	PERSON
+1.0	Russia	have	Evgeny	PERSON	LOCATION
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	withdrawal	highlight	heatwave condition endure by player	0	0
+1.0	Lleyton Hewitt 's	be	when bundle by unheralded russian Igor Kunitsyn	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	Vince Spadea	progress to	quarter-final	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	retire during	third set of he match	PERSON	ORDINAL
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set	PERSON	ORDINAL
+1.0	Canada	have	Frank Dancevic	PERSON	LOCATION
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	Simon	be in	they meeting	PERSON	0
+0.9655216318245468	Vince Spadea of the US , who defeated Russia 's Evgeny Korolev 6-1 , 7-6 -LRB- 8/6 -RRB- , also	upset	eighth seed Paul-Henri Mathieu	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	Serbia	have	seed Novak Djokovic	PERSON	LOCATION
+1.0	withdrawal	highlight here	heatwave condition	0	0
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	Frenchman Gilles Simon	PERSON	MISC
+1.0	australian Chris Guccione	use	condition	PERSON	0
+1.0	Lleyton Hewitt 's preparation	be deal	blow	PERSON	0
+1.0	withdrawal	highlight	heatwave condition	0	0
+1.0	Adelaide International champion Florent Serra on the sidelines	retire against	fellow Frenchman Gilles Simon	PERSON	MISC
+1.0	Sweden 's Joachim Johansson	go through	through quarter-final	PERSON	0
+1.0	Lleyton Hewitt 's preparation	be deal	major blow	PERSON	0
+1.0	Lleyton Hewitt 's	be	when bundle on Thursday	0	DATE
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against Frenchman Gilles Simon	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against fellow Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	unseeded australian Chris Guccione	use	local condition	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against Frenchman Gilles Simon due	PERSON	MISC
+1.0	Lleyton Hewitt 's	be	when bundle	0	0
+1.0	guys	have	couple	O	O
+1.0	Lleyton Hewitt 's	be	when bundle by unheralded russian Igor Kunitsyn on Thursday	0	PERSON
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against fellow Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Vince Spadea	also progress at_time	Thursday	PERSON	DATE
+1.0	Chris Guccione	use	local condition	PERSON	0
+1.0	Argentina	have	Juan Martin del Potro	LOCATION	PERSON
+1.0	Lleyton Hewitt 's	defend	Adelaide International champion Florent Serra on sideline	PERSON	ORGANIZATION
+1.0	australian Chris Guccione	use condition to	he advantage	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	unseeded australian Chris Guccione	use	condition	PERSON	0
+1.0	Unseeded Australian Chris Guccione	beat	7/4	0	NUMBER
+1.0	atp	in	new round robin format	0	0
+1.0	Gilles Simon	be against	Frenchman	PERSON	MISC
+1.0	second seed Richard Gasquet	make	grade	ORDINAL	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire against Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set against Frenchman Gilles Simon due	PERSON	MISC
+1.0	withdrawal	highlight here	heatwave condition endure	0	0
+1.0	Igor Kunitsyn	be by	russian	PERSON	0
+1.0	second seed Richard Gasquet	also make	grade	ORDINAL	0
+1.0	french seed Richard Gasquet	also make	grade follow he 7-5 5-7	PERSON	NUMBER
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set of he match against Frenchman Gilles Simon due to heat-related illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	retire during	set	PERSON	0
+1.0	seed Richard Gasquet	make	grade	PERSON	0
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against Frenchman Gilles Simon	PERSON	MISC
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match	PERSON	0
+1.0	second seed Richard Gasquet	make	grade follow he 7-5 5-7	ORDINAL	NUMBER
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during set of he match against fellow Frenchman Gilles Simon due	PERSON	MISC
+1.0	Russia	's evgeny be	8/6	LOCATION	NUMBER
+1.0	Adelaide International champion Florent Serra on the sidelines	be force	retire during third set against Frenchman Gilles Simon due to illness	PERSON	MISC
+1.0	French second seed Richard Gasquet	have	7-5	NUMBER	O

@@ -1,0 +1,83 @@
+1.0	large US delegation	be in	Brussels for first face-to-face talk since Washington	LOCATION	LOCATION
+1.0	open-skies deal	replace	patchwork of air transport agreement	0	ORGANIZATION
+1.0	US airline ownership rule	be	ease	LOCATION	0
+1.0	EU	have	demands	O	ORGANIZATION
+1.0	which	have	ruled	O	O
+1.0	US administration	meet	key EU demand	LOCATION	ORGANIZATION
+1.0	John Byerly	be diplomat of	the United States	PERSON	LOCATION
+1.0	deal	replace	patchwork of air transport agreement between EU member	0	ORGANIZATION
+1.0	open-skies deal	replace	patchwork of bilateral air transport agreement	0	ORGANIZATION
+1.0	large US delegation	be in	Brussels for first talk since Washington	LOCATION	LOCATION
+1.0	European Commission	say after	talk	ORGANIZATION	0
+1.0	deal	replace	patchwork of bilateral air transport agreement	0	ORGANIZATION
+1.0	key EU demand	relax ownership rule for	US airline	ORGANIZATION	LOCATION
+1.0	large US delegation	be in	Brussels since Washington	LOCATION	LOCATION
+1.0	EU demand	relax ownership rule for	US airline	ORGANIZATION	LOCATION
+1.0	large US delegation	be in	Brussels	LOCATION	LOCATION
+1.0	purpose	have	spirit	O	O
+1.0	Jacques Barrot	be	European Union	PERSON	ORGANIZATION
+1.0	EU	have	demand	ORGANIZATION	0
+1.0	US delegation	be in	Brussels for first face-to-face talk since Washington	LOCATION	LOCATION
+1.0	US delegation	be in	Brussels for face-to-face talk	LOCATION	LOCATION
+1.0	government airline industry officials	have	US delegation	O	O
+1.0	Jacques Barrot	be commissioner of	European Union	PERSON	ORGANIZATION
+1.0	US delegation	be in	Brussels for face-to-face talk since Washington	LOCATION	LOCATION
+1.0	head	tell	journalist	0	0
+1.0	Brussels	be since	Washington	LOCATION	LOCATION
+1.0	US delegation	be in	Brussels	LOCATION	LOCATION
+1.0	large US delegation	be in	Brussels for face-to-face talk since Washington	LOCATION	LOCATION
+1.0	deal	replace	patchwork	0	0
+1.0	European Union	have agree to	outline of deal	ORGANIZATION	0
+1.0	large US delegation	be in	Brussels for talk since Washington	LOCATION	LOCATION
+1.0	open-skies deal	replace	patchwork of exist bilateral air transport agreement between EU member	0	ORGANIZATION
+1.0	delegation	have	head	O	O
+1.0	US administration	meet	EU demand	LOCATION	ORGANIZATION
+1.0	US delegation	be in	Brussels for talk since Washington	LOCATION	LOCATION
+1.0	US delegation	be in	Brussels for first face-to-face talk	LOCATION	ORDINAL
+1.0	deal	replace	patchwork of exist air transport agreement	0	ORGANIZATION
+1.0	negotiation	run at_time	month	0	DATE
+1.0	Jim Oberstar	be with	Democrat	PERSON	MISC
+1.0	open-skies deal	be	suppose	0	0
+1.0	US delegation	be in	Brussels for talk	LOCATION	LOCATION
+1.0	deal	replace	patchwork of air transport agreement	0	ORGANIZATION
+1.0	large US delegation	be in	Brussels for first talk	LOCATION	ORDINAL
+1.0	deal	replace	patchwork of bilateral air transport agreement between EU member	0	ORGANIZATION
+1.0	US delegation	be in	Brussels for first talk	LOCATION	ORDINAL
+1.0	talk	be in	Brussels	0	LOCATION
+1.0	European Union	have agree to	outline	ORGANIZATION	0
+1.0	House	have	head	O	ORGANIZATION
+1.0	transport committee	have	House	ORGANIZATION	O
+1.0	air transport agreements	have	patchwork	O	O
+1.0	US delegation	be in	Brussels since Washington	LOCATION	LOCATION
+1.0	John Byerly	be	the United States	PERSON	LOCATION
+1.0	deal	have	outline	O	O
+1.0	endeavour	have	spirit	O	O
+1.0	open-skies deal	replace	patchwork of air transport agreement between EU member	0	ORGANIZATION
+1.0	Justice	have	European Court	ORGANIZATION	ORGANIZATION
+1.0	US airline ownership rule	sign	final agreement	LOCATION	0
+1.0	press	have	members	O	O
+1.0	European Union	agree	United States	ORGANIZATION	LOCATION
+1.0	large US delegation	be in	Brussels for face-to-face talk	LOCATION	LOCATION
+1.0	large US delegation	be in	Brussels for first face-to-face talk	LOCATION	ORDINAL
+1.0	open-skies deal	replace	patchwork of exist air transport agreement between EU member	0	ORGANIZATION
+1.0	open-skies deal	replace	patchwork of exist bilateral air transport agreement	0	ORGANIZATION
+1.0	US airline ownership rule	sign	agreement	LOCATION	0
+1.0	deal	replace	patchwork of exist bilateral air transport agreement	0	ORGANIZATION
+1.0	open-skies deal	replace	patchwork	0	0
+1.0	key EU demand	relax	ownership rule	ORGANIZATION	0
+1.0	Representatives	have	transport committee	O	ORGANIZATION
+1.0	EU demand	relax	ownership rule	ORGANIZATION	0
+1.0	negotiation	run at_time	last month	0	DATE
+1.0	European Union	have agree to	outline of overall deal	ORGANIZATION	0
+1.0	open-skies deal	replace	patchwork of bilateral air transport agreement between EU member	0	ORGANIZATION
+1.0	European Commission	say at_time	Thursday	ORGANIZATION	DATE
+1.0	large US delegation	be in	Brussels for talk	LOCATION	LOCATION
+1.0	the United States	be	illegal	LOCATION	0
+1.0	Jim Oberstar	head of	House of Representatives	PERSON	ORGANIZATION
+1.0	open-skies deal	replace	patchwork of exist air transport agreement	0	ORGANIZATION
+1.0	deal	be	suppose	0	0
+1.0	deal	replace	patchwork of exist bilateral air transport agreement between EU member	0	ORGANIZATION
+1.0	deal	replace	patchwork of exist air transport agreement between EU member	0	ORGANIZATION
+1.0	head	tell journalist on	Tuesday	0	DATE
+1.0	European Union	have agree in	November 2005	ORGANIZATION	DATE
+1.0	US delegation	be in	Brussels for first talk since Washington	LOCATION	LOCATION

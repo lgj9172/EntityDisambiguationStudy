@@ -1,0 +1,132 @@
+1.0	ministry	announce passport on	Wednesday	0	DATE
+1.0	Michael Nelson	lecturer at	Chulalongkorn University	PERSON	ORGANIZATION
+0.352804655152813	ministry	diplomatic passport of	Thaksin	0	PERSON
+1.0	Thaksin	have	passport	O	PERSON
+0.352804655152813	foreign ministry	diplomatic passport of	Thaksin	0	PERSON
+1.0	ministry	announce	passport	0	0
+1.0	New Year	have	Eve bomb blasts	O	DATE
+1.0	move	could signal u-turn to	strongarm tactic	0	0
+1.0	military 's tough stance	provoke	protest	0	0
+0.352804655152813	ministry	passport of	Thaksin	0	PERSON
+1.0	Thaksin Shinawatra	brand at_time	Thursday	PERSON	DATE
+1.0	military 's new tough stance	provoke	protest	0	0
+1.0	foreign ministry	announce	diplomatic passport of Thaksin	0	PERSON
+1.0	New Year 's Eve bomb blast	be in	Bangkok	DATE	LOCATION
+1.0	foreign ministry	announce	passport	0	0
+1.0	year	have	end	DATE	DATE
+1.0	military	have do	nothing	0	0
+1.0	editorial	accuse	government do over its decision	0	0
+1.0	Thaksin government	have	remnants	O	O
+1.0	Thaksin	be engage in	political activity	0	0
+1.0	Chulalongkorn	have	Nelson	PERSON	ORGANIZATION
+1.0	editorial	meanwhile accuse	new government	0	0
+1.0	a teddy bear	have	promise	O	O
+1.0	junta chief General Sonthi Boonyaratglin	underscore	new stance	PERSON	DURATION
+1.0	stay	be in	Hong Kong	0	LOCATION
+1.0	Thaksin	be engage overseas in	activity	0	0
+1.0	junta chief General Sonthi Boonyaratglin	tell	the Bangkok Post	0	ORGANIZATION
+1.0	editorial	accuse	government do	0	0
+0.17241963259109505	Thaksin	have remain	hop with stay in London Kong	0	LOCATION
+1.0	Thaksin	hop globe with	stay	0	0
+1.0	Chulalongkorn	have	Nelson	ORGANIZATION	PERSON
+1.0	people	enforce	tougher measure	0	0
+1.0	Thaksin	have	passports	O	PERSON
+1.0	junta chief General Sonthi Boonyaratglin	say in	interview publish	0	0
+1.0	editorial	accuse	new government do	0	0
+1.0	Thaksin	be engage overseas in	political activity	0	0
+1.0	junta chief General Sonthi Boonyaratglin	underscore	tough stance	PERSON	DURATION
+1.0	Bangkok	at	Chulalongkorn University	LOCATION	ORGANIZATION
+1.0	Thaksin	be in	New York	PERSON	LOCATION
+1.0	Thaksin	face	month of mass street protest	PERSON	0
+1.0	move	could signal u-turn back to	strongarm tactic	0	0
+1.0	editorial	meanwhile accuse	new government do over its decision	0	0
+1.0	Noppadon Patama	tell	AFP add	PERSON	ORGANIZATION
+1.0	move	could signal u-turn back to	strongarm tactic of Thaksin	0	PERSON
+1.0	editorial	meanwhile accuse	government	0	0
+1.0	editorial	meanwhile accuse	new government do	0	0
+1.0	foreign ministry	announce passport on	Wednesday	0	DATE
+1.0	he bangkok-based lawyer	say at_time	Thursday	0	DATE
+1.0	he wife	have	have withdraw	0	0
+1.0	New Prime Minister Surayud Chulanont	be	good	PERSON	0
+0.17241963259109505	Thaksin	have remain	hop with stay	0	0
+1.0	month	demand	he resignation	0	0
+1.0	a teddy bear	be	real	0	0
+1.0	new government	promote peace in	muslim majority region	0	0
+1.0	editorial	accuse	new government	0	0
+1.0	people	enforce	measure	0	0
+1.0	press	have	threat	O	O
+1.0	junta chief General Sonthi Boonyaratglin	tell	english-language Bangkok Post newspaper	PERSON	ORGANIZATION
+1.0	Thaksin	have	lawyer	O	O
+1.0	Thaksin	have remain in	in exile	0	0
+1.0	An editorial in the Nation newspaper	have	decision	O	O
+1.0	new government	promote peace in	majority region	0	0
+1.0	junta	have	crackdown	0	0
+1.0	military 's new stance	provoke	protest	0	0
+1.0	foreign ministry	announce	diplomatic passport	0	0
+1.0	Thaksin 's passport	be	revoke	PERSON	0
+1.0	Thaksin	face	month	PERSON	0
+1.0	junta chief General Sonthi Boonyaratglin	tell	Bangkok Post newspaper	PERSON	ORGANIZATION
+1.0	Thaksin	be in	Hong Kong	PERSON	LOCATION
+1.0	editorial	meanwhile accuse	government do over its decision	0	0
+1.0	ministry	announce	diplomatic passport of Thaksin	0	PERSON
+1.0	mass street protests	have	months	DURATION	O
+1.0	military	have	new tough stance	0	0
+1.0	government	promote peace in	muslim majority region	0	0
+1.0	foreign ministry	announce	passport of Thaksin	0	PERSON
+1.0	Thaksin	hop	globe	0	0
+0.352804655152813	foreign ministry	passport of	Thaksin	0	PERSON
+1.0	they	follow	newspaper	0	0
+1.0	ministry	announce	passport of Thaksin	0	PERSON
+1.0	Thaksin 's passport	refuse	explain	PERSON	0
+1.0	ministry	announce	diplomatic passport	0	0
+1.0	move	could signal	u-turn	0	0
+1.0	Hong Kong	be in	London	LOCATION	LOCATION
+1.0	he lawyer	say at_time	Thursday	0	DATE
+1.0	new government	promote	peace	0	0
+1.0	20 article	be in	martial law	NUMBER	0
+1.0	military	have	stance	O	O
+1.0	CNS	have	years	DURATION	O
+1.0	power	have	abuse	O	O
+0.17241963259109505	Thaksin	hop with	stay	0	0
+1.0	government	promote peace in	majority region	0	0
+1.0	Thaksin	have	government	O	O
+1.0	editorial	accuse	new government do over its decision	0	0
+1.0	editorial	meanwhile accuse	government do	0	0
+1.0	junta	have	order stop	0	0
+1.0	junta	have	end	O	O
+1.0	move	could signal back	u-turn	0	0
+1.0	Thaksin	have	wife	O	O
+1.0	catalyst	appear	deadly	0	0
+1.0	junta chief General Sonthi Boonyaratglin	underscore	stance	PERSON	DURATION
+1.0	military	address	remnant	0	0
+1.0	law	have	powers	O	O
+1.0	editorial	be in	nation newspaper	0	0
+1.0	Bangkok	have	Chulalongkorn University	ORGANIZATION	LOCATION
+1.0	His Bangkok-based lawyer Noppadon Patama	have	activities	O	O
+1.0	corruption	have	abuse	O	O
+1.0	Thaksin	be engage in	activity	0	0
+1.0	junta chief General Sonthi Boonyaratglin	underscore	new tough stance	PERSON	DURATION
+0.17241963259109505	Thaksin	hop with	stay in London Kong	0	LOCATION
+1.0	move	could signal u-turn to	strongarm tactic of Thaksin	0	PERSON
+1.0	junta	have	order	O	O
+1.0	His Bangkok-based lawyer Noppadon Patama	have	passport	O	O
+1.0	people	enforce soon	measure	0	0
+1.0	military	topple	he government	0	0
+1.0	military 's stance	provoke	protest	0	0
+0.17241963259109505	Thaksin	have remain	hop	0	0
+1.0	editorial	accuse	government	0	0
+1.0	Thaksin	have	passport	PERSON	0
+1.0	military	address	remnant of Thaksin government	0	0
+1.0	Noppadon Patama	tell	AFP	PERSON	ORGANIZATION
+1.0	Thaksin	have	strongarm tactics	O	PERSON
+1.0	junta	have	crackdown on activity groundless as media watchdog	0	0
+1.0	junta chief General Sonthi Boonyaratglin	say in	interview publish Thursday	0	DATE
+1.0	people	enforce soon	tougher measure	0	0
+1.0	Thaksin	have	resignation	O	O
+1.0	government	promote	peace	0	0
+1.0	junta chief General Sonthi Boonyaratglin	say in	interview	0	0
+1.0	junta	have	crackdown	O	O
+1.0	New Prime Minister Surayud Chulanont	be good for	nothing	PERSON	0
+1.0	Thaksin	hop globe with	stay in London Kong	0	LOCATION
+1.0	Thai premier	have	activities	O	O
+1.0	junta	be crack	whip	0	0

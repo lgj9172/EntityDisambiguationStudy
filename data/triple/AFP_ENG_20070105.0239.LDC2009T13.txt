@@ -1,0 +1,57 @@
+1.0	Hamburg from German Bundesliga	currently sit	17th in 18-team flight	ORGANIZATION	ORDINAL
+1.0	33-year-old	have sign	two-and-a-half year deal	DURATION	NUMBER
+1.0	Hamburg from German Bundesliga	sit	17th	ORGANIZATION	ORDINAL
+1.0	Hamburg from German Bundesliga	share	duty	LOCATION	0
+1.0	Hamburg from German Bundesliga	sit	17th in top flight	ORGANIZATION	ORDINAL
+1.0	Thomas Doll	receive vote in	December	PERSON	DATE
+1.0	bench	be in	October	0	DATE
+1.0	he	play	130 match	0	NUMBER
+1.0	Hamburg from German Bundesliga	finish 3rd at_time	season	ORGANIZATION	0
+1.0	Hamburg	have	director	O	LOCATION
+1.0	Thomas Doll	receive	vote of confidence	PERSON	0
+1.0	33-year-old	have sign	two-and-a-half year deal with struggle northern team	DURATION	NUMBER
+1.0	Hamburg from German Bundesliga	share	duty between post	LOCATION	0
+1.0	they	be	currently four point	0	NUMBER
+1.0	Hamburg from German Bundesliga	finish 3rd at_time	last season	ORGANIZATION	0
+1.0	they	be	four point	0	NUMBER
+1.0	he	have	have cap four time	0	NUMBER
+1.0	he new club	say on	Friday	0	DATE
+1.0	he	play	130 match for Schalke	0	NUMBER
+1.0	Hamburg from German Bundesliga	currently sit	17th in flight	ORGANIZATION	ORDINAL
+1.0	Hamburg from German Bundesliga	sit	17th in 18-team flight	ORGANIZATION	ORDINAL
+1.0	Thomas Doll	lead side to	one league	PERSON	NUMBER
+1.0	33-year-old	have sign	two-and-a-half year deal with northern team	DURATION	NUMBER
+1.0	Hamburg from German Bundesliga	finish at_time	season	ORGANIZATION	0
+1.0	Manuel Neuer	be	20-year-old	PERSON	DURATION
+1.0	Hamburg from German Bundesliga	sit	17th in flight	ORGANIZATION	ORDINAL
+1.0	regular number one	be with	Sascha Kirschstein	NUMBER	PERSON
+1.0	he club	say on	Friday	0	DATE
+1.0	33-year-old	have sign	two-and-a-half year deal with struggle team	DURATION	NUMBER
+1.0	Hamburg from German Bundesliga	currently sit	17th in top flight	ORGANIZATION	ORDINAL
+1.0	two-and-a-half year deal	be with	struggle northern team	NUMBER	0
+1.0	he	have	have cap four time by Germany	0	LOCATION
+1.0	them	have	team	O	O
+1.0	Hamburg from German Bundesliga	finish 3rd in	league	ORGANIZATION	0
+1.0	potential	have	lot	O	O
+1.0	Thomas Doll	receive	vote	PERSON	0
+1.0	team	be with	lot of potential	0	0
+1.0	Thomas Doll	lead	side	PERSON	0
+1.0	Hamburg	have	sport director	LOCATION	0
+1.0	coach Mirko Slomka	favour	keeper Manuel Neuer	PERSON	PERSON
+1.0	he	have	have cap	0	0
+1.0	Hamburg	be from	German Bundesliga	LOCATION	MISC
+1.0	coach Mirko Slomka	favour	20-year-old keeper Manuel Neuer	PERSON	PERSON
+1.0	they	be	currently four point from safety	0	NUMBER
+1.0	Hamburg from German Bundesliga	currently sit	17th in 18-team top flight	ORGANIZATION	ORDINAL
+1.0	Thomas Doll	be under	pressure season	PERSON	0
+1.0	33-year-old	have sign	two-and-a-half year deal with team	DURATION	NUMBER
+1.0	he	have	have cap by Germany	0	LOCATION
+1.0	Hamburg from German Bundesliga	sit	17th in 18-team top flight	ORGANIZATION	ORDINAL
+1.0	Hamburg from German Bundesliga	finish in	league	ORGANIZATION	0
+1.0	confidence	have	vote	O	O
+1.0	Goalkeeper Frank Rost	have	club	O	O
+1.0	he	leave	Schalke 04	0	ORGANIZATION
+1.0	Thomas Doll	lead side to	just one league	PERSON	NUMBER
+1.0	Hamburg from German Bundesliga	currently sit	17th	ORGANIZATION	ORDINAL
+1.0	Hamburg from German Bundesliga	finish at_time	last season	ORGANIZATION	0
+1.0	they	be	four point from safety	0	NUMBER

@@ -1,0 +1,106 @@
+1.0	Iraq	of	problem	LOCATION	0
+1.0	percent	be	very confident	PERCENT	0
+1.0	George Casey	tell	New York Times	PERSON	ORGANIZATION
+1.0	group	have	list	O	O
+1.0	Alice	have	something	O	O
+1.0	New Year	have	message	O	DATE
+1.0	whose	have	popularity	O	O
+1.0	US President George W. Bush	grapple amid	warning among he republican ally	LOCATION	0
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	US President George W. Bush	have	allies	O	O
+1.0	he	send	US troops	0	LOCATION
+1.0	Union address	be in	late January	0	DATE
+1.0	some	have	problems	O	O
+1.0	democrat	handful of	Republicans	0	MISC
+1.0	Iraq	have	problems	O	LOCATION
+1.0	Bush	take seriously	advice	PERSON	0
+1.0	subscribers	have	list	O	O
+1.0	US President George W. Bush	have	Iraq strategy	O	O
+0.8652168689197625	Senator John McCain	consider	contender	PERSON	0
+1.0	time	have	challenge	O	O
+1.0	US President George W. Bush	grapple amid	warning even among he republican ally	LOCATION	0
+1.0	US President George W. Bush	grapple amid	warning among he congressional ally	LOCATION	0
+1.0	US death toll	be in	Iraq	LOCATION	LOCATION
+1.0	prolonged expansion	be in	US military presence	0	LOCATION
+1.0	other republican	something out of	Alice	0	0
+1.0	his	have	written	O	O
+1.0	history	have	call	O	O
+0.8481214257780203	Senator John McCain	increase in	US troops	PERSON	LOCATION
+1.0	problems	have	all	O	O
+1.0	other republican	have call	absurd	0	0
+1.0	Bush	vow in	he write	PERSON	0
+1.0	Bush	take seriously	advice from Iraq Study Group commission head	PERSON	ORGANIZATION
+1.0	New Year 's	have	message from Texas ranch	DATE	LOCATION
+1.0	US President George W. Bush	fix	he Iraq strategy	LOCATION	LOCATION
+1.0	his Republican congressional allies	escalate	unpopular war	0	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	Bush	take	advice from Iraq Study Group commission	PERSON	ORGANIZATION
+1.0	mailing questionnaires	have	result	O	O
+1.0	his	have	prime-time State	O	O
+1.0	United States	battle	terrorist	LOCATION	0
+1.0	other republican	something out of	Alice in Wonderland	0	0
+1.0	Bush	have	proposals	O	O
+1.0	Bush	unveil	he new plan	PERSON	0
+1.0	Alice	be in	Wonderland	0	0
+1.0	US President George W. Bush	grapple amid	warning even among he republican congressional ally	LOCATION	0
+1.0	panel	have	call	0	0
+1.0	Union address	have	prime-time State	O	O
+1.0	unified Iraq	of	security	LOCATION	0
+1.0	his	have	plan	O	O
+1.0	Congress	be to	the United States	ORGANIZATION	LOCATION
+0.8652168689197625	Senator John McCain	consider	lead contender	PERSON	0
+1.0	they	hold	hearing	0	0
+1.0	our	have	time	O	O
+1.0	Bush	take seriously	advice from Iraq Study Group commission head by James Baker	PERSON	ORGANIZATION
+1.0	US President George W. Bush	grapple amid	warning	LOCATION	0
+1.0	Bush	be in	2008	PERSON	DATE
+0.45912543413893414	US Congress	now hold by	opposition democrat	LOCATION	0
+1.0	group	from	list of active-duty subscriber	0	0
+1.0	Bush	unveil	he plan	PERSON	0
+1.0	Bush	take	advice	PERSON	0
+1.0	United States	battle terrorist in	2007	LOCATION	DATE
+1.0	US death toll	have rise	to	LOCATION	0
+1.0	he	send us troops to	Iraq	0	LOCATION
+1.0	Bush	take	advice from Iraq Study Group commission head	PERSON	ORGANIZATION
+1.0	US President George W. Bush	grapple amid	warning even among he congressional ally	LOCATION	0
+1.0	himself	back	panel 's call	0	0
+1.0	United States	battle terrorist towards	free	LOCATION	0
+1.0	security	have	burden	O	O
+1.0	Bush	take	advice from Iraq Study Group commission head by James Baker	PERSON	ORGANIZATION
+1.0	history	have	call	0	0
+1.0	percent	be	confident	PERCENT	0
+1.0	Bush	be	expect	PERSON	0
+1.0	republican	something out of	Alice	0	0
+1.0	they	hold hearing on	Iraq war policy	0	LOCATION
+1.0	Bush	take seriously	advice from Iraq Study Group commission	PERSON	ORGANIZATION
+1.0	his Republican congressional allies	escalate	war	0	0
+1.0	whose comment	be publish at_time	Tuesday	0	DATE
+1.0	US President George W. Bush	grapple with	way	LOCATION	0
+1.0	US President George W. Bush	grapple amid	warning even among he ally	LOCATION	0
+1.0	whose comment	be	publish	0	0
+1.0	increase	be in	US troops	0	LOCATION
+1.0	policy experts	have	one	NUMBER	O
+1.0	top US military commander	be in	George Casey	LOCATION	PERSON
+1.0	George Casey	be in	Baghdad	PERSON	LOCATION
+1.0	50 percent	be	confident	PERCENT	0
+1.0	US death toll	have rise about	3,000	LOCATION	NUMBER
+1.0	he	send	more US troops	0	LOCATION
+1.0	unified Iraq	have	government	O	LOCATION
+1.0	republican	something out of	Alice in Wonderland	0	0
+1.0	US troops	have	number	O	O
+1.0	Republicans	have	handful	O	MISC
+1.0	whose	have	comments	O	O
+0.45912543413893414	US Congress	hold by	opposition democrat	LOCATION	0
+1.0	US President George W. Bush	grapple at_time	Tuesday	LOCATION	DATE
+1.0	mailing questionnaire	be in	mid	0	0
+1.0	his	have	Texas ranch	O	O
+1.0	republican	have call	absurd	0	0
+1.0	50 percent	be	very confident	PERCENT	0
+1.0	US President George W. Bush	grapple amid	warning among he ally	LOCATION	0
+1.0	state	have	US secretary	O	O
+1.0	Bush	handle iraq of	way	PERSON	0
+1.0	unified Iraq	have	security	O	LOCATION
+1.0	panel	have	call	O	O
+1.0	White House	consult with	lawmaker	ORGANIZATION	0
+1.0	way	have	handled	O	O
+1.0	US President George W. Bush	grapple amid	warning among he republican congressional ally	LOCATION	0

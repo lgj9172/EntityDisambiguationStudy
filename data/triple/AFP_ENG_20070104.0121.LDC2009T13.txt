@@ -1,0 +1,53 @@
+1.0	state	have	secretary	O	O
+1.0	reassertion	be perceive	consistent with America 's heritage	0	LOCATION
+1.0	Shultz	be	secretary	PERSON	0
+1.0	Senate Armed Services Committee	have	chairman	O	ORGANIZATION
+1.0	measures	have	series	O	O
+1.0	nuclear weapon	be in	opinion piece	0	0
+1.0	era	have	precipice	O	O
+1.0	ex-official	recommend	series	0	0
+1.0	US	be	compel	LOCATION	0
+1.0	urgent new action	be	take	0	0
+1.0	official	cite program in	North Korea	0	LOCATION
+1.0	enriched uranium	be in	civil commerce	0	0
+1.0	ex-official	recommend series in	lengthy article	0	0
+1.0	defense	have	secretary	O	O
+1.0	nuclear weapon	reduce	danger of accidental use	0	0
+1.0	Kissinger	be secretary of	state	PERSON	0
+1.0	terrorists	have	threat	O	O
+1.0	action	be	take	0	0
+1.0	reassertion	be perceive	consistent	0	0
+1.0	uranium	have	use	O	O
+1.0	Shultz	be secretary of	state	PERSON	0
+1.0	nuclear weapon	reduce	danger	0	0
+1.0	terrorists using nuclear weapons	write aside from	threat	0	0
+1.0	nuclear weapon	reduce	danger of use	0	0
+1.0	weapons	have	number	O	O
+1.0	weapons	have	world	O	O
+1.0	weapon	reduce	danger of accidental use	0	0
+1.0	more	have	do	0	0
+1.0	Kissinger	be	secretary	PERSON	0
+1.0	state Henry Kissinger	have	secretaries	O	PERSON
+1.0	ex-official	recommend series in	article	0	0
+1.0	measures	have	vision	O	O
+1.0	reassertion	be	perceive	0	0
+1.0	weapon	reduce	danger of use	0	0
+1.0	George Shultz	have	secretaries	O	PERSON
+1.0	Perry	be secretary of	defense	PERSON	0
+1.0	William Perry	chairman of	Senate Armed Services Committee	PERSON	ORGANIZATION
+1.0	weapon	reduce	danger	0	0
+1.0	official	cite	program	0	0
+1.0	Perry	be	secretary	PERSON	0
+1.0	Nunn	be	senator	PERSON	DATE
+1.0	US	be	soon compel	LOCATION	0
+1.0	world	have	vision	O	O
+1.0	terrorists using nuclear weapons	write aside from	threat of terrorist	0	0
+1.0	vision	have	Reassertion	O	O
+1.0	official	cite	nuclear program	0	0
+1.0	use	have	danger	O	O
+1.0	more	be	do	0	0
+1.0	new action	be	take	0	0
+1.0	reassertion	be perceive	consistent with America 's moral heritage	0	LOCATION
+1.0	urgent action	be	take	0	0
+1.0	America	with	moral heritage	LOCATION	0
+1.0	America	have	heritage	O	LOCATION

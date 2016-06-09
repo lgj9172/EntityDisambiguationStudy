@@ -1,0 +1,18 @@
+1.0	DIW economics institute	say	faster than think-tank 's 2007 forecast	ORGANIZATION	DATE
+1.0	DIW economics institute	say	noticeably faster	ORGANIZATION	0
+1.0	think-tank	have	forecast	O	O
+1.0	DIW economics institute	say	noticeably faster than think-tank 's 2007 forecast of 1.4 percent	ORGANIZATION	PERCENT
+1.0	value-added	have	result	O	O
+1.0	DIW economics institute	say	faster than think-tank 's 2007 forecast of 1.4 percent	ORGANIZATION	PERCENT
+1.0	DIW economics institute	say	faster than think-tank 's previous 2007 forecast	ORGANIZATION	DATE
+1.0	percent	have	forecast	O	PERCENT
+1.0	percent	have	growth	O	PERCENT
+1.0	DIW economics institute	say	noticeably faster than think-tank 's 2007 forecast	ORGANIZATION	DATE
+1.0	sales tax	have	result	O	O
+1.0	think-tank	than	previous 2007 forecast of 1.4 percent	0	PERCENT
+1.0	DIW economics institute	say	noticeably faster than think-tank 's previous 2007 forecast of 1.4 percent	ORGANIZATION	PERCENT
+1.0	german economy	biggest in	13-country eurozone	0	0
+1.0	DIW economics institute	say	noticeably faster than think-tank 's previous 2007 forecast	ORGANIZATION	DATE
+1.0	DIW economics institute	say	faster	ORGANIZATION	0
+1.0	DIW economics institute	say	faster than think-tank 's previous 2007 forecast of 1.4 percent	ORGANIZATION	PERCENT
+1.0	DIW economics institute	say on	Wednesday	ORGANIZATION	DATE

@@ -1,0 +1,55 @@
+1.0	three journalist	report on	coup plot in central state	NUMBER	0
+1.0	three journalist	report on	coup plot in african state	NUMBER	0
+1.0	journalist	report on	coup plot in tiny state	0	0
+1.0	Burundi	have	year	DURATION	LOCATION
+1.0	three journalist	report on	coup plot in state	NUMBER	0
+1.0	state security	have	suspicion	O	O
+1.0	three journalist	report on	coup plot in tiny state	NUMBER	0
+1.0	court	judge	unfounded allegation	0	0
+1.0	Manirakiza	head of	Radio Isanganiro	0	0
+1.0	three journalist	detain on	here Wednesday	NUMBER	DATE
+1.0	coup plot	be in	tiny central african state	0	0
+1.0	Radio Publique Africaine	have	Serge Nbizi	PERSON	PERSON
+1.0	journalist	report on	coup plot in tiny central state	0	0
+1.0	freedom	have	deprived	O	O
+1.0	journalist	detain on	Wednesday	0	DATE
+1.0	court	judge	allegation	0	0
+1.0	journalist	detain on	suspicion of threatening state security	0	0
+1.0	putsch	have	claims	O	O
+1.0	three journalist	report on	coup plot in tiny central state	NUMBER	0
+1.0	two other journalist	nbizi of	Publique Africaine	NUMBER	PERSON
+1.0	journalist	detain on	here Wednesday	0	DATE
+1.0	information	have	broadcast	O	O
+1.0	journalist	detain on	suspicion	0	0
+1.0	Radio Isanganiro	say in	August	ORGANIZATION	DATE
+1.0	three journalist	detain on	suspicion	NUMBER	0
+1.0	journalist	report on	coup plot in african state	0	0
+1.0	journalist	report on	coup plot in state	0	0
+1.0	journalist	detain for	week	0	0
+1.0	journalist	report on	coup plot in tiny central african state	0	0
+1.0	journalists	have	lawyer	O	O
+1.0	Radio Isanganiro	have	head	O	O
+1.0	journalist	detain on	suspicion of state security	0	0
+1.0	Burundi	have suffer	several coup	LOCATION	0
+1.0	Burundi	have suffer	coup	LOCATION	0
+1.0	it	win independence in	1962	0	DATE
+1.0	three journalist	report on	coup plot in central african state	NUMBER	0
+1.0	journalist	report on	coup plot in tiny african state	0	0
+1.0	journalist	detain in	court ruling	0	0
+1.0	Burundi	against	year	LOCATION	DURATION
+1.0	their	have	freedom	O	O
+1.0	three journalist	report on	coup plot	NUMBER	0
+1.0	three journalist	detain in	court ruling	NUMBER	0
+1.0	three journalist	detain on	suspicion of state security	NUMBER	0
+1.0	three journalist	report on	coup plot in tiny central african state	NUMBER	0
+1.0	law	have	violation	O	O
+1.0	it	win	independence	0	0
+1.0	it	win independence from	Belgium	0	LOCATION
+1.0	three journalist	detain on	Wednesday	NUMBER	DATE
+1.0	night	be in	prison	TIME	0
+1.0	journalist	report on	coup plot	0	0
+1.0	three journalist	report on	coup plot in tiny african state	NUMBER	0
+1.0	three journalist	detain for	week	NUMBER	0
+1.0	journalist	report on	coup plot in central african state	0	0
+1.0	journalist	report on	coup plot in central state	0	0
+1.0	three journalist	detain on	suspicion of threatening state security	NUMBER	0

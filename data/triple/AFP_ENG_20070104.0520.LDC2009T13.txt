@@ -1,0 +1,9 @@
+1.0	ambassador	be in	Baghdad	0	LOCATION
+1.0	Zalmay Khalilzad	have serve since	June 2005	PERSON	DATE
+1.0	Zalmay Khalilzad	have serve as	ambassador in Baghdad	PERSON	LOCATION
+1.0	John Bolton	be	UN	PERSON	ORGANIZATION
+1.0	Zalmay Khalilzad	be	55	PERSON	NUMBER
+1.0	Zalmay Khalilzad	approve by	US Senate	PERSON	ORGANIZATION
+1.0	Zalmay Khalilzad	have serve as	ambassador	PERSON	0
+1.0	Iraq	be	Zalmay Khalilzad	LOCATION	PERSON
+1.0	John Bolton	be ambassador of	UN	PERSON	ORGANIZATION

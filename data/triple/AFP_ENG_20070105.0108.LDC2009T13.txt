@@ -1,0 +1,41 @@
+1.0	China 's bank	order	major bank	LOCATION	0
+1.0	require deposit ratio	be raise point at_time	last year	0	DATE
+1.0	China 's bank	order	major commercial bank	LOCATION	0
+1.0	China 's bank	order	commercial bank	LOCATION	0
+1.0	China 's central bank	order	major bank	LOCATION	0
+1.0	China	have	bank	O	LOCATION
+1.0	require deposit ratio	be raise	0.5 percentage point three time	0	NUMBER
+1.0	China 's bank	order	bank	LOCATION	0
+1.0	the first such cooling measure of 2007	measure of	2007	0	DATE
+1.0	deposit ratio	be raise	point three time	0	NUMBER
+1.0	People	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	deposit ratio	be raise	similar 0.5 percentage point	0	NUMBER
+1.0	increases	have	result	O	O
+1.0	deposit ratio	be raise	0.5 percentage point three time	0	NUMBER
+1.0	deposit ratio	be raise point at_time	year	0	DATE
+1.0	deposit ratio	be raise	similar point	0	0
+1.0	require deposit ratio	be raise	0.5 percentage point	0	NUMBER
+1.0	China 's central bank	order	major commercial bank	LOCATION	0
+1.0	China 's central bank on Friday	economy	first such cooling measure of 2007	0	ORDINAL
+1.0	deposit ratio	be raise	0.5 percentage point	0	NUMBER
+1.0	require deposit ratio	be raise	similar 0.5 percentage point three time	0	NUMBER
+1.0	deposit ratio	be raise point at_time	last year	0	DATE
+1.0	2007	have	cooling measure	O	DATE
+1.0	require deposit ratio	be raise	similar point three time	0	NUMBER
+1.0	China 's central bank	order	bank	LOCATION	0
+1.0	deposit ratio	be raise	similar 0.5 percentage point three time	0	NUMBER
+1.0	require deposit ratio	be raise point at_time	year	0	DATE
+1.0	a statement	have	trade surpluses	O	O
+1.0	more money	be in	reserve	0	0
+1.0	require deposit ratio	be raise	similar point	0	0
+1.0	require deposit ratio	be raise	point three time	0	NUMBER
+1.0	excess liquidity	be in	banking system	0	0
+1.0	deposit ratio	be raise	point	0	0
+1.0	require deposit ratio	be raise	point	0	0
+1.0	China 's central bank	order	commercial bank	LOCATION	0
+1.0	require deposit ratio	be raise	similar 0.5 percentage point	0	NUMBER
+1.0	China	have	central bank on Friday	LOCATION	DATE
+1.0	China 's central bank on Friday	have	economy	O	O
+1.0	reserve	be in	effort slow	0	0
+1.0	deposit ratio	be raise	similar point three time	0	NUMBER
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION

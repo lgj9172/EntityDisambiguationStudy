@@ -1,0 +1,175 @@
+1.0	he	have announce plan by	middle	0	DATE
+1.0	area north	be	subject to violent storm with wind	0	0
+1.0	Malaysia	have	Penang	O	LOCATION
+1.0	Boeing	be fly between	city	ORGANIZATION	0
+1.0	passengers	have	condition	O	O
+1.0	own Adam Air	serve	domestic route with Singapore	PERSON	LOCATION
+0.4222244916842711	serve	route with	Singapore	0	LOCATION
+1.0	passenger aircraft	be with	102 people on board include 11 child	0	NUMBER
+1.0	Boeing 737	be fly on	island	NUMBER	0
+0.4222244916842711	serve	mostly domestic route with	Singapore	0	LOCATION
+1.0	carrier	have	19 Boeing 737 jet in its fleet as	0	NUMBER
+1.0	Public	have	have repeatedly criticise	0	0
+1.0	November Adam Air	plan at_time	year	DATE	DATE
+1.0	huge market potential	be with	population of over 250 million presently	0	NUMBER
+1.0	company	be low-cost carrier in	indonesian market	0	0
+1.0	he	have announce plan to	list in Singapore	0	LOCATION
+1.0	Mamuju	have	destination	O	O
+1.0	area north	be subject with	high wind since last weekend	0	DATE
+1.0	area north	be	subject to violent storm with high wind since last weekend	0	DATE
+1.0	carrier	market	itself	0	0
+1.0	Public	have	have repeatedly criticise over they safety record	0	0
+1.0	company	be carrier in	indonesian market	0	0
+1.0	November Adam Air	handle	project rise	DATE	0
+1.0	Public	have	have criticise	0	0
+1.0	own Adam Air	serve	mostly domestic route	PERSON	0
+1.0	company	be	low-cost	0	0
+1.0	low-cost carrier	market	itself	0	0
+1.0	carrier	have	19 Boeing 737 jet of January 2006	0	DATE
+1.0	Boeing	be fly on	central island	ORGANIZATION	0
+1.0	area north	be subject to	storm	0	0
+1.0	company	be	low-cost carrier	0	0
+1.0	2008	have	middle	DATE	DATE
+1.0	area north	be	subject to storm with high wind since weekend	0	DATE
+1.0	Adam Air	serve	mostly domestic route	PERSON	0
+1.0	technical problem	be with	plane	0	0
+1.0	carrier	market itself as	boutique airline	0	0
+1.0	we	monitor	type of distress signal	0	0
+1.0	its	have	fleet	O	O
+1.0	area north	be subject with	wind	0	0
+1.0	carrier	have	19 Boeing 737 jet in its fleet of January 2006	0	DATE
+1.0	November Adam Air	handle	rise	DATE	0
+1.0	carrier	have	19 Boeing 737 jet in its fleet	0	NUMBER
+1.0	own Adam Air	begin	operation	PERSON	0
+1.0	he	have also announce plan by	middle	0	DATE
+1.0	area north	be subject with	wind since last weekend	0	DATE
+1.0	company	be carrier in	competitive market	0	0
+1.0	GMT	have disappear at	Makassar	MISC	LOCATION
+1.0	low-cost carrier	market itself as	boutique airline traditional budget firm	0	0
+1.0	carrier	market itself as	boutique airline budget firm	0	0
+1.0	Mamuju	be in	South Sulawesi province	LOCATION	LOCATION
+1.0	he	have announce plan by	middle of 2008	0	DATE
+1.0	lead low-cost carrier	market	itself	0	0
+1.0	Adam Air	serve	domestic route	PERSON	0
+1.0	November Adam Air	handle	rise in passenger number	DATE	0
+1.0	Public	have	have criticise over they safety record	0	0
+1.0	company	be lead carrier in	competitive indonesian market	0	0
+1.0	carrier	have	19 Boeing 737 jet	0	NUMBER
+1.0	Boeing	be fly between	city of Surabaya	ORGANIZATION	LOCATION
+1.0	low-cost carrier	market itself as	boutique airline	0	0
+1.0	Adam Air	serve	route	PERSON	0
+1.0	destination	have	southwest	O	O
+1.0	lead low-cost carrier	market itself as	boutique airline traditional budget firm	0	0
+1.0	he	have also announce plan to	list in Singapore	0	LOCATION
+1.0	plane	have	condition	O	O
+1.0	19 Boeing 737 jet	be in	its fleet as	NUMBER	0
+1.0	airline	handle	11 million passenger	0	NUMBER
+1.0	Public	have	have repeatedly criticise over they poor safety record	0	0
+1.0	own Adam Air	serve	domestic route	PERSON	0
+1.0	distress signal	have	type	O	O
+1.0	Makassar	be in	South Sulawesi	LOCATION	LOCATION
+1.0	this point	have	position	O	O
+1.0	January	have	Boeing jets	O	DATE
+1.0	area north	be subject to	violent storm	0	0
+1.0	area north	be subject with	high wind since weekend	0	DATE
+1.0	area north	be	subject to violent storm with high wind since weekend	0	DATE
+1.0	company	be	lead carrier	0	0
+1.0	domestic route	be with	Singapore	0	LOCATION
+1.0	Adam Air	have	website	O	PERSON
+0.6199024336088192	fuel	last	just four hour	0	DURATION
+1.0	aircraft	leave at	12:59 pm	0	TIME
+1.0	Boeing 737	be fly on	central island	NUMBER	0
+1.0	carrier	have	19 Boeing 737 jet in its fleet as of January 2006	0	DATE
+1.0	Adam Air	serve	mostly domestic route with Singapore	PERSON	LOCATION
+1.0	aircraft	have	fuel	0	0
+1.0	Java	have	carrying	O	LOCATION
+0.4222244916842711	serve	domestic route with	Singapore	0	LOCATION
+1.0	Makassar	be at	0707	LOCATION	DATE
+1.0	Manado	have	island	O	LOCATION
+1.0	area north	be	subject	0	0
+1.0	Transport Minister Hatta Radjasa	refer to	passenger	0	0
+1.0	he	have also announce plan to	list	0	0
+1.0	company	be lead low-cost carrier in	market	0	0
+1.0	Adam Air	accord to	website	PERSON	0
+1.0	lead carrier	market itself as	boutique airline	0	0
+1.0	area north	be	subject to violent storm with wind since weekend	0	DATE
+1.0	Surabaya	be carry	85 adult include four baby	0	NUMBER
+1.0	GMT	have disappear from	radar	MISC	0
+1.0	company	be carrier in	competitive indonesian market	0	0
+1.0	own Adam Air	serve	mostly domestic route with Singapore	PERSON	LOCATION
+1.0	lead carrier	market itself as	boutique airline traditional budget firm	0	0
+1.0	landing	have	information	O	O
+1.0	company	be lead carrier in	indonesian market	0	0
+1.0	area north	be	subject to storm with high wind since last weekend	0	DATE
+1.0	area north	be	subject to violent storm with high wind	0	0
+1.0	its	have	market	O	O
+1.0	island	have	northeast	O	O
+1.0	own Adam Air	serve	route	PERSON	0
+1.0	Surabaya	have	cities	O	LOCATION
+1.0	GMT	have disappear at	Makassar at 0707	MISC	DATE
+1.0	lead low-cost carrier	market itself as	boutique airline budget firm	0	0
+1.0	Boeing 737	be fly between	city of Surabaya	NUMBER	LOCATION
+1.0	we	be call on	aircraft	0	0
+1.0	low-cost carrier	market itself as	boutique airline budget firm	0	0
+1.0	their	have	safety records	O	O
+1.0	lead carrier	market	itself	0	0
+1.0	area north	be	subject to storm with wind since weekend	0	DATE
+1.0	250 million	have	population	O	NUMBER
+1.0	Java	have	island	O	MISC
+1.0	company	be lead carrier in	competitive market	0	0
+1.0	Adam Air	serve	route with Singapore	PERSON	LOCATION
+1.0	project rise	be in	passenger number	0	0
+1.0	company	be lead low-cost carrier in	indonesian market	0	0
+1.0	Surabaya	be carry	11 child	0	NUMBER
+1.0	company	be lead low-cost carrier in	competitive market	0	0
+1.0	four baby	include adult be	11 child	NUMBER	NUMBER
+1.0	company	be low-cost carrier in	market	0	0
+1.0	we	be call nearby on	aircraft	0	0
+1.0	November Adam Air	plan at_time	next year	DATE	DATE
+1.0	its	have	destinations	O	O
+1.0	company	be low-cost carrier in	competitive market	0	0
+1.0	GMT	have disappear at	Makassar in South Sulawesi	MISC	LOCATION
+1.0	Java	have	area north	O	MISC
+0.6199024336088192	fuel	last	four hour	0	DURATION
+1.0	company	be lead carrier in	market	0	0
+1.0	Boeing	be fly on	island	ORGANIZATION	0
+1.0	area north	be subject with	wind since weekend	0	DATE
+1.0	November Adam Air	handle	project rise in passenger number	DATE	0
+1.0	Malaysia	have	Penang	LOCATION	0
+1.0	company	be carrier in	market	0	0
+1.0	list	be in	Singapore	0	LOCATION
+1.0	contact	be	when lose	0	0
+1.0	he	have also announce plan by	middle of 2008	0	DATE
+1.0	carrier	market itself as	boutique airline traditional budget firm	0	0
+1.0	lead low-cost carrier	be in	competitive indonesian market	0	0
+1.0	company	be low-cost carrier in	competitive indonesian market	0	0
+1.0	company	be	lead	0	0
+1.0	area north	be	subject to violent storm with wind since last weekend	0	DATE
+1.0	Adam Air	begin	operation	PERSON	0
+1.0	Transport Minister Hatta Radjasa	tell	ElShinta radio	0	ORGANIZATION
+1.0	area north	be subject with	high wind	0	0
+1.0	contact	be	lose	0	0
+1.0	Boeing 737	be fly between	city	NUMBER	0
+1.0	its intended destination	be in	northeast of island	0	0
+1.0	Public	have	have criticise over they poor safety record	0	0
+1.0	ferry	have	sinking	O	O
+1.0	area north	be	subject to storm with wind	0	0
+1.0	company	be lead low-cost carrier in	competitive indonesian market	0	0
+1.0	Adam Air	serve	domestic route with Singapore	PERSON	LOCATION
+1.0	Surabaya	be carry	85 adult	0	NUMBER
+1.0	he	have also announce	plan	0	0
+1.0	company	be	lead low-cost carrier	0	0
+1.0	own Adam Air	begin operation in	2003	PERSON	DATE
+1.0	Adam Air	begin operation in	2003	PERSON	DATE
+1.0	lead carrier	market itself as	boutique airline budget firm	0	0
+1.0	airline	handle up	11 million passenger	0	NUMBER
+1.0	company	be	carrier	0	0
+1.0	plane	be with	the 96 people	0	NUMBER
+1.0	he	have announce plan to	list	0	0
+1.0	he	have announce	plan	0	0
+1.0	own Adam Air	serve	route with Singapore	PERSON	LOCATION
+1.0	area north	be	subject to storm with high wind	0	0
+1.0	percent	have	population	O	PERCENT
+1.0	area north	be	subject to storm with wind since last weekend	0	DATE
+1.0	GMT	have disappear at	Makassar in South Sulawesi at 0707	MISC	LOCATION
+1.0	lead low-cost carrier	market itself as	boutique airline	0	0

@@ -1,0 +1,109 @@
+1.0	Alex Ferguson	be	Manchester United	PERSON	ORGANIZATION
+1.0	Ferguson	have enjoy	rivalry	PERSON	0
+1.0	Jose Mourinho	have	company	O	O
+1.0	he	be fantastic asset to	we	0	0
+1.0	We	meet after	game	0	0
+1.0	Chelsea manager	appear	increasingly likely	ORGANIZATION	0
+1.0	former Sweden striker	join on	loan	LOCATION	0
+1.0	thing	be	make	0	0
+1.0	battles	have	better	O	O
+1.0	Alex Ferguson	be boss sir of	Manchester United	PERSON	ORGANIZATION
+1.0	his	have	debut	O	O
+1.0	it	be	we	0	0
+1.0	Owen Hargreaves	be to	Old Trafford	PERSON	LOCATION
+1.0	Mourinho	have since enjoy	better	PERSON	0
+1.0	I	be manager of	Manchester United in May	0	ORGANIZATION
+1.0	Ferguson	date on	they way	PERSON	0
+1.0	anything	be possible in	football	0	0
+1.0	they	stretch	they unbeaten run	0	0
+1.0	Ferguson	have enjoy	keen rivalry with manager	PERSON	0
+1.0	stories	have	kind	O	O
+1.0	Manchester United boss Sir Alex Ferguson	say at_time	Friday	PERSON	DATE
+1.0	I	be still manager of	Manchester United	0	ORGANIZATION
+1.0	Manchester United	be at	strength	0	0
+1.0	our	have	form	O	O
+1.0	he	be asset to	we	0	0
+1.0	it	be	normally we	0	0
+1.0	Mourinho	have enjoy	better of they battle	PERSON	0
+1.0	Ferguson	have enjoy	rivalry with portuguese manager	PERSON	0
+1.0	Henrik Larsson	be expect after	he debut weekend	PERSON	DATE
+1.0	I	be manager of	Manchester United	0	ORGANIZATION
+1.0	Chelsea manager	quit	Stamford Bridge	ORGANIZATION	LOCATION
+1.0	his	have	place	O	O
+1.0	my	have	plans	O	O
+1.0	Manchester United	be in	May	ORGANIZATION	DATE
+1.0	Mourinho	have since enjoy	better of they battle	PERSON	0
+1.0	We	always meet after	game	0	0
+1.0	he	want during	transfer window	0	0
+1.0	Ferguson	date on	they way win	PERSON	0
+1.0	I	take	it	0	0
+1.0	Manchester United	have	manager	O	ORGANIZATION
+1.0	Manchester United boss Sir Alex Ferguson	be on	track	PERSON	0
+1.0	Henrik Larsson	be expect after	he debut for United	PERSON	ORGANIZATION
+1.0	I	so take	it	0	0
+1.0	Bayern Munich	have	England midfielder	ORGANIZATION	LOCATION
+1.0	he	want during	current transfer window	0	DATE
+1.0	season	have	end	O	O
+1.0	Henrik Larsson	be expect after	he breathtaking debut last weekend	PERSON	DATE
+1.0	Chelsea manager	appear	likely	ORGANIZATION	0
+1.0	we	continue	we form	0	0
+1.0	their	have	run	O	O
+1.0	Henrik Larsson	be expect after	he breathtaking debut	PERSON	0
+1.0	everyone	have	All	O	O
+1.0	Mourinho	have	future	DATE	PERSON
+1.0	FC Porto	have	elimination	O	ORGANIZATION
+1.0	Manchester United boss Sir Alex Ferguson	miss	Jose Mourinho	0	PERSON
+1.0	Manchester United	be at	full strength	0	0
+1.0	he	be	prevent	0	0
+1.0	Chelsea manager	quit	Stamford Bridge at end of season	ORGANIZATION	LOCATION
+1.0	Henrik Larsson	be expect after	he debut	PERSON	0
+1.0	Henrik Larsson	be expect after	he debut for United weekend	PERSON	ORGANIZATION
+1.0	Henrik Larsson	be expect after	he breathtaking debut weekend	PERSON	DATE
+1.0	his	have	appearance	O	O
+1.0	Jose Mourinho	have get	personality	0	0
+1.0	days	have	space	O	DURATION
+1.0	Henrik Larsson	be expect after	he debut for United last weekend	PERSON	ORGANIZATION
+1.0	former Sweden striker	mark	he appearance	LOCATION	0
+1.0	thing	make	sure	0	0
+1.0	Ferguson	date back on	they way win	PERSON	0
+1.0	I	be still manager of	Manchester United in May	0	ORGANIZATION
+1.0	Mourinho	enjoy	success	PERSON	0
+1.0	former Sweden striker	mark	he first appearance	LOCATION	ORDINAL
+1.0	keen rivalry	be with	portuguese manager	0	0
+1.0	Mourinho	have enjoy	better	PERSON	0
+1.0	he	be	fantastic asset	0	0
+1.0	Ferguson	have enjoy	keen rivalry	PERSON	0
+1.0	his	have	plans	O	O
+1.0	former Sweden striker	join from	Helsingborgs	LOCATION	ORGANIZATION
+1.0	anything	be	possible	0	0
+1.0	Barcelona player	have	future	DATE	O
+1.0	Mourinho	enjoy	huge success	PERSON	0
+1.0	he	be	asset	0	0
+1.0	Henrik	show at_time	week	PERSON	DATE
+1.0	Mourinho	about	future	PERSON	DATE
+1.0	club owner Roman Abramovich and chief executive Peter Kenyon	have	battles	O	O
+1.0	Owen Hargreaves	be midfielder of	England	PERSON	LOCATION
+1.0	Mourinho	be	believe	PERSON	0
+1.0	Ferguson	have enjoy	rivalry with manager	PERSON	0
+1.0	salt	have	pinch	O	O
+1.0	FA Cup	have	round	O	MISC
+1.0	United	have	elimination	O	ORGANIZATION
+1.0	important thing	make	sure	0	0
+1.0	Henrik	show at_time	last week	PERSON	DATE
+1.0	their	have	way	O	O
+1.0	important thing	be	make	0	0
+1.0	Henrik Larsson	be	expect	PERSON	0
+1.0	his	have	future	DATE	O
+1.0	Manchester United boss Sir Alex Ferguson	turn	table	PERSON	0
+1.0	Ferguson	date back on	they way	PERSON	0
+1.0	he	be	fantastic	0	0
+1.0	FC Porto	to	elimination of United	ORGANIZATION	ORGANIZATION
+1.0	I	be	manager	0	0
+1.0	Henrik Larsson	be expect after	he debut last weekend	PERSON	DATE
+1.0	I	be	still manager	0	0
+1.0	former Barcelona player	have	future	ORGANIZATION	DATE
+1.0	Ferguson	have enjoy	keen rivalry with portuguese manager	PERSON	0
+1.0	Bayern Munich	have	England midfielder	O	ORGANIZATION
+1.0	they	stretch	they run	0	0
+1.0	Jose Mourinho	have get	good personality	0	0
+1.0	Chelsea manager	quit	Stamford Bridge at end	ORGANIZATION	LOCATION

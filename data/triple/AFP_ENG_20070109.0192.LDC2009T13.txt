@@ -1,0 +1,79 @@
+1.0	Dowdy	have	Duchess	O	O
+1.0	Camilla Parker-Bowles	wife of	future king	PERSON	DATE
+1.0	Camilla Parker-Bowles	be on	next list	PERSON	0
+1.0	arbiter	describe	newly single Spears as two pea in over-exposed pod	0	NUMBER
+1.0	arbiter	describe	single Spears	0	PERSON
+1.0	Spears	have	have photograph	PERSON	0
+1.0	Spears	enjoy out	out town in wake	PERSON	0
+1.0	arbiter	describe	Spears as two pea in pod	0	NUMBER
+1.0	Kate Winslet	be	british	PERSON	0
+1.0	poison-penned arbiter	describe	newly Spears	0	PERSON
+1.0	style	have	sense	O	O
+1.0	arbiter	describe	single Spears as two pea	0	NUMBER
+1.0	arbiter	describe	Spears as two pea in over-exposed pod	0	NUMBER
+1.0	Spears	enjoy out	out town in wake of Spears ' decision file for divorce from husband Kevin Federline	PERSON	PERSON
+1.0	arbiter	describe	Britney Spears	0	PERSON
+1.0	poison-penned arbiter	describe	newly single Spears as two pea in over-exposed pod	0	NUMBER
+1.0	Spears	enjoy at_time	night	PERSON	0
+1.0	his	have	women	O	O
+1.0	Blackwell	praise actress kate winslet for	they sense	PERSON	0
+1.0	Fashion critic Blackwell	have issue	he ten woman of year award	PERSON	NUMBER
+1.0	Spears	enjoy	Hilton	PERSON	ORGANIZATION
+1.0	future king	of wife be	Prince Charles	DATE	PERSON
+1.0	Blackwell	be from	US	PERSON	LOCATION
+1.0	US fashion critic `` Mr. Blackwell	say	she dress sense	PERSON	0
+1.0	arbiter	describe	newly single Spears	0	PERSON
+1.0	Blackwell	praise	actress Kate Winslet	PERSON	PERSON
+1.0	style	have	arbiter	O	O
+1.0	arbiter	describe	newly Spears as two pea in over-exposed pod	0	NUMBER
+1.0	Spears	have	have regularly photograph	PERSON	0
+1.0	poison-penned arbiter	describe	single Spears	0	PERSON
+1.0	Fashion critic Blackwell	have issue	he ten woman	PERSON	NUMBER
+1.0	poison-penned arbiter	describe	Britney Spears	0	PERSON
+1.0	poison-penned arbiter	describe	Spears as two pea in pod	0	NUMBER
+1.0	Spears	enjoy out	out town in wake of Spears ' decision file	PERSON	PERSON
+1.0	Spears	enjoy out	out town	PERSON	0
+1.0	Spears	have	have regularly photograph together	PERSON	0
+1.0	poison-penned arbiter	describe	newly Spears as two pea in pod	0	NUMBER
+1.0	their	have	sense	O	O
+1.0	poison-penned arbiter	describe	newly Spears as two pea in over-exposed pod	0	NUMBER
+1.0	poison-penned arbiter	describe	newly single Spears	0	PERSON
+1.0	king	have	wife	O	O
+1.0	arbiter	describe	Spears as two pea	0	NUMBER
+1.0	out town	be in	wake of Spears ' decision file for divorce from husband Kevin Federline	0	PERSON
+1.0	arbiter	describe	newly Spears	0	PERSON
+1.0	Spears	enjoy out	out town in wake of Spears ' decision	PERSON	PERSON
+1.0	Kate Winslet	be	Angelina Jolie	PERSON	PERSON
+1.0	poison-penned arbiter	describe	newly single Spears as two pea in pod	0	NUMBER
+1.0	arbiter	describe	newly single Spears as two pea in pod	0	NUMBER
+1.0	her	have	dress sense	O	O
+1.0	Blackwell	praise actress kate winslet for	they sense of style	PERSON	0
+1.0	arbiter	describe	newly single Spears as two pea	0	NUMBER
+1.0	arbiter	describe	newly Spears as two pea	0	NUMBER
+1.0	Camilla Parker-Bowles	be on	list	PERSON	0
+1.0	England	have	king	O	LOCATION
+1.0	Spears	enjoy out	out town in wake of Spears ' decision file for divorce	PERSON	PERSON
+1.0	Spears	enjoy out	out town in wake of Spears ' decision file from husband Kevin Federline	PERSON	PERSON
+1.0	2006	have	celebrities	O	DATE
+1.0	arbiter	describe	newly Spears as two pea in pod	0	NUMBER
+1.0	Fashion critic Blackwell	have issue	he ten worst-dressed woman of year award	PERSON	NUMBER
+1.0	poison-penned arbiter	describe	single Spears as two pea in over-exposed pod	0	NUMBER
+1.0	poison-penned arbiter	describe	single Spears as two pea	0	NUMBER
+1.0	poison-penned arbiter	describe	newly single Spears as two pea	0	NUMBER
+1.0	year awards	have	women	O	O
+1.0	Spears	have	have photograph together	PERSON	0
+1.0	two pea	be in	over-exposed pod	NUMBER	0
+1.0	England	be	Prince Charles	LOCATION	PERSON
+1.0	poison-penned arbiter	describe	Spears as two pea in over-exposed pod	0	NUMBER
+1.0	Blackwell	praise	british actress Kate Winslet	PERSON	PERSON
+1.0	decision	have	wake	O	O
+1.0	poison-penned arbiter	describe	single Spears as two pea in pod	0	NUMBER
+1.0	Fashion critic Blackwell	have issue	he ten worst-dressed woman	PERSON	NUMBER
+1.0	Lindsay Lohan	be	next	PERSON	0
+1.0	poison-penned arbiter	describe	newly Spears as two pea	0	NUMBER
+1.0	arbiter	describe	single Spears as two pea in over-exposed pod	0	NUMBER
+1.0	Paula Abdul	be	Sharon Stone	PERSON	PERSON
+1.0	Christina Aguilera	be	Mariah Carey	PERSON	PERSON
+1.0	arbiter	describe	single Spears as two pea in pod	0	NUMBER
+1.0	poison-penned arbiter	describe	Spears as two pea	0	NUMBER
+1.0	Spears	have	decision	O	PERSON

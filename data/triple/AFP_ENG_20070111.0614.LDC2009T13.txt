@@ -1,0 +1,22 @@
+1.0	Israel	continue	territory 's coastal water	LOCATION	0
+1.0	naval vessel	summon	fisherman	0	0
+1.0	territory	have	waters	O	O
+1.0	shot	be fire towards	fishing boat	0	0
+1.0	fisherman	turn	round	0	0
+1.0	casualties	have	sign	O	O
+1.0	Gaza Strip	be in	2005	LOCATION	DATE
+1.0	Gaza Strip	have	out pulled	O	LOCATION
+1.0	Israel	continue	territory 's water	LOCATION	0
+1.0	israeli vessel	summon	fisherman	0	0
+1.0	vessel	turn	round	0	0
+1.0	israeli naval vessel	summon	fisherman	0	0
+1.0	naval vessel	turn	round	0	0
+1.0	fisherman	carry on	fishing	0	0
+1.0	warn shot	be fire towards	fishing boat	0	0
+1.0	shot	be	fire	0	0
+1.0	israeli naval vessel	turn	round	0	0
+1.0	vessel	summon	fisherman	0	0
+1.0	territory	have	coastal water	0	0
+0.09510152750802991	Israel	continue to	patrol	LOCATION	0
+1.0	warn shot	be	fire	0	0
+1.0	israeli vessel	turn	round	0	0

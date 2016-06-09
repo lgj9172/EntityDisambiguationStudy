@@ -1,0 +1,30 @@
+1.0	chip	boost	China stock	0	LOCATION
+1.0	upside	be cap by	caution stem last Friday	0	DATE
+1.0	blue chip	boost	China stock	0	LOCATION
+1.0	upside	be cap by	caution stem	0	0
+1.0	select chip	be boost by	liquidity	0	0
+1.0	extended holiday	be in	US	0	LOCATION
+1.0	upside	be cap by	caution stem from drop on Wall Street	0	0
+1.0	index	regain	20,000 point level	0	NUMBER
+1.0	select blue chip	be boost by	liquidity	0	0
+1.0	select blue chip	be	boost	0	0
+1.0	select blue chip	boost	China stock	0	LOCATION
+1.0	select chip	be	boost	0	0
+1.0	upside	be cap by	caution stem from drop on Wall Street Friday	0	DATE
+1.0	blue chip	be	boost	0	0
+1.0	select chip	boost	China stock	0	LOCATION
+1.0	year	have	trading day	DURATION	DATE
+1.0	blue chip	be boost by	liquidity	0	0
+1.0	upside	be	cap	0	0
+1.0	upside	be cap by	caution stem from drop on Wall Street last Friday	0	DATE
+1.0	benchmark index	regain	20,000 point level	0	NUMBER
+1.0	upside	be cap by	caution stem from drop last Friday	0	DATE
+1.0	upside	be cap by	caution	0	0
+1.0	dealer	drive	buy on first trading day	0	ORDINAL
+1.0	chip	be	boost	0	0
+1.0	dealer	drive	buy	0	0
+1.0	upside	be cap by	caution stem from drop Friday	0	DATE
+1.0	dealer	drive	buy on trading day	0	DURATION
+1.0	chip	be boost by	liquidity	0	0
+1.0	upside	be cap by	caution stem Friday	0	DATE
+1.0	upside	be cap by	caution stem from drop	0	0

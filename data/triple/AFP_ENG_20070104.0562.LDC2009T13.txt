@@ -1,0 +1,15 @@
+1.0	first series whitewash	be in	86 year	ORDINAL	DURATION
+1.0	Australia	beat	England by 10 wicket Friday	LOCATION	NUMBER
+1.0	Australia	beat	England by 10 wicket in test Friday	LOCATION	NUMBER
+1.0	Australia	beat	England by 10 wicket in fifth test Friday	LOCATION	NUMBER
+1.0	Australia	beat	England Friday	LOCATION	LOCATION
+1.0	Australia	beat	England here Friday	LOCATION	LOCATION
+1.0	Australia	beat	England by 10 wicket in test here Friday	LOCATION	NUMBER
+1.0	Australia	beat	England by 10 wicket in fifth test	LOCATION	NUMBER
+1.0	England	be  at_time	Friday	LOCATION	DATE
+1.0	Australia	beat	England by 10 wicket here Friday	LOCATION	NUMBER
+1.0	10 wicket	be in	fifth test	NUMBER	ORDINAL
+1.0	Australia	beat	England by 10 wicket	LOCATION	NUMBER
+1.0	Australia	beat	England	LOCATION	LOCATION
+1.0	Australia	beat	England by 10 wicket in fifth test here Friday	LOCATION	NUMBER
+1.0	Australia	beat	England by 10 wicket in test	LOCATION	NUMBER

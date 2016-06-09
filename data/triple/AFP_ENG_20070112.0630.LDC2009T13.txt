@@ -1,0 +1,136 @@
+0.4662625607105735	investigator telephone record	hire by	firm	0	0
+1.0	Patricia Dunn	be	grilled by member at hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be grilled by	member of US Congress	PERSON	ORGANIZATION
+1.0	he	return to	court	0	0
+0.8177046762352688	investigator	hire by	firm	0	0
+1.0	news reporter	have	telephone record	0	0
+1.0	Patricia Dunn	resign	former ethic lawyer Kevin Hunsaker	PERSON	PERSON
+1.0	investigator	obtain	telephone record	0	0
+1.0	Patricia Dunn	resign in	September	PERSON	DATE
+1.0	identity theft	have	felony counts	O	O
+1.0	Wall Street Journal reporter	have	social security number to access telephone record	ORGANIZATION	0
+1.0	San Jose	have	California city	O	LOCATION
+1.0	HP	have	executive	O	ORGANIZATION
+1.0	Action Research Group	be of	florida-based	ORGANIZATION	0
+1.0	information	be	obtain	0	0
+1.0	Wagner	plead to	felony criminal count of aggravate identity theft	PERSON	0
+1.0	Wall Street Journal reporter	have	security number	O	O
+1.0	Patricia Dunn	resign amid	controversy about unethical tactic	PERSON	0
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member at hearing in Washington	PERSON	LOCATION
+1.0	information	be	also obtain	0	0
+1.0	private investigator	obtain	telephone record	0	0
+1.0	Patricia Dunn	resign amid	controversy about tactic use	PERSON	0
+1.0	HP	have	chief executive	ORGANIZATION	0
+0.4361080004002163	plea deal	file under	seal	0	0
+1.0	Patricia Dunn	be	among HP executive grilled by member at hearing	PERSON	ORGANIZATION
+1.0	Patricia Dunn	be grilled among	HP executive	PERSON	ORGANIZATION
+1.0	world	have	computer maker	O	O
+1.0	news reporters	have	telephone records	O	O
+1.0	conspiracy	have	pleaded'	O	O
+1.0	Wagner	plead accord to	Macaulay	PERSON	PERSON
+1.0	private detective	plead	guilty	0	0
+1.0	three outside security agent	hire by	firm	NUMBER	0
+1.0	news reporters	have	information	O	O
+1.0	detectives	have	one	NUMBER	O
+1.0	Wagner	plead to	felony count of aggravate identity theft	PERSON	0
+1.0	corporate governance reform	be in	addition	0	0
+1.0	hearing	be in	Washington	0	LOCATION
+1.0	private investigator	obtain telephone record in	effort	0	0
+1.0	HP board members	have	information	O	O
+1.0	detective	obtain	news reporter 's telephone record	0	0
+1.0	reporters	have	relatives	O	O
+1.0	three security agent	hire by	firm	NUMBER	0
+1.0	US Attorney	have	office spokesman	LOCATION	0
+1.0	Patricia Dunn	be grilled by	incredulous member of US Congress	PERSON	ORGANIZATION
+1.0	private investigator	obtain	telephone record of nine journalist	0	NUMBER
+1.0	Patricia Dunn	be	among HP executive grilled by member at hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be	among HP executive grilled by member of US Congress	PERSON	ORGANIZATION
+1.0	US Congress	have	members	O	ORGANIZATION
+1.0	sentencing	be in	June	0	DATE
+1.0	Wagner	plead in	plea deal file under seal	PERSON	0
+1.0	world	of	largest computer maker	0	0
+1.0	seven current	have	telephone records	O	DATE
+1.0	Wagner , 29	plead	guilty	0	0
+1.0	HP executives	have	one	NUMBER	O
+1.0	news reporter	have	telephone records	O	O
+1.0	information	be obtain by	illegal ruse	0	0
+0.8177046762352688	private investigator	hire by	firm	0	0
+1.0	HP	have	chairwoman	O	ORGANIZATION
+1.0	information broker Action Research Group	have	manager	O	ORGANIZATION
+1.0	Patricia Dunn	be	among HP executive grilled by member of US Congress at hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be	grilled by incredulous member at hearing	PERSON	0
+0.5174493699604719	charge	link to	boardroom espionage scandal	0	0
+0.5174493699604719	civil charge	link to	boardroom espionage scandal	0	0
+1.0	Patricia Dunn	resign amid	controversy about unethical tactic use	PERSON	0
+1.0	Wagner	plead to	felony count	PERSON	0
+1.0	conspiracy	have	part	O	O
+1.0	information	be also obtain accord to	prosecutor	0	0
+1.0	information	be obtain by	ruse	0	0
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member of US Congress at hearing	PERSON	ORGANIZATION
+1.0	information	be also obtain by	ruse	0	0
+1.0	computer maker Hewlett-Packard	agree at_time	last month	ORGANIZATION	DATE
+1.0	deal	resolve	HP 's liability	0	ORGANIZATION
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member	PERSON	ORGANIZATION
+1.0	Wagner	plead in	plea deal	PERSON	0
+1.0	Luke Macaulay	say	US Attorney 's office spokesman	PERSON	LOCATION
+1.0	Patricia Dunn	resign amid	controversy	PERSON	0
+1.0	Wagner	plead to	felony count of identity theft	PERSON	0
+1.0	investigator	obtain telephone record in	effort	0	0
+1.0	board members	have	relatives	O	O
+1.0	liability	have	finding	O	O
+1.0	private detective	obtain	news reporter 's telephone record	0	0
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member of US Congress	PERSON	ORGANIZATION
+1.0	Patricia Dunn	be grilled by	incredulous member	PERSON	0
+1.0	Wagner	plead	guilty	PERSON	0
+1.0	private detective	illegally obtain	news reporter 's telephone record	0	0
+1.0	computer maker Hewlett-Packard	have	liability	ORGANIZATION	0
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member at hearing	PERSON	ORGANIZATION
+1.0	Patricia Dunn	resign from	computer maker Hewlett-Packard	PERSON	0
+1.0	Patricia Dunn	be	grilled by incredulous member of US Congress at hearing	PERSON	ORGANIZATION
+1.0	information	be obtain accord to	prosecutor	0	0
+1.0	computer maker Hewlett-Packard	agree at_time	month	ORGANIZATION	DATE
+1.0	Patricia Dunn	be	grilled by incredulous member of US Congress at hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be	grilled by member of US Congress at hearing	PERSON	ORGANIZATION
+1.0	detective	plead	guilty	0	0
+1.0	Patricia Dunn	resign amid	controversy about tactic	PERSON	0
+1.0	Wagner , 29	be	part	PERSON	0
+1.0	settlement	have	part	O	O
+1.0	Patricia Dunn	be	grilled by member of US Congress at hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be grilled by	member	PERSON	0
+1.0	Patricia Dunn	be	among HP executive grilled by member	PERSON	ORGANIZATION
+1.0	investigator	obtain	telephone record of nine journalist	0	NUMBER
+1.0	chairman	have	role	O	O
+1.0	Patricia Dunn	be	among HP executive grilled by member of US Congress at hearing	PERSON	ORGANIZATION
+1.0	Wagner	plead to	felony criminal count	PERSON	0
+1.0	money	have	most	O	O
+1.0	private detective	plead	guilty on Friday	0	DATE
+1.0	HP workers	have	telephone records	O	O
+1.0	hunt	have	part	O	O
+1.0	Patricia Dunn	be	among HP executive grilled at hearing in Washington	PERSON	LOCATION
+1.0	Criminal charge	be pend against	Dunn	0	PERSON
+1.0	Patricia Dunn	be	grilled	PERSON	0
+1.0	boardroom leaks	have	source	O	O
+1.0	HP board members	have	telephone records	O	O
+1.0	Wagner	plead in	plea deal file	PERSON	0
+1.0	Patricia Dunn	be	among HP executive grilled at hearing	PERSON	ORGANIZATION
+1.0	computer maker Hewlett-Packard	have	liability	O	ORGANIZATION
+1.0	US Attorney	have	office spokesman	O	O
+1.0	he	return to	court for sentencing	0	0
+1.0	privacy intellectual property rights	have	violations	O	O
+1.0	Patricia Dunn	be grilled at	hearing in Washington	PERSON	LOCATION
+1.0	Patricia Dunn	be grilled at	hearing	PERSON	0
+1.0	Wagner , 29	be	29	PERSON	NUMBER
+0.4662625607105735	private investigator telephone record	hire by	firm	0	0
+1.0	journalists	have	telephone records	O	O
+1.0	information	be also obtain by	illegal ruse	0	0
+1.0	Patricia Dunn	be	among HP executive grilled by incredulous member of US Congress at hearing in Washington	PERSON	LOCATION
+1.0	he	return to	court for sentencing in June	0	DATE
+1.0	computer maker	have	image	O	O
+1.0	Patricia Dunn	be	grilled by member at hearing	PERSON	0
+1.0	detective	plead	guilty on Friday	0	DATE
+1.0	Patricia Dunn	be	grilled by incredulous member at hearing in Washington	PERSON	LOCATION
+1.0	Criminal charge	be still pend against	Dunn	0	PERSON
+1.0	Wagner	plead to	felony criminal count of identity theft	PERSON	0
+1.0	Wagner , 29	be	charge	PERSON	0
+1.0	computer maker Hewlett-Packard	pay	14.5 million dollar	ORGANIZATION	MONEY
+1.0	detective	illegally obtain	news reporter 's telephone record	0	0

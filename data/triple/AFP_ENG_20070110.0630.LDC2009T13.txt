@@ -1,0 +1,87 @@
+1.0	month-long trial	have	have hold in we country	0	0
+1.0	score	be	arrest	0	0
+1.0	France	by	Cour de Cassation	LOCATION	ORGANIZATION
+1.0	probe	be	be revive	0	0
+1.0	Sassou Nguesso	by	authority	PERSON	0
+1.0	more than 350 civilians	have	affairs	O	O
+1.0	french probe	be	be revive	0	0
+1.0	France	have	Cour Cassation	ORGANIZATION	LOCATION
+1.0	Sassou Nguesso	have	authorities	O	PERSON
+1.0	inquiry	make follow	legal action by family of victim	0	0
+1.0	Sassou Nguesso	describe decision by	France 's Cour Cassation	PERSON	LOCATION
+1.0	Congo	have	Denis Sassou Nguesso	LOCATION	PERSON
+1.0	Brazzaville Beach	have	Congo river port	O	LOCATION
+1.0	angry Sassou Nguesso	describe decision by	France 's Cour Cassation	PERSON	LOCATION
+1.0	score	be	arrest in May 1999 at Congo river port	0	DATE
+1.0	score	be arrest at	Congo river port of Brazzaville Beach	0	LOCATION
+1.0	the	have	one	NUMBER	O
+1.0	crimes	have	charges	O	O
+0.8401152493963767	Congo 's police chief Jean-Francois Ndengue	charge of	crime	LOCATION	0
+1.0	inquiry	make follow	legal action by family	0	0
+1.0	France 's Cour de Cassation	overturn	2004 decision	LOCATION	DATE
+1.0	Congo	have	Jean-Francois Ndengue	LOCATION	PERSON
+1.0	they	escape	war	0	0
+1.0	score	be arrest at	Congo river port of Brazzaville Beach on suspicion	0	LOCATION
+1.0	the	of one be	Norbert Dabira	0	PERSON
+1.0	France 's highest court	revive investigation into	presumed massacre	LOCATION	0
+1.0	Congo	have	police chief Jean-Francois Ndengue	PERSON	LOCATION
+1.0	victims	have	families	O	O
+1.0	Congo 's police chief Jean-Francois Ndengue	face charge against	humanity	LOCATION	0
+1.0	month-long trial	have	have already hold in we country	0	0
+1.0	country	in	affair	0	0
+1.0	France 's Cour Cassation	overturn	2004 decision	LOCATION	DATE
+1.0	score	be arrest at	Congo river port	0	LOCATION
+1.0	Congo 's President Denis Sassou Nguesso on Wednesday	have	country	O	O
+1.0	score	be	arrest in May 1999 at Congo river port of Brazzaville Beach	0	DATE
+1.0	Congo	have	President Denis Sassou Nguesso	PERSON	LOCATION
+1.0	Congo 's President Denis Sassou Nguesso	accuse	France interfere in he country 's affair	PERSON	LOCATION
+1.0	score	be arrest in	May 1999	0	DATE
+1.0	angry Sassou Nguesso	describe	decision	PERSON	ORGANIZATION
+1.0	France 's court	revive investigation into	presumed massacre	LOCATION	0
+1.0	inquiry	be in	2002	0	DATE
+1.0	Congolese	have	Scores	O	MISC
+1.0	Congo	have	state television	O	LOCATION
+0.6922703958377737	France	interfere in	he country 's affair	LOCATION	0
+1.0	probe	be	be revive follow acquittal	0	0
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	country	have	affairs	O	O
+1.0	group	disappear	relative	0	0
+1.0	month-long trial	have	have hold	0	0
+1.0	France	have	court	O	LOCATION
+1.0	inquiry	make follow	action	0	0
+1.0	inquiry	make	possible	0	0
+1.0	inquiry	make follow	legal action	0	0
+1.0	France	have	Cour de Cassation	LOCATION	ORGANIZATION
+1.0	Congo 's President Denis Sassou Nguesso	accuse	France interfere	PERSON	LOCATION
+1.0	trial	have	have already hold in we country	0	0
+1.0	inquiry	make follow	action by family	0	0
+1.0	trial	have	have hold in we country	0	0
+1.0	trial	have	have hold	0	0
+1.0	Congo 's police chief Jean-Francois Ndengue	face	charge	LOCATION	0
+1.0	France 's court	revive	investigation	LOCATION	0
+1.0	trial	have	have already hold	0	0
+1.0	angry Sassou Nguesso	describe decision by	France 's Cour de Cassation	PERSON	LOCATION
+1.0	Sassou Nguesso	describe decision by	France 's Cour Cassation as provocation	PERSON	LOCATION
+1.0	more than 350 civilians	have	country	O	O
+1.0	the	have	groups	O	O
+1.0	Congo 's police chief Jean-Francois Ndengue	face	charge of crime	LOCATION	0
+1.0	France	have	highest court	LOCATION	0
+1.0	Congo 's President Denis Sassou Nguesso	accuse	France	PERSON	LOCATION
+1.0	France 's highest court	revive	investigation	LOCATION	0
+1.0	Denis Sassou Nguesso	be president of	Congo	PERSON	LOCATION
+1.0	2005 trial	be in	Brazzaville	DATE	LOCATION
+1.0	inquiry	make follow	action by family of victim	0	0
+1.0	Denis Sassou Nguesso	be on	Wednesday	PERSON	DATE
+1.0	angry Sassou Nguesso	describe decision by	France 's Cour Cassation as provocation	PERSON	LOCATION
+1.0	civilians	have	massacre	O	O
+1.0	french probe	be	be revive follow acquittal	0	0
+1.0	month-long trial	have	have already hold	0	0
+1.0	military official	be in	2005 trial	0	DATE
+1.0	they	escape	civil war	0	0
+1.0	Sassou Nguesso	describe	decision	PERSON	ORGANIZATION
+1.0	Jean-Francois Ndengue	be police chief of	Congo	PERSON	LOCATION
+1.0	angry Sassou Nguesso	describe decision by	France 's Cour de Cassation as provocation	PERSON	LOCATION
+1.0	15	have	acquittal	O	NUMBER
+1.0	them	have	all	O	O
+1.0	Sassou Nguesso	describe decision by	France 's Cour de Cassation as provocation	PERSON	LOCATION
+1.0	Sassou Nguesso	describe decision by	France 's Cour de Cassation	PERSON	LOCATION

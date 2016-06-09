@@ -1,0 +1,72 @@
+1.0	fielding	serve	counsel	0	0
+1.0	White House	brace by	US Congress capture by opposition democrat in November election	ORGANIZATION	DATE
+1.0	US President George W. Bush	formally announce	he new official government lawyer	ORGANIZATION	0
+0.47844364838513254	US Congress	capture in	November election shape war Iraq	LOCATION	DATE
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape	ORGANIZATION	DATE
+1.0	lawyer	hold for	five year	0	DURATION
+0.47844364838513254	US Congress	capture by	opposition democrat	LOCATION	0
+1.0	White House	brace by	US Congress capture in November election shape	ORGANIZATION	DATE
+1.0	White House	brace by	US Congress	ORGANIZATION	LOCATION
+1.0	fielding	also serve	counsel to then	0	0
+1.0	Harriet Miers	resign at_time	week	PERSON	DATE
+1.0	Harriet Miers	resign at_time	late week	PERSON	DATE
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape by anger at war in Iraq	ORGANIZATION	DATE
+1.0	Fielding	have	appointment	O	O
+1.0	fielding	also serve	counsel	0	0
+1.0	US President George W. Bush	formally announce	he new government lawyer	ORGANIZATION	0
+1.0	US President George W. Bush on Tuesday	announce in	statement	PERSON	0
+1.0	George W. Bush	be on	Tuesday	PERSON	DATE
+1.0	lawyer	hold under	then-president Ronald Reagan	0	PERSON
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape by anger at war	ORGANIZATION	DATE
+0.47844364838513254	US Congress	capture in	November election shape anger war	LOCATION	DATE
+1.0	US President George W. Bush on Tuesday	counsel	post	0	0
+1.0	US President George W. Bush	announce	he government lawyer	ORGANIZATION	0
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape at war in Iraq	ORGANIZATION	DATE
+1.0	US President George W. Bush	announce	he official government lawyer	ORGANIZATION	0
+1.0	Fred Fielding	be	he White House counsel	PERSON	ORGANIZATION
+1.0	Harriet Miers	resign at_time	last week	PERSON	DATE
+1.0	lawyer	hold under	Ronald Reagan	0	PERSON
+1.0	US President George W. Bush	announce	he new government lawyer	ORGANIZATION	0
+1.0	US President George W. Bush on Tuesday	have	government lawyer	O	O
+1.0	fielding	member of	official commission	0	0
+0.47844364838513254	US Congress	capture in	November election shape war	LOCATION	DATE
+1.0	war	be in	Iraq	0	LOCATION
+1.0	White House	brace by	US Congress capture by opposition democrat	ORGANIZATION	LOCATION
+1.0	White House	brace by	US Congress capture in November election	ORGANIZATION	DATE
+1.0	Nixon	have	presidency	PERSON	0
+1.0	US President George W. Bush	announce	he new official government lawyer	ORGANIZATION	0
+1.0	fielding	have	appointment	0	0
+1.0	lawyer	hold	replace	0	0
+1.0	Harriet Miers	resign after	six year at White House	PERSON	ORGANIZATION
+1.0	White House	brace by	US Congress capture in November election shape at war in Iraq	ORGANIZATION	DATE
+1.0	fielding	serve	counsel to then	0	0
+1.0	White House	brace for	possible investigation	ORGANIZATION	0
+1.0	lawyer	replace	loyalist Harriet Miers	0	PERSON
+0.47844364838513254	US Congress	capture in	November election	LOCATION	DATE
+0.47844364838513254	US Congress	capture in	November election shape anger	LOCATION	DATE
+1.0	US Congress	be by	democrat-held	ORGANIZATION	0
+1.0	US President George W. Bush	formally announce	he government lawyer	ORGANIZATION	0
+1.0	White House	brace by	US Congress capture in November election shape by anger	ORGANIZATION	DATE
+1.0	US President George W. Bush	formally announce	he official government lawyer	ORGANIZATION	0
+1.0	lawyer	replace	longtime loyalist Harriet Miers	0	PERSON
+1.0	Nixon	have	presidency	O	PERSON
+1.0	Harriet Miers	resign at_time	late last week	PERSON	DATE
+1.0	Harriet Miers	resign after	six year	PERSON	DURATION
+1.0	commission	have	member	O	O
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape at war	ORGANIZATION	DATE
+1.0	Fred Fielding	be	he new White House counsel	PERSON	ORGANIZATION
+1.0	White House	brace by	US Congress capture	ORGANIZATION	LOCATION
+1.0	White House	brace by	US Congress capture in November election shape by anger at war	ORGANIZATION	DATE
+1.0	Fred Fielding	have	White House counsel	O	O
+1.0	George W. Bush	be	US	PERSON	ORGANIZATION
+1.0	George W. Bush	be president of	US	PERSON	ORGANIZATION
+1.0	US President George W. Bush on Tuesday	pick	Fred Fielding	0	PERSON
+1.0	White House	brace by	US Congress capture in November election shape by anger at war in Iraq	ORGANIZATION	DATE
+1.0	fielding	also serve counsel as	deputy White House	0	ORGANIZATION
+1.0	investigations	have	face	O	O
+0.47844364838513254	US Congress	capture in	November election shape anger war Iraq	LOCATION	DATE
+1.0	fielding	serve counsel as	deputy White House	0	ORGANIZATION
+1.0	White House	brace by	US Congress capture by opposition democrat in November election shape by anger	ORGANIZATION	DATE
+1.0	the Democrat-held US Congress	be by	US	ORGANIZATION	LOCATION
+0.47844364838513254	US Congress	capture in	November election shape	LOCATION	DATE
+1.0	White House	brace by	US Congress capture in November election shape at war	ORGANIZATION	DATE

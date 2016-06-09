@@ -1,0 +1,79 @@
+1.0	death	be	announce	0	0
+1.0	Foreign Minister Paek Nam-Sun	have	death	O	PERSON
+1.0	A senior Japanese ruling-party lawmaker	wish	go	0	0
+1.0	death	be announce in	North Korea 's official media	0	LOCATION
+1.0	Prime Minister Shinzo Abe	be oppose by	politician	PERSON	0
+1.0	Abe 's policy of imposing pressure and sanctions on Pyongyang in retaliation for North Korea 's nuclear arms	have	abductions	O	O
+1.0	Prime Minister Shinzo Abe	be reportedly oppose to	independent diplomatic gambit	PERSON	0
+1.0	citizens	have	abductions	O	O
+1.0	Shinzo Abe	hardliner against	communist state	PERSON	0
+1.0	Prime Minister Shinzo Abe	be	oppose to diplomatic gambit by politician	PERSON	0
+1.0	Prime Minister Shinzo Abe	be oppose to	independent gambit	PERSON	0
+1.0	A senior Japanese ruling-party lawmaker	go there in	March	0	DATE
+1.0	Prime Minister Shinzo Abe	be	oppose	PERSON	0
+1.0	A senior Japanese ruling-party lawmaker	wish	go there in March	0	DATE
+1.0	Prime Minister Shinzo Abe	be reportedly oppose to	independent gambit	PERSON	0
+1.0	Prime Minister Shinzo Abe	be	reportedly oppose to independent diplomatic gambit by politician	PERSON	0
+1.0	fruitless round	be in	December	0	DATE
+1.0	Prime Minister Shinzo Abe	be	reportedly oppose to gambit by politician	PERSON	0
+1.0	its refusal	come on	its past abduction	0	DATE
+1.0	Sean McCormack	be	US State Department	PERSON	ORGANIZATION
+1.0	policy	have	critical	O	O
+1.0	Abe	of	policy impose on Pyongyang in retaliation for nuclear arm	PERSON	LOCATION
+1.0	Taku Yamasaki	be know	critical of Abe 's policy program	PERSON	PERSON
+1.0	North Korea	have	media	O	LOCATION
+1.0	Taku Yamasaki	be	program	PERSON	0
+1.0	death	have	visiting	O	O
+1.0	death	be	announce in North Korea 's media on Wednesday	0	LOCATION
+0.6350346664969754	track record	contact	north korean official	0	0
+1.0	Prime Minister Shinzo Abe	be reportedly oppose to	gambit	PERSON	0
+1.0	Taku Yamasaki	be know	critical program	PERSON	0
+1.0	Prime Minister Shinzo Abe	be	oppose to independent gambit by politician	PERSON	0
+0.6350346664969754	track record	contact korean official over	kidnapping issue	0	0
+0.6350346664969754	track record	contact	official	0	0
+1.0	Japan	have	Jiji Press	LOCATION	ORGANIZATION
+1.0	Taku Yamasaki	be	critical of Abe 's policy program	PERSON	PERSON
+1.0	Taku Yamasaki	president of	Liberal Democratic Party	PERSON	ORGANIZATION
+1.0	Taku Yamasaki	tell	Japan 's Jiji Press	PERSON	ORGANIZATION
+1.0	Taku Yamasaki	be	quote	PERSON	0
+1.0	South Korea	be	US	LOCATION	LOCATION
+1.0	Prime Minister Shinzo Abe	be reportedly oppose to	diplomatic gambit	PERSON	0
+1.0	death	be announce on	Wednesday	0	DATE
+1.0	report	say at_time	Saturday	0	DATE
+0.6350346664969754	track record	contact north korean official over	kidnapping issue	0	0
+1.0	State	have	Assistant	O	ORGANIZATION
+1.0	North Korea	have	arsenal	O	LOCATION
+1.0	Prime Minister Shinzo Abe	be oppose to	diplomatic gambit	PERSON	0
+1.0	Taku Yamasaki	be know	program	PERSON	0
+1.0	Taku Yamasaki	be	critical program	PERSON	0
+1.0	Prime Minister Shinzo Abe	be	oppose to independent diplomatic gambit by politician	PERSON	0
+1.0	A senior Japanese ruling-party lawmaker	wish	go in March	0	DATE
+1.0	A senior Japanese ruling-party lawmaker	go in	March	0	DATE
+1.0	North Korea	have	nuclear arsenal	LOCATION	0
+0.6350346664969754	track record	contact	korean official	0	0
+1.0	Abe 's policy of imposing pressure and sanctions on Pyongyang in retaliation for North Korea 's nuclear arms	have	refusal	O	O
+1.0	Taku Yamasaki	be	know	PERSON	0
+1.0	Abe	have	policy	O	PERSON
+1.0	death	be announce in	North Korea 's media	0	LOCATION
+1.0	A senior Japanese ruling-party lawmaker	wish	go there	0	0
+1.0	North Korea	in	official media	LOCATION	0
+1.0	deadlock	be in	bilateral tie	0	0
+1.0	Prime Minister Shinzo Abe	be	reportedly oppose to independent gambit by politician	PERSON	0
+1.0	its refusal	come on	its past abduction citizen	0	DATE
+1.0	Sean McCormack	be spokesman of	US State Department	PERSON	ORGANIZATION
+1.0	its refusal	come on	its past abduction japanese citizen	0	DATE
+1.0	Taku Yamasaki	have	trip	O	O
+1.0	North Korea	for	nuclear arm	LOCATION	0
+1.0	Paek Nam-Sun	be of	north korean	PERSON	0
+1.0	North Korea	be in	March	LOCATION	DATE
+1.0	Prime Minister Shinzo Abe	be	oppose to gambit by politician	PERSON	0
+1.0	Prime Minister Shinzo Abe	be reportedly oppose by	politician	PERSON	0
+1.0	Prime Minister Shinzo Abe	be	reportedly oppose to diplomatic gambit by politician	PERSON	0
+1.0	Japan	have	Jiji Press	ORGANIZATION	LOCATION
+1.0	Liberal Democratic Party	have	vice president	O	ORGANIZATION
+1.0	Prime Minister Shinzo Abe	be oppose to	independent diplomatic gambit	PERSON	0
+1.0	Prime Minister Shinzo Abe	be oppose to	gambit	PERSON	0
+1.0	North Korea	have	arms	O	LOCATION
+1.0	Prime Minister Shinzo Abe	be	reportedly oppose	PERSON	0
+1.0	death	be	announce in North Korea 's official media on Wednesday	0	LOCATION
+0.6350346664969754	track record	contact official over	kidnapping issue	0	0

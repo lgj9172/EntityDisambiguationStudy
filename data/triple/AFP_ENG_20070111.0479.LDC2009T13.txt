@@ -1,0 +1,156 @@
+1.0	they	go to	market	0	0
+1.0	he	take	command of Bosnian Serb force	0	MISC
+1.0	International Criminal Tribunal	be for	Yugoslavia	ORGANIZATION	LOCATION
+1.0	serb troops	use	sniper against civilian	0	0
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper in hill above city	PERSON	MISC
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper during ceasefire	PERSON	MISC
+1.0	Slobodan Milosevic	have	predecessor	O	PERSON
+1.0	general	have	trial	O	O
+1.0	1995 war	be in	Bosnia	DATE	LOCATION
+1.0	Sarajevo	have	residents	O	LOCATION
+1.0	campaign	have	type	O	O
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper	PERSON	MISC
+1.0	Sarajevo	have	siege	O	LOCATION
+1.0	Slobodan Milosevic	's predecessor be	Stanislav Galic	PERSON	PERSON
+1.0	Dzenana Sokolovic	be	how shoot during ceasefire	PERSON	0
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper in hill above city during ceasefire	PERSON	MISC
+1.0	Dzenana Sokolovic	be shoot by	Bosnian Serb sniper in hill	PERSON	MISC
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper in hill above city during ceasefire	PERSON	MISC
+1.0	Milosevic 's predecessor	be sentence to	life	PERSON	0
+1.0	Slobodan Milosevic	have	predecessor as commander of bosnian serb force in Sarajevo	PERSON	LOCATION
+1.0	life	be in	prison	0	0
+1.0	Dzenana Sokolovic	have	stomach	O	O
+1.0	icty	be into	hague-based	0	0
+1.0	siege	mark	one of chapter of bosnian war	0	NUMBER
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper in hill	PERSON	MISC
+1.0	forces	have	commander	O	O
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper in hill above city during ceasefire	PERSON	MISC
+1.0	prosecutor Alex Whiting	say in	he open statement	PERSON	0
+1.0	Dzenana Sokolovic	be shoot by	Bosnian Serb sniper	PERSON	MISC
+1.0	his	have	prison cell	O	O
+1.0	prosecutor Alex Whiting	have	statement	O	O
+1.0	country	have	population	O	O
+1.0	siege	mark	one darkest chapter	0	NUMBER
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper in hill above city	PERSON	MISC
+1.0	Milosevic 's predecessor	be	sentence in November by UN tribunal	PERSON	DATE
+1.0	Croats	fight for	control	MISC	0
+1.0	Yugoslavia	have	break-up	O	LOCATION
+1.0	siege	mark	one of chapter of war	0	NUMBER
+1.0	they	walk with	they child	0	0
+1.0	crimes	have	counts	O	O
+1.0	Milosevic 's predecessor	be	sentence to life by UN tribunal	PERSON	ORGANIZATION
+1.0	prosecutor Alex Whiting	tell	International Criminal Tribunal	PERSON	ORGANIZATION
+1.0	siege	last until	November 1995	0	DATE
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper in hill above city	PERSON	MISC
+1.0	Dzenana Sokolovic	be	shoot by Bosnian Serb sniper during ceasefire	PERSON	MISC
+1.0	siege	begin in	April 1992	0	DATE
+1.0	capital	have	siege	O	O
+1.0	commander	as predecessor be	Stanislav Galic	0	PERSON
+1.0	territory	have	control	O	O
+1.0	Milosevic 's predecessor	be sentence by	UN tribunal	PERSON	ORGANIZATION
+1.0	Milosevic	be	64	PERSON	NUMBER
+1.0	their	have	children	O	O
+1.0	bosnian serb troops	use	sniper against civilian	0	0
+0.5438011205985701	mark	one	darkest chapter of bosnian war	0	0
+1.0	Milosevic 's predecessor	be	sentence in November to life in prison	PERSON	DATE
+1.0	War crime prosecutor	tell un court on	Thursday	0	DATE
+1.0	siege	have	months	DATE	O
+1.0	he	take	command	0	0
+1.0	serb troops	use	sniper	0	0
+1.0	her	have	children	O	O
+0.5438011205985701	mark	one of	darkest chapter of war	0	0
+1.0	bosnian serb troops	use	sniper	0	0
+1.0	Milosevic 's predecessor	be	sentence in late November to life by UN tribunal	PERSON	DATE
+1.0	Milosevic 's predecessor	be	sentence in late November to life	PERSON	DATE
+0.5438011205985701	mark	one	chapter of bosnian war	0	0
+1.0	2.2 million people	population 's	country	NUMBER	0
+1.0	bosnian serb force	be in	Sarajevo	0	LOCATION
+1.0	Milosevic 's predecessor	be sentence to	life in prison	PERSON	0
+1.0	Dzenana Sokolovic	be	how shoot	PERSON	0
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper in hill	PERSON	MISC
+1.0	people	die during	siege	0	0
+1.0	serb troops	shell	city	0	0
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper in hill during ceasefire	PERSON	MISC
+1.0	television cameras	have	out played	O	O
+1.0	city	have	case	O	O
+1.0	Milosevic 's predecessor	be	sentence in late November by UN tribunal	PERSON	DATE
+1.0	Croats	fight for	control of territory	MISC	0
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper	PERSON	MISC
+1.0	Dzenana Sokolovic	be shoot during	ceasefire	PERSON	0
+0.523883833066404	he	command of	Bosnian Serb force	0	MISC
+0.5438011205985701	mark	one	darkest chapter	0	0
+1.0	Dzenana Sokolovic	be	how shoot in stomach during ceasefire	PERSON	0
+1.0	siege	mark	one of chapter	0	NUMBER
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper in hill during ceasefire	PERSON	MISC
+1.0	bosnian troops	shell	city	0	0
+1.0	bosnian troops	use	sniper	0	0
+1.0	siege	mark	one darkest chapter of bosnian war	0	NUMBER
+1.0	bosnian serb troops	shell	city	0	0
+1.0	Dzenana Sokolovic	be shoot in	stomach	PERSON	0
+1.0	year war	claim at_time	200,000 life	DURATION	NUMBER
+0.5438011205985701	mark	one of	chapter of war	0	0
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper	PERSON	MISC
+1.0	war	have	chapters	O	O
+0.5438011205985701	mark	one of	darkest chapter	0	0
+1.0	Dzenana Sokolovic	be	shoot in stomach during ceasefire	PERSON	0
+1.0	war crimes	have	counts	O	O
+1.0	Dzenana Sokolovic	have	son	O	O
+1.0	three-and-a-half year war	claim at_time	200,000 life	DURATION	NUMBER
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper during ceasefire	PERSON	MISC
+1.0	prosecutor Alex Whiting	say in	he statement	PERSON	0
+1.0	Milosevic 's predecessor	be	sentence in late November to life in prison by UN tribunal	PERSON	DATE
+1.0	siege	mark	one of darkest chapter of war	0	NUMBER
+1.0	they	queue for	bread	0	0
+1.0	Bosnian Serb forces	have	command	O	O
+1.0	Sarajevo	be	Stanislav Galic	LOCATION	PERSON
+1.0	troops	use	sniper against civilian	0	0
+1.0	Dzenana Sokolovic	be	shoot	PERSON	0
+1.0	prosecutor Alex Whiting	tell	International Criminal Tribunal for former Yugoslavia	PERSON	ORGANIZATION
+1.0	Dzenana Sokolovic	be	shoot by Bosnian Serb sniper in hill during ceasefire	PERSON	MISC
+1.0	Bosnian Serb sniper	be in	hill above city	MISC	0
+1.0	Sarajevo	have	resident	LOCATION	0
+1.0	Milosevic 's predecessor	be	sentence	PERSON	0
+1.0	Croats	fight	Serbs	MISC	MISC
+0.5438011205985701	mark	one	chapter of war	0	0
+1.0	siege	mark	one chapter of war	0	NUMBER
+1.0	blockade	be with	its constant	0	0
+0.5438011205985701	mark	one	darkest chapter of war	0	0
+1.0	she	be	tell	0	0
+1.0	place	have	knew	O	O
+1.0	siege	mark	one chapter of bosnian war	0	NUMBER
+1.0	Milosevic 's predecessor	be sentence in	November	PERSON	DATE
+1.0	siege	mark	one chapter	0	NUMBER
+1.0	Dzenana Sokolovic	be	how shoot in stomach by Bosnian Serb sniper during ceasefire	PERSON	MISC
+0.5438011205985701	mark	one of	darkest chapter of bosnian war	0	0
+1.0	Milosevic 's predecessor	be	sentence in November to life by UN tribunal	PERSON	DATE
+1.0	whose	have	people	O	O
+1.0	Dzenana Sokolovic	be	how shoot in stomach	PERSON	0
+1.0	Dzenana Sokolovic	be	shoot by Bosnian Serb sniper in hill above city during ceasefire	PERSON	MISC
+1.0	siege	mark	one darkest chapter of war	0	NUMBER
+1.0	his	have	head	O	O
+1.0	Milosevic 's predecessor	be sentence in	late November	PERSON	DATE
+1.0	War crime prosecutor	tell	UN court	0	ORGANIZATION
+1.0	siege	mark	one of darkest chapter of bosnian war	0	NUMBER
+1.0	bosnian troops	use	sniper against civilian	0	0
+1.0	siege	mark	one of darkest chapter	0	NUMBER
+1.0	troops	use	sniper	0	0
+1.0	Croats	fight	Bosnian Muslims	MISC	MISC
+1.0	people	die during	44-month siege	0	DURATION
+1.0	Milosevic 's predecessor	be	sentence to life in prison by UN tribunal	PERSON	ORGANIZATION
+1.0	Bosnian Serb	have	constant	O	O
+1.0	Milosevic 's predecessor	be	sentence in November to life	PERSON	DATE
+1.0	prosecutor Stefan Waespi	tell	judge	PERSON	0
+1.0	Sarajevo 's	have	civilians	O	LOCATION
+0.5438011205985701	mark	one of	chapter of bosnian war	0	0
+1.0	longest such blockade	be in	Europe	0	LOCATION
+1.0	Milosevic 's predecessor	be	sentence in November to life in prison by UN tribunal	PERSON	DATE
+1.0	troops	shell	city	0	0
+1.0	they	simply walk with	they child	0	0
+0.5438011205985701	mark	one	chapter	0	0
+1.0	attacks	have	campaign	O	O
+1.0	Dzenana Sokolovic	be shoot by	Bosnian Serb sniper in hill above city	PERSON	MISC
+0.5438011205985701	mark	one of	chapter	0	0
+1.0	Milosevic 's predecessor	be	sentence in late November to life in prison	PERSON	DATE
+1.0	Dzenana Sokolovic	be	shoot in stomach by Bosnian Serb sniper in hill during ceasefire	PERSON	MISC
+1.0	chapters	have	one	NUMBER	O
+1.0	Dzenana Sokolovic	be	how shoot by Bosnian Serb sniper in hill	PERSON	MISC

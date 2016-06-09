@@ -1,0 +1,23 @@
+1.0	Moody International	be for	311 million dollar	ORGANIZATION	MONEY
+1.0	Moody	have	acquisition	O	ORGANIZATION
+1.0	debt	have	level	O	O
+1.0	Moody	have	client base	O	ORGANIZATION
+1.0	Statoil	be	Exxon Mobil	ORGANIZATION	ORGANIZATION
+1.0	Moody International	be	british	ORGANIZATION	0
+1.0	continue strong growth	be in	oil sector	0	0
+1.0	Moody	have	client base	ORGANIZATION	0
+1.0	Moody 's client base	include	energy giant BP	ORGANIZATION	ORGANIZATION
+1.0	Chevron	be	Dow Chemicals	ORGANIZATION	ORGANIZATION
+0.781167336963673	global asset manager	base in	Bahrain	0	LOCATION
+1.0	The acquisition of Moody	have	niche positions	O	O
+1.0	Investcorp	of	european private equity team	ORGANIZATION	0
+1.0	continue strong growth	be in	demand	0	0
+1.0	Steven Puccinelli	head of	Investcorp 's european private equity team	PERSON	ORGANIZATION
+1.0	Investcorp	be buy moody from	Close Brothers	ORGANIZATION	ORGANIZATION
+1.0	January	have	end	DATE	DATE
+1.0	BP	be	Royal Dutch Shell	ORGANIZATION	ORGANIZATION
+1.0	equity team	have	head	O	O
+0.781167336963673	asset manager	base in	Bahrain	0	LOCATION
+1.0	Investcorp	be buy	Moody	ORGANIZATION	ORGANIZATION
+1.0	Investcorp	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	Investcorp	have	equity team	O	ORGANIZATION

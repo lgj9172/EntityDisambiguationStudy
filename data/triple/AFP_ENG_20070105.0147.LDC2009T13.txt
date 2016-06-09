@@ -1,0 +1,47 @@
+1.0	Jacques Chirac	one of	fiercest opponent	PERSON	NUMBER
+1.0	it	undermine	stability	0	0
+1.0	war	have	opponents	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	their	have	effects	O	O
+1.0	conflict	provide	breeding ground for terrorism	0	0
+1.0	conflict	provide	new breeding ground	0	0
+1.0	Jacques Chirac	say in	traditional year 's address	PERSON	DATE
+1.0	Jacques Chirac	say in	new year 's address	PERSON	DATE
+1.0	new year 's	in	address	DATE	0
+1.0	Washington 's strategy	be in	Iraq	LOCATION	LOCATION
+1.0	Jacques Chirac	be	French	PERSON	MISC
+1.0	country	fear for	its security	0	0
+1.0	French President Jacques Chirac	warn at_time	Friday	PERSON	DATE
+1.0	Jacques Chirac	say in	year 's address	PERSON	DATE
+1.0	war	have	part	O	O
+1.0	its security	have	security	O	O
+1.0	conflict	provide	dangerous breeding ground for terrorism	0	0
+1.0	region	have	stability	O	O
+1.0	Washington	have	strategy	O	LOCATION
+1.0	prey	rage	sectarian bloodshed	0	0
+1.0	US President George W. Bush	be due at_time	week	LOCATION	DATE
+1.0	Jacques Chirac	say in	broadside launch in 2001 follow September 11 attack	0	DATE
+1.0	conflict	provide	new breeding ground for terrorism	0	0
+1.0	conflict	provide	dangerous new breeding ground for terrorism	0	0
+1.0	Iraq	have	integrity	O	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Year	have	address	O	DATE
+1.0	its security	have	independence	O	O
+1.0	US President George W. Bush	be	due	LOCATION	0
+1.0	Jacques Chirac	say to	corps	PERSON	0
+1.0	opponents	have	one	NUMBER	O
+1.0	Jacques Chirac	say in	broadside	0	0
+1.0	Jacques Chirac	say in	broadside launch	0	0
+1.0	Jacques Chirac	say in	traditional new year 's address	PERSON	DATE
+1.0	US President George W. Bush	announce	major overhaul	LOCATION	0
+1.0	Washington	in	strategy in Iraq	LOCATION	LOCATION
+1.0	conflict	provide	dangerous breeding ground	0	0
+1.0	conflict	provide	breeding ground	0	0
+1.0	Jacques Chirac	tell	assembly	PERSON	0
+1.0	prey	rage	bloodshed	0	0
+1.0	country	now fear for	its security	0	0
+1.0	us-led war	be in	Iraq	0	LOCATION
+1.0	US President George W. Bush	be due at_time	next week	LOCATION	DATE
+1.0	US President George W. Bush	announce	overhaul	LOCATION	0
+1.0	conflict	provide	dangerous new breeding ground	0	0
+1.0	war	be in	Iraq	0	LOCATION

@@ -1,0 +1,63 @@
+1.0	her	have	consent	O	O
+0.9817071596183002	charge	harass	female journalist	0	0
+1.0	newspapers	have	one	NUMBER	O
+0.9817071596183002	charge	harass	journalist	0	0
+1.0	prosecutions	have	director	O	O
+0.9817071596183002	charge	harass journalist at	one of country 's top newspaper	0	NUMBER
+1.0	trial	be	adjourn	0	0
+1.0	Presidential press officer Chikumbutso Mtumodzi	be	accuse	0	0
+0.9817071596183002	charge	sexually harass journalist at	one of country 's top newspaper	0	NUMBER
+1.0	prosecution	present	several witness	0	0
+1.0	journalist	have	breast	O	O
+1.0	director	have	consent	O	O
+1.0	Malawian President Bingu wa Mutharika 's chief press spokesman	go on	Thursday	PERSON	DATE
+0.9817071596183002	charge	sexually harass	female journalist	0	0
+0.9817071596183002	charge	harass journalist at	one of country 's newspaper	0	NUMBER
+1.0	case	have	outline	O	O
+0.9817071596183002	charge	sexually harass	journalist	0	0
+1.0	Bingu wa Mutharika	have	chief press spokesman	PERSON	0
+1.0	complainant	address	court	0	0
+1.0	trial	be adjourn follow	outline of case	0	0
+1.0	court	allow	case	0	0
+0.9817071596183002	charge	harass journalist at	one country 's newspaper	0	NUMBER
+1.0	Titus Mvalo	be lawyer of	Mtumodzi	PERSON	PERSON
+1.0	prosecution	present	witness	0	0
+1.0	Lilongwe	be in	presence of colleague	LOCATION	0
+1.0	prosecution	be	expect	0	0
+0.33669769426858	court	allow	proceed	0	0
+1.0	Mtumodzi	by	lawyer	PERSON	0
+1.0	Malawian President Bingu wa Mutharika 's press spokesman	face	charge	PERSON	0
+1.0	Mtumodzi	have	lawyer	O	PERSON
+1.0	trial	be	follow outline adjourn until Friday	0	DATE
+0.9817071596183002	charge	harass journalist at	one country 's top newspaper	0	NUMBER
+1.0	Presidential press officer Chikumbutso Mtumodzi	touch breast without	she consent	0	0
+1.0	Mtumodzi	's lawyer be	Titus Mvalo	PERSON	PERSON
+1.0	prosecution	be	when expect	0	0
+1.0	trial	be adjourn until	Friday	0	DATE
+1.0	Presidential press officer Chikumbutso Mtumodzi	touch	breast	0	0
+0.9817071596183002	charge	sexually harass journalist at	one country 's top newspaper	0	NUMBER
+1.0	Presidential press officer Chikumbutso Mtumodzi	touch	breast of journalist for nation	0	0
+1.0	Nation	have	offices	O	O
+0.9817071596183002	charge	sexually harass journalist at	one of country 's newspaper	0	NUMBER
+1.0	trial	be	follow outline of case adjourn until Friday	0	DATE
+1.0	Malawian President Bingu wa Mutharika 's chief press spokesman	go on	trial	PERSON	0
+1.0	his	have	client	O	O
+1.0	Presidential press officer Chikumbutso Mtumodzi	touch breast without	daily she consent	0	SET
+1.0	country	of	top newspaper	0	0
+1.0	spokesman	touch	she	0	0
+1.0	Presidential press officer Chikumbutso Mtumodzi	touch	breast of journalist	0	0
+1.0	Nation	at	regional office	0	0
+1.0	colleagues	have	presence	O	O
+1.0	trial	be adjourn follow	brief outline of case	0	0
+1.0	trial	be adjourn follow	outline	0	0
+0.9817071596183002	charge	sexually harass journalist at	one country 's newspaper	0	NUMBER
+1.0	trial	be adjourn follow	brief outline	0	0
+1.0	Bingu wa Mutharika	be 's	Malawian	PERSON	MISC
+1.0	Malawian President Bingu wa Mutharika	have	press spokesman	O	PERSON
+1.0	spokesman	allegedly touch	she	0	0
+1.0	Malawian President Bingu wa Mutharika 's press spokesman	go on	trial	PERSON	0
+1.0	trial	be	follow brief outline adjourn until Friday	0	DATE
+1.0	trial	be	follow brief outline of case adjourn until Friday	0	DATE
+1.0	Malawian President Bingu wa Mutharika 's press spokesman	go on	Thursday	PERSON	DATE
+1.0	country	have	newspapers	O	O
+1.0	Malawian President Bingu wa Mutharika 's chief press spokesman	face	charge	PERSON	0

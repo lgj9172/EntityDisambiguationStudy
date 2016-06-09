@@ -1,0 +1,115 @@
+1.0	Jacques Chirac	express	Paris 's support for Tokyo 's line	PERSON	LOCATION
+1.0	Abe	face question by	british reporter	PERSON	0
+1.0	friction	have	issue	O	O
+1.0	japanese premier	arrive for	talk on North Korea 's nuclear ambition	0	LOCATION
+1.0	premier	arrive in	France Friday on final leg of he tour	0	LOCATION
+1.0	Abe	will have summit meeting follow by	work dinner with french leader	PERSON	0
+1.0	Abe	have	government	O	PERSON
+1.0	Saddam Hussein	have	excecution	PERSON	0
+1.0	Abe	will have summit meeting follow by	dinner with leader	PERSON	0
+1.0	Saddam Hussein	have	excecution	O	PERSON
+1.0	premier	arrive for	talk on North Korea 's nuclear ambition	0	LOCATION
+1.0	premier	arrive in	France Friday on leg of he four-nation tour	0	LOCATION
+1.0	premier	arrive in	France Friday	0	LOCATION
+0.9447445286353227	four prisoner	be	hang	NUMBER	0
+1.0	two man	be in	they 70	NUMBER	0
+1.0	abe	raise	issue of arm embargo	0	0
+1.0	Abe	face question during	he stay	PERSON	0
+1.0	premier	arrive in	France Friday on leg	0	LOCATION
+1.0	japanese premier	arrive in	France Friday on leg of he four-nation european tour	0	LOCATION
+1.0	their	have	70s	O	O
+1.0	japanese premier	arrive in	France Friday on final leg of he four-nation european tour	0	LOCATION
+1.0	Japan	have	use	O	LOCATION
+0.9447445286353227	four prisoner	be hang include	two man	NUMBER	NUMBER
+1.0	Abe 's government	end halt in	execution	PERSON	0
+1.0	Abe	face question on	death penalty	PERSON	0
+1.0	japanese premier	arrive in	France Friday	0	LOCATION
+1.0	France	have	woman president	O	LOCATION
+1.0	Abe	have	government	PERSON	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	his	have	tour	O	O
+1.0	European Union	have	arm embargo against China	ORGANIZATION	LOCATION
+1.0	Abe	will have summit meeting follow by	dinner	PERSON	0
+0.9447445286353227	prisoner	be hang include	two man in they 70	0	NUMBER
+1.0	Abe	face question by	reporter	PERSON	0
+1.0	premier	arrive in	France Friday on final leg of he four-nation tour	0	LOCATION
+1.0	Jacques Chirac	express	Paris 's full support for Tokyo 's line	PERSON	LOCATION
+1.0	Abe	replace	Chirac	PERSON	PERSON
+1.0	Tokyo	for	hard line	LOCATION	0
+1.0	abe	raise issue on	China	0	LOCATION
+1.0	japanese premier	arrive in	France Friday on final leg	0	LOCATION
+1.0	japanese premier	arrive for	talk	0	0
+1.0	Abe	have	stay	O	O
+0.9447445286353227	prisoner	be	hang on Christmas Day include two man	0	NUMBER
+1.0	North Korea	on	nuclear ambition	LOCATION	0
+1.0	premier	arrive in	France Friday on final leg of he four-nation european tour	0	LOCATION
+1.0	each country	have	programme	O	O
+1.0	premier	arrive in	France Friday on leg of he four-nation european tour	0	LOCATION
+1.0	japanese premier	arrive for	talk on North Korea 's ambition	0	LOCATION
+0.9447445286353227	four prisoner	be	hang on Christmas Day include two man	NUMBER	NUMBER
+1.0	arms embargo	have	issue	O	O
+1.0	Abe	will have summit meeting follow by	work dinner	PERSON	0
+1.0	japanese premier	arrive in	France Friday on leg	0	LOCATION
+1.0	japanese premier	arrive in	France Friday on final leg of he four-nation tour	0	LOCATION
+1.0	Jacques Chirac	be expect in	summit	PERSON	0
+1.0	premier	arrive for	talk	0	0
+1.0	Abe	will fly to	Philippines island	PERSON	LOCATION
+1.0	abe	raise	issue	0	0
+1.0	Abe	face question during	he stay in Britain	PERSON	LOCATION
+1.0	crime	have	free	O	O
+0.9447445286353227	four prisoner	be hang on	Christmas Day	NUMBER	DATE
+1.0	japanese premier	arrive in	France Friday on final leg of he tour	0	LOCATION
+1.0	death penalty	have	use	O	O
+1.0	japanese premier	arrive in	France Friday on leg of he four-nation tour	0	LOCATION
+1.0	Paris	have	support	O	LOCATION
+1.0	Jacques Chirac	express	Paris 's full support	PERSON	LOCATION
+1.0	abe	be	likely	0	0
+1.0	japanese premier	arrive in	France Friday on final leg of he european tour	0	LOCATION
+1.0	abe	be likely in addition to	korean	0	0
+1.0	Jacques Chirac	be	expect	PERSON	0
+1.0	Chirac	be in	May	PERSON	DATE
+1.0	its	have	way	O	O
+0.9447445286353227	prisoner	be	hang	0	0
+1.0	abe	be likely in addition to	north korean	0	0
+1.0	premier	arrive in	France Friday on leg of he european tour	0	LOCATION
+1.0	Abe	will have summit meeting follow by	work dinner with leader	PERSON	0
+1.0	work dinner	be with	french leader	0	0
+1.0	Abe	will fly after	France	PERSON	LOCATION
+1.0	premier	arrive for	talk on North Korea 's ambition	0	LOCATION
+1.0	premier	arrive in	France Friday on leg of he tour	0	LOCATION
+1.0	japanese premier	arrive in	France Friday on leg of he european tour	0	LOCATION
+1.0	Paris	have	full support for hard line	LOCATION	0
+1.0	Abe	will have summit meeting follow by	dinner with french leader	PERSON	0
+1.0	Jacques Chirac	express	Paris 's support for Tokyo 's hard line	PERSON	LOCATION
+1.0	Abe	will fly to	Philippines island of Cebu	PERSON	LOCATION
+1.0	Jacques Chirac	be expect in	bilateral summit	PERSON	0
+1.0	Abe	face	question	PERSON	0
+0.9447445286353227	four prisoner	be	hang on Christmas Day include two man in they 70	NUMBER	NUMBER
+1.0	Saddam	have	execution	O	PERSON
+1.0	Tokyo	have	line	O	LOCATION
+1.0	japanese premier	arrive in	France Friday on leg of he tour	0	LOCATION
+1.0	Abe 's government	end	halt	PERSON	0
+1.0	European Union	have	arms embargo	O	ORGANIZATION
+1.0	North Korea	have	weapons programme	O	LOCATION
+1.0	Abe 's government	end	15-month halt	PERSON	DURATION
+1.0	tour	have	leg	O	O
+1.0	Jacques Chirac	express	Paris 's full support for Tokyo 's hard line	PERSON	LOCATION
+1.0	his	have	stay	O	O
+1.0	cooperation	be in	effort	0	0
+1.0	North Korea	have	ambitions	O	LOCATION
+1.0	North Korea	against	nuclear weapon programme	LOCATION	0
+0.9447445286353227	prisoner	be	hang on Christmas Day include two man in they 70	0	NUMBER
+0.9447445286353227	four prisoner	be hang include	two man in they 70	NUMBER	NUMBER
+0.9447445286353227	prisoner	be hang on	Christmas Day	0	DATE
+1.0	French	say	japanese official	MISC	0
+1.0	French	say	official	MISC	0
+1.0	Abe	replace	Chirac in May	PERSON	PERSON
+0.9447445286353227	prisoner	be hang include	two man	0	NUMBER
+1.0	Abe	face	tough question	PERSON	0
+1.0	Cebu	have	Philippines island	O	LOCATION
+1.0	premier	arrive in	France Friday on final leg of he european tour	0	LOCATION
+1.0	Japan	have	continue use of death penalty	LOCATION	0
+1.0	he stay	be in	Britain	0	LOCATION
+1.0	France	have	first woman president	LOCATION	ORDINAL
+1.0	premier	arrive in	France Friday on final leg	0	LOCATION
+1.0	Jacques Chirac	express	Paris 's support	PERSON	LOCATION

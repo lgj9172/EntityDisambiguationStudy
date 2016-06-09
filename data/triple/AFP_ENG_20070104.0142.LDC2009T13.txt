@@ -1,0 +1,51 @@
+1.0	George Yeo	refer by	its formal initial	PERSON	0
+1.0	Singapore	have	George Yeo	LOCATION	PERSON
+1.0	George Yeo	refer by	its initial	PERSON	0
+1.0	Singapore 's foreign minister	say in	letter	LOCATION	0
+1.0	we relation	be	further	0	0
+1.0	Paek	make	he first official visit	PERSON	ORDINAL
+1.0	our	have	relations	O	O
+1.0	George Yeo	say	refer to North Korea by its initial	PERSON	LOCATION
+1.0	Paek	make	he official visit	PERSON	0
+1.0	media	say at_time	Wednesday	0	DATE
+1.0	official media	say at_time	Wednesday	0	DATE
+1.0	Paek	make	he first visit	PERSON	ORDINAL
+1.0	Singapore	have	Foreign Minister George Yeo	PERSON	LOCATION
+1.0	North Korean Foreign Minister Paek Nam-Sun	have	country	O	O
+1.0	he	agree	George Yeo	0	0
+1.0	man	have	death	O	O
+1.0	condolences	have	letter	O	O
+1.0	countries	have	one	NUMBER	O
+1.0	Minister Paek	face of	reclusive communist regime	PERSON	0
+1.0	man	by	death	0	0
+1.0	Singapore	have	minister	O	LOCATION
+1.0	George Yeo	refer to	North Korea	PERSON	LOCATION
+1.0	Singapore	have	foreign minister	LOCATION	0
+1.0	North Korea	have	initials	O	O
+1.0	his	have	visit	O	O
+1.0	Singapore 's minister	say at_time	Thursday	LOCATION	DATE
+1.0	Singapore 's foreign minister	say after	he counterpart 's death	LOCATION	0
+1.0	George Yeo	say	refer by its formal initial	PERSON	0
+1.0	official media	be in	country	0	0
+1.0	Singapore 's minister	say after	he counterpart 's death	LOCATION	0
+1.0	North Korean Foreign Minister Paek Nam-Sun	have	counterpart	O	O
+1.0	Singapore 's foreign minister	say at_time	Thursday	LOCATION	DATE
+1.0	counterpart	have	death	O	O
+1.0	Paek	make	he visit	PERSON	0
+1.0	Singapore	have	friend	O	LOCATION
+1.0	George Yeo	be foreign minister of	Singapore	PERSON	LOCATION
+1.0	Singapore 's minister	say in	letter	LOCATION	0
+1.0	communist regime	have	face	O	O
+1.0	Paek Nam-Sun	be	north korean	PERSON	0
+1.0	Paek	have	wife	O	PERSON
+1.0	counterpart	after	death	0	0
+1.0	George Yeo	be in	letter to Paek 's wife	PERSON	PERSON
+1.0	George Yeo	say	refer by its initial	PERSON	0
+1.0	George Yeo	say	refer to North Korea	PERSON	LOCATION
+1.0	Singapore 's foreign minister	say in	letter of condolence	LOCATION	0
+1.0	our	have	independence	O	O
+1.0	Paek	to	wife	PERSON	0
+1.0	Singapore 's minister	say in	letter of condolence	LOCATION	0
+1.0	George Yeo	say	refer to North Korea by its formal initial	PERSON	LOCATION
+1.0	we bilateral relation	be	further	0	0
+1.0	George Yeo	say	refer	PERSON	0

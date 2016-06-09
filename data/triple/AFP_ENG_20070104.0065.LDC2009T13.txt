@@ -1,0 +1,77 @@
+1.0	Mezzavia	have	towns	O	LOCATION
+1.0	body	be	find after explosion in area in town of Sollaro	0	LOCATION
+1.0	unrest	have	decades	DURATION	O
+1.0	body	be find in	town	0	0
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit	island on Friday	PERSON	DATE
+1.0	Porticco	have	towns	O	LOCATION
+1.0	visit	have	said	O	O
+1.0	bank branch	be in	nearby town of Mezzavia	0	LOCATION
+1.0	explosion	be in	area of holiday villa	0	0
+1.0	bank branch	targett	tax office in main city of Ajaccio	0	LOCATION
+1.0	Nicolas Sarkozy	be minister of	Interior	PERSON	ORGANIZATION
+1.0	Corsica	have	have prey to three decade	LOCATION	DURATION
+1.0	body	be	find after explosion in area of holiday villa in town of Sollaro	0	LOCATION
+1.0	two bank branch	targett	tax office in island 's main city of Ajaccio	0	LOCATION
+1.0	Nicolas Sarkozy	be by	Interior	PERSON	ORGANIZATION
+1.0	two bank	be in	city center	NUMBER	0
+1.0	holiday villa	own by	non	0	0
+1.0	property	be	when vacant	0	0
+1.0	Corsica	have	have prey	LOCATION	0
+1.0	Corsica	have	have prey to three decade of unrest wage by movement	LOCATION	DURATION
+1.0	Corsica	have	have prey to three decade of unrest wage by several movement	LOCATION	DURATION
+1.0	body	be	find after explosion in northern town of Sollaro	0	LOCATION
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit island on	development	PERSON	0
+1.0	bomb attack	target	building associate with french rule	0	0
+1.0	security official	say of	visit	0	0
+1.0	body	be find in	northern town of Sollaro	0	LOCATION
+1.0	security official	say by	Interior Minister Nicolas Sarkozy to mediterranean island	0	PERSON
+1.0	security official	be in	Ajaccio	0	LOCATION
+1.0	security official	say by	Interior Minister Nicolas Sarkozy to french island	0	PERSON
+1.0	security official	say by	Interior Minister Nicolas Sarkozy to island	0	PERSON
+1.0	body	be find after	explosion in area of holiday villa	0	0
+1.0	security official	say of	ahead visit	0	0
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	be	set	PERSON	0
+1.0	bomb attack	target	building associate	0	0
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit island for	meeting with official	PERSON	0
+1.0	island	have	tourist trade	O	O
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit island for	meeting with local official	PERSON	0
+1.0	security officials	have	front	O	O
+1.0	two bank branch	targett	tax office in main city of Ajaccio	0	LOCATION
+1.0	bomb attack	target	building associate with rule	0	0
+1.0	body	be	find after explosion in area in northern town	0	0
+1.0	body	be	find after explosion in area in northern town of Sollaro	0	LOCATION
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit island for	meeting	PERSON	0
+1.0	bomb attack	usually target	building associate with rule	0	0
+1.0	body	be	find after explosion in area of holiday villa in town	0	0
+1.0	property	be	vacant	0	0
+1.0	body	be	find after explosion in area in town	0	0
+1.0	body	be	find after explosion in town of Sollaro	0	LOCATION
+1.0	body	be	find after explosion in town	0	0
+1.0	bomb attack	target	building	0	0
+1.0	one	have	body	O	NUMBER
+1.0	bank branch	targett	tax office in island 's main city of Ajaccio	0	LOCATION
+1.0	bomb attack	usually target	building associate	0	0
+1.0	meeting	be with	local official	0	0
+1.0	body	be find after	explosion in area	0	0
+1.0	body	be	find after explosion in northern town	0	0
+1.0	Corsica	have	have prey to three decade of unrest wage by several separatist movement	LOCATION	DURATION
+1.0	security official	say by	Interior Minister Nicolas Sarkozy to french mediterranean island	0	PERSON
+1.0	security official	say by	Interior Minister Nicolas Sarkozy	0	PERSON
+1.0	body	be	find	0	0
+1.0	island	have	city	O	O
+1.0	bomb attack	usually target	building associate with french rule	0	0
+1.0	Corsica	have	have prey to three decade of unrest wage	LOCATION	DURATION
+1.0	body	be find after	explosion	0	0
+1.0	Corsica	have	have prey to three decade of unrest wage by separatist movement	LOCATION	DURATION
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit	island	PERSON	0
+1.0	body	be find in	northern town	0	0
+1.0	body	be	find after explosion in area of holiday villa in northern town	0	0
+1.0	bomb attack	usually target	building	0	0
+1.0	Ajaccio	have	city	O	LOCATION
+1.0	Interior Minister Nicolas Sarkozy to the French Mediterranean island	visit island on	rural development	PERSON	0
+1.0	body	be find in	town of Sollaro	0	LOCATION
+1.0	body	be	find after explosion in area of holiday villa in northern town of Sollaro	0	LOCATION
+1.0	holiday villas	have	area	O	O
+1.0	Sollaro	have	town	O	LOCATION
+1.0	security official	say at_time	Thursday	0	DURATION
+1.0	Corsica	have	have prey to three decade of unrest	LOCATION	DURATION

@@ -1,0 +1,50 @@
+1.0	I	think in	case	0	0
+1.0	Umpire Daryl Harper	have	get	0	0
+1.0	dress room	be with	Harper 's reminder	0	PERSON
+1.0	nothing	be	say	0	0
+1.0	four time	be in	first	NUMBER	ORDINAL
+1.0	he	be get	responsible	0	0
+1.0	boo	be in	delay	0	0
+1.0	boo	be in	delay Ganguly go to wicket	0	PERSON
+1.0	he	face within	three minute of previous wicket fall	0	DURATION
+1.0	african player	ask	umpire Harper	0	PERSON
+1.0	african player	ask	umpire Harper about rule	0	PERSON
+1.0	Umpire Daryl Harper	get	ready	0	0
+1.0	Harper	with	reminder	PERSON	0
+1.0	dismissal	have	form	O	O
+1.0	India	have	wicket	O	LOCATION
+1.0	he	be	get	0	0
+1.0	player	ask	umpire Harper	0	PERSON
+1.0	India	of	second wicket	LOCATION	ORDINAL
+1.0	he	be get	responsible for he action	0	0
+1.0	wicket	have	minutes	DURATION	O
+1.0	Murray Brown	be	fourth	PERSON	ORDINAL
+1.0	he	be get	responsible for he own action	0	0
+1.0	south african player	ask	umpire Harper	0	PERSON
+1.0	boo	be in	delay Ganguly go	0	PERSON
+1.0	conditions	have	aware	O	O
+0.13481432134008006	umpire Harper	african player	Asad Rauf	PERSON	PERSON
+1.0	south african player	ask	umpire Harper about rule	0	PERSON
+1.0	Marais Erasmus	be	third	PERSON	ORDINAL
+1.0	Ganguly	have to	pad in hurry	PERSON	0
+1.0	pad	be in	hurry	0	0
+1.0	Umpire Daryl Harper	say at_time	Friday	PERSON	DATE
+1.0	my	have	tracksuit	O	O
+0.5921383117934866	Ganguly	go to	wicket	PERSON	0
+0.13481432134008006	umpire Harper	south african player	Asad Rauf	PERSON	PERSON
+1.0	South Africa	have	innings	O	LOCATION
+1.0	Sachin Tendulkar	have	position	O	O
+1.0	Sourav Ganguly	have	field	O	PERSON
+1.0	I	think in	most case	0	0
+1.0	player	ask	umpire Harper about rule	0	PERSON
+1.0	Ganguly	have to	pad	PERSON	0
+1.0	Test	have	day	DATE	O
+1.0	innings	have	end	O	O
+1.0	his	have	actions	O	O
+1.0	wicket	have	fall	DATE	O
+1.0	their	have	minds	O	O
+0.13481432134008006	umpire Harper	player	Asad Rauf	PERSON	PERSON
+1.0	player	leave	field	0	0
+1.0	he could bat	be in	he usual position	0	0
+1.0	nothing	would need	say	0	0
+1.0	Harper	have	reminder	O	PERSON

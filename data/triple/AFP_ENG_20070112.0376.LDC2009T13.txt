@@ -1,0 +1,27 @@
+1.0	alliance 's role	be in	serbian province of Kosovo	0	LOCATION
+1.0	their	have	talks	O	O
+1.0	they talk	meeting between	two	0	NUMBER
+1.0	NATO	have	mission in Afghanistan	ORGANIZATION	LOCATION
+1.0	NATO 's mission in Afghanistan	have	ambitious	O	O
+1.0	New US Defense Secretary Robert Gates	be	swear	PERSON	0
+1.0	NATO	have	mission	O	ORGANIZATION
+1.0	Kosovo	have	province	O	LOCATION
+1.0	New US Defense Secretary Robert Gates	visit nato headquarters in	Brussels Monday for talk with Secretary General Jaap de Hoop Scheffer	PERSON	PERSON
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	New US Defense Secretary Robert Gates	visit nato headquarters in	Brussels Monday for talk with Secretary General Jaap Hoop Scheffer	PERSON	PERSON
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION
+1.0	their	have	discussions	O	O
+1.0	alliance	announce at_time	Friday	0	DATE
+1.0	NATO 's mission	also figure	alliance 's role in serbian province of Kosovo	ORGANIZATION	LOCATION
+1.0	alliance	have	role	O	O
+1.0	alliance	have	role in serbian province of Kosovo	0	LOCATION
+1.0	New US Defense Secretary Robert Gates	visit nato headquarters in	Brussels Monday for talk	PERSON	DATE
+1.0	New US Defense Secretary Robert Gates	visit	NATO headquarters	PERSON	ORGANIZATION
+1.0	NATO 's mission	be in	Afghanistan	ORGANIZATION	LOCATION
+1.0	NATO 's mission	figure	alliance 's role in serbian province of Kosovo	ORGANIZATION	LOCATION
+1.0	they	talk	first official meeting between two	0	ORDINAL
+1.0	NATO defence ministers	have	meeting	O	O
+1.0	talk	be with	Jaap de Hoop Scheffer	0	PERSON
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	New US Defense Secretary Robert Gates	visit nato headquarters in	Brussels Monday	PERSON	DATE
+1.0	New US Defense Secretary Robert Gates	be swear in	in December 18	PERSON	DATE

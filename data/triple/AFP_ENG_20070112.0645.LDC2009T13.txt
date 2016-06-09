@@ -1,0 +1,44 @@
+1.0	Haruhiko Kuroda	speak on	sideline of summit of 10-member association	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent slightly down	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of 10-member association of asian nation	PERSON	ORGANIZATION
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	percent	have	estimates	O	PERCENT
+1.0	Haruhiko Kuroda	speak on	sideline of summit of 10-member association of southeast asian nation	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak on	sideline of summit of 10-member association of asian nation	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent down on estimate	LOCATION	PERCENT
+1.0	summit	have	sidelines	O	O
+1.0	Association	have	summit	O	ORGANIZATION
+1.0	US growth	be	2.0 percent	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak on	sideline of summit	PERSON	ORGANIZATION
+1.0	the United States	be	stable	0	0
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of association of southeast asian nation	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak here on	sideline	PERSON	0
+1.0	2006	have	quarter	DATE	DATE
+1.0	Haruhiko Kuroda	speak on	sideline of summit of association of southeast asian nation	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of association	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak on	sideline	PERSON	0
+1.0	US growth	be	2.0 percent down on estimate of 2.2 percent	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak on	sideline of summit of association	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent down on earlier estimate of 2.2 percent	LOCATION	PERCENT
+1.0	US growth	be	2.0 percent slightly down on estimate of 2.2 percent	LOCATION	PERCENT
+1.0	US growth	be	2.0 percent down on earlier estimate	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of 10-member association of southeast asian nation	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of association of asian nation	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent slightly down on earlier estimate	LOCATION	PERCENT
+1.0	strong growth	be in	the United States	0	LOCATION
+1.0	president	say at_time	Saturday	0	DATE
+1.0	US growth	be in	the third quarter of 2006	LOCATION	DATE
+1.0	Asian Development Bank	of president be	the Asian Development Bank	ORGANIZATION	ORGANIZATION
+1.0	the United States	be	economy	0	0
+1.0	Haruhiko Kuroda	speak here on	sideline of summit	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak on	sideline of summit of association of nation	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent slightly down on earlier estimate of 2.2 percent	LOCATION	PERCENT
+1.0	the United States	be	stable economy	0	0
+1.0	Haruhiko Kuroda	speak on	sideline of summit of 10-member association of nation	PERSON	ORGANIZATION
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of 10-member association	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent slightly down on estimate	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of 10-member association of nation	PERSON	ORGANIZATION
+1.0	Asian Development Bank	have	president	O	ORGANIZATION
+1.0	Haruhiko Kuroda	speak here on	sideline of summit of association of nation	PERSON	ORGANIZATION
+1.0	US growth	be	2.0 percent down	LOCATION	PERCENT
+1.0	Haruhiko Kuroda	speak on	sideline of summit of association of asian nation	PERSON	ORGANIZATION

@@ -1,0 +1,32 @@
+1.0	chairman	warn at_time	Thursday	0	DATE
+1.0	US Senator Joseph Biden	warn	Secretary	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	State Condoleezza Rice at a committee hearing	generate here	constitutional confrontation	PERSON	0
+1.0	State Condoleezza Rice at a committee hearing	generate confrontation in	the Senate Foreign Relations Committee	PERSON	ORGANIZATION
+1.0	US President George W. Bush	should send us troops across	Iraq border	0	LOCATION
+1.0	State Condoleezza Rice at a committee hearing	generate	constitutional confrontation	PERSON	0
+1.0	US Senator Joseph Biden	have	response	0	0
+1.0	US Senator Joseph Biden	have response from	State Department	0	ORGANIZATION
+1.0	State Condoleezza Rice at a committee hearing	generate	confrontation	PERSON	0
+1.0	US Senator Joseph Biden	have	legal response	0	0
+1.0	US President George W. Bush	should send	US troops	0	LOCATION
+1.0	US Senator Joseph Biden	run for	presidency in 2008	0	DATE
+1.0	US President George W. Bush	risk fight with	Congress	LOCATION	ORGANIZATION
+1.0	US President George W. Bush	should send us troops into	Iran	0	LOCATION
+1.0	Joseph Biden	be	US	PERSON	LOCATION
+1.0	State Condoleezza Rice at a committee hearing	generate confrontation here in	the Senate Foreign Relations Committee	PERSON	ORGANIZATION
+1.0	Condoleezza Rice	be of	the State Department	PERSON	ORGANIZATION
+1.0	US Senator Joseph Biden	run for	presidency	0	0
+1.0	presidency	be in	2008	0	DATE
+1.0	president	have	plan	O	O
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	Senate Foreign Relations Committee	have	chairman	O	ORGANIZATION
+1.0	Joseph Biden	be senator of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	State Condoleezza Rice at a committee hearing	generate here	confrontation	PERSON	0
+1.0	US Senator Joseph Biden	warn secretary on	president 's plan	LOCATION	0
+1.0	US Senator Joseph Biden	make	it confrontation	0	0
+1.0	president	on	plan send to Iraq	0	LOCATION
+1.0	US President George W. Bush	risk	fight	LOCATION	0
+1.0	US President George W. Bush	risk	major fight	LOCATION	0
+1.0	force	have	use	O	O

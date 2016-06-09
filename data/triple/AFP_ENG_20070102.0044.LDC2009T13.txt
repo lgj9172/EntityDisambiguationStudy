@@ -1,0 +1,21 @@
+1.0	plant	be in	southern chinese city of Shenzhen	0	LOCATION
+0.6947614824286783	branch	establish within	foreign-funded company	0	0
+1.0	year	have	end	DATE	DATE
+1.0	All-China Federation of Trade union	of federation be	only legal trade union in China	ORGANIZATION	LOCATION
+1.0	state media	say at_time	Tuesday	0	DATE
+1.0	China	accord to	trade union law	LOCATION	0
+1.0	Wal-Mart	icon of	american capitalism	ORGANIZATION	0
+1.0	All-China Federation of Trade union	union in	China	ORGANIZATION	LOCATION
+1.0	state media	say follow	push	0	0
+1.0	China	have	trade union law	O	LOCATION
+1.0	state media	say follow	push last year	0	DATE
+1.0	Wal-Mart	establish	one	ORGANIZATION	NUMBER
+1.0	Trade Unions	have	All-China Federation	ORGANIZATION	ORGANIZATION
+1.0	its	have	China headquarters	O	O
+1.0	state media	say follow	push year	0	DATE
+1.0	Wal-Mart	eventually establish	one	ORGANIZATION	NUMBER
+1.0	capitalism	have	icon	O	O
+1.0	only legal trade union	be in	China	0	LOCATION
+0.6947614824286783	branch	establish within	company	0	0
+1.0	Shenzhen	have	city	O	LOCATION
+1.0	city	be in	November	0	DATE

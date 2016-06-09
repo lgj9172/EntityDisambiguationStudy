@@ -1,0 +1,5 @@
+1.0	oil	have	deliveries	O	O
+1.0	pipeline company Transneft	have	deputy head	O	ORGANIZATION
+1.0	Interfax news agency	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	trade dispute	have	centre	O	O
+1.0	Belarus	have	direction	O	LOCATION

@@ -1,0 +1,50 @@
+1.0	spat	have disrupt oil supplies to	five EU country	0	NUMBER
+1.0	it	will take	couple of hour	0	DURATION
+1.0	Belarus	have resume transit to	Europe	LOCATION	LOCATION
+1.0	dispute	have	focus	O	O
+1.0	Tomasz Zakrzewski	be	Polish pipeline company PERN	PERSON	ORGANIZATION
+1.0	Belarus	have resume	transit of oil	LOCATION	0
+1.0	Tomasz Zakrzewski	be spokesman of	Polish pipeline company PERN	PERSON	ORGANIZATION
+1.0	Belarus	have resume transit to	western Europe	LOCATION	LOCATION
+1.0	Gomeltransneft-Druzhba pipeline	have	director	O	O
+1.0	bitter dispute	be with	Russia	0	LOCATION
+1.0	oil	have	transfer	O	O
+1.0	Poland	share as soon	first oil shipment	LOCATION	ORDINAL
+1.0	Poland	share oil shipment as soon with	Germany	LOCATION	LOCATION
+1.0	Poland	have	PAP news agency	O	LOCATION
+1.0	Poland	share	oil shipment	LOCATION	0
+1.0	oil exports	have	third	ORDINAL	O
+1.0	it	will take	couple of hour delivery resume	0	DURATION
+1.0	it	will take	couple of hour delivery resume fully	0	DURATION
+1.0	Alexei Kostyuchenko	say accord to	ria-novosti news agency	PERSON	0
+1.0	operator	confirm to	afp	0	0
+1.0	oil	accumulate in	Belarus	0	LOCATION
+1.0	PERN	be	polish	ORGANIZATION	0
+1.0	spat	have disrupt	oil supplies	0	0
+1.0	Poland	share oil shipment with	Germany	LOCATION	LOCATION
+1.0	spat	increase fear on	energy source	0	0
+1.0	Belarus	have resume	transit	LOCATION	0
+1.0	Poland	be to	EU	LOCATION	LOCATION
+1.0	Poland	share oil shipment soon with	Germany	LOCATION	LOCATION
+1.0	spat	increase	fear	0	0
+1.0	Belarus	have resume	transit of russian oil	LOCATION	0
+1.0	Alexei Kostyuchenko	say accord to	news agency	PERSON	0
+1.0	it	will take	couple	0	DURATION
+1.0	Poland	share soon	oil shipment	LOCATION	0
+1.0	supplies	be interrupt by	dispute on Monday	0	DATE
+1.0	Polish Foreign Minister Anna Fotyga	announce earlier	Deputy Economy Minister Piotr Naimski	PERSON	PERSON
+1.0	Poland	share as soon	oil shipment	LOCATION	0
+1.0	Poland	have	PAP news agency quote	LOCATION	ORGANIZATION
+1.0	oil	have	transit	O	O
+1.0	supplies	be interrupt by	dispute	0	0
+1.0	Anna Fotyga	be	Polish	PERSON	MISC
+1.0	spat	increase fear on	russian energy source	0	0
+1.0	supplies	be	interrupt	0	0
+1.0	hours	have	couple	DURATION	DURATION
+1.0	EU oil consumption	have	percent	PERCENT	O
+1.0	Poland	share soon	first oil shipment	LOCATION	ORDINAL
+1.0	Alexei Kostyuchenko	director of	Gomeltransneft-Druzhba pipeline	PERSON	LOCATION
+1.0	Poland	be member of	EU	LOCATION	LOCATION
+1.0	Poland	share	first oil shipment	LOCATION	ORDINAL
+1.0	spat	increase fear over	dependency	0	0
+1.0	Polish Foreign Minister Anna Fotyga	announce	Deputy Economy Minister Piotr Naimski	PERSON	PERSON

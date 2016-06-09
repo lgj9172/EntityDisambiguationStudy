@@ -1,0 +1,106 @@
+1.0	Torino on Saturday	have	chances	O	ORGANIZATION
+1.0	league leader	beat atalanta in	match	0	0
+1.0	the players on the pitch	have	start	O	O
+1.0	Siena	be	Reggina	ORGANIZATION	ORGANIZATION
+1.0	Fiorentina	be	Messina	ORGANIZATION	PERSON
+1.0	his	have	debut	O	O
+1.0	Tuesday	have	Cup	MISC	DATE
+1.0	Simone Barone	be of	italian	PERSON	0
+1.0	strength	have	bit	O	O
+1.0	league leader	beat atalanta in	match before three-week pause	0	DURATION
+1.0	Winter break	can disrupt	team 's momentum	DATE	0
+1.0	Roma	have	record of 11 straight win	ORGANIZATION	NUMBER
+1.0	Tuesday	by	italian Cup	DATE	MISC
+1.0	its winter break	be	difficult	0	0
+1.0	Torino on Saturday	have	chance halt	ORGANIZATION	0
+1.0	the league leaders	have lose	something	0	0
+1.0	Torino	seem	destine for swift return to Serie B.	ORGANIZATION	MISC
+1.0	ac Milan	entertain	Reggina	ORGANIZATION	LOCATION
+1.0	Torino	be on	Saturday	LOCATION	DATE
+1.0	Torino 's chance	have	have hamper by suspension of they international midfielder Simone Barone	ORGANIZATION	PERSON
+1.0	they	be	team	0	0
+1.0	their	have	matches	O	O
+1.0	Roma	be in	second place	ORGANIZATION	ORDINAL
+1.0	Reggina	be at	San Siro	LOCATION	LOCATION
+1.0	its winter break	be difficult game against	Torino on Saturday	0	ORGANIZATION
+1.0	Roma 's	be	expect	ORGANIZATION	0
+1.0	league leader	beat atalanta in	last match before pause	0	0
+1.0	Italy 's top division	have	winter break	O	O
+1.0	the two absentees	cause	upset	0	0
+1.0	Torino	seem	destine for swift return	ORGANIZATION	0
+1.0	their	have	midfielder Simone Barone	PERSON	O
+1.0	its winter break	be	game	0	0
+1.0	league leader	beat	Atalanta	0	ORGANIZATION
+1.0	Hector Cuper	have	the	O	PERSON
+1.0	match	have	AC	ORGANIZATION	O
+1.0	wins	have	record	O	O
+1.0	Inter midfielder Dejan Stankovic	be	confident	PERSON	0
+1.0	Inter Milan	will set	new record	ORGANIZATION	0
+1.0	Torino 's chance	have	have hamper by suspension	ORGANIZATION	0
+1.0	Torino	take from	two point	ORGANIZATION	NUMBER
+1.0	league leader	beat atalanta in	last match before three-week pause	0	DURATION
+1.0	Italy	have	top division	LOCATION	0
+1.0	the two absentees	play at	we best	0	0
+1.0	Torino 's chance	have	have hamper by suspension of they midfielder Simone Barone	ORGANIZATION	PERSON
+1.0	its winter break	be	difficult game	0	0
+1.0	Inter Milan	will set record for	Serie victory	ORGANIZATION	0
+1.0	Torino	seem	destine to Serie B.	ORGANIZATION	MISC
+1.0	league leader	beat atalanta in	last match	0	0
+1.0	we	have that	decisive aggression	0	0
+1.0	he debut	join	2001 champion	0	DATE
+1.0	Dejan Stankovic	be	Inter	PERSON	ORGANIZATION
+1.0	Torino 's chance	have	have hamper	ORGANIZATION	0
+1.0	nante	be from	french	0	0
+1.0	Winter break	can disrupt	win team 's momentum	DATE	0
+1.0	focus	have	bit	O	O
+1.0	Italy	have	division	O	LOCATION
+1.0	its winter break	be game against	Torino on Saturday	0	ORGANIZATION
+1.0	Serb	say	dynamic 28-year-old	MISC	DURATION
+1.0	the league leaders	get	its winter break	0	0
+1.0	Inter Milan	be	Torino	ORGANIZATION	ORGANIZATION
+1.0	Torino 's chance	have	have hamper by suspension of they italian midfielder Simone Barone	ORGANIZATION	PERSON
+1.0	Inter Milan	will set	record	ORGANIZATION	0
+1.0	Torino	seem	destine for return	ORGANIZATION	0
+1.0	Fiorentina	be	Udinese	ORGANIZATION	ORGANIZATION
+1.0	their	have	involvement	O	O
+1.0	Torino	seem	destine	ORGANIZATION	0
+1.0	Roma	be behind	Inter	ORGANIZATION	ORGANIZATION
+1.0	Italy 's division	resume after	its winter break	LOCATION	DATE
+1.0	Torino days	have	charge	O	DURATION
+1.0	we	have that	aggression	0	0
+1.0	Torino 's chance	have	have hamper by suspension of they italian international midfielder Simone Barone	ORGANIZATION	PERSON
+1.0	Torino	seem	destine for return to Serie B.	ORGANIZATION	MISC
+1.0	midfielder Simone Barone	have	suspensions	O	PERSON
+1.0	they	be	well organised team	0	0
+1.0	the two absentees	be	capable	0	0
+1.0	ac Milan	entertain	Reggina at San Siro	ORGANIZATION	LOCATION
+1.0	the league leaders	get back quickly	its winter break	0	0
+1.0	Dejan Stankovic	be midfielder of	Inter	PERSON	ORGANIZATION
+1.0	time	spend at	Bahrain training camp	0	LOCATION
+1.0	Inter midfielder Dejan Stankovic	have	side	O	O
+1.0	Siena	be	Livorno	ORGANIZATION	ORGANIZATION
+1.0	the league leaders	get quickly	its winter break	0	0
+1.0	their	have	coach Alberto Zaccheroni	PERSON	O
+1.0	Fiorentina	be	Roma	ORGANIZATION	ORGANIZATION
+1.0	Siena	be	ac Milan	ORGANIZATION	ORGANIZATION
+1.0	Siena	be	Catania	ORGANIZATION	ORGANIZATION
+1.0	win team	have	momentum	0	0
+1.0	Serb	say	28-year-old	MISC	DURATION
+1.0	they	have	straight	O	O
+1.0	Roma	lie	seven point	ORGANIZATION	NUMBER
+1.0	charge	begin after	after two year	0	DURATION
+1.0	Torino	take from	just two point	ORGANIZATION	NUMBER
+1.0	Inter Milan	will set record for	consecutive Serie victory	ORGANIZATION	0
+1.0	Siena	be	Ascoli	ORGANIZATION	ORGANIZATION
+1.0	they	be	organised team	0	0
+1.0	Roma	have	record	O	ORGANIZATION
+0.7505594627096629	travel	face	Messina	0	PERSON
+1.0	Italy 's top division	resume after	its winter break	LOCATION	DATE
+1.0	they	be	organised	0	0
+1.0	we	be	focus	0	0
+1.0	football	have	began	O	O
+1.0	home crowd	have	support	O	O
+1.0	team	have	momentum	O	O
+1.0	our	have	best	O	O
+1.0	league leader	beat atalanta in	match before pause	0	0
+1.0	results	have	string	O	O

@@ -1,0 +1,49 @@
+1.0	heavy wind	drive temperature to	low Celsius minus 49 fahrenheit	0	MISC
+1.0	Winnipeg	city in	country	LOCATION	0
+1.0	heavy wind	drive temperature to	low Celsius	0	MISC
+1.0	condition	cause frostbite within	10 minute	0	DURATION
+1.0	eastern province	experience weather in	day	0	0
+1.0	several school	close at_time	GMT Friday	0	DATE
+1.0	wind	drive temperature to	Celsius minus 49 fahrenheit	0	MISC
+1.0	heavy wind	drive temperature to	as low Celsius minus 49 fahrenheit	0	MISC
+1.0	school	close in	Manitoba province	0	LOCATION
+1.0	province	experience weather in	day	0	0
+1.0	arctic-cold weather	sweep across	central Canada	0	LOCATION
+1.0	heavy wind	drive temperature to	Celsius minus 49 fahrenheit	0	MISC
+1.0	province	experience weather in	recent day	0	DURATION
+1.0	frostbite	have	risks	O	O
+1.0	coldest big city	be in	country	0	0
+1.0	province	experience	mild weather	0	0
+1.0	eastern province	experience	unseasonably mild weather	0	0
+1.0	risk	be in	condition	0	0
+1.0	her	have	car	O	O
+1.0	school	close at_time	GMT Friday	0	DATE
+1.0	eastern province	experience	weather	0	0
+1.0	province	experience	unseasonably mild weather	0	0
+1.0	heavy wind	drive temperature to	Celsius	0	MISC
+1.0	heavy wind	drive temperature to	as low Celsius	0	MISC
+1.0	weather	sweep at_time	GMT Friday	0	DATE
+1.0	wind	drive temperature to	low Celsius	0	MISC
+1.0	wind	drive temperature to	as low Celsius	0	MISC
+1.0	wind	drive	temperature	0	0
+1.0	condition	cause	frostbite	0	0
+1.0	weather	sweep across	central Canada	0	LOCATION
+1.0	arctic-cold weather	sweep across	Canada	0	LOCATION
+1.0	extreme condition	cause frostbite within	10 minute	0	DURATION
+1.0	arctic-cold weather	sweep at_time	GMT Friday	0	DATE
+1.0	wind	drive temperature to	as low Celsius minus 49 fahrenheit	0	MISC
+1.0	eastern province	experience	mild weather	0	0
+1.0	Environment Canada	publish	weather warning	LOCATION	0
+1.0	their	have	car	O	O
+1.0	wind	drive temperature in	Manitoba	0	LOCATION
+1.0	risk	be in	such condition	0	0
+1.0	extreme condition	cause	frostbite	0	0
+1.0	wind	drive temperature to	low Celsius minus 49 fahrenheit	0	MISC
+1.0	province	experience	weather	0	0
+1.0	weather	sweep across	Canada	0	LOCATION
+1.0	several school	close in	Manitoba province	0	LOCATION
+1.0	heavy wind	drive	temperature	0	0
+1.0	heavy wind	drive temperature in	Manitoba	0	LOCATION
+1.0	wind	drive temperature to	Celsius	0	MISC
+1.0	frostbite	be in	less than 10 minute	0	DURATION
+1.0	eastern province	experience weather in	recent day	0	DURATION

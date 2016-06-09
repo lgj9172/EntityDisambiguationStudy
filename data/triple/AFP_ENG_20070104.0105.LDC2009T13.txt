@@ -1,0 +1,53 @@
+1.0	share	soar at_time	Thursday	0	DATE
+1.0	share	soar on	back	0	0
+1.0	Merck share	top	intraday of 83.85 euro in trading	ORGANIZATION	MONEY
+1.0	business	report	patent drug	0	0
+1.0	share	soar on	stock exchange	0	0
+1.0	it strongest gainer	be in	mid-cap MDAX stock index	0	0
+1.0	business	receive	light	0	0
+1.0	Serono	be of	swiss-based	ORGANIZATION	0
+1.0	german pharmaceutical	sell	its drug business	0	0
+1.0	the Frankfurt stock exchange	gainer in	mid-cap MDAX stock index	0	0
+1.0	share	be in	Merck KGaA	0	ORGANIZATION
+1.0	german pharmaceutical	sell	specialty chemical maker	0	0
+1.0	business	receive	green light	0	0
+1.0	the Frankfurt stock exchange	strongest gainer in	MDAX stock index	0	0
+1.0	Merck share	top	intraday high of 83.85 euro in early trading	ORGANIZATION	MONEY
+1.0	Merck share	top	intraday high of 83.85 euro	ORGANIZATION	MONEY
+1.0	Merck share	top	intraday	ORGANIZATION	0
+1.0	83.85 euro	be in	early trading	MONEY	0
+1.0	Merck 's drug business	book	sale of 1.8 billion euro last year	ORGANIZATION	MONEY
+1.0	pharmaceutical	sell	its drug business	0	0
+1.0	Merck share	top	intraday of 83.85 euro in early trading	ORGANIZATION	MONEY
+1.0	Merck 's drug business	book	sale of 1.8 billion euro	ORGANIZATION	MONEY
+1.0	Merck 's drug business	book	sale	ORGANIZATION	0
+1.0	Merck share	top	intraday of 83.85 euro	ORGANIZATION	MONEY
+1.0	german pharmaceutical	sell	its generic drug business	0	0
+1.0	Handelsblatt	be	daily	ORGANIZATION	SET
+1.0	business	receive light from	family shareholder	0	0
+1.0	share	soar on	back of report	0	0
+1.0	company spokesman	decline	comment	0	0
+1.0	Serono	have	acquisition	O	ORGANIZATION
+1.0	acquisition	have	result	O	O
+1.0	firm	concentrate on	drug	0	0
+1.0	operating profit	have	sales	O	O
+1.0	german firm	concentrate on	patent-protected drug	0	0
+1.0	Merck	have	drug business	O	ORGANIZATION
+1.0	Merck 's drug business	book	sale of 1.8 billion euro year	ORGANIZATION	MONEY
+1.0	euros	have	intraday	O	MONEY
+1.0	the Frankfurt stock exchange	gainer in	MDAX stock index	0	0
+1.0	the Frankfurt stock exchange	strongest gainer in	mid-cap MDAX stock index	0	0
+1.0	euros	have	operating profit	O	MONEY
+1.0	newspaper	quote	company source	0	0
+1.0	german pharmaceutical	consider	specialty chemical maker	0	0
+1.0	euros	have	sales	O	MONEY
+1.0	report	have	back	O	O
+1.0	Merck KGaA	have	drugs business	O	O
+1.0	pharmaceutical	consider	specialty chemical maker	0	0
+1.0	business	have	sale	O	O
+1.0	pharmaceutical	sell	its generic drug business	0	0
+1.0	firm	concentrate on	patent-protected drug	0	0
+1.0	Merck	have	generic drug business	ORGANIZATION	0
+1.0	pharmaceutical	sell	specialty chemical maker	0	0
+1.0	german firm	concentrate on	drug	0	0
+1.0	Merck share	top	intraday high of 83.85 euro in trading	ORGANIZATION	MONEY

@@ -1,0 +1,99 @@
+1.0	Roger Federer	have	event	O	O
+1.0	Federer	lose to	Rafael Nadal in french Open	PERSON	MISC
+1.0	Rebound Ace hardcourts	have	playing	O	O
+1.0	he aura	be in	game	0	0
+1.0	Roger Federer	have	aura	O	O
+1.0	swiss world no. 1	win	four Wimbledon crown	NUMBER	NUMBER
+1.0	His	have	career title count	O	O
+1.0	we	have	school approach	0	0
+1.0	we	hit	thousand	0	0
+1.0	Federer	end at_time	last year	PERSON	DATE
+1.0	Roger Federer	win	year 's opening major	PERSON	DATE
+1.0	it	be	past few year	0	DURATION
+1.0	year	have	prize money of almost 8,500,000 US dollar	DURATION	NUMBER
+1.0	his	have	coach	O	O
+1.0	it	get	interesting	0	0
+1.0	Federer	lose only to	Rafael Nadal	PERSON	PERSON
+1.0	backhands	have	thousands	O	O
+1.0	weeks	have	time	O	DURATION
+1.0	we	hit	thousand of forehand	0	0
+1.0	swiss world no. 1	win	four straight Wimbledon crown	NUMBER	NUMBER
+1.0	Federer	win	three of last year 's	PERSON	NUMBER
+1.0	Federer	win	three of year 's	PERSON	NUMBER
+1.0	swiss world no. 1	have dominate	man 's tennis for three year	NUMBER	NUMBER
+1.0	Federer	lose only to	Rafael Nadal in Open final	PERSON	MISC
+1.0	the next fortight	have	tennis idol	O	O
+1.0	Federer	lose to	Rafael Nadal	PERSON	PERSON
+1.0	My	have	focus	O	O
+1.0	one	adapt at_time	year	0	DATE
+1.0	he	lie	sixth	0	ORDINAL
+1.0	he	lie	sixth on all-time list	0	ORDINAL
+1.0	one	adapt to	heat	0	0
+1.0	majors	have	Grand Slam	MISC	O
+1.0	he	have	win in Melbourne	0	LOCATION
+1.0	Federer	end at_time	year	PERSON	DATE
+1.0	I	enjoy	stuff	0	0
+1.0	Federer	win	three year 's	PERSON	NUMBER
+1.0	swiss world no.	have dominate	man 's tennis	0	0
+1.0	he	lie	sixth on list	0	ORDINAL
+1.0	Federer	lose only to	Rafael Nadal in Open	PERSON	MISC
+1.0	Federer	be	satisfy	PERSON	0
+1.0	sets	have	best	O	O
+1.0	Federer	lose to	Rafael Nadal in french Open final	PERSON	MISC
+1.0	he career title count	stand at	45	0	NUMBER
+1.0	this	be	Grand Slam	0	MISC
+1.0	Roger Federer	have	chances	O	O
+1.0	I	enjoy	on-court stuff	0	0
+1.0	we	have	old school approach	0	0
+1.0	men	have	tennis	O	O
+1.0	game	have	traditions	O	O
+1.0	Roland Garros	have	clay	O	PERSON
+1.0	swiss world no.	win	four Wimbledon crown	0	NUMBER
+1.0	Federer	finish	world no. 1	PERSON	NUMBER
+1.0	court	feel	same	0	0
+1.0	one	adapt at_time	last year	0	DATE
+1.0	Federer	end from	16 final	PERSON	NUMBER
+1.0	Roger Federer	have	Grand Slam titles	O	O
+1.0	I	enjoy most	on-court stuff	0	0
+1.0	year	have	prize money	O	DURATION
+1.0	swiss world no.	win	four straight Wimbledon crown	0	NUMBER
+1.0	Roger Federer	have	tennis immortality	O	O
+1.0	us	have	all	O	O
+1.0	I	be	happy	0	0
+1.0	things	have	lot	O	O
+1.0	swiss world no. 1	have dominate	man 's tennis	NUMBER	0
+1.0	my	have	game	O	O
+1.0	Federer	lose to	Rafael Nadal in Open	PERSON	MISC
+1.0	Lleyton Hewitt	be by	australian	PERSON	0
+1.0	Federer	lose only to	Rafael Nadal in french Open	PERSON	MISC
+1.0	he	first have	win	0	0
+1.0	Federer	lose to	Rafael Nadal in Open final	PERSON	MISC
+1.0	I	enjoy most	stuff	0	0
+1.0	forehands	have	thousands	O	O
+1.0	US dollars	have	prize money	O	O
+1.0	he	win in	Melbourne	0	LOCATION
+1.0	Federer	win	three last year 's	PERSON	NUMBER
+1.0	he	first have	win in Melbourne	0	LOCATION
+1.0	a good one	be	good	0	0
+1.0	year	have	opening	O	DATE
+1.0	Federer	end with	12 title	PERSON	NUMBER
+1.0	he career title count	now stand at	45	0	NUMBER
+1.0	the year	have	opening major	DATE	0
+1.0	Roger Federer	have	preparation	O	O
+1.0	his	have	lifetime total	O	O
+1.0	he	lie	sixth on list behind Pete Sampras '	0	ORDINAL
+1.0	man	have	tennis for three year	0	NUMBER
+1.0	my preparation	have	have different	0	0
+1.0	I	win	Open	0	MISC
+1.0	swiss world no.	have dominate	man 's tennis for three year	0	NUMBER
+1.0	Roger Federer	have	trumpet	O	O
+1.0	he	equal	Bill Tilden	0	PERSON
+1.0	his	have	year	DURATION	O
+1.0	he	lie	sixth on all-time list behind Pete Sampras '	0	ORDINAL
+0.9770709906995485	such	be	he aura in game	0	0
+0.9770709906995485	such	be	he aura	0	0
+1.0	it	be	past year	0	DURATION
+1.0	Roger Federer	win	year 's opening	PERSON	DATE
+1.0	he	have	win	0	0
+1.0	Federer	lose only to	Rafael Nadal in french Open final	PERSON	MISC
+1.0	Rafael Nadal	be in	french Open	PERSON	MISC

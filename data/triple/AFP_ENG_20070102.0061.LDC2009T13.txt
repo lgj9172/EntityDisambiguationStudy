@@ -1,0 +1,52 @@
+1.0	2007	have	casualty	O	DATE
+1.0	soldier	have	death	0	0
+1.0	serviceman	be kill	make	0	0
+1.0	latest fatality	bring	US loss	0	LOCATION
+1.0	attack	take place at_time	Monday	0	DATE
+1.0	latest fatality	bring us loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	fatality	bring us loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	one soldier	wound	three other include interpreter	NUMBER	NUMBER
+1.0	110 serviceman	make	it deadliest month	NUMBER	DURATION
+1.0	110 serviceman	be	kill	NUMBER	0
+1.0	110 serviceman	make	it month for military	NUMBER	DURATION
+1.0	serviceman	make	it deadliest month for military	0	DURATION
+1.0	latest fatality	bring us loss in	Iraq	0	LOCATION
+1.0	vehicles	have	one	NUMBER	O
+1.0	one soldier	wound	three other	NUMBER	NUMBER
+1.0	roadside bomb	explode near	one of they vehicle	0	NUMBER
+1.0	serviceman	make	it month for military	0	DURATION
+1.0	soldier 's death	mark	first US fatality of 2007	0	LOCATION
+1.0	110	month for	military	0	0
+1.0	110	deadliest month for	military	0	0
+1.0	latest fatality	bring us loss accord to	afp count	0	0
+1.0	fatality	bring us loss accord to	afp count	0	0
+1.0	serviceman	make	it month	0	DURATION
+1.0	attack	take	place	0	0
+1.0	110 serviceman	be kill	make	NUMBER	0
+1.0	patrol	conduct	they mission	0	0
+1.0	soldier 's death	mark	US fatality	0	LOCATION
+1.0	110 serviceman	make	it deadliest month for military	NUMBER	DURATION
+1.0	soldier 's death	mark	US fatality of 2007	0	LOCATION
+1.0	latest fatality	bring us loss in	Iraq since March 2003 invasion	0	LOCATION
+1.0	110 serviceman	be kill in	December 2006	NUMBER	DATE
+1.0	fatality	bring us loss to	2,994	0	NUMBER
+1.0	serviceman	be	kill	0	0
+1.0	Baghdad	have	US soldier south	O	LOCATION
+1.0	soldier 's death	mark	first US fatality	0	LOCATION
+1.0	2007	have	US fatality	O	DATE
+1.0	military	report at_time	Tuesday	0	DATE
+1.0	roadside bomb	explode near	one they vehicle	0	NUMBER
+1.0	patrol	be move through	village	0	0
+1.0	fatality	bring	US loss	0	LOCATION
+1.0	fatality	bring us loss accord to	afp count base	0	0
+1.0	residents about the sectarian violence in the area	have	mission	O	O
+1.0	latest fatality	bring us loss to	2,994	0	NUMBER
+1.0	fatality	bring us loss in	Iraq	0	LOCATION
+1.0	fatality	bring us loss in	Iraq since March 2003 invasion	0	LOCATION
+1.0	residents about the sectarian violence in the area	have	vehicles	O	O
+1.0	110 serviceman	make	it month	NUMBER	DURATION
+1.0	serviceman	make	it deadliest month	0	DURATION
+1.0	serviceman	be kill in	December 2006	0	DATE
+1.0	soldier	have	death	O	O
+1.0	latest fatality	bring us loss accord to	afp count base	0	0
+1.0	sectarian violence	be in	area	0	0

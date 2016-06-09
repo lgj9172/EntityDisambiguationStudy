@@ -1,0 +1,49 @@
+1.0	Afmadow	have	localities	O	O
+1.0	Meles	recover	body kill	PERSON	0
+1.0	he	be refer to	strike Monday	0	DATE
+1.0	Al-Qaeda	have	main leader in region	MISC	0
+1.0	he	be refer to	strike in southern Somalia early Monday	0	DATE
+1.0	Monday	have	air strike	O	DATE
+1.0	US military official	say at_time	Wednesday	LOCATION	DATE
+1.0	US military official	deny	report of strike	LOCATION	0
+1.0	he	be refer to	strike in Somalia	0	LOCATION
+1.0	Al-Qaeda 's main leader	be in	region	MISC	0
+1.0	seven	be	unaccounted for	NUMBER	0
+1.0	US official	say at_time	Wednesday	LOCATION	DATE
+1.0	Pentagon spokesman Bryan Whitman	comment on	report	PERSON	0
+1.0	he	be refer to	strike in southern Somalia	0	LOCATION
+1.0	Badade	have	localities	O	LOCATION
+1.0	Meles Zenawi	be	Ethopian	PERSON	MISC
+1.0	Meles	recover	body	PERSON	0
+1.0	Pentagon spokesman Bryan Whitman	refuse	comment	PERSON	0
+1.0	Monday	of	air strike	DATE	0
+1.0	Bryan Whitman	be spokesman of	Pentagon	PERSON	ORGANIZATION
+1.0	air strike	have	scene	O	O
+1.0	attack	have	aware	O	O
+1.0	Al-Qaeda	have	leaders	O	MISC
+1.0	air strike	have	results	O	O
+1.0	Bryan Whitman	be	Pentagon	PERSON	ORGANIZATION
+1.0	report	come from	elder	0	0
+1.0	US official	deny	report of strike	LOCATION	0
+1.0	report	come in	locality	0	DURATION
+1.0	seven	be	unaccounted	NUMBER	0
+1.0	he	be refer to	strike in Somalia early Monday	0	DATE
+1.0	terrorists	have	bodies	O	O
+1.0	US military official	deny	report	LOCATION	0
+1.0	US air strike	have	reports	O	O
+1.0	Meles	recover	body of eight terrorist	PERSON	NUMBER
+1.0	Meles	recover	body of eight terrorist kill in attack	PERSON	NUMBER
+1.0	single air strike	be in	Somalia	DURATION	LOCATION
+1.0	he	be refer to	strike in southern Somalia Monday	0	LOCATION
+1.0	Meles	recover	body of eight terrorist kill	PERSON	NUMBER
+1.0	report	come in	locality of Badade	0	LOCATION
+1.0	he	be refer to	strike early Monday	0	DATE
+1.0	US official	deny	report of second strike	LOCATION	DURATION
+1.0	US official	deny	report	LOCATION	0
+1.0	he	be refer to	strike in Somalia Monday	0	LOCATION
+1.0	he	be refer to	strike	0	0
+1.0	US military official	deny	report of second strike	LOCATION	DURATION
+1.0	Pentagon spokesman Bryan Whitman	refuse	comment on report	PERSON	0
+1.0	strike	have	reports	O	O
+1.0	Meles	recover	body kill in attack	PERSON	0
+1.0	anonymity	have	condition	O	O

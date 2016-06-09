@@ -1,0 +1,16 @@
+1.0	its	have	Mercedes Smart Maybach models	O	O
+1.0	german-us auto giant DaimlerChrysler	say at_time	Friday	ORGANIZATION	DATE
+1.0	Mercedes Smart Maybach models	have	1.26 million	MONEY	O
+1.0	auto giant DaimlerChrysler	say at_time	Friday	ORGANIZATION	DATE
+1.0	year	be with	worldwide sale rise to 1.149 million car	DURATION	NUMBER
+1.0	sale	grow by	four percent	0	PERCENT
+1.0	sale	be in	asia/pacific region	0	0
+1.0	year	be in	history of company	DURATION	0
+1.0	european sale	grow by	four percent	0	PERCENT
+1.0	German-US auto giant DaimlerChrysler	say in	statement	ORGANIZATION	0
+1.0	Mercedes-Benz sale	rise by	11 percent	ORGANIZATION	PERCENT
+1.0	sale	grow to	685,200 unit	0	NUMBER
+1.0	company	have	history	O	O
+1.0	Mercedes-Benz sale	rise to	record	ORGANIZATION	0
+1.0	Mercedes-Benz sale	rise in	US	ORGANIZATION	LOCATION
+1.0	european sale	grow to	685,200 unit	0	NUMBER

@@ -1,0 +1,35 @@
+1.0	he	bribe	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	0	ORGANIZATION
+1.0	court trial	be schedule	last until Friday	0	DATE
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	local league match in June 2005	ORGANIZATION	DATE
+1.0	subordinate court trial	last until	Friday	0	DATE
+1.0	he lawyer Hamidul Haq	tell	afp	PERSON	0
+1.0	former coach	charge	fix	0	0
+1.0	Zulkifli Zainolabidin	be	Paya Lebar-Punggol FC	PERSON	ORGANIZATION
+1.0	Malaysia	have	football team	O	LOCATION
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	local league match	ORGANIZATION	0
+1.0	he	be	accuse	0	0
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	league match in June 2005	ORGANIZATION	DATE
+1.0	former coach	fix in	Singapore	0	LOCATION
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let accord to	charge sheet	ORGANIZATION	0
+1.0	Zulkifli Zainolabidin	be goalkeeper of	Paya Lebar-Punggol FC	PERSON	ORGANIZATION
+1.0	subordinate court trial	be	schedule	0	0
+1.0	court trial	last until	Friday	0	DATE
+1.0	Chow Kwai Lam	have	lawyer Hamidul Haq	PERSON	O
+1.0	court trial	be schedule	last	0	0
+1.0	court trial	be	schedule	0	0
+1.0	local professional league match	be in	June 2005	0	DATE
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	professional league match	ORGANIZATION	0
+1.0	football team	have	coach	O	O
+1.0	former coach	charge	fix in Singapore	0	LOCATION
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	local professional league match in June 2005	ORGANIZATION	DATE
+1.0	subordinate court trial	be schedule	last	0	0
+1.0	Malaysia	of	national football team	LOCATION	0
+1.0	up to five year	be in	prison	DURATION	0
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	league match	ORGANIZATION	0
+1.0	former coach	charge with	match	0	0
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	local professional league match	ORGANIZATION	0
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	let during	professional league match in June 2005	ORGANIZATION	DATE
+1.0	club	have	coach	O	O
+1.0	subordinate court trial	be schedule	last until Friday	0	DATE
+1.0	hearing	have	conclusion	O	O
+1.0	he lawyer Hamidul Haq	tell afp at	conclusion	PERSON	0

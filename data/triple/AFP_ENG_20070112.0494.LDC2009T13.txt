@@ -1,0 +1,60 @@
+0.633593924617174	underlie cognitive impairment	say on	mechanism	0	0
+1.0	monolingual patient	show	evidence of alzheimer 's of dementia	0	0
+1.0	gender	have	effects	O	O
+1.0	delay	be in	onset of symptom of dementia	0	0
+1.0	she research team	examine	record	0	0
+0.9937370469121279	patient	evidence of	of alzheimer	0	0
+1.0	cognitive impairment	say morris freedman on	mechanism	0	0
+1.0	underlie impairment	say	Morris Freedman	0	PERSON
+1.0	immigration	have	effects	O	O
+0.633593924617174	impairment	say on	mechanism	0	0
+1.0	she research team	examine record with	complaint	0	0
+1.0	patient	show	evidence of alzheimer 's	0	0
+1.0	employment	have	effects	O	O
+0.633593924617174	cognitive impairment	say on	mechanism	0	0
+1.0	group	manifest	symptom	0	0
+0.9937370469121279	monolingual patient	evidence of	of alzheimer	0	0
+0.9937370469121279	monolingual patient	evidence of	dementia	0	0
+1.0	monolingual patient	show	evidence	0	0
+1.0	underlie cognitive impairment	say morris freedman on	mechanism	0	0
+1.0	dementia	have	evidence	O	O
+1.0	result	will	will publish in February issue	0	DATE
+1.0	patient	show evidence at	71.4 year	0	DURATION
+1.0	bilingual group	manifest	symptom	0	0
+1.0	impairment	say morris freedman on	mechanism	0	0
+1.0	impairment	say	Morris Freedman	0	PERSON
+1.0	she research team	examine	medical record	0	0
+1.0	patient	show	evidence	0	0
+1.0	bilingual group	manifest symptom at	75.5 year	0	DURATION
+1.0	underlie impairment	say morris freedman on	mechanism	0	0
+1.0	one	throughout	life	NUMBER	0
+1.0	symptoms	have	onset	O	O
+1.0	monolingual patient	show	evidence of dementia	0	0
+1.0	patients	have	records	O	O
+0.633593924617174	underlie impairment	say on	mechanism	0	0
+1.0	result	will	will publish in February issue of Neuropsychologia	0	LOCATION
+1.0	monolingual patient	show evidence on	average	0	0
+1.0	underlie cognitive impairment	say	Morris Freedman	0	PERSON
+1.0	she research team	examine	record of 184 patient	0	NUMBER
+1.0	patient	show	evidence of alzheimer 's of dementia	0	0
+1.0	group	manifest symptom at	75.5 year	0	DURATION
+1.0	patient	show evidence on	average	0	0
+1.0	dementia	have	symptoms	O	O
+1.0	age	have	years	DURATION	O
+1.0	Neuropsychologia	have	February issue	O	LOCATION
+0.9937370469121279	patient	evidence of	dementia	0	0
+1.0	she research team	examine	medical record of 184 patient	0	NUMBER
+1.0	dementia	have	onset	O	O
+1.0	she research team	examine record with	cognitive complaint	0	0
+1.0	Our	have	study	O	O
+1.0	cognitive impairment	say	Morris Freedman	0	PERSON
+1.0	one	have	life	O	NUMBER
+1.0	those who speak only one language	have	research team	O	O
+1.0	patient	show	evidence of dementia	0	0
+1.0	monolingual patient	show	evidence of alzheimer 's	0	0
+1.0	differences education	have	effects	O	O
+1.0	monolingual patient	show evidence at	71.4 year	0	DURATION
+1.0	monolingual patient	show evidence at	71.4 year of age	0	DURATION
+1.0	languages	have	combination	O	O
+1.0	patient	show evidence at	71.4 year of age	0	DURATION
+1.0	result	will	will publish	0	0

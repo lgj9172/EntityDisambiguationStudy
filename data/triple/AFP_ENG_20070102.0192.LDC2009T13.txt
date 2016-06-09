@@ -1,0 +1,124 @@
+1.0	Adam Air	serve	mainly domestic route	PERSON	0
+1.0	lead low-cost carrier	market itself as	boutique airline place	0	0
+1.0	Malaysia	have	Penang	O	LOCATION
+1.0	Boeing 737-400	have send	distress signal	NUMBER	0
+1.0	commander	go to	location	0	0
+1.0	survivors	have	number	O	O
+1.0	it	be	second transport disaster in Indonesia within few day	0	LOCATION
+1.0	Public	have	have repeatedly criticise	0	0
+1.0	company	be low-cost carrier in	indonesian market	0	0
+1.0	commander	contradict	earlier report	0	0
+1.0	Boeing	have send route	distress signal	ORGANIZATION	0
+1.0	carrier	market	itself	0	0
+1.0	low-cost carrier	market itself as	boutique airline place	0	0
+1.0	regional commander	contradict	earlier report	0	0
+1.0	jet	be carry	85 passenger	0	NUMBER
+1.0	Public	have	have repeatedly criticise over they safety record	0	0
+1.0	carrier	market itself as	boutique airline place traditional budget firm	0	0
+1.0	company	be carrier in	indonesian market	0	0
+1.0	Public	have	have criticise	0	0
+1.0	regional military commander	contradict	report	0	0
+1.0	company	be	low-cost	0	0
+1.0	low-cost carrier	market	itself	0	0
+1.0	company	be	low-cost carrier	0	0
+1.0	report	say at_time	early Tuesday	0	DATE
+1.0	technical problem	be with	plane	0	0
+1.0	carrier	market itself as	boutique airline place	0	0
+1.0	Ali	be	Adam Air	PERSON	PERSON
+1.0	carrier	market itself as	boutique airline	0	0
+1.0	Boeing	have send	distress signal	ORGANIZATION	0
+1.0	own Adam Air	begin	operation	PERSON	0
+1.0	West Sulawesi	have	jungle	O	LOCATION
+1.0	local commander	go	police chief	0	0
+1.0	company	be carrier in	competitive market	0	0
+1.0	it	be	transport disaster within day	0	DURATION
+1.0	lead low-cost carrier	market	itself	0	0
+1.0	Adam Air	serve	domestic route	PERSON	0
+1.0	Public	have	have criticise over they safety record	0	0
+1.0	company	be lead carrier in	competitive indonesian market	0	0
+1.0	low-cost carrier	market itself as	boutique airline	0	0
+1.0	Adam Air	serve	route	PERSON	0
+1.0	Public	have	have repeatedly criticise over they poor safety record	0	0
+1.0	own Adam Air	serve	domestic route	PERSON	0
+1.0	commander	go	governor	0	0
+1.0	Adam Air plane	be with	96 passenger include three Americans	MISC	NUMBER
+1.0	command	have	area	O	O
+1.0	it	be	second transport disaster in Indonesia	0	LOCATION
+1.0	jet	be carry	85 passenger include four baby	0	NUMBER
+1.0	jet	be carry	85 adult passenger include four baby	0	NUMBER
+1.0	low-cost carrier	market itself as	boutique airline place traditional budget firm	0	0
+1.0	Adam Air spokesman Ali	name	they	PERSON	0
+1.0	company	be	lead carrier	0	0
+1.0	Adam Air spokesman Ali	tell	AFP	PERSON	ORGANIZATION
+1.0	regional commander	contradict	report	0	0
+1.0	commander	go	police chief	0	0
+1.0	plane	have	wreckage	O	O
+1.0	whose	have	area	O	O
+1.0	Surabaya	be on	Java	LOCATION	LOCATION
+1.0	lead carrier	market itself as	boutique airline place traditional budget firm	0	0
+1.0	it	be	transport disaster in Indonesia within day	0	LOCATION
+1.0	it	be	transport disaster in Indonesia	0	LOCATION
+1.0	company	be lead low-cost carrier in	market	0	0
+1.0	plane wreck	have	sign	O	O
+1.0	lead carrier	market itself as	boutique airline	0	0
+1.0	lead carrier	market itself as	boutique airline place budget firm	0	0
+1.0	jet	be carry	85 adult passenger	0	NUMBER
+1.0	company	be carrier in	competitive indonesian market	0	0
+1.0	whose area	include	Indonesia 's Sulawesi island	0	LOCATION
+1.0	jet	be carry	11 child	0	NUMBER
+1.0	four baby	include passenger be	11 child	NUMBER	NUMBER
+1.0	company	be lead carrier in	indonesian market	0	0
+1.0	miss jet	be carry	85 passenger include four baby	0	NUMBER
+1.0	own Adam Air	serve	route	PERSON	0
+1.0	lead low-cost carrier	market itself as	boutique airline place traditional budget firm	0	0
+1.0	their	have	safety records	O	O
+1.0	own Adam Air	serve	mainly route	PERSON	0
+1.0	lead carrier	market	itself	0	0
+1.0	Adam Air	serve	mainly route	PERSON	0
+1.0	company	be lead carrier in	competitive market	0	0
+1.0	company	be lead low-cost carrier in	indonesian market	0	0
+1.0	company	be lead low-cost carrier in	competitive market	0	0
+1.0	miss jet	be carry	85 passenger	0	NUMBER
+1.0	company	be low-cost carrier in	market	0	0
+1.0	its	have	destinations	O	O
+1.0	company	be low-cost carrier in	competitive market	0	0
+1.0	commander	contradict	report	0	0
+1.0	it	be	transport disaster within few day	0	DURATION
+1.0	report	say at_time	Tuesday	0	DATE
+1.0	company	be lead carrier in	market	0	0
+1.0	second transport disaster	be in	Indonesia	ORDINAL	LOCATION
+1.0	company	be carrier in	market	0	0
+1.0	military commander	contradict	earlier report	0	0
+1.0	it	be	second transport disaster within day	0	ORDINAL
+1.0	lead low-cost carrier	be in	competitive indonesian market	0	0
+1.0	company	be low-cost carrier in	competitive indonesian market	0	0
+1.0	company	be	lead	0	0
+1.0	Adam Air	begin	operation	PERSON	0
+1.0	Indonesia	have	Sulawesi island	O	LOCATION
+1.0	low-cost carrier	market itself as	boutique airline place budget firm	0	0
+1.0	own Adam Air	serve	mainly domestic route	PERSON	0
+1.0	Boeing 737-400	have send route	distress signal	NUMBER	0
+1.0	Public	have	have criticise over they poor safety record	0	0
+1.0	military commander	contradict	report	0	0
+1.0	it	be	second transport disaster within few day	0	ORDINAL
+1.0	local commander	go to	location	0	0
+1.0	company	be lead low-cost carrier in	competitive indonesian market	0	0
+1.0	carrier	market itself as	boutique airline place budget firm	0	0
+1.0	local commander	go	governor	0	0
+1.0	miss jet	be carry	11 child	0	NUMBER
+1.0	company	be	lead low-cost carrier	0	0
+1.0	own Adam Air	begin operation in	2003	PERSON	DATE
+1.0	Adam Air	begin operation in	2003	PERSON	DATE
+1.0	it	be	second transport disaster in Indonesia within day	0	LOCATION
+1.0	lead low-cost carrier	market itself as	boutique airline place budget firm	0	0
+1.0	company	be	carrier	0	0
+1.0	it	be	second transport disaster	0	ORDINAL
+1.0	it	be	transport disaster	0	DURATION
+1.0	Ali	be spokesman of	Adam Air	PERSON	PERSON
+1.0	regional military commander	contradict	earlier report	0	0
+1.0	lead carrier	market itself as	boutique airline place	0	0
+1.0	location	number of	survivor	0	0
+1.0	miss jet	be carry	85 adult passenger	0	NUMBER
+1.0	miss jet	be carry	85 adult passenger include four baby	0	NUMBER
+1.0	it	be	transport disaster in Indonesia within few day	0	LOCATION
+1.0	lead low-cost carrier	market itself as	boutique airline	0	0

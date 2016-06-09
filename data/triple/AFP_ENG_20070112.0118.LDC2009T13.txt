@@ -1,0 +1,79 @@
+1.0	Mounir el Motassadeq	be	find	0	0
+1.0	September 11 2001	attack on	United States	DATE	LOCATION
+1.0	he lawyer	appeal	he sentence	0	0
+1.0	moroccan accomplice	be in	September 11 2001	0	DATE
+1.0	Germany 's highest court	reject attempt by	moroccan accomplice in September 11	LOCATION	DATE
+1.0	Germany 's highest court	reject	attempt	LOCATION	0
+1.0	friend	be with	hijacker	0	0
+1.0	Mounir el Motassadeq	have	lawyers	O	O
+1.0	he	be	sentence by court on Monday	0	DATE
+1.0	he	be	sentence to 15 year by court on Monday	0	DATE
+1.0	he	be sentence by	court in Hamburg	0	LOCATION
+1.0	Germany	have	highest court on Friday	LOCATION	DATE
+1.0	he battle	be	set	0	0
+1.0	he lawyer	turn to	federal court of justice	0	0
+1.0	terror cell	have	members	O	O
+1.0	he lawyer	turn to	federal court	0	0
+1.0	he five-year battle	be	set	DURATION	0
+1.0	Germany	have	court	O	LOCATION
+1.0	Germany 's highest court	reject attempt by	accomplice	LOCATION	0
+1.0	he	be	sentence to 15 year on Monday	0	DATE
+1.0	he	be	sentence to 15 year in prison by court in Hamburg	0	LOCATION
+1.0	Mounir el Motassadeq	know	nothing	0	0
+1.0	members of the Hamburg-based terror cell involved in the suicide attacks	have	whereabouts	O	O
+1.0	justice	have	court	O	O
+1.0	attacks	have	ringleader	O	O
+1.0	crew	hijack	aircraft	0	0
+1.0	he	be	sentence	0	0
+1.0	friend	be with	member of hamburg-based terror cell involve in suicide attack	0	0
+1.0	he battle	be set	continue	0	0
+1.0	passengers	have	deaths	O	O
+1.0	Germany 's court	reject attempt by	accomplice in September 11	LOCATION	DATE
+1.0	crew	hijack	aircraft use	0	0
+1.0	he	be	sentence to 15 year by court in Hamburg	0	LOCATION
+1.0	he	be	sentence by court in Hamburg on Monday	0	LOCATION
+1.0	a Moroccan accomplice in the September 11 , 2001 attacks on the United States	have	verdict	O	O
+1.0	accessory	be in	death of 246 passenger	0	NUMBER
+1.0	he legal battle	be	set	0	0
+1.0	he	be sentence to	15 year in prison	0	DURATION
+1.0	he lawyer	turn to	court	0	0
+1.0	Mounir el Motassadeq	have claim throughout	he passage	PERSON	0
+1.0	Motassadeq 32	have claim throughout	he five-year passage	NUMBER	DURATION
+1.0	15 year	be in	prison	DURATION	0
+1.0	crew	hijack	aircraft use in attack	0	0
+1.0	Mounir el Motassadeq	know nothing about	they plan	0	0
+1.0	Justice	have	European Court	ORGANIZATION	ORGANIZATION
+1.0	he	be	sentence to 15 year in prison on Monday	0	DATE
+1.0	Mounir el Motassadeq	have	passage	O	O
+1.0	friends with the hijackers	have	plans	O	O
+0.04584657021521499	Mounir el Motassadeq	know about	they plan	0	0
+0.8269099657266701	aircraft	use in	attack	0	0
+1.0	he	be sentence by	court	0	0
+1.0	court	be in	Hamburg	0	LOCATION
+1.0	he five-year legal battle	be set	continue	DURATION	0
+1.0	Mounir el Motassadeq	be	friend	0	0
+1.0	he	be	sentence to 15 year in prison by court in Hamburg on Monday	0	LOCATION
+1.0	he five-year legal battle	be	set	DURATION	0
+1.0	Motassadeq 32	have claim throughout	he passage	NUMBER	0
+1.0	Mounir el Motassadeq	be	32	PERSON	NUMBER
+1.0	Germany 's court	reject attempt by	accomplice	LOCATION	0
+1.0	he five-year battle	be set	continue	DURATION	0
+1.0	he	be sentence to	15 year	0	DURATION
+1.0	Germany 's court	reject attempt by	moroccan accomplice	LOCATION	0
+1.0	Germany 's court	reject	attempt	LOCATION	0
+1.0	he	be	sentence to 15 year in prison by court on Monday	0	DATE
+1.0	Mounir el Motassadeq	be friend with	hijacker	0	0
+1.0	Mounir el Motassadeq	have	sentence	O	O
+1.0	cell	have	members	O	O
+1.0	he	be	sentence to 15 year in prison by court	0	DURATION
+1.0	Mounir el Motassadeq	have	battle	O	O
+1.0	he	be sentence on	Monday	0	DATE
+1.0	he legal battle	be set	continue	0	0
+1.0	Germany 's highest court	reject attempt by	accomplice in September 11	LOCATION	DATE
+1.0	he lawyer	turn to	court of justice	0	0
+1.0	he	be	sentence to 15 year by court in Hamburg on Monday	0	LOCATION
+1.0	Germany 's court	reject attempt by	moroccan accomplice in September 11	LOCATION	DATE
+1.0	Mounir el Motassadeq	have claim throughout	he five-year passage	PERSON	DURATION
+1.0	he	be	sentence to 15 year by court	0	DURATION
+0.28455614525752604	he lawyer	turn	appeal	0	0
+1.0	Germany 's highest court	reject attempt by	moroccan accomplice	LOCATION	0

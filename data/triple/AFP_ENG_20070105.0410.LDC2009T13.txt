@@ -1,0 +1,9 @@
+1.0	their	have	marriage	O	O
+1.0	weeks	have	postponement	O	DURATION
+1.0	the registrar	have	husband	O	O
+1.0	ceremony	have	broke	O	O
+1.0	attend ceremony	be in	town of Steyr	0	LOCATION
+1.0	Steyr	have	town	O	LOCATION
+1.0	Oberoesterreichische Nachrichten	say	newspaper	ORGANIZATION	0
+1.0	parties	have	one	NUMBER	O
+1.0	bride	have	entreaties	O	O

@@ -1,0 +1,111 @@
+1.0	party	be	hold	0	0
+1.0	UN	have	October test	O	O
+1.0	his brother Raul on July 31	recover from	surgery	0	0
+1.0	Chinese President Hu Jintao	send	get-well wish	PERSON	0
+1.0	party	be hold across	Caribbean island	0	LOCATION
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in cuban daily granma	PERSON	SET
+1.0	Chinese President Hu Jintao	send	wish	PERSON	0
+0.43448543123510286	message	publish in	official daily granma	0	SET
+1.0	whose	have	country	O	O
+1.0	prosperity for Cuba	have	people	O	O
+1.0	Chinese President Hu Jintao	call for	development of cooperation	PERSON	0
+1.0	ally	mark	anniversary of 1959 cuban revolution	0	DATE
+1.0	ally	mark	48th anniversary	0	ORDINAL
+1.0	Hu Jintao	be	Chinese	PERSON	MISC
+1.0	revolution	have	victory	O	O
+1.0	Chinese President Hu Jintao	send wish to	Fidel Castro	PERSON	PERSON
+1.0	Fidel Castro	say in	statement release	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in granma	PERSON	DATE
+1.0	Castro 80	make	appearance	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in daily granma	PERSON	SET
+1.0	ally	mark	anniversary of 1959 revolution	0	DATE
+1.0	Cuba media	reprint	message from Castro	LOCATION	PERSON
+1.0	Hu Jintao	say	Wen Jiabao	PERSON	PERSON
+1.0	Fidel Castro	make	appearance	PERSON	0
+1.0	revolution	have	anniversary	O	O
+1.0	Fidel Castro	have	brother Raul	PERSON	O
+0.43448543123510286	message	publish in	official cuban granma	0	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in official granma	PERSON	DATE
+0.43448543123510286	message	publish in	official granma	0	0
+1.0	leader	remain at_time	five month	0	DURATION
+1.0	US	say in	message carry	PERSON	0
+1.0	Chinese President Hu Jintao	call	Prime Minister Wen Jiabao	PERSON	PERSON
+1.0	granma	be in	cuban	0	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in cuban granma	PERSON	DATE
+1.0	Castro	under	leadership	PERSON	0
+1.0	sight	have	remained	O	O
+0.43448543123510286	message	publish in	cuban daily granma	0	SET
+1.0	ally	mark	anniversary	0	0
+1.0	US	be leadership of	Castro	PERSON	PERSON
+1.0	Cuba media	reprint	message	LOCATION	0
+1.0	Chinese President Hu Jintao	send wish in	message publish	PERSON	0
+1.0	Cuba media	reprint	write message from Castro	LOCATION	PERSON
+1.0	Fidel Castro	have	recovery	O	O
+1.0	ally	praise	communist leader	0	0
+1.0	Cuba media	write message from	Fidel Castro	LOCATION	PERSON
+1.0	Fidel Castro	from message be	first in two month time	PERSON	ORDINAL
+0.43448543123510286	message	publish in	official cuban daily granma	0	SET
+1.0	Chinese President Hu Jintao	call for	greater development of cuban-chinese cooperation	PERSON	0
+1.0	victory	have	anniversary	O	O
+1.0	Cuba	celebrate at_time	Monday	LOCATION	DATE
+1.0	Cuba media	message from	Fidel Castro	LOCATION	PERSON
+1.0	ally	praise leader in	message	0	0
+1.0	Chinese President Hu Jintao	send wish in	message	PERSON	0
+1.0	Fidel Castro	say in	statement	PERSON	0
+1.0	Cuba media	reprint	first time	LOCATION	ORDINAL
+1.0	Cuba media	reprint	write message	LOCATION	0
+1.0	Fidel Castro	make	public appearance	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish in cuban daily granma	PERSON	SET
+1.0	leader	remain out of	sight	0	0
+1.0	Cuba media	reprint at_time	Monday	LOCATION	DATE
+1.0	Chinese President Hu Jintao	call for	development	PERSON	0
+0.43448543123510286	message	publish in	granma	0	0
+1.0	Cuba	celebrate	anniversary	LOCATION	0
+1.0	recuperation	be	prolonged	0	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in official cuban daily granma	PERSON	SET
+1.0	Chinese President Hu Jintao	send wish in	message publish in official cuban daily granma	PERSON	SET
+1.0	ail leader	remain out of	sight	0	0
+1.0	ail leader	remain at_time	five month	0	DURATION
+1.0	Fidel Castro	be	80	PERSON	NUMBER
+1.0	granma	be in	daily	0	SET
+1.0	cooperation	have	development	O	O
+1.0	Fidel Castro	say in	statement first release Saturday	PERSON	DATE
+0.43448543123510286	message	publish in	cuban granma	0	0
+1.0	Fidel Castro	say in	statement first	PERSON	ORDINAL
+1.0	Castro 80	make	public appearance	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish in daily granma	PERSON	SET
+1.0	cuban revolution	of	victory	0	0
+1.0	Chinese President Hu Jintao	call for	greater development	PERSON	0
+1.0	Castro	have	leadership	O	PERSON
+1.0	people	have	well-being	O	O
+1.0	Kim Jong-Il	be	north korean	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in official daily granma	PERSON	SET
+1.0	the 48th anniversary of the Cuban revolution 's victory	have	conduct	O	O
+1.0	Chinese President Hu Jintao	send wish in	message publish in official daily granma	PERSON	SET
+1.0	Cuba media	reprint	time	LOCATION	0
+1.0	Chinese President Hu Jintao	call for	greater development of cooperation	PERSON	0
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday	PERSON	DATE
+1.0	Chinese President Hu Jintao	send wish in	message publish in official granma	PERSON	0
+1.0	ally	praise	leader	0	0
+1.0	US imperialists	have	blockade	O	O
+1.0	ally	mark	48th anniversary of 1959 revolution	0	DATE
+0.43448543123510286	message	publish	Monday	0	DATE
+1.0	Chinese President Hu Jintao	send wish in	message publish in cuban granma	PERSON	0
+1.0	Cuba	celebrate	48th anniversary	LOCATION	ORDINAL
+1.0	the US imperialists	have	moves	O	O
+1.0	Chinese President Hu Jintao	send	Prime Minister Wen Jiabao	PERSON	PERSON
+1.0	US	say in	message carry by Central News Agency	PERSON	ORGANIZATION
+1.0	Fidel Castro	say in	statement release Saturday	PERSON	DATE
+1.0	Fidel Castro	say in	statement first release	PERSON	ORDINAL
+1.0	Chinese President Hu Jintao	send wish in	message publish in official cuban granma	PERSON	0
+1.0	Hu Jintao	say in	statement	PERSON	0
+1.0	Raul	be on	July 31	PERSON	DATE
+1.0	Chinese President Hu Jintao	send wish in	message publish Monday in official cuban granma	PERSON	DATE
+1.0	ally	mark	48th anniversary of 1959 cuban revolution	0	DATE
+1.0	Havana	have	Revolution Square	LOCATION	LOCATION
+0.43448543123510286	message	publish in	daily granma	0	SET
+1.0	Chinese President Hu Jintao	send wish in	message publish in granma	PERSON	0
+1.0	comrade president	have	health	O	O
+1.0	Chinese President Hu Jintao	call for	development of cuban-chinese cooperation	PERSON	0
+1.0	US	say in	message	PERSON	0
+1.0	Fidel Castro	have	recuperation	O	O

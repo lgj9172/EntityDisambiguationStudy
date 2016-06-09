@@ -1,0 +1,35 @@
+1.0	Shawn Hornbeck	be for	more than four year	PERSON	DURATION
+1.0	police	say at_time	Friday	0	DATE
+1.0	Michael Devlin	be charge with	one count of kidnapping	PERSON	NUMBER
+1.0	Michael Devlin	hold on	one-million-dollar bail	PERSON	NUMBER
+1.0	friend	to	house	0	0
+1.0	Michael Devlin	be charge with	one count	PERSON	NUMBER
+1.0	kidnapping	have	count	O	O
+1.0	Hornbeck , 15	be	last see	PERSON	0
+1.0	Ben Ownby 13	disappear at_time	Monday	PERSON	DATE
+1.0	neighbor	be see	play with friend in neighborhood for year	0	0
+1.0	Ben Ownby	be	13	PERSON	NUMBER
+1.0	neighbor	be see	play with friend in neighborhood	0	0
+1.0	Hornbeck , 15	have	bike	O	O
+1.0	man	have	home	O	O
+1.0	Ben Ownby	disappear at_time	Monday	PERSON	DATE
+1.0	Hornbeck , 15	be	see	PERSON	0
+1.0	neighbor	be see	play	0	0
+1.0	Hornbeck , 15	be	when 11 year old	0	DURATION
+1.0	Michael Devlin	have	son	O	PERSON
+1.0	Michael Devlin	be	charge	PERSON	0
+1.0	Michael Devlin	be	41	PERSON	NUMBER
+1.0	Hornbeck , 15	be	15	PERSON	NUMBER
+1.0	Hornbeck , 15	ride	he bike	PERSON	0
+1.0	His	have	family	O	O
+1.0	neighbor	be see	play with friend	0	0
+1.0	friend	be in	neighborhood for year	0	0
+1.0	area	have	search	O	O
+1.0	friend	have	house	O	O
+1.0	county prosecutor Robert Parks	tell	news conference	PERSON	0
+1.0	Hornbeck , 15	be	when old	0	DURATION
+1.0	neighbor	be	see	0	0
+1.0	Hornbeck , 15	be old	11 year	0	DURATION
+1.0	Michael Devlin	hold on	bail	PERSON	0
+1.0	Hornbeck , 15	be	old	0	DURATION
+1.0	treatment	have	type	O	O

@@ -1,0 +1,82 @@
+1.0	4-0	face	prospect	0	0
+1.0	spell	have	ball	O	O
+1.0	tourist	play spinner with	Jamie Dalrymple	0	PERSON
+1.0	Strauss	be on	when 21	PERSON	NUMBER
+1.0	Glenn McGrath	have	home ground	O	O
+1.0	Shane Warne	be	Glenn McGrath	PERSON	PERSON
+1.0	Matthew Hoggard	be seamer of	England	PERSON	LOCATION
+1.0	England	be	at lunch 58 for one with Alastair Cook on 20	LOCATION	NUMBER
+1.0	it	be second ball of	Lee 's spell	0	PERSON
+1.0	test	get away after	morning rain	0	TIME
+1.0	Strauss	have	dismissal	O	O
+1.0	Ricky Ponting	have	team	PERSON	0
+1.0	Lee	of	second spell	PERSON	ORDINAL
+1.0	sweep	have	ignominy	O	O
+1.0	test	get at_time	70 minute	0	DURATION
+1.0	Australia	have	opening partnership	O	LOCATION
+1.0	nine inning	be in	series	NUMBER	0
+0.7972606605191824	face	prospect of	ash series whitewash in 86 year	0	DURATION
+1.0	cricket	be farewel	test great	0	0
+0.7972606605191824	face	prospect of	first ash series whitewash in 86 year	0	DURATION
+1.0	England vice-captain	be in	out 15th	LOCATION	ORDINAL
+1.0	Glenn McGrath	beat	bat	PERSON	0
+1.0	England vice-captain	trail	4-0	LOCATION	0
+1.0	first ash series whitewash	be in	86 year	ORDINAL	DURATION
+1.0	australian cricket	be farewel	test great	0	0
+1.0	it	be	ball	0	0
+1.0	Justin Langer	slump in	dismay	PERSON	0
+1.0	tourist	go with	paceman James Anderson	0	PERSON
+1.0	Glenn McGrath	play in	he 124th	PERSON	0
+1.0	England vice-captain	be in	15th	LOCATION	ORDINAL
+0.7972606605191824	face	prospect of	first ash series whitewash	0	ORDINAL
+1.0	Strauss	have	off-stump	O	O
+1.0	Justin Langer	have	start	PERSON	0
+1.0	pitch	be in	humid condition	0	0
+1.0	4-0	face	prospect of first ash series whitewash in 86 year	0	DURATION
+1.0	it	be ball of	Lee 's second spell	0	ORDINAL
+1.0	test	get at_time	70 minute late	0	DURATION
+1.0	English batsmen	have	scourge	O	O
+1.0	have match-winner	be in	golden era of australian cricket	0	0
+1.0	Justin Langer	have	poor start	PERSON	0
+1.0	England 's batsman	negotiate seaming condition with	ball	LOCATION	0
+1.0	Test greats	have	Test retirements	O	O
+1.0	England	have	batsman	LOCATION	0
+1.0	tourist	play	extra spinner	0	0
+1.0	England 's batsman	negotiate	seaming condition	LOCATION	0
+1.0	Justin Langer	have	105th	O	O
+1.0	Glenn McGrath	have	124th	O	O
+1.0	Glenn McGrath	bowl beautifully in	he spell	PERSON	0
+0.7972606605191824	face	prospect of	ash series whitewash	0	0
+1.0	test	be with	side strain	0	0
+1.0	Lee	have	spell	O	PERSON
+1.0	it	be	second ball	0	ORDINAL
+1.0	England	be	at lunch 58 for one with Alastair Cook	LOCATION	PERSON
+1.0	Glenn McGrath	bowl in	he spell	PERSON	0
+1.0	Ian Bell	be out	seven	PERSON	NUMBER
+1.0	Matthew Hoggard	be	England	PERSON	LOCATION
+1.0	Australia	of	most prolific opening partnership	LOCATION	0
+1.0	4-0	face	prospect of ash series whitewash	0	0
+1.0	Alastair Cook	be on	20	PERSON	NUMBER
+1.0	it	be second ball of	Lee 's second spell	0	ORDINAL
+1.0	cricket	have	era	O	O
+1.0	England	have	batsmen	O	LOCATION
+1.0	Ricky Ponting 's team	have	chance	PERSON	0
+1.0	Ricky Ponting	have	team	O	PERSON
+1.0	England 's batsman	negotiate seaming condition with	new ball	LOCATION	0
+1.0	test	get away at_time	70 minute	0	DURATION
+1.0	Glenn McGrath	bowl beautifully in	he open spell	PERSON	0
+1.0	test	get after	morning rain	0	TIME
+1.0	opening partnership	have	Langer forms part	O	O
+1.0	Justin Langer	slump to	ground	PERSON	0
+1.0	Glenn McGrath	play in	he 124th at he home ground	PERSON	0
+1.0	Adam Gilchrist	be for	29	PERSON	NUMBER
+1.0	Glenn McGrath	bowl in	he open spell	PERSON	0
+1.0	test	get away at_time	70 minute late	0	DURATION
+1.0	have match-winner	be with	Matthew Hayden	0	PERSON
+1.0	tourist	play	spinner	0	0
+1.0	4-0	face	prospect of ash series whitewash in 86 year	0	DURATION
+1.0	Test	have	out ruled	O	O
+1.0	Glenn McGrath	have	spell	O	O
+1.0	it	be ball of	Lee 's spell	0	PERSON
+1.0	4-0	face	prospect of first ash series whitewash	0	ORDINAL
+1.0	Ashes series whitewash	have	prospect	O	O

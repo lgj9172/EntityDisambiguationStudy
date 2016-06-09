@@ -1,0 +1,98 @@
+1.0	Kazakhstan 's parliament	make	his then-deputy Masimov	LOCATION	PERSON
+1.0	green light	put by	republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	he planning	be in	government	0	0
+1.0	election	be criticise in	OSCE	0	ORGANIZATION
+1.0	strategic location	be in	Central Asia	0	LOCATION
+1.0	34 senator	vote	69 deputy from house	NUMBER	NUMBER
+1.0	ex-soviet republic	by	Nursultan Nazarbayev	0	PERSON
+1.0	cabinet	resign along with	Akhmetov	0	PERSON
+1.0	Kazakhstan	be increasingly attract interest with	oil	LOCATION	0
+1.0	his	have	performance	O	O
+1.0	Danial Akhmetov	come for	he planning in government	PERSON	0
+1.0	country	have	minister	O	O
+1.0	Kazakhstan	be increasingly attract	interest	LOCATION	0
+1.0	34 senator	vote	69 deputy from house of parliament	NUMBER	NUMBER
+1.0	performance	have	criticism	O	O
+1.0	new cabinet	must	must also form	0	0
+1.0	election	be criticise by	observer from Organisation	0	ORGANIZATION
+1.0	cabinet	resign with	Akhmetov	0	PERSON
+1.0	Kazakhstan 's parliament	make	economist	LOCATION	0
+1.0	parliament	have	house	O	O
+1.0	European Union	have	interest	O	ORGANIZATION
+1.0	Danial Akhmetov	come at_time	year	PERSON	DATE
+1.0	his	have	planning	O	O
+1.0	34 senator	vote in	favour	NUMBER	0
+0.4957017604480462	multilingual economist	previously serve as	the new prime minister of the energy-rich Central Asian country	0	0
+1.0	Kazakhstan	be attract interest with	oil	LOCATION	0
+1.0	Kazakhstan 's parliament	make	economist serve	LOCATION	0
+1.0	cabinet	must	must form	0	0
+1.0	elections	have	accusation	O	O
+1.0	34 senator	vote	69 deputy from lower house of parliament	NUMBER	NUMBER
+1.0	votes	have	percent	PERCENT	O
+1.0	previous cabinet	resign with	Akhmetov	0	PERSON
+1.0	light	put forward by	republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	Danial Akhmetov	come under	criticism	PERSON	0
+1.0	the new prime minister of the energy-rich Central Asian country	minister of	energy-rich central asian country	0	0
+1.0	green light	put forward by	ex-soviet republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	new cabinet	must	must form	0	0
+1.0	Danial Akhmetov	come for	he planning	PERSON	0
+1.0	Kazakhstan 's parliament	make	economist serve as deputy premier	LOCATION	0
+1.0	light	put by	republic 's powerful President Nursultan Nazarbayev	0	PERSON
+0.4957017604480462	economist	previously serve as	the new prime minister of the energy-rich Central Asian country	0	0
+1.0	Kazakhstan 's parliament	make	multilingual economist previously serve as deputy premier	LOCATION	DATE
+1.0	34 senator	vote	69 deputy	NUMBER	NUMBER
+1.0	China	have	interest	O	LOCATION
+1.0	Kazakhstan	be attract	interest of China	LOCATION	LOCATION
+1.0	Organisation for Security and Cooperation in Europe	be from	western-led	ORGANIZATION	0
+1.0	light	put by	republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	Kazakhstan	be attract	interest	LOCATION	0
+1.0	new cabinet	must	must now form	0	DATE
+1.0	Danial Akhmetov	come at_time	last year	PERSON	DATE
+1.0	previous cabinet	resign along with	Akhmetov	0	PERSON
+1.0	green light	put forward by	republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	light	put by	ex-soviet republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	the ex-Soviet republic 's powerful President Nursultan Nazarbayev	have rule	Kazakhstan since Soviet time	PERSON	LOCATION
+1.0	Kazakhstan 's parliament	make	economist previously serve	LOCATION	DATE
+1.0	green light	put forward by	republic 's President Nursultan Nazarbayev	0	PERSON
+0.4957017604480462	multilingual economist	serve as	the new prime minister of the energy-rich Central Asian country	0	0
+1.0	Danial Akhmetov	have serve since	June 2003	PERSON	DATE
+1.0	Kazakhstan	be attract interest with	major oil	LOCATION	0
+1.0	Kazakhstan	be increasingly attract interest with	major oil	LOCATION	0
+1.0	Kazakhstan 's parliament	make	multilingual economist	LOCATION	0
+1.0	green light	put by	ex-soviet republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	doctorate	be in	economics	0	0
+1.0	election	be criticise by	observer from western-led Organisation	0	ORGANIZATION
+1.0	Kazakhstan 's parliament	make	multilingual economist serve as deputy premier	LOCATION	0
+1.0	Kazakhstan	have	parliament	O	LOCATION
+1.0	Kazakhstan	be increasingly attract	interest of China	LOCATION	LOCATION
+1.0	his	have	Masimov	PERSON	O
+1.0	election	be criticise by	observer from western-led Organisation for Security	0	ORGANIZATION
+1.0	Russia	have	interest	O	LOCATION
+1.0	the ex-Soviet republic 's powerful President Nursultan Nazarbayev	have rule	Kazakhstan	PERSON	LOCATION
+1.0	Kazakhstan 's parliament	make	multilingual economist previously serve	LOCATION	DATE
+1.0	Kazakhstan 's parliament	vote at_time	Wednesday	LOCATION	DATE
+1.0	United States	have	interest	O	LOCATION
+1.0	Kazakhstan 's parliament	make	economist previously serve as deputy premier	LOCATION	DATE
+1.0	Kazakhstan 's parliament	make	multilingual economist serve	LOCATION	0
+1.0	election	be criticise by	observer	0	0
+1.0	cabinet	must	must also now form	0	DATE
+1.0	planning	have	control	O	O
+1.0	Kazakhstan	have	parliament	LOCATION	0
+1.0	election	be	criticise	0	0
+1.0	election	be criticise by	observer from Organisation for Security	0	ORGANIZATION
+1.0	cabinet	must	must now form	0	DATE
+1.0	Kazakhstan 's parliament	vote unanimously at_time	Wednesday	LOCATION	DATE
+1.0	green light	put by	ex-soviet republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	new cabinet	must	must also now form	0	DATE
+1.0	light	put forward by	ex-soviet republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	light	put forward by	ex-soviet republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	34 senator	vote	69 deputy from lower house	NUMBER	NUMBER
+1.0	republic	have	President Nursultan Nazarbayev	PERSON	O
+1.0	cabinet	must	must also form	0	0
+1.0	light	put forward by	republic 's President Nursultan Nazarbayev	0	PERSON
+0.4957017604480462	economist	serve as	the new prime minister of the energy-rich Central Asian country	0	0
+1.0	the ex-Soviet republic 's powerful President Nursultan Nazarbayev	turn	it	PERSON	0
+1.0	green light	put by	republic 's President Nursultan Nazarbayev	0	PERSON
+1.0	green light	put forward by	ex-soviet republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	light	put by	ex-soviet republic 's powerful President Nursultan Nazarbayev	0	PERSON
+1.0	Danial Akhmetov	come under	criticism from Nazarbayev	PERSON	PERSON

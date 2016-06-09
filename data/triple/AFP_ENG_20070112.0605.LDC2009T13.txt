@@ -1,0 +1,25 @@
+1.0	Mukai	have	identity	PERSON	0
+1.0	forensic expert	be wait for	dental record from japanese embassy in Bogota	0	LOCATION
+1.0	Shingo Mukai	be	japanese	PERSON	0
+1.0	forensic expert	be wait for	dental record	0	0
+1.0	japanese embassy	be in	Bogota	0	LOCATION
+1.0	forensic expert	be wait for	record	0	0
+1.0	forensic expert	confirm	Mukai 's identity	0	PERSON
+1.0	Mukai , 31	be	31	PERSON	NUMBER
+1.0	forensic expert	be wait for	record from embassy	0	0
+1.0	Cartagena	have	city	O	LOCATION
+1.0	Nicolas Curi	be mayor of	Cartagena	PERSON	LOCATION
+1.0	forensic expert	be wait for	record from japanese embassy in Bogota	0	LOCATION
+1.0	forensic expert	be wait for	dental record from japanese embassy	0	0
+1.0	river	be in	Caribbean city	0	LOCATION
+1.0	river	have	mouth	O	O
+1.0	taxi	have	bolting	O	O
+1.0	Nicolas Curi	be	Cartagena	PERSON	LOCATION
+1.0	forensic expert	be wait for	dental record from embassy	0	0
+1.0	forensic expert	be wait for	record from japanese embassy	0	0
+1.0	taxi	be in	panic attack	0	0
+1.0	mayor	say at_time	Friday	0	DATE
+1.0	Mukai	have	identity	O	PERSON
+1.0	forensic expert	be wait for	dental record from embassy in Bogota	0	LOCATION
+1.0	Mukai , 31	have	neck	O	O
+1.0	forensic expert	be wait for	record from embassy in Bogota	0	LOCATION

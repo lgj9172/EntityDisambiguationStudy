@@ -1,0 +1,38 @@
+1.0	China	have	landmass	O	LOCATION
+1.0	other ecological change	report on	Friday	0	DATE
+1.0	Qinghai	have	provinces	O	LOCATION
+1.0	People	have	Daily	ORGANIZATION	ORGANIZATION
+1.0	mountainous region 's glacier	cite	study of region	ORGANIZATION	0
+1.0	China	of	landmass	LOCATION	0
+1.0	area	have	glacier	0	0
+1.0	ecological change	report on	Friday	0	DATE
+1.0	region 's glacier	cite	study of region	ORGANIZATION	0
+1.0	China Aero Geophysical Survey	have	Remote Sensing Department	ORGANIZATION	ORGANIZATION
+1.0	world climate conditions	have	barometer	O	O
+1.0	area	have	glaciers	O	O
+1.0	Himalayas	have	portion	O	LOCATION
+1.0	change	report on	Friday	0	DATE
+1.0	kilometres	have	rate	O	O
+1.0	region 's glacier	cite	geological study	ORGANIZATION	0
+1.0	other change	report on	Friday	0	DATE
+1.0	Yunnan	have	provinces	O	LOCATION
+1.0	region	have	study	O	O
+1.0	landmass	have	quarter	DURATION	O
+1.0	mountainous region 's glacier	cite	geological study of region	ORGANIZATION	0
+1.0	region 's glacier	cite	geological study of region	ORGANIZATION	0
+1.0	further	deplete	area 's water resource	0	0
+1.0	China	have	Tibet plateau	O	LOCATION
+1.0	impact	have	assessment	O	O
+1.0	Remote Sensing Department	be of	China Aero Geophysical Survey	ORGANIZATION	ORGANIZATION
+1.0	region 's glacier	cite	study	ORGANIZATION	0
+1.0	area	have	water resources	O	O
+1.0	Sichuan	have	provinces	O	LOCATION
+1.0	climate change	have	impact	O	O
+1.0	China	have	rugged Tibet plateau see as sensitive barometer of world climate condition	LOCATION	LOCATION
+1.0	mountainous region	have	glacier	0	0
+1.0	plateau	have	edges	O	O
+1.0	temperature	be in	China 's	0	LOCATION
+1.0	mountainous region 's glacier	cite	study	ORGANIZATION	0
+1.0	region	have	glaciers	O	O
+1.0	area	have	water resource	0	0
+1.0	mountainous region 's glacier	cite	geological study	ORGANIZATION	0

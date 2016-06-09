@@ -1,0 +1,198 @@
+1.0	Benni McCarthy	make from	penalty spot	PERSON	0
+1.0	Benjani Mwaruwari	be	Zimbabwe	PERSON	LOCATION
+1.0	they resistance	be break by	two goal in as many minute	DATE	NUMBER
+1.0	Premiership leaders	have	Manchester United	ORGANIZATION	O
+1.0	they resistance	be	break	DATE	0
+1.0	four	have	out slip	O	NUMBER
+1.0	Fulham	be	hold to goalless draw at home by side Watford	ORGANIZATION	ORGANIZATION
+1.0	they resistance	be break after	just hour mark	DATE	DATE
+1.0	evening	have	goal	O	TIME
+1.0	two goal	be in	minute	NUMBER	0
+0.4651304962944425	Newcastle	early lead with	strike	ORGANIZATION	0
+1.0	Portsmouth	share	Tottenham	LOCATION	ORGANIZATION
+1.0	Paul Scholes	fire in	he second goal of evening	PERSON	ORDINAL
+1.0	greek 's first effort	be	tap-in	ORDINAL	0
+1.0	Reading	run	riot	0	0
+1.0	Wigan	be neighbour of	Lancashire	ORGANIZATION	LOCATION
+1.0	Benni McCarthy	make	sure	PERSON	0
+1.0	the champions	have	opponents	O	O
+1.0	Portsmouth	share point at	Fratton Park	LOCATION	LOCATION
+1.0	they resistance	be break after	hour mark	DATE	DATE
+1.0	Aiyegbeni Yakubu	help middlesbrough to	3-1	PERSON	NUMBER
+1.0	that	lift	they clear	0	0
+1.0	Fulham	be hold to	goalless draw at home	ORGANIZATION	0
+1.0	whose tactic	have	have criticise by Benitez of match	0	PERSON
+1.0	they	be	hold to 2-2 draw at Newcastle on Monday	0	ORGANIZATION
+1.0	they	clear	six point	0	NUMBER
+1.0	greek 's effort	be	tap-in	0	0
+1.0	deflection	have	help	O	O
+1.0	the champions	can beat	Aston Villa	0	ORGANIZATION
+1.0	Reading	have	hands	O	O
+1.0	Viduka	have put	Boro ahead with shot	PERSON	ORGANIZATION
+1.0	Arsenal	can beat	Charlton	ORGANIZATION	PERSON
+1.0	hour	have	points quarter	O	DURATION
+1.0	their opponents	have	resistance	O	O
+1.0	he 84th-minute strike	come for	Merseysiders	0	ORGANIZATION
+0.4410873322825459	Aiyegbeni Yakubu	second-half goal include	76th-minute penalty	PERSON	0
+1.0	Manchester United	have look	poise	ORGANIZATION	0
+1.0	David Edgar	be by	canadian	PERSON	DURATION
+1.0	Benni McCarthy	claim	he 9th league goal of season	PERSON	ORDINAL
+1.0	Benni McCarthy	claim	he 9th league goal	PERSON	ORDINAL
+1.0	Rafael Benitez	have	side	O	PERSON
+1.0	it	be	new year 's day forget	0	DATE
+1.0	Alex Ferguson	have	side seven point clear	PERSON	NUMBER
+1.0	Benjani Mwaruwari	be striker of	Zimbabwe	PERSON	LOCATION
+1.0	champions	have	left	O	O
+1.0	Benni McCarthy	claim	he league goal of season	PERSON	0
+1.0	area	have	edge	O	O
+1.0	they recent run	win over	Everton	0	ORGANIZATION
+1.0	whose tactic	have	have publicly criticise by Benitez ahead of match	0	PERSON
+1.0	Blackburn	claim	they third	ORGANIZATION	ORDINAL
+1.0	Arsenal	can beat charlton on	Tuesday	ORGANIZATION	DATE
+1.0	they recent good run	be with	2-1	0	NUMBER
+0.4651304962944425	Newcastle	early lead with	30-yard strike	ORGANIZATION	0
+1.0	he strike	come too late for	Merseysiders	0	ORGANIZATION
+1.0	he strike	salvage	point	0	0
+1.0	they	be	when hold to 2-2 draw at Newcastle	0	ORGANIZATION
+1.0	Liverpool	be in	contrast	ORGANIZATION	0
+1.0	his	have	league goal	O	O
+1.0	Darius Vassell	have go	round Tim Howard	PERSON	PERSON
+1.0	they resistance	be break by	two goal in minute	DATE	NUMBER
+1.0	West Ham	have	hopes	O	ORGANIZATION
+0.33982350661454025	Emile Heskey own goal	edge at	interval	PERSON	0
+1.0	Viduka	have put	Boro	PERSON	ORGANIZATION
+1.0	greek 's effort	be	close-range tap-in	0	0
+1.0	Matt Derbyshire	double lead with	tap-in	PERSON	0
+1.0	Manchester United	have	adrift	O	ORGANIZATION
+1.0	they	be	when hold to 2-2 draw	0	NUMBER
+1.0	his	have	strike	O	O
+1.0	Matt Derbyshire	double lead with	58th-minute tap-in	PERSON	0
+1.0	they resistance	be	break by two goal in many minute after hour mark	DATE	NUMBER
+1.0	he strike	come late for	Merseysiders	0	ORGANIZATION
+0.33982350661454025	Emile Heskey goal	edge at	interval	PERSON	0
+1.0	Alex Ferguson	have	side	O	PERSON
+1.0	season	have	league goal	O	O
+1.0	Fulham	be	hold to draw by side Watford	ORGANIZATION	ORGANIZATION
+1.0	Rafael Benitez	have	side leapfrog into 3rd place in table	PERSON	ORDINAL
+1.0	they	be	when hold on Monday	0	DATE
+1.0	they recent good run	win over	Everton	0	ORGANIZATION
+0.7244609956624575	James Milner	early lead with	30-yard strike	PERSON	0
+1.0	Leon Osman	pull back for	Everton	PERSON	ORGANIZATION
+1.0	Leon Osman	pull for	Everton	PERSON	ORGANIZATION
+1.0	Arsenal	can beat	Charlton at Emirates stadium	ORGANIZATION	LOCATION
+1.0	Hammers	find	the Premiership leaders meeting with Newcastle later on Monday	0	0
+0.4651304962944425	Newcastle	lead with	30-yard strike	ORGANIZATION	0
+1.0	relegation zone	have	out hauling	O	O
+0.7244609956624575	James Milner	lead with	strike	PERSON	0
+1.0	they	be	hold at Newcastle on Monday	0	ORGANIZATION
+1.0	they	be hold to	2-2 draw	0	NUMBER
+1.0	West Ham 's hope	be deal	devastating blow	ORGANIZATION	0
+1.0	he 84th-minute strike	come late for	Merseysiders	0	ORGANIZATION
+1.0	whose	have	shot beat	O	O
+1.0	they good run	win over	Everton	0	ORGANIZATION
+0.4651304962944425	Newcastle	early lead with	superb 30-yard strike	ORGANIZATION	0
+1.0	Viduka	have put boro from	edge of area	PERSON	0
+1.0	Villa Park	be on	Tuesday	LOCATION	DATE
+1.0	Greek	have	effort	O	MISC
+0.7409870730870662	Arsenal	charlton at	Emirates stadium	ORGANIZATION	LOCATION
+1.0	Portsmouth	share	point	LOCATION	0
+1.0	points	have	sure	O	O
+1.0	Hammers	find quarter	the Premiership leaders meeting with Newcastle later on Monday	0	0
+1.0	Manchester United	poise	pull	ORGANIZATION	0
+1.0	2007	have	Premiership goal	O	DATE
+1.0	3rd place	be in	table	ORDINAL	0
+1.0	it	be	year 's day	0	DATE
+1.0	they	be	hold to 2-2 draw on Monday	0	NUMBER
+1.0	Chelsea in the Premiership title race	can cut	the champions	ORGANIZATION	0
+1.0	Lancashire neighbours	have	defeat	O	O
+1.0	Chelsea in the Premiership title race	have	clear	O	ORGANIZATION
+1.0	home side	to	finnish goalkeeper Antti Niemi	0	PERSON
+1.0	greek	have	first effort	0	ORDINAL
+1.0	they	be	when hold at Newcastle	0	ORGANIZATION
+1.0	they resistance	be	break by two goal in as many minute after hour mark	DATE	NUMBER
+1.0	hour	have	quarter	O	DURATION
+1.0	Fulham	be	hold to goalless draw by bottom side Watford	ORGANIZATION	ORGANIZATION
+1.0	Hammers	find inside quarter	the Premiership leaders meeting with Newcastle later on Monday	0	0
+1.0	Viduka	have put	Boro ahead	PERSON	ORGANIZATION
+1.0	the champions	can beat	Aston Villa at Villa Park on Tuesday	0	LOCATION
+1.0	Viduka	have put boro from	edge	PERSON	0
+1.0	they resistance	be	break by two goal in minute after hour mark	DATE	NUMBER
+1.0	Fulham	be	hold to goalless draw by side Watford	ORGANIZATION	ORGANIZATION
+1.0	Year	have	Day	DATE	DATE
+1.0	they	be hold on	Monday	0	DATE
+1.0	it	be	new year 's day	0	DATE
+1.0	Benni McCarthy	make	sure of point	PERSON	0
+1.0	drop zone	have	Sheffield United	ORGANIZATION	O
+1.0	draw	leave	Alex Ferguson 's side clear	0	PERSON
+1.0	that	lift	they six point clear	0	NUMBER
+1.0	Darius Vassell	have go	Tim Howard	PERSON	PERSON
+1.0	whose	have	tactics	O	O
+1.0	Viduka	have put	Boro ahead with low shot	PERSON	ORGANIZATION
+1.0	their	have	run	O	O
+1.0	the champions	can beat	Aston Villa at Villa Park	0	LOCATION
+0.4651304962944425	Newcastle	lead with	superb 30-yard strike	ORGANIZATION	0
+1.0	Australian	have	fine strike	MISC	0
+1.0	Matt Derbyshire	double	lead	PERSON	0
+1.0	draw	leave	Alex Ferguson 's side seven point clear	0	NUMBER
+1.0	Fulham	be hold to	draw	ORGANIZATION	0
+0.04812451479275803	West Ham 's hope	be	deal	ORGANIZATION	0
+1.0	Fulham	be hold to	draw at home	ORGANIZATION	0
+1.0	they	be	hold	0	0
+1.0	they run	win over	Everton	0	ORGANIZATION
+1.0	he 84th-minute strike	come too late for	Merseysiders	0	ORGANIZATION
+1.0	Aston Villa	be at	Villa Park	ORGANIZATION	LOCATION
+1.0	Chelsea	be in	Premiership title race	ORGANIZATION	0
+1.0	whose tactic	have	have criticise by Benitez	0	PERSON
+0.4651304962944425	Newcastle	lead with	strike	ORGANIZATION	0
+1.0	draw	leave	Alex Ferguson 's side	0	PERSON
+1.0	they resistance	be	break by two goal in many minute just after hour mark	DATE	NUMBER
+0.7244609956624575	James Milner	early lead with	superb 30-yard strike	PERSON	0
+1.0	Fulham	be	hold to draw by bottom side Watford	ORGANIZATION	ORGANIZATION
+1.0	it	be	year 's day forget	0	DATE
+1.0	whose tactic	have	have criticise by Benitez ahead of match	0	PERSON
+1.0	West Ham 's hope	be deal	blow	ORGANIZATION	0
+1.0	Australian	have	strike	O	MISC
+1.0	match	have	Benitez	PERSON	O
+1.0	Benni McCarthy	claim	he league goal	PERSON	0
+1.0	whose tactic	have	have publicly criticise by Benitez	0	PERSON
+1.0	effort	be	close-range	0	0
+0.7244609956624575	James Milner	lead with	30-yard strike	PERSON	0
+1.0	Fulham	be	hold to goalless draw at home by bottom side Watford	ORGANIZATION	ORGANIZATION
+0.7244609956624575	James Milner	early lead with	strike	PERSON	0
+1.0	Paul Scholes	fire in	he goal of evening	PERSON	TIME
+1.0	Watford	be in	match	ORGANIZATION	0
+1.0	they	be hold at	Newcastle	0	ORGANIZATION
+1.0	Paul Scholes	fire in	he goal	PERSON	0
+1.0	whose tactic	have	have publicly criticise	0	0
+1.0	play	have	run	O	O
+0.7244609956624575	James Milner	lead with	superb 30-yard strike	PERSON	0
+1.0	whose tactic	have	have criticise	0	0
+1.0	Fulham	be	hold	ORGANIZATION	0
+1.0	Manchester United	miss	opportunity	ORGANIZATION	0
+1.0	they	be	when hold at Newcastle on Monday	0	ORGANIZATION
+1.0	they	be	when hold	0	0
+1.0	Paul Scholes	fire in	he second goal	PERSON	ORDINAL
+1.0	Fulham	be hold to	goalless draw	ORGANIZATION	0
+1.0	early lead	be with	superb 30-yard strike	0	0
+1.0	they	be	hold to 2-2 draw at Newcastle	0	ORGANIZATION
+1.0	their	have	third	ORDINAL	O
+1.0	they resistance	be	break by two goal in minute just after hour mark	DATE	NUMBER
+1.0	Emmanuel Pogatetz	be in	box	PERSON	0
+1.0	West Ham	have	hope haul of relegation zone	ORGANIZATION	0
+1.0	Fulham	be hold by	bottom side Watford	ORGANIZATION	ORGANIZATION
+1.0	they	be	when hold to 2-2 draw on Monday	0	NUMBER
+1.0	Chelsea in the Premiership title race	can cut back	the champions	ORGANIZATION	0
+1.0	Fulham	be	hold to draw at home by side Watford	ORGANIZATION	ORGANIZATION
+1.0	home side	have	goalkeeper	O	O
+1.0	Paul Scholes	have	goal	O	O
+1.0	they resistance	be	break by two goal in as many minute just after hour mark	DATE	NUMBER
+1.0	he strike	come for	Merseysiders	0	ORGANIZATION
+1.0	they resistance	be break by	two goal in many minute	DATE	NUMBER
+1.0	side	have	push	O	O
+1.0	he 84th-minute strike	salvage	point	0	0
+1.0	Fulham	be hold by	side Watford	ORGANIZATION	ORGANIZATION
+1.0	greek 's first effort	be	close-range tap-in	ORDINAL	0
+1.0	Leroy Lita strike	have	side	O	O
+1.0	they	be	when hold to 2-2 draw at Newcastle on Monday	0	ORGANIZATION
+1.0	whose tactic	have	have publicly criticise by Benitez of match	0	PERSON
+1.0	Fulham	be	hold to draw at home by bottom side Watford	ORGANIZATION	ORGANIZATION

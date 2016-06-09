@@ -1,0 +1,48 @@
+1.0	Italy 's	be	part	LOCATION	0
+1.0	United States	have	operations	O	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike	PERSON	LOCATION
+1.0	pacification	have	process	O	O
+1.0	civilian	be	kill	0	0
+0.836825199137869	effort	conducive to	process of pacification	0	0
+1.0	Italy 's	be part of	international contact group	LOCATION	0
+1.0	victims	have	terms	O	O
+1.0	nature	have	those	O	O
+1.0	a great cost in terms of innocent victims among the civilian population	have launch	air strike	0	0
+1.0	factions	have	isolation	O	O
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike in Somalia	PERSON	LOCATION
+1.0	a great cost in terms of innocent victims among the civilian population	have launch air strike on	suspect Al-Qaeda hideout	0	MISC
+1.0	a great cost in terms of innocent victims among the civilian population	have	intervention	O	O
+1.0	civilian	be kill accord to	witness account	0	0
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike in southern Somalia	PERSON	LOCATION
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike	PERSON	LOCATION
+1.0	its first overt military intervention	be in	lawless nation since early 1990s	ORDINAL	DATE
+1.0	Italy 's	be part of	contact group on Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along with representative of United Nations	LOCATION	ORGANIZATION
+1.0	Rome	call for	rapid launching	LOCATION	0
+1.0	United States	be in	Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	contact group on Somalia along	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along with representative	LOCATION	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike in southern Somalia	PERSON	LOCATION
+1.0	Italy 's	be part of	contact group	LOCATION	0
+1.0	Massimo d'Alema	be on	Tuesday	PERSON	DATE
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike in Somalia	PERSON	LOCATION
+0.836825199137869	effort	conducive to	process	0	0
+1.0	great cost	be in	term of innocent victim among civilian population	0	0
+1.0	contact group	have	part	O	O
+0.5174493699604719	formation	link to	terrorism	0	0
+1.0	society	have	components	O	O
+1.0	Rome	call for	launching	LOCATION	0
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	Italy 's	be part of	international contact group on Somalia	LOCATION	LOCATION
+1.0	United Nations	have	representatives	O	ORGANIZATION
+1.0	a great cost in terms of innocent victims among the civilian population	have launch air strike on	Al-Qaeda hideout	0	MISC
+1.0	dialogue	have	launching	O	O
+1.0	Italy 's	be part of	contact group on Somalia along with representative	LOCATION	LOCATION
+1.0	Italy	have	opposition	O	LOCATION
+0.5174493699604719	new formation	link to	terrorism	0	0
+0.5174493699604719	new formation	link to	international terrorism	0	0
+1.0	Italy	have	opposition	LOCATION	0
+1.0	Italy 's	be part of	contact group on Somalia along with representative of United Nations	LOCATION	ORGANIZATION
+0.5174493699604719	formation	link to	international terrorism	0	0
+1.0	US air strike	be in	Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along	LOCATION	LOCATION

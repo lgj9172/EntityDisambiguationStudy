@@ -1,0 +1,159 @@
+1.0	peace	have	proponent	O	O
+1.0	US nemesis Daniel Ortega	have	campaign	O	O
+1.0	guerrilla leader	swear	US nemesis Daniel Ortega	0	LOCATION
+1.0	office	have	out voted	O	O
+1.0	Ortega	be	vote in 1990 at end of bloody war against Contras	PERSON	ORGANIZATION
+1.0	he	be among	leftist	0	0
+1.0	guerrilla leader	be swear at_time	Wednesday	0	DATE
+1.0	guerrilla leader	be	swear	0	0
+1.0	issues	have	range	O	O
+1.0	relationship	be with	Nicaragua	0	LOCATION
+1.0	Daniel Ortega	be	US	PERSON	LOCATION
+1.0	he	be among	leftist also Ecuador 's president	0	LOCATION
+1.0	Ortega	pay visit to	Cuba	PERSON	LOCATION
+1.0	Ally Venezuela	have	President Hugo Chavez	PERSON	LOCATION
+1.0	Ortega	be vote at	end of war	PERSON	0
+1.0	ex-sandinista guerrilla leader	be	swear	0	0
+0.7032880069363292	asset	distribute land to	poor farmer	0	0
+1.0	Ortega	be vote at	end of civil war against Contras	PERSON	ORGANIZATION
+1.0	soviet-backed government	battle	Contra rebel	0	MISC
+1.0	Ortega	lose	two subsequent presidential election	PERSON	NUMBER
+1.0	power	to return be	61	0	NUMBER
+1.0	Ally Venezuela 's President Hugo Chavez	be wing in	in he inauguration	PERSON	0
+1.0	soviet-backed government	seize	private asset	0	0
+0.08888763875480499	return	have throw on	70 percent	0	PERCENT
+1.0	he	be among	elect leftist also Ecuador 's president	0	LOCATION
+0.08888763875480499	return	have throw again on	70 percent	0	PERCENT
+1.0	sandinista government	battle	us-financed Contra rebel	0	MISC
+1.0	Ortega	be	vote	PERSON	0
+1.0	Ortega	be vote at	end of bloody civil war against Contras	PERSON	ORGANIZATION
+1.0	Ortega	pay	visit	PERSON	0
+1.0	Anastasio Somoza	be	us-backed	PERSON	0
+1.0	Ortega	be	vote in 1990 at end of war against Contras	PERSON	ORGANIZATION
+1.0	Ortega	be	vote in 1990 at end of war	PERSON	DATE
+1.0	ex-sandinista guerrilla leader	be swear at_time	Wednesday	0	DATE
+1.0	ex-sandinista guerrilla leader	be swear in	in president	0	0
+1.0	reconciliation	have	proponent	O	O
+1.0	ex-sandinista guerrilla leader	be	swear in as president Wednesday	0	DATE
+1.0	Ortega	be vote out of	power	PERSON	0
+1.0	ex-sandinista guerrilla leader	be	swear in as president Wednesday 17 year	0	DATE
+1.0	soviet-backed sandinista government	seize	asset	0	0
+1.0	ex-sandinista guerrilla leader	be	swear in as president Wednesday almost 17 year	0	DATE
+1.0	Ortega	be	vote in 1990 at end of bloody civil war against Contras	PERSON	ORGANIZATION
+1.0	Ortega	lose	two presidential election	PERSON	NUMBER
+1.0	guerrilla leader	be	swear in as president Wednesday	0	DATE
+1.0	ex-sandinista guerrilla leader	be	swear Wednesday 17 year	0	DATE
+1.0	its	have	ambassador	O	O
+1.0	he	be among	newly elect leftist	0	0
+1.0	Taiwan	have	Chen Shui-bian	LOCATION	PERSON
+1.0	Daniel Ortega	in	election platform	PERSON	0
+1.0	Ortega	lose	two election	PERSON	NUMBER
+1.0	Ally Venezuela 's President Hugo Chavez	be wing in	in he own inauguration	PERSON	0
+1.0	Ortega	be	vote in 1990 at end	PERSON	DATE
+1.0	government	seize	private asset	0	0
+1.0	Ortega	lose	two subsequent election	PERSON	NUMBER
+1.0	Hugo Chavez	be president of	Venezuela	PERSON	LOCATION
+1.0	soviet-backed sandinista government	battle	us-financed Contra rebel	0	MISC
+1.0	Ally Venezuela 's President Hugo Chavez	be	join by spanish Crown Prince Felipe	PERSON	PERSON
+1.0	Ortega	be vote at	end of war against Contras	PERSON	ORGANIZATION
+1.0	return	have throw	spotlight	0	0
+1.0	Latin America	have	left	O	LOCATION
+1.0	ex-sandinista guerrilla leader	be	US nemesis Daniel Ortega	0	LOCATION
+1.0	soviet-backed government	battle contra rebel throughout	1980	0	0
+1.0	government	battle contra rebel throughout	1980	0	0
+1.0	US nemesis Daniel Ortega	have	rhetoric	O	O
+1.0	Sandinista National Liberation Front	have	leader	O	ORGANIZATION
+1.0	Ortega	meet with	Chavez	PERSON	PERSON
+1.0	Venezuela	have	Hugo Chavez	LOCATION	PERSON
+1.0	ex-sandinista guerrilla leader	be	swear Wednesday almost 17 year	0	DATE
+1.0	Ortega	be vote at	end of bloody civil war	PERSON	0
+1.0	return	have throw spotlight again on	70 percent	0	PERCENT
+1.0	soviet-backed government	battle	us-financed Contra rebel	0	MISC
+1.0	Washington	urge	Nicaraguans	LOCATION	MISC
+1.0	he	win	reelection	0	0
+1.0	their	have	commitment	O	O
+1.0	he	be among	elect leftist	0	0
+1.0	Ortega	immediately visit with	ally	PERSON	0
+1.0	power	have	voted	O	O
+1.0	Ortega	be vote in	1990	PERSON	DATE
+1.0	Chen Shui-bian	be president of	Taiwan	PERSON	LOCATION
+1.0	Mexican President Felipe Calderon	be	Mexican	PERSON	MISC
+1.0	our	have	interest	O	O
+1.0	guerrilla leader	be	swear Wednesday	0	DATE
+1.0	Ortega	also meet with	Chavez	PERSON	PERSON
+1.0	Ally Venezuela 's President Hugo Chavez	be	join	PERSON	0
+1.0	ex-sandinista guerrilla leader	be	swear 17 year	0	DURATION
+1.0	White House	say in	Washington	ORGANIZATION	LOCATION
+1.0	guerrilla leader	be	US nemesis Daniel Ortega	0	LOCATION
+1.0	cooperation	have	areas	O	O
+0.7032880069363292	private asset	distribute land to	poor farmer	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Ortega	visit with	traditional ally	PERSON	0
+1.0	Ecuador	have	president	O	LOCATION
+0.7032880069363292	private asset	distribute land to	farmer	0	0
+1.0	guerrilla leader	be	swear in as president almost 17 year	0	DURATION
+1.0	5.4 million	have	country	O	PERCENT
+1.0	soviet-backed sandinista government	battle	Contra rebel	0	MISC
+1.0	his	have	commitment	O	O
+1.0	Ortega	be	vote in 1990 at end of civil war against Contras	PERSON	ORGANIZATION
+1.0	sandinista government	seize	private asset	0	0
+1.0	return	have throw spotlight on	70 percent	0	PERCENT
+1.0	Mexican President Felipe Calderon	be by	spanish	PERSON	0
+1.0	Ortega	be vote at	end	PERSON	0
+1.0	countries	have	one	NUMBER	O
+1.0	rebel	have	power	O	O
+1.0	guerrilla leader	be	swear Wednesday almost 17 year	0	DATE
+0.7032880069363292	asset	distribute land to	farmer	0	0
+1.0	George W. Bush	be on	Monday	PERSON	DATE
+1.0	Ortega	visit with	ally	PERSON	0
+1.0	Ortega	be vote at	end of bloody war against Contras	PERSON	ORGANIZATION
+1.0	his	have	third	ORDINAL	O
+1.0	ex-sandinista guerrilla leader	swear	US nemesis Daniel Ortega	0	LOCATION
+1.0	guerrilla leader	be	swear Wednesday 17 year	0	DATE
+1.0	Latin America	for	ascendant left	LOCATION	0
+1.0	return	have throw again	international spotlight	0	0
+1.0	he	be among	elect leftist Ecuador 's president	0	LOCATION
+1.0	people	have	well-being	O	O
+1.0	guerrilla leader	be swear in	in president	0	0
+1.0	Taiwan	have	President Chen Shui-bian	PERSON	LOCATION
+1.0	soviet-backed sandinista government	battle contra rebel throughout	1980	0	0
+1.0	sandinista government	battle	Contra rebel	0	MISC
+1.0	Ortega	be	vote in 1990 at end of civil war	PERSON	DATE
+1.0	Ortega	be	vote in 1990 at end of bloody war	PERSON	DATE
+1.0	guerrilla leader	be	swear in as president Wednesday 17 year	0	DATE
+1.0	soviet-backed government	seize	asset	0	0
+1.0	Ally Venezuela 's President Hugo Chavez	be	join by Crown Prince Felipe	PERSON	PERSON
+1.0	left	have	axis	O	O
+1.0	guerrilla leader	be	swear almost 17 year	0	DURATION
+1.0	government	seize	asset	0	0
+1.0	Ortega	be vote at	end of civil war	PERSON	0
+0.7032880069363292	private asset	distribute	land	0	0
+1.0	guerrilla leader	be	swear in as president 17 year	0	DURATION
+1.0	its ambassador	be in	Managua	0	LOCATION
+1.0	Ortega	be	vote in 1990 at end of bloody civil war	PERSON	DATE
+1.0	Ortega	immediately visit with	traditional ally	PERSON	0
+1.0	ex-sandinista guerrilla leader	be	swear almost 17 year	0	DURATION
+1.0	ex-sandinista guerrilla leader	be	swear Wednesday	0	DATE
+1.0	government	battle	Contra rebel	0	MISC
+1.0	soviet-backed sandinista government	seize	private asset	0	0
+1.0	return	have throw	international spotlight	0	0
+1.0	interest	have	well-being	O	O
+1.0	war	have	end	O	O
+1.0	guerrilla leader	be	swear 17 year	0	DURATION
+1.0	ex-sandinista guerrilla leader	be	swear in as president almost 17 year	0	DURATION
+1.0	ex-sandinista guerrilla leader	be	swear in as president 17 year	0	DURATION
+0.7032880069363292	asset	distribute	land	0	0
+1.0	sandinista government	battle contra rebel throughout	1980	0	0
+1.0	government	battle	us-financed Contra rebel	0	MISC
+1.0	he	be among	newly elect leftist Ecuador 's president	0	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	return	have throw again	spotlight	0	0
+1.0	he	be among	leftist Ecuador 's president	0	LOCATION
+1.0	he	be among	newly elect leftist also Ecuador 's president	0	LOCATION
+1.0	Daniel Ortega	have	election platform	O	PERSON
+1.0	Daniel Ortega	be nemesis of	US	PERSON	LOCATION
+1.0	guerrilla leader	be	swear in as president Wednesday almost 17 year	0	DATE
+1.0	Ortega	be vote at	end of bloody war	PERSON	0
+1.0	sandinista government	seize	asset	0	0
+1.0	Ortega	prevail in	he third	PERSON	ORDINAL
+1.0	Ally Venezuela 's President Hugo Chavez	have	inauguration	O	O

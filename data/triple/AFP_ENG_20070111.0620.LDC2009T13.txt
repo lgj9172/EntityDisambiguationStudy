@@ -1,0 +1,128 @@
+1.0	Britain 's	have	grapple with power bloc	LOCATION	0
+1.0	US President George W. Bush 's	take	blame	PERSON	0
+1.0	Foreign Secretary Margaret Beckett	speak committee at	session of parliament 's defence affair	0	0
+1.0	Prime Minister Tony Blair	say at_time	Thursday	PERSON	DATE
+1.0	US change	have	implications	O	O
+1.0	US change	be in	Britain 's policy	LOCATION	LOCATION
+1.0	Britain 's	have	grapple	LOCATION	0
+1.0	Britain 's	have	with troop deployment in Iraq have United States ' ally	LOCATION	LOCATION
+1.0	Queen	have	Royal Lancers	ORGANIZATION	ORGANIZATION
+0.8130147725389836	different situation	troops from	different country	0	0
+1.0	US President George W. Bush	have	policy switch	O	PERSON
+1.0	British Prime Minister Tony Blair	have	minister	O	O
+1.0	the Iraqi authorities	have	security	O	O
+1.0	Sunni muslim insurgency	back at	time by foreign islamist fighter	MISC	0
+1.0	parliament	of	defence affair	0	0
+1.0	second-largest troop deployment	be in	Iraq	0	LOCATION
+1.0	Baghdad	have	leaders	O	LOCATION
+1.0	Britain 's	have	with troop deployment in Iraq have United States ' staunchest ally	LOCATION	LOCATION
+1.0	Foreign Secretary Margaret Beckett	leave	door open	PERSON	0
+1.0	Sunni insurgency	only back at	time by foreign fighter	MISC	0
+1.0	US President George W. Bush 's	warn	Baghdad 's leader	PERSON	LOCATION
+1.0	parliament	have	defence foreign affairs	O	O
+1.0	Britain 's	have	grapple with rival power bloc	LOCATION	0
+1.0	Britain 's	have	with second-largest troop deployment in Iraq have United States ' ally	LOCATION	LOCATION
+1.0	Britain 's	have	have United States ' staunchest ally	LOCATION	LOCATION
+1.0	truth	be condition	different from those in Basra	0	LOCATION
+1.0	United States	have	ally	O	LOCATION
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	countries	have	policies	O	O
+1.0	Tony Blair	be	british	PERSON	0
+1.0	Britain	have	policy	O	LOCATION
+1.0	Sunni insurgency	only back at	time by foreign islamist fighter	MISC	0
+1.0	Britain 's	have	with second-largest troop deployment have United States ' ally	LOCATION	LOCATION
+1.0	Britain 's	have	grapple with shiite power bloc	LOCATION	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	Foreign Secretary Margaret Beckett	leave	door open for possible change in british policy	PERSON	0
+1.0	Sunni muslim insurgency	only back at	time	MISC	0
+1.0	condition	be in	Baghdad at the moment	0	LOCATION
+1.0	door	open for	possible change	0	0
+1.0	Sunni muslim insurgency	only back at	time by foreign fighter	MISC	0
+1.0	Britain 's	grapple with	rival power bloc	LOCATION	0
+1.0	Sunni insurgency	back at	time by islamist fighter	MISC	0
+1.0	Sunni muslim insurgency	only back at	time by islamist fighter	MISC	0
+1.0	british Prime Minister Tony Blair	say at_time	Thursday	PERSON	DATE
+1.0	possible change	be in	british policy	0	0
+1.0	fighting	have	type	O	O
+1.0	Sunni insurgency	back at	time	MISC	0
+1.0	Britain	have	situation	O	LOCATION
+1.0	Foreign Secretary Margaret Beckett	speak committee at	session	0	0
+1.0	Iraq	have	March invasion	O	LOCATION
+1.0	British Prime Minister Tony Blair	ask about	report	0	0
+1.0	Sunni insurgency	back at	time by foreign islamist fighter	MISC	0
+1.0	forces	have	number	O	O
+1.0	defence foreign affairs	have	session	O	O
+1.0	Britain 's	grapple with	shiite power bloc	LOCATION	0
+1.0	Sunni insurgency	only back at	time by islamist fighter	MISC	0
+1.0	iraqi control	be in	a few month	DURATION	DURATION
+1.0	Foreign Secretary Margaret Beckett	speak	select committee	0	0
+1.0	Foreign Secretary Margaret Beckett	speak committee at	joint session of parliament 's defence affair	0	0
+1.0	condition	be in	Baghdad	0	LOCATION
+1.0	government	have	intention at present time send	0	DATE
+1.0	Sunni insurgency	only back at	time by fighter	MISC	0
+1.0	May	have	end	DATE	DATE
+1.0	US President George W. Bush 's	be send	21,500 extra US troops	PERSON	LOCATION
+1.0	truth	be condition	different	0	0
+1.0	British Prime Minister Tony Blair	say in	television interview	PERSON	0
+1.0	truth	be condition	different from those	0	0
+1.0	withdrawal dates	have	talk	O	O
+1.0	Foreign Secretary Margaret Beckett	seem	leave	PERSON	0
+0.6555080559379196	Thursday	change of	direction	0	0
+1.0	Iraq	be in	central Basra	LOCATION	LOCATION
+1.0	Sunni muslim insurgency	back at	time by islamist fighter	MISC	0
+1.0	US President George W. Bush 's	order	21,500 more US troops	PERSON	LOCATION
+1.0	central Basra	have	city	O	LOCATION
+1.0	Blair	have	official spokesman	PERSON	0
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	Sunni muslim insurgency	back at	time	MISC	0
+1.0	Britain 's	have	with second-largest troop deployment have United States ' staunchest ally	LOCATION	LOCATION
+1.0	Foreign Secretary Margaret Beckett	leave	door open for possible change	PERSON	0
+1.0	February	have	end	DATE	DATE
+1.0	government	have	intention	O	O
+1.0	Foreign Secretary Margaret Beckett	speak committee at	joint session	0	0
+1.0	country	have	control	O	O
+1.0	implication	be	somewhat limited	0	0
+1.0	Britain 's	grapple with	power bloc	LOCATION	0
+1.0	Britain 's	have	have United States ' ally	LOCATION	LOCATION
+1.0	Foreign Secretary Margaret Beckett	meanwhile seem	leave	PERSON	0
+1.0	Britain 's	have	with troop deployment have United States ' ally	LOCATION	LOCATION
+0.8130147725389836	situation	troops from	two different country	0	NUMBER
+1.0	Blair	have	spokesman	O	PERSON
+1.0	Britain	have	situation	LOCATION	0
+1.0	Sunni insurgency	back at	time by fighter	MISC	0
+0.8130147725389836	situation	troops from	different country	0	0
+1.0	British Prime Minister Tony Blair	ask in	Daily Telegraph newspaper	0	ORGANIZATION
+1.0	US President George W. Bush 's	take blame for	blunder	PERSON	0
+1.0	force	be in	Baghdad at the moment	0	LOCATION
+1.0	door	open for	possible change in policy	0	0
+1.0	Sunni muslim insurgency	only back at	time by fighter	MISC	0
+1.0	Sunni insurgency	only back at	time	MISC	0
+1.0	Britain 's	grapple with	rival shiite power bloc	LOCATION	0
+1.0	have United States ' staunchest ally	be with	second-largest troop deployment in Iraq	LOCATION	LOCATION
+1.0	Sunni muslim insurgency	back at	time by fighter	MISC	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	Baghdad	have	leader do	LOCATION	0
+1.0	US President George W. Bush 's	be send	21,500 US troops	PERSON	LOCATION
+1.0	US President George W. Bush 's	take blame at_time	Wednesday	PERSON	DATE
+1.0	Sunni muslim insurgency	back at	time by foreign fighter	MISC	0
+1.0	British Prime Minister Tony Blair	tell westcountry television to	southwest England	PERSON	LOCATION
+1.0	Foreign Secretary Margaret Beckett	leave	door open for possible change in policy	PERSON	0
+1.0	US President George W. Bush 's	take blame in	televise address	PERSON	0
+0.8130147725389836	different situation	troops from	two different country	0	NUMBER
+1.0	their	have	forces	O	O
+1.0	Britain	have	policy	LOCATION	0
+1.0	door	open for	possible change in british policy	0	0
+1.0	Britain 's	have	with troop deployment have United States ' staunchest ally	LOCATION	LOCATION
+1.0	Foreign Secretary Margaret Beckett	speak	committee	0	0
+1.0	British Prime Minister Tony Blair	tell	Westcountry Television	PERSON	ORGANIZATION
+1.0	implication	be	limited	0	0
+1.0	US President George W. Bush 's	take blame in	address	PERSON	0
+1.0	Sunni muslim insurgency	only back at	time by foreign islamist fighter	MISC	0
+1.0	Sunni insurgency	back at	time by foreign fighter	MISC	0
+1.0	Britain 's	have	grapple with rival shiite power bloc	LOCATION	0
+1.0	Britain 's	have	with second-largest troop deployment in Iraq have United States ' staunchest ally	LOCATION	LOCATION
+1.0	Iraq	have	security force	LOCATION	0
+1.0	British Prime Minister Tony Blair	tell westcountry television during	visit	PERSON	0
+1.0	direction	have	change	O	O
+1.0	US President George W. Bush 's policy switch	be in	Iraq	LOCATION	LOCATION
+1.0	George W. Bush	have	policy switch in Iraq	PERSON	LOCATION

@@ -1,0 +1,156 @@
+0.5550608196197111	Abu Musab al-Zarqawi	be kill in	US air strike	PERSON	LOCATION
+1.0	Nationwide election	give	large majority	0	0
+1.0	special tribunal	be	human rights trial	0	0
+1.0	February	destroy	dome of one world 's shiite shrine	DATE	NUMBER
+1.0	February	destroy	dome of one world 's holiest shiite shrine	DATE	NUMBER
+1.0	March	lead	Spain	DATE	LOCATION
+1.0	single series	kill over	200 people in shiite neighbourhood of Sadr City	0	LOCATION
+1.0	tribunal	be	several human rights trial	0	0
+1.0	Saddam	go on	trial for crime commit	PERSON	0
+1.0	shrines	have	dome	O	O
+0.9220851517148432	3,000 mark	number of	US dead	NUMBER	LOCATION
+1.0	Tikrit	have	hometown	O	LOCATION
+1.0	February	prompt	widespread violence	DATE	0
+1.0	December	capture	Saddam near he hometown	DATE	PERSON
+1.0	detainees	have	Baghdad	LOCATION	O
+1.0	majority	have	it	O	O
+1.0	California coast	have	declares	O	O
+1.0	special tribunal	be	suppose	0	0
+1.0	series	kill amid	civil war	0	0
+1.0	series	kill amid	widen civil war	0	0
+1.0	attacks	have	series	O	O
+1.0	administration	suffer	political setback	0	0
+1.0	tribunal	be	human rights trial	0	0
+1.0	leader Saddam Hussein	have	statue	O	PERSON
+1.0	special tribunal	be	several rights trial	0	0
+1.0	country	have	regions	O	O
+1.0	single series	kill over	200 people in neighbourhood of Sadr City	0	LOCATION
+1.0	series	kill over	200 people in neighbourhood of Sadr City	0	LOCATION
+1.0	single series	kill over	200 people in neighbourhood	0	NUMBER
+1.0	December	be	hang	DATE	0
+0.777508674911875	March	series of	devastate bomb attack in Madrid	DATE	LOCATION
+1.0	October	give	autonomy	DATE	0
+1.0	February	destroy	dome of world 's shrine	DATE	0
+1.0	single series	kill over	200 people in shiite neighbourhood	0	NUMBER
+1.0	many Sunnis	refuse	vote	MISC	0
+1.0	Nationwide election	give majority to	Shiite party	0	MISC
+1.0	administration	suffer	setback	0	0
+1.0	special tribunal	be suppose	several human rights trial	0	0
+1.0	Al-Qaeda	have	leader	O	ORGANIZATION
+0.7881215627751262	topple	statue of	iraqi leader Saddam Hussein	0	PERSON
+1.0	February	prompt	violence between Shiites	DATE	MISC
+1.0	special tribunal	be suppose	human rights trial	0	0
+1.0	tribunal	be suppose	rights trial	0	0
+1.0	December	give victory to	alliance	DATE	0
+0.7881215627751262	topple	statue of	leader Saddam Hussein	0	PERSON
+1.0	tribunal	be	suppose	0	0
+1.0	George W. Bush	have	guards	O	O
+1.0	administration	suffer	major setback	0	0
+1.0	Abu Ghraib prison	grin	Americans	LOCATION	MISC
+1.0	Saddam	go on	trial for crime	PERSON	0
+1.0	us-led military operation	be in	Iraq	0	LOCATION
+1.0	mass destruction	be in	Iraq	0	LOCATION
+1.0	tribunal	be suppose	human rights trial	0	0
+1.0	single series	kill amid	war	0	0
+1.0	Sunnis	refuse	vote	MISC	0
+1.0	December	capture	Saddam	DATE	PERSON
+0.9220851517148432	3,000 mark	number of	US	NUMBER	LOCATION
+1.0	April	show	photograph	DATE	0
+1.0	February	destroy	dome of one world 's shrine	DATE	NUMBER
+1.0	willing	have	coalition	O	O
+1.0	series	kill amid	war	0	0
+1.0	Al-Qaeda	have	leader in Iraq	ORGANIZATION	LOCATION
+1.0	bomb attacks	have	A series	O	O
+1.0	November	deprive	it of its parliamentary majority	DATE	0
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	February	destroy	dome of one of world 's holiest shiite shrine	DATE	NUMBER
+1.0	Al-Qaeda 's leader	be in	Iraq	ORGANIZATION	LOCATION
+1.0	single series	kill over	200 people	0	NUMBER
+1.0	February	destroy	dome world 's shrine	DATE	0
+1.0	December	give victory to	shiite alliance	DATE	0
+1.0	its	have	forces	O	O
+1.0	February	destroy	dome of one of world 's shiite shrine	DATE	NUMBER
+1.0	February	destroy	dome of one	DATE	NUMBER
+1.0	December	attract	wide participation	DATE	0
+1.0	February	destroy	dome of world 's shiite shrine	DATE	0
+1.0	its	have	majority	O	O
+0.9220851517148432	3,000 mark	number of	US military dead	NUMBER	LOCATION
+0.857554551196939	number	pass	3,000 mark	0	NUMBER
+1.0	key event	be in	us-led military operation	0	0
+1.0	administration	suffer setback as	congressional election	0	0
+1.0	February	destroy	dome world 's holiest shiite shrine	DATE	0
+0.777508674911875	March	series of	devastate bomb attack	DATE	0
+1.0	Abu Musab al-Zarqawi	leader in	Iraq	PERSON	LOCATION
+1.0	world	have	shrines	O	O
+1.0	Sadr City	have	neighbourhood	O	LOCATION
+1.0	tribunal	be	several rights trial	0	0
+1.0	October	give autonomy to	country 's region	DATE	0
+1.0	mass destruction	have	weapons	O	O
+0.9220851517148432	3,000 mark	number of	US military	NUMBER	LOCATION
+1.0	November	deprive	it	DATE	0
+1.0	series	kill over	200 people in shiite neighbourhood of Sadr City	0	LOCATION
+1.0	what	have	first	ORDINAL	O
+1.0	Nationwide election	give majority to	Shiite muslim party	0	MISC
+1.0	February	destroy	dome of one of world 's shrine	DATE	NUMBER
+1.0	Saddam	go on	trial for crime commit during he rule	PERSON	0
+1.0	country	to	region	0	0
+1.0	February	destroy	dome of world 's holiest shiite shrine	DATE	0
+1.0	series	kill amid	widen war	0	0
+1.0	December	capture	Saddam near he hometown of Tikrit	DATE	LOCATION
+0.777508674911875	March	series of	bomb attack in Madrid	DATE	LOCATION
+1.0	February	destroy	dome of one of world 's holiest shrine	DATE	NUMBER
+1.0	world	of	holiest shiite shrine	0	0
+1.0	series	kill over	200 people in neighbourhood	0	NUMBER
+0.777508674911875	March	series of	bomb attack	DATE	0
+1.0	Nationwide election	give	majority	0	0
+1.0	iraqi civilian	die since	invasion	0	0
+1.0	February	destroy	dome	DATE	0
+1.0	US	have	number	O	LOCATION
+1.0	single series	kill amid	civil war	0	0
+1.0	Saddam	go on	trial	PERSON	0
+1.0	its	have	regime	O	O
+1.0	his	have	Iraq operation	O	O
+0.4701342900730645	bombing campaign	follow by	land invasion	0	0
+1.0	April	show	photograph take by US military	DATE	LOCATION
+1.0	April	show	photograph take by US	DATE	LOCATION
+1.0	February	destroy	dome world 's holiest shrine	DATE	0
+1.0	December	give	victory	DATE	0
+1.0	Iraq operation	have	command	O	O
+0.5550608196197111	Abu Musab al-Zarqawi	be	kill	PERSON	0
+1.0	administration	suffer	major political setback	0	0
+1.0	April	show	photograph take	DATE	0
+1.0	single series	kill amid	widen civil war	0	0
+1.0	special tribunal	be	rights trial	0	0
+1.0	his	have	hometown	O	O
+1.0	November	deprive	it of its majority	DATE	0
+1.0	administration	suffer setback as	election	0	0
+1.0	series	kill over	200 people in shiite neighbourhood	0	NUMBER
+1.0	tribunal	be	rights trial	0	0
+1.0	his	have	rule	O	O
+1.0	655,000 iraqi civilian	die since	invasion	NUMBER	0
+1.0	special tribunal	be suppose	several rights trial	0	0
+1.0	one	have	dome	O	NUMBER
+0.7881215627751262	topple	large statue of	leader Saddam Hussein	0	PERSON
+1.0	December	attract	participation	DATE	0
+1.0	February	destroy	dome of one world 's holiest shrine	DATE	NUMBER
+1.0	Fallujah	have	city	O	LOCATION
+1.0	its	have	search	O	O
+0.7881215627751262	topple	large statue of	iraqi leader Saddam Hussein	0	PERSON
+1.0	200 people	be in	shiite neighbourhood of Sadr City	NUMBER	LOCATION
+1.0	February	destroy	dome world 's shiite shrine	DATE	0
+1.0	participant	be in	September 11 2001	0	DATE
+1.0	February	destroy dome in	Samarra	DATE	LOCATION
+1.0	US President George W. Bush	have	administration	O	PERSON
+1.0	February	destroy	dome of world 's holiest shrine	DATE	0
+1.0	single series	kill amid	widen war	0	0
+1.0	devastate bomb attack	be in	Madrid	0	LOCATION
+1.0	tribunal	be suppose	several rights trial	0	0
+1.0	February	prompt	widespread violence between Shiites	DATE	MISC
+1.0	special tribunal	be	several human rights trial	0	0
+1.0	UN headquarters	be in	Baghdad	ORGANIZATION	LOCATION
+1.0	February	prompt	violence	DATE	0
+1.0	October	give	wide autonomy	DATE	0
+1.0	Abu Ghraib prison	be	tortured	LOCATION	0
+1.0	tribunal	be suppose	several human rights trial	0	0
+1.0	series	kill over	200 people	0	NUMBER
+1.0	special tribunal	be suppose	rights trial	0	0

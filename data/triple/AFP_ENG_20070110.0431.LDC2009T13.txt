@@ -1,0 +1,97 @@
+1.0	book	attribute capital requirement in	Gulf	0	LOCATION
+1.0	six million bpd	be in	2002	MONEY	DATE
+1.0	oil investment	remain	fraction of global oil capital	0	0
+1.0	Gulf state	invest	99 billion dollar	LOCATION	MONEY
+1.0	political tension prevail	be in	Gulf region	0	LOCATION
+0.6691923204442796	cost	add one barrel to	exist output capacity	0	DURATION
+1.0	United Arab Emirates	boost	Kuwait	LOCATION	LOCATION
+1.0	dollars	have	oil capital	O	MONEY
+1.0	world	have	oil superpower	O	O
+1.0	region	have	crude production cost in world	0	0
+1.0	oil investment	fraction of	require global oil capital	0	0
+1.0	socio	have	state	O	O
+1.0	plans	have	spoken	O	O
+1.0	region	have	lowest crude production cost in world	0	0
+1.0	Saudi Arabia	maintain	its current output capacity	LOCATION	DATE
+1.0	political turmoil	be in	Saudi Arabia	0	LOCATION
+1.0	523 billion dollar	be in	capital for exploration	MONEY	ORGANIZATION
+1.0	dollars	have	spending	O	MONEY
+1.0	region	have start besides	arab-israeli conflict	0	0
+1.0	Saudi Arabia	maintain	its current output capacity of 11.3 million barrel	LOCATION	MONEY
+1.0	United Arab Emirates	boost capacity to	four million bpd	LOCATION	NUMBER
+1.0	producers	have	oil sector	O	O
+1.0	Iran	raise	capacity	LOCATION	0
+1.0	Middle East	in	oil production	LOCATION	0
+1.0	region	face	uncertainty follow us-led invasion	0	0
+1.0	oil investment	fraction of	require oil capital	0	0
+1.0	its output capacity	expand	its current output capacity of 11.3 million barrels per day -LRB- bpd -RRB-	0	0
+0.6691923204442796	cost	add	one barrel of oil	0	NUMBER
+0.6691923204442796	cost	add one barrel to	crude output capacity	0	DURATION
+0.6691923204442796	cost	add	one barrel	0	NUMBER
+1.0	oil experts	have	group	O	O
+1.0	Saudi Arabia	maintain	its output capacity of 11.3 million barrel per day	LOCATION	DURATION
+1.0	Saudi Arabia	have	output capacity	O	O
+1.0	oil investment	remain	fraction of require global oil capital	0	0
+1.0	supplies	have	future	DATE	O
+1.0	annual spending	be in	sector	SET	0
+1.0	region	face	uncertainty follow us-led invasion of Iraq	0	LOCATION
+1.0	Middle East	have	oil production	O	LOCATION
+1.0	region	have	lowest crude production cost	0	0
+1.0	Saudi Arabia	have	have lock in multi-billion dollar programme	LOCATION	0
+1.0	oil investment	fraction of	oil capital	0	0
+1.0	oil investment	be in	Middle East	0	LOCATION
+1.0	investment	could	could hamper	0	0
+1.0	lowest crude production cost	be in	world	0	0
+0.6691923204442796	cost	add one barrel of oil to	exist output capacity	0	DURATION
+1.0	10 million bpd	be in	2010	NUMBER	NUMBER
+1.0	oil capital	have	fraction	O	O
+1.0	uncertainty	be in	Iraq	0	LOCATION
+1.0	book	attribute	smaller capital requirement	0	0
+1.0	oil investment	fraction of	global oil capital	0	0
+1.0	Saudi Arabia	have	have lock in dollar programme	LOCATION	0
+1.0	oil investment	remain	fraction of oil capital	0	0
+1.0	expert	say in	book publish	0	0
+1.0	world	have	oil superpower	0	0
+1.0	barrels	have	output capacity	O	O
+1.0	expert	say in	book	0	0
+1.0	book	attribute	capital requirement	0	0
+1.0	Saudi Arabia	maintain	its output capacity	LOCATION	0
+1.0	22,000 dollar	be in	North Sea	MONEY	LOCATION
+1.0	United Arab Emirates	speak	Kuwait	LOCATION	LOCATION
+1.0	its current output capacity	expand	its current output capacity of 11.3 million barrels per day -LRB- bpd -RRB-	DATE	0
+1.0	world oil consumption	say	book write	0	0
+1.0	it	estimate cost compare with	world average	0	DURATION
+1.0	region	face	uncertainty follow invasion	0	0
+0.6691923204442796	cost	add one barrel of oil to	output capacity	0	DURATION
+1.0	dollars	have	world average	O	MONEY
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	expert	say in	book publish Wednesday	0	DATE
+1.0	book	attribute capital requirement to	fact	0	0
+0.6691923204442796	cost	add one barrel to	exist crude output capacity	0	DURATION
+1.0	oil	have	barrel	O	O
+1.0	region	have	crude production cost	0	0
+1.0	United Arab Emirates	boost	capacity	LOCATION	0
+1.0	world oil consumption	uncertainty in	Iraq	0	LOCATION
+1.0	each	have	refining production capacity	O	O
+1.0	oil investment	remain	fraction of require oil capital	0	0
+1.0	Saudi Arabia	maintain	its current output capacity of 11.3 million barrel per day	LOCATION	DURATION
+1.0	world oil consumption	say	book	0	0
+1.0	United Arab Emirates	have speak of	plan	LOCATION	0
+1.0	region	face	uncertainty follow invasion of Iraq	0	LOCATION
+0.6691923204442796	cost	add one barrel to	output capacity	0	DURATION
+1.0	Saudi Arabia	have	have lock	LOCATION	0
+1.0	oil fields	have	dollars	MONEY	O
+1.0	Saudi Arabia	maintain	its output capacity of 11.3 million barrel	LOCATION	MONEY
+1.0	Gulf state	need besides	project	LOCATION	0
+1.0	expect growth	be in	Middle East 's oil production	0	LOCATION
+1.0	region	have start besides	conflict	0	0
+1.0	region	face	uncertainty	0	0
+0.6691923204442796	cost	add one barrel of oil to	crude output capacity	0	DURATION
+1.0	it	estimate cost compare with	world average of 10,200 dollar	0	MONEY
+1.0	period	have	decade	DATE	O
+1.0	Gulf state	need besides	upstream project	LOCATION	0
+1.0	oil investment	remain	fraction	0	0
+1.0	their	have	oil production capacity	O	O
+1.0	Saudi Arabia	superpower 's	world	LOCATION	0
+1.0	such investment	could	could hamper	0	0
+0.6691923204442796	cost	add one barrel of oil to	exist crude output capacity	0	DURATION

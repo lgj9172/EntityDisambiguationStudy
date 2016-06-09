@@ -1,0 +1,71 @@
+1.0	government	sell	limited amount	0	0
+1.0	spokesman	mean	133,000 dollar	0	MONEY
+0.7193325015295953	Siemens	concern mainly	its energy	ORGANIZATION	0
+1.0	German industrial group Siemens	be face investigation by	german prosecutor over alleged embezzlement	ORGANIZATION	0
+1.0	money	be pay as	bribe	0	0
+1.0	corruption	have	suspicion	O	O
+0.0626267192275917	spokesman	say against	Siemens concern mainly	0	ORGANIZATION
+1.0	state prosecutor	say in	late December	0	DATE
+1.0	state prosecutor	say in	December	0	DATE
+1.0	German industrial group Siemens	be also face investigation by	german prosecutor over alleged embezzlement	ORGANIZATION	0
+1.0	German industrial group Siemens	be face investigation by	prosecutor	ORGANIZATION	0
+1.0	German industrial group Siemens	be also face	investigation	ORGANIZATION	0
+1.0	German industrial group Siemens	be also face investigation by	german prosecutor over embezzlement	ORGANIZATION	0
+1.0	Saddam Hussein	have	government	O	PERSON
+1.0	Saddam Hussein	have	government allow	PERSON	0
+1.0	spokesman	involve	sum	0	0
+1.0	Saddam Hussein	to	regime secure as part of un-supervised food-for	PERSON	0
+1.0	state prosecutor	be in	Nuremberg	0	LOCATION
+1.0	state prosecutor	be in	Munich	0	LOCATION
+0.436597140666643	investigation	order by	UN Secretary General Kofi Annan	0	PERSON
+1.0	programme	allow	government	0	0
+1.0	money	be allegedly pay as	bribe	0	0
+0.0626267192275917	spokesman	say against	Siemens concern	0	ORGANIZATION
+1.0	food-for	have	part	O	O
+1.0	iraqi government	sell	amount of oil	0	0
+1.0	iraqi government	sell	limited amount of oil	0	0
+1.0	iraqi government	sell	limited amount	0	0
+1.0	oil-for-food programme	be in	Iraq	0	LOCATION
+1.0	spokesman	involve	six-figure sum	0	0
+1.0	slush fund account	operate	system	0	0
+1.0	iraqi government	sell	amount	0	0
+0.0988436233277199	spokesman	say allegation against	Siemens concern mainly	0	ORGANIZATION
+1.0	investigation	find in	2005	0	DATE
+1.0	Kofi Annan	be secretary general of	UN	PERSON	ORGANIZATION
+1.0	government	sell	amount	0	0
+1.0	money	be	allegedly pay	0	0
+1.0	government	sell	amount of oil	0	0
+1.0	money	be	pay	0	0
+1.0	German industrial group Siemens	be face investigation by	german prosecutor over embezzlement	ORGANIZATION	0
+1.0	former and current employees	make	statement	0	0
+1.0	employee	be	suspect	0	0
+1.0	German industrial group Siemens	be also face investigation by	prosecutor	ORGANIZATION	0
+0.633593924617174	spokesman	say against	Siemens	0	ORGANIZATION
+1.0	German industrial group Siemens	be face investigation by	prosecutor over embezzlement	ORGANIZATION	0
+1.0	Wednesday edition	have	advance extract	O	O
+1.0	oil	have	amounts	O	O
+1.0	Saddam Hussein	have	regime	O	PERSON
+1.0	German industrial group Siemens	be also face investigation by	prosecutor over alleged embezzlement	ORGANIZATION	0
+1.0	German industrial group Siemens	be face	investigation	ORGANIZATION	0
+1.0	The paper	have	energy	O	O
+1.0	sanctions	have	effects	O	O
+0.7193325015295953	Siemens	concern	its energy	ORGANIZATION	0
+1.0	German industrial group Siemens	be also face investigation by	german prosecutor	ORGANIZATION	0
+1.0	Linde	be into	german	PERSON	0
+1.0	government	sell	limited amount of oil	0	0
+1.0	German industrial group Siemens	be face investigation by	german prosecutor	ORGANIZATION	0
+1.0	former and current employees	make statement to	prosecutor	0	0
+1.0	The paper	have	Wednesday edition	O	O
+1.0	Kofi Annan	be by	UN	PERSON	ORGANIZATION
+1.0	German industrial group Siemens	be also face investigation by	prosecutor over embezzlement	ORGANIZATION	0
+1.0	programme	allow	iraqi government	0	0
+1.0	money	be allegedly pay to	Saddam Hussein 's regime	0	PERSON
+1.0	Financial Times Deutschland	claim on	Tuesday	ORGANIZATION	DATE
+1.0	spokesman	say allegation against	Siemens	0	ORGANIZATION
+1.0	money	be pay to	Saddam Hussein 's regime	0	PERSON
+1.0	money	be	pay as bribe to Saddam Hussein 's regime	0	PERSON
+1.0	money	be	allegedly pay as bribe to Saddam Hussein 's regime	0	PERSON
+1.0	spokesman	mean	at least 100,000 euro	0	MONEY
+0.0988436233277199	spokesman	say allegation against	Siemens concern	0	ORGANIZATION
+1.0	spokesman	say	allegation	0	0
+1.0	German industrial group Siemens	be face investigation by	prosecutor over alleged embezzlement	ORGANIZATION	0

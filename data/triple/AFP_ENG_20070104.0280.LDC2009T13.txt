@@ -1,0 +1,55 @@
+1.0	their	have	suppliers	O	O
+1.0	Toyota 's total US market share	come to	15.4 percent	LOCATION	PERCENT
+1.0	suppliers	have	troubles	O	O
+1.0	world	have	automaker	O	O
+1.0	Toyota	announce	its choice	ORGANIZATION	0
+1.0	Toyota	have	choice	O	O
+1.0	Toyota 's new plant	will add to	five facility in United States	ORGANIZATION	NUMBER
+1.0	its	have	plants	O	O
+1.0	Toyota 's total US market share	come with	12.9 percent	LOCATION	PERCENT
+1.0	Toyota	have	US market share	O	ORGANIZATION
+1.0	Toyota 's new plant	will add to	five exist facility in United States	ORGANIZATION	NUMBER
+1.0	troubles	have	out arise	O	O
+1.0	Toyota 's US market share	come to	15.4 percent for year	LOCATION	PERCENT
+1.0	Toyota	make	it more popular	ORGANIZATION	0
+1.0	Toyota 's new plant	will add to	five facility	ORGANIZATION	NUMBER
+1.0	Toyota	have	production capacity	O	ORGANIZATION
+1.0	workers	have	thousands	O	O
+1.0	it	popular than	DaimlerChrysler AG	0	ORGANIZATION
+1.0	Toyota	be	japanese	ORGANIZATION	0
+1.0	Toyota 's annual production capacity	be in	North America	SET	LOCATION
+1.0	Toyota 's plant	will add to	five facility	ORGANIZATION	NUMBER
+1.0	people	familiar with	matter	0	0
+1.0	world	as	biggest automaker	0	0
+1.0	Toyota 's total US market share	supplant	DaimlerChrysler	LOCATION	ORGANIZATION
+1.0	Toyota	have	annual production capacity in North America	ORGANIZATION	LOCATION
+1.0	Toyota 's new plant	will add to	five exist facility	ORGANIZATION	NUMBER
+1.0	Toyota 's US market share	supplant	DaimlerChrysler	LOCATION	ORGANIZATION
+1.0	Toyota 's plant	will add to	five facility in United States	ORGANIZATION	NUMBER
+1.0	Toyota	have	hand	O	ORGANIZATION
+1.0	Toyota	have	plant	O	ORGANIZATION
+1.0	people	familiar with	matter say	0	0
+1.0	auto makers	have	troubles	O	O
+1.0	Toyota	make	it popular than DaimlerChrysler AG	ORGANIZATION	ORGANIZATION
+1.0	report	say at_time	Thursday	0	DATE
+1.0	Toyota 's plant	will add to	five exist facility	ORGANIZATION	NUMBER
+1.0	it	more popular than	DaimlerChrysler AG	0	ORGANIZATION
+1.0	Wall Street Journal	quote	people familiar	ORGANIZATION	0
+1.0	Toyota	make	it more popular than DaimlerChrysler AG	ORGANIZATION	ORGANIZATION
+1.0	Toyota 's US market share	come to	15.4 percent	LOCATION	PERCENT
+1.0	Highlander vehicle	have	generation	O	O
+1.0	Toyota 's total US market share	come to	15.4 percent for year	LOCATION	PERCENT
+1.0	Toyota 's plant	will add to	five exist facility in United States	ORGANIZATION	NUMBER
+1.0	Wall Street Journal	quote	people familiar with matter	ORGANIZATION	0
+1.0	Toyota	have	hand	ORGANIZATION	0
+1.0	Toyota	announce as soon	its choice	ORGANIZATION	0
+1.0	Toyota	have	total US market share	ORGANIZATION	LOCATION
+1.0	Toyota	announce soon	its choice	ORGANIZATION	0
+1.0	five exist facility	be in	United States	NUMBER	LOCATION
+1.0	Toyota	have	plant	O	O
+1.0	Toyota	have	new plant	ORGANIZATION	0
+1.0	Toyota	say at_time	last month	ORGANIZATION	DATE
+1.0	Toyota	make	it popular	ORGANIZATION	0
+1.0	Toyota	say at_time	month	ORGANIZATION	DATE
+1.0	Wall Street Journal	quote	people familiar with matter say	ORGANIZATION	0
+1.0	Toyota 's US market share	come with	12.9 percent	LOCATION	PERCENT

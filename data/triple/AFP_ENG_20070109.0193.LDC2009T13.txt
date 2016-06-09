@@ -1,0 +1,59 @@
+1.0	Inter 's advantage	have	way	O	O
+1.0	Inter	go for	straight	ORGANIZATION	0
+1.0	bar	have	underside	O	O
+1.0	Chievo	be host of	Sampdoria	ORGANIZATION	ORGANIZATION
+1.0	Roma	be on	seven	ORGANIZATION	NUMBER
+1.0	Inter	breach twice	home side 's defence	ORGANIZATION	0
+1.0	brazilian striker Adriano	race from	Zlatan Ibrahimovic	PERSON	PERSON
+1.0	holder	reach	last four of cup	0	NUMBER
+1.0	striker Adriano	break	deadlock	PERSON	0
+1.0	striker Adriano	break	deadlock in 71st minute	PERSON	DATE
+1.0	return leg	would seem	formality Serie champion	0	MISC
+1.0	home side	have	defence	O	O
+1.0	home side	have	defence	0	0
+1.0	brazilian striker Adriano	race onto	delightful throughball	PERSON	0
+1.0	holder	be	place	0	0
+1.0	Roma	be on	Wednesday	ORGANIZATION	DATE
+1.0	Inter	go for	third straight	ORGANIZATION	ORDINAL
+1.0	deadlock	be in	the 71st minute	0	DATE
+1.0	Cup	have	four	NUMBER	MISC
+1.0	post	have	chipping	O	O
+1.0	return leg	would now seem	formality Serie champion	0	MISC
+1.0	holder	be	well place	0	0
+1.0	return leg	would now seem at_time	next week	0	DATE
+1.0	Roma	runner-up for	last two season	ORGANIZATION	NUMBER
+0.8858814059335864	clipping	underside of	bar	0	0
+1.0	Chievo	be while	Sampdoria	ORGANIZATION	ORGANIZATION
+1.0	holder	reach	last four cup	0	NUMBER
+1.0	Ivan Cordoba	be	colombian	PERSON	0
+1.0	return leg	would seem at_time	next week	0	DATE
+1.0	holder	reach	last four of italian cup	0	NUMBER
+1.0	Inter	miss	sackful of chance	ORGANIZATION	0
+1.0	quarter-final	have	leg	O	O
+1.0	Inter	have	advantage	O	ORGANIZATION
+1.0	holder	reach	last four italian cup	0	NUMBER
+1.0	striker Adriano	race onto	throughball	PERSON	0
+1.0	striker Adriano	race from	Zlatan Ibrahimovic	PERSON	PERSON
+1.0	brazilian striker Adriano	race onto	throughball	PERSON	0
+1.0	striker Adriano	race onto	delightful throughball	PERSON	0
+1.0	their	have	relegation	O	O
+1.0	defender Ivan Cordoba	double	Inter 's advantage	PERSON	ORGANIZATION
+1.0	brazilian striker Adriano	break	deadlock	PERSON	0
+1.0	return leg	would seem	formality for Inter Serie champion	0	MISC
+1.0	Inter	breach	home side 's defence	ORGANIZATION	0
+1.0	brazilian striker Adriano	break	deadlock in 71st minute	PERSON	DATE
+1.0	return leg	would seem at_time	week	0	DATE
+1.0	Adriano	be	brazilian	PERSON	0
+0.8858814059335864	clipping	underside of	bar on its way	0	0
+1.0	Fiorentina	be on	six	ORGANIZATION	NUMBER
+1.0	colombian defender Ivan Cordoba	double	Inter 's advantage	PERSON	ORGANIZATION
+1.0	Inter	have	advantage	ORGANIZATION	0
+1.0	return leg	would now seem	formality for Inter Serie champion	0	MISC
+1.0	Inter	miss	sackful	ORGANIZATION	0
+1.0	Empoli	be in	first leg of they quarter-final	ORGANIZATION	ORDINAL
+1.0	they	win	2-0	0	NUMBER
+1.0	they	have	quarter-final	O	O
+1.0	return leg	would now seem at_time	week	0	DATE
+1.0	chances	have	sackful	O	O
+1.0	the final minute	header 's	Luis Figo	DURATION	PERSON
+1.0	Colombian defender Ivan Cordoba	have	header	O	O

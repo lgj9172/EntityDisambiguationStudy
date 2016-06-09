@@ -1,0 +1,55 @@
+1.0	global economy	register growth despite	growth	0	0
+1.0	global economy	register growth due to	slowdown in US economy	0	LOCATION
+1.0	nation	have	exports	O	O
+1.0	United States	maintain	weak dollar policy	LOCATION	0
+1.0	economy	register growth due to	slowdown	0	0
+1.0	economy	register growth due to	expect slowdown	0	0
+1.0	year	have	exports	O	DATE
+1.0	slowdown	undermine	sale	0	0
+1.0	economy	register growth despite	growth in China	0	LOCATION
+1.0	negative growth	be in	textile shipment	0	0
+1.0	economy	register growth than	last year	0	DATE
+1.0	economy	register	growth	0	0
+1.0	its	have	founding	O	O
+1.0	the	have	strength	O	O
+1.0	global economy	register	slower growth	0	0
+1.0	economy	register growth despite	solid growth in China	0	LOCATION
+1.0	the win	have	strength	0	0
+1.0	this year	have	export	DATE	0
+1.0	slow growth	be in	petrochemical export	0	0
+1.0	dollars	have	trade surplus	O	MONEY
+1.0	dollars	have	surplus	O	MONEY
+1.0	economy	register	slower growth	0	0
+1.0	economy	register growth despite	growth	0	0
+1.0	global economy	register growth than	last year	0	DATE
+1.0	global economy	register growth than	year	0	DATE
+1.0	global economy	register growth despite	solid growth	0	0
+1.0	global economy	register growth despite	growth in China	0	LOCATION
+1.0	United States	further maintain	weak dollar policy	LOCATION	0
+1.0	global economy	register growth despite	solid growth in China	0	LOCATION
+1.0	its founding	be in	1948	0	DATE
+1.0	10.4 percent rise	be in	export	PERCENT	0
+1.0	economy	register growth than	year	0	DATE
+1.0	United States	reduce	its trade deficit	LOCATION	0
+1.0	slowdown	undermine overseas	sale	0	0
+1.0	global economy	register	growth	0	0
+0.7686821122412397	sale	slowdown in	global economy	0	0
+1.0	326 billion dollar	be in	2006	MONEY	DATE
+1.0	Industry	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Commerce	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	nation	have	annual export	0	SET
+1.0	economy	register growth despite	solid growth	0	0
+1.0	United States	maintain	dollar policy	LOCATION	0
+1.0	16.7 billion dollar	be in	2006	MONEY	DATE
+1.0	slowdown	be in	global economy	0	0
+1.0	economy	register growth due to	slowdown in US economy	0	LOCATION
+1.0	United States	further maintain	dollar policy	LOCATION	0
+1.0	solid growth	be in	China	0	LOCATION
+1.0	the	have	rise	O	O
+0.7686821122412397	sale	slowdown in	economy	0	0
+1.0	Energy	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	global economy	register growth due to	slowdown	0	0
+1.0	global economy	register growth due to	expect slowdown	0	0
+1.0	its	have	trade deficit	O	O
+1.0	the win	have	rise against dollar	0	0
+1.0	expect slowdown	be in	US economy	0	LOCATION

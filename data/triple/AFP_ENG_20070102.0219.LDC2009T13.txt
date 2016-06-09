@@ -1,0 +1,128 @@
+1.0	his	have	statement	O	O
+1.0	persons	have	deaths	O	O
+1.0	man	wait for	flight	0	0
+1.0	spanish government	have say	nothing	0	0
+1.0	talks	have	possibility	O	O
+1.0	Spain	have	attorney general	O	LOCATION
+1.0	rescue worker	continue	search	0	0
+1.0	weekend bombing	effectively scuttle	possibility of talk	DATE	0
+1.0	Its	have	authors	O	O
+1.0	government	have say nothing at_time	Saturday night	0	DATE
+1.0	spanish government	have say nothing at_time	Saturday night	0	DATE
+1.0	man	be	think	0	0
+1.0	man	wait for	flight from they homeland	0	0
+1.0	Their	have	destiny	O	O
+1.0	rescuer	continue	search through rubble Tuesday	0	DATE
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come under	pressure	PERSON	0
+1.0	Candido Conde-Pumpio	say accord to	paper	PERSON	0
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come under	sharp pressure	PERSON	0
+1.0	minister	maintain	he invitation negotiate	0	0
+1.0	El Mundo	report at_time	Tuesday	ORGANIZATION	DATE
+1.0	Conde-Pumpio	have	have accuse over few month by conservative opposition leader	PERSON	DURATION
+1.0	minister	have conclude in	fact	0	0
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come at_time	Tuesday	PERSON	DATE
+1.0	minister	maintain	he invitation	0	0
+1.0	Conde-Pumpio	have	have accuse over month	PERSON	0
+1.0	government	provoke	speculation	0	0
+1.0	weekend bombing	effectively scuttle	possibility	DATE	0
+1.0	Jose Luis Rodriguez Zapatero	be	spanish	PERSON	0
+1.0	fledgling peace process	bomb	airport parking structure	0	0
+1.0	man	be think	have asleep	0	0
+0.6816474506352318	weekend bombing	possibility of	talk	DATE	0
+1.0	its author	will	will detain	0	0
+1.0	government	have say	nothing about status of peace process	0	0
+1.0	newspaper	cite	government source	0	0
+1.0	government	have say	nothing about status	0	0
+1.0	party	have	leader	O	O
+1.0	they	would	would fatality ascribe since 2003	0	DATE
+1.0	spanish government	provoke	speculation	0	0
+1.0	weekend bombing	scuttle	possibility of talk	DATE	0
+1.0	spanish government	have say	nothing about status of peace process since Zapatero 's statement	0	PERSON
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come from	opposition conservative	PERSON	0
+1.0	minister	have conclude accord to	daily	0	SET
+1.0	spanish government	have say	nothing about status	0	0
+1.0	party 's leader	slam	Zapatero	0	PERSON
+1.0	violence	have	act	O	O
+1.0	prime minister	in	position	0	0
+1.0	prime minister	maintain	he invitation	0	0
+1.0	prime minister	have conclude in	fact	0	0
+1.0	minister	have conclude accord to	left-of-center daily	0	SET
+1.0	Conde-Pumpio	have	have accuse over last few month by opposition leader	PERSON	DURATION
+1.0	Spain	have	attorney general	LOCATION	0
+1.0	unilateral	cease	fire	0	0
+1.0	Popular Party spokesman Gabriel Elorriaga	tell	local radio station	PERSON	0
+1.0	bombing	be	serious	0	0
+1.0	secret meeting	be in	December	0	DATE
+1.0	prime minister	have conclude accord to	daily	0	SET
+1.0	prime minister	have conclude accord to	left-of-center daily	0	SET
+1.0	government	have	representatives	O	O
+0.6195683270144663	two ecuadorian	kill in	explosion	NUMBER	0
+1.0	fledgling peace process	be with	ETA basque separatist after armed group	0	ORGANIZATION
+1.0	occasions	have	each	O	O
+1.0	government	have say	nothing about status of peace process since Zapatero 's statement	0	PERSON
+1.0	miss man	be think	have asleep	0	0
+1.0	Zapatero	since	statement	PERSON	0
+1.0	minister	weigh	he statement	0	0
+1.0	Zapatero	have	statement	O	PERSON
+1.0	prime minister	carefully weigh	he statement	0	0
+1.0	Conde-Pumpio	have	have accuse over month by opposition leader	PERSON	0
+1.0	Zapatero	have	hour	PERSON	0
+1.0	party 's leader	slam zapatero on	Sunday	0	DATE
+1.0	rescuer	continue	search	0	0
+1.0	minister	carefully weigh	he statement	0	0
+1.0	Popular Party spokesman Gabriel Elorriaga	tell	radio station	PERSON	0
+1.0	they	would	would fatality	0	0
+1.0	spanish government	have say	nothing about status of peace process	0	0
+1.0	rescuer	search at_time	Tuesday	0	DATE
+1.0	prime minister	maintain	he invitation negotiate	0	0
+1.0	Conde-Pumpio	have	have accuse over last few month by conservative opposition leader	PERSON	DURATION
+1.0	Gabriel Elorriaga	be	Popular Party	PERSON	ORGANIZATION
+1.0	they	would	would fatality ascribe	0	0
+1.0	they	confirm	dead	0	0
+0.633593924617174	spanish government	have say at_time	Saturday night	0	DATE
+1.0	rescuer	continue	search through massive rubble Tuesday	0	DATE
+1.0	rescuer	continue	search Tuesday	0	DATE
+1.0	miss man	be	think	0	0
+1.0	Gabriel Elorriaga	be spokesman of	Popular Party	PERSON	ORGANIZATION
+1.0	they	would	would first fatality ascribe since 2003	0	ORDINAL
+1.0	Conde-Pumpio	have	have accuse over few month by opposition leader	PERSON	DURATION
+1.0	prime minister	weigh	he statement	0	0
+1.0	unilateral	cease fire on	March 22	0	DATE
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come from	opposition conservative	PERSON	0
+1.0	rescuer	search through	rubble	0	0
+0.633593924617174	government	have say at_time	Saturday night	0	DATE
+0.13448128613737897	unilateral	cease on	March 22	0	DATE
+1.0	campaign	have	course	O	O
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come under	pressure	PERSON	0
+1.0	party 's leader	slam	Zapatero fail	0	PERSON
+1.0	Conde-Pumpio	have	have accuse over last month	PERSON	DURATION
+1.0	Conde-Pumpio	have	have accuse over last month by opposition leader	PERSON	DURATION
+1.0	Conde-Pumpio	have	have accuse over last few month	PERSON	DURATION
+1.0	minister	have	position	O	O
+1.0	party	have	leader	0	0
+1.0	they	would	would first fatality ascribe to ETA since 2003	0	ORDINAL
+1.0	its	have	sympathizers	O	O
+1.0	rupture	be	make	0	0
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come at_time	Tuesday	PERSON	DATE
+1.0	rescuer	continue	search through massive rubble	0	0
+1.0	party	's leader be	Mariano Rajoy	0	PERSON
+1.0	weekend bombing	scuttle	possibility	DATE	0
+1.0	rescuer	search through	massive rubble	0	0
+1.0	miss man	wait for	flight	0	0
+1.0	ETA	have	representatives	O	ORGANIZATION
+1.0	Conde-Pumpio	have	have accuse over few month	PERSON	DURATION
+1.0	Conde-Pumpio	have	have accuse over last month by conservative opposition leader	PERSON	DURATION
+1.0	miss man	wait for	flight from they homeland	0	0
+1.0	they	would	would fatality ascribe to ETA since 2003	0	DATE
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come under	sharp pressure	PERSON	0
+1.0	Zapatero	have	declaration hours	DURATION	PERSON
+1.0	the prime minister 's	have	invitation	O	O
+1.0	Conde-Pumpio	have	have accuse over month by conservative opposition leader	PERSON	0
+1.0	they	would	would first fatality ascribe	0	ORDINAL
+1.0	peace process	have	status	O	O
+1.0	they	would	would first fatality ascribe to ETA	0	ORDINAL
+1.0	their	have	homeland	O	O
+1.0	government	have say	nothing	0	0
+1.0	rescuer	continue	search through rubble	0	0
+1.0	they	would	would first fatality	0	ORDINAL
+1.0	they	would	would fatality ascribe to ETA	0	ORGANIZATION

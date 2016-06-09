@@ -1,0 +1,25 @@
+0.5624514432690371	Nelson , 40	go with	3.47 era in 331 appearance	PERSON	NUMBER
+0.8382575530430038	Veteran pitcher Jeff Nelson	promptly announce	he retirement	0	0
+1.0	veteran pitcher Jeff Nelson	sign	contract	PERSON	0
+0.8382575530430038	Veteran pitcher Jeff Nelson	announce	he retirement	0	0
+0.5624514432690371	Nelson , 40	go in	798 career appearance with Seattle Mariners	PERSON	ORGANIZATION
+1.0	Nelson , 40	go	48-45	PERSON	NUMBER
+1.0	798 career appearance	be with	Seattle Mariners	NUMBER	ORGANIZATION
+1.0	veteran pitcher Jeff Nelson	sign contract with	New York Yankees	PERSON	ORGANIZATION
+1.0	3.47 era	be in	331 appearance with Yankees	NUMBER	ORGANIZATION
+1.0	Nelson , 40	play	six game	PERSON	NUMBER
+1.0	Nelson , 40	play	just six game	PERSON	NUMBER
+0.5624514432690371	Nelson 40	go with	3.47 era	NUMBER	NUMBER
+1.0	Seattle Mariners	be	New York Yankees	ORGANIZATION	ORGANIZATION
+0.5624514432690371	Nelson , 40	go with	3.47 era	PERSON	NUMBER
+1.0	331 appearance	be with	Yankees	NUMBER	ORGANIZATION
+0.5624514432690371	Nelson , 40	go with	3.47 era in 331 appearance with Yankees	PERSON	ORGANIZATION
+0.5624514432690371	Nelson 40	go with	3.47 era in 331 appearance	NUMBER	NUMBER
+1.0	Nelson , 40	be	40	PERSON	NUMBER
+1.0	Nelson 40	play	six game	NUMBER	NUMBER
+1.0	Nelson , 40	go	23-19	PERSON	NUMBER
+1.0	Veteran pitcher Jeff Nelson	have	retirement	O	O
+1.0	Nelson 40	go	23-19	NUMBER	NUMBER
+0.5624514432690371	Nelson , 40	go in	798 career appearance	PERSON	NUMBER
+1.0	Nelson 40	play	just six game	NUMBER	NUMBER
+0.5624514432690371	Nelson 40	go with	3.47 era in 331 appearance with Yankees	NUMBER	ORGANIZATION

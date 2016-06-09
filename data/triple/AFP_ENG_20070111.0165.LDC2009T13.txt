@@ -1,0 +1,31 @@
+1.0	wife	tip	police	0	0
+1.0	maximum sentence	sell person in	southeastern nation	0	0
+1.0	maximum sentence	sell person in	poor southeastern nation	0	0
+1.0	sentence	sell person in	poor southeastern nation	0	0
+1.0	court official	say at_time	Thursday	0	DATE
+1.0	maximum sentence	sell person in	poor african nation	0	0
+1.0	sentence	sell person in	southeastern african nation	0	0
+1.0	this	deter	other	0	0
+1.0	sentence	sell person in	african nation	0	0
+1.0	years	have	sentence	O	DURATION
+1.0	sentence	sell	person	0	0
+1.0	sentence	sell person in	poor nation	0	0
+1.0	he woe	plead for	570 dollar	0	MONEY
+1.0	sentence	sell person in	nation	0	0
+1.0	sentence	sell person in	poor southeastern african nation	0	0
+1.0	sentence	sell person in	southeastern nation	0	0
+0.5341396345058983	Delezina Gomiwa	tell	offender	PERSON	0
+1.0	sentence	sell person in	poor african nation	0	0
+1.0	maximum sentence	sell person in	southeastern african nation	0	0
+1.0	maximum sentence	sell person in	poor southeastern african nation	0	0
+1.0	maximum sentence	sell person in	nation	0	0
+1.0	A Malawian polygamist	have	wife	O	O
+1.0	maximum sentence	sell person in	poor nation	0	0
+1.0	A Malawian polygamist	have	number wife	O	O
+1.0	he woe	plead	guilty	0	0
+1.0	he woe	plead	guilty to charge	0	0
+1.0	A Malawian polygamist	have	woes	O	O
+1.0	maximum sentence	sell person in	african nation	0	0
+1.0	maximum sentence	sell	person	0	0
+1.0	wife	tip off	police	0	0
+1.0	Green Dyton	be	arrest	PERSON	0

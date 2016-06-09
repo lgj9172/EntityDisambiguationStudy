@@ -1,0 +1,16 @@
+1.0	the year	into	first Grand Slam tournament	DATE	ORDINAL
+1.0	Australian Wayne Arthurs	have	draw debut	O	O
+1.0	Monique Adamczak	receive wildcard into	year 's first Grand Slam tournament	PERSON	ORDINAL
+1.0	Monique Adamczak	also receive	wildcard	PERSON	0
+1.0	this month	into	australian Open	DATE	MISC
+1.0	Monique Adamczak	receive wildcard into	year 's Grand Slam tournament	PERSON	DATE
+1.0	Monique Adamczak	also receive wildcard into	year 's Grand Slam tournament	PERSON	DATE
+1.0	Monique Adamczak	also receive wildcard into	year 's first Grand Slam tournament	PERSON	ORDINAL
+1.0	organiser	say at_time	Saturday	0	DATE
+1.0	Australia	have	no.6-ranked player	LOCATION	0
+1.0	Monique Adamczak	receive	wildcard	PERSON	0
+1.0	Australia	have	player	O	LOCATION
+1.0	year	have	Grand Slam tournament	O	DATE
+1.0	Wayne Arthurs	be	australian	PERSON	0
+1.0	Australian Wayne Arthurs	have	appearance	O	O
+1.0	month	have	Open	MISC	DATE

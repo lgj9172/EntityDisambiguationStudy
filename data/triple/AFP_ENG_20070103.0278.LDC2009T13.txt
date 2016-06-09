@@ -1,0 +1,14 @@
+1.0	US government	have	budget	O	O
+1.0	US President George W. Bush	have	tax cuts	O	O
+1.0	people	have	money	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	say at_time	Wednesday	LOCATION	DATE
+1.0	opposition Democrats	have	leadership	O	MISC
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US President George W. Bush	have	cabinet	O	O
+0.8919841494899281	US President George W. Bush	surround by	he cabinet	PERSON	0
+1.0	US President George W. Bush	say at_time	day	PERSON	0
+1.0	US government	have	budget by 2012	LOCATION	DATE
+1.0	people	have	money	O	O
+1.0	our	have	nation	O	O
+1.0	nation	have	needs	O	O

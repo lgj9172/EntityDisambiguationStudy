@@ -1,0 +1,52 @@
+1.0	Mustafa	be volunteer of	local Prosperous Justice Party	PERSON	ORGANIZATION
+1.0	flood	be in	Aceh Tamiang	0	LOCATION
+0.6115384850990833	whole village	be	swallow	0	0
+1.0	Red Crescent spokesman Dharma Wijaya	tell	Antara	PERSON	LOCATION
+1.0	Yon Thayrun	be spokesman of	British charity Oxfam	PERSON	ORGANIZATION
+1.0	people	have	Thousands	O	O
+1.0	Sumatra	have	island	O	LOCATION
+1.0	british charity Oxfam	monitor	situation	ORGANIZATION	0
+1.0	Kuala Simpang	capital of	Aceh Tamiang	LOCATION	LOCATION
+1.0	Aceh Tamiang	have	district	O	LOCATION
+1.0	Oxfam	be	british	ORGANIZATION	0
+1.0	charity Oxfam	monitor	situation	ORGANIZATION	0
+1.0	causes	have	illegal	O	O
+1.0	Relief worker	have face	problem	0	0
+1.0	Mustafa	be	local Prosperous Justice Party	PERSON	ORGANIZATION
+1.0	evacuee	be	be accommodate	0	0
+1.0	floods	have	causes	O	O
+1.0	residents	have	homes	O	O
+0.6115384850990833	whole village	be	alone swallow	0	0
+1.0	Aceh Oxfam spokesman Yon Thayrun	tell	AFP	PERSON	ORGANIZATION
+1.0	Relief worker	have face	problem with slow supplies	0	0
+1.0	Dharma Wijaya	be	indonesian	PERSON	NUMBER
+1.0	400,000 people	escape	flood	NUMBER	0
+1.0	aid worker	say at_time	Thursday	0	DATE
+1.0	Nurdin Joes	be	Aceh Tamiang	PERSON	LOCATION
+1.0	Yon Thayrun	be	British charity Oxfam	PERSON	ORGANIZATION
+1.0	road	have	kilometres	O	O
+1.0	people	escape	flood	0	0
+0.6115384850990833	village	be	swallow	0	0
+1.0	north Sumatra	be in	Aceh Tamiang	LOCATION	LOCATION
+1.0	drinking water	be	problem	0	0
+1.0	Aceh province	have	parts	O	O
+1.0	british charity Oxfam	have send	health team	ORGANIZATION	0
+1.0	drinking water	be	still problem	0	0
+1.0	Aceh Tamiang	have	capital	O	LOCATION
+1.0	problem	be with	slow supplies	0	0
+1.0	Thousands of people who fled flash floods on the Indonesian island of Sumatra	have	villages	O	O
+1.0	Dharma Wijaya	be	Red Crescent	PERSON	ORGANIZATION
+1.0	people	have	water wells	O	O
+1.0	charity Oxfam	have send	health team	ORGANIZATION	0
+1.0	people	be in	area	0	0
+1.0	Some 400,000 people	have	villages	O	O
+1.0	evacuee	be	be accommodate in government building	0	0
+0.5657735464050413	other	have find	shelter	0	0
+0.6115384850990833	village	be	alone swallow	0	0
+1.0	people	have	water well	0	0
+0.5657735464050413	other	have find shelter with	relative	0	0
+1.0	Dharma Wijaya	be spokesman of	Red Crescent	PERSON	ORGANIZATION
+1.0	effort	replant	forest	0	0
+1.0	Relief worker	have face	problem with supplies	0	0
+1.0	villages	have	percent	PERCENT	O
+1.0	road	of kilometre be	280 mile	0	NUMBER

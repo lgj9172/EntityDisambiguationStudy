@@ -1,0 +1,40 @@
+1.0	An army officer gunned down a fellow soldier in Indian Kashmir , the fourth such incident within two months as the army reviews morale in the revolt-hit Himalayan region , police	have	service weapon	O	O
+1.0	army	review morale in	police	0	0
+1.0	Srinagar	of capital be	Jammu	LOCATION	LOCATION
+1.0	army	review morale in	revolt-hit himalayan region	0	0
+1.0	soldier	be in	region	0	0
+1.0	killing	have	have attribute to comrade within past year with most case attribute to stress	0	DATE
+1.0	killing	have	have attribute to comrade within past year with case attribute to stress	0	DATE
+1.0	several suicide death	be in	addition	0	0
+1.0	A.S. Sekhon	be	Indian Kashmir	PERSON	LOCATION
+1.0	An army officer gunned down a fellow soldier in Indian Kashmir , the fourth such incident within two months as the army reviews morale in the revolt-hit Himalayan region , police	have	subordinate	O	O
+1.0	five killing	be in	force	NUMBER	0
+1.0	army	review morale in	himalayan region	0	0
+1.0	killing	have	have attribute within past year with case attribute to stress	0	DATE
+1.0	killing	have	have attribute to comrade	0	0
+1.0	fellow soldier	incident within	two month	0	DURATION
+1.0	fellow soldier	be in	indian Kashmir	0	LOCATION
+1.0	killing	have	have attribute to comrade in Kashmir	0	LOCATION
+1.0	measures	have	some	O	O
+1.0	army	review morale in	revolt-hit region	0	0
+1.0	verbal duel	be with	he subordinate	0	0
+1.0	Srinagar	have	state winter capital	O	LOCATION
+1.0	officer	be arrest by	army	0	0
+1.0	soldier	have blame	work stress	0	0
+1.0	indian Kashmir	in soldier be	fourth such incident within two month	LOCATION	DURATION
+1.0	army	review morale in	region	0	0
+1.0	suicide death	be in	addition	0	0
+1.0	army	review	morale	0	0
+1.0	A.S. Sekhon	be army chief lieutenant general of	Indian Kashmir	PERSON	LOCATION
+1.0	comrade	be in	Indian Kashmir	0	LOCATION
+1.0	killing	have	have attribute to comrade in Kashmir within past year with most case attribute to stress	0	DATE
+1.0	killing	have	have attribute within past year with most case attribute to stress	0	DATE
+0.6408378370785082	soldier	commit	suicide	0	0
+1.0	he	say	survey	0	0
+1.0	a police spokesman	say	add	0	0
+1.0	officer	be	arrest	0	0
+1.0	state winter capital	have	outskirts	O	O
+1.0	killing	have	have attribute to comrade in Kashmir within past year with case attribute to stress	0	DATE
+1.0	the past year	be with	most case attribute to stress	DATE	0
+1.0	insurgency	have	grip	O	O
+1.0	killing	have	have attribute	0	0

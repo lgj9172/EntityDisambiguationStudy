@@ -1,0 +1,9 @@
+1.0	Women	have	Hardcourt tennis championship	O	O
+1.0	Russia	have	Dinara Safina	PERSON	LOCATION
+1.0	Royal pine Resort	be  at_time	Saturday	LOCATION	DATE
+1.0	Russia 's Dinara Safina	win	Women 's Hardcourt tennis championship	LOCATION	0
+1.0	Russia 's Dinara Safina	beat	Martina Hingis 6-3 3-6 7-5 in final	0	NUMBER
+1.0	Russia 's Dinara Safina	win	australian Women 's Hardcourt tennis championship	LOCATION	0
+1.0	Martina Hingis	be in	final	PERSON	0
+1.0	Russia	have	Dinara Safina	LOCATION	PERSON
+1.0	Russia 's Dinara Safina	beat	Martina Hingis 6-3 3-6 7-5	0	NUMBER

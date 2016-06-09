@@ -1,0 +1,61 @@
+1.0	this	be	temporary period	0	0
+1.0	Turkey 's	open talk in	chapter	LOCATION	0
+1.0	plan	be expect	complete in late January	0	DATE
+1.0	Turkey in response	have	membership goal	O	O
+1.0	their	have	place	O	O
+1.0	policy areas	have	eight	NUMBER	O
+1.0	Turkey 's	open	talk	LOCATION	0
+1.0	plan	be complete in	January	0	DATE
+1.0	Foreign Minister Abdullah Gul	chair	meeting	PERSON	0
+1.0	Turkey	follow	refusal open to greek Cypriot use under custom union accord with bloc	LOCATION	MISC
+1.0	government	have	agenda	O	O
+1.0	this	be	only temporary period	0	0
+1.0	Turkey	have	bid	O	LOCATION
+1.0	agenda	have	lose	O	O
+1.0	Foreign Minister Abdullah Gul	chair	meeting of some 100 of Turkey 's senior government official	PERSON	LOCATION
+1.0	country	be in	line	0	0
+1.0	Turkey in response	have	refusal	O	O
+1.0	he	say at_time	early February	0	DATE
+1.0	Turkey	of	most senior government official	LOCATION	0
+1.0	Turkey 's	open talk in	chapter other than those	LOCATION	0
+1.0	plan	be	complete	0	0
+1.0	EU sanction	come as	blow	DURATION	0
+1.0	summit	be in	December	0	DATE
+1.0	Turkey	have	government officials	O	LOCATION
+1.0	Foreign Minister Abdullah Gul	chair	meeting of some 100 of Turkey 's most senior government official	PERSON	LOCATION
+1.0	reform	lose	they place	0	0
+1.0	widespread public opposition	be in	Europe	DURATION	LOCATION
+1.0	climate	be negative at	present	0	DATE
+1.0	Turkey	have	membership talk	LOCATION	0
+1.0	reform	have	path	O	O
+1.0	downs	have	time	O	O
+1.0	country	to	membership	0	0
+1.0	plan	be expect	complete in January	0	DATE
+1.0	government officials	have	100	NUMBER	O
+1.0	plan	be	expect	0	0
+1.0	custom union accord	be with	bloc	0	0
+1.0	reforms	have	roadmap	O	O
+1.0	policy areas	have	variety	O	O
+1.0	government	on top of	agenda	0	0
+1.0	Foreign Minister Abdullah Gul	chair	meeting of some 100 Turkey 's most senior government official	PERSON	LOCATION
+1.0	elections	have	lose	O	O
+1.0	Turkey	have	refusal	O	LOCATION
+1.0	Turkey	be in	response	LOCATION	0
+1.0	plan	be expect	complete	0	0
+1.0	reforms	have	timetable	O	O
+1.0	plan	be complete in	late January	0	DATE
+1.0	Foreign Minister Abdullah Gul	chair	meeting of some 100 Turkey 's senior government official	PERSON	LOCATION
+1.0	this	be	temporary	0	0
+1.0	this	be	period	0	0
+1.0	country	have	membership	O	O
+1.0	100	have	meeting	O	NUMBER
+1.0	Turkey	to	bid	LOCATION	0
+1.0	EU leader	suspend	Turkey 's membership talk	LOCATION	LOCATION
+1.0	Turkey 's most senior government officials	have	determination	O	O
+1.0	he	say at_time	February	0	DATE
+1.0	Turkey 's	open talk in	chapter other than those suspend	LOCATION	0
+1.0	its	have	ports	O	O
+1.0	Turkey	have	membership talks	O	LOCATION
+1.0	eu-required reform	lose	they place	0	0
+1.0	this	be	only period	0	0
+1.0	Foreign Minister Abdullah Gul	chair meeting on	Wednesday	PERSON	DATE

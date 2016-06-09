@@ -1,0 +1,65 @@
+1.0	Al-Qaeda members	have	hideouts	O	O
+0.010717726303177022	Mogadishu	have see in	violence	LOCATION	0
+0.010717726303177022	Mogadishu	have see with	resident	LOCATION	0
+1.0	air raid	mark	first US intervention in Somalia	0	LOCATION
+1.0	casualties	have	number	O	O
+1.0	gunman	also attack	camp	0	0
+1.0	gunman	also attack camp on	Sunday	0	DATE
+1.0	air raid	mark us intervention since	early 1990s	0	DATE
+1.0	Mogadishu	in camp be	second such attack	LOCATION	ORDINAL
+1.0	US airforce	launch raid in	Somalia	LOCATION	LOCATION
+1.0	second such attack	be in	three day	ORDINAL	DATE
+1.0	gunman	attack camp on	Sunday	0	DATE
+1.0	air raid	mark	US intervention	0	LOCATION
+1.0	camp	attack in	three day	0	DATE
+1.0	Mogadishu	have see rise in	violence	LOCATION	0
+1.0	Tuesday	have	attacks	O	DATE
+1.0	air raid	mark	first overt US intervention in Somalia	0	LOCATION
+1.0	government troops	have	arrival	O	O
+1.0	US embassies	have	bombing	O	O
+1.0	backers	have	arrival	O	O
+1.0	Mogadishu	have see rise since	arrival	LOCATION	0
+1.0	hideout	participate in	Nairobi	0	LOCATION
+1.0	Mogadishu	have see rise with	resident rally	LOCATION	0
+1.0	air raid	mark	first overt US military intervention in Somalia	0	LOCATION
+1.0	Mogadishu	have see rise since	arrival of government troops	LOCATION	0
+1.0	Mogadishu	have see rise with	resident	LOCATION	0
+1.0	target hideout	participate in	Nairobi	0	LOCATION
+1.0	air raid	mark	overt US military intervention	0	LOCATION
+1.0	hideout	participate in	1998 bombing	0	DATE
+1.0	air raid	mark	US military intervention	0	LOCATION
+1.0	Mogadishu	have see	rise	LOCATION	0
+1.0	hideout	participate in	1998 bombing of US embassy	0	LOCATION
+1.0	Mohamed Ahmed Kere	resident in	capital 's k4 district	PERSON	0
+1.0	their	have	backers	O	O
+1.0	air raid	mark	US military intervention in Somalia	0	LOCATION
+1.0	air raid	mark	overt US intervention in Somalia	0	LOCATION
+1.0	first overt US military intervention	be in	Somalia	LOCATION	LOCATION
+1.0	capital	have	K4 district	O	O
+1.0	air raid	mark	first US intervention	0	LOCATION
+1.0	fire	have	exchange	O	O
+1.0	target hideout	participate in	1998 bombing	0	DATE
+1.0	air raid	mark	first US military intervention in Somalia	0	LOCATION
+1.0	street	lead to	camp	0	0
+1.0	air raid	mark	US intervention in Somalia	0	LOCATION
+1.0	Tuesday	have	attack	LOCATION	0
+1.0	camp	be in	Mogadishu	0	LOCATION
+1.0	air raid	mark	first overt US military intervention	0	LOCATION
+1.0	air raid	mark	first overt US intervention	0	LOCATION
+1.0	Faraha Moalim Nur	can still hear	gunfire	0	0
+0.010717726303177022	Mogadishu	have see since	arrival of government troops	LOCATION	0
+0.010717726303177022	Mogadishu	have see since	arrival	LOCATION	0
+1.0	US airforce	launch	raid	LOCATION	0
+1.0	target hideout	participate in	1998 bombing of US embassy	0	LOCATION
+1.0	air raid	mark	overt US intervention	0	LOCATION
+1.0	forces	have	presence	O	O
+1.0	gunman	attack	camp	0	0
+1.0	capital	in	k4 district	0	0
+1.0	Faraha Moalim Nur	can hear	gunfire	0	0
+1.0	Faraha Moalim Nur	can still hear	sporadic gunfire	0	0
+1.0	US airforce	launch raid in	southern Somalia	LOCATION	LOCATION
+1.0	air raid	mark	overt US military intervention in Somalia	0	LOCATION
+1.0	air raid	mark	first US military intervention	0	LOCATION
+0.010717726303177022	Mogadishu	have see with	resident rally	LOCATION	0
+1.0	resident	be in	capital 's k4 district	0	0
+1.0	Faraha Moalim Nur	can hear	sporadic gunfire	0	0

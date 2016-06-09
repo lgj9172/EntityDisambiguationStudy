@@ -1,0 +1,21 @@
+1.0	Lions	be	Force	ORGANIZATION	ORGANIZATION
+0.6651482655671663	home advantage	team on	final standing	0	0
+1.0	Sharks	be	Stormers	ORGANIZATION	ORGANIZATION
+0.9861474705634014	competition	increase at_time	last year	0	DATE
+0.6651482655671663	home advantage	team on	standing	0	0
+1.0	Lions	be	Stormers	ORGANIZATION	ORGANIZATION
+1.0	Sharks	be	Blues	ORGANIZATION	ORGANIZATION
+1.0	team	have	home advantage	0	0
+0.24757769998012935	home advantage	team on	standing	0	0
+0.9861474705634014	competition	increase from	12 franchise to 14	0	NUMBER
+1.0	Waratahs	be	Blues	ORGANIZATION	ORGANIZATION
+1.0	Sharks	be	Chiefs	ORGANIZATION	ORGANIZATION
+1.0	Lions	be	Chiefs	ORGANIZATION	ORGANIZATION
+1.0	Sharks	be	Force	ORGANIZATION	ORGANIZATION
+1.0	Highlanders	be	Blues	ORGANIZATION	ORGANIZATION
+1.0	Collated fixture	venue for	annual Super	0	SET
+1.0	Bulls	be	Highlanders	ORGANIZATION	ORGANIZATION
+0.24757769998012935	home advantage	team on	final standing	0	0
+1.0	Lions	be	Blues	ORGANIZATION	ORGANIZATION
+0.9861474705634014	competition	increase at_time	year	0	DATE
+0.9861474705634014	competition	increase from	12 franchise	0	NUMBER

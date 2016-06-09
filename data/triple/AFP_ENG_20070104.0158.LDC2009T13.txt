@@ -1,0 +1,62 @@
+1.0	Alfredo Perez Rubalcaba	be minister of	Interior	PERSON	ORGANIZATION
+1.0	Jose Luis Rodriguez Zapatero	face	pressure put	PERSON	0
+1.0	truck bomb	have	scene	O	O
+1.0	A Zapatero spokesman	have	spokesman	O	O
+1.0	the prime minister	have	strategy	O	O
+1.0	Jose Luis Rodriguez Zapatero	have information in	hand	0	0
+1.0	Jose Luis Rodriguez Zapatero	face	mount pressure put in place effective measure	PERSON	0
+1.0	Ecuadoran Carlos Alonso Palate	have	families	O	PERSON
+1.0	government	hold	dialogue	0	0
+1.0	Jose Luis Rodriguez Zapatero	face	pressure put in place measure	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	face	mount pressure	PERSON	0
+1.0	the prime minister	have	disposal	O	O
+1.0	A Zapatero spokesman	have	policy	O	O
+1.0	Barajas airport	scene of	huge truck bomb	LOCATION	0
+1.0	it	remain	unclear	0	0
+1.0	Zapatero	have	appearance	O	PERSON
+1.0	Jose Luis Rodriguez Zapatero	have	information	0	0
+1.0	Jose Luis Rodriguez Zapatero	face	pressure put in place effective measure	PERSON	0
+0.23154884713092094	Jose Luis Rodriguez Zapatero	have	information allow	0	0
+1.0	Jose Luis Rodriguez Zapatero	have	complete information	0	0
+1.0	pp leader Mariano Rajoy	demand	explanation	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from opposition Popular Party explain	PERSON	ORGANIZATION
+0.4975375839563978	he information	allow	Jose Luis Rodriguez Zapatero	0	0
+1.0	death	be first eta-related fatality since	May 2003	0	DATE
+1.0	pp leader Mariano Rajoy	demand explanation on	Wednesday	PERSON	DATE
+1.0	dialogue	be	conditional	0	0
+1.0	death	be fatality since	May 2003	0	DATE
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from conservative opposition	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure	PERSON	0
+1.0	death	be	first eta-related fatality	0	ORDINAL
+1.0	death	be	fatality	0	0
+1.0	plans	have	parliament	O	O
+1.0	pp leader Mariano Rajoy	demand	formal explanation	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	face	pressure	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from main conservative opposition	PERSON	0
+1.0	violence	have	renunciation	O	O
+1.0	death	be first fatality since	May 2003	0	DATE
+1.0	terrorism	have	problem	O	O
+1.0	whose	have	body	O	O
+0.4975375839563978	he complete information	allow	Jose Luis Rodriguez Zapatero	0	0
+1.0	Ecuadoran Carlos Alonso Palate	have	death	O	O
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from conservative opposition Popular Party explain	PERSON	ORGANIZATION
+1.0	death	be eta-related fatality since	May 2003	0	DATE
+1.0	Carlos Alonso Palate	be of	Ecuadoran	PERSON	DURATION
+1.0	Jose Luis Rodriguez Zapatero	wish	wait	PERSON	0
+1.0	Zapatero	have	appearance	PERSON	0
+1.0	death	be	eta-related fatality	0	0
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from main opposition Popular Party explain	PERSON	ORGANIZATION
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from opposition	PERSON	0
+1.0	government	have express	readiness	0	0
+1.0	Jose Luis Rodriguez Zapatero	have	plans	O	O
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from main opposition	PERSON	0
+1.0	death	be	first fatality	0	ORDINAL
+1.0	Jose Luis Rodriguez Zapatero	have	most complete information	0	0
+1.0	ETA airport bomb	have	victim	O	O
+1.0	Jose Luis Rodriguez Zapatero	face	mount pressure put	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	have	office	O	O
+1.0	Alfredo Perez Rubalcaba	be between	Interior	PERSON	ORGANIZATION
+0.23154884713092094	Jose Luis Rodriguez Zapatero	have	complete information allow	0	0
+1.0	dialogue	be	nonetheless conditional	0	0
+1.0	Jose Luis Rodriguez Zapatero	face	mount pressure put in place measure	PERSON	0
+1.0	Jose Luis Rodriguez Zapatero	say under	pressure from main conservative opposition Popular Party explain	PERSON	ORGANIZATION

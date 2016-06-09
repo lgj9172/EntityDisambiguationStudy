@@ -1,0 +1,71 @@
+1.0	whereabouts	have	word	O	O
+1.0	Razuri	have cover story include	stint	PERSON	0
+1.0	Gaza	be in	increasingly common occurrence	LOCATION	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	promise	effort	LOCATION	0
+1.0	AFP photographer Jaime Razuri	have	whereabouts	O	PERSON
+1.0	motives	have	abductors	O	O
+1.0	government	join	CEO Pierre Louette on Tuesday	0	DATE
+1.0	government	join appeal for	Razuri	0	PERSON
+1.0	Razuri	have cover story include	stint in Iraq in 2006	PERSON	LOCATION
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	french government	join	appeal	0	0
+1.0	Razuri	have cover story include	three-month stint in Iraq	PERSON	LOCATION
+1.0	interior ministry	condemn	abduction	ORGANIZATION	0
+1.0	president Mahmud Abbas	be optimistic at_time	Tuesday	PERSON	DATE
+1.0	Razuri	have cover story include	three-month stint in Iraq in 2006	PERSON	LOCATION
+1.0	Jose Antonio Garcia Belaunde	be foreign minister of	Peru	PERSON	LOCATION
+1.0	french government	free	CEO Pierre Louette	0	PERSON
+1.0	french government	join	AFP Chairman	0	ORGANIZATION
+1.0	government	free	CEO Pierre Louette on Tuesday	0	DATE
+1.0	whose	have	job	O	O
+1.0	french government	join	CEO Pierre Louette	0	PERSON
+1.0	Peru	have	Foreign Minister Jose Antonio Garcia Belaunde	PERSON	LOCATION
+1.0	Razuri	have cover story include	stint in Iraq	PERSON	LOCATION
+1.0	identity 's abductor	be unknown despite	assurance from palestinian official	0	0
+1.0	gunman	be in	Gaza City	0	LOCATION
+1.0	Razuri	have cover story include	three-month stint	PERSON	DURATION
+1.0	palestinian ministry	also condemn	abduction	ORGANIZATION	0
+1.0	Iraq	be in	2006	LOCATION	DATE
+1.0	identity	have	abductor	0	0
+1.0	government	free	CEO Pierre Louette	0	PERSON
+1.0	french government	join	CEO Pierre Louette on Tuesday	0	DATE
+1.0	identity	have	abductors	O	O
+1.0	kind	have	incidents	O	O
+1.0	government	join	appeal	0	0
+1.0	french government	free	CEO Pierre Louette on Tuesday	0	DATE
+1.0	government	be	free	0	0
+1.0	Jaime Razuri	be	soon release	PERSON	0
+1.0	palestinian president Mahmud Abbas	be optimistic at_time	Tuesday	PERSON	DATE
+1.0	interior ministry	also condemn	abduction	ORGANIZATION	0
+1.0	Razuri	have cover	story for afp	PERSON	0
+1.0	national	have	identity	O	O
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	promise	major effort	LOCATION	0
+1.0	identity 's abductor	be still unknown despite	assurance from official	0	0
+1.0	identity 's abductor	be unknown despite	assurance	0	0
+1.0	Jaime Razuri	be	release	PERSON	0
+1.0	government	join	AFP Chairman	0	ORGANIZATION
+1.0	identity 's abductor	be still unknown despite	assurance from palestinian official	0	0
+1.0	three-month stint	be in	Iraq	DURATION	LOCATION
+1.0	president Mahmud Abbas	be	optimistic	PERSON	0
+1.0	ministry	condemn	abduction	ORGANIZATION	0
+1.0	Jaime Razuri	have	abduction	O	O
+1.0	french government	free	AFP Chairman	0	ORGANIZATION
+1.0	french government	join appeal for	Razuri	0	PERSON
+1.0	ministry	also condemn	abduction	ORGANIZATION	0
+1.0	identity 's abductor	be still unknown despite	assurance	0	0
+1.0	identity 's abductor	be unknown despite	assurance from official	0	0
+1.0	government	join	CEO Pierre Louette	0	PERSON
+1.0	Razuri	have cover	story	PERSON	0
+1.0	Razuri	have cover story in	Latin America	PERSON	LOCATION
+1.0	palestinian interior ministry	also condemn	abduction	ORGANIZATION	0
+1.0	government	free	AFP Chairman	0	ORGANIZATION
+1.0	palestinian interior ministry	condemn	abduction	ORGANIZATION	0
+1.0	identity 's abductor	be	still unknown	0	0
+1.0	Jose Antonio Garcia Belaunde	be on	Tuesday	PERSON	DATE
+1.0	french government	be	free	0	0
+1.0	palestinian ministry	condemn	abduction	ORGANIZATION	0
+1.0	palestinian president Mahmud Abbas	be	optimistic	PERSON	0
+1.0	Pierre Louette	be on	Tuesday	PERSON	DATE
+1.0	identity 's abductor	be	unknown	0	0
+1.0	Peru	have	Jose Antonio Garcia Belaunde	LOCATION	PERSON
+1.0	abducted	be in	Gaza	0	LOCATION

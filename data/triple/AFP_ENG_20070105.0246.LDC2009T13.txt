@@ -1,0 +1,10 @@
+1.0	oil	have	price	O	O
+1.0	price	plunge in	London	0	LOCATION
+1.0	Friday	level since	June 2005	DATE	DATE
+1.0	price	plunge to	54.50 dollar	0	MONEY
+1.0	Brent North Sea crude	have	price	O	O
+1.0	price	plunge to	54.50 dollar per barrel	0	MONEY
+1.0	New York	of	light sweet crude oil	LOCATION	0
+1.0	54.90 dollar	be in	electronic trading on Friday	MONEY	DATE
+1.0	warm winter weather	be in	United States	DATE	LOCATION
+1.0	New York	have	oil	O	LOCATION

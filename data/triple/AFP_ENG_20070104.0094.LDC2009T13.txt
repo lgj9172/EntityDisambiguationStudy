@@ -1,0 +1,61 @@
+1.0	allegation	be part of	investigation	0	0
+1.0	Prime Minister Ehud Olmert	have	Kadima party	O	PERSON
+1.0	Olmert 's secretary	be place under	house arrest	PERSON	0
+1.0	Ehud Olmert	to	Kadima party	PERSON	0
+1.0	Shula Zaken	be	on Tuesday place for 10 day follow hour	PERSON	DATE
+1.0	Olmert	have	personal secretary	PERSON	0
+1.0	allegation	be	part of investigation into embezzlement	0	0
+1.0	Shula Zaken	be	place under house arrest for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Olmert 's secretary	be	place under house arrest for 10 day follow hour question	PERSON	DATE
+1.0	Shula Zaken	be	on Tuesday place under house arrest	PERSON	DATE
+1.0	Shula Zaken	be	place under house arrest for 10 day follow hour	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place under house arrest for 10 day follow hour question	PERSON	DATE
+1.0	Olmert 's secretary	be	place under house arrest for 10 day	PERSON	DATE
+1.0	Shula Zaken	be	on Tuesday place under house arrest for 10 day	PERSON	DATE
+1.0	Olmert 's secretary	be place for	10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Shula Zaken	be	place	PERSON	0
+1.0	robbery	fraud under	aggravate circumstance	0	0
+1.0	Shula Zaken	be place for	10 day follow hour question	PERSON	DATE
+1.0	Olmert 's secretary	be place for	10 day follow hour	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place under house arrest	PERSON	DATE
+1.0	Olmert 's secretary	be	place under house arrest for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Olmert 's secretary	be place for	10 day follow hour question	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place under house arrest for 10 day	PERSON	DATE
+1.0	Yediot Aharonot	report on	Thursday	ORGANIZATION	DATE
+1.0	Shula Zaken	be place on	Tuesday	PERSON	DATE
+1.0	Olmert 's secretary	be	place under house arrest for 10 day follow hour	PERSON	DATE
+1.0	allegation	be part into	embezzlement	0	0
+1.0	allegation	be	part	0	0
+1.0	Olmert	's secretary be	Shula Zaken	PERSON	PERSON
+1.0	police	say	media	0	0
+1.0	mass-selling Yediot Aharonot	daily report on	Thursday	ORGANIZATION	DATE
+1.0	Olmert 's secretary	be	on Tuesday place for 10 day	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Shula Zaken	be	place under house arrest for 10 day follow hour question	PERSON	DATE
+1.0	Olmert 's secretary	be place on	Tuesday	PERSON	DATE
+1.0	Shula Zaken	be	on Tuesday place under house arrest for 10 day follow hour question	PERSON	DATE
+1.0	Olmert	have	secretary	O	PERSON
+1.0	Olmert 's secretary	be	on Tuesday place under house arrest for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	investigation	have	part	O	O
+1.0	Shula Zaken	be place for	10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Shula Zaken	be	on Tuesday place under house arrest for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Israel Tax Authority	have	director	O	ORGANIZATION
+1.0	Shula Zaken	be	on Tuesday place for 10 day follow hour question	PERSON	DATE
+1.0	Olmert 's secretary	be	place	PERSON	0
+1.0	President Moshe Katsav	face	possible indictment	PERSON	0
+1.0	Shula Zaken	be	on Tuesday place under house arrest for 10 day follow hour	PERSON	DATE
+1.0	Shula Zaken	be place for	10 day	PERSON	DATE
+1.0	corruption probes	have	subject	O	O
+1.0	Olmert 's secretary	be	on Tuesday place for 10 day follow hour	PERSON	DATE
+1.0	Olmert 's secretary	be place for	10 day	PERSON	DATE
+1.0	police spokesman Micky Rosenfeld	tell	AFP	PERSON	ORGANIZATION
+1.0	Shula Zaken	be	place under house arrest for 10 day	PERSON	DATE
+1.0	Shula Zaken	be place under	house arrest	PERSON	0
+1.0	Shula Zaken	be	on Tuesday place for 10 day follow hour question over corruption suspicion	PERSON	DATE
+1.0	Shula Zaken	be place for	10 day follow hour	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place for 10 day follow hour question	PERSON	DATE
+1.0	Shula Zaken	be	on Tuesday place for 10 day	PERSON	DATE
+1.0	Olmert 's secretary	be	on Tuesday place under house arrest for 10 day follow hour	PERSON	DATE
+1.0	mass-selling Yediot Aharonot	report on	Thursday	ORGANIZATION	DATE
+1.0	Yediot Aharonot	daily report on	Thursday	ORGANIZATION	DATE
+1.0	police	say at_time	Thursday	0	DATE

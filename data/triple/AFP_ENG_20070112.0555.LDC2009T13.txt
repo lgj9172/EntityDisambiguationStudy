@@ -1,0 +1,58 @@
+1.0	Bangladesh	have	people	O	LOCATION
+1.0	Germany	call for	full restoration of rights	LOCATION	0
+1.0	Bangladesh	have	President Iajuddin Ahmed	PERSON	LOCATION
+0.5824286479438663	charge	head of	asian country 's government	0	0
+1.0	democratic process	be in	Bangladesh	0	LOCATION
+1.0	bias	have	accusations	O	O
+1.0	EU	expect	they	ORGANIZATION	0
+1.0	EU	have	president	O	ORGANIZATION
+0.5824286479438663	charge	new head of	asian country 's interim government	0	0
+1.0	he	be replace at_time	Friday	0	DATE
+1.0	he	be replace by	former governor	0	0
+1.0	new head	take charge at_time	Friday	0	DATE
+1.0	he	be replace by	former governor of central bank	0	0
+1.0	they	maintain	the EU	0	0
+1.0	interim government	slap ban on	television news	0	0
+1.0	Germany	call for	restoration of rights	LOCATION	0
+1.0	Bangladesh 's President Iajuddin Ahmed	declare	state	PERSON	0
+1.0	head	take charge at_time	Friday	0	DATE
+0.5824286479438663	charge	new head of	asian country 's government	0	0
+1.0	he	be replace by	former governor of central bank of Bangladesh	0	LOCATION
+1.0	Germany	call for	full restoration	LOCATION	0
+1.0	Germany	be in	its role as president of EU	LOCATION	ORGANIZATION
+1.0	he	be replace by	former governor of bank	0	0
+1.0	the people of Bangladesh at the earliest opportunity	have	responsibility	O	O
+1.0	Bangladesh	have	bank	O	LOCATION
+1.0	EU	underline	need	ORGANIZATION	0
+1.0	Germany	call for	restoration of civil rights	LOCATION	0
+1.0	Bangladesh 's President Iajuddin Ahmed	delay	election	PERSON	0
+1.0	country	have	television channels	O	O
+1.0	EU	underline need to	present restriction	ORGANIZATION	DATE
+0.5824286479438663	charge	head of	asian country 's interim government	0	0
+1.0	Bangladesh	have	Iajuddin Ahmed	LOCATION	PERSON
+1.0	Iajuddin Ahmed	be president of	Bangladesh	PERSON	LOCATION
+1.0	emergency	have	state	O	O
+0.5824286479438663	charge	new head of	country 's government	0	0
+1.0	new head	take	charge	0	0
+1.0	country	by	eight private television channel	0	NUMBER
+1.0	Germany	call for	full restoration of civil rights	LOCATION	0
+1.0	he	be	replace	0	0
+1.0	EU	underline need to	restriction	ORGANIZATION	0
+1.0	rights	have	restoration	O	O
+1.0	asian country	of	interim government	0	0
+0.022365932509734954	Bangladesh 's President Iajuddin Ahmed	declare at_time	late Thursday	PERSON	DATE
+1.0	government	slap ban on	television news	0	0
+1.0	bank	have	governor	O	O
+0.5824286479438663	charge	head of	country 's government	0	0
+1.0	he	be replace by	former governor of bank of Bangladesh	0	LOCATION
+1.0	government	have	head	O	O
+1.0	Fakhruddin Ahmed	governor of	central bank	PERSON	0
+1.0	Armed Forces	have	position	O	ORGANIZATION
+1.0	head	take	charge	0	0
+1.0	Germany	call for	restoration	LOCATION	0
+1.0	country	have	government	O	O
+1.0	Germany	have	role	O	O
+0.5824286479438663	charge	head of	country 's interim government	0	0
+0.5824286479438663	charge	new head of	country 's interim government	0	0
+1.0	Bangladesh 's President Iajuddin Ahmed	declare state at_time	late Thursday	PERSON	DATE
+1.0	Bangladesh 's President Iajuddin Ahmed	declare	state of emergency	PERSON	0

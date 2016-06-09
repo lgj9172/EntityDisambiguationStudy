@@ -1,0 +1,67 @@
+1.0	The UK	have	mission	O	O
+1.0	two-day meeting	be in	Edinburgh	DURATION	LOCATION
+1.0	Britain	have	mission	O	O
+1.0	BBC	send spacecraft to	surface of moon in search of site for potential basis	ORGANIZATION	DURATION
+1.0	european Space Agency	say at	meeting	ORGANIZATION	0
+1.0	european Space Agency	say at	two-day meeting in Edinburgh	ORGANIZATION	DURATION
+1.0	exploration efforts	have	focus	O	O
+1.0	cost	have fall accord to	Professor Martin Sweeting	0	PERSON
+1.0	BBC	earlier have cite	proposal	ORGANIZATION	0
+1.0	Britain	consider	plan	LOCATION	0
+1.0	BBC	send spacecraft to	surface of moon in search of site	ORGANIZATION	DURATION
+1.0	moon	be in	search of suitable site for potential manned basis	0	DURATION
+1.0	Britain	have	space plans	O	LOCATION
+0.5683653204557388	Britain	plan for	its mission	LOCATION	0
+1.0	official	present	fruit of two day of work	0	DURATION
+1.0	space plans	have	outcome	O	O
+1.0	BBC	send spacecraft to	surface of moon in search	ORGANIZATION	DURATION
+1.0	BBC	say on	its website	ORGANIZATION	0
+1.0	Britain	of	space plan	LOCATION	0
+1.0	BBC	send spacecraft to	surface	ORGANIZATION	DURATION
+1.0	BBC	send spacecraft to	surface of moon in search of suitable site for potential manned basis	ORGANIZATION	DURATION
+1.0	Britain	consider	plan for its mission	LOCATION	0
+1.0	BBC	have cite	proposal	ORGANIZATION	0
+1.0	BBC	send spacecraft to	surface of moon in search of suitable site for potential basis	ORGANIZATION	DURATION
+1.0	BBC	send spacecraft to	surface of moon in search of suitable site	ORGANIZATION	DURATION
+1.0	space science	have	director	O	O
+1.0	Space Agency	say at	meeting	ORGANIZATION	0
+0.8187992107997718	official	fruit of	two day of work end Tuesday	0	DURATION
+1.0	David Parker	director of	space science at British National Space Centre	PERSON	ORGANIZATION
+0.8187992107997718	official	fruit of	two day of work end	0	DURATION
+1.0	BBC	send spacecraft to	surface of moon in search of site for potential manned basis	ORGANIZATION	DURATION
+1.0	BBC	send spacecraft to	surface of moon	ORGANIZATION	DURATION
+1.0	Britain	consider	plan for its own mission	LOCATION	0
+1.0	the two-day meeting in Edinburgh	have	exploration	O	O
+1.0	moon	have	surface	O	O
+1.0	sites	have	search	O	O
+1.0	european Space Agency	say at	two-day meeting	ORGANIZATION	DURATION
+1.0	Britain	consider plan to	moon	LOCATION	0
+1.0	cost	have fall	enough	0	0
+1.0	days	have	fruits	O	DURATION
+1.0	official	present	fruit	0	0
+1.0	Space Agency	say at	two-day meeting	ORGANIZATION	DURATION
+1.0	170 scientist	industrialist of	civil society	NUMBER	0
+1.0	cost	have fall for	Britain	0	LOCATION
+1.0	work	have	days	DURATION	O
+1.0	official	present fruit by	industrialist of society	0	0
+1.0	Manuel Valls	official for	space exploration at european Space Agency	PERSON	ORGANIZATION
+1.0	Space Agency	say at	meeting in Edinburgh	ORGANIZATION	LOCATION
+1.0	consultations	have	series	O	O
+1.0	official	present fruit by	industrialist	0	0
+1.0	The UK	have	website	O	O
+1.0	Surrey Satellite Technology Ltd.	have	executive	O	ORGANIZATION
+0.5683653204557388	Britain	plan for	its own mission	LOCATION	0
+1.0	official	present fruit by	170 scientist	0	NUMBER
+0.8187992107997718	official	fruit of	two day of work	0	DURATION
+1.0	society	have	industrialists	O	O
+1.0	Solar system	have	exploration	O	O
+1.0	Space Agency	say at	two-day meeting in Edinburgh	ORGANIZATION	DURATION
+1.0	official	present	fruit of two day	0	DURATION
+1.0	BBC	send	spacecraft	ORGANIZATION	DURATION
+1.0	official	present fruit by	industrialist of civil society	0	0
+1.0	european Space Agency	say at	meeting in Edinburgh	ORGANIZATION	LOCATION
+1.0	space exploration at the European Space Agency	have	cost	O	O
+1.0	David Parker	tell	news conference	PERSON	0
+1.0	official	present fruit in	Edinburgh Scotland	0	LOCATION
+0.8187992107997718	official	fruit of	two day	0	DURATION
+1.0	process	have	beginning	O	O

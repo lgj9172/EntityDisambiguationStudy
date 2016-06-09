@@ -1,0 +1,33 @@
+1.0	number	could exceed	three million	0	NUMBER
+1.0	Louise Brown	be baby in	1978	PERSON	DATE
+1.0	Louise Brown	be	first baby bear	PERSON	ORDINAL
+1.0	world	have	first test tube	0	ORDINAL
+1.0	Sun newspaper	report at_time	Saturday	0	DATE
+1.0	Louise Brown	be	first baby ever bear	PERSON	ORDINAL
+1.0	first baby	be in	1978	ORDINAL	DATE
+1.0	fertility expert	estimate at_time	year	0	DATE
+1.0	Louise Brown 28	be	photograph	PERSON	0
+1.0	she home	be in	England	0	LOCATION
+1.0	Louise Brown	be	first baby	PERSON	ORDINAL
+1.0	Wesley Mullinder	be	37	PERSON	NUMBER
+1.0	Louise Brown	be	in 1978 first baby bear	PERSON	ORDINAL
+1.0	Louise Brown	be	28	PERSON	NUMBER
+1.0	world	have	test tube	O	O
+1.0	Louise Brown	be	in 1978 baby bear	PERSON	DATE
+1.0	Robert Edwards	be physiologist of	Cambridge University	PERSON	ORGANIZATION
+1.0	unnamed friend	tell	paper	0	0
+1.0	Louise Brown	be	baby	PERSON	0
+1.0	Louise Brown	be	in 1978 first baby ever bear	PERSON	ORDINAL
+1.0	Louise Brown	be	baby ever bear	PERSON	0
+1.0	Natalie	be	23	PERSON	NUMBER
+1.0	England	be in	Bristol	LOCATION	LOCATION
+1.0	friend	tell	paper	0	0
+1.0	she	father	John	0	PERSON
+1.0	Louise Brown	be	baby bear	PERSON	0
+1.0	Louise Brown	have	father	O	O
+1.0	Louise Brown	be first baby in	1978	PERSON	DATE
+1.0	a	have	home	O	O
+1.0	Louise Brown	be	photograph	PERSON	0
+1.0	Louise Brown	be	in 1978 baby ever bear	PERSON	DATE
+1.0	fertility expert	estimate at_time	last year	0	DATE
+1.0	Robert Edwards	be	Cambridge University	PERSON	ORGANIZATION

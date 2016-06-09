@@ -1,0 +1,7 @@
+1.0	european plane-maker Airbus	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Airbus	be	european	ORGANIZATION	0
+1.0	order	be	sign	0	0
+1.0	order	be	book	0	0
+1.0	order	be sign in	December	0	DATE
+1.0	order	be book in	2006 Airbus account	0	DATE
+1.0	plane-maker Airbus	say at_time	Thursday	ORGANIZATION	DATE

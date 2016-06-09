@@ -1,0 +1,493 @@
+1.0	senior Orthodox cleric	be in	Cyprus	0	LOCATION
+1.0	international donor	begin meeting in	Sri Lanka 's southern town	0	LOCATION
+1.0	death	have	anniversary	O	O
+1.0	DHAKA	appear after	month in custody in Bangladesh	LOCATION	DURATION
+1.0	introduction	have	completion	O	O
+1.0	president Mahmud Abbas	have	anniversary	O	PERSON
+1.0	assassination	have	anniversary	O	O
+1.0	Nepal 's interim constitution	be	ratify	LOCATION	0
+0.7364568088334112	Japan China	hold meeting on	cooperation in investigation	LOCATION	0
+1.0	Hamas	of	palestinian parliamentary election	ORGANIZATION	0
+0.5842035755737756	constitutional court	rule on	islamic veil ban	0	0
+1.0	nation	have	index	O	O
+1.0	Malaysia	send	260 peacekeeping troops	LOCATION	NUMBER
+1.0	oil	be attend by	representative	0	0
+1.0	donor	begin meeting in	Sri Lanka 's southern town of Galle	0	LOCATION
+0.7364568088334112	Japan China	hold meeting on	cooperation	LOCATION	0
+1.0	international donor	begin meeting in	Sri Lanka 's town of Galle	0	LOCATION
+1.0	Galle	have	town	O	LOCATION
+1.0	assassination	have	Sixth anniversary	O	O
+0.8289532955920694	visit	anniversary of	English Reformed Church	0	MISC
+1.0	family jewels	have	auction	O	O
+1.0	maltreatment	have	Bundeswehr soldiers	O	O
+0.7040977815305495	amendment	propose by	President Hosni Mubarak	0	PERSON
+1.0	President Ellen Johnson Sirleaf	have	swearing-in	O	PERSON
+0.9448763145986003	study centre	organise conference with	participation	0	0
+0.8919511974055465	Jordan	mark	anniversary of death	LOCATION	0
+1.0	Doha conference for dialogue of islamic school of Thought	be of	Start of three-day	ORGANIZATION	DURATION
+0.9115135276261999	verdict	expect on	extradition of former iranian ambassador	0	0
+0.7792517572167104	anniversary celebration	culminate in	mass rally across country with speech	0	0
+1.0	eu-russian collaboration	be in	northern dimension	0	0
+1.0	Ehren Watada	be lieutenant of	US	PERSON	LOCATION
+1.0	Apollo	have	astronauts	O	MISC
+1.0	donor	review	they aid program	0	0
+1.0	Thailand	's party be	Democrat Party	LOCATION	ORGANIZATION
+0.5842035755737756	bavarian court	rule on	veil ban for teacher	0	0
+0.9188335965310812	South African President Thabo Mbeki	deliver	annual state	PERSON	SET
+0.7364568088334112	Japan China	hold	two-day meeting	LOCATION	DURATION
+0.8844265795679502	visit	mark	400th anniversary of English Reformed Church	0	MISC
+1.0	Thailand	have	party	O	LOCATION
+0.5842035755737756	constitutional court	rule on	veil ban	0	0
+1.0	Felipe Calderon	be	Mexican	PERSON	MISC
+0.857206505937437	study centre	conference on	democracy	0	0
+1.0	kidnapping	be in	Italy	0	LOCATION
+1.0	Jean-Claude Trichet	be chief of	European Bank	PERSON	ORGANIZATION
+1.0	its	have	programme	O	O
+1.0	Cyprus	have	north	O	LOCATION
+0.5842035755737756	bavarian court	rule on	veil ban	0	0
+0.5842035755737756	bavarian constitutional court	rule on	veil ban for teacher	0	0
+1.0	Sri Lanka	in	southern town of Galle	LOCATION	LOCATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Anders Fogh Rasmussen	be against	danish	PERSON	0
+1.0	guerilla group	have	cell	O	O
+1.0	oil	be attend by	representative of oil	0	0
+1.0	preliminary hearing	be in	case of 26 CIA agent	0	ORGANIZATION
+0.6393884036673528	South African President Thabo Mbeki	state of	nation address	PERSON	0
+1.0	international donor	begin	meeting	0	0
+1.0	norwegian oil	be	attend	0	0
+1.0	talks	have	Sixth round	O	O
+0.9188335965310812	Toy fair	open	biggest in world	0	0
+1.0	whose country	hold	visit for talk on eu-russia partnership	0	0
+1.0	Afghanistan	have	minority	O	LOCATION
+1.0	Barzan Ibrahim al-Tikriti	be henchman of	Saddam Hussein	PERSON	PERSON
+1.0	year	mark	anniversary of death	DURATION	0
+1.0	crimes	have	found	O	O
+0.6393884036673528	Jordan	seventh anniversary of	death	LOCATION	0
+1.0	Sri Lanka	have	town	O	LOCATION
+1.0	World Health Organisation	have	executive	O	ORGANIZATION
+1.0	VP Cheney aide Lewis Scooter Libby	have	Jury selection	O	PERSON
+0.8844265795679502	visit	mark	400th anniversary	0	0
+0.9447263933456025	Cambodia	reopen airport at	coastal resort	LOCATION	0
+1.0	10 day	mark	anniversary of revolution	DURATION	0
+1.0	Gothenburg Film Festival	at gothenburg be	Sweden	0	LOCATION
+1.0	Woman	have	rodeo	0	0
+1.0	year	mark	100th anniversary of death	DURATION	ORDINAL
+0.8919511974055465	Parliament	discuss	amendment propose by President Hosni Mubarak	ORGANIZATION	PERSON
+1.0	Mauritania	have	elections	O	LOCATION
+0.8126430892401983	water-borne disease	sponsor for	Europe	0	LOCATION
+0.9188335965310812	South African President Thabo Mbeki	deliver	state of nation address	PERSON	0
+0.9188335965310812	Toy fair	open	biggest	0	0
+0.9448763145986003	european study centre	organise	conference	0	0
+1.0	Janez Jansa	be	slovenian	PERSON	0
+1.0	oil	be attend by	key representative of russian oil	0	0
+1.0	Hans Blix	be for	Iraq	PERSON	LOCATION
+0.7185577601083575	Portugal	hold	referendum	LOCATION	0
+0.13578433017498404	donor	begin in	Sri Lanka 's southern town of Galle	0	LOCATION
+0.9448763145986003	study centre	organise	conference on democracy in Europe	0	LOCATION
+1.0	Bank of Japan	be of	Toshihiko Fukui	ORGANIZATION	PERSON
+1.0	Azerbaijan	have	Safar Abiyev	LOCATION	PERSON
+0.8919511974055465	Jordan	mark	birthday of King Abdullah II	LOCATION	PERSON
+1.0	year	mark	100th anniversary	DURATION	ORDINAL
+0.857206505937437	study centre	conference on	democracy in Europe	0	LOCATION
+1.0	Iran	by	leader	LOCATION	0
+0.8919511974055465	Japan	release	Tokyo 's consumer price index for January	LOCATION	DATE
+1.0	party	have	Trial	O	O
+0.8919511974055465	UN Food	present	report	ORGANIZATION	0
+1.0	Britain	have	Prince Charles	PERSON	LOCATION
+1.0	Christie	have	auction of family jewel of former king of Greece Constantine II	PERSON	PERSON
+0.8919511974055465	German Chancellor Angela Merkel	start	visit take in Egypt	MISC	LOCATION
+0.7949254482025905	oil	open	Energy Minister Odd Roger Enoksen	0	0
+1.0	India	have	licensing round	O	LOCATION
+1.0	announcement	have	officials	O	O
+0.8919511974055465	Spanish PM Jose Luis Rodriguez Zapatero	visit	Japan	PERSON	LOCATION
+1.0	10 day	mark anniversary amid	indication from official of significant announcement	DURATION	0
+1.0	imam	have	Italy	LOCATION	O
+1.0	norwegian oil	be attend by	key representative of oil	0	0
+1.0	Greece Constantine II	have	auction	O	PERSON
+1.0	DHAKA	appear after	month in custody	LOCATION	DURATION
+0.8919511974055465	UN Food	present	Agriculture Organisation	ORGANIZATION	ORGANIZATION
+1.0	donor	begin meeting in	Sri Lanka 's southern town	0	LOCATION
+0.7364568088334112	Japan China	hold	meeting	LOCATION	0
+1.0	Jose Manuel Barroso	be president of	european Commission	PERSON	ORGANIZATION
+0.8919511974055465	Mozambican President Armando Guebuza	visit	Japan	PERSON	LOCATION
+1.0	First trial	be in	Denmark	ORDINAL	LOCATION
+1.0	whose country	hold	EU presidency	0	ORGANIZATION
+1.0	trial	have	hearing	O	O
+1.0	Libby	be in case of	Lewis	PERSON	PERSON
+0.6393884036673528	Jordan	45th birthday of	King Abdullah II	LOCATION	PERSON
+0.6393884036673528	Jordan	anniversary of	death of King Hussein	LOCATION	PERSON
+1.0	Kazakhstan visits	have	President Nursultan Nazarbayev	PERSON	O
+0.8919511974055465	Japan	release	Tokyo 's consumer price index	LOCATION	LOCATION
+1.0	trial	have	anniversary	O	O
+0.939100041252967	he	plan	deal	0	0
+1.0	Britain	have	Prince Charles	LOCATION	PERSON
+1.0	Tunisian	have	opens	O	MISC
+0.5425682436898807	mark	100th anniversary of	death of composer Edvard Grieg	0	PERSON
+1.0	custody	be in	Bangladesh	0	LOCATION
+1.0	Saddam Hussein	have	henchmen	O	PERSON
+0.939100041252967	he	plan	deal with basque militant	0	0
+1.0	Murat Kurnaz	have	case	O	PERSON
+0.7860909953828681	trial	begin for	Thailand 's party	0	LOCATION
+1.0	composer Edvard Grieg	have	death	O	PERSON
+1.0	Iran	have	leaders	O	LOCATION
+0.8919511974055465	German Chancellor Angela Merkel	start	visit	MISC	0
+0.9188335965310812	Philippine President Gloria Arroyo	start	two-day visit	PERSON	DURATION
+0.13578433017498404	international donor	begin in	Sri Lanka 's town of Galle	0	LOCATION
+1.0	Woman	have	rodeo	O	O
+0.7792517572167104	anniversary celebration	culminate in	mass rally across country	0	0
+1.0	democracy	be in	Europe	0	LOCATION
+1.0	10 day	mark anniversary amid	indication	DURATION	0
+0.5842035755737756	court	rule on	islamic veil ban	0	0
+1.0	Japan governor Toshihiko Fukui	have	Bank	ORGANIZATION	PERSON
+1.0	Guantanamo detainees	have	opens	O	O
+1.0	Schools	have	Doha Conference	ORGANIZATION	ORGANIZATION
+1.0	Thailand	for	new government decide	LOCATION	0
+0.6393884036673528	Jordan	anniversary of	death	LOCATION	0
+1.0	advance party	be	dispatch	0	0
+0.8919511974055465	Turkmenistan	hold	election	LOCATION	0
+1.0	NATO foreign minister	discuss	Afghanistan	ORGANIZATION	LOCATION
+1.0	Islamic Revolution	have	anniversary	O	MISC
+1.0	Christie	's auction be	only one	PERSON	0
+1.0	Mohammed	have	grandson	O	PERSON
+1.0	Denmark	be with	nine hooligan accuse	LOCATION	NUMBER
+1.0	Prophet	have	mark death	O	PERSON
+1.0	Philippine President Gloria Arroyo	start visit to	Kuwait	PERSON	LOCATION
+0.7792517572167104	anniversary celebration	culminate by	Iran 's leader	0	LOCATION
+0.7949254482025905	norwegian oil	open	oil conference	0	0
+1.0	10 day	mark anniversary amid	indication from official of announcement on its nuclear programme	DURATION	0
+0.6973198716687417	Iran	begin	10 day	LOCATION	DURATION
+0.8919511974055465	European Parliament	hold	mini-session	ORGANIZATION	0
+1.0	premier	have	family	O	O
+1.0	DHAKA	appear after	month	LOCATION	DURATION
+0.5842035755737756	bavarian constitutional court	rule on	islamic veil ban for teacher	0	0
+1.0	norwegian oil	be attend by	key representative	0	0
+0.5842035755737756	court	rule on	veil ban	0	0
+1.0	Malaysia	send	260 troops	LOCATION	NUMBER
+0.8919511974055465	Turkmenistan	hold	presidential election	LOCATION	0
+1.0	cloning expert Hwang Woo-Suk	have	Trial	O	PERSON
+1.0	Armando Guebuza	be	Mozambican	PERSON	MISC
+1.0	Tokyo	have	consumer price index for January	LOCATION	DATE
+0.9448763145986003	european study centre	organise	conference on democracy	0	0
+1.0	10 day	mark anniversary amid	indication from official of announcement on its programme	DURATION	0
+1.0	Saddam Hussein	of	henchman	PERSON	0
+1.0	Angela Merkel	be	German	PERSON	MISC
+0.9448763145986003	european study centre	organise conference with	participation	0	0
+1.0	10 day	mark	anniversary of islamic revolution	DURATION	0
+1.0	Philippine President Gloria Arroyo	start	visit	PERSON	0
+0.8919511974055465	German Chancellor Angela Merkel	start	four-day visit take	MISC	DURATION
+1.0	Japan hosts	have	Bank	ORGANIZATION	O
+0.4847061120374878	Muslims	celebrate at_time	New year	MISC	DATE
+1.0	EU employment	have	meeting	O	O
+0.5842035755737756	bavarian court	rule on	islamic veil ban for teacher	0	0
+1.0	oil	have	representatives	O	O
+1.0	norwegian oil	attend	Energy Minister Odd Roger Enoksen	0	0
+1.0	swearing-in	have	anniversary	O	O
+1.0	Saparmurat Niyazov	have	death	O	PERSON
+0.5425682436898807	mark	anniversary of	death of composer Edvard Grieg	0	PERSON
+1.0	Singapore	have	Temasek Holdings	ORGANIZATION	LOCATION
+1.0	Jose Luis Rodriguez Zapatero	be	Spanish	PERSON	MISC
+0.5842035755737756	court	rule on	islamic veil ban for teacher	0	0
+1.0	trial	refuse	serve	0	0
+0.9188335965310812	Philippine President Gloria Arroyo	start	visit	PERSON	0
+1.0	Jean-Claude Juncker	be pm of	Luxembourg	PERSON	LOCATION
+0.8126430892401983	disease	sponsor by	World Health Organisation	0	ORGANIZATION
+0.8844265795679502	visit	mark	anniversary	0	0
+1.0	norwegian oil	be attend by	key representative of russian oil	0	0
+1.0	president	have	father	O	O
+0.857206505937437	european study centre	conference on	democracy in Europe	0	LOCATION
+1.0	Patrice Lumumba	have	assassination	O	PERSON
+1.0	Thailand	be 's	second	LOCATION	ORDINAL
+1.0	he	deal with	basque militant	0	0
+0.5425682436898807	mark	anniversary of	death	0	0
+1.0	Kabila	father of	current president	PERSON	DATE
+0.5842035755737756	constitutional court	rule on	veil ban for teacher	0	0
+0.8919511974055465	German Chancellor Angela Merkel	start	visit take	MISC	0
+1.0	Jean-Claude Juncker	be	Luxembourg	PERSON	LOCATION
+1.0	Thailand	for	second-largest party on vote fraud charge	LOCATION	0
+1.0	case	have	investigation commission	O	O
+1.0	Charles Taylor	be of	liberian	PERSON	0
+0.7860909953828681	trial	begin for	Thailand 's second-largest party	0	LOCATION
+0.7872185370968409	press conference	bank of	Japan governor Toshihiko Fukui	0	PERSON
+0.13578433017498404	international donor	begin in	Sri Lanka 's town	0	LOCATION
+1.0	Jonathan Moore	have	Execution	O	PERSON
+1.0	his	have	counterpart	O	O
+1.0	Gloria Arroyo	be	Philippine	PERSON	MISC
+1.0	Hamas movement	come to	power	ORGANIZATION	0
+0.9448763145986003	study centre	organise conference with	participation of Foreign Minister Jonas Gahr Stoere	0	PERSON
+1.0	Mauritania	of	senatorial election	LOCATION	0
+1.0	Doha conference for dialogue of islamic school of Thought	be in	muslim world	ORGANIZATION	0
+1.0	head	have	members	O	O
+1.0	ASEAN Tourism Forum	have	Start	O	O
+0.8919511974055465	Jordan	mark	anniversary of death of King Hussein	LOCATION	PERSON
+1.0	paramilitary Michael Stone	appear in	court over charge attempt	PERSON	0
+1.0	Lebanon	have	independence	O	LOCATION
+1.0	funds	have	misuse	O	O
+1.0	BRUSSELS	go to	Lithuania	LOCATION	LOCATION
+1.0	donor	begin meeting in	Sri Lanka 's town of Galle	0	LOCATION
+1.0	voter fraud	have	charges	O	O
+0.7040977815305495	constitutional amendment	propose by	President Hosni Mubarak	0	PERSON
+1.0	Michel Kilo	go on	trial	PERSON	0
+1.0	Nepal 's constitution	be	ratify	LOCATION	0
+1.0	Libby	be in case of	Cheney	PERSON	PERSON
+1.0	Hamas movement	trounce	long-dominant Fatah party	ORGANIZATION	ORGANIZATION
+1.0	international donor	begin meeting in	Sri Lanka 's southern town of Galle	0	LOCATION
+1.0	Singapore	to	Temasek Holdings	LOCATION	ORGANIZATION
+1.0	legislative election	be in	Serbia	0	LOCATION
+1.0	nurses	have	trial	O	O
+1.0	Sihanoukville	have	resort	O	LOCATION
+1.0	campaigning	legalise	abortion	0	0
+0.8919511974055465	Parliament	discuss	constitutional amendment propose by President Hosni Mubarak	ORGANIZATION	PERSON
+1.0	Michel Kilo	go on	trial before criminal court	PERSON	0
+1.0	governors	have	Election	O	O
+1.0	vote fraud charge	on party be	Democrat Party	0	ORGANIZATION
+0.9447263933456025	Cambodia	reopen airport at	resort of Sihanoukville	LOCATION	LOCATION
+1.0	Robert Fico	be	Slovak	PERSON	MISC
+1.0	Angel Gurria	be secretary general of	OECD	PERSON	ORGANIZATION
+1.0	Constantine II	be of	Greece	PERSON	LOCATION
+1.0	trial	have	Start	O	O
+1.0	Georgia	be visit of	Anna Fotyga	LOCATION	PERSON
+1.0	donor	begin	meeting	0	0
+1.0	Thought	have	Schools	ORGANIZATION	ORGANIZATION
+0.9447263933456025	Cambodia	reopen	airport	LOCATION	0
+0.9448763145986003	study centre	organise conference with	participation of norwegian Foreign Minister Jonas Gahr Stoere	0	PERSON
+1.0	Georgy Parvanov	be	bulgarian	PERSON	DURATION
+0.4847061120374878	Muslims	celebrate at_time	islamic New year	MISC	DATE
+1.0	Jose Socrates	be	Portuguese	PERSON	MISC
+1.0	World Health Organisation	have	executive	ORGANIZATION	0
+1.0	Thailand	of	former rule party on charge of voter fraud	LOCATION	0
+1.0	norwegian oil	be attend by	representative	0	0
+0.8919511974055465	Parliament	discuss	constitutional amendment propose	ORGANIZATION	0
+1.0	DHAKA	appear in	court	LOCATION	0
+0.5842035755737756	constitutional court	rule on	islamic veil ban for teacher	0	0
+0.9448763145986003	european study centre	organise conference with	participation of Foreign Minister Jonas Gahr Stoere	0	PERSON
+0.7860909953828681	trial	begin for	Thailand 's party on vote fraud charge	0	LOCATION
+1.0	elections	have	Second round	O	O
+1.0	international donor	begin	two-day meeting	0	DURATION
+1.0	10 day	mark anniversary amid	indication from official of significant announcement on its programme	DURATION	0
+1.0	Toshihiko Fukui	be of	Bank of Japan	PERSON	ORGANIZATION
+1.0	Afghanistan	have	shiite minority	LOCATION	0
+1.0	environmental challenge	face	Arctic region	0	LOCATION
+1.0	he	could take into	exile	0	0
+1.0	Portugal	decriminalize	abortion	LOCATION	0
+1.0	Philippines	be in	2007	LOCATION	DATE
+1.0	former king	of auction be	only one	0	0
+0.8126430892401983	disease	sponsor for	Europe	0	LOCATION
+0.9188335965310812	Regional tuna commission	hold	meeting	0	0
+1.0	election	have	announcement	O	O
+0.6393884036673528	Jordan	birthday of	King Abdullah II	LOCATION	PERSON
+1.0	paramilitary Michael Stone	appear in	court over charge	PERSON	0
+1.0	oil	attend	Energy Minister Odd Roger Enoksen	0	0
+1.0	India	on	largest licensing round ever	LOCATION	0
+1.0	Philippine President Gloria Arroyo	start	two-day visit	PERSON	DURATION
+0.13578433017498404	donor	begin in	Sri Lanka 's town	0	LOCATION
+1.0	10 day	mark	28th anniversary of islamic revolution	DURATION	ORDINAL
+1.0	exile	be in	Paris	0	LOCATION
+1.0	independence	have	recognition	O	O
+0.8844265795679502	visit	mark	anniversary of English Reformed Church	0	MISC
+1.0	verdict	be in	case which jail	0	0
+1.0	president Charles Taylor	have	trial	O	PERSON
+1.0	Feb referendum	have	ahead	O	O
+0.13578433017498404	donor	begin in	Sri Lanka 's southern town	0	LOCATION
+1.0	Michel Kilo	be arrest in	May	PERSON	DATE
+0.8919511974055465	Jordan	mark	45th birthday	LOCATION	ORDINAL
+1.0	Philippe Douste-Blazy	be	French	PERSON	MISC
+1.0	Michael Stone	appear in	court	PERSON	0
+0.9188335965310812	Toy	open	biggest	0	0
+1.0	10 day	mark anniversary amid	indication from official	DURATION	0
+0.857206505937437	european study centre	conference on	democracy	0	0
+0.13578433017498404	donor	begin in	Sri Lanka 's town of Galle	0	LOCATION
+1.0	family jewel	of auction be	only one	0	0
+1.0	Nation address	have	State	O	O
+1.0	announcement	have	anniversary	O	O
+1.0	euro	be with	Jose Manuel Barroso	0	PERSON
+1.0	whose country	hold	visit	0	0
+1.0	whose country	hold	visit for talk on partnership	0	0
+0.5425682436898807	mark	100th anniversary of	death of norwegian composer Edvard Grieg	0	PERSON
+1.0	whose country	hold	visit for talk	0	0
+0.9188335965310812	Regional tuna commission	hold	five-day meeting	0	DURATION
+1.0	norwegian oil	be attend by	representative of russian oil	0	0
+1.0	CIA agents	have	case	O	O
+1.0	he	deal with	militant	0	0
+0.5970547360692424	Parliament	begin	sit	ORGANIZATION	0
+0.8919511974055465	Parliament	discuss	amendment propose	ORGANIZATION	0
+1.0	Nepal	have	constitution	O	LOCATION
+1.0	English Reformed Church	have	anniversary	O	MISC
+1.0	forces	have	command	O	O
+0.8289532955920694	visit	400th anniversary of	English Reformed Church	0	MISC
+1.0	sinking	have	First anniversary	O	O
+1.0	his	have	interrogation	O	O
+1.0	Denmark	be in	war on Iraq	LOCATION	LOCATION
+1.0	Kamal Labouani	be of	syrian	PERSON	0
+0.9447263933456025	Cambodia	reopen	international airport	LOCATION	0
+1.0	Murat Kurnaz	be of	german	PERSON	0
+1.0	year	mark	anniversary of death of norwegian composer Edvard Grieg	DURATION	PERSON
+1.0	norwegian oil	be attend by	representative of oil	0	0
+1.0	country	have	constitution	0	0
+1.0	Jonas Gahr Stoere	be of	norwegian	PERSON	0
+0.8844265795679502	visit	mark anniversary in	Amsterdam	0	LOCATION
+0.9448763145986003	study centre	organise	conference	0	0
+0.8919511974055465	UN Food	present	annual report	ORGANIZATION	SET
+1.0	Laurent	have	assassination	O	O
+0.8919511974055465	German Chancellor Angela Merkel	start	four-day visit	MISC	DURATION
+0.8126430892401983	water-borne disease	sponsor by	World Health Organisation	0	ORGANIZATION
+0.8919511974055465	German Chancellor Angela Merkel	start	four-day visit take in Egypt	MISC	DURATION
+1.0	anti-us leader	be in	Latin America	0	LOCATION
+1.0	oil	be attend by	key representative of oil	0	0
+1.0	US lieutenant Ehren Watada	have	begins	O	PERSON
+0.6425898913671912	Ariel Sharon	be elect	prime minister	PERSON	0
+1.0	Michael Stone	appear in	court over charge	PERSON	0
+0.8700470038638534	Sixth round	begin in	South Korea	ORDINAL	LOCATION
+1.0	oil	be attend by	representative of russian oil	0	0
+1.0	cooperation	be in	criminal investigation	0	0
+1.0	Moroccans	have	opens	O	MISC
+0.5184244362695867	visit	take in	Egypt	0	LOCATION
+1.0	Lebanon	of	independence	LOCATION	0
+1.0	henchmen	have	two	NUMBER	O
+0.8919511974055465	Turkmenistan	hold	presidential election follow death of Saparmurat Niyazov	LOCATION	PERSON
+1.0	donor	begin	two-day meeting	0	DURATION
+0.8919511974055465	Jordan	mark	seventh anniversary	LOCATION	ORDINAL
+0.9188335965310812	South African President Thabo Mbeki	deliver	state	PERSON	0
+0.9448763145986003	european study centre	organise	conference on democracy in Europe	0	LOCATION
+1.0	Georgia	be to	Feb 1	LOCATION	DATE
+0.7335669563137854	trial	open of	eight moroccan	0	NUMBER
+0.8912956175746429	Fashion week	start in	New York	DURATION	LOCATION
+1.0	challenge	face	Arctic region	0	LOCATION
+0.8919511974055465	Bank	hold	press conference follow policy board decision	ORGANIZATION	0
+0.6393884036673528	South African President Thabo Mbeki	annual state of	nation address	PERSON	0
+1.0	Michael Stone	appear in	court over charge attempt	PERSON	0
+0.8919511974055465	Jordan	mark	seventh anniversary of death of King Hussein	LOCATION	PERSON
+1.0	municipal election	be in	Albania	0	LOCATION
+1.0	involvement	have	suspected	O	O
+0.8919511974055465	Jordan	mark	45th birthday of King Abdullah II	LOCATION	PERSON
+1.0	Sierra Leone	be in	the hague	LOCATION	0
+1.0	year	mark	anniversary	DURATION	0
+1.0	year	mark	100th anniversary of death of composer Edvard Grieg	DURATION	PERSON
+1.0	preliminary hearing	be in	connection with kidnapping	0	0
+0.6671444798156546	trial	begin of	first officer	0	ORDINAL
+1.0	whose	have	country	O	O
+1.0	date	be in	2001	0	DATE
+0.8919511974055465	Turkmenistan	hold	election follow death	LOCATION	0
+1.0	prophet Mohammed	have	grandson	PERSON	0
+1.0	Peter MacKay	be	Canadian	PERSON	MISC
+1.0	year	mark	anniversary of death of composer Edvard Grieg	DURATION	PERSON
+1.0	leaders	have	tour	O	O
+1.0	celebrations	have	days	DURATION	O
+0.7949254482025905	oil	open	oil conference	0	0
+0.9188335965310812	Toy	open	biggest in world	0	0
+0.9188335965310812	Regional tuna commission	hold	five-day joint meeting	0	DURATION
+1.0	Toshihiko Fukui	be governor of	Bank of Japan	PERSON	ORGANIZATION
+0.8919511974055465	Turkmenistan	hold	presidential election follow death	LOCATION	0
+1.0	country	be with	speech	0	0
+0.13578433017498404	international donor	begin in	Sri Lanka 's southern town	0	LOCATION
+0.7860909953828681	trial	begin for	Democrat Party	0	ORGANIZATION
+1.0	NATO minister	discuss	Afghanistan	ORGANIZATION	LOCATION
+1.0	revolution	have	anniversary	O	O
+0.6671444798156546	trial	begin	refuse	0	0
+1.0	state	have	African Union heads	O	O
+1.0	Nepal	have	interim constitution	LOCATION	0
+1.0	a month	be in	custody	DURATION	0
+1.0	Angel Gurria	be	OECD	PERSON	ORGANIZATION
+0.9115135276261999	verdict	expect on	extradition	0	0
+1.0	Christie	have	auction	O	PERSON
+1.0	islamist Hamas movement	trounce	long-dominant Fatah party	ORGANIZATION	ORGANIZATION
+1.0	King Hussein	have	death	O	PERSON
+1.0	opposition leader Kamal Labouani	have	Trial resumes	O	PERSON
+0.824087181271918	India	mark at_time	Republic Day	LOCATION	MISC
+1.0	year	mark	100th anniversary of death of norwegian composer Edvard Grieg	DURATION	PERSON
+1.0	Jose Manuel Barroso	be with	european Commission	PERSON	ORGANIZATION
+1.0	Romano Prodi	be	italian	PERSON	0
+0.7792517572167104	anniversary celebration	culminate in	mass rally	0	0
+1.0	assault	have	accused	O	O
+0.8919511974055465	Parliament	discuss	amendment	ORGANIZATION	0
+1.0	involvement	be in	terrorism	0	0
+0.7860909953828681	trial	begin for	Thailand 's second-largest party on vote fraud charge	0	LOCATION
+1.0	death	be in	Libya	0	LOCATION
+1.0	hearing	be in	vote fraud case against Thailand 's second	0	ORDINAL
+0.5842035755737756	bavarian court	rule on	islamic veil ban	0	0
+1.0	ambassador	have	extradition	O	O
+0.5425682436898807	mark	100th anniversary of	death	0	0
+1.0	Michel Kilo	be	arrest	PERSON	0
+1.0	Lewis	be aide of	Cheney	PERSON	PERSON
+0.8919511974055465	Parliament	discuss	constitutional amendment	ORGANIZATION	0
+1.0	affairs ministers	have	meeting	O	O
+0.5842035755737756	bavarian constitutional court	rule on	islamic veil ban	0	0
+1.0	10 day	mark	28th anniversary of revolution	DURATION	ORDINAL
+1.0	their	have	aid program	O	O
+1.0	break-in	be in	1995	0	DATE
+0.6393884036673528	Jordan	seventh anniversary of	death of King Hussein	LOCATION	PERSON
+1.0	Hamas	have	election	O	ORGANIZATION
+1.0	Doha Conference	have	Start	DURATION	ORGANIZATION
+0.7949254482025905	norwegian oil	open	Energy Minister Odd Roger Enoksen	0	0
+1.0	country	have	constitution	O	O
+1.0	Azerbaijan	have	Defence Minister Safar Abiyev	PERSON	LOCATION
+1.0	Mahmud Abbas	be of	palestinian	PERSON	0
+1.0	oil	be	attend	0	0
+0.8919511974055465	Jordan	mark	anniversary	LOCATION	0
+1.0	Constantine II	of auction be	only one	PERSON	0
+1.0	islamist Hamas movement	come to	power	ORGANIZATION	0
+1.0	his	have	wife Camilla visit	O	O
+1.0	Safar Abiyev	be defence minister of	Azerbaijan	PERSON	LOCATION
+1.0	advance party	be dispatch in	December	0	DATE
+0.5842035755737756	bavarian constitutional court	rule on	veil ban	0	0
+1.0	Michel Kilo	go on	trial before court	PERSON	0
+1.0	10 day	mark anniversary amid	indication from official of significant announcement on its nuclear programme	DURATION	0
+1.0	10 day	mark	anniversary	DURATION	0
+1.0	elections	have	anniversary	O	O
+1.0	egyptian ferry	be in	Red Sea	0	LOCATION
+1.0	international donor	review	they aid program	0	0
+1.0	paramilitary Michael Stone	appear in	court	PERSON	0
+1.0	10 day	mark anniversary amid	indication from official of announcement	DURATION	0
+0.6425898913671912	Ariel Sharon	be elect	minister	PERSON	0
+1.0	Miguel Angel Moratinos	be	Spanish	PERSON	MISC
+1.0	King Abdullah II	have	birthday	O	PERSON
+0.5425682436898807	mark	anniversary of	death of norwegian composer Edvard Grieg	0	PERSON
+0.13578433017498404	international donor	begin in	Sri Lanka 's southern town of Galle	0	LOCATION
+1.0	Jean-Claude Trichet	be	European Bank	PERSON	ORGANIZATION
+1.0	Edvard Grieg	be of	norwegian	PERSON	0
+1.0	donor	begin meeting in	Sri Lanka 's town	0	LOCATION
+1.0	trial	refuse	serve in Iraq	0	LOCATION
+0.8919511974055465	Jordan	mark	birthday	LOCATION	0
+1.0	nation	have	index for December	0	DATE
+0.939100041252967	he	plan	deal with militant	0	0
+1.0	international donor	begin meeting in	Sri Lanka 's town	0	LOCATION
+1.0	Nikola Gruevski	be	Macedonian	PERSON	MISC
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+0.531774084632508	Health worker	go on	strike	0	0
+0.9188335965310812	Regional tuna commission	hold	joint meeting	0	0
+0.5842035755737756	court	rule on	veil ban for teacher	0	0
+1.0	Naomi Campbell	be in	court on assault charge	PERSON	0
+0.6671444798156546	trial	begin of	officer	0	0
+0.8919511974055465	Turkmenistan	hold	election follow death of Saparmurat Niyazov	LOCATION	PERSON
+1.0	king	have	auction	O	O
+0.9448763145986003	european study centre	organise conference with	participation of norwegian Foreign Minister Jonas Gahr Stoere	0	PERSON
+0.9188335965310812	South African President Thabo Mbeki	deliver	annual state of nation address	PERSON	SET
+1.0	Tokyo	have	consumer price index	O	LOCATION
+0.9448763145986003	study centre	organise	conference on democracy	0	0
+0.7364568088334112	Japan China	hold meeting on	cooperation in criminal investigation	LOCATION	0
+0.8919511974055465	Bank	hold	press conference	ORGANIZATION	0
+1.0	10 day	mark	28th anniversary	DURATION	ORDINAL
+1.0	countries	have	Meeting	O	O
+1.0	Ehren Watada	be of	US	PERSON	LOCATION
+1.0	ferry	have	sinking	O	O
+1.0	vice-governors	have	Election	O	O
+1.0	Hamas movement	trounce	Fatah party	ORGANIZATION	ORGANIZATION
+1.0	oil	be attend by	key representative	0	0
+0.9115135276261999	verdict	expect on	extradition of former ambassador	0	0
+0.6671444798156546	trial	begin of	US lieutenant Ehren Watada	0	LOCATION
+0.7335669563137854	trial	open of	five former Guantanamo detainee	0	NUMBER
+1.0	connection	be with	kidnapping in Italy of egyptian imam	0	LOCATION
+1.0	tour	have	part	O	O
+1.0	islamist Hamas movement	trounce	Fatah party	ORGANIZATION	ORGANIZATION
+1.0	festivities	have	year	DURATION	O
+0.9447263933456025	Cambodia	reopen airport at	coastal resort of Sihanoukville	LOCATION	LOCATION
+1.0	astronauts	have	death	O	O
+1.0	Thailand	have	government	O	LOCATION
+0.9447263933456025	Cambodia	reopen airport at	resort	LOCATION	0
+1.0	Foreign Minister Jonas Gahr Stoere	have	participation	O	PERSON
+1.0	EU presidency	visit for	talk on eu-russia partnership	ORGANIZATION	0
+1.0	Kosovo Contact Group	have	Meeting	O	ORGANIZATION
+1.0	African Union heads	have	summit	O	O
+0.5184244362695867	four-day visit	take in	Egypt	DURATION	LOCATION
+1.0	euro	have	introduction	O	O
+0.6973198716687417	Iran	begin	10 day of celebration	LOCATION	DURATION
+0.8919511974055465	Jordan	mark	seventh anniversary of death	LOCATION	ORDINAL

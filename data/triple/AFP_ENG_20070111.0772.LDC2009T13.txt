@@ -1,0 +1,28 @@
+1.0	27	have	explosives	O	O
+1.0	man	find	m105 shell	0	0
+1.0	man	find	m105 shell in water	0	0
+1.0	war	end in	1975	0	DATE
+1.0	ordnance	have	percent	PERCENT	O
+0.9996521502624652	man	aged at_time	27	0	NUMBER
+1.0	man aged 27	find m105 shell in	Kien Giang province	NUMBER	PERSON
+1.0	munitions	have	tonnes	MONEY	O
+1.0	m105 shell	be in	water	0	0
+1.0	man aged 27	find	m105 shell in water	NUMBER	0
+1.0	man	find m105 shell at_time	Wednesday	0	DATE
+1.0	man aged	find m105 shell at_time	Wednesday	0	DATE
+1.0	Phu Quoc island	have	found	O	O
+1.0	artillery shells	have	tonnes	MONEY	O
+1.0	man aged	find	m105 shell in water	0	0
+1.0	man aged 27	find m105 shell off	Phu Quoc island	NUMBER	LOCATION
+1.0	man aged	find m105 shell off	Phu Quoc island	0	LOCATION
+1.0	Public Security	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	man	find m105 shell in	Kien Giang province	0	PERSON
+1.0	official	say at_time	Friday	0	DATE
+0.9996521502624652	man	aged to	35	0	NUMBER
+1.0	military official	say at_time	Friday	0	DATE
+1.0	man aged	find m105 shell in	Kien Giang province	0	PERSON
+1.0	man	find m105 shell off	Phu Quoc island	0	LOCATION
+1.0	mines	have	tonnes	MONEY	O
+1.0	bombs	have	tonnes	MONEY	O
+1.0	man aged	find	m105 shell	0	0
+1.0	man aged 27	find	m105 shell	NUMBER	0

@@ -1,0 +1,120 @@
+1.0	Bucharest	become	26th	LOCATION	ORDINAL
+1.0	I	see	advent of competition	0	0
+1.0	Romanians	have	lives	O	MISC
+1.0	former communist country	will benefit	total of 35 billion euro	0	MONEY
+1.0	two former communist country	will also benefit	total of 35 billion euro exclude agricultural subsidy	NUMBER	MONEY
+1.0	European Institute	have	director	O	ORGANIZATION
+1.0	country	have	exports	O	O
+1.0	bns	one of	Romania 's most powerful trade union	0	LOCATION
+1.0	Bulgaria	have	people	O	LOCATION
+1.0	I	expect in	economic term	0	0
+1.0	Sorin Ionita	be of	romanian Academic Society	PERSON	ORGANIZATION
+1.0	Tsvetozar Tomov	be	bulgarian	PERSON	0
+1.0	population	have	percent	PERCENT	O
+1.0	competition	have	advent	O	O
+1.0	transition	have	years	DURATION	O
+1.0	Romania	have	people	O	LOCATION
+1.0	two former communist country	will also benefit	total	NUMBER	0
+1.0	two former communist country	will also benefit	total of 35 billion euro exclude considerable subsidy	NUMBER	MONEY
+1.0	Romania	of	most powerful trade union	LOCATION	0
+1.0	Bucharest daily newspaper	at editorialist be	Gandul	SET	ORGANIZATION
+1.0	politician	predict	analyst	0	0
+1.0	exports	have	thirds	O	O
+1.0	two former communist country	will also benefit	total of 35 billion euro exclude subsidy	NUMBER	MONEY
+1.0	Dumitru Costin	be	optimistic	PERSON	0
+1.0	former communist country	will also benefit	total exclude considerable subsidy	0	0
+1.0	former communist country	will also benefit	total of 35 billion euro exclude considerable agricultural subsidy	0	MONEY
+1.0	Romania	have	trade unions	O	LOCATION
+1.0	Dumitru Costin	be also optimistic about	effect	PERSON	0
+1.0	two former communist country	will benefit	total of 35 billion euro exclude agricultural subsidy	NUMBER	MONEY
+1.0	former communist country	will also benefit total from	substantial EU aid	0	ORGANIZATION
+1.0	Bucharest	just become	Sofia	LOCATION	LOCATION
+1.0	former communist country	will benefit total from	substantial EU aid	0	ORGANIZATION
+1.0	former communist country	will also benefit	total of 35 billion euro	0	MONEY
+1.0	people	have	market	O	O
+1.0	Bucharest	just become on	Monday	LOCATION	DATE
+1.0	Romania	have	pain	LOCATION	0
+1.0	former communist country	will also benefit total from	EU aid	0	ORGANIZATION
+1.0	analyst	nevertheless caution against	hope	0	0
+1.0	Dumitru Costin	be	also optimistic	PERSON	0
+1.0	Romania	have	grow pain	LOCATION	0
+1.0	two former communist country	will benefit	total exclude subsidy	NUMBER	0
+1.0	Bogdan Chireac	be	optimistic	PERSON	0
+1.0	trade unions	have	one	NUMBER	O
+1.0	former communist country	will also benefit	total of 35 billion euro exclude considerable subsidy	0	MONEY
+1.0	former communist country	will benefit total from	EU aid	0	ORGANIZATION
+1.0	two former communist country	will also benefit	total exclude considerable subsidy	NUMBER	0
+1.0	people	endure	17 year	0	DURATION
+1.0	immediate hike	be in	salary	0	0
+1.0	two former communist country	will also benefit total from	substantial EU aid	NUMBER	ORGANIZATION
+1.0	former communist country	will benefit	total exclude considerable agricultural subsidy	0	0
+1.0	I	see	advent of real competition between company	0	0
+1.0	they	modernise	they infrastructure	0	0
+1.0	two former communist country	will also benefit	total exclude agricultural subsidy	NUMBER	0
+1.0	political analyst Ivan Krastev	say in	Bulgaria	PERSON	LOCATION
+1.0	two former communist country	will benefit	total exclude considerable subsidy	NUMBER	0
+1.0	former communist country	will benefit	total of 35 billion euro exclude agricultural subsidy	0	MONEY
+1.0	politician	join	analyst	0	0
+1.0	Niculae Idu	director of	European Institute	PERSON	ORGANIZATION
+1.0	two former communist country	will benefit	total exclude agricultural subsidy	NUMBER	0
+1.0	former communist country	will benefit	total of 35 billion euro exclude subsidy	0	MONEY
+1.0	two former communist country	will benefit total from	EU aid	NUMBER	ORGANIZATION
+1.0	analyst	caution against	hope	0	0
+1.0	Bucharest	become on	Monday	LOCATION	DATE
+1.0	two former communist country	will benefit	total exclude considerable agricultural subsidy	NUMBER	0
+1.0	businesses	have	percentage	O	O
+1.0	euros	have	total	O	MONEY
+1.0	former communist country	will benefit	total exclude subsidy	0	0
+1.0	two former communist country	will benefit	total of 35 billion euro exclude considerable agricultural subsidy	NUMBER	MONEY
+1.0	two former communist country	will also benefit	total exclude considerable agricultural subsidy	NUMBER	0
+1.0	country	have	development	O	O
+1.0	two former communist country	will also benefit	total of 35 billion euro	NUMBER	MONEY
+1.0	Sorin Ionita	forecast	political analyst	PERSON	0
+1.0	transition period	be	tough	0	0
+1.0	former communist country	will also benefit	total exclude considerable agricultural subsidy	0	0
+1.0	Bogdan Chireac	editorialist at	Bucharest daily newspaper	PERSON	SET
+1.0	analyst Ivan Krastev	say in	neighbouring Bulgaria	PERSON	LOCATION
+1.0	Sorin Ionita	forecast	analyst	PERSON	0
+1.0	two former communist country	will benefit	total	NUMBER	0
+1.0	their	have	employees	O	O
+1.0	Communism	have	fall	DATE	MISC
+1.0	former communist country	will also benefit	total exclude subsidy	0	0
+1.0	two former communist country	will benefit	total of 35 billion euro exclude subsidy	NUMBER	MONEY
+1.0	I	see	advent	0	0
+1.0	two former communist country	will also benefit total from	EU aid	NUMBER	ORGANIZATION
+1.0	two former communist country	will benefit total from	substantial EU aid	NUMBER	ORGANIZATION
+1.0	Bucharest	just become	26th	LOCATION	ORDINAL
+1.0	Niculae Idu	tell	AFP	PERSON	ORGANIZATION
+1.0	people	endure	17 year of transition	0	DURATION
+1.0	companies	have	doors	O	O
+1.0	former communist country	will also benefit	total of 35 billion euro exclude agricultural subsidy	0	MONEY
+1.0	Romania	of	European Institute	LOCATION	ORGANIZATION
+1.0	analyst Ivan Krastev	say in	Bulgaria	PERSON	LOCATION
+1.0	Romania	have	European Institute	ORGANIZATION	LOCATION
+1.0	percentage	close	they door	0	0
+1.0	Academic Society	have	Sorin Ionita	PERSON	ORGANIZATION
+1.0	former communist country	will benefit	total of 35 billion euro exclude considerable subsidy	0	MONEY
+1.0	former communist country	will also benefit	total	0	0
+1.0	Bogdan Chireac	be	more optimistic	PERSON	0
+1.0	former communist country	will also benefit	total of 35 billion euro exclude subsidy	0	MONEY
+1.0	hike	have	country	O	O
+1.0	former communist country	will benefit	total exclude agricultural subsidy	0	0
+1.0	former communist country	will benefit	total	0	0
+1.0	two former communist country	will benefit	total of 35 billion euro	NUMBER	MONEY
+1.0	Bulgarians	have	lives	O	MISC
+1.0	I	see	advent of competition between company	0	0
+1.0	former communist country	will benefit	total of 35 billion euro exclude considerable agricultural subsidy	0	MONEY
+1.0	their	have	infrastructure	O	O
+1.0	Dumitru Costin	be optimistic about	effect	PERSON	0
+1.0	I	expect in	term	0	0
+1.0	two former communist country	will also benefit	total of 35 billion euro exclude considerable agricultural subsidy	NUMBER	MONEY
+1.0	former communist country	will also benefit	total exclude agricultural subsidy	0	0
+1.0	two former communist country	will also benefit	total exclude subsidy	NUMBER	0
+1.0	political analyst Ivan Krastev	say in	neighbouring Bulgaria	PERSON	LOCATION
+1.0	former communist country	will benefit	total exclude considerable subsidy	0	0
+1.0	Stoyan Stalev	be	invest Bulgaria	PERSON	ORGANIZATION
+1.0	Stoyan Stalev	be chairman of	invest Bulgaria	PERSON	ORGANIZATION
+1.0	Dumitru Costin	official at	bns	PERSON	0
+1.0	Bucharest	become	Sofia	LOCATION	LOCATION
+1.0	two former communist country	will benefit	total of 35 billion euro exclude considerable subsidy	NUMBER	MONEY
+1.0	I	see	advent of real competition	0	0

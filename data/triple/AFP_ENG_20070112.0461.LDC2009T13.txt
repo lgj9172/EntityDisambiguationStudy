@@ -1,0 +1,18 @@
+1.0	man	neighbour	Delta state	0	ORGANIZATION
+1.0	man	be	employ	0	0
+1.0	man	be	subcontract	0	0
+1.0	they	be take	hostage on Wednesday	0	DATE
+1.0	government spokesman	tell	AFP	0	ORGANIZATION
+1.0	they	be take	hostage	0	0
+1.0	they	release	all 10 of hostage	0	NUMBER
+1.0	man	neighbour delta state with	function airport	0	0
+1.0	man	neighbour delta state with	airport	0	0
+1.0	hostages	have	10	NUMBER	O
+1.0	Shell	be for	anglo-dutch	ORGANIZATION	0
+1.0	they	be take	hostage early	0	0
+1.0	man	be employ by	Daewoo	0	ORGANIZATION
+1.0	they	release	all 10 hostage	0	NUMBER
+1.0	man	be in	Warri	0	LOCATION
+1.0	they	be take	hostage early on Wednesday	0	DATE
+1.0	Bayelsa	have	state	O	LOCATION
+1.0	they	be take hostage at_time	morning	0	TIME

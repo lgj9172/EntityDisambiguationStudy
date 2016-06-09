@@ -1,0 +1,129 @@
+1.0	their	have	talks	O	O
+1.0	meeting	be with	Hu Jintao	0	PERSON
+1.0	China 's	be pivotal player as	permanent member of Security Council	LOCATION	ORGANIZATION
+1.0	Olmert and Hu	have	talks	O	O
+1.0	China 's	be player as	member	LOCATION	0
+1.0	Israel	have	troubles	O	LOCATION
+1.0	Israel	have	co-existence	O	LOCATION
+1.0	visit	have	engagement	O	O
+1.0	community	prepare for	next round of sanction	0	0
+1.0	China	have	position	O	LOCATION
+0.633593924617174	Israeli Prime Minister Ehud Olmert	say at_time	day	PERSON	DATE
+1.0	Beijing	have	Forbidden City	LOCATION	LOCATION
+1.0	its	have	neighbours	O	O
+1.0	Israeli Prime Minister Ehud Olmert	say	he meeting	PERSON	0
+1.0	olmert	head into	talk	0	0
+1.0	Israeli Prime Minister Ehud Olmert	tell reporter follow	meeting on Wednesday	PERSON	DATE
+1.0	substantive measure	build	trust	0	0
+1.0	China 's	be player as	member of Security Council	LOCATION	ORGANIZATION
+1.0	senior official	tell	afp	0	0
+1.0	Iran	have	programme	O	LOCATION
+1.0	its programme	refuse	bow to UN demand	0	ORGANIZATION
+1.0	community	prepare for	round of sanction	0	0
+1.0	Israeli Prime Minister Ehud Olmert	tour	Beijing 's Forbidden City	0	LOCATION
+1.0	community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	China 's	member of	UN security Council	LOCATION	ORGANIZATION
+1.0	international community	prepare for	round of sanction	0	0
+0.5438576007626847	Olmert	implementation	Wen	PERSON	PERSON
+1.0	response	halt	Iran 's ambition	0	LOCATION
+1.0	that	impose sanction on	Iran 's	0	LOCATION
+1.0	Thursday	have	meeting	DATE	0
+1.0	focus	would	would Iran	0	LOCATION
+0.9652381129169338	China 's	member of	UN security Council	LOCATION	ORGANIZATION
+1.0	Thursday	have	meeting	O	DATE
+1.0	Israel	have	trouble	LOCATION	0
+1.0	China	by	position on nuclear programme ahead of meeting with chinese President Hu Jintao	LOCATION	PERSON
+1.0	substantive measure	build	mutual trust	0	0
+1.0	international community	prepare for	next round	0	0
+1.0	Israel 's	take	Syria	LOCATION	LOCATION
+1.0	issue	have	core	O	O
+1.0	its programme	be	entirely peaceful	0	0
+1.0	sanctions	have	round	O	O
+1.0	community	prepare in	coming month	0	DATE
+1.0	condition	restart of	peace talk	0	0
+1.0	response	halt	Iran 's nuclear ambition	0	LOCATION
+1.0	China 's	oppose	nuclear-armed Iran	LOCATION	LOCATION
+1.0	talks	have	brunt	O	O
+1.0	China 's	be player as	permanent member	LOCATION	0
+1.0	that	impose	limited sanction	0	0
+1.0	international community	prepare for	next round of sanction	0	0
+1.0	Iran	on	nuclear programme ahead	LOCATION	0
+1.0	cool response	halt	Iran 's ambition	0	LOCATION
+1.0	Palestine	have	co-existence	O	LOCATION
+1.0	Wen Jiabao	be	chinese	PERSON	0
+1.0	Olmert	meet	Hu	PERSON	0
+1.0	China	have	state press	O	LOCATION
+1.0	leader	stress	wen	0	0
+0.9652381129169338	China 's	veto-wielding member of	UN security Council	LOCATION	ORGANIZATION
+1.0	cool response	halt	Iran 's nuclear ambition	0	LOCATION
+1.0	nation	have	support	O	O
+1.0	its	have	position	O	O
+1.0	community	prepare in	month	0	0
+1.0	China 's	be	pivotal player	LOCATION	0
+0.5438576007626847	Olmert	implementation of	December 23 resolution	PERSON	DATE
+1.0	Wen	tell	Olmert	PERSON	PERSON
+1.0	its nuclear programme	be	entirely peaceful	0	0
+1.0	talk	be in	upbeat mood	0	0
+1.0	Premier Wen Jiabao	be	surprising	PERSON	0
+1.0	its	have	economy	O	O
+1.0	peace talks	have	restart	O	O
+1.0	olmert	head into	talk in mood	0	0
+1.0	international community	prepare in	month	0	0
+1.0	community	prepare for	next round of sanction against Iran	0	LOCATION
+1.0	its	have	need	O	O
+1.0	international community	prepare in	coming month	0	DATE
+1.0	official	tell	afp	0	0
+1.0	its programme	refuse	bow	0	0
+1.0	its booming economy	have	programme	O	O
+1.0	international community	prepare for	round	0	0
+1.0	international community	prepare for	next round of sanction against Iran	0	LOCATION
+1.0	main focus	would	would Iran	0	LOCATION
+1.0	China 's	be pivotal player as	member	LOCATION	0
+1.0	Israeli Prime Minister Ehud Olmert	tell	reporter	PERSON	0
+1.0	China 's	be pivotal player as	member of Security Council	LOCATION	ORGANIZATION
+1.0	Israeli Prime Minister Ehud Olmert	have	meeting	O	O
+1.0	measure	build	trust	0	0
+1.0	Israel 's	take	Lebanon	LOCATION	LOCATION
+1.0	israeli leader	stress	wen	0	0
+1.0	his	have	visit	O	O
+1.0	China	have	state press	LOCATION	0
+1.0	China 's	be player as	permanent member of Security Council	LOCATION	ORGANIZATION
+1.0	UN Security Council	have	member	O	ORGANIZATION
+1.0	Israeli Prime Minister Ehud Olmert	tell reporter follow	meeting	PERSON	0
+1.0	December resolution	have	implementation	O	O
+1.0	that	impose	sanction	0	0
+1.0	community	prepare for	next round	0	0
+1.0	olmert	receive assurance from	Chinese Premier Wen Jiabao	0	PERSON
+1.0	Israel 's	take	substantive measure	LOCATION	0
+1.0	China 's	oppose	Iran	LOCATION	LOCATION
+0.633593924617174	Israeli Prime Minister Ehud Olmert	say at_time	previous day	PERSON	DATE
+1.0	israeli Prime Minister Ehud Olmert	say at_time	Thursday	PERSON	DATE
+1.0	Olmert	will attend	concert	PERSON	0
+1.0	olmert	receive	assurance	0	0
+1.0	China 's	be pivotal player as	permanent member	LOCATION	0
+0.7863880899336431	Olmert	discuss	implementation	PERSON	0
+1.0	Israeli Prime Minister Ehud Olmert	tour	Beijing 's historic Forbidden City	0	LOCATION
+1.0	chinese Premier Wen Jiabao	be	surprising	PERSON	0
+1.0	ties	have	years	DURATION	O
+1.0	Israel 's	take	measure	LOCATION	0
+1.0	international community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	meeting	have	position	O	O
+1.0	community	prepare for	round	0	0
+1.0	Prime Minister Ehud Olmert	say at_time	Thursday	PERSON	DATE
+1.0	his	have	nation	O	O
+0.7863880899336431	Olmert	discuss	Wen	PERSON	PERSON
+1.0	its nuclear programme	refuse	bow to UN demand	0	ORGANIZATION
+1.0	Hu Jintao	be with	chinese	PERSON	0
+1.0	Iran	have	ambitions	O	LOCATION
+1.0	its nuclear programme	refuse	bow	0	0
+0.7863880899336431	Olmert	discuss	implementation of December 23 resolution	PERSON	DATE
+1.0	its programme	be	peaceful	0	0
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	China 's	be	player	LOCATION	0
+1.0	measure	build	mutual trust	0	0
+1.0	China 's	be	pivotal	LOCATION	0
+1.0	its nuclear programme	be	peaceful	0	0
+1.0	Israeli officials	have	call	O	O
+1.0	nation	have	support	0	0
+1.0	olmert	head into	talk in upbeat mood	0	0
+1.0	Iran	have	nuclear ambition	LOCATION	0

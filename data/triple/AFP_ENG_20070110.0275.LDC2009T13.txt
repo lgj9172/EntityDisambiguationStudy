@@ -1,0 +1,123 @@
+1.0	he	be	work with most	0	0
+1.0	home	have	depiction	O	O
+1.0	Sophia Loren	feature as	pin-up	PERSON	0
+1.0	Carlo Ponti Jr.	be	music director	PERSON	0
+1.0	Fellini	with	La Strada co-produce with Dino De Laurentis in 1954	PERSON	PERSON
+1.0	bigamy	have	charges	O	O
+1.0	her	have	husband	O	O
+1.0	Alex Ponti	be	film producer	PERSON	0
+1.0	Sophia Loren	continue	feature as pin-up	PERSON	0
+1.0	Sophia Loren	make wave as	star	PERSON	0
+1.0	Carlo Ponti	have	productions	O	O
+1.0	Antonioni	have	`` blowup	PERSON	MISC
+1.0	couple	live	scandal in itself	0	0
+1.0	first marriage	have in	1957	ORDINAL	DATE
+1.0	Carlo Ponti	die at	hospital	PERSON	0
+1.0	he	be	work with most of great director	0	0
+1.0	World War II	have	years	DURATION	MISC
+1.0	couple	live	scandal	0	0
+1.0	New York Critics	have	Prize	O	O
+1.0	he	work with	most of director include compatriot Roberto Rossellini	0	PERSON
+1.0	couple	live	scandal in itself at time	0	DATE
+1.0	Ponti	have	early success	PERSON	0
+1.0	his	have	period	O	O
+1.0	Sophia Loren	have	biography	O	O
+1.0	Fellini	have	La Strada	O	PERSON
+1.0	show business	have	other	O	O
+1.0	Edoardo Ponti	be	film director	PERSON	0
+1.0	film production	be in	1930	0	0
+1.0	first marriage	be	annul	ORDINAL	0
+1.0	Carlo Ponti Jr.	be	music director of San Bernardino Symphony Orchestra	PERSON	ORGANIZATION
+1.0	he	be	work with most of director include compatriot Roberto Rossellini	0	PERSON
+1.0	he	be	work with most of director of he period include compatriot Roberto Rossellini	0	PERSON
+1.0	he	work with	most of great director	0	0
+1.0	Carlo Ponti	go into	film production	PERSON	0
+1.0	Sophia Loren	feature at_time	last year	PERSON	DATE
+1.0	he	work with	most of great director include compatriot Roberto Rossellini	0	PERSON
+1.0	couple	live	scandal at time	0	DATE
+1.0	City	be	dramatic	0	0
+1.0	marriage	have	annul	0	0
+1.0	scandal	be in	itself	0	0
+1.0	Sophia Loren	continue	feature last year as pin-up on Pirelli tyre company 's calendar	PERSON	ORGANIZATION
+1.0	he	be	work with most of director of he period	0	0
+1.0	Ponti 's three son	be	all	PERSON	0
+1.0	Carlo Ponti	have	marriage	O	O
+1.0	Carlo Ponti	die at_time	early Wednesday	PERSON	DATE
+1.0	Sophia Loren	feature as	pin-up on Pirelli tyre company 's calendar	PERSON	ORGANIZATION
+1.0	his	have	reputation	O	O
+1.0	Ponti	have	sons	O	PERSON
+1.0	first marriage	have	annul	ORDINAL	0
+1.0	Ponti	have	success	PERSON	0
+0.7892451448276323	grow	resistance against	occupation	0	0
+1.0	Sophia Loren	have	family	O	O
+1.0	Dino De Laurentis	be in	1954	PERSON	DATE
+1.0	he	be	work with most of director	0	0
+1.0	he	work with	most of director	0	0
+1.0	marriage	be	annul	0	0
+1.0	she	advance	film career	0	0
+1.0	his	have	father	O	O
+1.0	Carlo Ponti	die at_time	Wednesday	PERSON	DATE
+1.0	couple	live together	scandal	0	0
+1.0	Ponti 's three son	be all in	one branch	PERSON	NUMBER
+1.0	Sophia Loren	continue	feature year as pin-up on Pirelli tyre company 's calendar	PERSON	ORGANIZATION
+1.0	Carlo Ponti	bear on	December 11 1912	PERSON	DATE
+1.0	San Bernardino Symphony Orchestra	have	music director	O	ORGANIZATION
+1.0	early success	be with	Rossellini	0	PERSON
+1.0	couple	live together	scandal in itself at time	0	DATE
+1.0	he	be	work with most of great director of he period	0	0
+1.0	Ponti	have	success with Rossellini	PERSON	PERSON
+1.0	Sophia Loren	continue	feature year	PERSON	DATE
+1.0	Sophia Loren	make	wave	PERSON	0
+1.0	Ponti 's son	be	all	PERSON	0
+1.0	period	have	directors	O	O
+1.0	Pirelli tyre company	have	calendar	O	O
+1.0	Sophia Loren	continue	feature	PERSON	0
+1.0	Carlo Ponti	die at	hospital in Geneva	PERSON	LOCATION
+1.0	Carlo Ponti	have	credit	O	O
+1.0	Carlo Ponti	go into	film production in late 1930	PERSON	0
+1.0	he	confirm	he reputation	0	0
+1.0	part	be in	beauty contest	0	0
+1.0	he	work with	most of director of he period	0	0
+1.0	he	be	work with most include compatriot Roberto Rossellini	0	PERSON
+0.7892451448276323	grow	resistance against	german occupation	0	0
+1.0	he	be	work with most of great director include compatriot Roberto Rossellini	0	PERSON
+1.0	Carlo Ponti Jr.	be	music director in United States	PERSON	LOCATION
+1.0	Pirelli tyre company	on	calendar	ORGANIZATION	0
+1.0	Ponti	be	marry twice	PERSON	0
+1.0	Carlo Ponti	bear in	Magenta northern Italy	PERSON	LOCATION
+1.0	he	work with	most include compatriot Roberto Rossellini	0	PERSON
+1.0	Ponti	be	marry	PERSON	0
+1.0	he	work with	most of great director of he period include compatriot Roberto Rossellini	0	PERSON
+1.0	World War II	be in	Italy	MISC	LOCATION
+1.0	music director	be in	United States	0	LOCATION
+1.0	Carlo Ponti	bear in	Magenta Italy	PERSON	LOCATION
+1.0	directors	have	most	O	O
+1.0	couple	live together	scandal at time	0	DATE
+1.0	Sophia Loren	continue	feature last year	PERSON	DATE
+1.0	Ponti	have	early success with Rossellini	PERSON	PERSON
+1.0	marriage	have in	1957	0	DATE
+1.0	couple	live together	scandal in itself	0	0
+1.0	she	advance	bud film career	0	0
+1.0	he	be	work with most of great director of he period include compatriot Roberto Rossellini	0	PERSON
+1.0	Sophia Loren	continue	feature last year as pin-up	PERSON	DATE
+1.0	Sophia Loren	continue	feature year as pin-up	PERSON	DATE
+1.0	Carlo Ponti	go into	film production in 1930	PERSON	0
+1.0	Antonioni	's blowup be	1966	PERSON	DATE
+1.0	Roberto Rossellini	be	Federico Fellini	PERSON	PERSON
+1.0	pulmonary infection	be in	swiss city	DURATION	0
+1.0	Italy	be in	Magenta	LOCATION	LOCATION
+1.0	Ponti 's son	be all in	one branch	PERSON	NUMBER
+1.0	he	work with	most	0	0
+1.0	Guiliana Fiastri	be in	1946	PERSON	DATE
+1.0	Sophia Loren	feature at_time	year	PERSON	DATE
+1.0	he	be	work	0	0
+1.0	Doctor Zhivago	be in	1965	0	DATE
+1.0	he	work with	most of director of he period include compatriot Roberto Rossellini	0	PERSON
+1.0	Antonioni	have	Blowup	MISC	PERSON
+1.0	Ponti	have	three son	PERSON	NUMBER
+1.0	he	work with	most of great director of he period	0	0
+1.0	Alex Ponti	be	film producer like he father	PERSON	0
+1.0	Sophia Loren	continue	feature as pin-up on Pirelli tyre company 's calendar	PERSON	ORGANIZATION
+1.0	hospital	be in	Geneva	0	LOCATION
+1.0	Carlo Ponti Jr.	be	music director of San Bernardino Symphony Orchestra in United States	PERSON	ORGANIZATION
+1.0	productions	have	three dozen	NUMBER	O

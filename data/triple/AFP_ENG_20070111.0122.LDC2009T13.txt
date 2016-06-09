@@ -1,0 +1,53 @@
+1.0	forestry	have	professor	O	O
+1.0	Japan Prize	have	have award to people from part of world since 1985	0	DATE
+1.0	Japan Prize	have	have award from part of world since 1985	0	DATE
+1.0	previous winner	include	Britain 's Tim Berners-Lee for he contribution	0	LOCATION
+1.0	organizer	say at_time	Thursday	0	DATE
+1.0	Britain	have	Tim Berners-Lee	LOCATION	PERSON
+1.0	Makoto Nagao	be of	Japan	PERSON	LOCATION
+1.0	Japan Prize	have	have award to people from part of world since 1985 with support	0	DATE
+1.0	Peter Gruenberg	be of	Germany	PERSON	LOCATION
+1.0	Japan Prize	have	have award annually to people from part of world since 1985 with support	0	SET
+1.0	Science and Technology Foundation	be of	Japan	ORGANIZATION	LOCATION
+1.0	government private sector	have	support	O	O
+1.0	Japan Prize	recognize	achievement	0	0
+1.0	Japan Prize	have	have award to people from part of world since 1985 with support of government sector	0	DATE
+1.0	prize	come	417,000 US dollar	0	NUMBER
+1.0	Peter Shaw Ashton	professor of	forestry at Harvard University	PERSON	ORGANIZATION
+1.0	Fert , 68 , and Gruenberg	have	place	O	O
+1.0	Albert Fert	be of	Peter Gruenberg	PERSON	PERSON
+1.0	Japan Prize	have	have award annually from part of world since 1985 with support of government sector	0	SET
+1.0	they place	be in	annals of scientific foundation	0	0
+1.0	Gruenberg	have	work	O	O
+1.0	ceremony	be in	Tokyo	0	LOCATION
+1.0	Japan Prize	have	have award from part of world since 1985 with support	0	DATE
+1.0	Fert , 68 , and Gruenberg	have	achievements	O	O
+1.0	Japan	have	Science Technology Foundation	ORGANIZATION	LOCATION
+1.0	Britain	have	Peter Shaw Ashton	PERSON	LOCATION
+1.0	Japan Prize	have	have award annually from part of world since 1985	0	SET
+1.0	France Peter Gruenberg	have	Physicists Albert Fert	PERSON	PERSON
+1.0	he work	be in	tropical forest conservation	0	0
+1.0	Japan Prize	have	have award annually to people from part of world since 1985 with support of government sector	0	SET
+1.0	world	have	parts	O	O
+1.0	Britain 's Peter Shaw Ashton , 72 , professor of forestry at Harvard University	have	work	O	O
+1.0	Britain	have	Tim Berners-Lee	PERSON	LOCATION
+1.0	Japan Prize	have	have award annually from part of world since 1985 with support	0	SET
+1.0	Japan Prize	have	have award from part of world since 1985 with support of government sector	0	DATE
+1.0	Germany	have	France Peter Gruenberg	PERSON	LOCATION
+1.0	foundation	have	annals	O	O
+1.0	Fert , 68 , and Gruenberg	have	discovery	O	O
+1.0	winner	include	Britain 's Tim Berners-Lee for he contribution	0	LOCATION
+1.0	previous winner	include	Britain 's Tim Berners-Lee	0	LOCATION
+1.0	giant magnetoresistance effect	be in	1980	0	0
+1.0	winner	include	Britain 's Tim Berners-Lee	0	LOCATION
+1.0	Britain 's Peter Shaw Ashton , 72 , professor of forestry at Harvard University	have	contribution	O	O
+1.0	Gruenberg	be	67	PERSON	NUMBER
+1.0	magnetoresistance effect	have	discovery	O	O
+1.0	Japan	have	Makoto Nagao	PERSON	LOCATION
+1.0	Britain	's ashton be	professor of forestry at Harvard University	LOCATION	ORGANIZATION
+1.0	Japan Prize	recognize	scientific achievement	0	0
+1.0	Japan Prize	have	have award annually to people from part of world since 1985	0	SET
+1.0	1980	in effect be	gmr	0	0
+1.0	Peter Shaw Ashton	be	72	PERSON	NUMBER
+1.0	Britain	have	Peter Shaw Ashton	LOCATION	PERSON
+1.0	prize	come	50 million yen	0	MONEY

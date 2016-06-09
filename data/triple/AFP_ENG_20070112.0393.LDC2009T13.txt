@@ -1,0 +1,33 @@
+1.0	Ivory Coast President Laurent Gbagbo	have	proposal	O	O
+1.0	Gbagbo	have	proposal	PERSON	0
+1.0	Ivory Coast President Laurent Gbagbo	win support for	he proposal	PERSON	0
+1.0	rebel force	be in	north	0	0
+1.0	Ivory Coast President Laurent Gbagbo	win support from	European Union	PERSON	ORGANIZATION
+1.0	country	have	part	O	O
+1.0	European Union	be on	Thursday	ORGANIZATION	DATE
+1.0	Aid Louis Michel	say	EU Commissioner for Development	PERSON	ORGANIZATION
+0.8032640221154881	hold	north of	african country	0	0
+0.8032640221154881	hold	north of	country	0	0
+1.0	Louis Michel	be	EU Commissioner for Development and Humanitarian Aid	PERSON	ORGANIZATION
+1.0	country	have	north	O	O
+1.0	rebel forces	have	leader	O	O
+1.0	leader	be take	part	0	0
+1.0	international working group meeting	be in	Abidjan	0	LOCATION
+1.0	Ivory Coast President Laurent Gbagbo	win	support	PERSON	0
+1.0	Ivory Coast President Laurent Gbagbo	win support on	Friday	PERSON	DATE
+1.0	it	support	peace process	0	0
+0.41885735062077306	he proposal	hold	direct talk	0	0
+1.0	Gbagbo	have	proposal	O	PERSON
+1.0	meeting	have	end	O	O
+0.8032640221154881	hold	north of	west african country	0	0
+1.0	Laurent Gbagbo	be president of	Ivory Coast	PERSON	LOCATION
+0.41885735062077306	he proposal	hold	talk	0	0
+1.0	leader	be take	part in talk	0	0
+1.0	it	provide	103 million euro	0	MONEY
+1.0	Laurent Gbagbo	be	Ivory Coast	PERSON	LOCATION
+0.41885735062077306	he proposal	hold direct talk with	rebel	0	0
+1.0	part	be in	closed-door talk	0	0
+0.8032640221154881	hold	north of	west country	0	0
+1.0	Aid Louis Michel	say	EU Commissioner	PERSON	ORGANIZATION
+1.0	leader	be take	part in closed-door talk	0	0
+0.41885735062077306	he proposal	hold talk with	rebel	0	0

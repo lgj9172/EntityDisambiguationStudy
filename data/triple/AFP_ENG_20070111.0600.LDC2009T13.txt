@@ -1,0 +1,44 @@
+1.0	US President George W. Bush on Thursday	praise maliki include	cleric	PERSON	0
+1.0	US President George W. Bush on Thursday	praise	Maliki	PERSON	PERSON
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	Moqtada al-Sadr	have	Mahdi Army	LOCATION	ORGANIZATION
+1.0	their	have	tours	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush on Thursday	tell	troops	0	0
+1.0	they tour	accelerate under	president 's new blueprint	0	0
+1.0	soldiers	have	Some	O	O
+1.0	33,000 soldier	of some be	base know as home	NUMBER	0
+1.0	US President George W. Bush on Thursday	praise maliki include	radical shiite cleric	PERSON	0
+1.0	US President George W. Bush on Thursday	praise maliki include	shiite cleric	PERSON	0
+1.0	US President George W. Bush on Thursday	also praise	Maliki	PERSON	PERSON
+1.0	duty	have	tours	O	O
+1.0	US President George W. Bush on Thursday	warn	militia	PERSON	0
+1.0	US President George W. Bush on Thursday	warn	iraqi militia	PERSON	0
+1.0	US patience	be	fraying	LOCATION	0
+1.0	Bush	praise	Iraq 's leader	PERSON	LOCATION
+1.0	they next tour	accelerate under	president 's new blueprint	0	0
+1.0	Infantry	have	Home	O	O
+1.0	president	under	new blueprint	0	0
+1.0	duty	be in	Iraq	0	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US patience	be with	war	LOCATION	0
+1.0	US President George W. Bush on Thursday	also praise maliki include	radical shiite cleric	PERSON	0
+1.0	they	have	choice make	0	0
+1.0	they tour	accelerate under	president 's blueprint	0	0
+1.0	they	have	choice	0	0
+1.0	Iraq	have	leaders	O	LOCATION
+1.0	our	have	chance	O	O
+1.0	people	have	patience	O	O
+1.0	US President George W. Bush on Thursday	also praise maliki include	shiite cleric	PERSON	0
+1.0	George W. Bush	be on	Thursday	PERSON	DATE
+1.0	Nuri al-Maliki	have	government	PERSON	0
+1.0	they next tour	accelerate under	president 's blueprint	0	0
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	Nuri al-Maliki	be 's	iraqi	PERSON	0
+1.0	US President George W. Bush on Thursday	also praise maliki include	cleric	PERSON	0
+1.0	president	have	blueprint	O	O
+1.0	Iraq	have	leader	LOCATION	0
+1.0	US President George W. Bush on Thursday	have	Iraq war	O	O
+1.0	your	have	arms	O	O
+1.0	his	have	plan	O	O
+1.0	Moqtada al-Sadr	have	Mahdi Army	ORGANIZATION	LOCATION

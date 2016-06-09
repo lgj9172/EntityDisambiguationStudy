@@ -1,0 +1,10 @@
+1.0	casualties	have	number	O	O
+1.0	capital	in	k4 district	0	0
+1.0	Mogadishu	in camp be	second such attack	LOCATION	ORDINAL
+1.0	capital	have	K4 district	O	O
+1.0	Mohamed Ahmed Kere	resident in	capital 's k4 district	PERSON	0
+1.0	fire	have	exchange	O	O
+1.0	camp	be in	Mogadishu	0	LOCATION
+1.0	second such attack	be in	three day	ORDINAL	DATE
+1.0	resident	be in	capital 's k4 district	0	0
+1.0	camp	attack in	three day	0	DATE

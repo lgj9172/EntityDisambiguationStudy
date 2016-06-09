@@ -1,0 +1,25 @@
+1.0	president Saddam Hussein	have	execution	O	PERSON
+1.0	police	say at_time	Friday	0	DATE
+1.0	protestor	be	national	0	0
+1.0	17th century monument	draw	some three million tourist	DATE	NUMBER
+1.0	protestor	be	when national	0	0
+1.0	Anil Rai	be police chief of	Agra	PERSON	LOCATION
+1.0	Agra	have	Taj Mahal town	O	LOCATION
+1.0	tourists	have	group	O	O
+1.0	Saturday	against	hanging	DATE	0
+1.0	protestor	be	australian	0	0
+1.0	protestor	be	when australian national	0	0
+1.0	protest	have erupt across	India	0	LOCATION
+1.0	17th century mughal monument	draw	some three million tourist	DATE	NUMBER
+1.0	tourists	have	one	NUMBER	O
+1.0	tourist	be in	Taj Mahal town of Agra	0	MISC
+0.9684508817623768	bus	add	at least one tourist	0	NUMBER
+1.0	Saturday	have	hanging	O	DATE
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+0.9684508817623768	bus	add	at least one of tourist	0	NUMBER
+1.0	protestor	be	australian national	0	0
+1.0	guide	be	injure	0	0
+0.6408378370785082	protestor	attack	bus	0	0
+1.0	Anil Rai	be	Agra	PERSON	LOCATION
+1.0	century monument	draw	some three million tourist	DATE	NUMBER
+1.0	century mughal monument	draw	some three million tourist	DATE	NUMBER

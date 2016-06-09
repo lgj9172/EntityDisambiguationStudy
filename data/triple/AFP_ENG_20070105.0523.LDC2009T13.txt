@@ -1,0 +1,52 @@
+1.0	room	be in	Malaysia	0	LOCATION
+1.0	new airline	will	will operate	0	0
+1.0	Malaysia Airlines	currently operate kuala lumpur to	London route	ORGANIZATION	LOCATION
+1.0	new airline	will	will operate by malaysian carrier	0	0
+1.0	Malaysia Airlines	have flight to	key destination	ORGANIZATION	0
+1.0	new airline	will	will operate by carrier	0	0
+1.0	haul budget	have	launch	O	O
+0.37124622277234	we	wish	best	0	0
+1.0	Malaysia Airlines	have flight to	key destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	operate	direct Kuala Lumpur	ORGANIZATION	LOCATION
+1.0	airline	will	will operate	0	0
+1.0	Tony Fernandes	executive of	lead low-cost carrier	PERSON	0
+1.0	Britain	be for	9.99 ringgit	LOCATION	MONEY
+1.0	airline	will	will operate by malaysian carrier	0	0
+1.0	Luton	have	operate	O	LOCATION
+1.0	Manchester	be in	England	LOCATION	LOCATION
+1.0	Malaysia Airlines	currently operate	direct Kuala Lumpur	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	also have	flight	ORGANIZATION	0
+1.0	Malaysia Airlines	also have flight to	destination	ORGANIZATION	0
+1.0	Malaysia Airlines	currently operate	Kuala Lumpur	ORGANIZATION	LOCATION
+1.0	losses	have	quarters	O	O
+1.0	new venture	be in	Britain	0	LOCATION
+1.0	Paris	have	destinations	O	LOCATION
+1.0	Malaysia Airlines	also have flight to	key destination	ORGANIZATION	0
+1.0	Malaysia Airlines	have flight to	european destination	ORGANIZATION	0
+1.0	Chan Kong Choy	be transport minister of	Malaysia	PERSON	ORGANIZATION
+1.0	Malaysia Airlines	have flight to	destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	also have flight to	key destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Frankfurt	have	destinations	O	LOCATION
+1.0	report	say at_time	Saturday	0	DATE
+1.0	Malaysia Airlines	also have flight to	destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	also have flight to	european destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Manchester	have	operate	O	LOCATION
+1.0	their	have	needs	O	O
+1.0	Rome	have	destinations	O	LOCATION
+1.0	Malaysia Airlines	also have flight to	key european destination	ORGANIZATION	0
+1.0	Malaysia	have	transport minister	ORGANIZATION	0
+1.0	Malaysia Airlines	operate	Kuala Lumpur	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	have flight to	key european destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	have flight to	destination	ORGANIZATION	0
+1.0	airline	will	will operate by carrier	0	0
+1.0	Malaysia Airlines	also have flight to	european destination	ORGANIZATION	0
+1.0	Malaysia Airlines	also have flight to	key european destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	have flight to	european destination of Frankfurt	ORGANIZATION	LOCATION
+1.0	Malaysia Airlines	have flight to	key european destination	ORGANIZATION	0
+1.0	Malaysia Airlines	operate kuala lumpur to	London route	ORGANIZATION	LOCATION
+1.0	carrier	have	executive	O	O
+1.0	impact	have	fears	O	O
+0.37124622277234	we	wish	AirAsia X	0	ORGANIZATION
+1.0	Malaysia	have	transport minister	O	LOCATION
+1.0	Malaysia Airlines	have	flight	ORGANIZATION	0
+1.0	July	be with	flight to Britain for as little as 9.99 ringgit	DATE	MONEY

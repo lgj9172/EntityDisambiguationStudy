@@ -1,0 +1,39 @@
+1.0	information	provide deliberately	ambiguous information	0	0
+1.0	interactions	have	third	ORDINAL	O
+1.0	Central Lancashire	have	University	ORGANIZATION	ORGANIZATION
+1.0	much	have	authors	O	O
+1.0	people	be	lot	0	0
+1.0	Office worker	tell truth in	communication	0	0
+1.0	information	change	subject	0	0
+1.0	common form	be distortion of	information	0	0
+1.0	costs	have	cutting	O	O
+1.0	Office worker	tell truth in	face-to-face communication	0	0
+1.0	lie	be tell by	email	0	0
+1.0	Office worker	be	most likely	0	0
+1.0	truthfulness	have	level	O	O
+1.0	lying	have	forms	O	O
+1.0	lies	have	number	O	O
+1.0	study	reveal at_time	Wednesday	0	DATE
+1.0	most lie	be tell by	email	0	0
+1.0	lie	be	tell	0	0
+1.0	Wincy Shek	co-author of	study	PERSON	0
+1.0	communications	have	percent	PERCENT	O
+1.0	workplace	may	may relate to change	0	0
+1.0	study	have	co-author	O	O
+1.0	things	have	one	NUMBER	O
+1.0	workplace	may	may relate to change in jobmarket	0	0
+1.0	Office worker	be	likely	0	0
+1.0	information	provide	ambiguous information	0	0
+1.0	most lie	be	tell	0	0
+1.0	workplace	may	may relate	0	0
+1.0	information	have	distortion	O	O
+1.0	worker	be untruthful in	up	0	0
+1.0	information	provide deliberately	information	0	0
+1.0	information	provide	information	0	0
+1.0	change	be in	jobmarket	0	0
+1.0	Office worker	tell	truth	0	0
+1.0	Office managers	have	subordinates	O	O
+1.0	respondent	admit in	15 percent of communication	0	PERCENT
+1.0	worker	be untruthful in	up to third of interaction	0	ORDINAL
+1.0	british study	reveal at_time	Wednesday	0	DATE
+1.0	communication	have	means	O	O

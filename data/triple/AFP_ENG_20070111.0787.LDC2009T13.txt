@@ -1,0 +1,68 @@
+1.0	government	select	partner	0	0
+1.0	it	own	59 percent include 43 percent stake	0	PERCENT
+1.0	malaysian government	be currently negotiate	partnership deal	0	0
+1.0	The Malaysian government	arrest	sharp decline	0	0
+1.0	morning trade	in ringgit be	1.82 dollar	TIME	MONEY
+0.17723111680806702	Proton Holdings Bhd	be	after confirmation of GM 's interest rise to 6.40 ringgit in morning trade	ORGANIZATION	TIME
+0.17723111680806702	Proton Holdings Bhd	be	rise	ORGANIZATION	0
+1.0	government	select	strategic partner	0	0
+1.0	interest	have	confirmation	O	O
+1.0	government	select	strategic partner for Proton	0	ORGANIZATION
+1.0	government	of	stake	0	0
+1.0	6.40 ringgit	be in	morning trade	MONEY	TIME
+0.6660666913159337	government	partner for	Proton	0	ORGANIZATION
+0.17723111680806702	Proton Holdings Bhd	be rise after	confirmation of GM 's interest	ORGANIZATION	ORGANIZATION
+1.0	it	own	59 percent include 43 percent stake hold	0	PERCENT
+1.0	government	be negotiate	partnership deal	0	0
+1.0	US auto giant	have	third approach towards Proton over past decade	LOCATION	ORGANIZATION
+1.0	malaysian government	be negotiate	partnership deal aim	0	0
+0.17723111680806702	Proton Holdings Bhd	be	after confirmation of GM 's interest rise to 6.40 ringgit	ORGANIZATION	MONEY
+1.0	it	own	59 percent include 43 percent stake hold by its investment arm Khazanah Nasional	0	PERCENT
+1.0	government	have	stake	O	O
+0.5950643590979563	take	stake in	automaker	0	0
+1.0	stake	be in	its manufacturing arm	0	0
+1.0	we	have	discussion	O	O
+1.0	discussion	have	end	O	O
+1.0	market share	be in	newly competitive market	0	0
+1.0	GM	of	interest	ORGANIZATION	0
+1.0	US auto giant	have	approach	O	O
+1.0	November GM	be since	November	ORGANIZATION	DATE
+1.0	a small stake at the holding level	have	manufacturing arm	O	O
+1.0	government	be currently negotiate	partnership deal aim	0	0
+0.6660666913159337	government	strategic partner for	Proton	0	ORGANIZATION
+0.17723111680806702	Proton Holdings Bhd	be rise to	6.40 ringgit in morning trade	ORGANIZATION	TIME
+1.0	stake	be in	struggle automaker Proton	0	ORGANIZATION
+1.0	Proton	be over	the past decade	ORGANIZATION	DATE
+1.0	it	own	59 percent of Proton	0	PERCENT
+1.0	stake	have	acquiring	O	O
+1.0	government	select partner by	end	0	DATE
+1.0	it	own	59 percent of Proton include 43 percent stake	0	PERCENT
+1.0	malaysian government	be negotiate	partnership deal	0	0
+1.0	government	select partner by	end of March	0	DATE
+1.0	Proton	be with	expertise	ORGANIZATION	0
+1.0	The Malaysian government	arrest decline in	market share in market	0	0
+1.0	Proton	have	percent	PERCENT	ORGANIZATION
+1.0	March	have	end	DATE	DATE
+0.17723111680806702	Proton Holdings Bhd	be	after confirmation rise to 6.40 ringgit	ORGANIZATION	MONEY
+1.0	General Motors Corp.	take	stake in automaker	ORGANIZATION	0
+1.0	The Malaysian government	arrest decline in	market share	0	0
+1.0	Malaysia	confirm at_time	Friday	LOCATION	DATE
+1.0	The Malaysian government	arrest	decline	0	0
+1.0	it	own	59 percent of Proton include 43 percent stake hold by its investment arm Khazanah Nasional	0	PERCENT
+1.0	GM	have	interest	O	ORGANIZATION
+0.17723111680806702	Proton Holdings Bhd	be	after confirmation rise to 6.40 ringgit in morning trade	ORGANIZATION	TIME
+1.0	The Malaysian government	arrest decline in	market share in newly competitive market	0	0
+1.0	government	select	partner for Proton	0	ORGANIZATION
+1.0	malaysian government	be currently negotiate	partnership deal aim	0	0
+0.17723111680806702	Proton Holdings Bhd	be rise to	6.40 ringgit	ORGANIZATION	MONEY
+0.17723111680806702	Proton Holdings Bhd	be rise after	confirmation	ORGANIZATION	0
+1.0	it	own	59 percent	0	PERCENT
+1.0	The Malaysian government	have	investment arm Khazanah Nasional	ORGANIZATION	O
+0.17723111680806702	Proton Holdings Bhd	be rise to	1.82 dollar	ORGANIZATION	MONEY
+1.0	General Motors Corp.	take	stake	ORGANIZATION	0
+1.0	government	be currently negotiate	partnership deal	0	0
+1.0	The Malaysian government	arrest decline in	market share in competitive market	0	0
+1.0	it	own	59 percent of Proton include 43 percent stake hold	0	PERCENT
+1.0	government	be negotiate	partnership deal aim	0	0
+0.5950643590979563	take	stake in	struggle automaker	0	0
+1.0	General Motors Corp.	take	stake in struggle automaker	ORGANIZATION	0

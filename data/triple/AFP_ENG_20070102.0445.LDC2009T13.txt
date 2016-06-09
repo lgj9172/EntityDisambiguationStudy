@@ -1,0 +1,64 @@
+1.0	Hassanuddin Air Force	have	commander	O	ORGANIZATION
+0.9198217968109116	it	can	can lie	0	0
+1.0	Boeing 737-400	have send	distress signal	NUMBER	0
+1.0	Hassanuddin Air Force	be in	Sulawesi	ORGANIZATION	LOCATION
+1.0	miss jet	be carry	85 passenger include four baby	0	NUMBER
+1.0	Indonesia	have	media	O	LOCATION
+1.0	english-language daily	say on	its page	SET	0
+1.0	article	brand	misinformation	0	0
+0.5470696327766479	whole	can	can lie to	0	0
+0.9198217968109116	it	can	can blatantly lie	0	0
+1.0	this	be	national communication	0	0
+1.0	emotion	be in	turmoil	0	0
+1.0	front-page article	brand	misinformation	0	0
+1.0	this	be	communication	0	0
+1.0	newspaper	say	add	0	0
+1.0	Boeing	have send route	distress signal	ORGANIZATION	0
+1.0	Air Commodore Eddy Suyanto	apologize to	public	PERSON	0
+1.0	their	have	family members	O	O
+1.0	jet	be carry	85 passenger	0	NUMBER
+1.0	miss jet	be carry	85 passenger	0	NUMBER
+0.5470696327766479	whole	can	can blatantly lie	0	0
+1.0	way	reflect	weakness	0	0
+1.0	this	be	national	0	0
+1.0	daily	say on	its front page	SET	0
+1.0	Boeing	have send	distress signal	ORGANIZATION	0
+0.9198217968109116	it	can	can lie to	0	0
+1.0	West Sulawesi	have	jungle	O	LOCATION
+1.0	Relatives	have	anguish	O	O
+1.0	its	have	page	O	O
+1.0	country	have	communication system	O	O
+1.0	team	say pikiran umum as	search	0	0
+1.0	emotion	be in	surely turmoil	0	0
+1.0	Boeing 737-400	have send route	distress signal	NUMBER	0
+1.0	way	reflect weakness in	country 's communication system	0	0
+0.633593924617174	team	say as	search	0	0
+1.0	Eddy Suyanto	commander of	Hassanuddin Air Force	PERSON	ORGANIZATION
+1.0	Indonesia 's furious media	accuse authority at_time	Wednesday	LOCATION	DATE
+1.0	daily	say on	its page	SET	0
+1.0	Adam Air plane	be with	96 passenger include three Americans	MISC	NUMBER
+1.0	Manado	be in	northeast sulawesus	LOCATION	0
+1.0	Sulawesi	have	island	O	LOCATION
+1.0	Indonesia 's furious media	accuse	authority	LOCATION	0
+1.0	jet	be carry	85 passenger include four baby	0	NUMBER
+1.0	miss jet	be carry	11 child	0	NUMBER
+1.0	Indonesia 's media	accuse	authority	LOCATION	0
+1.0	jet	be carry	85 adult passenger include four baby	0	NUMBER
+1.0	Indonesia	have	whole	O	LOCATION
+0.5470696327766479	whole	can	can lie	0	0
+1.0	people	have	emotions	O	O
+1.0	country	in	communication system	0	0
+1.0	their	have	ones	O	O
+1.0	Indonesia 's media	accuse authority at_time	Wednesday	LOCATION	DATE
+1.0	english-language daily	say on	its front page	SET	0
+0.5470696327766479	whole	can	can blatantly lie to	0	0
+1.0	ones	have	news	O	O
+0.9198217968109116	it	can	can blatantly lie to	0	0
+1.0	miss jet	be carry	85 adult passenger	0	NUMBER
+1.0	press	have	Much	O	O
+1.0	jet	be carry	85 adult passenger	0	NUMBER
+1.0	miss jet	be carry	85 adult passenger include four baby	0	NUMBER
+1.0	team	say	Pikiran Umum	0	ORGANIZATION
+1.0	jet	be carry	11 child	0	NUMBER
+1.0	four baby	include passenger be	11 child	NUMBER	NUMBER
+1.0	Indonesia	have	furious media	LOCATION	0

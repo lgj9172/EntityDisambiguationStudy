@@ -1,0 +1,5 @@
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Saddam Hussein	have	execution	PERSON	0
+1.0	US President George W. Bush	say at_time	Thursday	LOCATION	DATE

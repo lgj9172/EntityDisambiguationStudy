@@ -1,0 +1,124 @@
+1.0	World Heritage sites	have	list	O	O
+1.0	Vauban	have	legacy choose over 30 project include work of modernist architect Le Corbusier	PERSON	PERSON
+1.0	citadel	be in	Besancon	0	LOCATION
+1.0	site	include	royal fort renovate	0	0
+1.0	they	be select in	formidable legacy of town	0	0
+1.0	site	include	royal fort on Brittany island	0	LOCATION
+1.0	Vauban	be by	the 17th century	PERSON	DATE
+1.0	site	include	royal fort on Brittany island renovate by Vauban	0	PERSON
+1.0	mountain fort	be in	Briancon	0	LOCATION
+1.0	15 site	include	royal fort of Belle ile	NUMBER	LOCATION
+1.0	they	be	select out of some 150 in formidable legacy of walled town	0	NUMBER
+1.0	15 site	include	royal fort of Belle ile renovate by Vauban	NUMBER	PERSON
+1.0	Vauban 's legacy	will	will put alongside lagoon of New Caledonia	PERSON	LOCATION
+1.0	they	be select in	legacy	0	0
+1.0	they	be	select out of some 150 in formidable legacy	0	NUMBER
+1.0	age	have	engineer	O	O
+1.0	they	be	select of some 150 in legacy of walled town	0	NUMBER
+1.0	150	have	selected	O	NUMBER
+1.0	site	include	royal fort of Belle ile renovate	0	LOCATION
+1.0	15 site	include	royal fort of Belle ile renovate by Vauban in 1689	NUMBER	PERSON
+1.0	they	be select in	legacy of walled town	0	0
+1.0	they	be select out in	legacy of town	0	0
+1.0	site	include	royal fort	0	0
+1.0	Vauban 's legacy	will	will put forward	PERSON	0
+1.0	he	be know for	he strategy in attack place	0	0
+1.0	Le Corbusier	have	work	O	ORGANIZATION
+1.0	they	be	select out of some 150 in formidable legacy of town	0	NUMBER
+1.0	they	be	select of some 150 in formidable legacy of town	0	NUMBER
+1.0	15 site	include	royal fort on Brittany island renovate	NUMBER	LOCATION
+1.0	15 site	include	royal fort on Brittany island renovate by Vauban	NUMBER	PERSON
+1.0	they	be	select of some 150 in formidable legacy	0	NUMBER
+1.0	15 site	include	royal fort on Brittany island of Belle ile renovate by Vauban in 1689	NUMBER	PERSON
+1.0	they	be select out in	formidable legacy	0	0
+1.0	he	win honour from	Louis XIV	0	PERSON
+1.0	UN	have	organisation	O	ORGANIZATION
+1.0	Vauban 's legacy	will	will put forward alongside lagoon of New Caledonia	PERSON	LOCATION
+0.5484669693663088	decision	expect	next year	0	DATE
+1.0	The French culture ministry	have	case	O	O
+1.0	Vauban	be in	1689	PERSON	DATE
+1.0	the 17th century military engineer Marshal Vauban	have	age	O	O
+1.0	Vauban 's legacy	will	will put alongside lagoon of New Caledonia for spot on heritage list	PERSON	LOCATION
+1.0	he	win honour from	Sun King	0	LOCATION
+1.0	Vauban 's legacy	will	will put	PERSON	0
+1.0	he	be know for	he strategy in place	0	0
+1.0	site	include	royal fort of Belle ile renovate by Vauban in 1689	0	PERSON
+1.0	Vauban	have	legacy	O	PERSON
+1.0	UNESCO	on	list of World Heritage site	ORGANIZATION	MISC
+1.0	architect Le Corbusier	have	work	O	PERSON
+1.0	UNESCO	have	list	O	ORGANIZATION
+1.0	15 site	include	royal fort renovate	NUMBER	0
+1.0	death	have	tricentenary	O	O
+1.0	soldiers	have	sufferings	O	O
+1.0	they	be	select of some 150 in formidable legacy of walled town	0	NUMBER
+1.0	Vauban 's legacy	will	will put forward alongside lagoon of New Caledonia for coveted spot on heritage list	PERSON	LOCATION
+1.0	he	be also know for	he strategy	0	0
+1.0	they	be	select	0	0
+1.0	15 site	include	royal fort	NUMBER	0
+1.0	site	include	royal fort on Brittany island of Belle ile	0	LOCATION
+1.0	site	include	royal fort on Brittany island renovate by Vauban in 1689	0	PERSON
+1.0	Vauban 's legacy	will	will put alongside lagoon of New Caledonia for spot	PERSON	LOCATION
+1.0	they	be select out in	formidable legacy of walled town	0	0
+1.0	Vauban 's legacy	will	will put forward alongside lagoon of New Caledonia for spot on heritage list	PERSON	LOCATION
+1.0	15 site	include	royal fort renovate by Vauban in 1689	NUMBER	PERSON
+1.0	he	be	also know	0	0
+1.0	Vauban	have	work	O	PERSON
+0.5484669693663088	final decision	expect	next year	0	DATE
+1.0	15 site	include	royal fort on Brittany island of Belle ile renovate	NUMBER	LOCATION
+1.0	15 site	include	royal fort on Brittany island renovate by Vauban in 1689	NUMBER	PERSON
+1.0	they	be	select out of some 150 in legacy of town	0	NUMBER
+1.0	he	be	know	0	0
+1.0	Vauban 's legacy	will	will put forward alongside lagoon of New Caledonia for coveted spot	PERSON	LOCATION
+1.0	towns	have	legacy	O	O
+1.0	15 site	include	royal fort on Brittany island of Belle ile renovate by Vauban	NUMBER	PERSON
+1.0	site	include	royal fort of Belle ile renovate by Vauban	0	PERSON
+1.0	they	be	select of some 150 in legacy of town	0	NUMBER
+1.0	he	be also know for	he strategy in place	0	0
+1.0	they	be select out in	formidable legacy of town	0	0
+1.0	they	be select in	formidable legacy	0	0
+1.0	heritage	have	part	O	O
+1.0	Vauban 's legacy	will	will put alongside lagoon of New Caledonia for coveted spot on heritage list	PERSON	LOCATION
+1.0	they	be select out in	legacy of walled town	0	0
+1.0	he	win	high honour	0	0
+1.0	they	be select of	some 150	0	NUMBER
+1.0	the 17th century military engineer Marshal Vauban	have	strategy	O	O
+1.0	15 site	include	royal fort on Brittany island	NUMBER	LOCATION
+1.0	site	include	royal fort of Belle ile	0	LOCATION
+1.0	he	be know for	he strategy	0	0
+1.0	China	have	Great Wall	LOCATION	LOCATION
+1.0	15 site	include	royal fort of Belle ile renovate	NUMBER	LOCATION
+1.0	Vauban	have	work mark	PERSON	0
+1.0	site	include	royal fort renovate by Vauban	0	PERSON
+1.0	Belle Ile	have	royal fort	O	LOCATION
+1.0	they	be select out in	legacy	0	0
+1.0	15 site	include	royal fort renovate by Vauban	NUMBER	PERSON
+1.0	Vauban 's legacy	will	will put forward alongside lagoon	PERSON	0
+1.0	New Caledonia	have	lagoons	O	LOCATION
+1.0	site	include	royal fort renovate by Vauban in 1689	0	PERSON
+1.0	Vauban 's legacy	will	will put alongside lagoon	PERSON	0
+1.0	they	be	select of some 150 in legacy	0	NUMBER
+1.0	they	be select in	formidable legacy of walled town	0	0
+1.0	the 17th century military engineer Marshal Vauban	have	death	O	O
+1.0	culture ministry	say at_time	Friday	0	DATE
+1.0	Vauban 's legacy	will	will put alongside lagoon of New Caledonia for coveted spot	PERSON	LOCATION
+0.5484669693663088	final decision	expect	year	0	DATE
+1.0	they	be	select out of some 150 in legacy of walled town	0	NUMBER
+1.0	they	be select out of	some 150	0	NUMBER
+1.0	Vauban 's legacy	will	will put forward alongside lagoon of New Caledonia for spot	PERSON	LOCATION
+1.0	they	be	select out	0	0
+1.0	they	be select in	legacy of town	0	0
+1.0	Le Corbusier	have	work	ORGANIZATION	0
+1.0	UN	to	educational organisation on January 31	ORGANIZATION	DATE
+1.0	ministry	will put	its case	0	0
+1.0	15 site	include	royal fort on Brittany island of Belle ile	NUMBER	LOCATION
+1.0	value	have	heritage	O	O
+1.0	site	include	royal fort on Brittany island renovate	0	LOCATION
+1.0	he	win	honour	0	0
+1.0	he strategy	be in	attack place	0	0
+1.0	site	include	royal fort on Brittany island of Belle ile renovate	0	LOCATION
+1.0	site	include	royal fort on Brittany island of Belle ile renovate by Vauban	0	PERSON
+0.5484669693663088	decision	expect	year	0	DATE
+1.0	exhibitions	have	range	O	O
+1.0	they	be	select out of some 150 in legacy	0	NUMBER
+1.0	he	be also know for	he strategy in attack place	0	0
+1.0	site	include	royal fort on Brittany island of Belle ile renovate by Vauban in 1689	0	PERSON

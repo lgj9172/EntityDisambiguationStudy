@@ -1,0 +1,57 @@
+0.937129178240351	Washington	custody of	troops	LOCATION	0
+0.937129178240351	Washington	immediate custody of	troops accuse of crime	LOCATION	0
+1.0	Lance Corporal Daniel Smith	serve	40 year in jail in December	PERSON	DURATION
+0.6606740947308145	it	immediate custody of	american troops	0	0
+0.6606740947308145	it	immediate custody of	american troops accuse	0	0
+0.6606740947308145	it	custody of	troops accuse of crime	0	0
+1.0	her	have	government	O	O
+0.33669769426858	Arroyo	allow	transfer to US embassy custody	PERSON	LOCATION
+0.937129178240351	Washington	custody of	troops accuse	LOCATION	0
+1.0	Lance Corporal Daniel Smith	be	convict	PERSON	0
+1.0	US embassy spokesman Matthew Lussenhop	say on	ANC television	LOCATION	ORGANIZATION
+1.0	Daniel Smith	be of	Lance corporal	PERSON	ORGANIZATION
+0.6606740947308145	it	immediate custody of	american troops accuse of crime	0	0
+1.0	rape	have	convicted	O	O
+1.0	VFA	be	lopsided	ORGANIZATION	0
+1.0	crimes	have	accused	O	O
+1.0	Smith	be	transfer	PERSON	0
+0.6606740947308145	it	immediate custody of	troops	0	0
+0.937129178240351	Washington	custody of	american troops	LOCATION	0
+1.0	Arroyo 's office	be warrant	work	PERSON	0
+0.937129178240351	Washington	custody of	troops accuse of crime	LOCATION	0
+1.0	Arroyo	allow	Smith	PERSON	PERSON
+0.6606740947308145	it	custody of	american troops	0	0
+0.937129178240351	Washington	immediate custody of	troops accuse	LOCATION	0
+1.0	Matthew Lussenhop	be	US	PERSON	LOCATION
+0.937129178240351	Washington	immediate custody of	troops	LOCATION	0
+1.0	Lance Corporal Daniel Smith	have	case	O	PERSON
+0.6606740947308145	it	immediate custody of	troops accuse of crime	0	0
+1.0	VFA	have	provisions	O	ORGANIZATION
+1.0	our	have	view	O	O
+0.937129178240351	Washington	immediate custody of	american troops accuse	LOCATION	0
+0.937129178240351	Washington	immediate custody of	american troops accuse of crime	LOCATION	0
+0.6606740947308145	it	custody of	troops accuse	0	0
+0.937129178240351	Washington	immediate custody of	american troops	LOCATION	0
+1.0	Arroyo	have	office	O	PERSON
+1.0	troops	have	custody	O	O
+1.0	United States	say at_time	Friday	LOCATION	DATE
+1.0	case	be on	appeal	0	0
+0.6606740947308145	it	immediate custody of	troops accuse	0	0
+1.0	jail	be in	December	0	DATE
+1.0	Lance Corporal Daniel Smith	serve	40 year in jail	PERSON	DURATION
+1.0	Lance Corporal Daniel Smith	serve	40 year	PERSON	DURATION
+1.0	case	be	be try	0	0
+0.6606740947308145	it	custody of	american troops accuse of crime	0	0
+0.937129178240351	Washington	custody of	american troops accuse of crime	LOCATION	0
+1.0	Arroyo 's office	be	warrant	PERSON	0
+1.0	Arroyo 's office	be warrant	work with Congress	PERSON	ORGANIZATION
+1.0	VFA	have	interpretation	O	ORGANIZATION
+1.0	Matthew Lussenhop	be embassy spokesman of	US	PERSON	LOCATION
+0.937129178240351	Washington	custody of	american troops accuse	LOCATION	0
+1.0	1998	have	provisions	O	DATE
+1.0	Smith	be transfer to	US embassy custody	PERSON	LOCATION
+0.6606740947308145	it	custody of	troops	0	0
+0.6606740947308145	it	custody of	american troops accuse	0	0
+1.0	40 year	be in	jail	DURATION	0
+0.33669769426858	Arroyo	allow	transfer	PERSON	0
+1.0	Arroyo	have	office on Thursday	PERSON	DATE

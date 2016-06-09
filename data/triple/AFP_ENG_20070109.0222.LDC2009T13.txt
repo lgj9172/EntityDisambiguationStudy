@@ -1,0 +1,42 @@
+1.0	minority	be in	Australia	0	LOCATION
+1.0	this	have	result	O	O
+1.0	incident	be	direct	0	0
+1.0	they	do take	direct action	0	0
+1.0	man	be arrest for	assault	0	0
+1.0	man	be	arrest	0	0
+1.0	Aborigines	be minority in	Australia	0	LOCATION
+1.0	Sergeant Kim McCoomb	tell radio in	police custody	PERSON	0
+1.0	Palm Island	be in	same state two year ago	LOCATION	DATE
+1.0	Aurukun	have	Cape York community	O	LOCATION
+1.0	police	say at_time	Wednesday	0	DATE
+1.0	settlement	have	centuries	DURATION	O
+1.0	affairs	have	department	O	O
+0.9191257483156328	many camp	live in	squalid outback	0	0
+1.0	their	have	homes	O	O
+1.0	Sergeant Kim McCoomb	tell	national radio	PERSON	0
+1.0	there have breakdown	be in	trust between police	0	0
+1.0	Peter Beattie	be	Queensland	PERSON	LOCATION
+1.0	riot	erupt	overnight	0	TIME
+1.0	Aborigines	be	minority	0	0
+1.0	remote aboriginal community	be in	Australia	0	LOCATION
+1.0	young man	take to	clinic	0	0
+1.0	man	have	death	O	O
+1.0	20 million	have	total	O	NUMBER
+1.0	tavern	have	Glass doors	O	O
+1.0	young man	be arrest for	assault	0	0
+1.0	alcohol dependency	unemployment	lawlessness	0	0
+1.0	total	have	numbering	O	O
+1.0	man	take to	clinic	0	0
+1.0	people	have	hundreds	O	O
+1.0	they	attract	government attention	0	0
+1.0	Peter Beattie	be premier of	Queensland	PERSON	LOCATION
+1.0	man	later take to	clinic	0	0
+1.0	tavern	be in	Cape York community of Aurukun in Australia 's far northern	0	LOCATION
+0.9191257483156328	camp	live in	squalid outback	0	0
+1.0	Aurukun	be 's	Australia	LOCATION	LOCATION
+1.0	young man	be	arrest	0	0
+1.0	our	have	minister	O	O
+1.0	they	do take	action	0	0
+1.0	shops	have	Glass doors	O	O
+1.0	young man	later take to	clinic	0	0
+1.0	Sergeant Kim McCoomb	tell	radio	PERSON	0

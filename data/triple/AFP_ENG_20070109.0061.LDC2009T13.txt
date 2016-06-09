@@ -1,0 +1,129 @@
+1.0	Washington	be	be press	LOCATION	0
+0.5048651132935987	soldier	kidnap in	June	0	DATE
+1.0	President George W. Bush 's	endorse	creation of state	PERSON	0
+1.0	Rice	recently meet in	November	PERSON	DATE
+0.7701398811465265	negotiation	create	government	0	0
+1.0	President George W. Bush 's	break	ground	PERSON	0
+1.0	Rice 's tour	come at	difficult moment for Bush administration	PERSON	PERSON
+1.0	Abbas	call for	election	PERSON	0
+0.13578433017498404	US Secretary	begin to	Middle East Friday	LOCATION	LOCATION
+1.0	Congress	withdraw from	Iraq -- due to be unveiled in a speech Wednesday night	ORGANIZATION	LOCATION
+1.0	Mahmud Abbas	be in	Jerusalem	PERSON	LOCATION
+1.0	President George W. Bush 's	break	new ground	PERSON	0
+1.0	Abbas	hold	Olmert	PERSON	PERSON
+1.0	Rice	have	latest tour of region	PERSON	0
+1.0	Israelis	release fund to	Palestinians	MISC	MISC
+1.0	israeli-palestinian talk	have	have freeze	0	0
+0.5048651132935987	soldier	kidnap by	radical Gaza	0	LOCATION
+1.0	Washington	expend	energy	LOCATION	0
+1.0	peace mediators	have	Quartet	O	O
+1.0	move	spark	violent clash	0	0
+1.0	Rice 's latest tour	come at	difficult moment for Bush administration	PERSON	PERSON
+1.0	State Condoleezza Rice	be expect in addition to	effort	PERSON	0
+1.0	Lebanon donor ' conference	be in	Paris	LOCATION	LOCATION
+1.0	President George W. Bush 's	endorse	creation	PERSON	0
+1.0	move	spark	violent clash between supporter	0	0
+0.9015743988192552	official	loyal to	Abbas US	0	LOCATION
+1.0	Bush administration	be seek	congressional approval	PERSON	0
+1.0	US president	be under	intense pressure	LOCATION	0
+1.0	talk	have	have freeze	0	0
+1.0	Washington	be	be press by moderate Arab ally	LOCATION	MISC
+1.0	Rice	meet in	November	PERSON	DATE
+1.0	Rice	recently meet in	late November	PERSON	DATE
+1.0	his	have	Fatah party	O	O
+1.0	President George W. Bush 's	endorse	creation of palestinian state	PERSON	0
+1.0	move	raise	specter of war	0	0
+1.0	Abbas	also hold	Olmert	PERSON	PERSON
+1.0	Rice	recently meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	move	raise	specter of civil war	0	0
+1.0	Washington	be	be also press by moderate Arab ally	LOCATION	MISC
+1.0	region	have	tour	O	O
+1.0	President George W. Bush 's	endorse	creation of independent palestinian state	PERSON	0
+1.0	Palestinians	have	boycott	O	MISC
+1.0	move	raise	specter of palestinian civil war	0	0
+1.0	Washington	be	be also press by Arab ally	LOCATION	MISC
+1.0	President George W. Bush 's	neglect	conflict	PERSON	0
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Rice	recently meet with	Israeli Prime Minister Ehud Olmert in Jerusalem president Mahmud Abbas	PERSON	PERSON
+1.0	European Union	be	US	ORGANIZATION	LOCATION
+1.0	Rice	meet in	late November	PERSON	DATE
+1.0	President George W. Bush 's	focus in	Iraq -- due to be unveiled in a speech Wednesday night	0	LOCATION
+1.0	Rice	have	tour	O	PERSON
+1.0	move	raise	specter of palestinian war	0	0
+1.0	Rice	meet in	West Bank town	PERSON	LOCATION
+1.0	Rice 's latest tour	come at	moment	PERSON	0
+1.0	Rice	most recently meet with	Israeli Prime Minister Ehud Olmert in Jerusalem president Mahmud Abbas	PERSON	PERSON
+1.0	Israelis	release	withhold fund	MISC	0
+1.0	President George W. Bush 's	focus on	war	0	0
+1.0	State Department	announce at_time	Tuesday	ORGANIZATION	DATE
+1.0	Washington	boost abbas in	power struggle	LOCATION	0
+1.0	Rice	most recently meet in	November	PERSON	DATE
+1.0	State Condoleezza Rice	brief arab leader on	President George W. Bush 's new strategy	PERSON	PERSON
+1.0	Amman	be on	Sunday	LOCATION	DATE
+1.0	stop-off	be in	Germany	0	LOCATION
+1.0	Rice	meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	President George W. Bush 's	break ground in	2003	PERSON	DATE
+1.0	US president	be under	pressure	LOCATION	0
+1.0	Rice 's latest tour	come at	moment for Bush administration	PERSON	PERSON
+1.0	Bush administration	be seek	approval	PERSON	0
+1.0	Washington	boost abbas in	power struggle between he secular Fatah party	LOCATION	ORGANIZATION
+0.5048651132935987	israeli soldier	kidnap by	radical Gaza	0	LOCATION
+1.0	Rice	most recently meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Rice	most recently meet in	West Bank town	PERSON	LOCATION
+1.0	Washington	be	be press by Arab ally	LOCATION	MISC
+1.0	move	raise	specter	0	0
+1.0	Condoleezza Rice	be of	the State Department	PERSON	ORGANIZATION
+1.0	Washington	boost abbas in	power struggle between he Fatah party	LOCATION	ORGANIZATION
+1.0	state	have	creation	O	O
+1.0	Mideast itinerary	have	breakdown	O	O
+0.5048651132935987	soldier	kidnap by	radical	0	0
+1.0	State Condoleezza Rice	be	expect	PERSON	0
+1.0	Palestinians	have	number	O	MISC
+1.0	Ehud Olmert	be with	Israeli	PERSON	MISC
+1.0	Rice	have	Mideast itinerary	O	PERSON
+1.0	Abbas	call in	hope	PERSON	0
+1.0	Rice	most recently meet in	West Bank town of Jericho	PERSON	LOCATION
+1.0	Rice	meet with	Israeli Prime Minister Ehud Olmert in Jerusalem president Mahmud Abbas	PERSON	PERSON
+1.0	Abbas	call for	early election	PERSON	0
+1.0	war	have	specter	O	O
+1.0	Washington	boost	Abbas	LOCATION	DATE
+1.0	withhold fund	ease travel restriction in	the West Bank	0	LOCATION
+1.0	State Condoleezza Rice	brief arab leader on	President George W. Bush 's strategy	PERSON	PERSON
+1.0	Washington	expend	greater energy	LOCATION	0
+1.0	President George W. Bush 's	endorse	creation of independent state	PERSON	0
+1.0	Rice	recently meet in	West Bank town	PERSON	LOCATION
+1.0	Ehud Olmert	be in	Mahmud Abbas	PERSON	PERSON
+1.0	Israelis	release	fund	MISC	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	President George W. Bush 's	since neglect	conflict	PERSON	0
+1.0	move	spark	clash	0	0
+0.5048651132935987	israeli soldier	kidnap in	June	0	DATE
+1.0	George W. Bush	on	new strategy	PERSON	0
+1.0	fund	ease	travel restriction	0	0
+1.0	Rice 's tour	come at	moment	PERSON	0
+1.0	President George W. Bush	have	strategy	O	PERSON
+0.7701398811465265	negotiation	create	power-sharing government	0	0
+1.0	Lebanon donors	have	conference	O	O
+1.0	Rice	recently meet in	West Bank town of Jericho	PERSON	LOCATION
+1.0	Rice	meet in	West Bank town of Jericho	PERSON	LOCATION
+1.0	Washington	be	be also press	LOCATION	0
+1.0	President George W. Bush 's	formally endorse	creation of state	PERSON	0
+0.13578433017498404	US Secretary	begin to	Middle East Friday aim	LOCATION	LOCATION
+1.0	State Condoleezza Rice	brief	Arab leader	PERSON	MISC
+1.0	Jericho	have	West Bank town	O	LOCATION
+1.0	President George W. Bush 's	formally endorse	creation of independent state	PERSON	0
+1.0	groups	have	security forces	O	O
+1.0	US	be	UN	LOCATION	ORGANIZATION
+1.0	Quartet	have	meeting	O	O
+1.0	President George W. Bush 's	formally endorse	creation	PERSON	0
+0.5048651132935987	israeli soldier	kidnap by	radical	0	0
+1.0	Rice 's tour	come at	moment for Bush administration	PERSON	PERSON
+1.0	Rice	most recently meet in	late November	PERSON	DATE
+1.0	fund	ease travel restriction in	the West Bank	0	LOCATION
+1.0	President George W. Bush 's	formally endorse	creation of independent palestinian state	PERSON	0
+1.0	Rice 's latest tour	come at	difficult moment	PERSON	0
+1.0	Rice 's tour	come at	difficult moment	PERSON	0
+1.0	President George W. Bush 's	formally endorse	creation of palestinian state	PERSON	0
+1.0	move	spark	clash between supporter	0	0
+1.0	negotiation	lead	Abbas	0	PERSON
+1.0	withhold fund	ease	travel restriction	0	0

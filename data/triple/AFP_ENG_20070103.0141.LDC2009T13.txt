@@ -1,0 +1,46 @@
+1.0	Saddam	have	half-brother of intelligence	PERSON	PERSON
+1.0	Saddam Hussein 's	bury at	later he home village of Awja	PERSON	DATE
+1.0	two	be	find along with Saddam by iraqi court	NUMBER	PERSON
+1.0	Saddam Hussein 's two former aides	have	documents	O	O
+1.0	Saddam Hussein 's	bury at	day later he home village	PERSON	DATE
+1.0	Saddam Hussein	have	aides	O	PERSON
+1.0	Prime Minister	have	office	O	O
+1.0	Dujail	have	village	O	LOCATION
+1.0	Saddam Hussein 's	have	home village	O	O
+1.0	Saddam	have	half-brother	O	PERSON
+1.0	two	be find by	iraqi court	NUMBER	0
+1.0	US authorities	have	custody	O	O
+1.0	Saddam Hussein 's	tell afp on	condition of anonymity	0	0
+1.0	two	be	find	NUMBER	0
+1.0	official	tell	AFP	0	ORGANIZATION
+1.0	Saddam Hussein 's	be	hang	PERSON	DATE
+1.0	two	be	find along with Saddam by court	NUMBER	PERSON
+1.0	Saddam Hussein 's	bury at	he home village of Awja	PERSON	LOCATION
+1.0	two	execute	148 Shiites	NUMBER	NUMBER
+1.0	two	be	find along	NUMBER	0
+1.0	Saddam Hussein 's	bury in	Iraq	PERSON	LOCATION
+1.0	court	have	chief judge	O	O
+1.0	Awja	have	home village	O	LOCATION
+1.0	centre	be in	Baghdad 's Shiite district	0	MISC
+1.0	Saddam Hussein 's	bury at	day later he home village of Awja	PERSON	DATE
+1.0	Saddam Hussein	have	two former aide	PERSON	NUMBER
+1.0	two	be find	guilty	NUMBER	0
+1.0	Prime Minister	at	office	0	0
+1.0	Saddam Hussein 's	bury at	he home village	PERSON	DATE
+1.0	official	tell afp at_time	Wednesday	0	DATE
+1.0	two	be find along	guilty	NUMBER	0
+1.0	Kadhmiyah	have	centre	O	LOCATION
+1.0	Saddam Hussein 's	bury in	northern Iraq	PERSON	LOCATION
+1.0	two	be find by	court	NUMBER	0
+1.0	Saddam Hussein 's	tell	afp	0	0
+1.0	intelligence	have	half-brother	O	O
+1.0	Awad Ahmed al-Bandar	judge of	revolutionary court	PERSON	0
+1.0	two	be find along by	court	NUMBER	0
+1.0	Baghdad	have	Shiite district	O	LOCATION
+1.0	two	be find along by	iraqi court	NUMBER	0
+1.0	Saddam Hussein 's	be hang on	December 30	PERSON	DATE
+1.0	Saddam Hussein 's	tell afp on	condition	0	0
+1.0	Saddam Hussein 's	bury at	later he home village	PERSON	DATE
+1.0	Baghdad	in	Shiite district	LOCATION	MISC
+1.0	two	be	find along with Saddam	NUMBER	PERSON
+1.0	anonymity	have	condition	O	O

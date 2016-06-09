@@ -1,0 +1,86 @@
+1.0	Tuesday	have	bumper gains	O	DATE
+1.0	two company	have	have hit hard by news	NUMBER	0
+1.0	day	have	trade	O	DURATION
+1.0	bp	be show	loss of 1.03 percent at 530 pence	0	PERCENT
+1.0	Dow Jones Industrial Average	close in	US deal on Tuesday	MISC	LOCATION
+0.5510818027428446	Apple Computer	lift	tech sector	ORGANIZATION	0
+1.0	Nokia	see	its share price dive	ORGANIZATION	0
+1.0	US share	have close	mixed	LOCATION	0
+1.0	Nasdaq composite	rise	0.23 percent	MISC	PERCENT
+1.0	total	be at	down 51.35 euro	0	MONEY
+1.0	earnings reports	have	wave	O	O
+1.0	Tokyo 's nikkei-225 index	drop	1.71 percent	LOCATION	PERCENT
+1.0	Tokyo 's nikkei-225 index	drop more	1.71 percent	LOCATION	PERCENT
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Lufthansa	tumble	3.40 percent	ORGANIZATION	PERCENT
+1.0	Hong Kong	have	Hang Seng Index	LOCATION	MISC
+1.0	14.67 euro	be in	Helsinki	MONEY	LOCATION
+1.0	hefty loss	be in	Asia	0	LOCATION
+1.0	Tuesday	have	gains	O	DATE
+1.0	Dow Jones Industrial Average	close down at	12,416.60 point	MISC	NUMBER
+1.0	company	have	have hit hard	0	0
+1.0	market	brace with	Apple Computer	0	ORGANIZATION
+1.0	company	have	have hit by overnight news	0	TIME
+1.0	gains	have	more	O	O
+1.0	Nasdaq composite	close at	2,443.83 point	MISC	NUMBER
+1.0	Dow Jones Industrial Average	close at	12,416.60 point	MISC	NUMBER
+1.0	Hong Kong 's Hang Seng Index	close at	19,568.34 point	LOCATION	NUMBER
+1.0	Dow Jones Industrial Average	close down in	US deal	MISC	LOCATION
+1.0	Tuesday	have	gain	DATE	0
+1.0	Tokyo 's benchmark nikkei-225 index	drop	1.71 percent	LOCATION	PERCENT
+0.47937962732886696	Ericsson	fall to	27.85 krona	ORGANIZATION	NUMBER
+1.0	Nokia	provider 's	world	ORGANIZATION	0
+1.0	Nokia	have	share price dive	O	O
+1.0	Dow Jones Industrial Average	close down at	12,416.60 point follow choppy day 's trade	MISC	DURATION
+1.0	market	brace for	wave of earnings report	0	0
+1.0	London	have	FTSE index	O	LOCATION
+1.0	market	brace for	wave of corporate earnings report	0	0
+1.0	company	have	have hit hard by news	0	0
+1.0	eurozone chip shares	have	DJ Euro Stoxx	MISC	O
+1.0	Tokyo	have	benchmark nikkei-225 index of lead share	LOCATION	0
+1.0	bp	be show	loss	0	0
+1.0	Dow Jones Industrial Average	close at	12,416.60 point follow choppy day 's trade	MISC	DURATION
+1.0	oil prices	have	back	O	O
+1.0	Hong Kong 's key Hang Seng Index	close down at	19,568.34 point	LOCATION	NUMBER
+1.0	Hong Kong 's key Hang Seng Index	close at	19,568.34 point	LOCATION	NUMBER
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	Dow Jones Industrial Average	close in	US deal	MISC	LOCATION
+1.0	total	be at	down 0.96 percent 51.35 euro	0	PERCENT
+1.0	players	have	gains	O	O
+1.0	Hong Kong	have	Hang Seng Index	MISC	LOCATION
+1.0	total	be at	51.35 euro	0	MONEY
+1.0	handset market	have	share	O	O
+1.0	Dow Jones Industrial Average	close down at	12,416.60 point follow day 's trade	MISC	DURATION
+1.0	DAX 30 index	shed	0.98 percent	NUMBER	PERCENT
+1.0	Tokyo	have	Nikkei-225 index	O	LOCATION
+1.0	day	follow	trade	DURATION	0
+1.0	drop	be in	world oil price	0	0
+1.0	company	have	have hit by news	0	0
+1.0	Paris CAC	lose	0.81 percent	LOCATION	PERCENT
+1.0	Tokyo 's benchmark nikkei-225 index	drop more	1.71 percent	LOCATION	PERCENT
+1.0	Paris CAC 40	lose	0.81 percent	LOCATION	PERCENT
+1.0	Dow Jones Industrial Average	close down in	US deal on Tuesday	MISC	LOCATION
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	two company	have	have hit hard by overnight news	NUMBER	TIME
+1.0	two company	have	have hit by news	NUMBER	0
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+1.0	Dow Jones Industrial Average	close at	12,416.60 point follow day 's trade	MISC	DURATION
+1.0	two company	have	have hit by overnight news	NUMBER	TIME
+1.0	company	have	have hit	0	0
+1.0	percent	have	loss	O	PERCENT
+1.0	shares	have	FTSE index	O	O
+1.0	euro	stand at	1.2998 dollar	0	MONEY
+1.0	world	have	lead mobile phone provider	0	0
+1.0	bp	be show	loss of 1.03 percent	0	PERCENT
+0.47937962732886696	Ericsson	fall to	27.85 swedish krona	ORGANIZATION	NUMBER
+1.0	market	brace for	wave	0	0
+1.0	company	have	have hit hard by overnight news	0	TIME
+1.0	Ericsson	fall	1.42 percent	ORGANIZATION	PERCENT
+1.0	two company	have	have hit	NUMBER	0
+1.0	world	have	phone provider	O	O
+1.0	two company	have	have hit hard	NUMBER	0
+1.0	DAX index	shed	0.98 percent	MISC	PERCENT
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	US share	have close	mixed on Tuesday	LOCATION	DATE
+1.0	Hong Kong 's Hang Seng Index	close down at	19,568.34 point	LOCATION	NUMBER
+1.0	Asia	be on	Wednesday	LOCATION	DATE

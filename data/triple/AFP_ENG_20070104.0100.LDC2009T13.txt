@@ -1,0 +1,46 @@
+1.0	he	be respond to	question	0	0
+1.0	Chow Kwai Lam	be on	trial charge with match	PERSON	0
+1.0	match	have	dangers	O	O
+1.0	he trial	be	schedule	0	0
+1.0	Chow Kwai Lam	have	client	O	O
+1.0	he	be respond from	Hamidul Haq	0	PERSON
+0.633593924617174	he client	say to	he	0	0
+1.0	Chow 's	convict on	accusation of bribery	PERSON	0
+1.0	Zulkifli Zainolabidin	be	Paya Lebar-Punggol FC	PERSON	ORGANIZATION
+1.0	professional Singapore footballer	insist at_time	Thursday	LOCATION	DATE
+1.0	Chow Kwai Lam	be on	trial charge	PERSON	0
+1.0	Chow 's	have	trial	O	O
+1.0	Malaysia	of	national team	LOCATION	0
+0.633593924617174	he client	say in	phone conversation	0	0
+1.0	Chow Kwai Lam	be on	trial	PERSON	0
+1.0	Chow 's normal practice	be	Chow 's normal practice	0	PERSON
+1.0	Chow	from	lawyer	PERSON	0
+1.0	Hamidul Haq	be lawyer of	Chow	PERSON	PERSON
+1.0	Chow	's lawyer be	Hamidul Haq	PERSON	PERSON
+1.0	Chow Kwai Lam	be on	trial charge with match fix	PERSON	0
+1.0	he	let during	club match	0	0
+1.0	he trial	be schedule	end on Friday	0	DATE
+1.0	Singapore footballer	insist at_time	Thursday	LOCATION	DATE
+1.0	goals	have	two	NUMBER	O
+1.0	Zulkifli Zainolabidin	be goalkeeper of	Paya Lebar-Punggol FC	PERSON	ORGANIZATION
+1.0	he trial	begin at_time	Wednesday	0	DATE
+1.0	former coach	bribe	he	0	0
+1.0	he trial	be schedule	end	0	0
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	have	players	O	O
+0.633593924617174	he	be respond from	Hamidul Haq	0	PERSON
+1.0	Chow	have	lawyer	O	PERSON
+1.0	Chow 's normal practice	be	Chow 's practice	0	PERSON
+1.0	Malaysia	have	team	O	LOCATION
+1.0	he	let during	local club match	0	0
+1.0	Singapore club	have	coach	O	O
+1.0	team	have	coach	O	O
+1.0	bribery	have	accusation	O	O
+1.0	Paya Lebar-Punggol FC goalkeeper Zulkifli Zainolabidin	tell	district court	ORGANIZATION	0
+1.0	Chow	have	practice	O	PERSON
+0.633593924617174	he client	say in	phone conversation on June 4 2005	0	DATE
+1.0	Chow 's	convict on	accusation	PERSON	0
+1.0	up to five year	be in	prison	DURATION	0
+1.0	he	let during	club match in June 2005	0	DATE
+1.0	local club match	be in	June 2005	0	DATE
+1.0	dollars	have	maximum fine	O	MONEY
+1.0	he	let during	local club match in June 2005	0	DATE

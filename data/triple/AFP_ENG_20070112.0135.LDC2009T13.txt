@@ -1,0 +1,64 @@
+1.0	troops	swoop in	city of Arbil	0	LOCATION
+1.0	it	be	liaison office	0	0
+1.0	their	have	work	O	O
+1.0	US military	say on	Thursday	LOCATION	DATE
+1.0	we	submit	information available to we on nature of they work	0	0
+1.0	government	have	approval	O	O
+1.0	troops	swoop in	northern city of Arbil	0	LOCATION
+1.0	american troops	swoop on	office	0	0
+1.0	coalition forces	have	killing	O	O
+1.0	iraqi Foreign Minister Hoshyar Zebari	clarify at_time	Friday	PERSON	DATE
+1.0	troops	swoop in	northern iraqi city of Arbil	0	LOCATION
+1.0	we	open	consulate in Arbil	0	LOCATION
+1.0	troops	swoop in	iraqi city of Arbil	0	LOCATION
+1.0	work	have	nature	O	O
+0.607086605440925	US force	violate	building 's status	LOCATION	0
+1.0	troops	swoop on	iranian office	0	0
+1.0	they liaison office	have yet become	full consulate	0	0
+1.0	information	available to	we on nature of they work	0	0
+0.46947269135702424	Tehran	accuse	US force	LOCATION	LOCATION
+1.0	Foreign Minister Hoshyar Zebari	clarify at_time	Friday	PERSON	DATE
+1.0	building	have	status	O	O
+1.0	we	have already agree with	Iranians	0	MISC
+1.0	american troops	swoop on	iranian office	0	0
+1.0	we	open consulate in	return	0	0
+1.0	troops	swoop in	northern city	0	0
+1.0	american troops	swoop in	northern city	0	0
+1.0	american troops	swoop in	iraqi city	0	0
+1.0	opening	consulate in	Mashhad	0	LOCATION
+1.0	american troops	swoop in	northern city of Arbil	0	LOCATION
+1.0	work	have	place	O	O
+1.0	we	contact	US embassy	0	LOCATION
+1.0	american troops	swoop in	northern iraqi city of Arbil	0	LOCATION
+1.0	american troops	swoop in	iraqi city of Arbil	0	LOCATION
+1.0	one	be	release	NUMBER	0
+1.0	american troops	swoop in	northern iraqi city	0	0
+1.0	troops	swoop in	city	0	0
+1.0	american troops	swoop in	city of Arbil	0	LOCATION
+1.0	Thursday	have	raid	O	DATE
+1.0	troops	swoop in	iraqi city	0	0
+1.0	they liaison office	have yet become	consulate	0	0
+1.0	their	have	liaison office	O	O
+1.0	one	be	later release	NUMBER	0
+1.0	we	open	consulate	0	0
+1.0	information	available to	we	0	0
+1.0	they liaison office	have become	full consulate	0	0
+1.0	they liaison office	have become	consulate	0	0
+1.0	building	have	diplomatic status	0	0
+1.0	we	submit	information available	0	0
+1.0	american troops	swoop in	city	0	0
+1.0	Thursday	have	raid	DATE	0
+1.0	Hoshyar Zebari	be	iraqi	PERSON	0
+1.0	information	available to	we on nature	0	0
+1.0	we	have agree with	Iranians	0	MISC
+1.0	we	submit	information available to we on nature	0	0
+1.0	we	submit	information available to we	0	0
+1.0	Iraq	have	region	O	LOCATION
+1.0	citizens	have	killing	O	O
+1.0	consulate	be in	Arbil	0	LOCATION
+1.0	Tehran	have	agents	O	LOCATION
+1.0	troops	swoop in	northern iraqi city	0	0
+1.0	troops	swoop on	office	0	0
+1.0	Arbil	have	city	O	LOCATION
+1.0	region	have	capital	O	O
+0.607086605440925	US force	violate	building 's diplomatic status	LOCATION	0

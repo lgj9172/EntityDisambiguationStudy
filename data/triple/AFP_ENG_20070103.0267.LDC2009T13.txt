@@ -1,0 +1,29 @@
+0.7749187879428807	it	mistakenly paste	he name	0	0
+1.0	Wolf Blitzer	be presenter of	CNN	PERSON	ORGANIZATION
+1.0	trailer	show	image of bin Laden along with caption 's Obama	0	PERSON
+1.0	Wolf Blitzer	be	CNN	PERSON	ORGANIZATION
+1.0	caption	have	Obama	PERSON	O
+0.7749187879428807	it	paste	he name	0	0
+1.0	CNN presenter Wolf Blitzer	later say	apologize	PERSON	0
+1.0	Osama bin Laden	be on	Al-Qaeda	PERSON	MISC
+1.0	his	have	name	O	O
+1.0	party	for	nomination for president	0	0
+1.0	trailer	show	image	0	0
+1.0	trailer	show	image of bin Laden	0	PERSON
+1.0	it	be	unfortunate	0	0
+1.0	CNN presenter Wolf Blitzer	say	apologize for slip	PERSON	0
+1.0	trailer	show	image of bin Laden along with caption where 's Obama	0	PERSON
+1.0	trailer	show	image of bin Laden along	0	PERSON
+1.0	Senator Obama	have	office	O	PERSON
+1.0	CNN	have apologize to	US presidential hopeful	ORGANIZATION	LOCATION
+1.0	CNN presenter Wolf Blitzer	say	apologize	PERSON	0
+1.0	CNN	have apologize to	US	ORGANIZATION	LOCATION
+1.0	CNN presenter Wolf Blitzer	apologize for	slip	PERSON	0
+1.0	CNN presenter Wolf Blitzer	later say	apologize for slip	PERSON	0
+1.0	America	on	public enemy number	LOCATION	0
+1.0	party	have	nomination	O	O
+1.0	spokesman Tommy Vietor	tell	New York Post	PERSON	ORGANIZATION
+1.0	bin Laden	have	images	O	PERSON
+1.0	America	have	enemy number	O	LOCATION
+1.0	CNN	have apologize to	US hopeful	ORGANIZATION	LOCATION
+1.0	error	be	innocent	0	0

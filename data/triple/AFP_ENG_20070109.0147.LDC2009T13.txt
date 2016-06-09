@@ -1,0 +1,55 @@
+1.0	Israel	consider	city	LOCATION	0
+1.0	sector	capital of	they future state	0	DATE
+1.0	Palestinians	make	eastern sector of city capital of they future state	MISC	DATE
+1.0	Yariv Oppenheimer	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	city	under	municipality	0	0
+1.0	expand settlement	reach compromise on	Greater Jerusalem	0	LOCATION
+1.0	settlement	be include within	boundary of so-called	0	0
+1.0	Har Homa	lie on	road	0	0
+1.0	settlement	reach compromise on	Greater Jerusalem	0	LOCATION
+1.0	settlement	reach	compromise	0	0
+1.0	Palestinians	make	sector of city capital of they future state	MISC	DATE
+1.0	Har Homa	lie on	southeastern edge of Jerusalem	0	LOCATION
+1.0	group	have	secretary	O	O
+1.0	eastern sector	capital of	they future state	0	DATE
+1.0	group	have	secretary	0	0
+1.0	Palestinians	make	eastern sector of city capital	MISC	0
+1.0	Palestinians	make	eastern sector capital	MISC	0
+1.0	Palestinians	make	sector of holy city capital	MISC	0
+1.0	anti-settlement group peace	slam	project	0	0
+1.0	Palestinians	make	sector capital of they future state	MISC	DATE
+1.0	Palestinians	make	sector of holy city capital of they future state	MISC	DATE
+1.0	so-called	have	boundaries	O	O
+1.0	its	have	capital	O	O
+1.0	expand settlement	reach	compromise	0	0
+1.0	uprising	secretary 's	group	0	0
+1.0	Greater Jerusalem	have	edge	O	LOCATION
+1.0	Har Homa	lie on	southeastern edge	0	0
+1.0	settlement	will prevent	Israel	0	LOCATION
+1.0	Israel	capture	it	LOCATION	0
+1.0	Palestinians	make	eastern sector of holy city capital of they future state	MISC	DATE
+1.0	settlement	be include within	boundary	0	0
+1.0	Palestinians	make	sector of city capital	MISC	0
+1.0	Palestinians	make	eastern sector capital of they future state	MISC	DATE
+1.0	Har Homa	have	settlement	O	O
+1.0	Israel	say at_time	Tuesday	LOCATION	DATE
+1.0	Israel	annex	east Jerusalem	LOCATION	LOCATION
+1.0	Palestinians	make	eastern sector of holy city capital	MISC	0
+1.0	Har Homa	lie on	edge	0	0
+1.0	Its	have	construction	O	O
+1.0	expand settlement	will prevent	Israel	0	LOCATION
+1.0	general Yariv Oppenheimer	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	Har Homa	lie on	road to Bethlehem	0	LOCATION
+1.0	their	have	state	O	O
+1.0	city	have	municipality	O	O
+1.0	Palestinians	make	sector capital	MISC	0
+1.0	Har Homa	lie on	edge of Jerusalem	0	LOCATION
+1.0	group peace	slam	project	0	0
+1.0	settlement	be	include	0	0
+1.0	Israel	annex	Jerusalem	LOCATION	LOCATION
+1.0	state	have	capital	O	O
+1.0	city	have	sector	O	O
+1.0	anti-settlement group peace	now slam	project	0	0
+1.0	Palestinians	envisage	make	MISC	0
+1.0	group peace	now slam	project	0	0
+1.0	settlement	come under	city 's municipality	0	0

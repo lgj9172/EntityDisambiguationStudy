@@ -1,0 +1,22 @@
+1.0	Italy	have	center-left leader	LOCATION	0
+1.0	investment	be in	relatively poor region	0	0
+1.0	couples	have	recognition	O	O
+1.0	economy	have	deregulation	O	O
+1.0	Italy	have	deficit	O	LOCATION
+1.0	closed-door meeting	be in	town near southern port of Naples	0	LOCATION
+0.7163547904497114	reform	pledge by	they coalition for 2007	0	DATE
+1.0	seven	have	ministers	O	NUMBER
+1.0	issue	divide	coalition	0	0
+1.0	Italy 's center-left leaders	have	coalition	O	O
+1.0	Naples	have	port	O	LOCATION
+1.0	parties	have	seven	NUMBER	O
+1.0	Italy 's	have	south	O	LOCATION
+1.0	Italy	have	leaders	O	LOCATION
+0.7163547904497114	reform	pledge by	they unwieldy coalition	0	0
+1.0	issue	divide	coalition include pension reform	0	0
+1.0	Italy	in	massive public deficit	LOCATION	0
+0.7163547904497114	reform	pledge by	they coalition	0	0
+0.7163547904497114	reform	pledge by	they unwieldy coalition for 2007	0	DATE
+1.0	meeting	have	said	O	O
+1.0	several issue	divide	coalition	0	0
+1.0	several issue	divide	coalition include pension reform	0	0

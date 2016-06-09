@@ -1,0 +1,40 @@
+1.0	Bush	ban	federal financing of research	PERSON	0
+1.0	embryos	have	destruction	O	O
+1.0	embryo	even be destroy by	clinic	0	0
+0.7163547904497114	limit	impose by	President George W. Bush on federal funding for stem cell research	0	PERSON
+0.9824734766565227	Republicans	control by	Republicans	0	MISC
+1.0	embryo	be	even routinely destroy	0	0
+0.07149773898788192	Bush	believe	he ally on right	PERSON	0
+0.7163547904497114	limit	impose by	President George W. Bush on funding	0	PERSON
+1.0	Bush	ban	financing of research	PERSON	0
+1.0	Bush	ban	federal financing	PERSON	0
+1.0	Bush	ban	financing	PERSON	0
+1.0	embryo	be	even destroy	0	0
+0.00511192668037929	Bush	believe	he ally	PERSON	0
+1.0	Bush	believe	he ally on right	PERSON	0
+0.07149773898788192	Bush	believe	he ally	PERSON	0
+1.0	US	vote for	legislation	LOCATION	0
+0.7163547904497114	limit	impose by	President George W. Bush	0	PERSON
+1.0	embryo	even be routinely destroy by	clinic	0	0
+1.0	embryo	be	routinely destroy	0	0
+1.0	Bush	decide in	August 2001	PERSON	DATE
+0.9192632039346427	Republicans	executive power in	he six year	0	DATE
+1.0	embryo	be destroy by	clinic	0	0
+1.0	253 174	have	vote	O	NUMBER
+1.0	Republicans	have	years	DURATION	O
+1.0	These stem cells	have	lines	O	O
+0.7163547904497114	limit	impose by	President George W. Bush on funding for stem cell research	0	PERSON
+1.0	embryo	be	destroy	0	0
+1.0	executive power	be in	six year	0	DATE
+1.0	stem cells	have	use	O	O
+1.0	Bush	have	allies	O	O
+0.9192632039346427	Republicans	power in	he six year	0	DATE
+1.0	Bush	believe	he ally	PERSON	0
+0.07149773898788192	Bush	believe	he ally on religious right	PERSON	0
+0.00511192668037929	Bush	believe	he ally on religious right	PERSON	0
+1.0	research	have	financing	O	O
+0.7163547904497114	limit	impose by	President George W. Bush on federal funding	0	PERSON
+1.0	US	vote at_time	Thursday	LOCATION	DATE
+1.0	embryo	be routinely destroy by	clinic	0	0
+0.00511192668037929	Bush	believe	he ally on right	PERSON	0
+1.0	Bush	believe	he ally on religious right	PERSON	0

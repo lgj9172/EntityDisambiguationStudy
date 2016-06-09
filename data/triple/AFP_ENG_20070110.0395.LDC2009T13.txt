@@ -1,0 +1,16 @@
+1.0	Deputy Foreign Minister Alexander Grushko	be	quote	PERSON	0
+1.0	Russia	about	reliability	LOCATION	0
+1.0	our	have	partners	O	O
+1.0	European Union	be in	dark over cut to oil supplies during trade row with neighbouring Belarus	ORGANIZATION	LOCATION
+0.6793267184705151	German Chancellor Angela Merkel	ask as	energy supplier	MISC	0
+1.0	Angela Merkel	be	German	PERSON	MISC
+1.0	European Union	have express alarm about	its energy security follow row between Russia	ORGANIZATION	LOCATION
+1.0	dark row	be with	Belarus	0	LOCATION
+1.0	European Union	have express	alarm	ORGANIZATION	0
+1.0	European Union	have express alarm about	its energy security follow row	ORGANIZATION	0
+1.0	Russia	have	reliability	O	LOCATION
+1.0	European Union	have express alarm about	its energy security	ORGANIZATION	0
+1.0	EU partner	fully inform about	matter	ORGANIZATION	0
+1.0	its	have	energy security	O	O
+1.0	EU partner	inform about	matter	ORGANIZATION	0
+0.6793267184705151	German Chancellor Angela Merkel	ask about	Russia reliability	MISC	LOCATION

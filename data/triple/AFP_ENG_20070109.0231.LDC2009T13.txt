@@ -1,0 +1,111 @@
+1.0	european country	face	disruption	0	0
+1.0	Germany	have	oil imports	O	LOCATION
+1.0	Germany	of	annual oil import	LOCATION	SET
+1.0	Russia	have	reliability	O	LOCATION
+1.0	Belarus	have	direction	O	LOCATION
+1.0	government minister	do	everything	0	0
+1.0	Russia	reduce	oil output owe	LOCATION	0
+1.0	Belarus	impose tariff on	oil	LOCATION	0
+1.0	oil production	have	volume	O	O
+1.0	talk	end despite	gravity of situation	0	0
+1.0	oil imports	have	half	O	O
+1.0	technical failure	re-route	oil in Russia	0	LOCATION
+1.0	whose	have	country	O	O
+1.0	Russia	cut	oil supplies	LOCATION	0
+1.0	gas prices	have	doubling	O	O
+1.0	27-nation bloc	of	oil import	0	0
+1.0	Russian President Vladimir Putin	urge	government minister	PERSON	0
+1.0	row	be	spark	0	0
+1.0	country	face disruption to	they oil supplies	0	0
+1.0	oil	have	part	O	O
+1.0	Belarus	accuse	other	LOCATION	0
+1.0	oil	have	siphoning	O	O
+1.0	Belarus	accuse	its neighbour	LOCATION	0
+1.0	country	face	disruption	0	0
+0.32468555244207997	whose country	have	have in recent year consider	0	DURATION
+1.0	its	have	territory	O	O
+1.0	Belarus	impose	45-dollar-per-tonne tariff	LOCATION	0
+1.0	Russia	cut	oil supplies via Belarus	LOCATION	LOCATION
+1.0	Russia	seek	alternative delivery route	LOCATION	0
+1.0	countries	have	borders	O	O
+1.0	petrol shipments	have	shutting	O	O
+1.0	government ministers	will have	work	0	0
+1.0	Russia	have	role	O	LOCATION
+1.0	23.4 million tonne	be in	2005	NUMBER	PERCENT
+1.0	failure	re-route	oil in Russia	0	LOCATION
+1.0	pipeline	supply about	20 percent of Germany 's oil import	0	LOCATION
+1.0	former soviet republic	have	illegal demand for transit fee	0	0
+1.0	bloc	have	oil imports	O	O
+1.0	Belarus	impose tariff on	russian oil transit through its territory	LOCATION	0
+1.0	German Chancellor Angela Merkel	ask about	Russia 's reliability as energy partner	PERSON	LOCATION
+1.0	russian news agency	have	have lift	0	0
+1.0	Russian President Vladimir Putin	say at_time	Tuesday	PERSON	DATE
+1.0	country	face	continued disruption	0	0
+1.0	Merkel	criticise row in	Berlin	PERSON	LOCATION
+1.0	Belarus	impose tariff on	russian oil	LOCATION	0
+1.0	Belarus	impose	tariff	LOCATION	0
+1.0	Russia	reduce	oil output owe to crisis	LOCATION	0
+1.0	confidence	be in	Moscow	0	LOCATION
+1.0	pipeline	have	end	O	O
+1.0	news agency	have	have lift	0	0
+1.0	their	have	oil supplies	O	O
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	say	add	PERSON	0
+1.0	its	have	end	O	O
+1.0	situation	have	gravity	O	O
+1.0	european country	face disruption at_time	Wednesday	0	DATE
+1.0	Minsk	have	move	O	LOCATION
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	government ministers	have	demand	O	O
+1.0	pipeline	supply accord to	oil industry federation	0	0
+1.0	Russia	cut oil shipment through	Druzhba pipeline to western Europe	0	LOCATION
+1.0	Belarus	impose tariff on	russian oil transit	LOCATION	0
+1.0	republic	have	demand	O	O
+1.0	Russia	have	Union partner	O	LOCATION
+1.0	Russia	seek	delivery route	LOCATION	0
+1.0	Belarus	impose tariff on	oil transit through its territory	LOCATION	0
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	say after	long meeting	PERSON	0
+1.0	tonnes	have	percent	PERCENT	O
+1.0	Europe	to pipeline be	friendship	LOCATION	0
+0.32468555244207997	whose country	have	have in year consider	0	0
+1.0	pipeline	supply accord to	german oil industry federation	0	0
+1.0	German Chancellor Angela Merkel	ask about	Russia 's reliability	PERSON	LOCATION
+0.32468555244207997	whose country	have	have consider	0	0
+1.0	Russia	cut oil shipment through	Druzhba pipeline	0	0
+1.0	Belarus	with	Andrei Kobyakov	LOCATION	PERSON
+1.0	Russia	about	reliability as energy partner	LOCATION	0
+1.0	Russia	reduce	oil output	LOCATION	0
+1.0	supplies	have	effects	O	O
+1.0	oil	have	percent	PERCENT	O
+1.0	Russia	have	out shipped	O	LOCATION
+1.0	Tuesday	be with	agreement	DATE	0
+1.0	failure	re-route	oil	0	0
+1.0	pipeline	supply about	20 percent	0	PERCENT
+1.0	european country	face	continued disruption	0	0
+1.0	Russia	have	european Union partner	LOCATION	ORGANIZATION
+1.0	country	face disruption at_time	Wednesday	0	DATE
+1.0	Belarus	impose tariff on	oil transit	LOCATION	0
+1.0	Belarus	impose tariff from	January 1	LOCATION	DATE
+1.0	Vladimir Putin	be	Russian	PERSON	MISC
+1.0	Belarus	be in	response	LOCATION	0
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	say after	meeting	PERSON	0
+1.0	oil	be in	Russia	0	LOCATION
+1.0	Belarus	have	Deputy Prime Minister Andrei Kobyakov	PERSON	LOCATION
+1.0	european country	face disruption to	they oil supplies	0	0
+1.0	pipeline	supply accord to	mwv	0	0
+1.0	Merkel	criticise	row	PERSON	0
+1.0	consumers	have	interests	O	O
+1.0	its	have	neighbour	O	O
+1.0	Russia	cut	oil shipment	0	0
+1.0	technical failure	re-route	oil	0	0
+1.0	oil imports	have	percent	PERCENT	O
+0.8894371942256114	re-route	oil in	Russia	0	LOCATION
+1.0	January	have	morning	TIME	DATE
+1.0	talk	end despite	gravity	0	0
+1.0	its	neighbour	Russia	0	LOCATION
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	say with	Belarus ' Deputy Prime Minister Andrei Kobyakov	PERSON	LOCATION
+1.0	Russia	cut oil shipment through	friendship	0	0
+1.0	Merkel	criticise	row between Moscow	PERSON	LOCATION
+1.0	Belarus	accuse	its giant neighbour	LOCATION	0
+1.0	pipeline	supply about	20 percent of Germany 's annual oil import	0	LOCATION
+1.0	Russia	cut	oil supplies via Belarus in response	LOCATION	LOCATION
+1.0	Russia	cut oil shipment through	Druzhba pipeline to Europe	0	LOCATION

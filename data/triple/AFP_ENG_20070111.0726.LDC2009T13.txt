@@ -1,0 +1,191 @@
+0.8732221749101158	champion Roger Federer	draw in	quarter	PERSON	DATE
+1.0	spanish second seed Rafael Nadal	have	Lleyton Hewitt	ORDINAL	PERSON
+1.0	seed	be draw in	quarter of draw	0	DATE
+1.0	spanish second seed Rafael Nadal	have	american world no.	ORDINAL	0
+1.0	spanish seed Rafael Nadal	have	american world no.	PERSON	0
+1.0	woman	of	draw	0	0
+1.0	Elena Dementieva	be with	russian	PERSON	0
+1.0	next week	for	Grand Slam	DATE	MISC
+0.6824867821638019	James Blake	opener against	former australian Open finalist Carlos Moya	PERSON	MISC
+1.0	Women 's top seed	have	have draw in half along	0	0
+1.0	Women 's seed	have	have draw	0	0
+1.0	second seed	be draw in	bottom quarter of draw with russian seed Elena Dementieva	0	DATE
+0.8732221749101158	champion Roger Federer	draw in	same quarter of man 's singles	PERSON	DATE
+1.0	Serbia	have	Jankovic	LOCATION	PERSON
+1.0	week	have	opening Grand Slam	MISC	DATE
+1.0	italian seed Mara Santangelo	have draw	dangerous unseeded floater	PERSON	0
+1.0	Andy Murray	be	british	PERSON	0
+1.0	second seed	be draw in	quarter of draw with russian seventh seed Elena Dementieva	0	DATE
+1.0	champion Roger Federer	baghdatis	2006 finalist	PERSON	DATE
+1.0	italian 27th seed Mara Santangelo	have draw	floater	ORDINAL	0
+1.0	second seed	be draw in	quarter of draw with russian seed Elena Dementieva	0	DATE
+1.0	champion Roger Federer Marcos Baghdatis	draw in	same quarter	PERSON	DATE
+1.0	Rafael Nadal	be	second	PERSON	ORDINAL
+1.0	spanish seed Rafael Nadal	have	world no.	PERSON	0
+1.0	second seed Rafael Nadal	rise	star Andy Murray	ORDINAL	PERSON
+1.0	Marat Safin	be in	he half of man 's draw for next week 's opening Grand Slam of season	PERSON	MISC
+1.0	Sydney International	be  at_time	later Friday	LOCATION	DATE
+1.0	Svetlana Kuznetsova	be by	russian	PERSON	0
+1.0	Martina Hingis	be	australian Open	PERSON	MISC
+1.0	spanish seed Rafael Nadal	rise	british star Andy Murray	PERSON	PERSON
+1.0	Maria Sharapova	open against	France 's Camille Pin	PERSON	LOCATION
+1.0	Andy Roddick	meet as early	2003 US Open champion	PERSON	MISC
+1.0	seed Rafael Nadal	have	world no.	PERSON	0
+0.8732221749101158	champion Roger Federer	draw	2006 finalist	PERSON	DATE
+1.0	italian 27th seed Mara Santangelo	have draw	dangerous unseeded floater	ORDINAL	0
+1.0	Rafael Nadal	be	spanish	PERSON	0
+1.0	Women 's top seed	have	have draw in same half along with three-time	0	0
+1.0	Shenay Perry	be	american	PERSON	0
+1.0	seed	be draw in	quarter of draw with russian seed Elena Dementieva	0	DATE
+1.0	spanish second seed Rafael Nadal	rise	british star Andy Murray	ORDINAL	PERSON
+1.0	Andy Roddick	meet	US Open champion	PERSON	MISC
+1.0	Andy Roddick	meet	2003 US Open champion	PERSON	MISC
+1.0	federer	be	draw	0	0
+1.0	second seed	be	draw	0	0
+1.0	27th seed Mara Santangelo	have draw	dangerous unseeded floater	ORDINAL	0
+1.0	second seed	draw	defend champion	0	0
+0.17723111680806702	spanish second seed Rafael Nadal	rise in	he quarter	ORDINAL	0
+1.0	Women 's top seed	have	have draw	0	0
+1.0	Mara Santangelo	be	italian	PERSON	0
+1.0	seed	be draw in	quarter	0	DATE
+1.0	seed	be draw in	bottom quarter of draw with seventh seed Elena Dementieva	0	DATE
+1.0	seed	be	draw	0	0
+1.0	11	rank	Cypriot Baghdatis	NUMBER	PERSON
+1.0	Women 's seed	have	have draw in same half along	0	0
+1.0	his 2005 semi-final conqueror	have	conqueror	O	O
+1.0	singles	have	quarter	DATE	O
+1.0	Andy Roddick	meet as early	US Open champion	PERSON	MISC
+1.0	27th seed Mara Santangelo	have draw	floater	ORDINAL	0
+1.0	Russia	have	Vasilisa Bardina	PERSON	LOCATION
+1.0	the year	into	Grand Slam	DATE	MISC
+1.0	British star Andy Murray	have	quarter	O	O
+1.0	Australia	have	hope	O	LOCATION
+1.0	seed	be draw in	bottom quarter	0	DATE
+1.0	seed	be draw in	bottom quarter of draw with seed Elena Dementieva	0	DATE
+1.0	James Blake	have	tough opener against former Open finalist Carlos Moya	PERSON	MISC
+1.0	Australia	's hope be	Lleyton Hewitt	LOCATION	PERSON
+1.0	seed	draw	defend champion	0	0
+1.0	James Blake	have	opener against former Open finalist Carlos Moya	PERSON	MISC
+1.0	10th	seed	Czech Nicole Vaidisova	ORDINAL	MISC
+1.0	Serbia	have	Jankovic	PERSON	LOCATION
+1.0	italian seed Mara Santangelo	have draw	unseeded floater	PERSON	0
+1.0	Hingis	be in	the quarter	PERSON	DURATION
+1.0	second seed Rafael Nadal	rise star andy murray in	he quarter	ORDINAL	0
+1.0	man	of	draw for opening Grand Slam of season	0	MISC
+1.0	James Blake	have	tough opener	PERSON	0
+1.0	Australian Open champion Martina Hingis	have	opening match	O	O
+1.0	Nathalie Dechy	be in	she opening match	PERSON	0
+1.0	James Blake	have	opener	PERSON	0
+0.6824867821638019	James Blake	opener against	former Open finalist Carlos Moya	PERSON	MISC
+1.0	men	have	draw	O	O
+1.0	italian seed Mara Santangelo	have draw	floater	PERSON	0
+0.6824867821638019	James Blake	tough opener against	former Open finalist Carlos Moya	PERSON	MISC
+1.0	Roger Federer	bidding for	he third australian Open crown	PERSON	ORDINAL
+0.17723111680806702	seed Rafael Nadal	rise in	he quarter	PERSON	0
+1.0	France	have	Nathalie Dechy	LOCATION	PERSON
+1.0	Nadia Petrova	be	russian	PERSON	0
+1.0	second seed Rafael Nadal	have	australian Lleyton Hewitt	ORDINAL	PERSON
+1.0	italian 27th seed Mara Santangelo	have draw	unseeded floater	ORDINAL	0
+1.0	Women 's seed	have	have draw in half along	0	0
+1.0	Women	have	seed	O	O
+1.0	Women 's top seed	have	have draw in same half along	0	0
+1.0	federer	open with	match against Germany 's 83rd-ranked Bjorn Phau	0	LOCATION
+1.0	Kim Clijsters	be	belgian	PERSON	0
+1.0	second seed	be draw in	quarter of draw with seed Elena Dementieva	0	DATE
+1.0	draw	have	quarter	DATE	O
+1.0	second seed	be draw in	bottom quarter	0	DATE
+1.0	spanish seed Rafael Nadal	rise	star Andy Murray	PERSON	PERSON
+0.8732221749101158	champion Roger Federer	draw in	quarter of man 's singles	PERSON	DATE
+1.0	seed Rafael Nadal	rise star andy murray in	he quarter	PERSON	0
+1.0	Women 's seed	have	have draw in same half	0	0
+1.0	Nicole Vaidisova	be	Czech	PERSON	MISC
+1.0	Women 's top seed	have	have draw in half along with three-time	0	0
+1.0	his 2005 semi-final conqueror	have	half	O	O
+1.0	fifth	seed	Nadia Petrova	ORDINAL	PERSON
+1.0	spanish second seed Rafael Nadal	have	world no.	ORDINAL	0
+1.0	Hobart International finalist	bardina of	Russia	ORGANIZATION	LOCATION
+1.0	seed Rafael Nadal	have	Lleyton Hewitt	PERSON	PERSON
+1.0	spanish seed Rafael Nadal	have	australian Lleyton Hewitt	PERSON	PERSON
+1.0	seed	be draw in	quarter of draw with seventh seed Elena Dementieva	0	DATE
+1.0	year	have	Open	MISC	DATE
+1.0	year	have	Grand Slam	MISC	DATE
+1.0	27th seed Mara Santangelo	have draw	unseeded floater	ORDINAL	0
+1.0	Lleyton Hewitt	be	australian	PERSON	0
+1.0	second seed	be draw in	bottom quarter of draw	0	DATE
+1.0	second seed	be draw in	quarter of draw with seventh seed Elena Dementieva	0	DATE
+1.0	spanish seed Rafael Nadal	have	Lleyton Hewitt	PERSON	PERSON
+1.0	champion Roger Federer Marcos Baghdatis	draw in	same quarter man singles	PERSON	DATE
+1.0	Robert Kendrick	be against	american	PERSON	0
+1.0	lead-up Sydney tournament	be with	right thigh injury	LOCATION	0
+1.0	Serena Williams	be in	first round	PERSON	ORDINAL
+1.0	seed Mara Santangelo	have draw	dangerous unseeded floater	PERSON	0
+1.0	seed	draw	champion	0	0
+1.0	Women 's seed	have	have draw in same half along with three-time	0	0
+1.0	Patty Schnyder	be	eighth	PERSON	ORDINAL
+1.0	man	of	singles	0	0
+1.0	Patty Schnyder	be	swiss	PERSON	0
+1.0	Elena Dementieva	be with	seventh	PERSON	ORDINAL
+1.0	second seed	be draw in	bottom quarter of draw with seed Elena Dementieva	0	DATE
+1.0	Women 's top seed	have	have draw in half	0	0
+1.0	champion Roger Federer Marcos Baghdatis	draw in	quarter	PERSON	DATE
+1.0	Vasilisa Bardina	be of	Russia	PERSON	LOCATION
+0.6824867821638019	James Blake	tough opener against	former australian Open finalist Carlos Moya	PERSON	MISC
+1.0	Maria Sharapova	be	draw	PERSON	0
+1.0	draw	be with	Elena Dementieva	0	PERSON
+1.0	seed Rafael Nadal	rise	british star Andy Murray	PERSON	PERSON
+1.0	seed	be draw in	bottom quarter of draw with russian seed Elena Dementieva	0	DATE
+1.0	draw	have	half	O	O
+1.0	Andy Roddick	be	american	PERSON	0
+1.0	James Blake	have	opener against former australian Open finalist Carlos Moya	PERSON	MISC
+1.0	his 2005 semi-final conqueror	have	Open crown	O	O
+1.0	seed	be draw in	quarter of draw with seed Elena Dementieva	0	DATE
+1.0	Patty Schnyder	be in	the quarter	PERSON	DURATION
+1.0	Germany	have	Bjorn Phau	PERSON	LOCATION
+1.0	second seed	draw	champion	0	0
+1.0	second seed Rafael Nadal	rise	british star Andy Murray	ORDINAL	PERSON
+1.0	spanish second seed Rafael Nadal	have	australian Lleyton Hewitt	ORDINAL	PERSON
+1.0	11	rank	Cypriot Baghdatis in quarter-final	NUMBER	PERSON
+1.0	federer	open with	match	0	0
+1.0	seed Rafael Nadal	have	american world no.	PERSON	0
+0.17723111680806702	spanish seed Rafael Nadal	rise in	he quarter	PERSON	0
+1.0	Mara Santangelo	be	27th	PERSON	ORDINAL
+1.0	seed Rafael Nadal	rise	star Andy Murray	PERSON	PERSON
+0.8732221749101158	champion Roger Federer	draw in	same quarter	PERSON	DATE
+1.0	seed Rafael Nadal	have	australian Lleyton Hewitt	PERSON	PERSON
+1.0	Australia	have	main hope	LOCATION	0
+1.0	season	have	opening Grand Slam	MISC	O
+1.0	spanish second seed Rafael Nadal	rise star andy murray in	he quarter	ORDINAL	0
+1.0	Women	have	top seed	0	0
+1.0	federer	open with	match against Germany 's Bjorn Phau	0	LOCATION
+1.0	seed Mara Santangelo	have draw	floater	PERSON	0
+1.0	Andy Roddick	meet early	2003 US Open champion	PERSON	MISC
+1.0	Andy Roddick	meet early	US Open champion	PERSON	MISC
+1.0	Women 's seed	have	have draw in half along with three-time	0	0
+1.0	second seed Rafael Nadal	have	Lleyton Hewitt	ORDINAL	PERSON
+1.0	second seed	be draw in	bottom quarter of draw with seventh seed Elena Dementieva	0	DATE
+1.0	Carlos Moya	be against	australian Open	PERSON	MISC
+1.0	France	have	Nathalie Dechy	PERSON	LOCATION
+1.0	second seed Rafael Nadal	have	world no.	ORDINAL	0
+1.0	Germany	against	Bjorn Phau	LOCATION	PERSON
+0.17723111680806702	second seed Rafael Nadal	rise in	he quarter	ORDINAL	0
+1.0	France	have	Camille Pin	PERSON	LOCATION
+1.0	France	against	Camille Pin	LOCATION	PERSON
+1.0	second seed	be draw in	quarter	0	DATE
+1.0	tournament	be with	94th ranking	0	ORDINAL
+1.0	spanish seed Rafael Nadal	rise star andy murray in	he quarter	PERSON	0
+1.0	seed Mara Santangelo	have draw	unseeded floater	PERSON	0
+1.0	James Blake	have	tough opener against former australian Open finalist Carlos Moya	PERSON	MISC
+1.0	women	have	draw	O	O
+1.0	Women 's seed	have	have draw in half	0	0
+1.0	Amelie Mauresmo	have	Grand Slam	MISC	O
+1.0	seed	be draw in	quarter of draw with russian seventh seed Elena Dementieva	0	DATE
+1.0	Shenay Perry	be in	first round	PERSON	ORDINAL
+1.0	second seed	be draw in	quarter of draw	0	DATE
+1.0	second seed Rafael Nadal	have	american world no.	ORDINAL	0
+1.0	men	have	singles	O	O
+1.0	seed	be draw in	bottom quarter of draw	0	DATE
+1.0	Cypriot Baghdatis	be in	quarter-final	PERSON	0
+1.0	champion Roger Federer Marcos Baghdatis	draw in	quarter man singles	PERSON	DATE
+1.0	Open	have	repeat	O	MISC
+1.0	Women 's top seed	have	have draw in same half	0	0
+1.0	spanish second seed Rafael Nadal	rise	star Andy Murray	ORDINAL	PERSON

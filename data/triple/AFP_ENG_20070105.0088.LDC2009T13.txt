@@ -1,0 +1,47 @@
+1.0	move	bring	swiss exchange in line with global blue-chip peer	0	0
+1.0	Switzerland 's index	have	fixed number of 30 stock	LOCATION	NUMBER
+1.0	Switzerland 's index	also have	number	LOCATION	0
+1.0	Switzerland 's index	also have	fixed number of 30 stock	LOCATION	NUMBER
+1.0	Switzerland	have	mid-cap index	LOCATION	0
+1.0	Switzerland 's stock exchange	have	SMI index	O	O
+1.0	move	bring	swiss exchange in line with peer	0	0
+1.0	move	bring	swiss exchange in line with blue-chip peer	0	0
+1.0	Switzerland	have	index	O	LOCATION
+1.0	move	bring	swiss exchange in line with global peer	0	0
+1.0	Switzerland 's mid-cap index	have	fixed number	LOCATION	0
+1.0	Switzerland 's index	also have	number of 30 stock	LOCATION	NUMBER
+1.0	Switzerland 's mid-cap index	have	number of 30 stock	LOCATION	NUMBER
+1.0	swiss exchange	be in	line with global blue-chip peer such Germany 's dax-30	0	LOCATION
+1.0	move	bring	exchange in line with global blue-chip peer	0	0
+1.0	Switzerland 's index	also have	fixed number	LOCATION	0
+1.0	move	bring	exchange in line with blue-chip peer	0	0
+1.0	Switzerland 's mid-cap index	also have	number of 30 stock	LOCATION	NUMBER
+1.0	move	bring	swiss exchange	0	0
+1.0	US Dow Jones	be with	30 stock	ORGANIZATION	NUMBER
+1.0	Switzerland 's mid-cap index	also have	fixed number	LOCATION	0
+1.0	Switzerland	's index be	SMIM	LOCATION	0
+0.5925242283815514	Switzerland 's mid-cap index	fixed number of	30 stock	LOCATION	NUMBER
+1.0	Germany	have	DAX-30	O	LOCATION
+0.5925242283815514	Switzerland 's index	fixed number of	30 stock	LOCATION	NUMBER
+0.5925242283815514	Switzerland 's mid-cap index	number of	30 stock	LOCATION	NUMBER
+1.0	Switzerland 's mid-cap index	also have	number	LOCATION	0
+1.0	move	bring	exchange	0	0
+1.0	move	bring	swiss exchange in line	0	0
+1.0	move	bring	exchange in line with global peer	0	0
+1.0	Switzerland 's mid-cap index	have	fixed number of 30 stock	LOCATION	NUMBER
+1.0	Switzerland 's index	have	number of 30 stock	LOCATION	NUMBER
+1.0	Switzerland 's index	have	number	LOCATION	0
+1.0	move	bring	exchange in line with peer	0	0
+1.0	Germany	such as	dax-30	LOCATION	NUMBER
+1.0	Switzerland	have	stock exchange	LOCATION	0
+1.0	bourse	say in	statement	0	0
+1.0	move	bring	exchange in line	0	0
+1.0	Switzerland 's stock exchange	say at_time	Friday	LOCATION	DATE
+1.0	line	be with	global blue-chip peer	0	0
+1.0	Switzerland 's index	have	fixed number	LOCATION	0
+1.0	stocks	have	number	O	O
+1.0	Switzerland	have	stock exchange	O	LOCATION
+0.5925242283815514	Switzerland 's index	number of	30 stock	LOCATION	NUMBER
+1.0	Switzerland 's mid-cap index	also have	fixed number of 30 stock	LOCATION	NUMBER
+1.0	chips	have	number	O	O
+1.0	Switzerland 's mid-cap index	have	number	LOCATION	0

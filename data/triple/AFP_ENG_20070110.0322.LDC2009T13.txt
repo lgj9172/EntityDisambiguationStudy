@@ -1,0 +1,49 @@
+1.0	Mansoor Amjad	be	Zulqarnain Haider	PERSON	PERSON
+1.0	Pakistan	face	West Indies in opening match	LOCATION	LOCATION
+1.0	charges	have	absolved	O	O
+1.0	Mohammad Asif	have	World Cup squad	O	O
+1.0	World Cup	have	opening match	O	MISC
+1.0	Shoaib Akhtar	be in	they 30-man World Cup initial squad	PERSON	MISC
+1.0	our	have	fielding	O	O
+1.0	Yasir Hameed	be	Shabbir Ahmed	PERSON	PERSON
+1.0	Imran Nazir	be	Shahid Afridi	PERSON	PERSON
+1.0	Salman Butt	be	Faisal Iqbal	PERSON	PERSON
+1.0	Pakistan	produce	result	LOCATION	0
+1.0	Mohammad Yousuf	be	Shoaib Malik	PERSON	PERSON
+1.0	West Indies	be in	opening match of World Cup	LOCATION	MISC
+1.0	PCB	be	adamant	ORGANIZATION	0
+1.0	Shoaib Akhtar	launch appeal at_time	month	PERSON	DATE
+1.0	Inzamam-ul-Haq	be	Younis Khan	PERSON	PERSON
+1.0	World Anti-Doping Agency	have challenge	lifting of ban	ORGANIZATION	0
+1.0	Shoaib Akhtar	launch	successful appeal	PERSON	0
+1.0	Pakistan	face west indies on	March 13	LOCATION	DATE
+1.0	Mohammad Asif	get	instruction	0	0
+1.0	ban	have	lifting	O	O
+1.0	Pakistan	face	West Indies in opening match of World Cup	LOCATION	MISC
+1.0	Pakistan	be on	Wednesday	LOCATION	DATE
+1.0	Pakistan	face west indies on	March 13 at Jamaica	LOCATION	LOCATION
+1.0	Mohammad Asif	follow	they	0	0
+1.0	Shoaib Akhtar	launch	Mohammad Asif	PERSON	PERSON
+1.0	Pakistan	produce	good result	LOCATION	0
+1.0	Pakistan	win world cup in	Australia	LOCATION	LOCATION
+1.0	Pakistan	win	World Cup	LOCATION	MISC
+1.0	PCB	be	nonetheless adamant	ORGANIZATION	0
+1.0	Mohammad Sami	be	Abdul Rehman	PERSON	PERSON
+1.0	tribunal	ban	they	0	0
+1.0	Imran Farhat	be	Mohammad Hafeez	PERSON	PERSON
+1.0	Pakistan	win world cup in	1992	LOCATION	DATE
+1.0	official	say over	they doping case	0	0
+1.0	Mohammad Khalil	be	Bazid Khan	PERSON	PERSON
+1.0	Rana Naved-ul-Hasan	be	Rao Iftikhar	PERSON	PERSON
+1.0	World Anti-Doping Agency	have challenge	lifting	ORGANIZATION	0
+0.6836831789575427	World Anti-Doping Agency	lifting of	ban	ORGANIZATION	0
+1.0	player	be	free	0	0
+1.0	Umar Gul	be	Shahid Nazir	PERSON	PERSON
+1.0	Shoaib Akhtar	launch appeal at_time	last month	PERSON	DATE
+1.0	Mohammad Asif	have	doping cases	O	O
+1.0	Kamran Akmal	be	Abdul Razzaq	PERSON	PERSON
+1.0	official	say despite	uncertainty	0	0
+1.0	Yasir Arafat	be	Mohammad Asif	PERSON	PERSON
+1.0	Pakistan	produce result in	World Cup	LOCATION	MISC
+1.0	Pakistan	face	West Indies	LOCATION	LOCATION
+1.0	Shoaib Akhtar	launch	appeal	PERSON	0

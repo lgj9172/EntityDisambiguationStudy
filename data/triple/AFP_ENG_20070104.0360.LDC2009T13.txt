@@ -1,0 +1,81 @@
+1.0	Hilton	buy	lead hotel chain	ORGANIZATION	0
+1.0	group	always stay at	Scandic hotel	0	MISC
+1.0	organisation	file complaint against	Scandic	0	MISC
+1.0	cuban delegation	take	part in tourism trade fair in Lillestroem	0	ORGANIZATION
+1.0	anti-racism organisation	accuse	hotel	0	0
+1.0	Hilton	buy	hotel chain in Scandinavia in March	ORGANIZATION	LOCATION
+1.0	lead hotel chain	be in	March last year	0	DATE
+1.0	Hilton	buy scandic at_time	year	ORGANIZATION	DATE
+1.0	US boycott	apply in	Norway 's	LOCATION	LOCATION
+1.0	delegation	take	part	0	0
+1.0	Geir Lundkvist	director of	Norway 's Hilton hotel	PERSON	ORGANIZATION
+1.0	Hilton	be hotel group of	the United States	ORGANIZATION	LOCATION
+1.0	organisation	of	spokesman	0	0
+1.0	delegation	take part to	14	0	NUMBER
+1.0	spokesman	have	hotel	O	O
+1.0	tourism trade fair	be in	Lillestroem	0	ORGANIZATION
+1.0	group	have attend	fair five year	0	DURATION
+1.0	organisation	accuse	hotel	0	0
+1.0	Hilton	buy	hotel chain	ORGANIZATION	0
+1.0	Hilton	buy	hotel chain in March	ORGANIZATION	DATE
+1.0	Hilton	buy	lead hotel chain in Scandinavia in March	ORGANIZATION	LOCATION
+1.0	Hilton hotels	have	director	O	O
+1.0	Geir Lundkvist	tell	afp	PERSON	0
+1.0	their	have	decision	O	O
+1.0	Scandic	be by	the United States	ORGANIZATION	LOCATION
+1.0	anti-racism organisation	file complaint to	police	0	0
+1.0	organisation	file complaint to	police	0	0
+1.0	Hilton	to	hotel	ORGANIZATION	0
+1.0	US boycott	apply to	Hilton 's hotel	LOCATION	ORGANIZATION
+1.0	delegation	take	part in tourism trade fair in Lillestroem	0	ORGANIZATION
+1.0	Norway	of	Hilton hotel	LOCATION	ORGANIZATION
+1.0	Norway	have	Hilton hotels	O	LOCATION
+1.0	lead hotel chain	be in	Scandinavia	0	LOCATION
+1.0	US economic boycott	apply to	Hilton 's hotel	LOCATION	ORGANIZATION
+1.0	Hilton	buy	hotel chain in Scandinavia	ORGANIZATION	LOCATION
+1.0	Hilton	have	hotels	O	ORGANIZATION
+1.0	US boycott	now apply in	Norway 's	LOCATION	LOCATION
+1.0	group	always stay in	question	0	0
+1.0	organisation	file complaint to	norwegian police	0	0
+1.0	US boycott	now apply to	Hilton 's hotel	LOCATION	ORGANIZATION
+1.0	Oslo	from kilometer be	25 mile	LOCATION	NUMBER
+1.0	Henrik Lunde	tell	AFP	PERSON	ORGANIZATION
+1.0	anti-racism organisation	file complaint to	norwegian police	0	0
+1.0	Scandic	chain in	Scandinavia	MISC	LOCATION
+1.0	group	stay in	question	0	0
+1.0	a delegation of Cubans	have	have buy	0	0
+1.0	US economic boycott	now apply to	Hilton 's hotel	LOCATION	ORGANIZATION
+1.0	Cubans	have	delegation	O	MISC
+1.0	cuban delegation	take part from	January 11	0	DATE
+1.0	part	be in	tourism trade fair	0	0
+1.0	US economic boycott	now apply in	Norway 's	LOCATION	LOCATION
+1.0	group	have attend	fair five year in row	0	DURATION
+1.0	US economic boycott	apply in	Norway 's	LOCATION	LOCATION
+1.0	Scandic	chain in	March last year	MISC	DATE
+1.0	cuban delegation	take	part in tourism trade fair	0	0
+1.0	organisation	file	complaint	0	0
+1.0	group	have attend	five year	0	DURATION
+1.0	cuban delegation	be	schedule	0	0
+1.0	Cuba	have	US boycott	O	LOCATION
+1.0	Lillestroem	kilometer from	Oslo	ORGANIZATION	LOCATION
+1.0	group	stay at	Scandic hotel	0	MISC
+1.0	Scandic	admit	delegation of Cubans	ORGANIZATION	MISC
+1.0	anti-racism organisation	file	complaint	0	0
+1.0	Scandic	admit	delegation	ORGANIZATION	0
+1.0	delegation	have	member	O	O
+1.0	delegation	take	part in tourism trade fair	0	0
+1.0	a delegation of Cubans	have	have buy by US hotel group Hilton Scandic	0	ORGANIZATION
+1.0	tourism sector	have	representatives	O	O
+1.0	Hilton	buy	Scandic	ORGANIZATION	MISC
+1.0	cuban delegation	take	part	0	0
+1.0	cuban delegation	take part to	14	0	NUMBER
+1.0	five year	be in	row	DURATION	0
+1.0	delegation	take part from	January 11	0	DATE
+1.0	Hilton	buy	lead hotel chain in Scandinavia	ORGANIZATION	LOCATION
+1.0	organisation	have	spokesman	O	O
+1.0	delegation	be	schedule	0	0
+1.0	anti-racism organisation	file complaint against	Scandic	0	MISC
+1.0	Hilton	buy	lead hotel chain in March	ORGANIZATION	DATE
+1.0	representatives	have	consisting	O	O
+1.0	group	have attend	five year in row	0	DURATION
+1.0	Oslo hotel	say on	Thursday	LOCATION	DATE

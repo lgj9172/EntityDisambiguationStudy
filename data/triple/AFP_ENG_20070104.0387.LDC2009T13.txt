@@ -1,0 +1,27 @@
+1.0	those	have	identify	O	O
+1.0	operations	have	part	O	O
+1.0	investigation	uncover	ideological link	0	0
+1.0	investigation	uncover	link	0	0
+1.0	26	have	have hold	NUMBER	0
+1.0	terrorist ring	be with	link	0	0
+1.0	train bombing	be in	Madrid	0	LOCATION
+0.6666824116320593	check	question in	north	0	0
+0.6666824116320593	check	question in	north include Tangiers as part of anti-terrorist operation	0	LOCATION
+1.0	towns	have	variety	O	O
+1.0	26	have	have hold in variety of town	NUMBER	0
+0.6666824116320593	check	question in	north include Tangiers as part	0	LOCATION
+1.0	investigation	uncover link from	group include al-Qaeda	0	MISC
+1.0	investigation	uncover link from	various group include al-Qaeda	0	MISC
+1.0	moroccan police	say at_time	Thursday	0	DATE
+1.0	26	have	have hold in variety of moroccan town	NUMBER	0
+1.0	investigation	uncover link from	various group	0	0
+1.0	volunteers for Iraq	have	recruitment	O	O
+1.0	26	have	have hold in variety	NUMBER	0
+0.9621063807788107	press agency map	quote	police	0	0
+1.0	Casablanca	be in	2003	LOCATION	DATE
+0.6666824116320593	check	question in	north include Tangiers as part of operation	0	LOCATION
+1.0	check	question in	north include Tangiers as part of anti-terrorist operation	0	LOCATION
+1.0	investigation	uncover link from	group	0	0
+0.6666824116320593	check	question in	north include Tangiers	0	LOCATION
+1.0	police	say at_time	Thursday	0	DATE
+1.0	attack	be in	Casablanca	0	LOCATION

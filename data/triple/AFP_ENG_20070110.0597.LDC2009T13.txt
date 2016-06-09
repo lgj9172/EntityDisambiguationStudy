@@ -1,0 +1,155 @@
+1.0	british Prime Minister Tony Blair	back us campaign against	Al-Qaeda	PERSON	MISC
+1.0	official	accuse	United States	0	LOCATION
+1.0	concern	grow about	impact of first US intervention	0	LOCATION
+1.0	Monday 's raid	follow rout from	capital by joint ethiopian	DATE	0
+1.0	air operations	have	aware	O	O
+0.5393127220978357	United States	launch	new air strike	LOCATION	0
+1.0	concern	grow about	impact of first overt US intervention	0	LOCATION
+1.0	concern	grow into	lawless country since early 1990s	0	DATE
+1.0	Monday 's raid	be	first known US military strike	DATE	LOCATION
+1.0	Monday 's raid	be	first US strike	DATE	LOCATION
+1.0	concern	grow about	impact of US military intervention	0	LOCATION
+1.0	US intervention	have	impact	O	O
+1.0	Prime Minister Tony Blair	back	European Commission Vice President Franco Frattini	PERSON	ORGANIZATION
+1.0	Ali Jama	be minister of	Somali Information	PERSON	ORGANIZATION
+1.0	Prime Minister Tony Blair	back us campaign in	Somalia	PERSON	LOCATION
+1.0	Monday 's raid	be	first US strike in Somalia	DATE	LOCATION
+1.0	Somalia	be	central	LOCATION	0
+1.0	Monday 's raid	be	known US military strike there in 1994	DATE	LOCATION
+1.0	those	have	identities	O	O
+1.0	Somalia	have without	have central authority since 1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	Monday	have	air strike	O	DATE
+1.0	Ethiopia	have	Meles Zenawi	LOCATION	PERSON
+1.0	Monday 's raid	be	US military strike	DATE	LOCATION
+1.0	Monday 's raid	be	first US strike there in 1994	DATE	LOCATION
+1.0	Somalia	have without	have function central authority since 1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	concern	grow about	impact of first US military intervention	0	LOCATION
+1.0	senior Somali official	say in	capital	MISC	DURATION
+1.0	concern	grow about	impact of overt US intervention	0	LOCATION
+1.0	Monday 's raid	be	US strike	DATE	LOCATION
+1.0	Somali official	confirm	report	MISC	0
+1.0	Monday	have	raid	O	DATE
+1.0	somali official	accuse	United States	0	LOCATION
+1.0	Monday 's raid	follow	rout of force	DATE	0
+1.0	US embassies	have	bombings	O	O
+0.9597816064899573	somali government	lead	islamist fighter	0	0
+1.0	other	include	Saleh Ali Saleh Nabhan	0	PERSON
+1.0	Monday 's raid	be	first known US military strike in Somalia there in 1994	DATE	LOCATION
+1.0	concern	grow into	country	0	0
+1.0	official	accuse united states in	southern Somalia	0	MISC
+1.0	Pentagon official	be in	Washington	ORGANIZATION	LOCATION
+1.0	Franco Frattini	be vice president of	European Commission	PERSON	ORGANIZATION
+1.0	concern	grow into	lawless country	0	0
+1.0	Monday 's raid	be	first US military strike	DATE	LOCATION
+1.0	Monday	have	raid	DATE	0
+1.0	Monday 's raid	be	first known US strike	DATE	LOCATION
+1.0	ethiopian military vehicle	be in	Mogadishu	DURATION	LOCATION
+1.0	attack	have	aware	O	O
+1.0	Tony Blair	be	british	PERSON	0
+1.0	Somali official	say in	capital	MISC	DURATION
+0.9597816064899573	somali government	lead fighter in	battle	0	0
+1.0	African Union	urge	restraint	LOCATION	0
+1.0	concern	grow about	impact	0	0
+1.0	US official	tell	AFP in Washington	LOCATION	LOCATION
+1.0	Monday 's raid	be	first known US military strike in Somalia	DATE	LOCATION
+1.0	somali official	accuse united states in	Somalia	0	MISC
+1.0	Monday 's raid	follow	rout	DATE	0
+1.0	Monday 's raid	be	US military strike there in 1994	DATE	LOCATION
+1.0	Monday 's raid	be	first known US strike in Somalia	DATE	LOCATION
+1.0	Monday 's raid	follow rout from	capital	DATE	0
+1.0	village	be in	Badade district near kenyan border	0	LOCATION
+1.0	Somalia	have without	have authority	LOCATION	0
+1.0	peacekeepers	have	deployment	O	O
+1.0	Iran	condemn strike as	violation	LOCATION	0
+1.0	official	accuse united states in	Somalia	0	MISC
+1.0	first known US military strike	be in	Somalia	LOCATION	MISC
+0.9597816064899573	government	lead fighter in	recent battle	0	0
+1.0	Ali Jama	be	Somali Information	PERSON	ORGANIZATION
+1.0	Monday 's raid	be	first known US strike there in 1994	DATE	LOCATION
+1.0	law	have	violation	O	O
+0.5393127220978357	United States	launch new air strike on	suspect Al-Qaeda site	LOCATION	MISC
+1.0	government	have	offensive	O	O
+1.0	Iran	condemn strike as	violation of international law	LOCATION	LOCATION
+0.9597816064899573	government	lead	islamist fighter	0	0
+1.0	Somalia	have without	have central authority since 1991 ouster	LOCATION	DATE
+1.0	british Prime Minister Tony Blair	back	European Commission Vice President Franco Frattini on Wednesday	PERSON	ORGANIZATION
+1.0	terrorists	have	action	O	O
+1.0	british Prime Minister Tony Blair	back	US campaign	PERSON	LOCATION
+0.7391922267917873	two US official	speak on	condition anonymity	LOCATION	0
+0.5393127220978357	United States	launch air strike on	Al-Qaeda site	LOCATION	MISC
+1.0	Monday 's raid	follow	rout of islamist force	DATE	0
+1.0	kenyan	accuse in	embassy attack	0	0
+1.0	UN security Council	be	due	ORGANIZATION	0
+1.0	Franco Frattini	be	European Commission	PERSON	ORGANIZATION
+1.0	Somali officials on Wednesday	have	targets	O	O
+1.0	Islamists	be in	Somalia	MISC	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	Somalia	have without	have authority since 1991 ouster	LOCATION	DATE
+1.0	Prime Minister Tony Blair	back us campaign against	Al-Qaeda	PERSON	MISC
+1.0	Somalia	have	part	O	LOCATION
+1.0	Somalia	be	function	LOCATION	0
+1.0	UN security Council	discuss	deployment	ORGANIZATION	0
+1.0	EU executive	condemn	air strike	ORGANIZATION	0
+1.0	dictator Mohamed Siad Barre	have	ouster	O	PERSON
+1.0	Prime Minister Tony Blair	back	US campaign	PERSON	LOCATION
+1.0	US official familiar	tell	AFP in Washington	LOCATION	LOCATION
+0.5393127220978357	United States	launch air strike on	suspect Al-Qaeda site	LOCATION	MISC
+1.0	concern	grow about	impact of US intervention	0	LOCATION
+1.0	Monday 's raid	follow rout from	capital by ethiopian	DATE	0
+1.0	Prime Minister Tony Blair	back	European Commission Vice President Franco Frattini on Wednesday	PERSON	ORGANIZATION
+1.0	action	have	scope	O	O
+1.0	Somalia	have without	have function central authority since 1991 ouster	LOCATION	DATE
+1.0	action	have	kind	O	O
+1.0	Somalia	have without	have central authority	LOCATION	0
+1.0	somali government	have	offensive	0	0
+1.0	US forces	have	withdrawal	O	O
+1.0	concern	grow about	impact of overt US military intervention	0	LOCATION
+1.0	senior Somali officials	have	fighters	O	O
+1.0	british Prime Minister Tony Blair	back	European Commission Vice President Franco Frattini	PERSON	ORGANIZATION
+1.0	Ethiopia	have	Prime Minister Meles Zenawi	PERSON	LOCATION
+0.633593924617174	Ethiopia 's Prime Minister Meles Zenawi	say in	Addis Ababa	PERSON	LOCATION
+1.0	Monday	have	air strike aim at senior Al-Qaeda operative	DURATION	ORGANIZATION
+1.0	Africa	have	Horn	LOCATION	LOCATION
+1.0	concern	grow into	country since early 1990s	0	DATE
+1.0	concern	grow about	impact of first overt US military intervention	0	LOCATION
+1.0	first known US military strike	be in	1994	LOCATION	DATE
+1.0	our	have	troops	O	O
+1.0	Kiunga	have	town	O	LOCATION
+1.0	Ban Ki-Moon	be secretary general of	UN	PERSON	ORGANIZATION
+0.9597816064899573	government	lead	fighter	0	0
+1.0	UN Secretary General Ban Ki-Moon	warn against	dimension	PERSON	0
+1.0	Iran	condemn strike as	violation of law	LOCATION	LOCATION
+1.0	forces	have	rout	O	O
+1.0	strikes	have	knowledge	O	O
+1.0	british Prime Minister Tony Blair	back us campaign in	Somalia	PERSON	LOCATION
+1.0	somali official	accuse united states in	southern Somalia	0	MISC
+1.0	US official	tell	AFP	LOCATION	ORGANIZATION
+0.5393127220978357	United States	launch new air strike on	Al-Qaeda site	LOCATION	MISC
+0.9597816064899573	somali government	lead	fighter	0	0
+1.0	UN Secretary General Ban Ki-Moon	warn against	new dimension	PERSON	0
+1.0	Monday 's raid	be	known US strike there in 1994	DATE	LOCATION
+0.9597816064899573	government	lead fighter in	battle	0	0
+1.0	Monday 's raid	be	US strike in Somalia	DATE	LOCATION
+1.0	Monday 's raid	be	first known US military strike there in 1994	DATE	LOCATION
+1.0	Monday 's raid	be	first US military strike there in 1994	DATE	LOCATION
+1.0	Iran	condemn	strike	LOCATION	0
+1.0	UN security Council	discuss	deployment of african peacekeeper	ORGANIZATION	0
+1.0	Hussein Aidid	be	Somali	PERSON	MISC
+1.0	Monday 's raid	be	known US military strike	DATE	LOCATION
+1.0	Franco Frattini	be on	Wednesday	PERSON	DATE
+1.0	Somalia	have without	have function authority since 1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	Somali Deputy Prime Minister Hussein Aidid	tell	AFP	PERSON	ORGANIZATION
+1.0	US official familiar	tell	AFP	LOCATION	ORGANIZATION
+1.0	Meles Zenawi	be prime minister of	Ethiopia	PERSON	LOCATION
+1.0	AFP	be in	Washington	ORGANIZATION	LOCATION
+1.0	Somalia	have without	have function authority since 1991 ouster	LOCATION	DATE
+1.0	Somalia	have without	have authority since 1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	Fazul	have	wife	O	PERSON
+1.0	Somalia	have without	have function central authority	LOCATION	0
+1.0	Monday 's raid	be	known US strike	DATE	LOCATION
+1.0	Monday 's raid	be	US strike there in 1994	DATE	LOCATION
+1.0	UN security Council	discuss	deployment of peacekeeper	ORGANIZATION	0
+0.9597816064899573	somali government	lead fighter in	recent battle	0	0
+0.5393127220978357	United States	launch	air strike	LOCATION	0
+1.0	Somalia	have without	have function authority	LOCATION	0
+1.0	Ban Ki-Moon	be	UN	PERSON	ORGANIZATION

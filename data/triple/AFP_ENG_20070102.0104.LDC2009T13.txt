@@ -1,0 +1,87 @@
+1.0	oil price	have since plunge owing to	level of US energy stock	0	LOCATION
+1.0	pit trading	will	will close later because of day of mourning	0	DURATION
+1.0	oil price	have plunge owing to	level	0	0
+1.0	New York 's contract	drop	17 cent 60.88 dollar barrel	LOCATION	MONEY
+1.0	pit trading	will	will close later Tuesday because of day of mourning	0	DURATION
+1.0	crude future	have edge day at_time	last Friday	0	DATE
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	future	have edge	last day	0	DATE
+1.0	oil price	have since plunge	owing	0	0
+1.0	Brent North Sea crude	lose 16 60.70 dollar in	London	LOCATION	LOCATION
+1.0	New York 's main contract	crude for	February delivery	LOCATION	DATE
+1.0	World oil price	drift on	first trading day of year	0	ORDINAL
+1.0	unrest	be in	Middle East	0	LOCATION
+1.0	pit trading	will	will close later Tuesday	0	DURATION
+1.0	oil price	have plunge owing to	high level of US energy stock	0	LOCATION
+1.0	World oil price	drift on	trading day of year	0	DATE
+1.0	milder-than-expected temperature	be in	United States	0	LOCATION
+1.0	World oil price	drift lower on	first trading day of year	0	ORDINAL
+1.0	future	have edge	last day of trading	0	DATE
+1.0	pit trading	will	will close later Tuesday for former US president Gerald Ford	0	LOCATION
+1.0	pit trading	will	will close later because of national day of mourning	0	DURATION
+1.0	percent	have	decline	O	PERCENT
+1.0	trading	have	day	DATE	O
+1.0	New York 's main contract	drop	17 cent 60.88 dollar	LOCATION	MONEY
+1.0	price	tumble in	2006	0	DATE
+1.0	pit trading	be in	New York 's	0	LOCATION
+1.0	pit trading	will	will close later for former US president Gerald Ford	0	LOCATION
+1.0	future	have edge day at_time	Friday	0	DATE
+1.0	oil price	have since plunge owing to	high level	0	0
+1.0	pit trading	will	will close later Tuesday because of national day of mourning for former US president Gerald Ford	0	LOCATION
+1.0	US energy stocks	have	levels	O	O
+1.0	oil price	have since plunge owing to	high level of US energy stock	0	LOCATION
+1.0	pit trading	will	will close for former US president Gerald Ford	0	LOCATION
+1.0	oil price	have since plunge owing to	level	0	0
+1.0	weather	have	forecasts	O	O
+1.0	future	have edge day at_time	last Friday	0	DATE
+1.0	future	have edge higher day at_time	Friday	0	DATE
+1.0	World oil price	drift on	first trading day	0	ORDINAL
+1.0	crude future	have edge	last day	0	DATE
+1.0	pit trading	will	will close later because of day of mourning for former US president Gerald Ford	0	LOCATION
+1.0	crude future	have edge	last day of trading	0	DATE
+1.0	future	have edge higher	last day	0	DATE
+1.0	oil price	have plunge	owing	0	0
+1.0	World oil price	drift on	trading day	0	DATE
+1.0	crude future	have edge	day	0	DATE
+1.0	World oil price	drift lower as	dealer	0	0
+1.0	Brent North Sea crude	lose 16 60.70 dollar in	trading	LOCATION	0
+1.0	crude future	have edge higher day at_time	last Friday	0	DATE
+1.0	year	have	trading day	DATE	DATE
+1.0	Gerald Ford	be president of	the United States	PERSON	LOCATION
+1.0	oil price	have plunge owing to	level of US energy stock	0	LOCATION
+1.0	crude future	have edge higher	day of trading	0	DATE
+1.0	New York	have	contract	O	LOCATION
+1.0	World oil price	drift as	dealer	0	0
+1.0	crude future	have edge day at_time	Friday	0	DATE
+1.0	New York 's main contract	drop	17 cent 60.88 dollar barrel	LOCATION	MONEY
+1.0	future	have edge higher	day	0	DATE
+1.0	Gerald Ford	be for	the United States	PERSON	LOCATION
+1.0	trading	be in	2006	0	PERCENT
+1.0	day	have	later	DATE	DURATION
+1.0	World oil price	drift on	Tuesday	0	DATE
+1.0	pit trading	will	will close later Tuesday because of day of mourning for former US president Gerald Ford	0	LOCATION
+1.0	future	have edge	day of trading	0	DATE
+1.0	crude future	have edge higher	last day	0	DATE
+1.0	World oil price	drift lower on	trading day of year	0	DATE
+1.0	New York	have	main contract	LOCATION	0
+1.0	pit trading	will	will close later Tuesday because of national day of mourning	0	DURATION
+1.0	delivery	be in	February	0	DATE
+1.0	Tuesday	day of	day of the year	DATE	DATE
+1.0	World oil price	drift lower on	first trading day	0	ORDINAL
+1.0	pit trading	will	will close later because of national day of mourning for former US president Gerald Ford	0	LOCATION
+1.0	World oil price	drift lower on	trading day	0	DATE
+1.0	crude future	have edge higher	day	0	DATE
+1.0	pit trading	will	will close	0	0
+1.0	oil price	have plunge owing to	high level	0	0
+1.0	future	have edge higher	day of trading	0	DATE
+1.0	World oil price	drift lower on	Tuesday	0	DATE
+1.0	pit trading	will	will close later	0	DATE
+1.0	crude future	have edge higher	last day of trading	0	DATE
+1.0	future	have edge higher	last day of trading	0	DATE
+1.0	New York 's contract	drop	17 cent 60.88 dollar	LOCATION	MONEY
+1.0	future	have edge higher day at_time	last Friday	0	DATE
+1.0	crude future	have edge	day of trading	0	DATE
+1.0	crude future	have edge higher day at_time	Friday	0	DATE
+1.0	Brent North Sea crude	lose	16 60.70 dollar	LOCATION	MONEY
+1.0	future	have edge	day	0	DATE
+1.0	Brent North Sea crude	lose 16 60.70 dollar in	electronic trading	LOCATION	0

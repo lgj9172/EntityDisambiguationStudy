@@ -1,0 +1,37 @@
+1.0	cross-country skiier	be also kill in	snowslide	0	0
+1.0	two cross-country skiier	be kill in	Queyras region of Alps	NUMBER	LOCATION
+1.0	two cross-country skiier	be also kill in	Queyras region	NUMBER	LOCATION
+1.0	cross-country skiier	be kill in	Queyras region of Alps	0	LOCATION
+1.0	cross-country skiier	be also kill in	Queyras region of Alps	0	LOCATION
+1.0	Chamonix	have	resort	O	LOCATION
+1.0	two cross-country skiier	be kill in	snowslide	NUMBER	0
+1.0	Three off-piste skiiers	have	50s	O	O
+1.0	Les Arcs	have	resort	O	LOCATION
+1.0	cross-country skiier	be kill in	snowslide on Wednesday	0	DATE
+1.0	emergency service	recover	body	0	0
+1.0	cross-country skiier	be kill in	Queyras region of northern Alps	0	LOCATION
+1.0	emergency service	recover body on	Tuesday	0	DATE
+1.0	heart failure	have	Wednesday night	TIME	O
+1.0	17-year	have	body	O	DURATION
+1.0	two cross-country skiier	be kill in	Queyras region	NUMBER	LOCATION
+1.0	cross-country skiier	be also kill in	snowslide on Wednesday	0	DATE
+1.0	French Alps	have	Queyras region	O	LOCATION
+1.0	two cross-country skiier	be also kill in	snowslide on Wednesday	NUMBER	DATE
+1.0	cross-country skiier	be also kill in	Queyras region	0	LOCATION
+1.0	Thursday	be	expect	DATE	0
+1.0	cross-country skiier	be also kill in	Queyras region of northern Alps	0	LOCATION
+1.0	four	have	avalanche warning	O	NUMBER
+1.0	two cross-country skiier	be kill in	snowslide on Wednesday	NUMBER	DATE
+1.0	avalanche toll	be in	region	0	0
+1.0	two cross-country skiier	be also kill in	Queyras region of northern Alps	NUMBER	LOCATION
+1.0	Thursday	be	more snowfall expect	DATE	0
+1.0	snowslide	be in	french Alps	0	LOCATION
+1.0	two cross-country skiier	be in	they 50	NUMBER	0
+1.0	cross-country skiier	be kill in	snowslide	0	0
+1.0	two cross-country skiier	be also kill in	snowslide	NUMBER	0
+1.0	two cross-country skiier	be kill in	Queyras region of northern Alps	NUMBER	LOCATION
+1.0	emergency service	recover	body of 17-year	0	DURATION
+1.0	week	have	start	DATE	DATE
+1.0	Thursday	be	more expect	DATE	0
+1.0	cross-country skiier	be kill in	Queyras region	0	LOCATION
+1.0	two cross-country skiier	be also kill in	Queyras region of Alps	NUMBER	LOCATION

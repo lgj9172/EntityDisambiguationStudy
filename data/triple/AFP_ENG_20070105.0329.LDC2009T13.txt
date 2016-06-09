@@ -1,0 +1,79 @@
+1.0	he	stand on	gallows	0	0
+1.0	whose	have	members	O	O
+1.0	hanging	be	now expect	0	DATE
+1.0	its	have	population	O	O
+1.0	Saddam Hussein	have	aides	O	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	government	postpone execution amid	criticism	0	0
+1.0	he	be	taunt	0	0
+1.0	iraqi government	postpone execution amid	international criticism over handling Saddam 's hang last Saturday	0	DATE
+1.0	Saddam	have	half brother	PERSON	0
+1.0	iraqi government	postpone execution amid	criticism	0	0
+1.0	presidency	recall position with regard to	death penalty	0	PERSON
+1.0	iraqi government	postpone	execution of Tikriti	0	PERSON
+1.0	government	postpone	execution of Tikriti	0	PERSON
+1.0	government	postpone execution amid	criticism over handling	0	0
+1.0	german presidency	reiterate	bloc 's opposition	0	0
+1.0	presidency	recall	long-standing position of EU	0	PERSON
+1.0	iraqi government	execute	Barzan Ibrahim al	0	PERSON
+1.0	process	have	requirements	O	O
+1.0	European Union	have	presidency	O	ORGANIZATION
+1.0	government	postpone	execution	0	0
+1.0	iraqi government	postpone execution amid	criticism over handling Saddam 's hang last Saturday	0	DATE
+1.0	Tikriti	have	execution	O	PERSON
+1.0	hanging	take place after	shortly end of state holiday for Eid al-Adha festival on Saturday	0	DATE
+1.0	EU	have	position	O	ORGANIZATION
+1.0	Saddam	have	half brother	O	PERSON
+1.0	peace	have	sake	O	O
+1.0	hangings	have	death penalty	O	O
+1.0	Saddam	have	hanging	O	PERSON
+1.0	german presidency	reiterate	27-member bloc 's opposition	0	0
+1.0	Saddam 's hanging	spark outrage among	Sunni Muslims	PERSON	MISC
+1.0	hanging	take place after	shortly end of state holiday for Eid al-Adha festival	0	0
+1.0	bloc	have	opposition	O	O
+1.0	iraqi government	postpone execution amid	international criticism over handling Saddam 's hang	0	PERSON
+1.0	iraqi government	postpone execution amid	international criticism over handling Saddam 's hang Saturday	0	DATE
+1.0	presidency	reiterate	bloc 's opposition	0	0
+1.0	hanging	take place after	end of state holiday for Eid al-Adha festival	0	0
+1.0	court	have	head	O	O
+1.0	European Union	be on	Friday	ORGANIZATION	DATE
+1.0	state holidays	have	end	O	O
+1.0	government	postpone execution amid	criticism over handling Saddam 's hang last Saturday	0	DATE
+1.0	presidency	recall	position of EU	0	ORGANIZATION
+1.0	iraqi government	postpone execution amid	criticism over handling	0	0
+1.0	iraqi government	postpone execution amid	international criticism	0	0
+1.0	Saddam	have	hanging	PERSON	0
+1.0	government	postpone execution amid	criticism over handling Saddam 's hang	0	PERSON
+1.0	hanging	be	expect	0	0
+1.0	presidency	reiterate	27-member bloc 's opposition	0	0
+1.0	regime	have	part	O	O
+1.0	holidays	have	day	DURATION	O
+0.6417295309885672	Saddam	hang at_time	Saturday	PERSON	DATE
+1.0	government	postpone execution amid	international criticism	0	0
+1.0	hanging	take	place	0	0
+1.0	government	postpone execution amid	international criticism over handling Saddam 's hang last Saturday	0	DATE
+0.6417295309885672	Saddam	hang at_time	last Saturday	PERSON	DATE
+1.0	iraqi government	postpone execution amid	international criticism over handling	0	0
+1.0	iraqi government	postpone	execution	0	0
+1.0	reconciliation	be in	Iraq	0	LOCATION
+1.0	Bandar	head of	revolutionary court	PERSON	0
+1.0	aides	have	hangings	O	O
+1.0	iraqi government	postpone execution amid	criticism over handling Saddam 's hang	0	PERSON
+1.0	hanging	take place after	shortly end of state holiday	0	0
+1.0	iraqi government	postpone execution amid	criticism over handling Saddam 's hang Saturday	0	DATE
+1.0	hanging	take place after	end of state holiday for Eid al-Adha festival on Saturday	0	DATE
+1.0	government	postpone execution amid	international criticism over handling	0	0
+1.0	government	postpone execution amid	international criticism over handling Saddam 's hang	0	PERSON
+1.0	hanging	take place after	shortly end	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	hanging	take place after	end of state holiday	0	0
+1.0	reconciliation	have	sake	O	O
+1.0	government	execute	Barzan Ibrahim al	0	PERSON
+1.0	Saddam 's hanging	spark	outrage	PERSON	0
+1.0	hanging	take place after	end	0	0
+1.0	27-member bloc	have	opposition	0	0
+1.0	crimes	have	prosecution	O	O
+1.0	government	postpone execution amid	criticism over handling Saddam 's hang Saturday	0	DATE
+1.0	presidency	recall	position	0	0
+1.0	government	postpone execution amid	international criticism over handling Saddam 's hang Saturday	0	DATE
+1.0	presidency	recall	long-standing position	0	PERSON

@@ -1,0 +1,32 @@
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource rich province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource western province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource rich province	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource rich western province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource western province	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy bayi steel for	385 million dollar	ORGANIZATION	MONEY
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource rich province	ORGANIZATION	LOCATION
+1.0	Baoshan Iron and Steel Co	arm of	China 's largest steelmaker	ORGANIZATION	LOCATION
+1.0	Baoshan Iron	reject	Steel Co	ORGANIZATION	ORGANIZATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource rich western province	ORGANIZATION	LOCATION
+1.0	China	have	steelmaker	O	LOCATION
+1.0	China	of	largest steelmaker	LOCATION	0
+1.0	Bayi Steel	be 's	China	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource western province of Xinjiang	ORGANIZATION	LOCATION
+1.0	Xinjiang	have	resource province	O	LOCATION
+1.0	steelmaker	have	arm	O	O
+1.0	Baoshan Iron and Steel Co	plan	offshore listing	0	0
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource western province	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource rich western province of Xinjiang	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource province	ORGANIZATION	LOCATION
+1.0	parent Baosteel	buy bayi steel for	three billion yuan	ORGANIZATION	MONEY
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource rich western province	ORGANIZATION	LOCATION
+1.0	Baoshan Iron and Steel Co	plan	listing	0	0
+1.0	parent Baosteel	buy	Bayi Steel	ORGANIZATION	ORGANIZATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's	ORGANIZATION	LOCATION
+1.0	Xinjiang	in	neighbouring central asian country	LOCATION	0
+1.0	parent Baosteel	buy	Bayi Steel in China 's but resource rich province of Xinjiang	ORGANIZATION	LOCATION
+1.0	Xinjiang	have	countries	O	LOCATION
+1.0	parent Baosteel	buy	Bayi Steel in China 's remote but resource province	ORGANIZATION	LOCATION

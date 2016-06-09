@@ -1,0 +1,22 @@
+1.0	this week	after	hefty loss	DATE	0
+1.0	bargain hunter	emerge in	material sector	0	0
+1.0	number	have	prices	O	O
+1.0	movement	have	terms	O	O
+1.0	David Land	be	CMC	PERSON	ORGANIZATION
+1.0	fall	be in	base metal	DATE	0
+1.0	dealer	say at_time	Friday	0	DATE
+1.0	David Land	be markets analyst of	CMC	PERSON	ORGANIZATION
+1.0	low volume due	be in	price of number of commodity	0	0
+1.0	Josh Whiting	dealer at	CMC Markets	PERSON	ORGANIZATION
+1.0	rest period	have	bit	O	O
+1.0	volumes	have	combination	O	O
+1.0	benchmark sp/asx 200	end at	5,572.0	NUMBER	NUMBER
+1.0	benchmark sp/asx	end at	5,572.0	0	NUMBER
+1.0	week	have	close	O	DATE
+1.0	commodities	have	number	O	O
+1.0	benchmark sp/asx	end at_time	week	0	DATE
+1.0	bargain hunter	be	likely	0	0
+1.0	benchmark sp/asx 200	end at_time	week	NUMBER	DATE
+1.0	week	have	losses	O	DATE
+1.0	5,669.9	have	down	O	NUMBER
+1.0	mining energy sectors	have	take	O	O

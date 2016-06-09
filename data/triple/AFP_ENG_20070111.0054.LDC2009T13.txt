@@ -1,0 +1,126 @@
+1.0	investors	have	confidence	O	O
+1.0	Thailand	have	military-installed government on Tuesday	LOCATION	DATE
+1.0	company	be affect by	change	0	0
+1.0	Temasek	have	3.8-billion-dollar takeover of Shin Corp	ORGANIZATION	ORGANIZATION
+0.08417186681517996	Advance Info Services	would	would force to restructure	ORGANIZATION	0
+1.0	deal	be	affect	0	0
+1.0	revise investment law	even produce	few change in practice	0	0
+0.7676456568083988	investment law	change in	practice	0	0
+1.0	revise investment law	produce	few change in practice	0	0
+1.0	government	back track on	its policy change in a	0	DURATION
+1.0	telecom	have	part	O	O
+1.0	voting rights	be in	company	0	0
+1.0	Thailand 's military-installed government	limit	they	LOCATION	0
+1.0	companies	have	categories	O	O
+1.0	record 15-percent sell-off	be in	stock	0	0
+1.0	government	reverse	some of key provision	0	0
+1.0	investment law	produce	few change in practice	0	0
+1.0	law	have	details	O	O
+1.0	shares	have	percent	PERCENT	O
+1.0	she	tell	AFP	0	ORGANIZATION
+1.0	their	have	investments	O	O
+1.0	Thailand 's military-installed government	approve rule for	foreign investor	LOCATION	0
+1.0	government	reverse	some provision	0	0
+1.0	government	quickly reverse	some of key provision	0	0
+1.0	it	have	details	O	O
+1.0	government	back track on	its second major policy change	0	ORDINAL
+1.0	it	appear	unclear	0	0
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover by Singapore 's investment firm	ORGANIZATION	LOCATION
+1.0	investor	be	leave in confusion over new rule	0	DURATION
+1.0	Temasek	have	control of Shin Corp	ORGANIZATION	ORGANIZATION
+1.0	Shin Corp	have	takeover	O	ORGANIZATION
+1.0	government	reverse	some	0	0
+1.0	investment law	produce	change in practice	0	0
+1.0	voting rights	have	percent	PERCENT	O
+1.0	government	quickly reverse	some key provision	0	0
+1.0	few change	be in	practice	0	0
+1.0	government	back track on	its major policy change	0	DURATION
+1.0	Shin Corp	have	control	O	ORGANIZATION
+1.0	capital control rule	have already shake	investor ' confidence	0	0
+1.0	government	back track on	its major policy change in a	0	DURATION
+1.0	investment law	even produce	change in practice	0	0
+1.0	Singapore	have	investment firm	O	LOCATION
+1.0	Pridiyathorn	in	remark	PERSON	0
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover	ORGANIZATION	0
+1.0	Thailand 's government	approve rule for	investor	LOCATION	0
+1.0	revise investment law	even produce	change in practice	0	0
+1.0	investor	be in	Thailand	0	LOCATION
+1.0	Thai share	finish higher	morning trade	MISC	TIME
+1.0	10,000 company	be affect by	change	NUMBER	0
+1.0	investor	be	leave	0	DURATION
+1.0	Thailand 's government	approve	new rule	LOCATION	0
+1.0	government	back track at_time	month	0	DURATION
+1.0	company	be	affect	0	0
+1.0	he	soften	impact of law	0	0
+1.0	investor	be	leave in confusion Thursday	0	DATE
+1.0	provisions	have	some	O	O
+1.0	government	back	track	0	DURATION
+1.0	Thailand 's government	approve rule for	foreign investor	LOCATION	0
+1.0	government	quickly reverse	some of provision	0	0
+1.0	deal	be affect at	all	0	0
+1.0	The Shin Corp sale	have	investment law	O	O
+1.0	anonymity	have	condition	O	O
+1.0	authority	insist at_time	Wednesday	0	DATE
+1.0	market	take	comfort	0	0
+1.0	Advance Info Services	have	takeover	O	O
+1.0	law	have	revision	O	O
+1.0	implication	be	huge especially	0	0
+1.0	investor	be leave over	new rule	0	0
+1.0	he	soften	impact of new law	0	0
+1.0	Finance Minister Pridiyathorn Devakula	tell investor at_time	Wednesday	PERSON	DATE
+1.0	government	back track on	its policy change	0	DURATION
+1.0	he	soften	impact	0	0
+1.0	Thailand 's military-installed government	approve	new rule	LOCATION	0
+1.0	investor	be	leave in confusion over rule	0	DURATION
+1.0	investor	be	leave Thursday over new rule	0	DATE
+1.0	Thailand 's government	limit	they	LOCATION	0
+1.0	minister Thaksin Shinawatra	have	ouster	O	PERSON
+1.0	Thai media	report at_time	Thursday	MISC	DATE
+1.0	investor	be leave over	rule	0	0
+1.0	Supong	tell	AFP	PERSON	ORGANIZATION
+1.0	investment law	even produce	few change in practice	0	0
+1.0	law	of	revision	0	0
+1.0	law	have	effects	O	O
+1.0	Pridiyathorn	be on	Wednesday	PERSON	DATE
+1.0	Advance Info Services	part of	telecom	ORGANIZATION	0
+1.0	government	reverse	some key provision	0	0
+1.0	their	have	money	O	O
+1.0	revise investment law	produce	change in practice	0	0
+1.0	its second major policy change	be in	less than a month	ORDINAL	DURATION
+1.0	government	quickly reverse	some	0	0
+1.0	Temasek	have	control	O	ORGANIZATION
+1.0	Finance Minister Pridiyathorn Devakula	tell	investor	PERSON	0
+0.08417186681517996	Advance Info Services	would	would force to restructure follow its takeover by Singapore 's state-linked investment firm	ORGANIZATION	LOCATION
+1.0	market	take comfort in	Pridiyathorn 's remark	0	PERSON
+1.0	investor	be	leave Thursday over rule	0	DATE
+1.0	10,000 company	be	affect	NUMBER	0
+1.0	the government	have	policy change	O	O
+1.0	government	quickly reverse	some provision	0	0
+1.0	government	reverse	some of provision	0	0
+0.7676456568083988	investment law	few change in	practice	0	0
+1.0	Singapore	by	state-linked investment firm	LOCATION	0
+1.0	investor	be	leave in confusion Thursday over new rule	0	DATE
+1.0	Thanomsri Fongkarunrung	economist at	Phatra Securities	PERSON	ORGANIZATION
+1.0	Pridiyathorn	have	remarks	O	PERSON
+1.0	law	have	impact	O	O
+1.0	government	back track on	its second major policy change in a	0	ORDINAL
+1.0	new investor	would	would affect	0	0
+1.0	Thailand 's military-installed government	approve	rule	LOCATION	0
+1.0	Thailand 's government	approve	rule	LOCATION	0
+1.0	government	back track on	its second policy change in a	0	ORDINAL
+0.7676456568083988	revise investment law	few change in	practice	0	0
+1.0	Thailand	have	government	O	LOCATION
+1.0	implication	be	huge	0	0
+1.0	Temasek	have	takeover	O	ORGANIZATION
+1.0	investor	be leave in	confusion	0	0
+1.0	investor	be	leave in confusion Thursday over rule	0	DATE
+1.0	it	now appear	unclear	0	0
+1.0	government	back track on	its second policy change	0	ORDINAL
+1.0	Thai share	finish	morning trade	MISC	TIME
+0.7676456568083988	revise investment law	change in	practice	0	0
+1.0	capital control rule	have shake	investor ' confidence	0	0
+1.0	Thailand 's military-installed government	approve rule for	investor	LOCATION	0
+1.0	investor	would	would affect	0	0
+0.08417186681517996	Advance Info Services	would	would force	ORGANIZATION	0
+1.0	investor	be leave at_time	Thursday	0	DATE
+1.0	revision	have	implication	O	O

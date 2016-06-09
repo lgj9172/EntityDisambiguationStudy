@@ -1,0 +1,54 @@
+1.0	56	be create in	2000	0	DATE
+1.0	Harvey , 56	have	adventure	O	O
+1.0	Philip Scott	head of	Aviva 's international operation	PERSON	PERSON
+1.0	operations	have	head	O	O
+1.0	56	be	create from merger of Norwich Union in 2000	0	ORGANIZATION
+1.0	Harvey , 56	have	energy	0	0
+1.0	Aviva	be	succeed	PERSON	0
+1.0	56	be	create from merger in 2000	0	DATE
+1.0	now	be right time for	Harvey , 56	0	0
+1.0	Philip Scott	remain for	group 's investment management arm	PERSON	0
+1.0	now	be	time	0	0
+1.0	Harvey 56	have	have chief executive of Aviva	PERSON	PERSON
+1.0	Aviva	have	around 35 million customer	PERSON	NUMBER
+1.0	Harvey , 56	have	have executive	PERSON	0
+1.0	Harvey 56	have	have executive	PERSON	0
+1.0	Aviva	of	international operation	PERSON	0
+1.0	Aviva	have	global workforce of 58,000 people	PERSON	NUMBER
+1.0	Aviva	have	global workforce	PERSON	0
+1.0	Aviva	be succeed by	group finance director Andrew Moss	PERSON	PERSON
+1.0	now	be time for	Harvey , 56	0	0
+1.0	Harvey , 56	have	belt	O	O
+1.0	Harvey 56	have	have executive of Aviva	PERSON	PERSON
+1.0	Norwich Union	have	merger	O	ORGANIZATION
+1.0	Aviva	retire on	July 11 2007	PERSON	DATE
+1.0	group	have	investment management arm	0	0
+1.0	56	be create from	merger	0	0
+1.0	Harvey , 56	have	have chief executive of Aviva	PERSON	PERSON
+1.0	Morley	arm 's	group	PERSON	0
+1.0	group	have	investment management arm	O	O
+1.0	Harvey , 56	have	have chief executive	PERSON	0
+1.0	Aviva	have	operations	O	PERSON
+1.0	Harvey , 56	be	56	PERSON	NUMBER
+1.0	Aviva	have	around 35 million customer across world	PERSON	NUMBER
+0.8606190239925854	Aviva	insurer in	Britain	PERSON	LOCATION
+1.0	Philip Scott	remain	responsible	PERSON	0
+1.0	biggest insurer	be in	Britain	0	LOCATION
+1.0	Aviva	have	workforce	PERSON	0
+1.0	people	have	workforce	O	O
+1.0	Philip Scott	remain for	Morley	PERSON	PERSON
+1.0	Harvey , 56	have	have executive of Aviva	PERSON	PERSON
+1.0	CGU	have	merger	O	ORGANIZATION
+1.0	Aviva	say at_time	Wednesday	PERSON	DATE
+0.8606190239925854	Aviva	biggest insurer in	Britain	PERSON	LOCATION
+1.0	56	be	create	0	0
+1.0	56	be create from	merger of Norwich Union	0	ORGANIZATION
+1.0	Aviva	insurer in	Britain	PERSON	LOCATION
+1.0	now	be	right time	0	0
+1.0	accord	have	stepping	O	O
+1.0	Aviva	say in	statement	PERSON	0
+1.0	Aviva	have	workforce of 58,000 people	PERSON	NUMBER
+1.0	Aviva	have	executive	O	PERSON
+1.0	Harvey , 56	have	life	O	O
+1.0	Harvey , 56	have	accord	O	O
+1.0	Harvey 56	have	have chief executive	PERSON	0

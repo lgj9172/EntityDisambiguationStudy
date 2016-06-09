@@ -1,0 +1,78 @@
+1.0	he	might organize	counter-coup	0	0
+1.0	military	initially want	meet	0	0
+1.0	General Sonthi -LRB- Boonyaratglin -RRB-	have	way	O	O
+0.9402892523264877	Prommin	be	among Thaksin aide detain after military takeover	PERSON	PERSON
+1.0	staff	have	chief	O	O
+0.9402892523264877	Prommin	be	detain after military takeover amid fear	PERSON	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day after military takeover	PERSON	DURATION
+1.0	General Sonthi	be on	he way	PERSON	0
+1.0	allies	have	Four	NUMBER	O
+1.0	military	meet at_time	today	0	DATE
+1.0	Surayud	blame bombing on	unnamed anti-coup group	PERSON	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day amid fear	PERSON	DURATION
+0.9402892523264877	Prommin	be	detain for day amid fear	PERSON	0
+0.9402892523264877	Prommin	be	detain for day after military takeover amid fear	PERSON	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day	PERSON	DURATION
+0.7006478299357694	muslim	lead	army	0	0
+1.0	hearing	one of	Thaksin 's former minister	0	PERSON
+1.0	Sonthi	leave on	December 28	PERSON	DATE
+0.9402892523264877	Prommin	be	detain for several day after takeover amid fear	PERSON	DURATION
+0.9402892523264877	Prommin	be	detain after takeover amid fear	PERSON	0
+1.0	around world	be in	annual hajj	0	SET
+1.0	Surayud	be on	Monday	PERSON	DATE
+0.9402892523264877	Prommin	be	detain for several day after takeover	PERSON	DURATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain amid fear	PERSON	PERSON
+1.0	military	want	meet today	0	DATE
+1.0	Surayud	blame	bombing	PERSON	0
+1.0	military	want	meet	0	0
+1.0	hearing	tell	reporter	0	0
+0.9402892523264877	Prommin	be	detain for several day after military takeover amid fear	PERSON	DURATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day after takeover	PERSON	PERSON
+1.0	military	want	meet with I today	0	DATE
+0.9402892523264877	Prommin	be detain for	day	PERSON	0
+0.9402892523264877	Prommin	be	detain for several day amid fear	PERSON	DURATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day after military takeover amid fear	PERSON	DURATION
+1.0	Surayud	blame bombing on	unnamed group	PERSON	0
+1.0	Thaksin	of	former minister	PERSON	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day after takeover amid fear	PERSON	DURATION
+0.9402892523264877	Prommin	be	detain	PERSON	0
+1.0	Thaksin	have	ministers	O	PERSON
+1.0	Thaksin	of	close ally	PERSON	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain after military takeover amid fear	PERSON	PERSON
+0.9402892523264877	Prommin	be detain for	several day	PERSON	DURATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain for several day after takeover	PERSON	DURATION
+1.0	military	initially want	meet with I today	0	DATE
+0.9402892523264877	Prommin	be	among Thaksin aide detain after takeover	PERSON	PERSON
+1.0	army	be in	mainly buddhist nation	0	0
+0.9402892523264877	Prommin	be detain after	military takeover	PERSON	0
+1.0	military	initially want	meet today	0	DATE
+0.9402892523264877	Prommin	be	among Thaksin aide detain after takeover amid fear	PERSON	PERSON
+0.9402892523264877	Prommin	be	detain for several day after military takeover	PERSON	DURATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day after takeover amid fear	PERSON	PERSON
+1.0	Thailand	's leader be	muslim	LOCATION	0
+1.0	ministers	have	one	NUMBER	O
+0.9402892523264877	Prommin	be detain amid	fear	PERSON	0
+1.0	military	meet with	I	0	0
+1.0	a Muslim	have	Hajj pilgrimage	O	O
+1.0	military	want	meet with I	0	0
+1.0	Thailand	have	junta leader	LOCATION	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day after military takeover amid fear	PERSON	PERSON
+1.0	General Sonthi	be on	he way back	PERSON	0
+0.9402892523264877	Prommin	be	detain for day after takeover	PERSON	0
+1.0	Thaksin	have	allies	O	PERSON
+0.9402892523264877	Prommin	be detain after	takeover	PERSON	0
+0.9402892523264877	Prommin	be	detain for day after military takeover	PERSON	0
+1.0	Montri Sungkhasap	be	Army	PERSON	ORGANIZATION
+1.0	Surayud	blame bombing on	anti-coup group	PERSON	0
+1.0	Thailand	have	junta leader	O	LOCATION
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day after military takeover	PERSON	PERSON
+0.9402892523264877	Prommin	be	detain for day after takeover amid fear	PERSON	0
+1.0	Sonthi	leave for	Mecca	PERSON	LOCATION
+0.9402892523264877	Prommin	be detain among	Thaksin aide	PERSON	PERSON
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day	PERSON	PERSON
+1.0	Sonthi	seize	power	PERSON	0
+1.0	Surayud	blame bombing on	group	PERSON	0
+1.0	military	initially want	meet with I	0	0
+1.0	worst violence	be in	Bangkok	0	DURATION
+0.7006478299357694	first muslim	lead	army	ORDINAL	0
+0.9402892523264877	Prommin	be	among Thaksin aide detain for day amid fear	PERSON	PERSON

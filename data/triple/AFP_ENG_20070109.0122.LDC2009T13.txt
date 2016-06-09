@@ -1,0 +1,33 @@
+1.0	organisation	have	secretary	0	0
+1.0	organisation	have	secretary	O	O
+1.0	Amr Mussa	tell	journalist	PERSON	0
+1.0	president Mahmud Abbas	call for	presidential	PERSON	0
+1.0	Amr Mussa	tell journalist in	Cairo	PERSON	LOCATION
+1.0	tension	be run	high	0	0
+1.0	palestinian president Mahmud Abbas	call for	early presidential	PERSON	0
+1.0	palestinian president Mahmud Abbas	resolve standoff with	Hamas	PERSON	ORGANIZATION
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	tension	be currently run	high	0	0
+1.0	internecine violence	have	outbreaks	O	O
+1.0	president Mahmud Abbas	resolve	months-long standoff	PERSON	0
+1.0	palestinian president Mahmud Abbas	call in	bid	PERSON	0
+1.0	president Mahmud Abbas	call for	early presidential	PERSON	0
+1.0	palestinian president Mahmud Abbas	resolve	months-long standoff	PERSON	0
+1.0	president Mahmud Abbas	resolve standoff with	Hamas	PERSON	ORGANIZATION
+1.0	there have several outbreak	be in	the past month	DATE	DATE
+1.0	Hamas	be in	bid end	ORGANIZATION	0
+1.0	Their	have	cause	O	O
+1.0	reasonable Palestinians	have	state	O	O
+1.0	Abbas	have	Fatah movement	O	PERSON
+1.0	president Mahmud Abbas	call in	bid	PERSON	0
+1.0	tension	be currently run in	territory	0	0
+1.0	unified position	be in	grave situation	0	0
+1.0	palestinian president Mahmud Abbas	resolve	standoff	PERSON	0
+1.0	palestinian president Mahmud Abbas	call for	presidential	PERSON	0
+1.0	Abbas	to	Fatah movement	PERSON	ORGANIZATION
+1.0	general Amr Mussa	tell	journalist	PERSON	0
+1.0	general Amr Mussa	tell journalist in	Cairo	PERSON	LOCATION
+1.0	tension	be run in	territory	0	0
+1.0	Arab League	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	Gaza	have	have embroil	LOCATION	0
+1.0	president Mahmud Abbas	resolve	standoff	PERSON	0

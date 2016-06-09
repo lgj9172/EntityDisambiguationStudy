@@ -1,0 +1,65 @@
+1.0	Badush jail	hold around	1,200 prisoner	0	NUMBER
+1.0	troubled Badush jail	be run include	100 islamist militant	0	NUMBER
+1.0	troubled Badush jail	be	run by government include 100 islamist militant	0	NUMBER
+1.0	prisoner	burn	dining hall	0	0
+1.0	family	be	ambush	0	0
+1.0	troubled Badush jail	be run include	100 foreign militant	0	NUMBER
+1.0	order	be	restore later	0	DATE
+1.0	troubled Badush jail	be run by	iraqi government	0	0
+1.0	troubled Badush jail	be run include	100 militant	0	NUMBER
+1.0	director	tell	afp	0	0
+1.0	Badush jail	be	run by iraqi government include 100 foreign militant	0	NUMBER
+1.0	five	have	family	O	NUMBER
+1.0	prison 's former director	be	arrest	0	0
+1.0	guard	reprimand prisoner in	security wing	0	0
+1.0	troubled Badush jail	be	run by iraqi government include 100 militant	0	NUMBER
+1.0	family	be ambush at_time	night	0	TIME
+1.0	their	have	cells	O	O
+1.0	Badush jail	be	run by government include 100 foreign islamist militant	0	NUMBER
+1.0	Badush jail	be run include	100 militant	0	NUMBER
+1.0	order	be	restore	0	0
+1.0	guard	strongly reprimand prisoner in	security wing	0	0
+1.0	prisoner	set fire to	furniture in they cell	0	0
+1.0	Badush jail	be run include	100 foreign militant	0	NUMBER
+1.0	Badush jail	be	run by government include 100 islamist militant	0	NUMBER
+1.0	troubled Badush jail	be	run	0	0
+1.0	guard	reprimand	prisoner	0	0
+1.0	Badush jail	be	run by iraqi government include 100 militant	0	NUMBER
+1.0	guard	strongly reprimand prisoner in	low security wing	0	0
+1.0	troubled Badush jail	be	run by government include 100 foreign islamist militant	0	NUMBER
+1.0	Badush jail	be	run by government include 100 militant	0	NUMBER
+1.0	troubled Badush jail	be	run by iraqi government include 100 foreign islamist militant	0	NUMBER
+1.0	Badush jail	be	run by iraqi government include 100 islamist militant	0	NUMBER
+1.0	guard	reprimand prisoner in	low security wing	0	0
+1.0	prison 's former director	be arrest at_time	month	0	DATE
+1.0	troubled Badush jail	be run by	government	0	0
+1.0	troubled Badush jail	be	run by iraqi government include 100 foreign militant	0	NUMBER
+1.0	troubled Badush jail	be	run by government include 100 militant	0	NUMBER
+1.0	family	be ambush on	Sunday	0	DATE
+1.0	Badush jail	be run by	iraqi government	0	0
+1.0	Badush jail	be run include	100 foreign islamist militant	0	NUMBER
+1.0	prison 's former director	be arrest at_time	last month	0	DATE
+1.0	troubled Badush jail	hold around	1,200 prisoner	0	NUMBER
+1.0	Badush jail	be run by	government	0	0
+1.0	troubled Badush jail	be run include	100 foreign islamist militant	0	NUMBER
+1.0	Saddam Hussein	after	nephew	PERSON	0
+1.0	they	visit relative in	jail	0	0
+1.0	Badush jail	be	run by iraqi government include 100 foreign islamist militant	0	NUMBER
+1.0	prison	have	former director	0	0
+1.0	Ayman Ibrahim al-Hassan	be nephew of	Saddam Hussein	PERSON	PERSON
+1.0	they	visit	relative	0	0
+1.0	prisoner	smash	surveillance camera	0	0
+1.0	Badush jail	have	director	O	O
+1.0	troubled Badush jail	be	run by government include 100 foreign militant	0	NUMBER
+1.0	family	shoot	dead by gunman	0	0
+1.0	troubled Badush jail	be	run by iraqi government include 100 islamist militant	0	NUMBER
+1.0	prisoner	break	door	0	0
+1.0	family	be	on Sunday night ambush	0	TIME
+1.0	Badush jail	be run include	100 islamist militant	0	NUMBER
+1.0	prison	have	director	O	O
+1.0	dictator Saddam Hussein	have	nephew	O	PERSON
+1.0	Badush jail	be	run by government include 100 foreign militant	0	NUMBER
+1.0	family	shoot	dead	0	0
+1.0	prisoner	set fire to	furniture in cell	0	0
+1.0	Badush jail	be	run	0	0
+1.0	guard	strongly reprimand	prisoner	0	0

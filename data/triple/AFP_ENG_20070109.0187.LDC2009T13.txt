@@ -1,0 +1,23 @@
+1.0	Watford	be	West Ham	ORGANIZATION	ORGANIZATION
+1.0	Nottingham Forest	be	Chelsea	ORGANIZATION	ORGANIZATION
+1.0	Tuesday	have	ties	O	DATE
+1.0	Preston	be	Crystal Palace	ORGANIZATION	ORGANIZATION
+1.0	rd tie	be	play	0	0
+1.0	4th rd tie	be play on	Jan 27-28	ORDINAL	DATE
+1.0	3rd rd replay	be play on	Jan 16-17	ORDINAL	DATE
+1.0	Swansea	be	Ipswich	ORGANIZATION	ORGANIZATION
+1.0	Southampton	be	Manchester City	ORGANIZATION	ORGANIZATION
+1.0	Stoke	be	Fulham	ORGANIZATION	ORGANIZATION
+1.0	FA Cup	have	draw	O	MISC
+1.0	Bristol Rovers	be	Derby	ORGANIZATION	ORGANIZATION
+1.0	Portsmouth	be	Manchester United	ORGANIZATION	ORGANIZATION
+1.0	Hull	be	Coventry	ORGANIZATION	ORGANIZATION
+1.0	Peterborough	be	Barnet	ORGANIZATION	ORGANIZATION
+1.0	Norwich	be	Blackpool	ORGANIZATION	ORGANIZATION
+1.0	rd tie	be play on	Jan 27-28	0	DATE
+1.0	rd replay	be	play	0	0
+1.0	3rd rd replay	be	play	ORDINAL	0
+1.0	follow Tuesday	follow	two third round tie	DATE	NUMBER
+1.0	4th rd tie	be	play	ORDINAL	0
+1.0	Blackburn Rovers	be	Luton	ORGANIZATION	ORGANIZATION
+1.0	rd replay	be play on	Jan 16-17	0	DATE

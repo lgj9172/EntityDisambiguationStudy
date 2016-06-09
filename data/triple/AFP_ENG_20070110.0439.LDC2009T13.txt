@@ -1,0 +1,34 @@
+1.0	country	have	rise islamist movement	0	0
+1.0	US target	involve	court leader	LOCATION	0
+1.0	US target	be	somalian	LOCATION	0
+1.0	Meles	speak to	reporter	PERSON	0
+0.5662121396876129	Qaeda	suspect in	Somalia	ORGANIZATION	LOCATION
+1.0	20 terrorists	have	13	NUMBER	O
+1.0	troops	have	control	O	O
+1.0	Monday	of	US raid	DATE	LOCATION
+1.0	body	be take to	lab for analysis	0	0
+1.0	them	have	none	O	O
+1.0	US target	involve	very senior islamist court leader	LOCATION	0
+1.0	US target	be	exclusively somalian	LOCATION	0
+1.0	Meles Zenawi	be prime minister of	Ethiopia	PERSON	LOCATION
+1.0	Ethiopia	have	Meles Zenawi	LOCATION	PERSON
+1.0	US target	involve	islamist court leader	LOCATION	0
+1.0	Ethiopia	have	Prime Minister Meles Zenawi	PERSON	LOCATION
+1.0	Ethiopia 's Prime Minister Meles Zenawi	say at_time	Wednesday	PERSON	DATE
+1.0	dead	have	identities	O	O
+1.0	terrorists	have	seven	NUMBER	O
+1.0	US target	involve	senior islamist court leader	LOCATION	0
+1.0	our	have	troops	O	O
+1.0	country	have	movement	O	O
+1.0	US raid	have	scene	O	O
+1.0	wounded	have	identities	O	O
+0.5662121396876129	Qaeda	suspect in	southern Somalia	ORGANIZATION	LOCATION
+1.0	Monday	have	US raid	O	DATE
+1.0	US target	involve	very senior court leader	LOCATION	0
+1.0	US target	involve	senior court leader	LOCATION	0
+1.0	body	be take to	lab	0	0
+1.0	Meles	say	add	PERSON	0
+1.0	body	be	take	0	0
+1.0	US target	be	almost exclusively somalian	LOCATION	0
+1.0	five	have	capture	O	NUMBER
+1.0	Meles	speak here to	reporter	PERSON	0

@@ -1,0 +1,39 @@
+0.9192435451032213	US force	control of	Saddam Hussein	LOCATION	PERSON
+1.0	their	have	responsibility	O	O
+1.0	it	be	nation	0	0
+1.0	Saddam Hussein	have	control	O	PERSON
+1.0	Saddam	have	death	O	PERSON
+1.0	his	have	hanging	O	O
+1.0	the Iraqi prison facility	take	place	0	0
+1.0	he	be taunt by	shiite witness in the	0	0
+1.0	he	be taunt by	witness in the	0	0
+1.0	he	be	taunt	0	0
+1.0	it	be	sovereign nation	0	0
+1.0	he	be taunt by	shiite witness	0	0
+1.0	US force	have hand	control of Saddam	LOCATION	PERSON
+1.0	he	be taunt by	witness	0	0
+1.0	Saddam	of	death from video	PERSON	0
+1.0	decision	have	government	O	O
+1.0	spokesman Major General William Caldwell	say at_time	Wednesday	PERSON	DATE
+1.0	you	be ask	I	0	0
+0.9192435451032213	US force	physical control of	Saddam Hussein	LOCATION	PERSON
+1.0	Saddam	have	moments	O	PERSON
+1.0	their	have	decision	O	O
+1.0	US force	have hand control before	shortly hanging	LOCATION	0
+1.0	dictator Saddam Hussein	have	execution	O	PERSON
+1.0	death	have	Footage	O	O
+1.0	US force	have hand control before	hanging	LOCATION	0
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	US force	have hand	physical control	LOCATION	0
+1.0	Iraq	have	decision	O	LOCATION
+1.0	military spokesman Major General William Caldwell	say at_time	Wednesday	PERSON	DATE
+1.0	it	be	sovereign	0	0
+1.0	US force	have hand control to	official	LOCATION	0
+1.0	reporter	be in	Baghdad	0	LOCATION
+1.0	US personnel	have leave	prison facility	LOCATION	0
+1.0	US personnel	have leave	iraqi prison facility	LOCATION	0
+1.0	shiite witness	be in	the	0	0
+1.0	US force	have hand	physical control of Saddam	LOCATION	PERSON
+1.0	our	have	decision	O	O
+1.0	US force	have hand	control	LOCATION	0
+1.0	US force	have hand control to	iraqi official	LOCATION	0

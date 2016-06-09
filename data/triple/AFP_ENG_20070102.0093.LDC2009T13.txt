@@ -1,0 +1,9 @@
+1.0	2006	have	quarter	DATE	DATE
+1.0	ING	acquire	Degussa Bank	ORGANIZATION	ORGANIZATION
+1.0	Degussa Bank	be in	June 2002	ORGANIZATION	DATE
+1.0	investors	have	group	O	O
+1.0	ING	acquire	Degussa Bank in June 2002	ORGANIZATION	DATE
+1.0	ING	have	Degussa Bank subsidiary	O	O
+1.0	ING	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	euros	have	loss	O	MONEY
+1.0	Degussa Bank subsidiary	have	sale	O	O

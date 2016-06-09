@@ -1,0 +1,66 @@
+1.0	investment	have	dollars	MONEY	O
+1.0	island 's microchip maker	build wafer plant by	end	0	DATE
+1.0	chipmaker	build	such complex	0	0
+1.0	chipmaker	build	complex	0	0
+1.0	Taiwan	allow	local chipmaker	ORGANIZATION	0
+1.0	island 's microchip maker	build	200-millimeter wafer plant in rival China	0	LOCATION
+1.0	project	be part of	Taiwan government 's plan	0	LOCATION
+1.0	people	have	municipality	O	O
+1.0	report	quote	vice mayor	0	0
+1.0	Taiwan	to	ProMOS Technologies Inc	LOCATION	ORGANIZATION
+1.0	Taiwan government	of	plan allow	LOCATION	0
+1.0	world	have	largest contract chipmaker	0	0
+1.0	Taiwan Semiconductor Manufacturing Co	far operate	one such facility in Shanghai	ORGANIZATION	NUMBER
+1.0	Taiwan government	have	plan	O	O
+1.0	important high-tech project	be in	municipality of 30 million people	0	NUMBER
+1.0	Taiwan Semiconductor Manufacturing Co	so far operate	one such facility	ORGANIZATION	NUMBER
+1.0	one such facility	be in	Shanghai	NUMBER	LOCATION
+1.0	Taiwan	have	rival	O	O
+1.0	state press report	say at_time	Thursday	0	DATE
+1.0	chipmaker	build complex in	rival China	0	LOCATION
+1.0	Taiwan Semiconductor Manufacturing Co	far operate	one such facility	ORGANIZATION	NUMBER
+1.0	Taiwan Semiconductor Manufacturing Co	operate	one such facility in Shanghai	ORGANIZATION	NUMBER
+1.0	year	have	end	DATE	DATE
+1.0	local chipmaker	build complex in	rival China	0	LOCATION
+1.0	world	have	contract chipmaker	O	O
+1.0	China	by	National Development and Reform Commission	LOCATION	ORGANIZATION
+1.0	Huang Qifan	mayor of	Chongqing	PERSON	LOCATION
+1.0	Chongqing	have	vice mayor	O	LOCATION
+1.0	Taiwan Semiconductor Manufacturing Co	far operate	one facility	ORGANIZATION	NUMBER
+1.0	Taiwan Semiconductor Manufacturing Co	so far operate	one such facility in Shanghai	ORGANIZATION	NUMBER
+1.0	Taiwan Semiconductor Manufacturing Co	so far operate	one facility in Shanghai	ORGANIZATION	NUMBER
+1.0	island 's microchip maker	build	wafer plant in rival China	0	LOCATION
+1.0	island	have	microchip maker	0	0
+1.0	Chongqing	have	city	O	LOCATION
+1.0	its industry leader	can transfer to	mainland due	0	0
+1.0	report	quote	Huang Qifan	0	LOCATION
+1.0	report	quote	Huang Qifan	0	PERSON
+1.0	ProMOS Technologies Inc	be  at_time	last week	ORGANIZATION	DATE
+1.0	Taiwan Semiconductor Manufacturing Co	far operate	one facility in Shanghai	ORGANIZATION	NUMBER
+1.0	technology	have	level	O	O
+1.0	island	have	microchip makers	O	O
+1.0	Taiwan	allow	chipmaker	ORGANIZATION	0
+1.0	local chipmaker	build	complex	0	0
+1.0	Taiwan Semiconductor Manufacturing Co	operate	one such facility	ORGANIZATION	NUMBER
+1.0	plan	have	part	O	O
+0.14059619431790493	project	be part of	Taiwan government 's plan allow	0	LOCATION
+1.0	island 's microchip maker	build	200-millimeter wafer plant	0	0
+1.0	island 's microchip maker	build	200-millimeter wafer plant in China	0	LOCATION
+1.0	eight	have	assembly	O	NUMBER
+1.0	local chipmaker	build	such complex	0	0
+0.14059619431790493	Taiwan	agree	allow	ORGANIZATION	0
+1.0	its industry leader	can transfer to	mainland	0	0
+1.0	Taiwan	agree in	2002	ORGANIZATION	DATE
+1.0	900-million-dollar Taiwan investment	be in	giant southwestern city of Chongqing	LOCATION	LOCATION
+1.0	project	be	part	0	0
+1.0	Taiwan Semiconductor Manufacturing Co	operate	one facility in Shanghai	ORGANIZATION	NUMBER
+1.0	China	have	National Development	ORGANIZATION	LOCATION
+1.0	island 's microchip maker	build	wafer plant in China	0	LOCATION
+1.0	2007	have	half	DATE	DATE
+1.0	Taiwan Semiconductor Manufacturing Co	operate	one facility	ORGANIZATION	NUMBER
+1.0	Taiwan Semiconductor Manufacturing Co	so far operate	one facility	ORGANIZATION	NUMBER
+1.0	island 's microchip maker	build	wafer plant	0	0
+1.0	Taiwan Semiconductor Manufacturing Co	chipmaker 's	world	ORGANIZATION	0
+1.0	200-millimeter wafer plant	be in	China	0	LOCATION
+1.0	Taiwan	have	industry leaders	O	O
+1.0	Taiwan	have	ProMOS Technologies Inc	ORGANIZATION	LOCATION

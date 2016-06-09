@@ -1,0 +1,48 @@
+1.0	Jacques Chirac	have	masks	O	PERSON
+1.0	actor	dance drunkenly in	swimsuit	0	0
+1.0	manager	be in	I	0	0
+1.0	its	have	form	O	O
+1.0	Theatre du Chatelet	be in	Paris	0	LOCATION
+1.0	Leonard Bernstein	have	Candide	O	PERSON
+1.0	Vladimir Putin	have	masks	O	PERSON
+0.5820875578869239	wear	mask of	Tony Blair	0	0
+1.0	George W. Bush	have	masks	O	PERSON
+1.0	press officer	tell	afp	0	0
+1.0	Milan	have	La Scala opera house	O	LOCATION
+1.0	Milan	have	Arcimboldi Theatre	O	LOCATION
+1.0	world leader dance	say at_time	Wednesday	0	DATE
+1.0	Le Monde	be to	daily	ORGANIZATION	SET
+1.0	director	rework	show conform	0	0
+1.0	La Scala	announce at_time	Thursday	LOCATION	DATE
+1.0	director	speak to	Chatelet director	0	PERSON
+1.0	director	rework	show	0	0
+1.0	Robert Carsen	be	canadian	PERSON	0
+0.6786274738635546	actor	wear	mask of Tony Blair	0	0
+1.0	Vladimir Putin	be	Jacques Chirac	PERSON	PERSON
+0.6786274738635546	actor	wear	mask	0	0
+1.0	artistic director	speak to	Robert Carsen	0	PERSON
+1.0	actor	dance in	swimsuit	0	0
+1.0	tie	be in	they national color	0	0
+1.0	artistic director	rework	show conform	0	0
+1.0	Milan	at	Arcimboldi Theatre	LOCATION	0
+1.0	La Scala	announce at_time	last Thursday	LOCATION	DATE
+1.0	director	speak to	Robert Carsen	0	PERSON
+1.0	Candide	will	will perform	0	0
+1.0	Tony Blair	have	masks	O	O
+1.0	Carsen	tie in	they color	PERSON	0
+1.0	press officer	tell afp from	Milan 's	0	LOCATION
+1.0	show	be in	its current form	0	DATE
+1.0	world leader dance	be in	skimpy swimsuit	0	0
+1.0	Le Monde	be to	french	ORGANIZATION	0
+1.0	Leonard Bernstein	have	Candide	PERSON	0
+1.0	La Scala	have	programming	O	LOCATION
+1.0	Milan	have	La Scala opera house	LOCATION	ORGANIZATION
+1.0	Silvio Berlusconi	have	masks	O	PERSON
+1.0	artistic director	be in	I	0	0
+1.0	Candide	will	will perform at Milan 's Arcimboldi Theatre	0	LOCATION
+1.0	press officer	tell afp by	telephone	0	0
+1.0	Carsen	tie in	they national color	PERSON	0
+1.0	their	have	colors	O	O
+1.0	artistic director	rework	show	0	0
+1.0	artistic director	speak to	Chatelet director	0	PERSON
+1.0	Milan 's La Scala opera house	may reschedule	Leonard Bernstein 's Candide	ORGANIZATION	PERSON

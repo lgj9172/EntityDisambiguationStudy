@@ -1,0 +1,55 @@
+1.0	Thailand	have	south	O	LOCATION
+1.0	he	be	know	0	0
+1.0	police	say at_time	Wednesday	0	DATE
+1.0	he	be leader of	Bacho village	0	PERSON
+1.0	Kawee Prachumkayohmas	be	shoot four time in Tuesday	PERSON	DATE
+1.0	Kawee Prachumkayohmas	be	shoot	PERSON	0
+1.0	attack	be link to	insurgency	0	0
+1.0	bomb	kill	three	0	NUMBER
+1.0	Kawee Prachumkayohmas	pray during	religious holiday	0	0
+1.0	region	annex by	Buddhist Thailand in 1902	0	DATE
+1.0	attention	turn to	Bangkok	0	LOCATION
+1.0	coup	be in	September	0	DATE
+1.0	region	be	independent	0	0
+1.0	Kawee Prachumkayohmas	pray during	holiday	0	0
+1.0	leader	be in	Narathiwat province	0	LOCATION
+1.0	Thailand	be in	1902	LOCATION	DATE
+1.0	new year hiatus	be in	attack	0	0
+1.0	attack	be in	muslim majority region	0	0
+1.0	region	annex by	mainly Buddhist Thailand in 1902	0	DATE
+1.0	attack	blame	supporter	0	0
+1.0	attack	blame	supporter of ex	0	0
+1.0	Muslim	have	stance	O	O
+1.0	Bacho village	have	leader	O	O
+1.0	he	be	leader	0	0
+1.0	Kawee Prachumkayohmas	be shoot in	four time	PERSON	NUMBER
+1.0	Kawee Prachumkayohmas 55	be shoot in	four time	PERSON	NUMBER
+1.0	he	be	leader of Bacho village in Narathiwat province	0	LOCATION
+0.6781110923425508	region	border	Malaysia	0	LOCATION
+1.0	victims	have	Most	O	O
+1.0	eight bomb	kill	three	NUMBER	NUMBER
+1.0	Thailand	in	insurgency-hit south	LOCATION	0
+1.0	Kawee Prachumkayohmas	be shoot at_time	late Tuesday	PERSON	DATE
+1.0	region	be	sultanate	0	0
+1.0	region	annex by	mainly Buddhist Thailand	0	LOCATION
+1.0	Kawee Prachumkayohmas	be	55	PERSON	NUMBER
+1.0	region	annex by	Buddhist Thailand	0	LOCATION
+1.0	Kawee Prachumkayohmas	be shoot at_time	Tuesday	PERSON	DATE
+1.0	Kawee Prachumkayohmas 55	be shoot at_time	late Tuesday	PERSON	DATE
+1.0	he	be leader in	Narathiwat province	0	LOCATION
+1.0	bomb	injure	38	0	NUMBER
+1.0	region	be	independent sultanate	0	0
+1.0	he	be know for	he opposition	0	0
+1.0	Kawee Prachumkayohmas 55	be	shoot four time in Tuesday	PERSON	DATE
+1.0	attack	be	link	0	0
+1.0	Kawee Prachumkayohmas 55	be	shoot four time in late Tuesday	PERSON	DATE
+1.0	Kawee Prachumkayohmas 55	be shoot at_time	Tuesday	PERSON	DATE
+1.0	attention	instead turn to	Bangkok	0	LOCATION
+1.0	attack	be in	Bangkok	0	LOCATION
+1.0	Kawee Prachumkayohmas	be	shoot four time in late Tuesday	PERSON	DATE
+1.0	Kawee Prachumkayohmas	have	opposition	O	O
+1.0	eight bomb	injure	38	NUMBER	NUMBER
+1.0	ex	have	supporters	O	O
+1.0	he	be know for	he strong opposition	0	0
+1.0	Kawee Prachumkayohmas 55	be	shoot	PERSON	0
+1.0	Kawee Prachumkayohmas	leave	cemetery	0	0

@@ -1,0 +1,16 @@
+1.0	24-year-old midfielder	become	Marseille 's first transfer window signing	DURATION	ORDINAL
+1.0	Marseille	have	transfer window signing	O	ORGANIZATION
+1.0	24-year-old midfielder	sign	three-and-a-half year deal	DURATION	DURATION
+1.0	Marseille	have	first transfer window signing	ORGANIZATION	ORDINAL
+1.0	Strasbourg	be from	second	LOCATION	ORDINAL
+1.0	club	say on	Friday	0	DATE
+1.0	attack midfielder	become	Marseille 's first transfer window signing	0	ORDINAL
+1.0	24-year-old attack midfielder	become	Marseille 's transfer window signing	DURATION	ORGANIZATION
+1.0	midfielder	sign	three-and-a-half year deal	0	DURATION
+1.0	24-year-old attack midfielder	become	Marseille 's first transfer window signing	DURATION	ORDINAL
+1.0	midfielder	become	Marseille 's transfer window signing	0	ORGANIZATION
+1.0	midfielder	become	Marseille 's first transfer window signing	0	ORDINAL
+1.0	24-year-old midfielder	become	Marseille 's transfer window signing	DURATION	ORGANIZATION
+1.0	24-year-old attack midfielder	sign	three-and-a-half year deal	DURATION	DURATION
+1.0	attack midfielder	become	Marseille 's transfer window signing	0	ORGANIZATION
+1.0	attack midfielder	sign	three-and-a-half year deal	0	DURATION

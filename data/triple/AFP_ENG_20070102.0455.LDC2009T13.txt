@@ -1,0 +1,7 @@
+1.0	state	have	coast	O	O
+1.0	pahang state	tell	daily	0	SET
+1.0	Malaysia	have	coast	O	LOCATION
+1.0	football fields	have	length	O	O
+1.0	marine police commander Mohamed Pajeri Ali	have	officers	O	O
+1.0	report	say at_time	last Wednesday	0	DATE
+1.0	state	tell	daily	0	SET

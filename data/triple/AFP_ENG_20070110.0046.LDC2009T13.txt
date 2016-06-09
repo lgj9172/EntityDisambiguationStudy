@@ -1,0 +1,88 @@
+1.0	Mizuho Securities Co	of	strength in underwriting	ORGANIZATION	0
+1.0	entity	would have	combined 31 trillion yen in asset under management base on figure	0	MONEY
+0.12273229824088894	company	realize through	combination of Mizuho Securities Co 's strength in underwriting	0	ORGANIZATION
+1.0	31 trillion yen	make	it largest	MONEY	0
+0.12273229824088894	new company	realize through	combination of Mizuho Securities Co 's strength in underwriting	0	ORGANIZATION
+1.0	entity	would have	31 trillion yen base	0	MONEY
+1.0	merged entity	would have	31 trillion yen in asset base	0	MONEY
+0.12273229824088894	new company	realize through	combination	0	0
+1.0	Japan	have	all	O	LOCATION
+1.0	company	realize effect through	combination of Mizuho Securities Co 's strength in underwriting	0	ORGANIZATION
+1.0	new company	realize	effect	0	0
+1.0	merged firm	have	consolidated operating revenue	0	0
+1.0	merged entity	would have	31 trillion yen base	0	MONEY
+1.0	end	have	based	O	DATE
+0.12273229824088894	company	realize through	combination	0	0
+1.0	company	realize effect through	combination of Mizuho Securities Co 's strength	0	ORGANIZATION
+1.0	merged entity	would have	combined 31 trillion yen in asset	0	MONEY
+1.0	merged entity	would have	combined 31 trillion yen in asset under management base on figure	0	MONEY
+1.0	entity	would have	combined 31 trillion yen in asset base on figure	0	MONEY
+1.0	The merged entity	largest among	bank-affiliated brokerage	0	0
+1.0	strength	have	combination	O	O
+1.0	entity	would have	combined 31 trillion yen in asset under management	0	MONEY
+1.0	Mizuho Securities Co	have	strength	O	ORGANIZATION
+1.0	entity	would have	31 trillion yen in asset under management base	0	MONEY
+1.0	merged entity	would have	31 trillion yen in asset under management base	0	MONEY
+1.0	entity	would have	combined 31 trillion yen in asset base	0	MONEY
+1.0	The merged entity	largest among	brokerage	0	0
+1.0	merged entity	would have	31 trillion yen	0	MONEY
+0.6176616900987482	cover	all	Japan	0	LOCATION
+1.0	third biggest brokerage house	be in	The merged firm 's consolidated operating revenue	ORDINAL	0
+1.0	merged entity	would have	combined 31 trillion yen in asset under management	0	MONEY
+0.12273229824088894	new company	realize with	business network	0	0
+1.0	entity	would have	combined 31 trillion yen	0	MONEY
+1.0	entity	would have	31 trillion yen base on figure	0	MONEY
+1.0	Mizuho Securities Co 's strength	be in	underwriting	ORGANIZATION	0
+0.7245594636299649	business network	cover	all Japan	0	LOCATION
+1.0	new company	realize effect through	combination of Mizuho Securities Co 's strength in underwriting	0	ORGANIZATION
+1.0	entity	would have	combined 31 trillion yen base	0	MONEY
+0.12273229824088894	company	realize through	combination of Mizuho Securities Co 's strength	0	ORGANIZATION
+1.0	combined 31 trillion yen	make	it largest	MONEY	0
+1.0	company	realize effect with	business network	0	0
+1.0	Shinko	have	sales base	O	ORGANIZATION
+1.0	entity	would have	31 trillion yen	0	MONEY
+1.0	entity	would have	combined 31 trillion yen base on figure	0	MONEY
+1.0	merged entity	would have	31 trillion yen in asset base on figure	0	MONEY
+1.0	new company	realize effect with	business network	0	0
+0.12273229824088894	company	realize with	business network	0	0
+1.0	March	have	end	DATE	DATE
+1.0	company	realize	significant effect	0	0
+1.0	merged entity	would have	31 trillion yen in asset	0	MONEY
+1.0	combined 31 trillion yen	make	it largest among brokerage	MONEY	0
+1.0	entity	would have	31 trillion yen in asset under management base on figure	0	MONEY
+0.6176616900987482	cover	all of	Japan	0	LOCATION
+1.0	merged entity	would have	combined 31 trillion yen	0	MONEY
+1.0	The merged firm 's consolidated operating revenue	surpass	Nikko Cordial	0	ORGANIZATION
+1.0	merged entity	would have	31 trillion yen base on figure	0	MONEY
+1.0	new company	realize	significant effect	0	0
+1.0	entity	would have	31 trillion yen in asset base	0	MONEY
+1.0	combined 31 trillion yen	make	it largest among bank-affiliated brokerage	MONEY	0
+1.0	merged entity	would have	combined 31 trillion yen in asset under management base	0	MONEY
+1.0	fourth-largest security house	be in	term of asset	0	0
+1.0	merged entity	would have	combined 31 trillion yen base	0	MONEY
+1.0	Mizuho Securities Co.	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	assets	have	terms	O	O
+1.0	Shinko	have	solid sale base as full-service security company	ORGANIZATION	0
+1.0	company	realize effect through	combination	0	0
+1.0	new company	realize effect through	combination of Mizuho Securities Co 's strength	0	ORGANIZATION
+0.7245594636299649	business network	cover	all of Japan	0	LOCATION
+1.0	new company	realize effect through	combination	0	0
+1.0	entity	would have	31 trillion yen in asset	0	MONEY
+1.0	entity	would have	31 trillion yen in asset base on figure	0	MONEY
+1.0	merged entity	would have	combined 31 trillion yen in asset base	0	MONEY
+1.0	brokerages	have	merger	O	O
+1.0	firm	have	The merged firm 's consolidated operating revenue	O	O
+1.0	revenue	have	terms	O	O
+1.0	entity	would have	combined 31 trillion yen in asset	0	MONEY
+1.0	merged entity	would have	combined 31 trillion yen base on figure	0	MONEY
+1.0	entity	would have	combined 31 trillion yen in asset under management base	0	MONEY
+0.12273229824088894	new company	realize through	combination of Mizuho Securities Co 's strength	0	ORGANIZATION
+1.0	entity	would have	31 trillion yen in asset under management	0	MONEY
+1.0	31 trillion yen	be in	asset under management	MONEY	0
+1.0	31 trillion yen	make	it largest among brokerage	MONEY	0
+1.0	merged entity	would have	31 trillion yen in asset under management	0	MONEY
+1.0	31 trillion yen	make	it largest among bank-affiliated brokerage	MONEY	0
+1.0	merged entity	would have	31 trillion yen in asset under management base on figure	0	MONEY
+1.0	merged entity	would have	combined 31 trillion yen in asset base on figure	0	MONEY
+1.0	company	realize	effect	0	0
+1.0	sales base	have	combination	O	O

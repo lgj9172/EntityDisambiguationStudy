@@ -1,0 +1,76 @@
+1.0	close cooperation	be with	ally	0	0
+1.0	six-party talk	resume at_time	month	0	DATE
+1.0	official	tell reporter on	condition of anonymity	0	0
+1.0	talk	resume after	13-month break	0	DATE
+1.0	leader Kim Jong-Il	tell	China	PERSON	LOCATION
+1.0	increased pressure	could trigger	further measure	DURATION	DURATION
+1.0	senior US defence official	say by	ABC News	LOCATION	ORGANIZATION
+1.0	US spy satellite	detect	the unload	LOCATION	DURATION
+1.0	korean foreign ministry official	say at_time	Friday	DURATION	DATE
+1.0	its hand	have	programmes	O	O
+1.0	north leader Kim Jong-Il	later tell china at_time	last month	PERSON	DURATION
+1.0	south korean ministry official	say at_time	Friday	DURATION	DATE
+1.0	increased pressure	could trigger	measure	DURATION	DURATION
+1.0	cables	have	the	O	O
+1.0	talk	resume at_time	month	0	DATE
+1.0	pressure	could trigger	further measure	0	DURATION
+1.0	increased international pressure	could trigger	further measure	DURATION	DURATION
+1.0	north korean leader Kim Jong-Il	tell	China	PERSON	LOCATION
+1.0	korean leader Kim Jong-Il	tell china at_time	last month	PERSON	DURATION
+1.0	South Korea 's Defence Minister Kim Jang-Soo	say at_time	month	PERSON	DATE
+1.0	preparations	have	signs	O	O
+1.0	north leader Kim Jong-Il	later tell	China	PERSON	LOCATION
+1.0	international pressure	could trigger	further measure	DURATION	DURATION
+1.0	North	near	suspect nuclear test site	0	0
+1.0	test	have	site	O	O
+1.0	talk	resume at_time	last month	0	DATE
+1.0	North Korea	of	first nuclear test	LOCATION	ORDINAL
+1.0	US spy satellite	detect	the unload of cable	LOCATION	DURATION
+1.0	foreign ministry official	say at_time	Friday	DURATION	DATE
+1.0	US television network ABC	cite	US defense official	0	LOCATION
+1.0	senior US defence official	be	quote	LOCATION	0
+1.0	north leader Kim Jong-Il	tell	China	PERSON	LOCATION
+1.0	Kim Jang-Soo	be defence minister of	South Korea	PERSON	LOCATION
+1.0	leader Kim Jong-Il	later tell	China	PERSON	LOCATION
+1.0	korean leader Kim Jong-Il	later tell	China	PERSON	LOCATION
+1.0	leader Kim Jong-Il	tell china at_time	last month	PERSON	DURATION
+1.0	North Korea	have	test	O	LOCATION
+1.0	its hand	have	hand	O	O
+1.0	US television network	report at_time	Thursday	LOCATION	DATE
+1.0	north korean leader Kim Jong-Il	later tell	China	PERSON	LOCATION
+1.0	pressure	could trigger	measure	0	DURATION
+1.0	South Korea	have	Kim Jang-Soo	LOCATION	PERSON
+1.0	US defence official	be	quote	LOCATION	0
+1.0	ministry official	say at_time	Friday	DURATION	DATE
+1.0	korean leader Kim Jong-Il	tell	China	PERSON	LOCATION
+1.0	US spy satellite	detect	the of large cable	LOCATION	DURATION
+1.0	south foreign ministry official	say at_time	Friday	DURATION	DATE
+1.0	talk	resume after	break	0	0
+1.0	korean leader Kim Jong-Il	later tell china at_time	last month	PERSON	DURATION
+1.0	leader Kim Jong-Il	later tell china at_time	last month	PERSON	DURATION
+1.0	official	tell	reporter	0	0
+1.0	North	have	test	O	O
+1.0	south ministry official	say at_time	Friday	DURATION	DATE
+1.0	US spy satellite	detect	the unload of large cable	LOCATION	DURATION
+1.0	place	punggye in	northeast	0	0
+1.0	ABC News	be television network of	US	ORGANIZATION	LOCATION
+1.0	official	tell reporter on	condition	0	0
+1.0	intelligence	be	inconclusive	0	0
+1.0	north leader Kim Jong-Il	tell china at_time	last month	PERSON	DURATION
+1.0	six-party talk	resume after	13-month break	0	DATE
+1.0	US spy satellite	detect	the of cable	LOCATION	DURATION
+1.0	South Korea 's Defence Minister Kim Jang-Soo	say at_time	last month	PERSON	DATE
+1.0	north korean leader Kim Jong-Il	later tell china at_time	last month	PERSON	DURATION
+1.0	south korean foreign ministry official	say at_time	Friday	DURATION	DATE
+1.0	US spy satellite	detect	the	LOCATION	DURATION
+1.0	six-party talk	resume after	break	0	0
+1.0	korean ministry official	say at_time	Friday	DURATION	DATE
+1.0	six-party talk	resume at_time	last month	0	DATE
+1.0	north korean leader Kim Jong-Il	tell china at_time	last month	PERSON	DURATION
+1.0	Kim Jong-Il	be	north korean	PERSON	DURATION
+1.0	international pressure	could trigger	measure	DURATION	DURATION
+1.0	punggye	be in	northeast	0	0
+1.0	US defence official	say by	ABC News	LOCATION	ORGANIZATION
+1.0	South Korea	have	Defence Minister Kim Jang-Soo	PERSON	LOCATION
+1.0	increased international pressure	could trigger	measure	DURATION	DURATION
+1.0	anonymity	have	condition	O	O

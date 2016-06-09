@@ -1,0 +1,24 @@
+1.0	Tuesday	continue search for	survivor	DATE	0
+1.0	ferry sailing	sink	central island	0	0
+1.0	ferry sailing	sink at_time	late Friday	0	DATE
+1.0	report	say at_time	Tuesday	0	DATE
+1.0	ferry sailing	sink	indonesian island	0	0
+1.0	accident Monday	be in	Java Sea	DATE	MISC
+1.0	ferry sailing	sink at_time	Friday	0	DATE
+1.0	ferry sailing	sink in	rough sea	0	0
+1.0	Tuesday	continue	search	DATE	0
+1.0	people	have	200	NUMBER	O
+1.0	Borneo	have	island	O	LOCATION
+1.0	ferry sailing	sink	central island of Java	0	MISC
+1.0	ferry sailing	sink	central indonesian island of Java	0	MISC
+1.0	ferry sailing	sink	central indonesian island	0	0
+1.0	Antara news agency	cite	provincial government spokesman	LOCATION	0
+1.0	ferry sailing	sink in	sea	0	0
+1.0	ferry sailing	sink	island	0	0
+1.0	Antara news agency	cite	government spokesman	LOCATION	0
+1.0	province	have	rescued	O	O
+1.0	ferry sailing	sink	indonesian island of Java	0	MISC
+1.0	island	have	capsized	O	O
+1.0	Central Kalimantan	have	province	O	LOCATION
+1.0	the Java Sea	have	island	O	MISC
+1.0	ferry sailing	sink	island of Java	0	MISC

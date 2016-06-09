@@ -1,0 +1,21 @@
+1.0	Hang Seng Index	end off	low of 20,231.95	MISC	NUMBER
+1.0	Hang Seng Index	end off	low	MISC	0
+1.0	pullback	have	severity	O	O
+1.0	they	say	investor lock	DATE	0
+1.0	they	say	investor lock in profit	DATE	DATE
+1.0	investor	turn follow	release	0	0
+1.0	they	say	investor	DATE	0
+1.0	investor	turn follow	release of minute	0	0
+1.0	investor	also turn	cautious	0	0
+1.0	investor	turn	cautious	0	0
+1.0	investor	also turn follow	release of minute	0	0
+1.0	minutes	have	release	O	DURATION
+1.0	US Federal Reserve meeting	have	minutes	DURATION	O
+1.0	20,231.95	have	low	O	NUMBER
+1.0	Hang Seng Index	end at_time	morning	MISC	TIME
+1.0	high	have	ended	O	O
+1.0	low	have	ended	O	O
+1.0	investor	also turn follow	release	0	0
+1.0	pullback	be in	US housing sector	0	LOCATION
+1.0	year	have	trading days	DATE	DATE
+1.0	20,463.18	have	high	O	NUMBER

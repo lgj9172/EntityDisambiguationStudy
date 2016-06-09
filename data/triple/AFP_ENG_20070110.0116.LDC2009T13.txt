@@ -1,0 +1,101 @@
+1.0	Chia Hsin Food	have	vice chairman	O	ORGANIZATION
+1.0	he	have	sizable investment	0	0
+1.0	group 's financial trouble	shortly come to	light	0	0
+1.0	Taipei	have	Apple Daily	ORGANIZATION	LOCATION
+1.0	Fred Lin	spokesman for	Taipei District prosecutor Office	PERSON	ORGANIZATION
+1.0	media	describe as	unprecedented action of its kind	0	0
+1.0	group	have	troubles	O	O
+1.0	Wang Ling-yi	be brother of	Wang Ling-chiao	PERSON	PERSON
+1.0	company	be suffer from	19.9 billion dollar debt burden stem from loss in its man-made fiber business	0	MONEY
+1.0	company	be suffer from	19.9 billion dollar debt burden stem	0	MONEY
+1.0	Rebar	have	units	O	O
+1.0	taiwanese investigator	raid	headquarters	0	0
+1.0	media	describe as	action of its kind	0	0
+1.0	group 's financial trouble	come to	light	0	0
+1.0	company	be suffer from	19.9 billion dollar debt burden	0	MONEY
+1.0	local media	describe as	unprecedented action of its kind	0	0
+1.0	stock market	fall	1.17 percent	0	PERCENT
+1.0	Shih jun-ji	be chairman of	Financial Supervisory Commission	PERSON	ORGANIZATION
+1.0	member	remain in	country pend investigation	0	0
+1.0	member	remain	conglomerate 's executive	0	0
+1.0	his	have	departure	O	O
+1.0	China Rebar	have debt worth	20.7 billion dollar	LOCATION	MONEY
+1.0	its	have	branches	O	O
+1.0	prosecutor	have order	member	0	0
+1.0	Wang You-theng	fly	80-year-old Rebar founder	PERSON	DURATION
+1.0	company	be suffer from	19.9 billion dollar debt burden stem from loss in its fiber business	0	MONEY
+1.0	Wang You-theng	fly on	December 30	PERSON	DATE
+1.0	prosecutor	have order	member of Wang family	0	PERSON
+1.0	Wang family	have	members	O	O
+1.0	accounting regulations	have	forgery	O	O
+1.0	Wang Ling-chiao 's brother Wang Ling-yi	be	also question	PERSON	0
+0.47937962732886696	stock market	fall at_time	Wednesday	0	DATE
+1.0	Wang Ling-chiao	president of	the Chinese Bank	PERSON	ORGANIZATION
+1.0	its founder	flee to	China	0	LOCATION
+1.0	kind	have	action	O	O
+1.0	Wang Ling-chiao	be	take away	PERSON	0
+1.0	Enterprise Bank	have	the	O	ORGANIZATION
+1.0	group	have	financial trouble	0	0
+1.0	local stock market	fall	1.17 percent	0	PERCENT
+1.0	media	describe as	unprecedented action	0	0
+1.0	Shih jun-ji	be	Financial Supervisory Commission	PERSON	ORGANIZATION
+1.0	Wang Ling-chiao	have	brother Wang Ling-yi	PERSON	PERSON
+1.0	local media	describe as	action of its kind	0	0
+1.0	local stock market	have	have hit by storm	0	0
+1.0	30	have	kind	O	O
+1.0	Wang You-theng	fly	he wife	PERSON	0
+0.8397060950489436	theng	have remit	800 million dollar	0	MONEY
+1.0	politics	have	sides	O	O
+1.0	Wang Ling-chiao	's ling-yi be	vice chairman of Chia Hsin Food	PERSON	ORGANIZATION
+1.0	Wang Ling-yi	chairman of	Chia Hsin Food and Synthetic Fiber	PERSON	ORGANIZATION
+1.0	Wang Ling-chiao	be	take	PERSON	0
+1.0	subsidiary	be in	group	0	0
+1.0	its	have	fiber business	O	O
+1.0	member	remain in	country investigation	0	0
+1.0	conglomerate	have	top executive	0	0
+1.0	his	have	wife	O	O
+1.0	stock market	have	have hit hard by storm	0	0
+1.0	local stock market	have	have hit hard by financial storm	0	0
+1.0	Wang Ling-chiao	be take away by	Investigation Bureau officer	PERSON	ORGANIZATION
+1.0	media	describe as	action	0	0
+1.0	China Rebar	have	debt	LOCATION	0
+1.0	Rebar group	have	headquarters	O	O
+1.0	group	have	unit	O	O
+1.0	Wednesday	have	founder	O	O
+1.0	group founder Wang You-theng	have	son	O	PERSON
+0.9357704206194211	bankruptcy reorganisation application	unit of	rebar	0	0
+1.0	Chinese Bank	have	vice president	O	ORGANIZATION
+1.0	loss	be in	its man-made fiber business	0	0
+1.0	Premier Su Tseng	tell	cabinet meeting	PERSON	0
+1.0	great chinese bill Finance Corporation	unit of	group	ORGANIZATION	0
+1.0	local stock market	have	have hit hard	0	0
+1.0	Wang You-theng	fly	Rebar founder	PERSON	MISC
+1.0	stock market	have	have hit by storm	0	0
+1.0	local media	describe as	action	0	0
+1.0	investigator	raid	headquarters	0	0
+1.0	stock market	have	have hit hard	0	0
+1.0	Wang Ling-chiao	have	Wang Ling-yi	PERSON	PERSON
+1.0	Taipei	have	Apple Daily	LOCATION	ORGANIZATION
+1.0	group 's trouble	come to	light	0	0
+1.0	trust	have	breach	O	O
+1.0	local media	describe as	unprecedented action	0	0
+1.0	Wang You-theng	fly to	Shanghai	PERSON	LOCATION
+1.0	local stock market	have	have hit by financial storm	0	0
+1.0	finance minister Ho Chih-chin	step	Financial Supervisory Commission Chairman Shih jun-ji	PERSON	ORGANIZATION
+0.9357704206194211	bankruptcy reorganisation application	stricken unit of	rebar	0	0
+1.0	local stock market	have	have hit	0	0
+1.0	commission	have	watchlist	O	O
+1.0	stock market	have	have hit hard by financial storm	0	0
+1.0	stock market	have	have hit	0	0
+0.47937962732886696	local stock market	fall at_time	Wednesday	0	DATE
+1.0	stock market	have	have hit by financial storm	0	0
+1.0	local stock market	have	have hit hard by storm	0	0
+1.0	he	have	investment	0	0
+1.0	Wang Ling-chiao	be take by	Investigation Bureau officer	PERSON	ORGANIZATION
+1.0	units	have	offices	O	O
+1.0	member	remain	conglomerate 's top executive	0	0
+1.0	group 's trouble	shortly come to	light	0	0
+1.0	Synthetic Fiber	have	vice chairman	O	ORGANIZATION
+1.0	conglomerate	have	executives	O	O
+1.0	Wang Ling-chiao 's brother Wang Ling-yi	be	question	PERSON	0
+1.0	company	be suffer from	19.9 billion dollar debt burden stem from loss	0	MONEY

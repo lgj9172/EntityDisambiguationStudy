@@ -1,0 +1,141 @@
+1.0	he burial	be in	Grand Rapids	0	LOCATION
+1.0	indictment	have	threat	O	O
+1.0	US troops	have	defenses	O	O
+1.0	decision	spark outrage at	time	0	DATE
+1.0	he presidency	be also mar by	retreat of US troops	0	LOCATION
+1.0	Ford	die in	California	ORGANIZATION	LOCATION
+1.0	Richard Nixon	resign over	corruption scandal	0	0
+1.0	Ford 's tenure	have	have widely praise as pivotal turning point in history	ORGANIZATION	0
+1.0	he presidency	be	mar by retreat of US troops after fall	0	LOCATION
+1.0	Gerald Ford	be	bury Wednesday on hill glisten on river below	PERSON	DATE
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+1.0	he presidency	be also mar after	fall	0	DATE
+1.0	Michigan Ford	be remember in	service of he burial	LOCATION	0
+1.0	he presidency	be	mar by humiliating retreat of US troops after fall	0	LOCATION
+1.0	burial	have	service	O	O
+1.0	House of Representatives	be in	the United States	ORGANIZATION	LOCATION
+1.0	Richard Nixon	resign in	August 1974	PERSON	DATE
+1.0	Ford	pay	price	ORGANIZATION	0
+1.0	Ford	have	tenure	ORGANIZATION	0
+1.0	Michigan Ford	be remember in	intimate service of he burial in Grand Rapids	LOCATION	LOCATION
+1.0	he presidency	be	also mar by humiliating retreat of US troops after fall	0	LOCATION
+1.0	Gerald Ford	be bury on	hill	PERSON	0
+1.0	he presidency	be	mar	0	0
+1.0	politics	have	era	O	O
+1.0	Michigan Ford	be	remember	LOCATION	0
+1.0	he presidency	be also mar by	humiliating retreat of US troops	0	LOCATION
+1.0	he presidency	be	also mar by retreat of US troops after fall	0	LOCATION
+1.0	way	be	ahead uncertain	0	0
+1.0	way	be	when ahead at best uncertain	0	0
+1.0	he presidency	be	mar by retreat after fall	0	DATE
+1.0	our	have	land	O	O
+1.0	25 year	be in	House of Representatives	DURATION	ORGANIZATION
+1.0	he presidency	be	also mar by humiliating retreat of US troops after fall of Saigon	0	LOCATION
+1.0	way	be	when at best uncertain	0	0
+1.0	previous vice president	resign over	corruption scandal	0	0
+1.0	Ford	lose	1976 presidential election	ORGANIZATION	DATE
+1.0	Gerald Ford	be bury at_time	Wednesday	PERSON	DATE
+1.0	Ford 's tenure	have	have widely praise as turning point in history	ORGANIZATION	0
+1.0	Gerald Ford	be bury on	hill glisten on river	PERSON	0
+1.0	Michigan Ford	be remember in	intimate service of he burial	LOCATION	0
+1.0	93	have	age	O	NUMBER
+1.0	Richard Nixon	ask	he	PERSON	0
+1.0	secretary	have	chief	O	O
+1.0	former president Jimmy Carter	repeat	opening line of he address	PERSON	0
+1.0	he presidency	be	also mar by retreat after fall of Saigon	0	DATE
+1.0	he presidency	be mar after	fall	0	DATE
+1.0	Gerald Ford	put	we	0	0
+1.0	Gerald Ford	be	bury Wednesday on hill	PERSON	DATE
+1.0	our	have	nightmare	O	O
+1.0	Ford	pay	heavy political price	ORGANIZATION	0
+1.0	he presidency	be mar by	retreat	0	0
+1.0	Ford 's tenure	have	have widely praise as pivotal turning point	ORGANIZATION	0
+1.0	Ford	die on	December 26	ORGANIZATION	DATE
+1.0	Ford	as	chief of staff of defense	ORGANIZATION	0
+1.0	Gerald Ford	have	burial	O	O
+1.0	former president Jimmy Carter	have	predecessor	O	O
+1.0	defense	have	chief	O	O
+1.0	he	be	Richard Nixon	0	0
+1.0	he presidency	be also mar by	humiliating retreat	0	0
+1.0	he presidency	be	also mar by humiliating retreat after fall	0	DATE
+1.0	Michigan Ford	be remember in	service of he burial in Grand Rapids	LOCATION	LOCATION
+1.0	Michigan Ford	be remember in	intimate service ahead of he burial	LOCATION	0
+1.0	Ford	serve for	29 month	ORGANIZATION	DURATION
+1.0	address	have	opening line	O	O
+1.0	Richard Nixon	resign under	threat of indictment	PERSON	0
+1.0	Michigan Ford	be remember in	service ahead of he burial in Grand Rapids	LOCATION	LOCATION
+1.0	he presidency	be also mar by	retreat	0	0
+1.0	he presidency	be mar by	retreat of US troops	0	LOCATION
+1.0	Ford	serve as	president	ORGANIZATION	0
+1.0	our	have	nation	O	O
+1.0	Ford 's tenure	have	have praise as turning point in american history	ORGANIZATION	0
+1.0	way	be	at best uncertain	0	0
+1.0	former president Jimmy Carter	repeat	opening line of he inaugural address	PERSON	0
+1.0	way	be	when uncertain	0	0
+1.0	Ford	serve for	25 year in US House	ORGANIZATION	LOCATION
+1.0	staff	have	chief	O	O
+1.0	Ford	pay	political price	ORGANIZATION	0
+1.0	he presidency	be mar by	humiliating retreat	0	0
+1.0	decision	spark	outrage	0	0
+1.0	presidency	have	strength	O	O
+1.0	Ford 's tenure	have	have widely praise as turning point in american history	ORGANIZATION	0
+1.0	Saigon	have	fall	DATE	LOCATION
+1.0	Ford	pay	heavy price	ORGANIZATION	0
+1.0	he presidency	be also mar after	fall of Saigon	0	DATE
+1.0	former president Jimmy Carter	have	address	O	O
+1.0	Ford	lose	1976 election	ORGANIZATION	DATE
+1.0	Gerald Ford	be	bury Wednesday on hill glisten	PERSON	DATE
+1.0	Ford	serve for	25 year	ORGANIZATION	DURATION
+1.0	Gerald Ford	have	museum	O	O
+1.0	Ford 's tenure	have	have widely praise as turning point	ORGANIZATION	0
+1.0	he presidency	be	also mar by retreat after fall	0	DATE
+1.0	Ford	die at	age	ORGANIZATION	0
+1.0	Lincoln	in	word	PERSON	0
+1.0	he presidency	be	mar by humiliating retreat after fall	0	DATE
+1.0	way	be	uncertain	0	0
+1.0	Michigan Ford	be remember in	intimate service ahead of he burial in Grand Rapids	LOCATION	LOCATION
+1.0	Ford	serve for	25 year in US House of Representatives	ORGANIZATION	LOCATION
+0.524585961830575	Gerald Ford	remind	american they be	0	0
+1.0	he presidency	be	mar by humiliating retreat of US troops after fall of Saigon	0	LOCATION
+1.0	Gerald Ford	be bury on	hill glisten	PERSON	0
+1.0	he presidency	be mar by	humiliating retreat of US troops	0	LOCATION
+1.0	Ford	die at	age of 93	ORGANIZATION	NUMBER
+1.0	Lincoln	have	words	O	PERSON
+1.0	US troops	have	retreat	O	O
+1.0	Ford 's tenure	have	have widely praise as pivotal turning point in american history	ORGANIZATION	0
+1.0	Gerald Ford	remind	american	0	0
+1.0	Gerald Ford	be	bury	PERSON	0
+1.0	he presidency	be	mar by retreat after fall of Saigon	0	DATE
+1.0	he presidency	be mar after	fall of Saigon	0	DATE
+1.0	former president Jimmy Carter	have	presidency	O	O
+1.0	he presidency	be	also mar	0	0
+1.0	Richard Nixon	have	pardon	O	O
+1.0	Gerald Ford	be bury on	hill glisten on river below	PERSON	0
+1.0	politics	bipartisanship over	bitterness	0	0
+1.0	Richard Nixon	resign under	threat	PERSON	0
+1.0	he presidency	be	mar by retreat of US troops after fall of Saigon	0	LOCATION
+1.0	Ford	have	tenure	O	ORGANIZATION
+1.0	he presidency	be	mar by humiliating retreat after fall of Saigon	0	DATE
+1.0	Ford 's tenure	have	have praise	ORGANIZATION	0
+1.0	pivotal turning point	be in	american history	0	0
+1.0	Ford	have	chief	O	ORGANIZATION
+1.0	Ford 's tenure	have	have praise as pivotal turning point in history	ORGANIZATION	0
+1.0	former president Jimmy Carter	repeat	opening line	PERSON	0
+1.0	Ford 's tenure	have	have praise as pivotal turning point in american history	ORGANIZATION	0
+1.0	Ford 's tenure	have	have praise as turning point	ORGANIZATION	0
+1.0	way	be	ahead at best uncertain	0	0
+1.0	Ford 's tenure	have	have praise as pivotal turning point	ORGANIZATION	0
+1.0	Michigan Ford	be remember in	service	LOCATION	0
+1.0	Ford 's tenure	have	have praise as turning point in history	ORGANIZATION	0
+1.0	operation	have	White House coverup	O	O
+1.0	Earth	have	hope	O	LOCATION
+1.0	former president Jimmy Carter	tell	mourner	PERSON	0
+1.0	he presidency	be	also mar by retreat of US troops after fall of Saigon	0	LOCATION
+1.0	Michigan Ford	be remember in	intimate service	LOCATION	0
+1.0	he presidency	be	also mar by humiliating retreat after fall of Saigon	0	DATE
+1.0	Michigan Ford	be remember in	service ahead of he burial	LOCATION	0
+1.0	Ford 's tenure	have	have widely praise	ORGANIZATION	0
+1.0	way	be	when ahead uncertain	0	0
+1.0	Ford	serve for	just 29 month	ORGANIZATION	DURATION
+1.0	Gerald Ford	be	bury Wednesday on hill glisten on river	PERSON	DATE
+1.0	Ford	pay price for	pardon	ORGANIZATION	0

@@ -1,0 +1,89 @@
+1.0	Wielgus	have	resignation	O	PERSON
+1.0	pope	speak during	he general audience at Vatican	0	LOCATION
+1.0	Pope Benedict XVI	make	veil appeal	PERSON	0
+1.0	Pope Benedict XVI on Wednesday	have	audience	O	O
+1.0	shock resignation	have	wake	O	O
+1.0	links	have	made	O	O
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake of shock resignation of Warsaw archbishop Stanislaw Wielgus	PERSON	PERSON
+1.0	source	say	dossier	0	0
+1.0	Pope Benedict XVI	make appeal because of	link to police	PERSON	0
+1.0	gesture	be in	use since early Christian Church	0	ORGANIZATION
+1.0	their hands	have	laying	O	O
+1.0	prelate	have	collaboration	O	O
+1.0	bishops	have	choice	O	O
+0.6247965484600756	cite	act of	Apostles	0	0
+0.1754504660296042	Pope Benedict XVI	appeal for	caution	PERSON	0
+1.0	Warsaw archbishop Stanislaw Wielgus	have	shock resignation	O	PERSON
+1.0	Pope Benedict XVI	make appeal because of	link	PERSON	0
+1.0	God	empower	person	0	0
+1.0	Pope Benedict XVI	make appeal because of	link to communist-era police	PERSON	0
+1.0	Pope Benedict XVI	make appeal because of	link to communist-era secret police	PERSON	0
+1.0	Pope Benedict XVI	make appeal in	choice	PERSON	0
+1.0	pope	speak during	he audience	0	0
+1.0	pope	speak of	the lay on of hand	0	0
+1.0	prelate	concern	past collaboration with communist regime	0	DATE
+1.0	men	have	sins	O	O
+1.0	pope	be force at_time	Sunday	0	DATE
+1.0	he	assume	Poland 's prestigious Church post	0	LOCATION
+1.0	Vatican	have	nuncio to Poland Jozef Kowalczyk	LOCATION	PERSON
+0.633593924617174	source	say on	on Wielgus past	0	DATE
+1.0	pope	speak during	he general audience	0	0
+1.0	he	officially assume	Poland 's Church post	0	LOCATION
+1.0	he	be	to which send	0	0
+1.0	God	be	ask	0	0
+1.0	Stanislaw Wielgus	be in	Poland	PERSON	LOCATION
+1.0	source	say dossier on	on Wielgus past	0	DATE
+1.0	pope	speak of	the lay	0	0
+0.9181145398406727	pontiff	be	participant	0	0
+1.0	bishops	have	appointment	O	O
+1.0	Wielgus	have	candidacy	O	PERSON
+1.0	prelate 's past collaboration	be with	Poland 's communist regime	DATE	LOCATION
+1.0	Stanislaw Wielgus	be of	Warsaw	PERSON	LOCATION
+1.0	Stanislaw Wielgus	be archbishop of	Warsaw	PERSON	LOCATION
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake of shock resignation of would-be Warsaw archbishop Stanislaw Wielgus	PERSON	PERSON
+1.0	pope	cite	act	0	0
+1.0	Benedict XVI	be on	Wednesday	PERSON	DATE
+1.0	he	be	send	0	0
+1.0	Pope Benedict XVI	make	appeal for caution	PERSON	0
+1.0	he	be send	represent	0	0
+1.0	revelations	have	weeks	DURATION	O
+1.0	pope	speak during	he weekly general audience	0	SET
+1.0	pope	accept	Wielgus ' resignation	0	PERSON
+1.0	the	have	spoke	O	O
+1.0	Apostles	have	Acts	O	O
+1.0	Poland	with	communist regime	LOCATION	0
+1.0	Poland	have	Church post	O	LOCATION
+1.0	God	empower	person for service	0	0
+1.0	Pope Benedict XVI	make	appeal	PERSON	0
+1.0	pope	speak of	the	0	0
+1.0	Poland	have	prestigious Church post	LOCATION	0
+1.0	other man	in	sin	0	0
+1.0	The pontiff	have	Letter	O	O
+1.0	bishop	be in	wake of shock resignation of would-be Warsaw archbishop Stanislaw Wielgus	0	PERSON
+1.0	Pope Benedict XVI	make	veil appeal for caution	PERSON	0
+1.0	Pope Benedict XVI	make appeal in	choice of bishop	PERSON	0
+0.9181145398406727	pontiff	be participant in	other man 's sin	0	0
+1.0	pope	speak during	he weekly general audience at Vatican	0	SET
+1.0	Poland	have	regime	O	LOCATION
+1.0	participant	be in	other man 's sin	0	0
+1.0	Jozef Kowalczyk	be to	Poland	PERSON	LOCATION
+1.0	God	be	by which ask	0	0
+1.0	pope	cite	act of Apostles	0	0
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake of shock resignation	PERSON	0
+0.1754504660296042	Pope Benedict XVI	veil appeal for	caution	PERSON	0
+0.9760327182976819	news agency	specialize in	Vatican	0	LOCATION
+1.0	pope	be	force	0	0
+1.0	pope	speak during	he weekly audience at Vatican	0	SET
+1.0	he	assume	Poland 's Church post	0	LOCATION
+1.0	pope	speak during	he weekly audience	0	SET
+1.0	on hand	gesture in	use since early Christian Church	0	ORGANIZATION
+1.0	gesture	be	important	0	0
+1.0	Pope Benedict XVI	make appeal because of	link to secret police	PERSON	0
+0.9181145398406727	pontiff	be participant in	man 's sin	0	0
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake	PERSON	0
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake of shock resignation of Warsaw archbishop Stanislaw Wielgus in Poland	PERSON	PERSON
+1.0	Pope Benedict XVI	make appeal in	choice of bishop in wake of shock resignation of would-be Warsaw archbishop Stanislaw Wielgus in Poland	PERSON	PERSON
+1.0	pope	speak during	he audience at Vatican	0	LOCATION
+1.0	he	officially assume	Poland 's prestigious Church post	0	LOCATION
+1.0	The first deacons	have	hands	O	O
+1.0	Vatican	have	nuncio	O	LOCATION

@@ -1,0 +1,49 @@
+1.0	move	come amid	tension	0	0
+1.0	move	come amid	mount tension between United States over its program	0	LOCATION
+1.0	move	be	mention by President George W. Bush Wednesday	0	DATE
+1.0	US military official	say at_time	Thursday	LOCATION	DATE
+1.0	move	come amid	mount tension	0	0
+1.0	missiles	have	threats	O	O
+1.0	Somalia	have	Gulf	LOCATION	LOCATION
+1.0	senior US military official	say at_time	Thursday	LOCATION	DATE
+1.0	security	be in	region	0	0
+1.0	George W. Bush	be in	televise speech	PERSON	0
+1.0	move	come amid	mount tension between United States over its nuclear program	0	LOCATION
+1.0	months	have	period	O	DURATION
+1.0	move	be	mention by President George W. Bush in televise speech Wednesday	0	DATE
+1.0	move	come amid	tension over its program	0	0
+1.0	US force	conduct	air strike	LOCATION	0
+1.0	air defense battalion	also go to	region	0	0
+1.0	US military presence	be in	region	LOCATION	0
+1.0	carrier battle group	be in	Gulf	0	LOCATION
+1.0	Patriot missile batteries	have	deployment	O	O
+1.0	Pentagon announce	order	deployment of aircraft carrier USS John C. Stennis	ORGANIZATION	PERSON
+1.0	aircraft carrier USS John C. Stennis	have	deployment	O	PERSON
+1.0	move	come amid	tension between United States over its program	0	LOCATION
+1.0	move	be mention by	President George W. Bush in televise speech	0	PERSON
+1.0	move	come amid	tension over its nuclear program	0	0
+0.4824727217255587	air defense battalion	equip with	patriot missile defense system	0	0
+1.0	move	be mention by	President George W. Bush in speech	0	PERSON
+1.0	two carrier	be in	region	NUMBER	0
+1.0	its	have	program	O	O
+1.0	move	be mention by	President George W. Bush	0	PERSON
+1.0	US official	say at_time	Thursday	LOCATION	DATE
+1.0	senior US official	say at_time	Thursday	LOCATION	DATE
+1.0	Iraq	have	US invasion	O	LOCATION
+1.0	USS Dwight D. Eisenhower aircraft carrier strike	be in	region	ORGANIZATION	0
+1.0	move	come amid	mount tension over its program	0	0
+1.0	move	come amid	mount tension over its nuclear program	0	0
+1.0	Pentagon announce	order	deployment	ORGANIZATION	0
+1.0	move	be	mention by President George W. Bush in speech Wednesday	0	DATE
+1.0	move	be mention at_time	Wednesday	0	DATE
+1.0	meddling	have	US charges	O	O
+1.0	move	come amid	tension between United States over its nuclear program	0	LOCATION
+1.0	US force	conduct air strike at_time	Monday	LOCATION	DATE
+1.0	Gulf	be for	month	LOCATION	0
+1.0	iranian meddling	be in	Iraq	0	LOCATION
+1.0	move	come amid	tension between United States	0	LOCATION
+1.0	move	come amid	mount tension between United States	0	LOCATION
+1.0	move	be	mention	0	0
+1.0	air defense battalion	go to	region	0	0
+1.0	Arbil	have	city	O	LOCATION
+1.0	US force	conduct air strike at_time	early Monday	LOCATION	DATE

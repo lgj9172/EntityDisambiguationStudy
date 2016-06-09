@@ -1,0 +1,21 @@
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic of country 's airspace	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after last week 's closure of country 's airspace	PERSON	LOCATION
+1.0	airspace	have	resumption	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu of country 's airspace	PERSON	LOCATION
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic	PERSON	0
+1.0	airport	be in	Mogadishu	0	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after week 's closure	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after closure of country 's airspace	PERSON	LOCATION
+1.0	country	have	airspace	O	O
+1.0	air traffic	have	resumption	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of country 's airspace	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce resumption at_time	Tuesday	PERSON	DATE
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after last week 's closure	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after week 's closure of country 's airspace	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu	PERSON	LOCATION
+1.0	country	of	airspace	0	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport of country 's airspace	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption of air traffic to airport in Mogadishu after closure	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	announce	resumption	PERSON	0

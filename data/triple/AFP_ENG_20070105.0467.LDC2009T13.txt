@@ -1,0 +1,84 @@
+1.0	Pfizer	be by	the United States	ORGANIZATION	LOCATION
+1.0	A dog	be	when 20 percent over he ideal weight	0	PERCENT
+1.0	FDA	of	Center for veterinary medicine	ORGANIZATION	ORGANIZATION
+1.0	overweight pet	be at	risk from condition to diabetes to problem	0	0
+1.0	overweight pet	be at	higher risk from condition	0	0
+1.0	diet pill	be	available by prescription in United States	0	LOCATION
+1.0	first diet pill	be	available by prescription in United States	ORDINAL	LOCATION
+1.0	it	be lot about	lifestyle	0	0
+1.0	pet	be at	higher risk from cardiovascular condition	0	0
+1.0	overweight pet	be at	risk	0	0
+1.0	Stephen Sundlof	director of	Center for veterinary medicine	PERSON	ORGANIZATION
+1.0	overweight pet	be at	higher risk from cardiovascular condition	0	0
+1.0	pet	be at	higher risk from condition	0	0
+1.0	dog	be	consider	0	0
+1.0	pet	be at	risk from cardiovascular condition to diabetes to joint problem	0	0
+1.0	pet	be at	risk from condition to diabetes	0	0
+1.0	pet	be at	risk from cardiovascular condition to diabetes to problem	0	0
+1.0	higher risk	develop	various health problem	0	0
+1.0	62 million dog	be in	United States	NUMBER	LOCATION
+1.0	diet pill	be available in	the United States	0	LOCATION
+1.0	overweight pet	be at	risk from cardiovascular condition to diabetes	0	0
+1.0	overweight pet	be at	higher risk from cardiovascular condition to diabetes to joint problem	0	0
+1.0	diet pill	be	soon available	0	0
+1.0	overweight pet	be at	higher risk from cardiovascular condition to diabetes to problem	0	0
+1.0	diet pill	soon be available in	the United States	0	LOCATION
+1.0	diet pill	soon be available by	prescription	0	0
+1.0	overweight pet	be at	risk from condition to diabetes	0	0
+0.9309807656084246	pet	develop	various health problem	0	0
+1.0	higher risk	develop	health problem	0	0
+1.0	overweight pet	be at	higher risk from cardiovascular condition to diabetes	0	0
+1.0	overweight pet	be at	risk from condition to diabetes to joint problem	0	0
+1.0	overweight pet	be at	higher risk	0	0
+1.0	dogs	have	percent	PERCENT	O
+1.0	pet	be at	higher risk from condition to diabetes to problem	0	0
+1.0	pet	be at	higher risk from cardiovascular condition to diabetes	0	0
+1.0	diet pill	be	soon available by prescription in United States	0	LOCATION
+1.0	pet	be at	risk from condition to diabetes to joint problem	0	0
+1.0	pet	be at	risk from cardiovascular condition to diabetes	0	0
+1.0	pet	be at	higher risk from cardiovascular condition to diabetes to joint problem	0	0
+1.0	first diet pill	soon be available by	prescription	ORDINAL	0
+1.0	overweight pet	be at	risk from cardiovascular condition to diabetes to problem	0	0
+1.0	pet	be at	higher risk from cardiovascular condition to diabetes to problem	0	0
+1.0	Food Administration	announce at_time	Friday	ORGANIZATION	DATE
+1.0	first diet pill	be available by	prescription	ORDINAL	0
+1.0	first diet pill	be	soon available	ORDINAL	0
+1.0	A dog	be	20 percent	0	PERCENT
+1.0	first diet pill	soon be available in	the United States	ORDINAL	LOCATION
+1.0	first diet pill	be	available	ORDINAL	0
+1.0	A dog	be	when 20 percent over he weight	0	PERCENT
+1.0	pet	be at	higher risk	0	0
+1.0	FDA	have	Center	ORGANIZATION	ORGANIZATION
+1.0	overweight pet	be at	risk from cardiovascular condition to diabetes to joint problem	0	0
+1.0	A dog	be	20 percent over he ideal weight	0	PERCENT
+1.0	overweight pet	be at	higher risk from condition to diabetes to joint problem	0	0
+1.0	diet pill	be available by	prescription	0	0
+0.9309807656084246	overweight pet	develop	health problem	0	0
+1.0	overweight pet	be at	higher risk from condition to diabetes	0	0
+1.0	first diet pill	be	soon available by prescription in United States	ORDINAL	LOCATION
+1.0	pet	be at	higher risk from condition to diabetes	0	0
+0.9309807656084246	pet	develop	health problem	0	0
+1.0	overweight pet	be at	risk from condition	0	0
+1.0	dog	be consider	obese	0	0
+1.0	it	be	lot	0	0
+1.0	their	have	dogs	O	O
+1.0	risk	develop	various health problem	0	0
+1.0	Pfizer	be drug maker of	the United States	ORGANIZATION	LOCATION
+1.0	pet	be at	risk from condition	0	0
+1.0	A dog	have	weight	O	O
+1.0	pet	be at	risk from condition to diabetes to problem	0	0
+1.0	A dog	be	20 percent over he weight	0	PERCENT
+1.0	overweight pet	be at	higher risk from condition to diabetes to problem	0	0
+1.0	A dog	be	when 20 percent	0	PERCENT
+1.0	pet	be at	higher risk from condition to diabetes to joint problem	0	0
+0.9309807656084246	overweight pet	develop	various health problem	0	0
+1.0	Center	have	director	O	ORGANIZATION
+1.0	diet pill	be	available	0	0
+1.0	risk	develop	health problem	0	0
+1.0	pet	be at	risk	0	0
+1.0	first diet pill	be available in	the United States	ORDINAL	LOCATION
+1.0	veterinarian	be	aware	0	0
+1.0	overweight pet	be at	risk from cardiovascular condition	0	0
+1.0	pet	be at	risk from cardiovascular condition	0	0
+1.0	this	be	welcome	0	0
+1.0	veterinarian	be	well aware	0	0

@@ -1,0 +1,44 @@
+1.0	Social Democrats	be	Kurt Beck	ORGANIZATION	PERSON
+1.0	Henrico Frank	get	shave	PERSON	0
+1.0	Social Democrats	have	leader	O	ORGANIZATION
+1.0	bearded leader	to reference be	Kurt Beck	0	PERSON
+1.0	he	become after	incident	0	0
+1.0	peers	have	one	NUMBER	O
+1.0	he	receive	host	0	0
+0.6224433672375739	you	work in	three week ' time	0	DURATION
+1.0	the remark	be	see by some to Germany 's	0	LOCATION
+1.0	Beck	have	reaction	O	PERSON
+1.0	Germany	have	Social Democrats	ORGANIZATION	LOCATION
+1.0	Germany	of	Social Democrats	LOCATION	ORGANIZATION
+1.0	work	be in	three week ' time	0	DURATION
+1.0	the remark	be	see by some as insult to Germany 's	0	LOCATION
+1.0	protestor	hold	banner read	0	0
+0.5249172882554555	receive	host of	job offer	0	0
+1.0	Some 50 jobless men on Tuesday	have	peers	O	O
+1.0	parliament	have	cut	O	O
+1.0	he	receive	host of job offer	0	0
+1.0	Some 50 jobless men on Tuesday	have	hair	O	O
+1.0	he	become	famous	0	0
+1.0	politician	have	advice	O	O
+1.0	protestor	hold	banner	0	0
+1.0	Beck	have	reaction	PERSON	0
+1.0	state	have	minister	O	O
+1.0	Frank	have	piercings	O	O
+1.0	he	briefly become after	incident	0	0
+1.0	weeks	have	time	O	DURATION
+1.0	the remark	be see by	some as insult	0	0
+1.0	you	will find	work in three week ' time	0	DURATION
+1.0	the remark	be	see	0	0
+1.0	remark	spark	outcry	0	0
+1.0	the remark	be see by	some	0	0
+1.0	he	briefly become	famous	0	0
+1.0	the remark	be see 's	Germany 's	0	LOCATION
+1.0	Mainz	have	city	O	LOCATION
+1.0	politician	at	advice	0	0
+1.0	unemployed Henrico Frank	get	shave	PERSON	0
+1.0	job offers	have	host	O	O
+1.0	regional parliament	be in	southwestern german city of Mainz	0	LOCATION
+1.0	some as an insult	have	any	O	O
+1.0	you	will find	work	0	0
+1.0	Kurt Beck	be on	December 12	PERSON	DATE
+1.0	Rhineland-Palatinate	have	state	O	LOCATION

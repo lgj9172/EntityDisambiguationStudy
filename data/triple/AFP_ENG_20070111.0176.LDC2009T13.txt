@@ -1,0 +1,58 @@
+1.0	former ruler	play	role	0	0
+1.0	aides	have	11	NUMBER	O
+0.9971272854766761	he	be	sentence	0	0
+1.0	our	have	guest	O	O
+1.0	Comrade Mengistu	remain	special guest of government	LOCATION	0
+1.0	former ruler	play	key role	0	0
+1.0	government	be	aware	0	0
+1.0	genocide	have	counts	O	O
+1.0	Comrade Mengistu	remain	special guest of zimbabwean government	LOCATION	0
+1.0	former Ethiopian dictator Mengistu Haile Mariam after he was sentenced to life for genocide Thursday	have	ouster	O	O
+1.0	Comrade Mengistu	still remain	special guest of government	LOCATION	0
+0.9971272854766761	he	be sentence to	life	0	0
+1.0	have exile	be in	Harare	0	LOCATION
+1.0	Zimbabwe	in	1970s liberation struggle	LOCATION	DATE
+1.0	Comrade Mengistu	special guest of	government	LOCATION	0
+1.0	Zimbabwe	have	liberation struggle	O	LOCATION
+1.0	Comrade Mengistu	remain despite	judicial ruling	LOCATION	0
+1.0	Comrade Mengistu	still remain	special guest of zimbabwean government	LOCATION	0
+1.0	Comrade Mengistu	still remain	guest	LOCATION	0
+1.0	Comrade Mengistu	still remain despite	ruling	LOCATION	0
+1.0	Zimbabwe	have	government	O	LOCATION
+1.0	information minister Paul Mangwana	tell	AFP	PERSON	ORGANIZATION
+1.0	process	have	aware	O	O
+0.9971272854766761	he	be sentence to	life for genocide	0	0
+1.0	Comrade Mengistu	remain	guest of government	LOCATION	0
+1.0	Comrade Mengistu	still remain	act	LOCATION	0
+1.0	Comrade Mengistu	special guest of	zimbabwean government	LOCATION	0
+1.0	judicial ruling	be in	Ethiopia	0	LOCATION
+1.0	Mengistu Haile Mariam	be	ethiopian	PERSON	0
+0.9971272854766761	he	be	sentence to life Thursday	0	DATE
+1.0	Comrade Mengistu	still remain despite	judicial ruling	LOCATION	0
+1.0	Comrade Mengistu	still remain	special guest	LOCATION	0
+1.0	former ruler	play role in	Zimbabwe 's 1970s liberation struggle	0	DATE
+1.0	Zimbabwe 's	have	government	O	LOCATION
+1.0	government	have	guest	O	O
+1.0	Comrade Mengistu	remain	guest	LOCATION	0
+1.0	former Ethiopian dictator Mengistu Haile Mariam after he was sentenced to life for genocide Thursday	have	conviction	O	O
+1.0	Zimbabwe	have	government	LOCATION	0
+1.0	Comrade Mengistu	still remain despite	ruling in Ethiopia	LOCATION	LOCATION
+1.0	Comrade Mengistu	still remain despite	judicial ruling in Ethiopia	LOCATION	LOCATION
+1.0	Zimbabwe 's government	describe	he	LOCATION	0
+1.0	Comrade Mengistu	remain despite	ruling in Ethiopia	LOCATION	LOCATION
+1.0	former Ethiopian dictator Mengistu Haile Mariam after he was sentenced to life for genocide Thursday	have	aides	O	O
+1.0	government	be	fully aware	0	0
+1.0	place	be in	Ethiopia	0	LOCATION
+1.0	Comrade Mengistu	remain	guest of zimbabwean government	LOCATION	0
+1.0	he ouster	be in	1991	0	DATE
+1.0	his aides on 211 counts of genocide	respect	Zimbabwe 's government	0	0
+1.0	Comrade Mengistu	remain	act	LOCATION	0
+1.0	Comrade Mengistu	remain despite	judicial ruling in Ethiopia	LOCATION	LOCATION
+1.0	Comrade Mengistu	remain despite	ruling	LOCATION	0
+1.0	Comrade Mengistu	still remain	guest of zimbabwean government	LOCATION	0
+1.0	Comrade Mengistu	remain	special guest	LOCATION	0
+0.9971272854766761	he	be	sentence to life for genocide Thursday	0	DATE
+1.0	Comrade Mengistu	guest of	government	LOCATION	0
+1.0	Comrade Mengistu	still remain	guest of government	LOCATION	0
+0.9971272854766761	he	be sentence at_time	Thursday	0	DATE
+1.0	Comrade Mengistu	guest of	zimbabwean government	LOCATION	0

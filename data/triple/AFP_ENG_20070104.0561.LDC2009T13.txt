@@ -1,0 +1,78 @@
+1.0	Macclesfield	boast	form	ORGANIZATION	0
+1.0	management style	have	asked	O	O
+1.0	it	be	obviously different	0	0
+1.0	Chelsea	have	standards	O	PERSON
+1.0	premiership title	remain	Mourinho 's top priority	0	PERSON
+1.0	famous trophy	be in	world	0	0
+1.0	they	manager	Paul Ince	0	PERSON
+1.0	their	have	players	O	O
+1.0	top 2,000	rarely earn	they player	NUMBER	DURATION
+1.0	Chelsea	have grow into	one of richest organisation in world football	PERSON	NUMBER
+1.0	form	have	run	O	O
+1.0	his	have	management style	O	O
+1.0	league	have	pressures	O	O
+1.0	this	have add to	the Football League	0	0
+1.0	day	have	rewards	O	DURATION
+1.0	Paul Ince	have	result	O	PERSON
+1.0	times	have	couple	O	O
+1.0	Roman Abramovich	of	multi-billion pound fortune	PERSON	0
+1.0	buzz	come as	result of Paul Ince	0	PERSON
+1.0	Month award	have	Manager	O	O
+1.0	organisations	have	one	NUMBER	O
+1.0	it	be harder in	competition renown	0	0
+1.0	staff	have	member	O	O
+1.0	Macclesfield	certainly boast	better form	ORGANIZATION	0
+1.0	Saturday	have	FA Cup	DATE	MISC
+1.0	Macclesfield	certainly boast	form	ORGANIZATION	0
+1.0	Mourinho	take charge in	2004	PERSON	DATE
+1.0	unbeaten streak	have	courtesy	O	O
+1.0	Saturday	have	FA Cup	MISC	DATE
+1.0	Cup	be	intense	MISC	0
+1.0	players	have	host	O	O
+1.0	Macclesfield on a map	have	romance	O	O
+1.0	it	imagine	starker contrast	0	0
+1.0	it	be harder in	competition	0	0
+1.0	pound fortune	have	back	O	O
+1.0	third premiership title	remain	Mourinho 's priority	ORDINAL	PERSON
+1.0	Chelsea	have grow on	back of Roman Abramovich 's pound fortune	PERSON	PERSON
+1.0	Chelsea	have grow into	one of organisation	PERSON	NUMBER
+1.0	pundits	have	manager	O	O
+1.0	it	be harder in	competition renown for its romance	0	0
+1.0	buzz	come as	result	0	0
+0.7149120287791494	competition	renown for	its romance	0	0
+1.0	Chelsea	have grow into	one richest organisation in world football	PERSON	NUMBER
+1.0	richest organisation	be in	world football	0	0
+1.0	it	obviously be different from	league	0	0
+1.0	Macclesfield	of	staff	ORGANIZATION	0
+1.0	Macclesfield	have	staff	O	ORGANIZATION
+1.0	Chelsea	have grow on	back	PERSON	0
+1.0	Roman Abramovich	have	pound fortune	O	PERSON
+1.0	minnows	have	one	NUMBER	O
+1.0	premiership title	remain	Mourinho 's priority	0	PERSON
+1.0	Chelsea	have grow into	one organisation in world football	PERSON	NUMBER
+1.0	Mourinho	have	priority	O	PERSON
+1.0	Chelsea	have grow into	one organisation	PERSON	NUMBER
+1.0	it	be different from	league	0	0
+1.0	games	have	loads	O	O
+1.0	Chelsea	have grow into	one of richest organisation	PERSON	NUMBER
+1.0	it	be	harder	0	0
+1.0	it	be	different	0	0
+1.0	tie	be with	host of key player miss	0	0
+1.0	it	imagine	contrast	0	0
+1.0	Macclesfield	boast	better form	ORGANIZATION	0
+1.0	Chelsea	have grow into	one richest organisation	PERSON	NUMBER
+1.0	Football League	have	bottom	O	ORGANIZATION
+1.0	Chelsea	have grow on	back of Roman Abramovich 's multi-billion pound fortune	PERSON	PERSON
+1.0	Jose Mourinho	have	arrival	O	O
+1.0	Mourinho	take	charge	PERSON	0
+1.0	Macclesfield	of	day	ORGANIZATION	DURATION
+1.0	Chelsea	have grow into	one of organisation in world football	PERSON	NUMBER
+1.0	top 2,000	earn	they player	NUMBER	DURATION
+1.0	his	have	time	O	O
+0.49939527238482123	we	have get in	club	0	0
+1.0	football	have	minnows	O	O
+1.0	bottom	have	lifted	O	O
+1.0	Mourinho	have	top priority	PERSON	0
+1.0	english football	of	genuine minnow	0	0
+1.0	Macclesfield	have	day	DURATION	ORGANIZATION
+1.0	third premiership title	remain	Mourinho 's top priority	ORDINAL	PERSON

@@ -1,0 +1,18 @@
+1.0	delivery	be	expect	0	0
+1.0	pipeline company Transneft	have	deputy head	O	ORGANIZATION
+1.0	republic	have	demand	O	O
+1.0	oil	have	siphoning	O	O
+1.0	breakthrough	have	wake	O	O
+1.0	Belarus	have	direction	O	LOCATION
+1.0	official	be in	Belarus	0	LOCATION
+1.0	oil	have	deliveries	O	O
+1.0	denial	follow	statement	0	0
+1.0	deputy chairman Sergei Grigoryev	tell	state-run ria novostus news agency	PERSON	0
+1.0	ex-soviet republic	have	illegal demand for transit fee	0	0
+1.0	Interfax news agency	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Russia	cut	oil supplies	LOCATION	0
+1.0	Russia	cut	oil supplies via Belarus	LOCATION	LOCATION
+1.0	Russia	cut	oil supplies via Belarus in response	LOCATION	LOCATION
+1.0	Belarus	be in	response	LOCATION	0
+1.0	deputy chairman Sergei Grigoryev	tell	ria novostus news agency	PERSON	0
+1.0	breakthrough	be in	negotiation	0	0

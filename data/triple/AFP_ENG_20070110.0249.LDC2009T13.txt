@@ -1,0 +1,55 @@
+1.0	Lorraine	be inmate at	separate jail	0	0
+1.0	Lorraine	give	age	PERSON	0
+1.0	his	have	wife	O	O
+1.0	Lorraine	have	age	O	PERSON
+1.0	Lorraine	be inmate at	jail	0	0
+1.0	husband	have	lengthy sentence	0	0
+1.0	Kirk Dickson	have	wife Lorraine	PERSON	O
+1.0	court	be	due	0	0
+1.0	Lorraine	be	48	PERSON	NUMBER
+1.0	child	have	effect	0	0
+1.0	the British government	have	youth	O	O
+1.0	court	render decison on	appeal at date	0	0
+1.0	lawyer Flo Krause	argue during	appeal hearing before rights court	PERSON	0
+1.0	youth	have	most	O	O
+1.0	Flo Krause	have	wife	O	O
+0.6693381532074719	child	stabilize effect on	couple	0	0
+1.0	children	be	able	0	0
+1.0	children	be able give	Lorraine 's age	0	PERSON
+1.0	child	would	would deprive of father for most of its youth	0	0
+0.6693381532074719	child	effect on	couple	0	0
+1.0	prison	through	pen pal service	0	0
+0.16904727547904508	imprisonment	intend to	effect	0	0
+1.0	british court	have deny	they request	0	0
+1.0	child	have	effect on couple	0	0
+1.0	father	have	deprived	O	O
+0.6401434917191718	lawyer Flo Krause	represent	Kirk Dickson	PERSON	PERSON
+1.0	prison	have	pen pal service	O	O
+1.0	child	would	would deprive of father for most	0	0
+1.0	child	have	stabilize effect on couple	0	0
+1.0	them	have	request	O	O
+1.0	right	have	deprivation	O	O
+1.0	Lorraine	be	inmate	0	0
+1.0	Dovergate prison	be in	England	LOCATION	LOCATION
+1.0	Kirk Dickson	be	34	PERSON	NUMBER
+1.0	children	resort to	artificial insemination	0	0
+1.0	Kirk Dickson	have	sentence	O	O
+1.0	child	have	stabilize effect	0	0
+1.0	Human Rights	have	European Court	O	O
+1.0	court	have deny	they request	0	0
+1.0	child	would	would deprive of father	0	0
+1.0	court	render	decison	0	0
+1.0	lawyer Flo Krause	argue during	appeal hearing before rights court on Wednesday	PERSON	DATE
+1.0	lawyer Flo Krause	argue during	appeal hearing	PERSON	0
+1.0	court	render decison on	appeal	0	0
+0.16904727547904508	deprivation	be part	imprisonment intend	0	0
+1.0	decision	deny	they procedure	0	0
+1.0	court	render decison on	appeal at later date	0	0
+1.0	child	would	would deprive	0	0
+1.0	deprivation	have	part	O	O
+1.0	liberty	have	deprivation	O	O
+0.16904727547904508	deprivation	be part	imprisonment intend to effect	0	0
+1.0	Kirk Dickson	be serve	he sentence	PERSON	0
+1.0	husband	have	sentence	O	O
+1.0	Kirk Dickson	be currently serve	he sentence	PERSON	0
+1.0	England	be in	Uttoxeter	LOCATION	LOCATION

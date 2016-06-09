@@ -1,0 +1,43 @@
+1.0	Research Conservation Center	have	director	O	ORGANIZATION
+1.0	space	have	running	O	O
+1.0	center	house	generation of baby cub	0	0
+1.0	breed center	run with	increase in birth	0	0
+1.0	center	house	generation	0	0
+1.0	home	have	have mountain of China	0	LOCATION
+1.0	southwest China	have	Sichuan province	LOCATION	LOCATION
+1.0	Sichuan province	have	wilds	O	LOCATION
+1.0	Four-year-old Xiang Xiang	have	home	O	O
+1.0	breed center	house	new generation	0	0
+1.0	center	run with	increase in birth	0	0
+1.0	such efforts to return pandas bred and raised in captivity into the wilds of southwest China 's Sichuan province	have	years	DURATION	O
+1.0	center	house	new generation of baby cub	0	0
+1.0	key	be	try	0	0
+1.0	center	run with	increase in captive birth	0	0
+1.0	breed center	house	generation	0	0
+1.0	breed center	run with	increase	0	0
+1.0	traditional home	have	have mountain	0	0
+1.0	Sichuan	have	Wolong Giant Panda Breeding Center	LOCATION	LOCATION
+1.0	center	house	new generation	0	0
+1.0	traditional home	have	have mountain of central China	0	LOCATION
+1.0	Sichuan	from	Wolong Giant Panda Breeding Center	LOCATION	LOCATION
+1.0	living fossils	have	1,600	NUMBER	O
+1.0	Xiang Xiang	be	four-year-old	PERSON	0
+1.0	Zhang hemin	director of	Research and Conservation Center	PERSON	ORGANIZATION
+1.0	increase	be in	captive birth	0	0
+1.0	captivity	be in	2005	0	DATE
+1.0	China	have	mountains	O	LOCATION
+1.0	insemination	have	way	O	O
+1.0	home	have	have mountain of central China	0	LOCATION
+1.0	money	have	running	O	O
+1.0	breed center	run with	increase in captive birth	0	0
+1.0	traditional home	have	have mountain of China	0	LOCATION
+1.0	baby cubs	have	generation	O	O
+1.0	center	run with	increase	0	0
+1.0	center	force	researcher	0	0
+1.0	breed center	house	new generation of baby cub	0	0
+1.0	home	have	have mountain	0	0
+1.0	breed center	house	generation of baby cub	0	0
+1.0	China	of	Sichuan province	ORGANIZATION	LOCATION
+1.0	artificial insemination	be in	2006	0	DATE
+1.0	34 captive birth	be in	2006	NUMBER	DATE
+1.0	breed center	force	researcher	0	0

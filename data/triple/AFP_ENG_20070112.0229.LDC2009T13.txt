@@ -1,0 +1,45 @@
+1.0	Japan	make	amends	LOCATION	0
+1.0	Japan	make	greater amends	LOCATION	0
+1.0	Afghanistan	in	Baghlan province	LOCATION	LOCATION
+1.0	Brussels	be on	later Friday	LOCATION	DATE
+1.0	Tokyo	have	willingness play in peacekeeping	LOCATION	0
+1.0	he counterpart	say at_time	later Friday	0	DATE
+1.0	Taro Aso	be by	Japanese	PERSON	MISC
+1.0	Afghanistan	have	Baghlan province	LOCATION	LOCATION
+0.5254831307016441	Foreign Minister Kinga Goncz	tell	joint press conference	PERSON	0
+1.0	Tokyo	have	willingness	O	LOCATION
+1.0	council	have	members	O	O
+1.0	aso	tighten	tie	0	0
+1.0	Japan	have	drive	O	LOCATION
+0.5254831307016441	hungarian Foreign Minister Kinga Goncz	tell press conference in	parliament	PERSON	0
+1.0	Taro Aso	have	counterpart	O	O
+0.5254831307016441	Foreign Minister Kinga Goncz	tell press conference in	parliament	PERSON	0
+1.0	attempt	fall in	2005	0	DATE
+1.0	PRT	be situate in	Afghanistan 's Baghlan province	0	LOCATION
+1.0	joint attempt	fall in	2005	0	DATE
+1.0	Japan	for	drive become	LOCATION	0
+1.0	he hungarian counterpart	say at_time	later Friday	0	DATE
+0.5254831307016441	hungarian Foreign Minister Kinga Goncz	tell	joint press conference	PERSON	0
+1.0	Taro Aso	also say in	Budapest	PERSON	LOCATION
+1.0	military alliance	in	peacekeeping	0	0
+1.0	Japan	have	Prime Minister Shinzo Abe	PERSON	LOCATION
+1.0	PRT	be situate in	Afghanistan 's northern Baghlan province	0	LOCATION
+1.0	NATO headquarters	be in	Brussels	ORGANIZATION	LOCATION
+1.0	Taro Aso	say in	Budapest	PERSON	LOCATION
+1.0	Kinga Goncz	be	hungarian	PERSON	0
+1.0	aso	tighten	economic tie	0	0
+0.5254831307016441	hungarian Foreign Minister Kinga Goncz	tell	press conference	PERSON	0
+1.0	Ferenc Gyurcsany	be	hungarian	PERSON	0
+1.0	NATO member Hungary	be member of	NATO	LOCATION	ORGANIZATION
+1.0	aso	be tour	central	0	0
+0.5254831307016441	hungarian Foreign Minister Kinga Goncz	tell press conference with	aso	PERSON	0
+1.0	PRT	be	situate	0	0
+1.0	NATO member Hungary	be by	NATO	LOCATION	ORGANIZATION
+0.5254831307016441	Foreign Minister Kinga Goncz	tell	press conference	PERSON	0
+1.0	Japan 's Prime Minister Shinzo Abe	voice	Tokyo 's willingness	LOCATION	LOCATION
+1.0	Shinzo Abe	be prime minister of	Japan	PERSON	LOCATION
+1.0	Japan	have	Shinzo Abe	LOCATION	PERSON
+1.0	alliance	have	peacekeeping	O	O
+1.0	UN Security Council	have	member	O	ORGANIZATION
+0.5254831307016441	Foreign Minister Kinga Goncz	tell press conference with	aso	PERSON	0
+1.0	japanese participation	be in	hungarian Afghan PRT	0	MISC

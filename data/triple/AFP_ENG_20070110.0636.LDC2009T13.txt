@@ -1,0 +1,170 @@
+1.0	trader attention	will shift in	London	0	LOCATION
+1.0	John Kicklighter	analyst at	Forex Capital Markets	PERSON	ORGANIZATION
+1.0	dollar	stand in	late New York trade	0	LOCATION
+1.0	government report	raise	expectation of improved growth	0	0
+1.0	third consecutive contraction	be in	trade shortfall	ORDINAL	0
+1.0	industrial output datum	disappoint accord to	analyst	0	0
+1.0	pound	be	be trade at 1.9319 dollar after 1.9395 on Tuesday	0	MONEY
+1.0	Bank	keep	they main borrowing cost unchanged at 5.00 percent	ORGANIZATION	PERCENT
+1.0	pound	be	be trade on Tuesday	0	DATE
+1.0	french output datum	even disappoint to	downside	0	0
+1.0	oil price	narrow	US trade deficit	0	LOCATION
+1.0	change	be in	market 's expectation for US borrowing cost	0	LOCATION
+1.0	US currency	have additionally gain	support	LOCATION	0
+1.0	US currency	have gain support from	change in market 's expectation for US borrowing cost	LOCATION	LOCATION
+1.0	euro	mark	its lowest level	0	0
+1.0	trade imbalance	have	narrowing	O	O
+1.0	Bank	be	expect	ORGANIZATION	0
+1.0	England	have	Bank	O	LOCATION
+1.0	pound	be	be trade at 1.9319 dollar on Tuesday	0	MONEY
+1.0	french output datum	disappoint accord to	analyst	0	0
+1.0	output datum	disappoint to	downside	0	0
+1.0	Bank	be expect	keep	ORGANIZATION	0
+1.0	1.2928 dollar	be in	earlier trading	MONEY	0
+1.0	they borrowing cost	unchanged at	5.00 percent	0	PERCENT
+1.0	euro	mark	its level	0	0
+1.0	2006	have	end	DATE	DATE
+1.0	trade numbers	have	back	O	O
+1.0	dollar	climb from	119.34 yen on Tuesday	0	MONEY
+1.0	ensue statement	reflect	fairly hawkish tone	0	0
+1.0	dollar	stand at	1.2464 swiss franc	0	MONEY
+1.0	its	have	level	O	O
+1.0	ensue statement	be	likely	0	0
+1.0	US currency	have gain support from	change	LOCATION	0
+1.0	government report	raise	expectation of economic growth	0	0
+1.0	Thursday	have	bank decisions	O	DATE
+1.0	percent	have	margin	O	PERCENT
+1.0	Bank	keep	they main borrowing cost unchanged at 5.00 percent respectively	ORGANIZATION	PERCENT
+1.0	ensue statement	reflect	tone	0	0
+1.0	euro	however have slump	as low as 1.2928 dollar in trading	0	MONEY
+1.0	Bank	keep	they borrowing cost unchanged respectively	ORGANIZATION	0
+1.0	Commerce Department	have	measure of trade deficit	ORGANIZATION	0
+1.0	the euro	have	level	O	O
+1.0	growth	have	expectations	O	O
+1.0	trade deficit	have	measure	O	O
+1.0	dollar	climb to	119.59 yen	0	MONEY
+1.0	euro	mark	its lowest level against dollar	0	0
+1.0	euro	be	quote	0	0
+1.0	pound	be	be trade at 1.9319 dollar	0	MONEY
+1.0	oil price	meanwhile fall to	they level	0	0
+1.0	market	in	expectation for US borrowing cost	0	LOCATION
+1.0	statement	reflect	tone	0	0
+1.0	Commerce Department	have	measure	O	ORGANIZATION
+1.0	US dollar	strike	seven-week high	LOCATION	DURATION
+1.0	export	increase by	margin	0	0
+1.0	euro	be	quote at 1.2935 dollar at 2200 GMT down from 1.3000 dollar Tuesday in New York	0	MISC
+1.0	statement	reflect	hawkish tone	0	0
+1.0	euro	be	quote at 1.2935 dollar in New York	0	MONEY
+1.0	market	have	expectation of modest swell for month	0	DATE
+1.0	french output datum	even disappoint accord to	analyst	0	0
+1.0	Bank	keep	they borrowing cost unchanged at 5.00 percent respectively	ORGANIZATION	PERCENT
+1.0	US currency	have additionally gain support from	change in market 's expectation	LOCATION	0
+1.0	trader attention	will now shift toward	Thursday 's bank decision	0	DATE
+1.0	improvement	be in	US trade deficit to its lowest level since July 2005	0	LOCATION
+1.0	tone	pave soon	way	0	0
+1.0	output datum	even disappoint accord to	analyst	0	0
+1.0	Commerce Department	report at_time	morning	ORGANIZATION	TIME
+1.0	output datum	disappoint accord to	analyst	0	0
+0.28627611980559997	import	rise to	183 billion dollar	0	MONEY
+1.0	export	increase by	larger margin	0	0
+1.0	Bank	keep	they borrowing cost unchanged at 5.00 percent	ORGANIZATION	PERCENT
+1.0	US currency	have gain support from	change in market 's expectation	LOCATION	0
+1.0	Jean-Claude Trichet	be from	ecb	PERSON	0
+1.0	industrial output datum	even disappoint accord to	analyst	0	0
+1.0	euro	have slump	as low as 1.2928 dollar	0	MONEY
+1.0	dollar	gain momentum on	back of trade number	0	0
+1.0	euro	be quote at	1.2935 dollar at 2200 GMT down from 1.3000 dollar Tuesday	0	MISC
+1.0	Bank	keep	they main borrowing cost unchanged	ORGANIZATION	0
+1.0	statement	be	likely	0	0
+1.0	euro	be quote at	1.2935 dollar at 2200 GMT	0	MISC
+1.0	euro	have slump	as low as 1.2928 dollar in trading	0	MONEY
+1.0	they borrowing cost	unchanged respectively at	5.00 percent	0	PERCENT
+1.0	dollar	stand at_time	Tuesday	0	DATE
+1.0	Commerce Department	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	oil price	meanwhile fall to	they lowest level	0	0
+1.0	US dollar	strike	high	LOCATION	0
+1.0	euro	be quote at	1.2935 dollar at 2200 GMT down from 1.3000 dollar late Tuesday	0	MISC
+1.0	euro	be	quote at 1.2935 dollar at 2200 GMT down from 1.3000 dollar in New York	0	MISC
+1.0	hawkish tone	pave hike soon	way	0	0
+1.0	hawkish tone	pave soon	way	0	0
+1.0	euro	be	quote at 1.2935 dollar at 2200 GMT down from 1.3000 dollar late Tuesday in New York	0	MISC
+1.0	euro	however have slump	as low as 1.2928 dollar	0	MONEY
+1.0	government report	show at_time	unexpected fall	0	DATE
+1.0	dollar	stand in	New York trade	0	LOCATION
+1.0	their	have	levels	O	O
+1.0	euro	be	quote at 1.2935 dollar at 2200 GMT down in New York	0	MISC
+1.0	58.2 billion dollar	be in	November 23	MONEY	DATE
+1.0	US currency	have additionally gain support from	change	LOCATION	0
+1.0	government report	raise	expectation of improved economic growth	0	0
+1.0	euro	however have slump	as low as 1.2928 dollar in earlier trading	0	MONEY
+1.0	export	increase by	larger margin of 0.9 percent	0	PERCENT
+1.0	government report	raise	expectation of growth	0	0
+1.0	Central Bank	have	Bank	O	ORGANIZATION
+1.0	industrial output datum	even disappoint to	downside	0	0
+1.0	their	have	borrowing costs	O	O
+1.0	output datum	even disappoint to	downside	0	0
+1.0	dollar	stand at	1.2464 franc	0	MONEY
+1.0	dollar	meanwhile climb from	119.34 yen	0	MONEY
+1.0	industrial output datum	disappoint to	downside	0	0
+1.0	oil price	meanwhile fall since	mid-2005	0	0
+1.0	french industrial output datum	disappoint accord to	analyst	0	0
+1.0	trader attention	will shift toward	Thursday 's bank decision	0	DATE
+1.0	market	have	expectation	O	O
+1.0	euro	be quote at	1.2935 dollar at 2200 GMT down	0	MISC
+1.0	export	increase to	124.8 billion dollar	0	MONEY
+1.0	they main borrowing cost	unchanged at	5.00 percent	0	PERCENT
+1.0	government report	show at_time	fall	0	DATE
+1.0	euro	be quote at	1.2935 dollar	0	MONEY
+1.0	trader attention	will now shift in	London	0	LOCATION
+1.0	modest	have	expectation	O	O
+1.0	statement	reflect	fairly hawkish tone	0	0
+1.0	french industrial output datum	even disappoint accord to	analyst	0	0
+1.0	world	have	largest economy	0	0
+1.0	tone	pave	way	0	0
+1.0	euro	have slump	as low as 1.2928 dollar in earlier trading	0	MONEY
+1.0	pound	be	be trade	0	0
+1.0	euro	be quote at	1.2935 dollar at 2200 GMT down from 1.3000 dollar	0	MISC
+1.0	euro	mark	its lowest level against dollar since November 23	0	DATE
+1.0	Jean-Claude Trichet	be president of	ecb	PERSON	0
+1.0	euro	be	quote at 1.2935 dollar at 2200 GMT in New York	0	MISC
+1.0	euro	mark	its level against dollar	0	0
+1.0	lower oil price	narrow	US trade deficit	0	LOCATION
+1.0	import	rise	0.3 percent	0	PERCENT
+1.0	dollar	meanwhile climb to	119.59 yen	0	MONEY
+1.0	US currency	have additionally gain support from	change in market 's expectation for US borrowing cost	LOCATION	LOCATION
+1.0	oil price	fall to	they level	0	0
+1.0	dollar	gain momentum on	back	0	0
+1.0	trader attention	will now shift toward	Thursday 's central bank decision	0	DATE
+1.0	dollar	stand at	1.2464 swiss franc from 1.2408	0	NUMBER
+1.0	recession	have	risk	O	O
+1.0	pound	be	be trade after 1.9395	0	NUMBER
+1.0	french output datum	disappoint to	downside	0	0
+1.0	tone	pave hike soon	way	0	0
+1.0	Thursday	toward	central bank decision	DATE	0
+1.0	pound	be	be trade at 1.9319 dollar after 1.9395	0	MONEY
+1.0	the US trade deficit	have	level	O	O
+1.0	world	have	economy	O	O
+1.0	dollar	gain	momentum	0	0
+1.0	euro	mark	its level against dollar since November 23	0	DATE
+1.0	dollar	meanwhile climb from	119.34 yen on Tuesday	0	MONEY
+1.0	US currency	have gain	support	LOCATION	0
+1.0	french industrial output datum	even disappoint to	downside	0	0
+1.0	pound	be	be trade after 1.9395 on Tuesday	0	DATE
+1.0	government report	raise	expectation	0	0
+1.0	oil price	fall to	they lowest level	0	0
+1.0	ensue statement	reflect	hawkish tone	0	0
+1.0	oil price	fall since	mid-2005	0	0
+1.0	french industrial output datum	disappoint to	downside	0	0
+1.0	government report	show in	US trade deficit	0	LOCATION
+1.0	emerge dollar bull	contraction in	trade shortfall	0	0
+1.0	dollar	climb from	119.34 yen	0	MONEY
+1.0	ensue statement	reflect	fairly tone	0	0
+1.0	euro	be quote in	New York	0	LOCATION
+1.0	export	increase by	margin of 0.9 percent	0	PERCENT
+1.0	they main borrowing cost	unchanged respectively at	5.00 percent	0	PERCENT
+1.0	trader attention	will shift toward	Thursday 's central bank decision	0	DATE
+1.0	Bank	keep	they main borrowing cost unchanged respectively	ORGANIZATION	0
+1.0	statement	reflect	fairly tone	0	0
+1.0	Bank	keep	they borrowing cost unchanged	ORGANIZATION	0
+1.0	hawkish tone	pave	way	0	0
+1.0	dollar	stand at	1.2464 franc from 1.2408	0	NUMBER

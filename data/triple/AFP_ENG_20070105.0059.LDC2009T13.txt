@@ -1,0 +1,41 @@
+1.0	Duan Wende	manager 's	company	PERSON	0
+0.164266332496663	natural gas output	jump to	5.7 billion meter	0	NUMBER
+1.0	domestic oil resource	seem	be dry	0	0
+1.0	China National Petroleum Corp	company 's	nation	ORGANIZATION	0
+1.0	overseas oil production	however double to	54 million tonne	0	NUMBER
+1.0	crude oil output	be in	China	0	LOCATION
+1.0	overseas oil production	double at_time	last year	0	DATE
+1.0	China National Petroleum Corp -LRB- CNPC -RRB-	have	oil output	O	O
+1.0	gas output	have	most	O	O
+1.0	company	have	senior management	0	0
+1.0	nation	have	energy company	O	O
+1.0	oil resource	seem	be dry	0	0
+1.0	oil	have	most	O	O
+1.0	overseas oil production	however double at_time	year	0	DATE
+1.0	company 's management	say at_time	Friday	0	DATE
+1.0	company	have	vice general manager	0	0
+1.0	overseas oil production	double at_time	year	0	DATE
+1.0	company	have	vice manager	O	O
+1.0	gas	have	output	O	O
+1.0	China	be in	2006	LOCATION	DATE
+1.0	company	have	oil	O	O
+1.0	oil production	however double to	54 million tonne	0	NUMBER
+0.164266332496663	gas output	jump to	5.7 billion meter	0	NUMBER
+1.0	oil production	double to	54 million tonne	0	NUMBER
+1.0	Duan Wende	tell	conference	PERSON	0
+1.0	company	of	overseas oil	0	0
+0.164266332496663	natural gas output	jump to	5.7 billion cubic meter	0	NUMBER
+1.0	oil production	double at_time	last year	0	DATE
+1.0	oil production	however double at_time	year	0	DATE
+1.0	nation	have	top energy company	0	0
+1.0	oil production	however double at_time	last year	0	DATE
+1.0	gas output	jump	42 percent	0	PERCENT
+1.0	oil resource	seem	be dry up	0	0
+1.0	oil production	double at_time	year	0	DATE
+1.0	domestic oil resource	seem	be dry up	0	0
+1.0	natural gas output	jump	42 percent	0	PERCENT
+1.0	overseas oil production	double to	54 million tonne	0	NUMBER
+1.0	company	have	management	O	O
+1.0	105.95 million tonne	be in	2005	MONEY	DATE
+0.164266332496663	gas output	jump to	5.7 billion cubic meter	0	NUMBER
+1.0	overseas oil production	however double at_time	last year	0	DATE

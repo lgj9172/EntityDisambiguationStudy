@@ -1,0 +1,62 @@
+1.0	source	be refer to	area hit	0	0
+1.0	they	yet account for	some burn	0	0
+1.0	source	be refer to	same area	0	0
+1.0	source	be refer to	area hit by at least one air raid on Monday	0	NUMBER
+1.0	civilian	be	kill	0	0
+1.0	other	be launch by	helicopter	0	0
+1.0	Abdullahi Ali Malabon	tell afp from	area	0	0
+0.5887385002868528	Dhobley resident	tell	afp	LOCATION	0
+1.0	100 civilian	be kill in	US	NUMBER	LOCATION
+1.0	ethiopian air strike	be in	region	0	0
+1.0	they	account for	29 body	0	NUMBER
+1.0	civilian	be kill in	US	0	LOCATION
+1.0	they	only yet account for	some	0	0
+1.0	source	be refer to	area hit on Monday	0	DATE
+1.0	Afmadow area	one of	several	LOCATION	0
+1.0	29 dead people	some of	they	NUMBER	0
+1.0	they	only account for	some burn beyond recognition	0	0
+1.0	they	only yet account for	some burn beyond recognition	0	0
+1.0	other	believe	have launch by ethiopian helicopter	0	0
+1.0	resident	also speak	elder	0	0
+1.0	Abdullahi Ali Malabon	tell afp by	phone	0	0
+1.0	source	be refer to	same area hit by at least one air raid on Monday	0	NUMBER
+1.0	source	be refer to	same area hit on Monday	0	DATE
+1.0	they	account for	some	0	0
+1.0	resident	speak	elder	0	0
+1.0	they	yet account for	some	0	0
+1.0	Abdullahi Ali Malabon	elder in	Afmadow area	PERSON	LOCATION
+1.0	they	only yet account for	29 body	0	NUMBER
+1.0	Afmadow	have	villages	O	LOCATION
+1.0	Abdullahi Ali Malabon	tell	afp	0	0
+1.0	100 civilian	be	kill	NUMBER	0
+1.0	clan elder	say	resident	0	0
+1.0	they	account for	some burn	0	0
+1.0	other	be launch by	ethiopian helicopter	0	0
+1.0	Somalia	have	clan elders	O	LOCATION
+1.0	source	be refer to	area hit by at least one air raid	0	NUMBER
+1.0	source	be refer to	area	0	0
+1.0	they	only account for	29 body	0	NUMBER
+1.0	cows	have	most	O	O
+1.0	their	have	bodies	O	O
+1.0	Moalim Adan Osman	say	elder	PERSON	0
+1.0	they	only account for	some	0	0
+1.0	Dhobley	have	villages	O	LOCATION
+1.0	they	account for	some burn beyond recognition	0	0
+1.0	they	yet account for	29 body	0	NUMBER
+1.0	source	be refer to	same area hit	0	0
+1.0	they	yet account for	some burn beyond recognition	0	0
+1.0	other	believe	have launch	0	0
+1.0	other	believe	have launch by helicopter	0	0
+1.0	Abdullahi Ali Malabon	tell afp from	remote area	0	0
+1.0	somali clan elder	say	resident	0	0
+1.0	several	have	one	NUMBER	O
+1.0	people	have	lot	O	O
+1.0	they	only account for	some burn	0	0
+1.0	deaths	have	spoke	O	O
+1.0	29 dead people	have	some	O	O
+1.0	they	only yet account for	some burn	0	0
+1.0	source	be refer to	same area hit by at least one air raid	0	NUMBER
+1.0	it	be	unclear	0	0
+1.0	their	have	animals	O	O
+1.0	them	have	some	O	O
+1.0	other	be	launch	0	0

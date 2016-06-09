@@ -1,0 +1,50 @@
+1.0	Japan 's authority	impose	its largest-ever fine of 500 million yen	LOCATION	MONEY
+1.0	Nikko Cordial	have book capital gain by	two of its subsidiary	0	NUMBER
+1.0	Nikko Cordial	have improperly book	capital gain	0	0
+0.4806553369157919	brokerage firm Nikko Cordial	issue	false earnings report	ORGANIZATION	0
+1.0	Nikko Cordial	have	chairman	O	ORGANIZATION
+1.0	chairman	step at_time	week	0	DATE
+1.0	Nikko Cordial	have improperly book capital gain by	two its subsidiary	0	NUMBER
+1.0	Japan	have	authority	O	LOCATION
+1.0	yen	have	fine	O	MONEY
+1.0	Japan	have	trading house	O	LOCATION
+1.0	Japan 's financial authority	impose	its fine of 500 million yen	LOCATION	MONEY
+1.0	Nikko Cordial	have book capital gain by	two its subsidiary	0	NUMBER
+1.0	Nikko Cordial	have improperly book	capital gain on derivative arrangement	0	0
+1.0	TSE	have	listing rules	O	ORGANIZATION
+1.0	chairman	step down at_time	week	0	DATE
+1.0	chairman	step down	president	0	0
+1.0	Japan 's authority	impose	its fine	LOCATION	0
+1.0	Nikko Cordial	have book	capital gain	0	0
+1.0	chairman	take responsibility for	accounting practice	0	0
+1.0	chairman	step down at_time	last week	0	DATE
+1.0	subsidiaries	have	two	NUMBER	O
+1.0	Japan 's financial authority	impose	its largest-ever fine of 500 million yen	LOCATION	MONEY
+1.0	Japan	have	third-largest trading house	LOCATION	0
+1.0	chairman	take	responsibility	0	0
+1.0	Nikko Cordial	have improperly book capital gain by	two of its subsidiary	0	NUMBER
+1.0	Nikko Cordial	correct	its net profit	ORGANIZATION	0
+1.0	Japan	have	financial authority on Friday	LOCATION	DATE
+1.0	Japan 's authority	impose	its largest-ever fine	LOCATION	0
+1.0	Nikko Cordial	have book capital gain in	year	0	DATE
+1.0	chairman	step at_time	last week	0	DATE
+1.0	Japan 's financial authority	impose	its largest-ever fine	LOCATION	0
+1.0	TSE	have	listing rule	ORGANIZATION	0
+1.0	chairman	take	president	0	0
+1.0	Nikko Cordial	have	profit	O	O
+1.0	Japan 's financial authority on Friday	have	fine	O	O
+1.0	Japan 's authority	impose	its fine of 500 million yen	LOCATION	MONEY
+1.0	Nikko Cordial	have book capital gain in	year to March 2005	0	DATE
+1.0	Tokyo Stock Exchange	place	Nikko Cordial	ORGANIZATION	ORGANIZATION
+1.0	Nikko Cordial	correct	its profit	ORGANIZATION	0
+1.0	chairman	step	president	0	0
+1.0	March 6	be in	line	DATE	0
+1.0	Nikko Cordial	have improperly book capital gain in	year	0	DATE
+1.0	Nikko Cordial	have improperly book capital gain in	year to March 2005	0	DATE
+1.0	Japan 's financial authority	impose	its fine	LOCATION	0
+1.0	its	have	subsidiaries	O	O
+1.0	Nikko Cordial	have improperly book	capital gain on arrangement	0	0
+1.0	Nikko Cordial	have book	capital gain on arrangement	0	0
+1.0	Nikko Cordial	have book	capital gain on derivative arrangement	0	0
+1.0	accounting flaw	unveil by	firm	0	0
+1.0	chairman	take responsibility for	improper accounting practice	0	0

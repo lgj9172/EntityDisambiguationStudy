@@ -1,0 +1,16 @@
+1.0	Tajik president	have	press service	O	O
+1.0	spokesman	tell	afp	0	0
+1.0	Tajikistan	have	Emomali Rakhmonov	LOCATION	PERSON
+1.0	mountainous border	run for	322 mile	0	NUMBER
+1.0	demarcation dispute	have	settlement	O	O
+1.0	Hu Jintao	be with	chinese	PERSON	0
+1.0	Tajikistan	have	President Emomali Rakhmonov	PERSON	LOCATION
+1.0	country	have	part	O	O
+1.0	Emomali Rakhmonov	be president of	Tajikistan	PERSON	LOCATION
+1.0	two power line	repair	road	NUMBER	0
+1.0	border	run for	519 kilometre	0	NUMBER
+1.0	Tajik president 's press service	say at_time	Wednesday	MISC	DATE
+1.0	trade talk	be with	Hu Jintao	0	PERSON
+1.0	Tajik president	have	press service	MISC	0
+1.0	mountainous border	run for	519 kilometre	0	NUMBER
+1.0	border	run for	322 mile	0	NUMBER

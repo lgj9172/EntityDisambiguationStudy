@@ -1,0 +1,45 @@
+1.0	french Interior Minister	announce	crime figure	0	0
+1.0	French Interior Minister	be	nominate as candidate by ruling Union	0	ORGANIZATION
+1.0	French Interior Minister	be officially nominate by	ruling Union	0	ORGANIZATION
+1.0	French Interior Minister	be officially nominate as	candidate	0	ORGANIZATION
+1.0	concern	have	source	O	O
+1.0	Interior Minister	announce	crime figure	0	0
+1.0	French Interior Minister	be officially nominate as	presidential candidate	0	ORGANIZATION
+1.0	neck	be with	Segolene Royal	0	PERSON
+1.0	1.33 percent cut	be in	overall crime	PERCENT	0
+1.0	which	have	French Interior Minister	O	O
+1.0	presidential hopeful Nicolas Sarkozy	announce	1.33 percent cut in overall crime	PERSON	PERCENT
+1.0	overall crime	be in	2006	0	DATE
+1.0	French Interior Minister	be	due	0	0
+1.0	French Interior Minister	be	officially nominate as candidate by ruling Union	0	ORGANIZATION
+1.0	presidential hopeful Nicolas Sarkozy	announce	1.33 percent cut in crime	PERSON	PERCENT
+1.0	presidential hopeful Nicolas Sarkozy	announce	1.33 percent cut in crime in 2006	PERSON	PERCENT
+1.0	Interior Minister	announce	hopeful Nicolas Sarkozy	0	PERSON
+1.0	french Interior Minister	announce crime figure at_time	Thursday	0	DATE
+1.0	election	take	place	0	0
+1.0	French Interior Minister	be	nominate	0	ORGANIZATION
+1.0	french Interior Minister	announce	presidential hopeful Nicolas Sarkozy	0	PERSON
+1.0	French Interior Minister	be	nominate as presidential candidate by ruling Union	0	ORGANIZATION
+1.0	French Interior Minister	be	officially nominate as presidential candidate by ruling Union	0	ORGANIZATION
+1.0	French Interior Minister	be nominate by	ruling Union	0	ORGANIZATION
+1.0	rise	be in	physical violence	0	0
+1.0	french Interior Minister	announce	Nicolas Sarkozy	0	PERSON
+1.0	French Interior Minister	be	officially nominate	0	ORGANIZATION
+1.0	minister	be speak to	press	0	0
+1.0	fall	be in	offence record under current government but rise	DATE	DATE
+1.0	minister	be speak at_time	three day	0	DURATION
+1.0	French Interior Minister	be nominate as	candidate	0	ORGANIZATION
+1.0	French Interior Minister	be nominate as	presidential candidate	0	ORGANIZATION
+1.0	presidential election	take	place in April	0	DATE
+1.0	presidential election	take	place	0	0
+1.0	French Interior Minister	be	of which party chief	0	ORGANIZATION
+1.0	Interior Minister	announce	Nicolas Sarkozy	0	PERSON
+1.0	presidential hopeful Nicolas Sarkozy	be	neck-and	PERSON	0
+1.0	presidential hopeful Nicolas Sarkozy	announce	1.33 percent cut in overall crime in 2006	PERSON	PERCENT
+1.0	French Interior Minister	be	French Interior Minister	0	ORGANIZATION
+1.0	presidential hopeful Nicolas Sarkozy	announce	1.33 percent cut	PERSON	PERCENT
+1.0	election	take	place in April	0	DATE
+1.0	Interior Minister	announce crime figure at_time	Thursday	0	DATE
+1.0	french Interior Minister	announce	hopeful Nicolas Sarkozy	0	PERSON
+1.0	Interior Minister	announce	presidential hopeful Nicolas Sarkozy	0	PERSON
+1.0	place	be in	April	0	DATE

@@ -1,0 +1,35 @@
+1.0	hour	be in	Scotland	DURATION	LOCATION
+1.0	Passengers	have	operator	O	O
+1.0	ferry	leave dover about	50	0	NUMBER
+1.0	ferry	normally leave dover around	daily clock	0	SET
+1.0	passenger	contact	they operator	0	0
+1.0	west-southwesterly wind	gale up	force nine	0	NUMBER
+1.0	ferry	leave dover around	clock	0	0
+1.0	90 mile	be	put	NUMBER	0
+1.0	wind	gale up	force nine	0	NUMBER
+1.0	hour	per mile be	87 kilometre	DURATION	NUMBER
+1.0	ferry	leave dover around	daily clock	0	SET
+1.0	ferry	leave	Dover	0	LOCATION
+1.0	a port spokeswoman	tell	AFP	0	ORGANIZATION
+1.0	wind	gale	force nine	0	NUMBER
+1.0	west-southwesterly wind	gale	force nine	0	NUMBER
+1.0	shipping lanes	have	one	NUMBER	O
+1.0	gale	elsewhere hit	rain	0	0
+1.0	hour	per mile be	144 kilometre	DURATION	NUMBER
+1.0	gale	elsewhere hit	heavy rain	0	0
+1.0	90 mile	be put on	flood alert	NUMBER	0
+1.0	mile	be put on	flood alert	0	0
+1.0	severe storm	be in	English Channel	0	MISC
+1.0	world	of	busiest shipping lane	0	0
+1.0	gale	hit	heavy rain	0	0
+1.0	gale	elsewhere hit	Britain	0	LOCATION
+1.0	gale	hit	Britain	0	LOCATION
+1.0	hour	per mile be	102 kilometer	DURATION	NUMBER
+1.0	ferry	normally leave dover about	50	0	NUMBER
+1.0	passenger	be	advise	0	0
+1.0	ferry	normally leave	Dover	0	LOCATION
+1.0	ferry	normally leave dover around	clock	0	0
+1.0	gale	hit	rain	0	0
+1.0	world	have	shipping lanes	O	O
+1.0	mile	be	put	0	0
+1.0	Dover	have	southeast English port	O	LOCATION

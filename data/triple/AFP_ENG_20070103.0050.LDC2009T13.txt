@@ -1,0 +1,48 @@
+1.0	disease	be also detect in	spot check	0	0
+1.0	Andrew Speedy	be country chief of	FAO	PERSON	ORGANIZATION
+1.0	toll	have	suffered	O	O
+1.0	bird flu	have	risk	O	O
+1.0	virus	have	situation testing samples	O	O
+1.0	vietnamese	warn at_time	Wednesday	0	DATE
+1.0	poultry flock	be in	country 's south	0	0
+1.0	virus	be detect in	poultry flock in country 's south in week	0	0
+1.0	157	have	toll	O	NUMBER
+1.0	five more province	be in	northern	NUMBER	0
+1.0	Vietnam	have	poultry	O	LOCATION
+1.0	virus	be detect in	poultry flock	0	0
+1.0	42 death	be in	two year	NUMBER	DURATION
+1.0	vietnamese	warn	United Nations	0	ORGANIZATION
+1.0	spot check	be in	early December	0	DATE
+1.0	poultry	have	most	O	O
+1.0	vietnamese	warn of	bird flu threat	0	0
+1.0	animal health department	have	head	O	O
+1.0	disease	be	detect	0	0
+1.0	disease	be also detect in	spot check in early December	0	DATE
+1.0	its	have	deaths	O	O
+1.0	country	in	south in recent week	0	DURATION
+1.0	disease	be detect in	spot check in early December	0	DATE
+1.0	birds	have	communes	O	O
+1.0	bird flu threat	have	warned	O	O
+1.0	Vietnam	in	central Quang Nam province	LOCATION	LOCATION
+1.0	virus	be	detect	0	0
+1.0	country	have	south	O	O
+1.0	sample	have	quarters	DURATION	O
+1.0	disease	be also detect in	spot check in December	0	DATE
+1.0	Vietnam	have	Quang Nam province	O	LOCATION
+1.0	vietnamese	warn of	heighten bird flu threat	0	0
+1.0	virus	be detect in	poultry flock in country 's south in recent week	0	DURATION
+1.0	Hoang Van Nam	tell	AFP	0	ORGANIZATION
+1.0	UN food	also stress	Agriculture Organisation	ORGANIZATION	ORGANIZATION
+1.0	ducks	have	sample	O	O
+1.0	country 's south	be in	recent week	0	DURATION
+1.0	disease	be	also detect	0	0
+1.0	UN food	stress	Agriculture Organisation	ORGANIZATION	ORGANIZATION
+1.0	upcoming seasonal peak	be in	chicken consumption	0	0
+1.0	disease	be detect in	spot check	0	0
+1.0	UN food	say	Agriculture Organisation	ORGANIZATION	ORGANIZATION
+1.0	Hoang Van Nam	head of	national animal health department	PERSON	0
+1.0	country chief Andrew Speedy	say	FAO	PERSON	ORGANIZATION
+1.0	resurgence	have	risk	O	O
+1.0	virus	be detect in	poultry flock in country 's south	0	0
+1.0	disease	be detect in	spot check in December	0	DATE
+1.0	risk	have	Vietnam	LOCATION	O

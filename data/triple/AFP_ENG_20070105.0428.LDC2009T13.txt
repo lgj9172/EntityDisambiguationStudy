@@ -1,0 +1,75 @@
+1.0	Steelers	become	team	ORGANIZATION	0
+1.0	two coach	be in	last four decade	NUMBER	DATE
+1.0	Famer Chuck Noll	have	Hall	ORGANIZATION	ORGANIZATION
+1.0	Bill Cowher	compile	161-99-1 record include 149-90-1 in regular season	PERSON	NUMBER
+1.0	Rooney family	hire	just two coach in last four decade	PERSON	DATE
+1.0	Bill Cowher	meet on	Tuesday in Raleigh Carolina	PERSON	DATE
+1.0	Cowher 49	make	he decision	NUMBER	0
+1.0	Steelers	win	three straight road playoff game	ORGANIZATION	NUMBER
+1.0	Cowher 49	meet with	Steelers chairman Dan Rooney	NUMBER	PERSON
+1.0	Cowher	win	Super Bowl	PERSON	MISC
+1.0	Bill Cowher	end	15-year run	PERSON	DURATION
+1.0	Rooney family	hire	two coach in last four decade	PERSON	DATE
+1.0	Bill Cowher	meet with	Steelers chairman Dan Rooney	PERSON	PERSON
+1.0	Cowher	be from	1992-2006	PERSON	DATE
+1.0	Steelers	make playoff as	AFC wild-card team	ORGANIZATION	0
+1.0	Bill Cowher	resign on	Friday	PERSON	DATE
+1.0	Cowher	win	Super Bowl for city	PERSON	MISC
+1.0	Cowher	become	know for he intensity	PERSON	0
+1.0	Cowher	know for	he intensity	PERSON	0
+1.0	Bill Cowher	compile	161-99-1 record include 149-90-1 in season	PERSON	NUMBER
+1.0	Steelers	make	playoff	ORGANIZATION	0
+1.0	Steelers	win	three road playoff game	ORGANIZATION	NUMBER
+1.0	Tuesday	be in	North Carolina	DATE	LOCATION
+1.0	Bill Cowher	have	family	O	O
+1.0	Cowher	become	coach	PERSON	0
+1.0	Pittsburgh Steelers	have	coach	O	ORGANIZATION
+1.0	Bill Cowher	have	wife	O	O
+1.0	family	have	interests	O	O
+1.0	president Art Rooney	be with	the Pittsburgh Steelers	PERSON	ORGANIZATION
+1.0	my wife	make	three daughter	0	NUMBER
+1.0	Cowher	become	second coach	PERSON	ORDINAL
+1.0	president Art Rooney	be chairman of	the Pittsburgh Steelers	PERSON	ORGANIZATION
+1.0	Bill Cowher	compile	161-99-1 record	PERSON	NUMBER
+1.0	Bill Cowher	have	decision	O	O
+1.0	his	have	intensity	O	O
+1.0	Bill Cowher	resign as	coach of Pittsburgh Steelers	PERSON	ORGANIZATION
+1.0	Bill Cowher	make	he decision	PERSON	0
+1.0	move	come	a year remove	0	DURATION
+1.0	Cowher 49	meet on	Tuesday	NUMBER	DATE
+1.0	Cowher	bear in	Pittsburgh	PERSON	LOCATION
+1.0	Steelers	become	first team	ORGANIZATION	ORDINAL
+1.0	Bill Cowher	compile	161-99-1 overall record include 149-90-1 in regular season	PERSON	NUMBER
+1.0	San Francisco	have	George Seifert	PERSON	LOCATION
+1.0	Bill Cowher	be look forward to	three	0	0
+1.0	Rooney family	hire	two coach	PERSON	NUMBER
+1.0	Cowher	become	just coach	PERSON	0
+1.0	Bill Cowher	end	run	PERSON	0
+1.0	Rooney family	hire	just two coach	PERSON	NUMBER
+1.0	move	come	a year	0	DURATION
+1.0	Bill Cowher	be look to	three	0	0
+1.0	Bill Cowher	compile	161-99-1 overall record	PERSON	NUMBER
+1.0	Seattle	be in	Super Bowl XL	LOCATION	0
+1.0	hall of Famer Chuck Noll	be from	1969-91	ORGANIZATION	DATE
+1.0	their	have	coach	O	O
+1.0	Bill Cowher	end run with	National Football League team	PERSON	ORGANIZATION
+1.0	coach	have	reflection	O	O
+1.0	Seattle	be	21-10	LOCATION	NUMBER
+1.0	birth	have	city	O	O
+1.0	Cowher	become	just second coach	PERSON	ORDINAL
+1.0	Cowher	become	know	PERSON	0
+1.0	George Seifert	be of	San Francisco	PERSON	LOCATION
+1.0	Cowher	win	Super Bowl for city of he birth	PERSON	MISC
+1.0	Rooney family	hire	two coach in four decade	PERSON	DATE
+1.0	Rooney family	hire	just two coach in four decade	PERSON	DATE
+1.0	Bill Cowher	resign as	coach	PERSON	0
+1.0	Bill Cowher	have	Super Bowl	O	O
+1.0	my wife	make	daughter	0	0
+1.0	his	have	birth	O	O
+1.0	Bill Cowher	meet on	Tuesday	PERSON	DATE
+1.0	Cowher 49	meet on	Tuesday in Raleigh Carolina	NUMBER	DATE
+1.0	Bill Cowher	be	49	PERSON	NUMBER
+1.0	energy	have	type	O	O
+1.0	Steelers	make playoff as	last AFC wild-card team	ORGANIZATION	DATE
+1.0	Bill Cowher	compile	161-99-1 overall record include 149-90-1 in season	PERSON	NUMBER
+1.0	Super Bowl title	be miss from	from Cowher	MISC	PERSON

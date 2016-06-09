@@ -1,0 +1,14 @@
+1.0	worker	be construct	pipeline in Nigeria	0	LOCATION
+1.0	worker	be construct	pipeline in southern Nigeria	0	LOCATION
+1.0	pipeline	be in	Nigeria	0	LOCATION
+1.0	kidnap worker	be construct	pipeline in Nigeria	0	LOCATION
+0.6506936855681408	employee	be	seize	0	0
+1.0	Construction	have	employees	O	ORGANIZATION
+1.0	kidnap worker	be construct	pipeline in southern Nigeria	0	LOCATION
+1.0	kidnap worker	be construct	pipeline	0	0
+1.0	Daewoo Engineering	have	employees	O	ORGANIZATION
+1.0	insurgents	have	group	O	O
+1.0	worker	be construct	pipeline	0	0
+1.0	Daewoo spokesperson	tell	afp	ORGANIZATION	0
+0.6506936855681408	employee	be seize at	4:50	0	TIME
+1.0	unidentified armed insurgent	be in	Nigeria	0	LOCATION

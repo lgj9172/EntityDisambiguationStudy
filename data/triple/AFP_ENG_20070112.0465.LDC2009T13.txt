@@ -1,0 +1,70 @@
+0.5977145059581984	crime	commit by	triple a	0	0
+1.0	Argentina	plunge	battle	LOCATION	0
+1.0	violence	have	vortex	O	O
+1.0	Peron	have	arrest	O	PERSON
+1.0	three-time president Juan Peron	have	mandate	O	O
+1.0	Argentina	plunge amid	extreme left	LOCATION	0
+1.0	he	mandate	1946-52	0	NUMBER
+1.0	Buenos Aires province	have	chief	O	O
+0.538846356896721	right death squad active	accuse of	1,500 murder	0	NUMBER
+1.0	president Juan Peron	pass in	he third mandate	PERSON	ORDINAL
+1.0	El Caudillo	be magazine of	triple a	PERSON	0
+1.0	judge	seek	Peron 's arrest for he probe	0	PERSON
+1.0	dominance	flex	its muscle	0	0
+0.538846356896721	right death squad	accuse of	1,500 murder	0	NUMBER
+0.538846356896721	death squad active	accuse of	1,500 murder	0	NUMBER
+1.0	Miguel Angel Rovira , a former police officer and member of the Argentine Anticommunist Alliance -LRB- AAA or Triple A -RRB-	have	most	O	O
+1.0	Peron	have	role	PERSON	0
+0.5977145059581984	crime	commit by	a	0	0
+1.0	murders	have	accused	O	O
+1.0	triple a	of	magazine	0	0
+1.0	dominance	flex	military	0	0
+1.0	judge	seek	Peron 's arrest for probe	0	PERSON
+1.0	dominance	increasingly flex	military	0	0
+1.0	Miguel Angel Rovira	have	investigation	O	O
+1.0	three-time president Juan Peron	become after	husband	PERSON	0
+1.0	three-time president Juan Peron	pass away in	he mandate	PERSON	0
+1.0	rights groups	have	estimates	O	O
+1.0	Isabel Peron	have	presidency	O	PERSON
+1.0	Isabel Peron	during	1974-1976 presidency	PERSON	DURATION
+1.0	judge	seek	arrest for he probe	0	0
+0.538846356896721	death squad	accuse of	1,500 murder	0	NUMBER
+1.0	president Juan Peron	pass away in	he third mandate	PERSON	ORDINAL
+1.0	dominance	increasingly flex	its muscle	0	0
+1.0	Norberto Oyarbide	have demand	arrest	PERSON	0
+1.0	Anticommunist Alliance	have	police officer	O	ORGANIZATION
+1.0	Miguel Angel Rovira	have	arrest	O	O
+1.0	three-time president Juan Peron	have	probe	O	O
+1.0	Argentina	plunge during	Isabel Peron 's 1974-1976 presidency	LOCATION	DURATION
+1.0	Argentina	plunge amid	left	LOCATION	0
+1.0	Isabel Peron	be in	the 1970	PERSON	DATE
+1.0	judge	seek	arrest for probe	0	0
+1.0	three-time president Juan Peron	pass away in	he third mandate	PERSON	ORDINAL
+1.0	Peron	have	presidency	O	PERSON
+1.0	triple a	's magazine be	El Caudillo	0	PERSON
+1.0	Norberto Oyarbide	have demand	arrest of Felipe Romeo	PERSON	PERSON
+1.0	Julio Troxler	have	September murder	O	PERSON
+1.0	magazine	have	director	O	O
+1.0	Miguel Angel Rovira	face	charge	PERSON	0
+1.0	Felipe Romeo	have	arrest	O	PERSON
+1.0	whose	have	whereabouts	O	O
+1.0	Peron	during	presidency	PERSON	0
+1.0	investigation	have	part	O	O
+1.0	Norberto Oyarbide	have also demand	arrest	PERSON	0
+1.0	Peron	have	role	O	PERSON
+1.0	president Juan Peron	pass in	he mandate	PERSON	0
+1.0	A	have	magazine	O	ORGANIZATION
+1.0	Argentina	plunge into	vortex	LOCATION	0
+1.0	Hector Acosta	be investigate	Peron 's role	PERSON	PERSON
+1.0	activist Hector Fagetti Gallego	have	kidnapping	O	PERSON
+1.0	the military	have	muscle	O	O
+1.0	death squad	have	ex-member	O	O
+1.0	three-time president Juan Peron	become	president	PERSON	0
+1.0	Norberto Oyarbide	have also demand	arrest of Felipe Romeo	PERSON	PERSON
+1.0	three-time president Juan Peron	pass in	he mandate	PERSON	0
+1.0	charge	be in	September 1974 murder of Julio Troxler	0	PERSON
+1.0	president Juan Peron	pass away in	he mandate	PERSON	0
+1.0	three-time president Juan Peron	pass in	he third mandate	PERSON	ORDINAL
+1.0	Miguel Angel Rovira	officer of	argentine Anticommunist Alliance	PERSON	ORGANIZATION
+1.0	Miguel Angel Rovira	face	charge in September 1974 murder	PERSON	DATE
+1.0	Felipe Romeo	director of	triple a 's magazine	PERSON	0

@@ -1,0 +1,81 @@
+1.0	ASEAN summit	have	one	NUMBER	O
+1.0	ASEAN	have	moving	O	ORGANIZATION
+1.0	other bloc	move of	ASEAN	0	ORGANIZATION
+1.0	other bloc	transform into	rule base organization	0	0
+1.0	leader	impose	sanction	0	0
+1.0	economic bloc	elsewhere move of	ASEAN	0	ORGANIZATION
+0.252304806515974	ASEAN	become	little more	ORGANIZATION	0
+1.0	the	have	one	NUMBER	O
+1.0	privileges	have	suspension	O	O
+1.0	bloc	be in	extreme case	0	0
+1.0	S. Jayakumar	be	Singapore	PERSON	LOCATION
+1.0	decision	may	may take subject	0	0
+1.0	other economic bloc	elsewhere move ahead of	ASEAN	0	ORGANIZATION
+1.0	provisions	have	breaches	O	O
+1.0	leader	impose	sanction include suspension	0	0
+1.0	leader	impose	sanction include temporary suspension of rights	0	0
+1.0	procedure	have	rules	O	O
+1.0	leader	impose	sanction include temporary suspension of rights of membership	0	0
+1.0	ineffective diplomatic	talk	shop	0	0
+1.0	economic bloc	transform into	rule	0	0
+1.0	decision	may	may take subject to rule of procedure determine	0	0
+1.0	decision	may	may take through voting subject to rule of procedure determine	0	0
+1.0	decision	may	may take	0	0
+1.0	ASEAN	have	anniversary	O	O
+1.0	blueprint	have	adoption	O	O
+1.0	other economic bloc	transform into	rule base organization	0	0
+1.0	economic bloc	move of	ASEAN	0	ORGANIZATION
+1.0	leader	impose	sanction include suspension of rights	0	0
+1.0	other bloc	elsewhere move ahead of	ASEAN	0	ORGANIZATION
+1.0	landmark charter	have	basis	O	O
+0.5132818650752529	ASEAN	approach	its 40th anniversary	0	ORDINAL
+1.0	bloc	elsewhere move of	ASEAN	0	ORGANIZATION
+0.252304806515974	ASEAN	become	more	ORGANIZATION	0
+1.0	serious breach	would empower	leader	0	0
+1.0	ASEAN	have	decision-making	O	ORGANIZATION
+1.0	membership	have	rights	O	O
+1.0	resolve	have	that	O	O
+1.0	document	have	executive summary	O	O
+1.0	decision	may	may take through voting subject to rule	0	0
+1.0	other economic bloc	move ahead of	ASEAN	0	ORGANIZATION
+1.0	breach	would empower	leader	0	0
+1.0	willingness	have	that	O	O
+0.5132818650752529	ASEAN	approach	its anniversary	0	0
+1.0	other bloc	transform into	rule	0	0
+1.0	decision	may	may take subject to rule of procedure	0	0
+1.0	other economic bloc	transform into	rule	0	0
+1.0	mini-constitution	have	basis	O	O
+1.0	charter	have	provisions	O	O
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	other bloc	move ahead of	ASEAN	0	ORGANIZATION
+1.0	blueprint	have	formal adoption	0	0
+1.0	other economic bloc	elsewhere move of	ASEAN	0	ORGANIZATION
+1.0	course	have	is	O	O
+1.0	decision	may	may take subject to rule	0	0
+1.0	blueprint	will form	basis	0	0
+1.0	diplomatic	talk	shop	0	0
+1.0	Fidel Ramos	be president of	Philippines	PERSON	LOCATION
+1.0	decision	may	may take through voting subject	0	0
+1.0	bloc	transform into	rule	0	0
+1.0	decision	may	may take subject to rule of procedure determine by ASEAN council	0	ORGANIZATION
+1.0	rights	have	suspension	O	O
+1.0	other economic bloc	move of	ASEAN	0	ORGANIZATION
+1.0	Cebu	have	resort	O	LOCATION
+1.0	economic bloc	transform into	rule base organization	0	0
+1.0	decision	may	may take through voting subject to rule of procedure determine by ASEAN council	0	ORGANIZATION
+1.0	decision	may	may take through voting subject to rule of procedure	0	0
+1.0	leader	impose	sanction include temporary suspension	0	0
+1.0	bloc	elsewhere move ahead of	ASEAN	0	ORGANIZATION
+1.0	government	have	heads	O	O
+1.0	persons group	have	member	O	O
+1.0	leader	impose	sanction include suspension of rights of membership	0	0
+1.0	bloc	transform into	rule base organization	0	0
+1.0	ASEAN	for	time-honored decision-making by consultation	ORGANIZATION	0
+1.0	decision	may	may take through voting	0	0
+1.0	bloc	move ahead of	ASEAN	0	ORGANIZATION
+1.0	bloc	move of	ASEAN	0	ORGANIZATION
+1.0	Philippines	member of	eminent person group	LOCATION	0
+1.0	other bloc	elsewhere move of	ASEAN	0	ORGANIZATION
+1.0	economic bloc	elsewhere move ahead of	ASEAN	0	ORGANIZATION
+1.0	economic bloc	move ahead of	ASEAN	0	ORGANIZATION
+1.0	Association	have	member	O	ORGANIZATION

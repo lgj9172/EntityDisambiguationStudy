@@ -1,0 +1,139 @@
+1.0	tie-up	be	unveil early year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government early last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government as means	0	0
+1.0	report intention	have agitate	stock market	0	0
+1.0	suez-gdf tie-up	be unveil at_time	year	0	DATE
+1.0	energy	have	issue	O	O
+1.0	suez-gdf tie-up	be	unveil by french government early last year as means	0	DATE
+1.0	company	have	energy asset	0	0
+1.0	France	have	markets regulator	O	LOCATION
+1.0	tie-up	be unveil at_time	year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government early last year	0	DATE
+1.0	report intention	have agitate here	stock market	0	0
+1.0	suez-gdf tie-up	be	unveil last year as means	0	DATE
+1.0	initiative	have face	opposition	0	0
+1.0	New Year	have	message	O	DATE
+1.0	Jacques Chirac	be	French	PERSON	MISC
+1.0	suez-gdf tie-up	be	unveil by government early year	0	DATE
+1.0	PPR	be luxury group of	Pinault	ORGANIZATION	PERSON
+1.0	tie-up	be	unveil by government early year	0	DATE
+1.0	Suez	merge with	gdf	ORGANIZATION	0
+1.0	tie-up	be	unveil early last year as means	0	DATE
+1.0	issue	be	strategic	0	0
+1.0	initiative	have face	political opposition	0	0
+1.0	Suez	be set	merge	ORGANIZATION	0
+1.0	calculation	have	contingency	0	0
+1.0	gas provider GDF	have	merger	O	ORGANIZATION
+1.0	Suez	have	merger	O	ORGANIZATION
+1.0	company	have	energy assets	O	O
+1.0	Pinault	that	hold company	PERSON	0
+1.0	suez-gdf tie-up	be	unveil by french government early year	0	DATE
+1.0	initiative	be affect by	outcome	0	0
+1.0	tie-up	be	unveil by government last year as means	0	DATE
+1.0	merger	be	strategic	0	0
+1.0	french magazine Capital	report at_time	week	ORGANIZATION	DATE
+1.0	Francois Pinault	be ally of	French President Jacques Chirac on Thursday	PERSON	PERSON
+0.8261183695294736	plan	create	french energy giant	0	0
+1.0	suez-gdf tie-up	be	unveil early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government year	0	DATE
+1.0	suez-gdf tie-up	be unveil by	government	0	0
+1.0	tie-up	be	unveil by french government last year as means	0	DATE
+0.8261183695294736	plan	create	energy giant	0	0
+1.0	Suez	be set	merge with gdf	ORGANIZATION	0
+0.7758468754425552	French President Jacques Chirac on Thursday	say in	New Year 's message	PERSON	DATE
+1.0	tie-up	be	unveil by government early last year as means	0	DATE
+0.7758468754425552	French President Jacques Chirac on Thursday	say to	labor organization	PERSON	0
+1.0	Suez share	be show loss at_time	Thursday	ORGANIZATION	DATE
+1.0	initiative	be affect by	outcome of presidential election	0	0
+1.0	tie-up	be	unveil by government early year as means	0	DATE
+1.0	utility group Suez	have	merger	O	ORGANIZATION
+1.0	elections	have	outcome	O	O
+1.0	suez-gdf tie-up	be unveil at_time	last year	0	DATE
+1.0	next Tuesday	have	intentions	O	O
+1.0	tie-up	be unveil at_time	last year	0	DATE
+1.0	Suez	be	set	ORGANIZATION	0
+1.0	Suez share	be show loss at_time	here Thursday	ORGANIZATION	DATE
+1.0	business	have	Suez	ORGANIZATION	O
+1.0	tie-up	be	unveil by french government year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil year as means	0	DATE
+1.0	president	have	comments	O	O
+1.0	plan merger	be strategic for	France	0	LOCATION
+1.0	magazine Capital	report at_time	last week	ORGANIZATION	DATE
+1.0	plan merger	be	strategic	0	0
+1.0	tie-up	be	unveil last year as means	0	DATE
+1.0	merger	be strategic for	France	0	LOCATION
+1.0	percent	have	loss	O	PERCENT
+1.0	suez-gdf tie-up	be	unveil by government early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil	0	0
+1.0	suez-gdf tie-up	be	unveil by government as means	0	0
+1.0	magazine Capital	report at_time	week	ORGANIZATION	DATE
+1.0	suez-gdf tie-up	be unveil at_time	early last year	0	DATE
+0.8261183695294736	government-backed plan	create	energy giant	0	0
+1.0	Jacques Chirac	be on	here Thursday	PERSON	DATE
+1.0	France	's regulator be	AMF	LOCATION	ORGANIZATION
+1.0	state-controlled GDF	have	privatization	O	ORGANIZATION
+1.0	intention	have agitate	stock market	0	0
+1.0	tie-up	be	unveil by government year as means	0	DATE
+1.0	suez-gdf tie-up	be unveil as	means	0	0
+1.0	tie-up	be	unveil by government last year	0	DATE
+1.0	tie-up	be	unveil by french government year	0	DATE
+1.0	tie-up	be	unveil by government early last year	0	DATE
+1.0	Pinault	have	PPR	PERSON	ORGANIZATION
+0.8261183695294736	government-backed plan	create	french energy giant	0	0
+1.0	Suez share	be show	loss	ORGANIZATION	0
+1.0	short-term calculation	have	contingency	0	0
+1.0	tie-up	be	unveil by french government early last year	0	DATE
+1.0	presidential election	be in	April	0	DATE
+1.0	president	have	comment	0	0
+1.0	suez-gdf tie-up	be	unveil early year as means	0	DATE
+1.0	short-term calculation	have	political contingency	0	0
+1.0	suez-gdf tie-up	be unveil by	french government	0	0
+1.0	tie-up	be unveil by	french government	0	0
+1.0	tie-up	be	unveil	0	0
+1.0	France	have	financial market regulator	LOCATION	0
+1.0	tie-up	be	unveil by french government early year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government last year as means	0	DATE
+1.0	euros	have	bid	O	MONEY
+1.0	tie-up	be unveil at_time	early last year	0	DATE
+1.0	Suez share	be show	loss of 1.21 percent	ORGANIZATION	PERCENT
+1.0	Enel	be by	italian	ORGANIZATION	0
+1.0	Suez	be of	french	ORGANIZATION	0
+1.0	tie-up	be	unveil by french government early last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government early year as means	0	DATE
+1.0	suez-gdf tie-up	be unveil at_time	early year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government last year as means	0	DATE
+1.0	suez-gdf tie-up	be	unveil by french government early year as means	0	DATE
+1.0	Chirac ally Francois Pinault	have	Suez	ORGANIZATION	PERSON
+1.0	New Year 's	in	message	DATE	0
+1.0	Suez share	be in	mid-day trading	ORGANIZATION	0
+1.0	Francois Pinault	be	French President Jacques Chirac on Thursday	PERSON	PERSON
+1.0	tie-up	be	unveil by french government early year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government last year	0	DATE
+1.0	Pinault 's luxury group PPR	control	Gucci fashion label	PERSON	ORGANIZATION
+1.0	tie-up	be unveil at_time	early year	0	DATE
+1.0	initiative	be affect by	outcome of election	0	0
+1.0	tie-up	be	unveil by french government as means	0	0
+1.0	Pinault	have	company	O	PERSON
+1.0	suez-gdf tie-up	be	unveil by french government year	0	DATE
+1.0	tie-up	be unveil by	government	0	0
+1.0	calculation	have	political contingency	0	0
+1.0	french magazine Capital	report at_time	last week	ORGANIZATION	DATE
+1.0	suez-gdf tie-up	be	unveil by french government year as means	0	DATE
+1.0	tie-up	be	unveil by government as means	0	0
+1.0	Suez	be set under	plan	ORGANIZATION	0
+1.0	intention	have agitate here	stock market	0	0
+1.0	Gaz de France	have	merger	O	LOCATION
+1.0	initiative	be	affect	0	0
+1.0	tie-up	be	unveil by government year	0	DATE
+1.0	initiative	be affect by	outcome of election in April	0	DATE
+1.0	Pinault	have	luxury group PPR	ORGANIZATION	PERSON
+1.0	tie-up	be	unveil by french government last year	0	DATE
+1.0	suez-gdf tie-up	be	unveil by government year as means	0	DATE
+1.0	Suez share	be show loss at	38.29 euro	ORGANIZATION	MONEY
+1.0	major player	be in	gas sector	0	0
+1.0	tie-up	be	unveil year as means	0	DATE
+1.0	tie-up	be unveil as	means	0	0
+1.0	Suez	be set under	government-backed plan	ORGANIZATION	0
+1.0	Capital	be	french	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election in April	0	DATE

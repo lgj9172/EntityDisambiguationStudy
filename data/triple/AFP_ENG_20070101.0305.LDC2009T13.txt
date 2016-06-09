@@ -1,0 +1,134 @@
+0.5848835955909498	security	check car for	bomb	0	0
+1.0	Australia Zealand	stay	United States	LOCATION	LOCATION
+1.0	coup	oust on	September 19	0	DATE
+1.0	John Koldowski	be spokesman of	Pacific Asia Travel Association	PERSON	ORGANIZATION
+1.0	John Koldowski	be	Pacific Asia Travel Association	PERSON	ORGANIZATION
+1.0	they citizen	be in	Bangkok on New Year 's Eve injuring nine foreigners	0	LOCATION
+1.0	things	have	sorts	O	O
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	pre-tsunami level	be in	2006	0	DATE
+1.0	well-heeled holidaymaker	mill in	backpacker haunt	0	0
+1.0	holidaymaker	mill around in	crowded backpacker haunt	0	0
+1.0	last bomb	explode in	telephone box	0	0
+1.0	Australia Zealand	issue	travel advisory	LOCATION	0
+1.0	holidaymaker	mill in	crowded backpacker haunt	0	0
+1.0	less well-heeled holidaymaker	mill at	shopping	0	0
+1.0	holidaymaker	mill across	town on Khao San Road	0	LOCATION
+1.0	whom	have	half	O	O
+1.0	less holidaymaker	mill around in	crowded backpacker haunt	0	0
+1.0	Phuket	have	Andaman coast island	O	LOCATION
+1.0	well-heeled holidaymaker	mill across	town on Khao San Road	0	LOCATION
+1.0	wave	cut	short New Year celebration	0	DATE
+1.0	less holidaymaker	mill around across	town on Khao San Road	0	LOCATION
+1.0	eight bomb	explode across	Thai capital	0	MISC
+1.0	coup	oust	premier	0	0
+1.0	less holidaymaker	mill around across	town	0	0
+1.0	Bangkok	be on	New Year 's Eve	LOCATION	DATE
+1.0	Australia Zealand	stay at	home	LOCATION	0
+1.0	product	have	percent	PERCENT	O
+1.0	life	be get to	normal	0	0
+1.0	sight	have	only short-term effect	0	0
+1.0	response	be	good news	0	0
+1.0	t-shirt	stall on	backpacker	0	0
+1.0	less well-heeled holidaymaker	mill around at	shopping	0	0
+1.0	reveller	dot with	hotel	0	0
+1.0	holidaymaker	mill at	shopping	0	0
+1.0	wave	cut	New Year celebration	0	DATE
+1.0	bombs	have	afraid	O	O
+1.0	less holidaymaker	mill in	crowded backpacker haunt	0	0
+1.0	bomb	explode across	Thai capital	0	MISC
+1.0	they	be return to	pre-tsunami level in 2006	0	DATE
+1.0	bombings	have	wave	O	O
+1.0	cancellations	have	reports	O	O
+1.0	well-heeled holidaymaker	mill around across	town on Khao San Road	0	LOCATION
+1.0	attacks	have	news	O	O
+1.0	13.6 million	have	record high	O	NUMBER
+1.0	less well-heeled holidaymaker	mill in	crowded backpacker haunt	0	0
+1.0	they	be finally return to	level	0	0
+0.5848835955909498	security	car for	bomb	0	0
+1.0	they	be return to	level in 2006	0	DATE
+1.0	holidaymaker	mill around across	town	0	0
+1.0	Bangkok	have	hotels	O	LOCATION
+1.0	they	be return to	level	0	0
+1.0	New Zealand	be	Australia	LOCATION	LOCATION
+1.0	they	be finally return to	level in 2006	0	DATE
+1.0	security	car for	bomb	0	0
+1.0	Australia Zealand	issue travel advisory to	they citizen in Bangkok	LOCATION	LOCATION
+1.0	less holidaymaker	mill across	town on Khao San Road	0	LOCATION
+1.0	night	have	bomb	O	TIME
+1.0	tanks	have	sight	O	O
+1.0	New Year festival	be in	resort town of Pattaya	DATE	LOCATION
+1.0	last bomb	explode nearby in	telephone box	0	0
+1.0	reveller	dot with	upmarket hotel	0	0
+1.0	backpacker hotel	have	manager	O	O
+1.0	bomb	explode in	telephone box	0	0
+1.0	bomb	explode across	Thai capital on Sunday	0	MISC
+1.0	New year	come at	height of Thailand 's tourist season	DATE	LOCATION
+1.0	less holidaymaker	mill in	backpacker haunt	0	0
+1.0	attacks	have	warned	O	O
+1.0	many attack	be in	many country	0	0
+1.0	Pattaya	have	resort town	O	LOCATION
+1.0	wave	cut new year celebration in	Bangkok on New Year 's Eve injuring nine foreigners	0	LOCATION
+1.0	Tourism Authority	be of	Chattan Kunkara Ayudhya	ORGANIZATION	PERSON
+1.0	Thailand spokesman Chattan Kunkara Ayudhya	have	Tourism Authority	ORGANIZATION	PERSON
+1.0	authority	be in	Thailand	0	LOCATION
+1.0	tourist season	have	height	O	O
+1.0	less holidaymaker	mill around in	backpacker haunt	0	0
+1.0	well-heeled holidaymaker	mill around across	town	0	0
+1.0	well-heeled holidaymaker	mill in	crowded backpacker haunt	0	0
+1.0	well-heeled holidaymaker	mill around at	shopping	0	0
+1.0	less well-heeled holidaymaker	mill around in	crowded backpacker haunt	0	0
+1.0	attacks	have	threat	O	O
+1.0	tourists	have	number	O	O
+1.0	holidaymaker	mill in	backpacker haunt	0	0
+1.0	Thailand spokesman Chattan Kunkara Ayudhya	tell	AFP	0	ORGANIZATION
+1.0	they	be return to	pre-tsunami level	0	0
+1.0	Chattan Kunkara Ayudhya	be spokesman of	Thailand	PERSON	LOCATION
+1.0	they	be finally return to	pre-tsunami level	0	0
+1.0	military coup	oust on	September 19	0	DATE
+1.0	their	have	citizens	O	O
+1.0	September 11 2001	attack on	the United States	DATE	LOCATION
+1.0	Thailand	of	tourist season	LOCATION	0
+1.0	violence	have	reports	O	O
+1.0	less well-heeled holidaymaker	mill across	town on Khao San Road	0	LOCATION
+1.0	well-heeled holidaymaker	mill at	shopping	0	0
+1.0	less well-heeled holidaymaker	mill in	backpacker haunt	0	0
+1.0	Chattan Kunkara Ayudhya	be of	Thailand	PERSON	LOCATION
+1.0	less holidaymaker	mill at	shopping	0	0
+1.0	response	be	news	0	0
+1.0	holidaymaker	mill across	town	0	0
+1.0	well-heeled holidaymaker	mill around in	backpacker haunt	0	0
+1.0	country	have	product	O	O
+1.0	Tourism number	take	hammering	0	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	life	be get back to	normal	0	0
+1.0	less well-heeled holidaymaker	mill around across	town on Khao San Road	0	LOCATION
+1.0	hotels	have	two	NUMBER	O
+1.0	Australia Zealand	issue travel advisory to	they citizen	LOCATION	0
+1.0	holidaymaker	mill around at	shopping	0	0
+1.0	sight	have	short-term effect	0	0
+1.0	less holidaymaker	mill across	town	0	0
+1.0	less well-heeled holidaymaker	mill around across	town	0	0
+1.0	country	of	gross domestic product	0	NUMBER
+1.0	Intercontinental	have	lobbies	O	O
+1.0	sight	have	effect	0	0
+1.0	holidaymaker	mill around across	town on Khao San Road	0	LOCATION
+1.0	bomb	explode nearby in	telephone box	0	0
+1.0	Our	have	inn	O	O
+1.0	holidaymaker	mill around in	backpacker haunt	0	0
+1.0	Australia Zealand	issue	United States	LOCATION	LOCATION
+1.0	well-heeled holidaymaker	mill across	town	0	0
+1.0	eight bomb	explode across	Thai capital on Sunday	0	MISC
+1.0	less holidaymaker	mill around at	shopping	0	0
+1.0	they	be finally return to	pre-tsunami level in 2006	0	DATE
+1.0	New year	come at	height	DATE	0
+1.0	their	have	reservations	O	O
+1.0	Tourism number	be in	Thailand	0	LOCATION
+1.0	sight	have	only effect	0	0
+1.0	less well-heeled holidaymaker	mill around in	backpacker haunt	0	0
+1.0	well-heeled holidaymaker	mill around in	crowded backpacker haunt	0	0
+1.0	less well-heeled holidaymaker	mill across	town	0	0
+1.0	Kathryn Vigna	be	American	PERSON	MISC
+1.0	military coup	oust	premier	0	0
+1.0	Thailand	have	tourist season	O	LOCATION
+1.0	18 percent	be in	2006	PERCENT	DATE

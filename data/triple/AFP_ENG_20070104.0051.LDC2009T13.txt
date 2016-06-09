@@ -1,0 +1,31 @@
+1.0	discount carriers	have	emergence	O	O
+1.0	aviation body	say at_time	Thursday	0	DATE
+1.0	Asia	plummet from	around 1.7 billion US dollar in 2006	LOCATION	MONEY
+1.0	Asia	plummet to	some 1.2 billion dollar	LOCATION	MONEY
+1.0	Asia	plummet from	around 1.7 billion US dollar	LOCATION	MONEY
+1.0	increase competition	be in	region as result of liberalisation	0	0
+1.0	1.7 billion US dollar	be in	2006	MONEY	DATE
+1.0	freight	be in	Asia Pacific region	0	LOCATION
+1.0	datum	show	Asia	0	LOCATION
+1.0	they	adopt	approach	DURATION	0
+1.0	they	deploy	aircraft	DURATION	0
+1.0	entrants	have	result	O	O
+1.0	percent	have	average	O	PERCENT
+1.0	global aviation body	say at_time	Thursday	0	DATE
+1.0	they	deploy	new aircraft	DURATION	0
+1.0	they	adopt	more cautious approach	DURATION	0
+1.0	percent	have	rate	O	PERCENT
+1.0	world	have	cargo markets	O	O
+1.0	reduce profit	be in	2007	0	DATE
+1.0	they	deploy aircraft in	five year	DURATION	DATE
+1.0	world	of	top ten cargo market	0	NUMBER
+1.0	IATA	say in	statement	ORGANIZATION	0
+1.0	liberalisation	have	result	O	O
+1.0	they	deploy aircraft in	next five year	DURATION	DATE
+1.0	cargo markets	have	seven	NUMBER	O
+1.0	sector	see	profit	0	0
+1.0	sector	see	total profit	0	0
+1.0	aircraft deliveries	have	result	O	O
+1.0	strong gain	be in	international passenger traffic	0	0
+1.0	they	adopt	cautious approach	DURATION	0
+1.0	a robust pace	have	traffic forcast	O	O

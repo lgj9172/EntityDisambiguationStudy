@@ -1,0 +1,45 @@
+1.0	swedish group	have far reject	german company 's advance	0	0
+1.0	its	have	truck	O	O
+1.0	man	officially launch 10.2-billion-euro bid on	November	0	DATE
+1.0	group	have reject	company 's advance	0	0
+1.0	swedish group	have far reject	company 's advance	0	0
+1.0	man	launch 10.2-billion-euro bid with	aim	0	0
+1.0	Europe	have	truck maker	O	LOCATION
+1.0	group	have so far reject	company 's advance	0	0
+0.6403930241120618	aim	create	Europe 's biggest truck maker	0	LOCATION
+1.0	Europe	have	biggest truck maker	LOCATION	0
+1.0	man	launch	10.2-billion-euro bid	0	0
+1.0	group	have far reject	german company 's advance	0	0
+1.0	it	can bring	its own brazilian truck	0	0
+1.0	man	launch	13.2-billion-dollar	0	0
+1.0	it	can bring	its brazilian truck	0	0
+1.0	man	officially launch 10.2-billion-euro bid with	aim	0	0
+1.0	man	have	offer for Scania	0	ORGANIZATION
+1.0	group	have so far reject	german company 's advance	0	0
+1.0	statement	entrust	VW 's management board	0	ORGANIZATION
+1.0	VW	have	shareholder Investor	O	O
+1.0	swedish group	have so far reject	company 's advance	0	0
+1.0	Scania	be for	swedish	ORGANIZATION	0
+0.6403930241120618	aim	create	Europe 's truck maker	0	LOCATION
+1.0	man	launch 10.2-billion-euro bid on	November	0	DATE
+1.0	german company	have	advance	0	0
+1.0	swedish group	have reject	company 's advance	0	0
+1.0	MAN	have	offer	O	O
+1.0	man	officially launch	10.2-billion-euro bid	0	0
+1.0	Volkswagen	be	european	ORGANIZATION	0
+1.0	swedish group	have reject	german company 's advance	0	0
+1.0	European auto giant Volkswagen	have	Scania	ORGANIZATION	O
+1.0	group	have far reject	company 's advance	0	0
+1.0	man	officially launch	13.2-billion-dollar	0	0
+1.0	it	can bring	its truck	0	0
+1.0	VW	have	management board	ORGANIZATION	0
+1.0	swedish group	have so far reject	german company 's advance	0	0
+1.0	european auto giant Volkswagen	say at_time	Thursday	ORGANIZATION	DATE
+1.0	it	can bring	its own truck	0	0
+1.0	company	have	advances	O	O
+1.0	man	launch 10.2-billion-euro bid for	Scania	0	ORGANIZATION
+1.0	VW	have	board	O	O
+1.0	man	officially launch 10.2-billion-euro bid for	Scania	0	ORGANIZATION
+1.0	VW	have	management board	O	ORGANIZATION
+1.0	auto giant Volkswagen	say at_time	Thursday	ORGANIZATION	DATE
+1.0	group	have reject	german company 's advance	0	0

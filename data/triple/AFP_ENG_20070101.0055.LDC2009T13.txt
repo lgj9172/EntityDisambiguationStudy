@@ -1,0 +1,70 @@
+1.0	Monday	have	Hindustan Times	ORGANIZATION	DATE
+1.0	rooms	have	one	NUMBER	O
+1.0	murder	have	counts	O	O
+1.0	victim	be mainly child of	labourer live	0	0
+1.0	Singh	have	servant	O	PERSON
+1.0	Satish 's employer	be	charge	PERSON	0
+1.0	Satish 's employer	be also charge with	multiple rape charge	PERSON	0
+1.0	child murders	have	series	O	O
+0.9368862055578154	Satish	question for	he suspect involvement in disappearance of girl	PERSON	0
+0.9368862055578154	Satish	question for	he involvement in disappearance	PERSON	0
+1.0	his	have	involvement	O	O
+1.0	victim	be mainly child of	labourer live in cluster	0	0
+1.0	relative	break	police security cordon	0	0
+1.0	victim	be	child	0	0
+1.0	girl	have	disappearance	O	O
+1.0	some	have	clothes	O	O
+1.0	body	be find in	Noida	0	LOCATION
+1.0	police official	say at_time	Monday	0	DATE
+1.0	Monday	in	Hindustan Times	DATE	ORGANIZATION
+0.9368862055578154	Satish	question for	he involvement in disappearance of 16-year-old girl	PERSON	DURATION
+0.9368862055578154	Satish	question for	he involvement in disappearance of girl	PERSON	0
+1.0	Singh	have	servant	PERSON	0
+1.0	relative	storm	house	0	0
+1.0	clothes	pile	shoe	0	0
+0.9368862055578154	Satish	question for	he suspect involvement in disappearance	PERSON	0
+1.0	victim	be child of	labourer live in cluster	0	0
+1.0	disappearance	be	report	0	0
+1.0	Satish	have	employer	PERSON	0
+1.0	victim	be mainly child of	labourer	0	0
+1.0	victim	be mainly child of	labourer live in cluster near house	0	0
+1.0	Satish	have	employer	O	PERSON
+1.0	Satish 's employer	be charge with	rape charge	PERSON	0
+1.0	victim	be child of	labourer	0	0
+1.0	victim	be child of	labourer live in shanty cluster near house	0	0
+1.0	Satish 's employer	be also charge with	rape charge	PERSON	0
+0.9368862055578154	Satish	question for	he involvement	PERSON	0
+1.0	victim	be child of	labourer live in shanty cluster	0	0
+0.9368862055578154	Satish	question for	he suspect involvement	PERSON	0
+1.0	labourers	have	children	O	O
+1.0	furious relative	have accuse	police fail	0	0
+1.0	they	see	blood stain	0	0
+1.0	rape	have	counts	O	O
+1.0	relative	have accuse	police	0	0
+1.0	they	see blood stain in	bathroom	0	0
+1.0	furious relative	have accuse	police	0	0
+1.0	children	have	remains	O	O
+1.0	concealment	have	counts	O	O
+1.0	victim	be	mainly child	0	0
+0.9368862055578154	Satish	question for	he suspect involvement in disappearance of 16-year-old girl	PERSON	DURATION
+1.0	Satish 's employer	be charge with	multiple rape charge	PERSON	0
+1.0	New Delhi	have	satellite city	O	LOCATION
+1.0	he suspect involvement	be in	disappearance of 16-year-old girl	0	DURATION
+1.0	murder	come to	light	0	0
+1.0	relative	storm house on	Sunday	0	DATE
+1.0	body	be	find	0	0
+1.0	victim	be mainly child of	labourer live in shanty cluster near house	0	0
+1.0	children	have	Relatives	O	O
+1.0	house	have	rooms	O	O
+1.0	clothes	pile	slipper	0	0
+1.0	relative	have accuse	police fail	0	0
+1.0	report	be in	Hindustan Times	0	ORGANIZATION
+1.0	victim	be child of	labourer live	0	0
+1.0	victims	have	Ten	NUMBER	O
+1.0	murder	come to	light on Friday	0	DATE
+1.0	Satish 's employer	be	also charge	PERSON	0
+1.0	police	tell	AFP	0	ORGANIZATION
+1.0	senior police official	say at_time	Monday	0	DATE
+1.0	victim	be child of	labourer live in cluster near house	0	0
+1.0	children	have	some	O	O
+1.0	victim	be mainly child of	labourer live in shanty cluster	0	0

@@ -1,0 +1,45 @@
+1.0	portuguese government	say at_time	Thursday	0	DATE
+1.0	the media attention	cross	Mediterranean	0	LOCATION
+1.0	event	start in	french capital	0	0
+1.0	event	start in	capital	0	0
+1.0	motorsport	have	toughest longest challenge	O	O
+1.0	first Dakar Rally	start in	Paris	ORDINAL	LOCATION
+1.0	race	have also start in	spanish city of Granada	0	LOCATION
+1.0	this year	have	15-stage race	DATE	0
+1.0	race	have start since	then	0	0
+1.0	race	have start in	city of Granada	0	LOCATION
+1.0	Granada	have	cities	O	LOCATION
+1.0	first Dakar Rally	start in	1978	ORDINAL	DATE
+1.0	race	have also start since	then	0	0
+1.0	government	say at_time	Thursday	0	DATE
+1.0	Clermont-Ferrand	have	cities	O	LOCATION
+1.0	race	have also start in	city of Granada	0	LOCATION
+1.0	State	of secretary be	Pedro Silva Pereira	0	PERSON
+1.0	event	always start until	1995	0	DATE
+1.0	we	be	willing	0	0
+1.0	the media attention	cross mediterranean from	Spain	0	LOCATION
+1.0	event	always start in	capital	0	0
+1.0	event	always start in	french capital	0	0
+1.0	nation	have	interests	O	O
+1.0	race	have start in	spanish city of Granada	0	LOCATION
+1.0	the media attention	will trek	4,000 mile	0	NUMBER
+1.0	race	have start in	city	0	0
+1.0	Dakar	be on	January 21	LOCATION	DATE
+1.0	race	have also start in	spanish city	0	0
+1.0	Marseille	have	cities	O	LOCATION
+1.0	race	have also start in	city	0	0
+1.0	Dakar Rally	start in	1978	LOCATION	DATE
+1.0	State	have	Secretary	O	O
+1.0	year	have	race	O	DATE
+1.0	nation	in	interest	0	0
+1.0	race	have start in	spanish city	0	0
+1.0	media attention	have	brings	O	O
+1.0	toughest challenge	be in	world	0	0
+1.0	Barcelona	have	cities	O	LOCATION
+1.0	event	start until	1995	0	DATE
+1.0	the media attention	will trek	over 7,000 kilometre	0	NUMBER
+1.0	the media attention	cross mediterranean from	southern Spain	0	LOCATION
+1.0	Dakar Rally	start in	Paris	LOCATION	LOCATION
+1.0	their	have	countries	O	O
+1.0	The Portuguese government	have	three	DURATION	O
+1.0	Arras	have	cities	O	LOCATION

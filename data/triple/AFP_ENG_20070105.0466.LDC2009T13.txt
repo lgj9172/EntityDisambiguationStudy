@@ -1,0 +1,152 @@
+1.0	embattled US president	number in	cellar	LOCATION	0
+1.0	Bush	choose	former head	0	0
+1.0	nobody	be	satisfy	0	0
+1.0	Bush	escalate	number of US troops	PERSON	LOCATION
+1.0	National Security Agency	have	head	O	ORGANIZATION
+0.5245217434442611	it	bring war to	close	0	0
+1.0	Lieutenant General David Petraeus 54	would replace	General George Casey as man	NUMBER	PERSON
+1.0	status quo	be in	post-Saddam-Hussein Iraq	0	LOCATION
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White house-endorsed recommendation from Defense Secretary Robert Gates	PERSON	PERSON
+1.0	US Central Command	have	head	O	ORGANIZATION
+1.0	troops	have	point	O	O
+1.0	Bush	choose	former head of National Security Agency	0	ORGANIZATION
+1.0	retired vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	us-led force	be in	Iraq	0	LOCATION
+1.0	US president	nominate	director of National Intelligence John Negroponte	LOCATION	PERSON
+1.0	William Fallon	head of	US force in Pacific	PERSON	LOCATION
+1.0	David Petraeus	be	54	PERSON	NUMBER
+1.0	two leader	take aim at	news report	NUMBER	0
+1.0	Bush	also fill	critical vacancy	PERSON	0
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White recommendation from Defense Secretary Robert Gates	NUMBER	PERSON
+1.0	consultation	be with	key world leader	0	0
+1.0	US Congress	send	US troops	LOCATION	LOCATION
+1.0	The embattled US president	have	Iraq overhaul	O	O
+1.0	President George W. Bush	pursue	sweeping overhaul of US diplomatic	PERSON	LOCATION
+1.0	US forces	have	head	O	O
+1.0	US president	be	US Secretary	LOCATION	LOCATION
+1.0	forces	have	commander	O	O
+1.0	his	have	Iraq approach	O	O
+1.0	President George W. Bush on Friday	put	touch	0	0
+1.0	US president	nominate	director	LOCATION	0
+1.0	Congress	be	US	ORGANIZATION	LOCATION
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White house-endorsed recommendation	PERSON	MISC
+1.0	coalition forces	have	charge	O	O
+1.0	Casey	become	US Army chief	PERSON	ORGANIZATION
+1.0	State Department	have	one	NUMBER	ORGANIZATION
+1.0	President George W. Bush	pursue overhaul in	post-Saddam-Hussein Iraq	PERSON	LOCATION
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White recommendation from Defense Secretary Robert Gates	PERSON	PERSON
+1.0	Casey	become	US Army chief of staff	PERSON	ORGANIZATION
+1.0	Bush	choose	retired vice admiral Michael McConnell	0	PERSON
+1.0	our	have	military	O	O
+1.0	Americans	add	combat troops	MISC	0
+1.0	Bush	fill	diplomatic vacancy	PERSON	0
+1.0	deputy	have	US Secretary	O	O
+1.0	retired vice admiral Michael McConnell	replace	National Intelligence John Negroponte -- the first US ambassador to post-Saddam-Hussein Iraq --	PERSON	PERSON
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	US Congress	send	more US troops	LOCATION	LOCATION
+1.0	US casualties	have	thousands	O	O
+1.0	post	leave	empty	0	0
+1.0	Bush	choose	vice admiral Michael McConnell	0	PERSON
+1.0	Senate Majority Leader Harry Reid	write	Bush	ORGANIZATION	PERSON
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	his	have	job approval numbers	O	O
+1.0	Bush	fill	critical vacancy	PERSON	0
+1.0	US president	be	US Secretary of State Condoleezza Rice 's deputy	LOCATION	PERSON
+1.0	US Congress	send us troops to	post-Saddam-Hussein Iraq	LOCATION	LOCATION
+1.0	leader	take	aim	0	0
+1.0	leader	take aim at	news report	0	0
+1.0	US ambassador	be in	Pakistan	LOCATION	LOCATION
+1.0	key post	leave since	July 2006	0	DATE
+1.0	Bush	dump defense secretary donald rumsfeld at_time	late last year	PERSON	DATE
+1.0	Nancy Pelosi	be	House	PERSON	ORGANIZATION
+1.0	Bush	also fill	diplomatic vacancy	PERSON	0
+1.0	Bush	dump defense secretary donald rumsfeld at_time	last year	PERSON	DATE
+1.0	Harry Reid	be majority leader of	Senate	PERSON	ORGANIZATION
+1.0	it	be	time	0	0
+1.0	time	bring	war	0	0
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White recommendation	PERSON	MISC
+1.0	Casey	be	become	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	parties	have	US lawmakers	O	O
+1.0	key post	leave	empty	0	0
+1.0	two leader	take	aim	NUMBER	0
+1.0	Lieutenant General David Petraeus	would replace	General George Casey	PERSON	PERSON
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White house-endorsed recommendation	NUMBER	MISC
+1.0	Harry Reid	be	Senate	PERSON	ORGANIZATION
+1.0	William Fallon	be	62	PERSON	NUMBER
+1.0	Khalilzad	be in	Baghdad	PERSON	LOCATION
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White recommendation	NUMBER	MISC
+1.0	his Democratic foes	have	Senate confirmation	O	O
+1.0	Lieutenant General David Petraeus	would replace	General George Casey as man	PERSON	PERSON
+1.0	it	be time after	nearly four year	0	DURATION
+1.0	president	have leave	untouched	0	0
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	Tony Snow	be spokesman of	White House	PERSON	ORGANIZATION
+1.0	Bush	name	new US spy chief	PERSON	LOCATION
+1.0	he democratic foe	demand end to	conflict	0	0
+1.0	Bush	dump defense secretary donald rumsfeld at_time	late year	PERSON	DATE
+1.0	Casey	be	58	PERSON	NUMBER
+1.0	Tony Snow	be	White House	PERSON	ORGANIZATION
+1.0	President George W. Bush on Friday	put	finishing touch	0	0
+1.0	Bush	fill	vacancy	PERSON	0
+1.0	Bush	dump	defense secretary Donald Rumsfeld	PERSON	PERSON
+1.0	he democratic foe	demand	end	0	0
+1.0	combat	have	years	DURATION	O
+1.0	US Congress	demand end to	war	LOCATION	0
+1.0	Bush	say in	message aim	PERSON	0
+1.0	post	leave since	July 2006	0	DATE
+1.0	Lieutenant General David Petraeus 54	would replace	General George Casey	NUMBER	PERSON
+1.0	Lieutenant General David Petraeus 54	would replace general george casey in	Iraq	NUMBER	LOCATION
+1.0	he foe	demand end to	unpopular conflict	0	0
+1.0	National Intelligence John Negroponte	have	Director	O	PERSON
+1.0	President George W. Bush	pursue	overhaul of diplomatic	PERSON	0
+1.0	vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	Casey 58	be	become	PERSON	0
+1.0	nobody	be satisfy with	status quo	0	0
+1.0	President George W. Bush on Friday	put touch on	a	0	0
+1.0	leadership	have	overhaul	O	O
+1.0	US	have	charge	O	LOCATION
+1.0	he democratic foe	demand end to	unpopular conflict	0	0
+1.0	war	be in	Iraq	0	LOCATION
+0.5245217434442611	it	bring	war	0	0
+1.0	he foe	demand end to	conflict	0	0
+1.0	vice admiral Michael McConnell	replace	National Intelligence John Negroponte -- the first US ambassador to post-Saddam-Hussein Iraq --	PERSON	PERSON
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White house-endorsed recommendation from Defense Secretary Robert Gates	NUMBER	PERSON
+1.0	Bush	have	foes	O	O
+1.0	diplomatic	have	overhaul	O	O
+1.0	staff	have	US Army chief	O	O
+1.0	Bush	dump defense secretary donald rumsfeld at_time	year	PERSON	DATE
+1.0	President George W. Bush	pursue	sweeping overhaul of diplomatic	PERSON	0
+1.0	Bush	say in	message	PERSON	0
+1.0	Americans	add	more combat troops	MISC	0
+1.0	Bush	have	plan	O	O
+0.4721164921210283	US president	director of	National Intelligence John Negroponte	LOCATION	PERSON
+1.0	The embattled US president	have	core	O	O
+1.0	US troops	have	number	O	O
+1.0	Pakistan	be since	November 2004	LOCATION	DATE
+1.0	he foe	demand	end	0	0
+1.0	Bush	name	US spy chief	PERSON	LOCATION
+1.0	Ryan Crocker	be	57	PERSON	NUMBER
+1.0	Bush	escalate	number	PERSON	0
+1.0	Condoleezza Rice	be 's	State Department 's	PERSON	ORGANIZATION
+1.0	Casey 58	become	US Army chief	PERSON	ORGANIZATION
+1.0	US Congress	demand	end	LOCATION	0
+1.0	Robert Gates	be from	Defense	PERSON	ORGANIZATION
+1.0	Bush	also fill	vacancy	PERSON	0
+1.0	President George W. Bush	pursue	overhaul	PERSON	0
+1.0	he job approval number	be in	cellar	0	0
+1.0	Lieutenant General David Petraeus	would replace general george casey in	Iraq	PERSON	LOCATION
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	President George W. Bush	pursue	overhaul of US diplomatic	PERSON	LOCATION
+1.0	Ryan Crocker	ambassador in	Pakistan	PERSON	LOCATION
+1.0	US spy agencies	have	head	O	O
+1.0	time	bring war to	close	0	0
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	his Democratic foes	have	responsibilities	O	O
+1.0	nobody	be satisfy with	status quo in Iraq	0	LOCATION
+1.0	Casey 58	become	US Army chief of staff	PERSON	ORGANIZATION
+1.0	President George W. Bush	pursue	sweeping overhaul	PERSON	0
+1.0	Bush	escalate number in	Iraq	PERSON	LOCATION
+1.0	president	be	forwarding	0	0
+1.0	it	be time after	nearly four year of combat	0	DURATION

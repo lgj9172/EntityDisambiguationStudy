@@ -1,0 +1,49 @@
+1.0	State Condoleezza Rice	be quote by	Times	PERSON	ORGANIZATION
+1.0	Bush	have	speech	O	PERSON
+0.7980928002171461	State Condoleezza Rice	describe effort against	Iranians	PERSON	LOCATION
+1.0	Iranians	have	have seize by force in Baghdad	MISC	LOCATION
+1.0	Bush	in	speech	PERSON	0
+0.7980928002171461	State Condoleezza Rice	describe effort in	Iraq	PERSON	LOCATION
+1.0	Iranians	have	have seize by american force in Baghdad	MISC	LOCATION
+1.0	Bush	have	National Security Council	ORGANIZATION	O
+1.0	Rice	have	willingness discuss	PERSON	0
+1.0	questions	have	grew	O	O
+1.0	an article	have	website	O	O
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+0.6266914791776139	cite	secretary of	State Condoleezza Rice	0	PERSON
+1.0	increase activity	be in	Iraq	0	LOCATION
+0.7980928002171461	State Condoleezza Rice	describe effort as	force protection mission	PERSON	0
+1.0	administration official	have decline until	now	0	DATE
+1.0	other city	be in	Iraq	0	LOCATION
+1.0	Iranians	have	in which have seize	MISC	0
+1.0	spiral chaos	be in	Iraq	0	LOCATION
+0.7980928002171461	State Condoleezza Rice	describe	effort	PERSON	0
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Iranians	have	in which have seize by american force in Baghdad	MISC	LOCATION
+1.0	sophisticated	have	many	O	O
+1.0	State Condoleezza Rice	say at_time	late Friday	PERSON	DATE
+1.0	State Condoleezza Rice	be	vague	PERSON	0
+1.0	New York Times	cite	Secretary of State Condoleezza Rice	ORGANIZATION	PERSON
+1.0	american force	be in	Baghdad	0	LOCATION
+1.0	iranian operative	be in	country	0	0
+1.0	Iranians	have	have seize by american force	MISC	0
+1.0	time	have	period	O	O
+1.0	Rice	have	willingness	O	PERSON
+1.0	New York Times	report at_time	Friday	ORGANIZATION	DATE
+1.0	Iranians	have	have seize by force	MISC	0
+1.0	Iranians	have	have seize	MISC	0
+1.0	Iranians	have	in which have seize by american force	MISC	0
+1.0	administration official	have decline	say	0	0
+1.0	Iranians	have	in which have seize by force	MISC	0
+0.7980928002171461	State Condoleezza Rice	describe effort as	defensive force protection mission	PERSON	0
+1.0	New York Times	report at_time	late Friday	ORGANIZATION	DATE
+1.0	iranian interest	be in	Iraq	0	LOCATION
+1.0	administration official	have decline despite	series	0	0
+1.0	Bush	have	decision	O	O
+1.0	article	post on	its website	0	0
+1.0	National Security Council	have	president	O	ORGANIZATION
+1.0	raids	have	series	O	O
+1.0	New York Times	cite	Secretary	ORGANIZATION	0
+1.0	Iranians	have	in which have seize by force in Baghdad	MISC	LOCATION
+1.0	State Condoleezza Rice	be	quote	PERSON	0
+0.7980928002171461	State Condoleezza Rice	describe	military effort	PERSON	0

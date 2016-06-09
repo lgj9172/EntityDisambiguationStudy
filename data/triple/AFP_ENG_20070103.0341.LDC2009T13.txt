@@ -1,0 +1,52 @@
+1.0	request	be	send to Strasbourg by end of January 2007	0	DATE
+1.0	retire admiral	become in	February 2006	0	DATE
+1.0	admiral	become	first high sentence	0	ORDINAL
+1.0	retire admiral	become	sentence fail	0	0
+1.0	admiral	become	first sentence fail	0	ORDINAL
+1.0	retire admiral	become	sentence	0	0
+1.0	admiral	become	first high sentence fail	0	ORDINAL
+1.0	admiral	become	sentence fail	0	0
+1.0	the retired admiral	acquire	two luxury flat	0	NUMBER
+1.0	admiral	become	such sentence	0	0
+1.0	admiral	become	sentence	0	0
+1.0	retire admiral	become	such sentence	0	0
+1.0	request	be	send to Strasbourg by end	0	DATE
+1.0	embezzlement	have	convicted	O	O
+1.0	Ilhami Erdil	commander of	turkish Navy	PERSON	ORGANIZATION
+1.0	admiral	become	first such sentence fail	0	ORDINAL
+1.0	retire admiral	become	first such sentence	0	ORDINAL
+1.0	he lawyer	say at_time	Wednesday	0	DATE
+1.0	he two-and-a-half year sentence	confirm on	appeal	NUMBER	0
+1.0	Hurriyet	be	turkish	ORGANIZATION	0
+1.0	admiral	become	such high sentence	0	0
+1.0	Ilhami Erdil	have	dignity	O	O
+1.0	retire admiral	become	first sentence fail	0	ORDINAL
+1.0	request	be send by	end	0	DATE
+1.0	Ilhami Erdil	have	year sentence	O	O
+1.0	Ilhami Erdil	have	lawyer	O	O
+1.0	request	be	send	0	DATE
+1.0	Erdil	have	lawyer	O	PERSON
+1.0	admiral	become	first such sentence	0	ORDINAL
+1.0	admiral	become	high sentence fail	0	0
+1.0	retire admiral	become	high sentence fail	0	0
+1.0	admiral	become in	February 2006	0	DATE
+1.0	admiral	become	such sentence fail	0	0
+1.0	Navy	have	commander	O	ORGANIZATION
+1.0	retire admiral	become	such sentence fail	0	0
+1.0	Erdil	have	lawyer	PERSON	0
+1.0	admiral	become	such high sentence fail	0	0
+1.0	Human Rights	have	European Court	ORGANIZATION	ORGANIZATION
+1.0	retire admiral	become	first high sentence	0	ORDINAL
+1.0	retire admiral	become	first sentence	0	ORDINAL
+1.0	retire admiral	become	first such sentence fail	0	ORDINAL
+1.0	retire admiral	become	high sentence	0	0
+1.0	retire admiral	become	such high sentence fail	0	0
+1.0	retire admiral	become	first high sentence fail	0	ORDINAL
+1.0	request	be send to	Strasbourg	0	LOCATION
+1.0	Ilhami Erdil	have	case	O	O
+1.0	January	have	end	DATE	DATE
+1.0	request	be send by	end of January 2007	0	DATE
+1.0	admiral	become	first sentence	0	ORDINAL
+1.0	admiral	become	high sentence	0	0
+1.0	retire admiral	become	such high sentence	0	0
+1.0	two-and-a-half year sentence	confirm on	appeal	NUMBER	0

@@ -1,0 +1,51 @@
+1.0	artillery battles	have	weeks	DURATION	O
+1.0	the vanquished Islamist movement to restore stability in the lawless African nation	have	differences	O	O
+1.0	strongholds	have	all	O	O
+1.0	air attacks	have	weeks	DURATION	O
+1.0	ethiopian force	pull of	country	0	0
+1.0	Abdullahi Yusuf Ahmed	resume	dialogue	PERSON	0
+0.8507815949740648	government troops	back by	ethiopian force	0	0
+1.0	situation	be in	Somalia	ORGANIZATION	LOCATION
+1.0	government troops	oust islamists from	all of stronghold	0	ORGANIZATION
+1.0	the Islamists	refuse	dialogue	MISC	0
+1.0	Last week	have	attempt	O	O
+1.0	Islamists	have concede	defeat	MISC	0
+1.0	Presidential Press Service	say in	statement	ORGANIZATION	0
+1.0	force	pull out of	country	0	0
+1.0	country	have	control	O	O
+1.0	government	have	creation	O	O
+1.0	talk	collapse in	November	0	DATE
+1.0	Kenya	have	Mwai Kibaki	LOCATION	PERSON
+1.0	Kenya 's	fail at_time	week	LOCATION	DATE
+1.0	Islamists	have concede defeat after	nearly two week	MISC	DURATION
+1.0	Kenya 's	fail at_time	Last week	LOCATION	DATE
+1.0	Islamists	have concede defeat after	nearly two week of ethiopian air attack	MISC	DURATION
+1.0	country	have	pulled	O	O
+1.0	country	flee	15-year conflict in Somalia	0	MISC
+1.0	Mombasa	have	city	O	LOCATION
+1.0	country	flee	conflict	0	0
+1.0	Abdullahi Yusuf Ahmed	resume dialogue with	the	PERSON	0
+1.0	Mwai Kibaki	be president of	Kenya	PERSON	LOCATION
+1.0	government troops	oust islamists from	all stronghold	0	ORGANIZATION
+1.0	Kenya	have	President Mwai Kibaki	PERSON	LOCATION
+1.0	secret talk	be in	Nairobi	0	LOCATION
+1.0	Abdullahi Yusuf Ahmed	have	office	O	O
+1.0	15-year conflict	be in	Somalia	DURATION	MISC
+1.0	ethiopian force	pull out of	country	0	0
+1.0	Abdullahi Yusuf Ahmed	have	government	O	O
+0.8507815949740648	government troops	back by	force	0	0
+1.0	the Somali government	have	borders	O	O
+1.0	country	play	host	0	0
+1.0	Kenya 's	fail in	its attempt	LOCATION	0
+1.0	Kenya 's	avert	conflict	LOCATION	0
+1.0	government troops	oust islamists from	all they stronghold	0	ORGANIZATION
+1.0	force	pull of	country	0	0
+1.0	government troops	oust islamists from	all of they stronghold	0	ORGANIZATION
+1.0	Kenya 's President Mwai Kibaki on Tuesday	have	counterpart	O	O
+1.0	country	flee	15-year conflict	0	DURATION
+1.0	Islamists	have concede defeat after	nearly two week of air attack	MISC	DURATION
+1.0	Mwai Kibaki	be on	Tuesday	PERSON	DATE
+1.0	government troops	oust	Islamists	0	MISC
+1.0	country	already play	host	0	0
+1.0	country	flee	conflict in Somalia	0	MISC
+1.0	their	have	strongholds	O	O

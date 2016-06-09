@@ -1,0 +1,44 @@
+1.0	United Nations	be	formerly know	ORGANIZATION	0
+1.0	troops	open	fire	0	0
+1.0	opposition leader	be	famous	0	0
+1.0	min Ko Naing	arrest	Min Zeya	PERSON	PERSON
+1.0	Min Zeya	go	Pyone Cho	PERSON	PERSON
+1.0	more than a decade	be in	prison	DURATION	0
+1.0	opposition leader	be most famous among	they	0	0
+1.0	min Ko Naing	be arrest in	late September	PERSON	DATE
+1.0	Ko Ko Gyi	be	Htay Kywe	PERSON	PERSON
+1.0	people	have	thousands	O	O
+1.0	thousand	be believe	have kill	DURATION	DURATION
+1.0	student leaders	have	all	O	O
+1.0	former student leaders who led a failed bloody uprising in August 1988 to demand an end to the military dictatorship	have	belief	O	O
+1.0	them	have	All	O	O
+1.0	1,100 political prisoner	be in	Myanmar	NUMBER	LOCATION
+1.0	Htay Kywe	be	free	PERSON	0
+1.0	our	have	belief	O	O
+1.0	their	have	role	O	O
+1.0	Min Ko Naing , one of the five freed activists	one of	the five free activist	PERSON	NUMBER
+1.0	troops	open fire on	mass student protest	0	DURATION
+0.40698801184380096	Min Zeya	go	Pyone Cho	PERSON	PERSON
+1.0	fail bloody uprising	be in	August 1988	0	DATE
+1.0	min Ko Naing	arrest	Ko Ko Gyi	PERSON	PERSON
+1.0	our	have	country	O	O
+1.0	nation	have	Independence Day	DURATION	O
+1.0	opposition leader	famous	Nobel Peace Laureate Aung San Suu Kyi	0	PERSON
+1.0	min Ko Naing	arrest	Htay Kywe	PERSON	PERSON
+1.0	United Nations	be formerly know as	burma	ORGANIZATION	0
+1.0	they role	be in	1988 uprising	0	DATE
+1.0	Ko Naing	say	he	PERSON	0
+1.0	thousand	be	kill	DURATION	0
+1.0	United Nations	be	know	ORGANIZATION	0
+1.0	thousand	be	believe	DURATION	0
+1.0	opposition leader	most famous	Nobel Peace Laureate Aung San Suu Kyi	0	PERSON
+1.0	nation	have	day	0	0
+1.0	our	have	student leaders	O	O
+1.0	min Ko Naing	be arrest in	September	PERSON	DATE
+1.0	Min Zeya	go	home	PERSON	0
+1.0	opposition leader	be famous among	they	0	0
+1.0	min Ko Naing	be	arrest	PERSON	0
+1.0	United Nations	be know as	burma	ORGANIZATION	0
+1.0	activists	have	one	NUMBER	O
+1.0	opposition leader	be	most famous	0	0
+1.0	min Ko Naing	arrest	Pyone Cho	PERSON	PERSON

@@ -1,0 +1,77 @@
+1.0	Hollywood legend Marlene Dietrich	have	appearance	O	O
+1.0	Hollywood legend Marlene Dietrich	be invite by	Leonard Thompson	PERSON	PERSON
+1.0	visit	have	time	DATE	O
+1.0	german-born actress	lose	cabaret star	0	0
+1.0	she appearance	be	coup for resort come four year	0	DURATION
+1.0	pearl earring	be in	1934	0	DATE
+1.0	other item	include	three set of false tooth	0	NUMBER
+1.0	item	include	three set	0	NUMBER
+1.0	actress	lose	pearl earring in 1934	0	DATE
+1.0	she appearance	be major coup for	resort	0	0
+1.0	he	scour	fairground	0	0
+1.0	boss	say at_time	Wednesday	0	DATE
+1.0	theme park	be in	England	0	LOCATION
+1.0	construction work	have	part	O	O
+1.0	item	include	three set of false tooth	0	NUMBER
+1.0	Hollywood legend Marlene Dietrich	be	invite to pleasure Beach by then manage director	PERSON	0
+0.7193861127229091	item	discover in	lake	0	0
+0.9370704084923263	ride	attraction at	Blackpool Pleasure Beach during appearance	0	ORGANIZATION
+1.0	piece	be unearth after	site of Log Flume lake	0	0
+1.0	it	withstand quite well	test of time	0	0
+1.0	other item	include	three set	0	NUMBER
+1.0	it	withstand	test	0	0
+1.0	search	prove	fruitless	0	0
+1.0	Hollywood legend Marlene Dietrich	be	invite to pleasure Beach by director	PERSON	0
+0.7193861127229091	other item	discover in	lake	0	0
+1.0	hers	have	one	NUMBER	O
+1.0	actress	lose	pearl earring	0	0
+1.0	piece	be unearth after	site	0	0
+1.0	she appearance	be	coup	0	0
+1.0	she appearance	be	major coup for resort come	0	0
+1.0	she appearance	be	coup for resort come	0	0
+1.0	Marlene Dietrich	be to	Hollywood	PERSON	LOCATION
+1.0	he	scour	44-acre fairground	0	0
+1.0	actress	take ride on	Dipper	0	MISC
+1.0	Hollywood legend Marlene Dietrich	be invite to	pleasure Beach	PERSON	0
+1.0	teeth	have	sets	O	O
+1.0	it	withstand well	test	0	0
+1.0	german-born actress	lose	pearl earring in 1934	0	DATE
+1.0	german-born actress	lose	pearl earring	0	0
+1.0	she appearance	be	coup come	0	0
+1.0	the time of her visit	have	test	O	O
+1.0	Log Flume lake	have	site	O	O
+0.9370704084923263	ride	attraction at	Blackpool Pleasure Beach during personal appearance	0	ORGANIZATION
+1.0	it	withstand	test of time	0	0
+1.0	glass eye	have	sets	O	O
+1.0	appearance	be	major	0	0
+1.0	Hollywood legend Marlene Dietrich	be invite by	director	PERSON	0
+1.0	bra	have	sets	O	O
+1.0	german-born actress	take ride on	Dipper	0	MISC
+1.0	she appearance	be	major coup come	0	0
+1.0	jewellery	have	piece	O	O
+1.0	German-born	have	visit	O	O
+1.0	german-born actress	take ride on	big Dipper	0	MISC
+1.0	actress	take ride on	big Dipper	0	MISC
+1.0	it	be	real	0	0
+1.0	Marlene Dietrich	be legend of	Hollywood	PERSON	LOCATION
+0.9370704084923263	ride	attraction at	Blackpool Pleasure Beach	0	ORGANIZATION
+1.0	actress	take	ride	0	0
+1.0	german-born actress	take	ride	0	0
+1.0	piece	be	unearth	0	0
+1.0	it	withstand well	test of time	0	0
+1.0	she appearance	be	coup come four year	0	DURATION
+1.0	Hollywood legend Marlene Dietrich	be	invite to pleasure Beach by manage director	PERSON	0
+1.0	it	withstand quite well	test	0	0
+1.0	she appearance	be coup for	resort	0	0
+1.0	Hollywood legend Marlene Dietrich	be invite by	then manage director	PERSON	0
+1.0	toupee	have	sets	O	O
+1.0	she appearance	be	major coup come four year	0	DURATION
+1.0	piece	be unearth after	site of old Log Flume lake	0	0
+1.0	Hollywood legend Marlene Dietrich	shoot to	fame	0	0
+1.0	actress	lose	cabaret star	0	0
+1.0	Hollywood legend Marlene Dietrich	be invite by	manage director	PERSON	0
+1.0	actress	take	cabaret star	0	0
+1.0	she appearance	be	major coup for resort come four year	0	DURATION
+1.0	german-born actress	take	cabaret star	0	0
+1.0	she appearance	be	major coup	0	0
+1.0	Hollywood legend Marlene Dietrich	be	invite	PERSON	0

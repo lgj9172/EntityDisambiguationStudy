@@ -1,0 +1,105 @@
+1.0	explosives	have	quantities	O	O
+1.0	trouble	have	origin	O	O
+1.0	quantity	contain	document	0	0
+1.0	clash	take south	place	0	0
+1.0	six armed men	have	names	O	O
+1.0	group	claim responsibility for	April 2002 truck-bomb attack	0	DATE
+1.0	assailant	be describe simply as	dangerous criminal	0	0
+1.0	assailant	be describe simply as	criminal	0	0
+1.0	Tunisia	have	desert border	O	LOCATION
+1.0	Tunisia	maintain	hard line	LOCATION	0
+1.0	assailant	be officially describe simply as	criminal	0	0
+1.0	threats	have	exception	O	O
+0.6247965484600756	contain	name of	certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	Interior Minister Rafik Haj Kacem	have	RCD party	O	O
+1.0	diplomats resident	have	names	O	O
+1.0	quantity	contain	name of certain diplomat resident in Tunisia	0	LOCATION
+1.0	hoax bomb threats	have	exception	O	O
+1.0	six armed men	have	membership	O	O
+1.0	capital	have	south	O	O
+0.6247965484600756	contain	name of	foreign diplomat resident in Tunisia	0	LOCATION
+1.0	Tunisia	have	south	O	LOCATION
+1.0	quantity	contain	plan	0	0
+1.0	minister	be	quote	0	0
+1.0	assailant	be	at time describe as dangerous criminal	0	DATE
+0.6247965484600756	contain	name of	certain foreign diplomat resident	0	0
+1.0	assailant	be	describe simply	0	0
+1.0	assailant	be	officially describe simply	0	0
+1.0	assailant	be	at time officially describe simply as criminal	0	DATE
+1.0	group	have	members	O	O
+1.0	clash	take place south at	Hamman-Lif	0	LOCATION
+1.0	quantity	contain	plan of foreign embassy	0	0
+1.0	Tunisia	have	sprawling desert border	LOCATION	0
+1.0	quantity	contain	name of certain foreign diplomat resident	0	0
+1.0	Tunisians	have	comprised	O	MISC
+1.0	quantity	contain	name of diplomat resident in Tunisia	0	LOCATION
+1.0	suspect	be in	the last three week	0	DURATION
+1.0	assailant	be	at time describe simply as dangerous criminal	0	DATE
+1.0	quantity	contain	name of certain diplomat resident	0	0
+1.0	assailant	be describe as	dangerous criminal	0	0
+1.0	minister	say	Friday	0	DATE
+1.0	six armed men	have	contacts	O	O
+0.6247965484600756	contain	name of	foreign diplomat resident	0	0
+1.0	Tunisia	maintain line against	islamic extremist	LOCATION	0
+1.0	Salafist Group for Preaching and Combat	for group be	radical group	ORGANIZATION	0
+1.0	quantity	contain	name of certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	assailant	be	at time officially describe as dangerous criminal	0	DATE
+1.0	we	seize	quantity of home-made explosive	0	0
+1.0	United States	have	embassies	O	LOCATION
+1.0	we	seize	quantity of explosive	0	0
+1.0	Tunisia	maintain	line	LOCATION	0
+1.0	Salafist Group for Preaching and Combat	be affiliate of	Al-Qaeda	ORGANIZATION	ORGANIZATION
+0.6247965484600756	contain	name of	diplomat resident	0	0
+1.0	Tunisia	maintain line against	extremist	LOCATION	0
+1.0	France	have	embassies	O	LOCATION
+1.0	group	have	membership	O	O
+1.0	assailant	be	at time officially describe as criminal	0	DATE
+1.0	clash	take place at	Hamman-Lif	0	LOCATION
+1.0	investigation	allow	we	0	0
+1.0	certain foreign diplomat resident	be in	Tunisia	0	LOCATION
+1.0	assailant	be	at time describe as criminal	0	DATE
+1.0	six armed men	have	plans	O	O
+1.0	centre	have	embassies	O	O
+1.0	assailant	be officially describe simply at	time	0	DATE
+1.0	Salafist Group for Preaching and Combat	be to	Al-Qaeda	ORGANIZATION	ORGANIZATION
+1.0	Rafik Haj Kacem	be minister of	Interior	PERSON	ORGANIZATION
+1.0	assailant	be describe at	time	0	DATE
+1.0	embassies	have	plans	O	O
+1.0	RCD party	have	meeting	O	O
+1.0	group	claim	responsibility	0	0
+1.0	attacks	have	cases	O	O
+1.0	assailant	be	describe	0	0
+1.0	clash	take	place	0	0
+1.0	quantity	contain	plan of embassy	0	0
+1.0	police	be in	clash	0	0
+1.0	quantity	contain	name of diplomat resident	0	0
+1.0	assailant	be officially describe at	time	0	DATE
+1.0	assailant	be	at time describe simply as criminal	0	DATE
+1.0	diplomats	have	lists	O	O
+1.0	security forces	have	members	O	O
+1.0	quantity	contain	plan of certain foreign embassy	0	0
+1.0	foreign diplomats	have	inquiries	O	O
+1.0	Interior Minister Rafik Haj Kacem	tell	meeting	PERSON	0
+1.0	quantity	contain	name of foreign diplomat resident	0	0
+1.0	position	be in	Grombalia region	0	LOCATION
+1.0	Rafik Haj Kacem	be	Interior	PERSON	ORGANIZATION
+0.6247965484600756	contain	name of	diplomat resident in Tunisia	0	LOCATION
+1.0	quantity	contain	plan of certain embassy	0	0
+1.0	Interior Minister Rafik Haj Kacem	say on	Friday	PERSON	DATE
+1.0	quantity	contain	name	0	0
+1.0	assailant	be officially describe simply as	dangerous criminal	0	0
+1.0	we	seize	quantity	0	0
+1.0	Interior Minister Rafik Haj Kacem	say at_time	Friday	PERSON	DATE
+1.0	group	claim responsibility for	April 2002 attack	0	DATE
+1.0	synagogue	be in	Djerba	0	LOCATION
+0.4270380572397973	army unit	police in	clash	0	0
+1.0	assailant	be officially describe as	criminal	0	0
+1.0	assailant	be	at time officially describe simply as dangerous criminal	0	DATE
+1.0	assailant	be officially describe as	dangerous criminal	0	0
+1.0	assailant	be	officially describe	0	0
+1.0	economic facility	be in	resort town	0	0
+1.0	assailant	be describe simply at	time	0	DATE
+1.0	quantity	contain	name of foreign diplomat resident in Tunisia	0	LOCATION
+1.0	assailant	be describe as	criminal	0	0
+0.6247965484600756	contain	name of	certain diplomat resident in Tunisia	0	LOCATION
+0.6247965484600756	contain	name of	certain diplomat resident	0	0

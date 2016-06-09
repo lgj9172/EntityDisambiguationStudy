@@ -1,0 +1,26 @@
+1.0	Italy 's	be	part	LOCATION	0
+1.0	United States	have	operations	O	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike	PERSON	LOCATION
+1.0	Italy 's	be part of	international contact group	LOCATION	0
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike in Somalia	PERSON	LOCATION
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike in southern Somalia	PERSON	LOCATION
+1.0	Foreign Minister Massimo d'Alema	criticize	US air strike	PERSON	LOCATION
+1.0	Italy 's	be part of	contact group on Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along with representative of United Nations	LOCATION	ORGANIZATION
+1.0	United States	be in	Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	contact group on Somalia along	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along with representative	LOCATION	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike in southern Somalia	PERSON	LOCATION
+1.0	Italy 's	be part of	contact group	LOCATION	0
+1.0	Massimo d'Alema	be on	Tuesday	PERSON	DATE
+1.0	italian Foreign Minister Massimo d'Alema	criticize	US air strike in Somalia	PERSON	LOCATION
+1.0	contact group	have	part	O	O
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	Italy 's	be part of	international contact group on Somalia	LOCATION	LOCATION
+1.0	United Nations	have	representatives	O	ORGANIZATION
+1.0	Italy 's	be part of	contact group on Somalia along with representative	LOCATION	LOCATION
+1.0	Italy	have	opposition	O	LOCATION
+1.0	Italy	have	opposition	LOCATION	0
+1.0	Italy 's	be part of	contact group on Somalia along with representative of United Nations	LOCATION	ORGANIZATION
+1.0	US air strike	be in	Somalia	LOCATION	LOCATION
+1.0	Italy 's	be part of	international contact group on Somalia along	LOCATION	LOCATION

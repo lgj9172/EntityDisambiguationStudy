@@ -1,0 +1,56 @@
+1.0	North Rhine-Westphalia	have	economics minister	O	LOCATION
+1.0	state government	issue	guarantee	0	0
+1.0	state authority	consider bid to	rescue phone maker at least	0	0
+1.0	regional state authority	consider bid to	rescue mobile phone maker	0	0
+1.0	regional state authority	consider bid to	rescue insolvent mobile phone maker at least	0	0
+1.0	regional state government	issue	guarantee	0	0
+1.0	points	have	number	O	O
+1.0	regional state authority	consider	bid	0	0
+1.0	state authority	consider bid to	rescue mobile phone maker	0	0
+1.0	North Rhine-Westphalia	of	economics minister	LOCATION	0
+1.0	newspaper	quote	spokesman of North Rhine-Westphalia 's economics minister	0	LOCATION
+1.0	newspaper	quote	spokesman	0	0
+1.0	state authority	consider bid to	rescue mobile phone maker at least	0	0
+1.0	state authority	consider bid to	rescue insolvent phone maker	0	0
+1.0	guarantee	be	necessary	0	0
+1.0	Welt	report in	its online edition	ORGANIZATION	0
+1.0	North Rhine-Westphalia	have	edition	O	O
+1.0	regional state authority	consider bid to	rescue insolvent mobile phone maker	0	0
+1.0	state authority	consider bid to	rescue insolvent phone maker at least	0	0
+1.0	lawyer	secure	advantageous condition	0	0
+1.0	client	have	offer	O	O
+1.0	regional state authority	consider bid to	rescue insolvent phone maker	0	0
+0.9875834142761146	long-term investor	can	can find	0	0
+1.0	North Rhine-Westphalia	have	state authorities	O	LOCATION
+1.0	BenQ Mobile	arm of	taiwanese electronics maker	ORGANIZATION	0
+1.0	state authority	consider bid to	rescue phone maker	0	0
+1.0	Welt	report in	its edition	ORGANIZATION	0
+1.0	BenQ Mobile	have	sale	O	ORGANIZATION
+1.0	regional state authority	consider bid to	rescue mobile phone maker at least	0	0
+1.0	Welt	report at_time	Friday	ORGANIZATION	DATE
+1.0	Martin Prager	have	spokeswoman	O	O
+1.0	Prager	have	comments	O	PERSON
+1.0	regional state authority	consider bid to	rescue insolvent phone maker at least	0	0
+1.0	his clients	have	client	O	O
+1.0	regional state authority	consider bid to	rescue phone maker at least	0	0
+1.0	he client	submit	firm offer	0	0
+1.0	state authority	consider bid to	rescue insolvent mobile phone maker at least	0	0
+1.0	state authority	consider	bid	0	0
+1.0	state authority	consider bid to	rescue insolvent mobile phone maker	0	0
+1.0	taiwanese electronics maker	of arm be	BenQ Mobile	0	ORGANIZATION
+1.0	parties	have	number	O	O
+1.0	a Munich-based lawyer for an unnamed group of German and US investors	have	clients	O	O
+1.0	regional state authority	consider bid to	rescue phone maker	0	0
+1.0	lawyer	secure	condition	0	0
+1.0	insolvency proceedings	have	charge	O	O
+1.0	electronics maker	have	arm	O	O
+1.0	economics minister	have	spokesman	O	O
+1.0	Prager	at	comment	PERSON	0
+1.0	investors	have	group	O	O
+1.0	investor group	be demand	condition	0	0
+1.0	Christa Thoben	be economics minister of	North Rhine-Westphalia	PERSON	LOCATION
+0.9875834142761146	investor	can	can find	0	0
+1.0	interest	have	expressions	O	O
+1.0	North Rhine-Westphalia	's minister be	Christa Thoben	LOCATION	PERSON
+1.0	court-appointed administrator	be in	charge of insolvency proceedings at BenQ Mobile	0	ORGANIZATION
+1.0	BenQ Mobile	be	Martin Prager	ORGANIZATION	PERSON

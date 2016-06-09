@@ -1,0 +1,50 @@
+1.0	release	be	expect	0	0
+1.0	Mussa Abu Marzuk	tell	afp	PERSON	0
+1.0	number	have	release	O	O
+1.0	Ghazi Hamad	say at	egyptian border cross of Rafah	PERSON	LOCATION
+0.633593924617174	hajj pilgrimage	say on	he way	0	0
+1.0	islamist movement	demand release in	return	0	0
+1.0	hajj pilgrimage	say	Ghazi Hamad	0	PERSON
+1.0	Hamas bureau	have	head	O	O
+1.0	Ghazi Hamad	say at	border cross	PERSON	0
+1.0	a captured Israeli soldier	have	way	O	O
+1.0	Mussa Abu Marzuk	head of	Hamas political bureau	PERSON	ORGANIZATION
+1.0	Gilad Shalit	have	freedom	O	O
+1.0	Gaza Strip	be from	Saudi Arabia	LOCATION	LOCATION
+1.0	release	be expect	high on agenda at summit	0	0
+1.0	release	be expect	high in Red Sea resort	0	LOCATION
+1.0	islamist movement	demand	release of 1,000 Palestinians	0	NUMBER
+1.0	soldier	have	release	O	O
+0.633593924617174	hajj pilgrimage	say back on	he way	0	0
+1.0	islamist movement	demand	release	0	0
+1.0	his	have	relatives	O	O
+1.0	release	be expect	high on agenda at summit in Red Sea resort	0	LOCATION
+1.0	Hamas	have	wing	O	ORGANIZATION
+1.0	hajj pilgrimage	say hamad back on	he way	0	0
+1.0	release	be expect	high	0	0
+1.0	movement	demand	release of 1,000 Palestinians	0	NUMBER
+1.0	movement	demand release in	return	0	0
+1.0	Hosni Mubarak	be between	Egyptian	PERSON	MISC
+1.0	Rafah	have	crossing	O	LOCATION
+1.0	Sharm el-Sheikh	have	Red Sea resort	O	LOCATION
+1.0	movement	demand	release	0	0
+1.0	Corporal Gilad Shalit	have	release	O	PERSON
+1.0	hajj pilgrimage	say back	Ghazi Hamad	0	PERSON
+1.0	prisoners	have	number	O	O
+1.0	Ghazi Hamad	say at	egyptian border cross	PERSON	0
+1.0	Ghazi Hamad	say at	egyptian border	PERSON	0
+1.0	release	be expect	high on agenda in Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	Gilad Shalit	have	recording	O	PERSON
+1.0	Hamas spokesman	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Palestinians	have	hundreds	O	MISC
+1.0	Ghazi Hamad	say at	border cross of Rafah	PERSON	LOCATION
+1.0	Hamas	say in	Damascus	ORGANIZATION	LOCATION
+1.0	Ehud Olmert	be	Israeli	PERSON	MISC
+1.0	release	be expect	high on agenda in Red Sea resort	0	LOCATION
+1.0	Palestinians	have	release	O	MISC
+1.0	Ghazi Hamad	say at	border	PERSON	0
+1.0	obstacle	be in	deal	0	0
+1.0	release	be expect	high on agenda	0	0
+1.0	Hamas	say at_time	Thursday	ORGANIZATION	DATE
+1.0	release	be expect	high in Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	hajj pilgrimage	say hamad on	he way	0	0

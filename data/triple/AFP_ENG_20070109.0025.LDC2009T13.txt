@@ -1,0 +1,126 @@
+1.0	Public opinion	part	public support	0	0
+1.0	war	be	how fight	0	0
+1.0	several	confirm	plan	DURATION	0
+1.0	several	reportedly confirm plan in	US troop level	DURATION	LOCATION
+1.0	time	have	lot	O	O
+1.0	Kennedy	tell	NBC 's program	PERSON	ORGANIZATION
+1.0	Bush	have	strategy	O	O
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	18 percent	see	more US troops	PERCENT	LOCATION
+1.0	Bush	rating in	cellar	PERSON	0
+1.0	war	be fight during	he two year in office	0	DATE
+1.0	percent	call for	complete withdrawal	PERCENT	0
+1.0	percent	see us troops in	Iraq	PERCENT	LOCATION
+1.0	White House	sell	US public	ORGANIZATION	LOCATION
+1.0	29 percent	call for	complete withdrawal	PERCENT	0
+1.0	Public opinion	important part	public support	0	0
+1.0	president	have	speech	O	O
+1.0	Public opinion	be part of	this	0	0
+1.0	Public opinion	very important part	public support	0	0
+1.0	war	be	how fight during he last two year	0	DATE
+1.0	US President George W. Bush	face opposition to	he plan	LOCATION	0
+1.0	people	have	percent	PERCENT	O
+1.0	iraqi security force	kill	50 militant	0	NUMBER
+1.0	soldiers to a battlefield	have	3,000	NUMBER	O
+1.0	US President George W. Bush on Tuesday	have	plan	O	O
+1.0	war	be fight during	he two year	0	DATE
+1.0	Bush	push	he initiative	PERSON	0
+1.0	Public opinion	part	support	0	0
+1.0	opinion	be	important	0	0
+1.0	Bush	unveil	he new strategy	PERSON	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	18 percent	see us troops in	Iraq	PERCENT	LOCATION
+1.0	White House	anticipate	fierce resistance	ORGANIZATION	0
+1.0	new opinion poll	find	US believe	0	LOCATION
+0.5134306820972369	USA Today/Gallup survey	take through	Sunday	ORGANIZATION	DATE
+1.0	White House	have map	aggressive strategy	ORGANIZATION	0
+1.0	war	be	how fight during he two year	0	DATE
+1.0	approval	stand at	26 percent	0	PERCENT
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	war	be fight during	he last two year in office	0	DATE
+0.9056087253354881	US soldier	more	as many as 20,000	LOCATION	NUMBER
+1.0	percent	seek	decrease	PERCENT	0
+1.0	Congress	be to	US	ORGANIZATION	LOCATION
+1.0	Public opinion	be important part of	this	0	0
+1.0	several	confirm plan in	US troop level	DURATION	LOCATION
+1.0	speech	have	eve	O	O
+1.0	fierce clash	rage in	Baghdad	0	LOCATION
+1.0	White House	have map	strategy	ORGANIZATION	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Bush	have	handling	O	PERSON
+1.0	Thursday	be in	Georgia	DATE	LOCATION
+1.0	Public opinion	be	very important part	0	0
+1.0	Bush	have	years	DATE	O
+1.0	weapons	have	arsenal	O	O
+1.0	Bush	unveil	he strategy	PERSON	0
+1.0	NBC	have	today program	ORGANIZATION	0
+1.0	violence	have	sign	O	O
+1.0	Ted Kennedy	be	Democratic	PERSON	MISC
+1.0	18 percent	see	US troops	PERCENT	LOCATION
+1.0	Americans	have	percent	PERCENT	MISC
+1.0	US President George W. Bush	face	opposition	LOCATION	0
+1.0	president	of	speech	0	0
+1.0	fierce clash	rage in	capital	0	0
+1.0	percent	see	more US troops	PERCENT	LOCATION
+1.0	mass destruction	have	weapons	O	O
+0.5134306820972369	USA Today/Gallup survey	take	Friday	ORGANIZATION	DATE
+1.0	war	be fight during	he last two year	0	DATE
+1.0	White House	anticipate	resistance	ORGANIZATION	0
+1.0	Bush	of	handling of Iraq situation	PERSON	LOCATION
+1.0	plan	have	particulars	O	O
+1.0	its	have	goals	O	O
+1.0	us-backed security force	kill	50 militant	0	NUMBER
+1.0	Bush	have	job approval ratings	O	O
+1.0	opinion poll	find	US believe	0	LOCATION
+1.0	clash	rage in	Baghdad	0	LOCATION
+1.0	Defense Secretary Robert Gates	have	US Secretary	O	PERSON
+1.0	Iraq situation	have	handling	O	O
+1.0	clash	rage in	capital	0	0
+1.0	George W. Bush	be on	Tuesday	PERSON	DATE
+1.0	US President George W. Bush	face	steep opposition	LOCATION	0
+1.0	29 percent	call for	withdrawal	PERCENT	0
+1.0	30 percent	seek	decrease	PERCENT	0
+1.0	talks	have	days	DURATION	O
+1.0	Public opinion	be	important part	0	0
+1.0	top aide	go to	US Congress	0	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	several	confirm plan to	surge	DURATION	0
+1.0	NBC	have	program	O	ORGANIZATION
+1.0	handling	have	Approval	O	O
+1.0	war	be in	Iraq	0	LOCATION
+1.0	several	reportedly confirm	plan	DURATION	0
+1.0	last two year	be in	office	DATE	0
+1.0	Wednesday	be in	speech	DATE	0
+1.0	three	have	error margin	O	NUMBER
+1.0	drag violence	be in	Iraq	0	LOCATION
+1.0	Public opinion	be	part	0	0
+1.0	Public opinion	important part	support	0	0
+1.0	Public opinion	be very important part of	this	0	0
+1.0	new public opinion poll	find	US believe	0	LOCATION
+1.0	percent	see	US troops	PERCENT	LOCATION
+1.0	his	have	arsenal	O	O
+1.0	percent	call for	withdrawal	PERCENT	0
+1.0	aide	go to	US Congress	0	LOCATION
+1.0	he job approval rating	be in	cellar	0	0
+1.0	Senior Democratic Senator Ted Kennedy	say at_time	Tuesday	PERSON	DATE
+1.0	public opinion poll	find	US believe	0	LOCATION
+1.0	war	be	how fight during he last two year in office	0	DATE
+1.0	security force	kill	50 militant	0	NUMBER
+1.0	Public opinion	very important part	support	0	0
+1.0	war	be	fight	0	0
+1.0	war	be	how fight during he two year in office	0	DATE
+1.0	several	reportedly confirm plan to	surge	DURATION	0
+1.0	Congress	be	the United States	ORGANIZATION	LOCATION
+0.9129447633152606	Kennedy	member of	Armed Services Committee	PERSON	ORGANIZATION
+1.0	Armed Services Committee	have	member	O	ORGANIZATION
+1.0	time	have	bit	O	O
+1.0	Kennedy	member of	Armed Services Committee	PERSON	ORGANIZATION
+1.0	White House	sell us public on	plan	ORGANIZATION	0
+1.0	us-backed iraqi security force	kill	50 militant	0	NUMBER
+1.0	this	have	part	O	O
+1.0	his	have	initiative	O	O
+1.0	approval	stand at	record low	0	0
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	Congress	be in	November election	ORGANIZATION	DATE
+1.0	troops	have	deployment	O	O
+1.0	US President George W. Bush	escalate	war	LOCATION	0

@@ -1,0 +1,25 @@
+1.0	NFL team	be expect	play once in 16 year	ORGANIZATION	DATE
+1.0	NFL	stage	its first such game	ORGANIZATION	ORDINAL
+1.0	NFL team	be expect	play once	ORGANIZATION	DATE
+1.0	NFL team	be expect	play in 16 year	ORGANIZATION	DATE
+1.0	NFL team	be	expect	ORGANIZATION	0
+1.0	NFL	have	game	O	ORGANIZATION
+1.0	NFL	stage	its such game	ORGANIZATION	0
+1.0	NFL team	be expect	play once beyond US border	ORGANIZATION	LOCATION
+1.0	NFL team	be expect	play once beyond US border in next 16 year	ORGANIZATION	LOCATION
+1.0	NFL team	play in	next 16 year	ORGANIZATION	DATE
+1.0	NFL team	be expect	play once in next 16 year	ORGANIZATION	DATE
+1.0	NFL team	play once in	16 year	ORGANIZATION	DATE
+1.0	Arizona	defeat	San Francisco 31-14	LOCATION	NUMBER
+1.0	The newspaper	have	game	O	O
+1.0	NFL	have	first regular-season game	ORGANIZATION	ORDINAL
+1.0	NFL team	play in	16 year	ORGANIZATION	DATE
+1.0	NFL	stage	its game	ORGANIZATION	0
+1.0	NFL team	be expect	play	ORGANIZATION	0
+1.0	NFL team	be expect	play once beyond US border in 16 year	ORGANIZATION	LOCATION
+1.0	NFL team	play once in	next 16 year	ORGANIZATION	DATE
+1.0	London	have	Wembley Stadium	LOCATION	LOCATION
+1.0	NFL	stage	its first game	ORGANIZATION	ORDINAL
+1.0	NFL team	be expect	play in next 16 year	ORGANIZATION	DATE
+1.0	London	at	Wembley Stadium	LOCATION	LOCATION
+1.0	New York Daily News	report at_time	Friday	ORGANIZATION	DATE

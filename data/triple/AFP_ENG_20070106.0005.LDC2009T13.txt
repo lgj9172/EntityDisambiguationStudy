@@ -1,0 +1,105 @@
+1.0	four marine	be	charge	0	0
+1.0	Another marine	have	bodies	O	O
+1.0	marine	respond to	roadside bombing	0	0
+1.0	taxi	have	occupants	O	O
+1.0	four marine	be	charge with murder in connection with death	0	0
+1.0	marine	be	charge month in connection with civilian death	0	DATE
+1.0	marine	be	charge month in connection with civilian death in Haditha	0	DATE
+1.0	account	cite	document obtain	0	0
+1.0	four marine	be charge in	connection	0	0
+1.0	marine	be charge with	murder	0	0
+1.0	each	face	possibility of life	0	0
+1.0	marine	be	charge with murder month in connection	0	DATE
+1.0	four marine	be	charge with murder in connection with death in Haditha	0	0
+1.0	marine	be	charge with murder last month in connection	0	DATE
+1.0	four marine	be charge at_time	month	0	DATE
+1.0	four marine	be	charge with murder last month	0	DATE
+1.0	marine	be charge in	connection	0	0
+1.0	marine	be	charge with murder last month in connection with death	0	DATE
+1.0	marine	be charge in	connection with civilian death in Haditha	0	0
+1.0	Washington Post	report at_time	Saturday	ORGANIZATION	DATE
+1.0	life	be in	prison	0	0
+1.0	four marine	be	charge last month in connection with death in Haditha	0	DATE
+1.0	marine	be charge at_time	month	0	DATE
+1.0	squad	have	leader	0	0
+1.0	marine	be	charge with murder month in connection with death in Haditha	0	DATE
+1.0	marine	be	charge with murder last month	0	DATE
+1.0	four marine	be	charge with murder month in connection with death in Haditha	0	DATE
+1.0	four marine	be charge in	connection with death	0	0
+1.0	marine	be	charge with murder last month in connection with civilian death	0	DATE
+1.0	four marine	be	charge month in connection with death in Haditha	0	DATE
+1.0	marine	be charge in	connection with civilian death	0	0
+1.0	connection	be with	civilian death in Haditha	0	0
+1.0	marine	be	charge with murder month	0	DATE
+1.0	four marine	be charge at_time	last month	0	DATE
+1.0	marine	be	charge with murder last month in connection with death in Haditha	0	DATE
+1.0	four marine	be	charge with murder month in connection with civilian death	0	DATE
+1.0	four marine	be charge in	connection with civilian death	0	0
+1.0	four marine	be	charge with murder month	0	DATE
+1.0	four marine	be	charge with murder last month in connection with death in Haditha	0	DATE
+1.0	marine	be	charge last month in connection	0	DATE
+1.0	marine	be	charge with murder last month in connection with civilian death in Haditha	0	DATE
+1.0	white taxi	be in	moment follow explosion	0	0
+1.0	Asad Amer Mashoot	watch in	horror	0	0
+1.0	marine	be charge in	connection with death	0	0
+1.0	marine	be	charge with murder in connection with civilian death in Haditha	0	0
+1.0	their	have	rules	O	O
+1.0	four marine	be	charge month in connection with death	0	DATE
+1.0	four marine	be	charge with murder in connection with civilian death	0	0
+1.0	paper	cite	report	0	0
+1.0	four marine	be charge with	murder	0	0
+1.0	four marine	be charge in	connection with civilian death in Haditha	0	0
+1.0	four marine	be	charge with murder month in connection with civilian death in Haditha	0	DATE
+1.0	interview	be with	marine	0	0
+1.0	four marine	be	charge with murder month in connection with death	0	DATE
+1.0	marine	be	charge month in connection	0	DATE
+1.0	marine	be	charge with murder month in connection with civilian death in Haditha	0	DATE
+1.0	marine	be	charge month in connection with death	0	DATE
+1.0	marine	be	charge with murder in connection	0	0
+1.0	engagement	have	rules	O	O
+1.0	marine	be	charge month in connection with death in Haditha	0	DATE
+1.0	marine	be	charge last month in connection with death in Haditha	0	DATE
+1.0	marine	be	charge last month in connection with civilian death	0	DATE
+1.0	marine	be	charge with murder in connection with death in Haditha	0	0
+1.0	marine	be	charge last month in connection with civilian death in Haditha	0	DATE
+1.0	taxi	have	ordered	O	O
+1.0	Post	quote	report	ORGANIZATION	0
+1.0	four marine	be	charge with murder month in connection	0	DATE
+1.0	Frank Wuterich	have	feet	O	O
+1.0	marine	be	charge with murder in connection with civilian death	0	0
+1.0	marine	be	charge with murder month in connection with death	0	DATE
+1.0	taxi	have	five occupant	0	NUMBER
+1.0	four marine	be	charge last month in connection with civilian death in Haditha	0	DATE
+1.0	account	cite	document	0	0
+1.0	marine	be	charge with murder in connection with death	0	0
+1.0	squad	have	leader	O	O
+1.0	four marine	be	charge with murder in connection	0	0
+1.0	four marine	be	charge with murder last month in connection with death	0	DATE
+1.0	four marine	be	charge with murder last month in connection with civilian death	0	DATE
+1.0	roadside bombing	have	scene	O	O
+1.0	account	cite	document obtain by newspaper	0	0
+1.0	four marine	be	charge with murder in connection with civilian death in Haditha	0	0
+1.0	witnesses	have	One	NUMBER	O
+1.0	paper	cite	military report	0	0
+1.0	civilian death	be in	Haditha	0	0
+1.0	each	face	possibility	0	0
+1.0	interviews	have	hundreds	O	O
+1.0	marine	be charge at_time	last month	0	DATE
+1.0	marine	be	charge	0	0
+1.0	Frank Wuterich	leader 's	squad	PERSON	0
+1.0	four marine	be	charge with murder last month in connection with civilian death in Haditha	0	DATE
+1.0	four marine	be	charge last month in connection with death	0	DATE
+1.0	four marine	be	charge month in connection with civilian death	0	DATE
+1.0	four marine	be charge in	connection with death in Haditha	0	0
+1.0	four marine	be	charge last month in connection with civilian death	0	DATE
+1.0	marine	be	charge last month in connection with death	0	DATE
+1.0	four marine	be	charge last month in connection	0	DATE
+1.0	four marine	be	charge with murder last month in connection	0	DATE
+1.0	Asad Amer Mashoot	watch as	four student	0	NUMBER
+1.0	four marine	be	charge month in connection with civilian death in Haditha	0	DATE
+1.0	reactions	have	series	O	O
+1.0	marine	be charge in	connection with death in Haditha	0	0
+1.0	four marine	be	charge month in connection	0	DATE
+1.0	life	have	possibility	O	O
+1.0	marine	be	charge with murder month in connection with civilian death	0	DATE
+1.0	each	face	possibility of life in prison	0	0

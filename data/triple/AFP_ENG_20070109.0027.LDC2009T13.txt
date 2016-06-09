@@ -1,0 +1,24 @@
+1.0	job	call in	city	0	0
+1.0	they winning bid	call for	plant-filled roof	0	0
+1.0	they winning bid	call for	roof	0	0
+1.0	residential complex	be in	China	0	LOCATION
+1.0	residences	have	metres	O	O
+1.0	job	call for	plan for 150,000 metre of residence	0	NUMBER
+1.0	they bid	use	rain water	0	0
+1.0	job	call for	plan for 150,000 square metre of residence	0	NUMBER
+1.0	they winning bid	use rain water for	irrigation	0	0
+1.0	they bid	call for	roof	0	0
+1.0	they winning bid	use	rain water	0	0
+1.0	job	call for	plan for 150,000 square metre	0	NUMBER
+1.0	job	call in	chinese city	0	0
+1.0	job	call for	plan	0	0
+1.0	job	call	located near Hong Kong	0	LOCATION
+1.0	million-dollar	have	bid	O	O
+1.0	they bid	call for	plant-filled roof	0	0
+1.0	job	call	located	0	0
+1.0	shops	have	metres	O	O
+1.0	million-dollar	say at_time	Tuesday	0	DATE
+1.0	architects	have	group	O	O
+1.0	job	call for	plan for 150,000 metre	0	NUMBER
+1.0	trade association	have	head	O	O
+1.0	they bid	use rain water for	irrigation	0	0

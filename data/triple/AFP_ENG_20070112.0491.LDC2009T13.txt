@@ -1,0 +1,37 @@
+1.0	clash	lead	force	0	0
+1.0	safe haven	be in	Pakistan 's tribal area	0	LOCATION
+1.0	things	have	One	NUMBER	O
+1.0	Gates	refer to	Afghanistan 's President Hamid Karzai	PERSON	PERSON
+1.0	Hamid Karzai	be president of	Afghanistan	PERSON	LOCATION
+0.6641460647570833	force	clash with	NATO	0	ORGANIZATION
+1.0	he visit	come amid	major resurgence of Taliban	0	ORGANIZATION
+1.0	he visit	come amid	major resurgence	0	0
+1.0	His	have	visit	O	O
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	country	in	restive south	0	0
+1.0	Gates	say	refer to Afghanistan 's President Hamid Karzai	PERSON	PERSON
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION
+1.0	We	have	attention	O	O
+1.0	would he first stop	be in	trip to region	ORDINAL	0
+1.0	US Defense Secretary Robert Gates	have	stop	O	O
+1.0	Pakistan	in	tribal area	LOCATION	0
+1.0	air attack	be in	Paktika	0	LOCATION
+1.0	John Negroponte	be intelligence chief of	US	PERSON	LOCATION
+1.0	US Defense Secretary Robert Gates	have	week	DATE	O
+1.0	clash	be with	NATO	0	ORGANIZATION
+1.0	country	have	south	O	O
+1.0	Gates	say	refer	PERSON	0
+1.0	US Defense Secretary Robert Gates	say at_time	Friday	PERSON	DATE
+1.0	John Negroponte	be	US	PERSON	LOCATION
+1.0	Afghanistan	have	President Hamid Karzai	PERSON	LOCATION
+1.0	insurgency	be in	Afghanistan	0	LOCATION
+1.0	Afghanistan	to	Hamid Karzai	LOCATION	PERSON
+1.0	Taliban	have	resurgence	O	ORGANIZATION
+1.0	US intelligence chief John Negroponte	tell	Congress	LOCATION	ORGANIZATION
+1.0	Pakistan	have	areas	O	LOCATION
+1.0	he visit	come amid	resurgence of Taliban	0	ORGANIZATION
+1.0	Congress	be on	Thursday	ORGANIZATION	DATE
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	attention	have	this	O	O
+1.0	he visit	come amid	resurgence	0	0
+1.0	US Defense Secretary Robert Gates	have	itinerary	O	O

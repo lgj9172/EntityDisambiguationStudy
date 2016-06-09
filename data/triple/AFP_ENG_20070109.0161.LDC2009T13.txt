@@ -1,0 +1,178 @@
+1.0	GAO	raise question about	quality of unit	ORGANIZATION	0
+1.0	US	have	prospect	O	LOCATION
+1.0	new question	return	home	0	0
+1.0	US involvement	have	costs	O	O
+1.0	it	warn of	strain on US force press into repeat tour of duty	0	LOCATION
+1.0	128 army unit	have	specific security responsibility	NUMBER	0
+1.0	US government auditor	release	grim report card of american record	LOCATION	0
+1.0	US government auditor	release	grim report card of american record in violence-wracked Iraq	LOCATION	LOCATION
+1.0	lawmaker	mount	effective oversight	0	0
+1.0	US government auditor	release report card on	eve of President George W. Bush 's rollout of strategy	LOCATION	PERSON
+1.0	it	warn of	strain on US force press into tour of duty of military supplies	0	LOCATION
+1.0	report	partially identify cost in	Iraq	0	LOCATION
+1.0	US government auditor	release report card on	eve of President George W. Bush 's rollout of new strategy	LOCATION	PERSON
+1.0	report	also raise question as to	combat readiness of us-trained troops	0	0
+1.0	US government auditor	release	report card of record	LOCATION	0
+1.0	US government auditor	release	report card of american record	LOCATION	0
+1.0	his	have	strategy	O	O
+1.0	report	raise question as to	combat readiness of us-trained troops	0	0
+1.0	it	warn of	strain on US force press	0	LOCATION
+1.0	oil production	fall well short of	US goal	0	LOCATION
+1.0	lawmaker	mount	effective congressional oversight	0	0
+1.0	forces	have	oversight	O	O
+1.0	it	warn of	strain on US force	0	LOCATION
+1.0	report	identify	cost of US involvement	0	LOCATION
+0.11834356280871694	rule	fail for	victory	0	0
+1.0	it	warn of	increase strain on US force press into tour of military supplies	0	LOCATION
+1.0	report	raise question as to	combat readiness	0	0
+1.0	it	warn of	strain	0	0
+1.0	report	underline problem in	country	0	0
+1.0	Bush	continue	operation	PERSON	0
+1.0	Government Accountability Office	by report be	the Government Accountability Office	ORGANIZATION	ORGANIZATION
+1.0	Bush	of	new strategy	PERSON	0
+1.0	it	warn of	increase strain on US force press into tour of duty of supplies	0	LOCATION
+1.0	violence-wracked Iraq	install	its elect government since 2003 US invasion	LOCATION	LOCATION
+1.0	violence-wracked Iraq	have	government	O	O
+1.0	it	warn of	increase strain on US force press into tour of supplies	0	LOCATION
+1.0	report	only partially identify cost in	Iraq	0	LOCATION
+1.0	lawmaker	mount	oversight of Bush 's strategy	0	PERSON
+1.0	US government auditor	release report card on	eve of President George W. Bush 's rollout	LOCATION	PERSON
+1.0	critical rule	fail us plan for	victory	0	0
+1.0	violence-wracked Iraq	install	its first government since 2003 US invasion	LOCATION	LOCATION
+1.0	report	identify	current cost	0	DATE
+1.0	it	warn of	strain on US force press into repeat tour of supplies	0	LOCATION
+1.0	it	warn of	increase strain on US force	0	LOCATION
+1.0	attack	increase throughout	2006	0	DATE
+1.0	army unit	have	specific security responsibility	0	0
+1.0	violence-wracked Iraq	install	its first elect government since 2003 US invasion	LOCATION	LOCATION
+1.0	supplies	have	tours	O	O
+1.0	report	only identify	cost of US involvement	0	LOCATION
+1.0	report	also raise question as to	combat readiness	0	0
+1.0	it	warn of	strain on US force press into tour of military supplies	0	LOCATION
+1.0	report	partially identify	cost of US involvement	0	LOCATION
+1.0	strategy	have	rollout	O	O
+1.0	President George W. Bush	have	rollout	O	PERSON
+1.0	rollout	have	eve	O	O
+1.0	dollars	have	billions	O	O
+1.0	it	warn of	strain on US force press into repeat tour of duty of supplies	0	LOCATION
+1.0	US government auditor	release report card on	eve	LOCATION	0
+1.0	strain	have	warned	O	O
+1.0	nations	have	those	O	O
+1.0	report	only identify	current cost of US involvement	0	LOCATION
+0.11834356280871694	critical rule	fail for	victory	0	0
+1.0	it	warn of	increase strain on US force press into tour of duty	0	LOCATION
+1.0	lawmaker	mount	effective oversight of Bush 's strategy	0	PERSON
+1.0	GAO	raise	question	ORGANIZATION	0
+1.0	GAO	raise question about	quality	ORGANIZATION	0
+1.0	it	warn of	strain on US force press into repeat tour of duty of military supplies	0	LOCATION
+1.0	US government auditor	release report card on	eve of President George W. Bush 's televise rollout of new strategy	LOCATION	PERSON
+1.0	duty	have	tours	O	O
+1.0	it	warn of	increase strain on US force press into repeat tour of military supplies	0	LOCATION
+1.0	George W. Bush	of	televise rollout of new strategy	PERSON	0
+1.0	lawmaker	mount	oversight	0	0
+1.0	it	warn of	strain on US force press into tour	0	LOCATION
+1.0	report	only identify	current cost	0	DATE
+1.0	report	also raise question as to	combat readiness of troops	0	0
+1.0	report	identify	current cost of US involvement	0	LOCATION
+1.0	US goals	have	falling	O	O
+1.0	iraqi security force	transfer security responsibility to	they	0	0
+1.0	report	only identify cost in	Iraq	0	LOCATION
+1.0	oil production	fall short of	US goal	0	LOCATION
+1.0	rule	fail us plan for	victory	0	0
+1.0	lawmaker	mount oversight for	violence-wracked Iraq	0	LOCATION
+1.0	report	also raise	new question	0	0
+1.0	lawmaker	mount	oversight of Bush 's new strategy	0	PERSON
+1.0	US government auditor	release report card on	eve of President George W. Bush 's televise rollout of strategy	LOCATION	PERSON
+1.0	oil production	fall of	US goal	0	LOCATION
+1.0	violence-wracked Iraq	install	its government	LOCATION	0
+1.0	report	only identify	cost	0	0
+1.0	army unit	have	security responsibility	0	0
+1.0	american record	be in	Iraq	0	LOCATION
+1.0	units	have	quality	O	O
+1.0	Bush	continue operation in	violence-wracked Iraq	PERSON	LOCATION
+1.0	report	also raise question as to	combat readiness of us-trained iraqi troops	0	0
+1.0	record	have	report card	O	O
+1.0	it	warn of	strain on US force press into repeat tour	0	LOCATION
+1.0	it	warn of	strain on US force press into tour of duty of supplies	0	LOCATION
+1.0	US government auditor	release	report card of record in violence-wracked Iraq	LOCATION	LOCATION
+1.0	report	partially identify	current cost	0	DATE
+1.0	his	have	plan	O	O
+1.0	US government auditor	release	grim report card of record	LOCATION	0
+1.0	report	only partially identify	current cost	0	DATE
+1.0	their	have	effectiveness	O	O
+1.0	security force	transfer	security responsibility	0	0
+0.17974797504936701	Bush	continue in	violence-wracked Iraq	PERSON	LOCATION
+1.0	US government auditor	release report card on	eve of President George W. Bush 's televise rollout	LOCATION	PERSON
+1.0	it	warn of	increase strain on US force press into repeat tour of duty of supplies	0	LOCATION
+1.0	strategy	have	oversight	O	O
+1.0	128 army unit	have	security responsibility	NUMBER	0
+1.0	rule	fail	US plan	0	LOCATION
+1.0	it	warn of	increase strain on US force press into tour of duty of military supplies	0	LOCATION
+1.0	US government auditor	release	report card of american record in violence-wracked Iraq	LOCATION	LOCATION
+1.0	it	warn of	increase strain on US force press	0	LOCATION
+1.0	shortages	have	tours	O	O
+1.0	oil production	be in	violence-wracked Iraq	0	LOCATION
+1.0	its	have	goals	O	O
+1.0	Bush	have	strategy	O	PERSON
+1.0	violence-wracked Iraq	install	its elect government	LOCATION	0
+1.0	report	identify cost in	Iraq	0	LOCATION
+1.0	report	identify	cost	0	0
+1.0	report	raise question as to	combat readiness of troops	0	0
+1.0	it	warn of	strain on US force press into tour of supplies	0	LOCATION
+1.0	question	return	home	0	0
+1.0	it	warn of	increase strain on US force press into repeat tour of supplies	0	LOCATION
+1.0	lawmaker	mount	congressional oversight	0	0
+1.0	lawmaker	mount	effective congressional oversight of Bush 's strategy	0	PERSON
+1.0	December	have	trained	O	DATE
+1.0	report	also raise question as to	combat readiness of iraqi troops	0	0
+0.6381112122738997	US plan	rule over	previous	LOCATION	0
+1.0	it	warn of	strain on US force press into tour of duty	0	LOCATION
+1.0	report	also raise	question	0	0
+1.0	violence-wracked Iraq	install	its first elect government	LOCATION	ORDINAL
+1.0	violence-wracked Iraq	install	its first government	LOCATION	ORDINAL
+1.0	US government auditor	release	report card	LOCATION	0
+1.0	report	raise	question	0	0
+1.0	attack	rather increase throughout	2006	0	DATE
+1.0	US government auditor	release report card at_time	Tuesday	LOCATION	DATE
+1.0	report	raise question as to	combat readiness of iraqi troops	0	0
+1.0	US government auditor	release	grim report card of american record in Iraq	LOCATION	LOCATION
+1.0	it	warn of	increase strain on US force press into repeat tour	0	LOCATION
+1.0	it	warn of	increase strain	0	0
+1.0	lawmaker	mount	effective congressional oversight of Bush 's new strategy	0	PERSON
+1.0	billions	have	hundreds	O	O
+1.0	report	raise question as to	combat readiness of us-trained iraqi troops	0	0
+1.0	report	only partially identify	cost of US involvement	0	LOCATION
+1.0	victory	be in	Iraq	0	LOCATION
+1.0	lawmaker	mount	congressional oversight of Bush 's new strategy	0	PERSON
+1.0	iraqi security force	transfer	security responsibility	0	0
+1.0	lawmaker	mount	congressional oversight of Bush 's strategy	0	PERSON
+1.0	security forces	have	members	O	O
+1.0	US government auditor	release	grim report card of record in violence-wracked Iraq	LOCATION	LOCATION
+1.0	report	only partially identify	current cost of US involvement	0	LOCATION
+1.0	US government auditor	release	grim report card of record in Iraq	LOCATION	LOCATION
+1.0	critical rule	fail	US plan	0	LOCATION
+1.0	report	only partially identify	cost	0	0
+1.0	it	warn of	strain on US force press into repeat tour of military supplies	0	LOCATION
+1.0	report	partially identify	cost	0	0
+1.0	US government auditor	release	report card of american record in Iraq	LOCATION	LOCATION
+1.0	report	underline problem in	US record	0	LOCATION
+1.0	Iraq	be in	prime time televise address on Wednesday	LOCATION	DATE
+1.0	report	raise	new question	0	0
+1.0	violence-wracked Iraq	experience	three election	LOCATION	NUMBER
+1.0	Iraqis	have	those	O	MISC
+1.0	report	underline	problem	0	0
+1.0	US government auditor	release	report card of record in Iraq	LOCATION	LOCATION
+1.0	it	warn of	increase strain on US force press into repeat tour of duty	0	LOCATION
+1.0	security forces forces	have	combat readiness	O	O
+1.0	it	warn of	increase strain on US force press into repeat tour of duty of military supplies	0	LOCATION
+1.0	violence-wracked Iraq	install	its government since 2003 US invasion	LOCATION	LOCATION
+1.0	security force	transfer security responsibility to	they	0	0
+1.0	violence-wracked Iraq	experience	three successful election	LOCATION	NUMBER
+1.0	report	partially identify	current cost of US involvement	0	LOCATION
+0.6381112122738997	US plan	critical rule over	previous	LOCATION	0
+1.0	violence-wracked Iraq	adopt	constitution	LOCATION	0
+1.0	it	warn of	increase strain on US force press into tour	0	LOCATION
+1.0	troops	have	combat readiness	O	O
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	US government auditor	release	grim report card	LOCATION	0
+1.0	lawmaker	mount	effective oversight of Bush 's new strategy	0	PERSON

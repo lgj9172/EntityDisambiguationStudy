@@ -1,0 +1,76 @@
+1.0	Wielgus	have	resignation	O	PERSON
+1.0	Vatican	have	representative	O	LOCATION
+1.0	Roman Catholic clergy	have	members	O	O
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	accusation	be	intensify	0	0
+1.0	it	allow	commission	0	0
+1.0	his	have	declarations	O	O
+1.0	See	be apprise of	everything say by Monsignor Wielgus about he work with sb	MISC	PERSON
+1.0	it	be	at meeting agree include 133 bishop	0	NUMBER
+1.0	crisis	have	heart	O	O
+1.0	Stanislaw Wielgus	replace	Cardinal Jozef Glemp as archbishop	0	PERSON
+1.0	bishop	be in	overwhelmingly catholic nation	0	0
+1.0	Stanislaw Wielgus	replace	Cardinal Jozef Glemp as archbishop of Warsaw	0	PERSON
+1.0	See	be apprise of	everything say with sb	MISC	0
+1.0	the papal nuncio	have	resignation	O	O
+1.0	everything	have	apprised	O	O
+1.0	accusation	be intensify with	one newspaper publishing copy	0	NUMBER
+1.0	holy See	be apprise of	everything say by Monsignor Wielgus about he work	MISC	PERSON
+1.0	his	have	contacts	O	O
+1.0	day	be	swear	0	0
+1.0	Stanislaw Wielgus	be nominate by	Vatican	0	LOCATION
+1.0	he	work	contact	0	0
+1.0	they	be	agent	0	0
+1.0	accusation	be intensify with	one newspaper publishing copy of file compile by communist-era sb	0	NUMBER
+1.0	holy See	be	apprise	MISC	0
+0.14059619431790493	it	be agree	allow	0	0
+1.0	holy See	be apprise of	everything	MISC	0
+1.0	bishops	have	pasts	O	O
+1.0	declarations	have	All	O	O
+1.0	Poland	have	bishop on Friday	LOCATION	DATE
+1.0	archbishop of Warsaw two days	have	installation	O	O
+1.0	Vatican	have	emissary	O	LOCATION
+1.0	Stanislaw Wielgus	ask for	he version	PERSON	0
+1.0	Poland 's bishop	convene	emergency meeting	LOCATION	0
+1.0	Stanislaw Wielgus	replace	Cardinal Jozef Glemp	0	PERSON
+1.0	files	have	newspaper publishing copies	O	O
+1.0	Vatican 's emissary	say at_time	Friday	LOCATION	DATE
+1.0	holy See	be apprise of	everything say by Monsignor Wielgus with sb	MISC	PERSON
+1.0	Stanislaw Wielgus	have	version	O	O
+0.06141471494456796	Archbishop Jozef Kowalczyk	call	ask for he version	0	0
+1.0	day	be swear in	in archbishop	0	0
+1.0	they	be	communist agent	0	0
+0.06141471494456796	Archbishop Jozef Kowalczyk	call	ask	0	0
+1.0	accusation	be intensify with	one newspaper publishing copy of file compile by communist-era sb on cleric	0	NUMBER
+1.0	Poland	have	news agency	O	LOCATION
+1.0	file	be	publish	0	0
+1.0	Wielgus	by	resignation	PERSON	0
+1.0	KAI	be news agency of	catholic	ORGANIZATION	0
+1.0	it	be agree include	133 bishop	0	NUMBER
+1.0	his	have	work	O	O
+1.0	holy See	be apprise of	everything say by Monsignor Wielgus	MISC	PERSON
+1.0	See	be apprise of	everything say	MISC	0
+1.0	See	be apprise of	everything	MISC	0
+1.0	past	extend	probe	0	0
+1.0	it	allow	special commission	0	0
+1.0	See	be apprise of	everything say by Monsignor Wielgus	MISC	PERSON
+1.0	holy See	be apprise of	everything say with sb	MISC	0
+1.0	The archbishop at the heart of the worst crisis to rock the Polish Church in recent memory	have	ties	O	O
+1.0	See	be	apprise	MISC	0
+1.0	holy See	be apprise of	everything say	MISC	0
+1.0	it	be agree at	meeting	0	0
+1.0	Vatican	have	emissary to Warsaw	LOCATION	LOCATION
+1.0	past	later extend	probe	0	0
+1.0	Poland	have	bishops	O	LOCATION
+1.0	accusation	be intensify with	one newspaper publishing copy of file	0	NUMBER
+1.0	it	be	agree	0	0
+1.0	Monsignor Wielgus about his work , his contacts	have	past	DATE	O
+1.0	Polish Church	be in	recent memory	ORGANIZATION	0
+1.0	accusation	be intensify with	one newspaper publishing copy of file compile	0	NUMBER
+1.0	Stanislaw Wielgus	be	nominate	0	0
+1.0	See	be apprise of	everything say by Monsignor Wielgus about he work	MISC	PERSON
+1.0	Poland	have	catholic news agency	LOCATION	0
+1.0	file	be	when publish	0	0
+1.0	Archbishop Jozef Kowalczyk	call	Stanislaw Wielgus	0	PERSON
+1.0	holy See	be apprise of	everything say by Monsignor Wielgus about he work with sb	MISC	PERSON
+1.0	See	be apprise of	everything say by Monsignor Wielgus with sb	MISC	PERSON

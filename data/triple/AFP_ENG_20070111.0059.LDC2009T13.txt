@@ -1,0 +1,33 @@
+1.0	Transneft	be pipeline monopoly of	Russia	ORGANIZATION	LOCATION
+1.0	Czech Republic	prompt	Germany	LOCATION	LOCATION
+1.0	supplies	begin on	Druzhba pipeline through Belarus	0	LOCATION
+0.9959287832835627	Minsk	steal oil during	crisis	LOCATION	0
+0.9959287832835627	Minsk	steal	oil	LOCATION	0
+1.0	Russia	at	pipeline monopoly	LOCATION	0
+1.0	Transneft	have	deputy CEO	O	ORGANIZATION
+1.0	supplies	begin on	friendship	0	0
+1.0	Czech Republic	suffer	Germany	LOCATION	LOCATION
+1.0	Russia	have	reliability	O	LOCATION
+1.0	The European Union	have	oil consumption	O	O
+1.0	supplies	begin on	Druzhba pipeline	0	0
+1.0	Russia	over	reliability as energy supplier	LOCATION	0
+1.0	Russia	have	pipeline monopoly	O	LOCATION
+1.0	oil supplies	be	interrupted	0	0
+1.0	oil consumption	have	quarter	DURATION	O
+1.0	EU oil supplies	have	percent	PERCENT	O
+1.0	Belarus	be	Sergei Grigoryev	LOCATION	PERSON
+1.0	Gomeltransneft	operator of	section	LOCATION	0
+1.0	Druzhba	have	section	O	LOCATION
+1.0	Thursday	executive at	Russia 's pipeline monopoly	DATE	LOCATION
+1.0	Sergei Grigoryev	be	quote	PERSON	0
+1.0	European Union	depend on	Russia	ORGANIZATION	LOCATION
+1.0	oil	have	tonnes	O	O
+1.0	Belarus	through pipeline be	friendship	LOCATION	0
+1.0	European Union	depend for	quarter	ORGANIZATION	DURATION
+1.0	dispute	have	resolution	O	O
+1.0	Sergei Grigoryev	ceo of	Transneft	PERSON	ORGANIZATION
+0.9959287832835627	Minsk	steal oil during	crisis as payment	LOCATION	0
+1.0	Moscow	have accuse	Minsk	LOCATION	LOCATION
+1.0	European Union	depend for	quarter of its oil consumption	ORGANIZATION	DURATION
+1.0	oil	accumulate in	Belarus	0	LOCATION
+1.0	section	have	operator	O	O

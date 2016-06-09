@@ -1,0 +1,167 @@
+1.0	Israel	be	Friday	LOCATION	DATE
+1.0	Prime Minister Ehud Olmert	resume	strike on Palestinians	PERSON	MISC
+1.0	Thursday	have	result	O	DATE
+1.0	Mahmud Abbas	be with	palestinian	PERSON	0
+1.0	thirteen people	prompt	Hamas minister Ismail Haniya appeal for bitter fight	0	PERSON
+1.0	AFP photographer Jaime Razuri in Gaza City six days ago	secure	he release	PERSON	0
+1.0	people	prompt	Hamas minister Ismail Haniya appeal for bitter	0	PERSON
+1.0	Ismail Haniya	be	Hamas	PERSON	ORGANIZATION
+1.0	abduction	have	have common in impoverished territory with 20 such case over past year	0	NUMBER
+1.0	Prime Minister Ehud Olmert	instruct army at_time	late last month	PERSON	DATE
+1.0	detainee	be	release	0	0
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	month	PERSON	DATE
+1.0	Prime Minister Ehud Olmert	resume	strike	PERSON	0
+1.0	peruvian	continue	diplomatic effort	0	0
+1.0	people	prompt	Hamas prime minister Ismail Haniya appeal for bitter	0	PERSON
+1.0	gunfire	have	reports	O	O
+1.0	militant	be	suppose	0	0
+1.0	Thirteen people	prevent	fighting between two palestinian faction	0	NUMBER
+1.0	thirteen people	prompt	Hamas minister Ismail Haniya appeal for bitter	0	PERSON
+1.0	Prime Minister Ehud Olmert	instruct	army	PERSON	0
+0.9703505604624686	Israel	mount	its incursion	LOCATION	0
+1.0	three people	be	injure	0	0
+1.0	people	prompt	Hamas prime minister Ismail Haniya appeal	0	PERSON
+1.0	AFP photographer Jaime Razuri in Gaza City six days ago	have	release	O	O
+1.0	Jaime Razuri	be of	afp	PERSON	0
+1.0	thirteen people	prompt	Hamas minister Ismail Haniya	0	PERSON
+1.0	open area	be in	Gaza	0	LOCATION
+1.0	Palestinian president Mahmud Abbas	have criticise	kidnapping	PERSON	0
+1.0	northern Gaza	have	have wrack by violence	LOCATION	0
+1.0	Prime Minister Ehud Olmert	resume strike in	wake of violation	PERSON	0
+1.0	people	die as	result	0	0
+0.08525081604622908	abductor	use in	most case	0	0
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	last month	PERSON	DATE
+1.0	peruvian	meanwhile continue	french-led diplomatic effort	0	0
+1.0	northern Gaza	have	have wrack by violence over past day	LOCATION	DATE
+1.0	people	die between	movement in Gaza	0	LOCATION
+1.0	abduction	have	have fairly common with 20 such case over past year	0	NUMBER
+1.0	abduction	have	have fairly common in impoverished territory with 20 case	0	NUMBER
+1.0	clashes Wednesday	have	result	O	DATE
+1.0	Abbas and the Hamas-led government	find	AFP photographer Jaime Razuri in Gaza City six days ago	0	PERSON
+1.0	abduction	have	have fairly common in territory with 20 such case	0	NUMBER
+1.0	the ceasefire	have	troops	O	O
+1.0	three people	be injure in	clash	0	0
+1.0	Gaza City	be on	late Friday	LOCATION	DATE
+1.0	peruvian	meanwhile continue	french-led effort	0	0
+1.0	peruvian	continue	effort	0	0
+1.0	Prime Minister Ehud Olmert	resume strike in	Gaza Strip	PERSON	LOCATION
+1.0	peruvian	secure	effort	0	0
+1.0	abduction	have	have common	0	0
+1.0	Palestinians	accuse	Israel	MISC	LOCATION
+1.0	peruvian	secure	release of peruvian Jaime Razuri	0	PERSON
+1.0	tension	simmer at_time	Saturday	0	DATE
+1.0	foreigners	have	Abductions	O	O
+1.0	abductor	gain	concession	0	0
+1.0	Friday Israel	withdraw	its troops	LOCATION	0
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	Gaza Strip	PERSON	LOCATION
+1.0	peruvian	secure	french-led diplomatic effort	0	0
+1.0	Friday Israel	refrain from	action	LOCATION	0
+1.0	violations	have	wake	O	O
+1.0	tension	simmer in	Gaza Strip	0	LOCATION
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	wake	PERSON	0
+1.0	abduction	have	have common with 20 such case	0	NUMBER
+1.0	he	call to	tension	0	0
+1.0	abductor	gain concession from	palestinian Authority	0	ORGANIZATION
+0.9703505604624686	Israel	mount	its first incursion	LOCATION	ORDINAL
+1.0	abduction	have	have common with 20 case over past year	0	NUMBER
+1.0	abduction	have	have common in impoverished territory with 20 case	0	NUMBER
+1.0	people	prompt	Hamas prime minister Ismail Haniya	0	PERSON
+1.0	Gaza City	be on	Monday	LOCATION	DATE
+1.0	Palestinian president Mahmud Abbas	say	hamas-led government	PERSON	0
+1.0	northern Gaza	have	have wrack by violence over past several day	LOCATION	DATE
+1.0	israeli Prime Minister Ehud Olmert	resume strike in	wake of violation	PERSON	0
+1.0	abduction	have	have fairly common in impoverished territory	0	0
+1.0	northern Gaza	have	have wrack by factional violence	LOCATION	0
+1.0	powerful Gaza clan	be in	Gaza City	LOCATION	LOCATION
+1.0	detainee	be release within	day	0	0
+1.0	people	be	injure	0	0
+1.0	people	prompt	Hamas prime minister Ismail Haniya appeal for bitter fight	0	PERSON
+1.0	AFP photographer Jaime Razuri in Gaza City six days ago	be	50	PERSON	NUMBER
+1.0	peruvian	continue	french-led effort	0	0
+1.0	Prime Minister Ehud Olmert	instruct army at_time	month	PERSON	DATE
+1.0	abduction	have	have fairly common	0	0
+1.0	abduction	have	have fairly common in territory with 20 such case over past year	0	NUMBER
+1.0	abduction	have	have common in territory with 20 such case	0	NUMBER
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	late month	PERSON	DATE
+1.0	abduction	have	have common in impoverished territory	0	0
+1.0	abduction	have	have common in territory with 20 case	0	NUMBER
+1.0	abduction	have	have common in territory with 20 case over past year	0	NUMBER
+1.0	abduction	have	have common in impoverished territory with 20 such case	0	NUMBER
+1.0	abduction	have	have fairly common in impoverished territory with 20 such case	0	NUMBER
+1.0	thirteen people	prompt	Hamas prime minister Ismail Haniya	0	PERSON
+1.0	abduction	have	have common in impoverished territory with 20 case over past year	0	NUMBER
+1.0	abductor	gain concession from	Authority	0	ORGANIZATION
+1.0	northern Gaza	have	have wrack	LOCATION	0
+1.0	people	die between	movement in northern Gaza	0	LOCATION
+1.0	thirteen people	die as	result	0	0
+1.0	Prime Minister Ehud Olmert	instruct army at_time	late month	PERSON	DATE
+1.0	Saturday	have	incursion	O	O
+1.0	abductor	use hostage in	case	0	0
+1.0	thirteen people	prompt	Hamas minister Ismail Haniya appeal	0	PERSON
+1.0	people	die between	movement	0	0
+1.0	AFP photographer Jaime Razuri in Gaza City six days ago	have	release	O	PERSON
+1.0	thirteen people	die between	movement in northern Gaza	0	LOCATION
+1.0	he	call for	end	0	0
+1.0	northern Gaza	have	have wrack by factional violence over past day	LOCATION	DATE
+1.0	abduction	have	have fairly common in territory with 20 case over past year	0	NUMBER
+1.0	people	prompt	Hamas minister Ismail Haniya appeal for bitter fight	0	PERSON
+1.0	Razuri	have	abduction	O	PERSON
+1.0	peruvian	secure	french-led effort	0	0
+1.0	Palestinian president Mahmud Abbas	say	government	PERSON	0
+1.0	agency	have	offices	O	O
+1.0	peruvian	secure	release of peruvian national Jaime Razuri	0	PERSON
+1.0	abduction	have	have fairly common with 20 case over past year	0	NUMBER
+1.0	thirteen people	prompt	Hamas prime minister Ismail Haniya appeal for bitter fight	0	PERSON
+1.0	thirteen people	die as	result of clash Wednesday	0	DATE
+1.0	peruvian	continue	french-led diplomatic effort	0	0
+1.0	peruvian	secure	release of national Jaime Razuri	0	PERSON
+1.0	AFP photographer Jaime Razuri in Gaza City six days ago	be of	peruvian	PERSON	0
+1.0	AFP photographer Jaime Razuri	have	abduction	O	PERSON
+1.0	abduction	have	have common with 20 such case over past year	0	NUMBER
+1.0	abduction	have	have fairly common in territory with 20 case	0	NUMBER
+1.0	thirteen people	prompt	Hamas prime minister Ismail Haniya appeal for bitter	0	PERSON
+1.0	progress	have	signs	O	O
+1.0	people	be injure in	clash	0	0
+1.0	israeli Prime Minister Ehud Olmert	instruct	army	PERSON	0
+1.0	violence	have	reports	O	O
+1.0	abductor	use hostage in	most case	0	0
+1.0	people	be injure in	clash between Hamas force	0	ORGANIZATION
+1.0	peruvian	secure	release of Jaime Razuri	0	PERSON
+1.0	peruvian	meanwhile continue	diplomatic effort	0	0
+1.0	abduction	have	have common in territory	0	0
+1.0	Razuri	into	abduction	PERSON	0
+1.0	abduction	have	have fairly common in impoverished territory with 20 such case over past year	0	NUMBER
+1.0	three people	be injure in	clash between Hamas force	0	ORGANIZATION
+1.0	peruvian	secure	release	0	0
+1.0	Thirteen people	halt	violence	0	0
+1.0	abduction	have	have fairly common with 20 case	0	NUMBER
+1.0	Prime Minister Ehud Olmert	instruct army at_time	last month	PERSON	DATE
+0.08525081604622908	abductor	use in	case	0	0
+1.0	detainee	be release	unharmed	0	0
+1.0	agency	outside	office	0	0
+1.0	Jaime Razuri	be in	Gaza City	PERSON	LOCATION
+1.0	French-led	have	whereabouts	O	O
+1.0	israeli Prime Minister Ehud Olmert	instruct army at_time	late last month	PERSON	DATE
+1.0	thirteen people	die between	movement	0	0
+1.0	abduction	have	have common with 20 case	0	NUMBER
+1.0	abduction	have	have fairly common with 20 such case	0	NUMBER
+1.0	abduction	have	have fairly common in impoverished territory with 20 case over past year	0	NUMBER
+1.0	Palestinian president Mahmud Abbas	have also criticise	kidnapping	PERSON	0
+1.0	northern Gaza	have	have wrack by factional violence over past several day	LOCATION	DATE
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	rival movement	be in	northern Gaza	0	LOCATION
+1.0	people	prompt	Hamas minister Ismail Haniya appeal	0	PERSON
+1.0	peruvian	meanwhile continue	effort	0	0
+1.0	people	prompt	Hamas minister Ismail Haniya	0	PERSON
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	progress	be in	probe	0	0
+1.0	israeli Prime Minister Ehud Olmert	resume	strike on Palestinians	PERSON	MISC
+1.0	thirteen people	die between	movement in Gaza	0	LOCATION
+1.0	abduction	have	have fairly common in territory	0	0
+1.0	people	die as	result of clash Wednesday	0	DATE
+1.0	militant	stop	firing rocket	0	0
+1.0	thirteen people	prompt	Hamas prime minister Ismail Haniya appeal	0	PERSON
+1.0	peruvian	secure	diplomatic effort	0	0
+1.0	abduction	have	have common in territory with 20 such case over past year	0	NUMBER
+1.0	israeli Prime Minister Ehud Olmert	resume	strike	PERSON	0
+1.0	Prime Minister Ehud Olmert	resume strike in	wake	PERSON	0

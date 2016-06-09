@@ -1,0 +1,87 @@
+1.0	comedy	hold at	north american box office over weekend	0	DATE
+1.0	weekend 's 12 film	gross more	estimate 145.4 million dollar	DATE	MONEY
+1.0	dragon fantasy	be follow by	football drama	0	0
+1.0	dragon fantasy	be	follow	0	0
+1.0	father	have	story	O	O
+1.0	Central Intelligence Agency	have	origins	O	ORGANIZATION
+1.0	dragon fantasy	be follow with	8.3 million	0	NUMBER
+1.0	comedy	be	10th ahead of thriller	0	ORDINAL
+1.0	comedy	be	10th ahead	0	ORDINAL
+1.0	romantic comedy	be	10th ahead of thriller	0	ORDINAL
+1.0	comedy	hold at	north box office over weekend	0	DATE
+1.0	Happyness	have	Pursuit	O	O
+1.0	weekend 's 12 film	gross	145.4 million dollar	DATE	MONEY
+1.0	Sylvester Stallone	of	Rocky franchise	PERSON	MISC
+1.0	weekend	have	films	O	DATE
+1.0	comedy	hold at	box office over weekend	0	DATE
+1.0	comedy	hold at	north american box office	0	0
+1.0	comedy	be	10th with 6.7 million dollar ahead of thriller	0	MONEY
+1.0	Rocky Balboa	take	spot	MISC	0
+1.0	spy drama	be fifth with	10.98 million dollar	0	MONEY
+1.0	Rocky Balboa	take	sixth spot	MISC	ORDINAL
+1.0	romantic comedy	be	10th	0	ORDINAL
+1.0	comedy	hold at	box office	0	0
+1.0	comedy	be 10th with	6.7 million dollar	0	MONEY
+1.0	weekend 's top 12 film	gross	145.4 million dollar	DATE	MONEY
+1.0	weekend 's top 12 film	gross	estimate 145.4 million dollar	DATE	MONEY
+1.0	musical Dreamgirls	show at_time	Monday	0	DATE
+1.0	comedy	be 10th ahead with	6.7 million dollar	0	MONEY
+1.0	comedy	hold at	american box office over weekend	0	DATE
+1.0	weekend 's top 12 film	gross more	145.4 million dollar	DATE	MONEY
+1.0	second	have	take	O	O
+1.0	Charlotte	have	Web	O	LOCATION
+1.0	the weekend	have	top 12 film	DATE	NUMBER
+1.0	Will Smith	have	drama	PERSON	0
+1.0	weekend 's film	gross more	estimate 145.4 million dollar	DATE	MONEY
+1.0	night	earn	36.7 million dollar	0	MONEY
+1.0	romantic comedy	be 10th ahead with	6.7 million dollar	0	MONEY
+1.0	dragon fantasy	be follow	seventh	0	ORDINAL
+1.0	Sylvester Stallone	have	Rocky franchise	O	PERSON
+1.0	weekend 's film	gross	145.4 million dollar	DATE	MONEY
+0.7259344550990202	musical Dreamgirls	leap to	place	0	0
+1.0	weekend 's top 12 film	gross more	estimate 145.4 million dollar	DATE	MONEY
+1.0	Dreamgirls	show at_time	Monday	0	DATE
+1.0	weekend 's top film	gross	145.4 million dollar	DATE	MONEY
+1.0	Will Smith	have	drama	O	PERSON
+0.6190294209327744	we	be	Marshall	0	0
+1.0	weekend 's top film	gross more	estimate 145.4 million dollar	DATE	MONEY
+0.6190294209327744	we	be marshall with	8.1 million	0	NUMBER
+0.7510425536989402	night	star	comedian Ben Stiller as security guard	0	PERSON
+1.0	spy drama	be	fifth	0	ORDINAL
+0.7259344550990202	Dreamgirls	leap despite	limited release	0	0
+1.0	third place	be with	15.5 million dollar	ORDINAL	MONEY
+1.0	comedy	hold at	american box office	0	0
+0.7259344550990202	Dreamgirls	leap to	third place	0	ORDINAL
+1.0	night	earn down	36.7 million dollar	0	MONEY
+1.0	thriller	have	ahead	O	O
+1.0	weekend 's top film	gross	estimate 145.4 million dollar	DATE	MONEY
+0.7259344550990202	musical Dreamgirls	leap despite	release	0	0
+1.0	happy feet	be with	7.7 million	0	NUMBER
+1.0	romantic comedy	be	10th ahead	0	ORDINAL
+1.0	year	have	Oscars	MISC	DATE
+0.7259344550990202	Dreamgirls	leap to	place	0	0
+0.7259344550990202	musical Dreamgirls	leap despite	limited release	0	0
+1.0	Charlotte	have	web	LOCATION	0
+1.0	weekend 's top film	gross more	145.4 million dollar	DATE	MONEY
+1.0	romantic comedy	be	10th with 6.7 million dollar ahead of thriller	0	MONEY
+1.0	Rocky franchise	have	installment	O	O
+1.0	we	happy feet with	7.7 million	0	NUMBER
+1.0	we	feet with	7.7 million	0	NUMBER
+0.7259344550990202	Dreamgirls	leap despite	release	0	0
+1.0	Marshall	be with	8.1 million	0	NUMBER
+1.0	dragon fantasy	be follow by	american football drama	0	0
+0.7259344550990202	musical Dreamgirls	leap to	third place	0	ORDINAL
+1.0	romantic comedy	be 10th with	6.7 million dollar	0	MONEY
+1.0	comedy	hold at	north box office	0	0
+0.7510425536989402	night	star comedian ben stiller at	museum	0	0
+0.7041912975492799	1960s soul group	loosely base on	Supremes	DATE	ORGANIZATION
+1.0	weekend 's film	gross	estimate 145.4 million dollar	DATE	MONEY
+1.0	weekend 's 12 film	gross more	145.4 million dollar	DATE	MONEY
+1.0	weekend 's film	gross more	145.4 million dollar	DATE	MONEY
+1.0	dragon fantasy	be	with 8.3 million follow by american football drama	0	NUMBER
+0.7510425536989402	night	star	comedian Ben Stiller	0	PERSON
+1.0	weekend 's 12 film	gross	estimate 145.4 million dollar	DATE	MONEY
+1.0	next year	at	Oscars	DATE	MISC
+1.0	Rocky Balboa	take spot with	10.79 million dollar	MISC	MONEY
+1.0	dragon fantasy	be	with 8.3 million follow by football drama	0	NUMBER
+1.0	comedy	be	10th	0	ORDINAL

@@ -1,0 +1,92 @@
+1.0	president	have	call	O	O
+1.0	The leaders	shift burden to	Iraqis	DURATION	MISC
+1.0	The leaders , including House Speaker Nancy Pelosi and Senate Majority Leader Harry Reid	have	forces	O	O
+1.0	leader	accuse bush with	he plan	0	0
+0.17974797504936701	the 132,000 US troops	need	continue	0	0
+1.0	US Democrats on Wednesday	have schedule	series of hearing	MISC	0
+1.0	Bush of failing to heed the lessons of his Republican party 's crushing defeat	have	party	ORGANIZATION	O
+1.0	US invasion	topple	Saddam Hussein	LOCATION	PERSON
+1.0	party	have	defeat	O	ORGANIZATION
+1.0	The leaders	have	military	O	O
+1.0	forces	have	redeployment	O	O
+1.0	defeat	have	lessons	O	O
+1.0	Democrats	call for	aggressive strategy	MISC	0
+1.0	burden	begin	phased redeployment	0	0
+1.0	republican party	of	crush defeat	ORGANIZATION	0
+1.0	president	have	call for Iraqis	0	MISC
+1.0	Senator Dick Durbin	assume	responsibility	PERSON	0
+1.0	US Democrats on Wednesday	have schedule series on	Bush 's conduct	MISC	PERSON
+1.0	leader	provide	132,000 US troops	0	LOCATION
+1.0	Iraq war	have	conduct	O	O
+1.0	danger	urge	drawdown	0	0
+1.0	US Democrats	reject	President George W. Bush 's plan	LOCATION	PERSON
+1.0	Bush	have	address	O	PERSON
+1.0	Democrats	also call for	diplomatic strategy	MISC	0
+1.0	hearings	have	series	O	O
+1.0	Democrats	also call for	aggressive strategy	MISC	0
+1.0	Senator Dick Durbin	assume	responsibility for they security	PERSON	0
+1.0	The leaders	shift	burden for security	DURATION	0
+1.0	George W. Bush	have	plan boost in Iraq	PERSON	LOCATION
+1.0	US Democrats on Wednesday	have schedule series on	Bush 's conduct of Iraq war	MISC	PERSON
+1.0	burden	begin	redeployment of we force	0	0
+1.0	Bush	have	conduct	O	PERSON
+1.0	the 132,000 US troops	continue	they fight	0	0
+1.0	troops	have	drawdown	O	O
+1.0	american people	want	change	0	0
+1.0	Dick Durbin	be in	televise address rebut	PERSON	0
+1.0	time	stand	they nation	0	0
+1.0	leader	accuse	Bush	0	PERSON
+0.0025671451558210157	it	be	time stand	0	0
+1.0	Bush	have	address	PERSON	0
+1.0	The leaders	have	involvement	O	O
+1.0	The leaders	have	nation	O	O
+1.0	the 132,000 US troops	have	fight	O	O
+1.0	Nancy Pelosi	be include	House	PERSON	ORGANIZATION
+1.0	message	escalate	we military involvement	0	0
+1.0	Democrats	also call for	strategy	MISC	0
+0.7972606605191824	urge	drawdown of	troops	0	0
+1.0	leader	accuse	Bush fail	0	PERSON
+1.0	burden	begin	phased redeployment of we force	0	0
+1.0	people	want	change of course in Iraq	0	LOCATION
+1.0	Senator Dick Durbin	assume	responsibility for they own security	PERSON	0
+1.0	troops	be in	four to six month	0	DURATION
+1.0	leader	accuse bush in	November election	0	DATE
+1.0	Bush of failing to heed the lessons of his Republican party 's crushing defeat	have	plan	O	O
+1.0	Senator Dick Durbin	echo	president 's call	PERSON	0
+1.0	wrong message	escalate	we involvement	0	0
+1.0	The leaders	shift	burden	DURATION	0
+1.0	majority	have	Leaders	O	O
+1.0	Democrats	call for	strategy	MISC	0
+1.0	course	be in	Iraq	0	LOCATION
+1.0	course	have	change	O	O
+1.0	they statement	promise at_time	Wednesday	0	DATE
+1.0	wrong message	escalate	we military involvement	0	0
+1.0	american people	want	change of course	0	0
+1.0	Harry Reid	be majority leader of	Senate	PERSON	ORGANIZATION
+1.0	burden	begin	redeployment	0	0
+1.0	The leaders	have	security	O	O
+1.0	it	be	time	0	0
+1.0	people	want	change	0	0
+1.0	danger	urge	drawdown of troops	0	0
+1.0	Democrats	also call for	aggressive diplomatic strategy	MISC	0
+1.0	their	have	security	O	O
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	The leaders	oppose	our military involvement	0	0
+1.0	message	escalate	we involvement	0	0
+1.0	The leaders	demand	answer	0	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	Senator Dick Durbin	echo	president 's call for Iraqis	PERSON	MISC
+0.0025671451558210157	it	be	time for Iraqis stand	0	MISC
+1.0	time	stand	they own nation	0	0
+1.0	Bush	on	conduct of Iraq war	PERSON	0
+1.0	new democratic majority	be in	Congress	0	ORGANIZATION
+1.0	american people	want	change of course in Iraq	0	LOCATION
+1.0	people	want	change of course	0	0
+1.0	The leaders	have	statement	O	O
+1.0	it	be time for	Iraqis	0	MISC
+1.0	Democrats	call for	aggressive diplomatic strategy	MISC	0
+1.0	Democrats	call for	diplomatic strategy	MISC	0
+1.0	Harry Reid	be	Senate	PERSON	ORGANIZATION
+1.0	US Democrats on Wednesday	have schedule	series	MISC	0
+1.0	Iraq	have	government	O	LOCATION
+1.0	Iraqi political leaders	have	country	O	O

@@ -1,0 +1,22 @@
+1.0	Anand Mukherjee	tell	afp	PERSON	0
+1.0	India	in	northern Uttar pradesh state	LOCATION	LOCATION
+1.0	Lucknow	capital of	Uttar Pradesh	LOCATION	LOCATION
+1.0	victim	be	labourer	0	0
+1.0	building	have	ground floor	O	O
+1.0	storey	have	roof	O	O
+1.0	victim	be	labourer employ at construction site	0	0
+1.0	four	have	debris	O	NUMBER
+1.0	India	have	Uttar state	O	LOCATION
+1.0	building	have	storey	O	O
+1.0	workers	have	families	O	O
+1.0	victim	be	labourer employ	0	0
+1.0	families	have	members	O	O
+1.0	police spokesman Surendra Srivastava	tell	AFP	PERSON	ORGANIZATION
+1.0	Anand Mukherjee	tell afp by	phone	PERSON	0
+1.0	Anand Mukherjee	tell afp from	Allahabad	PERSON	LOCATION
+1.0	building	have	contractor	O	O
+1.0	labourer	employ at	construction site	0	0
+1.0	army	have	soldiers	O	O
+1.0	Uttar Pradesh	have	state capital	O	LOCATION
+1.0	people who have gathered around the site	have	mob	O	O
+1.0	Lucknow	have	southeast	O	LOCATION

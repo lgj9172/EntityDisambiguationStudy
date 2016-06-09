@@ -1,0 +1,28 @@
+1.0	Singapore air force plane	arrive at_time	Wednesday	LOCATION	DATE
+1.0	Sulawesi	on	northeast tip	LOCATION	0
+1.0	plane	be with	96 passenger	0	NUMBER
+0.8828891789535348	wreckage	have	have find on mountain	0	0
+1.0	help	have	offer	O	O
+1.0	US plane	be due at_time	Thursday	LOCATION	DATE
+1.0	Sulawesi	have	tip	O	LOCATION
+1.0	Singapore air force plane	arrive at_time	late Wednesday	LOCATION	DATE
+1.0	force commander	receive	go ahead	0	0
+0.8828891789535348	wreckage	have	have find	0	0
+1.0	commander Djoko Suyanto	tell reporter at_time	Wednesday	PERSON	DATE
+1.0	commander Djoko Suyanto	search for	Adam Air Boeing	PERSON	ORGANIZATION
+1.0	commander Djoko Suyanto	say	offer of help	PERSON	0
+1.0	commander Djoko Suyanto	tell	reporter	PERSON	0
+1.0	commander Djoko Suyanto	search for	Adam Air Boeing 737-400	PERSON	ORGANIZATION
+1.0	armed force commander	receive	go	0	0
+0.8828891789535348	wreckage	have	have find on jungle-covered mountain	0	0
+1.0	force commander	receive	go	0	0
+1.0	armed force commander	receive	go ahead	0	0
+1.0	Singapore air force plane	arrive	crew	LOCATION	0
+0.8049198993880041	commander Djoko Suyanto	offer of	help	PERSON	0
+1.0	force commander	receive	go ahead from President Susilo Bambang Yudhoyono	0	PERSON
+1.0	US plane	be	due	LOCATION	0
+1.0	armed force commander	receive	go ahead from President Susilo Bambang Yudhoyono	0	PERSON
+1.0	massive air search	be	underway	0	0
+1.0	commander Djoko Suyanto	say	offer	PERSON	0
+1.0	commander Djoko Suyanto	tell reporter at_time	late Wednesday	PERSON	DATE
+1.0	air search	be	underway	0	0

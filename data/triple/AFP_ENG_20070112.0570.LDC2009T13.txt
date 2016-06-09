@@ -1,0 +1,23 @@
+1.0	Ovar	have	town	O	LOCATION
+1.0	accident	raise question over	Portugal 's readiness deal	0	LOCATION
+1.0	The navy	have	disposal	O	O
+1.0	accident	raise question over	Portugal 's readiness	0	LOCATION
+1.0	six men	have	fishing boat	O	O
+1.0	money	have	amount	O	O
+1.0	Defence Minister Nuno Severiano Teixeira	say at_time	Friday	PERSON	DATE
+1.0	fishing vessel owners	have	security	O	O
+1.0	Portugal	have	readiness	O	LOCATION
+1.0	minister	tell	news conference	0	0
+1.0	Nazare	have	fishing village	O	LOCATION
+1.0	accident	raise	question	0	0
+1.0	the remaining six crew members on board	wait	arrive	0	0
+1.0	accident	raise question over	Portugal 's readiness deal with accident at sea	0	LOCATION
+1.0	accident	raise question over	Portugal 's readiness deal with accident	0	LOCATION
+1.0	May	have	rescue boats	O	DATE
+1.0	men	have	deaths	O	O
+1.0	fishing vessel owners	have	search	O	O
+1.0	Portugal	have	capacity	O	O
+1.0	sea	be in	wake of drown death of six man	0	NUMBER
+1.0	the remaining six crew members on board	wait for	help	0	0
+1.0	Portugal	over	readiness deal with accident at sea	LOCATION	0
+1.0	deaths	have	wake	O	O

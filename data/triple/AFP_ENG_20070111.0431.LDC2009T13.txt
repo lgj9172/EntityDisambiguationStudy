@@ -1,0 +1,56 @@
+1.0	Ghaleb Majadleh	be 's	Labour	PERSON	ORGANIZATION
+1.0	Israel 's coalition government	have	MP	O	O
+1.0	bloc	have	chair	O	O
+1.0	Israel 's	be	run	LOCATION	0
+1.0	Tartman	have	racist pronouncement	PERSON	0
+1.0	lawmaker	criticise	naming of country 's Arab cabinet minister	0	MISC
+1.0	Israel 's	be	jewish	LOCATION	0
+1.0	Amir Peretz	be party leader of	Labour	PERSON	ORGANIZATION
+1.0	Yisrael Beitenu	join	coalition government of Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Amir Peretz	be by	Labour	PERSON	ORGANIZATION
+1.0	Amir Peretz	name majadleh on	Wednesday	PERSON	DATE
+1.0	the coalition government of Prime Minister Ehud Olmert	sit in	government	0	0
+1.0	cooperation	have	speaking	O	O
+1.0	Ghaleb Majadleh	have	appointment as science minister	PERSON	0
+1.0	Michael Eitan	be from	Likud	PERSON	ORGANIZATION
+1.0	Majadleh	have	naming by Labour party leader Amir Peretz	PERSON	PERSON
+1.0	Israel	have	coalition government	O	LOCATION
+1.0	Olmert	have	Kadima party	O	PERSON
+1.0	Majadleh 's nomination	must	must ratify by government	PERSON	0
+1.0	Esterina Tartman	chair of	Yisrael Beitenu 's parliamentary bloc	PERSON	PERSON
+1.0	Amir Peretz	name	Labour MP Ghaleb Majadleh 's	PERSON	PERSON
+1.0	Yisrael Beitenu	have	bloc	O	PERSON
+1.0	Kadima party	have	Magali Wahaba	PERSON	O
+0.06141471494456796	Michael Eitan	call	Tartman 's racist pronouncement	0	PERSON
+1.0	Israel 's	be run accord to	jewish principle	LOCATION	0
+1.0	Arab cabinet minister	have	naming	O	O
+1.0	Majadleh	have	nomination	PERSON	0
+0.707403636017461	Israel 's	be	state	LOCATION	0
+0.06141471494456796	Michael Eitan	call	Tartman 's pronouncement	0	PERSON
+1.0	Tartman	have	pronouncements	O	PERSON
+1.0	appointment	be	lethal	0	0
+0.707403636017461	Israel 's	be	jewish state	LOCATION	0
+1.0	Labour MP Ghaleb Majadleh	have	appointment	O	PERSON
+1.0	government	be with	racist party	0	0
+1.0	Majadleh 's nomination	must	must ratify	PERSON	0
+1.0	Zionism	have	sacrifice	O	MISC
+1.0	Prime Minister Ehud Olmert	have	coalition government	O	PERSON
+1.0	Ghaleb Majadleh	be mp of	Labour	PERSON	ORGANIZATION
+1.0	country	of	first Arab cabinet minister	0	ORDINAL
+1.0	lawmaker	criticise	naming of country 's first Arab cabinet minister	0	ORDINAL
+1.0	Olmert	of	Kadima party	PERSON	ORGANIZATION
+1.0	Labour	have	parliamentary chief	ORGANIZATION	0
+1.0	Majadleh	have	nomination	O	PERSON
+1.0	Labour	have	chief	O	ORGANIZATION
+1.0	our	have	midst	O	O
+1.0	Yisrael Beitenu	join	coalition government	PERSON	0
+1.0	Israel	from	coalition government	LOCATION	0
+1.0	Yoram Marciano	oust	Yisrael Beitenu	PERSON	PERSON
+1.0	Majadleh	have	naming	O	PERSON
+1.0	country	have	Arab cabinet minister	O	O
+1.0	Yoram Marciano	oust	Yisrael Beitenu from government	PERSON	PERSON
+1.0	Yisrael Beitenu	of	parliamentary bloc	PERSON	0
+1.0	Magali Wahaba	express	regret	PERSON	0
+1.0	Yoram Marciano	call on	Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Israel 's	be run accord to	principle	LOCATION	0
+1.0	lawmaker	criticise	naming	0	0

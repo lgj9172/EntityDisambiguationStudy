@@ -1,0 +1,65 @@
+1.0	Austria	have	contract	O	LOCATION
+1.0	first four aircraft	be	be complete at EADS 's assembly line in Manching Germany	ORDINAL	LOCATION
+1.0	Social Democrats	agree	conservative	ORGANIZATION	0
+1.0	Austria 's outgoing government	pay	first two installment	LOCATION	ORDINAL
+1.0	its	have	conclusions	O	O
+1.0	aircraft	be	be complete at EADS 's assembly line	0	ORGANIZATION
+1.0	Austria 's government	pay	two installment	LOCATION	NUMBER
+1.0	first aircraft	be	be complete	ORDINAL	0
+1.0	Austria 's	have	outgoing government	LOCATION	0
+1.0	Social Democrats	only agree in	two-month-long coalition talk	ORGANIZATION	DURATION
+1.0	his	have	election	O	O
+1.0	four aircraft	be	be complete	NUMBER	0
+1.0	four aircraft	be	be complete at EADS 's assembly line in Manching Germany	NUMBER	LOCATION
+1.0	EADS	have	assembly line	O	ORGANIZATION
+1.0	campaign pledge	scrap	Eurofighter contract	0	MISC
+1.0	Austria 's government	pay	first two installment	LOCATION	ORDINAL
+1.0	Austria 's outgoing government	pay	two installment	LOCATION	NUMBER
+1.0	Chancellor Alfred Gusenbauer	make campaign pledge before	he election on October 1	PERSON	DATE
+1.0	Social Democrats	only agree in	coalition talk	ORGANIZATION	0
+1.0	Social Democrats	agree in	coalition talk	ORGANIZATION	0
+1.0	first aircraft	be	be complete at EADS 's assembly line in Manching Germany	ORDINAL	LOCATION
+1.0	Eurofighter contract	have	out pulling	O	O
+1.0	they delivery	be	set	0	0
+1.0	negotiation	be	possible	0	0
+1.0	EADS 's assembly line	be in	Germany	ORGANIZATION	LOCATION
+1.0	its	have	airspace	O	O
+1.0	EADS	at	assembly line in Manching Germany	ORGANIZATION	LOCATION
+1.0	Austria	have	defence	O	LOCATION
+1.0	Guenther Platter	be	Defence	PERSON	ORGANIZATION
+1.0	Social Democrats	agree in	two-month-long coalition talk	ORGANIZATION	DURATION
+1.0	commission	publish	its conclusion	0	0
+1.0	Social Democrats	only agree	conservative	ORGANIZATION	0
+1.0	Eurofighter contract	have	out pull	O	O
+1.0	Austria	of	air defence	LOCATION	0
+1.0	government	sign	deal	0	0
+1.0	Norbert Darabos	be in	interview appear here Friday	PERSON	DATE
+1.0	Chancellor Alfred Gusenbauer	make campaign pledge worth	2.58 billion dollar	PERSON	MONEY
+1.0	former Defence Minister Guenther Platter	estimate in	November	ORGANIZATION	DATE
+1.0	Guenther Platter	be minister of	Defence	PERSON	ORGANIZATION
+1.0	Austria	have	new defence	LOCATION	0
+1.0	first four aircraft	be	be complete	ORDINAL	0
+1.0	Chancellor Alfred Gusenbauer	make	campaign pledge	PERSON	0
+1.0	far-right	have	part	O	O
+1.0	their	have	delivery	O	O
+1.0	four aircraft	be	be complete at EADS 's assembly line	NUMBER	ORGANIZATION
+1.0	importance	find	way	0	0
+1.0	first four aircraft	be	be complete at EADS 's assembly line	ORDINAL	ORGANIZATION
+1.0	Chancellor Alfred Gusenbauer	make campaign pledge worth	some 2.0 billion euro	PERSON	MONEY
+1.0	parliamentary commission	publish	its conclusion	0	0
+1.0	aircraft	be	be complete	0	0
+1.0	former Defence Minister Guenther Platter	estimate in	early November	ORGANIZATION	DATE
+1.0	aircraft	be	be complete at EADS 's assembly line in Manching Germany	0	LOCATION
+1.0	commission	be	expect	0	0
+1.0	air defence	have	importance	O	O
+1.0	Austria 's	have	government	O	LOCATION
+1.0	they delivery	be set for	early 2007	0	DATE
+1.0	way	guarantee	it	0	0
+1.0	Chancellor Wolfgang Schuessel	have	government	O	PERSON
+1.0	Austria	have	air defence	O	LOCATION
+1.0	government	sign deal in	2003	0	DATE
+1.0	fair negotiation	be	possible	0	0
+1.0	first aircraft	be	be complete at EADS 's assembly line	ORDINAL	ORGANIZATION
+1.0	parliamentary commission	be	expect	0	0
+1.0	Chancellor Alfred Gusenbauer	make campaign pledge before	he election	PERSON	0
+1.0	eads	be	european	0	0

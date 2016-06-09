@@ -1,0 +1,85 @@
+1.0	chief minister	agree under	pressure to probe	0	0
+1.0	victim	be	resident of village near New Delhi	0	LOCATION
+1.0	victim	be	kill	0	0
+1.0	kolus	question under	influence	0	0
+1.0	minister	agree by	Central Bureau of Investigation	0	ORGANIZATION
+1.0	police	fail	act	0	0
+1.0	Noida	be	where located	LOCATION	0
+1.0	main suspect	be in	serial killing of at least 17 people	0	NUMBER
+1.0	they organ	could	could sell	0	0
+1.0	bodies	have	village	O	O
+1.0	victim	be	resident of village in affluent Noida township near New Delhi	0	DURATION
+1.0	businessman	have	house	O	O
+1.0	minister	agree under	mount pressure to probe	0	0
+1.0	truth drug	have	influence	O	O
+1.0	chief minister	agree under	mount pressure to probe	0	0
+1.0	Noida	be	where located on Friday	LOCATION	DATE
+1.0	protester	storm	home of alleged killer	0	0
+1.0	victim	be resident of	village	0	0
+1.0	victim	be	resident of village in Noida township near New Delhi	0	DURATION
+1.0	kolus	question under	influence of truth drug for day	0	DATE
+1.0	victim	be	mostly resident	0	0
+1.0	chief minister	agree under	mount pressure to federal probe	0	0
+1.0	minister	agree under	pressure to federal probe	0	0
+1.0	duty	have	neglect	O	O
+1.0	village	have	residents	O	O
+1.0	Uttar state	have	minister	O	LOCATION
+1.0	protester	storm	home of killer	0	0
+1.0	police	have	have accuse	0	0
+1.0	chief minister	agree by	Central Bureau of Investigation	0	ORGANIZATION
+1.0	protester	try on	Friday	0	DATE
+1.0	kolus	question under	influence of truth drug for second day	0	DATE
+1.0	minister	agree under	mount pressure	0	0
+1.0	minister	agree by	Central Bureau	0	ORGANIZATION
+1.0	victim	be resident near	New Delhi	0	LOCATION
+1.0	Pandher	have	house	O	PERSON
+1.0	Moninder Singh Pandher	have	help	O	O
+1.0	drain	have	out dug	O	O
+1.0	minister	agree under	pressure to probe	0	0
+1.0	victim	be mostly resident of	village in Noida township	0	DURATION
+1.0	chief minister	agree under	pressure to federal probe	0	0
+1.0	Moninder Singh Pandher	surender	he help	PERSON	0
+1.0	their	have	organs	O	O
+1.0	The son of a businessman who is the main suspect in the serial killings of at least 17 people	have	father	O	O
+1.0	kolus	question under	influence of truth drug	0	0
+1.0	Pandher 's son	have	father	O	O
+1.0	kolus	question at_time	Saturday	0	DATE
+1.0	victim	be	mostly resident of village in affluent Noida township near New Delhi	0	DURATION
+1.0	victim	be resident of	village in affluent Noida township	0	DURATION
+1.0	victims	have	11	NUMBER	O
+1.0	killer	have	home	O	O
+1.0	Noida	be	located	LOCATION	0
+1.0	Pandher	near	house	PERSON	0
+1.0	victim	be resident of	village in Noida township	0	DURATION
+1.0	victim	be mostly resident near	New Delhi	0	LOCATION
+1.0	Investigation	have	Central Bureau	ORGANIZATION	ORGANIZATION
+1.0	people	have	serial killings	O	O
+1.0	victim	be	mostly resident of village near New Delhi	0	LOCATION
+1.0	Noida	be located on	Friday	LOCATION	DATE
+1.0	victim	come from	poor family	0	0
+1.0	businessman	have	son	O	O
+1.0	Sonia Gandhi	be on	Saturday	PERSON	DATE
+1.0	ruling Congress party	have	chief	O	ORGANIZATION
+1.0	news report	say at_time	Saturday	0	DATE
+1.0	chief minister	agree under	mount pressure	0	0
+1.0	Karan	be son of	Pandher	PERSON	PERSON
+1.0	minister	agree under	mount pressure to federal probe	0	0
+1.0	victim	be mostly resident of	village in affluent Noida township	0	DURATION
+1.0	Pandher	have	son	PERSON	0
+1.0	Sonia Gandhi	chief of	Congress party	PERSON	ORGANIZATION
+1.0	victim	come from	family	0	0
+1.0	protester	storm	home	0	0
+1.0	victim	be	resident	0	0
+1.0	police	be investigate	possibility	0	0
+1.0	Moninder Singh Pandher	surender	he domestic help	PERSON	0
+1.0	kolus	be	due	0	0
+1.0	chief minister	agree by	Central Bureau	0	ORGANIZATION
+1.0	protester	try on	Friday about 100	0	DATE
+1.0	businessman	behind	house	0	0
+1.0	village	be in	affluent Noida township	0	DURATION
+1.0	minister	agree under	pressure	0	0
+1.0	victim	be	mostly resident of village in Noida township near New Delhi	0	DURATION
+1.0	Saturday	on gandhi be	chief of ruling Congress party	DATE	ORGANIZATION
+1.0	chief minister	agree under	pressure	0	0
+1.0	victim	be mostly resident of	village	0	0
+1.0	Pandher	have	son	O	PERSON

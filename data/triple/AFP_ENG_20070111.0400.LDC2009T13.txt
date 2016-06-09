@@ -1,0 +1,71 @@
+1.0	Techem	by	management	PERSON	0
+1.0	BC Partners	enter	running	0	0
+1.0	BC Partners	enter running with	higher bid of 52 euro	0	MONEY
+1.0	that	end at_time	September 2005	0	DATE
+1.0	it	book	net profit of 39.9 million euro on sale of 466.8 million euro	0	MONEY
+1.0	Techem	provider of	energy billing datum service	0	0
+1.0	BC Partners	enter running with	higher bid of 52 euro per share	0	MONEY
+1.0	Techem	have favour bid by	BC Partners	0	ORGANIZATION
+1.0	BC Partners	enter running with	bid of 52 euro	0	MONEY
+1.0	Macquarie	say in	battle	ORGANIZATION	0
+1.0	euros	have	profit	O	MONEY
+1.0	Techem	bury	they difference	ORGANIZATION	0
+1.0	BC Partners	be	european	ORGANIZATION	0
+1.0	it	book	profit	0	0
+1.0	BC Partners	enter running with	bid of 52 euro per share	0	MONEY
+1.0	firm Techem	bury	they difference	ORGANIZATION	0
+1.0	Macquarie	offer	55 euro	PERSON	MONEY
+1.0	Macquarie bid	be	more attractive	ORGANIZATION	0
+1.0	euros	have	bid	O	MONEY
+1.0	Macquarie	better that	bid	PERSON	0
+1.0	Macquarie	say in	long-running battle	ORGANIZATION	0
+1.0	Macquarie	better in	December	PERSON	DATE
+1.0	Techem	operate electricity metre in	some 7.3 million household	PERSON	NUMBER
+1.0	1.28 billion euro	be in	all	MONEY	0
+1.0	it	book	profit of 39.9 million euro on sale	0	MONEY
+1.0	it	book	profit of 39.9 million euro	0	MONEY
+1.0	it	book	net profit of 39.9 million euro	0	MONEY
+1.0	Macquarie	be	australian	ORGANIZATION	0
+1.0	Techem	with	support	PERSON	0
+1.0	joint bid	value techem share in	all	0	0
+1.0	Macquarie bid	be	financially more attractive	ORGANIZATION	0
+1.0	Techem	be for	44 euro	PERSON	MONEY
+1.0	Techem	have	shareholders	O	O
+1.0	Macquarie bid	be	financially attractive	ORGANIZATION	0
+1.0	Techem	employ	workforce	PERSON	0
+1.0	7.3 million household	be in	Germany	NUMBER	LOCATION
+1.0	Techem	operate electricity metre in	some 7.3 million household in Germany	PERSON	LOCATION
+1.0	concessions	have	number	O	O
+1.0	BC Partners	enter running at	end	0	DATE
+1.0	joint bid	value techem share at	71 dollar	0	MONEY
+1.0	Macquarie	say in	statement	ORGANIZATION	0
+1.0	Techem	have favour	bid	0	0
+1.0	Techem	operate	electricity metre	PERSON	0
+1.0	bid	value techem share in	all	0	0
+1.0	2,400	have	workforce	O	NUMBER
+1.0	Macquarie bid	be	attractive	ORGANIZATION	0
+1.0	bid	value techem share at	55 euro	0	MONEY
+1.0	BC Partners	enter running at	end of November	0	DATE
+1.0	1.36 billion euro	be in	all	MONEY	0
+0.9652381129169338	Techem	lead provider of	energy billing datum service	0	0
+1.0	rival bidders Australian bank Macquarie and European private equity firm BC Partners	have	differences	O	O
+1.0	time	be with	Techem 's support	0	PERSON
+1.0	1.1 billion euro	be in	all	MONEY	0
+1.0	Macquarie	offer	55 euro per share	PERSON	MONEY
+1.0	Techem	employ	workforce of 2,400	PERSON	NUMBER
+1.0	Techem	have	support	O	PERSON
+1.0	November	have	end	DATE	DATE
+1.0	joint bid	value techem share at	55 euro	0	MONEY
+1.0	joint bid	value	Techem share	0	ORGANIZATION
+1.0	bid	value techem share at	71 dollar	0	MONEY
+1.0	euros	have	sales	O	MONEY
+1.0	bid	be dismiss as	unsolicited	0	0
+0.9652381129169338	Techem	provider of	energy billing datum service	0	0
+1.0	it	book	profit of 39.9 million euro on sale of 466.8 million euro	0	MONEY
+1.0	energy water billing data services	have	provider	O	O
+1.0	BC Partners	enter running with	bid	0	0
+1.0	it	book	net profit	0	0
+1.0	it	book	net profit of 39.9 million euro on sale	0	MONEY
+1.0	bid	value	Techem share	0	ORGANIZATION
+1.0	BC Partners	enter running with	higher bid	0	0
+1.0	Techem	have	management	O	PERSON

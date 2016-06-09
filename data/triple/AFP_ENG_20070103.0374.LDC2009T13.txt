@@ -1,0 +1,17 @@
+1.0	humanity	of	first war	0	ORDINAL
+1.0	balls	have	form	O	O
+1.0	clay	have	balls	O	O
+1.0	ammunition	be in	the 4th century BC	0	DATE
+1.0	Zeit newspaper	have	edition	O	O
+1.0	humanity	have	war	O	O
+1.0	Hamoukar	have	city	O	LOCATION
+1.0	war	have	example	O	O
+1.0	combat zone	have	spoke	O	O
+1.0	Syria	be in	form of ball of stone	LOCATION	0
+1.0	war	have	relics	O	O
+1.0	stone	have	balls	O	O
+1.0	border	be with	Iraq	0	LOCATION
+1.0	archaeological dig	be in	ancient city of Hamoukar	0	ORGANIZATION
+1.0	site bear witness	have	part	O	O
+1.0	Chicago	have	University	ORGANIZATION	ORGANIZATION
+1.0	Syria	have	east	O	LOCATION

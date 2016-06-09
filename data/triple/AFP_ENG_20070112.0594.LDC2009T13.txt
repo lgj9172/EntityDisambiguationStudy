@@ -1,0 +1,38 @@
+1.0	snow	have	inch	O	O
+1.0	governor Arnold Schwarzenegger	declare	state of emergency	PERSON	0
+1.0	governor Arnold Schwarzenegger	declare	state	PERSON	0
+1.0	temperature	be	expect	0	0
+1.0	California	shiver under	blanket of weather	LOCATION	0
+1.0	temperatures	have	declaring	O	O
+1.0	ice	have	inch	O	O
+0.7155487980091625	Governor Arnold Schwarzenegger	say in	statement	PERSON	0
+1.0	temperature	reach	two degree Celsius Friday	0	NUMBER
+1.0	temperature	reach	two degree Celsius	0	NUMBER
+1.0	emergency	have	state	O	O
+0.7155487980091625	Governor Arnold Schwarzenegger	say in	statement release by he office	PERSON	0
+1.0	weather system	dump at_time	Friday	0	DATE
+1.0	cold weather system	dump	about	0	0
+1.0	c	be in	Sacramento	0	LOCATION
+1.0	cold weather system	dump at_time	Friday	0	DATE
+1.0	California	shiver under	blanket of unseasonally cold weather	LOCATION	0
+1.0	cold weather system	dump earlier at_time	Friday	0	DATE
+1.0	cold weather system	dump earlier	about	0	0
+1.0	0 degree c	be in	San Francisco	NUMBER	LOCATION
+1.0	weather system	dump earlier	about	0	0
+1.0	cold weather system	force	several school closure	0	0
+1.0	weather system	dump earlier at_time	Friday	0	DATE
+1.0	Governor Arnold Schwarzenegger	be declare	emergency	0	0
+1.0	California	shiver under	blanket	LOCATION	0
+1.0	weather	have	blanket	O	O
+0.7155487980091625	Governor Arnold Schwarzenegger	say in	statement release	PERSON	0
+1.0	Governor Arnold Schwarzenegger	have	office	O	O
+1.0	California	shiver under	blanket of cold weather	LOCATION	0
+1.0	temperature	reach	two degree Celsius overnight Friday	0	NUMBER
+1.0	temperature	be in	Los Angeles	0	LOCATION
+1.0	San Diego region	be in	California	LOCATION	LOCATION
+1.0	weather system	force	school closure	0	0
+1.0	snow level	be in	mountainous area	0	0
+1.0	cold weather system	force	school closure	0	0
+1.0	weather system	dump	about	0	0
+1.0	weather system	force	several school closure	0	0
+1.0	mountainous area	be in	San Diego region	0	LOCATION

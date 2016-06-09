@@ -1,0 +1,22 @@
+1.0	ambassador	be in	Baghdad	0	LOCATION
+1.0	Zalmay Khalilzad	have serve through	present	PERSON	DATE
+1.0	Afghanistan	have	native	O	LOCATION
+1.0	Muslim	have	native	O	MISC
+1.0	Zalmay Khalilzad	have	diplomat	O	O
+1.0	Zalmay Khalilzad	native of	Afghanistan	PERSON	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Khalilzad 55	have serve from	June 2005	PERSON	DATE
+1.0	Zalmay Khalilzad	have serve as	ambassador	PERSON	0
+1.0	His	have	nomination	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Khalilzad 55	have serve as	ambassador in Baghdad	PERSON	LOCATION
+1.0	Zalmay Khalilzad	have serve as	ambassador in Baghdad	PERSON	LOCATION
+1.0	Zalmay Khalilzad	be	55	PERSON	NUMBER
+0.9129447633152606	Zalmay Khalilzad	native of	Afghanistan	PERSON	LOCATION
+1.0	Khalilzad 55	have serve through	present	PERSON	DATE
+1.0	Zalmay Khalilzad	ambassador to	Iraq	PERSON	LOCATION
+1.0	ABC News	report at_time	Thursday	ORGANIZATION	DATE
+1.0	John Bolton	be ambassador of	Zalmay Khalilzad	PERSON	ORGANIZATION
+1.0	Khalilzad 55	have serve as	ambassador	PERSON	0
+1.0	John Bolton	be	Zalmay Khalilzad	PERSON	ORGANIZATION
+1.0	Zalmay Khalilzad	have serve from	June 2005	PERSON	DATE

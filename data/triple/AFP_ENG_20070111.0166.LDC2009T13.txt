@@ -1,0 +1,31 @@
+1.0	Cotabato city	have	Senior Superintendent Peraco Macacua	PERSON	LOCATION
+1.0	Cotabato	have	cities	O	LOCATION
+1.0	group	be with	the know	0	0
+1.0	Abu Sayyaf	have	hallmarks	O	PERSON
+1.0	philippine military	put	its troops	0	0
+1.0	Lieutenant Colonel Bartolome Bacarro	tell	reporter	PERSON	0
+1.0	General Santos	have	cities	O	PERSON
+1.0	attack	overshadow preparation in	central island of Cebu	0	LOCATION
+1.0	security	be in	Cebu for Asian summits	0	LOCATION
+1.0	Mindanao	have	island	O	LOCATION
+1.0	attack	overshadow preparation in	island of Cebu for Asian summit	0	MISC
+1.0	Senior Superintendent Peraco Macacua	tell	local radio	PERSON	0
+1.0	US government	have	terror watch list	O	O
+1.0	attack	overshadow preparation in	island	0	0
+1.0	attack	overshadow	preparation	0	0
+1.0	Wednesday	have	attacks	O	DATE
+1.0	Senior Superintendent Peraco Macacua	tell	radio	PERSON	0
+1.0	Kidapawan police chief Inspector Leo Ajero	have	jurisdiction	O	O
+1.0	Cebu	have	island	O	LOCATION
+1.0	Jolo island	have	out carry	O	O
+1.0	The Philippine military	have	troops	O	O
+1.0	improvise bomb	be in	he jurisdiction	0	0
+1.0	attack	overshadow preparation in	central island	0	0
+1.0	military	put	its troops	0	0
+1.0	Peraco Macacua	be of	Cotabato city	PERSON	LOCATION
+1.0	Kidapawan	have	town	O	LOCATION
+1.0	attack	overshadow preparation on	Saturday	0	DATE
+1.0	three blast Wednesday	be in	city of General Santos	NUMBER	PERSON
+1.0	attack	overshadow preparation in	island of Cebu	0	LOCATION
+1.0	attack	overshadow preparation in	central island of Cebu for Asian summit	0	MISC
+1.0	Wednesday	have	attack	DATE	0

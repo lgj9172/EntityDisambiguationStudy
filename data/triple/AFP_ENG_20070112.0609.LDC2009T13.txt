@@ -1,0 +1,24 @@
+1.0	resolution	be	powerful	0	0
+1.0	Burma	have	people	O	LOCATION
+1.0	Myanmar	have	former name	LOCATION	0
+1.0	Myanmar	have	name	O	LOCATION
+1.0	United States	express	deep disappointment	LOCATION	0
+1.0	United States	express disappointment over	veto	LOCATION	0
+1.0	United Nations Security Council	have	failure	O	ORGANIZATION
+1.0	would have powerful tool	be in	effort end	0	0
+1.0	United States	express disappointment on	Myanmar	LOCATION	LOCATION
+1.0	United States	express disappointment over	veto of its UN draft resolution	LOCATION	ORGANIZATION
+1.0	would have powerful tool	be in	we effort help	0	0
+1.0	The United States	have	UN draft resolution	O	O
+1.0	Tom Casey	be deputy spokesman of	State Department	PERSON	ORGANIZATION
+1.0	United States	express	disappointment	LOCATION	0
+1.0	State Department deputy spokesman Tom Casey	say in	statement	ORGANIZATION	0
+1.0	people	have	suffering	O	O
+1.0	text	be	powerful	0	0
+1.0	the military-ruled country 's people	have	efforts	O	O
+1.0	UN draft resolution	have	vetoes	O	O
+1.0	Tom Casey	be	State Department	PERSON	ORGANIZATION
+1.0	military-ruled country	of	people	0	0
+1.0	country	have	people	O	O
+1.0	United States	express disappointment at_time	Friday	LOCATION	DATE
+1.0	State Department deputy spokesman Tom Casey	use	Myanmar 's former name	ORGANIZATION	LOCATION

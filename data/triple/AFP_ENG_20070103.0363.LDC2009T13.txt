@@ -1,0 +1,36 @@
+1.0	ban	arrive as	head of world body	0	0
+1.0	crimes	have	victims	O	O
+1.0	ban	tell reporter at	UN headquarters	0	ORGANIZATION
+1.0	punishment	have	issue	O	O
+1.0	ex-Iraqi dictator Saddam Hussein	have	execution	O	PERSON
+1.0	ban	arrive for	he day	0	DATE
+1.0	Ban	have	comments	O	O
+1.0	ex-Iraqi dictator Saddam Hussein	have	day	DATE	O
+1.0	the United Nations '	have	system	O	O
+1.0	world body	have	head	O	O
+1.0	Norwegian Foreign Minister Jonas Gahr Stoere	tell	norwegian agency NTB	PERSON	ORGANIZATION
+1.0	UN	should	should able	ORGANIZATION	0
+1.0	Jonas Gahr Stoere	be	norwegian	PERSON	0
+1.0	the execution of ex-Iraqi dictator Saddam Hussein	have	position	O	O
+1.0	ban	arrive for	he first day of work	0	DATE
+1.0	United Nations	have	opposition	O	ORGANIZATION
+1.0	ban	tell reporter in	New York	0	LOCATION
+1.0	ban	arrive for	he day of work	0	DATE
+1.0	Norwegian Foreign Minister Jonas Gahr Stoere	tell	agency NTB	PERSON	ORGANIZATION
+1.0	penalty	be	inhuman	0	0
+1.0	Ban Ki-moon	be secretary general of	the United Nations '	PERSON	ORGANIZATION
+1.0	ban	arrive for	he first day	0	DATE
+1.0	ban	have	comment	0	0
+1.0	Saddam Hussein	be of	ex-iraqi	PERSON	0
+1.0	death penalty	have	subject	O	O
+1.0	Ban Ki-moon	be	the United Nations '	PERSON	ORGANIZATION
+1.0	dictator Saddam Hussein	have	execution	O	PERSON
+1.0	principle	have	question	O	O
+1.0	ban	arrive as	head	0	0
+1.0	laws	have	aspects	O	O
+1.0	ban 's comment	contradict	United Nations ' opposition	0	ORGANIZATION
+1.0	ex-Iraqi dictator Saddam Hussein	have	crimes	O	O
+1.0	ban	tell	reporter	0	0
+1.0	work	have	day	DATE	O
+1.0	ban 's comment	contradict	United Nations ' traditional opposition	0	ORGANIZATION
+1.0	it	be	important	0	0

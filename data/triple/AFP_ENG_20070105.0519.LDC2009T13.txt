@@ -1,0 +1,78 @@
+1.0	Hong Kong	have	inflation	O	LOCATION
+1.0	Hong Kong dollar	have	have peg to US dollar	LOCATION	LOCATION
+1.0	currency	be	also revalue	0	0
+1.0	currency	have	management	O	O
+1.0	appreciation	have	impact	O	O
+1.0	city	have	stability	O	O
+1.0	chinese currency	be revalue to	8.11	0	NUMBER
+1.0	reference rate	have	side	O	O
+1.0	currency	be	revalue to 8.11 to US dollar	0	LOCATION
+1.0	China	have	yuan	O	LOCATION
+1.0	city	have	currency currently link to US dollar	0	LOCATION
+1.0	China	to	yuan	LOCATION	0
+1.0	Hong Kong dollar	have	have peg	LOCATION	0
+1.0	Hong Kong	have	growth	O	LOCATION
+1.0	China	loosen	link dollar	LOCATION	0
+1.0	Hong Kong dollar	have	have peg to US dollar since 1983	LOCATION	LOCATION
+1.0	currency	be revalue to	US dollar	0	LOCATION
+1.0	Yam	describe	arrangement	PERSON	0
+0.10199368314675994	economist	expect	rise by three	0	NUMBER
+1.0	currency	be revalue to	8.11	0	NUMBER
+1.0	rapid appreciation	be in	yuan	0	0
+1.0	China	rapidly grow	economy	LOCATION	0
+1.0	growth	have	pace	O	O
+1.0	Yam	describe arrangement as	foundation of city 's stability	PERSON	0
+1.0	yuan	rise accord to	newspaper report	0	0
+1.0	Beijing	have	management	O	LOCATION
+1.0	chinese currency	be also revalue to	8.11	0	NUMBER
+1.0	The impact of the yuan appreciation	be	natural	0	0
+1.0	stability	have	foundation	O	O
+1.0	chinese currency	be	revalue to 8.11 to US dollar	0	LOCATION
+1.0	Hong Kong	of	economic growth	LOCATION	0
+1.0	China	have	economy	LOCATION	0
+1.0	China	have	economies	O	LOCATION
+1.0	economist	expect	yuan	0	0
+1.0	Yam	describe arrangement as	foundation of city 's monetary stability	PERSON	0
+0.10199368314675994	economist	expect	rise	0	0
+0.23154884713092094	China	loosen	link dollar allow	LOCATION	0
+1.0	impact	will	will very substantial	0	0
+1.0	impact	be	psychological	0	0
+1.0	currency	be also revalue to	8.11	0	NUMBER
+1.0	The impact of the yuan appreciation	be natural for	yuan rise because of mainland	0	0
+1.0	The impact of the yuan appreciation	be natural for	yuan	0	0
+1.0	report	say at_time	Saturday	0	DATE
+1.0	The impact of the yuan appreciation	be natural for	yuan rise	0	0
+1.0	Hong Kong dollar	have	have peg since 1983	LOCATION	DATE
+1.0	city	of	monetary stability	0	0
+1.0	Hong Kong	have	authority chief	O	LOCATION
+1.0	link dollar	be in	July 2005	0	DATE
+1.0	chinese currency	be	also revalue to 8.11 to US dollar	0	LOCATION
+1.0	Hong Kong	have	monetary authority chief	LOCATION	0
+1.0	China	loosen	dollar in July 2005	LOCATION	DATE
+0.23154884713092094	China	loosen	dollar allow	LOCATION	0
+1.0	China	loosen	link between yuan dollar in July 2005	LOCATION	DATE
+1.0	China	loosen	dollar	LOCATION	0
+1.0	yuan	rise by	three	0	NUMBER
+1.0	China	loosen	link dollar in July 2005	LOCATION	DATE
+1.0	China	grow	economy	LOCATION	0
+1.0	currency	be	revalue	0	0
+0.23154884713092094	China	loosen	link dollar in July 2005 allow	LOCATION	DATE
+1.0	chinese currency	be	revalue	0	0
+1.0	impact	be	only psychological	0	0
+1.0	Hong Kong 's monetary authority chief	be	quote	0	0
+1.0	city	have	currency	O	O
+1.0	currency	be also revalue to	US dollar	0	LOCATION
+1.0	mainland	have	rise	O	O
+1.0	China	loosen	link between yuan dollar	LOCATION	0
+0.23154884713092094	China	loosen	dollar in July 2005 allow	LOCATION	DATE
+1.0	impact	will	will substantial	0	0
+1.0	Yam	describe arrangement as	foundation	PERSON	0
+1.0	Beijing	have	ongoing tight management of currency	LOCATION	0
+1.0	chinese currency	be revalue to	US dollar	0	LOCATION
+1.0	five percent	be in	2007	PERCENT	DATE
+0.23154884713092094	China	loosen	link between yuan dollar allow	LOCATION	0
+0.23154884713092094	China	loosen	link between yuan dollar in July 2005 allow	LOCATION	DATE
+1.0	chinese currency	be also revalue to	US dollar	0	LOCATION
+1.0	currency	be	also revalue to 8.11 to US dollar	0	LOCATION
+1.0	their	have	currencies	O	O
+1.0	chinese currency	be	also revalue	0	0

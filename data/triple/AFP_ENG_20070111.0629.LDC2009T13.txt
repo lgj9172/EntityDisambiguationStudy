@@ -1,0 +1,126 @@
+0.8467605599732255	banner	call sometimes for	closure	0	0
+1.0	Vladimir Putin	criticise prison camp as	sad situation	PERSON	0
+1.0	protester ' audience	consist of	journalist	0	0
+1.0	they	be charge in	court of law	0	0
+1.0	they	chant slogan to	surprise of bemused onlooker	DATE	0
+1.0	Cindy Sheehan	be	the United States	PERSON	LOCATION
+1.0	they	chant slogan to	surprise of cuban onlooker	DATE	0
+1.0	brother	have	photo	O	O
+1.0	protest	take place in	other country	0	0
+1.0	Zewawi	have	son	O	O
+1.0	Zohra Zawawi	travel after	war-on	0	0
+0.8467605599732255	banner	call for	closure of base	0	0
+1.0	US interrogator	have abuse accord to	human rights activist	LOCATION	0
+0.5004167599626697	demonstrator	play	role of guard	0	0
+1.0	they	chant slogan to	surprise	DATE	0
+1.0	they	earlier chant slogan to	surprise of onlooker	DATE	0
+0.9245210977090453	release	ago	two year	0	DATE
+1.0	19 protestors	stage on	cuban side of fence	0	0
+1.0	shame	have	place	O	O
+1.0	navy-run jail	be in	US enclave	0	LOCATION
+1.0	her son Omar	be	close	PERSON	0
+1.0	they	chant slogan in	downtown Guantanamo city	DATE	LOCATION
+1.0	Taher Deghayes	have	release	O	O
+1.0	they	earlier chant	few slogan	DATE	0
+1.0	they	earlier chant slogan in	downtown Guantanamo city	DATE	LOCATION
+1.0	protesters	have	audience	O	O
+1.0	protester ' only audience	consist of	journalist	0	0
+1.0	banner	call for	he release	0	0
+1.0	One protester	have	head	O	O
+1.0	larger protest	take	place	0	0
+0.8467605599732255	banner	call for	closure of controversial base	0	0
+1.0	US soldier	be kill	whose son	LOCATION	0
+1.0	pastor	pray for	peace	0	0
+1.0	her son Omar	be	so close	PERSON	0
+1.0	September 11 attack	be in	United States	DATE	LOCATION
+1.0	Cindy Sheehan	have	campaign	O	O
+1.0	they	earlier chant	slogan	DATE	0
+1.0	George W. Bush	of	Texas ranch	PERSON	LOCATION
+1.0	people	join protest in	London organize	0	LOCATION
+1.0	19 protestors	stage on	cuban side	0	0
+0.5004167599626697	demonstrator	play	role	0	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	US interrogator	have abuse accord to	rights activist	LOCATION	0
+1.0	Vladimir Putin	be russian president of	Moscow	PERSON	LOCATION
+1.0	Zohra Zawawi	plunge guantanamo base entrance into	tear	0	0
+1.0	Zohra Zawawi	have	son Omar	PERSON	O
+1.0	US President George W. Bush	have	Texas ranch	O	PERSON
+1.0	they	chant slogan to	surprise of onlooker	DATE	0
+1.0	mile	be	place	0	0
+1.0	Asif Iqbal	be	25	PERSON	NUMBER
+1.0	larger protest	take place in	country	0	0
+1.0	they	chant slogan in	downtown Guantanamo city much	DATE	LOCATION
+1.0	he	tell	journalist	0	0
+1.0	Zohra Zawawi	travel from	Dubai	0	LOCATION
+1.0	they	be	charge	0	0
+0.8467605599732255	banner	call sometimes for	closure of controversial base	0	0
+1.0	Asif Iqbal	be	Guantanamo Bay	PERSON	LOCATION
+1.0	Iqbal 25	stare beyond	fence	PERSON	0
+1.0	they	earlier chant slogan to	surprise of cuban onlooker	DATE	0
+1.0	fence	have	side	O	O
+1.0	their	have	mouths	O	O
+1.0	Zewawi	have	sons	O	O
+1.0	Vladimir Putin	criticise	prison camp	PERSON	0
+1.0	he	tell journalist by	gate	0	0
+1.0	US government	hold	nearly 400 prisoner	LOCATION	NUMBER
+1.0	mile	be place of	shame	0	0
+1.0	son	have	inmate number	O	O
+0.5149328653300101	who Road	dramatize	documentary film	0	0
+0.8467605599732255	banner	call sometimes for	closure of base	0	0
+1.0	Vladimir Putin	criticise prison camp in	speech on rights	PERSON	0
+1.0	Texas ranch	have	gates	O	O
+1.0	protestor	include	US peace activist Cindy Sheehan	0	LOCATION
+1.0	people	join protest around	200	0	NUMBER
+1.0	son	with	inmate number	0	0
+1.0	Taher Deghayes	have	brother	O	O
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	19 protestors	stage on	side	0	0
+1.0	Zohra Zawawi	plunge guantanamo base entrance into	tear at sight	0	0
+1.0	Asif Iqbal	be inmate of	Guantanamo Bay	PERSON	LOCATION
+1.0	larger protest	take place in	other country	0	0
+1.0	19 protestors	stage on	side of fence	0	0
+1.0	they	chant	few slogan	DATE	0
+1.0	they	earlier chant slogan to	surprise	DATE	0
+1.0	protest	take place in	country	0	0
+1.0	they	earlier chant slogan in	downtown Guantanamo city much	DATE	LOCATION
+1.0	the detainees	arrive at	security prison	0	0
+1.0	Asif Iqbal	stare beyond	fence	PERSON	0
+1.0	guards	have	roles	O	O
+1.0	sons	have	Another	O	O
+1.0	One protester	have	eyes	O	O
+0.8467605599732255	banner	call for	closure	0	0
+1.0	base	have	closure	O	O
+1.0	journalists	have	consisted	O	O
+1.0	Zohra Zawawi	plunge	Guantanamo base entrance	0	LOCATION
+1.0	19 protestors	stage at_time	march	0	DATE
+1.0	Cindy Sheehan	be peace activist of	the United States	PERSON	LOCATION
+1.0	fireman	have	mother	O	O
+1.0	US justice system	have	protections	O	O
+1.0	Zohra Zawawi	travel after	first war-on	0	ORDINAL
+1.0	Vladimir Putin	criticise prison camp in	Moscow Russian President	PERSON	LOCATION
+1.0	Vladimir Putin	criticise prison camp as	situation	PERSON	0
+1.0	protest	take	place	0	0
+1.0	they	chant	slogan	DATE	0
+1.0	they	be charge in	court	0	0
+1.0	people	join protest in	London	0	LOCATION
+1.0	people	join	protest	0	0
+1.0	Cindy Sheehan	have	stomach	O	O
+1.0	they	earlier chant slogan to	surprise of bemused cuban onlooker	DATE	0
+1.0	onlookers	have	surprise	O	O
+1.0	Vladimir Putin	criticise prison camp in	speech on human rights	PERSON	0
+1.0	they	earlier chant slogan to	surprise of bemused onlooker	DATE	0
+1.0	life	have	mock-up	O	O
+1.0	whose	have	son	O	O
+1.0	Vladimir Putin	criticise prison camp in	speech	PERSON	0
+1.0	banner	refer to	to Gitmo	0	LOCATION
+1.0	soldiers	have	consisted	O	O
+1.0	19 protestors	have	heads	O	O
+1.0	detainees	have	roles	O	O
+1.0	prisoners	have	innocence	O	O
+1.0	Zohra Zawawi	have	heart	O	O
+1.0	they	chant slogan to	surprise of bemused cuban onlooker	DATE	0
+1.0	Zohra Zawawi	travel to	Cuba five year	0	DURATION
+1.0	law	have	court	O	O
+1.0	19 protestors	stage at_time	kilometer-long march	0	DATE
+1.0	the detainees	arrive at	maximum security prison	0	0
+1.0	officials	have	consisted	O	O

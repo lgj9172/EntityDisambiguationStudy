@@ -1,0 +1,11 @@
+1.0	Janko Tipsarevic	be	4-2	PERSON	NUMBER
+1.0	Janko Tipsarevic	be  at_time	6-1	PERSON	NUMBER
+1.0	Jan Hajek	be	Novak Djokovic	PERSON	PERSON
+0.6594006360878127	x	denote	seeding	0	0
+1.0	6-1	tipsarevic at_time	ser	NUMBER	0
+1.0	atp	under	new round-robin format at Memorial Drive here Tuesday	0	LOCATION
+1.0	Radek Stepanek	be	Vincent Spadea	PERSON	PERSON
+1.0	Dominik Hrbaty	be	Paul Goldstein	PERSON	PERSON
+1.0	ATP	have	round-robin format	O	ORGANIZATION
+1.0	Janko Tipsarevic	be	Lleyton Hewitt	PERSON	PERSON
+1.0	Florian Mayer	be	Richard Gasquet	PERSON	PERSON

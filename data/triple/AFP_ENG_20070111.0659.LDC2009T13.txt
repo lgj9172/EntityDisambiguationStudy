@@ -1,0 +1,46 @@
+1.0	Department	say on	Thursday	ORGANIZATION	DATE
+1.0	Luis Posada Carriles	be	anti-castro	PERSON	0
+1.0	Posada Carriles , 78	be bear	say	0	0
+1.0	Posada Carriles	enter illegally	United States	PERSON	LOCATION
+1.0	Posada Carriles , 78	assassinate	cuban leader Fidel Castro	PERSON	PERSON
+1.0	Posada Carriles 78	be	want	PERSON	0
+1.0	Posada Carriles	be detain by	immigration official in May 2005	PERSON	DATE
+1.0	US official	release	Posada Carriles , 78	LOCATION	0
+1.0	Posada Carriles	be	detain	PERSON	0
+1.0	immigration official	be in	May 2005	0	DATE
+1.0	Posada Carriles , 78	be	jail for eight year in bomb plot	PERSON	DURATION
+1.0	Posada Carriles , 78	be want by	Venezuela	PERSON	LOCATION
+1.0	Posada Carriles , 78	assassinate leader fidel castro during	ibero	PERSON	0
+1.0	airliner	have	bombing	O	O
+1.0	Posada Carriles , 78	assassinate	leader Fidel Castro	PERSON	PERSON
+1.0	Posada Carriles , 78	be	want by Venezuela in 1976 bombing	PERSON	LOCATION
+1.0	Posada Carriles , 78	assassinate leader fidel castro in	2000	PERSON	DATE
+1.0	interview	be with	US official in April 2006	0	DATE
+1.0	Posada Carriles , 78	face	terrorism charge	PERSON	0
+1.0	Posada Carriles , 78	have	application	O	O
+1.0	Posada Carriles	be detain by	immigration official	PERSON	0
+1.0	Posada Carriles , 78	be jail in	bomb plot	PERSON	0
+1.0	United States	extradite	Posada Carriles , 78	LOCATION	PERSON
+1.0	authority	accuse	US government	0	LOCATION
+1.0	federal jury	be in	Texas	0	LOCATION
+1.0	Posada Carriles , 78	be	bear	0	0
+1.0	Posada Carriles , 78	hold	citizenship	0	0
+1.0	Posada Carriles 78	be want by	Venezuela	PERSON	LOCATION
+1.0	Posada Carriles , 78	be	jail for eight year in Panama in bomb plot	PERSON	DURATION
+1.0	cuban authority	accuse	US government	0	LOCATION
+1.0	US citizen	be in	September 2005	LOCATION	DATE
+1.0	Posada Carriles , 78	be	where bear	0	0
+1.0	american summit	be in	Panama	0	LOCATION
+1.0	Posada Carriles 78	be want in	1976 bombing	PERSON	DATE
+1.0	Posada Carriles , 78	be	want	PERSON	0
+1.0	Posada Carriles , 78	be jail for	eight year	PERSON	DURATION
+1.0	Posada Carriles 78	be	want by Venezuela in 1976 bombing	PERSON	LOCATION
+1.0	Posada Carriles , 78	be jail for	eight year in Panama	PERSON	DURATION
+1.0	US official	be in	April 2006	LOCATION	DATE
+1.0	eight year	be in	Panama	DURATION	LOCATION
+1.0	Justice	have	Department	ORGANIZATION	ORGANIZATION
+1.0	Posada Carriles , 78	be want in	1976 bombing	PERSON	DATE
+1.0	Fidel Castro	be	cuban	PERSON	0
+1.0	Posada Carriles , 78	be	78	PERSON	NUMBER
+1.0	Posada Carriles , 78	be	jail	PERSON	0
+1.0	Posada Carriles	enter	United States	PERSON	LOCATION

@@ -1,0 +1,62 @@
+1.0	batsman	miss	all-rounder Jacques Kallis	0	PERSON
+1.0	Steyn	be	third	PERSON	ORDINAL
+1.0	wicketkeeper Mahendra Singh Dhoni	have	finger	O	O
+1.0	injury	have	out ruled	O	O
+1.0	bowlers	have	switch	O	O
+1.0	Paul Harris India	decide in	series-deciding third test against South Africa	LOCATION	LOCATION
+1.0	batsman	miss	second test	0	ORDINAL
+1.0	thigh injury	have	missed	O	O
+1.0	batsman	return to	african team	0	0
+1.0	batsman	return to	south african team	0	0
+1.0	back injury	have	selected	O	O
+1.0	Paul Harris India	decide in	test	LOCATION	0
+1.0	his	have	debut	O	O
+1.0	wicketkeeper Mahendra Singh Dhoni	suffer in	Durban	0	LOCATION
+1.0	Munaf Patel	replace	VRV Singh in switch of fast bowler	PERSON	0
+1.0	lead batsman	return to	south african team	0	0
+1.0	Paul Harris India	decide in	third test against South Africa	LOCATION	LOCATION
+1.0	South Africa	be at	Tuesday	LOCATION	DATE
+1.0	Paul Harris India	decide in	test against South Africa	LOCATION	LOCATION
+1.0	Sachin Tendulkar	be	VVS Laxman	PERSON	ORGANIZATION
+1.0	Paul Harris India	decide in	series-deciding test against South Africa at Newlands Tuesday	LOCATION	DATE
+1.0	wicketkeeper Mahendra Singh Dhoni	suffer during	second test	0	ORDINAL
+1.0	lead batsman	return to	team	0	0
+1.0	Shaun Pollock	be	Makhaya Ntini	PERSON	PERSON
+1.0	Hashim Amla	be	Mark Boucher	PERSON	PERSON
+1.0	Paul Harris India	decide in	series-deciding third test against South Africa at Newlands Tuesday	LOCATION	DATE
+1.0	bowler Dale Steyn	be	change	PERSON	0
+1.0	batsman	miss	test	0	0
+1.0	Paul Harris India	decide in	series-deciding test against South Africa	LOCATION	LOCATION
+1.0	lead batsman	return to	african team	0	0
+1.0	AB de Villiers	be	Jacques Kallis	ORGANIZATION	PERSON
+1.0	play	start on	day	0	DURATION
+1.0	play	start on	warm day	0	DURATION
+1.0	Anil Kumble	be	Zaheer Khan	PERSON	PERSON
+1.0	Munaf Patel	replace	VRV Singh	PERSON	0
+1.0	Paul Harris India	decide to	bat	LOCATION	0
+1.0	batsman	return to	team	0	0
+1.0	Paul Harris	be	28	PERSON	NUMBER
+1.0	fast bowler Dale Steyn	be	change	PERSON	0
+1.0	lead batsman	return	all-rounder Jacques Kallis	0	PERSON
+1.0	Sourav Ganguly	be	Dinesh Karthik	PERSON	PERSON
+1.0	play	be	due	0	0
+1.0	Paul Harris India	suffer	blow	LOCATION	0
+1.0	play	start on	sunny day	0	DURATION
+1.0	Virender Sehwag	be	Wasim Jaffer	PERSON	PERSON
+1.0	bowler Dale Steyn	be	third change	PERSON	ORDINAL
+1.0	Munaf Patel	replace	VRV Singh in switch of bowler	PERSON	0
+1.0	lead batsman	miss	second test	0	ORDINAL
+1.0	Paul Harris India	decide in	third test	LOCATION	ORDINAL
+1.0	lead batsman	miss	test	0	0
+1.0	wicketkeeper Mahendra Singh Dhoni	suffer during	test	0	0
+1.0	fast bowler Dale Steyn	be	third change	PERSON	ORDINAL
+1.0	Paul Harris India	decide in	series-deciding test	LOCATION	0
+1.0	Paul Harris India	decide in	test against South Africa at Newlands Tuesday	LOCATION	DATE
+1.0	Herschelle Gibbs	be	Ashwell Prince	PERSON	PERSON
+1.0	Paul Harris India	decide in	series-deciding third test	LOCATION	ORDINAL
+1.0	Munaf Patel	replace	VRV Singh in switch	PERSON	0
+1.0	batsman	return	all-rounder Jacques Kallis	0	PERSON
+1.0	VRV Singh	be in	switch of fast bowler	0	0
+1.0	play	start on	warm sunny day	0	DURATION
+1.0	lead batsman	miss	all-rounder Jacques Kallis	0	PERSON
+1.0	Paul Harris India	decide in	third test against South Africa at Newlands Tuesday	LOCATION	DATE

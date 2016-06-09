@@ -1,0 +1,77 @@
+1.0	newspaper guild	organize	demonstration	0	0
+1.0	The hostage 's mother Delia Razuri	have	son	O	O
+1.0	gathering	follow candlelight vigil at	Lima 's downtown cathedral	0	LOCATION
+1.0	whereabouts	have	word	O	O
+1.0	gathering	follow candlelight vigil at	Lima 's historic downtown cathedral	0	LOCATION
+1.0	gathering	follow candlelight vigil by	group	0	0
+1.0	Peruvian AFP photographer Jaime Razuri	have	release	O	O
+1.0	she	urge	newspaper guild	0	0
+1.0	Friends	call	relative of peruvian afp photographer Jaime Razuri	0	PERSON
+1.0	Razuri	have	whereabouts	O	PERSON
+1.0	Friends	gather	relative of peruvian afp photographer Jaime Razuri	0	PERSON
+1.0	gunman	be in	Gaza Strip	0	LOCATION
+1.0	hostage 's mother Delia Razuri	also call on	government	PERSON	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	everything possible	PERSON	0
+1.0	Friends	gather	relative of afp photographer Jaime Razuri	0	PERSON
+1.0	Jaime Razuri	be of	peruvian	PERSON	0
+1.0	Peruvian AFP photographer Jaime Razuri	be	kidnap	0	0
+1.0	Friends	gather	call for he release	0	0
+1.0	AFP photographer Jaime Razuri	have	relatives	O	PERSON
+1.0	Jose Antonio Garcia Belaunde	be foreign minister of	Peru	PERSON	LOCATION
+1.0	hostage 's mother Delia Razuri	call on	government	PERSON	0
+1.0	palestinian authority	persist in	its effort	0	0
+1.0	Peru	have	Foreign Minister Jose Antonio Garcia Belaunde	PERSON	LOCATION
+1.0	Friends	call	relative of afp photographer Jaime Razuri	0	PERSON
+1.0	gathering	follow candlelight vigil by	group of 100 well-wisher	0	NUMBER
+1.0	hostage	have	mother Delia Razuri	PERSON	O
+1.0	Jaime Razuri	be of	afp	PERSON	0
+1.0	the Palestinian authorities	have	utmost	O	O
+1.0	Friends	gather outside	delegation	0	0
+0.6856842486483582	group	represent foreign reporter in	Peru	0	LOCATION
+1.0	its	have	efforts	O	O
+1.0	hostage	have	mother	0	0
+1.0	group	express	its condemnation	0	0
+0.6856842486483582	group	represent	foreign reporter	0	0
+1.0	hostage	have	mother	O	O
+1.0	Peruvian AFP photographer Jaime Razuri	be kidnap by	gunman in Gaza Strip	0	LOCATION
+1.0	Friends	gather	call	0	0
+0.6856842486483582	group	represent	reporter	0	0
+1.0	Friends	gather	relative	0	0
+1.0	newspaper guild	organize	demonstration outside palestinian delegation	0	0
+1.0	authority	persist in	its effort	0	0
+0.6856842486483582	group	represent reporter in	Peru	0	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	help	PERSON	0
+1.0	she	also urge	newspaper guild	0	0
+1.0	group	separately express	its condemnation	0	0
+1.0	Friends	gather at_time	Wednesday	0	DATE
+1.0	kidnappers	have	identity	O	O
+1.0	hostage 's mother Delia Razuri	do	they utmost	PERSON	0
+1.0	Lima	at	historic downtown cathedral	LOCATION	0
+1.0	gathering	follow	candlelight vigil	0	0
+1.0	group	urge	authority	0	0
+1.0	his	have	colleagues	O	O
+1.0	abduction	have	expressed	O	O
+1.0	gathering	follow candlelight vigil at_time	late Tuesday	0	DATE
+1.0	newspaper guild	organize	peaceful demonstration outside delegation	0	0
+1.0	its	have	condemnation	O	O
+1.0	Friends	gather outside	palestinian delegation	0	0
+1.0	hostage	have	Delia Razuri	0	PERSON
+1.0	hostage 's mother Delia Razuri	also call on	peruvian government	PERSON	0
+1.0	gathering	follow candlelight vigil at_time	Tuesday	0	DATE
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	promise	do	PERSON	0
+1.0	newspaper guild	organize	demonstration outside delegation	0	0
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	Peruvian AFP photographer Jaime Razuri	be kidnap by	gunman	0	0
+1.0	group	urge	palestinian authority	0	0
+1.0	Lima	have	downtown cathedral	O	LOCATION
+1.0	hostage 's mother Delia Razuri	call on	peruvian government	PERSON	0
+1.0	Jose Antonio Garcia Belaunde	be on	Tuesday	PERSON	DATE
+1.0	son	have	release	O	O
+1.0	son	for	release	0	0
+1.0	her son 's	have	kidnappers	O	O
+1.0	Friends	call	relative	0	0
+1.0	newspaper guild	organize	peaceful demonstration outside palestinian delegation	0	0
+1.0	newspaper guild	organize	peaceful demonstration	0	0
+1.0	Friends	call for	he release	0	0
+1.0	Peru	have	Jose Antonio Garcia Belaunde	LOCATION	PERSON
+1.0	well-wishers	have	group	O	O

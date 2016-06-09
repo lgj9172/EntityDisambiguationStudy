@@ -1,0 +1,13 @@
+1.0	The former draftsman	have	birthday	O	O
+1.0	Giovanni Viglione of northern Italy	have	driver	O	O
+1.0	Giovanni Viglione of northern Italy	have	watercolor class	O	O
+1.0	he watercolor class	be in	Rovereto	0	LOCATION
+1.0	Giovanni Viglione	be of	Italy	PERSON	LOCATION
+1.0	ANSA news agency	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	Giovanni Viglione of northern Italy	have	Fiat	ORGANIZATION	O
+1.0	Italy	have	Giovanni Viglione	PERSON	LOCATION
+1.0	Fiat	be near	Verona	ORGANIZATION	LOCATION
+1.0	Giovanni Viglione of northern Italy	have	stride	O	O
+1.0	driver	have	test	O	O
+1.0	The former draftsman	have	children	O	O
+1.0	driver	have	test	0	0

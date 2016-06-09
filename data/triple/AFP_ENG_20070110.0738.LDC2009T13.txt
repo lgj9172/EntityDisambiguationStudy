@@ -1,0 +1,54 @@
+1.0	search	be	mar	0	0
+1.0	fisherman	find	part of tailfin	0	0
+1.0	it	miss halfway through	its island	0	0
+1.0	it	be report	miss through its island	0	0
+1.0	passengers	have	Relatives	O	O
+1.0	it	be report	miss halfway through its island	0	0
+1.0	relatives	have	dozens	O	O
+1.0	hotel	city on	Sulawesi	0	LOCATION
+1.0	relative	express relief at_time	Thursday	DURATION	DATE
+1.0	Makassar	in hotel be	Detikcom	LOCATION	MISC
+1.0	relative	express relief after	a week	DURATION	DURATION
+1.0	relative	express	relief	DURATION	0
+1.0	relative	express relief after	a week of anxious wait	DURATION	DURATION
+1.0	it	be report	miss	0	0
+1.0	Manado	be on	Sulawesi	LOCATION	LOCATION
+1.0	official	report at_time	week	0	DATE
+1.0	fisherman	find part off	west coast	0	0
+1.0	Indonesia	have	Java island	O	LOCATION
+1.0	stewardess Dina	have	mother	O	PERSON
+1.0	official	report at_time	last week	0	DATE
+1.0	wreckage	have	news parts	O	O
+1.0	Boeing 737	be carry	96 passenger	NUMBER	NUMBER
+1.0	Hilda	one of	dozen	PERSON	0
+1.0	relative	express relief amid	news part	DURATION	DURATION
+1.0	anxious	have	week	DURATION	O
+1.0	Boeing 737	be carry	96 passenger include three Americans	NUMBER	NUMBER
+1.0	Rosmala Dewi	mother of	Dina	PERSON	PERSON
+1.0	passengers	have	relatives	O	O
+1.0	The Boeing 737	have	island	O	O
+1.0	plane	have	rest	O	O
+1.0	it	be	when report	0	0
+1.0	Boeing	be carry	96 passenger	ORGANIZATION	NUMBER
+1.0	tailfin	have	part	O	O
+1.0	official	report	leave	0	0
+1.0	Indonesia	on	central Java island	LOCATION	MISC
+1.0	Makassar	in hotel be	main city on Sulawesi	LOCATION	LOCATION
+1.0	it	be	report	0	0
+1.0	Boeing	be carry	96 passenger include three Americans	ORGANIZATION	NUMBER
+1.0	relatives	have	representatives	O	O
+1.0	people	have	rest	O	O
+1.0	dozens	have	one	NUMBER	O
+1.0	official	leave	relative distraught	0	0
+1.0	Surabaya	be to	Manado	LOCATION	LOCATION
+1.0	Rosmala Dewi	tell	ElShinta radio	PERSON	ORGANIZATION
+1.0	hotel	be in	Makassar	0	LOCATION
+1.0	Sulawesi	have	west coast	O	LOCATION
+1.0	west coast	have	found	O	O
+1.0	aircraft wreckage	have	piece	O	O
+1.0	fisherman	find part off	west coast of Sulawesi	0	LOCATION
+1.0	it	miss through	its island	0	0
+1.0	it	be report	miss halfway	0	0
+1.0	uncertainty	have	week	DURATION	O
+1.0	relative	express relief after	a week of anxious	DURATION	DURATION
+1.0	fisherman	find	part	0	0

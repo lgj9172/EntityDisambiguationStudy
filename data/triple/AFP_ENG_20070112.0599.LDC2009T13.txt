@@ -1,0 +1,166 @@
+1.0	european leader	show	understand over japanese concern on China	0	LOCATION
+1.0	Abe	have	predecessor Junichiro Koizumi	PERSON	PERSON
+1.0	european leader	show	understand over concern over lifting of arm embargo on China	0	LOCATION
+1.0	leader	understand over	japanese concern over lifting of arm embargo	0	0
+1.0	Japan 's seat	expire at_time	last year	LOCATION	DATE
+1.0	Chirac	take office at_time	September	0	DATE
+1.0	Japan	fear	United States	LOCATION	LOCATION
+1.0	japanese premier	call for	he tough line against North Korea 's programme	0	LOCATION
+1.0	premier	arrive on	leg	0	0
+1.0	european leader	show	understand on China	0	LOCATION
+1.0	Junichiro Koizumi	have	visits	O	O
+1.0	Japan	have	seat	O	LOCATION
+1.0	Chirac	tell	Japanese Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	Japan 's non-permanent seat	expire at_time	last year	LOCATION	DATE
+1.0	premier	arrive on	Friday	0	DATE
+1.0	Beijing about which the two leaders have different positions	have boost defense spending for	18 year	LOCATION	NUMBER
+1.0	japanese premier	arrive on	leg of he four	0	NUMBER
+1.0	North Korea	be in	United Nations Security Council	LOCATION	ORGANIZATION
+1.0	North Korea	have	programme	O	LOCATION
+1.0	japanese premier	arrive on	final leg of he four	0	NUMBER
+1.0	Iran	have	programme	O	LOCATION
+1.0	effort	resolve	issue link to North Korea	0	LOCATION
+0.5328212221721539	issue	link to	North Korea in Security Council	0	LOCATION
+1.0	Japan	have	two-year non-permanent seat	LOCATION	DATE
+1.0	japanese premier	arrive on	Friday	0	DATE
+1.0	european leader	show	understand	0	0
+1.0	leader	show	understand over concern	0	0
+1.0	seats	have	one	NUMBER	O
+1.0	Japan 's non-permanent seat	expire at_time	year	LOCATION	DATE
+1.0	four	have	leg	O	NUMBER
+1.0	France	have	woman president	O	LOCATION
+1.0	european leader	show	understand over concern over lifting	0	0
+1.0	japanese premier	arrive on	leg	0	0
+1.0	two leader	have	position	NUMBER	0
+1.0	leader	show	understand over concern over lifting of arm embargo	0	0
+1.0	european leader	show	understand over concern	0	0
+1.0	Japan 's two-year seat	expire at_time	last year	LOCATION	DATE
+1.0	the Japanese premier	have	four	NUMBER	O
+1.0	China	be in	October	LOCATION	DATE
+1.0	european leader	show	understand over concern on China	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	will fly after	France	PERSON	LOCATION
+1.0	President Jacques Chirac	praise	japanese Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	leader	understand over	japanese concern	0	0
+1.0	France	hold	one five seat in UN security Council	LOCATION	ORGANIZATION
+1.0	arms embargo	have	maintenance	O	O
+1.0	aide	tell reporter after	meeting	0	0
+1.0	premier	call for	he tough line	0	0
+1.0	japanese premier	call for	he line against North Korea 's nuclear programme	0	LOCATION
+1.0	Jose Manuel Barroso	be	european Commission	PERSON	ORGANIZATION
+1.0	european leader	understand over	japanese concern over lifting	0	0
+1.0	leader	show during	Abe 's stay	0	PERSON
+1.0	Abe	have	visit	O	PERSON
+1.0	leader	show	understand over japanese concern over lifting on China	0	LOCATION
+1.0	North Korea	against	nuclear programme	LOCATION	0
+1.0	President Jacques Chirac	improve tie with	China	PERSON	LOCATION
+1.0	abe	hold	Chirac	0	PERSON
+1.0	France	make	effort	LOCATION	0
+1.0	Chirac	promise	Japanese Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	France	hold	one of five seat in UN security Council	LOCATION	ORGANIZATION
+1.0	leader	show during	Abe 's stay in Europe	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	will fly to	Philippines island	PERSON	LOCATION
+1.0	leader	show	understand over concern over lifting	0	0
+1.0	leader	show	understand	0	0
+1.0	Tokyo	have	influence	O	O
+1.0	Chirac	take	office	0	0
+1.0	Abe	have	stay	O	PERSON
+1.0	premier	arrive on	final leg of he four	0	NUMBER
+1.0	leader	show	understand over japanese concern on China	0	LOCATION
+1.0	Chirac	be refer to	China	PERSON	LOCATION
+1.0	Abe 's stay	be in	Europe	PERSON	LOCATION
+1.0	Beijing about which the two leaders have different positions	have boost defense spending for	18 consecutive year	LOCATION	NUMBER
+1.0	european leader	show	understand over concern over lifting on China	0	LOCATION
+1.0	two leader	have	different position	NUMBER	0
+1.0	five permanent seat	be in	UN security Council	NUMBER	ORGANIZATION
+1.0	japanese premier	call for	french support	0	0
+1.0	leader	show	understand over japanese concern over lifting	0	0
+1.0	european leader	understand over	concern	0	0
+1.0	Japanese Prime Minister Shinzo Abe	will fly to	Philippines island of Cebu	PERSON	LOCATION
+1.0	your	have	visit	O	O
+1.0	premier	call for	he tough line against North Korea 's nuclear programme	0	LOCATION
+1.0	european leader	show	understand over concern over lifting of arm embargo	0	0
+1.0	european leader	show	understand over japanese concern over lifting	0	0
+1.0	leader	understand over	japanese concern over lifting	0	0
+1.0	premier	call for	french support	0	0
+1.0	Japan 's two-year non-permanent seat	expire at_time	year	LOCATION	DATE
+1.0	leader	show	understand over concern over lifting of arm embargo on China	0	LOCATION
+1.0	leader	show	understand over concern on China	0	LOCATION
+1.0	President Jacques Chirac	praise	Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	premier	call against	China	0	LOCATION
+1.0	leader	understand over	concern	0	0
+1.0	premier	arrive on	leg of he four	0	NUMBER
+1.0	european leader	understand over	concern over lifting	0	0
+1.0	premier	call for	he line	0	0
+1.0	leader	understand over	concern over lifting of arm embargo	0	0
+1.0	Japan	have	push	O	LOCATION
+1.0	japanese premier	arrive in	France	0	LOCATION
+1.0	Iran	over	nuclear programme	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	replace	Chirac	PERSON	PERSON
+1.0	premier	arrive on	final leg	0	0
+1.0	Angela Merkel	be include	german	PERSON	0
+1.0	France	hold	one five permanent seat	LOCATION	NUMBER
+1.0	european leader	understand on	China	0	LOCATION
+1.0	Abe	under	Junichiro Koizumi	PERSON	PERSON
+1.0	leader	show	understand on China	0	LOCATION
+1.0	european leader	show	understand over japanese concern over lifting on China	0	LOCATION
+1.0	Abe	to	visit	PERSON	0
+1.0	Chirac	be in	May	PERSON	DATE
+1.0	japanese premier	call for	support	0	0
+1.0	european leader	show during	Abe 's stay in Europe	0	LOCATION
+1.0	aide	tell	reporter	0	0
+1.0	japanese premier	call against	China	0	LOCATION
+1.0	european leader	show	understand over japanese concern	0	0
+1.0	France	hold	one of five permanent seat	LOCATION	NUMBER
+1.0	EU	on	arm embargo	ORGANIZATION	0
+1.0	Beijing about which the two leaders have different positions	have boost	defense spending	LOCATION	0
+1.0	effort	resolve	issue link	0	0
+1.0	leader	have	different position	0	0
+1.0	abe	hold summit meeting at_time	Friday evening	0	TIME
+1.0	Japan 's seat	expire at_time	year	LOCATION	DATE
+1.0	Abe	during	stay in Europe	PERSON	LOCATION
+1.0	leader	have	position	0	0
+1.0	japanese premier	arrive on	final leg	0	0
+1.0	european leader	understand over	japanese concern over lifting of arm embargo	0	0
+1.0	japanese premier	call for	he tough line	0	0
+1.0	abe	hold	summit meeting	0	0
+1.0	leader	show	understand over concern over lifting on China	0	LOCATION
+1.0	France	hold	one of five seat	LOCATION	NUMBER
+1.0	leader	understand on	China	0	LOCATION
+1.0	effort	resolve	issue link to North Korea in Security Council	0	LOCATION
+1.0	premier	call for	support	0	0
+1.0	premier	call for	he line against North Korea 's programme	0	LOCATION
+1.0	France	hold	one five seat	LOCATION	NUMBER
+1.0	Japan 's two-year seat	expire at_time	year	LOCATION	DATE
+1.0	leader	understand over	concern over lifting	0	0
+1.0	premier	call for	he tough line against North Korea 's programme	0	LOCATION
+1.0	Chirac	take office at_time	late September	0	DATE
+1.0	effort	resolve	issue	0	0
+1.0	European Union	have	arms embargo	O	ORGANIZATION
+1.0	President Jacques Chirac	improve	tie	PERSON	0
+1.0	Japan	have	push	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	replace	Chirac in May	PERSON	PERSON
+1.0	Chirac	be refer to	China in October	PERSON	LOCATION
+1.0	the EU 's	have	arms embargo	O	O
+1.0	Jose Manuel Barroso	be president of	european Commission	PERSON	ORGANIZATION
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	premier	call for	he line against North Korea 's nuclear programme	0	LOCATION
+1.0	japanese premier	call for	he line	0	0
+1.0	japanese premier	call for	he tough line against North Korea 's nuclear programme	0	LOCATION
+1.0	european leader	understand over	concern over lifting of arm embargo	0	0
+1.0	european leader	understand over	japanese concern	0	0
+1.0	the Japanese premier	have	line	O	O
+1.0	France	hold	one five permanent seat in UN security Council	LOCATION	ORGANIZATION
+1.0	France	hold	one of five permanent seat in UN security Council	LOCATION	ORGANIZATION
+1.0	premier	arrive in	France	0	LOCATION
+1.0	Jacques Chirac	be on	Friday	PERSON	DATE
+1.0	Junichiro Koizumi	be predecessor of	Abe	PERSON	PERSON
+1.0	Cebu	have	Philippines island	O	LOCATION
+1.0	arms embargo	have	lifting	O	O
+1.0	japanese premier	call for	he line against North Korea 's programme	0	LOCATION
+1.0	EU	have	arms embargo	O	ORGANIZATION
+1.0	european leader	show during	Abe 's stay	0	PERSON
+1.0	leader	show	understand over japanese concern	0	0
+0.5328212221721539	issue	link to	North Korea	0	LOCATION
+1.0	Japan 's two-year non-permanent seat	expire at_time	last year	LOCATION	DATE
+1.0	France	have	first woman president	LOCATION	ORDINAL
+1.0	Chirac	be refer to	Abe 's visit	PERSON	PERSON

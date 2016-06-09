@@ -1,0 +1,116 @@
+1.0	he	be recall at	Headingley	0	LOCATION
+1.0	his	have	appearances	O	O
+1.0	Don Bradman	have	Invincibles	MISC	PERSON
+1.0	skipper	be in	Barbados	0	LOCATION
+1.0	seam bowler	be limit after	end of World War II	0	MISC
+1.0	appearances	have	one	NUMBER	O
+1.0	former Surrey wicket-keeper Arthur McIntyre 88	be	now England 's oldest living test cricketer	ORGANIZATION	LOCATION
+1.0	former Surrey wicket-keeper Arthur McIntyre 88	be	now England 's living test cricketer	ORGANIZATION	LOCATION
+1.0	Ken Cranston	retire at	end of season	PERSON	0
+1.0	Ken Cranston	skipper in	Barbados for first test	PERSON	ORDINAL
+1.0	seam bowler	be	effectively limit to two season after end	0	NUMBER
+1.0	Ken Cranston	have	selection	O	O
+1.0	Ken Cranston	have become	England 's living test cricketer follow death month of Norman Mitchell-Innes	PERSON	PERSON
+1.0	89	have	age	O	NUMBER
+1.0	Ken Cranston	skipper in	Barbados	PERSON	LOCATION
+1.0	he	be recall for	test against Australia	0	LOCATION
+1.0	that	lead to	he selection for subsequent England tour	0	LOCATION
+1.0	that	lead to	he selection for England tour	0	LOCATION
+1.0	Ken Cranston	have become	England 's living test cricketer follow death month	PERSON	LOCATION
+1.0	he	be recall for	test	0	0
+1.0	Ken Cranston	retire at	end	PERSON	0
+1.0	Ken Cranston	have	way	O	O
+1.0	Ken Cranston	skipper in	Barbados for test	PERSON	LOCATION
+1.0	that	lead to	he selection for England tour of West Indies	0	LOCATION
+1.0	Ken Cranston	skipper in	Barbados for draw first test	PERSON	ORDINAL
+1.0	seam bowler	career 's	Cranston	0	PERSON
+0.4711471985318715	injury	tour	captain Gubby Allen	0	PERSON
+1.0	West Indies	have	England tour	O	LOCATION
+1.0	Ken Cranston	have	Lancashire debut	O	O
+1.0	Ken Cranston	become	skipper in Barbados for first test	PERSON	ORDINAL
+1.0	Ken Cranston	skipper in	Barbados for draw test	PERSON	LOCATION
+1.0	Arthur McIntyre	be	Surrey	PERSON	ORGANIZATION
+1.0	Ken Cranston	have become	England 's living test cricketer	PERSON	LOCATION
+1.0	Ken Cranston	have become	England 's living test cricketer follow death	PERSON	LOCATION
+1.0	Norman Mitchell-Innes	have	death	O	PERSON
+1.0	Ken Cranston	have become	England 's oldest living test cricketer	PERSON	LOCATION
+1.0	he	be	recall for test against Australia at Headingley	0	LOCATION
+1.0	county	have	Trafford ground	O	O
+1.0	Ken Cranston	have become	England 's living test cricketer follow death last month	PERSON	LOCATION
+1.0	county	at	old trafford ground	0	0
+1.0	England	have	Test cricketer	O	LOCATION
+1.0	four	have	return	O	NUMBER
+1.0	Ken Cranston	become	skipper in Barbados	PERSON	LOCATION
+1.0	Ken Cranston	become	skipper in Barbados for test	PERSON	LOCATION
+1.0	Ken Cranston	have	England place	O	O
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death last month	PERSON	LOCATION
+1.0	season	have	end	O	O
+1.0	Ken Cranston	become	skipper in Barbados for draw test	PERSON	LOCATION
+1.0	Ken Cranston	resume	he career	PERSON	0
+1.0	seam bowler	be effectively limit after	end	0	0
+1.0	impression	have	much	O	O
+1.0	seam bowler	be	limit to two season after end of World War II	0	NUMBER
+1.0	World War II	have	end	O	MISC
+1.0	seam bowler	be effectively limit after	end of World War II	0	MISC
+1.0	England	have	oldest living test cricketer follow death last month of Norman Mitchell-Innes	LOCATION	PERSON
+1.0	he former county	announce at_time	Tuesday	0	DATE
+1.0	seam bowler	be	limit to two season after end	0	NUMBER
+1.0	he	take	18 wicket	0	NUMBER
+1.0	Ken Cranston	become	skipper	PERSON	0
+1.0	'	be	drop	0	0
+1.0	seam bowler	limit	middle-order batsman	0	0
+1.0	Arthur McIntyre	be wicket-keeper of	Surrey	PERSON	ORGANIZATION
+1.0	Ken Cranston	have lose	he England place	0	LOCATION
+1.0	he	be recall for	fourth test against Australia	0	LOCATION
+1.0	he	be recall for	fourth test	0	ORDINAL
+1.0	Lancashire	have	president	O	LOCATION
+1.0	former Surrey wicket-keeper Arthur McIntyre	be	now England 's oldest living test cricketer	ORGANIZATION	LOCATION
+1.0	he	be	recall	0	0
+1.0	former Surrey wicket-keeper Arthur McIntyre 88	be	England 's oldest living test cricketer	ORGANIZATION	LOCATION
+1.0	that	lead to	he selection for subsequent England tour of West Indies	0	LOCATION
+1.0	that	lead in	1947-48	0	DATE
+1.0	former Surrey wicket-keeper Arthur McIntyre 88	be	England 's living test cricketer	ORGANIZATION	LOCATION
+1.0	Ken Cranston	die at	age of 89	PERSON	NUMBER
+1.0	Ken Cranston	have	county	O	O
+1.0	he	be	recall for test at Headingley	0	LOCATION
+1.0	Cranston	have	form	O	PERSON
+1.0	Don Bradman	upon	` invincible	PERSON	MISC
+1.0	seam bowler	be	effectively limit	0	0
+1.0	Ken Cranston	die at	age	PERSON	0
+1.0	that	lead to	he selection	0	0
+1.0	Ken Cranston	only play	eight test	0	NUMBER
+1.0	Ken Cranston	become	skipper in Barbados for draw first test	PERSON	ORDINAL
+1.0	the West Indies	win	2-0	0	NUMBER
+1.0	he	make	209 run	0	NUMBER
+1.0	England	have pick	weak side	LOCATION	0
+1.0	Ken Cranston	play	eight test	0	NUMBER
+1.0	seam bowler	be effectively limit to	two season	0	NUMBER
+1.0	Cranston	have	form during series	PERSON	0
+1.0	Ken Cranston	take	four wicket	PERSON	NUMBER
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death month	PERSON	LOCATION
+1.0	England	have pick	side	LOCATION	0
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death month of Norman Mitchell-Innes	PERSON	PERSON
+1.0	former Surrey wicket-keeper Arthur McIntyre	be	England 's living test cricketer	ORGANIZATION	LOCATION
+1.0	he	be	recall for fourth test against Australia at Headingley	0	LOCATION
+1.0	seam bowler	effectively limit	middle-order batsman	0	0
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death last month of Norman Mitchell-Innes	PERSON	PERSON
+1.0	he	be	recall for fourth test at Headingley	0	ORDINAL
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death of Norman Mitchell-Innes	PERSON	PERSON
+1.0	Ken Cranston	have become	England 's oldest living test cricketer follow death	PERSON	LOCATION
+1.0	Cranston	have	first-class career	PERSON	0
+1.0	'	be	and drop	0	0
+1.0	Arthur McIntyre	be	88	PERSON	NUMBER
+1.0	Ken Cranston	have	England bow	O	O
+1.0	former Surrey wicket-keeper Arthur McIntyre	be	England 's oldest living test cricketer	ORGANIZATION	LOCATION
+1.0	seam bowler	be	effectively limit to two season after end of World War II	0	NUMBER
+1.0	Ken Cranston	have	Test	O	O
+1.0	Ken Cranston	have become	England 's living test cricketer follow death of Norman Mitchell-Innes	PERSON	PERSON
+1.0	seam bowler	be limit after	end	0	0
+1.0	former Surrey wicket-keeper Arthur McIntyre	be	now England 's living test cricketer	ORGANIZATION	LOCATION
+1.0	seam bowler	be	limit	0	0
+1.0	Cranston 's form	be	modest	PERSON	0
+1.0	Ken Cranston	have	career	O	O
+1.0	England	have	living Test cricketer	O	LOCATION
+1.0	seam bowler	be limit to	two season	0	NUMBER
+1.0	Ken Cranston	have become	England 's living test cricketer follow death last month of Norman Mitchell-Innes	PERSON	PERSON
+1.0	Cranston	have	career	O	PERSON

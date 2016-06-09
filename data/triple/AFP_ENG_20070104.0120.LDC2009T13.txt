@@ -1,0 +1,18 @@
+1.0	passengers	have	some	O	O
+1.0	several people	have	injuries	O	O
+1.0	bus	arrive at_time	morning	0	TIME
+1.0	Victoria station	be in	London 's	LOCATION	LOCATION
+1.0	London	have	Heathrow Airport	LOCATION	LOCATION
+1.0	injuries	have	result	O	O
+1.0	some of the passengers	have	condition	O	O
+1.0	Royal Berkshire Fire	have	David Wright	PERSON	ORGANIZATION
+1.0	bus	arrive in	Aberdeen in eastern Scotland	0	LOCATION
+1.0	Rescue	have	David Wright	PERSON	ORGANIZATION
+1.0	some	be	polish	0	0
+1.0	bus	arrive in	Aberdeen in Scotland	0	LOCATION
+1.0	bus	have	have due	0	0
+1.0	bus	arrive in	Aberdeen	0	LOCATION
+1.0	London	at	Heathrow Airport	LOCATION	LOCATION
+1.0	bus	arrive on	Thursday	0	DATE
+1.0	Aberdeen	be in	Scotland	LOCATION	LOCATION
+1.0	police	say at_time	Thursday	0	DATE

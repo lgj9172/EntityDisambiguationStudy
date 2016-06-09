@@ -1,0 +1,83 @@
+1.0	China	react to	its test	LOCATION	0
+1.0	September 2005	boycott forum in	later protest	0	DATE
+1.0	September 2005	boycott forum at	US sanction impose	0	LOCATION
+1.0	message	be deliver at	forum	0	0
+1.0	China	react to	its test on October 9	LOCATION	DATE
+1.0	September 2005	boycott forum in	two month later protest	0	DATE
+1.0	top diplomat	be meet	prepare for meeting	0	0
+1.0	September agreement	have	implementation	O	O
+1.0	top diplomat	prepare for	meeting	0	0
+1.0	September 2005	boycott	forum	0	0
+1.0	diplomat	prepare for	meeting Sunday between Chinese Premier Wen Jiabao	0	MISC
+1.0	a `` clear message ''	have	programmes	O	O
+1.0	song Min-Soon	be	south korean	PERSON	0
+1.0	song	be speak to	reporter	0	0
+1.0	issues	have	range	O	O
+1.0	top diplomat	prepare for	meeting Sunday between Chinese Premier Wen Jiabao	0	MISC
+1.0	Min-Soon	say	Foreign Minister song	PERSON	0
+1.0	diplomat	be meet	prepare for meeting	0	0
+1.0	China	react angrily to	its test on October 9	LOCATION	DATE
+1.0	diplomat	be meet	prepare for meeting Sunday between Chinese Premier Wen Jiabao	0	MISC
+1.0	Nations summit	have	Association	ORGANIZATION	O
+1.0	Japan	have	Katsuhito Asano	LOCATION	PERSON
+1.0	minister	decline	say	0	0
+0.4374455605737278	US sanction	impose for	alleged money-laundering	LOCATION	0
+1.0	September 2005	boycott forum at	US financial sanction	0	LOCATION
+1.0	clear message	be	deliver	0	0
+1.0	implementation	have	beginning	O	O
+1.0	message	be deliver at	six-nation forum	0	0
+1.0	its	have	test	O	O
+1.0	China	react angrily to	its nuclear test on October 9	LOCATION	DATE
+1.0	China	react angrily to	its test	LOCATION	0
+1.0	North Korea	have	denuclearisation	O	LOCATION
+1.0	top diplomat	be meet	prepare for meeting Sunday between Chinese Premier Wen Jiabao	0	MISC
+1.0	September 2005	boycott forum at	US financial sanction impose	0	LOCATION
+1.0	top diplomat	prepare for	meeting Sunday	0	DATE
+1.0	September 2005	boycott forum at	US sanction impose for money-laundering	0	LOCATION
+1.0	our	have	position	O	O
+1.0	China	react angrily to	its nuclear test	LOCATION	0
+1.0	September 2005	boycott forum at	US financial sanction impose for money-laundering	0	LOCATION
+1.0	diplomat	prepare for	meeting between Chinese Premier Wen Jiabao	0	MISC
+1.0	Japan	have	Vice Foreign Minister Katsuhito Asano	PERSON	LOCATION
+1.0	song	meet	China 's Foreign Minister Li Zhaoxing	0	PERSON
+1.0	China	have	Foreign Minister Li Zhaoxing	PERSON	LOCATION
+1.0	September 2005	have	programmes	O	O
+1.0	diplomat	prepare for	meeting	0	0
+1.0	September 2005	boycott forum at	US financial sanction impose for alleged money-laundering	0	LOCATION
+1.0	Katsuhito Asano	be vice foreign minister of	Japan	PERSON	LOCATION
+1.0	top diplomat	be meet	prepare for meeting between Chinese Premier Wen Jiabao	0	MISC
+1.0	September 2005	boycott forum in	protest	0	0
+1.0	North Korea	agree in	principle	LOCATION	0
+1.0	diplomat	prepare for	meeting Sunday	0	DATE
+0.4374455605737278	US sanction	impose for	money-laundering	LOCATION	0
+1.0	six-party talk	be in	September 2005	0	DATE
+1.0	North Korea	scrap	its programme	LOCATION	0
+1.0	denuclearisation	have	goal	O	O
+1.0	North Korea	agree at	six-party talk in September 2005	LOCATION	DATE
+1.0	top diplomat	be meet	prepare	0	0
+1.0	China	react to	its nuclear test	LOCATION	0
+1.0	its	have	arms	O	O
+1.0	Shinzo Abe	be	Japanese	PERSON	MISC
+1.0	clear message	be deliver at	forum	0	0
+1.0	clear message	be deliver at	six-nation forum	0	0
+1.0	September 2005	boycott forum at	US sanction	0	LOCATION
+1.0	September 2005	boycott forum at	US sanction impose for alleged money-laundering	0	LOCATION
+1.0	diplomat	be meet	prepare for meeting between Chinese Premier Wen Jiabao	0	MISC
+1.0	diplomat	be meet	prepare for meeting Sunday	0	DATE
+1.0	options	have	desirable	O	O
+1.0	China	react to	its nuclear test on October 9	LOCATION	DATE
+1.0	top diplomat	prepare for	meeting between Chinese Premier Wen Jiabao	0	MISC
+0.4374455605737278	US financial sanction	impose for	alleged money-laundering	LOCATION	0
+1.0	North Korea	scrap	its nuclear programme	LOCATION	0
+1.0	China	have	Li Zhaoxing	LOCATION	PERSON
+1.0	diplomat	be meet	prepare	0	0
+1.0	North Korea	have	main economic lifeline	LOCATION	0
+1.0	North Korea	have	lifeline	O	LOCATION
+1.0	North Korea	agree at	six-party talk	LOCATION	0
+1.0	Li Zhaoxing	be foreign minister of	China	PERSON	LOCATION
+1.0	it	be	unclear	0	0
+1.0	Roh Moo-Hyun	be	South Korean	PERSON	MISC
+1.0	message	be	deliver	0	0
+1.0	Wen Jiabao	be between	Chinese	PERSON	MISC
+0.4374455605737278	US financial sanction	impose for	money-laundering	LOCATION	0
+1.0	top diplomat	be meet	prepare for meeting Sunday	0	DATE

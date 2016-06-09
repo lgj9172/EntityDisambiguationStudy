@@ -1,0 +1,121 @@
+1.0	Mikhail Prokhorov	be see	arrive at prosecutor 's office in city	PERSON	0
+1.0	catalogue	have	possession	O	O
+1.0	employee	be in	ski shop	0	0
+1.0	people	have	three	NUMBER	O
+1.0	Norilsk Nickel	be in	Moscow	ORGANIZATION	LOCATION
+1.0	french newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	police	swoop on	they hotel	0	0
+1.0	he	be	should place	0	0
+1.0	spokesman	also say at_time	Thursday	0	DATE
+1.0	Courchevel	have	ski resort	O	LOCATION
+1.0	deputy chair	say in	capital	0	0
+1.0	politician	react indignantly	media	0	0
+1.0	suspect prostitution ring	be in	alpine ski resort	0	0
+0.8723498947687989	upmarket hotel	dozen of	police	0	0
+1.0	newspaper Le Parisen	report at_time	Friday	ORGANIZATION	DATE
+1.0	prosecutor 's office	be in	southeast city of Lyon	0	LOCATION
+1.0	prostitute	be	procure there	0	0
+1.0	Forbes magazine	have	list	O	O
+1.0	Mikhail Prokhorov	arrive at	prosecutor 's office in southeast city	PERSON	0
+1.0	Mikhail Prokhorov	arrive at	prosecutor 's office	PERSON	0
+1.0	he	be	should place under investigation	0	0
+1.0	prosecutor	have	office	O	O
+1.0	girls	have	catalogue	O	O
+1.0	he	organise	suspect prostitution ring	0	0
+1.0	russian politician	react indignantly	media	0	0
+1.0	world	of	wealthiest people	0	0
+1.0	dozen	raid hotel in	ski resort	0	0
+1.0	prostitute	be procure for	guest	0	0
+1.0	He and around 10 other Russians	have	20s	O	O
+1.0	authority	question	one Russia 's man	0	LOCATION
+1.0	this week	have	police raid	DATE	0
+1.0	their	have	identities	O	O
+1.0	their	have	hotel	O	O
+1.0	russian politician	react to	sting	0	0
+1.0	austrian man	be in	possession of catalogue of call girl	0	0
+1.0	Mikhail Prokhorov	arrive under	police escort	PERSON	0
+1.0	businessmen	have	group	O	O
+1.0	dozen	raid hotel in	ski resort of Courchevel	0	LOCATION
+1.0	dozen	raid hotel in	swish ski resort	0	0
+1.0	men	have	one	NUMBER	O
+1.0	Courchevel	be with	group of russian businessman	LOCATION	0
+1.0	hand	be in	glove	0	0
+1.0	Forbes magazine	on	list of wealthiest people	ORGANIZATION	0
+1.0	Mikhail Prokhorov	arrive at	prosecutor 's office in city	PERSON	0
+0.5055285241851282	personal fortune	estimate at	7.6 billion dollar	0	MONEY
+1.0	State Duma	of	international affair committee	ORGANIZATION	0
+1.0	authority	question	one of Russia 's wealthiest man	0	LOCATION
+0.8723498947687989	hotel	dozen of	police	0	0
+1.0	decision	be	make	0	0
+1.0	dozen	raid	upmarket hotel	0	0
+1.0	companions	have	one	NUMBER	O
+1.0	many Russians	take	fright	MISC	0
+1.0	Mikhail Prokhorov	be see	arrive at prosecutor 's office	PERSON	0
+1.0	Prokhorov	of	companion	PERSON	0
+1.0	Russia	of	wealthiest man	LOCATION	0
+1.0	metals	have	CEO	O	O
+1.0	motive	be at	play	0	0
+1.0	man	have	Courchevel	LOCATION	O
+1.0	Oleg Bocharov	be deputy of	Moscow City Duma	PERSON	LOCATION
+1.0	decision	have	make	0	0
+1.0	Mikhail Prokhorov	be	see	PERSON	0
+1.0	Le Parisen	be	french	ORGANIZATION	0
+1.0	russian politician	suggest	media	0	0
+1.0	Mikhail Prokhorov	be see	arrive under police escort at prosecutor 's office	PERSON	0
+1.0	police	have	dozens	O	O
+1.0	employee	tell	daily	0	SET
+1.0	deputy chair	say in	russian capital	0	0
+1.0	politician	react indignantly to	sting	0	0
+1.0	affairs committee	have	deputy chair	O	O
+1.0	dozen	raid	hotel	0	0
+1.0	he	organise	prostitution ring	0	0
+1.0	15 other people	be release after	raid	NUMBER	0
+1.0	other people	be	release	0	0
+1.0	shop owners	have	dismay	O	O
+1.0	political motive	be at	play	0	0
+1.0	Prokhorov	celebrate at_time	Christian Orthodox New Year	PERSON	MISC
+1.0	people	have	list	O	O
+0.5055285241851282	personal fortune	estimate at	dollar	0	0
+1.0	politician	react	media	0	0
+1.0	Oleg Bocharov	be	Moscow City Duma	PERSON	LOCATION
+1.0	matter	have	heart	O	O
+1.0	russian politician	react indignantly to	sting	0	0
+1.0	Mikhail Prokhorov	be see	arrive under police escort at prosecutor 's office in city	PERSON	0
+0.5055285241851282	fortune	estimate at	7.6 billion dollar	0	MONEY
+1.0	french authority	question	one of Russia 's wealthiest man	0	LOCATION
+1.0	french authority	question	one of Russia 's man	0	LOCATION
+1.0	fifty police	swoop on	they hotel	0	0
+1.0	dozen	raid hotel in	swish ski resort of Courchevel	0	LOCATION
+1.0	Mikhail Prokhorov	be see	arrive at prosecutor 's office in southeast city	PERSON	0
+1.0	he	organise	suspect prostitution ring in ski resort	0	0
+1.0	eight woman	be in	they 20	NUMBER	0
+1.0	he	organise	suspect prostitution ring in alpine ski resort	0	0
+1.0	prostitute	be procure there for	guest	0	0
+1.0	french authority	question	one Russia 's wealthiest man	0	LOCATION
+1.0	Mikhail Prokhorov	be see	arrive	PERSON	0
+1.0	authority	question	one of Russia 's man	0	LOCATION
+1.0	week	have	police raid	O	DATE
+1.0	he	organise	prostitution ring in ski resort	0	0
+1.0	Lyon	have	city	O	LOCATION
+1.0	spokesman	say at_time	Thursday	0	DATE
+1.0	he	organise	prostitution ring in alpine ski resort	0	0
+1.0	russian politician	react	media	0	0
+1.0	Prokhorov	have	companions	O	PERSON
+1.0	french authority	question	one Russia 's man	0	LOCATION
+1.0	politician	react to	sting	0	0
+1.0	he	be	should place under criminal investigation	0	0
+1.0	Xavier Richaud	be	french	PERSON	0
+1.0	Russians	take	fright	MISC	0
+1.0	world	have	people	O	O
+1.0	prosecutor	at	office in southeast city of Lyon	0	LOCATION
+1.0	arrest	be in	Courchevel	0	LOCATION
+0.5055285241851282	fortune	estimate at	dollar	0	0
+1.0	Mikhail Prokhorov	ceo of	russian metal	PERSON	0
+1.0	prostitute	be	procure	0	0
+1.0	authority	question	one Russia 's wealthiest man	0	LOCATION
+1.0	politician	suggest	media	0	0
+1.0	Russia	have	men	O	LOCATION
+1.0	Mikhail Prokhorov	be see	arrive under police escort	PERSON	0
+1.0	other people	be release after	raid	0	0
+1.0	15 other people	be	release	NUMBER	0
+1.0	State Duma	have	affairs committee	O	ORGANIZATION

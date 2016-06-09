@@ -1,0 +1,44 @@
+1.0	President Mahmoud Ahmadinejad	have question	scale	PERSON	0
+1.0	provinces	have	tour	O	O
+1.0	entry	be put on	display for exhibition in Tehran	0	LOCATION
+1.0	iranian President Mahmoud Ahmadinejad	have question	scale of Holocaust	PERSON	0
+1.0	President Mahmoud Ahmadinejad	call	be	PERSON	0
+1.0	200 entry	be put on	display	NUMBER	0
+1.0	Holocaust	have	scale	O	O
+1.0	caricatures	have	re-publication	O	O
+1.0	President Mahmoud Ahmadinejad	have question	scale of Holocaust	PERSON	0
+1.0	newspapers	have	number	O	O
+1.0	200 entry	be put on	display for exhibition	NUMBER	0
+1.0	Prophet Mohammed	have	caricatures	O	PERSON
+1.0	200 entry	be	put	NUMBER	0
+1.0	entry	be put on	display for exhibition	0	0
+1.0	iranian President Mahmoud Ahmadinejad	have repeatedly question	scale	PERSON	0
+1.0	iranian President Mahmoud Ahmadinejad	call for	Israel	PERSON	LOCATION
+1.0	President Mahmoud Ahmadinejad	have repeatedly question	scale of Holocaust	PERSON	0
+1.0	capital	be in	August	0	DATE
+1.0	iranian President Mahmoud Ahmadinejad	also call for	Israel	PERSON	LOCATION
+1.0	exhibition	have	reshowing	O	O
+1.0	Jews	have	mass slaughter	O	MISC
+1.0	cartoons	have	exhibition	O	O
+1.0	President Mahmoud Ahmadinejad	also call for	Israel	PERSON	LOCATION
+1.0	exhibition	be in	Tehran	0	LOCATION
+1.0	iranian President Mahmoud Ahmadinejad	also call	be	PERSON	0
+1.0	President Mahmoud Ahmadinejad	have repeatedly question	scale	PERSON	0
+1.0	iranian President Mahmoud Ahmadinejad	have repeatedly question	scale of Holocaust	PERSON	0
+1.0	Tehran	have	Iranians	MISC	LOCATION
+1.0	Iran	defy	international outrage	LOCATION	DURATION
+1.0	media	report on	Tuesday	0	DATE
+1.0	mass slaughter	have	veracity	O	O
+1.0	idea	originate in	February 2006	0	DATE
+1.0	idea	originate in	reaction	0	0
+1.0	President Mahmoud Ahmadinejad	also call	be	PERSON	0
+1.0	reshowing	come at_time	a month	0	DURATION
+1.0	entry	be	put	0	0
+1.0	200 entry	be put on	display for exhibition in Tehran	NUMBER	LOCATION
+1.0	iranian President Mahmoud Ahmadinejad	have question	scale	PERSON	0
+1.0	iranian President Mahmoud Ahmadinejad	call	be	PERSON	0
+1.0	entry	be put on	display	0	0
+1.0	Mahmoud Ahmadinejad	be	iranian	PERSON	0
+1.0	Iran	have	provinces	O	O
+1.0	Iran	defy	outrage	LOCATION	DURATION
+1.0	President Mahmoud Ahmadinejad	call for	Israel	PERSON	LOCATION

@@ -1,0 +1,47 @@
+1.0	Prime Minister Ehud Olmert	meet with	egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	israeli Prime Minister Ehud Olmert	be set	meet with President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	israeli Prime Minister Ehud Olmert	be set	meet	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	be	set	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	meet with	egyptian President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Hamas	have	armed wing	ORGANIZATION	0
+1.0	Palestinian prime minister Ismail Haniya of Hamas	return from	trip	PERSON	0
+1.0	Hosni Mubarak	be in	Sharm el-Sheikh	PERSON	LOCATION
+1.0	Prime Minister Ehud Olmert	meet with	President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Ismail Haniya	be	palestinian	PERSON	0
+1.0	Palestinian prime minister Ismail Haniya of Hamas	tell reporter in	Gaza	PERSON	LOCATION
+1.0	prime minister Ismail Haniya	say at_time	Thursday	PERSON	DATE
+1.0	israeli Prime Minister Ehud Olmert	meet with	President Hosni Mubarak	PERSON	PERSON
+1.0	1,000 palestinian prisoner	be in	exchange for Shalit	NUMBER	PERSON
+1.0	Prime Minister Ehud Olmert	meet with	President Hosni Mubarak	PERSON	PERSON
+1.0	groups	have	one	NUMBER	O
+1.0	Prime Minister Ehud Olmert	be set	meet with egyptian President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	soldier	have	release	O	O
+1.0	israeli Prime Minister Ehud Olmert	be set	meet with egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	Prime Minister Ehud Olmert	be set	meet with President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Prime Minister Ehud Olmert	be set	meet	PERSON	0
+1.0	Prime Minister Ehud Olmert	meet with	egyptian President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Palestinian prime minister Ismail Haniya of Hamas	return abroad to	he house	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	meet with	egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	Palestinian prime minister Ismail Haniya of Hamas	return to	he house	PERSON	0
+1.0	Prime Minister Ehud Olmert	be	set	PERSON	0
+1.0	there have tangible progress	be in	talk over release of israeli soldier seize by Gaza militant	0	LOCATION
+1.0	Hamas	have	minister Ismail Haniya	PERSON	ORGANIZATION
+1.0	palestinian prime minister Ismail Haniya	say at_time	Thursday	PERSON	DATE
+1.0	israeli Prime Minister Ehud Olmert	meet with	President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Palestinian prime minister Ismail Haniya of Hamas	have	comments	O	O
+1.0	Hamas	have	wing	O	ORGANIZATION
+1.0	Ismail Haniya	be of	Hamas	PERSON	ORGANIZATION
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Prime Minister Ehud Olmert	be set	meet with President Hosni Mubarak	PERSON	PERSON
+1.0	israeli Prime Minister Ehud Olmert	be set	meet with President Hosni Mubarak	PERSON	PERSON
+1.0	minister Ismail Haniya	say at_time	Thursday	PERSON	DATE
+1.0	Palestinian prime minister Ismail Haniya of Hamas	return abroad from	trip	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	be set	meet with egyptian President Hosni Mubarak in Sharm el-Sheikh	PERSON	LOCATION
+1.0	Hosni Mubarak	be with	egyptian	PERSON	0
+1.0	Gilad Shalit	be	20	PERSON	NUMBER
+1.0	Palestinian prime minister Ismail Haniya of Hamas	tell	reporter	PERSON	0
+1.0	Prime Minister Ehud Olmert	be set	meet with egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	Palestinian prime minister Ismail Haniya of Hamas	have	house	O	O
+1.0	palestinian minister Ismail Haniya	say at_time	Thursday	PERSON	DATE
+1.0	Gilad Shalit	have	release	O	PERSON
+1.0	prisoners	have	exchange	O	O

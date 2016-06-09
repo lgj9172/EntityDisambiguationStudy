@@ -1,0 +1,103 @@
+0.5678942183250099	stem cell	derive from	amniotic fluid	0	0
+1.0	House of Representatives	be	US	ORGANIZATION	LOCATION
+1.0	his	have	years	DURATION	O
+1.0	George W. Bush	have	limits	O	O
+1.0	new research	be in	amniotic non-embryonic stem cell	0	0
+0.07149773898788192	George W. Bush	believe	he ally on right	PERSON	0
+0.9930650046296946	control	expect passage of	final bill	0	0
+1.0	Act	would expand	funding	0	0
+1.0	forest	manipulate	Harvard Medical School	0	ORGANIZATION
+1.0	diseases	have	number	O	O
+1.0	embryo	even be routinely destroy by	clinic	0	0
+1.0	Act	would expand funding for	research	0	0
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+0.9930650046296946	control	passage of	final bill	0	0
+1.0	President Bush	have	policy	O	PERSON
+1.0	Bush	decide in	August 2001	PERSON	DATE
+1.0	embryo	be destroy by	clinic	0	0
+1.0	stem cell	offer potential as	those take from embryo	0	0
+1.0	House Speaker Nancy Pelosi	cite	enormously promising research	PERSON	0
+0.6226877175499211	new offensive	destine for	second veto	0	DURATION
+1.0	Phil Gingrey	opponent of	embryonic stem-cell research	PERSON	0
+1.0	bill	be approve on	vote	0	0
+0.00511192668037929	George W. Bush	believe	he ally on religious right	PERSON	0
+1.0	forest	be	able	0	0
+1.0	stem cell	offer	same potential	0	0
+1.0	Bush	ban	financing of research	PERSON	0
+1.0	their	have	families	O	O
+1.0	embryo	be	even destroy	0	0
+0.07149773898788192	George W. Bush	believe	he ally on religious right	PERSON	0
+0.6226877175499211	offensive	destine for	second veto	0	DURATION
+0.9930650046296946	control	passage of	bill	0	0
+1.0	embryo	be	routinely destroy	0	0
+1.0	Bush	unlike	current policy	PERSON	DATE
+1.0	Nancy Pelosi	be	House	PERSON	ORGANIZATION
+1.0	stem cell	offer potential as	those take	0	0
+1.0	George W. Bush	believe	he ally on religious right	PERSON	0
+1.0	text	be	similar	0	0
+1.0	today	have	vote	O	DATE
+0.6226877175499211	new offensive	destine for	presidential veto	0	DURATION
+1.0	stem cells	have	lines	O	O
+1.0	democratic	vote in	challenge	0	0
+1.0	democratic	vote in	first challenge to President George W. Bush	0	ORDINAL
+0.00511192668037929	George W. Bush	believe	he ally	PERSON	0
+1.0	democratic	vote in	first major challenge	0	ORDINAL
+0.6226877175499211	offensive	destine for	veto	0	0
+1.0	House bill	have	text	O	O
+1.0	democratic	vote in	challenge to President George W. Bush	0	PERSON
+1.0	stem-cell research	have	gynecologist adamant opponent	O	O
+0.6226877175499211	new offensive	destine for	veto	0	0
+0.9930650046296946	control	expect passage of	bill	0	0
+1.0	families	have	hopes	O	O
+1.0	democratic	vote in	first major challenge to President George W. Bush	0	ORDINAL
+1.0	democratic	vote in	major challenge to President George W. Bush	0	PERSON
+1.0	forest	manipulate	cell	0	0
+1.0	House Speaker Nancy Pelosi	cite	research	PERSON	0
+1.0	embryo	even be destroy by	clinic	0	0
+1.0	Nancy Pelosi	use	stem cell line	PERSON	0
+1.0	bill	have	passage	O	O
+1.0	democratic	vote in	first challenge	0	ORDINAL
+1.0	stem cell research	have	Opponents	O	O
+1.0	George W. Bush	believe	he ally	PERSON	0
+1.0	stem cell	offer	much potential	0	0
+0.00511192668037929	George W. Bush	believe	he ally on right	PERSON	0
+1.0	stem cell	offer potential as	those	0	0
+1.0	democratic	vote in	major challenge	0	0
+0.6226877175499211	offensive	destine for	presidential veto	0	DURATION
+1.0	embryo	be	destroy	0	0
+1.0	bill	be approve on	253-174 vote	0	0
+1.0	stem cell	offer	potential	0	0
+1.0	research	have	financing	O	O
+1.0	stem cell research	have	hope	O	O
+1.0	bill	have	co-author	0	DURATION
+1.0	embryo	be routinely destroy by	clinic	0	0
+0.5678942183250099	stem cell	derive from	fluid	0	0
+1.0	Bush	ban	federal financing of research	PERSON	0
+1.0	embryos	have	destruction	O	O
+1.0	Americans	have	hopes	O	MISC
+1.0	aisle	have	sides	O	O
+1.0	embryo	be	even routinely destroy	0	0
+1.0	bill	have	co-authors	O	O
+1.0	Congress	have	chambers	O	ORGANIZATION
+1.0	Bush	ban	federal financing	PERSON	0
+1.0	Bush	ban	financing	PERSON	0
+1.0	their	have	majority	O	O
+1.0	new offensive	be in	Congress	0	ORGANIZATION
+1.0	his	have	allies	O	O
+1.0	George W. Bush	believe	he ally on right	PERSON	0
+0.6226877175499211	offensive	destine for	second presidential veto	0	DURATION
+1.0	cell	create	muscle vessel cell	0	0
+1.0	bill	be	approve	0	0
+1.0	House measure	have	version	O	O
+1.0	forest	able	Harvard Medical School	0	ORGANIZATION
+1.0	Nancy Pelosi	use	stem cell line generate	PERSON	0
+1.0	House Speaker Nancy Pelosi	cite	promising research	PERSON	0
+1.0	amniotic non-embryonic stem cells	have	use	O	O
+1.0	stem cell	offer	much same potential	0	0
+1.0	democratic	lift	he limit	0	0
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	Act	would expand	federal funding	0	0
+0.07149773898788192	George W. Bush	believe	he ally	PERSON	0
+1.0	today	with	strong bipartisan vote	DATE	0
+1.0	democratic	vote at_time	Thursday	0	DATE
+0.6226877175499211	new offensive	destine for	second presidential veto	0	DURATION

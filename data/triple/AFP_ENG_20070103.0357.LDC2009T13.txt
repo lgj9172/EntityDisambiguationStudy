@@ -1,0 +1,38 @@
+1.0	Cassano	have	departure	O	PERSON
+1.0	Gonzalo Higuain	be	franco-argentine	PERSON	0
+1.0	Cassano 's path	be block by	ever more obstacle	PERSON	0
+1.0	controversial Antonio Cassano	be edge nearer	exit door at Madrid	PERSON	ORGANIZATION
+1.0	Controversial Italian forward Antonio Cassano	fail	adapt to he new surroundings	PERSON	0
+1.0	highly-rated Franco-Argentine striker Gonzalo Higuain	be departure of	Cassano	PERSON	PERSON
+1.0	controversial Antonio Cassano	be edge nearer	exit door	PERSON	0
+1.0	Antonio Cassano	be edge nearer	exit door	PERSON	0
+1.0	highly-rated Franco-Argentine striker Gonzalo Higuain	win	place in team	0	0
+1.0	training	have	kicked	O	O
+1.0	Cassano 's path	seem	block by obstacle	PERSON	0
+1.0	Cassano 's path	seem	block by ever more obstacle	PERSON	0
+1.0	Controversial Italian forward Antonio Cassano	have	coach	O	O
+1.0	highly-rated Franco-Argentine striker Gonzalo Higuain	win	place	0	0
+1.0	Fabio Capello	sign striker gonzalo higuain at_time	month	PERSON	DATE
+1.0	Antonio Cassano	be edge nearer	exit door at Madrid	PERSON	ORGANIZATION
+1.0	controversial Antonio Cassano	be edge nearer	exit door at real Madrid	PERSON	ORGANIZATION
+1.0	Cassano	have	path	O	PERSON
+1.0	Cassano 's path	be block by	obstacle	PERSON	0
+1.0	Fabio Capello	sign	highly-rated franco-argentine striker Gonzalo Higuain	PERSON	PERSON
+1.0	Fabio Capello	sign	franco-argentine striker Gonzalo Higuain	PERSON	PERSON
+1.0	Controversial Italian forward Antonio Cassano	fail	adapt	PERSON	0
+1.0	Fabio Capello	sign	striker Gonzalo Higuain	PERSON	PERSON
+1.0	Controversial Italian forward Antonio Cassano	adapt to	he new surroundings	PERSON	0
+1.0	he arrival	could hasten	Cassano 's departure	0	PERSON
+1.0	place	be in	team	0	0
+1.0	Controversial Italian forward Antonio Cassano	adapt to	he surroundings	PERSON	0
+1.0	Cassano 's path	be block by	more obstacle	PERSON	0
+1.0	his	have	surroundings	O	O
+1.0	Controversial Italian forward Antonio Cassano	fail	adapt to he surroundings	PERSON	0
+1.0	Cassano	have	departure	PERSON	0
+1.0	Cassano	have	path to first team	PERSON	ORDINAL
+1.0	Roma	be from	Italians	ORGANIZATION	MISC
+1.0	Fabio Capello	sign	highly-rated striker Gonzalo Higuain	PERSON	PERSON
+1.0	Fabio Capello	have	arrival	O	O
+1.0	Cassano 's path	seem	block by more obstacle	PERSON	0
+1.0	Antonio Cassano	be edge nearer	exit door at real Madrid	PERSON	ORGANIZATION
+1.0	Fabio Capello	sign striker gonzalo higuain at_time	last month	PERSON	DATE

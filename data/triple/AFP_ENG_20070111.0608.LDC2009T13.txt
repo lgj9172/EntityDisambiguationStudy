@@ -1,0 +1,23 @@
+1.0	London 's Brent North Sea crude	be at	in trade 52.00 dollar	LOCATION	MONEY
+1.0	London	have	Brent North Sea crude for February delivery	LOCATION	LOCATION
+1.0	London 's Brent North Sea crude	be at	52.00 dollar	LOCATION	MONEY
+1.0	New York 's main oil future contract	tumble	2.14 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	in late trade down 52.00 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	in late trade 52.00 dollar	LOCATION	MONEY
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	London 's Brent North Sea crude	be at	down 1.69 dollar 52.00 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	in trade down 1.69 dollar 52.00 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	down 52.00 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	in trade down 52.00 dollar	LOCATION	MONEY
+1.0	their	have	levels	O	O
+1.0	North Sea	be brent of	London	LOCATION	LOCATION
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	New York 's main oil future contract	crude for	February delivery	LOCATION	DATE
+1.0	New York 's oil future contract	close at	51.88 dollar	LOCATION	MONEY
+1.0	52.00 dollar	be in	late trade	MONEY	0
+1.0	London	have	Brent North Sea crude	O	LOCATION
+1.0	New York 's main oil future contract	close at	51.88 dollar	LOCATION	MONEY
+1.0	London 's Brent North Sea crude	be at	in late trade down 1.69 dollar 52.00 dollar	LOCATION	MONEY
+1.0	New York 's oil future contract	tumble	2.14 dollar	LOCATION	MONEY
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE

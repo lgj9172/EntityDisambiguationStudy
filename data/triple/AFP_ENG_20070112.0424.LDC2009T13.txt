@@ -1,0 +1,25 @@
+1.0	Yushchenko	have	office	PERSON	0
+1.0	Romania	have also object to	Ukraine 's building	LOCATION	LOCATION
+1.0	Black Sea	to	continental shelf	LOCATION	0
+1.0	Romania	of	ukrainian community	LOCATION	0
+1.0	Viktor Yushchenko	be	ukrainian	PERSON	0
+1.0	Romania	cross	fragile nature reserve	LOCATION	0
+1.0	community	have	members	O	O
+1.0	Romania	cross nature reserve in	Danube river delta	LOCATION	LOCATION
+1.0	canal	have	building	O	O
+1.0	president	have	office	0	0
+1.0	Several pending bilateral issues have caused friction between Kiev and Bucharest	have	access	O	O
+1.0	Romania	cross	nature reserve	LOCATION	0
+1.0	president	have	office	O	O
+1.0	Ukrainian President Viktor Yushchenko	have	counterpart	O	O
+1.0	several	think	rich in oil deposit	0	0
+1.0	Romania	have also object to	Ukraine 's building of canal	LOCATION	LOCATION
+1.0	Romania	have object to	Ukraine 's building of canal	LOCATION	LOCATION
+1.0	Yushchenko 's office	say at_time	Friday	PERSON	DATE
+1.0	Ukraine	have	building	O	LOCATION
+1.0	Romania	have	community	O	LOCATION
+1.0	Black Sea	have	shelf	O	LOCATION
+1.0	Ukraine	to	building of canal	LOCATION	0
+1.0	several	think	rich	0	0
+1.0	Romania	have object to	Ukraine 's building	LOCATION	LOCATION
+1.0	Yushchenko	have	office	O	PERSON

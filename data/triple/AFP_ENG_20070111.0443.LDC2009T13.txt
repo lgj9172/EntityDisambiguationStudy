@@ -1,0 +1,109 @@
+1.0	opposition	have	out carried	O	O
+0.8318958151985849	kurdish authority	take	step	0	0
+1.0	other	be transfer to	custody	0	0
+1.0	other	be	transfer after several month to custody	0	DURATION
+0.9436964641631809	ill	treatment of	detainee in custody of iraqi	0	0
+1.0	other	be	transfer after month to iraqi custody	0	0
+1.0	sectarian violence	have surge in	Iraq	0	LOCATION
+0.9958860706513671	rights	say on	Thursday	0	DATE
+1.0	other	be	transfer after month to iraqi custody for prosecution	0	0
+0.8318958151985849	kurdish authority	take	positive step	0	0
+1.0	war	have	result	O	O
+1.0	Iraqis	die as	result	MISC	0
+1.0	other	be	transfer after several month to custody for prosecution	0	DURATION
+0.9958860706513671	human rights	say in	its annual report	0	SET
+1.0	other	be	transfer after several month to iraqi custody	0	DURATION
+1.0	other	be	transfer after month to custody for prosecution	0	0
+1.0	case files	have	review	O	O
+1.0	other	be transfer to	iraqi custody for prosecution	0	0
+1.0	kurdish authority	resolve	some	0	0
+1.0	detainee abuse	have	evidence	O	O
+1.0	the	lead to	several hundred detainee	0	NUMBER
+1.0	groups	have	rife	O	O
+1.0	detainees	have	hundreds	O	O
+1.0	authority	resolve	some	0	0
+1.0	Iraqi	have	custody	O	MISC
+1.0	recent injury	consistent with	severe beating	0	0
+1.0	terrorism offenses	have	suspicion	O	O
+1.0	attacks	have	level	O	O
+1.0	widespread	ministry of	interior	0	0
+1.0	other	be transfer to	custody for prosecution	0	0
+1.0	detainees	have	majority	O	O
+1.0	ministries	have	evidence	O	O
+1.0	recent injury	consistent with	beating	0	0
+1.0	attacks	have	victims	O	O
+1.0	other	be	transfer after month to custody	0	0
+0.9958860706513671	rights	say in	its report	0	0
+1.0	detainees	have	many	O	O
+1.0	facilities	have	check	O	O
+1.0	detainee	may	may hold	0	0
+1.0	detainee	be in	official custody	0	0
+1.0	detainee	may	may hold on security grounds	0	0
+1.0	sectarian violence	have surge while	abuse	0	0
+1.0	650,000 Iraqis	die as	result of war since 2003	NUMBER	DATE
+1.0	650,000 Iraqis	die as	result	NUMBER	0
+1.0	injury	consistent with	beating	0	0
+1.0	the	lead	release by August	0	DATE
+1.0	one interior ministry facility known as Site No. 4	have	Al-Jadiriyya facility	O	O
+1.0	its Al-Jadiriyya facility	be in	Baghdad	LOCATION	LOCATION
+1.0	detainee	may	may hold indefinitely on security grounds	0	0
+1.0	investigator	torture at	its Al-Jadiriyya facility	0	LOCATION
+1.0	detainees	have	killing	O	O
+1.0	the	be	release	0	0
+1.0	violence	have surge while	abuse	0	0
+1.0	group	point to	evidence	0	0
+1.0	group	also point to	evidence of widespread torture	0	0
+1.0	widespread	other ill ministry of	interior	0	0
+1.0	detainee	may	may hold indefinitely	0	0
+1.0	injury	consistent with	severe beating	0	0
+1.0	Iraqis	die as	result of war since 2003	MISC	DATE
+1.0	detainee	be in	custody of iraqi	0	0
+1.0	interior	have	ministries	O	O
+1.0	investigator	be in	November 2005	0	DATE
+1.0	conflict	have	said	O	O
+1.0	Shiite sites	have	February bombing	O	O
+1.0	wrongdoing	have	suspicions	O	O
+1.0	investigator	torture at	its Al-Jadiriyya facility in Baghdad	0	LOCATION
+0.9958860706513671	human rights	say on	Thursday	0	DATE
+1.0	iraqi government	have	own investigation	0	0
+0.8318958151985849	authority	take	positive step	0	0
+1.0	killing of detainees in official custody	have	report	O	O
+1.0	killings	have	campaign	O	O
+1.0	suicide attacks	have	spate	O	O
+1.0	abductions	have	campaign	O	O
+1.0	the	lead	release	0	0
+1.0	interior ministry	be in	November 2006	ORGANIZATION	DATE
+1.0	them	have	many	O	O
+1.0	the	be release by	August	0	DATE
+1.0	torture	have	evidence	O	O
+1.0	United Nations Security Council authorization	have	basis	O	O
+1.0	detainees	have	treatment	O	O
+1.0	group	also point to	evidence	0	0
+1.0	Iraqis	die as	result of war	MISC	0
+1.0	killing	be	commonplace	0	0
+0.9436964641631809	ill	treatment of	detainee	0	0
+1.0	car bomb	have	spate	O	O
+1.0	widespread	other ministry of	interior	0	0
+1.0	other	be transfer after	month	0	0
+1.0	defense	have	ministries	O	O
+1.0	widespread	ill ministry of	interior	0	0
+1.0	other	be	transfer after several month to iraqi custody for prosecution	0	DURATION
+1.0	others	have	fate	O	O
+1.0	other	be	transfer	0	0
+1.0	violence	have surge in	Iraq	0	LOCATION
+1.0	US	find evidence at	location	LOCATION	0
+1.0	government	have	investigations	O	O
+1.0	group	point to	evidence of widespread torture	0	0
+1.0	people	have	affiliation	O	O
+0.9436964641631809	ill	treatment of	detainee in custody	0	0
+0.9958860706513671	human rights	say in	its report	0	0
+1.0	650,000 Iraqis	die as	result of war	NUMBER	0
+1.0	affiliation	have	basis	O	O
+1.0	detention facilities	have	inspections	O	O
+0.8318958151985849	authority	take	step	0	0
+1.0	other	be transfer to	iraqi custody	0	0
+1.0	issues	have	some	O	O
+1.0	suspects	have	arrest	O	O
+0.9958860706513671	rights	say in	its annual report	0	SET
+1.0	worship	have	places	O	O
+1.0	other	be transfer after	several month	0	DURATION

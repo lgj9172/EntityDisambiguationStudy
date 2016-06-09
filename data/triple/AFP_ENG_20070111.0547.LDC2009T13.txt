@@ -1,0 +1,62 @@
+1.0	Kinshasa office	say in	statement	LOCATION	0
+1.0	nation	have	borders	O	O
+1.0	we	have	move on from assistance	0	0
+1.0	UN High Commissioner	have	Kinshasa office	O	O
+1.0	roads	have	condition	O	O
+0.6164456580259254	President Joseph Kabila	have	have vote into office	PERSON	0
+1.0	army	battle	troops	0	0
+1.0	army	battle troops at_time	year	0	DATE
+1.0	unrest	have	condition	O	O
+1.0	we	move to	development	0	0
+1.0	burden	meet	they own need	0	0
+0.773294083825358	its election	drc in	2006	0	DATE
+1.0	people	have	half	O	O
+1.0	regular army	battle troops at_time	late last year	0	DATE
+1.0	difficulties	have	go	O	O
+1.0	burden	meet	they need	0	0
+1.0	DRC	see	its democratic election	ORGANIZATION	0
+1.0	regular army	battle troops at_time	last year	0	DATE
+1.0	47,200	have	people	O	NUMBER
+1.0	numerous refugees	have	needs	O	O
+1.0	we	move on	on assistance	0	0
+0.6164456580259254	President Joseph Kabila	have	have vote	PERSON	0
+1.0	terrible burden	meet	they own need	0	0
+0.773294083825358	its first election	drc in	2006	ORDINAL	DATE
+0.773294083825358	its democratic election	drc in	2006	0	DATE
+1.0	army	battle troops at_time	late year	0	DATE
+1.0	we	have	move to development	0	0
+1.0	million people	have	homes	O	O
+1.0	agency	be upbeat about	humanitarian situation	0	0
+1.0	this country	have	elections	O	O
+1.0	DRC	see	its election	ORGANIZATION	0
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	army	battle troops at_time	late last year	0	DATE
+1.0	army	battle	renegade troops	0	0
+1.0	agency	be upbeat about	situation	0	0
+1.0	regular army	battle	troops	0	0
+1.0	regular army	battle troops at_time	late year	0	DATE
+1.0	infrastructure public services	have	lack	O	O
+1.0	DRC	see	its first election	ORGANIZATION	ORDINAL
+0.773294083825358	its first democratic election	drc in	2006	ORDINAL	DATE
+1.0	Jens Hesemann	be in	Kinshasa	PERSON	LOCATION
+1.0	terrible burden	meet	they need	0	0
+1.0	UN refugee agency	announce at_time	Thursday	ORGANIZATION	DATE
+1.0	regular army	battle	renegade troops	0	0
+1.0	Almost 37,000 Congolese nationals	have	26,000	NUMBER	O
+1.0	UNHCR spokesman	be in	Jens Hesemann	ORGANIZATION	PERSON
+1.0	people	have	number	O	O
+1.0	we	have	move	0	0
+1.0	UNHCR spokesman	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	DRC	be in	2006	ORGANIZATION	DATE
+1.0	regular army	battle troops at_time	year	0	DATE
+1.0	UN High Commissioner	of office be	unhcr	ORGANIZATION	0
+1.0	their	have	priority	O	O
+1.0	agency	be	upbeat	0	0
+1.0	Kivu province	be in	northwest	LOCATION	0
+1.0	we	have	move on from assistance to development	0	0
+1.0	Many refugees	have	country	O	O
+1.0	transport difficulties	have	condition	O	O
+1.0	Refugees	have	Tanzania	LOCATION	O
+1.0	army	battle troops at_time	last year	0	DATE
+1.0	DRC	see	its first democratic election	ORGANIZATION	ORDINAL
+1.0	this country	have	operation	O	O

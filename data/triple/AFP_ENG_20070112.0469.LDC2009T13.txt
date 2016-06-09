@@ -1,0 +1,69 @@
+1.0	pt share	end day at	10.20 euro	0	MONEY
+1.0	it	also run service at_time	operator Vivo in venture	0	ORGANIZATION
+1.0	it	run	brazilian mobile service	0	0
+1.0	Portugal	have	phone provider	O	LOCATION
+1.0	it	also run service at_time	operator Vivo	0	ORGANIZATION
+1.0	share	close at	5.95 euro	0	MONEY
+1.0	it	run	brazilian service	0	0
+1.0	pt share	end day up	0.69 percent	0	PERCENT
+1.0	Portugal 's stock market regulator	pave	way for nation 's hostile takeover bid	ORGANIZATION	0
+1.0	nation	have	telephone market	O	O
+1.0	Portuguese conglomerate Sonae	submit	its offer prospectus	ORGANIZATION	0
+1.0	it	run service at_time	operator Vivo in joint venture	0	ORGANIZATION
+1.0	Sonaecom	have	offer	O	ORGANIZATION
+0.9652381129169338	Portuguese conglomerate Sonae	list subsidiary of	portuguese conglomerate Sonae	ORGANIZATION	ORGANIZATION
+1.0	Portugal 's stock market regulator	pave	way for nation 's largest-ever takeover bid	ORGANIZATION	0
+1.0	nation 's fixed-line telephone market	percent of	broadband cable market	0	0
+1.0	pt share	end day at_time	Friday	0	DATE
+0.9652381129169338	Portuguese conglomerate Sonae	subsidiary of	portuguese conglomerate Sonae	ORGANIZATION	ORGANIZATION
+1.0	Vivo	be in	joint venture	ORGANIZATION	0
+1.0	Portuguese conglomerate Sonae	subsidiary of	Portuguese conglomerate Sonae	ORGANIZATION	ORGANIZATION
+1.0	phone market	have	TMN	ORGANIZATION	O
+1.0	conglomerate Sonae	have	subsidiary	O	ORGANIZATION
+1.0	Portugal Telecom	have	about 75 percent	ORGANIZATION	PERCENT
+1.0	Portugal 's stock market regulator	approve	Sonaecom 's offer	ORGANIZATION	ORGANIZATION
+1.0	it	run service at_time	operator Vivo in venture	0	ORGANIZATION
+1.0	Portugal	have	stock market regulator	O	LOCATION
+1.0	nation	for	largest-ever hostile takeover bid	0	0
+1.0	nation	have	takeover bid	O	O
+1.0	Portugal 's stock market regulator	have	larger	O	O
+1.0	PT	have	cable unit PT	ORGANIZATION	O
+1.0	pt	have	pt Multimedia	0	ORGANIZATION
+1.0	Portuguese conglomerate Sonae	control	Portugal 's phone provider	0	LOCATION
+0.9652381129169338	Portuguese conglomerate Sonae	list subsidiary of	conglomerate Sonae	ORGANIZATION	ORGANIZATION
+1.0	it	run	mobile service	0	0
+1.0	Portugal 's stock market regulator	pave	way for nation 's takeover bid	ORGANIZATION	0
+0.9652381129169338	Portuguese conglomerate Sonae	subsidiary of	conglomerate Sonae	ORGANIZATION	ORGANIZATION
+1.0	Portuguese conglomerate Sonae	control	Portugal 's third-biggest mobile phone provider	0	LOCATION
+1.0	share	be in	Portuguese conglomerate Sonae	0	LOCATION
+1.0	bid	be	first	0	ORDINAL
+1.0	Portuguese conglomerate Sonae	control	Optimus	0	ORGANIZATION
+1.0	Portugal 's stock market regulator	pave	way	ORGANIZATION	0
+1.0	nation	of	fixed-line telephone market	0	0
+1.0	it	run service with	Telefonica	0	ORGANIZATION
+1.0	pt Multimedia	be in	Sonaecom 's offer of 9.50 euro per share	ORGANIZATION	ORGANIZATION
+1.0	Portugal Telecom	have	about 75 percent of nation 's fixed-line telephone market	ORGANIZATION	PERCENT
+1.0	Sonaecom	have	offer	ORGANIZATION	0
+1.0	Portuguese conglomerate Sonae	have	offer prospectus	O	O
+1.0	it	also run	brazilian mobile service	0	0
+1.0	Portuguese conglomerate Sonae	be of	portuguese	ORGANIZATION	0
+1.0	Portugal	have	stock market regulator	ORGANIZATION	0
+1.0	Sonaecom	in	offer of 9.50 euro per share	ORGANIZATION	MONEY
+1.0	Portugal Telecom	have	about 75 percent of nation 's telephone market	ORGANIZATION	PERCENT
+1.0	euros	have	offer	O	MONEY
+1.0	it	also run	brazilian service	0	0
+1.0	it	also run service at_time	operator Vivo in joint venture	0	ORGANIZATION
+1.0	Portugal	have	third-biggest mobile phone provider	LOCATION	0
+1.0	it	also run service with	Telefonica	0	ORGANIZATION
+1.0	pt share	end	day	0	DATE
+1.0	telephone market	have	percent	PERCENT	O
+1.0	it	also run	mobile service	0	0
+1.0	it	run service at_time	operator Vivo	0	ORGANIZATION
+1.0	it	also run	service	0	0
+1.0	nation	's market be	80 percent	0	PERCENT
+1.0	broadband cable market	have	percent	PERCENT	O
+1.0	Portuguese conglomerate Sonae	control	Portugal 's mobile phone provider	0	LOCATION
+1.0	share	close up at	5.95 euro	0	MONEY
+1.0	Portugal 's stock market regulator	pave	way for nation 's largest-ever hostile takeover bid	ORGANIZATION	0
+1.0	Portuguese conglomerate Sonae	control	Portugal 's third-biggest phone provider	0	LOCATION
+1.0	it	run	service	0	0

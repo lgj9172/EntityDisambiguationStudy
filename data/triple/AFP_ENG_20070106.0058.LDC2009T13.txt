@@ -1,0 +1,44 @@
+1.0	Hikkaduwa	have	tourist resort town	O	LOCATION
+1.0	bomb	go along	main coastal highway	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	powerful bomb	go in	police	0	0
+1.0	bus	have pass	tourist resort town of Hikkaduwa	0	LOCATION
+1.0	bus	have just pass	tourist resort town of Hikkaduwa	0	LOCATION
+1.0	bus	have pass	tourist resort town	0	0
+1.0	Galle Road	have	highway	O	LOCATION
+1.0	attack	be	similar	0	0
+1.0	people	be	kill	0	0
+1.0	bomb	go along	highway of Galle Road	0	LOCATION
+1.0	attack	be	similar to bus blast Friday	0	DATE
+1.0	powerful bomb	go off in	two day	0	DURATION
+1.0	bomb	go along	highway	0	0
+1.0	Matara	have	town	O	LOCATION
+1.0	bomb	go in	two day	0	DURATION
+1.0	attack	be similar to	bus blast	0	0
+1.0	bomb	go off along	main highway of Galle Road	0	LOCATION
+1.0	bus	have just pass	tourist resort town	0	0
+1.0	powerful bomb	go in	two day	0	DURATION
+1.0	bomb	go along	main coastal highway of Galle Road	0	LOCATION
+1.0	bomb	go off in	two day	0	DURATION
+1.0	bomb	go along	coastal highway of Galle Road	0	LOCATION
+1.0	bomb	go off along	main highway	0	0
+1.0	passenger	be	kill	0	0
+1.0	bomb	go in	police	0	0
+1.0	bomb	go off along	coastal highway of Galle Road	0	LOCATION
+1.0	passenger	be	when kill	0	0
+1.0	bomb	go along	main highway	0	0
+1.0	bomb	go off along	main coastal highway of Galle Road	0	LOCATION
+1.0	bomb	go off along	coastal highway	0	0
+1.0	bomb	go off along	highway	0	0
+1.0	bomb	go off in	police	0	0
+1.0	six passenger	be	kill	NUMBER	0
+1.0	bomb	go off along	main coastal highway	0	0
+1.0	local police chief Jayantha Wickremaratne	tell	AFP	PERSON	ORGANIZATION
+1.0	police chief Jayantha Wickremaratne	tell	AFP	PERSON	ORGANIZATION
+1.0	six passenger	be	when kill	NUMBER	0
+1.0	attack	be similar at_time	Friday	0	DATE
+1.0	bomb	go along	main highway of Galle Road	0	LOCATION
+1.0	kilometres	have	distance	O	O
+1.0	bomb	go off along	highway of Galle Road	0	LOCATION
+1.0	powerful bomb	go off in	police	0	0
+1.0	bomb	go along	coastal highway	0	0

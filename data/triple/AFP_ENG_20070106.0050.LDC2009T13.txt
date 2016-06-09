@@ -1,0 +1,78 @@
+1.0	disarmament	will	in future will do over country	0	DATE
+1.0	protest	be	Somalia	0	LOCATION
+1.0	Some 200 protestors	have	country	O	O
+1.0	ethiopian force	fire	shot	0	0
+1.0	clan	have	members	O	O
+1.0	dictator Mohamed Siad Barre	have	ouster	O	PERSON
+1.0	his	have	loot shop	O	O
+1.0	majority	be in	capital	0	0
+1.0	force	fire shot at_time	Saturday	0	DATE
+1.0	protestor	take to	street	0	0
+0.6629573156285158	ethiopian force	back	government	0	0
+1.0	a specific time	end without	bloodshed	0	0
+1.0	order	go	largely unheeded	0	0
+1.0	protestor	take to	street south of capital	0	0
+1.0	protestor	take to	street south	0	0
+1.0	troops	have	camp	O	O
+1.0	the weak Somali government	have	backers	O	O
+1.0	a specific time	end within	time	0	0
+0.6629573156285158	force	back	government	0	0
+1.0	force	fire	shot	0	0
+0.6629573156285158	force	back	weak somali government	0	0
+1.0	grocer	open	fire	0	0
+1.0	Somalia	nation of	10 million	LOCATION	NUMBER
+1.0	vacuum	be in	Somalia	0	LOCATION
+1.0	10 million	have	nation	O	NUMBER
+1.0	government	have	formation	O	O
+1.0	protesters	have	one	NUMBER	O
+1.0	demonstrators	have	some	O	O
+1.0	force	disperse	demonstrator	0	0
+1.0	their	have	presence	O	O
+1.0	protestor	block	road	0	0
+1.0	force	fire	shot in air	0	0
+1.0	disarmament	will	in near future will do	0	DATE
+1.0	capital	have	south	O	O
+0.6629573156285158	ethiopian force	back	weak government	0	0
+1.0	its Ethiopian backers	have	strongholds	O	O
+1.0	member	majority in	capital	0	0
+1.0	disarmament plan	be in	Mogadishu	0	LOCATION
+1.0	order	go	unheeded	0	0
+0.6629573156285158	ethiopian force	back	somali government	0	0
+1.0	Ali Nur , a shopkeeper	have	shop	O	O
+1.0	shot	be in	air	0	0
+1.0	Deputy Defence Minister Ali Salad Jelle	tell	AFP	PERSON	ORGANIZATION
+1.0	Somalia	be	third	LOCATION	ORDINAL
+1.0	Somalia	have lack	authority	LOCATION	0
+1.0	robbers	have	gangs	O	O
+1.0	ethiopian force	fire	shot in air	0	0
+0.6629573156285158	force	back	weak government	0	0
+0.6629573156285158	force	back	somali government	0	0
+1.0	Somalia	plunge after	1991 ouster	LOCATION	DATE
+1.0	a specific time	end within	short time	0	0
+1.0	Somalia	have lack	central authority	LOCATION	0
+1.0	Somalia	have lack	effective authority	LOCATION	0
+1.0	Somalia	plunge into	chaos	LOCATION	0
+1.0	protest	be	third Somalia	0	LOCATION
+1.0	AFP	have	part	O	O
+1.0	peacekeepers	have	deployment	O	O
+1.0	the weak Somali government	have	rulers	O	O
+1.0	disarmament	will	in near future will do over country	0	DATE
+1.0	fighting	have	days	DATE	O
+1.0	strongholds	have	several	O	O
+1.0	disarmament	will	will do over country	0	0
+1.0	Bile Abdi	one of	protester	PERSON	0
+0.6629573156285158	ethiopian force	back	weak somali government	0	0
+1.0	grocer	open fire at	some	0	0
+1.0	Somalia	have lack	effective central authority	LOCATION	0
+1.0	disarmament	will	in future will do	0	DATE
+1.0	disarmament	will	will do	0	0
+1.0	Ali Nur	tell	afp	PERSON	0
+1.0	ethiopian force	fire shot at_time	Saturday	0	DATE
+1.0	plan	be	the capital Mogadishu	0	LOCATION
+1.0	Somalia	plunge after	1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	people	be	injure	0	0
+1.0	ethiopian force	disperse	demonstrator	0	0
+1.0	peacekeepers	have	weapons	O	O
+0.9129447633152606	Somalia	nation of	some 10 million	LOCATION	NUMBER
+1.0	the capital Mogadishu	have	south	O	LOCATION
+1.0	Somalia	have	part	O	LOCATION

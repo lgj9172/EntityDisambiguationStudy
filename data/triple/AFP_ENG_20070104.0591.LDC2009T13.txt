@@ -1,0 +1,73 @@
+1.0	US Congress	propose by	US President George W. Bush	LOCATION	LOCATION
+1.0	September 11 2001	attack on	United States	DATE	LOCATION
+1.0	former Guantanamo inmate	plan	demonstrate week outside US war-on-terror prison in Cuba	LOCATION	LOCATION
+1.0	Cindy Sheehan	be	the United States	PERSON	LOCATION
+1.0	court	have	jurisdiction	O	O
+1.0	similar protest	also take	place	0	0
+1.0	former Guantanamo inmate	plan	demonstrate week outside US war-on-terror prison	LOCATION	LOCATION
+1.0	former Guantanamo inmate	plan	relative	LOCATION	0
+1.0	judge	have	jurisdiction	O	O
+1.0	US war-on-terror prison	be in	Cuba	LOCATION	LOCATION
+1.0	Code	have	officials	O	PERSON
+0.8963843630624758	US Congress	authorize trial by	special commission	LOCATION	0
+1.0	Guantanamo	be on	Wednesday	LOCATION	DURATION
+1.0	protest	also take	place	0	0
+1.0	US military base	be in	Guantanamo Bay	LOCATION	LOCATION
+1.0	former Guantanamo inmate	plan	demonstrate	LOCATION	0
+1.0	similar protest	take place around	world	0	0
+1.0	justice	have	jurisdiction	O	O
+0.8963843630624758	US Congress	authorize trial by	commission	LOCATION	0
+1.0	similar protest	also take place around	world	0	0
+1.0	organizer	say	add	0	0
+0.8963843630624758	US Congress	authorize trial by	military commission	LOCATION	0
+1.0	arrival	have	anniversary	O	O
+0.8963843630624758	US Congress	authorize trial by	special military commission	LOCATION	0
+1.0	terrorists	have	cases	O	O
+1.0	former Guantanamo inmate	demonstrate	relative of detainee	LOCATION	0
+1.0	whose son	be	kill	0	0
+1.0	former Guantanamo inmate	demonstrate	call on Washington	LOCATION	LOCATION
+1.0	former US Army colonel Ann Wright	be colonel of	US Army	PERSON	ORGANIZATION
+1.0	son	have	detention	O	O
+1.0	George W. Bush	be by	the United States	PERSON	LOCATION
+1.0	Cindy Sheehan	be peace activist of	the United States	PERSON	LOCATION
+1.0	detainees	have	relatives	O	O
+1.0	former Guantanamo inmate	demonstrate outside	US war-on-terror prison in Cuba	LOCATION	LOCATION
+1.0	my son	have	detention	O	O
+1.0	former Guantanamo inmate	demonstrate at_time	week	LOCATION	DATE
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	whose son	be kill in	Iraq	0	LOCATION
+1.0	Zohra Zewawi	have	heart	O	O
+1.0	protest	take	place	0	0
+0.8963843630624758	US Congress	authorize	trial	LOCATION	0
+1.0	Global Exchange	have	officials	O	ORGANIZATION
+1.0	Pentagon	say at_time	month	ORGANIZATION	DATE
+1.0	prisoner	have	arrival	O	O
+1.0	former US Army colonel Ann Wright	be	US Army	PERSON	ORGANIZATION
+1.0	Zohra Zewawi	have	son	O	O
+1.0	International Day	have	day	DURATION	DURATION
+1.0	former Guantanamo inmate	plan	relative of other detainee	LOCATION	0
+1.0	firefighter	have	mother	O	O
+1.0	former Guantanamo inmate	demonstrate at_time	next week	LOCATION	DATE
+1.0	first war-on-terror prisoner	be in	Guantanamo Bay	ORDINAL	LOCATION
+1.0	infamous prison	be in	Guantanamo Bay	0	LOCATION
+1.0	Congress	be in	September 2002	ORGANIZATION	DATE
+1.0	former Guantanamo inmate	demonstrate	relative of other detainee	LOCATION	0
+1.0	demonstration	have	organizers	O	O
+1.0	former Guantanamo inmate	demonstrate	call	LOCATION	0
+1.0	Guantanamo prisoner	have	mother	O	O
+1.0	former Guantanamo inmate	plan	relative of detainee	LOCATION	0
+1.0	whose	have	son	O	O
+1.0	former Guantanamo inmate	plan	demonstrate outside US war-on-terror prison	LOCATION	LOCATION
+1.0	Congress	be	the United States	ORGANIZATION	LOCATION
+1.0	protest	take place around	world	0	0
+1.0	organizer	tell	afp	0	0
+1.0	protest	also take place around	world	0	0
+1.0	US Congress	enact	new law	LOCATION	0
+1.0	former Guantanamo inmate	plan	demonstrate week	LOCATION	DATE
+1.0	former Guantanamo inmate	demonstrate outside	US war-on-terror prison	LOCATION	LOCATION
+1.0	similar protest	take	place	0	0
+1.0	Zohra Zewawi	mother of	Guantanamo prisoner hold since September 2002	PERSON	LOCATION
+1.0	US Congress	enact	law	LOCATION	0
+1.0	former Guantanamo inmate	plan	demonstrate outside US war-on-terror prison in Cuba	LOCATION	LOCATION
+1.0	Pentagon	say at_time	last month	ORGANIZATION	DATE
+1.0	former Guantanamo inmate	demonstrate	relative	LOCATION	0

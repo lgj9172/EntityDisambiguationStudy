@@ -1,0 +1,20 @@
+1.0	udinese	be	italian	0	0
+1.0	flight	be interested in	defender Tomas Zapotocny	0	PERSON
+1.0	flight	be	interested	0	0
+1.0	season	have	end	O	O
+0.7011427361133051	Slovan Liberec	reign	league champion	ORGANIZATION	0
+1.0	offer	have	sort	O	O
+1.0	Zapotocny	have	contract with Czech club	PERSON	MISC
+1.0	Zapotocny	have	contract	O	PERSON
+1.0	Udinese	make offer for	Sparta Prague captain	ORGANIZATION	ORGANIZATION
+1.0	Zapotocny	be 's	twenty-six-year-old	PERSON	0
+1.0	top flight	be	interested	0	0
+1.0	Udinese	make	offer	ORGANIZATION	0
+1.0	twenty-six-year-old Zapotocny 's contract	be with	Czech club	PERSON	MISC
+1.0	Slovan Liberec	confirm at_time	Thursday	ORGANIZATION	DATE
+1.0	Slovan Liberec	have	director	O	PERSON
+0.7011427361133051	Slovan Liberec	reign	czech league champion	ORGANIZATION	0
+1.0	Czech club	reveal on	Wednesday	MISC	DATE
+1.0	Udinese	make offer for	Tomas Sivok	ORGANIZATION	PERSON
+1.0	top flight	be interested in	defender Tomas Zapotocny	0	PERSON
+1.0	his	have	desire	O	O

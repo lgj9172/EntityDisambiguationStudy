@@ -1,0 +1,40 @@
+1.0	Prosecutors	be jail for	total	0	0
+1.0	involvement	be in	bombing	0	0
+1.0	two fugitives	have	role	O	O
+1.0	separate charge	be in	jail	0	0
+1.0	they	of most be	Moroccan	0	MISC
+1.0	six	belong to	four other	NUMBER	NUMBER
+1.0	six	be charge of	the 29	NUMBER	NUMBER
+0.8889567457102894	Police	search	they home	0	0
+1.0	Mohamed Alafah	be believe	have kill later	PERSON	0
+1.0	jail	be in	province of Cadiz Coruna	0	LOCATION
+1.0	Police	have find	false document	0	0
+1.0	Mohamed Belhadj	have	Spain	LOCATION	PERSON
+1.0	town	be in	Calatonia	0	LOCATION
+1.0	Mohamed Alafah	be believe	have kill	PERSON	0
+1.0	fugitives	have	escape	O	O
+1.0	Prosecutors	be	jail	0	0
+1.0	Mohamed Alafah	be	believe	PERSON	0
+1.0	charge	investigate	Madrid bombing	0	LOCATION
+1.0	six	belong to	terrorist organisation	NUMBER	0
+1.0	Mohamed Alafah	be	kill later	PERSON	0
+1.0	Zohaib Khadiri , Djilali Boussiri and Nasreddine ben	have	homes	O	O
+1.0	six	be	charge	NUMBER	0
+1.0	years	have	total	O	DURATION
+1.0	six	be charge with	murder	NUMBER	0
+1.0	them	have	most	O	O
+1.0	Prosecutors	be jail for	total of 270,000 year	0	DURATION
+1.0	six	belong to	organisation	NUMBER	0
+1.0	Islamists	most of	they	MISC	0
+1.0	Mohamed Alafah	have	Spain	LOCATION	PERSON
+1.0	country	have	northeast	O	O
+1.0	they allege role	be in	March 2004	0	DATE
+1.0	six	be	of 29 charge with murder	NUMBER	NUMBER
+1.0	Cadiz La Coruna	have	provinces	O	ORGANIZATION
+1.0	they allege role	be in	Madrid bombing	0	LOCATION
+1.0	bomb attack	be in	2004	0	DATE
+1.0	Mohamed Alafah	be	kill	PERSON	0
+1.0	fugitives	have	Spain	LOCATION	O
+1.0	arrest	be	order	0	0
+1.0	the 29	have	charged	O	NUMBER
+1.0	terrorism	have	act	O	O

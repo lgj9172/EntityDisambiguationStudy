@@ -1,0 +1,35 @@
+1.0	index	have	fall	DATE	O
+1.0	drop	be in	oil	0	0
+1.0	shares	have	total	O	O
+1.0	benchmark sp/asx	end	run of finish	0	0
+1.0	telecom	fall	0.06	0	NUMBER
+1.0	Australia	off	southwest coast	LOCATION	0
+1.0	benchmark sp/asx 200	end	run of record-breaking finish	NUMBER	0
+1.0	finishes	have	run	O	O
+1.0	benchmark sp/asx 200	end	run	NUMBER	0
+1.0	benchmark sp/asx 200	end	run of finish	NUMBER	0
+1.0	southwest coast	have	storm	O	O
+0.28627611980559997	ANZ	rise to	28.30	ORGANIZATION	NUMBER
+0.42395469982452744	Westpac	fall to	24.01	ORGANIZATION	NUMBER
+1.0	BHP Billiton share	finish at	24.37	ORGANIZATION	NUMBER
+1.0	BHP Billiton	have	shares	O	ORGANIZATION
+1.0	benchmark sp/asx	end	run	0	0
+1.0	benchmark sp/asx	end	four-day run	0	DURATION
+1.0	benchmark sp/asx	end	four-day run of finish	0	DURATION
+1.0	ANZ	rise	0.10	ORGANIZATION	NUMBER
+1.0	Qantas Airways	rise	0.01	ORGANIZATION	NUMBER
+1.0	benchmark sp/asx	end	four-day run of record-breaking finish	0	DURATION
+1.0	benchmark sp/asx 200	drop	64.5 point	NUMBER	NUMBER
+0.884381971313277	Westpac	fall	0.11	ORGANIZATION	NUMBER
+1.0	fall	have	half	O	DATE
+1.0	benchmark sp/asx	end	run of record-breaking finish	0	0
+0.28627611980559997	Qantas Airways	rise to	5.24	ORGANIZATION	NUMBER
+1.0	trading Ric Klusman	have	Aequs Equities head	O	PERSON
+1.0	index	of	fall	0	DATE
+1.0	fall	be in	metal price	DATE	0
+1.0	benchmark sp/asx 200	end	four-day run of record-breaking finish	NUMBER	DURATION
+0.47937962732886696	telecom	fall to	4.04	0	NUMBER
+1.0	benchmark sp/asx	drop	64.5 point	0	NUMBER
+1.0	Australia	have	southwest coast	O	LOCATION
+1.0	benchmark sp/asx 200	end	four-day run	NUMBER	DURATION
+1.0	benchmark sp/asx 200	end	four-day run of finish	NUMBER	DURATION

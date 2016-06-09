@@ -1,0 +1,102 @@
+1.0	he	be friend with	member of terror cell involve in suicide attack include they leader	0	0
+0.8292744341906981	seven-year sentence	father of	two child	DURATION	NUMBER
+1.0	his	have	battle	O	O
+1.0	Mounir el Motassadeq	have	prison sentence	O	O
+1.0	he	be friend with	member of terror cell involve include they leader	0	0
+1.0	friends	handle	bank transfer	0	0
+1.0	his	have	conviction	O	O
+1.0	german court	find	Motassadeq guilty	0	PERSON
+0.6578026082182374	lesser crime	belong to	terrorist group	0	0
+1.0	Mounir el Motassadeq	be	accessory	0	0
+1.0	Motassadeq	be	first person ever convict for complicity	PERSON	ORDINAL
+1.0	Germany 's highest appeal court	belong to	outfit	LOCATION	0
+1.0	complicity	be in	attack on World Trade Center	0	LOCATION
+1.0	he	be friend with	member of terror cell include they leader	0	0
+1.0	he	be friend with	member of terror cell involve	0	0
+0.8292744341906981	seven-year sentence	father of	child	DURATION	0
+1.0	he	have	link	0	0
+1.0	he	be friend with	member of hamburg-based terror cell involve in suicide attack	0	0
+1.0	Germany 's appeal court	belong to	outfit	LOCATION	0
+1.0	Mounir el Motassadeq	have	lawyers	O	O
+0.6578026082182374	lesser crime	belong to	group	0	0
+1.0	terror cell	have	members	O	O
+1.0	Tuesday	on motassadeq be	moroccan accomplice in September 11	DATE	DATE
+1.0	Germany	have	court	O	LOCATION
+1.0	Mounir el Motassadeq	accomplice in	September 11 2001	PERSON	DATE
+1.0	he	have	link to hijacker	0	0
+1.0	Motassadeq	be	person convict	PERSON	0
+1.0	Motassadeq	be	first person convict	PERSON	ORDINAL
+1.0	15 year	be in	prison	DURATION	0
+0.6578026082182374	crime	belong to	group	0	0
+1.0	Motassadeq	be	first person convict for complicity	PERSON	ORDINAL
+1.0	Germany	have	highest appeal court	LOCATION	0
+0.8292744341906981	sentence	father of	two child	0	NUMBER
+1.0	friends	have	whereabouts	O	O
+0.8269099657266701	aircraft	use in	attack	0	0
+1.0	Mounir el Motassadeq	be accessory to	mass murder	0	0
+1.0	Motassadeq	be	first person ever convict for complicity in attack	PERSON	ORDINAL
+1.0	friend	be with	member of hamburg-based terror cell involve in suicide attack include they leader	0	0
+1.0	Mounir el Motassadeq	be on	Tuesday	PERSON	DATE
+1.0	german court	find in	2003	0	DATE
+0.8292744341906981	seven-year sentence	bearded father of	two child	DURATION	NUMBER
+1.0	Germany 's appeal court	uphold conviction in	November 2006	LOCATION	DATE
+1.0	Mounir el Motassadeq	abet	mass murder	PERSON	0
+1.0	he	be	friend	0	0
+1.0	german court	sentence	he	0	0
+1.0	court	find	Motassadeq guilty	0	PERSON
+1.0	Motassadeq	be	first person ever convict	PERSON	ORDINAL
+0.4554608246969868	he	link to	hijacker	0	0
+0.8292744341906981	seven-year sentence	bearded father of	child	DURATION	0
+1.0	ruling	be	overturn	0	0
+1.0	his	have	innocence	O	O
+1.0	Germany	have	constitutional court	LOCATION	0
+1.0	he	maintain	he innocence	0	0
+1.0	Motassadeq	be	person convict for complicity in attack	PERSON	0
+1.0	Germany 's appeal court	belong to	terrorist outfit	LOCATION	0
+1.0	Motassadeq	be	person	PERSON	0
+1.0	friends	fly	lesson	0	0
+1.0	moroccan accomplice	be in	September 11 2001	0	DATE
+1.0	Mounir el Motassadeq	have	favour	O	PERSON
+1.0	Motassadeq	be	first person convict for complicity in attack	PERSON	ORDINAL
+1.0	he	be friend with	member of terror cell	0	0
+1.0	he	be friend with	member of hamburg-based terror cell include they leader	0	0
+1.0	children	have	father	O	O
+1.0	Motassadeq	be	person ever convict	PERSON	0
+1.0	Mounir el Motassadeq	in	favour	PERSON	0
+1.0	Germany 's highest appeal court	uphold	conviction	LOCATION	0
+1.0	he role	be in	death of 246 passenger	0	NUMBER
+1.0	friends	handle bank transfer for	friends	0	0
+1.0	appeal	be	lodge	0	0
+1.0	Germany 's highest appeal court	uphold conviction in	November 2006	LOCATION	DATE
+1.0	Germany 's appeal court	uphold	conviction	LOCATION	0
+1.0	Motassadeq	be	person ever convict for complicity in attack	PERSON	0
+0.8292744341906981	sentence	bearded father of	two child	0	NUMBER
+1.0	Motassadeq	be	person convict for complicity	PERSON	0
+1.0	Motassadeq	be	person convict for complicity in attack on World Trade Center	PERSON	LOCATION
+1.0	September 11 2001	attack on	the United States	DATE	LOCATION
+1.0	Motassadeq	be	person ever convict for complicity in attack on World Trade Center	PERSON	LOCATION
+1.0	court	find in	2003	0	DATE
+0.8292744341906981	sentence	father of	child	0	0
+1.0	ruling	be overturn on	appeal	0	0
+1.0	Germany 's highest appeal court	belong to	terrorist outfit	LOCATION	0
+1.0	Motassadeq	be	Ladislav Anisic	PERSON	PERSON
+1.0	Mounir el Motassadeq	have	role	O	O
+1.0	passengers	have	death	O	O
+1.0	Motassadeq	be	first person	PERSON	ORDINAL
+1.0	Motassadeq	be	first person convict for complicity in attack on World Trade Center	PERSON	ORDINAL
+1.0	our	have	client	O	O
+1.0	Motassadeq	be	person ever convict for complicity	PERSON	0
+1.0	court	sentence	he	0	0
+1.0	Germany	have	appeal court	O	LOCATION
+1.0	terrorist group	be in	Hamburg	0	LOCATION
+1.0	he	be friend with	member	0	0
+1.0	he	be friend with	member of hamburg-based terror cell	0	0
+1.0	friends	have	leader	O	O
+1.0	he	be friend with	member of hamburg-based terror cell involve include they leader	0	0
+1.0	Motassadeq	be	first person ever convict for complicity in attack on World Trade Center	PERSON	ORDINAL
+1.0	he	be friend with	member of hamburg-based terror cell involve	0	0
+0.8292744341906981	sentence	bearded father of	child	0	0
+1.0	friends	fly lesson in	the United States	0	LOCATION
+1.0	he	be friend with	member of terror cell involve in suicide attack	0	0
+0.6578026082182374	crime	belong to	terrorist group	0	0
+1.0	he	be friend with	member of hamburg-based terror cell involve in suicide attack include they leader	0	0

@@ -1,0 +1,44 @@
+1.0	Shenzhen police	decline	comment immediately	LOCATION	0
+1.0	the DeCoro 's sales director Giovanni Prati	tell	AFP	PERSON	ORGANIZATION
+1.0	incidents	have	series	O	O
+1.0	DeCoro	have	sales director Giovanni Prati	PERSON	O
+1.0	he	say	meeting between 70 worker	0	NUMBER
+1.0	Shenzhen police	decline	comment	LOCATION	0
+1.0	security guard	deny	connection	0	0
+1.0	he	say	meeting	0	0
+1.0	security guard	clash with	three employee	0	NUMBER
+1.0	course people	have	compensation	O	O
+1.0	employees	have	beating	O	O
+1.0	our	have	company policy	O	O
+1.0	guard	be in	series of incident since Tuesday	0	DATE
+1.0	the DeCoro 's sales director Giovanni Prati	have	life	O	O
+1.0	Huang	scuffle with	guard in series	PERSON	0
+1.0	Huang	tell	AFP	PERSON	ORGANIZATION
+1.0	an Italian company	have	China factory	O	O
+1.0	factories	have	one	NUMBER	O
+1.0	meeting	be with	management over redundancy payment	0	0
+1.0	Zhang Minxiong	say in	telephone interview	PERSON	0
+1.0	his	have	company	O	O
+1.0	security guard	deny connection with	three	0	0
+1.0	Workers	have	colleagues	O	O
+0.8112528907686263	the meeting between some 70 workers	end around	security guard arm with iron bar	0	DURATION
+1.0	management	be	cordial	DURATION	DURATION
+1.0	Shenzhen	have	city	O	LOCATION
+1.0	workers	have	Hundreds	O	O
+1.0	Huang	scuffle with	guard in series of incident	PERSON	0
+1.0	Huang	scuffle with	guard in series of incident since Tuesday	PERSON	DATE
+1.0	company	have	factories	O	O
+1.0	they	employer	italian sofa maker DeCoro	0	0
+1.0	Huang	scuffle with	guard	PERSON	0
+1.0	DeCoro	by	Giovanni Prati	0	PERSON
+1.0	AFP	be in	phone interview	ORGANIZATION	0
+0.8112528907686263	the meeting between some 70 workers	end around	100 security guard arm with iron bar	0	NUMBER
+1.0	factory	be in	booming southern industrial city of Shenzhen	0	LOCATION
+1.0	Huang	break	window	PERSON	0
+1.0	their	have	treatment	O	O
+1.0	one worker	say at_time	Friday	NUMBER	DATE
+1.0	Zhang Minxiong	tell	AFP	PERSON	ORGANIZATION
+1.0	worker	say at_time	Friday	0	DATE
+1.0	company	of	factory	0	0
+1.0	Hundreds of workers at an Italian company	have	employer	O	O
+1.0	the DeCoro 's sales director Giovanni Prati	tell	AFP in phone interview	PERSON	ORGANIZATION

@@ -1,0 +1,47 @@
+1.0	governor	hold	meeting	0	0
+1.0	press conference	be in	Khartoum	0	LOCATION
+1.0	truce	be in	war-torn western region of country	0	0
+1.0	two	in go in	line	0	0
+1.0	US politician	say on	Wednesday	LOCATION	DATE
+1.0	two	in go with	Darfur peace agreement sign in Abuja on May 5	0	LOCATION
+1.0	two	go with	Darfur peace agreement	0	LOCATION
+1.0	US New Mexico Governor Bill Richardson	also hold talk with	Foreign Minister Lam Akol	PERSON	PERSON
+1.0	US New Mexico Governor Bill Richardson	tell	news conference	LOCATION	0
+1.0	country	have	region	O	O
+1.0	US New Mexico Governor Bill Richardson	tell news conference at	end of visit	LOCATION	0
+1.0	US New Mexico Governor Bill Richardson	tell news conference at	end of four-day visit	LOCATION	DURATION
+1.0	Bill Richardson	be governor of	US New Mexico	PERSON	LOCATION
+1.0	US New Mexico Governor Bill Richardson	meet with	government official	0	0
+1.0	delegation	have	proposal	O	O
+1.0	DPA	have	framework	O	ORGANIZATION
+1.0	Bill Richardson	be	US New Mexico	PERSON	LOCATION
+1.0	two	go with	Darfur peace agreement sign in Abuja on May 5	0	LOCATION
+1.0	two	go with	Darfur peace agreement sign	0	LOCATION
+1.0	two	in go with	Darfur peace agreement sign on May 5	0	LOCATION
+0.8199602240022712	Darfur peace agreement	sign on	May 5	LOCATION	DATE
+1.0	two	in go with	Darfur peace agreement sign	0	LOCATION
+1.0	two	in go with	Darfur peace agreement	0	LOCATION
+1.0	two	go with	Darfur peace agreement sign in Abuja	0	LOCATION
+1.0	peace agreement	have	basis	O	O
+1.0	rebel factions	have	Darfur leaders	O	O
+0.8199602240022712	Darfur peace agreement	sign in	Abuja	LOCATION	LOCATION
+1.0	60-day ceasefire	be in	Darfur	DURATION	LOCATION
+1.0	visit	have	end	O	O
+1.0	hostilities	have	cessation	O	O
+0.8199602240022712	Darfur peace agreement	sign accord	US New Mexico Governor Bill Richardson	LOCATION	PERSON
+1.0	two	in go with	dpa	0	0
+1.0	two	go with	dpa	0	0
+1.0	US New Mexico Governor Bill Richardson	hold	talk	PERSON	0
+1.0	two	go in	line	0	0
+1.0	senior US politician	say on	Wednesday	LOCATION	DATE
+1.0	delegation	to	proposal	0	0
+1.0	Save Darfur Coalition	have	up made	O	ORGANIZATION
+1.0	US New Mexico Governor Bill Richardson	also hold	talk	PERSON	0
+1.0	President Omar al-Beshir	have	delegation	O	O
+1.0	two	go with	Darfur peace agreement sign on May 5	0	LOCATION
+1.0	US New Mexico Governor Bill Richardson	tell news conference at	end	LOCATION	0
+1.0	ceasefire	have	start	O	O
+1.0	US New Mexico Governor Bill Richardson	hold talk with	Foreign Minister Lam Akol	PERSON	PERSON
+1.0	two	in go with	Darfur peace agreement sign in Abuja	0	LOCATION
+1.0	governor	hold	two meeting	0	NUMBER
+1.0	US New Mexico Governor Bill Richardson	head	delegation	PERSON	0

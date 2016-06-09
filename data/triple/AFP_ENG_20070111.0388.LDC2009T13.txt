@@ -1,0 +1,143 @@
+1.0	country	have	economy with export	0	0
+1.0	president	also impose	curfew	0	0
+1.0	president	also impose curfew to	5:00 am	0	TIME
+1.0	country 's economy	be with	export	0	0
+1.0	democracy	have	future	DATE	O
+1.0	Awami League	have	Sheikh Hasina Wajed	PERSON	ORGANIZATION
+1.0	country	have	economy	O	O
+1.0	people	have	Thousands	O	O
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	tension	escalate of	election	0	0
+1.0	Party	have	have rig	ORGANIZATION	0
+1.0	thousand	leave	clog street	0	0
+1.0	the Awami League	allege	many as other opposition party	MISC	0
+1.0	thousand	rush	home	0	0
+1.0	country	also have	history	0	0
+1.0	political crisis	have jeopardise	legitimacy	0	0
+1.0	political crisis	have jeopardise	legitimacy of electoral process	0	0
+1.0	capital	have	streets	O	O
+1.0	BTV	say in	announcement	ORGANIZATION	0
+1.0	tension	escalate ahead of	election on January 22	0	DATE
+1.0	national strike	negotiate tactic in	opposition	0	0
+1.0	political tension	escalate ahead of	election	0	0
+1.0	the Awami League	announce series from	next week aim	ORGANIZATION	DATE
+1.0	one	have	ranked	O	NUMBER
+1.0	the Awami League	announce	series of protest	ORGANIZATION	0
+1.0	Khaleda Zia	have	Sheikh Hasina Wajed	PERSON	PERSON
+1.0	the Awami League	announce series after	alliance	ORGANIZATION	0
+1.0	country	to	largest port	0	0
+1.0	BNP	have	Sheikh Hasina Wajed	PERSON	ORGANIZATION
+1.0	tension	escalate ahead of	election	0	0
+0.11980346986644463	the Awami League	election	as many as other opposition party	MISC	0
+1.0	president	impose	curfew	0	0
+1.0	the Awami League	allege	poll	MISC	0
+1.0	Bangladesh	have	president	LOCATION	0
+1.0	president	impose curfew to	5:00 am	0	TIME
+1.0	its	have	observation mission	O	O
+1.0	country	also have	history of coup	0	0
+1.0	blockades	have	series	O	O
+1.0	political tension	escalate of	dispute election on January 22	0	DATE
+1.0	government	cancel	poll schedule for January 22	0	DATE
+1.0	government	stem	violence	0	0
+1.0	president	impose	overnight curfew	0	TIME
+1.0	restore	stage a	strike	0	0
+1.0	it	be concerned over	future	0	DATE
+1.0	political crisis	have severely jeopardise	legitimacy of process	0	0
+1.0	nationalist Party	have	have rig	ORGANIZATION	0
+1.0	interim government	cancel	poll	0	0
+1.0	political crisis	have severely jeopardise	legitimacy of electoral process	0	0
+1.0	strike	negotiate tactic in	opposition	0	0
+1.0	the Awami League	announce series from	week	ORGANIZATION	DATE
+1.0	the Awami League	announce series after	alliance lead by main opposition	ORGANIZATION	0
+1.0	strikes	have	series	O	O
+1.0	president	impose curfew from	11:00 pm	0	TIME
+1.0	Bangladesh	have	advances	O	LOCATION
+1.0	country	have	history of coup	0	0
+1.0	national strike	negotiate	tactic	0	0
+1.0	the Awami League	allege	as many as other opposition party	MISC	0
+1.0	restore	stage	national strike	0	0
+1.0	opposition party	be demand	postponement	0	0
+1.0	political tension	escalate ahead of	dispute election on January 22	0	DATE
+0.11980346986644463	the Awami League	election	as many as 18 other opposition party	MISC	NUMBER
+1.0	Bangladeshi politics	have	feature	O	O
+1.0	muslim-dominated country	have	history of coup	0	0
+1.0	president	also impose	overnight curfew	0	TIME
+1.0	restore	stage a	national strike	0	0
+0.11980346986644463	the Awami League	election	many as 18 other opposition party	MISC	NUMBER
+1.0	political tension	escalate ahead of	election on January 22	0	DATE
+1.0	violence	have	use	O	O
+1.0	political tension	escalate of	dispute election	0	0
+1.0	president	also impose curfew from	11:00 pm	0	TIME
+1.0	thousand	leave	street	0	0
+1.0	it	refrain from	use	0	0
+1.0	tension	escalate of	dispute election on January 22	0	DATE
+1.0	opposition party	be demand	postponement of January 22 election	0	DATE
+1.0	the Awami League	announce series after	alliance lead	ORGANIZATION	0
+1.0	it	be concerned over	future of country 's democracy	0	DATE
+1.0	it	call on	party	0	0
+1.0	Party	have	have rig in favour of outgoing Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	crisis	have severely jeopardise	legitimacy of process	0	0
+1.0	country	have	history	0	0
+1.0	thousand	rush	home follow announcement	0	0
+1.0	political tension	escalate of	election	0	0
+1.0	restore	have boycott	parliament	0	0
+1.0	restore	stage	strike	0	0
+1.0	the Awami League	allege	as many as 18 other opposition party	MISC	NUMBER
+1.0	country	of	democracy	0	0
+1.0	Party	have	have rig in favour of Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	it	be	concerned	0	0
+1.0	crisis	have severely jeopardise	legitimacy of electoral process	0	0
+1.0	crisis	have jeopardise	legitimacy	0	0
+1.0	the Awami League	announce series from	next week	ORGANIZATION	DATE
+1.0	the Awami League	announce	series	ORGANIZATION	0
+1.0	nationalist Party	have	have rig in favour	ORGANIZATION	0
+1.0	political crisis	be in	Bangladesh	0	LOCATION
+1.0	it	also call on	party	0	0
+1.0	nationalist Party	have	have rig in favour of Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	thousand	leave	usually clog street	0	0
+0.7867347789630693	United Nations	technical support to	electoral process	ORGANIZATION	0
+1.0	political tension	escalate ahead of	dispute election	0	0
+1.0	political crisis	have jeopardise	legitimacy of process	0	0
+1.0	elections	have	escalated	O	O
+1.0	political crisis	have severely jeopardise	legitimacy	0	0
+1.0	muslim-dominated country	have	history	0	0
+1.0	tension	escalate ahead of	dispute election on January 22	0	DATE
+1.0	interim government	cancel	poll schedule for January 22	0	DATE
+1.0	government	cancel	poll	0	0
+1.0	muslim-dominated country	also have	history of coup	0	0
+1.0	Bangladesh	have	president	O	LOCATION
+1.0	the Awami League	announce	series of non-stop protest	ORGANIZATION	0
+1.0	the Awami League	allege	many as 18 other opposition party	MISC	NUMBER
+1.0	process	have	legitimacy	O	O
+1.0	Party	have	have rig in favour	ORGANIZATION	0
+1.0	January elections	have	postponement	O	O
+1.0	nationalist Party	have	have rig in favour of outgoing Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	United Nations	suspend	technical support to electoral process	ORGANIZATION	0
+0.6317822331357159	the Awami League	series of	protest	ORGANIZATION	0
+1.0	parties	have	leaders	O	O
+1.0	interim government	cancel	poll schedule	0	0
+1.0	country	have	democracy	O	O
+1.0	restore	have regularly boycott	parliament	0	0
+1.0	emergency	have	state	O	O
+1.0	country	have	port	O	O
+0.6317822331357159	the Awami League	series of	non-stop protest	ORGANIZATION	0
+1.0	144 million	have	country	O	NUMBER
+1.0	coups	have	history	O	O
+0.11980346986644463	the Awami League	election	many as other opposition party	MISC	0
+1.0	protests	have	series	O	O
+1.0	tension	escalate of	election on January 22	0	DATE
+1.0	government	cancel	poll schedule	0	0
+1.0	muslim-dominated country	also have	history	0	0
+1.0	crisis	have jeopardise	legitimacy of process	0	0
+1.0	the Awami League	announce series after	alliance lead by opposition	ORGANIZATION	0
+1.0	government	deploy	60,000 troops	0	NUMBER
+1.0	the Awami League	announce series from	week aim	ORGANIZATION	DATE
+1.0	crisis	have jeopardise	legitimacy of electoral process	0	0
+1.0	democracy	be	restore	0	0
+1.0	political tension	escalate of	election on January 22	0	DATE
+1.0	Pakistan	be in	1971	LOCATION	DATE
+1.0	strike	negotiate	tactic	0	0
+1.0	tension	escalate ahead of	dispute election	0	0
+1.0	it	refrain from	use of violence	0	0
+1.0	crisis	have severely jeopardise	legitimacy	0	0
+1.0	tension	escalate of	dispute election	0	0

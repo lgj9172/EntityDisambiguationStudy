@@ -1,0 +1,32 @@
+1.0	this	require	removal of damage tissue	0	0
+1.0	this	require	removal of tissue on Tuesday	0	DATE
+1.0	this	require	removal of tissue	0	0
+1.0	Barbaro	have	treatment	PERSON	0
+1.0	new separation	be	find	0	0
+1.0	separation	be	find	0	0
+1.0	doctor	be in	Kentucky	0	LOCATION
+1.0	foot cast	be	remove	0	0
+1.0	this	require	additional removal	0	0
+1.0	Barbaro	be	Kentucky Derby	PERSON	ORGANIZATION
+1.0	tissue	have	removal	O	O
+1.0	portion	have	separation	O	O
+1.0	Barbaro	suffer	injury	PERSON	0
+1.0	hoof	have	portion	O	O
+1.0	Kentucky Derby champion Barbaro	shatter	he leg	0	0
+1.0	Kentucky Derby champion Barbaro	be	hospitalize	0	0
+1.0	this	require	additional removal of tissue	0	0
+1.0	this	require	removal of damage tissue on Tuesday	0	DATE
+1.0	screws	have	number	O	O
+1.0	develop discomfort	be in	leg	0	0
+1.0	Kentucky Derby champion Barbaro	have	foot	O	O
+1.0	Barbaro	have	treatment	O	PERSON
+1.0	Kentucky Derby champion Barbaro	be	hospitalize since	0	0
+1.0	his	have	leg	O	O
+1.0	Kentucky Derby champion Barbaro	have	hoof	O	O
+1.0	this	require	additional removal of damage tissue on Tuesday	0	DATE
+1.0	this	require	additional removal of damage tissue	0	0
+1.0	this	require	additional removal of tissue on Tuesday	0	DATE
+1.0	Barbaro	be champion of	Kentucky Derby	PERSON	ORGANIZATION
+1.0	this	require	removal	0	0
+1.0	Barbaro	suffer	life-threatening injury	PERSON	0
+1.0	Kentucky Derby champion Barbaro	have	titanium plate	0	0

@@ -1,0 +1,18 @@
+1.0	german carmaker	say on	Thursday	0	DATE
+1.0	Bernhard	have	departure	PERSON	0
+1.0	Audi luxury car unit	have	head	O	O
+0.33821287129516114	Wolfgang Bernhard	executive follow	shock departure of Bernd Pischetsrieder	0	PERSON
+1.0	Bernhard 's departure	have	have rumour	PERSON	0
+0.33821287129516114	Wolfgang Bernhard	chief executive follow	shock departure of Bernd Pischetsrieder	0	PERSON
+1.0	Volkswagen group	have	role	O	O
+1.0	VW	of	Audi luxury car unit	ORGANIZATION	ORGANIZATION
+0.33821287129516114	Wolfgang Bernhard	chief executive follow	shock departure	0	0
+1.0	January	have	end	DATE	DATE
+1.0	Volkswagen	be	Wolfgang Bernhard	ORGANIZATION	PERSON
+1.0	Bernd Pischetsrieder	have	shock departure	O	PERSON
+1.0	VW	have	Audi luxury car unit	O	ORGANIZATION
+0.33821287129516114	Wolfgang Bernhard	executive follow	shock departure	0	0
+1.0	Martin Winterkorn	head of	VW 's Audi luxury car unit	PERSON	ORGANIZATION
+1.0	Volkswagen	have	brand chief	O	ORGANIZATION
+1.0	carmaker	say on	Thursday	0	DATE
+1.0	Bernhard	have	departure	O	PERSON

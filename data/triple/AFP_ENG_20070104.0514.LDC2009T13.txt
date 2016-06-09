@@ -1,0 +1,38 @@
+1.0	violence	erupt after	Abbas call for early parliamentary	0	PERSON
+1.0	prime minister Ismail Haniya of Hamas	tell	journalist	PERSON	0
+0.9317369406001401	part	member of	egyptian security delegation	0	0
+0.9745810955288918	15 people	day of	internecine violence	NUMBER	0
+1.0	Palestinians	have	blood	O	MISC
+1.0	internecine violence	have	days	DURATION	O
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	prime minister Ismail Haniya of Hamas	have	meeting	O	O
+1.0	prime minister Ismail Haniya of Hamas	tell journalist with	Palestinian president Mahmud Abbas of Fatah	PERSON	PERSON
+1.0	prime minister Ismail Haniya of Hamas	launch appeal at_time	evening	PERSON	TIME
+1.0	Fatah	have	members	O	ORGANIZATION
+1.0	president	at	office	0	0
+1.0	Fatah	have	president Mahmud Abbas	PERSON	ORGANIZATION
+1.0	men	have	withdrawal	O	O
+1.0	president	have	office	O	O
+1.0	blood	be	serious	0	0
+1.0	prime minister Ismail Haniya of Hamas	launch	new appeal	PERSON	0
+1.0	Mahmud Abbas	be of	Fatah	PERSON	ORGANIZATION
+1.0	we	resolve	we difference	0	0
+1.0	rival movement	be in	north of Gaza	0	LOCATION
+1.0	violence	erupt after	Abbas	0	PERSON
+1.0	we	want	unity	0	0
+1.0	Fatah	agree	Hamas	ORGANIZATION	ORGANIZATION
+1.0	violence	erupt after	Abbas call	0	PERSON
+1.0	Fatah	have agree on	December 19	ORGANIZATION	DATE
+1.0	Hamas	have	minister Ismail Haniya	PERSON	ORGANIZATION
+1.0	we	want	national unity	0	0
+1.0	violence	erupt after	Abbas call for parliamentary	0	PERSON
+1.0	journalists	have	differences	O	O
+1.0	Ismail Haniya	be of	Hamas	PERSON	ORGANIZATION
+1.0	Fatah	have agree to	ceasefire	ORGANIZATION	0
+1.0	prime minister Ismail Haniya of Hamas	tell	journalist	0	0
+1.0	unity	have	government	O	O
+1.0	prime minister Ismail Haniya of Hamas	tell journalist after	he meeting	PERSON	0
+1.0	Gaza	have	north	O	LOCATION
+1.0	prime minister Ismail Haniya of Hamas	launch appeal on	Thursday	PERSON	DATE
+1.0	security delegation	have	members	O	O
+1.0	prime minister Ismail Haniya of Hamas	launch	appeal	PERSON	0

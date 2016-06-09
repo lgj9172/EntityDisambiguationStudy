@@ -1,0 +1,138 @@
+1.0	crude	have	surplus	O	O
+1.0	crude price	drop below	dollar	0	0
+1.0	crude	gain	1.02 dollar 52.90 dollar barrel	0	MONEY
+1.0	78 dollar	be in	the middle of the year	MONEY	DATE
+1.0	World oil price	recover to	nearly 53 dollar	0	MONEY
+1.0	stockpile	be deem	level	0	0
+1.0	Brent	have end down	lowest close	PERSON	0
+1.0	light crude	gain	1.02 dollar 52.90 dollar	0	MONEY
+1.0	Brent	have end	lowest close since May 31 2005	PERSON	DATE
+0.164266332496663	price	jump in	trading	0	0
+1.0	US reserve	offset drop in	crude oil inventory	LOCATION	0
+1.0	crude price	be	unlikely	0	0
+1.0	Brent	have end down	lowest close since May 31 2005	PERSON	DATE
+1.0	future	have slump by	14.0 percent	0	PERCENT
+1.0	price	hit record high above	78 dollar in middle	0	DATE
+1.0	Brent	have end	close	PERSON	0
+1.0	Mitsubishi Corporation	at	energy risk management	ORGANIZATION	0
+1.0	Brent	have end down	close	PERSON	0
+1.0	US winter	be take	place	LOCATION	0
+1.0	oil	have	price	O	O
+1.0	announced reduction	be in	a day in November	DATE	DATE
+0.7200613181935863	week	owe to	drop	DATE	0
+1.0	crude future	have slump by	14.0 percent	0	PERCENT
+1.0	price	be above	at close 60 dollar	0	MONEY
+1.0	barrels	have	reduction	O	O
+1.0	Mitsubishi Corporation	have	energy risk management	O	ORGANIZATION
+1.0	stockpile	be	deem	0	0
+1.0	stockpile	be at	high level	0	0
+1.0	mild weather	be in	America	0	LOCATION
+1.0	cartel	cut output after	reduction	DATE	0
+1.0	crude price	drop below	strong dollar	0	0
+1.0	World oil price	recover	have fall over week	0	DATE
+1.0	cartel	cut output after	reduction in November	DATE	DATE
+1.0	51.88 dollar	close since	May 27 2005	MONEY	DATE
+1.0	crude price	drop below	strong 50 dollar	0	MONEY
+1.0	price	jump	1.14 dollar 52.84 dollar	0	MONEY
+1.0	its	have	supply	O	O
+1.0	future	have slump by	14.0 percent since start of 2007	0	PERCENT
+1.0	US reserve	rise at_time	week	LOCATION	DATE
+1.0	World oil price	recover	have fall over week owe	0	DATE
+1.0	Tony Nunan	analyst at	Mitsubishi Corporation 's energy risk management	PERSON	ORGANIZATION
+0.7200613181935863	week	owe to	drop demand heating fuel	DATE	0
+1.0	crude future	have slump by	14.0 percent since start	0	PERCENT
+1.0	stockpile	be	when include heating fuel deem by market	0	0
+1.0	warm US winter	be take	place	LOCATION	0
+1.0	cartel	cut output after	reduction of 1.2 million barrel	DATE	NUMBER
+1.0	cartel	cut	output	DATE	0
+1.0	price	hit record high above	78 dollar	0	MONEY
+1.0	Friday New York	have	oil futures contract	O	LOCATION
+1.0	light sweet crude	gain	1.02 dollar 52.90 dollar	0	MONEY
+1.0	price	hit record high above	78 dollar in middle of year	0	DATE
+1.0	level	be in	the come week	0	DATE
+1.0	Thursday	end at	close since May 27 2005	0	DATE
+1.0	US reserve	offset	bigger-than-expected drop	LOCATION	0
+1.0	World oil price	fall over	week	0	DATE
+1.0	World oil price	fall over	week owe to drop in demand for heating fuel	0	DATE
+1.0	World oil price	fall over	week owe	0	DATE
+1.0	cartel	decide at_time	month	DATE	DATE
+1.0	Thursday	end at	lowest close since May 27 2005	0	DATE
+1.0	Organization	cut further	its oil output	ORGANIZATION	0
+1.0	World oil price	recover on	Friday	0	DATE
+1.0	Thursday	end at	close	0	0
+1.0	cartel	cut output by	500,000 barrel	DATE	NUMBER
+1.0	distillate	of reserve be	petrol	0	0
+1.0	light sweet crude	gain	1.02 dollar 52.90 dollar barrel	0	MONEY
+1.0	World oil price	recover	have fall over week owe to drop in demand for heating fuel	0	DATE
+1.0	cartel	cut output after	reduction of 1.2 million barrel in November	DATE	DATE
+0.11998017411404804	market	be	afraid	0	0
+1.0	stockpile	be deem	high level	0	0
+1.0	cartel	decide at_time	last month	DATE	DATE
+1.0	cartel	cut output from	February 2007	DATE	DATE
+1.0	Thursday	end at	51.88 dollar	0	MONEY
+1.0	Tony Nunan	say on	Friday	PERSON	DATE
+1.0	World oil price	recover	have fall over week owe to drop	0	DATE
+1.0	Brent	have end	lowest close	PERSON	0
+1.0	2007	have	start	DATE	DATE
+1.0	Organization	cut	its oil output	ORGANIZATION	0
+1.0	World oil price	fall over	week owe to drop in demand	0	DATE
+1.0	price	jump	1.14 dollar 52.84 dollar barrel	0	MONEY
+1.0	US energy products	have	stockpiles	O	O
+0.164266332496663	price	jump in	London	0	LOCATION
+1.0	year	have	middle	DATE	DATE
+1.0	price	be above	at close of 2006 60 dollar	0	MONEY
+1.0	warm US winter	be meanwhile take	place	LOCATION	0
+1.0	cartel	cut output after	announced reduction	DATE	DATE
+1.0	crude future	have slump by	14.0 percent since start of 2007	0	PERCENT
+1.0	New York	be 's	Friday	LOCATION	DATE
+1.0	stockpile	be	high	0	0
+0.11998017411404804	market	be	afraid of	0	0
+1.0	US reserve	offset	drop	LOCATION	0
+1.0	crude	gain	1.02 dollar 52.90 dollar	0	MONEY
+1.0	the Organization of Petroleum Exporting Countries	have	oil output	O	O
+1.0	stockpile	be	when deem by market	0	0
+1.0	gasoline	have	US reserves	O	O
+1.0	Investec	have	Jackson	ORGANIZATION	PERSON
+1.0	sweet crude	gain	1.02 dollar 52.90 dollar barrel	0	MONEY
+1.0	Thursday	end at	lowest close	0	0
+1.0	cartel	cut output after	announced reduction in November	DATE	DATE
+1.0	distillates	have	US reserves	O	O
+0.7200613181935863	week	owe to	drop demand	DATE	0
+1.0	stockpile	be	include heating fuel deem by market	0	0
+1.0	US reserve	rise sharply at_time	week	LOCATION	DATE
+1.0	crude price	drop below	50 dollar	0	MONEY
+1.0	stockpile	be deem by	market	0	0
+1.0	cartel	cut output after	announced reduction of 1.2 million barrel in November	DATE	DATE
+0.164266332496663	price	jump in	electronic trading	0	0
+1.0	Adrian Jackson	analyst at	Investec Asset Management	PERSON	ORGANIZATION
+1.0	Brent	have end down	close since May 31 2005	PERSON	DATE
+1.0	stockpile	be deem include	heating fuel	0	0
+1.0	cartel	cut output after	announced reduction of 1.2 million barrel	DATE	NUMBER
+1.0	Brent North Sea crude	have	price	O	O
+1.0	price	hit	record high	0	0
+1.0	New York	on	main oil future contract	LOCATION	0
+1.0	US winter	be meanwhile take	place	LOCATION	0
+1.0	Brent	have end	close since May 31 2005	PERSON	DATE
+1.0	stockpile	be	when include heating fuel deem	0	0
+1.0	stockpile	be	when deem	0	0
+1.0	World oil price	recover	have fall	0	0
+1.0	delivery	be in	February	0	DATE
+1.0	2006	have	close	O	DATE
+1.0	the Organization of Petroleum Exporting Countries	slash	production	ORGANIZATION	0
+1.0	stockpile	be at	level	0	0
+1.0	cartel	decide at	meeting	DATE	DATE
+1.0	future	have slump by	14.0 percent since start	0	PERCENT
+1.0	US reserve	rise sharply at_time	last week	LOCATION	DATE
+1.0	drop	be in	demand for heating fuel	0	0
+1.0	US reserve	rise at_time	last week	LOCATION	DATE
+1.0	light crude	gain	1.02 dollar 52.90 dollar barrel	0	MONEY
+1.0	World oil price	fall over	week owe to drop	0	DATE
+1.0	price	be above	60 dollar	0	MONEY
+1.0	World oil price	recover	have fall over week owe to drop in demand	0	DATE
+1.0	Thursday	have tumble	2.14 dollar	0	MONEY
+1.0	sweet crude	gain	1.02 dollar 52.90 dollar	0	MONEY
+1.0	US reserve	offset drop in	oil inventory	LOCATION	0
+1.0	Brent	have end close on	Thursday	PERSON	DATE
+1.0	Brent	have end down close on	Thursday	PERSON	DATE
+1.0	Investec	have	Jackson	PERSON	ORGANIZATION
+1.0	Petroleum Exporting Countries	have	Organization	ORGANIZATION	ORGANIZATION

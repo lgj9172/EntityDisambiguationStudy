@@ -1,0 +1,58 @@
+1.0	bomb	be in	nightclub	0	0
+1.0	Jolo	be  at_time	August last year	LOCATION	DATE
+1.0	Jolo	be since	August last year	LOCATION	DATE
+1.0	military	say at_time	last week	0	DATE
+1.0	military	say at_time	week	0	DATE
+1.0	JI	be believe	arm of Al-Qaeda terror network	0	LOCATION
+1.0	JI	be arm of	Al-Qaeda terror network	0	LOCATION
+1.0	military official	say at_time	Tuesday	0	DATE
+1.0	Abu Sayyaf leader Khadaffy Janjalani	have	remains	O	PERSON
+1.0	JI	be believe	southeast arm	0	0
+1.0	JI	be believe	asian arm of Al-Qaeda terror network	0	LOCATION
+1.0	authority	confirm	identity	0	0
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered in	philippine island	0	0
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	have	own	O	O
+1.0	JI	be	southeast asian arm	0	0
+1.0	corpse	have	identity	O	O
+1.0	whose name	be	release	0	0
+1.0	Washington	have	list	O	LOCATION
+1.0	whose	have	troops	O	O
+1.0	JI	be	southeast arm	0	0
+1.0	authority	be await	dna testing	0	0
+1.0	JI	be southeast arm of	Al-Qaeda terror network	0	LOCATION
+1.0	them	have	five	NUMBER	O
+1.0	nightclub	be in	indonesian island resort of Bali	0	LOCATION
+1.0	authority	be still await	dna testing	0	0
+1.0	whose troops	have	have hunting	0	0
+1.0	JI	be asian arm of	Al-Qaeda terror network	0	LOCATION
+1.0	JI	be	believe	0	0
+1.0	Khadaffy Janjalani	be of	Abu Sayyaf	PERSON	PERSON
+1.0	Islamiya group	have	members	O	O
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be	sheltered	0	0
+1.0	JI	be believe	arm	0	0
+1.0	JI	be believe	southeast asian arm of Al-Qaeda terror network	0	LOCATION
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be	sheltered by Abu Sayyaf group in Jolo	0	LOCATION
+1.0	Khadaffy Janjalani	be leader of	Abu Sayyaf	PERSON	PERSON
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered in	island	0	0
+1.0	JI	be believe	southeast arm of Al-Qaeda terror network	0	LOCATION
+1.0	Jolo	have	jungles	O	LOCATION
+1.0	shallow grave	be in	Jolo	0	LOCATION
+1.0	Bali	have	island resort	O	LOCATION
+1.0	whose	have	names	O	O
+1.0	Abu Sayyaf band	be in	jungle of Jolo since August last year	PERSON	DATE
+1.0	JI	be believe	southeast asian arm	0	0
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered in	southern island	0	0
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered by	Abu Sayyaf group	0	0
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered in	Jolo	0	LOCATION
+1.0	Washington	on	list of foreign terrorist organisation	LOCATION	0
+1.0	official	say at_time	Tuesday	0	DATE
+1.0	authority	confirm	identity of corpse	0	0
+1.0	muslim extremist	be in	the Philippines	0	LOCATION
+1.0	JI	be southeast asian arm of	Al-Qaeda terror network	0	LOCATION
+1.0	JI	be	asian arm	0	0
+1.0	JI members	have	presence	O	O
+1.0	At least five members of the Jemaah Islamiya -LRB- JI -RRB- terrorist group , including two Bali bombers	be sheltered in	southern philippine island	0	0
+1.0	JI	be	arm	0	0
+1.0	organisations	have	list	O	O
+1.0	Al-Qaeda terror network	have	arm	O	O
+1.0	JI	be believe	asian arm	0	0

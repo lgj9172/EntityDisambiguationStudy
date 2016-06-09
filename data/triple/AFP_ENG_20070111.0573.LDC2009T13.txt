@@ -1,0 +1,64 @@
+1.0	incident	be	up from previous year of country associate	0	DATE
+1.0	coin	be	find	0	0
+1.0	film processing company	call	Federal Bureau of Investigation	0	ORGANIZATION
+1.0	defense contractors	have	employees	O	O
+1.0	three	have	website	O	O
+1.0	US Defense Security Service	say in	report	ORGANIZATION	0
+1.0	its	report	Technology Collection Trends in US Defense Industry	0	ORGANIZATION
+0.7113828634675448	foreign spy	operate in	Canada	0	LOCATION
+1.0	incident	be	up from previous year associate	0	DATE
+1.0	satellites	have	images	O	O
+0.65737852130577	canadian coin	contain	tiny transmitter	0	0
+1.0	incident	be	up almost 43 percent from previous year of country associate	0	PERCENT
+1.0	incident	be	up 43 percent from year of country associate	0	PERCENT
+1.0	spies	have	example	O	O
+1.0	defense contractors ' employees	have	persons	O	O
+1.0	film processing company	alert	they	0	0
+0.7113828634675448	spy	operate in	Canada	0	LOCATION
+1.0	contractor	computer be	widespread eavesdropping	0	0
+1.0	incident	be	up associate	0	0
+1.0	incident	be	up 43 percent from year associate	0	PERCENT
+1.0	adjacent office	from	window	0	0
+1.0	incident	be	up from year of country associate	0	DATE
+1.0	incident	be	up from year associate	0	DATE
+0.65737852130577	coin	contain	tiny transmitter	0	0
+1.0	33-page report	describe	hacking attempt	0	0
+1.0	report	describe	hacking attempt	0	0
+1.0	Technology Collection Trends	be in	US Defense Industry	0	ORGANIZATION
+1.0	33-page report	also describe	hacking attempt	0	0
+1.0	Canada	be in	recent year	LOCATION	DURATION
+1.0	countries	have	year	DATE	O
+1.0	agency	be branch of	Pentagon	0	ORGANIZATION
+1.0	film processing company	call	Federal Bureau	0	ORGANIZATION
+1.0	incident	be	up almost 43 percent from previous year associate	0	PERCENT
+1.0	Investigation	have	Federal Bureau	ORGANIZATION	ORGANIZATION
+1.0	incident	be	up almost 43 percent from year associate	0	PERCENT
+0.65737852130577	canadian coin	contain	transmitter	0	0
+1.0	incident	be	up 43 percent from previous year associate	0	PERCENT
+1.0	foreign spy	be	likely	0	0
+0.65737852130577	coin	contain	transmitter	0	0
+1.0	report	also describe	hacking attempt	0	0
+1.0	incident	be	up 43 percent associate	0	PERCENT
+1.0	incident	be	up 43 percent from previous year of country associate	0	PERCENT
+1.0	contractors	have	computers	O	O
+1.0	office	have	window	O	O
+1.0	The agency	have	report	O	O
+1.0	foreign spy	be likely behind	espionage plot	0	0
+1.0	US defense industry workers	have	pockets	O	O
+1.0	blueprints	have	images	O	O
+1.0	incident	be	up almost 43 percent associate	0	PERCENT
+1.0	Defense Department	be warn	contractor	ORGANIZATION	0
+1.0	incident	be	associate	0	0
+1.0	US Defense Security Service	say on	its website	ORGANIZATION	0
+1.0	agency	be	branch	0	0
+1.0	his	have	computer password	O	O
+1.0	spy	be	likely	0	0
+1.0	their	have	blueprints	O	O
+1.0	spy	be likely behind	espionage plot	0	0
+1.0	its report	trends in	US Defense Industry	0	ORGANIZATION
+1.0	incident	be	up almost 43 percent from year of country associate	0	PERCENT
+1.0	Pentagon	have	branch	O	ORGANIZATION
+1.0	canadian coin	be	find	0	0
+1.0	likelihood	have	passed	O	O
+1.0	coins	have	types	O	O
+1.0	defense industry personnel	have	movements	O	O

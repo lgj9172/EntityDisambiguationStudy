@@ -1,0 +1,56 @@
+1.0	Rubalcaba	say	speak	PERSON	0
+1.0	the armed group ETA	have wage	bloody struggle for independent homeland	ORGANIZATION	0
+1.0	explosive	be in	Biscay	0	LOCATION
+1.0	police	find	two cache of explosive in Biscay	0	NUMBER
+1.0	Spain 's Interior Minister Alfredo Perez Rubalcaba	tell	news conference	PERSON	0
+1.0	Rubalcaba	speak alongside	he government counterpart Javier Balza	PERSON	PERSON
+1.0	those responsible	steal	van use	0	0
+1.0	the armed group ETA	have wage	bloody struggle for homeland	ORGANIZATION	0
+1.0	basque	be in	part of northern Spain	0	LOCATION
+1.0	those	steal	van use in attack	0	0
+1.0	his	have	government counterpart Javier Balza	PERSON	O
+1.0	days	have	caches	O	DURATION
+1.0	police	find	two large cache of explosive in Biscay	0	NUMBER
+1.0	Rubalcaba	speak alongside	he regional government counterpart Javier Balza	PERSON	PERSON
+1.0	police	find	two large cache of explosive	0	NUMBER
+1.0	its	have	victims	O	O
+1.0	the armed group ETA	have wage struggle for	basque	ORGANIZATION	0
+1.0	the armed group ETA	have wage	bloody struggle	ORGANIZATION	0
+1.0	Spain	have	Interior Minister Alfredo Perez Rubalcaba	PERSON	LOCATION
+1.0	Spain	have	Alfredo Perez Rubalcaba	LOCATION	PERSON
+0.7780209175133187	those	responsible for	bombing	0	0
+1.0	their	have	cars	O	O
+1.0	the armed group ETA	have wage struggle for	basque in part	ORGANIZATION	0
+1.0	the armed group ETA	have wage	struggle for independent homeland	ORGANIZATION	0
+1.0	police	find	two cache of explosive	0	NUMBER
+1.0	Rubalcaba	say	speak alongside he government counterpart Javier Balza	PERSON	PERSON
+1.0	base	have	involvement	O	O
+1.0	its	have	attempt	O	O
+1.0	Rubalcaba	speak alongside	he basque regional government counterpart Javier Balza	PERSON	PERSON
+1.0	Rubalcaba	speak alongside	he basque government counterpart Javier Balza	PERSON	PERSON
+1.0	group	have	members	O	O
+1.0	Rubalcaba	say	speak alongside he basque government counterpart Javier Balza	PERSON	PERSON
+1.0	France	have	parts	O	LOCATION
+1.0	Garikoitz Etxebarria	have	members	O	PERSON
+1.0	those	steal	van	0	0
+1.0	Alfredo Perez Rubalcaba	be interior minister of	Spain	PERSON	LOCATION
+1.0	Javier Balza	be alongside	basque	PERSON	0
+1.0	Spain 's Interior Minister Alfredo Perez Rubalcaba	say on	Thursday	LOCATION	DATE
+1.0	those	steal	van use	0	0
+1.0	Rubalcaba	say on	Wednesday	PERSON	DATE
+1.0	police	find	two large cache	0	NUMBER
+1.0	police	find	two cache	0	NUMBER
+1.0	Rubalcaba	say	speak alongside he basque regional government counterpart Javier Balza	PERSON	PERSON
+1.0	second	have	caches	O	DATE
+1.0	the armed group ETA	have wage struggle for	basque in part of Spain	ORGANIZATION	LOCATION
+1.0	the armed group ETA	have wage struggle for	year	ORGANIZATION	0
+1.0	bombing	be in	car park at airport on December 30	0	DATE
+1.0	the armed group ETA	have wage struggle for	basque in part of northern Spain	ORGANIZATION	LOCATION
+1.0	Asier Larrinaga	have	members	O	PERSON
+1.0	Rubalcaba	say	speak alongside he regional government counterpart Javier Balza	PERSON	PERSON
+1.0	those responsible	steal	van use in attack	0	0
+1.0	explosives	have	caches	O	O
+1.0	those responsible	steal	van	0	0
+1.0	the armed group ETA	have wage	struggle for homeland	ORGANIZATION	0
+1.0	the armed group ETA	have wage	struggle	ORGANIZATION	0
+1.0	Spain 's	have	parts	O	LOCATION

@@ -1,0 +1,90 @@
+1.0	Chirac	make	close tie	PERSON	0
+1.0	she	raise concern over	China 's grow might	0	LOCATION
+1.0	China	have	labour model	O	LOCATION
+1.0	mother-of-four	be	currently frontrunner	0	DATE
+1.0	China	over	grow economic might	LOCATION	0
+1.0	his	have	years	DURATION	O
+1.0	Segolene Royal	be	remind	PERSON	0
+1.0	Chirac	make	tie	PERSON	0
+1.0	she	raise	concern	0	0
+1.0	Royal	be in	China partly	0	LOCATION
+1.0	Paris	be on	Friday	LOCATION	DATE
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	spark controversy on	she trip	0	0
+1.0	France	have	first female president	LOCATION	ORDINAL
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	leave	Paris on Friday	0	LOCATION
+1.0	Segolene Royal	arrive in	morning	0	TIME
+1.0	France	have	president	O	LOCATION
+0.3292933309176664	french job	competition	goods	0	0
+1.0	odds	be with	official french policy	0	0
+1.0	trip	be 's	Royal second abroad	0	ORDINAL
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	say	China 's labour model	0	LOCATION
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	will meet with	member	0	0
+1.0	Segolene Royal	pay visit to	Great Wall	0	LOCATION
+1.0	Segolene Royal	be on	Saturday	PERSON	DATE
+1.0	trip	be 's	Royal abroad	0	0
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	say	China 's low-cost labour model	0	LOCATION
+1.0	election	be in	April	0	DATE
+0.5646893560914632	we	view of	China 's development	0	LOCATION
+1.0	rights	have	issue	O	O
+1.0	these	include	fear	0	0
+1.0	we	have	view of China 's development	0	LOCATION
+1.0	Segolene Royal	arrive in	morning for stay	0	TIME
+1.0	we	have	positive view of China 's development	0	LOCATION
+1.0	development	have	view	O	O
+1.0	trip	be 's	Royal	0	0
+1.0	she	be	in which expect	0	0
+1.0	protection bureau	have	head	O	O
+1.0	Francois Mitterrand	be	French	PERSON	MISC
+1.0	trade imbalance	be with	France	0	LOCATION
+0.3292933309176664	french job	chinese competition	goods	0	0
+1.0	Chirac	visit	four time	PERSON	NUMBER
+1.0	parliament	have	Hezbollah member	O	O
+1.0	China	of	development	LOCATION	0
+0.3292933309176664	job	competition	goods	0	0
+1.0	frontrunner	succeed	conservative President Jacques Chirac	0	PERSON
+1.0	Royal	be in	China	0	LOCATION
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	will meet with	member of China 's leadership	0	LOCATION
+1.0	party	have	nomination	O	O
+1.0	party	have	nomination	0	0
+1.0	53-year-old mother-of-four	be	frontrunner	DURATION	0
+1.0	she	raise	french concern	0	0
+1.0	we	have	view	0	0
+1.0	Francois Mitterrand	have	election	O	O
+1.0	trip	be 's	Royal second	0	ORDINAL
+1.0	leadership	have	member	O	O
+1.0	her	have	party	O	O
+1.0	China 's	have	leadership	O	LOCATION
+1.0	China	have	low-cost labour model	LOCATION	0
+1.0	China	have	development	O	LOCATION
+1.0	her	have	trip	O	O
+1.0	Middle East	be in	December	LOCATION	DATE
+1.0	Segolene Royal	arrive in	morning for three-day stay	0	TIME
+1.0	she	raise concern over	China 's economic might	0	LOCATION
+1.0	China	have	might	O	LOCATION
+1.0	China 's	have	protection bureau	O	LOCATION
+1.0	she	raise concern over	China 's might	0	LOCATION
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	will meet on	Monday	0	DATE
+1.0	we	have	positive view	0	0
+1.0	his	have	presidency	O	O
+1.0	frontrunner	succeed	President Jacques Chirac	0	PERSON
+1.0	Segolene Royal	arrive in	Beijing	0	LOCATION
+1.0	Saturday	on royal be	socialist hope	DATE	0
+1.0	China 's	of	leadership	LOCATION	0
+1.0	Chirac	make tie with	China priority	PERSON	LOCATION
+1.0	Bo Xilai	head of	China 's environmental protection bureau	PERSON	LOCATION
+1.0	12 year	be in	power	DURATION	0
+1.0	Chirac	make tie during	he presidency	PERSON	0
+1.0	Segolene Royal	pay	visit	0	0
+1.0	Segolene Royal	be remind at	wall	PERSON	0
+0.5646893560914632	we	positive view of	China 's development	0	LOCATION
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	leave	Paris	0	LOCATION
+0.3292933309176664	job	chinese competition	goods	0	0
+1.0	Zeng Qinghong	member of	China 's leadership	PERSON	LOCATION
+1.0	mother-of-four	be	frontrunner	0	0
+1.0	53-year-old mother-of-four	be	currently frontrunner	DURATION	DATE
+1.0	China 's	of	environmental protection bureau	LOCATION	0
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	spark	controversy	0	0
+1.0	she	be	expect	0	0
+0.8988855404933098	China	soar	greenhouse gas emission	LOCATION	0
+1.0	Segolene Royal , a socialist hoping to become France 's first female president , on Saturday began a visit to China in which she is expected to raise French concerns over China 's growing economic might .	will meet with	Zeng Qinghong	0	PERSON
+1.0	she	raise concern over	China 's grow economic might	0	LOCATION

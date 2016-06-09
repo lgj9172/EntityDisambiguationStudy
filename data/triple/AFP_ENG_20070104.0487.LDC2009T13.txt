@@ -1,0 +1,112 @@
+1.0	two leader	talk about	controversy	NUMBER	0
+1.0	US President George W. Bush	have	Sunni Muslims	MISC	O
+1.0	al-Sadr	show	one of member of execution party	LOCATION	NUMBER
+1.0	Saddam 's execution	have anger	member of Iraq 's large Sunni minority	PERSON	MISC
+1.0	Britain	have condemn	the of video	LOCATION	0
+1.0	US military	have express	concern	LOCATION	0
+1.0	their	have	conversation	O	O
+1.0	week	have	middle	DATE	DATE
+1.0	Zalmay Khalilzad	be	US diplomat at United Nations	PERSON	LOCATION
+1.0	US President George W. Bush	pursue overhaul among	he top aide	PERSON	0
+1.0	the ousted dictator 's	have	captors	O	O
+1.0	US President George W. Bush	move	director	PERSON	0
+1.0	White House	unveil	he Iraq strategy	ORGANIZATION	LOCATION
+1.0	Zalmay Khalilzad	replace	current US military commander in charge	PERSON	LOCATION
+1.0	he	nominate	US ambassador to Iraq	0	LOCATION
+1.0	there must sufficient security force	be in	Baghdad	0	LOCATION
+1.0	Zalmay Khalilzad	be	new US diplomat at United Nations	PERSON	LOCATION
+1.0	Saddam Hussein 's	have	execution	O	PERSON
+1.0	Zalmay Khalilzad	be	new top US diplomat	PERSON	LOCATION
+1.0	Saddam Hussein 's	be	in which hang	PERSON	0
+1.0	video	have	the	O	O
+1.0	members	have	one	NUMBER	O
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	execution	have	footage	O	O
+1.0	some 3,000 US soldiers	talk about	importance	0	0
+1.0	US President George W. Bush	have	decision	O	O
+1.0	US Congress	have	control	O	ORGANIZATION
+1.0	US President George W. Bush	have	aides	O	O
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	White House	unveil	he new Iraq strategy	ORGANIZATION	LOCATION
+1.0	US President George W. Bush	pursue overhaul among	he military aide	PERSON	0
+1.0	Moqtada al-Sadr	be of	shiite	LOCATION	0
+1.0	current US military commander	be in	charge	LOCATION	0
+1.0	Saddam 's execution	have anger	member	PERSON	0
+1.0	he	nominate	Zalmay Khalilzad	0	PERSON
+1.0	Saddam Hussein 's	have	opponent	O	PERSON
+1.0	al-Sadr	show	one member of execution party	LOCATION	NUMBER
+0.9652381129169338	al-Sadr	opponent of	Saddam Hussein 's	LOCATION	PERSON
+1.0	al-Sadr	show	one of member	LOCATION	NUMBER
+1.0	oust dictator	over	hanging	0	0
+1.0	two leader	also talk about	controversy	NUMBER	0
+1.0	Zalmay Khalilzad	be	top US diplomat	PERSON	LOCATION
+1.0	Zalmay Khalilzad	be	new top US diplomat at United Nations	PERSON	LOCATION
+1.0	al-Sadr	show	one member	LOCATION	NUMBER
+1.0	US President George W. Bush	pursue	overhaul	PERSON	0
+1.0	US President George W. Bush	have	war	O	O
+1.0	Saddam	have	execution on Saturday	PERSON	DATE
+1.0	Iraq	of	large Sunni minority	LOCATION	MISC
+1.0	Britain	have condemn	the	LOCATION	0
+1.0	US President George W. Bush	move	director of National Intelligence John Negroponte	PERSON	PERSON
+1.0	Moqtada al-Sadr	opponent of	Saddam Hussein 's	LOCATION	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	leader	talk about	controversy	0	0
+0.6564807714741797	shout	name of	shiite cleric Moqtada	0	LOCATION
+1.0	his	have	Iraq strategy	O	O
+1.0	Saddam 's execution	have anger	member of Iraq 's Sunni minority	PERSON	MISC
+0.6564807714741797	shout	name of	radical shiite cleric Moqtada	0	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	he	nominate	US ambassador	0	LOCATION
+1.0	Zalmay Khalilzad	replace	US commander	PERSON	LOCATION
+1.0	Robert Gates	have	favor	O	PERSON
+1.0	National Intelligence John Negroponte	have	Director	O	PERSON
+1.0	Zalmay Khalilzad	replace	current US military commander	PERSON	LOCATION
+1.0	Saddam Hussein 's	be	hang	PERSON	0
+1.0	Negroponte	be with	Michael McConnell	PERSON	PERSON
+1.0	US President George W. Bush	showcase	he new war	PERSON	0
+1.0	Saddam Hussein 's	be	put	0	0
+1.0	Iraq	have	Sunni Arab community	O	LOCATION
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	White House	be  at_time	early Friday	LOCATION	DATE
+1.0	Britain	have condemn	the leak of video	LOCATION	0
+1.0	Saddam Hussein	of	execution	PERSON	0
+1.0	Zalmay Khalilzad	replace	current US commander in charge	PERSON	LOCATION
+0.7107526379900931	two-and-half minute film	shoot on	mobile telephone camera	DURATION	0
+1.0	Zalmay Khalilzad	be	new US diplomat	PERSON	LOCATION
+1.0	Moqtada	have	name	O	LOCATION
+0.6564807714741797	shout	name of	cleric Moqtada	0	LOCATION
+1.0	Zalmay Khalilzad	replace	current US commander	PERSON	LOCATION
+1.0	leader	also talk about	controversy	0	0
+1.0	Iraq	have	Sunni minority	O	LOCATION
+1.0	move	follow	he decision	0	0
+1.0	Saddam 's execution	trigger	criticism	PERSON	0
+1.0	Saddam	have	execution	O	PERSON
+0.6564807714741797	shout	name of	radical cleric Moqtada	0	LOCATION
+1.0	Zalmay Khalilzad	replace	US military commander	PERSON	LOCATION
+1.0	Britain	have condemn	the leak	LOCATION	0
+1.0	Zalmay Khalilzad	replace	US military commander in charge	PERSON	LOCATION
+1.0	Zalmay Khalilzad	ambassador to	Iraq	PERSON	LOCATION
+0.6564807714741797	shout	name of	Moqtada	0	LOCATION
+1.0	present	have	One	NUMBER	DATE
+1.0	US President George W. Bush	showcase	he war	PERSON	0
+1.0	execution party	have	members	O	O
+1.0	some 3,000 US soldiers	discuss	possible troop increase	0	0
+1.0	spokesman	say amid	anger	0	0
+1.0	Sunni minority	have	members	O	O
+1.0	Zalmay Khalilzad	be	US diplomat	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iraq	within	Sunni Arab community	LOCATION	MISC
+0.9652381129169338	al-Sadr	bitter opponent of	Saddam Hussein 's	LOCATION	PERSON
+0.6564807714741797	shout	name of	shiite Moqtada	0	LOCATION
+1.0	Zalmay Khalilzad	replace	US commander in charge	PERSON	LOCATION
+1.0	US President George W. Bush	pursue overhaul among	he aide	PERSON	0
+1.0	Saddam Hussein 's	be humiliate	minute	0	0
+1.0	US official	be in	Baghdad	LOCATION	LOCATION
+0.6564807714741797	shout	name of	radical Moqtada	0	LOCATION
+1.0	Zalmay Khalilzad	be	top US diplomat at United Nations	PERSON	LOCATION
+1.0	Donald Rumsfeld	be in	favor of Robert Gates	PERSON	PERSON
+1.0	US President George W. Bush	pursue overhaul among	he top military aide	PERSON	0
+1.0	dictator	have	hanging	O	O
+1.0	Saddam Hussein 's	be put to	death	0	0
+0.6564807714741797	shout	name of	radical shiite Moqtada	0	LOCATION
+1.0	US troops commitment	be in	Iraq	LOCATION	LOCATION

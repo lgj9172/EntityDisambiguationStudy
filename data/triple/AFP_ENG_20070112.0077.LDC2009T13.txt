@@ -1,0 +1,29 @@
+1.0	soldier	be victim of	group	0	0
+1.0	tribe	be in	Ramadi	0	LOCATION
+1.0	body	be	on November 26 find in wreckage	0	DATE
+1.0	attack	be second one in	month	0	0
+1.0	soldier	be victim of	militant group	0	0
+1.0	soldier	be victim of	militant group from Anbar	0	LOCATION
+1.0	US military	say at_time	Friday	LOCATION	DATE
+1.0	Lieutenant Colonel Bryan Salas	say	US Marines spokesman	PERSON	ORGANIZATION
+1.0	soldier	be	victim	0	0
+1.0	soldier	be speak with	child	0	0
+1.0	attack	be second one in	recent month	0	DURATION
+1.0	Khalidiyah	have	town	O	LOCATION
+1.0	boy	have	body	O	O
+1.0	Iraq	have	Anbar province	O	LOCATION
+1.0	soldier	be victim of	group from outside Anbar	0	LOCATION
+1.0	soldier	be speak with	child in town	0	0
+1.0	body	be	find	0	0
+1.0	car bomb	have	wreckage	O	O
+1.0	body	be find in	wreckage	0	0
+1.0	group	have	victims	O	O
+1.0	device	detonate at_time	Wednesday	0	DATE
+1.0	soldier	be victim of	group from Anbar	0	LOCATION
+1.0	body	be find on	November 26	0	DATE
+1.0	child	be in	town of Khalidiyah	0	LOCATION
+1.0	Iraq	in	restless Anbar province	LOCATION	LOCATION
+1.0	Bryan Salas	be spokesman lieutenant colonel of	US Marines	PERSON	ORGANIZATION
+1.0	soldier	be speak with	child in town of Khalidiyah	0	LOCATION
+1.0	practice	have	type	O	O
+1.0	soldier	be victim of	militant group from outside Anbar	0	LOCATION

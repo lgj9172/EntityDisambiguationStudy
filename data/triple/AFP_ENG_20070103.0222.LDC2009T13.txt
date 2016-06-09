@@ -1,0 +1,112 @@
+1.0	Poland	of	38.5-million-strong population	LOCATION	0
+1.0	Monsignor Stanislaw Wielgus	reject	allegation	PERSON	0
+1.0	Monsignor Stanislaw Wielgus	be	call in	0	0
+1.0	Roman Catholic espiscopate	have	commission	O	O
+1.0	Wielgus	be name in	December	PERSON	DATE
+1.0	Monsignor Stanislaw Wielgus	have	case	O	O
+1.0	ombudsman Janusz Kochanowski	meanwhile be call into	fray	PERSON	0
+1.0	Wielgus 67	be name by	Pope Benedict XVI	NUMBER	PERSON
+1.0	task	study	issue of tie	0	0
+1.0	population	have	percent	PERCENT	O
+1.0	task	study	sensitive issue	0	0
+1.0	country	have	ombudsman	0	0
+1.0	task	study	sensitive issue of tie	0	0
+1.0	investigator	be in	Poland	0	LOCATION
+1.0	Wielgus	be	67	PERSON	NUMBER
+1.0	Church	play	important role in society	0	0
+1.0	important role	be in	society	0	0
+1.0	Church	play	important role	0	0
+1.0	Vatican	issue	statement	LOCATION	0
+1.0	city	have	bishop	O	O
+1.0	ties	have	issue	O	O
+1.0	Glemp	be	77	PERSON	NUMBER
+1.0	The IPN	put number in	1984	ORGANIZATION	DATE
+1.0	SB	have	collaborator	O	O
+1.0	Vatican	issue statement before	Christmas	LOCATION	DATE
+1.0	task	study	sensitive issue of tie between Church member	0	0
+0.9315865815883823	Glemp 77	lead critic of	former communist regime	PERSON	0
+1.0	Wielgus	be bishop of	northern city	PERSON	0
+1.0	Wielgus	be currently bishop of	city	PERSON	0
+1.0	Wielgus	be	name in December by Pope Benedict XVI	PERSON	PERSON
+1.0	Vatican	also issue	statement	LOCATION	0
+1.0	Jozef Glemp	be of	Warsaw	PERSON	LOCATION
+1.0	historical commission	begin	look	0	0
+1.0	new archbishop	collaborate with	Poland 's communist-era secret police	0	LOCATION
+1.0	right-wing newspaper Gazeta Polska	say on	December 20	ORGANIZATION	DURATION
+1.0	Monsignor Stanislaw Wielgus	acknowledge	have call	0	0
+1.0	Wielgus	be name by	Pope Benedict XVI	PERSON	PERSON
+1.0	ombudsman	have	commission	O	O
+1.0	Vatican	also issue statement before	shortly Christmas	LOCATION	DATE
+1.0	Vatican	also issue statement before	Christmas	LOCATION	DATE
+1.0	ombudsman Janusz Kochanowski	be call into	fray	PERSON	0
+1.0	Wielgus 67	be name in	early December	NUMBER	DATE
+1.0	newspaper Gazeta Polska	say on	December 20	ORGANIZATION	DURATION
+1.0	Wielgus	be	currently bishop	PERSON	DATE
+1.0	Wielgus 67	be currently bishop of	city	NUMBER	0
+1.0	The IPN	put	number of such priest	ORGANIZATION	0
+1.0	priests	have	number	O	O
+1.0	Poland	be on	Wednesday	LOCATION	DATE
+1.0	broader task	study	issue of tie between Church member	0	0
+1.0	senators	have	group	O	O
+1.0	attack	have	victim	O	O
+1.0	Wielgus 67	be	bishop	NUMBER	0
+1.0	Wielgus 67	be	name	NUMBER	0
+1.0	archbishop	have	reputation	0	0
+1.0	Church	play	role	0	0
+1.0	commission	begin	look	0	0
+1.0	commission	have	task	O	O
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	Wielgus	be bishop of	city	PERSON	0
+1.0	Vatican	issue statement before	shortly Christmas	LOCATION	DATE
+1.0	broader task	study	issue of tie	0	0
+1.0	Wielgus	be currently bishop of	northern city	PERSON	0
+1.0	Wielgus 67	be bishop of	northern city	NUMBER	0
+1.0	Monsignor Stanislaw Wielgus	have	post	O	O
+1.0	Wielgus	be	bishop	PERSON	0
+1.0	ombudsman Janusz Kochanowski	be	call	PERSON	0
+1.0	Warsaw	be	Monsignor Stanislaw Wielgus	LOCATION	PERSON
+1.0	broader task	study	issue	0	0
+1.0	Monsignor Stanislaw Wielgus	have	trips	O	O
+1.0	Wielgus 67	be	name in December by Pope Benedict XVI	NUMBER	PERSON
+1.0	Poland	with	communist-era secret police	LOCATION	0
+1.0	broader task	study	sensitive issue of tie between Church member	0	0
+1.0	Church	play	role in society	0	0
+1.0	Sluzba Bezpieczenstwa	have	issue	O	PERSON
+1.0	archbishop	collaborate with	Poland 's communist-era secret police	0	LOCATION
+1.0	country	have	ombudsman	O	O
+1.0	Monsignor Stanislaw Wielgus	however acknowledge	have call	0	0
+1.0	Wielgus 67	be bishop of	city	NUMBER	0
+1.0	The IPN	put	number of priest	ORGANIZATION	0
+1.0	task	study	issue	0	0
+1.0	investigator	launch	two probe	0	NUMBER
+1.0	Poland	have	population	O	LOCATION
+1.0	Wielgus	be	name	PERSON	0
+1.0	Monsignor Stanislaw Wielgus	be	due	PERSON	0
+0.9315865815883823	Glemp 77	lead critic of	Poland 's former communist regime	PERSON	LOCATION
+1.0	archbishop	collaborate for	decade	0	0
+1.0	The IPN	put	number	ORGANIZATION	0
+1.0	Wielgus	be	name in early December by Pope Benedict XVI	PERSON	DATE
+1.0	Warsaw Jozef Glemp	have	archbishop	O	PERSON
+1.0	Wielgus 67	be	name in early December by Pope Benedict XVI	NUMBER	DATE
+0.6936726056557001	Church	role in	society	0	0
+1.0	Wielgus	be name in	early December	PERSON	DATE
+1.0	task	study	issue of tie between Church member	0	0
+1.0	Monsignor Stanislaw Wielgus	acknowledge	have call in	0	0
+1.0	his	have	successor	O	O
+0.6936726056557001	Church	important role in	society	0	0
+1.0	broader task	study	sensitive issue	0	0
+1.0	Wielgus 67	be	currently bishop	NUMBER	DATE
+1.0	Wielgus 67	be currently bishop of	northern city	NUMBER	0
+1.0	archbishop	have	reputation	O	O
+1.0	Monsignor Stanislaw Wielgus	however acknowledge	have call in	0	0
+1.0	Poland	have	communist-era secret police	O	LOCATION
+1.0	new archbishop	collaborate for	decade	0	0
+1.0	communist regime	have	critic	O	O
+1.0	Wielgus 67	be name in	December	NUMBER	DATE
+1.0	Plock	have	city	O	LOCATION
+1.0	broader task	study	sensitive issue of tie	0	0
+1.0	ombudsman Janusz Kochanowski	be	meanwhile call	PERSON	0
+1.0	Poland	have	communist regime	O	LOCATION
+1.0	The IPN	put number at	8,334	ORGANIZATION	NUMBER
+1.0	Monsignor Stanislaw Wielgus	be	call	0	0
+1.0	trips	have	each	O	O

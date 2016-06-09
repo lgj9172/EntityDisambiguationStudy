@@ -1,0 +1,20 @@
+0.535977160805954	event	schedule	stage at Chamonix	0	LOCATION
+1.0	switch due	be	announce by World Cup director Gunther Hujara on Wednesday	0	MISC
+1.0	World Cup	ski	event	MISC	0
+1.0	switch	be	announce by World Cup director Gunther Hujara here on Wednesday	0	MISC
+1.0	switch due	be	announce	0	0
+1.0	switch due	be announce on	here Wednesday	0	DATE
+0.535977160805954	event	schedule	stage	0	0
+1.0	switch due	be announce on	Wednesday	0	DATE
+1.0	switch due	be announce by	World Cup director Gunther Hujara	0	MISC
+1.0	Gunther Hujara	be by	World Cup	PERSON	MISC
+0.535977160805954	event	originally schedule	stage	0	0
+1.0	switch due	be	announce by World Cup director Gunther Hujara here on Wednesday	0	MISC
+1.0	World Cup	ski	event schedule	MISC	0
+1.0	World Cup	ski	event originally schedule	MISC	0
+1.0	switch	be	announce	0	0
+0.535977160805954	event	originally schedule	stage at Chamonix	0	LOCATION
+1.0	switch	be announce on	Wednesday	0	DATE
+1.0	switch	be announce by	World Cup director Gunther Hujara	0	MISC
+1.0	switch	be announce on	here Wednesday	0	DATE
+1.0	switch	be	announce by World Cup director Gunther Hujara on Wednesday	0	MISC

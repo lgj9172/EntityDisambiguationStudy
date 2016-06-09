@@ -1,0 +1,24 @@
+1.0	country	have	former dictator	0	0
+1.0	aides	have	11	NUMBER	O
+1.0	life	be in	prison for genocide	0	0
+1.0	sentence	follow	Federal High Court 's conviction	0	ORGANIZATION
+1.0	he	name mengistu as	first	0	ORDINAL
+1.0	country	have	dictator	O	O
+1.0	ethiopian court	sentence	Mengistu Haile Mariam	0	PERSON
+1.0	ethiopian court	sentence	country 's former dictator	0	0
+1.0	Mengistu	have	December	DATE	LOCATION
+1.0	exile	be in	Zimbabwe	0	LOCATION
+1.0	court	forgo	death penalty	0	0
+1.0	sentence	follow	ethiopian Federal High Court 's conviction	0	ORGANIZATION
+1.0	property seizure	have	counts	O	O
+1.0	he	receive	punishment	0	0
+1.0	genocide imprisonment	have	counts	O	O
+1.0	judges	have	one	NUMBER	O
+1.0	Mur Mohammed	one of	three judge hear	PERSON	NUMBER
+1.0	country	's dictator be	Mengistu Haile Mariam	0	PERSON
+1.0	court	sentence	Mengistu Haile Mariam	0	PERSON
+1.0	court	sentence	country 's former dictator	0	0
+1.0	ethiopian court	forgo	death penalty	0	0
+1.0	he	name	Mengistu	0	PERSON
+1.0	Federal High Court	have	conviction	O	ORGANIZATION
+1.0	Mengistu	have	aides	O	O

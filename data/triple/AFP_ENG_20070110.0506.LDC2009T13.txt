@@ -1,0 +1,78 @@
+1.0	Sudan	have	Al-Hilal	PERSON	LOCATION
+1.0	Midfielder Claudio Ortiz	join	striker jeandet	PERSON	0
+1.0	leg	will	will stage in Casablanca with return match two week	0	DATE
+1.0	Midfielder Claudio Ortiz	join title holder from	argentine second division side Sarmiento	PERSON	ORDINAL
+1.0	Wydad Casablanca	have sign	two Argentinians	0	NUMBER
+1.0	leg	will	will stage two week	0	DATE
+1.0	first leg	will	will stage in Casablanca between January 26-28	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca between January 26-28	0	DATE
+1.0	Wydad Casablanca	have sign	two Argentinians ahead of they 2007 african Champions League debut	0	NUMBER
+1.0	first leg	will	will stage in Casablanca with return match two week	ORDINAL	DATE
+1.0	Wydad Casablanca	have sign	two Argentinians ahead of they 2007 Champions League debut	0	NUMBER
+1.0	first leg	will	will stage with return match in Nouakchott two week later	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca between January 26-28 two week	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca with return match in Nouakchott two week later	0	DATE
+1.0	first leg	will	will stage with return match	ORDINAL	0
+1.0	leg	will	will stage with return match two week later	0	DATE
+1.0	Midfielder Claudio Ortiz	join title holder from	division side Sarmiento	PERSON	PERSON
+1.0	leg	will	will stage in Casablanca with return match two week later	0	DATE
+1.0	leg	will	will stage with return match	0	0
+1.0	first leg	will	will stage two week	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match two week later	0	DATE
+1.0	leg	will	will stage with return match in Nouakchott	0	LOCATION
+1.0	first leg	will	will stage in Casablanca two week	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott two week	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott two week	0	DATE
+1.0	leg	will	will stage with return match in Nouakchott two week later	0	DATE
+1.0	first leg	will	will stage with return match in Nouakchott two week	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca with return match	0	LOCATION
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott two week later	0	DATE
+1.0	leg	will	will stage in Casablanca	0	LOCATION
+1.0	first leg	will	will stage with return match two week later	ORDINAL	DATE
+1.0	leg	will	will stage with return match two week	0	DATE
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match	0	DATE
+1.0	Champions League debut	have	Argentinians	MISC	O
+1.0	leg	will	will stage two week later	0	DATE
+1.0	Wydad Casablanca	have sign	two Argentinians of they 2007 african Champions League debut	0	NUMBER
+1.0	leg	will	will stage in Casablanca with return match in Nouakchott	0	LOCATION
+1.0	first leg	will	will stage two week later	ORDINAL	DATE
+1.0	first leg	will	will stage with return match in Nouakchott	ORDINAL	LOCATION
+1.0	first leg	will	will stage with return match two week	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca two week	0	DATE
+1.0	Midfielder Claudio Ortiz	join	striker christian jeandet	PERSON	0
+1.0	Wydad Casablanca	have sign	two Argentinians of they 2007 Champions League debut	0	NUMBER
+1.0	first leg	will	will stage in Casablanca with return match	ORDINAL	LOCATION
+1.0	first leg	will	will stage	ORDINAL	0
+1.0	Sarmiento	be from	argentine	PERSON	0
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match two week later	ORDINAL	DATE
+1.0	Sarmiento	be from	second	PERSON	ORDINAL
+1.0	Midfielder Claudio Ortiz	join title holder from	second division side Sarmiento	PERSON	ORDINAL
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott	0	DATE
+1.0	leg	will	will stage with return match in Nouakchott two week	0	DATE
+1.0	leg	will	will stage in Casablanca between January 26-28 two week later	0	DATE
+1.0	ASC Mauritel	be of	Mauritania	ORGANIZATION	LOCATION
+1.0	Morocco	have	Wydad Casablanca	O	LOCATION
+1.0	leg	will	will stage in Casablanca between January 26-28 two week	0	DATE
+1.0	Al-Hilal	be of	Sudan	PERSON	LOCATION
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match two week	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca with return match in Nouakchott two week later	ORDINAL	DATE
+1.0	leg	will	will stage in Casablanca two week later	0	DATE
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott two week later	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca with return match in Nouakchott two week	ORDINAL	DATE
+1.0	Mauritania	have	ASC Mauritel	ORGANIZATION	LOCATION
+1.0	Midfielder Claudio Ortiz	join	title holder	PERSON	0
+1.0	first leg	will	will stage in Casablanca with return match in Nouakchott	ORDINAL	LOCATION
+1.0	return match	be in	Nouakchott	0	LOCATION
+1.0	leg	will	will stage in Casablanca between January 26-28 with return match two week	0	DATE
+1.0	leg	will	will stage in Casablanca with return match in Nouakchott two week	0	DATE
+1.0	Midfielder Claudio Ortiz	join title holder from	argentine division side Sarmiento	PERSON	PERSON
+1.0	their	have	Champions League debut	O	O
+1.0	first leg	will	will stage in Casablanca between January 26-28 two week later	ORDINAL	DATE
+1.0	Midfielder Claudio Ortiz	join	moroccan title holder	PERSON	0
+1.0	Casablanca	be between	January 26-28	LOCATION	DATE
+1.0	leg	will	will stage	0	0
+1.0	first leg	will	will stage in Casablanca two week later	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca	ORDINAL	LOCATION
+1.0	first leg	will	will stage in Casablanca between January 26-28 with return match in Nouakchott	ORDINAL	DATE
+1.0	first leg	will	will stage in Casablanca with return match two week later	ORDINAL	DATE

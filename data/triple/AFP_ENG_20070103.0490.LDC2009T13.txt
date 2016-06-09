@@ -1,0 +1,5 @@
+1.0	last month	until	military coup	DATE	0
+1.0	Fiji	have	forces commander	O	LOCATION
+1.0	country	have	authority	O	O
+1.0	Fiji	have	armed force commander	LOCATION	0
+1.0	month	have	coup	O	DATE

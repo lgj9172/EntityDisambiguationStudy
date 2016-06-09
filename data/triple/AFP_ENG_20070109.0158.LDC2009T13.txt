@@ -1,0 +1,112 @@
+1.0	White House	rally support for	initiative	LOCATION	0
+1.0	he	posthumously award medal to	soldier kill in Iraq in Georgia	0	LOCATION
+0.4968793960127973	goal	set by	iraqi government	0	0
+1.0	Kennedy	tell	NBC 's program	PERSON	ORGANIZATION
+1.0	Fort Benning base	have	visit	O	O
+1.0	conflict	have	escalation	O	O
+1.0	18 percent	see	more US troops	PERCENT	LOCATION
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	percent	call for	complete withdrawal	PERCENT	0
+1.0	`	be	why it	0	0
+1.0	their	have	options	O	O
+1.0	percent	see us troops in	Iraq	PERCENT	LOCATION
+1.0	White House	sell	US public	ORGANIZATION	LOCATION
+1.0	29 percent	call for	complete withdrawal	PERCENT	0
+1.0	he	posthumously award medal to	soldier kill in Iraq	0	LOCATION
+1.0	goal	protect	Baghdad	0	LOCATION
+1.0	White House	rally	support	LOCATION	0
+1.0	he	posthumously award medal to	soldier	0	0
+1.0	US President George W. Bush	face opposition home with	lawmaker	LOCATION	0
+1.0	US President George W. Bush on Tuesday	have	plan	O	O
+1.0	democratic Senator Ted Kennedy	say at_time	Tuesday	PERSON	DATE
+1.0	Bush	push	he initiative	PERSON	0
+1.0	he	award medal to	soldier	0	0
+1.0	he	posthumously award	medal of honor	0	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	18 percent	see us troops in	Iraq	PERCENT	LOCATION
+1.0	White House	anticipate	fierce resistance	ORGANIZATION	0
+1.0	US President George W. Bush	escalate	unpopular Iraq war	LOCATION	LOCATION
+1.0	last week	be in	large part thanks	DATE	0
+1.0	new opinion poll	find	US believe	0	LOCATION
+1.0	lawmaker	say after	talk	0	0
+0.5134306820972369	USA Today/Gallup survey	take through	Sunday	ORGANIZATION	DATE
+1.0	White House	have map	aggressive strategy	ORGANIZATION	0
+1.0	US President George W. Bush	face opposition with	lawmaker	LOCATION	0
+1.0	questions	have	lot	O	O
+1.0	approval	stand at	26 percent	0	PERCENT
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	percent	seek	decrease	PERCENT	0
+1.0	fierce clash	meanwhile rage in	Baghdad	0	LOCATION
+1.0	he	award medal to	soldier kill in Iraq in Georgia	0	LOCATION
+1.0	White House	have map	strategy	ORGANIZATION	0
+1.0	he	posthumously award medal to	soldier kill in Georgia	0	LOCATION
+1.0	fierce clash	rage in	Baghdad	0	LOCATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	president 's job approval rating	be in	dump	0	0
+1.0	Bush	have	handling	O	PERSON
+1.0	he	award medal to	soldier kill in Georgia	0	LOCATION
+1.0	president	have	address	O	O
+1.0	NBC	have	today program	ORGANIZATION	0
+1.0	Americans	send	more US troops	MISC	LOCATION
+1.0	US President George W. Bush	escalate	Iraq war	LOCATION	LOCATION
+1.0	18 percent	see	US troops	PERCENT	LOCATION
+1.0	US President George W. Bush on Tuesday	have	years	DATE	O
+1.0	percent	see	more US troops	PERCENT	LOCATION
+0.5134306820972369	USA Today/Gallup survey	take	Friday	ORGANIZATION	DATE
+1.0	most Americans	send	more US troops	MISC	LOCATION
+1.0	US President George W. Bush	face opposition home with	many lawmaker	LOCATION	0
+1.0	Iraq	have	reconciliation	O	LOCATION
+1.0	White House	anticipate	resistance	ORGANIZATION	0
+1.0	Bush	of	handling of Iraq situation	PERSON	LOCATION
+1.0	Senator Ted Kennedy	say at_time	Tuesday	PERSON	DATE
+1.0	its	have	goals	O	O
+1.0	`	be	it	0	0
+1.0	Americans	send	US troops	MISC	LOCATION
+1.0	opinion poll	find	US believe	0	LOCATION
+1.0	he	award medal to	soldier kill	0	0
+1.0	he	award	medal	0	0
+1.0	clash	rage in	Baghdad	0	LOCATION
+1.0	Defense Secretary Robert Gates	have	US Secretary	O	PERSON
+1.0	Iraq situation	have	handling	O	O
+1.0	George W. Bush	be on	Tuesday	PERSON	DATE
+1.0	he	posthumously award	medal	0	0
+1.0	29 percent	call for	withdrawal	PERCENT	0
+1.0	lawmaker	say at	White House	0	LOCATION
+1.0	30 percent	seek	decrease	PERCENT	0
+1.0	other	have fail over	four year	0	DURATION
+1.0	he	posthumously award medal to	soldier kill	0	0
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Iraq	have	political reconciliation	LOCATION	0
+1.0	handling	have	Approval	O	O
+1.0	NBC	have	program	O	ORGANIZATION
+1.0	he	award	medal of honor	0	0
+1.0	dump	be in	large part	0	0
+1.0	`	be	why it important	0	0
+1.0	last two year	be in	office	DATE	0
+1.0	he	award medal to	soldier kill in Iraq	0	LOCATION
+1.0	`	be	it important	0	0
+1.0	three	have	error margin	O	NUMBER
+1.0	Honor	have	Medal	O	O
+1.0	Ted Kennedy	be	democratic	PERSON	0
+1.0	new public opinion poll	find	US believe	0	LOCATION
+1.0	percent	see	US troops	PERCENT	LOCATION
+1.0	percent	call for	withdrawal	PERCENT	0
+1.0	senior democratic Senator Ted Kennedy	say at_time	Tuesday	PERSON	DATE
+1.0	public opinion poll	find	US believe	0	LOCATION
+1.0	most Americans	send	US troops	MISC	LOCATION
+1.0	them	have	3,000	NUMBER	O
+1.0	president	have	job approval ratings	O	O
+1.0	US President George W. Bush	face opposition with	many lawmaker	LOCATION	0
+0.4968793960127973	goal	set by	government	0	0
+0.9129447633152606	Kennedy	member of	Armed Services Committee	PERSON	ORGANIZATION
+1.0	Armed Services Committee	have	member	O	ORGANIZATION
+1.0	clash	meanwhile rage in	Baghdad	0	LOCATION
+1.0	White House	sell us public on	plan	ORGANIZATION	0
+1.0	Kennedy	member of	Armed Services Committee	PERSON	ORGANIZATION
+0.7527856496348748	funding	block	escalation of conflict	0	0
+1.0	president	with	job approval rating in dump in large part	0	0
+1.0	his	have	initiative	O	O
+1.0	approval	stand at	record low	0	0
+0.802889070622216	he	medal of	honor	0	0
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	troops	have	deployment	O	O

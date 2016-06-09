@@ -1,0 +1,16 @@
+1.0	Beijing	cement tie with	many african nation in effort	LOCATION	0
+1.0	China Southern Airlines	say in	statement	ORGANIZATION	0
+1.0	China	have	demand	O	LOCATION
+1.0	China Southern Airlines	say at_time	Thursday	ORGANIZATION	DATE
+1.0	nation	have	carriers	O	O
+1.0	China Southern Airlines	have	flight	O	O
+1.0	China 's	have	economy	O	O
+1.0	China 's demand	have lead	Beijing	LOCATION	LOCATION
+1.0	many african nation	be in	effort	0	0
+1.0	carriers	have	one	NUMBER	O
+1.0	nation	of	largest carrier	0	0
+1.0	China	have	increase demand for energy material feed	LOCATION	0
+1.0	China 's increase demand	have lead	Beijing	LOCATION	LOCATION
+1.0	China Southern Airlines	one of	nation 's largest carrier	ORGANIZATION	0
+1.0	stopover	be in	Dubai	0	LOCATION
+1.0	Beijing	cement tie with	african nation in effort	LOCATION	0

@@ -1,0 +1,17 @@
+1.0	police president Vladislav Husak	tell radio at_time	morning	PERSON	TIME
+1.0	police president Vladislav Husak	tell	czech radio	PERSON	0
+1.0	bomb alert	cover	school	0	0
+1.0	police	say in	statement	0	0
+1.0	some	cancel	lesson	0	0
+1.0	bomb alert	cover	christian school	0	0
+1.0	church schools	have	search	O	O
+1.0	police president Vladislav Husak	tell	public radio	PERSON	0
+1.0	police president Vladislav Husak	tell	radio	PERSON	0
+1.0	police president Vladislav Husak	tell	czech public radio	PERSON	0
+1.0	some	cancel lesson in	response	0	0
+1.0	police president Vladislav Husak	tell radio on	early Friday	PERSON	DATE
+1.0	church schools	have	Some	O	O
+1.0	some	cancel lesson to	threat	0	0
+1.0	40 church school	be in	Prague	NUMBER	LOCATION
+1.0	bomb alert	appear accord to	news agency CTK	0	ORGANIZATION
+1.0	well-known jewish school	be in	city	0	0

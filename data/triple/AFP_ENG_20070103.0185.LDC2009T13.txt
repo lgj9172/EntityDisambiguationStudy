@@ -1,0 +1,56 @@
+1.0	sentence	be	40 year	0	DURATION
+1.0	maximum sentence	be	under current spanish law 40 year	0	DURATION
+1.0	maximum sentence	be	under spanish law 40 year	0	DURATION
+1.0	sentence	be	under current spanish law however 40 year in prison	0	DURATION
+1.0	maximum sentence	be	under law 40 year	0	DURATION
+1.0	maximum sentence	be	under law however 40 year in prison	0	DURATION
+1.0	Cadiz	have	town	O	LOCATION
+1.0	maximum sentence	be	however 40 year	0	DURATION
+1.0	most	be	Moroccan	0	MISC
+1.0	sentence	be	under spanish law 40 year in prison	0	DURATION
+1.0	whom	have	most	O	O
+1.0	sentence	be	however 40 year in prison	0	DURATION
+1.0	sentence	be	under current law however 40 year in prison	0	DURATION
+1.0	arrest	take place in	town of Cadiz	0	LOCATION
+1.0	maximum sentence	be	under current spanish law 40 year in prison	0	DURATION
+1.0	years	have	total	O	DURATION
+1.0	arrest	take	place	0	0
+1.0	station	say in	Coruna	0	LOCATION
+1.0	40 year	be in	prison	DURATION	0
+1.0	maximum sentence	be	under spanish law however 40 year	0	DURATION
+1.0	station	say in	west	0	0
+1.0	they	be	order	0	0
+1.0	maximum sentence	be	40 year in prison	0	DURATION
+1.0	sentence	be	under law 40 year in prison	0	DURATION
+1.0	sentence	be	under current law however 40 year	0	DURATION
+1.0	sentence	be	under law however 40 year in prison	0	DURATION
+1.0	arrest	take place in	Spain	0	LOCATION
+1.0	sentence	be	under current spanish law however 40 year	0	DURATION
+1.0	sentence	be	under law however 40 year	0	DURATION
+1.0	maximum sentence	be	under current law 40 year in prison	0	DURATION
+1.0	maximum sentence	be	under spanish law however 40 year in prison	0	DURATION
+1.0	arrest	take place in	town	0	0
+1.0	sentence	be	under current law 40 year	0	DURATION
+1.0	sentence	be	under spanish law 40 year	0	DURATION
+1.0	sentence	be	under spanish law however 40 year	0	DURATION
+1.0	sentence	be	under current spanish law 40 year	0	DURATION
+1.0	maximum sentence	be	under current law however 40 year in prison	0	DURATION
+1.0	maximum sentence	be	under current law 40 year	0	DURATION
+1.0	sentence	be	under current spanish law 40 year in prison	0	DURATION
+1.0	sentence	be	under spanish law however 40 year in prison	0	DURATION
+1.0	maximum sentence	be	under law 40 year in prison	0	DURATION
+1.0	maximum sentence	be	however 40 year in prison	0	DURATION
+1.0	charge	investigate	Madrid bombing	0	LOCATION
+1.0	maximum sentence	be	40 year	0	DURATION
+1.0	2004 bombing	be in	Madrid	DATE	LOCATION
+1.0	sentence	be	however 40 year	0	DURATION
+1.0	maximum sentence	be	under current spanish law however 40 year in prison	0	DURATION
+1.0	maximum sentence	be	under current spanish law however 40 year	0	DURATION
+1.0	maximum sentence	be	under law however 40 year	0	DURATION
+1.0	maximum sentence	be	under spanish law 40 year in prison	0	DURATION
+1.0	sentence	be	under current law 40 year in prison	0	DURATION
+1.0	sentence	be	under law 40 year	0	DURATION
+1.0	sentence	be	40 year in prison	0	DURATION
+1.0	maximum sentence	be	under current law however 40 year	0	DURATION
+1.0	arrest	take place in	southern Spain	0	LOCATION
+1.0	terrorism	have	act	O	O

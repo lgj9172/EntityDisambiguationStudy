@@ -1,0 +1,41 @@
+1.0	Alexander Litvinenko	be of	russian	PERSON	0
+1.0	more than 100 witnesses	have	inquiry	O	O
+1.0	british detective	travel to	Moscow	0	LOCATION
+1.0	Britain	have announce murder inquiry into	he death	LOCATION	0
+1.0	Alexander Litvinenko	die after	agonising illness cause by radiation poisoning	PERSON	0
+1.0	british detective	question witness as	part	0	0
+1.0	Alexander Litvinenko	die in	hospital	PERSON	0
+1.0	Alexander Litvinenko	die after	illness cause by radiation poisoning	PERSON	0
+1.0	british police	operate under	strict condition	0	0
+1.0	british detective	question witness as	part of they inquiry	0	0
+1.0	police	operate under	condition	0	0
+1.0	Britain	have announce	murder inquiry	LOCATION	0
+1.0	questions	have	lot	O	O
+1.0	Russia	have	deputy prosecutor general	LOCATION	0
+1.0	Alexander Litvinenko	die after	agonising illness cause	PERSON	0
+1.0	inquiry	have	part	O	O
+1.0	Alexander Litvinenko	have	death	O	O
+1.0	Alexander Litvinenko	die after	illness cause	PERSON	0
+1.0	detective	travel to	Moscow	0	LOCATION
+1.0	detective	travel in	December	0	DATE
+1.0	President Vladimir Putin	have	critic	O	PERSON
+1.0	detective	question	witness	0	0
+1.0	Alexander Litvinenko	die in	November	PERSON	DATE
+1.0	Alexander Litvinenko	die after	agonising illness	PERSON	0
+1.0	detective	question witness as	part of they inquiry	0	0
+1.0	detective	question witness as	part	0	0
+1.0	british detective	question	witness	0	0
+1.0	official	say at_time	Friday	0	DATE
+1.0	british detective	travel in	December	0	DATE
+1.0	checks	have	dozens	O	O
+1.0	Alexander Zvyagintsev	say with	government	PERSON	0
+1.0	agent Alexander Litvinenko	have	poisoning	O	PERSON
+1.0	Alexander Zvyagintsev	say with	government own	PERSON	0
+1.0	Alexander Litvinenko	die after	illness	PERSON	0
+1.0	police	operate under	strict condition	0	0
+1.0	Alexander Litvinenko	die in	hospital in London	PERSON	LOCATION
+1.0	100 witness	be in	Britain	NUMBER	LOCATION
+1.0	hospital	be in	London	0	LOCATION
+1.0	Alexander Zvyagintsev	say in	interview	PERSON	0
+1.0	british police	operate under	condition	0	0
+1.0	Russia	have	deputy prosecutor	O	LOCATION

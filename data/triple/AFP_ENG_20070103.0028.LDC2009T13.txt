@@ -1,0 +1,42 @@
+1.0	Mumbai	from kilometre be	74 mile	LOCATION	NUMBER
+1.0	cause	be investigate by	police	0	0
+1.0	he	misbehave with	newspaper report quote	0	0
+1.0	Nirmala Rane	have	door	O	PERSON
+1.0	her	have	husband Ramesh	PERSON	O
+1.0	India	have	Mumbai	LOCATION	LOCATION
+1.0	police	say at_time	Wednesday	0	DATE
+1.0	she	see	stranger approach	0	0
+1.0	Madhukar Talpade	be	quote	PERSON	0
+1.0	roha	lie	120 kilometre from India 's financial Mumbai	0	LOCATION
+1.0	woman	from	family	0	0
+1.0	Madhukar Talpade	be quote by	Times of India	PERSON	ORGANIZATION
+1.0	Goa	have	resort state	O	LOCATION
+1.0	he	misbehave with	newspaper report	0	0
+1.0	Talpade	tell	Times	PERSON	ORGANIZATION
+1.0	Talpade	tell	Times of India	PERSON	ORGANIZATION
+1.0	her	have	porch	O	O
+1.0	woman	have	family	O	O
+1.0	Bennett	have	body	O	PERSON
+1.0	India	have	Times	ORGANIZATION	ORGANIZATION
+1.0	Roha	be on	December 12	LOCATION	DATE
+1.0	men	have	two	NUMBER	O
+1.0	roha	lie	120 kilometre from India 's Mumbai	0	LOCATION
+1.0	Rane	bolt	door	PERSON	0
+1.0	misbehaviour	have	nature	O	O
+1.0	death	have	cause	O	O
+1.0	british High Commission spokeswoman	be in	New Delhi	ORGANIZATION	LOCATION
+1.0	jungle	be in	Roha	0	LOCATION
+1.0	Bennett	be	kill	PERSON	0
+1.0	Stephen Bennett	be	40	PERSON	NUMBER
+1.0	he	misbehave with	woman	0	0
+1.0	roha	lie	74 mile	0	NUMBER
+1.0	cause	be investigate by	indian police	0	0
+1.0	roha	lie	120 kilometre	0	NUMBER
+1.0	December	have	hours	DATE	DATE
+1.0	villager	be in	Roha	0	PERSON
+1.0	Madhukar Talpade	be quote by	Times	PERSON	ORGANIZATION
+1.0	A British tourist	have	have kill	0	0
+1.0	cause	be	investigate	0	0
+1.0	India	from	Mumbai	LOCATION	LOCATION
+1.0	Cheltenham	have	40	NUMBER	LOCATION
+1.0	they	be treat	The cause of death	0	0

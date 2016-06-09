@@ -1,0 +1,57 @@
+1.0	London	be to	Cuba	LOCATION	LOCATION
+1.0	US naval base	be in	Guantanamo Bay	ORGANIZATION	LOCATION
+1.0	Matthew Daloisio	member of	Witness against Torture	PERSON	ORGANIZATION
+1.0	people	have	name	O	O
+1.0	many wear orange prison jumpsuit	head	black hood	0	0
+1.0	protesters	have	gathering	O	O
+1.0	those	have	Most	O	O
+1.0	Washington demonstration	be	from London to Cuba call for immediate closure	LOCATION	LOCATION
+1.0	Washington demonstration	be call for	immediate closure of US detention camp	LOCATION	LOCATION
+1.0	wear orange prison jumpsuit	head	black hood	0	0
+1.0	terror prison	be in	Guantanamo Bay	0	LOCATION
+1.0	those arrested	have	identification	O	O
+1.0	demonstration	mark anniversary at	US naval base in Guantanamo	0	ORGANIZATION
+1.0	demonstration	mark	fifth anniversary of arrival of first detainee	0	ORDINAL
+1.0	demonstration	begin at_time	early Thursday	0	DATE
+1.0	Washington demonstration	be	from London to Cuba call for immediate closure of US detention camp	LOCATION	LOCATION
+1.0	police	confirm	arrest	0	0
+1.0	jumpsuit-clad protester	remain at	courthouse	0	0
+1.0	jumpsuit-clad protester	remain outside at	courthouse	0	0
+1.0	Washington demonstration	be call for	immediate closure	LOCATION	0
+1.0	demonstration	mark	anniversary of arrival	0	0
+1.0	arrival	have	anniversary	O	O
+1.0	demonstration	mark	fifth anniversary	0	ORDINAL
+1.0	Washington demonstration	be call from	London to Cuba	LOCATION	LOCATION
+1.0	the Guantanamo detainees	have	detention	O	O
+1.0	demonstration	mark anniversary at	US naval base	0	ORGANIZATION
+1.0	Washington demonstration	be call from	London	LOCATION	LOCATION
+1.0	Washington demonstration	be	from London call for immediate closure of US detention camp	LOCATION	LOCATION
+1.0	Washington demonstration	be call for	closure	LOCATION	0
+1.0	organization Witness	have	member	O	ORGANIZATION
+1.0	Washington demonstration	be	from London to Cuba call for closure of US detention camp	LOCATION	LOCATION
+1.0	detainees	have	arrival	O	O
+1.0	demonstration	begin with	gathering of 250 protester outside US Supreme Court building	0	ORGANIZATION
+1.0	Washington demonstration	be	from London call for closure of US detention camp	LOCATION	LOCATION
+1.0	series	have	part	O	O
+1.0	demonstration	mark	anniversary of arrival of first detainee	0	ORDINAL
+1.0	Washington demonstration	be	from London to Cuba call for closure	LOCATION	LOCATION
+1.0	them	have	half	O	O
+1.0	protester	remain outside at	courthouse	0	0
+1.0	Washington demonstration	be call for	closure of US detention camp	LOCATION	LOCATION
+1.0	Washington demonstration	be	from London call for immediate closure	LOCATION	LOCATION
+1.0	Washington demonstration	be	from London call for closure	LOCATION	LOCATION
+1.0	demonstration	begin with	gathering	0	0
+1.0	demonstration	mark anniversary at	US base	0	ORGANIZATION
+1.0	demonstration	mark	anniversary of arrival of detainee	0	0
+1.0	protester	remain at	courthouse	0	0
+1.0	demonstration	begin with	gathering of 250 protester	0	NUMBER
+1.0	protests	have	series	O	O
+1.0	Washington demonstration	be	call	LOCATION	0
+1.0	demonstration	begin at_time	Thursday	0	DATE
+1.0	other	enter	building	0	0
+1.0	US detention camp	have	closure	O	O
+1.0	police	be in	Washington	0	LOCATION
+1.0	demonstration	mark	fifth anniversary of arrival of detainee	0	ORDINAL
+1.0	demonstration	mark anniversary at	US base in Guantanamo	0	ORGANIZATION
+1.0	demonstration	mark	fifth anniversary of arrival	0	ORDINAL
+1.0	demonstration	mark	anniversary	0	0

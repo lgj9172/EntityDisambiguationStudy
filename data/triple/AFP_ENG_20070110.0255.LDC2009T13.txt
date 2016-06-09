@@ -1,0 +1,130 @@
+1.0	hundred	gather in	Beirut Wednesday	0	DATE
+1.0	protester	gather amid	security	0	0
+1.0	The protesters	be	fewer than similar protest previous day outside finance ministry	DATE	DATE
+1.0	The protesters	be fewer outside	finance ministry	DATE	0
+1.0	The protesters	be	fewer than similar protest day outside finance ministry	DATE	DATE
+1.0	The protesters	be	fewer in number than protest outside finance ministry	DATE	0
+1.0	labor union protest	have	day	DATE	O
+1.0	government	have	plan	O	O
+1.0	reforms	have	cost	O	O
+1.0	The protesters	be	fewer in number than similar protest day outside finance ministry	DATE	DATE
+1.0	privatization	could impact	telephone	0	0
+1.0	government	against	plan for economic reform	0	0
+1.0	this	be	general	0	0
+1.0	opposition	accuse	those in power	0	0
+0.4748201593110141	reform plan	approve by	western-backed government	0	0
+1.0	The protesters	be	fewer than similar protest day	DATE	DATE
+1.0	demonstration	be organize by	Confederation	0	ORGANIZATION
+0.4748201593110141	reform plan	approve by	western-backed government ahead donor conference	0	0
+1.0	L'Orient Le Jour	blame turnout on	state of weariness	ORGANIZATION	0
+1.0	The protesters	be	fewer than similar protest outside finance ministry	DATE	0
+1.0	people	have	discontent	O	O
+1.0	Fuad Siniora	by	government	PERSON	0
+0.4748201593110141	reform plan	approve by	government donor conference	0	0
+1.0	protester	gather amid	tight security	0	0
+1.0	Labor Unions	have	Confederation	ORGANIZATION	ORGANIZATION
+0.01311160545069101	population	have	have reduce	0	0
+1.0	hundred	gather for	second day of labor union protest	0	DATE
+1.0	The protesters	be	fewer in number than protest day	DATE	DATE
+1.0	The protesters	be fewer than	protest	DATE	0
+1.0	The protesters	be fewer at_time	previous day	DATE	DATE
+1.0	small crowd	be in	comparison with pair of massive opposition rally	0	0
+1.0	press	highlight	relatively small crowd	0	0
+1.0	Prime Minister Fuad Siniora 's government	have	majority	O	O
+1.0	The protesters	be fewer in	number	DATE	0
+1.0	hundred	gather in	central Beirut Wednesday	0	DATE
+1.0	CGTL chief Ghassan Ghosn	ask about	small turnout	PERSON	0
+1.0	The protesters	be	fewer day outside finance ministry	DATE	DATE
+1.0	The protesters	be	fewer than protest previous day outside finance ministry	DATE	DATE
+1.0	french-language L'Orient Le Jour	blame	turnout	ORGANIZATION	0
+1.0	people	demonstrate outside	finance ministry	0	0
+1.0	impasse	have	weeks	DURATION	O
+1.0	The protesters	be	fewer in number than protest	DATE	0
+1.0	The protesters	be	fewer than protest outside finance ministry	DATE	0
+1.0	people	demonstrate around	1,000	0	NUMBER
+1.0	The protesters	be	fewer than protest day	DATE	DATE
+1.0	The protesters	be	fewer in number than similar protest outside finance ministry	DATE	0
+1.0	demonstration	be organize by	200,000-strong Confederation	0	ORGANIZATION
+1.0	weariness	have	state	O	O
+0.4748201593110141	reform plan	approve by	western-backed government international donor conference	0	0
+1.0	demonstration	be organize by	200,000-strong Confederation of Labor union	0	ORGANIZATION
+1.0	people	be prepare	escalation	0	0
+1.0	cost	be	too high	0	0
+0.4748201593110141	reform plan	approve by	western-backed government donor conference	0	0
+0.01311160545069101	population	have	have reduce after six week	0	DURATION
+0.503548576754184	Paris III donor conference	schedule for	January 25	LOCATION	DATE
+1.0	hundred	gather against	government 's plan for reform	0	0
+1.0	speech	criticize	government 's economic policy	0	0
+1.0	The protesters	be	fewer than similar protest previous day	DATE	DATE
+1.0	cost	lead to	tax rise	0	0
+1.0	thousand	converge on	capital	0	0
+0.4748201593110141	reform plan	approve by	government ahead donor conference	0	0
+1.0	press	highlight	small crowd	0	0
+0.4748201593110141	reform plan	approve by	western-backed government ahead international donor conference	0	0
+1.0	thousand	converge in	bid	0	0
+0.01311160545069101	population	have	have reduce after six week of impasse	0	DURATION
+1.0	L'Orient Le Jour	be	french-language	ORGANIZATION	0
+1.0	tax	privatize	service sector	0	0
+1.0	government	have	economic policy	0	0
+1.0	people	express	they discontent	0	0
+1.0	hundred	gather against	government 's plan	0	0
+1.0	propose privatization	could impact	telephone	0	0
+1.0	Prime Minister Fuad Siniora	have	government	O	PERSON
+1.0	The protesters	be	fewer than protest previous day	DATE	DATE
+1.0	propose privatization	could impact	mobile telephone	0	0
+1.0	hundred	gather against	government 's plan for economic reform	0	0
+1.0	The protesters	be	fewer in number than protest previous day outside finance ministry	DATE	DATE
+1.0	thousand	converge at_time	last month	0	DATE
+1.0	donor conference	have	government	O	O
+1.0	The protesters	be	fewer than protest day outside finance ministry	DATE	DATE
+1.0	The protesters	be fewer than	similar protest	DATE	0
+1.0	Ghassan Ghosn	be chief of	cgtl	PERSON	0
+0.4748201593110141	reform plan	approve by	government ahead international donor conference	0	0
+1.0	change	be in	government	0	0
+1.0	The protesters	be	fewer in number previous day outside finance ministry	DATE	DATE
+1.0	opposition rallies	have	pair	O	O
+1.0	privatization	could impact	mobile telephone	0	0
+1.0	government	have	policies	O	O
+1.0	The protesters	be	fewer in number than similar protest	DATE	0
+1.0	hundred	gather for	second day	0	DATE
+1.0	The protesters	be	fewer in number than similar protest previous day outside finance ministry	DATE	DATE
+1.0	demonstration	be	organize	0	0
+1.0	hundred	gather for	day of labor union protest	0	DATE
+1.0	The protesters	be	fewer in number previous day	DATE	DATE
+1.0	demonstrators	have	Hundreds	O	O
+1.0	The protesters	be	fewer in number than protest previous day	DATE	DATE
+1.0	The protesters	be	fewer in number than similar protest previous day	DATE	DATE
+1.0	The protesters	be	fewer previous day outside finance ministry	DATE	DATE
+1.0	people	demonstrate at_time	Tuesday	0	DATE
+1.0	The protesters	be	fewer in number day outside finance ministry	DATE	DATE
+1.0	The protesters	be	fewer in number outside finance ministry	DATE	0
+1.0	demonstration	be	support	0	0
+1.0	Ghassan Ghosn	be	cgtl	PERSON	0
+1.0	protesters	have	thousands	O	O
+1.0	The protesters	be fewer at_time	day	DATE	DATE
+1.0	The protesters	be	fewer	DATE	0
+1.0	french-language L'Orient Le Jour	blame turnout on	state of weariness	ORGANIZATION	0
+1.0	value-added tax	privatize	service sector	0	0
+1.0	protesters	have	Many	O	O
+1.0	comparison	be with	pair of massive opposition rally	0	0
+1.0	L'Orient Le Jour	blame	turnout	ORGANIZATION	0
+1.0	speech	criticize	government 's policy	0	0
+1.0	The protesters	be	fewer in number than protest day outside finance ministry	DATE	DATE
+1.0	labor chief	give	speech	0	0
+1.0	protester	gather outside	electricity ministry	0	0
+1.0	many	be	young man	0	0
+0.4748201593110141	reform plan	approve by	government international donor conference	0	0
+1.0	press	highlight	crowd	0	0
+1.0	L'Orient Le Jour	blame turnout on	state	ORGANIZATION	0
+1.0	many	be	man	0	0
+1.0	The protesters	be	fewer in number day	DATE	DATE
+1.0	opposition	accuse	those	0	0
+1.0	protester	gather by	police guard	0	0
+1.0	demonstration	be organize by	Confederation of Labor union	0	ORGANIZATION
+1.0	The protesters	be	fewer in number than similar protest day	DATE	DATE
+1.0	french-language L'Orient Le Jour	blame turnout on	state	ORGANIZATION	0
+1.0	CGTL chief Ghassan Ghosn	ask about	turnout	PERSON	0
+1.0	thousand	converge at_time	month	0	DATE
+1.0	hundred	gather for	day	0	DATE
+0.4748201593110141	reform plan	approve by	government	0	0
+1.0	cost	be	high	0	0

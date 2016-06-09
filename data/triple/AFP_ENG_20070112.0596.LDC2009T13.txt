@@ -1,0 +1,45 @@
+1.0	Tyson	drive in	Scottsdale Arizona	PERSON	LOCATION
+1.0	police	find	three bag	0	NUMBER
+1.0	charge	include	felony possession	0	0
+1.0	Maricopa County Attorney	have	office	O	O
+1.0	drugs	have	influence	O	O
+1.0	Tyson 's previous run-in	be with	law	PERSON	0
+1.0	boxer	have	car	O	O
+1.0	state	for	drug-treatment programme	0	0
+1.0	Tyson 40	drive under	influence	NUMBER	0
+1.0	cocaine	have	bags	O	O
+1.0	Tyson	have	run-ins	O	PERSON
+1.0	former heavyweight boxing champion Mike Tyson	be	indict	PERSON	0
+1.0	his	have	car	O	O
+1.0	two misdemeanor count	drive under	influence drug	NUMBER	0
+1.0	drug paraphernalia	have	felony possession	O	O
+1.0	Tyson	be	arrest	PERSON	0
+1.0	rape	have	Indiana	LOCATION	O
+1.0	Tyson	have	previous run-in with law	PERSON	0
+1.0	court	seek	prison time	0	0
+1.0	narcotics	have	felony possession	O	O
+1.0	former boxing champion Mike Tyson	be	indict	PERSON	0
+1.0	former heavyweight boxing champion Mike Tyson	drive under	influence	PERSON	0
+1.0	charge	include	felony possession of narcotic	0	0
+1.0	Arizona prosecutor	announce on	Friday	LOCATION	DATE
+1.0	Tyson	drive under	influence December 29	PERSON	DATE
+1.0	former boxing champion Mike Tyson	be indict on	felony drug charge	PERSON	0
+1.0	Lotstein	say on	Friday	PERSON	DATE
+1.0	Tyson	be	40	PERSON	NUMBER
+1.0	Tyson 40	be	arrest	NUMBER	0
+1.0	misdemeanor counts	have	felony possession	O	O
+1.0	Tyson	be	40-year-old	PERSON	DURATION
+1.0	police	find	three bag of cocaine	0	NUMBER
+1.0	felony possession	have	felony possession	O	O
+1.0	year	be in	jail	0	0
+1.0	Tyson 40	drive under	influence December 29	NUMBER	DATE
+1.0	former boxing champion Mike Tyson	drive under	influence	PERSON	0
+1.0	Maricopa County Attorney	for	office	LOCATION	0
+1.0	two misdemeanor count	drive under	influence	NUMBER	0
+1.0	Barnett Lotstein	spokesman for	Maricopa County Attorney 's office	PERSON	LOCATION
+1.0	state	have	drug-treatment programme	O	O
+1.0	Tyson 40	drive in	Scottsdale Arizona	NUMBER	LOCATION
+1.0	former boxer	in	car	0	0
+1.0	Tyson	drive under	influence	PERSON	0
+1.0	former heavyweight boxing champion Mike Tyson	be indict on	felony drug charge	PERSON	0
+1.0	he	leave	bar	0	0

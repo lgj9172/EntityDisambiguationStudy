@@ -1,0 +1,54 @@
+1.0	he economy minister	say at_time	Tuesday	0	DATE
+1.0	leftist President-elect Rafael Correa	have	economy minister	O	O
+1.0	he	be friend of	populist anti-american president	0	0
+1.0	he	be friend of	Hugo Chavez	0	PERSON
+1.0	leftist President-elect Rafael Correa	renegotiate debt in	December	0	DATE
+1.0	he	be friend of	president	0	0
+1.0	he	be friend of	populist venezuelan president	0	0
+1.0	he	be	close friend	0	0
+1.0	he	be close friend of	anti-american venezuelan president	0	0
+1.0	he	be friend of	anti-american venezuelan president	0	0
+1.0	country 's agreement	be with	International Monetary Fund	0	ORGANIZATION
+1.0	Correa	invoke	life	PERSON	0
+1.0	president	have	friend	O	O
+1.0	presidents	have	one	NUMBER	O
+1.0	he	be close friend of	populist anti-american president	0	0
+1.0	its	have	debt	O	O
+1.0	he	be	elect	0	0
+1.0	we credit relation	be with	Fund	0	0
+1.0	Correa	capture	56.6 percent	PERSON	PERCENT
+1.0	he	be close friend of	venezuelan president	0	0
+1.0	Correa	capture	56.6 percent of November 26 presidential vote	PERSON	DATE
+1.0	he	be close friend of	populist anti-american venezuelan president	0	0
+1.0	he	be	recently elect	0	DATE
+1.0	Ecuador	have	debt	O	LOCATION
+1.0	he	be close friend of	populist president	0	0
+1.0	he	be close friend of	president	0	0
+1.0	Argentina	have	model	O	LOCATION
+1.0	the International Monetary Fund	have	member nation	O	ORGANIZATION
+1.0	intention	have	letter	O	O
+1.0	Correa	defeat	billionaire	PERSON	0
+1.0	Correa	say	invoke	PERSON	0
+1.0	country	have	agreement with International Monetary Fund	0	ORGANIZATION
+1.0	President-elect Rafael Correa	have	government	O	PERSON
+1.0	its	have	IMF debt	O	O
+1.0	product	have	percent	PERCENT	O
+1.0	he	be friend of	populist president	0	0
+1.0	he	be close friend of	Hugo Chavez	0	PERSON
+1.0	he	be close friend of	anti-american president	0	0
+1.0	he	be friend of	venezuelan president	0	0
+1.0	country	have	agreements	O	O
+1.0	he	be recently elect in	South America	0	LOCATION
+1.0	We	have	credit relation	O	O
+1.0	he	be elect in	South America	0	LOCATION
+1.0	Correa	capture	56.6 percent of November 26 vote	PERSON	DATE
+1.0	he	be	friend	0	0
+1.0	November vote	have	percent	PERCENT	O
+1.0	he	be friend of	anti-american president	0	0
+1.0	he	be	close	0	0
+1.0	he	be close friend of	populist venezuelan president	0	0
+1.0	leftist President-elect Rafael Correa	renegotiate	debt	0	0
+1.0	leftist President-elect Rafael Correa	renegotiate	foreign debt	0	0
+1.0	Correa	invoke	life before debt	PERSON	0
+1.0	he	be friend of	populist anti-american venezuelan president	0	0
+1.0	Ecuador	have	public debt	LOCATION	0

@@ -1,0 +1,24 @@
+1.0	world	have	highest peak	0	0
+1.0	its	have	stage	O	O
+1.0	torch	will	will design	0	0
+1.0	Liu	say on	official website of organise committee	PERSON	0
+1.0	year	have	end	DATE	DATE
+1.0	torch	will	will design specifically	0	0
+1.0	Liu	say on	website of committee	PERSON	0
+1.0	Liu	say on	website of organise committee	PERSON	0
+1.0	targets	have	one	NUMBER	O
+1.0	Mount Everest	peak 's	world	LOCATION	0
+1.0	game venue	schedule	training site	0	0
+1.0	several target	be in	run-up to Olympics	0	MISC
+1.0	Liu	say on	website	PERSON	0
+1.0	Liu	say on	official website of committee	PERSON	0
+1.0	game venue	complete	training site	0	0
+1.0	summit	be in	trial	0	0
+1.0	Mount Everest	have	summit	O	LOCATION
+1.0	Olympic Games	have	Beijing committee	O	MISC
+1.0	Liu	say on	official website	PERSON	0
+1.0	Beijing committee	have	vice president	O	O
+1.0	committee	have	website	O	O
+1.0	Beijing	have	deputy mayor	O	LOCATION
+1.0	world	have	peak	O	O
+1.0	state media	report at_time	Wednesday	0	DATE

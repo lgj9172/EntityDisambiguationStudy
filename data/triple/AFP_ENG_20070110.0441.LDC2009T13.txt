@@ -1,0 +1,15 @@
+1.0	father	have	identity	O	O
+1.0	musical	have	West End	LOCATION	O
+1.0	musical	be in	development	0	0
+1.0	negotiation	be with	Phyllida Lloyd	0	PERSON
+1.0	Hollywood	be open in	London	0	LOCATION
+1.0	time	have	musicals	O	O
+1.0	Mamma Mia	make	Hollywood	0	0
+1.0	movie version	report at_time	Wednesday	0	DATE
+1.0	London	be in	1999	LOCATION	DATE
+1.0	her	have	father	O	O
+1.0	ABBA stage	have	movie version	O	O
+1.0	1970s	have	Swedish supergroup	O	DATE
+1.0	musicals	have	one	NUMBER	O
+1.0	Hollywood	be open in	London in 1999	0	DATE
+1.0	1980s	have	Swedish supergroup	O	DATE

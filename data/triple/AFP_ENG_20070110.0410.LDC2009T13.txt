@@ -1,0 +1,31 @@
+1.0	Adrian Newey	have	reputation	O	O
+1.0	McLaren	be in	1998	ORGANIZATION	DATE
+1.0	constructor	say at_time	Wednesday	0	DATE
+1.0	rb3	will	will power by Renault engine design	0	ORGANIZATION
+1.0	Red Bull 's car	will	will pilot by Scotland 's David Coultard of Australia	0	LOCATION
+1.0	Adrian Newey	design	several car	PERSON	0
+1.0	rb3	will	will power by Renault engine design by Briton Adrian Newey formerly of McLaren-Mercedes	0	PERSON
+1.0	best engineer	be in	business	0	0
+1.0	engineers	have	one	NUMBER	O
+1.0	Scotland	by	David Coultard	LOCATION	PERSON
+1.0	Scotland	have	David Coultard	PERSON	LOCATION
+1.0	Red Bull 's car	will	will pilot by Scotland 's David Coultard	0	LOCATION
+1.0	Australia	have	David Coultard	PERSON	LOCATION
+1.0	Adrian Newey	design	car	PERSON	0
+1.0	rb3	will	will power	0	0
+1.0	McLaren-Mercedes	have	Briton Adrian Newey	PERSON	O
+1.0	Adrian Newey	be by	Briton	PERSON	MISC
+1.0	Adrian Newey	design	championship-winning car	PERSON	0
+1.0	Red Bull 's car	will	will pilot by Scotland 's David Coultard of Australia in 2007	0	LOCATION
+1.0	Red Bull 's car	will	will pilot by Scotland 's David Coultard in 2007	0	LOCATION
+1.0	Adrian Newey	design	several championship-winning car	PERSON	0
+1.0	Red Bull	have	cars	O	O
+1.0	rb3	will	will power by Renault engine	0	ORGANIZATION
+1.0	rb3	will	will power by Renault engine design by Briton Adrian Newey formerly	0	PERSON
+1.0	rb3	will	will power by Renault engine design by Briton Adrian Newey	0	PERSON
+1.0	Red Bull 's car	will	will pilot	0	0
+1.0	Red Bull 's car	will	will pilot in 2007	0	DATE
+1.0	David Coultard	be of	Australia	PERSON	LOCATION
+1.0	rb3	will	will power by Renault engine design by Briton Adrian Newey of McLaren-Mercedes	0	PERSON
+1.0	their	have	RB3 car	O	O
+1.0	Red Bull	have	car	0	0

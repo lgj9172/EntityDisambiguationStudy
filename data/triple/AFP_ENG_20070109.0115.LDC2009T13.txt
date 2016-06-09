@@ -1,0 +1,97 @@
+1.0	test	be	order	0	0
+1.0	level	mean	higher risk of heart attack	0	0
+1.0	NT-proBNP	have	blood levels	O	O
+0.8471383648580197	risk	higher level of	protein nt	0	0
+1.0	finding	appear in	January 10 edition of Journal of American Medical Association	0	DATE
+1.0	patient	be follow for	average	0	0
+1.0	protein NT	have	level	O	O
+1.0	heart failure	have	level	O	O
+1.0	finding	appear in	January 10 edition	0	DATE
+0.8471383648580197	higher risk	higher level of	protein nt	0	0
+1.0	test	be order for	patient with known heart disease	0	0
+1.0	cardiovascular disease sufferers	have	illness	O	O
+1.0	stress	have	times	O	O
+1.0	patient	be	divide into four group with blood level of nt-probnp	0	NUMBER
+1.0	marker	have	levels	O	O
+1.0	blood test	can foretell	person 's risk	0	0
+1.0	The patients in the study	have	percent	PERCENT	O
+1.0	patient	be in	group with highest level of nt-probnp	0	0
+1.0	its	have	usefulness	O	O
+1.0	test	only be order for	patient with known heart disease	0	0
+1.0	level	mean	risk	0	0
+1.0	patient	be	likely	0	0
+1.0	death	have	risk	O	O
+1.0	VA Medical Center	be in	California	ORGANIZATION	LOCATION
+1.0	patient	be	divide into four group with vary blood level	0	NUMBER
+1.0	disease sufferer	will die of	they illness	0	0
+1.0	higher level	mean	risk of heart attack	0	0
+1.0	simple blood test	can foretell	person 's risk	0	0
+1.0	nt-probnp protein	be marker in	blood	0	0
+1.0	patient	be	divide into four group with blood level	0	NUMBER
+1.0	test	be order for	patient	0	0
+1.0	heart disease	have	incidence	O	O
+1.0	patient	be	3.4 time more likely	0	NUMBER
+1.0	probnp	be in	blood	0	0
+1.0	test	be	only order	0	0
+1.0	disease sufferer	will die accord to	US study	0	LOCATION
+1.0	patient	be	divide	0	0
+1.0	person	have	risk	O	O
+1.0	level	mean	risk of heart attack	0	0
+1.0	patient	be divide with	vary blood level of nt-probnp	0	0
+1.0	blood flow	have	lack	O	O
+1.0	stroke	have	risk	O	O
+1.0	cardiovascular disease sufferer	will die accord to	US study	0	LOCATION
+1.0	patient	be divide with	blood level	0	0
+1.0	blood test	can foretell	person 's risk of heart attack	0	0
+1.0	test	only be order for	patient with heart disease	0	0
+1.0	patient	be divide into	four group	0	NUMBER
+0.5056957781778212	level	risk of	heart attack	0	0
+1.0	twenty-six percent	suffer	level of heart failure	PERCENT	0
+1.0	test	only be order for	patient with known coronary heart disease	0	0
+1.0	patient	be	follow	0	0
+1.0	group	be with	highest level of nt-probnp	0	0
+1.0	higher level	mean	higher risk	0	0
+1.0	patient	be in	study	0	0
+1.0	heart failure	have	risk	O	O
+1.0	patient	be	more likely	0	0
+0.8471383648580197	risk	level of	protein nt	0	0
+1.0	test	be order for	patient with known coronary heart disease	0	0
+1.0	twenty-six percent	suffer level during	study	PERCENT	0
+1.0	stretch	have	times	O	O
+1.0	marker	be in	blood for hormone bnp	0	0
+1.0	heart attack	have	risk	O	O
+1.0	blood Institute	branch of	US National Institute of Health	ORGANIZATION	ORGANIZATION
+1.0	patient	be with	lowest level of biological marker	0	0
+1.0	test	be order for	patient with heart disease	0	0
+0.5056957781778212	higher level	higher risk of	heart attack	0	0
+1.0	test	be order for	patient with coronary heart disease	0	0
+1.0	simple blood test	can foretell	person 's risk of heart attack	0	0
+1.0	higher level	mean	higher risk of heart attack	0	0
+1.0	patient	be divide with	blood level of nt-probnp	0	0
+1.0	US National Institute	have	branch	O	ORGANIZATION
+1.0	nt-probnp protein	be	marker	0	0
+1.0	level	mean	higher risk	0	0
+1.0	patient	be with	known coronary heart disease	0	0
+1.0	Health	have	US National Institute	ORGANIZATION	ORGANIZATION
+1.0	patient	be divide with	vary blood level	0	0
+1.0	person	have	risk of heart attack	0	0
+0.8471383648580197	higher risk	level of	protein nt	0	0
+1.0	years	have	average	O	DURATION
+0.5056957781778212	level	higher risk of	heart attack	0	0
+1.0	illness	have	die	O	O
+1.0	American Medical Association	have	Journal	ORGANIZATION	ORGANIZATION
+1.0	Journal	have	January edition	O	ORGANIZATION
+1.0	study	be	fund	0	0
+1.0	population	be with	high incidence of heart disease	0	0
+1.0	higher level	mean	risk	0	0
+0.5056957781778212	higher level	risk of	heart attack	0	0
+1.0	NT-proBNP	have	levels	O	O
+1.0	test	only be order for	patient	0	0
+1.0	VA Medical Center	be at	San Francisco	ORGANIZATION	LOCATION
+1.0	twenty-six percent	suffer	level	PERCENT	0
+1.0	patient	be	divide into four group with vary blood level of nt-probnp	0	NUMBER
+1.0	test	only be order for	patient with coronary heart disease	0	0
+1.0	cardiovascular disease sufferer	will die of	they illness	0	0
+1.0	study	be fund by	Robert Wood Johnson Foundation	0	ORGANIZATION
+1.0	patient	be follow for	average of 3.7 year	0	DURATION
+1.0	finding	appear in	January 10 edition of Journal	0	DATE

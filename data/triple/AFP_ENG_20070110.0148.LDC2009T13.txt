@@ -1,0 +1,14 @@
+1.0	bomb	be in	they luggage	0	0
+1.0	Cebu Pacific plane	arrive here on	schedule	LOCATION	0
+1.0	they	have	luggage	O	O
+1.0	Hong Kong	be on	Wednesday	LOCATION	DATE
+1.0	Angel Atutubo	be	Manila	PERSON	LOCATION
+1.0	Cebu Pacific plane	be	able	LOCATION	0
+1.0	Cebu Pacific plane	arrive on	schedule	LOCATION	0
+1.0	airport	all impose	harsh penalty	0	0
+1.0	the man	have	luggage	O	O
+1.0	airport	impose	harsh penalty	0	0
+1.0	airport	impose	penalty	0	0
+1.0	Cebu Pacific plane	be	however able	LOCATION	0
+1.0	airport	all impose	penalty	0	0
+1.0	Manila international airport security chief Angel Atutubo	say in	television interview	PERSON	0

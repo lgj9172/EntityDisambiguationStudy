@@ -1,0 +1,22 @@
+1.0	President George W. Bush	recommend increase over	next five year	0	DURATION
+1.0	US Defense Secretary Robert Gates	speak at_time	day	PERSON	DURATION
+1.0	President George W. Bush	recommend	overall increase	0	DURATION
+1.0	soldiers	have	increase	O	O
+0.7926805200317282	President George W. Bush	deployment of	additional 21,000 troops	PERSON	NUMBER
+0.7018211869537592	President George W. Bush	overall increase of	92,000 soldier	0	NUMBER
+1.0	President George W. Bush	announce	deployment of additional 21,000 troops	PERSON	NUMBER
+1.0	President George W. Bush	recommend increase over	five year	0	DURATION
+1.0	President George W. Bush	announce	deployment	PERSON	0
+1.0	marines	have	increase	O	O
+1.0	President George W. Bush	recommend	overall increase of 92,000 soldier	0	NUMBER
+1.0	President George W. Bush	announce	deployment of 21,000 troops	PERSON	NUMBER
+1.0	President George W. Bush	boost	US military capability	0	LOCATION
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	President George W. Bush	recommend	increase	0	DURATION
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+0.7926805200317282	President George W. Bush	deployment of	21,000 troops	PERSON	NUMBER
+0.7018211869537592	President George W. Bush	increase of	92,000 soldier	0	NUMBER
+1.0	President George W. Bush	recommend	increase of 92,000 soldier	0	NUMBER
+1.0	troops	have	deployment	O	O
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION
+1.0	President George W. Bush	boost	US capability	0	LOCATION

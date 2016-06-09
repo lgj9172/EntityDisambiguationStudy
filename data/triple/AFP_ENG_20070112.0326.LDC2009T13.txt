@@ -1,0 +1,150 @@
+1.0	bombing	be	deadly attack by ETA since May 2003	0	DATE
+1.0	two people	have	ceasefire	O	O
+0.8095442396670243	mask youth	set fire in	day	0	DATE
+1.0	Euskadi Ta Askatasuna	have	have blame for independence stretch back to 1968	PERSON	DATE
+1.0	bombing	be	first attack	0	ORDINAL
+1.0	Bilbao	have	city	O	LOCATION
+1.0	petrol-bomb	be	lob at Berango town hall near Bilbao	0	LOCATION
+1.0	bombing	be	attack	0	0
+1.0	fire-bomb attack	be also	local office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	attack	be also accord to	report	0	0
+0.8095442396670243	youth	set fire in	day in city	0	DATE
+1.0	fire-bomb attack	be also	office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	bombing	be attack since	May 2003	0	DATE
+1.0	last month	have	bomb attack	DATE	0
+1.0	ETA	give	ample warning	0	0
+1.0	fire-bomb attack	be also	office in two area of Navarra province	0	NUMBER
+1.0	fire-bomb attack	be	local office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	the day	be in	city	DATE	0
+0.8095442396670243	youth	set fire accord to	police	0	0
+1.0	bombing	be	first deadly attack	0	ORDINAL
+1.0	rally	be plan for	Saturday in Marid	0	DATE
+1.0	attack	be also	local office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	bombing	be	deadly attack	0	0
+1.0	bombing	be first attack by	ETA	0	ORGANIZATION
+1.0	local office	be in	two area of Navarra province	0	NUMBER
+0.8095442396670243	mask youth	set fire in	earlier day in city	0	DATE
+1.0	fire-bomb attack	be	local office in two area of Navarra province	0	NUMBER
+1.0	fire-bomb attack	be also	office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	attack	be also	office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	attack	be	local office in area of Navarra province	0	LOCATION
+1.0	government	launch consultation with	party leader	0	0
+1.0	ETA	avert	casualty	0	0
+1.0	attack	be accord to	report	0	0
+1.0	attack	be	office in two area of Navarra province	0	NUMBER
+1.0	Spain	have	northern basque region	LOCATION	0
+0.8095442396670243	youth	set fire accord to	local police	0	0
+1.0	fire-bomb attack	be also	office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	spanish government	launch consultation with	party leader	0	0
+1.0	fire-bomb attack	be accord to	report	0	0
+1.0	bombing	break	they nine-month unilateral ceasefire	0	DURATION
+1.0	Socialist Party	have	offices	O	ORGANIZATION
+1.0	basque Socialist Party	be	Patxi Lopez	ORGANIZATION	PERSON
+1.0	Navarra province	have	areas	O	O
+1.0	petrol-bomb	be lob at	Berango town hall	0	LOCATION
+0.8095442396670243	mask youth	set fire accord to	police	0	0
+1.0	spanish government	launch	consultation	0	0
+1.0	petrol-bomb	be	lob overnight	0	TIME
+1.0	attack	be also	office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	Socialist Party	have	secretary general	O	ORGANIZATION
+1.0	attack	be	office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+0.8095442396670243	mask youth	set fire in	day in city	0	DATE
+1.0	bombing	be attack by	ETA	0	ORGANIZATION
+1.0	fire-bomb attack	be	local office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	spanish government	launch	wide consultation	0	0
+1.0	Vasco Press	quote	railway official	ORGANIZATION	0
+1.0	fire-bomb attack	be also	local office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	attack	be also	local office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	fire-bomb attack	be also	local office in area of Navarra province	0	LOCATION
+1.0	government	launch	wide consultation	0	0
+1.0	attack	be	office in area of Navarra province	0	LOCATION
+1.0	attack	be also	local office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	rally	be plan for	Saturday	0	DATE
+0.8095442396670243	youth	set fire to	rubbish bin	0	0
+1.0	Euskadi Ta Askatasuna	have	have blame for independence stretch to 1968	PERSON	DATE
+0.8095442396670243	youth	set fire in	day	0	DATE
+1.0	fire-bomb attack	be	office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	attack	be	office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	month	have	bomb attack	O	DATE
+1.0	ETA	have claim	responsibility for attack	ORGANIZATION	0
+1.0	dialogue	be with	ETA	0	ORGANIZATION
+1.0	attack	be	local office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	fire-bomb attack	be	local office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	bombing	break	they ceasefire	0	0
+1.0	Euskadi Ta Askatasuna	have	have blame for independence	PERSON	0
+1.0	ETA	have claim	responsibility	ORGANIZATION	0
+1.0	spanish government	resort to	police action	0	0
+1.0	fire-bomb attack	be also	local office in two area of Navarra province	0	NUMBER
+1.0	Euskadi Ta Askatasuna	have	have blame for independence stretch back	PERSON	0
+1.0	attack	be	office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	government	launch	consultation	0	0
+1.0	fire-bomb attack	be also	office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	bombing	break	they nine-month ceasefire	0	DURATION
+1.0	weekend rallies	have	unrest	O	O
+1.0	government	have come under	pressure	0	0
+1.0	fire-bomb attack	be	local office of Socialist Party in two area of Navarra province	0	NUMBER
+0.5126403419715849	independence	stretch to	1968	0	DATE
+1.0	attack	be also	local office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	petrol-bomb	be	lob overnight at Berango town hall near Bilbao	0	LOCATION
+1.0	attack	be also	office in area of Navarra province	0	LOCATION
+0.8095442396670243	mask youth	set fire accord to	local police	0	0
+1.0	attack	be	local office in two area of Navarra province	0	NUMBER
+1.0	Spain	have	region	O	LOCATION
+0.8095442396670243	youth	set fire in	earlier day	0	DATE
+1.0	fire-bomb attack	be also	office in area of Navarra province	0	LOCATION
+1.0	petrol-bomb	be lob overnight at	Berango town hall	0	LOCATION
+1.0	fire-bomb attack	be	office in two area of Navarra province	0	NUMBER
+1.0	petrol-bomb	be	lob	0	0
+0.8095442396670243	mask youth	set fire to	bin	0	0
+1.0	petrol-bomb	be lob overnight near	Bilbao	0	LOCATION
+0.8095442396670243	mask youth	set	fire	0	0
+1.0	attack	be	office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	bombing	be first deadly attack since	May 2003	0	DATE
+1.0	rally	be	plan	0	0
+1.0	attack	be also	local office in two area of Navarra province	0	NUMBER
+0.8095442396670243	mask youth	set fire in	earlier day	0	DATE
+1.0	bombing	be first attack since	May 2003	0	DATE
+1.0	bombing	be	first attack by ETA since May 2003	0	ORDINAL
+1.0	fire-bomb attack	be	office in area of Navarra province	0	LOCATION
+1.0	attack	be also	office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	fire-bomb attack	be also accord to	report	0	0
+1.0	bombing	be first deadly attack by	ETA	0	ORGANIZATION
+1.0	bombing	be	first deadly attack by ETA since May 2003	0	ORDINAL
+1.0	bombing	break	they unilateral ceasefire	0	0
+1.0	Euskadi Ta Askatasuna	have	have blame for independence stretch	PERSON	0
+1.0	bombing	be deadly attack since	May 2003	0	DATE
+0.8095442396670243	mask youth	set fire to	rubbish bin	0	0
+1.0	attack	be also	local office in area of Navarra province	0	LOCATION
+0.8095442396670243	youth	set	fire	0	0
+0.5126403419715849	independence	stretch back to	1968	0	DATE
+1.0	attack	be	local office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	spanish government	resort to	tough police action	0	0
+1.0	violence	have	decades	DURATION	O
+0.8095442396670243	youth	set fire in	earlier day in city	0	DATE
+1.0	ETA	give warning to	police	0	0
+1.0	secretary general	say at_time	Friday	0	DATE
+0.8095442396670243	youth	set fire to	bin	0	0
+1.0	bombing	be deadly attack by	ETA	0	ORGANIZATION
+1.0	fire-bomb attack	be	office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	850 death	be in	violent campaign	NUMBER	0
+1.0	fire-bomb attack	be also	local office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	attack	be also	office in two area of Navarra province	0	NUMBER
+1.0	rally	dash	hope of peace talk	0	0
+1.0	petrol-bomb	be lob near	Bilbao	0	LOCATION
+1.0	fire-bomb attack	be	office of govern Socialist Party in two area of Navarra province	0	NUMBER
+1.0	ETA	give	warning	0	0
+1.0	rally	dash	hope of peace talk between government	0	0
+1.0	fire-bomb attack	be	office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	fire-bomb attack	be	local office in area of Navarra province	0	LOCATION
+1.0	attack	be	local office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	spanish government	have come under	pressure	0	0
+1.0	Saturday	be in	Marid	DATE	LOCATION
+1.0	bombing	be	attack by ETA since May 2003	0	DATE
+1.0	attack	be	local office of Socialist Party in two area of Navarra province	0	NUMBER
+1.0	fire-bomb attack	be also	local office of govern Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	government	resort to	tough police action	0	0
+1.0	attack	be also	office of Socialist Party in area of Navarra province	0	ORGANIZATION
+1.0	rally	dash	hope	0	0
+1.0	Euskadi Ta Askatasuna	have	have blame	PERSON	0
+1.0	peace talks	have	hopes	O	O
+1.0	government	resort to	police action	0	0

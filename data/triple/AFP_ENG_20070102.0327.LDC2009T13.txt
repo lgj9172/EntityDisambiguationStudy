@@ -1,0 +1,38 @@
+1.0	AT and t	have	85-billion-dollar takeover of rival BellSouth	ORGANIZATION	ORGANIZATION
+0.6039297666509063	deal	track by	media	0	0
+1.0	Deals in the financial sector	have	volume	O	O
+1.0	offering	release at_time	Tuesday	0	DATE
+0.6039297666509063	deal	track in	place	0	0
+1.0	2006	have	quarter	DATE	DATE
+0.618761338287068	shatter	record of	3.4 trillion	0	NUMBER
+1.0	acquisition	access to	capital	0	0
+1.0	global offering	release at_time	Tuesday	0	DATE
+1.0	dollars	have	record high	O	MONEY
+1.0	3.4 trillion	have	record	O	NUMBER
+1.0	initial public offering	be in	emerge market	0	0
+1.0	dollar	be announce in	merger year	0	DATE
+1.0	Europe	be in	second	LOCATION	ORDINAL
+0.6039297666509063	deal	track in	third place	0	ORDINAL
+1.0	3.7 trillion dollar	be announce in	merger	NUMBER	0
+1.0	biggest telecommunications merger	be in	US history	0	LOCATION
+1.0	dollar	be announce in	merger	0	0
+1.0	volume	be seal follow by	Europe	0	LOCATION
+1.0	equity	have	volume	O	O
+1.0	highest volume	be seal follow by	Europe	0	LOCATION
+1.0	bonanza	occur in	US economy	0	LOCATION
+1.0	dollar	be announce in	merger last year	0	DATE
+1.0	3.7 trillion dollar	be	announce	NUMBER	0
+1.0	T	have	takeover	O	ORGANIZATION
+1.0	highest volume	be seal follow by	Europe in second	0	ORDINAL
+1.0	deal-making	have	bonanza	O	O
+1.0	dollar	be	announce	0	0
+1.0	volume	be seal follow by	Europe in second	0	ORDINAL
+1.0	stocks	have	offerings	O	O
+1.0	bonanza	occur despite	pronounced slowdown	0	0
+1.0	3.7 trillion dollar	be announce in	merger year	NUMBER	DATE
+1.0	bonds	have	offerings	O	O
+1.0	debt	have	volume	O	O
+1.0	BellSouth	have	takeover	O	ORGANIZATION
+1.0	3.7 trillion dollar	be announce in	merger last year	NUMBER	DATE
+1.0	deal	be in	financial sector	0	0
+1.0	bonanza	occur despite	slowdown	0	0

@@ -1,0 +1,294 @@
+1.0	its key interest rate	expect at	its policy-setting meeting	0	0
+1.0	The ECB	hold	its two key rate	0	NUMBER
+1.0	its key interest rate	expect at	its meeting	0	0
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its first meeting of 2007	0	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its meeting here on Thursday	ORGANIZATION	DATE
+1.0	The ECB	hold respectively	its two other key rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its meeting here on Thursday	ORGANIZATION	DATE
+1.0	The ECB	hold respectively	its two rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its meeting here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	its key interest rate	expect at	its first policy-setting meeting	0	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first meeting of 2007	ORGANIZATION	ORDINAL
+1.0	The ECB	hold respectively	its two other rate unchanged	0	NUMBER
+1.0	The ECB	also hold	its two rate	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two other rate unchanged	0	NUMBER
+1.0	its interest rate	expect at	its meeting	0	0
+1.0	The ECB	hold respectively	its two other key rate unchanged at 2.50 percent	0	PERCENT
+1.0	european Central Bank	hold	its key interest rate expect	ORGANIZATION	0
+1.0	The ECB	hold	its two other key rate unchanged	0	NUMBER
+1.0	european Central Bank	hold	its interest rate expect	ORGANIZATION	0
+1.0	Central Bank	hold	its interest rate expect at its meeting of 2007	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold	its two other rate unchanged at 2.50 percent	0	PERCENT
+1.0	The European Central Bank	have	interest rates	O	O
+1.0	The ECB	also hold respectively	its two key rate	0	NUMBER
+1.0	The ECB	also hold	its two rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting on Thursday	ORGANIZATION	SET
+1.0	The ECB	hold	its two rate unchanged	0	NUMBER
+1.0	its key interest rate	expect at	its monthly policy-setting meeting	0	SET
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting of 2007	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007	ORGANIZATION	DATE
+1.0	Central Bank	hold	its key interest rate expect at its meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting	ORGANIZATION	0
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting on Thursday	ORGANIZATION	SET
+1.0	its interest rate	expect on	Thursday	0	DATE
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	its key interest rate	expect at	its policy-setting meeting of 2007	0	DATE
+1.0	its key interest rate	expect at	its first monthly policy-setting meeting of 2007	0	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first meeting	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting here on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	its interest rate	expect at	its meeting of 2007	0	DATE
+1.0	its key interest rate	expect at	its first meeting of 2007	0	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its meeting	ORGANIZATION	0
+1.0	The ECB	also hold respectively	its two other key rate unchanged at 2.50 percent	0	PERCENT
+1.0	The ECB	have	rates	O	O
+1.0	european Central Bank	hold	its interest rate expect at its first meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold	its two key rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its key interest rate expect at its meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	its key interest rate	expect at	its first monthly meeting of 2007	0	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its meeting of 2007	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its meeting	ORGANIZATION	0
+1.0	its key interest rate	expect at	its monthly meeting of 2007	0	SET
+1.0	The ECB	hold	its two other rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its monthly policy-setting meeting	0	SET
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two other key rate	0	NUMBER
+1.0	its interest rate	expect at	its first monthly meeting	0	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its meeting	ORGANIZATION	0
+1.0	The ECB	also hold respectively	its two other rate	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting of 2007	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect on Thursday	ORGANIZATION	DATE
+1.0	its key interest rate	expect at	its monthly policy-setting meeting of 2007	0	SET
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007	ORGANIZATION	DATE
+1.0	The ECB	also hold respectively	its two rate	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect	ORGANIZATION	0
+1.0	The ECB	hold respectively	its two key rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its interest rate expect at its first meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	its key interest rate	expect on	here Thursday	0	DATE
+1.0	european Central Bank	hold	its interest rate expect at its meeting of 2007	ORGANIZATION	DATE
+1.0	The ECB	also hold respectively	its two other rate unchanged at 2.50 percent	0	PERCENT
+1.0	european Central Bank	hold	its interest rate expect at its meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold	its two other key rate	0	NUMBER
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting here on Thursday	ORGANIZATION	DATE
+1.0	The European Central Bank	have	meeting	O	O
+1.0	2007	have	meeting	O	DATE
+1.0	its key interest rate	expect at	its first monthly policy-setting meeting	0	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its meeting of 2007	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its meeting on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its first meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	its key interest rate	expect at	its monthly meeting	0	SET
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold respectively	its two other key rate	0	NUMBER
+1.0	The ECB	also hold	its two other rate unchanged	0	NUMBER
+1.0	its key interest rate	expect at	its first meeting	0	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold respectively	its two other rate	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its first meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	The ECB	hold respectively	its two key rate unchanged at 2.50 percent	0	PERCENT
+1.0	The ECB	hold respectively	its two other rate unchanged at 2.50 percent	0	PERCENT
+1.0	its key interest rate	expect at	its meeting of 2007	0	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its meeting on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its monthly meeting	0	SET
+1.0	The ECB	hold	its two other key rate	0	NUMBER
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two key rate unchanged at 2.50 percent	0	PERCENT
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect at its meeting	ORGANIZATION	0
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	its key interest rate	expect at	its first monthly meeting	0	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007	ORGANIZATION	DATE
+1.0	its interest rate	expect at	its first meeting	0	ORDINAL
+1.0	The ECB	hold	its two rate	0	NUMBER
+1.0	its interest rate	expect at	its monthly meeting of 2007	0	SET
+1.0	european Central Bank	hold	its key interest rate expect at its meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first meeting	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two key rate unchanged	0	NUMBER
+1.0	its interest rate	expect on	here Thursday	0	DATE
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two rate unchanged	0	NUMBER
+1.0	The ECB	also hold	its two other key rate unchanged	0	NUMBER
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its first monthly meeting of 2007	0	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold	its two rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its policy-setting meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold respectively	its two key rate	0	NUMBER
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first meeting of 2007	ORGANIZATION	ORDINAL
+1.0	The ECB	have	refinancing operations	O	O
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting here on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect at its meeting on Thursday	ORGANIZATION	DATE
+1.0	The ECB	hold respectively	its two rate	0	NUMBER
+1.0	european Central Bank	hold	its interest rate expect at its first monthly meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold	its two key rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its interest rate expect at its policy-setting meeting	ORGANIZATION	0
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold	its two rate unchanged	0	NUMBER
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	hold	its two other rate	0	NUMBER
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting here on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect	ORGANIZATION	0
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting on Thursday	ORGANIZATION	SET
+1.0	its interest rate	expect at	its policy-setting meeting of 2007	0	DATE
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its monthly meeting on Thursday	ORGANIZATION	SET
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting of 2007 here on Thursday	ORGANIZATION	SET
+1.0	its interest rate	expect at	its first policy-setting meeting of 2007	0	ORDINAL
+1.0	The ECB	also hold respectively	its two rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its policy-setting meeting	0	0
+1.0	The ECB	hold	its two key rate unchanged	0	NUMBER
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its monthly meeting of 2007	ORGANIZATION	SET
+1.0	its key interest rate	expect at	its first policy-setting meeting of 2007	0	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting of 2007	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting	ORGANIZATION	SET
+1.0	european Central Bank	hold	its key interest rate expect at its policy-setting meeting	ORGANIZATION	0
+1.0	The ECB	also hold	its two key rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first monthly meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its meeting on Thursday	ORGANIZATION	DATE
+1.0	The ECB	also hold	its two other rate	0	NUMBER
+1.0	its interest rate	expect at	its first monthly policy-setting meeting of 2007	0	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its monthly meeting	ORGANIZATION	SET
+1.0	The ECB	also hold	its two key rate	0	NUMBER
+1.0	Central Bank	hold	its interest rate expect at its meeting of 2007 here on Thursday	ORGANIZATION	DATE
+1.0	The ECB	hold	its two other rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting	ORGANIZATION	0
+1.0	Central Bank	hold	its key interest rate expect at its monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	SET
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	The ECB	also hold respectively	its two other key rate unchanged	0	NUMBER
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	its interest rate	expect at	its first monthly policy-setting meeting	0	ORDINAL
+1.0	Central Bank	hold	its interest rate expect at its first meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its meeting here on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its monthly meeting	ORGANIZATION	SET
+1.0	its interest rate	expect at	its first policy-setting meeting	0	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting on Thursday	ORGANIZATION	ORDINAL
+1.0	percentage point	have	quarter	DURATION	O
+1.0	Central Bank	hold	its interest rate expect at its monthly policy-setting meeting here on Thursday	ORGANIZATION	SET
+1.0	The ECB	also hold	its two other key rate unchanged at 2.50 percent	0	PERCENT
+1.0	european Central Bank	hold	its interest rate expect here on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting of 2007	ORGANIZATION	ORDINAL
+1.0	its interest rate	expect at	its monthly policy-setting meeting of 2007	0	SET
+1.0	european Central Bank	hold	its interest rate expect at its first policy-setting meeting of 2007 here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first monthly policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	its key interest rate	expect on	Thursday	0	DATE
+1.0	Central Bank	hold	its key interest rate expect at its first monthly meeting	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its interest rate expect on Thursday	ORGANIZATION	DATE
+1.0	Central Bank	hold	its key interest rate expect at its first meeting of 2007	ORGANIZATION	ORDINAL
+1.0	The ECB	hold	its two other key rate unchanged at 2.50 percent	0	PERCENT
+1.0	Central Bank	hold	its key interest rate expect at its policy-setting meeting of 2007 on Thursday	ORGANIZATION	DATE
+1.0	european Central Bank	hold	its interest rate expect at its monthly policy-setting meeting of 2007	ORGANIZATION	SET
+1.0	Central Bank	hold	its interest rate expect at its first meeting of 2007 on Thursday	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its key interest rate expect at its first meeting of 2007	ORGANIZATION	ORDINAL
+1.0	european Central Bank	hold	its interest rate expect at its first monthly policy-setting meeting here on Thursday	ORGANIZATION	ORDINAL
+1.0	Central Bank	hold	its key interest rate expect at its first policy-setting meeting	ORGANIZATION	ORDINAL
+1.0	The ECB	hold respectively	its two rate unchanged at 2.50 percent	0	PERCENT
+1.0	european Central Bank	hold	its key interest rate expect at its first monthly meeting	ORGANIZATION	ORDINAL

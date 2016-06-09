@@ -1,0 +1,60 @@
+1.0	change	be publicise internally in	December	0	DATE
+1.0	change	be publicise in	December	0	DATE
+1.0	207,020	have	high	O	NUMBER
+1.0	new rule	mean on	engagement	0	0
+1.0	new rule	mean on	regular 22-year engagement	0	DURATION
+1.0	they	turn	18	0	NUMBER
+1.0	Army regulars	have	number	O	O
+1.0	change	be publicise in	early December	0	DATE
+1.0	serviceman	serve until	five year of they birthday	0	DURATION
+1.0	7,200 troops	be in	Iraq	NUMBER	LOCATION
+1.0	policy	change at	office	0	0
+1.0	Ministry	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	rule	mean on	22-year engagement	0	DURATION
+1.0	55	have	age	O	NUMBER
+1.0	first edition	say at_time	Saturday	ORDINAL	DATE
+1.0	number	have decline on	April 1 2004	0	DATE
+1.0	new rule	mean on	22-year engagement	0	DURATION
+1.0	policy	change at	recruit office	0	0
+1.0	rule	mean on	regular 22-year engagement	0	DURATION
+1.0	rule	mean on	engagement	0	0
+1.0	policy	change at	recruit office up country	0	0
+1.0	policy	change at	office up	0	0
+1.0	recruitment	be	last year 16 percent	0	PERCENT
+1.0	their	have	birthday	O	O
+1.0	World War II	have	aftermath	O	MISC
+1.0	response	be in	Britain 's armed force	0	LOCATION
+1.0	recruitment	be	year 16 percent	0	PERCENT
+1.0	men	have	bunch	O	O
+1.0	change	be	publicise internally	0	0
+1.0	November	have	serving	O	DATE
+1.0	army	be in	line	0	0
+1.0	troops	go to	war	0	0
+1.0	change	be	publicise	0	0
+1.0	Ministry	tell afp at_time	Friday	ORGANIZATION	DATE
+1.0	new rule	mean on	regular engagement	0	0
+1.0	rule	mean on	regular engagement	0	0
+1.0	Defence mod	be in	London	ORGANIZATION	LOCATION
+1.0	troops	be	unable	0	0
+1.0	edition	say at_time	Saturday	0	DATE
+1.0	serviceman	serve	woman	0	0
+1.0	women	have	total	O	O
+1.0	Defence MoD	have	Ministry	ORGANIZATION	O
+1.0	birthday	have	years	DURATION	O
+1.0	serviceman	serve until	five year short of they 60th birthday	0	DURATION
+1.0	recruitment	be	16 percent	0	PERCENT
+1.0	new Army	reference to	popular 1970s british television comedy about bunch of old man	0	DATE
+1.0	Britain	in	armed force	LOCATION	0
+1.0	Sun newspaper	have	edition	O	O
+1.0	number	have decline from	high	0	0
+1.0	policy	change at	office up country	0	0
+1.0	Britain	have	forces	O	LOCATION
+1.0	serviceman	serve until	five year of they 60th birthday	0	DURATION
+1.0	policy	change at	recruit office up	0	0
+1.0	servicemen	have	total	O	O
+1.0	change	be publicise internally in	early December	0	DATE
+1.0	serviceman	serve until	five year short	0	DURATION
+1.0	number	have decline from	high of 207,020	0	DATE
+1.0	serviceman	serve until	five year	0	DURATION
+1.0	serviceman	serve until	five year short of they birthday	0	DURATION
+1.0	The British Army	have	age limit	O	O

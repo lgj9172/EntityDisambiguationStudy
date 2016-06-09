@@ -1,0 +1,48 @@
+1.0	Interior Minister Giuliano Amato	be	quote	PERSON	0
+1.0	Interior Minister Giuliano Amato	tell	daily	PERSON	0
+1.0	countries	have	governments	O	O
+1.0	Interior Minister Giuliano Amato	say at_time	Friday	PERSON	DATE
+1.0	mosques	have	number	O	O
+1.0	Italy	tighten control on	funding of mosque building	LOCATION	0
+1.0	Interior Minister Giuliano Amato	also call on	staff employ	PERSON	0
+1.0	Naguib Mahfouz institute	have	months	DURATION	ORGANIZATION
+1.0	Interior Minister Giuliano Amato	call on	staff	PERSON	0
+1.0	Interior Minister Giuliano Amato	fund	religious work	PERSON	0
+1.0	Milan	be	year shake by closure for month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	many	be	finance	0	0
+1.0	Milan	be shake by	closure	LOCATION	0
+1.0	Interior Minister Giuliano Amato	also call on	staff	PERSON	0
+1.0	Interior Minister Giuliano Amato	tell	main daily	PERSON	0
+1.0	Interior Minister Giuliano Amato	want	know	0	0
+1.0	too many	have	country	O	O
+1.0	course	have	foundation	O	O
+1.0	Interior Minister Giuliano Amato	call for	state control	PERSON	0
+1.0	Milan	be	last year shake by closure	LOCATION	DATE
+1.0	Milan	be	year shake by closure	LOCATION	DATE
+1.0	Milan	be	last year shake by closure for several month	LOCATION	DURATION
+1.0	Milan	be shake by	closure for several month	LOCATION	DURATION
+1.0	Milan	be	year shake by closure for month	LOCATION	DATE
+1.0	Last year	obtain	necessary authorisation	0	0
+1.0	Interior Minister Giuliano Amato	tell	main italian daily	PERSON	0
+1.0	Interior Minister Giuliano Amato	also call for	state control	PERSON	0
+1.0	Milan	be	last year shake by closure for several month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	Milan	be shake by	closure for month	LOCATION	0
+1.0	Milan	be	year shake by closure for several month	LOCATION	DURATION
+1.0	many	be finance by	government	0	0
+1.0	Milan	be	last year shake by closure for month	LOCATION	DATE
+1.0	Milan	be	shake	LOCATION	0
+1.0	Interior Minister Giuliano Amato	call on	staff employ	PERSON	0
+1.0	Milan	be shake by	closure for month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	many	be finance by	foreign government	0	0
+1.0	Milan	be shake at_time	last year	LOCATION	DATE
+1.0	Italy	tighten	control	LOCATION	0
+1.0	Milan	be shake at_time	year	LOCATION	DATE
+1.0	Interior Minister Giuliano Amato	fund	work	PERSON	0
+1.0	Milan	be	last year shake by closure for month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	Interior Minister Giuliano Amato	tell	italian daily	PERSON	0
+1.0	foundation	divert fund to	other purpose	0	0
+1.0	Milan	be shake by	closure for several month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	Italy	tighten control on	funding	LOCATION	0
+1.0	Last year	obtain	authorisation	0	0
+1.0	Milan	be	year shake by closure for several month of Naguib Mahfouz institute	LOCATION	ORGANIZATION
+1.0	mosque building	have	funding	O	O

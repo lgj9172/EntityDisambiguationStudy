@@ -1,0 +1,68 @@
+1.0	trademark	be in	2000	0	DATE
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone name	ORGANIZATION	0
+1.0	your	have	pocket	O	O
+1.0	Mark Chandler	president at	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	PERSON	ORGANIZATION
+0.923928521834493	Cisco 's announcement	come after	Apple chief executive	ORGANIZATION	ORGANIZATION
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone name	O	ORGANIZATION
+1.0	Today	have	iPhone	O	DATE
+0.923928521834493	Cisco 's announcement	come after	Apple executive	ORGANIZATION	ORGANIZATION
+0.9273567772275628	Apple 's phone	be	very exciting	ORGANIZATION	0
+1.0	iPhone products	have	family	O	O
+1.0	iPhone	have	versions	O	O
+1.0	home phone	have	convergence	O	O
+1.0	Apple	make	it available in Asia	ORGANIZATION	LOCATION
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone trademark	ORGANIZATION	0
+1.0	Apple	expect	make by 2008	ORGANIZATION	DATE
+1.0	Steve Jobs	unveil iphone with	fanfare	PERSON	DURATION
+1.0	cell phone	have	convergence	O	O
+0.9273567772275628	Apple 's new phone	be	exciting	ORGANIZATION	0
+1.0	work phone	have	convergence	O	O
+1.0	Apple Inc.	have	new phone	ORGANIZATION	0
+1.0	Cisco	have	announcement	O	ORGANIZATION
+1.0	line	have	success	O	O
+1.0	Apple Inc.	have	phone	O	ORGANIZATION
+1.0	Cisco	be	US	ORGANIZATION	LOCATION
+1.0	California	have	Northern District	LOCATION	LOCATION
+1.0	Wednesday	sue	Apple Inc.	0	ORGANIZATION
+1.0	its	have	lawsuit	O	O
+0.4968793960127973	lawsuit	file in	US District Court Northern District	0	ORGANIZATION
+1.0	copying	use	Cisco 's register iPhone trademark	0	ORGANIZATION
+0.9273567772275628	Apple 's phone	be	exciting	ORGANIZATION	0
+1.0	Steve Jobs	introduce	Apple 's iPhone Tuesday	0	DATE
+1.0	your	have	life	O	O
+0.45736629914078963	four gigabyte version	price at	499 dollar	NUMBER	MONEY
+1.0	Apple Inc.	be in	good faith	ORGANIZATION	0
+1.0	it	available in	Asia	0	LOCATION
+1.0	Apple	make	it available	ORGANIZATION	0
+1.0	copying	use	Cisco 's registered iPhone trademark	0	ORGANIZATION
+1.0	Apple Inc.	have	cellphone	O	O
+0.9273567772275628	Apple 's new phone	be	very exciting	ORGANIZATION	0
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	register iPhone trademark	ORGANIZATION	0
+1.0	PC	have	convergence	O	O
+1.0	tomorrow	have	iPhone	O	DATE
+1.0	divisions	have	one	NUMBER	O
+1.0	Apple Inc.	stop	Wednesday	ORGANIZATION	0
+1.0	Apple	make by	2008	ORGANIZATION	DATE
+1.0	Steve Jobs	unveil iphone with	great fanfare	PERSON	DURATION
+0.4968793960127973	lawsuit	file in	US District Court Northern District California	0	ORGANIZATION
+1.0	today	have	iPhone	0	0
+0.4968793960127973	lawsuit	file in	US District Court	0	ORGANIZATION
+0.923928521834493	Cisco 's announcement	come at_time	day	ORGANIZATION	DURATION
+1.0	Apple	have	line	O	ORGANIZATION
+1.0	iPod music players	have	line	O	O
+1.0	US District Court	be for	Northern District of California	ORGANIZATION	LOCATION
+1.0	our	have	permission	O	O
+1.0	internet	be in	you pocket	0	0
+1.0	Apple	have	Tuesday	ORGANIZATION	DATE
+1.0	negotiation	be with	Apple Inc.	0	ORGANIZATION
+1.0	its	division	Linksys	0	LOCATION
+1.0	new ones	have	brand	O	O
+1.0	our	have	trademark	O	O
+1.0	Apple	have	iPhone Tuesday	DATE	ORGANIZATION
+1.0	Steve Jobs	introduce	Apple 's iPhone Tuesday at Macworld Conference	0	ORGANIZATION
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone trademark	O	ORGANIZATION
+1.0	Apple	expect	make	ORGANIZATION	0
+1.0	Steve Jobs	unveil	iPhone	PERSON	0
+1.0	Cisco	have	announcement	ORGANIZATION	DURATION
+1.0	its	have	divisions	O	O
+0.7925883810704178	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	say in	statement	ORGANIZATION	0

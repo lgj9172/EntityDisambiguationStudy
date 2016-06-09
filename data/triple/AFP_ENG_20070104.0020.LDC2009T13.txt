@@ -1,0 +1,46 @@
+1.0	Arnaud Clement	be	australian Open	PERSON	MISC
+1.0	Davis Cup	be in	Melbourne	MISC	LOCATION
+1.0	Chris Guccione	rank	153 in world	PERSON	NUMBER
+1.0	soeda	be of	Iroda Tulyaganova	0	PERSON
+1.0	Open	take place on	January 15	MISC	DATE
+1.0	Open	take	place in Melbourne	MISC	LOCATION
+1.0	australian Open	take place on	January 15	MISC	DATE
+1.0	Switzerland	be in	Geneva	LOCATION	LOCATION
+1.0	week	have	hardcourt championships	O	DATE
+1.0	Chris Guccione	defeat	max Mirnyi in Davis Cup	PERSON	MISC
+1.0	Japan 's	have	Iroda Tulyaganova	PERSON	LOCATION
+1.0	Uzbekistan	have	Iroda Tulyaganova	PERSON	LOCATION
+1.0	Chris Guccione	defeat	max Mirnyi in Davis Cup quarter-final	PERSON	MISC
+0.6720884236647834	rank	153 in	world	0	0
+1.0	this month	into	australian Open	DATE	MISC
+1.0	George Bastl	be in	decisive fifth rubber for Australia	PERSON	LOCATION
+1.0	Chris Guccione	defeat	max Mirnyi	PERSON	PERSON
+1.0	Chris Guccione	beat	George Bastl in fifth rubber	PERSON	ORDINAL
+1.0	the year	have	tournament	DATE	0
+1.0	Ai Sugiyama	be in	week 's australian hardcourt championship	PERSON	DATE
+1.0	Open	take	place	MISC	0
+1.0	Japan 's	of	Iroda Tulyaganova	LOCATION	PERSON
+1.0	year	have	Grand Slam tournament	O	DATE
+1.0	Chris Guccione	down	former australian Open finalist Arnaud Clement	PERSON	MISC
+1.0	place	be in	Melbourne	0	LOCATION
+1.0	month	have	Open	MISC	DATE
+1.0	Iroda Tulyaganova	have	Soeda	PERSON	PERSON
+1.0	Chris Guccione	beat	George Bastl in decisive fifth rubber for Australia	PERSON	LOCATION
+1.0	Chris Guccione	beat	George Bastl in rubber	PERSON	PERSON
+1.0	Japan	have	world no.	LOCATION	0
+1.0	Chris Guccione	be	Australians	PERSON	MISC
+1.0	Chris Guccione	beat	George Bastl	PERSON	PERSON
+1.0	Japan	have	world No.	O	LOCATION
+1.0	Chris Guccione	beat	George Bastl in fifth rubber for Australia	PERSON	LOCATION
+1.0	australian Open	take	place in Melbourne	MISC	LOCATION
+1.0	Open	have	round	O	MISC
+1.0	Chris Guccione	defeat	higher-ranked max Mirnyi	PERSON	PERSON
+1.0	Chris Guccione	beat	George Bastl in decisive rubber for Australia	PERSON	LOCATION
+1.0	Chris Guccione	beat	George Bastl in decisive fifth rubber	PERSON	ORDINAL
+1.0	this week	in	australian hardcourt championship	DATE	0
+1.0	Chris Guccione	down	former Open finalist Arnaud Clement	PERSON	MISC
+1.0	max Mirnyi	be in	Davis Cup	PERSON	MISC
+1.0	australian Open	take	place	MISC	0
+1.0	Chris Guccione	defeat	higher-ranked max Mirnyi in Davis Cup	PERSON	MISC
+1.0	Chris Guccione	beat	George Bastl in decisive rubber	PERSON	PERSON
+1.0	Chris Guccione	beat	George Bastl in rubber for Australia	PERSON	LOCATION

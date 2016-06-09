@@ -1,0 +1,46 @@
+1.0	economy	have	annual gross product	0	SET
+1.0	Here	have	summit	O	O
+1.0	year	have	theme	O	DATE
+1.0	its	have	failure	O	O
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	communism	have	advance	O	O
+1.0	economy	have	product	0	0
+1.0	Philippines	become	current chair	LOCATION	DATE
+0.8654291904577989	Myanmar	economy such as	Singapore to impoverished	LOCATION	LOCATION
+1.0	leadership	rotate among	country in alphabetical order	0	0
+1.0	five member	be	Brunei	NUMBER	LOCATION
+1.0	other five member	be	Brunei	NUMBER	LOCATION
+1.0	history	found by	five nation	0	NUMBER
+0.8654291904577989	Myanmar	economy such as	Singapore	LOCATION	LOCATION
+1.0	economy	have	domestic product	0	0
+0.9376980054805348	group	hold	its first summit	0	ORDINAL
+1.0	economy	have	annual product	0	SET
+0.9376980054805348	group	hold	its first formal summit	0	ORDINAL
+1.0	that	form	bloc	0	0
+1.0	other member	be	Brunei	0	LOCATION
+0.9376980054805348	group	hold	its formal summit	0	0
+0.9376980054805348	group	hold	its summit	0	0
+1.0	history	found in	Bangkok	0	LOCATION
+1.0	other	have	affairs	O	O
+1.0	its	have	summit	O	O
+1.0	Bangkok	be in	1967	LOCATION	DATE
+1.0	bloc	have	chairmanship	O	O
+1.0	summit	hold in	1976	0	DATE
+1.0	world	have	population	O	O
+1.0	economy	have	gross product	0	NUMBER
+1.0	member	be	Brunei	0	LOCATION
+1.0	country	be in	alphabetical order	0	0
+0.8654291904577989	Myanmar	economy military such as	Singapore	LOCATION	LOCATION
+1.0	Philippines	become	chair	LOCATION	0
+1.0	its	have	turn	O	O
+0.8777862056393153	ASEAN	be found in	Bangkok	ORGANIZATION	LOCATION
+0.8777862056393153	ASEAN	be found in	Bangkok in 1967	ORGANIZATION	DATE
+0.8654291904577989	Myanmar	economy military such as	Singapore to impoverished	LOCATION	LOCATION
+1.0	Philippines	skip	its turn	LOCATION	0
+1.0	economy military	rule	Myanmar	0	LOCATION
+1.0	Cebu	have	Philippines resort	O	LOCATION
+1.0	economy	rule	Myanmar	0	LOCATION
+1.0	summit	hold in	Indonesia	0	LOCATION
+0.8191566996867293	bloc	have	tradition	0	0
+0.8777862056393153	ASEAN	be	found	ORGANIZATION	0
+1.0	population	have	sixth	ORDINAL	O

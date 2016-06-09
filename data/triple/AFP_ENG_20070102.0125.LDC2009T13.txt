@@ -1,0 +1,47 @@
+1.0	US embassy	have	custody	O	O
+1.0	a Filipina woman	have	privacy	O	O
+1.0	US marine	be	move from suburban Manila jail to custody	LOCATION	LOCATION
+0.8601988817538554	Lance Corporal Daniel Smith	be transfer on	Friday	PERSON	DATE
+0.8446441093139676	it	key non-nato ally in	Southeast Asia	0	LOCATION
+1.0	US marine	be	move	LOCATION	0
+0.8446441093139676	it	ally in	Southeast Asia	0	LOCATION
+1.0	Gloria Arroyo	be	Philippine	PERSON	MISC
+1.0	US marine	be	move from suburban Manila jail to custody of US embassy	LOCATION	LOCATION
+0.564434722158494	decision	resume	exercise	0	0
+0.8446441093139676	it	key ally in	Southeast Asia	0	LOCATION
+1.0	Lance Corporal Daniel Smith	be convict in	December	PERSON	DATE
+1.0	US marine	be move to	custody of US embassy	LOCATION	LOCATION
+1.0	Philippine President Gloria Arroyo	be in	she first public statement transfer to US embassy custody on Friday	PERSON	LOCATION
+1.0	American diplomats	have	relationship	O	O
+1.0	US marine	be	move from Manila jail to custody of US embassy	LOCATION	LOCATION
+1.0	american diplomat	to marine be	Lance corporal Daniel Smith	0	PERSON
+1.0	Smith	cite	VFA	PERSON	ORGANIZATION
+1.0	its	have	embassy	O	O
+1.0	Philippine President Gloria Arroyo	have	government	O	O
+1.0	US marine	be	move from Manila jail to custody	LOCATION	LOCATION
+0.8601988817538554	Lance Corporal Daniel Smith	be	transfer	PERSON	0
+1.0	Philippines	have	interest	O	LOCATION
+1.0	Lance Corporal Daniel Smith	be	convict	PERSON	0
+1.0	US authorities	have	alliance	O	O
+1.0	US marine	be move from	suburban Manila jail	LOCATION	LOCATION
+0.8446441093139676	it	non-nato ally in	Southeast Asia	0	LOCATION
+0.564434722158494	decision	resume	joint exercise	0	0
+1.0	US marine	be move to	custody	LOCATION	0
+1.0	US marine	be move from	Manila jail	LOCATION	LOCATION
+1.0	Filipinos	stand with	United States	MISC	LOCATION
+1.0	Philippine President Gloria Arroyo	have	statement	O	O
+1.0	key non-nato ally	be in	Southeast Asia	0	LOCATION
+1.0	while official tour	be in	former american colony	0	0
+1.0	law	have	rule	O	O
+1.0	further deterioration	be in	we strategic relationship	0	0
+1.0	Subic	have	port	O	LOCATION
+1.0	annual joint military exercise	be with	the Philippines	SET	LOCATION
+1.0	compliance	be with	visit force agreement	0	0
+0.8601988817538554	Lance Corporal Daniel Smith	be	transfer to US embassy custody on Friday	PERSON	LOCATION
+1.0	Philippines	be in	mind	LOCATION	0
+1.0	joint war game	be in	northern port of Subic	0	LOCATION
+1.0	Filipinos	stand behind	we alliance	MISC	0
+1.0	Philippine President Gloria Arroyo	urge	Filipinos	PERSON	MISC
+1.0	Smith	have	custody	O	PERSON
+0.8601988817538554	Lance Corporal Daniel Smith	be transfer to	US embassy custody	PERSON	LOCATION
+1.0	American diplomats	have	non	O	O

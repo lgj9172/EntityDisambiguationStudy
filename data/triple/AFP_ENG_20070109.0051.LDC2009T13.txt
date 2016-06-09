@@ -1,0 +1,36 @@
+1.0	Etoile Sahel	be of	Tunisia	PERSON	LOCATION
+1.0	45-year-old former Marseille goalkeeper	quit	most successful Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	African	have	round	O	MISC
+1.0	successful Moroccan club	be in	mid-2005	MISC	0
+1.0	Jawad Milani	be youth team coach of	Morocco	PERSON	LOCATION
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be	fire	PERSON	0
+1.0	media report	say at_time	Tuesday	0	DATE
+1.0	former Marseille goalkeeper	quit	successful Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	45-year-old former Marseille goalkeeper	quit	Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	45-year-old former Marseille goalkeeper	quit	successful Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	former Marseille goalkeeper	quit	successful Moroccan club	ORGANIZATION	MISC
+1.0	Henri Stambouli	be	Frenchman	PERSON	MISC
+1.0	Ghana	have	Renacimiento	O	LOCATION
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be	fire weekend 10 month into	PERSON	DURATION
+1.0	Equatorial Guinea	have	Renacimiento	O	LOCATION
+1.0	45-year-old former Marseille goalkeeper	complete	he contract	ORGANIZATION	0
+1.0	one-year contract	be in	charge of military club	DURATION	0
+1.0	The 45-year-old former Marseille goalkeeper	have	contract	O	O
+1.0	45-year-old former Marseille goalkeeper	quit	most successful Moroccan club	ORGANIZATION	MISC
+1.0	45-year-old former Marseille goalkeeper	quit	Moroccan club	ORGANIZATION	MISC
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be fire into	10 month	PERSON	DURATION
+1.0	45-year-old former Marseille goalkeeper	quit	successful Moroccan club	ORGANIZATION	MISC
+1.0	former Marseille goalkeeper	quit	Moroccan club	ORGANIZATION	MISC
+1.0	former Marseille goalkeeper	complete	he contract	ORGANIZATION	0
+1.0	Tunisia	have	Etoile Sahel	PERSON	LOCATION
+1.0	AshantiGold	have	Renacimiento	O	O
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be fire at_time	weekend	PERSON	DATE
+1.0	Rabat	have	coach	O	ORGANIZATION
+1.0	club	have	charge	O	O
+1.0	former Marseille goalkeeper	quit	most successful Moroccan club	ORGANIZATION	MISC
+1.0	45-year-old former Marseille goalkeeper	quit moroccan club after	six month	ORGANIZATION	DURATION
+1.0	former Marseille goalkeeper	quit	most successful Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be	fire last weekend 10 month into	PERSON	DURATION
+1.0	former Marseille goalkeeper	quit	Moroccan club in mid-2005	ORGANIZATION	MISC
+1.0	Frenchman Henri Stambouli as coach of FAR Rabat	be fire at_time	last weekend	PERSON	DATE
+1.0	former Marseille goalkeeper	quit moroccan club after	six month	ORGANIZATION	DURATION

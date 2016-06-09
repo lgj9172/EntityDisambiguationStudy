@@ -1,0 +1,9 @@
+1.0	Klaus Augenthaler	extend	he contract	PERSON	0
+1.0	he contract	be	due	0	0
+1.0	international Klaus Augenthaler	extend	he contract	PERSON	0
+1.0	he contract	expire in	June 2009	0	DATE
+1.0	Klaus Fuchs	manager of	club	PERSON	0
+1.0	international Klaus Augenthaler	have	contract	O	O
+1.0	club	confirm at_time	Thursday	0	DATE
+1.0	club	have	manager	O	O
+1.0	international Klaus Augenthaler	join in	December 2005	PERSON	DATE

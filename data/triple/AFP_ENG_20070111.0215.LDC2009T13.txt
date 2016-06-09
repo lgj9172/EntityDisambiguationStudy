@@ -1,0 +1,35 @@
+1.0	Task Force commando	take	base know as Janaka	0	PERSON
+0.532078702860512	elite police commando	capture tamil tiger base	Thursday	0	DATE
+1.0	confrontation	be in	Sri Lanka	0	LOCATION
+1.0	Task Force commando	take	base	0	0
+1.0	diplomatic attempt	politically have end in	failure	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+0.7601841672954861	diplomatic attempt	end	conflict	0	0
+1.0	special Task Force commando	take	base know in district of Ampara	0	ORGANIZATION
+0.532078702860512	elite police commando	capture	Tamil Tiger base	0	0
+1.0	eastern region	be with	more 3,800 people kill in past year despite truce in place since February 2002	0	DATE
+1.0	special Task Force commando	take	base know as Janaka	0	PERSON
+1.0	ministry	say	add	0	0
+1.0	special Task Force commando	take	base	0	0
+1.0	truce	be in	place	0	0
+0.7601841672954861	attempt	end	conflict	0	0
+1.0	Task Force commando	take	base know in district of Ampara	0	ORGANIZATION
+1.0	diplomatic attempt	have end in	failure	0	0
+0.532078702860512	elite police commando	capture	key Tamil Tiger base	0	0
+1.0	special Task Force commando	take	base know as Janaka in district	0	PERSON
+1.0	attempt	have end in	failure	0	0
+1.0	Sri Lanka	have	Tamil separatist conflict	O	LOCATION
+1.0	special Task Force commando	take	base know in district	0	0
+1.0	Sri Lanka	in	Tamil separatist conflict	LOCATION	MISC
+1.0	Ampara	have	district	O	LOCATION
+1.0	attempt	politically have end in	failure	0	0
+1.0	special Task Force commando	take	base know	0	0
+1.0	Task Force commando	take	base know in district	0	0
+1.0	latest attack	come at_time	day	DURATION	DURATION
+1.0	Task Force commando	take	base know as Janaka in district	0	PERSON
+1.0	Task Force commando	take	base know as Janaka in district of Ampara	0	ORGANIZATION
+1.0	Task Force commando	take	base know	0	0
+0.532078702860512	elite police commando	capture key tamil tiger base	Thursday	0	DATE
+1.0	Liberation Tigers	have	members	O	ORGANIZATION
+1.0	special Task Force commando	take	base know as Janaka in district of Ampara	0	ORGANIZATION
+1.0	attack	come at_time	day	DURATION	DURATION

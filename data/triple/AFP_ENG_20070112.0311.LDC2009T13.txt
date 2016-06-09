@@ -1,0 +1,52 @@
+1.0	best result	be in	the last decade	0	DATE
+1.0	Unifrance	will organise	french film event	ORGANIZATION	0
+1.0	promotion board	have	head	O	O
+1.0	Unifrance	will organise film event in	2007	ORGANIZATION	DATE
+1.0	their	have	noses	O	O
+0.7858015206809201	sale	sell	55.8 million ticket	0	NUMBER
+1.0	India	will	will top of agenda	LOCATION	0
+1.0	India	will	too will top of agenda for Unifrance	LOCATION	ORGANIZATION
+1.0	Margaret Menegoz	be	Unifrance	PERSON	ORGANIZATION
+0.9092215891545493	sale	head of	country 's overseas promotion board	0	0
+1.0	Unifrance	will organise	film event	ORGANIZATION	0
+1.0	The French film industry	have	sights	O	O
+1.0	India	will	will top	LOCATION	0
+1.0	country	have	promotion board	O	O
+1.0	auteur films	have	favour	O	O
+1.0	55.8 million ticket	bring accord to	Unifrance figure	NUMBER	ORGANIZATION
+1.0	presence	be in	Mumbai	0	LOCATION
+1.0	India	will	will top of agenda for Unifrance	LOCATION	ORGANIZATION
+1.0	Unifrance	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	55.8 million ticket	bring in	300 million euro against 369 million in 2005	NUMBER	NUMBER
+1.0	France	for	romantic comedy genre	LOCATION	0
+1.0	55.8 million ticket	bring accord to	Unifrance figure release	NUMBER	ORGANIZATION
+1.0	results	have	one	NUMBER	O
+1.0	sales	have	percent	PERCENT	O
+1.0	sale	plunge	23 percent	0	PERCENT
+1.0	France	have	market	O	LOCATION
+1.0	Amelie Poulain	have	Fabulous Destiny	O	O
+1.0	french comedy movie	be in	favour of art-house auteur film	0	0
+1.0	France	have	comedy genre	O	LOCATION
+1.0	sale	plunge	23 percent in 2006	0	DATE
+1.0	55.8 million ticket	bring accord to	Unifrance figure release Friday	NUMBER	DATE
+1.0	films	have	success	O	O
+1.0	Unifrance	so will organise film event in	2007	ORGANIZATION	DATE
+1.0	film activity	be in	New York	0	LOCATION
+1.0	India	will	too will top of agenda	LOCATION	0
+1.0	recent zero-buyer	film at_time	last year	0	DATE
+1.0	55.8 million ticket	bring in	300 million euro	NUMBER	NUMBER
+1.0	agenda	have	top	O	O
+1.0	sale	head of	country 's overseas promotion board	0	0
+1.0	Unifrance	so will organise film event in	Beijing	ORGANIZATION	LOCATION
+1.0	India	will	too will top	LOCATION	0
+1.0	movies	have	Sales	O	O
+1.0	Unifrance	so will organise	french film event	ORGANIZATION	0
+1.0	Unifrance	will organise film event in	Beijing	ORGANIZATION	LOCATION
+1.0	France	have	top market for film	LOCATION	0
+1.0	2006	have	those	O	DATE
+1.0	country	of	overseas promotion board	0	0
+1.0	Margaret Menegoz	be director of	Unifrance	PERSON	ORGANIZATION
+1.0	market	have	percent share	O	O
+1.0	Unifrance	so will organise	film event	ORGANIZATION	0
+0.9092215891545493	sale	head of	country 's promotion board	0	0
+1.0	23 percent	be in	2006	PERCENT	DATE

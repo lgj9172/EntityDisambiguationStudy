@@ -1,0 +1,14 @@
+1.0	unknown assailant	cause	damage	0	0
+1.0	assailant	cause	damage	0	0
+1.0	unknown assailant	fire rocket at_time	Friday	0	DATE
+1.0	assailant	fire rocket in	Athens	0	LOCATION
+1.0	assailant	fire rocket at_time	Friday	0	DATE
+1.0	assailant	fire rocket at_time	early Friday	0	DATE
+1.0	unknown assailant	fire rocket at_time	early Friday	0	DATE
+1.0	unknown assailant	fire rocket in	Athens	0	LOCATION
+1.0	unknown assailant	cause damage to	building	0	0
+1.0	assailant	fire	rocket	0	0
+1.0	unknown assailant	fire rocket into	US embassy	0	LOCATION
+1.0	assailant	cause damage to	building	0	0
+1.0	assailant	fire rocket into	US embassy	0	LOCATION
+1.0	unknown assailant	fire	rocket	0	0

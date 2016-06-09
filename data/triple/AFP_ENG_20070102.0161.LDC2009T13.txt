@@ -1,0 +1,13 @@
+1.0	Elizabeth Isham Cory	be	FAA	PERSON	ORGANIZATION
+1.0	city	have	O'Hare International Airport	LOCATION	O
+1.0	you	can see	funny thing	0	0
+1.0	co-worker	tell	newspaper	0	0
+1.0	our	have	take	O	O
+1.0	newspaper	interview	several United employee	0	ORGANIZATION
+1.0	Elizabeth Isham Cory	be spokesman of	FAA	PERSON	ORGANIZATION
+1.0	newspaper	interview	United employee	0	ORGANIZATION
+1.0	people	have	lot	O	O
+1.0	FAA spokesman Elizabeth Isham Cory	tell	newspaper	ORGANIZATION	0
+1.0	you	can see	thing	0	0
+1.0	city	over	O'Hare International Airport	0	LOCATION
+1.0	radar	have	check	O	O

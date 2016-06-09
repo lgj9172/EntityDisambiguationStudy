@@ -1,0 +1,74 @@
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	White House	bluntly dismiss	outcry	ORGANIZATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Iraq 's government	have express	qualm	LOCATION	0
+1.0	White House	dismiss	international outcry	ORGANIZATION	0
+1.0	John Prescott	be on	Tuesday	PERSON	DATE
+1.0	violence	have	much	O	O
+1.0	Britain 's Deputy Prime Minister John Prescott	describe manner as	deplorable	PERSON	0
+0.49043618890972485	scene	widely distribute across	Middle East	0	LOCATION
+1.0	Sadr	have	Mahdi Army militia for much of sectarian violence plague	PERSON	ORGANIZATION
+1.0	its	have	investigation	O	O
+1.0	phone footage	have	leaking	O	O
+1.0	Saddam Hussein	murder	of thousand of people	0	0
+1.0	Iraq 's government	have express qualm about	event	LOCATION	0
+0.49043618890972485	scene	distribute by	cellphone	0	0
+1.0	hanging	have	manner	O	O
+1.0	Saddam	have	hanging	O	PERSON
+1.0	foes	have	reference	O	O
+1.0	government	be investigate	conduct of people	0	0
+1.0	spokesman Tony Snow	say amid	criticism of footage	PERSON	0
+1.0	Iraq	have	government	LOCATION	0
+1.0	Saddam Hussein	elevate	he two minute	PERSON	DATE
+1.0	it	also embarrass	government	0	0
+1.0	Nuri al-Maliki	be of	iraqi	PERSON	0
+1.0	White House	dismiss	outcry	ORGANIZATION	0
+1.0	footage	have	criticisms	O	O
+1.0	White House	be on	Wednesday	ORGANIZATION	DATE
+1.0	spokesman Tony Snow	say amid	criticism	PERSON	0
+1.0	69	about less be	year	NUMBER	0
+1.0	people	have	conduct	O	O
+1.0	Saddam	have	captors	O	PERSON
+1.0	it	embarrass	government	0	0
+1.0	execution	have	footage	O	O
+1.0	scene	have stir	anger	0	0
+1.0	concern	have	lot	O	O
+1.0	Saddam Hussein	have	life	O	PERSON
+1.0	people	have	thousands	O	O
+1.0	guards	have	one	NUMBER	O
+1.0	White House	bluntly dismiss	international outcry	ORGANIZATION	0
+1.0	life	have	minutes	DURATION	O
+1.0	Britain	have	John Prescott	LOCATION	PERSON
+1.0	Saddam Hussein	murder	thousand of people	0	0
+1.0	Saddam Hussein	have	decades	DURATION	O
+1.0	Prescott	have	comment	PERSON	0
+0.49043618890972485	scene	widely distribute by	cellphone	0	0
+1.0	spokesman Tony Snow	say amid	criticism of widely see footage	PERSON	0
+1.0	government	be investigate conduct within	chamber	0	0
+0.49043618890972485	scene	distribute across	Middle East	0	LOCATION
+1.0	investigation	have	part	O	O
+1.0	leader	have	foes	O	O
+1.0	Saddam	of	hanging	PERSON	0
+1.0	his	have	view	O	O
+1.0	Saddam Hussein	be	execute	PERSON	0
+1.0	Saddam Hussein	of	life	PERSON	0
+1.0	country	have	laws	O	O
+1.0	Britain	have	Deputy Prime Minister John Prescott	PERSON	LOCATION
+1.0	thousands	have	hundreds	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+0.9656551960039986	US	general in	Baghdad	LOCATION	LOCATION
+1.0	present	have	one	NUMBER	DATE
+1.0	Saddam Hussein	murder	of thousand	0	0
+1.0	Saddam	have	neck	O	PERSON
+1.0	government spokesman	be in	Baghdad	0	LOCATION
+1.0	Saddam Hussein	elevate	he last two minute	PERSON	DATE
+1.0	Saddam Hussein	murder	thousand	0	0
+1.0	Saddam Hussein	have	minutes	DATE	O
+1.0	Prescott	have	comments	O	PERSON
+1.0	Saddam	have	shiite captor mock during last minute	PERSON	DATE
+1.0	John Prescott	be deputy prime minister of	Britain	PERSON	LOCATION
+1.0	spokesman Tony Snow	say amid	criticism of see footage	PERSON	0
+1.0	government	be investigate	conduct	0	0
+1.0	Sadr	have	Mahdi Army militia	O	PERSON
+1.0	Iraq 's government	have express qualm about	event at execution	LOCATION	0
+1.0	Iraq	have	government	O	LOCATION

@@ -1,0 +1,13 @@
+1.0	he spokesman	tell afp at_time	Thursday	0	DATE
+1.0	Bangladesh	have	president	LOCATION	0
+1.0	President Iajuddin Ahmed	also decide	responsible	PERSON	0
+1.0	he spokesman	tell	AFP	0	ORGANIZATION
+1.0	President Iajuddin Ahmed	decide	responsible	PERSON	0
+1.0	government	have	head	O	O
+1.0	election	will	will postpone	0	0
+1.0	country	of	supreme court	0	0
+1.0	court	have	member	O	O
+1.0	government	have	chief	O	O
+1.0	Bangladesh 's president	have	spokesman	O	O
+1.0	Bangladesh	have	president	O	LOCATION
+1.0	country	have	court	O	O

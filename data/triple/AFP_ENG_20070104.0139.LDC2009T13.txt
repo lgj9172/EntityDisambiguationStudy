@@ -1,0 +1,125 @@
+1.0	election	due	hold in two round on April 22	0	DATE
+1.0	Segolene Royal	win	she party 's nomination	0	0
+1.0	visit	have	details	O	O
+1.0	mother-of-four	be	currently frontrunner	0	DATE
+1.0	presidential election	due	hold in two round on April 22	0	DATE
+1.0	China	be	enormous	LOCATION	0
+1.0	Segolene Royal	be at_time	late Thursday	0	DATE
+1.0	Royal 's second since winning her party 's nomination to contest the French presidential elections due to be held in two rounds , on April 22 and May 6	have	rival	O	O
+1.0	he	say	candidate	0	0
+1.0	Royal 's second since winning her party 's nomination to contest the French presidential elections due to be held in two rounds , on April 22 and May 6	rival	Nicolas Sarkozy	0	PERSON
+1.0	french presidential election	be hold on	April 22	0	DATE
+1.0	french election	be	hold in two round on April 22	0	DATE
+1.0	she	meet	Hezbollah member	0	ORGANIZATION
+1.0	Royal	have	opposition Socialist Party	ORGANIZATION	O
+1.0	he	say	candidate fly in at invitation	0	0
+1.0	she	agree with	then	0	0
+1.0	french presidential election	due	hold in two round	0	NUMBER
+1.0	he	say	other official	0	0
+0.633593924617174	he	say	other official	0	0
+1.0	Segolene Royal	give	detail of she visit	0	0
+1.0	Her	have	first	ORDINAL	O
+1.0	parliament	have	Hezbollah member	O	O
+1.0	mother-of-four	be frontrunner accord to	poll	0	0
+1.0	trip	be 's	Segolene Royal	0	0
+0.633593924617174	he	say	other official in Royal 's opposition Socialist Party	0	ORGANIZATION
+1.0	she	first agree with	then back away	0	0
+1.0	frontrunner	succeed	conservative President Jacques Chirac	0	PERSON
+0.08888763875480499	media	have throw on	Royal	0	MISC
+1.0	french presidential election	be	hold	0	0
+1.0	party	have	nomination	O	O
+1.0	presidential election	be hold in	two round	0	NUMBER
+1.0	France	have	woman president	O	LOCATION
+1.0	presidential election	due	hold	0	0
+1.0	53-year-old mother-of-four	be	frontrunner	DURATION	0
+1.0	trip	be 's	Royal second	0	ORDINAL
+1.0	she	agree with	then back away	0	0
+1.0	presidential election	be hold on	April 22	0	DATE
+1.0	her	have	party	O	O
+1.0	Royal	have	campaign manager	0	0
+1.0	election	due	hold in two round	0	NUMBER
+0.08888763875480499	media	have throw on	Royal fascinate	0	MISC
+1.0	french presidential election	due	hold on April 22	0	DATE
+1.0	she	first agree with	then	0	0
+1.0	french election	be	hold	0	0
+1.0	increase clout	be in	globalised marketplace	0	0
+1.0	he	say	other official in Royal 's opposition Socialist Party	0	ORGANIZATION
+1.0	french election	be hold in	two round	0	NUMBER
+1.0	Segolene Royal	give detail to	journalist	0	0
+1.0	french election	be hold on	April 22	0	DATE
+1.0	french election	due	hold on April 22	0	DATE
+1.0	Royal second	win	she party 's nomination	ORDINAL	0
+1.0	Royal	's manager be	Jean-Louis Biano	0	PERSON
+1.0	media	have throw spotlight on	Royal fascinate by she rise	0	MISC
+0.08888763875480499	media	have throw on	Royal fascinate by she rise	0	MISC
+1.0	her	have	credibility	O	O
+1.0	she	agree with	then back	0	0
+1.0	french election	due	hold in two round on April 22	0	DATE
+1.0	mother-of-four	be	frontrunner	0	0
+1.0	53-year-old mother-of-four	be	currently frontrunner	DURATION	DATE
+1.0	Royal	in	Socialist Party	0	ORGANIZATION
+1.0	her	have	rise	O	O
+1.0	Jean-Louis Biano	tell	afp	0	0
+1.0	she	agree with	then back from	0	0
+1.0	he	say	official in Royal 's opposition Socialist Party	0	ORGANIZATION
+1.0	french election	due	hold	0	0
+1.0	she first	spark	controversy	ORDINAL	0
+1.0	Royal	have	ahead	O	ORGANIZATION
+1.0	she	first agree with	then back	0	0
+1.0	53-year-old mother-of-four	be currently frontrunner accord to	poll	DURATION	0
+1.0	french presidential election	be	hold in two round on April 22	0	DATE
+1.0	mother-of-four	be currently frontrunner accord to	poll	0	0
+1.0	election	be	hold in two round on April 22	0	DATE
+1.0	media	have throw spotlight on	Royal fascinate	0	MISC
+1.0	Nicolas Sarkozy	be minister of	Interior	PERSON	ORGANIZATION
+1.0	election	be hold in	two round	0	NUMBER
+1.0	president	have	stature	O	O
+1.0	presidential election	be	hold in two round on April 22	0	DATE
+1.0	he	say	candidate fly	0	0
+1.0	Segolene Royal	win	she party 's nomination contest	0	0
+0.08888763875480499	chinese media	have throw on	Royal fascinate by she rise	0	MISC
+0.633593924617174	he	say	official in Royal 's opposition Socialist Party	0	ORGANIZATION
+1.0	election	be	hold	0	0
+1.0	woman president	have	prospect	O	O
+1.0	chinese media	have throw spotlight on	Royal fascinate	0	MISC
+1.0	chinese media	have throw spotlight on	Royal fascinate by she rise	0	MISC
+1.0	french presidential election	due	hold in two round on April 22	0	DATE
+1.0	government	have	invitation	O	O
+0.633593924617174	he	say	official	0	0
+1.0	election	due	hold	0	0
+1.0	Nicolas Sarkozy	be	Interior	PERSON	ORGANIZATION
+1.0	Royal	have	campaign manager	O	O
+1.0	presidential election	be	hold	0	0
+1.0	Royal second	win	she party 's nomination contest	ORDINAL	0
+1.0	he	say	candidate fly in at invitation of chinese government	0	0
+1.0	Middle East	be in	December	LOCATION	DATE
+1.0	Segolene Royal	be at_time	Thursday	0	DATE
+1.0	trip	be	Royal second	0	ORDINAL
+1.0	other official	be in	Socialist Party	0	ORGANIZATION
+1.0	presidential election	due	hold in two round	0	NUMBER
+1.0	chinese media	have throw	spotlight	0	0
+1.0	french presidential election	due	hold	0	0
+1.0	election	be hold on	April 22	0	DATE
+1.0	french election	due	hold in two round	0	NUMBER
+1.0	he	say	candidate fly in at invitation of government	0	0
+1.0	her	have	visit	O	O
+1.0	presidential election	due	hold on April 22	0	DATE
+1.0	media	have throw	spotlight	0	0
+1.0	frontrunner	succeed	President Jacques Chirac	0	PERSON
+1.0	election	due	hold on April 22	0	DATE
+1.0	he	say	official	0	0
+1.0	media	have throw spotlight on	Royal	0	MISC
+0.08888763875480499	chinese media	have throw on	Royal fascinate	0	MISC
+1.0	Hu Jintao	be with	chinese	PERSON	0
+1.0	trip	be	Segolene Royal	0	0
+1.0	she	first agree with	then back from	0	0
+1.0	53-year-old mother-of-four	be frontrunner accord to	poll	DURATION	0
+1.0	chinese media	have throw spotlight on	Royal	0	MISC
+1.0	party	have	nomination contest	0	0
+1.0	she	agree with	then back away from	0	0
+1.0	Segolene Royal	give	detail	0	0
+1.0	she	first agree with	then back away from	0	0
+1.0	french presidential election	be hold in	two round	0	NUMBER
+1.0	she	meet	Hezbollah member of parliament	0	ORGANIZATION
+0.08888763875480499	chinese media	have throw on	Royal	0	MISC
+1.0	France	have	first woman president	LOCATION	ORDINAL

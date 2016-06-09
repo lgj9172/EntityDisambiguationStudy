@@ -1,0 +1,37 @@
+1.0	Chris Adams	be	stump	PERSON	0
+1.0	Chris Adams	combine	captaincy	PERSON	0
+1.0	contract	have	breach	O	O
+1.0	McGrath	have	exit	O	O
+1.0	Chris Adams	combine captaincy with	director of cricket role	PERSON	0
+1.0	Yorkshire	be	plunge	LOCATION	0
+1.0	Yorkshire	be plunge into	further turmoil on Thursday	LOCATION	DATE
+1.0	McGrath	be offer	captaincy in wake of last-minute decision	PERSON	DATE
+1.0	cricket	have	director	O	O
+1.0	Yorkshire	be plunge into	further turmoil	LOCATION	0
+1.0	Chris Adams	have	change	O	O
+1.0	Anthony McGrath	leave with	immediate effect	0	0
+1.0	Chris Adams	combine captaincy with	director	PERSON	0
+1.0	Yorkshire	find	director of cricket	ORGANIZATION	0
+1.0	Chris Adams	be stump by	he change	PERSON	0
+1.0	McGrath	be offer	captaincy in wake	PERSON	0
+1.0	cricket role	have	director	O	O
+1.0	Yorkshire	find	director	ORGANIZATION	0
+1.0	McGrath	be offer	captaincy in wake of decision	PERSON	DATE
+1.0	year	have	end	DATE	DATE
+1.0	Yorkshire	be plunge into	turmoil	LOCATION	0
+1.0	Allan Donald	be	South Africa	PERSON	LOCATION
+1.0	heart	have	change	O	O
+1.0	Yorkshire	be plunge into	turmoil on Thursday	LOCATION	DATE
+1.0	county	have	captaincy	0	0
+1.0	captaincy	be in	wake of last-minute decision	0	DATE
+1.0	Yorkshire	find	new director of cricket	ORGANIZATION	0
+1.0	Allan Donald	be pace bowler of	South Africa	PERSON	LOCATION
+1.0	Yorkshire	react to	move	LOCATION	0
+1.0	McGrath	be	31	PERSON	NUMBER
+1.0	decision	have	wake	O	O
+1.0	county	have	captaincy	O	O
+1.0	McGrath	have	deal	O	O
+1.0	Anthony McGrath	leave with	effect	0	0
+1.0	McGrath	be offer	captaincy	PERSON	0
+1.0	Chris Adams	be stump by	he change of heart	PERSON	0
+1.0	Yorkshire	find	new director	ORGANIZATION	0

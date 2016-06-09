@@ -1,0 +1,71 @@
+1.0	nation	have	history	O	O
+1.0	antiquity	have	warrior-king	O	O
+1.0	Greece	agree to	compromise in name standoff	0	0
+1.0	Greece	agree to	compromise	0	0
+1.0	airport controversy	have	wake	O	O
+1.0	Skopje	use	name republic of Macedonia	LOCATION	LOCATION
+1.0	capital	have	airport	O	O
+1.0	Skopje	break from	Belgrade	LOCATION	LOCATION
+1.0	Skopje	break away from	Belgrade	LOCATION	LOCATION
+1.0	tiny balkan nation	over	name	0	0
+1.0	Matthew Nimetz	be	The United Nations	PERSON	ORGANIZATION
+0.8937759979647389	Greece	integral part of	its own heritage	LOCATION	0
+1.0	UN 's point man	resolve	14-year dispute	ORGANIZATION	DURATION
+1.0	developments	have	informed	O	O
+1.0	heritage	have	part	O	O
+1.0	UN	have	point man	O	ORGANIZATION
+1.0	capital	have	main airport	0	0
+1.0	capital	have	main airport	DURATION	DURATION
+1.0	foreign ministry spokesman George Koumoutsakos	tell	AFP	PERSON	ORGANIZATION
+1.0	UN 's point man	resolve	14-year dispute between Athens	ORGANIZATION	LOCATION
+1.0	UN 's point man	resolve	dispute between Athens	ORGANIZATION	LOCATION
+1.0	compromise	be in	name standoff	0	0
+1.0	power	have	birthplace	O	O
+1.0	he	later tender	second publicly	0	DURATION
+0.9851785181649397	Athens	be basis for	solution	LOCATION	0
+1.0	he	tender	second	0	DURATION
+1.0	ministry spokesman George Koumoutsakos	tell	AFP	PERSON	ORGANIZATION
+1.0	he	later tender	second	0	DURATION
+1.0	UN 's point man	resolve	broader dispute	ORGANIZATION	0
+1.0	UN 's point man	resolve	broader dispute between Athens	ORGANIZATION	LOCATION
+1.0	UN 's point man	resolve	dispute	ORGANIZATION	0
+1.0	UN	have	point man resolve over name	ORGANIZATION	0
+1.0	Belgrade in 1991	have	constitution	O	O
+0.8937759979647389	Greece	part of	its own heritage	LOCATION	0
+1.0	neighbour	have	ambitions	O	O
+0.9851785181649397	Athens	be good basis for	solution	LOCATION	0
+1.0	Matthew Nimetz	be special envoy of	The United Nations	PERSON	ORGANIZATION
+1.0	UN 's point man	resolve	broader 14-year dispute between Athens	ORGANIZATION	LOCATION
+1.0	Alexander	have	birthplace of power	PERSON	0
+0.9851785181649397	Athens	be	basis	LOCATION	0
+1.0	Athens	have	hackles	O	LOCATION
+1.0	Macedonia-Skopje	have	Republic	MISC	MISC
+1.0	Alexander	warrior-king of	antiquity	PERSON	0
+1.0	Alexander	have	birthplace	O	PERSON
+1.0	its	have	neighbour	O	O
+1.0	Macedonia	be on	December 28	LOCATION	DATE
+1.0	Athens	be	good	LOCATION	0
+1.0	Macedonia	have	Yugolsav Republic	LOCATION	LOCATION
+1.0	Skopje	break from	Belgrade in 1991	LOCATION	DATE
+1.0	UN special envoy Matthew Nimetz	be	UN 's point man	PERSON	ORGANIZATION
+1.0	Belgrade	be in	1991	LOCATION	DATE
+1.0	Macedonia	have	name Republic	LOCATION	LOCATION
+0.9851785181649397	Athens	be	good basis	LOCATION	0
+1.0	Greece	brief	he	LOCATION	0
+1.0	Skopje	use globally	name republic of Macedonia	LOCATION	LOCATION
+1.0	name Macedonia	have	use	O	LOCATION
+1.0	Greece	block	its neighbour 's ambition	0	0
+1.0	he	tender	second publicly	0	DURATION
+1.0	Skopje	use	name republic	LOCATION	0
+1.0	the name Macedonia	have	heritage	O	O
+1.0	UN 's point man	resolve	broader 14-year dispute	ORGANIZATION	DURATION
+1.0	Republika Makedonia	have	compromise proposal	O	O
+1.0	the name Macedonia	have	capital	O	O
+0.8937759979647389	Greece	part of	its heritage	LOCATION	0
+1.0	Skopje	break away from	Belgrade in 1991	LOCATION	DATE
+1.0	Nimetz	be in	April 2005	PERSON	DATE
+1.0	Skopje	use globally	name republic	LOCATION	0
+1.0	Skopje	have	capital	O	O
+0.8937759979647389	Greece	integral part of	its heritage	LOCATION	0
+1.0	neighbour	have	ambition join	0	0
+1.0	Balkan nation	have	name	O	O

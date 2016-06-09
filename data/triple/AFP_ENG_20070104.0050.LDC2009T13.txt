@@ -1,0 +1,21 @@
+1.0	military official	say at_time	Thursday	0	DATE
+1.0	heavy artillery	be in	east	0	0
+1.0	Army Commander Lieutenant General Sarath Fonseka	visit	Air Chief Marshal Donald Perera	PERSON	PERSON
+1.0	Tamils	be in	north	MISC	0
+1.0	Army Commander Lieutenant General Sarath Fonseka	discuss	troop deployment	PERSON	0
+1.0	ltte	have exchange artillery since	start	0	DATE
+1.0	ltte	have exchange	heavy artillery in east	0	0
+1.0	conflict	have claim since	1972	0	DATE
+1.0	ltte	have exchange	artillery in east	0	0
+1.0	ltte	have exchange	artillery	0	0
+1.0	two	be	hurt	NUMBER	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	Army Commander Lieutenant General Sarath Fonseka	discuss	Air Chief Marshal Donald Perera	PERSON	PERSON
+1.0	Army Commander Lieutenant General Sarath Fonseka	visit	embattled	PERSON	0
+1.0	December	have	start	DATE	DATE
+1.0	terrorist claymore mine attack	be in	northeast Sri Lanka spokesman	0	LOCATION
+1.0	Tamil Eelam	have	rebel Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	defence ministry spokesman	be in	Colombo	0	LOCATION
+1.0	ltte	have exchange	heavy artillery	0	0
+1.0	ltte	have exchange artillery since	start of December	0	DATE
+1.0	capital Colombo	have	north	O	LOCATION

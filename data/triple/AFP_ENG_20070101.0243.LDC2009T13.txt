@@ -1,0 +1,45 @@
+1.0	resentment	be in	area plague by sectarian violence	0	0
+0.6154111565666666	election	source	govern council	0	0
+1.0	election	mainly shiite	as result council in Baquba	0	LOCATION
+1.0	election	mainly shiite	govern council in Baquba	0	LOCATION
+1.0	election	mainly shiite	council in Baquba	0	LOCATION
+1.0	Diyala	have	province	O	LOCATION
+1.0	guards	have	three	NUMBER	O
+0.6154111565666666	election	source	as result govern council in Baquba	0	LOCATION
+0.6154111565666666	election	source of	resentment in area plague by violence	0	0
+1.0	election	shiite	govern council in Baquba	0	LOCATION
+1.0	election	shiite	as result council in Baquba	0	LOCATION
+0.6154111565666666	election	source	govern council in Baquba	0	LOCATION
+1.0	election	mainly shiite	council	0	0
+1.0	govern council	be in	Baquba	0	LOCATION
+1.0	election	mainly shiite	govern council	0	0
+1.0	election	be	shiite	0	0
+1.0	election	shiite	govern council	0	0
+0.6154111565666666	election	source of	resentment	0	0
+0.6154111565666666	election	source	as result govern council	0	0
+1.0	election	mainly shiite	as result govern council	0	0
+0.6154111565666666	election	source of	resentment in area plague	0	0
+1.0	election	mainly shiite	as result govern council in Baquba	0	LOCATION
+1.0	election	shiite	as result council	0	0
+1.0	Baghdad	have	northeast	O	LOCATION
+1.0	Diyala	be	mixed province	LOCATION	0
+0.6154111565666666	election	source	council	0	0
+1.0	election	shiite	as result govern council	0	0
+1.0	election	shiite	as result govern council in Baquba	0	LOCATION
+1.0	council	have	member	O	O
+0.6154111565666666	election	source	council in Baquba	0	LOCATION
+1.0	province	have	council	O	O
+1.0	Diyala	be	mixed	LOCATION	0
+1.0	election	shiite	council in Baquba	0	LOCATION
+1.0	Diyala	be	province	LOCATION	0
+1.0	election	be	mainly shiite	0	0
+1.0	Baquba police	have	Lieutenant Omar Mahmud	PERSON	O
+0.6154111565666666	election	source of	resentment in area plague by sectarian violence	0	0
+0.6154111565666666	election	source	as result council	0	0
+1.0	election	shiite	council	0	0
+1.0	election	mainly shiite	as result council	0	0
+1.0	his	have	guards	O	O
+1.0	resentment	have	source	O	O
+0.6154111565666666	election	source of	resentment in area	0	0
+1.0	three	have	council	O	NUMBER
+0.6154111565666666	election	source	as result council in Baquba	0	LOCATION

@@ -1,0 +1,76 @@
+1.0	Frere 's company	be	already shareholder	PERSON	LOCATION
+1.0	belgian financier Albert Frere	have acquire	further 5.3 million share	PERSON	NUMBER
+1.0	merger process	have	have further complicate by report	0	0
+0.07544485706203907	AMR	have give	Pinault 's company Artemis until February state	ORGANIZATION	DATE
+1.0	Pinault	have	hold company Artemis until February 2 state regard Suez	PERSON	DATE
+1.0	financier Albert Frere	have acquire	further 5.3 million share	PERSON	NUMBER
+1.0	Frere 's company	be	already single shareholder	PERSON	LOCATION
+1.0	Suez	in shareholder be	GDF	ORGANIZATION	0
+1.0	Frere 's company	be	largest shareholder	PERSON	LOCATION
+1.0	belgian financier Albert Frere	raise	he stake	PERSON	0
+0.07544485706203907	AMR	have give	Pinault 's company Artemis until February 2 state regard Suez	ORGANIZATION	DATE
+0.07544485706203907	AMR	have give	Pinault 's hold company state regard Suez	ORGANIZATION	PERSON
+1.0	whose	have	family	O	O
+1.0	process	merge with	state-controlled gas utility Gaz de France	0	LOCATION
+1.0	merger process	have	have further complicate	0	0
+1.0	suez-gdf tie-up	would require	privatization of gdf	0	0
+1.0	Artemis	be until	February 2	ORGANIZATION	DATE
+1.0	Frere 's company	be	already largest shareholder	PERSON	LOCATION
+1.0	tie-up	would require privatization over	objection of Socialist opposition	0	0
+1.0	Enel	be by	italian	ORGANIZATION	0
+1.0	merger process	have	have complicate by report	0	0
+0.07544485706203907	AMR	have give	Pinault 's company state regard Suez	ORGANIZATION	PERSON
+0.07544485706203907	AMR	have give	Pinault 's company state	ORGANIZATION	PERSON
+1.0	whose family	control	luxury group PPR	0	ORGANIZATION
+0.07544485706203907	AMR	have give	Pinault 's hold company Artemis until February 2 state regard Suez	ORGANIZATION	DATE
+1.0	amf	be with	french	0	0
+1.0	financier Albert Frere	have acquire	5.3 million share	PERSON	NUMBER
+1.0	Frere 's hold company	be	already largest shareholder	PERSON	LOCATION
+1.0	Frere	have	company	O	PERSON
+1.0	Frere 's hold company	be	single shareholder	PERSON	LOCATION
+1.0	court ruling	have	terms	O	O
+1.0	suez-gdf tie-up	would require	privatization	0	0
+1.0	Frere 's company	be	single shareholder	PERSON	LOCATION
+1.0	Belgian financier Albert Frere	say at_time	week	PERSON	DATE
+1.0	AMR	have give	Pinault 's company	ORGANIZATION	PERSON
+1.0	Frere 's hold company	be	shareholder	PERSON	LOCATION
+0.07544485706203907	AMR	have give	Pinault 's company Artemis until February 2 state	ORGANIZATION	DATE
+1.0	GDF	have	privatization	O	ORGANIZATION
+1.0	Frere 's hold company	be	already single shareholder	PERSON	LOCATION
+0.07544485706203907	AMR	have give	Pinault 's hold company state	ORGANIZATION	PERSON
+1.0	Pinault	have	company	O	PERSON
+1.0	financier Albert Frere	raise	he stake	PERSON	0
+0.07544485706203907	AMR	have give	Pinault 's hold company Artemis until February state	ORGANIZATION	DATE
+1.0	process	merge with	gas utility Gaz de France	0	LOCATION
+0.07544485706203907	AMR	have give	Pinault 's company Artemis until February state regard Suez	ORGANIZATION	DATE
+1.0	Frere 's hold company	be	already shareholder	PERSON	LOCATION
+0.07544485706203907	AMR	have give	Pinault 's hold company Artemis until February state regard Suez	ORGANIZATION	DATE
+1.0	voting rights	have	percent	PERCENT	O
+0.07544485706203907	AMR	have give	Pinault 's hold company Artemis until February 2 state	ORGANIZATION	DATE
+1.0	Belgian financier Albert Frere	have	stake	O	O
+1.0	Belgian financier Albert Frere	have	shareholding	O	O
+1.0	Frere 's hold company	be	already largest single shareholder	PERSON	LOCATION
+1.0	Artemis	have	intentions	O	O
+1.0	Frere 's hold company	be	largest shareholder	PERSON	LOCATION
+1.0	Frere	have	hold company	PERSON	0
+1.0	tie-up	would require	privatization of gdf	0	0
+1.0	Socialist opposition	have	objections	O	O
+1.0	tie-up	would require privatization over	objection	0	0
+1.0	Frere 's company	be	largest single shareholder	PERSON	LOCATION
+1.0	merger	plan at_time	last February	0	DATE
+1.0	trade unions	have	objections	O	O
+1.0	Frere 's company	be	already largest single shareholder	PERSON	LOCATION
+1.0	suez-gdf tie-up	would require privatization over	objection of Socialist opposition	0	0
+1.0	merger	plan at_time	February	0	DATE
+1.0	merger process	have	have complicate	0	0
+1.0	tie-up	would require	privatization	0	0
+1.0	filing	be with	amf	0	0
+1.0	Albert Frere	be	belgian	PERSON	0
+1.0	Belgian financier Albert Frere	say at_time	last week	PERSON	DATE
+1.0	Frere 's hold company	be	largest single shareholder	PERSON	LOCATION
+1.0	suez-gdf tie-up	would require privatization over	objection	0	0
+1.0	belgian financier Albert Frere	have acquire	5.3 million share	PERSON	NUMBER
+1.0	press report	say at_time	Wednesday	0	DATE
+1.0	AMR	have give	Pinault 's hold company	ORGANIZATION	PERSON
+1.0	largest single shareholder	be in	Suez	LOCATION	ORGANIZATION
+1.0	Frere 's company	be	shareholder	PERSON	LOCATION

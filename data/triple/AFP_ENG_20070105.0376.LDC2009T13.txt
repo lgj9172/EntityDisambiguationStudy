@@ -1,0 +1,14 @@
+1.0	fall	have	result	O	DATE
+1.0	The child	have	mother	O	O
+1.0	hospital	be in	nearby city of Faro	0	LOCATION
+1.0	apartment window	have	window	O	O
+1.0	car	have	landed	O	O
+1.0	neighbour	tell	SIC television	0	ORGANIZATION
+1.0	Lisbon	have	mother	O	LOCATION
+1.0	hospital spokesman	tell	agency	0	0
+1.0	Olhao	have	fishing port	O	LOCATION
+1.0	window	have	fell	O	O
+1.0	hospital	be in	Portugal	0	LOCATION
+1.0	accident	have	time	DATE	O
+1.0	apartment	be in	southern fishing port of Olhao	0	LOCATION
+1.0	Faro	have	city	O	LOCATION

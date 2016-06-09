@@ -1,0 +1,24 @@
+1.0	Mizoen	have	town	O	LOCATION
+1.0	Briancon	have	town	O	LOCATION
+1.0	fireman	say at_time	Friday	0	DATE
+1.0	injured man	be believe	tour leader	0	0
+1.0	other	be hospitalise in	town of Briancon	0	LOCATION
+1.0	man	be	believe	0	0
+1.0	two other	be hospitalise in	nearby town of Briancon	NUMBER	LOCATION
+1.0	other	be hospitalise in	town	0	0
+1.0	injured man	be	believe	0	0
+1.0	two other	be hospitalise in	nearby town	NUMBER	0
+1.0	La Grave	have	town	O	LOCATION
+1.0	other	be	hospitalise	0	0
+1.0	other	be hospitalise in	nearby town of Briancon	0	LOCATION
+1.0	injured man	be	tour leader	0	0
+1.0	two other	be hospitalise in	town of Briancon	NUMBER	LOCATION
+1.0	two other	be hospitalise in	town	NUMBER	0
+1.0	La grave	be in	Isere region	LOCATION	LOCATION
+1.0	man	be	tour leader	0	0
+1.0	man	be believe	tour leader	0	0
+1.0	two other	be	hospitalise	NUMBER	0
+1.0	light injury	be in	Grenoble	0	LOCATION
+1.0	vacation	be in	Alps	0	LOCATION
+1.0	other	be hospitalise in	nearby town	0	0
+1.0	icy road	be in	France	0	LOCATION

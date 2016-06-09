@@ -1,0 +1,29 @@
+1.0	stock market	lose ground with	London 's ftse	0	LOCATION
+1.0	european stock market	lose ground at_time	Wednesday	0	DATE
+1.0	european stock market	lose ground with	London 's ftse down	0	LOCATION
+1.0	european stock market	lose ground with	London 's ftse 100 index down	0	LOCATION
+1.0	stock market	lose ground with	London 's ftse down	0	LOCATION
+0.9445378815042467	CAC	be at	in Paris lower 5,501.95 point	0	LOCATION
+0.9445378815042467	CAC	be at	lower 5,501.95 point	0	NUMBER
+0.9445378815042467	CAC	be at	0.56 percent lower 5,501.95 point	0	PERCENT
+0.9445378815042467	CAC 40	be at	5,501.95 point	NUMBER	NUMBER
+0.9445378815042467	CAC 40	be at	lower 5,501.95 point	NUMBER	NUMBER
+1.0	european stock market	lose ground by	0.57 percent at 6,160.70 point	0	PERCENT
+0.9445378815042467	CAC 40	be at	0.56 percent lower 5,501.95 point	NUMBER	PERCENT
+1.0	5,501.95 point	be in	Paris	NUMBER	LOCATION
+1.0	London	with	ftse	LOCATION	0
+1.0	european stock market	lose	ground	0	0
+1.0	stock market	lose ground by	0.57 percent	0	PERCENT
+0.9445378815042467	CAC	be at	in Paris 5,501.95 point	0	LOCATION
+1.0	european stock market	lose ground with	London 's ftse	0	LOCATION
+0.9445378815042467	CAC 40	be at	in Paris 5,501.95 point	NUMBER	LOCATION
+0.9445378815042467	CAC	be at	5,501.95 point	0	NUMBER
+0.9445378815042467	CAC	be at	in Paris 0.56 percent lower 5,501.95 point	0	LOCATION
+1.0	stock market	lose	ground	0	0
+1.0	stock market	lose ground by	0.57 percent at 6,160.70 point	0	PERCENT
+1.0	european stock market	lose ground by	0.57 percent	0	PERCENT
+1.0	stock market	lose ground at_time	Wednesday	0	DATE
+0.9445378815042467	CAC 40	be at	in Paris lower 5,501.95 point	NUMBER	LOCATION
+1.0	London	have	FTSE	MISC	LOCATION
+1.0	stock market	lose ground with	London 's ftse 100 index down	0	LOCATION
+0.9445378815042467	CAC 40	be at	in Paris 0.56 percent lower 5,501.95 point	NUMBER	LOCATION

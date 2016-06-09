@@ -1,0 +1,118 @@
+1.0	200 people	be in	Kraynici	NUMBER	LOCATION
+1.0	villager ' protest	divide parliament with	opposition deputy Yane Yanev	0	PERSON
+1.0	Vuchkov	work at	only facility	PERSON	0
+1.0	Vuchkov	collect	special excise tax require by Brussels	PERSON	LOCATION
+1.0	village	have	mayor	O	O
+1.0	here	boil rakia at	night in basement distillery	0	TIME
+1.0	night	be in	clandestine basement distillery	TIME	0
+1.0	people	have	grape marc ready	0	0
+1.0	people	extract	they traditional brandy	0	0
+1.0	grapes	have	out get	O	O
+1.0	Vuchkov	work at	facility	PERSON	0
+1.0	Vuchkov	collect	excise tax require	PERSON	0
+1.0	Kraynici	have	village	O	LOCATION
+1.0	people	extract	they brandy	0	0
+1.0	rakia	have	litre	O	O
+1.0	Parliament	be	expect	ORGANIZATION	0
+1.0	villager ' protest	neighbour	Romania	0	LOCATION
+1.0	excise tax	spark protest in	Bulgaria	0	LOCATION
+1.0	Bulgaria	get	maximum possible lowering	LOCATION	0
+1.0	other villager	protest	tax	0	0
+1.0	so-called	be now desert with	its eight furnace	0	NUMBER
+1.0	parliament	postpone	introduction of tax	0	0
+1.0	parliament	postpone introduction until	January 1	0	DATE
+1.0	tax	introduce gradually	it	0	0
+1.0	women	have	group	O	O
+1.0	review	issue	when it convene after winter break Thursday	0	DATE
+1.0	review	issue	when it convene	0	0
+1.0	Vuchkov	collect excise tax from	he client	PERSON	0
+1.0	here	show	couple of villager	0	0
+1.0	review	issue	it convene after winter break Thursday	0	DATE
+1.0	Vuchkov	work at	licensed facility	PERSON	0
+1.0	only licensed facility	be in	village	0	0
+1.0	our	have	rakia	O	O
+1.0	living	have	means	O	O
+1.0	fruit	have	out get	O	O
+0.1448874864707259	villager ' protest	divide with	opposition deputy Yane Yanev insist	0	PERSON
+0.746957969802177	petition	people in	Kraynici	0	LOCATION
+1.0	so-called	be desert with	its eight furnace	0	NUMBER
+1.0	review	issue	it convene after winter break	0	DATE
+1.0	people	pay for	sugar	0	0
+1.0	Katuntsi	have	streets	O	LOCATION
+1.0	tax rate	have	maximum lowering	O	O
+1.0	here	be	show	0	0
+1.0	Kapatovo	have	village	O	LOCATION
+1.0	his	have	clients	O	O
+1.0	Vuchkov	collect	excise tax	PERSON	0
+1.0	their	have	joy	O	O
+1.0	other villager	meanwhile dump grape marc on	Tuesday	0	DATE
+1.0	eu-imposed excise tax	spark	protest	0	0
+1.0	Kraynici	have	head	O	PERSON
+1.0	their	have	rakia	O	O
+1.0	other villager	dump grape marc on	Tuesday	0	DATE
+1.0	Bulgaria	join european union on	January 1	LOCATION	DATE
+0.4735073641878579	people	want	come	0	0
+1.0	The villagers '	have	rakia	O	O
+1.0	Vuchkov	collect	excise tax require by Brussels	PERSON	LOCATION
+1.0	other villager	vow	gather	0	0
+1.0	katuntsi	village near	greek border	0	0
+1.0	parliament	postpone	introduction	0	0
+1.0	rakia	have	break	O	O
+1.0	here	boil rakia at	night in clandestine basement distillery	0	TIME
+1.0	Bulgaria	get	maximum possible lowering of tax rate	LOCATION	0
+1.0	European Union	be with	we rakia	ORGANIZATION	0
+1.0	its	have	furnaces	O	O
+1.0	here	boil	couple	0	0
+1.0	so-called	be	now desert	0	DATE
+0.8323591182035123	parliament	introduction of	excise tax	0	0
+1.0	Vuchkov	collect	special excise tax	PERSON	0
+0.746957969802177	special petition	people in	Kraynici	0	LOCATION
+1.0	so-called	be	desert	0	0
+1.0	eu-imposed excise tax	spark protest in	Bulgaria	0	LOCATION
+1.0	Vuchkov	have	have force	PERSON	0
+1.0	review	issue	it convene Thursday	0	DATE
+1.0	parliament	postpone	introduction of excise tax	0	0
+1.0	their	have	product	O	O
+1.0	villager ' protest	divide parliament with	opposition deputy Yane Yanev insist	0	PERSON
+1.0	toiling	be in	they fruit garden	0	0
+1.0	review	issue	when it convene Thursday	0	DATE
+1.0	other villager	meanwhile dump	grape marc	0	0
+1.0	excise tax	spark	protest	0	0
+0.9715142962392872	amount	be over	30 litre	0	NUMBER
+0.1448874864707259	villager ' protest	divide with	opposition deputy Yane Yanev	0	PERSON
+1.0	villager ' protest	2009 neighbour	Romania	0	LOCATION
+1.0	front of parliament on February 14	convene at_time	Thursday	0	DATE
+1.0	parliamentary spokesman Georgy Pirinski	tell	journalist	PERSON	0
+1.0	other villager	dump	grape marc	0	0
+1.0	Bulgaria	join	European Union	LOCATION	ORGANIZATION
+1.0	their	have	fruit gardens	O	O
+1.0	parliamentary spokesman Georgy Pirinski	tell journalist at_time	Tuesday	PERSON	DATE
+1.0	here	boil rakia at	night	0	TIME
+1.0	front of parliament on February 14	convene after	winter break	0	DATE
+1.0	Zaharinov	say	add	PERSON	0
+1.0	pots	have	kinds	O	O
+1.0	eu-imposed excise tax	spark protest with	villager	0	0
+1.0	people	have	grape marc	0	0
+1.0	brandy	have	production	O	O
+1.0	spokesman Georgy Pirinski	tell journalist at_time	Tuesday	PERSON	DATE
+1.0	review	issue	it convene	0	0
+0.8323591182035123	parliament	introduction of	tax	0	0
+1.0	Vuchkov	collect	special excise tax require	PERSON	0
+1.0	spokesman Georgy Pirinski	tell	journalist	PERSON	0
+1.0	here	boil	couple of villager	0	0
+1.0	villagers	have	couple	O	O
+1.0	vineyards	have	holiday	O	O
+1.0	parliament	have	gather	O	O
+1.0	here	show	couple	0	0
+1.0	excise tax	spark protest with	villager	0	0
+1.0	Saint Triphon	have	Day	DURATION	O
+1.0	Vuchkov	work at	only licensed facility	PERSON	0
+1.0	wine	have	holiday	O	O
+1.0	tax	have	introduction	O	O
+1.0	here	boil	rakia	0	0
+1.0	leva	have	price	O	MONEY
+1.0	villagers	have	protests	O	O
+1.0	villager ' protest	divide	parliament	0	0
+1.0	tax	introduce	it	0	0
+1.0	review	issue	when it convene after winter break	0	DATE
+1.0	their	have	brandy	O	O

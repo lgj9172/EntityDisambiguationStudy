@@ -1,0 +1,82 @@
+1.0	testimony	have	have publish on internet	0	0
+1.0	four danish opposition party Friday	reiterate call for	inquiry	DATE	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have reject call for	probe	PERSON	0
+1.0	danish opposition party Friday	reiterate call for	inquiry	DATE	0
+1.0	testimony	have	have previously publish on internet on December 2	0	DATE
+1.0	testimony	have	have previously publish by American Civil Liberties Union	0	ORGANIZATION
+1.0	politiken	publish account to	US interrogator	0	LOCATION
+1.0	daily politiken	publish	account give under oath	SET	0
+1.0	Prime Minister Anders Fogh Rasmussen	have reject	earlier call	PERSON	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have already reject call for	probe	PERSON	0
+1.0	politiken	publish	account give under oath	0	0
+1.0	afghan	be in	March 2002	0	DATE
+1.0	danish Prime Minister Anders Fogh Rasmussen	have already reject call in	December	PERSON	DATE
+1.0	Prime Minister Anders Fogh Rasmussen	have already reject	earlier call	PERSON	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have reject call in	December	PERSON	DATE
+1.0	Soeren Gade	be	danish Defense	PERSON	ORGANIZATION
+1.0	Defense Minister Soeren Gade	tell	public broadcaster dr1	ORGANIZATION	0
+1.0	Prime Minister Anders Fogh Rasmussen	have already reject	call	PERSON	0
+1.0	secret war	hand	they	0	0
+1.0	danish politiken	publish	account	0	0
+1.0	testimony	have	have previously publish on internet	0	DATE
+1.0	danish opposition party Friday	reiterate call for	independent inquiry	DATE	0
+1.0	Prime Minister Anders Fogh Rasmussen	have reject call for	independent probe	PERSON	0
+1.0	testimony	have	have publish on internet on December 2	0	DATE
+1.0	testimony	have	have previously publish on internet by American Civil Liberties Union	0	ORGANIZATION
+1.0	danish Defense Minister Soeren Gade	reject call on	Friday	ORGANIZATION	DATE
+1.0	four danish opposition party Friday	reiterate call into	claim	DATE	0
+1.0	danish politiken	publish account to	US interrogator	0	LOCATION
+1.0	politiken	publish	account	0	0
+1.0	danish Defense Minister Soeren Gade	tell	broadcaster dr1	ORGANIZATION	0
+1.0	head	tell	afp	0	0
+1.0	Prime Minister Anders Fogh Rasmussen	have reject call for	probe	PERSON	0
+1.0	Prime Minister Anders Fogh Rasmussen	have reject	call	PERSON	0
+1.0	danish daily politiken	publish account at	Kandahar prisoner camp	SET	LOCATION
+1.0	danish daily politiken	publish	account	SET	0
+1.0	danish Defense Minister Soeren Gade	tell	public broadcaster dr1	ORGANIZATION	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have already reject	earlier call	PERSON	0
+1.0	Defense Minister Soeren Gade	reject call on	Friday	ORGANIZATION	DATE
+1.0	danish Defense Minister Soeren Gade	reject call for	independent inquiry	ORGANIZATION	0
+1.0	Prime Minister Anders Fogh Rasmussen	have already reject call for	probe	PERSON	0
+1.0	Prime Minister Anders Fogh Rasmussen	have reject call in	December	PERSON	DATE
+1.0	testimony	have	have publish	0	0
+1.0	daily politiken	publish account to	US interrogator	SET	LOCATION
+1.0	testimony	have	have publish on internet on December 2 by American Civil Liberties Union	0	ORGANIZATION
+1.0	testimony	have	have publish on internet by American Civil Liberties Union	0	ORGANIZATION
+1.0	testimony	have	have previously publish	0	DATE
+1.0	danish daily politiken	publish	account give under oath	SET	0
+1.0	opposition Socialist People	have	Party	ORGANIZATION	ORGANIZATION
+1.0	four danish opposition party Friday	reiterate	call	DATE	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have already reject call for	independent probe	PERSON	0
+1.0	Party	have	head	O	ORGANIZATION
+1.0	daily politiken	publish	account	SET	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have reject	call	PERSON	0
+1.0	danish Prime Minister Anders Fogh Rasmussen	have reject call for	independent probe	PERSON	0
+1.0	Anders Fogh Rasmussen	be	danish	PERSON	0
+1.0	danish daily politiken	publish account to	US interrogator	SET	LOCATION
+1.0	war	hand	they	0	0
+1.0	Afghanistan	be in	2002	LOCATION	DATE
+1.0	danish opposition party Friday	reiterate	call	DATE	0
+1.0	testimony	have	have publish by American Civil Liberties Union	0	ORGANIZATION
+1.0	daily politiken	publish account at	Kandahar prisoner camp	SET	LOCATION
+1.0	Defense Minister Soeren Gade	reject	call	ORGANIZATION	0
+1.0	Prime Minister Anders Fogh Rasmussen	have already reject call in	December	PERSON	DATE
+1.0	Socialist People 's Party	be	Villy Soevndal	ORGANIZATION	PERSON
+1.0	danish politiken	publish	account give under oath	0	0
+1.0	Defense Minister Soeren Gade	reject call for	inquiry	ORGANIZATION	0
+1.0	testimony	have	have previously publish on internet on December 2 by American Civil Liberties Union	0	ORGANIZATION
+1.0	danish politiken	publish account at	Kandahar prisoner camp	0	LOCATION
+1.0	danish Defense Minister Soeren Gade	reject call for	inquiry	ORGANIZATION	0
+1.0	danish troops	be in	Afghanistan	0	LOCATION
+1.0	danish Prime Minister Anders Fogh Rasmussen	have reject	earlier call	PERSON	0
+1.0	four danish opposition party Friday	reiterate call for	independent inquiry	DATE	0
+1.0	Defense Minister Soeren Gade	reject call for	independent inquiry	ORGANIZATION	0
+1.0	government	have	head	O	O
+1.0	danish Prime Minister Anders Fogh Rasmussen	have already reject	call	PERSON	0
+1.0	politiken	publish account at	Kandahar prisoner camp	0	LOCATION
+1.0	Prime Minister Anders Fogh Rasmussen	have already reject call for	independent probe	PERSON	0
+1.0	danish opposition party Friday	reiterate call into	claim	DATE	0
+1.0	Defense Minister Soeren Gade	tell	broadcaster dr1	ORGANIZATION	0
+1.0	danish Defense Minister Soeren Gade	reject	call	ORGANIZATION	0
+1.0	Afghans	have	group	O	MISC
+1.0	Soeren Gade	be minister of	danish Defense	PERSON	ORGANIZATION

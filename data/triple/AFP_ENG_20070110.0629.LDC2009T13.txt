@@ -1,0 +1,107 @@
+1.0	EU 's relation	expect	minister of Denmark	ORGANIZATION	LOCATION
+1.0	minister	be speak at	gala dinner ahead of Thursday 's opening of meeting	0	DATE
+1.0	statute	have	issues	O	O
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos on Wednesday	speak on	eve of international meeting	PERSON	0
+1.0	EU policy chief	will deliver closing address on	Friday	ORGANIZATION	DATE
+1.0	Spaniard Javier Solana	will deliver closing address on	Friday	ORGANIZATION	DATE
+0.4968793960127973	meeting	give discreet backing by	Madrid government	0	LOCATION
+0.4968793960127973	meeting	give	discreet backing	0	0
+1.0	international community	facilitate	creation of confidence between party	0	0
+1.0	solution	have	attempted	O	O
+1.0	minister	be speak at	gala dinner of Thursday 's opening	0	DATE
+0.4968793960127973	meeting	give	backing	0	0
+1.0	minister	be speak at	gala dinner of Thursday 's opening of meeting	0	DATE
+1.0	EU 's relation	expect	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	meeting	create	atmosphere	0	0
+1.0	conference	be open by	former minister Felipe Gonzalez	0	PERSON
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos	call for	Middle East peace conference	LOCATION	LOCATION
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos on Wednesday	speak on	eve	PERSON	0
+1.0	conference	be	open by former minister Felipe Gonzalez	0	PERSON
+1.0	community	facilitate	creation of confidence between party	0	0
+1.0	conference	be	open Thursday by former spanish minister Felipe Gonzalez	0	PERSON
+1.0	EU 's external relation	expect	foreign minister	ORGANIZATION	0
+1.0	Alvaro de Soto	be peace envoy of	UN mideast	PERSON	LOCATION
+1.0	EU 's external relation	expect	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos	call for	full-scale Middle East peace conference	LOCATION	LOCATION
+1.0	community	be	present	0	DATE
+1.0	conference	be	open by former spanish prime minister Felipe Gonzalez	0	PERSON
+1.0	figures	have	number	O	O
+1.0	meeting	have	opening	O	O
+1.0	community	be	actively present	0	DATE
+1.0	whom	have	some	O	O
+1.0	EU 's relation	be	also expect	ORGANIZATION	0
+1.0	conference	be	open Thursday by former prime minister Felipe Gonzalez	0	PERSON
+1.0	EU 's external relation	also expect	minister	ORGANIZATION	0
+1.0	Spaniard Javier Solana	be	Spaniard	PERSON	MISC
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos on Wednesday	speak on	region	PERSON	0
+1.0	Hubert Vedrine	be	among participant Arab League General Secretary Amr Mussa	PERSON	ORGANIZATION
+1.0	EU 's relation	also expect	minister	ORGANIZATION	0
+1.0	EU 's relation	also expect	foreign minister	ORGANIZATION	0
+1.0	Sweden	have	ministers	O	LOCATION
+1.0	meeting	create	international atmosphere	0	0
+1.0	EU 's relation	also expect	minister of Denmark	ORGANIZATION	LOCATION
+1.0	conference	be open by	former spanish prime minister Felipe Gonzalez	0	PERSON
+1.0	conference	be	open Thursday by former spanish prime minister Felipe Gonzalez	0	PERSON
+1.0	EU 's relation	be	expect	ORGANIZATION	0
+1.0	international community	facilitate	creation of confidence	0	0
+1.0	Spain	have	Foreign Minister Miguel Angel Moratinos	PERSON	LOCATION
+1.0	conference	be open by	former prime minister Felipe Gonzalez	0	PERSON
+1.0	community	facilitate	creation of confidence	0	0
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos	call for	new full-scale Middle East peace conference	LOCATION	LOCATION
+1.0	EU 's external relation	also expect	minister of Denmark	ORGANIZATION	LOCATION
+1.0	Norway	have	ministers	O	LOCATION
+1.0	EU 's relation	also expect	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	region	be in	Madrid	0	LOCATION
+1.0	conference	be	open Thursday	0	DATE
+1.0	EU	have	external relation	ORGANIZATION	0
+1.0	EU 's external relation	expect	minister	ORGANIZATION	0
+1.0	conference	be	open by former spanish minister Felipe Gonzalez	0	PERSON
+1.0	EU 's external relation	be	also expect	ORGANIZATION	0
+1.0	confidence	have	creation	O	O
+1.0	minister	be speak at	gala dinner of Thursday 's official opening of meeting	0	DATE
+1.0	Felipe Gonzalez	be by	spanish	PERSON	0
+1.0	minister	be speak at	gala dinner of Thursday 's official opening	0	DATE
+1.0	some	attend	US	0	LOCATION
+1.0	Hubert Vedrine	be	Arab League General Secretary Amr Mussa	PERSON	ORGANIZATION
+1.0	Spaniard Javier Solana	will deliver	closing address	ORGANIZATION	0
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos	call for	new Middle East peace conference	LOCATION	LOCATION
+1.0	Spain	have	Miguel Angel Moratinos	LOCATION	PERSON
+1.0	conference	be open at_time	Thursday 's	0	DATE
+1.0	Madrid Conference	have	anniversary	DATE	O
+1.0	minister	be speak at	gala dinner ahead of Thursday 's official opening	0	DATE
+1.0	Thursday	have	opening	O	DATE
+1.0	community	facilitate	creation	0	0
+1.0	international community	be	actively present	0	DATE
+1.0	Miguel Angel Moratinos	be foreign minister of	Spain	PERSON	LOCATION
+1.0	international community	facilitate	creation	0	0
+1.0	Miguel Angel Moratinos	be on	Wednesday	PERSON	DATE
+1.0	EU 's external relation	also expect	foreign minister	ORGANIZATION	0
+1.0	minister	be speak at	gala dinner ahead of Thursday 's official opening of meeting	0	DATE
+1.0	EU policy chief	will deliver	closing address	ORGANIZATION	0
+0.6445751402211424	spanish government	back by	France	0	LOCATION
+1.0	Amr Mussa	be	Arab League	PERSON	ORGANIZATION
+1.0	European	have	number	O	MISC
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos on Wednesday	speak on	eve of meeting	PERSON	0
+1.0	EU 's relation	expect	minister	ORGANIZATION	0
+1.0	Spain 's Foreign Minister Miguel Angel Moratinos on Wednesday	speak on	region in Madrid	PERSON	LOCATION
+1.0	minister	be speak at	gala dinner ahead of Thursday 's opening	0	DATE
+1.0	EU 's external relation	expect	minister of Denmark	ORGANIZATION	LOCATION
+1.0	conference	be	open	0	0
+1.0	Amr Mussa	be general secretary of	Arab League	PERSON	ORGANIZATION
+1.0	conference	be	open by former prime minister Felipe Gonzalez	0	PERSON
+1.0	Denmark	have	ministers	O	LOCATION
+1.0	EU 's relation	expect	foreign minister	ORGANIZATION	0
+1.0	conference	be open by	former spanish minister Felipe Gonzalez	0	PERSON
+1.0	meeting	have	eve	O	O
+0.6445751402211424	government	back by	France	0	LOCATION
+1.0	international community	be	present	0	DATE
+1.0	opening	have	gala dinner	O	O
+1.0	EU 's external relation	also expect	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	EU	have	relations	O	ORGANIZATION
+1.0	some	attend	original US	0	LOCATION
+1.0	EU 's external relation	be	expect	ORGANIZATION	0
+0.4968793960127973	meeting	give backing by	Madrid government	0	LOCATION
+1.0	conference	be	open Thursday by former minister Felipe Gonzalez	0	PERSON
+1.0	Arab	have	number	O	MISC
+1.0	minister	be speak at	gala dinner	0	0
+1.0	parties	have	consensus	O	O

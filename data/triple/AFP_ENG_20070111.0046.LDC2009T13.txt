@@ -1,0 +1,58 @@
+1.0	victims	have	names	O	O
+1.0	organs	have	some	O	O
+1.0	New Delhi	from	affluent Noida suburb	LOCATION	LOCATION
+1.0	overwhelming stench	lead in	drain	0	0
+1.0	killing spree	have	unaware	O	O
+1.0	tests	have	Results	O	O
+1.0	Surender Koli	have	victims	O	O
+1.0	result	be	design	0	0
+1.0	overwhelming stench	lead to	discovery of body part	0	0
+1.0	murder	be	commit	0	0
+1.0	he	eat	some	0	0
+1.0	he	meanwhile emerge from	test	0	0
+1.0	India	have	Times	ORGANIZATION	ORGANIZATION
+1.0	child	have	liver	O	O
+1.0	stench	lead to	discovery of chopped-up body part	0	0
+1.0	he	flush	they	0	0
+1.0	he	employer	Moninder Singh Pandher	0	PERSON
+1.0	My	have	father	O	O
+1.0	overwhelming stench	lead to	discovery of carefully chopped-up body part	0	0
+1.0	police	have	investigation	O	O
+1.0	Pandher	have	home	O	PERSON
+1.0	his	have	victim	O	O
+1.0	overwhelming stench	lead to	discovery	0	0
+1.0	he	eat	some of organ	0	0
+1.0	Pandher	have	family	PERSON	0
+1.0	victims	have	torsos	O	O
+1.0	narco	have	results	O	O
+1.0	Pandher	have	family	O	PERSON
+1.0	he	eat	some organ	0	0
+1.0	sex	be with	dead body	0	0
+1.0	Surender Koli	have	employer	O	O
+1.0	New Delhi	have	Noida suburb	O	LOCATION
+1.0	two	be	arrest on December 29 from New Delhi 's Noida suburb	NUMBER	LOCATION
+1.0	stench	lead to	discovery of carefully chopped-up body part	0	0
+1.0	two	be arrest from	New Delhi 's affluent Noida suburb	NUMBER	LOCATION
+1.0	report	say at_time	Thursday	0	DATE
+0.542944137805111	analysis test	be	relief	0	0
+1.0	victim	be	four-year-old	0	DURATION
+1.0	stench	lead to	discovery of body part	0	0
+1.0	results	have	reports	O	O
+1.0	suspect	be in	gruesome murder of 17 people near indian capital	0	NUMBER
+1.0	Surender Koli	kill	he 17 victim	0	NUMBER
+1.0	Koli	be	quote	PERSON	0
+1.0	two	be	arrest on December 29 from New Delhi 's affluent Noida suburb	NUMBER	LOCATION
+1.0	two	be	arrest	NUMBER	0
+1.0	businessman Moninder Singh Pandher who has also been arrested and charged	have	servant	O	O
+1.0	stench	lead to	discovery	0	0
+1.0	people	have	murders	O	O
+1.0	body parts	have	discovery	O	O
+1.0	the victims	have	bodies	O	O
+1.0	Koli	tell	investigator	PERSON	0
+1.0	stench	lead in	drain	0	0
+1.0	Pandher	next to	home	PERSON	0
+1.0	two	be arrest on	December 29	NUMBER	DATE
+1.0	overwhelming stench	lead to	discovery of chopped-up body part	0	0
+1.0	he	emerge from	test	0	0
+1.0	17 people	have	organs	O	O
+1.0	two	be arrest from	New Delhi 's Noida suburb	NUMBER	LOCATION

@@ -1,0 +1,30 @@
+1.0	chinese company	say at_time	Friday	0	DATE
+1.0	Fortis Bank	will take	10 percent	ORGANIZATION	PERCENT
+1.0	The joint venture	be	list	0	0
+1.0	joint venture	will have	500 million yuan in register capital	0	MONEY
+1.0	management	have	composition	O	O
+1.0	company	have	finance department	O	O
+1.0	power companies	have	one	NUMBER	O
+0.597391170231737	its parent Shenergy Group	will hold	65 percent	ORGANIZATION	PERCENT
+1.0	joint venture	will have	500 million yuan	0	MONEY
+1.0	venture	will have	500 million yuan	0	MONEY
+1.0	company	with	finance department	0	0
+1.0	venture	will have	500 million yuan in capital	0	MONEY
+1.0	Shenergy Finance Co Ltd	have	parent Shenergy Group	ORGANIZATION	O
+1.0	The joint venture	be	where list	0	0
+1.0	Belgium	have	Fortis Bank	ORGANIZATION	LOCATION
+1.0	Shanghai	have	power companies	O	LOCATION
+1.0	Shanghai	of	main power company	LOCATION	0
+1.0	company	say at_time	Friday	0	DATE
+1.0	Belgium	with	Fortis Bank	LOCATION	ORGANIZATION
+1.0	joint venture	will have	64 million dollar	0	MONEY
+1.0	Shenergy Finance Co Ltd	one of	Shanghai 's main power company	ORGANIZATION	LOCATION
+1.0	venture	will have	64 million dollar	0	MONEY
+1.0	register capital	in yuan be	64 million dollar	0	MONEY
+1.0	executive	tell	afp	0	0
+1.0	joint venture	will have	500 million yuan in capital	0	MONEY
+1.0	executive	be with	company 's finance department	0	0
+1.0	venture	will have	500 million yuan in register capital	0	MONEY
+1.0	500 million yuan	be in	register capital	MONEY	0
+1.0	Shenergy Finance Co Ltd	will hold	25 percent stake	ORGANIZATION	PERCENT
+1.0	Fortis Bank	will take	remain 10 percent	ORGANIZATION	PERCENT

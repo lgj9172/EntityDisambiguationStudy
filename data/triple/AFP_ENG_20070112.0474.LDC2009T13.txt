@@ -1,0 +1,70 @@
+1.0	Yushchenko	face resistance from	Yanukovych 's majority in parliament	PERSON	PERSON
+1.0	Yushchenko	face resistance from	Yanukovych 's russian majority	PERSON	PERSON
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's majority	PERSON	PERSON
+1.0	his	have	office	O	O
+1.0	lawmaker	chip on	Thursday	0	DATE
+1.0	Yushchenko	have	rival	PERSON	0
+1.0	Yushchenko	face resistance from	Yanukovych 's russian majority in parliament	PERSON	PERSON
+1.0	lawmaker	override	Yushchenko 's presidential veto	0	PERSON
+1.0	opposition group	have	backers	O	O
+1.0	Yushchenko	face resistance from	Yanukovych 's pro- russian majority in parliament	PERSON	PERSON
+1.0	parliament	have	members	O	O
+1.0	Parliament	adopt	law	ORGANIZATION	0
+1.0	lawmaker	form	bloc	0	0
+1.0	rival	have	bloc	O	O
+1.0	supporters	have	coalition	O	O
+1.0	parliament	of	450 member	0	NUMBER
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's pro- russian majority in parliament	PERSON	PERSON
+1.0	ukrainian lawmaker	chip on	Thursday	0	DATE
+1.0	lawmaker	form	bloc of member from two rival side	0	NUMBER
+1.0	Parliament	also adopt	law	ORGANIZATION	0
+1.0	backers	have	bloc	O	O
+1.0	its	have	representatives	O	O
+1.0	lawmaker	chip away on	Thursday	0	DATE
+1.0	western-leaning Yushchenko	face	tough resistance	PERSON	0
+1.0	Prime Minister Viktor Yanukovych	have	supporters	O	PERSON
+1.0	Yushchenko	face resistance from	Yanukovych 's majority	PERSON	PERSON
+1.0	lawmaker	override	Yushchenko 's veto on issue	0	PERSON
+1.0	government	have	say	O	O
+1.0	government	have	say	0	0
+1.0	lawmaker	override	Yushchenko 's veto	0	PERSON
+1.0	Yushchenko	have	camp	PERSON	0
+1.0	lawmaker	override	Yushchenko 's presidential veto on issue	0	PERSON
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's majority in parliament	PERSON	PERSON
+1.0	Yanukovych	have	majority	O	PERSON
+1.0	lawmaker	form	bloc of member	0	0
+1.0	members	have	bloc	O	O
+1.0	ukrainian lawmaker	chip away on	Thursday	0	DATE
+1.0	members	have	majority	O	O
+1.0	president	have	ally	O	O
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's pro- russian majority	PERSON	PERSON
+1.0	President Viktor Yushchenko	have	powers	O	PERSON
+1.0	banks	have	boards	O	O
+1.0	president	by	former ally	0	0
+1.0	Yanukovych 's pro- russian majority	be in	parliament	PERSON	0
+1.0	Yushchenko	have	camp	O	PERSON
+1.0	western-leaning Yushchenko	face	resistance	PERSON	0
+1.0	Yanukovych	from	pro- russian majority in parliament	PERSON	0
+1.0	President Viktor Yushchenko 's	have	office	O	O
+1.0	Yushchenko	have	presidential veto on issue	PERSON	0
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's pro- majority	PERSON	PERSON
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's russian majority	PERSON	PERSON
+1.0	state	have	structure	O	O
+1.0	Yushchenko	face resistance from	Yanukovych 's pro- majority	PERSON	PERSON
+1.0	Yushchenko	face	resistance	PERSON	0
+1.0	Yushchenko	have	rival	O	PERSON
+1.0	Yushchenko	face	tough resistance	PERSON	0
+1.0	coalition	have	bloc	O	O
+1.0	support	have plummet in	recent month	0	DURATION
+1.0	office	have	deputy head	O	O
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's russian majority in parliament	PERSON	PERSON
+1.0	support	have plummet in	month	0	0
+1.0	His	have	presidency	O	O
+1.0	ukrainian lawmaker	pass	law	0	0
+1.0	lawmaker	form	bloc of member from two side	0	NUMBER
+1.0	western-leaning Yushchenko	face resistance from	Yanukovych 's pro- majority in parliament	PERSON	PERSON
+1.0	Viktor Yushchenko	at	power	PERSON	0
+1.0	Yushchenko	face resistance from	Yanukovych 's pro- russian majority	PERSON	PERSON
+1.0	Yushchenko	face resistance from	Yanukovych 's pro- majority in parliament	PERSON	PERSON
+1.0	lawmaker	pass	law	0	0
+1.0	Yushchenko	have	veto	O	PERSON

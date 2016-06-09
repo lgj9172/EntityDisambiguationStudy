@@ -1,0 +1,126 @@
+1.0	the Slovenian central bank Mitja Gaspari	be schedule as	head of slovenian central bank	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly rate-setting meeting	PERSON	SET
+1.0	Slovenia	join	eurozone	LOCATION	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	tolar	mark switch to	head of central bank Mitja Gaspari	0	PERSON
+1.0	tolar	mark switch to	head of slovenian bank Mitja Gaspari	0	PERSON
+1.0	tolar	mark switch to	head of slovenian central bank Mitja Gaspari	0	PERSON
+1.0	price	be in	service sector	0	0
+1.0	Slovenia	become	country	LOCATION	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly meeting of Central Bank	PERSON	ORGANIZATION
+1.0	eurozone	's state be	Slovenia 's	0	LOCATION
+1.0	country	have	independence	O	O
+1.0	Slovenia	become	13th country	LOCATION	ORDINAL
+1.0	euro	have	launch	O	O
+1.0	the Slovenian central bank Mitja Gaspari	express satisfaction despite	evidence	PERSON	0
+1.0	Slovenia	have	adoption of euro	LOCATION	0
+0.8805365737922146	price	launch of	euro in eurozone 's member state	0	0
+0.8642719581769349	Slovenia	country with	inhabitant	LOCATION	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly rate-setting meeting	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	express satisfaction in	interview	PERSON	0
+1.0	tolar	mark	two-week switch	0	DURATION
+0.8642719581769349	Slovenia	small country with	two million inhabitant	LOCATION	NUMBER
+1.0	tolar	mark	switch	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	express satisfaction in	interview with german daily	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	be	schedule	PERSON	0
+1.0	euro	have	adoption	O	O
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly meeting	PERSON	SET
+0.8805365737922146	price	launch of	euro in eurozone 's newest member state	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	bank	have	head	O	O
+1.0	small country	be with	two million inhabitant	0	NUMBER
+1.0	euro bill	enter	coin	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	euro switch	lead to	price	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	Slovenia	officially join	eurozone	LOCATION	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	meeting of Central Bank	PERSON	ORGANIZATION
+1.0	tolar	mark switch to	head of bank Mitja Gaspari	0	PERSON
+1.0	Slovenia	declare independence from	former Yugoslavia	LOCATION	LOCATION
+1.0	the Slovenian central bank Mitja Gaspari	express satisfaction with	cash changeover process	PERSON	0
+1.0	Slovenia	join eurozone on	January 1	LOCATION	DATE
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular meeting	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take	part	PERSON	0
+1.0	Slovenia	officially join eurozone on	January 1	LOCATION	DATE
+1.0	the Slovenian central bank Mitja Gaspari	be schedule as	head of slovenian bank	PERSON	0
+1.0	Slovenia	declare	independence	LOCATION	0
+1.0	Slovenia	have	adoption	O	LOCATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	euro switch	lead to	higher price	0	0
+0.022365932509734954	Slovenia	declare from	former Yugoslavia	LOCATION	LOCATION
+1.0	the Slovenian central bank Mitja Gaspari	express	satisfaction	PERSON	0
+1.0	Mitja Gaspari	be of	slovenian	PERSON	0
+1.0	tolar	mark	successful switch	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	rate-setting meeting	PERSON	0
+1.0	bank Mitja Gaspari	have	head	O	PERSON
+1.0	tolar	mark	successful two-week switch	0	DURATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly meeting	PERSON	SET
+1.0	tolar	be introduce in	1991	0	DATE
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	be schedule as	head of bank	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	meeting	PERSON	0
+1.0	tolar	mark switch to	euro	0	0
+1.0	Slovenia	have	money	O	LOCATION
+1.0	year	have	beginning	DATE	DATE
+1.0	country	have	independence	0	0
+1.0	eurozone	in	newest member state	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	be schedule as	head of central bank	PERSON	0
+1.0	tolar	mark switch to	head	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly meeting of Central Bank	PERSON	ORGANIZATION
+1.0	Slovenians	see switch as	positive	MISC	0
+0.8642719581769349	Slovenia	country with	two million inhabitant	LOCATION	NUMBER
+1.0	cash	have	percent	PERCENT	O
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	meeting of Central Bank	PERSON	ORGANIZATION
+1.0	Slovenia	country with	two million inhabitant	LOCATION	NUMBER
+1.0	Central Bank	have	meeting	O	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	monthly meeting	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	be schedule as	head	PERSON	0
+1.0	tolar	be	introduce	0	0
+1.0	week	have	end	DATE	DATE
+1.0	interview	be with	daily	0	SET
+1.0	tolar	mark	country 's independence	0	0
+1.0	higher price	be in	area	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take here	part	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular meeting	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly meeting	PERSON	SET
+1.0	eurozone	have	member state	O	O
+0.8805365737922146	price	launch of	euro	0	0
+1.0	euro bill	first enter	coin	0	0
+1.0	euro switch	lead to	higher price in area	0	0
+1.0	euro	head of	Mitja Gaspari	0	PERSON
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	euro bill	first enter	circulation	0	0
+1.0	euro bill	enter	circulation	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular rate-setting meeting	PERSON	0
+1.0	euro	be in	eurozone 's newest member state	0	0
+0.8642719581769349	Slovenia	small country with	inhabitant	LOCATION	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular rate-setting meeting	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	express satisfaction in	interview with daily	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	meeting	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	monthly rate-setting meeting	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	rate-setting meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	Slovenia	have	old national money	LOCATION	0
+1.0	euro switch	lead to	price in area	0	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	rate-setting meeting	PERSON	0
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly rate-setting meeting	PERSON	SET
+1.0	the Slovenian central bank Mitja Gaspari	take part here in	regular monthly rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular meeting of european Central Bank	PERSON	ORGANIZATION
+1.0	the Slovenian central bank Mitja Gaspari	take part in	regular monthly rate-setting meeting of Central Bank	PERSON	ORGANIZATION
+1.0	Slovenia	accede to	EU	LOCATION	ORGANIZATION

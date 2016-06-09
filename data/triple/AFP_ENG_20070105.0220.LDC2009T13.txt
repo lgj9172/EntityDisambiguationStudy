@@ -1,0 +1,113 @@
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli	0	LOCATION
+1.0	twelve quake survivor	die in	landslide	0	0
+1.0	victim	be in	minibus travel to mountainous region from city of Rawalpindi	0	LOCATION
+1.0	quake survivor	die in	landslide near Muzaffarabad	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from city of Rawalpindi	0	LOCATION
+1.0	Rawalpindi	have	city	O	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from pakistani city	0	0
+1.0	victim	be in	minibus travel to region from northern city	0	0
+1.0	victim	be in	packed minibus travel to mountainous region from pakistani city	0	0
+1.0	state capital Muzaffarabad	have	kilometers	O	LOCATION
+1.0	victim	be in	packed minibus travel from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from city	0	LOCATION
+1.0	victim	be in	packed minibus travel from pakistani city of Rawalpindi	0	LOCATION
+1.0	20 people	be in	minibus	NUMBER	0
+1.0	victim	be in	minibus travel to region from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region	0	0
+1.0	victim	be in	minibus travel to mountainous region of Kotli from northern pakistani city	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli from pakistani city	0	LOCATION
+1.0	administration official Bashir Mughal	tell	AFP	PERSON	ORGANIZATION
+1.0	victim	be in	packed minibus travel from pakistani city	0	0
+1.0	victim	be in	packed minibus travel to region from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region from city	0	0
+1.0	victim	be in	minibus travel to mountainous region	0	0
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from northern city	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region from northern city	0	0
+1.0	victim	be in	minibus travel to region of Kotli from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	Pakistan	have	Parts	O	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region from city	0	0
+1.0	victim	be in	minibus travel to mountainous region from pakistani city	0	0
+1.0	Kotli	have	region	O	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from northern pakistani city	0	0
+1.0	Kashmir	have	zone	O	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region	0	0
+1.0	victim	be in	minibus travel from pakistani city	0	0
+1.0	victim	be in	packed minibus travel to region of Kotli from city	0	LOCATION
+1.0	victim	be in	packed minibus travel from city	0	0
+1.0	victim	be in	minibus travel to mountainous region of Kotli from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel from northern pakistani city	0	0
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from northern pakistani city	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region from northern pakistani city	0	0
+1.0	victim	be in	minibus travel to region from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region from northern pakistani city	0	0
+1.0	victim	be in	minibus travel to region from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli from northern pakistani city	0	LOCATION
+1.0	victim	be in	minibus travel from northern city	0	0
+1.0	victim	be in	minibus travel to region from city	0	0
+1.0	victim	be in	minibus travel to region from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel from northern city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region of Kotli	0	LOCATION
+1.0	victim	be in	packed minibus travel to region	0	0
+1.0	quake survivor	die in	July	0	DATE
+1.0	victim	be in	packed minibus travel to region from northern city	0	0
+1.0	victim	be in	packed minibus travel to mountainous region from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from northern pakistani city	0	LOCATION
+1.0	part	be	hit	0	0
+1.0	victim	be in	minibus travel to mountainous region of Kotli from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel	0	0
+1.0	Pakistani Kashmir	have	Parts	O	LOCATION
+1.0	victim	be in	packed minibus travel from northern city	0	0
+1.0	victim	be in	minibus travel to region of Kotli from northern city	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region of Kotli from northern city	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region of Kotli from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	fatalities	have	number	O	O
+1.0	victim	be in	packed minibus travel to region of Kotli	0	LOCATION
+1.0	victim	be in	packed minibus	0	0
+1.0	victim	be in	minibus travel to mountainous region from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to region of Kotli	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from pakistani city of Rawalpindi	0	LOCATION
+1.0	More than 20 people	have	vehicle	O	O
+1.0	victim	be in	packed minibus travel to region of Kotli from pakistani city	0	LOCATION
+1.0	quake survivor	die in	landslide	0	0
+1.0	victim	be in	minibus travel	0	0
+1.0	victim	be in	minibus travel from city	0	0
+1.0	victim	be in	minibus travel from northern pakistani city	0	0
+1.0	victim	be in	minibus travel to mountainous region of Kotli from pakistani city	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from northern pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel to region from city	0	0
+1.0	victim	be in	packed minibus travel to mountainous region of Kotli from pakistani city	0	LOCATION
+1.0	victim	be in	packed minibus travel to region of Kotli from northern city	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region from northern city	0	0
+1.0	victim	be in	packed minibus travel to mountainous region from pakistani city of Rawalpindi	0	LOCATION
+1.0	victim	be in	packed minibus travel from city of Rawalpindi	0	LOCATION
+1.0	victim	be	packed	0	0
+1.0	victim	be in	minibus travel to region from pakistani city	0	0
+1.0	twelve quake survivor	die in	landslide near Muzaffarabad	0	LOCATION
+1.0	victim	be in	packed minibus travel to mountainous region from northern pakistani city	0	0
+1.0	Muzaffarabad	of kilometer be	130 mile	LOCATION	NUMBER
+1.0	victim	be in	minibus travel to mountainous region of Kotli from city	0	LOCATION
+1.0	twelve quake survivor	die in	July	0	DATE
+1.0	victim	be in	minibus travel from city of Rawalpindi	0	LOCATION
+1.0	victim	be in	minibus travel to mountainous region of Kotli from northern city of Rawalpindi	0	LOCATION
+1.0	senior administration official Bashir Mughal	tell	AFP	PERSON	ORGANIZATION
+1.0	victim	be in	minibus	0	0
+1.0	victim	be in	minibus travel to mountainous region from pakistani city of Rawalpindi	0	LOCATION
+1.0	rescue team	retrieve	vehicle	0	0
+1.0	victim	be in	minibus travel to region of Kotli from city	0	LOCATION

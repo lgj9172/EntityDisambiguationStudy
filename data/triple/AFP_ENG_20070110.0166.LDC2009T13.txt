@@ -1,0 +1,75 @@
+1.0	54-year-old	have deny media in	atrocity against ethnic serb	DURATION	0
+1.0	Croatia	have	proclamation of independence	LOCATION	0
+1.0	crime	be commit in	Zagreb	0	LOCATION
+1.0	Tomislav Mercep	be	high-ranking	PERSON	0
+1.0	Tomislav Mercep	be high-ranking official of	ruling	PERSON	0
+1.0	crime	be	commit	0	0
+1.0	International Criminal Tribunal	be for	Yugoslavia	ORGANIZATION	LOCATION
+1.0	54-year-old	have deny	media	DURATION	0
+1.0	sources	have	variety	O	O
+1.0	state attorney 's office	start	preliminary proceedings	0	0
+1.0	Vukovar	have	towns	O	LOCATION
+1.0	his	have	own	O	O
+1.0	Tomislav Mercep	be high-ranking official of	ruling nationalist	PERSON	0
+1.0	document	be forward to	Zagreb	0	LOCATION
+1.0	Tomislav Mercep	minister in	1992-1993	PERSON	DATE
+1.0	Tomislav Mercep	be	official	PERSON	0
+1.0	CIA report	recently post with	war crime against ethnic serb	ORGANIZATION	0
+1.0	International Criminal Tribunal	investigate	Mercep	ORGANIZATION	PERSON
+1.0	Zagreb	be in	early 2006	LOCATION	DATE
+1.0	document	be	forward from UN court to Zagreb	0	ORGANIZATION
+1.0	state attorney 's office	start proceedings in	case	0	0
+1.0	54-year-old	have always deny media in	atrocity	DURATION	0
+1.0	country	during	1991-1995 war	0	DURATION
+1.0	Tomislav Mercep	be official of	ruling nationalist	PERSON	0
+1.0	thousands	have	killing	O	O
+1.0	Serbs	have	thousands	O	MISC
+1.0	country	have	war	O	O
+1.0	Tomislav Mercep	interior minister in	1992-1993	PERSON	DATE
+1.0	US intelligence agency	have	website	O	O
+1.0	Tomislav Mercep	be official of	ruling	PERSON	0
+1.0	54-year-old	have always deny media in	atrocity against serb	DURATION	0
+1.0	US intelligence agency	on	website	LOCATION	0
+1.0	local media	speculate at	time	0	DATE
+1.0	independence	have	war	O	O
+1.0	state attorney 's office	start	criminal proceedings	0	0
+1.0	leader Franjo Tudjman	have	party	O	PERSON
+1.0	CIA report	recently post with	war crime	ORGANIZATION	0
+1.0	Gospic	have	town	O	LOCATION
+1.0	Pakrac	have	towns	O	LOCATION
+1.0	state attorney	have	office	O	O
+1.0	CIA report	recently post on	US intelligence agency 's website	ORGANIZATION	LOCATION
+1.0	assistant interior minister	be in	1992-1993	0	DATE
+1.0	state attorney	have	office	0	0
+1.0	document	be forward to	Zagreb in early 2006	0	DATE
+1.0	document	be	forward	0	0
+1.0	state attorney 's office	start proceedings in	case against Tomislav Mercep	0	PERSON
+1.0	document	be	forward from UN court to Zagreb in early 2006	0	DATE
+0.8032640221154881	quote	variety of	source	0	0
+1.0	54-year-old	have always deny media in	atrocity against ethnic serb	DURATION	0
+1.0	war	have	stages	O	O
+1.0	state attorney 's office	start	preliminary criminal proceedings	0	0
+1.0	CIA report	recently post on	link	ORGANIZATION	0
+1.0	prosecution spokeswoman Martina Mihordin	tell	AFP	PERSON	ORGANIZATION
+1.0	media	speculate at	time	0	DATE
+1.0	54-year-old	have deny media in	atrocity	DURATION	0
+1.0	ruling	have	official	O	O
+1.0	document	be forward from	UN court	0	ORGANIZATION
+1.0	Tomislav Mercep	be	high-ranking official	PERSON	0
+1.0	Croatia	have	war	O	LOCATION
+1.0	US intelligence agency	's website be	link	LOCATION	0
+1.0	independence	have	proclamation	O	O
+1.0	four-year war	be with	Belgrade	DURATION	LOCATION
+1.0	Tomislav Mercep	assistant interior minister in	1992-1993	PERSON	DATE
+1.0	CIA report	post on	link	ORGANIZATION	0
+1.0	his	have	role	O	O
+1.0	CIA report	post on	US intelligence agency 's website	ORGANIZATION	LOCATION
+1.0	CIA report	recently post with	war crime against serb	ORGANIZATION	0
+1.0	state attorney 's office	start	proceedings	0	0
+1.0	CIA report	post with	war crime	ORGANIZATION	0
+1.0	CIA report	post with	war crime against ethnic serb	ORGANIZATION	0
+1.0	Tomislav Mercep	assistant minister in	1992-1993	PERSON	DATE
+1.0	CIA report	post with	war crime against serb	ORGANIZATION	0
+1.0	54-year-old	have deny media in	atrocity against serb	DURATION	0
+1.0	54-year-old	have always deny	media	DURATION	0
+1.0	Croatia	have	proclamation	O	LOCATION

@@ -1,0 +1,31 @@
+1.0	Peter Mandelson	be on	Thursday	PERSON	DATE
+1.0	Peter Mandelson	be commissioner of	EU Trade	PERSON	ORGANIZATION
+1.0	French Foreign Minister Philippe Douste-Blazy	say	european Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	firmly	say in	statement	0	0
+1.0	European Union	have	margin	ORGANIZATION	0
+1.0	Catherine Colonna	be	european	PERSON	0
+1.0	EU	have	last proposal make in October 2005	ORGANIZATION	DATE
+1.0	Doha Round	open talk at	World Trade Organization	LOCATION	ORGANIZATION
+1.0	French Foreign Minister Philippe Douste-Blazy	say after	meeting	PERSON	0
+1.0	French Foreign Minister Philippe Douste-Blazy	say	junior Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say here	junior Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	France	unblock	Doha Round	0	LOCATION
+1.0	France	unblock	Doha Round of trade	0	LOCATION
+1.0	French Foreign Minister Philippe Douste-Blazy	say here	european Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say here	Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	France	warn	EU Trade Commissioner Peter Mandelson on Thursday	LOCATION	PERSON
+1.0	Doha Round	open	talk	LOCATION	0
+1.0	France	warn	EU Trade Commissioner Peter Mandelson	LOCATION	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say	junior european Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say here after	meeting	PERSON	0
+1.0	France	oppose	further concession	0	0
+1.0	Philippe Douste-Blazy	be	French	PERSON	MISC
+1.0	Peter Mandelson	be	EU Trade	PERSON	ORGANIZATION
+1.0	meeting	be with	EU Trade Commissioner Peter Mandelson on Thursday	0	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say	Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	European Union	have	margin	O	ORGANIZATION
+1.0	French Foreign Minister Philippe Douste-Blazy	say here after	meeting with Mandelson	PERSON	PERSON
+1.0	EU	have	proposals	O	ORGANIZATION
+1.0	French Foreign Minister Philippe Douste-Blazy	say after	meeting with Mandelson	PERSON	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say here	junior european Affairs Minister Catherine Colonna	PERSON	PERSON
+1.0	trade	have	Doha Round	LOCATION	O

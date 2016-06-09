@@ -1,0 +1,72 @@
+1.0	sector	have	allure	O	O
+1.0	Bank Halim	have	acquisition	O	ORGANIZATION
+0.7847988703101905	0.21	bank of	China	NUMBER	ORGANIZATION
+1.0	central bank	announce	Friday rule	0	DATE
+1.0	local bank	be mixed with	hsbc	0	0
+0.28627611980559997	Hang Seng Index	rise to	20,310.18	MISC	NUMBER
+1.0	central bank	announce	Friday rule design	0	DATE
+1.0	Indonesia	have	Bank Halim	ORGANIZATION	LOCATION
+1.0	Indonesia	of	Bank Halim	LOCATION	ORGANIZATION
+1.0	many people	be bet give	icbc 's resource	0	0
+1.0	Hang Seng China Enterprises index	be at	up 293.06 point 10,633.42	ORGANIZATION	NUMBER
+0.245106737592649	icbc	surge at	5.11	0	NUMBER
+1.0	market	have	recent rally	0	0
+1.0	property	be at	up 43.85	0	NUMBER
+1.0	icbc	sign	agreement	0	0
+1.0	chinese bank	announce	Friday rule design	0	DATE
+1.0	year	have	quarter	DATE	DATE
+0.28627611980559997	Bank	rise to	4.48	ORGANIZATION	NUMBER
+1.0	90 percent stake	be in	Bank Halim Indonesia	PERCENT	ORGANIZATION
+1.0	Hang Seng Index	rise	345.46 point	MISC	NUMBER
+1.0	Its	have	move	O	O
+1.0	buying	have	combination	O	O
+1.0	chinese bank	announce	Friday rule	0	DATE
+1.0	bank	announce	Friday rule design	0	DATE
+1.0	ICBC	have	resources	O	ORGANIZATION
+1.0	market	have	rally	O	O
+1.0	many people	be bet give	icbc 's huge resource	0	0
+1.0	company	might launch	issue	0	0
+1.0	people	be bet give	icbc 's resource	0	0
+1.0	additional interest	be in	China Mobile	0	ORGANIZATION
+1.0	icbc	by	acquisition of Bank Halim	0	ORGANIZATION
+1.0	East Asia	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	it	continue	expand overseas	0	0
+1.0	people	be bet give	icbc 's huge resource	0	0
+1.0	combination	favour 's	pboc	0	0
+1.0	property	be at	up with Cheung Kong up 0.35 43.85	0	LOCATION
+1.0	pboc	have	new rule	0	0
+1.0	People	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	people	be bet give	icbc 's financial resource	0	0
+1.0	Bank	advance	0.16	ORGANIZATION	NUMBER
+1.0	company	might launch	a-share issue	0	0
+1.0	PBoC	have	rules	O	ORGANIZATION
+1.0	bank	be	mixed	0	0
+1.0	property	be at	up with Cheung Kong 43.85	0	LOCATION
+1.0	ICBC	have	acquisition	O	ORGANIZATION
+1.0	chinese central bank	announce	Friday rule design	0	DATE
+0.17723111680806702	bank	be mixed with	hsbc rise	0	0
+1.0	regulations	have	relaxation	O	O
+0.17723111680806702	local bank	be mixed with	hsbc rise	0	0
+1.0	it	continue	expand	0	0
+1.0	investors	have	Scores	O	O
+1.0	Auyeung tat	director at	Apex Capital Management	PERSON	ORGANIZATION
+1.0	icbc	give	huge financial resource	0	0
+1.0	bank	be mixed with	hsbc	0	0
+1.0	individual investors	have	targets	O	O
+0.28627611980559997	Hang Seng Index	rise after	trading	MISC	0
+0.7847988703101905	0.16	bank of	Communications	NUMBER	ORGANIZATION
+1.0	their	have	counterparts	O	O
+1.0	bank	announce	Friday rule	0	DATE
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	local bank	be	mixed	0	0
+1.0	chinese central bank	announce	Friday rule	0	DATE
+1.0	people	be bet give	icbc 's huge financial resource	0	0
+1.0	icbc	surge	0.28	0	NUMBER
+1.0	Hang Seng China Enterprises index	be at	up 10,633.42	ORGANIZATION	NUMBER
+1.0	many people	be bet give	icbc 's huge financial resource	0	0
+1.0	interest	be in	China financial	0	LOCATION
+1.0	many people	be bet give	icbc 's financial resource	0	0
+1.0	Bank	rise	0.21	ORGANIZATION	NUMBER
+1.0	Hong Kong	be	BOC	LOCATION	ORGANIZATION
+1.0	company	might launch issue on	mainland market	0	0
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION

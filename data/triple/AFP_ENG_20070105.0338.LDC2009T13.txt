@@ -1,0 +1,54 @@
+1.0	Sudan due to worsening political instability in the African country	be	currently beset by strife in region	LOCATION	DATE
+1.0	Financial Times	be in	its Friday edition	ORGANIZATION	DATE
+1.0	the situation	have	operations	O	O
+1.0	company	have	just one employee	0	NUMBER
+1.0	Sudan due to worsening political instability in the African country	be	currently beset by political strife in region	LOCATION	DATE
+1.0	dollars	have	revenues	O	MONEY
+1.0	Company spokesman Thomas Schmidt	be confirm	information report in Financial Times in its Friday edition	PERSON	ORGANIZATION
+1.0	company	have	one employee in sudanese capital Khartoum	0	NUMBER
+1.0	company	have	just one employee in sudanese capital Khartoum	0	NUMBER
+1.0	Sudan due to worsening political instability in the African country	be beset accord to	UN estimate	LOCATION	ORGANIZATION
+1.0	Sudan due to worsening political instability in the African country	be	currently beset by strife notably in region	LOCATION	DATE
+1.0	Sudan due to worsening political instability in the African country	be	beset by political strife in region	LOCATION	0
+1.0	first	have	Friday edition	O	O
+1.0	Sudan due to worsening political instability in the African country	be	beset by strife in region	LOCATION	0
+1.0	Sudan due to worsening political instability in the African country	be	currently beset by political strife notably in region	LOCATION	DATE
+0.940682628986621	information	first report in	Financial Times in its Friday edition	0	ORGANIZATION
+0.940682628986621	information	report in	Financial Times	0	ORGANIZATION
+1.0	national power transmission grid	revenue per	year	0	DURATION
+1.0	Sudan due to worsening political instability in the African country	be beset by	strife	LOCATION	0
+1.0	Sudan due to worsening political instability in the African country	be	currently beset	LOCATION	DATE
+0.9865601769964174	people	200,000 at	least	0	0
+1.0	engineering group ABB	say at_time	Friday	ORGANIZATION	DATE
+1.0	at least 200,000 people	have	homes	O	O
+1.0	Khartoum	be in	sudanese	LOCATION	0
+1.0	benefit	be in	Sudan due to worsening political instability in the African country	0	LOCATION
+0.940682628986621	information	first report in	Financial Times	0	ORGANIZATION
+1.0	Sudan due to worsening political instability in the African country	be	beset by strife notably in region	LOCATION	0
+1.0	Company spokesman Thomas Schmidt	be confirm	information first report in Financial Times	PERSON	ORDINAL
+1.0	Sudan due to worsening political instability in the African country	be currently beset accord to	UN estimate	LOCATION	ORGANIZATION
+1.0	worsen political instability	be in	african country	0	0
+1.0	company	have	just one employee in capital Khartoum	0	NUMBER
+1.0	Company spokesman Thomas Schmidt	be confirm	information	PERSON	0
+1.0	national power transmission grid	revenue of	20 million dollar	0	MONEY
+1.0	Sudan due to worsening political instability in the African country	be currently beset by	political strife	LOCATION	0
+1.0	Sudan due to worsening political instability in the African country	be currently beset by	strife	LOCATION	0
+1.0	Company spokesman Thomas Schmidt	be confirm	information first report	PERSON	ORDINAL
+1.0	Sudan due to worsening political instability in the African country	be beset in	region	LOCATION	0
+1.0	Sudan due to worsening political instability in the African country	be beset in	notably region	LOCATION	0
+1.0	one employee	be in	Khartoum	NUMBER	LOCATION
+1.0	Sudan due to worsening political instability in the African country	be	beset by political strife notably in region	LOCATION	0
+1.0	ABB	be	swiss-swedish	ORGANIZATION	0
+1.0	Company spokesman Thomas Schmidt	be confirm	information report	PERSON	0
+1.0	company	have	one employee in capital Khartoum	0	NUMBER
+1.0	company	have	one employee	0	NUMBER
+1.0	swiss-swedish engineering group ABB	say at_time	Friday	ORGANIZATION	DATE
+1.0	Sudan due to worsening political instability in the African country	be beset by	political strife	LOCATION	0
+1.0	Company spokesman Thomas Schmidt	be confirm	information report in Financial Times	PERSON	ORGANIZATION
+1.0	Swiss-Swedish engineering group ABB	have	activities	O	O
+1.0	Sudan due to worsening political instability in the African country	be currently beset in	region	LOCATION	0
+1.0	Company spokesman Thomas Schmidt	be confirm	information first report in Financial Times in its Friday edition	PERSON	ORDINAL
+1.0	Sudan due to worsening political instability in the African country	be currently beset in	notably region	LOCATION	0
+1.0	Darfur	have	region	O	LOCATION
+1.0	Sudan due to worsening political instability in the African country	be	beset	LOCATION	0
+0.940682628986621	information	report in	Financial Times in its Friday edition	0	ORGANIZATION

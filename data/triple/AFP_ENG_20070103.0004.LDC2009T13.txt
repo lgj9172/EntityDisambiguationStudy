@@ -1,0 +1,25 @@
+1.0	Brazil	have	Barbosa	LOCATION	PERSON
+1.0	inbound	fake ball to	Steve Nash	0	PERSON
+1.0	Steve Nash	have	11 point assist	PERSON	NUMBER
+0.06221292408889589	season-high 18 rebound	add	Shawn Marion	NUMBER	PERSON
+1.0	Brazil 's Barbosa	make	shot	PERSON	0
+1.0	arc	have	top	O	O
+1.0	Brazil	have	Barbosa	PERSON	LOCATION
+0.06221292408889589	season-high rebound	add	Shawn Marion	0	PERSON
+0.06221292408889589	11 point	assist	13	NUMBER	NUMBER
+1.0	Brazil 's Barbosa	make	6-of-14 shot	PERSON	0
+1.0	Gordon	have	3-pointer at buzzer	PERSON	0
+1.0	season-high rebound	add	Shawn Marion	0	PERSON
+1.0	season-high 18 rebound	add	Shawn Marion	NUMBER	PERSON
+0.06221292408889589	18 rebound	add	Shawn Marion	NUMBER	PERSON
+1.0	Gordon	have	hand	O	PERSON
+1.0	18 rebound	add	Shawn Marion	NUMBER	PERSON
+1.0	Raja Bell	add	10 point	PERSON	NUMBER
+1.0	96-94 lead	be with	five seconds	NUMBER	DURATION
+1.0	11 point	assist	13	NUMBER	NUMBER
+1.0	Gordon	have	3-pointer	O	PERSON
+1.0	rebound	add	Shawn Marion	0	PERSON
+1.0	Gordon	be with	1.5 seconds	PERSON	DURATION
+0.06221292408889589	rebound	add	Shawn Marion	0	PERSON
+1.0	Amare Stoudamire	score	24 point	PERSON	NUMBER
+1.0	inbound	fake	ball	0	0

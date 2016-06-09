@@ -1,0 +1,58 @@
+1.0	The German government	oppose	death penalty	0	0
+1.0	execution	have	repercussions	O	O
+1.0	government	repeat after	hanging of Saddam	0	PERSON
+1.0	german Foreign Minister Frank-Walter Steinmeier	be publish on	Sunday	PERSON	DATE
+1.0	German Foreign Minister Frank-Walter Steinmeier	have	tomb	O	O
+1.0	Foreign Minister Frank-Walter Steinmeier	warn	publish	PERSON	0
+1.0	Foreign Minister Frank-Walter Steinmeier	warn	publish on Sunday	PERSON	DATE
+1.0	execution	make	iraqi dictator martyr with cult status	0	0
+1.0	german government	repeat after	hanging of Saddam	0	PERSON
+1.0	Germany	have	European Union presidency	LOCATION	ORGANIZATION
+1.0	Germany 's European Union presidency	highlight	multiple crime commit under year of Saddam 's dictatorship	ORGANIZATION	PERSON
+1.0	Germany 's European Union presidency	highlight	multiple crime commit under many year of Saddam 's dictatorship	ORGANIZATION	DURATION
+1.0	this	have	signs	O	O
+1.0	german Foreign Minister Frank-Walter Steinmeier	warn	publish on Sunday	PERSON	DATE
+1.0	Germany 's European Union presidency	highlight	crime	ORGANIZATION	0
+1.0	first sign	be	numerous visit	ORDINAL	0
+1.0	Saddam	of	dictatorship	PERSON	0
+1.0	german Foreign Minister Frank-Walter Steinmeier	warn in	interview	PERSON	0
+1.0	Germany 's European Union presidency	reiterate	position	ORGANIZATION	0
+1.0	execution	risk	make	0	0
+1.0	Bild be Sonntag	be	weekly	ORGANIZATION	SET
+1.0	dictator	martyr with	cult status	0	0
+1.0	german Foreign Minister Frank-Walter Steinmeier	warn	publish	PERSON	0
+1.0	Germany 's European Union presidency	highlight	crime commit under year of Saddam 's dictatorship	ORGANIZATION	PERSON
+1.0	violence	have	escalation	O	O
+1.0	first sign	be	visit	ORDINAL	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	Germany	have	European Union presidency	O	LOCATION
+1.0	Germany 's European Union presidency	highlight	crime commit under many year of Saddam 's dictatorship	ORGANIZATION	DURATION
+1.0	Frank-Walter Steinmeier	be	german	PERSON	0
+1.0	Foreign Minister Frank-Walter Steinmeier	warn in	interview	PERSON	0
+1.0	Foreign Minister Frank-Walter Steinmeier	be publish on	Sunday	PERSON	DATE
+1.0	execution	make	dictator martyr	0	0
+1.0	Saddam on the situation in Iraq	have	hanging	O	PERSON
+1.0	Bild be Sonntag	be	german	ORGANIZATION	0
+1.0	The German government	oppose death penalty in	principle	0	0
+1.0	Saddam	have	execution	O	PERSON
+1.0	sign	be numerous visit to	he tomb	0	0
+1.0	iraqi dictator	martyr with	cult status	0	0
+1.0	sign	be	visit	0	0
+1.0	Germany 's European Union presidency	reiterate position on	Wednesday	ORGANIZATION	DATE
+1.0	dictatorship	have	years	DURATION	O
+1.0	Foreign Minister Frank-Walter Steinmeier	be	publish	PERSON	0
+1.0	sign	be visit to	he tomb	0	0
+1.0	first sign	be visit to	he tomb	ORDINAL	0
+1.0	Saddam on the situation in Iraq	have	countrymen	O	O
+1.0	Saddam	have	dictatorship	O	PERSON
+1.0	government	repeat after	hanging	0	0
+1.0	first sign	be numerous visit to	he tomb	ORDINAL	0
+1.0	sign	be	numerous visit	0	0
+1.0	german government	repeat after	hanging	0	0
+1.0	execution	make	iraqi dictator martyr	0	0
+1.0	Germany 's European Union presidency	reiterate	same position	ORGANIZATION	0
+1.0	iraqi dictator martyr	be with	cult status	0	0
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	execution	make	dictator martyr with cult status	0	0
+1.0	Germany 's European Union presidency	highlight	multiple crime	ORGANIZATION	0
+1.0	german Foreign Minister Frank-Walter Steinmeier	be	publish	PERSON	0

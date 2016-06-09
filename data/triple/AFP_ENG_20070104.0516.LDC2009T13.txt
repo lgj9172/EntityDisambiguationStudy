@@ -1,0 +1,192 @@
+1.0	presidency	be	under Fiji 's system figurehead role with prime minister	0	LOCATION
+1.0	prime minister	address nation later at_time	Friday	0	DATE
+1.0	coup	have	plotters	O	O
+1.0	Ratu Josefa Iloilo	speak for	first time since coup on Thursday	PERSON	ORDINAL
+1.0	presidency	be	largely figurehead role with prime minister	0	0
+1.0	new interim minister	be	schedule	0	0
+1.0	caretaker prime minister	resign at_time	Thursday	0	DATE
+1.0	Fiji 's coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's interim minister Friday	PERSON	LOCATION
+1.0	new interim prime minister	address nation later at_time	Friday	0	DATE
+1.0	minister	address nation later at_time	Friday	0	DATE
+1.0	presidency	be	under Fiji 's system largely figurehead role	0	LOCATION
+1.0	Fiji	have	coup leader Voreqe Bainimarama	PERSON	LOCATION
+1.0	presidency	be	under Fiji 's political system largely figurehead role with minister	0	LOCATION
+1.0	Fiji 's coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's interim prime minister	PERSON	LOCATION
+1.0	new minister	address	military commander	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's prime minister Friday	PERSON	LOCATION
+1.0	new prime minister	address	military commander	0	0
+1.0	new interim minister	address	nation	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	assume	title of interim president	PERSON	0
+1.0	interim minister	address nation later at_time	Friday	0	DATE
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's interim minister Friday	PERSON	LOCATION
+1.0	military	advertise for	applicant	0	0
+1.0	interim prime minister	address later	nation	0	0
+1.0	new interim prime minister	address later	commander	0	0
+1.0	Ratu Josefa Iloilo	be	president	LOCATION	0
+1.0	Ratu Josefa Iloilo	be president until	December 5 coup	LOCATION	DATE
+1.0	Fiji	under	political system	LOCATION	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	have	ally	O	LOCATION
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in Government House	PERSON	ORGANIZATION
+1.0	new interim minister	address nation later at_time	Friday	0	DATE
+1.0	Fiji 's coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's interim prime minister Friday	PERSON	LOCATION
+1.0	new interim minister	address later	nation	0	0
+1.0	new prime minister	be	schedule	0	0
+1.0	new interim minister	schedule	military commander	0	0
+1.0	military	advertise in	Fiji newspaper	0	LOCATION
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's interim prime minister	PERSON	LOCATION
+1.0	country	have	minority	O	O
+1.0	coup	be in	2000	0	DATE
+1.0	military	advertise for	applicant interest	0	0
+1.0	new interim prime minister	address later	nation	0	0
+1.0	prime minister	address later	commander	0	0
+1.0	caretaker minister	make way for	appointment of Bainimarama	0	LOCATION
+1.0	new minister	schedule	military commander	0	0
+1.0	caretaker prime minister	make way for	appointment of Bainimarama	0	LOCATION
+1.0	island nation	have	bainimarama	0	0
+1.0	new interim minister	address later	military commander	0	0
+1.0	Fiji 's coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's prime minister Friday	PERSON	LOCATION
+1.0	Fiji	have	Voreqe Bainimarama	LOCATION	PERSON
+1.0	minister	address	nation	0	0
+1.0	Qarase	have	nationalist government	0	0
+0.6254474269105283	Fiji 's military coup leader Voreqe Bainimarama	title of	interim president	PERSON	0
+1.0	interim prime minister	address later	commander	0	0
+1.0	interim minister	address nation at_time	Friday	0	DATE
+1.0	minister Laisenia Qarase	have	government	O	PERSON
+1.0	Fiji 's coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's interim minister	PERSON	LOCATION
+1.0	caretaker prime minister	make	way	0	0
+1.0	interim prime minister	be	schedule	0	0
+1.0	new interim prime minister	address later	military commander	0	0
+1.0	presidency	be	under Fiji 's system figurehead role	0	LOCATION
+1.0	Qarase 's nationalist government	accuse	the December 5 coup	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear at_time	Friday	PERSON	DATE
+1.0	new minister	address later	commander	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in Government House in capital suva	PERSON	ORGANIZATION
+1.0	interim minister	schedule	military commander	0	0
+1.0	interim prime minister	schedule	commander	0	0
+1.0	new minister	schedule	commander	0	0
+1.0	Fiji 's coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's minister Friday	PERSON	LOCATION
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	prime	0	0
+1.0	interim prime minister	address	military commander	0	0
+1.0	interim minister	address later	military commander	0	0
+1.0	Ratu Josefa Iloilo	speak for	first time	PERSON	ORDINAL
+1.0	Ratu Josefa Iloilo	be	86-year-old	LOCATION	DURATION
+1.0	island nation 's bainimarama	oust	Qarase 's government	0	0
+1.0	Fiji 's coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's prime minister	PERSON	LOCATION
+1.0	new interim minister	address later	commander	0	0
+1.0	presidency	be	figurehead role	0	0
+1.0	island nation	have	Bainimarama	PERSON	O
+1.0	prime minister	address	commander	0	0
+1.0	new interim prime minister	schedule	military commander	0	0
+1.0	new minister	be	schedule	0	0
+1.0	new interim minister	schedule	commander	0	0
+0.6254474269105283	Fiji 's military coup leader Voreqe Bainimarama	title of	president	PERSON	0
+1.0	new interim minister	address nation at_time	Friday	0	DATE
+1.0	caretaker prime minister	make way for	appointment	0	0
+1.0	presidency	be	figurehead role with prime minister	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear	PERSON	0
+1.0	minister	schedule	military commander	0	0
+1.0	new interim prime minister	address	military commander	0	0
+1.0	new interim prime minister	be	schedule	0	0
+1.0	Qarase 's government	accuse	the December 5 coup	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	have	appointment	O	LOCATION
+1.0	minister	schedule	commander	0	0
+1.0	new interim prime minister	schedule	commander	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	say during	swearing-in ceremony	PERSON	0
+1.0	country	against	ethnic indian minority	0	0
+1.0	caretaker minister	make way for	appointment	0	0
+1.0	minister	be	schedule	0	0
+1.0	presidency	be	figurehead role with minister	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	overthrow	government	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear	PERSON	DURATION
+1.0	Fiji 's coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's minister	PERSON	LOCATION
+1.0	prime minister	address later	nation	0	0
+1.0	presidency	be	under Fiji 's political system largely figurehead role with prime minister	0	LOCATION
+1.0	new prime minister	address later	military commander	0	0
+1.0	prime minister	schedule	commander	0	0
+1.0	presidency	be	under Fiji 's political system largely figurehead role	0	LOCATION
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's minister	PERSON	LOCATION
+1.0	South Pacific nation	have	minister	O	O
+1.0	new interim prime minister	address	commander	0	0
+1.0	Government House	be in	suva	ORGANIZATION	0
+1.0	interim prime minister	address later	military commander	0	0
+1.0	new interim prime minister	address	nation	0	0
+1.0	interim minister	address	nation	0	0
+1.0	Ratu Josefa Iloilo	speak for	time since coup	PERSON	0
+1.0	new interim minister	address	military commander	0	0
+1.0	presidency	be	under Fiji 's political system figurehead role	0	LOCATION
+1.0	caretaker minister	resign at_time	Thursday	0	DATE
+1.0	new minister	address later	military commander	0	0
+1.0	presidency	be	under Fiji 's system figurehead role with minister	0	LOCATION
+1.0	minister	address	military commander	0	0
+1.0	Fiji 's coup leader Voreqe Bainimarama	be	swear	PERSON	DURATION
+1.0	minister	address nation at_time	Friday	0	DATE
+1.0	December	have	coup	O	DATE
+1.0	prime minister	address	military commander	0	0
+1.0	presidency	be	under Fiji 's system largely figurehead role with prime minister	0	LOCATION
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's interim minister	PERSON	LOCATION
+1.0	interim minister	schedule	commander	0	0
+1.0	presidency	be	under Fiji 's political system figurehead role with prime minister	0	LOCATION
+1.0	Fiji	have	system	O	LOCATION
+1.0	presidency	be	under Fiji 's political system figurehead role with minister	0	LOCATION
+1.0	minister	address later	nation	0	0
+1.0	new prime minister	schedule	commander	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	say during	short swearing-in ceremony	PERSON	0
+1.0	new prime minister	address nation at_time	Friday	0	DATE
+1.0	will true prime minister	be in	thing	0	0
+1.0	Ratu Josefa Iloilo	speak for	time since coup on Thursday	PERSON	DATE
+1.0	caretaker minister	make	way	0	0
+1.0	new prime minister	address nation later at_time	Friday	0	DATE
+1.0	bainimarama	be	fourth	0	ORDINAL
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's minister Friday	PERSON	LOCATION
+1.0	new interim prime minister	address nation at_time	Friday	0	DATE
+1.0	presidency	be	largely figurehead role with minister	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	assume	title of president	PERSON	0
+1.0	prime minister	address later	military commander	0	0
+1.0	presidency	be	under Fiji 's system largely figurehead role with minister	0	LOCATION
+1.0	interim minister	address later	commander	0	0
+1.0	minister	address later	military commander	0	0
+1.0	corruption	have	accusing	O	O
+1.0	minister	address	commander	0	0
+1.0	interim prime minister	address nation at_time	Friday	0	DATE
+1.0	interim minister	address	military commander	0	0
+1.0	interim prime minister	schedule	military commander	0	0
+1.0	minister	address later	commander	0	0
+1.0	interim prime minister	address	nation	0	0
+1.0	corruption	racism against	country 's ethnic indian minority	0	0
+1.0	new minister	address nation at_time	Friday	0	DATE
+1.0	interim minister	address	commander	0	0
+1.0	new prime minister	address later	nation	0	0
+1.0	prime minister	be	schedule	0	0
+1.0	island nation 's bainimarama	oust	Qarase 's nationalist government	0	0
+1.0	interim prime minister	address	commander	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	assume	title	PERSON	0
+1.0	new prime minister	address later	commander	0	0
+1.0	new minister	address nation later at_time	Friday	0	DATE
+1.0	prime minister	address	nation	0	0
+1.0	Qarase	have	government	O	O
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	swear in as South Pacific nation 's interim prime minister Friday	PERSON	LOCATION
+1.0	Fiji 's coup leader Voreqe Bainimarama	be swear at_time	Friday	PERSON	DATE
+1.0	interim minister	be	schedule	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	overthrow	elect government	0	0
+1.0	new prime minister	address	nation	0	0
+1.0	December	in	coup	DATE	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be swear in	in South Pacific nation 's prime minister	PERSON	LOCATION
+1.0	new interim minister	address	commander	0	0
+1.0	prime minister	address nation at_time	Friday	0	DATE
+1.0	presidency	be	largely figurehead role	0	0
+1.0	figurehead role	be with	prime minister	0	0
+1.0	Fiji 's military coup leader Voreqe Bainimarama	be	true	0	0
+1.0	Ratu Josefa Iloilo	ally of	Fiji 's military coup leader Voreqe Bainimarama	LOCATION	LOCATION
+1.0	president	have	title	O	O
+1.0	prime minister	schedule	military commander	0	0
+1.0	new minister	address later	nation	0	0
+1.0	new prime minister	address	commander	0	0
+1.0	the first time since the coup on Thursday	have	actions	O	O
+1.0	Ratu Josefa Iloilo	speak for	first time since coup	PERSON	ORDINAL
+1.0	interim prime minister	address nation later at_time	Friday	0	DATE
+1.0	new minister	address	nation	0	0
+1.0	soft	have	accusing	O	O
+1.0	Ratu Josefa Iloilo	speak for	time	PERSON	0
+1.0	new prime minister	schedule	military commander	0	0
+1.0	new minister	address	commander	0	0
+1.0	interim minister	address later	nation	0	0

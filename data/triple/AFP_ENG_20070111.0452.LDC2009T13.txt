@@ -1,0 +1,236 @@
+1.0	left-handed Farhat	be miss on	14	PERSON	NUMBER
+1.0	Hameed	come into	side	PERSON	0
+1.0	Hafeez	look	unhappy	PERSON	0
+0.16432853597922364	Faisal Iqbal	new record	Khan	0	PERSON
+1.0	his	have	glove	O	O
+1.0	he	glove	simple catch	0	0
+1.0	he	replacement	Shoaib Akhtar	0	PERSON
+1.0	Inzamam	decide on	easy-paced pitch	PERSON	0
+1.0	Makhaya Ntini	end start by	tourist	PERSON	0
+1.0	Pakistan batsman	spoil performance on	first day	LOCATION	ORDINAL
+1.0	over	be catch at	leg	0	0
+1.0	his	have	toes	O	O
+1.0	three Pakistan batsman	fall in	succession	LOCATION	0
+1.0	three Pakistan batsman	spoil	otherwise solid performance	LOCATION	DURATION
+1.0	99	have for	of which have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	Vice-captain Younis Khan	come together shortly	Yasir Hameed	PERSON	PERSON
+1.0	Ntini	earlier bowl	spell	PERSON	0
+1.0	Hameed	take advantage since	June 2005	PERSON	DATE
+1.0	Pakistan batsman	spoil performance on	first day of first test against South Africa	LOCATION	ORDINAL
+1.0	Pakistan batsman	spoil performance on	first day of test	LOCATION	ORDINAL
+1.0	Farhat	seem	be	PERSON	0
+1.0	Farhat	be	miss	PERSON	0
+1.0	Hameed	come with	Khan	PERSON	PERSON
+1.0	Khan	be	first	PERSON	ORDINAL
+1.0	78 ball	be with	eight fours	NUMBER	NUMBER
+1.0	99	have for	of which have South Africa for World XI season	NUMBER	LOCATION
+1.0	Khan	bat	Hafeez	PERSON	PERSON
+1.0	three over	be	catch	0	0
+1.0	three over	be catch off	Andre Nel	0	PERSON
+1.0	balls	have	reaching	O	O
+1.0	14 run	be in	four over	NUMBER	NUMBER
+1.0	Hameed	take advantage at	test level	PERSON	0
+1.0	Pakistan batsman	fall in	quick succession	LOCATION	0
+1.0	Farhat	be miss on	14	PERSON	NUMBER
+1.0	Faisal Iqbal	set record for	wicket	0	0
+1.0	Ntini	replace nel at	Hennops River	PERSON	LOCATION
+1.0	Pakistan batsman	spoil performance on	first day of first test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	Hameed	flick jacques kallis for	first six of match	PERSON	ORDINAL
+1.0	over	be	catch at deep square leg off Andre Nel for 65	0	NUMBER
+1.0	Hameed	come with	Khan move	PERSON	PERSON
+1.0	three Pakistan batsman	spoil performance on	first day of first test	LOCATION	ORDINAL
+1.0	South Africa	be at	Thursday	LOCATION	DURATION
+1.0	Pakistan batsman	spoil	solid performance	LOCATION	0
+1.0	three over	be catch at	leg	0	0
+1.0	he	glove catch off	Jacques Kallis	0	PERSON
+1.0	Khan	reduce	Hafeez	PERSON	PERSON
+1.0	his	have	dismissal	O	O
+1.0	Ntini	bowl	first spell	PERSON	ORDINAL
+1.0	South Africa	make	one change	LOCATION	NUMBER
+1.0	three Pakistan batsman	spoil performance on	day of first test against South Africa	LOCATION	ORDINAL
+1.0	toes	have	Jacques Kallis	PERSON	O
+1.0	it	could	could have better	0	0
+1.0	Ntini	earlier bowl	poor first spell	PERSON	ORDINAL
+1.0	three Pakistan batsman	spoil performance on	day of test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	Pakistan batsman	spoil performance on	day of test	LOCATION	DURATION
+1.0	Dale Steyn	be in	switch of fast bowler	PERSON	0
+1.0	Andre Nel	have	caught	O	PERSON
+1.0	Farhat	play	time	PERSON	0
+1.0	he	withdraw	he bat	0	0
+1.0	Hameed	come into	side at number three	PERSON	NUMBER
+1.0	99	have for	of which have South Africa for World XI last season	NUMBER	LOCATION
+1.0	99	have for	have South Africa for World XI	NUMBER	LOCATION
+1.0	three Pakistan batsman	spoil performance on	day of test against South Africa	LOCATION	DURATION
+1.0	Hameed	take	advantage of he first opportunity	PERSON	ORDINAL
+1.0	three Pakistan batsman	spoil performance on	day of first test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	over	be catch at	deep leg	0	0
+1.0	Hameed	face	135 delivery	PERSON	NUMBER
+1.0	Boucher	have	catch	O	PERSON
+1.0	Khan	reach mark off	78 ball with eight fours	PERSON	NUMBER
+1.0	three over	be	catch at deep square leg off Andre Nel for 65	0	NUMBER
+1.0	his	have	wife	O	O
+1.0	three over	be catch at	deep leg	0	0
+1.0	three over	be	catch at leg off Andre Nel	0	PERSON
+1.0	99	have for	have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	three Pakistan batsman	spoil	solid performance	LOCATION	0
+1.0	Pakistan	be	242 for five at close with captain inzamam-ul	LOCATION	PERSON
+1.0	Faisal Iqbal	set record against	South Africa	0	LOCATION
+1.0	it	could	could have better for Pakistan	0	LOCATION
+1.0	Makhaya Ntini	strike twice within	five ball	PERSON	NUMBER
+1.0	Pakistan batsman	spoil performance on	first day of first test	LOCATION	ORDINAL
+1.0	three Pakistan batsman	spoil performance on	day	LOCATION	DURATION
+1.0	Hameed	come with	Khan move down	PERSON	PERSON
+1.0	three over	be	catch at deep square leg off Andre Nel	0	PERSON
+1.0	99	have for	have South Africa for World XI season	NUMBER	LOCATION
+1.0	three over	be catch at	square leg	0	0
+1.0	Makhaya Ntini	end	start	PERSON	0
+1.0	ball	brush	he glove	0	0
+1.0	his	have	next	O	O
+1.0	Hameed	take	advantage	PERSON	0
+1.0	Kamran Akmal	be by	Inzamam	PERSON	PERSON
+1.0	he	glove	catch	0	0
+1.0	Pakistan batsman	spoil performance on	day of test against South Africa	LOCATION	DURATION
+1.0	Faisal Iqbal	have	opportunity	O	O
+1.0	three Pakistan batsman	fall to	hook shot	LOCATION	0
+1.0	Ntini	concede	14 run in four over	PERSON	NUMBER
+1.0	three over	be	catch at deep leg off Andre Nel	0	PERSON
+1.0	Vice-captain Younis Khan	add	two boundary	PERSON	NUMBER
+1.0	over	be catch off	Andre Nel	0	PERSON
+1.0	Ntini	dismiss	opener	PERSON	0
+1.0	three over	be	catch at leg off Andre Nel for 65	0	NUMBER
+1.0	110 ball	be in	total	NUMBER	0
+1.0	over	be	catch at deep square leg off Andre Nel	0	PERSON
+1.0	Vice-captain Younis Khan	face	110 ball in total	PERSON	NUMBER
+1.0	99	have for	have South Africa for World XI last season	NUMBER	LOCATION
+1.0	Vice-captain Younis Khan	come together shortly before	lunch	PERSON	0
+1.0	three Pakistan batsman	spoil performance by	tourist	LOCATION	0
+1.0	Pakistan batsman	fall in	succession	LOCATION	0
+1.0	Khan	be	catch	PERSON	0
+1.0	Pakistan 's minus collapse	be	halt	LOCATION	0
+1.0	Hameed	come with	Khan move down to four	PERSON	PERSON
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of fast bowler	PERSON	PERSON
+1.0	Hameed	flick jacques kallis for	first six match	PERSON	ORDINAL
+1.0	99	have for	have South Africa for World XI against Australia season	NUMBER	LOCATION
+1.0	left-handed Farhat	be	miss	PERSON	0
+1.0	over	be	catch at leg off Andre Nel for 65	0	NUMBER
+1.0	Faisal Iqbal	set record for	third wicket	0	ORDINAL
+1.0	Pakistan	have	mini collapse	O	LOCATION
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch	PERSON	PERSON
+1.0	Hafeez	have	wicket	O	PERSON
+1.0	hook	be	he undoing	0	0
+1.0	three Pakistan batsman	spoil performance on	first day	LOCATION	ORDINAL
+1.0	his	have	half-century	O	O
+1.0	Ntini	bowl	spell	PERSON	0
+1.0	batsman	play	shot	0	0
+1.0	three Pakistan batsman	fall in	quick succession	LOCATION	0
+1.0	99	have for	have South Africa for World XI against Australia last season	NUMBER	LOCATION
+1.0	bowlers	have	switch	O	O
+1.0	his	have	Test	O	O
+1.0	99	have for	of which have South Africa for World XI	NUMBER	LOCATION
+1.0	99	have for	of which have South Africa for World XI against Australia	NUMBER	LOCATION
+1.0	his	have	replacement	O	O
+1.0	Pakistan batsman	spoil performance on	first day of test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	which	have	South Africa	LOCATION	O
+1.0	he	glove catch to	wicketkeeper Mark Boucher	0	PERSON
+1.0	Vice-captain Younis Khan	face	110 ball	PERSON	NUMBER
+1.0	opportunity	have	advantage	O	O
+1.0	Pakistan batsman	fall to	hook shot	LOCATION	0
+1.0	left-handed Farhat	play	time	PERSON	0
+1.0	Faisal Iqbal	set	Khan	0	PERSON
+1.0	Hameed	flick	Jacques Kallis	PERSON	PERSON
+1.0	three over	be catch at	deep square leg	0	0
+1.0	Pakistan	have	pace attack back by leg-spinner danish kaneria	LOCATION	0
+1.0	his	have	bats	O	O
+1.0	three Pakistan batsman	spoil performance on	first day of test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	99	have for	have South Africa	NUMBER	LOCATION
+1.0	over	be	catch	0	0
+1.0	Khan	be first to	he fifty	PERSON	NUMBER
+1.0	batsman	play	loose shot	0	0
+1.0	Khan	reduce	South Africans	PERSON	MISC
+1.0	Inzamam	decide to	bat	PERSON	0
+1.0	Makhaya Ntini	end	promising start	PERSON	0
+1.0	Hameed	reach	he half-century	PERSON	0
+1.0	three over	be	catch at square leg off Andre Nel for 65	0	NUMBER
+1.0	Jacques Kallis	have	gloved	O	PERSON
+1.0	Faisal Iqbal	set	new record	0	0
+1.0	his	have	undoing	O	O
+1.0	Pakistan batsman	spoil	otherwise solid performance	LOCATION	DURATION
+1.0	three over	be catch off	Andre Nel for 65	0	NUMBER
+1.0	Faisal Iqbal	set record for	wicket for Pakistan	0	LOCATION
+1.0	Pakistan batsman	spoil performance on	day of test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	Ntini	bowl	poor spell	PERSON	0
+1.0	Pakistan batsman	spoil performance on	day of first test against South Africa	LOCATION	ORDINAL
+1.0	Ntini	earlier bowl	first spell	PERSON	ORDINAL
+1.0	Khan	be catch at	fine leg	PERSON	0
+1.0	Pakistan	strengthen	they batting	LOCATION	0
+1.0	Faisal Iqbal	set record for	third wicket for Pakistan	0	ORDINAL
+1.0	three Pakistan batsman	spoil performance on	first day of first test against South Africa	LOCATION	ORDINAL
+1.0	Pakistan	be with	he wife	LOCATION	0
+1.0	ball	be catch by	wicketkeeper Mark Boucher	0	PERSON
+1.0	three over	be	catch at deep leg off Andre Nel for 65	0	NUMBER
+1.0	three Pakistan batsman	spoil performance on	day of test	LOCATION	DURATION
+1.0	Ntini	dismiss opener before	lunch	PERSON	0
+1.0	Khan	reach mark off	78 ball	PERSON	NUMBER
+1.0	Ntini	bowl	poor first spell	PERSON	ORDINAL
+1.0	ball	be	catch	0	0
+1.0	Pakistan batsman	spoil performance on	day	LOCATION	DURATION
+1.0	Khan	reach	mark	PERSON	0
+1.0	Pakistan batsman	spoil performance on	first day of test against South Africa	LOCATION	ORDINAL
+1.0	Ntini	earlier bowl	poor spell	PERSON	0
+1.0	Pakistan	have	minus collapse	LOCATION	0
+1.0	over	be	catch at deep leg off Andre Nel	0	PERSON
+0.7201047883137485	Andre Nel	replace	Dale Steyn in switch of bowler	PERSON	PERSON
+1.0	Ntini	concede	14 run	PERSON	NUMBER
+1.0	three Pakistan batsman	spoil performance on	day of first test	LOCATION	ORDINAL
+1.0	Pakistan batsman	spoil	performance	LOCATION	0
+1.0	Test	have	day	DURATION	O
+1.0	Inzamam	decide on	pitch	PERSON	0
+1.0	left-handed Farhat	play	several time	PERSON	0
+1.0	Pakistan batsman	spoil performance on	day of first test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	over	be	catch at leg off Andre Nel	0	PERSON
+1.0	99	have for	of which have South Africa	NUMBER	LOCATION
+0.8995146121932608	Farhat	catch at	backward point	PERSON	0
+1.0	over	be catch off	Andre Nel for 65	0	NUMBER
+1.0	three over	be	catch at square leg off Andre Nel	0	PERSON
+1.0	Vice-captain Younis Khan	add	two more boundary	PERSON	NUMBER
+1.0	Farhat	play	several time	PERSON	0
+1.0	three Pakistan batsman	spoil performance on	first day of test against South Africa	LOCATION	ORDINAL
+1.0	Makhaya Ntini	take	two	PERSON	NUMBER
+1.0	over	be catch at	deep square leg	0	0
+1.0	Vice-captain Younis Khan	come shortly	Yasir Hameed	PERSON	PERSON
+1.0	Australia	have	record-holder Ian Healy	PERSON	LOCATION
+1.0	their	have	batting	O	O
+0.7570399850541328	Faisal Iqbal	wicket	Khan	0	PERSON
+1.0	Faisal Iqbal	set	record	0	0
+1.0	India	be in	Cape Town	LOCATION	LOCATION
+1.0	Pakistan batsman	spoil performance by	tourist	LOCATION	0
+1.0	over	be	catch at square leg off Andre Nel	0	PERSON
+1.0	Khan	be catch at	leg	PERSON	0
+1.0	Khan	bat soundly	Hafeez	PERSON	PERSON
+1.0	Ntini	dismiss opener shortly before	lunch	PERSON	0
+1.0	Vice-captain Younis Khan	come before	lunch	PERSON	0
+0.7570399850541328	Faisal Iqbal	third wicket	Khan	0	PERSON
+1.0	over	be	catch at square leg off Andre Nel for 65	0	NUMBER
+1.0	Khan	hook against	Shaun Pollock	PERSON	PERSON
+1.0	Andre Nel	be for	65	PERSON	NUMBER
+1.0	Makhaya Ntini	strike within	five ball	PERSON	NUMBER
+1.0	Vice-captain Younis Khan	come	Yasir Hameed	PERSON	PERSON
+0.8995146121932608	Farhat	catch at	point	PERSON	0
+1.0	over	be	catch at deep leg off Andre Nel for 65	0	NUMBER
+0.16432853597922364	Faisal Iqbal	record	Khan	0	PERSON
+1.0	Hameed	flick	Jacques Kallis off he toe	PERSON	PERSON
+1.0	Hameed	take	advantage of he opportunity	PERSON	0
+1.0	Ntini	replace	Nel	PERSON	PERSON
+1.0	Pakistan	have	pace attack	O	LOCATION
+1.0	99	have for	of which have South Africa for World XI against Australia last season	NUMBER	LOCATION
+0.7201047883137485	Andre Nel	replace	Dale Steyn	PERSON	PERSON
+1.0	three Pakistan batsman	spoil performance on	first day of test	LOCATION	ORDINAL
+1.0	Vice-captain Younis Khan	come shortly before	lunch	PERSON	0
+1.0	Ntini	dismiss shortly	opener	PERSON	0
+1.0	Pakistan batsman	spoil performance on	day of first test	LOCATION	ORDINAL
+1.0	three Pakistan batsman	spoil	performance	LOCATION	0
+1.0	over	be catch at	square leg	0	0
+1.0	Farhat	have for	26	PERSON	NUMBER
+1.0	three Pakistan batsman	spoil performance on	first day of first test against South Africa at Centurion Park Thursday	LOCATION	LOCATION
+1.0	match	have	six	NUMBER	O
+1.0	his	have	fifty	NUMBER	O

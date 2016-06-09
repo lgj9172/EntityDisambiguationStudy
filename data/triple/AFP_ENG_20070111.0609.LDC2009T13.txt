@@ -1,0 +1,19 @@
+0.07149773898788192	it	consider from	restructure group of shareholder	0	0
+1.0	it	consider funding request from	restructure group of shareholder	0	0
+1.0	it	consider funding request from	group	0	0
+1.0	it	consider funding request from	restructure group	0	0
+0.07149773898788192	it	be prepare	consider from restructure group of shareholder	0	0
+0.07149773898788192	it	be prepare	consider from group of shareholder	0	0
+0.07149773898788192	it	consider from	restructure group	0	0
+1.0	it	consider funding request from	group of shareholder	0	0
+0.07149773898788192	it	be prepare	consider from group	0	0
+0.07149773898788192	it	consider from	group of shareholder	0	0
+0.07149773898788192	it	be prepare	consider from restructure group	0	0
+1.0	giant sakhalin-2 liquified gas project	be in	Russia	0	LOCATION
+1.0	shareholders	have	group	O	O
+1.0	it	be	prepare	0	0
+1.0	it	consider	new funding request	0	0
+1.0	it	consider	funding request	0	0
+0.07149773898788192	it	consider from	group	0	0
+1.0	European Bank	say at_time	Thursday	ORGANIZATION	DATE
+0.07149773898788192	it	be prepare	consider	0	0

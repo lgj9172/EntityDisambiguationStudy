@@ -1,0 +1,35 @@
+1.0	couple	around	death	0	0
+1.0	car crash	be in	Paris	0	LOCATION
+1.0	Prime Minister Tony Blair	have	government	O	PERSON
+1.0	investigation	dismiss conspiracy theory around	couple 's death	0	ORGANIZATION
+1.0	Sir John Nutting	be attend	hearing at London 's High Court	PERSON	LOCATION
+1.0	separate inquest	will	will hold for Diana	0	PERSON
+1.0	Britain	have	Elizabeth II	LOCATION	PERSON
+1.0	inquest	will	will hold	0	0
+1.0	Sir John Nutting	be attend hearing at	request	PERSON	0
+1.0	inquest	will	will hold for Diana	0	PERSON
+1.0	investigation	dismiss conspiracy theory at_time	last month	0	DATE
+1.0	Wales	have	Diana Princess	O	LOCATION
+1.0	Elizabeth II	be queen of	Britain	PERSON	LOCATION
+1.0	investigation	dismiss conspiracy theory at_time	month	0	DATE
+1.0	couple	have	deaths	O	O
+1.0	investigation	dismiss	conspiracy theory	0	0
+1.0	Lord Peter Goldsmith	have	request	O	PERSON
+1.0	London	have	High Court	O	LOCATION
+1.0	London	at	High Court	LOCATION	0
+1.0	Diana	have	companion	O	O
+1.0	Diana Princess	have	death	O	O
+1.0	government official	say at_time	Thursday	0	DATE
+1.0	Sir John Nutting	be attend	two-day hearing at London 's High Court	PERSON	DURATION
+1.0	Nutting	have	attendance	O	PERSON
+1.0	London	have	Metropolitan Police	ORGANIZATION	ORGANIZATION
+1.0	Metropolitan Police	have	head	O	ORGANIZATION
+1.0	Sir John Nutting	be attend	hearing	PERSON	0
+1.0	separate inquest	will	will hold	0	0
+1.0	Sir John Nutting	be attend	two-day hearing	PERSON	DURATION
+1.0	Tony Blair	to	government	PERSON	0
+1.0	Britain	have	Queen Elizabeth II	PERSON	LOCATION
+1.0	Nutting	have	attendance	PERSON	0
+1.0	Nutting 's attendance	be	confirm	PERSON	0
+1.0	John Stevens	head of	London 's Metropolitan Police	PERSON	ORGANIZATION
+1.0	crash	be	accident	0	0

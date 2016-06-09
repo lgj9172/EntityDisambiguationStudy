@@ -1,0 +1,58 @@
+1.0	he	authorise	plane	0	0
+1.0	most	be	construction worker employ by adana-based Kulak construction company	0	PERSON
+1.0	business	undertake	dozen of contract	0	0
+1.0	turkish business	undertake	dozen	0	0
+1.0	turkish business	grab share in	reconstruction	0	0
+1.0	construction worker	employ by	Kulak construction company	0	PERSON
+1.0	whom	have	most	O	O
+1.0	plane	be	overload	0	0
+1.0	shipping goods	have	dozens	O	O
+1.0	he	fly from	Adana at 6:00 am -LRB- 0400 GMT -RRB-	0	LOCATION
+1.0	Balad	have	town	O	LOCATION
+1.0	people	be kill in	accident	0	0
+1.0	turkish business	undertake dozen to	country	0	0
+1.0	construction worker	employ by	adana-based Kulak construction company	0	PERSON
+1.0	turkish business	have	have keen	0	0
+1.0	his	have	department	O	O
+1.0	business	have	have keen	0	0
+1.0	Baghdad	have	weather north	O	LOCATION
+1.0	turkish business	undertake	dozen of contract	0	0
+1.0	he	also authorise	plane	0	0
+1.0	plane	crash near	Balad	0	LOCATION
+1.0	thirty-four people	be	kill	0	0
+1.0	turkish business	grab	share	0	0
+1.0	business	undertake dozen to	country	0	0
+1.0	Kulak	have	partners	O	PERSON
+1.0	thirty-four people	be kill in	accident	0	0
+0.45912862640656843	most	employ by	Kulak construction company	0	PERSON
+1.0	Kulak	of	partner	PERSON	0
+1.0	business	undertake	dozen	0	0
+1.0	people	be	kill	0	0
+1.0	Cahit Kirac	be governor of	Adana	PERSON	LOCATION
+1.0	victims	have	bodies	O	O
+1.0	Baghdad	have	north	O	LOCATION
+1.0	crash	have	cause	O	O
+1.0	Adana	be at	6:00 be	LOCATION	TIME
+1.0	most	be	construction worker employ by Kulak construction company	0	PERSON
+1.0	he	authorise	moldovan-registered plane	0	0
+1.0	he	also authorise	moldovan-registered plane	0	0
+1.0	business	grab	share	0	0
+0.45912862640656843	most	employ by	adana-based Kulak construction company	0	PERSON
+1.0	Cahit Kirac	be	Adana	PERSON	LOCATION
+1.0	Iraq	have	Ahmed al-Mussawi	LOCATION	PERSON
+1.0	Adana	have	city	O	LOCATION
+1.0	he	fly to	Iraq	0	LOCATION
+1.0	Iraq 's transport ministry spokesman Ahmed al-Mussawi	tell	AFP	LOCATION	ORGANIZATION
+1.0	injured	have	bodies	O	O
+1.0	senior aviation official	deny	media report	0	0
+1.0	Ahmed al-Mussawi	be transport ministry spokesman of	Iraq	PERSON	LOCATION
+1.0	most	be	construction worker	0	0
+1.0	partners	have	One	NUMBER	O
+1.0	business	grab share in	reconstruction	0	0
+1.0	most	be	construction worker employ	0	0
+1.0	contracts	have	dozens	O	O
+1.0	Iraq	have	transport ministry spokesman Ahmed al-Mussawi	PERSON	LOCATION
+1.0	aviation official	deny	media report	0	0
+1.0	accident	have	cause	O	O
+1.0	plane	be overload	say	0	0
+1.0	civilian plane	crash near	Balad	0	LOCATION

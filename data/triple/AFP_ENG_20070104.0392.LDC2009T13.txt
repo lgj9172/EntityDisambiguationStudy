@@ -1,0 +1,25 @@
+1.0	Syria	have	higher Institute of Applied Science and Technology	LOCATION	ORGANIZATION
+1.0	The US government	spread	weapon	0	0
+1.0	higher Institute of Applied Science and Technology	be	blacklisting Syria 's Higher Institute of Applied Science and Technology , Electronics Institute , and the National Standards and Calibration Laboratory	ORGANIZATION	ORGANIZATION
+1.0	Applied Science	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	Americans	conduct	transaction	MISC	0
+1.0	weapons	have	development	O	O
+1.0	Scientific Studies and Research Center	of subordinate be	SSRC	ORGANIZATION	0
+1.0	Scientific Studies	have	subordinates	O	ORGANIZATION
+1.0	blacklisting Syria	have	Institute	ORGANIZATION	LOCATION
+1.0	US government	put	squeeze	LOCATION	0
+1.0	mass destruction	have	weapons	O	O
+0.892200936346634	US asset	hold by	three body	LOCATION	NUMBER
+1.0	Americans	be	ban	MISC	0
+1.0	National Standards	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	Technology	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	Stuart Levey	treasury under	secretary for terrorism intelligence	PERSON	0
+1.0	US government	put	financial squeeze	LOCATION	0
+1.0	blacklisting Syria 's Higher Institute of Applied Science and Technology , Electronics Institute , and the National Standards and Calibration Laboratory	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	Research Center	have	subordinates	O	ORGANIZATION
+1.0	Stuart Levey	say in	statement	0	0
+1.0	the Treasury	accord to subordinate be	SSRC	ORGANIZATION	0
+1.0	SSRC	have	activities	O	O
+1.0	Americans	conduct transaction with	they	MISC	0
+1.0	US government	put squeeze at_time	Thursday	LOCATION	DATE
+1.0	The US government	spread	weapon of mass destruction	0	0

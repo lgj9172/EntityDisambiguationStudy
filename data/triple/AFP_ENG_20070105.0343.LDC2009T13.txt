@@ -1,0 +1,30 @@
+1.0	spokeswoman	comment on	ruling	0	0
+1.0	France	's consommateurs be	UFC	LOCATION	0
+1.0	product	have	nature	O	O
+1.0	Sony France	be	order	ORGANIZATION	0
+1.0	Sony	on	own player	ORGANIZATION	0
+1.0	they	only run on	Sony 's player	0	ORGANIZATION
+1.0	a consumer watchdog	have	music players	O	O
+1.0	players	have	WM range	O	O
+1.0	they	run on	Sony 's own player	0	ORGANIZATION
+1.0	whose	have	case	O	O
+1.0	Sony France	pay	UFC 10,000 euro	ORGANIZATION	MONEY
+1.0	spokeswoman	decline	comment on ruling	0	0
+1.0	its	have	product	O	O
+1.0	music file	be	lock	0	0
+1.0	Sony France	pay	13,000 dollar	ORGANIZATION	MONEY
+1.0	Apple	have	iTunes	O	ORGANIZATION
+1.0	Sony	have	Walkmans	MISC	ORGANIZATION
+1.0	they	only run on	Sony 's own player	0	ORGANIZATION
+1.0	the Sony	have	WM range	O	O
+1.0	spokeswoman	decline	comment	0	0
+1.0	France 's Union Federale des Consommateurs	take	french	ORGANIZATION	0
+1.0	France	have	Union Federale des Consommateurs	LOCATION	ORGANIZATION
+1.0	spokeswoman	decline	say	0	0
+1.0	iPod	have	maker	O	O
+1.0	Sony	have	players	O	ORGANIZATION
+1.0	court	order	Sony France	0	ORGANIZATION
+1.0	they	run on	Sony 's player	0	ORGANIZATION
+1.0	France	have	Union Federale des Consommateurs	ORGANIZATION	LOCATION
+1.0	the Sony	use	DRM technology	ORGANIZATION	MISC
+1.0	its	have	downloads	O	O

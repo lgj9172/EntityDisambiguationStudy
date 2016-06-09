@@ -1,0 +1,130 @@
+1.0	stock	reverse	course follow earlier gain	0	0
+0.11105180709810691	Paris CAC 40	dive to	5,561.58 point	LOCATION	NUMBER
+1.0	Dow Jones Industrial Average	close at	12,474.52 point	MISC	NUMBER
+1.0	stock market	reach near	six-year high	0	DURATION
+1.0	it	be first day for	back investor	0	0
+1.0	euro	stand at	1.3092 dollar	0	MONEY
+1.0	mining stock	be	faller	0	0
+1.0	stock market	drop on	high Thursday	0	DATE
+1.0	it	be day for	back investor on Wall Street since start	0	DATE
+1.0	steel group ThyssenKrupp	slide	3.03 percent	ORGANIZATION	PERCENT
+1.0	biggest faller	be in	early european exchange	0	0
+1.0	DAX 30 index	slide	0.72 percent	NUMBER	PERCENT
+1.0	Supply Management	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	profit-taking	be in	China stock	0	LOCATION
+1.0	iron exporters	have	one	NUMBER	O
+1.0	investors	have	scores	O	O
+1.0	broad	shed	Poor 's index	0	ORGANIZATION
+1.0	Mittal Steel	tumble	3.71 percent	ORGANIZATION	PERCENT
+1.0	London	have	FTSE index	O	LOCATION
+1.0	european stock market	reach near	six-year high	0	DURATION
+1.0	eurozone chip shares	have	DJ Euro Stoxx	MISC	O
+1.0	it	be day for	investor on Wall Street	0	0
+1.0	mining stock	be	biggest faller	0	0
+1.0	stock	have roar higher give	give Institute	0	ORGANIZATION
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	CreditSuisse	downgrade steel sector to	underweight	ORGANIZATION	0
+1.0	german steel group ThyssenKrupp	slide	3.03 percent	ORGANIZATION	PERCENT
+1.0	european stock market	drop in	morning trade	0	TIME
+1.0	Nasdaq composite	finish higher at	2,423.16 point	MISC	NUMBER
+1.0	DAX index	climb for	first time	0	ORDINAL
+1.0	Hong Kong	have	Hang Seng Index	MISC	LOCATION
+1.0	it	be first day for	back investor on Wall Street	0	0
+1.0	Dow Jones Industrial Average	close up in	New York	MISC	LOCATION
+1.0	DAX index	climb for	time	0	0
+1.0	Kazakhmys	shed	4.51 percent	PERSON	PERCENT
+1.0	stock market	drop in	morning trade	0	TIME
+1.0	their	have	surge	O	O
+0.11105180709810691	Paris CAC	dive to	5,561.58 point	LOCATION	NUMBER
+1.0	stock market	reach near	high	0	0
+1.0	mining stock	be biggest faller in	european exchange	0	0
+1.0	30.38 euro	be in	Paris	MONEY	LOCATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close on	Thursday in Asia	ORGANIZATION	LOCATION
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	India	of	lead iron exporter	LOCATION	0
+1.0	DAX index	climb for	first time since February 2001	0	ORDINAL
+1.0	DAX 30 index	climb for	first time	NUMBER	ORDINAL
+1.0	Dow Jones Industrial Average	close in	New York	MISC	LOCATION
+1.0	european stock market	drop on	high Thursday	0	DATE
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+1.0	reading	have	release	O	O
+0.13395351784420906	Xstrata	slump to	2,304 pence	ORGANIZATION	MONEY
+1.0	Dow Jones Industrial Average	close up in	New York on Wednesday	MISC	DATE
+1.0	mining stock	be faller in	european exchange	0	0
+1.0	tech-weighted Nasdaq composite	finish higher at	2,423.16 point	MISC	NUMBER
+1.0	Thursday	be in	Asia	DATE	LOCATION
+1.0	it	be first day for	back investor on Wall Street since start of 2007	0	DATE
+1.0	it	be day for	back investor	0	0
+1.0	stock	reverse	course	0	0
+1.0	Sesa Goa Ltd	one of	India 's lead iron exporter	ORGANIZATION	LOCATION
+1.0	it	be first day for	back investor on Wall Street since start	0	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close up at	end of half-day session	ORGANIZATION	0
+1.0	it	be day for	back investor on Wall Street since start of 2007	0	DATE
+1.0	Fed	have	December meeting	O	ORGANIZATION
+1.0	New York	be on	Wednesday	LOCATION	DATE
+1.0	it	be day for	investor on Wall Street since start	0	DATE
+1.0	Hindustan Times	quote	investment banking source	ORGANIZATION	0
+1.0	world	have	largest steel manufacturer	0	0
+1.0	mining stock	be biggest faller in	early exchange	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close at	end of half-day session	ORGANIZATION	0
+1.0	stock	have roar give	give Institute	0	ORGANIZATION
+1.0	mining stock	be faller in	early exchange	0	0
+1.0	it	be day for	back investor on Wall Street	0	0
+1.0	mining stock	be faller in	exchange	0	0
+1.0	stock	have roar higher give	give Institute of Supply Management	0	ORGANIZATION
+1.0	DAX 30 index	climb for	time since February 2001	NUMBER	DATE
+1.0	it	be day for	investor on Wall Street since start of 2007	0	DATE
+1.0	it	be first day for	investor on Wall Street since start	0	DATE
+1.0	India	have	iron exporters	O	LOCATION
+1.0	Hong Kong	have	Hang Seng Index	LOCATION	MISC
+1.0	Dow Jones Industrial Average	close in	New York on Wednesday	MISC	DATE
+1.0	it	be first day for	investor on Wall Street since start of 2007	0	DATE
+1.0	Hindustan Times	quote	unnamed investment banking source	ORGANIZATION	0
+1.0	it	be day for	investor	0	0
+1.0	it	be first day for	investor	0	0
+1.0	european stock market	reach near	high	0	0
+1.0	2007	have	trading day	DATE	DATE
+1.0	Fed	from	December 12 meeting	ORGANIZATION	DATE
+1.0	2007	have	start	DATE	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close at	end	ORGANIZATION	0
+1.0	12,580.35	have	record high	O	NUMBER
+1.0	ThyssenKrupp	be	german	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close at	end of session	ORGANIZATION	0
+1.0	stock	reverse	course follow strong gain	0	0
+1.0	Mittal Steel	manufacturer 's	world	ORGANIZATION	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close up at	end of session	ORGANIZATION	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close up at	end	ORGANIZATION	0
+1.0	session	have	end	O	O
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	Nasdaq composite	finish at	2,423.16 point	MISC	NUMBER
+1.0	DAX index	climb for	time since February 2001	0	DATE
+1.0	record high	strike in	morning trading	0	TIME
+1.0	mining stock	be biggest faller in	early european exchange	0	0
+1.0	stock	reverse	course follow gain	0	0
+1.0	Paris CAC	dive	0.88 percent	LOCATION	PERCENT
+1.0	broad	shed	Poor 's 500 index	0	NUMBER
+1.0	it	be	first day	0	DURATION
+1.0	world	have	steel manufacturer	O	O
+1.0	DAX 30 index	climb for	time	NUMBER	0
+1.0	stock	reverse course after	minute	0	0
+1.0	shares	have	FTSE index	O	O
+1.0	mining stock	be biggest faller in	exchange	0	0
+1.0	it	be first day for	investor on Wall Street	0	0
+1.0	mining stock	be faller in	early european exchange	0	0
+1.0	stock	have roar give	give Institute of Supply Management	0	ORGANIZATION
+1.0	Dow Jones Industrial Average	close up at	12,474.52 point	MISC	NUMBER
+1.0	DAX index	slide	0.72 percent	0	PERCENT
+1.0	DAX 30 index	climb for	first time since February 2001	NUMBER	ORDINAL
+1.0	steel group ThyssenKrupp	meanwhile slide	3.03 percent	ORGANIZATION	PERCENT
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close on	Thursday	ORGANIZATION	DATE
+1.0	stock	reverse	course follow strong earlier gain	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close up on	Thursday in Asia	ORGANIZATION	LOCATION
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	Paris CAC 40	dive	0.88 percent	LOCATION	PERCENT
+1.0	it	be	day	0	DURATION
+1.0	BHP Billiton	drop	4.61 percent	ORGANIZATION	PERCENT
+1.0	tech-weighted Nasdaq composite	finish at	2,423.16 point	MISC	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close up on	Thursday	ORGANIZATION	DATE
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Xstrata	slump	4.68 percent	ORGANIZATION	PERCENT
+1.0	german steel group ThyssenKrupp	meanwhile slide	3.03 percent	ORGANIZATION	PERCENT

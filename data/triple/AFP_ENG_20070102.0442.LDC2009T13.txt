@@ -1,0 +1,33 @@
+1.0	island	be	british	0	0
+1.0	Argentina	urge	London	LOCATION	LOCATION
+1.0	Argentina	have	ministry	O	LOCATION
+1.0	Organization	have urge	country	ORGANIZATION	0
+1.0	sovereignty	have	claim	O	O
+1.0	Britain	over	Falkland Islands	LOCATION	LOCATION
+1.0	Atlantic islands	have	control	O	O
+1.0	Argentina	reaffirm	Tuesday its claim of sovereignty	LOCATION	DATE
+1.0	Argentina	have	claim	LOCATION	0
+1.0	country	renew	negotiation	0	0
+1.0	Argentina	have	claim	O	LOCATION
+1.0	foreign ministry	be in	statement issue on eve of 174th anniversary of Britain 's control of Atlantic island	0	LOCATION
+1.0	Argentina	reaffirm	Tuesday its claim of sovereignty over Britain 's Falkland Islands	LOCATION	LOCATION
+1.0	Britain	have	Falkland Islands	LOCATION	LOCATION
+1.0	January 3 , 1833	have	residents	O	O
+1.0	control	have	anniversary	O	O
+1.0	Argentina 's military dictatorship	invade island in	April 1982	LOCATION	DATE
+1.0	Argentina	return in	1983	LOCATION	DATE
+1.0	Argentina	have	then military dictatorship	LOCATION	0
+1.0	country	renew	bilateral negotiation	0	0
+1.0	Argentina 's dictatorship	invade island in	April 1982	LOCATION	DATE
+1.0	American States	have	Organization	ORGANIZATION	ORGANIZATION
+1.0	Argentina	have	dictatorship	O	LOCATION
+1.0	Argentina 's military dictatorship	invade	island	LOCATION	0
+1.0	Tuesday	have	claim	O	O
+0.7990274113033963	country	organization of	American States	0	ORGANIZATION
+1.0	anniversary	have	eve	O	O
+1.0	Argentina	have	foreign ministry	LOCATION	0
+1.0	Britain	of	control of Atlantic island	LOCATION	LOCATION
+1.0	Argentina	return to	democracy	LOCATION	0
+1.0	Argentina	reaffirm	Tuesday its claim	LOCATION	DATE
+1.0	Argentina 's dictatorship	invade	island	LOCATION	0
+1.0	Britain	have	control	O	LOCATION

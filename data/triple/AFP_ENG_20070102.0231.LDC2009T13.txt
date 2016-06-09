@@ -1,0 +1,12 @@
+0.47937962732886696	sale	fall in	Spain	0	LOCATION
+0.47937962732886696	sale	fall at_time	year	0	DATE
+0.47937962732886696	sale	fall at_time	last year	0	DATE
+1.0	cars	have	Sales	O	O
+1.0	2005	have	month	DATE	DATE
+1.0	percent	have	sales decline	O	PERCENT
+1.0	Spain	be in	2006	LOCATION	DATE
+1.0	Spain	be currently face	prospect	LOCATION	0
+1.0	Spain	be face	prospect	LOCATION	0
+1.0	manufacturers	have	association	O	O
+1.0	sale	hit	record	0	0
+1.0	sale	fall	2.0 percent	0	PERCENT

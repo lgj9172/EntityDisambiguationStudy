@@ -1,0 +1,64 @@
+1.0	member Myanmar	have	ruler initiate	LOCATION	0
+1.0	opposition leader	be most famous among	they	0	0
+1.0	minister	prepare for	Saturday 's ASEAN summit	0	DATE
+1.0	course	have	means	O	O
+1.0	those	have	release	O	O
+1.0	Ong Keng Yong	secretary-general of	association of southeast asian nation	PERSON	ORGANIZATION
+1.0	war	have	weapon	O	O
+1.0	grouping	have	powers	O	O
+1.0	member Myanmar	have	rulers	O	LOCATION
+1.0	ASEAN	have	concern about adherence	ORGANIZATION	0
+1.0	minister	be meet	prepare for Saturday 's ASEAN summit	0	DATE
+1.0	ASEAN	have	concerns	O	ORGANIZATION
+1.0	1,100 political prisoner	be in	member Myanmar	NUMBER	LOCATION
+1.0	Saturday	for	ASEAN summit	DATE	ORGANIZATION
+0.525240150343915	draft UN Security Council resolution	urge	Myanmar 's ruler	ORGANIZATION	LOCATION
+1.0	our	have	calls	O	O
+1.0	grouping 's official	say at_time	early Thursday	0	DATE
+1.0	democratic reform	release	political prisoner	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	democracy	be in	the near future	0	DATE
+1.0	reconciliation process	have	pace	O	O
+0.6159386655779492	ASEAN	also want	Myanmar	ORGANIZATION	LOCATION
+1.0	their	have	road map	O	O
+1.0	ASEAN	have	self	O	O
+1.0	minister	be meet	prepare	0	0
+1.0	Myanmar	release	five dissident	LOCATION	NUMBER
+0.6159386655779492	ASEAN	want	Myanmar	ORGANIZATION	LOCATION
+0.6073364301044799	Ong	ask about	resolution	PERSON	0
+1.0	prisoners	have	release	O	O
+1.0	this	mean release of	course	0	0
+1.0	opposition leader	be	famous	0	0
+1.0	his	have	Myanmar counterpart U Nyan Win	MISC	O
+1.0	meeting	be with	Nyan Win	0	MISC
+1.0	United States	introduce	draft UN Security Council resolution	LOCATION	ORGANIZATION
+1.0	ASEAN	have	member	O	ORGANIZATION
+1.0	Romulo	be in	meeting with he Myanmar counterpart U Nyan Win late Wednesday	PERSON	MISC
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	United States	be on	Tuesday	LOCATION	DATE
+1.0	Democracy	be in	writing of new constitution	0	0
+1.0	philippine official	say at_time	Thursday	0	DATE
+1.0	Syed Hamid Albar	be envoy of	ASEAN	PERSON	ORGANIZATION
+1.0	foreign minister	be meet	prepare	0	0
+1.0	their	have	adherence	O	O
+1.0	constitution	have	writing	O	O
+1.0	opposition leader	famous	Nobel Peace Laureate Aung San Suu Kyi	0	PERSON
+1.0	grouping	have	official	O	O
+1.0	ASEAN	have	most embarrassing member	ORGANIZATION	0
+1.0	Syed Hamid Albar	be to	ASEAN	PERSON	ORGANIZATION
+1.0	opposition	have	course participation	O	O
+1.0	opposition leader	most famous	Nobel Peace Laureate Aung San Suu Kyi	0	PERSON
+1.0	Association	have	secretary-general	O	ORGANIZATION
+1.0	Saturday	have	ASEAN summit	O	DATE
+1.0	this	mean	release	0	0
+1.0	opposition leader	be famous among	they	0	0
+1.0	course participation	have	means	O	O
+1.0	ASEAN ministers	have	view	O	O
+1.0	foreign minister	be meet	prepare for Saturday 's ASEAN summit	0	DATE
+1.0	grouping 's top official	say at_time	early Thursday	0	DATE
+1.0	we	reiterate	we call	0	0
+1.0	Nobel Peace Laureate Aung San Suu Kyi	have	release	O	PERSON
+1.0	opposition leader	be	most famous	0	0
+1.0	foreign minister	prepare for	Saturday 's ASEAN summit	0	DATE
+1.0	grouping	have	top official	0	0
+1.0	reform	release	political prisoner	0	0

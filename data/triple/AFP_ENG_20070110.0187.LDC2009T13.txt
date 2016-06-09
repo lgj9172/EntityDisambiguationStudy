@@ -1,0 +1,178 @@
+1.0	Pyongyang	announce at_time	year	LOCATION	DATE
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	rare tour	PERSON	0
+1.0	Japan	bolster cooperation with	energy-rich asian nation in development of transportation link	LOCATION	0
+1.0	Pyongyang	announce at_time	last year	LOCATION	DATE
+1.0	pledge	come at	meeting between japanese Foreign Minister Taro Aso	0	PERSON
+1.0	it	also involve	United States	0	LOCATION
+1.0	Prime Minister Shinzo Abe	arrive on	second leg of european tour	PERSON	ORDINAL
+1.0	Taro Aso	be between	japanese	PERSON	0
+1.0	cooperation	be with	energy-rich region	0	0
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	tour	PERSON	0
+1.0	official	say before	meeting	0	0
+1.0	oil	have	most	O	O
+1.0	Tokyo	raise	issue of citizen	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of century bc altar	PERSON	DATE
+1.0	Japan	bolster cooperation with	energy-rich central asian nation	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of 2nd century bc altar	PERSON	DATE
+1.0	cooperation	be in	Afghanistan	0	LOCATION
+1.0	Japan	bolster cooperation with	energy-rich nation in development	LOCATION	0
+1.0	he	wife	Akie	0	PERSON
+1.0	century BC altar	have	home	O	O
+1.0	German Foreign Minister Frank-Walter Steinmeier	have	goal	O	O
+1.0	North Korea	have	programme	O	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	arrive on	leg	PERSON	0
+1.0	it	be participant in	talk over North Korea 's programme	0	LOCATION
+1.0	Japan	bolster cooperation with	asian nation	LOCATION	0
+1.0	it	be participant in	talk over North Korea 's nuclear programme	0	LOCATION
+1.0	it	be participant in	talk	0	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	second leg of four-nation european tour	PERSON	ORDINAL
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	tour of region	PERSON	0
+1.0	it	be participant in	six-party talk	0	0
+1.0	Japan	bolster cooperation with	central nation in development	LOCATION	0
+1.0	its role	have	bid	O	O
+1.0	transportation links	have	development	O	O
+1.0	Japan	bolster	cooperation	LOCATION	0
+1.0	region	be in	November	0	DATE
+1.0	Tokyo	be take line with	its own economic sanction	LOCATION	0
+1.0	Japan	bolster cooperation with	energy-rich nation in development of transportation link	LOCATION	0
+1.0	Prime Minister Shinzo Abe	arrive on	leg of european tour	PERSON	0
+1.0	seven missile launch	be in	July	NUMBER	DATE
+1.0	cooperation with energy-rich regions	boom	China	0	LOCATION
+1.0	Tokyo	be take	toughest line	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	second leg	PERSON	ORDINAL
+1.0	it	be participant in	so-called talk over North Korea 's programme	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	visit	home	PERSON	0
+1.0	participant	be in	so-called six-party talk over North Korea 's nuclear programme	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	be	set	PERSON	0
+1.0	Japan	bolster cooperation with	nation in development	LOCATION	0
+1.0	citizens	have	issue	O	O
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed century bc altar of same name	PERSON	DATE
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	rare tour of region in November	PERSON	DATE
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed 2nd century bc altar of name	PERSON	DATE
+1.0	Japanese Prime Minister Shinzo Abe	meet	leader for time	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	arrive in	Berlin Wednesday for talk	PERSON	DATE
+1.0	Japan	bolster cooperation with	central asian nation in development of transportation link	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of 2nd century bc altar of name	PERSON	DATE
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed century bc altar of name	PERSON	DATE
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed century bc altar	PERSON	DATE
+1.0	japanese Prime Minister Shinzo Abe	arrive with	german Chancellor Angela Merkel	PERSON	PERSON
+1.0	Prime Minister Shinzo Abe	arrive with	Chancellor Angela Merkel	PERSON	PERSON
+1.0	region	have	tour	O	O
+1.0	Germany	have	presidency	O	LOCATION
+1.0	Pyongyang	have	bomb test	O	O
+1.0	abe	raise	he cherish goal	0	0
+1.0	it	be participant in	so-called six-party talk	0	0
+1.0	Tokyo	boost	its role	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	second leg of european tour	PERSON	ORDINAL
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed 2nd century bc altar of same name	PERSON	DATE
+1.0	Japan	bolster cooperation with	energy-rich nation	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	leg of tour	PERSON	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	leg of four-nation european tour	PERSON	0
+1.0	Prime Minister Shinzo Abe	arrive on	second leg of four-nation tour	PERSON	ORDINAL
+1.0	Japan	bolster cooperation with	asian nation in development	LOCATION	0
+1.0	Japan	bolster cooperation with	energy-rich asian nation in development	LOCATION	0
+1.0	abe	be likely among	issue	0	0
+1.0	North Korea	over	nuclear programme	LOCATION	0
+1.0	Tokyo	raise	issue of citizen believe	LOCATION	0
+1.0	abe	raise	he goal	0	0
+1.0	Japanese Prime Minister Shinzo Abe	have	wife	O	O
+1.0	Taro Aso	have	counterparts	O	O
+1.0	Prime Minister Shinzo Abe	arrive on	second leg of tour	PERSON	ORDINAL
+1.0	Japan	bolster cooperation with	asian nation in development of transportation link	LOCATION	0
+1.0	energy supply	have	terms	O	O
+1.0	three key partner	be in	drive along with Brazil	NUMBER	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	arrive on	leg of european tour	PERSON	0
+0.7949263332548436	seek	support over	North Korea 's programme	0	LOCATION
+1.0	japanese Prime Minister Shinzo Abe	arrive on	second leg of tour	PERSON	ORDINAL
+1.0	Prime Minister Shinzo Abe	arrive on	second leg of four-nation european tour	PERSON	ORDINAL
+1.0	Tokyo	raise	issue	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	leg of four-nation tour	PERSON	0
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	rare tour of region	PERSON	0
+1.0	it	be participant in	so-called six-party talk over North Korea 's nuclear programme	0	LOCATION
+1.0	Prime Minister Shinzo Abe	arrive on	leg of tour	PERSON	0
+1.0	counter-proliferation effort	be in	North Korea 's	0	LOCATION
+1.0	pledge	come at	meeting between Foreign Minister Taro Aso	0	PERSON
+1.0	Japan	bolster cooperation with	energy-rich asian nation	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	be	also set	PERSON	0
+1.0	Japan	bolster cooperation with	energy-rich central nation in development of transportation link	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of 2nd century bc altar of same name	PERSON	DATE
+1.0	Japanese Prime Minister Shinzo Abe	meet	german leader for first time	PERSON	ORDINAL
+1.0	Prime Minister Shinzo Abe	arrive on	leg of four-nation european tour	PERSON	0
+1.0	Group	have	presidency	O	O
+1.0	Tokyo	be take line with	its sanction	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	meet	german leader for time	PERSON	0
+1.0	Japanese Prime Minister Shinzo Abe	be at_time	Wednesday	PERSON	DATE
+1.0	Japan	bolster cooperation with	energy-rich central asian nation in development	LOCATION	0
+1.0	Japan	bolster cooperation with	central asian nation in development	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	be at_time	later Wednesday	PERSON	DATE
+1.0	Tokyo	be take line with	its own sanction	LOCATION	0
+1.0	European Union	have	presidency	O	ORGANIZATION
+1.0	Frank-Walter Steinmeier	be	German	PERSON	MISC
+1.0	Tokyo	be take	line	LOCATION	0
+1.0	abe	be likely among	other issue	0	0
+1.0	name	have	century BC altar	O	O
+1.0	Berlin	have	presidency	O	LOCATION
+1.0	abe	be	likely	0	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of famed 2nd century bc altar	PERSON	DATE
+1.0	Prime Minister Shinzo Abe	arrive with	german Chancellor Angela Merkel	PERSON	PERSON
+1.0	Prime Minister Shinzo Abe	arrive in	Berlin Wednesday	PERSON	DATE
+1.0	Pergamon Museum	home of	famed 2nd century bc altar	LOCATION	DATE
+1.0	Japanese Prime Minister Shinzo Abe	visit pergamon museum with	Akie	PERSON	PERSON
+1.0	Japan	have	oil	O	O
+1.0	Pyongyang	announce in	October	LOCATION	DATE
+1.0	energy-rich central asian nation	be in	development of transportation link	0	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of century bc altar of same name	PERSON	DATE
+1.0	Tokyo	repeatedly raise	issue of citizen believe	LOCATION	0
+1.0	japanese Prime Minister Shinzo Abe	arrive on	second leg of four-nation tour	PERSON	ORDINAL
+1.0	it	involve	United States	0	LOCATION
+1.0	Prime Minister Shinzo Abe	arrive in	Berlin Wednesday for talk	PERSON	DATE
+0.7949263332548436	seek	support over	North Korea 's nuclear programme	0	LOCATION
+1.0	Japan	bolster cooperation with	central asian nation	LOCATION	0
+1.0	Tokyo	be take line with	its economic sanction	LOCATION	0
+1.0	Tokyo	have	sanctions	O	O
+1.0	Japanese Prime Minister Shinzo Abe	meet	leader	PERSON	0
+1.0	it	be participant in	so-called talk over North Korea 's nuclear programme	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	visit	Pergamon Museum	PERSON	LOCATION
+1.0	nations	have	club	O	O
+1.0	Japanese Prime Minister Shinzo Abe	meet	german leader	PERSON	0
+1.0	Japanese Prime Minister Shinzo Abe	make courtesy call to	German President Horst Koehler	PERSON	PERSON
+1.0	Prime Minister Shinzo Abe	arrive on	leg	PERSON	0
+1.0	Japanese Prime Minister Shinzo Abe	make	courtesy call	PERSON	0
+1.0	Japanese Prime Minister Shinzo Abe	meet	leader for first time	PERSON	ORDINAL
+1.0	it	be participant in	six-party talk over North Korea 's nuclear programme	0	LOCATION
+1.0	it	be participant in	so-called talk	0	0
+1.0	cooperation with energy-rich regions	boom	China for resource	0	LOCATION
+1.0	Prime Minister Shinzo Abe	arrive on	second leg	PERSON	ORDINAL
+1.0	Japan	bolster cooperation with	nation	LOCATION	0
+1.0	Tokyo	repeatedly raise	issue	LOCATION	0
+1.0	its role	have	role	O	O
+1.0	japanese Prime Minister Shinzo Abe	arrive with	Chancellor Angela Merkel	PERSON	PERSON
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	Japan	bolster cooperation with	central nation in development of transportation link	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	visit	home of century bc altar of name	PERSON	DATE
+1.0	partners	have	one	NUMBER	O
+1.0	club	have	Group	O	O
+1.0	it	be participant in	so-called six-party talk over North Korea 's programme	0	LOCATION
+1.0	German Foreign Minister Frank-Walter Steinmeier	make	tour of region in November	PERSON	DATE
+1.0	tour	have	leg	O	O
+1.0	Japan	bolster cooperation with	energy-rich central nation	LOCATION	0
+1.0	Japan	agree in	July	LOCATION	DATE
+1.0	Japan	bolster cooperation with	energy-rich central nation in development	LOCATION	0
+1.0	Tokyo	be take	toughest line against Pyongyang	LOCATION	LOCATION
+1.0	Tokyo	be take	line against Pyongyang	LOCATION	LOCATION
+1.0	Germany	have	year-long presidency of group of eight club of rich nation	LOCATION	0
+1.0	bid	have	part	O	O
+1.0	Japan	bolster cooperation with	central nation	LOCATION	0
+1.0	Horst Koehler	be to	German	PERSON	MISC
+1.0	Japanese Prime Minister Shinzo Abe	visit pergamon museum with	he wife	PERSON	0
+1.0	japanese official	say before	meeting	0	0
+1.0	it	be	participant	0	0
+1.0	Tokyo	repeatedly raise	issue of citizen	LOCATION	0
+1.0	Angela Merkel	be with	german	PERSON	0
+1.0	Japan	bolster cooperation with	nation in development of transportation link	LOCATION	0
+1.0	Prime Minister Shinzo Abe	arrive on	leg of four-nation tour	PERSON	0
+1.0	issue	discuss between	Japanese Prime Minister Shinzo Abe	0	PERSON
+1.0	japanese Prime Minister Shinzo Abe	arrive in	Berlin Wednesday	PERSON	DATE
+1.0	pledge	come at	meeting	0	0
+1.0	it	be participant in	six-party talk over North Korea 's programme	0	LOCATION
+1.0	Japan	bolster cooperation with	energy-rich central asian nation in development of transportation link	LOCATION	0

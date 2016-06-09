@@ -1,0 +1,66 @@
+1.0	space rocket	disintegrate at_time	year	0	DATE
+1.0	space rocket	disintegrate after	lift	0	0
+1.0	space agency	say at_time	month	0	DATE
+1.0	indian Space Research Organisation	also receive	payment	ORGANIZATION	0
+0.7153238025504765	sense satellite	name	cartosat-2	0	0
+1.0	India	have	heaviest satellite	LOCATION	0
+1.0	space agency	say at_time	last month	0	DATE
+1.0	the space agency	have	re-entry	O	O
+1.0	country	to	ambitious space programme	0	0
+1.0	Space Research Organisation	have	budget allot	ORGANIZATION	0
+0.9361524221342958	Vehicle	launch from	Sriharikota	0	LOCATION
+1.0	space agency	also say at_time	month	0	DATE
+1.0	India	have	locally build 680 kilogram	LOCATION	NUMBER
+1.0	Vehicle	include	India 's locally build 680 kilogram	0	LOCATION
+0.9361524221342958	Vehicle	launch in	southern Andhra state	0	LOCATION
+1.0	space rocket	disintegrate in	smoke seconds	0	DURATION
+1.0	Space Research Organisation	have	budget of 36 billion rupee allot	ORGANIZATION	MONEY
+1.0	deep space rocket	disintegrate in	smoke seconds	0	DURATION
+1.0	payload	include	earth observation satellite	0	0
+1.0	deep space rocket	disintegrate in	July	0	DATE
+1.0	Space Research Organisation	have	budget allot by government	ORGANIZATION	0
+1.0	Space Research Organisation	receive	payment	ORGANIZATION	0
+1.0	Space Research Organisation	also receive	payment	ORGANIZATION	0
+1.0	Space Research Organisation	have	chairman	O	ORGANIZATION
+1.0	India	have	kilogram	O	LOCATION
+0.7153238025504765	remote satellite	name	cartosat-2	0	0
+1.0	deep space rocket	disintegrate after	lift	0	0
+1.0	other payload	include	earth observation satellite	0	0
+1.0	Vehicle	carry	four payload	0	NUMBER
+1.0	Madhavan Nair	chairman of	indian Space Research Organisation	PERSON	ORGANIZATION
+1.0	indian Space Research Organisation	receive	payment	ORGANIZATION	0
+1.0	indian Space Research Organisation	have	budget	ORGANIZATION	0
+1.0	Madhavan Nair	tell	reporter	PERSON	0
+1.0	indian Space Research Organisation	have	budget allot by government	ORGANIZATION	0
+0.9361524221342958	Vehicle	launch in	southern Andhra pradesh state	0	LOCATION
+1.0	indian Space Research Organisation	have	budget allot	ORGANIZATION	0
+1.0	Vehicle	include	India 's build 680 kilogram	0	LOCATION
+1.0	other payload	include earth observation satellite from	Argentina	0	LOCATION
+1.0	country	have	space programme	O	O
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee allot by government	ORGANIZATION	MONEY
+1.0	rupees	have	budget	O	MONEY
+1.0	remote	gather	climate datum	0	0
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee	ORGANIZATION	MONEY
+0.7153238025504765	remote sense satellite	name	cartosat-2	0	0
+1.0	other payload	include	indonesian earth observation satellite	0	0
+1.0	Space Research Organisation	have	budget of 36 billion rupee	ORGANIZATION	MONEY
+1.0	deep space rocket	disintegrate at_time	last year	0	DATE
+0.9361524221342958	Vehicle	launch in	Andhra state	0	LOCATION
+1.0	Space Research Organisation	have	budget of 36 billion rupee allot by government	ORGANIZATION	MONEY
+1.0	space agency	also say at_time	last month	0	DATE
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee allot	ORGANIZATION	MONEY
+1.0	Space Research Organisation	have	budget	ORGANIZATION	0
+1.0	deep space rocket	disintegrate at_time	year	0	DATE
+1.0	space agency	test	its re-entry	0	0
+0.9361524221342958	Vehicle	launch in	Andhra pradesh state	0	LOCATION
+1.0	space rocket	disintegrate in	July	0	DATE
+1.0	India	have	satellite	O	LOCATION
+1.0	Vehicle	include	India 's 680 kilogram	0	LOCATION
+1.0	remote	be	use	0	0
+1.0	George Koshy	director of	indian space agency	PERSON	0
+1.0	payload	include	indonesian earth observation satellite	0	0
+1.0	space agency	have	vehicle director	O	O
+1.0	space rocket	disintegrate at_time	last year	0	DATE
+0.7153238025504765	satellite	name	cartosat-2	0	0
+1.0	life	have	evidence	O	O
+1.0	payload	include earth observation satellite from	Argentina	0	LOCATION

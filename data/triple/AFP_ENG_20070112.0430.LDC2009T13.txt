@@ -1,0 +1,40 @@
+1.0	Leonid Fedoun	be vice president of	Lukoil	PERSON	ORGANIZATION
+1.0	Russia	have	oil producer	O	LOCATION
+1.0	gain	be	at time hamper by appreciation in ruble against dollar	0	0
+0.10199368314675994	we	expect	begin	0	0
+1.0	rise	be in	net earnings	0	0
+1.0	appreciation	be in	ruble against dollar	0	0
+1.0	gain	be	at time hamper by appreciation	0	0
+1.0	reserves	have	percent	PERCENT	O
+1.0	profit	come to	6.442 billion dollar	0	MONEY
+1.0	oil reserves	have	percent	PERCENT	O
+1.0	profit	come to	4.9 billion euro	0	MONEY
+1.0	Leonid Fedoun	be	Lukoil	PERSON	ORGANIZATION
+1.0	favorable price environment	increase in	extraction volume	0	0
+1.0	2006	have	months	DATE	DATE
+1.0	Caspian fields	have	scale development	O	O
+1.0	gain	be hamper by	appreciation in ruble against dollar	0	0
+1.0	gain	be	at same time hamper by appreciation in ruble against dollar	0	0
+1.0	world	have	oil reserves	O	O
+1.0	net profit	be in	January	0	DATE
+1.0	its	have	reserves	O	O
+1.0	34 percent spike	be in	net earnings	PERCENT	0
+1.0	gain	be	at time hamper by appreciation in ruble	0	0
+1.0	year	have	end	DATE	DATE
+1.0	oil	have	barrels	O	O
+1.0	gain	be	hamper	0	0
+1.0	Lukoil	be on	Friday	ORGANIZATION	DATE
+1.0	company	say in	statement	0	0
+1.0	gain	be hamper by	appreciation	0	0
+1.0	Russia	have	lead oil producer	LOCATION	0
+1.0	world	of	proven oil reserve	0	0
+1.0	net profit	come to	4.9 billion euro	0	MONEY
+1.0	net profit	come to	6.442 billion dollar	0	MONEY
+1.0	gain	be	at same time hamper by appreciation in ruble	0	0
+1.0	gain	be hamper by	appreciation in ruble	0	0
+1.0	gain	be hamper at	time	0	0
+1.0	increase	be in	extraction volume	0	0
+1.0	gain	be hamper at	same time	0	0
+1.0	our	have	Caspian fields	O	O
+1.0	gain	be	at same time hamper by appreciation	0	0
+1.0	same period	be in	2005	0	DATE

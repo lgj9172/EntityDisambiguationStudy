@@ -1,0 +1,66 @@
+1.0	she	tell	reporter	0	0
+1.0	teacher	travel with	two teacher	0	NUMBER
+1.0	she	die later	become	0	0
+1.0	muslim villager	be	shoot	0	0
+1.0	teacher	travel in	one of three province	0	NUMBER
+1.0	35-year-old villager	be shoot at_time	late Tuesday	DURATION	DATE
+1.0	she	tell reporter in	Bangkok	0	LOCATION
+1.0	Thailand	have	south	O	LOCATION
+1.0	a 35-year-old Muslim villager	walk back after	evening prayer	0	TIME
+1.0	35-year-old villager	be	shoot	DURATION	0
+1.0	teacher	travel to	school	0	0
+1.0	39-year-old teacher	travel in	Pattani	DURATION	LOCATION
+1.0	she	die later in	hospital	0	0
+1.0	villager	be	shoot	0	0
+1.0	a 35-year-old Muslim villager	walk back from	local mosque	0	0
+1.0	insurgency	erupt in	January 2004	0	DATE
+1.0	villager	be shoot at_time	late Tuesday	0	DATE
+1.0	a 35-year-old Muslim villager	walk back from	mosque	0	0
+1.0	police	say as	minister	0	0
+1.0	female teacher	be in	Thailand 's restive south	0	LOCATION
+1.0	separatist insurgency	erupt in	January 2004	0	DATE
+1.0	Kasama Varavarn	call on	government	PERSON	0
+1.0	latest separatist insurgency	erupt in	January 2004	0	DATE
+1.0	Buddhist Thailand	annex	Buddhist Thailand	ORGANIZATION	0
+1.0	provinces	have	one	NUMBER	O
+1.0	police	say at_time	early Wednesday	0	DATE
+1.0	teacher	travel to	elementary school	0	0
+1.0	a 35-year-old Muslim villager	walk from	mosque	0	0
+1.0	Pattani	one of	three province border	LOCATION	NUMBER
+1.0	teacher	travel in	one three province	0	NUMBER
+1.0	teacher	be	shoot	0	0
+1.0	39-year-old teacher	travel to	elementary school	DURATION	0
+1.0	Teachers	be	attack	0	0
+0.32468555244207997	police	say as	minister consider	0	0
+1.0	she	die in	hospital	0	0
+1.0	a 35-year-old Muslim villager	walk from	local mosque	0	0
+1.0	her	have	proposal	O	O
+1.0	35-year-old villager	be shoot at_time	Tuesday	DURATION	DATE
+1.0	a 35-year-old Muslim villager	walk after	evening prayer	0	TIME
+1.0	muslim villager	be shoot at_time	late Tuesday	0	DATE
+1.0	39-year-old teacher	travel in	one of three province	DURATION	NUMBER
+1.0	35-year-old muslim villager	be shoot at_time	late Tuesday	DURATION	DATE
+1.0	Teachers	be	frequently attack	0	0
+0.32468555244207997	police	say as	prime minister consider	0	0
+1.0	39-year-old teacher	travel in	one three province	DURATION	NUMBER
+1.0	latest insurgency	erupt in	January 2004	0	DATE
+1.0	police	say as	prime minister	0	0
+1.0	39-year-old teacher	travel with	two other teacher	DURATION	NUMBER
+1.0	teacher	travel with	two other teacher	0	NUMBER
+1.0	bloodshed	have	years	DURATION	O
+1.0	39-year-old teacher	be	shoot	DURATION	0
+1.0	39-year-old teacher	travel to	school	DURATION	0
+1.0	teacher	be shoot in	ambush	0	0
+1.0	35-year-old muslim villager	be	shoot	DURATION	0
+1.0	villager	be shoot at_time	Tuesday	0	DATE
+1.0	Thailand	in	restive south	LOCATION	0
+1.0	39-year-old teacher	travel with	two teacher	DURATION	NUMBER
+1.0	muslim villager	be shoot at_time	Tuesday	0	DATE
+1.0	39-year-old teacher	be shoot in	ambush	DURATION	0
+1.0	35-year-old muslim villager	be shoot at_time	Tuesday	DURATION	DATE
+1.0	she	become	65th teacher	0	ORDINAL
+1.0	she	become	teacher	0	0
+1.0	patrol	be in	high risk area	0	0
+1.0	teacher	be in	south	0	0
+1.0	teacher	travel in	Pattani	0	LOCATION
+1.0	she	die	become	0	0

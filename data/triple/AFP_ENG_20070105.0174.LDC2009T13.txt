@@ -1,0 +1,66 @@
+1.0	India 's minister	have	two younger brother	LOCATION	NUMBER
+1.0	Surjit Singh Kohli	have	ambitions	O	O
+0.6973747759493942	he	depend on	signal	0	0
+0.5410896535221109	a busy man running the country	be	busy man	0	0
+1.0	brother	contest election in	punjab state	0	0
+0.5410896535221109	busy man	run	country	0	0
+0.6973747759493942	he	depend on	positive signal	0	0
+0.4014412613117932	he	say	entirely depend on positive signal	0	0
+0.6973747759493942	he	entirely depend on	signal from my brother	0	0
+0.4014412613117932	he	say	he ambition	0	0
+0.4014412613117932	he	say	economist	0	0
+0.4014412613117932	he	say	depend	0	0
+1.0	India	of	Manmohan Singh	LOCATION	PERSON
+0.4014412613117932	he	say	respect economist	0	0
+1.0	India 's prime minister	have	two younger brother	LOCATION	NUMBER
+1.0	His	have	brother	O	O
+1.0	Punjab	have	city	O	LOCATION
+1.0	younger brother	contest election in	punjab state	0	0
+1.0	brother	announce	plan	0	0
+0.4014412613117932	he	say	entirely depend	0	0
+1.0	younger brother	contest election in	northern state	0	0
+0.6973747759493942	he	depend on	signal from my brother	0	0
+1.0	Manmohan Singh	be prime minister of	India	PERSON	LOCATION
+1.0	Congress party	hold	majority	ORGANIZATION	0
+1.0	Surjit Singh Kohli	have	sibling	O	O
+1.0	brother	contest election in	northern state	0	0
+1.0	brother	contest	election	0	0
+0.6973747759493942	he	entirely depend on	signal	0	0
+0.4014412613117932	he	say	depend on positive signal	0	0
+0.4014412613117932	he	say	respect mild-mannered economist	0	0
+1.0	woollens shop	be in	Amritsar	0	LOCATION
+1.0	India 's prime minister	have	two brother	LOCATION	NUMBER
+1.0	brother	announce plan at_time	Friday	0	DATE
+1.0	February	in	state assembly poll	DATE	0
+1.0	India 's minister	have	two brother	LOCATION	NUMBER
+1.0	younger brother	contest election in	northern punjab state	0	0
+1.0	India	have	minister	O	LOCATION
+0.4014412613117932	he	say	he politic1al ambition	0	0
+1.0	Surjit Singh Kohli	have	brother	O	O
+0.4014412613117932	he	say	mild-mannered economist	0	0
+0.6973747759493942	he	entirely depend on	positive signal	0	0
+1.0	February	have	state assembly polls	O	DATE
+1.0	Surjit Singh Kohli	be	fifty-two-year-old	PERSON	0
+1.0	brother	contest election in	northern punjab state	0	0
+1.0	younger brother	announce	plan	0	0
+0.4014412613117932	he	say	depend on positive signal from my brother	0	0
+0.4014412613117932	he	say	entirely depend on signal	0	0
+1.0	sibling	have	help	O	O
+1.0	brother	contest election in	state	0	0
+0.5410896535221109	man	run	country	0	0
+1.0	Prime Minister Manmohan Singh	have	brother	O	PERSON
+0.4014412613117932	he	say	depend on signal	0	0
+0.6973747759493942	he	depend on	positive signal from my brother	0	0
+0.5410896535221109	a busy man running the country	be	man	0	0
+0.4014412613117932	he	say	entirely depend on positive signal from my brother	0	0
+1.0	India	have	prime minister	LOCATION	0
+1.0	younger brother	contest election in	state	0	0
+1.0	India	have	Prime Minister Manmohan Singh	PERSON	LOCATION
+1.0	a busy man running the country	be	busy	0	0
+0.4014412613117932	he	say	depend on signal from my brother	0	0
+0.6973747759493942	he	entirely depend on	positive signal from my brother	0	0
+1.0	cabinet scandals	have	series	O	O
+1.0	younger brother	contest	election	0	0
+1.0	younger brother	announce plan at_time	Friday	0	DATE
+1.0	Punjab	have	largest city	LOCATION	0
+0.4014412613117932	he	say	entirely depend on signal from my brother	0	0

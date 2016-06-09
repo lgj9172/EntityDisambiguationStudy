@@ -1,0 +1,50 @@
+1.0	Kenya	have	region	O	LOCATION
+1.0	kenyan Attorney General Amos Wako	be expect	appear in court	PERSON	0
+1.0	Aden 's	be	regard	LOCATION	0
+1.0	people	have	life	0	0
+1.0	The petitioner	have	choice	O	O
+1.0	kenyan court	block	government	0	0
+1.0	kenyan Attorney General Amos Wako	appear in	court	PERSON	0
+1.0	Amos Wako	be	kenyan	PERSON	0
+1.0	Kenya	into	northeastern region	LOCATION	0
+1.0	Osama bin Laden	have	Al-Qaeda network	O	PERSON
+1.0	Islamists	have	financer	O	MISC
+1.0	clashes	have	weeks	DATE	O
+1.0	Judge Kihara Kariuki	flee	Somalia	0	LOCATION
+1.0	court	block	government	0	0
+1.0	kenyan Attorney General Amos Wako	be	when expect	PERSON	0
+1.0	country	have	Islamists	0	MISC
+1.0	Judge Kihara Kariuki	stop	government	PERSON	0
+1.0	Attorney General Amos Wako	be expect	appear	PERSON	0
+1.0	The petitioner	have	lawyer James Orengo	PERSON	O
+1.0	Somalia	cross into	Kenya 's northeastern region	LOCATION	LOCATION
+1.0	choice	have	hospital	O	O
+1.0	kenyan Attorney General Amos Wako	be	expect	PERSON	0
+1.0	Attorney General Amos Wako	appear in	court	PERSON	0
+1.0	Judge Kihara Kariuki	have	country	O	O
+1.0	Somalia	cross into	Kenya 's region	LOCATION	LOCATION
+1.0	Attorney General Amos Wako	be expect	appear in court	PERSON	0
+1.0	the Kenyan government	have	border	O	O
+1.0	petitioner	have	advocate	O	O
+1.0	James Orengo	be lawyer of	Aden	PERSON	LOCATION
+1.0	refugees	have	hundreds	O	O
+1.0	government	have	position	0	0
+1.0	Aden 's lawyer James Orengo	have	client	O	O
+1.0	Attorney General Amos Wako	be	when expect	PERSON	0
+1.0	government	have	position	O	O
+1.0	The petitioner	have	life	O	O
+1.0	country	have	Islamists	MISC	O
+1.0	people	have	lives	O	O
+1.0	Attorney General Amos Wako	be	expect	PERSON	0
+1.0	Aden 's	be	admit	LOCATION	0
+1.0	other	be in	Somali islamist movement	0	MISC
+1.0	prosecutor	tell	court	0	0
+1.0	The petitioner	have	countrymen	O	O
+1.0	hundreds of Somali refugees	have	allies	O	O
+1.0	Osama bin Laden	to	Al-Qaeda network	PERSON	ORGANIZATION
+1.0	civil war	be in	Somalia	0	LOCATION
+1.0	kenyan Attorney General Amos Wako	be expect	appear	PERSON	0
+1.0	Aden	have	James Orengo	LOCATION	PERSON
+1.0	Aden 's	be admit to	hospital	LOCATION	0
+1.0	order	be in	force	0	0
+1.0	Aden	have	lawyer James Orengo	PERSON	LOCATION

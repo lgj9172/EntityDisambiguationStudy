@@ -1,0 +1,38 @@
+1.0	Roma	be	second	ORGANIZATION	ORDINAL
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's capture	PERSON	ORGANIZATION
+1.0	27-year-old midfielder	will remain until	end	DURATION	0
+1.0	midfielder	will remain until	end of season	0	0
+1.0	Roma	be second in	seven point	ORGANIZATION	NUMBER
+1.0	club	have	option	0	0
+1.0	Roma 's second capture	be in	January transfer window follow loan signing of striker Francesco Tavano from Spanish club Valencia	ORDINAL	ORGANIZATION
+1.0	Roma	be currently second in	Serie A	ORGANIZATION	MISC
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's second capture in January transfer window	PERSON	ORDINAL
+1.0	Sweden Wilhelmsson	have	loan signing	O	PERSON
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's capture in January transfer window follow loan signing of striker Francesco Tavano	PERSON	DATE
+1.0	Francesco Tavano	be from	Valencia	PERSON	ORGANIZATION
+1.0	Nantes	be from	french	ORGANIZATION	0
+1.0	Roma	have	capture	O	ORGANIZATION
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's second capture in January transfer window follow loan signing of striker Francesco Tavano from Spanish club Valencia	PERSON	ORDINAL
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's capture in January transfer window follow loan signing of striker Francesco Tavano from Spanish club Valencia	PERSON	ORGANIZATION
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's capture in January transfer window follow loan signing	PERSON	DATE
+1.0	striker Francesco Tavano	have	loan signing	O	PERSON
+1.0	Roma	be currently second in	seven point	ORGANIZATION	NUMBER
+1.0	season	have	end	O	O
+1.0	italian club	have	option	0	0
+1.0	Roma	be currently second in	seven point behind leader	ORGANIZATION	NUMBER
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's second capture	PERSON	ORDINAL
+1.0	Serie A	point behind	leader	MISC	0
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's capture in January transfer window	PERSON	DATE
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's second capture in January transfer window follow loan signing of striker Francesco Tavano	PERSON	ORDINAL
+1.0	christian wilhelmsson	be from	Nantes	0	ORGANIZATION
+1.0	midfielder	will remain until	end	0	0
+1.0	Sweden international Christian Wilhelmsson from French side Nantes , the Serie A title	be	Roma 's second capture in January transfer window follow loan signing	PERSON	ORDINAL
+1.0	Roma	have	second capture in January transfer window follow loan signing of striker Francesco Tavano from Spanish club Valencia	ORGANIZATION	ORDINAL
+1.0	27-year-old midfielder	will remain with	roma	DURATION	0
+1.0	midfielder	will remain with	roma	0	0
+1.0	Roma	be second in	seven point behind leader	ORGANIZATION	NUMBER
+1.0	Roma	be second in	Serie A	ORGANIZATION	MISC
+1.0	Valencia	be from	Spanish	ORGANIZATION	MISC
+1.0	christian wilhelmsson	be of	Sweden	0	LOCATION
+1.0	Roma	be	currently second	ORGANIZATION	ORDINAL
+1.0	27-year-old midfielder	will remain until	end of season	DURATION	0

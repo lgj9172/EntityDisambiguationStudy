@@ -1,0 +1,84 @@
+1.0	Pakistan army activity	have	result	O	O
+1.0	ISAF	have	efforts	O	ORGANIZATION
+1.0	operation medusa	inflict defeat on	level of Taliban	0	ORGANIZATION
+1.0	incidents	have	number	O	O
+1.0	operation medusa	inflict	huge defeat	0	0
+1.0	operation medusa	inflict	defeat	0	0
+1.0	British General David Richards	tell reporter after	meeting	0	0
+1.0	he	add decline in	incident	0	0
+1.0	2,500 kilometer frontier	pose	big challenge	NUMBER	0
+1.0	top NATO commander	be in	Afghanistan	ORGANIZATION	LOCATION
+1.0	Afghanistan	be since	autumn	LOCATION	DATE
+1.0	British General David Richards	tell reporter near	capital	0	0
+1.0	operation medusa	inflict defeat on	level	0	0
+1.0	commission	comprise	military official	0	0
+1.0	he	add decline in	northwestern Afghanistan	0	MISC
+1.0	he	add decline in	violent incident	0	0
+1.0	tripartite meeting	be	attend	0	0
+1.0	Pakistan	to	effort stem	LOCATION	0
+1.0	David Richards	be	british	PERSON	0
+1.0	border	have	Pakistan side	O	O
+1.0	violence	be in	neighbouring country	0	0
+1.0	capital Kabul	be due to	effort of Afghan government	LOCATION	MISC
+1.0	troops	have	decline	O	O
+1.0	Thursday Pakistan 's	of	International Security Assistance Force	LOCATION	ORGANIZATION
+0.06221292408889589	he	add in	incident	0	0
+1.0	capital Kabul	be due to	effort	LOCATION	0
+0.6929179336582292	operation medusa	launch in	Panjwayii area Kandahar	0	LOCATION
+1.0	he	add decline in	Afghanistan	0	MISC
+1.0	Taliban	have	ouster	O	ORGANIZATION
+1.0	operation medusa	inflict defeat on	tactical level of Taliban	0	ORGANIZATION
+1.0	International Security Assistance Force	have	officials	O	ORGANIZATION
+1.0	commission	comprise	official of Pakistan 's International Security Assistance Force	0	ORGANIZATION
+1.0	kilometer frontier	pose	big challenge	0	0
+1.0	Bismullah Khan	be by	Afghan	PERSON	MISC
+1.0	Richards comment	coincide with	isaf announcement	PERSON	0
+1.0	Kandahar	have	Panjwayii area	O	LOCATION
+1.0	Pakistan	be 's	Thursday	LOCATION	DATE
+1.0	Thursday Pakistan 's	have	International Security Assistance Force	ORGANIZATION	LOCATION
+1.0	commission	comprise	official	0	0
+1.0	NATO	have	International Security Assistance Force	ORGANIZATION	ORGANIZATION
+1.0	Afghan	have	decline	O	MISC
+1.0	Thursday Pakistan 's	's force be	ISAF	LOCATION	ORGANIZATION
+1.0	capital Kabul	be	due	LOCATION	0
+1.0	Pakistan	have	heavy troop deployment along porous border	LOCATION	0
+1.0	kilometer frontier	pose	challenge	0	0
+1.0	tripartite meeting	be attend by	Afghan army chief General Bismullah Khan	0	PERSON
+1.0	capital Kabul	be due to	combined effort	LOCATION	0
+1.0	he	add	decline	0	0
+1.0	kilometer rugged frontier	pose	challenge	0	0
+1.0	commission	have	meeting	O	O
+1.0	commission	comprise	top military official of Pakistan 's International Security Assistance Force	0	ORGANIZATION
+1.0	Pakistan army	have	vice chief	O	O
+0.06221292408889589	he	add in	northwestern Afghanistan	0	MISC
+1.0	commission	comprise	top official of Pakistan 's International Security Assistance Force	0	ORGANIZATION
+1.0	community	have	efforts	O	O
+1.0	violence	be in	Afghanistan	0	MISC
+1.0	meeting	be	attend	0	0
+1.0	operation medusa	inflict defeat on	tactical level	0	0
+1.0	Afghan government	have	efforts	O	O
+1.0	British General David Richards	tell reporter after	meeting of commission	0	0
+1.0	commission	comprise	top official	0	0
+0.06221292408889589	he	add in	violent incident	0	0
+1.0	Pakistan	have	efforts	O	LOCATION
+1.0	British General David Richards	tell	reporter	0	0
+1.0	Thursday Pakistan 's	have	beneficiaries	O	O
+1.0	commission	comprise	top military official	0	0
+1.0	kilometer rugged frontier	pose	big challenge	0	0
+1.0	Thursday Pakistan	have	troop deployment	O	LOCATION
+0.6929179336582292	operation medusa	launch in	Panjwayii area	0	LOCATION
+1.0	capital Kabul	be due to	combined effort of Afghan government	LOCATION	MISC
+1.0	commission	comprise	military official of Pakistan 's International Security Assistance Force	0	ORGANIZATION
+1.0	summer	have	highs	O	DATE
+1.0	British General David Richards	tell reporter in	Rawalpindi	0	LOCATION
+1.0	the Taliban	have	level	O	ORGANIZATION
+1.0	incident	be in	Afghanistan	0	LOCATION
+1.0	meeting	be attend by	Afghan army chief General Bismullah Khan	0	PERSON
+1.0	British General David Richards	tell reporter after	meeting of tripartite commission	0	0
+1.0	2,500 kilometer rugged frontier	pose	big challenge	NUMBER	0
+0.06221292408889589	he	add in	Afghanistan	0	MISC
+1.0	incidents	have	reduction	O	O
+1.0	2,500 kilometer frontier	pose	challenge	NUMBER	0
+1.0	July to September	be in	Afghanistan	DATE	LOCATION
+1.0	Afghanistan	have	International Security Assistance Force	ORGANIZATION	LOCATION
+1.0	2,500 kilometer rugged frontier	pose	challenge	NUMBER	0

@@ -1,0 +1,51 @@
+1.0	only solution	foster	broad	0	0
+1.0	Bush	have	new plan	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	solution	foster	broad	0	0
+1.0	Bush	have	plan	O	PERSON
+1.0	Iraq 's minister	deny	this	LOCATION	DATE
+1.0	consulate	be with	diplomatic protection	0	0
+1.0	statement	describe	five Iranians arrest as diplomat	0	NUMBER
+1.0	need	have	recognition	O	O
+1.0	swoop	trigger	row	0	0
+1.0	ministry spokesman Mikhail Kamynin	also express scepticism over	US President George W. Bush 's new Iraq strategy	PERSON	LOCATION
+1.0	statement	be direct against	consulate	0	0
+1.0	Iraq	have	minister	O	LOCATION
+0.607086605440925	US force	violate	building 's status	LOCATION	0
+1.0	US President George W. Bush 's	say	add	0	0
+1.0	ministry spokesman Mikhail Kamynin	also express scepticism over	US President George W. Bush 's Iraq strategy	PERSON	LOCATION
+0.5936798645302545	five Iranians	arrest as	diplomat	NUMBER	0
+0.46947269135702424	Tehran	accuse	US force	LOCATION	LOCATION
+1.0	George W. Bush	over	new Iraq strategy	PERSON	LOCATION
+1.0	building	have	status	O	O
+1.0	US President George W. Bush	have	Iraq strategy	O	PERSON
+1.0	ministry spokesman Mikhail Kamynin	also express	scepticism	PERSON	0
+1.0	statement	be direct against	iranian consulate general	0	0
+1.0	iranian office	be in	Iraq	0	LOCATION
+1.0	statement	be	direct	0	0
+1.0	swoop	trigger row with	Tehran	0	LOCATION
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	statement	refer to	raid	0	0
+1.0	raid Thursday	be in	northern iraqi city of Arbil	DATE	LOCATION
+1.0	statement	be direct against	iranian consulate	0	0
+1.0	Vienna convention	have	violation	O	O
+1.0	Hoshyar Zebari	deny	this	LOCATION	DATE
+1.0	liaison office	have	part	O	O
+1.0	ministry spokesman Mikhail Kamynin	express scepticism over	US President George W. Bush 's new Iraq strategy	PERSON	LOCATION
+1.0	Iraq	have	foreign minister	LOCATION	0
+1.0	building	have	diplomatic status	0	0
+1.0	ministry spokesman Mikhail Kamynin	express	scepticism	PERSON	0
+1.0	statement	describe	five Iranians	0	NUMBER
+1.0	statement	describe	five Iranians arrest	0	NUMBER
+1.0	swoop	trigger	diplomatic row	0	0
+1.0	US troops on an Iranian office in Iraq	have	colleagues	O	O
+1.0	Russia	have	foreign ministry	LOCATION	0
+1.0	ministry spokesman Mikhail Kamynin	say in	statement	PERSON	0
+1.0	ministry spokesman Mikhail Kamynin	express scepticism over	US President George W. Bush 's Iraq strategy	PERSON	LOCATION
+1.0	Russia 's ministry	say at_time	Friday	LOCATION	DATE
+1.0	Russia 's foreign ministry	say at_time	Friday	LOCATION	DATE
+1.0	Russia	have	ministry	O	LOCATION
+1.0	statement	be direct against	consulate general	0	0
+1.0	Iraq	's minister be	Hoshyar Zebari	LOCATION	PERSON
+1.0	Arbil	have	city	O	LOCATION
+0.607086605440925	US force	violate	building 's diplomatic status	LOCATION	0

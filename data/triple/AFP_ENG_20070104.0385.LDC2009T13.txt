@@ -1,0 +1,348 @@
+1.0	Aidid	tell	press conference	PERSON	0
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia with US naval force help	0	LOCATION
+0.781896904043801	leader	route with	US force help in search	0	LOCATION
+1.0	police	escort back to	Somalia	0	LOCATION
+1.0	police	escort back over	border	0	0
+1.0	commander Sheikh Hassan Yaqub	tell afp from	hideout	PERSON	0
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US naval force help	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold	0	0
+1.0	flee islamist leader	be in	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	somali government force	find	leader route in Somalia with US force	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold in Somalia with US force help	0	LOCATION
+1.0	kenyan police	reach	refugee reception centre	0	0
+1.0	Hassan Dahir Aweys	have	hideout	O	O
+1.0	somali government force	find	leader route from they stronghold with US naval force help	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold in Somalia with US force help	0	LOCATION
+1.0	leaders	have	firm word	O	O
+1.0	The Islamist grip on power , established once they defeated Mogadishu clan warlords last June , ended in 10 days of heavy artillery battles and air attacks from December 20 after Ethiopia	have	weight	O	O
+1.0	Al-Qaeda agent	want in	East Africa	MISC	LOCATION
+1.0	islamist leader	be report	Badade district in Lower Juba region	0	LOCATION
+1.0	leader	be in	Badade district	0	LOCATION
+1.0	government force	find	leader route in Somalia with US naval force	0	LOCATION
+1.0	3,000 Islamist fighters	defeat mogadishu clan warlord at_time	June	0	DATE
+1.0	somali government force	find	islamist leader route from they stronghold with US naval force help	0	LOCATION
+1.0	somali government force	find	leader route with US naval force help	0	LOCATION
+1.0	flee islamist leader	be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	commander Sheikh Hassan Yaqub	tell afp by	satellite telephone	PERSON	0
+1.0	government force	find	islamist leader route in Somalia with US force	0	LOCATION
+1.0	leader	however be report	Badade district in Lower Juba region	0	LOCATION
+1.0	somali government force	find	leader route in Somalia with US naval force help	0	LOCATION
+0.781896904043801	leader	route with	US force	0	LOCATION
+1.0	government force	find	leader route from they stronghold with US force help in search	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold in Somalia with US force	0	LOCATION
+0.781896904043801	leader	route with	US naval force	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold in Somalia with US naval force help	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold	0	0
+1.0	somali government force	find	leader route from they urban stronghold in Somalia with US naval force help	0	LOCATION
+1.0	commander Sheikh Hassan Yaqub	tell	afp	PERSON	0
+1.0	somali government force	find	leader	0	0
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US force help	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold	0	0
+1.0	somali government force	find	leader route from they stronghold with US force help in search	0	LOCATION
+1.0	Aidid	tell press conference in	Mogadishu	PERSON	LOCATION
+1.0	government force	find	islamist leader route from they stronghold in Somalia with US naval force	0	LOCATION
+1.0	Abdirahman Dinari	be accord to	somali	PERSON	0
+1.0	somali government force	find	leader route from they stronghold in Somalia with US naval force help in search	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia	0	MISC
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia with US force help	0	LOCATION
+1.0	flee islamist leader	be report	Badade district in Lower Juba region	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold with US force	0	LOCATION
+1.0	leader	be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	whom	have	some	O	O
+1.0	government force	find	leader route from they stronghold in Somalia with US force help in search	0	LOCATION
+1.0	Hassan Yaqub	be	islamist	PERSON	0
+1.0	government force	find	islamist leader route with US naval force help in search	0	LOCATION
+0.781896904043801	leader	route in	Somalia	0	MISC
+0.781896904043801	islamist leader	route with	US force help	0	LOCATION
+1.0	islamist leader	be in	Badade district	0	LOCATION
+1.0	kenyan police	forcefully escort back over	border	0	0
+1.0	law	be	so strong	0	0
+1.0	somali government force	find	islamist leader route from they urban stronghold with US naval force help in search	0	LOCATION
+1.0	somali government force	find	leader route in Somalia with US force help in search	0	LOCATION
+1.0	government force	find	leader route with US force help	0	LOCATION
+1.0	government force	find	islamist leader route in Somalia with US naval force	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold in Somalia with US force help in search	0	LOCATION
+0.781896904043801	islamist leader	route in	Somalia	0	MISC
+1.0	commander Sheikh Hassan Yaqub	tell afp from	hideout in Somalia	PERSON	LOCATION
+1.0	flee leader	be in	Badade district in Lower Juba region	0	LOCATION
+1.0	leader	be	however report	0	0
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US naval force help in search	0	LOCATION
+1.0	flee islamist leader	be report	Badade district	0	LOCATION
+1.0	government force	find	leader route from they stronghold with US force help	0	LOCATION
+0.1859495823450189	somali government force	step	troops	0	0
+1.0	flee islamist leader	however be report	Badade district in Lower Juba region	0	LOCATION
+1.0	government force	find	troops	0	0
+1.0	government force	find	leader route with US force	0	LOCATION
+1.0	government force	find	leader route from they stronghold in Somalia with US force help	0	LOCATION
+1.0	some	have	passport from Britain	0	LOCATION
+1.0	kenyan police	escort back to	Somalia	0	LOCATION
+1.0	his	have	leaders	O	O
+1.0	flee leader	be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US naval force	0	LOCATION
+1.0	somali government force	find	islamist leader route from they stronghold	0	0
+1.0	the Islamists	resort to	guerrilla warfare	MISC	0
+1.0	police	close	border	0	0
+1.0	islamist leader	however be report	Badade district in Lower Juba region	0	LOCATION
+1.0	US warship	have join hunt for	islamist militant	ORGANIZATION	0
+1.0	somali government force	find	leader route from they stronghold with US force	0	LOCATION
+1.0	somali government force	find	islamist leader route in Somalia with US naval force	0	LOCATION
+0.781896904043801	leader	route from	they urban stronghold	0	0
+0.781896904043801	islamist leader	route with	US naval force	0	LOCATION
+1.0	government force	find	leader route with US force help in search	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia with US force help	0	LOCATION
+1.0	kenyan police	forcefully escort back to	Somalia	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold with US naval force help	0	LOCATION
+0.781896904043801	leader	route from	they stronghold	0	0
+1.0	somali government force	find	islamist leader	0	0
+1.0	police	forcefully escort back over	border	0	0
+1.0	leader	be in	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	US Naval Forces Central Command	have	suspected	O	ORGANIZATION
+1.0	kenyan police	escort back over	border	0	0
+1.0	Somalia	have	neighbours	O	LOCATION
+1.0	leader	be report	Badade district in Lower Juba region	0	LOCATION
+1.0	somali government force	find	islamist leader route in Somalia	0	MISC
+1.0	government force	find	islamist leader route in Somalia with US force help	0	LOCATION
+1.0	somali government force	find	leader route in Somalia with US force help	0	LOCATION
+1.0	islamist leader	be report	Badade district	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold in Somalia with US force help in search	0	LOCATION
+1.0	the Islamists	have	country	O	O
+1.0	government force	find	islamist leader route in Somalia with US naval force help	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold with US force help in search	0	LOCATION
+1.0	our	have	country	O	O
+1.0	government force	find	leader route from they stronghold in Somalia with US naval force help	0	LOCATION
+1.0	islamist commander Sheikh Hassan Yaqub	tell afp by	satellite telephone	PERSON	0
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia	0	MISC
+1.0	flee islamist leader	be in	Badade district in Lower Juba region	0	LOCATION
+1.0	Somalia	have	government	O	LOCATION
+1.0	islamist leader	however be report	Badade district	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold in Somalia with US force	0	LOCATION
+1.0	some	have	passport	0	0
+1.0	flee leader	be report	Badade district in Lower Juba region	0	LOCATION
+1.0	flee leader	be in	Badade district	0	LOCATION
+1.0	somali government force	find	leader route with US force	0	LOCATION
+1.0	day	prevent	gunman	DURATION	0
+1.0	somali government force	find	leader route with US force help	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold in Somalia with US naval force help	0	LOCATION
+1.0	artillery battles	have	days	DURATION	O
+1.0	somali government force	find	islamist leader route from they urban stronghold with US force help in search	0	LOCATION
+1.0	fighters	have	thousands	O	O
+0.781896904043801	leader	route with	US naval force help in search	0	LOCATION
+1.0	police	escort over	border	0	0
+1.0	leader	be in	Badade district in Lower Juba region	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold in Somalia	0	MISC
+1.0	3,000 Islamist fighters	defeat mogadishu clan warlord at_time	last June	0	DATE
+1.0	law	be	strong	0	0
+1.0	enemy	stay in	we country	0	0
+1.0	invasion force	be in	league	0	0
+1.0	somali government force	find	leader route with US naval force	0	LOCATION
+1.0	islamist leader	however be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	somali government force	find	ethiopian troops	0	0
+1.0	islamist leader	be in	Badade district in Lower Juba region	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold with US force help in search	0	LOCATION
+1.0	government force	find	islamist leader route with US naval force help	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold in Somalia with US force	0	LOCATION
+0.1859495823450189	government force	step	ethiopian troops	0	0
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia with US force help in search	0	LOCATION
+1.0	islamist leader	be	however report	0	0
+1.0	police	forcefully escort back to	Somalia	0	LOCATION
+1.0	leader	however be report	Badade district	0	LOCATION
+1.0	Meles Zenawi	be prime minister of	Ethiopia	PERSON	LOCATION
+1.0	kenyan police	forcefully escort to	Somalia	0	LOCATION
+1.0	south	have	much	O	O
+1.0	islamist grip	throw	its military weight	0	0
+1.0	somali government force	find	leader route in Somalia	0	MISC
+1.0	government force	find	islamist leader route with US force	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold with US force help in search	0	LOCATION
+1.0	flee leader	be	however report	0	0
+1.0	central	have	much	O	O
+1.0	government force	find	ethiopian troops	0	0
+1.0	flee leader	be	report	0	0
+1.0	flee islamist leader	be	however report	0	0
+1.0	government force	find	islamist leader route from they urban stronghold with US naval force help	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia with US force	0	LOCATION
+1.0	police	reach	refugee reception centre	0	0
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia with US naval force help	0	LOCATION
+1.0	somali government force	find	islamist leader route with US naval force	0	LOCATION
+1.0	somali government force	find	islamist leader route in Somalia with US force help	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold in Somalia with US force help in search	0	LOCATION
+1.0	somali government force	find	islamist leader route with US force help in search	0	LOCATION
+1.0	kenyan police	forcefully escort over	border	0	0
+1.0	police	forcefully escort to	Somalia	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold with US naval force	0	LOCATION
+1.0	Somalia	behind	transitional government	LOCATION	0
+1.0	grip	throw	its military weight	0	0
+1.0	commander Sheikh Hassan Yaqub	tell afp from	hideout in southern Somalia	PERSON	LOCATION
+0.1859495823450189	government force	step	troops	0	0
+1.0	somali government force	find	islamist leader route in Somalia with US force	0	LOCATION
+1.0	Fleet	have	suspected	O	ORGANIZATION
+1.0	kenyan police	escort over	border	0	0
+1.0	islamist leader	be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	government force	find	islamist leader route from they stronghold with US naval force	0	LOCATION
+1.0	islamist leader	be	report	0	0
+1.0	government force	find	islamist leader route from they stronghold in Somalia with US force	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold with US naval force help	0	LOCATION
+1.0	police	prevent	aid worker	0	0
+1.0	leader	be	report	0	0
+1.0	somali government force	find	leader route from they urban stronghold in Somalia with US force help	0	LOCATION
+1.0	Sean McCormack	be	US State Department	PERSON	ORGANIZATION
+1.0	somali government force	find	islamist leader route with US naval force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold with US naval force help	0	LOCATION
+1.0	US embassies	have	bombings	O	O
+0.781896904043801	islamist leader	route from	they urban stronghold	0	0
+1.0	government force	find	islamist leader	0	0
+1.0	government force	find	leader route in Somalia with US naval force help in search	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold with US naval force	0	LOCATION
+0.781896904043801	islamist leader	route with	US force	0	LOCATION
+0.781896904043801	islamist leader	route with	US naval force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they stronghold with US naval force	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia with US force	0	LOCATION
+1.0	government force	find	leader route from they stronghold in Somalia with US naval force help in search	0	LOCATION
+1.0	Somalia	have	Lower Juba region	O	LOCATION
+1.0	Al-Qaeda agent	want for	1998 bombing	MISC	DATE
+1.0	somali government force	find	islamist leader route with US force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold	0	0
+1.0	somali government force	find	leader route from they stronghold in Somalia	0	MISC
+1.0	18 weapon	be	report	NUMBER	0
+1.0	US warship	have join	hunt	ORGANIZATION	0
+1.0	government force	find	leader route from they urban stronghold with US force help	0	LOCATION
+1.0	islamist grip	throw	its weight	0	0
+0.781896904043801	islamist leader	route with	US naval force help in search	0	LOCATION
+1.0	suspect	find	refuge	0	0
+1.0	Badade district	be in	Lower Juba region of Somalia	LOCATION	MISC
+1.0	somali government force	find	leader route with US force help in search	0	LOCATION
+1.0	their	have	families	O	O
+1.0	government force	find	islamist leader route from they stronghold with US naval force help in search	0	LOCATION
+1.0	government force	find	leader route in Somalia with US naval force help	0	LOCATION
+1.0	3,000 Islamist fighters	join	army	0	DURATION
+1.0	Al-Qaeda agent	want for	1998 bombing of US embassy	MISC	LOCATION
+1.0	somali government force	find	islamist leader route	0	0
+1.0	islamist commander Sheikh Hassan Yaqub	tell afp from	hideout in southern Somalia	PERSON	LOCATION
+1.0	government force	find	islamist leader route from they stronghold with US force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they stronghold with US force help	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold with US naval force help in search	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold in Somalia with US force help in search	0	LOCATION
+1.0	the Islamists	renew	threat	MISC	0
+1.0	asylum seekers	have	some	O	O
+1.0	weapon	be	report	0	0
+1.0	government force	find	islamist leader route from they urban stronghold with US force help	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold with US naval force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold with US naval force	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold with US naval force	0	LOCATION
+1.0	government force	find	islamist leader route with US naval force	0	LOCATION
+1.0	US warship	be in	multi-national task force	ORGANIZATION	0
+1.0	government force	find	islamist leader route	0	0
+1.0	flee islamist leader	however be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	leader	be report	Badade district	0	LOCATION
+1.0	flee islamist leader	be	report	0	0
+1.0	government force	find	leader route from they stronghold with US naval force	0	LOCATION
+1.0	Sean McCormack	be spokesman of	US State Department	PERSON	ORGANIZATION
+1.0	government force	find	leader route from they urban stronghold with US naval force help in search	0	LOCATION
+1.0	US warship	have join hunt for	militant	ORGANIZATION	0
+1.0	flee islamist leader	be in	Badade district	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold with US force help	0	LOCATION
+0.5275434140353675	some	passport from	Britain	0	LOCATION
+1.0	somali government force	find	leader route in Somalia with US naval force	0	LOCATION
+1.0	government force	find	leader route with US naval force help in search	0	LOCATION
+1.0	leader	however be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	somali government force	find	leader route from they stronghold in Somalia with US force help	0	LOCATION
+1.0	government force	find	leader route with US naval force	0	LOCATION
+1.0	their	have	guns	O	O
+1.0	somali government force	find	leader route in Somalia with US naval force help in search	0	LOCATION
+1.0	government force	find	leader route from they stronghold in Somalia	0	MISC
+1.0	government force	find	islamist leader route from they stronghold with US force	0	LOCATION
+1.0	Deputy Prime Minister Mohamed Hussein Aidid	urge	3,000 Islamist fighters	PERSON	0
+1.0	government force	find	islamist leader route in Somalia with US naval force help in search	0	LOCATION
+1.0	fugitive Islamists	resort to	guerrilla warfare	MISC	0
+1.0	government force	find	leader route in Somalia with US force help in search	0	LOCATION
+1.0	Al-Qaeda links	have	suspected	O	O
+1.0	somali government force	find	islamist leader route in Somalia with US force help in search	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia with US force help in search	0	LOCATION
+1.0	flee leader	however be report	Badade district	0	LOCATION
+1.0	fugitive Islamists	renew	threat	MISC	0
+1.0	islamist commander Sheikh Hassan Yaqub	tell afp from	hideout	PERSON	0
+1.0	government force	find	leader route in Somalia with US force help	0	LOCATION
+1.0	government force	find	leader route with US naval force help	0	LOCATION
+1.0	Ethiopia	as	Meles Zenawi	LOCATION	PERSON
+1.0	somali government force	find	islamist leader route with US force	0	LOCATION
+1.0	government force	find	leader route from they stronghold	0	0
+1.0	day	prevent	gunman slip	DURATION	0
+0.781896904043801	islamist leader	route from	they stronghold	0	0
+1.0	police	escort to	Somalia	0	LOCATION
+1.0	Somalia	with	neighbour	LOCATION	0
+1.0	government force	find	islamist leader route in Somalia with US force help in search	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold in Somalia with US naval force	0	LOCATION
+1.0	somali government force	find	islamist leader route with US naval force help in search	0	LOCATION
+1.0	police	forcefully escort over	border	0	0
+1.0	somali government force	find	leader route from they stronghold in Somalia with US naval force	0	LOCATION
+1.0	Sheikh Hassan Dahir Aweys	have	firm word	O	PERSON
+1.0	somali government force	find	leader route from they urban stronghold with US force help	0	LOCATION
+1.0	grip	throw	its weight	0	0
+1.0	Ethiopia	have	Prime Minister Meles Zenawi	PERSON	LOCATION
+1.0	flee leader	be report	Badade district	0	LOCATION
+1.0	hideout	be in	Somalia	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold with US force help	0	LOCATION
+1.0	somali government force	find	islamist leader route from they urban stronghold with US force	0	LOCATION
+1.0	government force	find	leader route	0	0
+1.0	law	be	where strong	0	0
+1.0	government force	find	islamist leader route from they stronghold in Somalia	0	MISC
+1.0	government force	find	islamist leader route from they urban stronghold with US naval force	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia with US naval force	0	LOCATION
+0.781896904043801	leader	route with	US naval force help	0	LOCATION
+1.0	government force	find	leader route in Somalia with US force	0	LOCATION
+1.0	islamist leader	be in	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	government force	find	leader	0	0
+1.0	somali government force	find	islamist leader route from they urban stronghold in Somalia with US naval force	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold in Somalia with US naval force help	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold in Somalia	0	MISC
+1.0	somali government force	find	leader route with US naval force help in search	0	LOCATION
+1.0	somali government force	find	leader route from they urban stronghold with US force	0	LOCATION
+1.0	somali government force	find	islamist leader route from they stronghold with US naval force help in search	0	LOCATION
+1.0	government force	find	islamist leader route from they urban stronghold with US force	0	LOCATION
+1.0	law	be	where so strong	0	0
+1.0	islamist commander Sheikh Hassan Yaqub	tell afp from	hideout in Somalia	PERSON	LOCATION
+1.0	government force	find	leader route from they stronghold with US force	0	LOCATION
+1.0	government force	find	leader route from they stronghold with US naval force help in search	0	LOCATION
+1.0	government force	find	islamist leader route from they stronghold with US force help in search	0	LOCATION
+1.0	gun	have	law	O	O
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US force help in search	0	LOCATION
+1.0	flee islamist leader	however be report	Badade district	0	LOCATION
+1.0	somali government force	find	leader route	0	0
+1.0	Ethiopian troops	have	strongholds	O	O
+1.0	government force	find	islamist leader route with US force help in search	0	LOCATION
+1.0	flee leader	however be report	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	A day after Kenya	have	border	O	O
+1.0	somali government force	find	leader route from they stronghold	0	0
+1.0	flee leader	however be report	Badade district in Lower Juba region	0	LOCATION
+1.0	flee leader	be in	Badade district in Lower Juba region of Somalia	0	MISC
+1.0	somali government force	find	leader route from they urban stronghold in Somalia	0	MISC
+1.0	government force	find	leader route from they stronghold with US naval force help	0	LOCATION
+1.0	vessels	have	number	O	O
+1.0	government force	find	leader route from they urban stronghold in Somalia with US naval force	0	LOCATION
+1.0	government force	find	leader route from they urban stronghold	0	0
+1.0	somali government force	find	islamist leader route from they stronghold with US force	0	LOCATION
+1.0	somali government force	find	islamist leader route from they stronghold in Somalia with US force	0	LOCATION
+1.0	government force	find	islamist leader route in Somalia	0	MISC
+1.0	government force	find	islamist leader route from they urban stronghold with US naval force help in search	0	LOCATION
+1.0	Deputy Prime Minister Mohamed Hussein Aidid	say in	Mogadishu	PERSON	LOCATION
+0.781896904043801	leader	route with	US force help	0	LOCATION
+1.0	somali government force	find	troops	0	0
+1.0	US State Department spokesman Sean McCormack	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	government force	find	leader route in Somalia	0	MISC
+0.1859495823450189	somali government force	step	ethiopian troops	0	0
+1.0	government force	find	leader route from they stronghold in Somalia with US naval force	0	LOCATION
+1.0	kenyan police	close	border	0	0
+1.0	islamist commander Sheikh Hassan Yaqub	tell	afp	PERSON	0
+0.781896904043801	islamist leader	route with	US force help in search	0	LOCATION
+1.0	day	close	its border	DURATION	0
+1.0	government force	find	leader route from they stronghold in Somalia with US force	0	LOCATION
+1.0	Wednesday	be in	war-shattered city	DATE	0
+1.0	suspect	find refuge with	Islamists	0	MISC
+1.0	somali government force	find	islamist leader route in Somalia with US naval force help in search	0	LOCATION
+1.0	government force	find	islamist leader route with US force help	0	LOCATION
+1.0	kenyan police	prevent	aid worker	0	0
+1.0	somali government force	find	islamist leader route from they stronghold with US force help in search	0	LOCATION
+1.0	3,000 Islamist fighters	defeat	Mogadishu clan warlord	0	LOCATION
+1.0	3,000 islamist fighter	be with	they gun inside capital	NUMBER	0
+1.0	somali government force	find	islamist leader route in Somalia with US naval force help	0	LOCATION
+1.0	kenyan police	escort to	Somalia	0	LOCATION
+1.0	somali government force	find	leader route from they stronghold with US naval force help in search	0	LOCATION

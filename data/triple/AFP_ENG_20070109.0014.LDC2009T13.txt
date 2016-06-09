@@ -1,0 +1,45 @@
+1.0	magnificent Taj Mahal	be build by	Emperor Shah Jahan as tomb	PERSON	PERSON
+1.0	gem	fund	construction of project	0	0
+1.0	Taj Mahal	be build by	Emperor Shah Jahan	PERSON	PERSON
+1.0	ruler	mine	precious gem	0	0
+1.0	worker	build tomb in	age	0	0
+1.0	tourists	have	child	O	O
+1.0	projects	have	construction	O	O
+1.0	India	's monument be	Taj Mahal	LOCATION	0
+1.0	20,000 worker	build tomb in	age	DURATION	0
+1.0	monument	on	south gate	0	0
+1.0	side	look onto	Yamuna river	0	LOCATION
+1.0	Taj Mahal	be	build	PERSON	0
+1.0	other tourist site	be in	India 's	0	LOCATION
+1.0	precious gem	fund	construction of project	0	0
+1.0	magnificent Taj Mahal	be	build	PERSON	0
+1.0	Taj Mahal	be build by	Emperor Shah Jahan as tomb	PERSON	PERSON
+1.0	gem	fund	construction	0	0
+1.0	magnificent Taj Mahal	be build by	Emperor Shah Jahan	PERSON	PERSON
+1.0	worker	build	tomb	0	0
+1.0	he	queen	Mumtaz Mahal	0	PERSON
+1.0	Munazzar Ali	tell	afp	PERSON	0
+1.0	India	have	Archaeological Survey	ORGANIZATION	ORGANIZATION
+1.0	opulence	have	age	O	O
+1.0	20,000 worker	build tomb in	age of opulence	DURATION	0
+1.0	precious gem	fund	construction	0	0
+1.0	pinnacle	be	fortify	0	0
+1.0	muslim ruler	mine	gem	0	0
+1.0	20,000 worker	build	tomb	DURATION	0
+1.0	filling	be	be undertake	0	0
+1.0	India	have	world famous monument love	LOCATION	0
+1.0	the Taj Mahal	have	queen	O	O
+1.0	marble	have	filling	O	O
+1.0	precious gem	fund	construction of grand project	0	0
+1.0	worker	build tomb in	age of opulence	0	0
+1.0	conservation expert	be with	archaeological agency	0	0
+1.0	northern side	look onto	Yamuna river	0	LOCATION
+1.0	muslim ruler	mine	precious gem	0	0
+1.0	ruler	mine	gem	0	0
+1.0	monument	have	gate	O	O
+1.0	India	have	world monument	O	LOCATION
+1.0	marble mausoleum	have	gates	O	O
+1.0	gem	fund	construction of grand project	0	0
+1.0	Munazzar Ali	expert with	archaeological agency	PERSON	0
+1.0	gap	be in	red sandstone at southern gate	0	0
+1.0	monument	have	side	O	O

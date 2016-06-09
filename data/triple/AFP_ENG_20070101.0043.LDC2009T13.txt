@@ -1,0 +1,121 @@
+1.0	blast	strike	apparently random location	0	0
+1.0	the torching of schools and the scandals	say	note	0	0
+1.0	the torching of schools and the scandals	be	former police lieutenant colonel	0	0
+1.0	Surayud Chulanont	warn in	three province of Yala	PERSON	NUMBER
+1.0	dissent	be public protest against	putsch	0	0
+1.0	Yala	have	provinces	O	LOCATION
+1.0	Surayud Chulanont	warn in	three muslim-majority province	PERSON	NUMBER
+1.0	Thailand	have	coup	LOCATION	0
+1.0	Thailand	from	insurgency-hit southern province	LOCATION	0
+1.0	kingdom	have	north	O	O
+1.0	eight blast	strike location across	Bangkok	0	LOCATION
+0.9415282613307464	hand-picked	replace	Ex-prime minister Thaksin	0	PERSON
+1.0	Panitan Wattanayagorn	analyst at	Bangkok 's Chulalongkorn University	PERSON	ORGANIZATION
+1.0	two theory	dominate	Monday 's press	0	DATE
+1.0	dissent	be relatively little public protest against	putsch	0	0
+1.0	Ex-prime minister Thaksin	remain since	then	0	0
+1.0	Surayud Chulanont	warn by	islamic militant	PERSON	0
+1.0	eight blast	strike location at_time	Sunday	0	DATE
+1.0	dissent	be	relatively little protest	0	0
+0.44880808691637974	nothing	do with	attack	0	0
+1.0	Surayud Chulanont	warn of	possible attack	PERSON	0
+1.0	three people	injure	at least 30 more include nine foreigner catch in explosion	NUMBER	NUMBER
+1.0	Surayud Chulanont	warn in	three muslim-majority province of Yala	PERSON	NUMBER
+1.0	Surayud Chulanont	have	property encroaches	O	O
+1.0	Thailand	have	provinces	O	LOCATION
+1.0	southern insurgents	have	their members	O	O
+1.0	eight blast	strike	apparently random location	0	0
+1.0	Surayud Chulanont	warn at_time	last week	PERSON	DATE
+1.0	Monday	have	press	DATE	0
+1.0	Surayud Chulanont	warn by	islamic militant over New Year holiday	PERSON	DATE
+1.0	Ex-prime minister Thaksin	be	when oust	0	0
+1.0	Ex-prime minister Thaksin	remain since	then in London	0	LOCATION
+1.0	Surayud Chulanont	warn by	militant over New Year holiday	PERSON	DATE
+1.0	kingdom	at	new leader	0	0
+0.7888551829106186	junta chief General Sonthi Boonyaratglin	illegally have	two wife	PERSON	NUMBER
+1.0	dishonesty	have	allegations	O	O
+1.0	power	have	struggle	O	O
+1.0	Bangkok	at	Chulalongkorn University	LOCATION	ORGANIZATION
+1.0	Thaksin	have	former political party	PERSON	0
+1.0	eight blast	strike	random location	0	0
+1.0	bombing	be	secondly work	0	0
+1.0	Narathiwat	have	provinces	O	LOCATION
+1.0	Prime Minister Surayud Chulanont	blame	attack	PERSON	0
+1.0	dissent	be	public protest	0	0
+1.0	powers	have	supporters	O	O
+1.0	school	have	have torch in Thaksin 's stronghold in north	0	PERSON
+1.0	school	have	have torch in Thaksin 's stronghold in north of kingdom	0	PERSON
+1.0	groups	have	work	O	O
+1.0	dictator Saddam Hussein	have	execution	O	PERSON
+1.0	Studies	have	Srawut Aree	PERSON	O
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+0.7888551829106186	junta chief General Sonthi Boonyaratglin	have	two wife	PERSON	NUMBER
+1.0	school	have	have torch in Thaksin 's stronghold	0	PERSON
+1.0	Prime Minister Surayud Chulanont	blame attack on	group	PERSON	0
+1.0	Thai Rak Thai	say	the Thai press	ORGANIZATION	0
+1.0	dissent	be	protest	0	0
+1.0	Thai Rak Thai	be	quote	ORGANIZATION	0
+1.0	dissent	be protest against	putsch	0	0
+1.0	three people	injure	at least 30 more include nine foreigner catch in explosion near downtown shopping mall	NUMBER	NUMBER
+1.0	blast	strike	location	0	0
+1.0	John Harrison	expert at	Institute of Defence and Strategic Studies	PERSON	ORGANIZATION
+0.746081878197627	blast	kill	three people	0	NUMBER
+1.0	dissent	be little protest against	putsch	0	0
+1.0	blast	strike location at_time	Sunday	0	DATE
+1.0	Thaksin	have	party	O	PERSON
+1.0	Defence Strategic Studies	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	New Year	have	Eve bombings	O	DATE
+1.0	Surayud Chulanont	warn by	militant	PERSON	0
+1.0	Thaksin 's stronghold	be in	north of kingdom since coup	PERSON	0
+1.0	attacks	have	warned	O	O
+1.0	blast	strike location across	Bangkok	0	LOCATION
+1.0	Singapore	have	Institute	ORGANIZATION	LOCATION
+0.746081878197627	eight blast	kill	three people	0	NUMBER
+1.0	dissent	be	little public protest	0	0
+1.0	Prime Minister Surayud Chulanont	blame attack on	anti-coup group	PERSON	0
+1.0	three people	injure	at least 30 more include nine foreigner catch	NUMBER	NUMBER
+1.0	eight blast	strike location at_time	late Sunday	0	DATE
+1.0	At least 30 schools	have	torching	O	O
+1.0	the police	scramble	determine	0	0
+1.0	analyst	say at_time	Monday	0	DATE
+1.0	Bangkok	have	maps	O	LOCATION
+1.0	Surayud Chulanont	be battle allegation on	national park land	PERSON	0
+1.0	Centre	say	Srawut Aree	0	PERSON
+1.0	Surayud Chulanont	warn in	three province	PERSON	NUMBER
+1.0	school	have	have torch in Thaksin 's stronghold in north of kingdom since coup	0	PERSON
+1.0	Monday	have	press	O	DATE
+1.0	Singapore	at	Institute of Defence and Strategic Studies	LOCATION	ORGANIZATION
+1.0	dissent	be	relatively little public protest	0	0
+1.0	Eve bombings	have	series	O	O
+1.0	Surayud Chulanont	be battle	allegation	PERSON	0
+1.0	Bangkok	have	Chulalongkorn University	ORGANIZATION	LOCATION
+0.45034503898700623	Surayud Chulanont	allegation that	he property encroach	PERSON	0
+1.0	pro-thaksin element	be in	military	0	0
+1.0	kingdom	have	leaders	O	O
+1.0	Thaksin Shinawatra	have	supporters	O	PERSON
+1.0	blast	strike	random location	0	0
+1.0	dissent	be	little protest	0	0
+1.0	Islamic militants from Thailand 's insurgency-hit southern provinces	have	struggle	O	O
+1.0	theory	dominate	Monday 's press	0	DATE
+1.0	homecoming	could ignite	unrest	0	0
+1.0	Thailand	have	coup	O	LOCATION
+1.0	bombing	be	work	0	0
+1.0	Surayud Chulanont	be battle allegation on	park land	PERSON	0
+1.0	south	be with	map of Bangkok	0	LOCATION
+1.0	scandals	have	torching	O	O
+1.0	muslim community	be in	Chiang Mai	0	PERSON
+1.0	Thaksin	have	stronghold	O	PERSON
+1.0	Surayud Chulanont	be battle	allegation that he property encroach	PERSON	0
+1.0	Thai Rak Thai	be quote in	Thai press	ORGANIZATION	MISC
+1.0	dissent	be relatively little protest against	putsch	0	0
+1.0	dissent	be little public protest against	putsch	0	0
+1.0	Surayud Chulanont	warn at_time	week	PERSON	DATE
+1.0	Pattani	have	provinces	O	LOCATION
+1.0	likely catalyst	be in	Bangkok	0	LOCATION
+1.0	they	accuse	junta chief General Sonthi Boonyaratglin	0	PERSON
+1.0	eight blast	strike	location	0	0
+1.0	blast	strike location at_time	late Sunday	0	DATE
+1.0	Ex-prime minister Thaksin	be	oust	0	0
+1.0	Thaksin	in	stronghold in north of kingdom since coup	PERSON	0
+1.0	three people	injure	at least 30 more include nine foreigner	NUMBER	NUMBER
+1.0	school	have	have torch	0	0

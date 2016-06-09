@@ -1,0 +1,45 @@
+1.0	candidate	be in	Bangladesh 's upcoming national election	0	LOCATION
+1.0	January elections	have	boycott	O	O
+1.0	BNP government	make	way	ORGANIZATION	0
+1.0	candidates	have	withdrawn	O	O
+1.0	Thousands of candidates in Bangladesh 's upcoming national election	have	nomination papers	O	O
+1.0	coalition	accuse	bnp	0	0
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	candidate	belong to	opposition Awami League	0	ORGANIZATION
+1.0	people	have	have kill	0	0
+1.0	key position	be in	election commission	0	0
+1.0	October	have	end	DATE	DATE
+1.0	people	have	have kill in violence	0	0
+1.0	Awami League	lead	14-party coalition	ORGANIZATION	0
+0.321570031283521	coalition	accuse	bnp try to rig	0	0
+1.0	The Awami League	have bring	country	ORGANIZATION	0
+1.0	Awami League	lead	coalition	ORGANIZATION	0
+1.0	protest strikes	have	dozens	O	O
+1.0	candidate	belong to	main opposition Awami League	0	ORGANIZATION
+1.0	Awami League	lead	14-party coalition of opposition party	ORGANIZATION	0
+1.0	Awami League leader Sheikh Hasina Wajed	announce	boycott of January 22 election	ORGANIZATION	DATE
+1.0	Hasina Wajed	be leader sheikh of	The Awami League	PERSON	ORGANIZATION
+1.0	Bangladesh	in	upcoming national election	LOCATION	0
+1.0	election commissioners	have	replacement	O	O
+1.0	reforms	have	string	O	O
+1.0	Awami League leader Sheikh Hasina Wajed	announce	boycott	ORGANIZATION	0
+0.5923048800555444	The Awami League	have demand	string	0	0
+1.0	people	have	have kill in pre-election violence	0	0
+1.0	Party	be	necessary	ORGANIZATION	0
+1.0	candidates	have	Thousands	O	O
+1.0	official	say at_time	Thursday	0	DATE
+1.0	polls	have	boycott	O	O
+1.0	4,146 candidates	have	nomination papers	O	O
+1.0	Awami League	lead	coalition of opposition party	ORGANIZATION	0
+1.0	BNP government	make way for	caretaker government	ORGANIZATION	0
+1.0	January	have	end	DATE	DATE
+1.0	Hasina Wajed	be on	Wednesday	PERSON	DATE
+1.0	Bangladesh	have	election	O	LOCATION
+1.0	opposition parties	have	coalition	O	O
+1.0	nationalist Party	be	necessary	ORGANIZATION	0
+1.0	blockades	have	dozens	O	O
+1.0	Hasina Wajed	be	The Awami League	PERSON	ORGANIZATION
+1.0	The Awami League	have	allies	O	O
+0.321570031283521	coalition	accuse	bnp try	0	0
+1.0	The Awami League	have repeatedly bring	country	ORGANIZATION	0
+1.0	voter list	have	revision	O	O

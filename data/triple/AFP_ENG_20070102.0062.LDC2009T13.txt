@@ -1,0 +1,30 @@
+1.0	stock market	make	start	0	0
+1.0	european stock market	make start to	trading day of year	0	DATE
+1.0	stock market	make start to	trading day	0	DATE
+1.0	year	have	trading day	DATE	DATE
+0.4757886709150449	0.33 percent	percent to	Frankfurt 's DAX index	PERCENT	LOCATION
+1.0	CAC	increase	0.67 percent	0	PERCENT
+1.0	stock market	advance in	deal	0	0
+1.0	CAC 40	increase	0.67 percent	NUMBER	PERCENT
+1.0	stock market	make start to	trading day of year	0	DATE
+1.0	european stock market	advance in	open deal on Tuesday	0	DATE
+1.0	european stock market	make start to	first trading day	0	ORDINAL
+1.0	Frankfurt	have	DAX index	O	LOCATION
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+1.0	european stock market	advance in	open deal	0	0
+1.0	european stock market	make	positive start	0	0
+1.0	stock market	make start to	first trading day of year	0	ORDINAL
+1.0	stock market	make start to	first trading day	0	ORDINAL
+1.0	shares	have	FTSE index	O	O
+1.0	european stock market	advance in	deal	0	0
+1.0	stock market	advance in	open deal on Tuesday	0	DATE
+1.0	stock market	advance in	open deal	0	0
+1.0	stock market	advance in	deal on Tuesday	0	DATE
+1.0	european stock market	advance in	deal on Tuesday	0	DATE
+1.0	stock market	make	positive start	0	0
+0.4757886709150449	0.33 percent	percent to	Frankfurt 's DAX 30 index	PERCENT	NUMBER
+1.0	Frankfurt	have	DAX 30 index	LOCATION	NUMBER
+1.0	London	have	FTSE index	O	LOCATION
+1.0	european stock market	make start to	trading day	0	DATE
+1.0	european stock market	make	start	0	0
+1.0	european stock market	make start to	first trading day of year	0	ORDINAL

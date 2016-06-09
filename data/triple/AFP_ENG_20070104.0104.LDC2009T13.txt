@@ -1,0 +1,29 @@
+1.0	Zapatero	face	pressure put	PERSON	0
+1.0	Zapatero	face	pressure	PERSON	0
+1.0	Zapatero	face	pressure put in place effective measure	PERSON	0
+1.0	problem	call for	explaination	0	0
+1.0	Jose Luis Rodriguez Zapatero	visit	Madrid airport	PERSON	LOCATION
+1.0	mourning	have	day	DURATION	O
+1.0	newspaper	will go accord to	El Pais	0	ORGANIZATION
+1.0	Zapatero	face	mount pressure put in place measure	PERSON	0
+1.0	the prime minister	have	strategy	O	O
+1.0	Zapatero	face	mount pressure put	PERSON	0
+1.0	terrorism	have	problem	O	O
+1.0	Zapatero	face	mount pressure put in place effective measure	PERSON	0
+1.0	problem	call for	formal explaination	0	0
+1.0	the prime minister	have	information	0	0
+1.0	the prime minister	have	disposal	O	O
+1.0	newspaper	will go before	parliament	0	0
+1.0	Zapatero	face	mount pressure	PERSON	0
+1.0	victims	have	families	O	O
+1.0	Jose Luis Rodriguez Zapatero	have	plans	O	O
+1.0	victim	have	body	O	O
+1.0	Jose Luis Rodriguez Zapatero	cancel	plan	PERSON	0
+1.0	problem	call at_time	Wednesday	0	DATE
+1.0	ETA airport bomb	have	victim	O	O
+1.0	newspaper	unveil	he strategy	0	0
+1.0	Jose Luis Rodriguez Zapatero	visit madrid airport at_time	Thursday	PERSON	DATE
+1.0	the prime minister	have information at	he disposal	0	0
+1.0	Zapatero	face	pressure put in place measure	PERSON	0
+1.0	his	have	opposition counterpart Mariano Rajoy	PERSON	O
+1.0	newspaper	unveil	he anti-terrorist strategy	0	0

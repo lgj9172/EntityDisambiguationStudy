@@ -1,0 +1,33 @@
+1.0	Rodney Mott	have	have suspend three game	PERSON	NUMBER
+1.0	Miami	be on	Sunday	LOCATION	DATE
+1.0	Mott 's suspension	stem from	incident follow Portland 's 93-90 home victory over Miami on Sunday	PERSON	LOCATION
+1.0	official Rodney Mott	have	have suspend without pay	PERSON	0
+1.0	official Rodney Mott	have	have suspend	PERSON	0
+1.0	official Rodney Mott	be in	he season as NBA official	PERSON	ORGANIZATION
+1.0	Rodney Mott	direct	obscene gesture	PERSON	0
+1.0	Mott 's suspension	stem from	incident follow Portland 's 93-90 home victory	PERSON	LOCATION
+1.0	Mott 's suspension	stem from	incident	PERSON	0
+1.0	Mott	have	suspension	PERSON	0
+1.0	Rodney Mott	have	have suspend three game without pay	PERSON	NUMBER
+1.0	official Rodney Mott	be in	he ninth season	PERSON	ORDINAL
+1.0	Mott 's suspension	stem from	incident follow Portland 's 93-90 home victory over Miami	PERSON	LOCATION
+1.0	league	announce at_time	Friday	0	DATE
+1.0	official Rodney Mott	be in	he ninth season as NBA official	PERSON	ORGANIZATION
+1.0	Portland	follow	93-90 home victory over Miami on Sunday	LOCATION	LOCATION
+1.0	gesture	use	language	0	0
+1.0	official Rodney Mott	direct	gesture	PERSON	0
+1.0	obscene gesture	use	language	0	0
+1.0	official Rodney Mott	have	season	O	O
+1.0	gesture	use language toward	fan	0	0
+1.0	gesture	use	inappropriate language	0	0
+1.0	obscene gesture	use language toward	fan	0	0
+1.0	official Rodney Mott	be in	he season	PERSON	0
+1.0	obscene gesture	use	inappropriate language	0	0
+1.0	Rodney Mott	direct	gesture	PERSON	0
+1.0	official Rodney Mott	have	have suspend three game without pay	PERSON	NUMBER
+1.0	Rodney Mott	have	have suspend	PERSON	0
+1.0	official Rodney Mott	have	have suspend three game	PERSON	NUMBER
+1.0	Mott	have	suspension	O	PERSON
+1.0	official Rodney Mott	direct	obscene gesture	PERSON	0
+1.0	Portland	have	home victory	O	LOCATION
+1.0	Rodney Mott	have	have suspend without pay	PERSON	0

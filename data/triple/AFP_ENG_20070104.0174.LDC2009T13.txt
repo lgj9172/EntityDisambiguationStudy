@@ -1,0 +1,135 @@
+1.0	Aidid	tell	press conference	PERSON	0
+1.0	people	fail	respond to call	0	0
+1.0	government	plan	relocate about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base	0	0
+1.0	Ethiopian Prime Minister Meles Zenawi	justify	overt intervention	0	0
+1.0	government	plan	relocate from its base in Baidoa northwest	0	LOCATION
+1.0	government	plan	relocate from its provincial base about 250 kilometre	0	NUMBER
+1.0	whose	have	authority	O	O
+1.0	Ethiopian Prime Minister Meles Zenawi	justify	military intervention	0	0
+1.0	government	plan	relocate from its base in Baidoa	0	LOCATION
+1.0	ultimatum	have	day	DATE	O
+1.0	government	plan	relocate to capital from its provincial base about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate from its provincial base	0	0
+1.0	government	appear on	last day	0	DATE
+1.0	government	plan	relocate from its base	0	0
+1.0	government	plan	relocate to capital from its base northwest	0	0
+1.0	government	plan	relocate from its base about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base in Baidoa about 250 kilometre	0	NUMBER
+1.0	government	relocate about	155 mile	0	NUMBER
+1.0	12,000 ethiopian troops	have	have deploy	NUMBER	0
+1.0	government	plan	relocate from its base northwest	0	0
+1.0	government	relocate about	250 kilometre	0	NUMBER
+1.0	deputy prime minister	say at_time	Thursday	0	DATE
+1.0	government	relocate northwest from	its provincial base in Baidoa	0	LOCATION
+1.0	government	relocate from	its base	0	0
+1.0	government	plan	relocate northwest of Mogadishu	0	LOCATION
+1.0	country	have	security	O	O
+1.0	government	plan	relocate to capital from its base in Baidoa northwest of Mogadishu	0	LOCATION
+1.0	Mogadishu	have	northwest	O	LOCATION
+1.0	government	plan	relocate to capital from its provincial base about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate from its provincial base about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	appear on	last day of three-day ultimatum	0	DATE
+1.0	government	appear on	last day of three-day ultimatum for Mogadishu resident	0	LOCATION
+1.0	government	plan	relocate from its provincial base in Baidoa northwest	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base in Baidoa northwest	0	LOCATION
+1.0	government	relocate to	capital	0	0
+1.0	Aidid	tell press conference in	Mogadishu	PERSON	LOCATION
+1.0	government	relocate northwest to	capital	0	0
+1.0	government	plan	relocate to capital from its provincial base in Baidoa	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base northwest	0	0
+1.0	Some 3,000 Islamist fighters	have	movement	O	O
+1.0	government	relocate northwest from	its base in Baidoa	0	LOCATION
+1.0	government	plan	relocate to capital from its base in Baidoa about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate from its provincial base in Baidoa northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate from its provincial base in Baidoa about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate to capital from its base about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	the capital	have	base	O	O
+1.0	government	appear on	day of ultimatum	0	DATE
+1.0	government	plan	relocate from its provincial base northwest of Mogadishu	0	LOCATION
+1.0	Islamists	set	ultimatum for troops	MISC	0
+1.0	Ethiopian Prime Minister Meles Zenawi	send to	lawless country	0	0
+1.0	government	relocate northwest from	its base	0	0
+1.0	troops	have	number	O	O
+1.0	Ethiopian Prime Minister Meles Zenawi	send to	country	0	0
+1.0	government	plan	relocate from its base in Baidoa about 250 kilometre	0	NUMBER
+1.0	government	plan	relocate to capital about 250 kilometre	0	NUMBER
+1.0	government	appear on	day	0	DATE
+1.0	Ethiopian Prime Minister Meles Zenawi	justify	overt military intervention	0	0
+1.0	government	appear on	day of three-day ultimatum	0	DATE
+1.0	Islamists	set	ultimatum	MISC	0
+1.0	government	appear on	last day of ultimatum for Mogadishu resident	0	LOCATION
+1.0	Prime Minister Meles Zenawi	have put	number	PERSON	0
+1.0	government	plan	relocate to capital from its base northwest of Mogadishu	0	LOCATION
+1.0	government	relocate from	its provincial base in Baidoa	0	LOCATION
+1.0	government	plan	relocate to capital from its base in Baidoa	0	LOCATION
+1.0	Gedi	issue	Thursday deadline	PERSON	DATE
+1.0	government	plan	relocate from its base about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate northwest	0	0
+1.0	government	plan	relocate	0	0
+1.0	Islamic Courts Union	have	strongholds	O	O
+1.0	government	plan	relocate to capital from its provincial base in Baidoa northwest of Mogadishu	0	LOCATION
+1.0	Ethiopian Prime Minister Meles Zenawi	justify	intervention	0	0
+1.0	people	respond to	call	0	0
+1.0	government	plan	relocate to capital from its base in Baidoa northwest	0	LOCATION
+1.0	the Islamists	have	country	O	O
+1.0	country	have	security	0	0
+1.0	government	plan	relocate from its base in Baidoa about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate from its base about 250 kilometre	0	NUMBER
+1.0	government	plan	relocate from its base in Baidoa about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	appear on	day of three-day ultimatum for Mogadishu resident	0	LOCATION
+1.0	government	plan	relocate from its provincial base about 250 kilometre northwest	0	NUMBER
+1.0	whose authority	have	have increasingly threaten	0	0
+1.0	Some 3,000 Islamist fighters	have	guns	O	O
+1.0	ethiopian Prime Minister Meles Zenawi	have put	number	PERSON	0
+1.0	people	fail	respond	0	0
+1.0	government	plan	relocate to capital about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate from its base in Baidoa northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate to capital about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	Islamists	set	ultimatum for ethiopian troops	MISC	0
+1.0	government	plan	relocate about 250 kilometre	0	NUMBER
+1.0	ethiopian troops	neighbour	Somalia	0	LOCATION
+1.0	government	relocate from	its provincial base	0	0
+1.0	government	plan	relocate from its provincial base in Baidoa about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate to capital from its base about 250 kilometre	0	NUMBER
+1.0	government	relocate northwest about	155 mile	0	NUMBER
+1.0	whose authority	have	have threaten	0	0
+1.0	government	plan	relocate to capital from its base	0	0
+1.0	government	plan	relocate to capital	0	0
+1.0	government	plan	relocate from its provincial base northwest	0	0
+1.0	exile	be in	2004	0	DATE
+1.0	people	fail	respond by Prime Minister Ali Mohamed Gedi	0	PERSON
+1.0	Gedi	issue thursday deadline for	people	PERSON	0
+1.0	people	respond by	Prime Minister Ali Mohamed Gedi	0	PERSON
+1.0	Gedi	issue thursday deadline on	Monday	PERSON	DATE
+1.0	government	plan	relocate to capital northwest	0	0
+1.0	government	plan	relocate to capital from its base about 250 kilometre northwest	0	NUMBER
+1.0	government	plan	relocate from its provincial base in Baidoa	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base in Baidoa about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	Ethiopian Prime Minister Meles Zenawi	send at	at 4,000	0	NUMBER
+1.0	deputy minister	say at_time	Thursday	0	DATE
+1.0	government	plan	relocate to capital from its provincial base northwest of Mogadishu	0	LOCATION
+1.0	government	relocate northwest about	250 kilometre	0	NUMBER
+1.0	people	fail	respond to call by Prime Minister Ali Mohamed Gedi	0	PERSON
+1.0	Meles Zenawi	be	ethiopian	PERSON	0
+1.0	government	relocate from	its base in Baidoa	0	LOCATION
+1.0	Islamists	take	capital	MISC	0
+1.0	government	plan	relocate to capital from its base in Baidoa about 250 kilometre	0	NUMBER
+1.0	Islamists	launch	attack	MISC	0
+1.0	government	plan	relocate to capital from its base in Baidoa about 250 kilometre northwest of Mogadishu	0	LOCATION
+1.0	government	plan	relocate to capital from its provincial base in Baidoa about 250 kilometre northwest	0	NUMBER
+1.0	government	relocate northwest from	its provincial base	0	0
+1.0	government	plan	relocate to capital from its provincial base about 250 kilometre	0	NUMBER
+1.0	12,000 ethiopian troops	neighbour	Somalia	NUMBER	LOCATION
+1.0	Gedi	surrender	weapon	PERSON	0
+1.0	its provincial base	be in	Baidoa	0	LOCATION
+1.0	ethiopian troops	have	have deploy	0	0
+1.0	government	plan	relocate from its base northwest of Mogadishu	0	LOCATION
+1.0	Islamists	take capital in	June	MISC	DATE
+1.0	government	plan	relocate from its provincial base in Baidoa about 250 kilometre	0	NUMBER
+1.0	government	appear on	day of ultimatum for Mogadishu resident	0	LOCATION
+1.0	3,000 islamist fighter	be with	they gun inside capital	NUMBER	0
+1.0	government	plan	relocate to capital northwest of Mogadishu	0	LOCATION
+1.0	government	appear on	last day of ultimatum	0	DATE
+1.0	fighting	have	days	DURATION	O

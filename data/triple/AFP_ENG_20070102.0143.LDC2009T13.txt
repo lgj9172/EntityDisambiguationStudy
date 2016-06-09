@@ -1,0 +1,138 @@
+1.0	line-up	also include	former secretary recently in news	0	DATE
+1.0	Ford	have	Office	ORGANIZATION	ORGANIZATION
+1.0	republican presidential candidate	be in	1996	0	DATE
+1.0	James Baker	be	undersecretary of commerce under Ford	PERSON	ORGANIZATION
+1.0	Tom Brokaw	be television news anchorman of	NBC	PERSON	ORGANIZATION
+1.0	line-up	also include	former secretary of state Henry Kissinger recently in news as co-chair of Iraq Study Group	0	PERSON
+1.0	President George W. Bush	be father of	Bush	PERSON	PERSON
+1.0	line-up	also include	former secretary of state Henry Kissinger recently in news	0	PERSON
+1.0	tribute	will	will deliver by Bush then	0	PERSON
+1.0	Ford	have	secretary of transportation	ORGANIZATION	0
+1.0	Bill Clinton	be to	Democrat	PERSON	MISC
+1.0	James Baker	be	undersecretary	PERSON	0
+1.0	president	as	chief of staff	0	0
+1.0	pallbearers	have	list	O	O
+1.0	state	have	secretaries	O	O
+1.0	James Baker	be undersecretary of	commerce	PERSON	0
+1.0	Management	have	Office	ORGANIZATION	ORGANIZATION
+1.0	former senator Bob Dole	be	presidential candidate	PERSON	0
+1.0	line-up	include	former secretary of state Henry Kissinger	0	PERSON
+1.0	Tuesday	have	funeral	O	DATE
+1.0	former senator Bob Dole	be republican candidate in	1996	PERSON	DATE
+1.0	Rumsfeld	become	secretary of defense	PERSON	0
+1.0	Ford	have	secretaries	O	ORGANIZATION
+0.22655963548153302	retire	be	also list	0	0
+1.0	line-up	include	former secretary of state Henry Kissinger recently in news	0	PERSON
+1.0	Rumsfeld	become	ever secretary of defense	PERSON	0
+1.0	Rumsfeld	youngest ever secretary of	defense	PERSON	0
+1.0	staff treasury secretary	have	chief	O	O
+0.9124059450717864	late Tuesday	aged at_time	93	DATE	NUMBER
+1.0	Rumsfeld	youngest secretary of	defense	PERSON	0
+0.47973299635268735	former senator Bob Dole	senator from	Kansas	PERSON	LOCATION
+1.0	some	appear as	pallbearer	0	0
+1.0	Washington	have	National Cathedral	MISC	LOCATION
+1.0	former senator Bob Dole	be	also republican presidential candidate	PERSON	0
+1.0	line-up	also include	former secretary recently in news as co-chair	0	DATE
+1.0	Rumsfeld	secretary of	defense	PERSON	0
+1.0	president Gerald Ford	have	funeral	O	PERSON
+1.0	former senator Bob Dole	be also republican candidate in	1996	PERSON	DATE
+0.4871603805915677	Ford	lose to	Democrat Jimmy Carter	ORGANIZATION	PERSON
+1.0	tribute	will	will deliver	0	0
+1.0	Ford 's son	will read passage from	Bible	PERSON	0
+1.0	President George W. Bush	be schedule	present	PERSON	DATE
+1.0	James Baker	run	he failed 1976 campaign	PERSON	DATE
+1.0	Iraq Study Group	have	co-chair	O	ORGANIZATION
+1.0	Ford	have	son	O	ORGANIZATION
+1.0	Henry Kissinger	have	vacation	O	O
+1.0	he	bid	Bob Dole	0	PERSON
+1.0	Ford	have	run mate in failed 1976 presidential bid	ORGANIZATION	DATE
+1.0	George W. Bush	of	administration	PERSON	0
+1.0	George H. W. Bush	have	secretary	O	PERSON
+1.0	Rumsfeld	become in	1975	PERSON	DATE
+1.0	James Baker	run	he 1976 campaign	PERSON	DATE
+1.0	former senator Bob Dole	be	also republican candidate	PERSON	0
+1.0	Ford	on	order	ORGANIZATION	0
+1.0	tribute	will	will deliver by Bush	0	PERSON
+1.0	personalities	have	Some	O	O
+1.0	line-up	also include	former secretary recently in news as co-chair of Iraq Study Group	0	ORGANIZATION
+1.0	former senator Bob Dole	be	candidate	PERSON	0
+1.0	Ford 's run mate	be in	he failed 1976 presidential bid	ORGANIZATION	DATE
+1.0	former senator Bob Dole	be also republican presidential candidate in	1996	PERSON	DATE
+1.0	Ford	have	orders	O	ORGANIZATION
+1.0	state	have	secretary	O	O
+1.0	Rumsfeld	become	youngest ever secretary of defense	PERSON	0
+1.0	O'Neill	secretary under	Bush	PERSON	PERSON
+1.0	President George W. Bush	be	schedule	PERSON	0
+1.0	staff	have	chief	O	O
+1.0	Donald Rumsfeld	be	defense	PERSON	ORGANIZATION
+1.0	figures	have	promotion	O	O
+1.0	Bush	have	father	O	PERSON
+1.0	Rumsfeld	become	youngest secretary	PERSON	0
+1.0	Ford 's son	will read	passage	PERSON	0
+1.0	Rumsfeld	become	ever secretary	PERSON	0
+1.0	line-up	also include	former secretary recently	0	DATE
+1.0	president	have	chief	O	O
+1.0	Jimmy Carter	be to	Democrat	PERSON	MISC
+1.0	Dick Cheney	be	Henry Kissinger	PERSON	PERSON
+1.0	those who escort the casket but do not carry it	have	bid	O	O
+1.0	line-up	include	former secretary recently in news as co-chair of Iraq Study Group	0	ORGANIZATION
+1.0	Rumsfeld	become	secretary	PERSON	0
+1.0	Donald Rumsfeld	be secretary of	defense	PERSON	ORGANIZATION
+1.0	Rumsfeld	become	youngest secretary of defense	PERSON	0
+1.0	line-up	include	former secretary recently	0	DATE
+1.0	Bush	have	father	PERSON	0
+1.0	Rumsfeld	become	youngest ever secretary	PERSON	0
+1.0	defense	have	secretary	O	O
+1.0	Rumsfeld	become under	Ford	PERSON	ORGANIZATION
+1.0	line-up	also include	former secretary of state Henry Kissinger	0	PERSON
+1.0	John	be son of	Ford	PERSON	PERSON
+1.0	US statesmen	have	bevy	O	O
+1.0	former senator Bob Dole	be	also candidate	PERSON	0
+1.0	Tuesday	have	funeral of former president Gerald Ford	DATE	PERSON
+1.0	transportation	have	secretaries	O	O
+1.0	former senator Bob Dole	be	also presidential candidate	PERSON	0
+1.0	President George W. Bush	have	administration	O	PERSON
+1.0	housing	have	secretaries	O	O
+1.0	line-up	include	former secretary of state Henry Kissinger recently in news as co-chair	0	PERSON
+1.0	Ford	have	mate	O	ORGANIZATION
+1.0	line-up	also include	former secretary of state Henry Kissinger recently in news as co-chair	0	PERSON
+1.0	James Baker	run	he failed 1976 presidential campaign	PERSON	DATE
+1.0	former senator Bob Dole	be	republican candidate	PERSON	0
+1.0	line-up	include	former secretary recently in news as co-chair	0	DATE
+1.0	former senator Bob Dole	be presidential candidate in	1996	PERSON	DATE
+1.0	O'Neill	head	Ford 's Office of Management	PERSON	ORGANIZATION
+1.0	Alan Greenspan	be chairman of	retire Federal Reserve	PERSON	ORGANIZATION
+1.0	line-up	include	former secretary of state Henry Kissinger recently in news as co-chair of Iraq Study Group	0	PERSON
+1.0	state Henry Kissinger	have	secretaries	O	PERSON
+1.0	Ford	's son be	John	PERSON	PERSON
+0.9124059450717864	Tuesday	aged at_time	93	DATE	NUMBER
+0.22655963548153302	retire	be	list	0	0
+1.0	former senator Bob Dole	be republican presidential candidate in	1996	PERSON	DATE
+1.0	former senator Bob Dole	be	republican presidential candidate	PERSON	0
+1.0	line-up	also include	former secretary	0	0
+1.0	tribute	will	will deliver first by Bush then	0	ORDINAL
+1.0	Alan Greenspan	be	retire Federal Reserve	PERSON	ORGANIZATION
+1.0	commerce	have	undersecretary	O	O
+1.0	President George W. Bush	schedule	Bill Clinton	PERSON	PERSON
+1.0	James Baker	run	he 1976 presidential campaign	PERSON	DATE
+1.0	administration	have	pillars	O	O
+1.0	Rumsfeld	ever secretary of	defense	PERSON	0
+1.0	former senator Bob Dole	be also candidate in	1996	PERSON	DATE
+1.0	some	appear in	US media report	0	LOCATION
+1.0	former senator Bob Dole	be also presidential candidate in	1996	PERSON	DATE
+1.0	line-up	include	former secretary	0	0
+1.0	Budget	have	Office	ORGANIZATION	ORGANIZATION
+1.0	tribute	will	will deliver first by Bush	0	ORDINAL
+1.0	Ford	have	son	PERSON	0
+1.0	Democrat Jimmy Carter	be president of	US	PERSON	LOCATION
+1.0	line-up	also include	former secretary of state Henry Kissinger recently	0	PERSON
+1.0	former senator Bob Dole	lose to	Democrat Bill Clinton	PERSON	PERSON
+1.0	O'Neill	head	Ford 's Office	PERSON	ORGANIZATION
+1.0	former senator Bob Dole	be candidate in	1996	PERSON	DATE
+1.0	James Baker	have	campaign	O	O
+1.0	Washington	have	National Cathedral	LOCATION	MISC
+1.0	line-up	include	former secretary of state Henry Kissinger recently	0	PERSON
+1.0	former senator Bob Dole	senator from	Kansas	PERSON	LOCATION
+1.0	line-up	include	former secretary recently in news	0	DATE
+1.0	James Baker	be undersecretary under	Ford	PERSON	ORGANIZATION
+1.0	he vacation	be in	Dominican Republic	0	LOCATION

@@ -1,0 +1,79 @@
+1.0	country	have	dictator	O	O
+1.0	their	have	indecision	O	O
+1.0	government chief	have	post	O	O
+1.0	party	have object to	voter list	0	0
+1.0	Bangladesh 's main opposition parties	boycott	election	0	0
+1.0	country 's third largest party	announce at_time	last week	ORDINAL	DATE
+1.0	country 's party	also announce at_time	week	0	DATE
+1.0	BNP	accuse	Awami League attempt	ORGANIZATION	ORGANIZATION
+1.0	party	have earlier object	say	0	0
+1.0	country	have	party	O	O
+1.0	country	have	former military dictator	0	0
+1.0	list	have	version	O	O
+1.0	voter list	have	version	O	O
+0.321570031283521	opposition alliance	accuse	bnp try to rig	0	0
+0.4795932810725323	election	appoint party loyalist to	key position	0	0
+1.0	country 's third party	also announce at_time	last week	ORDINAL	DATE
+1.0	Bangladesh	nationalist	Bangladesh Nationalist Party	ORGANIZATION	ORGANIZATION
+1.0	part	be in	election after repeat strike	0	0
+1.0	country 's third party	announce at_time	last week	ORDINAL	DATE
+1.0	country 's largest party	announce at_time	week	0	DATE
+1.0	Hasina Wajed	be leader sheikh of	The Awami League	PERSON	ORGANIZATION
+1.0	government	step down at	end of October	0	DATE
+1.0	party	have object	say	0	0
+1.0	reforms	have	string	O	O
+0.4795932810725323	election	appoint	party loyalist	0	0
+1.0	reforms	have	package	O	O
+1.0	Awami League leader Sheikh Hasina Wajed	speak on behalf of	alliance	ORGANIZATION	0
+1.0	government	step at	end	0	DATE
+1.0	Bangladesh 's main opposition parties	boycott	national election schedule	0	0
+1.0	country	have	third largest party	0	ORDINAL
+1.0	Bangladesh 's main opposition party	announce at_time	Wednesday	LOCATION	DATE
+1.0	opposition	have demand	string	0	0
+1.0	it	boycott	election	0	0
+1.0	Bangladesh	have	main opposition party	LOCATION	0
+1.0	country 's third largest party	announce at_time	week	ORDINAL	DATE
+1.0	Bangladesh	have	opposition parties	O	LOCATION
+1.0	BNP	accuse	Awami League	ORGANIZATION	ORGANIZATION
+1.0	Hasina Wajed	be	The Awami League	PERSON	ORGANIZATION
+1.0	alliance	have	speaking	O	O
+1.0	country 's third largest party	also announce at_time	last week	ORDINAL	DATE
+1.0	Hussain Mohammad Ershad	dictator 's	country	PERSON	0
+1.0	country 's party	announce at_time	week	0	DATE
+1.0	Bangladesh 's main opposition parties	boycott	national election schedule for January 22	0	DATE
+1.0	we	be	surprise	0	0
+0.4795932810725323	election	appoint party loyalist to	position administration	0	0
+1.0	country 's largest party	announce at_time	last week	0	DATE
+1.0	we	be surprise by	they indecision	0	0
+1.0	Bangladesh 's main opposition parties	boycott	national election	0	0
+0.4795932810725323	election	appoint party loyalist to	position	0	0
+1.0	opposition alliance	accuse	bnp	0	0
+1.0	country 's party	announce at_time	last week	0	DATE
+1.0	opposition parties	have	alliance	O	O
+1.0	Bangladesh 's opposition party	announce	allege	LOCATION	0
+1.0	party	have earlier object to	voter list	0	0
+1.0	government	step down at	end	0	DATE
+1.0	BNP	react to	announcement	ORGANIZATION	0
+1.0	October	have	end	DATE	DATE
+1.0	country 's largest party	also announce at_time	last week	0	DATE
+1.0	Awami League	say on	December 24	ORGANIZATION	DATE
+1.0	its	have	leader	O	O
+1.0	his	have	nomination	O	O
+1.0	Bangladesh 's opposition party	announce at_time	Wednesday	LOCATION	DATE
+1.0	Bangladesh 's main opposition parties	boycott	election schedule	0	0
+1.0	President Iajuddin Ahmed	have	post	O	O
+1.0	country 's third party	also announce at_time	week	ORDINAL	DATE
+1.0	Bangladesh 's main opposition parties	boycott	election schedule for January 22	0	DATE
+1.0	key position	be in	temporary administration	0	0
+1.0	government	step at	end of October	0	DATE
+0.4795932810725323	election	appoint party loyalist to	position temporary administration	0	0
+0.321570031283521	opposition alliance	accuse	bnp try	0	0
+0.4795932810725323	election	appoint party loyalist to	key position temporary administration	0	0
+1.0	Awami League leader Sheikh Hasina Wajed	speak on behalf of	alliance of 14 opposition party	ORGANIZATION	NUMBER
+1.0	country 's third largest party	also announce at_time	week	ORDINAL	DATE
+1.0	Bangladesh 's main opposition party	announce	allege	LOCATION	0
+0.4795932810725323	election	appoint party loyalist to	key position administration	0	0
+1.0	country 's largest party	also announce at_time	week	0	DATE
+1.0	country 's party	also announce at_time	last week	0	DATE
+1.0	our	have	package	O	O
+1.0	country 's third party	announce at_time	week	ORDINAL	DATE

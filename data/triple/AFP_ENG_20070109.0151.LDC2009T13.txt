@@ -1,0 +1,113 @@
+1.0	foster reconciliation	revive	economy	0	0
+1.0	plan	be in	testimony	0	0
+1.0	Secretary of State Condoleezza Rice	recently meet in	late November	PERSON	DATE
+0.5048651132935987	soldier	kidnap in	June	0	DATE
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	Friday	be in	bid	DATE	0
+1.0	President George W. Bush	unveil	he new plan	PERSON	0
+0.7701398811465265	negotiation	create	government	0	0
+1.0	Mahmud Abbas	be	palestinian	PERSON	0
+1.0	Hamas victory	prompt	boycott of Palestinians	ORGANIZATION	MISC
+1.0	Secretary of State Condoleezza Rice	will meet with	she counterpart	PERSON	0
+1.0	Washington	counter	influence of Iran	LOCATION	LOCATION
+1.0	President George W. Bush	have	plan	O	O
+1.0	the 130,000 US troops	have	support	O	O
+1.0	Israelis	release fund to	Palestinians	MISC	MISC
+1.0	Hamas victory	prompt	crippling boycott of Palestinians	ORGANIZATION	MISC
+0.5249172882554555	raise	specter of	palestinian civil war	0	0
+1.0	Bush	have	approach	O	PERSON
+0.5048651132935987	soldier	kidnap by	radical Gaza	0	LOCATION
+1.0	Arab allies	have	grouping	O	O
+1.0	negotiation	lead	Mahmud Abbas	0	PERSON
+1.0	Secretary of State Condoleezza Rice	meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	groups	have	influence	O	O
+1.0	90 million dollar	be in	non-lethal	MONEY	0
+1.0	Rice	of	discussion	PERSON	0
+0.5249172882554555	raise	specter of	civil war	0	0
+1.0	Hamas victory	prompt	political boycott	ORGANIZATION	0
+1.0	Secretary of State Condoleezza Rice	will meet in	Kuwait	PERSON	LOCATION
+1.0	Secretary of State Condoleezza Rice	begin	she Middle East mission	PERSON	LOCATION
+1.0	Condoleezza Rice	head on	Friday	PERSON	DATE
+1.0	threat	have	perception	O	O
+1.0	Palestinians	have	boycott	O	MISC
+1.0	foster political reconciliation	revive	economy	0	0
+1.0	Hamas victory	prompt boycott by	West	ORGANIZATION	0
+1.0	Hezbollah	be movement of	shiite	ORGANIZATION	0
+1.0	Palestinians	have	hundreds	O	MISC
+1.0	Secretary of State Condoleezza Rice	meet in	November	PERSON	DATE
+1.0	violence	have	forces	O	O
+1.0	Secretary of State Condoleezza Rice	most recently meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Condoleezza Rice	head on	Friday in bid	PERSON	DATE
+1.0	Fuad Siniora	be for	lebanese	PERSON	0
+1.0	Secretary of State Condoleezza Rice	have	trip	O	O
+1.0	Condoleezza Rice	head back on	Friday	PERSON	DATE
+1.0	President George W. Bush	unveil	he long-awaited plan	PERSON	0
+1.0	President George W. Bush	resolve	crisis	PERSON	0
+1.0	Arab ally	worry about	Iran 's rise influence	PERSON	LOCATION
+1.0	Fuad Siniora	have	government	O	O
+1.0	Secretary of State Condoleezza Rice	begin	she latest Middle East mission	PERSON	LOCATION
+1.0	Hamas victory	prompt	crippling boycott	ORGANIZATION	0
+1.0	Secretary of State Condoleezza Rice	recently meet in	November	PERSON	DATE
+1.0	withhold fund	ease travel restriction in	West Bank	0	LOCATION
+1.0	Israelis	release	withhold fund	MISC	0
+1.0	Iraq	have	government	O	LOCATION
+1.0	Secretary of State Condoleezza Rice	most recently meet in	November	PERSON	DATE
+1.0	Syria	have	influence	O	LOCATION
+1.0	political reconciliation	revive	economy	0	0
+1.0	stop-off	be in	Germany	0	LOCATION
+1.0	Secretary of State Condoleezza Rice	have	Middle East mission	O	O
+1.0	Secretary of State Condoleezza Rice	begin in	two year	PERSON	DURATION
+1.0	Washington	counter	influence	LOCATION	0
+1.0	Nuri al-maliki	be of	iraqi	PERSON	0
+1.0	President George W. Bush	unveil	he plan	PERSON	0
+1.0	reconciliation	revive	economy	0	0
+1.0	Hamas victory	prompt	boycott	ORGANIZATION	0
+1.0	Condoleezza Rice	head back on	Friday in bid	PERSON	DATE
+0.5048651132935987	israeli soldier	kidnap by	radical Gaza	0	LOCATION
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	President George W. Bush	have	security forces	O	O
+1.0	Rice	produce	breakthrough	PERSON	0
+1.0	Secretary of State Condoleezza Rice	will meet from	six Gulf monarchy	PERSON	LOCATION
+1.0	Secretary of State Condoleezza Rice	begin in	two year to Israel	PERSON	DURATION
+1.0	Iran	have	influence	O	LOCATION
+0.5048651132935987	soldier	kidnap by	radical	0	0
+1.0	Ehud Olmert	be with	Israeli	PERSON	MISC
+1.0	Secretary of State Condoleezza Rice	meet in	late November	PERSON	DATE
+1.0	US soldiers	have	deployment	O	O
+1.0	Secretary of State Condoleezza Rice	will meet from	six Gulf monarchy plus Egypt	PERSON	LOCATION
+1.0	Secretary of State Condoleezza Rice	have	counterparts	O	O
+1.0	fund	ease travel restriction in	West Bank	0	LOCATION
+1.0	Iran	about	rise influence back	LOCATION	0
+1.0	war	have	specter	O	O
+1.0	strategy	involve deployment in	surge	0	0
+1.0	Secretary of State Condoleezza Rice	most recently meet in	late November	PERSON	DATE
+1.0	President George W. Bush	resolve	violent crisis	PERSON	0
+1.0	President George W. Bush	unveil	he long-awaited new plan	PERSON	0
+1.0	State Department	have	Secretary	O	ORGANIZATION
+1.0	Israelis	release	fund	MISC	0
+1.0	Mahmud Abbas	have	Fatah party	O	O
+1.0	extremism	have	forces	O	O
+1.0	Rice	have	discussions	O	PERSON
+0.5048651132935987	israeli soldier	kidnap in	June	0	DATE
+0.5249172882554555	raise	specter of	war	0	0
+1.0	Congress	have	chambers	O	ORGANIZATION
+1.0	fund	ease	travel restriction	0	0
+1.0	Hamas victory	prompt	crippling political boycott	ORGANIZATION	0
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	strategy	involve deployment in	temporary surge	0	0
+0.7701398811465265	negotiation	create	power-sharing government	0	0
+1.0	Bush	have	new approach	PERSON	0
+1.0	Arab ally	worry about	Iran 's influence	PERSON	LOCATION
+1.0	President George W. Bush	resolve crisis in	Iraq	PERSON	LOCATION
+1.0	Secretary of State Condoleezza Rice	recently meet with	Israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Hamas victory	prompt	crippling political boycott of Palestinians	ORGANIZATION	MISC
+1.0	strategy	be	expect	0	0
+1.0	Hamas victory	prompt	political boycott of Palestinians	ORGANIZATION	MISC
+1.0	discussions	have	part	O	O
+0.5249172882554555	raise	specter of	palestinian war	0	0
+0.5048651132935987	israeli soldier	kidnap by	radical	0	0
+0.7701398811465265	negotiation	create	power-sharing government involve Fatah	0	ORGANIZATION
+0.7701398811465265	negotiation	create	government involve Fatah	0	ORGANIZATION
+1.0	Rice latest	produce	breakthrough	PERSON	0
+1.0	strategy	involve	deployment	0	0
+1.0	withhold fund	ease	travel restriction	0	0

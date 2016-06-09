@@ -1,0 +1,16 @@
+1.0	The principle warlords who controlled part of the Somali capital	have	weapons	O	O
+1.0	talks	have	venue	O	O
+1.0	accord	be	reach	0	0
+1.0	government spokesman Abdirahman Dinari	tell	AFP	PERSON	ORGANIZATION
+1.0	President Abdullahi Yusuf Ahmed	have	one	NUMBER	PERSON
+1.0	gunbattle	kill	at least five people	0	NUMBER
+1.0	fierce gunbattle	kill	at least five people	0	NUMBER
+1.0	capital	have	part	O	O
+1.0	talk	be with	president	0	0
+1.0	Key Somali warlords on Friday	have	fighters	O	O
+1.0	fierce gunbattle	wound	seven	0	NUMBER
+0.9859773795464108	people	five at	least	0	0
+1.0	talks	have	hours	DURATION	O
+1.0	gunbattle	wound	seven	0	NUMBER
+1.0	Abdullahi Yusuf Ahmed	be	somali	PERSON	0
+1.0	warlords	have	one	NUMBER	O

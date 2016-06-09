@@ -1,0 +1,18 @@
+1.0	Hang Seng Index	close down off	low	MISC	0
+1.0	Hang Seng Index	close off	low	MISC	0
+1.0	pullback	have	severity	O	O
+1.0	19,948.02	have	low	O	NUMBER
+1.0	profit-taking	be in	China stock	0	LOCATION
+1.0	Hang Seng China Enterprises index	be at	down 418.41 point 10,347.67	ORGANIZATION	NUMBER
+1.0	investors	have	scores	O	O
+1.0	US Federal Reserve meeting	have	Minutes	DURATION	O
+1.0	low	have	closed	O	O
+1.0	Hang Seng Index	close down at	20,025.58	MISC	NUMBER
+1.0	their	have	surge	O	O
+1.0	high	have	closed	O	O
+1.0	Hang Seng Index	close at	20,025.58	MISC	NUMBER
+1.0	Hang Seng Index	close down off	low of 19,948.02	MISC	NUMBER
+1.0	Hang Seng Index	close off	low of 19,948.02	MISC	NUMBER
+1.0	pullback	be in	US housing sector	0	LOCATION
+1.0	Hang Seng China Enterprises index	be at	down 10,347.67	ORGANIZATION	NUMBER
+1.0	20,463.18	have	high	O	NUMBER

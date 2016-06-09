@@ -1,0 +1,67 @@
+1.0	Kampusch , 18	have	murder	O	O
+1.0	kidnapper	threaten at_time	Wednesday	0	DATE
+1.0	she	kidnapper	44-year-old telecommunications technician Wolfgang Priklopil	0	PERSON
+1.0	you	have	relatives	O	O
+1.0	Kampusch , 18	be kidnap in	1988	0	DATE
+1.0	Kampusch , 18	be	18	PERSON	NUMBER
+0.5434207925191507	Kampusch , 18	be	important	0	0
+1.0	Kampusch	have	mother	O	PERSON
+1.0	Kampusch 18	say in	interview broadcast	PERSON	0
+1.0	Kampusch , 18	have	caretakers	O	O
+1.0	Kampusch , 18	have	relations	O	O
+1.0	Kampusch , 18	be less than	nothing	0	0
+1.0	Kampusch , 18	have	captivity	O	O
+1.0	44-year-old telecommunications technician Wolfgang Priklopil	commit	suicide	PERSON	0
+1.0	Natascha	have	escape	O	ORGANIZATION
+1.0	they	kill	you	0	0
+1.0	you relative	be in	prison	0	0
+0.5434207925191507	Kampusch , 18	be	on one hand important for he	0	NUMBER
+1.0	Kampusch , 18	have	where have keep	0	0
+0.5434207925191507	Kampusch , 18	be incredibly important on	one hand	0	NUMBER
+1.0	Strasshof kilometres	have	town	O	O
+1.0	her family	have	family	O	O
+1.0	Kampusch , 18	describe	44-year-old telecommunications technician Wolfgang Priklopil	PERSON	PERSON
+1.0	Kampusch 's mother	have	information	O	O
+1.0	44-year-old telecommunications technician Wolfgang Priklopil	be	44-year-old	PERSON	DURATION
+1.0	you	have	mother	O	O
+1.0	Kampusch , 18	have	teeth	O	O
+1.0	her family	have	compliant	O	O
+1.0	relative	be in	prison	0	0
+1.0	Kampusch , 18	have	where have keep in basement	0	0
+1.0	Natascha	after	escape	ORGANIZATION	0
+1.0	kidnapper	kill	she family	0	0
+0.5434207925191507	Kampusch , 18	be	incredibly important	0	0
+1.0	Kampusch , 18	also describe	44-year-old telecommunications technician Wolfgang Priklopil	PERSON	PERSON
+1.0	pressure	have	means	O	O
+1.0	Kampusch , 18	say at_time	month	PERSON	DATE
+1.0	Kampusch , 18	be	less	0	0
+0.5434207925191507	Kampusch , 18	be important on	one hand	0	NUMBER
+1.0	Vienna	have	northeast	O	LOCATION
+1.0	crowds	have	scared	O	O
+1.0	Natascha Kampusch	have	kidnapper	O	ORGANIZATION
+1.0	Kampusch , 18	be	kidnap	0	0
+1.0	Kampusch , 18	say at_time	last month	PERSON	DATE
+1.0	Natascha Kampusch	of kidnapper be	austrian teenager	ORGANIZATION	0
+1.0	Kampusch , 18	say in	interview broadcast on television	PERSON	0
+1.0	Kampusch , 18	have	have keep in basement	0	0
+1.0	Kampusch , 18	have	family	O	O
+1.0	Kampusch , 18	say in	interview broadcast on austrian television	PERSON	0
+1.0	44-year-old telecommunications technician Wolfgang Priklopil	treat	Kampusch , 18	0	0
+1.0	Kampusch	have	mother also interview in orf television documentary	PERSON	0
+1.0	Kampusch 18	say in	interview broadcast on austrian television	PERSON	0
+1.0	Kampusch , 18	have	have keep	0	0
+0.5434207925191507	Kampusch , 18	be important for	44-year-old telecommunications technician Wolfgang Priklopil	0	0
+1.0	44-year-old telecommunications technician Wolfgang Priklopil	throw	44-year-old telecommunications technician Wolfgang Priklopil	PERSON	0
+1.0	Kampusch , 18	limit	ability	PERSON	0
+1.0	Kampusch , 18	limit	intellectual ability	PERSON	0
+1.0	Kampusch , 18	have	kidnapper	O	O
+1.0	Kampusch , 18	have	have keep in basement for eight year	0	DURATION
+0.9366562732348621	44-year-old telecommunications technician Wolfgang Priklopil	tell	Kampusch , 18	PERSON	0
+1.0	10	have	age	O	NUMBER
+1.0	Kampusch , 18	say in	interview broadcast	PERSON	0
+1.0	Kampusch , 18	have	where have keep in basement for eight year	0	DURATION
+1.0	Kampusch , 18	have	parents	O	O
+0.5434207925191507	Kampusch , 18	be incredibly important for	44-year-old telecommunications technician Wolfgang Priklopil	0	0
+0.5434207925191507	Kampusch , 18	be	on one hand incredibly important for he	0	NUMBER
+1.0	Kampusch 18	say in	interview broadcast on television	PERSON	0
+1.0	Kampusch	have	mother	PERSON	0

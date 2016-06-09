@@ -1,0 +1,39 @@
+1.0	government	adopt currency by	target date	0	0
+1.0	koruna	have	deficit	O	MONEY
+1.0	The Czech government	plan	2006 state budget deficit	0	DATE
+1.0	government	adopt currency by	original target date	0	0
+1.0	government	adopt currency by	target date of 2010	0	DATE
+1.0	The targeted deficit	revise upward from	originally plan 74.4 billion koruna	0	MONEY
+1.0	government	adopt currency by	original target date of 2010	0	DATE
+1.0	The targeted deficit	revise upward from	plan 74.4 billion koruna	0	MONEY
+1.0	czech lawmaker	have approve deficit base on	spending	0	0
+1.0	government	adopt	single currency	0	0
+1.0	czech government	adopt	currency	0	0
+1.0	government	adopt	currency	0	0
+1.0	czech government	adopt currency by	target date of 2010	0	DATE
+1.0	government	must meet	strict EU target	0	ORGANIZATION
+1.0	target deficit	be	83.7 billion koruna	0	MONEY
+1.0	czech government	adopt currency by	original target date	0	0
+1.0	czech government	adopt currency by	original target date of 2010	0	DATE
+1.0	agency CTK	announce on	Tuesday	ORGANIZATION	DATE
+1.0	final budget vote	be in	December	0	DATE
+1.0	czech government	adopt	european currency	0	0
+1.0	lawmaker	have approve deficit base on	spending of 1.04 trillion koruna	0	MONEY
+1.0	lawmakers	have	result	O	O
+1.0	government	must meet eu target for	public debt	0	0
+1.0	2010	have	target date	O	DATE
+1.0	deficit	be	83.7 billion koruna	0	MONEY
+1.0	czech lawmaker	have approve deficit base on	spending of 1.04 trillion koruna	0	MONEY
+1.0	government	must meet	EU target	0	ORGANIZATION
+1.0	government	adopt	european currency	0	0
+1.0	government	must meet eu target for	debt	0	0
+1.0	The targeted deficit	revise	upward	0	0
+1.0	The targeted deficit	revise upward from	74.4 billion koruna	0	MONEY
+1.0	koruna	have	spending	O	MONEY
+1.0	government	adopt	european single currency	0	0
+1.0	government	adopt	euro	0	0
+1.0	czech government	adopt	european single currency	0	0
+1.0	koruna	have	revenues	O	MONEY
+1.0	czech government	adopt currency by	target date	0	0
+1.0	lawmaker	have approve deficit base on	spending	0	0
+1.0	czech government	adopt	single currency	0	0

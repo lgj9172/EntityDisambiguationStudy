@@ -1,0 +1,153 @@
+1.0	Monday	non-working day	Tuesday	SET	SET
+1.0	Belgrade	have	control	O	LOCATION
+1.0	midnight	have	stroke	O	TIME
+1.0	euro	replace	currency introduce as symbol of country 's independence	0	0
+1.0	changeover	have	week	DURATION	O
+1.0	test	have	kind	O	O
+1.0	Slovenia 's changeover	be	run	DATE	0
+1.0	Monday	day	Tuesday	SET	SET
+1.0	other nation	change over	over euro	0	0
+1.0	challenge	will happen on	Wednesday	0	DATE
+0.42811434052407904	effort	prevent	a upward	0	0
+1.0	payment system	be put under	kind of test	0	0
+0.42811434052407904	effort	prevent	a of price	0	0
+1.0	tolar	have	memories	O	O
+1.0	two	have	country	O	NUMBER
+1.0	country	have	independence	O	O
+1.0	this	will remain in	force for six month	0	DURATION
+1.0	euro	replace	currency introduce in 1991 as symbol	0	DATE
+1.0	currency	have	adoption	O	O
+1.0	1:00	be at	window specially open	TIME	0
+1.0	Slovenia 's	declare independence from	former Yugoslavia	LOCATION	LOCATION
+1.0	international payment system	be put under	kind	0	0
+1.0	double labelling	be in	euro	0	0
+1.0	people	change	they tolar	0	0
+0.42811434052407904	effort	prevent	a round upward	0	0
+1.0	international payment system	be	put	0	0
+1.0	Czech Republic	join	euro	LOCATION	0
+0.9372309049058929	1:00	specially open for	ocasion	TIME	0
+1.0	Gaspari	have make withdrawal at	stroke of midnight	PERSON	TIME
+0.42811434052407904	effort	prevent	a round of price	0	0
+1.0	Gaspari	have make withdrawal at	stroke	PERSON	0
+1.0	former state	join	EU 's currency	0	DATE
+1.0	tiny country	of	independence	0	0
+0.42811434052407904	effort	prevent	a round	0	0
+1.0	1:00	be at	window	TIME	0
+1.0	Cyprus	be	expect	LOCATION	0
+1.0	100 euro	be in	cash	MONEY	0
+1.0	first former communist state	join	EU 's common currency	ORDINAL	DATE
+1.0	Gaspari	have make withdrawal from	bank	PERSON	0
+1.0	changeover	be in	automatic teller machine	0	0
+0.9372309049058929	1:00	open for	ocasion	TIME	0
+1.0	international payment system	be put under	same kind of test	0	0
+1.0	Cyprus	follow	Slovenia	LOCATION	LOCATION
+1.0	Hungary	be in	2013	LOCATION	DATE
+1.0	payment system	be put under	same kind of test	0	0
+1.0	he	stride in	center	0	0
+1.0	Belgrade	have	monetary control over slovenian economy	LOCATION	0
+1.0	euro	replace	tolar	0	0
+1.0	Slovenia	be	13th EU state	LOCATION	ORDINAL
+1.0	euro bill	enter	coin	0	0
+1.0	Slovenia 's	have	money	O	O
+1.0	Slovenia 's	accede to	the EU 's	LOCATION	ORGANIZATION
+1.0	New Year	have	Day	DATE	DATE
+1.0	Slovakia	adopt	single currency	LOCATION	0
+1.0	52 bank	allow	people	NUMBER	0
+1.0	nation	change over	over euro	0	0
+1.0	13th EU state	use	euro	ORDINAL	0
+1.0	Its	have	adoption	O	O
+1.0	Gaspari	tell news conference with	bajuk	PERSON	0
+1.0	Cyprus	follow slovenia into	eurozone	LOCATION	0
+1.0	central bank	be in	Ljubljana	0	LOCATION
+1.0	prices	have	a	O	O
+1.0	Monday	be	non-working day	SET	SET
+1.0	he	withdraw	100 euro	0	MONEY
+1.0	euro	replace	currency introduce in 1991 as symbol of tiny country 's independence	0	DATE
+1.0	Gaspari	have make	first withdrawal of euro	PERSON	ORDINAL
+1.0	euro	replace	currency introduce as symbol of tiny country 's independence	0	0
+1.0	former state	join	EU 's common currency	0	DATE
+1.0	eurozone	be in	2008	0	DATE
+1.0	international payment system	be put under	kind of test	0	0
+1.0	changeover	have	stages	O	O
+1.0	Cyprus	follow slovenia into	eurozone in 2008	LOCATION	DATE
+1.0	Slovenia 's	have	banking system	O	LOCATION
+1.0	ATMs	have	Monday percent	PERCENT	O
+1.0	euro	replace	currency introduce in 1991	0	DATE
+1.0	prices	have	upwards	O	O
+1.0	1:00	be at	window specially open for ocasion	TIME	0
+1.0	government	introduce	labelling	0	0
+1.0	former communist state	join	EU 's currency	0	DATE
+1.0	Cyprus	expect	Malta	LOCATION	LOCATION
+1.0	Slovakia	adopt currency in	2009	LOCATION	DATE
+1.0	Gaspari	have make	first withdrawal	PERSON	ORDINAL
+1.0	Slovenia	have	changeover from tolar money to euro	LOCATION	0
+0.6404787007308076	government	labelling of	price	0	0
+1.0	first former state	join	EU 's currency	ORDINAL	DATE
+1.0	payment system	be put under	kind	0	0
+1.0	Gaspari	have make	withdrawal of euro	PERSON	MONEY
+0.42811434052407904	effort	prevent	a upward of price	0	0
+1.0	citizen	change	money	0	0
+1.0	government	introduce labelling in	effort	0	0
+1.0	Gaspari	tell	joint news conference	PERSON	0
+1.0	Gaspari	have make	withdrawal	PERSON	0
+1.0	Monday	be non-working day in	Slovenia	SET	LOCATION
+1.0	this	will remain in	force	0	0
+1.0	first former communist state	join	EU 's currency	ORDINAL	DATE
+1.0	Slovenia	be	EU state	LOCATION	LOCATION
+1.0	1:00	be at	window open	TIME	0
+1.0	euro	replace	currency introduce in 1991 as symbol of country 's independence	0	DATE
+1.0	independence	have	symbol	O	O
+1.0	day	be in	Slovenia	SET	LOCATION
+1.0	EU state	use	euro	LOCATION	0
+1.0	euro	be in	2012	0	DATE
+1.0	Monday	be	day	SET	SET
+1.0	payment system	be put under	same kind	0	0
+1.0	Gaspari	tell	news conference	PERSON	0
+1.0	international payment system	be put under	same kind	0	0
+1.0	former communist state	join	EU 's common currency	0	DATE
+1.0	Cyprus	follow	Malta	LOCATION	LOCATION
+1.0	payment system	be	put	0	0
+1.0	one euro	equal	239.64 tolar	MONEY	NUMBER
+0.022365932509734954	Slovenia 's	declare from	former Yugoslavia	LOCATION	LOCATION
+1.0	Slovenia	have	changeover	O	LOCATION
+1.0	citizen	change	money between midnight	0	TIME
+1.0	Monday	be day in	Slovenia	SET	LOCATION
+1.0	euro	replace	currency	0	0
+1.0	Slovenia 's	declare	independence	LOCATION	0
+1.0	1:00	be at	window open for ocasion	TIME	0
+1.0	euro bill	first enter	coin	0	0
+1.0	central bank	be	first	0	ORDINAL
+1.0	euros	have	withdrawal	O	O
+0.14059619431790493	bank	will open	allow	0	0
+1.0	euro	replace	currency introduce as symbol	0	0
+0.6404787007308076	government	double labelling in	euro	0	0
+1.0	Czech Republic	join	euro in 2012	LOCATION	DATE
+1.0	their	have	will	O	O
+1.0	bank	allow	people	0	0
+1.0	EU	have	currency	O	ORGANIZATION
+1.0	Slovakia	adopt	currency	LOCATION	0
+1.0	euro bill	first enter	circulation	0	0
+1.0	bank	be	first	0	ORDINAL
+1.0	euro bill	enter	circulation	0	0
+1.0	prices	have	labelling	O	O
+1.0	he	stride to	ATM	0	MISC
+1.0	first former state	join	EU 's common currency	ORDINAL	DATE
+1.0	euro	replace	currency introduce	0	0
+1.0	Gaspari	have make withdrawal from	central bank	PERSON	0
+1.0	optimism	have	degree	O	O
+1.0	EU	have	common currency	ORGANIZATION	0
+0.6404787007308076	government	double labelling of	price	0	0
+0.6404787007308076	government	labelling in	euro	0	0
+1.0	cash	have	most	O	O
+1.0	Ljubljana	have	center	O	LOCATION
+0.42811434052407904	effort	prevent	a	0	0
+1.0	euro	equal	239.64 tolar	MONEY	NUMBER
+1.0	52 bank	be in	42 city	NUMBER	NUMBER
+1.0	next challenge	will happen on	Wednesday	0	DATE
+1.0	Bajuk	tell	AFP	PERSON	ORGANIZATION
+1.0	their	have	tolars	O	O
+1.0	he	withdraw	100 euro in cash	0	MONEY
+0.42811434052407904	effort	prevent	a round upward of price	0	0
+1.0	he	stride in	center of Ljubljana	0	LOCATION
+1.0	citizens	have	number	O	O
+1.0	Slovenia 's	for	banking system	LOCATION	0

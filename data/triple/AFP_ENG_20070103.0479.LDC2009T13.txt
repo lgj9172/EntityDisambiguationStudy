@@ -1,0 +1,91 @@
+1.0	most	controversially serve to	Honduras	0	LOCATION
+1.0	National Intelligence	have	US Director	O	ORGANIZATION
+1.0	John Negroponte	go to	Iraq	PERSON	LOCATION
+1.0	US President George W. Bush 's	have	strategy	O	O
+1.0	John Negroponte	serve as	US ambassador	PERSON	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Senate	make under	opposition majority follow election last November	ORGANIZATION	DATE
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	official	say on	condition of anonymity	0	0
+1.0	Latin America	be in	Asia	LOCATION	LOCATION
+1.0	holder	have	responsibility	0	0
+1.0	senior official	say at_time	Wednesday	0	DATE
+1.0	John Negroponte	serve as	ambassador	PERSON	0
+1.0	John Negroponte	serve as	ambassador for 10 month	PERSON	DURATION
+1.0	position	be create as	part of overhaul of US operation follow intelligence failure	0	LOCATION
+1.0	position	be create in	2005	0	DATE
+1.0	John Negroponte	serve at	eight service post	PERSON	NUMBER
+1.0	John Negroponte	have	resignation	O	PERSON
+1.0	Senate	make under	opposition majority	ORGANIZATION	0
+1.0	position	be create as	part of overhaul follow intelligence failure in Iraq	0	LOCATION
+1.0	Senate	make under	opposition majority follow election	ORGANIZATION	0
+1.0	position	be create as	part	0	0
+0.8600272731347129	responsibility	oversee	16 separate US intelligence agency	0	LOCATION
+1.0	Senate	make under	opposition democratic majority follow election	ORGANIZATION	0
+1.0	position	be	create in 2005 as part of overhaul of US spy operation	0	LOCATION
+1.0	position	be create as	part of overhaul of US spy operation follow intelligence failure in Iraq	0	LOCATION
+1.0	resignation	have	News	O	O
+1.0	appointment	must	must confirm	0	0
+0.8600272731347129	responsibility	oversee	16 US intelligence agency	0	LOCATION
+1.0	US President George W. Bush 's	announce	he new strategy	PERSON	0
+1.0	most	controversially serve as	US envoy	0	LOCATION
+1.0	position	be create as	part of overhaul follow intelligence failure	0	0
+1.0	US envoy	be	US ambassador	0	LOCATION
+1.0	Senate	make under	opposition democratic majority follow election November	ORGANIZATION	DATE
+1.0	intelligence failure	be in	Iraq	0	LOCATION
+1.0	first holder	have	responsibility	ORDINAL	0
+1.0	Senate	make under	opposition majority follow election November	ORGANIZATION	DATE
+1.0	position	be	create	0	0
+1.0	US President George W. Bush 's	be	expect	PERSON	0
+1.0	September 11 2001	attack on	New York	DATE	LOCATION
+1.0	official	say at_time	Wednesday	0	DATE
+1.0	position	be create as	part of overhaul of US spy operation follow intelligence failure	0	LOCATION
+1.0	Senate	make under	opposition democratic majority	ORGANIZATION	0
+1.0	John Negroponte	have	resignation	O	O
+1.0	George W. Bush	's official be	John Negroponte	PERSON	PERSON
+1.0	position	be	create in 2005 as part of overhaul	0	DATE
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	deputy	have	Secretary	O	O
+1.0	John Negroponte	be	67	PERSON	NUMBER
+1.0	John Negroponte	serve at	eight service post in Asia America	PERSON	NUMBER
+1.0	position	be	create in 2005 as part of overhaul of US spy operation follow intelligence failure	0	LOCATION
+1.0	George W. Bush	have	top intelligence official	PERSON	0
+1.0	US operations	have	overhaul	O	O
+1.0	National Intelligence	be in	April 2005	ORGANIZATION	DATE
+1.0	post	have	holder	O	O
+1.0	Senate	make under	opposition democratic majority follow election last November	ORGANIZATION	DATE
+1.0	John Negroponte	oversee	unsuccessful US campaign	PERSON	LOCATION
+1.0	office	be in	January 2008	0	DATE
+1.0	position	be	create in 2005 as part of overhaul of US operation follow intelligence failure in Iraq	0	LOCATION
+1.0	US President George W. Bush 's	announce	he strategy	PERSON	0
+1.0	John Negroponte	oversee	US campaign	PERSON	LOCATION
+1.0	John Negroponte	serve at	eight different service post in Asia America	PERSON	NUMBER
+1.0	position	be	create in 2005 as part of overhaul follow intelligence failure in Iraq	0	LOCATION
+1.0	world body	have	endorsement	0	0
+1.0	position	be	create in 2005 as part of overhaul of US operation	0	LOCATION
+1.0	Director	have	position	O	O
+1.0	John Negroponte	of	resignation	PERSON	0
+1.0	world body	have	endorsement	O	O
+1.0	National Intelligence in April 2005	have	Director	O	ORGANIZATION
+1.0	position	be create as	part of overhaul of US operation follow intelligence failure in Iraq	0	LOCATION
+1.0	most	serve to	Honduras	0	LOCATION
+1.0	position	be	create in 2005 as part of overhaul of US spy operation follow intelligence failure in Iraq	0	LOCATION
+1.0	position	be create as	part of overhaul	0	0
+1.0	position	be	create in 2005 as part	0	DATE
+1.0	Saddam Hussein	be	iraqi	PERSON	0
+1.0	US President George W. Bush	have	intelligence official	O	PERSON
+1.0	Contra rebels	have	funding	O	O
+1.0	most	serve as	US envoy	0	LOCATION
+1.0	position	be create as	part of overhaul of US spy operation	0	LOCATION
+1.0	official	say on	condition	0	0
+1.0	overhaul	have	part	O	O
+1.0	John Negroponte	serve to	United Nations	PERSON	ORGANIZATION
+1.0	John Negroponte	serve at	eight different service post	PERSON	NUMBER
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	position	be	create in 2005 as part of overhaul of US operation follow intelligence failure	0	LOCATION
+1.0	position	be create as	part of overhaul of US operation	0	LOCATION
+1.0	state	have	deputy secretary	O	O
+1.0	John Negroponte	have	State Department roots	O	O
+1.0	anonymity	have	condition	O	O
+1.0	eight different foreign service post	be in	Latin America	NUMBER	LOCATION
+1.0	position	be	create in 2005 as part of overhaul follow intelligence failure	0	DATE

@@ -1,0 +1,112 @@
+1.0	accusation	be	when first level against Wielgus in press	0	ORDINAL
+1.0	its worst crisis	be in	recent history	0	0
+1.0	Jozef Kloch	tell reporter before	meeting	PERSON	0
+1.0	Stanislaw Wielgus	admit	last Friday have collaborate	PERSON	DATE
+1.0	the Catholic Church	have	time	O	O
+1.0	Stanislaw Wielgus	collaborate with	police	0	0
+1.0	Stanislaw Wielgus	admit	Friday	PERSON	DATE
+1.0	Jozef Kloch	tell reporter before	closed-door meeting	PERSON	0
+1.0	meeting	be	move	0	0
+1.0	call meeting	be	move	DURATION	0
+1.0	Wielgus	be recruit by	police in 1967	PERSON	DATE
+1.0	deep crisis	be in	Catholic Church	0	ORGANIZATION
+1.0	Jozef Kloch	spokesman for	polish episcopate	PERSON	0
+1.0	document	collaborate for	two decade	0	DURATION
+1.0	polish bishop	hold	emergency meeting	0	0
+1.0	population	have	percent	PERCENT	O
+1.0	accusation	be	first level against Wielgus in press	0	ORDINAL
+1.0	Stanislaw Wielgus	resign of	Warsaw	PERSON	LOCATION
+1.0	bishop	hold emergency meeting at_time	Friday	0	DATE
+1.0	Stanislaw Wielgus	collaborate with	communist police	0	0
+1.0	Stanislaw Wielgus	finally admit	Friday	PERSON	DATE
+1.0	call meeting	be	exceptional move	DURATION	DURATION
+1.0	Stanislaw Wielgus	finally admit	last Friday	PERSON	DATE
+1.0	Stanislaw Wielgus	finally admit	last Friday have collaborate	PERSON	DATE
+1.0	accusation	be	first level	0	ORDINAL
+1.0	accusation	be	when level against Wielgus	0	PERSON
+1.0	clerics	have	some	O	O
+1.0	bishop	hold emergency meeting here at_time	Friday	0	DATE
+1.0	accusation	be	when first level in press	0	ORDINAL
+1.0	polish bishop	hold here	emergency meeting	0	0
+1.0	bishop	hold here	emergency meeting	0	0
+1.0	police links	have	accused	O	O
+1.0	accusation	be level in	polish press	0	0
+1.0	meeting	have	agenda	O	O
+1.0	Stanislaw Wielgus	admit	Friday have collaborate	PERSON	DATE
+1.0	Stanislaw Wielgus	be	when 28-year-old philosophy student	0	DURATION
+1.0	he	have	tie	0	0
+1.0	Stanislaw Wielgus	be	philosophy student	0	0
+1.0	archbishop	have	post	O	O
+1.0	Stanislaw Wielgus	inform on	anyone	0	0
+1.0	Church	be in	Poland	0	LOCATION
+1.0	episcopate	of	permanent council	DURATION	DURATION
+1.0	bishop	hold	emergency meeting	0	0
+1.0	collaboration	have	accusations	O	O
+1.0	Janusz Bielanski	canon of	Krakow Cathedral	PERSON	ORGANIZATION
+1.0	The Church in Poland , where some 90 percent of the population of 38.5 million profess to be Roman Catholic	have	crisis	O	O
+1.0	Jozef Kloch	tell reporter before	meeting of episcopate 's permanent council	PERSON	0
+1.0	Jozef Kloch	tell	reporter	PERSON	0
+1.0	Wielgus	be recruit by	secret police	PERSON	0
+1.0	accusation	be	when first level against Wielgus	0	ORDINAL
+1.0	Wielgus	be recruit by	polish police	PERSON	0
+1.0	Stanislaw Wielgus	finally admit	Friday have collaborate	PERSON	DATE
+1.0	accusation	be	when level against Wielgus in polish press	0	PERSON
+1.0	Wielgus	be recruit by	polish secret police	PERSON	0
+1.0	meeting	be	exceptional	0	DURATION
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	Wielgus	be	recruit	PERSON	0
+1.0	episcopate	have	council	O	O
+1.0	Stanislaw Wielgus	be	due	0	0
+1.0	accusation	be	level against Wielgus in press	0	PERSON
+1.0	services	have	files	O	O
+1.0	38.5 million	have	population	O	NUMBER
+1.0	accusation	be	when level against Wielgus in press	0	PERSON
+1.0	tie	be with	Sluzba Bezpieczenstwa	0	PERSON
+1.0	follow day	quit over	accusation	DATE	0
+1.0	accusation	be	when level in press	0	0
+1.0	accusation	be	level	0	0
+1.0	Wielgus	be recruit by	police	PERSON	0
+1.0	he	have	tie with notorious Sluzba Bezpieczenstwa	0	PERSON
+1.0	accusation	be first level in	polish press	0	0
+1.0	accusation	be level against	Wielgus	0	PERSON
+1.0	he	have	tie with Sluzba Bezpieczenstwa	0	PERSON
+1.0	problem	have	type	O	O
+1.0	Jozef Kloch	tell reporter before	closed-door meeting of episcopate 's permanent council	PERSON	0
+1.0	nominee	deny at_time	month	0	DATE
+1.0	Krakow Cathedral	have	canon	O	ORGANIZATION
+1.0	polish secret police	be in	1967	0	DATE
+1.0	Stanislaw Wielgus	be	28-year-old	0	DURATION
+1.0	Stanislaw Wielgus	be	when philosophy student	0	0
+1.0	Janusz Bielanski	work with	reviled force	0	0
+1.0	council	have	meeting	O	O
+1.0	Stanislaw Wielgus	admit	last Friday	PERSON	DATE
+1.0	accusation	be	when first level	0	ORDINAL
+1.0	nominee	deny at_time	last month	0	DATE
+1.0	accusation	be level in	press	0	0
+1.0	polish bishop	hold emergency meeting at_time	Friday	0	DATE
+1.0	day	also quit over	accusation	DATE	0
+1.0	Warsaw	have	resigned	O	LOCATION
+1.0	Wielgus	be recruit by	polish secret police in 1967	PERSON	DATE
+1.0	day	quit over	accusation	DATE	0
+1.0	Stanislaw Wielgus	resign at_time	Sunday	PERSON	DATE
+1.0	meeting	be	exceptional move	0	DURATION
+1.0	some	have	request	O	O
+1.0	Wielgus	be recruit by	secret police in 1967	PERSON	DATE
+1.0	Stanislaw Wielgus	be	28-year-old philosophy student	0	DURATION
+1.0	Jozef Kloch	tell reporter before	closed-door meeting of episcopate 's council	PERSON	0
+1.0	accusation	be	when level	0	0
+1.0	Wielgus	be recruit by	polish police in 1967	PERSON	DATE
+1.0	Janusz Bielanski	work with	force	0	0
+1.0	episcopate	of	permanent council	0	0
+1.0	Stanislaw Wielgus	resign as	archbishop	PERSON	0
+1.0	accusation	be	level against Wielgus in polish press	0	PERSON
+1.0	accusation	be	first level against Wielgus in polish press	0	ORDINAL
+1.0	accusation	be	when first level in polish press	0	ORDINAL
+1.0	accusation	be first level in	press	0	0
+1.0	days	have	events	O	DURATION
+1.0	accusation	be	when first level against Wielgus in polish press	0	ORDINAL
+1.0	follow day	also quit over	accusation	DATE	0
+1.0	accusation	be first level against	Wielgus	0	PERSON
+1.0	Jozef Kloch	tell reporter before	meeting of episcopate 's council	PERSON	0
+1.0	accusation	be	when level in polish press	0	0
+1.0	polish bishop	hold emergency meeting here at_time	Friday	0	DATE

@@ -1,0 +1,140 @@
+1.0	official	deplore	nationalization plan	0	0
+1.0	Venezuela	have	oil firm	O	LOCATION
+1.0	President Hugo Chavez	take	control of key foreign-held business	PERSON	0
+1.0	his	have	system	O	O
+1.0	Economist Alexander Guerrero	say	be serious threat of nationalization	PERSON	0
+1.0	nationalization	have	long history of failure around world	0	0
+1.0	December election	have	opposition leader	O	O
+1.0	Samuel Bodman	be	US	PERSON	LOCATION
+1.0	President Hugo Chavez	ask	legislature	0	0
+1.0	Samuel Bodman	be secretary of	US	PERSON	LOCATION
+1.0	current official name	republic of	bolivarian republic of Venezuela	LOCATION	LOCATION
+1.0	generator Electricidad de Caracas	be	suspend for 48 hour after share	ORGANIZATION	DURATION
+1.0	Caracas Stock Exchange	have	index	O	ORGANIZATION
+1.0	crude	have	refineries	O	O
+0.010717726303177022	capital market	have see as	such	0	0
+1.0	laws	have	mother	O	O
+1.0	Karl Marx	have	writings	O	PERSON
+0.6549568530399746	Economist Alexander Guerrero	comment on	market rout	PERSON	0
+1.0	Venezuela	's firm be	PDVSA	LOCATION	ORGANIZATION
+1.0	Federation	have	president	O	ORGANIZATION
+1.0	venezuelan stock price	plunge as	Washington call	0	LOCATION
+1.0	its share	be	trade	0	0
+1.0	opposite	fight	corruption	0	0
+1.0	generator Electricidad de Caracas	be	suspend for hour after share	ORGANIZATION	0
+1.0	stock price	plunge as	Washington	0	LOCATION
+1.0	their	have	shares	O	O
+1.0	Verizon	be of	United States	ORGANIZATION	LOCATION
+1.0	generator Electricidad Caracas	be	suspend for hour after they share	ORGANIZATION	0
+0.4548331526354403	businessman	speak to	television Globovision	0	ORGANIZATION
+1.0	generator Electricidad Caracas	be	suspend for 48 hour after they share	ORGANIZATION	DURATION
+0.7079255708650676	Venezuela	replace	current name	LOCATION	DATE
+1.0	Chavez	of	intention	PERSON	0
+0.7079255708650676	Venezuela	replace	official name	LOCATION	LOCATION
+0.7687907449787104	measure	fight	corruption	0	0
+1.0	nationalization	have	threat	O	O
+1.0	official	long deplore	nationalization plan	0	0
+1.0	nationalization	have	history of failure	0	0
+1.0	Chavez	create	Socialist Republic of Venezuela establish in 1999 constitution	PERSON	DATE
+1.0	stock price	plunge at_time	Tuesday	0	DURATION
+0.4548331526354403	businessman	speak to	brazilian television Globovision	0	ORGANIZATION
+1.0	index	plunge	18.66 percent	0	PERCENT
+1.0	President Hugo Chavez	take	control of foreign-held business	PERSON	0
+1.0	CANTV	be own by	Verizon of United States	ORGANIZATION	ORGANIZATION
+1.0	measure	be	opposite	0	0
+1.0	odds	be with	Chavez	0	PERSON
+1.0	stock price	plunge as	Washington call on Caracas	0	LOCATION
+1.0	Economist Alexander Guerrero	say	be serious threat	PERSON	0
+1.0	contracts	have	sanctity	O	O
+1.0	CANTV	be partly own by	Verizon of United States	ORGANIZATION	ORGANIZATION
+1.0	Chavez	create	Socialist Republic of Venezuela establish	PERSON	LOCATION
+1.0	Monday	have	close	O	DATE
+1.0	intentions	have	details	O	O
+1.0	businessman	add in	reference	0	0
+1.0	aes	be power giant of	US	0	LOCATION
+1.0	creation	have	Measures	O	O
+1.0	Chavez	have	intentions	O	PERSON
+1.0	venezuelan stock price	plunge as	Washington	0	LOCATION
+1.0	its	have	shares	O	O
+1.0	trading	be in	telecom operator	0	0
+1.0	Chavez	declare plan at	same time	PERSON	0
+1.0	obligations	have	all	O	O
+1.0	President Hugo Chavez	announce at_time	Monday 's	PERSON	DATE
+1.0	President Hugo Chavez	take control in	The Bolivarian Republic of Venezuela	PERSON	LOCATION
+1.0	10.3 percent	be in	2006	PERCENT	DATE
+1.0	United States	have	Verizon	ORGANIZATION	LOCATION
+0.7079255708650676	Venezuela	establish in	1999 constitution	LOCATION	DATE
+1.0	President Hugo Chavez	nationalize	energy sector	PERSON	0
+1.0	failure	have	history	O	O
+1.0	Chavez	declare	plan	PERSON	0
+1.0	nationalization	be	well-worn	0	0
+1.0	generator Electricidad Caracas	be	suspend for 48 hour after share	ORGANIZATION	DURATION
+0.022365932509734954	Chavez	declare at	time	PERSON	0
+0.6549568530399746	Economist Alexander Guerrero	comment to	AFP	PERSON	ORGANIZATION
+1.0	telephone service	deteriorate consumer under	nationalization	0	0
+1.0	venezuelan stock price	plunge at_time	Tuesday	0	DURATION
+1.0	Electricidad	be control by	US	ORGANIZATION	LOCATION
+0.47937962732886696	CANTV	fall in	New York	ORGANIZATION	LOCATION
+1.0	official	long deplore nationalization plan in	Washington	0	LOCATION
+0.022365932509734954	Chavez	declare at	same time	PERSON	0
+1.0	Chavez	have	campaign promises	O	PERSON
+1.0	Globovision	be to	brazilian	ORGANIZATION	0
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+0.7079255708650676	Venezuela	replace	current official name	LOCATION	LOCATION
+1.0	Monday	from	close	DATE	0
+1.0	time	have	amount	O	O
+1.0	CANTV	be partly own by	Verizon	ORGANIZATION	ORGANIZATION
+1.0	Economist Alexander Guerrero	say	be threat of nationalization	PERSON	0
+1.0	venezuelan stock price	plunge as	Washington call on Caracas	0	LOCATION
+1.0	CANTV	be	own	ORGANIZATION	0
+1.0	businessman	add to	Chavez 's campaign promise	0	PERSON
+1.0	Venezuela	have	Republic	LOCATION	LOCATION
+1.0	CANTV	be	partly own	ORGANIZATION	0
+1.0	Chavez	to	campaign promise	PERSON	0
+1.0	refineries	have	control	O	O
+1.0	generator Electricidad de Caracas	be	suspend for hour after they share	ORGANIZATION	0
+1.0	Commerce	have	Chambers	ORGANIZATION	ORGANIZATION
+1.0	Chavez	create	Socialist Republic of Venezuela	PERSON	LOCATION
+1.0	Chambers	have	Federation	ORGANIZATION	ORGANIZATION
+1.0	Electricidad	be	control	ORGANIZATION	0
+1.0	capital market	have see	it	0	0
+1.0	nationalization	have	history of failure around world	0	0
+1.0	Chavez	declare plan at	time	PERSON	0
+1.0	investors	have	rights	O	O
+1.0	stock price	plunge as	Washington call	0	LOCATION
+1.0	Venezuela	with	government-owned oil firm	LOCATION	0
+1.0	nationalization	have	long history of failure	0	0
+1.0	generator Electricidad Caracas	be	suspend for hour after share	ORGANIZATION	0
+1.0	CANTV	fall	27.6 percent	ORGANIZATION	PERCENT
+1.0	Bible	have	writings	O	O
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	businesses	have	control	O	O
+1.0	telephone service	deteriorate	consumer	0	0
+1.0	His	have	remarks	O	O
+1.0	Samuel Bodman	be	Energy	PERSON	ORGANIZATION
+0.7079255708650676	Venezuela	replace	name	LOCATION	0
+1.0	CANTV	be own by	Verizon	ORGANIZATION	ORGANIZATION
+1.0	its	have	obligations	O	O
+1.0	country	have	bank	O	O
+1.0	nature	have	Measures	O	O
+1.0	his	have	speech	O	O
+1.0	official	deplore nationalization plan in	Washington	0	LOCATION
+1.0	constitution	have	reform	O	O
+1.0	socialism	have	cause	O	O
+1.0	ministries	have	creation	O	O
+1.0	nationalization	have	history	0	0
+1.0	President Hugo Chavez	take	control of key business	PERSON	0
+1.0	Federation of Chambers of Commerce	be	Jose Luis Betancourt	ORGANIZATION	PERSON
+1.0	nationalization	have	long history	0	0
+1.0	accepted international practice	be in	foreign company compensate at fair market value for asset	0	0
+1.0	its	have	refinery	O	O
+1.0	President Hugo Chavez	take	control of business	PERSON	0
+1.0	Venezuela	have	Socialist Republic	O	LOCATION
+1.0	its share	be	where trade	0	0
+1.0	President Hugo Chavez	take	control	PERSON	0
+1.0	Vladimir Ilich Lenin	have	writings	O	PERSON
+1.0	Economist Alexander Guerrero	say	be threat	PERSON	0
+1.0	its share	be	also trade	0	0
+1.0	its share	be	where also trade	0	0
+1.0	generator Electricidad de Caracas	be	suspend for 48 hour after they share	ORGANIZATION	DURATION
+1.0	Chavez	create	Socialist Republic	PERSON	LOCATION

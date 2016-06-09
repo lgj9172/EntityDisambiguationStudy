@@ -1,0 +1,33 @@
+1.0	management board	have	head	O	O
+1.0	Henning Kagermann	have	have CEO since 1998	PERSON	DATE
+1.0	SAP , the world 's leading maker of business software	have	chairman	O	O
+1.0	chief executive 's contract	be renew at_time	year	0	SET
+1.0	Hasso Plattner	say at_time	Wednesday	DURATION	DATE
+1.0	Hasso Plattner	tell	daily Sueddeutsche Zeitung	PERSON	SET
+1.0	We	reach	60	0	NUMBER
+1.0	executive 's contract	have	renew year	0	SET
+1.0	board	have	offer	O	O
+1.0	board	have	offer	0	0
+1.0	sap	would like	its current chairman	0	DATE
+1.0	executive 's contract	be renew at_time	year	0	SET
+1.0	world	have	maker	O	O
+1.0	group	have	supervisory board chief	0	0
+1.0	Henning Kagermann	have	have CEO	PERSON	0
+1.0	executive	have	contract	O	O
+1.0	sap	maker of	business software	0	0
+1.0	SAP	have	co-founder	O	ORGANIZATION
+1.0	sap	maker 's	world	0	0
+1.0	business software	have	maker	O	O
+1.0	at least another year	chief 's	group	DURATION	0
+1.0	group	have	board chief	O	O
+1.0	chief executive 's contract	have	renew year	0	SET
+1.0	sap	would like	its chairman	0	0
+1.0	Hasso Plattner	say in	newspaper interview	DURATION	0
+1.0	Hasso Plattner	tell	Sueddeutsche Zeitung	PERSON	ORGANIZATION
+0.9588533191859536	Hasso Plattner	co-founder of	sap	PERSON	0
+1.0	chief executive 's contract	have at	sap	0	0
+1.0	Sueddeutsche Zeitung	be	daily	ORGANIZATION	SET
+1.0	chief executive	have	contract	0	0
+1.0	world	have	lead maker of business software	0	0
+1.0	executive 's contract	have at	sap	0	0
+1.0	Hasso Plattner	co-founder of	sap	PERSON	0

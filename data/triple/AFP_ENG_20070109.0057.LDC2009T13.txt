@@ -1,0 +1,145 @@
+1.0	troops	have	withdrawal	O	O
+1.0	Ted Kennedy	say accord to	remark	PERSON	0
+1.0	Congress	be	poise Tuesday with US President George W. Bush	ORGANIZATION	LOCATION
+1.0	Republican lawmaker	tell	Fox News television	MISC	ORGANIZATION
+1.0	Robert Gates	will among	will witness schedule	PERSON	0
+1.0	hearing	be	important	0	0
+1.0	the Democratic lawmaker	have	years	DURATION	O
+1.0	many Republicans	express	reservation about surge	MISC	0
+0.7023989578870172	the fight	there to	Vietnam War	0	MISC
+1.0	Kennedy	liken	the fight there to Vietnam War	PERSON	MISC
+1.0	he original vote	be vote	I have cast in my 44 year	0	DURATION
+1.0	flurry	mark	start of push on series of wide	0	0
+1.0	Defense Secretary	have	Secretary	O	O
+1.0	Kennedy	liken	the fight there	PERSON	0
+1.0	flurry	also mark	start of push on series	0	0
+1.0	kids	have	lot	O	O
+1.0	Smith 's comment	come	one day ahead of policy address	PERSON	DURATION
+1.0	president	have	plan	O	O
+1.0	hearings	have	series	O	O
+1.0	Kennedy	liken	the	PERSON	0
+1.0	lawmaker	express	misgiving	0	0
+1.0	Congress	be poise at_time	Washington Tuesday	ORGANIZATION	DATE
+0.9736560720796034	serious misgiving	even lawmaker from	Bush 's republican party	0	PERSON
+1.0	Kennedy	liken	the fight	PERSON	0
+1.0	Congress	be	poise for showdown Tuesday with US President George W. Bush over he report plan	ORGANIZATION	LOCATION
+1.0	ground	be in	the come week	0	DATE
+1.0	Smith	have	comments	O	PERSON
+1.0	Robert Gates	will among	will witness	PERSON	0
+1.0	he vote	be best vote	I have cast	0	0
+1.0	Smith	have	comment	PERSON	0
+0.9736560720796034	misgiving	even lawmaker from	Bush 's republican party	0	PERSON
+1.0	senators	have	handful	O	O
+1.0	Congress	be	poise for showdown with US President George W. Bush over he report plan	ORGANIZATION	LOCATION
+1.0	The Democratic chairman of the House Committee on Foreign Affairs , Representative Tom Lantos	say in	statement	0	0
+1.0	Congress	be	poise Tuesday with US President George W. Bush over he report plan	ORGANIZATION	LOCATION
+1.0	business	have	hours	DURATION	O
+1.0	Republicans	express	reservation	MISC	0
+1.0	he original vote	be best vote	I have cast in my 44 year in United States Senate	0	LOCATION
+0.9736560720796034	misgiving	lawmaker from	Bush 's party	0	PERSON
+1.0	will witness	be in	which	0	0
+1.0	president	outline	plan	0	0
+1.0	US troop escalation	be in	Iraq	LOCATION	LOCATION
+0.7023989578870172	the	there to	Vietnam War	0	MISC
+1.0	Congress	be poise for	showdown	ORGANIZATION	0
+1.0	our troops	have	presence	O	O
+1.0	speech	have	copy	O	O
+1.0	flurry	mark	start	0	0
+1.0	lawmaker	express	serious misgiving	0	0
+1.0	44 year	be in	Senate	DURATION	ORGANIZATION
+1.0	Ted Kennedy	say accord to	prepared remark	PERSON	0
+1.0	he vote	be best vote	I have cast in my 44 year	0	DURATION
+1.0	lawmaker	say	add	0	0
+1.0	flurry	mark	start of push on series	0	0
+1.0	he original vote	be best vote	I have cast in my 44 year	0	DURATION
+1.0	Condoleezza Rice	be of	the United States Senate	PERSON	ORGANIZATION
+1.0	Congress	be	poise	ORGANIZATION	0
+1.0	hearings	have	flurry	O	O
+0.9736560720796034	misgiving	lawmaker from	Bush 's republican party	0	PERSON
+1.0	surge	be in	US force	0	LOCATION
+1.0	Kennedy	liken	the there	PERSON	0
+1.0	Congress	be poise with	US President George W. Bush	ORGANIZATION	LOCATION
+1.0	policy address	have	day	DURATION	O
+1.0	war	have	opponent	O	O
+1.0	harm	have	way	O	O
+1.0	flurry	also mark	start	0	0
+1.0	Congress	be	poise Tuesday with US President George W. Bush over he plan	ORGANIZATION	LOCATION
+1.0	troops	have	number	O	O
+1.0	push	have	start	O	O
+1.0	expect boost	be in	US force	0	LOCATION
+1.0	Smith 's comment	come	one day ahead of major policy address	PERSON	DURATION
+1.0	flurry	also mark	start of push on series of wide	0	0
+1.0	he vote	be vote	I have cast in my 44 year in United States Senate	0	LOCATION
+0.9736560720796034	serious misgiving	lawmaker from	Bush 's republican party	0	PERSON
+1.0	many Republicans	have	have mute	MISC	0
+1.0	US force	be in	Iraq	LOCATION	LOCATION
+1.0	he original vote	be vote	I have cast	0	0
+1.0	Congress	be poise with	US President George W. Bush over he report plan	ORGANIZATION	LOCATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+0.6518990858244217	express	reservation about	surge	0	0
+1.0	democratic lawmaker	say	add	0	0
+1.0	Congress	be	poise for showdown Tuesday with US President George W. Bush over he plan	ORGANIZATION	LOCATION
+1.0	Congress	be	poise for showdown with US President George W. Bush over he plan	ORGANIZATION	LOCATION
+1.0	troops	be in	Iraq	0	LOCATION
+1.0	we	effect	change	0	0
+1.0	ground	have	lot	O	O
+1.0	term	have	sense	O	O
+1.0	he vote	be best vote	I have cast in my 44 year in United States Senate	0	LOCATION
+0.9736560720796034	misgiving	even lawmaker from	Bush 's party	0	PERSON
+1.0	opposition democrat	have	have outspoken	0	0
+1.0	senior Senator	say at_time	Washington Tuesday	0	DATE
+1.0	the Democratic lawmaker	have	vote	O	O
+1.0	Senator	say at_time	Washington Tuesday	0	DATE
+1.0	he original vote	be vote	I have cast in my 44 year in United States Senate	0	LOCATION
+1.0	Republicans	have	have mute	MISC	0
+1.0	Robert Gates	will among	in which will witness	PERSON	0
+1.0	Congress	be	poise for showdown with US President George W. Bush	ORGANIZATION	LOCATION
+1.0	Senate	be in	United States	ORGANIZATION	LOCATION
+1.0	Republicans	express	reservation about surge	MISC	0
+1.0	Smith 's comment	come	one day	PERSON	DURATION
+1.0	House Committee	have	chairman	O	ORGANIZATION
+1.0	he vote	be vote	I have cast in my 44 year	0	DURATION
+1.0	many Republicans	express	reservation	MISC	0
+1.0	democratic Senator	say at_time	Washington Tuesday	0	DATE
+1.0	his	have	plans	O	O
+1.0	Congress	be	poise for showdown Tuesday	ORGANIZATION	DATE
+1.0	Congress	have	houses	O	ORGANIZATION
+1.0	our	have	troops	O	O
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	George W. Bush	be with	United States	PERSON	LOCATION
+1.0	Senator Gordon Smith	have	concern	O	O
+1.0	Congress	be poise with	US President George W. Bush over he plan	ORGANIZATION	LOCATION
+1.0	president	be	in which expect	0	0
+1.0	Kennedy	liken	the there to Vietnam War	PERSON	MISC
+1.0	senators	have	troops	O	O
+1.0	president	have	plan	0	0
+1.0	the Democratic lawmaker	have	bill	O	O
+1.0	State Condoleezza Rice and Defense Secretary	have	country	O	O
+1.0	he original vote	be best vote	I have cast	0	0
+1.0	war	have	handling	O	O
+1.0	the Democratic lawmaker	have cast in	my 44 year in United States Senate	0	LOCATION
+1.0	Iraq	have	handling	O	O
+0.9736560720796034	serious misgiving	even lawmaker from	Bush 's party	0	PERSON
+1.0	opposition democrat	have	have strongly outspoken	0	0
+1.0	flurry	mark	start of push	0	0
+1.0	George W. Bush	be president of	United States	PERSON	LOCATION
+1.0	State Condoleezza Rice and Defense Secretary	have	troops	O	O
+1.0	Smith 's comment	come	one day of policy address	PERSON	DURATION
+1.0	Robert Gates	will among	in which will witness schedule	PERSON	0
+1.0	he vote	be vote	I have cast	0	0
+1.0	the Democratic lawmaker	have cast in	my 44 year	0	DURATION
+1.0	flurry	also mark	start of push	0	0
+1.0	Congress	be	poise for showdown Tuesday with US President George W. Bush	ORGANIZATION	LOCATION
+1.0	houses	have	control	O	O
+1.0	Bush	from	republican party	PERSON	0
+1.0	president	be	expect	0	0
+1.0	we	owe	the term	0	0
+1.0	Bush	have	party	O	PERSON
+1.0	senior democratic Senator	say at_time	Washington Tuesday	0	DATE
+0.9736560720796034	serious misgiving	lawmaker from	Bush 's party	0	PERSON
+1.0	fresh troops	have	kids	O	O
+1.0	we	effect	real change	0	0
+1.0	my concern	be with	surge	0	0
+1.0	wide	have	series	O	O
+1.0	president	outline	new plan	0	0
+1.0	Smith 's comment	come	one day of major policy address	PERSON	DURATION

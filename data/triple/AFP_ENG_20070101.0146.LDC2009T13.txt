@@ -1,0 +1,34 @@
+1.0	second event	jump	calendar	ORDINAL	0
+1.0	second event	jump calendar of	Finland 's Matti Hautamaeki	ORDINAL	PERSON
+1.0	Matti Hautamaeki	have	jumping	O	PERSON
+1.0	Matti Hautamaeki	be of	Japan	PERSON	LOCATION
+1.0	event	jump calendar of	Finland 's Matti Hautamaeki	0	PERSON
+1.0	second event	jump calendar of	ahead Finland 's Matti Hautamaeki of Japan	ORDINAL	PERSON
+1.0	second event	jump calendar here of	Finland 's Matti Hautamaeki of Japan	ORDINAL	PERSON
+1.0	Switzerland	have	Andreas Kuettel	PERSON	LOCATION
+1.0	Switzerland	have	Andreas Kuettel	LOCATION	PERSON
+1.0	Japan	have	Matti Hautamaeki	PERSON	LOCATION
+1.0	second event	jump calendar at_time	Monday	ORDINAL	DATE
+1.0	event	jump calendar at_time	Monday	0	DATE
+1.0	Finland	of	Matti Hautamaeki	LOCATION	PERSON
+1.0	second event	be in	Four Hills	ORDINAL	LOCATION
+1.0	event	jump calendar here of	Finland 's Matti Hautamaeki	0	PERSON
+1.0	event	have	jump	O	O
+1.0	event	jump calendar of	Finland 's Matti Hautamaeki of Japan	0	PERSON
+1.0	Noriaki Kasai	have	jumping	O	PERSON
+1.0	second event	jump calendar here of	Finland 's Matti Hautamaeki	ORDINAL	PERSON
+1.0	event	jump	calendar	0	0
+1.0	second event	jump calendar here at_time	Monday	ORDINAL	DATE
+1.0	second event	jump calendar of	Finland 's Matti Hautamaeki of Japan	ORDINAL	PERSON
+1.0	second event	jump here	calendar	ORDINAL	0
+1.0	event	jump here	calendar	0	0
+1.0	second event	jump calendar here of	ahead Finland 's Matti Hautamaeki	ORDINAL	PERSON
+1.0	event	jump calendar here of	ahead Finland 's Matti Hautamaeki	0	PERSON
+1.0	event	jump calendar of	ahead Finland 's Matti Hautamaeki of Japan	0	PERSON
+1.0	second event	jump calendar here of	ahead Finland 's Matti Hautamaeki of Japan	ORDINAL	PERSON
+1.0	second event	jump calendar of	ahead Finland 's Matti Hautamaeki	ORDINAL	PERSON
+1.0	event	jump calendar here of	ahead Finland 's Matti Hautamaeki of Japan	0	PERSON
+1.0	event	jump calendar of	ahead Finland 's Matti Hautamaeki	0	PERSON
+1.0	event	jump calendar here at_time	Monday	0	DATE
+1.0	Finland	have	Matti Hautamaeki	PERSON	LOCATION
+1.0	event	jump calendar here of	Finland 's Matti Hautamaeki of Japan	0	PERSON

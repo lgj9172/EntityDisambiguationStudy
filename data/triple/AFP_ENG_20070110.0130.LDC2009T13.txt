@@ -1,0 +1,54 @@
+1.0	russian oil	also stop	flow	0	0
+1.0	Hungary	record	drop	LOCATION	0
+1.0	tons	have	rate	O	O
+1.0	oil supplies	have	all	O	O
+1.0	Hungary	record drop in	Russian oil supplies to Hungary , cut since Monday following a transit dispute between Russia and Belarus	LOCATION	0
+1.0	russian oil	also stop	flow on Monday	0	DATE
+1.0	oil	also stop	flow on Monday	0	DATE
+1.0	oil	also stop	flow	0	0
+1.0	Hungary	experience oil supply shortage follow	dispute	LOCATION	0
+1.0	Hungary	receive	all its oil supplies	LOCATION	0
+1.0	transit payment	have	form	O	O
+1.0	Hungary	already experience oil supply shortage follow	dispute over oil price	LOCATION	0
+1.0	oil	stop	flow	0	0
+1.0	oil	stop	flow to Czech Republic	0	LOCATION
+1.0	Hungary	record drop at	its border	LOCATION	0
+1.0	russian oil	flow on	Monday	0	DATE
+1.0	Hungary	already experience oil supply shortage in	early 2006	LOCATION	DATE
+1.0	Hungary	already experience oil supply shortage follow	dispute over oil price between Russia	LOCATION	LOCATION
+1.0	Hungary	receive	almost all of oil supplies	LOCATION	0
+1.0	authority	be in	former soviet republic	0	0
+1.0	foreign ministry spokesman	tell	AFP	0	ORGANIZATION
+1.0	russian oil	stop	flow on Monday	0	DATE
+1.0	Hungary	receive	all oil supplies	LOCATION	0
+1.0	russian oil	stop	flow to Czech Republic	0	LOCATION
+1.0	talk	be in	Brussels	0	LOCATION
+1.0	Hungary	experience	oil supply shortage	LOCATION	0
+1.0	oil	flow on	Monday	0	DATE
+1.0	Hungary	experience oil supply shortage follow	dispute over oil price between Russia	LOCATION	LOCATION
+1.0	ministry spokesman	tell afp at_time	Wednesday	0	DATE
+1.0	complete cut	be in	evening	0	TIME
+1.0	Hungary	receive	all of its oil supplies	LOCATION	0
+1.0	Hungary	already experience oil supply shortage follow	dispute	LOCATION	0
+1.0	oil	stop	flow on Monday	0	DATE
+1.0	Hungary	receive	almost all oil supplies	LOCATION	0
+1.0	russian oil	flow to	Czech Republic	0	LOCATION
+1.0	Hungary	receive	all of oil supplies	LOCATION	0
+1.0	Hungary	experience oil supply shortage follow	dispute over oil price	LOCATION	0
+1.0	oil	also stop	flow to Czech Republic on Monday	0	LOCATION
+1.0	russian oil	also stop	flow to Czech Republic on Monday	0	LOCATION
+1.0	Hungary	receive	almost all of its oil supplies	LOCATION	0
+1.0	Hungary	have	border	O	O
+1.0	russian oil	also stop	flow to Czech Republic	0	LOCATION
+1.0	Hungary	record drop at	its border on Monday	LOCATION	DATE
+1.0	russian oil	stop	flow to Czech Republic on Monday	0	LOCATION
+1.0	ministry spokesman	tell	AFP	0	ORGANIZATION
+1.0	russian oil	stop	flow	0	0
+1.0	oil	stop	flow to Czech Republic on Monday	0	LOCATION
+1.0	Hungary	have	oil reserves	O	O
+1.0	oil	flow to	Czech Republic	0	LOCATION
+1.0	oil	also stop	flow to Czech Republic	0	LOCATION
+1.0	Hungary	already experience	oil supply shortage	LOCATION	0
+1.0	Hungary	experience oil supply shortage in	early 2006	LOCATION	DATE
+1.0	Hungary	receive	almost all its oil supplies	LOCATION	0
+1.0	its	have	oil supplies	O	O

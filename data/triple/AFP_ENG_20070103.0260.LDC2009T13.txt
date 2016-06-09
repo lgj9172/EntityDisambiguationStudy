@@ -1,0 +1,7 @@
+1.0	Raphael Tuju	be	Foreign Affairs	PERSON	ORGANIZATION
+1.0	country	have	border	O	O
+1.0	country	have	border	0	0
+1.0	Raphael Tuju	be minister of	Foreign Affairs	PERSON	ORGANIZATION
+1.0	Kenya	have	government	O	LOCATION
+1.0	Foreign Affairs Minister Raphael Tuju	say at_time	Wednesday	PERSON	DATE
+1.0	Kenya	have	government	LOCATION	0

@@ -1,0 +1,131 @@
+0.9445219455178006	equal	record for	bowler in series	0	0
+1.0	it	be	Sreesanth 's wicket in three match	0	NUMBER
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series against South Africa	ORDINAL	LOCATION
+1.0	India 's bowler	keep clamp on	south african batsman on day of test	LOCATION	DATE
+1.0	Graeme Smith	seem	set	PERSON	0
+1.0	Graeme Smith	go with	on-drive for four	PERSON	NUMBER
+1.0	India 's bowler	keep clamp on	south african batsman on day	LOCATION	DATE
+1.0	India 's bowler	keep clamp on	african batsman	LOCATION	DURATION
+1.0	veteran leg-spinner Anil Kumble	claim	wicket	PERSON	0
+1.0	India 's bowler	keep clamp on	african batsman on third day of third test	LOCATION	DATE
+1.0	Sreesanth 's 18th wicket	be in	three match	ORDINAL	NUMBER
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series against South Africa	PERSON	LOCATION
+1.0	South Africa	resume with	Smith Amla push	LOCATION	PERSON
+1.0	Sreesanth	find	immaculate line	0	0
+1.0	Sreesanth	have	wicket	O	PERSON
+1.0	Sreesanth	come on	on bowl of he spell of day	0	DATE
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series	PERSON	0
+1.0	Anil Kumble	have at_time	Virender Sehwag at short midwicket	PERSON	PERSON
+1.0	Anil Kumble	steadily have at_time	Virender Sehwag at midwicket	PERSON	PERSON
+1.0	Graeme Smith	go off	Zaheer Khan	PERSON	PERSON
+1.0	India	behind	first innings total of 414	LOCATION	ORDINAL
+1.0	Sreesanth 's 18th wicket	equal	record	ORDINAL	0
+1.0	India 's bowler	keep clamp on	african batsman on day	LOCATION	DATE
+1.0	Sreesanth	immediately find	immaculate line	0	0
+1.0	South Africa	resume with	Smith Amla push score along	LOCATION	PERSON
+1.0	New batsmen Jacques Kallis	score easily against	bowling	PERSON	0
+1.0	India 's bowler	keep clamp on	batsman on day	LOCATION	DATE
+1.0	veteran leg-spinner Anil Kumble	bowl accurately	fast bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	Kumble	bowling in	tandem	PERSON	0
+1.0	Anil Kumble	have at_time	Virender Sehwag	PERSON	PERSON
+1.0	Sreesanth 's wicket	equal	record	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for bowler	PERSON	0
+1.0	century	have	runs	O	DURATION
+1.0	day	have	spell	O	DATE
+0.9445219455178006	equal	record for	bowler	0	0
+1.0	veteran leg-spinner Anil Kumble	claim	bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	India	have	innings total	O	LOCATION
+1.0	Graeme Smith	fall	six run short of century	PERSON	DURATION
+1.0	Graeme Smith	hit	low catch	PERSON	0
+1.0	Graeme Smith	hit catch to	Virender Sehwag at short midwicket	PERSON	0
+1.0	indian bowler	be in	series against South Africa	0	LOCATION
+1.0	south african inning	lose	its momentum	0	0
+1.0	South Africa	resume with	Smith Amla	LOCATION	PERSON
+1.0	Amla	edge	catch	PERSON	0
+1.0	Test	have	day	DATE	O
+1.0	veteran leg-spinner Anil Kumble	bowl	bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	veteran leg-spinner Anil Kumble	bowl accurately	bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	New batsmen Jacques Kallis	score easily against	Kumble	PERSON	PERSON
+1.0	India 's bowler	keep clamp on	african batsman on day of test	LOCATION	DATE
+1.0	India 's bowler	keep	tight clamp	LOCATION	DURATION
+1.0	India 's bowler	keep clamp on	south african batsman on day of third test	LOCATION	DATE
+1.0	New batsmen Jacques Kallis	be	unable	PERSON	0
+1.0	Graeme Smith	hit	catch	PERSON	0
+1.0	Sreesanth	immediately find	line	0	0
+1.0	India 's bowler	keep clamp on	batsman on third day of test	LOCATION	DATE
+1.0	India 's bowler	keep clamp on	batsman on third day	LOCATION	DATE
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for bowler in series against South Africa	PERSON	LOCATION
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series against South Africa	ORDINAL	LOCATION
+1.0	inning	lose	its momentum	0	0
+1.0	Graeme Smith	make	94	PERSON	NUMBER
+1.0	South Africa	resume on	144	LOCATION	NUMBER
+1.0	Graeme Smith	whip ball through	midwicket	PERSON	0
+1.0	India 's bowler	keep clamp on	south african batsman	LOCATION	DURATION
+1.0	Anil Kumble	steadily have at_time	Virender Sehwag	PERSON	PERSON
+0.9445219455178006	equal	record for	indian bowler	0	0
+1.0	it	be	Sreesanth 's wicket	0	PERSON
+1.0	New batsmen Jacques Kallis	score against	Kumble	PERSON	PERSON
+1.0	Graeme Smith	catch by	diving	PERSON	0
+1.0	spell	have	bowl	O	O
+1.0	New batsmen Jacques Kallis	score easily against	bowling in tandem	PERSON	0
+1.0	India 's bowler	keep clamp on	african batsman on day of third test	LOCATION	DATE
+1.0	Graeme Smith	go into	ninety	PERSON	0
+1.0	Sreesanth	find	line	0	0
+1.0	India 's bowler	keep clamp on	south african batsman on third day	LOCATION	DATE
+1.0	it	be	Sreesanth 's 18th wicket in three match	0	NUMBER
+0.9445219455178006	equal	record for	bowler in series against South Africa	0	LOCATION
+1.0	414	have	innings total	O	NUMBER
+1.0	India	have	bowlers	O	LOCATION
+1.0	Sreesanth 's 18th wicket	equal	record for bowler	ORDINAL	0
+1.0	New batsmen Jacques Kallis	score easily	Ashwell Prince	PERSON	PERSON
+1.0	India 's bowler	keep clamp on	african batsman on third day	LOCATION	DATE
+1.0	Anil Kumble	have at_time	Virender Sehwag at midwicket	PERSON	PERSON
+1.0	Graeme Smith	go with	successive on-drive	PERSON	0
+1.0	India 's bowler	keep clamp on	batsman on day of third test	LOCATION	DATE
+1.0	India 's bowler	keep clamp at	Newlands Thursday	LOCATION	DATE
+1.0	Sreesanth	come on	on bowl of he spell	0	0
+1.0	New batsmen Jacques Kallis	score	Ashwell Prince	PERSON	PERSON
+1.0	Anil Kumble	steadily have at_time	Virender Sehwag at short midwicket	PERSON	PERSON
+1.0	India 's bowler	keep clamp on	south african batsman on third day of third test	LOCATION	DATE
+1.0	Sreesanth	come on	on bowl of he first spell of day	0	ORDINAL
+1.0	India 's bowler	keep clamp on	south african batsman on third day of test	LOCATION	DATE
+1.0	South Africa	resume for	one	LOCATION	NUMBER
+1.0	Graeme Smith	fall	six run short	PERSON	NUMBER
+0.9445219455178006	equal	record for	indian bowler in series	0	0
+1.0	delivery	have	pitch	O	O
+1.0	India 's bowler	keep clamp on	african batsman on third day of test	LOCATION	DATE
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for indian bowler	PERSON	0
+1.0	India 's bowler	keep clamp on	batsman	LOCATION	DURATION
+1.0	Sreesanth 's wicket	equal	record for bowler in series	PERSON	0
+1.0	Amla	edge catch to	wicketkeeper Dinesh Karthik	PERSON	PERSON
+1.0	New batsmen Jacques Kallis	score against	bowling	PERSON	0
+1.0	Sreesanth	come on	on bowl	0	0
+1.0	Zaheer Khan	have	went	O	PERSON
+1.0	his	have	spell	O	O
+1.0	India 's bowler	keep clamp on	batsman on day of test	LOCATION	DATE
+1.0	Graeme Smith	fall	six run	PERSON	NUMBER
+1.0	veteran leg-spinner Anil Kumble	claim	fast bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	it	be	Sreesanth 's 18th wicket	0	ORDINAL
+1.0	India 's bowler	keep clamp on	batsman on third day of third test	LOCATION	DATE
+1.0	Amla	have	dismissal	O	PERSON
+1.0	Graeme Smith	go with	successive on-drive for four	PERSON	NUMBER
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler	ORDINAL	0
+0.9445219455178006	equal	record for	indian bowler in series against South Africa	0	LOCATION
+1.0	Graeme Smith	go with	on-drive	PERSON	0
+1.0	Graeme Smith	fall	six run of century	PERSON	DURATION
+1.0	a wicket each	have	momentum	O	O
+1.0	New batsmen Jacques Kallis	unable	Ashwell Prince	PERSON	PERSON
+1.0	India 's bowler	keep	clamp	LOCATION	DURATION
+1.0	fast bowler Shanthakumaran Sreesanth	have	delivery	O	O
+1.0	Amla	try	square	PERSON	0
+1.0	veteran leg-spinner Anil Kumble	bowl	fast bowler Shanthakumaran Sreesanth	PERSON	PERSON
+1.0	bowling	be in	tandem	0	0
+1.0	Graeme Smith	have	Test century	DATE	O
+1.0	New batsmen Jacques Kallis	score against	bowling in tandem	PERSON	0
+1.0	India	have	bowler	LOCATION	0
+1.0	Graeme Smith	whip	ball	PERSON	0
+1.0	Sreesanth	have	18th wicket in three match equal	PERSON	NUMBER
+1.0	african inning	lose	its momentum	0	0
+1.0	Sreesanth	come on	on bowl of he first spell	0	ORDINAL

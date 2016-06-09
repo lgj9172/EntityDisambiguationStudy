@@ -1,0 +1,79 @@
+1.0	region	of	digital traffic	0	0
+0.8152966538055264	most	smaller company depend	depend internet service	0	0
+1.0	earthquake	spark	communication disruption	0	0
+1.0	internet service provider	reroute	much	0	0
+1.0	Ha Yung-kuen	say	add	0	0
+1.0	Boxing Day temblor	rip through	submarine datum cable	DURATION	DURATION
+1.0	Ha Yung-kuen	general of	telecommunications	PERSON	0
+1.0	traffic	have	much	O	O
+1.0	cables	have	one	NUMBER	O
+0.9814047466656882	another	receive repair for	damage sustain	0	0
+1.0	city	have	telecom authority OFTA hourly update	0	SET
+0.633593924617174	mobile service	be	fax line	0	DURATION
+1.0	cable	carry	most of region 's digital traffic	0	0
+1.0	OFTA	have receive	only 20 inquiry from Internet user	ORGANIZATION	NUMBER
+1.0	cable	carry	most of region 's traffic	0	0
+1.0	city	have	telecom authority OFTA updates	O	O
+1.0	service	be	fax line	0	DURATION
+1.0	congestion	have	reports	O	O
+1.0	their	have	networks	O	O
+1.0	repair ship	mend	fibre optic cable sever off Taiwan	0	LOCATION
+1.0	OFTA	have	director general	O	ORGANIZATION
+1.0	month	have	middle	DATE	DATE
+1.0	repair ship	mend	fibre cable sever in Boxing Day quake off Taiwan	0	DURATION
+0.9814047466656882	another	receive repair for	damage sustain in rough sea	0	0
+1.0	Telecom	send	Internet service provider	0	MISC
+1.0	traffic	have	most	O	O
+0.4668178660907376	damage	sustain in	sea	0	0
+1.0	Hong Kong	on	cable	LOCATION	0
+1.0	Telecom	send	city 's telecom authority OFTA hourly update	0	SET
+1.0	submarine links	have	one	NUMBER	O
+1.0	repair ship	mend	fibre optic cable sever in Boxing Day quake	0	DURATION
+0.633593924617174	service	be	fax line	0	DURATION
+1.0	cable	carry	most	0	0
+1.0	internet service provider	reroute	much of they traffic	0	0
+1.0	Hong Kong telecom authority	assume emergency power as	firm	LOCATION	0
+1.0	mobile service	be	fax line	0	DURATION
+1.0	Hong Kong	have	internet capacity	LOCATION	0
+1.0	7.1-magnitude earthquake	spark	communication disruption	0	0
+1.0	7.1-magnitude earthquake	spark communication disruption in	Taiwan	0	LOCATION
+1.0	telecommunications	have	director general	O	O
+1.0	Internet service providers	have	traffic	O	O
+1.0	Telecom	send	city 's telecom authority OFTA update	0	ORGANIZATION
+1.0	region	have	traffic	O	O
+1.0	company	suffer	most	0	0
+0.9814047466656882	another	receive repair for	damage sustain in sea	0	0
+1.0	repair ship	mend	fibre cable	0	0
+0.8152966538055264	most	company depend	depend internet service	0	0
+1.0	Boxing Day temblor	rip in	Taiwan Straits	DURATION	LOCATION
+1.0	7.1-magnitude earthquake	spark	widespread communication disruption	0	0
+0.9814047466656882	another	receive repair for	damage	0	0
+1.0	OFTA	have	act director general of telecommunications	ORGANIZATION	0
+0.9814047466656882	another	receive	repair	0	0
+1.0	earthquake	spark communication disruption in	Taiwan	0	LOCATION
+1.0	OFTA	have receive	only 20 inquiry	ORGANIZATION	NUMBER
+1.0	Hong Kong telecom authority	assume	emergency power	LOCATION	0
+1.0	Ha Yung-kuen	say	phone call	PERSON	DURATION
+1.0	Hong Kong	have	cables	O	LOCATION
+1.0	month	have	end	DATE	DATE
+1.0	Ha Yung-kuen	say	international phone call	PERSON	DURATION
+1.0	their	have	way	O	O
+1.0	mobile service	be at_time	week	0	DURATION
+1.0	repair ship	mend	fibre cable sever in Boxing Day quake	0	DURATION
+1.0	service	be	fear	0	0
+1.0	repair ship	mend	fibre optic cable sever in Boxing Day quake off Taiwan	0	DURATION
+1.0	repair ship	mend	fibre optic cable sever	0	0
+1.0	business	have	close	O	O
+1.0	he	urge	surfer	0	0
+1.0	Hong Kong	have	Internet capacity	O	LOCATION
+0.8152966538055264	most	company depend	depend bought-in internet service	0	0
+0.8152966538055264	most	smaller company depend	depend bought-in internet service	0	0
+1.0	earthquake	spark	widespread communication disruption	0	0
+1.0	repair ship	mend	fibre optic cable	0	0
+1.0	service	be at_time	week	0	DURATION
+1.0	the Taiwan Straits	have	severed	O	LOCATION
+1.0	Hong Kong telecom authority	assume emergency power at_time	Tuesday	LOCATION	DURATION
+1.0	repair ship	mend	fibre cable sever off Taiwan	0	LOCATION
+0.4668178660907376	damage	sustain in	rough sea	0	0
+1.0	repair ship	mend	fibre cable sever	0	0
+1.0	smaller company	suffer	most	0	0

@@ -1,0 +1,40 @@
+1.0	EMI 's cost-saving plan	deliver	110 million pound	ORGANIZATION	MONEY
+1.0	EMI 's cost-saving plan	deliver	110 million pound of savings	ORGANIZATION	MONEY
+1.0	EMI Music	have	full-year revenue	0	DURATION
+1.0	change	be in	outlook for group for financial year	0	DATE
+1.0	EMI Music 's full-year revenue	decline by	approximately six percent to 10 percent on currency basis	DURATION	PERCENT
+1.0	world	have	third-largest music group	0	0
+1.0	EMI Music 's revenue	decline by	approximately six percent to 10 percent on constant currency basis	0	PERCENT
+1.0	EMI Music 's full-year revenue	decline by	approximately six percent	DURATION	PERCENT
+1.0	EMI Music 's revenue	decline by	approximately six percent to 10 percent	0	PERCENT
+1.0	EMI 's plan	deliver	110 million pound of savings	ORGANIZATION	MONEY
+1.0	EMI Music 's revenue	decline by	approximately six percent	0	PERCENT
+1.0	EMI Music	have	revenues	O	O
+1.0	EMI Music 's revenue	decline by	approximately six percent to 10 percent on currency basis	0	PERCENT
+1.0	EMI	have	plan	O	ORGANIZATION
+1.0	world	have	music group	O	O
+1.0	EMI 's cost-saving plan	deliver	110 million pound of annual savings	ORGANIZATION	SET
+1.0	EMI Music division	have	chairman chief executive	O	O
+1.0	EMI 's plan	deliver	110 million pound	ORGANIZATION	MONEY
+1.0	EMI	have	cost-saving plan	ORGANIZATION	0
+1.0	EMI Music 's revenue	decline as	result	0	0
+1.0	EMI Music 's full-year revenue	decline by	approximately six percent to 10 percent	DURATION	PERCENT
+1.0	Alain Levy	be	Frenchman	PERSON	MISC
+1.0	EMI Music	have	second-half financial performance to date combine with expectation continue	ORGANIZATION	DATE
+1.0	Alain Levy	executive of	british group 's EMI Music division	PERSON	ORGANIZATION
+1.0	restructuring initiatives	have	disruption	O	O
+1.0	EMI 's cost-saving plan	be	expect	ORGANIZATION	0
+1.0	EMI 's plan	deliver	110 million pound of annual savings	ORGANIZATION	SET
+1.0	EMI	cut	job	ORGANIZATION	0
+1.0	EMI Music 's full-year revenue	decline as	result	DURATION	0
+1.0	EMI Music 's full-year revenue	decline at_time	the financial year	DURATION	DURATION
+1.0	group	have	EMI Music division	O	O
+1.0	cost	be in	part	0	0
+1.0	EMI 's plan	be	expect	ORGANIZATION	0
+1.0	EMI Music 's revenue	decline at_time	the financial year	0	DURATION
+1.0	EMI Music 's full-year revenue	decline by	approximately six percent to 10 percent on constant currency basis	DURATION	PERCENT
+1.0	Alain Levy	executive since	October 2001	PERSON	DATE
+1.0	savings	have	pounds	MONEY	O
+1.0	EMI Music	have	performance	O	O
+1.0	EMI	group 's	world	ORGANIZATION	0
+1.0	EMI	say at_time	Friday	ORGANIZATION	DATE

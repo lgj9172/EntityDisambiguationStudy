@@ -1,0 +1,30 @@
+1.0	Charlton	stay	second bottom	PERSON	ORDINAL
+1.0	Arsenal	have	striker	O	ORGANIZATION
+1.0	defender Osei Sankofa	be	21	PERSON	NUMBER
+1.0	Charlton	believe	Charlton	PERSON	0
+0.09570040578057093	Charlton	stay in	table	PERSON	0
+1.0	Robin van Persie	be in	the 29th minute	PERSON	DATE
+1.0	they	move into	fourth place	0	ORDINAL
+1.0	that	be	blow	0	0
+1.0	that	be	big blow	0	0
+1.0	Charlton	stay	bottom	PERSON	0
+1.0	they	move into	place	0	0
+1.0	they	move up into	place	0	0
+1.0	Sankofa 21	be	dismiss	NUMBER	0
+1.0	decision	be	triple	0	0
+1.0	defender Osei Sankofa	have	sending-off	O	PERSON
+1.0	Charlton	stay bottom in	table	PERSON	0
+1.0	they	move up into	fourth place	0	ORDINAL
+1.0	Charlton	have	full	PERSON	0
+1.0	Arsenal	have	dutch international striker	ORGANIZATION	0
+1.0	defender Osei Sankofa	be	dismiss	PERSON	0
+1.0	their	have	Premier League defeat	O	O
+1.0	that	be big blow for	team	0	0
+1.0	Alan Pardew	be manager of	Charlton manager Alan Pardew	PERSON	PERSON
+1.0	that	be blow for	team	0	0
+1.0	Arsenal	have	victory	ORGANIZATION	0
+1.0	Arsenal	have	victory	O	ORGANIZATION
+1.0	Alan Pardew	be	Charlton manager Alan Pardew	PERSON	PERSON
+1.0	Charlton	have back	full	PERSON	0
+1.0	that	be	big	0	0
+1.0	Arsenal	be on	Tuesday	ORGANIZATION	DATE

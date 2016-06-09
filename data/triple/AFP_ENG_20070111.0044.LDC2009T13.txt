@@ -1,0 +1,130 @@
+1.0	Beijing	allow	yuan	LOCATION	0
+1.0	Hong Kong Monetary Authority	have	executive	O	ORGANIZATION
+1.0	7.7970	have	high	O	NUMBER
+1.0	bonds	have	issue	O	O
+1.0	reaction	be	positive	0	0
+0.23820970033564898	it	move towards	goal of convertibility	0	0
+1.0	senior Hong Kong official	denominate	bond	LOCATION	0
+1.0	Hong Kong official	denominate	bond	LOCATION	0
+1.0	The reaction	demonstrate	China 's determination	0	LOCATION
+1.0	Beijing	allow	greater margin	LOCATION	0
+1.0	yuan	rise at_time	Thursday	0	DATE
+1.0	Joseph Yam	executive of	Hong Kong Monetary Authority	PERSON	ORGANIZATION
+1.0	yuan	partly inspire by	move of record trade surplus	0	0
+1.0	David Li	be chairman of	East Asia	PERSON	LOCATION
+1.0	Beijing	allow	control margin of flexibility	LOCATION	0
+1.0	Beijing	allow	yuan appreciate	LOCATION	0
+1.0	savings	grow over	next two year	0	DURATION
+1.0	yuan	rise to	post-revaluation high of 7.7970	0	NUMBER
+1.0	its system	make	move	0	0
+1.0	yuan	inspire by	move of record trade surplus	0	0
+1.0	Beijing	allow	yuan appreciate more rapidly	LOCATION	0
+0.23820970033564898	it	move towards	ultimate goal of yuan convertibility	0	0
+0.33669769426858	Hong Kong bank	have	have allow since February 2004	LOCATION	DATE
+1.0	yuan	partly inspire by	move	0	0
+1.0	record trade surplus	have	move	O	O
+1.0	its financial system	make	move	0	0
+1.0	Hong Kong official	denominate	bond in Hong Kong	LOCATION	LOCATION
+1.0	reaction	be positive with	Standard Chartered Bank	0	ORGANIZATION
+0.23820970033564898	it	significant move towards	ultimate goal of convertibility	0	0
+0.23820970033564898	it	move towards	ultimate goal of convertibility	0	0
+1.0	The reaction	facilitate	more efficient capital flow	0	0
+1.0	reaction	be	equally positive	0	0
+0.23820970033564898	it	significant move towards	ultimate goal of full yuan convertibility	0	0
+1.0	surplus	be	constant	0	0
+1.0	yuan	rise to	post-revaluation high	0	0
+1.0	savings	grow	five-fold	0	0
+1.0	yuan deposit	total	22.6 billion yuan	MONEY	MONEY
+0.853131457712043	a very important step	be	very important step	0	0
+1.0	China	have	determination integrate fully with global economy	LOCATION	0
+0.853131457712043	a very important step	be	step	0	0
+1.0	yuan	partly inspire by	move of record trade surplus for 2006	0	DATE
+1.0	its	have	system	O	O
+0.23820970033564898	it	move towards	goal of full convertibility	0	0
+1.0	deposit	total	22.6 billion yuan	0	MONEY
+1.0	The reaction	facilitate	efficient cross-border capital flow	0	0
+0.23820970033564898	it	significant move towards	goal	0	0
+1.0	economy	have	integration	O	O
+1.0	dispute	have	cause	O	O
+0.7260494197678335	savings	hold in	chinese currency	0	0
+0.23820970033564898	it	significant move towards	ultimate goal of full convertibility	0	0
+1.0	yuan	be	peg to US dollar until 2005	0	LOCATION
+1.0	yuan	inspire by	move	0	0
+1.0	China	have	soar trade surplus	LOCATION	0
+1.0	decision	be chair by	media	0	0
+0.23820970033564898	it	significant move towards	goal of yuan convertibility	0	0
+1.0	decision	be chair by	mainland media	0	0
+1.0	reaction	elsewhere be equally positive with	Standard Chartered Bank	0	ORGANIZATION
+1.0	The reaction	facilitate	cross-border capital flow	0	0
+1.0	a year	be with	chinese authority	DURATION	DURATION
+0.23820970033564898	it	move towards	goal of full yuan convertibility	0	0
+1.0	decision	be chair by	Premier Wen Jiabao	0	PERSON
+1.0	reaction	be	elsewhere equally positive	0	0
+1.0	The reaction	facilitate	capital flow	0	0
+1.0	flexibility	have	margin	O	O
+1.0	Beijing	have	approval	LOCATION	DURATION
+1.0	convertibility	have	goal	O	O
+1.0	senior Hong Kong official	denominate	bond in Hong Kong	LOCATION	LOCATION
+0.23820970033564898	it	move towards	ultimate goal of full yuan convertibility	0	0
+1.0	Beijing	revalue	unit	LOCATION	0
+1.0	bond	be in	Hong Kong	0	LOCATION
+1.0	savings	grow over	two year	0	DURATION
+1.0	yuan	be keep	undervalue	0	0
+1.0	China	of	economy	LOCATION	0
+1.0	it	improve	they funding structure	0	DATE
+0.23820970033564898	it	significant move towards	ultimate goal of yuan convertibility	0	0
+0.23820970033564898	it	move towards	ultimate goal of full convertibility	0	0
+1.0	yuan	rise against	dollar	0	0
+1.0	Beijing	allow	greater control margin of flexibility	LOCATION	0
+1.0	Beijing	allow	margin	LOCATION	0
+1.0	decision	be	chair	0	0
+0.23820970033564898	it	significant move towards	goal of full yuan convertibility	0	0
+1.0	David Li	be of	East Asia	PERSON	LOCATION
+1.0	Beijing	allow	yuan appreciate rapidly	LOCATION	0
+1.0	yuan	be peg to	US dollar	0	LOCATION
+1.0	it	want	yuan	0	0
+0.23820970033564898	it	significant move towards	ultimate goal	0	0
+0.23820970033564898	it	move towards	goal	0	0
+1.0	yuan	inspire by	move of record trade surplus for 2006	0	DATE
+1.0	China	sell	yuan	LOCATION	0
+1.0	China	have	determination	O	LOCATION
+1.0	their	have	funding structures	O	O
+1.0	yuan	rise to	high	0	0
+0.23820970033564898	it	move towards	goal of yuan convertibility	0	0
+1.0	Beijing	allow	control margin	LOCATION	0
+1.0	Washington	have consistently press	Beijing	LOCATION	LOCATION
+1.0	Donald Tsang	be	Hong Kong	PERSON	LOCATION
+1.0	Beijing	allow	greater margin of flexibility	LOCATION	0
+1.0	Hong Kong	step for	chinese currency	LOCATION	0
+0.853131457712043	a very important step	be	important step	0	0
+1.0	Beijing	allow	margin of flexibility	LOCATION	0
+0.23820970033564898	it	significant move towards	goal of full convertibility	0	0
+1.0	The reaction	facilitate	efficient capital flow	0	0
+1.0	reaction	be	elsewhere positive	0	0
+1.0	Beijing	allow	greater control margin	LOCATION	0
+1.0	yuan	be peg until	2005	0	DATE
+1.0	Beijing	revalue unit into	currency basket system	LOCATION	0
+1.0	Washington	have press	Beijing	LOCATION	LOCATION
+1.0	yuan	be	peg	0	0
+1.0	yuan	be keep	deliberately undervalue	0	0
+1.0	businesses	have	types	O	O
+1.0	East Asia chairman David Li	have	Bank	O	PERSON
+1.0	Beijing	have	approval	O	LOCATION
+1.0	reaction	elsewhere be positive with	Standard Chartered Bank	0	ORGANIZATION
+1.0	The reaction	facilitate	more efficient cross-border capital flow	0	0
+0.23820970033564898	it	move towards	ultimate goal	0	0
+1.0	constant cause	be with	United States	0	LOCATION
+0.7260494197678335	savings	hold in	currency	0	0
+1.0	reaction	be equally positive with	Standard Chartered Bank	0	ORGANIZATION
+1.0	November	have	end	DATE	DATE
+0.23820970033564898	it	significant move towards	goal of convertibility	0	0
+1.0	a very important step	be	important	0	0
+0.23154884713092094	Beijing	decide	allow	LOCATION	0
+1.0	yuan	be	keep	0	0
+0.33669769426858	Hong Kong bank	have	have allow	LOCATION	0
+1.0	yuan	rise to	high of 7.7970	0	NUMBER
+1.0	renminbi	have	category	O	O
+1.0	yuan	have	appreciation	O	O
+1.0	China	have	economy	O	LOCATION
+1.0	China	have	trade surplus	O	LOCATION
+1.0	renminbi	of category be	yuan	0	0

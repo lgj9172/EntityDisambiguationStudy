@@ -1,0 +1,103 @@
+1.0	corporation	make	China fourth-biggest business travel market in world	0	LOCATION
+1.0	corporation	make	China business travel market in world	0	LOCATION
+1.0	american	seek toward	end of selection process	0	0
+1.0	country	have	area	O	O
+1.0	chairman	select	executive	0	0
+1.0	capital-to-capital Coalition	also hail	decision	ORGANIZATION	0
+1.0	Mary Peters	be secretary of	The Department of Transportation	PERSON	ORGANIZATION
+1.0	US government	give approval after	battle	LOCATION	0
+0.8241989964937644	US	connect	chinese government	LOCATION	0
+1.0	Coalition	hail	decision	ORGANIZATION	0
+1.0	american	change	its proposal	0	0
+1.0	approval stand	would begin on	March 25	0	DATE
+1.0	US	be award	rights to local carrier for seven flight	LOCATION	NUMBER
+0.4508175842187617	flight	open to	China market	0	LOCATION
+0.37999818347223124	group	back	United bid	0	ORGANIZATION
+1.0	other airline	have	14 day	0	DURATION
+0.5433335256769046	effort	win rights for	flight open China market	0	LOCATION
+1.0	American Airlines	propose	fly between Dallas/Fort Worth in Texas	ORGANIZATION	LOCATION
+1.0	approval stand	would begin on	March 25 between Washington Dulles International Airport	0	LOCATION
+0.5433335256769046	effort	win rights for	only flight open	0	0
+1.0	Mary Peters	be	The Department of Transportation	PERSON	ORGANIZATION
+1.0	corporation	make	China fourth-biggest business travel market	0	LOCATION
+1.0	selection process	have	end	O	O
+1.0	United	have	service	O	ORGANIZATION
+0.4508175842187617	only flight	open to	fast-growing China market	0	LOCATION
+1.0	Our	have	application	O	O
+1.0	A group backing the United bid	have	proposal	O	O
+1.0	stake	be high with	tie	0	0
+1.0	US government	give	approval	LOCATION	0
+1.0	stake	be high with	economic tie	0	0
+1.0	US government	give approval after	hard-fought battle	LOCATION	0
+1.0	airline	have	14 day	0	DURATION
+0.8241989964937644	US	connect	government	LOCATION	0
+1.0	US government	give approval to	United Airlines ' bid for new nonstop flight	LOCATION	ORGANIZATION
+1.0	its	have	flights	O	O
+1.0	Coalition	also hail	decision	ORGANIZATION	0
+1.0	stake	be high with	us-china tie	0	0
+1.0	corporation	spend	7.41 billion dollar	0	MONEY
+1.0	16 connection	be in	China	NUMBER	ORGANIZATION
+1.0	US	be award	rights to local carrier	LOCATION	DURATION
+1.0	US government	give approval to	United Airlines ' bid for nonstop flight	LOCATION	ORGANIZATION
+0.5433335256769046	effort	win rights for	only flight	0	0
+1.0	US government	give approval to	Beijing	LOCATION	LOCATION
+1.0	American Airlines	fly between	Dallas/Fort Worth in Texas	ORGANIZATION	LOCATION
+1.0	US government	give approval to	United Airlines ' bid for new flight from Washington	LOCATION	LOCATION
+1.0	capital cities	have	governments	O	O
+1.0	diplomatic relation	be	normalize	0	0
+0.5433335256769046	effort	win rights for	flight open	0	0
+1.0	stake	be high with	us-china tie accelerate	0	0
+1.0	chairman	be select as	first carrier	0	ORDINAL
+1.0	US government	give approval to	United Airlines ' bid for new nonstop flight from Washington	LOCATION	LOCATION
+1.0	China fourth-biggest business travel market	be in	world	LOCATION	0
+1.0	US government	give	tentative approval	LOCATION	0
+0.5433335256769046	effort	win	rights	0	0
+1.0	stake	be high with	economic tie accelerate	0	0
+1.0	department	have	seven day	0	DURATION
+1.0	US government	give approval to	United Airlines ' bid for new flight	LOCATION	ORGANIZATION
+0.6852617994554511	seven day	review	potential objection	DURATION	0
+1.0	American	have	motion	O	MISC
+1.0	important step	be in	effort connect 30 year	0	DURATION
+1.0	US government	give approval to	United Airlines ' bid for nonstop flight from Washington	LOCATION	LOCATION
+1.0	stake	be	high	0	0
+1.0	US government	give approval to	United Airlines ' bid	LOCATION	ORGANIZATION
+1.0	chairman	be	select	0	0
+1.0	corporation	be in	China	0	LOCATION
+1.0	US	be award	rights to carrier	LOCATION	DURATION
+1.0	American Airlines	propose	fly between Dallas/Fort Worth	ORGANIZATION	LOCATION
+0.4508175842187617	flight	open to	fast-growing China market	0	LOCATION
+1.0	corporation	make	China business travel market	0	LOCATION
+1.0	Transportation	have	Department	ORGANIZATION	ORGANIZATION
+0.8241989964937644	US	connect	two country	LOCATION	NUMBER
+0.5433335256769046	effort	win rights for	flight	0	0
+1.0	US government	give approval to	United Airlines ' bid for flight	LOCATION	ORGANIZATION
+1.0	stake	be high with	us-china economic tie	0	0
+1.0	US government	give approval after	hard-fought battle among four carrier	LOCATION	NUMBER
+0.4508175842187617	only flight	open to	China market	0	LOCATION
+1.0	United Airlines	have	bid	O	ORGANIZATION
+1.0	capital-to-capital Coalition	hail	decision	ORGANIZATION	0
+1.0	US government	give approval at_time	Tuesday	LOCATION	DATE
+1.0	Beijing	have	China Peking Capital Airport	LOCATION	LOCATION
+1.0	stop	be in	Chicago	0	LOCATION
+1.0	US	be award rights at_time	week	LOCATION	DURATION
+1.0	passengers	have	number	O	O
+1.0	American Airlines	fly between	Dallas/Fort Worth	ORGANIZATION	LOCATION
+0.48669641848015044	7.41 billion dollar	corporation in	China	MONEY	LOCATION
+1.0	chairman	select	chief executive	0	0
+1.0	US	be award	rights to carrier for seven flight	LOCATION	NUMBER
+1.0	the most	have	power	O	O
+0.5433335256769046	effort	win rights for	flight open fast-growing China market	0	LOCATION
+1.0	stake	be high with	tie accelerate	0	0
+1.0	US	be award	rights	LOCATION	0
+1.0	Dallas/Fort Worth	be in	Texas	LOCATION	LOCATION
+1.0	american	seek toward	end	0	0
+1.0	world	have	economies	O	O
+1.0	stake	be high with	us-china economic tie accelerate	0	0
+1.0	US government	give approval to	United Airlines ' bid for flight from Washington	LOCATION	LOCATION
+0.5433335256769046	effort	win rights for	only flight open fast-growing China market	0	LOCATION
+1.0	its	have	decision	O	O
+1.0	US government	give approval after	battle among four carrier	LOCATION	NUMBER
+1.0	relation	be	normalize	0	0
+1.0	American Airlines	propose	fly	ORGANIZATION	0
+1.0	chairman	be select as	carrier	0	0
+0.5433335256769046	effort	win rights for	only flight open China market	0	LOCATION

@@ -1,0 +1,22 @@
+1.0	national police spokesman Anton Bahrul Alam	have	arrest	O	O
+1.0	terrorist attack	be in	New York	0	LOCATION
+1.0	he	face	15 year	0	DURATION
+1.0	we	be still check	he visa	0	0
+1.0	15 year	be in	prison	DURATION	0
+1.0	police	say at_time	Friday	0	DATE
+1.0	he	be	be hold	0	0
+1.0	he	face	15 year in prison	0	DURATION
+1.0	reporters	have	custody	O	O
+1.0	governments	have	relations	O	O
+1.0	he	be	be hold at police headquarters in Jakarta	0	LOCATION
+1.0	Interpol	be in	Washington	ORGANIZATION	LOCATION
+1.0	he	be	be hold at police headquarters	0	0
+1.0	police spokesman Anton Bahrul Alam	tell	reporter	PERSON	0
+1.0	we	be check	he visa	0	0
+1.0	Pratheepan Thavarajah	have	visa	O	O
+1.0	Soekarno Hatta International Airport	be in	Jakarta	LOCATION	LOCATION
+1.0	police headquarters	be in	Jakarta	0	LOCATION
+1.0	Pratheepan Thavarajah	be	32	PERSON	NUMBER
+1.0	Thavarajah	be	alone	0	0
+1.0	national police spokesman Anton Bahrul Alam	tell	reporter	PERSON	0
+1.0	Thavarajah	be	reportedly alone	0	0

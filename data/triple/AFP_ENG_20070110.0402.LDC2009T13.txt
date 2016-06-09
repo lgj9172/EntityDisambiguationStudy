@@ -1,0 +1,40 @@
+1.0	some	be	set	0	0
+1.0	some	be set	produce annually	0	SET
+1.0	factory	currently produce	the Fiat Panda	0	ORGANIZATION
+1.0	Ford Poland	reach deal with	italian car maker Fiat	ORGANIZATION	ORGANIZATION
+1.0	report	be in	polish economic daily Puls Biznesu	0	SET
+1.0	The US auto maker Ford Motor Company on Wednesday	have	car brand	O	O
+1.0	Spain	from brand be	ka	LOCATION	0
+1.0	Monika Dobrolubow-Stefaniak	tell	AFP	PERSON	ORGANIZATION
+1.0	factory	produce	the Fiat Panda	0	ORGANIZATION
+1.0	ka	will	will build	0	0
+1.0	she	comment on	report	0	0
+1.0	Poland	to brand be	ka	LOCATION	0
+1.0	latter	have	factory	0	0
+1.0	some	be	produce annually	0	SET
+1.0	combined 308,000 car	be in	2006	NUMBER	DATE
+1.0	some	be	produce	0	0
+1.0	latter	have	factory	O	O
+1.0	some	be	also set	0	0
+1.0	Ford Poland	use	latter 's factory	ORGANIZATION	0
+1.0	vehicles	have	production	O	O
+1.0	Ford Motor Company	be	US	ORGANIZATION	LOCATION
+1.0	Some 120,000 Fiat 500s	have	brand identities	O	O
+1.0	she	decline	comment	0	0
+1.0	Monika Dobrolubow-Stefaniak	spokeswoman for	Ford Poland	PERSON	ORGANIZATION
+1.0	Ford Poland	reach deal with	car maker Fiat	ORGANIZATION	ORGANIZATION
+1.0	she	decline	comment on report	0	0
+1.0	Ford Motor Company	be auto maker of	US	ORGANIZATION	LOCATION
+1.0	production line	be in	Poland	0	LOCATION
+1.0	Ford Poland	reach deal in	2005	ORGANIZATION	DATE
+1.0	The US auto maker Ford Motor Company on Wednesday	brand	ka	0	0
+1.0	some	be also set	produce annually	0	SET
+1.0	car brand	have	production	O	O
+1.0	some	be also set	produce	0	0
+1.0	vehicle	be in	european small car segment	0	0
+1.0	ka	will	will build alongside Fiat 500	0	ORGANIZATION
+1.0	Ford Poland	reach	deal	ORGANIZATION	0
+1.0	Ford Motor Company	be on	Wednesday	ORGANIZATION	DATE
+1.0	some	be set	produce	0	0
+1.0	Frankfurt international motor show	be in	September	LOCATION	DATE
+1.0	Fiat	be with	italian	ORGANIZATION	0

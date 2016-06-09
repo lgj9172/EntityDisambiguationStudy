@@ -1,0 +1,10 @@
+1.0	the Nasdaq-listed firm	say in	statement	0	0
+1.0	India 's software exporter	say at_time	Thursday	LOCATION	DATE
+1.0	India 's second software exporter	say at_time	Thursday	ORDINAL	DATE
+1.0	India 's largest software exporter	say at_time	Thursday	LOCATION	DATE
+1.0	India	have	software exporter	O	LOCATION
+1.0	India	have	second largest software exporter	LOCATION	ORDINAL
+1.0	December	be with	revenue	DATE	0
+1.0	India	's exporter be	Infosys	LOCATION	ORGANIZATION
+1.0	India 's second largest software exporter	say at_time	Thursday	ORDINAL	DATE
+1.0	India 's	have	quarter	DATE	O

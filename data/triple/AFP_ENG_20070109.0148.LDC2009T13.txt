@@ -1,0 +1,149 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	British Prime Minister Tony Blair on Tuesday	supporter in	2003 invasion of Iraq	PERSON	LOCATION
+1.0	the deposed Iraqi dictator	have	death	O	O
+1.0	she	say after	execution	0	0
+1.0	his	have	own	O	O
+1.0	his	have	Downing Street office	O	O
+1.0	Japan	use	capital punishment	LOCATION	0
+1.0	british Prime Minister Tony Blair	brand	manner of former iraqi dictator 's hang	PERSON	0
+1.0	widespread criticism	be fuel by	grainy mobile phone video	0	0
+1.0	Britain	have base around	city	LOCATION	0
+1.0	Gordon Brown	execution	Deputy Prime Minister John Prescott	PERSON	PERSON
+1.0	Prime Minister Tony Blair	brand	manner of former dictator 's	PERSON	0
+1.0	forces increases	have	capability	O	O
+1.0	Blair	say	Japanese Prime Minister Shinzo Abe	PERSON	PERSON
+1.0	his	have	decision	O	O
+1.0	Japan	use	punishment	LOCATION	0
+1.0	widespread criticism	be fuel by	phone video	0	0
+1.0	them	have	most	O	O
+1.0	Saddam	be	when hang	PERSON	0
+1.0	Japan	meanwhile use	punishment	LOCATION	0
+1.0	Iraq	be face with	great difficulty	LOCATION	0
+1.0	Britain	have base around	second city of Basra	LOCATION	ORDINAL
+1.0	its historic deployment	be in	July 2006	0	DATE
+1.0	British Prime Minister Tony Blair on Tuesday	decline	speak	PERSON	0
+1.0	air force	assist	coalition	0	0
+1.0	depose iraqi dictator	be taunt seconds before	he death	0	0
+1.0	Saddam Hussein 's	have	execution	O	PERSON
+1.0	dictator	be taunt	seconds	0	DURATION
+1.0	Saddam	have	crimes	O	PERSON
+1.0	Britain	have base around	city of Basra	LOCATION	LOCATION
+1.0	The British leader	have	view	O	O
+1.0	japanese air force	assist	us-led coalition	0	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	us	see about	execution	0	0
+1.0	execution	have	condemnation	O	O
+1.0	Prime Minister Tony Blair	brand	manner	PERSON	0
+1.0	british Prime Minister Tony Blair	brand	manner of former iraqi dictator 's	PERSON	0
+1.0	Iraq	be	face	LOCATION	0
+1.0	Britain	mount call for	they	LOCATION	0
+1.0	Iraq	be face at_time	today	LOCATION	DATE
+1.0	British Prime Minister Tony Blair on Tuesday	say with	japanese Prime Minister Shinzo Abe	0	PERSON
+1.0	phone footage	have	emergence	O	O
+1.0	widespread criticism	be	fuel	0	0
+1.0	Blair	say in	joint statement	PERSON	0
+1.0	execution	have	manner	O	O
+1.0	air force	assist	us-led coalition	0	0
+1.0	Blair	say in	statement	PERSON	0
+1.0	its	have	deployment	O	O
+1.0	Britain	still have base around	city	LOCATION	0
+1.0	each country	have	programme	O	O
+1.0	hanging	have	criticism	O	O
+1.0	Japan	end	its historic deployment in July 2006	LOCATION	DATE
+1.0	Japan	end	its deployment to Iraq in July 2006	LOCATION	DATE
+1.0	Japan	end	its historic deployment	LOCATION	0
+1.0	Japan	end	its deployment to Iraq	LOCATION	LOCATION
+1.0	iraqi dictator	be taunt	seconds	0	DURATION
+1.0	japanese air force	assist	coalition	0	0
+1.0	Japan	end	its historic deployment to Iraq	LOCATION	LOCATION
+1.0	Shinzo Abe	be with	japanese	PERSON	0
+1.0	Britain	mount	call	LOCATION	0
+1.0	British Prime Minister Tony Blair on Tuesday	have under	have fire	PERSON	0
+1.0	british Prime Minister Tony Blair	break	he silence	PERSON	0
+1.0	dictator	be taunt seconds before	he death	0	0
+1.0	Britain	mount	call at home	LOCATION	0
+1.0	Britain	still have base around	city of Basra	LOCATION	LOCATION
+1.0	Britain	be	oppose	LOCATION	0
+1.0	Blair	have lose	stand	PERSON	0
+1.0	widespread criticism	be fuel by	mobile phone video	0	0
+1.0	Japan	meanwhile use	capital punishment	LOCATION	0
+1.0	Saddam	be hang on	December 30	PERSON	DATE
+1.0	Prime Minister Tony Blair	break	he silence	PERSON	0
+1.0	crime	have	free	O	O
+1.0	british Prime Minister Tony Blair	brand	manner of former dictator 's	PERSON	0
+1.0	Blair	give	he view	PERSON	0
+1.0	british Prime Minister Tony Blair	brand	manner	PERSON	0
+1.0	criticism	be fuel by	grainy mobile phone video	0	0
+1.0	Saddam	be	hang	PERSON	0
+1.0	Blair	have lose	stand within he own	PERSON	0
+1.0	president Saddam	have	execution	O	O
+1.0	Gordon Brown	be finance minister of	Britain	PERSON	LOCATION
+1.0	holiday	be in	Florida	0	LOCATION
+1.0	president Saddam	have	victims	O	PERSON
+1.0	manner	be	unacceptable	0	0
+1.0	Iraq	be face with	difficulty	LOCATION	0
+1.0	Blair	stand within	he own	PERSON	0
+1.0	Gordon Brown	have condemn since	emergence of mobile phone footage	PERSON	0
+1.0	Saddam	be	when hang on December 30	PERSON	DATE
+1.0	Gordon Brown	have condemn	execution	PERSON	0
+1.0	Iraq	be	face with great difficulty today	LOCATION	DATE
+1.0	its	have	way	O	O
+1.0	depose dictator	be taunt seconds before	he death	0	0
+1.0	Japan	end	its deployment in July 2006	LOCATION	DATE
+1.0	British Prime Minister Tony Blair on Tuesday	say with	Prime Minister Shinzo Abe	0	PERSON
+0.7031334883682218	force	first time since	World War II	0	MISC
+1.0	Britain	still have base around	second city	LOCATION	ORDINAL
+1.0	Britain	have	finance minister	O	LOCATION
+1.0	British Prime Minister Tony Blair on Tuesday	supporter	United States	PERSON	LOCATION
+1.0	criticism	be fuel by	mobile phone video	0	0
+1.0	criticism	be	fuel	0	0
+1.0	British Prime Minister Tony Blair on Tuesday	say at	joint press conference	0	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Iraq	be	face with difficulty today	LOCATION	DATE
+1.0	Iraq	most of	they	LOCATION	0
+1.0	leader	be on	holiday	0	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	7,100 troops	be in	Iraq	NUMBER	LOCATION
+1.0	work	have	scope	O	O
+1.0	he	hang for	crime against humanity	0	0
+0.7031334883682218	force	time since	World War II	0	MISC
+1.0	british leader	be on	holiday	0	0
+1.0	criticism	be fuel by	phone video	0	0
+1.0	fighting	be under	where way	0	0
+1.0	iraqi dictator	be taunt seconds before	he death	0	0
+1.0	Saddam	have	execution	O	PERSON
+1.0	widespread criticism	be fuel by	grainy phone video	0	0
+1.0	Gordon Brown	execution as	Deputy Prime Minister John Prescott	PERSON	PERSON
+0.9050337892909486	crime	manner of	he execution	0	0
+1.0	Japan	end	its deployment	LOCATION	0
+1.0	Saddam Hussein 's	have	people	O	O
+1.0	Britain	have base around	second city	LOCATION	ORDINAL
+1.0	british Prime Minister Tony Blair	brand	manner of former dictator 's hang	PERSON	0
+1.0	he	hang for	crime	0	0
+1.0	manner	be unacceptable as	everybody saw	0	0
+1.0	Gordon Brown	have condemn since	emergence of phone footage	PERSON	0
+1.0	british leader	be on	holiday in Florida	0	LOCATION
+1.0	Britain	have	finance minister	LOCATION	0
+1.0	Tony Blair	be on	Tuesday	PERSON	DATE
+1.0	leader	be on	holiday in Florida	0	LOCATION
+1.0	Prime Minister Tony Blair	brand	manner of former dictator 's hang	PERSON	0
+1.0	everybody saw	be	wrong	0	0
+1.0	Saddam Hussein	over	execution	PERSON	0
+1.0	japan-uk counter-terrorism consultation	broaden	scope	0	0
+1.0	fighting	be under	way	0	0
+1.0	depose dictator	be taunt	seconds	0	DURATION
+1.0	depose iraqi dictator	be taunt	seconds	0	DURATION
+1.0	Britain	be oppose to	it	LOCATION	0
+1.0	criticism	be fuel by	grainy phone video	0	0
+1.0	Prime Minister Tony Blair	brand	manner of former iraqi dictator 's hang	PERSON	0
+1.0	his	have	crimes	O	O
+1.0	Britain	still have base around	second city of Basra	LOCATION	ORDINAL
+1.0	British Prime Minister Tony Blair on Tuesday	have	silence	O	O
+1.0	Gordon Brown	have condemn since	emergence	PERSON	0
+1.0	United States ' staunchest supporter	be in	2003 invasion of Iraq	LOCATION	LOCATION
+1.0	British Prime Minister Tony Blair on Tuesday	say at	press conference	0	0
+1.0	we	strengthen	japan-uk counter-terrorism consultation	0	0
+1.0	United States	have	supporter	O	LOCATION
+1.0	Japan	end	its historic deployment to Iraq in July 2006	LOCATION	DATE
+1.0	Gordon Brown	condemn	Deputy Prime Minister John Prescott	PERSON	PERSON
+1.0	Prime Minister Tony Blair	brand	manner of former iraqi dictator 's	PERSON	0

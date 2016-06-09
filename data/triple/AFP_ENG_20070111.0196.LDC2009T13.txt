@@ -1,0 +1,23 @@
+1.0	that	carry	signature of Public Security Minister Zhou Yongkang	0	PERSON
+1.0	Public Security Minister Zhou Yongkang	have	signature	O	PERSON
+1.0	recruits	have	swindling	O	O
+1.0	China	of	Xian city	LOCATION	LOCATION
+1.0	that	carry	signature	0	0
+1.0	China	have	Xian city	LOCATION	LOCATION
+1.0	posts	have	promises	O	O
+0.6831340364079248	that	signature of	Public Security Minister Zhou Yongkang	0	PERSON
+1.0	the fake police	be	legitimate	0	0
+1.0	five people	be in	China	0	LOCATION
+1.0	that	carry	forge signature	0	0
+1.0	man	run	one woman	0	NUMBER
+0.6831340364079248	that	signature of	report	0	0
+1.0	Five people in northern China	have	scheme	O	O
+1.0	people	have	interviewed	O	O
+0.6831340364079248	that	forge signature of	Public Security Minister Zhou Yongkang	0	PERSON
+1.0	that	carry	forge signature of Public Security Minister Zhou Yongkang	0	PERSON
+0.6831340364079248	that	forge signature of	report	0	0
+1.0	four man	arrest	one woman	0	NUMBER
+1.0	man	arrest	one woman	0	NUMBER
+1.0	a	have	establishment	O	O
+1.0	four man	run	one woman	0	NUMBER
+1.0	Xian city	have	out operating	O	LOCATION

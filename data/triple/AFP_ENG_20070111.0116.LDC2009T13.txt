@@ -1,0 +1,51 @@
+1.0	bail	be	rarely give	0	0
+1.0	he	be	ill medical treatment	0	0
+1.0	bail	be give in	Malaysia	0	LOCATION
+1.0	his	have	wife	O	O
+1.0	he	be	release	0	0
+1.0	bail	be rarely give in	Malaysia for serious offence	0	LOCATION
+1.0	Appeal	have	Court	ORGANIZATION	ORGANIZATION
+1.0	bail	be give in	Malaysia for such offence	0	LOCATION
+1.0	he	be release on	1.0 million ringgit	0	MONEY
+1.0	it	be transparent from	interference	0	0
+1.0	bail condition	set	March 2008 trial date	0	DATE
+1.0	woman	have	family	O	O
+1.0	appeal court	reject	he bid	0	0
+1.0	he	be	treatment	0	0
+1.0	bail	be give in	Malaysia for serious offence	0	LOCATION
+1.0	A prominent Malaysian political analyst charged over the gruesome slaying of a Mongolian model	have	bid	O	O
+1.0	his	have	home	O	O
+1.0	bail	be rarely give in	Malaysia for offence	0	LOCATION
+1.0	bail	be rarely give in	Malaysia for such offence	0	LOCATION
+1.0	model	have	slaying	O	O
+1.0	bail	be give in	Malaysia for such serious offence	0	LOCATION
+1.0	it	be transparent from	political interference	0	0
+1.0	Mongolia	have	government	LOCATION	0
+1.0	Abdul Razak Baginda	be	accuse	PERSON	0
+1.0	it	be	transparent	0	0
+1.0	decision	be	attack	0	0
+1.0	Abdul Razak	have	lawyers	O	O
+1.0	his	have	lawyers	O	O
+1.0	bail	be rarely give in	Malaysia	0	LOCATION
+1.0	Mongolia	have	government	O	LOCATION
+1.0	he	be release on	274,348 dollar	0	MONEY
+1.0	Mokhtar Sidin	say	judge	PERSON	0
+1.0	Court of Appeal	be on	Thursday	ORGANIZATION	DATE
+1.0	Mokhtar Sidin	say	preside judge	PERSON	0
+1.0	whose	have	body	O	O
+1.0	Her	have	remains	O	O
+1.0	decision	be attack by	lawyer	0	0
+1.0	bail	be rarely give in	Malaysia for such serious offence	0	LOCATION
+1.0	this	be	high-profile	0	0
+1.0	he	be	in December release on 1.0 million ringgit	0	MONEY
+1.0	two police officer	both from	special Action Force	NUMBER	ORGANIZATION
+1.0	decision	be attack by	lawyer for family of woman	0	0
+1.0	Abdul Razak Baginda	abet	two policeman	PERSON	NUMBER
+1.0	decision	be attack by	lawyer for family	0	0
+1.0	he	be release in	December	0	DATE
+1.0	he	be	medical treatment	0	0
+1.0	decision	be attack by	lawyer for family of mongolian woman	0	0
+1.0	bail	be	give	0	0
+1.0	bail	be give in	Malaysia for offence	0	LOCATION
+1.0	Mongolia 's government	urge	Malaysia	LOCATION	LOCATION
+1.0	he	be	ill treatment	0	0

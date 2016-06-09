@@ -1,0 +1,142 @@
+1.0	Russia	mark	anniversary of birth of soviet space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	Korolev	have	dedication	PERSON	0
+1.0	Korolev	be	in 1938 at height of Stalin 's mass repression accuse of economic sabotage	PERSON	DATE
+1.0	sabotage	have	accused	O	O
+1.0	Russia	mark	100th anniversary of birth	LOCATION	ORDINAL
+1.0	tribute	be from	crew on International Space Station	0	LOCATION
+1.0	Korolev	be	in 1938 at height of Stalin 's paranoia-fueled mass repression accuse of economic sabotage	PERSON	DATE
+1.0	concert	be hold outside	just Moscow	0	LOCATION
+1.0	first manned space voyage	be in	1961	ORDINAL	DATE
+1.0	Korolev	be	accuse	PERSON	0
+1.0	space programme	look to	ever-more ambitious future	0	DATE
+1.0	century	will pose	great challenge	DATE	0
+1.0	Korolev	be	at height accuse of sabotage	PERSON	0
+1.0	tribute	be from	crew	0	0
+1.0	space travel	have	wave	O	O
+1.0	first man	be in	orbit	ORDINAL	0
+1.0	Russia	100th anniversary of	man behind iconic breakthrough in space exploration	LOCATION	0
+1.0	Korolev	sentence to	six year	PERSON	DURATION
+1.0	Russia	100th anniversary of	birth of soviet space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	concert	hold	other commemoration	0	0
+1.0	Korolev	be	in 1938 accuse of sabotage	PERSON	DATE
+1.0	Korolev	be	at height of Stalin 's paranoia-fueled mass repression accuse of sabotage	PERSON	PERSON
+1.0	space programme	look to	ambitious future	0	DATE
+1.0	space programme founder Sergei Korolev	have	birth	O	PERSON
+1.0	Korolev	have	start	PERSON	0
+1.0	project	have	Part	O	O
+1.0	key element	will again come in	form	0	0
+1.0	key element	will come in	form	0	0
+1.0	he	work as	scientist	0	0
+1.0	Russia	anniversary of	man	LOCATION	0
+1.0	flower	be	lay	0	0
+1.0	humanity	have	good	O	O
+1.0	1957	have	Khrushchev thaw	O	DATE
+1.0	one key element	will again come in	form	0	0
+1.0	Russians	emphasise despite	historical flavour	MISC	0
+1.0	birth	man behind	iconic breakthrough in space exploration include Sputnik satellite	0	MISC
+1.0	our	have	leitmotif today	DATE	O
+1.0	Korolev	be	at height of Stalin 's mass repression accuse of economic sabotage	PERSON	PERSON
+1.0	century	will pose	challenge	DATE	0
+1.0	Russia	mark at_time	Friday	LOCATION	DATE
+1.0	Russia	mark	anniversary	LOCATION	0
+1.0	mass repression	have	height	O	O
+1.0	iconic breakthrough	be in	space exploration include Sputnik satellite	0	MISC
+1.0	Korolev	be	in 1938 at height accuse of sabotage	PERSON	DATE
+1.0	Sergei Korolev	of birth be	man behind iconic breakthrough in space exploration include Sputnik satellite	PERSON	MISC
+1.0	Russia	100th anniversary of	man behind breakthrough in space exploration include Sputnik satellite	LOCATION	MISC
+1.0	Russia	mark	anniversary of birth	LOCATION	0
+1.0	Korolev	be	in 1938 at height of Stalin 's mass repression accuse	PERSON	DATE
+1.0	RKK Energiya company	have	head	O	ORGANIZATION
+1.0	century	will pose challenge on	energy climate change	DATE	0
+1.0	economy	have	charge	O	O
+1.0	US programme	have	step	O	O
+1.0	Stalin	have	mass repression	O	PERSON
+1.0	Russians	emphasise despite	flavour of occasion	MISC	0
+1.0	Korolev	be	in 1938 at height of Stalin 's paranoia-fueled mass repression accuse of sabotage	PERSON	DATE
+1.0	Korolev	be accuse in	1938	PERSON	DATE
+1.0	Russians	emphasise despite	flavour	MISC	0
+1.0	Korolev	be accuse at	height of Stalin 's mass repression	PERSON	PERSON
+1.0	Clipper	have	form	O	O
+1.0	Sergei Korolev	mastermind	1957 launch of world 's satellite	0	DATE
+1.0	Korolev	be accuse at	height of Stalin 's paranoia-fueled mass repression	PERSON	PERSON
+1.0	21st century	will pose	great challenge	DATE	0
+1.0	21st century	will pose challenge on	energy climate change	DATE	0
+1.0	concert	be hold outside	Moscow	0	LOCATION
+0.7766076390857465	keep	step of	ahead US programme	0	LOCATION
+1.0	I	would fire minister in	charge of economy	0	0
+1.0	occasion	have	flavour	O	O
+1.0	Korolev	be	in 1938 accuse of economic sabotage	PERSON	DATE
+1.0	tribute	be also from	crew	0	0
+1.0	concert	hold	commemoration	0	0
+1.0	six year	be in	prison	DURATION	0
+1.0	Korolev	be	at height of Stalin 's paranoia-fueled mass repression accuse of economic sabotage	PERSON	PERSON
+1.0	birth	have	anniversary	O	O
+1.0	Russia	anniversary of	man behind breakthrough in space exploration include Sputnik satellite	LOCATION	MISC
+1.0	part	explore	moon	0	0
+1.0	Korolev	sentence to	six year in prison	PERSON	DURATION
+1.0	Russia	mark	100th anniversary	LOCATION	ORDINAL
+1.0	space programme	look to	future	0	DATE
+1.0	Korolev	be	at height of Stalin 's mass repression accuse of sabotage	PERSON	PERSON
+1.0	Russia	anniversary of	birth	LOCATION	0
+1.0	tribute	be from	current crew on International Space Station	0	LOCATION
+1.0	a	have	rose	O	O
+1.0	Sergei Korolev	be of	soviet	PERSON	0
+1.0	Korolev	be	at height accuse of economic sabotage	PERSON	0
+1.0	Russia	anniversary of	man behind breakthrough	LOCATION	0
+1.0	Vakhtang Vachnadze	be	77	PERSON	NUMBER
+1.0	tribute	be from	current crew	0	DATE
+1.0	space pioneer	have	grave	O	O
+1.0	Russia	anniversary of	birth of soviet space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	Russia	anniversary of	man behind iconic breakthrough	LOCATION	0
+1.0	Russia	anniversary of	man behind iconic breakthrough in space exploration include Sputnik satellite	LOCATION	MISC
+1.0	space voyage	have	launch	O	O
+1.0	I	would fire minister in	charge	0	0
+1.0	he	work albeit as	scientist	0	0
+1.0	Russians	emphasise at_time	Friday	MISC	DATE
+1.0	Gulag	have	part	O	O
+1.0	Korolev	be	in 1938 at height of Stalin 's mass repression accuse of sabotage	PERSON	DATE
+1.0	Kremlin	under	wall on Red Square	ORGANIZATION	LOCATION
+1.0	Russia	100th anniversary of	man behind breakthrough in space exploration	LOCATION	0
+1.0	Russia	100th anniversary of	man behind iconic breakthrough in space exploration include Sputnik satellite	LOCATION	MISC
+1.0	I	would fire	minister	0	0
+1.0	figures	have	graves	O	O
+1.0	Russia	mark	100th anniversary of birth of soviet space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	one key element	will come in	form	0	0
+1.0	tribute	be also from	crew on International Space Station	0	LOCATION
+1.0	Korolev	have	bad start	PERSON	0
+1.0	satellite	have	launch	O	O
+1.0	Russia	anniversary of	man behind breakthrough in space exploration	LOCATION	0
+1.0	Korolev	be accuse at	height	PERSON	0
+1.0	space pioneer	at	grave	0	0
+1.0	tribute	be also from	current crew	0	DATE
+1.0	Russia	anniversary of	man behind iconic breakthrough in space exploration	LOCATION	0
+1.0	Russia	100th anniversary of	man	LOCATION	0
+1.0	Russia	100th anniversary of	man behind breakthrough	LOCATION	0
+1.0	Sergei Korolev	mastermind	1957 launch of world 's first satellite	0	ORDINAL
+1.0	Russia	100th anniversary of	birth of space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	Russians	emphasise despite	historical flavour of occasion	MISC	0
+1.0	part	explore	moon for helium-3	0	0
+1.0	Korolev	be	in 1938 at height accuse	PERSON	DATE
+1.0	Korolev	be accuse of	economic sabotage	PERSON	0
+1.0	21st century	will pose	challenge	DATE	0
+1.0	Russia	mark	anniversary of birth of space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	concert	be	hold	0	0
+1.0	Sergei Korolev	mastermind	1957 launch	0	DATE
+1.0	world	's satellite be	Sputnik	0	0
+1.0	Sergei Korolev	design	r-7 inter	0	0
+1.0	Stalin	of	paranoia-fueled mass repression	PERSON	0
+1.0	Russia	100th anniversary of	man behind iconic breakthrough	LOCATION	0
+1.0	tribute	be also from	current crew on International Space Station	0	LOCATION
+1.0	Russia	100th anniversary of	birth	LOCATION	0
+1.0	Korolev	have	dedication	O	PERSON
+1.0	Russia	anniversary of	birth of space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	Russia	mark	100th anniversary of birth of space programme founder Sergei Korolev	LOCATION	PERSON
+1.0	world	of	first satellite	0	ORDINAL
+1.0	I	be	president	0	0
+1.0	Korolev	be	in 1938 at height of Stalin 's paranoia-fueled mass repression accuse	PERSON	DATE
+1.0	world	have	satellite	O	O
+1.0	Kremlin	have	wall	O	ORGANIZATION
+1.0	energy	have	reserves	O	O
+1.0	Korolev	be accuse of	sabotage	PERSON	0
+1.0	one key element	be in	new wave of space travel	0	0
+1.0	Korolev	be	in 1938 at height accuse of economic sabotage	PERSON	DATE

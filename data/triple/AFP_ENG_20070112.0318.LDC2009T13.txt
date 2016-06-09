@@ -1,0 +1,21 @@
+1.0	prison	of	first detainee	0	ORDINAL
+1.0	criminal group	be with	goal prepare	0	0
+1.0	their	have	transfer	O	O
+1.0	he	be accuse in	Morocco	0	LOCATION
+1.0	group	have	part	O	O
+1.0	Mohamed Benaissa	be	Moroccan	PERSON	MISC
+1.0	His	have	trial	O	O
+1.0	Guantanamo detention base	be in	Cuba	LOCATION	LOCATION
+1.0	Al-Qaeda terror network	have	member	O	O
+1.0	detainee	have	arrival	O	O
+1.0	moroccan anti-terrorism court	be in	Sale	0	0
+1.0	arrival	have	anniversary	O	O
+1.0	he	be	accuse in Morocco part of criminal group	0	LOCATION
+1.0	its	have	Guantanamo detention base	LOCATION	O
+1.0	prison	have	detainee	O	O
+1.0	treason	have	crimes	O	O
+1.0	he	be	accuse	0	0
+1.0	he	be	accuse in Morocco part	0	LOCATION
+1.0	he	be	accuse in Morocco part of criminal group with goal	0	LOCATION
+1.0	he	be	accuse in Morocco part of group with goal	0	LOCATION
+1.0	he	be	accuse in Morocco part of group	0	LOCATION

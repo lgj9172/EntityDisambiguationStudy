@@ -1,0 +1,9 @@
+1.0	African nation	have	Horn	MISC	O
+1.0	peacekeepers	have	governance	O	O
+1.0	government	have	authority	O	O
+1.0	key	include	governance of peacekeeper in Somalia	0	MISC
+1.0	key	include	governance of peacekeeper	0	0
+1.0	peacekeeper	be in	Somalia	0	MISC
+1.0	key	be in	issue discuss	0	0
+1.0	key	include	governance	0	0
+1.0	fighting	have	days	DURATION	O

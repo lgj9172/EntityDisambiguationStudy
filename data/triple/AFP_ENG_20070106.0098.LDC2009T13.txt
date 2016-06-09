@@ -1,0 +1,198 @@
+1.0	he	tap	former head	0	0
+1.0	President George W. Bush	fill	critical diplomatic vacancy	PERSON	0
+1.0	Lieutenant General David Petraeus 54	would replace	General George Casey as man	NUMBER	PERSON
+1.0	Fallon	be involve in	Bosnia	PERSON	LOCATION
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White house-endorsed recommendation from Defense Secretary Robert Gates	PERSON	PERSON
+1.0	troops	have	point	O	O
+1.0	US Central Command	have	head	O	ORGANIZATION
+1.0	us-led force	be in	Iraq	0	LOCATION
+1.0	Bush	be unhappy with	performance of general	PERSON	0
+1.0	President George W. Bush	dump defense secretary donald rumsfeld at_time	last year	PERSON	DATE
+1.0	President George W. Bush	have	plan	O	O
+1.0	William Fallon	head of	US force in Pacific	PERSON	LOCATION
+1.0	two leader	take aim at	news report	NUMBER	0
+1.0	US Congress	send	US troops	LOCATION	LOCATION
+1.0	US forces	have	head	O	O
+1.0	forces	have	commander	O	O
+1.0	vision	have	soldier	O	O
+1.0	his	have	Iraq approach	O	O
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White recommendation from Defense Secretary Robert Gates	PERSON	PERSON
+1.0	embattled US president	unveil	he new Iraq approach	LOCATION	LOCATION
+1.0	President George W. Bush	dump defense secretary donald rumsfeld at_time	year	PERSON	DATE
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	Fallon	be	navy combat pilot	PERSON	0
+1.0	his	have	job approval numbers	O	O
+1.0	US president	unveil	he Iraq approach	LOCATION	LOCATION
+1.0	leader	take	aim	0	0
+1.0	President George W. Bush	describe fallon as	one of America 's foremost military strategist	PERSON	LOCATION
+1.0	NATO	have	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	leader	take aim at	news report	0	0
+1.0	Fallon	be	involve in NATO 's Operation Deliberate Force in Bosnia	PERSON	ORGANIZATION
+1.0	President George W. Bush	be embark on	sweeping overhaul of US diplomatic in Iraq	PERSON	LOCATION
+1.0	Senator John McCain	warn at_time	Friday	PERSON	DATE
+1.0	it	be	time	0	0
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White recommendation	PERSON	MISC
+1.0	president	be	US Secretary of State Condoleezza Rice 's deputy	0	PERSON
+1.0	New York Times	report at_time	Saturday	ORGANIZATION	DATE
+1.0	Senator John McCain	already warn at_time	Friday	PERSON	DATE
+1.0	William Fallon	be	62	PERSON	NUMBER
+1.0	President George W. Bush	be embark on	sweeping overhaul of US diplomatic	PERSON	LOCATION
+1.0	Khalilzad	be in	Baghdad	PERSON	LOCATION
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White recommendation	NUMBER	MISC
+1.0	President George W. Bush	be embark on	overhaul of diplomatic in Iraq	PERSON	LOCATION
+1.0	their	have	Senate confirmation	O	O
+1.0	Fallon	be involve in	NATO 's Operation Deliberate Force	PERSON	ORGANIZATION
+1.0	President George W. Bush	be embark on	sweeping overhaul in Iraq	PERSON	LOCATION
+1.0	Casey	be	promote	PERSON	0
+1.0	combat	have	years	DURATION	O
+1.0	President George W. Bush	describe fallon as	one America 's military strategist	PERSON	LOCATION
+1.0	our	have	country	O	O
+1.0	US Congress	demand end to	war	LOCATION	0
+1.0	President George W. Bush	name	US spy chief	PERSON	LOCATION
+1.0	envisage troop surge	avoid	failure	0	0
+1.0	Fallon	be	navy combat pilot during Vietnam War	PERSON	MISC
+1.0	President George W. Bush	describe	Fallon	PERSON	PERSON
+1.0	Casey 58	be	promote	PERSON	0
+1.0	Lieutenant General David Petraeus 54	would replace	General George Casey	NUMBER	PERSON
+1.0	Lieutenant General David Petraeus 54	would replace general george casey in	Iraq	NUMBER	LOCATION
+1.0	National Intelligence John Negroponte	have	Director	O	PERSON
+1.0	vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	US president	unveil	he new Iraq approach	LOCATION	LOCATION
+1.0	leadership	have	overhaul	O	O
+1.0	US	have	charge	O	LOCATION
+1.0	President George W. Bush	escalate	number	PERSON	0
+1.0	Fallon	command attack squadron during	first Gulf War	PERSON	ORDINAL
+1.0	Fallon	command	attack squadron	PERSON	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	President George W. Bush	be embark on	overhaul of diplomatic	PERSON	0
+1.0	President George W. Bush	put	touch	0	0
+1.0	His	have	service	O	O
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White house-endorsed recommendation from Defense Secretary Robert Gates	NUMBER	PERSON
+1.0	generals	have	performance	O	O
+1.0	he	tap	former head of National Security Agency	0	ORGANIZATION
+1.0	Bush	say in	message	PERSON	0
+1.0	Casey	be promote to	Army chief	PERSON	ORGANIZATION
+1.0	Americans	add	more combat troops	MISC	0
+1.0	republican president	replace	head	0	0
+1.0	Saddam Hussein	have	ouster	O	PERSON
+1.0	embattled US president	unveil	he Iraq approach	LOCATION	LOCATION
+1.0	US contingent	have	expansion	O	O
+0.6853099747690036	president	director of	National Intelligence John Negroponte	0	PERSON
+1.0	President George W. Bush	describe fallon as	one of America 's foremost strategist	PERSON	LOCATION
+1.0	Casey 58	be promote to	Army chief of staff	PERSON	ORGANIZATION
+1.0	US Congress	demand	end	LOCATION	0
+1.0	President George W. Bush	also fill	critical diplomatic vacancy	PERSON	0
+1.0	he job approval number	be in	cellar	0	0
+1.0	President George W. Bush	say in	statement	PERSON	0
+1.0	US spy agencies	have	head	O	O
+1.0	president	be	US Secretary	0	LOCATION
+1.0	time	bring war to	close	0	0
+1.0	force	have	importance	O	O
+1.0	President George W. Bush	escalate number in	Iraq	PERSON	LOCATION
+1.0	embattled US president	number in	cellar	LOCATION	0
+1.0	President George W. Bush	be embark on	overhaul of US diplomatic	PERSON	LOCATION
+1.0	National Security Agency	have	head	O	ORGANIZATION
+0.5245217434442611	it	bring war to	close	0	0
+1.0	retired vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	vice admiral Michael McConnell	replace	Negroponte	PERSON	PERSON
+1.0	President George W. Bush	describe fallon as	one of America 's strategist	PERSON	LOCATION
+1.0	envisage troop surge	be	significant	0	0
+1.0	David Petraeus	be	54	PERSON	NUMBER
+1.0	surge	have	skeptical	O	O
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White recommendation from Defense Secretary Robert Gates	NUMBER	PERSON
+1.0	consultation	be with	key world leader	0	0
+1.0	Casey 58	be promote to	Army chief	PERSON	ORGANIZATION
+1.0	presumed republican presidential candidate	be in	2008	0	DATE
+1.0	retired vice admiral Michael McConnell	replace	Negroponte	PERSON	PERSON
+1.0	their	have	responsibilities	O	O
+1.0	Congress	be	US	ORGANIZATION	LOCATION
+1.0	Lieutenant General David Petraeus	would replace general george casey accord to	White house-endorsed recommendation	PERSON	MISC
+1.0	coalition forces	have	charge	O	O
+1.0	America	have	strategists	O	LOCATION
+1.0	State Department	have	one	NUMBER	ORGANIZATION
+1.0	President George W. Bush	fill	diplomatic vacancy	PERSON	0
+1.0	His	have	experience	O	O
+1.0	President George W. Bush	dump defense secretary donald rumsfeld at_time	late last year	PERSON	DATE
+1.0	President George W. Bush	name	new US spy chief	PERSON	LOCATION
+1.0	our	have	military	O	O
+1.0	Senate Majority Leader Harry Reid	write	House of Representatives Speaker Nancy Pelosi	ORGANIZATION	ORGANIZATION
+1.0	Americans	add	combat troops	MISC	0
+1.0	US forces	have	deployment	O	O
+1.0	deputy	have	US Secretary	O	O
+1.0	President George W. Bush	also fill	diplomatic vacancy	PERSON	0
+1.0	US Congress	send	more US troops	LOCATION	LOCATION
+1.0	Zalmay Khalilzad	envoy to	United Nations	PERSON	ORGANIZATION
+1.0	US casualties	have	thousands	O	O
+1.0	he	tap	vice admiral Michael McConnell	0	PERSON
+1.0	White House	dismiss	suggestion	ORGANIZATION	0
+1.0	Condoleezza Rice	be 's	State	PERSON	ORGANIZATION
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	President George W. Bush	be embark on	overhaul	PERSON	0
+1.0	America	of	foremost military strategist	LOCATION	0
+1.0	rule	have	years	DURATION	O
+1.0	staff	have	Army chief	O	O
+1.0	US ambassador	be in	Pakistan	LOCATION	LOCATION
+1.0	strategists	have	one	NUMBER	O
+1.0	President George W. Bush	fill	critical vacancy	PERSON	0
+1.0	Harry Reid	be majority leader of	Senate	PERSON	ORGANIZATION
+1.0	Fallon	be	involve	PERSON	0
+1.0	time	bring	war	0	0
+1.0	President George W. Bush	be embark on	overhaul in Iraq	PERSON	LOCATION
+1.0	President George W. Bush	escalate	number of US troops	PERSON	LOCATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	President George W. Bush	be embark on	sweeping overhaul of diplomatic in Iraq	PERSON	LOCATION
+1.0	Congress Thursday	have	control	O	DATE
+1.0	two leader	take	aim	NUMBER	0
+1.0	Lieutenant General David Petraeus	would replace	General George Casey	PERSON	PERSON
+1.0	Nancy Pelosi	be speaker of	House of Representatives	PERSON	ORGANIZATION
+1.0	Lieutenant General David Petraeus 54	would replace general george casey accord to	White house-endorsed recommendation	NUMBER	MISC
+1.0	Harry Reid	be	Senate	PERSON	ORGANIZATION
+1.0	troop surge	be	significant	0	0
+1.0	troop surge	avoid	failure	0	0
+1.0	enemy	have	understanding	O	O
+1.0	Lieutenant General David Petraeus	would replace	General George Casey as man	PERSON	PERSON
+1.0	it	be time after	nearly four year	0	DURATION
+1.0	President George W. Bush	also fill vacancy in	Washington	PERSON	LOCATION
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	Fallon	command attack squadron during	Gulf War	PERSON	MISC
+1.0	Representatives Speaker Nancy Pelosi	have	House	ORGANIZATION	PERSON
+1.0	Casey	be	58	PERSON	NUMBER
+1.0	President George W. Bush	be embark on	overhaul of US diplomatic in Iraq	PERSON	LOCATION
+1.0	Bush	say in	message aim	PERSON	0
+1.0	Bush	be unhappy with	performance	PERSON	0
+1.0	US Congress	send us troops to	Iraq	LOCATION	LOCATION
+1.0	President George W. Bush	fill	vacancy	PERSON	0
+1.0	Fallon	command attack squadron in	1991	PERSON	DATE
+1.0	President George W. Bush	describe fallon as	one America 's strategist	PERSON	LOCATION
+1.0	President George W. Bush	be embark on	sweeping overhaul	PERSON	0
+1.0	determination	have	soldier	O	O
+1.0	Nancy Pelosi	be of	House of Representatives	PERSON	ORGANIZATION
+1.0	John McCain	candidate in	2008	PERSON	DATE
+1.0	he	tap	retired vice admiral Michael McConnell	0	PERSON
+0.5245217434442611	it	bring	war	0	0
+1.0	President George W. Bush	dump defense secretary donald rumsfeld at_time	late year	PERSON	DATE
+1.0	NATO	in	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	reshuffle	come at_time	Friday	0	DATE
+1.0	diplomatic	have	overhaul	O	O
+1.0	President George W. Bush	also fill	vacancy	PERSON	0
+1.0	President George W. Bush	dump	defense secretary Donald Rumsfeld	PERSON	PERSON
+1.0	President George W. Bush	describe fallon as	one America 's foremost strategist	PERSON	LOCATION
+1.0	US troops	have	number	O	O
+1.0	Pakistan	be since	November 2004	LOCATION	DATE
+1.0	House of Representatives	be of	Nancy Pelosi	ORGANIZATION	PERSON
+1.0	Ryan Crocker	be	57	PERSON	NUMBER
+1.0	it	be time after	nearly four year of combat	0	ORGANIZATION
+1.0	President George W. Bush	put	finishing touch	0	0
+1.0	sweeping overhaul	be in	Iraq	0	LOCATION
+1.0	Casey	be promote to	Army chief of staff	PERSON	ORGANIZATION
+1.0	President George W. Bush	be embark on	sweeping overhaul of diplomatic	PERSON	0
+1.0	Robert Gates	be from	Defense	PERSON	ORGANIZATION
+1.0	Lieutenant General David Petraeus	would replace general george casey in	Iraq	PERSON	LOCATION
+1.0	Ryan Crocker	ambassador in	Pakistan	PERSON	LOCATION
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	President George W. Bush	fill vacancy in	Washington	PERSON	LOCATION
+1.0	President George W. Bush	also fill	critical vacancy	PERSON	0
+1.0	President George W. Bush	describe fallon as	one America 's foremost military strategist	PERSON	LOCATION
+1.0	President George W. Bush	describe fallon as	one of America 's military strategist	PERSON	LOCATION
+1.0	Bush	be	unhappy	PERSON	0
+1.0	president	replace	head	0	0

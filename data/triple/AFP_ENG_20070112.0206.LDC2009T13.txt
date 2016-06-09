@@ -1,0 +1,35 @@
+1.0	EU decision	prevent	spread of bird flu	ORGANIZATION	0
+1.0	EU	have	move	O	ORGANIZATION
+1.0	infection	have	risk	O	O
+1.0	The European Commission	have	ban	O	O
+1.0	influenza	have	threat	O	O
+1.0	Flora	have	Endangered Species	ORGANIZATION	PERSON
+1.0	Wild Fauna	have	Endangered Species	ORGANIZATION	ORGANIZATION
+1.0	bird flu	have	spread	O	O
+1.0	Commission	say on	Thursday	ORGANIZATION	DATE
+1.0	EU 's move	provide spur to	market	ORGANIZATION	0
+1.0	UN 's Convention	call	disappointing	ORGANIZATION	ORGANIZATION
+1.0	world	have	bird species	O	O
+1.0	estimate 7.5 million bird	be in	a year in 1975	NUMBER	DATE
+1.0	decision	have	nature	O	O
+1.0	global trade	be in	live domestic poultry	DURATION	0
+1.0	EU	have	ban	O	ORGANIZATION
+1.0	bird species	have	percent	PERCENT	O
+1.0	EU	announce	new guideline	ORGANIZATION	0
+0.479299813011707	EU decision	maintain ban on	bird import	ORGANIZATION	0
+1.0	diseases	have	spread	O	O
+1.0	world	of	bird species	0	0
+1.0	EU 's move	provide spur to	black market	ORGANIZATION	0
+1.0	UN 's Convention	however call	disappointing	ORGANIZATION	ORGANIZATION
+1.0	european Commission	say on	Thursday	ORGANIZATION	DATE
+1.0	trade	involve	some 750 million bird	DURATION	NUMBER
+1.0	EU	have	move	ORGANIZATION	0
+1.0	UN	have	Convention	O	ORGANIZATION
+1.0	global trade	involve	some 750 million bird	DURATION	NUMBER
+1.0	EU	announce	guideline	ORGANIZATION	0
+0.479299813011707	EU decision	maintain	ban	ORGANIZATION	0
+1.0	EU 's move	provide	spur	ORGANIZATION	0
+1.0	ban	be in	place	0	0
+1.0	UN	have	Convention on International Trade in Endangered Species of Wild Fauna	ORGANIZATION	ORGANIZATION
+1.0	Willem Wijnstekers	be in	statement	PERSON	0
+0.479299813011707	EU decision	maintain ban on	wild bird import	ORGANIZATION	0

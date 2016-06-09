@@ -1,0 +1,76 @@
+1.0	country	in	capital account deregulation	0	0
+1.0	Hong Kong Monetary Authority	have	executive	O	ORGANIZATION
+1.0	bonds	have	issue	O	O
+1.0	country	have	capital account deregulation	O	O
+1.0	it	improve	they funding structure	0	DATE
+1.0	further expansion	be in	renminbi business	0	0
+1.0	senior Hong Kong official	denominate	bond	LOCATION	0
+1.0	Hong Kong official	denominate	bond	LOCATION	0
+0.6849144492121276	move	signify	key development in country 's capital account deregulation	0	0
+1.0	China	facilitate	capital flow	0	0
+1.0	Beijing	allow	greater margin	LOCATION	0
+1.0	Beijing	allow	greater control margin of flexibility	LOCATION	0
+1.0	China	have	State Council	ORGANIZATION	LOCATION
+0.7644215180476109	move	development in	country 's capital account deregulation	0	0
+1.0	senior Hong Kong official	denominate bond for	currency	LOCATION	0
+1.0	China	facilitate	efficient capital flow	0	0
+1.0	senior Hong Kong official	denominate bond in	Hong Kong	LOCATION	LOCATION
+1.0	senior Hong Kong official	denominate bond in	key step	LOCATION	0
+1.0	Beijing	allow	margin	LOCATION	0
+1.0	Hong Kong official	denominate bond in	step	LOCATION	0
+1.0	Joseph Yam	executive of	Hong Kong Monetary Authority	PERSON	ORGANIZATION
+1.0	Beijing	allow	control margin of flexibility	LOCATION	0
+1.0	yuan	be peg to	US dollar	0	LOCATION
+1.0	its system	make	move	0	0
+0.6849144492121276	move	signify	key development	0	0
+1.0	it	want	yuan	0	0
+1.0	China	facilitate	cross-border capital flow	0	0
+1.0	key development	be in	country 's capital account deregulation	0	0
+1.0	China	sell	yuan	LOCATION	0
+1.0	its financial system	make	move	0	0
+1.0	China	have	determination	O	LOCATION
+0.7644215180476109	move	key development in	country 's capital account deregulation	0	0
+1.0	their	have	funding structures	O	O
+1.0	China	facilitate	more efficient cross-border capital flow	0	0
+1.0	senior Hong Kong official	denominate bond for	chinese currency	LOCATION	0
+1.0	Beijing	allow	control margin	LOCATION	0
+1.0	Hong Kong official	denominate bond in	key step	LOCATION	0
+1.0	bond market	be in	the future	0	DATE
+1.0	Donald Tsang	be	Hong Kong	PERSON	LOCATION
+1.0	Beijing	allow	greater margin of flexibility	LOCATION	0
+0.853131457712043	a very important step	be	important step	0	0
+1.0	Hong Kong official	denominate bond in	Hong Kong	LOCATION	LOCATION
+0.6849144492121276	move	signify	development	0	0
+0.853131457712043	a very important step	be	very important step	0	0
+1.0	China	have	determination integrate fully with global economy	LOCATION	0
+1.0	Beijing	allow	margin of flexibility	LOCATION	0
+1.0	Hong Kong	have	role	LOCATION	0
+1.0	renminbi	have	expansion	O	O
+1.0	China	facilitate	more efficient capital flow	0	0
+1.0	Beijing	put unit into	currency basket system	LOCATION	0
+1.0	Beijing	allow	greater control margin	LOCATION	0
+1.0	yuan	be peg until	2005	0	DATE
+0.853131457712043	a very important step	be	step	0	0
+1.0	Standard Chartered Bank	say in	report	ORGANIZATION	0
+1.0	China	as	prime fund raise	LOCATION	0
+1.0	China	have	State Council	LOCATION	ORGANIZATION
+1.0	yuan	be	peg	0	0
+1.0	its	have	system	O	O
+1.0	business	be in	southern territory	0	0
+1.0	China	demonstrate	China 's determination	0	LOCATION
+1.0	China	be with	global financial system	LOCATION	0
+1.0	Beijing	put	unit	LOCATION	0
+1.0	yuan	be	peg to US dollar until 2005	0	LOCATION
+1.0	China	have	fund	O	LOCATION
+1.0	a very important step	be	important	0	0
+0.23154884713092094	Beijing	decide	allow	LOCATION	0
+1.0	China	facilitate	efficient cross-border capital flow	0	0
+1.0	senior Hong Kong official	denominate bond in	step	LOCATION	0
+1.0	Hong Kong	have	role	O	LOCATION
+1.0	renminbi	have	category	O	O
+1.0	Hong Kong official	denominate bond for	currency	LOCATION	0
+1.0	a year	be with	chinese authority	DURATION	DURATION
+0.6849144492121276	move	signify	development in country 's capital account deregulation	0	0
+1.0	Hong Kong official	denominate bond for	chinese currency	LOCATION	0
+1.0	renminbi	of category be	yuan	0	0
+1.0	flexibility	have	margin	O	O

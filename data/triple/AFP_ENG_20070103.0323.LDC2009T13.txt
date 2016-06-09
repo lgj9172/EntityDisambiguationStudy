@@ -1,0 +1,84 @@
+1.0	Litvinenko	have	death	O	PERSON
+1.0	new case	involve member at	best western	0	0
+1.0	long-term risk	be	very small	0	0
+1.0	organisation	contact	helpline	0	0
+1.0	organisation	contact	special helpline	0	0
+1.0	they	also restate despite	trace	0	0
+1.0	polonium	have	levels	O	O
+1.0	Litvinenko	have	widow	O	PERSON
+1.0	case	involve member at	Millennium Hotel	0	LOCATION
+1.0	case	involve member in	nearby Mayfair district	0	LOCATION
+1.0	new case	involve	member of staff	0	0
+1.0	involvement	have	accusing	O	O
+1.0	toxic substance	be	adminster there	0	DATE
+1.0	Alexander Litvinenko	accuse	he	PERSON	0
+1.0	examination	have	Results	O	O
+1.0	substance	be	adminster	0	0
+1.0	they	restate despite	trace of polonium 210	0	NUMBER
+1.0	Litvinenko	have	widow	PERSON	0
+1.0	Alexander Litvinenko	make	apparent death-bed charge	PERSON	0
+1.0	people	have	total	O	O
+1.0	risk	be	low	0	0
+1.0	risk	be	small	0	0
+1.0	staff	have	member	O	O
+1.0	criticism	have	accusing	O	O
+1.0	police	be investigate	former KGB man 's murder	0	ORGANIZATION
+1.0	staff	prompt	speculation	0	0
+1.0	case	involve	member of staff	0	0
+1.0	Moscow	have	criticism	O	LOCATION
+1.0	they	also restate despite	trace of polonium 210	0	NUMBER
+1.0	toxic substance	be	adminster	0	0
+1.0	risk	be	very small	0	0
+1.0	Litvinenko	follow	death in London hospital on November 23 last year	PERSON	DATE
+1.0	Litvinenko	have	body	O	PERSON
+1.0	police	be currently investigate	former KGB man 's murder	0	ORGANIZATION
+1.0	Litvinenko	on	body	PERSON	0
+1.0	an employee at the Sheraton Hotel	be	employee	DATE	0
+1.0	case	involve	member	0	0
+1.0	result	be	still await	0	0
+1.0	risk	be	also small	0	0
+1.0	an employee at the Sheraton Hotel	be employee in	upmarket Park Lane	DATE	LOCATION
+1.0	an employee at the Sheraton Hotel	be employee at	Sheraton Hotel	DATE	ORGANIZATION
+1.0	involvement	be in	he death	0	0
+1.0	locations	have	number	O	O
+1.0	case	involve member at	western	0	0
+1.0	Marina	be widow of	Litvinenko	LOCATION	PERSON
+1.0	new case	involve	member	0	0
+1.0	case	involve member in	Mayfair district	0	LOCATION
+1.0	KGB man	have	murder	O	O
+1.0	radiation	kill	former russian spy Alexander Litvinenko	0	PERSON
+1.0	Alexander Litvinenko	make	apparent charge	PERSON	0
+1.0	former KGB man	have	murder	ORGANIZATION	0
+1.0	new case	involve member in	nearby Mayfair district	0	LOCATION
+1.0	long-term risk	be	small	0	0
+1.0	employee	be in	Park Lane	0	LOCATION
+1.0	radiation	kill	former spy Alexander Litvinenko	0	PERSON
+1.0	Shaftesbury Hotel	be in	London	LOCATION	LOCATION
+1.0	London	be in	Piccadilly	LOCATION	LOCATION
+1.0	case	involve member at	best western	0	0
+1.0	Alexander Litvinenko	have	criticism	O	O
+1.0	risk	be	also very small	0	0
+1.0	new case	involve member at	western	0	0
+1.0	polonium	have	traces	O	O
+1.0	eight	be	staff	NUMBER	0
+1.0	Vladimir Putin	be against	Russian	PERSON	MISC
+1.0	long-term risk	be	also small	0	0
+1.0	Alexander Litvinenko	be	russian	PERSON	0
+1.0	Alexander Litvinenko	have	death	O	O
+1.0	a precautionary measure	have	appeal	O	O
+1.0	eight	be staff at	Millennium Hotel	NUMBER	ORGANIZATION
+1.0	long-term risk	be	also very small	0	0
+1.0	result	be	await	0	0
+1.0	new case	involve member in	Mayfair district	0	LOCATION
+1.0	illness	be in	short term	0	0
+1.0	one	be	Litvinenko 's widow	0	PERSON
+1.0	an employee at the Sheraton Hotel	be	employee at Sheraton Hotel in upmarket Park Lane	DATE	LOCATION
+1.0	Litvinenko	's widow be	Marina	PERSON	LOCATION
+1.0	risk	be	very low	0	0
+1.0	new case	involve member at	Millennium Hotel	0	LOCATION
+1.0	british police	be currently investigate	former KGB man 's murder	0	ORGANIZATION
+1.0	Health Protection Agency	say in	statement	ORGANIZATION	0
+1.0	british police	be investigate	former KGB man 's murder	0	ORGANIZATION
+1.0	substance	be	adminster there	0	DATE
+1.0	radiation	have	levels	O	O
+1.0	they	restate despite	trace	0	0

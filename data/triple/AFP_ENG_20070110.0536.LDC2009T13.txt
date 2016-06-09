@@ -1,0 +1,11 @@
+1.0	Russia	have	EU ambassador	O	LOCATION
+1.0	talk	be with	Andris Piebalgs	DURATION	PERSON
+1.0	Russia 's EU ambassador	say at_time	Wednesday	LOCATION	DATE
+1.0	ambassador Vladimir Chizhov	speak to	journalist	PERSON	DURATION
+1.0	ambassador Vladimir Chizhov	speak after	talk with EU Energy Commissioner Andris Piebalgs	PERSON	PERSON
+1.0	ambassador Vladimir Chizhov	speak after	talk	PERSON	DURATION
+1.0	Andris Piebalgs	be with	EU Energy	PERSON	ORGANIZATION
+1.0	hours	have	question	O	DURATION
+1.0	Russia	have	EU ambassador	LOCATION	ORGANIZATION
+1.0	oil	have	exports	O	O
+1.0	Andris Piebalgs	be commissioner of	EU Energy	PERSON	ORGANIZATION

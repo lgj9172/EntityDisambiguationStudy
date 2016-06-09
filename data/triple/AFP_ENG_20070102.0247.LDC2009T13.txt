@@ -1,0 +1,51 @@
+1.0	Wales Cricket Board	have	chairman	O	ORGANIZATION
+1.0	David Morgan	have	term	O	O
+1.0	he	must secure	support	0	0
+1.0	Percy Sonn	be president of	icc	PERSON	0
+1.0	ICC annual conference	be  at_time	next June	ORGANIZATION	DATE
+1.0	Sonn , a South African	have	successor	O	O
+1.0	ICC annual conference	be in	London	ORGANIZATION	LOCATION
+1.0	board	will make	its recommendation	0	0
+1.0	Morgan	have receive	support	ORGANIZATION	0
+1.0	powerful asian bloc	be in	world cricket	0	0
+1.0	Percy Sonn	be	current	PERSON	DATE
+1.0	David Morgan	have	have nominate	PERSON	ORGANIZATION
+1.0	Cricket	have	body	O	O
+1.0	he	must secure support from	two-third of 10 full member at conference	0	NUMBER
+1.0	voting	will take	place	0	0
+1.0	Sonn , a South African	have	term	O	PERSON
+1.0	David Morgan	chairman of	England	PERSON	LOCATION
+1.0	Cricket 's govern body	have receive	two nomination	0	NUMBER
+1.0	he	must secure support from	two-third of 10 full member at annual conference	0	NUMBER
+1.0	he	must secure support from	two-third of 10 full member	0	NUMBER
+1.0	Percy Sonn	be	icc	PERSON	0
+1.0	he	must secure support in	order for candidate	0	0
+1.0	his	have	backing	O	O
+1.0	Cricket 's govern body	have receive	two nomination for post of body 's next president	0	NUMBER
+1.0	body	have	president	O	O
+1.0	he	must secure support from	two-third	0	0
+1.0	Cricket 's body	have receive	two nomination	0	NUMBER
+1.0	Sonn , a South African	begin	he two-year term	PERSON	DURATION
+1.0	members	have	two-thirds	O	O
+1.0	Sonn , a South African	have	term	O	O
+1.0	Sharad Pawar	president of	Board of Control for Cricket in India	PERSON	ORGANIZATION
+1.0	Cricket 's govern body	have receive	two nomination for post of body 's president	0	NUMBER
+1.0	he	must secure support from	two-third of 10 member	0	NUMBER
+1.0	its	have	recommendation	O	O
+1.0	Cricket	have	govern body	0	0
+1.0	Board	have	president	O	ORGANIZATION
+1.0	body	of	next president	0	0
+1.0	he	must secure support from	two-third of 10 member at conference	0	NUMBER
+1.0	he	must secure support from	two-third of 10 member at annual conference	0	NUMBER
+1.0	Cricket 's body	have receive	two nomination for post of body 's next president	0	NUMBER
+1.0	he	must secure support in	order	0	0
+1.0	Pawar	will	will firm	PERSON	0
+1.0	Morgan	have receive support from	Australia Zealand	ORGANIZATION	LOCATION
+1.0	Cricket	's body be	icc	0	0
+1.0	England	have	chairman	O	LOCATION
+1.0	Cricket 's body	have receive	two nomination for post of body 's president	0	NUMBER
+1.0	Cricket 's govern body	have receive	two nomination for post	0	NUMBER
+1.0	Cricket 's body	have receive	two nomination for post	0	NUMBER
+1.0	Sonn , a South African	begin	he term	PERSON	0
+1.0	president	have	post	O	O
+1.0	Control	have	Board	ORGANIZATION	ORGANIZATION

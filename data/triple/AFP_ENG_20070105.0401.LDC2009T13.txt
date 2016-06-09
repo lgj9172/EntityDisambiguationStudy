@@ -1,0 +1,42 @@
+1.0	Rotherham	be in	League	ORGANIZATION	MISC
+1.0	Lee Williamson	become	midfielder	PERSON	0
+1.0	Ashikodi	follow	arrival	PERSON	0
+1.0	that	would represent step up with	third tier of English professional game	0	ORDINAL
+1.0	Watford	make	double transfer window purchase	LOCATION	0
+1.0	that	would represent up	big step	0	0
+0.9588533191859536	Watford	bottom of	English Premier League	LOCATION	MISC
+1.0	that	would represent	step	0	0
+1.0	Rotherham	tier of	English professional game	ORGANIZATION	MISC
+1.0	Watford	make transfer window purchase at_time	Friday	LOCATION	DATE
+1.0	that	would represent step with	third tier of English professional game	0	ORDINAL
+1.0	Watford	make	transfer window purchase	LOCATION	0
+1.0	League	in rotherham be	third tier of English professional game	MISC	ORDINAL
+1.0	Lee Williamson	become	second	PERSON	ORDINAL
+1.0	English Premier League	have	bottom	O	MISC
+1.0	that	would represent up	step	0	0
+1.0	that	would represent step with	tier	0	0
+1.0	Lee Williamson	become	forward hoskin	PERSON	0
+1.0	Williamson , a midfielder , and forward Hoskins	have	debuts	O	O
+1.0	mose Ashikodi	be from	Rangers	PERSON	ORGANIZATION
+1.0	that	would represent step with	third tier	0	ORDINAL
+1.0	that	would represent	big step	0	0
+1.0	striker	have	arrival	O	O
+1.0	Watford	bottom of	English Premier League	LOCATION	MISC
+1.0	that	would represent step with	Rotherham in League one	0	ORGANIZATION
+0.7766076390857465	follow	arrival of	striker	0	0
+1.0	Lee Williamson	become	hoskin	PERSON	0
+1.0	that	would represent step with	tier of English professional game	0	MISC
+1.0	Ashikodi	follow	arrival of striker	PERSON	0
+1.0	Lee Williamson	be from	Rotherham	PERSON	LOCATION
+1.0	that	would represent step up with	tier	0	0
+1.0	that	would represent step up with	Rotherham in League one	0	ORGANIZATION
+1.0	that	would represent step up with	third tier of English game	0	ORDINAL
+1.0	Rotherham	be in	deal	LOCATION	0
+1.0	that	would represent step with	tier of English game	0	MISC
+1.0	that	would represent step up with	Rotherham	0	ORGANIZATION
+1.0	English game	have	tier	O	O
+1.0	that	would represent step with	Rotherham	0	ORGANIZATION
+1.0	that	would represent step up with	third tier	0	ORDINAL
+1.0	that	would represent step up with	tier of English professional game	0	MISC
+1.0	that	would represent step up with	tier of English game	0	MISC
+1.0	that	would represent step with	third tier of English game	0	ORDINAL

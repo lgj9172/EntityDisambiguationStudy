@@ -1,0 +1,82 @@
+1.0	MLS	have	13 team	ORGANIZATION	NUMBER
+1.0	former England captain	sign	deal	LOCATION	0
+1.0	Canada	have	team	O	LOCATION
+1.0	US league	have	campaign	O	O
+1.0	Cobi Jones	be	Galaxy 's leader	PERSON	0
+1.0	Year	have	MLS Goalkeeper	O	DATE
+1.0	former England captain	sign	five-year deal	LOCATION	DURATION
+1.0	Alexi Lalas	be	US	PERSON	LOCATION
+1.0	his all - star	will join from	now	0	DATE
+0.9806739938802292	set-up pass	be	statistic	0	0
+1.0	Europe	have	stadia	O	LOCATION
+1.0	US Open Cup	be in	2001	MISC	DATE
+0.9806739938802292	set-up pass	be popular statistic in	US football realm	0	LOCATION
+1.0	his all - star	will join at_time	six month	0	DATE
+1.0	Galaxy 's all-time score leader	be with	62 goal	0	NUMBER
+1.0	Cobi Jones	be	Galaxy 's leader with 62 goal	PERSON	NUMBER
+1.0	team	be with	eight	0	NUMBER
+1.0	Beckham	have	youth sport academy	PERSON	0
+1.0	Cobi Jones	be	Galaxy 's all-time leader	PERSON	0
+1.0	Santino Quaranta	have	MLS season	O	O
+1.0	Cobi Jones	be	Galaxy 's score leader	PERSON	0
+1.0	Santino Quaranta	score	three goal	PERSON	NUMBER
+1.0	it	be big compare to	most mls grounds	0	0
+1.0	it	be big compare to	mls grounds	0	0
+1.0	club	have	best	O	O
+1.0	Joe Cannon	sign from	Colorado	PERSON	LOCATION
+1.0	Beckham	have	soccer academy	O	PERSON
+1.0	Cobi Jones	play in	record	PERSON	0
+1.0	Galaxy	have	home stadium	O	O
+1.0	former England captain	sign	Manchester United superstar	LOCATION	ORGANIZATION
+1.0	Cobi Jones	be	Galaxy 's all-time score leader	PERSON	0
+1.0	Galaxy	go	11-15	0	NUMBER
+1.0	Canada	for	national team	LOCATION	0
+1.0	pass	be	popular	0	0
+1.0	Joe Cannon	goalkeeper of	the year	PERSON	DATE
+1.0	Cobi Jones	be	Galaxy 's score leader with 62 goal	PERSON	NUMBER
+1.0	MLS league average	be	15,504	0	NUMBER
+0.9806739938802292	set-up pass	be	popular statistic	0	0
+0.9806739938802292	set-up pass	be statistic in	US football realm	0	LOCATION
+1.0	Galaxy	win	2005 MLS crown	0	DATE
+1.0	Galaxy	also win mls crown in	2002	0	DATE
+1.0	Cobi Jones	play in	record for club	PERSON	0
+1.0	Beckham	in	soccer academy in Los Angeles	PERSON	LOCATION
+1.0	Alexi Lalas	be world cup star of	US	PERSON	LOCATION
+0.85245100906265	figure	be jam for	match	0	0
+1.0	Galaxy	have	all-time score leader with 62 goal	0	NUMBER
+1.0	20,814	have	average	O	NUMBER
+1.0	Beckham	have	youth sport academy	O	PERSON
+1.0	popular statistic	be in	US football realm	0	LOCATION
+1.0	Galaxy	's stadium be	figure jam for match	0	0
+1.0	partner	be in	Beckham 's soccer academy	0	PERSON
+1.0	Galaxy	win mls crown in	2002	0	DATE
+1.0	Galaxy	win	mls crown	0	0
+1.0	Cobi Jones	play in	record 234 game	PERSON	NUMBER
+1.0	Galaxy	have	27,000-seat home stadium	0	0
+1.0	Landon Donovan	lead galaxy season with	12 goal	PERSON	NUMBER
+1.0	Beckham 's soccer academy	be in	Los Angeles	PERSON	LOCATION
+1.0	Cobi Jones	be	Galaxy 's all-time score leader with 62 goal	PERSON	NUMBER
+1.0	Cobi Jones	be	Galaxy 's all-time leader with 62 goal	PERSON	NUMBER
+0.5624514432690371	Galaxy	go with	six draw last year	0	DATE
+1.0	Cobi Jones	play in	record 234 game for club	PERSON	NUMBER
+1.0	Galaxy	capture	US Open Cup	0	MISC
+1.0	Galaxy	have	leader	O	O
+1.0	MLS	have	newest	ORGANIZATION	0
+1.0	former England captain	sign deal worth	128 million pound	LOCATION	MONEY
+1.0	Landon Donovan	lead	Galaxy season	PERSON	MISC
+1.0	England	have	Ipswich Town	LOCATION	LOCATION
+1.0	Galaxy	also win	mls crown	0	0
+1.0	England	for	Ipswich Town	LOCATION	LOCATION
+1.0	Los Angeles Galaxy	have	president general manager	O	MISC
+1.0	former US World Cup star Alexi Lalas	be	president manager	LOCATION	0
+1.0	last year	in	World Cup	DATE	MISC
+1.0	David Beckham	have	all	O	O
+1.0	Galaxy	's stadium be	also home	0	0
+0.5624514432690371	Galaxy	go with	six draw year	0	DATE
+1.0	former England captain	sign deal worth	report 128 million pound	LOCATION	MONEY
+1.0	former England captain	join	Manchester United superstar	LOCATION	ORGANIZATION
+1.0	Galaxy	draw	333,016 spectator	0	NUMBER
+1.0	Landon Donovan	lead	Galaxy last season	PERSON	DATE
+1.0	year	have	Major League Soccer playoffs	O	DATE
+1.0	year	have	World Cup	MISC	DATE
+0.5624514432690371	Galaxy	go with	six draw	0	NUMBER

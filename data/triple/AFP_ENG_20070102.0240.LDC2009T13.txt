@@ -1,0 +1,133 @@
+1.0	Alfredo Perez Rubalcaba	be minister of	Interior	PERSON	ORGANIZATION
+1.0	persons	have	deaths	O	O
+1.0	man	wait for	flight	0	0
+1.0	Spain	have	attorney general	O	LOCATION
+1.0	rescue worker	continue	search	0	0
+1.0	Tuesday	rule socialist party chairman jose blanco to	gulf	DATE	0
+1.0	weekend bombing	effectively scuttle	possibility of talk	DATE	0
+1.0	government	issue call after	month of criticism	0	0
+1.0	possible talks	have	possibility	O	O
+0.5297995160516892	weekend bombing	possibility of	talk	DATE	0
+1.0	The missing men	would	would fatality ascribe since 2003	0	DATE
+1.0	man	be	think	0	0
+1.0	man	wait for	flight from they homeland	0	0
+1.0	The missing men	would	would first fatality ascribe	0	ORDINAL
+1.0	Their	have	destiny	O	O
+1.0	rescuer	continue	search through rubble Tuesday	0	DATE
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come under	pressure	PERSON	0
+1.0	Candido Conde-Pumpio	say accord to	paper	PERSON	0
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come under	sharp pressure	PERSON	0
+1.0	minister	have conclude in	fact	0	0
+1.0	Conde-Pumpio	have	have accuse over few month by conservative opposition leader	PERSON	DURATION
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come at_time	Tuesday	PERSON	DATE
+1.0	Conde-Pumpio	have	have accuse over month	PERSON	0
+1.0	weekend bombing	effectively scuttle	possibility	DATE	0
+1.0	Jose Luis Rodriguez Zapatero	be	spanish	PERSON	0
+1.0	fledgling peace process	bomb	airport parking structure	0	0
+1.0	man	be think	have asleep	0	0
+1.0	its author	will	will detain	0	0
+1.0	it	be	eager	0	0
+1.0	conservative	be oppose to	dialogue with basque separatist group	0	0
+1.0	newspaper	cite	government source	0	0
+1.0	spanish conservative	be oppose to	dialogue with basque separatist group	0	0
+1.0	Spanish conservatives	themselves initiate contact while	while power in 1999	0	DATE
+1.0	spanish conservative	be ferociously oppose to	dialogue with basque separatist group	0	0
+1.0	party	have	leader	O	O
+1.0	The missing men	would	would fatality ascribe to ETA since 2003	0	DATE
+1.0	government	issue call after	month	0	0
+1.0	weekend bombing	scuttle	possibility of talk	DATE	0
+1.0	while power	be in	1999	0	DATE
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come from	opposition conservative	PERSON	0
+1.0	minister	have conclude accord to	daily	0	SET
+1.0	Madrid	of	rescue team	LOCATION	0
+1.0	party 's leader	slam	Zapatero	0	PERSON
+1.0	Jose Blanco	be in	allusion	PERSON	0
+1.0	violence	have	act	O	O
+1.0	Tuesday	call across	party divide	DATE	0
+1.0	Alfonso del Alamo	be rescue team of	Madrid	PERSON	LOCATION
+1.0	prime minister	have conclude in	fact	0	0
+1.0	minister	have conclude accord to	left-of-center daily	0	SET
+1.0	The missing men	would	would first fatality ascribe to ETA since 2003	0	ORDINAL
+1.0	Conde-Pumpio	have	have accuse over last few month by opposition leader	PERSON	DURATION
+1.0	The missing men	would	would fatality ascribe	0	0
+1.0	government	issue call from	right	0	0
+1.0	Spain	have	attorney general	LOCATION	0
+1.0	a serious act to which the state will respond in an energetic and decisive manner	have	authors	O	O
+1.0	conservative	be ferociously oppose to	dialogue with basque separatist group	0	0
+1.0	bombing	be	serious	0	0
+1.0	secret meeting	be in	December	0	DATE
+1.0	prime minister	have conclude accord to	daily	0	SET
+1.0	prime minister	have conclude accord to	left-of-center daily	0	SET
+1.0	government	have	representatives	O	O
+0.6195683270144663	two ecuadorian	kill in	explosion	NUMBER	0
+1.0	fledgling peace process	be with	ETA basque separatist after armed group	0	ORGANIZATION
+1.0	occasions	have	each	O	O
+1.0	miss man	be think	have asleep	0	0
+1.0	Tuesday	rule	Socialist Party chairman Jose Blanco	DATE	PERSON
+1.0	The missing men	have	homeland	O	O
+1.0	Conde-Pumpio	have	have accuse over month by opposition leader	PERSON	0
+1.0	Zapatero	have	hour	PERSON	0
+1.0	party 's leader	slam zapatero on	Sunday	0	DATE
+1.0	Tuesday	rule socialist party chairman jose blanco to	gulf between party	DATE	0
+1.0	The missing men	would	would first fatality ascribe to ETA	0	ORDINAL
+1.0	Spanish conservatives	initiate contact while	while power	0	0
+1.0	rescuer	continue	search	0	0
+1.0	Spanish conservatives	themselves initiate	contact	0	0
+1.0	Jose Blanco	be	rule Socialist Party	PERSON	ORGANIZATION
+1.0	rescue team	have	head	O	O
+1.0	rescuer	search at_time	Tuesday	0	DATE
+1.0	The missing men	would	would first fatality	0	ORDINAL
+1.0	The missing men	confirm	dead	0	0
+1.0	Gabriel Elorriaga	be	Popular Party	PERSON	ORGANIZATION
+1.0	Conde-Pumpio	have	have accuse over last few month by conservative opposition leader	PERSON	DURATION
+1.0	The ETA	have	representatives	O	ORGANIZATION
+1.0	rescuer	continue	search through massive rubble Tuesday	0	DATE
+1.0	rescuer	continue	search Tuesday	0	DATE
+1.0	Spanish conservatives	themselves initiate contact while	while power	0	0
+1.0	miss man	be	think	0	0
+1.0	Gabriel Elorriaga	be spokesman of	Popular Party	PERSON	ORGANIZATION
+1.0	Tuesday	rule	Socialist Party chairman Jose Blanco in allusion	DATE	PERSON
+1.0	Conde-Pumpio	have	have accuse over few month by opposition leader	PERSON	DURATION
+1.0	Jose Blanco	be chairman of	rule Socialist Party	PERSON	ORGANIZATION
+1.0	government	issue	call	0	0
+1.0	it	seek accord with	The ETA	0	ORGANIZATION
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come from	opposition conservative	PERSON	0
+1.0	it	seek	negotiate accord	0	0
+1.0	action	have	unity	O	O
+1.0	terrorism	have	face	O	O
+1.0	rescuer	search through	rubble	0	0
+1.0	campaign	have	course	O	O
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come under	pressure	PERSON	0
+1.0	party 's leader	slam	Zapatero fail	0	PERSON
+1.0	Conde-Pumpio	have	have accuse over last month	PERSON	DURATION
+1.0	Conde-Pumpio	have	have accuse over last month by opposition leader	PERSON	DURATION
+1.0	Conde-Pumpio	have	have accuse over last few month	PERSON	DURATION
+1.0	it	seek	accord	0	0
+1.0	party	have	leader	0	0
+1.0	criticism	have	months	DURATION	O
+1.0	The missing men	would	would first fatality ascribe since 2003	0	ORDINAL
+1.0	government	issue	call for unity	0	0
+1.0	its	have	sympathizers	O	O
+1.0	Prime Minister Jose Luis Rodriguez Zapatero	come at_time	Tuesday	PERSON	DATE
+1.0	The missing men	would	would fatality ascribe to ETA	0	ORGANIZATION
+1.0	rescuer	continue	search through massive rubble	0	0
+1.0	party	's leader be	Mariano Rajoy	0	PERSON
+1.0	weekend bombing	scuttle	possibility	DATE	0
+1.0	rescuer	search through	massive rubble	0	0
+1.0	miss man	wait for	flight	0	0
+1.0	Tuesday	call for	unity	DATE	0
+1.0	Conde-Pumpio	have	have accuse over few month	PERSON	DURATION
+1.0	Spanish conservatives	initiate	contact	0	0
+1.0	Madrid	have	rescue team	O	LOCATION
+1.0	miss man	wait for	flight from they homeland	0	0
+1.0	Conde-Pumpio	have	have accuse over last month by conservative opposition leader	PERSON	DURATION
+1.0	spanish Prime Minister Jose Luis Rodriguez Zapatero	come under	sharp pressure	PERSON	0
+1.0	head	say at_time	Tuesday	0	DATE
+1.0	Alfredo Perez Rubalcaba	be	Interior	PERSON	ORGANIZATION
+1.0	Zapatero	have	declaration hours	DURATION	PERSON
+0.817659235880115	government	call for	unity	0	0
+1.0	Conde-Pumpio	have	have accuse over month by conservative opposition leader	PERSON	0
+1.0	Spanish conservatives	initiate contact while	while power in 1999	0	DATE
+1.0	The missing men	would	would fatality	0	0
+1.0	rescuer	continue	search through rubble	0	0
+1.0	it	be	too eager	0	0

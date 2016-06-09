@@ -1,0 +1,44 @@
+1.0	agreement	call	work on good morning	0	0
+1.0	Tiki Barber	run at_time	year	PERSON	DATE
+1.0	Tiki Barber	run for	career-high 1,860 yard	PERSON	NUMBER
+1.0	Barber 's football career	be	extend	PERSON	0
+1.0	report	say for	ESPN	0	ORGANIZATION
+1.0	agreement	work on	good morning	0	0
+0.9417033122314633	Tiki Barber	have	he post gridiron career	PERSON	0
+1.0	Tiki Barber	help giants to	34-28 victory	0	NUMBER
+1.0	seasons	have	one	NUMBER	O
+1.0	Tiki Barber	factor in	New York Giants ' run	PERSON	ORGANIZATION
+1.0	New York Post	report on	its web site	ORGANIZATION	0
+1.0	Tiki Barber	amass on	1,662 yard	0	NUMBER
+1.0	Barber 's football career	be extend on	Saturday	PERSON	DATE
+1.0	stunned NFL observer	be in	October	ORGANIZATION	DATE
+1.0	Tiki Barber	be	nearly as good	0	0
+1.0	Barber	have	football career	PERSON	0
+1.0	Tiki Barber	run at_time	last year	PERSON	DATE
+1.0	Tiki Barber	rush for	franchise-record 234 yard	0	NUMBER
+1.0	Tiki Barber	have	season	O	O
+1.0	agreement	call for	Tiki Barber	0	PERSON
+1.0	agreement	call	work on good morning America	0	0
+1.0	New York Giants	have	run	O	ORGANIZATION
+1.0	New York Post	report at_time	Monday	ORGANIZATION	DATE
+1.0	Tiki Barber	be	nearly good	0	0
+1.0	Tiki Barber	be	good	0	0
+1.0	Tiki Barber	run for	1,860 yard	PERSON	NUMBER
+1.0	Philadelphia	be in	first-round playoff game on Sunday	LOCATION	DATE
+1.0	Philadelphia	be visit of	the New York Giants '	LOCATION	ORGANIZATION
+1.0	Tiki Barber	be expect accord to	report	PERSON	0
+1.0	key factor	be in	New York Giants ' run	0	ORGANIZATION
+1.0	Tiki Barber	be	as good	0	0
+0.9417033122314633	Tiki Barber	reportedly have	he post gridiron career	PERSON	0
+1.0	Tiki Barber	help	Giants	0	ORGANIZATION
+1.0	Barber	have	football career	O	PERSON
+1.0	Tiki Barber	rush for	234 yard	0	NUMBER
+1.0	Barber	have	role	O	PERSON
+1.0	Tiki Barber	catch	54 pass	PERSON	NUMBER
+1.0	Barber	have	role	PERSON	0
+1.0	Barber 's football career	be	on Saturday night extend	PERSON	DATE
+1.0	The New York Post	have	web site	O	O
+1.0	Barber 's football career	be extend at_time	night	PERSON	TIME
+1.0	Tiki Barber	have	post gridiron career	O	O
+1.0	Tiki Barber	be	expect	PERSON	0
+1.0	Tiki Barber	help giants at	Washington	0	LOCATION

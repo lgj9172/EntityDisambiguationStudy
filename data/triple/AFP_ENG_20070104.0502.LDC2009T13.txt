@@ -1,0 +1,78 @@
+1.0	Michael Goodwin 61	be find	guilty on two count	NUMBER	NUMBER
+1.0	murder	have	counts	O	O
+0.823506935747297	leave	goodwin of	pocket	0	0
+1.0	Michael Goodwin	hire	two gunman	0	NUMBER
+1.0	John Cobb	have	land speed record	O	PERSON
+1.0	his	have	wife	O	O
+1.0	dispute	be	resolve	0	0
+1.0	Michael Goodwin 61	be find follow	six day	NUMBER	DATE
+1.0	US auto racing legend Mickey Thompson	have	wife Trudy	PERSON	O
+1.0	Trudy	be in	driveway of they home	PERSON	0
+1.0	Trudy	be	41	PERSON	NUMBER
+1.0	court	hear	horrific evidence	0	0
+1.0	champion	have	murder	O	O
+1.0	court	hear	evidence of Thompson 's killing	0	PERSON
+1.0	have long-time suspect	be in	killing	0	0
+1.0	former business partner	be on	Thursday	0	DATE
+1.0	Michael Goodwin	be	charge	PERSON	0
+1.0	Michael Goodwin	be find follow	six day of jury deliberation at court	PERSON	DATE
+1.0	Thompson 's murder	leave	Goodwin of pocket	PERSON	PERSON
+1.0	jury deliberations	have	days	DATE	O
+0.823506935747297	leave	goodwin of	750,000 dollar out pocket	0	MONEY
+1.0	Michael Goodwin	be find	guilty on two count	PERSON	NUMBER
+1.0	Goodwin	orchestrate	Thompson 's murder	PERSON	PERSON
+1.0	Michael Goodwin	have	have long-time suspect in killing	PERSON	0
+1.0	Mickey Thompson	be of	US	PERSON	LOCATION
+1.0	Thompson	become as	one pioneer of drag-racing	PERSON	NUMBER
+1.0	Pasadena	north of	Los Angeles	LOCATION	LOCATION
+1.0	Thompson	become as	one of pioneer	PERSON	NUMBER
+1.0	Michael Goodwin	be find	guilty on two count of murder	PERSON	NUMBER
+1.0	companies	have	merger	O	O
+1.0	US auto racing legend Mickey Thompson	of	killing	PERSON	0
+1.0	pocket	have	Goodwin	PERSON	O
+1.0	US auto racing legend Mickey Thompson	be	59	PERSON	NUMBER
+1.0	Thompson	have	murder	PERSON	0
+1.0	court	hear	evidence	0	0
+1.0	two gunmen	have	home	O	O
+1.0	Michael Goodwin 61	be find	guilty	NUMBER	0
+1.0	dispute	be resolve in	Thompson 's favour	0	PERSON
+1.0	Michael Goodwin	be	find	PERSON	0
+1.0	two man	of	company	NUMBER	0
+1.0	Thompson	have	murder	O	PERSON
+1.0	Michael Goodwin	be find follow	six day of jury deliberation	PERSON	DATE
+1.0	US auto racing legend Mickey Thompson	have	business partner	O	PERSON
+1.0	home	have	driveway	O	O
+1.0	Mickey Thompson	be auto racing legend of	US	PERSON	LOCATION
+1.0	court	hear	horrific evidence of Thompson 's killing	0	PERSON
+1.0	men	have	companies	O	O
+1.0	Thompson	become as	one pioneer	PERSON	NUMBER
+1.0	Thompson 's murder	leave	Goodwin	PERSON	PERSON
+1.0	killing	have	evidence	O	O
+1.0	Michael Goodwin	be	only charge	PERSON	0
+1.0	Los Angeles	have	north	O	LOCATION
+1.0	Michael Goodwin 61	be	find	NUMBER	0
+1.0	Michael Goodwin	be	61	PERSON	NUMBER
+1.0	US auto racing legend Mickey Thompson	have	killing	O	PERSON
+1.0	Michael Goodwin	execute	US auto racing legend Mickey Thompson	0	PERSON
+1.0	Michael Goodwin 61	be find	guilty on two count of murder	NUMBER	NUMBER
+1.0	the champion and his wife	have	California home	O	O
+1.0	Thompson	become	famous	PERSON	0
+1.0	Michael Goodwin	be charge in	2001	PERSON	DATE
+1.0	Michael Goodwin 61	be find follow	six day of jury deliberation	NUMBER	DATE
+1.0	Thompson	in	favour	PERSON	0
+1.0	Michael Goodwin	be only charge in	2001	PERSON	DATE
+1.0	Thompson 's murder	leave	Goodwin 750,000 dollar out of pocket	PERSON	MONEY
+1.0	Michael Goodwin	be find	guilty	PERSON	0
+1.0	Michael Goodwin	be find follow	six day	PERSON	DATE
+1.0	Thompson	have	favour	O	PERSON
+1.0	pioneers	have	one	NUMBER	O
+1.0	Michael Goodwin	have	have suspect	PERSON	0
+1.0	former business partner	be on	Thursday convict	0	DATE
+1.0	Michael Goodwin	be	long-time	PERSON	0
+1.0	drag-racing	have	pioneers	O	O
+1.0	Michael Goodwin 61	be find follow	six day of jury deliberation at court	NUMBER	DATE
+1.0	Thompson	become as	one of pioneer of drag-racing	PERSON	NUMBER
+1.0	Michael Goodwin	have	have long-time suspect	PERSON	0
+1.0	wife	have	murder	O	O
+1.0	the champion	have	wife	O	O
+1.0	Michael Goodwin	have	have suspect in killing	PERSON	0

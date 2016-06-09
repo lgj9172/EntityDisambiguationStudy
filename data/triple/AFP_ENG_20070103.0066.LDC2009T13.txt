@@ -1,0 +1,7 @@
+1.0	Paek Nam-Sun	be foreign minister of	North Korea	PERSON	LOCATION
+1.0	North Korea	have	Paek Nam-Sun	LOCATION	PERSON
+1.0	Pyongyang	have	media	O	LOCATION
+1.0	Pyongyang 's media	report at_time	Wednesday	LOCATION	DATE
+1.0	North Korea	have	Foreign Minister Paek Nam-Sun	PERSON	LOCATION
+1.0	Pyongyang 's official media	report at_time	Wednesday	LOCATION	DATE
+1.0	Pyongyang	have	official media	LOCATION	0

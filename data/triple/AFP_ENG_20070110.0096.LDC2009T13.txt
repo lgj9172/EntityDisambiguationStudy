@@ -1,0 +1,61 @@
+1.0	plane	go down from	Turkey	0	LOCATION
+1.0	Ahmed al-Mussawi	spokesman for	iraqi transport ministry	PERSON	0
+1.0	business	undertake	dozen of contract	0	0
+1.0	Diyala	have	province	O	LOCATION
+1.0	Mussawi	distance	authority	0	0
+1.0	plane	be	overload	0	0
+1.0	shipping goods	have	dozens	O	O
+1.0	official	have blame	crash	0	0
+1.0	Balad	have	town	O	LOCATION
+1.0	Ali Ariduru	have	department	O	O
+1.0	turkish official	blame	bad weather	0	0
+1.0	moldovan-registered civilian plane	go from	Turkey	0	LOCATION
+1.0	crash	be in	province of Diyala	0	LOCATION
+1.0	Louis Fintor	be	US	PERSON	LOCATION
+1.0	Iraq	have	border	O	LOCATION
+1.0	weather	be	good	0	0
+1.0	turkish embassy	be in	Baghdad	0	LOCATION
+1.0	plane	attempt	land in fog	0	0
+1.0	turkish construction worker	north of	Baghdad	0	LOCATION
+1.0	official	have blame	crash on bad weather	0	0
+1.0	Louis Fintor	be embassy spokesman of	US	PERSON	LOCATION
+1.0	turkish official	blame	weather	0	0
+1.0	business	share in	reconstruction effort	0	0
+1.0	business	have	have keen	0	0
+1.0	the Iraqi authorities	have	responsibility	O	O
+1.0	turkish official	have blame	crash	0	0
+1.0	Iraq	on	northern border	LOCATION	0
+1.0	Adana	have	town	O	LOCATION
+1.0	aviation experience	have	lack	O	O
+1.0	official	blame weather for	disaster	0	0
+1.0	civilian plane	go from	Turkey	0	LOCATION
+1.0	business	undertake dozen to	country	0	0
+1.0	civilian plane	go down from	Turkey	0	LOCATION
+1.0	plane	go from	Turkey	0	LOCATION
+1.0	business	undertake	dozen	0	0
+1.0	other flight	be at_time	Tuesday	0	DATE
+1.0	plane	attempt	land in heavy fog	0	0
+1.0	plane	attempt	land	0	0
+1.0	Mussawi	distance	iraqi authority	0	0
+1.0	airport	be in	iraqi town of Balad	0	LOCATION
+1.0	Ahmed al-Mussawi	tell	AFP one	PERSON	ORGANIZATION
+1.0	Baghdad	have	north	O	LOCATION
+1.0	source	tell	AFP one	0	ORGANIZATION
+1.0	turkish official	blame weather for	disaster	0	0
+1.0	plane	land in	fog	0	0
+1.0	plane	land in	heavy fog	0	0
+1.0	moldovan-registered plane	go from	Turkey	0	LOCATION
+1.0	plane	deny	report	0	0
+1.0	flight	be at_time	Tuesday	0	DATE
+1.0	official	blame	weather	0	0
+1.0	turkish official	have blame	crash on weather	0	0
+1.0	moldovan-registered civilian plane	go down from	Turkey	0	LOCATION
+1.0	moldovan-registered plane	go down from	Turkey	0	LOCATION
+1.0	turkish official	have blame	crash on bad weather	0	0
+1.0	Mussawi	distance authority from	disaster	0	0
+1.0	official	have blame	crash on weather	0	0
+1.0	contracts	have	dozens	O	O
+1.0	official	blame	bad weather	0	0
+1.0	business	undertake dozen to	war-torn country	0	0
+1.0	business	share in	iraqi reconstruction effort	0	0
+1.0	business	be in	Turkey	0	LOCATION

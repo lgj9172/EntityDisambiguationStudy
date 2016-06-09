@@ -1,0 +1,97 @@
+1.0	question	move	refer to Iran 's two key facility involve	0	NUMBER
+1.0	assistance	have	Iran	LOCATION	O
+1.0	IAEA	report accord to	document obtain	ORGANIZATION	0
+1.0	her	have	country	O	O
+1.0	sensitive activity	be in	Iran	0	LOCATION
+1.0	International Atomic Energy Agency 's	have	aid program	ORGANIZATION	0
+1.0	Iran	on	compliance	LOCATION	0
+1.0	Security Council	with	call	ORGANIZATION	0
+0.8007107803715058	any expert	train by	International Atomic Energy Agency 's	0	ORGANIZATION
+1.0	Resolution	also call for	examination of IAEA aid	0	ORGANIZATION
+0.4984906975702595	diplomat Carol Cliff	write on	she country	PERSON	0
+0.9102575036942101	this	be	period	0	0
+1.0	question	move	refer to Iran 's two facility	0	NUMBER
+1.0	Iran	have	nuclear capability	LOCATION	0
+1.0	his	have	mandate	O	O
+1.0	british diplomat Carol Cliff	ask accord to	copy of letter obtain by afp	PERSON	0
+1.0	Resolution	call for	examination	0	0
+1.0	governors	have	board	O	O
+0.9102575036942101	this	be	difficult period	0	0
+1.0	fuel	have	production	O	O
+1.0	his	have	country	O	O
+0.8246114161877479	question	ask by	Cliff include	0	PERSON
+1.0	waste disposal center	have	development	O	O
+1.0	IAEA board	have	chairman	O	O
+1.0	Mahmoud Ahmadinejad	be on	Wednesday	PERSON	DATE
+1.0	Iran	to	two key facility involve	LOCATION	NUMBER
+1.0	March board	one on	Iran 's compliance	DATE	LOCATION
+1.0	british diplomat Carol Cliff	ask accord to	copy of letter	PERSON	0
+1.0	UN resolution	say	technical cooperation	ORGANIZATION	0
+1.0	country	have	writing	O	O
+1.0	question	move	refer	0	0
+1.0	chief Mohamed ElBaradei	have	report	O	O
+1.0	Australia	have	writing	O	LOCATION
+0.4984906975702595	british diplomat Carol Cliff	write to	IAEA secretariat	PERSON	ORGANIZATION
+1.0	IAEA aid	have	examination	O	O
+1.0	technical cooperation	be in	February	0	DATE
+1.0	diplomat	report to	split	0	0
+1.0	question	move to	job	0	0
+1.0	Tehran 's	seek	atomic weapon	LOCATION	0
+1.0	Iran	have	capability	O	LOCATION
+1.0	UN sanctions	have	part	O	O
+1.0	Resolution 1737	also call for	examination	DATE	0
+1.0	meeting	be in	March	0	DATE
+1.0	diplomat	say at_time	Friday	0	DATE
+1.0	question	refer to	Iran 's two facility involve	0	NUMBER
+1.0	diplomat Carol Cliff	ask accord to	copy of letter	PERSON	0
+1.0	training	have	Iran	LOCATION	O
+1.0	Resolution 1737	also call for	examination of IAEA aid	DATE	ORGANIZATION
+1.0	Mahmoud Ahmadinejad	be	iranian	PERSON	0
+1.0	nation	have already challenge	IAEA 's aid program	0	ORGANIZATION
+0.9572961091600987	IAEA	activity in	Iran	ORGANIZATION	LOCATION
+1.0	projects	have	none	O	O
+0.9572961091600987	IAEA	sensitive activity in	Iran	ORGANIZATION	LOCATION
+1.0	letter	have	copy	O	O
+1.0	diplomat Carol Cliff	ask accord to	copy of letter obtain by afp	PERSON	0
+1.0	question	refer to	Iran 's two facility	0	NUMBER
+1.0	IAEA	report accord to	document obtain by afp	ORGANIZATION	0
+1.0	british diplomat Carol Cliff	ask accord to	copy	PERSON	0
+1.0	Security Council	have	call	O	ORGANIZATION
+1.0	UN resolution	say	cooperation	ORGANIZATION	0
+1.0	question	move	refer to Iran 's two facility involve	0	NUMBER
+1.0	Resolution	also call for	examination	0	0
+0.8246114161877479	question	ask by	Cliff	0	PERSON
+1.0	this	be	difficult	0	0
+1.0	question	refer to	Iran 's two key facility	0	NUMBER
+1.0	move	be	symbolic	0	0
+1.0	Tehran	on	nuclear program	LOCATION	0
+1.0	International	have	early	DATE	ORGANIZATION
+1.0	question	move at	Natanz	0	LOCATION
+1.0	western nation	have challenge	IAEA 's aid program	0	ORGANIZATION
+1.0	ElBaradei	will evaluate	IAEA technical cooperation project	PERSON	ORGANIZATION
+1.0	Iran	have	facilities	O	LOCATION
+0.4984906975702595	british diplomat Carol Cliff	write on	she country	PERSON	0
+1.0	Carol Cliff	be	british	PERSON	0
+1.0	IAEA	report accord to	document	ORGANIZATION	0
+1.0	western nation	have already challenge	IAEA 's aid program	0	ORGANIZATION
+1.0	International Atomic Energy Agency 's	have	aid programs	O	ORGANIZATION
+1.0	symbolic kick	be in	head	0	0
+1.0	diplomat Carol Cliff	ask accord to	copy	PERSON	0
+1.0	Resolution 1737	call for	examination	DATE	0
+1.0	IAEA	be	report	ORGANIZATION	0
+1.0	question	refer to	Iran 's two key facility involve	0	NUMBER
+1.0	Energy Agency	have	board	O	ORGANIZATION
+1.0	question	move	refer to Iran 's two key facility	0	NUMBER
+1.0	Resolution	call for	examination of IAEA aid	0	ORGANIZATION
+1.0	nation	have challenge	IAEA 's aid program	0	ORGANIZATION
+1.0	his	have	secretariat	O	O
+1.0	resolution	have	light	O	O
+0.4984906975702595	diplomat Carol Cliff	write to	IAEA secretariat	PERSON	ORGANIZATION
+1.0	Iran	have	compliance	O	LOCATION
+1.0	Iran	defy	UN demand	LOCATION	ORGANIZATION
+1.0	diplomat Carol Cliff	ask accord to	copy of letter obtain	PERSON	0
+1.0	fuel work	have	terms	O	O
+1.0	suspension	have	terms	O	O
+1.0	Resolution 1737	call for	examination of IAEA aid	DATE	ORGANIZATION
+1.0	british diplomat Carol Cliff	ask accord to	copy of letter obtain	PERSON	0
+1.0	Tehran	have	program	O	LOCATION

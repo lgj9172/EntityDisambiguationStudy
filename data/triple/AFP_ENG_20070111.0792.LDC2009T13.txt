@@ -1,0 +1,4 @@
+1.0	Athens	have	avenues	O	LOCATION
+1.0	embassy	have	third floor at 5:55	0	TIME
+1.0	embassy	have	floor	O	O
+1.0	avenues	have	one	NUMBER	O

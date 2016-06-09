@@ -1,0 +1,63 @@
+1.0	celebration	mark	anniversary apparition	0	0
+1.0	celebration	mark	anniversary apparition of Virgin Mary	0	PERSON
+1.0	apparitions	have	series	O	O
+1.0	church official	invite pontiff to	three child	0	NUMBER
+1.0	anniversary	apparition of	Virgin Mary	0	PERSON
+1.0	Fatima	have	Roman Catholic shrine	O	PERSON
+1.0	turkish gunman	be in	St. Peter 's square	0	LOCATION
+1.0	senior Portuguese church official	say in	comment	MISC	0
+1.0	Bishop Carlos Azevedo	tell	daily newspaper Publico	PERSON	ORGANIZATION
+1.0	Portuguese church official	say in	comment publish Wednesday	MISC	DATE
+1.0	church official	visit	shrine	0	0
+1.0	Benedict XVI	have	predecessor	PERSON	0
+1.0	celebration	mark	90th anniversary final apparition	0	ORDINAL
+1.0	John Paul II	visit shrine during	three time	PERSON	NUMBER
+1.0	Portugal	have	Catholic Episcopal Conference	ORGANIZATION	LOCATION
+1.0	Portuguese church official	say in	comment publish	MISC	0
+1.0	church official	invite pontiff there in	November Portuguese	0	DATE
+1.0	Virgin Mary	have	apparition	O	PERSON
+1.0	church official	invite pontiff there to	three child	0	NUMBER
+1.0	the Holy Father	have	age	O	O
+1.0	celebration	mark	90th anniversary apparition of Virgin Mary	0	PERSON
+1.0	celebration	mark	90th anniversary apparition	0	ORDINAL
+1.0	90th anniversary	final apparition of	Virgin Mary	ORDINAL	PERSON
+1.0	church official	invite there	79-year-old pontiff	0	DURATION
+1.0	Pope Benedict XVI	have	papacy	O	O
+1.0	Fatima in Portugal	have	shrine	O	LOCATION
+1.0	church official	invite there	pontiff	0	0
+1.0	sightings	have	commemorations	O	O
+1.0	Bishop Carlos Azevedo	spokesman for	Catholic Episcopal Conference	PERSON	ORGANIZATION
+1.0	90th anniversary	apparition of	Virgin Mary	ORDINAL	PERSON
+1.0	John Paul II	visit	shrine located	PERSON	0
+1.0	Pope Benedict XVI	have	predecessor	O	PERSON
+1.0	celebration	mark	90th anniversary final apparition of Virgin Mary	0	PERSON
+1.0	John Paul II	visit	shrine of Fatima	PERSON	LOCATION
+1.0	Fatima	be in	Portugal	PERSON	LOCATION
+1.0	countries	have	dozens	O	O
+1.0	church official	invite pontiff to	three shepherd child	0	NUMBER
+1.0	John Paul II	visit	shrine	PERSON	0
+1.0	the Holy Father	have	travels	O	O
+1.0	church official	invite pontiff in	November Portuguese	0	DATE
+1.0	church official	visit	shrine on October 13 2007	0	DATE
+1.0	church official	invite pontiff there to	three shepherd child	0	NUMBER
+1.0	church official	invite	79-year-old pontiff	0	DURATION
+1.0	John Paul II	visit	shrine of Fatima located	PERSON	LOCATION
+1.0	senior Portuguese church official	say in	comment publish	MISC	0
+1.0	Fatima in Portugal	have	Virgin	O	PERSON
+1.0	Bishop Carlos Azevedo	tell	newspaper Publico	PERSON	ORGANIZATION
+1.0	celebration	mark	anniversary final apparition of Virgin Mary	0	PERSON
+1.0	Portuguese church official	say in	comment	MISC	0
+1.0	celebration	mark	anniversary final apparition	0	0
+1.0	shrine	draw	million	0	0
+1.0	church official	invite	pontiff	0	0
+1.0	senior Portuguese church official	say in	comment publish Wednesday	MISC	DATE
+1.0	Virgin	have	apparition	O	MISC
+1.0	Pope Benedict XVI	have	life	O	O
+1.0	Portugal	for	Catholic Episcopal Conference	LOCATION	ORGANIZATION
+1.0	John Paul II	be predecessor of	Benedict XVI	PERSON	PERSON
+1.0	anniversary	final apparition of	Virgin Mary	0	PERSON
+1.0	visitors	have	millions	O	O
+1.0	Lisbon	have	kilometres north	O	LOCATION
+1.0	St. Peter	have	Square	LOCATION	LOCATION
+1.0	shrine	draw	million of visitor	0	0
+1.0	apparition	have	anniversary	O	O

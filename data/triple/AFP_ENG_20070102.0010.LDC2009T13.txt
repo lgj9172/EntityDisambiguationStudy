@@ -1,0 +1,29 @@
+1.0	search rescue teams	have	deployment	O	O
+1.0	Boeing 737-400	have send route	distress signal	NUMBER	0
+1.0	Boeing 737-400	have send	distress signal	NUMBER	0
+1.0	radar	officer in	charge	0	0
+1.0	lawmaker	criticise at_time	early Tuesday	0	DATE
+1.0	search team	only discover wreckage at_time	Tuesday	0	DATE
+1.0	search team	discover	wreckage	0	0
+1.0	search team	only discover wreckage at_time	early Tuesday	0	DATE
+1.0	search team	discover wreckage at_time	Tuesday	0	DATE
+1.0	Boeing	have send route	distress signal	ORGANIZATION	0
+1.0	transport	have	leaders	O	O
+1.0	Polewali	have	town	O	LOCATION
+1.0	search team	only discover	wreckage	0	0
+1.0	West Sulawesi	have	region	O	LOCATION
+1.0	indonesian lawmaker	criticise at_time	early Tuesday	0	DATE
+1.0	Boeing	disappear from	radar screen	ORGANIZATION	0
+1.0	Surabaya	be on	Java	LOCATION	LOCATION
+1.0	officer	be in	charge	0	0
+1.0	search team	discover wreckage at_time	early Tuesday	0	DATE
+1.0	leaders	have	one	NUMBER	O
+1.0	Ahmad Muqowam	say accord to	state	PERSON	0
+1.0	hour	be in	mountainous region of West Sulawesi	0	LOCATION
+1.0	Boeing	have send	distress signal	ORGANIZATION	0
+1.0	communications commission	have	leaders	O	O
+1.0	Boeing 737-400	disappear from	radar screen	NUMBER	0
+1.0	Adam Air Boeing 737-400	crash at_time	afternoon	ORGANIZATION	TIME
+1.0	Adam Air Boeing 737-400	crash at_time	Monday	ORGANIZATION	DATE
+1.0	Sulawesi island	have	area	O	O
+1.0	Ahmad Muqowam	one of	leader	PERSON	0

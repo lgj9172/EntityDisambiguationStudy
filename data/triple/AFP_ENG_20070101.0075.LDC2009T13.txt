@@ -1,0 +1,260 @@
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow	PERSON	LOCATION
+1.0	revive memory	cause by	dispute between Ukraine	0	LOCATION
+0.6962043689382985	contract	increase in	price of gas supplies	0	0
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	Lukashenko	speak of	blow	PERSON	0
+1.0	Belarus	sell	50 percent	LOCATION	PERCENT
+1.0	government	give backing during	gas row at start	0	DATE
+1.0	revive memory	cause by	dispute	0	0
+0.6962043689382985	new contract	roughly fourfold increase in	price	0	0
+1.0	memory year	cause by	dispute between Ukraine	DATE	LOCATION
+1.0	Lukashenko	call more carefully on	population	PERSON	0
+1.0	Belarus	re-export to	Europe oil purchase from Russia	LOCATION	LOCATION
+1.0	government	give backing to	Viktor Yushchenko	0	PERSON
+1.0	Alexei Miller	be	Gazprom	PERSON	ORGANIZATION
+1.0	Sunday	under	deal	DATE	0
+1.0	tool	lose at	time	0	DATE
+1.0	deal	be in	tense New Year 's address	0	DATE
+1.0	Belarus	sell	50 percent of its gas pipeline operator Beltransgaz	LOCATION	PERCENT
+1.0	Beltransgaz	be over	the next four year	ORGANIZATION	DURATION
+1.0	Belarus	re-export to	Europe crude oil purchase from Russia at rate	LOCATION	LOCATION
+1.0	era	have	end	O	O
+1.0	Belarus	sign	new price deal	LOCATION	0
+1.0	western government	give backing during	gas row at start	0	DATE
+1.0	belarussian President Alexander Lukashenko	speak after	deal	PERSON	0
+0.6379469975910022	contract	include	increase in price	0	0
+1.0	gas	have	meters	O	O
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist	PERSON	0
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty	DATE	DATE
+1.0	President Alexander Lukashenko	speak after	deal in New Year 's address	PERSON	DATE
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist	PERSON	0
+1.0	Gazprom CEO Alexei Miller	speak to	journalist alongside minister	PERSON	0
+1.0	gas	have	third	ORDINAL	O
+1.0	Belarus	be over	the next five year	LOCATION	DURATION
+1.0	his	have	country	O	O
+1.0	Belarus	re-export to	Europe crude oil	LOCATION	LOCATION
+0.6962043689382985	contract	roughly fourfold increase in	price	0	0
+1.0	Lukashenko	call carefully on	population to budget	PERSON	0
+1.0	Gazprom CEO Alexei Miller	speak to	journalist alongside belarussian prime minister	PERSON	0
+1.0	Belarus	re-export to	Europe oil purchase at rate	LOCATION	LOCATION
+1.0	Lukashenko	call on	population	PERSON	0
+1.0	gas shortages	have	memories	O	O
+1.0	Belarus	earn	vital income	LOCATION	0
+1.0	western government	give	strong backing	0	0
+1.0	deal	be	shortly sign	0	0
+0.6962043689382985	new contract	fourfold increase in	price of russian gas supplies	0	0
+1.0	Belarus	be on	Monday	LOCATION	DATE
+1.0	New Year	have	eve	O	DATE
+0.6379469975910022	new contract	include	roughly fourfold increase in price	0	0
+0.6379469975910022	contract	include	increase in price of russian gas supplies	0	0
+1.0	Sunday 's deal	come in	wake of hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	world	of	gas	0	0
+1.0	Belarus	have	gas supplies	O	O
+1.0	Belarus	sign	price deal	LOCATION	0
+1.0	dominance	have	part	O	O
+1.0	tool	lose in	1991	0	DATE
+0.6379469975910022	contract	include	fourfold increase in price	0	0
+1.0	government	give backing to	Ukraine 's president	0	LOCATION
+1.0	collapse	have	time	DATE	O
+1.0	Belarus	re-export to	Europe oil	LOCATION	LOCATION
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty on oil export to Belarus	DATE	LOCATION
+1.0	Lukashenko	speak of	blow to we centuries-old friendship	PERSON	0
+1.0	Gazprom CEO Alexei Miller	speak to	journalist	PERSON	0
+1.0	belarussian President Alexander Lukashenko	speak after	deal in New Year 's address	PERSON	DATE
+1.0	western government	give	diplomatic backing	0	0
+1.0	Belarus	re-export to	Europe oil purchase from Russia at rate	LOCATION	LOCATION
+1.0	Sunday 's deal	come in	wake of announce hike in duty on oil export	DATE	0
+0.6962043689382985	new contract	roughly fourfold increase in	price of russian gas supplies	0	0
+1.0	Belarussian Prime Minister Sergei Sidorsky	have	disappointment	O	O
+1.0	transit price	would	would roughly double	0	0
+1.0	government	give backing during	gas row at start of 2006	0	DATE
+0.6962043689382985	contract	fourfold increase in	price of russian gas supplies	0	0
+1.0	Lukashenko	call carefully on	population	PERSON	0
+1.0	gas supplies	have	percent	PERCENT	O
+1.0	deal	have	part	O	O
+1.0	Gazprom CEO Alexei Miller	end	month	PERSON	0
+1.0	belarussian side	be in	difficult atmosphere on eve of New year	0	DATE
+1.0	government	give	diplomatic backing	0	0
+1.0	New Year 's	in	address	DATE	0
+0.6379469975910022	contract	include	roughly fourfold increase in price of gas supplies	0	0
+1.0	2006	have	start	DATE	DATE
+1.0	push	have	part	O	O
+1.0	tool	lose at	time of collapse of Soviet Union	0	LOCATION
+1.0	Mikhail Fradkov	be	russian	PERSON	0
+1.0	Belarus	agree as	part of deal sign on Sunday	LOCATION	DATE
+0.6386946229143746	Belarus	demand by	Russia	LOCATION	LOCATION
+1.0	he	meet	russian Prime Minister Mikhail Fradkov	0	PERSON
+0.6379469975910022	contract	include	roughly fourfold increase in price of russian gas supplies	0	0
+0.6962043689382985	contract	roughly fourfold increase in	price of gas supplies	0	0
+1.0	Soviet Union	have	collapse	O	LOCATION
+1.0	Sunday	have	deal	O	DATE
+0.6379469975910022	new contract	include	fourfold increase	0	0
+1.0	he	meet	Prime Minister Mikhail Fradkov	0	PERSON
+1.0	political pariah	be in	Europe	0	LOCATION
+1.0	state-controlled gas giant Gazprom	defend	deal	ORGANIZATION	0
+1.0	memory	cause by	dispute	0	0
+1.0	Sunday 's deal	come in	wake of announce hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty on oil export	DATE	DATE
+0.6379469975910022	new contract	include	increase in price of russian gas supplies	0	0
+1.0	announce hike	be in	russian duty on oil export to Belarus	0	LOCATION
+1.0	massive hike	be in	russian oil import duty	0	0
+1.0	Gazprom	be to	russian	ORGANIZATION	0
+1.0	Sunday 's deal	mark	end of era of cheap energy supplies	DATE	0
+1.0	gas supplies	have	price	O	O
+1.0	Ukraine	have	president	O	LOCATION
+1.0	New Year	have	Eve	DATE	DATE
+1.0	government	give	strong backing	0	0
+0.6379469975910022	new contract	include	roughly fourfold increase in price of russian gas supplies	0	0
+1.0	Sunday 's deal	mark	end of era	DATE	0
+1.0	revive memory last year	cause by	dispute	DATE	0
+1.0	Belarus	agree as	part of deal	LOCATION	0
+1.0	Gazprom	have mount	tough campaign	ORGANIZATION	0
+0.6962043689382985	new contract	fourfold increase in	price	0	0
+1.0	Sergei Sidorsky	be	belarussian	PERSON	0
+1.0	Lukashenko	call on	population to budget	PERSON	0
+1.0	this	have cause	concern	0	0
+1.0	western government	give	backing	0	0
+1.0	Belarus	re-export to	Europe oil purchase	LOCATION	LOCATION
+1.0	fourfold increase	be in	price of russian gas supplies	0	0
+1.0	dollars	have	slapping customs duties	O	MONEY
+1.0	western government	give backing to	Viktor Yushchenko	0	PERSON
+1.0	country	accept	gas supply deal	0	0
+1.0	government	give backing to	Ukraine 's pro-western president	0	LOCATION
+1.0	Sunday 's deal	come in	wake of recently announce hike	DATE	DATE
+1.0	western government	give backing to	Ukraine 's pro-western president	0	LOCATION
+1.0	Belarus	re-export to	Europe crude oil purchase	LOCATION	LOCATION
+1.0	Ukraine	's president be	Viktor Yushchenko	LOCATION	PERSON
+0.6379469975910022	new contract	include	fourfold increase in price of russian gas supplies	0	0
+1.0	deal	be	sign	0	0
+1.0	belarussian President Alexander Lukashenko	speak soon after	deal in New Year 's address	PERSON	DATE
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty	DATE	DATE
+1.0	Belarus	re-export to	Europe oil purchase from Russia at subsidized rate	LOCATION	LOCATION
+1.0	Lukashenko	speak of	blow to we friendship	PERSON	0
+1.0	Gazprom CEO Alexei Miller	end month before	year-end deadline	PERSON	0
+0.6962043689382985	new contract	fourfold increase in	price of gas supplies	0	0
+1.0	Moscow	of	closest ally	LOCATION	0
+0.6962043689382985	contract	increase in	price	0	0
+1.0	belarussian President Alexander Lukashenko	speak soon after	deal in tense New Year 's address	PERSON	DATE
+1.0	New Year	have	address	O	DATE
+1.0	Gazprom	end soviet-era subsidy to	country	ORGANIZATION	0
+1.0	President Alexander Lukashenko	speak after	deal in tense New Year 's address	PERSON	DATE
+1.0	soviet-era subsidy	expand	ownership	0	0
+1.0	Sunday 's deal	come in	wake of hike in russian duty on oil export	DATE	0
+1.0	Gazprom CEO Alexei Miller	end	month of tense negotiation minute	PERSON	0
+1.0	Belarus	agree as	part of deal sign	LOCATION	0
+1.0	Sunday 's deal	come in	wake of hike in duty on oil export	DATE	0
+1.0	western government	give backing to	Ukraine 's president	0	LOCATION
+1.0	Gazprom	have	EU customers	O	ORGANIZATION
+0.6962043689382985	new contract	roughly fourfold increase in	price of gas supplies	0	0
+1.0	its	have	dominance	O	O
+1.0	country	accept gas supply deal at	price	0	0
+1.0	hike	have	wake	O	O
+1.0	President Alexander Lukashenko	speak soon after	deal in New Year 's address	PERSON	DATE
+0.6379469975910022	contract	include	roughly fourfold increase	0	0
+1.0	Belarus	have	economy	O	LOCATION
+1.0	Moscow	have	allies	O	LOCATION
+1.0	Prime Minister Mikhail Fradkov	discuss	proposal	PERSON	0
+1.0	belarussian President Alexander Lukashenko	speak soon after	deal	PERSON	0
+1.0	revive memory last year	cause by	dispute between Ukraine	DATE	LOCATION
+1.0	President Alexander Lukashenko	speak soon after	deal	PERSON	0
+1.0	memory last year	cause by	dispute between Ukraine	DATE	LOCATION
+1.0	memory	cause by	dispute between Ukraine	0	LOCATION
+0.6379469975910022	contract	include	fourfold increase	0	0
+0.6962043689382985	contract	roughly fourfold increase in	price of russian gas supplies	0	0
+1.0	gas giant Gazprom	defend	deal	ORGANIZATION	0
+0.6379469975910022	contract	include	increase in price of gas supplies	0	0
+1.0	belarussian President Alexander Lukashenko	speak after	deal in tense New Year 's address	PERSON	DATE
+1.0	tool	lose at	time of collapse	0	DATE
+1.0	Lukashenko	speak in	apparent reference	PERSON	0
+1.0	Lukashenko	speak in	apparent reference to Russia	PERSON	LOCATION
+1.0	Gazprom CEO Alexei Miller	speak to	journalist alongside prime minister	PERSON	0
+1.0	gas	have	price	O	O
+1.0	allies	have	one	NUMBER	O
+0.6379469975910022	new contract	include	fourfold increase in price of gas supplies	0	0
+1.0	deal	have	breakdown	O	O
+1.0	Belarus	re-export to	Europe crude oil purchase at rate	LOCATION	LOCATION
+1.0	Sunday 's deal	come in	wake of announce hike	DATE	0
+1.0	midnight New Year	have	eve deadline	O	TIME
+1.0	Ukraine	to	pro-western president	LOCATION	0
+1.0	Sunday 's deal	come in	wake of hike in russian duty	DATE	0
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow	PERSON	LOCATION
+0.6379469975910022	contract	include	increase	0	0
+1.0	country	accept	new gas supply deal	0	0
+0.6379469975910022	contract	include	roughly fourfold increase in price	0	0
+1.0	Alexei Miller	be ceo of	Gazprom	PERSON	ORGANIZATION
+1.0	Belarus	re-export to	Europe crude oil purchase from Russia	LOCATION	LOCATION
+1.0	memory last year	cause by	dispute	DATE	0
+1.0	soviet-era subsidy	expand	ownership of infrastructure energy business	0	0
+1.0	government	give backing during	gas row	0	0
+1.0	Gazprom	of	EU customer	ORGANIZATION	ORGANIZATION
+0.6379469975910022	new contract	include	increase in price of gas supplies	0	0
+1.0	EU customers	have	Most	O	O
+1.0	russian Prime Minister Mikhail Fradkov	discuss	proposal	PERSON	0
+1.0	country	accept gas supply deal at	higher price	0	0
+0.6962043689382985	contract	fourfold increase in	price	0	0
+1.0	Sunday 's deal	come in	wake of hike	DATE	0
+1.0	Belarus	re-export to	Europe crude oil purchase at subsidized rate	LOCATION	LOCATION
+1.0	our	have	friendship	O	O
+1.0	revive memory year	cause by	dispute between Ukraine	DATE	LOCATION
+1.0	western government	give	strong diplomatic backing	0	0
+1.0	President Alexander Lukashenko	speak soon after	deal in tense New Year 's address	PERSON	DATE
+0.6379469975910022	new contract	include	roughly fourfold increase in price of gas supplies	0	0
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty on oil export	DATE	DATE
+1.0	government	give	backing	0	0
+0.6379469975910022	new contract	include	roughly fourfold increase	0	0
+1.0	transit price	would	would double	0	0
+1.0	Belarus	agree as	part	LOCATION	0
+1.0	Russian gas monopoly Gazprom	have	exports	O	O
+1.0	Russian gas monopoly Gazprom	have	territory	O	O
+1.0	memory year	cause by	dispute	DATE	0
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty on oil export	DATE	0
+1.0	Lukashenko	call more carefully on	population to budget	PERSON	0
+1.0	Sunday 's deal	come in	wake	DATE	0
+1.0	Kremlin	use	Gazprom	LOCATION	ORGANIZATION
+1.0	Sunday 's deal	come in	wake of announce hike in duty	DATE	0
+0.6962043689382985	new contract	increase in	price of russian gas supplies	0	0
+0.6379469975910022	new contract	include	increase	0	0
+0.6379469975910022	new contract	include	fourfold increase in price	0	0
+1.0	country	have	conditions	O	O
+1.0	Sunday 's deal	mark	end of era of energy supplies	DATE	0
+1.0	Belarus	re-export to	Europe crude oil purchase from Russia at subsidized rate	LOCATION	LOCATION
+1.0	Belarus	be from	Russia	LOCATION	LOCATION
+1.0	President Alexander Lukashenko	speak after	deal	PERSON	0
+1.0	Gazprom	end	soviet-era subsidy	ORGANIZATION	0
+1.0	Belarus	earn	income	LOCATION	0
+0.6379469975910022	new contract	include	increase in price	0	0
+1.0	negotiations minutes	have	months	DURATION	DURATION
+1.0	government	give	strong diplomatic backing	0	0
+1.0	blow	have	spoke	O	O
+0.6379469975910022	contract	include	fourfold increase in price of gas supplies	0	0
+1.0	infrastructure other energy businesses	have	ownership	O	O
+1.0	This	have	gas pipeline operator Beltransgaz	ORGANIZATION	O
+1.0	Sunday	have	deal	DATE	0
+1.0	his	have	counterpart	O	O
+1.0	western government	give backing during	gas row at start of 2006	0	DATE
+1.0	crude	have	ton	O	O
+1.0	Belarus	re-export to	Europe oil purchase at subsidized rate	LOCATION	LOCATION
+0.6962043689382985	new contract	increase in	price of gas supplies	0	0
+1.0	soviet-era subsidy	expand ownership throughout	Europe	0	LOCATION
+1.0	gas pipeline operator Beltransgaz	have	percent	PERCENT	ORGANIZATION
+1.0	Gazprom CEO Alexei Miller	end month before	deadline	PERSON	0
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty	DATE	0
+1.0	energy supplies	have	era	O	O
+1.0	Sunday 's deal	mark	end	DATE	0
+1.0	revive memory year	cause by	dispute	DATE	0
+1.0	Sunday 's deal	come in	wake of hike in russian duty on oil export to Belarus	DATE	LOCATION
+0.6962043689382985	contract	fourfold increase in	price of gas supplies	0	0
+0.6379469975910022	contract	include	fourfold increase in price of russian gas supplies	0	0
+0.6962043689382985	contract	increase in	price of russian gas supplies	0	0
+1.0	Gazprom	end soviet-era subsidy to	neighbor country	ORGANIZATION	0
+1.0	Alexander Lukashenko	be	belarussian	PERSON	0
+1.0	world	have	gas	O	O
+1.0	Belarus	earn income from	refining	LOCATION	0
+1.0	journalist	be in	Moscow	0	LOCATION
+1.0	western government	give backing during	gas row	0	0
+0.6962043689382985	new contract	increase in	price	0	0
+1.0	Gazprom CEO Alexei Miller	speak to	journalist alongside belarussian minister	PERSON	0
+1.0	Gazprom CEO Alexei Miller	end	month of negotiation minute	PERSON	0
+1.0	Gazprom	have mount	campaign	ORGANIZATION	0
+1.0	Sunday 's deal	come in	wake of hike in duty	DATE	0
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty on oil export to Belarus	DATE	LOCATION

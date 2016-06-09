@@ -1,0 +1,73 @@
+0.6056829007965586	Wu	first wife of	taiwanese leader	PERSON	0
+1.0	prosecutor	indict	The wheelchair-bound Wu	0	PERSON
+1.0	involvement	have	suspected	O	O
+1.0	a fund set	be	use	0	0
+1.0	Taiwanese President Chen Shui-bian	escape prosecution because	because presidential immunity	PERSON	0
+1.0	Wu Shu-chen	have	trial	O	O
+1.0	Taiwanese President Chen Shui-bian	be	also suspect	PERSON	0
+1.0	importance	have	affairs	O	O
+1.0	Taiwanese President Chen Shui-bian	be also suspect of	involvement	PERSON	0
+0.6056829007965586	Wu	wife of	taiwanese leader	PERSON	0
+1.0	dollar	be	spend	0	0
+1.0	Taiwanese President Chen Shui-bian	be also suspect of	involvement in case	PERSON	0
+1.0	leader	have promise	resign	0	0
+1.0	Wu	be	discharge from hospital on December 31	PERSON	DATE
+1.0	the first wife of a Taiwanese leader to be prosecuted	claim	450,000 US dollar	0	NUMBER
+1.0	The embattled leader	have	son-in-law Chao Chien-ming	PERSON	O
+1.0	immunity	have	escaped	O	O
+1.0	the first wife of a Taiwanese leader to be prosecuted	claim	14.8 million Taiwan dollar	0	MONEY
+1.0	Taiwanese President Chen Shui-bian	be suspect of	involvement in case	PERSON	0
+1.0	Chen	have	presidency	PERSON	0
+1.0	trial	have	opening day	DURATION	O
+1.0	The president	have	wife	O	O
+1.0	Wu	be	discharge from hospital on December 31 16 day	PERSON	DATE
+1.0	The wheelchair-bound Wu	be	find	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge from hospital on December 31 16 day	PERSON	DATE
+1.0	wheelchair-bound Wu	be	discharge from hospital 16 day	PERSON	DURATION
+1.0	wheelchair-bound Wu	be discharge on	December 31	PERSON	DATE
+1.0	The wheelchair-bound Wu	be find	guilty	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge from hospital on December 31	PERSON	DATE
+0.6056829007965586	Wu	first wife of	leader	PERSON	0
+1.0	Taiwanese President Chen Shui-bian	be	suspect	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge on December 31 16 day	PERSON	DATE
+1.0	he son-in-law Chao Chien-ming	be	when sentence	PERSON	0
+1.0	he son-in-law Chao Chien-ming	be	when sentence to six year	PERSON	DURATION
+1.0	dollar	be spend on	diamond ring	0	0
+1.0	Wu	be discharge from	hospital	PERSON	0
+1.0	Taiwanese President Chen Shui-bian	escape	immediate prosecution	PERSON	0
+1.0	Wu	be	discharge from hospital 16 day	PERSON	DURATION
+1.0	the first wife of a Taiwanese leader to be prosecuted	illegally claim	450,000 US dollar	0	NUMBER
+0.6056829007965586	Wu	wife of	leader	PERSON	0
+1.0	dollar	be	spend on diamond ring for he wife	0	0
+1.0	involvement	be in	case	0	0
+1.0	Taiwanese President Chen Shui-bian	be suspect of	involvement	PERSON	0
+1.0	he son-in-law Chao Chien-ming	fine	30 million dollar	PERSON	MONEY
+1.0	landmark case	could end	Chen 's presidency	0	PERSON
+1.0	Taiwanese President Chen Shui-bian	escape prosecution because	because immunity	PERSON	0
+1.0	Chen Shui-bian	be of	taiwanese	PERSON	0
+1.0	dollar	be spend for	he wife	0	0
+1.0	Chen	have	presidency	O	PERSON
+1.0	Wu Shu-chen	have	doctors	O	O
+1.0	wheelchair-bound Wu	be discharge from	hospital	PERSON	0
+1.0	the first wife of a Taiwanese leader to be prosecuted	illegally claim	14.8 million Taiwan dollar	0	MONEY
+1.0	Taiwanese President Chen Shui-bian	escape	prosecution	PERSON	0
+1.0	president	use	false receipt	0	0
+1.0	President Chen Shui-bian	have	wife	O	PERSON
+1.0	he son-in-law Chao Chien-ming	be sentence to	six year in prison	PERSON	DURATION
+1.0	trial	have	start	O	O
+1.0	he son-in-law Chao Chien-ming	be	sentence	PERSON	0
+1.0	Wu	be	discharge on December 31 16 day	PERSON	DATE
+1.0	Wu Shu-chen	be	54	PERSON	NUMBER
+1.0	he son-in-law Chao Chien-ming	be sentence to	six year	PERSON	DURATION
+1.0	prosecutor	be in	November	0	DATE
+1.0	six year	be in	prison	DURATION	0
+1.0	he son-in-law Chao Chien-ming	be	when sentence to six year in prison	PERSON	DURATION
+1.0	Wu Shu-chen	have	absence	O	O
+1.0	Wu	be	discharge 16 day	PERSON	DURATION
+1.0	Chang Hsi-huai	tell	reporter	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge	PERSON	0
+1.0	wheelchair-bound Wu	be	discharge 16 day	PERSON	DURATION
+1.0	Wu	be discharge on	December 31	PERSON	DATE
+1.0	The ailing wife of Taiwanese President Chen Shui-bian	have	trial	O	O
+1.0	Wu	be	discharge	PERSON	0
+1.0	leader	have	wife	O	O

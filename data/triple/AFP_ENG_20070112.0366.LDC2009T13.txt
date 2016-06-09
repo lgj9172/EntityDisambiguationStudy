@@ -1,0 +1,61 @@
+1.0	Wednesday	have	speech	O	DATE
+1.0	sectarian strife	be in	Baghdad	0	LOCATION
+1.0	opinion poll	show	US public opposition	0	LOCATION
+1.0	plan	have	implementation	O	O
+1.0	percent	be uneasy with	president 's ability	PERCENT	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	plan	have	implementation	0	0
+1.0	failure	have	admission	O	O
+1.0	Prime Minister Nuri al-Maliki	have	Baghdad government	O	PERSON
+0.826525082487818	ABC News/Washington Post poll	report in	post	ORGANIZATION	0
+1.0	Bush	have	plan	O	PERSON
+1.0	CNN	report at_time	Friday	ORGANIZATION	DATE
+1.0	Wednesday	in	speech	DATE	0
+1.0	president	have	ability	O	O
+1.0	CBS News poll	have	50 percent	ORGANIZATION	PERCENT
+1.0	Bush	against	plan send to Iraq on 132,000 already	PERSON	LOCATION
+1.0	country	have	control	O	O
+1.0	control	help	Iraq 's security force	0	LOCATION
+1.0	George W. Bush	to	plan send to Iraq with nearly two-third of Americans	PERSON	LOCATION
+1.0	Chuck Hagel	be	Republican	PERSON	MISC
+1.0	opinion poll	show	US opposition	0	LOCATION
+1.0	those	have	three-quarters	DURATION	O
+1.0	those	have	percent	PERCENT	O
+1.0	Republican Senator Chuck Hagel	say at_time	Thursday	PERSON	DATE
+0.7783340363506673	voice	confidence in	US President George W. Bush 's	0	PERSON
+1.0	people	have	percent	PERCENT	O
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	hearing	ask	Bush official question	0	PERSON
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	confidence	be in	US President George W. Bush 's	0	PERSON
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	Joseph Biden	be	Democrats who control Congress should try to block the plan 's implementation	PERSON	MISC
+1.0	percent	be	uneasy	PERCENT	0
+1.0	68 percent	be uneasy with	president 's ability	PERCENT	0
+1.0	more troops	express	disapproval	0	0
+1.0	strategy	have	disapproved	O	O
+1.0	hearing	ask	Bush official tough question	0	PERSON
+1.0	Bush	have	Republican Party	ORGANIZATION	PERSON
+1.0	president	with	ability make about Iraq	0	LOCATION
+0.826525082487818	ABC News/Washington Post poll	report at_time	Friday	ORGANIZATION	DATE
+1.0	Iraq	be on top of	132,000	LOCATION	NUMBER
+1.0	opinion poll	show	strong US opposition	0	LOCATION
+1.0	US President George W. Bush	have	plan	O	PERSON
+1.0	president	have	strategy	0	0
+1.0	president	have	strategy	O	O
+1.0	majority	want	Congress	0	ORGANIZATION
+1.0	opinion poll	show	strong US public opposition	0	LOCATION
+1.0	troops	express	disapproval	0	0
+1.0	CBS News poll	have	50 percent say	ORGANIZATION	PERCENT
+1.0	68 percent	be	uneasy	PERCENT	0
+1.0	the president 's strategy	be	tragic	0	0
+1.0	majority	be in	poll	0	0
+1.0	Americans	have	two-thirds	O	MISC
+1.0	opinion poll	show us opposition at_time	Friday	0	DATE
+1.0	opinion poll	show us opposition to	US President George W. Bush 's plan	0	LOCATION
+1.0	Congress	decide on	plan	ORGANIZATION	0
+1.0	Iraq	have	security force	LOCATION	0
+0.8941029815422903	Congress	majority in	poll	ORGANIZATION	0
+1.0	Senate	hold	hearing	ORGANIZATION	0
+1.0	132,000	have	Iraq	LOCATION	NUMBER

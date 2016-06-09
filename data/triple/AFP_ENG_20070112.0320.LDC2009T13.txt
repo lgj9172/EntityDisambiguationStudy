@@ -1,0 +1,48 @@
+1.0	final decision	be	unlikely	0	0
+1.0	parliament	endorse	mandate	0	0
+1.0	Germany	have	troops	O	O
+1.0	reinforcement	fight	taliban-led insurgent	0	0
+1.0	insurgency	claim	life of around 3,700 people year	0	NUMBER
+1.0	A final decision on the move	remain	unclear	0	0
+1.0	Peter Struck	tell	reporter	0	0
+1.0	insurgency	claim	life of year	0	DATE
+1.0	NATO leader	agree in	November	ORGANIZATION	DATE
+1.0	months	have	deployment	O	DURATION
+1.0	former defence minister	say at_time	Friday	0	DATE
+1.0	parliament	endorse	new mandate	0	0
+1.0	reinforcement	fight insurgent in	south	0	0
+1.0	insurgency	claim	life of last year	0	DATE
+1.0	decision	be unlikely before	end	0	DATE
+1.0	insurgency	claim	life of around 3,700 people last year	0	NUMBER
+1.0	Tornado aircraft	have	deployment	O	O
+1.0	german parliament	endorse	mandate	0	0
+1.0	Germany	ignore	call	LOCATION	0
+1.0	month	have	end	DATE	DATE
+1.0	NATO officials	be	aware of possible offer from Germany	0	LOCATION
+1.0	insurgency	claim	life	0	0
+1.0	Peter Struck	say	ex-minister	PERSON	0
+1.0	NATO officials	be aware of	possible offer	0	0
+1.0	reconnaissance duty	be in	insurgency-hit region	0	0
+1.0	offer	have	aware	O	O
+1.0	insurgency	claim life accord to	figure	0	0
+1.0	NATO leader	move troops in	emergency case	ORGANIZATION	0
+1.0	parliament	endorse	mandate for plane	0	0
+1.0	german parliament	endorse	new mandate	0	0
+1.0	NATO officials	be	aware	0	0
+1.0	NATO ministers	have	meeting	O	O
+1.0	year	have	lives	O	DATE
+1.0	deployment	be in	reconnaissance role to Afghanistan	0	LOCATION
+1.0	final decision	be unlikely before	end	0	DATE
+1.0	NATO leader	move	troops	ORGANIZATION	0
+1.0	NATO leader	move	troops around inside Afghanistan	ORGANIZATION	LOCATION
+1.0	former german defence minister	say at_time	Friday	0	DATE
+1.0	german parliament	endorse	new mandate for plane	0	0
+1.0	Secretary General Jaap de Hoop Scheffer	tell	reporter	0	0
+1.0	it	send	fighter-bomber	0	0
+1.0	reinforcement	fight	insurgent	0	0
+1.0	insurgency	claim life accord to	official figure	0	0
+1.0	german parliament	endorse	mandate for plane	0	0
+1.0	parliament	endorse	new mandate for plane	0	0
+1.0	decision	be	unlikely	0	0
+1.0	NATO officials	be aware from	Germany	0	LOCATION
+1.0	NATO leader	move	troops around Afghanistan	ORGANIZATION	LOCATION

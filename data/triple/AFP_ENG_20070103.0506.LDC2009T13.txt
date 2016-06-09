@@ -1,0 +1,116 @@
+1.0	Iloilo	be	due	LOCATION	0
+1.0	chief	appeal country to	Fiji 's 900,000 citizen	0	NUMBER
+0.37349311012948594	military chief	appeal to	Fiji 's 900,000 citizen	0	NUMBER
+1.0	Voreqe Bainimarama	take	control	PERSON	0
+1.0	it	take	line	0	0
+1.0	military chief	declare	state of emergency	0	0
+1.0	military chief	remove	government	0	0
+1.0	military chief	appeal	country	0	0
+0.5407292732553599	it	racist policy against	country 's ethnic indian minority	0	0
+1.0	actions	have	supportive	O	O
+1.0	Prime Minister Laisenia Qarase	have	government	O	PERSON
+1.0	country	support	Fiji	0	LOCATION
+1.0	it	take line against	those involve in coup	0	0
+1.0	military chief	appeal country to	Fiji 's 900,000 citizen	0	NUMBER
+1.0	it	adopt	policy against country 's ethnic minority	0	0
+1.0	it	adopt	policy against country 's ethnic indian minority	0	0
+0.6777504635483326	those	involve in	coup	0	0
+1.0	president	be	appoint	0	0
+1.0	military	support	letter of constitution	0	0
+1.0	Fiji	have	forces commander	O	LOCATION
+1.0	it	adopt	racist policy against country 's ethnic indian minority	0	0
+1.0	his	have	wisdom	O	O
+1.0	chief	appeal	country	0	0
+1.0	South Pacific country	have	control	O	O
+0.6777504635483326	those	involve in	coup 2000	0	DATE
+1.0	nation	have	coup	O	O
+1.0	military chief	remove	government of Prime Minister Laisenia Qarase	0	PERSON
+1.0	it	take line against	those involve	0	0
+1.0	country	have	minority	O	O
+1.0	reserve powers	have	legal	O	O
+1.0	military chief	appeal	neighbouring country	0	0
+1.0	coup	be in	2000	0	DATE
+1.0	leaders	have	body	O	O
+1.0	it	adopt	policy against country 's minority	0	0
+1.0	Bainimara 's move	will clear	way	PERSON	0
+1.0	Bainimara	have	move	PERSON	0
+0.5407292732553599	it	policy against	country 's ethnic indian minority	0	0
+1.0	chief	remove	government of Prime Minister Laisenia Qarase in coup	0	PERSON
+1.0	president	be appoint by	Great Council	0	ORGANIZATION
+1.0	it	adopt	policy	0	0
+1.0	Bainimarama	overthrow	Qarase 's government	PERSON	PERSON
+1.0	president	be appoint by	Great Council of Chiefs	0	ORGANIZATION
+1.0	Fiji	have	citizens	O	LOCATION
+1.0	it	adopt	racist policy against country 's minority	0	0
+0.5407292732553599	it	policy against	country 's indian minority	0	0
+1.0	military chief	declare	state	0	0
+1.0	Fiji	to	900,000 citizen	LOCATION	NUMBER
+1.0	Caretaker Prime Minister Jona Senilagakaki	clear	way for Iloilo	PERSON	LOCATION
+1.0	chief	declare	state of emergency	0	0
+1.0	country	support	international community	0	0
+1.0	his	have	move	O	O
+1.0	it	take	soft line	0	0
+1.0	interim president	be in	nation 's fourth coup	0	ORDINAL
+1.0	chief	appeal	neighbouring country	0	0
+1.0	constitution	have	letter	O	O
+1.0	Jona Senilagakaki	be	Caretaker	PERSON	MISC
+1.0	Iloilo	make address later at_time	Thursday	LOCATION	DATE
+1.0	neighbouring country	support	international community	0	0
+1.0	Iloilo	make address at_time	Thursday	LOCATION	DATE
+1.0	Caretaker Prime Minister Jona Senilagakaki	resign at_time	Thursday	PERSON	DATE
+1.0	military chief	remove	government of Prime Minister Laisenia Qarase in coup	0	PERSON
+1.0	Chiefs	have	Great Council	ORGANIZATION	ORGANIZATION
+1.0	country	against	ethnic indian minority	0	0
+1.0	chief	remove	government of Prime Minister Laisenia Qarase	0	PERSON
+0.5249172882554555	declare	state of	emergency	0	0
+0.5407292732553599	it	racist policy against	country 's ethnic minority	0	0
+0.5407292732553599	it	policy against	country 's ethnic minority	0	0
+1.0	neighbouring country	support	community	0	0
+1.0	country	have	authority	O	O
+1.0	Qarase	have	government	O	PERSON
+1.0	Fiji	have	armed force commander	LOCATION	0
+1.0	his	have	executive authority	O	O
+1.0	coup	have	time	O	O
+1.0	month	have	coup	O	DATE
+0.5407292732553599	it	racist policy against	country 's minority	0	0
+1.0	Iloilo	make later	address	LOCATION	0
+1.0	Qarase	have	government	PERSON	0
+1.0	Iloilo	make	address	LOCATION	0
+1.0	Laisenia Qarase	be in	coup	PERSON	0
+1.0	Bainimara	have	move	O	PERSON
+1.0	president	be appoint under	constitution	0	0
+1.0	it	adopt	racist policy against country 's ethnic minority	0	0
+1.0	neighbouring country	support	Fiji	0	LOCATION
+1.0	chief	declare	state	0	0
+1.0	it	be	corrupt	0	0
+1.0	president	be	under constitution appoint by Great Council	0	ORGANIZATION
+1.0	it	adopt	policy against country 's indian minority	0	0
+1.0	Great Council of Chiefs	body of	indigenous leader	ORGANIZATION	0
+1.0	country	support	community	0	0
+0.5407292732553599	it	racist policy against	country 's indian minority	0	0
+1.0	chief	dissolve	parliament	0	0
+1.0	nation 's fourth coup	be in	two decade	ORDINAL	DURATION
+1.0	Voreqe Bainimarama	name	himself	PERSON	0
+1.0	Iloilo	make	national address	LOCATION	0
+1.0	Iloilo	make later	national address	LOCATION	0
+1.0	nation	in	fourth coup in two decade	0	DURATION
+1.0	emergency	have	state	O	O
+1.0	Voreqe Bainimarama	take	control of South Pacific country	PERSON	LOCATION
+0.37349311012948594	chief	appeal to	Fiji 's 900,000 citizen	0	NUMBER
+1.0	it	take line against	those involve in coup in 2000	0	DATE
+1.0	military chief	dissolve	parliament	0	0
+1.0	Bainimara 's move	will clear	way for Iloilo	PERSON	LOCATION
+1.0	it	adopt	racist policy	0	0
+0.5407292732553599	it	policy against	country 's minority	0	0
+1.0	military	support	letter	0	0
+1.0	it	adopt	racist policy against country 's indian minority	0	0
+1.0	Caretaker Prime Minister Jona Senilagakaki	clear	way	PERSON	0
+1.0	we	trust	he wisdom	0	0
+1.0	Bainimara 's move	name	government	PERSON	0
+1.0	chief	remove	government	0	0
+1.0	last month	until	military coup	DATE	0
+1.0	president	be	under constitution appoint by Great Council of Chiefs	0	ORGANIZATION
+1.0	Bainimara 's move	name	interim government	PERSON	0
+1.0	our	have	actions	O	O
+1.0	Voreqe Bainimarama	take control on	December 5	PERSON	DATE
+1.0	it	take line against	those	0	0

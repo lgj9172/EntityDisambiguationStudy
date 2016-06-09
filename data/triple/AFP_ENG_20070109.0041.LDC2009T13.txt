@@ -1,0 +1,66 @@
+1.0	President	say at_time	Monday	0	DATE
+1.0	legislation	would allow	President Hugo Chavez 's	0	PERSON
+1.0	Venezuela	be	supplier	LOCATION	0
+1.0	President Hugo Chavez	have	plans	O	PERSON
+1.0	President Hugo Chavez 's	end	foreign control of refinery of crude	PERSON	0
+1.0	President Hugo Chavez 's	end	control of refinery	PERSON	0
+1.0	relation	have	have strain	0	0
+1.0	United States	express concern over	leftist President Hugo Chavez 's plan	LOCATION	PERSON
+1.0	oil	have	much	O	O
+1.0	leftist President	say at_time	Monday	0	DATE
+1.0	President Hugo Chavez 's	end	control of refinery of crude	PERSON	0
+1.0	company	dominate	refining process	0	0
+1.0	President Hugo Chavez 's	end control from	Orinoco region in east	PERSON	LOCATION
+1.0	United States	express concern over	leftist venezuelan President Hugo Chavez 's plan	LOCATION	PERSON
+1.0	Venezuela	be	big	LOCATION	0
+1.0	Venezuela	have	oil	O	O
+1.0	United States	express	strong concern	LOCATION	0
+1.0	oil	have	supplier	O	O
+1.0	crude	have	refineries	O	O
+1.0	laws	have	mother	O	O
+1.0	international company	dominate	refining process of crude	0	0
+1.0	existing bilateral contracts	have	sanctity	O	O
+1.0	Venezuela	be	big supplier	LOCATION	0
+1.0	President Hugo Chavez 's	end	control	PERSON	0
+1.0	US Energy Secretary Samuel Bodman	tell	reporter	ORGANIZATION	0
+1.0	international company	dominate	refining process	0	0
+1.0	Samuel Bodman	be secretary of	US Energy	PERSON	ORGANIZATION
+1.0	company	dominate	refining process of heavy crude	0	0
+1.0	State Condeleezza	have	Secretary	O	PERSON
+1.0	United States	be	Venezuela 's largest trading partner	LOCATION	LOCATION
+1.0	propose legislation	would also allow	President Hugo Chavez 's	0	PERSON
+1.0	Samuel Bodman	be	US Energy	PERSON	ORGANIZATION
+1.0	us-venezuelan relation	have	have strain	0	0
+1.0	President Hugo Chavez 's	end	foreign control of refinery	PERSON	0
+1.0	refineries	have	control	O	O
+1.0	United States	be	also Venezuela 's largest trading partner	LOCATION	LOCATION
+1.0	leftist venezuelan President	say at_time	Monday	0	DATE
+1.0	President Hugo Chavez 's	end	foreign control	PERSON	0
+1.0	Venezuela	be big supplier of	oil to United States	LOCATION	LOCATION
+1.0	Orinoco region	be in	east	LOCATION	0
+1.0	President Hugo Chavez 's	take power with	eight year ago populist	PERSON	DATE
+1.0	Venezuela	be big supplier of	oil	LOCATION	0
+1.0	company	dominate	refining process of crude	0	0
+1.0	US oil imports	have	percent	PERCENT	O
+1.0	President Hugo Chavez 's	end	control of refinery of heavy crude	PERSON	0
+1.0	crude	have	refining processes	O	O
+1.0	President Hugo Chavez 's	end	foreign control of refinery of heavy crude	PERSON	0
+1.0	United States	express	concern	LOCATION	0
+1.0	United States	be	also Venezuela 's trading partner	LOCATION	LOCATION
+1.0	United States	express concern over	venezuelan President Hugo Chavez 's plan	LOCATION	PERSON
+1.0	President Hugo Chavez 's	end control from	Orinoco region	PERSON	LOCATION
+1.0	Venezuela	have	trading partner	O	LOCATION
+1.0	venezuelan President	say at_time	Monday	0	DATE
+1.0	international company	dominate	refining process of heavy crude	0	0
+1.0	Venezuela	be supplier of	oil to United States	LOCATION	LOCATION
+1.0	United States	be	Venezuela 's trading partner	LOCATION	LOCATION
+1.0	propose legislation	would allow	President Hugo Chavez 's	0	PERSON
+1.0	United States	express concern at_time	Tuesday	LOCATION	DATE
+1.0	Akira Amari	be with	japanese	PERSON	0
+1.0	Venezuela	be supplier of	oil	LOCATION	0
+1.0	percent	have	source	O	PERCENT
+1.0	President Hugo Chavez 's	take	power	PERSON	0
+1.0	legislation	would also allow	President Hugo Chavez 's	0	PERSON
+1.0	United States	express concern over	President Hugo Chavez 's plan	LOCATION	PERSON
+1.0	President Hugo Chavez 's	take power with	populist	PERSON	0
+0.9249951854307187	Venezuela	source of	about 11 percent of US oil import	LOCATION	LOCATION

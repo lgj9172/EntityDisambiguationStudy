@@ -1,0 +1,37 @@
+1.0	Andre Barreto	be	27	PERSON	NUMBER
+1.0	Rui Dolores	be on	Thursday	PERSON	DATE
+1.0	Rui Dolores	be striker of	Portugal	PERSON	LOCATION
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal until end	PERSON	ORDINAL
+1.0	midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal	PERSON	ORDINAL
+1.0	Vitoria Setubal	be for	first	ORGANIZATION	ORDINAL
+1.0	Setubal	be 14th in	portuguese league with nine point	ORGANIZATION	NUMBER
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal	PERSON	ORDINAL
+1.0	Setubal	be 14th in	league	ORGANIZATION	0
+1.0	Dolores	sign from	Creteil	PERSON	LOCATION
+1.0	Creteil	be from	french	LOCATION	0
+1.0	brazilian midfielder Andre Barreto	sign	Portugal striker Rui Dolores on Thursday	PERSON	LOCATION
+1.0	Andre Barreto	be	brazilian	PERSON	0
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal until end of season	PERSON	ORGANIZATION
+1.0	Creteil	be from	second	LOCATION	ORDINAL
+1.0	Dolores	be	28	PERSON	NUMBER
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal until end	PERSON	ORGANIZATION
+1.0	midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal until end	PERSON	ORGANIZATION
+1.0	midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal	PERSON	ORGANIZATION
+1.0	Vitoria Setubal	be for	Portuguese	ORGANIZATION	MISC
+1.0	midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal until end of season	PERSON	ORDINAL
+1.0	portuguese league	be with	just nine point	0	NUMBER
+1.0	brazilian midfielder Andre Barreto	sign	Portugal striker Rui Dolores	PERSON	LOCATION
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal	PERSON	ORGANIZATION
+1.0	season	have	end	O	O
+1.0	midfielder Andre Barreto	sign	Portugal striker Rui Dolores on Thursday	PERSON	LOCATION
+1.0	midfielder Andre Barreto	sign	Portugal striker Rui Dolores	PERSON	LOCATION
+1.0	Setubal	be 14th in	portuguese league with just nine point	ORGANIZATION	NUMBER
+1.0	Setubal	be	14th	ORGANIZATION	ORDINAL
+1.0	midfielder Andre Barreto	sign for	Portuguese division side Vitoria Setubal until end of season	PERSON	ORGANIZATION
+1.0	Rui Dolores	be	Portugal	PERSON	LOCATION
+1.0	Setubal	be 14th in	portuguese league	ORGANIZATION	0
+1.0	Wisla Krakow	be to	polish	ORGANIZATION	0
+1.0	Setubal	be 14th in	league with nine point	ORGANIZATION	NUMBER
+1.0	Setubal	be 14th in	league with just nine point	ORGANIZATION	NUMBER
+1.0	midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal until end	PERSON	ORDINAL
+1.0	brazilian midfielder Andre Barreto	sign for	Portuguese first division side Vitoria Setubal until end of season	PERSON	ORDINAL

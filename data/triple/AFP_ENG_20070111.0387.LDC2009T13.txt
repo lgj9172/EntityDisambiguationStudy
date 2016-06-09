@@ -1,0 +1,64 @@
+1.0	television footage	show	gunfire come from apartment on one of floor of apartment block	0	NUMBER
+1.0	television footage	show	gunfire come from apartment on one floor of apartment block	0	NUMBER
+1.0	television footage	show	gunfire come from apartment on one of floor	0	NUMBER
+1.0	arm clash	be frequent in	Caucasus mountain region in southern Russia	0	LOCATION
+0.5515718207830441	gunfire	come from	apartment on one top floor	0	NUMBER
+1.0	television footage	show	gunfire come from apartment of top floor	0	0
+1.0	television footage	show	gunfire come from apartment on one top floor	0	NUMBER
+0.5515718207830441	gunfire	come from	apartment on one	0	NUMBER
+0.5515718207830441	gunfire	come from	apartment top floor	0	0
+1.0	Russian Deputy Interior Minister Arkady Yedelev	name	one fighter	PERSON	NUMBER
+0.5515718207830441	gunfire	come from	apartment on one top floor of apartment block	0	NUMBER
+1.0	television footage	show	gunfire come from apartment on one of top floor	0	NUMBER
+1.0	television footage	show	gunfire come from apartment of floor	0	0
+1.0	apartment block	have	floors	O	O
+1.0	clash	be frequent in	Caucasus mountain region in southern Russia	0	LOCATION
+0.5515718207830441	gunfire	come from	apartment of floor of apartment block	0	0
+1.0	province	have	capital	O	O
+1.0	gunbattle	be in	centre of Makhachkala	0	LOCATION
+1.0	fighters	have	one	NUMBER	O
+1.0	floors	have	apartment	O	O
+1.0	fighters	have	group	O	O
+1.0	television footage	show	gunfire come from apartment on one of top floor of apartment block	0	NUMBER
+1.0	television footage	show	gunfire	0	0
+1.0	arm clash	be frequent in	Caucasus mountain region	0	LOCATION
+0.5515718207830441	gunfire	come from	apartment floor	0	0
+1.0	personnel	have	dozens	O	O
+0.5515718207830441	gunfire	come from	apartment top floor of apartment block	0	0
+1.0	television footage	show	gunfire come from apartment top floor	0	0
+1.0	television footage	show	gunfire come	0	0
+1.0	television footage	show	gunfire come from apartment floor	0	0
+0.5515718207830441	gunfire	come from	apartment	0	0
+0.5515718207830441	gunfire	come from	apartment of top floor of apartment block	0	0
+1.0	arm clash	be	frequent	0	0
+1.0	Makhachkala	capital of	restive southern province	LOCATION	0
+0.5515718207830441	gunfire	come from	apartment of top floor	0	0
+1.0	television footage	show	gunfire come from apartment of top floor of apartment block	0	0
+1.0	Deputy Interior Minister Arkady Yedelev	tell	reporter	PERSON	0
+1.0	clash	be frequent in	Caucasus mountain region in Russia	0	LOCATION
+1.0	Arkady Yedelev	be	russian	PERSON	0
+1.0	russian Deputy Interior Minister Arkady Yedelev	tell	reporter	PERSON	0
+0.5515718207830441	gunfire	come from	apartment on one floor of apartment block	0	NUMBER
+1.0	conflict	have	decade	DURATION	O
+0.5515718207830441	gunfire	come from	apartment on one of floor of apartment block	0	NUMBER
+0.5515718207830441	gunfire	come from	apartment on one of top floor	0	NUMBER
+1.0	television footage	show	gunfire come from apartment of floor of apartment block	0	0
+0.5515718207830441	gunfire	come from	apartment on one floor	0	NUMBER
+0.5515718207830441	gunfire	come from	apartment on one of top floor of apartment block	0	NUMBER
+1.0	Makhachkala	have	centre	O	LOCATION
+1.0	armed personnel	be in	street below	0	0
+1.0	clash	be frequent in	Caucasus mountain region	0	LOCATION
+1.0	clash	be	frequent	0	0
+1.0	arm clash	be frequent in	Caucasus mountain region in Russia	0	LOCATION
+1.0	Caucasus mountain region	be in	Russia	LOCATION	LOCATION
+1.0	television footage	show	gunfire come from apartment top floor of apartment block	0	0
+0.5515718207830441	gunfire	come from	apartment of floor	0	0
+1.0	Russian Deputy Interior Minister Arkady Yedelev	name	one of fighter	PERSON	NUMBER
+1.0	television footage	show	gunfire come from apartment on one floor	0	NUMBER
+1.0	television footage	show	gunfire come from apartment on one	0	NUMBER
+1.0	Dagestan	have	province	O	LOCATION
+0.5515718207830441	gunfire	come from	apartment floor of apartment block	0	0
+1.0	television footage	show	gunfire come from apartment on one top floor of apartment block	0	NUMBER
+1.0	television footage	show	gunfire come from apartment	0	0
+1.0	television footage	show	gunfire come from apartment floor of apartment block	0	0
+0.5515718207830441	gunfire	come from	apartment on one of floor	0	NUMBER

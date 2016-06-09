@@ -1,0 +1,141 @@
+1.0	memorandum	date	August 1 2002	0	DATE
+1.0	the government	have	prisoners	O	O
+0.5402261993667721	CIA refusal	release two secret document on its prison to	coverup unlawful abuse	ORGANIZATION	0
+1.0	document	be	14-page	0	0
+1.0	second document	be	18-page memorandum date August 1 2002 address	ORDINAL	DATE
+1.0	Information Act	have	Freedom	O	O
+1.0	first document	be	14-page memorandum date September 17 2001 six day after	ORDINAL	DATE
+1.0	document	be	18-page memorandum date address by Justice Department	0	ORGANIZATION
+1.0	document	be	memorandum date address to CIA	0	ORGANIZATION
+1.0	second document	be	18-page memorandum date address to CIA	ORDINAL	ORGANIZATION
+1.0	18-page memorandum	date	August 1 2002	DATE	DATE
+1.0	document	be	memorandum date August 1 2002 address to CIA	0	DATE
+1.0	second document	be	18-page memorandum date August 1 2002	ORDINAL	DATE
+1.0	second document	be	memorandum date August 1 2002 address by Justice Department	ORDINAL	DATE
+1.0	second document	be	memorandum address	ORDINAL	0
+1.0	documents	have	release	O	O
+1.0	document	be	memorandum date August 1 2002	0	DATE
+1.0	second document	be	18-page memorandum date address by Justice Department	ORDINAL	ORGANIZATION
+1.0	public	have	right know	0	0
+1.0	document	be	memorandum date address by Justice Department	0	ORGANIZATION
+1.0	document	be	memorandum date August 1 2002 address	0	DATE
+1.0	CIA	have	declaration	ORGANIZATION	0
+1.0	document	be	18-page memorandum date August 1 2002 address by Justice Department	0	DATE
+1.0	second document	be	memorandum date August 1 2002 address by Justice Department to CIA	ORDINAL	DATE
+0.5402261993667721	CIA refusal	release	two document	ORGANIZATION	NUMBER
+1.0	document	be	memorandum date August 1 2002 address by Justice Department	0	DATE
+1.0	information	have	Disclosure	O	O
+1.0	Amrit Singh	be	American Civil Liberties Union	PERSON	ORGANIZATION
+1.0	document	be	memorandum	0	0
+1.0	first document	be	14-page memorandum	ORDINAL	0
+1.0	first document	be	14-page memorandum date September 17 2001	ORDINAL	DATE
+1.0	document	be	14-page memorandum date September 17 2001	0	DATE
+1.0	document	be	14-page memorandum date September 17 2001 six day after	0	DATE
+1.0	its	have	refusal	O	O
+1.0	first document	be	memorandum	ORDINAL	0
+1.0	first document	be	memorandum date six day after	ORDINAL	DURATION
+1.0	second document	be	18-page memorandum date August 1 2002 address by Justice Department to CIA	ORDINAL	DATE
+1.0	second document	be	18-page memorandum address by Justice Department	ORDINAL	ORGANIZATION
+1.0	plaintiff	file	they lawsuit	0	0
+1.0	second document	be	memorandum address by Justice Department	ORDINAL	ORGANIZATION
+0.5402261993667721	CIA refusal	release two document to	coverup	ORGANIZATION	0
+1.0	document	be	18-page memorandum date August 1 2002 address by Justice Department to CIA	0	DATE
+0.5402261993667721	CIA refusal	release two secret document on its prison to	coverup abuse	ORGANIZATION	0
+0.5402261993667721	CIA refusal	release	two secret document	ORGANIZATION	NUMBER
+1.0	second document	be	18-page memorandum date address by Justice Department to CIA	ORDINAL	ORGANIZATION
+0.5601300002561348	first document	date at_time	September 17 2001	ORDINAL	DATE
+1.0	second document	be	memorandum date	ORDINAL	0
+1.0	second document	be	18-page memorandum	ORDINAL	DATE
+1.0	document	be	14-page memorandum	0	0
+1.0	first document	be	memorandum date September 17 2001 six day after	ORDINAL	DATE
+1.0	document	be	18-page memorandum date August 1 2002 address to CIA	0	DATE
+0.4913955275943504	two secret document	coverup	they interrogation method	NUMBER	0
+1.0	security	have	release	O	O
+1.0	documents	have	existence	O	O
+0.5402261993667721	CIA refusal	release two secret document to	coverup	ORGANIZATION	0
+1.0	document	be	18-page memorandum	0	DATE
+0.5402261993667721	CIA refusal	release two secret document on its prison to	coverup	ORGANIZATION	0
+1.0	high-level government official	be in	likelihood	0	0
+1.0	government	treat	its prisoner	0	0
+1.0	second document	be	memorandum address to CIA	ORDINAL	ORGANIZATION
+1.0	document	be	14-page memorandum date six day after	0	DURATION
+1.0	document	be	18-page memorandum address to CIA	0	ORGANIZATION
+1.0	CIA	have	declaration	O	ORGANIZATION
+1.0	CIA	recognize	existence of document	ORGANIZATION	0
+1.0	CIA	recognize	existence	ORGANIZATION	0
+0.5601300002561348	document	date after	six day	0	DURATION
+0.5601300002561348	first document	date after	six day	ORDINAL	DURATION
+0.5402261993667721	CIA refusal	release	two secret document on its prison	ORGANIZATION	NUMBER
+1.0	document	be	18-page memorandum address by Justice Department to CIA	0	ORGANIZATION
+1.0	document	be	memorandum date address	0	0
+1.0	CIA	have	authorization	O	ORGANIZATION
+1.0	document	be	14-page memorandum date	0	0
+1.0	second document	be	memorandum	ORDINAL	0
+1.0	CIA	concern	authorization set outside United States	ORGANIZATION	LOCATION
+1.0	document	be	18-page memorandum date address by Justice Department to CIA	0	ORGANIZATION
+1.0	its	have	co-plaintiffs	O	O
+1.0	american public	have	right know	0	0
+1.0	second document	be	memorandum date address by Justice Department	ORDINAL	ORGANIZATION
+1.0	document	be	18-page memorandum address by Justice Department	0	ORGANIZATION
+0.5601300002561348	document	date at_time	September 17 2001	0	DATE
+1.0	document	one of	they	0	0
+1.0	document	be	memorandum date September 17 2001 six day after	0	DATE
+1.0	two	have	prisons	O	O
+0.5402261993667721	CIA refusal	release two secret document to	coverup abuse	ORGANIZATION	0
+1.0	document	be	memorandum date six day after	0	DURATION
+0.4913955275943504	two document	coverup	they interrogation method	NUMBER	0
+0.5402261993667721	CIA refusal	release two document to	coverup unlawful abuse	ORGANIZATION	0
+0.5402261993667721	CIA refusal	release two secret document to	coverup unlawful abuse	ORGANIZATION	0
+1.0	first document	be	14-page memorandum date	ORDINAL	0
+1.0	document	be	memorandum address by Justice Department to CIA	0	ORGANIZATION
+1.0	them	have	one	NUMBER	O
+1.0	second document	be	memorandum date August 1 2002	ORDINAL	DATE
+1.0	document	be	memorandum address by Justice Department	0	ORGANIZATION
+1.0	The five plaintiffs	have	lawsuit	O	O
+1.0	document	be	18-page	0	DATE
+1.0	New York	be on	Friday	LOCATION	DATE
+1.0	second document	be	18-page memorandum address	ORDINAL	DATE
+1.0	document	be	memorandum address to CIA	0	ORGANIZATION
+1.0	ACLU	hope	its co-plaintiff	ORGANIZATION	0
+0.5402261993667721	CIA refusal	release two document on its prison to	coverup	ORGANIZATION	0
+1.0	CIA	defend	its refusal	ORGANIZATION	0
+1.0	first document	be	memorandum date	ORDINAL	0
+1.0	second document	be	18-page memorandum date August 1 2002 address by Justice Department	ORDINAL	DATE
+1.0	second document	be	memorandum date August 1 2002 address	ORDINAL	DATE
+1.0	second document	be	18-page memorandum address by Justice Department to CIA	ORDINAL	ORGANIZATION
+1.0	second document	be	memorandum date August 1 2002 address to CIA	ORDINAL	DATE
+1.0	CIA refusal	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	document	be	memorandum date	0	0
+1.0	document	be	18-page memorandum address	0	DATE
+1.0	document	be	memorandum date August 1 2002 address by Justice Department to CIA	0	DATE
+1.0	document	be	memorandum address	0	0
+1.0	document	be	memorandum date September 17 2001	0	DATE
+0.5402261993667721	CIA refusal	release	two document on its prison	ORGANIZATION	NUMBER
+1.0	second document	be	memorandum date address	ORDINAL	0
+1.0	document	be	18-page memorandum date August 1 2002	0	DATE
+1.0	document	be	18-page memorandum date address	0	DATE
+1.0	executive branch	have	oversight	O	O
+1.0	their	have	interrogation methods	O	O
+1.0	Amrit Singh	be attorney of	American Civil Liberties Union	PERSON	ORGANIZATION
+1.0	document	be	18-page memorandum date August 1 2002 address	0	DATE
+1.0	american public	have	right	0	0
+1.0	second document	be	memorandum date address by Justice Department to CIA	ORDINAL	ORGANIZATION
+1.0	first document	be	memorandum date September 17 2001	ORDINAL	DATE
+1.0	document	be	18-page memorandum date	0	DATE
+1.0	second document	be	memorandum address by Justice Department to CIA	ORDINAL	ORGANIZATION
+1.0	five plaintiff	file	they lawsuit	NUMBER	0
+1.0	second document	be	18-page memorandum address to CIA	ORDINAL	ORGANIZATION
+1.0	second document	be	18-page memorandum date address	ORDINAL	DATE
+0.5402261993667721	CIA refusal	release two document on its prison to	coverup unlawful abuse	ORGANIZATION	0
+1.0	document	be	18-page memorandum date address to CIA	0	ORGANIZATION
+1.0	second document	be	18-page memorandum date	ORDINAL	DATE
+1.0	public	have	right	0	0
+0.5402261993667721	CIA refusal	release two document on its prison to	coverup abuse	ORGANIZATION	0
+0.5402261993667721	CIA refusal	release two document to	coverup abuse	ORGANIZATION	0
+1.0	our	have	adversaries	O	O
+1.0	second document	be	18-page memorandum date August 1 2002 address to CIA	ORDINAL	DATE
+1.0	first document	be	14-page memorandum date six day after	ORDINAL	DURATION
+1.0	second document	be	memorandum date address to CIA	ORDINAL	ORGANIZATION
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	abuse	have	coverup	O	O
+1.0	document	be	memorandum date address by Justice Department to CIA	0	ORGANIZATION

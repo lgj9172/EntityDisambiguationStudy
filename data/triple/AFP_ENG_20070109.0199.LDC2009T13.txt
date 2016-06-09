@@ -1,0 +1,118 @@
+1.0	gunfire	erupt near	presidential residence of Fatah leader Mahmud Abbus	0	PERSON
+1.0	people	be	wound	0	0
+1.0	gunfire	erupt near	residence	0	0
+1.0	attack	have	Fatah	ORGANIZATION	O
+1.0	its	have	government	O	O
+1.0	putschists	have	face	O	O
+1.0	Hamas spokesman Fawzi Barhum	refer during	press conference Monday	PERSON	DATE
+1.0	Gaza	have	have wrack by violence since December 16	LOCATION	DATE
+1.0	Abbas	call for	election	PERSON	0
+0.06141471494456796	World Bank	have call	they crisis	ORGANIZATION	0
+0.4771337656220713	election	call by	western observer	0	0
+1.0	words	have	war	O	O
+1.0	Hamas force	have	members	O	O
+1.0	shell	be	when fire by man	0	DATE
+1.0	gunfire	erupt near	residence of Fatah leader Mahmud Abbus in Gaza	0	PERSON
+1.0	palestinian Fatah	engage amid	tension	ORGANIZATION	0
+1.0	Abbas	resolve	months-long standoff	PERSON	0
+1.0	gunfire	erupt near	presidential residence of Fatah leader Mahmud Abbus in Gaza apparently	0	PERSON
+1.0	Mahmud Abbus	be in	Gaza Strip	PERSON	LOCATION
+1.0	gunfire	erupt near	presidential residence of Fatah leader Mahmud Abbus apparently	0	PERSON
+1.0	our	have	people	O	O
+1.0	Gaza	have	have wrack by violence	LOCATION	0
+1.0	Fatah leader Mahmud Abbus	have	residence	O	PERSON
+1.0	palestinian rival Fatah	engage amid	heighten tension	ORGANIZATION	0
+1.0	gunfire	erupt near	residence of Fatah leader Mahmud Abbus	0	PERSON
+1.0	our	have	people proof	O	O
+1.0	Mahmud Abbus	be of	long-dominant Fatah	PERSON	ORGANIZATION
+1.0	Mahmud Abbus	be leader of	long-dominant Fatah	PERSON	ORGANIZATION
+1.0	Israel	abide for	aid resume	LOCATION	0
+1.0	gunfire	erupt near	residence of Fatah leader Mahmud Abbus in Gaza apparently	0	PERSON
+1.0	Fatah	form	coalition	ORGANIZATION	0
+1.0	shell	be fire by	armed man	0	DATE
+1.0	shell	be fire at	they vehicle	0	0
+1.0	shell	be	when fire at they vehicle by armed man	0	DATE
+1.0	unity government	lead to	return of badly-needed aid	0	0
+1.0	gunfire	erupt near	presidential residence	0	0
+1.0	rival Fatah	engage amid	tension	ORGANIZATION	0
+1.0	Hamas spokesman Fawzi Barhum	refer to	Dahlan	PERSON	PERSON
+1.0	unity government	lead to	return	0	0
+0.06141471494456796	World Bank	have call	they economic crisis	ORGANIZATION	0
+1.0	their	have	crisis	O	O
+1.0	shell	be	when fire at they vehicle by man	0	DATE
+0.06141471494456796	World Bank	have call	they worst-ever economic crisis	ORGANIZATION	0
+1.0	Hamas	reject	move	ORGANIZATION	0
+1.0	Hamas spokesman Fawzi Barhum	refer during	press conference	PERSON	0
+1.0	their	have	disagreement	O	O
+1.0	people proof	have	majority	O	O
+0.06141471494456796	World Bank	have call	they worst-ever crisis	ORGANIZATION	0
+1.0	shell	be	fire	0	0
+1.0	president	have	bodyguards	O	O
+1.0	aid	have	return	O	O
+1.0	shell	be	when fire	0	0
+1.0	his	have	call	O	O
+1.0	unity	have	government	O	O
+1.0	rival Fatah	engage	Hamas faction	ORGANIZATION	ORGANIZATION
+1.0	long-dominant Fatah	be	palestinian	ORGANIZATION	DURATION
+1.0	huge rally	be in	Gaza City	DURATION	LOCATION
+1.0	their	have	plots	O	O
+1.0	president	between	bodyguard	0	0
+1.0	MP	have	tirade	O	O
+1.0	Gaza	have	have wrack by factional violence since December 16	LOCATION	DATE
+1.0	Fawzi Barhum	be	Hamas	PERSON	ORGANIZATION
+1.0	heighten tension	be in	Gaza Strip	0	DURATION
+1.0	gunfire	erupt at_time	Tuesday	0	DATE
+1.0	gunfire	erupt near	residence apparently	0	0
+1.0	five	have	force	O	O
+1.0	Gaza Mohammed Dahlan	be on	Monday	LOCATION	DURATION
+1.0	unity government	lead to	return of aid	0	0
+1.0	Gaza	have	have wrack since December 16	LOCATION	DATE
+1.0	long-dominant Fatah	engage amid	tension	ORGANIZATION	0
+1.0	A spokesman for Abbas 's Fatah party	dismiss	warning	0	DURATION
+1.0	palestinian rival Fatah	engage amid	tension	ORGANIZATION	0
+1.0	Hamas spokesman Fawzi Barhum	refer during	press conference late Monday	PERSON	DATE
+1.0	gunfire	erupt between	president 's bodyguard	0	0
+1.0	shell	be	fire at they vehicle by armed man	0	DATE
+1.0	Jabaliya	have	town	O	LOCATION
+1.0	long-dominant Fatah	engage	Hamas faction	ORGANIZATION	ORGANIZATION
+1.0	Hamas	have	unwillingness comply with western demand	ORGANIZATION	0
+1.0	gunfire	erupt near	presidential residence apparently	0	0
+1.0	Abbas	call for	early election	PERSON	0
+1.0	gunfire	erupt at_time	late Tuesday	0	DATE
+1.0	shell	be	when fire at they vehicle	0	DATE
+1.0	A spokesman for Abbas 's Fatah party	also dismiss	warning	0	DURATION
+1.0	ruling	renounce	violence	0	0
+1.0	Fatah	form	Hamas	ORGANIZATION	ORGANIZATION
+1.0	long-dominant Fatah	engage amid	heighten tension	ORGANIZATION	0
+1.0	war	have	brink	O	O
+1.0	mp	after	vitriolic tirade against ruling Islamists during huge rally in Gaza City	0	LOCATION
+1.0	Israel	abide for	aid	LOCATION	0
+1.0	gunfire	erupt near	residence of Fatah leader Mahmud Abbus apparently	0	PERSON
+1.0	Abdel Hakim Amer	tell	news conference	PERSON	0
+1.0	Authority	have	collected	O	ORGANIZATION
+1.0	Abbas	issue	he call	PERSON	0
+1.0	shell	be	fire at they vehicle by man	0	DATE
+1.0	Israel	abide by	past peace deal	LOCATION	DATE
+1.0	Abbas	for	Fatah party	PERSON	ORGANIZATION
+1.0	Abbas	resolve standoff with	Hamas	PERSON	ORGANIZATION
+0.4771337656220713	election	call by	observer	0	0
+1.0	gunfire	erupt near	presidential residence of Fatah leader Mahmud Abbus in Gaza	0	PERSON
+1.0	rival Fatah	engage amid	heighten tension	ORGANIZATION	0
+1.0	two people	be	wound	0	0
+1.0	palestinian Fatah	engage	Hamas faction	ORGANIZATION	ORGANIZATION
+1.0	talk	have collapse over	disagreement	0	0
+1.0	shell	be fire by	man	0	DATE
+1.0	Gaza	have	have wrack by factional violence	LOCATION	0
+1.0	their	have	vehicle	O	O
+1.0	Abbas	have	Fatah party	O	PERSON
+1.0	gunfire	erupt accord to	witness	0	0
+1.0	Abbas	resolve	standoff	PERSON	0
+1.0	Gaza	have	have wrack	LOCATION	0
+1.0	Hamas	have	unwillingness	O	ORGANIZATION
+1.0	Fatah	form coalition amid	hope	ORGANIZATION	0
+1.0	palestinian rival Fatah	engage	Hamas faction	ORGANIZATION	ORGANIZATION
+1.0	aid freeze	have plunge	territory	0	0
+1.0	palestinian Fatah	engage amid	heighten tension	ORGANIZATION	0
+1.0	plots	have	face	O	O
+1.0	Fawzi Barhum	be spokesman of	Hamas	PERSON	ORGANIZATION
+1.0	shell	be	when fire by armed man	0	DATE

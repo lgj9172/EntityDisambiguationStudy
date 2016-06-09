@@ -1,0 +1,44 @@
+1.0	big appetite	be in	Croatia	0	LOCATION
+1.0	output	have	percent	PERCENT	O
+1.0	GDP	have	percent	PERCENT	O
+1.0	Croatia	have	foreign debt	LOCATION	0
+1.0	Croatia 's debt	be blot on	its landscape	LOCATION	0
+1.0	country	have	macroeconomic stability	0	0
+1.0	premier	pledge	further decrease	0	0
+1.0	office forecast	be	set	0	0
+1.0	Croatian Prime Minister Ivo Sanader	tell	journalist	PERSON	0
+1.0	percent	have	growth	O	PERCENT
+1.0	particpation	be in	bloc	0	0
+1.0	premier	pledge	decrease	0	0
+1.0	office forecast	be set in	2006 growth	0	DATE
+1.0	government	lower state share in	debt	0	0
+1.0	security	have	guarantor	O	O
+1.0	office forecast	be set accord to	national statistics	0	0
+1.0	Ivo Sanader	be	Croatian	PERSON	MISC
+1.0	Croatian Prime Minister Ivo Sanader	maintain	country 's macroeconomic stability	MISC	0
+1.0	he government	be	focus	0	0
+1.0	office forecast	be set in	2006 croatian economic growth	0	DATE
+1.0	7.0	have	growth	O	NUMBER
+1.0	Croatia 's debt	be	blot	LOCATION	0
+1.0	he conservative government	be	focus	0	0
+1.0	Croatia 's foreign debt	be blot on	its landscape	LOCATION	0
+1.0	Croatian Prime Minister Ivo Sanader	maintain	country 's stability	MISC	0
+1.0	2005	have	end	DATE	DATE
+1.0	appetite	be in	Croatia	0	LOCATION
+1.0	office forecast	reach	4.6 percent	0	PERCENT
+1.0	premier	also pledge	decrease	0	0
+1.0	Croatia 's debt	be blot on	its economic landscape	LOCATION	0
+1.0	office forecast	be set accord to	statistics	0	0
+1.0	premier	also pledge	further decrease	0	0
+1.0	its	have	landscape	O	O
+1.0	Croatian Prime Minister Ivo Sanader	pledge on	Friday	MISC	DATE
+1.0	Croatian Prime Minister Ivo Sanader	have	government	O	O
+1.0	government	be in	addition	0	0
+1.0	Croatia	have	debt	O	LOCATION
+1.0	Croatia 's foreign debt	be blot on	its economic landscape	LOCATION	0
+1.0	government	lower state share in	foreign debt	0	0
+1.0	government	lower	state share	0	0
+1.0	office forecast	be set in	2006 economic growth	0	DATE
+1.0	country	have	stability	O	O
+1.0	Croatia 's foreign debt	be	blot	LOCATION	0
+1.0	office forecast	be set in	2006 croatian growth	0	DATE

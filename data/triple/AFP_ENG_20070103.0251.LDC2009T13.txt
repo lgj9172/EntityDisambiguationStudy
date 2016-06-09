@@ -1,0 +1,15 @@
+1.0	top US officials in Baghdad	have	concerns	O	O
+1.0	Scott Stanzel	say	spokesman	PERSON	0
+0.6181128500337086	oust	dictator	execute	0	0
+1.0	us-led coalition	be in	Iraq	0	LOCATION
+1.0	top US official	be in	Baghdad	LOCATION	LOCATION
+1.0	president	have	focus	0	0
+1.0	president	have	focus	O	O
+1.0	White House	criticize	way	ORGANIZATION	0
+1.0	US official	express	concern	LOCATION	0
+1.0	William Caldwell	spokesman for	us-led coalition in Iraq	PERSON	LOCATION
+1.0	White House	be on	Wednesday	ORGANIZATION	DATE
+1.0	Saddam Hussein	be	execute	PERSON	0
+1.0	top US official	express	concern	LOCATION	0
+0.6181128500337086	oust	iraqi dictator	execute	0	0
+1.0	US embassy	be in	Baghdad	LOCATION	LOCATION

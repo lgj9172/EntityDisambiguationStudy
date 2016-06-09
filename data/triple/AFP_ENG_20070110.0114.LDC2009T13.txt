@@ -1,0 +1,160 @@
+1.0	Democrats	be sweep follow	vote see	MISC	0
+1.0	George Bush	as	Vietnam	PERSON	LOCATION
+1.0	George Bush	have	Vietnam	O	PERSON
+1.0	Bush	have	speech	O	PERSON
+1.0	Democrats	be sweep follow	vote see as referendum	MISC	0
+1.0	Defense Secretary Robert Gates	have	Bush Secretary	O	PERSON
+1.0	President George W. Bush	link iraq conflict to	global war on terrorism	PERSON	0
+1.0	Government Accountability Office	arm of	Congress	ORGANIZATION	ORGANIZATION
+1.0	President George W. Bush	link	Iraq conflict	PERSON	LOCATION
+1.0	vote	find end to	conflict	0	0
+1.0	president	be	commander-in-chief	0	0
+1.0	President George W. Bush	again link iraq conflict to	war on terrorism	PERSON	0
+1.0	executive branch	be in	charge of US foreign policy	0	LOCATION
+1.0	Democrats	be sweep into	control	MISC	0
+1.0	US Congress plan	hold	vote	ORGANIZATION	0
+1.0	Saddam Hussein	dismantle	he alleged weapon	PERSON	0
+1.0	GAO	warn of	problem	ORGANIZATION	0
+1.0	President George W. Bush	have	pm speech	O	O
+1.0	Bush speech	come at_time	month	PERSON	0
+1.0	vote	find	quick end	0	0
+1.0	speech	come	one	0	DURATION
+1.0	President George W. Bush	link iraq conflict to	war	PERSON	0
+1.0	the US Congress	be in	charge of budgetary process	ORGANIZATION	0
+0.4332009986312979	speech	come at_time	day	0	DURATION
+1.0	Government Accountability Office	warn of	increase strain	ORGANIZATION	0
+1.0	President George W. Bush	add	20,000 US soldier	0	LOCATION
+1.0	Government Accountability Office	warn of	strain on US force press into deployment	ORGANIZATION	LOCATION
+1.0	hearings	have	series	O	O
+1.0	vote	will force	legislator	0	0
+1.0	Bush	have	speech	PERSON	0
+1.0	problems	have	warned	O	O
+1.0	three election	adoption of	constitution	NUMBER	0
+1.0	country	become for	extremist	0	0
+1.0	the US Congress	could withhold also	fund for US troops	ORGANIZATION	LOCATION
+1.0	executive branch	be in	charge	0	0
+1.0	Government Accountability Office	warn of	increase strain on US force press into repeat deployment	ORGANIZATION	LOCATION
+1.0	official	say at_time	late Tuesday	0	DATE
+1.0	Democrats	be sweep follow	vote largely see as referendum	MISC	0
+1.0	ally military asset	be in	give geographic area	0	0
+1.0	process	have	charge	O	O
+1.0	Democrats	be	sweep	MISC	0
+1.0	President George W. Bush	be	expect	PERSON	0
+1.0	Democrats	be sweep follow	vote largely see	MISC	0
+1.0	Republicans	control	Capitol Hill	MISC	LOCATION
+1.0	GAO	note	key political success	ORGANIZATION	0
+1.0	GAO	warn of	underlie problem	ORGANIZATION	0
+1.0	his	have	weapons	O	O
+0.8045015118220445	legislators	new plan for	unpopular war	0	0
+1.0	attack	increase throughout	2006	0	DATE
+1.0	address	reject	call	0	0
+1.0	President George W. Bush	link iraq conflict to	global war	PERSON	0
+1.0	Two US officials who requested anonymity	have	country	O	O
+1.0	call	withdraw from	Iraq	0	LOCATION
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	the US Congress	could withhold	fund for US troops	ORGANIZATION	LOCATION
+1.0	Bush	with	Republican Party	PERSON	ORGANIZATION
+1.0	president	be military commander-in-chief under	US constitution	0	LOCATION
+1.0	strain	have	warned	O	O
+0.14333428163517403	GAO	note in	Iraq	ORGANIZATION	LOCATION
+1.0	Bush	have	Republican Party	ORGANIZATION	PERSON
+0.5656245971575089	legislators	support	plan for war	0	0
+1.0	Government Accountability Office	warn of	increase strain on US force press	ORGANIZATION	LOCATION
+1.0	Government Accountability Office	warn of	increase strain on US force press into deployment	ORGANIZATION	LOCATION
+1.0	country	have	people	O	O
+1.0	Government Accountability Office	warn of	strain on US force press	ORGANIZATION	LOCATION
+1.0	Harry Reid	be	democratic	PERSON	0
+1.0	GAO	note	political success	ORGANIZATION	0
+1.0	official	say at_time	Tuesday	0	DATE
+1.0	iraqi security force	transfer security responsibility to	they	0	0
+1.0	US policy	have	charge	O	O
+0.5656245971575089	legislators	support	new plan for unpopular war	0	0
+1.0	branch	be in	charge	0	0
+0.8045015118220445	legislators	plan for	unpopular war	0	0
+1.0	State Condoleezza Rice	have	Bush Secretary	O	PERSON
+1.0	the US Congress	could withhold	fund	ORGANIZATION	0
+1.0	Government Accountability Office	warn of	strain on US force press into repeat deployment	ORGANIZATION	LOCATION
+1.0	constitution	have	adoption	O	O
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	President George W. Bush	link iraq conflict to	war on terrorism	PERSON	0
+1.0	vote	would increase	pressure	0	0
+1.0	US Congress	have	arm	O	ORGANIZATION
+1.0	Democrats	be sweep follow	vote see as referendum on Iraq war	MISC	LOCATION
+1.0	the US Congress	withhold	fund for US contractor	ORGANIZATION	LOCATION
+1.0	democrat	be in	the US Congress	0	ORGANIZATION
+1.0	US Congress plan	hold vote on	New York Times	ORGANIZATION	ORGANIZATION
+1.0	Majority Leader Harry Reid	say	Senate	PERSON	ORGANIZATION
+1.0	US Congress plan	hold vote on	plan	ORGANIZATION	0
+1.0	US troop increase	be in	Iraq	LOCATION	LOCATION
+1.0	President George W. Bush	again link iraq conflict to	global war	PERSON	0
+1.0	their	have	effectiveness	O	O
+1.0	Democrats	be sweep into	control of Congress	MISC	ORGANIZATION
+1.0	security force	transfer	security responsibility	0	0
+1.0	president	be commander-in-chief under	US constitution	0	LOCATION
+1.0	President George W. Bush	unveil	plan	PERSON	0
+1.0	country	become for	islamist extremist	0	0
+1.0	the US Congress	could withhold also	fund	ORGANIZATION	0
+1.0	vote	would increase	pressure for Bush	0	PERSON
+1.0	mass destruction	have	weapons	O	O
+1.0	democratic leader	be in	the US Congress	0	ORGANIZATION
+1.0	senior official	say at_time	Tuesday	0	DATE
+0.8045015118220445	legislators	new plan for	war	0	0
+1.0	branch	be in	charge of US policy	0	LOCATION
+1.0	Democrats	be sweep follow	November 7 election	MISC	DATE
+1.0	president	be	military commander-in-chief	0	0
+1.0	vote	will force legislator with	Bush 's Republican Party	0	ORGANIZATION
+1.0	Condoleezza Rice	of secretary be	US	PERSON	LOCATION
+1.0	GAO	note	key success	ORGANIZATION	0
+1.0	US lawmaker	brief on	plan say	LOCATION	0
+1.0	president	rebuff	call	0	0
+1.0	President George W. Bush	unveil plan at_time	Wednesday	PERSON	DATE
+1.0	government	have	creation	O	O
+1.0	country	have	control	O	O
+1.0	Iraq war	have	conduct	O	O
+1.0	President George W. Bush	again link	Iraq conflict	PERSON	LOCATION
+1.0	branch	be in	charge of US foreign policy	0	LOCATION
+1.0	legislator	go on	record	0	0
+1.0	vote	will force	legislator especially	0	0
+1.0	President George W. Bush	unveil plan at_time	late Wednesday	PERSON	DATE
+1.0	President George W. Bush	again link iraq conflict to	war	PERSON	0
+1.0	GAO	note	success	ORGANIZATION	0
+1.0	televise address	reject	call	0	0
+1.0	132,000	have	deployment	O	NUMBER
+1.0	democratic Majority Leader Harry Reid	say	Senate	PERSON	ORGANIZATION
+1.0	attack	rather increase throughout	2006	0	DATE
+1.0	Saddam Hussein	dismantle	he weapon	PERSON	0
+1.0	the US Congress	withhold	fund	ORGANIZATION	0
+1.0	President George W. Bush	again link iraq conflict to	global war on terrorism	PERSON	0
+0.5656245971575089	legislators	support	plan	0	0
+0.5656245971575089	legislators	support	new plan for war	0	0
+1.0	the military commander-in-chief	have	prime-time	O	O
+1.0	Democrats	be sweep follow	vote largely see as referendum on Iraq war	MISC	LOCATION
+1.0	Democrats	be	sweep into control follow November 7 election	MISC	DATE
+0.8045015118220445	legislators	plan for	war	0	0
+1.0	iraqi security force	transfer	security responsibility	0	0
+1.0	executive branch	be in	charge of US policy	0	LOCATION
+1.0	Government Accountability Office	warn of	increase strain on US force	ORGANIZATION	LOCATION
+0.5656245971575089	legislators	support	new plan	0	0
+1.0	Ted Kennedy	be	democratic	PERSON	0
+1.0	Democrats	be sweep follow	vote	MISC	0
+1.0	Saddam Hussein	dismantle	he weapon of mass destruction	PERSON	0
+1.0	President George W. Bush	be	also expect	PERSON	0
+1.0	war	have	escalation	O	O
+1.0	Saddam Hussein	dismantle	he alleged weapon of mass destruction	PERSON	0
+0.5656245971575089	legislators	support	plan for unpopular war	0	0
+1.0	Government Accountability Office	warn of	strain	ORGANIZATION	0
+1.0	US lawmaker	brief on	plan	LOCATION	0
+1.0	Government Accountability Office	warn of	strain on US force	ORGANIZATION	LOCATION
+1.0	US Congress plan	hold	symbolic vote	ORGANIZATION	0
+1.0	senior official	say at_time	late Tuesday	0	DATE
+1.0	GAO	note success in	Iraq	ORGANIZATION	LOCATION
+1.0	Democrats	be	sweep into control of Congress follow November 7 election	MISC	DATE
+1.0	President George W. Bush	unveil	new plan	PERSON	0
+1.0	state	have	US secretary	O	O
+1.0	country	become	haven	0	0
+1.0	security force	transfer security responsibility to	they	0	0
+1.0	the US Congress	withhold fund in	Iraq	ORGANIZATION	LOCATION
+1.0	country	become	safe haven	0	0
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	Congress	have	control	O	ORGANIZATION
+1.0	vote	find	end	0	0

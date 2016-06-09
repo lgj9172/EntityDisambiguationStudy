@@ -1,0 +1,30 @@
+1.0	Eurozone inflation	be stable accord to	datum	0	0
+1.0	line	be with	market expectation	0	0
+1.0	figure	be release on	January 17	0	DATE
+1.0	line	be with	ECB 's preferred level of close	0	ORGANIZATION
+1.0	eurozone members	have	some	O	O
+1.0	Eurozone inflation	be stable accord to	datum release Thursday	0	DATE
+1.0	Eurozone inflation	be stable accord to	datum release	0	0
+1.0	European Union	by	Eurostat datum agency	ORGANIZATION	ORGANIZATION
+1.0	Eurozone inflation	be	stable	0	0
+1.0	figure	be	due	0	0
+1.0	European Union	have	Eurostat data agency	O	ORGANIZATION
+0.8532484914859716	estimate	base on	early price information	0	0
+1.0	definitive figure	be release on	January 17	0	DATE
+1.0	figure	be in	line	0	0
+1.0	figure	be in	line with market expectation	0	0
+1.0	close	have	level	O	O
+1.0	definitive figure	be	release	0	0
+0.8532484914859716	first estimate	base on	early price information	ORDINAL	0
+1.0	ECB	with	preferred level of close	ORGANIZATION	0
+1.0	figure	estimate by	European Union 's Eurostat datum agency	0	ORGANIZATION
+1.0	ECB	have	level	O	ORGANIZATION
+1.0	Eurozone inflation	be stable at	1.9 percent	0	PERCENT
+0.8389505450492185	datum	release	Thursday	0	DATE
+0.8532484914859716	estimate	base on	price information	0	0
+1.0	November	be in	line with ECB 's preferred level of close	DATE	ORGANIZATION
+1.0	1.9 percent	be in	December	PERCENT	DATE
+1.0	energy price data	have	some	O	O
+1.0	figure	be	release	0	0
+1.0	definitive figure	be	due	0	0
+0.8532484914859716	first estimate	base on	price information	ORDINAL	0

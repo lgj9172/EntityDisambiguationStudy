@@ -1,0 +1,51 @@
+1.0	winner	include	Egypt 's Mohamed Barakat	0	LOCATION
+1.0	2003	in diouf be	Mohamed Barakat	DATE	PERSON
+1.0	winner	include	Sammy Kuffour of Ghana 's Jay Jay Okocha	0	PERSON
+1.0	Mohammed Aboutrika	have	named	O	PERSON
+1.0	BBC	have	african footballer of year	ORGANIZATION	DATE
+1.0	previous winner	include	Sammy Kuffour of Ghana 's Jay Jay Okocha	0	PERSON
+1.0	previous winner	include	Sammy Kuffour	0	PERSON
+1.0	Chelsea	have	Ghana	LOCATION	PERSON
+1.0	previous winner	include	Egypt 's Mohamed Barakat	0	LOCATION
+1.0	24-year-old midfielder	be name of	Mohammed Aboutrika	DURATION	PERSON
+1.0	Essien	have	colleague at english champion of Ivory Coast	PERSON	LOCATION
+1.0	Jay Jay Okocha	have	Sammy Kuffour	PERSON	PERSON
+1.0	midfielder	be	name ahead	0	0
+1.0	midfielder	be	name	0	0
+1.0	Essien	's colleague be	Didier Drogba	PERSON	PERSON
+1.0	El Ahly	be of	egyptian	PERSON	0
+1.0	vote	have	percent	PERCENT	O
+1.0	Michael Essien	be on	Friday	PERSON	DATE
+1.0	BBC	have	Footballer	O	ORGANIZATION
+1.0	Chelsea	have	Ghana	PERSON	LOCATION
+1.0	broadcaster	have	bbc.co.uk	O	O
+1.0	year	have	Footballer	O	DATE
+1.0	Senegal	have	El-Hadji Diouf	PERSON	LOCATION
+1.0	Egypt	have	Mohamed Barakat	PERSON	LOCATION
+1.0	midfielder	be name of	Mohammed Aboutrika	0	PERSON
+1.0	24-year-old midfielder	be name ahead of	Mohammed Aboutrika	DURATION	PERSON
+1.0	Egypt	have	Mohamed Barakat	LOCATION	PERSON
+1.0	Ivory Coast	have	colleague	O	LOCATION
+1.0	winner	include	Sammy Kuffour	0	PERSON
+1.0	BBC World Service	have	Track African sports programme	O	ORGANIZATION
+1.0	Nigeria	have	Jay Jay Okocha	PERSON	LOCATION
+1.0	Senegal	have	El-Hadji Diouf	LOCATION	PERSON
+1.0	Senegal	's diouf be	Mohamed Barakat	LOCATION	PERSON
+1.0	BBC World Service	to	fast Track African sport programme	ORGANIZATION	MISC
+1.0	Chelsea 's Ghana international Michael Essien was on Friday	of	Jay Jay Okocha	LOCATION	PERSON
+1.0	El-Hadji Diouf	kuffour of	Jay Jay Okocha	PERSON	PERSON
+1.0	Sammy Kuffour	be of	Jay Jay Okocha	PERSON	PERSON
+1.0	El-Hadji Diouf	be in	2003	PERSON	DATE
+1.0	24-year-old midfielder	be	name	DURATION	0
+1.0	club side El Ahly	have	Mohammed Aboutrika	PERSON	PERSON
+1.0	broadcaster	with	bbc.co.uk	0	0
+1.0	2003	in diouf be	Sammy Kuffour	DATE	PERSON
+1.0	international Michael Essien	be on	Friday	PERSON	DATE
+1.0	midfielder	be name ahead of	Mohammed Aboutrika	0	PERSON
+1.0	Chelsea 's Ghana international Michael Essien was on Friday	have	Jay Jay Okocha	PERSON	LOCATION
+1.0	Mohammed Aboutrika	be of	El Ahly	PERSON	PERSON
+1.0	24-year-old midfielder	be	name ahead	DURATION	0
+1.0	Essien	have	colleague	O	PERSON
+1.0	Essien 's colleague	come	third	PERSON	ORDINAL
+1.0	Ivory Coast	of colleague be	Didier Drogba	LOCATION	PERSON
+1.0	Senegal	's diouf be	Sammy Kuffour	LOCATION	PERSON

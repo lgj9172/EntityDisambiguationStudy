@@ -1,0 +1,79 @@
+1.0	euro	slip to	1.3003 dollar	0	MONEY
+1.0	Bank	hike	its interest rate	ORGANIZATION	0
+1.0	Noriaki Ichikawa	be	Hachijuni Bank	PERSON	ORGANIZATION
+1.0	job creation figure	be also revise	upward	0	0
+1.0	their	have	positions	O	O
+1.0	pound	be	quote at 1.9291 dollar from 1.9428 dollar day earlier	0	MONEY
+1.0	Federal Reserve	cut	rate	ORGANIZATION	0
+1.0	pound	be	quote at 1.9291 dollar	0	MONEY
+1.0	1.3003 dollar	be in	late New York trading	MONEY	LOCATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	british pound	be	quote at 1.9291 dollar from 1.9428 dollar	0	MONEY
+1.0	Bank of Japan	of bank be	BoJ	ORGANIZATION	0
+1.0	Fed rate cut	have	thought	O	O
+1.0	its	have	January meeting	O	O
+1.0	world	in	biggest economy	0	0
+1.0	Federal Reserve	would	would unlikely	ORGANIZATION	0
+1.0	trader	readjust	they position	0	0
+1.0	boj governor Toshihiko Fukui	acknowledge at_time	month	PERSON	DATE
+1.0	british pound	be	quote at 1.9291 dollar	0	MONEY
+1.0	report	be in	Yomiuri Shimbun	0	ORGANIZATION
+1.0	euro	slip here late to	1.3003 dollar in late New York trading	0	LOCATION
+1.0	Bank	hike	its benchmark interest rate	ORGANIZATION	0
+1.0	yen	garner support at_time	Friday	0	DATE
+1.0	rise	be in	japanese interest rate	0	0
+1.0	euro	slip here late from	1.3082 dollar	0	MONEY
+1.0	dollar	have	rise	O	O
+1.0	euro	slip late to	1.3003 dollar	0	MONEY
+1.0	dollar	edge in	late New York trade	0	LOCATION
+1.0	dollar	edge from	1.2327	0	NUMBER
+1.0	pound	be	quote at 1.9291 dollar from 1.9428 dollar	0	MONEY
+1.0	yen	garner support from	report in Yomiuri Shimbun	0	ORGANIZATION
+1.0	boj governor Toshihiko Fukui	acknowledge at_time	last month	PERSON	DATE
+1.0	Hachijuni Bank foreign exchange dealer Noriaki Ichikawa	raise rate at	point	0	0
+1.0	Japan	be 's	daily	ORGANIZATION	SET
+1.0	pound	be	quote at 1.9291 dollar from 1.9428 dollar day	0	MONEY
+1.0	US economy	add far	167,000 job	LOCATION	NUMBER
+1.0	dollar	on	recent rise against yen	0	0
+1.0	Federal Reserve	cut interest rate in	analyst	ORGANIZATION	0
+1.0	euro	slip here late to	1.3003 dollar in New York trading	0	LOCATION
+0.06221292408889589	US economy	add far in	December	LOCATION	DATE
+1.0	dollar	fall to	118.61 yen	DATE	MONEY
+1.0	Toshihiko Fukui	be	boj	PERSON	0
+1.0	dollar	edge up at_time	Thursday	0	DATE
+1.0	dollar	fall from	119.01 yen late on Thursday	DATE	DATE
+1.0	euro	slip from	1.3082 dollar	0	MONEY
+1.0	dollar	edge up in	New York trade	0	LOCATION
+1.0	british pound	be	quote at 1.9291 dollar from 1.9428 dollar day	0	MONEY
+1.0	dollar	edge up in	late New York trade	0	LOCATION
+1.0	dollar	edge up from	1.2327	0	NUMBER
+1.0	pound	be	quote	0	0
+1.0	its	have	interest rate	O	O
+1.0	euro	slip late to	1.3003 dollar in New York trading	0	LOCATION
+1.0	british pound	be	quote at 1.9291 dollar from 1.9428 dollar day earlier	0	MONEY
+1.0	euro	slip to	1.3003 dollar in late New York trading	0	LOCATION
+1.0	dollar	edge in	New York trade	0	LOCATION
+1.0	dollar	edge at_time	Thursday	0	DATE
+1.0	yen	garner	support	0	0
+1.0	job creation figure	be revise	upward	0	0
+1.0	dollar	hit	six-week high	0	DURATION
+1.0	euro	slip late to	1.3003 dollar in late New York trading	0	LOCATION
+1.0	euro	slip here late to	1.3003 dollar	0	MONEY
+1.0	dollar	fall from	119.01 yen	DATE	MONEY
+1.0	dollar	fall from	119.01 yen late	DATE	MONEY
+1.0	euro	slip late from	1.3082 dollar	0	MONEY
+1.0	world	have	economy	O	O
+0.06221292408889589	US economy	add in	December	LOCATION	DATE
+1.0	british pound	be	quote	0	0
+1.0	dollar	hit	high	0	0
+1.0	US payrolls data	have	publication	O	O
+1.0	US economy	add	167,000 job	LOCATION	NUMBER
+1.0	Toshihiko Fukui	be governor of	boj	PERSON	0
+1.0	Hachijuni Bank foreign exchange dealer Noriaki Ichikawa	raise	rate	0	0
+1.0	yen-buying	be	temporary	0	0
+1.0	trader	simply readjust	they position	0	0
+1.0	euro	slip to	1.3003 dollar in New York trading	0	LOCATION
+1.0	yen	garner support from	report	0	0
+1.0	rise	be in	hourly wages	0	SET
+1.0	job creation	be in	world 's biggest economy	0	0
+1.0	Paul Bednarczyk	analyst at	4cast	PERSON	0

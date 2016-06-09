@@ -1,0 +1,53 @@
+1.0	bank	raise interest rate on	January 17-18	0	DATE
+1.0	Hideo Mizutani	strategist at	Sieg Securities	PERSON	ORGANIZATION
+1.0	my	have	view	O	O
+1.0	Tokai Tokyo	have	Yano	LOCATION	DURATION
+1.0	Friday	have	loss	DATE	0
+1.0	bank	raise interest rate during	its policy meeting	0	0
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Bank of Japan	of bank be	BoJ	ORGANIZATION	0
+1.0	Japan governor Toshihiko Fukui	have	Bank	ORGANIZATION	PERSON
+1.0	The Tokyo Stock Exchange 's benchmark Nikkei-225 index	fall alone by	1.51 percent	0	DATE
+1.0	broader TOPIX index	decline	5.74 point	MISC	NUMBER
+1.0	share	hit	high	0	0
+1.0	central bank	raise	interest rate	0	0
+0.9749025778774665	profit-taking	set in	in investor	0	0
+1.0	Bank of Japan	be of	Toshihiko Fukui	ORGANIZATION	PERSON
+1.0	section stocks	have	TOPIX index	O	O
+1.0	rise	be in	japanese interest rate	0	0
+1.0	analyst	say at_time	Friday	0	DATE
+1.0	Toshihiko Fukui	be governor of	Bank of Japan	PERSON	ORGANIZATION
+1.0	week	fret over	stronger yen	DATE	0
+1.0	first day	despite	trading in 2007 on Thursday	DATE	DATE
+1.0	Toshihiko Fukui	be of	Bank of Japan	PERSON	ORGANIZATION
+1.0	The Tokyo Stock Exchange 's benchmark Nikkei-225 index	fall by	1.51 percent	0	DATE
+1.0	The Tokyo Stock Exchange 's benchmark Nikkei-225 index	fall alone on	Friday	0	DATE
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Tokai Tokyo	have	Yano	PERSON	LOCATION
+1.0	profit-taking	now view	market	0	0
+1.0	bank	raise	interest rate	0	0
+1.0	The Tokyo Stock Exchange 's benchmark Nikkei-225 index	fall on	Friday	0	DATE
+1.0	day	have	trading	O	DATE
+1.0	week	fret over	yen	DATE	0
+1.0	profit-taking	be	overbought	0	0
+1.0	its	have	program	O	O
+1.0	its	have	interest rate	O	O
+1.0	profit-taking	view	market	0	0
+1.0	TOPIX index	decline	5.74 point	MISC	NUMBER
+1.0	Bank	acknowledge at_time	last month	ORGANIZATION	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	lose	134.24 point	ORGANIZATION	NUMBER
+1.0	US media report	also weigh on	sentiment	LOCATION	0
+1.0	strong first day 's trading	be in	2007	DATE	DATE
+1.0	Friday	have	losses	O	DATE
+1.0	Tokyo Stock Exchange 's benchmark nikkei-225 index	lose	134.24 point	ORGANIZATION	NUMBER
+1.0	US media report	weigh on	sentiment	LOCATION	0
+1.0	investor	be in	Tokyo stock market	0	LOCATION
+0.9749025778774665	profit-taking	also set in	in investor	0	0
+1.0	Bank	acknowledge at_time	month	ORGANIZATION	DATE
+1.0	central bank	raise interest rate during	its policy meeting	0	0
+1.0	week	end on	note	DATE	0
+1.0	the central bank	have	policy meeting	O	O
+1.0	central bank	raise interest rate on	January 17-18	0	DATE
+1.0	Tokyo Stock Exchange	have	benchmark nikkei-225 index	ORGANIZATION	DATE
+1.0	Masayoshi Yano	strategist at	Tokai Tokyo Securities Co.	PERSON	ORGANIZATION
+1.0	share	hit	eight-month high	0	DURATION

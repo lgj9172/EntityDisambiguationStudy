@@ -1,0 +1,57 @@
+1.0	the Los Angeles Lakers	be player of	month award of he career	0	DATE
+1.0	the Los Angeles Lakers	be first player for	arena	0	0
+1.0	point	help	5.4	0	NUMBER
+1.0	month award	have	player	O	O
+1.0	Arenas	score	season-high	PERSON	0
+1.0	efforts	have	pair	O	O
+1.0	30.8 point	assist	5.4	NUMBER	NUMBER
+1.0	rebound	assist	eight	0	NUMBER
+1.0	Gilbert Arenas	be	Washington Wizards	PERSON	ORGANIZATION
+1.0	30.8 point	help lakers to	10-6 record	NUMBER	NUMBER
+1.0	tie	be with	Orlando	0	LOCATION
+1.0	point	help	Lakers	0	ORGANIZATION
+1.0	Week awards	have	Player	O	O
+1.0	Player	have	pair	O	O
+1.0	30.8 point	assist	5.4 rebound	NUMBER	NUMBER
+1.0	point	assist	5.4 rebound	0	NUMBER
+1.0	point	assist	6.2	0	NUMBER
+1.0	the Los Angeles Lakers	be player of	month award	0	DATE
+1.0	Los Angeles Lakers guard Kobe Bryant	earn	conference award	ORGANIZATION	0
+1.0	our	have	team	O	O
+1.0	the Los Angeles Lakers	be	for arena player of month award of he career	0	DATE
+1.0	National Basketball Association	have	Eastern Conference player	O	ORGANIZATION
+1.0	the Los Angeles Lakers	be	for arena player of month award	0	DATE
+1.0	30.8 point	help lakers to	10-6 record in December	NUMBER	NUMBER
+1.0	arena	help	Wizards	0	ORGANIZATION
+1.0	34.1 point	assist	6.2	NUMBER	NUMBER
+1.0	Arenas	score	54 point	PERSON	NUMBER
+1.0	30.8 point	help	5.4 rebound	NUMBER	NUMBER
+1.0	Kobe Bryant	be	the Los Angeles Lakers	PERSON	ORGANIZATION
+1.0	60 54 points	have	games	O	O
+1.0	the Los Angeles Lakers	be	first player	0	ORDINAL
+1.0	Gilbert Arenas	have	career	O	O
+1.0	he	score	58 point	0	NUMBER
+1.0	point	help lakers to	10-6 record in December	0	NUMBER
+1.0	the Los Angeles Lakers	be first player of	month award of he career	0	DATE
+1.0	National Basketball Association	have	Eastern Conference player of month	ORGANIZATION	ORGANIZATION
+1.0	the Los Angeles Lakers	be	for arena first player of month award	0	ORDINAL
+1.0	career	have	month award	O	O
+1.0	point	shoot	6.2	0	NUMBER
+1.0	the Los Angeles Lakers	be first player of	month award	0	DATE
+1.0	the Los Angeles Lakers	be	player	0	0
+1.0	point	assist	5.4	0	NUMBER
+1.0	10 rebound	assist	eight	NUMBER	NUMBER
+1.0	30.8 point	help	Lakers	NUMBER	ORGANIZATION
+1.0	Arenas	score	league season-high	PERSON	0
+1.0	point	help	5.4 rebound	0	NUMBER
+1.0	30.8 point	help	5.4	NUMBER	NUMBER
+1.0	the Los Angeles Lakers	be player for	arena	0	0
+1.0	the Los Angeles Lakers	be	for arena first player of month award of he career	0	ORDINAL
+1.0	34.1 point	shoot	6.2	NUMBER	NUMBER
+1.0	Gilbert Arenas	be guard of	Washington Wizards	PERSON	ORGANIZATION
+1.0	Los Angeles Lakers guard Kobe Bryant	earn	western conference award	ORGANIZATION	0
+1.0	point	help lakers to	10-6 record	0	NUMBER
+1.0	Kobe Bryant	be guard of	the Los Angeles Lakers	PERSON	ORGANIZATION
+1.0	Gilbert Arenas	average in	December	0	DATE
+1.0	10-6 record	be in	December	NUMBER	DATE
+1.0	month	have	Eastern Conference player	O	DATE

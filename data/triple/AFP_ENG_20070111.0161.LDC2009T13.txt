@@ -1,0 +1,21 @@
+1.0	years	have	jail	O	DURATION
+1.0	state press	report at_time	Thursday	0	DATE
+1.0	Zhao	run	center	PERSON	0
+1.0	organisation	have	head	O	O
+1.0	centre	offer	education programme	0	0
+1.0	Zhao	run	center in 1999	PERSON	DATE
+1.0	China National Children	have	Centre	ORGANIZATION	ORGANIZATION
+1.0	centre	offer	all-around education programme	0	0
+1.0	China	have	cabinet	O	LOCATION
+1.0	servants	have	image	O	O
+1.0	Zhao	be	appoint	PERSON	0
+1.0	China National Children 's Centre	have	website	O	O
+1.0	children	have	welfare	O	O
+1.0	Zhao Shunyi	head of	China National Children 's Centre	PERSON	ORGANIZATION
+1.0	Centre	have	head	O	ORGANIZATION
+1.0	center	be in	1999	0	DATE
+1.0	centre	offer education programme for	child	0	0
+1.0	China	have	cabinet	LOCATION	0
+1.0	centre	offer education programme accord to	its website	0	0
+1.0	230,000 yuan	be in	bribe	MONEY	0
+1.0	China	have	children	O	LOCATION

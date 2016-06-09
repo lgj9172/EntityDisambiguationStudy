@@ -1,0 +1,58 @@
+1.0	Britain	be one	five member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one	five veto-wielding member	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent veto-wielding member along	LOCATION	NUMBER
+1.0	Britain	be one	five veto-wielding member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one	five member of Security Council	LOCATION	ORGANIZATION
+1.0	Tony Blair	be	British	PERSON	MISC
+1.0	Britain	be one	five permanent member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five permanent veto-wielding member along with United States	LOCATION	NUMBER
+1.0	Britain	be one of	five veto-wielding member along with United States	LOCATION	NUMBER
+1.0	Britain	be one of	five member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one	five member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent veto-wielding member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent member along	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent member along	LOCATION	NUMBER
+1.0	Britain	be one	five member along	LOCATION	NUMBER
+1.0	Britain	be one	five member	LOCATION	NUMBER
+1.0	Britain	be one	five permanent member	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent veto-wielding member	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one	five veto-wielding member along with United States	LOCATION	NUMBER
+1.0	Japan	have	UN Security Council	ORGANIZATION	ORGANIZATION
+1.0	Shinzo Abe	be alongside	japanese	PERSON	0
+1.0	Britain	be one of	five permanent member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five veto-wielding member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five permanent member	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent veto-wielding member of Security Council	LOCATION	ORGANIZATION
+1.0	members	have	one	NUMBER	O
+1.0	Britain	be one	five member along with United States	LOCATION	NUMBER
+1.0	United Nations Security Council	have	members	O	ORGANIZATION
+1.0	Britain	be one of	five permanent member along with United States	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	British Prime Minister Tony Blair	have	Downing Street office	O	O
+1.0	Britain	be one	five permanent member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five veto-wielding member	LOCATION	NUMBER
+1.0	UN Security Council	have	membership	O	ORGANIZATION
+1.0	Britain	be one of	five member along	LOCATION	NUMBER
+1.0	Britain	be one	five permanent veto-wielding member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent veto-wielding member of Security Council along	LOCATION	ORGANIZATION
+1.0	British Prime Minister Tony Blair	have	counterpart Shinzo Abe	PERSON	O
+1.0	Britain	be one of	five veto-wielding member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent member along with United States	LOCATION	NUMBER
+1.0	Britain	be one	five permanent veto-wielding member along with United States	LOCATION	NUMBER
+1.0	British Prime Minister Tony Blair	say on	Tuesday	PERSON	DATE
+1.0	Britain	be one of	five member	LOCATION	NUMBER
+1.0	Britain	be one of	five permanent veto-wielding member of Security Council along	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one	five veto-wielding member of Security Council	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five permanent veto-wielding member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one	five permanent veto-wielding member along	LOCATION	NUMBER
+1.0	membership	be	important	0	0
+1.0	Britain	be one of	five veto-wielding member of Security Council along with United States	LOCATION	ORGANIZATION
+1.0	Britain	be one of	five member along with United States	LOCATION	NUMBER
+1.0	Britain	be one	five permanent veto-wielding member	LOCATION	NUMBER
+1.0	Britain	be one	five veto-wielding member along	LOCATION	NUMBER
+1.0	Britain	be one of	five veto-wielding member along	LOCATION	NUMBER
+1.0	Britain	be one	five veto-wielding member of Security Council along	LOCATION	ORGANIZATION

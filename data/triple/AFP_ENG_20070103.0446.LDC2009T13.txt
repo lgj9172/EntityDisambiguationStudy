@@ -1,0 +1,31 @@
+1.0	japanese share price	open higher	trading with benchmark nikkei-225 index	0	0
+1.0	share price	open	first trading with benchmark nikkei-225 index	0	DURATION
+1.0	year	have	trading	O	DATE
+1.0	share price	open	trading	0	0
+1.0	japanese share price	open	trading with nikkei-225 index	0	0
+1.0	japanese share price	open trading at_time	Thursday	0	DATE
+1.0	japanese share price	open higher	first trading with benchmark nikkei-225 index	0	DURATION
+1.0	share price	open	first trading with nikkei-225 index	0	DURATION
+1.0	share price	open	first trading	0	DURATION
+1.0	share price	open higher	first trading	0	DURATION
+1.0	japanese share price	open	first trading	0	DURATION
+1.0	japanese share price	open	first trading with benchmark nikkei-225 index	0	DURATION
+1.0	share price	open higher	first trading with benchmark nikkei-225 index	0	DURATION
+1.0	japanese share price	open higher	first trading with nikkei-225 index	0	DURATION
+1.0	share price	open higher trading at_time	Thursday	0	DATE
+1.0	share price	open higher	trading with nikkei-225 index	0	0
+1.0	share price	open higher	first trading with nikkei-225 index	0	DURATION
+1.0	japanese share price	open higher	trading with nikkei-225 index	0	0
+1.0	share price	open higher	trading with benchmark nikkei-225 index	0	0
+1.0	japanese share price	open higher trading at_time	Thursday	0	DATE
+1.0	share price	open higher	trading	0	0
+1.0	trading	have	minutes	DURATION	O
+1.0	share price	open trading at_time	Thursday	0	DATE
+1.0	japanese share price	open	trading with benchmark nikkei-225 index	0	0
+1.0	japanese share price	open	trading	0	0
+1.0	share price	open	trading with nikkei-225 index	0	0
+1.0	japanese share price	open higher	trading	0	0
+1.0	trading	be with	benchmark nikkei-225 index gain to 17,322.50 in first minute of trading	0	DURATION
+1.0	japanese share price	open higher	first trading	0	DURATION
+1.0	share price	open	trading with benchmark nikkei-225 index	0	0
+1.0	japanese share price	open	first trading with nikkei-225 index	0	DURATION

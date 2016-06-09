@@ -1,0 +1,42 @@
+1.0	Premier League side Falkirk	buy	The 24-year-old Gow	ORGANIZATION	PERSON
+1.0	former Airdrie striker	have hold	talk with Aberdeen	ORGANIZATION	ORGANIZATION
+1.0	possible transfer	be in	summer	0	DATE
+1.0	scottish Premier League side Falkirk	buy	The 24-year-old Gow	ORGANIZATION	PERSON
+1.0	discussion	be with	he	0	0
+0.17974797504936701	The 24-year-old Gow	continue with	club for at least another season	PERSON	0
+1.0	former Airdrie striker	have hold	talk	ORGANIZATION	0
+0.17974797504936701	The 24-year-old Gow	continue with	club for another season	PERSON	0
+1.0	Gow	score	hat-trick	PERSON	0
+0.744294642680096	Wolverhampton Wanderers	offer for	transfer	ORGANIZATION	0
+1.0	The 24-year-old Gow	be at	end	0	0
+1.0	24-year-old Gow	score	hat-trick	PERSON	0
+1.0	offer	have	have reject	0	0
+0.17974797504936701	The 24-year-old Gow	continue with	club	PERSON	0
+1.0	The 24-year-old Gow	be at	end of season	0	0
+1.0	The 24-year-old Gow	have	transfer	O	PERSON
+0.744294642680096	Wolverhampton Wanderers	offer for	immediate transfer	ORGANIZATION	0
+1.0	contract	have	end	O	O
+1.0	The former Airdrie striker	have	services	O	O
+1.0	Falkirk	be side of	Premier League	ORGANIZATION	ORGANIZATION
+1.0	former Airdrie striker	have hold talk over	possible transfer in summer	ORGANIZATION	DATE
+1.0	Falkirk	be	Premier League	ORGANIZATION	ORGANIZATION
+1.0	John Hughes	be	Scottish Premier League side Falkirk	PERSON	ORGANIZATION
+1.0	Gow	score hat-trick over	Dundee United	PERSON	ORGANIZATION
+1.0	season	have	end	O	O
+1.0	New Year	have	Day victory	O	DATE
+0.744294642680096	Wolverhampton Wanderers	offer for	immediate transfer of Alan Gow	ORGANIZATION	PERSON
+1.0	24-year-old Gow	score hat-trick over	Dundee United	PERSON	ORGANIZATION
+1.0	their	have	striker	O	O
+1.0	24-year-old Gow	score hat-trick in	New Year 's day victory	PERSON	DATE
+0.5611158782988936	Rangers	move	Celtic	0	ORGANIZATION
+1.0	The 24-year-old Gow	continue	he development	PERSON	0
+0.744294642680096	Wolverhampton Wanderers	offer for	transfer of Alan Gow	ORGANIZATION	PERSON
+1.0	The former Airdrie striker	have	form	O	O
+1.0	Falkirk Football Club	remain	committed	ORGANIZATION	0
+1.0	Falkirk boss John Hughes	persuade	The 24-year-old Gow	PERSON	PERSON
+1.0	former Airdrie striker	have hold talk over	possible transfer	ORGANIZATION	0
+1.0	The 24-year-old Gow	have	development	O	O
+1.0	Gow	be	24-year-old	PERSON	DURATION
+1.0	talk	be with	Aberdeen	0	ORGANIZATION
+1.0	Gow	score hat-trick in	New Year 's day victory	PERSON	DATE
+1.0	John Hughes	be boss of	Scottish Premier League side Falkirk	PERSON	ORGANIZATION

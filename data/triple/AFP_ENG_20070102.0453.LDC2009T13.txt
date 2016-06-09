@@ -1,0 +1,22 @@
+1.0	their	have	debut	O	O
+1.0	headrest	have	back	O	O
+1.0	passenger	respond to	commercial	0	0
+1.0	screen	allow	passenger	0	0
+1.0	Lee Jin-Hyuck	be of	Channel TX	PERSON	ORGANIZATION
+1.0	passenger	respond to	in-cab commercial	0	0
+0.11276766861110267	screen	be adjust	allow	0	0
+1.0	Lee Jin-Hyuck	provider of	screen	PERSON	0
+1.0	passenger	respond in	city	0	0
+1.0	screens	have	provider	O	O
+1.0	Channel TX	of jin-hyuck be	provider	ORGANIZATION	0
+1.0	screen	play	one 30-minute video clip	0	DURATION
+1.0	work	be in	the small hour	0	DURATION
+1.0	five hundred taxi	each with	liquid crystal display screen in back of headrest on front passenger seat	NUMBER	0
+1.0	Taxis	make	they debut	0	0
+1.0	it	be	unclear	0	0
+1.0	Channel TX	have	president Lee Jin-Hyuck	PERSON	ORGANIZATION
+0.802067717111328	screen	be	adjust	0	0
+1.0	tv	be in	New York	0	LOCATION
+1.0	commercial	be in	south korean public toilet stall	0	0
+1.0	taxis	be with	tv in New York	0	LOCATION
+1.0	screen	play	one video clip	0	NUMBER

@@ -1,0 +1,47 @@
+1.0	it	attract	new player	0	0
+1.0	year	have	turn	O	DATE
+1.0	West Ham	have	control	O	LOCATION
+1.0	coast club	be	now sixth	0	DATE
+1.0	he	have from	Magnussson	0	LOCATION
+1.0	they	seem	destine	DATE	0
+1.0	safety	have	adrift	O	O
+1.0	they	seem	destine for relegation at turn	DATE	0
+1.0	they	destine at	turn	DATE	0
+1.0	coast club	be sixth in	table	0	0
+1.0	they	seem	destine at turn	DATE	0
+1.0	London club	have	defeat	O	O
+0.7452821322183586	icelandic consortium	control of	West Ham	0	LOCATION
+1.0	you	have	dig	0	0
+1.0	Tuesday	have	London Evening Standard	ORGANIZATION	DATE
+1.0	Tuesday	have	London Evening Standard	DATE	ORGANIZATION
+1.0	they	seem	destine for relegation	DATE	0
+1.0	former hammer boss	keep	Portsmouth	0	LOCATION
+1.0	West Ham manager Alan Curbishley during this month 's transfer window	identify	target	PERSON	0
+1.0	it	be	hard	0	0
+1.0	the Premier League strugglers ' chairman Eggert Magnusson	tell	Tuesday 's London Evening Standard	PERSON	ORGANIZATION
+1.0	New Year	have	Day	DATE	DATE
+1.0	coast club	now be sixth in	table	0	0
+1.0	the Premier League strugglers '	have	best	O	O
+1.0	season	have	end	O	O
+1.0	they	seem	destine at turn of year	DATE	DATE
+1.0	south coast club	be sixth in	table	0	0
+1.0	former hammer boss	keep portsmouth in	Premier League season	0	ORGANIZATION
+1.0	south coast club	be	now sixth	0	DATE
+1.0	month	have	transfer window	O	DATE
+1.0	the Premier League strugglers '	will do	we best	0	0
+1.0	they	destine at	turn of year	DATE	DATE
+1.0	coast club	be	sixth	0	ORDINAL
+1.0	them	must	must realistic	0	0
+1.0	my	have	lot	O	O
+1.0	east London club	have	worst defeat for three year	MISC	DURATION
+1.0	they	destine for	relegation	DATE	0
+0.7452821322183586	consortium	control of	West Ham	0	LOCATION
+1.0	the Premier League strugglers '	sign	them	0	0
+1.0	Premier League strugglers	have	chairman Eggert Magnusson	PERSON	O
+1.0	it	attract	player	0	0
+1.0	West Ham	have	form	LOCATION	0
+1.0	you	have	dig in	0	0
+1.0	south coast club	be	sixth	0	ORDINAL
+1.0	south coast club	now be sixth in	table	0	0
+1.0	West Ham	have	form	O	LOCATION
+1.0	they	seem	destine for relegation at turn of year	DATE	DATE

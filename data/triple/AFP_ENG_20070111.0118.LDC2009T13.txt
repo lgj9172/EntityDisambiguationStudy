@@ -1,0 +1,18 @@
+1.0	vessel	disappear from	radar screen	0	0
+1.0	search	resume	coastguard shore crew	0	0
+1.0	search	resume	four coastguard shore crew	0	NUMBER
+1.0	crew	have	Four	NUMBER	O
+1.0	Dunmore East	have	fishing port	O	LOCATION
+1.0	Dunmore East	be in	County Waterford	LOCATION	LOCATION
+1.0	two search	resume	four coastguard shore crew	NUMBER	NUMBER
+1.0	condition	be in	area	0	0
+1.0	vessel	disappear at_time	Wednesday night	0	TIME
+1.0	Irish coastguards	have	trawler	O	O
+1.0	trawler	have	crew	O	O
+1.0	gas cylinder	have	have recover	0	0
+1.0	condition	be	horrendous	0	0
+1.0	Hook Head	be in	County Wexford	0	LOCATION
+1.0	that	be	hope	0	0
+1.0	its	have	emergency radio beacon	O	O
+1.0	her	have	lights	O	O
+1.0	two search	resume	coastguard shore crew	NUMBER	0

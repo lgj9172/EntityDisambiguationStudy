@@ -1,0 +1,56 @@
+1.0	PZL Mielec	currently belong to	Poland 's National Agency	LOCATION	LOCATION
+1.0	takeover	to manufacturer be	PZL Mielec	0	ORGANIZATION
+1.0	takeover	be expect	finalise in quarter of year	0	DATE
+1.0	Sikorsky Aircraft Corporation	be	polish aircraft manufacturer	ORGANIZATION	0
+1.0	takeover	be finalise in	quarter of year	0	DATE
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest polish aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+0.44919701085544034	provide	job for	1,500 people	0	NUMBER
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	65 million euro	in manufacturer be	PZL Mielec	MONEY	ORGANIZATION
+1.0	polish group	say in	statement	0	0
+1.0	polish company	announce at_time	Wednesday	0	DATE
+1.0	takeover	be	finalise	0	0
+1.0	PZL Mielec	currently belong for	Industrial Development	LOCATION	ORGANIZATION
+1.0	year	have	quarter	DATE	DATE
+1.0	Sikorsky Aircraft Corporation	be	polish aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	biggest polish aircraft manufacturer	be in	65 million euro	0	MONEY
+1.0	PZL Mielec	belong for	Industrial Development	LOCATION	ORGANIZATION
+1.0	takeover	be finalise in	first quarter of year	0	DATE
+1.0	Mielec	have	facility	LOCATION	0
+1.0	takeover	be expect	finalise in first quarter of year	0	DATE
+1.0	Sikorsky Aircraft Corporation	be	to takeover aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	takeover	be finalise in	quarter	0	DATE
+1.0	Mielec	have	facilities	O	LOCATION
+1.0	Sikorsky Aircraft Corporation	be	polish aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	biggest aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	biggest polish aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover polish aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	Poland	have	National Agency	ORGANIZATION	LOCATION
+1.0	PZL Mielec	provide	job for 1,500 people	LOCATION	NUMBER
+1.0	Sikorsky Aircraft Corporation	be	biggest polish aircraft manufacturer	ORGANIZATION	0
+1.0	Sikorsky Aircraft Corporation	be	aircraft manufacturer	ORGANIZATION	0
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest aircraft manufacturer	ORGANIZATION	0
+1.0	Sikorsky Aircraft Corporation	be	aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest polish aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover polish aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest polish aircraft manufacturer	ORGANIZATION	0
+1.0	PZL Mielec	belong to	Poland 's National Agency	LOCATION	LOCATION
+1.0	Sikorsky Aircraft Corporation	be	biggest polish aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Poland	to	National Agency for Industrial Development	LOCATION	ORGANIZATION
+1.0	company	announce at_time	Wednesday	0	DATE
+1.0	takeover	be	expect	0	0
+1.0	takeover	be expect	finalise in quarter	0	DATE
+1.0	PZL Mielec	provide	job	LOCATION	0
+1.0	Sikorsky Aircraft Corporation	be	biggest aircraft manufacturer	ORGANIZATION	0
+1.0	Sikorsky Aircraft Corporation	be	biggest aircraft manufacturer in deal worth 65 million euro	ORGANIZATION	MONEY
+1.0	Sikorsky Aircraft Corporation	be	to takeover polish aircraft manufacturer	ORGANIZATION	0
+1.0	takeover	be expect	finalise	0	0
+1.0	takeover	be expect	finalise in first quarter	0	DATE
+1.0	takeover	be finalise in	first quarter	0	DATE
+1.0	Sikorsky Aircraft Corporation	be	to takeover aircraft manufacturer	ORGANIZATION	0
+1.0	Sikorsky Aircraft Corporation	be	to takeover biggest aircraft manufacturer in deal 65 million euro	ORGANIZATION	MONEY
+1.0	group	say in	statement	0	0
+1.0	United States	have	Sikorsky Aircraft Corporation	ORGANIZATION	LOCATION
+1.0	Sikorsky Aircraft Corporation	be of	United States	ORGANIZATION	LOCATION

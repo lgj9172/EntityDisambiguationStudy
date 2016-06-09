@@ -1,0 +1,90 @@
+1.0	their	have	effort	O	O
+1.0	Berisha	be	fierce rival	PERSON	0
+1.0	European Union	have	membership	O	ORGANIZATION
+1.0	Albania	have	history of troubled violent election	LOCATION	0
+1.0	it	have	have warn	0	0
+1.0	decision	should	should make by parliament	0	0
+1.0	Albania	have	political stability	LOCATION	0
+1.0	conflict	have	climate	O	O
+1.0	party	resolve	crisis	0	0
+1.0	Albania	have	stability	O	LOCATION
+1.0	election	be	regard	0	0
+1.0	country	have	history	O	O
+1.0	Albania	emerge from	decade	LOCATION	0
+1.0	Albanian Prime Minister Sali Berisha	issue	opposition socialist leader	PERSON	0
+1.0	Albania	emerge in	early 1990s	LOCATION	DATE
+1.0	candidate	join	European Union	0	ORGANIZATION
+1.0	Albanian Prime Minister Sali Berisha	issue	call	PERSON	0
+1.0	Organisation	urge	co-operation	ORGANIZATION	0
+1.0	co-operation	be in	Europe	0	ORGANIZATION
+1.0	Albanian Prime Minister Sali Berisha	issue call on	Thursday	PERSON	DATE
+1.0	Albania	have	history of troubled election	LOCATION	0
+1.0	local election	be in	February	0	DATE
+1.0	months-long political crisis	reach	its peak	0	0
+1.0	Albanian Prime Minister Sali Berisha	issue call for	election	PERSON	0
+1.0	decision	formally endorse by	president	0	0
+1.0	Albania	emerge from	decade of isolation	LOCATION	0
+1.0	Organisation	urge	party	ORGANIZATION	0
+1.0	Organisation	reach	co-operation	ORGANIZATION	0
+1.0	election	be	hold	0	0
+1.0	muslim Albania	be	candidate	LOCATION	0
+0.6075576474390609	bid	end	political crisis	0	0
+1.0	party	resolve	political crisis	0	0
+1.0	the country 's right-leaning parties	have	disputes	O	O
+1.0	Berisha	be	political rival	PERSON	0
+1.0	their	have	differences	O	O
+1.0	country	have	right-leaning party	0	0
+1.0	Albania	have	history of troubled often violent election	LOCATION	0
+1.0	local election	be	hold	0	0
+1.0	Organisation	urge	co-operation in Europe	ORGANIZATION	ORGANIZATION
+0.5334344539892886	have	history of	violent election	0	0
+1.0	crisis	reach	its peak	0	0
+1.0	Albania	have	maturity	O	LOCATION
+1.0	Albanian President Alfred Moisiu	rival	party	PERSON	0
+1.0	Albania	have	history of often violent election	LOCATION	0
+1.0	isolation	have	decades	DURATION	O
+1.0	country	have	parties	O	O
+0.5334344539892886	have	history of	election	0	0
+0.5334344539892886	have	history of	troubled election	0	0
+1.0	Albanian Prime Minister Sali Berisha	issue call in	bid	PERSON	0
+1.0	Albania	have	history of election	LOCATION	0
+1.0	Albanian Prime Minister Sali Berisha	issue call for	local election	PERSON	0
+1.0	Alfred Moisiu	be	Albanian	PERSON	MISC
+1.0	political crisis	reach	its peak	0	0
+1.0	Berisha	be	rival	PERSON	0
+1.0	climate	have	change	O	O
+1.0	Organisation	reach	agreement	ORGANIZATION	0
+1.0	Muslim Albania	be	mainly candidate	LOCATION	0
+1.0	Organisation	urge	albanian party	ORGANIZATION	0
+1.0	Fatos Nano	be	Berisha	PERSON	PERSON
+1.0	months-long political crisis	be in	Muslim Albania	0	LOCATION
+1.0	elections	have	history	O	O
+1.0	Albanian Prime Minister Sali Berisha	issue	opposition leader	PERSON	0
+1.0	decision	endorse by	president	0	0
+1.0	latest political crisis	be in	balkan republic	0	LOCATION
+0.6075576474390609	bid	end	crisis	0	0
+1.0	muslim Albania	be	mainly candidate	LOCATION	0
+1.0	maturity	have	test	O	O
+1.0	local election	be	regard	0	0
+0.5334344539892886	have	history of	troubled violent election	0	0
+1.0	Albanian Prime Minister Sali Berisha	issue call for	election in February	PERSON	DATE
+1.0	Europe	have	Council	ORGANIZATION	ORGANIZATION
+1.0	Albania	have	history	LOCATION	0
+0.5334344539892886	have	history of	troubled often violent election	0	0
+1.0	decision	should	should make	0	0
+1.0	Muslim Albania	be	candidate	LOCATION	0
+1.0	Berisha	be	fierce political rival	PERSON	0
+0.5334344539892886	have	history of	often violent election	0	0
+1.0	Organisation	reach	co-operation in Europe	ORGANIZATION	ORGANIZATION
+1.0	months-long crisis	reach	its peak	0	0
+1.0	A months-long political crisis in Albania	have	peak	O	O
+1.0	Albania	emerge under	communism	LOCATION	0
+1.0	party	show	responsibility	0	0
+1.0	Albanian Prime Minister Sali Berisha	issue call for	local election in February	PERSON	DATE
+0.6075576474390609	bid	end	latest political crisis	0	0
+1.0	North Atlantic Treaty Organisation	have	membership	O	ORGANIZATION
+1.0	Albania	have	history of violent election	LOCATION	0
+1.0	Alfred Moisiu	be on	Monday	PERSON	DATE
+1.0	Sali Berisha	be	Albanian	PERSON	MISC
+0.6075576474390609	bid	end	latest crisis	0	0
+1.0	albanian party	show	responsibility	0	0

@@ -1,0 +1,29 @@
+1.0	America	have	commitment	O	LOCATION
+1.0	war-weary US public	require	increase	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US public	focus on	security plan	LOCATION	0
+1.0	US public	require increase in	iraq	LOCATION	0
+1.0	US public	focus on	new security plan	LOCATION	0
+1.0	the Iraqi government	will lose	support of iraqi people	0	0
+1.0	increase	be in	US combat troops	0	LOCATION
+1.0	US public	require	increase	LOCATION	0
+1.0	the Iraqi government	will lose	support	0	0
+1.0	America	have	commitment	LOCATION	0
+1.0	the Iraqi government	have	promises	O	O
+1.0	George W. Bush	be in	prepared speech on Wednesday	PERSON	DATE
+1.0	war-weary US public	focus on	new security plan	LOCATION	0
+1.0	US public	require	increase in US combat troops	LOCATION	LOCATION
+1.0	US President George W. Bush in a prepared speech on Wednesday	be	tell	PERSON	0
+0.6617117035432797	the Iraqi government	support of	iraqi people	0	0
+1.0	US President George W. Bush	warn	Iraq 's leader	LOCATION	LOCATION
+1.0	Iraq 's leaders	keep	promise	0	0
+1.0	the Iraqi government	will lose	support of people	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iraq	have	leaders	O	LOCATION
+1.0	war-weary US public	focus on	security plan	LOCATION	0
+1.0	war-weary US public	require	increase in US combat troops	LOCATION	LOCATION
+1.0	war-weary US public	be in	address	LOCATION	0
+1.0	Iraq	have	leader	LOCATION	0
+1.0	war-weary US public	require increase in	iraq	LOCATION	0
+0.6617117035432797	the Iraqi government	support of	people	0	0
+1.0	people	have	support	O	O

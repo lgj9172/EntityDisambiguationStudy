@@ -1,0 +1,81 @@
+1.0	Aziz	tell press conference in	southern port city of Karachi	PERSON	LOCATION
+1.0	Aziz	tell	press conference	PERSON	0
+1.0	Aziz	tell press conference in	southern city	PERSON	0
+1.0	Aziz	tell press conference in	city	PERSON	0
+1.0	Aziz	have	meeting	O	PERSON
+1.0	visit	come amid	tension between two ally in us-led war	0	NUMBER
+1.0	relations	have	aspects	O	O
+1.0	4,000 people	die in	insurgency-related unrest	NUMBER	0
+1.0	Afghanistan	be on	Thursday	LOCATION	DATE
+1.0	Tasnim Aslam	tell briefing at_time	Wednesday	PERSON	DATE
+1.0	Aziz	tell press conference in	port city	PERSON	0
+1.0	Afghanistan on Karzai 's invitation	have	year	DURATION	LOCATION
+1.0	extremists	have	movement	O	O
+0.9570143676685857	Islamabad	back	Islamists	LOCATION	MISC
+1.0	Aziz	tell press conference in	southern port city	PERSON	0
+1.0	time	accuse	Islamabad	0	LOCATION
+1.0	two key ally	be in	us-led war on terror	NUMBER	0
+1.0	decision	stop	mine	0	0
+1.0	Aziz	tell press conference in	city of Karachi	PERSON	LOCATION
+1.0	we	attach importance to	we relationship	0	0
+1.0	visit	come amid	tension between two ally in us-led war on terror	0	NUMBER
+1.0	people	die in	unrest	0	0
+1.0	ministry	have	spokeswoman	0	0
+1.0	ministry	have	spokeswoman	O	O
+1.0	decision	be	likely	0	0
+1.0	time	publicly accuse	Islamabad	0	LOCATION
+1.0	their	have	border	O	O
+1.0	4,000 people	die in	unrest	NUMBER	0
+1.0	people	die in	insurgency-related unrest	0	0
+1.0	Pakistan	announce at_time	last month	LOCATION	DATE
+1.0	its	have	plans	O	O
+1.0	visit	come amid	tension between two key ally in us-led war	0	NUMBER
+1.0	Pakistan	over	decision	LOCATION	0
+1.0	it	task	its army	0	0
+1.0	Aziz	tell press conference in	southern city of Karachi	PERSON	LOCATION
+1.0	its	have	side	O	O
+1.0	unrest	soar in	Afghanistan on Karzai 's invitation	0	LOCATION
+1.0	we	attach	great importance	0	0
+1.0	visit	come amid	tension between two key ally in war	0	NUMBER
+1.0	decision	be likely to	figure in Aziz 's meeting	0	PERSON
+1.0	Aziz	tell press conference at_time	Wednesday	PERSON	DATE
+1.0	decision	be likely to	figure	0	0
+1.0	Shaukat Aziz	be	Pakistan	PERSON	LOCATION
+1.0	their	have	countries	O	O
+1.0	its	have	army	O	O
+1.0	border	have	side	O	O
+1.0	visit	come amid	tension between two key ally	0	NUMBER
+1.0	Pakistan	have	decision	O	LOCATION
+1.0	people	make	2006	0	DATE
+1.0	Shaukat Aziz	be prime minister of	Pakistan	PERSON	LOCATION
+1.0	visit	come amid	tension	0	0
+0.9886028923689324	mine	be	plant	0	0
+1.0	Pakistan	turn afghans into	slave	LOCATION	0
+1.0	Aziz	tell press conference in	port city of Karachi	PERSON	LOCATION
+1.0	visit	come amid	tension between two ally	0	NUMBER
+1.0	4,000 people	make	2006	NUMBER	DATE
+1.0	we	attach	importance	0	0
+1.0	landmines	have	use	O	O
+1.0	Karzai	on	invitation	PERSON	0
+1.0	Tasnim Aslam	tell	briefing	PERSON	0
+1.0	Taliban	have	fall	DATE	ORGANIZATION
+1.0	taliban-linked unrest	soar in	Afghanistan on Karzai 's invitation	0	LOCATION
+1.0	Pakistan	announce at_time	month	LOCATION	DATE
+1.0	Aziz	in	meeting	PERSON	0
+1.0	visit	come amid	tension between two key ally in war on terror	0	NUMBER
+1.0	first time	accuse	Islamabad	ORDINAL	LOCATION
+1.0	Karachi	have	city	O	LOCATION
+1.0	Afghanistan on Karzai 's invitation	since	year	LOCATION	DURATION
+1.0	their	have	relationship	O	O
+1.0	frontier	have	fencing mining parts	O	O
+1.0	Pakistan	turn	Afghans	LOCATION	MISC
+1.0	talk	be with	Hamid Karzai	0	PERSON
+1.0	visit	come amid	tension between two ally in war on terror	0	NUMBER
+1.0	Karzai	have	invitation	O	PERSON
+1.0	figure	be in	Aziz 's meeting	0	PERSON
+0.9886028923689324	mine	be plant on	border	0	0
+1.0	visit	come amid	tension between two key ally in us-led war on terror	0	NUMBER
+1.0	first time	publicly accuse	Islamabad	ORDINAL	LOCATION
+1.0	our	have	interest	O	O
+1.0	we	attach importance with	Afghanistan on Karzai 's invitation	0	LOCATION
+1.0	visit	come amid	tension between two ally in war	0	NUMBER

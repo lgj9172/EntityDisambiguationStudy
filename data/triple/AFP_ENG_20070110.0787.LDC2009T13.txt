@@ -1,0 +1,126 @@
+1.0	construction firm	reveal	they building cost	0	0
+1.0	construction firm	reveal	construction cost for new apartment include land purchase	0	0
+1.0	South Korea	revive	price ceiling system for newly build apartment in its latest bid	LOCATION	0
+1.0	construction firm	set	they selling price	0	0
+1.0	country	have	economy	O	O
+1.0	South Korea	revive	price ceiling system for build apartment	LOCATION	0
+1.0	announcement	come amid	grow concern	0	0
+1.0	downsides	have	one	NUMBER	O
+1.0	price cap system	have	revival	O	O
+1.0	The latest move	follow	measure announce in March	0	DATE
+1.0	construction firm	reveal	construction cost	0	0
+1.0	Kim Kwang-Suk	be at	Speedbank	PERSON	ORGANIZATION
+1.0	Kim	tell	AFP	PERSON	ORGANIZATION
+1.0	latest move	be	ninth announce	0	ORDINAL
+1.0	construction firm	set accordingly	they selling price	0	0
+1.0	bank	set more	fund in mandatory reserve requirement	0	0
+1.0	move	be	ninth	0	ORDINAL
+1.0	bank	set	fund in reserve requirement	0	0
+0.23154884713092094	boom	be	one downside allow	0	NUMBER
+0.01016508474643607	Seoul	remove at	height of asian crisis in 1997-98	LOCATION	DATE
+1.0	government	will also push aside from	revival	0	0
+1.0	move	be	ninth announce by government since early 2003	0	DATE
+1.0	Seoul	remove price cap system at	height of crisis	LOCATION	0
+1.0	construction company	have since take	advantage of measure	0	0
+1.0	bank	set more	fund	0	0
+1.0	South Korea	revive	price ceiling system for apartment in its bid	LOCATION	0
+1.0	move	be	ninth announce by government	0	ORDINAL
+1.0	South Korea	revive	price ceiling system for newly build apartment in its bid	LOCATION	0
+1.0	construction firm	be	oblige	0	0
+1.0	Seoul	remove price cap system at	height of financial crisis	LOCATION	0
+0.01016508474643607	Seoul	remove for	home	LOCATION	0
+1.0	already	have	selling prices	O	O
+1.0	bank	set aside more	fund in reserve requirement	0	0
+1.0	price	be in	Seoul	0	LOCATION
+1.0	South Korea	revive	price ceiling system for apartment in its latest bid	LOCATION	0
+1.0	Seoul	remove price cap system at	height of asian financial crisis in 1997-98	LOCATION	DATE
+1.0	government	will push aside from	revival	0	0
+1.0	measure	have	advantage	O	O
+1.0	construction firm	reveal	construction cost for apartment	0	0
+0.01016508474643607	Seoul	remove at	height of financial crisis in 1997-98	LOCATION	DATE
+0.01016508474643607	Seoul	remove for	new home	LOCATION	0
+0.01016508474643607	Seoul	remove at	height	LOCATION	0
+0.23154884713092094	boom	be	one of downside of policy allow	0	NUMBER
+1.0	Thursday	have	interest rate	O	O
+1.0	construction company	have take	advantage	0	0
+1.0	bank	set aside more	fund in mandatory reserve requirement	0	0
+1.0	construction firm	be oblige under	measure	0	0
+1.0	government	will push aside from	revival of price cap system	0	0
+1.0	Seoul	remove price cap system at	height of financial crisis in 1997-98	LOCATION	DATE
+0.01016508474643607	Seoul	remove at	height of crisis in 1997-98	LOCATION	DATE
+1.0	South Korea	revive	price ceiling system for build apartment in its bid	LOCATION	0
+0.23154884713092094	boom	be	one downside of policy keep allow	0	NUMBER
+1.0	The latest move	follow	measure announce	0	0
+0.23154884713092094	boom	be	one of downside allow	0	NUMBER
+1.0	interest rate	bolster	slow economy	0	0
+1.0	interest rate	bolster	economy	0	0
+1.0	construction firm	be oblige under	new measure	0	0
+1.0	South Korea	be on	Thursday	LOCATION	DATE
+1.0	bank	be	require	0	0
+1.0	South Korea	revive	price ceiling system for apartment	LOCATION	0
+1.0	homes	have	prices	O	O
+1.0	construction firm	reveal	construction cost include land purchase	0	0
+1.0	country	have	economy	0	0
+1.0	Seoul	remove price cap system for	home	LOCATION	0
+1.0	one million	have	areas	O	O
+1.0	Kim	be of	Speedbank	PERSON	PERSON
+1.0	earlier Thursday	leave	its benchmark interest rate unchanged	DATE	0
+1.0	earlier	leave	its benchmark interest rate unchanged	0	0
+1.0	Seoul	remove price cap system at	height of asian crisis in 1997-98	LOCATION	DATE
+1.0	South Korea on Thursday	have	bid	O	O
+1.0	construction firm	reveal	construction cost for apartment include land purchase	0	0
+1.0	crisis	have	height	O	O
+1.0	construction company	have since take	advantage	0	0
+1.0	Economy Kwon O-Kyu	have	Minister	O	PERSON
+0.23154884713092094	boom	be	one downside of policy allow	0	NUMBER
+0.01016508474643607	Seoul	remove at	height of asian crisis	LOCATION	0
+1.0	Finance	have	Minister	O	O
+1.0	Seoul	remove price cap system at	height of asian financial crisis	LOCATION	0
+1.0	construction firm	reveal	construction cost for new apartment	0	0
+1.0	bank	set	fund in mandatory reserve requirement	0	0
+1.0	South Korea	revive	price ceiling system for build apartment in its latest bid	LOCATION	0
+1.0	construction firm	reveal construction cost in	detail	0	0
+1.0	latest move	be	ninth	0	ORDINAL
+1.0	earlier Thursday	leave	its interest rate unchanged	DATE	0
+1.0	Seoul	remove	price cap system	LOCATION	0
+1.0	apartments	have	supply	O	O
+0.4903314416065158	home price	require	construction firm	0	0
+1.0	announcement	come amid	concern	0	0
+1.0	Korea	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	policy	have	downsides	O	O
+1.0	move	be	ninth announce	0	ORDINAL
+1.0	build apartment	be in	its latest bid	0	0
+1.0	bank	set more	fund in reserve requirement	0	0
+1.0	government	will also push aside from	revival of price cap system	0	0
+1.0	construction company	have take	advantage of measure	0	0
+1.0	19 percent	be in	2006	PERCENT	DATE
+1.0	strong impact	be in	term rein	0	0
+1.0	bank	be require in	December	0	DATE
+1.0	South Korea	revive	price ceiling system	LOCATION	0
+1.0	South Korea	revive	price ceiling system for newly build apartment	LOCATION	0
+0.01016508474643607	Seoul	remove at	height of asian financial crisis in 1997-98	LOCATION	DATE
+1.0	The latest move	follow	measure	0	0
+1.0	Seoul	remove price cap system at	height of asian crisis	LOCATION	0
+1.0	earlier Thursday	earlier at_time	Bank of Korea	DATE	ORGANIZATION
+1.0	Seoul	remove price cap system for	new home	LOCATION	0
+0.01016508474643607	Seoul	remove at	height of financial crisis	LOCATION	0
+1.0	latest move	be	ninth announce by government since early 2003	0	DATE
+0.01016508474643607	Seoul	remove at	height of asian financial crisis	LOCATION	0
+1.0	bank	set	fund	0	0
+1.0	bank	set aside more	fund	0	0
+1.0	apartments	have	owners	O	O
+1.0	Minister	say at	press conference	0	0
+1.0	Seoul	remove price cap system at	height	LOCATION	0
+1.0	asian financial crisis	be in	1997-98	0	DATE
+1.0	Seoul	have	area	O	O
+1.0	property price	be in	Seoul	0	LOCATION
+1.0	Speedbank	at kwang-suk be	property consulting agency	ORGANIZATION	0
+0.01016508474643607	Seoul	remove at	height of crisis	LOCATION	0
+1.0	Speedbank	have	Kim	PERSON	PERSON
+1.0	fund	be in	mandatory reserve requirement	0	0
+1.0	government	build	one million home	0	NUMBER
+1.0	latest move	be	ninth announce by government	0	ORDINAL
+1.0	earlier	leave	its interest rate unchanged	0	0
+0.23154884713092094	boom	be	one of downside of policy keep allow	0	NUMBER
+1.0	their	have	building costs	O	O
+1.0	Seoul	remove price cap system at	height of crisis in 1997-98	LOCATION	DATE

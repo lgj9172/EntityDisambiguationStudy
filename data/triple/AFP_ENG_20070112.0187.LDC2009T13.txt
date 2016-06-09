@@ -1,0 +1,46 @@
+1.0	plan election	be bias in	favour	0	0
+1.0	anyone	can move in	country	0	0
+1.0	election	be bias at_time	Party	0	ORGANIZATION
+1.0	list	have	overhaul	O	O
+1.0	anyone	can move freely with	withdrawal	0	0
+1.0	police	say at_time	Friday	0	DATE
+1.0	election	be bias in	favour	0	0
+1.0	election	be bias in	favour of outgoing Bangladesh	0	ORGANIZATION
+1.0	plan election	be	bias in favour of outgoing Bangladesh Party	0	ORGANIZATION
+1.0	anyone	can move with	withdrawal	0	0
+1.0	plan election	be bias at_time	Party	0	ORGANIZATION
+1.0	election	be	bias in favour of Bangladesh Party	0	ORGANIZATION
+1.0	anyone	can now move in	country	0	0
+1.0	anyone	can now move freely with	withdrawal	0	0
+1.0	election	be	bias	0	0
+1.0	complete overhaul	contain	14 million ghost voter	0	NUMBER
+1.0	Iajuddin Ahmed	be president of	Bangladesh	PERSON	LOCATION
+1.0	emergency	have	state	O	O
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	plan election	be	bias in favour nationalist Party	0	ORGANIZATION
+1.0	Bangladesh President Iajuddin Ahmed	announce	11pm	PERSON	TIME
+1.0	election	be bias at_time	nationalist Party	0	ORGANIZATION
+1.0	deaths	have	dozens	O	O
+1.0	plan election	be bias at_time	nationalist Party	0	ORGANIZATION
+1.0	plan election	be	bias in favour of Bangladesh nationalist Party	0	ORGANIZATION
+1.0	election	be bias in	favour of Bangladesh	0	ORGANIZATION
+1.0	Iajuddin Ahmed	be	Bangladesh	PERSON	LOCATION
+1.0	election	be	bias in favour Party	0	ORGANIZATION
+1.0	election	be	bias in favour of outgoing Bangladesh nationalist Party	0	ORGANIZATION
+1.0	plan election	be bias in	favour of outgoing Bangladesh	0	ORGANIZATION
+1.0	plan election	be	bias in favour of outgoing Bangladesh nationalist Party	0	ORGANIZATION
+1.0	Bangladesh President Iajuddin Ahmed	have	announcement	O	O
+1.0	election	be	bias in favour nationalist Party	0	ORGANIZATION
+1.0	overhaul	contain	14 million ghost voter	0	NUMBER
+1.0	election	be	bias in favour of outgoing Bangladesh Party	0	ORGANIZATION
+1.0	plan election	be	bias	0	0
+1.0	Bangladesh President Iajuddin Ahmed	have	decisions	O	O
+1.0	anyone	can move freely in	country	0	0
+1.0	violence	have	months	DURATION	O
+1.0	plan election	be bias in	favour of Bangladesh	0	ORGANIZATION
+1.0	state	have	part	O	O
+1.0	anyone	can now move freely in	country	0	0
+1.0	election	be	bias in favour of Bangladesh nationalist Party	0	ORGANIZATION
+1.0	plan election	be	bias in favour of Bangladesh Party	0	ORGANIZATION
+1.0	anyone	can now move with	withdrawal	0	0
+1.0	plan election	be	bias in favour Party	0	ORGANIZATION

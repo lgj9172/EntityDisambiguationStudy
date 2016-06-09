@@ -1,0 +1,31 @@
+1.0	ZCMT	begin operation in	1983	0	DATE
+1.0	A Chinese firm running Zambia 's largest textile company	have	shares	O	O
+1.0	firm	be	joint	0	0
+1.0	ZCMT	situate about	north	0	0
+1.0	zambian government	offer in	1997 share	0	DATE
+1.0	ZCMT	situate about	100 kilometre north	0	NUMBER
+1.0	300	have	skeleton staff	O	NUMBER
+1.0	ZCMT	have	workers	O	O
+1.0	Kabwe	have	town	O	LOCATION
+1.0	Zambia	have	largest textile company	LOCATION	0
+1.0	textile firm	be	venture	0	0
+1.0	zambian government	however offer in	1997 share	0	DATE
+1.0	textile firm	be joint venture between	government	0	0
+1.0	textile firm	be joint venture between	zambian government	0	0
+1.0	ZCMT	begin	operation	0	0
+1.0	China	have	Qingdao Textile Corporation	ORGANIZATION	ORGANIZATION
+1.0	capital	have	Situated	O	O
+1.0	textile firm	be	joint venture	0	0
+1.0	operation	be in	company for total workforce of about 700	0	NUMBER
+1.0	textile firm	be venture between	zambian government	0	0
+1.0	workers on Tuesday	have	break	O	O
+1.0	A Chinese firm running Zambia 's largest textile company	have	owners	O	O
+1.0	textile firm	be venture between	government	0	0
+1.0	shares	have	percent	PERCENT	O
+1.0	ZCMT	begin operation under	defence ministry management	0	0
+1.0	ZCMT	be build by	zambian government	0	0
+1.0	ZCMT	be build by	government	0	0
+1.0	Zambia	have	textile company	O	LOCATION
+1.0	government	offer in	1997 share	0	DATE
+1.0	ZCMT	be	build	0	0
+1.0	government	however offer in	1997 share	0	DATE

@@ -1,0 +1,9 @@
+1.0	it	be	true	0	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	probe	have	part	O	O
+1.0	Saddam Hussein 's	have	hanging	O	O
+1.0	guards	have	one	NUMBER	O
+1.0	hanging	have	film	O	O
+1.0	Saddam Hussein	at	execution	PERSON	0
+1.0	guards	have	One	NUMBER	O
+1.0	Prime Minister Nuri al-Maliki	have	media office	O	PERSON

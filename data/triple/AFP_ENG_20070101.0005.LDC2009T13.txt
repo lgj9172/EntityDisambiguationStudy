@@ -1,0 +1,75 @@
+1.0	custody decision	be	immediately greet by street protest with activist	0	0
+1.0	Smith	be	sentence to 40 year month	PERSON	DURATION
+1.0	custody decision	be	greet by street protest with activist	0	0
+1.0	his	have	global	O	O
+1.0	Lance Corporal Daniel Smith	have	transfer	O	PERSON
+1.0	custody decision	be immediately greet by	anti-us street protest	0	0
+1.0	Smith	be sentence at_time	month	PERSON	DATE
+1.0	Washington	cancel war game with	its ally	LOCATION	0
+1.0	custody decision	be	immediately greet	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	President Gloria Arroyo	break	she silence	PERSON	0
+1.0	custody decision	be	immediately greet by anti-us street protest with activist	0	0
+1.0	custody decision	be	greet by anti-us street protest with activist	0	0
+1.0	Raul Gonzales	be include	Justice	PERSON	ORGANIZATION
+1.0	Washington	cancel	annual war game	LOCATION	SET
+1.0	The victim	have	privacy	O	O
+1.0	The victim	have	lawyer	O	O
+1.0	she	add	refer	0	0
+1.0	custody decision	be greet with	activist	0	0
+1.0	Smith	be	sentence to 40 year last month	PERSON	DURATION
+0.977568033465869	detail	surround	transfer	0	0
+1.0	lawyer	accuse	government	0	0
+1.0	Smith	be	sentence	PERSON	0
+1.0	40 year	be in	prison	DURATION	0
+1.0	Evalyn Ursua	be lawyer of	Nicole	PERSON	PERSON
+1.0	Smith	rape nicole at_time	last year	PERSON	DATE
+1.0	Smith	be	sentence to 40 year in prison last month	PERSON	DURATION
+1.0	Smith	be	sentence to 40 year in prison month	PERSON	DURATION
+1.0	we	file	charge	0	0
+1.0	convicts	have	transfer	O	O
+1.0	Smith	have	transfer	O	PERSON
+1.0	custody decision	be immediately greet by	street protest	0	0
+1.0	Smith	be sentence to	40 year	PERSON	DURATION
+0.977568033465869	detail	surround transfer at_time	late Friday	0	DATE
+1.0	US embassy officials	have	law	O	O
+1.0	Nicole 's lawyer Evalyn Ursua	say	add	PERSON	0
+1.0	custody decision	be	greet	0	0
+1.0	detail	remain	cloudy	0	0
+1.0	Smith	rape nicole at_time	year	PERSON	DATE
+1.0	Raul Gonzales	be secretary of	Justice	PERSON	ORGANIZATION
+1.0	Nicole	have	Evalyn Ursua	PERSON	PERSON
+1.0	agreement	be with	US envoy	0	LOCATION
+1.0	Washington	cancel war game with	its asian ally	LOCATION	0
+1.0	we	file charge against	convicts	0	0
+1.0	Smith	rape	Nicole	PERSON	PERSON
+1.0	case	have trigger	street protest	0	0
+1.0	the soldier	have	appeal	O	O
+1.0	George W. Bush	be in	he global	PERSON	0
+1.0	we	file	criminal charge	0	0
+1.0	his	have	case	O	O
+1.0	custody decision	be immediately greet with	activist	0	0
+1.0	case	have trigger	anti-us street protest	0	0
+1.0	Gloria Arroyo	ally of	George W. Bush	PERSON	PERSON
+1.0	Nicole	have	lawyer Evalyn Ursua	PERSON	PERSON
+1.0	court	order	transfer	0	0
+1.0	her	have	silence	O	O
+1.0	treachery	have	government	O	O
+1.0	Smith	be sentence to	40 year in prison	PERSON	DURATION
+1.0	Smith	be sentence at_time	last month	PERSON	DATE
+0.6290618390260668	court	transfer of	convict	0	0
+1.0	court	order	transfer of convict	0	0
+0.977568033465869	detail	surround transfer at_time	Friday	0	DATE
+1.0	custody decision	be greet by	anti-us street protest	0	0
+1.0	US embassy officials	have	custody	O	O
+1.0	Washington	cancel	war game	LOCATION	0
+1.0	custody decision	be greet by	street protest	0	0
+1.0	US President George W. Bush	have	ally	O	PERSON
+1.0	their	have	custody	O	O
+1.0	lawyer	accuse	philippine government	0	0
+1.0	Washington	cancel war game with	its southeast asian ally	LOCATION	0
+1.0	George W. Bush	be of	US	PERSON	LOCATION
+1.0	its	have	ally	O	O
+0.8032640221154881	accuse	government of	treachery	0	0
+1.0	US embassy officials	have	fear	O	O
+1.0	case	force	Washington	0	LOCATION

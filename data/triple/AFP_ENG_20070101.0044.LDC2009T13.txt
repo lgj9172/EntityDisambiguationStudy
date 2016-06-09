@@ -1,0 +1,148 @@
+1.0	coach	take	lot of credit	0	0
+1.0	ball	will move around for	session especially	0	0
+1.0	ball	will move around for	first session especially	0	ORDINAL
+1.0	we	get	cloudy condition	0	0
+1.0	Kevin Pietersen	be batsman of	England	PERSON	LOCATION
+1.0	you	see	turn come	0	0
+1.0	coach John Buchanan	have	replacement	O	O
+1.0	we	get condition at	the SCG	0	ORGANIZATION
+1.0	the moisture in this pitch	be	when cloudy	0	0
+1.0	the moisture in this pitch	will	will pitch	0	0
+1.0	time	have	lot	O	O
+1.0	assistant coaches	have	one	NUMBER	O
+1.0	Caribbean	be in	April	LOCATION	DATE
+1.0	ball	will probably move for	first session especially	0	ORDINAL
+1.0	coach John Buchanan	have	exceptional record of 68 win in 89 test in charge	PERSON	NUMBER
+1.0	reporters	play over	long period of time	0	0
+1.0	Buchanan	have	claim	O	PERSON
+1.0	condition	be expect	fine	0	0
+1.0	coach John Buchanan	have	exceptional record	PERSON	0
+1.0	coach John Buchanan	have	record of 68 win in 89 test in charge	PERSON	NUMBER
+1.0	Tom Moody	be	australian	PERSON	0
+1.0	15 successive victory	be in	1999-2001	NUMBER	DATE
+1.0	team	have	way	0	0
+1.0	coach John Buchanan	have	support staff	O	O
+1.0	You	have play	amazing cricket	0	0
+1.0	you	will start on	day three	0	NUMBER
+1.0	accolades	have	some	O	O
+1.0	Buchanan	to	claim	PERSON	0
+1.0	coach John Buchanan	will	will also team coach	PERSON	0
+1.0	Buchanan	have	assistant coaches	O	PERSON
+1.0	coach John Buchanan	have	record of 68 win in 89 test	PERSON	NUMBER
+1.0	Ricky Ponting	be	Australian	PERSON	MISC
+1.0	he coaching reign	start with	15 victory in 1999-2001	0	NUMBER
+1.0	Australian captain Ricky Ponting	have praise work for	much	PERSON	0
+1.0	ball	seem	swing	0	0
+1.0	you	look at	standard of cricket	0	0
+1.0	Tuesday	have	Ashes	O	DATE
+1.0	World Cup	be	underway	MISC	0
+1.0	coach John Buchanan	have	record of 68 win	PERSON	NUMBER
+1.0	ball	will move for	first session especially	0	ORDINAL
+1.0	Shane Warne	have	retirements	O	PERSON
+1.0	we	get condition at	here SCG	0	ORGANIZATION
+1.0	ball	seem	swing through air	0	0
+1.0	he	be go after	World Cup	0	MISC
+1.0	Australian captain Ricky Ponting	have praise	work of coach John Buchanan	PERSON	PERSON
+1.0	headline test	be dominate by	retirement	0	0
+1.0	grass	have	covering	O	O
+1.0	success	have	much	O	O
+1.0	coach John Buchanan	have	coaching reign	O	O
+1.0	World Cup	be in	Caribbean	MISC	LOCATION
+1.0	the moisture in this pitch	will	by day two will pitch	0	NUMBER
+1.0	Ponting	have	comments	O	PERSON
+1.0	you	see	turn	0	0
+1.0	Tom Parker	be head curator of	SCG	PERSON	ORGANIZATION
+1.0	wins	have	record	O	O
+1.0	reporters	play over	period of time	0	0
+1.0	coach	take	lot	0	0
+1.0	89 test	be in	charge	NUMBER	0
+1.0	ball	will probably move for	first session	0	ORDINAL
+1.0	Australian captain Ricky Ponting	have	successor	O	O
+1.0	the moisture in this pitch	be	cloudy	0	0
+1.0	Australian captain Ricky Ponting	have praise	work	PERSON	0
+1.0	team	of	success	0	0
+1.0	coach John Buchanan	will	will also team coach for he test match	PERSON	0
+1.0	reporters	play over	long period	0	0
+1.0	ball	will move around for	session	0	0
+1.0	morning shower	have	have forecast for Tuesday 's opening day	0	DURATION
+1.0	you	see	turn come into game	0	0
+1.0	his	have	Test retirement	O	O
+1.0	credit	have	lot	O	O
+1.0	coach John Buchanan	have	work	O	PERSON
+1.0	ball	will move for	first session	0	ORDINAL
+1.0	ball	will move for	session especially	0	0
+1.0	Glenn McGrath	have	retirements	O	PERSON
+1.0	he coaching reign	start with	15 victory	0	NUMBER
+1.0	condition	be	expect	0	0
+1.0	coach John Buchanan	have	stint	O	O
+1.0	he	be go as well after	World Cup	0	MISC
+1.0	skipper	tell reporter at_time	Monday	0	DATE
+1.0	Ashes	have	ahead	O	O
+1.0	the moisture in this pitch	be	batting	0	0
+1.0	he	be go well after	World Cup	0	MISC
+1.0	You	have win	11 match on trot	0	NUMBER
+1.0	coach John Buchanan	finish	he coaching reign	PERSON	0
+1.0	coach	take	lot of credit for that	0	0
+1.0	coach John Buchanan	be	53	PERSON	NUMBER
+1.0	team	have	way	O	O
+1.0	Justin Langer	have	retirements	O	PERSON
+1.0	coach John Buchanan	will	will team coach	PERSON	0
+1.0	Shane Warne	have	Test match	O	O
+1.0	ball	will probably move around for	first session especially	0	ORDINAL
+1.0	ball	swing through	air	0	0
+1.0	Kevin Pietersen	be	England	PERSON	LOCATION
+1.0	His	have	vision	O	O
+1.0	coach John Buchanan	have	record	PERSON	0
+1.0	Cricket Australia	be	likely	LOCATION	0
+1.0	12 straight victory	be in	Sydney Test	NUMBER	0
+1.0	Tuesday	for	day	DURATION	DURATION
+1.0	he coaching reign	start with	15 successive victory in 1999-2001	0	NUMBER
+1.0	coach John Buchanan	have	exceptional record of 68 win in 89 test	PERSON	NUMBER
+1.0	reporters	play over	period	0	0
+1.0	the moisture in this pitch	will	by day two will batting pitch	0	NUMBER
+1.0	ball	will probably move for	session especially	0	0
+1.0	ball	will probably move around for	session especially	0	0
+1.0	coach John Buchanan	will	will team coach for he test match	PERSON	0
+1.0	players	have	some	O	O
+1.0	You	have win	11 match	0	NUMBER
+1.0	Test	have	opening day	DURATION	O
+1.0	ball	will probably move around for	session	0	0
+1.0	the Australian coach	have	team	O	O
+1.0	he coaching reign	start with	15 successive victory	0	NUMBER
+1.0	skipper	tell	reporter	0	0
+1.0	World Cup	be underway for	he replacement	MISC	0
+1.0	You	have play	cricket	0	0
+1.0	ball	will move for	session	0	0
+1.0	you	look at	standard	0	0
+1.0	team	have	success	O	O
+1.0	cricket	have	standard	O	O
+1.0	Tuesday	have	opening day	DURATION	DATE
+1.0	time	have	period	O	O
+1.0	ball	will probably move around for	first session	0	ORDINAL
+1.0	Tom Parker	be	SCG	PERSON	ORGANIZATION
+1.0	reporters	be	able	0	0
+1.0	seal	be in	pitch	0	0
+1.0	Buchanan	of	former assistant coach	PERSON	0
+1.0	moisture	have	covering	O	O
+1.0	headline test	be	dominate	0	0
+1.0	Ponting	have	supportive comment	PERSON	0
+1.0	moisture	be in	pitch	0	0
+1.0	ball	will move around for	first session	0	ORDINAL
+1.0	condition	be expect	fine for last three day	0	DATE
+1.0	he	be	outstanding	0	0
+1.0	the moisture in this pitch	will	will batting pitch	0	0
+1.0	Tuesday	of	fifth ash	DATE	ORDINAL
+1.0	ball	will probably move for	session	0	0
+1.0	he	be	person	0	0
+1.0	Australian captain Ricky Ponting	have praise work for	much of team 's success	PERSON	0
+1.0	condition	be expect	fine for three day	0	DATE
+1.0	morning shower	have	have forecast	0	0
+1.0	team	have	achievements	O	O
+1.0	morning shower	have	have forecast for Tuesday 's opening day of test	0	DURATION
+1.0	we	get	condition	0	0
+1.0	team	have	achievement	0	0
+1.0	headline test	be dominate by	retirement of Shane Warne	0	PERSON
+1.0	Parker	say at_time	Monday	PERSON	DATE
+1.0	he	be	outstanding person	0	0
+1.0	68 win	be in	89 test	NUMBER	NUMBER
+1.0	coach John Buchanan	have	exceptional record of 68 win	PERSON	NUMBER

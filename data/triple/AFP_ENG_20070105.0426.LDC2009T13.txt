@@ -1,0 +1,42 @@
+1.0	bruin	be on	Friday	0	DATE
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be recall at_time	night	PERSON	TIME
+1.0	bruin	assign rookie centre to	Providence of hockey league	0	LOCATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be diagnose with	cancer	PERSON	0
+1.0	Phil Kessel	be prepare	rejoin	PERSON	0
+1.0	bruin	assign rookie centre on	conditioning assignment	0	0
+1.0	19-year-old	undergo	successful surgery	DURATION	0
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	have	season	O	O
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be	diagnose	PERSON	0
+1.0	fifth overall pick	be in	2006 draft	ORDINAL	DATE
+1.0	bruin	assign rookie centre on	three-game conditioning assignment	0	0
+1.0	bruin	assign	rookie centre	0	0
+1.0	bruin	announce at_time	Friday	0	DATE
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be recall from	Providence on Sunday	PERSON	DATE
+1.0	few game	be in	Providence on Sunday	0	LOCATION
+1.0	Phil re-adjust	join boston at_time	morning	0	TIME
+1.0	Phil Kessel	be	less than one month	PERSON	DURATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be diagnose with	testicular cancer	PERSON	0
+1.0	19-year-old	undergo	surgery	DURATION	0
+1.0	National hockey League	have	Boston Bruins	ORGANIZATION	ORGANIZATION
+1.0	bruin	assign rookie centre to	Providence	0	LOCATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	have	have sideline since December 11	PERSON	DATE
+1.0	Providence	be on	Sunday	LOCATION	DATE
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be recall from	Providence	PERSON	LOCATION
+1.0	bruin	assign rookie centre to	Providence of american hockey league	0	LOCATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	have	have sideline	PERSON	0
+1.0	Phil re-adjust	join	Boston	0	LOCATION
+1.0	less Phil Kessel	be prepare	rejoin	PERSON	0
+1.0	Providence	be of	american hockey league	LOCATION	0
+1.0	19-year-old	undergo surgery at	Massachusetts General Hospital	DURATION	ORGANIZATION
+1.0	Phil re-adjust	be	ready	0	0
+1.0	less Phil Kessel	rejoin	National hockey League 's Boston Bruins	PERSON	ORGANIZATION
+1.0	Boston	be on	Monday	LOCATION	DATE
+1.0	Phil Kessel	rejoin	National hockey League 's Boston Bruins	PERSON	ORGANIZATION
+1.0	NHL	have	speed	O	ORGANIZATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be	recall from Providence night	PERSON	TIME
+1.0	Hockey League	have	Providence	LOCATION	ORGANIZATION
+1.0	season	have	middle	O	O
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be	recall from Providence on Sunday night	PERSON	TIME
+1.0	Phil re-adjust	join	Boston on Monday	0	LOCATION
+1.0	Less than one month after being diagnosed with testicular cancer , American rising star Phil Kessel	be	recall	PERSON	0
+1.0	League	have	Boston Bruins	ORGANIZATION	ORGANIZATION

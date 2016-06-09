@@ -1,0 +1,67 @@
+1.0	prosecutor	have call	jail	0	0
+1.0	high court	quash	charge	0	0
+1.0	Burundi	have	year	DURATION	LOCATION
+1.0	hundred supporter	greet	Kiramvu	NUMBER	PERSON
+1.0	station	have	director	O	O
+1.0	public prosecutor	have call	jail for three year	0	DURATION
+1.0	several supporter	greet	Kiramvu	0	PERSON
+1.0	Manirakiza	have	lawyer	O	PERSON
+1.0	journalist	be with	Publique Africaine	0	PERSON
+1.0	freedom	have	deprived	O	O
+1.0	people	have	Hundreds	O	O
+1.0	Manirakiza	be	take	PERSON	0
+0.5249172882554555	violate	secrecy of	criminal investigation	0	0
+1.0	he	have	proof of coup plan	0	0
+1.0	court	quash	charge	0	0
+1.0	putsch	have	claims	O	O
+1.0	prosecutor	be	jail	0	0
+1.0	they	have in	have detention since November	0	DATE
+1.0	Bujumbura court	dismiss as	unfounded allegation	LOCATION	0
+1.0	hundred	be on	hand Thursday	0	DURATION
+1.0	Radio Isanganiro	say in	August	ORGANIZATION	DATE
+1.0	them	have	each	O	O
+1.0	Wednesday	have	judgement	O	DATE
+1.0	public prosecutor	be	jail	0	0
+1.0	prosecutor	have call for	each	0	0
+1.0	several hundred supporter	greet	Kiramvu	NUMBER	PERSON
+1.0	supporter	greet kiramvu on	they release	0	0
+1.0	court	quash charge against	Hundreds of people	0	0
+1.0	supporter	greet	Kiramvu	0	PERSON
+1.0	my	have	country	O	O
+1.0	hundred	be on	hand	0	DURATION
+1.0	Manirakiza	be take into	custody	PERSON	0
+1.0	investigation	have	secrecy	O	O
+1.0	prosecutor	have call	jail for three year	0	DURATION
+1.0	Bujumbura court	dismiss as	allegation	LOCATION	0
+1.0	it	win independence in	1962	0	DATE
+1.0	public prosecutor	have call	jail	0	0
+1.0	Burundi	have see	coup	LOCATION	0
+1.0	Burundi	against	year	LOCATION	DURATION
+1.0	their	have	freedom	O	O
+1.0	Bujumbura jail	have	out coming	O	O
+1.0	I	be	scare	0	0
+1.0	they	have in	have detention since late November	0	DATE
+1.0	he	have	proof of allege coup plan	0	0
+1.0	state security	be in	connection	DURATION	0
+1.0	Manirakiza	be take into	custody on November 29	PERSON	DATE
+1.0	prosecutor	be jail for	three year	0	DURATION
+1.0	media	be in	country	0	0
+1.0	several hundred supporter	greet kiramvu on	they release	NUMBER	0
+1.0	her	have	chief editor	O	O
+1.0	high court	quash charge against	Hundreds of people	0	0
+1.0	several supporter	greet kiramvu on	they release	0	0
+1.0	law	have	violation	O	O
+1.0	hundred supporter	greet kiramvu on	they release	NUMBER	0
+1.0	it	win	independence	0	0
+1.0	it	win independence from	Belgium	0	LOCATION
+1.0	coup plan	have	proof	O	O
+1.0	their	have	release	O	O
+1.0	public prosecutor	be jail for	three year	0	DURATION
+1.0	public prosecutor	be in	small central african country	0	0
+0.5249172882554555	violate	secrecy of	investigation	0	0
+1.0	public prosecutor	have call for	each	0	0
+1.0	he	have	proof	0	0
+1.0	three	have	one	NUMBER	NUMBER
+1.0	they	have in	have detention	0	0
+1.0	Burundi	have see	several coup	LOCATION	0
+1.0	my	have	fight	O	O

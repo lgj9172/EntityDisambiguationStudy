@@ -1,0 +1,65 @@
+1.0	President George W. Bush 's	get	congressional approval	PERSON	0
+1.0	president	be commander-in-chief under	US constitution	0	LOCATION
+1.0	Senator Edward Kennedy	introduce	legislation	PERSON	0
+1.0	US Congress plan	hold	symbolic vote	LOCATION	0
+1.0	vote	find end to	conflict	0	0
+1.0	branch	be in	charge of US policy	0	LOCATION
+1.0	president	be	commander-in-chief	0	0
+1.0	executive branch	be in	charge of US foreign policy	0	LOCATION
+1.0	president	be	military commander-in-chief	0	0
+1.0	similar resolution	be in	lower chamber	0	0
+1.0	democratic leader	be in	Congress	0	ORGANIZATION
+1.0	vote	will force legislator with	Bush 's Republican Party	0	ORGANIZATION
+1.0	President George W. Bush 's	get	prior approval	PERSON	0
+1.0	Iraq war	have	conduct	O	O
+1.0	vote	find	quick end	0	0
+1.0	President George W. Bush 's	get	prior congressional approval	PERSON	0
+1.0	branch	be in	charge of US foreign policy	0	LOCATION
+1.0	president	have	plan	O	O
+1.0	hearings	have	series	O	O
+1.0	vote	will force	legislator	0	0
+1.0	President George W. Bush 's	get	approval for new deployment	PERSON	0
+1.0	legislator	go on	record	0	0
+1.0	vote	will force	legislator especially	0	0
+1.0	executive branch	be in	charge	0	0
+1.0	President George W. Bush 's	get	congressional approval for deployment	PERSON	0
+1.0	process	have	charge	O	O
+1.0	Democrats	be	sweep	MISC	0
+1.0	Republicans	control	Capitol Hill	MISC	LOCATION
+0.5656245971575089	legislators	support	president 's plan	0	0
+1.0	President George W. Bush 's	get	approval	PERSON	0
+1.0	Democrats	be sweep into	power	MISC	0
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	US senate	have	One-third	ORDINAL	O
+1.0	House	have	Speaker	O	ORGANIZATION
+1.0	Bush	with	Republican Party	PERSON	ORGANIZATION
+1.0	president	be military commander-in-chief under	US constitution	0	LOCATION
+0.5656245971575089	legislators	support	president 's new plan for unpopular war	0	0
+1.0	executive branch	be in	charge of US policy	0	LOCATION
+1.0	Bush	have	Republican Party	ORGANIZATION	PERSON
+1.0	George W. Bush	on	plan send to Iraq	PERSON	LOCATION
+1.0	vote	would increase	pressure on Bush	0	PERSON
+1.0	President George W. Bush 's	get	approval for deployment	PERSON	0
+1.0	Democrats	be sweep into	power follow November 7 election	MISC	DATE
+0.5656245971575089	legislators	support	president 's plan for unpopular war	0	0
+1.0	President George W. Bush 's	get	prior congressional approval for new deployment	PERSON	0
+0.5656245971575089	legislators	support	president 's plan for war	0	0
+1.0	President George W. Bush 's	get	prior congressional approval for deployment	PERSON	0
+1.0	US policy	have	charge	O	O
+1.0	branch	be in	charge	0	0
+1.0	US Congress plan	hold vote on	President George W. Bush 's plan	LOCATION	PERSON
+0.5656245971575089	legislators	support	president 's new plan	0	0
+1.0	Edward Kennedy	opponent of	continue US military presence in Iraq	PERSON	LOCATION
+1.0	President George W. Bush 's	get	prior approval for new deployment	PERSON	0
+1.0	President George W. Bush 's	get	congressional approval for new deployment	PERSON	0
+1.0	continue US military presence	be in	Iraq	LOCATION	LOCATION
+1.0	vote	would increase	pressure	0	0
+0.5656245971575089	legislators	support	president 's new plan for war	0	0
+1.0	president	have	new plan for unpopular war	0	0
+1.0	legislation	require	President George W. Bush 's	0	PERSON
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	President George W. Bush 's	get	prior approval for deployment	PERSON	0
+1.0	US Congress plan	hold	vote	LOCATION	0
+1.0	House of Representatives	be	Nancy Pelosi	ORGANIZATION	PERSON
+1.0	US presence	have	opponent	O	O
+1.0	vote	find	end	0	0

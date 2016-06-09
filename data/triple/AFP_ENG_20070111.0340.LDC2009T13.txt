@@ -1,0 +1,97 @@
+1.0	it	would	would first meeting	0	ORDINAL
+1.0	people	be catholics about	six million of Vietnam 's 84 million	0	NUMBER
+1.0	thaw	be in	relation	0	0
+1.0	Vietnam 's communist government	undermine	its hold	LOCATION	0
+1.0	condition	have improve considerably in	recent year	0	DURATION
+1.0	Vietnam 's communist government	have	have alarm	LOCATION	0
+1.0	observer	have note	thaw	0	0
+1.0	Church official	tell afp on	Wednesday	0	DATE
+1.0	it	prime minister of	country	0	0
+1.0	it	would	would meeting despite absence of tie	0	0
+1.0	ties	have	absence	O	O
+1.0	condition	have improve in	recent year	0	DURATION
+1.0	it	would	would meeting between pope despite absence	0	0
+1.0	observer	have note	thaw in relation in recent month	0	DURATION
+1.0	it	would	would meeting between pope despite absence of tie between Hanoi	0	LOCATION
+1.0	country	have	minister	O	O
+1.0	several foreign observer	have note	thaw	0	0
+1.0	observer	have note	thaw in relation	0	0
+1.0	Vietnam 's government	have	have alarm	LOCATION	0
+1.0	condition	have improve considerably for	Catholics -- the second largest group of followers in Southeast Asia after the Philippines	0	MISC
+1.0	it	minister of	country	0	0
+1.0	Asianews	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Vietnam 's communist government	have	have alarm at potential	LOCATION	0
+1.0	time	have	matter	O	O
+1.0	several foreign observer	have note	thaw in relation in month	0	0
+1.0	several observer	have note	thaw	0	0
+0.4645178759356224	Vietnamese Prime Minister Nguyen Tan Dung	historic meeting with	Pope Benedict XVI	0	PERSON
+1.0	people	be	Catholics	0	ORGANIZATION
+1.0	ties	have	normalization	O	O
+1.0	it	would	would first meeting between pope despite absence of diplomatic tie	0	ORDINAL
+1.0	it	would	would first meeting between pope despite absence of diplomatic tie between Hanoi	0	ORDINAL
+1.0	foreign observer	have note	thaw in relation in recent month	0	DURATION
+1.0	follower	be in	Southeast Asia	0	LOCATION
+1.0	government	have	head	O	O
+1.0	several observer	have note	thaw in relation in month	0	0
+1.0	observer	have note	thaw in relation in month	0	0
+1.0	it	would	would first meeting between pope despite absence of tie between Hanoi	0	ORDINAL
+1.0	people	be catholics about	six million Vietnam 's 84 million	0	NUMBER
+1.0	Pontifical Institute	have	agency	O	ORGANIZATION
+0.4645178759356224	Vietnamese Prime Minister Nguyen Tan Dung	meeting with	Pope Benedict XVI	0	PERSON
+1.0	groups	have	potential	O	O
+1.0	Vietnam	have	government	O	LOCATION
+1.0	Vietnam 's government	have	have always alarm	LOCATION	0
+1.0	it	would	would first meeting between pope despite absence of tie	0	ORDINAL
+1.0	Vietnam 's communist government	have	have always alarm	LOCATION	0
+1.0	it	would	would first meeting between pope despite absence	0	ORDINAL
+1.0	it	would	would meeting despite absence of diplomatic tie between Hanoi	0	LOCATION
+1.0	it	would	would first meeting despite absence of diplomatic tie between Hanoi	0	ORDINAL
+0.9129447633152606	Asianews	agency of	Pontifical Institute	MISC	ORGANIZATION
+1.0	the Vatican	be under	consideration	0	0
+1.0	Southeast Asia	be after	Philippines	LOCATION	LOCATION
+1.0	it	would	would meeting despite absence	0	0
+1.0	relation	be in	recent month	0	DURATION
+1.0	it	would	would first meeting despite absence	0	ORDINAL
+1.0	several observer	have note	thaw in relation in recent month	0	DURATION
+1.0	Vietnamese Prime Minister Nguyen Tan Dung	have	historic meeting	0	0
+1.0	Vietnamese Prime Minister Nguyen Tan Dung	have	historic meeting with Pope Benedict XVI	0	PERSON
+1.0	it	would	would meeting despite absence of diplomatic tie	0	0
+1.0	Vietnamese Prime Minister Nguyen Tan Dung	have	meeting	0	0
+1.0	it	would	would first meeting despite absence of diplomatic tie	0	ORDINAL
+1.0	Vietnam 's government	have	have always alarm at potential	LOCATION	0
+1.0	it	would	would meeting	0	0
+1.0	foreign observer	have note	thaw in relation in month	0	0
+1.0	condition	have improve for	Catholics -- the second largest group of followers in Southeast Asia after the Philippines	0	MISC
+1.0	condition	have improve considerably in	year	0	0
+1.0	condition	have improve in	year	0	0
+1.0	Vietnam 's government	undermine	its hold	LOCATION	0
+1.0	several foreign observer	have note	thaw in relation in recent month	0	DURATION
+1.0	foreign observer	have note	thaw	0	0
+1.0	followers	have	group	O	O
+1.0	it	would	would first meeting despite absence of tie	0	ORDINAL
+1.0	several observer	have note	thaw in relation	0	0
+1.0	foreign observer	have note	thaw in relation	0	0
+1.0	it	would	would first meeting despite absence of tie between Hanoi	0	ORDINAL
+1.0	several foreign observer	have note	thaw in relation	0	0
+1.0	historic meeting	be with	Pope Benedict XVI	0	PERSON
+0.9129447633152606	Asianews	agency of	Pontifical Institute for Foreign Missions	MISC	ORGANIZATION
+1.0	Vietnam 's communist government	have	hold	O	O
+1.0	Church official	tell	afp	0	0
+1.0	it	would	would meeting between pope despite absence of diplomatic tie	0	0
+1.0	Vietnam 's communist government	have	have always alarm at potential	LOCATION	0
+1.0	Vietnam	have	communist government	LOCATION	0
+1.0	Asianews	be news agency of	Catholic	ORGANIZATION	ORGANIZATION
+1.0	Vietnamese Prime Minister Nguyen Tan Dung	have	meeting with Pope Benedict XVI	0	PERSON
+1.0	it	would	would meeting between pope despite absence of diplomatic tie between Hanoi	0	LOCATION
+1.0	it	would	would first meeting between pope	0	ORDINAL
+1.0	it	would	would meeting between pope despite absence of tie	0	0
+1.0	Nguyen Tan Dung	be	vietnamese	PERSON	0
+1.0	it	would	would meeting despite absence of tie between Hanoi	0	LOCATION
+1.0	Catholics	be about	six million	ORGANIZATION	NUMBER
+1.0	it	prime minister of	communist country	0	0
+1.0	it	would	would meeting between pope	0	0
+1.0	it	minister of	communist country	0	0
+1.0	Asianews	agency of	Pontifical Institute for Foreign Missions	MISC	ORGANIZATION
+1.0	Vietnam 's government	have	have alarm at potential	LOCATION	0
+1.0	ties	have	establishment	O	O
+1.0	Church official	be in	Hanoi	0	LOCATION

@@ -1,0 +1,98 @@
+1.0	Kragujevac	have	city	O	LOCATION
+0.8390075560449907	Zastava	base in	city of Kragujevac	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	central city kilometer south from Belgrade	ORGANIZATION	LOCATION
+1.0	government	sell	gun	0	0
+1.0	President Boris Tadic	have hold talk with	diplomat	PERSON	0
+1.0	arms	have	exports	O	O
+1.0	Zastava	need	government clearance	ORGANIZATION	0
+1.0	Moscow	on	support	LOCATION	0
+0.8390075560449907	Zastava	base in	central city of Kragujevac kilometer south from Belgrade	ORGANIZATION	LOCATION
+1.0	Kosovo	have	province	O	LOCATION
+0.8390075560449907	Zastava	base in	central serbian city of Kragujevac	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	central serbian city of Kragujevac kilometer south from Belgrade	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	central serbian city of Kragujevac kilometer south	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	serbian city of Kragujevac	ORGANIZATION	LOCATION
+1.0	serbian government	approve deal follow	green light from Russia	0	LOCATION
+1.0	President Boris Tadic	secure	light	PERSON	0
+1.0	government	approve deal follow	light from Russia	0	LOCATION
+1.0	Zastava	need government clearance for	export deal	ORGANIZATION	0
+0.8390075560449907	Zastava	base in	city	ORGANIZATION	0
+1.0	Serbia 's ministry	refuse	agree to export	LOCATION	0
+0.8390075560449907	Zastava	base in	city of Kragujevac kilometer south from Belgrade	ORGANIZATION	LOCATION
+1.0	Zastava	be	factory	ORGANIZATION	0
+1.0	Serbia 's foreign ministry	refuse	agree	LOCATION	0
+1.0	Serbia 's ministry	initially refuse	agree to export	LOCATION	0
+1.0	Serbia 's foreign ministry	initially refuse	agree	LOCATION	0
+1.0	President Boris Tadic	have hold talk with	russian diplomat	PERSON	0
+0.8390075560449907	Zastava	base in	central city of Kragujevac kilometer south	ORGANIZATION	LOCATION
+1.0	province	have	status issue	O	O
+1.0	Serbia 's ministry	quote	possible dispute	LOCATION	0
+0.8390075560449907	Zastava	base in	central city 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central serbian city	ORGANIZATION	0
+1.0	licence	be give after	dispute between factory	0	0
+0.8390075560449907	Zastava	base in	serbian city kilometer south from Belgrade	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	serbian city kilometer south	ORGANIZATION	0
+1.0	President Boris Tadic	have hold talk follow	protest	PERSON	0
+1.0	President Boris Tadic	have hold	talk	PERSON	0
+1.0	President Boris Tadic	secure	green light	PERSON	0
+0.8390075560449907	Zastava	base in	serbian city	ORGANIZATION	0
+0.8390075560449907	Zastava	base in	central city of Kragujevac 120 kilometer south	ORGANIZATION	NUMBER
+1.0	licence	be give after	weeks-long dispute	0	0
+0.8390075560449907	Zastava	base in	central serbian city of Kragujevac 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+1.0	Zastava	be	state-owned	ORGANIZATION	0
+1.0	a possible dispute	have	relations	O	O
+1.0	government	approve	deal	0	0
+1.0	licence	be give after	dispute	0	0
+1.0	Serbia 's	consider	Russia ally	LOCATION	LOCATION
+0.8390075560449907	Zastava	base in	central city kilometer south	ORGANIZATION	0
+1.0	licence	be give after	weeks-long dispute between factory	0	0
+0.8390075560449907	Zastava	base in	city of Kragujevac kilometer south	ORGANIZATION	LOCATION
+1.0	serbian government	approve deal follow	green light	0	0
+1.0	serbian government	approve	deal	0	0
+1.0	government	say in	statement	0	0
+1.0	republic	have	arms factory	O	O
+0.8390075560449907	Zastava	base in	central serbian city kilometer south	ORGANIZATION	0
+1.0	Serbia 's ministry	initially refuse	agree	LOCATION	0
+1.0	licence	be	give	0	0
+1.0	Moscow	have	support	O	LOCATION
+1.0	Serbia 's foreign ministry	quote	possible dispute	LOCATION	0
+0.8390075560449907	Zastava	base in	city 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	serbian city of Kragujevac kilometer south	ORGANIZATION	LOCATION
+1.0	Serbia 's foreign ministry	initially refuse	agree to export	LOCATION	0
+1.0	government	approve deal follow	light	0	0
+0.8390075560449907	Zastava	base in	city kilometer south	ORGANIZATION	0
+0.8390075560449907	Zastava	base in	city kilometer south from Belgrade	ORGANIZATION	LOCATION
+1.0	serbian government	approve deal follow	light from Russia	0	LOCATION
+0.8390075560449907	Zastava	base in	central city of Kragujevac	ORGANIZATION	LOCATION
+1.0	republic	have	main arm factory	0	0
+0.8390075560449907	Zastava	base in	serbian city of Kragujevac 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	serbian city 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central serbian city 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+1.0	Serbia 's	consider	Russia traditional ally	LOCATION	LOCATION
+0.8390075560449907	Zastava	base in	serbian city 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	city of Kragujevac 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central serbian city 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	serbian city of Kragujevac kilometer south from Belgrade	ORGANIZATION	LOCATION
+1.0	Serbia	have	ministry	O	LOCATION
+1.0	President Boris Tadic	have hold talk follow	protest by manufacturer	PERSON	0
+0.8390075560449907	Zastava	base in	central city 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	city 120 kilometer south	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central city	ORGANIZATION	0
+1.0	government	sell gun to	Armenia	0	LOCATION
+1.0	Serbia 's foreign ministry	refuse	agree to export	LOCATION	0
+1.0	Zastava	be	state-owned factory	ORGANIZATION	0
+1.0	relations	have	ministry	O	O
+1.0	Serbia 's ministry	refuse	agree	LOCATION	0
+1.0	Serbia 's foreign ministry	agree to	export	LOCATION	0
+1.0	Serbia 's	rely on	Moscow 's support	LOCATION	LOCATION
+0.8390075560449907	Zastava	base in	central serbian city of Kragujevac 120 kilometer south	ORGANIZATION	NUMBER
+1.0	Serbia	have	foreign ministry	LOCATION	0
+0.8390075560449907	Zastava	base in	serbian city of Kragujevac 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central serbian city kilometer south from Belgrade	ORGANIZATION	LOCATION
+0.8390075560449907	Zastava	base in	city of Kragujevac 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+0.8390075560449907	Zastava	base in	central city of Kragujevac 120 kilometer south from Belgrade	ORGANIZATION	NUMBER
+1.0	President Boris Tadic	have hold talk follow	protest by serbian manufacturer	PERSON	0
+1.0	government	approve deal follow	green light	0	0
+1.0	government	approve deal follow	green light from Russia	0	LOCATION
+1.0	Serbia 's ministry	agree to	export	LOCATION	0
+1.0	serbian government	approve deal follow	light	0	0

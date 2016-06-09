@@ -1,0 +1,63 @@
+1.0	it	be attack in	Rio de Janeiro	0	LOCATION
+1.0	it	be	second attack on tourist in just over month in Rio	0	ORDINAL
+1.0	second attack	be in	Rio de Janeiro	ORDINAL	LOCATION
+1.0	national security force	be in	response	0	0
+1.0	it	be second attack on	foreign tourist in just over month	0	DURATION
+1.0	it	be	attack on tourist in month in Rio	0	LOCATION
+1.0	it	be	second attack on foreign tourist in month in Rio	0	ORDINAL
+1.0	it	be attack on	tourist in just month	0	DURATION
+1.0	it	be	attack	0	DURATION
+1.0	it	be second attack on	foreign tourist	0	0
+1.0	it	be	attack on foreign tourist in Rio	0	LOCATION
+1.0	it	be	attack on tourist in just over month in Rio	0	LOCATION
+1.0	one day	have	new governor	DURATION	0
+1.0	it	be attack on	foreign tourist in month	0	DURATION
+1.0	it	be	attack on foreign tourist in over month in Rio	0	LOCATION
+1.0	it	be	second attack on foreign tourist in Rio	0	ORDINAL
+1.0	it	be	attack on tourist in just month in Rio	0	LOCATION
+1.0	security force	have	deployment	O	O
+1.0	passenger ' money	say	jewelry	0	0
+1.0	it	be	second attack on foreign tourist in over month in Rio	0	ORDINAL
+1.0	it	be attack on	tourist in month	0	DURATION
+1.0	it	be attack on	tourist in over month	0	DURATION
+1.0	it	be second attack on	tourist in over month	0	DURATION
+1.0	minibus	carry	six german	0	NUMBER
+1.0	foreign tourist	be in	a month	0	DURATION
+1.0	it	be attack on	foreign tourist in just over month	0	DURATION
+1.0	passenger ' money	say	camera	0	0
+1.0	it	be	second attack	0	ORDINAL
+1.0	it	be	second attack on tourist in Rio	0	ORDINAL
+1.0	it	be attack on	foreign tourist in just month	0	DURATION
+1.0	it	be second attack on	tourist	0	0
+1.0	passenger ' money Thursday	be in	Rio de Janeiro	DATE	LOCATION
+1.0	it	be	attack on tourist in Rio	0	LOCATION
+1.0	it	be	second attack on tourist in over month in Rio	0	ORDINAL
+1.0	it	be attack on	tourist in just over month	0	DURATION
+1.0	it	be second attack on	tourist in month	0	DURATION
+1.0	it	be	attack on tourist in over month in Rio	0	LOCATION
+1.0	it	be attack on	foreign tourist	0	0
+1.0	it	be second attack on	tourist in just over month	0	DURATION
+1.0	it	be	second attack on tourist in month in Rio	0	ORDINAL
+1.0	it	be	attack on foreign tourist in just month in Rio	0	LOCATION
+1.0	it	be second attack on	foreign tourist in just month	0	DURATION
+1.0	it	be	second attack on foreign tourist in just month in Rio	0	ORDINAL
+1.0	it	be second attack on	tourist in just month	0	DURATION
+1.0	it	be	second attack on foreign tourist in just over month in Rio	0	ORDINAL
+1.0	it	be attack on	tourist	0	0
+1.0	it	be	attack on foreign tourist in just over month in Rio	0	LOCATION
+1.0	tourists	have	group	O	O
+1.0	day	have	governor	O	DURATION
+1.0	it	be second attack on	foreign tourist in month	0	DURATION
+1.0	it	be	second attack on tourist in just month in Rio	0	ORDINAL
+1.0	it	be	attack on foreign tourist in month in Rio	0	LOCATION
+1.0	gun battles	have	site	O	O
+1.0	arm gunman	storm	minibus	0	0
+1.0	assailants	have	car	O	O
+1.0	it	be attack on	foreign tourist in over month	0	DURATION
+1.0	it	be second attack in	Rio de Janeiro	0	LOCATION
+1.0	passenger ' money Thursday	say	camera	DATE	0
+1.0	it	be second attack on	foreign tourist in over month	0	DURATION
+1.0	gunman	storm	minibus	0	0
+1.0	passengers	have	money	O	O
+1.0	one day	's governor be	Sergio Cabral	DURATION	PERSON
+1.0	passenger ' money Thursday	say	jewelry	DATE	0

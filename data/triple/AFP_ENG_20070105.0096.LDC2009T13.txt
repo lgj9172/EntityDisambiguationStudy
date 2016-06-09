@@ -1,0 +1,92 @@
+1.0	insurer	remain on	profit-taking	0	0
+1.0	index	be	up 246.56 point	0	NUMBER
+1.0	environment	positive	project launch	0	0
+1.0	environment	positive	new project launch	0	0
+0.5045218690457978	profit-taking	market in	China	0	LOCATION
+0.48426153339522704	Pang	say	outlook for property sector	PERSON	0
+0.5045218690457978	profit-taking	a-share market in	China	0	LOCATION
+1.0	bank	reverse	loss	0	0
+1.0	mortgage loans	have	market share	O	O
+1.0	index	be	for week 246.56 point	0	NUMBER
+1.0	oil stock	be	mostly weaker	0	0
+1.0	their	have	valuations	O	O
+1.0	44.45	have	low	O	NUMBER
+1.0	low	have	1.55 46.35	NUMBER	O
+1.0	insurer	remain with	China Life	0	LOCATION
+1.0	icbc	be off	up 0.02 low of 4.61	0	ORGANIZATION
+1.0	Bank	gain	0.02	ORGANIZATION	NUMBER
+1.0	oil stock	be	weaker	0	0
+1.0	Hang Seng China Enterprises index	be at	down 10,235.46	ORGANIZATION	NUMBER
+1.0	icbc	be off	up 0.02 at 4.95 low of 4.61	0	ORGANIZATION
+1.0	housing sales	have	interest	O	O
+1.0	19,757.24	have	low	O	NUMBER
+1.0	insurer	remain on	continued profit-taking	0	0
+1.0	HSBC	fall	0.50	ORGANIZATION	NUMBER
+1.0	I	expect	market	0	0
+1.0	crude price	fall below	56 dollar overnight	0	MONEY
+0.10199368314675994	I	expect	remain	0	0
+1.0	due environment	positive	project launch	0	0
+1.0	icbc	bank of	China	0	ORGANIZATION
+1.0	picc	be at	4.51	0	NUMBER
+1.0	index	be	246.56 point	0	NUMBER
+1.0	index	be	for week up 246.56 point	0	NUMBER
+1.0	environment	be	positive	0	0
+0.10199368314675994	I	expect	remain next week	0	DATE
+1.0	icbc	be off	low of 4.61	0	ORGANIZATION
+1.0	East Asia	have	Bank	ORGANIZATION	ORGANIZATION
+0.7600210917929073	0.02	bank of	Communications	NUMBER	ORGANIZATION
+1.0	Chalco	be at	7.29	LOCATION	NUMBER
+1.0	crude price	fall below	56 dollar	0	MONEY
+1.0	icbc	be off	up 0.02 low	0	NUMBER
+1.0	icbc	be off	up low	0	0
+1.0	Cheung Kong	recover from	low	LOCATION	0
+1.0	market	encounter	profit-taking	0	0
+1.0	market	remain at_time	next week	0	DATE
+1.0	Pang	say	add	PERSON	0
+1.0	low	have	closed	O	O
+0.48426153339522704	Pang	say	outlook	PERSON	0
+1.0	Hang Seng Index	close up at	20,211.28	MISC	NUMBER
+1.0	expectations	have	launch	O	O
+1.0	Hang Seng Bank	be	flat	ORGANIZATION	0
+1.0	high	have	closed	O	O
+1.0	their	have	market share	O	O
+1.0	Cheung Kong	gain	4.15	LOCATION	NUMBER
+1.0	strong rebound	be in	property stock	0	0
+1.0	Hang Seng Index	close up off	low of 19,757.24	MISC	NUMBER
+1.0	bank	reverse	early loss	0	0
+1.0	a-share market	be in	China	0	LOCATION
+0.10199368314675994	I	expect	remain week	0	DATE
+1.0	Hang Seng Index	close off	low of 19,757.24	MISC	NUMBER
+1.0	Hang Seng China Enterprises index	be at	down 112.21 point 10,235.46	ORGANIZATION	NUMBER
+1.0	icbc	be off	up at 4.95 low of 4.61	0	ORGANIZATION
+1.0	insurer	remain	weak	0	0
+1.0	Hang Seng Index	close off	low	MISC	0
+1.0	China financial	be	mixed	LOCATION	0
+1.0	projects	have	launch	O	O
+1.0	Hang Seng Bank	be	flat down 0.05 at 20.05	ORGANIZATION	NUMBER
+1.0	Hang Seng Index	close at	20,211.28	MISC	NUMBER
+0.7402554503148281	Pang	outlook for	property sector	PERSON	0
+1.0	interest rates	have	projects	O	O
+1.0	insurer	remain with	China Life down 0.90 at 26.1	0	LOCATION
+1.0	correction	be	obvious	0	0
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	icbc	be off	up low of 4.61	0	ORGANIZATION
+1.0	it	will depend 's	China 's	0	LOCATION
+1.0	correction	be	more obvious	0	0
+1.0	Castor Pang	strategist at	Sun Hung Kai Financial group	PERSON	ORGANIZATION
+1.0	Hang Seng Index	close up off	low	MISC	0
+1.0	a-share market	encounter	profit-taking	0	0
+1.0	95.0	have	low	O	NUMBER
+1.0	due environment	be	positive	0	0
+1.0	icbc	bank 0.02 of	China	0	ORGANIZATION
+1.0	due environment	positive	new project launch	0	0
+1.0	icbc	be off	up at 4.95 low	0	NUMBER
+1.0	Cheung Kong	recover from	low of 95.0	LOCATION	NUMBER
+1.0	20,213.64	have	high	O	NUMBER
+0.47937962732886696	HSBC	fall to	143.40	ORGANIZATION	NUMBER
+1.0	market	remain at_time	week	0	DATE
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	icbc	be off	up 0.02 at 4.95 low	0	NUMBER
+1.0	icbc	be off	low	0	0
+1.0	market	remain	volatile	0	0
+1.0	4.61	have	low	O	NUMBER

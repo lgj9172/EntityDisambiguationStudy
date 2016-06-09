@@ -1,0 +1,111 @@
+1.0	Shahid Nazir	be	Umar Gul	PERSON	PERSON
+1.0	their fast bowlers	have	squad	O	O
+1.0	our	have	focus	O	O
+1.0	Pakistan	be rank	third in International Cricket Council Test rating three place ahead	LOCATION	MISC
+1.0	South Africa	be at	the weekend	LOCATION	DATE
+0.9491500433214417	third rating	ahead	three place	ORDINAL	NUMBER
+1.0	they	may find condition from	those in Kimberley	0	LOCATION
+1.0	five fast bowler	be in	they squad	NUMBER	DATE
+1.0	their	have	options	O	O
+1.0	South Africa	only team	Pakistan	LOCATION	LOCATION
+1.0	South Africa	have concern start	start Centurion Park Thursday	LOCATION	DATE
+1.0	only team	play test cricket close	World Cup	0	MISC
+1.0	team	during	warm-up match against the	0	DATE
+1.0	Shahid Nazir	advance claim for	inclusion	PERSON	0
+1.0	the controversial Shoaib Akhtar	play after	barely 24 hour	0	DURATION
+0.9261320541226893	South Africa	play test cricket close to	World Cup	LOCATION	MISC
+1.0	work overload	be in	run-up	0	0
+1.0	Steyn	miss	second test	PERSON	ORDINAL
+1.0	Steyn	miss test against	India	PERSON	LOCATION
+1.0	Pakistan	be rank	third rating ahead	LOCATION	ORDINAL
+1.0	Pakistan	be with	he ill wife	LOCATION	0
+1.0	Pakistan	be rank	rating	LOCATION	0
+1.0	India	be  at_time	last Saturday	LOCATION	DATE
+1.0	their	have	bowlers	O	O
+1.0	team	play	test cricket	0	0
+0.9261320541226893	South Africa	play test cricket in	March	LOCATION	DATE
+1.0	South Africa	have	bowlers	O	LOCATION
+1.0	Centurion	provide assistance to	bowler	ORGANIZATION	0
+1.0	Pakistan	be rank	third in International Cricket Council Test rating	LOCATION	MISC
+1.0	South Africa	have concern ahead start	start Centurion Park Thursday	LOCATION	DATE
+1.0	Andre Nel	be in	action	PERSON	0
+1.0	Pakistan	be rank rating of	South Africa	LOCATION	LOCATION
+0.9261320541226893	South Africa	play test cricket close to	so World Cup	LOCATION	MISC
+1.0	Pakistan	be rank	third in International Cricket Council Test rating ahead	LOCATION	MISC
+1.0	cover	rest of	South Africa	0	LOCATION
+1.0	South Africa	have	fast bowler	LOCATION	0
+1.0	Steyn	miss	test	PERSON	0
+1.0	Pakistan	be rank	rating ahead	LOCATION	0
+0.9231875689715568	century	open	batsman Imran Farhat	0	PERSON
+1.0	Centurion	normally provide	assistance	ORGANIZATION	0
+1.0	five fast bowlers in their squad	have	bowler	O	O
+1.0	Donald	tell	star newspaper	PERSON	0
+1.0	Centurion	provide assistance to	fast bowler	ORGANIZATION	0
+1.0	preparation	have	month	DURATION	O
+1.0	team	play test cricket in	March	0	DATE
+1.0	South Africa	have	tours	O	LOCATION
+0.9182375527640816	rating	third in	International Cricket Council Test	0	MISC
+1.0	Asim Kamal	be	Faisal Iqbal	PERSON	PERSON
+1.0	only team	play	test cricket	0	0
+1.0	South Africa	team	Pakistan	LOCATION	LOCATION
+1.0	team	play test cricket close	so World Cup	0	MISC
+1.0	Paul Harris	be	Mornè Morkel	PERSON	PERSON
+1.0	the controversial Shoaib Akhtar	play in	first test	0	ORDINAL
+1.0	team	have	warm-up match	O	O
+1.0	South Africa	have	Rest	LOCATION	LOCATION
+1.0	South Africa	be	only team	LOCATION	0
+1.0	Centurion	normally provide assistance to	bowler	ORGANIZATION	0
+1.0	his	have	wife	O	O
+1.0	thigh strain	have	said	O	O
+1.0	only team	play test cricket close	so World Cup	0	MISC
+1.0	they	may find condition from	those	0	0
+1.0	Mohammad Asif	be	Mohammad Sami	PERSON	PERSON
+1.0	the controversial Shoaib Akhtar	play in	test	0	0
+1.0	Centurion	normally provide assistance to	fast bowler	ORGANIZATION	0
+1.0	Donald	tell	newspaper	PERSON	0
+1.0	Pakistan	be rank	rating three place ahead	LOCATION	NUMBER
+1.0	Kamran Akmal	be	Zulqernain Haider	PERSON	PERSON
+1.0	have problem	be in	recent year	0	DURATION
+1.0	Andre Nel	be in	back action	PERSON	0
+1.0	they	may find	condition at Centurion	0	ORGANIZATION
+1.0	Shaun Pollock	be	Ashwell Prince	PERSON	PERSON
+1.0	Centurion	provide	assistance	ORGANIZATION	0
+1.0	André Nel	be	Makhaya Ntini	PERSON	PERSON
+1.0	Yasir Hameed	be	Younis Khan	PERSON	PERSON
+1.0	the controversial Shoaib Akhtar	be	due	PERSON	0
+1.0	South Africa	be	team	LOCATION	0
+1.0	Mark Boucher	be	AB de Villiers	PERSON	ORGANIZATION
+1.0	Herschelle Gibbs	be	Andrew Hall	PERSON	PERSON
+1.0	the controversial Shoaib Akhtar	have	arrival	O	O
+1.0	coach	have	said	O	O
+1.0	Mohammad Hafeez	be	Imran Farhat	PERSON	PERSON
+1.0	India	be in	Cape Town	LOCATION	LOCATION
+1.0	the controversial Shoaib Akhtar	leave at_time	Pakistan Tuesday	PERSON	DATE
+1.0	South Africa	have	ranked	O	LOCATION
+1.0	miles	have	lot	O	O
+1.0	team	play test cricket close	World Cup	0	MISC
+1.0	Paul Adams	be	Hashim Amla	PERSON	PERSON
+1.0	Shahid Nazir	advance	strong claim	PERSON	0
+1.0	Pakistan	contemplate	they option	LOCATION	0
+0.9491500433214417	rating	ahead	three place	0	NUMBER
+1.0	Imran Farhat	be in	Kimberley	PERSON	LOCATION
+0.9231875689715568	century	open	batsman Imran Farhat in Kimberley	0	LOCATION
+1.0	Test	have	ahead	O	O
+1.0	they	may find however	condition at Centurion	0	ORGANIZATION
+1.0	Shahid Nazir	advance	claim	PERSON	0
+1.0	they	may find condition however from	those	0	0
+1.0	they	may find however	condition	0	0
+1.0	Pakistan	be rank	third rating three place ahead	LOCATION	NUMBER
+1.0	South Africa	have	Rest	O	LOCATION
+0.9261320541226893	South Africa	play	Pakistan	LOCATION	LOCATION
+1.0	cover	rest of	South Africa at weekend	0	LOCATION
+0.9261320541226893	South Africa	play	test cricket	LOCATION	0
+1.0	batsman-friendly pitch	be in	Kimberley	0	LOCATION
+1.0	only team	play test cricket in	March	0	DATE
+1.0	they	may find condition however from	those in Kimberley	0	LOCATION
+1.0	they	may find	condition	0	0
+1.0	Pakistan	be rank	third rating	LOCATION	ORDINAL
+1.0	series	have	Test	O	O
+1.0	Mickey Arthur	say of	thigh strain	PERSON	0
+1.0	a Pakistan tribunal	be	will surprise	0	0
+1.0	Andre Nel	be	likely	PERSON	0

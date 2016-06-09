@@ -1,0 +1,12 @@
+1.0	Branko Crvenkovski	be	Macedonian	PERSON	MISC
+1.0	source	refuse	say	0	0
+1.0	he cabinet	say at_time	Thursday	0	DATE
+1.0	Macedonians	celebrate christmas accord to	Orthodox Christian calendar on January 7	MISC	DATE
+1.0	country	have	troops	O	O
+1.0	Macedonians	celebrate	Orthodox Christmas	MISC	DATE
+1.0	us-led military alliance	be in	Iraq	0	LOCATION
+1.0	Macedonian President Branko Crvenkovski	have	cabinet	O	O
+1.0	country	with	troops serve in Iraq	0	LOCATION
+1.0	president	would have	political meeting	0	0
+1.0	Macedonians	celebrate christmas accord to	Orthodox Christian calendar	MISC	MISC
+1.0	source	tell	afp	0	0

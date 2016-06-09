@@ -1,0 +1,78 @@
+1.0	it	appeal to	Myanmar ruler	0	LOCATION
+1.0	concrete step	allow	opposition National League of Democracy	0	ORGANIZATION
+1.0	vote	have	Ahead	O	O
+1.0	national reconciliation	be in	Myanmar 's	0	LOCATION
+1.0	UN security Council	vote at_time	Friday	ORGANIZATION	DATE
+1.0	text	express	concern at slow pace of tangible progress	0	0
+0.5433477171334156	serious risk	situation in	Myanmar 's	0	LOCATION
+1.0	situation	pose	serious risk	0	0
+1.0	UN security Council	be expect	vote Friday on US draft resolution	ORGANIZATION	LOCATION
+1.0	text	express	concern at pace	0	0
+1.0	step	allow	opposition National League	0	ORGANIZATION
+1.0	war	have	weapon	O	O
+1.0	text	express	deep concern at pace of progress	0	0
+0.6248146011927207	Myanmar 's rulers to release all political prisoners	situation in	Myanmar 's	0	LOCATION
+1.0	UN security Council	be expect	vote Friday	ORGANIZATION	DATE
+1.0	progress	have	pace	O	O
+1.0	latest text	express	deep concern at pace of progress	0	0
+1.0	latest text	express concern in	process of national reconciliation	0	0
+1.0	latest text	express	concern at slow pace of tangible progress	0	0
+1.0	situation	pose risk to	peace in region	0	0
+1.0	nine vote	be in	15-member council	NUMBER	0
+1.0	condition	have	spoke	O	O
+1.0	latest text	express	deep concern at slow pace of progress	0	0
+1.0	expression	have	freedom	O	O
+1.0	text	express	concern at pace of tangible progress	0	0
+1.0	UN security Council	be expect	vote on US draft resolution	ORGANIZATION	LOCATION
+1.0	latest text	express	deep concern at pace	0	0
+1.0	text	express	concern	0	0
+1.0	latest text	express	concern at pace of progress	0	0
+1.0	text	express	deep concern at pace of tangible progress	0	0
+1.0	reconciliation	have	process	O	O
+1.0	latest text	express	concern at pace	0	0
+1.0	text	express concern in	process of reconciliation	0	0
+1.0	UN security Council	be expect	vote	ORGANIZATION	0
+1.0	latest text	express concern in	process of reconciliation	0	0
+0.5433477171334156	risk	situation in	Myanmar 's	0	LOCATION
+1.0	latest text	express	concern at slow pace	0	0
+1.0	Myanmar	have	rulers	O	LOCATION
+1.0	text	express concern in	process	0	0
+1.0	Russia	have question	need for text	LOCATION	0
+1.0	UN security Council	be	expect	ORGANIZATION	0
+1.0	text	express	deep concern at slow pace of progress	0	0
+1.0	latest text	express	deep concern at pace of tangible progress	0	0
+1.0	latest text	express	concern at pace of tangible progress	0	0
+1.0	Russia	have question	need	LOCATION	0
+1.0	latest text	express	deep concern at slow pace	0	0
+1.0	step	allow	opposition National League of Democracy	0	ORGANIZATION
+1.0	Myanmar	have	ruler release	LOCATION	0
+1.0	text	express	deep concern at slow pace of tangible progress	0	0
+1.0	movement	have	freedom	O	O
+1.0	text	express	concern at pace of progress	0	0
+1.0	text	express concern in	process of national reconciliation	0	0
+1.0	situation	be in	Myanmar 's	0	LOCATION
+1.0	draft	have	version	O	O
+1.0	latest text	express concern in	process of reconciliation in Myanmar	0	LOCATION
+1.0	latest text	express	concern	0	0
+1.0	text	express	concern at slow pace of progress	0	0
+1.0	situation	pose	risk	0	0
+1.0	latest text	express	deep concern at slow pace of tangible progress	0	0
+1.0	latest text	express concern in	process of national reconciliation in Myanmar	0	LOCATION
+1.0	latest text	express concern in	process	0	0
+1.0	association	have	freedom	O	O
+1.0	Russia	insist	veto-wielding China	LOCATION	LOCATION
+1.0	text	express	deep concern at slow pace	0	0
+1.0	peace	be in	region	0	0
+1.0	text	express	deep concern	0	0
+1.0	latest text	express	concern at slow pace of progress	0	0
+1.0	Ahead of the expected vote	have	draft	O	O
+1.0	Democracy	have	National League	ORGANIZATION	ORGANIZATION
+1.0	text	express	concern at slow pace	0	0
+1.0	concrete step	allow	opposition National League	0	ORGANIZATION
+1.0	latest text	express	deep concern	0	0
+1.0	text	express concern in	process of national reconciliation in Myanmar	0	LOCATION
+1.0	situation	pose risk to	peace	0	0
+1.0	text	express	deep concern at pace	0	0
+1.0	anonymity	have	condition	O	O
+1.0	UN security Council	vote on	US draft resolution	ORGANIZATION	LOCATION
+1.0	text	express concern in	process of reconciliation in Myanmar	0	LOCATION

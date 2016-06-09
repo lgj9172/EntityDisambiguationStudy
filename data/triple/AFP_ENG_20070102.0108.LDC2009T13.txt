@@ -1,0 +1,34 @@
+0.9892731872233185	recur injury	end of	2007	0	DATE
+1.0	a couple more years	have	mind	O	O
+1.0	changes	have	all	O	O
+1.0	Brian Lynch	be in	July	PERSON	DATE
+1.0	weekend warm-up tournament	have	Hong Kong	LOCATION	O
+1.0	Clijsters , the world number five	have	intention	O	O
+1.0	Brian Lynch	be	american	PERSON	0
+1.0	Clijsters , the world number five	prompt	speculation	0	0
+1.0	Clijsters , the world number five	might reconsider	she decision	0	0
+1.0	belgian US Open champion	signal	she intention retire	MISC	0
+0.9892731872233185	injury	end of	2007	0	DATE
+1.0	belgian 2005 US Open champion	signal	she intention	MISC	0
+1.0	Clijsters , the world number five	marry	basketball player Brian Lynch	0	PERSON
+1.0	belgian US Open champion	signal	she intention	MISC	0
+1.0	Clijsters , the world number five	reach	semi-final of Wimbledon	0	MISC
+1.0	2005 US Open champion	signal	she intention	MISC	0
+1.0	US Open champion	signal	she intention retire	MISC	0
+1.0	person	have	sort	O	O
+1.0	Tennis star Kim Clijsters	have	decision	O	O
+1.0	season	have	end	O	O
+1.0	Clijsters , the world number five	marry	american basketball player Brian Lynch	0	PERSON
+1.0	2007	have	end	DATE	DATE
+1.0	belgian 2005 US Open champion	signal	she intention retire	MISC	0
+1.0	Clijsters , the world number five	have	decision	O	O
+1.0	Wimbledon	have	semi-final	O	MISC
+1.0	Clijsters , the world number five	have win	three tour title	0	NUMBER
+1.0	Clijsters , the world number five	reach	semi-final	0	0
+1.0	Clijsters , the world number five	marry	basketball player Brian Lynch in July	0	DATE
+1.0	US Open champion	signal	she intention	MISC	0
+1.0	Clijsters , the world number five	marry	american basketball player Brian Lynch in July	0	DATE
+1.0	2005 US Open champion	signal	she intention retire	MISC	0
+1.0	Tennis star Kim Clijsters	might stay on	couple year	0	0
+1.0	Tennis star Kim Clijsters	might stay on	couple more year	0	0
+0.7338654525752103	reach	semi-final of	Wimbledon	0	MISC

@@ -1,0 +1,22 @@
+1.0	Awja	have	home village	O	LOCATION
+1.0	Last month	have	governor	O	O
+1.0	nephew	escape at_time	last month	0	DATE
+1.0	nephew	escape at_time	month	0	DATE
+1.0	governor	have	arrest	O	O
+1.0	nephew	prompt	arrest of its governor	0	0
+1.0	Saddam Hussein	have	nephew	O	PERSON
+1.0	Insurgents	have	parents	O	O
+1.0	nephew	escape from	Badush prison	0	LOCATION
+1.0	whose	have	ouster	O	O
+1.0	Saddam Hussein	have	home village	O	O
+1.0	The family	tell	AFP	0	ORGANIZATION
+1.0	Iraq	slip into	deadly sectarian war	LOCATION	0
+1.0	nephew	prompt	arrest	0	0
+1.0	five	have	family	O	NUMBER
+0.6564807714741797	prompt	arrest of	its governor	0	0
+1.0	Mosul	have	city	O	LOCATION
+1.0	Awja	be on	late Sunday	LOCATION	DATE
+1.0	Saddam Hussein	be	Ayman Sabawi	PERSON	PERSON
+1.0	deputy	have	arrest	O	O
+1.0	its governor	have	deputy	O	O
+1.0	Mosul	have	southwest	O	LOCATION

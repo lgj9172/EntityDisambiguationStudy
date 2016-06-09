@@ -1,0 +1,51 @@
+1.0	carrier	have slash	10 international route	0	NUMBER
+1.0	Asia	have	largest carrier	LOCATION	0
+0.8236690053564454	its fuel bill	demand for	its service	0	0
+1.0	hit demand for its services and as high oil prices	have	services	O	O
+1.0	its president	agree at_time	last year	0	DATE
+1.0	Stephen Pearlman	be spokesman of	JAL	PERSON	ORGANIZATION
+1.0	Japan Airlines	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Japan Airlines	say in	renew effort	ORGANIZATION	0
+1.0	JAL	back profit from	heavy loss	ORGANIZATION	DATE
+1.0	JAL	swing	profit in six month	ORGANIZATION	DURATION
+1.0	its president	agree after	rebellion by shareholder over loss	0	0
+1.0	its president	agree at_time	year	0	DATE
+1.0	its president	agree	quit	0	0
+1.0	carrier	announce	plan	0	0
+1.0	JAL	swing	back profit in six month	ORGANIZATION	DURATION
+1.0	JAL	swing	profit in six month to September	ORGANIZATION	DATE
+1.0	its	president	Toshiyuki Shinmachi	0	PERSON
+1.0	JAL	back profit to	September	ORGANIZATION	DATE
+1.0	safety	have	series	O	O
+1.0	JAL	swing	back profit from loss	ORGANIZATION	DATE
+1.0	JAL	back profit from	loss	ORGANIZATION	0
+1.0	route	shift towards	aircraft	0	DATE
+1.0	route	shift towards	smaller aircraft	0	DATE
+1.0	JAL	swing	back profit	ORGANIZATION	DATE
+1.0	Japan Airlines	have	profitability	O	O
+1.0	6,000	have	considering	O	NUMBER
+1.0	carrier	have slash	10 route	0	NUMBER
+1.0	JAL	profit from	loss	ORGANIZATION	0
+1.0	JAL	back profit in	six month	ORGANIZATION	DURATION
+1.0	JAL	swing	back profit in six month from loss	ORGANIZATION	DURATION
+1.0	hit demand for its services and as high oil prices	have	fuel bill	O	O
+1.0	JAL	have	president	O	O
+1.0	JAL	profit to	September	ORGANIZATION	DATE
+1.0	Stephen Pearlman	be	JAL	PERSON	ORGANIZATION
+1.0	JAL	swing	back profit to September	ORGANIZATION	DATE
+1.0	its president	agree after	rebellion by shareholder	0	0
+1.0	Japan Airlines	say in	effort	ORGANIZATION	0
+1.0	Asia	have	carrier	O	LOCATION
+1.0	JAL	swing	profit to September	ORGANIZATION	DATE
+1.0	its president	agree after	rebellion	0	0
+1.0	JAL	swing	back profit in six month to September	ORGANIZATION	DATE
+1.0	JAL	profit from	heavy loss	ORGANIZATION	DATE
+1.0	its president	agree after	rebellion by shareholder over mount loss	0	0
+0.8236690053564454	its fuel bill	hit demand for	its service	0	0
+1.0	JAL	swing	profit	ORGANIZATION	0
+1.0	its president	quit in	March	0	DATE
+1.0	JAL	swing	profit in six month from loss	ORGANIZATION	DURATION
+1.0	carrier	already announce	plan	0	0
+1.0	JAL	profit in	six month	ORGANIZATION	DURATION
+1.0	JAL	swing	profit from loss	ORGANIZATION	0
+1.0	its president	agree	quit in March	0	DATE

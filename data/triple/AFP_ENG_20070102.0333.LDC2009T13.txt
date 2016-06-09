@@ -1,0 +1,70 @@
+1.0	shocker painting	be move to	less prominent location near washroom	0	0
+1.0	shocker painting	be	also move from lobby to less prominent location near washroom	0	0
+1.0	shocker painting	be	also move from lobby to prominent location near washroom	0	0
+1.0	shocker painting	be	also move from lobby to location	0	0
+1.0	result	will	will present in Nashville Tennessee	0	LOCATION
+1.0	result	will	will present at Society for art in April	0	DATE
+1.0	study	have	results	O	O
+1.0	result	will	will present in Nashville Tennessee in April	0	DATE
+1.0	shocker painting	be	move from lobby to prominent location	0	0
+1.0	shocker painting	be	also move	0	0
+1.0	result	will	will present at Society for art in Healthcare conference in Nashville Tennessee in April	0	DATE
+1.0	shocker painting	be also move to	prominent location	0	0
+1.0	shocker painting	be	also move from lobby to less prominent location	0	0
+1.0	shocker painting	be also move from	lobby	0	0
+1.0	art	have	Works	O	O
+1.0	Robert Roberts	head of	Ottawa Heart Institute	PERSON	ORGANIZATION
+1.0	result	will	will present at Society for art in Healthcare conference	0	ORGANIZATION
+1.0	shocker painting	be move to	location	0	0
+1.0	Ottawa Heart Institute	have	head	O	ORGANIZATION
+1.0	shocker painting	be move to	prominent location near washroom	0	0
+1.0	shocker painting	be	also move from lobby to prominent location	0	0
+0.9934129920623637	painting	use in	art therapy experiment	0	0
+1.0	study	have	part	O	O
+1.0	shocker painting	be	move from lobby to less prominent location near washroom	0	0
+1.0	result	will	will present at Society for art in Nashville Tennessee in April	0	DATE
+1.0	result	will	will present	0	0
+1.0	art	be in	hospital	0	0
+1.0	patients	have	blood pressure	O	O
+0.8447711555074061	patient	head into	operating room	0	0
+1.0	shocker painting	be also move to	location	0	0
+1.0	shocker painting	be	also move from lobby to location near washroom	0	0
+1.0	shocker painting	be	move	0	0
+1.0	shocker painting	be also move to	location near washroom	0	0
+1.0	kind	have	first	ORDINAL	O
+1.0	result	will	will present at Society for art in Healthcare conference in Nashville Tennessee	0	ORGANIZATION
+1.0	shocker painting	be move to	location near washroom	0	0
+1.0	shocker painting	be move to	prominent location	0	0
+1.0	their	have	blood pressure	O	O
+1.0	our patients '	have	blood pressure	O	O
+0.4498565534611418	artist Shirley Brown	call	Queens	PERSON	0
+1.0	know	be part of	experiment	0	0
+1.0	result	will	will present at Society for art in Nashville Tennessee	0	ORGANIZATION
+1.0	Canada	have	Art Bank	ORGANIZATION	LOCATION
+1.0	our	have	choice	O	O
+1.0	shocker painting	be also move to	less prominent location near washroom	0	0
+1.0	gorilla	have	shocker painting	O	O
+1.0	result	will	will present in April	0	DATE
+1.0	shocker painting	be	move from lobby to prominent location near washroom	0	0
+1.0	shocker painting	be	move from lobby to location near washroom	0	0
+1.0	experiment	have	part	O	O
+1.0	shocker painting	be move from	lobby	0	0
+1.0	result	will	will present at Society in April	0	DATE
+1.0	its kind	be in	Canada	0	LOCATION
+1.0	shocker painting	be also move to	prominent location near washroom	0	0
+1.0	shocker painting	be move to	less prominent location	0	0
+1.0	paintings	have	choice	O	O
+1.0	its	have	kind	O	O
+1.0	shocker painting	be	move from lobby to location	0	0
+1.0	Paul Butler	be with	word	PERSON	0
+1.0	know	be	part	0	0
+1.0	result	will	will present at Society for art	0	ORGANIZATION
+1.0	shocker painting	be	move from lobby to less prominent location	0	0
+1.0	shocker painting	be also move to	less prominent location	0	0
+1.0	art pastels	have	works	O	O
+1.0	result	will	will present at Society for art in Healthcare conference in April	0	DATE
+1.0	painting	include	five portrait	0	NUMBER
+1.0	result	will	will present at Society in Nashville Tennessee	0	ORGANIZATION
+1.0	our	have	patients	O	O
+1.0	result	will	will present at Society in Nashville Tennessee in April	0	DATE
+1.0	result	will	will present at Society	0	ORGANIZATION

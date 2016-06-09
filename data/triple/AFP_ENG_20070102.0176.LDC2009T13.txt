@@ -1,0 +1,217 @@
+1.0	Ford 's remains	be lay	rest	LOCATION	0
+1.0	Laura Bush	be	First	PERSON	ORDINAL
+1.0	Nixon	face	impeachment	PERSON	0
+1.0	greeting	be with	Americans	0	MISC
+1.0	Ford	die in	California	ORGANIZATION	LOCATION
+1.0	Tom Brokaw	be television news anchorman of	NBC	PERSON	ORGANIZATION
+1.0	Dole	be also republican presidential candidate in	1996	PERSON	DATE
+1.0	Bill Clinton	be to	Democrat	PERSON	MISC
+1.0	Ford	inherit	final phase of US military involvement	ORGANIZATION	LOCATION
+1.0	Ford	represent	he hometown district	ORGANIZATION	0
+1.0	pallbearers	have	list	O	O
+1.0	US President George W. Bush	stand before	Ford 's casket	PERSON	ORGANIZATION
+1.0	Management	have	Office	ORGANIZATION	ORGANIZATION
+1.0	Ford	also inherit	phase of US military involvement	ORGANIZATION	LOCATION
+1.0	Rumsfeld	become	secretary of defense	PERSON	0
+1.0	Ford	have	secretaries	O	ORGANIZATION
+1.0	Nixon	ask	he	PERSON	0
+0.22655963548153302	retire	be	also list	0	0
+1.0	Rumsfeld	become	ever secretary of defense	PERSON	0
+1.0	Rumsfeld	youngest ever secretary of	defense	PERSON	0
+1.0	Dole	be also presidential candidate in	1996	PERSON	DATE
+1.0	Dole	be republican presidential candidate in	1996	PERSON	DATE
+1.0	Ford	inherit phase in	Vietnam	ORGANIZATION	LOCATION
+1.0	staff treasury secretary	have	chief	O	O
+1.0	some	appear in	report as pallbearer	0	0
+1.0	Rumsfeld	youngest secretary of	defense	PERSON	0
+1.0	Ford	inherit	final phase	ORGANIZATION	0
+1.0	Ford 's remains	be lay	rest in Grand Rapids	LOCATION	LOCATION
+1.0	Congress	be of	US	ORGANIZATION	LOCATION
+1.0	US President George W. Bush	deliver	speech at service	PERSON	0
+1.0	Ford 's	have	mate	O	ORGANIZATION
+1.0	Rumsfeld	secretary of	defense	PERSON	0
+1.0	Ford 's	have	widow	PERSON	0
+1.0	Henry Kissinger	have	campaign	O	O
+1.0	38th US president	be	best remember	LOCATION	0
+1.0	previous vice president	resign over	corruption scandal	0	0
+1.0	those who escort the casket but do not carry it	have	vacation	O	O
+1.0	tribute	will	will deliver	0	0
+1.0	Ford 's son	will read passage from	Bible	PERSON	0
+1.0	Ford 's	have	run mate in failed 1976 presidential bid	ORGANIZATION	DATE
+1.0	Betty Ford	be widow of	Ford 's	PERSON	PERSON
+1.0	Iraq Study Group	have	co-chair	O	ORGANIZATION
+1.0	Ford	die on	December 26	ORGANIZATION	DATE
+1.0	tribute	will	will deliver at ceremony first by former president	0	ORDINAL
+1.0	Ford 's widow	return with	she child	PERSON	0
+1.0	Rumsfeld	become in	1975	PERSON	DATE
+1.0	her	have	children	O	O
+1.0	Ford	inherit	phase of US involvement	ORGANIZATION	LOCATION
+1.0	Dole	lose to	Democrat Bill Clinton	PERSON	PERSON
+1.0	state	have	secretary	O	O
+1.0	Ford	serve for	25 year in US House	ORGANIZATION	LOCATION
+1.0	staff	have	chief	O	O
+1.0	Donald Rumsfeld	be	defense	PERSON	ORGANIZATION
+1.0	US President George W. Bush	have	father	O	PERSON
+1.0	US President George W. Bush	deliver	eulogy	LOCATION	0
+1.0	Rumsfeld	become	youngest secretary	PERSON	0
+1.0	Rumsfeld	become	ever secretary	PERSON	0
+1.0	Dole	be	republican candidate	PERSON	0
+1.0	he opponent	view	Ford 's pardon	0	ORGANIZATION
+1.0	Ford 's	have	remains	LOCATION	0
+1.0	Ford 's	have	remains	O	ORGANIZATION
+1.0	Dick Cheney	be	Henry Kissinger	PERSON	PERSON
+1.0	Baker	lose to	Democrat Jimmy Carter	PERSON	PERSON
+1.0	Dole	be	also presidential candidate	PERSON	0
+1.0	Rumsfeld	become	secretary	PERSON	0
+1.0	Ford 's	have	pardon	ORGANIZATION	0
+0.7035123345986007	Dole	former senator from	Kansas	PERSON	LOCATION
+1.0	tribute	will	will deliver by former president then	0	0
+1.0	Rumsfeld	become	youngest secretary of defense	PERSON	0
+1.0	tribute	will	will deliver by former president	0	0
+1.0	Ford	die at	age	ORGANIZATION	0
+1.0	Ford	have	chief of staff from 1975 1977	ORGANIZATION	DATE
+1.0	Ford	inherit	phase	ORGANIZATION	0
+1.0	Dole	be	also candidate	PERSON	0
+1.0	Dole	be also republican candidate in	1996	PERSON	DATE
+1.0	Ford	serve for	25 year in US House of Representatives	ORGANIZATION	LOCATION
+1.0	Ford	die at	age of 93	ORGANIZATION	NUMBER
+1.0	Ford	have	child	ORGANIZATION	0
+1.0	his	have	manner	O	O
+1.0	he	be	vice president	0	0
+1.0	US President George W. Bush	stand	he wife	PERSON	0
+1.0	state Henry Kissinger	have	secretaries	O	PERSON
+1.0	Ford	's son be	John	PERSON	PERSON
+1.0	Ford	have	chief	O	ORGANIZATION
+1.0	Ford 's child	personally welcome	many of public filing	ORGANIZATION	0
+1.0	Alan Greenspan	be	retire Federal Reserve	PERSON	ORGANIZATION
+1.0	tribute	will	will deliver at ceremony by former president then	0	0
+1.0	Ford 's	's widow be	Betty Ford	PERSON	PERSON
+1.0	Rumsfeld	become under	Ford 's	PERSON	ORGANIZATION
+1.0	Rumsfeld	ever secretary of	defense	PERSON	0
+1.0	US President George W. Bush	bow	they head	PERSON	0
+1.0	Ford 's widow	return to	marble-floored rotunda	PERSON	0
+0.34918140689127997	US President George W. Bush	stand	he wife	PERSON	0
+1.0	Ford 's remains	be on	Wednesday	LOCATION	DATE
+1.0	line-up	include	former secretary	0	0
+1.0	Budget	have	Office	ORGANIZATION	ORGANIZATION
+1.0	Ford	have	son	PERSON	0
+1.0	O'Neill	head	Ford 's Office	PERSON	ORGANIZATION
+1.0	Bush and his wife	have	respects	O	O
+1.0	Ford	also inherit	phase of US involvement	ORGANIZATION	LOCATION
+1.0	tribute	will	will deliver at ceremony first by former president then	0	ORDINAL
+1.0	Dole	be	also republican presidential candidate	PERSON	0
+1.0	Ford 's remains	be	lay	LOCATION	0
+1.0	he	hold until	1973	0	DATE
+1.0	names	have	line-up	O	O
+1.0	Ford	have	Office	ORGANIZATION	ORGANIZATION
+1.0	his	have	hometown district	O	O
+1.0	republican presidential candidate	be in	1996	0	DATE
+1.0	Baker	be undersecretary under	Ford	PERSON	ORGANIZATION
+1.0	US president	be	best	LOCATION	0
+1.0	tribute	will	will deliver at ceremony	0	0
+1.0	Dole	be	presidential candidate	PERSON	0
+0.5525237173727975	Ford 's child	shake	hand	ORGANIZATION	0
+1.0	US President George W. Bush	deliver	speech	PERSON	0
+1.0	Ford 's widow	bow in	grief	PERSON	0
+1.0	Representatives	have	US House	O	O
+1.0	Ford	have	secretary of transportation	ORGANIZATION	0
+1.0	he	become	House minority whip	0	ORGANIZATION
+1.0	his	have	opponents	O	O
+1.0	his	have	bid	O	O
+1.0	line-up	include	former secretary of state Henry Kissinger	0	PERSON
+1.0	US involvement	have	phase	O	O
+1.0	moments	have	one	NUMBER	O
+1.0	Ford	inherit	phase of US military involvement	ORGANIZATION	LOCATION
+1.0	military honor guard	stand	vigil	0	0
+1.0	Dole	be	candidate	PERSON	0
+1.0	viewing	have	days	DURATION	O
+1.0	Ford 's	have	widow	O	ORGANIZATION
+1.0	tribute	will	will deliver first by former president	0	ORDINAL
+1.0	cover-up	be	expose	0	0
+1.0	Baker	be	undersecretary	PERSON	0
+1.0	filing	have	many	O	O
+1.0	Bush and his wife	have	heads	O	O
+1.0	Dole	be	also republican candidate	PERSON	0
+1.0	vice president	resign over	corruption scandal	0	0
+1.0	Baker	be	undersecretary of commerce under Ford	PERSON	ORGANIZATION
+1.0	darkest moment	be in	US history	0	LOCATION
+1.0	US Congress	have	seat	O	ORGANIZATION
+1.0	deal	be	cut	0	0
+1.0	93	have	age	O	NUMBER
+1.0	US President George W. Bush	deliver speech at	National Cathedral	PERSON	ORGANIZATION
+1.0	Baker	run	he 1976 campaign	PERSON	DATE
+1.0	His	have	casket	O	O
+1.0	Ford 's	have	pardon	O	ORGANIZATION
+1.0	Ford	have	son	O	ORGANIZATION
+1.0	he	bid	Bob Dole	0	PERSON
+1.0	Baker	be undersecretary of	commerce	PERSON	0
+1.0	US President George W. Bush	deliver speech at	National Cathedral in Washington	PERSON	LOCATION
+1.0	tribute	will	will deliver first by former president then	0	ORDINAL
+1.0	his	have	reputation	O	O
+1.0	George H. W. Bush	have	secretary	O	PERSON
+1.0	he	rise	become	0	0
+1.0	Ford	have	casket	O	ORGANIZATION
+1.0	Ford	inherit	final phase of US involvement	ORGANIZATION	LOCATION
+1.0	Ford 's remains	be lay	rest at Gerald Ford Museum	LOCATION	LOCATION
+1.0	US President George W. Bush	stand before	Ford 's flag-draped casket	PERSON	ORGANIZATION
+1.0	US President George W. Bush	deliver eulogy to	former president Gerald Ford Tuesday	LOCATION	DATE
+1.0	personalities	have	Some	O	O
+1.0	Ford	also inherit phase in	Vietnam	ORGANIZATION	LOCATION
+1.0	Ford 's run mate	be in	he failed 1976 presidential bid	ORGANIZATION	DATE
+1.0	he	hold from	1965	0	DATE
+1.0	Rumsfeld	become	youngest ever secretary of defense	PERSON	0
+1.0	O'Neill	secretary under	Bush	PERSON	PERSON
+1.0	Dole	be republican candidate in	1996	PERSON	DATE
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	some	appear in	report	0	0
+1.0	US president	be	best remember	LOCATION	0
+1.0	Ford 's son	will read	passage	PERSON	0
+1.0	a military honor guard	have	wife	O	O
+1.0	Ford 's remains	be lay	rest at Gerald Ford Museum in Grand Rapids	LOCATION	LOCATION
+1.0	38th US president	be	best	LOCATION	0
+1.0	Ford 's widow	touch	casket	PERSON	0
+1.0	Ford	also inherit	phase	ORGANIZATION	0
+1.0	Ford	before	flag-draped casket on Monday	ORGANIZATION	DATE
+1.0	Donald Rumsfeld	be secretary of	defense	PERSON	ORGANIZATION
+1.0	line-up	include	former secretary recently	0	DATE
+1.0	Rumsfeld	become	youngest ever secretary	PERSON	0
+0.8625106807632111	exchange	greeting	who have come	0	0
+1.0	defense	have	secretary	O	O
+1.0	Dole	senator from	Kansas	PERSON	LOCATION
+1.0	Ford	also inherit	final phase of US military involvement	ORGANIZATION	LOCATION
+1.0	Ford	serve for	25 year	ORGANIZATION	DURATION
+1.0	John	be son of	Ford	PERSON	PERSON
+1.0	Ford 's child	welcome	many	ORGANIZATION	0
+1.0	transportation	have	secretaries	O	O
+1.0	honor guard	stand	vigil	0	0
+1.0	housing	have	secretaries	O	O
+1.0	US President George W. Bush	leave	rotunda	PERSON	0
+1.0	Ford 's child	welcome	many of filing	ORGANIZATION	0
+1.0	Alan Greenspan	be chairman of	retire Federal Reserve	PERSON	ORGANIZATION
+1.0	O'Neill	head	Ford 's Office of Management	PERSON	ORGANIZATION
+1.0	Dole	be candidate in	1996	PERSON	DATE
+1.0	National Cathedral	be in	Washington	ORGANIZATION	LOCATION
+0.22655963548153302	retire	be	list	0	0
+1.0	Ford 's child	welcome	many of public filing	ORGANIZATION	0
+1.0	US President George W. Bush	bow	he wife	PERSON	0
+1.0	Baker	run	he 1976 presidential campaign	PERSON	DATE
+1.0	Ford	have	children	O	ORGANIZATION
+1.0	Ford	also inherit	final phase of US involvement	ORGANIZATION	LOCATION
+1.0	US President George W. Bush	deliver speech at_time	former president Gerald Ford Tuesday	PERSON	DATE
+1.0	commerce	have	undersecretary	O	O
+1.0	Dole	be	republican presidential candidate	PERSON	0
+1.0	tribute	will	will deliver at ceremony by former president	0	0
+1.0	Ford 's widow	return to	rotunda	PERSON	0
+1.0	Dole	be presidential candidate in	1996	PERSON	DATE
+1.0	Ford 's child	personally welcome	many	ORGANIZATION	0
+1.0	Ford 's child	personally welcome	many of filing	ORGANIZATION	0
+1.0	disgrace	be in	August 1974	0	DATE
+1.0	Grand Rapids	have	hometown district	O	LOCATION
+1.0	25 year	be in	US House of Representatives	DURATION	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Ford	also inherit	final phase	ORGANIZATION	0
+1.0	Ford	represent	he hometown district of Grand Rapids	ORGANIZATION	LOCATION
+1.0	Dole	be also candidate in	1996	PERSON	DATE
+1.0	line-up	include	former secretary of state Henry Kissinger recently	0	PERSON
+1.0	operation	have	White House cover-up	O	O
+1.0	he vacation	be in	Dominican Republic	0	LOCATION

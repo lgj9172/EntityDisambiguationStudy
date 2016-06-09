@@ -1,0 +1,65 @@
+1.0	William Bratton	be chief of	Los Angeles Police Department	PERSON	ORGANIZATION
+1.0	crime figure	be lowest	city have have	0	0
+1.0	city	have	murders	O	O
+1.0	fall	however be offset by	spike in violence between black gang	DATE	0
+1.0	violence	increase in	Los Angeles last year	0	LOCATION
+1.0	fall	however be offset by	spike in violence between gang	DATE	0
+1.0	New Year 's	have	resolution in 2007	DATE	DATE
+1.0	crime figure	be lowest	city have have since 1956	0	DATE
+1.0	violence	increase despite	overall fall in crime	0	DATE
+1.0	race	have	shot	O	O
+1.0	William Bratton	be	Los Angeles Police Department	PERSON	ORGANIZATION
+1.0	violence	increase despite	fall in crime for year	0	DURATION
+1.0	fall	be offset by	spike in interracial violence between gang	DATE	0
+1.0	spike	be in	interracial violence	0	0
+1.0	Los Angeles	be  at_time	last year	LOCATION	DURATION
+1.0	ethnicity	have	shot	O	O
+1.0	violence	increase despite	overall fall in crime for fifth year	0	ORDINAL
+1.0	violence	increase despite	overall fall in crime for year	0	DURATION
+1.0	their	have	race	O	O
+1.0	fall	be in	crime for fifth consecutive year	DATE	ORDINAL
+1.0	violence	increase in	Los Angeles year	0	LOCATION
+1.0	fall	be offset by	spike in violence between gang	DATE	0
+1.0	murder victims	have	percent	PERCENT	O
+1.0	suspects	have	percent	PERCENT	O
+1.0	violence	increase despite	fall in crime for fifth year	0	ORDINAL
+1.0	crime rate	dip by	7.7 percent	0	PERCENT
+1.0	violence	increase in	Los Angeles	0	LOCATION
+1.0	New Year	have	resolution	O	DATE
+1.0	city	have have since	1956	0	DATE
+1.0	fall	however be offset by	spike in violence	DATE	0
+1.0	fall	be offset by	spike between gang	DATE	0
+1.0	Antonio Villaraigosa	tell	press conference	PERSON	0
+1.0	Investigation	have	Federal Bureau	ORGANIZATION	ORGANIZATION
+1.0	violence	increase accord to	figure	0	0
+1.0	Antonio Villaraigosa	tell press conference at_time	late Tuesday	PERSON	DATE
+1.0	fall	be in	crime	DATE	0
+1.0	Antonio Villaraigosa	tell press conference at_time	Tuesday	PERSON	DATE
+1.0	fall	however be offset by	spike in interracial violence between black gang	DATE	0
+1.0	fall	however be offset by	spike in interracial violence between gang	DATE	0
+1.0	fall	be offset by	spike between black gang	DATE	0
+1.0	fall	be offset by	spike in interracial violence between black gang	DATE	0
+1.0	violence	increase despite	overall fall in crime for consecutive year	0	DURATION
+1.0	fall	however be offset by	spike in interracial violence	DATE	0
+1.0	fall	however be offset by	spike between gang	DATE	0
+1.0	Our	have	New Year	DATE	O
+1.0	we New Year 's resolution	be in	2007	DATE	DATE
+1.0	violence	increase accord to	figure release Wednesday	0	DATE
+1.0	violence	increase despite	fall in crime for consecutive year	0	DURATION
+1.0	violence	increase despite	fall	0	DATE
+1.0	fall	be offset by	spike in violence between black gang	DATE	0
+1.0	crime rate	dip in	2006	0	DATE
+1.0	fall	be offset by	spike	DATE	0
+1.0	fall	however be offset by	spike	DATE	0
+1.0	fall	be offset by	spike in interracial violence	DATE	0
+1.0	violence	increase despite	overall fall	0	DATE
+1.0	murders	have	percent	PERCENT	O
+1.0	fall	be offset by	spike in violence	DATE	0
+1.0	violence	increase despite	overall fall in crime for fifth consecutive year	0	ORDINAL
+1.0	violence	increase despite	fall in crime for fifth consecutive year	0	ORDINAL
+1.0	violence	increase accord to	figure release	0	0
+1.0	gang crime priority	be in	the coming year	0	DATE
+1.0	city	have	population	0	0
+1.0	violence	increase despite	fall in crime	0	DATE
+1.0	city	have	population	O	O
+1.0	fall	however be offset by	spike between black gang	DATE	0

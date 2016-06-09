@@ -1,0 +1,15 @@
+1.0	network	be in	Iraq	0	LOCATION
+1.0	Joint Chiefs	have	chairman	O	ORGANIZATION
+1.0	US Defense Secretary Robert Gates	have	speech	O	O
+1.0	operation	be in	Iraq	0	LOCATION
+1.0	networks smuggling arms	have	pursuit	O	O
+1.0	Staff	have	chairman	O	ORGANIZATION
+1.0	We	have	troops	O	O
+1.0	Robert Gates	be	US	PERSON	LOCATION
+1.0	President George W. Bush	have	vow	O	PERSON
+1.0	Peter Pace	chairman of	the Joint Chiefs	PERSON	ORGANIZATION
+1.0	weeks	have	couple	DURATION	DURATION
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	border raid	be in	Iran	0	LOCATION
+1.0	Robert Gates	be secretary of	US	PERSON	LOCATION
+1.0	George W. Bush	have	vow in major strategy speech Wednesday attack	PERSON	DATE

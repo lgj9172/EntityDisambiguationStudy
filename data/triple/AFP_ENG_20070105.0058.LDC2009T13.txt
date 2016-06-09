@@ -1,0 +1,13 @@
+1.0	message	post on	site	0	0
+1.0	message	post on	site use by Al	0	ORGANIZATION
+1.0	message	post on	site usually use by Al	0	ORGANIZATION
+1.0	Somalia	have	government rout forces	O	LOCATION
+1.0	Somalia	have	transitional government rout islamist force	LOCATION	0
+1.0	Ethiopia	help	Somalia 's transitional government rout islamist force	LOCATION	LOCATION
+1.0	their	have	allies	O	O
+1.0	message	post on	site usually use	0	0
+1.0	aggression	have	forces	O	O
+1.0	Ethiopia	help	Somalia 's government rout islamist force	LOCATION	LOCATION
+1.0	message	post on	site use	0	0
+1.0	Ethiopia	help	Somalia 's transitional government rout force	LOCATION	LOCATION
+1.0	Ethiopia	help	Somalia 's government rout force	LOCATION	LOCATION

@@ -1,0 +1,55 @@
+1.0	an elderly Portuguese woman	have	family	O	O
+1.0	northern city	do	Castelo	0	LOCATION
+1.0	an elderly Portuguese woman	complain of	feeling unwell	0	0
+1.0	northern city	do	400 kilometre north	0	NUMBER
+1.0	city	do	400 kilometre north of Lisbon	0	NUMBER
+1.0	hospital employee	inform	he	DATE	0
+1.0	dead woman	be in	fact 84	0	NUMBER
+1.0	northern city	do	Castelo on New Year 's Eve for ailment	0	LOCATION
+1.0	northern city	do	400 kilometre north of Lisbon	0	NUMBER
+1.0	city	do	Castelo on New Year 's Eve	0	LOCATION
+1.0	undertaker	collect	she body	0	0
+1.0	da silva 94	be	admit	NUMBER	0
+1.0	northern city	do	Castelo on New Year 's Eve for undisclosed ailment	0	LOCATION
+1.0	port city	do	Castelo on New Year 's Eve	0	LOCATION
+0.816315103144382	Castelo	city of	Viana	LOCATION	LOCATION
+1.0	it	be	annoying	0	0
+1.0	northern port city	do	Castelo on New Year 's Eve	0	LOCATION
+1.0	northern port city	do	Castelo on New Year 's Eve for undisclosed ailment	0	LOCATION
+1.0	northern city	do	Castelo on New Year 's Eve	0	LOCATION
+1.0	da silva	be	94	0	NUMBER
+1.0	city	do	Castelo	0	LOCATION
+1.0	northern port city	do	400 kilometre north of Lisbon	0	NUMBER
+1.0	city	do	Castelo on New Year 's Eve for undisclosed ailment	0	LOCATION
+1.0	feeling unwell	have	complained	O	O
+1.0	port city	do	400 kilometre north	0	NUMBER
+1.0	an elderly Portuguese woman	have	body	O	O
+1.0	northern port city	do	Castelo	0	LOCATION
+0.816315103144382	Castelo	northern city of	Viana	LOCATION	LOCATION
+1.0	an elderly Portuguese woman	have	set	O	O
+1.0	Viana do Castelo	north of	Lisbon	LOCATION	LOCATION
+1.0	da silva	be	admit	0	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	woman	be in	fact 84	0	NUMBER
+1.0	undertaker	go to	hospital	0	0
+1.0	Ana Rodrigues da Silva	of	daughter	PERSON	PERSON
+1.0	a hospital employee	have	mother	O	O
+1.0	port city	do	400 kilometre north of Lisbon	0	NUMBER
+0.816315103144382	Castelo	northern port city of	Viana	LOCATION	LOCATION
+1.0	port city	do	Castelo on New Year 's Eve for undisclosed ailment	0	LOCATION
+1.0	her	have	sons	O	O
+1.0	Viana do Castelo	be on	New Year 's Eve	LOCATION	DATE
+1.0	port city	do	Castelo on New Year 's Eve for ailment	0	LOCATION
+1.0	daughters	have	one	NUMBER	O
+0.816315103144382	Castelo	port city of	Viana	LOCATION	LOCATION
+1.0	New Year 's Eve	on castelo be	400 kilometre north of Lisbon	DATE	NUMBER
+1.0	northern port city	do	Castelo on New Year 's Eve for ailment	0	LOCATION
+1.0	port city	do	Castelo	0	LOCATION
+1.0	Viana	have	city	O	LOCATION
+1.0	Ana Rodrigues da Silva	have	daughters	O	PERSON
+1.0	city	do	400 kilometre north	0	NUMBER
+1.0	an elderly Portuguese woman	have	village	O	O
+1.0	sons	have	one	NUMBER	O
+1.0	northern port city	do	400 kilometre north	0	NUMBER
+1.0	city	do	Castelo on New Year 's Eve for ailment	0	LOCATION
+1.0	Lisbon	have	kilometres north	O	LOCATION

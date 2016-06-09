@@ -1,0 +1,9 @@
+1.0	US Representative Nancy Pelosi	become	first woman	LOCATION	ORDINAL
+1.0	Representatives	have	House	O	O
+1.0	US Representative Nancy Pelosi	make	history	LOCATION	0
+1.0	Nancy Pelosi	be representative of	US	PERSON	LOCATION
+1.0	the first woman	have	third	ORDINAL	O
+1.0	Nancy Pelosi	be	US	PERSON	LOCATION
+1.0	US Representative Nancy Pelosi	become	woman	LOCATION	0
+1.0	US Representative Nancy Pelosi	make history at_time	Thursday	LOCATION	DATE
+1.0	House	have	speaker	O	O

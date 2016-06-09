@@ -1,0 +1,21 @@
+1.0	palestinian	be	kill	0	0
+1.0	one palestinian	be	kill	NUMBER	0
+1.0	its	have	troops	O	O
+1.0	palestinian militant	be in	Gaza	0	LOCATION
+1.0	shell	mark	latest breach	0	0
+1.0	palestinian	wound by	israeli fire	0	0
+1.0	palestinian	wound by	fire	0	0
+1.0	one palestinian	wound in	strip	NUMBER	0
+1.0	palestinian	wound in	strip	0	0
+1.0	one palestinian	wound by	israeli fire	NUMBER	0
+1.0	ceasefire	have	breach	O	O
+0.13448128613737897	militant	be suppose	cease	0	0
+1.0	one palestinian	wound by	fire	NUMBER	0
+1.0	Israel	withdraw	its troops	LOCATION	0
+1.0	army	say at_time	Tuesday	0	DATE
+1.0	shell	mark	breach	0	0
+1.0	militant	cease	firing rocket	0	0
+1.0	militant	be	suppose	0	0
+1.0	one palestinian	wound in	coastal strip	NUMBER	0
+1.0	palestinian	wound in	coastal strip	0	0
+1.0	November ceasefire	have	breach	O	O

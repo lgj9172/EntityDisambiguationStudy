@@ -1,0 +1,135 @@
+1.0	first drug	give with	cancer in Brazil	ORDINAL	LOCATION
+0.5146282513650678	a	approve	drug therapy	0	0
+1.0	drug	be prescribe to	451 patient with renal cancer	0	NUMBER
+1.0	drug	give with	metastatic renal cancer	0	0
+0.5146282513650678	a	approve	drug therapy make	0	0
+1.0	drug	give with	untreated metastatic cancer in Brazil	0	LOCATION
+1.0	US Food	treat	Drug Administration	ORGANIZATION	ORGANIZATION
+1.0	first drug	give with	untreated metastatic cancer	ORDINAL	0
+1.0	first drug	give with	renal cancer in Brazil	ORDINAL	LOCATION
+1.0	second drug	be prescribe to	451 patient with renal cancer resistant to chemotherapy treatment	ORDINAL	NUMBER
+1.0	drug	give with	previously untreated metastatic renal cancer	0	DATE
+1.0	drug	give with	renal cancer	0	0
+1.0	interferon alfa	previously only be authorize for	use	0	0
+1.0	drug	give with	previously metastatic cancer	0	DATE
+1.0	Bayer	have	sorafenib	ORGANIZATION	0
+1.0	drug	be prescribe to	451 patient with renal cancer resistant to chemotherapy treatment between November 2003	0	DATE
+1.0	second drug	be prescribe to	451 patient with renal cancer resistant	ORDINAL	NUMBER
+1.0	first drug	give with	previously metastatic cancer	ORDINAL	DATE
+1.0	drug	be develop	three trial	0	NUMBER
+1.0	drug	be prescribe to	451 patient	0	NUMBER
+1.0	first drug	give with	previously untreated metastatic cancer in Brazil	ORDINAL	LOCATION
+1.0	drug	be prescribe to	451 patient with cancer resistant to standard chemotherapy treatment	0	NUMBER
+1.0	US Food	treat	cancer	ORGANIZATION	0
+1.0	second drug	be prescribe to	451 patient with cancer resistant to standard chemotherapy treatment	ORDINAL	NUMBER
+1.0	cancer patients	live	twice as long as patient	0	0
+1.0	drug	be prescribe to	451 patient with cancer resistant to chemotherapy treatment	0	NUMBER
+1.0	clinical trial	be in	patient with advanced renal-cell carcinoma show	0	0
+1.0	drug	give with	untreated metastatic renal cancer	0	0
+1.0	drug	be prescribe to	451 patient with cancer resistant to standard chemotherapy treatment between November 2003	0	DATE
+0.5146282513650678	a lead	approve	drug therapy make	0	0
+1.0	first drug	give with	untreated metastatic cancer in Brazil	ORDINAL	LOCATION
+1.0	genetics	have	understanding	O	O
+1.0	drug	be prescribe to	451 patient with cancer resistant to chemotherapy treatment between November 2003	0	DATE
+1.0	cancer patients	live	twice as long	0	0
+1.0	second drug	be	prescribe	ORDINAL	0
+1.0	patient	be with	advanced renal-cell carcinoma show	0	0
+1.0	drug	give with	metastatic renal cancer in Brazil	0	LOCATION
+1.0	cancer treatments	have	breed	O	O
+0.9852279573955719	study	publish in	United States	0	LOCATION
+1.0	US Food	treat	advanced cancer of kidney	ORGANIZATION	0
+1.0	drug	be prescribe to	451 patient with renal cancer resistant to standard chemotherapy treatment	0	NUMBER
+0.9852279573955719	study	publish at_time	Wednesday	0	DATE
+1.0	drug	give with	metastatic cancer	0	0
+1.0	second drug	be prescribe to	451 patient with cancer resistant to chemotherapy treatment	ORDINAL	NUMBER
+1.0	drug	be prescribe to	451 patient with renal cancer resistant to chemotherapy treatment	0	NUMBER
+1.0	first drug	give with	metastatic cancer	ORDINAL	0
+1.0	drug	give with	previously untreated metastatic cancer	0	DATE
+1.0	second drug	be prescribe to	451 patient with renal cancer	ORDINAL	NUMBER
+1.0	study	appear in	January 11 edition	0	DATE
+1.0	drug	be prescribe to	451 patient with renal cancer resistant	0	NUMBER
+1.0	interferon alfa	be	authorize	0	0
+1.0	cancer patients	live	one year	0	DURATION
+1.0	people	have	life expectancy	O	O
+1.0	angiogenesis	development of	blood vessel	0	0
+1.0	cancer patients	live	twice long	0	0
+1.0	drug	give with	renal cancer in Brazil	0	LOCATION
+1.0	they	survive at_time	average 5.5 month	0	DURATION
+1.0	cancer patients	live	twice as patient	0	0
+1.0	tumors	have	growth	O	O
+1.0	first drug	give with	renal cancer	ORDINAL	0
+1.0	US Food	treat	advanced cancer	ORGANIZATION	0
+1.0	Bayer	have	sorafenib	O	ORGANIZATION
+1.0	first drug	give with	previously metastatic renal cancer	ORDINAL	DATE
+1.0	one year	twice as	patient	DURATION	0
+1.0	drug	be	prescribe	0	0
+1.0	second drug	be prescribe to	451 patient with renal cancer resistant to standard chemotherapy treatment	ORDINAL	NUMBER
+1.0	drug	give with	previously untreated metastatic renal cancer in Brazil	0	LOCATION
+1.0	cancer patients	live	twice	0	0
+0.23894290573990895	cancer patients	live give	a lead	0	0
+1.0	first drug	give with	metastatic cancer in Brazil	ORDINAL	LOCATION
+1.0	first drug	give with	previously untreated metastatic renal cancer	ORDINAL	DATE
+0.5146282513650678	a lead	approve	drug therapy	0	0
+1.0	US Food	have give light to	sunitinib	ORGANIZATION	0
+1.0	blood vessels	have	development	O	O
+1.0	first drug	give with	metastatic renal cancer in Brazil	ORDINAL	LOCATION
+1.0	drug	give with	previously metastatic cancer in Brazil	0	LOCATION
+1.0	cancer patients	have	Half	O	O
+1.0	drug	give with	cancer	0	0
+1.0	drug	give with	previously metastatic renal cancer in Brazil	0	LOCATION
+1.0	kidney	have	cancer	O	O
+1.0	first drug	give to	cancer patient	ORDINAL	0
+1.0	451 patient	be with	renal cancer resistant to standard chemotherapy treatment between November 2003	NUMBER	DATE
+0.23894290573990895	cancer patients	live give	a	0	0
+1.0	drug	be prescribe to	451 patient with cancer	0	NUMBER
+1.0	first drug	give with	previously metastatic renal cancer in Brazil	ORDINAL	LOCATION
+1.0	first drug	give with	previously untreated metastatic cancer	ORDINAL	DATE
+1.0	second drug	be prescribe to	451 patient with renal cancer resistant to standard chemotherapy treatment between November 2003	ORDINAL	DATE
+1.0	study	appear in	January 11 edition of New England Journal	0	DATE
+1.0	drug	give with	untreated metastatic renal cancer in Brazil	0	LOCATION
+1.0	drug	be prescribe to	451 patient with cancer resistant	0	NUMBER
+1.0	first drug	give with	cancer	ORDINAL	0
+1.0	drug	give with	previously untreated metastatic cancer in Brazil	0	LOCATION
+1.0	New England Journal	have	January edition	O	ORGANIZATION
+1.0	untreated metastatic renal cancer	be in	Brazil	0	LOCATION
+1.0	second drug	be prescribe to	451 patient with cancer	ORDINAL	NUMBER
+1.0	they	survive at_time	5.5 month	0	DURATION
+1.0	cancer patients	live	almost one year	0	DURATION
+1.0	second drug	be prescribe to	451 patient	ORDINAL	NUMBER
+1.0	second drug	be prescribe to	451 patient with cancer resistant to standard chemotherapy treatment between November 2003	ORDINAL	DATE
+1.0	cancer	have	cases	O	O
+1.0	study	appear in	January 11 edition of New England Journal of Medicine	0	DATE
+1.0	first drug	give with	previously metastatic cancer in Brazil	ORDINAL	LOCATION
+1.0	first drug	give with	previously untreated metastatic renal cancer in Brazil	ORDINAL	LOCATION
+1.0	cancer	have	form	O	O
+1.0	first drug	give with	metastatic renal cancer	ORDINAL	0
+1.0	US Food	have give	light	ORGANIZATION	0
+1.0	drug	give with	metastatic cancer in Brazil	0	LOCATION
+1.0	drug	be prescribe to	451 patient with renal cancer resistant to standard chemotherapy treatment between November 2003	0	DATE
+1.0	drug	give during	phase	0	0
+1.0	interferon alfa	only be authorize for	use	0	0
+1.0	cancer patients	have	tumors	O	O
+1.0	drug	give with	previously metastatic renal cancer	0	DATE
+1.0	US Food	treat	cancer of kidney	ORGANIZATION	0
+1.0	first drug	give during	phase	ORDINAL	0
+1.0	interferon alfa	be	only authorize	0	0
+1.0	Medicine	have	New England Journal	ORGANIZATION	ORGANIZATION
+1.0	tumors	have	biology	O	O
+1.0	sorafenib	have	trials	O	O
+1.0	first drug	give with	untreated metastatic renal cancer in Brazil	ORDINAL	LOCATION
+1.0	drug	give to	cancer patient	0	0
+1.0	second drug	be prescribe to	451 patient with cancer resistant	ORDINAL	NUMBER
+1.0	interferon alfa	be	previously only authorize	0	0
+1.0	second drug	be prescribe to	451 patient with renal cancer resistant to chemotherapy treatment between November 2003	ORDINAL	DATE
+1.0	US Food	have give	green light	ORGANIZATION	0
+1.0	drug	give with	cancer in Brazil	0	LOCATION
+1.0	interferon alfa	be authorize for	use	0	0
+1.0	sunitinib	have	trials	O	O
+1.0	interferon alfa	be	previously authorize	0	0
+1.0	cancer patients	live	twice long as patient	0	0
+1.0	interferon alfa	previously be authorize for	use	0	0
+1.0	first drug	be develop	three trial	ORDINAL	NUMBER
+1.0	second drug	be prescribe to	451 patient with cancer resistant to chemotherapy treatment between November 2003	ORDINAL	DATE
+1.0	Roche	call	interferon alfa	PERSON	0
+1.0	drug	give with	untreated metastatic cancer	0	0
+1.0	first drug	give with	untreated metastatic renal cancer	ORDINAL	0

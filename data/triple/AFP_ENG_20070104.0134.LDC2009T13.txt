@@ -1,0 +1,51 @@
+1.0	Margaret Chan	have	position	O	O
+1.0	Chan 59	be	body	NUMBER	0
+1.0	she	previously serve as	health chief	0	0
+1.0	Chan 59	be	chinese body	NUMBER	0
+1.0	Margaret Chan	be	first chinese body	PERSON	ORDINAL
+1.0	she	stress at_time	last November	0	DATE
+1.0	predecessor	have	death	O	O
+1.0	she relationship	will	will watch by rest of world at time	0	0
+1.0	she relationship	will	will closely watch by rest	0	0
+1.0	my	have	sleeve	O	O
+1.0	nomination	have	time	DATE	O
+1.0	people	have	health	O	O
+1.0	Margaret Chan	be	first body	PERSON	ORDINAL
+1.0	she	stress at_time	November	0	DATE
+1.0	she	be describe as	authoritarian	0	0
+1.0	Chan 59	be	first body	NUMBER	ORDINAL
+1.0	Chan 59	be	first chinese body	NUMBER	ORDINAL
+1.0	Margaret Chan	be	chinese body	PERSON	0
+1.0	she	be	impartial	0	0
+1.0	she	previously serve in	Hong Kong	0	LOCATION
+1.0	she	stress at	time	0	DATE
+1.0	World Health Organisation	have	head	O	ORGANIZATION
+1.0	she relationship	will	will closely watch by rest of world at time	0	0
+1.0	Africans	have	health	O	MISC
+1.0	her	have	nomination	O	O
+1.0	she relationship	will	will watch	0	0
+1.0	she relationship	will	will watch by rest of world	0	0
+1.0	her	have	predecessor	O	O
+1.0	Margaret Chan	be	59	PERSON	NUMBER
+1.0	she	stress at	time of she nomination	0	DATE
+1.0	I	be	elect	0	0
+1.0	she relationship	will	will closely watch by rest of world	0	0
+1.0	women	have	health	O	O
+1.0	Margaret Chan	be	body	PERSON	0
+0.34016047322793397	she relationship	will	will watch by rest of world at time grow	0	0
+1.0	people	be in	Africa	0	LOCATION
+1.0	she relationship	will	will closely watch	0	0
+1.0	Wook	have	director general	O	PERSON
+1.0	health	have	health	O	O
+1.0	world	have	rest	O	O
+1.0	I	be	now elect	0	0
+1.0	Margaret Chan	have	priority	O	O
+0.34016047322793397	she relationship	will	will closely watch by rest of world at time grow	0	0
+1.0	I	carry	my nationality	0	0
+1.0	her	have	rise	O	O
+1.0	she	serve as	health chief	0	0
+1.0	she	serve in	Hong Kong	0	LOCATION
+1.0	my	have	nationality	O	O
+1.0	she relationship	will	will watch by rest	0	0
+1.0	she relationship	be with	Beijing	0	LOCATION
+1.0	Her	have	relationship	O	O

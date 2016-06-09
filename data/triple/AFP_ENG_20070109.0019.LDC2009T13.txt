@@ -1,0 +1,8 @@
+1.0	US Air Force ac-130	conduct air strike in	southern Somalia	ORGANIZATION	LOCATION
+1.0	US Air Force ac-130	conduct air strike against	Al-Qaeda leader	ORGANIZATION	MISC
+1.0	US Air Force ac-130	conduct	air strike	ORGANIZATION	0
+1.0	strike	have	target	O	O
+0.8984735911953804	US Air Force ac-130	fix	wing gunship	ORGANIZATION	0
+1.0	strike	be in	southern Somalia	0	LOCATION
+1.0	US Air Force ac-130	conduct air strike in	Somalia	ORGANIZATION	LOCATION
+1.0	Pentagon spokesman	confirm at_time	Tuesday	ORGANIZATION	DATE

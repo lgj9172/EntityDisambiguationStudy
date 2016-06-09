@@ -1,0 +1,109 @@
+1.0	journalists	be	firm	0	0
+1.0	UN charter	have	spirit	O	O
+1.0	test	have	indication	O	O
+1.0	journalists	be firm about	the safeguard	0	0
+1.0	six-nation talk	end	meet again	DATE	DATE
+1.0	song Min-Soon	be	south korean	PERSON	0
+1.0	talk	end without	apparent progress	DATE	DATE
+1.0	Li Zhaoxing	ask about	media report of preparation	PERSON	0
+1.0	six-nation talk	resume at_time	month	DATE	DATE
+1.0	China 's	react to	first test on October 9	LOCATION	ORDINAL
+1.0	Li Zhaoxing	visit	Cebu for meeting of asian minister	PERSON	LOCATION
+1.0	North	agree at	session in September 2005	LOCATION	DATE
+1.0	China	have	foreign minister	LOCATION	0
+1.0	it	boycott forum in	protest	0	0
+1.0	song	later hold	Li	0	PERSON
+1.0	negotiations'	have	outcome	O	O
+1.0	song	hold talk on	security	0	0
+1.0	North	scrap	its programme	LOCATION	0
+1.0	Li Zhaoxing	ask about	media report of preparation for possible repeat test	PERSON	0
+1.0	six-nation talk	resume after	break	DATE	DATE
+1.0	Li Zhaoxing	visit	Cebu for meeting of southeast asian minister	PERSON	LOCATION
+1.0	China 's	react angrily to	test	LOCATION	0
+1.0	Beijing	have	opposition	O	LOCATION
+1.0	North	agree at	six-party session	LOCATION	0
+1.0	North	agree in	principle	LOCATION	0
+1.0	North	agree at	session	LOCATION	0
+1.0	he	say	side they would stick	0	0
+1.0	six-nation talk	resume after	13-month break	DATE	DATE
+1.0	China 's	react to	test on October 9	LOCATION	DATE
+1.0	China 's	react angrily to	first test	LOCATION	ORDINAL
+1.0	talk	end	meet	DATE	0
+1.0	six-nation talk	resume at_time	last month	DATE	DATE
+1.0	it	boycott forum at	US financial sanction impose for alleged money-laundering	0	LOCATION
+1.0	song	hold	Li	0	PERSON
+1.0	talk	resume after	break	DATE	DATE
+1.0	its	have	programme	O	O
+1.0	it	boycott forum at	US sanction	0	LOCATION
+1.0	it	boycott forum at	US sanction impose for money-laundering	0	LOCATION
+1.0	journalists	be very firm about	the	0	0
+1.0	song	tell	reporter	0	0
+1.0	negotiations	have	outcome	O	O
+1.0	we position	be	clear	0	0
+1.0	Li Zhaoxing	visit	Cebu	PERSON	LOCATION
+1.0	talk	end	meet again	DATE	DATE
+1.0	journalists	be	very firm	0	0
+1.0	it	boycott forum at	US financial sanction impose	0	LOCATION
+1.0	ministers	have	meeting	O	O
+1.0	song	hold talk on	regional security	0	0
+1.0	Li Zhaoxing	tell	journalist	PERSON	0
+1.0	China	have	minister	O	LOCATION
+1.0	song	hold	talk	0	0
+1.0	journalists	have	position	O	O
+1.0	journalists	be firm about	the	0	0
+1.0	North Korea	have	lifeline	O	LOCATION
+1.0	journalists	be firm about	the of nuclear	0	0
+1.0	Li Zhaoxing	visit	Cebu for meeting of minister	PERSON	LOCATION
+1.0	a possible repeat test	have	heard	O	O
+1.0	we position	be	very clear	0	0
+1.0	journalists	be firm about	the safeguard of nuclear	0	0
+1.0	Li Zhaoxing	visit	Cebu for meeting	PERSON	LOCATION
+1.0	it	boycott forum at	US financial sanction impose for money-laundering	0	LOCATION
+1.0	China 's	react angrily to	first test on October 9	LOCATION	ORDINAL
+1.0	it	boycott forum at	US sanction impose	0	LOCATION
+1.0	Li Zhaoxing	ask about	media report	PERSON	0
+1.0	China 's	react to	test	LOCATION	0
+1.0	six-nation talk	resume in	Beijing	DATE	LOCATION
+1.0	peninsula	have	peace	O	O
+1.0	talk	resume after	13-month break	DATE	DATE
+1.0	side	should solve problem through	talk framework	0	0
+1.0	song	later hold talk on	regional security	0	0
+1.0	country	act accord to	spirit	0	0
+1.0	six-nation talk	end without	apparent progress	DATE	DATE
+1.0	North	scrap	its nuclear programme	LOCATION	0
+0.4705461745546241	US sanction	impose for	money-laundering	LOCATION	0
+0.4705461745546241	US financial sanction	impose for	money-laundering	LOCATION	0
+1.0	it	boycott forum in	two month later protest	0	DATE
+1.0	talks	have	negotiations'	O	O
+1.0	it	boycott forum in	later protest	0	DATE
+1.0	its	have	programmes	O	O
+1.0	nuclear	have	the	O	O
+1.0	plans	have	know	O	O
+1.0	Li Zhaoxing	visit cebu with	regional partner nation	PERSON	0
+0.4705461745546241	US financial sanction	impose for	alleged money-laundering	LOCATION	0
+1.0	song	later hold talk on	security	0	0
+1.0	six-party session	be in	September 2005	0	DATE
+1.0	it	boycott	forum	0	0
+1.0	journalists	be very firm about	the of nuclear	0	0
+0.4705461745546241	US sanction	impose for	alleged money-laundering	LOCATION	0
+1.0	side	should solve	problem	0	0
+1.0	it	boycott forum at	US sanction impose for alleged money-laundering	0	LOCATION
+1.0	talk	resume in	Beijing	DATE	LOCATION
+1.0	Treaty	hope	journalists	0	0
+1.0	Beijing	have	opposition	LOCATION	0
+1.0	China 's	react to	first test	LOCATION	ORDINAL
+1.0	it	boycott forum at	US financial sanction	0	LOCATION
+1.0	preparations	have	media reports	O	O
+1.0	journalists	be very firm about	the safeguard of nuclear	0	0
+1.0	side	should solve problem through	six-party talk framework	0	0
+1.0	talk	resume at_time	last month	DATE	DATE
+1.0	song	later hold	talk	0	0
+1.0	country	act accord to	spirit of UN charter	0	ORGANIZATION
+1.0	North	agree at	six-party session in September 2005	LOCATION	DATE
+1.0	China 's	react angrily to	test on October 9	LOCATION	DATE
+1.0	North Korea	have	main economic lifeline	LOCATION	0
+1.0	six-nation talk	end	meet	DATE	0
+1.0	The six-nation talks	have	round	O	O
+1.0	journalists	be very firm about	the safeguard	0	0
+1.0	talk	resume at_time	month	DATE	DATE
+1.0	Li Zhaoxing	visit cebu with	partner nation	PERSON	0

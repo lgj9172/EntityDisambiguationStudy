@@ -1,0 +1,15 @@
+1.0	victim	suffer	burn	0	0
+1.0	other hospital	be in	area	0	0
+1.0	people	have	total	O	O
+1.0	world	have	biggest chemical maker	0	0
+1.0	all	be	decontaminate	0	0
+1.0	all	be decontaminate on	site	0	0
+1.0	world	have	chemicals maker	O	O
+1.0	hexamethylenediamine	have	leak	O	O
+1.0	plant	be in	England	0	LOCATION
+1.0	BASF headquarters	be in	Germany	ORGANIZATION	LOCATION
+1.0	event	have	cause	O	O
+1.0	BASF	maker 's	world	ORGANIZATION	0
+1.0	Seal Sands	be on	Teesside	LOCATION	LOCATION
+1.0	16 others	have	20	NUMBER	O
+1.0	BASF headquarters	send	statement	ORGANIZATION	0

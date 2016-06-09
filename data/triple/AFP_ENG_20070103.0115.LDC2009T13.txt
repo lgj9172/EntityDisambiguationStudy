@@ -1,0 +1,49 @@
+1.0	Spain 's rate	stand at	8.15 percent of workforce in third quarter of 2006	LOCATION	DATE
+1.0	Spain 's jobless rate	stand at	8.15 percent	LOCATION	PERCENT
+1.0	8.53 percent	be in	second	PERCENT	ORDINAL
+1.0	Spain 's jobless rate	stand down at	8.15 percent	LOCATION	PERCENT
+1.0	jobless total	come at	end	0	DATE
+1.0	jobless total	come at	end of December	0	DATE
+1.0	total	come to	2,022,873	0	NUMBER
+1.0	2006	have	quarter	DATE	DATE
+1.0	Spain 's rate	stand at	8.15 percent of workforce	LOCATION	PERCENT
+1.0	Spain 's jobless rate	stand at	8.15 percent of workforce	LOCATION	PERCENT
+1.0	job seeker	be in	Spain	0	LOCATION
+1.0	Spain 's jobless rate	stand down at	8.15 percent of workforce in quarter	LOCATION	DATE
+1.0	Spain 's jobless rate	stand down at	8.15 percent of workforce	LOCATION	PERCENT
+1.0	Spain 's jobless rate	stand at	8.15 percent of workforce in quarter of 2006	LOCATION	DATE
+1.0	Spain 's rate	stand at	8.15 percent of workforce in third quarter	LOCATION	DATE
+1.0	Spain 's rate	stand down at	8.15 percent of workforce	LOCATION	PERCENT
+1.0	increase	be in	unemployment	0	0
+1.0	unemployment	be in	December	0	DATE
+1.0	drop	be	also record	0	0
+1.0	Spain 's rate	stand at	8.15 percent of workforce in quarter of 2006	LOCATION	DATE
+1.0	drop	be also record in	2004	0	DATE
+1.0	jobless total	come to	2,022,873	0	NUMBER
+1.0	total	come at	end	0	DATE
+1.0	drop	be	record	0	0
+1.0	Spain 's rate	stand down at	8.15 percent of workforce in third quarter of 2006	LOCATION	DATE
+1.0	December	have	end	DATE	DATE
+1.0	Spain 's jobless rate	stand at	8.15 percent of workforce in third quarter	LOCATION	DATE
+1.0	Spain 's rate	stand down at	8.15 percent of workforce in third quarter	LOCATION	DATE
+1.0	workers	have	number	O	O
+1.0	Spain 's rate	stand at	8.15 percent of workforce in quarter	LOCATION	DATE
+1.0	jobless total	be in	Spain	0	LOCATION
+1.0	workforce	have	percent	PERCENT	O
+1.0	Spain 's jobless rate	stand down at	8.15 percent of workforce in quarter of 2006	LOCATION	DATE
+1.0	Spain	have	jobless rate	LOCATION	0
+1.0	Spain 's rate	stand down at	8.15 percent of workforce in quarter	LOCATION	DATE
+1.0	job seekers	have	number	O	O
+1.0	total	come at	end of December	0	DATE
+1.0	Spain 's jobless rate	stand down at	8.15 percent of workforce in third quarter of 2006	LOCATION	DATE
+1.0	labor ministry	report at_time	Wednesday	0	DATE
+1.0	number	decline	0.01 percent	0	PERCENT
+1.0	Spain 's jobless rate	stand at	8.15 percent of workforce in quarter	LOCATION	DATE
+1.0	Spain	have	rate	O	LOCATION
+1.0	Spain 's rate	stand down at	8.15 percent of workforce in quarter of 2006	LOCATION	DATE
+1.0	Spain 's jobless rate	stand at	8.15 percent of workforce in third quarter of 2006	LOCATION	DATE
+1.0	workforce	be in	the third quarter of 2006	0	DATE
+1.0	Spain 's jobless rate	stand down at	8.15 percent of workforce in third quarter	LOCATION	DATE
+1.0	drop	be record in	2004	0	DATE
+1.0	Spain 's rate	stand down at	8.15 percent	LOCATION	PERCENT
+1.0	Spain 's rate	stand at	8.15 percent	LOCATION	PERCENT

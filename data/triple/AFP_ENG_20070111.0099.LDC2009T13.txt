@@ -1,0 +1,48 @@
+1.0	Abuja office	be	search	LOCATION	0
+1.0	Wednesday	on service be	SSS	DATE	0
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past few month follow allegation of disloyalty against vice-president	PERSON	DURATION
+1.0	the Abuja Inquirer	have	spokesman Cajetan Izuagie	PERSON	O
+1.0	newspaper group	have	head	O	O
+1.0	Olusegun Obasanjo	be illegally shareholder in	private airline	PERSON	0
+1.0	shareholder	be in	private airline	0	0
+1.0	Abuja Inquirer	have	premises	O	ORGANIZATION
+1.0	Olusegun Obasanjo	be illegally shareholder in	airline	PERSON	0
+1.0	State Security Service	have	officers	O	ORGANIZATION
+1.0	country	in	Abuja	0	LOCATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past few month follow allegation	PERSON	DURATION
+1.0	State Security Service	be on	Wednesday	ORGANIZATION	DATE
+1.0	Olusegun Obasanjo	be	illegally shareholder	PERSON	0
+1.0	raid	come at_time	barely 24 hour	0	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past few month follow allegation of disloyalty against vice-president	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past month follow allegation of disloyalty	PERSON	DURATION
+1.0	weekly	have	edition	O	SET
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past month follow allegation of disloyalty	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past few month	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past few month follow allegation of disloyalty	PERSON	DURATION
+1.0	country	have	capital Abuja	LOCATION	O
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past month follow allegation	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past few month follow allegation of disloyalty	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in row in past month follow allegation	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past few month follow allegation	PERSON	DURATION
+1.0	story	be in	current edition of weekly	0	SET
+1.0	President Olusegun Obasanjo	have	have embroil	PERSON	0
+1.0	Olusegun Obasanjo	be	shareholder	PERSON	0
+1.0	private newspaper	be in	Abuja	0	LOCATION
+1.0	company	have	official	O	O
+1.0	President Olusegun Obasanjo	have	have embroil in row in past month	PERSON	DURATION
+1.0	newspaper	have	office	O	O
+1.0	management	say at_time	Thursday	0	DATE
+1.0	Olusegun Obasanjo	be shareholder in	airline	PERSON	0
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past month follow allegation of disloyalty against vice-president	PERSON	DURATION
+1.0	Olusegun Obasanjo	be shareholder in	private airline	PERSON	0
+1.0	disloyalty	have	allegations	O	O
+1.0	simmer row	be in	the past few month	0	DURATION
+1.0	because story	be in	January 8-14 edition	0	DATE
+1.0	President Olusegun Obasanjo	have	have embroil in row in past month follow allegation of disloyalty against vice-president	PERSON	DURATION
+1.0	Olusegun Obasanjo	have	deputy	O	O
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past few month	PERSON	DURATION
+1.0	President Olusegun Obasanjo	have	have embroil in simmer row in past month	PERSON	DURATION
+1.0	Abuja Inquirer	be on	Wednesday	LOCATION	DATE
+1.0	corruption	have	allegations	O	O
+1.0	Leadership newspaper	have	Abuja office	O	O
+1.0	story	have	raid	O	O

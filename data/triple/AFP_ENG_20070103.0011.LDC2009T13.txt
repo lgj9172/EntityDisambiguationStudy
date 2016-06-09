@@ -1,0 +1,107 @@
+1.0	he	have battle	injury	0	0
+1.0	I	be go	deal	0	0
+1.0	it	be simple as	that	0	0
+1.0	damage	go	he play future	0	DATE
+1.0	Agassi	with	support team	PERSON	0
+1.0	it	be	as simple	0	0
+1.0	Agassi	have	support team	O	PERSON
+0.6748943585168294	damage	hand	he future	0	DATE
+0.9828340778400869	beaten finalist	open in	2003	0	DATE
+1.0	damage	now rest in	hand	0	0
+1.0	Philippoussis	spend at_time	few month	PERSON	DURATION
+1.0	I	be go	deal with	0	0
+1.0	Philippoussis	cite	example of american Andre Agassi	PERSON	PERSON
+1.0	it	be	very clear	0	0
+1.0	Philippoussis	spend at_time	last few month	PERSON	DURATION
+1.0	injury-plagued player Mark Philippoussis	return to	court	PERSON	0
+1.0	it	be	clear	0	0
+1.0	damage	now rest in	hand with Philippoussis	0	PERSON
+1.0	prognosis	be	worse	0	0
+1.0	he	still have	something offer	0	0
+1.0	Sydney surgeon	have	hands	O	O
+1.0	damage	go	he future	0	DATE
+1.0	damage	now rest	go	0	0
+1.0	damage	rest	he play future	0	DATE
+1.0	damage	rest in	hand of Sydney surgeon with Philippoussis	0	LOCATION
+0.9828340778400869	finalist	open in	2003	0	DATE
+1.0	damage	go under	knife	0	0
+1.0	Hamish Osborne	be	Hopman Cup	PERSON	MISC
+1.0	injury-plagued player Mark Philippoussis	have vow	return	PERSON	0
+1.0	damage	now rest	go under knife	0	0
+1.0	injury	be to	he good knee	0	0
+1.0	Philippoussis	be for	at least two month	PERSON	DURATION
+1.0	no. 8	be in	world	NUMBER	0
+1.0	his	have	passion	O	O
+1.0	damage	rest in	hand of Sydney surgeon	0	LOCATION
+1.0	damage	rest	go under knife on Thursday	0	DATE
+1.0	damage	rest in	hand	0	0
+1.0	damage	now rest	go under knife on Thursday	0	DATE
+1.0	Philippoussis	cite	example of Andre Agassi	PERSON	PERSON
+1.0	Mark Philippoussis	be	australian	PERSON	0
+1.0	Grand Slam	have	singles	O	O
+1.0	injury	be likely to	sideline Philippoussis	0	PERSON
+1.0	injury	be to	he knee	0	0
+1.0	he	have battle injury for	three year	0	DURATION
+1.0	you	stay	physically strong	0	0
+1.0	injury	be	likely	0	0
+1.0	Grand Slam	have	knee	O	O
+1.0	he	have	something offer	0	0
+1.0	australian player Mark Philippoussis	have vow	return to court	PERSON	0
+1.0	injury	operate	he knee	0	0
+1.0	Andre Agassi	have	example	O	PERSON
+1.0	he	have battle injury for	last three year	0	DURATION
+1.0	Philippoussis	have	size	O	PERSON
+1.0	Philippoussis	cite	example	PERSON	0
+1.0	damage	rest	he future	0	DATE
+1.0	you	keep	go	0	0
+1.0	damage	now rest in	hand of Sydney surgeon with Philippoussis	0	LOCATION
+1.0	injury	be likely to	sideline Philippoussis for at least two month	0	DURATION
+1.0	Philippoussis	again cite	example of american Andre Agassi	PERSON	PERSON
+1.0	it	be as simple as	that	0	0
+1.0	you	stay	strong	0	0
+1.0	his	have	knee	O	O
+1.0	it	be	disappointing	0	0
+1.0	it	be	simple	0	0
+1.0	he	however have battle	injury	0	0
+1.0	214th	be in	world	0	0
+1.0	damage	go under	knife on Thursday	0	DATE
+1.0	people	use	be think	0	0
+1.0	player Mark Philippoussis	return to	court	PERSON	0
+1.0	he	however have battle injury for	three year	0	DURATION
+1.0	injury-plagued australian player Mark Philippoussis	have vow	return	PERSON	0
+1.0	they	get in	there	0	0
+1.0	Philippoussis	again cite	example	PERSON	0
+1.0	you	want	do	0	0
+1.0	player Mark Philippoussis	have vow	return	PERSON	0
+1.0	damage	now rest	he future	0	DATE
+1.0	australian player Mark Philippoussis	have vow	return	PERSON	0
+1.0	australian player Mark Philippoussis	return to	court	PERSON	0
+1.0	he	have	something	0	0
+1.0	damage	rest	go under knife	0	0
+1.0	injury-plagued australian player Mark Philippoussis	have vow	return to court	PERSON	0
+1.0	Dmitry Tursunov	win over	world no. 22	PERSON	NUMBER
+1.0	injury-plagued player Mark Philippoussis	have vow	return to court	PERSON	0
+1.0	injury-plagued australian player Mark Philippoussis	return to	court	PERSON	0
+1.0	injury	have	extent	O	O
+1.0	Philippoussis	have	have rank	PERSON	0
+1.0	Philippoussis	spend at_time	month	PERSON	0
+1.0	he	however have battle injury for	last three year	0	DURATION
+1.0	damage	now rest in	hand of Sydney surgeon	0	LOCATION
+1.0	damage	rest in	hand with Philippoussis	0	PERSON
+1.0	passion	have	none	O	O
+1.0	France	with	evening	LOCATION	TIME
+1.0	hand	be with	Injury-plagued Australian player Mark Philippoussis	0	PERSON
+1.0	he	still have	something	0	0
+1.0	Australian	undergo	knee surgery	MISC	0
+1.0	injury	operate	he left knee	0	0
+0.6748943585168294	damage	hand	he play future	0	DATE
+1.0	The 30-year-old dual Grand Slam finalist tore the lateral meniscus in his right knee during his singles	have	future	DATE	O
+1.0	prognosis	be	much worse	0	0
+1.0	damage	rest	go	0	0
+1.0	player Mark Philippoussis	have vow	return to court	PERSON	0
+1.0	Andre Agassi	be of	american	PERSON	0
+1.0	Philippoussis	again cite	example of Andre Agassi	PERSON	PERSON
+1.0	damage	now rest	he play future	0	DATE
+1.0	Philippoussis	spend at_time	last month	PERSON	DURATION
+1.0	he	knee	Philippoussis	0	PERSON
+1.0	France	have	Jerome Haehnel Tuesday evening	TIME	LOCATION

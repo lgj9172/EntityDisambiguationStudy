@@ -1,0 +1,43 @@
+1.0	Britain	have	ambassador	LOCATION	0
+1.0	Ban	have	spokeswoman	O	O
+1.0	Holmes , 56	work for	year on Britain 's aid	PERSON	LOCATION
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	several group of	eight summit in 1990	0	0
+1.0	he experience	be in	humanitarian affair	0	0
+1.0	Norway	have	Jan Egeland	PERSON	LOCATION
+1.0	Ban Ki-moon	be	the United Nations	PERSON	ORGANIZATION
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	several group of eight summit in late 1990	0	DURATION
+1.0	UN Secretary General Ban Ki-moon	have	undersecretary general	O	O
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	group of eight summit	0	0
+1.0	Holmes , 56	work to	India	PERSON	LOCATION
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	group of	eight summit in 1990	0	0
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	group	0	0
+1.0	Holmes 56	will replace	Jan Egeland	PERSON	PERSON
+1.0	he experience	be	limit	0	0
+1.0	Holmes	become with	new post	PERSON	0
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	have	experience	O	O
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	several group of eight summit	0	DURATION
+1.0	Tony Blair	be from	1997-1999	PERSON	DATE
+1.0	Britain	have	aid	O	LOCATION
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	have	job	O	O
+1.0	Jan Egeland	be of	Norway	PERSON	LOCATION
+1.0	eight summit	be in	1990	0	0
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	group of	eight summit in late 1990	0	0
+1.0	Holmes	become with	post	PERSON	0
+1.0	Holmes	become	highest	PERSON	0
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	several group of eight summit in 1990	0	DURATION
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend group with	Prime Minister Tony Blair from 1997-1999	0	PERSON
+1.0	Holmes , 56	work for	year	PERSON	0
+1.0	Britain	have	ambassador	O	LOCATION
+1.0	Holmes , 56	will replace	Jan Egeland	PERSON	PERSON
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	group of eight summit in late 1990	0	0
+1.0	summits	have	Group	O	O
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	several group of	eight summit	0	0
+1.0	France	be	John Holmes	LOCATION	PERSON
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	group of eight summit in 1990	0	0
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	group of	eight summit	0	0
+1.0	Ban Ki-moon	be secretary general of	the United Nations	PERSON	ORGANIZATION
+1.0	Holmes , 56	be	56	PERSON	NUMBER
+0.6652035501141991	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	several group of	eight summit in late 1990	0	0
+1.0	Britain	on	aid	LOCATION	0
+1.0	ban	have	spokeswoman	0	0
+1.0	Holmes -- who also served as an adviser to Prime Minister Tony Blair from 1997-1999 and as ambassador to Lisbon --	attend	several group	0	DURATION

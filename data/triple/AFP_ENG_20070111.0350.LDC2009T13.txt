@@ -1,0 +1,54 @@
+1.0	bulgarian authority	report	outbreak	0	0
+1.0	service	order	culling of infected poultry	0	0
+1.0	disease	have	spread	O	O
+1.0	bulgarian authority	report outbreak in	poultry in the	0	0
+1.0	veterinary authority	report northwest	outbreak	0	0
+1.0	bulgarian authority	report outbreak in	poultry	0	0
+1.0	industrial poultry farm	be in	region	0	0
+1.0	veterinary service	order	culling of infected poultry	0	0
+1.0	authority	report outbreak in	poultry	0	0
+1.0	bulgarian authority	report northwest	outbreak	0	0
+1.0	bulgarian veterinary authority	report	outbreak	0	0
+1.0	veterinary authority	report outbreak northwest in	poultry in the	0	0
+1.0	veterinary authority	report outbreak northwest in	poultry	0	0
+1.0	ban	be impose in	area	0	0
+1.0	veterinary authority	report	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	authority	report northwest	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	bulgarian veterinary authority	report	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	bulgarian veterinary authority	report outbreak in	poultry	0	0
+1.0	ban	be	impose	0	0
+1.0	veterinary authority	report northwest	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	poultry	be in	the	0	0
+1.0	bulgarian authority	report outbreak northwest in	poultry in the	0	0
+1.0	version	have	died	O	O
+1.0	bird flu	have	version	O	O
+1.0	people	keep	they bird pen in	0	0
+1.0	bulgarian veterinary authority	report northwest	outbreak	0	0
+1.0	bulgarian veterinary authority	report outbreak in	poultry in the	0	0
+1.0	ban	be	also impose	0	0
+1.0	poultry	have	culling	O	O
+1.0	bulgarian authority	report northwest	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	veterinary authority	report outbreak in	poultry in the	0	0
+1.0	authority	report outbreak northwest in	poultry in the	0	0
+1.0	birds	have	culling	O	O
+1.0	authority	report	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	bulgarian authority	report outbreak northwest in	poultry	0	0
+1.0	ban	be also impose in	area	0	0
+1.0	authority	report outbreak northwest in	poultry	0	0
+1.0	authority	report northwest	outbreak	0	0
+1.0	veterinary authority	report outbreak in	poultry	0	0
+1.0	authority	report	outbreak	0	0
+1.0	bulgarian veterinary authority	report northwest	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	people	keep	they bird	0	0
+1.0	humans	have	birds	O	O
+1.0	bulgarian authority	report	outbreak of Newcastle disease	0	ORGANIZATION
+1.0	authority	report outbreak in	poultry in the	0	0
+1.0	people	keep	they bird pen	0	0
+1.0	veterinary authority	report	outbreak	0	0
+1.0	Gigen	have	village	O	LOCATION
+1.0	country	have	northwest	O	O
+1.0	bulgarian veterinary authority	report outbreak northwest in	poultry in the	0	0
+0.8185855053700594	bird	raise in	five backyard	0	NUMBER
+1.0	bulgarian veterinary authority	report outbreak northwest in	poultry	0	0
+1.0	people	be	urge	0	0
+1.0	Newcastle disease	have	outbreak	O	O

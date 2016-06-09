@@ -1,0 +1,99 @@
+1.0	Daniel Ortega	be with	overnight stop in San Francisco	PERSON	LOCATION
+1.0	Latin America	be	main battleground	LOCATION	0
+1.0	Latin America	be	main diplomatic battleground	LOCATION	0
+1.0	Latin America	be battleground for	rival Taiwan	LOCATION	LOCATION
+1.0	Latin America	be diplomatic battleground for	rival Taiwan	LOCATION	LOCATION
+1.0	he	be bar from	high-profile transit in New York	0	LOCATION
+1.0	Latin America	main battleground	Africa	LOCATION	LOCATION
+1.0	Ortega 's government	re-establish relation with	it	PERSON	0
+1.0	Latin America	diplomatic battleground	South Pacific	LOCATION	LOCATION
+1.0	Ortega 's government	re-establish relation in	1990	PERSON	DATE
+1.0	China	await	reunification	LOCATION	0
+1.0	China	await	reunification by force	LOCATION	0
+1.0	way home	criticism from	opposition	0	0
+1.0	territory	have	part	O	O
+1.0	Nicaragua	sever tie with	Taiwan 's	LOCATION	LOCATION
+1.0	Latin America	battleground	Africa	LOCATION	LOCATION
+1.0	he	be bar from	transit	0	0
+1.0	official	say at_time	Friday	0	DATE
+1.0	he	be	bar	0	0
+1.0	its	have	territory	O	O
+1.0	China	await	reunification by force necessary	LOCATION	0
+1.0	Taiwan	sever	tie	LOCATION	0
+1.0	President-elect Ortega	have since trade	he marxist policy	PERSON	0
+1.0	Latin America	main battleground	South Pacific	LOCATION	LOCATION
+1.0	overnight stop	be in	San Francisco	TIME	LOCATION
+1.0	Ortega	win	Nicaragua 's presidential election	PERSON	LOCATION
+1.0	Taiwan	be in	1985	LOCATION	DATE
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody war against Contra rebel	0	ORGANIZATION
+1.0	Ortega	win	Nicaragua 's election	PERSON	LOCATION
+1.0	Nicaragua	have	election	O	LOCATION
+1.0	office	have	voted	O	O
+1.0	Taiwan	have	Chen Shui-bian	LOCATION	PERSON
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody war against us-backed Contra rebel	0	ORGANIZATION
+1.0	November	have	election	O	DATE
+1.0	Latin America	main diplomatic battleground	South Pacific	LOCATION	LOCATION
+1.0	high-profile transit	be in	New York	0	LOCATION
+1.0	Latin America	main diplomatic battleground	Africa	LOCATION	LOCATION
+1.0	Nicaragua	have	presidential election	LOCATION	0
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end	0	0
+1.0	Nicaragua	sever again	tie	LOCATION	0
+1.0	Nicaragua	sever tie again with	Taiwan 's	LOCATION	LOCATION
+1.0	Latin America	diplomatic battleground	Africa	LOCATION	LOCATION
+1.0	Sandinista Party	have	President-elect Ortega	PERSON	ORGANIZATION
+1.0	President-elect Ortega	be of	Sandinista Party	PERSON	ORGANIZATION
+1.0	Taiwan 's President Chen Shui-bian	be vote out of	office	0	0
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of civil war against us-backed Contra rebel	0	ORGANIZATION
+1.0	Chen	rebuff	Washington 's offer	PERSON	LOCATION
+1.0	Chen Shui-bian	be president of	Taiwan	PERSON	LOCATION
+1.0	Chen	rebuff route	Washington 's offer for stopover in Alaska	PERSON	LOCATION
+1.0	Taiwan	sever tie with	Nicaragua	LOCATION	LOCATION
+1.0	Washington	have	offer for stopover in Alaska	LOCATION	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody civil war against us-backed Contra rebel	0	ORGANIZATION
+1.0	visit	come amid	speculation	0	0
+1.0	Ortega 's government	re-establish	diplomatic relation	PERSON	0
+1.0	Chad	switch recognition in	August 2006	LOCATION	DATE
+1.0	he	be bar from	high-profile transit	0	0
+1.0	Latin America	be main battleground for	rival Taiwan	LOCATION	LOCATION
+1.0	his	have	policies	O	O
+1.0	Nicaragua	sever	tie	LOCATION	0
+1.0	Ortega 's government	recognize	Beijing	PERSON	LOCATION
+1.0	Nicaragua	sever again	diplomatic tie	LOCATION	0
+1.0	Chen	rebuff route	Washington 's offer for stopover	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	jeopardise	tie	0	0
+1.0	Latin America	be	battleground	LOCATION	0
+1.0	Latin America	be main diplomatic battleground for	rival Taiwan	LOCATION	LOCATION
+1.0	Nicaragua	sever	diplomatic tie	LOCATION	0
+1.0	Latin America	be	diplomatic battleground	LOCATION	0
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of war	0	0
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody civil war against Contra rebel	0	ORGANIZATION
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of war against us-backed Contra rebel	0	ORGANIZATION
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody war	0	0
+1.0	President-elect Ortega	have	government	O	PERSON
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of bloody civil war	0	0
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of civil war	0	0
+1.0	President-elect Ortega	have	government	PERSON	0
+1.0	China	regard	island	LOCATION	0
+1.0	Taiwan 's President Chen Shui-bian	jeopardise tie with	US	0	LOCATION
+1.0	Taiwan	have	President Chen Shui-bian	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	be	vote	0	0
+1.0	Daniel Ortega	have	inauguration	O	PERSON
+1.0	Chen	rebuff	Washington 's offer for stopover	PERSON	LOCATION
+1.0	Ortega 's government	re-establish	relation	PERSON	0
+1.0	President-elect Ortega	have trade	he marxist policy	PERSON	0
+1.0	war	have	end	O	O
+1.0	transit stop	be in	United States	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of civil war against Contra rebel	0	ORGANIZATION
+1.0	China	regard island as	part	LOCATION	0
+1.0	Washington	have	offer	O	LOCATION
+1.0	stopover	be in	Alaska	0	LOCATION
+1.0	he	be bar from	transit in New York	0	LOCATION
+1.0	Latin America	battleground	South Pacific	LOCATION	LOCATION
+1.0	China	regard island as	part of its territory	LOCATION	0
+1.0	President-elect Ortega	have trade	he policy	PERSON	0
+1.0	Chad	switch recognition to	Beijing	LOCATION	LOCATION
+1.0	President-elect Ortega	have since trade	he policy	PERSON	0
+1.0	Chen	rebuff route	Washington 's offer	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	be vote at	end of war against Contra rebel	0	ORGANIZATION
+1.0	Chad	switch	recognition	LOCATION	0
+1.0	Chen	rebuff	Washington 's offer for stopover in Alaska	PERSON	LOCATION

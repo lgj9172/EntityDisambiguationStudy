@@ -1,0 +1,75 @@
+1.0	report	say at_time	Friday	0	DATE
+1.0	Nikkei business	partner with	auto group in russian market	MISC	0
+1.0	Mitsubishi 's	would become	japanese automaker	ORGANIZATION	0
+0.5316915283342866	50 billion yen	factory in	suburb of Saint Petersburg with annual output capacity of 200,000 vehicle	MONEY	NUMBER
+1.0	psa Peugeot Citroen Group	be of	France	ORGANIZATION	LOCATION
+1.0	Nikkei business	partner with	french auto group	MISC	0
+1.0	Nikkei business	partner with	french auto group in market	MISC	0
+0.5316915283342866	50 billion yen	factory in	suburb of Saint Petersburg with output capacity of 200,000 vehicle	MONEY	NUMBER
+0.501808251894143	produce	generation of	Mitsubishi 's Lancer midsize sedan	0	MISC
+1.0	sale	stand	50 percent increase in five year	0	DURATION
+1.0	new car	be in	Russia	0	LOCATION
+1.0	vehicles	have	output capacity	O	O
+1.0	Russia	remain	one of bright spot	LOCATION	NUMBER
+1.0	sale	stand	50 percent increase	0	PERCENT
+1.0	France	have	PSA Peugeot Citroen Group	ORGANIZATION	LOCATION
+1.0	Japanese automaker Mitsubishi Motors	establish	local manufacturing base	ORGANIZATION	0
+0.5316915283342866	50 billion yen	factory in	suburb	MONEY	0
+1.0	50 percent increase	be in	five year	PERCENT	DURATION
+0.7642830157875264	side	factory in	suburb of Saint Petersburg with output capacity	0	LOCATION
+1.0	Mitsubishi	have	Lancer sedan	O	ORGANIZATION
+1.0	year	have	end	DATE	DATE
+1.0	Russia	remain	one spot	LOCATION	NUMBER
+1.0	competitor	be in	north american	0	0
+1.0	Russia	remain	one of limited bright spot	LOCATION	NUMBER
+1.0	sale	stand	at some 1.8 million vehicle	0	NUMBER
+1.0	popular car	be in	Russia	0	LOCATION
+1.0	Mitsubishi 's	have	plans	O	O
+0.7642830157875264	two side	factory in	suburb of Saint Petersburg	NUMBER	LOCATION
+1.0	spots	have	one	NUMBER	O
+1.0	Japanese automaker Mitsubishi Motors	establish	manufacturing base	ORGANIZATION	0
+1.0	Russia	remain	one limited spot	LOCATION	NUMBER
+1.0	Russia	remain	one of limited spot	LOCATION	NUMBER
+1.0	Nikkei business	partner with	auto group in promising russian market	MISC	0
+1.0	Nikkei business	partner with	french auto group in promising market	MISC	0
+0.7642830157875264	side	factory in	suburb of Saint Petersburg with output capacity of 200,000 vehicle	0	NUMBER
+1.0	Mitsubishi 's	would become	third japanese automaker	ORGANIZATION	ORDINAL
+1.0	Mitsubishi 's	would become	third automaker	ORGANIZATION	ORDINAL
+0.7642830157875264	side	factory in	suburb	0	0
+0.7642830157875264	two side	factory in	suburb of Saint Petersburg with annual output capacity	NUMBER	LOCATION
+1.0	Nikkei business	partner with	auto group in promising market	MISC	0
+0.5316915283342866	50 billion yen	factory in	suburb of Saint Petersburg with output capacity	MONEY	LOCATION
+0.501808251894143	produce	next generation of	Mitsubishi 's Lancer sedan	0	MISC
+1.0	Mitsubishi 's	supply	its Outlander sport utility vehicle	ORGANIZATION	0
+1.0	manufacture site	be in	Russia	0	LOCATION
+1.0	Nikkei business	partner with	auto group	MISC	0
+0.501808251894143	produce	next generation of	Mitsubishi 's Lancer midsize sedan	0	MISC
+1.0	sale	stand	50 percent increase in just five year	0	DURATION
+0.7642830157875264	side	factory in	suburb of Saint Petersburg	0	LOCATION
+1.0	french auto group	be in	promising russian market	0	0
+1.0	Nikkei business	partner with	french auto group in russian market	MISC	0
+0.501808251894143	produce	generation of	Mitsubishi 's Lancer sedan	0	MISC
+1.0	1.8 million vehicle	increase in	five year	NUMBER	DURATION
+1.0	Mitsubishi	of	Lancer midsize sedan	ORGANIZATION	MISC
+0.5316915283342866	50 billion yen	factory in	suburb of Saint Petersburg	MONEY	LOCATION
+0.7642830157875264	side	factory in	suburb of Saint Petersburg with annual output capacity of 200,000 vehicle	0	NUMBER
+0.7642830157875264	two side	factory in	suburb	NUMBER	0
+0.7642830157875264	two side	factory in	suburb of Saint Petersburg with output capacity	NUMBER	LOCATION
+1.0	Saint Petersburg	be with	annual output capacity of 200,000 vehicle	LOCATION	NUMBER
+1.0	Nikkei business	partner with	french auto group in promising russian market	MISC	0
+1.0	Russia	remain	one bright spot	LOCATION	NUMBER
+1.0	Saint Petersburg	have	suburbs	O	LOCATION
+1.0	Russia	remain	one of spot	LOCATION	NUMBER
+1.0	Mitsubishi 's	would become	automaker	ORGANIZATION	0
+1.0	Mitsubishi Motors	be	japanese	ORGANIZATION	0
+1.0	factory	be in	suburb of Saint Petersburg with annual output capacity of 200,000 vehicle	0	NUMBER
+0.7642830157875264	two side	factory in	suburb of Saint Petersburg with annual output capacity of 200,000 vehicle	NUMBER	NUMBER
+1.0	cars	have	sales	O	O
+0.5316915283342866	50 billion yen	factory in	suburb of Saint Petersburg with annual output capacity	MONEY	LOCATION
+1.0	Mitsubishi 's	have	Outlander sport utility vehicle	O	O
+0.34918140689127997	sale	stand in	2005	0	DATE
+1.0	Nikkei business	partner with	auto group in market	MISC	0
+1.0	Russia	remain	one limited bright spot	LOCATION	NUMBER
+0.7642830157875264	two side	factory in	suburb of Saint Petersburg with output capacity of 200,000 vehicle	NUMBER	NUMBER
+0.7642830157875264	side	factory in	suburb of Saint Petersburg with annual output capacity	0	LOCATION
+1.0	Lancer sedan	have	generation	O	O

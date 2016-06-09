@@ -1,0 +1,13 @@
+1.0	Vienna	be to	New Delhi	LOCATION	LOCATION
+1.0	plane	make	emergency landing	0	0
+1.0	report	say at_time	Saturday	0	DATE
+1.0	intimidation	have	charges	O	O
+1.0	indian man	quote	unnamed security official	0	ORGANIZATION
+1.0	bomb disposal squad	be	dispatch	0	0
+1.0	alcohol	have	amount	O	O
+1.0	plane	make emergency landing in	New Delhi	0	LOCATION
+1.0	India	have	Press Trust	ORGANIZATION	ORGANIZATION
+1.0	man	quote	unnamed security official	0	ORGANIZATION
+1.0	bomb disposal squad	be dispatch after	threat	0	0
+1.0	man	quote	security official	0	ORGANIZATION
+1.0	indian man	quote	security official	0	ORGANIZATION

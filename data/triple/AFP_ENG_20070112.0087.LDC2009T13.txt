@@ -1,0 +1,62 @@
+1.0	waterway	reach	Atlantic	0	LOCATION
+1.0	waterway	constitute	naval route for vessel	0	0
+1.0	Turkey	have	city	O	LOCATION
+1.0	two waterway	be list among	crowded waterway	NUMBER	0
+0.9156600909523984	trade vessel	right of	passage in time	0	0
+1.0	peace	have	times	O	O
+1.0	two waterway	constitute	main naval route for ukrainian vessel	NUMBER	0
+1.0	two waterway	constitute	main route	NUMBER	0
+1.0	waterway	be list among	waterway in world	0	0
+1.0	two waterway	reach	Atlantic	NUMBER	LOCATION
+1.0	two waterway	constitute	route for vessel	NUMBER	0
+1.0	waterway	be list among	most crowded waterway	0	0
+1.0	two waterway	be list among	crowded waterway in world	NUMBER	0
+1.0	waterway	constitute	route for ukrainian vessel	0	0
+1.0	two waterway	constitute	main naval route for vessel	NUMBER	0
+1.0	waterway	constitute	naval route	0	0
+1.0	Turkey 's biggest city	through cut be	Istanbul	LOCATION	LOCATION
+1.0	waterway	be	list	0	0
+1.0	waterway	be list among	crowded waterway	0	0
+1.0	waterways	have	two	NUMBER	O
+1.0	Istanbul	have	southwest	O	LOCATION
+1.0	two waterway	be	list	NUMBER	0
+1.0	two waterway	be list among	waterway	NUMBER	0
+1.0	their	have	closure	O	O
+1.0	waterway	constitute	main route for ukrainian vessel	0	0
+1.0	waterway	be list among	crowded waterway in world	0	0
+1.0	waterway	constitute	main route for vessel	0	0
+1.0	Atlantic	be via	Mediterranean	LOCATION	LOCATION
+1.0	two waterway	reach	Atlantic via Mediterranean	NUMBER	LOCATION
+1.0	passage	be in	time of peace	0	0
+1.0	Turkey	have	the Bosphorus	LOCATION	LOCATION
+1.0	two waterway	constitute	main naval route	NUMBER	0
+1.0	world	have	waterways	O	O
+1.0	waterway	constitute	main route	0	0
+1.0	the Bosphorus	two of	world 's busiest waterway	LOCATION	0
+1.0	two waterway	constitute	naval route for vessel	NUMBER	0
+1.0	two waterway	be list among	most crowded waterway in world	NUMBER	0
+1.0	waterway	constitute	main naval route for vessel	0	0
+1.0	waterway	reach	Atlantic via Mediterranean	0	LOCATION
+1.0	two waterway	constitute	route for ukrainian vessel	NUMBER	0
+1.0	waterway	constitute	route	0	0
+1.0	two waterway	constitute	main route for vessel	NUMBER	0
+0.9156600909523984	trade vessel	right of	passage in time of peace	0	0
+1.0	Turkey	through	biggest city	LOCATION	0
+1.0	world	of	busiest waterway	0	0
+1.0	two waterway	constitute	route	NUMBER	0
+1.0	waterway	constitute	main naval route for ukrainian vessel	0	0
+1.0	two waterway	constitute	main route for ukrainian vessel	NUMBER	0
+1.0	Turkey	's bosphorus be	two	LOCATION	NUMBER
+1.0	waterway	constitute	route for vessel	0	0
+1.0	waterway	be list among	waterway	0	0
+1.0	waterway	constitute	naval route for ukrainian vessel	0	0
+1.0	waterway	be list among	most crowded waterway in world	0	0
+0.9156600909523984	trade vessel	right of	passage	0	0
+1.0	traffic	be	regulate	0	0
+1.0	two waterway	constitute	naval route	NUMBER	0
+1.0	two waterway	constitute	naval route for ukrainian vessel	NUMBER	0
+1.0	two waterway	be list among	most crowded waterway	NUMBER	0
+1.0	two waterway	be list among	waterway in world	NUMBER	0
+1.0	crowded waterway	be in	world	0	0
+1.0	passage	have	right	O	O
+1.0	waterway	constitute	main naval route	0	0

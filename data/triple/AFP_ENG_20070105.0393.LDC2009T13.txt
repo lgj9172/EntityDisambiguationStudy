@@ -1,0 +1,56 @@
+1.0	Albert	be of	Belgians	PERSON	MISC
+1.0	euros	have	navy	O	MONEY
+1.0	member	be	under which exempt	0	0
+1.0	scandal	have take on	political dimension	0	0
+1.0	monarch 's son	appear as	witness	0	0
+1.0	scandal	have take despite	denial	0	0
+1.0	Prince Laurent	be	youngest	PERSON	0
+1.0	children	have	youngest	O	O
+1.0	Prince Laurent	be youngest of	King Albert II 's three child	PERSON	NUMBER
+1.0	member	be	exempt	0	0
+1.0	prince	have deny	knowledge of fraudulent origin of fund	0	0
+1.0	Noel Vaessen	claim at_time	month	PERSON	DATE
+1.0	monarch 's youngest son	appear as	witness	0	0
+1.0	Noel Vaessen	claim at_time	last month	PERSON	DATE
+1.0	defendant	defraud	navy of some two million euro	0	MONEY
+1.0	onkelinx	have draft	decree	0	0
+1.0	Vaessen	claim at_time	month	PERSON	DATE
+1.0	Albert II	of	three child	PERSON	NUMBER
+1.0	King Albert II	have	children	O	PERSON
+1.0	member	appear in	court of law	0	0
+1.0	His	have	wife Claire	PERSON	O
+1.0	court	consider	it appropriate	0	0
+1.0	unity	have	symbols	O	O
+1.0	he	son	Prince Laurent	0	PERSON
+1.0	monarch	's son be	naval officer	0	0
+1.0	a court	summon	he	0	0
+1.0	Noel Vaessen	apply to	Justice Minister Laurette Onkelinx	PERSON	PERSON
+0.6731608235955824	Noel Vaessen	former aide to	Prince Laurent	PERSON	PERSON
+1.0	symbols	have	one	NUMBER	O
+1.0	monarch	have	son	O	O
+1.0	defendant	be	allege	0	0
+1.0	justice ministry	say at_time	Friday	0	DATE
+1.0	defendant	defraud	navy	0	0
+1.0	Vaessen	claim before	press	PERSON	0
+1.0	funds	have	origin	O	O
+1.0	monarch	have	youngest son	0	0
+1.0	court	be in	fraud trial	0	0
+1.0	15	have	One	NUMBER	NUMBER
+1.0	law	have	courts	O	O
+1.0	scandal	touch	royal	0	0
+1.0	money	have	some	O	O
+1.0	euros	have	tune	O	MONEY
+1.0	member	appear in	court	0	0
+1.0	Prince Laurent 's privilege	be in	event	PERSON	0
+1.0	scandal	have take on	dimension	0	0
+1.0	Vaessen	claim at_time	last month	PERSON	DATE
+1.0	15	of one be	Noel Vaessen	NUMBER	PERSON
+1.0	royal family	have	members	O	O
+1.0	origin	have	knowledge	O	O
+1.0	Prince Laurent	have	privilege	O	PERSON
+1.0	Noel Vaessen	aide to	Prince Laurent	PERSON	PERSON
+1.0	King Albert II 's	have	son	O	O
+1.0	autonomy	have	degree	O	O
+1.0	francophone population	have	degree	O	O
+1.0	Belgians	have	King Albert	PERSON	MISC
+1.0	Laurent	have	privilege in event	PERSON	0

@@ -1,0 +1,4 @@
+1.0	benchmark sp/asx 200	rise	44.0 point	NUMBER	NUMBER
+1.0	benchmark sp/asx	rise	44.0 point	0	NUMBER
+0.28627611980559997	benchmark sp/asx	rise to	5,564.9	0	NUMBER
+0.28627611980559997	benchmark sp/asx 200	rise to	5,564.9	NUMBER	NUMBER

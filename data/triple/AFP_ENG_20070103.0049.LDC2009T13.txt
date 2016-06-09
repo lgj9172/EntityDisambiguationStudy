@@ -1,0 +1,16 @@
+1.0	France	have	state budget plan	O	LOCATION
+1.0	euros	have	tune	O	MONEY
+1.0	it	give	figure	0	0
+1.0	parliament	be in	December	0	DATE
+1.0	budget ministry	have say in	November	0	DATE
+1.0	France	have	state budget plan for 2006	LOCATION	DATE
+1.0	it	give	precise figure	0	0
+1.0	France	have	budget deficit	O	LOCATION
+1.0	budget minister Jean-Francois Cope	say on	Wednesday	PERSON	DATE
+1.0	...	tell	France television	0	LOCATION
+1.0	it	be early	little	0	0
+1.0	France	have	budget deficit for 2006	LOCATION	DATE
+1.0	5.1 billion euro	be in	2006	MONEY	DATE
+1.0	junior budget minister Jean-Francois Cope	say on	Wednesday	PERSON	DATE
+1.0	...	tell	France 2 state television	0	LOCATION
+1.0	it	be	early	0	0

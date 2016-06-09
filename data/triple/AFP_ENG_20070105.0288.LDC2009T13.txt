@@ -1,0 +1,45 @@
+1.0	bus	be	full	0	0
+1.0	Tigers	accuse	government force penetrate into they area in north	ORGANIZATION	0
+1.0	bus	be	full of passenger at time	0	DATE
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	bomb	rip through	passenger bus drive between Nittambuwa	0	LOCATION
+1.0	passengers	have	full	O	O
+1.0	this	be work of	ltte	0	0
+1.0	number	have	cause	O	O
+1.0	hospital	be	place	0	0
+1.0	casualties	have	number	O	O
+1.0	blast	have	cause	O	O
+1.0	Tigers	accuse	government force penetrate into they area of control	ORGANIZATION	0
+1.0	blast	have	time	DATE	O
+1.0	bomb	rip through	passenger bus	0	0
+1.0	Tigers	accuse	government force	ORGANIZATION	0
+1.0	bus	be full of	passenger	0	0
+1.0	spokesman	have	allegation	O	O
+1.0	bus	be full at	time	0	DATE
+1.0	bus	be full at	time of blast	0	DATE
+1.0	bomb	rip through	passenger bus drive between Nittambuwa during evening rush hour	0	TIME
+1.0	hospital	be place on	alert for casualty	0	0
+1.0	hospital	be place on	alert	0	0
+1.0	this	be	work	0	0
+1.0	main hospital	be place on	alert for casualty	0	0
+1.0	Tigers	accuse	government force penetrate in north	ORGANIZATION	0
+1.0	bomb	rip through	passenger bus drive between Nittambuwa during evening rush hour on Colombo-Kandy highway	0	LOCATION
+0.5241883992232	north	trigger	mine	0	0
+1.0	bus	be	full of passenger at time of blast	0	DATE
+1.0	their	have	area	O	O
+1.0	LTTE	have	work	O	ORGANIZATION
+1.0	Tigers	accuse	government force penetrate	ORGANIZATION	0
+1.0	Tigers	accuse	government force penetrate into they area	ORGANIZATION	0
+1.0	bomb	rip through	passenger bus drive during evening rush hour on Colombo-Kandy highway	0	LOCATION
+1.0	bomb	rip through	passenger bus drive	0	0
+1.0	Kandy	have	town	O	LOCATION
+1.0	Colombo	be near	Sri Lankan	LOCATION	LOCATION
+1.0	control	have	area	O	O
+1.0	Colombo	be capital of	Sri Lankan	LOCATION	LOCATION
+1.0	main hospital	be	place	0	0
+1.0	Tigers	accuse	government force penetrate into they area of control in north	ORGANIZATION	0
+1.0	A1	have	closure	O	O
+1.0	bus attack	come	hour	0	0
+1.0	bomb	rip through	passenger bus drive during evening rush hour	0	TIME
+1.0	main hospital	be place on	alert	0	0
+1.0	main hospital	be in	Colombo	0	LOCATION

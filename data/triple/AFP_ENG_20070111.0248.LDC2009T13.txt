@@ -1,0 +1,49 @@
+1.0	speech	be lighter on	challenge	0	0
+1.0	speech	be lighter on	major political challenge	0	0
+1.0	speech	be lighter on	major challenge	0	0
+1.0	speech	be lighter on	political challenge	0	0
+1.0	population	have	groups	O	O
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	speak from	Madrid	PERSON	LOCATION
+1.0	George Bush	be president of	US	PERSON	LOCATION
+1.0	Iraq	have	neighbours	O	LOCATION
+1.0	tt	be	swedish	0	0
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	stabilise	country	PERSON	0
+1.0	this	be	limited	0	0
+1.0	George Bush	be 's	US	PERSON	LOCATION
+1.0	that	be	military	0	0
+1.0	speech	be significantly lighter on	major political challenge	0	0
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	be	guard	PERSON	0
+1.0	Carl Bildt	be on	Thursday	PERSON	DATE
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	tell	news agency tt	PERSON	0
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	tell	swedish news agency tt	PERSON	0
+1.0	Swedish Foreign Minister Carl Bildt	criticise	US President George Bush 's new Iraq strategy	MISC	LOCATION
+1.0	Swedish Foreign Minister Carl Bildt	criticise	US President George Bush 's new Iraq strategy fail	MISC	LOCATION
+1.0	that	be	tactical	0	0
+1.0	Iraq	of	neighbour	LOCATION	0
+1.0	speech	be	lighter	0	0
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	stress	importance	PERSON	0
+1.0	speech	be	significantly lighter	0	0
+1.0	US president	have	plan	O	O
+1.0	speech	be significantly lighter on	challenge	0	0
+1.0	Iraq	have	oil wealth	O	LOCATION
+1.0	foreign minister	be in	distant country	0	0
+1.0	oil wealth	have	distribution	O	O
+1.0	groups	have	inclusion	O	O
+1.0	speech	be significantly lighter on	major challenge	0	0
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	be guard on	US president 's plan	PERSON	LOCATION
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	speak by	telephone	PERSON	0
+1.0	distribution	have	importance	O	O
+1.0	George Bush	have	new Iraq strategy fail	PERSON	LOCATION
+1.0	engagement	have	importance	O	O
+1.0	US President George Bush	have	Iraq strategy	O	PERSON
+1.0	Iraq	of	oil wealth	LOCATION	0
+1.0	US president	on	plan send into Iraq	LOCATION	LOCATION
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	stress	importance of distribution of Iraq 's oil wealth	PERSON	LOCATION
+1.0	inclusion	have	importance	O	O
+1.0	Swedish Foreign Minister Carl Bildt on Thursday	stress	importance of distribution	PERSON	0
+1.0	Carl Bildt	be	Swedish	PERSON	MISC
+1.0	speech	be significantly lighter on	political challenge	0	0
+1.0	Swedish Foreign Minister Carl Bildt	criticise	US President George Bush 's Iraq strategy fail	MISC	LOCATION
+1.0	Swedish Foreign Minister Carl Bildt	criticise	US President George Bush 's Iraq strategy	MISC	LOCATION
+1.0	population	be in	political process	0	0
+1.0	neighbours	have	engagement	O	O

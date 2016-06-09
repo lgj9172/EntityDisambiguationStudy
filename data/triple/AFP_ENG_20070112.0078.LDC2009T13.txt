@@ -1,0 +1,12 @@
+1.0	six attack	be in	recent year	NUMBER	DURATION
+1.0	responsibility	have	claims	O	O
+1.0	it	claim responsibility for	May 30 explosion	0	DATE
+1.0	dangerous militant group operating	be in	Greece	0	LOCATION
+1.0	Friday	have	attack	O	DATE
+1.0	Vyron Polydoras	be	greek	PERSON	0
+1.0	economy ministry	be in	central Athens	0	LOCATION
+1.0	it	claim	responsibility	0	0
+1.0	security minister George Voulgarakis	have	home	O	PERSON
+1.0	Friday	for	attack on US embassy	DATE	LOCATION
+1.0	it	claim responsibility near	home of former security minister George Voulgarakis	0	PERSON
+1.0	it	claim responsibility near	home	0	0

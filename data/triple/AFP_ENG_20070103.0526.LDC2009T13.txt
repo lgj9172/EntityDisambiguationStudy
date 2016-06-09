@@ -1,0 +1,49 @@
+1.0	Singapore	implement	United Nations trade sanction against North Korea	LOCATION	LOCATION
+1.0	Singapore Customs	say to	trader	ORGANIZATION	0
+1.0	Singapore	implement at_time	last year	LOCATION	DATE
+1.0	Singapore	have begin	implement in retaliation for country 's nuclear test last year	LOCATION	DATE
+1.0	Singapore	have begin	implement in retaliation year	LOCATION	DATE
+1.0	Singapore	have begin	implement in retaliation last year	LOCATION	DATE
+1.0	Singapore	implement for	country 's nuclear test	LOCATION	0
+1.0	ban	include	shipment of missile	0	0
+1.0	nuclear weapon test	adopt unanimously by	impoverished	0	0
+1.0	country	have	test	O	O
+1.0	nuclear weapon test	adopt by	council	0	0
+1.0	nuclear weapon test	adopt unanimously by	council after October	0	DATE
+1.0	9 nuclear weapon test	adopt unanimously by	council	DATE	0
+1.0	Singapore	implement in	retaliation	LOCATION	0
+1.0	Singapore	implement	United Nations trade sanction	LOCATION	ORGANIZATION
+1.0	nuclear weapon test	adopt by	impoverished	0	0
+1.0	Singapore	have begin	implement in retaliation for country 's nuclear test year	LOCATION	DATE
+1.0	ban	include	shipment	0	0
+1.0	missiles	have	shipments	O	O
+1.0	Singapore	have begin	implement for country 's test last year	LOCATION	DATE
+1.0	Singapore	have begin	implement year	LOCATION	DATE
+1.0	Singapore	have begin	implement in retaliation for country 's test	LOCATION	0
+1.0	luxury goods	have	Singapore	LOCATION	O
+1.0	Singapore	have begin	implement for country 's nuclear test	LOCATION	0
+1.0	New Year 's day	shipment through	Singapore	DATE	ORGANIZATION
+1.0	9 nuclear weapon test	adopt unanimously by	impoverished	DATE	0
+1.0	nuclear weapon test	adopt unanimously by	council	0	0
+1.0	Singapore	have begin	implement	LOCATION	0
+1.0	Singapore	have begin	implement in retaliation for country 's test last year	LOCATION	DATE
+1.0	Singapore	have begin	implement for country 's nuclear test year	LOCATION	DATE
+1.0	ban	also include	shipment of missile	0	0
+1.0	Singapore	have begin	implement in retaliation for country 's nuclear test	LOCATION	0
+1.0	Singapore	have begin	implement for country 's nuclear test last year	LOCATION	DATE
+1.0	9 nuclear weapon test	adopt by	council	DATE	0
+1.0	Singapore	have begin	implement last year	LOCATION	DATE
+1.0	Singapore	have begin	implement for country 's test year	LOCATION	DATE
+1.0	country	for	nuclear test	0	0
+1.0	9 nuclear weapon test	adopt by	impoverished	DATE	0
+1.0	Singapore	have begin	implement in retaliation	LOCATION	0
+1.0	Singapore	have begin	implement for country 's test	LOCATION	0
+1.0	New Year	have	Day	DATE	DATE
+1.0	Singapore	implement at_time	year	LOCATION	DATE
+1.0	Singapore	have begin	implement in retaliation for country 's test year	LOCATION	DATE
+1.0	Singapore Customs	say in	notice	ORGANIZATION	0
+1.0	Singapore	implement for	country 's test	LOCATION	0
+1.0	9 nuclear weapon test	adopt by	council after October	DATE	DATE
+1.0	nuclear weapon test	adopt by	council after October	0	DATE
+1.0	ban	also include	shipment	0	0
+1.0	9 nuclear weapon test	adopt unanimously by	council after October	DATE	DATE

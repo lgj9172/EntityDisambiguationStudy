@@ -1,0 +1,42 @@
+1.0	Ferrell	have	comedy	O	PERSON
+1.0	drama Babel	be name among	nominee for Writers Guild here Thursday	0	ORGANIZATION
+1.0	September	have	comedy	O	DATE
+1.0	standout nominee	be in	best adapt screenplay category	0	0
+1.0	America awards	have	Writers Guild	ORGANIZATION	O
+1.0	british royal drama will Ferrell 's comedy	be in	best original screenplay category	PERSON	0
+1.0	drama Babel	be name among	nominee	0	0
+1.0	gritty drama Babel	be name among	nominee for Writers Guild of America award here Thursday	0	ORGANIZATION
+1.0	gritty drama Babel	be name among	nominee	0	0
+1.0	drama Babel	be name among	nominee for Writers Guild Thursday	0	ORGANIZATION
+1.0	Kazakhstan	have	Borat	O	LOCATION
+1.0	Martin Scorsese	have	Departed	MISC	PERSON
+1.0	chart	be	name	0	0
+0.39469519175855494	chart	america be name	Devil	0	0
+1.0	gritty drama Babel	be	name	0	0
+1.0	chart	be	across America name	0	LOCATION
+1.0	gritty drama Babel	name	smash-hit comedy Borat	0	0
+1.0	gritty drama Babel	be name among	nominee for Writers Guild Thursday	0	ORGANIZATION
+1.0	chart	thank	you	0	0
+1.0	Martin Scorsese	alongside	Departed	PERSON	MISC
+1.0	chart	be	across America of fictional blundering kazakh journalist name	0	LOCATION
+1.0	drama Babel	be name among	nominee for Writers Guild of America award	0	ORGANIZATION
+1.0	drama Babel	be name among	nominee for Writers Guild of America award here Thursday	0	ORGANIZATION
+1.0	chart	be	across America of fictional blundering kazakh journalist name alongside Martin Scorsese 's Departed	0	PERSON
+1.0	blundering journalist	have	America	LOCATION	O
+1.0	drama Babel	name	comedy Borat	0	0
+1.0	drama Babel	be	name	0	0
+1.0	gritty drama Babel	be name among	nominee for Writers Guild	0	ORGANIZATION
+1.0	Writers Guild of America	be  at_time	Thursday	ORGANIZATION	DATE
+1.0	gritty drama Babel	be name among	nominee for Writers Guild of America award Thursday	0	ORGANIZATION
+1.0	drama Babel	name	smash-hit comedy Borat	0	0
+1.0	chart	be	across America of fictional blundering journalist name alongside Martin Scorsese 's Departed	0	PERSON
+1.0	chart	america be name alongside	Martin Scorsese 's Departed	0	PERSON
+1.0	gritty drama Babel	be name among	nominee for Writers Guild here Thursday	0	ORGANIZATION
+1.0	chart	be name alongside	Martin Scorsese 's Departed	0	PERSON
+0.39469519175855494	chart	be name	Devil	0	0
+1.0	gritty drama Babel	be name among	nominee for Writers Guild of America award	0	ORGANIZATION
+1.0	gritty drama Babel	name	comedy Borat	0	0
+1.0	America	have	Cultural Learnings	O	LOCATION
+1.0	drama Babel	be name among	nominee for Writers Guild	0	ORGANIZATION
+1.0	drama Babel	be name among	nominee for Writers Guild of America award Thursday	0	ORGANIZATION
+1.0	chart	be	across America of fictional blundering journalist name	0	LOCATION

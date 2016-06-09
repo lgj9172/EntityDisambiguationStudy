@@ -1,0 +1,172 @@
+1.0	danger	have	negative reprecussion on world	0	0
+1.0	danger	have	negative reprecussion	0	0
+1.0	war	be threat to	oil resource	0	0
+1.0	this	be danger for	security	0	0
+1.0	Egypt	be	major participant in coalition in first war	LOCATION	ORDINAL
+1.0	Egypt	be	major participant	LOCATION	0
+1.0	Egypt	be	participant in coalition against Iraq in war against Iraq in 1990	LOCATION	LOCATION
+1.0	Egypt	be	major participant in coalition against Iraq in war	LOCATION	LOCATION
+1.0	danger	have	reprecussion on world	0	0
+1.0	danger	have	negative reprecussion on whole world	0	0
+1.0	Egypt	be participant in	first us-led war	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition against Iraq in us-led war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	major participant in coalition in war against Iraq in 1990	LOCATION	LOCATION
+1.0	whose editor	be	supporter	0	0
+1.0	Egypt	be participant in	first us-led war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	participant in coalition in us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition against Iraq in first us-led war against Iraq	LOCATION	ORDINAL
+1.0	situation	be in	Arab world	0	MISC
+1.0	Egypt	be	participant in coalition in war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition in first war against Iraq	LOCATION	ORDINAL
+1.0	Iraq	have	Shiites	MISC	LOCATION
+1.0	situation	be	regrettable	0	0
+1.0	Egypt	be	major participant in coalition in first us-led war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be participant in	first war	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition against Iraq in first us-led war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition in us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	president	also reveal in	interview	0	0
+1.0	United States	drop	plan charge into Baghdad during first Gulf war	LOCATION	ORDINAL
+1.0	plan	arrest	Saddam Hussein	0	PERSON
+1.0	force	stop	interfere in its affair	0	0
+1.0	Iraq	maintain	its unity	LOCATION	0
+1.0	Egypt	be	participant in coalition against Iraq in us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	egyptian President Hosni Mubarak	deliver warning in	interview publish	PERSON	0
+1.0	egyptian President Hosni Mubarak	deliver warning in	interview publish Thursday	PERSON	DATE
+0.732680808344599	Iraq	kind of	war	LOCATION	0
+1.0	Mubarak	spark controversy in	April	PERSON	DATE
+1.0	whose editor	be supporter of	Saddam	0	PERSON
+1.0	egyptian President Hosni Mubarak	deliver warning to	Tehran	PERSON	LOCATION
+1.0	Egypt	be	major participant in coalition against Iraq in first us-led war	LOCATION	ORDINAL
+1.0	Egypt	be participant in	first war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition against Iraq in first war	LOCATION	ORDINAL
+1.0	Egypt	decline	involve	LOCATION	0
+1.0	Iraq	be in	1990	LOCATION	DATE
+1.0	Egypt	be	major participant in coalition in first us-led war against Iraq	LOCATION	ORDINAL
+1.0	Egypt	be	participant in coalition against Iraq in us-led war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition in us-led war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition in first war	LOCATION	ORDINAL
+1.0	war	have	kind	O	O
+1.0	Hosni Mubarak	be	egyptian	PERSON	0
+1.0	Egypt	be participant in	coalition against Iraq	LOCATION	LOCATION
+1.0	Egypt	be major participant in	first us-led war against Iraq	LOCATION	ORDINAL
+1.0	United States	drop	plan charge during first Gulf war in 1991	LOCATION	ORDINAL
+1.0	major participant	be in	first us-led war against Iraq	0	ORDINAL
+1.0	Egypt	be	participant in coalition in first us-led war against Iraq	LOCATION	ORDINAL
+1.0	situation	get	worse	0	0
+1.0	egyptian president	also reveal in	interview	0	0
+1.0	Egypt	be	participant in coalition against Iraq in first us-led war	LOCATION	ORDINAL
+1.0	egyptian President Hosni Mubarak	deliver warning in	interview	PERSON	0
+1.0	United States	drop	plan charge during first Gulf war	LOCATION	ORDINAL
+1.0	President Hosni Mubarak	deliver	stern warning	PERSON	0
+1.0	Egypt	be major participant in	war against Iraq	LOCATION	LOCATION
+0.7215272517451284	danger	reprecussion on	world	0	0
+1.0	Iraq	be experience	kind	LOCATION	0
+1.0	United States	drop	plan charge	LOCATION	0
+1.0	Egypt	be major participant in	us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	force	interfere in	its affair	0	0
+1.0	Egypt	be major participant in	first war against Iraq	LOCATION	ORDINAL
+1.0	first Gulf war	be in	1991	ORDINAL	DATE
+1.0	United States	drop	plan charge during Gulf war in 1991	LOCATION	DATE
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	President Hosni Mubarak	deliver warning in	interview publish	PERSON	0
+1.0	Mubarak -- who is expected to see US Secretary of State Condoleezza Rice during her ongoing Middle East tour --	convince	United States	0	LOCATION
+1.0	regional force	stop	interfere	0	0
+1.0	United States	drop	plan	LOCATION	0
+1.0	Mubarak	spark	controversy	PERSON	0
+1.0	Egypt	be participant in	war	LOCATION	0
+1.0	President George Bush -LRB- senior -RRB-	die	man	0	0
+1.0	Egypt	be	major participant in coalition in first war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	participant in coalition against Iraq in war against Iraq	LOCATION	LOCATION
+1.0	Mubarak	be in	remark	PERSON	0
+1.0	Egypt	be	participant in coalition against Iraq in first war	LOCATION	ORDINAL
+1.0	this	be danger for	national security	0	0
+1.0	Egypt	be major participant in	first us-led war against Iraq in 1990	LOCATION	ORDINAL
+1.0	United States	drop	plan charge into Baghdad during Gulf war in 1991	LOCATION	LOCATION
+1.0	Egypt	be major participant in	first war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition in war	LOCATION	0
+1.0	whose editor	be strong supporter of	Saddam	0	PERSON
+1.0	leader	have	poster	O	O
+1.0	situation	be in	Iraq	0	LOCATION
+0.982970355783365	Mubarak	be	expect	PERSON	0
+1.0	United States	drop	plan charge into Baghdad	LOCATION	LOCATION
+1.0	her	have	Middle East tour	O	O
+1.0	Egypt	be	major participant in coalition in us-led war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be major participant in	coalition	LOCATION	0
+1.0	Iraq	have	out stay	O	LOCATION
+1.0	Egypt	be	major participant in coalition against Iraq in first war against Iraq	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition against Iraq in first war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Egypt	be	participant in coalition against Iraq in first war against Iraq in 1990	LOCATION	ORDINAL
+0.7215272517451284	danger	reprecussion on	whole world	0	0
+1.0	Egypt	be	participant in coalition in war against Iraq in 1990	LOCATION	LOCATION
+1.0	war	be	threat	0	0
+1.0	Egypt	be participant in	war against Iraq in 1990	LOCATION	LOCATION
+1.0	Egypt	be	major	LOCATION	0
+1.0	Saddam	have	regime	O	PERSON
+1.0	Egypt	be major participant in	us-led war	LOCATION	0
+1.0	Egypt	be	participant in coalition against Iraq in war	LOCATION	LOCATION
+1.0	Egypt	be	major participant in coalition against Iraq in us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	Egypt	be participant in	war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition in us-led war	LOCATION	0
+1.0	Egypt	be	participant in coalition in war	LOCATION	0
+1.0	egyptian President Hosni Mubarak	deliver	stern warning	PERSON	0
+1.0	Iraq	be	capable	LOCATION	0
+1.0	he	add	note	0	0
+1.0	President Hosni Mubarak	deliver	warning	PERSON	0
+1.0	Egypt	be	major participant in coalition against Iraq in war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be major participant in	war against Iraq in 1990	LOCATION	LOCATION
+1.0	its unity	have	unity	O	O
+1.0	danger	have	reprecussion on whole world	0	0
+1.0	Egypt	be major participant in	first us-led war	LOCATION	ORDINAL
+1.0	force	stop	interfere	0	0
+1.0	this	be	danger	0	0
+1.0	president	reveal in	interview	0	0
+1.0	United States	drop	plan charge into Baghdad during first Gulf war in 1991	LOCATION	ORDINAL
+1.0	Egypt	be	participant in coalition in first war against Iraq in 1990	LOCATION	ORDINAL
+1.0	its unity	have	affairs	O	O
+1.0	United States	drop	plan charge during Gulf war	LOCATION	0
+1.0	President Hosni Mubarak	deliver warning in	interview publish Thursday	PERSON	DATE
+0.732680808344599	Iraq	kind of	civil war	LOCATION	0
+1.0	danger	have	reprecussion	0	0
+1.0	egyptian president	reveal in	interview	0	0
+1.0	major participant	be in	coalition against Iraq	0	LOCATION
+1.0	Iraq	be experience	kind of war	LOCATION	0
+1.0	Iraq	be experience	kind of civil war	LOCATION	0
+1.0	whose	have	editor	O	O
+1.0	egyptian President Hosni Mubarak	deliver	warning	PERSON	0
+1.0	Egypt	be	major participant in coalition against Iraq in us-led war	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition in first us-led war against Iraq in 1990	LOCATION	ORDINAL
+1.0	Saddam	have	regime	PERSON	0
+1.0	Egypt	be participant in	us-led war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	major participant in coalition in war against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition against Iraq in first war against Iraq	LOCATION	ORDINAL
+1.0	Egypt	be participant in	coalition	LOCATION	0
+0.7215272517451284	danger	negative reprecussion on	world	0	0
+1.0	Egypt	be major participant in	war	LOCATION	0
+1.0	Egypt	be participant in	us-led war	LOCATION	0
+1.0	President Hosni Mubarak	deliver warning to	Tehran	PERSON	LOCATION
+1.0	Egypt	be participant in	first war against Iraq	LOCATION	ORDINAL
+1.0	regional force	stop	interfere in its affair	0	0
+1.0	partition	have	dangers	O	O
+1.0	United States	drop	plan charge into Baghdad during Gulf war	LOCATION	LOCATION
+1.0	Egypt	be	major participant in coalition against Iraq in first us-led war against Iraq	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition against Iraq in war against Iraq in 1990	LOCATION	LOCATION
+1.0	Egypt	be participant in	first us-led war against Iraq	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition in first us-led war	LOCATION	ORDINAL
+1.0	President Hosni Mubarak	deliver warning in	interview	PERSON	0
+1.0	Saddam	have	supporter	O	PERSON
+1.0	Egypt	be participant in	us-led war against Iraq in 1990	LOCATION	LOCATION
+1.0	their	have	country	O	O
+1.0	Egypt	be	participant in coalition in first us-led war	LOCATION	ORDINAL
+1.0	Egypt	be	major participant in coalition in first war against Iraq	LOCATION	ORDINAL
+0.7215272517451284	danger	negative reprecussion on	whole world	0	0
+1.0	Egypt	be	major participant in coalition in us-led war	LOCATION	0
+1.0	Egypt	be major participant in	us-led war against Iraq	LOCATION	LOCATION
+1.0	editor	be	strong	0	0
+1.0	Iraq	have	Shiites	LOCATION	MISC
+1.0	whose editor	be	strong supporter	0	0
+1.0	Egypt	be major participant in	first war	LOCATION	ORDINAL
+1.0	Egypt	be	participant	LOCATION	0
+1.0	Egypt	be major participant in	coalition against Iraq	LOCATION	LOCATION
+1.0	Egypt	be	participant in coalition against Iraq in us-led war	LOCATION	LOCATION
+1.0	regional force	interfere in	its affair	0	0
+1.0	Egypt	be	participant in coalition against Iraq in first us-led war against Iraq in 1990	LOCATION	ORDINAL

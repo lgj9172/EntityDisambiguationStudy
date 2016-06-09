@@ -1,0 +1,28 @@
+1.0	John McCain	be	Arizona	PERSON	LOCATION
+1.0	Outgoing Massachusetts governor Mitt Romney	have	family	O	O
+1.0	Outgoing Massachusetts governor Mitt Romney	be	59	PERSON	NUMBER
+1.0	Romney 59	would	would Mormon	PERSON	MISC
+1.0	John McCain	be senator of	Arizona	PERSON	LOCATION
+1.0	Outgoing Massachusetts governor Mitt Romney	serve as	president	PERSON	0
+1.0	Arizona Senator John McCain	have make	preliminary move	LOCATION	0
+1.0	frontrunner	be in	poll	0	0
+1.0	Outgoing Massachusetts governor Mitt Romney	would	would first Mormon	PERSON	ORDINAL
+1.0	Romney 59	serve as	president	PERSON	0
+1.0	Arizona Senator John McCain	have make	move	LOCATION	0
+1.0	former New York City mayor Rudolph Giuliani	currently emerge as	frontrunner in poll	PERSON	0
+1.0	our	have	country	O	O
+1.0	highest office	be in	we country	0	0
+1.0	Arizona Senator John McCain	have make	similar move	LOCATION	0
+1.0	former New York City mayor Rudolph Giuliani	emerge as	frontrunner	PERSON	0
+1.0	Mitt Romney	be governor of	Massachusetts	PERSON	LOCATION
+1.0	Arizona Senator John McCain	run	former New York City mayor Rudolph Giuliani	LOCATION	PERSON
+1.0	outgoing governor Mitt Romney	say at_time	Wednesday	PERSON	DATE
+1.0	Romney 59	would	would first Mormon	PERSON	ORDINAL
+1.0	Outgoing Massachusetts governor Mitt Romney	would	would Mormon	PERSON	MISC
+1.0	governor Mitt Romney	say at_time	Wednesday	PERSON	DATE
+1.0	Arizona Senator John McCain	have make	similar preliminary move	LOCATION	0
+1.0	Arizona Senator John McCain	run for	Republican Party nomination	LOCATION	ORGANIZATION
+1.0	former New York City mayor Rudolph Giuliani	currently emerge as	frontrunner	PERSON	0
+1.0	former New York City mayor Rudolph Giuliani	emerge as	frontrunner in poll	PERSON	0
+1.0	Rudolph Giuliani	be	New York City	PERSON	LOCATION
+1.0	Rudolph Giuliani	be mayor of	New York City	PERSON	LOCATION

@@ -1,0 +1,59 @@
+1.0	Luis Figo	retire from	international football	0	0
+1.0	Luis Figo	play with	Sporting Lisbon	PERSON	ORGANIZATION
+1.0	The Serie A season	have	winter break	O	O
+1.0	Inter coach Roberto Mancini	have already dismiss	talk of Figo 's departure	PERSON	PERSON
+1.0	recent news	be	therefore groundless	0	0
+1.0	whose	have	contract	O	O
+1.0	the year	be in	statement	DATE	0
+1.0	Roberto Mancini	be coach of	Inter	PERSON	ORGANIZATION
+1.0	Saudi Arabian club Al Ittihad	claim at_time	last week	PERSON	DATE
+1.0	transfer	have	news	O	O
+1.0	Inter	face	Bahrain national team	ORGANIZATION	LOCATION
+1.0	Inter	face	Bahrain national team in friendly match	ORGANIZATION	LOCATION
+1.0	Roberto Mancini	be	Inter	PERSON	ORGANIZATION
+1.0	Inter coach Roberto Mancini	have dismiss	talk	PERSON	0
+1.0	news	be	therefore completely groundless	0	0
+1.0	Luis Figo	have	transfer	O	PERSON
+1.0	deal	have	lure	O	O
+1.0	Serie champion Inter Milan	release statement on	Thursday	ORGANIZATION	DATE
+1.0	news	be	therefore groundless	0	0
+1.0	Luis Figo	previously play with	1989-1995	PERSON	DURATION
+1.0	Luis Figo	retire from	football	0	0
+1.0	footballer	post on	they webiste	0	DATE
+1.0	them	have	desire	O	O
+1.0	Serie champion Inter Milan	release	statement	ORGANIZATION	0
+1.0	news	be	completely groundless	0	0
+1.0	Portuguese midfielder	have	transfer	O	O
+1.0	Figo	have	departure	O	PERSON
+1.0	Luis Figo	play with	1989-1995	PERSON	DURATION
+1.0	Serie season	be have	its winter break	0	DATE
+1.0	club	reiterate	they desire	0	DATE
+1.0	club	reiterate	they desire hold onto former World	0	MISC
+1.0	Year	have	Footballer	MISC	DATE
+0.2065356019660691	this	come	Saturday	DATE	DATE
+1.0	Inter coach Roberto Mancini	have already dismiss	talk	PERSON	0
+1.0	Inter	face	Bahrain team in friendly match	ORGANIZATION	LOCATION
+1.0	a one-year contract	be with	Inter	0	ORGANIZATION
+1.0	club	reiterate	they desire hold	0	DATE
+1.0	Inter	face	Bahrain team	ORGANIZATION	LOCATION
+1.0	Luis Figo	previously play with	Sporting Lisbon	PERSON	ORGANIZATION
+1.0	them	have	webiste	O	O
+1.0	Luis Figo	join	Inter	PERSON	ORGANIZATION
+1.0	news	be	groundless	0	0
+1.0	recent news	be	therefore completely groundless	0	0
+1.0	Serie season	resume on	January 13/14	0	DATE
+1.0	Saudi Arabian club Al Ittihad	claim at_time	week	PERSON	DATE
+1.0	Inter	face	Bahrain national team in match	ORGANIZATION	LOCATION
+1.0	Inter coach Roberto Mancini	have dismiss	talk of Figo 's departure	PERSON	PERSON
+1.0	recent news	be	completely groundless	0	0
+1.0	recent news	be	groundless	0	0
+1.0	departure	have	talk	O	O
+1.0	season	have	end	O	O
+1.0	Portugal	lose in	July	LOCATION	DATE
+1.0	Saudi Arabian club Al Ittihad	arrive on	January 5	PERSON	DATE
+1.0	Inter	face	Bahrain team in match	ORGANIZATION	LOCATION
+1.0	Portugal	lose to	France	LOCATION	LOCATION
+1.0	Portugal	lose in	World Cup semi-final	LOCATION	MISC
+1.0	Bahrain national team	be in	friendly match	LOCATION	0
+1.0	european footballer	post on	they webiste	0	DATE
+1.0	Figo	of	departure	PERSON	0

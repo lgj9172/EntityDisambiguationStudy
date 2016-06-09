@@ -1,0 +1,49 @@
+1.0	main stock market	slide in	open trading on Wednesday	0	DATE
+1.0	main stock market	slide with	London 's ftse 100 index of share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	main european stock market	slide with	London 's ftse 100 index of share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	main stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	main european stock market	slide in	trading	0	0
+1.0	stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent	0	PERCENT
+1.0	european stock market	slide with	London 's ftse 100 index of share	0	LOCATION
+1.0	main stock market	slide in	open trading	0	0
+1.0	stock market	slide in	trading	0	0
+1.0	Frankfurt	have	DAX index	O	LOCATION
+1.0	stock market	slide in	open trading on Wednesday	0	DATE
+1.0	european stock market	slide with	London 's ftse 100 index	0	LOCATION
+1.0	stock market	slide with	London 's ftse 100 index of share	0	LOCATION
+1.0	main stock market	slide with	London 's ftse 100 index of share down 0.41 percent	0	PERCENT
+1.0	main stock market	slide with	London 's ftse 100 index of lead share	0	LOCATION
+1.0	main european stock market	slide in	trading on Wednesday	0	DATE
+1.0	stock market	slide with	London 's ftse 100 index of share down 0.41 percent	0	PERCENT
+1.0	stock market	slide in	open trading	0	0
+1.0	stock market	slide with	London 's ftse 100 index of lead share	0	LOCATION
+1.0	Frankfurt	have	DAX 30 index	LOCATION	NUMBER
+1.0	european stock market	slide in	trading	0	0
+1.0	London	have	FTSE index	O	LOCATION
+1.0	main stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent	0	PERCENT
+1.0	main european stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	stock market	slide in	trading on Wednesday	0	DATE
+1.0	european stock market	slide in	open trading on Wednesday	0	DATE
+1.0	main stock market	slide in	trading on Wednesday	0	DATE
+1.0	main european stock market	slide with	London 's ftse 100 index of share down 0.41 percent	0	PERCENT
+1.0	main european stock market	slide in	open trading	0	0
+1.0	european stock market	slide in	open trading	0	0
+1.0	stock market	slide with	London 's ftse 100 index	0	LOCATION
+1.0	main european stock market	slide with	London 's ftse 100 index of lead share	0	LOCATION
+1.0	european stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent	0	PERCENT
+1.0	main european stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent	0	PERCENT
+1.0	main european stock market	slide with	London 's ftse 100 index	0	LOCATION
+1.0	main european stock market	slide in	open trading on Wednesday	0	DATE
+1.0	main stock market	slide with	London 's ftse 100 index of share	0	LOCATION
+1.0	stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	shares	have	FTSE index	O	O
+1.0	european stock market	slide with	London 's ftse 100 index of share down 0.41 percent	0	PERCENT
+1.0	european stock market	slide with	London 's ftse 100 index of lead share	0	LOCATION
+1.0	european stock market	slide with	London 's ftse 100 index of lead share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	London	with	ftse 100 index of lead share down 0.41 percent to 6,170.70 point	LOCATION	NUMBER
+1.0	main european stock market	slide with	London 's ftse 100 index of share	0	LOCATION
+1.0	european stock market	slide with	London 's ftse 100 index of share down 0.41 percent to 6,170.70 point	0	NUMBER
+1.0	main stock market	slide in	trading	0	0
+1.0	main stock market	slide with	London 's ftse 100 index	0	LOCATION
+1.0	european stock market	slide in	trading on Wednesday	0	DATE
+1.0	stock market	slide with	London 's ftse 100 index of share down 0.41 percent to 6,170.70 point	0	NUMBER

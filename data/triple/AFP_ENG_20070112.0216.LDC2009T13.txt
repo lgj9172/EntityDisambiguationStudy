@@ -1,0 +1,18 @@
+1.0	international defender Pavel Mares	rejoin	league leader 's Sparta Prague	PERSON	ORGANIZATION
+1.0	Michal Bilek	be trainer of	league leader 's Sparta Prague	PERSON	ORGANIZATION
+1.0	Sparta Prague	be in	2002	ORGANIZATION	DATE
+1.0	Pavel Mares	be	czech	PERSON	0
+1.0	the Czech national team	have	Euro campaign	O	O
+1.0	Czech club	announce on	Friday	MISC	DATE
+1.0	czech defender Pavel Mares	rejoin	league leader 's Sparta Prague	PERSON	ORGANIZATION
+1.0	contract	be with	Prague club	0	LOCATION
+1.0	defender Pavel Mares	rejoin	league leader 's Sparta Prague	PERSON	ORGANIZATION
+1.0	Czech international defender Pavel Mares	leave	Sparta Prague in 2002	0	ORGANIZATION
+1.0	league leader	have	Sparta Prague	ORGANIZATION	O
+1.0	Czech international defender Pavel Mares	leave	Sparta Prague	0	ORGANIZATION
+1.0	zenit	be with	russian	0	0
+1.0	league leader	have	Sparta Prague	0	ORGANIZATION
+1.0	Michal Bilek	be	league leader 's Sparta Prague	PERSON	ORGANIZATION
+1.0	Pavel	be	experienced	PERSON	0
+1.0	Czech international defender Pavel Mares	leave sparta prague for	Zenit	0	0
+1.0	czech international defender Pavel Mares	rejoin	league leader 's Sparta Prague	PERSON	ORGANIZATION

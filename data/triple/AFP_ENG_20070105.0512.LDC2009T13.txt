@@ -1,0 +1,24 @@
+1.0	Washington 's Gilbert Arenas	lead wizards to	116-105 National Basketball Association victory over Los Angeles Clippers	LOCATION	ORGANIZATION
+1.0	Arenas	score	at least 30 point	0	NUMBER
+0.11982177299755592	Wizards	turn at	halftime	ORGANIZATION	0
+0.11982177299755592	Wizards	turn into	66-57 advantage	ORGANIZATION	NUMBER
+1.0	their	have	straight	O	O
+1.0	Washington 's Gilbert Arenas	lead	Wizards	LOCATION	ORGANIZATION
+1.0	Wizards	turn deficit at	halftime	ORGANIZATION	0
+1.0	Washington 's Gilbert Arenas	have	birthday	O	O
+1.0	their	have	Verizon Center arena	O	O
+1.0	month honors	have	Eastern Conference player	O	O
+1.0	Wizards	turn deficit into	66-57 advantage	ORGANIZATION	NUMBER
+1.0	their	have	bid	O	O
+0.9859773795464108	point	30 at	least	0	0
+1.0	27 point	add	Antawn Jamison	NUMBER	PERSON
+1.0	Wizards	turn	10-point deficit	ORGANIZATION	0
+1.0	point	add	Antawn Jamison	0	PERSON
+0.06221292408889589	27 point	add	Antawn Jamison	NUMBER	PERSON
+1.0	Clippers	fail in	they bid	ORGANIZATION	0
+1.0	Washington	have	Gilbert Arenas	PERSON	LOCATION
+1.0	Elton Brand	have	29 point	ORGANIZATION	NUMBER
+1.0	Washington	have	Gilbert Arenas	LOCATION	PERSON
+1.0	Washington 's Gilbert Arenas	lead wizards to	116-105 National Basketball Association victory	LOCATION	ORGANIZATION
+1.0	Wizards	turn	deficit	ORGANIZATION	0
+0.06221292408889589	point	add	Antawn Jamison	0	PERSON

@@ -1,0 +1,54 @@
+1.0	Iran	enter	Iraq	LOCATION	LOCATION
+1.0	situation	be	catastrophic	0	0
+1.0	their	have	territory	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	situation	have	complexity	O	O
+1.0	Iran	charge	Tehran	LOCATION	LOCATION
+1.0	US President George W. Bush 's new security plan	be	bind	LOCATION	0
+1.0	Syria	have	government	LOCATION	0
+1.0	US President George W. Bush 's	tell us public in	prime-time speech late	PERSON	0
+1.0	complicated situation	be in	Iraq	0	LOCATION
+1.0	Bush	have	strategy	O	PERSON
+1.0	our	have	forces	O	O
+1.0	Syria 's government	daily write on	Thursday	LOCATION	DATE
+1.0	we	will disrupt attack on	we force	0	0
+1.0	Bush strategy	have	probability	O	O
+1.0	Iraq	have	people	O	LOCATION
+1.0	Iran	use	they territory	LOCATION	0
+1.0	Syria 's government	write on	Thursday	LOCATION	DATE
+1.0	US President George W. Bush 's	tell	US public	PERSON	LOCATION
+1.0	US President George W. Bush 's	tell us public in	speech	PERSON	0
+1.0	Baghdad	have	leader	LOCATION	0
+1.0	US President George W. Bush 's	tell us public in	prime-time speech	PERSON	0
+1.0	Baghdad	have	leaders	O	LOCATION
+1.0	Iran	use	Syria	LOCATION	LOCATION
+1.0	the probability of the new Bush strategy failing	have	chance	O	O
+1.0	US president	also promise in	he speech	LOCATION	0
+1.0	US president	promise in	he speech	LOCATION	0
+1.0	ground	be in	Iraq	0	LOCATION
+1.0	we	will disrupt	attack	0	0
+1.0	US President George W. Bush 's	tell us public in	speech late	PERSON	0
+1.0	Syria	have	government	O	LOCATION
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	US President George W. Bush	have	security plan	O	PERSON
+1.0	US President George W. Bush 's security plan	be	bind	LOCATION	0
+1.0	US President George W. Bush 's new security plan	be bind	fail	LOCATION	0
+1.0	Iran	enter	Syria	LOCATION	LOCATION
+1.0	Syria 's government	daily write in	editorial	LOCATION	0
+1.0	human catastrophe	be in	Iraq	0	LOCATION
+1.0	another 21,500 American troops	must do	more	0	0
+1.0	Syria 's government	write in	editorial	LOCATION	0
+1.0	US President George W. Bush 's	tell us public in	prime-time speech late on Wednesday	PERSON	DATE
+1.0	US President George W. Bush 's security plan	be bind	fail	LOCATION	0
+1.0	Iraq	have	economy	O	LOCATION
+1.0	strategic blunder	be in	Iraq	0	LOCATION
+1.0	support	have	flow	O	O
+1.0	our	have	enemies	O	O
+1.0	his	have	speech	O	O
+1.0	George W. Bush	have	new security plan	PERSON	0
+1.0	Iran	charge	Syria	LOCATION	LOCATION
+1.0	success	have	chance	O	O
+1.0	US president	take	step	LOCATION	0
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	US president	take	aggressive step	LOCATION	0
+1.0	US President George W. Bush 's	tell us public in	speech late on Wednesday	PERSON	DATE

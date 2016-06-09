@@ -1,0 +1,179 @@
+1.0	EMI	have	music publishing arm	ORGANIZATION	0
+1.0	group	have	music business	O	O
+1.0	EMI	have	share price tumble in early London trading	ORGANIZATION	LOCATION
+1.0	weak market condition	lead to	change	0	0
+1.0	market condition	lead to	change	0	0
+1.0	weak market condition	lead	significant disruption to business from implementation	0	0
+1.0	vice chairman	be leave	company	0	0
+1.0	executive	have	role	O	O
+1.0	EMI	also have	music publishing arm	ORGANIZATION	0
+1.0	EMI Music 's performance	end	31	0	DATE
+1.0	EMI Music 's second-half performance	end	31	0	DATE
+1.0	price	have slump to	244.50 pence on London 's ftse 250 index	0	NUMBER
+1.0	EMI Music 's revenue	could decline at_time	year on year	0	DURATION
+1.0	EMI Music	have	management	O	ORGANIZATION
+1.0	weak market condition	lead to	change in outlook for group for year	0	DATE
+1.0	market condition	lead	significant disruption from implementation	0	0
+1.0	market condition	lead	expect disruption to business from implementation of restructuring initiative	0	0
+1.0	weak market condition	lead	significant disruption of restructuring initiative	0	0
+1.0	its	have	stance	O	O
+1.0	market condition	lead to	change in outlook for group for year	0	DATE
+1.0	weak market condition	lead	significant disruption from implementation	0	0
+1.0	market condition	lead	expect disruption to business from implementation	0	0
+1.0	weak market condition	lead	expect significant disruption to business from implementation	0	0
+1.0	EMI 's	blame	big fall in disc sale	ORGANIZATION	DATE
+1.0	group	have	results	O	O
+1.0	market condition	lead	significant disruption from implementation of restructuring initiative	0	0
+1.0	weak market condition	lead	disruption to business from implementation of restructuring initiative	0	0
+1.0	weak market condition	lead	expect significant disruption from implementation	0	0
+1.0	London	have	FTSE index	O	LOCATION
+1.0	market condition	lead	expect disruption to business	0	0
+1.0	market condition	lead	disruption to business of restructuring initiative	0	0
+1.0	David Munns	be music of	EMI 's	PERSON	ORGANIZATION
+1.0	EMI 's	report	half-year profit	ORGANIZATION	0
+1.0	Eric Nicoli	be give	role of chief executive	PERSON	0
+1.0	market condition	lead	expect disruption	0	0
+1.0	world	have	music company	O	O
+1.0	Eric Nicoli	be give	new role of chief executive	PERSON	0
+1.0	weak market condition	lead	expect disruption to business from implementation of restructuring initiative	0	0
+1.0	announcement	send	EMI 's share price tumble in early London trading	0	LOCATION
+1.0	cost savings	be	deliver	0	0
+1.0	EMI Music 's full-year revenue	could decline as	result	DURATION	0
+1.0	EMI	meanwhile say at_time	last month	ORGANIZATION	DATE
+1.0	weak market condition	lead	expect disruption of restructuring initiative	0	0
+1.0	company	see	improvement	0	0
+1.0	EMI 's	blame	fall in compact disc sale	ORGANIZATION	DATE
+1.0	weak market condition	lead	disruption to business	0	0
+1.0	announcement	send	EMI 's share price tumble in London trading	0	LOCATION
+1.0	market condition	lead	expect disruption of restructuring initiative	0	0
+1.0	EMI Music 's revenue	could decline by	approximately six percent to 10 percent on constant currency basis	0	PERCENT
+1.0	market condition	lead	significant disruption to business	0	0
+1.0	market condition	lead	disruption from implementation of restructuring initiative	0	0
+1.0	world	have	third-biggest music company	0	0
+1.0	EMI 's	blame	big fall	ORGANIZATION	DATE
+1.0	market condition	lead	expect disruption from implementation	0	0
+1.0	price	have slump to	244.50 pence on London 's second-tier ftse 250 index	0	NUMBER
+1.0	EMI 's	blame	fall in disc sale	ORGANIZATION	DATE
+1.0	EMI shares	have	price	O	O
+1.0	market condition	lead	expect significant disruption to business of restructuring initiative	0	0
+1.0	EMI	meanwhile say at_time	month	ORGANIZATION	DATE
+1.0	EMI Music 's revenue	could decline by	approximately six percent to 10 percent on currency basis	0	PERCENT
+1.0	EMI 's	report half-year profit at_time	last November	ORGANIZATION	DATE
+1.0	EMI Music 's financial performance	end	31	DATE	DATE
+1.0	restructuring initiatives	have	disruption	O	O
+1.0	group	restructure	continue into next financial year	0	DATE
+1.0	company	see	significant improvement	0	0
+1.0	weak market condition	lead	disruption	0	0
+1.0	weak market condition	lead	expect disruption to business of restructuring initiative	0	0
+1.0	weak market condition	lead	disruption to business from implementation	0	0
+1.0	Eric Nicoli	be give	new role of executive	PERSON	0
+1.0	market condition	lead	disruption	0	0
+1.0	EMI Group	issue	profit warning	ORGANIZATION	0
+1.0	announcement	send	EMI 's share price tumble	0	ORGANIZATION
+1.0	EMI	have	share price	O	ORGANIZATION
+1.0	weak market condition	lead	significant disruption to business of restructuring initiative	0	0
+1.0	market condition	lead	significant disruption to business from implementation	0	0
+1.0	EMI Music 's full-year revenue	could decline by	approximately six percent to 10 percent on constant currency basis	DURATION	PERCENT
+1.0	weak market condition	lead to	change in outlook	0	0
+1.0	EMI Music 's full-year revenue	could decline by	approximately six percent to 10 percent on currency basis	DURATION	PERCENT
+1.0	group	of	EMI Music division	0	ORGANIZATION
+1.0	EMI Music	have	performance	O	O
+1.0	savings	have	pounds	MONEY	O
+1.0	Bridgewell Securities	say	broker	ORGANIZATION	0
+1.0	EMI Music 's revenue	could decline by	approximately six percent to 10 percent	0	PERCENT
+1.0	weak market condition	lead	expect disruption	0	0
+1.0	Alain Levy	executive of	group 's EMI Music division	PERSON	ORGANIZATION
+1.0	market condition	lead	expect significant disruption from implementation of restructuring initiative	0	0
+1.0	market condition	lead	disruption to business from implementation of restructuring initiative	0	0
+1.0	change	be in	outlook for group for financial year	0	DATE
+1.0	weak market condition	lead	disruption of restructuring initiative	0	0
+1.0	vice chairman	be also leave	company	0	0
+1.0	group	restructure	continue	0	0
+1.0	EMI	say at_time	last month	ORGANIZATION	DATE
+1.0	weak market condition	lead	expect significant disruption	0	0
+1.0	EMI Music Publishing	have	full-year revenue	0	DURATION
+1.0	price	have slump in	trading	0	0
+1.0	weak market condition	lead	expect disruption from implementation	0	0
+1.0	weak market condition	lead	significant disruption from implementation of restructuring initiative	0	0
+1.0	price	have slump to	244.50 pence	0	MONEY
+1.0	EMI 's	blame	big fall in compact disc sale	ORGANIZATION	DATE
+1.0	EMI	say at_time	month	ORGANIZATION	DATE
+1.0	weak market condition	lead to	change in outlook for group for financial year	0	DATE
+1.0	market condition	lead to	change in outlook	0	0
+1.0	group	in	full-year result	0	0
+1.0	EMI Music division	have	chairman chief executive	O	O
+1.0	announcement	send	EMI 's share price	0	ORGANIZATION
+1.0	weak market condition	lead	expect significant disruption of restructuring initiative	0	0
+1.0	market condition	lead	disruption to business	0	0
+1.0	weak market condition	lead	expect significant disruption from implementation of restructuring initiative	0	0
+1.0	market condition	lead	expect significant disruption to business	0	0
+1.0	Alain Levy	be	Frenchman	PERSON	MISC
+1.0	His	have	post	O	O
+1.0	price	have slump by	7.56 percent	0	PERCENT
+1.0	London	on	second-tier ftse 250 index	LOCATION	NUMBER
+1.0	Coldplay	have	catalogue	O	O
+1.0	market condition	lead to	change in outlook for group	0	0
+1.0	David Munns	be of	EMI 's	PERSON	ORGANIZATION
+1.0	EMI Group	company 's	world	ORGANIZATION	0
+1.0	weak market condition	lead	expect disruption to business from implementation	0	0
+1.0	EMI Music 's full-year revenue	could decline by	approximately six percent to 10 percent	DURATION	PERCENT
+1.0	EMI	cut	job	ORGANIZATION	0
+1.0	weak market condition	lead	disruption to business of restructuring initiative	0	0
+1.0	group	have	EMI Music division	O	O
+1.0	cost	be in	part	0	0
+1.0	EMI Music 's revenue	could decline at_time	year	0	DURATION
+1.0	market condition	lead	expect significant disruption to business from implementation of restructuring initiative	0	0
+1.0	EMI Music	have	second-half financial performance to date combine with expectation continue	0	DATE
+1.0	EMI Music 's full-year revenue	could decline at_time	year on year	DURATION	DURATION
+1.0	weak market condition	lead	significant disruption to business from implementation of restructuring initiative	0	0
+1.0	weak market condition	lead	expect significant disruption to business	0	0
+1.0	weak market condition	lead	significant disruption	0	0
+1.0	EMI 's	blame	fall	ORGANIZATION	DATE
+1.0	weak market condition	lead	expect disruption from implementation of restructuring initiative	0	0
+1.0	market condition	lead	expect disruption to business of restructuring initiative	0	0
+1.0	market condition	lead	disruption to business from implementation	0	0
+1.0	EMI Music 's full-year revenue	could decline at_time	year	DURATION	DURATION
+1.0	market condition	lead	significant disruption to business from implementation of restructuring initiative	0	0
+1.0	market condition	lead	expect significant disruption to business from implementation	0	0
+1.0	EMI Music 's full-year revenue	could decline by	approximately six percent	DURATION	PERCENT
+1.0	market condition	lead	expect significant disruption of restructuring initiative	0	0
+1.0	EMI Group	issue profit warning on	Friday	ORGANIZATION	DATE
+1.0	group	restructure	continue into next year	0	DATE
+1.0	EMI Music Publishing	have	revenues	O	O
+1.0	EMI Music 's second-half financial performance	end	31	DATE	DATE
+1.0	EMI Music 's revenue	could decline by	approximately six percent	0	PERCENT
+1.0	price	have slump in	early trading	0	0
+1.0	market condition	lead	expect significant disruption from implementation	0	0
+1.0	weak market condition	lead	disruption from implementation	0	0
+1.0	market condition	lead	disruption from implementation	0	0
+1.0	market condition	lead	expect disruption from implementation of restructuring initiative	0	0
+1.0	group	restructure	continue into year	0	DATE
+1.0	market condition	lead	disruption of restructuring initiative	0	0
+1.0	Eric Nicoli	chairman of	EMI Group	PERSON	ORGANIZATION
+1.0	artists	have	catalogue	O	O
+1.0	market condition	lead to	change in outlook for group for financial year	0	DATE
+1.0	market condition	lead	significant disruption of restructuring initiative	0	0
+1.0	EMI Music 's revenue	could decline as	result	0	0
+1.0	weak market condition	lead	expect significant disruption to business from implementation of restructuring initiative	0	0
+1.0	its	have	subsidiary	O	O
+1.0	weak market condition	lead	significant disruption to business	0	0
+1.0	EMI Group	have	executive chairman	O	ORGANIZATION
+1.0	Eric Nicoli	be give	role	PERSON	0
+1.0	fall	be in	compact disc sale	DATE	0
+1.0	Eric Nicoli	be give	role of executive	PERSON	0
+1.0	market condition	lead	expect significant disruption	0	0
+1.0	weak market condition	lead	expect significant disruption to business of restructuring initiative	0	0
+1.0	EMI 's	report half-year profit at_time	November	ORGANIZATION	DATE
+1.0	weak market condition	lead	expect disruption to business	0	0
+1.0	weak market condition	lead to	change in outlook for group	0	0
+1.0	market condition	lead	significant disruption to business of restructuring initiative	0	0
+1.0	EMI Group	announce	cost cut	ORGANIZATION	0
+1.0	group	restructure	continue into financial year	0	DATE
+1.0	group	expect	disruption	0	0
+1.0	EMI Music David Munns	have	vice chairman	O	PERSON
+1.0	company	see improvement in	margin	0	0
+1.0	its	have	plan	O	O
+1.0	weak market condition	lead	disruption from implementation of restructuring initiative	0	0
+1.0	EMI Group	make	boardroom change	ORGANIZATION	0
+1.0	market condition	lead	significant disruption	0	0
+1.0	Eric Nicoli	be give	new role	PERSON	0

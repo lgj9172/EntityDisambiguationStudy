@@ -1,0 +1,10 @@
+1.0	state	have	coast	O	O
+1.0	Villagers	settle on	sand	0	0
+1.0	villager	be	barge	0	0
+1.0	report	say at_time	Tuesday	0	DATE
+1.0	police spokesman	tell	daily	0	SET
+1.0	sea	have	bottom	O	O
+1.0	villager	be barge of	two football field	0	NUMBER
+1.0	vessels	have	owner	O	O
+1.0	eastern pahang state	be in	rough sea	0	0
+1.0	football fields	have	barges	O	O

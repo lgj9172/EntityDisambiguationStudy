@@ -1,0 +1,66 @@
+1.0	senior economist Su-Lin Ong	say	Royal Bank of Canada	PERSON	ORGANIZATION
+0.9372546801278098	rural export	be severely hit by	Australia 's worst drought in century	DURATION	LOCATION
+1.0	government	reflect	20 percent slump	0	PERCENT
+1.0	intermediate goods	fall	479 million	0	NUMBER
+1.0	44 percent	be in	November	PERCENT	DATE
+0.47937962732886696	goods	fall on	import side	0	0
+0.9372546801278098	export	be severely hit by	Australia 's worst drought in century	0	LOCATION
+0.9372546801278098	rural export	be hit by	Australia 's drought	DURATION	LOCATION
+1.0	goods	fall	479 million	0	NUMBER
+1.0	government	reflect	anticipated 20 percent slump	0	PERCENT
+1.0	Australia	have	trade deficit	O	LOCATION
+0.9939410330847379	month	be	hit	0	0
+1.0	agriculture	have	terms	O	O
+0.9939410330847379	month	be	hit by Australia 's drought	0	LOCATION
+1.0	government	slash	its economic growth forecast	0	0
+1.0	The government	have	growth forecast	O	O
+0.9372546801278098	export	be hit by	Australia 's drought in century	0	LOCATION
+0.9372546801278098	export	be hit by	Australia 's drought	0	LOCATION
+0.7709009149546855	economist	come	month	0	0
+1.0	economist Su-Lin Ong	say	Royal Bank	PERSON	ORGANIZATION
+0.9372546801278098	rural export	be	severely hit	DURATION	0
+1.0	Australia	have	drought	O	LOCATION
+0.9372546801278098	rural export	be hit by	Australia 's drought in century	DURATION	LOCATION
+0.9372546801278098	rural export	be severely hit by	Australia 's drought	DURATION	LOCATION
+1.0	Canada	have	Royal Bank	ORGANIZATION	ORGANIZATION
+0.9372546801278098	export	be hit by	Australia 's worst drought	0	LOCATION
+1.0	capital goods	drop	103 million	0	NUMBER
+0.9372546801278098	export	be hit by	Australia 's worst drought in century	0	LOCATION
+0.9372546801278098	export	be severely hit by	Australia 's drought	0	LOCATION
+1.0	consumption goods	slip	4.0 million	0	NUMBER
+0.9939410330847379	month	be	severely hit by Australia 's worst drought	0	LOCATION
+1.0	senior economist Su-Lin Ong	say	Royal Bank	PERSON	ORGANIZATION
+0.9939410330847379	month	be	severely hit by Australia 's worst drought in century	0	LOCATION
+1.0	Australia	by	worst drought in century	LOCATION	DURATION
+0.9372546801278098	export	be severely hit by	Australia 's worst drought	0	LOCATION
+1.0	government	recently slash	its growth forecast	0	0
+1.0	goods	have	exports	O	O
+1.0	economist Su-Lin Ong	say	Royal Bank of Canada	PERSON	ORGANIZATION
+0.9372546801278098	rural export	be hit by	Australia 's worst drought	DURATION	LOCATION
+1.0	Australia	have	international trade deficit	LOCATION	0
+1.0	government	recently slash	its economic growth forecast	0	0
+0.9939410330847379	month	be	hit by Australia 's drought in century	0	LOCATION
+0.9939410330847379	month	be	hit by Australia 's worst drought	0	LOCATION
+0.9372546801278098	rural export	be hit by	Australia 's worst drought in century	DURATION	LOCATION
+1.0	Australia 's international trade deficit	fall	44 percent in November	LOCATION	DATE
+0.9939410330847379	month	be	severely hit by Australia 's drought in century	0	LOCATION
+1.0	government	slash	its growth forecast	0	0
+1.0	Australia 's worst drought	be in	a century	LOCATION	DURATION
+1.0	Australia 's trade deficit	fall	44 percent in November	LOCATION	DATE
+1.0	Statistics	have	Bureau	ORGANIZATION	ORGANIZATION
+0.9372546801278098	export	be severely hit by	Australia 's drought in century	0	LOCATION
+0.9372546801278098	rural export	be	hit	DURATION	0
+0.9939410330847379	month	be	hit by Australia 's worst drought in century	0	LOCATION
+1.0	anticipated 20 percent slump	be in	farm output	PERCENT	0
+0.47937962732886696	intermediate goods	fall on	import side	0	0
+0.9939410330847379	month	be	severely hit by Australia 's drought	0	LOCATION
+1.0	Australia 's trade deficit	fall	44 percent	LOCATION	PERCENT
+1.0	Australia 's international trade deficit	fall	44 percent	LOCATION	PERCENT
+1.0	government	reflect	anticipated 20 percent slump in farm output	0	PERCENT
+0.9372546801278098	export	be	severely hit	0	0
+1.0	government	reflect	20 percent slump in farm output	0	PERCENT
+0.9372546801278098	export	be	hit	0	0
+1.0	australian Bureau of Statistics	of bureau be	abs	ORGANIZATION	0
+0.9939410330847379	month	be	severely hit	0	0
+0.9372546801278098	rural export	be severely hit by	Australia 's worst drought	DURATION	LOCATION
+0.9372546801278098	rural export	be severely hit by	Australia 's drought in century	DURATION	LOCATION

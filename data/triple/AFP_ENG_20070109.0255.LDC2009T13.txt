@@ -1,0 +1,50 @@
+1.0	Lieutenant General Eugenio Cedo	say	chief	PERSON	0
+1.0	military spokesman	say at_time	Wednesday	0	DATE
+1.0	Abu Sayyaf leader	be on	run from offensive	PERSON	0
+1.0	Abu Sayyaf leader	be on	run from military offensive in island of Jolo	PERSON	LOCATION
+1.0	group	have	membership	O	O
+1.0	salus	be	believe	0	0
+1.0	military offensive	be in	southern island of Jolo	0	LOCATION
+1.0	Abu Sayyaf group	have	have blame for worst terror attack in philippine history include bombing	PERSON	0
+1.0	Binang Sali	have	followers	O	O
+1.0	Abu Sayyaf leader	be on	run from military offensive in southern island	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for worst terror attack in history	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for terror attack	PERSON	0
+1.0	Abu Sayyaf leader	be on	run from military offensive in southern island of Jolo	PERSON	LOCATION
+1.0	Mount Pula	have	jungles	O	LOCATION
+1.0	Osama bin Laden	have	Al-Qaeda network	O	PERSON
+1.0	bombings	have	string	O	O
+1.0	Sali	have	body	O	PERSON
+1.0	spokesman	say at_time	Wednesday	0	DATE
+1.0	Jolo	have	island	O	LOCATION
+1.0	Abu Sayyaf leader	be on	run from military offensive	PERSON	0
+1.0	Abu Sayyaf leader	be on	run	PERSON	0
+1.0	salus	train	other Abu Sayyaf member	0	PERSON
+1.0	Abu Sayyaf leader	be on	run from offensive in island	PERSON	0
+1.0	salus	be believe for	string of bombing	0	0
+1.0	salus	be believe for	string	0	0
+1.0	Abu Sayyaf group	have	have blame for terror attack in philippine history include bombing	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for worst terror attack	PERSON	0
+1.0	soldier	be in	Philippines	0	LOCATION
+1.0	Sali	have	body	PERSON	0
+1.0	Abu Sayyaf group	have	have blame	PERSON	0
+1.0	Abu Sayyaf leader	be on	run from offensive in island of Jolo	PERSON	LOCATION
+1.0	Abu Sayyaf group	have	have blame for worst terror attack in philippine history	PERSON	0
+1.0	Abu Sayyaf leader	be on	run from military offensive in island	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for terror attack in philippine history	PERSON	0
+1.0	Binang Sali	have	caliber pistol	O	O
+1.0	Abu Sayyaf leader	be on	run from offensive in southern island	PERSON	0
+1.0	Lieutenant General Eugenio Cedo	say	regional chief	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for worst terror attack in history include bombing	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for terror attack in history include bombing	PERSON	0
+1.0	Abu Sayyaf group	have	have blame for terror attack in history	PERSON	0
+1.0	army ranger	be in	jungle of Mount Pula	0	LOCATION
+1.0	salus	train	Abu Sayyaf member	0	PERSON
+1.0	worst terror attack	be in	philippine history	0	0
+1.0	Abu Sayyaf group	have	have blame for terror attack include bombing	PERSON	0
+1.0	salus	be believe	responsible	0	0
+1.0	Abu Sayyaf group	have	have blame for worst terror attack include bombing	PERSON	0
+1.0	Abu Sayyaf leader	be on	run from offensive in southern island of Jolo	PERSON	LOCATION
+1.0	salus	be believe for	string of bombing in Jolo island	0	LOCATION
+1.0	bombing	be in	the southern island of Jolo	0	LOCATION
+1.0	Lieutenant General Eugenio Cedo	say	military chief	PERSON	0

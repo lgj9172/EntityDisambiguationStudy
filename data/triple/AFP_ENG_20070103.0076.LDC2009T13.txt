@@ -1,0 +1,34 @@
+1.0	communist state	have	leader	0	0
+1.0	North Korea	have	Paek Nam-Sun	LOCATION	PERSON
+1.0	it	be	first mention	0	ORDINAL
+1.0	Pyongyang	have	media	O	LOCATION
+1.0	it	be foreign minister since	1998	0	DATE
+1.0	North	by	media of death of Paek	0	PERSON
+1.0	ministry official	tell afp on	condition	0	0
+1.0	ministry official	tell	afp	0	0
+1.0	foreign ministry official	tell afp on	condition	0	0
+1.0	foreign ministry official	tell afp on	condition of anonymity	0	0
+1.0	communist state	's leader be	Kim Jong-Il	0	PERSON
+1.0	North	have	media	O	O
+1.0	death	have	media	O	O
+1.0	South Korea	have	spy agency	O	LOCATION
+1.0	Paek Nam-Sun	be foreign minister of	North Korea	PERSON	LOCATION
+1.0	North Korea	have	Foreign Minister Paek Nam-Sun	PERSON	LOCATION
+1.0	it	be minister since	1998	0	DATE
+1.0	spokesman	confirm	death	0	0
+1.0	state	have	leader	O	O
+1.0	Kim Jong-Il	have	death	O	O
+1.0	South Korea 's spy agency	for spokesman be	National Intelligence Service	LOCATION	ORGANIZATION
+1.0	his	have	death	O	O
+1.0	South Korea	for	spy agency	LOCATION	0
+1.0	Pyongyang 's media	report at_time	Wednesday	LOCATION	DATE
+1.0	death	have	cause	O	O
+1.0	ministry official	tell afp on	condition of anonymity	0	0
+1.0	it	be	foreign minister	0	0
+1.0	it	be	mention	0	0
+1.0	Pyongyang	have	official media	LOCATION	0
+1.0	North Korea 's Foreign Minister Paek Nam-Sun	have	death	O	PERSON
+1.0	it	be	minister	0	0
+1.0	Pyongyang 's official media	report at_time	Wednesday	LOCATION	DATE
+1.0	foreign ministry official	tell	afp	0	0
+1.0	anonymity	have	condition	O	O

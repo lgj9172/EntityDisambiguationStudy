@@ -1,0 +1,63 @@
+1.0	employee	confirm ban in	capital	0	0
+1.0	Brigadier General Abdel Karim Khalaf	say	interior ministry spokesman	PERSON	ORGANIZATION
+1.0	Al-Sharqiya	be own by	Saad al-Bazzaz	PERSON	PERSON
+1.0	The Iraqi government on Monday	rival	Al-Jazeera	0	ORGANIZATION
+1.0	channel	curb	its reporting of violence	0	0
+1.0	The channel	have	reporting	O	O
+1.0	Bazzaz	be	information ministry official	PERSON	0
+1.0	Bazzaz	move to	London	PERSON	LOCATION
+1.0	government	permanently ban	Al-Jazeera	0	ORGANIZATION
+1.0	government	ban	its known arabic-language rival	0	ORGANIZATION
+1.0	Bazzaz	be	information ministry official under late iraqi dictator Saddam Hussein	PERSON	PERSON
+1.0	Bazzaz	be	senior information ministry official under dictator Saddam Hussein	PERSON	PERSON
+1.0	work	be in	Baghdad	0	LOCATION
+1.0	London	be in	the mid 1990s	LOCATION	DATE
+1.0	two television channel	be in	November	NUMBER	DATE
+1.0	Brigadier General Abdel Karim Khalaf	say	ministry spokesman	PERSON	ORGANIZATION
+1.0	government	have earlier ban	pan-arab station Al	0	ORGANIZATION
+1.0	Al-Sharkiya	continue	work	PERSON	0
+1.0	employee	say on	condition of anonymity	0	0
+1.0	Bazzaz	be	senior information ministry official under late iraqi dictator Saddam Hussein	PERSON	PERSON
+1.0	Bazzaz	move to	London in mid 1990s	PERSON	DATE
+1.0	Abdel Karim Khalaf	be spokesman brigadier general of	interior ministry	PERSON	ORGANIZATION
+1.0	Saddam	have	trial	O	PERSON
+1.0	The Iraqi government on Monday	have	Arabic-language rival	O	O
+1.0	Shiite and Sunni extremists	have	office	O	O
+1.0	senior employee	confirm ban in	iraqi capital	0	0
+1.0	channel	curb	its reporting	0	0
+1.0	Iraq	ban	Al-Zawra	LOCATION	PERSON
+1.0	government	ban	its arabic-language rival	0	ORGANIZATION
+1.0	Iraq	ban	two television channel	LOCATION	NUMBER
+1.0	government	have also ban	station Al	0	ORGANIZATION
+1.0	Bazzaz	be	information ministry official under late dictator Saddam Hussein	PERSON	PERSON
+1.0	Iraq	ban	two television channel in November	LOCATION	DATE
+1.0	government	have also earlier ban	station Al	0	ORGANIZATION
+1.0	Al-Sharqiya	be	own	PERSON	0
+1.0	Bazzaz	be	senior information ministry official under late dictator Saddam Hussein	PERSON	PERSON
+1.0	employee	confirm	ban	0	0
+1.0	Al-Zawra	receive	death penalty	0	0
+1.0	employee	confirm ban in	iraqi capital	0	0
+1.0	Saddam	of	trial for crime against humanity	PERSON	0
+1.0	violence	have	reporting	O	O
+1.0	Bazzaz	be	senior information ministry official under iraqi dictator Saddam Hussein	PERSON	PERSON
+1.0	government	have earlier ban	station Al	0	ORGANIZATION
+1.0	government	have ban	station Al	0	ORGANIZATION
+1.0	senior employee	confirm	ban	0	0
+1.0	trial	have	coverage	O	O
+1.0	Bazzaz	be	information ministry official under dictator Saddam Hussein	PERSON	PERSON
+1.0	government	ban	Al-Jazeera	0	ORGANIZATION
+1.0	government	permanently ban	its arabic-language rival	0	ORGANIZATION
+1.0	senior employee	confirm ban in	capital	0	0
+1.0	government	have also earlier ban	pan-arab station Al	0	ORGANIZATION
+1.0	government	have also ban	pan-arab station Al	0	ORGANIZATION
+1.0	Al-Zawra and Salaheddin	have	coverage	O	O
+1.0	government	permanently ban	its known arabic-language rival	0	ORGANIZATION
+1.0	Al Arabiya	be for	a month in September	ORGANIZATION	DATE
+1.0	Bazzaz	be	senior	PERSON	0
+1.0	employee	say on	condition	0	0
+1.0	Bazzaz	be	information ministry official under iraqi dictator Saddam Hussein	PERSON	PERSON
+1.0	Saddam Hussein	be under	iraqi	PERSON	0
+1.0	Bazzaz	be	senior information ministry official	PERSON	0
+1.0	government	have ban	pan-arab station Al	0	ORGANIZATION
+1.0	November	in channel be	Al-Zawra	DATE	PERSON
+1.0	anonymity	have	condition	O	O

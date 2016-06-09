@@ -1,0 +1,50 @@
+1.0	communities	have	one	NUMBER	O
+1.0	window	be	smash	0	0
+1.0	man speaking	be in	arabic	0	0
+1.0	execution	be in	Iraq	0	LOCATION
+1.0	our	have	community	O	O
+1.0	we	take strongly	message	0	0
+1.0	vandalism	come after	execution	DURATION	0
+1.0	violence	have	free	O	O
+1.0	Sunni coalition Shura Council	have	president	O	ORGANIZATION
+1.0	businesses	have	windows	O	O
+1.0	window	be	smash sometime that	0	0
+1.0	Sunni leader	be plan	meet Wednesday	MISC	DATE
+1.0	we	take message strongly to	we community	0	0
+1.0	we	control	this	0	0
+1.0	we	condone	it	0	0
+1.0	window	be smash sometime at_time	night	0	TIME
+1.0	window	be smash at_time	night	0	TIME
+1.0	Walid	say at_time	Tuesday	PERSON	DATE
+1.0	Sunni leader	meet at_time	Wednesday	MISC	DATE
+1.0	Michigan chapter	have	director	O	O
+1.0	vandalism	come after	execution in Iraq of Saddam Hussein	DURATION	PERSON
+1.0	Mouhib Ayas	be of	Michigan	PERSON	LOCATION
+1.0	clashes	have	specter	O	O
+1.0	islamic Shura Council	be of	Sunni	ORGANIZATION	MISC
+1.0	one	have	owner	O	NUMBER
+1.0	Dawud Walid	director of	Michigan chapter	PERSON	LOCATION
+1.0	Our	have	kids	O	O
+1.0	Sunni leader	be plan	meet	MISC	0
+1.0	it	may get	worse	0	0
+1.0	vandalism	come at_time	week	DURATION	DURATION
+1.0	businesses	have	vandalization	O	O
+1.0	vandalism	come after	execution in Iraq	DURATION	LOCATION
+1.0	imam	condone	it	0	0
+1.0	Mouhib Ayas	president of	islamic Shura Council	PERSON	ORGANIZATION
+1.0	mosques	have	windows	O	O
+1.0	Muslims	be in	America	MISC	LOCATION
+1.0	Michigan	of ayas be	president	LOCATION	0
+1.0	Council	have	Michigan chapter	O	O
+1.0	organizations	have	part	O	O
+1.0	Iraq	be of	Saddam Hussein	LOCATION	PERSON
+1.0	we	take message to	we community	0	0
+1.0	mosques	have	vandalization	O	O
+1.0	his	have	death	O	O
+1.0	Muslims	have	communities	O	MISC
+1.0	Michigan	have	Mouhib Ayas	PERSON	LOCATION
+1.0	we	take	message	0	0
+1.0	Walid	say in	telephone interview	PERSON	0
+1.0	five shiite-owned business	be in	Michigan	NUMBER	LOCATION
+1.0	restaurants	have	one	NUMBER	O
+1.0	Saddam Hussein	have	Iraq	LOCATION	PERSON

@@ -1,0 +1,14 @@
+1.0	blast	be in	Logar province	0	LOCATION
+1.0	Taliban militants waging an insurgency against the US-backed government	have	use	O	O
+1.0	blast	be in	Logar province about 50 kilometre	0	NUMBER
+1.0	capital	chief 's	city	0	0
+1.0	city	have	criminal investigation chief	0	0
+1.0	117 suicide bombing	be in	2006	NUMBER	DATE
+1.0	campaign	have	part	O	O
+1.0	Ali Shah Paktiawal	tell afp from	site	PERSON	0
+1.0	Afghan capital	have	south	O	O
+1.0	blast	be in	Logar province about 50 kilometre from capital	0	NUMBER
+1.0	suicide bombings	have	use	O	O
+1.0	blast	be in	Logar province from capital	0	LOCATION
+1.0	city	have	investigation chief	O	O
+1.0	Ali Shah Paktiawal	tell	afp	PERSON	0

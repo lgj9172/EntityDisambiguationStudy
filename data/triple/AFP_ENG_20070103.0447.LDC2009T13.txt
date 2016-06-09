@@ -1,0 +1,23 @@
+1.0	Super 3G	will	with speed of roughly 100 megabit will some 260 time	0	NUMBER
+1.0	business	say as	3g service	0	0
+1.0	business	say as	fast 3g service	0	0
+1.0	Super 3G	will	with speed of roughly 100 megabit per second will some 260 time	0	ORDINAL
+1.0	Super 3G	will	with speed of roughly 100 megabit will 260 time	0	NUMBER
+1.0	news report	say at_time	Thursday	0	DATE
+1.0	business	cite	source	0	0
+1.0	Super 3G	will	with speed of roughly 100 megabit per second will 260 time	0	ORDINAL
+1.0	NTT DoCoMo	be	japanese	ORGANIZATION	0
+1.0	business	say as	exist 3g service	0	0
+1.0	Super 3G	will	with speed will 260 time	0	NUMBER
+1.0	business	daily say as	fast 3g service	0	0
+1.0	business	say as	fast exist 3g service	0	0
+1.0	business	daily say as	exist 3g service	0	0
+1.0	will 260 time	be with	speed of roughly 100 megabit per second	NUMBER	ORDINAL
+1.0	megabits	have	speed	O	O
+1.0	business	daily say as	fast exist 3g service	0	0
+1.0	high service	be in	2010	0	DATE
+1.0	business	daily say as	3g service	0	0
+1.0	Super 3G	will	will some 260 time	0	NUMBER
+1.0	Super 3G	will	with speed will some 260 time	0	NUMBER
+1.0	Super 3G	will	will 260 time	0	NUMBER
+1.0	Japanese mobile phone giant NTT DoCoMo	have	3G service	O	O

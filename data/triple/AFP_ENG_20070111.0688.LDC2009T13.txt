@@ -1,0 +1,52 @@
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	my	have	view	O	O
+0.8334816829046103	government	decline in	number of attack	0	0
+1.0	success	have	chances	O	O
+1.0	Hoshyar Zebari	also tell	broadcaster	PERSON	0
+1.0	Iraq	have	minister	O	LOCATION
+1.0	hand-over	be	doable	0	0
+1.0	government	follow execution at_time	year	0	DATE
+1.0	Hoshyar Zebari	describe plan as	crucial critical move	PERSON	0
+1.0	strategy	have	outcome	O	O
+1.0	Iraq 's minister	tell	BBC	LOCATION	ORGANIZATION
+1.0	reconstruction	have	components	O	O
+1.0	key issue	be in	Iraq	0	LOCATION
+1.0	government	see	decline	0	0
+1.0	plan	have	components	O	O
+1.0	security responsibilities	have	hand-over	O	O
+1.0	hand-over	be doable accord to	Zebari	0	PERSON
+1.0	government	see	decline in number of attack	0	0
+1.0	attacks	have	number	O	O
+1.0	Hoshyar Zebari	describe plan as	move	PERSON	0
+1.0	chance	be	higher	0	0
+1.0	government	follow execution at_time	last year	0	DATE
+1.0	government	follow	execution of former iraqi dictator Saddam Hussein	0	PERSON
+1.0	Hoshyar Zebari	describe plan as	very crucial move	PERSON	0
+1.0	great deal	will depend on	outcome	0	0
+1.0	government	follow	execution	0	0
+1.0	security operation	have	outcome	O	O
+1.0	Hoshyar Zebari	describe plan as	critical move	PERSON	0
+1.0	investment	have	components	O	O
+1.0	decline	be in	number	0	0
+1.0	government	see	decline in number of attack on coalition even	0	0
+1.0	war-torn country	be in	effort stabilise	0	0
+1.0	Iraq	have	foreign minister	LOCATION	0
+1.0	Hoshyar Zebari	tell	broadcaster	PERSON	0
+1.0	dictator Saddam Hussein	have	execution	O	PERSON
+0.8334816829046103	government	decline in	number of attack on coalition even	0	0
+1.0	government	follow execution at_time	late last year	0	DATE
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	economic	have	components	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+0.8334816829046103	government	decline in	number	0	0
+1.0	government	see	decline in number	0	0
+1.0	Hoshyar Zebari	describe plan as	very crucial critical move	PERSON	0
+1.0	government	follow execution at_time	late year	0	DATE
+1.0	Hoshyar Zebari	describe	plan	PERSON	0
+1.0	political	have	components	O	O
+1.0	deal	will depend on	outcome	0	0
+1.0	government	see	decline in number of attack on coalition	0	0
+1.0	Hoshyar Zebari	describe plan as	crucial move	PERSON	0
+1.0	government	follow	execution of former dictator Saddam Hussein	0	PERSON
+0.8334816829046103	government	decline in	number of attack on coalition	0	0
+1.0	Iraq 's foreign minister	tell	BBC	LOCATION	ORGANIZATION

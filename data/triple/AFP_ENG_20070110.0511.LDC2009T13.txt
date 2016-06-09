@@ -1,0 +1,61 @@
+1.0	majority	have	have run by United Nations since 1999	0	DATE
+1.0	NATO diplomat	say on	condition of anonymity	ORGANIZATION	0
+1.0	NATO	have	mission	O	O
+1.0	UN envoy Martti Ahtisaari	begin	often-difficult negotiation	PERSON	0
+1.0	NATO	be conduct	its ambitious-ever mission in Afghanistan	ORGANIZATION	LOCATION
+1.0	James Appathurai	say	spokesman	PERSON	0
+1.0	its ambitious-ever mission	be in	Afghanistan	0	LOCATION
+1.0	UN envoy Martti Ahtisaari	begin negotiation in	February	PERSON	DATE
+1.0	UN envoy Martti Ahtisaari	define	future status of province define as part	PERSON	DATE
+1.0	extraordinary meeting	be in	Brussels	0	LOCATION
+1.0	UN envoy Martti Ahtisaari	define	future status of province define as part of country	PERSON	DATE
+1.0	province	have	status	O	O
+1.0	UN envoy Martti Ahtisaari	define	future status of province	PERSON	DATE
+1.0	majority	have	have run since 1999	0	DATE
+1.0	alliance	have	ministers	O	O
+1.0	NATO bombing campaign	end	crackdown	ORGANIZATION	0
+1.0	meeting	will	will also attend	0	0
+1.0	meeting	will	will attend by Afghan Foreign Minister Rangeen Dadfar Spanta	0	PERSON
+1.0	UN envoy Martti Ahtisaari	define	future status	PERSON	DATE
+1.0	NATO	be conduct	its mission	ORGANIZATION	0
+1.0	he	be	due	0	0
+1.0	spokesman	say at_time	Wednesday	0	DATE
+1.0	Rangeen Dadfar Spanta	be by	Afghan	PERSON	MISC
+1.0	meeting	will	will attend	0	0
+1.0	he	make recommendation after	election	0	0
+1.0	meeting	will	will also attend by Afghan Foreign Minister Rangeen Dadfar Spanta	0	PERSON
+1.0	alliance	between	26 foreign minister	0	NUMBER
+1.0	NATO bombing campaign	end crackdown by	Belgrade	ORGANIZATION	LOCATION
+1.0	he	make recommendation to	United Nations	0	ORGANIZATION
+1.0	he	make	recommendation	0	0
+1.0	majority	have	have run by United Nations	0	ORGANIZATION
+1.0	NATO	be conduct	its mission in Afghanistan	ORGANIZATION	LOCATION
+1.0	UN envoy Martti Ahtisaari	define	future status of province define by Serb constitution	PERSON	DATE
+1.0	UN envoy Martti Ahtisaari	define	future status of province define as integral part of country	PERSON	DATE
+1.0	James Appathurai	say	chief spokesman	PERSON	0
+1.0	UN envoy Martti Ahtisaari	define	future status of province define by Serb constitution as part of country	PERSON	DATE
+1.0	NATO bombing campaign	end crackdown on	separatist rebel	ORGANIZATION	0
+1.0	UN envoy Martti Ahtisaari	define	future status of province define as integral part	PERSON	DATE
+1.0	country	have	part	O	O
+1.0	Martti Ahtisaari	be envoy of	the United Nations	PERSON	ORGANIZATION
+1.0	UN envoy Martti Ahtisaari	define	future status of province define by Serb constitution as part	PERSON	DATE
+1.0	NATO	be conduct	its most ambitious-ever mission in Afghanistan	ORGANIZATION	LOCATION
+1.0	Serbia	be on	January 21	LOCATION	DATE
+1.0	February	be with	Serbian authority	DATE	MISC
+1.0	Kosovo	by	hope	LOCATION	0
+1.0	election	be in	Serbia	0	LOCATION
+1.0	meeting	be in	Brussels	0	LOCATION
+1.0	Martti Ahtisaari	be	the United Nations	PERSON	ORGANIZATION
+1.0	UN envoy Martti Ahtisaari	define	future status of province define by Serb constitution as integral part	PERSON	DATE
+1.0	UN envoy Martti Ahtisaari	define	future status of province define	PERSON	DATE
+1.0	country	have	south	O	O
+1.0	UN envoy Martti Ahtisaari	begin	negotiation	PERSON	0
+1.0	NATO	be conduct	its ambitious-ever mission	ORGANIZATION	0
+1.0	NATO bombing campaign	end crackdown on	rebel	ORGANIZATION	0
+1.0	majority	have	have run	0	0
+1.0	Kosovo	have	hopes	O	LOCATION
+1.0	UN envoy Martti Ahtisaari	begin negotiation in	February with Serbian authority	PERSON	DATE
+1.0	NATO	be conduct	its most ambitious-ever mission	ORGANIZATION	0
+1.0	NATO diplomat	say on	condition	ORGANIZATION	0
+1.0	anonymity	have	condition	O	O
+1.0	UN envoy Martti Ahtisaari	define	future status of province define by Serb constitution as integral part of country	PERSON	DATE

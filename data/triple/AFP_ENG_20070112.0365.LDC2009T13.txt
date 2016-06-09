@@ -1,0 +1,180 @@
+1.0	third wife	have	home in resort	ORDINAL	0
+1.0	the first woman to become Argentina 's head of state	have	car	O	O
+1.0	dominance	flex	its muscle	0	0
+0.7022559623082214	have	home in	resort	0	0
+1.0	late Argentine president Juan Peron	be	argentine	PERSON	0
+1.0	police	tell	judicial official	0	0
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity of AAA	PERSON	PERSON
+1.0	Peron	be question during	she time	PERSON	0
+1.0	her	have	husband	O	O
+1.0	police	tell	official	0	0
+1.0	paramilitary	have	Spain	LOCATION	O
+1.0	Rodolfo Almiron	be detain in	city of Valencia	PERSON	LOCATION
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity of AAA	PERSON	PERSON
+1.0	her	have	sorties	O	O
+1.0	third wife	have	home in resort of Marbella	ORDINAL	LOCATION
+1.0	third wife	have	home in seaside resort of Marbella	ORDINAL	LOCATION
+1.0	30,000 people	go	miss	NUMBER	0
+1.0	late Argentine president Juan Peron	have	home country	O	O
+1.0	Peron	be question by	spanish judge Baltasar Garzon in February 1997	PERSON	PERSON
+1.0	Peron	be	question by judge Baltasar Garzon about activity	PERSON	PERSON
+1.0	them	have	most	O	O
+1.0	whose	have	extradition	O	O
+1.0	Isabel Peron	during	presidency	PERSON	0
+1.0	it	remain	unclear	0	0
+1.0	Peron	be question by	spanish judge Baltasar Garzon	PERSON	PERSON
+1.0	leaders	have	one	NUMBER	O
+1.0	Rodolfo Almiron	be	detain in eastern city of Valencia on December 28	PERSON	LOCATION
+1.0	dominance	increasingly flex	its muscle	0	0
+1.0	Baltasar Garzon	be in	February 1997	PERSON	DATE
+1.0	judge Hector Acosta	issue	warrant	PERSON	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity during she time	PERSON	PERSON
+1.0	the woman who succeeded `` Evita '' Peron as Argentina 's first lady	have	health	O	O
+1.0	Peron	be question about	activity	PERSON	0
+0.7022559623082214	have	home in	southern resort of Marbella	0	LOCATION
+1.0	Spain	be	late Argentine president Juan Peron	LOCATION	PERSON
+1.0	its	have	muscle	O	O
+1.0	late Argentine president Juan Peron	have	lifestyle	O	PERSON
+1.0	president Juan Peron	have	wife	O	PERSON
+1.0	Peron	be	question by judge Baltasar Garzon about activity of AAA during she time	PERSON	PERSON
+1.0	she brief period	be in	power	0	0
+1.0	Peron	be	question about activity during she time in power	PERSON	0
+1.0	wife	have	home in southern resort of Marbella	0	LOCATION
+1.0	wife	have	home in resort of Marbella	0	LOCATION
+1.0	Peron	be topple until	1983	PERSON	DATE
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity of AAA during she time in power	PERSON	PERSON
+1.0	argentine protester	shout at	she	0	0
+0.7022559623082214	have	home in	southern resort	0	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 during she time in power	PERSON	PERSON
+1.0	Baltasar Garzon	be by	spanish	PERSON	0
+1.0	the woman who succeeded `` Evita '' Peron as Argentina 's first lady	have	absence	O	O
+1.0	people	be	kill	0	0
+1.0	Argentina	as	first lady	LOCATION	ORDINAL
+1.0	favourite	haunt for	country 's jetset	0	0
+1.0	judge Hector Acosta	issue	international warrant	PERSON	0
+1.0	Juan Peron	be of	argentine	PERSON	0
+1.0	Peron	be	question by judge Baltasar Garzon about activity of AAA	PERSON	PERSON
+1.0	interest	be in	lifestyle of 75-year-old Peron	0	PERSON
+1.0	far-right death squad	be with	close link to Peron	0	PERSON
+1.0	30,000 people	be	kill	NUMBER	0
+1.0	property	be in	hill near capital	0	0
+1.0	whose real name	be	Maria Estela Martinez Peron	0	PERSON
+1.0	Spain	be  at_time	last month	LOCATION	DATE
+1.0	30,000 people	go	miss in crackdown	NUMBER	0
+0.7022559623082214	have	home in	seaside resort	0	0
+1.0	Rodolfo Almiron	be	detain	PERSON	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity during she time in power	PERSON	PERSON
+1.0	Peron	be question during	she time in power	PERSON	0
+1.0	whose	have	name	O	O
+1.0	judge Hector Acosta	issue warrant for	she arrest	PERSON	0
+1.0	Rodolfo Almiron	be detain on	December 28	PERSON	DATE
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity	PERSON	PERSON
+1.0	protester	shout at	she	0	0
+1.0	third wife	have	home in southern resort of Marbella	ORDINAL	LOCATION
+1.0	argentine judge Hector Acosta	issue	warrant	PERSON	0
+1.0	angry protester	chase after	she car	0	0
+1.0	office	have	third	ORDINAL	O
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity	PERSON	PERSON
+1.0	wife	have	home	0	0
+1.0	Franciso Franco	be of	spanish	PERSON	0
+1.0	Peron	be	question about activity of AAA during she time in power	PERSON	0
+1.0	Peron	be	question	PERSON	0
+1.0	she	appear at_time	day	0	DATE
+1.0	semi-reclusive life	be in	Spain	0	LOCATION
+1.0	Valencia	have	city	O	LOCATION
+1.0	Peron	be	question by judge Baltasar Garzon about activity of AAA during she time in power	PERSON	PERSON
+0.7022559623082214	have	home in	southern seaside resort	0	0
+1.0	country	have	jetset	O	O
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity of AAA during she time	PERSON	PERSON
+1.0	violence	have	vortex	O	O
+1.0	arrest	be in	Spain	0	LOCATION
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity during she time in power	PERSON	PERSON
+1.0	she	be	say	0	0
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity during she time	PERSON	PERSON
+1.0	Argentina	have	head	O	LOCATION
+0.7022559623082214	have	home in	resort of Marbella	0	LOCATION
+1.0	the woman who succeeded `` Evita '' Peron as Argentina 's first lady	have	arrival	O	O
+1.0	the first woman to become Argentina 's head of state	leave	courtroom	0	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity of AAA	PERSON	PERSON
+1.0	her	have	period	O	O
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity of AAA during she time in power	PERSON	PERSON
+1.0	she life	be in	exile	0	0
+1.0	murders	have	accused	O	O
+1.0	Peron	be	question about activity of AAA during she time	PERSON	0
+1.0	third wife	have	home in seaside resort	ORDINAL	0
+1.0	people	go	miss in crackdown	0	0
+1.0	dominance	flex	military	0	0
+0.7022559623082214	have	home in	southern seaside resort of Marbella	0	LOCATION
+1.0	dictator Franciso Franco	have	relatives	O	PERSON
+1.0	Peron	be	question by spanish judge Baltasar Garzon during she time	PERSON	PERSON
+1.0	dominance	increasingly flex	military	0	0
+1.0	third wife	have	home	ORDINAL	0
+1.0	she arrival	be in	Spain	0	LOCATION
+1.0	Rodolfo Almiron	be detain in	eastern city	PERSON	0
+1.0	Rodolfo Almiron	leader of	far-right death squad with close link to Peron	PERSON	PERSON
+1.0	argentine judge Hector Acosta	issue	international warrant	PERSON	0
+1.0	Isabel Peron	have	presidency	O	PERSON
+1.0	wife	have	home in southern resort	0	0
+1.0	Rodolfo Almiron	be detain in	city	PERSON	0
+1.0	Rodolfo Almiron	be detain in	eastern city of Valencia	PERSON	LOCATION
+1.0	whose real name	be	late Argentine president Juan Peron	0	PERSON
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity of AAA during she time	PERSON	PERSON
+1.0	Peron	be	question about activity during she time	PERSON	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity during she time in power	PERSON	PERSON
+1.0	El Pais	be	daily	ORGANIZATION	0
+1.0	Rodolfo Almiron	be	detain in city on December 28	PERSON	DATE
+1.0	people	go	miss	0	0
+1.0	Hector Acosta	be	argentine	PERSON	0
+1.0	protester	chase after	she car	0	0
+1.0	death squad	have	leader	O	O
+1.0	Argentina	have	head of state	LOCATION	0
+1.0	Rodolfo Almiron	be	detain in eastern city on December 28	PERSON	DATE
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 during she time	PERSON	PERSON
+1.0	whose name	be	late Argentine president Juan Peron	0	PERSON
+1.0	state	have	head	O	O
+1.0	Augusto Pinochet	be	chilean	PERSON	0
+1.0	wife	have	home in southern seaside resort of Marbella	0	LOCATION
+1.0	whose name	be	Maria Estela Martinez Peron	0	PERSON
+1.0	wife	have	home in southern seaside resort	0	0
+1.0	the woman who succeeded `` Evita '' Peron as Argentina 's first lady	have	neighbours	O	O
+1.0	Peron	be	question by judge Baltasar Garzon about activity during she time in power	PERSON	PERSON
+1.0	she	appear in	court	0	0
+1.0	Peron	be	question by judge Baltasar Garzon during she time	PERSON	PERSON
+1.0	home	be in	southern seaside resort of Marbella	0	LOCATION
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 about activity of AAA during she time	PERSON	PERSON
+1.0	government	be in	Buenos Aires	0	LOCATION
+1.0	interest	have rise since	Thursday	0	DATE
+1.0	her	have	time	O	O
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity during she time	PERSON	PERSON
+1.0	late Argentine president Juan Peron	be	be seek	PERSON	0
+1.0	third wife	have	home in southern seaside resort of Marbella	ORDINAL	LOCATION
+1.0	Peron	be	question by spanish judge Baltasar Garzon about activity	PERSON	PERSON
+1.0	Peron	be	question by judge Baltasar Garzon during she time in power	PERSON	PERSON
+1.0	argentine judge Hector Acosta	issue warrant for	she arrest	PERSON	0
+1.0	third wife	have	home in southern resort	ORDINAL	0
+1.0	she time	be in	power	0	0
+1.0	wife	have	home in resort	0	0
+1.0	Rodolfo Almiron	be	detain in city of Valencia on December 28	PERSON	LOCATION
+1.0	Anticommunist Alliance	have	leaders	O	ORGANIZATION
+1.0	Peron	be question about	activity of AAA	PERSON	0
+1.0	Peron	be	question by judge Baltasar Garzon about activity during she time	PERSON	PERSON
+1.0	country	for	jetset	0	0
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 about activity of AAA during she time in power	PERSON	PERSON
+1.0	wife	have	home in seaside resort of Marbella	0	LOCATION
+1.0	Peron	be	topple	PERSON	0
+1.0	Marbella	have	resort	O	LOCATION
+1.0	activist Hector Fagetti Gallego	have	kidnapping	O	PERSON
+1.0	Peron	be question by	judge Baltasar Garzon in February 1997	PERSON	PERSON
+1.0	Peron	be	question by judge Baltasar Garzon in February 1997 during she time in power	PERSON	PERSON
+1.0	Peron	be	question by spanish judge Baltasar Garzon during she time in power	PERSON	PERSON
+1.0	third wife	have	home in southern seaside resort	ORDINAL	0
+1.0	late Argentine president Juan Peron	have	arrest	O	O
+1.0	wife	have	home in seaside resort	0	0
+1.0	Peron	be	question by spanish judge Baltasar Garzon in February 1997 during she time	PERSON	PERSON
+1.0	AAA	have	activities	O	O
+1.0	friends	have	circle	O	O
+1.0	the third wife of late Argentine president Juan Peron	have	life	O	O
+1.0	interest	have rise sharply since	Thursday	0	DATE
+0.7022559623082214	have	home in	seaside resort of Marbella	0	LOCATION
+1.0	Argentina	have	lady	O	LOCATION
+1.0	Peron	be question by	judge Baltasar Garzon	PERSON	PERSON

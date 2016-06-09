@@ -1,0 +1,53 @@
+1.0	raid	want in	Nairobi	0	LOCATION
+1.0	Navy spokesman Lt. Commander Charlie Brown	tell	AFP	PERSON	ORGANIZATION
+1.0	Somalia	off	coast	LOCATION	0
+1.0	troops	force	they	0	0
+1.0	they	flee into	scrubland along border	0	0
+1.0	Navy spokesman Lt. Commander Charlie Brown	tell	AFP in statement	PERSON	ORGANIZATION
+1.0	USS Dwight D. Eisenhower ... to support ongoing maritime security operations off the coast of Somalia	say from	fifth Fleet base	0	ORGANIZATION
+1.0	village	be hit at_time	Monday	0	DATE
+1.0	carrier	have	deployment	O	O
+1.0	carrier	have	deployment	0	0
+1.0	coast	have	support	O	O
+1.0	ethiopian troops	route islamists in	port town of Kismayo	0	LOCATION
+1.0	US embassies	have	bombing	O	O
+1.0	they	flee into	scrubland	0	0
+1.0	ethiopian troops	route islamists at_time	last week	0	DATE
+0.5265686140902458	raid	target	suspect Al-Qaeda operative	0	ORGANIZATION
+1.0	ethiopian troops	route islamists at_time	week	0	DATE
+1.0	ethiopian troops	route islamists in	southern port town	0	0
+1.0	troops	route islamists in	southern port town	0	0
+1.0	Kismayo	have	port town	O	LOCATION
+1.0	AFP	be in	statement	ORGANIZATION	0
+1.0	ethiopian troops	route islamists from	they stronghold	0	0
+1.0	troops	route	Islamists	0	MISC
+1.0	ethiopian troops	route islamists in	port town	0	0
+1.0	troops	route islamists in	port town of Kismayo	0	LOCATION
+1.0	village	be hit at_time	late Monday	0	DATE
+1.0	ethiopian troops	route islamists in	southern port town of Kismayo	0	LOCATION
+1.0	village	be	hit	0	0
+1.0	border	be with	Kenya	0	LOCATION
+1.0	ethiopian troops	force	they	0	0
+1.0	troops	route islamists at_time	last week	0	DATE
+1.0	Ethiopian and Somali troops	have	stronghold	O	O
+1.0	USS Dwight D. Eisenhower ... to support ongoing maritime security operations off the coast of Somalia	say in	Bahrain	0	LOCATION
+1.0	ethiopian troops	route	Islamists	0	MISC
+1.0	troops	route islamists at_time	week	0	DATE
+1.0	raid	want with	1998 bombing of US embassy	0	LOCATION
+1.0	Charlie Brown	be spokesman lt. commander of	Navy	PERSON	ORGANIZATION
+1.0	US ac-130 gunship	be in	same area	LOCATION	0
+1.0	troops	route islamists in	port town	0	0
+1.0	troops	route islamists from	they stronghold	0	0
+1.0	operation	have	part	O	O
+1.0	Somalia	have	coast	O	LOCATION
+1.0	raid	want in	connection	0	0
+0.5265686140902458	raid	target	Al-Qaeda operative	0	ORGANIZATION
+1.0	Charlie Brown	be	Navy	PERSON	ORGANIZATION
+1.0	they	flee into	scrubland along border with Kenya	0	LOCATION
+1.0	develop event	be in	Somalia	0	LOCATION
+1.0	US military	say at_time	Tuesday	LOCATION	DATE
+1.0	Dar	e	salaam	LOCATION	0
+1.0	coast	have	operative	O	O
+1.0	USS Dwight D. Eisenhower ... to support ongoing maritime security operations off the coast of Somalia	say from	Fleet base	0	ORGANIZATION
+1.0	troops	route islamists in	southern port town of Kismayo	0	LOCATION
+1.0	raid	want with	1998 bombing	0	DATE

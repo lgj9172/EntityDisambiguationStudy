@@ -1,0 +1,27 @@
+1.0	he	stick instead to	language	0	0
+1.0	bank	strengthen	financial macro	0	0
+1.0	bank	have	website	O	O
+1.0	New Year 's	in	address post on website Tuesday	DATE	DATE
+1.0	bank governor Zhou Xiaochuan	say in	he New Year 's address post	PERSON	DATE
+1.0	bank governor Zhou Xiaochuan	say in	he New Year 's address	PERSON	DATE
+1.0	policy	have	continuity	O	O
+1.0	central bank governor Zhou Xiaochuan	say in	he New Year 's address	PERSON	DATE
+1.0	he	stick instead to	oft-used language	0	0
+1.0	system reform	have	continuity	O	O
+1.0	bank governor Zhou Xiaochuan	say in	he New Year 's address post Tuesday	PERSON	DATE
+0.13469263154007693	he	stick instead	suggest	0	0
+1.0	central bank governor Zhou Xiaochuan	say in	he New Year 's address post on bank 's website	PERSON	DATE
+1.0	bank	on	website	0	0
+0.13469263154007693	he	stick	suggest	0	0
+1.0	bank governor Zhou Xiaochuan	say in	he New Year 's address post on bank 's website Tuesday	PERSON	DATE
+1.0	central bank governor Zhou Xiaochuan	say in	he New Year 's address post Tuesday	PERSON	DATE
+1.0	central bank governor Zhou Xiaochuan	have	New Year	DATE	O
+1.0	he	stick to	language	0	0
+1.0	central bank governor Zhou Xiaochuan	say in	he New Year 's address post on bank 's website Tuesday	PERSON	DATE
+1.0	central bank governor Zhou Xiaochuan	say in	he New Year 's address post	PERSON	DATE
+1.0	central bank	strengthen	financial macro	0	0
+1.0	bank governor Zhou Xiaochuan	say in	he New Year 's address post on bank 's website	PERSON	DATE
+1.0	bank	strengthen	macro	0	0
+1.0	central bank	strengthen	macro	0	0
+1.0	he	stick to	oft-used language	0	0
+1.0	New Year	have	address	O	DATE

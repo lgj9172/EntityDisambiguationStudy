@@ -1,0 +1,40 @@
+1.0	civilian	be	wound	0	0
+1.0	Osman Mohamad	grocer near	camp	PERSON	0
+1.0	grenade	explode more in	camp housing	0	0
+1.0	camp	have	gate	O	O
+1.0	camp	have	exploded	O	O
+1.0	100 ethiopian soldier	be in	Mogadishu	NUMBER	LOCATION
+1.0	ethiopian soldier	open	fire	0	0
+0.5418459611598003	grenade	throw by	suspect Somali	0	MISC
+1.0	gunman	fire	rocket	0	0
+1.0	Mogadishu	in	southern Galagato neighbourhood	LOCATION	LOCATION
+1.0	gunman	fire rocket in	Mogadishu 's southern Galagato neighbourhood	0	LOCATION
+1.0	100 soldier	say at_time	Friday	NUMBER	DATE
+1.0	the	have	one	NUMBER	O
+1.0	Islamists	be	route	MISC	0
+1.0	Mogadishu	have	bastion	O	LOCATION
+1.0	grenade	islamist explode in	camp housing	0	0
+1.0	grenade	islamist explode more in	camp housing	0	0
+1.0	soldier	open	fire	0	0
+1.0	Islamists	be route by	troops back by Ethiopia	MISC	LOCATION
+1.0	country	in	central region	0	0
+1.0	Islamists	be route by	troops	MISC	0
+1.0	100 ethiopian soldier	say at_time	Friday	NUMBER	DATE
+1.0	Islamists	be route by	somali troops	MISC	0
+1.0	Islamists	be route by	somali troops back by Ethiopia	MISC	LOCATION
+1.0	three civilian	be	wound	NUMBER	0
+1.0	gunman	fire rocket at	truck	0	0
+1.0	country	have	regions	O	O
+1.0	gunman	fire rocket in	Mogadishu 's Galagato neighbourhood	0	LOCATION
+0.5418459611598003	grenade	throw by	Somali	0	MISC
+1.0	camp	at	gate	0	0
+1.0	grenade	explode in	camp housing	0	0
+1.0	100 Ethiopian soldiers in the capital Mogadishu , military officials	have	bastion	O	O
+1.0	Mogadishu	have	Galagato neighbourhood	O	LOCATION
+1.0	three civilian	be wound on	Thursday	NUMBER	DATE
+1.0	Islamists	be route by	troops back	MISC	0
+1.0	Islamists	be route by	somali troops back	MISC	0
+1.0	anonymity	have	condition	O	O
+1.0	their	have	strongholds	O	O
+1.0	civilian	be wound on	Thursday	0	DATE
+1.0	fighting	have	days	DURATION	O

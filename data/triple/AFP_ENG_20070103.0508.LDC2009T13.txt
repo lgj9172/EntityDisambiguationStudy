@@ -1,0 +1,80 @@
+1.0	Malaysian budget carrier AirAsia	have	executive officer	O	ORGANIZATION
+1.0	it	have	order	0	0
+1.0	industry source	say at_time	Thursday	0	DATE
+1.0	Richard Branson	with	Virgin Group	PERSON	ORGANIZATION
+1.0	Kamarudin Meranum	be deputy chief executive of	AirAsia	PERSON	ORGANIZATION
+1.0	Friday	have	ambitions	O	O
+1.0	destination	be in	China	0	LOCATION
+1.0	AirAsia	have	fleet of 50 aircraft	ORGANIZATION	NUMBER
+1.0	AirAsia	be	malaysian	LOCATION	0
+1.0	an industry source	be matter of	time	0	0
+1.0	budget carrier	be in	December 2001	0	DATE
+1.0	AirAsia	be launch with	two aircraft	ORGANIZATION	NUMBER
+1.0	it	currently have	order	0	0
+1.0	rural air service	be in	Sabah	0	LOCATION
+1.0	dollars	have	billions	MONEY	MONEY
+1.0	Boeing	have	combination	O	ORGANIZATION
+1.0	AirAsia	be	launch as budget carrier in December 2001 with two aircraft	ORGANIZATION	NUMBER
+1.0	it	be	estimate	0	0
+1.0	its	have	orders	O	O
+1.0	National carrier Malaysia Airlines	currently operate	18 time weekly	ORGANIZATION	SET
+1.0	he	say at_time	Saturday	0	DATE
+1.0	type	have	fleet	O	O
+1.0	Malaysian budget carrier AirAsia	have	fleet	ORGANIZATION	0
+1.0	Vietnam	be to	Malaysia	LOCATION	LOCATION
+1.0	it	currently have	order for 100 a320	0	NUMBER
+1.0	world	have	first low-cost global network	0	ORDINAL
+1.0	an industry source	be	matter	0	0
+1.0	AirAsia	now have	fleet of 50 aircraft	ORGANIZATION	NUMBER
+1.0	innovation	come from	Malaysia	0	LOCATION
+1.0	Raja Mohamad Azmi	be with	20 percent	PERSON	PERCENT
+1.0	economy class	for ringgit be	1,420 dollar	0	MONEY
+1.0	service	have	have on-going	0	0
+1.0	grow passenger demand	be in	Southeast Asia	0	LOCATION
+0.633593924617174	industry source	say with	other player	0	0
+1.0	50 percent stake	be in	FAX	PERCENT	0
+0.633593924617174	industry source	say with	player	0	0
+1.0	AirAsia	now have	fleet	ORGANIZATION	0
+1.0	AirAsia	be	launch as budget carrier with two aircraft	ORGANIZATION	NUMBER
+1.0	time	have	matter	O	O
+1.0	it	cost	billion	0	0
+1.0	AirAsia	be	launch as budget carrier with just two aircraft	ORGANIZATION	NUMBER
+1.0	AirAsia	opt for	Airbus	ORGANIZATION	ORGANIZATION
+1.0	AirAsia	have	fleet	ORGANIZATION	0
+1.0	industry source	say	add	0	0
+1.0	industry source	say talk with	other player	0	0
+1.0	jet	have	type	O	O
+1.0	it	have	order for 100 a320	0	NUMBER
+1.0	it	secure route to	London	0	LOCATION
+1.0	he	be	quote	0	0
+1.0	world	have	network	O	O
+1.0	fare	will between	will 300 ringgit	0	NUMBER
+0.7360052311331206	source	familiar with	discussion	0	0
+1.0	industry source	say	talk	0	0
+1.0	AirAsia	be	launch	ORGANIZATION	0
+1.0	it	now offer	domestic	0	0
+1.0	ticket	have	price	O	O
+1.0	long-haul service	have	have on-going	0	0
+1.0	Malaysian budget carrier AirAsia	have	A320 fleet size	O	O
+1.0	National carrier Malaysia Airlines	operate	18 time weekly	ORGANIZATION	SET
+1.0	it	secure	initial route	0	0
+1.0	Malaysian budget carrier AirAsia	have	fleet	O	ORGANIZATION
+1.0	Malaysian budget carrier AirAsia	have	chief executive officer	ORGANIZATION	0
+1.0	Tony Fernandes	be boss of	Malaysian budget carrier AirAsia	PERSON	ORGANIZATION
+1.0	an industry source	be just matter of	time	0	0
+1.0	aircraft	have	fleet	O	O
+1.0	AirAsia	be launch with	just two aircraft	ORGANIZATION	NUMBER
+1.0	it	offer	domestic	0	0
+1.0	AirAsia	be launch as	budget carrier	ORGANIZATION	0
+1.0	Tony Fernandes	be	Malaysian budget carrier AirAsia	PERSON	ORGANIZATION
+1.0	Airbus A330s	have	combination	O	O
+1.0	it	cost	billion of dollar	0	MONEY
+1.0	Richard Branson	have	Virgin Group	ORGANIZATION	PERSON
+1.0	he	say by	newspaper	0	0
+1.0	it	secure	route	0	0
+1.0	an industry source	be	just matter	0	0
+1.0	other two shareholder	be in	FAX	NUMBER	0
+1.0	industry source	say talk with	player	0	0
+1.0	AirAsia	be	launch as budget carrier in December 2001 with just two aircraft	ORGANIZATION	NUMBER
+1.0	anonymity	have	condition	O	O
+1.0	AirAsia	be launch as	budget carrier in December 2001	ORGANIZATION	DATE

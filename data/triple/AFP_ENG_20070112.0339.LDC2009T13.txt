@@ -1,0 +1,13 @@
+1.0	stage	be	shorten	0	0
+1.0	580km stage	be	shorten	0	0
+1.0	South Africa	have	Volkswagen driver	LOCATION	ORGANIZATION
+1.0	580km stage	be shorten because	because weather condition	0	0
+1.0	stage	be shorten because	because bad weather condition	0	0
+1.0	weather conditions	have	shortened	O	O
+1.0	Giniel De Villiers	be driver of	Volkswagen	PERSON	ORGANIZATION
+1.0	South Africa	have	Volkswagen driver	O	LOCATION
+1.0	Cyril Despres	be as	Frenchman	PERSON	MISC
+1.0	Giniel De Villiers	ride	KTM	PERSON	ORGANIZATION
+1.0	stage	be shorten because	because weather condition	0	0
+1.0	Dakar Rally	have	stage	O	O
+1.0	580km stage	be shorten because	because bad weather condition	0	0

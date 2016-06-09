@@ -1,0 +1,12 @@
+1.0	Mahmoud Ahmadinejad	be on	Wednesday	PERSON	DATE
+1.0	Iranian President Mahmoud Ahmadinejad on Wednesday	say in	speech in town ghotvand	PERSON	0
+1.0	Iran	enrich	uranium	0	0
+1.0	Iran	enrich uranium to	level	0	0
+1.0	Iranian President Mahmoud Ahmadinejad on Wednesday	say in	Khuzestan province	PERSON	LOCATION
+1.0	speech	be in	town ghotvand	0	0
+1.0	fuel	have	production	O	O
+1.0	Mahmoud Ahmadinejad	be	iranian	PERSON	0
+1.0	Iranian President Mahmoud Ahmadinejad on Wednesday	say in	speech	PERSON	0
+1.0	Iran	enrich uranium to	level of around five percent	0	PERCENT
+1.0	percent	have	levels	O	PERCENT
+1.0	Iranian President Mahmoud Ahmadinejad on Wednesday	say in	western Khuzestan province	PERSON	LOCATION

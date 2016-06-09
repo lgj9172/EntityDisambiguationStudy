@@ -1,0 +1,67 @@
+0.9614031079278783	India	offer	access	LOCATION	0
+1.0	Japan	have	top selling	LOCATION	0
+1.0	India	declare	itself nuclear weapon power	LOCATION	0
+1.0	India	have	reactors	O	O
+1.0	government	have	top spokesman	0	0
+1.0	japanese firm	participate in	construction of nuclear power station	0	0
+1.0	firm	be	able	0	0
+1.0	its	have	rise	O	O
+1.0	Tokyo	have	support	O	O
+1.0	Tokyo	start	talk	LOCATION	0
+1.0	we	have	position	O	O
+1.0	report	be in	Yomiuri Shimbun	0	ORGANIZATION
+1.0	firm	participate in	construction of power station	0	0
+1.0	non-proliferation	have	trend	O	O
+0.9614031079278783	India	offer access to	paper	LOCATION	0
+1.0	japanese firm	participate in	construction of power station	0	0
+1.0	Japan	urge	India	LOCATION	LOCATION
+1.0	japanese firm	participate in	India	0	LOCATION
+1.0	India	cite	unnamed government source	LOCATION	0
+1.0	Tokyo	start talk with	India	LOCATION	LOCATION
+1.0	decision	support	civilian deal	0	0
+1.0	Tokyo	will announce	its support	LOCATION	0
+1.0	India	join	nuclear non	LOCATION	0
+1.0	Energy Agency	have	scanner	O	ORGANIZATION
+1.0	We	have	country	O	O
+1.0	India	put	its reactor	LOCATION	0
+1.0	India	put	its civilian-use atomic reactor	LOCATION	0
+1.0	Chief Cabinet Secretary Yasuhisa Shiozaki	be respond to	report in Yomiuri Shimbun	PERSON	ORGANIZATION
+1.0	George W. Bush	be by	the United States	PERSON	LOCATION
+0.9614031079278783	India	offer access to	US nuclear technology	LOCATION	LOCATION
+1.0	government	have	spokesman	O	O
+1.0	Chief Cabinet Secretary Yasuhisa Shiozaki	be respond to	report	PERSON	0
+0.9614031079278783	India	offer access to	US civilian technology	LOCATION	LOCATION
+1.0	firm	participate in	India	0	LOCATION
+1.0	India	put	its civilian-use reactor	LOCATION	0
+1.0	India	join	non	LOCATION	0
+1.0	japanese firm	be	able	0	0
+1.0	arms reduction	have	trend	O	O
+1.0	India	cite	government source	LOCATION	0
+1.0	agreement	have	content	O	O
+1.0	India	be in	1998	LOCATION	DATE
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	japanese firm	participate in	construction	0	0
+1.0	Japan	have	selling	O	LOCATION
+0.5134178247531663	Washington	india as	nuclear weapon power	0	0
+1.0	India	put	its atomic reactor	LOCATION	0
+0.9614031079278783	India	offer access to	US technology	LOCATION	LOCATION
+1.0	firm	participate in	construction	0	0
+1.0	decision	support	civilian nuclear deal	0	0
+1.0	decision	support	deal	0	0
+1.0	Tokyo	start talk with	India on trade pact	LOCATION	LOCATION
+1.0	India	declare	itself weapon power	LOCATION	0
+1.0	non-atomic weapon state	spokesman 's	government	0	0
+1.0	International atomic Energy Agency	have	scanner	ORGANIZATION	0
+1.0	Tokyo	start talk with	India on free trade pact	LOCATION	LOCATION
+1.0	Tokyo	agree in	December	LOCATION	DATE
+1.0	power stations	have	construction	O	O
+1.0	proliferation Treaty	deny	change	0	0
+1.0	decision	be	make	0	0
+1.0	country	have	position	O	O
+1.0	non-atomic weapon state	as treaty be	the NPT	0	ORGANIZATION
+1.0	firm	participate in	construction of nuclear power station	0	0
+1.0	arms	have	spread	O	O
+1.0	decision	support	nuclear deal	0	0
+1.0	proliferation Treaty	deny change in	policy	0	0
+0.9614031079278783	India	offer access to	US civilian nuclear technology	LOCATION	LOCATION
+1.0	Russia	be	Britain	LOCATION	LOCATION

@@ -1,0 +1,30 @@
+1.0	countries	have	reality	O	O
+1.0	Vatican	decry	death of african motorcyclist Elmer Symons	LOCATION	PERSON
+1.0	a cynical attitude that ignores the reality -LRB- of the countries -RRB- traversed	have	inception	O	O
+1.0	Osservatore Romano	be	The Vatican	ORGANIZATION	LOCATION
+1.0	Vatican newspaper Osservatore Romano	say in	its issue appear Thursday	ORGANIZATION	DATE
+1.0	scores	have	latest	O	O
+1.0	people	have	number	O	O
+1.0	weekly	say in	article	SET	0
+1.0	Vatican newspaper Osservatore Romano	say in	its issue appear	ORGANIZATION	0
+1.0	Vatican	decry	death of south african motorcyclist Elmer Symons	LOCATION	PERSON
+1.0	themselves	have	carcasses	O	O
+1.0	Osservatore Romano	be newspaper of	The Vatican	ORGANIZATION	LOCATION
+1.0	Vatican newspaper Osservatore Romano	say in	its issue	ORGANIZATION	0
+1.0	Vatican	decry death in	latest of score of death	LOCATION	0
+1.0	its inception	be in	1979	0	DATE
+1.0	blood	have	trail	O	O
+1.0	Vatican	decry	death	LOCATION	0
+1.0	figure	vary on	number	0	0
+1.0	motorcyclist Elmer Symons	have	death	O	PERSON
+1.0	Vatican	decry death in	latest of score	LOCATION	0
+1.0	Elmer Symons	be of	south african	PERSON	0
+1.0	Symons	be	29-year-old	PERSON	DURATION
+1.0	Dakar rally	latest of	score	LOCATION	0
+1.0	Vatican	decry death in	latest of score of death associate	LOCATION	0
+1.0	Vatican	decry death in	Dakar rally	LOCATION	LOCATION
+1.0	violence	have	component	O	O
+1.0	deaths	have	scores	O	O
+1.0	Vatican	decry death in	latest	LOCATION	0
+1.0	The Vatican newspaper Osservatore Romano	have	issue	O	O
+1.0	Vatican	decry	death of motorcyclist Elmer Symons	LOCATION	PERSON

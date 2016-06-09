@@ -1,0 +1,5 @@
+1.0	Meles Zenawi	be prime minister of	Ethiopia	PERSON	LOCATION
+1.0	Ethiopia	have	Meles Zenawi	LOCATION	PERSON
+1.0	Ethiopia	have	Prime Minister Meles Zenawi	PERSON	LOCATION
+1.0	Ethiopia 's Prime Minister Meles Zenawi	say at_time	Wednesday	PERSON	DATE
+1.0	five	have	capture	O	NUMBER

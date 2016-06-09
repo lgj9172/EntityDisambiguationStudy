@@ -1,0 +1,60 @@
+1.0	we	will continue	we plan	0	0
+1.0	Wednesday	have	status	O	O
+1.0	world	have	automaker	O	O
+1.0	GM	have stabilize	its market share	ORGANIZATION	0
+1.0	world	as	biggest auto company	0	0
+1.0	we	stabilize	retail volume	0	0
+1.0	it	offer by	700 dollar	0	MONEY
+1.0	Mark LaNeve	president for	north american sale	PERSON	0
+1.0	car	fall	9.6 percent	0	PERCENT
+1.0	Japan	have	Toyota	ORGANIZATION	LOCATION
+1.0	turnaround plan	have	support	O	O
+1.0	world	as	lead automaker	0	0
+1.0	we	improve	we mix	0	0
+1.0	world	have	auto company	O	O
+1.0	GM North America	produce down	319,000 vehicle	ORGANIZATION	NUMBER
+1.0	total car	fall	truck sale	0	0
+1.0	GM North America	produce	319,000 vehicle	ORGANIZATION	NUMBER
+1.0	total car	fall	9.6 percent	0	PERCENT
+1.0	it	offer to	customer	0	0
+1.0	sale	be in	United States	0	LOCATION
+1.0	it	offer to	customer on its new model	0	0
+1.0	GM	have	vice president for north american sale	ORGANIZATION	0
+1.0	we	strengthen	transaction price	0	0
+1.0	total car	fall	hefty 9.6 percent	0	PERCENT
+1.0	Rick Wagoner	of	turnaround plan for North America	PERSON	LOCATION
+1.0	workers	have	thousands	O	O
+1.0	GM	have	vice president	O	ORGANIZATION
+0.47937962732886696	total car	fall	truck sale	0	0
+1.0	car	fall	hefty 9.6 percent year-on-year	0	PERCENT
+1.0	car	fall	9.6 percent year-on-year	0	PERCENT
+1.0	car	fall	hefty 9.6 percent	0	PERCENT
+1.0	we	reduce sale to	rental market	0	0
+0.17974797504936701	we	will continue for	2007	0	DATE
+0.47937962732886696	car	fall in	December	0	DATE
+1.0	car	fall	truck sale	0	0
+0.47937962732886696	car	fall to	341,327	0	NUMBER
+0.47937962732886696	total car	fall in	December	0	DATE
+1.0	its	have	recovery	O	O
+1.0	its	have	models	O	O
+1.0	its	have	market share	O	O
+1.0	our	have	goals	O	O
+1.0	our	have	plans	O	O
+0.47937962732886696	total car	fall to	341,327	0	NUMBER
+1.0	we	stabilize	volume	0	0
+1.0	Rick Wagoner	have	turnaround plan	O	PERSON
+1.0	Japan	have	Toyota	LOCATION	ORGANIZATION
+1.0	we	reduce	sale	0	0
+1.0	Ford GM	shutter	plant	ORGANIZATION	0
+0.47937962732886696	car	fall	truck sale	0	0
+1.0	it	offer to	customer on its model	0	0
+1.0	we	strengthen	average transaction price	0	0
+1.0	our	have	mix	O	O
+1.0	he	say in	statement	0	0
+1.0	we	reduce sale to	daily rental market	0	SET
+1.0	rival Ford GM	shutter	plant	ORGANIZATION	0
+1.0	vehicles	have	US sales	O	O
+1.0	its	have	Detroit	LOCATION	O
+1.0	total car	fall	hefty 9.6 percent year-on-year	0	PERCENT
+1.0	its	have	business	O	O
+1.0	total car	fall	9.6 percent year-on-year	0	PERCENT

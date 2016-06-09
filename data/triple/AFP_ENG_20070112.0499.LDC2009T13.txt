@@ -1,0 +1,38 @@
+1.0	former England skipper	play for	Los Angeles Galaxy	LOCATION	ORGANIZATION
+1.0	Los Angeles Galaxy	be in	MLS	ORGANIZATION	ORGANIZATION
+0.5353650939884979	sport	huge influx of	big name	0	0
+0.5353650939884979	sport	influx of	similar big name	0	0
+1.0	sport	need	huge influx of big name	0	0
+1.0	you	have	10 player	0	NUMBER
+1.0	Arsene Wenger	be manager of	arsenal	PERSON	0
+1.0	sport	need	huge influx of name	0	0
+1.0	sport	need	influx of similar name	0	0
+1.0	former England skipper	will leave	Madrid	LOCATION	ORGANIZATION
+0.5353650939884979	sport	influx of	name	0	0
+1.0	Beckham	have	career	O	PERSON
+1.0	you	have	10 player like Beckham in league	0	NUMBER
+1.0	names	have	influx	O	O
+1.0	real Madrid	be in	mind	ORGANIZATION	0
+1.0	former England skipper	will leave	Madrid in mind	LOCATION	ORGANIZATION
+1.0	sport	need	huge influx of similar big name	0	0
+0.5353650939884979	sport	influx of	similar name	0	0
+1.0	Beckham	be in	league	PERSON	0
+1.0	they	create	elite	0	0
+1.0	sport	need	huge influx	0	0
+1.0	go	be in	America	0	LOCATION
+1.0	sport	need	influx of similar big name	0	0
+1.0	former England skipper	will leave	real Madrid in mind	LOCATION	ORGANIZATION
+1.0	Arsene Wenger	be	arsenal	PERSON	0
+1.0	sport	need	influx of big name	0	0
+0.5353650939884979	sport	huge influx of	similar name	0	0
+1.0	sport	need	influx	0	0
+1.0	sport	be in	States	0	LOCATION
+0.5353650939884979	sport	influx of	big name	0	0
+1.0	you	have	10 player like Beckham	0	NUMBER
+0.5353650939884979	sport	huge influx of	name	0	0
+1.0	sport	need	influx of name	0	0
+1.0	former England skipper	will leave	real Madrid	LOCATION	ORGANIZATION
+0.5353650939884979	sport	huge influx of	similar big name	0	0
+1.0	former England skipper	play for	Los Angeles Galaxy in MLS	LOCATION	ORGANIZATION
+1.0	sport	need	huge influx of similar name	0	0
+1.0	big playing base	be in	America	0	LOCATION

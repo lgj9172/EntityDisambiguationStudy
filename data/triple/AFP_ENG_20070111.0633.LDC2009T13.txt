@@ -1,0 +1,135 @@
+1.0	captive	be	tie	0	0
+1.0	raiding	have	US troops	O	O
+1.0	captive	be closely tie to	activity	0	0
+1.0	Washington	accuse	Iran seek	LOCATION	LOCATION
+1.0	Tehran	accuse	US troops of raiding	LOCATION	LOCATION
+1.0	kurdish government	demand	release of prisoner take	0	0
+1.0	premise	be	protect from attack under protocol	0	0
+0.633593924617174	Massud Barzani 's office	say from	regional president	PERSON	0
+1.0	foreign ministry	be in	Baghdad	0	LOCATION
+1.0	row	erupt after	US force	0	LOCATION
+1.0	statement	accuse	US force of effort	0	LOCATION
+1.0	Tehran	have	agent foment in Iraq to militia involve in sectarian violence on US force	LOCATION	LOCATION
+1.0	diplomatic premise	be	protect from attack under international protocol	0	0
+1.0	diplomatic premise	be protect under	international protocol	0	0
+0.8614966833327183	matter	foreign ministry in	Baghdad	0	LOCATION
+1.0	detainee	be	release	0	0
+1.0	he	order	21,500 troops	0	NUMBER
+1.0	diplomatic row	erupt on	Thursday	0	DATE
+1.0	ministry official	tell	ambassador	0	0
+1.0	Tehran	accuse	regional government of Kurdistan	LOCATION	LOCATION
+1.0	tension	have soar after	UN security	0	ORGANIZATION
+1.0	captive	be tie to	activity	0	0
+1.0	government	condemn	raid	0	0
+1.0	White House	comment specifically on	operation	ORGANIZATION	0
+1.0	Iran	have	programme	O	LOCATION
+1.0	diplomatic premise	be	protect from attack under protocol	0	0
+1.0	Bryan Whitman	be spokesman of	Pentagon	PERSON	ORGANIZATION
+1.0	senior ministry official	tell	ambassador	0	0
+1.0	iranian consulate	be in	northern iraqi city of Arbil	0	LOCATION
+1.0	countries	have	relations	O	O
+1.0	White House	decline	comment specifically	ORGANIZATION	0
+1.0	prisoners	have	release	O	O
+1.0	Tehran	vow	start	LOCATION	0
+1.0	kurdish regional government	demand	immediate release of prisoner take	0	0
+1.0	statement	accuse	US force of damaging effort	0	LOCATION
+1.0	Ali al-Dabbagh	be	iraqi	PERSON	0
+1.0	Tehran	demand	regional government of Kurdistan	LOCATION	LOCATION
+1.0	Hosni Mubarak	be	egyptian	PERSON	0
+1.0	government	demand	release of prisoner take	0	0
+1.0	he	order	21,500 more troops	0	NUMBER
+1.0	their	have	action	O	O
+1.0	iranian diplomat	be in	Baghdad	0	LOCATION
+1.0	regional government	condemn	raid	0	0
+1.0	row	erupt on	Thursday	0	DATE
+1.0	kurdish regional government	demand	release of prisoner take	0	0
+1.0	Middle East	have	tour	O	LOCATION
+1.0	Massud Barzani 's office	say statement from	president	PERSON	0
+1.0	diplomatic premise	be	protect	0	0
+1.0	regional government	demand	immediate release of prisoner take	0	0
+1.0	Washington	accuse	Iran	LOCATION	LOCATION
+1.0	its	have	condemnation	O	O
+1.0	government	also condemn	raid	0	0
+1.0	Pentagon spokesman	deny in	Washington	ORGANIZATION	LOCATION
+1.0	US force	detain at_time	last month	LOCATION	DATE
+1.0	Council	impose	sanction over Iran 's programme	ORGANIZATION	LOCATION
+1.0	Massud Barzani	have	office	PERSON	0
+1.0	Tehran	vow	start immediately	LOCATION	0
+1.0	US military	be in	Iraq	LOCATION	LOCATION
+1.0	statement	accuse	US force	0	LOCATION
+1.0	Massud Barzani	have	office	O	PERSON
+1.0	Tehran	demand	government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	efforts	have	US forces	O	O
+1.0	Baghdad	have ask	Americans	LOCATION	MISC
+1.0	Tehran	have	agents	O	LOCATION
+1.0	Washington	long accuse	Tehran 's agent	LOCATION	LOCATION
+1.0	kurdish government	also condemn	raid	0	0
+1.0	premise	be protect from	attack	0	0
+1.0	White House	unapologetically defend	it	ORGANIZATION	0
+1.0	anonymity	have	condition	O	O
+1.0	Tehran	demand	government	LOCATION	0
+1.0	they	be	why arrest	0	0
+1.0	US forces	have	action	O	O
+1.0	they	be	arrest	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	building	be	consulate	0	0
+1.0	weapons smuggling	have	suspicion	O	O
+1.0	Tehran	accuse	government of Kurdistan	LOCATION	LOCATION
+1.0	Tehran	accuse	regional government	LOCATION	0
+1.0	kurdish government	condemn	raid	0	0
+1.0	US force	detain at_time	month	LOCATION	DATE
+1.0	captive	be	closely tie	0	0
+1.0	diplomatic row	erupt after	US force	0	LOCATION
+1.0	building	be in	Arbil	0	LOCATION
+1.0	our	have	forces	O	O
+1.0	Massud Barzani 's office	say	statement	PERSON	0
+1.0	Tehran	accuse	regional government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	diplomatic premise	be protect under	protocol	0	0
+1.0	Tehran	accuse	government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	captive	be	suspect	0	0
+1.0	Iran	over	nuclear programme	LOCATION	0
+1.0	kurdish government	demand	immediate release of prisoner take	0	0
+1.0	US policy	have	supporter	O	O
+1.0	his	have	US ally	O	O
+1.0	White House	comment on	operation	ORGANIZATION	0
+1.0	regional government	demand	release of prisoner take	0	0
+1.0	premise	be protect under	protocol	0	0
+1.0	its	have	capacity	O	O
+1.0	people	have	release	O	O
+1.0	Tehran	accuse	government	LOCATION	0
+1.0	premise	be	protect	0	0
+1.0	foreign ministry	investigate	matter	0	0
+1.0	operation	have	disapproval	O	O
+1.0	White House	decline	comment on operation	ORGANIZATION	0
+1.0	premise	be	protect from attack under international protocol	0	0
+1.0	Council	impose	sanction	ORGANIZATION	0
+1.0	Tehran	demand	government of Kurdistan	LOCATION	LOCATION
+0.633593924617174	Massud Barzani 's office	say from	president	PERSON	0
+1.0	ministry	investigate	matter	0	0
+1.0	action	have	condemnation	O	O
+1.0	government	demand	immediate release of prisoner take	0	0
+1.0	kurdish regional government	be in	Iraq	0	LOCATION
+1.0	staunch supporter	be in	region	0	0
+1.0	Bryan Whitman	be	Pentagon	PERSON	ORGANIZATION
+0.8614966833327183	matter	ministry in	Baghdad	0	LOCATION
+1.0	regional government	also condemn	raid	0	0
+1.0	Washington	accuse	Tehran 's agent	LOCATION	LOCATION
+1.0	Tehran	demand	regional government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	region	have	government	O	O
+1.0	kurdish regional government	condemn	raid	0	0
+1.0	diplomatic premise	be protect from	attack	0	0
+1.0	White House	decline	comment specifically on operation	ORGANIZATION	0
+1.0	these people	have	disapproval	O	O
+1.0	Tehran	demand	regional government	LOCATION	0
+1.0	White House	decline	comment	ORGANIZATION	0
+1.0	White House	defend	it	ORGANIZATION	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	premise	be protect under	international protocol	0	0
+1.0	Massud Barzani 's office	say statement from	regional president	PERSON	0
+1.0	kurdish regional government	also condemn	raid	0	0
+1.0	Iraq	have	region	O	LOCATION
+1.0	Council	impose	sanction over Iran 's nuclear programme	ORGANIZATION	LOCATION
+1.0	we	need	identify	0	0
+1.0	Kurdistan	have	government	O	LOCATION
+1.0	Arbil	have	city	O	LOCATION
+1.0	Tehran	accuse	US troops	LOCATION	LOCATION

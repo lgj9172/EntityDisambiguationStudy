@@ -1,0 +1,53 @@
+1.0	Kim jung-hoe	chief of	Financial Supervisory Service	PERSON	ORGANIZATION
+1.0	Kim Heung-Ju	be arrest on	charge	PERSON	0
+1.0	bid	fail in	face of strong opposition	0	0
+1.0	mutual savings bank	from	labour union	0	0
+1.0	Prosecution authority	be	unable	0	0
+1.0	fund	issue	check	0	0
+1.0	Kim Jung-Hoe	be	at time fss director	PERSON	DATE
+1.0	vice fss head	be involve in	irregularity	0	0
+1.0	vice fss head	be involve in	irregularity concern Kim Heung	0	PERSON
+1.0	opposition	have	face	O	O
+1.0	payment	be in	return	0	0
+1.0	fraud	have	charges	O	O
+1.0	Kim jung-hoe	be arrest at_time	late Friday	PERSON	DATE
+1.0	Kim Jung-Hoe	be	fss director	PERSON	0
+1.0	Kim Jung-Hoe	be	fss director in charge	PERSON	0
+1.0	Kim Heung-Ju	be arrest in	December	PERSON	DATE
+1.0	we	secure	clue	0	0
+1.0	prosecutor	say by	Hankook	0	ORGANIZATION
+1.0	Kim Heung-Ju	be	arrest	PERSON	0
+1.0	vice fss head	be	involve	0	0
+1.0	senior prosecutor	be	quote	0	0
+1.0	deal	accept	payment	0	0
+1.0	Prosecution authority	be	reach	0	0
+1.0	mutual savings bank	be in	2001	0	DATE
+1.0	bid	fail in	face of opposition	0	0
+1.0	Prosecution authority	be reach for	confirmation	0	0
+1.0	200 million	have	total	O	MONEY
+1.0	bid	fail from	mutual savings bank 's labour union	0	0
+1.0	Prosecution authority	be reach for	confirmation on Saturday	0	DATE
+1.0	South Korea	from	financial watchdog	LOCATION	0
+1.0	Kim Heung ju	have	bid acquire	PERSON	0
+1.0	fss director	be in	charge oversee	0	0
+1.0	he	be	accuse	0	0
+1.0	Kim jung-hoe	be arrest at_time	Friday	PERSON	DATE
+1.0	Kim Heung-Ju	be	arrest in December on charge	PERSON	DATE
+1.0	South Korea	have	watchdog	O	LOCATION
+1.0	deal	accept	payment in return	0	0
+1.0	senior prosecutor	say daily by	Hankook	0	ORGANIZATION
+1.0	prosecutor	say daily by	Hankook	0	ORGANIZATION
+1.0	Ju	have	bid	O	PERSON
+1.0	news report	say at_time	Saturday	0	DATE
+1.0	we	secure	various clue	0	0
+1.0	Kim Heung-Ju	be	arrest in December on charge of fraud	PERSON	DATE
+1.0	bid	fail in	face	0	0
+1.0	Kim jung-hoe	be	arrest	PERSON	0
+1.0	bid	fail from	savings bank 's labour union	0	0
+1.0	prosecutor	be	quote	0	0
+1.0	fund	issue	bad check	0	0
+1.0	Kim Jung-Hoe	be	at time fss director in charge	PERSON	DATE
+1.0	savings bank	have	labour union	O	O
+1.0	Financial Supervisory Service	have	vice chief	O	ORGANIZATION
+1.0	senior prosecutor	say by	Hankook	0	ORGANIZATION
+1.0	Kim Heung-Ju	be arrest on	charge of fraud	PERSON	0

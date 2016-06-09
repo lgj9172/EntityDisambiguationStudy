@@ -1,0 +1,176 @@
+1.0	effort	be	focus in day on water with US Navy ocean survey ship equip	0	ORGANIZATION
+1.0	debris	be	catch in fisherman 's net in sea south of Pare-Pare afternoon	0	LOCATION
+1.0	debris	be catch at_time	late on Wednesday afternoon	0	DATE
+1.0	piece	be wide about	one metre	0	NUMBER
+1.0	KRI Fatahillah	have	commander	ORGANIZATION	0
+1.0	plane	of	right tailfin	0	0
+1.0	Sulawesi	have	focused	O	LOCATION
+1.0	woman	have	body	O	O
+1.0	rescue centre	be at_time	Thursday	0	DATE
+1.0	effort	be	focus off Sulawesi with US Navy ocean survey ship	0	LOCATION
+1.0	National Committee for Transport Safety head Setyo Raharjo	be	also mar	0	0
+1.0	debris	be catch at_time	afternoon	0	TIME
+1.0	effort	be	focus in recent day with US Navy ocean survey ship	0	ORGANIZATION
+1.0	debris	be	catch in fisherman 's net in sea south of Pare-Pare late on Wednesday afternoon	0	LOCATION
+1.0	Setyo Raharjo	be for	National Committee for Transport Safety	PERSON	ORGANIZATION
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south afternoon	0	NUMBER
+1.0	effort	be	focus in day on water with US Navy ocean survey ship equip with scanning	0	ORGANIZATION
+1.0	effort	be	focus in day off Sulawesi with US Navy ocean survey ship equip with scanning seab	0	LOCATION
+1.0	difficulty	comb	mountainous island	0	0
+0.7142894269770608	US Navy ocean survey ship	equip with	scanning	ORGANIZATION	0
+1.0	its	have	island	O	O
+1.0	plane	have	body	O	O
+1.0	debris	be catch at_time	late afternoon	0	TIME
+1.0	family members	have	dozens	O	O
+1.0	effort	be	focus in day off Sulawesi with US Navy ocean survey ship equip with scanning seab northwest	0	LOCATION
+1.0	sheer difficulty	comb	island	0	0
+1.0	official	have	when have find	0	0
+1.0	Mary Sears	be	US	PERSON	LOCATION
+1.0	finding	be	part	0	0
+1.0	piece	be wide about	three foot	0	NUMBER
+1.0	stewardess Dina	have	mother	O	PERSON
+1.0	Indonesia	have	Java island	O	LOCATION
+1.0	effort	be	focus in day with US Navy ocean survey ship equip with scanning seab northwest	0	ORGANIZATION
+0.9599471351592823	match	number for	Adam Air plane	0	0
+1.0	Pare-Pare	have	kilometres north	O	O
+1.0	effort	be	focus off Sulawesi with US Navy ocean survey ship equip with scanning	0	LOCATION
+1.0	it	go	miss halfway through its island	0	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	effort	be focus with	US Navy ocean survey ship equip with scanning	0	ORGANIZATION
+0.7142894269770608	US Navy ocean survey ship	equip with	scanning seab	ORGANIZATION	0
+1.0	Adam Air airplane	have	part	O	O
+1.0	finding	be part of	Adam Air airplane	0	0
+1.0	debris	be catch in	fisherman 's net in sea eight kilometre south of Pare-Pare	0	NUMBER
+0.7142894269770608	US Navy ocean survey ship	equip with	scanning seab northwest	ORGANIZATION	0
+1.0	plane seats	have	parts	O	O
+1.0	effort	be	focus in day off Sulawesi	0	LOCATION
+1.0	debris	be	catch in fisherman 's net in sea south late afternoon	0	TIME
+1.0	Rosmala Dewi	mother of	Dina	PERSON	PERSON
+1.0	difficulty	comb	mountainous forest-clad island	0	0
+1.0	Raharjo	tell	AFP	PERSON	ORGANIZATION
+1.0	difficulty	comb	island	0	0
+1.0	effort	be focus with	US Navy ocean survey ship	0	ORGANIZATION
+1.0	piece	be wide	50 centimetre	0	NUMBER
+1.0	debris	be	catch in fisherman 's net in sea late afternoon	0	TIME
+1.0	tailfin	have	part	O	O
+1.0	sheer difficulty	comb	mountainous island	0	0
+1.0	National Committee for Transport Safety head Setyo Raharjo	be	mar	0	0
+1.0	debris	take to	search	0	0
+1.0	piece	be	about one metre 50 centimetre wide	0	NUMBER
+1.0	two	be	drag	0	0
+1.0	Mary Sears	be ship of	US	PERSON	LOCATION
+1.0	effort	be	focus in day off Sulawesi with US Navy ocean survey ship equip	0	LOCATION
+1.0	metal objects	have	reports	O	O
+1.0	effort	be	focus in recent day on water with US Navy ocean survey ship	0	ORGANIZATION
+1.0	sheer difficulty	comb	forest-clad island	0	0
+1.0	bad weather	have hamper	search	0	0
+1.0	effort	be	focus	0	0
+1.0	effort	be focus in	recent day	0	DURATION
+1.0	debris	be catch in	fisherman 's net in sea	0	0
+1.0	effort	be	focus in recent day on water with US Navy ocean survey ship equip with scanning seab northwest	0	ORGANIZATION
+1.0	debris	have	piece	O	O
+1.0	it	go	miss	0	0
+1.0	effort	be focus in	day	0	0
+1.0	tail	have	part	O	O
+1.0	debris	be	catch in fisherman 's net in sea late on Wednesday afternoon	0	DATE
+1.0	Rosmala Dewi	tell	ElShinta radio	PERSON	ORGANIZATION
+1.0	effort	be	focus off Sulawesi with US Navy ocean survey ship equip with scanning seab	0	LOCATION
+1.0	debris	be catch in	fisherman 's net in sea eight kilometre south	0	NUMBER
+1.0	debris	be	catch in fisherman 's net in sea south of Pare-Pare late afternoon	0	LOCATION
+1.0	debris	be	catch in fisherman 's net late on Wednesday afternoon	0	DATE
+1.0	Boeing 737	have	96 passenger	NUMBER	NUMBER
+1.0	west coast	have	found	O	O
+1.0	debris	be catch in	fisherman 's net in sea south of Pare-Pare	0	LOCATION
+1.0	seat	have	back	O	O
+1.0	effort	be	focus in recent day on water with US Navy ocean survey ship equip with scanning seab	0	ORGANIZATION
+1.0	Boeing	have	96 passenger include three Americans	ORGANIZATION	NUMBER
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south late afternoon	0	NUMBER
+1.0	effort	be	focus in recent day with US Navy ocean survey ship equip with scanning seab northwest	0	ORGANIZATION
+1.0	effort	be	focus in recent day on water with US Navy ocean survey ship equip with scanning	0	ORGANIZATION
+1.0	effort	be	focus in day with US Navy ocean survey ship	0	ORGANIZATION
+1.0	crash	have	impact	O	O
+1.0	number	have	part	O	O
+1.0	Pare-Pare	have	south	O	LOCATION
+1.0	effort	be focus with	US Navy ocean survey ship equip	0	ORGANIZATION
+1.0	woman	have	body	0	0
+1.0	debris	be catch in	fisherman 's net in sea south	0	0
+1.0	Boeing	have	96 passenger	ORGANIZATION	NUMBER
+1.0	it	miss halfway through	its island	0	0
+1.0	fisherman	in	net in sea eight kilometre south of Pare-Pare	0	NUMBER
+1.0	piece	be	wide	0	0
+1.0	fisherman	have	net	O	O
+1.0	effort	be focus in	day on water	0	0
+1.0	effort	be focus off	Sulawesi	0	LOCATION
+1.0	debris	be	catch in fisherman 's net in sea afternoon	0	TIME
+1.0	effort	be	focus in recent day with US Navy ocean survey ship equip with scanning seab	0	ORGANIZATION
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south of Pare-Pare late afternoon	0	NUMBER
+1.0	official	have	when have find on mountain	0	0
+1.0	it	go	miss halfway	0	0
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south of Pare-Pare afternoon	0	NUMBER
+1.0	effort	be	focus in day with US Navy ocean survey ship equip with scanning seab	0	ORGANIZATION
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south of Pare-Pare late on Wednesday afternoon	0	NUMBER
+1.0	police	tell	ElShinta	0	ORGANIZATION
+1.0	piece	be long wide	50 centimetre	0	NUMBER
+1.0	sea	have	swathe	O	O
+1.0	difficulty	comb	forest-clad island	0	0
+1.0	debris	be	catch in fisherman 's net afternoon	0	TIME
+1.0	Manado	be on	Sulawesi	LOCATION	LOCATION
+1.0	Maman Firmansyah	be commander lieutenant colonel of	KRI Fatahillah	PERSON	ORGANIZATION
+1.0	effort	be focus with	US Navy ocean survey ship equip with scanning seab	0	ORGANIZATION
+1.0	effort	be	focus in recent day with US Navy ocean survey ship equip	0	ORGANIZATION
+1.0	local police	tell	ElShinta	0	ORGANIZATION
+1.0	official	have	have find	0	0
+1.0	debris	be catch in	fisherman 's net	0	0
+1.0	effort	be	focus in day off Sulawesi with US Navy ocean survey ship	0	LOCATION
+1.0	debris	be	catch in fisherman 's net in sea eight kilometre south late on Wednesday afternoon	0	NUMBER
+1.0	it	go	miss through its island	0	0
+1.0	Hilda	one of	dozen	PERSON	0
+1.0	effort	be	focus in day with US Navy ocean survey ship equip with scanning	0	ORGANIZATION
+1.0	rescue centre	be in	Makassar	0	LOCATION
+1.0	KRI Fatahillah	have	commander	O	ORGANIZATION
+1.0	airliner	have	tail	O	O
+1.0	effort	be	focus in recent day on water with US Navy ocean survey ship equip	0	ORGANIZATION
+1.0	National Committee for Transport Safety	be for	Setyo Raharjo	ORGANIZATION	PERSON
+1.0	effort	be	focus in day with US Navy ocean survey ship equip	0	ORGANIZATION
+1.0	piece	be long wide about	three foot	0	NUMBER
+1.0	Setyo Raharjo	be head of	National Committee for Transport Safety	PERSON	ORGANIZATION
+1.0	piece	be	about one metre long 50 centimetre wide	0	NUMBER
+1.0	effort	be	focus in day on water with US Navy ocean survey ship equip with scanning seab	0	ORGANIZATION
+1.0	effort	be focus in	recent day on water	0	DURATION
+1.0	effort	be	focus in day on water with US Navy ocean survey ship equip with scanning seab northwest	0	ORGANIZATION
+1.0	Boeing 737	have	96 passenger include three Americans	NUMBER	NUMBER
+1.0	Mamuju	have	detected	O	LOCATION
+1.0	Mamuju	north of	Pare-Pare	LOCATION	0
+1.0	debris	be	catch	0	0
+1.0	effort	be	focus off Sulawesi with US Navy ocean survey ship equip	0	LOCATION
+1.0	effort	be	focus off Sulawesi with US Navy ocean survey ship equip with scanning seab northwest	0	LOCATION
+1.0	plane	have	tailfin	O	O
+1.0	Indonesia	on	central Java island	LOCATION	MISC
+1.0	effort	be	focus in day off Sulawesi with US Navy ocean survey ship equip with scanning	0	LOCATION
+1.0	debris	be	catch in fisherman 's net in sea south afternoon	0	TIME
+1.0	fisherman 's net	be in	sea eight kilometre south of Pare-Pare	0	NUMBER
+1.0	he	say	partial serial number	0	0
+1.0	he	say	serial number	0	0
+1.0	two	be drag by	current	0	0
+1.0	effort	be	focus in day on water with US Navy ocean survey ship	0	ORGANIZATION
+1.0	official	have	when have find on remote mountain	0	0
+1.0	miss indonesian airliner	be in	first concrete breakthrough	0	ORDINAL
+1.0	airline seats	have	parts	O	O
+1.0	weather	have hamper	search	0	0
+1.0	dozens	have	one	NUMBER	O
+1.0	Surabaya	be to	Manado	LOCATION	LOCATION
+1.0	sheer difficulty	comb	mountainous forest-clad island	0	0
+1.0	effort	be	focus in recent day with US Navy ocean survey ship equip with scanning	0	ORGANIZATION
+1.0	Sulawesi	have	west coast	O	LOCATION
+1.0	official	have	have find on mountain	0	0
+1.0	Makassar	be around	3:00 be	LOCATION	TIME
+1.0	debris	be	catch in fisherman 's net in sea south late on Wednesday afternoon	0	DATE
+1.0	ones	have	news	O	O
+1.0	plane	have	passenger	O	O
+1.0	metal object	be in	water	0	0
+1.0	effort	be focus with	US Navy ocean survey ship equip with scanning seab northwest	0	ORGANIZATION
+1.0	piece	be	long wide	0	0
+1.0	it	miss through	its island	0	0
+1.0	debris	be	catch in fisherman 's net late afternoon	0	TIME
+1.0	piece	be long wide about	one metre	0	NUMBER
+1.0	official	have	have find on remote mountain	0	0

@@ -1,0 +1,46 @@
+1.0	ambassador	be in	Baghdad	0	LOCATION
+1.0	Afghan-American	be ally like	the sharp-tongued Bolton	MISC	PERSON
+1.0	Khalilzad	have	nomination	PERSON	0
+1.0	Afghan-American	be ally with	administration hawk	MISC	0
+1.0	Republican President George W. Bush	name us ambassador at_time	week	PERSON	DATE
+1.0	Republican President George W. Bush	have	bid	O	O
+1.0	Republican President George W. Bush	name	US ambassador	PERSON	LOCATION
+1.0	ABC	be television network of	US	ORGANIZATION	LOCATION
+1.0	he	confirm in	face of opposition	0	0
+1.0	Pakistan	be	Ryan Crocker	LOCATION	PERSON
+1.0	Republican President George W. Bush	name	current US ambassador	PERSON	LOCATION
+1.0	Afghan-American	be	like sharp-tongued Bolton ally with administration hawk lead	MISC	PERSON
+1.0	the sharp-tongued Bolton	be	UN	PERSON	ORGANIZATION
+1.0	Afghan-American	be ally with	administration hawk lead	MISC	0
+1.0	Zalmay Khalilzad	be	55	PERSON	NUMBER
+1.0	Afghan-American	be	like sharp-tongued Bolton ally with administration hawk	MISC	PERSON
+1.0	Republican President George W. Bush	abandon	he bid have	MISC	0
+1.0	Republican President George W. Bush	abandon	he bid	MISC	0
+1.0	Republican President George W. Bush	name	US ambassador to Iraq	PERSON	LOCATION
+1.0	Zalmay Khalilzad	approve by	US Senate	PERSON	ORGANIZATION
+1.0	opposition	have	face	O	O
+1.0	ABC	be on	US	ORGANIZATION	LOCATION
+1.0	Afghan-American	be	like Bolton ally with administration hawk lead by Vice President Dick Cheney	MISC	PERSON
+1.0	Afghan-American	be	like Bolton ally with administration hawk lead	MISC	PERSON
+1.0	official	speak on	condition	0	0
+1.0	Afghan-American	be ally with	administration hawk lead by Vice President Dick Cheney	MISC	PERSON
+1.0	Republican President George W. Bush	name us ambassador at_time	next week	PERSON	DATE
+1.0	his	have	duties	O	O
+1.0	Afghan-American	be ally like	sharp-tongued Bolton	MISC	PERSON
+1.0	Afghan-American	be	like Bolton ally with administration hawk	MISC	PERSON
+1.0	he	confirm by	Senate	0	ORGANIZATION
+1.0	Khalilzad	have	nomination	O	PERSON
+1.0	Zalmay Khalilzad	have serve as	ambassador	PERSON	0
+1.0	official	speak on	condition of anonymity	0	0
+1.0	the sharp-tongued Bolton	be ambassador of	UN	PERSON	ORGANIZATION
+1.0	Iraq	be	Zalmay Khalilzad	LOCATION	PERSON
+1.0	Sunni Muslim	one of	he primary duty	MISC	0
+1.0	Zalmay Khalilzad	have serve since	June 2005	PERSON	DATE
+1.0	he	confirm by	Democrats	0	MISC
+1.0	Afghan-American	be	like sharp-tongued Bolton ally with administration hawk lead by Vice President Dick Cheney	MISC	PERSON
+1.0	George W. Bush	be	Republican	PERSON	MISC
+1.0	he	confirm in	face	0	0
+1.0	Afghan-American	be	ally	MISC	0
+1.0	duties	have	one	NUMBER	O
+1.0	anonymity	have	condition	O	O
+1.0	Republican President George W. Bush	name	current US ambassador to Iraq	PERSON	LOCATION

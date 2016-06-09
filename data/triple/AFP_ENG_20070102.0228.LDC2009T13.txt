@@ -1,0 +1,24 @@
+1.0	Javier Solana	be by	the EU	PERSON	ORGANIZATION
+1.0	german presidency	say on	Tuesday	0	DATE
+1.0	troops	help	government	0	0
+1.0	peace process	be in	country	0	0
+1.0	Horn	descend mohamed siad barre after	ousting	LOCATION	0
+1.0	Somalia	have see	nearly two week	LOCATION	DURATION
+1.0	meeting	have	purpose	O	O
+1.0	Horn	descend	Mohamed Siad Barre in 1991	LOCATION	PERSON
+1.0	presidency	say on	Tuesday	0	DATE
+1.0	current situation	be in	Somalia	DATE	LOCATION
+1.0	territories	have	control	O	O
+1.0	Brussels	be on	Wednesday	LOCATION	DATE
+1.0	Horn	descend mohamed siad barre after	ousting of dictator	LOCATION	LOCATION
+1.0	Mohamed Siad Barre	be in	1991	PERSON	DATE
+1.0	Horn	descend	Mohamed Siad Barre	LOCATION	PERSON
+1.0	Africa nation	have	Horn	LOCATION	O
+1.0	Frank-Walter Steinmeier	be by	German	PERSON	MISC
+1.0	Horn	descend mohamed siad barre into	lawlessness	LOCATION	0
+1.0	dictator	have	ousting	O	O
+1.0	ethiopian troops	help	government	0	0
+1.0	EU	have	presidency	O	ORGANIZATION
+1.0	fighting	have	weeks	DURATION	O
+1.0	contact group	include	Britain	0	LOCATION
+1.0	situation	have	stock	O	O

@@ -1,0 +1,19 @@
+1.0	Bush spokesman Tony Snow	say in	statement	PERSON	0
+1.0	Tony Snow	be	US President George W. Bush	PERSON	PERSON
+1.0	it	will	will they first face-to-face meeting	0	ORDINAL
+1.0	peace	have	preservation	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	concern	have	topics	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	it	will	will they meeting	0	0
+1.0	ban	take office at_time	January 1	0	DATE
+1.0	White House	say at_time	Friday	ORGANIZATION	DATE
+1.0	it	will	will they first meeting	0	ORDINAL
+1.0	Tony Snow	be spokesman of	US President George W. Bush	PERSON	PERSON
+1.0	their	have	meeting	O	O
+1.0	it	will	will they face-to-face meeting	0	0
+1.0	security	have	preservation	O	O
+1.0	rights	have	UN reform	O	O
+1.0	humanitarian	have	provision	O	O
+1.0	ban	take	office	0	0
+1.0	development assistance	have	provision	O	O

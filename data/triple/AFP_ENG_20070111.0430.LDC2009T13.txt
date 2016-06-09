@@ -1,0 +1,76 @@
+1.0	Secretary	vow at_time	Thursday	0	DATE
+1.0	State Condoleezza Rice	plan	travel to Baghdad as part	0	LOCATION
+1.0	State Condoleezza Rice	acknowledge remark in	press conference	PERSON	0
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	Maliki 's	once have take	some	PERSON	0
+1.0	President George W. Bush	announce	he new strategy	PERSON	0
+1.0	State Condoleezza Rice	travel as	part of tour	0	0
+1.0	Maliki 's	have take	some	PERSON	0
+0.809207312920673	tougher action	halt	violence	0	0
+1.0	United States	grow	frustration	LOCATION	0
+1.0	the government of Prime Minister Nuri al-Maliki	have	side	O	O
+0.809207312920673	action	halt violence in	country	0	0
+1.0	State Condoleezza Rice	stress in	remark	PERSON	0
+1.0	government	have	actions	O	O
+1.0	plan	have	side	O	O
+1.0	President George W. Bush	unveil	US strategy	PERSON	LOCATION
+1.0	President George W. Bush	concern	reconciliation	PERSON	0
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	State Condoleezza Rice	acknowledge	remark	PERSON	0
+0.809207312920673	action	halt	violence	0	0
+1.0	President George W. Bush	notably concern	political reconciliation	PERSON	0
+1.0	State Condoleezza Rice	be	due	0	0
+1.0	Maliki	have	failure	O	PERSON
+1.0	State Condoleezza Rice	plan	travel to Baghdad as part of tour	0	LOCATION
+1.0	Secretary	press	hard	0	0
+1.0	State Condoleezza Rice	plan	travel to Baghdad	0	LOCATION
+1.0	State Condoleezza Rice	travel to	Baghdad	0	LOCATION
+1.0	Maliki 's	have	government	O	O
+1.0	State Condoleezza Rice	say to	Senate	0	ORGANIZATION
+1.0	State Condoleezza Rice	plan	travel	0	0
+1.0	State Condoleezza Rice	plan	travel as part	0	0
+1.0	State Condoleezza Rice	acknowledge remark in	later press conference	PERSON	0
+1.0	State Condoleezza Rice	plan	travel as part of tour	0	0
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Maliki 's	have take	some of step	PERSON	0
+1.0	sectarian violence	promote	reconciliation between he community	0	0
+1.0	sectarian violence	promote	reconciliation	0	0
+1.0	violence	promote	reconciliation	0	0
+1.0	State Condoleezza Rice	stress at_time	Thursday	PERSON	DATE
+1.0	Secretary	press for	Iraq 's leader	0	LOCATION
+1.0	violence	promote	reconciliation between he community	0	0
+1.0	Maliki 's	once have take	some of step	PERSON	0
+1.0	Thursday	have	country	O	O
+1.0	Maliki 's	have	community	O	O
+1.0	steps	have	some	O	O
+0.34016047322793397	United States	grow with	Maliki 's failure	LOCATION	PERSON
+1.0	Maliki 's	have	strategy	O	O
+1.0	an additional 21,000 US troops	have	mission	O	O
+1.0	President George W. Bush	announce	he strategy	PERSON	0
+1.0	President George W. Bush	unveil	new US strategy	PERSON	LOCATION
+1.0	State Condoleezza Rice	stress in	various remark	PERSON	0
+1.0	Iraq	for	leader take	LOCATION	0
+1.0	violence	promote	reconciliation between he shiite community	0	0
+1.0	tour	have	part	O	O
+1.0	sectarian violence	promote	reconciliation between he shiite community	0	0
+1.0	government	have	action	0	0
+1.0	Thursday	carry	burden	0	0
+1.0	Maliki	with	failure end	PERSON	0
+1.0	Secretary	vow	press for Iraq 's leader	0	LOCATION
+0.809207312920673	tougher action	halt violence in	country	0	0
+1.0	State Condoleezza Rice	travel as	part	0	0
+1.0	State Condoleezza Rice	begin on	Friday	0	DATE
+1.0	President George W. Bush	concern	political reconciliation	PERSON	0
+1.0	State Condoleezza Rice	say during	testimony	0	0
+1.0	Secretary	vow	press	0	0
+0.34016047322793397	United States	have show	grow	LOCATION	0
+1.0	Iraq	have	leaders	O	LOCATION
+1.0	Maliki 's	once have take	some step	PERSON	0
+1.0	State Condoleezza Rice	speak at_time	day	PERSON	DURATION
+1.0	Iraq 's leaders to take tougher action to halt violence in the country	have	brains	O	O
+0.34016047322793397	United States	have show	grow with Maliki 's failure	LOCATION	PERSON
+1.0	State Condoleezza Rice	descend on	Maliki government	0	PERSON
+1.0	Maliki 's	have take	some step	PERSON	0
+1.0	United States	grow frustration with	Maliki 's failure	LOCATION	PERSON
+1.0	President George W. Bush	unveil us strategy for	Iraq 's	PERSON	LOCATION
+1.0	President George W. Bush	notably concern	reconciliation	PERSON	0

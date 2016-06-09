@@ -1,0 +1,135 @@
+1.0	goal	be at_time	one key US policy	0	LOCATION
+1.0	US action	be	welcome	LOCATION	0
+1.0	Casey	confirm	other US official	PERSON	LOCATION
+1.0	US military action	back by	Britain	LOCATION	LOCATION
+1.0	goal	be at_time	one US foreign policy	0	LOCATION
+1.0	US military action	draw criticism from	other european	LOCATION	0
+1.0	US action	be welcome by	member of interim government	LOCATION	0
+1.0	US military action	back by	Washington 's ally	LOCATION	LOCATION
+1.0	Casey	decline	reply to they comment	PERSON	0
+1.0	government	have	members	O	O
+1.0	United States	brush	criticism	LOCATION	0
+1.0	Somali official	have report	number	MISC	0
+1.0	US action	be welcome by	member	LOCATION	0
+1.0	The United States	also dispute	report of anger	0	0
+1.0	Ban Ki-moon	be secretary-general of	United Nations	PERSON	ORGANIZATION
+1.0	Monday	have	air strike	O	DATE
+1.0	issue	be discuss at	United Nations Wednesday	0	ORGANIZATION
+1.0	US action	back by	Washington 's ally	LOCATION	LOCATION
+1.0	offensive	have	face	O	O
+1.0	US military action	be welcome by	member of government	LOCATION	0
+1.0	US action	be welcome by	member of interim somali government	LOCATION	0
+1.0	attacks	have	series	O	O
+1.0	action	be	appropriate in defense of United States	0	LOCATION
+1.0	United States	brush criticism of	US airstrike in Somalia say for terrorist	LOCATION	LOCATION
+1.0	Casey	decline	reply specifically	PERSON	0
+1.0	The United States	dispute	report	0	0
+1.0	force	have	deployment	O	O
+1.0	State Department deputy spokesman Tom Casey	tell	reporter	0	0
+0.9859773795464108	people	19 at	least	0	0
+1.0	Islamists	flee capital mogadishu by	government force	MISC	0
+1.0	issue	be	discuss	0	0
+1.0	Washington	have	ally	O	LOCATION
+1.0	US airstrikes	have	brushed	O	O
+1.0	US official	have confirm us involvement in	one series	LOCATION	NUMBER
+1.0	Islamists	flee	capital Mogadishu	MISC	LOCATION
+1.0	United States	brush criticism of	US airstrike in Somalia for terrorist	LOCATION	LOCATION
+1.0	Monday	have	air strike	DATE	0
+1.0	United States	brush aside criticism of	US airstrike in Somalia	LOCATION	LOCATION
+1.0	US military action	back by	Washington 's closest ally	LOCATION	LOCATION
+1.0	US military action	be welcome by	member of interim somali government	LOCATION	0
+1.0	action	be	appropriate	0	0
+1.0	Washington	's ally be	Britain	LOCATION	LOCATION
+1.0	Washington	by	closest ally	LOCATION	0
+1.0	United States	brush aside criticism of	US airstrike say for terrorist	LOCATION	LOCATION
+1.0	US official	have only confirm	the first US military operation in the long - troubled nation since 1994	LOCATION	LOCATION
+1.0	goal	be at_time	one of US foreign policy	0	LOCATION
+1.0	government	have	Officials	O	O
+1.0	US action	draw criticism from	other european	LOCATION	0
+1.0	Casey	reply specifically to	they comment	PERSON	0
+1.0	United States	brush criticism of	US airstrike for terrorist	LOCATION	LOCATION
+1.0	US military action	be welcome by	member of somali government	LOCATION	0
+1.0	US embassies	have	suicide bombings	O	O
+1.0	United States	brush criticism of	US airstrike	LOCATION	LOCATION
+1.0	government officials	have	support	O	O
+1.0	Africa nation	have	Horn	LOCATION	O
+1.0	people	have	some	O	O
+1.0	Tom Casey	be	State Department	PERSON	ORGANIZATION
+1.0	US action	draw	criticism	LOCATION	0
+1.0	United States	brush aside criticism of	US airstrike in Somalia for terrorist	LOCATION	LOCATION
+1.0	presence	be in	Somalia	0	LOCATION
+1.0	US military action	be welcome by	member	LOCATION	0
+1.0	US action	draw criticism from	european	LOCATION	0
+1.0	community	have	defense	O	O
+1.0	US military action	draw	criticism	LOCATION	0
+1.0	Casey	decline	reply specifically to they comment	PERSON	0
+1.0	military action	be	appropriate in defense of United States	0	LOCATION
+1.0	action	have	kind	O	O
+1.0	goal	be at_time	one US policy	0	LOCATION
+1.0	The United States	dispute report in	Somalia	0	MISC
+1.0	country	have	control	O	O
+1.0	United States	brush criticism of	US airstrike say for terrorist	LOCATION	LOCATION
+1.0	Islamists	flee capital mogadishu by	government force back	MISC	0
+1.0	United States	have	defense	O	LOCATION
+1.0	people	have	views	O	O
+1.0	Ban Ki-moon	be	United Nations	PERSON	ORGANIZATION
+1.0	anger	have	reports	O	O
+1.0	United States	brush aside criticism of	US airstrike in Somalia say	LOCATION	LOCATION
+1.0	Casey	refuse	other US official	PERSON	LOCATION
+1.0	United States	brush aside	international criticism	LOCATION	0
+1.0	Somali official	have report number since	then	MISC	0
+1.0	The United States	dispute report over	attack	0	0
+1.0	strikes	have	number	O	O
+1.0	US action	be welcome by	member of government	LOCATION	0
+1.0	US official	have only confirm us involvement in	one series	LOCATION	NUMBER
+1.0	military action	be	appropriate	0	0
+1.0	goal	be at_time	one of key US foreign policy	0	LOCATION
+1.0	United States	brush criticism of	US airstrike say	LOCATION	LOCATION
+1.0	United States	brush criticism of	US airstrike in Somalia say	LOCATION	LOCATION
+1.0	The United States	also dispute report in	Somalia	0	MISC
+1.0	The United States	also dispute	report	0	0
+1.0	Casey	reply to	they comment	PERSON	0
+1.0	US policy	have	One	NUMBER	O
+1.0	Casey	refuse	US official	PERSON	LOCATION
+1.0	goal	be at_time	one of US policy	0	LOCATION
+0.06843902322027395	Islamists	flee by	government force back	MISC	0
+1.0	US military action	be welcome by	member of interim government	LOCATION	0
+1.0	affairs polling	have	lot	O	O
+1.0	US official	have confirm	the first US military operation in the long - troubled nation since 1994	LOCATION	LOCATION
+1.0	United States	brush aside criticism of	US airstrike in Somalia say for terrorist	LOCATION	LOCATION
+1.0	action	be	appropriate in defense	0	0
+1.0	US action	be welcome by	member of somali government	LOCATION	0
+1.0	The United States	dispute	report of anger	0	0
+1.0	issue	be	due	0	0
+1.0	United States	brush aside criticism of	US airstrike for terrorist	LOCATION	LOCATION
+1.0	Somali official	have report number by	US helicopter	MISC	LOCATION
+1.0	their	have	comments	O	O
+1.0	military action	be	appropriate in defense	0	0
+1.0	Tom Casey	be deputy spokesman of	State Department	PERSON	ORGANIZATION
+1.0	Casey	decline	reply	PERSON	0
+1.0	Somali official	have report	number of strike	MISC	0
+1.0	US airstrike	be in	Somalia	LOCATION	LOCATION
+1.0	United States	brush criticism of	US airstrike in Somalia	LOCATION	LOCATION
+1.0	Al-Qaeda leaders	have	presence	O	O
+1.0	United States	brush criticism at_time	the United Nations Wednesday	LOCATION	DATE
+1.0	US military action	be	welcome	LOCATION	0
+1.0	Monday 's air strike	kill	Al	DATE	ORGANIZATION
+1.0	US action	back by	Britain	LOCATION	LOCATION
+1.0	United States	brush aside criticism at_time	the United Nations Wednesday	LOCATION	DATE
+1.0	goal	be at_time	one key US foreign policy	0	LOCATION
+1.0	Casey	confirm	US official	PERSON	LOCATION
+1.0	US military action	draw criticism from	european	LOCATION	0
+1.0	United States	brush aside	criticism	LOCATION	0
+1.0	United States	brush aside criticism of	US airstrike say	LOCATION	LOCATION
+1.0	The United States	also dispute report over	attack	0	0
+1.0	United States	brush aside criticism of	US airstrike	LOCATION	LOCATION
+1.0	Somali official	have report	number of other strike	MISC	0
+1.0	US action	back by	Washington 's closest ally	LOCATION	LOCATION
+1.0	United States	brush	international criticism	LOCATION	0
+1.0	Monday 's air strike	kill	Fazul Abdullah Mohammed	DATE	PERSON
+1.0	us-backed interim government	be in	Somalia	0	LOCATION
+1.0	The United States	dispute	report of widespread anger	0	0
+1.0	The United States	also dispute	report of widespread anger	0	0
+1.0	goal	be at_time	one of key US policy	0	LOCATION
+1.0	Casey	confirm	report	PERSON	0
+0.06843902322027395	Islamists	flee by	government force	MISC	0

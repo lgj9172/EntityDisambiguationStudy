@@ -1,0 +1,20 @@
+1.0	shake-up	have	step	O	O
+1.0	he	also propose	admiral William Fallon	0	PERSON
+1.0	Iraq	have	charge	O	LOCATION
+1.0	admiral William Fallon	succeed	General John Abizaid	PERSON	PERSON
+1.0	forces	have	commander	O	O
+1.0	admiral William Fallon	succeed	General John Abizaid as commander	PERSON	PERSON
+1.0	multinational force	be in	Iraq	0	LOCATION
+1.0	Defense Secretary Robert Gates	say in	statement	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	George Casey	commander of	multinational force in Iraq	PERSON	LOCATION
+1.0	Command	have	charge	O	ORGANIZATION
+1.0	diplomatic personnel	be in	latest step of shake-up of senior US	0	LOCATION
+1.0	diplomatic personnel	be in	charge of Iraq	0	LOCATION
+1.0	Pentagon	be on	Friday	ORGANIZATION	DATE
+1.0	US	have	shake-up	O	LOCATION
+1.0	staff	have	Army chief	O	O
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	Central Command	have	commander	O	ORGANIZATION
+1.0	admiral William Fallon	succeed	General John Abizaid as commander of Central command	PERSON	ORGANIZATION
+1.0	he	propose	admiral William Fallon	0	PERSON

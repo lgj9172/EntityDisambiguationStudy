@@ -1,0 +1,41 @@
+1.0	local authority	tell poultry farm within	10-kilometer radius	0	0
+1.0	poultry farm	be in	south of country	0	0
+1.0	tomorrow -LRB- Saturday -RRB-	be	pathogenic	0	0
+1.0	authority	have isolate	chicken alive there	0	0
+1.0	Masao Tanaka	say by	telephone	PERSON	0
+1.0	Japan	have report infection in	past	LOCATION	DATE
+1.0	chicken	die about	1,650	0	NUMBER
+1.0	poultry farm	stop	chicken	0	0
+1.0	authority	have isolate	chicken there	0	0
+1.0	Tokyo	have	kilometers southwest	O	LOCATION
+1.0	authority	tell poultry farm within	radius	0	0
+1.0	farm	be with	around 12,000 bird	0	NUMBER
+1.0	local authority	tell	poultry farm	0	0
+1.0	authority	tell	poultry farm	0	0
+1.0	Masao Tanaka	official at	division	PERSON	0
+1.0	Japan	have report	infection	LOCATION	0
+1.0	chicken	die accord to	Miyazaki veterinary division	0	PERSON
+1.0	local authority	have isolate	chicken there	0	0
+1.0	chicken	die accord to	Miyazaki prefectural veterinary division	0	PERSON
+1.0	local authority	tell	other poultry farm	0	0
+1.0	chicken	die accord to	Miyazaki division	0	PERSON
+1.0	authority	tell poultry farm within	10-kilometer radius	0	0
+1.0	local authority	have isolate	chicken still alive there	0	0
+1.0	country	have	south	O	O
+1.0	local authority	tell poultry farm within	radius	0	0
+1.0	authority	have isolate	chicken still alive there	0	0
+1.0	chicken	die alone accord to	Miyazaki prefectural veterinary division	0	PERSON
+1.0	chicken	die alone accord to	Miyazaki veterinary division	0	PERSON
+1.0	poultry farm	stop	move chicken	0	0
+1.0	official	say at_time	Friday	0	DATE
+1.0	chicken	die alone accord to	Miyazaki prefectural division	0	PERSON
+1.0	chicken	die accord to	Miyazaki prefectural division	0	PERSON
+1.0	chicken	die alone accord to	Miyazaki division	0	PERSON
+1.0	chicken	die on	Friday	0	DATE
+1.0	authority	tell	other poultry farm	0	0
+1.0	chicken	die alone about	1,650	0	NUMBER
+1.0	900 kilometer southwest	be in	Miyazaki prefecture	NUMBER	LOCATION
+1.0	other poultry farm	stop	move chicken	0	0
+1.0	local authority	have isolate	chicken alive there	0	0
+1.0	other poultry farm	stop	chicken	0	0
+1.0	chicken	die alone on	Friday	0	DATE

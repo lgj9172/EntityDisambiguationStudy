@@ -1,0 +1,50 @@
+1.0	7.1-magnitude earthquake	spark communication disruption in	the Taiwan	0	LOCATION
+1.0	the Taiwan	have	severed	O	LOCATION
+1.0	internet service provider	reroute	much	0	0
+1.0	earthquake	spark	communication disruption	0	0
+1.0	Ha Yung-kuen	say	add	0	0
+1.0	traffic	have	much	O	O
+1.0	cables	have	one	NUMBER	O
+0.9814047466656882	another	receive repair for	damage sustain	0	0
+0.5052560120488825	provider	update	internet service provider	0	0
+1.0	month	have	middle	DATE	DATE
+1.0	data	have	most	O	O
+1.0	Ha Yung-kuen	act	director general of telecommunications at OFTA	PERSON	ORGANIZATION
+0.9814047466656882	another	receive repair for	damage sustain in rough sea	0	0
+0.4668178660907376	damage	sustain in	sea	0	0
+1.0	Hong Kong telecom authority	assume emergency power as	business	LOCATION	0
+1.0	Hong Kong	on	cable	LOCATION	0
+1.0	region	have	data	O	O
+1.0	digital communication network	be in	region	0	0
+1.0	internet service provider	reroute	much of they traffic	0	0
+1.0	region	of	digital datum	0	0
+1.0	Hong Kong	have	internet capacity	LOCATION	0
+1.0	7.1-magnitude earthquake	spark	communication disruption	0	0
+1.0	telecommunications	have	director general	O	O
+1.0	Internet service providers	have	traffic	O	O
+1.0	submarine cables	have	one	NUMBER	O
+0.9814047466656882	another	receive repair for	damage sustain in sea	0	0
+1.0	7.1-magnitude earthquake	spark	widespread communication disruption	0	0
+0.9814047466656882	another	receive repair for	damage	0	0
+0.9814047466656882	another	receive	repair	0	0
+1.0	Ha Yung-kuen	act	director general	PERSON	0
+1.0	OFTA	have receive	only 20 inquiry	ORGANIZATION	NUMBER
+0.5052560120488825	provider	hourly update	internet service provider	0	0
+1.0	Hong Kong telecom authority	assume	emergency power	LOCATION	0
+1.0	city	have	telecom authority	O	O
+1.0	city	have	telecom authority	0	0
+1.0	Hong Kong	have	cables	O	LOCATION
+1.0	month	have	end	DATE	DATE
+1.0	their	have	way	O	O
+1.0	Ha Yung-kuen	act	director general of telecommunications	PERSON	0
+1.0	service	be	fear	0	0
+1.0	Ha Yung-kuen	say at_time	week	PERSON	DURATION
+1.0	he	urge	surfer	0	0
+1.0	Hong Kong	have	Internet capacity	O	LOCATION
+1.0	earthquake	spark	widespread communication disruption	0	0
+1.0	submarine fibre optic cable	be in	Taiwan strait	0	LOCATION
+1.0	Hong Kong telecom authority	assume emergency power at_time	Tuesday	LOCATION	DURATION
+1.0	Hong Kong	have	all	O	LOCATION
+1.0	Service operators	have	networks	O	O
+0.4668178660907376	damage	sustain in	rough sea	0	0
+1.0	earthquake	spark communication disruption in	the Taiwan	0	LOCATION

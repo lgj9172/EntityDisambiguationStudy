@@ -1,0 +1,52 @@
+1.0	Sunderland manager Roy Keane	sign	Luton midfielder Carlos Edwards	PERSON	PERSON
+1.0	Liam Lawrence	have move to	Stoke three point ahead	PERSON	NUMBER
+1.0	this month	have	transfer window	DATE	0
+1.0	Keane	be of	Manchester United and Republic of Ireland	PERSON	LOCATION
+1.0	Liam Lawrence	have move to	Stoke three point ahead of Sunderland	PERSON	NUMBER
+1.0	defender Robbie Elliott	complete	move	PERSON	0
+1.0	Manchester United and Republic of Ireland	be of	Keane	LOCATION	PERSON
+1.0	Liam Lawrence	have move to	Stoke ahead in deal	PERSON	0
+1.0	Carlos Edwards	have	country	O	O
+1.0	Carlos Edwards	be midfielder of	Luton	PERSON	ORGANIZATION
+1.0	Sunderland manager Roy Keane	sign luton midfielder carlos edwards on	Tuesday	PERSON	DATE
+1.0	last year	at	World Cup	DATE	MISC
+1.0	Liam Lawrence	have move to	Stoke ahead of Sunderland	PERSON	ORGANIZATION
+1.0	Marton Fulop	be for	two million pound	PERSON	MONEY
+1.0	Ben Alnwick	be	Sunderland	PERSON	ORGANIZATION
+1.0	Liam Lawrence	have move after	eight game on loan at Britannia Stadium	PERSON	NUMBER
+1.0	defender Robbie Elliott	complete move to	Championship struggler	PERSON	MISC
+1.0	Marton Fulop	be reserve goalkeeper of	Tottenham	PERSON	ORGANIZATION
+1.0	Liam Lawrence	have move after	eight game	PERSON	NUMBER
+1.0	Liam Lawrence	have move after	eight game on loan	PERSON	NUMBER
+1.0	Marton Fulop	be	Tottenham	PERSON	ORGANIZATION
+1.0	Liam Lawrence	have move to	Stoke three point ahead of Sunderland in deal	PERSON	NUMBER
+1.0	Liam Lawrence	have move to	Stoke in deal	PERSON	0
+1.0	Liam Lawrence	have move to	Stoke three point ahead in deal	PERSON	NUMBER
+1.0	his	have	part	O	O
+1.0	Ben Alnwick	be	20-year-old	PERSON	DURATION
+1.0	Carlos Edwards	make	74 appearance	PERSON	NUMBER
+1.0	defender Robbie Elliott	leave	Sunderland	PERSON	ORGANIZATION
+1.0	Roy Keane	be manager of	Sunderland	PERSON	ORGANIZATION
+1.0	Stoke	be in	deal	0	0
+1.0	Sunderland manager Roy Keane	have	Republic	LOCATION	PERSON
+1.0	Sunderland manager Roy Keane	waste	time	PERSON	0
+1.0	Luton	be in	2005	ORGANIZATION	DATE
+1.0	Luton	be in	1.5 million pound	ORGANIZATION	MONEY
+1.0	Keane	be captain of	Manchester United and Republic of Ireland	PERSON	LOCATION
+1.0	clubs	have	lot	O	O
+0.13450838297740403	Carlos Edwards	luton in	2005	PERSON	DATE
+1.0	Ben Alnwick	be keeper of	Sunderland	PERSON	ORGANIZATION
+1.0	Sunderland manager Roy Keane	waste	little time	PERSON	0
+1.0	Liam Lawrence	have move worth	500,000 pound	PERSON	MONEY
+1.0	Carlos Edwards	be	Luton	PERSON	ORGANIZATION
+1.0	Roy Keane	be	Sunderland	PERSON	ORGANIZATION
+1.0	Liam Lawrence	have move to	Stoke ahead	PERSON	0
+1.0	points	have	doubt	O	O
+1.0	Liam Lawrence	have move to	Stoke	PERSON	0
+1.0	month	have	transfer window	O	DATE
+1.0	Liam Lawrence	have move worth	initial 500,000 pound	PERSON	MONEY
+1.0	Liam Lawrence	have move to	Stoke ahead of Sunderland in deal	PERSON	ORGANIZATION
+1.0	Carlos Edwards	score	eight goal	PERSON	NUMBER
+1.0	Sunderland	have	ahead	O	ORGANIZATION
+1.0	year	have	World Cup	MISC	DATE
+1.0	Sunderland manager Roy Keane	have	value	O	O

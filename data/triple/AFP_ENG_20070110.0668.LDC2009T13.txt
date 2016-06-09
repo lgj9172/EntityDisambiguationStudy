@@ -1,0 +1,64 @@
+1.0	US House	vote overwhelmingly during	its week	LOCATION	DATE
+1.0	US House	raise wage as	one of first act of Congress	LOCATION	DATE
+1.0	House of Representatives	be	US	ORGANIZATION	LOCATION
+1.0	US House	raise wage as	one of act of new democratic Congress	LOCATION	ORGANIZATION
+1.0	US House	raise wage as	one first act of democratic Congress	LOCATION	DATE
+1.0	US House	raise	wage for first time	LOCATION	DATE
+1.0	lawmaker	raise wages rate from	5.15 dollar	0	MONEY
+1.0	US industry	hurt	national economy	LOCATION	0
+1.0	US House	raise wage as	one of act of democratic Congress	LOCATION	ORGANIZATION
+1.0	boost	be in	minimum wage	0	0
+1.0	bill	have	backer	O	O
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+1.0	Ed Markey	backer of	bill	PERSON	0
+1.0	opinion poll	show	widespread support	0	0
+1.0	US industry	hurt	economy	LOCATION	0
+1.0	US House	raise wage as	one of act	LOCATION	ORGANIZATION
+1.0	Congress	be of	democratic	ORGANIZATION	DURATION
+1.0	lawmaker	raise wages rate to	7.25 dollar	0	MONEY
+1.0	acts	have	one	NUMBER	O
+1.0	Americans	have	millions	O	MISC
+1.0	The US House of Representatives on Wednesday	have	week	DATE	O
+1.0	Congress	have	acts	O	ORGANIZATION
+1.0	US House	raise wage as	one first act of new Congress	LOCATION	DATE
+1.0	first week	be in	power	DATE	0
+1.0	US House	vote during	its week in power	LOCATION	DATE
+1.0	cost	raise	wage	0	0
+1.0	opinion poll	show support by	Americans for boost	0	MISC
+1.0	US House	vote during	its first week in power	LOCATION	DATE
+1.0	cost	raise	minimum wage	0	0
+1.0	US House	raise wage as	one of first act of new Congress	LOCATION	DATE
+1.0	US House	raise wage as	one first act of new democratic Congress	LOCATION	DATE
+1.0	lawmaker	raise wages rate by	2.10 dollar	0	MONEY
+1.0	US House	raise	federal wage for time	LOCATION	DURATION
+1.0	lawmaker	raise wages rate by	2.10 dollar per hour	0	MONEY
+1.0	US House	raise	federal wage	LOCATION	DURATION
+1.0	Ed Markey	be	democratic Representative	PERSON	MISC
+1.0	US House	vote during	its first week	LOCATION	DATE
+1.0	US House	raise	federal wage for first time	LOCATION	DATE
+1.0	US House	raise wage as	one of first act of new democratic Congress	LOCATION	DATE
+1.0	US House	raise wage as	one act of Congress	LOCATION	ORGANIZATION
+1.0	US House	raise wage as	one of act of Congress	LOCATION	ORGANIZATION
+1.0	US House	raise	wage for time	LOCATION	DURATION
+1.0	life	have	necessities	O	O
+1.0	US House	raise wage as	one of act of new Congress	LOCATION	ORGANIZATION
+1.0	lawmaker	raise wages rate from	5.15 dollar per hour	0	MONEY
+1.0	US House	vote overwhelmingly during	its week in power	LOCATION	DATE
+1.0	US House	raise	wage	LOCATION	DURATION
+1.0	US House	vote during	its week	LOCATION	DATE
+1.0	US House	raise wage as	one act of new Congress	LOCATION	ORGANIZATION
+1.0	opinion poll	show	support	0	0
+1.0	House of Representatives	be on	Wednesday	ORGANIZATION	DATE
+1.0	opinion poll	show support by	Americans	0	MISC
+1.0	US House	vote overwhelmingly during	its first week in power	LOCATION	DATE
+1.0	US House	raise wage as	one act	LOCATION	NUMBER
+1.0	US House	raise wage as	one act of new democratic Congress	LOCATION	ORGANIZATION
+1.0	US House	raise wage as	one of first act of democratic Congress	LOCATION	DATE
+1.0	US House	raise wage as	one of first act	LOCATION	DATE
+1.0	US House	raise wage in	nearly decade	LOCATION	DURATION
+1.0	US House	raise wage as	one act of democratic Congress	LOCATION	ORGANIZATION
+1.0	US House	raise wage in	decade	LOCATION	DURATION
+1.0	US House	raise wage as	one first act	LOCATION	DATE
+1.0	US House	vote overwhelmingly during	its first week	LOCATION	DATE
+1.0	US House	raise wage as	one first act of Congress	LOCATION	DATE
+1.0	lawmaker	raise	wages rate	0	0

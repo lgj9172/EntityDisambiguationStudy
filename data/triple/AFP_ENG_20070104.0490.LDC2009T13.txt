@@ -1,0 +1,31 @@
+1.0	second-row Grewcock	be	suspend	PERSON	0
+1.0	Grewcock	stamp on	Sale flanker Nathan Bonner	PERSON	PERSON
+1.0	Hooker Mears	be	ban	PERSON	0
+1.0	bath	be	ban for one week by Rugby Football Union disciplinary panel night	0	ORGANIZATION
+1.0	Danny Grewcock	be pair of	England	PERSON	LOCATION
+1.0	Hooker Mears	stamp to	Bristol	PERSON	LOCATION
+1.0	bath	be	ban for one week by Rugby Football Union panel night	0	ORGANIZATION
+1.0	Hooker Mears	stamp on	Joe El Abd	PERSON	PERSON
+1.0	bath	be	ban for one week by Rugby Football Union panel on Thursday night	0	ORGANIZATION
+1.0	Premiership	win on	December 22	0	DATE
+1.0	bath	be ban at_time	night	0	TIME
+1.0	bath	be ban for	one week by Rugby Football Union panel on Thursday	0	ORGANIZATION
+1.0	Hooker Mears	stamp at	Ashton Gate	PERSON	LOCATION
+1.0	Grewcock	be	suspend	PERSON	0
+1.0	bath	be ban for	one week by Rugby Football Union panel	0	ORGANIZATION
+1.0	bath	be	ban	0	0
+1.0	bath	be	ban for one week by Rugby Football Union disciplinary panel on Thursday night	0	ORGANIZATION
+1.0	bath	ban	England pair Danny Grewcock	0	PERSON
+1.0	Saturday	have	trip	DATE	0
+1.0	Hooker Mears	stamp at	Ashton Gate on December 27	PERSON	LOCATION
+1.0	Hooker Mears	stamp on	Joe El Abd during 16-6 loss	PERSON	NUMBER
+1.0	bath	be ban for	one week by Rugby Football Union disciplinary panel on Thursday	0	ORGANIZATION
+1.0	second-row Grewcock	stamp on	Sale flanker Nathan Bonner	PERSON	PERSON
+1.0	Ashton Gate	be on	December 27	LOCATION	DATE
+1.0	Danny Grewcock	be	England	PERSON	LOCATION
+1.0	bath	be	ban for one week night	0	TIME
+1.0	Danny Grewcock	have	side	O	O
+1.0	Premiership	win over	Sale	0	0
+1.0	bath	be ban for	one week by Rugby Football Union disciplinary panel	0	ORGANIZATION
+1.0	bath	be ban for	one week	0	DURATION
+1.0	Saturday	have	trip	O	DATE

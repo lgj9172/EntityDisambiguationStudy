@@ -1,0 +1,42 @@
+1.0	a police officer	find lid with	frosting	0	0
+1.0	witness	be with	we flag	0	0
+1.0	misdemeanor conspiracy	be charge with	possession of steal goods	0	0
+1.0	additional evidence	link	the two suspects	0	0
+1.0	authority	say at_time	Thursday	0	DATE
+1.0	goods	have	possession	O	O
+1.0	evidence	link	the two suspects	0	0
+1.0	the two suspects	have	break-in	O	O
+1.0	a police officer	also find lid with	same frosting	0	0
+1.0	suspect	be	see	0	0
+1.0	a police officer	also find lid with	frosting	0	0
+1.0	misdemeanor conspiracy	be additionally charge with	possession	0	0
+1.0	the two suspects	have	stuff	O	O
+1.0	suspect	be	see earlier at birthday party	0	0
+1.0	police station	have	door	O	O
+1.0	injury	have	possession	O	O
+1.0	a police officer	also find	lid	0	0
+1.0	suspect	be	see earlier	0	0
+1.0	misdemeanor conspiracy	be charge with	possession of goods	0	0
+1.0	additional evidence	link they to	crime	0	0
+1.0	misdemeanor conspiracy	be	additionally charge	0	0
+1.0	misdemeanor conspiracy	be charge with	possession	0	0
+1.0	cake crumbs	have	trail	O	O
+1.0	Aimee Sumner	be	Sylva Police	PERSON	ORGANIZATION
+0.8713935596066783	additional evidence	link	the two suspects	0	0
+1.0	misdemeanor larceny	have	possession	O	O
+1.0	Aimee Sumner	be detective of	Sylva Police	PERSON	ORGANIZATION
+1.0	misdemeanor conspiracy	be additionally charge with	possession of goods	0	0
+0.8713935596066783	evidence	link	the two suspects	0	0
+1.0	man	be	charge	0	0
+1.0	the two suspects	have	flag	O	O
+1.0	People	have	one	NUMBER	O
+1.0	a police officer	find	lid	0	0
+1.0	misdemeanor conspiracy	additionally charge	one	0	NUMBER
+1.0	a police officer	find lid with	same frosting	0	0
+1.0	Sylva Police Detective Aimee Sumner	say	add	PERSON	0
+1.0	police officer	follow	crumb trail	0	0
+1.0	man	be charge with	breaking	0	0
+1.0	misdemeanor conspiracy	be	charge	0	0
+1.0	evidence	link they to	crime	0	0
+1.0	misdemeanor conspiracy	be additionally charge with	possession of steal goods	0	0
+1.0	misdemeanor conspiracy	charge	one	0	NUMBER

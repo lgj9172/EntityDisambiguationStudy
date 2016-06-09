@@ -1,0 +1,47 @@
+1.0	Lions	allow	24.9 point per game	ORGANIZATION	NUMBER
+1.0	Henderson	be defensive coordinator of	New York jet	PERSON	ORGANIZATION
+1.0	Rod Marinelli	be hire by	Matt Millen	PERSON	PERSON
+1.0	defensive coordinator Donnie Henderson	have	dismissal	O	O
+1.0	two NFL team	allow	point	NUMBER	0
+1.0	Henderson	be coordinator of	New York jet	PERSON	ORGANIZATION
+1.0	Rod Marinelli	endure	first season	PERSON	ORDINAL
+1.0	Rod Marinelli	be hire at_time	last January	PERSON	DATE
+1.0	Chuck Priefer	resign as	special team coach	PERSON	0
+1.0	Lions	allow	24.9 point	ORGANIZATION	NUMBER
+1.0	Rod Marinelli	be	hire as coach by Millen January	PERSON	DATE
+1.0	New York Jets	have	coordinator	O	ORGANIZATION
+1.0	Chuck Priefer	resign on	Monday	PERSON	DATE
+1.0	Rod Marinelli	be	hire as coach January	PERSON	DATE
+1.0	Lions	rank	28th in defense	ORGANIZATION	ORDINAL
+1.0	two NFL team	allow point than	Lions	NUMBER	ORGANIZATION
+1.0	Rod Marinelli	be hire at_time	January	PERSON	DATE
+1.0	Henderson	be	defensive coordinator	PERSON	0
+1.0	Henderson	be defensive coordinator for	two season	PERSON	NUMBER
+1.0	Henderson	be fire after	team	PERSON	0
+1.0	NFL team	allow	point	ORGANIZATION	0
+1.0	Rod Marinelli	endure	nightmarish season	PERSON	0
+0.6902899811816352	rank	28th in	defense	0	0
+1.0	Rod Marinelli	be	hire as coach last January	PERSON	DATE
+1.0	Henderson	be coordinator for	two season	PERSON	NUMBER
+1.0	team president	be in	2001	0	DATE
+1.0	Henderson	be	fire	PERSON	0
+1.0	Rod Marinelli	be	hire	PERSON	0
+1.0	Chuck Priefer	resign as	team coach	PERSON	0
+1.0	Rod Marinelli	be	hire by Millen January	PERSON	DATE
+1.0	Rod Marinelli	be	hire as coach by Millen	PERSON	PERSON
+1.0	Rod Marinelli	be hire as	coach	PERSON	0
+1.0	Henderson	be	coordinator of New York jet for two season	PERSON	NUMBER
+1.0	Lions	be	league-worst	ORGANIZATION	0
+1.0	Matt Millen	be name	team president	PERSON	0
+1.0	Rod Marinelli	endure	season	PERSON	0
+1.0	Lions	rank	28th	ORGANIZATION	ORDINAL
+1.0	Henderson	be	defensive coordinator of New York jet for two season	PERSON	NUMBER
+1.0	NFL team	allow	more point	ORGANIZATION	0
+1.0	two NFL team	allow	more point	NUMBER	0
+1.0	Rod Marinelli	be	hire by Millen last January	PERSON	DATE
+1.0	Rod Marinelli	endure season with	Lions	PERSON	ORGANIZATION
+1.0	Rod Marinelli	be	hire as coach by Millen last January	PERSON	DATE
+1.0	Henderson	be	coordinator	PERSON	0
+1.0	Matt Millen	be name	team president in 2001	PERSON	DATE
+1.0	Rod Marinelli	endure	nightmarish first season	PERSON	ORDINAL
+1.0	NFL team	allow point than	Lions	ORGANIZATION	ORGANIZATION

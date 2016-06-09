@@ -1,0 +1,74 @@
+1.0	euro	be in	Europe	0	LOCATION
+1.0	South East Asian Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	bloc	have	summit	O	O
+1.0	heavyweights China	have	challenge	O	LOCATION
+1.0	Brunei	be group of	ASEAN	LOCATION	ORGANIZATION
+1.0	it	be see as	priority	0	0
+1.0	talk	gain	momentum follow asian financial crisis	0	0
+1.0	manila-based ADB	be forecast growth around	4.4 percent slightly lower	ORGANIZATION	PERCENT
+1.0	ADB	be forecast growth around	4.4 percent slightly lower than 4.9 percent	ORGANIZATION	PERCENT
+1.0	summit	have	sidelines	O	O
+1.0	Haruhiko Kuroda	say in	interview in Philippines	PERSON	LOCATION
+1.0	Haruhiko Kuroda	say in	interview	PERSON	0
+1.0	Southeast Asia	have	prospects	O	LOCATION
+1.0	group	create zone than	first plan	0	ORDINAL
+1.0	ADB	be forecast growth around	4.4 percent than 4.9 percent	ORGANIZATION	PERCENT
+1.0	ASEAN	be	development	0	0
+1.0	ADB	be forecast growth around	4.4 percent	ORGANIZATION	PERCENT
+1.0	country	be see	substantial growth	0	0
+1.0	ADB	be forecast growth around	4.4 percent lower than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	population	have	one-sixth	ORDINAL	O
+1.0	manila-based ADB	be forecast growth around	4.4 percent	ORGANIZATION	PERCENT
+1.0	Myanmar	be	Brunei	LOCATION	LOCATION
+1.0	talk	gain	momentum	0	0
+1.0	ADB	be forecast growth around	4.4 percent than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	interview	be in	Philippines	0	LOCATION
+1.0	talk	gain	momentum follow asian crisis	0	0
+1.0	India	have	challenge	O	LOCATION
+1.0	talk	gain	momentum follow 1997 asian financial crisis	0	DATE
+1.0	manila-based ADB	be forecast growth around	4.4 percent than 4.9 percent	ORGANIZATION	PERCENT
+1.0	group	create zone than	five year earlier first plan	0	ORDINAL
+1.0	manila-based ADB	be forecast growth around	4.4 percent lower	ORGANIZATION	PERCENT
+1.0	manila-based ADB	be forecast growth around	4.4 percent than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	talk	have go on	on year	0	0
+1.0	world	have	population	O	O
+1.0	ASEAN	be	natural	0	0
+1.0	Haruhiko Kuroda	say on	sideline of bloc 's annual summit	PERSON	SET
+1.0	it	be see as	priority within bloc	0	0
+1.0	ADB	be forecast growth around	4.4 percent lower than 4.9 percent	ORGANIZATION	PERCENT
+1.0	it	be see as	high priority	0	0
+1.0	talk	gain	momentum follow crisis	0	0
+1.0	it	be see as	high priority within bloc	0	0
+1.0	ASEAN	be development for	ASEAN	0	ORGANIZATION
+1.0	Haruhiko Kuroda	say on	sideline	PERSON	0
+1.0	ADB	be forecast growth around	4.4 percent slightly lower	ORGANIZATION	PERCENT
+1.0	ADB	be forecast growth around	4.4 percent lower	ORGANIZATION	PERCENT
+1.0	group	create	zone	0	0
+1.0	talk	gain	momentum follow financial crisis	0	0
+1.0	Haruhiko Kuroda	say on	sideline of bloc 's summit	PERSON	ORGANIZATION
+1.0	ADB	be forecast growth around	4.4 percent slightly lower than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	group	create zone than	earlier first plan	0	ORDINAL
+1.0	biggest	have	one	NUMBER	O
+1.0	manila-based ADB	be forecast growth around	4.4 percent lower than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	manila-based ADB	be forecast growth around	4.4 percent slightly lower than 4.9 percent	ORGANIZATION	PERCENT
+1.0	manila-based ADB	be forecast growth around	4.4 percent lower than 4.9 percent	ORGANIZATION	PERCENT
+1.0	it	be	see	0	0
+1.0	country	be see	economic growth	0	0
+1.0	country	be see	growth	0	0
+1.0	bloc	of	annual summit	0	SET
+1.0	president	say at_time	Saturday	0	DATE
+1.0	ASEAN	be	natural development	0	0
+1.0	Southeast Asia	have	prospects for economic integration	LOCATION	0
+1.0	group	create zone than	earlier first	0	ORDINAL
+1.0	formation	be	long	0	0
+1.0	manila-based ADB	be forecast growth around	4.4 percent slightly lower than 4.9 percent for 2006	ORGANIZATION	PERCENT
+1.0	country	be see growth within	region	0	0
+1.0	currency unit	have	formation	O	O
+1.0	group	create	free-trade zone	0	0
+1.0	Asian Development Bank	have	president	O	ORGANIZATION
+1.0	group	create zone than	five year earlier first	0	ORDINAL
+1.0	group	create zone than	first	0	ORDINAL
+1.0	ADB	be	manila-based	ORGANIZATION	0
+1.0	country	be see	substantial economic growth	0	0
+1.0	ASEAN	be natural development for	ASEAN	0	ORGANIZATION
+1.0	talk	gain	momentum follow 1997 asian crisis	0	DATE

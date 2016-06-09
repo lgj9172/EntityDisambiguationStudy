@@ -1,0 +1,15 @@
+1.0	6-7	garrigues/robredo at_time	5-7	NUMBER	NUMBER
+1.0	Czech Republic	be bt of	Croatia	LOCATION	LOCATION
+1.0	India	be bt of	Spain	LOCATION	LOCATION
+1.0	Women	have	singles	0	0
+1.0	Sanja Ancic	be	Lucie Safarova	PERSON	PERSON
+1.0	Men	have	singles	O	O
+1.0	Medina Garrigues/Robredo	be  at_time	6-7	PERSON	NUMBER
+1.0	Women	have	singles	O	O
+1.0	Czech Republic	be	Croatia	LOCATION	LOCATION
+1.0	Tomas Berdych	be	Mario Ancic	PERSON	PERSON
+1.0	India	be	Spain	LOCATION	LOCATION
+1.0	men	have	singles	0	0
+1.0	6-7	garrigues/robredo at_time	ESP	NUMBER	0
+1.0	Sania Mirza	be	Anabel Medina Garrigues	PERSON	PERSON
+1.0	Rohan Bopanna	be	Tommy Robredo	PERSON	PERSON

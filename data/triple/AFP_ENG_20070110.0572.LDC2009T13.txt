@@ -1,0 +1,30 @@
+1.0	Maina Kamanda	be	kenyan	PERSON	0
+1.0	Hatimy	elect	charge	PERSON	0
+1.0	its	have	failure	O	O
+1.0	FIFA	indefinitely suspend kff on	October 24	ORGANIZATION	DATE
+1.0	Kenya	have	reinstatement	O	LOCATION
+1.0	Sports Minister Maina Kamanda	reject	country 's football	PERSON	0
+1.0	Hatimy	be even	Titus Kasuve	PERSON	PERSON
+1.0	delegation	have	part	O	O
+1.0	Hatimy	be in	charge	PERSON	0
+1.0	meeting	have	body	O	O
+1.0	Hatimy	be in	charge of football	PERSON	0
+1.0	FIFA	cite	its failure	ORGANIZATION	0
+1.0	next week	of	planned meeting	DATE	0
+1.0	week	have	meeting	O	DATE
+1.0	key reform	stop	government interference	0	0
+1.0	reform	stop	government interference	0	0
+1.0	country	have	football govern with fifa	0	0
+1.0	FIFA	suspend kff on	October 24	ORGANIZATION	DATE
+1.0	country	have	football	O	O
+1.0	Hatimy	elect	charge of football	PERSON	0
+1.0	FIFA	suspend	KFF	ORGANIZATION	ORGANIZATION
+1.0	kenyan Sports Minister Maina Kamanda	reject	country 's football	PERSON	0
+1.0	Hatimy	be	Titus Kasuve	PERSON	PERSON
+1.0	FIFA	indefinitely suspend	KFF	ORGANIZATION	ORGANIZATION
+1.0	Maina Kamanda	be on	Wednesday	PERSON	DATE
+1.0	Hatimy	elect	Titus Kasuve	PERSON	PERSON
+0.6050772204274711	probem	face	sport	0	0
+1.0	charge	be in	country	0	0
+1.0	football	have	charge	O	O
+1.0	panel	have	leaders	O	O

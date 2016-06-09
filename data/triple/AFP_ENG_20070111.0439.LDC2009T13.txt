@@ -1,0 +1,10 @@
+1.0	Nuri al-Maliki	be of	iraqi	PERSON	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	his	have	goverment	O	O
+1.0	US Secretary	say at_time	Thursday	LOCATION	DATE
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Prime Minister Nuri al-Maliki	have	goverment	O	PERSON
+1.0	his	have	resolve	O	O
+1.0	US Senate Foreign Relations Committee	have	members	O	ORGANIZATION
+1.0	State Condoleezza Rice	have meet	Prime Minister Maliki	0	PERSON

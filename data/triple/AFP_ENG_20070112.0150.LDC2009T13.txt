@@ -1,0 +1,33 @@
+1.0	contrast	maker 's	world	0	0
+1.0	investment group	be believe	running	0	0
+1.0	drugs	have	makers	O	O
+1.0	last week	sell	its generic drug business	0	0
+1.0	business	represent	turnover of 1.8 billion euro	0	MONEY
+1.0	Merck	announce at_time	week	PERSON	DATE
+1.0	newspaper	quote	financial source	0	0
+1.0	business	represent	turnover	0	0
+1.0	business	represent	annual turnover	0	SET
+1.0	investment group	be	also believe	0	0
+1.0	Texas Pacific Group	be finance company of	US	ORGANIZATION	LOCATION
+1.0	group sales	have	percent	PERCENT	O
+1.0	contrast	maker of	generic drug	0	0
+1.0	Switzerland	have	Novartis	ORGANIZATION	LOCATION
+1.0	investment group	be in	running	0	0
+1.0	world	have	lead maker of generic drug	0	0
+1.0	its generic drugs business	have	acquisition	O	O
+1.0	its generic drugs business	have	drugs business	O	O
+1.0	Novartis	be of	Switzerland	ORGANIZATION	LOCATION
+1.0	world	have	makers	O	O
+1.0	euros	have	turnover	O	MONEY
+1.0	Handelsblatt newspaper	report on	Friday	ORGANIZATION	DATE
+1.0	pharmaceuticals	have	drugs activities	O	O
+1.0	drug maker Serono	have	acquisition	O	ORGANIZATION
+1.0	Merck	announce at_time	last week	PERSON	DATE
+1.0	Sanofi Aventis	be	french	ORGANIZATION	0
+1.0	Serono	be of	swiss	ORGANIZATION	0
+1.0	investment group	be	believe	0	0
+1.0	Texas Pacific Group	be	US	ORGANIZATION	LOCATION
+1.0	investment group	be also believe	running	0	0
+1.0	business	represent	annual turnover of 1.8 billion euro	0	MONEY
+1.0	newspaper	quote	source	0	0
+1.0	last week	sell	its drug business	0	0

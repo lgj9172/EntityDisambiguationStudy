@@ -1,0 +1,46 @@
+1.0	Dolphins	close	Saban 's first year	ORGANIZATION	DATE
+1.0	Nick Saban	have	first year	PERSON	DATE
+1.0	Nick Saban	take	head coaching position	PERSON	0
+1.0	Saban	will	will introduce at news conference on Thursday morning	PERSON	TIME
+1.0	Dolphins	begin	coaching search	ORGANIZATION	0
+1.0	Saban	will	will introduce at news conference on Thursday	PERSON	DATE
+1.0	school	reportedly sign saban to	deal	0	0
+1.0	Nick Saban	accept offer at	University	PERSON	ORGANIZATION
+1.0	school	sign saban worth	32 million dollar	0	MONEY
+1.0	National Football League	have	Miami Dolphins	ORGANIZATION	ORGANIZATION
+1.0	Nick Saban	accept	offer	PERSON	ORGANIZATION
+1.0	school	sign saban to	deal	0	0
+1.0	Saban	have leave on	he five-year	PERSON	DURATION
+1.0	Dolphins	close	Saban 's first year with winning streak	ORGANIZATION	DATE
+1.0	Dolphins	however say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Dolphins	slip to	6-10	ORGANIZATION	NUMBER
+1.0	Miami	make	playoff in two season	LOCATION	NUMBER
+1.0	Nick Saban	have leave	National Football League 's Miami Dolphins	PERSON	ORGANIZATION
+1.0	first year	be with	six-game winning streak	DATE	0
+1.0	Alabama	have	University	ORGANIZATION	ORGANIZATION
+1.0	Saban	will	will introduce at news conference	PERSON	0
+1.0	Saban	will	will introduce	PERSON	0
+1.0	school	sign saban to	eight-year deal	0	DURATION
+1.0	school	reportedly sign	Nick Saban	0	PERSON
+1.0	Saban	have leave at_time	three year	PERSON	DURATION
+1.0	his	have	five-year	DURATION	O
+1.0	school	reportedly sign saban worth	32 million dollar	0	MONEY
+1.0	Nick Saban	accept offer to	coach	PERSON	0
+1.0	he	five-year	22.5 million dollar contract	0	MONEY
+1.0	Alabama	be	please	LOCATION	0
+1.0	Saban	will	will introduce at news conference morning	PERSON	TIME
+1.0	Saban	have leave with	Dolphins	PERSON	ORGANIZATION
+1.0	Dolphins	close	Saban 's year	ORGANIZATION	PERSON
+1.0	Nick Saban	accept offer at	University of Alabama	PERSON	ORGANIZATION
+1.0	playoff	be in	two season	0	NUMBER
+1.0	Dolphins	close	Saban 's year with six-game winning streak	ORGANIZATION	PERSON
+1.0	Miami	make	playoff	LOCATION	0
+1.0	Dolphins	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Saban	have leave on	22.5 million dollar contract	PERSON	MONEY
+1.0	school	reportedly sign saban to	eight-year deal	0	DURATION
+1.0	Saban	will	will introduce morning	PERSON	TIME
+1.0	Nick Saban	take head coaching position with	US college gridiron team	PERSON	LOCATION
+1.0	Dolphins	close	Saban 's year with winning streak	ORGANIZATION	PERSON
+1.0	Nick Saban	have	year	DATE	PERSON
+1.0	Dolphins	close	Saban 's first year with six-game winning streak	ORGANIZATION	DATE
+1.0	school	sign	Nick Saban	0	PERSON

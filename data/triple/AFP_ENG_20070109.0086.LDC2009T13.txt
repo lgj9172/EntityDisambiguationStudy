@@ -1,0 +1,31 @@
+1.0	he	sack at_time	October	0	DATE
+1.0	Canadian	have	entourage	MISC	0
+1.0	world champion	will drive	Peugeot 908 diesel hdi	0	ORGANIZATION
+1.0	Villeneuve	make move to	endurance race	PERSON	0
+1.0	triple ChampCar champion Sebastien Bourdais	should	should also part of team	PERSON	0
+1.0	team	have	part	O	O
+1.0	ChampCar champion Sebastien Bourdais	should	should part	PERSON	0
+1.0	Canadian	have	entourage	O	MISC
+1.0	Frenchmen Stephane Sarrazin	lamy 's	Portugal	PERSON	LOCATION
+1.0	their	have	teams	O	O
+1.0	ChampCar champion Sebastien Bourdais	should	should also part	PERSON	0
+1.0	Canadian 's entourage	say at_time	Tuesday	MISC	DATE
+1.0	Le Mans Series	have	rounds	O	O
+1.0	triple ChampCar champion Sebastien Bourdais	should	should also part	PERSON	0
+1.0	Villeneuve	make move to	race	PERSON	0
+1.0	ChampCar champion Sebastien Bourdais	should	should part of team	PERSON	0
+1.0	ChampCar champion Sebastien Bourdais	should	should also part of team	PERSON	0
+1.0	Villeneuve	make move to	famous race	PERSON	0
+1.0	1997 world champion	will drive	Peugeot 908 diesel hdi	DATE	ORGANIZATION
+1.0	they	be	Frenchmen Stephane Sarrazin	0	PERSON
+1.0	Villeneuve	make move to	famous endurance race	PERSON	0
+1.0	he	sack at_time	last October	0	DATE
+1.0	year	have	race	O	DATE
+1.0	Villeneuve	make	move	PERSON	0
+1.0	Villeneuve	make move to	world famous race	PERSON	0
+1.0	Portugal	have	Pedro Lamy	PERSON	LOCATION
+1.0	triple ChampCar champion Sebastien Bourdais	should	should part	PERSON	0
+1.0	triple ChampCar champion Sebastien Bourdais	should	should part of team	PERSON	0
+1.0	Villeneuve	make move to	world famous endurance race	PERSON	0
+1.0	he	sack by	Sauber f1 team	0	0
+1.0	Portugal	have	Pedro Lamy	LOCATION	PERSON

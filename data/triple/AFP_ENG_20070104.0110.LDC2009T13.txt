@@ -1,0 +1,77 @@
+1.0	US deployment	have	details	O	O
+1.0	dictator Mohamed Siad Barre	have	ouster	O	PERSON
+1.0	Kenya	prevent	influx of weapon	LOCATION	0
+1.0	lawless african nation	be in	10 day conflict	0	DURATION
+1.0	Kenya	inside kilometre be	1.8 mile	LOCATION	NUMBER
+1.0	somali troops	route islamists in	lawless african nation	0	0
+1.0	truck	be inside	territory	0	0
+1.0	helicopter	drop	six bomb	0	NUMBER
+1.0	top government official	confirm	detail of incident	0	0
+1.0	US force	join hunt with	Al-Qaeda tie	LOCATION	MISC
+1.0	incident	have	details	O	O
+1.0	truck	be inside	somali territory	0	0
+1.0	troops	route islamists from	Mogadishu	0	LOCATION
+1.0	Badade district	be in	Lower Jubba region of Somalia	LOCATION	LOCATION
+1.0	troops	route islamists in	african nation	0	0
+1.0	Somalia	have	Lower Jubba region	O	LOCATION
+1.0	Somalia	disintegrate after	1991 ouster	LOCATION	DATE
+1.0	four helicopter	drop	six bomb	0	NUMBER
+1.0	top government official	confirm	detail	0	0
+1.0	somali troops	route	Islamists	0	MISC
+1.0	fighters	have	influx	O	O
+1.0	Somali Islamist leaders	have	stronghold	O	O
+1.0	patrolling border	be with	Somalia	0	LOCATION
+1.0	Somalia	disintegrate after	1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	bomb	fall on	kenyan side of border	0	0
+1.0	troops	route	Islamists	0	MISC
+1.0	official	say at_time	Thursday	0	DATE
+1.0	Kenyan police	carry	leader	0	0
+1.0	US naval force	join hunt with	Al-Qaeda tie	LOCATION	MISC
+1.0	Somalia	with	Horn	LOCATION	PERSON
+1.0	Kenya	have close	its border	LOCATION	0
+1.0	US naval force	join	hunt	LOCATION	0
+1.0	top somali government official	confirm	detail	0	0
+1.0	somali troops	route islamists in	african nation	0	0
+1.0	Kenya	prevent	influx	LOCATION	0
+1.0	United States	provide	detail of US deployment	LOCATION	LOCATION
+1.0	US naval force	join	hunt for militant	LOCATION	0
+1.0	border	have	side	O	O
+1.0	troops	route islamists in	nation	0	0
+1.0	Kenyan police	carry	islamist leader	0	0
+1.0	border	be with	Somalia	0	LOCATION
+1.0	its	have	border	O	O
+1.0	US force	join	hunt for militant	LOCATION	0
+1.0	whom	have	some	O	O
+1.0	pilot	spot	armoured vehicle	0	0
+0.8177046762352688	somali troops	back by	force	0	0
+1.0	somali troops	route islamists from	Mogadishu	0	LOCATION
+1.0	somali troops	route islamists in	nation	0	0
+1.0	troops	route islamists in	lawless african nation	0	0
+1.0	pilot	spot	vehicle	0	0
+1.0	government official	confirm	detail of incident	0	0
+1.0	somali government official	confirm	detail	0	0
+1.0	top somali government official	confirm	detail of incident	0	0
+1.0	Africa neighbours	have	Horn	PERSON	O
+1.0	bomb	fall on	side	0	0
+1.0	Somalia	have	Horn	PERSON	LOCATION
+1.0	government spokesman Abdirahman Dinari	tell	AFP	PERSON	ORGANIZATION
+1.0	United States	provide	detail	LOCATION	0
+1.0	somali government official	confirm	detail of incident	0	0
+1.0	border post	have	south	O	O
+1.0	weapons	have	influx	O	O
+1.0	Somalia	hour after	border	LOCATION	0
+1.0	US naval force	join hunt with	suspect Al-Qaeda tie	LOCATION	MISC
+0.8177046762352688	troops	back by	force	0	0
+1.0	bomb	fall on	kenyan side	0	0
+1.0	US naval force	join	hunt for islamist militant	LOCATION	0
+1.0	US force	join hunt with	suspect Al-Qaeda tie	LOCATION	MISC
+0.8177046762352688	troops	back by	ethiopian force	0	0
+1.0	government official	confirm	detail	0	0
+1.0	US force	join	hunt for islamist militant	LOCATION	0
+1.0	this	have	know	O	O
+0.8177046762352688	somali troops	back by	ethiopian force	0	0
+1.0	US force	join	hunt	LOCATION	0
+1.0	fire	have	source	O	O
+1.0	bomb	fall on	side of border	0	0
+1.0	their	have	strongholds	O	O
+1.0	Liboi	have	border post	O	LOCATION

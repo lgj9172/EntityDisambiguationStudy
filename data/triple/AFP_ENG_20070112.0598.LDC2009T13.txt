@@ -1,0 +1,52 @@
+1.0	US Campaign	have	campaign director	O	O
+1.0	council members	have	majority	O	O
+1.0	the proposed resolution	have	citizens	O	O
+1.0	african Ambassador Dumisani Kumalo	be handle by	Human Rights Council	PERSON	ORGANIZATION
+1.0	african Ambassador Dumisani Kumalo	be	handle	PERSON	0
+1.0	council	have	members	O	O
+0.6940762520197568	signal	continue its crime against	humanity	0	0
+1.0	Indonesia	abstain	Congo	LOCATION	LOCATION
+1.0	south african Ambassador Dumisani Kumalo	be	handle	PERSON	0
+1.0	Their	have	actions	O	O
+1.0	Aung Din , policy director of the US Campaign	director of	US Campaign	PERSON	LOCATION
+1.0	South Africa	actually vote together with	Russia	LOCATION	LOCATION
+1.0	burmese regime	have	atrocious abuse	0	0
+1.0	junta	make	serious change	0	0
+1.0	whose	have	democracy icon	O	O
+1.0	abuse	be in	Myanmar	0	LOCATION
+1.0	Mitch McConnell	be republican leader of	US Senate	PERSON	ORGANIZATION
+1.0	burma	be in	Washington	0	LOCATION
+1.0	she National League	win landslide victory in	1990 election	ORGANIZATION	DATE
+1.0	Mitch McConnell	be	Republican	PERSON	MISC
+1.0	its	have	neighbors	O	O
+1.0	the proposed resolution	have	crimes	O	O
+1.0	South Africa	join	two member of council	LOCATION	NUMBER
+0.12475880083040541	signal	continue against	humanity	0	0
+1.0	signal	reject	resolution	0	0
+1.0	South Africa	join	two permanent member of council	LOCATION	NUMBER
+1.0	violence	have	forms	O	O
+1.0	majority	support despite	veto	0	0
+1.0	Jeremy Woodrum	director of	US Campaign for burma	PERSON	LOCATION
+1.0	vast majority	support despite	veto	0	0
+1.0	signal	reject	propose resolution	0	0
+1.0	Her	have	National League	ORGANIZATION	O
+1.0	US Campaign	have	policy director	O	O
+1.0	Dumisani Kumalo	be	south african	PERSON	0
+1.0	south african Ambassador Dumisani Kumalo	be handle by	Human Rights Council	PERSON	ORGANIZATION
+1.0	1,100 political prisoner	be in	Myanmar	NUMBER	LOCATION
+1.0	she National League	win	landslide victory	ORGANIZATION	0
+1.0	South Africa	vote together with	Russia	LOCATION	LOCATION
+1.0	South Africa	join	two member	LOCATION	NUMBER
+1.0	Mitch McConnell	be	US Senate	PERSON	ORGANIZATION
+1.0	Myanmar	have	junta	O	LOCATION
+1.0	UN Secretary General	have	offices	O	O
+1.0	the proposed resolution	have	war	O	O
+1.0	Ambassador Dumisani Kumalo	be	handle	PERSON	0
+1.0	Myanmar	have	name	O	LOCATION
+1.0	junta	make	change	0	0
+1.0	Myanmar	have	junta release	LOCATION	0
+1.0	regime	have	abuses	O	O
+0.6940762520197568	signal	continue	its crime	0	0
+1.0	Ambassador Dumisani Kumalo	be handle by	Human Rights Council	PERSON	ORGANIZATION
+1.0	Indonesia	abstain	Qatar	LOCATION	LOCATION
+1.0	South Africa	join	two permanent member	LOCATION	NUMBER

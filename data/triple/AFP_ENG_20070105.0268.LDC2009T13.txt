@@ -1,0 +1,89 @@
+1.0	journalist	demonstrate for	release of AFP photographer kidnap in Gaza	0	ORGANIZATION
+1.0	Denis Hiault	tell	gathering	PERSON	0
+1.0	situation	be complicate by	violence between palestinian faction	0	0
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch	appeal	PERSON	0
+1.0	journalist	demonstrate in	central Paris	0	LOCATION
+1.0	Menard	add for	whole profession	PERSON	0
+1.0	situation	be	complicate	0	0
+1.0	France	have	Foreign Minister Philippe Douste-Blazy	PERSON	LOCATION
+1.0	his	have	concern	O	O
+1.0	AFP 's headquarters	outside border be	rsf	ORGANIZATION	0
+1.0	Douste-Blazy	say in	statement	PERSON	0
+1.0	situation	be complicate by	violence between faction	0	0
+1.0	other journalist	be abducted in	area in 2006	0	DATE
+1.0	area	be in	2006	0	DATE
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch appeal for	release of Razuri	PERSON	PERSON
+1.0	Jaime Razuri	be	50	PERSON	NUMBER
+1.0	journalist	demonstrate on	Friday	0	DATE
+1.0	situation	be in	palestinian territory	0	0
+1.0	situation	be complicate by	fresh violence between rival palestinian faction	0	0
+1.0	contacts	have	kinds	O	O
+1.0	centre	in abducted be	Razuri	0	PERSON
+1.0	agency	have	offices	O	O
+1.0	Gaza City	have	centre	O	LOCATION
+1.0	situation	be complicate by	fresh violence	0	0
+1.0	his	have	mission	O	O
+1.0	France 's Foreign Minister Philippe Douste-Blazy	renew call for	he freedom	LOCATION	0
+1.0	six other journalist	be abducted in	area in 2006	NUMBER	DATE
+1.0	we	want	able	0	0
+1.0	gunman abducted	be in	centre of Gaza City as he	0	LOCATION
+1.0	we	find	Razuri	0	PERSON
+1.0	situation	be complicate by	violence between rival palestinian faction	0	0
+1.0	six other journalist	be abducted in	area	NUMBER	0
+1.0	AFP 's headquarters	be in	Paris	ORGANIZATION	LOCATION
+1.0	situation	be complicate by	violence between rival faction	0	0
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch	fresh appeal	PERSON	0
+1.0	AFP	have	headquarters	O	ORGANIZATION
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch appeal for	immediate release of Razuri	PERSON	PERSON
+1.0	situation	have	aware	O	O
+1.0	situation	be complicate by	fresh violence between rival palestinian faction in Gaza	0	LOCATION
+1.0	agency	to	office	0	0
+1.0	situation	be complicate by	fresh violence between faction in Gaza	0	LOCATION
+1.0	other journalist	be	abducted	0	0
+1.0	photographer	have	release	O	O
+1.0	AFP	have	information director	ORGANIZATION	0
+1.0	situation	be complicate by	fresh violence between faction	0	0
+0.6007103220308647	protest	organise by	media rights group	0	0
+1.0	France 's Foreign Minister Philippe Douste-Blazy	coincide with	protest	PERSON	0
+1.0	journalist	demonstrate for	release of AFP photographer kidnap	0	ORGANIZATION
+1.0	Gaza	be	Jaime Razuri	LOCATION	PERSON
+1.0	situation	be complicate by	violence	0	0
+1.0	other journalist	be abducted in	area	0	0
+1.0	AFP	have	information director	O	ORGANIZATION
+1.0	Monday	on abducted be	Razuri	DATE	PERSON
+1.0	situation	be complicate by	fresh violence between palestinian faction	0	0
+1.0	situation	be complicate by	violence between faction in Gaza	0	LOCATION
+1.0	Denis Hiault	be information director of	AFP	PERSON	ORGANIZATION
+1.0	grey	have	pictures	O	O
+1.0	journalist	demonstrate for	release	0	0
+1.0	centre	in abducted be	peruvian national	0	0
+1.0	Monday	on abducted be	peruvian national	DATE	0
+1.0	rival palestinian faction	be in	Gaza	0	LOCATION
+1.0	situation	be complicate by	fresh violence between rival faction in Gaza	0	LOCATION
+1.0	six other journalist	be	abducted	NUMBER	0
+1.0	Jaime Razuri	have	release	O	PERSON
+1.0	France	have	Philippe Douste-Blazy	LOCATION	PERSON
+1.0	AFP	outside	headquarters in central Paris	ORGANIZATION	LOCATION
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch appeal for	immediate release	PERSON	0
+1.0	situation	be complicate by	fresh violence between palestinian faction in Gaza	0	LOCATION
+1.0	his	have	services	O	O
+1.0	gunman abducted	be return from	assignment	0	0
+1.0	abducted	be in	area	0	0
+1.0	assignment	be with	translator	0	0
+1.0	France 's Foreign Minister Philippe Douste-Blazy	have	freedom	O	O
+1.0	Philippe Douste-Blazy	be foreign minister of	France	PERSON	LOCATION
+1.0	RSF head Robert Menard	say at	protest on Friday	PERSON	DATE
+1.0	Menard	add for	profession	PERSON	0
+1.0	RSF head Robert Menard	say at_time	morning	PERSON	TIME
+1.0	situation	be complicate by	violence between rival faction in Gaza	0	LOCATION
+1.0	France 's Foreign Minister Philippe Douste-Blazy	launch appeal for	release	PERSON	0
+1.0	AFP photographer	have	release	O	O
+1.0	France 's Foreign Minister Philippe Douste-Blazy	renew	call	LOCATION	0
+1.0	journalist	demonstrate for	release of AFP photographer	0	ORGANIZATION
+1.0	gunman abducted	be return from	assignment with translator	0	0
+1.0	Robert Menard	be head of	RSF	PERSON	ORGANIZATION
+1.0	situation	be complicate by	violence between palestinian faction in Gaza	0	LOCATION
+1.0	situation	be complicate by	fresh violence between rival faction	0	0
+1.0	situation	be complicate by	violence between rival palestinian faction in Gaza	0	LOCATION
+1.0	RSF head Robert Menard	say at	protest	PERSON	0
+1.0	Robert Menard	be	RSF	PERSON	ORGANIZATION

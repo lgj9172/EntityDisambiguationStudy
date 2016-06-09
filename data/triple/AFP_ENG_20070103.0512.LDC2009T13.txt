@@ -1,0 +1,18 @@
+1.0	landslide	bury house in	northern Samar	0	LOCATION
+1.0	Samar	have	islands	O	LOCATION
+1.0	part	be without	still power	0	0
+1.0	people	have	hundreds	O	O
+1.0	landslide	bury house in	town of Silvino Lobos	0	LOCATION
+1.0	2006	have	quarter	DATE	DATE
+1.0	landslide	bury house in	town	0	0
+1.0	Silvino Lobos	have	town	O	LOCATION
+1.0	part	be without	power	0	0
+1.0	50,000	have	evacuation	O	NUMBER
+1.0	thousands	have	tens	O	O
+1.0	Leyte	have	islands	O	LOCATION
+1.0	region	have	parts	O	O
+1.0	landslide	bury house in	Samar	0	LOCATION
+1.0	Philippines	be in	the last quarter of 2006	LOCATION	DATE
+1.0	landslide	bury	house	0	0
+1.0	landslide	kill	five people	0	NUMBER
+1.0	hundred	be	kill	0	0

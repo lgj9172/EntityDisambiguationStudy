@@ -1,0 +1,34 @@
+1.0	top police commander	be in	Kenya	0	LOCATION
+1.0	the Kenya - Somalia border , waiting , not yet able to cross	have lack government since	1991 ouster of dictator Mohamed Siad Barre	LOCATION	PERSON
+1.0	dictator Mohamed Siad Barre	have	ouster	O	PERSON
+1.0	UN Office for Cordination for Humanitarian Affairs	for office be	UNOCHA	ORGANIZATION	ORGANIZATION
+1.0	calamity	have compound	misery	0	0
+1.0	UN Office	say in	statement	ORGANIZATION	0
+1.0	refugees	have	Thousands	O	O
+1.0	recurrent calamity	have compound misery for	people	0	0
+1.0	natural calamity	have compound	misery	0	0
+1.0	people	be in	country	0	0
+1.0	police commander	tell	AFP	0	ORGANIZATION
+1.0	recurrent calamity	have compound	misery	0	0
+1.0	Kenyan police	have	stronghold	O	O
+1.0	stronghold	have	control	O	O
+1.0	the Kenya - Somalia border , waiting , not yet able to cross	have lack government since	1991 ouster	LOCATION	DATE
+1.0	natural calamity	have compound misery for	people	0	0
+1.0	northeastern Kenya	have	border security	O	O
+1.0	recurrent natural calamity	have compound misery for	people	0	0
+1.0	inhabitants	have	nation	O	O
+1.0	they last stronghold	be in	Kismayo	0	LOCATION
+1.0	unrest	have	years	DURATION	O
+1.0	Dhobley	be along	Kenya	LOCATION	LOCATION
+1.0	northeastern Kenya	have reinforce	its border security	LOCATION	0
+1.0	normal operation	be in	the Kenya - Somalia border , waiting , not yet able to cross	0	MISC
+1.0	border	be with	kenya	0	0
+1.0	security threat	be in	impoverished nation of 10 million inhabitant	0	NUMBER
+1.0	the Kenya - Somalia border , waiting , not yet able to cross	have lack	government	LOCATION	0
+1.0	Kenyan police	allow	the refugees	0	0
+1.0	northeastern Kenya	prevent	the now-vanquished Islamists	LOCATION	MISC
+1.0	recurrent natural calamity	have compound	misery	0	0
+1.0	top police commander	tell	AFP	0	ORGANIZATION
+1.0	the Kenya - Somalia border , waiting , not yet able to cross	have lack	effective government	LOCATION	0
+1.0	the Kenya - Somalia border , waiting , not yet able to cross	have	control	O	LOCATION
+1.0	calamity	have compound misery for	people	0	0

@@ -1,0 +1,14 @@
+1.0	holder	start at_time	day	0	DATE
+1.0	favourite	begin	they campaign	0	DATE
+0.13578433017498404	favourite	begin at	1.45 pm	0	NUMBER
+1.0	holder	start at	6pm against USA	0	DATE
+1.0	holder	start at_time	same day	0	DATE
+0.13578433017498404	favourite	begin at	1.45 pm against Italy	0	LOCATION
+1.0	Paris	have	Stade de France stadium	O	LOCATION
+0.13578433017498404	overwhelming favourite	begin at	1.45 pm against Italy	0	LOCATION
+0.13578433017498404	overwhelming favourite	begin at	1.45 pm	0	NUMBER
+1.0	their	have	campaign	O	O
+1.0	overwhelming favourite	begin	they campaign	0	DATE
+1.0	Paris	at	Stade de France stadium	LOCATION	LOCATION
+1.0	favourite	begin	they campaign on September 8	0	DATE
+1.0	overwhelming favourite	begin	they campaign on September 8	0	DATE

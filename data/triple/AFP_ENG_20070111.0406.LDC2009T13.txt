@@ -1,0 +1,90 @@
+1.0	they	go to	market	0	0
+1.0	he	take	command of Bosnian Serb force	0	MISC
+1.0	Serb General Dragomir Milosevic	go on	trial for war crime	MISC	0
+1.0	serb troops	use	sniper against civilian	0	0
+1.0	television cameras	have	out played	O	O
+1.0	Slobodan Milosevic	have	predecessor	O	PERSON
+1.0	Croats	fight for	control of territory	MISC	0
+1.0	Milosevic 's predecessor	be	sentence in late November by UN tribunal	PERSON	DATE
+1.0	1995 war	be in	Bosnia	DATE	LOCATION
+1.0	unlawful attacks on civilians during the siege from 1992 to 1995	have	campaign	O	O
+0.523883833066404	he	command of	Bosnian Serb force	0	MISC
+1.0	campaign	have	type	O	O
+1.0	Sarajevo	have	siege	O	LOCATION
+1.0	prosecutor Alex Whiting	tell un court in	he open statement	PERSON	0
+1.0	Slobodan Milosevic	's predecessor be	Stanislav Galic	PERSON	PERSON
+1.0	bosnian troops	shell	city	0	0
+1.0	bosnian troops	use	sniper	0	0
+1.0	bosnian serb troops	shell	city	0	0
+1.0	Serb General Dragomir Milosevic	go on	Thursday	MISC	DATE
+1.0	Milosevic 's predecessor	be sentence to	life	PERSON	0
+1.0	Slobodan Milosevic	have	predecessor as commander of bosnian serb force in Sarajevo	PERSON	LOCATION
+1.0	Bosnian Serb General Dragomir Milosevic	have	role	O	O
+1.0	life	be in	prison	0	0
+1.0	war crimes	have	counts	O	O
+1.0	forces	have	commander	O	O
+1.0	his	have	prison cell	O	O
+1.0	Milosevic 's predecessor	be	sentence in late November to life in prison by UN tribunal	PERSON	DATE
+1.0	they	queue for	bread	0	0
+1.0	Bosnian Serb forces	have	command	O	O
+1.0	Sarajevo	be	Stanislav Galic	LOCATION	PERSON
+1.0	troops	use	sniper against civilian	0	0
+1.0	Milosevic 's predecessor	be	sentence in November by UN tribunal	PERSON	DATE
+1.0	bosnian Serb General Dragomir Milosevic	go on	trial	MISC	0
+1.0	Slobodan Milosevic	be	64	PERSON	NUMBER
+1.0	Croats	fight for	control	MISC	0
+1.0	bosnian Serb General Dragomir Milosevic	go on	trial for war crime	MISC	0
+1.0	Croats	fight	Serbs	MISC	MISC
+1.0	Milosevic 's predecessor	be	sentence	PERSON	0
+1.0	place	have	knew	O	O
+1.0	Yugoslavia	be in	December 2004	LOCATION	DATE
+1.0	Yugoslavia	have	break-up	O	LOCATION
+1.0	Milosevic 's predecessor	be sentence in	November	PERSON	DATE
+1.0	they	walk with	they child	0	0
+1.0	crimes	have	counts	O	O
+1.0	Milosevic 's predecessor	be	sentence to life by UN tribunal	PERSON	ORGANIZATION
+1.0	siege	last until	November 1995	0	DATE
+1.0	Slobodan Milosevic	have	statement	O	O
+1.0	December 2004	in yugoslavia be	ICTY	DATE	ORGANIZATION
+1.0	Milosevic 's predecessor	be	sentence in November to life by UN tribunal	PERSON	DATE
+1.0	Serb General Dragomir Milosevic	go on	Thursday for he role	MISC	DATE
+1.0	siege	begin in	April 1992	0	DATE
+1.0	Serb General Dragomir Milosevic	go on	trial	MISC	0
+1.0	commander	as predecessor be	Stanislav Galic	0	PERSON
+1.0	prosecutor Alex Whiting	tell un court in	he statement	PERSON	0
+1.0	Milosevic 's predecessor	be sentence in	late November	PERSON	DATE
+1.0	territory	have	control	O	O
+1.0	prosecutor Alex Whiting	tell un court for	former Yugoslavia	PERSON	LOCATION
+1.0	Milosevic 's predecessor	be sentence by	UN tribunal	PERSON	ORGANIZATION
+1.0	their	have	children	O	O
+1.0	bosnian serb troops	use	sniper against civilian	0	0
+1.0	bosnian troops	use	sniper against civilian	0	0
+1.0	Milosevic 's predecessor	be	sentence in November to life in prison	PERSON	DATE
+1.0	prosecutor Alex Whiting	tell	UN court	PERSON	ORGANIZATION
+1.0	troops	use	sniper	0	0
+1.0	troops	have	commander	O	O
+1.0	Croats	fight	Bosnian Muslims	MISC	MISC
+1.0	people	die during	44-month siege	0	DURATION
+1.0	Milosevic 's predecessor	be	sentence to life in prison by UN tribunal	PERSON	ORGANIZATION
+1.0	Milosevic 's predecessor	be	sentence in November to life	PERSON	DATE
+1.0	siege	have	months	DATE	O
+1.0	bosnian Serb General Dragomir Milosevic	go on	Thursday for he role	MISC	DATE
+1.0	he	take	command	0	0
+1.0	longest such blockade	be in	Europe	0	LOCATION
+1.0	Sarajevo	have	civilians	O	LOCATION
+1.0	Milosevic 's predecessor	be	sentence in November to life in prison by UN tribunal	PERSON	DATE
+1.0	serb troops	use	sniper	0	0
+1.0	troops	shell	city	0	0
+1.0	bosnian serb troops	use	sniper	0	0
+1.0	they	simply walk with	they child	0	0
+1.0	Milosevic 's predecessor	be	sentence in late November to life by UN tribunal	PERSON	DATE
+1.0	Milosevic 's predecessor	be	sentence in late November to life	PERSON	DATE
+1.0	bosnian serb force	be in	Sarajevo	0	LOCATION
+1.0	Milosevic 's predecessor	be sentence to	life in prison	PERSON	0
+1.0	bosnian Serb General Dragomir Milosevic	go as	commander	MISC	0
+1.0	Milosevic 's predecessor	be	sentence in late November to life in prison	PERSON	DATE
+1.0	Dragomir Milosevic	be	bosnian Serb	PERSON	MISC
+1.0	Serb General Dragomir Milosevic	go as	commander	MISC	0
+1.0	bosnian Serb General Dragomir Milosevic	go on	Thursday	MISC	DATE
+1.0	people	die during	siege	0	0
+1.0	serb troops	shell	city	0	0

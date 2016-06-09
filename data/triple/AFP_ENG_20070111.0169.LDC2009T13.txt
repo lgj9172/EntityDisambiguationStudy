@@ -1,0 +1,15 @@
+0.9971272854766761	he	be	sentence	0	0
+1.0	our	have	guest	O	O
+1.0	zimbabwean government	exile	former ethiopian leader Mengistu Haile Mariam	0	PERSON
+1.0	zimbabwean government	remain in	its support	0	0
+1.0	government	remain in	its support	0	0
+0.9971272854766761	he	be sentence to	life	0	0
+1.0	government	exile	former ethiopian leader Mengistu Haile Mariam	0	PERSON
+1.0	Mengistu Haile Mariam	be	ethiopian	PERSON	0
+1.0	zimbabwean government	exile	former leader Mengistu Haile Mariam	0	PERSON
+1.0	The Zimbabwean government	have	support	O	O
+1.0	government	exile	former leader Mengistu Haile Mariam	0	PERSON
+1.0	government	remain	firm	0	0
+0.9971272854766761	he	be	sentence to life Thursday	0	DATE
+1.0	zimbabwean government	remain	firm	0	0
+0.9971272854766761	he	be sentence at_time	Thursday	0	DATE

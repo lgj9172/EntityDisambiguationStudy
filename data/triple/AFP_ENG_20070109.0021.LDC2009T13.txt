@@ -1,0 +1,16 @@
+1.0	London Tuesday	seek support over	afp reporter	DATE	0
+1.0	London	have	Heathrow airport	O	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	head for	talk	0	0
+1.0	whose	have	spokesman	O	O
+1.0	London Tuesday	seek support over	afp reporter travel	DATE	0
+1.0	Japanese Prime Minister Shinzo Abe	head after	landing at London 's Heathrow airport	0	LOCATION
+1.0	they	have	meeting	O	O
+1.0	Japanese Prime Minister Shinzo Abe	head after	landing	0	0
+1.0	London	at	Heathrow airport	LOCATION	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	head after	Britain	PERSON	LOCATION
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	wide-ranging discussion	be in	they first official meeting	0	ORDINAL
+1.0	Japanese Prime Minister Shinzo Abe	head to	Germany	PERSON	LOCATION
+1.0	London Tuesday	seek support over	North Korea	DATE	LOCATION
+1.0	London Tuesday	seek	support	DATE	0
+1.0	trip	have	start	O	O

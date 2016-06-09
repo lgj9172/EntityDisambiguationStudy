@@ -1,0 +1,19 @@
+1.0	boy	return later	home	0	0
+1.0	state media	report at_time	Friday	0	DATE
+1.0	December 26 rendezvous	be in	nearby city of Mudanjiang	DATE	LOCATION
+1.0	woman	have	looks	O	O
+1.0	a woman he met over the Internet that he hanged himself after seeing her face-to - face	have	chat moniker	O	O
+1.0	girl	describe	The girl	0	0
+1.0	boy	immediately return later	home	0	0
+1.0	boy	hang	A 17-year-old boy in northeastern China	0	0
+1.0	17-year-old boy	be in	China	DURATION	LOCATION
+1.0	boy	return	home	0	0
+1.0	Xinhua news agency	know	Qunjiaofeiyang	ORGANIZATION	0
+1.0	Heilongjiang province	be as	19-year-old	LOCATION	DURATION
+1.0	her	have	face-to	O	O
+1.0	boy	lose	he appetite	0	0
+1.0	Xinhua news agency	know qunjiaofeiyang by	she chat moniker	ORGANIZATION	0
+0.3239295221123589	Xinhua news agency	know by	she chat moniker	ORGANIZATION	0
+1.0	boy	immediately return	home	0	0
+1.0	A 17-year-old boy in northeastern China	have	appetite	O	O
+1.0	Mudanjiang	have	city	O	LOCATION

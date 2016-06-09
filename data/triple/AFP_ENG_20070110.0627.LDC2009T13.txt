@@ -1,0 +1,47 @@
+1.0	Murcer	post average with	New York	PERSON	LOCATION
+1.0	physicians	have	class	O	O
+1.0	Murcer	make	he league debut	PERSON	0
+1.0	Murcer	post	average	PERSON	0
+1.0	he	retire after	second stint	0	DURATION
+1.0	Murcer	undergo surgery for	brain tumor on December 28	PERSON	DATE
+1.0	Murcer	undergo surgery at	University	PERSON	ORGANIZATION
+1.0	The 60-year-old Murcer	have remove at_time	last month	0	DATE
+1.0	60-year-old Murcer	undergo surgery for	brain tumor on December 28	PERSON	DATE
+0.288420181074286	Murcer	average of	.277	PERSON	NUMBER
+1.0	friends	have	abundance	O	O
+1.0	life	have	biggest	O	O
+1.0	Murcer	be	60-year-old	PERSON	DURATION
+1.0	he	retire after	stint	0	0
+1.0	Murcer	post	average of .277	PERSON	NUMBER
+1.0	60-year-old Murcer	undergo surgery at	University	PERSON	ORGANIZATION
+1.0	he	retire after	stint with Yankees	0	ORGANIZATION
+1.0	second stint	be with	Yankees	DURATION	ORGANIZATION
+1.0	he	retire in	1983	0	DATE
+1.0	.277	have	average	O	NUMBER
+1.0	The 60-year-old Murcer	have remove at_time	month	0	DATE
+1.0	loving family	abundance of	wonderful friend	0	0
+1.0	I	battle alone	this	0	0
+1.0	The 60-year-old Murcer	revealle on	Wednesday	PERSON	DATE
+1.0	his	have	league debut	O	O
+1.0	The 60-year-old Murcer	outfielder for	New York Yankees	PERSON	ORGANIZATION
+1.0	Murcer	make	he major league debut	PERSON	0
+1.0	I	be fortify with	abundance of wonderful friend	0	0
+1.0	Murcer	post average with	252 home run	PERSON	NUMBER
+1.0	Texas M.D. Anderson Cancer Center	have	University	ORGANIZATION	ORGANIZATION
+1.0	I	be fortify with	loving family	0	0
+1.0	Murcer	post average in	1,908 career game	PERSON	NUMBER
+1.0	fans	have	abundance	O	O
+1.0	Murcer	undergo surgery for	brain tumor	PERSON	0
+1.0	I	be fortify with	abundance of friend	0	0
+1.0	I	be fortify with	most loving family	0	0
+1.0	60-year-old Murcer	undergo surgery for	brain tumor	PERSON	0
+1.0	60-year-old Murcer	undergo	surgery	PERSON	0
+1.0	60-year-old Murcer	undergo surgery at	University of Texas M.D. Anderson Cancer Center	PERSON	ORGANIZATION
+1.0	he	retire after	second stint with Yankees	0	DURATION
+1.0	Murcer	undergo	surgery	PERSON	0
+1.0	The 60-year-old Murcer	have	life	O	O
+1.0	Yankees	be in	1964	ORGANIZATION	DATE
+1.0	I	be	fortify	0	0
+1.0	I	be fortify with	abundance	0	0
+1.0	I	be fortify with	family	0	0
+1.0	Murcer	undergo surgery at	University of Texas M.D. Anderson Cancer Center	PERSON	ORGANIZATION

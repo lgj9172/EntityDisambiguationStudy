@@ -1,0 +1,27 @@
+1.0	trading system	have	member	O	O
+1.0	communist nation	formally become	WTO 's 150th member	0	ORGANIZATION
+1.0	US Trade Representative Susan Schwab on Thursday	say in	statement	0	0
+1.0	new era	be in	political relationship between we two country	0	NUMBER
+1.0	Susan Schwab	be on	Thursday	PERSON	DATE
+1.0	the international trading system	have	status	O	O
+1.0	Southeast Asia	have	country	O	LOCATION
+1.0	era	have	beginning	O	O
+1.0	US Trade Representative Susan Schwab	welcome	Vietnam 's historic accession	LOCATION	LOCATION
+1.0	WTO	have	member	O	ORGANIZATION
+1.0	communist nation	formally become	WTO 's member	0	ORGANIZATION
+1.0	communist nation	become	WTO 's 150th member	0	ORGANIZATION
+1.0	nation	formally become	WTO 's member	0	ORGANIZATION
+1.0	Susan Schwab	be trade representative of	US	PERSON	LOCATION
+1.0	Southeast Asia	have	second most populous country	LOCATION	ORDINAL
+1.0	Susan Schwab	be	US	PERSON	LOCATION
+1.0	our	have	countries	O	O
+1.0	this	be	historic	0	0
+1.0	communist nation	become	WTO 's member	0	ORGANIZATION
+1.0	Vietnam	have	accession	O	LOCATION
+1.0	nation	become	WTO 's 150th member	0	ORGANIZATION
+1.0	WTO	have	150th member	ORGANIZATION	0
+1.0	Vietnam	have	historic accession	LOCATION	0
+1.0	US Trade Representative Susan Schwab	welcome	Vietnam 's accession	LOCATION	LOCATION
+1.0	nation	formally become	WTO 's 150th member	0	ORGANIZATION
+1.0	the international trading system	have	growth	O	O
+1.0	nation	become	WTO 's member	0	ORGANIZATION

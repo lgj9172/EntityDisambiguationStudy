@@ -1,0 +1,46 @@
+1.0	Germany 's Franz Goering	win	man 's 15km classic country race here	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's 15km classic cross country race	PERSON	0
+1.0	Norway	have	leader Simen Oestensen	PERSON	LOCATION
+1.0	compatriot Rene Sommerfeldt	have	ahead	O	PERSON
+1.0	Germany 's Franz Goering	win	man 's 15km classic country race	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's 15km country race	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's classic country race	PERSON	0
+1.0	Simen Oestensen	be of	Norway	PERSON	LOCATION
+1.0	Germany 's Franz Goering	win	man 's classic cross country race	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's classic country race here	PERSON	0
+1.0	german	finish in	39min 40.7 sec	0	DURATION
+1.0	Germany 's Franz Goering	win	man 's 15km cross country race	PERSON	0
+1.0	Fellow German Tobias Angerer	have	result	O	O
+1.0	Frenchman Vincent Vittoz	fall from	podium	MISC	0
+1.0	Germany	have	Franz Goering	LOCATION	PERSON
+1.0	german	finish ahead in	40.7 sec	0	DURATION
+1.0	Frenchman Vincent Vittoz	fall here from	podium	MISC	0
+1.0	Frenchman Vincent Vittoz	fall here after	he finish	MISC	0
+1.0	Frenchman Vincent Vittoz	fall after	he finish	MISC	0
+1.0	Germany 's Franz Goering	win	man 's country race	PERSON	0
+1.0	Germany	have	Franz Goering	PERSON	LOCATION
+1.0	Germany 's Franz Goering	win	man 's 15km classic cross country race here	PERSON	0
+1.0	Vincent Vittoz	be	Frenchman	PERSON	MISC
+1.0	leader Simen Oestensen	fall to	second	PERSON	ORDINAL
+1.0	previous leader Simen Oestensen	fall to	second	PERSON	ORDINAL
+1.0	Tour Ski	have	stage	O	MISC
+1.0	Frenchman Vincent Vittoz	fall from	podium to sixth	MISC	ORDINAL
+1.0	Tour Ski	have	top	O	MISC
+1.0	german	finish in	40.7 sec	0	DURATION
+1.0	Wednesday	stage of	Tour de Ski	DATE	MISC
+1.0	german	finish ahead in	39min 40.7 sec	0	DURATION
+1.0	Germany 's Franz Goering	win	man 's country race here	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's 15km country race here	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's cross country race	PERSON	0
+1.0	Germany 's Franz Goering	win	man 's cross country race here	PERSON	0
+1.0	Frenchman Vincent Vittoz	fall here from	podium to sixth	MISC	ORDINAL
+1.0	Frenchman Vincent Vittoz	have	finish	O	O
+1.0	Germany 's Franz Goering	win	man 's classic cross country race here	PERSON	0
+1.0	he result	be	overall standing	0	0
+1.0	Germany 's Franz Goering	win	man 's 15km cross country race here	PERSON	0
+1.0	man	have	15km classic cross country race here	0	0
+1.0	Frenchman Vincent Vittoz	fall after	he 24th-placed finish	MISC	0
+1.0	Frenchman Vincent Vittoz	fall here after	he 24th-placed finish	MISC	0
+1.0	Tobias Angerer	be	German	PERSON	MISC
+1.0	men	have	country race	O	O
+1.0	pace	have	finished	O	O

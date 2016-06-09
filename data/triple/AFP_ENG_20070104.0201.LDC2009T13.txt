@@ -1,0 +1,156 @@
+1.0	process	be	derail	0	0
+1.0	self-rule	have	promise	O	O
+1.0	atmosphere	have	derailed	O	O
+1.0	spectrum	have	ends	O	O
+1.0	party	otherwise will see	window of opportunity slam	0	0
+1.0	whole process	be derail because	because political atmosphere	0	0
+1.0	party	will see	window of opportunity slam	0	0
+1.0	DUP leader Ian Paisley	have	party	O	O
+1.0	he office	tell	afp	0	0
+1.0	Downing Street spokesman	be	expect	LOCATION	0
+1.0	government	be suspend after	allegation of IRA spy ring	0	ORGANIZATION
+1.0	northern Ireland	for	party restore	LOCATION	0
+1.0	police	be view until	1994	0	DATE
+1.0	promise	be many among	main plank	0	0
+1.0	the parties	come from	end	0	0
+1.0	police	be	until 1994 view by Army	0	DATE
+1.0	Sinn Fein	have	leader	ORGANIZATION	0
+1.0	government	be	suspend	0	0
+1.0	process	be derail because	because political atmosphere	0	0
+1.0	whole process	be	derail in January because of political atmosphere	0	DATE
+1.0	have major block	restore	government	0	0
+1.0	police	be	until 1994 view by irish Army	0	DATE
+1.0	Sinn Fein 's leader	vote at_time	week	ORGANIZATION	DATE
+1.0	promise	be many at	hand of IRA	0	ORGANIZATION
+1.0	DUP leader Ian Paisley	show	flexibility	PERSON	0
+1.0	government	have set	March 26 deadline	0	DATE
+1.0	Sinn Fein	have	refusal back	ORGANIZATION	0
+1.0	Sinn Fein 's leader	hold	conference	ORGANIZATION	0
+1.0	promise	be many among	plank	0	0
+1.0	he party	have yet	nothing tangible	0	0
+1.0	government	be suspend at	Belfast seat	0	LOCATION
+1.0	have major block	restore	power-sharing government	0	0
+1.0	party	otherwise will see	window of opportunity slam shut	0	0
+1.0	London	believe	dup	LOCATION	0
+1.0	DUP	have	commitments	O	O
+1.0	promise	be	among plank many at hand of IRA	0	ORGANIZATION
+1.0	Ian Paisley	be	DUP	PERSON	ORGANIZATION
+1.0	whole process	be derail because	because festering political atmosphere	0	0
+1.0	IRA spy ring	have	allegations	O	O
+1.0	Prime Minister Tony Blair	have	office	O	O
+1.0	british government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	have block	restore	government	0	0
+1.0	source	speak on	condition of anonymity	0	0
+1.0	Sinn Fein 's refusal	have	have stumbling block	ORGANIZATION	0
+1.0	he party	have	nothing tangible	0	0
+1.0	police	be	until 1994 view by republican Army	0	DATE
+1.0	new hurdle	be in	northern Ireland peace process	0	LOCATION
+1.0	London	have	position	O	LOCATION
+1.0	London	believe	party	LOCATION	0
+1.0	whole process	be derail in	January	0	DATE
+1.0	whole process	be	derail in January because of festering political atmosphere	0	DATE
+1.0	government	be	suspend in 2002 after allegation	0	DATE
+1.0	London	believe	democratic unionist	LOCATION	0
+1.0	Sinn Fein 's refusal	have	have block	ORGANIZATION	0
+1.0	DUP	have	Nigel Dodds	PERSON	ORGANIZATION
+1.0	Gerry Adams	want vote from	Republicans	PERSON	LOCATION
+1.0	promise	be many at	hand	0	0
+1.0	Troubles	have	decades	DURATION	O
+1.0	opportunity slam	have	window	O	O
+1.0	government	be suspend at	Stormont	0	LOCATION
+1.0	source	be	concern	0	0
+1.0	the parties	come from	end of spectrum	0	0
+1.0	DUP	of dodds be	largest force support with Britain	ORGANIZATION	LOCATION
+0.022365932509734954	police	be view by	the IRA	0	ORGANIZATION
+1.0	promise	be	among main plank many at hand of IRA	0	ORGANIZATION
+1.0	promise	be	many	0	0
+1.0	Nigel Dodds of the DUP	say	add	PERSON	0
+1.0	promise	be	among plank many at hand	0	0
+1.0	statement	be	likely	0	0
+1.0	Sinn Fein 's refusal	have	have major stumbling block	ORGANIZATION	0
+1.0	whinging	have	get	O	O
+1.0	police	be view by	irish Army	0	ORGANIZATION
+1.0	government	be	suspend after allegation at Stormont	0	LOCATION
+1.0	Ian Paisley	be leader of	DUP	PERSON	ORGANIZATION
+1.0	Gerry Adams	want	vote	PERSON	0
+1.0	anonymity	have	condition	O	O
+1.0	process	be	derail in January because of atmosphere	0	DATE
+1.0	Prime Minister Tony Blair	return at_time	24 hour early	PERSON	DURATION
+1.0	process	be derail in	January	0	DATE
+1.0	have stumbling block	restore	government	0	0
+1.0	London	believe	largest protestant party	LOCATION	0
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	he party	have	nothing	0	0
+1.0	the PSNI	actually join	the PSNI	ORGANIZATION	0
+1.0	Prime Minister Tony Blair	have	New Year holiday	O	O
+1.0	refusal	be	stumbling	0	0
+1.0	Northern Ireland	have	Police Service	O	LOCATION
+1.0	police	be view by	the IRA	0	ORGANIZATION
+1.0	Sinn Fein	have	refusal	O	ORGANIZATION
+1.0	Nigel Dodds	tell	Sinn Fein on Thursday	PERSON	ORGANIZATION
+1.0	party	otherwise will see	window	0	0
+1.0	London	believe	protestant party	LOCATION	0
+1.0	police	be view by	republican Army	0	ORGANIZATION
+1.0	retain link	be with	Britain	0	LOCATION
+1.0	process	be derail because	because festering political atmosphere	0	0
+1.0	source	speak on	condition	0	0
+1.0	Stormont	seat of	administration	LOCATION	0
+1.0	have major stumbling block	restore	power-sharing government	0	0
+1.0	province	rule from	London	0	LOCATION
+1.0	government	be	suspend in 2002 after allegation of IRA spy ring	0	ORGANIZATION
+1.0	London	believe	unionist	LOCATION	0
+1.0	Nigel Dodds	be of	DUP	PERSON	ORGANIZATION
+1.0	government	have set	March 26 deadline for Ireland 's party	0	DATE
+1.0	have major stumbling block	restore	government	0	0
+1.0	Sinn Fein	be on	later Thursday	ORGANIZATION	DATE
+1.0	hurdles	have	signs	O	O
+1.0	leadership	be	angry	0	0
+1.0	have block	restore	power-sharing government	0	0
+1.0	the PSNI	join	the PSNI	ORGANIZATION	0
+1.0	party	will see	window	0	0
+1.0	landmark agreement	have	planks	O	O
+1.0	Prime Minister Tony Blair	return from	Miami Florida	PERSON	LOCATION
+1.0	whole process	be	derail	0	0
+1.0	process	be	derail in January because of political atmosphere	0	DATE
+1.0	whole process	be	derail in January because of atmosphere	0	DATE
+1.0	the parties	come from	opposite end	0	0
+1.0	the parties	come at	Catholic	0	0
+1.0	process	have	favor	O	O
+1.0	Ireland	have	Republic	LOCATION	LOCATION
+1.0	party	will see	window of opportunity slam shut	0	0
+1.0	government	be suspend at	Belfast seat of administration	0	LOCATION
+1.0	irish republican Army	wing of	Sinn Fein	ORGANIZATION	ORGANIZATION
+1.0	Prime Minister Tony Blair	return at_time	24 hour	PERSON	DURATION
+1.0	have stumbling block	restore	power-sharing government	0	0
+1.0	promise	be	among main plank many at hand	0	0
+1.0	Prime Minister Tony Blair	have	party	O	O
+1.0	Sinn Fein	have	wing	O	ORGANIZATION
+1.0	Nigel Dodds	tell	Sinn Fein	PERSON	ORGANIZATION
+1.0	Sinn Fein	have	leaders	O	ORGANIZATION
+1.0	process	be derail because	because atmosphere	0	0
+1.0	refusal	be	major	0	0
+1.0	Sinn Fein 's refusal	have	have major block	ORGANIZATION	0
+1.0	government	be	suspend after allegation of IRA spy ring at Stormont	0	ORGANIZATION
+1.0	government source	be in	northern Ireland	0	LOCATION
+1.0	police	be view by	Army	0	ORGANIZATION
+1.0	London	have	position on attempt	LOCATION	0
+1.0	government	be suspend after	allegation	0	0
+1.0	Ireland	have	parties	O	LOCATION
+1.0	Downing Street spokesman	be in	London	LOCATION	LOCATION
+1.0	the parties	come from	opposite end of spectrum	0	0
+1.0	police	be view by	wing	0	0
+1.0	british government	have set	March 26 deadline	0	DATE
+1.0	administration	have	Belfast seat	O	O
+1.0	whole process	be derail because	because atmosphere	0	0
+1.0	police	be	view	0	0
+1.0	government	be	suspend in 2002 after allegation at Stormont	0	DATE
+1.0	running	have	get	O	O
+1.0	IRA	have	hands	O	ORGANIZATION
+1.0	republican leadership	be	angry	0	0
+1.0	government	be	suspend in 2002 at Stormont	0	DATE
+1.0	government	be suspend in	2002	0	DATE
+1.0	police	be view by	military wing	0	0
+1.0	Sinn Fein 's leader	vote at_time	last week	ORGANIZATION	DATE
+1.0	process	be	derail in January because of festering political atmosphere	0	DATE
+1.0	London	believe	largest party	LOCATION	0
+1.0	he party	have yet	nothing	0	0

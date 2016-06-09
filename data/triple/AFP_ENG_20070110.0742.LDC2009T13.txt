@@ -1,0 +1,113 @@
+0.7930077321925301	Garner	name	Paul Jerry Bremer as chief administrator	PERSON	PERSON
+1.0	violence	have	pace	O	O
+1.0	President George W. Bush	fly to	Iraq	PERSON	LOCATION
+1.0	Herewith	adopt far	new approach in Iraq	0	LOCATION
+1.0	President George W. Bush	have	National Strategy	PERSON	0
+0.8062840048691869	blueprint	halt	violence	0	0
+1.0	President George W. Bush	fly to	Iraq for briefing	PERSON	LOCATION
+1.0	Herewith	adopt	approach	0	0
+0.8062840048691869	different blueprint	halt	violence	0	0
+1.0	Herewith	adopt	new approach	0	0
+1.0	Baghdad	be with	mandate rebuild	LOCATION	0
+0.7930077321925301	Garner	name	Paul Jerry Bremer as chief civilian administrator in Iraq	PERSON	PERSON
+1.0	US military police	be in	iraqi unit	LOCATION	0
+1.0	plan	strategy for	Victory in Iraq	0	0
+1.0	Lieutenant General Jay Garner	arrive in	newly occupy Baghdad with mandate	PERSON	LOCATION
+1.0	strategy	have	time rollout	O	O
+1.0	blueprint	have progressively pass	sovereignty	0	0
+1.0	4,000 US marine	will head to	Baghdad	LOCATION	LOCATION
+1.0	Herewith	adopt far	new approach	0	0
+1.0	4,000 US marine	will head to	restive province	LOCATION	0
+1.0	President George W. Bush	have	National Strategy for Victory	PERSON	0
+1.0	President George W. Bush	yet fail	Prime Minister Nuri al-Maliki preview	PERSON	PERSON
+1.0	government	be	install	0	0
+1.0	blueprint	have pass sovereignty to	government	0	0
+1.0	4,000 US marine	will head to	province	LOCATION	0
+1.0	Herewith	adopt so far	new approach	0	0
+1.0	US marine	will head to	province	LOCATION	0
+0.7930077321925301	Garner	name	Paul Jerry Bremer as administrator in Iraq	PERSON	PERSON
+1.0	rest	have	most	O	O
+1.0	different blueprint	include	three election	0	NUMBER
+0.7930077321925301	Garner	name	Paul Jerry Bremer as administrator	PERSON	PERSON
+1.0	blueprint	include	three election	0	NUMBER
+1.0	Herewith	adopt so far by	Bush administration	0	PERSON
+1.0	Iraq	have	fledgling democracy	LOCATION	0
+1.0	Bremer	recount in	he autobiography	PERSON	0
+1.0	mount violence	rattle	US troops	0	LOCATION
+1.0	Bush	tell	he	PERSON	0
+1.0	Herewith	adopt so far	approach in Iraq	0	LOCATION
+1.0	Lieutenant General Jay Garner	arrive in	newly occupy Baghdad	PERSON	LOCATION
+0.7930077321925301	Garner	name	Paul Jerry Bremer as civilian administrator in Iraq	PERSON	PERSON
+0.7930077321925301	Garner	name	Paul Jerry Bremer as civilian administrator	PERSON	PERSON
+1.0	Herewith	adopt far	approach	0	0
+1.0	money	have	dollars	MONEY	O
+1.0	chief civilian administrator	be in	Iraq	0	LOCATION
+1.0	Lieutenant General Jay Garner	arrive in	occupy Baghdad	PERSON	LOCATION
+1.0	US marine	will head to	al-anbar province	LOCATION	0
+1.0	government	be	finally install	0	0
+1.0	Bremer	be	Jerry	PERSON	PERSON
+1.0	Herewith	adopt so far	approach	0	0
+1.0	Herewith	adopt far	approach in Iraq	0	LOCATION
+1.0	Baghdad government	have	plan	O	O
+0.7930077321925301	Garner	name	Paul Jerry Bremer as chief administrator in Iraq	PERSON	PERSON
+1.0	iraqi government	be	install	0	0
+1.0	President George W. Bush	improve	security reconciliation	PERSON	0
+1.0	violence	cement	Iraq 's fledgling democracy	0	LOCATION
+1.0	iraqi government	be	finally install	0	0
+1.0	Herewith	adopt so far	new approach in Iraq	0	LOCATION
+1.0	President George W. Bush	fail	iraqi Prime Minister Nuri al-Maliki preview	PERSON	PERSON
+1.0	blueprint	have progressively pass sovereignty from	US occupation	0	LOCATION
+1.0	Wednesday	have	prime time rollout of new strategy send into battle	DATE	0
+1.0	President George W. Bush	have preside over	repeat plan	PERSON	0
+1.0	President George W. Bush	fail	Prime Minister Nuri al-Maliki preview	PERSON	PERSON
+1.0	Victory	be in	Iraq	0	0
+1.0	different blueprint	have pass sovereignty to	iraqi government	0	0
+1.0	different blueprint	have pass sovereignty to	government	0	0
+1.0	blueprint	have progressively pass sovereignty to	government	0	0
+1.0	blueprint	have progressively pass sovereignty to	iraqi government	0	0
+1.0	US marine	will head to	restive province	LOCATION	0
+1.0	his	have	autobiography	O	O
+1.0	Bush	unveil	new	PERSON	0
+1.0	security	have	control	O	O
+1.0	Herewith	adopt	approach in Iraq	0	LOCATION
+1.0	new approach	be in	Iraq	0	LOCATION
+1.0	Lieutenant General Jay Garner	arrive in	occupy Baghdad with mandate	PERSON	LOCATION
+1.0	US combat death	hit	3,000	LOCATION	NUMBER
+1.0	Iraq	have	fledgling democracy	O	LOCATION
+0.7930077321925301	Garner	name	Paul Jerry Bremer as chief civilian administrator	PERSON	PERSON
+1.0	he	have	impossible job	0	0
+1.0	Bremer	later recount in	he autobiography	PERSON	0
+1.0	different blueprint	have progressively pass sovereignty from	US occupation	0	LOCATION
+1.0	Bush	replace	Garner	PERSON	PERSON
+1.0	President George W. Bush	fly to	Iraq for briefing on Baghdad government 's new plan	PERSON	LOCATION
+1.0	Herewith	adopt	new approach in Iraq	0	LOCATION
+1.0	4,000 US marine	will head to	restive al-anbar province	LOCATION	0
+1.0	different blueprint	have progressively pass sovereignty to	government	0	0
+1.0	Baghdad government	on	new plan	LOCATION	0
+1.0	different blueprint	have pass	sovereignty	0	0
+1.0	Herewith	adopt far by	Bush administration	0	PERSON
+0.7930077321925301	Garner	name	Paul Jerry Bremer	PERSON	PERSON
+1.0	blueprint	have pass	sovereignty	0	0
+1.0	Iraqis	have	thousands	O	MISC
+1.0	President George W. Bush	fly to	Iraq for briefing on Baghdad government 's plan	PERSON	LOCATION
+1.0	US marine	will head to	restive al-anbar province	LOCATION	0
+1.0	blueprint	have pass sovereignty from	US occupation	0	LOCATION
+1.0	Iraq	have	economy	O	LOCATION
+1.0	Lieutenant General Jay Garner	arrive in	Baghdad	PERSON	LOCATION
+1.0	Lieutenant General Jay Garner	arrive in	Baghdad with mandate	PERSON	LOCATION
+1.0	Wednesday	have	time rollout	O	DATE
+1.0	Bremer	be	Paul	PERSON	PERSON
+1.0	4,000 US marine	will head to	al-anbar province	LOCATION	0
+1.0	different blueprint	have progressively pass sovereignty to	iraqi government	0	0
+1.0	President George W. Bush	yet fail	iraqi Prime Minister Nuri al-Maliki preview	PERSON	PERSON
+1.0	US marine	will head to	Baghdad	LOCATION	LOCATION
+1.0	different blueprint	have pass sovereignty from	US occupation	0	LOCATION
+1.0	President George W. Bush	have	National Strategy for Victory in Iraq	PERSON	0
+1.0	blueprint	have pass sovereignty to	iraqi government	0	0
+1.0	Herewith	adopt by	Bush administration	0	PERSON
+1.0	US troops	have	redeployment	O	O
+1.0	different blueprint	have progressively pass	sovereignty	0	0
+1.0	President George W. Bush	improve	security national reconciliation	PERSON	0
+1.0	President George W. Bush	have preside over	plan	PERSON	0
+1.0	violence	rattle	US troops	0	LOCATION
+1.0	plans	have	rundown	O	O

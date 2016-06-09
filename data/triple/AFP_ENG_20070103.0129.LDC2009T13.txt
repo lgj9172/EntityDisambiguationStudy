@@ -1,0 +1,49 @@
+0.5584530328281514	student activist	align with	she National League Democracy party	0	ORGANIZATION
+1.0	causes	have	died	O	O
+0.14059619431790493	junta	have refuse	allow year	DURATION	DURATION
+0.14059619431790493	junta	have refuse	allow to its prison year	DURATION	DURATION
+1.0	Myanmar	have	prison	LOCATION	0
+1.0	Aung San Suu Kyi	have	NLD party	PERSON	ORGANIZATION
+0.14059619431790493	junta	have refuse	allow for a year	DURATION	DURATION
+1.0	Myanmar	have	prisons	O	LOCATION
+1.0	anniversary	have	prisons	O	O
+1.0	junta leader	general than	than Shwe	0	PERSON
+0.14059619431790493	junta	have refuse	allow to its prison for a year	DURATION	DURATION
+1.0	country	have	independence	O	O
+0.5584530328281514	student activist	loosely align with	she National League Democracy party	0	ORGANIZATION
+0.5584530328281514	student activist	align with	she National League	0	ORGANIZATION
+0.14059619431790493	junta	allow for	a	DURATION	DURATION
+1.0	state media	say	activist	0	0
+1.0	Myanmar	have	New Light	O	LOCATION
+0.14059619431790493	junta	allow at_time	year	DURATION	DURATION
+1.0	NLD	have	members	O	ORGANIZATION
+1.0	Myanmar	be since	1962	LOCATION	DATE
+1.0	Myanmar 's	have	New Light	O	LOCATION
+1.0	people	have	feeling	O	O
+1.0	its	have	prisons	O	O
+1.0	junta	allow red cross access to	its prison	DURATION	0
+0.14059619431790493	junta	have refuse	allow for a	DURATION	DURATION
+1.0	junta	allow	Red Cross access	DURATION	ORGANIZATION
+1.0	bar	be in	often grim condition	0	0
+1.0	leaders	have	news	O	O
+1.0	Aung San Suu Kyi 's NLD party	win	1990 election	PERSON	DATE
+1.0	death	be in	prison	0	0
+1.0	Amnesty International	report in	October	ORGANIZATION	DATE
+1.0	he role	be in	1988 pro-democracy uprising	0	DATE
+0.14059619431790493	junta	have refuse	allow to its prison for a	DURATION	DURATION
+1.0	Mandalay	have	city	O	LOCATION
+1.0	democracy icon Aung San Suu Kyi	have	National League	ORGANIZATION	O
+0.14059619431790493	junta	allow to	its prison	DURATION	0
+1.0	Myanmar	have	government	O	LOCATION
+1.0	Aung San Suu Kyi	have	NLD party	O	PERSON
+1.0	country	of	independence	0	0
+0.5584530328281514	student activist	loosely align with	she National League	0	ORGANIZATION
+1.0	country	have	situation	O	O
+1.0	country	for	situation go	0	0
+0.14059619431790493	junta	have refuse	allow to its prison	DURATION	DURATION
+1.0	junta	allow red cross access at_time	year	DURATION	DURATION
+1.0	Myanmar	have	military government	LOCATION	0
+1.0	more than a decade	have	role	O	O
+1.0	junta	allow red cross access for	a	DURATION	DURATION
+0.14059619431790493	junta	have refuse	allow	DURATION	DURATION
+1.0	independence	have	Thursday	DATE	O

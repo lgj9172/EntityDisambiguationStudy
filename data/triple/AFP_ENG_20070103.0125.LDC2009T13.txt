@@ -1,0 +1,81 @@
+1.0	severe crop damage	cause by	flood	0	0
+1.0	South Korea	suspend	aid shipment	LOCATION	0
+1.0	resident	have scour	countryside	0	0
+1.0	resident	have scour	countryside for fuel	0	0
+1.0	newspaper	quote official at_time	Wednesday	0	DATE
+1.0	korean newspaper	quote official at_time	Wednesday	0	DATE
+1.0	South Korea	suspend aid shipment in	July	LOCATION	DATE
+1.0	tree cover	have	North Korea	LOCATION	O
+1.0	North	have	missile	O	O
+0.039271560364453006	monsoon rain	sweep in	July	0	DATE
+1.0	monsoon rain	sweep	much of disaster-prone north	0	0
+1.0	South Korea	suspend	regular aid shipment	LOCATION	0
+1.0	severe crop damage	cause in	2006	0	DATE
+1.0	plans	have	series	O	O
+1.0	monsoon rain	sweep through	much of north	0	0
+1.0	monsoon rain	cause	heavy human loss	0	0
+1.0	North	have	much	O	O
+1.0	monsoon rain	sweep	much of north	0	0
+1.0	crop damage	cause by	flood	0	0
+1.0	DPRK North Korea	concentrate	ability	LOCATION	0
+1.0	crop damage	cause in	2006	0	DATE
+1.0	North	in	major state newspaper	0	0
+1.0	North	at	missile test	0	0
+1.0	energy-starved resident	have scour	countryside for fuel	0	0
+1.0	United States	have impose	they own measure	LOCATION	0
+1.0	donations	have	face'	O	O
+1.0	pro-north korean newspaper	quote	official	0	0
+1.0	pro-north korean resident	be in	Japan	0	LOCATION
+1.0	our	have	people	O	O
+1.0	monsoon rain	sweep	much	0	0
+1.0	test	spark	sanction	0	0
+1.0	monsoon rain	sweep through	much	0	0
+1.0	its people	have	efforts	O	O
+1.0	North	have	missile tests	O	O
+1.0	food	have	problem	O	O
+1.0	Its	have	people	O	O
+1.0	pro-north korean newspaper	quote official at_time	Wednesday	0	DATE
+1.0	korean newspaper	quote	official	0	0
+1.0	energy-starved resident	have scour countryside during	bitter winter	0	0
+1.0	people	have	thousands	O	O
+1.0	energy-starved resident	have scour countryside for	cooking	0	0
+1.0	DPRK North Korea	have overcome	difficulty	LOCATION	0
+1.0	South Korea	suspend aid shipment worth	million	LOCATION	0
+1.0	joint New Year editorial	be in	North 's major state newspaper	DATE	0
+1.0	pro-north newspaper	quote	official	0	0
+1.0	monsoon rain	sweep through	much of disaster-prone north	0	0
+1.0	korean newspaper	quote	agricultural official	0	0
+1.0	deforestation	have	decades	DURATION	O
+1.0	resident	have scour countryside during	winter	0	0
+1.0	North Korea	have	people	O	O
+1.0	dollars	have	millions	MONEY	MONEY
+1.0	flood	severely damage	farmland	0	0
+1.0	test	spark	weapons-related sanction	0	0
+1.0	country	have	foundation	O	O
+1.0	United States	have impose	they measure	LOCATION	0
+1.0	pro-north newspaper	quote official at_time	Wednesday	0	DATE
+1.0	resident	have scour countryside for	cooking	0	0
+1.0	North Korea	be	DPRK	LOCATION	ORGANIZATION
+1.0	North Korea	have	farm production	O	O
+1.0	flood	damage	farmland	0	0
+1.0	flooding	have	face	O	O
+1.0	energy-starved resident	have scour countryside during	winter	0	0
+1.0	energy-starved resident	have scour	countryside	0	0
+1.0	newspaper	quote	official	0	0
+0.039271560364453006	monsoon rain	sweep through in	July	0	DATE
+1.0	test	spark sanction from	United Nations	0	ORGANIZATION
+1.0	pro-north korean newspaper	quote	agricultural official	0	0
+1.0	North	have	spending	O	O
+1.0	North	have	state newspapers	O	O
+1.0	newspaper	quote	agricultural official	0	0
+1.0	monsoon rain	cause	heavy loss	0	0
+1.0	our	have	goal	O	O
+1.0	their	have	measures	O	O
+1.0	monsoon rain	cause	loss	0	0
+1.0	pro-north newspaper	quote	agricultural official	0	0
+1.0	monsoon rain	cause	human loss	0	0
+1.0	DPRK North Korea	concentrate ability on	farming	LOCATION	0
+1.0	South Korea	suspend aid shipment worth	million of dollar	LOCATION	MONEY
+1.0	resident	have scour countryside during	bitter winter	0	0
+1.0	its	have	ability	O	O
+1.0	DPRK North Korea	concentrate	its ability	LOCATION	0

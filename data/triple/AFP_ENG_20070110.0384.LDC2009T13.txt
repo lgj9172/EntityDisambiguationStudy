@@ -1,0 +1,82 @@
+1.0	state	consider	islamic republic its arch-foe follow repeat call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	implementation Council resolution	impose light sanction for	its refusal	ORGANIZATION	0
+1.0	talks	have	contents	O	O
+1.0	their	have	talks	O	O
+1.0	UN Security Council	have	refusal	O	O
+1.0	Mahmoud Ahmadinejad	be for	Israel	PERSON	LOCATION
+1.0	implementation Council resolution	impose	light sanction	ORGANIZATION	0
+1.0	Wen Jiabao	visit	Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Iran	have	nuclear bid	LOCATION	0
+1.0	Olmert 's remark	receive shoulder from	Beijing over its call	PERSON	LOCATION
+1.0	China	have	position	O	LOCATION
+1.0	Olmert 's remark	mark shift from	israeli pre-meeting expectation	PERSON	0
+1.0	Olmert 's remark	receive shoulder from	Beijing	PERSON	LOCATION
+0.8897191293366922	olmert	implementation of	December 23 UN security	0	ORGANIZATION
+1.0	jewish state	consider	islamic republic its arch-foe follow repeat call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	state	consider	republic its arch-foe follow call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	state	consider	islamic republic its arch-foe follow call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	Olmert 's remark	receive	shoulder	PERSON	0
+1.0	jewish state	consider	islamic republic its arch-foe follow call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	jewish state	consider	republic its arch-foe	0	0
+1.0	implementation Council resolution	impose sanction on iran for	its refusal	ORGANIZATION	0
+1.0	Olmert	have	remark	PERSON	0
+1.0	Iran	over	nuclear programme	LOCATION	0
+1.0	December UN Security	have	implementation	O	ORGANIZATION
+1.0	Olmert 's remark	mark	shift	PERSON	0
+1.0	Israel	believe	United States	LOCATION	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	tell	reporter	PERSON	0
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate on contents	0	0
+1.0	reporter	accompany	he	0	0
+1.0	Iran	have	programme	O	LOCATION
+1.0	Israel	believe	western nation	LOCATION	0
+1.0	a cold shoulder	have	economy	O	O
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate	0	0
+1.0	state	consider	republic its arch-foe	0	0
+1.0	state	consider	islamic republic its arch-foe follow repeat call	0	0
+1.0	jewish state	consider	republic its arch-foe follow call	0	0
+1.0	state	consider	islamic republic its arch-foe	0	0
+1.0	implementation Council resolution	impose sanction for	its refusal	ORGANIZATION	0
+1.0	implementation Council resolution	impose light sanction on iran for	its refusal	ORGANIZATION	0
+1.0	Israeli Prime Minister Ehud Olmert	have	talks	O	O
+1.0	suppliers	have	one	NUMBER	O
+1.0	Israeli Prime Minister Ehud Olmert	have	visit	O	O
+1.0	oil	have	one	NUMBER	O
+1.0	Olmert 's remark	mark shift from	israeli expectation	PERSON	0
+1.0	Israel	believe	nation	LOCATION	0
+1.0	Israeli Prime Minister Ehud Olmert	refuse	elaborate on contents of he talk	0	0
+1.0	UN security Council	be of	December 23	ORGANIZATION	DATE
+1.0	Olmert 's remark	mark shift from	pre-meeting expectation	PERSON	0
+1.0	Olmert	have	remarks	O	PERSON
+1.0	sanctions	have	round	O	O
+1.0	implementation Council resolution	impose	sanction on Iran	ORGANIZATION	LOCATION
+1.0	Wen	be for	nearly a hour	PERSON	DURATION
+1.0	China	have	suppliers	O	LOCATION
+1.0	state	consider	republic its arch-foe follow repeat call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	Wen Jiabao	visit	israeli Prime Minister Ehud Olmert	PERSON	PERSON
+1.0	Iran	have	bid	O	LOCATION
+1.0	Israeli Prime Minister Ehud Olmert	have	counterpart	O	O
+1.0	the Islamic republic	have	arch-foe	O	O
+1.0	Olmert 's remark	receive shoulder to	slap heavy sanction on Iran	PERSON	LOCATION
+1.0	Olmert 's remark	mark shift from	expectation	PERSON	0
+1.0	Olmert 's remark	receive shoulder to	slap sanction on Iran	PERSON	LOCATION
+1.0	jewish state	consider	islamic republic its arch-foe follow call	0	0
+1.0	jewish state	consider	republic its arch-foe follow call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	Olmert 's remark	receive shoulder to	slap sanction	PERSON	0
+1.0	jewish state	consider	republic its arch-foe follow repeat call by President Mahmoud Ahmadinejad	0	PERSON
+1.0	Israel	believe	other nation	LOCATION	0
+1.0	state	consider	republic its arch-foe follow call	0	0
+1.0	jewish state	consider	republic its arch-foe follow repeat call	0	0
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	state	consider	islamic republic its arch-foe follow call	0	0
+1.0	state	consider	republic its arch-foe follow repeat call	0	0
+1.0	implementation Council resolution	impose	light sanction on Iran	ORGANIZATION	LOCATION
+1.0	Olmert 's remark	receive	cold shoulder	PERSON	0
+1.0	jewish state	consider	islamic republic its arch-foe follow repeat call	0	0
+1.0	China	of	major supplier	LOCATION	0
+1.0	Israel	believe	other western nation	LOCATION	0
+1.0	implementation Council resolution	impose	sanction	ORGANIZATION	0
+1.0	Olmert 's remark	receive shoulder to	slap heavy sanction	PERSON	0
+1.0	Wen Jiabao	be in	Beijing	PERSON	LOCATION
+1.0	China	by	position over nuclear programme	LOCATION	0
+1.0	jewish state	consider	islamic republic its arch-foe	0	0
+1.0	a cold shoulder	have	call	O	O

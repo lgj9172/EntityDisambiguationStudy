@@ -1,0 +1,19 @@
+1.0	bus	be on	its way to southern Doda town	0	LOCATION
+1.0	road	run through	rugged mountain	0	0
+1.0	accident	be common in	southern Kashmir	0	LOCATION
+1.0	police spokesman	be in	Srinagar	0	LOCATION
+1.0	bus	be on	its way	0	0
+1.0	road	run through	mountain	0	0
+1.0	state	have	winter capital	0	DATE
+1.0	state	have	winter capital	O	O
+1.0	Kishtiwar township	fall into	Chenab river	0	LOCATION
+1.0	spokesman	say	add	0	0
+1.0	bus	be on	its way to Doda town	0	LOCATION
+1.0	bus	neighbour	Kishtiwar township	0	LOCATION
+1.0	At least 15 people	have	bus	O	O
+1.0	their bus	have	way	O	O
+1.0	accident	be common in	Kashmir	0	LOCATION
+1.0	Jammu	capital 's	state	LOCATION	0
+1.0	accident	be	common	0	0
+1.0	passengers	have	ten	NUMBER	O
+1.0	Kashmir	be in	indian-administered	LOCATION	0

@@ -1,0 +1,52 @@
+1.0	ASEAN summit	take	East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	ASEAN summit	take place to	13	ORGANIZATION	NUMBER
+1.0	summit	take	place	0	0
+1.0	ASEAN summit	originally schedule	16-nation East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	ASEAN summit	be	schedule	ORGANIZATION	0
+1.0	cancellation	be	link	0	0
+1.0	ASEAN summit	schedule	16-nation East Asia Summit	ORGANIZATION	0
+1.0	cancellation	be link to	warning about possible terror attack on Cebu	0	LOCATION
+1.0	ASEAN summit	take	16-nation East Asia Summit	ORGANIZATION	0
+1.0	ASEAN summit	take place on	central philippine island of Cebu	ORGANIZATION	LOCATION
+1.0	ASEAN summit	be	originally schedule	ORGANIZATION	0
+1.0	state secretary Yusril Ihza Mahendra	tell	reporter	PERSON	0
+1.0	summit	take place from	January 10	0	DATE
+1.0	ASEAN summit	originally schedule	16-nation East Asia Summit	ORGANIZATION	0
+1.0	ASEAN summit	take place on	philippine island of Cebu	ORGANIZATION	LOCATION
+1.0	ASEAN summit	originally schedule	East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	summit	take place to	15	0	NUMBER
+1.0	earlier cancellation	be link to	warning about possible terror attack on Cebu	0	LOCATION
+1.0	earlier cancellation	be link to	warning about possible terror attack	0	0
+1.0	the Philippines	cite	danger	LOCATION	0
+1.0	official	say at_time	Thursday	0	DATE
+1.0	ASEAN summit	take place on	central island of Cebu	ORGANIZATION	LOCATION
+1.0	summit	be	expect	0	0
+1.0	ASEAN summit	take	place	ORGANIZATION	0
+1.0	ASEAN summit	schedule	16-nation East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	summit	be	now expect	0	DATE
+1.0	earlier cancellation	be	link	0	0
+1.0	ASEAN summit	take	place from December 9	ORGANIZATION	DATE
+1.0	ASEAN summit	take place on	philippine island	ORGANIZATION	0
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	reschedule ASEAN summit	be in	the Philippines	ORGANIZATION	LOCATION
+1.0	ASEAN	have	dialogue partners	O	ORGANIZATION
+1.0	various problem	be in	country	0	0
+1.0	ASEAN summit	originally schedule	East Asia Summit	ORGANIZATION	0
+1.0	Susilo Bambang Yudhoyono	be	indonesian	PERSON	0
+1.0	the Philippines	chair of	association of southeast asian nation	LOCATION	ORGANIZATION
+1.0	the Philippines	cite danger from	approach typhoon	LOCATION	0
+1.0	cancellation	be link to	warning about possible terror attack	0	0
+1.0	ASEAN summit	take place on	island of Cebu	ORGANIZATION	LOCATION
+1.0	Cebu	have	island	O	LOCATION
+1.0	ASEAN summit	take place on	central island	ORGANIZATION	0
+1.0	earlier cancellation	be link to	warning	0	0
+1.0	ASEAN summit	take place on	central philippine island	ORGANIZATION	0
+1.0	ASEAN summit	schedule	East Asia Summit	ORGANIZATION	0
+1.0	ASEAN summit	take	16-nation East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	cancellation	be link to	warning	0	0
+1.0	ASEAN	include	dialogue partner	ORGANIZATION	0
+1.0	ASEAN summit	take place on	island	ORGANIZATION	0
+1.0	Association	have	chair	O	ORGANIZATION
+1.0	ASEAN summit	schedule	East Asia Summit include ASEAN 's dialogue partner	ORGANIZATION	ORGANIZATION
+1.0	the Philippines	cite danger from	typhoon	LOCATION	0
+1.0	ASEAN summit	take	East Asia Summit	ORGANIZATION	0

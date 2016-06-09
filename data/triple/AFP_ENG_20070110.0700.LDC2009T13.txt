@@ -1,0 +1,140 @@
+1.0	United Kingdom	have	security	O	LOCATION
+1.0	terrorism	have	acts	O	O
+1.0	programme	have	ahead	O	O
+1.0	his	have	release	O	O
+1.0	he father	fight for	british	0	0
+0.7893911438481952	he mother	be	bear	0	0
+1.0	Hicks	be adelaide-born	convert to Islam	PERSON	ORGANIZATION
+1.0	Reid	write in	letter to Hicks	PERSON	PERSON
+1.0	Hicks	be	national	PERSON	0
+1.0	Britain	have	minister	O	LOCATION
+1.0	he	be allege	have fight	0	0
+1.0	he	fight	legal battle	0	0
+0.7893911438481952	he mother	be bear in	Britain	0	LOCATION
+1.0	newspaper	cite	he british	0	0
+1.0	report	come	mark five year since its opening on January 11 2002	0	DATE
+1.0	he	fight battle as	result	0	0
+1.0	citizenship	have	deprive	O	O
+1.0	he	pose threat to	national security of United Kingdom	0	LOCATION
+1.0	his	have	government	O	O
+1.0	Hicks , 31	have	father	O	O
+1.0	interview	be with	Britain 's foreign intelligence service mi6	0	LOCATION
+1.0	Britain 's minister last year	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	man	have	citizenship	O	O
+1.0	report	come	mark five year since its opening	0	DURATION
+1.0	it	be	living hell for he	0	0
+1.0	he	fight alongside	Taliban militia against us-led invasion of Afghanistan	0	LOCATION
+1.0	Britain 's	with	foreign intelligence service mi6	LOCATION	0
+1.0	he	be	detain by Northern Alliance in Kandahar	0	LOCATION
+1.0	Britain 's minister last year	hold by	United States	LOCATION	LOCATION
+1.0	Hicks	be allege	have admit to meeting with terrorist in Afghanistan	PERSON	LOCATION
+1.0	acts	have	evidence	O	O
+1.0	Hicks , 31	have	lawyer	O	PERSON
+1.0	Hicks	be in	interview with Britain 's foreign intelligence service mi6	PERSON	LOCATION
+1.0	Britain 's interior minister John Reid last year revoked the citizenship of a man	have	British	MISC	O
+1.0	he	fight alongside	Taliban militia against invasion	0	MISC
+1.0	Hicks	be	31	PERSON	NUMBER
+1.0	he	fight alongside	Taliban militia against invasion of Afghanistan	0	LOCATION
+1.0	Hicks 31	be	australian national	NUMBER	0
+1.0	Kosovo Liberation Army	be against	Serbs	ORGANIZATION	MISC
+1.0	John Reid	use	power	PERSON	0
+1.0	Hicks , 31	have	british lawyer	PERSON	0
+1.0	Britain 's interior minister year	hold by	United States	LOCATION	LOCATION
+1.0	its	have	opening	O	O
+1.0	it	be	living hell	0	0
+1.0	he	be allege	have fight alongside islamist Taliban militia against invasion	0	MISC
+1.0	report	mark at_time	five year	0	DURATION
+1.0	Hicks	be allege	have admit with terrorist	PERSON	0
+1.0	he	be detain by	Northern Alliance	0	ORGANIZATION
+1.0	Hicks	be	allege	PERSON	0
+1.0	report	come ahead	mark five year	0	DURATION
+1.0	report	come	mark five year	0	DURATION
+1.0	Hicks	be allege	have admit with terrorist in Afghanistan	PERSON	LOCATION
+1.0	Britain 's interior minister year	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	he	pose threat to	security	0	0
+1.0	he government	pressure	United States	0	LOCATION
+1.0	he	fight alongside	islamist Taliban militia against invasion of Afghanistan	0	LOCATION
+1.0	John Reid	revoke	Britain 's	PERSON	0
+1.0	he	pose threat to	national security	0	0
+1.0	he	fight alongside	Taliban militia against us-led invasion	0	MISC
+1.0	he	be	allege	0	0
+1.0	Hicks	admit with	terrorist in Afghanistan	PERSON	LOCATION
+1.0	he	fight	battle	0	0
+1.0	Britain 's	have	intelligence service MI6	O	LOCATION
+1.0	Hicks , 31	have	mother	O	O
+1.0	John Reid	use	special power	PERSON	0
+1.0	Northern Alliance	be in	November 2001	ORGANIZATION	DATE
+1.0	he	fight alongside	islamist Taliban militia against invasion	0	MISC
+1.0	report	come ahead	mark five year since its opening on January 11 2002	0	DATE
+1.0	he government	pressure	United States for he release	0	LOCATION
+1.0	Hicks	be allege	have admit	PERSON	0
+1.0	he	fight alongside	Taliban militia	0	MISC
+1.0	his	have	citizenship	O	O
+1.0	he	fight alongside	islamist Taliban militia against us-led invasion of Afghanistan	0	LOCATION
+1.0	Britain 's interior minister	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	citizenship	be in	December 2005	0	DATE
+1.0	Hicks	be	australian national	PERSON	0
+1.0	he	pose threat to	security of United Kingdom	0	LOCATION
+1.0	Afghanistan	have	invasion	O	LOCATION
+1.0	Hicks 31	be	national	NUMBER	0
+1.0	Hicks	be adelaide-born	convert	PERSON	0
+1.0	Britain 's interior minister last year	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	terrorist	be in	Afghanistan	0	LOCATION
+1.0	he	be allege	have fight alongside Taliban militia against invasion of Afghanistan	0	LOCATION
+1.0	report	come at	Guantanamo Bay	0	LOCATION
+1.0	Guantanamo Bay	be in	Cuba	LOCATION	LOCATION
+1.0	Britain 's interior minister John Reid last year revoked the citizenship of a man	have	lawyer	O	O
+1.0	report	come	mark since its opening	0	0
+1.0	your	have	citizenship	O	O
+1.0	he	be detain by	Northern Alliance in November 2001	0	DATE
+1.0	he	pose	threat	0	0
+1.0	power	have	abuse	O	O
+1.0	protests	have	programme	O	O
+1.0	report	come ahead	mark since its opening on January 11 2002	0	DATE
+1.0	Hicks	admit with	terrorist	PERSON	0
+1.0	Hicks	be	australian	PERSON	0
+1.0	John Reid	revoke	it	PERSON	0
+1.0	report	come ahead	mark five year since its opening	0	DURATION
+1.0	he	be allege	have fight alongside Taliban militia against us-led invasion	0	MISC
+1.0	Britain 's minister	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	report	come ahead at	Guantanamo Bay	0	LOCATION
+1.0	Britain 's interior minister last year	hold by	United States	LOCATION	LOCATION
+1.0	Britain 's minister	hold by	United States	LOCATION	LOCATION
+1.0	he	fight alongside	islamist Taliban militia	0	MISC
+1.0	report	come	mark since its opening on January 11 2002	0	DATE
+1.0	violence	have	acts	O	O
+1.0	Britain 's interior minister	hold by	United States	LOCATION	LOCATION
+1.0	report	mark since	its opening	0	0
+1.0	he father	fight in	World War II	0	MISC
+1.0	report	come	mark	0	0
+1.0	report	come ahead	mark since its opening	0	0
+1.0	he	be detain in	Kandahar	0	LOCATION
+1.0	report	come at	Guantanamo Bay in Cuba	0	LOCATION
+1.0	he	be allege	have fight alongside islamist Taliban militia against invasion of Afghanistan	0	LOCATION
+1.0	he	fight alongside	islamist Taliban militia against us-led invasion	0	MISC
+1.0	Hicks , 31	have	decision	O	O
+1.0	he	be allege	have fight alongside Taliban militia against us-led invasion of Afghanistan	0	LOCATION
+1.0	report	mark since	its opening on January 11 2002	0	DATE
+1.0	Britain	have	interior minister last year revoke	LOCATION	DATE
+1.0	he	be	detain	0	0
+1.0	he	be allege	have fight alongside Taliban militia against invasion	0	MISC
+1.0	Hicks	be allege	have admit to meeting with terrorist	PERSON	0
+1.0	he	be allege	have fight alongside islamist Taliban militia against us-led invasion	0	MISC
+1.0	Hicks	be allege	have admit to meeting	PERSON	0
+1.0	he	be allege	have fight alongside islamist Taliban militia against us-led invasion of Afghanistan	0	LOCATION
+1.0	John Reid	revoke later	it	PERSON	0
+1.0	Hicks	admit to	meeting	PERSON	0
+1.0	Guardian	report on	Thursday	0	DATE
+1.0	he	be	detain by Northern Alliance in November 2001 in Kandahar	0	DATE
+1.0	John Reid	have	lawyers	O	O
+1.0	Britain 's	have	Guantanamo Bay detention camp	O	O
+1.0	he	be allege	have fight alongside Taliban militia	0	MISC
+1.0	he	be allege	have fight alongside islamist Taliban militia	0	MISC
+1.0	John Reid	do	that	PERSON	0
+1.0	John Reid	revoke later	Britain 's	PERSON	0
+1.0	John Reid	do	just that	PERSON	0
+1.0	report	come ahead at	Guantanamo Bay in Cuba	0	LOCATION
+1.0	Britain 's minister year	hold at	its Guantanamo Bay detention camp	LOCATION	LOCATION
+1.0	Britain 's minister year	hold by	United States	LOCATION	LOCATION
+1.0	Reid	write in	letter	PERSON	0
+1.0	report	come ahead	mark	0	0

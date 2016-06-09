@@ -1,0 +1,17 @@
+1.0	Baghdad	have	people	O	LOCATION
+1.0	this	increase	force level	0	0
+1.0	US President George W. Bush	say in	prepared speech	LOCATION	0
+1.0	more than 20,000 additional US troops to Iraq	have	strategy	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	say at_time	Wednesday	LOCATION	DATE
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US President George W. Bush	say in	remark	PERSON	0
+1.0	US President George W. Bush	say in	speech	LOCATION	0
+1.0	US President George W. Bush	say in	remark set for delivery Wednesday	PERSON	DATE
+1.0	US President George W. Bush	say in	remark set for delivery	PERSON	0
+1.0	US President George W. Bush	say at_time	evening	PERSON	TIME
+1.0	US President George W. Bush	say in	remark set Wednesday	PERSON	DATE
+1.0	US President George W. Bush	say in	remark set	PERSON	0
+1.0	effort	have	part	O	O
+1.0	their	have	campaign	O	O
+1.0	this	increase	american force level	0	0

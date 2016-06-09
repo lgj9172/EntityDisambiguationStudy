@@ -1,0 +1,177 @@
+1.0	Paul Collingwood	give	edge	PERSON	0
+1.0	the England 's	crumble on	second day of ash cricket test	LOCATION	DATE
+1.0	day	have	up took	O	DATE
+1.0	Sajid Mahmood	be next ball pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	Australia	be	four without loss in only over before lunch with Justin Langer	LOCATION	PERSON
+1.0	Sajid Mahmood	be pop	catch	PERSON	0
+1.0	Monty Panesar for a duck	be	when lbw attempt to sweep	0	0
+0.6003294965534998	skipper Ricky Ponting	second new ball in	Lee 's opening	PERSON	PERSON
+1.0	Sajid Mahmood	put	Lee on hat-trick	PERSON	PERSON
+1.0	Glenn McGrath	finish with	3-67	PERSON	NUMBER
+1.0	Steve Harmison	play	outside off-stump	0	0
+1.0	tourist	lose	they last six wicket for 57 in morning session	0	TIME
+1.0	tourist	lose	they last six wicket in morning session	0	TIME
+1.0	Sajid Mahmood	be pop	easy catch off shoulder	PERSON	0
+1.0	the England 's	crumble to	innings total	LOCATION	0
+1.0	Glenn McGrath	strike on	Tuesday 's opening day	PERSON	DURATION
+1.0	Monty Panesar for a duck	be	lbw	0	0
+1.0	Lee	have	finished	O	PERSON
+0.575450723183894	leg-spinner Shane Warne	claim	last wicket of Monty Panesar	PERSON	PERSON
+1.0	Paul Collingwood	be on	when he score	0	NUMBER
+1.0	Flintoff	have	half-century	O	PERSON
+1.0	Sajid Mahmood	be next ball pop	easy catch off shoulder	PERSON	0
+1.0	the England 's	crumble on	day of ash cricket test	LOCATION	DATE
+0.7170828648039138	claim	wicket of	Monty Panesar for duck	0	PERSON
+1.0	England	have	innings	O	LOCATION
+0.6003294965534998	skipper Ricky Ponting	second ball in	Lee 's opening	PERSON	PERSON
+1.0	off-stump	have	wide	O	O
+1.0	Flintoff	have	contribution	O	PERSON
+0.78099878195115	Monty Panesar for a duck	attempt to	sweep	0	0
+1.0	Paul Collingwood	have	score	NUMBER	O
+1.0	series	have	half-century	O	O
+1.0	the England 's	crumble to	first innings total of 291	LOCATION	ORDINAL
+0.575450723183894	leg-spinner Shane Warne	claim	wicket	PERSON	0
+1.0	batting series	be with	he spirited 195-minute inning of 11 boundary	0	DURATION
+1.0	Sajid Mahmood	be next ball pop	easy catch off shoulder of bat	PERSON	0
+1.0	Monty Panesar for a duck	be	lbw attempt	0	0
+1.0	Sajid Mahmood	be pop	catch off shoulder	PERSON	0
+1.0	Glenn McGrath	have	124th	O	O
+1.0	Steve Harmison	be lbw to	Clark for two	0	NUMBER
+1.0	Steve Harmison	play extravagantly	off-stump	0	0
+0.7170828648039138	claim	last wicket of	Monty Panesar	0	PERSON
+1.0	Paul Collingwood	be on	when he overnight score of 25	0	NUMBER
+1.0	Wicketkeeper Chris Read	dabble	off-stump	0	0
+1.0	Sajid Mahmood	be ball pop	catch	PERSON	0
+1.0	Lee	have	hat-trick delivery	O	PERSON
+1.0	Glenn McGrath	finish off	29 over	PERSON	NUMBER
+1.0	tourist	lose	they six wicket	0	NUMBER
+1.0	Steve Harmison	be catch by	Adam Gilchrist	0	PERSON
+1.0	the England 's	crumble on	day	LOCATION	DATE
+1.0	Paul Collingwood	be on	he overnight score	0	NUMBER
+1.0	the England 's	crumble on	day of fifth ash cricket test	LOCATION	DATE
+1.0	tourist	lose	they six wicket for 57	0	NUMBER
+1.0	retire opener	be in	inning	0	0
+1.0	Australia	be	four without loss over before lunch	LOCATION	NUMBER
+1.0	innings	have	wicket	O	O
+1.0	the England 's	crumble on	second day of fifth ash cricket test	LOCATION	DATE
+1.0	the England 's	crumble on	day of ash cricket test against Australia	LOCATION	DATE
+1.0	Sajid Mahmood	be ball pop	easy catch	PERSON	0
+1.0	Skipper Andrew Flintoff	come under	pressure	PERSON	0
+1.0	tourist	lose	they last six wicket	0	NUMBER
+1.0	loss	be in	only	0	0
+1.0	second new ball	be in	Lee 's opening	ORDINAL	PERSON
+1.0	shoulder	have	catch	O	O
+1.0	142 ball	be with	wicket	NUMBER	0
+1.0	Sajid Mahmood	be ball pop	catch off shoulder of bat	PERSON	0
+1.0	tourist	lose	they six wicket in morning session	0	TIME
+1.0	Clark for two	have	caught	O	PERSON
+1.0	Ashes cricket Test	have	day	DATE	O
+1.0	Lee	have	hat-trick delivery	PERSON	0
+1.0	Steve Harmison	be	catch	0	0
+1.0	tourist	lose	3-13	0	NUMBER
+1.0	Sajid Mahmood	be pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	Flintoff	have	second half-century of series	PERSON	ORDINAL
+1.0	Skipper Andrew Flintoff	fight	lonely battle	PERSON	0
+1.0	Glenn McGrath	have	wicket	O	O
+0.6003294965534998	skipper Ricky Ponting	new ball in	Lee 's opening	PERSON	PERSON
+0.6003294965534998	skipper Ricky Ponting	ball in	Lee 's opening	PERSON	PERSON
+1.0	89	have	knock	O	NUMBER
+1.0	Skipper Andrew Flintoff	fight	battle	PERSON	0
+1.0	Paul Collingwood	be on	when he score of 25	0	NUMBER
+1.0	boundaries	have	innings	O	O
+1.0	Sajid Mahmood	be next ball pop	catch off shoulder	PERSON	0
+1.0	Steve Harmison	be catch off	Clark for two	0	PERSON
+0.575450723183894	leg-spinner Shane Warne	claim	wicket of Monty Panesar for duck	PERSON	PERSON
+1.0	Australia	be	four without loss in only over before lunch	LOCATION	NUMBER
+1.0	Paul Collingwood	be on	he score	0	NUMBER
+1.0	Skipper Andrew Flintoff	come	Paul Collingwood	PERSON	PERSON
+1.0	the first hour	in	play	DURATION	0
+1.0	Australia	have	Brett Lee	LOCATION	PERSON
+1.0	Paul Collingwood	be on	he overnight score of 25	0	NUMBER
+1.0	Brett Lee	have	slip	O	PERSON
+1.0	Sajid Mahmood	be next ball pop	catch off shoulder of bat	PERSON	0
+1.0	Monty Panesar for a duck	have	cricket	O	O
+1.0	Steve Harmison	play extravagantly	outside off-stump	0	0
+1.0	the England 's	would in	would have dire trouble	LOCATION	0
+1.0	the England 's	crumble to	first innings total	LOCATION	ORDINAL
+1.0	Sajid Mahmood	be pop	easy catch	PERSON	0
+1.0	tourist	lose	they last six wicket for 57	0	NUMBER
+1.0	the England 's	would in	would have trouble	LOCATION	0
+1.0	Sajid Mahmood	be next ball pop	easy catch	PERSON	0
+1.0	Wicketkeeper Chris Read	dabble	outside off-stump	0	0
+1.0	Paul Collingwood	give edge to	Adam Gilchrist	PERSON	PERSON
+1.0	the England 's	crumble on	second day of fifth ash cricket test against Australia	LOCATION	DATE
+1.0	Steve Harmison	last	24 ball	PERSON	NUMBER
+1.0	Warne	have	only wicket of inning	PERSON	0
+1.0	Sajid Mahmood	be pop	catch off shoulder of bat	PERSON	0
+1.0	Australia 's pacemen Brett Lee	share	nine wicket	PERSON	NUMBER
+0.575450723183894	leg-spinner Shane Warne	claim	last wicket of Monty Panesar for duck	PERSON	PERSON
+1.0	bat	have	shoulder	O	O
+1.0	Glenn McGrath	strike late on	Tuesday 's opening day	PERSON	DURATION
+1.0	Glenn McGrath	remove	Kevin Pietersen	PERSON	PERSON
+0.575450723183894	leg-spinner Shane Warne	claim	wicket of Monty Panesar	PERSON	PERSON
+1.0	Paul Collingwood	be on	he score of 25	0	NUMBER
+1.0	Monty Panesar for a duck	be	when lbw attempt	0	0
+1.0	Lee	in	opening	PERSON	0
+1.0	Paul Collingwood	give	outside edge	PERSON	0
+1.0	Sajid Mahmood	be next ball pop	catch	PERSON	0
+1.0	the England 's	crumble on	day of fifth ash cricket test against Australia	LOCATION	DATE
+1.0	Australia 's pacemen Brett Lee	share	Stuart Clark	PERSON	PERSON
+1.0	over lunch	be with	Justin Langer	0	PERSON
+1.0	the England 's	crumble on	second day	LOCATION	DATE
+1.0	the England 's	crumble on	second day of ash cricket test against Australia	LOCATION	DATE
+1.0	Clark	have	finished	O	PERSON
+1.0	Tuesday	on	day	DURATION	DURATION
+1.0	Monty Panesar for a duck	be	lbw attempt to sweep	0	0
+1.0	Australia 's pacemen Brett Lee	share	Glenn McGrath	PERSON	PERSON
+1.0	Sajid Mahmood	be ball pop	catch off shoulder	PERSON	0
+1.0	The tourists	have	wickets	O	O
+1.0	Steve Harmison	be lbw to	Clark for two	0	PERSON
+1.0	Monty Panesar for a duck	be	when lbw	0	0
+1.0	Australia	be	four without loss over before lunch with Justin Langer	LOCATION	PERSON
+1.0	two wicket	be in	two ball	NUMBER	NUMBER
+1.0	innings	have	catch	O	O
+1.0	Sajid Mahmood	be ball pop	easy catch off shoulder of bat	PERSON	0
+1.0	overs	have	Clark	PERSON	O
+1.0	Sajid Mahmood	be pop	easy catch off shoulder of bat	PERSON	0
+1.0	Warne	have	wicket	O	PERSON
+1.0	Sajid Mahmood	be ball pop catch to	Matthew Hayden	PERSON	PERSON
+1.0	hour	have	play	O	DURATION
+1.0	Sajid Mahmood	be ball pop	easy catch off shoulder	PERSON	0
+1.0	the England 's	crumble at	Sydney Cricket Ground on Wednesday	LOCATION	LOCATION
+1.0	they last six wicket	be in	morning session	NUMBER	TIME
+1.0	Sajid Mahmood	be next ball pop catch to	Matthew Hayden in gully	PERSON	PERSON
+1.0	Sajid Mahmood	be ball pop catch to	Matthew Hayden in gully	PERSON	PERSON
+1.0	Lee	have	opening	O	PERSON
+1.0	Tuesday	have	opening day	DURATION	DATE
+1.0	Clark for two	be for	two	PERSON	NUMBER
+1.0	Australia	have	pacemen Brett Lee	PERSON	LOCATION
+1.0	Sajid Mahmood	put	Lee	PERSON	PERSON
+1.0	Steve Harmison	be	lbw	0	0
+1.0	tourist	lose	they six wicket for 57 in morning session	0	TIME
+1.0	Skipper Andrew Flintoff	come under	immediate pressure	PERSON	0
+1.0	Flintoff	for	contribution	PERSON	0
+1.0	Australia 's pacemen Brett Lee	share	nine wicket between they	PERSON	NUMBER
+1.0	England	have	inning	LOCATION	0
+1.0	tourist	resume	at 234 for four	0	NUMBER
+0.7170828648039138	claim	wicket of	Monty Panesar	0	PERSON
+1.0	Brett Lee	be pacemen of	Australia	PERSON	LOCATION
+1.0	Paul Collingwood	be on	when he overnight score	0	NUMBER
+1.0	Monty Panesar	have	wicket	O	PERSON
+1.0	overs	have	finished	O	O
+1.0	Adam Gilchrist	have	catch	O	O
+1.0	the captain 's	have	innings	O	O
+0.7170828648039138	claim	last wicket of	Monty Panesar for duck	0	PERSON
+1.0	25	have	score	NUMBER	NUMBER
+1.0	six	have	innings	O	NUMBER
+1.0	Sajid Mahmood	be pop catch to	Matthew Hayden in gully	PERSON	PERSON
+1.0	the England 's	crumble at	Sydney Cricket Ground	LOCATION	LOCATION
+0.575450723183894	leg-spinner Shane Warne	claim	last wicket	PERSON	0
+1.0	Steve Harmison	be	catch by Gilchrist off Clark	0	PERSON
+1.0	the England 's	crumble to	innings total of 291	LOCATION	NUMBER
+1.0	cricket	have	wicket	O	O
+1.0	291	have	innings total	O	NUMBER
+1.0	Matthew Hayden	be in	gully	PERSON	0
+1.0	Steve Harmison	play	off-stump	0	0
+1.0	three	have	one	NUMBER	NUMBER
+1.0	Glenn McGrath	remove kevin pietersen in	four ball	PERSON	NUMBER

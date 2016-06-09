@@ -1,0 +1,63 @@
+1.0	we	talk about	ever-closer economic co-operation	0	0
+1.0	German Chancellor Angela Merkel	be	chair	PERSON	0
+1.0	We	come	closer	0	0
+1.0	German Chancellor Angela Merkel	question about	Europe 's reliance	PERSON	LOCATION
+1.0	Merkel 's predecessor	oppose	us-led invasion of Iraq	PERSON	LOCATION
+1.0	talk	be with	George W. Bush	0	PERSON
+1.0	German Chancellor Angela Merkel	tell	ft.	0	0
+1.0	she	will visit	Washington	0	LOCATION
+1.0	we	want	talk about economic co-operation	0	0
+1.0	Gerhard Schroeder	be predecessor of	Merkel	PERSON	PERSON
+1.0	relation	be	base	0	0
+1.0	European Union	have	presidency	O	ORGANIZATION
+1.0	Chancellor Angela Merkel	say between	European Union	PERSON	ORGANIZATION
+1.0	relation	be base on	reciprocity	0	0
+1.0	Our	have	systems	O	O
+1.0	German Chancellor Angela Merkel	be chair of	g8	PERSON	0
+1.0	German Chancellor Angela Merkel	be chair of	g8 for 2007	PERSON	DATE
+1.0	obstacle	protect company from	investor	0	0
+1.0	Europe	have	reliance	O	LOCATION
+1.0	we	want	talk about ever-closer co-operation	0	0
+1.0	relationship	hit	low	0	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	G8	have	chair	O	O
+1.0	we	want	talk	0	0
+1.0	we	talk about	ever-closer co-operation	0	0
+0.7058322169551439	Merkel 's predecessor	us-led invasion of	Iraq	PERSON	LOCATION
+1.0	obstacle	protect company from	european investor	0	0
+1.0	german Chancellor Angela Merkel	say in	Financial Times interview	PERSON	ORGANIZATION
+1.0	German Chancellor Angela Merkel	question about	Europe 's reliance on russian energy import	PERSON	LOCATION
+1.0	Merkel 's predecessor	oppose	us-led invasion	PERSON	0
+1.0	we	talk about	co-operation	0	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	Washington	be on	January 4	LOCATION	DATE
+1.0	german Chancellor Angela Merkel	say in	Financial Times interview publish	PERSON	ORGANIZATION
+1.0	she	will visit washington for	talk	0	0
+1.0	Germany	have	presidency	O	LOCATION
+1.0	Merkel 's predecessor	oppose invasion in	2003	PERSON	DATE
+1.0	obstacle	be	be erect	0	0
+1.0	George W. Bush	be with	the United States	PERSON	LOCATION
+1.0	We	come together	closer	0	0
+1.0	Chancellor Angela Merkel	say in	Financial Times interview	PERSON	ORGANIZATION
+1.0	Germany	have	six-month presidency of European Union	LOCATION	ORGANIZATION
+1.0	obstacle	protect	russian company	0	0
+1.0	Merkel	have	predecessor	O	PERSON
+1.0	Merkel 's predecessor	oppose	invasion of Iraq	PERSON	LOCATION
+1.0	we	want	talk about co-operation	0	0
+1.0	obstacle	protect	company	0	0
+1.0	German Chancellor Angela Merkel	be also chair of	g8	PERSON	0
+1.0	Merkel	's predecessor be	Gerhard Schroeder	PERSON	PERSON
+1.0	we	talk about	economic co-operation	0	0
+1.0	German Chancellor Angela Merkel	be also chair of	g8 for 2007	PERSON	DATE
+1.0	we	want	talk about ever-closer economic co-operation	0	0
+1.0	german Chancellor Angela Merkel	say between	European Union	PERSON	ORGANIZATION
+1.0	she	will visit	Washington on January 4	0	DATE
+0.7058322169551439	Merkel 's predecessor	invasion of	Iraq	PERSON	LOCATION
+1.0	nobody	should resent	Europe 's reliance on Russian energy imports	0	0
+1.0	Merkel 's predecessor	oppose	invasion	PERSON	0
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	Merkel	have	predecessor	PERSON	0
+1.0	Chancellor Angela Merkel	say in	Financial Times interview publish	PERSON	ORGANIZATION
+1.0	German Chancellor Angela Merkel	be	also chair	PERSON	0
+1.0	German Chancellor Angela Merkel	question about	Europe 's reliance on energy import	PERSON	LOCATION
+1.0	Europe	about	reliance on russian energy import	LOCATION	0

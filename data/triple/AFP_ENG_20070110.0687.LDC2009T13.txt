@@ -1,0 +1,13 @@
+1.0	Hong Kong gold price	open lower at	609.50-610 .00 US dollar down from Wednesday 's close	LOCATION	MONEY
+1.0	Hong Kong gold price	open at_time	Thursday	LOCATION	DATE
+1.0	Hong Kong gold price	open at	609.50-610 .00 US dollar down	LOCATION	MONEY
+1.0	Hong Kong gold price	open lower at	609.50-610 .00 US dollar	LOCATION	MONEY
+1.0	Wednesday	from	close of 612.80-613 .30 dollar	DATE	MONEY
+1.0	Hong Kong gold price	open lower at	609.50-610 .00 US dollar down from Wednesday 's close of 612.80-613 .30 dollar	LOCATION	MONEY
+1.0	Hong Kong gold price	open lower at_time	Thursday	LOCATION	DATE
+1.0	Wednesday	have	close	O	DATE
+1.0	Hong Kong gold price	open at	609.50-610 .00 US dollar down from Wednesday 's close of 612.80-613 .30 dollar	LOCATION	MONEY
+1.0	Hong Kong gold price	open at	609.50-610 .00 US dollar	LOCATION	MONEY
+1.0	dollars	have	close	O	MONEY
+1.0	Hong Kong gold price	open at	609.50-610 .00 US dollar down from Wednesday 's close	LOCATION	MONEY
+1.0	Hong Kong gold price	open lower at	609.50-610 .00 US dollar down	LOCATION	MONEY

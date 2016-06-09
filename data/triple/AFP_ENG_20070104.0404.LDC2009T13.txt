@@ -1,0 +1,84 @@
+1.0	US northeast	market 's	world	LOCATION	0
+1.0	New York 's main contract	crude for	delivery in February	LOCATION	DATE
+1.0	New York 's main contract	sink	1.72 56.60 dollar per touching as low as 56.48 dollar	LOCATION	MONEY
+0.5556526320627906	distillate	rise in	week of January	0	DATE
+1.0	heating fuel demand	traditionally hit	peak	0	0
+1.0	Michael Davies	be	Sucden	PERSON	ORGANIZATION
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	fact	go back to	lack	0	0
+1.0	crude price	plunge to	nearly 56 dollar barrel	0	MONEY
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	World oil market	be	grip by second day of selling on Thursday	DURATION	DURATION
+0.13395351784420906	Brent North Sea crude	slump in	London on Thursday	LOCATION	LOCATION
+1.0	world	have	largest heating oil market	0	0
+1.0	price	plunge with	London Brent	0	LOCATION
+1.0	heating fuel demand	hit peak during	northern hemisphere winter month	0	DATE
+1.0	heating fuel demand	traditionally hit peak during	hemisphere winter month	0	DATE
+1.0	price	plunge to	nearly 56 dollar barrel	0	MONEY
+1.0	barrels	have	rise	O	O
+1.0	weather forecaster DTN Meteorlogix	predict temperature in	world 's heating oil market	ORGANIZATION	0
+1.0	World oil market	be	grip by day of selling on Thursday	DURATION	DURATION
+1.0	World oil market	be	grip by day of sharp selling on Thursday	DURATION	DURATION
+1.0	World oil market	be grip by	second day of sharp selling	DURATION	DURATION
+1.0	heating fuel stocks	have	levels	O	O
+1.0	London on Thursday	have	level	O	O
+1.0	datum	put	downward pressure	0	0
+1.0	world	have	heating oil market	O	O
+1.0	Brent North Sea crude	touch	56.04 dollar	LOCATION	MONEY
+1.0	Michael Davies	be analyst of	Sucden	PERSON	ORGANIZATION
+1.0	crude price	plunge to	nearly 56 dollar	0	MONEY
+1.0	World oil market	be grip by	day	DURATION	DURATION
+0.13395351784420906	Brent North Sea crude	slump to	56.21 dollar per barrel	LOCATION	MONEY
+0.6166853294606552	decline	expect by	Wall Street analyst	0	0
+1.0	US Department	reveal at_time	Thursday	LOCATION	DATE
+1.0	datum	put pressure on	price	0	0
+0.5556526320627906	distillate	rise in	first week of January	0	DATE
+1.0	World oil market	be grip on	Thursday	DURATION	DURATION
+1.0	warm weather	be in	United States	0	LOCATION
+1.0	World oil market	be	grip	DURATION	0
+1.0	January	have	week	DATE	DATE
+1.0	World oil market	be grip by	day of selling	DURATION	DURATION
+1.0	fact	be	significant	0	0
+1.0	weather forecaster DTN Meteorlogix	predict	temperature	ORGANIZATION	0
+0.5556526320627906	distillate	rise in	first week	0	DATE
+1.0	New York 's contract	sink	1.72 56.60 dollar per as low as 56.48 dollar	LOCATION	MONEY
+1.0	winter fuel demand	have	lack	O	O
+1.0	New York 's main contract	sink	1.72 56.60 dollar per as low as 56.48 dollar	LOCATION	MONEY
+1.0	barrel	be in	floor trading	0	0
+1.0	fact	go to	lack of winter fuel demand	0	DATE
+1.0	fact	go back to	lack of winter fuel demand	0	DATE
+1.0	US Department of Energy	of department be	DoE	LOCATION	0
+1.0	World oil market	be	grip by day on Thursday	DURATION	DURATION
+1.0	fact	go to	lack	0	0
+1.0	New York 's main contract	sink	1.72 56.60 dollar	LOCATION	MONEY
+1.0	New York	have	contract	O	LOCATION
+0.245106737592649	gasoline reserve	surge to	209.5 million	0	NUMBER
+0.5556526320627906	distillate	rise in	week	0	DATE
+1.0	weather forecaster DTN Meteorlogix	predict temperature in	US northeast	ORGANIZATION	LOCATION
+0.6166853294606552	2.0-million-barrel decline	expect by	Wall Street analyst	NUMBER	0
+1.0	Celsius	will	will as much as eight degree	MISC	NUMBER
+1.0	World oil market	be grip by	second day of selling	DURATION	DURATION
+1.0	distillates	have	US stockpiles	O	O
+1.0	New York	have	main contract	LOCATION	0
+1.0	World oil market	be	grip by second day on Thursday	DURATION	DURATION
+1.0	World oil market	be grip by	day of sharp selling	DURATION	DURATION
+1.0	datum	put	pressure	0	0
+1.0	delivery	be in	February	0	DATE
+0.13395351784420906	Brent North Sea crude	slump to	56.21 dollar	LOCATION	MONEY
+1.0	crude price	plunge with	London Brent	0	LOCATION
+1.0	heating fuel demand	traditionally hit peak during	northern hemisphere winter month	0	DATE
+1.0	New York 's contract	sink	1.72 56.60 dollar per touching as low as 56.48 dollar	LOCATION	MONEY
+1.0	weather forecaster DTN Meteorlogix	predict temperature in	world 's largest heating oil market	ORGANIZATION	0
+1.0	World oil market	be	grip by second day of sharp selling on Thursday	DURATION	DURATION
+1.0	Brent North Sea crude	slump	1.75 dollar	LOCATION	MONEY
+1.0	New York 's contract	sink	1.72 56.60 dollar	LOCATION	MONEY
+1.0	heating fuel demand	hit peak during	hemisphere winter month	0	DATE
+1.0	World oil market	be grip by	second day	DURATION	DURATION
+1.0	price	plunge to	nearly 56 dollar	0	MONEY
+1.0	gasoline reserve	surge	5.6 million barrel	0	NUMBER
+0.13395351784420906	Brent North Sea crude	slump in	London	LOCATION	LOCATION
+1.0	selling	have	day	DURATION	O
+1.0	heating fuel demand	hit	peak	0	0
+1.0	warm winter weather	be in	northern hemisphere	DATE	0
+1.0	London	be on	Thursday	LOCATION	DATE
+1.0	Petroleum Exporting Countries	have	Organization	ORGANIZATION	ORGANIZATION

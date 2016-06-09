@@ -1,0 +1,28 @@
+1.0	the Hollywood Foreign Press Association	have	practice	O	O
+1.0	year	have	Golden Globe Awards ceremony	O	DATE
+1.0	Hollywood star	be shower with	goodie bag	LOCATION	0
+1.0	Hollywood star	be	use	LOCATION	0
+1.0	HFPA	eventually end	its practice	ORGANIZATION	0
+1.0	they	have	luxurious	O	O
+1.0	Motion Picture Arts	have	Academy	ORGANIZATION	ORGANIZATION
+1.0	Mark Everson	be	The IRS	PERSON	ORGANIZATION
+1.0	Hollywood star	be shower with	free goodie bag	LOCATION	0
+1.0	The Internal Revenue Service	reach accord with	the Hollywood Foreign Press Association	0	ORGANIZATION
+1.0	IRS commissioner Mark Everson	say in	statement	ORGANIZATION	0
+1.0	US government tax form	nestle among	they luxurious	LOCATION	0
+1.0	Hollywood celebrities participating in this year 's awards gala on January 15	have	goodie bags	O	O
+1.0	HFPA	end	its practice	ORGANIZATION	0
+1.0	The Internal Revenue Service	reach	accord	0	0
+1.0	IRS	strike with	academy of Motion Picture art	ORGANIZATION	ORGANIZATION
+1.0	IRS	strike in	August	ORGANIZATION	DATE
+1.0	they	might	might surprise	0	0
+1.0	Hollywood star	be	shower	LOCATION	0
+1.0	last year	at	Golden Globe award ceremony	DATE	MISC
+1.0	presenter gift bags	have	tax problem	O	O
+1.0	HFPA	vote in	September	ORGANIZATION	DATE
+1.0	year	have	awards gala	O	DATE
+1.0	Internal Revenue Service	announce at_time	Wednesday	ORGANIZATION	DATE
+1.0	Mark Everson	be commissioner of	The IRS	PERSON	ORGANIZATION
+1.0	accord	be with	hfpa	0	0
+1.0	official IRS tax form	be with	they goodie bag	ORGANIZATION	0
+1.0	IRS	strike with	academy	ORGANIZATION	0

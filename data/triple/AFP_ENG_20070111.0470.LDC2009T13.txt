@@ -1,0 +1,19 @@
+1.0	senator	slam	President George W. Bush 's plan	0	PERSON
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	Secretary	testify before	Senate Foreign Relations Committee	0	ORGANIZATION
+1.0	Chuck Hagel	be with	republican	PERSON	0
+1.0	Bush	have	plan	O	PERSON
+1.0	furious senator	slam	President George W. Bush 's plan for Iraq Wednesday	0	LOCATION
+1.0	Chuck Hagel	be senator of	republican	PERSON	0
+1.0	George W. Bush	have	new plan for Iraq Wednesday	PERSON	LOCATION
+1.0	senator	slam	President George W. Bush 's new plan	0	PERSON
+1.0	Bush	have	plan	PERSON	0
+1.0	President George W. Bush	have	plan	O	PERSON
+1.0	furious senator	slam	President George W. Bush 's new plan	0	PERSON
+1.0	senator	slam	President George W. Bush 's plan for Iraq Wednesday	0	LOCATION
+1.0	Democrat chairman	brand	Bush 's plan	MISC	PERSON
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	senator	slam	President George W. Bush 's new plan for Iraq Wednesday	0	LOCATION
+1.0	furious senator	slam	President George W. Bush 's plan	0	PERSON
+1.0	furious senator	slam	President George W. Bush 's new plan for Iraq Wednesday	0	LOCATION
+1.0	committee	have	Democrat chairman	O	O

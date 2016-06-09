@@ -1,0 +1,192 @@
+1.0	Arizona Senator John McCain	declare	loser to Bush in 2000 Republican primary	LOCATION	MISC
+1.0	Former New York City mayor Rudy Giuliani 62	enjoy	strong popularity	PERSON	0
+1.0	Barack Obama	be senator of	Illinois	PERSON	LOCATION
+1.0	Wesley Clark	could run again after	he attempt	PERSON	0
+1.0	Kansas Senator Sam Brownback	representative of	religious right	PERSON	0
+1.0	Former New York City mayor Rudy Giuliani	make	preliminary move	PERSON	0
+1.0	Mitt Romney	be	Massachusetts	PERSON	LOCATION
+1.0	Connecticut Senator Chris Dodd 62	be hand in	foreign affair	NUMBER	0
+1.0	Chris Dodd	be	62	PERSON	NUMBER
+1.0	Arizona Senator John McCain	declare	Vietnam War hero	LOCATION	MISC
+1.0	candidates	have	list	O	O
+1.0	New Mexico Governor Bill Richardson	be	former energy secretary in Clinton administration	LOCATION	PERSON
+1.0	candidates likely	have	party	O	O
+1.0	Connecticut Senator Chris Dodd 62	be hand in	affair	NUMBER	0
+1.0	right	have	representative	O	O
+1.0	husband	have	administration	O	O
+1.0	her	have	husband	O	O
+0.0559997190979209	Arizona Senator John McCain	declare	loser	LOCATION	0
+1.0	Wesley Clark	could run after	he failed attempt in 2004	PERSON	DATE
+1.0	Wesley Clark	have	intention	O	O
+1.0	his	have	candidacy	O	O
+1.0	Wesley Clark	could run after	he failed attempt	PERSON	0
+1.0	Mitt Romney	be governor of	Massachusetts	PERSON	LOCATION
+1.0	Massachusetts Governor Mitt Romney	join	grow field	PERSON	0
+1.0	visits	have	round	O	O
+1.0	Chris Dodd	be senator of	Connecticut	PERSON	LOCATION
+1.0	outgoing Massachusetts Governor Mitt Romney	join	grow field	PERSON	0
+1.0	outgoing Massachusetts Governor Mitt Romney	say at_time	Wednesday	PERSON	DATE
+1.0	Former New York City mayor Rudy Giuliani	enjoy	strong popularity	PERSON	0
+1.0	Arizona Senator John McCain	have take	initial step	LOCATION	0
+1.0	Illinois Senator Barack Obama	be consider	first african-american	PERSON	ORDINAL
+1.0	Dennis Kucinich	be	60	PERSON	NUMBER
+1.0	New Mexico Governor Bill Richardson 59	be	former energy secretary	LOCATION	0
+1.0	Al Gore	be defeat by	George W. Bush	PERSON	PERSON
+1.0	Rudy Giuliani	be	New York City	PERSON	LOCATION
+1.0	Rudy Giuliani	be	62	PERSON	NUMBER
+0.32468555244207997	Illinois Senator Barack Obama	be	consider	PERSON	0
+1.0	Bush	be in	2000 Republican primary	PERSON	MISC
+1.0	party	have	wing	O	O
+0.5425682436898807	join	grow field of	republican hopeful	0	0
+1.0	Arizona Senator John McCain	declare	70	LOCATION	NUMBER
+1.0	Chris Dodd	be	Connecticut	PERSON	LOCATION
+1.0	Wesley Clark	could run after	he attempt	PERSON	0
+1.0	list	run for	they party 's backing	0	0
+0.0559997190979209	Arizona Senator John McCain	declare	70	LOCATION	NUMBER
+1.0	Barack Obama	be	45	PERSON	NUMBER
+1.0	hopefuls	have	field	O	O
+1.0	Illinois Senator Barack Obama 45	have	serious chance	PERSON	0
+1.0	Richardson	be	hispanic	PERSON	0
+1.0	first caucus	be in	country	ORDINAL	0
+1.0	Connecticut Senator Chris Dodd 62	be old hand in	affair	NUMBER	0
+1.0	John Kerry	be in	2004 election	PERSON	DATE
+1.0	list	run in	primary election	0	0
+1.0	Arizona Senator John McCain	have take	step	LOCATION	0
+1.0	Massachusetts Governor Mitt Romney	explore	possibility run	PERSON	0
+1.0	Joseph Biden	be senator of	Delaware	PERSON	LOCATION
+1.0	Wesley Clark	could run again after	he attempt in 2004	PERSON	DATE
+1.0	Illinois Senator Barack Obama	be consider	african-american	PERSON	0
+1.0	Clinton	have	vice president	O	PERSON
+1.0	Kansas Senator Sam Brownback 50	representative of	religious right	PERSON	0
+1.0	Massachusetts Governor Mitt Romney	join	grow field of hopeful	PERSON	0
+1.0	Connecticut Senator Chris Dodd 62	be	hand	NUMBER	0
+1.0	Kansas Senator Sam Brownback 50	be	roman Catholic	PERSON	MISC
+1.0	Kansas Senator Sam Brownback 50	representative of	right	PERSON	0
+1.0	Former New York City mayor Rudy Giuliani	make	move	PERSON	0
+1.0	Arizona Senator John McCain	declare	loser	LOCATION	0
+1.0	documentary film	have	success	O	O
+1.0	Clinton	have	vice president	PERSON	0
+1.0	outgoing Massachusetts Governor Mitt Romney	join	field	PERSON	0
+1.0	Chuck Hagel	be	60	PERSON	NUMBER
+1.0	Former New York City mayor Rudy Giuliani 62	enjoy popularity in	opinion poll	PERSON	0
+1.0	Bill Richardson	be governor of	New Mexico	PERSON	LOCATION
+1.0	Connecticut Senator Chris Dodd	be hand in	affair	PERSON	0
+1.0	Arizona Senator John McCain	declare	he candidacy	LOCATION	0
+1.0	move	signal	he candidacy	0	0
+1.0	Wesley Clark	could run after	he attempt in 2004	PERSON	DATE
+1.0	party	have	backing	O	O
+1.0	exit governor	be in	January 2008	0	DATE
+1.0	party	for	backing	0	0
+1.0	Al Gore	be	defeat	PERSON	0
+1.0	Massachusetts Governor Mitt Romney	join	grow field of republican hopeful	PERSON	0
+1.0	Illinois Senator Barack Obama	have	chance	PERSON	0
+1.0	New Mexico Governor Bill Richardson 59	be	hispanic former energy secretary in Clinton administration	LOCATION	PERSON
+1.0	Former New York City mayor Rudy Giuliani	enjoy	popularity	PERSON	0
+1.0	his	have	attempt	O	O
+1.0	Al Gore	be	defeat in 2004 election by George W. Bush	PERSON	PERSON
+0.5425682436898807	join	field of	republican hopeful	0	0
+1.0	Tommy Thompson	be in	Bush administration	PERSON	PERSON
+1.0	Dennis Kucinich	be	Ohio	PERSON	LOCATION
+1.0	Bill Richardson	be	59	PERSON	NUMBER
+1.0	Massachusetts Governor Mitt Romney	say at_time	Wednesday	PERSON	DATE
+1.0	John McCain	be	Arizona	PERSON	LOCATION
+1.0	Massachusetts Governor Mitt Romney	join	field	PERSON	0
+1.0	US handling	have	critic	O	O
+1.0	John Edwards	be	53	PERSON	NUMBER
+1.0	Wesley Clark	could run again after	he failed attempt in 2004	PERSON	DATE
+1.0	Massachusetts Governor Mitt Romney	have form	preliminary committee	PERSON	0
+1.0	Illinois Senator Barack Obama 45	be consider	first african-american	PERSON	ORDINAL
+1.0	Kansas Senator Sam Brownback	be	Catholic	PERSON	MISC
+1.0	John McCain	be senator of	Arizona	PERSON	LOCATION
+0.32468555244207997	Illinois Senator Barack Obama 45	be	consider	PERSON	0
+1.0	Former New York City mayor Rudy Giuliani	enjoy popularity in	opinion poll	PERSON	0
+1.0	Mitt Romney	be	59	PERSON	NUMBER
+1.0	Al Gore	be defeat in	2004 election	PERSON	DATE
+1.0	Tom Vilsack	governor of	Iowa	PERSON	LOCATION
+1.0	Al Gore	be	58	PERSON	NUMBER
+0.0559997190979209	Arizona Senator John McCain	declare	Vietnam War hero	LOCATION	MISC
+1.0	Joseph Biden	chairman of	Senate Foreign Relations Committee	PERSON	ORGANIZATION
+1.0	outgoing Massachusetts Governor Mitt Romney	join	grow field of hopeful	PERSON	0
+1.0	Hillary Clinton	be	New York	PERSON	LOCATION
+1.0	Illinois Senator Barack Obama 45	be consider	african-american	PERSON	0
+1.0	Connecticut Senator Chris Dodd 62	be old hand in	foreign affair	NUMBER	0
+0.5425682436898807	join	grow field of	hopeful	0	0
+1.0	Sam Brownback	be senator of	Kansas	PERSON	LOCATION
+1.0	New Mexico Governor Bill Richardson	be	hispanic former energy secretary in Clinton administration	LOCATION	PERSON
+1.0	White House	be in	2008	ORGANIZATION	DATE
+1.0	Tom Vilsack	be	56	PERSON	NUMBER
+1.0	Senate Foreign Relations Committee	have	chairman	O	ORGANIZATION
+1.0	Tom Vilsack	governor in	January 2008	PERSON	DATE
+1.0	outgoing Massachusetts Governor Mitt Romney	join	field of hopeful	PERSON	0
+1.0	war	of hagel be	vocal critic	0	0
+1.0	Hillary Clinton	be senator of	New York	PERSON	LOCATION
+1.0	Joseph Biden	be	Delaware	PERSON	LOCATION
+1.0	Wesley Clark	be	62	PERSON	NUMBER
+0.0559997190979209	Arizona Senator John McCain	declare	loser to Bush in 2000 Republican primary	LOCATION	MISC
+1.0	his	have	support base	O	O
+1.0	Sam Brownback	be	Kansas	PERSON	LOCATION
+1.0	he failed attempt	be in	2004	0	DATE
+1.0	list	run in	election	0	0
+1.0	Connecticut Senator Chris Dodd	be	hand	PERSON	0
+1.0	war	have	Nebraska Senator Chuck Hagel	PERSON	O
+1.0	Chuck Hagel	be	Nebraska	PERSON	LOCATION
+1.0	war	be in	Iraq	0	LOCATION
+1.0	preliminary move	signal	he candidacy	0	0
+1.0	Connecticut Senator Chris Dodd	be hand in	foreign affair	PERSON	0
+1.0	New Mexico Governor Bill Richardson 59	be	hispanic former energy secretary	LOCATION	0
+1.0	Newt Gingrich	be	63	PERSON	NUMBER
+1.0	Arizona Senator John McCain	declare	loser to Bush in Republican primary	LOCATION	MISC
+1.0	New Mexico Governor Bill Richardson	be	former energy secretary	LOCATION	0
+1.0	Rudy Giuliani	be mayor of	New York City	PERSON	LOCATION
+1.0	Tommy Thompson	be	65	PERSON	NUMBER
+1.0	Former New York City mayor Rudy Giuliani 62	make	move	PERSON	0
+1.0	John Edwards	be to	John Kerry	PERSON	PERSON
+1.0	Kansas Senator Sam Brownback	representative of	right	PERSON	0
+1.0	Massachusetts Governor Mitt Romney	join	field of republican hopeful	PERSON	0
+1.0	Hillary Clinton	be	59	PERSON	NUMBER
+1.0	party	have	left wing	0	0
+1.0	Bill Richardson	be	New Mexico	PERSON	LOCATION
+1.0	Wesley Clark	could run again after	he failed attempt	PERSON	0
+1.0	Massachusetts Governor Mitt Romney	explore	possibility	PERSON	0
+1.0	outgoing Massachusetts Governor Mitt Romney	join	field of republican hopeful	PERSON	0
+1.0	Massachusetts Governor Mitt Romney	join	field of hopeful	PERSON	0
+1.0	Connecticut Senator Chris Dodd	be old hand in	affair	PERSON	0
+1.0	Chuck Hagel	critic of	US handling	PERSON	LOCATION
+1.0	Former New York City mayor Rudy Giuliani 62	make	preliminary move	PERSON	0
+1.0	Duncan Hunter	be	58	PERSON	NUMBER
+1.0	Illinois Senator Barack Obama	have	serious chance	PERSON	0
+1.0	New Mexico Governor Bill Richardson	be	hispanic former energy secretary	LOCATION	0
+1.0	Kansas Senator Sam Brownback 50	be	Catholic	PERSON	MISC
+1.0	Connecticut Senator Chris Dodd	be	old hand	PERSON	0
+1.0	Massachusetts Governor Mitt Romney 59	explore	possibility	PERSON	0
+1.0	NATO	have	commander	O	ORGANIZATION
+0.0559997190979209	Arizona Senator John McCain	declare	loser to Bush in Republican primary	LOCATION	MISC
+1.0	the House of Representatives Armed Services Committee	have	chairman	O	ORGANIZATION
+1.0	advisers	have	team	O	O
+1.0	Barack Obama	be	Illinois	PERSON	LOCATION
+1.0	John McCain	be	70	PERSON	NUMBER
+1.0	Massachusetts Governor Mitt Romney 59	explore	possibility run	PERSON	0
+1.0	old hand	be in	foreign affair	0	0
+1.0	Brownback	be	roman	PERSON	0
+0.5425682436898807	join	field of	hopeful	0	0
+1.0	Massachusetts Governor Mitt Romney	have form	committee	PERSON	0
+1.0	Kansas Senator Sam Brownback	be	roman Catholic	PERSON	MISC
+1.0	Massachusetts Governor Mitt Romney 59	have form	preliminary committee	PERSON	0
+1.0	outgoing Massachusetts Governor Mitt Romney	join	grow field of republican hopeful	PERSON	0
+1.0	Massachusetts Governor Mitt Romney 59	have form	committee	PERSON	0
+1.0	Illinois Senator Barack Obama 45	have	chance	PERSON	0
+1.0	Representatives Armed Services Committee	have	the House of Representatives Armed Services Committee	ORGANIZATION	ORGANIZATION
+1.0	Outgoing Massachusetts Governor Mitt Romney	have	step	O	O
+1.0	Chuck Hagel	be senator of	Nebraska	PERSON	LOCATION
+1.0	Dennis Kucinich	be representative of	Ohio	PERSON	LOCATION
+1.0	Former New York City mayor Rudy Giuliani 62	enjoy	popularity	PERSON	0
+1.0	Connecticut Senator Chris Dodd 62	be	old hand	NUMBER	0
+1.0	his	have	documentary film	O	O
+1.0	Bush administration	in thompson be	former health secretary	PERSON	0
+1.0	Sam Brownback	be	50	PERSON	NUMBER
+1.0	Iowa	have	governor	O	LOCATION
+1.0	Joseph Biden	be	64	PERSON	NUMBER
+1.0	hispanic former energy secretary	be in	Clinton administration	0	PERSON
+1.0	Connecticut Senator Chris Dodd	be old hand in	foreign affair	PERSON	0
+1.0	New Mexico Governor Bill Richardson 59	be	former energy secretary in Clinton administration	LOCATION	PERSON
+1.0	Dodd	be	old	PERSON	0

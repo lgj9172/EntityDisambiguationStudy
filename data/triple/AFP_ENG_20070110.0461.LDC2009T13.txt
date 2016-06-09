@@ -1,0 +1,12 @@
+1.0	Iraq	have	battered economy	LOCATION	0
+1.0	one billion dollar	be in	new spending aim	MONEY	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	aide	say on	condition	0	0
+1.0	aide	say on	condition of anonymity	0	0
+1.0	effort	have	part	O	O
+1.0	Iraq	have	economy	O	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iraq	's economy be	civil society	LOCATION	0
+1.0	George W. Bush	be on	Wednesday	PERSON	DATE
+1.0	security crackdown	have	part	O	O
+1.0	anonymity	have	condition	O	O

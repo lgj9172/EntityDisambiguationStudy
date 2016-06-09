@@ -1,0 +1,120 @@
+1.0	helicopter	deploy along	undercover officer	0	0
+1.0	Michael Bloomberg	be by	New York City	PERSON	LOCATION
+1.0	checkpoints	have	series	O	O
+1.0	Mayor Bloomberg	paint	rosy picture	PERSON	0
+1.0	reveller	begin	arrive from early Sunday	0	DATE
+1.0	people	be watch on	television around world	0	0
+1.0	US troops	have	group	O	O
+1.0	reveller	begin	arrive in Times Square	0	LOCATION
+1.0	branch	have	members	O	O
+1.0	reveller	arrive from	Sunday	0	DATE
+0.8873576335150956	one singer	miss from	city celebration	0	0
+0.7378269148731045	security	join in	traditional centrepiece of New Year celebration	0	DATE
+1.0	helicopter	deploy	counter-terrorist unit	0	0
+1.0	reveller	have	pass	0	0
+1.0	helicopter	deploy	officer	0	0
+1.0	New York	have under	have security now routine at major public gathering	LOCATION	DATE
+1.0	reveller	be	prevent	0	0
+1.0	revellers	have	thousands	O	O
+1.0	reveller	have as	as year	0	0
+0.7378269148731045	security	join in	centrepiece	0	0
+1.0	ten	be entertain by	star	0	0
+1.0	New Year celebrations	have	centrepiece	O	O
+1.0	crowd	join auld lang syne in	singing	0	0
+1.0	balloons	have	overhead	O	O
+1.0	thousands	have	Hundreds	O	O
+1.0	New York	into	Times Square	LOCATION	LOCATION
+1.0	helicopter	keep	eye	0	0
+1.0	group	be	invite	0	0
+1.0	reveller	begin with	street	0	0
+1.0	tourists	have	record numbers	O	O
+1.0	helicopter	be	deploy along	0	0
+1.0	years	have	one	NUMBER	DURATION
+0.7378269148731045	heighten security	join in	centrepiece of New Year celebration	0	DATE
+1.0	helicopter	keep	counter-terrorist unit	0	0
+1.0	forces	have	branch	O	O
+1.0	reveller	begin	arrive	0	0
+1.0	helicopter	be	deploy along with dog	0	0
+1.0	reveller	begin	arrive from Sunday	0	DATE
+1.0	weather	have	advantage	O	O
+1.0	attack	have	target	O	O
+1.0	reveller	pass through	series	0	0
+1.0	Mayor Bloomberg	paint	picture	PERSON	0
+1.0	his	have	radio address	O	O
+1.0	helicopter	deploy	unit	0	0
+1.0	reveller	pass through	series of checkpoint	0	0
+1.0	year	have	guests	O	DATE
+1.0	ten	be	entertain	0	0
+1.0	helicopter	deploy along	unit	0	0
+1.0	reveller	begin with	street around crossroads	0	0
+1.0	people	be watch on	television	0	0
+1.0	this year	as	special guest	DATE	0
+1.0	thousand	be on	duty	0	0
+1.0	helicopter	keep	officer	0	0
+1.0	hundred	pack into	New York 's Times Square	0	LOCATION
+1.0	asian tsunami	be in	2004	0	DATE
+1.0	Michael Bloomberg	be mayor of	New York City	PERSON	LOCATION
+1.0	helicopter	be	deploy along with bomb-sniffing dog	0	0
+1.0	ten	be entertain by	star include pop diva Christina Aguilera	0	PERSON
+1.0	Auld Lang Syne	be with	firework burst	0	0
+1.0	Mayor Bloomberg	paint picture for	city	PERSON	0
+1.0	years	have	those	O	DATE
+1.0	hundred	ring in	2007	0	DATE
+1.0	helicopter	keep eye on	festivity	0	0
+1.0	2001	have	September attacks	DATE	DATE
+1.0	dollars	have	billions	MONEY	MONEY
+1.0	people	have	amount	O	O
+0.7378269148731045	security	join in	traditional centrepiece	0	0
+1.0	hundred	pack	ring	0	0
+1.0	helicopter	deploy along	officer	0	0
+1.0	crowd	join	Auld Lang Syne	0	0
+1.0	helicopter	keep	undercover officer	0	0
+1.0	reveller	begin	arrive in Times Square from Sunday	0	LOCATION
+1.0	hundred	pack	ring in 2007	0	DATE
+1.0	helicopter	deploy	undercover officer	0	0
+0.7378269148731045	heighten security	join in	traditional centrepiece of New Year celebration	0	DATE
+1.0	GMT	have	life	O	O
+1.0	reveller	arrive from	early Sunday	0	DATE
+1.0	police	have	Thousands	O	O
+1.0	group	be invite	help	0	0
+0.8873576335150956	one singer	miss from	celebration	0	0
+1.0	September 11 attack of 2001	be with	heavy police presence	DATE	0
+1.0	2006	have	radio address	O	DATE
+1.0	world	have	crossroads	O	O
+1.0	thousands	have	tens	O	O
+1.0	city	be in	he final radio address of 2006	0	MONEY
+1.0	B.B. King	have	Blues Club	ORGANIZATION	ORGANIZATION
+1.0	New York	have under	have security routine at major public gathering	LOCATION	0
+1.0	reveller	arrive in	New York 's Times Square	0	LOCATION
+1.0	New Year	have	resolution	O	DATE
+1.0	Hurricane Katrina	be in	2005	0	DATE
+1.0	helicopter	deploy along	counter-terrorist unit	0	0
+0.7378269148731045	security	join in	United States	0	LOCATION
+1.0	New York	have under	have heighten security now routine at major public gathering	LOCATION	DATE
+1.0	reveller	have	pass through series	0	0
+1.0	the famous half-ton New Year ball	have	countdown	O	O
+1.0	reveller	have as	as previous year	0	DATE
+1.0	thousand	oversee	security	0	0
+1.0	police	have	Hundreds	O	O
+0.7378269148731045	security	join in	centrepiece of New Year celebration	0	DATE
+1.0	2006	have	seconds	DATE	DATE
+1.0	New York	have under	have heighten security at major public gathering	LOCATION	0
+1.0	helicopter	be	deploy	0	0
+1.0	reveller	begin	arrive in Times Square from early Sunday	0	DATE
+1.0	helicopter	keep	unit	0	0
+1.0	New York	have under	have security at major public gathering	LOCATION	0
+1.0	New York	have	Times Square	LOCATION	LOCATION
+1.0	New York	have under	have heighten security routine at major public gathering	LOCATION	0
+1.0	subway passengers	have	bags	O	O
+1.0	one million	have	plunge	O	O
+0.7378269148731045	heighten security	join in	United States	0	LOCATION
+1.0	Mayor Bloomberg	paint picture for	city mark	PERSON	0
+1.0	Mayor Bloomberg	paint picture for	city mark by record number	PERSON	0
+0.7378269148731045	heighten security	join in	centrepiece	0	0
+1.0	group	be invite by	New York City Mayor Michael Bloomberg	0	LOCATION
+1.0	crowd	join	Auld Lang Syne with firework	0	0
+1.0	confetti	have	overhead	O	O
+1.0	city	have	celebrations	O	O
+0.7378269148731045	heighten security	join in	traditional centrepiece	0	0
+1.0	Mayor Bloomberg	paint picture for	city mark by record number of tourist	PERSON	MONEY
+1.0	my	have	resolution	O	O

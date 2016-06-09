@@ -1,0 +1,60 @@
+1.0	situation	worsen with	regional flashpoint	0	0
+1.0	situation	worsen with	additional regional flashpoint	0	0
+1.0	situation	worsen with	additional regional flashpoint of Iraq	0	LOCATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	tell meeting in	Madrid	PERSON	LOCATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	express	EU foreign policy chief Javier Solana	PERSON	PERSON
+1.0	UN chief Ban Ki-moon	express	hope	0	0
+1.0	ban ki-moon	be chief of	United Nations	0	ORGANIZATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	both express	hope	PERSON	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	both express	EU foreign policy chief Javier Solana	PERSON	PERSON
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	tell	international meeting	PERSON	0
+1.0	situation	worsen with	flashpoint of Iraq	0	LOCATION
+1.0	situation	worsen with	flashpoint	0	0
+1.0	concrete progress	be make in	come six month	0	DATE
+1.0	State Condoleeza Rice	have	US Secretary	O	PERSON
+1.0	Javier Solana	note along	Spanish Foreign Minister Miguel Angel Moratinos on Friday	0	PERSON
+1.0	progress	unblock	stalled peace process	0	0
+1.0	Javier Solana	be	European Union	PERSON	ORGANIZATION
+1.0	state	have	creation	O	O
+1.0	Miguel Angel Moratinos	be	Spanish	PERSON	MISC
+1.0	Miguel Angel Moratinos	be on	Friday	PERSON	DATE
+1.0	it	be	impossible	0	0
+1.0	it	continue in	vein	0	0
+1.0	progress	unblock	peace process	0	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	both express	EU policy chief Javier Solana	PERSON	PERSON
+1.0	situation	worsen with	additional flashpoint	0	0
+1.0	Felipe Gonzalez	be	spanish	PERSON	0
+1.0	situation	worsen with	additional flashpoint of Iraq	0	LOCATION
+1.0	progress	be make in	come six month	0	DATE
+1.0	meeting	be postpone because	because scheduling conflict	0	0
+1.0	planned meeting	be	postpone	0	0
+1.0	meeting	be	postpone	0	0
+1.0	scheduling conflict	have	postponed	O	O
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	propose	Arab participation	MISC	MISC
+1.0	planned meeting	be postpone because	because scheduling conflict	0	0
+1.0	ban ki-moon	be	United Nations	0	ORGANIZATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	tell	meeting	PERSON	0
+1.0	concrete progress	be make in	six month	0	DATE
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	propose arab participation in	quartet	MISC	0
+1.0	concrete progress	unblock	peace process	0	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	express	EU policy chief Javier Solana	PERSON	PERSON
+1.0	UN chief Ban Ki-moon	instead express	hope	0	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos on Friday	express	hope	PERSON	0
+1.0	UN chief ban ki-moon	have annonce on	Thursday	ORGANIZATION	DATE
+1.0	independent palestinian state	be in	West Bank	0	LOCATION
+1.0	progress	be make in	six month	0	DATE
+1.0	plan	have	have stall	0	0
+1.0	Iraq	have	flashpoint	O	LOCATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	propose arab participation in	Middle East quartet	MISC	LOCATION
+1.0	State Condoleeza Rice	have	discussions	O	O
+1.0	concrete progress	be	make	0	0
+1.0	Javier Solana	note	Spanish Foreign Minister Miguel Angel Moratinos on Friday	0	PERSON
+1.0	Quartet	have	meeting	O	O
+1.0	concrete progress	unblock	stalled peace process	0	0
+1.0	peace negociations	have	train	O	O
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	advance	peace process	MISC	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	propose arab participation in	East quartet	MISC	LOCATION
+1.0	situation	worsen with	regional flashpoint of Iraq	0	LOCATION
+1.0	it	continue in	current vein	0	DATE
+1.0	Condoleeza Rice	be of	State	PERSON	ORGANIZATION
+1.0	progress	be	make	0	0

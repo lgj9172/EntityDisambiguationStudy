@@ -1,0 +1,11 @@
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed in gunbattle	NUMBER	PERSON
+0.6099129594248616	seven	wound outside	residence	NUMBER	0
+1.0	people	be	kill	0	0
+1.0	Abdullahi Yusuf Ahmed	be in	gunbattle between he supporter	PERSON	0
+1.0	warlord	have	fighters	O	O
+1.0	Somali President Abdullahi Yusuf Ahmed	have	residence	O	PERSON
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed in gunbattle between he supporter	NUMBER	PERSON
+0.6099129594248616	seven	wound at_time	Friday	NUMBER	DATE
+1.0	his	have	supporters	O	O
+1.0	Abdullahi Yusuf Ahmed	be of	Somali	PERSON	MISC
+0.6099129594248616	seven	wound outside	residence of Somali President Abdullahi Yusuf Ahmed	NUMBER	PERSON

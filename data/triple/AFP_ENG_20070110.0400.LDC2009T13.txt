@@ -1,0 +1,82 @@
+1.0	President Bush	announce at_time	later Wednesday	PERSON	DATE
+1.0	government	have however make	clear	0	0
+1.0	President Bush	tell lawmaker in	question-and-answer session	0	0
+1.0	british premier	rebuff	accusation	0	0
+1.0	Blair	speak	hour ahead of address on Iraq	PERSON	LOCATION
+1.0	Blair	speak	hour of key address	PERSON	0
+1.0	british government	ally in	2003 invasion of Iraq	0	LOCATION
+1.0	Basra	be before	the end of 2007	LOCATION	DATE
+1.0	Iraq	have	capability take progressively over time	LOCATION	0
+1.0	my	have	view	O	O
+1.0	Blair	speak	hour of address on Iraq	PERSON	LOCATION
+1.0	Blair	speak hour by	US leader	PERSON	LOCATION
+1.0	situation	be in	Baghdad	0	LOCATION
+1.0	premier	meanwhile rebuff	accusation	0	0
+1.0	he policy	be	too dependent	0	0
+1.0	President Bush	be expect	announce Wednesday	PERSON	DATE
+1.0	US lawmaker	brief on	plan say	LOCATION	0
+1.0	government	have make	clear	0	0
+1.0	President Bush	be expect	announce later Wednesday	PERSON	DATE
+1.0	Tony Blair	be	British	PERSON	MISC
+1.0	address	have	hours	DURATION	O
+1.0	President Bush	tell	lawmaker	0	0
+1.0	he foreign policy	be too dependent on	Washington	0	LOCATION
+1.0	he policy	be too dependent on	Washington	0	LOCATION
+1.0	policy	have	part	O	O
+1.0	he policy	be	dependent	0	0
+1.0	2007	have	end	DATE	DATE
+1.0	Blair	speak	hour ahead of key address	PERSON	0
+1.0	President Bush	be expect	announce	PERSON	0
+1.0	the US	withdraw thousand base	base Basra	0	LOCATION
+1.0	he	stress	importance of Europe	0	LOCATION
+1.0	US	add	force	LOCATION	0
+1.0	President Bush	announce at_time	Wednesday	PERSON	DATE
+1.0	british withdrawal plan	depend on	success of ongoing mission	0	0
+1.0	Blair	speak	hour	PERSON	0
+1.0	withdrawal plan	depend on	success	0	0
+1.0	he policy	be dependent on	Washington	0	LOCATION
+1.0	british withdrawal plan	depend on	success of mission	0	0
+1.0	withdrawal plan	depend on	success of mission	0	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	he foreign policy	be dependent on	Washington	0	LOCATION
+1.0	Europe	have	importance	O	LOCATION
+1.0	their	have	own	O	O
+1.0	President Bush	tell lawmaker in	House of Commons	0	ORGANIZATION
+1.0	he	stress too	importance	0	0
+1.0	his	have	policy	O	O
+1.0	Blair	speak	hour of address	PERSON	0
+0.35013870112162027	we	al-qaeda operate in	same way	0	0
+1.0	Washington	have	ally	O	LOCATION
+1.0	he foreign policy	be	dependent	0	0
+1.0	the US	withdraw thousand base	base Basra before end of 2007	0	LOCATION
+1.0	british government	have however make	clear	0	0
+1.0	premier	rebuff	accusation	0	0
+1.0	situation	be in	Basra	0	LOCATION
+1.0	our	have	policy	O	O
+1.0	mission	have	success	O	O
+1.0	Blair	speak	hour ahead of key address on Iraq	PERSON	LOCATION
+1.0	british government	have make	clear	0	0
+1.0	Iraq	have	capability	O	LOCATION
+1.0	withdrawal plan	depend on	success of ongoing mission	0	0
+1.0	Blair	speak	hour ahead of address	PERSON	0
+1.0	President Bush	tell lawmaker in	House	0	ORGANIZATION
+1.0	US lawmaker	brief on	plan	LOCATION	0
+1.0	the US	withdraw thousand base	base Basra before end	0	LOCATION
+1.0	President Bush	add	20,000 US soldier	0	LOCATION
+1.0	Washington 's staunchest ally	be in	2003 invasion of Iraq	LOCATION	LOCATION
+1.0	US forces	have	policy	O	O
+1.0	forces	have	thousands	O	O
+1.0	President Bush	tell lawmaker in	weekly question-and-answer session	0	SET
+1.0	Britain	mull	withdrawal	LOCATION	0
+1.0	he foreign policy	be	too dependent	0	0
+1.0	he	stress too	importance of Europe	0	LOCATION
+1.0	he	stress	importance	0	0
+1.0	Washington	have	staunchest ally in 2003 invasion of Iraq	LOCATION	LOCATION
+1.0	british withdrawal plan	depend on	success	0	0
+1.0	President Bush	be	expect	PERSON	0
+1.0	plan	have	purpose	O	O
+1.0	Blair	speak	hour of key address on Iraq	PERSON	LOCATION
+1.0	Commons	have	House	ORGANIZATION	ORGANIZATION
+1.0	british premier	meanwhile rebuff	accusation	0	0
+1.0	it	be	important	0	0
+1.0	respect	have	particular	O	O

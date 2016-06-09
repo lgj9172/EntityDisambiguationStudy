@@ -1,0 +1,70 @@
+1.0	Revolutionary Guards	have	chief	O	O
+1.0	move	have	sign	O	O
+1.0	the assembled worshippers	have	sect	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	such move	be condemn in	Iraq	0	LOCATION
+1.0	move	be	condemn	0	0
+1.0	a person	add to	chorus	0	0
+1.0	move	be condemn in	Iraq	0	LOCATION
+1.0	US troops	raid office in	city	LOCATION	0
+1.0	Americans	have	pitfalls	O	MISC
+0.6978095503337234	Mr. Bush regarding sending more than 20,000 troops to Iraq	say during	Friday prayer	0	DATE
+1.0	tension	grow at_time	Thursday	0	DATE
+0.48518442777805504	US military	violate	building 's status	LOCATION	0
+1.0	US troops	raid office in	iraqi city of Arbil	LOCATION	LOCATION
+1.0	US troops	raid office in	iraqi city	LOCATION	0
+1.0	a person	be	doom	0	0
+1.0	Iran 's Revolutionary Guards	of chief be	Yahya Rahim Safavi	LOCATION	PERSON
+1.0	Iran 's comment	come on	day	LOCATION	DATE
+1.0	Iran	have	comments	O	LOCATION
+1.0	building	have	status	O	O
+1.0	sect	have	helped	O	O
+1.0	senior	say at_time	Friday	0	DATE
+1.0	Iran	have	watchdog	O	LOCATION
+1.0	US troops	raid office in	city of Arbil	LOCATION	LOCATION
+1.0	US President George W. Bush 's	have	ignorance	O	O
+1.0	Iranian cleric Ayatollah Ahmad Janati	cite country by	name	PERSON	0
+1.0	US troops	raid office in	northern iraqi city of Arbil	LOCATION	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	such move	be	condemn	0	0
+1.0	Iran	have	powerful legislative watchdog	LOCATION	0
+1.0	Mr. Bush regarding sending more than 20,000 troops to Iraq	have	ignorance	O	O
+1.0	a person	add from	worshipper	0	0
+1.0	a person	add to	chorus of death	0	0
+1.0	five Iranians	trigger	diplomatic row	NUMBER	0
+1.0	Mr. Bush regarding sending more than 20,000 troops to Iraq	have	troops	O	O
+1.0	five Iranians	trigger	row	NUMBER	0
+1.0	Ayatollah Ahmad Janati	be	iranian	PERSON	0
+1.0	Iran 's fiery comment	come on	day	LOCATION	DATE
+1.0	a person	add to	chorus of death to America	0	LOCATION
+1.0	US troops	raid office in	northern city	LOCATION	0
+1.0	death	have	chorus	O	O
+1.0	Iranian cleric Ayatollah Ahmad Janati	cite	country	PERSON	0
+1.0	US President George W. Bush	have	plan	O	PERSON
+1.0	US troops	raid	office	LOCATION	0
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	move	be condemn in	America	0	LOCATION
+1.0	a person	regret	no brain	0	0
+1.0	move	be	condemn in America in Iraq	0	LOCATION
+1.0	building	have	diplomatic status	0	0
+1.0	Iran	of	Revolutionary Guards	LOCATION	0
+1.0	such move	be condemn in	America	0	LOCATION
+1.0	a person	add from	assemble worshipper	0	0
+1.0	Hoshyar Zebari	be	iraqi	PERSON	0
+1.0	US troops	raid office in	northern iraqi city	LOCATION	0
+1.0	US troops	raid	iranian office	LOCATION	0
+1.0	US troops	raid office in	northern city of Arbil	LOCATION	LOCATION
+1.0	ignorance	have	sign	O	O
+1.0	Iran	have	Revolutionary Guards	O	LOCATION
+1.0	Mr. Bush regarding sending more than 20,000 troops to Iraq	increase	he troops	0	0
+1.0	Iran	have	fiery comment	LOCATION	0
+1.0	George W. Bush	have	plan dispatch to Iraq	PERSON	LOCATION
+1.0	such move	be	condemn in America in Iraq	0	LOCATION
+1.0	Tehran	destabilize	Iraq	LOCATION	LOCATION
+1.0	Iran	's watchdog be	Guardians Council	LOCATION	0
+0.48518442777805504	US military	violate	building 's diplomatic status	LOCATION	0
+1.0	leader	be in	region	0	0
+0.9843630878239031	US troops	detain	five Iranians	LOCATION	NUMBER
+1.0	Arbil	have	city	O	LOCATION
+0.6978095503337234	Mr. Bush regarding sending more than 20,000 troops to Iraq	say at	Tehran University	0	ORGANIZATION

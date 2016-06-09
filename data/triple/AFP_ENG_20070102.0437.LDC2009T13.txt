@@ -1,0 +1,112 @@
+1.0	50	have	half	O	NUMBER
+1.0	year	have	stock market	O	DATE
+1.0	country	of	largest home appliance	0	0
+1.0	Lu Guanqiu	be catapult to	second spot on list due to steep rise	PERSON	DURATION
+1.0	Lu Guanqiu	have	shares	O	O
+1.0	Lu Guanqiu	be	catapult to second spot on list due to steep rise in value of he share in Chengde Lulu	PERSON	DURATION
+1.0	benchmark Shanghai Composite Index	bring gain to	130 percent	LOCATION	PERCENT
+1.0	Lu Guanqiu	be	catapult to spot on list due to rise in value in Chengde Lulu	PERSON	PERSON
+1.0	the big winners of last year 's soaring stock market	have	stock portfolios	O	O
+1.0	Lu Guanqiu	be catapult to	second spot on list due	PERSON	DURATION
+1.0	China	of	stock market	LOCATION	0
+1.0	Lu Guanqiu	be catapult in	Chengde Lulu	PERSON	PERSON
+1.0	Lu Guanqiu	be catapult to	second spot on list due to rise in value of he share	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to spot on list due to steep rise in Chengde Lulu	PERSON	PERSON
+1.0	Zhang Jindong	have become accord to	report	PERSON	0
+1.0	2006	have	trading day	DATE	DATE
+1.0	Shanghai Composite Index	hit record on	trading day of 2006	LOCATION	DATE
+1.0	Lu Guanqiu	be	catapult to spot on list due to rise in Chengde Lulu	PERSON	PERSON
+1.0	stock markets	have	value	O	O
+1.0	Lu Guanqiu	be	catapult	PERSON	DURATION
+1.0	last year	of	soar stock market	DATE	0
+1.0	Lu Guanqiu	be	catapult to second spot on list in Chengde Lulu	PERSON	DURATION
+1.0	China 's stock market	finally boom in	half of year	LOCATION	DATE
+1.0	benchmark Shanghai Composite Index	hit record on	trading day	LOCATION	DATE
+1.0	China 's stock market	finally boom in	half of last year	LOCATION	DATE
+1.0	Lu Guanqiu	be catapult to	spot on list due to steep rise in value	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to spot on list due to steep rise in value of he share in Chengde Lulu	PERSON	PERSON
+1.0	Lu Guanqiu	be catapult to	second spot on list due to steep rise in value	PERSON	DURATION
+1.0	benchmark Shanghai Composite Index	hit	record of 2,675 point	LOCATION	NUMBER
+1.0	China 's stock market	boom in	latter half of year	LOCATION	DATE
+1.0	China	have	executive	O	LOCATION
+1.0	Lu Guanqiu	be catapult to	spot	PERSON	0
+1.0	benchmark Shanghai Composite Index	bring	gain	LOCATION	0
+1.0	Lu Guanqiu	be catapult to	spot on list due to rise	PERSON	0
+1.0	Shanghai Composite Index	hit record on	trading day	LOCATION	DATE
+1.0	benchmark Shanghai Composite Index	hit record on	trading day of 2006	LOCATION	DATE
+1.0	Lu Guanqiu	be	catapult to spot on list due to rise in value of he share in Chengde Lulu	PERSON	PERSON
+1.0	China 's stock market	stagnate for	past five year	LOCATION	DURATION
+1.0	Lu Guanqiu	be catapult to	second spot on list	PERSON	DURATION
+1.0	Zhang Jindong	have become	China 's executive	PERSON	LOCATION
+1.0	benchmark Shanghai Composite Index	hit record on	last trading day	LOCATION	DATE
+1.0	Lu Guanqiu	be catapult to	spot on list due to rise in value	PERSON	DURATION
+1.0	Xinhua	say in	recent report	ORGANIZATION	0
+1.0	Lu Guanqiu	be	catapult to second spot in Chengde Lulu	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to second spot on list due to rise in Chengde Lulu	PERSON	DURATION
+1.0	Zhang Jindong	have become	China 's richest executive	PERSON	LOCATION
+1.0	China 's stock market	boom in	half	LOCATION	DATE
+1.0	China 's stock market	boom in	half of last year	LOCATION	DATE
+1.0	shares	have	value	O	O
+1.0	China	have	stock markets	O	LOCATION
+1.0	share	turn into	cash	0	0
+1.0	benchmark Shanghai Composite Index	bring	gain for remarkable year	LOCATION	DURATION
+1.0	China 's stock market	finally boom in	latter half of year	LOCATION	DATE
+1.0	Lu Guanqiu	be	catapult to second spot on list due to steep rise in Chengde Lulu	PERSON	DURATION
+1.0	China 's stock market	finally boom in	latter half	LOCATION	DATE
+1.0	Lu Guanqiu	be	catapult to spot on list in Chengde Lulu	PERSON	PERSON
+1.0	Lu Guanqiu	be	catapult to spot in Chengde Lulu	PERSON	PERSON
+1.0	Shanghai Composite Index	hit record on	last trading day of 2006	LOCATION	DATE
+1.0	Lu Guanqiu	be catapult to	spot on list due	PERSON	0
+1.0	share	turn into	report	0	0
+1.0	China 's stock market	boom in	latter half of last year	LOCATION	DATE
+1.0	Shanghai Composite Index	hit record on	last trading day	LOCATION	DATE
+1.0	Suning Appliance Co.	one of	country 's largest home appliance	ORGANIZATION	0
+1.0	home appliance	have	one	NUMBER	O
+1.0	company executive	be in	China	0	LOCATION
+1.0	Lu Guanqiu	be catapult to	second spot on list due to rise	PERSON	DURATION
+1.0	Lu Guanqiu	be catapult to	spot on list due to steep rise in value of he share	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to spot on list due in Chengde Lulu	PERSON	PERSON
+1.0	Lu Guanqiu	be	catapult to second spot on list due to rise in value of he share in Chengde Lulu	PERSON	DURATION
+1.0	steep rise	be in	value of he share	0	DURATION
+1.0	Shanghai Composite Index	bring	gain for year	LOCATION	DURATION
+1.0	benchmark Shanghai Composite Index	hit	record	LOCATION	0
+1.0	Lu Guanqiu	be catapult to	second spot on list due to rise in value	PERSON	DURATION
+1.0	Shanghai Composite Index	bring	gain	LOCATION	0
+1.0	Suning Appliance Co.	have	chairman	O	ORGANIZATION
+1.0	big winner	be with	40 billion yuan	0	MONEY
+1.0	50	have	None	O	NUMBER
+1.0	Lu Guanqiu	be catapult to	second spot on list due to steep rise in value of he share	PERSON	DURATION
+1.0	Lu Guanqiu	be catapult to	spot on list	PERSON	0
+1.0	Shanghai Composite Index	bring	gain for remarkable year	LOCATION	DURATION
+1.0	benchmark Shanghai Composite Index	hit record on	last trading day of 2006	LOCATION	DATE
+1.0	China	have	stock market	LOCATION	0
+1.0	Shanghai Composite Index	hit	record	LOCATION	0
+1.0	Cabinet	have	think tank	ORGANIZATION	0
+1.0	points	have	record	O	O
+1.0	Shanghai Composite Index	hit	record of 2,675 point	LOCATION	NUMBER
+1.0	Lu Guanqiu	chairman of	Wanxiang Group	PERSON	DURATION
+1.0	Xinhua	say in	report	ORGANIZATION	0
+1.0	China 's stock market	boom in	half of year	LOCATION	DATE
+1.0	Zhang Jindong	chairman of	Suning Appliance Co.	PERSON	ORGANIZATION
+1.0	Zhang Jindong	have	wealth	O	O
+1.0	Lu Guanqiu	be	catapult to spot on list due to steep rise in value in Chengde Lulu	PERSON	PERSON
+1.0	Wanxiang Group	have	chairman	O	ORGANIZATION
+1.0	Lu Guanqiu	be	catapult to second spot on list due to steep rise in value in Chengde Lulu	PERSON	DURATION
+1.0	Lu Guanqiu	be catapult to	second spot	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to second spot on list due in Chengde Lulu	PERSON	DURATION
+1.0	Cabinet	have	think tank	O	ORGANIZATION
+1.0	China 's stock market	finally boom in	half	LOCATION	DATE
+1.0	China 's stock market	finally boom in	latter half of last year	LOCATION	DATE
+1.0	Lu Guanqiu	be catapult to	spot on list due to rise in value of he share	PERSON	DURATION
+1.0	Lu Guanqiu	be	catapult to second spot on list due to rise in value in Chengde Lulu	PERSON	DURATION
+1.0	20 percent	be in	2007	PERCENT	PERCENT
+1.0	Lu Guanqiu	be catapult to	spot on list due to steep rise	PERSON	0
+1.0	Shanghai Composite Index	bring gain to	130 percent	LOCATION	PERCENT
+1.0	state media	say at_time	Wednesday	0	DATE
+1.0	benchmark Shanghai Composite Index	bring	gain for year	LOCATION	DURATION
+1.0	China	have	richest executive	LOCATION	0
+1.0	State Information Center	tank 's	Cabinet	ORGANIZATION	ORGANIZATION
+1.0	stock market	have	winners	O	O
+1.0	China 's stock market	boom in	latter half	LOCATION	DATE
+1.0	country	have	home appliance	O	O
+1.0	year	have	half	DATE	DATE

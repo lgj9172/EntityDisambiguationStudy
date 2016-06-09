@@ -1,0 +1,111 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	British Prime Minister Tony Blair	say at	joint press conference	0	0
+1.0	Both Britain 's	still have base around	second city	LOCATION	ORDINAL
+1.0	Both Britain 's	have base around	city	LOCATION	0
+1.0	British Prime Minister Tony Blair	support	investigation order by he counterpart into manner of Saddam 's hanging	PERSON	PERSON
+1.0	Florida	be on	December 30	LOCATION	DATE
+1.0	British Prime Minister Tony Blair	supporter	United States	PERSON	LOCATION
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging of former leader	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	support	investigation order by he iraqi counterpart into manner of Saddam 's hanging	PERSON	PERSON
+1.0	Saddam	about	execution	PERSON	0
+1.0	Saddam Hussein	have	hanging	O	O
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging of former leader	PERSON	0
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging of former iraqi leader	PERSON	ORDINAL
+1.0	hanging	have	manner	O	O
+1.0	Saddam	have	hanging	O	PERSON
+1.0	Prime Minister Tony Blair	say in	he reaction	PERSON	0
+1.0	British Prime Minister Tony Blair	supporter in	2003 invasion of Iraq	PERSON	LOCATION
+1.0	Both Britain 's	still have base around	city	LOCATION	0
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging of former leader	PERSON	ORDINAL
+1.0	iraqi president	be	execute	0	0
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging	PERSON	ORDINAL
+1.0	british Prime Minister Tony Blair	say in	he reaction	PERSON	0
+1.0	british Prime Minister Tony Blair	say in	he first reaction	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	have	reaction	O	O
+1.0	leader	have	hanging	O	O
+1.0	7,100 troops	have	most	O	O
+1.0	Both Britain 's	still have base around	city of Basra	LOCATION	LOCATION
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging of former iraqi leader	PERSON	0
+1.0	British Prime Minister Tony Blair	support	investigation order by he counterpart into manner	PERSON	0
+1.0	Saddam Hussein	be	for which responsible	PERSON	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	us	see about	execution	0	0
+1.0	he	keep in	aftermath	0	0
+1.0	British Prime Minister Tony Blair	be on	holiday	PERSON	0
+1.0	execution	have	condemnation	O	O
+1.0	British Prime Minister Tony Blair	support	investigation order by he counterpart	PERSON	0
+1.0	British Prime Minister Tony Blair	support	investigation order	PERSON	0
+1.0	former dictator	be taunt seconds before	he death	0	0
+1.0	he	keep in	immediate aftermath	0	0
+1.0	depose iraqi president	be	when execute	0	0
+1.0	execution	have	manner	O	O
+1.0	Prime Minister Tony Blair	say at_time	Tuesday	PERSON	DATE
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging	PERSON	0
+1.0	Britain 's finance minister Gordon Brown	execution as	Deputy Prime Minister John Prescott	LOCATION	PERSON
+1.0	british Prime Minister Tony Blair	say at_time	Tuesday	PERSON	DATE
+1.0	British Prime Minister Tony Blair	have lose	stand	PERSON	0
+1.0	Shinzo Abe	be with	japanese	PERSON	0
+1.0	Both Britain 's	mount	call	LOCATION	0
+1.0	Saddam Hussein	have	execution	O	O
+1.0	Both Britain 's	have base around	second city	LOCATION	ORDINAL
+1.0	British Prime Minister Tony Blair	stand within	he own party	PERSON	0
+1.0	British Prime Minister Tony Blair	support	investigation order into manner of Saddam 's hanging	PERSON	PERSON
+1.0	British Prime Minister Tony Blair	stand within	he party	PERSON	0
+1.0	depose president	be	when execute	0	0
+1.0	Both Britain 's	have base around	city of Basra	LOCATION	LOCATION
+1.0	Britain 's finance minister Gordon Brown	condemn	Deputy Prime Minister John Prescott	LOCATION	PERSON
+1.0	British Prime Minister Tony Blair	say with	japanese Prime Minister Shinzo Abe	0	PERSON
+1.0	Gordon Brown	be finance minister of	Britain	PERSON	LOCATION
+1.0	holiday	be in	Florida	0	LOCATION
+1.0	Saddam Hussein	have	victims	O	PERSON
+1.0	manner	be	unacceptable	0	0
+1.0	Both Britain 's	have base around	second city of Basra	LOCATION	ORDINAL
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging of former iraqi leader	PERSON	0
+1.0	the former dictator	have	death	O	O
+1.0	British Prime Minister Tony Blair	say at	press conference	0	0
+1.0	british Prime Minister Tony Blair	say in	he reaction to hanging of former leader	PERSON	0
+1.0	he	keep	silent	0	0
+1.0	British Prime Minister Tony Blair	have	counterpart	O	O
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Iraq	most of	they	LOCATION	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	7,100 troops	be in	Iraq	NUMBER	LOCATION
+1.0	depose president	be	execute	0	0
+1.0	British Prime Minister Tony Blair	have lose	stand within he party	PERSON	0
+1.0	former dictator	be taunt	seconds	0	DURATION
+1.0	depose iraqi president	be	execute	0	0
+1.0	Saddam Hussein	have	crimes	O	O
+1.0	Both Britain 's	still have base around	second city of Basra	LOCATION	ORDINAL
+1.0	British Prime Minister Tony Blair	say with	Prime Minister Shinzo Abe	0	PERSON
+1.0	president	be	execute	0	0
+1.0	Britain	have	finance	O	LOCATION
+1.0	Saddam	have	execution	O	PERSON
+1.0	British Prime Minister Tony Blair	have	party	O	O
+1.0	British Prime Minister Tony Blair	have	decision	O	O
+1.0	Prime Minister Tony Blair	say in	he first reaction	PERSON	ORDINAL
+1.0	iraqi president	be	when execute	0	0
+1.0	British Prime Minister Tony Blair	be on	holiday in Florida	PERSON	LOCATION
+1.0	president	be	when execute	0	0
+1.0	British Prime Minister Tony Blair	support	investigation	PERSON	0
+1.0	manner	be unacceptable as	everybody saw	0	0
+1.0	Saddam Hussein	have	people	O	O
+1.0	Saddam	of	hanging	PERSON	0
+1.0	everybody saw	be	wrong	0	0
+1.0	Both Britain 's	mount call for	they	LOCATION	0
+1.0	british Prime Minister Tony Blair	say in	he first reaction to hanging	PERSON	ORDINAL
+1.0	British Prime Minister Tony Blair	have under	have fire	PERSON	0
+1.0	British Prime Minister Tony Blair	support	investigation order into manner	PERSON	0
+1.0	Nuri al Maliki	be	iraqi	PERSON	0
+1.0	British Prime Minister Tony Blair	decline until	now	PERSON	DATE
+1.0	British Prime Minister Tony Blair	support	investigation order by he iraqi counterpart into manner	PERSON	0
+1.0	Britain 's finance minister Gordon Brown	execution	Deputy Prime Minister John Prescott	LOCATION	PERSON
+1.0	British Prime Minister Tony Blair	have lose	stand within he own party	PERSON	0
+1.0	Downing Street	have make	clear	0	0
+1.0	Britain	have	finance	LOCATION	0
+1.0	Prime Minister Tony Blair	say in	he first reaction to hanging of former iraqi leader	PERSON	ORDINAL
+1.0	Both Britain 's	mount	call at home	LOCATION	0
+1.0	United States ' staunchest supporter	be in	2003 invasion of Iraq	LOCATION	LOCATION
+1.0	British Prime Minister Tony Blair	be on	holiday in Florida on December 30	PERSON	DATE
+1.0	United States	have	supporter	O	LOCATION
+1.0	Prime Minister Tony Blair	say in	he reaction to hanging	PERSON	0
+1.0	British Prime Minister Tony Blair	support	investigation order by he iraqi counterpart	PERSON	0

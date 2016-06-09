@@ -1,0 +1,21 @@
+1.0	Nicaragua	have	president	O	LOCATION
+1.0	country	have	poverty	O	O
+1.0	former US nemesis	address	extreme poverty of country	LOCATION	0
+1.0	Central American	win election in	November	0	DATE
+1.0	former US nemesis	address	poverty of central country	LOCATION	0
+1.0	former US nemesis	promise change in	government policy	LOCATION	0
+1.0	former Sandinista guerrilla leader Daniel Ortega	be	swear	PERSON	0
+1.0	former US nemesis	address	poverty of american country	LOCATION	0
+1.0	Daniel Ortega	be	Sandinista	PERSON	MISC
+1.0	former US nemesis	address	extreme poverty of central country	LOCATION	0
+1.0	Central American	win	presidential election	0	0
+1.0	former US nemesis	address	extreme poverty of central american country	LOCATION	0
+1.0	former US nemesis	address	extreme poverty of american country	LOCATION	0
+1.0	former US nemesis	address	poverty of country	LOCATION	0
+1.0	former US nemesis	promise	radical change	LOCATION	0
+1.0	former US nemesis	promise	change	LOCATION	0
+1.0	former US nemesis	address	extreme poverty	LOCATION	0
+1.0	Central American	win	election	0	0
+1.0	former Sandinista guerrilla leader Daniel Ortega	be swear in	Wednesday	PERSON	DATE
+1.0	former US nemesis	address	poverty	LOCATION	0
+1.0	former US nemesis	address	poverty of central american country	LOCATION	0

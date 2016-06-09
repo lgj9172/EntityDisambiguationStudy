@@ -1,0 +1,47 @@
+1.0	they first trip	be to	country in November 2005	ORDINAL	DATE
+1.0	Charles	for	Clarence House office	PERSON	ORGANIZATION
+1.0	Prince Charles	have	office	O	O
+1.0	Harvard Club	have	citizen award	O	ORGANIZATION
+1.0	Prince Charles	duchess of	Cornwall	PERSON	LOCATION
+1.0	couple	will spend at_time	two day	0	DURATION
+1.0	Prince Charles	will receive	Harvard Club 's global citizen award in New York	PERSON	ORGANIZATION
+1.0	he	wife	Camilla	0	PERSON
+1.0	they first trip	be to	country	ORDINAL	0
+1.0	Al Gore	be	US	PERSON	LOCATION
+1.0	Britain 's Prince Charles and his second wife Camilla	have visit	United States	0	LOCATION
+1.0	Britain 's Prince Charles and his second wife Camilla	have	trip	O	O
+1.0	Al Gore	be vice-president of	US	PERSON	LOCATION
+1.0	Prince Charles	will receive	Harvard Club 's citizen award	PERSON	ORGANIZATION
+1.0	they overseas trip	be to	country	0	0
+1.0	prince	close to	heart	0	0
+1.0	couple	will spend in	Philadelphia York	0	LOCATION
+1.0	Britain 's Prince Charles and his second wife Camilla	have visit together	United States	0	LOCATION
+1.0	Prince Charles	will receive	Harvard Club 's global environmental citizen award	PERSON	ORGANIZATION
+1.0	Prince Charles	have	wife	O	O
+1.0	couple	will spend on	January 27	0	DATE
+1.0	prince	have	visit	O	O
+1.0	country	be in	November 2005	0	DATE
+1.0	prince	have	visit	0	0
+1.0	year	have	winner	O	DATE
+1.0	last year	's winner be	Al Gore	DATE	PERSON
+1.0	Charles	have	Clarence House office	O	PERSON
+1.0	Britain	have	Prince Charles	LOCATION	PERSON
+1.0	they trip	be to	country	0	0
+1.0	he office	say at_time	Wednesday	0	DATE
+1.0	they first overseas trip	be to	country	ORDINAL	0
+1.0	Harvard Club 's global environmental citizen award	be in	New York	ORGANIZATION	LOCATION
+1.0	Britain	's charles be	Duchess of Cornwall	LOCATION	LOCATION
+1.0	they trip	be to	country in November 2005	0	DATE
+1.0	prince	have	heart	O	O
+1.0	last year	from	winner	DATE	0
+1.0	Britain	have	Prince Charles	PERSON	LOCATION
+1.0	Harvard Club	have	global environmental citizen award in New York	ORGANIZATION	LOCATION
+1.0	they overseas trip	be to	country in November 2005	0	DATE
+1.0	Prince Charles	will receive	Harvard Club 's global citizen award	PERSON	ORGANIZATION
+1.0	Prince Charles	will receive	Harvard Club 's citizen award in New York	PERSON	ORGANIZATION
+1.0	Prince Charles	will receive	Harvard Club 's environmental citizen award in New York	PERSON	ORGANIZATION
+1.0	themes	have	one	NUMBER	O
+1.0	they first overseas trip	be to	country in November 2005	ORDINAL	DATE
+1.0	Prince Charles	will receive	Harvard Club 's environmental citizen award	PERSON	ORGANIZATION
+1.0	Prince Charles	will receive	Harvard Club 's global environmental citizen award in New York	PERSON	ORGANIZATION
+1.0	Cornwall	have	Duchess	O	LOCATION

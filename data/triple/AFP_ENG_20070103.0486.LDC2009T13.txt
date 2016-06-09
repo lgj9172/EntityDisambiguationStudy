@@ -1,0 +1,32 @@
+1.0	Cuba 's infant mortality rate	make	leader	LOCATION	0
+1.0	health ministry	attribute	rate	0	0
+1.0	Cuba	have	infant mortality rate	LOCATION	0
+1.0	leader	be in	Latin America	0	LOCATION
+1.0	Cuba 's infant mortality rate	make	leader in Latin America	LOCATION	LOCATION
+1.0	exams	have	types	O	O
+1.0	health ministry	attribute	current rate	0	DATE
+1.0	world	among	30 nation with lowest death rate for child between birth	0	NUMBER
+1.0	Cuba	put	2006	LOCATION	0
+1.0	health-threatening genetical abnormality	be in	pedriatic medicine	0	0
+1.0	1,000 birth	be in	2006	NUMBER	DATE
+1.0	Canada	be for	Americas	LOCATION	LOCATION
+1.0	the official newspaper Granma	say since	Cuba 's infant mortality rate drop	ORGANIZATION	LOCATION
+1.0	world	have	nations	O	O
+1.0	the official newspaper Granma	say since	Cuba 's infant mortality rate	ORGANIZATION	LOCATION
+1.0	leader Fidel Castro	have	Revolution	O	PERSON
+1.0	rate	be in	its history	0	0
+1.0	Cuba	have	infant mortality rate	O	LOCATION
+1.0	Cuba 's infant mortality rate	make in	category	LOCATION	0
+1.0	Revolution	have	start	O	O
+1.0	Cuba	have	infant mortality rate drop by 43.6 percent	LOCATION	PERCENT
+1.0	Cuba	have	lowest infant mortality rate	LOCATION	0
+1.0	Cuba	have	infant mortality rate in its history	LOCATION	0
+1.0	health ministry	attribute	current low rate	0	DATE
+1.0	world 's 30 nation	be with	lowest death rate for child between birth	NUMBER	0
+1.0	Cuba	have	lowest infant mortality rate in its history	LOCATION	0
+1.0	the official newspaper Granma	say since	Cuba 's infant mortality rate drop by 43.6 percent	ORGANIZATION	PERCENT
+1.0	2006	have	history	O	O
+1.0	Latin America	have	infant mortality rate'	O	LOCATION
+1.0	Cuba	have infant mortality rate in	2006	LOCATION	DATE
+1.0	health ministry	attribute	low rate	0	0
+1.0	age	have	year	DURATION	O

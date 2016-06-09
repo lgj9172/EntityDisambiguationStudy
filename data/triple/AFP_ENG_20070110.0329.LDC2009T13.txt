@@ -1,0 +1,14 @@
+1.0	objection	call for	end to controlled fuel price	0	0
+1.0	France	voice objection to	key part of new EU energy plan	LOCATION	ORGANIZATION
+1.0	objection	call for	end	0	0
+1.0	EU energy plan	have	parts	O	O
+1.0	France	voice objection to	part	LOCATION	0
+1.0	objection	call from	distribution network	0	0
+1.0	France	voice	objection	LOCATION	0
+1.0	France	voice objection to	key part	LOCATION	0
+1.0	objection	call for	end to fuel price	0	0
+1.0	energy production activities	have	separation	O	O
+1.0	France	voice objection to	part of EU energy plan	LOCATION	ORGANIZATION
+1.0	France	be on	Wednesday	LOCATION	DATE
+1.0	France	voice objection to	key part of EU energy plan	LOCATION	ORGANIZATION
+1.0	France	voice objection to	part of new EU energy plan	LOCATION	ORGANIZATION

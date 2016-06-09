@@ -1,0 +1,34 @@
+1.0	team	go through	they warm-up routine	0	0
+1.0	Australia	chase	ash series	LOCATION	0
+1.0	rain	have delay start at	Sydney Cricket Ground Tuesday	0	LOCATION
+1.0	rain	have delay	start between Australia	0	LOCATION
+1.0	Australia	chase ash series at_time	last	LOCATION	0
+1.0	Australia	lead	series 4-0	LOCATION	0
+1.0	ground	be hit by	shower	0	0
+1.0	Australia	lead	series	LOCATION	0
+1.0	Sydney Cricket Ground	be  at_time	Tuesday	LOCATION	DATE
+1.0	rain	have delay start at	Sydney Cricket Ground here Tuesday	0	LOCATION
+1.0	Australia	chase ash series at_time	last achieve in 1921	LOCATION	DATE
+1.0	Warwick Armstrong	by	australian team	ORGANIZATION	0
+1.0	fifth	have	start	O	ORDINAL
+1.0	ground staff	be work on	pitch	0	0
+1.0	rain	have delay	start of fifth between Australia	0	LOCATION
+1.0	Australia	chase ash series at_time	last achieve by Warwick Armstrong 's australian team	LOCATION	ORGANIZATION
+1.0	Australia	chase ash series at_time	last achieve in 1921 by Warwick Armstrong 's team	LOCATION	ORGANIZATION
+0.8084645277463675	last	achieve by	Warwick Armstrong 's team	0	ORGANIZATION
+1.0	rain	have delay start at	Sydney Cricket Ground	0	LOCATION
+1.0	rain	have delay	start	0	0
+1.0	Australia	chase ash series at_time	last achieve by Warwick Armstrong 's team	LOCATION	ORGANIZATION
+1.0	ground	be hit by	overnight shower	0	TIME
+1.0	Australia	chase ash series at_time	last achieve	LOCATION	0
+1.0	Australia	chase	rare ash series	LOCATION	0
+0.8084645277463675	last	achieve by	Warwick Armstrong 's australian team	0	ORGANIZATION
+1.0	Australia	chase ash series at_time	last achieve in 1921 by Warwick Armstrong 's australian team	LOCATION	ORGANIZATION
+1.0	both teams	have	warm-up routines	O	O
+0.8084645277463675	last	achieve in	1921	0	DATE
+1.0	Ashes cricket Test	have	start	O	O
+1.0	Australia	chase ash series at_time	clean sweep	LOCATION	0
+1.0	rain	have delay	start of fifth	0	ORDINAL
+1.0	Australia	chase ash series at_time	sweep	LOCATION	0
+1.0	Warwick Armstrong	have	team	O	ORGANIZATION
+1.0	ground	be	hit	0	0

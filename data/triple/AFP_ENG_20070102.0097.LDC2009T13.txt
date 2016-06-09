@@ -1,0 +1,62 @@
+1.0	contract	be	fulfil	0	0
+1.0	russian contract	be fulfil on	schedule	0	0
+0.852550182205868	controversial contract	sell weapon to	Syria	0	LOCATION
+1.0	air defence system	be	be station around Iran 's civilian site	0	LOCATION
+0.6150210583750885	impose	sanction against	russian jetmaker Sukhoi	0	0
+1.0	weapons maker Engineering Design Bureau	have	head	O	ORGANIZATION
+0.852550182205868	controversial contract	sell	weapon	0	0
+1.0	controversial contract	be	fulfil	0	0
+1.0	Interfax news agency	meanwhile quote	head	ORGANIZATION	0
+1.0	itar-tass	quote source at	defence ministry	0	0
+1.0	Interfax news agency	supply	Syria with Strelets anti-aircraft system	ORGANIZATION	LOCATION
+1.0	Iran	have	sites	O	LOCATION
+1.0	Interfax news agency	quote	head of weapon maker Engineering Design Bureau	ORGANIZATION	ORGANIZATION
+0.6150210583750885	impose	sanction against	jetmaker Sukhoi	0	0
+0.852550182205868	controversial contract	sell	anti-aircraft weapon	0	0
+1.0	Valery Kashin	head of	Engineering Design Bureau	PERSON	ORGANIZATION
+0.852550182205868	controversial russian contract	sell	anti-aircraft weapon	0	0
+0.852550182205868	controversial russian contract	sell weapon to	Syria	0	LOCATION
+1.0	russian news agency	cite	defence official	0	0
+1.0	its	have	commitments	O	O
+1.0	air defence system	be	be station around Iran 's nuclear site	0	LOCATION
+1.0	contract	have	percent	PERCENT	O
+1.0	Iran	have	programme	O	LOCATION
+1.0	Interfax news agency	meanwhile quote	head of weapon maker Engineering Design Bureau say	ORGANIZATION	ORGANIZATION
+1.0	itar-tass	quote	unnamed source	0	0
+1.0	air defence system	be	be station	0	0
+0.852550182205868	russian contract	sell	anti-aircraft weapon	0	0
+1.0	Interfax news agency	quote	head	ORGANIZATION	0
+1.0	Iran	against	nuclear programme	LOCATION	0
+0.852550182205868	controversial russian contract	sell	weapon	0	0
+1.0	air defence system	be	be station around Iran 's civilian nuclear site	0	LOCATION
+1.0	Iran	be for	1.4 billion dollar	LOCATION	MONEY
+1.0	Tor-M1 missile systems	have	half	O	O
+0.852550182205868	russian contract	sell weapon to	Syria	0	LOCATION
+1.0	Syria	be with	Strelets anti-aircraft system	LOCATION	0
+1.0	controversial russian contract	be fulfil on	schedule	0	0
+1.0	state-run itar-tass	quote	unnamed source	0	0
+1.0	itar-tass	quote	source	0	0
+1.0	news agency	say at_time	Tuesday	0	DATE
+0.852550182205868	contract	sell	weapon	0	0
+1.0	Interfax news agency	supply	Syria with Strelets system	ORGANIZATION	LOCATION
+1.0	controversial contract	be fulfil on	schedule	0	0
+0.852550182205868	contract	sell	anti-aircraft weapon	0	0
+1.0	state-run itar-tass	quote	source	0	0
+0.852550182205868	contract	sell weapon to	Syria	0	LOCATION
+1.0	state-run itar-tass	quote source at	defence ministry	0	0
+1.0	Hezbollah guerrilla	be in	Lebanon	ORGANIZATION	LOCATION
+1.0	russian contract	be	fulfil	0	0
+1.0	Interfax news agency	meanwhile quote	head of weapon maker Engineering Design Bureau	ORGANIZATION	ORGANIZATION
+1.0	Interfax news agency	quote	head of weapon maker Engineering Design Bureau say	ORGANIZATION	ORGANIZATION
+1.0	news agency	cite	defence official	0	0
+0.852550182205868	russian contract	sell	weapon	0	0
+1.0	russian news agency	say at_time	Tuesday	0	DATE
+1.0	system	have	deliveries	O	O
+1.0	Interfax news agency	quote	Valery Kashin	ORGANIZATION	PERSON
+1.0	Iran	around	civilian nuclear site	LOCATION	0
+1.0	air defence system	be	be station around Iran 's site	0	LOCATION
+1.0	Interfax news agency	meanwhile quote	Valery Kashin	ORGANIZATION	PERSON
+1.0	Strelets contract	have	quantity	O	O
+1.0	Interfax news agency	supply	Syria	ORGANIZATION	LOCATION
+1.0	contract	be fulfil on	schedule	0	0
+1.0	controversial russian contract	be	fulfil	0	0

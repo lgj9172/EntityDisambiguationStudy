@@ -1,0 +1,68 @@
+1.0	buying	be notable across	sector	0	0
+1.0	maker	blame	sale due	0	0
+1.0	Mitsubishi Motors	gain	four yen	ORGANIZATION	MONEY
+1.0	South Korea	have	Samsung Electronics	ORGANIZATION	LOCATION
+1.0	volume	rise from	990 million	0	NUMBER
+1.0	they	say comment on	outlook for sale of memory chip	0	0
+1.0	poor sale	due to	winter weather	0	DATE
+1.0	they	say	comment	0	0
+1.0	issue	be	flat	0	0
+1.0	maker	blame	poor sale due to winter weather	0	DATE
+1.0	maker	blame	poor sale due	0	0
+1.0	stocks	have	variety	O	O
+1.0	they	say comment on	outlook for sale	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rebound above	17,000 point level	ORGANIZATION	NUMBER
+1.0	other goods	help	fuel buying interest in technology stock	0	0
+1.0	goods	help	fuel buying interest in japanese technology stock	0	0
+1.0	89 issue	be	flat	NUMBER	0
+1.0	Toyota Motor	rise	160 yen	ORGANIZATION	MONEY
+1.0	Sony	rise	160 yen	ORGANIZATION	MONEY
+1.0	sale	due to	unseasonably warm winter weather	0	DATE
+1.0	memory chips	have	sales	O	O
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	maker	blame	sale due to winter weather	0	DATE
+1.0	maker	blame	poor sale due to warm winter weather	0	DATE
+1.0	they	say	upbeat comment	0	0
+0.633593924617174	they	say on	outlook for sale of memory chip	0	0
+1.0	fast retailing	plunge	1,310 yen	0	MONEY
+1.0	poor sale	due to	unseasonably warm winter weather	0	DATE
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	DATE
+0.633593924617174	they	say on	outlook	0	0
+1.0	car	be in	Russia	0	LOCATION
+1.0	volume	rise at_time	morning	0	TIME
+1.0	Uniqlo clothing brand	have	maker	O	O
+1.0	other goods	help	fuel buying interest in japanese technology stock	0	0
+1.0	poor sale	due to	warm winter weather	0	DATE
+1.0	1.58 percent	be in	morning trade	PERCENT	TIME
+0.28627611980559997	Sony	rise to	5,590	ORGANIZATION	NUMBER
+1.0	its	have	full	O	O
+1.0	sale	due to	winter weather	0	DATE
+1.0	Tokyo Stock Exchange 's nikkei-225 index	gain	265.95 point	ORGANIZATION	NUMBER
+1.0	companies	have	TOPIX index	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	rebound back above	17,000 point level	ORGANIZATION	NUMBER
+1.0	other goods	help	fuel buying interest	0	0
+1.0	gainer	beat	decliner 1,385 to 236	0	NUMBER
+1.0	maker	blame	sale due to unseasonably warm winter weather	0	DATE
+1.0	gainer	beat	decliner 1,385	0	NUMBER
+1.0	they	say comment from	South Korea 's Samsung Electronics	0	LOCATION
+1.0	sale	due to	warm winter weather	0	DATE
+1.0	goods	help	fuel buying interest in technology stock	0	0
+1.0	goods	help	fuel buying interest	0	0
+0.633593924617174	they	say on	outlook for sale	0	0
+0.9093266678168022	its full	maker of	Uniqlo clothing brand	0	0
+0.9093266678168022	its full	maker of	Uniqlo casual clothing brand	0	0
+1.0	volume	rise on	Thursday	0	DATE
+1.0	sector	have	earnings prospects	0	0
+1.0	they	say comment on	outlook	0	0
+1.0	fuel buying interest	be in	japanese technology stock	0	0
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	sector	have	earnings prospects	O	O
+1.0	maker	blame	sale due to warm winter weather	0	DATE
+1.0	volume	rise to	1.12 billion share	0	MONEY
+0.28627611980559997	Toyota Motor	rise to	7,820	ORGANIZATION	NUMBER
+0.28627611980559997	Toyota Motor	rise in	auto sector	ORGANIZATION	0
+1.0	maker	blame	poor sale due to unseasonably warm winter weather	0	DATE
+0.633593924617174	they	say from	South Korea 's Samsung Electronics	0	LOCATION
+1.0	maker	slash	its full	0	0
+1.0	retailing	plunge	1,310 yen	0	MONEY
+1.0	South Korea	from	Samsung Electronics	LOCATION	ORGANIZATION

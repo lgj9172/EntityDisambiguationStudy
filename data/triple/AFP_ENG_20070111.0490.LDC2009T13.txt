@@ -1,0 +1,37 @@
+1.0	justice	have	travesty	O	O
+1.0	Cuba	have	Guantanamo Bay	LOCATION	LOCATION
+1.0	Ban , who is to meet with US President George Bush in Washington next week	have	predecessor	O	O
+1.0	Amnesty International	actively press	usa	ORGANIZATION	0
+1.0	us-run camp	be in	Cuba	0	LOCATION
+1.0	amnesty 's call	come at_time	five year	0	DURATION
+1.0	Amnesty International	press usa for	international law	ORGANIZATION	0
+1.0	security suspects	have	first	ORDINAL	O
+1.0	ban ki-moon	speak on	fifth anniversary	0	ORDINAL
+1.0	Amnesty	have	call	O	ORGANIZATION
+1.0	George Bush	be president of	US	PERSON	LOCATION
+1.0	George Bush	be with	US	PERSON	LOCATION
+1.0	amnesty	have	call	0	0
+1.0	ban ki-moon	be	UN	0	ORGANIZATION
+1.0	Amnesty International	appeal as	human rights group	ORGANIZATION	0
+1.0	Amnesty International	actively press usa for	international law	ORGANIZATION	0
+1.0	Thursday	on ki-moon be	speak of opening of US detention camp in Cuba 's Guantanamo Bay	DATE	LOCATION
+1.0	Amnesty International	appeal as	rights group	ORGANIZATION	0
+1.0	Amnesty International	appeal as	london-based rights group	ORGANIZATION	0
+1.0	ban ki-moon	be chief of	UN	0	ORGANIZATION
+1.0	ban ki-moon	speak in	Guantanamo Bay	0	LOCATION
+1.0	ban ki-moon	speak of	opening	0	0
+1.0	US President George Bush in Washington	have	comments	O	O
+1.0	Amnesty International	appeal to	world power	ORGANIZATION	0
+1.0	Guantanamo Bay	restore	respect	LOCATION	0
+1.0	facility	have	closure	O	O
+1.0	US detention camp	have	opening	O	O
+1.0	Amnesty International	press usa for	law	ORGANIZATION	0
+1.0	amnesty 's call	come to	day	0	DATE
+1.0	Amnesty International	appeal as	london-based human rights group	ORGANIZATION	0
+1.0	George Bush	be in	Washington	PERSON	LOCATION
+1.0	Cuba	in	Guantanamo Bay	LOCATION	LOCATION
+1.0	Ban , who is to meet with US President George Bush in Washington next week	predecessor	Kofi Annan	0	PERSON
+1.0	ban ki-moon	be on	Thursday	0	DATE
+1.0	Amnesty International	press	usa	ORGANIZATION	0
+1.0	Amnesty International	actively press usa for	law	ORGANIZATION	0
+1.0	opening	have	speaking	O	O

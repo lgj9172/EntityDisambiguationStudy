@@ -1,0 +1,47 @@
+1.0	italian government	have	restriction impose on Mel Gibson 's film	0	PERSON
+1.0	Italy 's rating commission	have give	go-ahead	LOCATION	0
+1.0	Carlo Rienzi	be	Codacons	PERSON	ORGANIZATION
+1.0	production houses	have	interests	O	O
+0.7061588686099015	restriction	impose on	Mel Gibson 's film	0	PERSON
+1.0	government	have	restriction impose on Mel Gibson 's film	0	PERSON
+0.7061588686099015	restriction	impose because of	its scene of graphic violence	0	0
+1.0	Mel Gibson	on	new film	PERSON	0
+1.0	Italy 's	have	rating commission	LOCATION	0
+1.0	consumer group	say at_time	Friday	0	DATE
+1.0	italian government	have	restriction	0	0
+1.0	17	be	when release to 300 cinema next Wednesday	0	DATE
+1.0	government	have	restriction impose	0	0
+0.7061588686099015	restriction	impose because of	its scene of violence	0	0
+1.0	17	be	when release to 300 cinema	0	NUMBER
+1.0	film 's distributor	be in	Italy 's	0	LOCATION
+1.0	17	be	release to 300 cinema in Italy next Wednesday	0	LOCATION
+1.0	civilization	have	end	O	O
+1.0	Mel Gibson 's new film `` Apocalypto ''	have	scenes	O	O
+1.0	italian government	move at_time	Thursday	0	DATE
+1.0	Francesco Rutelli	be	italian	PERSON	0
+1.0	Mel Gibson	have	film	O	PERSON
+1.0	17	be	when release to 300 cinema in Italy next Wednesday	0	LOCATION
+1.0	17	be release next	Wednesday	0	DATE
+1.0	consumer group	say at_time	last Friday	0	DATE
+1.0	government	move at_time	Thursday	0	DATE
+1.0	government	have	restriction impose on Mel Gibson 's new film	0	PERSON
+1.0	Italy 's	have	rating commission	O	LOCATION
+1.0	300 cinema	be in	Italy 's	NUMBER	LOCATION
+1.0	government	have	restriction	0	0
+1.0	film	have	distributor	O	O
+1.0	scenes	have	imposed	O	O
+1.0	violence	have	scenes	O	O
+1.0	17	be release to	300 cinema	0	NUMBER
+1.0	17	be	when release next Wednesday	0	DATE
+1.0	film	have	distributor in Italy	0	LOCATION
+1.0	17	be	release to 300 cinema next Wednesday	0	DATE
+1.0	italian government	have	restriction impose	0	0
+1.0	17	be release to	300 cinema in Italy	0	LOCATION
+0.7061588686099015	restriction	impose because of	its scene	0	0
+1.0	17	be	when release to 300 cinema in Italy	0	LOCATION
+1.0	Carlo Rienzi	be president of	Codacons	PERSON	ORGANIZATION
+1.0	17	be	when release	0	0
+1.0	17	be	release	0	0
+0.7061588686099015	restriction	impose on	Mel Gibson 's new film	0	PERSON
+1.0	italian government	have	restriction impose on Mel Gibson 's new film	0	PERSON
+1.0	r	be in	United States	0	LOCATION

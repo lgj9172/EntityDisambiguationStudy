@@ -1,0 +1,37 @@
+1.0	german pharmaceutical	consider	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	specialty chemicals maker Merck KGaA	have	drugs business	O	O
+1.0	german pharmaceutical	receive	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	Serono	have	acquisition	O	ORGANIZATION
+1.0	Serono	be of	swiss-based	ORGANIZATION	0
+1.0	german pharmaceutical	sell	its drug business	0	0
+1.0	acquisition	have	result	O	O
+1.0	Handelsblatt	report on	Thursday	ORGANIZATION	DATE
+1.0	operating profit	have	sales	O	O
+1.0	Merck	have	drug business	O	ORGANIZATION
+1.0	Merck	would use	proceeds	PERSON	0
+1.0	Merck 's drug business	book	sale of 1.8 billion euro year	ORGANIZATION	MONEY
+1.0	german pharmaceutical	receive	green light	0	0
+1.0	daily Handelsblatt	quote	company source	ORGANIZATION	0
+1.0	pharmaceutical	receive	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	pharmaceutical	receive light from	family shareholder	0	0
+1.0	euros	have	operating profit	O	MONEY
+1.0	Merck 's drug business	book	sale of 1.8 billion euro last year	ORGANIZATION	MONEY
+1.0	pharmaceutical	sell	its drug business	0	0
+1.0	pharmaceutical	receive	green light	0	0
+1.0	Merck 's drug business	book	sale of 1.8 billion euro	ORGANIZATION	MONEY
+1.0	euros	have	sales	O	MONEY
+1.0	german pharmaceutical	receive light from	family shareholder	0	0
+1.0	Merck 's drug business	book	sale	ORGANIZATION	0
+1.0	business	have	sale	O	O
+1.0	pharmaceutical	sell	its generic drug business	0	0
+1.0	company spokesman	refuse	comment	0	0
+1.0	Merck	have	generic drug business	ORGANIZATION	0
+1.0	german pharmaceutical	sell	its generic drug business	0	0
+1.0	Handelsblatt	be	daily	ORGANIZATION	SET
+1.0	Merck	would use proceeds from	sale	PERSON	0
+1.0	daily Handelsblatt	report on	Thursday	ORGANIZATION	DATE
+1.0	german pharmaceutical	receive	light	0	0
+1.0	pharmaceutical	consider	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	pharmaceutical	sell	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	german pharmaceutical	sell	specialty chemical maker Merck KGaA	0	ORGANIZATION
+1.0	pharmaceutical	receive	light	0	0

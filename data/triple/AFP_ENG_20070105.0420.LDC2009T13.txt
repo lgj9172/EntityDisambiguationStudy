@@ -1,0 +1,80 @@
+1.0	Harry Reid	be of	Nancy Pelosi	PERSON	PERSON
+0.5245217434442611	it	bring war to	close	0	0
+1.0	war	day before	he expected unveiling of new US strategy	0	LOCATION
+1.0	Congress	have	new democratic leader	ORGANIZATION	0
+1.0	it	be time after	nearly four year	0	DURATION
+1.0	November	have	elections	O	DATE
+1.0	Iraq	end	day	0	0
+1.0	US Congress 's leader	warn president george w. bush at_time	Friday	LOCATION	DATE
+0.08546423742311493	McCain	however warn	Lieberman	PERSON	PERSON
+1.0	troops	have	point	O	O
+1.0	Representatives Speaker Nancy Pelosi	have	New Senate Majority Leader Harry Reid	PERSON	PERSON
+1.0	US Congress	have	leaders	O	ORGANIZATION
+1.0	US Congress 's new democratic leader	warn	President George W. Bush	LOCATION	PERSON
+1.0	US	withdraw	US troops	LOCATION	LOCATION
+1.0	your	have	Iraq policy	O	O
+1.0	combat	have	years	DURATION	O
+1.0	our	have	forces	O	O
+1.0	Representatives Speaker Nancy Pelosi	start	redeployment of US force	PERSON	LOCATION
+1.0	Harry Reid	be	New Senate	PERSON	ORGANIZATION
+1.0	Harry Reid	be majority leader of	New Senate	PERSON	ORGANIZATION
+1.0	President George W. Bush	also face	pressure	PERSON	0
+1.0	Representatives Speaker Nancy Pelosi	start	phased redeployment of US force	PERSON	LOCATION
+1.0	US	slowly withdraw	US troops	LOCATION	LOCATION
+1.0	US strategy	have	unveiling	O	O
+1.0	US	slowly withdraw us troops from	Iraq	LOCATION	LOCATION
+1.0	US Congress 's new leader	warn	President George W. Bush	LOCATION	PERSON
+1.0	Iraq	end	war	0	0
+1.0	Iraq	end	day before he expected unveiling of US strategy	0	LOCATION
+1.0	Representatives Speaker Nancy Pelosi	start	phased redeployment	PERSON	0
+1.0	coalition forces	have	presence	O	O
+1.0	November	in	election	DATE	0
+1.0	President George W. Bush	have	unveiling	O	O
+1.0	US Congress 's new democratic leader	warn president george w. bush at_time	Friday	LOCATION	DATE
+0.08546423742311493	McCain	warn	Lieberman	PERSON	PERSON
+1.0	Americans	add	combat troops	MISC	0
+1.0	we force	bring security to	Iraq	0	LOCATION
+1.0	Nancy Pelosi	be of	House of Representatives	PERSON	ORGANIZATION
+1.0	force	be	strategy	0	0
+1.0	US	slowly withdraw	Iraq	LOCATION	LOCATION
+0.5245217434442611	it	bring	war	0	0
+1.0	Representatives Speaker Nancy Pelosi	start	Harry Reid	PERSON	PERSON
+1.0	US casualties	have	thousands	O	O
+1.0	New Senate Majority Leader Harry Reid	flex	muscle acquire	PERSON	0
+1.0	McCain	warn	Lieberman	PERSON	PERSON
+1.0	US Congress 's democratic leader	warn	President George W. Bush	LOCATION	PERSON
+1.0	Congress	be 's	US	ORGANIZATION	LOCATION
+1.0	Representatives Speaker Nancy Pelosi	start	redeployment	PERSON	0
+1.0	The US Congress 's	have	control	O	ORGANIZATION
+1.0	Americans	add	more combat troops	MISC	0
+1.0	President George W. Bush	face	pressure	PERSON	0
+1.0	Representatives Speaker Nancy Pelosi	call on	President George W. Bush	PERSON	PERSON
+1.0	troops	have	sake	O	O
+1.0	we force	bring	security	0	0
+1.0	US	withdraw us troops from	Iraq	LOCATION	LOCATION
+1.0	US forces	have	redeployment	O	O
+1.0	its	have	own	O	O
+1.0	Iraq	end	day before he expected unveiling	0	0
+1.0	Iraq	end	day before he expected unveiling of new US strategy	0	LOCATION
+1.0	their	have	part	O	O
+1.0	New Senate Majority Leader Harry Reid	flex	muscle	PERSON	0
+1.0	US	withdraw	Iraq	LOCATION	LOCATION
+1.0	it	be	time	0	0
+1.0	US Congress 's leader	warn	President George W. Bush	LOCATION	PERSON
+1.0	New Senate Majority Leader Harry Reid	flex	House	PERSON	ORGANIZATION
+1.0	time	bring	war	0	0
+1.0	surging force	be	strategy	0	0
+1.0	McCain	however warn	Lieberman	PERSON	PERSON
+1.0	time	bring war to	close	0	0
+1.0	tens of thousands of US casualties	have	troops	O	O
+1.0	Representatives Speaker Nancy Pelosi	call	Harry Reid	PERSON	PERSON
+1.0	New Senate Majority Leader Harry Reid	flex	political muscle acquire	PERSON	0
+1.0	your	have	military	O	O
+1.0	its	have	rule	O	O
+1.0	New Senate Majority Leader Harry Reid	flex	political muscle	PERSON	0
+1.0	Nancy Pelosi	be speaker of	House of Representatives	PERSON	ORGANIZATION
+1.0	US Congress 's democratic leader	warn president george w. bush at_time	Friday	LOCATION	DATE
+1.0	direction	have	change	O	O
+1.0	New Senate Majority Leader Harry Reid	flex	new House	PERSON	ORGANIZATION
+1.0	US Congress 's new leader	warn president george w. bush at_time	Friday	LOCATION	DATE
+1.0	it	be time after	nearly four year of combat	0	DURATION

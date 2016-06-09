@@ -1,0 +1,18 @@
+1.0	woman	be take to	hospital for treatment	0	0
+1.0	two asthmatic children	have	some	O	O
+1.0	woman	be take to	hospital	0	0
+1.0	others	have	None	O	O
+1.0	Hein Gerstner	manager of	Cango Caves	PERSON	ORGANIZATION
+1.0	woman	be take to	nearby hospital for treatment	0	0
+1.0	guides	have	None	O	O
+1.0	our	have	guides	O	O
+1.0	Hein Gerstner	tell	AFP	0	ORGANIZATION
+1.0	Cango Caves	be in	western Cape	ORGANIZATION	LOCATION
+1.0	Cango Caves	have	manager	O	ORGANIZATION
+1.0	woman	be take to	nearby hospital	0	0
+1.0	woman	be	take	0	0
+1.0	she	be	large	0	0
+1.0	New Year	have	Day	DATE	DATE
+1.0	official	say at_time	Tuesday	0	DATE
+1.0	Love	have	Tunnel	O	O
+1.0	paraffin	have	help	O	O

@@ -1,0 +1,33 @@
+1.0	China 's Bank	tap into	country 's red-hot market for share	LOCATION	0
+1.0	China 's Bank	plan	tap into country 's red-hot market for share	LOCATION	0
+1.0	China 's Bank	plan	tap into country 's market for financial share	LOCATION	0
+1.0	China 's Bank	tap into	country 's red-hot market for financial share	LOCATION	0
+1.0	China	have	bank	O	LOCATION
+1.0	listing	have	timing	O	O
+1.0	offering	have	Shares	O	O
+1.0	their	have	day	DATE	O
+1.0	China 's Bank	tap into	country 's market for share	LOCATION	0
+1.0	China 's Bank	plan	tap into country 's red-hot market	LOCATION	0
+1.0	China 's Bank	plan	tap into country 's market	LOCATION	0
+0.8273034907335982	state media	report on	Wednesday	0	DATE
+1.0	China 's Bank	plan	tap into country 's red-hot market for financial share	LOCATION	0
+1.0	country	have	market	O	O
+1.0	bank	have	chairman	0	0
+1.0	Communications	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	country	into	red-hot market for financial share	0	0
+1.0	the country 's red-hot market for financial shares	have	stock	O	O
+1.0	China 's Bank	tap into	country 's market for financial share	LOCATION	0
+1.0	bank	have	chairman	O	O
+1.0	China 's Bank	plan	tap	LOCATION	0
+1.0	the move	have	core mainland China focus	O	O
+1.0	its	have	offering	O	O
+1.0	Jiang Chaoliang	chairman 's	bank	PERSON	0
+1.0	China	have	Bank	ORGANIZATION	LOCATION
+1.0	bank	have	core capital	O	O
+1.0	bank	have	core capital	0	0
+1.0	China	have	Bank of Communications	LOCATION	ORGANIZATION
+1.0	Jiang Chaoliang	be	quote	PERSON	0
+1.0	China	have	fifth-largest bank	LOCATION	0
+1.0	China 's Bank	plan	tap into country 's market for share	LOCATION	0
+1.0	China 's Bank	tap into	country 's red-hot market	LOCATION	0
+1.0	China 's Bank	tap into	country 's market	LOCATION	0

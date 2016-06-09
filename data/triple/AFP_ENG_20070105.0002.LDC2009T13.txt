@@ -1,0 +1,20 @@
+1.0	Luxpro	against	Super Tangent	PERSON	MISC
+1.0	Luxpro	have	favor	O	LOCATION
+1.0	Luxpro	have	Super Tangent	O	PERSON
+1.0	High Court	have	verdict	O	O
+1.0	Luxpro	's tangent be	top Tangent	PERSON	MISC
+1.0	taiwanese firm	say in	statement	0	0
+1.0	Apple	have	iPod Shuffle	O	ORGANIZATION
+1.0	products	have	case cover	O	O
+1.0	US firm	have	litigation	O	O
+1.0	Luxpro	be in	November 2005	PERSON	DATE
+1.0	Taiwan 's Luxpro Technology	say at_time	Friday	ORGANIZATION	DATE
+1.0	US firm	from	litigation over mp3 player	LOCATION	0
+1.0	firm	say in	statement	0	0
+1.0	Apple	have	iPod Shuffle	ORGANIZATION	0
+1.0	Taiwan	have	Shihlin District court	O	LOCATION
+1.0	Taiwan	have	Luxpro Technology	ORGANIZATION	LOCATION
+1.0	Luxpro	over	mp3 player	ORGANIZATION	0
+1.0	Taiwan	have	Shihlin District court	LOCATION	LOCATION
+1.0	Taiwan	have	Luxpro Technology	LOCATION	ORGANIZATION
+1.0	Luxpro	have	MP3 players	O	ORGANIZATION

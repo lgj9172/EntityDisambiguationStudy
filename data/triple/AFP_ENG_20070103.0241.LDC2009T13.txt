@@ -1,0 +1,40 @@
+1.0	European Union Industry Commissioner Guenter Verheugen	advise	small EU member state	PERSON	LOCATION
+1.0	we	need	quick-witted commission	0	0
+1.0	we	need	commission	0	0
+1.0	Guenter Verheugen	be	European Union Industry	PERSON	ORGANIZATION
+1.0	commissioner	have	post	O	O
+1.0	member state Romania	have	Leonard Orban	PERSON	LOCATION
+0.7556884348871395	European Union Industry Commissioner Guenter Verheugen	key post of	industry commissioner	PERSON	0
+1.0	Germany	have	EU presidency	O	O
+1.0	commissioner	have	post	0	0
+1.0	than commissioner post	be in	peripheral area	0	0
+1.0	number	have	two-thirds	O	O
+1.0	Guenter Verheugen	be commissioner of	European Union Industry	PERSON	ORGANIZATION
+1.0	Leonard Orban	be	responsible	PERSON	0
+1.0	European Union Industry Commissioner Guenter Verheugen	hold	key post of industry commissioner	PERSON	0
+1.0	European Union Industry Commissioner Guenter Verheugen	hold	post of industry commissioner	PERSON	0
+1.0	ZDF	be	german	ORGANIZATION	0
+1.0	European Union Industry Commissioner Guenter Verheugen	tell	public television ZDF	PERSON	ORGANIZATION
+0.7556884348871395	European Union Industry Commissioner Guenter Verheugen	post of	industry commissioner	PERSON	0
+1.0	commissioners	have	number	O	O
+1.0	one commissioner	have	position in executive arm	NUMBER	0
+1.0	EU member	have	each	O	O
+1.0	commissioner	have	position	O	O
+1.0	European Union Industry Commissioner Guenter Verheugen	advise	small EU member state insist	PERSON	LOCATION
+1.0	Leonard Orban	be responsible for	multilingualism	PERSON	0
+1.0	European Union Industry Commissioner Guenter Verheugen	advise	EU member state insist	PERSON	LOCATION
+1.0	Leonard Orban	be of	Romania	PERSON	LOCATION
+1.0	European Union Industry Commissioner Guenter Verheugen	hold	key post	PERSON	0
+1.0	one commissioner 's position	be in	bloc 's executive arm	NUMBER	0
+1.0	European Union Industry Commissioner Guenter Verheugen	advise	EU member state	PERSON	LOCATION
+1.0	member states	have	number	O	O
+1.0	European Union Industry Commissioner Guenter Verheugen	tell	german public television ZDF	PERSON	ORGANIZATION
+1.0	European Union Industry Commissioner Guenter Verheugen	tell	german television ZDF	PERSON	ORGANIZATION
+1.0	European Union Industry Commissioner Guenter Verheugen	hold	post	PERSON	0
+1.0	bloc	in	executive arm	0	0
+1.0	industry commissioner	have	post	O	O
+1.0	deputy commissioner post	be in	important area	0	0
+1.0	bloc	have	executive arm	O	O
+1.0	year	have	half	DATE	DATE
+1.0	deputy positions	have	advantages	O	O
+1.0	European Union Industry Commissioner Guenter Verheugen	tell	television ZDF	PERSON	ORGANIZATION

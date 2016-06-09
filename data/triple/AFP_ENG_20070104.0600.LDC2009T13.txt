@@ -1,0 +1,44 @@
+1.0	Nippon Oil	slide	23 yen	ORGANIZATION	MONEY
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be day by	lunch break	ORGANIZATION	DURATION
+1.0	decliner	lead	gainer 1,252	0	NUMBER
+1.0	1.85 percent	be in	morning trade	PERCENT	TIME
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down 321.32 point at 17,032.35 day	ORGANIZATION	DATE
+1.0	the country 's central bank	have	water reactor	O	O
+1.0	volume	be	1.16 billion share	0	MONEY
+0.28627611980559997	Toshiba	rise to	801	ORGANIZATION	NUMBER
+1.0	its	have	finish	O	O
+1.0	Japan Airlines	be	three yen 1.4 percent higher	ORGANIZATION	PERCENT
+1.0	its	have	interest rate	O	O
+1.0	country	have	central bank	0	0
+1.0	Masatoshi Sato	say	conjecture	PERSON	0
+1.0	Masatoshi Sato	say conjecture in	market	PERSON	0
+1.0	Japan Airlines	be	three yen higher	ORGANIZATION	MONEY
+1.0	US jobs data	have	market	O	O
+1.0	Japan	be 's	daily	LOCATION	SET
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be down day by	lunch break	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	DURATION
+0.633593924617174	Masatoshi Sato	say in	market	PERSON	0
+1.0	country	have	bank	O	O
+1.0	companies	have	TOPIX index	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down 321.32 point day	ORGANIZATION	DATE
+1.0	Japan Airlines	be	three yen	ORGANIZATION	MONEY
+1.0	Thursday	in	half-day session	DATE	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down at 17,032.35 by lunch break day	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down 321.32 point by lunch break day	ORGANIZATION	DATE
+1.0	volume	be	1.16 billion share up	0	MONEY
+1.0	Masatoshi Sato	strategist at	Mizuho Investors Securities	PERSON	ORGANIZATION
+1.0	Hideyuki Suzuki	strategist at	SBI Securities	PERSON	ORGANIZATION
+1.0	Showa Shell Sekiyu	fall	33 yen	ORGANIZATION	MONEY
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	day	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down at 17,032.35 day	ORGANIZATION	DURATION
+1.0	Thursday	have	session	O	DATE
+1.0	decliner	lead	gainer 1,252 to 349	0	NUMBER
+1.0	volume	be	1.16 billion share up from 1.06 billion in Thursday 's half-day session	0	MONEY
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down 321.32 point at 17,032.35 by lunch break day	ORGANIZATION	DATE
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Toshiba	rise	six yen	ORGANIZATION	MONEY
+0.47937962732886696	Showa Shell Sekiyu	fall to	1,298	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	fall	be in	world oil price	DATE	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	be	down day	ORGANIZATION	DURATION
+1.0	volume	be	1.16 billion share up from 1.06 billion in Thursday 's session	0	MONEY

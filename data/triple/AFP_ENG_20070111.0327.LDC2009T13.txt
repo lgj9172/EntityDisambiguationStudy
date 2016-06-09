@@ -1,0 +1,39 @@
+1.0	Alexander Litvinenko	be of	russian	PERSON	0
+1.0	hpa	identify internationally	450 people	0	NUMBER
+1.0	Alexander Litvinenko	accuse	russian President Vladimir Putin of involvement	PERSON	PERSON
+1.0	figure	equal about	fifth of 596 people	0	ORDINAL
+1.0	Pat troop	executive of	Health Protection Agency	PERSON	ORGANIZATION
+1.0	Alexander Litvinenko	apparently accuse	russian President Vladimir Putin of involvement	PERSON	PERSON
+1.0	Alexander Litvinenko	accuse	President Vladimir Putin	PERSON	PERSON
+1.0	Alexander Litvinenko	apparently accuse	President Vladimir Putin of involvement	PERSON	PERSON
+1.0	Alexander Litvinenko	apparently accuse president vladimir putin in	he murder	PERSON	0
+1.0	Alexander Litvinenko	apparently accuse	President Vladimir Putin	PERSON	PERSON
+1.0	police	be investigate	death	0	0
+1.0	Alexander Litvinenko	accuse	russian President Vladimir Putin	PERSON	PERSON
+1.0	exposure	have	signs	O	O
+1.0	figure	equal about	fifth	0	ORDINAL
+1.0	hpa	identify	450 people	0	NUMBER
+1.0	Alexander Litvinenko	apparently accuse	russian President Vladimir Putin	PERSON	PERSON
+1.0	contact	be with	radiation polonium-210	0	0
+1.0	two restaurant	visit by	Alexander Litvinenko	NUMBER	PERSON
+1.0	Alexander Litvinenko	have	poisoning	O	PERSON
+1.0	involvement	have	President Vladimir Putin	PERSON	O
+1.0	people	have	fifth	ORDINAL	O
+1.0	Vladimir Putin	be	russian	PERSON	0
+1.0	people	have	total	O	O
+1.0	spy Alexander Litvinenko	have	death	O	PERSON
+1.0	British official	say at_time	Thursday	MISC	DATE
+1.0	Alexander Litvinenko	die in	November	PERSON	DATE
+1.0	locations	have	string	O	O
+1.0	Russian President Vladimir Putin of involvement	have	murder	O	O
+1.0	illness	have	risk	O	O
+1.0	hpa	stress in	statement	0	0
+1.0	Alexander Litvinenko	die in	London hospital	PERSON	LOCATION
+1.0	Alexander Litvinenko	accuse	President Vladimir Putin of involvement	PERSON	PERSON
+1.0	they	include	customer	0	0
+1.0	Health Protection Agency	have	executive	O	ORGANIZATION
+1.0	public health risk	be in	most case	0	0
+1.0	Alexander Litvinenko	accuse president vladimir putin in	he murder	PERSON	0
+1.0	whose	have	urine	O	O
+1.0	they	include	customer at London hotel	0	LOCATION
+1.0	police	be in	Britain	0	LOCATION

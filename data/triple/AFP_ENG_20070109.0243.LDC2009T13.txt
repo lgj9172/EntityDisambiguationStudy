@@ -1,0 +1,18 @@
+1.0	firm 's operating revenue	make	it surpass	0	0
+1.0	Mizuho Securities Co.	be	japanese	ORGANIZATION	0
+1.0	assets	have	terms	O	O
+1.0	Nikko Cordial	have	shy	O	ORGANIZATION
+1.0	fourth-largest security house	be in	term of asset under management	0	0
+1.0	The merged entity	have	assets	O	O
+1.0	third biggest brokerage house	be in	operating revenue	ORDINAL	0
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	end	have	figures	O	DATE
+1.0	brokerages	have	merger	O	O
+1.0	March	have	end	DATE	DATE
+1.0	brokerages	have	one	NUMBER	O
+1.0	revenue	have	terms	O	O
+1.0	merged firm 's operating revenue	make	it surpass	0	0
+1.0	merged firm	have	operating revenue	0	0
+1.0	Nikko Cordial	say	Nikkei	ORGANIZATION	ORGANIZATION
+1.0	Nikko Cordial	say	Asahi Shimbun	ORGANIZATION	ORGANIZATION
+1.0	firm	have	operating revenue	O	O

@@ -1,0 +1,24 @@
+1.0	merger activity	be in	2006	0	DATE
+1.0	year	have	quarter	DATE	DATE
+1.0	value	have	third	ORDINAL	O
+1.0	December	have	end	DATE	DATE
+1.0	activity	spike in	quarter of year	0	DATE
+1.0	activity	be in	2006	0	DATE
+1.0	activity	spike in	quarter	0	DATE
+1.0	activity	spike in	final quarter	0	DATE
+1.0	value	set	new record of 3.8 trillion dollar	0	MONEY
+1.0	third	be	when register	ORDINAL	0
+1.0	acquisitions	have	value	O	O
+1.0	mergers	have	value	O	O
+1.0	provider Thomson Financial	reveal on	Wednesday	ORGANIZATION	DATE
+1.0	value	set	new record	0	0
+1.0	merger	be in	2006	0	DATE
+1.0	deals worth 3.4 trillion dollars	have	value	O	O
+1.0	merger acquisition activity	have	percent	PERCENT	O
+1.0	activity	spike in	final quarter of year	0	DATE
+1.0	third	be	register	ORDINAL	0
+1.0	value	set	record of 3.8 trillion dollar	0	MONEY
+1.0	3.8 trillion dollar	of record be	financial datum	MONEY	0
+1.0	value	set	record	0	0
+1.0	dollars	have	record	O	MONEY
+1.0	value	rise by	37.9 percent	0	PERCENT

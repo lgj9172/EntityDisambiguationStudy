@@ -1,0 +1,52 @@
+1.0	one	accuse of	serial killing	0	0
+1.0	men	have	One	NUMBER	O
+1.0	drain	suburb of	indian capital	0	0
+1.0	one	accuse of	serial killing of 17 people	0	NUMBER
+1.0	overwhelming stench	lead in	affluent suburb of capital	0	0
+1.0	overwhelming stench	lead in	drain	0	0
+1.0	overwhelming stench	lead to	discovery of body part	0	0
+1.0	victims	have	remains	O	O
+1.0	stench	lead in	suburb of capital	0	0
+1.0	overwhelming stench	lead in	drain in Noida	0	LOCATION
+1.0	overwhelming stench	lead in	affluent suburb	0	0
+1.0	stench	lead to	discovery of chopped-up body part	0	0
+1.0	overwhelming stench	lead in	affluent suburb of indian capital	0	0
+1.0	organ	be	sell	0	0
+1.0	serial killings	have	accused	O	O
+1.0	overwhelming stench	lead to	discovery of carefully chopped-up body part	0	0
+1.0	Pandher	have	home	O	PERSON
+1.0	overwhelming stench	lead to	discovery	0	0
+1.0	fridge	be in	house	0	0
+1.0	stench	lead in	suburb of indian capital	0	0
+1.0	Surender Koli	also admit accord to	NDTV news channel	PERSON	ORGANIZATION
+1.0	Surender Koli	admit accord to	NDTV news channel	PERSON	ORGANIZATION
+1.0	the	tell	investigator	0	0
+1.0	Surender Koli	have	employer	O	O
+1.0	stench	lead to	discovery of carefully chopped-up body part	0	0
+1.0	Noida	in drain be	affluent suburb of indian capital	LOCATION	0
+1.0	stench	lead in	affluent suburb	0	0
+1.0	one	accuse of	serial killing of 17 people mainly	0	NUMBER
+1.0	17 victims	have	torsos	O	O
+1.0	stench	lead to	discovery of body part	0	0
+1.0	people	have	serial killings	O	O
+1.0	overwhelming stench	lead in	suburb of capital	0	0
+1.0	stench	lead in	affluent suburb of indian capital	0	0
+1.0	drain	be in	Noida	0	LOCATION
+1.0	victims	have	kidneys	O	O
+1.0	two	be	arrest	NUMBER	0
+1.0	stench	lead to	discovery	0	0
+1.0	stench	lead in	drain in Noida	0	LOCATION
+1.0	Pandher 's home	next to drain be	affluent suburb of indian capital	PERSON	0
+1.0	body parts	have	discovery	O	O
+1.0	area	have	Residents	O	O
+1.0	stench	lead in	drain	0	0
+1.0	Pandher	next to	home	PERSON	0
+1.0	stench	lead in	suburb	0	0
+1.0	stench	lead in	affluent suburb of capital	0	0
+1.0	overwhelming stench	lead in	suburb	0	0
+1.0	capital	have	suburb	O	O
+1.0	newspaper	say at_time	Wednesday	0	DATE
+1.0	two	be arrest on	December 29	NUMBER	DATE
+1.0	both	have	have charge	0	0
+1.0	overwhelming stench	lead to	discovery of chopped-up body part	0	0
+1.0	overwhelming stench	lead in	suburb of indian capital	0	0

@@ -1,0 +1,50 @@
+1.0	BoE policymaker	hold	cost of borrowing	0	0
+1.0	official datum	show on	Thursday	0	DATE
+1.0	datum	show on	Thursday	0	DATE
+1.0	datum	affect	Bank of England 's interest rate call due Thursday	0	ORGANIZATION
+1.0	datum	affect	Bank of England 's latest interest rate call due Thursday	0	ORGANIZATION
+1.0	BoE policymaker	be	expect	0	0
+1.0	datum	affect	Bank of England 's latest interest rate call due later Thursday	0	ORGANIZATION
+1.0	manufacturing output	rise from	performance previous month	0	DATE
+1.0	manufacturing output	rise by	0.3 percent in November	0	DATE
+1.0	analyst ' consensus forecast	have for	have rise of 0.6 percent	0	PERCENT
+1.0	datum	affect	Bank of England 's interest rate call due	0	ORGANIZATION
+1.0	analyst ' consensus forecast	increase of	2.6 percent	0	PERCENT
+1.0	datum	affect	Bank of England 's latest interest rate call	0	ORGANIZATION
+1.0	datum	affect	Bank	0	ORGANIZATION
+1.0	BoE policymaker	hold cost at	5.00 percent	0	PERCENT
+1.0	Office	say on	basis manufacturing output	ORGANIZATION	0
+1.0	2.4 percent	be in	November	PERCENT	DATE
+1.0	british manufacturing output	rise from	performance	0	0
+1.0	analyst ' consensus forecast	have for	have month-on-month rise	0	0
+1.0	interest rate call	have	Bank	ORGANIZATION	O
+1.0	british manufacturing output	rise by	0.3 percent	0	PERCENT
+1.0	percent	have	rise	O	PERCENT
+1.0	analyst ' consensus forecast	have for	have month-on-month rise of 0.6 percent	0	PERCENT
+1.0	borrowing	have	cost	O	O
+1.0	Office	say on	12-month basis manufacturing output	ORGANIZATION	DURATION
+1.0	datum	affect	Bank of England 's interest rate call due later	0	ORGANIZATION
+1.0	manufacturing output	rise by	0.3 percent	0	PERCENT
+1.0	BoE policymaker	hold	cost of british borrowing	0	0
+1.0	Analysts	have	consensus forecast	O	O
+1.0	british manufacturing output	rise from	performance month	0	DATE
+1.0	british manufacturing output	rise from	performance previous month	0	DATE
+1.0	BoE policymaker	be	widely expect	0	0
+1.0	manufacturing output	rise from	performance month	0	DATE
+1.0	Bank of England	of	latest interest rate call due later Thursday	ORGANIZATION	DATE
+1.0	datum	affect	Bank of England 's interest rate call	0	ORGANIZATION
+1.0	datum	be	meanwhile unlikely	0	0
+1.0	datum	affect	Bank of England 's latest interest rate call due	0	ORGANIZATION
+1.0	datum	affect	Bank of England 's latest interest rate call due later	0	ORGANIZATION
+1.0	percent	have	increase	O	PERCENT
+1.0	manufacturing output	rise from	performance	0	0
+1.0	datum	affect	Bank of England 's interest rate call due later Thursday	0	ORGANIZATION
+1.0	England	have	interest rate call	O	ORGANIZATION
+1.0	british manufacturing output	rise by	0.3 percent in November	0	DATE
+1.0	forecast	be	month-on-month	0	0
+1.0	analyst ' consensus forecast	annual increase of	2.6 percent	0	PERCENT
+1.0	datum	be	unlikely	0	0
+1.0	BoE policymaker	hold	cost	0	0
+1.0	0.3 percent	be in	November	PERCENT	DATE
+1.0	analyst ' consensus forecast	have for	have rise	0	0
+1.0	BoE policymaker	hold cost accord to	analyst	0	0

@@ -1,0 +1,137 @@
+1.0	relatives	have	release	O	O
+1.0	aug	be	hold for 13 day by group	0	DURATION
+1.0	Red Cross	have	members	O	ORGANIZATION
+1.0	aug 14	be seize on	eve	DATE	0
+1.0	aug 14	be	seize near he hotel from territory	DATE	0
+1.0	Claudio Moroni	have	members	O	PERSON
+1.0	March	be kidnap in	Gaza	DATE	LOCATION
+1.0	Red Cross	be of	italian	ORGANIZATION	0
+1.0	aug	be	hold	0	0
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string of abduction of foreigner	PERSON	0
+1.0	mask gunman	be in	Khan Yunis	0	LOCATION
+1.0	Hussam al-Musseli	be kidnap for	two day	PERSON	DURATION
+1.0	March 14	be kidnap in	Gaza follow israeli raid	DATE	LOCATION
+1.0	several hour	be in	central Fatah faction	DURATION	ORGANIZATION
+1.0	aug 14	be	seize near he hotel on eve of start from territory	DATE	0
+1.0	Mahmud Abbas	be 's	palestinian	PERSON	0
+1.0	aug 14	be	seize near he hotel in Gaza on eve of start from territory	DATE	LOCATION
+1.0	March	be kidnap in	Gaza follow israeli raid	DATE	LOCATION
+1.0	aug 14	be	seize on eve of start from territory	DATE	0
+1.0	aug 14	be	seize near he hotel in Gaza on eve	DATE	LOCATION
+1.0	March 14	be kidnap in	Gaza follow raid on prison in Jericho Bank	DATE	LOCATION
+1.0	aug 14	be seize near	he hotel in Gaza	DATE	LOCATION
+1.0	aug 14	be	seize near he hotel in Gaza on eve of start	DATE	LOCATION
+1.0	Nov 21	be	abducted	DATE	0
+1.0	Fatah militants	have	up made	O	O
+1.0	Fox News	be network of	US	ORGANIZATION	LOCATION
+1.0	foreigners	have	abductions	O	O
+1.0	March 14	be kidnap in	Gaza follow raid on prison	DATE	LOCATION
+1.0	March	be kidnap in	Gaza follow raid on prison in Jericho Bank	DATE	LOCATION
+1.0	Al-Aqsa Martyrs Brigade	have	members	O	ORGANIZATION
+1.0	UN Relief	have	employees	O	ORGANIZATION
+1.0	aug 8	be abducted in	Khan Yunis	DATE	LOCATION
+1.0	he hotel	be in	Gaza City	0	LOCATION
+1.0	March 14	be kidnap in	Gaza follow fatal raid	DATE	LOCATION
+1.0	aug 14	be	seize near he hotel on eve from territory	DATE	0
+1.0	abducted	drive to	Khan Yunis	0	PERSON
+1.0	his	have	deputy	O	O
+1.0	member	by strip be	armed group loosely link to palestinian leader Mahmud Abbas 's ruling	0	PERSON
+1.0	Hussam al-Musseli	be	kidnap	PERSON	0
+1.0	March 14	be kidnap in	Gaza follow fatal raid on prison in Jericho Bank	DATE	LOCATION
+1.0	Agence France-Presse photographer Jaime Razuri	be	kidnap Sunday in Gaza Strip	PERSON	DATE
+1.0	two journalist	be with	Fox News	0	ORGANIZATION
+1.0	aug 14	be	seize near he hotel on eve	DATE	0
+1.0	His	have	abduction	O	O
+1.0	March 14	be kidnap in	Gaza follow israeli raid on prison in Jericho Bank	DATE	LOCATION
+1.0	foreigner	be in	increasingly lawless territory	0	0
+1.0	her	have	parents	O	O
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest	PERSON	0
+1.0	prison	be in	West Bank	0	LOCATION
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string of abduction of foreigner in increasingly lawless territory	PERSON	0
+1.0	abductions	have	string	O	O
+1.0	pullout	have	start	O	O
+1.0	Nov	be	abducted drive to Khan Yunis	DATE	PERSON
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string of abduction of foreigner in territory	PERSON	0
+1.0	aug 14	be	hold for 13 day by group	DATE	DURATION
+1.0	Fox News	be with	US	ORGANIZATION	LOCATION
+1.0	aug 8	be	abducted	DATE	0
+1.0	Mohammed Ouathi	have	hotel	O	O
+1.0	Israel	of	pullout	LOCATION	0
+1.0	aug 14	be	seize near he hotel in Gaza from territory	DATE	LOCATION
+1.0	March	be kidnap in	Gaza follow raid	DATE	LOCATION
+1.0	aug 14	be seize on	eve of start	DATE	0
+1.0	Nov	be	abducted	DATE	0
+1.0	March	be kidnap in	Gaza follow israeli raid on prison in Jericho Bank	DATE	LOCATION
+1.0	March 14	be kidnap in	Gaza follow israeli raid on prison	DATE	LOCATION
+1.0	aug 14	be	hold for 13 day by islamist group	DATE	DURATION
+1.0	March 14	be kidnap in	Gaza follow fatal israeli raid on prison in Jericho Bank	DATE	LOCATION
+1.0	abducted	be in	Khan Yunis	0	LOCATION
+1.0	first time	have	have targett	ORDINAL	0
+1.0	time	have	have targett	0	0
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string	PERSON	0
+1.0	March	be kidnap in	Gaza follow fatal israeli raid on prison in Jericho Bank	DATE	LOCATION
+1.0	aug 14	be seize on	eve of start of Israel 's pullout	DATE	LOCATION
+1.0	March	be kidnap in	Gaza follow fatal raid on prison	DATE	LOCATION
+1.0	aug	be hold for	13 day	0	DURATION
+1.0	aug	be	abducted	0	0
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string of abduction of foreigner in lawless territory	PERSON	0
+1.0	March	be kidnap in	Gaza follow fatal israeli raid on prison	DATE	LOCATION
+1.0	March 14	be	kidnap	DATE	0
+1.0	aug 14	be	seize near he hotel on eve of start of Israel 's pullout from territory	DATE	LOCATION
+1.0	Nov 21	be	abducted drive to Khan Yunis	DATE	PERSON
+1.0	Agence France-Presse photographer Jaime Razuri	be	kidnap	PERSON	0
+1.0	Gaza Strip	latest in	string of abduction of foreigner	LOCATION	0
+1.0	aug 14	be seize near	he hotel	DATE	0
+1.0	Associated Press news agency	have	photographer Emilio Morenatti	PERSON	O
+1.0	March	be kidnap in	Gaza follow fatal raid	DATE	LOCATION
+1.0	March 14	be kidnap in	Gaza follow raid	DATE	LOCATION
+1.0	aug 8	abducted	Works Agency for Palestinian refugee	DATE	MISC
+1.0	March 14	be kidnap in	Gaza follow fatal israeli raid	DATE	LOCATION
+1.0	Gianmarco Onorato	have	members	O	PERSON
+1.0	aug 14	be hold by	group	DATE	0
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	latest in string of abduction	PERSON	0
+1.0	aug 14	be	seize near he hotel in Gaza on eve of start of Israel 's pullout from territory	DATE	LOCATION
+1.0	Dutchman Hendrik Taatgen	have	principal	O	PERSON
+1.0	aug 14	be hold by	islamist group	DATE	0
+1.0	start	have	eve	O	O
+1.0	agency	have	offices	O	O
+1.0	March	be kidnap in	Gaza follow israeli raid on prison	DATE	LOCATION
+1.0	Mahmud Abbas	to	ruling	PERSON	0
+1.0	aug 14	be hold for	13 day	DATE	DURATION
+1.0	aug	abducted	Works Agency for Palestinian refugee	0	MISC
+1.0	hostage-takings	have	list	O	O
+1.0	aug 14	be	seize near he hotel on eve of start of Israel 's pullout	DATE	LOCATION
+1.0	American School	have	principal	O	ORGANIZATION
+1.0	Fatah	be ruling of	Mahmud Abbas	ORGANIZATION	PERSON
+1.0	Nov	be	abducted drive	DATE	0
+1.0	March 14	be kidnap in	Gaza	DATE	LOCATION
+1.0	aug 14	be	hold	DATE	0
+1.0	aug 14	be	seize on eve from territory	DATE	0
+1.0	aug	be hold by	islamist group	0	0
+1.0	aug 14	be seize from	territory	DATE	0
+1.0	Nov 21	be	abducted drive	DATE	0
+1.0	March	be kidnap in	Gaza follow raid on prison	DATE	LOCATION
+1.0	March 14	be kidnap in	Gaza follow fatal israeli raid on prison	DATE	LOCATION
+1.0	aug 14	be	seize near he hotel in Gaza on eve of start of Israel 's pullout	DATE	LOCATION
+1.0	aug 14	be	seize near he hotel on eve of start	DATE	0
+1.0	March 14	be kidnap in	Gaza follow fatal raid on prison	DATE	LOCATION
+1.0	aug	abducted	Works Agency	0	ORGANIZATION
+1.0	March	be kidnap in	Gaza follow fatal raid on prison in Jericho Bank	DATE	LOCATION
+1.0	aug	be hold by	group	0	0
+1.0	aug	be abducted in	Khan Yunis	0	LOCATION
+1.0	aug 14	be	seize near he hotel in Gaza on eve from territory	DATE	LOCATION
+1.0	aug 8	abducted	Works Agency	DATE	ORGANIZATION
+1.0	agency	outside	office	0	0
+1.0	Israel	have	pullout	O	LOCATION
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap in	Gaza Strip	PERSON	LOCATION
+1.0	leader Mahmud Abbas	have	ruling	O	PERSON
+1.0	Khan Yunis	have	streets	O	LOCATION
+1.0	Knight Ridder news organisation	have	British photographer Adam Pletts	PERSON	O
+1.0	Corriere della Sera	have	journalist Lorenzo Cremonesi	PERSON	ORGANIZATION
+1.0	aug	be	hold for 13 day by islamist group	0	DURATION
+1.0	aug 14	be	seize on eve of start of Israel 's pullout from territory	DATE	LOCATION
+1.0	March	be	kidnap	DATE	0
+1.0	aug 14	be	seize	DATE	0
+1.0	March	be kidnap in	Gaza follow fatal israeli raid	DATE	LOCATION
+1.0	deputy	have	principal	O	O
+1.0	Agence France-Presse photographer Jaime Razuri	be kidnap at_time	Sunday	PERSON	DATE

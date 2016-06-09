@@ -1,0 +1,94 @@
+0.8431148307761454	Caserta	impose	first by italian government	ORGANIZATION	ORDINAL
+1.0	economy	have	deregulation	O	O
+1.0	effort	have	have undermine	0	0
+1.0	government	have	choice	O	O
+0.6559310477091084	Svimez Institute	specialize in	southern economy	ORGANIZATION	0
+0.8431148307761454	Caserta	impose	first by post-war government outside Rome	ORGANIZATION	ORDINAL
+1.0	north-central Italy	see	creation of 700,000 job	LOCATION	NUMBER
+1.0	Prodi	have	Union coalition	O	PERSON
+1.0	plan	have	share	O	O
+1.0	cabinet	say in	town near southern port of Naples	0	LOCATION
+1.0	Italy	see creation during	period 2002-05	LOCATION	DATE
+1.0	Royal Palace	first by	post-war italian government outside Rome	ORGANIZATION	LOCATION
+1.0	whom	have	three	NUMBER	O
+1.0	European Union	have	budget	O	ORGANIZATION
+1.0	Caserta	town near	southern port of Naples	LOCATION	LOCATION
+1.0	4.5 percent	be in	industrialize north	PERCENT	0
+1.0	Mezzogiorno	lose	69,000	LOCATION	NUMBER
+1.0	it	be see as	show of unity	0	0
+1.0	Prodi	have	coalition	O	PERSON
+1.0	center-right opposition	scoff at	outcome	0	0
+1.0	lion	have	share of strategic plan spend on development	0	0
+1.0	Mezzogiorno	have	eight region	ORGANIZATION	NUMBER
+0.8431148307761454	Caserta	impose	first by italian government outside Rome	ORGANIZATION	ORDINAL
+1.0	four family	be in	south	NUMBER	0
+1.0	April	have	elections	O	DATE
+1.0	north-central Italy	see creation during	period 2002-05	LOCATION	DATE
+1.0	percent	have	average	O	PERCENT
+1.0	north-central Italy	see	creation	LOCATION	0
+1.0	effort	have	have long undermine	0	0
+1.0	cabinet	say after	two-day meeting	0	DURATION
+1.0	cabinet	say in	town near port	0	0
+1.0	cabinet	say in	town near southern port	0	0
+1.0	divisive issue	take	back seat	0	0
+0.8431148307761454	Caserta	impose	first by post-war italian government	ORGANIZATION	ORDINAL
+1.0	issue	take seat to	development plan	0	0
+1.0	priorities	have	choice	O	O
+0.9400112529051068	back seat	issue such as	pension reform	0	0
+1.0	cabinet	say in	town near port of Naples	0	LOCATION
+1.0	Prodi	by	unwieldy coalition	PERSON	0
+1.0	Italy	have	government	O	LOCATION
+1.0	cabinet	say in	town	0	0
+1.0	cabinet	say after	meeting	0	0
+0.8431148307761454	Caserta	impose	18th-century Royal Palace	ORGANIZATION	ORGANIZATION
+1.0	effort	have	have long undermine by market	0	0
+1.0	Romano Prodi	have	coalition	PERSON	0
+1.0	Italy	see	creation	LOCATION	0
+1.0	funds	have	mafia activity	O	O
+1.0	last April	have	general election	DATE	0
+1.0	Prime Minister Romano Prodi	have	coalition	O	PERSON
+0.9400112529051068	seat	divisive issue such as	pension reform	0	0
+1.0	parties	have	leaders	O	O
+1.0	lion	have	share	O	O
+1.0	cabinet meeting	be attend by	10 leader of party	0	NUMBER
+1.0	Italy	have	center-left government on Friday	LOCATION	DATE
+1.0	effort	have	have long undermine by underground market	0	0
+0.6559310477091084	Svimez Institute	specialize in	economy	ORGANIZATION	0
+1.0	Royal Palace	be	18th-century	ORGANIZATION	DATE
+1.0	divisive issue	take	seat	0	0
+1.0	European Union	from	structural budget	ORGANIZATION	0
+1.0	it	be	see	0	0
+1.0	opposition	scoff at	outcome	0	0
+1.0	funds	have	euros	MONEY	O
+1.0	effort	have	have undermine by market	0	0
+0.9400112529051068	back seat	divisive issue such as	pension reform	0	0
+1.0	issue	take	seat	0	0
+1.0	Prime Minister Romano Prodi 's coalition	have	manifesto	O	O
+1.0	opposition Forza Italia party	have	Osvaldo Napoli	PERSON	O
+0.9400112529051068	seat	issue such as	pension reform	0	0
+1.0	Italy	see	creation of 700,000 job	LOCATION	NUMBER
+1.0	it	be see as	show	0	0
+1.0	government	have	choice of priority in 2007	0	DATE
+0.6559310477091084	Svimez Institute	specialize in	southern italian economy	ORGANIZATION	0
+1.0	its	have	relations goal	O	O
+1.0	jobs	have	creation	O	O
+0.8431148307761454	Caserta	impose	first	ORGANIZATION	ORDINAL
+1.0	country	have	south	O	O
+1.0	priority	be in	2007	0	DATE
+0.8431148307761454	Caserta	impose	first by post-war italian government outside Rome	ORGANIZATION	ORDINAL
+1.0	Naples	have	port	O	LOCATION
+1.0	divisive issue	take seat to	development plan	0	0
+1.0	effort	have	have undermine by underground market	0	0
+1.0	Mezzogiorno	have	regions	O	ORGANIZATION
+0.8431148307761454	Caserta	impose	first by government	ORGANIZATION	ORDINAL
+1.0	issue	take	back seat	0	0
+1.0	Italy 's center-left government	unveil	plan	LOCATION	0
+0.8431148307761454	Caserta	impose	first by post-war government	ORGANIZATION	ORDINAL
+1.0	cabinet	say in	Caserta	0	LOCATION
+1.0	Italy 's government	unveil	plan	LOCATION	0
+0.6559310477091084	Svimez Institute	specialize in	italian economy	ORGANIZATION	0
+1.0	unity	have	show	O	O
+1.0	Prodi	in	coalition	PERSON	0
+1.0	underground market	activity of	public fund	0	0
+0.8431148307761454	Caserta	impose	Royal Palace	ORGANIZATION	ORGANIZATION
+0.8431148307761454	Caserta	impose	first by government outside Rome	ORGANIZATION	ORDINAL

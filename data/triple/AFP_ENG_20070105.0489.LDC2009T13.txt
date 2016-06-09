@@ -1,0 +1,57 @@
+1.0	BAE Systems	have	part	O	ORGANIZATION
+1.0	sfo	investigate	allegation of corrupt payment	0	0
+1.0	South Africa	have	crime unit	O	LOCATION
+1.0	government	have	adviser	O	O
+1.0	country	to	late former defence minister	0	0
+1.0	Guardian	say at_time	Saturday	ORGANIZATION	DATE
+1.0	arms deals	have	number	O	O
+1.0	deal	include	purchase	0	0
+1.0	sfo	investigate	allegation of payment	0	0
+1.0	british government	be face	international pressure	0	0
+1.0	Pretoria	quote	south source	0	0
+1.0	BAE Systems	be in	the 1980	ORGANIZATION	DATE
+1.0	deal	include	purchase of 12 trainer hawk jet	0	NUMBER
+1.0	british government	explain	its decision	0	0
+1.0	british defence company	have	southern Africa agent	0	LOCATION
+1.0	Pretoria	quote	source	0	0
+1.0	Pretoria	say from	Johannesburg	0	LOCATION
+1.0	adviser	have	accounts	O	O
+1.0	british government	be face	pressure	0	0
+1.0	years	have	number	O	DURATION
+1.0	Britain	have	Serious Fraud Office	LOCATION	ORGANIZATION
+1.0	South Africa	with	organised crime unit	LOCATION	0
+1.0	government	have	chief legal adviser	0	0
+1.0	government	be face	pressure	0	0
+1.0	feeling	have	years	DURATION	O
+1.0	Pretoria	quote	south african source	0	0
+1.0	Pretoria	quote	unnamed south source	0	0
+1.0	Pretoria	quote	african source	0	0
+1.0	payments	have	allegations	O	O
+1.0	sfo	be	say	0	0
+1.0	security	have	interests	O	O
+1.0	sfo	investigate	allegation	0	0
+1.0	Pretoria	say in	report	0	0
+1.0	SFO	halt	its investigation	ORGANIZATION	0
+1.0	Pretoria	quote	unnamed south african source	0	0
+1.0	country	have	defence minister	O	O
+1.0	businessman	have	accounts	O	O
+1.0	costs	have	told	O	O
+1.0	Britain	have	Serious Fraud Office	ORGANIZATION	LOCATION
+1.0	contractor	be treat	more favourably	0	0
+1.0	its	have	decision	O	O
+1.0	government	explain	its decision	0	0
+1.0	SFO investigation	have	specifics	O	O
+1.0	sfo	investigate allegation in	Tanzania	0	LOCATION
+1.0	sfo	investigate allegation by	BAE Systems	0	ORGANIZATION
+1.0	trainer Hawk jets	have	purchase	O	O
+1.0	the Pretoria government	have	costs	O	O
+1.0	deal	include	purchase of 12 trainer hawk jet from Saab	0	ORGANIZATION
+1.0	contractor	be treat	favourably	0	0
+1.0	Peter Goldsmith	adviser 's	government	PERSON	0
+1.0	Fana Hlongwane	have	accounts	O	PERSON
+1.0	defence company	have	Africa agent	O	O
+1.0	contractor	be	treat	0	0
+1.0	sfo	investigate allegation to	politician	0	0
+1.0	government	be face	international pressure	0	0
+1.0	the British government	have	investigation	O	O
+1.0	Attorney General Lord Peter Goldsmith	announce on	December 14	PERSON	DATE

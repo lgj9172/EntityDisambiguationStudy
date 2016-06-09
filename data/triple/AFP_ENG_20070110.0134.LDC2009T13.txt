@@ -1,0 +1,111 @@
+1.0	seed Mario Ancic	secure round place in	Heineken Open Wednesday	PERSON	MISC
+1.0	play	be stop by	rain	0	0
+1.0	seed Mario Ancic	secure	second round place	PERSON	DURATION
+1.0	Roger Federer	believe	great swiss player	PERSON	0
+1.0	Tuesday	have	play	O	DATE
+1.0	croatian	be	set	0	0
+1.0	I	be close to	very masters cup year	0	DATE
+1.0	ancic	have	fight	0	0
+1.0	I	hit	lot	0	0
+1.0	I	be close to	masters cup last year	0	DATE
+1.0	second seed Mario Ancic	secure	round place	DURATION	DURATION
+1.0	croatian	be set	serve for match	0	0
+1.0	Second seed Mario Ancic	be beaten finalist at	Auckland	PERSON	LOCATION
+1.0	Rosol	break	Ancic	PERSON	PERSON
+1.0	seed Mario Ancic	secure	round place	PERSON	DURATION
+1.0	New Zealand 's sole singles player	be in	tournament	LOCATION	0
+1.0	seed Mario Ancic	secure round place in	Heineken Open	PERSON	MISC
+1.0	I	be close to	masters cup for top eight	0	NUMBER
+1.0	second seed Mario Ancic	secure	second round place	DURATION	DURATION
+1.0	his	have	first	ORDINAL	O
+0.7676304316016964	I	lot of	winner	0	0
+1.0	Ancic	have	run	O	PERSON
+1.0	seed Mario Ancic	battle against	element	PERSON	0
+1.0	I	hit lot at_time	today	0	DATE
+1.0	croatian	be set	serve	0	0
+1.0	I	be close to	masters cup year	0	DATE
+1.0	I	be close to	very masters cup for top eight	0	NUMBER
+1.0	tennis professional	of association be	atp	0	0
+0.4672162762520059	game	take than	he current world ranking nine	0	DATE
+1.0	Second seed Mario Ancic	have	opponent	O	O
+1.0	seed Mario Ancic	battle	hard	PERSON	DURATION
+1.0	his	have	world ranking	O	O
+1.0	Gaston Gaudio	let	he	PERSON	0
+1.0	Lukas Rosol	be by	Czech	PERSON	MISC
+1.0	he	have	game take than he world ranking of nine	0	NUMBER
+1.0	Nicolas Mahut	be of	France	PERSON	LOCATION
+1.0	second seed Mario Ancic	battle against	element	DURATION	0
+1.0	Second seed Mario Ancic	be beaten finalist at_time	last year	PERSON	DATE
+1.0	nine	have	world ranking	O	NUMBER
+1.0	us	have	lot	O	O
+1.0	Second seed Mario Ancic	be	finalist at Auckland year	PERSON	LOCATION
+1.0	Ancic	force	second set	PERSON	ORDINAL
+1.0	he	have	game take than he current world ranking	0	DATE
+0.36632681049637295	Gaston Gaudio	serve	let down	PERSON	0
+1.0	New Zealand	have	sole singles player in tournament	LOCATION	0
+1.0	Second seed Mario Ancic	be	finalist at Auckland last year	PERSON	LOCATION
+1.0	I	hit	lot of winner	0	0
+1.0	second seed Mario Ancic	secure round place in	Heineken Open Wednesday	DURATION	MISC
+1.0	mistakes	have	lot	O	O
+1.0	second seed Mario Ancic	have	battle against element	DURATION	DURATION
+1.0	ancic	take	service break	0	0
+1.0	New Zealand	have	singles player	O	LOCATION
+1.0	Tennis Professionals	have	Association	O	O
+1.0	Second seed Mario Ancic	be finalist at_time	last year	PERSON	DATE
+0.4672162762520059	game	take than	he current world ranking	0	DATE
+1.0	Argentina	winner over	Nicolas Mahut	LOCATION	PERSON
+0.4672162762520059	game	take than	he world ranking	0	0
+1.0	ancic	have back	fight	0	0
+1.0	he	have	game take than he world ranking	0	0
+1.0	I	be close to	masters cup	0	0
+1.0	winners	have	lot	O	O
+1.0	Dan King-Turner	go down	6-3 to qualifier Juan Monaco	PERSON	NUMBER
+1.0	Second seed Mario Ancic	be	beaten finalist	PERSON	0
+1.0	second seed Mario Ancic	secure round place in	Heineken Open here Wednesday	DURATION	MISC
+1.0	Second seed Mario Ancic	be finalist at	Auckland	PERSON	LOCATION
+1.0	my	have	game	O	O
+1.0	he	be	big	0	0
+1.0	I	be close to	very masters cup for top eight year	0	NUMBER
+1.0	seed Mario Ancic	have	battle	PERSON	DURATION
+1.0	I	be close to	very masters cup for top eight last year	0	NUMBER
+1.0	Second seed Mario Ancic	be	finalist	PERSON	0
+1.0	his	have	round match	O	O
+1.0	he	have	game	0	0
+1.0	Mario Ancic	be	second	PERSON	DURATION
+1.0	seed Mario Ancic	secure round place in	Heineken Open here Wednesday	PERSON	MISC
+1.0	Dan King-Turner	go	6-3 to argentinian qualifier Juan Monaco	PERSON	NUMBER
+1.0	Second seed Mario Ancic	be finalist at_time	year	PERSON	DATE
+1.0	I	be close to	very masters cup	0	0
+1.0	Chile	have	Olympic Champion Nicolas Massu	PERSON	LOCATION
+1.0	I	can hit	lot	0	0
+1.0	Second seed Mario Ancic	be	beaten finalist at Auckland year	PERSON	LOCATION
+1.0	croatian	be set	serve for match at 6-5	0	NUMBER
+1.0	play	be	stop	0	0
+1.0	Dan King-Turner	go down	6-3 to argentinian qualifier Juan Monaco	PERSON	NUMBER
+1.0	Juan Monaco	be to	argentinian	PERSON	0
+1.0	I	can hit	lot of winner	0	0
+1.0	France	have	Nicolas Mahut	PERSON	LOCATION
+1.0	he	have	game take than he current world ranking of nine	0	DATE
+1.0	second seed Mario Ancic	have	battle	DURATION	DURATION
+1.0	second seed Mario Ancic	battle	hard	DURATION	DURATION
+1.0	Nicolas Massu	be of	Chile	PERSON	LOCATION
+1.0	french Open winner	be in	2003	MISC	DATE
+1.0	second seed Mario Ancic	secure round place in	Heineken Open	DURATION	MISC
+1.0	Juan Ignaciu Chela	be of	Argentina	PERSON	LOCATION
+1.0	Ancic	force	set	PERSON	0
+1.0	Second seed Mario Ancic	be	beaten finalist at Auckland last year	PERSON	LOCATION
+1.0	I	be close to	masters cup for top eight last year	0	NUMBER
+1.0	Nicolas Massu	be by	Olympic	PERSON	MISC
+1.0	he 288th-ranked opponent	be in	second	0	ORDINAL
+1.0	Gaston Gaudio	let down	he	PERSON	0
+0.4672162762520059	game	take than	he world ranking nine	0	NUMBER
+1.0	Second seed Mario Ancic	have	Association tour match	O	O
+1.0	Dan King-Turner	go	6-3 to qualifier Juan Monaco	PERSON	NUMBER
+1.0	he	have	game take	0	0
+1.0	I	be close to	masters cup for top eight year	0	NUMBER
+0.36632681049637295	Gaston Gaudio	serve	let	PERSON	0
+1.0	I	be close to	very masters cup last year	0	DATE
+1.0	Second seed Mario Ancic	be beaten finalist at_time	year	PERSON	DATE
+1.0	Argentina	have	Juan Ignaciu Chela	PERSON	LOCATION
+1.0	Dan King-Turner	player in	tournament	PERSON	0
+1.0	seed Mario Ancic	have	battle against element	PERSON	DURATION

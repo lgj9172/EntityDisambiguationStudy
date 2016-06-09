@@ -1,0 +1,69 @@
+1.0	Matt Carroll	score	eight consecutive point include two basket	PERSON	NUMBER
+1.0	Minnesota 's	win for	time	LOCATION	0
+1.0	NBA	revert after	player complaint about ball	ORGANIZATION	0
+1.0	shot	score	season-high 21 point	0	NUMBER
+1.0	the NBA	have	regulation ball	O	O
+1.0	Matt Carroll	score	eight point for Bobcats	PERSON	NUMBER
+1.0	NBA	revert to	its regulation ball	ORGANIZATION	0
+1.0	Minnesota 's	post comeback in	franchise history	LOCATION	0
+1.0	Kevin Garnett	celebrate return with	performance	PERSON	0
+1.0	NBA	revert after	player complaint about ball introduce	ORGANIZATION	0
+1.0	Matt Carroll	score	eight consecutive point include two basket from arc	PERSON	NUMBER
+1.0	Matt Carroll	score	eight point for Bobcats include two basket	PERSON	NUMBER
+1.0	Matt Carroll	score	eight point include two basket from arc	PERSON	NUMBER
+1.0	NBA	revert after	player complaint about synthetic ball introduce	ORGANIZATION	0
+1.0	Kevin Garnett	one of	most vocal critic	PERSON	0
+1.0	Kevin Garnett	celebrate return with	32-point performance in Minnesota 's 102-96 victory	PERSON	NUMBER
+1.0	Kevin Garnett	celebrate return over	Charlotte	PERSON	LOCATION
+1.0	Minnesota 's	win for	fourth time in six game	LOCATION	ORDINAL
+1.0	Minnesota 's	use early	14-0 run	LOCATION	NUMBER
+1.0	leather ball	have	return	O	O
+1.0	National Basketball Association	of	leather ball	ORGANIZATION	0
+1.0	Matt Carroll	score	eight consecutive point for Bobcats include two basket	PERSON	NUMBER
+1.0	9-of-18 shot	score	21 point	0	NUMBER
+1.0	Matt Carroll	score	eight consecutive point for Bobcats include two basket from arc	PERSON	NUMBER
+1.0	ball	have	critics	O	O
+1.0	fourth time	be in	six game	ORDINAL	NUMBER
+1.0	Minnesota 's	win for	fourth time	LOCATION	ORDINAL
+1.0	Kevin Garnett	celebrate return with	32-point performance	PERSON	0
+1.0	Matt Carroll	score	eight point	PERSON	NUMBER
+1.0	National Basketball Association	have	leather ball	O	ORGANIZATION
+1.0	NBA	revert after	player complaint about high-tech synthetic ball	ORGANIZATION	0
+1.0	critics	have	one	NUMBER	O
+1.0	Kevin Garnett	celebrate	return of National Basketball Association 's leather ball	PERSON	ORGANIZATION
+1.0	Minnesota 's	win for	time in six game	LOCATION	NUMBER
+1.0	Minnesota 's	post	fourth-largest comeback	LOCATION	ORDINAL
+1.0	Matt Carroll	score	eight point for Bobcats include two basket from arc	PERSON	NUMBER
+1.0	32-point performance	be in	Minnesota 's 102-96 victory	0	NUMBER
+1.0	82-80 lead	be with	8:18	0	TIME
+1.0	Kevin Garnett	celebrate return with	performance in Minnesota 's 102-96 victory	PERSON	NUMBER
+1.0	9-of-18 shot	score	season-high 21 point	0	NUMBER
+1.0	Timberwolves	rally from	20-point deficit	ORGANIZATION	0
+1.0	Minnesota	have	victory	O	LOCATION
+1.0	NBA	revert to	its old regulation ball	ORGANIZATION	0
+1.0	NBA	revert after	player complaint	ORGANIZATION	0
+1.0	Minnesota 's	trail	50-30	LOCATION	NUMBER
+0.9715202504449502	Kevin Garnett	one of	most vocal critic of synthetic ball	PERSON	0
+1.0	Kevin Garnett	celebrate return at_time	Monday	PERSON	DATE
+1.0	NBA	revert after	player complaint about high-tech ball	ORGANIZATION	0
+1.0	Matt Carroll	score	eight consecutive point for Bobcats	PERSON	NUMBER
+1.0	Kevin Garnett	celebrate	return	PERSON	0
+1.0	9-of-18 shot	score	Blount	0	PERSON
+1.0	NBA	revert after	player complaint about high-tech ball introduce	ORGANIZATION	0
+0.9715202504449502	Kevin Garnett	one of	vocal critic of synthetic ball	PERSON	0
+1.0	Minnesota 's	post	comeback	LOCATION	0
+1.0	Minnesota	in	102-96 victory	LOCATION	NUMBER
+0.9715202504449502	Kevin Garnett	one	most vocal critic of synthetic ball	PERSON	0
+1.0	Matt Carroll	score	eight point include two basket	PERSON	NUMBER
+1.0	NBA	revert after	player complaint about high-tech synthetic ball introduce	ORGANIZATION	0
+1.0	shot	score	Blount	0	PERSON
+1.0	shot	score	21 point	0	NUMBER
+1.0	Kevin Garnett	also grab	14 rebound	PERSON	NUMBER
+1.0	Matt Carroll	score	eight consecutive point	PERSON	NUMBER
+1.0	Charlotte	be in	the fourth quarter	LOCATION	DATE
+0.9715202504449502	Kevin Garnett	one	vocal critic of synthetic ball	PERSON	0
+1.0	Matt Carroll	put	they	PERSON	0
+1.0	Minnesota 's	use	14-0 run	LOCATION	NUMBER
+1.0	Kevin Garnett	grab	14 rebound	PERSON	NUMBER
+1.0	NBA	revert after	player complaint about synthetic ball	ORGANIZATION	0
+1.0	Timberwolves	rally from	deficit	ORGANIZATION	0

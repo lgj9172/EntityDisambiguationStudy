@@ -1,0 +1,89 @@
+1.0	consumer price	be up compare with	same month of 2005	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with month	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare after 1.8 percent in November	0	DATE
+1.0	consumer price	be compare with	month of 2005	0	DATE
+1.0	consumer price	be	compare with month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with same month after 1.8 percent in November	0	DATE
+1.0	consumer price	be compare after	annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with month after annual 1.8 percent in November	0	DATE
+1.0	italian inflation	come to	2.1 percent in 2006	0	PERCENT
+1.0	consumer price	be	compare with same month after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month of 2005 after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with month after 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with same month of 2005 after 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with month of 2005 after 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with same month after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare	0	PERCENT
+1.0	consumer price	be up compare with	month of 2005	0	DATE
+1.0	consumer price	be up compare with	same month	0	DATE
+1.0	1.9 percent	report at_time	Thursday	PERCENT	DATE
+1.0	consumer price	be	up 1.9 percent compare after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with same month of 2005 after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare	0	0
+1.0	consumer price	be compare with	month	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with same month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare	0	0
+1.0	consumer price	be	up 1.9 percent compare with month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with month of 2005 after 1.8 percent	0	PERCENT
+1.0	government	have foresee	inflation	0	0
+1.0	consumer price	be compare after	annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with same month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	percent	have	inflation	O	PERCENT
+1.0	consumer price	be	compare with same month after 1.8 percent	0	PERCENT
+1.0	italian inflation	come to	2.1 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with same month after 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with month after 1.8 percent	0	PERCENT
+1.0	government	have foresee	inflation of 2.0 percent	0	PERCENT
+1.0	consumer price	be	compare with same month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with month after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month after 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with same month after 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with same month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be up compare after	1.8 percent in November	0	DATE
+1.0	consumer price	be up compare after	1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with same month of 2005 after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up compare with month after 1.8 percent in November	0	DATE
+1.0	consumer price	be up compare with	month	0	DATE
+1.0	1.8 percent	be in	November	PERCENT	DATE
+1.0	consumer price	be	up 1.9 percent compare with month after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with month after 1.8 percent	0	PERCENT
+1.0	2005	have	month	DATE	DATE
+1.0	consumer price	be compare with	same month	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be in	December	0	DATE
+1.0	consumer price	be	up compare with same month of 2005 after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with same month of 2005 after 1.8 percent	0	PERCENT
+1.0	1.9 percent	be in	the previous year	PERCENT	DATE
+1.0	consumer price	be compare with	same month of 2005	0	DATE
+1.0	consumer price	be compare after	1.8 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with month of 2005 after annual 1.8 percent	0	PERCENT
+1.0	2.1 percent	be in	2006	PERCENT	DATE
+1.0	inflation	come to	2.1 percent	0	PERCENT
+1.0	consumer price	be compare after	1.8 percent in November	0	DATE
+1.0	inflation	come to	2.1 percent in 2006	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with same month of 2005	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with month after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with month of 2005 after 1.8 percent	0	PERCENT
+1.0	consumer price	be up compare after	annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with same month of 2005 after 1.8 percent	0	PERCENT
+1.0	government	have foresee	inflation of 2.0 percent for 2006	0	PERCENT
+1.0	consumer price	be	up compare with same month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with month of 2005 after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	compare with month after annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare after 1.8 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with same month after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up 1.9 percent compare with same month after annual 1.8 percent	0	PERCENT
+1.0	consumer price	be	up 1.9 percent compare with month of 2005	0	PERCENT
+1.0	consumer price	be up compare after	annual 1.8 percent in November	0	DATE
+1.0	consumer price	be	compare with month of 2005 after 1.8 percent in November	0	DATE
+1.0	consumer price	be	up compare with month of 2005 after annual 1.8 percent	0	PERCENT

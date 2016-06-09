@@ -1,0 +1,12 @@
+1.0	car bomb	wound	22 near gas station	0	NUMBER
+1.0	medic	admit	those	0	0
+1.0	capital	have	streets	O	O
+1.0	medic	admit	those wound	0	0
+1.0	Baghdad	have	Mansour district	O	LOCATION
+1.0	defence ministry official	tell	afp	0	0
+1.0	Baghdad	at	Yarmuk hospital	LOCATION	LOCATION
+1.0	car bomb	kill	at least 13 people	0	NUMBER
+1.0	Baghdad	in	upscale Mansour district	LOCATION	LOCATION
+1.0	Baghdad	have	Yarmuk hospital	O	LOCATION
+0.9859773795464108	people	13 at	least	0	0
+1.0	medic	admit	those wound in blast	0	0

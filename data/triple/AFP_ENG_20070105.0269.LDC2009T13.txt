@@ -1,0 +1,31 @@
+1.0	US	open	6-3 6-2	MISC	NUMBER
+1.0	Sharapova	will play	winner	PERSON	0
+1.0	Patty Schnyder	have	winner	O	PERSON
+1.0	season	have	Grand Slam	MISC	O
+1.0	Russian ace Maria Sharapova	have	quarter	O	O
+1.0	Russian ace Maria Sharapova	have	Open preparations	O	O
+1.0	season	's slam be	australian Open	0	MISC
+1.0	Sharapova	will play	winner of second semi-final between world number five Kim Clijsters	PERSON	ORDINAL
+1.0	Sharapova	will play	winner of five Kim Clijsters	PERSON	PERSON
+1.0	season	for	Grand Slam	0	MISC
+1.0	world	have	women	O	O
+1.0	Kim Clijsters	be of	second	PERSON	ORDINAL
+1.0	China	over	Yan Zi	LOCATION	ORGANIZATION
+1.0	A downhearted Dementieva	have	loss	O	O
+1.0	women	have	Eight	NUMBER	O
+1.0	Maria Sharapova	be	russian	PERSON	0
+1.0	Switzerland	have	Patty Schnyder	LOCATION	PERSON
+1.0	Kim Clijsters	have	winner	O	PERSON
+1.0	China	have	Yan Zi	ORGANIZATION	LOCATION
+1.0	game	have	part	O	O
+1.0	Switzerland	have	Patty Schnyder	PERSON	LOCATION
+1.0	Elena Dementieva	be in	Hong Kong invitational	PERSON	LOCATION
+1.0	Sharapova	will play	winner of second five Kim Clijsters	PERSON	ORDINAL
+1.0	Sharapova	will play	winner of second semi-final between belgian world number five Kim Clijsters	PERSON	ORDINAL
+1.0	A downhearted Dementieva	have	game	O	O
+1.0	them	have	each	O	O
+1.0	Dementieva	blame	she loss	PERSON	0
+1.0	Sharapova	will play	winner of second semi-final five Kim Clijsters	PERSON	ORDINAL
+1.0	US	open	finalist 3-6	MISC	NUMBER
+1.0	downhearted Dementieva	blame	she loss	PERSON	0
+1.0	world	of	top woman	0	0

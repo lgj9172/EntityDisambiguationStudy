@@ -1,0 +1,86 @@
+1.0	first time	be in	four year	ORDINAL	DURATION
+1.0	first time	be in	nearly four year	ORDINAL	DURATION
+1.0	then	develop	necrosis	0	0
+1.0	Landis	appear before	anti-doping agency on February 8	PERSON	DATE
+1.0	Landis	would	would rider	PERSON	0
+1.0	Landis	would	would first rider in modern era	PERSON	ORDINAL
+1.0	then	develop	avascular necrosis	0	0
+1.0	Lance Armstrong	be compatriot of	US	PERSON	LOCATION
+1.0	pain	have	elimination	O	O
+1.0	Landis	would	would first rider in modern era strip	PERSON	ORDINAL
+1.0	Floyd Landis	be cycling without	pain for first time in four year follow hip operation	PERSON	ORDINAL
+1.0	Floyd Landis	be cycling without	pain for time in four year	PERSON	DURATION
+1.0	Landis	be call	appear before french agency on February 8	PERSON	DATE
+1.0	Landis	have	neck	O	O
+0.029356563027130078	Landis	ride in	he neck	PERSON	0
+1.0	Landis	would	would first rider in era strip of triumph	PERSON	ORDINAL
+1.0	his	have	pain	O	O
+1.0	Landis	would	would rider in modern era strip of triumph	PERSON	0
+1.0	Landis	appear before	french anti-doping agency	PERSON	0
+1.0	Landis	appear before	french anti-doping agency on February 8	PERSON	DATE
+1.0	Landis	be call	appear before agency	PERSON	0
+1.0	US compatriot Lance Armstrong	win	he Tour de France in row	LOCATION	LOCATION
+1.0	Landis	be call	appear before agency on February 8	PERSON	DATE
+1.0	Landis	be	call	PERSON	0
+1.0	would first rider	be in	modern era strip of triumph	ORDINAL	0
+1.0	Landis	appear before	french agency on February 8	PERSON	DATE
+1.0	Floyd Landis	be cycling without	pain for first time in four year	PERSON	ORDINAL
+1.0	Landis	be call	appear before french anti-doping agency on February 8	PERSON	DATE
+1.0	Floyd	be ride	uninhibited	PERSON	0
+1.0	Landis	have	Tour de France	LOCATION	O
+1.0	Landis	would	would first rider in era strip	PERSON	ORDINAL
+1.0	France	be in	row	LOCATION	0
+1.0	Landis	would	would first rider in modern era strip of triumph	PERSON	ORDINAL
+1.0	Floyd	be ride	uninhibited for time in nearly four year	PERSON	DURATION
+1.0	Floyd	be ride	uninhibited for time	PERSON	0
+1.0	Landis	would	would rider in modern era	PERSON	0
+1.0	Floyd Landis	be cycling without	pain for time in four year follow hip operation	PERSON	DURATION
+1.0	US compatriot Lance Armstrong	win	he Tour de France	LOCATION	LOCATION
+1.0	Landis	appear before	agency on February 8	PERSON	DATE
+1.0	Landis	be call	appear before french agency	PERSON	0
+1.0	Landis	have	hip	O	O
+1.0	Lance Armstrong	be	US	PERSON	LOCATION
+1.0	length	restore to	he femur	0	0
+1.0	Landis	find	guilty	PERSON	0
+1.0	Landis	appear before	french agency	PERSON	0
+1.0	Landis	would	would rider in modern era strip	PERSON	0
+1.0	Landis	appear before	anti-doping agency	PERSON	0
+1.0	it	be reveal on	Friday	0	DATE
+1.0	Landis	be call	appear before anti-doping agency on February 8	PERSON	DATE
+1.0	his	have	femur	O	O
+1.0	normal length	restore to	he femur	0	0
+1.0	Landis	would	would first rider in era	PERSON	ORDINAL
+1.0	Floyd	be ride	uninhibited for first time in nearly four year	PERSON	ORDINAL
+1.0	Landis	would	would rider in era strip of triumph	PERSON	0
+1.0	Floyd Landis	be	cycling	PERSON	0
+1.0	Tour de France champion embattled	be in	doping controversy	MISC	0
+1.0	Tour de France title	have	stripped	O	O
+0.029356563027130078	Landis	ride in	he neck help	PERSON	0
+1.0	Floyd Landis	champion in	doping controversy	PERSON	0
+1.0	testosterone	have	levels	O	O
+1.0	Landis	would	would first rider	PERSON	ORDINAL
+1.0	Floyd Landis	be cycling accord to	he website	PERSON	0
+1.0	then	develop necrosis in	he hip	0	0
+1.0	Landis	be call	appear	PERSON	0
+1.0	triumph	have	stripped	O	O
+1.0	Landis	would	would rider in era	PERSON	0
+1.0	Floyd Landis	be cycling without	pain for time	PERSON	0
+1.0	Floyd Landis	have	website	O	O
+1.0	Landis	ride	2003 tour	PERSON	DATE
+1.0	Floyd Landis	be cycling without	pain for first time	PERSON	ORDINAL
+1.0	US compatriot Lance Armstrong	win	he fifth Tour de France in row	LOCATION	LOCATION
+1.0	Landis	be call	appear before french anti-doping agency	PERSON	0
+1.0	his	have	result	O	O
+1.0	it	be	reveal	0	0
+1.0	his	have	samples	O	O
+1.0	then	develop necrosis in	he right hip	0	0
+1.0	Floyd	be ride	uninhibited for first time	PERSON	ORDINAL
+1.0	France	be	fifth	LOCATION	ORDINAL
+0.029356563027130078	Landis	ride with	pin	PERSON	0
+1.0	His	have	power tests	O	O
+1.0	Landis	would	would rider in era strip	PERSON	0
+1.0	Landis	appear before	agency	PERSON	0
+1.0	motion	have	strength	O	O
+1.0	Floyd Landis	be cycling without	pain	PERSON	0
+1.0	US compatriot Lance Armstrong	win	he fifth Tour de France	LOCATION	LOCATION
+1.0	Landis	be call	appear before anti-doping agency	PERSON	0

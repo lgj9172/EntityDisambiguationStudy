@@ -1,0 +1,91 @@
+1.0	crowded bus	attack in	two day	0	DURATION
+1.0	the capital Colombo	have	south	O	LOCATION
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters 85 kilometre south of Colombo	PERSON	NUMBER
+1.0	15 people	wound in	Sri Lanka	NUMBER	LOCATION
+1.0	powerful bomb	go off inside	crowded bus	0	0
+1.0	bomb	go inside	second attack in two day	0	ORDINAL
+1.0	powerful bomb	go inside	second attack in two day	0	ORDINAL
+1.0	bomb	go inside	such attack in two day	0	DURATION
+1.0	bus	be drive along	tourist strip between Ambalangoda	0	LOCATION
+1.0	15 people	wound on	Saturday	NUMBER	DATE
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters south	PERSON	0
+1.0	attack	be	similar	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters	PERSON	0
+1.0	bomb	go off inside	second attack in two day	0	ORDINAL
+1.0	bomb	go off inside	bus	0	0
+1.0	second such attack	be in	two day	ORDINAL	DURATION
+1.0	powerful bomb	go inside	such attack in two day	0	DURATION
+1.0	powerful bomb	go inside	second such attack in two day	0	ORDINAL
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters 85 kilometre south	PERSON	NUMBER
+1.0	local police inspector Upul Ariyaratne	say close to	blast site	PERSON	0
+1.0	powerful bomb	go inside	attack in two day	0	DURATION
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters at Ambalangoda 85 kilometre south of Colombo	PERSON	NUMBER
+1.0	people	wound in	southern Sri Lanka	0	LOCATION
+1.0	bomb	go off inside	such attack in two day	0	DURATION
+1.0	powerful bomb	go off inside	second such attack in two day	0	ORDINAL
+1.0	people	wound on	Saturday	0	DATE
+1.0	attack	be similar to	bus blast	0	0
+1.0	powerful bomb	go inside	second attack	0	ORDINAL
+1.0	powerful bomb	go off inside	second such attack	0	ORDINAL
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters at Ambalangoda 85 kilometre south	PERSON	NUMBER
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters south of Colombo	PERSON	LOCATION
+1.0	people	wound in	Sri Lanka	0	LOCATION
+1.0	passenger	be	when kill	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters at Ambalangoda south of Colombo	PERSON	LOCATION
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters at Ambalangoda south	PERSON	LOCATION
+1.0	powerful bomb	go inside	such attack	0	0
+1.0	powerful bomb	go off inside	bus	0	0
+1.0	bomb	go off along	coastal highway	0	0
+1.0	bomb	go inside	second attack	0	ORDINAL
+1.0	bomb	go off along	highway	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters 85 kilometre south	PERSON	NUMBER
+1.0	15 people	wound in	southern Sri Lanka	NUMBER	LOCATION
+1.0	six passenger	be	kill	NUMBER	0
+1.0	bomb	go off inside	second attack	0	ORDINAL
+1.0	bomb	go inside	attack	0	0
+1.0	bomb	go off inside	crowded bus	0	0
+1.0	bomb	go off along	main coastal highway	0	0
+1.0	attack	be similar at_time	Friday	0	DATE
+1.0	kilometres	have	distance	O	O
+1.0	powerful bomb	go inside	attack	0	0
+1.0	bomb	go along	coastal highway	0	0
+1.0	powerful bomb	go inside	crowded bus	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters 85 kilometre south of Colombo	PERSON	NUMBER
+1.0	bomb	go along	main coastal highway	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	powerful bomb	go inside	bus	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters at Ambalangoda	PERSON	LOCATION
+1.0	local police inspector Upul Ariyaratne	have	headquarters	O	O
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters at Ambalangoda 85 kilometre south of Colombo	PERSON	NUMBER
+1.0	bomb	go off inside	second such attack in two day	0	ORDINAL
+1.0	bomb	go off inside	attack	0	0
+1.0	powerful bomb	go off inside	such attack	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters at Ambalangoda	PERSON	LOCATION
+1.0	attack	be	similar to bus blast Friday	0	DATE
+1.0	powerful bomb	go off inside	attack	0	0
+1.0	bomb	go off inside	second such attack	0	ORDINAL
+1.0	bomb	go inside	attack in two day	0	DURATION
+1.0	bomb	go inside	crowded bus	0	0
+1.0	bomb	go along	highway	0	0
+1.0	powerful bomb	go off inside	second attack in two day	0	ORDINAL
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters south	PERSON	0
+1.0	powerful bomb	go off inside	such attack in two day	0	DURATION
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters south of Colombo	PERSON	LOCATION
+1.0	powerful bomb	go off inside	attack in two day	0	DURATION
+1.0	bomb	go off along	main highway	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters	PERSON	0
+1.0	passenger	be	kill	0	0
+1.0	local police inspector Upul Ariyaratne	say from	he headquarters at Ambalangoda south	PERSON	LOCATION
+1.0	bomb	go inside	such attack	0	0
+1.0	bomb	go along	main highway	0	0
+1.0	powerful bomb	go off inside	second attack	0	ORDINAL
+1.0	bomb	go off inside	attack in two day	0	DURATION
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters at Ambalangoda 85 kilometre south	PERSON	NUMBER
+1.0	bus	be drive along	tourist strip	0	0
+1.0	bomb	go off inside	such attack	0	0
+1.0	bomb	go inside	second such attack in two day	0	ORDINAL
+1.0	six passenger	be	when kill	NUMBER	0
+1.0	bomb	go inside	second such attack	0	ORDINAL
+1.0	local police inspector Upul Ariyaratne	say from	he regional headquarters at Ambalangoda south of Colombo	PERSON	LOCATION
+1.0	powerful bomb	go inside	second such attack	0	ORDINAL
+1.0	bomb	go inside	bus	0	0

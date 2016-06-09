@@ -1,0 +1,48 @@
+1.0	military	topple	he elected government	0	0
+1.0	foreign ministry	have revoke	diplomatic passport	0	0
+1.0	masterminding	have	Thaksin	PERSON	O
+1.0	ministry	have revoke	diplomatic passport of Thaksin	0	PERSON
+1.0	Thaksin	have	passports	O	PERSON
+1.0	revocation	be	already effective	0	0
+1.0	foreign ministry	have revoke passport because of	change security situation	0	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	security situation	have	revoked	O	O
+1.0	ministry	have revoke passport because of	change security situation	0	0
+1.0	he	be in	currently Hong Kong	0	LOCATION
+1.0	Thaksin	be in	New York	PERSON	LOCATION
+1.0	he	be in	currently Hong Kong follow stay	0	LOCATION
+1.0	wife	have	passports	O	O
+1.0	ministry	have revoke	passport of Thaksin	0	PERSON
+1.0	three people	prompt	government	0	0
+1.0	Thaksin	have deny	involvement in attack	PERSON	0
+1.0	he	be in	Hong Kong follow stay in London	0	LOCATION
+1.0	military	topple	he government	0	0
+1.0	foreign ministry	have revoke	passport of Thaksin	0	PERSON
+1.0	foreign ministry	have revoke passport because of	security situation	0	0
+1.0	minister Thaksin Shinawatra	have	passport	O	PERSON
+1.0	deadly bombing	be in	Bangkok	0	LOCATION
+1.0	revocation	be	effective	0	0
+1.0	stay	be in	London	0	LOCATION
+1.0	he	be in	currently Hong Kong follow stay in London	0	LOCATION
+1.0	foreign ministry	have revoke	passport	0	0
+1.0	his	have	government	O	O
+1.0	people	prompt	government	0	0
+1.0	Thailand	have	government	O	LOCATION
+1.0	ministry	have revoke	diplomatic passport	0	0
+1.0	faction	coordinate	bomb attack	0	0
+1.0	Thailand	be on	Wednesday	LOCATION	DATE
+1.0	Thaksin	have	have already notify	PERSON	0
+1.0	faction	coordinate bomb attack on	New Year 's Eve	0	DATE
+1.0	his	have	passport	O	O
+1.0	heighten security concern	be in	wake of deadly bombing	0	0
+1.0	bombings	have	wake	O	O
+1.0	faction	coordinate bomb attack in	Bangkok	0	LOCATION
+1.0	foreign ministry	have revoke	diplomatic passport of Thaksin	0	PERSON
+1.0	Thaksin	have	wife	O	O
+1.0	ministry	have revoke	passport	0	0
+1.0	Thailand	have	military-installed government	LOCATION	0
+1.0	he	be in	Hong Kong	0	LOCATION
+1.0	Thaksin	have	have notify	PERSON	0
+1.0	ministry	have revoke passport because of	security situation	0	0
+1.0	he	be in	Hong Kong follow stay	0	LOCATION
+1.0	security concerns	have	revoked	O	O

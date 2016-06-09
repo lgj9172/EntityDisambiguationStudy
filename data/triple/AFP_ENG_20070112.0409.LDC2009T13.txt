@@ -1,0 +1,150 @@
+1.0	US senator	visit	Iraq	LOCATION	LOCATION
+1.0	unveil US strategy	increase pressure over	its alleged interference	LOCATION	0
+1.0	Washington	announce with	tension	LOCATION	0
+1.0	Evan Bayh	be with	democratic	PERSON	0
+1.0	Bush	convey message at_time	week	PERSON	DATE
+0.9059273384080121	President George W. Bush	quell	violence	PERSON	0
+1.0	the newly unveiled US strategy	have	interference	O	O
+1.0	Rice	have	visit	O	PERSON
+1.0	Secretary of State Condoleezza Rice	depart friday evening in	Israel	PERSON	LOCATION
+1.0	top US diplomat	have promise at_time	month	LOCATION	DATE
+1.0	his	have	strategy	O	O
+1.0	Washington	also announce with	tension between United States	LOCATION	LOCATION
+1.0	John McHugh	be	Republican	PERSON	MISC
+1.0	top US diplomat	redouble	effort	LOCATION	0
+1.0	unveil US strategy	increase pressure over	its alleged interference in Iraq	LOCATION	LOCATION
+1.0	Secretary of State Condoleezza Rice	face	battle	0	0
+1.0	Thursday US	early force in	sign of new effort	DATE	0
+1.0	iranian influence	promote	Bush administration 's Iraq plan	0	LOCATION
+1.0	Iran	have	moves	O	LOCATION
+1.0	editorialist	cast doubt on	plan	0	0
+1.0	Rice	have	focus on Iraq	PERSON	LOCATION
+1.0	Thursday US	force in	sign of new effort	DATE	0
+1.0	US diplomat	have promise at_time	month	LOCATION	DATE
+1.0	Condoleezza Rice	leave for	Middle East	PERSON	LOCATION
+1.0	US diplomat	redouble	effort	LOCATION	0
+0.9059273384080121	President George W. Bush	quell violence with	deployment of 21,500 troops	PERSON	NUMBER
+1.0	Rice	have	visit to Kuwait	PERSON	LOCATION
+1.0	Rice	say at	Congress Thursday of iranian influence	PERSON	DATE
+1.0	Washington	announce with	tension between United States	LOCATION	LOCATION
+1.0	Secretary of State Condoleezza Rice	depart	Friday evening	PERSON	TIME
+1.0	Oman	have	Gulf states	O	LOCATION
+1.0	Bush	understand	nothing	PERSON	0
+1.0	Secretary of State Condoleezza Rice	stress	she goal	PERSON	0
+1.0	George W. Bush	during	tenure	PERSON	0
+1.0	violence	be in	Iraq	0	LOCATION
+1.0	Bush	convey message to	German Chancellor Angela Merkel	PERSON	MISC
+1.0	US senator	announce	plan	LOCATION	0
+1.0	it	say	refer	0	0
+1.0	Bush administration	have	Iraq plan	O	O
+1.0	her	have	trip	O	O
+1.0	influence	promote	Bush administration 's Iraq plan	0	LOCATION
+1.0	Thursday US	force in	sign	DATE	0
+1.0	her	have	departure	O	O
+1.0	US senator	announce plan at_time	Friday	LOCATION	DATE
+1.0	Bush	convey message at_time	last week	PERSON	DATE
+0.9059273384080121	President George W. Bush	quell	violence in Iraq	PERSON	LOCATION
+1.0	meeting	be with	foreign minister	0	0
+1.0	Rose Al-Yussuf newspaper	say in	Cairo	PERSON	LOCATION
+1.0	Condoleezza Rice	leave for	Middle East on Friday	PERSON	LOCATION
+0.6738321944407858	Rice	tell	lawmaker	PERSON	0
+1.0	editorialist	cast doubt at_time	Friday	0	DATE
+1.0	Thursday US	early force in	sign	DATE	0
+1.0	people	have	lives	O	O
+1.0	unveil US strategy	increase pressure over	its interference	LOCATION	0
+1.0	its alleged interference	be in	destabilizing Iraq	0	LOCATION
+1.0	Rice	say at	Congress Thursday	PERSON	DATE
+1.0	United Arab Emirates	have	Gulf states	O	LOCATION
+1.0	effort	resolve	israeli	0	0
+1.0	Saudi Arabia	have	Gulf states	O	LOCATION
+1.0	Middle East	be on	Friday	LOCATION	DATE
+1.0	Tehran	scorn	effort	LOCATION	0
+1.0	Qatar	have	Gulf states	O	LOCATION
+1.0	Iraq	have	government	O	LOCATION
+1.0	top US diplomat	have promise at_time	last month	LOCATION	DATE
+1.0	effort	have	sign	O	O
+1.0	Thursday US	force in	sign of effort	DATE	0
+1.0	Rice 's visit	will include meeting from	Gulf state of Saudi Arabia	PERSON	LOCATION
+1.0	she trip	rally	support	0	0
+1.0	influence	have	Congress Thursday	DATE	O
+1.0	Rice	have	focus	O	PERSON
+1.0	US strategy	increase pressure over	its interference in Iraq	LOCATION	LOCATION
+1.0	Washington	also announce with	two aircraft carrier battle group due	LOCATION	NUMBER
+1.0	Rice	say at	Congress Thursday of iranian influence in Middle East	PERSON	LOCATION
+1.0	states	have	interest	O	O
+1.0	Gulf	be for	several month	LOCATION	DURATION
+1.0	Bush	have	war plan	O	PERSON
+1.0	campaign	have	critic	O	O
+1.0	unveil US strategy	increase	pressure	LOCATION	0
+1.0	Secretary of State Condoleezza Rice	also stress	she goal	PERSON	0
+1.0	unveil US strategy	increase pressure over	its interference in Iraq	LOCATION	LOCATION
+1.0	Lebanon	have	support	O	LOCATION
+1.0	Rice 's visit	will include meeting from	Gulf state	PERSON	LOCATION
+1.0	Kuwait	have	Gulf states	O	LOCATION
+1.0	Bush	have	strategy	O	PERSON
+1.0	her	have	tour	O	O
+1.0	violence	turn security by	November	0	DATE
+1.0	Rice	say at	Congress Thursday of influence in Middle East	PERSON	LOCATION
+1.0	US senator	meanwhile announce plan at_time	Friday	LOCATION	DATE
+0.9059273384080121	President George W. Bush	quell violence with	deployment	PERSON	0
+1.0	Washington	announce with	two aircraft carrier battle group due	LOCATION	NUMBER
+1.0	departure	have	eve	O	O
+1.0	Bahrain	have	Gulf states	O	LOCATION
+1.0	Bush	have	strategy	PERSON	0
+1.0	unveil US strategy	increase	pressure on Iran	LOCATION	LOCATION
+1.0	Washington	also announce with	two aircraft carrier battle group	LOCATION	NUMBER
+1.0	editorialist	cast at_time	Friday	0	DATE
+1.0	US strategy	increase	pressure on Iran	LOCATION	LOCATION
+1.0	State	have	Secretary	O	ORGANIZATION
+1.0	Iran 's move	be in	region	LOCATION	0
+1.0	US senator	meanwhile announce	plan	LOCATION	0
+1.0	iranian influence	be in	Middle East	0	LOCATION
+1.0	iranian influence	promote	Bush administration 's new Iraq plan	0	LOCATION
+1.0	violence	turn security over	over iraqi force	0	0
+1.0	US military presence	be in	region	LOCATION	0
+1.0	Palestinians	have	support	O	MISC
+1.0	Sean McCormack	be spokesman of	US State Department	PERSON	LOCATION
+1.0	US strategy	increase pressure over	its alleged interference in Iraq	LOCATION	LOCATION
+1.0	Rice	say at	Congress Thursday of influence	PERSON	DATE
+1.0	Sean McCormack	be	US State Department	PERSON	LOCATION
+1.0	consensus	interest of	state	0	0
+1.0	Bush administration	have	new Iraq plan	PERSON	LOCATION
+1.0	violence	turn	security for country	0	0
+1.0	German Chancellor Angela Merkel	have	goals	O	O
+1.0	Iran	have	aggression	O	LOCATION
+1.0	Thursday US	early force in	sign of effort	DATE	0
+1.0	violence	turn security over	over force	0	0
+1.0	course	have	support	O	O
+1.0	Bush	have	vision	PERSON	0
+1.0	Saudi Arabia	be to	Egypt	LOCATION	LOCATION
+1.0	Secretary of State Condoleezza Rice	travel to	Egypt Arabia	PERSON	LOCATION
+0.9059273384080121	President George W. Bush	quell violence with	deployment of additional 21,500 troops	PERSON	NUMBER
+1.0	Rice 's visit	will include	meeting	PERSON	0
+1.0	Bush	have	new war plan	PERSON	0
+1.0	Angela Merkel	be to	German	PERSON	MISC
+1.0	Washington	also announce with	tension	LOCATION	0
+1.0	effort	revive	mideast peace process	0	0
+1.0	Bush	have	vision	O	PERSON
+1.0	trip	have	Iran focus	O	O
+1.0	President George W. Bush	have	tenure	O	PERSON
+1.0	Iran	have	move in region	LOCATION	0
+1.0	US diplomat	have promise at_time	last month	LOCATION	DATE
+1.0	Secretary of State Condoleezza Rice	depart	Friday evening for talk Saturday	PERSON	DATE
+1.0	violence	turn	security	0	0
+1.0	President George W. Bush	unveil	he strategy	PERSON	0
+1.0	influence	promote	Bush administration 's new Iraq plan	0	LOCATION
+1.0	Bush	convey	same message	PERSON	0
+1.0	it	refer to	Baghdad	0	LOCATION
+1.0	US strategy	increase pressure over	its interference	LOCATION	0
+1.0	Washington	announce with	two aircraft carrier battle group	LOCATION	NUMBER
+0.6738321944407858	Rice	tell lawmaker in	Congress	PERSON	ORGANIZATION
+1.0	Tehran	scorn	international effort	LOCATION	0
+1.0	editorialist	cast on	plan	0	0
+1.0	US strategy	increase	pressure	LOCATION	0
+1.0	it	say	refer to Baghdad	0	LOCATION
+1.0	Secretary of State Condoleezza Rice	face	uphill battle	0	0
+1.0	Bush	convey	message	PERSON	0
+1.0	office	be in	destabilizing Iraq	0	LOCATION
+1.0	they	support	Iraq	0	LOCATION
+1.0	troops	have	deployment	O	O
+1.0	US strategy	increase pressure over	its alleged interference	LOCATION	0

@@ -1,0 +1,86 @@
+1.0	Iraq	have	stability	O	LOCATION
+1.0	Australia	have	Prime Minister John Howard	PERSON	LOCATION
+1.0	Japan	send troops to	country	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	defeat	would give	boost	0	0
+1.0	mistake	be	make	0	0
+1.0	Australia	hail	US President George W. Bush 's strategy	LOCATION	LOCATION
+1.0	Tokyo	so far offer	six billion dollar	LOCATION	MONEY
+1.0	Iraq 's neighbour	have	role play	LOCATION	0
+1.0	Taro Aso	be	Japanese	PERSON	MISC
+1.0	Tokyo	be	key	LOCATION	0
+1.0	rage unrest	be in	Iraq	0	LOCATION
+1.0	mistake	make	stake	0	0
+1.0	US policy	have	review	O	O
+1.0	Tokyo	so far offer	six billion dollar in debt waiver	LOCATION	MONEY
+1.0	Tokyo	offer	six billion dollar in debt waiver	LOCATION	MONEY
+1.0	Iraq 's neighbour	have	broader international community	LOCATION	0
+1.0	John Howard	be of	Australia	PERSON	LOCATION
+1.0	Japan	send troops to	country in conflict	LOCATION	0
+1.0	Iraq	have	neighbours	O	LOCATION
+1.0	Japanese Foreign Minister Taro Aso	welcome announcement in	Tokyo	PERSON	LOCATION
+1.0	Japan	send troops to	country in conflict since World War II	LOCATION	MISC
+1.0	Japan	send troops to	Iraq in its foreign deployment	LOCATION	LOCATION
+1.0	Iraq	between	community	LOCATION	0
+1.0	country	have	control	O	O
+1.0	Japan	expect us effort for	stabilisation of Iraq	LOCATION	LOCATION
+0.46482846885222034	attempt	crush	spiralling violence	0	0
+1.0	american defeat	be in	Iraq	0	LOCATION
+1.0	defeat	would give boost to	terrorism	0	0
+1.0	Iraq 's neighbour	have	role	LOCATION	0
+1.0	Japanese Foreign Minister Taro Aso	welcome	announcement	PERSON	0
+1.0	she	say in	statement	0	0
+1.0	Tokyo	far offer	six billion dollar	LOCATION	MONEY
+1.0	it	deploy	21,500 soldier	0	NUMBER
+1.0	their	have	differences	O	O
+1.0	Tokyo	offer	six billion dollar	LOCATION	MONEY
+1.0	Tokyo	be	key donor	LOCATION	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Australia	hail	US President George W. Bush 's new strategy	LOCATION	LOCATION
+1.0	Japan	send troops to	Iraq in its deployment	LOCATION	LOCATION
+1.0	Tokyo	be	donor	LOCATION	0
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	it	deploy	21,500 more soldier	0	NUMBER
+1.0	whose nation	contribute soldier to	invasion of Iraq	0	LOCATION
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	Iraq 's neighbour	have	broader community	LOCATION	0
+1.0	Tokyo	far offer	six billion dollar in debt waiver	LOCATION	MONEY
+1.0	Iraq 's neighbour	have	community	LOCATION	0
+1.0	whose	have	leaders	O	O
+1.0	Iraq	have	neighbour	LOCATION	0
+1.0	Australia	hail	Japan	LOCATION	LOCATION
+1.0	defeat	would give	unbelievable boost	0	0
+1.0	country	be in	conflict since World War II	0	MISC
+1.0	Iraq 's neighbour	have	international community	LOCATION	0
+1.0	Tokyo	be key donor to	Iraq	LOCATION	LOCATION
+1.0	George W. Bush	have	new strategy	PERSON	0
+1.0	Japan	send troops to	Iraq	LOCATION	LOCATION
+1.0	embassy	say in	Berlin	0	LOCATION
+1.0	Iraq	be in	its first foreign deployment	LOCATION	ORDINAL
+1.0	Japan	expect us effort for	stabilisation	LOCATION	0
+1.0	six billion dollar	be in	debt waiver	MONEY	0
+1.0	Helen Clark	be	New Zealand	PERSON	LOCATION
+1.0	1.5 billion dollar	be in	aid grant	MONEY	0
+1.0	its	have	communities	O	O
+1.0	Its	have	survival	O	O
+1.0	Australia	be ally of	US	LOCATION	LOCATION
+1.0	Japan	send troops to	Iraq in its first foreign deployment	LOCATION	ORDINAL
+1.0	Helen Clark	be prime minister of	New Zealand	PERSON	LOCATION
+1.0	whose nation	contribute soldier to	2003 invasion of Iraq	0	LOCATION
+1.0	Tokyo	be donor to	Iraq	LOCATION	LOCATION
+1.0	its	have	deployment	O	O
+1.0	US President George W. Bush	have	strategy	O	PERSON
+1.0	Australia	have	troop level	O	O
+1.0	Japanese Foreign Minister Taro Aso	pledge	continue	PERSON	0
+1.0	Japan	expect	US effort	LOCATION	LOCATION
+1.0	a very clear , calm	be	clear	0	0
+1.0	US plan	be in	10-minute telephone call	LOCATION	DURATION
+1.0	Japan	send troops to	Iraq in its first deployment	LOCATION	ORDINAL
+0.46482846885222034	attempt	crush	violence	0	0
+1.0	Japan	send	troops	LOCATION	0
+1.0	whose	have	nation	O	O
+1.0	Iraq	have	stabilisation	O	LOCATION
+1.0	a very clear , calm	be at	stake	0	0
+1.0	Iraq	have	security force	LOCATION	0
+1.0	japanese embassy	say in	Berlin	0	LOCATION
+1.0	Iraq	have	communities	O	LOCATION

@@ -1,0 +1,63 @@
+0.5249128563377864	US	open semi-finalist at_time	last year	MISC	DATE
+1.0	Paola Suarez	defeat	Tiantian Sun	PERSON	PERSON
+1.0	Thursday	in	quarter-final	DATE	0
+1.0	fourth seed Marion Bartoli	make	shock exit	PERSON	0
+0.5249128563377864	US	open semi-finalist at_time	year	MISC	DATE
+1.0	Greece 's Eleni Daniilidou in Thursday 's quarter-finals	winner of	title in 2003	PERSON	DATE
+0.9588533191859536	Greece 's Eleni Daniilidou in Thursday 's quarter-finals	winner of	title	PERSON	0
+1.0	Greece	have	Eleni Daniilidou	PERSON	LOCATION
+1.0	Yvonne Meusburger 2-6 6-3 6-3	match at_time	Wednesday	NUMBER	DATE
+1.0	fourth seed Marion Bartoli	make shock exit in	second round of Auckland Classic Wednesday	PERSON	ORDINAL
+1.0	fourth seed Marion Bartoli	make shock exit at	hand of countrywoman Emilie Loit	PERSON	PERSON
+1.0	countrywoman Emilie Loit	have	shots	O	O
+1.0	countrywoman Emilie Loit	have	forehand	O	O
+1.0	Marina Erakovic	be of	New Zealand	PERSON	LOCATION
+1.0	fourth seed Marion Bartoli	make shock exit in	round	PERSON	0
+1.0	she	be really go for	it	0	0
+1.0	argentinian Paola Suarez	defeat	Tiantian Sun of China 7-5 6-4	PERSON	NUMBER
+1.0	fourth seed Marion Bartoli	make shock exit in	second round	PERSON	ORDINAL
+1.0	Thursday	have	quarter-finals	O	DATE
+1.0	fourth seed Marion Bartoli	make shock exit in	round of Auckland Classic Wednesday	PERSON	DATE
+1.0	Daniela Hantuchova	be	third	PERSON	0
+1.0	argentinian Paola Suarez	defeat	Tiantian Sun	PERSON	PERSON
+1.0	that	last over	hour	0	DURATION
+1.0	Finland	over	Emma Laine	LOCATION	PERSON
+1.0	Greece 's Eleni Daniilidou in Thursday 's quarter-finals	battle	overcome	PERSON	0
+1.0	fourth seed Marion Bartoli	make shock exit at	hand	PERSON	0
+1.0	that	last just over	hour	0	DURATION
+1.0	Yvonne Meusburger	be in	other second round	PERSON	ORDINAL
+1.0	Finland	have	Emma Laine	PERSON	LOCATION
+1.0	Marion Bartoli	be of	France	PERSON	LOCATION
+1.0	Jelena Jankovic	say with	Jelena Jankovic	0	PERSON
+1.0	seed Marion Bartoli	make shock exit in	round	PERSON	0
+1.0	Greece	have	Eleni Daniilidou	LOCATION	PERSON
+1.0	title	be in	2003	0	DATE
+1.0	fourth seed Marion Bartoli of France	express	she frustration	PERSON	0
+1.0	Paola Suarez	be	argentinian	PERSON	0
+0.5249128563377864	US	open	semi-finalist	MISC	0
+1.0	Jelena Jankovic	have	encounter	O	O
+1.0	Tiantian Sun	be of	China	PERSON	LOCATION
+1.0	Paola Suarez	defeat	Tiantian Sun of China 7-5 6-4	PERSON	NUMBER
+1.0	seed Marion Bartoli	make shock exit at	hand of countrywoman Emilie Loit	PERSON	PERSON
+1.0	Jelena Jankovic	say of	she coming encounter	0	0
+1.0	New Zealand	have	Marina Erakovic	PERSON	LOCATION
+1.0	Marion Bartoli	be	fourth	PERSON	ORDINAL
+1.0	encounter	have	said	O	O
+1.0	Eleni Daniilidou	be in	Thursday 's quarter-final	PERSON	DATE
+1.0	Greece 's Eleni Daniilidou in Thursday 's quarter-finals	have	battle	PERSON	0
+1.0	France	have	seed Marion Bartoli	PERSON	LOCATION
+1.0	China	have	Tiantian Sun	PERSON	LOCATION
+1.0	seed Marion Bartoli	make	shock exit	PERSON	0
+1.0	seed Marion Bartoli	make shock exit in	second round	PERSON	ORDINAL
+1.0	Auckland Classic Wednesday	have	round	O	DATE
+1.0	seed Marion Bartoli	make shock exit in	round of Auckland Classic Wednesday	PERSON	DATE
+1.0	she	be go for	it	0	0
+1.0	title	have	winner	O	O
+1.0	seed Marion Bartoli	make shock exit at	hand	PERSON	0
+1.0	seed Marion Bartoli	make shock exit in	second round of Auckland Classic Wednesday	PERSON	ORDINAL
+1.0	US dollar tournament	have	round	O	O
+1.0	countrywoman Emilie Loit	have	frustration	O	O
+1.0	Jelena Jankovic	say of	she encounter	0	0
+1.0	countrywoman Emilie Loit	have	opponent	O	O
+1.0	countrywoman Emilie Loit	have	backhand	O	O
+1.0	countrywoman Emilie Loit	have	hands	O	PERSON

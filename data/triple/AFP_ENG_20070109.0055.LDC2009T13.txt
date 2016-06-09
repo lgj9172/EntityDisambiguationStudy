@@ -1,0 +1,126 @@
+1.0	prince	spend in	Blues regiment of Household Cavalry	0	ORGANIZATION
+1.0	he aide	say at_time	Tuesday	0	DATE
+1.0	Queen Elizabeth II	have	former press secretary	PERSON	0
+1.0	Diana	into	death in 1997 Paris car crash	PERSON	LOCATION
+1.0	Britain 's Prince William	have	mother Diana	PERSON	O
+1.0	grandmother	close to	favourite Windsor Castle residence	0	LOCATION
+1.0	engagement	have	time	DATE	O
+1.0	Middleton	have	lawyers	O	PERSON
+1.0	photographer	chase on	foot	0	0
+1.0	Middleton 's lawyer	be	say	PERSON	0
+1.0	Britain 's Prince William	have	aides	O	O
+1.0	intense spotlight	have draw	comparison	0	0
+1.0	Kate Middleton	have	car	O	O
+0.4161794567219067	lieutenant	know as	Cornet Wales Army	0	LOCATION
+1.0	Cornet Wales	be in	Army	LOCATION	ORGANIZATION
+1.0	Britain	have	William	LOCATION	PERSON
+1.0	Middleton 's lawyers	be	here so many year on	0	0
+1.0	Dickie Arbiter	draw	comparison	PERSON	0
+1.0	lawyer	meet	prepare for inquest	0	0
+1.0	William 's photogenic girlfriend	have	marriage	O	O
+1.0	grandmother	have	Windsor Castle residence	O	O
+1.0	lawyer	meet	prepare for long-awaited inquest into Diana 's death	0	PERSON
+1.0	she relationship	be with	Britain 's Prince William	0	PERSON
+1.0	William	on	photogenic girlfriend	PERSON	0
+1.0	News International	subsidiary of	media baron	ORGANIZATION	0
+1.0	west London	have	Chelsea district	O	LOCATION
+1.0	his girlfriend	have	birthday	DATE	O
+1.0	Kate Middleton	have	relationship	O	O
+1.0	his girlfriend	brave again	grow press pack	0	0
+1.0	she relationship	come under	scrutiny	0	0
+1.0	his	have	day	DURATION	O
+1.0	Queen Elizabeth II 's	have	home	O	O
+1.0	Rupert Murdoch	have	News Corp. empire	O	PERSON
+1.0	News International	use	paparazzi picture of Middleton	ORGANIZATION	LOCATION
+1.0	her	have	birthday	O	O
+1.0	Middleton	have	lawyer	PERSON	0
+1.0	he aide	say on	she 25th birthday	0	DATE
+1.0	tabloid	sun of	World	0	0
+1.0	Britain	have	Press Complaints Commission watchdog	O	LOCATION
+1.0	Middleton 's lawyers	be	so many year on	0	0
+1.0	he aide	say on	she birthday	0	DATE
+1.0	Middleton 's lawyers	be	here so year on	0	0
+1.0	photographer	chase after	she car	0	0
+1.0	paparazzi	block path despite	presence of police officer	0	0
+1.0	it	be	think	0	0
+1.0	Kate Middleton	have	paparazzi pictures	O	LOCATION
+1.0	Britain	have	Press Complaints Commission watchdog	LOCATION	ORGANIZATION
+1.0	lawyer	meet	prepare for long-awaited inquest	0	0
+1.0	World	have	Sun	MISC	O
+1.0	public	have	member	O	O
+0.4161794567219067	second lieutenant	know as	Cornet Wales	ORDINAL	LOCATION
+1.0	grandmother	's residence be	west of London	0	LOCATION
+1.0	Household Cavalry	have	Blues Royals regiment	O	ORGANIZATION
+1.0	Queen Elizabeth II	have	press secretary	O	PERSON
+1.0	Queen Elizabeth II 's former press secretary	tell	BBC television	0	ORGANIZATION
+1.0	his girlfriend	brave again	press pack	0	0
+1.0	media baron	have	subsidiary	O	O
+1.0	he grandmother 's favourite Windsor Castle residence	west of	London	LOCATION	LOCATION
+1.0	News International	have	newspapers	O	O
+1.0	lawyer	prepare for	inquest	0	0
+1.0	second lieutenant	be at	Combermere Barracks	ORDINAL	ORGANIZATION
+1.0	Britain 's Prince William	have	girlfriend	O	O
+1.0	whom	have	most	O	O
+1.0	Middleton 's lawyers	be	year on	0	0
+1.0	Wales	have	princess	O	LOCATION
+1.0	his girlfriend	brave	press pack	0	0
+1.0	police officer	have	presence	O	O
+1.0	paparazzi	block	path	0	0
+1.0	prince	spend at_time	he day	0	DURATION
+1.0	Kate Middleton	be	individual	PERSON	0
+1.0	Rupert Murdoch	have	worldwide News Corp. empire	PERSON	ORGANIZATION
+1.0	Middleton	be	private	PERSON	0
+1.0	Dickie Arbiter	draw	comparison between Middleton	PERSON	LOCATION
+1.0	London	have	west	O	LOCATION
+1.0	pair	announce soon	they engagement	0	0
+1.0	lawyer	prepare into	Diana 's death in a 1997 Paris car crash when speeding away from paparazzi	0	PERSON
+1.0	Middleton 's lawyers	be	here many year on	0	0
+0.4161794567219067	second lieutenant	know as	Cornet Wales Army	ORDINAL	LOCATION
+1.0	Diana	to	death	PERSON	0
+1.0	paparazzi	block path despite	presence	0	0
+1.0	paparazzi	block path to	she car	0	0
+1.0	lawyer	meet	prepare into Diana 's death	0	PERSON
+1.0	Diana	princess of	Wales	PERSON	LOCATION
+1.0	William	be prince of	Britain	PERSON	LOCATION
+1.0	The prince on Monday	have	grandmother	O	O
+1.0	Diana 's death in a 1997 Paris car crash when speeding away from paparazzi	be in	1997 Paris car crash	PERSON	LOCATION
+1.0	Middleton 's lawyers	be	so year on	0	0
+1.0	Middleton	from	lawyer	PERSON	0
+1.0	Diana	have	engagement	O	O
+1.0	his girlfriend	brave once again	grow press pack	0	0
+1.0	spotlight	have draw	comparison	0	0
+1.0	prince	spend at_time	he first day	0	ORDINAL
+0.4161794567219067	lieutenant	know as	Cornet Wales	0	LOCATION
+1.0	Britain	have	Prince William	PERSON	LOCATION
+1.0	Britain 's Press Complaints Commission watchdog	support	official complaint	0	0
+1.0	photographers	have	bank	O	O
+1.0	prince	spend as	Army officer	0	ORGANIZATION
+1.0	lawyer	meet at_time	Monday	0	DATE
+1.0	mass-market tabloid	sun of	World	0	0
+1.0	Middleton 's lawyer	be say	be look	PERSON	0
+1.0	Middleton 's lawyer	be say	be look first	PERSON	ORDINAL
+1.0	she relationship	come under	increase scrutiny	0	0
+1.0	pair	announce	they engagement	0	0
+1.0	lawyer	prepare for	long-awaited inquest	0	0
+1.0	Middleton 's lawyers	be	many year on	0	0
+1.0	it	be think	unlikely	0	0
+1.0	Charles	have	Clarence House office	O	PERSON
+1.0	prince	spend at_time	he official day	0	DURATION
+1.0	prince	spend in	Blues regiment	0	ORGANIZATION
+1.0	Middleton 's lawyers	have	engagement	O	O
+1.0	News International	have ban	its newspaper	ORGANIZATION	0
+1.0	News International	use	paparazzi picture	ORGANIZATION	0
+1.0	lieutenant	be at	Combermere Barracks	0	ORGANIZATION
+1.0	lawyer	meet	prepare	0	0
+1.0	William	have	girlfriend	O	PERSON
+1.0	prince	spend at_time	he first official day	0	ORDINAL
+1.0	prince	spend as	british Army officer	0	ORGANIZATION
+1.0	Middleton 's lawyers	be	here year on	0	0
+1.0	Kate Middleton	be	private individual	PERSON	0
+1.0	Diana	have	death	O	PERSON
+1.0	Kate Middleton	have	flat	O	O
+1.0	his girlfriend	brave once again	press pack	0	0
+1.0	television crews	have	bank	O	O
+1.0	News International	have ban	newspaper	ORGANIZATION	0
+1.0	lawyer	meet	prepare for inquest into Diana 's death	0	PERSON
+1.0	his girlfriend	brave	grow press pack	0	0

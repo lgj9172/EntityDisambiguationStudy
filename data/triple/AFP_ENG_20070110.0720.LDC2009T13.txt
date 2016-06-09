@@ -1,0 +1,119 @@
+1.0	its	have	members	O	O
+1.0	he	be depose as	country 's first ethnic indian prime minister	0	ORDINAL
+1.0	Commonwealth	have	primary concern	ORGANIZATION	0
+1.0	Commonwealth	have	concern	O	ORGANIZATION
+1.0	leader	accept	senior portfolio	0	0
+0.6176827711781597	constitutional power	appoint	president	0	0
+1.0	Commonwealth	have	principles	O	ORGANIZATION
+1.0	he	be depose as	country 's first ethnic minister in 2000 coup	0	ORDINAL
+1.0	government posts	have	holding	O	O
+1.0	he	be depose as	country 's ethnic minister	0	0
+1.0	finance	have	portfolios	O	O
+1.0	Commonwealth	with	fundamental principle	ORGANIZATION	0
+1.0	population	have	percent	PERCENT	O
+1.0	country	have	minister	O	O
+1.0	Thursday this week	have	appointment of interim government in Fiji	DATE	LOCATION
+1.0	Labour Party	have	leader	O	ORGANIZATION
+1.0	he	be depose as	country 's minister	0	0
+1.0	he	lose	he job	0	0
+1.0	he	be depose as	country 's first indian minister	0	ORDINAL
+1.0	Fiji	have	organisations	O	LOCATION
+1.0	leader	accept portfolio in	regime	0	0
+1.0	evil	have	manifestation	O	O
+1.0	he	be	depose	0	0
+1.0	church official	have previously describe	coup	0	0
+1.0	Ratu Ovini Bokini	be chairman of	GCC	PERSON	ORGANIZATION
+1.0	corruption	have	government	O	O
+1.0	senior church official	have describe coup as	manifestation	0	0
+1.0	he	be depose as	country 's first indian prime minister	0	ORDINAL
+1.0	he	be depose as	country 's indian minister	0	0
+1.0	he	be depose as	country 's ethnic indian prime minister	0	0
+1.0	Commonwealth	have	principle	ORGANIZATION	0
+1.0	he	be depose as	country 's indian minister in 2000 coup	0	DATE
+1.0	he	criticise holding as	inconsistent with Commonwealth 's fundamental principle	0	ORGANIZATION
+1.0	church official	have describe coup as	manifestation	0	0
+1.0	Commonwealth Secretary General Don McKinnon	say at_time	Thursday	PERSON	DATE
+1.0	he	be depose as	country 's ethnic indian prime minister in 2000 coup	0	DATE
+1.0	Commonwealth 's headquarters	be in	London	ORGANIZATION	LOCATION
+1.0	church official	have describe coup as	manifestation of darkness	0	0
+1.0	he	be depose as	country 's first prime minister in 2000 coup	0	ORDINAL
+1.0	he	be depose as	country 's first ethnic indian prime minister in 2000 coup	0	ORDINAL
+1.0	democracy	have	restoration	O	O
+1.0	Labour Party	be	Mahendra Chaudhry	ORGANIZATION	PERSON
+1.0	he	be depose as	country 's minister in 2000 coup	0	DATE
+1.0	he	be depose as	country 's ethnic prime minister	0	0
+1.0	he	be depose as	country 's first ethnic minister	0	ORDINAL
+1.0	Qarase	have	government of corruption	PERSON	0
+1.0	country 's first ethnic indian prime minister	be in	2000 coup	ORDINAL	DATE
+1.0	Methodist Church	call on	its member	ORGANIZATION	0
+1.0	Don McKinnon	be	the Commonwealth 's	PERSON	ORGANIZATION
+1.0	event	be part of	God 's plan for country	0	0
+1.0	event	be part of	God 's plan	0	0
+1.0	God	have	plan	O	O
+1.0	interim government	be in	Fiji	0	LOCATION
+1.0	he	criticise holding as	inconsistent with Commonwealth 's principle	0	ORGANIZATION
+1.0	senior church official	have previously describe	coup	0	0
+1.0	December coup	have	commander	O	O
+1.0	he	be depose as	country 's ethnic minister in 2000 coup	0	DATE
+1.0	two decade	be in	Fiji	DURATION	LOCATION
+1.0	God	of	plan for country	0	0
+1.0	Chiefs	have	Great Council	ORGANIZATION	ORGANIZATION
+1.0	he	be depose as	country 's prime minister	0	0
+1.0	he	be depose as	country 's ethnic prime minister in 2000 coup	0	DATE
+1.0	Fiji	of	most influential organisation	LOCATION	0
+1.0	leaders	have	gathering	O	O
+1.0	Fiji	have	people	O	LOCATION
+1.0	Methodist Church	also call on	its member	ORGANIZATION	0
+1.0	clarity	have	lack	O	O
+1.0	he	be depose as	country 's first ethnic prime minister	0	ORDINAL
+1.0	leader	accept portfolio in	interim regime	0	0
+1.0	Qarase	have	government	O	PERSON
+1.0	his	have	job	O	O
+1.0	Commonwealth	by	headquarters in London	ORGANIZATION	LOCATION
+1.0	democratic government	be in	Fiji	0	LOCATION
+1.0	Laisenia Qarase	have	government	O	O
+1.0	he	be depose as	country 's first ethnic indian minister	0	ORDINAL
+1.0	he	be depose as	country 's indian prime minister in 2000 coup	0	DATE
+1.0	event	be	part	0	0
+1.0	country	as	first ethnic indian prime minister in 2000 coup	0	ORDINAL
+1.0	he	be depose as	country 's indian prime minister	0	0
+1.0	he	be depose as	country 's first minister	0	ORDINAL
+1.0	Fijians	support	interim government	MISC	0
+1.0	Labour Party	be of	indian-dominated	ORGANIZATION	0
+1.0	church official	have previously describe coup as	manifestation	0	0
+1.0	organisations	have	Some	O	O
+1.0	he	be depose as	country 's prime minister in 2000 coup	0	DATE
+1.0	planning	have	portfolios	O	O
+1.0	Don McKinnon	be secretary general of	the Commonwealth 's	PERSON	ORGANIZATION
+1.0	Fiji	have	Methodist Church	ORGANIZATION	ORGANIZATION
+1.0	sugar reform	have	portfolios	O	O
+1.0	he	be depose as	country 's ethnic indian minister in 2000 coup	0	DATE
+1.0	rule	have	restoration	O	O
+1.0	senior church official	have previously describe coup as	manifestation of darkness	0	0
+0.6176827711781597	power	appoint	president	0	0
+1.0	church official	have previously describe coup as	manifestation of darkness	0	0
+1.0	leader	accept	portfolio of finance	0	0
+1.0	Commonwealth	have	headquarters	O	ORGANIZATION
+1.0	church official	have describe	coup	0	0
+1.0	darkness	have	manifestation	O	O
+1.0	he	be depose as	country 's first minister in 2000 coup	0	ORDINAL
+1.0	parliament	have	role	O	O
+1.0	he	be depose as	country 's first prime minister	0	ORDINAL
+1.0	senior church official	have describe coup as	manifestation of darkness	0	0
+1.0	coup	be in	1987	0	DATE
+1.0	plan	have	part	O	O
+1.0	the people of Fiji	have	full	O	O
+1.0	he	criticise holding as	inconsistent	0	0
+1.0	he	be depose as	country 's first indian prime minister in 2000 coup	0	ORDINAL
+1.0	week	have	appointment	O	DATE
+1.0	he	be depose as	country 's first ethnic indian minister in 2000 coup	0	ORDINAL
+1.0	leader	accept	portfolio	0	0
+1.0	he	be depose as	country 's first ethnic prime minister in 2000 coup	0	ORDINAL
+1.0	senior church official	have previously describe coup as	manifestation	0	0
+1.0	he	be depose as	country 's ethnic indian minister	0	0
+1.0	military	have	holding	O	O
+1.0	senior church official	have describe	coup	0	0
+1.0	leader	accept	senior portfolio of finance	0	0
+1.0	gcc	gathering of	indigenous leader	0	0
+1.0	government	have	appointment	O	O
+1.0	he	be depose as	country 's first indian minister in 2000 coup	0	ORDINAL

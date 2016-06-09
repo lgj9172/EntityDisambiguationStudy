@@ -1,0 +1,54 @@
+1.0	prime minister	only have forecast on	Friday	0	DATE
+1.0	man	wait for	flight	0	0
+1.0	leader	lambast	Zapatero 's reaction bombing	0	PERSON
+1.0	rescuer	continue	search	0	0
+1.0	they	would	would fatality	0	0
+1.0	rescuer	search at_time	Tuesday	0	DATE
+1.0	man	be	think	0	0
+1.0	man	wait for	flight from they homeland	0	0
+1.0	they	would	would fatality ascribe	0	0
+1.0	they	confirm	dead	0	0
+1.0	prime minister	have forecast on	Friday	0	DATE
+1.0	rescuer	continue	search Tuesday	0	DATE
+1.0	Tuesday	have	El Pais	ORGANIZATION	DATE
+1.0	airport parking structure	have	weekend bombing	O	O
+1.0	the main conservative opposition Popular Party Mariano Rajoy	leader of	main conservative opposition	PERSON	0
+1.0	minister	only have forecast on	Friday	0	DATE
+1.0	miss man	be	think	0	0
+1.0	they	would	would first fatality ascribe since 2003	0	ORDINAL
+1.0	situation	be in	better year	DURATION	DURATION
+1.0	Mariano Rajoy	be of	Popular Party	PERSON	ORGANIZATION
+1.0	Jose Luis Rodriguez Zapatero	be	spanish	PERSON	0
+1.0	spanish rescuer	continue	search	0	0
+1.0	man	be think	have asleep	0	0
+1.0	opposition	have	leader	O	O
+1.0	ETA	have	ceasefire	O	ORGANIZATION
+1.0	campaign	have	course	O	O
+1.0	newspaper	cite	government source	0	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero	speak only of	suspension of peace process launch by unilateral ceasefire	PERSON	0
+1.0	spanish rescuer	search at_time	Tuesday	0	DATE
+1.0	they	would	would fatality ascribe since 2003	0	DATE
+1.0	situation	be in	relation to ETA	DURATION	ORGANIZATION
+1.0	Tuesday	have	El Pais	DATE	ORGANIZATION
+1.0	they	would	would first fatality ascribe to ETA since 2003	0	ORDINAL
+1.0	leader	lambast on	Sunday	0	DATE
+1.0	situation	be in	year	DURATION	DURATION
+1.0	two equadorian	fear	dead	NUMBER	0
+1.0	suspension	have	spoke	O	O
+1.0	peace process	have	suspension	O	O
+1.0	miss man	wait for	flight	0	0
+1.0	Spanish Prime Minister Jose Luis Rodriguez Zapatero	speak only of	suspension of peace process launch by ETA 's unilateral ceasefire	PERSON	ORGANIZATION
+1.0	Zapatero	have	reaction	PERSON	0
+1.0	miss man	wait for	flight from they homeland	0	0
+1.0	they	would	would fatality ascribe to ETA since 2003	0	DATE
+1.0	opposition Popular Party Mariano Rajoy	have	leader	O	PERSON
+1.0	spanish rescuer	continue	search Tuesday	0	DATE
+1.0	they	would	would first fatality ascribe	0	ORDINAL
+1.0	they	would	would first fatality ascribe to ETA	0	ORDINAL
+1.0	persons	have	death	O	O
+1.0	minister	have forecast on	Friday	0	DATE
+1.0	miss man	be think	have asleep	0	0
+1.0	their	have	homeland	O	O
+1.0	they	would	would first fatality	0	ORDINAL
+1.0	Zapatero	have	reaction	O	PERSON
+1.0	they	would	would fatality ascribe to ETA	0	ORGANIZATION

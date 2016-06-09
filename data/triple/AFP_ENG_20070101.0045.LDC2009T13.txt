@@ -1,0 +1,55 @@
+1.0	Takana	be serve	prison term	PERSON	0
+1.0	Takana	be serve	12-year prison term	PERSON	DURATION
+1.0	members	have	group	O	O
+1.0	Red Army	earn	worldwide notoriety	ORGANIZATION	0
+1.0	attack	be	follow by series of hijacking on embassy	0	0
+1.0	charges	have	cleared	O	O
+1.0	its	have	commandos	O	O
+1.0	Vietnam	have	border	O	LOCATION
+1.0	he prison term	be suspend due to	ailment	0	0
+1.0	hijackings	have	series	O	O
+1.0	Jiji Press	say	Kyodo News	ORGANIZATION	ORGANIZATION
+1.0	court	there clear	he	0	0
+1.0	Tanaka	be arrest in	March 1996	PERSON	DATE
+1.0	he	be	extradite	0	0
+1.0	its commando	spray	Israel 's Lod International Airport	0	LOCATION
+1.0	attack	be follow on	embassy	0	0
+1.0	Tanaka	be arrest on	border	PERSON	0
+1.0	his	have	extradition	O	O
+1.0	he prison term	be	suspend	0	0
+1.0	attacks	have	series	O	O
+0.6443662932320157	produce	forge	dollar	0	0
+1.0	Tanaka	attempt	travel	PERSON	0
+1.0	Tanaka	be	arrest on border of Cambodia in March 1996	PERSON	DATE
+1.0	attack	be follow by	series of hijacking	0	0
+1.0	Airlines jet	have	hijacking	O	O
+1.0	he prison term	be suspend at_time	December 15	0	DATE
+1.0	His	have	death	O	O
+1.0	Israel	have	Lod International Airport	LOCATION	LOCATION
+1.0	Red Army	earn notoriety in	1972	ORGANIZATION	DATE
+1.0	have jail	be in	Japan	0	LOCATION
+1.0	Chiba	southeast of	Tokyo	LOCATION	LOCATION
+1.0	Tanaka	be	arrest on border in March 1996	PERSON	DATE
+1.0	court	clear	he	0	0
+1.0	Red Army	be of	Japanese	ORGANIZATION	MISC
+1.0	its commando	spray	Israel 's Lod International Airport in Tel Aviv	0	LOCATION
+1.0	24 people	wound	76 other	NUMBER	NUMBER
+1.0	attack	be follow by	series	0	0
+1.0	Cambodia	have	border	O	LOCATION
+1.0	Tokyo	have	southeast	O	LOCATION
+1.0	honour	have	place	O	O
+1.0	honour	be in	palestinian guerrilla movement	0	0
+1.0	attack	be	follow	0	0
+1.0	group	have	one	NUMBER	O
+1.0	he	be extradite to	Thailand	0	LOCATION
+1.0	Lod International Airport	be in	Tel Aviv	LOCATION	LOCATION
+1.0	attack	be	follow by series on embassy	0	0
+1.0	he	operate	counterfeiting syndicate	0	0
+0.9798524155897814	its commando	kill	24 people	0	NUMBER
+1.0	hospital	be in	Chiba	0	LOCATION
+1.0	he	operate	counterfeiting syndicate produce	0	0
+1.0	Tanaka	be arrest on	border of Cambodia	PERSON	LOCATION
+1.0	Red Army	earn	notoriety	ORGANIZATION	0
+1.0	his	have	prison term	O	O
+1.0	Tanaka	be	arrest	PERSON	0
+1.0	Japanese Red Army	have	members	O	ORGANIZATION

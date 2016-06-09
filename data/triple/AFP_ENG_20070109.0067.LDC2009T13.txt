@@ -1,0 +1,21 @@
+1.0	New York	have	Millrose Games	MISC	LOCATION
+0.8443122024195518	head	competition	shoulder	0	0
+1.0	Russian	have beat world record during	she career	MISC	0
+1.0	World pole vault record-holder Yelena Isinbayeva	tell	press	PERSON	0
+1.0	Olympic	have	discipline	O	O
+1.0	competition	be in	she discipline	0	0
+1.0	World pole vault record-holder Yelena Isinbayeva	tell press here at_time	Tuesday	PERSON	DATE
+1.0	New York	of	Millrose Games	LOCATION	MISC
+1.0	Russian	hold	current mark of 5.01 m.	MISC	NUMBER
+1.0	Russian	hold	current mark	MISC	DATE
+1.0	m.	have	mark	O	NUMBER
+1.0	Olympic	have	career	O	O
+1.0	World pole vault record-holder Yelena Isinbayeva	tell press at_time	Tuesday	PERSON	DATE
+1.0	World pole vault record-holder Yelena Isinbayeva	tell here	press	PERSON	0
+1.0	World pole vault record-holder Yelena Isinbayeva	have	bow	O	O
+1.0	January	have	end	DATE	DATE
+1.0	Russian	have beat world record at_time	19 time	MISC	NUMBER
+1.0	Russian	hold	mark of 5.01 m.	MISC	NUMBER
+1.0	Russian	hold	mark	MISC	0
+1.0	Russian	have beat	world record	MISC	0
+1.0	Millrose Games	have	edition	O	MISC

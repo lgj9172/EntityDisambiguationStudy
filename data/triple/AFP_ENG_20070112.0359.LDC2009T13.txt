@@ -1,0 +1,28 @@
+1.0	Poland 's episcopate	call at_time	Friday	LOCATION	DATE
+1.0	Poland 's episcopate	call	probe	LOCATION	0
+1.0	bishops	have	past	DATE	O
+1.0	they	collaborate with	communist secret police	DATE	0
+1.0	crisis	be spark at_time	last Sunday	0	DATE
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	they	collaborate with	secret police	DATE	0
+1.0	bishops	have	group	O	O
+1.0	Poland 's episcopate	call for	past of bishop in overwhelmingly catholic country	LOCATION	DATE
+1.0	crisis	be	spark	0	0
+0.9093266678168022	emergency meeting	group of	bishop	0	0
+1.0	Stanislaw Wielgus	resign as	archbishop	PERSON	0
+1.0	Stanislaw Wielgus	resign as	archbishop of Warsaw	PERSON	LOCATION
+1.0	crisis	be spark at_time	Sunday	0	DATE
+1.0	bishops	have	council	O	O
+1.0	Poland 's episcopate	be	probe	LOCATION	0
+1.0	Poland 's episcopate	be probe	see	LOCATION	0
+1.0	Stanislaw Wielgus	collaborate with	Sluzba Bezpieczenstwa	0	PERSON
+1.0	Stanislaw Wielgus	collaborate with	communist police	0	0
+1.0	Poland	have	episcopate	O	LOCATION
+1.0	council	have	head	O	O
+0.9093266678168022	emergency meeting	group of	45 bishop	0	NUMBER
+1.0	head	tell	reporter	0	0
+1.0	they	have	bishops	O	O
+1.0	Church	be in	catholic Poland	0	ORGANIZATION
+1.0	Stanislaw Wielgus	collaborate with	reviled communist police	0	0
+1.0	they	collaborate with	police	DATE	0
+1.0	Poland	have	episcopate	LOCATION	0

@@ -1,0 +1,81 @@
+1.0	three others	have	patrol south	O	O
+1.0	fourteen Iraqis	be	kill in bombing on Thursday	MISC	DATE
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's main northern city of Mosul	PERSON	LOCATION
+0.9928544201035021	major Mohammed Ahmed	leave	University	PERSON	ORGANIZATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Balad	have	patrol south	O	LOCATION
+1.0	fourteen Iraqis	be kill on	Thursday	MISC	DATE
+1.0	teacher	be shoot in	28 mile	0	NUMBER
+1.0	downtown Baquba	have	flashpoint city	O	LOCATION
+1.0	Khalis	have	town	O	LOCATION
+1.0	arm man	barge in	downtown Baghdad	0	LOCATION
+1.0	law professor Kamel Abdul Hussein	be	shoot	PERSON	0
+0.9066130812917865	leave	university of	Mosul	DURATION	LOCATION
+1.0	Iraq	in	main northern city of Mosul	LOCATION	LOCATION
+1.0	money changer	into	outlet	0	0
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's city	PERSON	LOCATION
+1.0	Mohammed Ahmed	say	police	PERSON	0
+0.6980062709330631	police	leave	University of Mosul	0	LOCATION
+1.0	country	have	control	O	O
+1.0	control	help	Iraq 's security force	0	LOCATION
+1.0	push	have	part	O	O
+1.0	Salaheddin	have	home province	O	LOCATION
+0.9066130812917865	leave	university of	professor	DURATION	ORGANIZATION
+1.0	dictator Saddam Hussein	have	home province	O	PERSON
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's main city	PERSON	LOCATION
+1.0	21,500	do	more	0	0
+0.9928544201035021	Mohammed Ahmed	leave	University of Mosul	PERSON	LOCATION
+1.0	arm man	barge into	money changer 's outlet	0	0
+1.0	Iraqis	be kill on	Thursday	MISC	DATE
+1.0	Mosul	have	University	ORGANIZATION	ORGANIZATION
+1.0	Iraqis	be kill in	nationwide bombing	MISC	0
+1.0	fourteen Iraqis	be	kill	MISC	0
+1.0	five off-duty policeman	be in	civilian clothes	0	0
+1.0	teacher	be	shoot	0	0
+1.0	security source	say	official	0	0
+1.0	US President George W. Bush	send	nearly 22,000 new troops	0	NUMBER
+0.6980062709330631	police	leave	University	0	ORGANIZATION
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's northern city	PERSON	LOCATION
+1.0	flashpoint city	have	north	O	O
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's city of Mosul	PERSON	LOCATION
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's northern city of Mosul	PERSON	LOCATION
+0.9928544201035021	Mohammed Ahmed	leave	University	PERSON	ORGANIZATION
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	teacher	be shoot in	45 kilometre	0	NUMBER
+1.0	teacher	be shoot	dead	0	0
+1.0	security source	say	medical official	0	0
+1.0	downtown Baquba	have	northeast	O	LOCATION
+1.0	thousand	be in	2006	0	DATE
+1.0	man	barge in	security source	0	0
+1.0	Saddam Hussein	in	home province of Salaheddin	PERSON	LOCATION
+1.0	a girl	have	teacher	O	O
+1.0	US President George W. Bush	send	nearly 22,000 troops	0	NUMBER
+1.0	Iraq	have	city	O	LOCATION
+1.0	Iraqis	be	kill in nationwide bombing on Thursday	MISC	DATE
+1.0	fourteen Iraqis	be	kill in nationwide bombing on Thursday	MISC	DATE
+1.0	Iraqis	be	kill in bombing on Thursday	MISC	DATE
+1.0	major Mohammed Ahmed	say	police	PERSON	0
+1.0	arm man	barge in	security source	0	0
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's main northern city	PERSON	LOCATION
+1.0	security source	say	medical official at Yarmuk hospital	0	LOCATION
+1.0	law professor Kamel Abdul Hussein	be shoot in	Iraq 's main city of Mosul	PERSON	LOCATION
+1.0	gunman	be in	town of Khalis	0	LOCATION
+1.0	Mosul	have	city	O	LOCATION
+1.0	man	barge in	downtown Baghdad	0	LOCATION
+1.0	law professor Kamel Abdul Hussein	be shoot	dead by insurgent	PERSON	DURATION
+1.0	forces	have	Most	O	O
+1.0	law professor Kamel Abdul Hussein	be shoot	dead	PERSON	DURATION
+1.0	security source	say	official at Yarmuk hospital	0	LOCATION
+0.9066130812917865	leave	university of	fifth professor	DURATION	ORDINAL
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	fourteen Iraqis	be kill in	bombing	MISC	0
+1.0	Iraqis	be	kill	MISC	0
+1.0	man	barge into	money changer 's outlet	0	0
+1.0	attack	warn	Baghdad government	0	LOCATION
+1.0	teacher	be shoot in	Muqdadiya	0	LOCATION
+1.0	money changer	have	outlet	O	O
+1.0	Lieutenant Colonel Ahmed Abdel Jabbar	say	police	PERSON	0
+1.0	Iraq	have	security force	LOCATION	0
+1.0	fourteen Iraqis	be kill in	nationwide bombing	MISC	0
+1.0	Iraqis	be kill in	bombing	MISC	0
+0.9928544201035021	major Mohammed Ahmed	leave	University of Mosul	PERSON	LOCATION

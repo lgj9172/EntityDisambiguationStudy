@@ -1,0 +1,64 @@
+1.0	area north	be	subject to violent storm with wind	0	0
+1.0	area north	be	subject to storm with high wind since last weekend	0	DATE
+1.0	area north	be	subject to violent storm with high wind	0	0
+1.0	Surabaya	have	cities	O	LOCATION
+1.0	Adam Air	be lead low-cost carrier in	market	PERSON	0
+1.0	Adam Air	be lead carrier in	competitive indonesian market	PERSON	0
+1.0	Air	be	lead	PERSON	0
+1.0	Public	have	have repeatedly criticise	0	0
+1.0	their	have	safety records	O	O
+1.0	Adam Air	be	lead low-cost carrier	PERSON	0
+1.0	area north	be	subject to storm with wind since weekend	0	DATE
+1.0	Adam Air	be	lead carrier	PERSON	0
+1.0	area north	be subject with	high wind since last weekend	0	DATE
+1.0	area north	be	subject to violent storm with high wind since last weekend	0	DATE
+1.0	Adam Air	be carrier in	indonesian market	PERSON	0
+1.0	Public	have	have repeatedly criticise over they safety record	0	0
+1.0	plane	lose contact accord to	media report	0	0
+1.0	Public	have	have criticise	0	0
+1.0	Adam Air	be carrier in	market	PERSON	0
+1.0	Adam Air	be lead low-cost carrier in	competitive market	PERSON	0
+1.0	area north	be subject to	storm	0	0
+1.0	Java	have	area north	O	MISC
+1.0	passenger	be on	around 100 board	0	NUMBER
+1.0	area north	be subject with	wind since weekend	0	DATE
+1.0	area north	be	subject to storm with high wind since weekend	0	DATE
+1.0	Adam Air	be low-cost carrier in	competitive indonesian market	PERSON	0
+1.0	area north	be subject with	wind	0	0
+1.0	Adam Air	be lead low-cost carrier in	competitive indonesian market	PERSON	0
+1.0	lead low-cost carrier	be in	competitive indonesian market	0	0
+1.0	area north	be	subject to violent storm with wind since last weekend	0	DATE
+1.0	area north	be subject with	wind since last weekend	0	DATE
+1.0	area north	be subject with	high wind	0	0
+1.0	plane	lose contact to	Sulawesi	0	LOCATION
+1.0	Public	have	have criticise over they safety record	0	0
+1.0	Java	have	ferry	O	MISC
+1.0	Public	have	have criticise over they poor safety record	0	0
+1.0	Adam Air	be lead carrier in	indonesian market	PERSON	0
+1.0	passenger	be on	board	0	0
+1.0	ferry	have	sinking	O	O
+1.0	area north	be	subject to storm with wind	0	0
+1.0	plane	lose	contact	0	0
+1.0	Adam Air	be low-cost carrier in	competitive market	PERSON	0
+1.0	Public	have	have repeatedly criticise over they poor safety record	0	0
+1.0	Adam Air	be lead carrier in	competitive market	PERSON	0
+1.0	area north	be subject to	violent storm	0	0
+1.0	Adam Air	be lead carrier in	market	PERSON	0
+1.0	Adam Air	be lead low-cost carrier in	indonesian market	PERSON	0
+1.0	area north	be subject with	high wind since weekend	0	DATE
+1.0	Adam Air	be	carrier	PERSON	0
+1.0	area north	be	subject to violent storm with high wind since weekend	0	DATE
+1.0	Adam Air	be	low-cost carrier	PERSON	0
+1.0	Air	be	low-cost	PERSON	0
+1.0	plane	lose contact on	island	0	0
+1.0	Adam Air	be carrier in	competitive indonesian market	PERSON	0
+1.0	plane	lose contact accord to	indonesian media report	0	0
+1.0	area north	be	subject	0	0
+1.0	Adam Air	be low-cost carrier in	market	PERSON	0
+1.0	Mandado	have	cities	O	LOCATION
+1.0	another	have	sinking	O	O
+1.0	area north	be	subject to violent storm with wind since weekend	0	DATE
+1.0	Adam Air	be low-cost carrier in	indonesian market	PERSON	0
+1.0	area north	be	subject to storm with high wind	0	0
+1.0	area north	be	subject to storm with wind since last weekend	0	DATE
+1.0	Adam Air	be carrier in	competitive market	PERSON	0

@@ -1,0 +1,74 @@
+1.0	he	be	designate by Arizona on June 21	0	DATE
+1.0	Ortiz	post	four-game stint	PERSON	0
+1.0	Ortiz , who is just 5-19 in the last two years	post	mark	PERSON	0
+1.0	Ortiz	be trade to	Atlanta	PERSON	LOCATION
+1.0	he	be	designate for assignment by Arizona on June 21	0	DATE
+1.0	Gaylord Perry	have	Hall	O	PERSON
+1.0	he	be	designate for assignment on June 21	0	DATE
+1.0	Ortiz , who is just 5-19 in the last two years	post mark with	4.01 era in 154 game during he Giants tenure	PERSON	NUMBER
+1.0	Ortiz	post	four-game three-start stint	PERSON	0
+1.0	Ortiz	be	trade to Atlanta include campaign	PERSON	LOCATION
+1.0	Ortiz , who is just 5-19 in the last two years	post mark with	4.01 era	PERSON	NUMBER
+1.0	Ortiz	be	trade to Atlanta include 21-win campaign in 2003	PERSON	DATE
+1.0	they	first spot in	1995	0	DATE
+1.0	Ortiz	be	trade after 2002 season include campaign in 2003	PERSON	DATE
+1.0	Ortiz , who is just 5-19 in the last two years	post mark from	1998-2002	PERSON	DURATION
+1.0	Ortiz , who is just 5-19 in the last two years	post mark with	4.01 era in 154 game during he first Giants tenure	PERSON	ORDINAL
+1.0	he	go	5-11	0	DATE
+0.43873166548954	Ortiz	go with	2.40 era in 15 inning	PERSON	NUMBER
+1.0	Ortiz	go	1-1	PERSON	NUMBER
+1.0	they	have	diligence	O	O
+0.43873166548954	Ortiz	go with	2.40 era	PERSON	NUMBER
+1.0	Ortiz	be	trade after 2002 season include 21-win campaign	PERSON	DATE
+1.0	Ortiz	be trade include	campaign in 2003	PERSON	DATE
+1.0	San Francisco Giant	ink russ ortiz on	Tuesday	LOCATION	DATE
+1.0	Ortiz	be	trade to Atlanta after 2002 season include campaign	PERSON	DATE
+1.0	Ortiz	be trade include	21-win campaign	PERSON	0
+1.0	his	have	Giants tenure	O	O
+1.0	San Francisco Giant	ink	Russ Ortiz	LOCATION	PERSON
+1.0	Ortiz	be	trade after 2002 season include campaign	PERSON	DATE
+1.0	he	deal at_time	four day later	0	DATE
+0.5624514432690371	Ortiz	go in	two year	PERSON	DURATION
+0.5624514432690371	he	go with	6.89 era	0	NUMBER
+1.0	Brian Sabean	be	San Francisco	PERSON	LOCATION
+1.0	two year	be with	Braves	DURATION	ORGANIZATION
+1.0	he	be	designate	0	0
+1.0	Famers Juan Marichal	have	Hall	O	PERSON
+1.0	Ortiz , who is just 5-19 in the last two years	have	said	O	PERSON
+1.0	Ortiz	be	trade to Atlanta include campaign in 2003	PERSON	DATE
+1.0	2.40 era	be in	15 inning	NUMBER	NUMBER
+1.0	22 start	be in	2005	NUMBER	DATE
+1.0	Ortiz	be	trade to Atlanta after 2002 season include 21-win campaign	PERSON	DATE
+1.0	his	have	struggles	O	O
+1.0	Ortiz	be	trade	PERSON	0
+0.5624514432690371	Ortiz	go in	two year with Braves	PERSON	DURATION
+1.0	he	be	designate for assignment by Arizona	0	LOCATION
+1.0	San Francisco Giant	ink russ ortiz to	one year contract	LOCATION	DURATION
+1.0	Ortiz	go	36-16	PERSON	NUMBER
+1.0	they	spot in	1995	0	DATE
+0.5624514432690371	he	go in	22 start	0	NUMBER
+1.0	Ortiz	post stint in	Puerto Rican Winter League	PERSON	MISC
+1.0	he	be designate by	Arizona	0	LOCATION
+1.0	he	deal to	Orioles	0	ORGANIZATION
+1.0	Ortiz	be	trade to Atlanta include 21-win campaign	PERSON	LOCATION
+1.0	Ortiz	post	three-start stint	PERSON	0
+1.0	4.01 era	be in	154 game during he first Giants tenure	NUMBER	ORDINAL
+1.0	Ortiz	be trade include	campaign	PERSON	0
+1.0	he	be designate on	June 21	0	DATE
+1.0	His	have	victories	O	O
+1.0	Ortiz , who is just 5-19 in the last two years	post mark with	4.01 era in 154 game	PERSON	NUMBER
+1.0	Ortiz	be trade after	2002 season	PERSON	DATE
+1.0	21-win campaign	be in	2003	0	DATE
+1.0	Ortiz	be	trade after 2002 season include 21-win campaign in 2003	PERSON	DATE
+1.0	he	be designate for	assignment	0	0
+1.0	Ortiz , who is just 5-19 in the last two years	post mark by	1995 fourth-round selection	PERSON	DATE
+1.0	Ortiz , who is just 5-19 in the last two years	post mark by	1995 selection	PERSON	DATE
+1.0	Ortiz	be	trade to Atlanta after 2002 season include 21-win campaign in 2003	PERSON	DATE
+1.0	they	have	staff	O	O
+1.0	Ortiz	be trade include	21-win campaign in 2003	PERSON	DATE
+1.0	he	deal at_time	four day	0	DATE
+1.0	Ortiz	post	stint	PERSON	0
+0.5624514432690371	he	go in	22 start in 2005	0	DATE
+1.0	Ortiz , who is just 5-19 in the last two years	post	67-44 mark	PERSON	0
+1.0	Ortiz	be	trade to Atlanta after 2002 season	PERSON	DATE
+1.0	Ortiz	be	trade to Atlanta after 2002 season include campaign in 2003	PERSON	DATE

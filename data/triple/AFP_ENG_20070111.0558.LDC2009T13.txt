@@ -1,0 +1,8 @@
+1.0	George W. Bush	have	increase of troops in Iraq	PERSON	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	troops	have	increase	O	O
+1.0	troops	be in	Iraq	0	LOCATION
+1.0	sense	be in	television interview	0	0
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	US President George W. Bush	have	increase	O	PERSON
+1.0	Tony Blair	be	british	PERSON	0

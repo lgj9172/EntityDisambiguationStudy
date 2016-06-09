@@ -1,0 +1,28 @@
+1.0	rice cake	have	Year fare	O	O
+1.0	country	have	Year fare	O	O
+1.0	elderly people	choke on	rice cake over year period 12 month ago	0	DATE
+1.0	33 elderly people	choke on	rice cake	NUMBER	0
+1.0	elderly people	be hospitalise in	Tokyo	0	LOCATION
+1.0	elderly people	be	hospitalise	0	0
+1.0	2007	have	days	DATE	DATE
+1.0	33 elderly people	be hospitalise in	Tokyo	NUMBER	LOCATION
+1.0	elderly people	choke on	rice cake over period	0	0
+1.0	16 elderly people	aged between	65 and 91	NUMBER	NUMBER
+1.0	elderly people	choke on	rice cake over period ago	0	DATE
+1.0	rice	have	made	O	O
+1.0	elderly people	choke on	rice cake over year period ago	0	DATE
+1.0	Metropolitan Fire Department	say	Kyodo News	ORGANIZATION	ORGANIZATION
+1.0	33 elderly people	choke on	rice cake over year period ago	NUMBER	DATE
+1.0	elderly people	choke on	rice cake over period 12 month ago	0	DATE
+1.0	33 elderly people	choke on	rice cake over period ago	NUMBER	DATE
+1.0	33 elderly people	choke on	rice cake over year period 12 month ago	NUMBER	DATE
+1.0	elderly people	choke on	rice cake over year period	0	0
+1.0	33 elderly people	choke on	rice cake over period 12 month ago	NUMBER	DATE
+1.0	country	on	traditional new year fare of rice cake	0	DATE
+1.0	official	say	media report	DATE	0
+1.0	them	have	Three	NUMBER	O
+1.0	four elderly man	be in	Japan	0	LOCATION
+1.0	33 elderly people	choke on	rice cake over year period	NUMBER	0
+1.0	33 elderly people	choke on	rice cake over period	NUMBER	0
+1.0	33 elderly people	be	hospitalise	NUMBER	0
+1.0	elderly people	choke on	rice cake	0	0

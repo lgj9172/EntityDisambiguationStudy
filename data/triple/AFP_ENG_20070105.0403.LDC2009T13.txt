@@ -1,0 +1,57 @@
+1.0	former government minister	be among	58 hostage include former	0	NUMBER
+1.0	former official Fernando Araujo	escape from	he captor	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape from he captor during military operation aim	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	be minister of	economic development	PERSON	0
+1.0	former official Fernando Araujo	escape during	operation	PERSON	0
+1.0	six guerrilla	kill	one soldier	NUMBER	NUMBER
+1.0	Andres Pastrana	under	1998-2002 government	PERSON	DURATION
+0.7068184602836214	former colombian official Fernando Araujo	hold	hostage	PERSON	0
+1.0	former government minister	be among	58 hostage include former hold	0	NUMBER
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape during	operation	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape from	he captor	PERSON	0
+1.0	Colombia rebels	have	Revolutionary Armed Forces	ORGANIZATION	O
+1.0	Luis Ernesto Araujo , the ex-official 's son	be	minister of development under Andres Pastrana 's 1998-2002 government	PERSON	PERSON
+1.0	former colombian official Fernando Araujo	escape from	he captor	PERSON	0
+0.7068184602836214	former colombian official Fernando Araujo	hold hostage since	2000	PERSON	DATE
+1.0	guerrilla	kill	one soldier	0	NUMBER
+1.0	Luis Ernesto Araujo , the ex-official 's son	be	colombian	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape from he captor	PERSON	0
+1.0	former official Fernando Araujo	escape at_time	Friday	PERSON	DATE
+1.0	Luis Ernesto Araujo , the ex-official 's son	have	captors	O	O
+1.0	Luis Ernesto Araujo , the ex-official 's son	be	minister of economic development under Andres Pastrana 's 1998-2002 government	PERSON	PERSON
+1.0	Luis Ernesto Araujo , the ex-official 's son	have	father	O	O
+1.0	development	have	minister	O	O
+1.0	former colombian official Fernando Araujo	escape at_time	Friday	PERSON	DATE
+1.0	Luis Ernesto Araujo , the ex-official 's son	be	minister	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape during	military operation aim	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	have	family	O	O
+1.0	Andres Pastrana	have	government	O	PERSON
+0.7068184602836214	former official Fernando Araujo	hold hostage by	FARC guerrilla	PERSON	ORGANIZATION
+1.0	Luis Ernesto Araujo , the ex-official 's son	be minister under	Andres Pastrana 's 1998-2002 government	PERSON	PERSON
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape during military operation	PERSON	0
+1.0	President Alvaro Uribe	say	add	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape during operation	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape from he captor during operation	PERSON	0
+1.0	former government minister	be among	58 hostage include former hold by Revolutionary Armed Forces	0	ORGANIZATION
+0.7068184602836214	former official Fernando Araujo	hold	hostage	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	son 's	ex-official	PERSON	0
+1.0	former colombian official Fernando Araujo	escape during	military operation	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape from he captor during operation aim	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape during	military operation	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape during operation aim	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape accord to	defense ministry source	PERSON	0
+1.0	former colombian official Fernando Araujo	escape during	operation	PERSON	0
+1.0	former government minister	be among	58 hostage include former hold by Revolutionary Armed Forces of Colombia rebel	0	ORGANIZATION
+1.0	Luis Ernesto Araujo , the ex-official 's son	be minister of	development	PERSON	0
+0.7068184602836214	former official Fernando Araujo	hold hostage since	2000	PERSON	DATE
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape during military operation aim	PERSON	0
+1.0	former government minister	be among	58 hostage	0	NUMBER
+1.0	Araujo	have	family	PERSON	0
+1.0	former official Fernando Araujo	escape during	military operation	PERSON	0
+1.0	ex-official	have	son	O	O
+1.0	ex-official	have	son	0	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	escape during	operation aim	PERSON	0
+1.0	Luis Ernesto Araujo , the ex-official 's son	manage	escape from he captor during military operation	PERSON	0
+1.0	Araujo	have	family	O	PERSON
+0.7068184602836214	former colombian official Fernando Araujo	hold hostage by	FARC guerrilla	PERSON	ORGANIZATION

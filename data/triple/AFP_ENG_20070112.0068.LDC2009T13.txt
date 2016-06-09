@@ -1,0 +1,106 @@
+1.0	he	jet	Central News Agency	0	ORGANIZATION
+1.0	rival	maintain	elaborate game for recognition	0	0
+1.0	ministry	deny	report	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	arrive in	Los Angeles	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	force	jet	PERSON	0
+1.0	Saint Lucia	have	Caribbean nation	O	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	return trip	O	O
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	plane air space	O	O
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	plane	O	O
+1.0	territory	have	part	O	O
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff	Washington 's offer	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff route	Washington 's offer	PERSON	LOCATION
+1.0	rival	maintain	elaborate game for diplomatic recognition	0	0
+1.0	Taiwan 's President Chen Shui-bian	force	jet fly around country	PERSON	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff	Washington 's offer for stopover	PERSON	LOCATION
+1.0	Taipei	be	elate	LOCATION	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff route	Washington 's offer for stopover in Alaska	PERSON	LOCATION
+1.0	two rival	maintain game in	Latin America	NUMBER	LOCATION
+1.0	Beijing	despite	protest	LOCATION	0
+0.33669769426858	US	allow on	Chen 's trip	LOCATION	PERSON
+1.0	US	allow stopover on	Chen 's trip	LOCATION	PERSON
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave route	Taipei	PERSON	LOCATION
+1.0	foreign ministry	deny	local report	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	be	bar	0	0
+1.0	foreign ministry	deny	report	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	be bar from	high-profile transit	0	0
+1.0	ministry	deny	local report	0	0
+1.0	Taiwan	have	Central News Agency	LOCATION	ORGANIZATION
+0.33669769426858	US	allow on	Chen 's current trip	LOCATION	PERSON
+1.0	the president	have	trip	O	O
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	regard	Taiwan as part	LOCATION	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	return home at_time	early Saturday	PERSON	DATE
+1.0	Nicaragua	be between	five hour	LOCATION	DURATION
+1.0	two rival	maintain game in	mainly Latin America	NUMBER	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	return home at_time	Saturday	PERSON	DATE
+1.0	transit	stop to	Taiwan 's top leader	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	return	home	PERSON	0
+1.0	Taiwan	have	Chen Shui-bian	LOCATION	PERSON
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff	Washington 's offer for stopover in Alaska	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	be bar from	transit in New York	0	LOCATION
+1.0	high-profile transit	be in	New York	0	LOCATION
+1.0	rival	maintain	game for diplomatic recognition	0	0
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	have	territory	O	O
+1.0	Taiwan 's President Chen Shui-bian	accuse	China	PERSON	LOCATION
+1.0	he jet	report at_time	Friday	0	DATE
+1.0	Taiwan 's President Chen Shui-bian on Friday	arrive in	Los Angeles from Nicaragua	PERSON	LOCATION
+1.0	Taiwan	have	Central News Agency	ORGANIZATION	LOCATION
+1.0	Los Angeles	be from	Nicaragua	LOCATION	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave taipei route on	Monday	PERSON	DATE
+1.0	Chen Shui-bian	be on	Friday	PERSON	DATE
+1.0	Taipei	be for	San Francisco	LOCATION	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave taipei on	Monday	PERSON	DATE
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	await	reunification by force necessary	LOCATION	0
+1.0	Chen Shui-bian	be president of	Taiwan	PERSON	LOCATION
+1.0	rival	maintain game in	mainly Latin America	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian	force	jet fly	PERSON	0
+1.0	rival	maintain	game	0	0
+1.0	President Daniel Ortega of Nicaragua	have	inauguration	O	PERSON
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave	Taipei	PERSON	LOCATION
+1.0	Beijing	have	protest	O	LOCATION
+1.0	Washington	have	offer for stopover in Alaska	LOCATION	LOCATION
+1.0	transit	stop to	Taiwan 's leader	0	LOCATION
+1.0	two rival	maintain	game	NUMBER	0
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	regard	Taiwan	LOCATION	LOCATION
+1.0	transit	stop despite	anger from China	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	be bar from	transit	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	trip	O	PERSON
+1.0	Nicaragua between four and five hours behind schedule	have	President Daniel Ortega	PERSON	LOCATION
+1.0	US	allow	stopover	LOCATION	0
+1.0	Taiwan	have	leaders	O	LOCATION
+1.0	two rival	maintain	elaborate game for diplomatic recognition	NUMBER	0
+1.0	Beijing 's	accuse	he	LOCATION	0
+1.0	president	visit	Caribbean nation of Saint Lucia	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	be bar from	high-profile transit in New York	0	LOCATION
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	await	reunification	LOCATION	0
+1.0	two rival	maintain	game for recognition	NUMBER	0
+1.0	two rival	maintain	game for diplomatic recognition	NUMBER	0
+1.0	two rival	maintain	elaborate game for recognition	NUMBER	0
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	regard	Taiwan as part of its territory	LOCATION	LOCATION
+1.0	Taiwan	have	President Chen Shui-bian	PERSON	LOCATION
+1.0	rival	maintain	elaborate game	0	0
+1.0	US	allow stopover on	Chen 's current trip	LOCATION	PERSON
+1.0	two rival	maintain	elaborate game	NUMBER	0
+1.0	trip	have	purpose	O	O
+1.0	rival	maintain game in	Latin America	0	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	rebuff route	Washington 's offer for stopover	PERSON	LOCATION
+1.0	Daniel Ortega	be of	Nicaragua between four and five hours behind schedule	PERSON	LOCATION
+1.0	Taiwan 's President Chen Shui-bian on Friday	on	current trip	PERSON	DATE
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave route	Taipei for San Francisco	PERSON	LOCATION
+1.0	President Daniel Ortega	have	inauguration	O	PERSON
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	jet	O	O
+1.0	he plane	bypass	air space	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	leave	Taipei for San Francisco	PERSON	LOCATION
+1.0	Washington	have	offer	O	LOCATION
+1.0	stopover	be in	Alaska	0	LOCATION
+1.0	China of pressuring Mexico into denying his plane air space during a flight to the United States	await	reunification by force	LOCATION	0
+1.0	suppression	have	measure	O	O
+1.0	president	visit caribbean nation during	he trip	0	0
+1.0	he plane	bypass	mexican air space	0	0
+1.0	rival	maintain	game for recognition	0	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	be	expect	PERSON	0
+1.0	Taiwan 's President Chen Shui-bian on Friday	have	trip	O	O
+1.0	president	visit	Caribbean nation	0	LOCATION
+0.536066213907059	China	pressure	Mexico	LOCATION	LOCATION
+1.0	transit	stop despite	anger	0	0
+1.0	Taiwan	to	top leader	LOCATION	0

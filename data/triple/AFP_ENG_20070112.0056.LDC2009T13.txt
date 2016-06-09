@@ -1,0 +1,78 @@
+1.0	150 insurgents in the eastern province of Paktika	be track	infiltrate from Pakistan	0	LOCATION
+1.0	Garmser district	see number with	insurgent capture district centre twice	LOCATION	0
+1.0	Garmser district	see number with	insurgent capture twice	LOCATION	0
+1.0	compounds	have	first	ORDINAL	O
+1.0	it	be take	step	0	0
+1.0	Paktika	have	province	O	LOCATION
+1.0	150 insurgent	be in	eastern province of Paktika	NUMBER	LOCATION
+1.0	news	come	one	0	DURATION
+1.0	hospital	be in	Lashkar Gah	0	LOCATION
+1.0	military press officer Robert Mead	tell	AFP	PERSON	ORGANIZATION
+1.0	Garmser	have	southernmost district	O	LOCATION
+1.0	intense fighting	be in	insurgency launch by Taliban	0	ORGANIZATION
+1.0	mullahkhail	say in	latest attack	0	0
+1.0	150 insurgents in the eastern province of Paktika	be	track	0	0
+1.0	fighting	have	some	O	O
+1.0	they	be remove from	government	0	0
+1.0	in compound	be in	the early hour	0	DURATION
+1.0	mullahkhail	say in	attack	0	0
+1.0	police chief Mohammad Nabi Mullahkhail	tell	AFP	PERSON	ORGANIZATION
+1.0	british press officer Robert Mead	tell	AFP	PERSON	ORGANIZATION
+1.0	province	have	south	O	O
+1.0	strike	have	time	DATE	O
+1.0	its	have	year	DATE	O
+1.0	building	be attack from	air	0	0
+1.0	150 insurgents in the eastern province of Paktika	infiltrate from	Pakistan	0	LOCATION
+1.0	Garmser district	see number with	insurgent capture briefly district centre at least twice	LOCATION	0
+1.0	compound	be in	remote southernmost district of Garmser	0	LOCATION
+1.0	Garmser district	see	number	LOCATION	0
+1.0	150 insurgents in the eastern province of Paktika	be track	infiltrate	0	0
+1.0	Garmser district	see number with	insurgent capture briefly	LOCATION	0
+1.0	military	say at_time	Friday	0	DATE
+1.0	they	be remove from	government in late 2001	0	DATE
+1.0	attack	have	News	O	O
+1.0	Taliban	be	in which support	ORGANIZATION	0
+1.0	Garmser district	see	number of clash	LOCATION	0
+1.0	government	be in	late 2001	0	DATE
+1.0	of 5,200 troops	be in	Afghanistan	NUMBER	LOCATION
+1.0	highest	have	one	NUMBER	O
+1.0	ISAF	have	forces	O	O
+1.0	Taliban force	be in	south of province	ORGANIZATION	0
+1.0	headquarters	have	one	NUMBER	O
+1.0	Taliban	be support by	Al	ORGANIZATION	ORGANIZATION
+1.0	NATO war plane	destroy	Taliban headquarters in southern Afghanistan	ORGANIZATION	LOCATION
+1.0	morning	have	hours	DURATION	TIME
+1.0	Taliban	be	in which support by Al	ORGANIZATION	ORGANIZATION
+1.0	NATO war plane	destroy	Taliban headquarters	ORGANIZATION	ORGANIZATION
+1.0	the Taliban	have	number	O	ORGANIZATION
+1.0	NATO war plane	destroy	key Taliban headquarters in southern Afghanistan	ORGANIZATION	LOCATION
+1.0	Garmser district	see number with	insurgent capture district centre at least twice	LOCATION	0
+1.0	Helmand	have	province	O	LOCATION
+1.0	they	be	remove	0	0
+1.0	british military	say at_time	Friday	0	DATE
+1.0	rebels	have	most	O	O
+1.0	Taliban	be	support	ORGANIZATION	0
+1.0	operation	have	terms	O	O
+1.0	Garmser district	see number with	insurgent capture briefly twice	LOCATION	0
+1.0	NATO war plane	destroy	Taliban headquarters in Afghanistan	ORGANIZATION	LOCATION
+1.0	their	have	attacks	O	O
+1.0	Garmser district	see number with	insurgent	LOCATION	0
+1.0	key Taliban headquarters	be in	Afghanistan	ORGANIZATION	LOCATION
+1.0	Garmser district	see	number of clash between rebel	LOCATION	0
+1.0	clashes	have	number	O	O
+1.0	Robert Mead	be	british	PERSON	0
+1.0	deployment	have	Most	O	O
+1.0	provincial police chief Mohammad Nabi Mullahkhail	tell	AFP	PERSON	ORGANIZATION
+1.0	captive	be in	compound	0	0
+1.0	biggest action	be in	Helmand	0	LOCATION
+1.0	Garmser district	see number with	insurgent capture	LOCATION	0
+1.0	Garmser district	see number with	insurgent capture briefly district centre twice	LOCATION	0
+1.0	building	be	attack	0	0
+0.4332009986312979	news	come at_time	day	0	DURATION
+1.0	strike	be in	province of Helmand early Thursday	0	DATE
+1.0	its	have	regret year	DATE	O
+1.0	press officer Robert Mead	tell	AFP	PERSON	ORGANIZATION
+1.0	NATO war plane	destroy	key Taliban headquarters in Afghanistan	ORGANIZATION	LOCATION
+1.0	attacks	have	intensity	O	O
+1.0	NATO war plane	destroy	key Taliban headquarters	ORGANIZATION	ORGANIZATION
+1.0	british military press officer Robert Mead	tell	AFP	PERSON	ORGANIZATION

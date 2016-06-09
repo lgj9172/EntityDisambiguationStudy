@@ -1,0 +1,72 @@
+1.0	newspaper	report at_time	Monday	0	DATE
+1.0	he home	be in	Italy	0	LOCATION
+1.0	I	have	acquaintance with call girl	0	0
+1.0	his	have	father	O	O
+1.0	Tony Blair	be	current	PERSON	0
+1.0	father	upon	death	0	0
+1.0	he	could continue as	member of parliament	0	ORGANIZATION
+1.0	his	have	family	O	O
+1.0	A junior defence minister	use	call girl	0	0
+1.0	I	behave with	credulous stupidity	0	0
+1.0	my	have	electorate	O	O
+1.0	he	be	picture	0	0
+1.0	Prime Minister	electorate	my	0	0
+1.0	Edward Heath	have	government	PERSON	0
+1.0	party	have	politician	O	O
+1.0	his	have	job	O	O
+1.0	Lambton	at	Tuscany villa two year ago	ORGANIZATION	LOCATION
+1.0	A junior defence minister	use	girl	0	0
+1.0	he	issue statement about	certain event of last month	0	DURATION
+1.0	her	have	friends	O	O
+1.0	Edward Heath	have	government	O	PERSON
+1.0	Prince Charles	stay at	400-year-old estate	PERSON	DURATION
+1.0	Lambton 's boss	be in	1973	ORGANIZATION	DATE
+1.0	friends	have	one	NUMBER	O
+1.0	he	could continue as	member of parliament in House	0	ORGANIZATION
+1.0	he	succeed to	earldom	0	0
+1.0	he	be picture with	two prostitute	0	NUMBER
+1.0	he	could continue as	member	0	0
+1.0	Commons	have	parliament	O	ORGANIZATION
+1.0	Prince Charles	heir to	throne	PERSON	0
+1.0	I	behave with	stupidity	0	0
+1.0	parliament	have	member	O	O
+1.0	Lambton	have	Tuscany villa	O	ORGANIZATION
+1.0	he	be picture in	newspaper	0	0
+1.0	he	issue statement about	certain event of last few month	0	DURATION
+1.0	he	issue statement about	event of month	0	0
+1.0	he	succeed to	earldom of Durham	0	LOCATION
+1.0	newspaper	be in	bed	0	0
+1.0	Lambton	have	boss	O	ORGANIZATION
+1.0	he	could continue as	member of parliament in lower House of Commons	0	ORGANIZATION
+1.0	he	issue statement about	event of last few month	0	DURATION
+1.0	loyalty	have	years	DURATION	O
+1.0	he	could continue as	member of parliament of Commons	0	ORGANIZATION
+1.0	Prince Charles	also stay at	estate	PERSON	0
+1.0	he	could continue as	member of parliament in House of Commons	0	ORGANIZATION
+1.0	he	issue statement about	event of few month	0	DURATION
+1.0	he	be picture in	newspaper in bed	0	0
+1.0	he	be	picture in newspaper with two prostitute	0	NUMBER
+1.0	father	have	death	O	O
+1.0	my	have	family	O	O
+1.0	he	issue statement about	certain event of month	0	0
+1.0	he	succeed on	on 1970	0	DATE
+1.0	Durham	have	earldom	O	LOCATION
+1.0	he	issue statement about	certain event of few month	0	DURATION
+1.0	he	disclaim	it	0	0
+1.0	he	succeed upon	he father 's death	0	0
+1.0	he	issue statement about	event of last month	0	DURATION
+1.0	I	have	casual acquaintance with call girl	0	0
+1.0	Prince Charles	stay at	estate	PERSON	0
+1.0	he	could continue as	member of parliament in lower House	0	ORGANIZATION
+1.0	Sun newspaper	say	add	ORGANIZATION	0
+1.0	parliament	be in	House of Commons	0	ORGANIZATION
+1.0	Prince Charles	also stay at	400-year-old estate	PERSON	DURATION
+1.0	sex	expose	drug	0	0
+1.0	I	have	acquaintance	0	0
+1.0	Anthony Lambton	have	home	O	O
+1.0	his	have	resignation	O	O
+1.0	casual acquaintance	be with	call girl	0	0
+1.0	I	have	casual acquaintance	0	0
+1.0	he	be	picture in newspaper in bed with two prostitute	0	NUMBER
+1.0	months	have	events	O	DURATION
+1.0	he	issue	statement	0	0

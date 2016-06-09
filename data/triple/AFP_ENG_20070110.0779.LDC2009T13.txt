@@ -1,0 +1,45 @@
+1.0	Baoshan Iron Steel Co Ltd	control	all of Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	20.6 million tonne	be in	the first 11 month last year	NUMBER	DATE
+1.0	Baoshan Iron Steel Co Ltd	currently control	almost all of steel asset	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	currently control	all Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	Baosteel Group	could list on	New York stock exchange	ORGANIZATION	LOCATION
+1.0	Shanghai Securities News	cite	unnamed official	ORGANIZATION	0
+1.0	group	accord to	third quarter financial statement	0	DATE
+1.0	Baoshan Iron Steel Co Ltd	currently control	almost all Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	Baoshan Iron Steel Co Ltd	control	almost all of steel asset	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	currently control	all of Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	Baoshan Iron Steel Co Ltd	control	all steel asset	ORGANIZATION	0
+1.0	Baosteel	have	profit	O	ORGANIZATION
+1.0	group	have	quarter statement	O	O
+1.0	Baoshan Iron Steel Co Ltd	control	all Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	China	have	steelmaker	O	LOCATION
+1.0	November 2007	can meet	US listing standard	0	LOCATION
+1.0	China	have	lead steelmaker	LOCATION	0
+1.0	group 's third quarter financial statement	accord to yuan be	1.22 billion dollar	DATE	MONEY
+1.0	official Shanghai Securities News	cite	official	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	control	almost all Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	Baoshan Iron Steel Co Ltd	control	almost all steel asset	ORGANIZATION	0
+1.0	Baosteel	have	net profit in first nine month of 2006	ORGANIZATION	DATE
+1.0	steel	have	output	O	O
+1.0	Baosteel Group	of	steel asset	ORGANIZATION	0
+1.0	November 2007	early can meet	US listing standard	0	LOCATION
+1.0	official Shanghai Securities News	cite	unnamed official	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	arm of	Baosteel Group	ORGANIZATION	ORGANIZATION
+1.0	30 million tonne	be with	output reach last year	MONEY	DATE
+1.0	steel assets	have	all	O	O
+1.0	China ping a Life Insurance	be	Citigroup Gobal Markets Ltd	ORGANIZATION	ORGANIZATION
+1.0	Baosteel 's net profit	be in	the first nine month of 2006	DATE	DATE
+1.0	Baosteel Group	have	steel assets	O	ORGANIZATION
+1.0	2006	have	profit	O	DATE
+1.0	Baoshan Iron Steel Co Ltd	currently control	almost all steel asset	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	currently control	all of steel asset	ORGANIZATION	0
+1.0	company	have	shareholders	O	O
+1.0	Shanghai Securities News	cite	official	ORGANIZATION	0
+1.0	state media	report at_time	Thursday	0	DATE
+1.0	Baoshan Iron Steel Co Ltd	control	all of steel asset	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	currently control	all steel asset	ORGANIZATION	0
+1.0	Baoshan Iron Steel Co Ltd	control	almost all of Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	China	ping	Life Insurance	ORGANIZATION	ORGANIZATION
+1.0	Baoshan Iron Steel Co Ltd	arm on	Shanghai Securities Exchange	ORGANIZATION	ORGANIZATION
+1.0	Baoshan Iron Steel Co Ltd	currently control	almost all of Baosteel Group 's steel asset	ORGANIZATION	ORGANIZATION
+1.0	Baosteel Group	have	arm	O	O

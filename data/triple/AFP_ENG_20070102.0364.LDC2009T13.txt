@@ -1,0 +1,56 @@
+1.0	Peruvians	work together with	diplomat in Israel	MISC	LOCATION
+1.0	Peruvians	work with	diplomat in Israel	MISC	LOCATION
+1.0	Jaime Razuri	be seize in	Gaza City Monday	PERSON	LOCATION
+1.0	french diplomat	be in	Israel	0	LOCATION
+1.0	Jaime Razuri	be	peruvian Agence France Presse	PERSON	ORGANIZATION
+1.0	Agence France	have	Gaza kidnapping	O	ORGANIZATION
+1.0	Razuri	have	kidnappers	O	PERSON
+1.0	Jaime Razuri	be	50	PERSON	NUMBER
+1.0	Jose Antonio Garcia Belaunde	be foreign minister of	Peru	PERSON	LOCATION
+1.0	Peruvians	work together with	diplomat	MISC	0
+1.0	Peruvians	work with	diplomat	MISC	0
+1.0	Razuri 50	be seize by	gunman	PERSON	0
+1.0	Razuri 50	be	seize in Gaza City Monday by gunman at entrance of afp office	PERSON	LOCATION
+1.0	Peru	have	foreign press association also	LOCATION	0
+1.0	Peru	have	Foreign Minister Jose Antonio Garcia Belaunde	PERSON	LOCATION
+1.0	Razuri 50	be seize by	gunman at entrance of afp office	PERSON	0
+1.0	Jaime Razuri	have	life	O	O
+1.0	Peru	have	chief	O	LOCATION
+1.0	Jaime Razuri	be seize by	gunman	PERSON	0
+1.0	Razuri	have	kidnapper respect	PERSON	0
+1.0	Peruvians	work with	french diplomat in Israel	MISC	LOCATION
+1.0	Jaime Razuri	be seize by	gunman at entrance	PERSON	0
+1.0	Peruvians	work together with	french diplomat	MISC	0
+1.0	Peruvians	work with	french diplomat	MISC	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	voice	concern	LOCATION	0
+1.0	Razuri 50	be	seize in Gaza City Monday by gunman	PERSON	LOCATION
+1.0	Jaime Razuri	be	seize in Gaza City Monday by gunman at entrance of afp office	PERSON	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	voice concern at	Gaza kidnapping of Agence France	LOCATION	ORGANIZATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde on Tuesday	have	release	O	O
+1.0	compatriot	have	liberation	O	O
+1.0	Razuri 50	be	seize	PERSON	0
+1.0	Jaime Razuri	be seize by	gunman at entrance of afp office	PERSON	0
+1.0	Peruvians	work together with	french diplomat in Israel	MISC	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	voice concern at	Gaza kidnapping	LOCATION	LOCATION
+1.0	Jaime Razuri	be	seize in Gaza City Monday by gunman	PERSON	LOCATION
+1.0	Jaime Razuri	be return from	assignment	0	0
+1.0	Peru 's press association	meanwhile condemn	abduction	LOCATION	0
+1.0	Jaime Razuri	be	seize	PERSON	0
+1.0	Razuri 50	be seize in	Gaza City Monday	PERSON	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	voice concern at	Gaza kidnapping of peruvian Agence France	LOCATION	ORGANIZATION
+1.0	Jaime Razuri	be	seize in Gaza City Monday by gunman at entrance	PERSON	LOCATION
+1.0	Jaime Razuri	be return from	assignment with translator	0	0
+1.0	Peru	have	press association	O	LOCATION
+1.0	assignment	be with	translator	0	0
+1.0	Jaime Razuri	be photographer of	peruvian Agence France Presse	PERSON	ORGANIZATION
+1.0	Jaime Razuri	have	health conditions	O	PERSON
+1.0	Jose Antonio Garcia Belaunde	be on	Tuesday	PERSON	DATE
+1.0	Peru 's foreign press association	meanwhile condemn	abduction	LOCATION	0
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde on Tuesday	have	freedom	O	O
+1.0	Peru 's foreign press association	condemn	abduction	LOCATION	0
+1.0	Razuri 50	be seize by	gunman at entrance	PERSON	0
+1.0	AFP offices	have	entrance	O	O
+1.0	Peru 's press association	condemn	abduction	LOCATION	0
+1.0	Razuri 50	be	seize in Gaza City Monday by gunman at entrance	PERSON	LOCATION
+1.0	Peru	have	Jose Antonio Garcia Belaunde	LOCATION	PERSON
+1.0	the abductors	have	compatriot	O	O

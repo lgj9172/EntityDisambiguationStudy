@@ -1,0 +1,27 @@
+1.0	country	have	economy minister	0	0
+1.0	camera	have	comparing	O	O
+1.0	Johnny Hallyday	be	supporter	0	0
+1.0	country	have	economy minister	O	O
+1.0	paper	report	Economy minister Doris Leuthard	0	PERSON
+1.0	Johnny Hallyday	be	where supporter of centre-right candidate Nicolas Sarkozy	0	PERSON
+1.0	Johnny Hallyday	be	where supporter of presidential candidate Nicolas Sarkozy	0	PERSON
+1.0	Johnny Hallyday	be	where supporter of centre-right presidential candidate Nicolas Sarkozy	0	PERSON
+1.0	Hallyday	have	tax exile	O	PERSON
+1.0	Federer	have	taxes	O	PERSON
+1.0	Switzerland	have	status	O	LOCATION
+1.0	Gstaad	have	ski resort	O	LOCATION
+1.0	Switzerland	have	status as tax haven for wealthy foreigner	LOCATION	0
+1.0	Johnny Hallyday	have	those	O	PERSON
+1.0	Johnny Hallyday	be	where supporter	0	0
+1.0	Johnny Hallyday	be	where supporter of candidate Nicolas Sarkozy	0	PERSON
+1.0	Geneva	have	Le Matin newspaper	LOCATION	ORGANIZATION
+1.0	Hallyday	have	tax exile	PERSON	0
+1.0	Johnny Hallyday	be supporter of	presidential candidate Nicolas Sarkozy	0	PERSON
+1.0	Switzerland 's status	be in	media spotlight	LOCATION	0
+1.0	Johnny Hallyday	be supporter of	centre-right presidential candidate Nicolas Sarkozy	0	PERSON
+1.0	Johnny Hallyday	be supporter of	centre-right candidate Nicolas Sarkozy	0	PERSON
+1.0	Johnny Hallyday	be supporter of	candidate Nicolas Sarkozy	0	PERSON
+1.0	Switzerland 's status	be in	media spotlight on Wednesday	LOCATION	DATE
+1.0	candidate Nicolas Sarkozy	have	supporter	O	PERSON
+1.0	Geneva	have	Le Matin newspaper	O	LOCATION
+1.0	Hallyday 's tax exile	have spark	debate	PERSON	0

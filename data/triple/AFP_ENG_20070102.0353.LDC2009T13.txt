@@ -1,0 +1,33 @@
+1.0	basque group	claim responsibility for	attack	0	0
+1.0	hotel	be in	Spain 's troubled basque region	0	LOCATION
+1.0	government	declare	nascent peace process	0	0
+1.0	government	declare	peace process terminate after bomb attack	0	0
+0.8019810024841535	two people	blast at	Madrid airport carpark	NUMBER	LOCATION
+1.0	Abadino	have	town	O	LOCATION
+1.0	government	declare	nascent peace process terminate	0	0
+1.0	armed group	claim responsibility for	attack	0	0
+1.0	government	be in	Madrid	0	LOCATION
+1.0	government	declare	peace process	0	0
+1.0	armed group	claim	responsibility	0	0
+1.0	basque country	have	interior ministry	0	ORGANIZATION
+1.0	armed basque group	claim	responsibility	0	0
+1.0	Vasco Press news agency	quote	ministry	ORGANIZATION	0
+1.0	blast	leave	two people	0	NUMBER
+1.0	incident	be in	town of abadino	0	0
+0.7965507797838163	nascent peace process	government in	Madrid	0	LOCATION
+0.8019810024841535	two people miss	blast at	Madrid airport carpark	NUMBER	LOCATION
+1.0	armed basque group	claim responsibility for	attack	0	0
+0.7965507797838163	peace process	government in	Madrid	0	LOCATION
+1.0	basque group	claim	responsibility	0	0
+1.0	nobody	be	hurt	0	0
+1.0	Spain	have	region	O	LOCATION
+1.0	blast	leave	two people miss presume	0	NUMBER
+1.0	group	claim responsibility for	attack	0	0
+1.0	Alfredo Perez Rubalcaba	be	spanish	PERSON	DURATION
+1.0	group	claim	responsibility	0	0
+1.0	blast	leave	two people presume	0	NUMBER
+1.0	government	declare	peace process terminate	0	0
+1.0	government	declare	nascent peace process terminate after bomb attack	0	0
+1.0	Spain	in	troubled basque region	LOCATION	0
+1.0	blast	leave	two people miss	0	NUMBER
+1.0	country	have	ministry	ORGANIZATION	O

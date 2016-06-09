@@ -1,0 +1,79 @@
+1.0	Japan	have	war dead include top war criminal from World War II	LOCATION	MISC
+1.0	Koizumi 's pilgrimage	come on	emotionally charge 61st anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	Koizumi 's pilgrimage	come on	charge anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Koizumi 's pilgrimage	come on	charge 61st anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	Koizumi 's pilgrimage	come on	emotionally charge anniversary	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	charge anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	Masahiro Horigome	allegedly set fire to	Yasukuni Shrine	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	emotionally charge anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	leaders	have	visits	O	O
+1.0	surrender	have	anniversary	O	O
+1.0	Masahiro Horigome 65	be arrest at_time	August	NUMBER	DATE
+1.0	Koizumi	have	critic	O	PERSON
+1.0	Masahiro Horigome	set	fire	PERSON	0
+1.0	Masahiro Horigome	be	arrest	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	emotionally charge anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Japan	have	aggression	O	LOCATION
+1.0	Masahiro Horigome	be	65	PERSON	NUMBER
+1.0	Koizumi 's pilgrimage	come on	emotionally charge 61st anniversary	PERSON	ORDINAL
+1.0	Junichiro Koizumi	have	trips	O	PERSON
+1.0	visits	have	politician	O	O
+1.0	Japan 's war	make	he annual visit	LOCATION	SET
+1.0	Koizumi 's pilgrimage	come on	charge 61st anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Koizumi 's pilgrimage	come on	61st anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	Masahiro Horigome	allegedly set	fire	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Koizumi 's pilgrimage	come on	anniversary	PERSON	0
+1.0	Masahiro Horigome 65	be	arrest	NUMBER	0
+1.0	Junichiro Koizumi	have	annual trip	PERSON	SET
+1.0	Japan 's war	make	he visit	LOCATION	0
+1.0	Masahiro Horigome	enter	he plea	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	61st anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Koichi Kato	be	critic	PERSON	0
+1.0	Koichi Kato	have	house	O	PERSON
+1.0	Koizumi	have	pilgrimage	PERSON	0
+1.0	Masahiro Horigome	allegedly set fire to	house	PERSON	0
+1.0	Masahiro Horigome 65	set fire to	the Yasukuni Shrine	NUMBER	LOCATION
+1.0	Masahiro Horigome 65	allegedly set fire to	the Yasukuni Shrine	NUMBER	LOCATION
+1.0	Koizumi 's pilgrimage	come on	emotionally charge anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	Koizumi 's pilgrimage	come on	emotionally charge 61st anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	Masahiro Horigome	be arrest at_time	last August	PERSON	DATE
+1.0	Masahiro Horigome 65	set fire to	house	NUMBER	0
+1.0	Koizumi 's pilgrimage	come on	anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	Koizumi	have	pilgrimage	O	PERSON
+1.0	Masahiro Horigome 65	allegedly set	fire	NUMBER	0
+1.0	Koizumi 's pilgrimage	come on	charge 61st anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	Japan	of	past military aggression	LOCATION	DATE
+1.0	Koizumi 's pilgrimage	come on	emotionally charge 61st anniversary of Japan 's surrender	PERSON	LOCATION
+1.0	Koizumi 's pilgrimage	come on	charge anniversary	PERSON	0
+1.0	aggression	have	symbol	O	O
+1.0	Japan	of	surrender in World War II on August 15	LOCATION	DATE
+1.0	Yasukuni Shrine	be in	Tokyo	0	LOCATION
+1.0	Masahiro Horigome	allegedly set fire to	the Yasukuni Shrine	PERSON	LOCATION
+1.0	Masahiro Horigome 65	allegedly set fire to	Yasukuni Shrine	NUMBER	0
+1.0	Masahiro Horigome	have	trial	O	O
+1.0	Koichi Kato	be	outspoken	PERSON	0
+1.0	Masahiro Horigome	be arrest at_time	August	PERSON	DATE
+1.0	Koizumi 's pilgrimage	come on	charge anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	trial	have	day	DURATION	O
+1.0	Masahiro Horigome 65	set fire to	Yasukuni Shrine	NUMBER	0
+1.0	Japan	have	war	O	LOCATION
+1.0	Masahiro Horigome 65	allegedly set fire to	house	NUMBER	0
+1.0	Masahiro Horigome	have	plea	O	O
+1.0	Koizumi	have	visit	O	O
+1.0	Koizumi 's pilgrimage	come on	charge 61st anniversary	PERSON	ORDINAL
+1.0	Koizumi 's pilgrimage	come on	61st anniversary of Japan 's surrender in World War II	PERSON	MISC
+1.0	Japan 's war dead	make	he annual visit	LOCATION	SET
+1.0	Japan 's surrender	be in	World War II	LOCATION	MISC
+1.0	politician	have	home	O	O
+1.0	Masahiro Horigome	set fire to	house	PERSON	0
+1.0	Koizumi 's pilgrimage	come on	anniversary of Japan 's surrender in World War II on August 15	PERSON	DATE
+1.0	Masahiro Horigome	set fire to	Yasukuni Shrine	PERSON	0
+1.0	Yamagata District Court	be in	Japan	ORGANIZATION	LOCATION
+1.0	Japan 's war dead	make	he visit	LOCATION	0
+1.0	Koizumi 's pilgrimage	come on	61st anniversary	PERSON	ORDINAL
+1.0	Masahiro Horigome 65	set	fire	NUMBER	0
+1.0	Japan	have	surrender	O	LOCATION
+1.0	Koichi Kato	be	outspoken critic	PERSON	0
+1.0	Masahiro Horigome	set fire to	the Yasukuni Shrine	PERSON	LOCATION
+1.0	Masahiro Horigome 65	be arrest at_time	last August	NUMBER	DATE

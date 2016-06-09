@@ -1,0 +1,53 @@
+1.0	PPR	be	businessman	ORGANIZATION	0
+1.0	company	have	energy asset	0	0
+0.8261183695294736	government-backed plan	create	french energy giant	0	0
+1.0	presidential election	be in	April	0	DATE
+1.0	initiative	have face	opposition	0	0
+1.0	Suez	merge with	gdf	ORGANIZATION	0
+1.0	a takeover bid for French utility group Suez	have	weekend edition	O	O
+1.0	fashion label Gucci	have	owner	O	ORGANIZATION
+1.0	initiative	have face	political opposition	0	0
+1.0	Suez	be set	merge	ORGANIZATION	0
+1.0	French billionaire Francois Pinault	be close friend of	French President Jacques Chirac	PERSON	PERSON
+1.0	assets	have	some	O	O
+1.0	company	have	energy assets	O	O
+1.0	Wall Street Journal	cite	people familiar	ORGANIZATION	0
+1.0	French President Jacques Chirac	have	friend	O	PERSON
+1.0	euros	have	bid	O	MONEY
+1.0	initiative	be affect by	outcome	0	0
+0.8261183695294736	plan	create	french energy giant	0	0
+1.0	people	familiar with	siutation	0	0
+0.8261183695294736	plan	create	energy giant	0	0
+1.0	Suez	be set	merge with gdf	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election	0	0
+1.0	Jacques Chirac	be of	French	PERSON	MISC
+1.0	elections	have	outcome	O	O
+1.0	state-controlled GDF	have	privatisation	O	ORGANIZATION
+1.0	Suez	be	set	ORGANIZATION	0
+0.9129447633152606	PPR	owner of	fashion label Gucci	ORGANIZATION	ORGANIZATION
+1.0	initiative	be affect by	outcome of election	0	0
+1.0	French billionaire Francois Pinault	be	friend	PERSON	0
+1.0	French billionaire Francois Pinault	be	close friend	PERSON	0
+1.0	French billionaire Francois Pinault	clarify	he intention	PERSON	0
+1.0	Francois Pinault	be	french	PERSON	0
+1.0	Suez	be set under	plan	ORGANIZATION	0
+1.0	french magazine Capital	have report at_time	Thursday	ORGANIZATION	DATE
+1.0	Pinault	be	close	PERSON	0
+1.0	initiative	be	affect	0	0
+1.0	state-controlled Gaz de France -LRB- GDF -RRB-	be between	Suez	LOCATION	ORGANIZATION
+1.0	french magazine Capital	sell	company 's energy asset	ORGANIZATION	0
+1.0	PPR	be businessman behind	luxury goods group	ORGANIZATION	0
+1.0	companies	have	prices	O	O
+1.0	initiative	be affect by	outcome of election in April	0	DATE
+1.0	Suez	have	assets	O	ORGANIZATION
+1.0	magazine Capital	sell	company 's energy asset	ORGANIZATION	0
+1.0	PPR	owner of	Gucci	ORGANIZATION	ORGANIZATION
+1.0	magazine Capital	have report at_time	Thursday	ORGANIZATION	DATE
+1.0	French billionaire Francois Pinault	have	intentions	O	O
+1.0	Wall Street Journal	cite	people familiar with siutation	ORGANIZATION	0
+0.8261183695294736	government-backed plan	create	energy giant	0	0
+1.0	French billionaire Francois Pinault	be friend of	French President Jacques Chirac	PERSON	PERSON
+1.0	Suez	be set under	government-backed plan	ORGANIZATION	0
+1.0	Capital	be	french	ORGANIZATION	0
+1.0	initiative	be affect by	outcome of presidential election in April	0	DATE
+1.0	amf	be	french	0	0

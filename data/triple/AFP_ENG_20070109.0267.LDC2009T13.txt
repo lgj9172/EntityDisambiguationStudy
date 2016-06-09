@@ -1,0 +1,73 @@
+1.0	subsidiary	be	nominally own	0	0
+1.0	companies	have	operations	O	O
+0.4823017695050055	Singapore 's Temasek Holdings	stake in	Thailand 's mobile operator	0	LOCATION
+1.0	interest	have	corruption	O	O
+1.0	Stock Exchange	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Thailand	have	military-installed government on Tuesday	LOCATION	DATE
+1.0	local subsidiary	be	own	0	0
+1.0	practice	become at_time	year	0	DATE
+1.0	they operation	be in	Thailand 's	0	LOCATION
+1.0	Singapore	have	Temasek Holdings	ORGANIZATION	LOCATION
+1.0	local subsidiary	be nominally own by	Thais	0	0
+1.0	investor	buy	96 percent of telecom giant Shin Corp for 3.8 billion dollar	0	MONEY
+1.0	investor	buy	96 percent of telecom giant Shin Corp	0	ORGANIZATION
+1.0	SET	say in	statement	0	0
+0.4823017695050055	Singapore 's Temasek Holdings	stake in	Thailand 's operator	0	LOCATION
+1.0	voting rights	be in	company	0	0
+1.0	foreign investor	be in	violation of new limit	0	DURATION
+1.0	subsidiary	be own by	Thais	0	0
+1.0	investor	buy	96 percent of telecom Shin Corp for 3.8 billion dollar	0	MONEY
+1.0	limits	have	violation	O	O
+1.0	Thailand	have	operator	O	LOCATION
+1.0	local subsidiary	be own by	Thais	0	0
+1.0	telecom	have	percent	PERCENT	O
+1.0	coup	have	leaders	O	O
+1.0	subsidiary	control by	foreigner	0	0
+0.4823017695050055	Singapore 's Temasek Holdings	stake in	satellite company	0	0
+1.0	shares	have	percent	PERCENT	O
+1.0	investor	buy	96 percent Shin Corp	0	ORGANIZATION
+1.0	set president Patareeya Benjapolchai	say after	study of public company	PERSON	0
+1.0	Foreign investors in violation of the new limits	have	voting rights	O	O
+1.0	local subsidiary	be	nominally own	0	0
+0.4823017695050055	Singapore 's Temasek Holdings	key stake in	Thailand 's biggest mobile operator	0	LOCATION
+1.0	firms	have	most	O	O
+1.0	public companies	have	shareholdings	O	O
+1.0	set president Patareeya Benjapolchai	say after	preliminary study of company	PERSON	0
+1.0	Thailand	in	biggest mobile operator	LOCATION	0
+1.0	companies	have	study	O	O
+1.0	Shin Corp	be for	3.8 billion dollar	ORGANIZATION	MONEY
+1.0	local subsidiary	control by	foreigner	0	0
+1.0	investor	buy	96 percent giant Shin Corp for 3.8 billion dollar	0	MONEY
+1.0	change	come amid	political pressure	0	0
+1.0	change	come amid	political pressure for leader	0	0
+1.0	set president Patareeya Benjapolchai	say after	preliminary study of public company	PERSON	0
+0.8246114161877479	investor	lead by	Singapore 's Temasek Holdings	0	ORGANIZATION
+1.0	set president Patareeya Benjapolchai	say after	preliminary study	PERSON	0
+1.0	Foreign investors in violation of the new limits	have	stakes	O	O
+1.0	subsidiary	be	own	0	0
+1.0	Thailand	's operator be	satellite company	LOCATION	0
+1.0	investor	buy	96 percent giant Shin Corp	0	ORGANIZATION
+1.0	change	come amid	pressure for leader	0	0
+1.0	subsidiary	be nominally own by	Thais	0	0
+1.0	Thailand 's government	limit	investor	LOCATION	0
+0.4823017695050055	Singapore 's Temasek Holdings	stake in	Thailand 's biggest operator	0	LOCATION
+1.0	set president Patareeya Benjapolchai	say after	study of company	PERSON	0
+1.0	practice	become at_time	controversial year	0	DATE
+1.0	Singapore	by	Temasek Holdings	LOCATION	ORGANIZATION
+1.0	investor	buy	96 percent of telecom Shin Corp	0	ORGANIZATION
+0.4823017695050055	Singapore 's Temasek Holdings	key stake in	Thailand 's operator	0	LOCATION
+1.0	practice	become at_time	controversial last year	0	DATE
+1.0	Thailand 's military-installed government	limit	investor	LOCATION	0
+1.0	investor	buy	96 percent Shin Corp for 3.8 billion dollar	0	MONEY
+0.4823017695050055	Singapore 's Temasek Holdings	stake in	Thailand 's biggest mobile operator	0	LOCATION
+0.4823017695050055	Singapore 's Temasek Holdings	key stake in	Thailand 's mobile operator	0	LOCATION
+1.0	Thailand	have	Stock Exchange	ORGANIZATION	ORGANIZATION
+1.0	Thailand	have	government	O	LOCATION
+1.0	Thailand 's military-installed government	limit	foreign investor	LOCATION	0
+1.0	set president Patareeya Benjapolchai	say after	study	PERSON	0
+1.0	Thailand 's government	limit	foreign investor	LOCATION	0
+1.0	practice	become at_time	last year	0	DATE
+0.4823017695050055	Singapore 's Temasek Holdings	key stake in	satellite company	0	0
+0.4823017695050055	Singapore 's Temasek Holdings	key stake in	Thailand 's biggest operator	0	LOCATION
+1.0	key stake	be in	Thailand 's biggest mobile operator	0	LOCATION
+1.0	change	come amid	pressure	0	0

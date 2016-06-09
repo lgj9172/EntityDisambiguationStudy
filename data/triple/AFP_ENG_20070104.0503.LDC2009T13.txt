@@ -1,0 +1,14 @@
+1.0	North Korea	prepare for	US television network ABC report Thursday	LOCATION	LOCATION
+1.0	US defense official	say by	US television network ABC reported Thursday	LOCATION	ORGANIZATION
+1.0	senior US defense official	say by	US television network ABC reported Thursday	LOCATION	ORGANIZATION
+1.0	ABC	be television network of	US	ORGANIZATION	LOCATION
+1.0	US defense official	be	quote	LOCATION	0
+1.0	North Korea	appear	have prepare	LOCATION	0
+1.0	North Korea	prepare for	US television network ABC report	LOCATION	LOCATION
+1.0	ABC	be	US	ORGANIZATION	LOCATION
+1.0	Pyongyang	have	test	O	O
+0.8839698280137521	US television network ABC	report	Thursday	LOCATION	DATE
+1.0	senior US defense official	be	quote	LOCATION	0
+1.0	intelligence	be	inconclusive	0	0
+1.0	North Korea	prepare for	US television network ABC	LOCATION	LOCATION
+1.0	North Korea	cite	US defense official	LOCATION	LOCATION

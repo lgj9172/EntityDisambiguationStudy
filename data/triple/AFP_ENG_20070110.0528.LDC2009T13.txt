@@ -1,0 +1,73 @@
+1.0	The EU 's	's chief be	Javier Solana	ORGANIZATION	PERSON
+1.0	EU Commissioner	be attend along with	minister	ORGANIZATION	0
+1.0	EU 's policy chief	close proceedings at_time	Friday	ORGANIZATION	DATE
+1.0	Norway	have	ministers	O	LOCATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	open	proceedings of gala dinner	PERSON	0
+1.0	EU 's policy chief	close	proceedings	ORGANIZATION	0
+1.0	meeting	begin on	Wednesday	0	DATE
+1.0	meeting	begin in	Madrid	0	LOCATION
+1.0	international meeting	begin on	Wednesday	0	DATE
+1.0	some	attend	version	0	0
+1.0	EU 's foreign policy chief	close proceedings at_time	Friday	ORGANIZATION	DATE
+0.4968793960127973	meeting	give discreet backing by	Madrid government	0	LOCATION
+0.4968793960127973	meeting	give	discreet backing	0	0
+1.0	former spanish minister	inaugurate	formal proceedings	0	0
+1.0	EU Commissioner	be attend with	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	former spanish prime minister	be	due	0	0
+0.4968793960127973	meeting	give	backing	0	0
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	open	proceedings ahead of gala dinner	PERSON	0
+1.0	former spanish prime minister	inaugurate proceedings on	Thursday	0	DATE
+1.0	meeting	create	atmosphere	0	0
+1.0	EU 's foreign policy chief	close	proceedings	ORGANIZATION	0
+1.0	former spanish minister	be	due	0	0
+1.0	Miguel Angel Moratinos	be	Spanish	PERSON	MISC
+1.0	participant	include	Arab League General Secretary Amr Mussa	0	ORGANIZATION
+1.0	EU Commissioner	be attend along with	minister of Denmark	ORGANIZATION	LOCATION
+1.0	EU Commissioner	be attend along with	foreign minister	ORGANIZATION	0
+1.0	former minister	inaugurate proceedings on	Thursday	0	DATE
+1.0	international meeting	begin in	Madrid	0	LOCATION
+1.0	two-day meeting	begin on	Wednesday	DURATION	DATE
+1.0	Alvaro de Soto	be peace envoy of	UN mideast	PERSON	LOCATION
+1.0	other participant	include	Arab League General Secretary Amr Mussa	0	ORGANIZATION
+1.0	Madrid	have	support	LOCATION	0
+1.0	The EU 's	have	policy chief	O	ORGANIZATION
+1.0	organiser	include	Toledo International Peace Centre Foundation	0	LOCATION
+1.0	former prime minister	inaugurate proceedings on	Thursday	0	DATE
+1.0	figures	have	number	O	O
+1.0	gala dinner	have	proceedings	O	O
+1.0	two-day meeting	begin in	Madrid	DURATION	LOCATION
+1.0	EU Commissioner	be attend along with	foreign minister of Denmark	ORGANIZATION	LOCATION
+1.0	whom	have	some	O	O
+1.0	EU Commissioner	be attend with	minister	ORGANIZATION	0
+1.0	EU Commissioner	be attend with	foreign minister	ORGANIZATION	0
+1.0	former spanish prime minister	inaugurate	proceedings	0	0
+1.0	EU Commissioner	be attend with	minister of Denmark	ORGANIZATION	LOCATION
+1.0	Amr Mussa	be	Arab League	PERSON	ORGANIZATION
+1.0	European	have	number	O	MISC
+1.0	two-day international meeting	begin on	Wednesday	DURATION	DATE
+1.0	former minister	be	due	0	0
+1.0	two-day international meeting	begin in	Madrid	DURATION	LOCATION
+1.0	former prime minister	be	due	0	0
+1.0	Sweden	have	ministers	O	LOCATION
+1.0	meeting	create	international atmosphere	0	0
+1.0	former spanish minister	inaugurate proceedings on	Thursday	0	DATE
+1.0	former minister	inaugurate	proceedings	0	0
+1.0	other invite participant	include	Arab League General Secretary Amr Mussa	0	ORGANIZATION
+1.0	Amr Mussa	be general secretary of	Arab League	PERSON	ORGANIZATION
+1.0	Spanish Foreign Minister Miguel Angel Moratinos	open	proceedings	PERSON	0
+1.0	Denmark	have	ministers	O	LOCATION
+1.0	civilisation	be in	Mediterranean Basin	0	LOCATION
+1.0	Madrid	have	support	O	LOCATION
+1.0	The EU 's	have	foreign policy chief	ORGANIZATION	0
+0.5504707787454786	initiative	back by	France	0	LOCATION
+1.0	former spanish prime minister	inaugurate	formal proceedings	0	0
+0.4968793960127973	meeting	give backing by	Madrid government	0	LOCATION
+1.0	invite participant	include	Arab League General Secretary Amr Mussa	0	ORGANIZATION
+1.0	former spanish minister	inaugurate	proceedings	0	0
+1.0	former prime minister	inaugurate	proceedings	0	0
+1.0	Toledo International Peace Centre	foundation	three culture	LOCATION	0
+1.0	some	attend	original version	0	0
+1.0	Javier Solana	be	Spaniard	PERSON	MISC
+1.0	Arab	have	number	O	MISC
+1.0	former minister	inaugurate	formal proceedings	0	0
+1.0	former prime minister	inaugurate	formal proceedings	0	0

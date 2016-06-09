@@ -1,0 +1,135 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	Australia	have	Prime Minister John Howard	PERSON	LOCATION
+1.0	President George W. Bush 's strategy	fail over	2003 invasion	PERSON	DATE
+1.0	Japan	have	unity	O	O
+1.0	Beckett	be	draw	PERSON	0
+1.0	President George W. Bush 's strategy	fail to	bridge division	PERSON	0
+1.0	democratic peaceful development	be	way out	0	0
+1.0	government 's coordinator	say	be scepticism	0	0
+1.0	Syria	have	government	LOCATION	0
+1.0	President George W. Bush 's strategy	fail to	division	PERSON	0
+1.0	german government	have	coordinator for relation with United States	0	LOCATION
+1.0	Britain	ally in	Iraq	LOCATION	LOCATION
+1.0	Bush	admit at_time	Wednesday	PERSON	DATE
+1.0	Iran	have	demand	LOCATION	0
+1.0	coalition	have	members	O	O
+1.0	democratic development	be	final way out	0	0
+1.0	year	have	end	DATE	DATE
+1.0	Iraq	in situation be	day	LOCATION	DURATION
+1.0	its	have	troops	O	O
+1.0	it	be	clear	0	0
+1.0	situation	day after	day	0	DURATION
+1.0	Iraq	have	problems	O	LOCATION
+1.0	peaceful development	be	final way out	0	0
+1.0	President George W. Bush 's new strategy	fail to	international division	PERSON	0
+1.0	Iraq	have	peace	O	LOCATION
+1.0	Japan	send troops to	Iraq in its deployment	LOCATION	LOCATION
+1.0	plan	have	result	O	O
+1.0	government 's coordinator	say	be certain scepticism in United States	0	LOCATION
+1.0	his	have	country	O	O
+1.0	John Howard	be prime minister of	Australia	PERSON	LOCATION
+1.0	Britain	have	troops	O	O
+1.0	ministry spokesman Liu Jianchao	tell	reporter	PERSON	0
+1.0	Bush	have	determination	O	PERSON
+1.0	democratic peaceful development	be	final way	0	0
+1.0	jordanian newspaper	say in	commentary	0	0
+1.0	german government	's coordinator be	Karsten Voigt	0	PERSON
+1.0	peaceful development	be	final way	0	0
+1.0	only way	retrieve	its stability	0	0
+1.0	President George W. Bush 's new strategy	fail to	division	PERSON	0
+1.0	peaceful development	be	way out	0	0
+1.0	Iraq	be in	its first foreign deployment	LOCATION	ORDINAL
+1.0	Japan	give	message	LOCATION	0
+1.0	german government 's coordinator	say	be certain scepticism in United States	0	LOCATION
+1.0	Iraq	have	synonymous	O	LOCATION
+1.0	german government 's coordinator	say	be certain scepticism	0	0
+1.0	we	naturally share here in	Germany	0	LOCATION
+1.0	President George W. Bush 's strategy	fail at_time	Thursday	PERSON	DATE
+1.0	relation	be with	United States	0	LOCATION
+1.0	Japan	send troops to	Iraq in its first foreign deployment	LOCATION	ORDINAL
+1.0	mistake	be make in	Iraq	0	LOCATION
+1.0	President George W. Bush 's new strategy	fail over	2003 invasion	PERSON	DATE
+1.0	its	have	deployment	O	O
+1.0	Philippe Douste-Blazy	be	French	PERSON	MISC
+1.0	invasion	have	opponents	O	O
+1.0	President George W. Bush 's strategy	fail with	opponent	PERSON	0
+1.0	troops	have	many	O	O
+1.0	Japan	send	troops	LOCATION	0
+1.0	relation	for coordinator be	Karsten Voigt	0	PERSON
+1.0	George W. Bush	have	new strategy for Iraq	PERSON	LOCATION
+1.0	situation	be in	Iraq	0	LOCATION
+1.0	independent newspaper	say in	commentary	0	0
+1.0	democratic peaceful development	be	final way out	0	0
+1.0	Bush	have	new plan	PERSON	0
+1.0	Iraq	have	development	O	LOCATION
+1.0	President George W. Bush 's strategy	fail to	international division	PERSON	0
+1.0	President George W. Bush 's new strategy	fail with	opponent	PERSON	0
+1.0	development	be	way	0	0
+1.0	Japan	send troops to	country	LOCATION	0
+1.0	mistake	be	make	0	0
+1.0	government	have	coordinator	O	O
+1.0	we	share in	Germany	0	LOCATION
+1.0	Bush	have	plan	O	PERSON
+1.0	French Foreign Minister Philippe Douste-Blazy	say	day after day	PERSON	DURATION
+1.0	Bush	have	determination defuse	PERSON	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	reporter	PERSON	0
+1.0	democratic peaceful development	be	way	0	0
+1.0	democratic development	be	way	0	0
+1.0	democratic development	be	way out	0	0
+1.0	development	be	way out	0	0
+1.0	United States	be	Karsten Voigt	LOCATION	PERSON
+1.0	Japan	send troops to	country in conflict	LOCATION	0
+1.0	its	have	troop presence	O	O
+1.0	Japan	send troops to	country in conflict since World War II	LOCATION	MISC
+1.0	Japan	send troops to	Iraq in its foreign deployment	LOCATION	LOCATION
+1.0	President George W. Bush 's new strategy	fail to	bridge division	PERSON	0
+1.0	democratic development	be	final way	0	0
+1.0	certain scepticism	be in	United States	0	LOCATION
+1.0	society	have	participation	O	O
+1.0	China	lead	Germany	LOCATION	LOCATION
+1.0	Beckett	decline	draw	PERSON	0
+1.0	French Foreign Minister Philippe Douste-Blazy	say	day	PERSON	DURATION
+1.0	components	have	participation	O	O
+1.0	main US ally	be in	Iraq	LOCATION	LOCATION
+1.0	we	naturally share in	Germany	0	LOCATION
+1.0	Iran	have	demand	O	LOCATION
+1.0	german government 's coordinator	say	be scepticism in United States	0	LOCATION
+1.0	he	tell	Suedwestrundfunk radio	0	ORGANIZATION
+1.0	President George W. Bush 's new strategy	fail to	bridge international division	PERSON	0
+1.0	Japan	have	sovereignty	O	O
+1.0	newspaper	say in	commentary	0	0
+1.0	development	be	final way	0	0
+1.0	Margaret Beckett	be	British	PERSON	MISC
+1.0	Syria	have	government	O	LOCATION
+1.0	President George W. Bush 's new strategy	fail at_time	Thursday	PERSON	DATE
+1.0	Arab media	give	negative comment	MISC	0
+1.0	China	lead	opponent of invasion	LOCATION	0
+1.0	he	renew	Iran 's demand	0	LOCATION
+1.0	Japan	give	similar message	LOCATION	0
+1.0	we	share here in	Germany	0	LOCATION
+1.0	Washington	withdraw	US troops	LOCATION	LOCATION
+1.0	country	be in	conflict since World War II	0	MISC
+1.0	german government 's coordinator	say	be scepticism	0	0
+1.0	President George W. Bush	have	strategy	O	PERSON
+1.0	China	lead	France	LOCATION	LOCATION
+1.0	Japan	send troops to	Iraq	LOCATION	LOCATION
+1.0	Arab media	give	comment	MISC	0
+1.0	way	retrieve	its stability	0	0
+1.0	Bush	admit at_time	late Wednesday	PERSON	DATE
+1.0	independent jordanian newspaper	say in	commentary	0	0
+1.0	US troops	have	number	O	O
+1.0	peaceful development	be	way	0	0
+1.0	Bush	admit in	televise speech	PERSON	0
+1.0	development	be	final way out	0	0
+1.0	Australia 's Prime Minister John Howard	support	Bush	LOCATION	PERSON
+1.0	President George W. Bush 's strategy	fail to	bridge international division	PERSON	0
+1.0	British Foreign Secretary Margaret Beckett	say in	London	MISC	LOCATION
+1.0	Australia	have	John Howard	LOCATION	PERSON
+1.0	Australia 's Prime Minister John Howard	also support	Bush	LOCATION	PERSON
+1.0	Japan	send troops to	Iraq in its first deployment	LOCATION	ORDINAL
+1.0	Japan	have	stability	O	O
+1.0	Japan	have	integrity	O	O
+1.0	government 's coordinator	say	be scepticism in United States	0	LOCATION
+1.0	Bush	admit in	speech	PERSON	0
+1.0	government 's coordinator	say	be certain scepticism	0	0
+1.0	China	lead	opponent	LOCATION	0

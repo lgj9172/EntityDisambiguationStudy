@@ -1,0 +1,58 @@
+1.0	region	have shortcoming in	four	0	NUMBER
+1.0	he report	be in	L'Espresso	0	PERSON
+1.0	southern region	have shortcoming in	four	0	NUMBER
+1.0	mouse	be	spot	0	0
+1.0	media commentator	call for	closure of hematology unit of hospital	0	0
+1.0	journalist Fabrizio Gatti	spend at	Rome 's Umberto	PERSON	LOCATION
+1.0	L'Espresso	be in	italian	PERSON	0
+1.0	overflow rubbish bin	be in	corridor	0	0
+1.0	Rome	in	main hospital	LOCATION	0
+1.0	mouse	be	where spot	0	0
+1.0	hygiene condition	be in	Rome 's main hospital	0	LOCATION
+1.0	media commentator	call in	wake of L'Espresso 's	0	PERSON
+1.0	safety	have	level	O	O
+1.0	undercover journalist Fabrizio Gatti	pose as	cleaner	PERSON	DURATION
+1.0	national police	of unit be	health-care protection	0	0
+1.0	NAS	say in	report	ORGANIZATION	0
+1.0	media commentator	call for	closure	0	0
+1.0	police	have	NAS unit	O	O
+1.0	region	have	shortcoming	0	0
+1.0	region	have	shortcoming in area	0	0
+1.0	hospital	have	hematology unit	O	O
+1.0	journalist Fabrizio Gatti	spend at_time	month	PERSON	DURATION
+1.0	storerooms	have	closure	O	O
+1.0	journalist Fabrizio Gatti	pose as	cleaner	PERSON	DURATION
+1.0	two storeroom	be in	Sicily	NUMBER	LOCATION
+1.0	southern region	have	shortcoming	0	0
+1.0	he report	describe	overflow bin	0	0
+1.0	hematology unit	have	closure	O	O
+1.0	chief Saverio Cotticelli	note	deficiency	0	0
+1.0	Rome	at	Umberto	LOCATION	0
+1.0	health provision	have	quality	O	O
+1.0	southern region	have	shortcoming in area of hygiene	0	0
+1.0	chief Saverio Cotticelli	note	deficiency in organization	0	0
+1.0	hygiene conditions	have	expose	O	O
+1.0	region	have	shortcoming in area of hygiene	0	0
+1.0	shortcoming	be in	area of hygiene	0	0
+1.0	undercover journalist Fabrizio Gatti	spend at	Rome 's Umberto	PERSON	LOCATION
+0.5580306254108084	chief Saverio Cotticelli	deficiency in	organization	0	0
+1.0	he report	describe	bin	0	0
+1.0	hygiene	have	area	O	O
+1.0	media commentator	call in	Naples	0	LOCATION
+1.0	hospitals	have	percent	PERCENT	O
+1.0	undercover journalist Fabrizio Gatti	have	report	O	O
+1.0	Rome	have	Umberto	O	LOCATION
+1.0	country	have	south	O	O
+1.0	media commentator	call for	closure of hematology unit	0	0
+1.0	dog faeces	have	sightings	O	O
+1.0	media commentator	call in	wake	0	0
+1.0	southern region	have	shortcoming in area	0	0
+1.0	Rome	have	hospital	O	LOCATION
+1.0	quality	have	level	O	O
+1.0	L'Espresso	be in	weekly	PERSON	SET
+1.0	Health Minister Livia Turco	say at_time	Thursday	PERSON	DATE
+1.0	confidence	be in	health system	0	0
+1.0	the NAS	have	inspections	O	O
+1.0	undercover journalist Fabrizio Gatti	spend at_time	month	PERSON	DURATION
+1.0	cleaning	have	area	O	O
+1.0	deficiency	be in	organization	0	0

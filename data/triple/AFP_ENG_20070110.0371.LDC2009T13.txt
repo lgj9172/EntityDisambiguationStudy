@@ -1,0 +1,26 @@
+1.0	Monika Dobrolubow-Stefaniak	tell	afp	PERSON	0
+1.0	factory	currently produce	the Fiat Panda	0	ORGANIZATION
+1.0	production	be set	begin	0	0
+1.0	report	be in	polish economic daily Puls Biznesu	0	SET
+1.0	The US auto maker Ford Motor Company on Wednesday	have	car brand	O	O
+1.0	Spain	from brand be	ka	LOCATION	0
+1.0	factory	produce	the Fiat Panda	0	ORGANIZATION
+1.0	Poland	to brand be	ka	LOCATION	0
+1.0	which	have	production	O	O
+1.0	latter	have	factory	0	0
+1.0	latter	have	factory	O	O
+1.0	vehicles	have	production	O	O
+1.0	Ford Motor Company	be	US	ORGANIZATION	LOCATION
+1.0	Monika Dobrolubow-Stefaniak	spokeswoman for	Ford Poland	PERSON	ORGANIZATION
+1.0	Ford Motor Company	be auto maker of	US	ORGANIZATION	LOCATION
+1.0	production line	be in	Poland	0	LOCATION
+1.0	ka	will	will be build	0	0
+1.0	Monika Dobrolubow-Stefaniak	comment on	report	PERSON	0
+1.0	The US auto maker Ford Motor Company on Wednesday	brand	ka	0	0
+1.0	car brand	have	production	O	O
+1.0	Monika Dobrolubow-Stefaniak	decline	comment	PERSON	0
+1.0	vehicle	be in	european small car segment	0	0
+1.0	Monika Dobrolubow-Stefaniak	decline	comment on report	PERSON	0
+1.0	production	be	set	0	0
+1.0	Ford Motor Company	be on	Wednesday	ORGANIZATION	DATE
+1.0	Fiat	be with	italian	ORGANIZATION	0

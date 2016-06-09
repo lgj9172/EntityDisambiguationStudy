@@ -1,0 +1,123 @@
+1.0	fisherman	find	15 survivor clothe in lifejacket float near Sumenep in water	0	LOCATION
+1.0	port	have	northeast	O	O
+1.0	simple ceremony	be in	Rembang	0	LOCATION
+1.0	Senopati Nusantara	be to	en route from Kumai Semarang	0	LOCATION
+1.0	rescuer	battle	storm	0	0
+1.0	ferry	sink at_time	Friday	0	DATE
+1.0	Senopati Nusantara	be to	en route from Kumai on Borneo island Semarang	0	LOCATION
+1.0	archipelago nation	between	17,000 island	0	NUMBER
+1.0	the ship	sink in	minute late	0	0
+1.0	the ship	sink in	minute	0	0
+1.0	Semarang	have	coffins	O	O
+1.0	weather	continue for	next few day	DURATION	DURATION
+1.0	fisherman	find	15 of survivor clothe in lifejacket float near Sumenep in water off East Java 's Madura island	0	LOCATION
+1.0	weather	have hamper	effort	0	0
+1.0	fisherman	find	15 survivor clothe in lifejacket	0	NUMBER
+1.0	East Java	off	Madura island	LOCATION	LOCATION
+1.0	ferry	be	link	0	0
+1.0	ferry	sink with	600 people on board	0	NUMBER
+0.409644911951817	weather	wave	rough sea	DURATION	0
+1.0	ferry	sink at_time	late Friday	0	DATE
+1.0	television picture	show	coffin of Semarang	0	0
+1.0	Semarang	destination of	ill-fated ferry	LOCATION	0
+1.0	survivor	have	have spot on liferaft	0	0
+1.0	rescuer	battle storm at_time	Wednesday	0	DATE
+1.0	fisherman	find	15 survivor clothe in lifejacket float	0	NUMBER
+1.0	bad weather	continue	rough sea	DURATION	0
+1.0	ferry	be	crucial link than officially	0	0
+1.0	the ship	sink at	night in storm	0	TIME
+1.0	ferry	carry	more people	0	0
+1.0	fisherman	find	15 of survivor	0	NUMBER
+1.0	television picture	show	large coffin of Semarang	0	0
+1.0	island	have	saved	O	O
+1.0	Central Java navy commander Colonel Yan Simamora	say	stress	PERSON	0
+1.0	Food	have	have drop to they	0	0
+1.0	survivors	have	return	O	O
+1.0	passenger	have describe	panic	0	0
+1.0	fisherman	find	15 of survivor clothe in lifejacket float	0	NUMBER
+1.0	bad weather	continue for	day	DURATION	0
+1.0	fisherman	find	15 survivor clothe	0	NUMBER
+1.0	three unidentified victim	be	bury	0	0
+1.0	fisherman	find	15 survivor	0	NUMBER
+1.0	ferry	be crucial link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	be	crucial link	0	0
+1.0	ground	be in	simple ceremony	0	0
+1.0	bad weather	continue for	next few day	DURATION	DURATION
+1.0	East Java	have	Madura island	O	LOCATION
+1.0	fisherman	find	15 survivor clothe in lifejacket float near Sumenep	0	LOCATION
+1.0	weather	pluck	huge wave	0	0
+1.0	rescuer	pluck	28 survivor of ferry disaster	0	NUMBER
+1.0	weather	pluck	wave	0	0
+0.409644911951817	bad weather	wave	sea	DURATION	0
+1.0	bad weather	pluck	wave	0	0
+1.0	ferry	be link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	three unidentified victim	be bury at_time	Wednesday	0	DATE
+1.0	search	continue despite	adverse condition	0	0
+1.0	bad weather	pluck	huge wave	0	0
+1.0	fisherman	find	15 survivor clothe in lifejacket float near Sumenep in water off East Java 's Madura island	0	LOCATION
+1.0	ferry	sink with	600 people	0	NUMBER
+1.0	the ship	sink at	night	0	TIME
+1.0	survivor	have	have spot	0	0
+1.0	fisherman	find	15 of survivor clothe	0	NUMBER
+1.0	Food	have	have drop	0	0
+1.0	bad weather	continue for	few day	DURATION	DURATION
+1.0	ferry	frequently carry	people	0	0
+1.0	the ship	sink off	Central Java	0	MISC
+1.0	ferry	have	destination	O	O
+1.0	kilometres	have	wind waves hundreds	O	O
+1.0	archipelago nation	have	islands	O	O
+1.0	television picture	show	wooden coffin	0	0
+1.0	fisherman	find	15 of survivor clothe in lifejacket float off East Java 's Madura island	0	LOCATION
+1.0	weather	continue	sea	DURATION	0
+0.409644911951817	bad weather	wave	rough sea	DURATION	0
+1.0	ferry	frequently carry	more people	0	0
+1.0	passenger	have describe	panic on ship	0	0
+1.0	Semarang	have	port	O	LOCATION
+1.0	television picture	show	large wooden coffin of Semarang	0	0
+1.0	search	continue despite	condition	0	0
+1.0	Senopati Nusantara	be to	en route Semarang	0	LOCATION
+1.0	night	be in	storm	TIME	0
+1.0	ferry	be	link than officially	0	0
+1.0	Madura	have	north	O	LOCATION
+1.0	metres	have	waves	O	O
+1.0	Madura island	have	floating	O	O
+1.0	fisherman	find	15 survivor clothe in lifejacket float off East Java 's Madura island	0	LOCATION
+1.0	weather	continue for	next day	DURATION	DURATION
+1.0	bad weather	continue	sea	DURATION	0
+1.0	Central Java	have	sank	O	MISC
+1.0	television picture	show	large coffin	0	0
+0.409644911951817	weather	wave	sea	DURATION	0
+1.0	ferry	be link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	vessel	be carry	542 passenger	0	NUMBER
+1.0	ferry disaster	have	survivors	O	O
+1.0	rescuer	be in	Indonesia	0	LOCATION
+1.0	bad weather	have hamper	effort	0	0
+1.0	Sumenep	be in	water	LOCATION	0
+1.0	ferry	carry	people	0	0
+1.0	Hiu	be	indonesian	PERSON	0
+1.0	rescuer	pluck	28 survivor	0	NUMBER
+1.0	Surabaya	be in	East Java province	LOCATION	MISC
+1.0	fisherman	find	15 survivor clothe in lifejacket float near Sumenep off East Java 's Madura island	0	LOCATION
+1.0	weather	continue	rough sea	DURATION	0
+1.0	Central Java navy commander Colonel Yan Simamora	tell	AFP	MISC	ORGANIZATION
+1.0	television picture	show	large wooden coffin	0	0
+1.0	transport safety officials	collect	datum	0	0
+1.0	ferry	be	crucial	0	0
+1.0	fisherman	find	15 of survivor clothe in lifejacket	0	NUMBER
+1.0	Senopati Nusantara	be to	Semarang	0	LOCATION
+1.0	fisherman	find	15 of survivor clothe in lifejacket float near Sumenep in water	0	LOCATION
+1.0	Central Java navy commander Colonel Yan Simamora	tell afp at_time	Wednesday	MISC	DATE
+1.0	bad weather	pluck	they	0	0
+1.0	fisherman	find	15 of survivor clothe in lifejacket float near Sumenep off East Java 's Madura island	0	LOCATION
+1.0	fisherman	find	15 of survivor clothe in lifejacket float near Sumenep	0	LOCATION
+1.0	weather	pluck	they	0	0
+1.0	unidentified victim	be	bury	0	0
+1.0	Yan Simamora	be	Central Java	PERSON	MISC
+1.0	unidentified victim	be bury at_time	Wednesday	0	DATE
+1.0	survivors	have	15	NUMBER	O
+1.0	weather	continue for	few day	DURATION	DURATION
+1.0	television picture	show	wooden coffin of Semarang	0	0
+1.0	bad weather	continue for	next day	DURATION	DURATION
+1.0	weather	continue for	day	DURATION	0
+1.0	ferry	be crucial link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	television picture	show	coffin	0	0

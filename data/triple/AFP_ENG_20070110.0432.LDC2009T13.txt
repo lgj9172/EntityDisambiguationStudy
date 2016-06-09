@@ -1,0 +1,18 @@
+1.0	terrorists	have	seven	NUMBER	O
+1.0	our	have	troops	O	O
+1.0	Somalia	have	government rout	O	LOCATION
+1.0	wounded	have	identities	O	O
+1.0	20 terrorists	have	13	NUMBER	O
+1.0	troops	have	control	O	O
+1.0	Somalia	have	transitional government rout	LOCATION	0
+1.0	Ethiopia 's Prime Minister Meles Zenawi	speak here to	reporter	PERSON	0
+1.0	whose	have	troops	O	O
+1.0	Meles Zenawi	be prime minister of	Ethiopia	PERSON	LOCATION
+1.0	whose troops	help	Somalia 's government rout	0	LOCATION
+1.0	Ethiopia	have	Meles Zenawi	LOCATION	PERSON
+1.0	Ethiopia 's Prime Minister Meles Zenawi	speak to	reporter	PERSON	0
+1.0	Ethiopia	have	Prime Minister Meles Zenawi	PERSON	LOCATION
+1.0	Ethiopia 's Prime Minister Meles Zenawi	say at_time	Wednesday	PERSON	DATE
+1.0	dead	have	identities	O	O
+1.0	five	have	capture	O	NUMBER
+1.0	whose troops	help	Somalia 's transitional government rout	0	LOCATION

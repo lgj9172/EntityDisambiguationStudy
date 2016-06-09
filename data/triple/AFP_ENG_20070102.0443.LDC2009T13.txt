@@ -1,0 +1,87 @@
+1.0	government	say in	defense policy paper issue week	0	DATE
+1.0	government	say in	defense policy paper issue	0	0
+1.0	China	accord to	interpretation of past diplomatic exchange with United States	LOCATION	LOCATION
+1.0	Beijing	await	reunification	LOCATION	0
+1.0	official	express	they hope	0	0
+1.0	US delegation	be nine-member team from	Armed Services Committee	LOCATION	ORGANIZATION
+1.0	China	on	energy strategy	LOCATION	0
+1.0	Beijing	still consider	island part of its territory	LOCATION	0
+1.0	US delegation	be nine-member team of	US House	LOCATION	LOCATION
+1.0	US delegation	be	nine-member team from Armed Services Committee of US House	LOCATION	LOCATION
+1.0	US delegation	be nine-member team of	US House of Representatives head	LOCATION	LOCATION
+1.0	China	have	interpretation	O	LOCATION
+1.0	US delegation	be	team from Armed Services Committee of US House of Representatives head by congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	countries	have	security	O	O
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+1.0	China 's interpretation of past diplomatic exchanges with the United States	have	weapon sales	O	O
+1.0	delegation	be	nine-member	0	0
+1.0	chinese official	express	they hope	0	0
+1.0	US House	have	team	O	ORGANIZATION
+1.0	report	cite	statement	0	0
+1.0	China	have	have separate since end	LOCATION	0
+1.0	past diplomatic exchange	be with	the United States	DATE	LOCATION
+1.0	US delegation	be nine-member team of	US House of Representatives	LOCATION	LOCATION
+1.0	report	cite	statement issue	0	0
+1.0	China 's defense spending	be in	2005	LOCATION	DATE
+1.0	China	have	have separate since end of war in 1949	LOCATION	DATE
+1.0	China	have	product	O	O
+1.0	report	cite	statement issue by China 's legislature	0	LOCATION
+1.0	China	have	defense spending in 2005	LOCATION	DATE
+1.0	China	have	defense expenditure as proportion of gross domestic product	LOCATION	NUMBER
+1.0	US delegation	be	team from Armed Services Committee of US House of Representatives head by republican congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	House of Representatives	be of	the United States	ORGANIZATION	LOCATION
+1.0	US delegation	be nine-member team of	US House of Representatives head by congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	China	have	have separate	LOCATION	0
+1.0	civil war	be in	1949	0	DATE
+1.0	China 's defense spending in 2005	have	product	O	O
+1.0	China	have	energy strategy	O	LOCATION
+1.0	US government	have promise accord to	China 's interpretation of past diplomatic exchange with United States	LOCATION	LOCATION
+1.0	kind	have	first	ORDINAL	O
+1.0	Beijing	consider	island part of its territory	LOCATION	0
+1.0	US government	have promise accord to	China 's interpretation of past exchange with United States	LOCATION	LOCATION
+1.0	US delegation	be	nine-member team from Armed Services Committee of US House of Representatives head by congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	report	cite	statement issue after talk	0	0
+1.0	US government	have promise accord to	China 's interpretation of past diplomatic exchange	LOCATION	DATE
+1.0	US delegation	be team of	US House of Representatives head by congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	China	have	defense spending	O	LOCATION
+1.0	US delegation	be nine-member team of	US House of Representatives head by republican congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	US delegation	be	nine-member team from Armed Services Committee of US House of Representatives head	LOCATION	LOCATION
+1.0	US delegation	be	nine-member team	LOCATION	0
+1.0	Beijing	have	territory	O	O
+1.0	report	cite	statement issue by China 's legislature after talk	0	LOCATION
+1.0	US delegation	be	team from Armed Services Committee of US House of Representatives head	LOCATION	LOCATION
+1.0	government	say in	defense policy paper issue last week	0	DATE
+1.0	China	have	defense expenditures	O	LOCATION
+1.0	product	have	percent	PERCENT	O
+1.0	Beijing	consider	island part	LOCATION	0
+1.0	China	by	legislature	LOCATION	0
+1.0	US delegation	be team of	US House of Representatives	LOCATION	LOCATION
+1.0	US delegation	be	team from Armed Services Committee of US House of Representatives	LOCATION	LOCATION
+1.0	China	have	have separate since end of civil war in 1949	LOCATION	DATE
+1.0	US delegation	be team from	Armed Services Committee	LOCATION	ORGANIZATION
+1.0	China	have	legislature	O	LOCATION
+1.0	exchanges	have	interpretation	O	O
+1.0	China	have	have separate since end of war	LOCATION	0
+1.0	US delegation	be team of	US House of Representatives head by republican congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	China	have	have separate since end of civil war	LOCATION	0
+1.0	US government	have promise accord to	China 's interpretation	LOCATION	LOCATION
+1.0	war	have	end	O	O
+1.0	US spending	have	percent	PERCENT	O
+1.0	US delegation	be team of	US House of Representatives head	LOCATION	LOCATION
+1.0	US government	have promise accord to	China 's interpretation of past exchange	LOCATION	DATE
+1.0	US delegation	be	team from Armed Services Committee of US House	LOCATION	LOCATION
+1.0	Roscoe Bartlett	be by	republican	PERSON	0
+1.0	Beijing	still consider	island part	LOCATION	0
+1.0	US delegation	be	nine-member team from Armed Services Committee of US House of Representatives head by republican congressman Roscoe Bartlett	LOCATION	LOCATION
+1.0	territory	have	island part	O	O
+1.0	state media	say at_time	Wednesday	0	DATE
+1.0	China	be	big	LOCATION	0
+1.0	government	say in	defense policy paper	0	0
+1.0	US delegation	be	nine-member team from Armed Services Committee of US House of Representatives	LOCATION	LOCATION
+1.0	US delegation	first of	its kind since last year 's mid	LOCATION	DATE
+1.0	product	have	proportion	O	O
+1.0	chinese defense expenditure	be in	2005	0	DATE
+1.0	The Chinese officials	have	hopes	O	O
+1.0	the first of its kind since last year 's mid - term elections	have	kind	O	O
+1.0	US delegation	be	team	LOCATION	0
+1.0	US delegation	be team of	US House	LOCATION	LOCATION

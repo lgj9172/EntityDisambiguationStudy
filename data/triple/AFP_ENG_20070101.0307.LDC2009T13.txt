@@ -1,0 +1,35 @@
+1.0	76,000 death	be cause out of	total for 2006	NUMBER	DATE
+1.0	76,000 death	be cause by	speeding drunk driving of violation	NUMBER	0
+0.6564807714741797	cite	ministry of	security	0	0
+0.6920094538669799	World Health Organization	report	road fatality	ORGANIZATION	0
+1.0	China	have	roads	O	LOCATION
+1.0	death	be cause by	speeding drunk driving of violation	0	0
+1.0	China	on	dangerous road	LOCATION	0
+1.0	death	be cause by	speeding drunk driving	0	0
+1.0	deaths	have	number	O	O
+1.0	76,000 death	be cause accord to	Xinhua	NUMBER	ORGANIZATION
+1.0	security	have	ministry	O	O
+1.0	death	be cause by	speeding driving	0	0
+1.0	Xinhua news agency	cite	ministry of public security	ORGANIZATION	0
+1.0	Xinhua news agency	cite	ministry	ORGANIZATION	0
+1.0	76,000 death	be cause by	speeding drunk driving	NUMBER	0
+1.0	China 's road	be	see	LOCATION	0
+1.0	death	be cause out of	total for 2006	0	DATE
+1.0	76,000 death	be	cause	NUMBER	0
+1.0	76,000 death	be cause by	speeding driving of violation	NUMBER	0
+1.0	state media	say at_time	Tuesday	0	SET
+1.0	China 's road	be see as	as dangerous in world	LOCATION	0
+1.0	China	have	road	LOCATION	0
+1.0	China 's road	be see as	as most dangerous	LOCATION	0
+1.0	violations	have	speeding driving	O	O
+1.0	death	be	cause	0	0
+1.0	total	have	caused	O	O
+1.0	death	be cause out of	total	0	0
+1.0	death	be cause accord to	Xinhua	0	ORGANIZATION
+1.0	China 's road	be see as	as most dangerous in world	LOCATION	0
+1.0	Xinhua news agency	cite	ministry of security	ORGANIZATION	0
+1.0	76,000 death	be cause out of	total	NUMBER	0
+0.6564807714741797	cite	ministry of	public security	0	0
+1.0	China 's road	be see as	as dangerous	LOCATION	0
+1.0	76,000 death	be cause by	speeding driving	NUMBER	0
+1.0	death	be cause by	speeding driving of violation	0	0

@@ -1,0 +1,62 @@
+1.0	corruption	have	convicted	O	O
+1.0	country	have	third-largest party	0	0
+1.0	polls	have	opposition boycott	O	O
+1.0	his	have	jail sentence	O	O
+1.0	he	surrender by	January 17	0	DATE
+1.0	conviction	contest	election schedule	0	0
+1.0	conviction	also bar	politician	0	0
+1.0	he	be oust by	people 's revolt	0	0
+1.0	Ershad	be see before	conviction	PERSON	0
+1.0	he	surrender to	court	0	0
+1.0	country 's Supreme Court	uphold	two-year jail sentence	ORGANIZATION	DURATION
+1.0	Ershad	be	see as potential kingmaker before conviction	PERSON	0
+1.0	conviction	contest	election	0	0
+1.0	conviction	also bar	septugenarian politician	0	0
+1.0	Ershad	be	see	PERSON	0
+1.0	country	have	party	O	O
+1.0	country 's Supreme Court	uphold jail sentence at_time	month	ORGANIZATION	DATE
+1.0	Bangladeshi law bar	anyone with	criminal record	MISC	0
+1.0	he	be ask	surrender by January 17	0	DATE
+1.0	conviction	bar	politician	0	0
+1.0	Bangladesh	be between	1982 and 1990	LOCATION	DATE
+1.0	decision	be	politically motivate	0	0
+1.0	sentence	have	completion	O	O
+1.0	he	be ask	surrender	0	0
+1.0	he	seize power in	bloodless coup	0	0
+1.0	country 's Supreme Court	uphold jail sentence at_time	late last month	ORGANIZATION	DATE
+1.0	people	have	revolt	O	O
+1.0	Ershad	lead	country 's party	PERSON	0
+1.0	country	have	Supreme Court	ORGANIZATION	O
+1.0	country	have	Supreme Court	0	ORGANIZATION
+1.0	conviction	contest	national election	0	0
+1.0	decision	be	motivate	0	0
+1.0	he	be	oust	0	0
+1.0	he	seize power in	coup	0	0
+1.0	district court	be in	Dhaka	0	LOCATION
+1.0	he	seize power in	bloodless coup in March 1982	0	DATE
+1.0	government lawyer	say at_time	Friday	0	DATE
+1.0	Ershad	make	plea	PERSON	0
+1.0	district court	set	deadline	0	0
+1.0	conviction	contest	national election schedule for January 22	0	DATE
+1.0	people 's revolt	be in	1990	0	DATE
+1.0	Bangladeshi law bar	anyone with	record	MISC	0
+1.0	district court	set deadline at_time	Thursday	0	DATE
+1.0	district court	set deadline at_time	late Thursday	0	DATE
+1.0	he	be ask	surrender to court by January 17	0	DATE
+1.0	conviction	be in	case	0	0
+1.0	Bangladeshi law bar anyone	be with	criminal record contest for five year follow completion of sentence	MISC	DURATION
+1.0	people	by	revolt in 1990	0	DATE
+1.0	he	seize power in	coup in March 1982	0	DATE
+1.0	Jatiya Party	have	secretary general	O	ORGANIZATION
+1.0	he	be ask	surrender to court	0	0
+1.0	country 's Supreme Court	uphold	jail sentence	ORGANIZATION	0
+1.0	conviction	contest	election schedule for January 22	0	DATE
+1.0	Ershad	lead	country 's third-largest party	PERSON	0
+1.0	A.B.M. Ruhul Amin Howlader	general of	Jatiya Party	PERSON	ORGANIZATION
+1.0	bloodless coup	be in	March 1982	0	DATE
+1.0	Ershad	be see as	potential kingmaker	PERSON	0
+1.0	he	seize	power	0	0
+1.0	conviction	bar	septugenarian politician	0	0
+1.0	he	be oust by	people 's revolt in 1990	0	DATE
+1.0	he	be	ask	0	0
+1.0	conviction	contest	national election schedule	0	0

@@ -1,0 +1,15 @@
+1.0	Belawan	have	ports	O	LOCATION
+1.0	year	have	quarter	DATE	DATE
+1.0	exchange	of	second product target	0	ORDINAL
+1.0	Singapore Exchange	start	jade derivative market for Rubber Futures Contract	ORGANIZATION	0
+1.0	The Monetary Authority of Singapore	have	permission	O	O
+1.0	product	have	launch	O	O
+1.0	JADE	say in	statement	ORGANIZATION	0
+1.0	Dumai Indonesia	have	ports	O	LOCATION
+1.0	exchange	say at_time	Thursday	0	DATE
+1.0	Singapore	have	Monetary Authority	ORGANIZATION	ORGANIZATION
+1.0	Singapore Exchange	start	Chicago Board	ORGANIZATION	ORGANIZATION
+1.0	Singapore Exchange	start	jade derivative market	ORGANIZATION	0
+1.0	Trade	have	Singapore Exchange	ORGANIZATION	ORGANIZATION
+1.0	Singapore Exchange	start	jade derivative market for asian Rubber Futures Contract	ORGANIZATION	0
+1.0	exchange	have	product	O	O

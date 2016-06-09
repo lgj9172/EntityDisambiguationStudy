@@ -1,0 +1,11 @@
+1.0	Muktar Iksan	tell afp at_time	evening	PERSON	TIME
+1.0	hospital official	say at_time	Friday	0	DATE
+1.0	Muktar Iksan	doctor at	Persahabatan hospital in Jakarta	PERSON	LOCATION
+1.0	country	have	death toll	0	0
+1.0	bird flu	have	died	O	O
+1.0	Persahabatan hospital	be in	Jakarta	0	LOCATION
+1.0	37-year-old woman	die at_time	Thursday	DURATION	DATE
+1.0	bird flu death	highest in	world so far	0	0
+1.0	woman	die at_time	Thursday	0	DATE
+1.0	Muktar Iksan	tell	afp	PERSON	0
+1.0	country	have	death toll	O	O

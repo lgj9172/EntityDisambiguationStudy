@@ -1,0 +1,17 @@
+1.0	benchmark sp/asx 200	post	its fourth record close	NUMBER	ORDINAL
+1.0	benchmark sp/asx 200	post	its fourth consecutive record close	NUMBER	ORDINAL
+1.0	benchmark sp/asx 200	post	its consecutive record close	NUMBER	0
+1.0	benchmark sp/asx	post	its record close	0	0
+1.0	benchmark sp/asx	add	0.3 point	0	NUMBER
+1.0	benchmark sp/asx 200	add	0.3 point	NUMBER	NUMBER
+0.06221292408889589	benchmark sp/asx 200	add to	5,670.2	NUMBER	NUMBER
+1.0	benchmark sp/asx	post	its fourth record close	0	ORDINAL
+1.0	5,645.9	have	high	O	NUMBER
+1.0	benchmark sp/asx 200	add	just 0.3 point	NUMBER	NUMBER
+1.0	strength	be in	resource sector	0	0
+1.0	benchmark sp/asx	post	its consecutive record close	0	0
+0.06221292408889589	benchmark sp/asx	add to	5,670.2	0	NUMBER
+1.0	benchmark sp/asx	post	its fourth consecutive record close	0	ORDINAL
+1.0	benchmark sp/asx	add	just 0.3 point	0	NUMBER
+1.0	The benchmark SP/ASX 200	have	record close	O	O
+1.0	benchmark sp/asx 200	post	its record close	NUMBER	0

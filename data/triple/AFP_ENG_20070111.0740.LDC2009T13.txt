@@ -1,0 +1,55 @@
+0.604425742050101	first	set with	break Murray game	ORDINAL	PERSON
+1.0	we	get	ready	0	0
+1.0	Murray	have	break	O	PERSON
+1.0	mother	have	death	O	O
+1.0	holder Andy Roddick	book	straight final at Kooyong Classic Friday	PERSON	MISC
+1.0	holder Andy Roddick	present	Holder Andy Roddick	PERSON	0
+1.0	we	get for	week	0	DATE
+1.0	holder	take	match lead	0	0
+1.0	Briton Andy	be	Briton	PERSON	MISC
+1.0	holder Andy Roddick	book	second final at Kooyong Classic Friday	PERSON	DURATION
+1.0	Roddick	be in	Kooyong	PERSON	LOCATION
+1.0	holder Andy Roddick	book	second straight final	PERSON	DURATION
+1.0	Murray	be in	fifth game	PERSON	ORDINAL
+1.0	we	get for	next week	0	DATE
+1.0	holder Andy Roddick	book	final at Kooyong Classic Friday	PERSON	MISC
+1.0	Holder Andy Roddick	be	beat	0	0
+0.604425742050101	first	set with	break Murray	ORDINAL	PERSON
+1.0	Holder Andy Roddick	somehow beat at_time	Roger tomorrow	0	DATE
+1.0	I	feel	pretty good	0	0
+1.0	it	will	will nice	0	0
+1.0	I	do at_time	last year	0	DATE
+1.0	holder Andy Roddick	book	final	PERSON	DURATION
+1.0	three	have	first	ORDINAL	NUMBER
+1.0	15th	have	ranking	O	ORDINAL
+1.0	I	feel	good	0	0
+1.0	I	do at_time	year	0	DATE
+1.0	Holder Andy Roddick	be	somehow beat Roger tomorrow	0	DATE
+0.604425742050101	first	set with	break Murray fifth game	ORDINAL	PERSON
+1.0	Briton Andy	be in	please tune-up performance for australian Open start on Monday	PERSON	MISC
+1.0	whose	have	coach	O	O
+0.8032640221154881	produce	run of	four consecutive second-set love game	0	NUMBER
+1.0	first	have	winning	O	ORDINAL
+0.604425742050101	first	set with	break	ORDINAL	0
+1.0	Roger Federer	defeat	Roddick in 2005 Kooyong	PERSON	PERSON
+1.0	Roger Federer	defeat	Roddick	PERSON	PERSON
+1.0	holder Andy Roddick	book	second final	PERSON	DURATION
+1.0	Roddick	beat	swiss	PERSON	0
+1.0	Holder Andy Roddick	beat	swiss	PERSON	0
+1.0	rallies	have	lot	O	O
+1.0	Marat Safin	be in	eight-man special event	PERSON	DATE
+1.0	Holder Andy Roddick	be	beat Roger tomorrow	0	DATE
+1.0	Holder Andy Roddick	nose in	front	PERSON	0
+1.0	my	have	preparations	O	O
+1.0	his	have	ranking	O	O
+1.0	Holder Andy Roddick	beat at_time	Roger tomorrow	0	DATE
+1.0	his	have	mother	O	O
+1.0	holder Andy Roddick	book	straight final	PERSON	DURATION
+1.0	a	have	games	O	O
+1.0	Jimmy Connors	remain	whose coach	PERSON	0
+1.0	his	have	form	O	O
+1.0	holder Andy Roddick	book	second straight final at Kooyong Classic Friday	PERSON	DURATION
+1.0	Holder Andy Roddick	be	somehow beat	0	0
+1.0	love games	have	run	O	O
+1.0	Roger Federer	defeat	Roddick in 2005 Kooyong final	PERSON	PERSON
+1.0	Holder Andy Roddick	again nose in	front	PERSON	0

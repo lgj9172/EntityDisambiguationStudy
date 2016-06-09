@@ -1,0 +1,44 @@
+1.0	death	be fatality in	attack claim	0	0
+1.0	death	be fatality in	attack	0	0
+1.0	death	be fatality in	attack claim by basque separatist group ETA since May 2003	0	DATE
+1.0	death	be	fatality	0	0
+1.0	death	be first fatality in	attack claim by separatist group ETA	0	ORGANIZATION
+1.0	Palate	have	car	O	LOCATION
+1.0	Saturday morning	have	blast	O	TIME
+1.0	ministry	quote	fire brigade source	ORGANIZATION	0
+1.0	ETA	be by	basque	ORGANIZATION	0
+1.0	Jose Luis Rodriguez Zapatero	be	Spanish	PERSON	MISC
+1.0	death	be first fatality in	attack claim by separatist group ETA since May 2003	0	DATE
+1.0	diego Armando Estacio	be	19	PERSON	NUMBER
+1.0	first fatality	be in	attack claim by armed basque separatist group ETA since May 2003	ORDINAL	DATE
+1.0	Diego Armando Estacio	have	office	O	O
+1.0	one	have	remains	O	NUMBER
+1.0	death	be first fatality in	attack claim by armed basque separatist group ETA since May 2003	0	DATE
+1.0	ministry	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	Palate	have	family	O	O
+1.0	death	be fatality in	attack claim by basque separatist group ETA	0	ORGANIZATION
+1.0	death	be fatality in	attack claim by armed separatist group ETA since May 2003	0	DATE
+1.0	Saturday	since	Madrid airport blast	DATE	LOCATION
+1.0	death	be first fatality in	attack claim by basque separatist group ETA since May 2003	0	DATE
+1.0	Carlos Alonso Palate	have	remains	O	O
+1.0	death	be fatality in	attack claim by separatist group ETA	0	ORGANIZATION
+1.0	death	be fatality in	attack claim by separatist group ETA since May 2003	0	DATE
+1.0	death	be first fatality in	attack	0	0
+1.0	Saturday	have	Madrid airport blast	O	DATE
+1.0	interior ministry	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	death	be first fatality in	attack claim by armed separatist group ETA since May 2003	0	DATE
+1.0	death	be	first fatality	0	ORDINAL
+1.0	ETA	be since	May 2003	ORGANIZATION	DATE
+1.0	death	be first fatality in	attack claim	0	0
+1.0	interior ministry	quote	fire brigade source	ORGANIZATION	0
+1.0	death	be fatality in	attack claim by armed basque separatist group ETA since May 2003	0	DATE
+1.0	death	be first fatality in	attack claim by armed basque separatist group ETA	0	ORGANIZATION
+1.0	death	be first fatality in	attack claim by basque separatist group ETA	0	ORGANIZATION
+1.0	death	be first fatality in	attack claim by armed separatist group ETA	0	ORGANIZATION
+1.0	Diego Armando Estacio	have	family	O	PERSON
+1.0	Palate	have	car	LOCATION	0
+1.0	death	be fatality in	attack claim by armed separatist group ETA	0	ORGANIZATION
+1.0	death	be fatality in	attack claim by armed basque separatist group ETA	0	ORGANIZATION
+1.0	morning	since	blast along with compatriot diego Armando Estacio 19	TIME	PERSON
+1.0	debris	have	tons	O	O
+1.0	men	have	remains	O	O

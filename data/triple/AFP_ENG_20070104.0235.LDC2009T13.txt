@@ -1,0 +1,170 @@
+1.0	leader	bid	hundred	0	0
+1.0	lawmaker	be in	Latvia	0	LOCATION
+1.0	President Vaira Vike	bow in front of	two coffin	PERSON	NUMBER
+1.0	St Peter 's church	be in	Riga	LOCATION	LOCATION
+1.0	leader	bid farewell to	two soldier	0	NUMBER
+1.0	Gints Bleija 25	be kill by	roadside bomb	PERSON	0
+1.0	forces	have	chaplain	O	O
+1.0	they tour	be	due	0	0
+1.0	soldier	be kill in	demine operation in 2004	0	DATE
+1.0	leader	bid farewell to	two young soldier kill	0	NUMBER
+1.0	leader	bid farewell to	two soldier kill last week	0	NUMBER
+1.0	political leader	bid farewell to	two soldier	0	NUMBER
+1.0	other soldier	survive	attack	0	0
+1.0	soldier	be	kill shortly	0	0
+1.0	soldier	be kill in	operation	0	0
+1.0	2.3 million	have	population	O	NUMBER
+1.0	three other latvian soldier	be	wound	0	0
+1.0	political leader	bid farewell to	two young soldier	0	NUMBER
+1.0	Political leaders	have	troops	O	O
+1.0	Gints Bleija	be	25	PERSON	NUMBER
+1.0	leader	bid farewell to	two latvian soldier	0	NUMBER
+1.0	political leader	bid farewell to	two soldier kill last week	0	NUMBER
+1.0	Gints Bleija 25	be kill by	roadside bomb near town of Al Diwaniyah on December 27	PERSON	DATE
+1.0	St Peter	in	church in Riga	LOCATION	LOCATION
+1.0	Latvia	have	whole	O	LOCATION
+1.0	they six-month tour	be	due	DURATION	0
+1.0	Vaira Vike freiberga	be	latvian	PERSON	0
+1.0	commander	be high in spite of	loss	0	0
+1.0	other latvian soldier	be	wound	0	0
+1.0	deployment	be	ready	0	0
+1.0	latvian President Vaira Vike	bow in front of	two coffin	PERSON	NUMBER
+1.0	soldiers	have	base	O	O
+1.0	civilians	have	hundreds	O	O
+1.0	honour	have	guard	O	O
+1.0	United States	have	ally	O	LOCATION
+1.0	leader	bid farewell to	two young soldier kill week	0	NUMBER
+1.0	Defence Minister Atis Slakteris	tell	afp	PERSON	0
+1.0	his	have	stint	O	O
+1.0	political leader	bid farewell to	two soldier kill week	0	NUMBER
+1.0	political leader	bid farewell to	two latvian soldier kill week	0	NUMBER
+1.0	political leader	bid farewell to	two latvian soldier	0	NUMBER
+1.0	chaplain	say during	service	0	0
+1.0	Elmars Plavins	say	allude	PERSON	0
+1.0	Defence Minister Atis Slakteris	tell afp at	service	PERSON	0
+1.0	Gints Bleija	be kill by	roadside bomb near central town of Al Diwaniyah	PERSON	LOCATION
+1.0	St Peter	have	church	O	LOCATION
+1.0	new deployment	be	ready	0	0
+1.0	political leader	bid farewell to	two young soldier kill week	0	NUMBER
+1.0	leader	gather	hundred	0	0
+1.0	Riga	in	Old Town	LOCATION	LOCATION
+1.0	Al Diwaniyah	fatality from	baltic state	LOCATION	0
+1.0	political leader	bid farewell to	two latvian soldier kill	0	NUMBER
+1.0	the	have	family	O	O
+1.0	Gints Bleija 25	be kill by	roadside bomb near town of Al Diwaniyah	PERSON	LOCATION
+1.0	leader	gather in	St Peter 's church in Riga	0	LOCATION
+1.0	Al Diwaniyah	have	town	O	LOCATION
+1.0	two young Latvian soldiers killed in Iraq last week	have	tour	O	O
+1.0	political leader	bid	hundred of civilian	0	0
+1.0	chaplain	say during	funeral service	0	0
+1.0	political leader	bid	personnel	0	0
+1.0	124 soldier	be in	Iraq	NUMBER	LOCATION
+1.0	leader	bid farewell to	two soldier kill week	0	NUMBER
+1.0	two young Latvian soldiers killed in Iraq last week	have	deployment	O	O
+1.0	political leader	bid farewell to	two soldier kill	0	NUMBER
+1.0	Gints Bleija	send	soldier	0	0
+1.0	they Hummer vehicle	drive at_time	past last week	0	DATE
+1.0	soldier	be kill in	operation in 2004	0	DATE
+1.0	President Vaira Vike	bow silently in front of	two coffin	PERSON	NUMBER
+1.0	leader	bid farewell to	two latvian soldier kill week	0	NUMBER
+1.0	Gints Bleija 25	be kill by	roadside bomb near central town of Al Diwaniyah on December 27	PERSON	DATE
+1.0	political leader	bid	military personnel	0	0
+1.0	leader	bid farewell to	two young soldier kill last week	0	NUMBER
+1.0	force	say in	statement	0	0
+1.0	Riga	have	Old Town	LOCATION	LOCATION
+1.0	political leader	bid farewell to	two young soldier kill	0	NUMBER
+1.0	political leader	bid	diplomat	0	0
+1.0	Elmars Plavins	say	allude to fact	PERSON	0
+1.0	leader	gather in	St Peter 's church	0	LOCATION
+1.0	young soldier	be	kill	0	0
+1.0	Baghdad	have	southeast	O	LOCATION
+1.0	Gints Bleija	be kill by	roadside bomb near town of Al Diwaniyah on December 27	PERSON	DATE
+1.0	demine operation	be in	2004	0	DATE
+1.0	political leader	gather	military personnel	0	0
+1.0	loss	have	high	O	O
+1.0	three other soldier	survive	attack	NUMBER	0
+1.0	Gints Bleija 25	be kill by	roadside bomb near town	PERSON	0
+1.0	battalion	have	commander	O	O
+1.0	God	have	mercy towards troops	0	0
+1.0	leader	bid farewell to	two latvian soldier kill last week	0	NUMBER
+1.0	political leader	bid farewell to	two young latvian soldier	0	NUMBER
+1.0	we mission	be in	Iraq	0	LOCATION
+1.0	young soldier	be	kill shortly	0	0
+1.0	leader	bid	farewell	0	0
+1.0	sob	fill	church	0	0
+1.0	leader	bid farewell to	two latvian soldier kill	0	NUMBER
+1.0	Gints Bleija	be kill by	roadside bomb near town of Al Diwaniyah	PERSON	LOCATION
+1.0	soldier	be	kill	0	0
+1.0	leader	bid	personnel	0	0
+1.0	Major Ilmars Lejins	tell	afp	PERSON	0
+1.0	Gints Bleija	be	kill	PERSON	0
+1.0	Gints Bleija	be kill by	roadside bomb near town	PERSON	0
+1.0	armed force	say in	statement	0	0
+1.0	leader	gather	military personnel	0	0
+1.0	political leader	gather	personnel	0	0
+1.0	commander	be	high	0	0
+1.0	duty	have	tour	O	O
+1.0	political leader	bid farewell to	two latvian soldier kill last week	0	NUMBER
+1.0	Major Ilmars Lejins	tell afp in	Riga 's Old Town	PERSON	LOCATION
+1.0	grieving friends	have	mission	O	O
+1.0	army	private	Vitalijs Vasiljevs	0	PERSON
+1.0	friends	have	sobs	O	O
+1.0	family	have	sobs	O	O
+1.0	political leader	bid farewell to	two young soldier kill last week	0	NUMBER
+1.0	maroon-red flower	colour of	latvian flag	PERSON	0
+1.0	two young Latvian soldiers killed in Iraq last week	have	colleagues	O	O
+1.0	leader	bid	military personnel	0	0
+1.0	leader	bid	hundred of civilian	0	0
+1.0	they Hummer vehicle	kill	Vitalijs Vasiljevs	0	PERSON
+1.0	political leader	gather in	St Peter 's church	0	LOCATION
+1.0	political leader	gather	diplomat	0	0
+1.0	they Hummer vehicle	drive at_time	past week	0	DATE
+1.0	baltic state	of	troops	0	0
+1.0	flag	have	colours	O	O
+1.0	Defence Minister Atis Slakteris	tell afp at	funeral service	PERSON	0
+1.0	their Hummer vehicle	have	way	O	O
+1.0	political leader	gather in	St Peter 's church in Riga	0	LOCATION
+1.0	political leader	bid	farewell	0	0
+1.0	political leader	gather	hundred of civilian	0	0
+1.0	Al Diwaniyah on December 27	southeast of	Baghdad	ORGANIZATION	LOCATION
+1.0	soldiers	have	caskets	O	O
+1.0	state	have	troops	O	O
+1.0	coffins	have	bowed	O	O
+1.0	soldier	be kill in	demine operation	0	0
+1.0	flowers	have	composed	O	O
+1.0	commander	be high in spite of	loss of they colleague	0	0
+1.0	Al Diwaniyah	be on	December 27	LOCATION	DATE
+1.0	Three other Latvian soldiers	have	Hummer vehicle	O	O
+1.0	Major Ilmars Lejins	tell afp at	church	PERSON	0
+1.0	latvian army	private	Vitalijs Vasiljevs	0	PERSON
+1.0	Gints Bleija 25	be kill by	roadside bomb near central town	PERSON	0
+1.0	Gints Bleija 25	be kill by	roadside bomb near central town of Al Diwaniyah	PERSON	LOCATION
+1.0	Vitalijs Vasiljevs	be	24	PERSON	NUMBER
+1.0	sob	fill	historic church	0	0
+1.0	chaplain	say for	two soldier	0	NUMBER
+1.0	two young Latvian soldiers killed in Iraq last week	have	duty	O	O
+1.0	leader	gather	diplomat	0	0
+1.0	December 27	on diwaniyah be	first combat fatality from baltic state	DATE	ORDINAL
+1.0	leader	bid farewell to	two soldier kill	0	NUMBER
+1.0	Gints Bleija	be kill by	roadside bomb	PERSON	0
+1.0	Gints Bleija	send soldier to	Iraq	0	LOCATION
+1.0	leader	bid farewell to	two young latvian soldier	0	NUMBER
+1.0	political leader	gather	hundred	0	0
+1.0	latvian President Vaira Vike	bow silently in front of	two coffin	PERSON	NUMBER
+1.0	duty	be in	Iraq	0	LOCATION
+1.0	leader	bid farewell to	two young soldier	0	NUMBER
+1.0	Gints Bleija	be kill by	roadside bomb near central town of Al Diwaniyah on December 27	PERSON	DATE
+1.0	political leader	bid	hundred	0	0
+1.0	leader	gather	personnel	0	0
+1.0	Gints Bleija	send soldier in	2003	0	DATE
+1.0	Gints Bleija	be kill by	roadside bomb near central town	PERSON	0
+1.0	two young Latvian soldiers killed in Iraq last week	have	best	O	O
+1.0	grieving friends	have	duties	O	O
+1.0	Gints Bleija 25	be	kill	PERSON	0
+1.0	leader	gather	hundred of civilian	0	0
+1.0	dignitary	attend	ceremony	0	0
+1.0	troops	have	mission	O	O
+1.0	God	have	mercy	O	O
+1.0	leader	bid	diplomat	0	0
+1.0	colleagues	have	loss	O	O
+1.0	Elmars Plavins	allude to	fact	PERSON	0

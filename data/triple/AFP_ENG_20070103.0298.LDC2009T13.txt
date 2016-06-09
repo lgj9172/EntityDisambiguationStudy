@@ -1,0 +1,61 @@
+1.0	country	have	takeover	O	O
+1.0	at least three suspects	flee on	face	0	0
+1.0	The United States on Wednesday	have	citizens	O	O
+1.0	Somalia	have	Islamists	LOCATION	MISC
+1.0	Americans	exercise	caution	MISC	0
+1.0	US embassy	urge	Americans	LOCATION	MISC
+1.0	US citizens	have	bastion	O	O
+1.0	Americans	exercise caution due to	military operation in Somalia	MISC	LOCATION
+1.0	Americans	exercise caution due to	military operation	MISC	0
+1.0	us-backed warlord alliance	expand	they territory	0	0
+1.0	at least three suspects	flee from	capital Mogadishu	0	LOCATION
+1.0	us-backed warlord alliance	impose	Sharia law	0	0
+1.0	Islamists	rise to	power	MISC	0
+1.0	US embassies	have	bombing	O	O
+1.0	bombing	have	accused	O	O
+1.0	Americans	exercise caution due to	operation in Somalia	MISC	LOCATION
+1.0	Somalia 's Islamists	be defeat by	ethiopian-backed government force	LOCATION	0
+1.0	Kismayo	have	town	O	LOCATION
+0.8493162150255825	salaam	hotel	2002 attack	0	DATE
+1.0	us-backed warlord alliance	rapidly expand	they territory	0	0
+1.0	several	have	forced	O	O
+1.0	US citizens	have	frontline positions	O	O
+1.0	Mombasa	have	city	O	LOCATION
+1.0	takeover	have	fears	O	O
+0.9865601769964174	suspect	three at	least	0	0
+1.0	Somalia 's Islamists	be defeat by	government force	LOCATION	0
+1.0	fighting	have	weeks	DURATION	O
+1.0	Islamists	be	vanquish	MISC	0
+1.0	frontline positions	have	several	O	O
+1.0	warlord alliance	rapidly expand	they territory	0	0
+1.0	Islamists	abandon	they base	MISC	0
+1.0	suspect	hide among	Islamists	0	MISC
+1.0	warlord alliance	impose	strict Sharia law	0	0
+1.0	Islamists	defeat	warlord alliance	MISC	0
+1.0	military operation	be in	Somalia 's	0	LOCATION
+1.0	warlord alliance	impose	Sharia law	0	0
+1.0	at least three suspects	flee on	face of firepower	0	0
+1.0	Islamists	abandon	they last base	MISC	0
+1.0	embassy	say in	notice to US citizen	0	LOCATION
+1.0	Islamists	rise before	onslaught	MISC	0
+1.0	Islamists	be vanquish after	nearly two week	MISC	DURATION
+1.0	embassy	say in	notice	0	0
+1.0	Islamists	rise before	ethiopian onslaught	MISC	0
+1.0	Somalia 's Islamists	be	defeat	LOCATION	0
+1.0	US embassy	be in	Nairobi	LOCATION	LOCATION
+1.0	Somalia	have	Islamists	MISC	LOCATION
+1.0	reprisals	have	Kenya	LOCATION	O
+1.0	Americans	exercise caution due to	operation	MISC	0
+1.0	warlord alliance	expand	they territory	0	0
+1.0	firepower	have	face	O	O
+1.0	United States	warn	its citizen	LOCATION	0
+1.0	United States	be on	Wednesday	LOCATION	DATE
+1.0	us-backed warlord alliance	impose	strict Sharia law	0	0
+1.0	israeli-owned hotel	be in	kenyan port city of Mombasa	0	LOCATION
+1.0	at least three suspects	have	territory	O	O
+1.0	at least three suspects	flee on	face of ethiopian firepower	0	0
+0.8493162150255825	salaam	israeli-owned hotel	2002 attack	0	DATE
+1.0	Dar	e	salaam	LOCATION	0
+1.0	Islamists	defeat	us-backed warlord alliance	MISC	0
+1.0	its citizens	have	base	O	O
+1.0	Islamists	defeat warlord alliance in	June	MISC	DATE

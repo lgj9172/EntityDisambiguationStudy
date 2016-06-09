@@ -1,0 +1,175 @@
+1.0	stage	have	motorbike car sections	O	O
+1.0	spanish competitor	win	motorbike section of fifth stage	0	ORDINAL
+1.0	Spaniards	have already create	gap between they	0	0
+1.0	coma	ride together until	finish line	0	0
+1.0	competitor	win	motorbike section of fifth stage	0	ORDINAL
+1.0	coma	ride together until	line	0	0
+1.0	Sainz	eventually cross line with	advantage over Peterhansel	PERSON	LOCATION
+1.0	Sainz	have	career	O	O
+1.0	Elmer Symons	have	death	O	PERSON
+1.0	third	lose time to	coma	ORDINAL	0
+0.270954568891561	third	lie behind	leader	ORDINAL	0
+1.0	Sainz	eventually cross line with	just advantage	PERSON	0
+1.0	weekly	say in	article	SET	0
+1.0	coma	ride practically together until	finish line	0	0
+1.0	he	get	past Jean-Louis Schlesser	0	DATE
+1.0	David Casteu	be	Frenchman	PERSON	MISC
+1.0	Sainz	win	Dakar stage	PERSON	LOCATION
+1.0	Isidre Esteve Pujol	finish ahead of	leader Marc Coma	PERSON	PERSON
+1.0	spanish competitor	win	motorbike section of stage	0	0
+1.0	spanish competitor	win	motorbike section of 768km fifth stage	0	ORDINAL
+1.0	coma	commit so far	pujol	0	0
+1.0	coma	ride after	after 100km of Wednesday 's stage	0	DATE
+1.0	Dakar rally	have	stage	O	O
+1.0	Sainz	cross line with	just advantage over Peterhansel	PERSON	LOCATION
+1.0	Spaniards	have create	gap	0	0
+1.0	Vatican	decry	death	LOCATION	0
+1.0	Isidre Esteve Pujol	have	deficit	O	O
+1.0	spanish competitor	win	motorbike section of 768km stage	0	0
+1.0	Sainz	win	sixth Dakar stage	PERSON	LOCATION
+1.0	road	have	decried	O	O
+1.0	Isidre Esteve Pujol	cut	he deficit	0	0
+1.0	Cyril Despres	have	finished	O	PERSON
+1.0	coma	ride after	after 100km	0	0
+1.0	Villiers	be teammate of	a VW	PERSON	ORGANIZATION
+1.0	Sainz	eventually cross line with	advantage	PERSON	0
+1.0	he	perfectly get	past Jean-Louis Schlesser	0	DATE
+1.0	coma	ride together	pujol	0	0
+1.0	Sainz	win	Dakar stage of he career	PERSON	LOCATION
+1.0	he	get	past Jean-Louis Schlesser on way	0	DATE
+1.0	The Vatican newspaper Osservatore Romano	have	issue	O	O
+1.0	competitor	win	motorbike section of stage	0	0
+1.0	competitor	win	motorbike section of stage of Dakar rally	0	LOCATION
+1.0	Pujol 's first victory	mean	overall	ORDINAL	0
+1.0	spanish competitor	win	motorbike section of stage of Dakar rally	0	LOCATION
+1.0	competitor	win	motorbike section of 768km fifth stage	0	ORDINAL
+1.0	Spaniards	have already create	gap	0	0
+1.0	spanish competitor	win	motorbike section of 768km fifth stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	Sainz	eventually cross	line	PERSON	0
+1.0	Osservatore Romano	be newspaper of	the Vatican	ORGANIZATION	LOCATION
+1.0	325km	time	section	0	0
+1.0	competitor	win	motorbike section of 768km stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	Villiers	be from	a VW	PERSON	ORGANIZATION
+1.0	Marc Coma	be of	France	PERSON	LOCATION
+1.0	South Africa	have	Giniel De Villiers	PERSON	LOCATION
+1.0	Sainz	cross line with	30sec advantage over Peterhansel	PERSON	LOCATION
+1.0	spanish competitor	win	motorbike section of 768km stage of Dakar rally	0	LOCATION
+1.0	Sainz	come in	car section	PERSON	0
+1.0	third	lose	valuable time	ORDINAL	0
+1.0	France	have	Stephane Peterhansel	PERSON	LOCATION
+1.0	Sainz	win	sixth Dakar stage of he career	PERSON	LOCATION
+1.0	Sainz	eventually cross line with	just 30sec advantage	PERSON	0
+1.0	Wednesday	of	stage	DATE	0
+1.0	Elmer Symons	be of	south african	PERSON	DURATION
+1.0	rally	resume after	death of african rider Elmer Symons	DURATION	PERSON
+1.0	rally	leave	Morocco	0	LOCATION
+1.0	stage	have	100km	O	O
+1.0	Spaniards	have create	gap between they	0	0
+1.0	third	lie	47:33	ORDINAL	NUMBER
+1.0	Jean-Louis Schlesser	be	past	PERSON	DATE
+1.0	rally	resume after	death of 29-year-old south rider Elmer Symons	DURATION	PERSON
+1.0	rally	resume after	death of rider Elmer Symons	DURATION	PERSON
+1.0	spanish competitor	win motorbike section on	Wednesday	0	DATE
+1.0	Isidre Esteve Pujol	ride	KTM	PERSON	ORGANIZATION
+1.0	competitor	win	motorbike section of 768km stage of Dakar rally	0	LOCATION
+1.0	Pujol	have	first victory of Dakar	PERSON	ORDINAL
+1.0	rally	resume after	death of 29-year-old african rider Elmer Symons	DURATION	PERSON
+1.0	violence	have	component	O	O
+1.0	rider Elmer Symons	have	death	O	PERSON
+1.0	Sainz	cross line with	just 30sec advantage	PERSON	0
+0.5414637918885064	Vatican	death of	Elmer Symons	LOCATION	PERSON
+1.0	Elmer Symons	be of	29-year-old	PERSON	DURATION
+1.0	coma	ride until	finish line	0	0
+1.0	spanish competitor	win	motorbike section	0	0
+1.0	coma	ride practically together	pujol	0	0
+1.0	Wednesday	have	stage	O	DATE
+1.0	Sainz	cross line from	VW teammate Villiers	PERSON	PERSON
+1.0	Pujol 's first victory	mean	seventh overall	ORDINAL	ORDINAL
+1.0	Sainz in a VW	have	lead	O	O
+1.0	spanish competitor	win	motorbike section of 768km stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	coma	commit so far	error	0	0
+1.0	coma	ride together after	after 100km	0	0
+1.0	third	lose	time	ORDINAL	0
+1.0	Osservatore Romano	be	the Vatican	ORGANIZATION	LOCATION
+1.0	Sainz	cross line with	advantage over Peterhansel	PERSON	LOCATION
+1.0	two Spaniards	have already create	gap	NUMBER	0
+1.0	Sainz	eventually cross line with	just 30sec advantage over Peterhansel	PERSON	LOCATION
+1.0	Stephane Peterhansel	have	clear	O	PERSON
+1.0	competitor	win	motorbike section of stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	Sainz	eventually cross line from	VW teammate Villiers	PERSON	PERSON
+1.0	Morocco	be for	Mauritania	LOCATION	LOCATION
+1.0	coma	ride practically together after	after 100km	0	0
+1.0	spanish competitor	win	motorbike section of fifth stage of Dakar rally	0	ORDINAL
+1.0	spanish competitor	win	motorbike section of stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	Giniel De Villiers	have	clear	O	PERSON
+1.0	rally	resume after	death of south rider Elmer Symons	DURATION	PERSON
+1.0	France	have	leader Marc Coma	PERSON	LOCATION
+1.0	field	have	rest	O	O
+1.0	Pujol	have	victory	O	PERSON
+1.0	Sainz	cross line with	advantage	PERSON	0
+1.0	rally	resume after	death of 29-year-old south african rider Elmer Symons	DURATION	PERSON
+1.0	blood	have	trail	O	O
+1.0	Elmer Symons	be	Isidre Esteve Pujol	PERSON	PERSON
+1.0	competitor	win motorbike section on	here Wednesday	0	DATE
+1.0	rally	resume after	death of south african rider Elmer Symons	DURATION	PERSON
+1.0	competitor	win	motorbike section of 768km fifth stage of Dakar rally	0	ORDINAL
+1.0	South Africa	have	Giniel De Villiers	LOCATION	PERSON
+1.0	career	have	Dakar stage	O	O
+1.0	the road	call	irresponsible race	0	0
+1.0	rally	resume after	death of 29-year-old rider Elmer Symons	DURATION	PERSON
+1.0	Sainz	be in	VW	PERSON	ORGANIZATION
+1.0	France	of	Stephane Peterhansel	LOCATION	PERSON
+1.0	coma	ride until	line	0	0
+1.0	Sainz	come in	clear of France 's Stephane Peterhansel	PERSON	LOCATION
+1.0	rally	resume after	death	DURATION	DURATION
+1.0	Sainz	cross line with	30sec advantage	PERSON	0
+1.0	Sainz	cross line with	just 30sec advantage over Peterhansel	PERSON	LOCATION
+1.0	Sainz	cross line with	just advantage	PERSON	0
+1.0	year	have	this year 's Dakar	LOCATION	DATE
+1.0	he	make	most	0	0
+0.6807121128218999	rally	morocco for	Mauritania	0	LOCATION
+1.0	competitor	win	motorbike section of 768km fifth stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	he	perfectly get	past Jean-Louis Schlesser on way	0	DATE
+1.0	competitor	win	motorbike section of fifth stage of Dakar rally	0	ORDINAL
+1.0	two Spaniards	have already create	gap between they	NUMBER	0
+1.0	Pujol 's victory	mean	overall	PERSON	0
+1.0	former champion	be in	world rally championship	0	0
+1.0	Isidre Esteve Pujol	remain in	second spot	0	ORDINAL
+1.0	Sainz	consolidate	he overall lead	PERSON	0
+1.0	Isidre Esteve Pujol	remain in	spot	0	0
+1.0	third	lose	more valuable time	ORDINAL	0
+1.0	two Spaniards	have create	gap between they	NUMBER	0
+1.0	coma	ride	pujol	0	0
+1.0	this year	of	this year 's Dakar	DATE	LOCATION
+1.0	Vatican	decry	death of Symons	LOCATION	PERSON
+1.0	Vatican newspaper Osservatore Romano	say in	its issue appear Thursday	ORGANIZATION	DATE
+1.0	two Spaniards	have create	gap	NUMBER	0
+1.0	Vatican newspaper Osservatore Romano	say in	its issue appear	ORGANIZATION	0
+1.0	Sainz	champion in	world rally championship	PERSON	0
+1.0	Sainz	eventually cross line with	30sec advantage	PERSON	0
+1.0	Vatican newspaper Osservatore Romano	say in	its issue	ORGANIZATION	0
+1.0	Vatican	decry death off	road	LOCATION	0
+1.0	spanish competitor	win motorbike section on	here Wednesday	0	DATE
+1.0	coma	ride practically together after	after 100km of Wednesday 's stage	0	DATE
+1.0	Sainz	cross	line	PERSON	0
+1.0	Sainz	eventually cross line with	just advantage over Peterhansel	PERSON	LOCATION
+1.0	coma	ride together after	after 100km of Wednesday 's stage	0	DATE
+1.0	leader Marc Coma	have	finished	O	PERSON
+0.8606190239925854	Sainz	former champion in	world rally championship	PERSON	0
+1.0	spanish competitor	win	motorbike section of fifth stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	competitor	win	motorbike section	0	0
+1.0	rally	leave	Morocco for Mauritania	0	LOCATION
+1.0	this year 's Dakar	have	victory	O	LOCATION
+1.0	the road	call	race	0	0
+1.0	Sainz	come in	clear	PERSON	0
+1.0	Sainz	consolidate	he lead	PERSON	0
+1.0	coma	ride practically together until	line	0	0
+1.0	Sainz	eventually cross line with	30sec advantage over Peterhansel	PERSON	LOCATION
+1.0	competitor	win motorbike section on	Wednesday	0	DATE
+1.0	rally	resume at_time	day	DURATION	DURATION
+1.0	competitor	win	motorbike section of 768km stage	0	0
+1.0	spanish competitor	win	motorbike section of 768km fifth stage of Dakar rally	0	ORDINAL
+1.0	Isidre Esteve Pujol	finish of	leader Marc Coma	PERSON	PERSON
+1.0	Pujol 's victory	mean	seventh overall	PERSON	ORDINAL
+1.0	competitor	win	motorbike section of fifth stage of Dakar rally between Ouarzazate	0	LOCATION
+1.0	the road	call	bloody irresponsible race	0	0

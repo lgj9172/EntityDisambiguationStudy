@@ -1,0 +1,38 @@
+1.0	John Eisler	have	group	O	PERSON
+1.0	czech culture ministry	slap	cultural heritage designation	0	0
+1.0	maj decision	serve amid	debate	0	0
+1.0	it	buy	its way	0	0
+1.0	Pompidou Centre	have	design	O	LOCATION
+1.0	examples	have	one	NUMBER	O
+1.0	Miroslav Masak	have	group	O	PERSON
+1.0	Paris	have	Pompidou Centre	LOCATION	LOCATION
+1.0	Tesco 's spokesman Jana Matouskova	tell	AFP	PERSON	ORGANIZATION
+1.0	Tesco 's local spokesman Jana Matouskova	tell	AFP	PERSON	ORGANIZATION
+1.0	czech culture ministry	slap	heritage designation	0	0
+1.0	glass edifice	have	plans	O	O
+1.0	Martin Rajnis	have	group	O	PERSON
+1.0	Prague department store	say on	Thursday	LOCATION	DATE
+1.0	Tesco	have	Jana Matouskova	ORGANIZATION	PERSON
+1.0	maj decision	serve amid	heated debate	0	0
+1.0	department store	have	development	O	O
+1.0	culture ministry	slap	cultural heritage designation	0	0
+1.0	stores	have	acquisition	O	O
+1.0	the decision	have	effect	O	O
+1.0	maj department store	be construct in	early 1970	0	0
+1.0	architecture	have	examples	O	O
+1.0	plans	have	face	O	O
+1.0	functionalist-style maj department store	be construct in	1970	0	0
+1.0	its	have	way	O	O
+1.0	maj decision	serve as	precedent	0	0
+1.0	maj department store	be	construct	0	0
+1.0	plan	of face be	british company	0	0
+1.0	era edifices	have	merits	O	O
+1.0	culture ministry	slap	heritage designation	0	0
+1.0	maj department store	be construct in	1970	0	0
+1.0	Czech Republic	be in	1996	LOCATION	DATE
+1.0	functionalist-style maj department store	be	construct	0	0
+1.0	functionalist-style maj department store	be construct in	early 1970	0	0
+1.0	architects	have	group	O	O
+1.0	soviet-backed regime	literally demolish	capitalist past	0	DATE
+1.0	Tesco	have	spokesman Jana Matouskova	PERSON	ORGANIZATION
+1.0	Prague department store	be in	face of plan by retail giant Tesco redevelop	LOCATION	ORGANIZATION

@@ -1,0 +1,46 @@
+1.0	Hanoi	feel need after	its diplomatic gain	LOCATION	0
+1.0	the 87-year-old leader of a banned Buddhist organisation	have	hospital	O	O
+1.0	concern	have	countries	O	O
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	Vietnam	have	Unified Buddhist Church	ORGANIZATION	ORGANIZATION
+1.0	our	have	predictions	O	O
+1.0	his	have	deputy	O	O
+1.0	UBCV	refuse	submit to Communist Party supervision	ORGANIZATION	ORGANIZATION
+0.6563125628259392	southern city	call	Saigon	0	LOCATION
+1.0	significant increase	be in	religious abuse	0	0
+1.0	blacklist	have	took	O	O
+1.0	UBCV	have	have ban since 1981	ORGANIZATION	DATE
+1.0	Washington	be in	November	LOCATION	DATE
+1.0	UBCV	have	have ban	ORGANIZATION	0
+1.0	Thich Huyen Quang	have	hospital	O	O
+1.0	US President George W. Bush	arrive here for	summit	LOCATION	0
+1.0	US President George W. Bush	shortly arrive here for	summit	LOCATION	0
+1.0	Hanoi	feel	need pretend	LOCATION	0
+1.0	Hanoi	feel need after	its recent gain	LOCATION	DURATION
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	Quang , who has been under house arrest for over two decades	have	prostate gland	O	O
+1.0	Buddhist organisation	have	leader	O	O
+1.0	Vo Van Ai	have	group	O	O
+1.0	group	say on	Thursday	0	DATE
+1.0	Unified Buddhist Church	have	patriarch	O	ORGANIZATION
+1.0	Washington	take	Vietnam -LRB- UBCV -RRB-	LOCATION	LOCATION
+1.0	Thich Huyen Quang	patriarch of	Unified Buddhist Church of Vietnam	PERSON	ORGANIZATION
+1.0	Vo Van Ai	spokesman 's	UBCV	PERSON	ORGANIZATION
+1.0	US President George W. Bush	shortly arrive for	summit	LOCATION	0
+1.0	Hanoi	feel need after	its recent diplomatic gain	LOCATION	DURATION
+1.0	UBCV	have	spokesman	O	ORGANIZATION
+1.0	UBCV	refuse	submit	ORGANIZATION	0
+1.0	Hanoi	feel	need	LOCATION	0
+0.6563125628259392	city	call	Saigon	0	LOCATION
+0.6563125628259392	southern city	formerly call	Saigon	0	LOCATION
+1.0	US President George W. Bush	arrive for	summit	LOCATION	0
+1.0	pro-democracy group	say on	Thursday	0	DATE
+1.0	a Paris-based pro-democracy group	have	gains	O	O
+1.0	UBCV	have	international spokesman	ORGANIZATION	0
+1.0	Hanoi	feel need after	its gain	LOCATION	0
+1.0	Norway	have	Rafto rights	O	LOCATION
+1.0	he hospital	be in	Ho Chi Minh City	0	LOCATION
+0.6563125628259392	city	formerly call	Saigon	0	LOCATION
+1.0	paris-based group	say on	Thursday	0	DATE
+1.0	paris-based pro-democracy group	say on	Thursday	0	DATE
+1.0	countries	have	blacklist	O	O

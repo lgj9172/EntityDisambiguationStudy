@@ -1,0 +1,54 @@
+1.0	woman	have	body	O	O
+1.0	mistake	be discover only during	she wake hundred of mile away in Cordoba	0	LOCATION
+1.0	Liliana Brando	be	Hospital Interzonal	PERSON	ORGANIZATION
+1.0	grief-stricken	leave	550 mile	0	NUMBER
+1.0	family	find	body of woman	0	0
+1.0	mistake	be	discover only	0	0
+1.0	the family of a woman who died while on holiday in Mar del Plata	have	wake hundreds	O	O
+1.0	mistake	be discover only during	she wake hundred of mile	0	0
+1.0	grief-stricken	leave	Mar del Plata 400 kilometer south of Buenos Aires for they home	0	DATE
+1.0	mistake	be discover during	she wake hundred of mile	0	0
+1.0	they home	be in	Cordoba 900 kilometer	0	NUMBER
+1.0	mistake	be	discover	0	0
+1.0	mistake	be discover during	she wake hundred of mile away	0	0
+1.0	Mar del Plata	be	Mar	ORGANIZATION	DATE
+1.0	woman	have	family	O	O
+1.0	it	be tuesday	when open	0	0
+1.0	grief-stricken	leave	Mar del Plata south for they home	0	DATE
+1.0	grief-stricken	leave	Mar del Plata 400 kilometer south for they home	0	DATE
+1.0	family	find	body of unknown elderly woman	0	0
+1.0	kidney failure	have	died	O	O
+1.0	mistake	be discover only during	she wake hundred of mile away	0	0
+1.0	grief-stricken	leave mar del plata with	casket	0	0
+1.0	casket	be	when open	0	0
+1.0	Luque 's husband and daughter	have	home	O	O
+1.0	mistake	be discover during	she wake hundred	0	0
+1.0	casket	be open at	its wake	0	0
+1.0	it	be tuesday	open	0	0
+1.0	grief-stricken	leave	Mar del Plata south	0	DATE
+1.0	Buenos Aires	have	south	O	LOCATION
+1.0	mistake	be discover during	she wake hundred of mile away in Cordoba	0	LOCATION
+1.0	grief-stricken	leave	Mar del Plata	0	DATE
+1.0	family	find	body of elderly woman	0	0
+1.0	widower Luis Miranda	have	wife	O	O
+1.0	they home	for plata be	550 mile	0	NUMBER
+1.0	grief-stricken	leave mar del plata to	northwest	0	0
+1.0	it	be tuesday	open at its wake	0	0
+1.0	Liliana Brando	be director of	Hospital Interzonal	PERSON	ORGANIZATION
+1.0	grief-stricken	leave	Mar del Plata for they home	0	DATE
+1.0	a casket bearing the wrong body	have	wake	O	O
+1.0	grief-stricken	leave	Mar del Plata 400 kilometer south of Buenos Aires	0	DATE
+1.0	miles	have	wake hundreds	O	O
+1.0	family	find	body	0	0
+1.0	casket	be	when open at its wake	0	0
+1.0	grief-stricken	leave	Mar del Plata south of Buenos Aires for they home	0	DATE
+1.0	grief-stricken	leave	Mar del Plata 400 kilometer south	0	DATE
+1.0	Emilia Luque	be	53	PERSON	NUMBER
+1.0	woman	have	that	O	O
+1.0	it	be tuesday	when open at its wake	0	0
+1.0	casket	be	open	0	0
+1.0	mistake	be discover only during	she wake hundred	0	0
+1.0	Luque	have	husband	PERSON	0
+1.0	grief-stricken	leave	Mar del Plata south of Buenos Aires	0	DATE
+1.0	family	find	body of unknown woman	0	0
+1.0	Luque	have	husband	O	PERSON

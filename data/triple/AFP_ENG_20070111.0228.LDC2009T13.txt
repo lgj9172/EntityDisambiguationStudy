@@ -1,0 +1,112 @@
+0.6053639497982628	individual	involve in	activity aim	0	0
+1.0	iranian diplomat	say on	condition of anonymity	0	0
+1.0	staff members	have	release	O	O
+1.0	Iraq	in	internal security affair	LOCATION	0
+1.0	two Iranians	be later handed over	over iranian official in Baghdad	NUMBER	LOCATION
+1.0	consulate staff	have	five	NUMBER	O
+1.0	Iranians	be handed over	over iranian official in Baghdad	MISC	LOCATION
+1.0	coalition forces	have	killing	O	O
+1.0	Iranians	be later handed over	over iranian official	MISC	0
+1.0	diplomat	say on	condition	0	0
+1.0	diplomat	say on	condition of anonymity	0	0
+0.7193811984153091	agent	unrest in	Iraq	0	LOCATION
+1.0	Fars new agency	confirm	raid	ORGANIZATION	0
+0.6053639497982628	individual	involve in	activity	0	0
+1.0	Iraq	to	foreign ministry	LOCATION	0
+1.0	six arrest	be in	Arbil	NUMBER	LOCATION
+1.0	raider	break gate in	US occupier ' attack on Iran 's consulate in Arbil	0	LOCATION
+1.0	raid	be in	Baghdad	0	LOCATION
+0.6053639497982628	individual	involve in	activity aim at killing of citizen	0	0
+1.0	over iranian official	be in	Baghdad	0	LOCATION
+1.0	iranian diplomat	say on	condition	0	0
+1.0	Iran	on	general consulate in Arbil	LOCATION	LOCATION
+1.0	US occupiers	have	attack	O	O
+1.0	he	order	21,500 more troops	0	NUMBER
+1.0	raider	break	gate	0	0
+1.0	Fars agency	confirm raid in	Tehran	ORGANIZATION	LOCATION
+1.0	Thursday	have	raid	O	DATE
+1.0	US President George W. Bush	take	step	0	0
+1.0	iranian agent	foment	unrest	0	0
+1.0	iranian consulate building	be in	Arbil	0	LOCATION
+1.0	two Iranians	be later handed over	over official in Baghdad	NUMBER	LOCATION
+1.0	raider	break gate in	US occupier ' attack	0	LOCATION
+1.0	Iraq	of	autonomous kurdish region	LOCATION	0
+1.0	iranian agent	order attack on	american force	0	0
+1.0	he	order	21,500 more troops to Iraq	0	LOCATION
+1.0	agent	order attack on	american force	0	0
+1.0	raider	break gate in	US occupier ' attack on Iran 's consulate	0	LOCATION
+0.7193811984153091	iranian agent	unrest in	Iraq	0	LOCATION
+1.0	hostile actor	be in	Iraq 's internal security affair	0	LOCATION
+1.0	Tehran 's embassy	have send	note	LOCATION	0
+1.0	Tehran	have	embassy in Baghdad	LOCATION	LOCATION
+1.0	US military	be in	Iraq	LOCATION	LOCATION
+1.0	unrest	be in	Iraq	0	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	Tehran 's embassy	be in	Baghdad	LOCATION	LOCATION
+1.0	Iraq	have	government	O	LOCATION
+1.0	region	have	capital	O	O
+1.0	Tehran 's embassy	have send note to	Iraq 's foreign ministry	LOCATION	LOCATION
+1.0	two Iranians	be later handed over	over official	NUMBER	0
+1.0	agent	foment	unrest	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	raider	arrest	consulate 's guard	0	0
+1.0	weapons smuggling	have	suspicion	O	O
+1.0	Iranians	be handed over	over official in Baghdad	MISC	LOCATION
+1.0	two Iranians	be later handed over	over iranian official	NUMBER	0
+1.0	Iran	have	consulate	LOCATION	0
+1.0	Iraq	have	ministry	O	LOCATION
+1.0	official	tell	afp	0	0
+1.0	two Iranians	be	later handed	NUMBER	0
+1.0	Iranians	be handed over	over iranian official	MISC	0
+1.0	US President George W. Bush	take	aggressive step	0	0
+1.0	agent	order	attack	0	0
+0.6053639497982628	individual	involve in	activity aim at killing of iraqi citizen	0	0
+1.0	Iranians	be later handed over	over official in Baghdad	MISC	LOCATION
+1.0	agent	order attack on	force	0	0
+1.0	Iranians	be	later handed	MISC	0
+1.0	he	order	21,500 more american troops	0	NUMBER
+0.8043861411025129	raider	gate of	office	0	0
+1.0	Fars agency	confirm	raid	ORGANIZATION	0
+1.0	two Iranians	be handed over	over iranian official	NUMBER	0
+1.0	raid	have	said	O	O
+1.0	operation	be in	greater Arbil area	0	LOCATION
+1.0	he	order	21,500 more american troops to Iraq	0	LOCATION
+1.0	semi-official Fars agency	confirm raid in	Tehran	ORGANIZATION	LOCATION
+1.0	semi-official Fars new agency	confirm raid in	Tehran	ORGANIZATION	LOCATION
+1.0	iranian agent	order attack on	force	0	0
+1.0	raider	break gate in	US occupier ' attack on Iran 's general consulate	0	LOCATION
+1.0	raider	break	gate of office	0	0
+1.0	Iraq	have	security affairs	O	LOCATION
+1.0	Iranians	be later handed over	over iranian official in Baghdad	MISC	LOCATION
+1.0	office	have	gate	O	O
+1.0	Tehran	have	embassy	O	LOCATION
+1.0	two Iranians	be handed over	over official	NUMBER	0
+1.0	iranian agent	order	attack	0	0
+1.0	strategy	have	part	O	O
+1.0	Iranians	be later handed over	over official	MISC	0
+1.0	agent	foment	unrest in Iraq	0	LOCATION
+1.0	consulate	have	guards	O	O
+0.6053639497982628	individual	involve in	activity aim at killing	0	0
+1.0	Tehran 's embassy	have send note accord to	state television	LOCATION	0
+1.0	semi-official Fars new agency	confirm	raid	ORGANIZATION	0
+1.0	iranian agent	foment	unrest in Iraq	0	LOCATION
+1.0	raider	break gate in	US occupier ' attack on Iran 's general consulate in Arbil	0	LOCATION
+1.0	Thursday	have	raid	DATE	0
+1.0	two Iranians	be handed over	over iranian official in Baghdad	NUMBER	LOCATION
+1.0	Fars new agency	confirm raid in	Tehran	ORGANIZATION	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iranians	be	handed	MISC	0
+1.0	Iranians	be handed over	over official	MISC	0
+1.0	Tehran 's embassy	have send note accord to	iranian state television	LOCATION	0
+1.0	Tehran 's embassy	have send note to	Iraq 's ministry	LOCATION	LOCATION
+1.0	consulate	have	guard	0	0
+1.0	Iraq	have	region	O	LOCATION
+1.0	citizens	have	killing	O	O
+1.0	two Iranians	be handed over	over official in Baghdad	NUMBER	LOCATION
+1.0	Iran	have	consulate	O	LOCATION
+1.0	The US military in Iraq	have	forces	O	O
+1.0	two Iranians	be	handed	NUMBER	0
+1.0	Iran 's general consulate	be in	Arbil	LOCATION	LOCATION
+1.0	effort	have	part	O	O
+1.0	semi-official Fars agency	confirm	raid	ORGANIZATION	0
+1.0	Arbil	have	city	O	LOCATION

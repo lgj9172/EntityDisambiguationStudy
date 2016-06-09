@@ -1,0 +1,67 @@
+1.0	boat	approach	island	0	0
+1.0	migrant	be intercept by	authority try	0	0
+1.0	Interior Minister Giuliano Amato	tell	journalist	ORGANIZATION	0
+1.0	22,016 migrant	be	last year intercept by authority try	NUMBER	DATE
+1.0	migrant	be	last year intercept by authority	0	DATE
+0.06141471494456796	she	call	government 's overpermissive immigration policy for wave	0	0
+1.0	those	have	Most	O	O
+1.0	migrant	be	year intercept by authority	0	DATE
+1.0	immigration	have	source	O	O
+1.0	22,016 migrant	be	year intercept by authority try	NUMBER	DATE
+1.0	Amato	rise on	italian soil	PERSON	0
+1.0	boat	be intercept by	italian coastguard	0	0
+1.0	22,016 migrants	have	Boats	O	O
+1.0	648	have	record number	O	NUMBER
+1.0	Isabella Bertolini	react at_time	last month	PERSON	DATE
+1.0	migrant	be	year intercept by authority try	0	DATE
+1.0	22,016 migrant	be	intercept	NUMBER	0
+1.0	22,016 migrant	be intercept at_time	year	NUMBER	DATE
+1.0	immigration	have	wave	O	O
+1.0	migrant	be intercept by	authority	0	0
+1.0	Sicily	have	coast	O	LOCATION
+0.06141471494456796	she	call	government 's immigration policy	0	0
+1.0	migrant	be	intercept	0	0
+1.0	illegal immigration	be in	2006	0	DATE
+1.0	22,016 migrant	be intercept by	authority	NUMBER	0
+0.06141471494456796	she	call	government 's immigration policy for wave	0	0
+1.0	Giuliano Amato	be	Interior	PERSON	ORGANIZATION
+1.0	clandestines	have	number	O	O
+1.0	boat	continuously approach	island	0	0
+1.0	government	have	immigration policy	O	O
+1.0	22,016 migrant	be	year intercept by authority	NUMBER	DATE
+0.5788648888467505	122,126	be detain in	2006	NUMBER	DATE
+1.0	ministry	say on	Friday	ORGANIZATION	DATE
+1.0	migrants	have	number	O	O
+1.0	migrant	be	last year intercept by authority try	0	DATE
+1.0	opposition Forza Italia party	have	Isabella Bertolini	PERSON	O
+1.0	migrant	be intercept at_time	last year	0	DATE
+1.0	government	have	overpermissive immigration policy for wave of immigration	0	0
+1.0	most	have	cooperation	O	O
+1.0	Giuliano Amato	be minister of	Interior	PERSON	ORGANIZATION
+1.0	country	decrease on	2005	0	DATE
+1.0	Amato	rise by	4.5 percent	PERSON	PERCENT
+0.5788648888467505	122,126	be detain from	116,855 in 2005	NUMBER	NUMBER
+1.0	immigrants	have	number	O	O
+1.0	boat	be	intercept	0	0
+1.0	mediterranean	be between	Europe	0	LOCATION
+1.0	Isabella Bertolini	react at_time	month	PERSON	DATE
+1.0	sea	be in	Italy	0	LOCATION
+1.0	Africa	source of	much clandestine immigration	LOCATION	0
+1.0	22,016 migrant	be intercept at_time	last year	NUMBER	DATE
+1.0	north Africa	have	coast	O	LOCATION
+1.0	boat	be intercept by	coastguard	0	0
+1.0	Amato	rise on	soil	PERSON	0
+0.5788648888467505	122,126	be	detain	NUMBER	0
+1.0	22,016 migrant	be intercept by	authority try	NUMBER	0
+0.5788648888467505	122,126	be	detain in 2006 from 116,855 in 2005	NUMBER	NUMBER
+0.06141471494456796	she	call	government 's overpermissive immigration policy	0	0
+1.0	migrant	be intercept at_time	year	0	DATE
+1.0	significant reversal	be in	trend	0	0
+0.06141471494456796	she	call	government 's immigration policy for wave of immigration	0	0
+1.0	Interior Minister Giuliano Amato	tell here	journalist	ORGANIZATION	0
+1.0	two southern italian island	be in	mediterranean	NUMBER	0
+1.0	reversal	have	sign	O	O
+1.0	decline	be in	illegal immigration	0	0
+1.0	countries	have	most	O	O
+1.0	22,016 migrant	be	last year intercept by authority	NUMBER	DATE
+0.06141471494456796	she	call	government 's overpermissive immigration policy for wave of immigration	0	0

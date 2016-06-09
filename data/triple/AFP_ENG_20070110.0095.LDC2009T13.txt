@@ -1,0 +1,56 @@
+1.0	Shinko Securities	buck	market	ORGANIZATION	0
+1.0	Nintendo share	advance	680 yen	ORGANIZATION	MONEY
+1.0	119.22 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+1.0	Shinko Securities	leap	44 yen	ORGANIZATION	MONEY
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Shinko Securities	buck	overall market	ORGANIZATION	0
+1.0	Matsushita Electric Industrial	fall	85 yen	ORGANIZATION	MONEY
+1.0	Tuesday	have	gains	O	DATE
+1.0	Nintendo	have	Wii game console	O	ORGANIZATION
+1.0	Hideyui Suzuki	strategist at	SBI Securities	PERSON	ORGANIZATION
+1.0	its	have	work force	O	O
+1.0	dollar	ease to	119.22 yen in Tokyo afternoon trade	0	MONEY
+1.0	gains	have	more	O	O
+1.0	company	announce	its business plan	0	0
+0.07146203771914894	Shinko Securities	leap off	high of 532 company jointly announce with Mizuho Securities	ORGANIZATION	ORGANIZATION
+1.0	dollar	ease on	foreign exchange market	0	0
+1.0	decline	be in	energy share	0	0
+1.0	Tuesday	have	gain	DATE	0
+0.07146203771914894	Shinko Securities	leap off	high of 532 company announce	ORGANIZATION	NUMBER
+1.0	dollar	ease from	119.34	0	NUMBER
+1.0	volume	rise to	2.09 billion share	0	MONEY
+1.0	the company	have	business plan	O	O
+1.0	start	have	prospects	O	O
+1.0	dollar	ease at_time	late Tuesday	0	DATE
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Nintendo	have	Wii game console	ORGANIZATION	MISC
+1.0	decliner	beat	gainer 1,465 to 187	0	NUMBER
+1.0	Nippon Oil	drop	39 yen	ORGANIZATION	MONEY
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop	295.37 point	ORGANIZATION	NUMBER
+1.0	players	have	gains	O	O
+1.0	drop	be in	oil price	0	0
+1.0	euro	fall to	1.2972 dollar from 1.3000	0	NUMBER
+1.0	drop	be in	world oil price	0	0
+1.0	Sony	have	PlayStation console	O	ORGANIZATION
+0.07146203771914894	Shinko Securities	leap to	510	ORGANIZATION	NUMBER
+1.0	energy share	be in	US	0	LOCATION
+1.0	world	have	television plant	O	O
+1.0	dollar	ease in	New York	0	LOCATION
+1.0	decliner	beat	gainer 1,465	0	NUMBER
+1.0	companies	have	TOPIX index	O	O
+0.07146203771914894	Shinko Securities	leap off	high of 532 company jointly announce	ORGANIZATION	NUMBER
+1.0	Sony	have	PlayStation 3 console by more two	ORGANIZATION	NUMBER
+1.0	drop	be in	crude oil price	0	0
+1.0	euro	fall from	155.15	0	NUMBER
+1.0	volume	rise from	2.05 billion	0	MONEY
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+0.07146203771914894	Shinko Securities	leap off	high of 532 company announce with Mizuho Securities	ORGANIZATION	ORGANIZATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop more	295.37 point	ORGANIZATION	NUMBER
+1.0	532	have	leapt	O	NUMBER
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	dollar	ease at_time	Tuesday	0	DATE
+1.0	dollar	ease to	119.22 yen	0	MONEY
+1.0	dollar	ease on	exchange market	0	0
+1.0	volume	rise on	late Tuesday	0	DATE
+1.0	euro	fall to	1.2972 dollar	0	MONEY
+0.47937962732886696	Matsushita Electric Industrial	fall to	2,290	ORGANIZATION	NUMBER

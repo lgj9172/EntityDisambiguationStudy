@@ -1,0 +1,44 @@
+1.0	government	lift	martial law across half	0	DATE
+1.0	situation	be in	southern border province	0	0
+1.0	diplomat	ask about	law	DURATION	DURATION
+1.0	incidents	have	series	O	O
+1.0	government	lift	law	0	DATE
+1.0	Thai government	gather	foreign diplomat	MISC	0
+1.0	link	be with	situation in southern border province	0	0
+1.0	Thai government	gather	diplomat	MISC	0
+1.0	Thaksin	retort	say	PERSON	0
+1.0	New Year	have	Eve	DATE	DATE
+1.0	law	have	lifting	O	O
+1.0	Thai government	ease concern about	deadly bombing in Bangkok	MISC	LOCATION
+1.0	its	have	implementation	O	O
+1.0	Thaksin Shinawatra	have	government	O	PERSON
+1.0	Thaksin	retort in	letter	PERSON	0
+1.0	Thai government	ease concern about	bombing in Bangkok	MISC	LOCATION
+1.0	link	be think	unlikely	0	0
+1.0	Sunday	behind	blast	DATE	0
+1.0	ongoing bloody separatist insurgency	be in	Thailand	0	LOCATION
+1.0	government	lift ago	martial law across half of Thailand	0	LOCATION
+1.0	government	lift	martial law across half of Thailand	0	LOCATION
+1.0	government	lift ago	law across half of Thailand	0	LOCATION
+1.0	government	lift ago	martial law across half	0	DATE
+1.0	government	lift ago	law across half	0	DATE
+1.0	Thai government	ease concern about	deadly bombing	MISC	0
+1.0	Thailand	have	half	O	LOCATION
+1.0	bomb	be in	south	0	0
+1.0	government	lift ago	martial law	0	DATE
+1.0	Thai government	ease concern about	bombing	MISC	0
+1.0	deadly bombing	be in	Bangkok	0	LOCATION
+1.0	diplomat	ask about	martial law	DURATION	DURATION
+1.0	government	lift	law across half of Thailand	0	LOCATION
+1.0	briefing	be with	diplomat	0	0
+1.0	government	lift	law across half	0	DATE
+1.0	link	be	think	0	0
+1.0	Thaksin	retort in	letter pen from Beijing	PERSON	LOCATION
+1.0	Sunday	have	blasts	O	DATE
+1.0	government	lift ago	law	0	DATE
+1.0	bomb	be in	Bangkok	0	LOCATION
+1.0	government	lift	martial law	0	DATE
+1.0	Thai government	ease	concern	MISC	0
+1.0	Thai government	ease	international concern	MISC	0
+1.0	Thaksin	be on	Tuesday	PERSON	DATE
+1.0	Thaksin	retort in	letter pen	PERSON	0

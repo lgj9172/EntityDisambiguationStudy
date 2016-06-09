@@ -1,0 +1,7 @@
+1.0	field	be in	south China city	0	LOCATION
+1.0	this	be	unforeseen	0	0
+1.0	this	be	accident	0	0
+1.0	state press	report on	Thursday	0	DATE
+1.0	local	be in	Shenzhen	0	LOCATION
+1.0	this	be	unforeseen accident	0	0
+1.0	Shenzhen	have	city	O	LOCATION

@@ -1,0 +1,66 @@
+1.0	Ronald Spogli	travel to	Vicenza	PERSON	ORGANIZATION
+1.0	173rd brigade	consolidate with	use of former airfield	ORGANIZATION	0
+1.0	about a hour	be with	US ambassador	DURATION	LOCATION
+1.0	pacifist	protest expansion plan at_time	last month	0	DATE
+1.0	US plan	create	single home	LOCATION	0
+1.0	decision	be make by	center-left government	0	0
+1.0	foreign ministry	at fried be	US assistant secretary of state for european affair	0	LOCATION
+1.0	Ronald Spogli	travel to	25 mile	PERSON	NUMBER
+1.0	decision	be make by	italian government	0	0
+1.0	Vicenza mayor	have	press secretary	O	O
+1.0	US embassy press office	tell	afp	LOCATION	0
+1.0	Romano Prodi	be with	italian	PERSON	0
+1.0	state	have	US assistant secretary	O	O
+0.9865601769964174	pacifist	20,000 at	least	0	0
+1.0	decision	be make by	center-left italian government	0	0
+1.0	Venice	have	west	O	LOCATION
+1.0	US plan	create	home	LOCATION	0
+1.0	italian Foreign Minister Massimo d'Alema	meet with	US official	PERSON	LOCATION
+1.0	US plan	create	single home for 173rd Airborne brigade	LOCATION	ORGANIZATION
+1.0	Ronald Spogli	travel at_time	Tuesday	PERSON	DATE
+1.0	Massimo d'Alema	be	italian	PERSON	0
+1.0	Ronald Spogli	travel to	40 kilometer	PERSON	NUMBER
+1.0	brigade	consolidate with	use of former airfield at Dal Molin	0	LOCATION
+1.0	Vicenza	at	Camp Ederle	ORGANIZATION	LOCATION
+1.0	brigade	consolidate with	use of former airfield	0	0
+1.0	airfield	have	use	O	O
+1.0	Vicenza	be in	Italy	LOCATION	LOCATION
+1.0	local job	be	lose	0	0
+1.0	brigade	would	under plan would able	0	0
+1.0	Foreign Minister Massimo d'Alema	meet with	US official	PERSON	LOCATION
+1.0	two basis	be in	Germany	NUMBER	LOCATION
+1.0	Foreign Minister Massimo d'Alema	meet at_time	Thursday	PERSON	DATE
+1.0	brigade	consolidate with	use of former military airfield	0	0
+1.0	173rd brigade	consolidate with	use of former military airfield at Dal Molin	ORGANIZATION	LOCATION
+1.0	173rd brigade	consolidate with	use	ORGANIZATION	0
+1.0	Spogli	have	car	PERSON	0
+1.0	173rd brigade	would	would able	ORGANIZATION	0
+1.0	1,200 local job	be	lose	NUMBER	0
+1.0	pacifist	protest	expansion plan	0	0
+1.0	pacifist	protest expansion plan in	demonstration	0	0
+1.0	US plan	create	home for 173rd Airborne brigade	LOCATION	ORGANIZATION
+1.0	decision	be make by	government	0	0
+1.0	brigade	consolidate in	Italy	0	LOCATION
+1.0	173rd brigade	consolidate near	Vicenza	ORGANIZATION	LOCATION
+1.0	Vicenza	have	Camp Ederle	LOCATION	ORGANIZATION
+1.0	brigade	would	would able	0	0
+1.0	Vicenza mayor	have	press secretary	ORGANIZATION	0
+1.0	brigade	consolidate near	Vicenza	0	LOCATION
+1.0	173rd brigade	consolidate with	use of former military airfield	ORGANIZATION	0
+1.0	voter	could have	say	0	0
+0.09591051189296207	pacifist	protest in	demonstration	0	0
+1.0	decision	be	make	0	0
+1.0	173rd brigade	consolidate in	Italy	ORGANIZATION	LOCATION
+1.0	pacifist	protest expansion plan at_time	month	0	DATE
+0.09591051189296207	pacifist	protest at_time	month	0	DATE
+1.0	US ambassador	meet at_time	Wednesday	LOCATION	DATE
+1.0	brigade	consolidate with	use of former military airfield at Dal Molin	0	LOCATION
+1.0	italian Foreign Minister Massimo d'Alema	meet at_time	Thursday	PERSON	DATE
+0.09591051189296207	pacifist	protest at_time	last month	0	DATE
+1.0	Italy	be	Ronald Spogli	LOCATION	PERSON
+1.0	brigade	consolidate with	use	0	0
+1.0	Spogli	have	car	O	PERSON
+1.0	protesters	have	mob	O	O
+1.0	173rd brigade	consolidate with	use of former airfield at Dal Molin	ORGANIZATION	LOCATION
+1.0	173rd brigade	would	under plan would able	ORGANIZATION	0
+1.0	Daniel Fried	secretary of	state for european affair	DURATION	DURATION

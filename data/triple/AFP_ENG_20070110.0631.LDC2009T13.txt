@@ -1,0 +1,120 @@
+1.0	Mancini	put roma from	edge of box in 19th minute	PERSON	DATE
+1.0	goal	put firmly	Roma 's	0	ORGANIZATION
+1.0	they	concede	late goal	0	0
+1.0	defender Luigi Sala	net	goal	PERSON	0
+1.0	striker Zlatko Dedic	tuck goal from	time	PERSON	0
+0.5095676820931228	final leg	win over	Parma here Wednesday	0	DATE
+1.0	striker Adriano	break deadlock with	chip	PERSON	0
+1.0	return leg	take place at_time	week	0	DATE
+1.0	striker Zlatko Dedic	tuck	home goal	PERSON	0
+1.0	brazilian striker Adriano	break deadlock with	chip	PERSON	0
+1.0	bosnian striker Zlatko Dedic	tuck	goal	PERSON	0
+1.0	striker Zlatko Dedic	tuck goal for	parma	PERSON	0
+1.0	Mancini	put roma against	ahead parma with sublime chip	PERSON	0
+1.0	ties	have	return legs	O	O
+1.0	striker Zlatko Dedic	tuck	valuable goal	PERSON	0
+1.0	Mancini	put roma from	edge of box in minute	PERSON	DATE
+0.5095676820931228	leg	win over	Parma Wednesday	0	DATE
+1.0	Tuesday	have	tie	O	DATE
+1.0	Zlatko Dedic	be	bosnian	PERSON	0
+1.0	Mancini	put roma against	parma with chip	PERSON	0
+1.0	Mancini	put roma from	edge of box	PERSON	0
+1.0	holder Inter Milan	score in	Tuesday 's tie	ORGANIZATION	DATE
+0.5095676820931228	final first leg	win over	Parma	ORDINAL	ORGANIZATION
+1.0	bosnian striker Zlatko Dedic	tuck goal for	parma	PERSON	0
+0.5095676820931228	leg	win over	Parma	0	ORGANIZATION
+1.0	striker Adriano	break deadlock with	delicate chip	PERSON	0
+1.0	Mancini	put roma against	parma with sublime chip	PERSON	0
+1.0	Arezzo	be to	second	LOCATION	ORDINAL
+1.0	one foot	be in	semi	NUMBER	0
+0.5095676820931228	first leg	win over	Parma Wednesday	ORDINAL	DATE
+1.0	holder Inter Milan	score twice in	Tuesday 's tie	ORGANIZATION	DATE
+1.0	lapse	allow	striker Zlatko Dedic	0	PERSON
+1.0	brazilian striker Adriano	break	deadlock	PERSON	0
+0.5095676820931228	first leg	win over	Parma	ORDINAL	ORGANIZATION
+1.0	defender Ivan Cordoba	head in	Inter 's goal	PERSON	ORGANIZATION
+1.0	defender Luigi Sala	net goal in	Wednesday 's leg tie	PERSON	DATE
+1.0	goal	put	Roma 's	0	ORGANIZATION
+1.0	bosnian striker Zlatko Dedic	tuck goal from	time	PERSON	0
+1.0	Wednesday	in	other first leg tie	DATE	ORDINAL
+1.0	holder Inter Milan	score in	last 19 minute	ORGANIZATION	DATE
+1.0	Fiorentina	be on	six	ORGANIZATION	NUMBER
+1.0	Parma	be  at_time	Wednesday	ORGANIZATION	DATE
+1.0	colombian defender Ivan Cordoba	head in	Inter 's goal	PERSON	ORGANIZATION
+1.0	defender Luigi Sala	net goal in	Wednesday 's other first leg tie	PERSON	ORDINAL
+1.0	Mancini	put roma against	ahead parma	PERSON	0
+1.0	alarming lapse	allow	striker Zlatko Dedic	0	PERSON
+1.0	concentration	be in	home defence	0	0
+1.0	striker Zlatko Dedic	tuck	goal	PERSON	0
+1.0	final 's right-wing cross	be in	the 87th minute	0	DATE
+1.0	parma	be  at_time	three minute	0	DURATION
+1.0	Tuesday	in	tie	DATE	0
+1.0	defender Ivan Cordoba	head in	Inter 's second goal	PERSON	ORDINAL
+1.0	they	concede goal in	quarter	0	0
+1.0	defender Luigi Sala	net goal in	Wednesday 's first leg tie	PERSON	ORDINAL
+0.5095676820931228	leg	win over	Parma here Wednesday	0	DATE
+0.5095676820931228	final leg	win over	Parma Wednesday	0	DATE
+1.0	Mancini	put roma from	edge of 18-yard box in 19th minute	PERSON	DATE
+0.9344901808901206	Roma 's	runner-up for	last season	ORGANIZATION	0
+1.0	Roma	be on	seven	ORGANIZATION	NUMBER
+1.0	defender Luigi Sala	net goal in	Wednesday 's other leg tie	PERSON	DATE
+1.0	Mancini	put roma against	ahead parma with chip	PERSON	0
+0.9344901808901206	Roma 's	runner-up for	season	ORGANIZATION	0
+1.0	Inter	in	second goal	ORGANIZATION	ORDINAL
+1.0	striker Adriano	break	deadlock	PERSON	0
+1.0	Roma	have	hope reach	ORGANIZATION	0
+0.9344901808901206	Roma 's	runner-up for	last two season	ORGANIZATION	NUMBER
+1.0	Mancini	put roma from	edge of 18-yard box	PERSON	0
+1.0	holder Inter Milan	score twice in	19 minute	ORGANIZATION	DATE
+1.0	box	have	edge	O	O
+1.0	parma	be with	sublime chip	0	0
+1.0	Roma 's	have	one foot	ORGANIZATION	NUMBER
+1.0	goal	put roma firmly in	control	0	0
+1.0	holder Inter Milan	win	2-0	ORGANIZATION	NUMBER
+1.0	return leg	take	place	0	0
+1.0	final	have	right-wing cross in 87th minute	0	DATE
+1.0	Chievo	be edge of	Sampdoria	ORGANIZATION	ORGANIZATION
+1.0	Inter	have	goal	O	ORGANIZATION
+1.0	Mancini	put	Roma 's	PERSON	ORGANIZATION
+1.0	Roma 's	have	one foot in semi	ORGANIZATION	NUMBER
+1.0	Chievo	be as	Sampdoria	ORGANIZATION	ORGANIZATION
+1.0	defender Luigi Sala	net goal as	Sampdoria edge Chievo 1-0	PERSON	ORGANIZATION
+1.0	Cup	have	four	NUMBER	MISC
+1.0	return leg	take place at_time	next week	0	DATE
+1.0	holder Inter Milan	score twice in	last 19 minute	ORGANIZATION	DATE
+1.0	Mancini	put roma against	parma	PERSON	0
+1.0	Mancini	put roma from	edge	PERSON	0
+1.0	bosnian striker Zlatko Dedic	tuck	home goal	PERSON	0
+1.0	striker Zlatko Dedic	tuck	home valuable goal	PERSON	0
+1.0	ac Milan	be on	Thursday	ORGANIZATION	DATE
+1.0	Ivan Cordoba	be	colombian	PERSON	0
+0.5095676820931228	final leg	win over	Parma	0	ORGANIZATION
+0.5095676820931228	first leg	win over	Parma here Wednesday	ORDINAL	DATE
+1.0	Mancini	put roma from	edge of 18-yard box in minute	PERSON	DATE
+1.0	Roma 's	runner-up for	last two season	ORGANIZATION	NUMBER
+1.0	bosnian striker Zlatko Dedic	tuck	valuable goal	PERSON	0
+1.0	they	concede goal in	2-1 quarter	0	0
+1.0	goal	put roma in	control	0	0
+1.0	bosnian striker Zlatko Dedic	tuck goal for	parma three minute	PERSON	DURATION
+1.0	defender Luigi Sala	net	only goal	PERSON	0
+1.0	colombian defender Ivan Cordoba	head in	Inter 's second goal	PERSON	ORDINAL
+1.0	striker Zlatko Dedic	tuck goal for	parma three minute	PERSON	DURATION
+1.0	holder Inter Milan	score in	19 minute	ORGANIZATION	DATE
+1.0	18-yard box	be in	the 19th minute	0	DATE
+1.0	finals	have	cross	O	O
+0.5095676820931228	final first leg	win over	Parma Wednesday	ORDINAL	DATE
+1.0	runners-up for the last two seasons	have	relegation	O	O
+1.0	goal	put roma in	control at Olympic stadium	0	MISC
+1.0	Roma	have	hopes	O	ORGANIZATION
+1.0	Adriano	be	brazilian	PERSON	0
+1.0	brazilian striker Adriano	break deadlock with	delicate chip	PERSON	0
+1.0	they	concede	goal	0	0
+0.5095676820931228	final first leg	win over	Parma here Wednesday	ORDINAL	DATE
+0.7434598600055672	holder Inter Milan	go for	third straight	ORGANIZATION	ORDINAL
+0.7434598600055672	holder Inter Milan	go for	straight	ORGANIZATION	0
+1.0	bosnian striker Zlatko Dedic	tuck	home valuable goal	PERSON	0
+1.0	Maurizio Ciaramitaro	be before	dedic	PERSON	0
+1.0	goal	put roma firmly in	control at Olympic stadium	0	MISC
+1.0	Wednesday	have	leg tie	O	DATE
+1.0	alarming lapse	be in	concentration	0	0
+0.9344901808901206	Roma 's	runner-up for	two season	ORGANIZATION	NUMBER

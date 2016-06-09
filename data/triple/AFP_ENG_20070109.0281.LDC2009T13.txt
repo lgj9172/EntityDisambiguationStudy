@@ -1,0 +1,46 @@
+1.0	Fisheries	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	fertiliser	have	aid shipments	O	O
+1.0	sand	top	list	0	0
+1.0	shipping	have	volume	O	O
+1.0	Seoul government	suspend	its own aid shipment	LOCATION	0
+1.0	communist state	after	missile test	0	0
+1.0	Seoul government	suspend	its own aid shipment of rice	LOCATION	0
+1.0	sand	top list at_time	year	0	DATE
+1.0	shipments	have	list	O	O
+1.0	goods	have	TEUs	O	O
+1.0	Maritime Affairs	have	Ministry	ORGANIZATION	ORGANIZATION
+0.5390247187479031	ministry official	quote by	Yonhap news agency	0	ORGANIZATION
+1.0	korean group	send aid to	North	0	0
+1.0	North	have	test	O	O
+1.0	private group	send	aid	0	0
+1.0	South	under	sunshine policy of engagement	0	0
+1.0	its	have	neighbour	O	O
+1.0	sand	top	list of shipment	0	0
+1.0	Seoul government	suspend	its aid shipment of rice	LOCATION	0
+1.0	sand	top list at_time	high last year	0	DATE
+1.0	transportation	have	volume	O	O
+1.0	group	send	aid	0	0
+1.0	private south korean group	send	aid	0	0
+1.0	Seoul government	suspend	its regular aid shipment of rice	LOCATION	0
+1.0	private korean group	send	aid	0	0
+1.0	private korean group	send aid to	North	0	0
+1.0	south korean group	send aid to	North	0	0
+1.0	South	have	sunshine policy	O	O
+1.0	Seoul government	suspend	its own regular aid shipment	LOCATION	0
+1.0	korean group	send	aid	0	0
+1.0	rice	have	aid shipments	O	O
+1.0	sand	top	list of inter-korean shipment	0	0
+1.0	Seoul government	suspend	its own regular aid shipment of rice	LOCATION	0
+1.0	Seoul government	suspend	its regular aid shipment	LOCATION	0
+1.0	engagement	have	sunshine policy	O	O
+1.0	sand	have	amount	O	O
+1.0	south korean group	send	aid	0	0
+1.0	private group	send aid to	North	0	0
+1.0	two seoul-funded joint project	be in	North	NUMBER	0
+1.0	group	send aid to	North	0	0
+1.0	The Seoul government	have	aid shipments	O	O
+1.0	official	say at_time	Wednesday	0	DATE
+1.0	state	have	missile tests	O	O
+1.0	private south korean group	send aid to	North	0	0
+1.0	goods	of teus be	20-foot-equivalent unit	0	0
+1.0	Seoul government	suspend	its aid shipment	LOCATION	0

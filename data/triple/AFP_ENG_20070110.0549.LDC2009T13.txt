@@ -1,0 +1,111 @@
+1.0	value	have	percent	PERCENT	O
+1.0	its fourth quarter profit	be	hit	DATE	0
+1.0	Nasdaq Composite	be hold	steady	MISC	0
+1.0	oil price	fall further with	price of Brent North Sea	0	LOCATION
+1.0	distillates	have	stockpiles	O	O
+1.0	Brent North Sea	have	price	O	LOCATION
+1.0	Tokyo 's nikkei-225 index	drop more	1.71 percent	LOCATION	PERCENT
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Standard	show	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	hefty loss	be in	Asia	0	LOCATION
+1.0	Tuesday	have	gains	O	DATE
+1.0	US trading	be mark by	Chevron 's warning	LOCATION	ORGANIZATION
+1.0	european stock market	fall after	loss in Asia	0	LOCATION
+1.0	AEX index	fall by	0.68 percent	MISC	PERCENT
+1.0	US trading	be	mark	LOCATION	0
+1.0	DAX index	shed	0.72 percent	MISC	PERCENT
+1.0	SP/Mib	drop in	Milan	0	LOCATION
+1.0	oil price	fall further with	price	0	0
+1.0	Tuesday	have	gain	DATE	0
+1.0	Tokyo 's benchmark nikkei-225 index	drop	1.71 percent	LOCATION	PERCENT
+1.0	Commission	diversify	EU energy source	ORGANIZATION	ORGANIZATION
+1.0	its quarter profit	be	hit	DATE	0
+1.0	DAX 30 index	shed	0.72 percent	NUMBER	PERCENT
+1.0	London	have	FTSE index	O	LOCATION
+1.0	eurozone chip shares	have	DJ Euro Stoxx	MISC	O
+1.0	Tokyo	have	benchmark nikkei-225 index of lead share	LOCATION	0
+1.0	broad Standard	show	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	Hong Kong 's key Hang Seng Index	close down at	19,568.34 point	LOCATION	NUMBER
+1.0	Hong Kong 's key Hang Seng Index	close at	19,568.34 point	LOCATION	NUMBER
+1.0	its fourth quarter profit	be hit by	commodity price	DATE	0
+1.0	bel-20	close down in	Brussels	0	LOCATION
+1.0	oil price	fall further with	price of Brent North Sea crude	0	LOCATION
+1.0	Hong Kong	have	Hang Seng Index	MISC	LOCATION
+1.0	Commission	unveil	vast plan	ORGANIZATION	0
+1.0	european stock market	fall after	hefty loss in Asia	0	LOCATION
+1.0	oil price	fall at_time	Wednesday	0	DATE
+1.0	total	be at	off by 1.16 percent 51.25 euro	0	PERCENT
+1.0	percent	have	drop	O	PERCENT
+1.0	big energy group	draw objection from	France	0	LOCATION
+1.0	further drop	be in	oil price	0	0
+1.0	broad Standard	show	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Tokyo 's benchmark nikkei-225 index	drop more	1.71 percent	LOCATION	PERCENT
+1.0	stock market	fall after	hefty loss in Asia	0	LOCATION
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	Standard	show	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	its quarter profit	be hit by	fall commodity price	DATE	0
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+1.0	euro	stand at	1.2939 dollar	0	MONEY
+1.0	its quarter profit	be hit by	commodity price	DATE	0
+1.0	Nasdaq Composite	be hold	steady at 2,443.38 point	MISC	NUMBER
+1.0	total	be at	off 51.25 euro	0	MONEY
+1.0	its fourth quarter profit	be hit by	fall commodity price	DATE	0
+1.0	Paris CAC	lose	0.56 percent	LOCATION	PERCENT
+1.0	share	be in	EON	0	ORGANIZATION
+1.0	US trading	have	quarter profit	O	O
+1.0	SP/Mib	drop by	0.50 percent	0	PERCENT
+1.0	total	be at	51.25 euro	0	MONEY
+1.0	stock market	fall on	Wednesday	0	DATE
+1.0	Hong Kong 's Hang Seng Index	close down at	19,568.34 point	LOCATION	NUMBER
+1.0	US trading	be	early mark	LOCATION	0
+1.0	energy company	be in	also focus	0	0
+1.0	EU energy source	slash	carbon emission	ORGANIZATION	0
+1.0	energy company	be in	focus	0	0
+1.0	oil price	fall with	price	0	0
+1.0	share	be in	bp	0	0
+1.0	european stock market	fall on	Wednesday	0	DATE
+1.0	Commission	unveil	plan	ORGANIZATION	0
+1.0	other energy company	be in	also focus	0	0
+1.0	Tokyo 's nikkei-225 index	drop	1.71 percent	LOCATION	PERCENT
+1.0	bel-20	close down at	4,405.87	0	NUMBER
+1.0	Hong Kong	have	Hang Seng Index	LOCATION	MISC
+1.0	share	lose	1.12 percent	0	PERCENT
+1.0	energy group	draw	immediate objection	0	0
+1.0	european Commission	diversify	EU energy source	ORGANIZATION	ORGANIZATION
+1.0	oil price	fall with	price of Brent North Sea	0	LOCATION
+1.0	european Commission	unveil	vast plan	ORGANIZATION	0
+1.0	Hong Kong 's Hang Seng Index	close at	19,568.34 point	LOCATION	NUMBER
+1.0	Paris CAC 40	lose	0.56 percent	LOCATION	PERCENT
+1.0	other energy company	be in	focus	0	0
+1.0	dollars	have	low	O	MONEY
+1.0	AEX index	fall in	Amsterdam	MISC	LOCATION
+1.0	Chevron	by	warning	ORGANIZATION	0
+1.0	stock market	fall after	hefty loss	0	0
+1.0	dealers	have	value	O	O
+1.0	Chevron	have	warning	O	ORGANIZATION
+1.0	stock market	fall after	loss in Asia	0	LOCATION
+1.0	stock market	fall after	loss	0	0
+1.0	oil price	fall further at_time	Wednesday	0	DATE
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	energy group	draw objection from	France	0	LOCATION
+1.0	energy group	draw	objection	0	0
+1.0	oil price	fall with	price of Brent North Sea crude	0	LOCATION
+1.0	Frankfurt	have	stock	O	O
+1.0	Tokyo	have	Nikkei-225 index	O	LOCATION
+1.0	Commission	unveil plan at_time	Wednesday	ORGANIZATION	DATE
+1.0	bel-20	close in	Brussels	0	LOCATION
+1.0	EU energy source	boost	competition	ORGANIZATION	0
+1.0	share	lose	1.12 percent of they value	0	PERCENT
+1.0	bel-20	close at	4,405.87	0	NUMBER
+1.0	european Commission	unveil	plan	ORGANIZATION	0
+1.0	shares	have	FTSE index	O	O
+1.0	european Commission	unveil plan at_time	Wednesday	ORGANIZATION	DATE
+1.0	AEX index	fall to	492.49 point	MISC	NUMBER
+1.0	european stock market	fall after	hefty loss	0	0
+1.0	percent	have	gain	O	PERCENT
+1.0	big energy group	draw	objection	0	0
+1.0	big energy group	draw	immediate objection	0	0
+1.0	US trading	early be mark by	Chevron 's warning	LOCATION	ORGANIZATION
+1.0	SP/Mib	drop to	41,360 point	0	NUMBER
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	european stock market	fall after	loss	0	0

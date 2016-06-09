@@ -1,0 +1,67 @@
+1.0	unmarried couples regardless of sexual orientation	will inevitably weaken	family	0	0
+1.0	center-left government	submit bill by	end	0	DATE
+1.0	orientation	have	couples	O	O
+1.0	number	boost	employment	0	0
+1.0	Prodi	have	Union coalition	O	PERSON
+1.0	young couple	increase	number of day care center	0	DURATION
+1.0	number	boost	employment for people	0	0
+1.0	Lazio region	have	leaders	O	O
+1.0	dispute	have	subject	O	O
+1.0	government	submit	bill on civil union	0	0
+1.0	Senate	have	justice committee	O	ORGANIZATION
+1.0	Italy 's government	grant recognition to	couple	LOCATION	0
+1.0	young couple	find	family	0	0
+1.0	couple	increase	number of day care center	0	DURATION
+0.86975342836923	boost	employment for	people	0	0
+1.0	pope	say at_time	Thursday	0	DATE
+1.0	government	submit	bill	0	0
+1.0	unmarried couples regardless of sexual orientation	will inevitably weaken	legitimate family	0	0
+1.0	union	have	forms	O	O
+1.0	day care centers	have	number	O	O
+1.0	he	call	help	0	0
+1.0	Rome	include	Walter Veltroni	LOCATION	PERSON
+1.0	parliamentary leaders of several parties	have	versions	O	O
+1.0	italian Senate justice committee	examine	proposal	ORGANIZATION	0
+1.0	Pope Benedict XVI	reiterate	he opposition	PERSON	0
+1.0	government	submit	bill on union	0	0
+1.0	Rome	have	Mayor Walter Veltroni	PERSON	LOCATION
+1.0	they own version	range	coalition	0	0
+0.686840862101019	recognition	appear	dangerous	0	0
+1.0	Rome	of	Lazio region	LOCATION	LOCATION
+1.0	government	submit bill by	end	0	DATE
+1.0	Italy 's government	grant recognition to	unmarried couple	LOCATION	0
+1.0	they version	range	coalition	0	0
+1.0	center-left government	submit	bill on civil union	0	0
+1.0	Senate justice committee	examine	proposal	ORGANIZATION	0
+1.0	Benedict XVI	be on	Thursday	PERSON	DATE
+1.0	Italy	have	government	O	LOCATION
+1.0	Prime Minister Romano Prodi	have	government	O	PERSON
+1.0	coalition	include	party	0	0
+1.0	couple	increase	number	0	0
+1.0	he	call for	measure	0	0
+1.0	coalition	include party with	catholic	0	0
+1.0	young couple	increase	number	0	0
+1.0	Prime Minister Romano Prodi	have	coalition	O	O
+1.0	Rome	have	Lazio region	O	LOCATION
+1.0	parties	have	leaders	O	O
+1.0	unmarried couples regardless of sexual orientation	will weaken	legitimate family	0	0
+1.0	Pope Benedict XVI on Thursday	have	opposition	O	O
+1.0	couple	find	family	0	0
+1.0	law	have	versions	O	O
+1.0	coalition	have	election manifesto	O	O
+1.0	schools	have	number	O	O
+1.0	unmarried couples regardless of sexual orientation	will weaken	family	0	0
+1.0	Italy 's government	grant	recognition	LOCATION	0
+1.0	center-left government	submit bill by	end of January	0	DATE
+1.0	number	boost	employment for young people	0	0
+1.0	Italy 's government	grant	legal recognition	LOCATION	0
+1.0	Pope Benedict XVI on Thursday	tell	leader	0	0
+1.0	coalition	of	election manifesto last April	0	DATE
+1.0	center-left government	submit	bill	0	0
+1.0	government	submit bill by	end of January	0	DATE
+1.0	center-left government	submit	bill on union	0	0
+0.86975342836923	boost	employment for	young people	0	0
+1.0	Italy	have	government	LOCATION	0
+1.0	January	have	end	DATE	DATE
+1.0	election manifesto	have	part	O	O
+0.686840862101019	legal recognition	appear	dangerous	0	0

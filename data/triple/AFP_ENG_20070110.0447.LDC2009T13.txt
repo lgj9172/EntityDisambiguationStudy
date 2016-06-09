@@ -1,0 +1,117 @@
+1.0	pipeline company Transneft	have	deputy head	O	ORGANIZATION
+1.0	owing	have	start	DATE	O
+1.0	barrels	have	disruption	O	O
+1.0	New York	have	main contract light sweet crude for delivery in February	LOCATION	DATE
+1.0	distillates	have	stockpiles	O	O
+1.0	market	be keep eye on	oil transit dispute	0	0
+1.0	New York 's main contract sweet crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+1.0	Russia	have	reliability	O	LOCATION
+1.0	Brent North Sea	have	price	O	LOCATION
+0.7170828648039138	reach	19-month low of	53.50 dollar	0	MONEY
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	cartel	have	emergency meeting	O	O
+1.0	future	have tumble to	drop in demand for heating fuel in United States	0	LOCATION
+1.0	future	have tumble to	drop in demand in United States	0	LOCATION
+1.0	future	owe to	warm winter for northern hemisphere	0	DATE
+1.0	dispute	re-ignite	concern	0	0
+1.0	future	have tumble to	drop in demand for heating fuel	0	0
+1.0	New York 's contract sweet crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+1.0	dispute	re-ignite concern as	energy supplier	0	0
+1.0	dispute	have lead to	five european state	0	NUMBER
+1.0	future	have tumble to	drop	0	0
+1.0	crude future	have tumble to	large drop in demand for heating fuel	0	0
+1.0	dispute	have lead from	Russia	0	LOCATION
+1.0	crude future	have tumble to	drop in demand for heating fuel in United States	0	LOCATION
+1.0	electronic trade	drop of	1.42 dollar	0	MONEY
+1.0	distillate products	have	levels	O	O
+1.0	New York 's contract crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+0.11105180709810691	New York 's main contract sweet crude	dive in	pit trading	LOCATION	0
+1.0	dispute	have lead to	five state	0	NUMBER
+1.0	future	have tumble to	large drop in demand for heating fuel in United States	0	LOCATION
+1.0	trader	push lower	price	0	0
+1.0	dollars	have	drop	O	MONEY
+1.0	crude future	have tumble to	large drop in demand in United States	0	LOCATION
+1.0	New York	have	contract crude	O	LOCATION
+0.7170828648039138	reach	low of	53.50 dollar	0	MONEY
+1.0	World oil price	slump with	price	0	0
+1.0	future	have tumble to	large drop	0	0
+1.0	Brent North Sea crude	hit	low point	LOCATION	0
+0.11105180709810691	New York 's contract crude	dive in	pit trading	LOCATION	0
+1.0	trader	ignore	drop	0	0
+1.0	market	elsewhere be keep	eye	0	0
+1.0	future	have tumble to	large drop in demand in United States	0	LOCATION
+1.0	dispute	have lead to	disruption of around 1.4 million barrel	0	NUMBER
+1.0	crude future	have tumble to	drop	0	0
+1.0	future	have tumble to	large drop in demand	0	0
+1.0	Russia	about	reliability	LOCATION	0
+0.11105180709810691	New York 's main contract crude	dive in	pit trading	LOCATION	0
+1.0	crude future	have tumble to	drop in United States	0	LOCATION
+1.0	future	have tumble to	large drop in demand for heating fuel	0	0
+1.0	New York 's contract light sweet crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	World oil price	slump with	price of Brent North Sea crude	0	LOCATION
+1.0	future	owe to	winter for hemisphere	0	DATE
+1.0	Energy	have	Department	ORGANIZATION	ORGANIZATION
+1.0	Organization of the Petroleum Exporting Countries	for spokesman be	OPEC	ORGANIZATION	ORGANIZATION
+1.0	New York 's main contract light sweet crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+1.0	New York 's main contract crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	trader	ignore drop in	US inventory	0	LOCATION
+1.0	New York 's contract crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	Brent North Sea crude	stand in	drop of 1.42 dollar	LOCATION	MONEY
+1.0	crude future	owe to	warm winter	0	DATE
+1.0	future	have tumble to	large drop in United States	0	LOCATION
+1.0	Brent North Sea crude	hit	point	LOCATION	0
+1.0	future	owe to	winter for northern hemisphere	0	DATE
+1.0	US Department	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	market	elsewhere be keep eye on	oil transit dispute	0	0
+1.0	crude future	have tumble to	large drop in demand for heating fuel in United States	0	LOCATION
+1.0	crude future	owe to	winter	0	DATE
+1.0	crude future	have tumble to	drop in demand for heating fuel	0	0
+1.0	oil exports	have	day	DURATION	O
+1.0	crude future	owe to	winter for northern hemisphere	0	DATE
+1.0	crude future	have tumble to	large drop in United States	0	LOCATION
+1.0	barrels	have	rise	O	O
+1.0	World oil price	slump on	Wednesday	0	DATE
+0.11105180709810691	New York 's main contract light sweet crude	dive in	pit trading	LOCATION	0
+1.0	dispute	have lead to	disruption of around 1.4 million barrel per day	0	DURATION
+1.0	trader	ignore	heavier-than-expected drop	0	0
+1.0	Brent North Sea crude	stand in	trade	LOCATION	0
+1.0	dollars	have	low	O	MONEY
+1.0	trader	ignore drop in	US crude inventory	0	LOCATION
+1.0	Brent North Sea crude	stand at	53.76 dollar	LOCATION	MONEY
+1.0	crude future	owe to	warm winter for hemisphere	0	DATE
+1.0	dispute	re-ignite	concern about Russia 's reliability	0	LOCATION
+1.0	dispute	have lead to	disruption	0	0
+1.0	New York 's contract sweet crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	market	elsewhere be keep eye on	oil transit dispute between Russia	0	LOCATION
+1.0	Brent North Sea crude	stand in	electronic trade	LOCATION	0
+1.0	large drop	be in	demand for heating fuel	0	0
+1.0	crude future	have tumble to	large drop in demand	0	0
+0.11105180709810691	New York 's contract sweet crude	dive in	pit trading	LOCATION	0
+1.0	trader	push	price	0	0
+1.0	Brent North Sea crude	hit	new low point	LOCATION	0
+1.0	future	have tumble to	drop in demand	0	0
+1.0	oil	have	deliveries	O	O
+1.0	World oil price	slump with	price of Brent North Sea	0	LOCATION
+0.11105180709810691	New York 's contract light sweet crude	dive in	pit trading	LOCATION	0
+1.0	dispute	have lead to	disruption of around 1.4 million barrel per day of oil export	0	DURATION
+1.0	crude future	owe to	winter for hemisphere	0	DATE
+1.0	market	be keep	eye	0	0
+1.0	Brent North Sea crude	hit	new point	LOCATION	0
+1.0	Brent North Sea crude	stand in	drop	LOCATION	0
+1.0	New York 's main contract light sweet crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	delivery	be in	February	0	DATE
+1.0	future	have tumble to	drop in United States	0	LOCATION
+1.0	market	be keep eye on	oil transit dispute between Russia	0	LOCATION
+1.0	New York 's main contract crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+1.0	New York 's main contract sweet crude	dive	1.34 dollar 54.30 dollar	LOCATION	MONEY
+1.0	New York 's contract light sweet crude	dive	1.34 dollar 54.30 dollar barrel	LOCATION	MONEY
+1.0	crude future	have tumble to	large drop	0	0
+1.0	crude future	have tumble to	drop in demand in United States	0	LOCATION
+1.0	future	owe to	warm winter for hemisphere	0	DATE
+1.0	future	owe to	winter	0	DATE
+1.0	crude future	owe to	warm winter for northern hemisphere	0	DATE
+1.0	gasoline	have	stockpiles	O	O
+1.0	crude future	have tumble to	drop in demand	0	0
+1.0	future	owe to	warm winter	0	DATE
+1.0	large drop	be in	the United States	0	LOCATION
+1.0	Petroleum Exporting Countries	have	Organization	ORGANIZATION	ORGANIZATION

@@ -1,0 +1,51 @@
+1.0	second event	jump	calendar	ORDINAL	0
+1.0	Japan	have	Noriaki Kasai	PERSON	LOCATION
+1.0	Switzerland	have	Andreas Kuettel	PERSON	LOCATION
+1.0	second	be cancel	due to adverse weather condition	DATE	DATE
+1.0	Noriaki Kasai of Japan in a competition	lose	point	0	0
+1.0	event	jump calendar amid	wind here Monday	0	DATE
+1.0	second event	be in	Four Hills	ORDINAL	LOCATION
+1.0	m	have	best	O	O
+1.0	Noriaki Kasai of Japan in a competition	lose point for	he technique	0	0
+1.0	Finland 's Janne Ahonen	could only manage	16th	PERSON	ORDINAL
+1.0	event	jump calendar amid	terrible wind Monday	0	DATE
+1.0	Finland	have	Janne Ahonen	LOCATION	PERSON
+1.0	event	have	titleholder four-time winner	O	O
+1.0	Four	have	head	O	NUMBER
+1.0	event	jump calendar amid	terrible wind	0	0
+1.0	event	jump calendar amid	wind Monday	0	DATE
+1.0	Japan	be in	competition	LOCATION	0
+1.0	Finland 's Janne Ahonen	could manage	16th	PERSON	ORDINAL
+1.0	Noriaki Kasai	be of	Japan	PERSON	LOCATION
+1.0	event	jump calendar amid	wind	0	0
+1.0	Gregor Schlierenzauer	be by	16-year-old	PERSON	DURATION
+1.0	event	jump calendar amid	terrible wind here Monday	0	DATE
+1.0	Switzerland 's Andreas Kuettel	have	effort	O	O
+1.0	he effort	be	1.5 m of Hautamaeki	0	NUMBER
+1.0	Noriaki Kasai	reduce to	one jump	PERSON	NUMBER
+1.0	Matti Hautamaeki	have	finished	O	PERSON
+0.5090130517823089	16th	118m for	118.4 pt	ORDINAL	NUMBER
+1.0	second event	jump calendar amid	terrible wind Monday	ORDINAL	DATE
+1.0	second	be cancel	due	DATE	0
+1.0	he effort	be	His effort	0	NUMBER
+1.0	Matti Hautamaeki	have	m	O	PERSON
+1.0	Switzerland	have	Andreas Kuettel	LOCATION	PERSON
+1.0	second event	jump calendar amid	terrible wind	ORDINAL	0
+1.0	second	be	cancel	DATE	0
+1.0	Finland	of	Matti Hautamaeki	LOCATION	PERSON
+1.0	Janne Ahonen	winner of	event	PERSON	0
+1.0	second event	jump calendar amid	wind Monday	ORDINAL	DATE
+1.0	second	be cancel	due to weather condition	DATE	DATE
+1.0	Gregor Schlierenzauer	be by	austrian	PERSON	0
+1.0	event	jump	calendar	0	0
+1.0	Noriaki Kasai of Japan in a competition	have	technique	O	O
+1.0	second event	jump calendar amid	wind	ORDINAL	0
+1.0	Finland	have	Janne Ahonen	PERSON	LOCATION
+1.0	Switzerland 's Andreas Kuettel	finish ahead of	Finland 's Matti Hautamaeki	PERSON	PERSON
+1.0	he effort	be	1.5 m	0	NUMBER
+1.0	second event	jump calendar amid	wind here Monday	ORDINAL	DATE
+1.0	Finland	's ahonen be	titleholder winner of event	LOCATION	0
+1.0	Switzerland 's Andreas Kuettel	finish of	Finland 's Matti Hautamaeki	PERSON	PERSON
+1.0	Noriaki Kasai	reduce to	only one jump	PERSON	NUMBER
+1.0	Finland	have	Matti Hautamaeki	PERSON	LOCATION
+1.0	second event	jump calendar amid	terrible wind here Monday	ORDINAL	DATE

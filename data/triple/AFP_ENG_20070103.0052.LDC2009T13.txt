@@ -1,0 +1,7 @@
+1.0	region	have	police chief	O	O
+1.0	region	have	police chief	0	0
+1.0	bus	have	driver	O	O
+1.0	vehicle	have	control	O	O
+1.0	truck	be in	Philippines	0	LOCATION
+1.0	Leopoldo Bataoil	chief 's	region	PERSON	0
+1.0	Bauang	have	town	O	LOCATION

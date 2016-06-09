@@ -1,0 +1,25 @@
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth	LOCATION	DATE
+1.0	Ricky Ponting	be	unbeaten	PERSON	0
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day here	LOCATION	DATE
+1.0	cricket Test	have	day	DATE	O
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth at Sydney Cricket Ground	LOCATION	LOCATION
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day here	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day here on Wednesday	LOCATION	DATE
+1.0	Ricky Ponting	be unbeaten with	Mike Hussey	PERSON	PERSON
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth at Sydney Cricket Ground	LOCATION	DATE
+1.0	fifth	have	day	DATE	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth at Sydney Cricket Ground here on Wednesday	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth here on Wednesday	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea	LOCATION	NUMBER
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day here on Wednesday	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth at Sydney Cricket Ground here	LOCATION	DATE
+1.0	Ricky Ponting	be	unbeaten on 37 with Mike Hussey	PERSON	NUMBER
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth here on Wednesday	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth at Sydney Cricket Ground here	LOCATION	LOCATION
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth at Sydney Cricket Ground here on Wednesday	LOCATION	LOCATION
+1.0	Ricky Ponting	be unbeaten on	37	PERSON	NUMBER
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on day of fifth here	LOCATION	DATE
+1.0	Australia	be	109 for two in reply to England 's 291 at tea on second day of fifth here	LOCATION	DATE

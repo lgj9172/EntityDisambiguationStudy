@@ -1,0 +1,64 @@
+1.0	bomb blasts	have	series	O	O
+1.0	blast	be in	northern island town of Sollaro	0	LOCATION
+1.0	Ajaccio	centre 's	island	LOCATION	0
+1.0	island	have	centre	O	O
+1.0	it	have	so many in one	0	NUMBER
+1.0	Corsica	have	farmers	O	LOCATION
+1.0	series	occur by	conservative presidential candidate	0	0
+1.0	blast	kill	man in he 50s believe	0	NUMBER
+1.0	Ajaccio	have	port	O	LOCATION
+1.0	series	occur by	Interior Minister Nicolas Sarkozy	0	PERSON
+1.0	series	occur by	candidate	0	0
+1.0	Corsica		farmer	LOCATION	0
+1.0	Nicolas Sarkozy	be minister of	Interior	PERSON	ORGANIZATION
+1.0	Corsica	be for	three decade	LOCATION	DURATION
+1.0	judicial official	be in	Paris	0	LOCATION
+1.0	series	occur on	January 3 one	0	DATE
+1.0	Nicolas Sarkozy	be by	Interior	PERSON	ORGANIZATION
+1.0	sixth blast	kill	man in he 50s believe	ORDINAL	NUMBER
+1.0	bombing last week	be in	Corsica	DATE	LOCATION
+1.0	series	occur at_time	day	0	DURATION
+1.0	Joseph Colombani	president of	Corsica 's farmer ' union	PERSON	LOCATION
+1.0	property	be	when vacant	0	0
+1.0	connection	be with	one	0	NUMBER
+1.0	series	occur before	visit to island	0	0
+1.0	it	have	many in one	0	NUMBER
+1.0	separatist attacks	have	pattern	O	O
+1.0	Separatist bomb attack	target	building	0	0
+1.0	Separatist bomb attack	target	building associate with rule	0	0
+1.0	series	occur by	conservative candidate	0	0
+1.0	sixth blast	kill	man in he 50s	ORDINAL	NUMBER
+1.0	man	be in	50s	0	NUMBER
+1.0	sixth blast	kill	man believe	ORDINAL	0
+1.0	sixth blast	be in	Sollaro	ORDINAL	LOCATION
+1.0	it	be	unusual	0	0
+1.0	sixth blast	kill	man	ORDINAL	0
+1.0	union	have	president	O	O
+1.0	Nicolas Sarkozy	have	50s	NUMBER	O
+1.0	bombings	have	series	O	O
+1.0	it	have	many	0	0
+1.0	series	occur by	presidential candidate	0	0
+1.0	Separatist bomb attack	target	building associate with french rule	0	0
+1.0	Separatist bomb attack	frequently target	building associate with french rule	0	0
+1.0	property	be	vacant	0	0
+1.0	farmers	have	union	O	O
+1.0	island	have	biggest urban centre	0	0
+1.0	Separatist bomb attack	frequently target	building	0	0
+1.0	Separatist bomb attack	frequently target	building associate with rule	0	0
+1.0	explosion	come shortly after	sixth	0	ORDINAL
+1.0	seventh explosion	come shortly after	sixth	ORDINAL	ORDINAL
+1.0	blast	kill	man in he 50s	0	NUMBER
+1.0	seventh explosion	come after	sixth	ORDINAL	ORDINAL
+1.0	series	occur before	visit	0	0
+1.0	explosion	come after	sixth	0	ORDINAL
+1.0	blast	kill	man	0	0
+1.0	blast	kill	man believe	0	0
+1.0	seventh explosion	be in	Sollaro	ORDINAL	LOCATION
+1.0	Sollaro	have	island town	O	LOCATION
+1.0	it	have	so many	0	0
+1.0	series	occur before	visit to mediterranean island	0	0
+1.0	Separatist bomb attack	frequently target	building associate	0	0
+1.0	Separatist bomb attack	target	building associate	0	0
+1.0	series	have	one	NUMBER	O
+1.0	holiday villa	own by	non-corsican	0	0
+1.0	blasts	have	Five	NUMBER	O

@@ -1,0 +1,12 @@
+1.0	side	agree at_time	Wednesday	0	DATE
+1.0	two side	agree at_time	Wednesday	NUMBER	DATE
+1.0	shut-down	be in	supplies	0	0
+1.0	Interfax news agency	quote source in	negotiating team	ORGANIZATION	0
+1.0	Interfax news agency	quote	source	ORGANIZATION	0
+1.0	media report	be in	country	0	0
+1.0	Interfax news agency	quote	unnamed source	ORGANIZATION	0
+1.0	two side	agree in	principle	NUMBER	0
+1.0	several european country	to pipeline be	friendship	0	0
+1.0	Interfax news agency	quote source in	russian negotiating team	ORGANIZATION	0
+1.0	the two prime ministers on the oil problem	have	differences	O	O
+1.0	side	agree in	principle	0	0

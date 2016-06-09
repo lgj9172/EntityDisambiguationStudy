@@ -1,0 +1,119 @@
+1.0	he	have	Karthik catch at silly point after tea	0	PERSON
+1.0	bowlers	have	switch	O	O
+1.0	his	have	Test	O	O
+1.0	Kallis	have	Test catch	O	PERSON
+1.0	partner	strike	firm drive	0	0
+1.0	opening batsman Wasim Jaffer	make	measured century	PERSON	DURATION
+1.0	his	have	toes	O	O
+1.0	tall Jaffer	reach	he century	PERSON	DATE
+1.0	he	have	Karthik catch at point off first ball after tea	0	ORDINAL
+1.0	Wasim Jaffer	be	indian	PERSON	0
+1.0	Indian captain	edge catch to	wicketkeeper Mark Boucher	MISC	PERSON
+1.0	our	have	hands	O	O
+1.0	Shaun Pollock	have	hold	O	PERSON
+1.0	tall Jaffer	reach	he third century	PERSON	DATE
+1.0	Karthik	leave	ball	PERSON	0
+1.0	he	have	Karthik catch at point	0	PERSON
+1.0	Sehwag	be	move	PERSON	0
+1.0	tall Jaffer	play	inning	PERSON	0
+1.0	tall Jaffer 28	reach	he third century	PERSON	DATE
+1.0	Sehwag	be move down	batting order	PERSON	0
+1.0	Jaffer	thank	indian tour management	PERSON	0
+1.0	Indian captain	score	29	MISC	NUMBER
+1.0	Indian captain	edge	catch	MISC	0
+1.0	Arthur	say with	series lock at 1-1	PERSON	NUMBER
+1.0	his	have	innings	O	O
+1.0	Kallis	miss	second test	PERSON	ORDINAL
+1.0	toes	have	striking	O	O
+1.0	Arthur	say with	series lock	PERSON	0
+1.0	Dravid	have	wicket	O	LOCATION
+1.0	he	have	Karthik catch at point off ball after tea	0	PERSON
+1.0	indian opening batsman Wasim Jaffer	make	measured century	PERSON	DURATION
+1.0	ball	have	caught	O	O
+1.0	Dale Steyn	have	slip	O	PERSON
+1.0	it	be	Kallis ' test catch	0	PERSON
+1.0	Jaffer	thank tour management for	standing	PERSON	0
+1.0	Karthik	leave ball alone in	he inning	PERSON	0
+1.0	he	have	Karthik catch at silly point	0	PERSON
+1.0	Indian opening batsman Wasim Jaffer	have	century	DATE	O
+1.0	he	have	Karthik catch at silly point off ball after tea	0	PERSON
+1.0	Indian captain Rahul Dravid	decide to	bat	MISC	0
+1.0	Indian opening batsman Wasim Jaffer	make	116	PERSON	NUMBER
+1.0	pitch	have	appearance	0	0
+1.0	he	have	Karthik catch off ball	0	PERSON
+1.0	our	have	innings	O	O
+1.0	Jaffer	thank tour management by	he	PERSON	0
+1.0	Rahul Dravid	be	Indian	PERSON	MISC
+1.0	overs	have	spell	O	O
+1.0	it	be	Kallis ' 100th test catch for South Africa	0	ORDINAL
+1.0	Pollock	claim	wicket	PERSON	0
+1.0	Arthur	say with	series	PERSON	0
+1.0	tall Jaffer 28	play	chanceless inning	PERSON	0
+0.6680522880479459	Karthik	catch off	first ball	PERSON	ORDINAL
+1.0	back injury	have	missing	O	O
+1.0	Indian opening batsman Wasim Jaffer	have	team	O	O
+1.0	Jaffer	be	partner	PERSON	0
+1.0	Karthik	leave ball in	he inning	PERSON	0
+1.0	Harris	bowl	24 over	PERSON	NUMBER
+1.0	Kallis	miss	test	PERSON	0
+1.0	he	have	Karthik catch after tea	0	PERSON
+1.0	he	have	Karthik catch at silly point off first ball after tea	0	ORDINAL
+1.0	Karthik	leave alone	ball	PERSON	0
+1.0	he	have	Karthik catch at point off ball	0	PERSON
+1.0	Karthik	be	content	PERSON	0
+1.0	Jaffer	be	senior partner	PERSON	0
+1.0	Karthik	leave ball early in	he inning	PERSON	0
+1.0	he	have	Karthik catch	0	PERSON
+1.0	Indian opening batsman Wasim Jaffer	have	Test	O	O
+0.6680522880479459	Karthik	catch off	ball	PERSON	0
+0.6680522880479459	Karthik	catch at	point	PERSON	0
+1.0	Test	have	day	DURATION	O
+1.0	indian opening batsman Wasim Jaffer	make	century	PERSON	DURATION
+0.6680522880479459	Karthik	catch after	tea	PERSON	0
+1.0	Harris	be one of	three change	PERSON	NUMBER
+1.0	spinner Paul Harris	have	mistimed	O	PERSON
+1.0	both	play in	end	0	0
+1.0	he	have	Karthik catch off first ball	0	ORDINAL
+0.7091338787194379	Kallis	lead	batsman	PERSON	0
+1.0	it	be	Kallis ' test catch for South Africa	0	LOCATION
+1.0	Karthik	leave alone early	ball	PERSON	0
+1.0	he	have	Karthik catch at silly point off ball	0	PERSON
+1.0	he	have	Karthik catch at silly point off first ball	0	ORDINAL
+1.0	stand	be break by	Harris	0	PERSON
+1.0	South Africa	be at	Tuesday	LOCATION	DURATION
+1.0	tall Jaffer 28	play	inning	PERSON	0
+0.6680522880479459	Karthik	catch at	silly point	PERSON	0
+1.0	changes	have	one	NUMBER	O
+1.0	partner	strike firm drive off	he toe	0	0
+1.0	he	have	Karthik catch at point after tea	0	PERSON
+1.0	action	be with	assistance for fast bowler	0	0
+1.0	Pollock	claim	wicket of Dravid	PERSON	LOCATION
+1.0	bowler Steyn	have recover from	thigh injury	PERSON	0
+1.0	he	have	Karthik catch at point off first ball	0	ORDINAL
+1.0	Mickey Arthur	be	south african	PERSON	0
+1.0	Jaffer	thank	tour management	PERSON	0
+1.0	Mahender Singh Dhoni	have	picked	O	PERSON
+1.0	Jaffer	be	28	PERSON	NUMBER
+1.0	Harris	be one	three change	PERSON	NUMBER
+1.0	Karthik	leave ball alone early in	he inning	PERSON	0
+1.0	he	have	Karthik catch off ball after tea	0	PERSON
+1.0	stand	be break	play	0	0
+1.0	he	have	Karthik catch off first ball after tea	0	ORDINAL
+1.0	stand	be	break	0	0
+1.0	opening batsman Wasim Jaffer	make	century	PERSON	DURATION
+1.0	India	reach	254	LOCATION	NUMBER
+1.0	pitch	have	appearance	O	O
+1.0	he	have	Karthik	0	PERSON
+1.0	senior partner	strike firm drive off	he toe	0	0
+1.0	Karthik	leave early	ball	PERSON	0
+1.0	tall Jaffer	play	chanceless inning	PERSON	0
+1.0	second test	be in	Durban	ORDINAL	LOCATION
+1.0	tall Jaffer 28	reach	he century	PERSON	DATE
+1.0	Graeme Smith	be	south African	PERSON	MISC
+1.0	Herschelle Gibbs	have	drive	O	PERSON
+1.0	Karthik	have	bat	O	PERSON
+1.0	fast bowler Steyn	have recover from	thigh injury	PERSON	0
+1.0	match	have	rest	O	O
+1.0	10	have	score	NUMBER	NUMBER
+1.0	senior partner	strike	firm drive	0	0
+1.0	it	be	Kallis ' 100th test catch	0	ORDINAL

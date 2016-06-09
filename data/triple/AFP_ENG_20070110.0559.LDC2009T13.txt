@@ -1,0 +1,21 @@
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	warlords	have	some	O	O
+1.0	Rancher	say at	news conference	PERSON	0
+1.0	his	have	command	O	O
+1.0	United Nations mission	be in	dr Congo	ORGANIZATION	LOCATION
+1.0	warlord	disarm	they militia	0	0
+1.0	gold mining areas	have	control	O	O
+1.0	their	have	militias	O	O
+1.0	strategy	be in	northeastern region	0	0
+1.0	local warlord	disarm	they militia	0	0
+1.0	weapons	have	carrying	O	O
+1.0	nobody	have	official documentation	0	0
+1.0	nobody	have	documentation	0	0
+1.0	Congo	have	border	O	LOCATION
+1.0	Local warlords	have	promises	O	O
+1.0	its	have	elections	O	O
+0.7479295475655958	some	be	slow	0	0
+1.0	Republic	have	army	O	LOCATION
+1.0	official authorisation	be in	Ituri province	0	LOCATION
+1.0	United Nations mission	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	nobody	can carry	arm	0	0

@@ -1,0 +1,116 @@
+1.0	latest affair	focus on	israeli tax Authority	0	ORGANIZATION
+1.0	Ehud Olmert	have	predecessor	O	O
+1.0	he briefs reporter	travel with	he	0	0
+1.0	affair	break at_time	last week	0	DATE
+1.0	tax Authority	be on	israeli	ORGANIZATION	0
+1.0	bank	be	eventually sell	0	0
+1.0	Prime Minister Ehud Olmert Wednesday	face	possibility	DATE	0
+1.0	latest affair	focus on	tax Authority	0	ORGANIZATION
+0.8427594000707785	latest	hit	country	0	0
+1.0	the Israeli media	report with	Olmert out country on visit	MISC	PERSON
+1.0	affair	focus on	israeli tax Authority	0	ORGANIZATION
+1.0	his	have	performance	O	O
+1.0	Matza	have	personal secretary of 30 year	PERSON	DURATION
+1.0	Olmert	have	coalition partner Labour	ORGANIZATION	PERSON
+1.0	its	have	chief	O	O
+1.0	years	have	secretary	O	DURATION
+1.0	corruption scandals	have	string	O	O
+1.0	affair	break at_time	week	0	DATE
+1.0	Ehud Olmert	have	rating	PERSON	0
+1.0	bank	be eventually sell to	man	0	0
+1.0	Olmert	have	entourage	O	PERSON
+1.0	latest probe	involve	2004 privatization of Israel 's lender	0	LOCATION
+1.0	Olmert	have	entourage	PERSON	0
+0.37999818347223124	poll	publish	last Friday	0	DATE
+1.0	Attorney General Menahem Mazuz	have	China trip	O	O
+1.0	news	come at	they lowest	0	0
+0.37999818347223124	poll	publish	Friday	0	DATE
+1.0	Olmert	have	secretary	O	PERSON
+1.0	Israel	have	lender	O	LOCATION
+1.0	premier	have	chair	O	O
+1.0	mp	be with	labour	0	0
+1.0	parliament	of	powerful foreign affair	0	0
+1.0	respondents	have	percent	PERCENT	O
+1.0	harassment	have	allegations	O	O
+1.0	tax treatment	have	promises	O	O
+1.0	latest affair	break at_time	last week	0	DATE
+1.0	lender	have	privatization	O	O
+1.0	Olmert	be expect	respond to report later	PERSON	0
+1.0	latest probe	involve	2004 privatization	0	DATE
+1.0	he	assume	premier 's chair	0	0
+1.0	Bank Leumi	have	privatization	O	ORGANIZATION
+1.0	Tsahi Hanegbi	chief of	parliament 's powerful foreign affair	PERSON	0
+1.0	the Israeli media	report with	Olmert	MISC	PERSON
+1.0	mass-selling Yediot Aharonot	write at_time	week	ORGANIZATION	DATE
+1.0	Ami Ayalon	tell army radio at_time	Wednesday	PERSON	DATE
+1.0	graft scandals	have	string	O	O
+1.0	their	have	lowest	O	O
+1.0	Israel	of	daily	LOCATION	0
+1.0	Ehud Olmert	have	ratings	O	PERSON
+1.0	company	be with	relation	0	0
+1.0	affairs	have	chief	O	O
+1.0	bank	be sell to	man in question	0	0
+1.0	nation	have	life	O	O
+1.0	he	officially assume	premier 's chair	0	0
+1.0	Olmert	respond to	report	PERSON	0
+1.0	dailies	have	most	O	O
+1.0	ita official	be under	investigation	0	0
+1.0	Olmert	be expect	respond to report later on Wednesday	PERSON	DATE
+1.0	these	include	allegation of rape against President Moshe Katsav	0	PERSON
+1.0	probe	have	news	O	O
+1.0	corruption	have	problem	O	O
+1.0	probe	involve	2004 privatization	0	DATE
+1.0	Israel	have	dailies	O	LOCATION
+0.9947784538441613	he	travel in	China	0	LOCATION
+1.0	graft	have	allegations	O	O
+1.0	bank	be eventually sell to	man in question	0	0
+1.0	man	be in	question	0	0
+1.0	Olmert	be expect	respond	PERSON	0
+1.0	latest affair	break at_time	week	0	DATE
+1.0	corruption probe	have	possibility	O	O
+1.0	Yediot Aharonot	write at_time	week	ORGANIZATION	DATE
+1.0	labour	be coalition partner of	Olmert	0	PERSON
+1.0	his	have	trip	O	O
+1.0	twenty-four hour	be in	life of nation	0	0
+1.0	most	have	pages	O	O
+1.0	latest probe	involve	2004 privatization of Israel 's second-largest lender	0	LOCATION
+1.0	these	include	allegation	0	0
+1.0	Olmert	be expect	respond to report	PERSON	0
+1.0	mass-selling Yediot Aharonot	write at_time	last week	ORGANIZATION	DATE
+1.0	Israel	of	second-largest lender	LOCATION	0
+1.0	corruption	have	allegations	O	O
+1.0	beleaguered israeli Prime Minister Ehud Olmert Wednesday	face	possibility	DATE	0
+1.0	probe	involve	2004 privatization of Israel 's lender	0	LOCATION
+1.0	Olmert 's entourage	be	incense	PERSON	0
+1.0	influence	have	abuse	O	O
+1.0	the Israeli media	report with	Olmert out country on visit to China	MISC	LOCATION
+1.0	Ami Ayalon	tell	army radio	PERSON	ORGANIZATION
+1.0	Yediot Aharonot	write at_time	last week	ORGANIZATION	DATE
+1.0	Olmert	respond to	report later on Wednesday	PERSON	DATE
+1.0	businessman	have	intervened	O	O
+1.0	investigation	have	object	O	O
+1.0	Olmert	be	expect	PERSON	0
+1.0	Ami Ayalon	mp with	labour	PERSON	0
+1.0	these	include	allegation of rape	0	0
+1.0	israeli Prime Minister Ehud Olmert Wednesday	face	possibility	DATE	0
+1.0	Ehud Olmert	have	abuse	O	O
+1.0	premier	have	chair	0	0
+1.0	corruption investigations	have	year	DATE	O
+1.0	Israel	's lender be	Bank Leumi	LOCATION	ORGANIZATION
+1.0	Ehud Olmert	predecessor	Ariel Sharon	0	PERSON
+1.0	Olmert	respond to	report later	PERSON	0
+1.0	scene	have	life	O	O
+1.0	the Israeli media	report with	Olmert out country	MISC	PERSON
+1.0	probe	involve	2004 privatization of Israel 's second-largest lender	0	LOCATION
+1.0	Olmert 's entourage	be	meanwhile incense	PERSON	0
+1.0	defense committee	have	chief	O	O
+1.0	rape	have	allegations	O	O
+0.9947784538441613	he	travel with	he	0	0
+1.0	bank	be sell to	man	0	0
+1.0	parliament	have	affairs	O	O
+1.0	chief	have	that	O	O
+1.0	bank	be	sell	0	0
+1.0	Olmert	with	labour	PERSON	0
+1.0	affair	focus on	tax Authority	0	ORGANIZATION
+1.0	Matza	have	secretary	O	PERSON
+1.0	he briefs reporter	travel in	China	0	LOCATION

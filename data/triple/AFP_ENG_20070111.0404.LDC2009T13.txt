@@ -1,0 +1,31 @@
+1.0	Boucher	take	he 367th catch	PERSON	0
+1.0	catches	have	two	NUMBER	O
+1.0	South African wicketkeeper Mark Boucher	hold chance from	he second victim	0	ORDINAL
+1.0	South African wicketkeeper Mark Boucher	hold	chance	0	0
+1.0	37 stumping	be in	90 test	NUMBER	NUMBER
+1.0	Australia	than	Adam Gilchrist	LOCATION	PERSON
+1.0	South African wicketkeeper Mark Boucher	hold chance from	he victim	0	0
+1.0	South African wicketkeeper Mark Boucher	hold chance from	Faisal Iqbal	0	PERSON
+1.0	Mark Boucher	be	south african	PERSON	0
+1.0	Australia	of	Ian Healy	LOCATION	PERSON
+1.0	Test	have	day	DURATION	O
+1.0	his	have	catches	O	O
+1.0	Boucher	have play at_time	season	PERSON	0
+1.0	Australia	have	Ian Healy	PERSON	LOCATION
+1.0	Boucher	have play at_time	last season	PERSON	0
+1.0	395	have	total	O	NUMBER
+1.0	South African wicketkeeper Mark Boucher	hold chance in	Pakistan 's inning	0	LOCATION
+1.0	Boucher	take	he catch	PERSON	0
+1.0	South African wicketkeeper Mark Boucher	have	Test	O	O
+1.0	Pakistan	in	inning	LOCATION	0
+1.0	Boucher	have play in	99 test for South Africa	PERSON	LOCATION
+1.0	Boucher	play in	he 100th test	PERSON	ORDINAL
+1.0	Pakistan	have	innings	O	LOCATION
+1.0	South African wicketkeeper Mark Boucher	hold	simple chance	0	0
+1.0	Ian Healy	have	moved	O	PERSON
+1.0	his	have	career	O	O
+1.0	Australia	have	Adam Gilchrist	PERSON	LOCATION
+1.0	Boucher	play in	he test	PERSON	0
+1.0	South African wicketkeeper Mark Boucher	have	catch	O	O
+1.0	South African wicketkeeper Mark Boucher	have	victim	O	O
+1.0	Boucher	have play in	99 test	PERSON	NUMBER

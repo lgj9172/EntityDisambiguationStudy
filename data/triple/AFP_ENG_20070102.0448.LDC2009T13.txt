@@ -1,0 +1,36 @@
+1.0	bank	currently use	deposit as benchmark	0	0
+1.0	SHIBOR	have on	have trial run	0	DURATION
+1.0	bank	currently use	1-year deposit as benchmark	0	DURATION
+1.0	people 's Bank	say in	statement	ORGANIZATION	0
+1.0	SHIBOR	have on	have trial run for a	0	DURATION
+1.0	central bank	use	1-year deposit	0	DURATION
+1.0	bank	use	1-year deposit as benchmark	0	DURATION
+1.0	SHIBOR	have on	have trial run for a month	0	DURATION
+1.0	bank	currently use	1-year deposit	0	DURATION
+1.0	People	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	people 's Bank	say on	its website	ORGANIZATION	0
+1.0	SHIBOR	have	launch	O	O
+1.0	bank	currently use	deposit	0	0
+1.0	central bank	currently use	1-year deposit as benchmark	0	DURATION
+1.0	central bank	currently use	deposit as benchmark	0	0
+1.0	central bank	currently use	deposit	0	0
+1.0	bank	say at_time	Wednesday	0	DATE
+1.0	bank	use	deposit as benchmark	0	0
+1.0	money market instruments	have	guide pricing	O	O
+1.0	adjustment	be	infrequent	0	0
+1.0	rate	reflect	market change	0	0
+1.0	institutions	have	pricing capabilities	O	O
+1.0	bank	use	1-year deposit	0	DURATION
+1.0	central bank	say at_time	Wednesday	0	DATE
+1.0	central bank	use	1-year deposit as benchmark	0	DURATION
+1.0	central bank	use	deposit as benchmark	0	0
+1.0	rate	reflect market change in	timely manner	0	0
+1.0	bank	use	deposit	0	0
+1.0	rate	reflect market change in	manner	0	0
+1.0	The launch of SHIBOR	have	website	O	O
+1.0	SHIBOR	have on	have trial run month	0	DURATION
+1.0	China	have	money market	O	LOCATION
+1.0	China	for	money market	ORGANIZATION	0
+1.0	central bank	use	deposit	0	0
+1.0	central bank	currently use	1-year deposit	0	DURATION
+1.0	China	have	Bank	ORGANIZATION	ORGANIZATION

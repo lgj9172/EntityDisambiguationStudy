@@ -1,0 +1,163 @@
+1.0	Prime Minister Lee Hsien Loong	term	outcome	PERSON	0
+1.0	0.4 percent	be in	second	PERCENT	ORDINAL
+1.0	Prime Minister Lee Hsien Loong	release figure during	he New Year 's address	PERSON	DATE
+1.0	Index	cap	2006	ORGANIZATION	DATE
+1.0	New Year 's	in	speech	DATE	0
+1.0	New Year 's	during	address	DATE	0
+1.0	manufacturing sector	be estimate	have grow at slower pace of 7.3 percent	0	PERCENT
+1.0	8.2 percent	be in	2006	PERCENT	DATE
+1.0	Prime Minister Lee Hsien Loong	earlier release figure on	Sunday	PERSON	DATE
+1.0	5.5 percent GDP growth	be in	view	PERCENT	0
+1.0	1.1 percent	growth since	2000	PERCENT	DATE
+1.0	estimate growth	moderate in	quarter from 6.6 percent	0	DATE
+1.0	2006	have	estimates	O	O
+1.0	slower growth	be in	wholesale trade sector	0	0
+1.0	chemicals output	have	said	O	O
+1.0	forecasts	have	end	O	O
+1.0	The Singapore economy	have	advance fourth-quarter estimates	O	O
+0.5613082463847487	manufacturing sector	produce	industry expand respectively	0	0
+1.0	7.0 percent	be in	the third quarter	PERCENT	DATE
+1.0	estimate growth	moderate in	quarter	0	DATE
+1.0	Southeast Asia	have	most advanced economy	LOCATION	0
+1.0	2,985.83	have	record close	O	NUMBER
+1.0	Singapore government	help	stock market	DATE	0
+1.0	manufacturing sector	grow at	slower pace of 7.3 percent in last quarter	0	DATE
+1.0	size	be with	external sector three time	0	NUMBER
+1.0	economy	grow	nearly 8.2 percent in 2006	0	PERCENT
+1.0	10.3 percent	be in	the first three month of 2006	PERCENT	DATE
+1.0	strong manufacturing output	be in	November	0	DATE
+1.0	The Singapore economy	be	trade-driven	LOCATION	0
+1.0	2006	have	percent	PERCENT	DATE
+1.0	Singapore 's stock market	have	run	O	O
+1.0	construction sector	grow	first growth since 2000	0	ORDINAL
+1.0	chemicals output	partly say of	weaker electronics	0	0
+1.0	MTI	say	refer	ORGANIZATION	0
+1.0	Trade	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	manufacturing sector	be estimate	have grow at pace of 7.3 percent in quarter	0	DATE
+1.0	CIMB-GK Securities	expect	GDP growth of 5.7 percent	ORGANIZATION	PERCENT
+1.0	3,000 level	be	have breach	NUMBER	0
+0.5613082463847487	manufacturing sector	produce	service	0	0
+1.0	morning session	have	end	O	O
+1.0	growth	moderate to	6.0 percent	0	PERCENT
+1.0	Prime Minister Lee Hsien Loong	term	outcome expect	PERSON	0
+1.0	manufacturing sector	be estimate	have grow at pace	0	0
+1.0	Singapore	have	economy	LOCATION	0
+1.0	chemicals output	say of	weaker electronics	0	0
+1.0	Prime Minister Lee Hsien Loong	release	figure	PERSON	0
+1.0	construction sector	grow	growth since 2000	0	DATE
+1.0	construction sector	grow	positive growth since 2000	0	DATE
+1.0	growth	moderate in	service	0	0
+1.0	manufacturing sector	be estimate	have grow at pace of 7.3 percent in last quarter of 2006	0	DATE
+1.0	MTI	mainly add of	growth in trade sector	ORGANIZATION	0
+1.0	Prime Minister Lee Hsien Loong	stick for	2007 growth	PERSON	DATE
+1.0	manufacturing sector	be estimate	have grow at slower pace of 7.3 percent in last quarter of 2006	0	DATE
+1.0	his	have	New Year	DATE	O
+1.0	manufacturing sector	grow at	slower pace	0	0
+1.0	Singapore	have	economy	O	LOCATION
+1.0	Prime Minister Lee Hsien Loong	have	New Year	DATE	O
+1.0	New Year 's	to	opening	DATE	DATE
+1.0	manufacturing sector	be estimate	have grow at slower pace of 7.3 percent in last quarter	0	DATE
+1.0	manufacturing sector	be	estimate	0	0
+1.0	Joseph Tan	be economist of	Standard Chartered Bank	PERSON	ORGANIZATION
+1.0	city-state	have	GDP	O	O
+1.0	manufacturing sector	grow at	slower pace of 7.3 percent in quarter	0	DATE
+1.0	electronics	have	said	O	O
+1.0	economy	grow	nearly 8.2 percent	0	PERCENT
+1.0	MTI	add of	growth in wholesale trade sector	ORGANIZATION	0
+1.0	the first trading day of the New Year	day of	New year	DURATION	DATE
+1.0	chew Sok Chuang	be research head of	Westcomb Securities	PERSON	ORGANIZATION
+1.0	Singapore	have	stock market	LOCATION	0
+1.0	Standard Chartered Bank economist Joseph Tan	expect	5.5 percent GDP growth of strength	0	PERCENT
+1.0	Industry	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	the other hand	have	recovery	O	O
+1.0	MTI	add of	growth	ORGANIZATION	0
+1.0	7.7 percent	be in	real term	PERCENT	0
+1.0	construction sector	grow	first positive growth since 2000	0	ORDINAL
+1.0	MTI	mainly add of	slower growth in wholesale trade sector	ORGANIZATION	0
+1.0	growth	moderate in	quarter from 6.6 percent	0	DATE
+1.0	Singapore	have	stock market	O	LOCATION
+1.0	chemicals output	partly say of	electronics	0	0
+1.0	Singapore	have forecast	GDP growth	LOCATION	0
+1.0	Singapore government	say at_time	Monday	DATE	DATE
+1.0	Joseph Tan	be	Standard Chartered Bank	PERSON	ORGANIZATION
+1.0	Prime Minister Lee Hsien Loong	release figure on	Sunday	PERSON	DATE
+1.0	7.3 percent	be in	the last quarter of 2006	PERCENT	DATE
+1.0	The Singapore economy	be	heavily trade-driven	LOCATION	0
+1.0	2.6 percent growth	be in	the third quarter	PERCENT	DATE
+1.0	manufacturing sector	be estimate	have grow at slower pace of 7.3 percent in quarter	0	DATE
+1.0	Singapore 's stock market	run	day	0	DURATION
+1.0	chemicals output	say of	electronics	0	0
+1.0	MTI	mainly add of	growth in wholesale trade sector	ORGANIZATION	0
+1.0	Singapore	upgrade	its estimate	LOCATION	0
+1.0	MTI	add of	slower growth in wholesale trade sector	ORGANIZATION	0
+0.5613082463847487	manufacturing sector	produce	industry expand by 11.4 percent respectively	0	PERCENT
+0.5613082463847487	manufacturing sector	produce	industry expand	0	0
+1.0	second-fastest grow economy	be in	Southeast Asia	0	LOCATION
+1.0	2006	have	quarter	DATE	DATE
+1.0	Prime Minister Lee Hsien Loong	earlier release	figure	PERSON	0
+1.0	Southeast Asia	be after	Vietnam	LOCATION	LOCATION
+0.5613082463847487	manufacturing sector	produce	industry expand by 11.4 percent	0	PERCENT
+1.0	growth	have	added	O	O
+1.0	194 billion dollar	be in	2005	MONEY	DATE
+1.0	construction sector	grow	first positive growth	0	ORDINAL
+1.0	Wednesday	run at_time	day	DURATION	DURATION
+1.0	manufacturing sector	grow at	pace of 7.3 percent	0	PERCENT
+1.0	growth	moderate in	quarter	0	DATE
+0.5613082463847487	manufacturing sector	produce	industry	0	0
+1.0	Prime Minister Lee Hsien Loong	stick in	he New Year 's speech	PERSON	DATE
+1.0	manufacturing sector	be estimate	have grow	0	0
+1.0	CIMB-GK Securities	expect	GDP growth	ORGANIZATION	0
+1.0	manufacturing sector	grow at	slower pace of 7.3 percent in last quarter of 2006	0	DATE
+1.0	Singapore government	help	stock market to record New Year 's opening	DATE	DATE
+1.0	manufacturing sector	grow at	pace of 7.3 percent in quarter	0	DATE
+1.0	its recovery	be with	2.4 percent expansion	0	PERCENT
+1.0	GDP	have	size	O	O
+1.0	MTI	mainly add of	slower growth in trade sector	ORGANIZATION	0
+1.0	MTI	add of	slower growth in trade sector	ORGANIZATION	0
+1.0	construction sector	grow	positive growth	0	0
+1.0	manufacturing sector	grow at	pace	0	0
+1.0	key 3,000 level	be	have breach	NUMBER	0
+1.0	Singapore government	help stock market to	power	DATE	0
+1.0	MTI	add of	growth in trade sector	ORGANIZATION	0
+1.0	manufacturing sector	grow at	pace of 7.3 percent in last quarter of 2006	0	DATE
+1.0	Ministry of Trade and Industry	of ministry be	MTI	ORGANIZATION	ORGANIZATION
+1.0	construction sector	grow	growth	0	0
+1.0	manufacturing sector	grow at	slower pace of 7.3 percent	0	PERCENT
+1.0	manufacturing sector	be estimate	have grow at slower pace	0	0
+1.0	dollars	have	size	O	MONEY
+1.0	estimate growth	moderate to	6.0 percent	0	PERCENT
+1.0	percent	have	GDP growth	O	PERCENT
+1.0	Standard Chartered Bank economist Joseph Tan	expect	5.5 percent GDP growth in view	0	PERCENT
+1.0	manufacturing sector	grow at	slower pace of 7.3 percent in quarter of 2006	0	DATE
+1.0	manufacturing sector	be estimate	have grow at pace of 7.3 percent in quarter of 2006	0	DATE
+1.0	Prime Minister Lee Hsien Loong	earlier release figure during	he New Year 's address	PERSON	DATE
+1.0	8.0 percent	be in	second	PERCENT	ORDINAL
+1.0	United Overseas Bank Group	forecast	5.2 percent	ORGANIZATION	PERCENT
+1.0	New Year	have	speech	O	DATE
+1.0	Singapore	later upgrade	its estimate	LOCATION	0
+1.0	manufacturing sector	grow at	pace of 7.3 percent in last quarter	0	DATE
+1.0	Southeast Asia	have	economy	O	LOCATION
+1.0	percent	have	pace	O	PERCENT
+1.0	construction sector	grow	1.1 percent	0	PERCENT
+1.0	key level	be	have breach	0	0
+1.0	estimate growth	moderate in	service	0	0
+1.0	manufacturing sector	grow at	pace of 7.3 percent in quarter of 2006	0	DATE
+1.0	MTI	mainly add of	growth	ORGANIZATION	0
+1.0	manufacturing sector	be estimate	have grow at slower pace of 7.3 percent in quarter of 2006	0	DATE
+1.0	expansion	be in	2007	0	DATE
+1.0	manufacturing sector	be estimate	have grow at pace of 7.3 percent	0	PERCENT
+1.0	MTI	mainly add of	slower growth	ORGANIZATION	0
+1.0	construction sector	grow	first growth	0	ORDINAL
+1.0	5.6 percent gain	be in	precede quarter	PERCENT	DATE
+1.0	Standard Chartered Bank economist Joseph Tan	expect	5.5 percent GDP growth in view of strength	0	PERCENT
+0.19525630385617196	manufacturing sector	produce	service	0	0
+1.0	record New Year	have	opening	O	DATE
+1.0	4.0-6 .0 percent	be in	2007	PERCENT	DATE
+1.0	strength	have	GDP growth	O	O
+1.0	level	be	have breach	0	0
+1.0	city-state	of	gdp	0	0
+1.0	manufacturing sector	be estimate	have grow at pace of 7.3 percent in last quarter	0	DATE
+1.0	MTI	add of	slower growth	ORGANIZATION	0
+1.0	New Year	have	trading day	DURATION	DATE
+1.0	Standard Chartered Bank economist Joseph Tan	expect	5.5 percent GDP growth	0	PERCENT
+1.0	New Year	have	address	O	DATE

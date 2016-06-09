@@ -1,0 +1,42 @@
+1.0	dark row	be with	neighbouring Belarus	0	LOCATION
+1.0	problem	be resolve through	discussion	0	0
+1.0	Deputy Foreign Minister Alexander Grushko	be	quote	PERSON	0
+1.0	problem	be	resolve	0	0
+1.0	row	have	wake	O	O
+1.0	meeting	be with	Angela Merkel	0	PERSON
+1.0	Russia	have	energy muscle	O	O
+1.0	Russia	visit	Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	aide	quote	he	0	0
+1.0	six	have	presidency	O	DURATION
+1.0	Japanese Prime Minister Shinzo Abe	say in	meeting with german Chancellor Angela Merkel	PERSON	PERSON
+1.0	EU partner	fully inform about	matter	ORGANIZATION	0
+1.0	EU	have express	alarm about its energy security	ORGANIZATION	0
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	Group	have	Saint Petersburg summit	O	O
+1.0	Russia	visit	japanese Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	EU	have	month leadership	O	ORGANIZATION
+1.0	problem	be resolve through	peaceful discussion	0	0
+1.0	oil	have	supply	O	O
+1.0	EU	have express alarm in	wake of row	ORGANIZATION	0
+1.0	Russia	visit prime minister shinzo abe on	Wednesday	LOCATION	DATE
+1.0	Japanese Prime Minister Shinzo Abe	say in	meeting	PERSON	0
+1.0	our	have	partners	O	O
+1.0	Germany	assume	year-long presidency of g8	LOCATION	DURATION
+1.0	Japanese Prime Minister Shinzo Abe	say in	meeting with Chancellor Angela Merkel	PERSON	PERSON
+1.0	European Union	be in	dark over cut to oil supplies during trade row with neighbouring Belarus	ORGANIZATION	LOCATION
+1.0	EU	have express alarm in	wake	ORGANIZATION	0
+1.0	suspension	be in	supply of russian oil to Europe	0	LOCATION
+1.0	problem	be	resolve quickly	0	0
+1.0	Germany	assume	presidency of g8	LOCATION	0
+1.0	output	have	chunk	O	O
+1.0	problem	be resolve quickly through	discussion	0	0
+1.0	problem	be resolve quickly through	peaceful discussion	0	0
+1.0	Germany	assume presidency on	January 1	LOCATION	DATE
+1.0	its	have	energy security	O	O
+1.0	Germany	assume	presidency	LOCATION	0
+1.0	Angela Merkel	be with	german	PERSON	0
+1.0	EU partner	inform about	matter	ORGANIZATION	0
+1.0	EU	have express	alarm	ORGANIZATION	0
+1.0	Eight	have	Group	O	NUMBER
+1.0	Germany	assume	year-long presidency	LOCATION	DURATION
+1.0	G8	have	presidency	O	O

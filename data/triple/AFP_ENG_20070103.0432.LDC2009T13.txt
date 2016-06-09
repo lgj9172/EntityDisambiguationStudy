@@ -1,0 +1,115 @@
+1.0	former New York City mayor Rudolph Giuliani	emerge as	leader in poll	PERSON	0
+1.0	Arizona Senator John McCain	have make	preliminary move	LOCATION	0
+1.0	leader	be in	poll	0	0
+1.0	governor Mitt Romney	join	grow field hope	PERSON	0
+1.0	he	be	only US state	0	LOCATION
+1.0	Republicans	have	field	O	MISC
+1.0	Mitt Romney	be governor of	Massachusetts	PERSON	LOCATION
+1.0	he	organize	Salt Lake City Winter Olympics	0	LOCATION
+1.0	democrat	have put with	popular front-runner	0	0
+1.0	former New York City mayor Rudolph Giuliani	emerge as	leader	PERSON	0
+1.0	Arizona Senator John McCain	run	former New York City mayor Rudolph Giuliani	LOCATION	PERSON
+1.0	outgoing governor Mitt Romney	take	he first step	PERSON	ORDINAL
+1.0	three democrat	have put with	front-runner	NUMBER	0
+1.0	democrat	have put by	comparison	0	0
+1.0	poll	put	Romney	0	PERSON
+1.0	three democrat	have put by	comparison	NUMBER	0
+1.0	Hillary Clinton and Illinois Senator Barrack Obama	have	hats	O	O
+0.7496824942614105	Hillary Clinton	throw	they hat	PERSON	0
+1.0	Outgoing Massachusetts governor Mitt Romney	would	would Mormon	PERSON	MISC
+1.0	three democrat	have put	Republican or Republican-leaning voters	NUMBER	0
+0.14059619431790493	he	be	only US state allow	0	LOCATION
+1.0	governor Mitt Romney	take	he first step	PERSON	ORDINAL
+1.0	practice	identify	Outgoing Massachusetts governor Mitt Romney	0	0
+1.0	Arizona Senator John McCain	have make	similar preliminary move	LOCATION	0
+1.0	most poll	put romney in	race for republican nomination	0	0
+1.0	outgoing governor Mitt Romney	join	grow field	PERSON	0
+1.0	Outgoing Massachusetts governor Mitt Romney	have	family	O	O
+0.14059619431790493	he	be	despite Massachusetts only US state allow	0	LOCATION
+1.0	Barrack Obama	be	Illinois	PERSON	LOCATION
+1.0	he	be	despite Massachusetts US state	0	LOCATION
+1.0	three democrat	have already put with	front-runner	NUMBER	0
+1.0	outgoing governor Mitt Romney	join	field hope	PERSON	0
+1.0	Outgoing Massachusetts governor Mitt Romney	would	would first Mormon	PERSON	ORDINAL
+1.0	voters	have	percent	PERCENT	O
+1.0	three democrat	have already put by	comparison	NUMBER	0
+1.0	he	also organize salt lake city winter olympics in	2002	0	DATE
+1.0	most poll	put	Romney	0	PERSON
+1.0	highest office	be in	we country	0	0
+1.0	party	have	candidate	0	0
+1.0	outgoing governor Mitt Romney	join	field of Republicans hope	PERSON	MISC
+1.0	governor Mitt Romney	join	field	PERSON	0
+0.14059619431790493	he	be	despite Massachusetts US state allow	0	LOCATION
+1.0	he	organize salt lake city winter olympics in	2002	0	DATE
+0.14059619431790493	he	be	US state allow	0	LOCATION
+1.0	he	make	he money	0	0
+1.0	outgoing governor Mitt Romney	join	grow field hope	PERSON	0
+1.0	Barrack Obama	be senator of	Illinois	PERSON	LOCATION
+1.0	outgoing governor Mitt Romney	join	grow field of Republicans	PERSON	MISC
+1.0	he	be	critic	0	0
+0.7496824942614105	Hillary Clinton	yet throw	Illinois Senator Barrack Obama	PERSON	PERSON
+1.0	outgoing governor Mitt Romney	join	field of Republicans	PERSON	MISC
+1.0	outgoing governor Mitt Romney	join	grow field of Republicans hope	PERSON	MISC
+1.0	investment firm	have	businessman chief executive	O	O
+1.0	Arizona Senator John McCain	run for	Republican Party nomination	LOCATION	ORGANIZATION
+1.0	he	be	outspoken	0	0
+1.0	Rudolph Giuliani	be mayor of	New York City	PERSON	LOCATION
+1.0	John McCain	be	Arizona	PERSON	LOCATION
+1.0	former New York City mayor Rudolph Giuliani	currently emerge as	leader in poll	PERSON	0
+1.0	Outgoing Massachusetts governor Mitt Romney	be	59	PERSON	NUMBER
+1.0	democrat	have put with	front-runner	0	0
+1.0	management consultancy firm	have	businessman chief executive	O	O
+1.0	he	be	outspoken critic	0	0
+1.0	state	have	governor	O	O
+1.0	John McCain	be senator of	Arizona	PERSON	LOCATION
+1.0	Outgoing Massachusetts governor Mitt Romney	serve as	president	PERSON	0
+1.0	governor Mitt Romney	join	field hope	PERSON	0
+1.0	democrat	have already put by	comparison	0	0
+1.0	democrat	have already put	Republican or Republican-leaning voters	0	0
+1.0	Outgoing Massachusetts governor Mitt Romney	have	step	O	O
+1.0	most poll	put romney in	race for nomination	0	0
+1.0	democrat	have already put with	front-runner	0	0
+1.0	our	have	country	O	O
+1.0	governor Mitt Romney	join	field of Republicans	PERSON	MISC
+1.0	most poll	put romney in	race	0	0
+1.0	Arizona Senator John McCain	have make	similar move	LOCATION	0
+1.0	whose term	end at_time	Thursday	0	DATE
+1.0	poll	put	Romney at fourth	0	PERSON
+1.0	whose	have	term	O	O
+1.0	most poll	put romney with	support	0	0
+1.0	poll	put romney in	race for nomination	0	0
+1.0	he	be	US state	0	LOCATION
+1.0	marriage	have	critic	O	O
+1.0	only US state	allow	practice	LOCATION	0
+1.0	Romney 59	would	would first Mormon	PERSON	ORDINAL
+0.7496824942614105	Hillary Clinton	throw	Illinois Senator Barrack Obama	PERSON	PERSON
+1.0	outgoing governor Mitt Romney	join	field	PERSON	0
+1.0	percent	have	support	O	PERCENT
+0.7496824942614105	Hillary Clinton	yet throw	they hat	PERSON	0
+1.0	outgoing governor Mitt Romney	take	he step	PERSON	0
+1.0	three democrat	have put with	popular front-runner	NUMBER	0
+1.0	most poll	put	Romney at fourth	0	PERSON
+1.0	Romney 59	would	would Mormon	PERSON	MISC
+1.0	Outgoing Massachusetts governor Mitt Romney	have	money	O	O
+1.0	poll	put romney in	race for republican nomination	0	0
+1.0	Romney	be at	fourth	PERSON	ORDINAL
+1.0	governor Mitt Romney	join	grow field of Republicans hope	PERSON	MISC
+1.0	he	also organize	Salt Lake City Winter Olympics	0	LOCATION
+1.0	governor Mitt Romney	join	field of Republicans hope	PERSON	MISC
+1.0	Romney 59	serve as	president	PERSON	0
+1.0	poll	put romney with	support	0	0
+1.0	governor Mitt Romney	join	grow field of Republicans	PERSON	MISC
+1.0	Arizona Senator John McCain	have make	move	LOCATION	0
+1.0	governor Mitt Romney	take	he step	PERSON	0
+1.0	Massachusetts	have	state	O	LOCATION
+1.0	former New York City mayor Rudolph Giuliani	currently emerge as	leader	PERSON	0
+1.0	poll	put romney in	race	0	0
+1.0	governor Mitt Romney	join	grow field	PERSON	0
+1.0	party	have	candidate	O	O
+1.0	three democrat	have already put with	popular front-runner	NUMBER	0
+1.0	he	be	despite Massachusetts only US state	0	LOCATION
+1.0	democrat	have already put with	popular front-runner	0	0
+1.0	US state	allow	practice	LOCATION	0
+1.0	three democrat	have already put	Republican or Republican-leaning voters	NUMBER	0
+1.0	Rudolph Giuliani	be	New York City	PERSON	LOCATION
+1.0	democrat	have put	Republican or Republican-leaning voters	0	0

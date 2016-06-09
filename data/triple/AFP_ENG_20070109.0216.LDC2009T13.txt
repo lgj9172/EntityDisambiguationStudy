@@ -1,0 +1,26 @@
+1.0	Blacks	win	World Cup	ORGANIZATION	MISC
+1.0	Blacks	win	World Cup for time	ORGANIZATION	MISC
+1.0	Blacks	win	World Cup for first time	ORGANIZATION	MISC
+1.0	South Africa	be in	August	LOCATION	DATE
+1.0	Greg Somerville	snap	tendon	LOCATION	0
+1.0	Blacks	win world cup since	tournament in 1987	ORGANIZATION	DATE
+1.0	inaugural tournament	be in	1987	0	DATE
+1.0	the 55-Test veteran	have	involvement	O	O
+1.0	the	have	Test	O	O
+1.0	cyst	have	discovery	O	O
+1.0	season	be	crucial	0	0
+1.0	Greg Somerville	play against	South Africa in August	LOCATION	DATE
+1.0	All Blacks	have	Tests	O	ORGANIZATION
+1.0	Blacks	win world cup since	inaugural tournament	ORGANIZATION	0
+1.0	year	have	Test	O	DATE
+1.0	Blacks doctor Deb Robinson	tell	Press	ORGANIZATION	ORGANIZATION
+1.0	Somerville	be	29-year-old	LOCATION	DURATION
+1.0	Blacks	win world cup since	inaugural tournament in 1987	ORGANIZATION	DATE
+1.0	the	have	World Cup match	O	O
+1.0	Greg Somerville	play for	All Blacks	LOCATION	0
+1.0	Deb Robinson	be	all Blacks	PERSON	ORGANIZATION
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	Greg Somerville	play against	South Africa	LOCATION	LOCATION
+1.0	Robbie Deans	be	Crusaders	PERSON	MISC
+1.0	Deb Robinson	be doctor of	all Blacks	PERSON	ORGANIZATION
+1.0	Blacks	win world cup since	tournament	ORGANIZATION	0

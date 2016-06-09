@@ -1,0 +1,74 @@
+1.0	incident	be in	Mogadishu	0	LOCATION
+1.0	they	be	station	0	0
+1.0	it	launch	air strike on suspect Al-Qaeda position	0	MISC
+1.0	Al	have	accused	O	ORGANIZATION
+1.0	they	be station at	palace know	0	0
+1.0	country	have	airport	O	O
+1.0	warn	pose by	Islamists	0	MISC
+1.0	it	launch	air strike	0	DURATION
+1.0	city	have	Arafat	PERSON	O
+1.0	governors	have	office	O	O
+1.0	ethiopian troops	be base at	country 's airport	0	0
+1.0	the gunmen	have	target	O	O
+1.0	hits	have	reports	O	O
+1.0	ethiopian troops	be base at	former cabinet official 's residence in southern Mogadishu	0	LOCATION
+1.0	Wednesday	to	attack	DATE	0
+1.0	the United States	take	step	0	0
+1.0	Somali and Ethiopian forces	have	leaders	O	O
+1.0	Somalia	have	government	O	LOCATION
+1.0	troops	be base at	country 's main airport	0	0
+1.0	warn	pose by	some	0	0
+1.0	they	be station at	presidential palace know	0	0
+1.0	patrol	be with	somali force	0	0
+1.0	city	fall to	government troops	0	0
+1.0	ethiopian troops	be base at	former cabinet official 's residence	0	0
+1.0	Muhamoud Addow	eyewitness to	Wednesday 's attack	PERSON	DATE
+1.0	Islamists	some of	Qaeda tie	MISC	ORGANIZATION
+1.0	Muhamoud Addow	tell	AFP	0	ORGANIZATION
+1.0	southern Mogadishu	have	parts	O	LOCATION
+1.0	ethiopian military vehicle	be in	somali capital	0	0
+1.0	they	be station at	palace know as Villa Somalia	0	MISC
+1.0	they	be also station at	palace know	0	0
+1.0	Qaeda ties	have	some	O	O
+1.0	Wednesday	have	attack	O	DATE
+1.0	attack	come at_time	day	DURATION	DURATION
+1.0	attack	come at_time	just day	DURATION	DURATION
+1.0	the United States	take step against	threat	0	0
+1.0	troops	be base at	former cabinet official 's residence in Mogadishu	0	LOCATION
+1.0	former cabinet official 's residence	be in	Mogadishu	0	LOCATION
+1.0	they	be station at	presidential palace know as Villa Somalia	0	MISC
+1.0	they	be	also station	0	0
+1.0	cabinet official	have	residence	O	O
+1.0	ethiopian troops	be	base	0	0
+1.0	city	in	Arafat	0	PERSON
+1.0	troops	be base at	former cabinet official 's residence	0	0
+1.0	they	be station at	presidential palace	0	0
+1.0	it	launch	air strike on Al-Qaeda position	0	MISC
+1.0	city	fall to	ethiopian government troops	0	0
+1.0	it	launch air strike in	Somalia	0	LOCATION
+1.0	troops	be base at	former cabinet official 's residence in southern Mogadishu	0	LOCATION
+1.0	it	launch air strike on	Tuesday	0	DURATION
+1.0	warn	pose by	some of Qaeda tie	0	ORGANIZATION
+1.0	country	's airport be	residence in southern Mogadishu	0	LOCATION
+1.0	they	be also station at	palace know as Villa Somalia	0	MISC
+1.0	main airport	residence 's	former cabinet official	0	0
+1.0	they	be station at	palace	0	0
+1.0	latest attack	come at_time	just day	DURATION	DURATION
+1.0	it	launch air strike on	Monday	0	DURATION
+1.0	they	be also station at	presidential palace know as Villa Somalia	0	MISC
+1.0	latest attack	come at_time	day	DURATION	DURATION
+1.0	warn	pose by	some Qaeda tie	0	ORGANIZATION
+1.0	they	be also station at	presidential palace know	0	0
+1.0	former cabinet official	have	residence in southern Mogadishu	0	LOCATION
+1.0	troops	be	base	0	0
+1.0	they	be also station at	presidential palace	0	0
+1.0	protest	have turn	violent	0	0
+1.0	Somalia	have	transitional government against Islamists	LOCATION	MISC
+1.0	troops	be base at	country 's airport	0	0
+1.0	ethiopian troops	be base at	former cabinet official 's residence in Mogadishu	0	LOCATION
+1.0	ethiopian troops	be base at	country 's main airport	0	0
+1.0	they	be also station at	palace	0	0
+1.0	warn	pose to	the United States	0	0
+1.0	it	launch air strike in	southern Somalia	0	LOCATION
+1.0	country	at	main airport	0	0
+1.0	country 's main airport	residence in	Mogadishu	0	LOCATION

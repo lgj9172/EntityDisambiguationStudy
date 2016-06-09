@@ -1,0 +1,36 @@
+1.0	parasite	be transmit during	intercourse	0	0
+1.0	Jane Carlton	be	Trichomonas Genome Project	PERSON	ORGANIZATION
+1.0	Jane Carlton	be director of	Trichomonas Genome Project	PERSON	ORGANIZATION
+1.0	the T. vaginalis genome sequence	have	features	O	O
+1.0	par	be with	human genome	0	0
+1.0	parasite	be transmit during	unprotected sexual intercourse	0	0
+1.0	study	begin in	2002	0	DATE
+1.0	parasite	be	usually transmit	0	0
+1.0	organism	have	biology	O	O
+1.0	Allergy	have	National Institute	ORGANIZATION	ORGANIZATION
+1.0	US journal Science	have	January issue	O	O
+1.0	Health	have	US National Institutes	ORGANIZATION	ORGANIZATION
+1.0	the scientists	have	team	O	O
+1.0	parasite	be usually transmit during	unprotected sexual intercourse	0	0
+1.0	genes	have	number	O	O
+1.0	The large number of genes	have	environment	O	O
+0.528054499680204	research	direct by	Institute	0	ORGANIZATION
+1.0	parasite	be	transmit	0	0
+1.0	parasite	have	genes	O	O
+1.0	parasite	be transmit during	sexual intercourse	0	0
+1.0	study	involve	66 scientist	0	NUMBER
+1.0	Trichomonas vaginalis	have	most	O	O
+1.0	US National Institutes	have	part	O	ORGANIZATION
+1.0	study	say at_time	Thursday	0	DATE
+1.0	a year	most of	they	DURATION	0
+1.0	parasite	be usually transmit during	intercourse	0	0
+1.0	year	have	cases	O	DURATION
+1.0	parasite	be usually transmit during	unprotected intercourse	0	0
+1.0	parasite	be usually transmit during	sexual intercourse	0	0
+1.0	trichomoniasis cases	have	number	O	O
+1.0	research	trace	genome sequence	0	0
+0.528054499680204	research	direct by	Institute research	0	ORGANIZATION
+1.0	trichomoniasis case	be in	world	0	0
+0.528054499680204	research	direct by	Institute genomic research	0	ORGANIZATION
+1.0	parasite	be transmit during	unprotected intercourse	0	0
+1.0	Trichomonas vaginalis	have	genome sequence	O	O

@@ -1,0 +1,27 @@
+1.0	court	be in	Linyi city	0	LOCATION
+1.0	authority ' action	enforce	China 's family planning	0	LOCATION
+1.0	years	have	jail term	O	DURATION
+1.0	Chen Guangcheng	be sentence in	jail	PERSON	0
+1.0	official Xinhua news agency	report at_time	Friday	ORGANIZATION	DATE
+1.0	Chen Guangcheng	be sentence to	four year	PERSON	DURATION
+1.0	China	have	controversial family planning	LOCATION	0
+1.0	Chen	have	appeal	O	PERSON
+1.0	Chen Guangcheng	be sentence in	jail for property	PERSON	0
+1.0	policy	have	government abuses	O	O
+1.0	authority ' action	enforce	China 's controversial family planning	0	LOCATION
+1.0	China	of	one-child policy	LOCATION	0
+1.0	Chen	have	appeal	PERSON	0
+1.0	Chen Guangcheng	have	lawyers	O	O
+1.0	authorities	have	pregnancies	O	O
+1.0	Xinhua news agency	report at_time	Friday	ORGANIZATION	DATE
+1.0	Chen Guangcheng	disrupt	traffic	PERSON	0
+1.0	China	have	policy	O	LOCATION
+1.0	local authority ' action	enforce	China 's controversial family planning	0	LOCATION
+1.0	Chen Guangcheng	be	sentence	PERSON	0
+1.0	women	have	thousands	O	O
+1.0	Chen Guangcheng	be	sentence to four year in jail	PERSON	DURATION
+1.0	China	have	family planning	O	LOCATION
+1.0	Chen Guangcheng	be	sentence to four year in jail for property	PERSON	DURATION
+1.0	A high-profile blind activist who exposed government abuses of China 's one-child policy	have	appeal	O	O
+1.0	authorities	have	actions	O	O
+1.0	local authority ' action	enforce	China 's family planning	0	LOCATION

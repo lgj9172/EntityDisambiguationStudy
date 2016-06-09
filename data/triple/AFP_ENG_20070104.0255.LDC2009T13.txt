@@ -1,0 +1,27 @@
+1.0	he	win there	three league championship medal in he 12 season	0	NUMBER
+1.0	he	win	three more league championship medal in he 12 season	0	NUMBER
+1.0	Italy	be between	1960 and 1970	LOCATION	DATE
+1.0	Salvadore	win	36 cap	PERSON	NUMBER
+1.0	he	be	real	0	0
+1.0	class	have	champion	O	O
+1.0	Italy defender Sandro Salvadore	have	seasons	O	O
+1.0	squad	have	member	O	O
+1.0	he	be sell in	1962	0	DATE
+1.0	his	have	Serie A debut	O	O
+1.0	he	win there	three more league championship medal in he 12 season	0	NUMBER
+1.0	he	be sell to	Juventus	0	ORGANIZATION
+1.0	they	win	two league title	0	NUMBER
+1.0	Salvadore	make	he Serie debut	PERSON	0
+1.0	he	be	sell	0	0
+1.0	he	be	in 1962 sell to Juventus	0	DATE
+1.0	he	be	real leader	0	0
+1.0	Salvadore	be	member	PERSON	0
+1.0	Sandro Salvadore	be defender of	Italy	PERSON	LOCATION
+1.0	Turin club	say on	Thursday	LOCATION	DATE
+1.0	he	be	leader	0	0
+1.0	he	win	three league championship medal in he 12 season	0	NUMBER
+1.0	67	have	age	O	NUMBER
+1.0	three more league championship medal	be in	he 12 season	NUMBER	NUMBER
+1.0	Sandro Salvadore	be	Italy	PERSON	LOCATION
+1.0	Giovanni Cobolli Gigli	be	Juventus	PERSON	ORGANIZATION
+1.0	Giovanni Cobolli Gigli	be president of	Juventus	PERSON	ORGANIZATION

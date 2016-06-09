@@ -1,0 +1,9 @@
+1.0	all time	be	eastern	0	0
+1.0	time	be	eastern	0	0
+1.0	BOSTON	be at	PORTLAND	ORGANIZATION	LOCATION
+1.0	Sunday	have	games	O	DATE
+1.0	PORTLAND	at boston be	10:00 PM	LOCATION	TIME
+1.0	National Basketball Association	result after	Sunday 's game	ORGANIZATION	DATE
+1.0	MINNESOTA	be at	CHARLOTTE	ORGANIZATION	LOCATION
+1.0	CHARLOTTE	at minnesota be	7:00 PM	LOCATION	TIME
+1.0	Sunday	after	game	DATE	0

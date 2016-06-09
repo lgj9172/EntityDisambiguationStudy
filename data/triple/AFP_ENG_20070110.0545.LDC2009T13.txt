@@ -1,0 +1,74 @@
+1.0	legal expert	call at_time	Wednesday	0	DATE
+1.0	expert	stop	execution of seven man accuse	0	NUMBER
+1.0	mohareb	have	charges	O	O
+1.0	Iran	stop	imminent execution of seven man belong to Ahwazi Arab minority	LOCATION	MISC
+1.0	Iran	stop	execution of seven man	LOCATION	NUMBER
+1.0	training	be in	Iraq	0	LOCATION
+1.0	authorities in Khuzestan province	be execute within	few day	DURATION	DURATION
+1.0	conviction	be reportedly base on	confession extort	0	0
+1.0	death sentence	be trigger by	charge of mohareb	0	0
+1.0	expert	stop	execution of seven man	0	NUMBER
+1.0	Iran	stop	execution of seven man belong to Ahwazi Arab minority	LOCATION	MISC
+0.9983013851498673	translate	be as	as war with God	0	0
+1.0	seven	receive training from	Britain	NUMBER	LOCATION
+1.0	expert	urge	Iran	0	LOCATION
+1.0	Iran	stop	execution of seven man belong	LOCATION	NUMBER
+1.0	men	have	families	O	O
+1.0	seven	be	arrest	NUMBER	0
+1.0	authorities in Khuzestan province	be execute within	day	DURATION	0
+1.0	authorities in Khuzestan province	be execute within	next day	DURATION	DURATION
+1.0	authority	inform	family	0	0
+1.0	death sentence	be trigger accord to	media report	0	0
+1.0	process requirements	have	mockery	O	O
+1.0	legal expert	stop	execution	0	0
+1.0	death sentence	be trigger accord to	iranian media report	0	0
+1.0	crimes	have	accused	O	O
+1.0	legal expert	stop	execution of seven man	0	NUMBER
+1.0	Iran	stop	imminent execution of seven man	LOCATION	NUMBER
+0.597427055796794	hour	access to	prosecution case	0	0
+1.0	government	have	critics	O	O
+1.0	this	have	conviction	O	O
+1.0	authority	inform family on	Monday	0	DATE
+1.0	conviction	be base on	confession extort	0	0
+1.0	legal expert	urge	Iran	0	LOCATION
+1.0	as war	be with	God	0	0
+1.0	seven	have	names	O	NUMBER
+1.0	independent expert	urge	Iran	0	LOCATION
+1.0	conviction	be base on	confession	0	0
+1.0	independent legal expert	urge	Iran	0	LOCATION
+1.0	country	overthrow	government	0	0
+1.0	Abdolamir Farjolah Kaab	be	Alireza Asakereh	PERSON	PERSON
+1.0	Iran	stop	imminent execution of seven man belong	LOCATION	NUMBER
+1.0	seven	receive	training	NUMBER	0
+1.0	Iran	stop	imminent execution	LOCATION	0
+1.0	authorities in Khuzestan province	be execute within	next few day	DURATION	DURATION
+1.0	expert	call on	Iran	0	LOCATION
+1.0	Majad Albughbish	be	Abdolreza Sanawati	PERSON	PERSON
+1.0	expert	call at_time	Wednesday	0	DATE
+1.0	conviction	be reportedly base on	confession	0	0
+1.0	expert	stop	execution	0	0
+1.0	Iran	stop	execution	LOCATION	0
+1.0	the men 's lawyers	have	trial	O	O
+1.0	legal expert	stop	execution of seven man accuse	0	NUMBER
+1.0	conviction	be	base	0	0
+1.0	Ghasem Salami	be	Mohammad Lazem Kaabpour	ORGANIZATION	PERSON
+1.0	men	have	execution	O	O
+1.0	trial	have	start	O	O
+1.0	men	have	lawyers	O	O
+1.0	authority	inform	family of seven man	0	NUMBER
+1.0	conviction	be	reportedly base	0	0
+1.0	seven	receive	training in Iraq	NUMBER	LOCATION
+1.0	death sentence	be trigger by	charge	0	0
+1.0	legal expert	call on	Iran	0	LOCATION
+1.0	seven	receive training from	the United States	NUMBER	LOCATION
+1.0	name	be report as	Ghasem Salami	0	ORGANIZATION
+1.0	seven	be arrest in	June 2006	NUMBER	DATE
+1.0	country	sabotage	oil installation	0	0
+1.0	name	be	report	0	0
+1.0	death sentence	be	trigger	0	0
+0.9983013851498673	translate	be as	as war	0	0
+1.0	authority	be in	Khuzestan province	0	LOCATION
+1.0	training	return to	Iran	0	LOCATION
+1.0	authority	inform	family of remain seven man	0	NUMBER
+1.0	man	have	lawyer	0	0
+1.0	espionage	have	accused	O	O

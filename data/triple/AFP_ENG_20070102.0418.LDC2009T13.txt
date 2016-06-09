@@ -1,0 +1,57 @@
+1.0	whose Secretary General Ban	start	work	PERSON	0
+1.0	abuse	have	claims	O	O
+1.0	initial claim	emerge within	month of UN 's arrival	0	ORGANIZATION
+1.0	10,000 personnel	be in	area	NUMBER	0
+1.0	UN	of	arrival	ORGANIZATION	0
+1.0	report	be compile on	issue in 2005	0	DATE
+1.0	UN	have	arrival	O	ORGANIZATION
+1.0	internal report	be compile on	issue in 2005	0	DATE
+1.0	James Ellery	have refute claim accord to	interview last May cite	PERSON	DATE
+1.0	James Ellery	have refute claim accord to	interview May cite	PERSON	DATE
+1.0	James Ellery	have refute claim accord to	interview May	PERSON	DATE
+1.0	claims	have	None	O	O
+1.0	arrival	have	months	DURATION	O
+1.0	whose new Secretary General Ban	start work at_time	Tuesday	PERSON	DATE
+1.0	percent	be	illiterate	PERCENT	0
+1.0	claim	emerge within	month	0	0
+1.0	report	be reportedly compile on	issue in 2005	0	DATE
+1.0	peacekeeper	be in	south of Sudan	0	LOCATION
+1.0	percent	be illiterate over	90	PERCENT	PERCENT
+1.0	James Ellery	have refute claim accord to	interview May cite by Telegraph	PERSON	DATE
+1.0	child	be in	vehicle own by organisation	0	0
+1.0	children	have	hundreds	O	O
+1.0	James Ellery	co-ordinator for	UN mission in Sudan	PERSON	ORGANIZATION
+1.0	internal report	be compile on	issue	0	0
+1.0	report	be compile on	issue	0	0
+1.0	claim	emerge within	month of UN 's arrival	0	ORGANIZATION
+1.0	people	have	percent	PERCENT	O
+1.0	initial claim	emerge within	month	0	0
+1.0	report	be	reportedly compile	0	0
+1.0	percent	here be illiterate over	90	PERCENT	PERCENT
+1.0	James Ellery	have refute	claim	PERSON	0
+1.0	James Ellery	have refute claim accord to	interview last May cite by Telegraph	PERSON	DATE
+1.0	James Ellery	have refute claim accord to	interview last May	PERSON	DATE
+1.0	internal report	be	compile	0	0
+1.0	whose new Secretary General Ban	start	work	PERSON	0
+1.0	issue	be in	2005	0	DATE
+1.0	James Ellery	have refute claim accord to	interview	PERSON	0
+1.0	James Ellery	have refute claim accord to	interview cite	PERSON	0
+1.0	Sudan	have	Darfur region	O	LOCATION
+1.0	he	be	quote	0	0
+1.0	UN mission	be in	Sudan	ORGANIZATION	LOCATION
+1.0	internal report	be reportedly compile on	issue	0	0
+1.0	whose Secretary General Ban	start work at_time	Tuesday	PERSON	DATE
+1.0	UN workers	have	footage	O	O
+1.0	misunderstandings	have	lots	O	O
+1.0	Sudan	have	south	O	LOCATION
+1.0	report	be reportedly compile on	issue	0	0
+1.0	report	be	compile	0	0
+1.0	internal report	be	reportedly compile	0	0
+1.0	sex	be with	three young girl	0	NUMBER
+1.0	whose	have	Secretary General Ban	PERSON	O
+1.0	percent	be	here illiterate	PERCENT	0
+1.0	UN	have	role	O	ORGANIZATION
+1.0	James Ellery	have refute claim accord to	interview cite by Telegraph	PERSON	0
+1.0	Daily Telegraph	report at_time	Wednesday	ORGANIZATION	DATE
+1.0	internal report	be reportedly compile on	issue in 2005	0	DATE
+1.0	none	can	can substantiate	0	0

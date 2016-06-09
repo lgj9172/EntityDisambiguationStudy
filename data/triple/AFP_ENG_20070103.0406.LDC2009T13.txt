@@ -1,0 +1,97 @@
+1.0	11-nation cartel	say in	its December market report issue before Christmas	0	DATE
+1.0	cartel	say in	its December market report issue before Christmas	0	DATE
+1.0	high	owe to	unrest	0	0
+1.0	New York 's contract	close at	its level	LOCATION	0
+1.0	New York 's main contract	close at	its lowest level since mid-November	LOCATION	DATE
+1.0	Organization	have twice decide in	response to market slide	ORGANIZATION	0
+1.0	Organization	have decide by	total	ORGANIZATION	0
+1.0	New York 's main contract	crude for	February delivery	LOCATION	DATE
+1.0	New York 's main contract	close at	also its level since mid-November	LOCATION	DATE
+1.0	Organization	have decide in	recent week	ORGANIZATION	DURATION
+1.0	its	have	output quota	O	O
+1.0	future	be in	London	0	LOCATION
+1.0	Organization	have twice decide by	total of 1.7 million barrel	ORGANIZATION	NUMBER
+1.0	New York 's contract	close at	its lowest level since mid-November	LOCATION	DATE
+1.0	dollars	have	price	O	MONEY
+1.0	58.32 dollar	level since	mid-November	MONEY	DATE
+1.0	response to the market slide	have	December market report	O	O
+1.0	weather	remain	catalyst	0	0
+1.0	milder weather	be in	US	0	LOCATION
+1.0	cartel	say in	its December market report	0	DATE
+1.0	oil future	have end	2006 about 1.5 percent	0	PERCENT
+1.0	price	record	high	0	0
+1.0	New York 's main contract	close at	also its lowest level	LOCATION	0
+1.0	trader	overlook supply risk in	Iran	0	LOCATION
+1.0	they	maintain	price	0	0
+1.0	Organization	have twice decide by	total	ORGANIZATION	0
+0.8374623263990905	geopolitical concern	milder weather in	US	0	LOCATION
+1.0	New York 's contract	close at	its level since mid-November	LOCATION	DATE
+1.0	Organization	have twice decide in	recent week	ORGANIZATION	DURATION
+1.0	milder weather	counter	geopolitical concern	0	0
+1.0	oil prices	have	added	O	O
+1.0	weather	counter	geopolitical concern	0	0
+1.0	Chicago	have	weather	O	LOCATION
+1.0	Bruce Evers	be analyst of	Investec	PERSON	ORGANIZATION
+1.0	New York 's main contract	close at	also its level	LOCATION	0
+1.0	Organization	cut	its output quota	ORGANIZATION	0
+1.0	high	owe in	Middle East	0	LOCATION
+0.8374623263990905	geopolitical concern	weather in	US	0	LOCATION
+1.0	oil future	have end lower	2006 about 1.5 percent	0	PERCENT
+1.0	New York 's contract	plummet	2.73 dollar	LOCATION	MONEY
+1.0	Bruce Evers	be	Investec	PERSON	ORGANIZATION
+1.0	warm winter weather	be in	northern hemisphere	DATE	0
+1.0	Organization	have decide in	response to market slide	ORGANIZATION	0
+1.0	11-nation cartel	say in	its December market report issue	0	DATE
+1.0	New York 's contract	close at	also its level since mid-November	LOCATION	DATE
+1.0	New York 's main contract	plummet	2.73 dollar	LOCATION	MONEY
+1.0	New York 's main contract	close at	its level	LOCATION	0
+1.0	normal due weather	be in	country 's northeast	DATE	DATE
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	Michael Davies	be	Sucden	PERSON	ORGANIZATION
+1.0	cartel	say in	its December market report issue	0	DATE
+1.0	price	record high in	July	0	DATE
+1.0	year	have	beginning	DATE	DATE
+1.0	weather	remain	main catalyst	0	0
+1.0	trader	overlook	supply risk	0	0
+1.0	Organization	have decide in	week	ORGANIZATION	0
+1.0	barrels	have	total	O	O
+1.0	OPEC	probably have	decide	ORGANIZATION	0
+1.0	Brent North Sea crude	settle at	57.96 dollar	LOCATION	MONEY
+1.0	Michael Davies	be analyst of	Sucden	PERSON	ORGANIZATION
+1.0	country	have	northeast	O	O
+1.0	Organization	have decide by	total of 1.7 million barrel per day	ORGANIZATION	DURATION
+1.0	New York 's contract	close at	also its level	LOCATION	0
+1.0	New York 's main contract	close at	its level since mid-November	LOCATION	DATE
+1.0	January	have	week	DATE	DATE
+1.0	oil future	be in	New York	0	LOCATION
+1.0	Organization	have decide in	response	ORGANIZATION	0
+1.0	New York 's main contract	close at	its lowest level	LOCATION	0
+1.0	mild temperature	be in	United States	0	LOCATION
+1.0	he	add of	oil price	0	0
+1.0	New York 's contract	close at	also its lowest level since mid-November	LOCATION	DATE
+1.0	OPEC	have	decide	ORGANIZATION	0
+1.0	11-nation cartel	say in	its December market report	0	DATE
+1.0	Sucden analyst Michael Davies	add in	London	ORGANIZATION	LOCATION
+1.0	New York	have	contract	O	LOCATION
+1.0	country	in	northeast	0	DATE
+1.0	Organization	have twice decide in	response	ORGANIZATION	0
+1.0	58.32 dollar	at level be	a barrel	MONEY	0
+1.0	New York	have	main contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	New York 's main contract	close at	also its lowest level since mid-November	LOCATION	DATE
+1.0	BMO Capital Markets	have	Bart Melek	PERSON	ORGANIZATION
+1.0	New York 's contract	close at	its lowest level	LOCATION	0
+1.0	Brent North Sea crude	tumble	2.48 dollar	LOCATION	MONEY
+1.0	they	maintain	price of 60 dollar	0	MONEY
+1.0	Organization	have twice decide by	total of 1.7 million barrel per day	ORGANIZATION	DURATION
+1.0	New York 's main contract	close at	58.32 dollar	LOCATION	MONEY
+1.0	Organization	have twice decide in	week	ORGANIZATION	0
+1.0	New York 's contract	close at	58.32 dollar	LOCATION	MONEY
+1.0	price	record high above	78 dollar	0	MONEY
+1.0	high	owe in	oil-rich Middle East	0	LOCATION
+1.0	a barrel	have	point	O	O
+1.0	Organization	have decide by	total of 1.7 million barrel	ORGANIZATION	NUMBER
+1.0	US energy inventories	have	levels	O	O
+1.0	a barrel	have	level	O	O
+1.0	New York 's contract	close at	also its lowest level	LOCATION	0
+1.0	Petroleum Exporting Countries	have	Organization	ORGANIZATION	ORGANIZATION

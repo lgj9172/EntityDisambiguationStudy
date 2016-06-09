@@ -1,0 +1,55 @@
+1.0	former madird winger	only quit	Spain	0	LOCATION
+1.0	former madird winger	only quit spain at	end of season	0	0
+1.0	former real madird winger	quit	Spain	0	LOCATION
+1.0	32-year-old	join	Rio de	DURATION	LOCATION
+1.0	Real Sociedad	be struggle in	place of spanish division	0	0
+1.0	32-year-old	leave zaragoza in	May	DURATION	DATE
+1.0	division	have	place	O	O
+1.0	Real Sociedad	be struggle in	place of division	0	0
+1.0	Real Sociedad	be struggle in	place of 20-team division	0	0
+1.0	Brazilian Savio	hold	passport	PERSON	0
+1.0	32-year-old	leave	Zaragoza	DURATION	ORGANIZATION
+1.0	former real madird winger	quit spain at	end of last season	0	0
+1.0	Flamengo	be	Rio de Janeiro	ORGANIZATION	LOCATION
+1.0	former real madird winger	return to	Brazil	0	LOCATION
+1.0	former madird winger	return to	Brazil	0	LOCATION
+1.0	Real Sociedad	be struggle in	19th place of spanish first division	0	ORDINAL
+1.0	Real Sociedad	be struggle in	place of 20-team first division	0	ORDINAL
+1.0	former real madird winger	quit spain at	end	0	0
+1.0	Real Sociedad	be struggle in	19th place of 20-team first division	0	ORDINAL
+1.0	Real Sociedad	be struggle in	19th place of 20-team spanish first division	0	ORDINAL
+1.0	32-year-old	leave	real Zaragoza	DURATION	ORGANIZATION
+1.0	Real Sociedad	be struggle in	place of spanish first division	0	ORDINAL
+1.0	former real madird winger	only quit	Spain	0	LOCATION
+1.0	former madird winger	only quit spain at	end	0	0
+1.0	Brazilian Savio	have play at_time	former Brazil	PERSON	LOCATION
+1.0	former real madird winger	quit spain at	end of season	0	0
+1.0	Real Sociedad	be struggle in	19th place of 20-team division	0	ORDINAL
+1.0	Real Sociedad	be struggle in	19th place of spanish division	0	ORDINAL
+1.0	club	say at_time	Friday	0	DATE
+1.0	former real madird winger	only quit spain at	end of last season	0	0
+1.0	Flamengo	be side of	Rio de Janeiro	ORGANIZATION	LOCATION
+1.0	Real Sociedad	be struggle in	place	0	0
+1.0	Real Sociedad	be struggle in	place of 20-team spanish first division	0	ORDINAL
+1.0	Brazilian Savio	have also play at_time	former Brazil	PERSON	LOCATION
+1.0	Savio	be	brazilian	PERSON	0
+1.0	former madird winger	quit spain at	end	0	0
+1.0	Brazilian Savio	have also play for	Bordeaux	PERSON	LOCATION
+1.0	Real Sociedad	be struggle in	19th place of 20-team spanish division	0	ORDINAL
+1.0	former madird winger	quit spain at	end of season	0	0
+1.0	Real Sociedad	be struggle in	19th place of first division	0	ORDINAL
+1.0	Real Sociedad	be struggle in	place of 20-team spanish division	0	0
+1.0	season	have	end	O	O
+1.0	Brazilian Savio	have play in	France	PERSON	LOCATION
+1.0	former real madird winger	only quit spain at	end	0	0
+1.0	Real Sociedad	be struggle in	19th place	0	ORDINAL
+1.0	former madird winger	quit spain at	end of last season	0	0
+1.0	Real Sociedad	be struggle in	19th place of division	0	ORDINAL
+1.0	Real Sociedad	be struggle in	place of first division	0	ORDINAL
+1.0	Brazilian Savio	hold	french passport	PERSON	0
+1.0	former madird winger	quit	Spain	0	LOCATION
+1.0	Brazilian Savio	have also play in	France	PERSON	LOCATION
+1.0	32-year-old	join	Rio	DURATION	LOCATION
+1.0	former madird winger	only quit spain at	end of last season	0	0
+1.0	former real madird winger	only quit spain at	end of season	0	0
+1.0	Brazilian Savio	have play for	Bordeaux	PERSON	LOCATION

@@ -1,0 +1,91 @@
+0.06141471494456796	they	call	execution	0	0
+1.0	100 people	be kill in	sectarian violence	NUMBER	DURATION
+1.0	regime	have	replacement	O	O
+1.0	revenge	have	instance	O	O
+1.0	people	be	day kill in sectarian violence	0	DURATION
+1.0	government	have	hands	O	O
+1.0	powers	have	policies	O	O
+1.0	corridor	urge	Prime Minister Nuri al	0	PERSON
+1.0	replacement	have spark	concern among Gulf state over Iran 's influence	0	LOCATION
+1.0	Saddam Hussein	have	opponents	O	O
+1.0	newspaper	be in	sunni-ruled Gulf state of Saudi Arabia	0	LOCATION
+0.0037717672117225393	they	call at	hand	0	0
+1.0	Saddam	have	regime	O	PERSON
+1.0	they influence	play	Iraq card in they powerplay	0	LOCATION
+1.0	replacement	have spark	mount concern among sunni-ruled Gulf state	0	LOCATION
+1.0	people	be	day kill in violence rage	0	DURATION
+1.0	Sunni-ruled	have	intentions	O	O
+1.0	power	have	corridors	O	O
+1.0	Al-Watan	be	saudi	PERSON	0
+1.0	Al-Watan	be	daily	PERSON	SET
+1.0	100 people	be	day kill in violence rage	NUMBER	DURATION
+1.0	replacement	have spark	concern among sunni-ruled Gulf state over Iran 's influence	0	LOCATION
+0.06141471494456796	they	call	sectarian execution of Saddam Hussein	0	PERSON
+1.0	replacement	have spark	mount concern among Gulf state over Iran 's mount influence	0	LOCATION
+0.06141471494456796	they	call	execution of Saddam Hussein	0	PERSON
+1.0	they influence	play	Iraq card in they strategic powerplay	0	LOCATION
+1.0	chaos	be in	the new Iraq	0	LOCATION
+1.0	Iran	have	influence	O	LOCATION
+1.0	Iraq card	be in	they strategic powerplay with United States	LOCATION	LOCATION
+1.0	100 people	be	day kill in violence	NUMBER	DURATION
+1.0	Saddam	have	hanging	O	PERSON
+1.0	replacement	have spark	concern among sunni-ruled Gulf state	0	LOCATION
+1.0	the new Iraq	have	borders	O	LOCATION
+1.0	Al-Sharq daily	also see	the `` sectarian '' execution of Saddam Hussein	SET	PERSON
+1.0	100 people	be kill at_time	day	NUMBER	DURATION
+1.0	replacement	have spark	mount concern among sunni-ruled Gulf state over Iran 's mount influence	0	LOCATION
+1.0	Iran	over	mount influence	LOCATION	0
+1.0	Saddam	of	regime with shiite-dominated national unity administration	PERSON	0
+1.0	people	be kill in	sectarian violence rage	0	DURATION
+1.0	they strategic powerplay	be with	United States	0	LOCATION
+1.0	they influence	play	Iraq card	0	LOCATION
+1.0	Saddam Hussein	have	execution	O	PERSON
+0.41644174737879713	confessional violence	support beyond	Iraq border	PERSON	LOCATION
+1.0	100 people	be kill in	violence	NUMBER	0
+1.0	they influence	play	Iraq card in they strategic powerplay with United States	0	LOCATION
+1.0	replacement	have spark	mount concern among sunni-ruled Gulf state over Iran 's influence	0	LOCATION
+0.06141471494456796	they	call	sectarian execution	0	0
+1.0	Iraq	of	shiite-led government	LOCATION	0
+1.0	replacement	have spark	mount concern among Gulf state	0	LOCATION
+1.0	replacement	have spark	concern among Gulf state over Iran 's mount influence	0	LOCATION
+1.0	Saddam	have	hanging	PERSON	0
+1.0	armed men	have	powerplay	O	O
+1.0	revenge	have	act	O	O
+1.0	they influence	play	Iraq card in they powerplay with United States	0	LOCATION
+1.0	replacement	have spark	mount concern among Gulf state over Iran 's influence	0	LOCATION
+1.0	people	be	day kill in violence	0	DURATION
+1.0	Saddam	have	execution	O	PERSON
+0.9383357508232163	they	execution of	Saddam Hussein	0	PERSON
+0.0037717672117225393	they	call at	hand of Iraq 's government	0	LOCATION
+1.0	100 people	be kill in	sectarian violence rage	NUMBER	DURATION
+1.0	replacement	have spark	concern	0	0
+1.0	neighbouring Qatar	have	Gulf states	O	LOCATION
+0.9383357508232163	they	sectarian execution of	Saddam Hussein	0	PERSON
+1.0	people	be	day kill in sectarian violence rage	0	DURATION
+1.0	people	be	kill	0	0
+1.0	100 people	be	day kill in sectarian violence	NUMBER	DURATION
+1.0	armed men	have	influence	O	O
+1.0	people	be kill in	sectarian violence	0	DURATION
+1.0	people	be kill at_time	day	0	DURATION
+0.06141471494456796	they	call execution at	hand of Iraq 's government	0	LOCATION
+1.0	100 people	be	kill	NUMBER	0
+1.0	100 people	be kill in	violence rage	NUMBER	DURATION
+1.0	interior minister	under	command	0	0
+1.0	Saddam 's regime	be with	shiite-dominated national unity administration	PERSON	0
+1.0	paper	voice	concern	0	0
+1.0	replacement	have spark	mount concern	0	0
+0.06141471494456796	they	call execution at	hand	0	0
+1.0	replacement	have spark	concern among Gulf state	0	LOCATION
+1.0	replacement	have spark	concern among sunni-ruled Gulf state over Iran 's mount influence	0	LOCATION
+0.06141471494456796	they	call execution at	hand of Iraq 's shiite-led government	0	LOCATION
+1.0	men	have	role	O	O
+1.0	Al-Sharq daily	see	the `` sectarian '' execution of Saddam Hussein	SET	PERSON
+1.0	100 people	be	day kill in sectarian violence rage	NUMBER	DURATION
+1.0	Saudi Arabia	have	Gulf states	O	LOCATION
+1.0	Saddam	have	execution	PERSON	0
+1.0	minister	have	command	O	O
+0.0037717672117225393	they	call at	hand of Iraq 's shiite-led government	0	LOCATION
+1.0	people	be kill in	violence rage	0	DURATION
+1.0	people	be kill in	violence	0	0
+0.41644174737879713	violence	support beyond	Iraq border	0	LOCATION
+1.0	Iraq	have	government	O	LOCATION

@@ -1,0 +1,52 @@
+1.0	smsp	be among	world 's nickel ore exporter with key client	0	0
+1.0	China 's Jinchuan	be	China 's largest nickel producer with production capacity of 60,000 tonne	LOCATION	LOCATION
+1.0	head	say at_time	Friday	0	DATE
+1.0	expansion	have	most	O	O
+1.0	World nickel production	usually come from	sulphide ore	0	0
+1.0	China 's Jinchuan	be	China 's largest nickel producer with annual production capacity of 60,000 tonne	LOCATION	SET
+1.0	smsp	be among	world 's nickel ore exporter with client	0	0
+1.0	smsp	be among	world 's biggest nickel ore exporter with client in Australia	0	LOCATION
+1.0	World nickel production	come from	sulphide ore	0	0
+1.0	New Caledonia	kilometre of	Australia	LOCATION	LOCATION
+1.0	tonnes	have	production capacity	O	O
+1.0	China	have	nickel producer	O	LOCATION
+1.0	key client	be in	Australia	0	LOCATION
+1.0	capacity	be in	the next decade	0	DATE
+1.0	smsp	be among	world 's biggest nickel ore exporter with key client	0	0
+1.0	China 's Jinchuan	be	China 's nickel producer with production capacity of 60,000 tonne	LOCATION	LOCATION
+1.0	ore	have	tonnes	O	O
+1.0	metal	have	less	O	O
+1.0	expert	be in	sector	0	0
+1.0	Australia	of kilometre be	1,250 mile	LOCATION	NUMBER
+1.0	China 's largest nickel producer	be with	annual production capacity of 60,000 tonne	LOCATION	SET
+1.0	China 's Jinchuan	be	China 's largest nickel producer with production capacity	LOCATION	LOCATION
+1.0	world	among	biggest nickel ore exporter with key client in Australia	0	LOCATION
+1.0	expansion	be in	capacity	0	0
+1.0	China 's Jinchuan	be	China 's nickel producer with annual production capacity	LOCATION	SET
+1.0	China	with	Jinchuan	LOCATION	LOCATION
+1.0	world	of	nickel reserve	0	0
+1.0	China 's Jinchuan	be	China 's nickel producer with production capacity	LOCATION	LOCATION
+1.0	Andre Dang	tell	AFP	PERSON	ORGANIZATION
+1.0	company	have	head	O	O
+1.0	world	have	nickel reserves	O	O
+1.0	Australia	have	kilometres	O	LOCATION
+1.0	China	with	Ningbo	LOCATION	LOCATION
+1.0	world 's biggest nickel ore exporter	be with	key client in Australia	0	LOCATION
+1.0	China	have	Ningbo	LOCATION	LOCATION
+1.0	smsp	be among	world 's biggest nickel ore exporter with key client in Australia	0	LOCATION
+1.0	smsp	be among	world 's nickel ore exporter	0	0
+1.0	China	have	largest nickel producer with annual production capacity of 60,000 tonne	LOCATION	SET
+1.0	China	have	Jinchuan	LOCATION	LOCATION
+1.0	smsp	be among	world 's nickel ore exporter with client in Australia	0	LOCATION
+1.0	nickel reserves	have	percent	PERCENT	O
+1.0	China 's Jinchuan	be	China 's largest nickel producer	LOCATION	LOCATION
+1.0	smsp	be among	world 's biggest nickel ore exporter with client	0	0
+1.0	talk	be with	Jinchuan	0	LOCATION
+1.0	China 's Jinchuan	be	China 's nickel producer with annual production capacity of 60,000 tonne	LOCATION	SET
+1.0	China 's Jinchuan	be	China 's nickel producer	LOCATION	LOCATION
+1.0	accord	be with	Ningbo	0	LOCATION
+1.0	waste disposal	have	problem	O	O
+1.0	smsp	be among	world 's biggest nickel ore exporter	0	0
+1.0	world	have	nickel ore exporters	O	O
+1.0	China 's Jinchuan	be	China 's largest nickel producer with annual production capacity	LOCATION	SET
+1.0	smsp	be among	world 's nickel ore exporter with key client in Australia	0	LOCATION

@@ -1,0 +1,86 @@
+1.0	palace	have	royals	O	O
+1.0	Gyanendra 's role	pave	way for rebel	PERSON	0
+1.0	Nepal 's House	declare at_time	May	LOCATION	DATE
+0.7163547904497114	land	own by	royal family member	0	0
+1.0	Gyanendra	have at_time	month	PERSON	DATE
+1.0	party	force	maoist	0	0
+1.0	The royal palace	have	household budget	O	O
+1.0	government	earmark total for	royal of palace in its budget for current year	0	DATE
+0.7429338381098561	government	transfer	Gyanendra 's role	0	PERSON
+1.0	Nepal	have	Gyanendra	LOCATION	PERSON
+1.0	bid	end	deadly maoist revolt	0	0
+1.0	government	earmark total for	royal of palace in its budget for current fiscal year	0	DATE
+1.0	palace	collect	its household budget	0	0
+1.0	bid	end	decade-old maoist revolt	0	0
+1.0	Nepal 's embattled King Gyanendra and his family	have	salary	O	O
+1.0	the new government	have	budget	O	O
+1.0	government	earmark total for	royal of palace in its budget	0	0
+1.0	government	earmark total for	royal	0	0
+1.0	bid	end	deadly decade-old maoist revolt	0	0
+1.0	Gyanendra 's role	pave	way	PERSON	0
+1.0	The king and family members	have	rupee salary	O	O
+1.0	Nepal	have	House of Representatives	LOCATION	ORGANIZATION
+1.0	bid	end	maoist revolt	0	0
+1.0	government	come to	power	0	0
+1.0	royal palace	collect	its household budget	0	0
+1.0	party	force	Gyanendra	0	PERSON
+1.0	political party	combine	maoist	0	0
+1.0	royal palace	collect	its annual household budget	0	SET
+1.0	government	earmark total for	royal of palace in its budget for fiscal year	0	DATE
+0.8777126613600376	its annual household budget	be	announce	0	0
+1.0	royal family 's private property	be	tax	0	0
+1.0	Nepal 's House	declare in	landmark proclamation	LOCATION	0
+0.37999818347223124	monarch	revere as	incarnation	0	0
+1.0	Nepal 's House	declare at_time	last May	LOCATION	DATE
+1.0	royal family 's property	tax	income	0	0
+1.0	dollars	have	total	O	MONEY
+1.0	palace	collect	its annual household budget	0	SET
+0.37999818347223124	monarch	revere as	incarnation hindu god	0	0
+1.0	government	earmark	total	0	0
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	government	finalize	maoist	0	0
+1.0	Gyanendra	collect	he son	PERSON	0
+0.7429338381098561	government	transfer	Gyanendra 's role as head of mid-2007	0	PERSON
+1.0	government	finalize	interim constitution	0	0
+1.0	government	earmark total for	royal of palace	0	0
+1.0	mid-2007	have	head	O	O
+1.0	The Maoists	abolish	monarchy	MISC	0
+1.0	royals	have	income	O	O
+1.0	government	finalize	constitution	0	0
+1.0	Gyanendra	end	14 month of direct rule	PERSON	DURATION
+1.0	Hindu god	have	incarnation	O	O
+1.0	Gyanendra	end	14 month	PERSON	DURATION
+0.37999818347223124	monarch	traditionally revere as	incarnation	0	0
+1.0	Gyanendra	have	role	O	PERSON
+0.37999818347223124	monarch	traditionally revere as	incarnation hindu god	0	0
+1.0	rule	have	months	DURATION	O
+1.0	Gyanendra	have	son	O	O
+0.7429338381098561	government	transfer	maoist	0	0
+1.0	Gyanendra	have at_time	last month	PERSON	DATE
+1.0	government	seize	land own	0	0
+0.7429338381098561	government	transfer	Gyanendra 's role as head	0	PERSON
+1.0	Kathmandu Post	quote	unnamed government official	ORGANIZATION	0
+1.0	royal family	have	property	O	O
+1.0	Gyanendra	end	14 month of rule	PERSON	DURATION
+1.0	Gyanendra	have	role as head of state to prime minister mid-2007	PERSON	0
+1.0	government	earmark total for	royal of palace in its budget for year	0	DATE
+1.0	power	be in	2005	0	DATE
+1.0	Gyanendra	have	collect	PERSON	0
+1.0	Nepal	have	King Gyanendra	PERSON	LOCATION
+1.0	newspaper	quote	official	0	0
+1.0	royal family 's private property	tax	income	0	0
+1.0	royal family 's property	be	tax	0	0
+1.0	royal family	have	private property	0	0
+1.0	political party	force	Gyanendra	0	PERSON
+1.0	government	seize	land own by royal family member	0	0
+1.0	party	combine	maoist	0	0
+1.0	government	earmark	total of 2.9 million dollar	0	MONEY
+1.0	rupee salary	have	tranche	O	O
+1.0	Gyanendra	have	family	O	O
+1.0	new government	come to	power	0	0
+1.0	Nepal	have	House	ORGANIZATION	LOCATION
+1.0	Gyanendra	have	he son	PERSON	0
+1.0	political party	force	maoist	0	0
+1.0	palace	be in	its budget for current fiscal year	0	DATE
+1.0	land	distribute	they	0	0
+1.0	government	seize	land	0	0

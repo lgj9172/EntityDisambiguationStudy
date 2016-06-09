@@ -1,0 +1,39 @@
+1.0	Defence	have	Ministry	ORGANIZATION	ORGANIZATION
+1.0	Britain	of	three major port	LOCATION	NUMBER
+1.0	Prime Minister Tony Blair 's government	provide	accommodation	0	0
+1.0	Tony Blair	have	government	PERSON	0
+1.0	ports	have	one	NUMBER	O
+1.0	minister	cut	defence budget	0	0
+1.0	Prime Minister Tony Blair	have	government	O	PERSON
+1.0	navy	discontinue	one its major commitment	0	NUMBER
+1.0	former head	tell sunday telegraph at_time	week	0	DATE
+1.0	it	quote	defence source	0	0
+1.0	Prime Minister Tony Blair 's government	provide accommodation for	troops	0	0
+1.0	defence underfunding	have	report	O	O
+1.0	government	be	criticise	0	0
+1.0	Britain	have	ports	O	LOCATION
+1.0	Prime Minister Tony Blair 's government	provide	decent accommodation	0	0
+1.0	government	be criticise over	claim	0	0
+1.0	it	quote	unnamed defence source	0	0
+1.0	Daily Telegraph	report at_time	Friday	ORGANIZATION	DATE
+1.0	British Royal Navy 's	of head be	Alan West	ORGANIZATION	PERSON
+1.0	commitments	have	one	NUMBER	O
+1.0	warships	have	half	O	O
+1.0	wage long-term campaign	be in	Iraq	0	LOCATION
+1.0	British Royal Navy 's	have	head	O	ORGANIZATION
+1.0	its	have	commitments	O	O
+1.0	navy	discontinue	one its commitment	0	NUMBER
+1.0	british Royal Navy	of	warship	ORGANIZATION	0
+1.0	navy	discontinue	one of its major commitment	0	NUMBER
+1.0	destroyers	have	two	NUMBER	O
+1.0	it	also quote	unnamed defence source	0	0
+1.0	Royal Navy	have	warships	O	ORGANIZATION
+1.0	navy	discontinue	one of its commitment	0	NUMBER
+1.0	it	be	possible	0	0
+1.0	former head	tell sunday telegraph at_time	last week	0	DATE
+1.0	ships	have	future	DATE	O
+1.0	it	also quote	defence source	0	0
+1.0	former head	tell	Sunday Telegraph	0	ORGANIZATION
+1.0	minister	cut defence budget by	250 million pound	0	MONEY
+1.0	base closure	have	report	O	O
+1.0	canoes	have	fleet	O	O

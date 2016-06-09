@@ -1,0 +1,57 @@
+1.0	132,000-strong US force	be in	Iraq	LOCATION	LOCATION
+1.0	violence	be in	Baghdad	0	LOCATION
+1.0	Joint Chiefs	have	chairman	O	ORGANIZATION
+1.0	our	have	minds	O	O
+1.0	political interference	provide	more iraqi troops	0	0
+1.0	more than 20,000 US troops	have	commitments	O	O
+1.0	Iraqi leaders	have	commitments	O	O
+1.0	it	have	thinking	O	O
+1.0	iraqi government	because of	commitment provide	0	0
+1.0	years	have	matter	O	DURATION
+1.0	government	have	commitment	O	O
+1.0	Defense Secretary Robert Gates	say in	he statement	PERSON	0
+1.0	sound plan	be in	small part	0	0
+1.0	Defense Secretary Robert Gates	say in	he open statement	PERSON	0
+1.0	a sound plan , in no small part because General -LRB- George -RRB- Casey and other senior military officers have worked closely with the Iraqi government in developing it	be	sound	0	0
+1.0	Lawmakers	have	commanders	O	O
+1.0	heart	have	change	O	O
+1.0	political interference	provide	iraqi troops	0	0
+1.0	other	would in	would Iraq	0	LOCATION
+1.0	commitment	have	changed	O	O
+1.0	more troops	end interference in	operation	0	0
+1.0	troops	end interference in	operation	0	0
+1.0	Staff	have	chairman	O	ORGANIZATION
+1.0	two other	would in	would Iraq within month	NUMBER	LOCATION
+1.0	other	would in	would Iraq within month	0	LOCATION
+1.0	president	have	intended nominee as new commander in Baghdad	0	LOCATION
+1.0	US commanders	have	thinking	O	O
+1.0	Iraq	be within	a month	LOCATION	DURATION
+1.0	interference	provide	more iraqi troops	0	0
+1.0	Nuri Al-Maliki	be	iraqi	PERSON	0
+1.0	more troops	end	interference	0	0
+1.0	Peter Pace	chairman of	the Joint Chiefs	PERSON	ORGANIZATION
+1.0	two other	would in	would Iraq	NUMBER	LOCATION
+1.0	The president	have	security team	O	O
+1.0	Defense Secretary Robert Gates	say at_time	Thursday	PERSON	DATE
+1.0	troops	end	interference	0	0
+0.43676828206437707	government 's commitment	provide	more troops	0	0
+0.43676828206437707	iraqi government 's commitment	provide	more troops	0	0
+1.0	General Peter Pace	change	they thinking	PERSON	0
+1.0	months	have	matter	O	DURATION
+0.43676828206437707	government 's commitment	provide	troops	0	0
+0.6693381532074719	more troops	lasting impact on	violence in Baghdad	0	LOCATION
+1.0	The president	have	statement	O	O
+1.0	Lawmakers	have	options	O	O
+0.43676828206437707	iraqi government 's commitment	provide	troops	0	0
+1.0	president	have	nominee	O	O
+1.0	The United States	have	plan	O	O
+1.0	Defense Secretary Robert Gates	say at	hearing of House Armed Services Committee	PERSON	ORGANIZATION
+1.0	Defense Secretary Robert Gates	say at	hearing	PERSON	0
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	interference	provide	iraqi troops	0	0
+1.0	more troops	have	lasting impact on violence in Baghdad	0	LOCATION
+1.0	law	have	rule	O	O
+1.0	House Armed Services Committee	have	hearing	O	ORGANIZATION
+1.0	us	have	most	O	O
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	new commander	be in	Baghdad	0	LOCATION

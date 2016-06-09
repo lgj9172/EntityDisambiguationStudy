@@ -1,0 +1,48 @@
+1.0	Briton Stephen Frears	be nominate for	Queen	PERSON	0
+1.0	winner	take academy award for	the best director	0	0
+1.0	winner	will	will announce at ceremony in Los Angeles on February 3	0	DATE
+1.0	award	name for	director guild of America	0	ORGANIZATION
+1.0	winner	have go of	of fifty-seven time	0	NUMBER
+1.0	nominee	be	Mexico 's Alejandro Gonzalez Inarritu	0	PERSON
+1.0	winner	will	will announce	0	0
+1.0	DGA Award	have	inception	O	O
+1.0	other nominee	be	Mexico 's Alejandro Gonzalez Inarritu for Babel	0	PERSON
+1.0	DGA award	since	inception in 1949	0	DATE
+1.0	Michael Apted	be president of	the Directors Guild of America	PERSON	ORGANIZATION
+1.0	winner	take academy award for	director	0	0
+0.6114196224242153	veteran film-maker Martin Scorsese	be on	Tuesday	PERSON	DATE
+1.0	nomination	be also	Valerie Faris	0	PERSON
+1.0	nomination	be	Valerie Faris	0	PERSON
+1.0	comedy Miss Sunshine	have	makers	O	O
+1.0	award	name for	director guild	0	0
+1.0	winner	have go of	fifty-one out of fifty-seven time since DGA award 's inception in 1949	0	DATE
+1.0	America	have	Directors Guild	ORGANIZATION	ORGANIZATION
+1.0	storytelling	have	pursuit	O	O
+1.0	winner	have go of	of fifty-seven time since DGA award 's inception	0	NUMBER
+1.0	movie industry	have	indicators	O	O
+1.0	Martin Scorsese	have	crime thriller	O	O
+1.0	nominee	be	Mexico 's Alejandro Gonzalez Inarritu for Babel	0	PERSON
+1.0	Valerie Faris	maker of	smash-hit independent comedy little Miss Sunshine	PERSON	0
+1.0	outstanding directorial achievement	be in	2006	0	DATE
+1.0	winner	will	will announce at ceremony in Los Angeles	0	LOCATION
+1.0	winner	have go of	fifty-one out of fifty-seven time	0	NUMBER
+1.0	Los Angeles	be on	February 3	LOCATION	DATE
+1.0	Princess Diana	have	death	O	PERSON
+1.0	award	name among	nominee	0	0
+1.0	winner	have go of	of fifty-seven time since DGA award 's inception in 1949	0	DATE
+1.0	joint nomination	be also	Valerie Faris	0	PERSON
+1.0	nominees	have	Each	O	O
+1.0	movie industry	of	most accurate indicator	0	0
+1.0	Stephen Frears	be	Briton	PERSON	MISC
+1.0	Mexico	have	Alejandro Gonzalez Inarritu	LOCATION	PERSON
+1.0	winner	take	Academy award	0	MISC
+1.0	DGA award 's inception	be in	1949	0	DATE
+1.0	Michael Apted	be	the Directors Guild of America	PERSON	ORGANIZATION
+1.0	winner	will	will announce at ceremony	0	0
+1.0	Briton Stephen Frears	be	nominate	PERSON	0
+1.0	other nominee	be	Mexico 's Alejandro Gonzalez Inarritu	0	PERSON
+1.0	ceremony	be in	Los Angeles	0	LOCATION
+1.0	indicators	have	one	NUMBER	O
+1.0	joint nomination	be	Valerie Faris	0	PERSON
+1.0	Mexico	have	Alejandro Gonzalez Inarritu	PERSON	LOCATION
+1.0	winner	have go of	fifty-one out of fifty-seven time since DGA award 's inception	0	NUMBER

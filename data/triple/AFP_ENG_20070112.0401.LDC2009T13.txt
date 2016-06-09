@@ -1,0 +1,112 @@
+1.0	picture	alert	world	0	0
+1.0	Stakic	be	ultimate boss of infamous concentration camp in Bosnia at start	PERSON	LOCATION
+1.0	people	be transfer to	country	0	0
+1.0	court	change sentence on	appeal	0	0
+1.0	picture	resemble	skeleton	0	0
+1.0	Stakic	be	boss in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	boss of infamous concentration camp of Prijedor in Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp of Prijedor in Bosnia at start	PERSON	LOCATION
+1.0	Prijedor	have	concentration camps	O	LOCATION
+1.0	40 year	be in	prison	DURATION	0
+1.0	picture	resemble	skeleton of Holocaust	0	0
+1.0	Stakic	be	ultimate boss of concentration camp in northwestern Bosnia at start	PERSON	LOCATION
+1.0	court	change sentence at_time	last year	0	DATE
+1.0	Milomir Stakic	have	time	O	O
+1.0	Stakic	be	ultimate boss of infamous concentration camp of Prijedor in Bosnia at start	PERSON	LOCATION
+1.0	imprisonment	have	sentence	O	O
+1.0	Stakic	be	ultimate boss	PERSON	0
+1.0	Stakic	be	ultimate boss of infamous concentration camp of Prijedor in Bosnia	PERSON	LOCATION
+1.0	Stakic	be	boss of concentration camp of Prijedor in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be ultimate boss of	concentration camp of Prijedor	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be give life sentence after	20 year in 2003	PERSON	DATE
+1.0	Stakic	be boss at	start	PERSON	0
+1.0	Stakic	be	ultimate boss of infamous concentration camp of Prijedor in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be	boss of concentration camp of Prijedor in Bosnia	PERSON	LOCATION
+1.0	Stakic	be give	life sentence	PERSON	0
+1.0	Stakic	initially be give life sentence after	20 year	PERSON	DATE
+1.0	court	change	sentence	0	0
+1.0	People convicted by the ICTY	have	sentences	O	O
+1.0	Stakic	be	ultimate boss of infamous concentration camp in Bosnia	PERSON	LOCATION
+1.0	Stakic	be	boss of infamous concentration camp of Prijedor in Bosnia	PERSON	LOCATION
+1.0	picture	alert world to	ethnic	0	0
+1.0	Stakic	be ultimate boss of	infamous concentration camp	PERSON	0
+1.0	third country	be in	Europe	ORDINAL	LOCATION
+1.0	Stakic	be boss in	Bosnia	PERSON	LOCATION
+1.0	people	be transfer to	third country	0	ORDINAL
+1.0	war	have	start	O	O
+1.0	Milomir Stakic	have	sentence	O	O
+1.0	life sentence	be with	mandatory review	0	0
+1.0	Stakic	be boss of	infamous concentration camp	PERSON	0
+1.0	Stakic	be	boss of infamous concentration camp in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be	boss	PERSON	0
+1.0	Stakic	be	boss of concentration camp of Prijedor in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	boss in Bosnia at start	PERSON	LOCATION
+1.0	Stakic	initially be give	life sentence with mandatory review	PERSON	0
+1.0	Stakic	be boss of	concentration camp	PERSON	0
+1.0	court	change sentence to	40 year	0	DURATION
+1.0	Stakic	be	ultimate boss of concentration camp in Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp of Prijedor at start	PERSON	LOCATION
+1.0	Stakic	initially be give	life sentence	PERSON	0
+1.0	Stakic	be give	life sentence with review	PERSON	0
+1.0	Stakic	be	boss of infamous concentration camp in Bosnia at start	PERSON	LOCATION
+1.0	people	be transfer to	third country in Europe	0	LOCATION
+1.0	Stakic	be ultimate boss in	northwestern Bosnia	PERSON	LOCATION
+1.0	UN war crime court	say at_time	Friday	ORGANIZATION	DATE
+1.0	Stakic	be	boss of concentration camp of Prijedor at start	PERSON	LOCATION
+1.0	non-serb	be in	Prijedor municipality	0	LOCATION
+1.0	ultimate boss	be in	Bosnia	0	LOCATION
+1.0	Stakic	be boss in	northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	initially be give	life sentence with review	PERSON	0
+1.0	Stakic	be	boss of concentration camp in Bosnia	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss in Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp at start	PERSON	0
+1.0	Stakic	be ultimate boss of	concentration camp	PERSON	0
+1.0	Stakic	be	ultimate boss of infamous concentration camp in northwestern Bosnia	PERSON	LOCATION
+1.0	years	have	imprisonment	O	DURATION
+1.0	camp immates	have	Pictures	O	O
+1.0	Stakic	be boss of	infamous concentration camp of Prijedor	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of infamous concentration camp at start	PERSON	0
+1.0	court	change sentence at_time	year	0	DATE
+0.8228909213655581	people	convict by	icty	0	0
+1.0	people	serve	they sentence	0	0
+1.0	Stakic	be	boss of concentration camp in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	boss of infamous concentration camp at start	PERSON	0
+1.0	Stakic	be ultimate boss in	Bosnia	PERSON	LOCATION
+1.0	court	change sentence in	prison	0	0
+1.0	Stakic	be ultimate boss at	start	PERSON	0
+1.0	Stakic	be	boss of concentration camp of Prijedor in Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp of Prijedor in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of infamous concentration camp of Prijedor at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp in Bosnia	PERSON	LOCATION
+1.0	Stakic	be give	life sentence with mandatory review	PERSON	0
+1.0	picture	resemble	walk skeleton of Holocaust	0	0
+1.0	People convicted by the ICTY	have	sentence	O	O
+1.0	convicts	have	Two	NUMBER	O
+1.0	Stakic	be ultimate boss of	infamous concentration camp of Prijedor	PERSON	LOCATION
+1.0	UN war crime court	say in	statement	ORGANIZATION	0
+1.0	Stakic	be	boss of infamous concentration camp of Prijedor at start	PERSON	LOCATION
+1.0	Holocaust	have	skeletons	O	O
+1.0	Stakic	be boss of	concentration camp of Prijedor	PERSON	LOCATION
+1.0	Stakic	be	boss of concentration camp in northwestern Bosnia	PERSON	LOCATION
+1.0	Bosnia	have	war	O	LOCATION
+1.0	Stakic	be	boss of infamous concentration camp of Prijedor in northwestern Bosnia	PERSON	LOCATION
+1.0	Stakic	be	boss of concentration camp in Bosnia at start	PERSON	LOCATION
+1.0	people	be transfer to	country in Europe	0	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp of Prijedor in northwestern Bosnia at start	PERSON	LOCATION
+1.0	his	have	staff	O	O
+1.0	Stakic	be	boss of infamous concentration camp in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Bosnia	during	1992-95 war	LOCATION	NUMBER
+1.0	Stakic	be	ultimate boss in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	ultimate boss of concentration camp of Prijedor in Bosnia	PERSON	LOCATION
+1.0	Stakic	be give life sentence after	20 year	PERSON	DATE
+1.0	Stakic	be	ultimate boss of infamous concentration camp in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	be	boss of concentration camp at start	PERSON	0
+1.0	Stakic	be	boss of infamous concentration camp in Bosnia	PERSON	LOCATION
+1.0	court	have	convicts	O	O
+1.0	Stakic	be	ultimate boss of infamous concentration camp of Prijedor in northwestern Bosnia at start	PERSON	LOCATION
+1.0	Stakic	initially be give life sentence after	20 year in 2003	PERSON	DATE
+1.0	Stakic	be	boss of infamous concentration camp of Prijedor in northwestern Bosnia at start	PERSON	LOCATION
+1.0	picture	resemble	walk skeleton	0	0
+1.0	concentration camps	have	boss	O	O
+1.0	picture	alert world to	ethnic cleanse	0	0

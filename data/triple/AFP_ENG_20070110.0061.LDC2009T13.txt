@@ -1,0 +1,56 @@
+1.0	his	have	summit security task force	O	O
+1.0	Australia	have	travel warning	LOCATION	0
+1.0	nation	have	police chief	O	O
+1.0	nation	have	police chief	0	0
+1.0	number	have announce plan to	stage demonstration	0	0
+1.0	small number	have announce plan to	stage demonstration in Cebu	0	LOCATION
+1.0	Cebu	have	undertaken	O	LOCATION
+1.0	number	have announce plan to	stage demonstration in Cebu	0	LOCATION
+1.0	Australia	still have	travel warning	LOCATION	0
+1.0	stage demonstration	be in	Cebu	0	LOCATION
+1.0	Cebu	city	Philippines	LOCATION	LOCATION
+1.0	Philippines	cite	typhoon	LOCATION	0
+1.0	Australia	cite	Britain	LOCATION	LOCATION
+1.0	summit security task force	have	representatives	O	O
+1.0	number	have announce plan during	summit	0	0
+1.0	dialogue partners	have	ahead	O	O
+1.0	Australia	still have	Britain	LOCATION	LOCATION
+1.0	minister	arrive amid	terrorism warning	0	0
+1.0	number	have announce	plan	0	0
+1.0	minister	arrive amid	continue terrorism warning	0	0
+1.0	Australia	cite	Canada	LOCATION	LOCATION
+1.0	small number	have announce plan during	summit	0	0
+1.0	staff	of chief be	Hermogenes Esperon	0	PERSON
+1.0	Calderon	say aside from	police task force	PERSON	0
+1.0	Australia	cite	possible attack	LOCATION	0
+1.0	Association	have	leaders	O	ORGANIZATION
+1.0	police chief	renew	government	0	0
+1.0	staff	have	forces chief	O	O
+1.0	nation 's police chief	say at_time	Wednesday	0	DATE
+1.0	leaders	have	arrival	O	O
+1.0	small number	have announce	plan	0	0
+1.0	Philippines	have	city	O	LOCATION
+1.0	summits	have	security	O	O
+1.0	Australia	cite	possible terrorist attack	LOCATION	0
+1.0	minister	begin	arrive	0	0
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	Australia	have	Canada	LOCATION	LOCATION
+1.0	our	have	visitors	O	O
+1.0	arrival	have	ahead	O	O
+1.0	South Korea	be	Australia	LOCATION	LOCATION
+1.0	Australia	have	Britain	LOCATION	LOCATION
+1.0	week	have	summits	O	DATE
+1.0	Cebu	have	best	O	LOCATION
+1.0	ministers	have	arrival	O	O
+1.0	Australia	still have	Canada	LOCATION	LOCATION
+1.0	minister	begin	arrive amid continue terrorism warning	0	0
+1.0	Cebu	have	resort	O	LOCATION
+1.0	Australia	still have	travel warning for Cebu	LOCATION	LOCATION
+1.0	this week	for	asian summit	DATE	0
+1.0	groups	have	numbers	O	O
+1.0	Cebu	have	outskirts	O	LOCATION
+1.0	police chief	meanwhile renew	government	0	0
+1.0	Australia	have	travel warning for Cebu	LOCATION	LOCATION
+1.0	small number	have announce plan to	stage demonstration	0	0
+1.0	minister	begin	arrive amid terrorism warning	0	0
+1.0	Philippines	cite	come typhoon	LOCATION	0

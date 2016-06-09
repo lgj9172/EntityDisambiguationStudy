@@ -1,0 +1,7 @@
+1.0	sanction	block	US firm	0	LOCATION
+1.0	newspaper	describe	sanction	0	0
+1.0	Washington Times	cite	US administration official	ORGANIZATION	LOCATION
+1.0	newspaper	describe sanction as	symbolic	0	0
+1.0	sanction	prevent us government business to	company for two year	0	DURATION
+1.0	sanction	prevent	US government business	0	LOCATION
+1.0	sanction	prevent us government business to	company	0	0

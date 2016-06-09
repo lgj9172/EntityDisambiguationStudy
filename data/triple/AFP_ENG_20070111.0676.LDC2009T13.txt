@@ -1,0 +1,9 @@
+1.0	US force	raid consulate in	Arbil	LOCATION	LOCATION
+1.0	US force	raid	iranian consulate	LOCATION	0
+1.0	US force	raid	consulate	LOCATION	0
+1.0	search operation	be in	city	0	0
+1.0	search operation	be in	Arbil	0	LOCATION
+1.0	people	have	nationality	O	O
+1.0	US defense official	say at_time	Thursday	LOCATION	DATE
+1.0	Arbil	have	city	O	LOCATION
+1.0	anonymity	have	condition	O	O

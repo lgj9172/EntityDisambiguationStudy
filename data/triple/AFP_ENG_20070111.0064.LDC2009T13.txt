@@ -1,0 +1,13 @@
+1.0	we	sell	bit	0	0
+1.0	chairman Fred Kindle	say in	newspaper interview publish	PERSON	0
+1.0	chairman Fred Kindle	say in	newspaper interview publish Thursday	PERSON	DATE
+1.0	high	be company in	automation industry	0	0
+1.0	euros	have	value	O	MONEY
+1.0	we	have do	nothing	0	0
+1.0	company	have	bits	O	O
+1.0	we	have do nothing for	five year	0	DURATION
+1.0	chairman Fred Kindle	say in	newspaper interview	PERSON	0
+1.0	company	be in	automation industry	0	0
+1.0	high	be	company	0	0
+1.0	our	have	shopping list	O	O
+1.0	we	sell	bit of company	0	0

@@ -1,0 +1,42 @@
+1.0	Thailand	have	Paradorn Srichaphan	O	LOCATION
+1.0	next week	of	australian Open	DATE	MISC
+1.0	russian world number	retire from	he round match	0	0
+1.0	the extent of the injury	first happen	last week playing	0	DATE
+0.4460947724262909	the extent of the injury	first happen in	Doha	0	LOCATION
+0.8344798965552542	Nikolay Davydenko	become	withdrawal	PERSON	0
+1.0	Nikolay Davydenko	need	prepare	0	0
+0.4460947724262909	the extent of the injury	happen in	Doha	0	LOCATION
+1.0	russian world number	retire from	he second round match	0	ORDINAL
+1.0	you	go through	match	0	0
+1.0	Open	have	precaution	O	MISC
+1.0	Davydenko	join	spanish world number	PERSON	0
+1.0	russian world number	be with	foot injury	0	0
+0.8344798965552542	Nikolay Davydenko	become through	injury	PERSON	0
+1.0	world number	retire from	he second round match	0	ORDINAL
+1.0	Nikolay Davydenko	now have	couple day	0	DURATION
+1.0	Melbourne	be on	Monday	LOCATION	DATE
+1.0	Nikolay Davydenko	have	couple day	0	DURATION
+1.0	possible stress fracture	be in	he right foot	0	0
+1.0	his	have	foot	O	O
+1.0	world number	retire from	he round match	0	0
+1.0	women	have	world number	O	O
+1.0	his	have	round match	O	O
+1.0	russian woman	have	world number	0	0
+1.0	the extent of the injury	happen	week playing	0	DATE
+1.0	last year	of	US Open	DATE	MISC
+1.0	it	be	small	0	0
+1.0	year	have	US Open	MISC	DATE
+1.0	US Open	have	semi-finals	O	MISC
+1.0	Thailand	have	Paradorn Srichaphan	LOCATION	0
+1.0	russian woman	's number be	virus	0	0
+1.0	you	go through	few match	0	0
+1.0	the extent of the injury	happen	last week playing	0	DATE
+1.0	Thailand	's srichaphan be	wrist	LOCATION	0
+1.0	Davydenko	join	world number	PERSON	0
+1.0	the extent of the injury	first happen week playing in	Doha	0	LOCATION
+1.0	week	have	Open	MISC	DATE
+1.0	injury	have	extent	O	O
+0.8344798965552542	Nikolay Davydenko	become at	Sydney International Wednesday	PERSON	LOCATION
+1.0	the extent of the injury	first happen	week playing	0	DATE
+1.0	the extent of the injury	happen week playing in	Doha	0	LOCATION
+0.8344798965552542	Nikolay Davydenko	become	fifth withdrawal	PERSON	ORDINAL

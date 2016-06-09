@@ -1,0 +1,79 @@
+1.0	comedy	hold at	north american box office over weekend	0	DATE
+1.0	The comedy `` Night at the Museum ''	have	release	O	O
+1.0	father	have	story	O	O
+1.0	comedy	be	10th ahead of thriller	0	ORDINAL
+1.0	comedy	be	10th ahead	0	ORDINAL
+1.0	romantic comedy	be	10th ahead of thriller	0	ORDINAL
+1.0	weekend 's 12 film	gross	estimate 147.8 million dollar	DATE	MONEY
+1.0	football drama	take spot follow by	penguin flick	0	0
+1.0	comedy	hold at	north box office over weekend	0	DATE
+1.0	Happyness	have	Pursuit	O	O
+1.0	Rocky Balboa	take	fifth spot	MISC	ORDINAL
+1.0	Sylvester Stallone	of	Rocky franchise	PERSON	MISC
+1.0	weekend	have	films	O	DATE
+1.0	weekend 's film	gross	147.8 million dollar	DATE	MONEY
+1.0	comedy	hold at	box office over weekend	0	DATE
+1.0	comedy	be	10th with 6.7 million dollar ahead of thriller	0	MONEY
+1.0	comedy	hold at	north american box office	0	0
+1.0	Rocky Balboa	take	spot	MISC	0
+1.0	earnings	be estimate compare to	8.96 million dollar for year	0	MONEY
+1.0	romantic comedy	be	10th	0	ORDINAL
+1.0	comedy	be 10th with	6.7 million dollar	0	MONEY
+1.0	comedy	hold at	box office	0	0
+1.0	weekend 's top film	gross	147.8 million dollar	DATE	MONEY
+1.0	musical Dreamgirls	show at_time	Monday	0	DATE
+1.0	comedy	be 10th ahead with	6.7 million dollar	0	MONEY
+1.0	comedy	hold at	american box office over weekend	0	DATE
+1.0	second	have	take	O	O
+1.0	Charlotte	have	Web	O	LOCATION
+1.0	the weekend	have	top 12 film	DATE	NUMBER
+1.0	spy drama	be sixth with	11.2 million dollar follow by dragon fantasy Eragon with 8.5 million	0	NUMBER
+1.0	Will Smith	have	drama	PERSON	0
+1.0	comedy	have make	116.9 million dollar	0	MONEY
+1.0	romantic comedy	be 10th ahead with	6.7 million dollar	0	MONEY
+1.0	Sylvester Stallone	have	Rocky franchise	O	PERSON
+1.0	Stiller	have	movie	O	PERSON
+0.7259344550990202	musical Dreamgirls	leap to	place	0	0
+1.0	Dreamgirls	show at_time	Monday	0	DATE
+1.0	Rocky Balboa	take spot with	11.35 million dollar	MISC	MONEY
+1.0	Stiller	for	movie	PERSON	0
+1.0	weekend 's top 12 film	gross	estimate 147.8 million dollar	DATE	MONEY
+1.0	earnings	be estimate compare to	8.96 million dollar	0	MONEY
+1.0	Will Smith	have	drama	O	PERSON
+1.0	comedy	have make	estimate 116.9 million dollar	0	MONEY
+1.0	weekend 's top 12 film	gross	147.8 million dollar	DATE	MONEY
+0.7259344550990202	Dreamgirls	leap despite	limited release	0	0
+1.0	third place	be with	15.5 million dollar	ORDINAL	MONEY
+1.0	comedy	hold at	american box office	0	0
+1.0	spy drama	be	sixth	0	ORDINAL
+0.7259344550990202	Dreamgirls	leap to	third place	0	ORDINAL
+1.0	spy drama	be sixth with	11.2 million dollar follow with 8.5 million	0	NUMBER
+1.0	weekend 's film	gross	estimate 147.8 million dollar	DATE	MONEY
+1.0	american football drama	take spot follow by	animated penguin flick	0	0
+1.0	night	earn	37.8 million dollar	0	MONEY
+1.0	spy drama	be sixth with	11.2 million dollar follow	0	NUMBER
+1.0	thriller	have	ahead	O	O
+0.7259344550990202	musical Dreamgirls	leap despite	release	0	0
+1.0	romantic comedy	be	10th ahead	0	ORDINAL
+1.0	year	have	Oscars	MISC	DATE
+0.7259344550990202	Dreamgirls	leap to	place	0	0
+0.7259344550990202	musical Dreamgirls	leap despite	limited release	0	0
+1.0	Charlotte	have	web	LOCATION	0
+1.0	romantic comedy	be	10th with 6.7 million dollar ahead of thriller	0	MONEY
+1.0	Rocky franchise	have	installment	O	O
+1.0	earnings	be estimate compare to	8.96 million dollar for previous year	0	MONEY
+1.0	Central Intelligence Agency	have	spy drama	O	ORGANIZATION
+0.7259344550990202	Dreamgirls	leap despite	release	0	0
+1.0	romantic comedy	be 10th with	6.7 million dollar	0	MONEY
+0.7259344550990202	musical Dreamgirls	leap to	third place	0	ORDINAL
+1.0	comedy	hold at	north box office	0	0
+0.7041912975492799	1960s soul group	loosely base on	Supremes	DATE	ORGANIZATION
+1.0	spy drama	be sixth with	11.2 million dollar	0	NUMBER
+0.9232286525033953	we	be	Marshall	0	0
+1.0	football drama	take spot follow by	animated penguin flick	0	0
+1.0	weekend 's top film	gross	estimate 147.8 million dollar	DATE	MONEY
+1.0	weekend 's 12 film	gross	147.8 million dollar	DATE	MONEY
+1.0	next year	at	Oscars	DATE	MISC
+1.0	comedy	be	10th	0	ORDINAL
+1.0	american football drama	take spot follow by	penguin flick	0	0
+1.0	spy drama	be sixth with	11.2 million dollar follow by dragon fantasy Eragon	0	NUMBER

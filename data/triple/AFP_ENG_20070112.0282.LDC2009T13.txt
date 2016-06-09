@@ -1,0 +1,30 @@
+1.0	stock exchange	soar on	Friday	0	DATE
+1.0	9,000 point	look	close at record high for session run	NUMBER	0
+1.0	2006	have	beginning	DATE	DATE
+1.0	swiss stock exchange	soar on	Friday	0	DATE
+1.0	stock exchange	soar to	height	0	0
+1.0	9,000 point	look	close at record high for session	NUMBER	0
+1.0	SMI index	stand at	2.15 pm time	ORGANIZATION	NUMBER
+1.0	9,000 point	look on	track	NUMBER	0
+1.0	SMI index	stand at	2.15 pm	ORGANIZATION	NUMBER
+1.0	swiss stock exchange	soar to	height	0	0
+1.0	SMI index	stand at	9,008.72 point	ORGANIZATION	NUMBER
+1.0	9,000 point	look	close at record high for second session	NUMBER	ORDINAL
+1.0	months	have	course	O	DURATION
+1.0	swiss stock exchange	soar to	new height	0	0
+1.0	9,000 point	look	close for second session	NUMBER	ORDINAL
+1.0	9,000 point	look	close for session run	NUMBER	0
+1.0	points	have	close	O	O
+1.0	Thursday	have	close	O	DATE
+1.0	9,000 point	look	close	NUMBER	0
+1.0	9,000 point	look	close for second session run	NUMBER	ORDINAL
+1.0	Thursday	from	close of 8,987.91 point itself	DATE	NUMBER
+1.0	9,000 point	look	close at record high for second session run	NUMBER	ORDINAL
+1.0	blue-chip SMI index	stand at	9,008.72 point	ORGANIZATION	NUMBER
+1.0	SMI index	stand at	2.15 pm local time	ORGANIZATION	NUMBER
+1.0	stock exchange	soar to	new height	0	0
+1.0	blue-chip SMI index	stand at	2.15 pm local time	ORGANIZATION	NUMBER
+1.0	9,000 point	look	close for session	NUMBER	0
+1.0	9,000 point	look	close at record high	NUMBER	0
+1.0	blue-chip SMI index	stand at	2.15 pm time	ORGANIZATION	NUMBER
+1.0	blue-chip SMI index	stand at	2.15 pm	ORGANIZATION	NUMBER

@@ -1,0 +1,52 @@
+1.0	she	tell	reporter	0	0
+1.0	this	be	improved	0	0
+1.0	37.8 percent	be in	2006	PERCENT	DATE
+1.0	Nigeria Stock Exchange	of director-general be	Ndi Okereke-Onyiuke	ORGANIZATION	PERSON
+1.0	she	increase	cost	0	0
+1.0	its 2006 performance	be in	the current year	DATE	DATE
+1.0	she	advise	government	0	0
+1.0	transactions	have	cost	O	O
+1.0	securities	have	listing	O	O
+1.0	the Nigeria Stock Exchange	have	performance	O	O
+1.0	development objective	attain	desire stock market	0	0
+1.0	outlook	be	positive	0	0
+1.0	she	however advise	government	0	0
+1.0	exchange	work with	agency	0	0
+1.0	director-general	say at_time	Thursday	0	DATE
+1.0	securities	have	market capitalisation	O	O
+1.0	listing	explain in	part	0	0
+1.0	stock	be in	the year	0	DATE
+1.0	listing	explain in	large part	0	0
+0.6428837912078004	introduction	value	add tax on fee	0	0
+1.0	listing	explain in	growth of market capitalisation	0	0
+1.0	market capitalisation	have	growth	O	O
+1.0	exchange	work with	regulatory agency	0	0
+1.0	listing	explain during	year	0	DATE
+1.0	exchange	work with	other regulatory agency in year	0	DATE
+1.0	exchange	work with	regulatory agency in year	0	DATE
+1.0	listing	explain in	growth	0	0
+1.0	exchange	work with	agency in year	0	DATE
+1.0	she	tell here	reporter	0	0
+1.0	percent	have	growth	O	PERCENT
+0.6428837912078004	introduction	value	tax on fee earn by stockbroker	0	0
+1.0	stocks	have	performance	O	O
+0.6428837912078004	introduction	value	add tax on fee earn	0	0
+0.6428837912078004	introduction	value	add tax	0	0
+1.0	exchange	work with	other agency	0	DATE
+1.0	transaction	be in	market	0	0
+0.6428837912078004	introduction	value	tax on fee	0	0
+0.6428837912078004	introduction	value	tax	0	0
+1.0	large part	growth of	market capitalisation	0	0
+1.0	stock market	have	outlook	O	O
+1.0	exchange	work with	other agency in year	0	DATE
+1.0	Nigeria Stock Exchange	of director-general be	the Nigeria Stock Exchange	ORGANIZATION	ORGANIZATION
+1.0	exchange	work with	other regulatory agency	0	DATE
+0.6428837912078004	introduction	value	add tax on fee earn by stockbroker	0	0
+1.0	she	increase cost through	introduction	0	0
+1.0	development objective	attain	stock market	0	0
+1.0	she	increase	cost of transaction in market	0	0
+1.0	outlook	be	overall positive	0	0
+1.0	Nigeria Stock Exchange	have	director-general	O	ORGANIZATION
+1.0	other regulatory agency	be in	the year	DATE	DATE
+1.0	she	increase	cost of transaction	0	0
+0.6428837912078004	introduction	value	tax on fee earn	0	0

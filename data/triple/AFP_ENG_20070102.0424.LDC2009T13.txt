@@ -1,0 +1,66 @@
+1.0	Night	take	top-spot	TIME	0
+1.0	movie	jump from	seventh	0	ORDINAL
+1.0	Charlotte	have	web adaptation of	0	0
+1.0	Robert De Niro	have	gritty spy drama	PERSON	0
+1.0	Shepherd	be	fifth	0	ORDINAL
+1.0	movie	be	be tip as contender for Oscars glory month	0	DATE
+1.0	latest installment	net 13.8 million for	long weekend	0	DATE
+1.0	Charlotte 's web	meanwhile finish with	14.9 million	0	NUMBER
+1.0	movie	be	be tip as contender for Oscars glory	0	MISC
+1.0	Smith 's film	finish by	number	PERSON	0
+1.0	Happyness	have	Pursuit	O	O
+1.0	Smith	have	film	PERSON	0
+1.0	movie	be	be tip as contender	0	0
+1.0	formation	have	story	O	O
+1.0	installment	net 13.8 million for	weekend	0	DATE
+1.0	Smith 's film	finish second by	number report	PERSON	0
+1.0	Smith 's film	run	25.5 million over four-day period	PERSON	NUMBER
+1.0	Sylvester Stallone	have	Rocky	MISC	PERSON
+1.0	movie	be	be tip as contender month	0	DATE
+1.0	Shepherd	be fifth with	18.4 million over the holiday weekend	0	NUMBER
+1.0	Charlotte 's web	finish in	place	0	0
+1.0	Smith 's film	run	25.5 million over period	PERSON	NUMBER
+0.6417258610869733	story	base on	Diana Ross	0	PERSON
+1.0	Charlotte	have	Web	O	O
+1.0	Night	take top-spot in	north american box office	TIME	0
+1.0	Smith	have	film	O	PERSON
+1.0	movie	be	be tip month	0	DATE
+1.0	Charlotte 's web	finish with	14.9 million	0	NUMBER
+1.0	latest installment	net 13.8 million for	weekend	0	DATE
+1.0	its	have	weight	O	O
+1.0	Night	take top-spot in	box office	TIME	0
+1.0	installment	net 13.8 million for	long weekend	0	DATE
+1.0	group	have	story	O	O
+1.0	Smith 's film	finish second by	number	PERSON	0
+0.8081425547522075	figure	release at_time	Tuesday	0	DATE
+1.0	latest installment	net	13.8 million	0	NUMBER
+1.0	good Shepherd	be	fifth	0	ORDINAL
+1.0	film	punch	its weight	0	0
+1.0	movie	be	be tip next month	0	DATE
+1.0	children	have	book	O	O
+0.6417258610869733	story	loosely base on	Diana Ross	0	PERSON
+1.0	Night	take top-spot in	american box office	TIME	0
+1.0	movie	be	be tip as contender for Oscars glory next month	0	DATE
+1.0	good Shepherd	be fifth with	18.4 million over the holiday weekend	0	NUMBER
+1.0	Night	take top-spot in	north american box office over New Year holiday weekend	TIME	DATE
+1.0	history museum	have	security guard	O	O
+1.0	Night	take top-spot in	north box office	TIME	0
+1.0	Niro	have	spy drama	O	PERSON
+1.0	Charlotte 's web	meanwhile finish in	place	0	0
+1.0	Night	take top-spot in	north box office over New Year holiday weekend	TIME	DATE
+1.0	Smith 's film	finish by	number report	PERSON	0
+0.8081425547522075	final figure	release at_time	Tuesday	0	DATE
+1.0	Night	take top-spot in	box office over New Year holiday weekend	TIME	DATE
+1.0	Central Intelligence Agency	have	formation	O	ORGANIZATION
+1.0	installment	net	13.8 million	0	NUMBER
+1.0	movie	be	be tip	0	0
+0.8357791210557162	movie	star	Eddie Murphy	0	PERSON
+1.0	Night	take top-spot in	american box office over New Year holiday weekend	TIME	DATE
+1.0	Sylvester Stallone	of	Rocky	PERSON	MISC
+1.0	Rocky	have	installment	O	MISC
+1.0	classic child	have	book about relationship between pig	0	0
+0.5470572678446984	top-spot	night at	museum	0	0
+1.0	Charlotte 's web	meanwhile finish in	fourth place	0	ORDINAL
+1.0	Charlotte 's web	finish in	fourth place	0	ORDINAL
+1.0	movie	be	be tip as contender next month	0	DATE
+1.0	adaptation	have	Web	O	O

@@ -1,0 +1,22 @@
+1.0	group	have	living quarters	O	O
+1.0	worker	be construct	pipeline in Nigeria	0	LOCATION
+1.0	government spokesman	be in	Nigeria	0	LOCATION
+1.0	worker	be construct	pipeline in southern Nigeria	0	LOCATION
+1.0	pipeline	be in	Nigeria	0	LOCATION
+1.0	kidnap worker	be construct	pipeline in Nigeria	0	LOCATION
+1.0	group	at	living quarter	0	0
+0.6506936855681408	employee	be	seize	0	0
+1.0	Construction	have	employees	O	ORGANIZATION
+1.0	kidnap worker	be construct	pipeline in southern Nigeria	0	LOCATION
+1.0	kidnap worker	be construct	pipeline	0	0
+1.0	Daewoo Engineering	have	employees	O	ORGANIZATION
+1.0	insurgents	have	group	O	O
+1.0	worker	be construct	pipeline	0	0
+1.0	workers	have	total	O	O
+1.0	pipeline construction site	be in	southern state of Bayelsa	0	LOCATION
+1.0	Yenagoa	have	outskirts	O	LOCATION
+1.0	Daewoo spokesperson	tell	afp	ORGANIZATION	0
+0.6506936855681408	employee	be seize at	4:50	0	TIME
+1.0	Bayelsa	have	capital	O	LOCATION
+1.0	Bayelsa	have	state	O	LOCATION
+1.0	Yenagoa	capital of	Bayelsa	LOCATION	LOCATION

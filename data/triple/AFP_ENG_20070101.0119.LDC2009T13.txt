@@ -1,0 +1,204 @@
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow	PERSON	LOCATION
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	Belarus	will pay market price by	2011	LOCATION	DATE
+1.0	Lukashenko	speak of	blow	PERSON	0
+1.0	government	give backing during	gas row at start	0	DATE
+0.5082213320114719	Belarus	substantial increase	it have pay	LOCATION	0
+1.0	revive memory	cause by	dispute	0	0
+1.0	memory	cause by	dispute Ukraine	0	LOCATION
+1.0	President Alexander Lukashenko	meanwhile warn in	New Year 's address	PERSON	DATE
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in early hour of Monday	PERSON	DATE
+1.0	belarussian President Alexander Lukashenko	warn in	tense New Year 's address	PERSON	DATE
+1.0	Lukashenko	call more carefully on	population	PERSON	0
+1.0	government	give backing to	Viktor Yushchenko	0	PERSON
+1.0	Alexei Miller	be	Gazprom	PERSON	ORGANIZATION
+1.0	year	by	end	DURATION	0
+1.0	era	have	end	O	O
+1.0	western government	give backing during	gas row at start	0	DATE
+1.0	dollars	have	short	O	MONEY
+1.0	gas	have	meters	O	O
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist	PERSON	0
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty	DATE	DATE
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist	PERSON	0
+1.0	gas	have	third	ORDINAL	O
+1.0	his	have	country	O	O
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in hour	PERSON	LOCATION
+1.0	Russia	have	ally	O	LOCATION
+1.0	Lukashenko	call carefully on	population to budget	PERSON	0
+1.0	1,000	short seek by	russian gas monopoly Gazprom	0	ORGANIZATION
+1.0	Lukashenko	call on	population	PERSON	0
+1.0	gas shortages	have	memories	O	O
+1.0	western government	give	strong backing	0	0
+1.0	1,000	buy from	Russia	0	LOCATION
+1.0	Belarus	will pay	same market price charge to its customer in Europe	LOCATION	LOCATION
+1.0	deal	be	shortly sign	0	0
+1.0	Belarus	be on	Monday	LOCATION	DATE
+1.0	New Year	have	eve	O	DATE
+1.0	Sunday 's deal	come in	wake of hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	world	of	gas	0	0
+1.0	spokesman Sergei Kupriyanov	say at_time	Monday	PERSON	DATE
+1.0	government	give backing to	Ukraine 's president	0	LOCATION
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty on oil export to Belarus	DATE	LOCATION
+1.0	Lukashenko	speak of	blow to we centuries-old friendship	PERSON	0
+1.0	Monday	on counterpart be	Mikhail Fradkov	DATE	PERSON
+1.0	Belarus	will pay	same market price charge in Europe	LOCATION	LOCATION
+1.0	western government	give	diplomatic backing	0	0
+1.0	Belarus	face	gas price hike	LOCATION	0
+1.0	Sunday 's deal	come in	wake of announce hike in duty on oil export	DATE	0
+1.0	Belarus	ally of	Russia	LOCATION	LOCATION
+1.0	government	give backing during	gas row at start of 2006	0	DATE
+1.0	Moscow	be in	the early hour of Monday	LOCATION	DATE
+1.0	Lukashenko	call carefully on	population	PERSON	0
+1.0	gas supplies	have	percent	PERCENT	O
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in early hour	PERSON	DATE
+1.0	belarussian side	be in	difficult atmosphere on eve of New year	0	DATE
+1.0	government	give	diplomatic backing	0	0
+1.0	New Year 's	in	address	DATE	0
+1.0	2006	have	start	DATE	DATE
+1.0	Gazprom	state for	past year	ORGANIZATION	DATE
+1.0	Belarus	have agree to	delivery to western Europe	LOCATION	LOCATION
+1.0	push	have	part	O	O
+1.0	President Alexander Lukashenko	warn in	New Year 's address	PERSON	DATE
+1.0	negotiation	be with	Gazprom	0	ORGANIZATION
+1.0	Lukashenko	have say only at_time	Friday	PERSON	DATE
+0.9652381129169338	Belarus	ally of	Russia	LOCATION	LOCATION
+1.0	concern	be in	European Union	0	ORGANIZATION
+1.0	Belarus	have	territory	O	LOCATION
+1.0	Sunday	have	deal	O	DATE
+1.0	Soviet Union	have	collapse	O	LOCATION
+1.0	political pariah	be in	Europe	0	LOCATION
+1.0	memory	cause by	dispute	0	0
+1.0	Belarus	will pay	market price charge by Gazprom	LOCATION	ORGANIZATION
+1.0	Sunday 's deal	come in	wake of announce hike in duty on oil export to Belarus	DATE	LOCATION
+1.0	belarussian President Alexander Lukashenko	warn in	New Year 's address	PERSON	DATE
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty on oil export	DATE	DATE
+1.0	Belarus	will pay	market price charge to its customer	LOCATION	0
+1.0	his	have	disappointment	O	O
+1.0	Belarus	will pay	same market price charge by Gazprom	LOCATION	ORGANIZATION
+1.0	its	have	exports	O	O
+1.0	announce hike	be in	russian duty on oil export to Belarus	0	LOCATION
+0.5690959631539401	Gazprom	deliver to	Germany	0	LOCATION
+1.0	1,000	short seek by	gas monopoly Gazprom	0	ORGANIZATION
+1.0	Sunday 's deal	mark	end of era of cheap energy supplies	DATE	0
+1.0	Ukraine	have	president	O	LOCATION
+1.0	the gas price	pay for	russian gas	0	0
+1.0	Belarus	will pay	market price	LOCATION	0
+1.0	our	have	friends	O	O
+1.0	friends	have	authorities	O	O
+1.0	government	give	strong backing	0	0
+1.0	Sunday 's deal	mark	end of era	DATE	0
+1.0	Gazprom	state consistently for	past year	ORGANIZATION	DATE
+1.0	Gazprom	have mount	tough campaign	ORGANIZATION	0
+1.0	Sergei Sidorsky	be	belarussian	PERSON	0
+1.0	Lukashenko	call on	population to budget	PERSON	0
+1.0	this	have cause	concern	0	0
+1.0	western government	give	backing	0	0
+1.0	Belarussian President Alexander Lukashenko	announce	contract	0	0
+1.0	western government	give backing to	Viktor Yushchenko	0	PERSON
+1.0	Belarussian President Alexander Lukashenko	announce	Sidorsky	0	PERSON
+1.0	country	accept	gas supply deal	0	0
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in hour of Monday	PERSON	LOCATION
+1.0	government	give backing to	Ukraine 's pro-western president	0	LOCATION
+1.0	Belarus	will pay	same market price charge	LOCATION	0
+1.0	Sunday 's deal	come in	wake of recently announce hike	DATE	DATE
+0.5082213320114719	Belarus	increase	it have pay	LOCATION	0
+1.0	western government	give backing to	Ukraine 's pro-western president	0	LOCATION
+1.0	Ukraine	's president be	Viktor Yushchenko	LOCATION	PERSON
+1.0	January	have	had	O	DATE
+1.0	deal	be	sign	0	0
+1.0	Sunday 's deal	come in	wake of recently announce hike in russian duty	DATE	DATE
+1.0	Lukashenko	speak of	blow to we friendship	PERSON	0
+0.9652381129169338	Belarus	traditional ally of	Russia	LOCATION	LOCATION
+1.0	Belarus	will pay	market price charge	LOCATION	0
+1.0	New Year	have	address	O	DATE
+1.0	Gazprom	end soviet-era subsidy to	country	ORGANIZATION	0
+1.0	spokesman Sergei Kupriyanov	say on	Echo Moscow radio	PERSON	LOCATION
+1.0	soviet-era subsidy	expand	ownership	0	0
+1.0	Monday	have	hours	DATE	DATE
+1.0	Sunday 's deal	come in	wake of hike in russian duty on oil export	DATE	0
+1.0	Belarussian President Alexander Lukashenko	announce	new contract	0	0
+1.0	Sunday 's deal	come in	wake of hike in duty on oil export	DATE	0
+1.0	Belarus	will pay	market price charge to its customer in Europe	LOCATION	LOCATION
+1.0	western government	give backing to	Ukraine 's president	0	LOCATION
+1.0	belarussian President Alexander Lukashenko	meanwhile warn in	tense New Year 's address	PERSON	DATE
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in early hour of Monday	PERSON	DATE
+1.0	country	accept gas supply deal at	price	0	0
+1.0	hike	have	wake	O	O
+1.0	price	have	doubling	O	O
+1.0	belarussian President Alexander Lukashenko	meanwhile warn in	New Year 's address	PERSON	DATE
+1.0	customers	have	Most	O	O
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in hour	PERSON	LOCATION
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in early hour	PERSON	DATE
+1.0	its	have	territory	O	O
+1.0	Belarus	will pay	market price charge by Gazprom in Europe	LOCATION	ORGANIZATION
+1.0	Belarus	will pay	same market price	LOCATION	0
+1.0	Belarus	will pay	same market price charge by Gazprom to its customer in Europe	LOCATION	ORGANIZATION
+1.0	1,000	seek by	gas monopoly Gazprom	0	ORGANIZATION
+1.0	Belarus	will pay	same market price charge by Gazprom in Europe	LOCATION	ORGANIZATION
+1.0	Belarus	will pay	same market price charge to its customer	LOCATION	0
+1.0	Gazprom	have	gas supplies	O	O
+1.0	Lukashenko	speak in	apparent reference	PERSON	0
+1.0	Lukashenko	speak in	apparent reference to Russia	PERSON	LOCATION
+1.0	Sunday 's deal	come in	wake of announce hike	DATE	0
+1.0	Belarus	will pay	market price charge by Gazprom to its customer	LOCATION	ORGANIZATION
+1.0	Ukraine	to	pro-western president	LOCATION	0
+1.0	Sunday 's deal	come in	wake of hike in russian duty	DATE	0
+1.0	Prime Minister Sergei Sidorsky	speak to	journalist in Moscow	PERSON	LOCATION
+1.0	country	accept	new gas supply deal	0	0
+1.0	Belarus	face	steep gas price hike	LOCATION	0
+1.0	our	have	colleagues	O	O
+1.0	Alexei Miller	be ceo of	Gazprom	PERSON	ORGANIZATION
+1.0	soviet-era subsidy	expand	ownership of infrastructure energy business	0	0
+1.0	Belarus	will pay	same market price charge by Gazprom to its customer	LOCATION	ORGANIZATION
+1.0	government	give backing during	gas row	0	0
+1.0	President Alexander Lukashenko	meanwhile warn in	tense New Year 's address	PERSON	DATE
+1.0	country	accept gas supply deal at	higher price	0	0
+1.0	President Alexander Lukashenko	warn in	tense New Year 's address	PERSON	DATE
+1.0	Sunday 's deal	come in	wake of hike	DATE	0
+1.0	our	have	friendship	O	O
+1.0	western government	give	strong diplomatic backing	0	0
+1.0	Belarus	will pay	market price charge by Gazprom to its customer in Europe	LOCATION	ORGANIZATION
+1.0	Lukashenko	have say at_time	Friday	PERSON	DATE
+1.0	midnight New Year	have	Eve deadline	O	TIME
+1.0	Sunday 's deal	come in	wake of recently announce hike in duty on oil export	DATE	DATE
+1.0	Belarus	will pay	market price charge in Europe	LOCATION	LOCATION
+1.0	government	give	backing	0	0
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty on oil export	DATE	0
+1.0	Lukashenko	call more carefully on	population to budget	PERSON	0
+1.0	1,000	seek by	russian gas monopoly Gazprom	0	ORGANIZATION
+1.0	Sunday 's deal	come in	wake	DATE	0
+1.0	Sunday 's deal	come in	wake of announce hike in duty	DATE	0
+1.0	country	have	conditions	O	O
+1.0	Sunday 's deal	mark	end of era of energy supplies	DATE	0
+1.0	Belarus	be from	Russia	LOCATION	LOCATION
+1.0	Gazprom	end	soviet-era subsidy	ORGANIZATION	0
+1.0	he	counterpart	Mikhail Fradkov	0	PERSON
+1.0	government	give	strong diplomatic backing	0	0
+1.0	blow	have	spoke	O	O
+1.0	authorities	have	some	O	O
+1.0	revive memory	cause by	dispute Ukraine	0	LOCATION
+1.0	infrastructure other energy businesses	have	ownership	O	O
+1.0	belarussian Prime Minister Sergei Sidorsky	speak to	journalist in Moscow in hour of Monday	PERSON	LOCATION
+1.0	Sunday	have	deal	DATE	0
+1.0	his	have	counterpart	O	O
+1.0	western government	give backing during	gas row at start of 2006	0	DATE
+1.0	Gazprom	be by	russian	ORGANIZATION	0
+1.0	soviet-era subsidy	expand ownership throughout	Europe	0	LOCATION
+0.5082213320114719	Belarus	substantial increase	it have pay until now	LOCATION	DATE
+1.0	2011	have	customers	O	O
+1.0	1,000	have pay until	now	0	DATE
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty	DATE	0
+1.0	energy supplies	have	era	O	O
+0.5082213320114719	Belarus	increase	it have pay until now	LOCATION	DATE
+1.0	Sunday 's deal	mark	end	DATE	0
+1.0	Sunday 's deal	come in	wake of hike in russian duty on oil export to Belarus	DATE	LOCATION
+1.0	Alexander Lukashenko	be	belarussian	PERSON	0
+1.0	Gazprom	end soviet-era subsidy to	neighbor country	ORGANIZATION	0
+1.0	world	have	gas	O	O
+1.0	journalist	be in	Moscow	0	LOCATION
+1.0	year	have	end	O	DURATION
+1.0	western government	give backing during	gas row	0	0
+1.0	Gazprom	have mount	campaign	ORGANIZATION	0
+1.0	Sunday 's deal	come in	wake of hike in duty	DATE	0
+1.0	Sunday 's deal	come in	wake of announce hike in russian duty on oil export to Belarus	DATE	LOCATION
+1.0	years	have	each	O	DATE

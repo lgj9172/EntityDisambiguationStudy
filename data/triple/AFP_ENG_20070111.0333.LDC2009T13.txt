@@ -1,0 +1,73 @@
+1.0	senator	be elect in	1974	0	DATE
+1.0	Dennis Kucinich	be	Ohio	PERSON	LOCATION
+1.0	senior democratic leader	be in	Senate	0	ORGANIZATION
+1.0	senator	be	elect to Congress in 1974	0	DATE
+1.0	Barack Obama	be senator of	Illinois	PERSON	LOCATION
+1.0	her	have	candidacy	O	O
+1.0	senior US senator	announce at_time	Thursday	LOCATION	DATE
+1.0	Connecticut	be	Chris Dodd	LOCATION	PERSON
+0.8330613623558839	Chris Dodd	senior democratic leader in	Senate	PERSON	ORGANIZATION
+1.0	senator	be first elect in	1974	0	DATE
+1.0	US senator	join	field of likely challenger	LOCATION	0
+1.0	Chris Dodd	leader in	Senate	PERSON	ORGANIZATION
+1.0	senator	be first elect to	Congress	0	ORGANIZATION
+1.0	favorite	remain	New York Senator	0	LOCATION
+1.0	Chris Dodd	run for	democratic nomination in 2008 presidential election	0	DATE
+1.0	62-year-old senator	be elect to	Congress	DURATION	ORGANIZATION
+1.0	Chris Dodd	run for	nomination in 2008 presidential election	0	DATE
+1.0	senior US senator	join	grow field	LOCATION	0
+0.8330613623558839	Chris Dodd	senior leader in	Senate	PERSON	ORGANIZATION
+0.8330613623558839	Chris Dodd	leader in	Senate	PERSON	ORGANIZATION
+1.0	senator	be	first elect to Congress in 1974	0	ORDINAL
+1.0	Senate	be in	1980	ORGANIZATION	DATE
+1.0	senior US senator	join	grow field of likely challenger	LOCATION	0
+1.0	senior US senator	join	field	LOCATION	0
+1.0	Chris Dodd	run for	democratic nomination	0	0
+1.0	Joseph Biden	be	Delaware	PERSON	LOCATION
+1.0	62-year-old senator	be elect in	1974	DURATION	DATE
+1.0	62-year-old senator	be	elect	DURATION	0
+1.0	senator	serve	six year in House of Representatives	0	ORGANIZATION
+1.0	Dodd	join	field of candidate	PERSON	0
+1.0	senator	be	first elect	0	ORDINAL
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	democratic nomination	be in	2008 presidential election	0	DATE
+1.0	challengers	have	field	O	O
+1.0	senator	serve	six year in House	0	ORGANIZATION
+1.0	six year	be in	House of Representatives	DURATION	ORGANIZATION
+1.0	Chris Dodd	have	announcement	O	O
+1.0	senator	serve	six year	0	DURATION
+1.0	62-year-old senator	be	first elect to Congress in 1974	DURATION	ORDINAL
+1.0	Dodd	join	field of declare candidate include former senator John Edwards	PERSON	PERSON
+1.0	His	have	press spokeswoman	O	O
+1.0	US senator	join	grow field of likely challenger	LOCATION	0
+0.5425682436898807	join	field of	likely challenger	0	0
+1.0	US senator	join	grow field	LOCATION	0
+1.0	Joseph Biden	be senator of	Delaware	PERSON	LOCATION
+1.0	Tom Vilsack	be governor of	Iowa	PERSON	LOCATION
+1.0	Hillary Clinton	be	first	PERSON	ORDINAL
+1.0	party	have	darling	O	O
+1.0	candidates	have	field	O	O
+1.0	Dodd	join	field	PERSON	0
+1.0	US senator	announce at_time	Thursday	LOCATION	DATE
+1.0	Barack Obama	be	Illinois	PERSON	LOCATION
+1.0	62-year-old senator	be first elect in	1974	DURATION	DATE
+1.0	Dodd	join	field of declare candidate	PERSON	0
+1.0	US senator	join	field	LOCATION	0
+1.0	62-year-old senator	serve	six year	DURATION	DURATION
+1.0	62-year-old senator	be first elect to	Congress	DURATION	ORGANIZATION
+1.0	62-year-old senator	serve	six year in House	DURATION	ORGANIZATION
+1.0	senator	be elect to	Congress	0	ORGANIZATION
+1.0	62-year-old senator	be	elect to Congress in 1974	DURATION	DATE
+1.0	Chris Dodd	run for	nomination	0	0
+1.0	62-year-old senator	be	first elect	DURATION	ORDINAL
+1.0	62-year-old senator	serve	six year in House of Representatives	DURATION	ORGANIZATION
+1.0	Chris Dodd	run for	nomination in 2008 election	0	DATE
+0.5425682436898807	join	grow field of	likely challenger	0	0
+1.0	Dennis Kucinich	be representative of	Ohio	PERSON	LOCATION
+1.0	Chris Dodd	make	he announcement	PERSON	0
+1.0	Dodd	join	field of candidate include former senator John Edwards	PERSON	PERSON
+1.0	Tom Vilsack	be	Iowa	PERSON	LOCATION
+0.8330613623558839	Chris Dodd	democratic leader in	Senate	PERSON	ORGANIZATION
+1.0	senator	be	elect	0	0
+1.0	senior US senator	join	field of likely challenger	LOCATION	0
+1.0	Chris Dodd	run for	democratic nomination in 2008 election	0	DATE

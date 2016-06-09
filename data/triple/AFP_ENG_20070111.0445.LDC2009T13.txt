@@ -1,0 +1,75 @@
+1.0	area	likely	attack	0	0
+1.0	cluster munitions	have	use	O	O
+1.0	obligation	have	party	O	O
+1.0	war	be in	July	0	DATE
+1.0	Israel 's extensive use	continue	press concern	LOCATION	0
+1.0	hezbollah	target	some its rocket	0	0
+1.0	their	have	conflict	O	O
+1.0	them	have	many	O	O
+1.0	IDF 's bombardment	have	devastating consequence for civilian	ORGANIZATION	0
+1.0	deaths	have	majority	O	O
+1.0	rockets	have	thousands	O	O
+1.0	war	have	laws	O	O
+1.0	the war	have	rockets	O	O
+1.0	hostilities	have	conduct	O	O
+1.0	Human Rights Watch	say in	its report	ORGANIZATION	0
+1.0	Israel 's extensive use	be	press concern	LOCATION	0
+1.0	Israel 's extensive use	continue	concern	LOCATION	0
+1.0	such attack	violate	law	0	0
+1.0	deaths	have	proportion	O	O
+1.0	The Israeli army	have	report	O	O
+1.0	Israel 's extensive use	also continue	concern	LOCATION	0
+1.0	rockets	have	many	O	O
+1.0	Israel	blanket	much of southern Lebanon	LOCATION	DURATION
+1.0	Israel	have	extensive use of cluster munitions	LOCATION	0
+1.0	IDF 's indiscriminate bombardment	have	consequence for civilian	ORGANIZATION	0
+1.0	Israel 's extensive use	also continue	press concern	LOCATION	0
+1.0	Israel 's extensive use	be	concern	LOCATION	0
+1.0	Israel 's use	continue	press concern	LOCATION	0
+1.0	such attack	violate	law of war	0	0
+1.0	civilian death	be in	war	0	0
+1.0	Israel 's use	also continue	press concern	LOCATION	0
+1.0	The Israeli army	have	conduct	O	O
+1.0	attack	violate	law of war	0	0
+1.0	idf	give advance warning for	civilian	0	0
+1.0	civilians	have	majority	O	O
+1.0	IDF 's indiscriminate bombardment	have	devastating consequence	ORGANIZATION	0
+1.0	idf	be in	certain case	0	0
+1.0	many people in southern Lebanon	have	homes	O	O
+1.0	area	be	attack	0	0
+1.0	people	have remain in	they home	0	0
+1.0	Israel	blanket	much of Lebanon	LOCATION	LOCATION
+1.0	Lebanon	have	Hezbollah militant group	LOCATION	ORGANIZATION
+0.9097048879855505	advance warning	idf in	case	0	0
+1.0	Israel 's use	also continue	concern	LOCATION	0
+1.0	IDF	have	bombardment	O	ORGANIZATION
+1.0	Israel 's use	be	press concern	LOCATION	0
+1.0	IDF	have	indiscriminate bombardment	ORGANIZATION	0
+1.0	Lebanon 's	have	much	O	LOCATION
+1.0	IDF 's indiscriminate bombardment	have	consequence	ORGANIZATION	0
+1.0	Israel 's use	continue	concern	LOCATION	0
+1.0	submunition	be in	the last three day	0	DURATION
+1.0	Human Rights Watch	say in	its report release	ORGANIZATION	0
+1.0	hezbollah	target	some	0	0
+1.0	rockets	have	some	O	O
+1.0	Israel 's use	be	concern	LOCATION	0
+1.0	Human Rights Watch	say in	its annual report	ORGANIZATION	SET
+1.0	Lebanon	have	Hezbollah group	O	LOCATION
+1.0	Israel	blanket	much	LOCATION	0
+1.0	IDF 's bombardment	have	consequence	ORGANIZATION	0
+1.0	attack	violate	law	0	0
+1.0	IDF 's indiscriminate bombardment	have	devastating consequence for civilian	ORGANIZATION	0
+1.0	use	be	press	0	0
+1.0	its	have	rockets	O	O
+1.0	hezbollah	target	some of its rocket	0	0
+1.0	many people	have remain in	they home	0	0
+1.0	the IDF in certain cases	have	obligation	O	O
+0.9097048879855505	advance warning	idf in	certain case	0	0
+1.0	IDF 's bombardment	have	consequence for civilian	ORGANIZATION	0
+1.0	many people	be in	Lebanon	0	LOCATION
+1.0	idf	evacuate	area likely	0	0
+1.0	IDF 's bombardment	have	devastating consequence	ORGANIZATION	0
+1.0	Israel	have	use	O	LOCATION
+1.0	idf	give	advance warning	0	0
+1.0	submunitions	have	percent	PERCENT	O
+1.0	case	hit	they	0	0

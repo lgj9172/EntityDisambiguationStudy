@@ -1,0 +1,166 @@
+1.0	Smith	hit	low catch	PERSON	0
+1.0	day	have	strike	O	DATE
+1.0	Kumble	steadily have	Smith catch at short midwicket	PERSON	PERSON
+0.9445219455178006	equal	record for	bowler in series	0	0
+1.0	it	be	Sreesanth 's wicket in three match	0	NUMBER
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series against South Africa	ORDINAL	LOCATION
+1.0	he	lose	patience	0	0
+1.0	Kumble	have	Smith catch at midwicket	PERSON	PERSON
+1.0	Kumble	steadily have	Smith catch at midwicket	PERSON	PERSON
+0.47937962732886696	key south african wicket	fall on	third day of third test	0	DATE
+0.47937962732886696	key south african wicket	fall on	day	0	DATE
+1.0	Smith	seem	set	PERSON	0
+1.0	three key south african wicket	fall tea on	third day of third test	NUMBER	DATE
+1.0	Smith	whip ball through	midwicket	PERSON	0
+1.0	Sreesanth 's 18th wicket	be in	three match	ORDINAL	NUMBER
+1.0	Kumble	have	Smith catch by diving sehwag at midwicket	PERSON	PERSON
+1.0	Shanthakumaran Sreesanth	come on	on bowl	0	0
+1.0	Kumble	have	Smith catch at short midwicket	PERSON	PERSON
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series against South Africa	PERSON	LOCATION
+1.0	three key south african wicket	fall	tea	NUMBER	0
+1.0	Sreesanth	have	wicket	O	PERSON
+1.0	his	have	bat	O	O
+1.0	Sreesanth 's wicket	equal	record for indian bowler in series	PERSON	0
+1.0	Shanthakumaran Sreesanth	come on	on bowl of he first spell of day	0	ORDINAL
+0.47937962732886696	three key south african wicket	fall on	day of third test	NUMBER	DATE
+1.0	key south african wicket	fall tea on	day of third test	0	DATE
+1.0	Sreesanth 's 18th wicket	equal	record	ORDINAL	0
+1.0	India	behind	first innings total of 414	LOCATION	ORDINAL
+1.0	Prince -LRB- 26 -RRB-	have	Test century	DATE	O
+1.0	Smith	go off	Zaheer Khan	PERSON	PERSON
+0.47937962732886696	key south african wicket	fall on	third day	0	DATE
+1.0	key south african wicket	fall tea on	third day of third test	0	DATE
+1.0	Smith	whip	ball	PERSON	0
+1.0	Shanthakumaran Sreesanth	immediately find	immaculate line	0	0
+1.0	three key south african wicket	fall	before tea	NUMBER	0
+1.0	Smith	go into	ninety	PERSON	0
+1.0	India	have	second double strike of day	LOCATION	ORDINAL
+1.0	Sreesanth 's wicket	equal	record	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for bowler	PERSON	0
+1.0	three key south african wicket	fall tea on	day of test	NUMBER	DATE
+1.0	Smith	go with	successive on-drive for four	PERSON	NUMBER
+1.0	three key south african wicket	fall tea on	third day of test	NUMBER	DATE
+1.0	Virender Sehwag	strike blow to	South Africa 's hope	PERSON	LOCATION
+1.0	it	be	India 's second double strike	0	ORDINAL
+1.0	it	be	India 's double strike	0	LOCATION
+1.0	day	have	spell	O	DATE
+0.9445219455178006	equal	record for	bowler	0	0
+1.0	key south african wicket	fall tea on	day of test	0	DATE
+0.47937962732886696	three key south african wicket	fall at	Newlands Thursday	NUMBER	DATE
+1.0	Kallis	regain	Prince	PERSON	PERSON
+1.0	India	have	innings total	O	LOCATION
+1.0	Kumble	have	Smith catch by diving sehwag at short midwicket	PERSON	PERSON
+1.0	Kallis	have put for	wicket	PERSON	0
+1.0	it	be	India 's second strike of day	0	ORDINAL
+1.0	indian bowler	be in	series against South Africa	0	LOCATION
+1.0	veteran leg-spinner Kumble	bowl	Ashwell Prince	PERSON	PERSON
+1.0	Amla	edge	catch	PERSON	0
+1.0	balls	have	made	O	O
+1.0	Test	have	day	DATE	O
+1.0	India	have	strike	O	LOCATION
+0.47937962732886696	key south african wicket	fall on	day of third test	0	DATE
+1.0	South Africa	to	hope	LOCATION	0
+0.47937962732886696	key south african wicket	fall on	third day of test	0	DATE
+1.0	his	have	thigh pad	O	O
+1.0	Kumble	steadily have	Smith catch by diving sehwag	PERSON	PERSON
+1.0	India	have	persistence with old ball	LOCATION	0
+1.0	Kallis	dig	Prince	PERSON	PERSON
+1.0	Kumble	steadily have	Smith	PERSON	PERSON
+1.0	Smith	hit catch to	Sehwag	PERSON	0
+1.0	Shanthakumaran Sreesanth	immediately find	line	0	0
+1.0	it	be	India 's strike	0	LOCATION
+1.0	his	have	runs	O	O
+1.0	Kallis	have put for	fourth wicket	PERSON	ORDINAL
+1.0	key south african wicket	fall tea on	day	0	DATE
+1.0	Sreesanth 's 18th wicket	equal	record for bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for bowler in series against South Africa	PERSON	LOCATION
+1.0	Ashwell Prince	be in	next over off-spinner	PERSON	0
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series against South Africa	ORDINAL	LOCATION
+1.0	South Africa	resume on	144	LOCATION	NUMBER
+1.0	India 's persistence	be with	old ball	LOCATION	0
+1.0	key south african wicket	fall	before tea	0	0
+1.0	Kumble	have	Smith catch by diving sehwag	PERSON	PERSON
+1.0	three key south african wicket	fall tea on	day	NUMBER	DATE
+1.0	three key south african wicket	fall tea on	day of third test	NUMBER	DATE
+1.0	Virender Sehwag	strike	third blow	PERSON	ORDINAL
+1.0	Kallis	slowly regain	Prince	PERSON	PERSON
+0.9445219455178006	equal	record for	indian bowler	0	0
+1.0	it	be	Sreesanth 's wicket	0	PERSON
+0.9705646580934503	Smith	catch at	midwicket	PERSON	0
+1.0	key south african wicket	fall tea on	third day of test	0	DATE
+1.0	spell	have	bowl	O	O
+1.0	Kallis	be in	uncharacteristic fashion	PERSON	0
+1.0	it	be	India 's double strike of day	0	LOCATION
+1.0	three key south african wicket	fall tea on	third day	NUMBER	DATE
+1.0	Kallis	be in	out uncharacteristic fashion	PERSON	0
+1.0	it	be	Sreesanth 's 18th wicket in three match	0	NUMBER
+1.0	South African captain Graeme Smith	have	delivery	O	O
+0.9445219455178006	equal	record for	bowler in series against South Africa	0	LOCATION
+1.0	South Africa	have	hopes	O	LOCATION
+1.0	414	have	innings total	O	NUMBER
+1.0	Sreesanth 's 18th wicket	equal	record for bowler	ORDINAL	0
+1.0	key south african wicket	fall tea on	third day	0	DATE
+1.0	Kallis -LRB- 54 -RRB-	have make	careful 54	PERSON	NUMBER
+1.0	South Africa	resume with	Smith	LOCATION	PERSON
+1.0	key south african wicket	fall tea at	Newlands Thursday	0	DATE
+0.47937962732886696	key south african wicket	fall on	day of test	0	DATE
+1.0	Gibbs	be	unlucky	PERSON	0
+1.0	Shanthakumaran Sreesanth	come on	on bowl of he spell	0	0
+0.47937962732886696	three key south african wicket	fall on	third day of test	NUMBER	DATE
+1.0	it	be	India 's second double strike of day	0	ORDINAL
+1.0	South African captain Graeme Smith	have	stumps	O	O
+1.0	thigh pad	have	leg fielder Wasim Jaffer	PERSON	O
+1.0	Kumble	have	Smith	PERSON	PERSON
+1.0	it	be	India 's second strike	0	ORDINAL
+1.0	South Africa	resume for	one	LOCATION	NUMBER
+0.9705646580934503	Smith	catch by	diving sehwag	PERSON	0
+0.9445219455178006	equal	record for	indian bowler in series	0	0
+0.47937962732886696	three key south african wicket	fall on	day	NUMBER	DATE
+1.0	key south african wicket	fall	tea	0	0
+1.0	delivery	have	pitch	O	O
+1.0	ball	go to	leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler in series	ORDINAL	0
+1.0	Sreesanth 's wicket	equal	record for indian bowler	PERSON	0
+1.0	Sreesanth 's wicket	equal	record for bowler in series	PERSON	0
+0.9705646580934503	Smith	catch at	short midwicket	PERSON	0
+0.47937962732886696	key south african wicket	fall at	Newlands Thursday	0	DATE
+1.0	Virender Sehwag	strike	blow	PERSON	0
+1.0	three key south african wicket	fall tea at	Newlands Thursday	NUMBER	DATE
+1.0	ball	miss	he bat	0	0
+1.0	Amla	edge catch to	wicketkeeper Dinesh Karthik	PERSON	PERSON
+1.0	Shanthakumaran Sreesanth	come on	on bowl of he first spell	0	ORDINAL
+1.0	Zaheer Khan	have	went	O	PERSON
+1.0	Smith	go with	on-drive	PERSON	0
+1.0	his	have	spell	O	O
+1.0	Kumble	steadily have	Smith catch by diving sehwag at midwicket	PERSON	PERSON
+1.0	it	be	Sreesanth 's 18th wicket	0	ORDINAL
+1.0	Kallis	put	Prince	PERSON	PERSON
+1.0	Sreesanth 's 18th wicket	equal	record for indian bowler	ORDINAL	0
+0.9445219455178006	equal	record for	indian bowler in series against South Africa	0	LOCATION
+1.0	Shanthakumaran Sreesanth	find	immaculate line	0	0
+1.0	India	have	persistence	O	LOCATION
+0.47937962732886696	three key south african wicket	fall on	third day	NUMBER	DATE
+1.0	Sachin Tendulkar	make	breakthrough	PERSON	0
+1.0	Kallis	have put on	83	PERSON	NUMBER
+1.0	deliveries	have	making	O	O
+1.0	Kumble	steadily have	Smith catch by diving sehwag at short midwicket	PERSON	PERSON
+0.47937962732886696	three key south african wicket	fall on	day of test	NUMBER	DATE
+1.0	Kallis	be in	fashion	PERSON	0
+1.0	ball	go to	short leg fielder Wasim Jaffer off he thigh pad	0	PERSON
+1.0	Smith	go with	successive on-drive	PERSON	0
+1.0	Shanthakumaran Sreesanth	come on	on bowl of he spell of day	0	DATE
+1.0	Kumble	steadily have	Smith catch	PERSON	PERSON
+1.0	Shanthakumaran Sreesanth	find	line	0	0
+1.0	Amla	try	square	PERSON	0
+1.0	ball	go to	short leg fielder Wasim Jaffer	0	PERSON
+1.0	slow bowler	be in	action	0	0
+1.0	Smith	hit	catch	PERSON	0
+1.0	Kallis	be in	out fashion	PERSON	0
+0.47937962732886696	three key south african wicket	fall on	third day of third test	NUMBER	DATE
+1.0	Sreesanth	have	18th wicket in three match equal	PERSON	NUMBER
+1.0	Kumble	have	Smith catch	PERSON	PERSON
+1.0	Smith	go with	on-drive for four	PERSON	NUMBER
+1.0	Sachin Tendulkar	make	key breakthrough	PERSON	0
+1.0	it	be	India 's strike of day	0	LOCATION
+1.0	foot	have	playing	O	O
+1.0	ball	go to	leg fielder Wasim Jaffer	0	PERSON

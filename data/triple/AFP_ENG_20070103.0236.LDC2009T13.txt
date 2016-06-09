@@ -1,0 +1,65 @@
+1.0	death penalty	have	abolition	O	O
+1.0	hunger strike	have	week	DATE	O
+1.0	the universal abolition of the death penalty	have	partners	O	O
+1.0	Radical Party	have	head	O	ORGANIZATION
+1.0	ministry spokesman	ask about	italian drive	0	0
+1.0	5,186	be sentence to	death in 2005 mainly in China	NUMBER	LOCATION
+1.0	China	use	United States	LOCATION	LOCATION
+1.0	Rome	propose	resolution against punishment	LOCATION	0
+1.0	France	have	position	LOCATION	0
+0.9786909127589855	second week	head of	Italy 's Radical Party	DATE	LOCATION
+1.0	France	have	position	O	LOCATION
+1.0	China	use	death penalty	LOCATION	0
+0.9786909127589855	week	head of	Italy 's libertarian Radical Party	DATE	LOCATION
+1.0	Council	urge	Rome	ORGANIZATION	LOCATION
+1.0	foreign ministry spokesman	ask about	drive	0	0
+0.7794608935848149	Marco Pannella	second week of	hunger strike	PERSON	0
+1.0	5,186	be sentence to	death mainly in China	NUMBER	LOCATION
+1.0	death	be in	China	0	LOCATION
+1.0	5,186	be sentence to	death in China	NUMBER	LOCATION
+1.0	ministry spokesman	ask about	drive	0	0
+0.6991077084294731	Marco Pannella 76	head of	Italy 's libertarian Radical Party	NUMBER	LOCATION
+1.0	5,186	be sentence to	death	NUMBER	0
+1.0	China	use death penalty of	five member	LOCATION	NUMBER
+1.0	France	push for	ban on death penalty	LOCATION	0
+1.0	Italy	have	Radical Party	ORGANIZATION	LOCATION
+1.0	Rome	propose	resolution	LOCATION	0
+1.0	Radical Party	be	Marco Pannella	ORGANIZATION	PERSON
+0.7794608935848149	Marco Pannella 76	second week of	hunger strike	NUMBER	0
+1.0	Rome	propose	resolution against capital punishment	LOCATION	0
+1.0	France	say	push	LOCATION	0
+1.0	China	use widely	death penalty	LOCATION	0
+1.0	Italy	of	Radical Party	LOCATION	ORGANIZATION
+1.0	China	use death penalty widely of	five permanent member	LOCATION	NUMBER
+1.0	death	be in	2005	0	DATE
+1.0	leader Saddam Hussein	have	execution	O	PERSON
+1.0	five	have	up made	O	NUMBER
+1.0	UN Security Council	have	efforts	O	ORGANIZATION
+0.9786909127589855	second week	head of	Italy 's libertarian Radical Party	DATE	LOCATION
+1.0	Rome	propose resolution before	UN security	LOCATION	ORGANIZATION
+0.6991077084294731	Marco Pannella 76	head of	Italy 's Radical Party	NUMBER	LOCATION
+1.0	France	say	push for worldwide ban on death penalty	LOCATION	0
+1.0	foreign ministry spokesman	ask about	italian drive	0	0
+1.0	France	push for	ban	LOCATION	0
+1.0	Italy	have	efforts	O	LOCATION
+1.0	members	have	use	O	O
+1.0	France	say	push for ban on death penalty	LOCATION	0
+1.0	France	say	push for ban	LOCATION	0
+1.0	members	have	up made	O	O
+1.0	China	use widely	United States	LOCATION	LOCATION
+0.9786909127589855	week	head of	Italy 's Radical Party	DATE	LOCATION
+0.7794608935848149	Marco Pannella	week of	hunger strike	PERSON	0
+1.0	Saddam Hussein	be of	iraqi	PERSON	0
+1.0	France	say on	Wednesday	LOCATION	DATE
+1.0	5,186	be sentence to	death in 2005	NUMBER	DATE
+1.0	government	say on	Monday	0	DATE
+0.6991077084294731	Marco Pannella	head of	Italy 's Radical Party	PERSON	LOCATION
+1.0	China	use death penalty of	five permanent member	LOCATION	NUMBER
+1.0	France	say	push for worldwide ban	LOCATION	0
+1.0	France	push for	worldwide ban on death penalty	LOCATION	0
+1.0	China	use death penalty widely of	five member	LOCATION	NUMBER
+1.0	France	push for	worldwide ban	LOCATION	0
+0.7794608935848149	Marco Pannella 76	week of	hunger strike	NUMBER	0
+1.0	italian government	say on	Monday	0	DATE
+0.6991077084294731	Marco Pannella	head of	Italy 's libertarian Radical Party	PERSON	LOCATION
+1.0	5,186	be sentence to	death in 2005 in China	NUMBER	LOCATION

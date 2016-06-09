@@ -1,0 +1,82 @@
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator	PERSON	NUMBER
+1.0	Austria 's new coalition government	be inaugurate after	102 day	LOCATION	DURATION
+1.0	Social Democrats	win	October ahead of conservative	MISC	DATE
+1.0	Austria 's new coalition government	be	inaugurate	LOCATION	0
+1.0	Schuessel 's newly-formed government	have in	2000	PERSON	DATE
+1.0	Schuessel 's government	avoid	10,000 demonstrator protest against presence in coalition	PERSON	NUMBER
+1.0	Schuessel 's newly-formed government	use	underground passage	PERSON	0
+1.0	far-right	have	Party	ORGANIZATION	O
+1.0	Schuessel 's government	have in	2000	PERSON	DATE
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator protest against presence in coalition of Joerg Haider 's far-right Freedom Party	PERSON	ORGANIZATION
+1.0	Alfred Gusenbauer	be under	Social Democrat	PERSON	MISC
+1.0	Austria	have	new coalition government of right	LOCATION	0
+1.0	Social Democrat Chancellor Alfred Gusenbauer	keep	363 euro fee	PERSON	MONEY
+1.0	President Heinz Fischer	sign	government contract	PERSON	0
+1.0	election	be in	October	0	DATE
+1.0	Social Democrats	win	October of conservative with campaign pledge	MISC	DATE
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator protest against presence in coalition of Joerg Haider 's Freedom Party	PERSON	ORGANIZATION
+1.0	it	succeed	coalition	0	0
+1.0	Schuessel 's government	avoid	10,000 demonstrator protest against presence	PERSON	NUMBER
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator protest against presence	PERSON	NUMBER
+1.0	Social Democrats	narrowly win	October of conservative	MISC	DATE
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator protest	PERSON	NUMBER
+1.0	Schuessel 's newly-formed government	use passage into	Hofburg	PERSON	LOCATION
+1.0	President Heinz Fischer	sign	Social Democrat Chancellor Alfred Gusenbauer	PERSON	PERSON
+1.0	Austria 's coalition government	be	inaugurate	LOCATION	0
+1.0	Schuessel 's government	avoid	10,000 demonstrator	PERSON	NUMBER
+1.0	Social Democrats	win	October ahead of conservative with campaign pledge	MISC	DATE
+1.0	Austria 's new coalition government	be inaugurate at_time	Thursday	LOCATION	DATE
+1.0	Social Democrats	win	October 1 election ahead of conservative with campaign pledge	MISC	DATE
+1.0	Schuessel 's newly-formed government	use	passage	PERSON	0
+1.0	Social Democrats	win	October	MISC	DATE
+1.0	presence	be in	coalition of Joerg Haider 's far-right Freedom Party	0	ORGANIZATION
+1.0	Social Democrat Chancellor Alfred Gusenbauer	have	colleagues	O	O
+1.0	President Heinz Fischer	greet	chancellor	PERSON	0
+1.0	The cabinet	have	way	O	O
+1.0	conservative	be with	campaign pledge	0	0
+1.0	Social Democrats	narrowly win	October 1 election ahead of conservative	MISC	DATE
+1.0	Schuessel 's government	avoid	10,000 demonstrator protest against presence in coalition of Joerg Haider 's Freedom Party	PERSON	ORGANIZATION
+1.0	Austria 's coalition government	be inaugurate after	102 day	LOCATION	DURATION
+1.0	Social Democrats	narrowly win	October 1 election ahead of conservative with campaign pledge	MISC	DATE
+1.0	Schuessel 's government	use	underground passage	PERSON	0
+1.0	Social Democrats	win	October 1 election ahead of conservative	MISC	DATE
+1.0	Austria 's new coalition government	be	inaugurate Thursday 102 day after	LOCATION	DATE
+1.0	Schuessel 's newly-formed government	avoid	10,000 demonstrator protest against presence in coalition	PERSON	NUMBER
+1.0	Schuessel 's government	avoid	10,000 demonstrator protest against presence in coalition of Joerg Haider 's far-right Freedom Party	PERSON	ORGANIZATION
+1.0	Social Democrat Chancellor Alfred Gusenbauer	agree	he colleague	PERSON	0
+1.0	Social Democrats	narrowly win	October	MISC	DATE
+1.0	left	have	coalition government	O	O
+1.0	Vienna	have	Hofburg Imperial Palace	ORGANIZATION	LOCATION
+1.0	Austria 's coalition government	be inaugurate at_time	Thursday	LOCATION	DATE
+1.0	chancellor Wolfgang Schuessel	have	Party	ORGANIZATION	PERSON
+1.0	Socialists	have	dismay	O	O
+1.0	Joerg Haider	have	Freedom Party	ORGANIZATION	PERSON
+1.0	President Heinz Fischer	greet	new chancellor	PERSON	0
+1.0	student organisations	have	dismay	O	O
+1.0	Vienna	at	Hofburg Imperial Palace	LOCATION	ORGANIZATION
+1.0	Social Democrats	win	October of conservative	MISC	DATE
+1.0	tuition fee	drop	contract	0	0
+1.0	Social Democrats	narrowly win	October of conservative with campaign pledge	MISC	DATE
+1.0	Schuessel 's government	use	passage	PERSON	0
+1.0	Joerg Haider	of	Freedom Party	PERSON	ORGANIZATION
+1.0	conservatives	have	October	DATE	O
+1.0	cabinet	have make	its way	0	0
+1.0	Social Democrats	narrowly win	October ahead of conservative with campaign pledge	MISC	DATE
+1.0	Austria	have	coalition government	O	LOCATION
+1.0	Freedom Party	have	coalition	O	ORGANIZATION
+1.0	Schuessel 's government	use passage into	Hofburg	PERSON	LOCATION
+1.0	Schuessel	have	government	O	PERSON
+1.0	Social Democrats	narrowly win	October ahead of conservative	MISC	DATE
+1.0	people 's Party	be of	Wolfgang Schuessel	ORGANIZATION	PERSON
+1.0	it	succeed	oft-disputed coalition	0	0
+1.0	Social Democrats	scrap	tuition fee	MISC	0
+1.0	Austria 's coalition government	be	inaugurate Thursday 102 day after	LOCATION	DATE
+1.0	cabinet	have earlier make	its way	0	0
+1.0	People	have	Party	ORGANIZATION	ORGANIZATION
+1.0	right	have	coalition government	O	O
+1.0	egg	have	cases	O	O
+1.0	President Heinz Fischer	have	ministers	O	O
+1.0	Schuessel 's government	avoid	10,000 demonstrator protest	PERSON	NUMBER
+1.0	Social Democrat Chancellor Alfred Gusenbauer	keep	363 euro fee per semester	PERSON	MONEY
+1.0	Social Democrat Chancellor Alfred Gusenbauer	keep	he colleague	PERSON	0
+1.0	Schuessel	have	newly-formed government	PERSON	0

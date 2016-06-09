@@ -1,0 +1,31 @@
+1.0	majdic	finish of	ahead Norway 's Kristin Stormer Steira	0	PERSON
+1.0	Norway	of	Kristin Stormer Steira	LOCATION	PERSON
+1.0	Norway 's	have	Marit Bjoergen	PERSON	LOCATION
+1.0	women	have	country race	O	O
+1.0	freestyle sprint	be in	Italy	0	LOCATION
+1.0	Norway	have	Kristin Stormer Steira	PERSON	LOCATION
+1.0	leader	be in	Tour de Ski	MISC	MISC
+1.0	Czech Katerina Neumannova	have	Marit Bjoergen	PERSON	PERSON
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km cross country race	LOCATION	NUMBER
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km classic-style country race	LOCATION	NUMBER
+1.0	Slovenia	have	Petra Majdic	LOCATION	PERSON
+1.0	28 minute 44.8 seconds	sec of	Kristin Stormer Steira	DURATION	LOCATION
+1.0	Wednesday	leg of	Tour de Ski	DATE	MISC
+1.0	Kristin Stormer Steira	have	sec	DURATION	LOCATION
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km country race	LOCATION	NUMBER
+1.0	Virpi Kuitunen	be of	Finland	PERSON	LOCATION
+1.0	Slovenia	have	Petra Majdic	PERSON	LOCATION
+1.0	kuitunen	with seconds be	27.2 sec	0	DURATION
+1.0	Katerina Neumannova	be	Czech	PERSON	MISC
+1.0	Marit Bjoergen	be of	Norway 's	PERSON	LOCATION
+1.0	it	be	surprise	0	0
+1.0	Kristin Stormer Steira	have	finished	O	PERSON
+1.0	Slovenia 's Petra Majdic	win	woman 's 10km classic-style cross country race	LOCATION	NUMBER
+1.0	28 minute 44.8 seconds	be with	kuitunen	DURATION	0
+1.0	Virpi Kuitunen of Finland	be	the World Cup	PERSON	MISC
+1.0	Tour Ski	have	leg	O	MISC
+1.0	majdic	finish of	Norway 's Kristin Stormer Steira	0	PERSON
+1.0	woman	have	10km classic-style cross country race	0	NUMBER
+1.0	Finland	have	Virpi Kuitunen	PERSON	LOCATION
+1.0	slovenian	finish in	28 minute	0	DURATION
+1.0	a rest day	have	resumption	O	O

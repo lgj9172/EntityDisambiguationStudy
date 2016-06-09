@@ -1,0 +1,25 @@
+1.0	blast	go inside	off bus travel from town to capital Colombo	0	LOCATION
+1.0	blast	go inside	off bus travel from town of Matara to capital Colombo	0	LOCATION
+1.0	blast	go inside	bus	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	blast	go inside	bus travel from town of Matara to capital Colombo	0	LOCATION
+1.0	attack	be	similar	0	0
+1.0	attack	be	similar to bus blast Friday	0	DATE
+1.0	blast	go inside	off bus travel from town	0	0
+1.0	blast	go inside	off bus travel to capital Colombo	0	LOCATION
+1.0	blast	go inside	bus travel	0	0
+1.0	blast	go inside	off bus travel from town of Matara	0	LOCATION
+1.0	blast	go inside	bus travel from town	0	0
+1.0	Matara	have	town	O	LOCATION
+1.0	blast	go inside	bus travel to capital Colombo	0	LOCATION
+1.0	attack	be similar to	bus blast	0	0
+1.0	passenger	be	kill	0	0
+1.0	blast	go inside	bus travel from town of Matara	0	LOCATION
+1.0	passenger	be	when kill	0	0
+1.0	blast	go inside	bus travel from town to capital Colombo	0	LOCATION
+1.0	six passenger	be	kill	NUMBER	0
+1.0	blast	go inside	off bus	0	0
+1.0	blast	go inside	off bus travel	0	0
+1.0	six passenger	be	when kill	NUMBER	0
+1.0	attack	be similar at_time	Friday	0	DATE
+1.0	kilometres	have	distance	O	O

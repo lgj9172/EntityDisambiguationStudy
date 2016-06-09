@@ -1,0 +1,63 @@
+1.0	other journalist	be	hold	0	0
+1.0	Tharrawady prison	north of	Yangon	LOCATION	LOCATION
+1.0	Win Hlaing	be arrest aung san suu kyi in	June 2000	PERSON	DATE
+1.0	NLD	have	leader	O	ORGANIZATION
+1.0	amnesty	announce by	government	0	0
+1.0	amnesty	announce by	military government	0	0
+1.0	those	free from	prison	0	0
+1.0	Aung San Suu Kyi	be	Nobel	LOCATION	MISC
+1.0	Nobel peace laureate Aung San Suu Kyi	have	have keep	LOCATION	0
+1.0	military	have rule	formerly burma	0	0
+1.0	Myanmar	have	prisons	O	LOCATION
+1.0	Win Hlaing 48	sentence to	seven year	PERSON	DURATION
+1.0	he	be	jail	0	0
+1.0	information	send	he finding	0	0
+1.0	Win Hlaing 48	be arrest	Aung San Suu Kyi	PERSON	PERSON
+1.0	five other journalist	still be hold in	Myanmar	0	LOCATION
+1.0	amnesty	have	part	O	O
+1.0	Nobel peace laureate Aung San Suu Kyi	have	have keep under house arrest	LOCATION	0
+1.0	journalist	be	free	0	0
+1.0	Win Hlaing	be arrest	Aung San Suu Kyi	PERSON	PERSON
+1.0	Win Hlaing 48	sentence to	seven year in prison	PERSON	DURATION
+1.0	his	have	findings	O	O
+1.0	five other journalist	be	hold	0	0
+1.0	seven year	be in	prison	DURATION	0
+1.0	conscience	have	prisoners	O	O
+1.0	amnesty	announce at_time	Wednesday	0	DATE
+1.0	Myanmar	be since	1962	LOCATION	DATE
+1.0	Aung San Suu Kyi	have	father	O	O
+1.0	other journalist	be hold in	Myanmar	0	LOCATION
+1.0	Myanmar	under	Emergency Act	LOCATION	MISC
+1.0	Win Hlaing	sentence to	seven year	PERSON	DURATION
+1.0	military	have rule	burma	0	0
+1.0	Yangon	have	north	O	LOCATION
+1.0	Myanmar	in	prison	LOCATION	0
+1.0	condition	be in	Myanmar 's prison	0	LOCATION
+1.0	other journalist	still be hold in	Myanmar	0	LOCATION
+1.0	prisoners	have	release	O	O
+1.0	Win Hlaing	be	48	PERSON	NUMBER
+1.0	prisoners of conscience	have	appeal	O	O
+1.0	Myanmar	have	Emergency Act	MISC	LOCATION
+1.0	NLD	about	detain leader	ORGANIZATION	0
+1.0	Her	have	NLD party	O	O
+1.0	five other journalist	be hold in	Myanmar	0	LOCATION
+1.0	Nyein Thit	have	pen name Nyein Thit	PERSON	O
+1.0	press rights group	say at_time	Friday	0	DATE
+1.0	than Win Hlaing	be in	prison	PERSON	0
+1.0	National League	say about	political detainee	ORGANIZATION	0
+1.0	information	send overseas	he finding	0	0
+1.0	she	father	Aung San	0	PERSON
+1.0	years	have	10	NUMBER	DURATION
+1.0	burma Media Association	say in	statement	ORGANIZATION	0
+1.0	Win Hlaing	sentence to	seven year in prison	PERSON	DURATION
+1.0	1962	since myanmar be	burma	DATE	0
+1.0	National League for Democracy	for league be	the NLD 's	ORGANIZATION	ORGANIZATION
+1.0	Win Hlaing 48	be arrest aung san suu kyi in	June 2000	PERSON	DATE
+1.0	five other journalist	be	still hold	0	0
+1.0	condition	be	notoriously grim	0	0
+1.0	military	have rule	Myanmar since 1962	0	DATE
+1.0	National League	say about	50 political detainee	ORGANIZATION	NUMBER
+1.0	condition	be	grim	0	0
+1.0	military	have rule	Myanmar	0	LOCATION
+1.0	those	free from	prison country	0	0
+1.0	other journalist	be	still hold	0	0

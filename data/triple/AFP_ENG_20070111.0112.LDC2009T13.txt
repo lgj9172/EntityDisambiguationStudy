@@ -1,0 +1,74 @@
+1.0	squadron	arrive at	167 mile	0	NUMBER
+1.0	foreign ministry official	say at_time	last week	DURATION	DATE
+1.0	General B.B. Bell	warn in	future follow its test	PERSON	DATE
+1.0	deployment	demonstrate	US commitment	0	LOCATION
+1.0	North	have	program	O	O
+1.0	General B.B. Bell	warn in	future follow its first test on October 9	PERSON	ORDINAL
+1.0	General B.B. Bell	warn at_time	time	PERSON	0
+1.0	F-117 Nighthawk Stealth fighters	have	squadron	O	O
+1.0	latest round	end without	breakthrough	0	0
+1.0	General B.B. Bell	warn in	future	PERSON	DATE
+1.0	General B.B. Bell	warn of	North Korea 's second test	PERSON	LOCATION
+1.0	29,000 US troops	support	South Korea 's armed force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	korean ministry official	say at_time	last week	DURATION	DATE
+1.0	29,000 US troops	support	South Korea 's 680,000-strong force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	US troops	support	South Korea 's 680,000-strong force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	General B.B. Bell	warn of	North Korea 's second nuclear test	PERSON	LOCATION
+1.0	US troops	support	South Korea 's force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	squadron	arrive for	training deployment	0	0
+1.0	latest round	end in	December	0	DATE
+1.0	North Korea	of	second nuclear test	LOCATION	ORDINAL
+1.0	29,000 US troops	support	South Korea 's 680,000-strong armed force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	south korean ministry official	say at_time	week	DURATION	DATE
+1.0	29,000 US troops	support	South Korea 's force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	ministry official	say at_time	last week	DURATION	DATE
+1.0	US forces	have	commander	O	O
+1.0	test	have	site	O	O
+1.0	aircraft	have	number	O	O
+1.0	US troops	support	South Korea 's armed force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	korean foreign ministry official	say at_time	last week	DURATION	DATE
+1.0	29,000 US troops	support	South Korea 's armed force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	korean foreign ministry official	say at_time	week	DURATION	DATE
+1.0	US troops	support	South Korea 's force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	foreign ministry official	say at_time	week	DURATION	DATE
+1.0	round	end in	December	0	DATE
+1.0	B.B. Bell	commander of	US force in South Korea	PERSON	LOCATION
+1.0	deployment	demonstrate	continued US commitment	0	LOCATION
+1.0	squadron	arrive at	Gunsan	0	LOCATION
+1.0	29,000 US troops	support	South Korea 's 680,000-strong armed force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	North Korea	have	test	O	LOCATION
+1.0	south korean ministry official	say at_time	last week	DURATION	DATE
+1.0	test	have	warned	O	O
+1.0	preparations	have	sign	O	O
+1.0	General B.B. Bell	warn in	future follow its first test	PERSON	ORDINAL
+1.0	korean ministry official	say at_time	week	DURATION	DATE
+1.0	South Korea	have	forces	O	LOCATION
+1.0	Tuesday	on bell be	commander of US force in South Korea	DATE	LOCATION
+1.0	US troops	support	South Korea 's 680,000-strong armed force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	North	have	nuclear program	0	0
+1.0	squadron	arrive at	270 kilometer	0	NUMBER
+1.0	squadron	arrive for	routine training deployment	0	0
+1.0	airmen	have	squadron	O	O
+1.0	North	have	military	O	O
+1.0	General B.B. Bell	warn of	North Korea 's test	PERSON	LOCATION
+1.0	US force	be in	South Korea	LOCATION	LOCATION
+1.0	latest round	end in	Beijing	0	LOCATION
+0.633593924617174	squadron	arrive for	training deployment say	0	0
+1.0	round	end without	breakthrough	0	0
+1.0	29,000 US troops	support	South Korea 's 680,000-strong force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	Seoul	have	southwest	O	LOCATION
+1.0	29,000 US troops	support	South Korea 's force against attack from North 's 1.1 million military	LOCATION	LOCATION
+1.0	US troops	support	South Korea 's armed force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	US troops	support	South Korea 's 680,000-strong armed force against attack from 1.1 million military	LOCATION	LOCATION
+1.0	talks	have	round	O	O
+1.0	south korean foreign ministry official	say at_time	week	DURATION	DATE
+1.0	ministry official	say at_time	week	DURATION	DATE
+1.0	south korean foreign ministry official	say at_time	last week	DURATION	DATE
+0.633593924617174	squadron	arrive for	routine training deployment say	0	0
+1.0	General B.B. Bell	warn in	future follow its test on October 9	PERSON	DATE
+1.0	B.B. Bell	be on	Tuesday	PERSON	DATE
+1.0	round	end in	Beijing	0	LOCATION
+1.0	South Korea	have	680,000-strong armed force against attack from 1.1 million military	LOCATION	NUMBER
+1.0	General B.B. Bell	warn of	North Korea 's nuclear test	PERSON	LOCATION
+1.0	South Korea	have	test	O	O
+1.0	US troops	support	South Korea 's 680,000-strong force against attack from North 's 1.1 million military	LOCATION	LOCATION

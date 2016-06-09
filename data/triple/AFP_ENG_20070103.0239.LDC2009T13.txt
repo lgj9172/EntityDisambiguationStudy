@@ -1,0 +1,27 @@
+1.0	Niedermittlauer Heiligenkopf	be in	district of Gelnhausen	LOCATION	LOCATION
+1.0	exact location	be	nine degree	0	DURATION
+1.0	France	's institute be	IGN	LOCATION	0
+1.0	previous centre	be	about two degree west	0	NUMBER
+1.0	the new 27-nation European Union	have	centre	O	ORGANIZATION
+1.0	previous centre	be	west	0	0
+1.0	hill	be in	Germany	0	LOCATION
+1.0	location	be	nine degree latitude north	0	DURATION
+1.0	centre	be	about two degree west	0	NUMBER
+1.0	centre	be	further west	0	0
+1.0	previous centre	be	about two degree further west	0	NUMBER
+1.0	European Union	have	centre	O	ORGANIZATION
+1.0	Coblenz	have	Rhineland city	O	LOCATION
+1.0	France 's National Geographical Institute	say on	Wednesday	ORGANIZATION	DATE
+1.0	centre	be	about two degree further west	0	NUMBER
+1.0	location	be	nine degree	0	DURATION
+1.0	Dierdorf	have	town	O	LOCATION
+1.0	Bulgaria	have	admission	O	LOCATION
+1.0	centre	be	west	0	0
+1.0	exact location	be	nine degree north	0	DURATION
+1.0	location	be	nine degree north	0	DURATION
+1.0	previous centre	be	further west	0	0
+1.0	Romania	have	admission	O	LOCATION
+1.0	France	have	National Geographical Institute	LOCATION	ORGANIZATION
+1.0	France	have	National Geographical Institute	ORGANIZATION	LOCATION
+1.0	exact location	be	nine degree latitude north	0	DURATION
+1.0	Gelnhausen	have	district	O	LOCATION

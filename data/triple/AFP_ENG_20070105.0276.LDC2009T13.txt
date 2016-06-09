@@ -1,0 +1,35 @@
+1.0	world	have	automaker	O	O
+1.0	GM 's production	look	likely	ORGANIZATION	0
+1.0	GM	have	production	ORGANIZATION	0
+1.0	GM 's production	look like	its Detroit rival	ORGANIZATION	LOCATION
+1.0	American International Auto Show	have	press opening	O	ORGANIZATION
+1.0	its	have	Detroit rival	O	O
+1.0	Japan	by	Toyota	LOCATION	0
+1.0	the GM chairman and chief executive	be go	fight	0	0
+1.0	thousand	shutter	plant	0	0
+1.0	press opening	have	Speaking	O	O
+1.0	Ford	be rival of	Detroit	ORGANIZATION	LOCATION
+1.0	GM 's production	look like	Ford	ORGANIZATION	ORGANIZATION
+1.0	General Motors boss Rick Wagoner	be	number one	0	NUMBER
+1.0	Japan	have	Toyota	O	LOCATION
+1.0	GM	have	production	O	ORGANIZATION
+1.0	North Carolina	have	Duke University	ORGANIZATION	LOCATION
+1.0	GM chairman	say	chief executive	ORGANIZATION	0
+1.0	General Motors boss Rick Wagoner	like	number one	0	NUMBER
+1.0	GM chairman	speak ahead	executive	ORGANIZATION	0
+1.0	GM chairman	speak	executive	ORGANIZATION	0
+1.0	GM chairman	speak	chief executive	ORGANIZATION	0
+1.0	the US company	have	position	O	O
+1.0	its	rival	Ford	0	ORGANIZATION
+1.0	pride	be in	number one	0	0
+1.0	Rick Wagoner	be	General Motors	PERSON	ORGANIZATION
+1.0	the GM chairman and chief executive	have	people	O	O
+1.0	this weekend	of	press opening of north American International Auto Show	DATE	ORGANIZATION
+1.0	workers	have	thousands	O	O
+1.0	threat	have	aware	O	O
+1.0	GM chairman	say	executive	ORGANIZATION	0
+1.0	weekend	have	press opening	O	DATE
+1.0	GM chairman	speak ahead	chief executive	ORGANIZATION	0
+1.0	Rick Wagoner	be boss of	General Motors	PERSON	ORGANIZATION
+1.0	Toyota	say at_time	last month	ORGANIZATION	DATE
+1.0	Toyota	say at_time	month	ORGANIZATION	DATE

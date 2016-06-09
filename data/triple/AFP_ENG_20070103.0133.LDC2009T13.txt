@@ -1,0 +1,57 @@
+1.0	drop	follow	loss	0	0
+1.0	stock market	nosedive	record 15 percent	0	PERCENT
+1.0	growth	have	risk	O	O
+1.0	Thai baht	hold firm to	dollar	MISC	0
+1.0	depose premier	blame attack from	southern Thailand	0	LOCATION
+1.0	premier	blame attack from	Thailand	0	LOCATION
+1.0	Thai baht	hold	firm	MISC	0
+1.0	depose premier	blame attack on	insurgent	0	0
+1.0	latest drop	follow	loss	0	0
+1.0	Thailand	have	largest energy firm	LOCATION	0
+1.0	depose premier	have deny	involvement	0	0
+1.0	PTT	have	subsidiary PTT Exploration	O	O
+1.0	premier	blame	attack	0	0
+1.0	Thailand	have	energy firm	O	LOCATION
+1.0	premier	blame attack on	islamic insurgent	0	0
+1.0	junta	blame	politician	0	0
+1.0	depose premier	blame attack from	Thailand	0	LOCATION
+1.0	baht	have	sharp gain	0	0
+1.0	deadly bomb blast	be in	Bangkok	0	LOCATION
+1.0	premier	blame attack on	insurgent	0	0
+1.0	flag carrier Thai Airways International	lose	3.50	ORGANIZATION	NUMBER
+1.0	drop	follow	massive loss	0	0
+1.0	New Year	have	Eve blasts	O	DATE
+1.0	Thailand	have	mobile phone operator	LOCATION	0
+1.0	depose premier	blame attack on	islamic insurgent	0	0
+1.0	Thailand	of	capital control measure	LOCATION	0
+1.0	authority	quickly reverse	measure	0	0
+1.0	authority	reverse	measure aim	0	0
+1.0	latest drop	follow loss in	mid-december	0	0
+1.0	shares	have	turnover	O	O
+1.0	Thailand	have	capital control measures	O	LOCATION
+1.0	junta	blame	military-backed government	0	0
+1.0	Thaksin Shinawatra	have	government	O	PERSON
+1.0	capital control measures	have	Bank	ORGANIZATION	O
+1.0	drop	follow loss in	mid-december	0	0
+1.0	Thai baht	finish at	47.45-85	MISC	NUMBER
+1.0	authority	quickly reverse	measure aim	0	0
+1.0	Thailand	's operator be	Advanced Info Service	LOCATION	ORGANIZATION
+1.0	premier	have deny	involvement	0	0
+1.0	premier	blame attack from	southern Thailand	0	LOCATION
+1.0	Thailand	have	Stock Exchange	ORGANIZATION	ORGANIZATION
+1.0	SET 50 index	drop	14.28 point	NUMBER	NUMBER
+1.0	depose premier	blame	attack	0	0
+1.0	Thailand	have	phone operator	O	LOCATION
+1.0	authority	reverse	measure	0	0
+1.0	Thai baht	finish to	euro from Friday 's 47.37-60	MISC	DATE
+1.0	junta	blame politician for	blast	0	0
+1.0	latest drop	follow	massive loss	0	0
+1.0	Kanang Duangmanee	economist at	Kasikorn Research Center	PERSON	ORGANIZATION
+1.0	bluechip SET 50 index	drop	14.28 point	NUMBER	NUMBER
+1.0	Thai baht	finish to	euro	MISC	0
+1.0	junta	blame	government	0	0
+1.0	business	have	day	DURATION	O
+1.0	baht	have	gains	O	O
+1.0	Thai stock market	have	percent	PERCENT	O
+1.0	SET index	drop	14.28 point	0	NUMBER
+1.0	bluechip SET index	drop	14.28 point	0	NUMBER

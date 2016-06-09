@@ -1,0 +1,8 @@
+1.0	Hong Kong gold price	close up at	641.30-641 .80 US dollar	LOCATION	MONEY
+1.0	Hong Kong gold price	close at_time	Wednesday	LOCATION	DATE
+1.0	Hong Kong gold price	close at	641.30-641 .80 US dollar	LOCATION	MONEY
+1.0	dollars	have	close	O	MONEY
+1.0	Hong Kong gold price	close up at_time	Wednesday	LOCATION	DATE
+1.0	it	open at	640.30-640 .80 dollar	0	MONEY
+1.0	Tuesday	from	close of 640.50-641 .00 dollar	DATE	MONEY
+1.0	Tuesday	have	close	O	DATE

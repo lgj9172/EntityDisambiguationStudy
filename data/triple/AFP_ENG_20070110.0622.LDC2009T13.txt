@@ -1,0 +1,30 @@
+1.0	America	have	commitment	O	LOCATION
+1.0	George W. Bush	say in	excerpt of he speech release by White House	PERSON	ORGANIZATION
+1.0	the support of the American people ''	do	more	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	bluntly warn	iraqi government	LOCATION	0
+1.0	the Iraqi government	will lose	support of iraqi people	0	0
+1.0	increase	be in	US troops	0	LOCATION
+1.0	US President George W. Bush	warn government at_time	Wednesday	LOCATION	DATE
+1.0	US President George W. Bush	warn	iraqi government	LOCATION	0
+1.0	the Iraqi government	will lose	support	0	0
+1.0	speech	have	excerpts	O	O
+1.0	America	have	commitment	LOCATION	0
+1.0	the Iraqi government	have	promises	O	O
+1.0	George W. Bush	say in	excerpt of he speech	PERSON	0
+1.0	George W. Bush	say in	excerpt	PERSON	0
+1.0	US President George W. Bush	bluntly warn government at_time	Wednesday	LOCATION	DATE
+1.0	George W. Bush	say in	excerpt of he speech release	PERSON	0
+0.6617117035432797	the Iraqi government	support of	iraqi people	0	0
+1.0	George W. Bush	have	speech	O	O
+1.0	US President George W. Bush	warn	government	LOCATION	0
+1.0	the Iraqi government	will lose	support of people	0	0
+1.0	the support of the American people ''	lose	support of people	0	0
+1.0	the support of the American people ''	lose	support of american people	0	0
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	Iraq	have	leaders	O	LOCATION
+1.0	the support of the American people ''	lose	support	0	0
+0.6617117035432797	the Iraqi government	support of	people	0	0
+1.0	Iraq	have	other leader	LOCATION	0
+1.0	US President George W. Bush	bluntly warn	government	LOCATION	0
+1.0	people	have	support	O	O

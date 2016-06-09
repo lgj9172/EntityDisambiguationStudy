@@ -1,0 +1,33 @@
+1.0	man	be	arrest in case in Kauhava in South	0	LOCATION
+1.0	man	be arrest in	case	0	0
+1.0	case	be in	Kauhava	0	LOCATION
+1.0	man	be arrest in	South	0	LOCATION
+1.0	three people	die of	alcohol poisoning in Finland	0	LOCATION
+1.0	man	be	arrest	0	0
+1.0	three people	be	believe	0	0
+1.0	people	die of	alcohol poisoning	0	0
+1.0	alcohol	be	poison	0	0
+1.0	case	be	be investigate	0	0
+1.0	man	will	will arraign on Friday	0	DATE
+1.0	poisoning	have	deaths	O	O
+1.0	three people	be believe	have die	0	0
+1.0	Police	decline	say	0	0
+1.0	man	be	arrest in case in South	0	LOCATION
+1.0	people	be believe	have die of alcohol poisoning	0	0
+1.0	alcohol	be	deliberately poison	0	0
+1.0	people	die of	alcohol poisoning in Finland	0	LOCATION
+1.0	man	be arrest in	case in Kauhava	0	LOCATION
+1.0	one man	be	arrest	0	0
+1.0	man	will	will arraign	0	0
+1.0	arrest man	will	will arraign on Friday	0	DATE
+1.0	three people	be believe	have die of alcohol poisoning	0	0
+1.0	case	be	be investigate as crime	0	0
+1.0	alcohol poisoning	have	died	O	O
+1.0	alcohol poisoning	be in	Finland	0	LOCATION
+1.0	three people	be believe	have die of alcohol poisoning in Finland	0	LOCATION
+1.0	people	be	believe	0	0
+1.0	Finland	have	Ostrobothnia region	O	LOCATION
+1.0	three people	die of	alcohol poisoning	0	0
+1.0	people	be believe	have die	0	0
+1.0	arrest man	will	will arraign	0	0
+1.0	people	be believe	have die of alcohol poisoning in Finland	0	LOCATION

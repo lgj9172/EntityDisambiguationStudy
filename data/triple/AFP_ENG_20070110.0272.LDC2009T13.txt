@@ -1,0 +1,46 @@
+1.0	Taliban insurgents	have	crossborder movement	O	O
+1.0	Foreign Minister Rangeen Dadfar Spanta 's letter	stop	crossborder movement of Taliban insurgent	PERSON	ORGANIZATION
+1.0	Shaukat Aziz	be prime minister of	Pakistan	PERSON	LOCATION
+1.0	gap	be	grow	0	0
+1.0	Foreign Minister Rangeen Dadfar Spanta 's	repeat	concern raise	0	0
+1.0	Karzai	discuss plan among	islamic neighbour	PERSON	0
+1.0	United Nations	have also express	concern about plan	ORGANIZATION	0
+1.0	Pakistan 's	have	Foreign Minister Khurshid Kasuri	PERSON	LOCATION
+1.0	United Nations	be in	Afghanistan	ORGANIZATION	LOCATION
+1.0	casualties	have	number	O	O
+1.0	government	have	decision	O	O
+1.0	Pakistan	about	plan	LOCATION	0
+1.0	he	tell	reporter	0	0
+1.0	country	would look at	option	0	0
+1.0	Afghan government	have	concerns	O	O
+0.7163547904497114	concern	raise by	President Hamid Karzai	0	PERSON
+1.0	terrorists	have	centres	O	O
+0.06141471494456796	Karzai	call at_time	week	PERSON	DATE
+1.0	ministry	say at_time	Wednesday	0	DATE
+1.0	United Nations	have express	concern about plan	ORGANIZATION	0
+1.0	Foreign Minister Rangeen Dadfar Spanta 's letter	be	intend	PERSON	0
+1.0	Karzai	call pakistan prime minister shaukat aziz at_time	week	PERSON	DATE
+1.0	territory	have	part	O	O
+0.06141471494456796	Karzai	call at_time	last week	PERSON	DATE
+1.0	Karzai	call	Pakistan Prime Minister Shaukat Aziz	PERSON	PERSON
+1.0	Foreign Minister Rangeen Dadfar Spanta 's	repeat	concern raise by President Hamid Karzai	0	PERSON
+1.0	their	have	border	O	O
+1.0	Khurshid Kasuri	be foreign minister of	Pakistan 's	PERSON	LOCATION
+1.0	Karzai	call	Pakistan Prime Minister Shaukat Aziz to capital	PERSON	PERSON
+1.0	United Nations	lead	Pakistan 's Foreign Minister Khurshid Kasuri	ORGANIZATION	PERSON
+1.0	Pakistan 's	have	government	O	LOCATION
+1.0	Rangeen Dadfar Spanta	have	letter to UN secretary	PERSON	ORGANIZATION
+1.0	United Nations	have also express	concern	ORGANIZATION	0
+1.0	Pakistan	have	plan	O	LOCATION
+1.0	Foreign Minister Rangeen Dadfar Spanta 's	repeat	concern	0	0
+1.0	Karzai	discuss plan among	neighbour	PERSON	0
+1.0	Pakistan 's	have	Khurshid Kasuri	LOCATION	PERSON
+1.0	its	have	territory	O	O
+1.0	Karzai	discuss	plan	PERSON	0
+1.0	Foreign Minister Rangeen Dadfar Spanta 's letter	stop	crossborder movement	PERSON	0
+1.0	United Nations	have express	concern	ORGANIZATION	0
+1.0	country	would look at	other option	0	0
+1.0	Shaukat Aziz	be	Pakistan	PERSON	LOCATION
+1.0	UN Security Council	have	members	O	ORGANIZATION
+1.0	Foreign Minister Rangeen Dadfar Spanta	have	letter	O	PERSON
+1.0	Karzai	call pakistan prime minister shaukat aziz at_time	last week	PERSON	DATE

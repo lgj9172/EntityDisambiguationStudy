@@ -1,0 +1,33 @@
+1.0	Michael Rees	pay	fine for careless conviction	PERSON	0
+1.0	person	have	right	O	O
+1.0	it	still go	be cause	0	0
+1.0	Britain	have	Press Association news agency	O	LOCATION
+1.0	Michael Rees	try with	40-pound-a-month instalment	PERSON	0
+1.0	Michael Rees	pay	fine for careless drive conviction	PERSON	0
+1.0	person	have	right pay in denomination	0	0
+1.0	Unemployed Rees	have	debt	O	O
+1.0	Michael Rees	pay	fine	PERSON	0
+1.0	wheelbarrow-loads of pennies	have	chute	O	O
+1.0	Michael Rees	try with	instalment	PERSON	0
+1.0	Unemployed Rees	agree at_time	Wednesday	PERSON	DATE
+1.0	it	cause	they problem	0	0
+1.0	Unemployed Rees	say by	Britain 's Press Association news agency	0	ORGANIZATION
+1.0	Michael Rees	pay	fine for drive conviction	PERSON	0
+1.0	Unemployed Rees	be	quote	0	0
+1.0	it	go	be cause	0	0
+1.0	debt	have	pounds	MONEY	O
+1.0	Britain	have	smallest denomination	LOCATION	0
+1.0	Pontypridd Magistrates Court	be in	south Wales	ORGANIZATION	LOCATION
+1.0	pennies	have	instalments	O	O
+1.0	pence	have	bronze payments	O	MONEY
+1.0	Britain	by	Press Association news agency	LOCATION	ORGANIZATION
+1.0	a court hearing	be	person 's right	0	0
+1.0	Michael Rees	pay	fine for conviction	PERSON	0
+1.0	a court hearing	be	right	0	0
+1.0	Unemployed Rees	agree	finish	PERSON	0
+1.0	Unemployed Rees	de-bag	it all	0	0
+1.0	Unemployed Rees	agree at	court hearing	PERSON	0
+1.0	650-pound court debt	be in	bronze one pence piece	0	MONEY
+1.0	Britain	have	denomination	O	LOCATION
+1.0	Unemployed Rees	chuck	a court hearing	0	0
+1.0	4,000 pennies	have	wheelbarrow-loads	O	O

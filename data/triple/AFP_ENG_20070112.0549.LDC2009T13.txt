@@ -1,0 +1,54 @@
+1.0	he	expect	he profile	0	0
+1.0	a very wise man	be	very wise man	0	0
+1.0	David Beckham	spark	frenzy	PERSON	0
+1.0	expert	have	advice	O	O
+1.0	a very wise man	have	experience	O	O
+1.0	a very wise man	be	man	0	0
+1.0	mine	have	friend	O	O
+1.0	his	have	exploits	O	O
+1.0	David Beckham	have	he experience	0	0
+1.0	a very wise man	be	wise man	0	0
+1.0	window	have	out looked	O	O
+1.0	David Beckham	seek	advice	PERSON	0
+1.0	David Beckham	would ask	a very wise man	0	0
+1.0	David Beckham	spark	frenzy of anticipation	PERSON	ORGANIZATION
+1.0	I	get	people	0	0
+1.0	David Beckham	address los angeles media from	Spain	0	LOCATION
+1.0	I	come about	ago	0	DATE
+1.0	David Beckham	have	contract	O	O
+1.0	David Beckham	mull	move to Hollywood	PERSON	LOCATION
+1.0	a very wise man	be	friend	0	0
+1.0	a very wise man	be	very good friend	0	0
+1.0	Major League Soccer	have	Los Angeles Galaxy	ORGANIZATION	ORGANIZATION
+1.0	David Beckham	say of	cruise	PERSON	0
+1.0	a very wise man	be	prepare for	0	0
+1.0	I	get	few people	0	0
+1.0	world	have	parts	O	O
+1.0	David Beckham	seek	advice of expert	PERSON	0
+1.0	David Beckham	address	Los Angeles media via satellite	0	LOCATION
+1.0	Madrid	expire in	June	ORGANIZATION	DATE
+0.5112253401114825	a very wise man	thing to	David Beckham	0	0
+1.0	David Beckham	join	Los Angeles Galaxy	0	ORGANIZATION
+1.0	his	have	marriage	O	O
+1.0	David Beckham	say on	Friday	PERSON	DATE
+1.0	a very wise man	be good friend of	mine	0	0
+1.0	a very wise man	be	wise	0	0
+1.0	Cruise	have	said	O	O
+1.0	my	have	family	O	O
+1.0	a very wise man	be friend of	mine	0	0
+1.0	David Beckham	mull	move	PERSON	0
+1.0	a very wise man	explain	thing	0	0
+1.0	football fans	have	beloved	O	O
+1.0	anticipation	have	frenzy	O	O
+1.0	a very wise man	be	good	0	0
+1.0	real Madrid	expire in	June	ORGANIZATION	DATE
+1.0	a very wise man	have	advice	O	O
+1.0	I	come about	four year ago	0	DATE
+1.0	house	have	window	O	O
+1.0	a very wise man	be	good friend	0	0
+1.0	he contract	be with	spanish club	0	0
+1.0	David Beckham	have	profile	O	O
+1.0	David Beckham	address	Los Angeles media	0	LOCATION
+1.0	a very wise man	be very good friend of	mine	0	0
+1.0	a very wise man	explain	thing to I	0	0
+1.0	a very wise man	be	prepare	0	0

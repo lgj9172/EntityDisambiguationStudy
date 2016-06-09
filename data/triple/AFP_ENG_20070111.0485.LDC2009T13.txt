@@ -1,0 +1,15 @@
+1.0	CAC 40	end at_time	day	NUMBER	DATE
+0.06221292408889589	CAC	add in	Paris	0	LOCATION
+1.0	CAC 40	end at	5,609.80	NUMBER	NUMBER
+1.0	CAC 40	add	1.96 percent	NUMBER	PERCENT
+1.0	CAC	end at	5,609.80	0	NUMBER
+1.0	stock exchange	advance at_time	Thursday	0	DATE
+1.0	Dax	rise	1.84 percent	MISC	PERCENT
+1.0	european stock exchange	advance at_time	Thursday	0	DATE
+1.0	european stock exchange	advance with	London ftse 100 index	0	LOCATION
+1.0	stock exchange	advance with	London ftse 100 index	0	LOCATION
+1.0	Dax	reach	6,687.30	MISC	NUMBER
+0.28627611980559997	Dax	rise in	Frankfurt	MISC	LOCATION
+1.0	CAC	add	1.96 percent	0	PERCENT
+1.0	CAC	end at_time	day	0	DATE
+0.06221292408889589	CAC 40	add in	Paris	NUMBER	LOCATION

@@ -1,0 +1,33 @@
+1.0	Christian clergyman	even kill to	Al-Qaeda terror network	ORGANIZATION	MISC
+1.0	Lucio Bola	have	home town	O	O
+1.0	priest	have	disappearance	O	O
+1.0	disappearance	have	informed	O	O
+1.0	authority	say at_time	Thursday	0	DATE
+1.0	priest	into	disappearance	0	0
+1.0	priest	have	family	O	O
+1.0	priest	have	family	0	0
+1.0	Christian clergyman	even kill by	muslim extremist	ORGANIZATION	0
+1.0	Mindanao	have	island	O	LOCATION
+1.0	philippine authority	say at_time	Thursday	0	DATE
+1.0	armed band	be with	link	0	0
+1.0	Christian clergyman	kill by	muslim extremist	ORGANIZATION	0
+0.596154814266426	Father Lucio Bola	base in	central Philippines	PERSON	LOCATION
+1.0	Christian clergyman	have	in past have kidnap	ORGANIZATION	DATE
+1.0	Christian clergyman	be in	Philippines	ORGANIZATION	LOCATION
+1.0	archdiocese	have	spokesman	O	O
+1.0	Cagayan de Oro	be	Vicente Emano	LOCATION	PERSON
+1.0	Cagayan Oro	have	mayor	O	LOCATION
+1.0	Abu Sayyaf	band with	link	PERSON	0
+1.0	Monsignor Elmer Abacahin	look for	priest	PERSON	0
+1.0	Bola	have	disappearance	O	PERSON
+1.0	Christian clergyman	kill to	Al-Qaeda terror network	ORGANIZATION	MISC
+1.0	Christian clergyman	have	have kidnap	ORGANIZATION	0
+0.596154814266426	Father Lucio Bola 46	base in	central Philippines	PERSON	LOCATION
+1.0	Lucio Bola	be	46	PERSON	NUMBER
+1.0	Elmer Abacahin	spokesman of	archdiocese	PERSON	0
+1.0	Bola	of	disappearance	PERSON	0
+1.0	Cagayan de Oro	have	archdiocese	O	LOCATION
+1.0	Christian clergyman	kill by	extremist	ORGANIZATION	0
+1.0	Monsignor Elmer Abacahin	also look for	priest	PERSON	0
+1.0	Christian clergyman	even kill by	extremist	ORGANIZATION	0
+1.0	Balingasag	have	home town	O	LOCATION

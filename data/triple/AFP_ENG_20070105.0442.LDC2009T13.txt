@@ -1,0 +1,7 @@
+1.0	shake-up	have	step	O	O
+1.0	Iraq	have	charge	O	LOCATION
+1.0	Command	have	charge	O	ORGANIZATION
+1.0	diplomatic personnel	be in	latest step of shake-up of senior US	0	LOCATION
+1.0	diplomatic personnel	be in	charge of Iraq	0	LOCATION
+1.0	Pentagon	be on	Friday	ORGANIZATION	DATE
+1.0	US	have	shake-up	O	LOCATION

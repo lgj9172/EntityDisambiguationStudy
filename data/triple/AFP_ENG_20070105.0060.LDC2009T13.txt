@@ -1,0 +1,36 @@
+1.0	pilot	have	parachute	0	0
+0.7880482354749734	a very high-risk sport	be	too very high-risk sport	0	0
+1.0	accident	happen in	eastern state	0	0
+1.0	police	say at_time	Friday	0	DATE
+1.0	pilot	have	parachute	O	O
+1.0	enthusiast	be compete about	80	0	NUMBER
+0.7880482354749734	a very high-risk sport	be	too high-risk sport	0	0
+1.0	accident	happen in	state of New South Wales	0	LOCATION
+1.0	world series	have	part	O	O
+1.0	accident	happen during	part of world series	0	0
+0.7880482354749734	a very high-risk sport	be	too sport	0	0
+1.0	accident	happen in	eastern state of New South Wales	0	LOCATION
+1.0	New South Wales	be on	Thursday	LOCATION	DATE
+1.0	The 45-year-old pilot	have	glider	O	O
+1.0	hang-gliding enthusiast	be compete include	57 international pilot	0	NUMBER
+1.0	accident	happen in	state	0	0
+1.0	accident	happen in	state of New South Wales on Thursday	0	LOCATION
+1.0	international competition	be in	Australia	0	LOCATION
+0.7880482354749734	a very high-risk sport	be	very high-risk sport	0	0
+1.0	a very high-risk sport	be	high-risk	0	0
+0.7880482354749734	a very high-risk sport	be	high-risk sport	0	0
+1.0	accident	happen during	part	0	0
+1.0	hang-gliding enthusiast	be compete about	80	0	NUMBER
+1.0	The 45-year-old pilot	have	death	O	O
+1.0	accident	happen in	eastern state of New South Wales on Thursday	0	LOCATION
+1.0	New South Wales	have	state	O	LOCATION
+1.0	Detective Sergeant Steve Howard	tell	reporter	PERSON	0
+1.0	accident	happen during	Forbes Flatlands Championships	0	MISC
+1.0	enthusiast	be compete at	championship	0	0
+1.0	The 45-year-old pilot	have	pod	O	O
+1.0	hang-gliding enthusiast	be compete include	57 pilot	0	NUMBER
+1.0	Forbes Flatlands Championships	part of	world series	MISC	0
+0.7880482354749734	a very high-risk sport	be	sport	0	0
+1.0	enthusiast	be compete include	57 international pilot	0	NUMBER
+1.0	hang-gliding enthusiast	be compete at	championship	0	0
+1.0	enthusiast	be compete include	57 pilot	0	NUMBER

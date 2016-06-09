@@ -1,0 +1,35 @@
+1.0	Assistant coach	be	determine	0	0
+1.0	former nhl defencemen	earn	honour	0	0
+1.0	Carlyle	have	Anaheim duck	PERSON	ORGANIZATION
+1.0	Friday	of	contest	DATE	0
+1.0	their respective teams	have	teams	O	O
+1.0	January	have	games	O	DATE
+1.0	former nhl defencemen	earn honour as	result	0	0
+1.0	61 point	be in	40 game	NUMBER	NUMBER
+1.0	Lindy Ruff	coach respectively	Randy Carlyle	PERSON	PERSON
+1.0	Lindy Ruff	coach on	January 24	PERSON	DATE
+1.0	Lindy Ruff	have as	Buffalo Sabres atop East with .763 percentage	PERSON	ORGANIZATION
+1.0	Lindy Ruff	have as	Buffalo Sabres	PERSON	ORGANIZATION
+1.0	Friday	have	contests	O	DATE
+1.0	Lindy Ruff	coach in	2007 All-Star Game	PERSON	MISC
+1.0	Carlyle	have	Anaheim Ducks	ORGANIZATION	PERSON
+1.0	contests	have	conclusion	O	O
+1.0	Assistant coach	be still	determine	0	0
+1.0	National hockey League	announce at_time	Thursday	ORGANIZATION	DATE
+1.0	East	be with	.763 percentage	0	NUMBER
+1.0	Lindy Ruff will coach	be in	All-Star Game	PERSON	MISC
+1.0	Lindy Ruff	have	Buffalo Sabres	PERSON	ORGANIZATION
+1.0	Lindy Ruff	coach respectively in	2007 All-Star Game	PERSON	MISC
+1.0	team	lead	they conference	0	0
+1.0	Thursday	have	as	O	DATE
+1.0	their respective teams	have	conferences	O	O
+1.0	Lindy Ruff	have as	Buffalo Sabres atop East	PERSON	ORGANIZATION
+1.0	Lindy Ruff	have	Buffalo Sabres atop East	PERSON	ORGANIZATION
+1.0	Lindy Ruff	have	Buffalo Sabres atop East with .763 percentage	PERSON	ORGANIZATION
+1.0	Carlyle 's Anaheim duck	be in	first percent	PERSON	ORDINAL
+1.0	top point percentage	be in	they conference	0	0
+1.0	Carlyle 's Anaheim duck	be in	percent	PERSON	PERCENT
+1.0	team	be	assure	0	0
+1.0	Lindy Ruff	coach	Randy Carlyle	PERSON	PERSON
+1.0	Lindy Ruff	coach respectively on	January 24	PERSON	DATE
+1.0	Both teams	have	conferences	O	O

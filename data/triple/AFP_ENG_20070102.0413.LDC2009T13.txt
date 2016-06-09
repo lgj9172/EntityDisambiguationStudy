@@ -1,0 +1,39 @@
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	fire	team	PERSON	0
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	fire	team coach Pete Rodriguez	PERSON	PERSON
+1.0	Jacksonville	finish in	score	LOCATION	0
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	also fire	special team coach Pete Rodriguez	PERSON	PERSON
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	fire	team	PERSON	0
+1.0	Smith	be	Jaguars ' coordinator	PERSON	ORGANIZATION
+1.0	Smith	be	Jaguars ' offensive coordinator for last two season	PERSON	NUMBER
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	fire	special team	PERSON	0
+1.0	Jacksonville	finish	fifth in conference	LOCATION	ORDINAL
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	be	also fire	PERSON	0
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	also fire	team	PERSON	0
+1.0	Jacksonville Jaguars	sack coordinator carl smith after	two day	ORGANIZATION	DURATION
+0.6313652753558254	23.2 point	start at	quarterback	NUMBER	0
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	be	fire	PERSON	0
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	also fire	team	PERSON	0
+1.0	Jacksonville	finish	fifth in american conference	LOCATION	ORDINAL
+1.0	Jaguars	have	coordinator	O	ORGANIZATION
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	also fire	special team	PERSON	0
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	fire	special team coach Pete Rodriguez	PERSON	PERSON
+1.0	Smith	be	Jaguars ' coordinator for last two season	PERSON	NUMBER
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	fire	special team coach Pete Rodriguez	PERSON	PERSON
+1.0	Jacksonville Jaguars	sack	offensive coordinator Carl Smith	ORGANIZATION	PERSON
+1.0	National Football League season	have	end	O	O
+1.0	Steve Walters	be	Ken Anderson	PERSON	PERSON
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	also fire	team coach Pete Rodriguez	PERSON	PERSON
+1.0	Smith	be	Jaguars ' offensive coordinator for two season	PERSON	NUMBER
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	be	also fire	PERSON	0
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	also fire	special team coach Pete Rodriguez	PERSON	PERSON
+1.0	Jacksonville Jaguars	sack	coordinator Carl Smith	ORGANIZATION	PERSON
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	also fire	team coach Pete Rodriguez	PERSON	PERSON
+1.0	Jacksonville	finish	fifth	LOCATION	ORDINAL
+1.0	Jacksonville Jaguars	sack coordinator carl smith on	Tuesday	ORGANIZATION	DATE
+1.0	Smith	be	Jaguars ' coordinator for two season	PERSON	NUMBER
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	also fire	special team	PERSON	0
+1.0	8-8 season	be with	three straight	0	NUMBER
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	fire	team coach Pete Rodriguez	PERSON	PERSON
+1.0	quarterback coach Ken Anderson receiver coach Steve Walters	be	fire	PERSON	0
+1.0	Smith	be	Jaguars ' offensive coordinator	PERSON	ORGANIZATION
+1.0	quarterback coach Ken Anderson wide receiver coach Steve Walters	fire	special team	PERSON	0

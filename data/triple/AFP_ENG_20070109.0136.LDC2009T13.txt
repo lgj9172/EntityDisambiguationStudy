@@ -1,0 +1,27 @@
+1.0	Francis Obikwelu	be	Portuguese	PERSON	MISC
+1.0	Yelena Isinbayeva	be of	Russia	PERSON	LOCATION
+1.0	discus thrower	have	finished	O	O
+1.0	Virgilijus Alekna	finish ahead of	lithuanian discus thrower	PERSON	0
+0.9719477705842111	name	athlete for	2006	0	DATE
+1.0	european championship	be in	Gothenburg	0	LOCATION
+1.0	Heptathlon queen Karolina Kluft	be on	Tuesday	PERSON	DATE
+1.0	Tuesday	name	european athlete for 2006	DATE	DATE
+1.0	Norway 's Andreas Thorkildsen	take	third	PERSON	ORDINAL
+1.0	Virgilijus Alekna	finish ahead of	discus thrower	PERSON	0
+1.0	second place	be with	world pole-vault record-holder	ORDINAL	0
+1.0	Virgilijus Alekna	predecessor as	champion	PERSON	0
+1.0	Norway	have	Andreas Thorkildsen	LOCATION	PERSON
+1.0	Tuesday	name	athlete for 2006	DATE	DATE
+1.0	Norway	have	Andreas Thorkildsen	PERSON	LOCATION
+1.0	athletic	have	ruling body	O	O
+1.0	Tuesday	name	european athlete	DATE	0
+1.0	Belgium	have	100m	O	LOCATION
+1.0	Russia	have	Yelena Isinbayeva	PERSON	LOCATION
+1.0	Portuguese sprinter Francis Obikwelu	have	predecessor	O	O
+1.0	Virgilijus Alekna	finish of	lithuanian discus thrower	PERSON	0
+0.9719477705842111	name	european athlete for	2006	0	DATE
+1.0	Virgilijus Alekna	finish of	discus thrower	PERSON	0
+1.0	european athletic	have	ruling body	0	0
+1.0	Belgium	have	european 100m	LOCATION	0
+1.0	Norway 's Andreas Thorkildsen	take	third in poll	PERSON	ORDINAL
+1.0	Tuesday	name	athlete	DATE	0

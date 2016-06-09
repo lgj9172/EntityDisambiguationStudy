@@ -1,0 +1,65 @@
+1.0	destabilizing Iraq	have	reluctance	O	O
+1.0	Pentagon	have	out run	O	ORGANIZATION
+1.0	414 million dollar	expand	reconstruction team run	MONEY	0
+0.6504122886396567	iraqi force	shift from	previous priority	0	0
+1.0	US plan	have	details	O	O
+1.0	primary security focus	will	will help	0	0
+1.0	United States	will deploy	Patriot anti-missile system in Middle East	LOCATION	LOCATION
+1.0	414 million dollar	expand	provincial reconstruction team run by State Department	MONEY	ORGANIZATION
+1.0	Patriot anti-missile system	be in	Middle East	0	LOCATION
+1.0	Bush	will submit budget request with	plan spending for war	PERSON	0
+1.0	5.6 billion dollar	send extra troops to	Iraq	MONEY	LOCATION
+1.0	Baath Party	have	members	O	ORGANIZATION
+1.0	reconstruction coordinator	oversee	US program	0	LOCATION
+0.6504122886396567	force	shift from	previous priority	0	0
+1.0	Bush	will submit budget request with	Congress	PERSON	ORGANIZATION
+1.0	Bush	will submit budget request with	spending for war	PERSON	0
+1.0	destabilizing Iraq	have	plight	O	LOCATION
+1.0	new reconstruction coordinator	will	will name for country	0	0
+1.0	20,000 extra US troops	be in	addition	LOCATION	0
+0.6504122886396567	force	shift from	priority	0	0
+1.0	destabilizing Iraq	have	foes	O	O
+1.0	military	have	number	O	O
+1.0	security focus	will	will help	0	0
+1.0	Bush	will submit budget request with	plan spending	PERSON	0
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	5.6 billion dollar	send	extra troops	MONEY	0
+1.0	reconstruction coordinator	will	will name	0	0
+1.0	Bush	will submit budget request with	annual spending for war	PERSON	SET
+1.0	Bush	will submit	budget request for 6.8 billion dollar	PERSON	MONEY
+1.0	new reconstruction coordinator	oversee	US program	0	LOCATION
+1.0	Bush	will submit budget request with	plan annual spending for war	PERSON	SET
+1.0	Patriot anti-missile system	reassure	we friend	0	0
+1.0	commander emergency response program	for dollar be	reconstruction effort	0	0
+1.0	points	have	Herewith	O	O
+1.0	deployments	have	Most	O	O
+1.0	our	have	friends	O	O
+1.0	United States	will deploy	Patriot system in Middle East	LOCATION	LOCATION
+1.0	Bush	will submit budget request with	annual spending	PERSON	SET
+1.0	414 million dollar	expand	reconstruction team run by State Department	MONEY	ORGANIZATION
+1.0	414 million dollar	expand	provincial reconstruction team run	MONEY	0
+1.0	new reconstruction coordinator	will	will name	0	0
+1.0	5.6 billion dollar	send	troops	MONEY	0
+1.0	Bush	will submit	additional budget request	PERSON	0
+1.0	destabilizing Iraq	have	initiative	O	LOCATION
+1.0	Iraqi and US troops	have	country	O	O
+1.0	reconstruction coordinator	oversee us program for	reconstruction	0	0
+1.0	funds	have	dollars	MONEY	O
+1.0	Bush	will submit	budget request	PERSON	0
+1.0	Bush	will submit budget request with	plan annual spending	PERSON	SET
+1.0	reconstruction coordinator	will	will name for country	0	0
+0.6504122886396567	iraqi force	shift from	priority	0	0
+1.0	414 million dollar	expand	provincial reconstruction team	MONEY	0
+0.8316376700681382	population	shift from	previous priority	0	0
+1.0	414 million dollar	expand	reconstruction team	MONEY	0
+0.8316376700681382	population	shift from	priority	0	0
+1.0	its	have	funds	O	O
+1.0	Patriot system	reassure	we friend	0	0
+1.0	Bush	will submit	additional budget request for 6.8 billion dollar	PERSON	MONEY
+1.0	new reconstruction coordinator	oversee us program for	reconstruction	0	0
+1.0	Bush	will submit budget request with	spending	PERSON	0
+1.0	Congress	spending for	war	ORGANIZATION	0
+1.0	United States	will deploy	Patriot anti-missile system	LOCATION	0
+1.0	country	have	security forces	O	O
+1.0	United States	will deploy	Patriot system	LOCATION	0
+1.0	5.6 billion dollar	send troops to	Iraq	MONEY	LOCATION

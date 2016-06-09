@@ -1,0 +1,35 @@
+1.0	Cisco	have	register iPhone trademark	ORGANIZATION	0
+1.0	Apple Inc.	be in	good faith	ORGANIZATION	0
+0.8893687949692428	Cisco 's announcement	come at_time	day	ORGANIZATION	DURATION
+1.0	trademark	be in	2000	0	DATE
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone name	ORGANIZATION	0
+1.0	copying	use	Cisco 's iPhone trademark	0	ORGANIZATION
+1.0	Apple Inc.	have	cellphone	O	O
+0.9273567772275628	Apple 's new phone	be	very exciting	ORGANIZATION	0
+1.0	Mark Chandler	president at	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	PERSON	ORGANIZATION
+1.0	US computer network giant Cisco announced Wednesday it has sued Apple Inc. to stop it from naming its versatile new cellphone iPhone , saying it	have	iPhone name	O	ORGANIZATION
+1.0	iPhone	be in	great fanfare	0	DURATION
+1.0	Apple Inc.	stop	Wednesday	ORGANIZATION	0
+0.4968793960127973	lawsuit	file in	US District Court Northern District California	0	ORGANIZATION
+0.9273567772275628	Apple 's phone	be	very exciting	ORGANIZATION	0
+0.7925883810704178	Cisco	say in	statement	ORGANIZATION	0
+0.4968793960127973	lawsuit	file in	US District Court	0	ORGANIZATION
+1.0	US District Court	be for	Northern District of California	ORGANIZATION	LOCATION
+0.8893687949692428	Cisco 's announcement	come after	Apple chief executive	ORGANIZATION	ORGANIZATION
+0.9273567772275628	Apple 's new phone	be	exciting	ORGANIZATION	0
+0.8893687949692428	Cisco 's announcement	come after	Apple executive	ORGANIZATION	ORGANIZATION
+1.0	our	have	permission	O	O
+1.0	Cisco	have	iPhone trademark	O	ORGANIZATION
+1.0	Apple Inc.	have	new phone	ORGANIZATION	0
+1.0	Cisco	have	announcement	O	ORGANIZATION
+1.0	negotiation	be with	Apple Inc.	0	ORGANIZATION
+1.0	Apple Inc.	have	phone	O	ORGANIZATION
+1.0	our	have	trademark	O	O
+1.0	Cisco	be	US	ORGANIZATION	LOCATION
+1.0	California	have	Northern District	LOCATION	LOCATION
+1.0	Wednesday	sue	Apple Inc.	0	ORGANIZATION
+0.4968793960127973	lawsuit	file in	US District Court Northern District	0	ORGANIZATION
+1.0	Steve Jobs	unveil	iPhone	PERSON	0
+1.0	copying	use	Cisco 's register iPhone trademark	0	ORGANIZATION
+0.9273567772275628	Apple 's phone	be	exciting	ORGANIZATION	0
+1.0	Cisco	have	announcement	ORGANIZATION	DURATION

@@ -1,0 +1,17 @@
+1.0	President Ratu Josefa Iloilo	speak for	first time since coup	PERSON	ORDINAL
+1.0	President Ratu Josefa Iloilo	say at_time	Thursday	PERSON	DATE
+1.0	last month	have	military coup	DATE	0
+1.0	members	have	giving	O	O
+1.0	President Ratu Josefa Iloilo	say to	nation	PERSON	0
+1.0	nation	have	interests	O	O
+1.0	President Ratu Josefa Iloilo	speak for	time since coup	PERSON	0
+1.0	President Ratu Josefa Iloilo	say in	address	PERSON	0
+1.0	President Ratu Josefa Iloilo	speak for	time	PERSON	0
+1.0	coup	be valid in	law	0	0
+1.0	President Ratu Josefa Iloilo	speak for	first time	PERSON	ORDINAL
+1.0	immunity	have	giving	O	O
+1.0	commander	have	actions	O	O
+1.0	consultation	be with	capable people	0	0
+1.0	coup	be	valid	0	0
+1.0	forces	have	members	O	O
+1.0	month	have	coup	O	DATE

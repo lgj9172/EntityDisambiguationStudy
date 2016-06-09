@@ -1,0 +1,50 @@
+1.0	final day	be at_time	Friday	DURATION	DURATION
+1.0	Wallabies Mark Gerrard , Tatafu Polota-Nau , Lote Tuqiri and Morgan Turinui	have	home states	O	O
+1.0	Super 14 provincial series	get	underway	NUMBER	0
+1.0	they	will resume	train with they super 14 team	0	NUMBER
+1.0	day	be at_time	Friday	DURATION	DURATION
+1.0	we	have	limited time available to we	0	0
+1.0	Wallabies Mark Gerrard	be	Tatafu Polota-Nau	PERSON	PERSON
+1.0	camp	have	start	O	O
+1.0	we	have	time available to we	0	0
+0.4843395723182229	time	available to	we for preparation	0	0
+1.0	we	have	very limited time	0	0
+0.4843395723182229	time	available to	we for physical preparation	0	0
+1.0	Super 14 provincial series	get underway at_time	month	NUMBER	DATE
+1.0	year 's tournament	be in	France	DATE	LOCATION
+1.0	Thursday	have	testing sessions	O	DATE
+1.0	we	have	time	0	0
+1.0	Super 14 provincial series	get underway at_time	next month	NUMBER	DATE
+1.0	Super provincial series	get underway at_time	month	0	DATE
+1.0	Canberra	have	capital	O	LOCATION
+1.0	camp	be in	australian capital of Canberra	0	LOCATION
+1.0	we	have	very limited time available	0	0
+1.0	year	have	rest	O	DATE
+1.0	we	have	time available	0	0
+1.0	Thursday	during	testing session	DATE	0
+1.0	they	will resume	train with they 14 team	0	NUMBER
+1.0	camp	have	day	DURATION	O
+1.0	they	train with	they 14 team on Friday	0	DATE
+1.0	they	will resume	train with they 14 team on Friday	0	DATE
+1.0	this year	for	tournament in France	DATE	LOCATION
+0.4843395723182229	time	available to	we	0	0
+1.0	the four players	have	teams	O	O
+1.0	we	have	limited time available	0	0
+1.0	they	train with	they super 14 team	0	NUMBER
+1.0	they	train with	they super 14 team on Friday	0	DATE
+1.0	they	will resume	train with they super 14 team on Friday	0	DATE
+1.0	Super provincial series	get	underway	0	0
+1.0	Australia	have	World Cup training squad camp	O	LOCATION
+1.0	tour	have	end	O	O
+1.0	we	have time before	the World Cup	0	MISC
+1.0	we	have	limited time	0	0
+1.0	Super provincial series	get underway at_time	next month	0	DATE
+1.0	fitness	have	standards	O	O
+1.0	year	have	tournament	O	DATE
+1.0	Australia	from	World Cup training squad camp	LOCATION	MISC
+0.4843395723182229	limited time	available to	we for preparation	0	0
+0.4843395723182229	limited time	available to	we for physical preparation	0	0
+1.0	they	will resume	train	0	0
+1.0	they	train with	they 14 team	0	NUMBER
+1.0	we	have	very limited time available to we	0	0
+0.4843395723182229	limited time	available to	we	0	0

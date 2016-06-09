@@ -1,0 +1,47 @@
+1.0	government	repeatedly make clear	its opposition	0	0
+1.0	Foreign Secretary Margaret Beckett	be reply from	Labour lawmaker Andrew Mackinlay	PERSON	ORGANIZATION
+1.0	british government	make clear	its opposition	0	0
+1.0	government	repeatedly make	its opposition	0	0
+0.7620071715417024	this	include lobbying on	eve	0	0
+1.0	Saddam	have	death	O	PERSON
+1.0	letter	make at_time	Thursday	0	DATE
+1.0	Saddam Hussein	have	life	O	PERSON
+1.0	Andrew Mackinlay	be lawmaker of	Labour	PERSON	ORGANIZATION
+0.7620071715417024	this	include lobbying at	highest level	0	0
+1.0	we	urge	authority	0	0
+1.0	morning	topple hang	president Saddam	DATE	PERSON
+1.0	Andrew Mackinlay	be on	29 December , the eve of the execution	PERSON	DATE
+1.0	Foreign Secretary Margaret Beckett	be reply from	Labour lawmaker Andrew Mackinlay on December 29	PERSON	ORGANIZATION
+1.0	Britain	lobby on	29 December , the eve of the execution	LOCATION	DATE
+1.0	president Saddam	have	crimes	O	O
+1.0	british government	repeatedly make clear	its opposition	0	0
+1.0	29 December , the eve of the execution	eve of	execution	DATE	0
+1.0	Britain	lobby at	level	LOCATION	0
+0.7620071715417024	this	include	lobbying	0	0
+0.7620071715417024	this	include lobbying on	29 December , the eve of the execution	0	DATE
+0.7620071715417024	this	include lobbying on	eve of execution	0	0
+1.0	british government	make	its opposition	0	0
+1.0	letter	make at_time	public Thursday	0	DATE
+1.0	Britain	lobby at	highest level	LOCATION	0
+1.0	death penalty	be in	case	0	0
+1.0	execution	have	eve	O	O
+1.0	Britain	lobby in	Baghdad	LOCATION	LOCATION
+1.0	follow morning	topple hang	president Saddam	DATE	PERSON
+1.0	she	lobby against	Saddam 's death	0	PERSON
+1.0	british government	repeatedly make	its opposition	0	0
+1.0	Foreign Secretary Margaret Beckett	urge	she	PERSON	0
+1.0	Foreign Secretary Margaret Beckett	be reply to	email	PERSON	0
+1.0	the British government	have	opposition	O	O
+1.0	she	lobby against	Saddam 's impending death	0	PERSON
+1.0	Saddam Hussein	to	life	PERSON	0
+1.0	iraqi authority	abolish	death penalty	0	0
+1.0	we	urge	iraqi authority	0	0
+0.7620071715417024	this	include lobbying at	level in Baghdad	0	LOCATION
+0.7620071715417024	this	include lobbying at	highest level in Baghdad	0	LOCATION
+1.0	authority	abolish	death penalty	0	0
+1.0	Saddam	against	impending death	PERSON	0
+1.0	highest level	be in	Baghdad	0	LOCATION
+1.0	Andrew Mackinlay	be from	Labour	PERSON	ORGANIZATION
+1.0	government	make clear	its opposition	0	0
+1.0	government	make	its opposition	0	0
+0.7620071715417024	this	include lobbying at	level	0	0

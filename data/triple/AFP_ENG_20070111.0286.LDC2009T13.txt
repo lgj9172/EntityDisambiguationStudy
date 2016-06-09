@@ -1,0 +1,86 @@
+1.0	school	be in	muslim majority region	0	0
+1.0	Buddhist rubber tapper	be shoot in	head	ORGANIZATION	0
+1.0	teacher	be	often attack	0	0
+1.0	soldier	already provide	escort	0	0
+1.0	teacher	arm	themselves	0	0
+1.0	a 41-year-old Buddhist rubber tapper	have	son	O	O
+1.0	drive-by shooting	be in	Yala	0	LOCATION
+1.0	government	agree at_time	Wednesday	0	DATE
+1.0	Buddhist rubber tapper	be	Thursday in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	soldier	provide	escort	0	0
+1.0	soldier	already provide escort for	teacher at many school in region	0	0
+1.0	government	boost	its patrol	0	0
+1.0	41-year-old Buddhist rubber tapper	be	later Thursday in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	soldier	already provide escort for	teacher at school in region	0	0
+1.0	41-year-old Buddhist rubber tapper	be	Thursday in Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	Buddhist rubber tapper	be shoot at_time	Thursday	ORGANIZATION	DATE
+1.0	41-year-old Buddhist rubber tapper	be	later Thursday in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	insurgency	erupt in	January 2004	0	DATE
+1.0	41-year-old Buddhist rubber tapper	be shoot in	head	ORGANIZATION	0
+1.0	41-year-old Buddhist rubber tapper	be shoot in	Narathiwat province	ORGANIZATION	LOCATION
+1.0	41-year-old Buddhist rubber tapper	be shoot at_time	Thursday	ORGANIZATION	DATE
+1.0	41-year-old Buddhist rubber tapper	be	shoot	ORGANIZATION	0
+1.0	separatist insurgency	erupt in	January 2004	0	DATE
+1.0	Buddhist rubber tapper	be shoot in	nearby Narathiwat province	ORGANIZATION	LOCATION
+1.0	soldier	post	armed soldier	0	0
+1.0	latest separatist insurgency	erupt in	January 2004	0	DATE
+1.0	66th teacher	kill in	three year unrest	ORDINAL	DURATION
+1.0	41-year-old Buddhist rubber tapper	be	later Thursday shoot in head	ORGANIZATION	DATE
+1.0	provinces	have	one	NUMBER	O
+1.0	he	be	only Buddhist teacher at school	0	ORGANIZATION
+1.0	41-year-old Buddhist rubber tapper	be	in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	66th teacher	kill in	three year	ORDINAL	DURATION
+1.0	he	be	only Buddhist teacher	0	ORGANIZATION
+1.0	Buddhist rubber tapper	be	later Thursday in Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	teacher	kill in	three year	0	DURATION
+1.0	unrest	have	years	DURATION	O
+1.0	Buddhist rubber tapper	be	later Thursday in nearby Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	Buddhist rubber tapper	be	Thursday in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	dominance	have	targets	O	O
+1.0	41-year-old Buddhist rubber tapper	be	Thursday in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	41-year-old Buddhist rubber tapper	be shoot in	nearby Narathiwat province	ORGANIZATION	LOCATION
+1.0	Buddhist rubber tapper	be	in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+0.14059619431790493	government	agree	allow	0	0
+1.0	government	allow	teacher	0	0
+1.0	soldier	provide	armed escort	0	0
+1.0	many school	be in	region	0	0
+1.0	suspect insurgent	be in	Thailand	0	LOCATION
+1.0	its	have	patrols	O	O
+1.0	41-year-old Buddhist rubber tapper	be	later Thursday in nearby Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	Buddhist Thailand	have	dominance	O	LOCATION
+1.0	Buddhist rubber tapper	be	later Thursday in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	soldier	already provide	armed escort	0	0
+1.0	teacher	be	attack	0	0
+1.0	41-year-old Buddhist rubber tapper	be	Thursday in nearby Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	latest insurgency	erupt in	January 2004	0	DATE
+1.0	he	be	Buddhist teacher	0	ORGANIZATION
+1.0	soldier	post soldier outside	school	0	0
+1.0	teacher	arm	teachers	0	0
+1.0	soldier	provide escort for	teacher at many school in region	0	0
+1.0	Thailand	be 's	Buddhist	LOCATION	ORGANIZATION
+1.0	Buddhist rubber tapper	be	in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	Buddhist rubber tapper	be	Thursday shoot in head	ORGANIZATION	DATE
+1.0	soldier	post	soldier	0	0
+1.0	Yala	one of	three province along malaysian border hit by near-daily insurgent violence	LOCATION	NUMBER
+1.0	hours	have	arm	O	DURATION
+1.0	Buddhist rubber tapper	be	shoot	ORGANIZATION	0
+1.0	41-year-old Buddhist rubber tapper	be	in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	41-year-old Buddhist rubber tapper	be	later Thursday in Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	teacher	be kill	one day government agree	0	DURATION
+1.0	41-year-old Buddhist rubber tapper	be	Thursday shoot in head	ORGANIZATION	DATE
+1.0	Buddhist rubber tapper	be	later Thursday in Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	41-year-old Buddhist rubber tapper	be shoot at_time	later Thursday	ORGANIZATION	DATE
+1.0	Buddhist rubber tapper	be	later Thursday shoot in head	ORGANIZATION	DATE
+1.0	41-year-old Buddhist rubber tapper	be	Thursday in nearby Narathiwat province shoot in head	ORGANIZATION	LOCATION
+1.0	Buddhist rubber tapper	be	Thursday in nearby Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	teacher	kill in	three year unrest	0	DURATION
+1.0	Buddhist rubber tapper	be shoot at_time	later Thursday	ORGANIZATION	DATE
+1.0	Buddhist rubber tapper	be shoot in	Narathiwat province	ORGANIZATION	LOCATION
+1.0	teacher	attack	school	0	0
+1.0	soldier	post soldier for	protection	0	0
+1.0	soldier	provide escort for	teacher at school in region	0	0
+1.0	teacher	be kill	one day	0	DURATION
+1.0	Buddhist rubber tapper	be	Thursday in Narathiwat province shoot	ORGANIZATION	LOCATION
+1.0	he	be	Buddhist teacher at school	0	ORGANIZATION
+1.0	Thailand	of	dominance	LOCATION	0
+1.0	teacher	often attack	school	0	0

@@ -1,0 +1,13 @@
+1.0	Labor Department 's survey	show	only 100,000 new job	ORGANIZATION	NUMBER
+1.0	analyst	be expect	Labor Department 's non survey	0	ORGANIZATION
+1.0	Labor Department	have	non survey	ORGANIZATION	0
+1.0	Labor Department 's survey	show	only 100,000 job	ORGANIZATION	NUMBER
+1.0	government	say in	report	0	0
+1.0	132,000	have	forecast	O	NUMBER
+1.0	healthy 167,000 new job	be in	December	NUMBER	DATE
+1.0	Labor Department 's non survey	show	only 100,000 new job	ORGANIZATION	NUMBER
+1.0	Labor Department	have	survey	O	ORGANIZATION
+1.0	government	say at_time	Friday	0	DATE
+1.0	Labor Department 's non survey	show	only 100,000 job	ORGANIZATION	NUMBER
+1.0	the Labor Department 's	have	forecast	O	O
+1.0	analyst	be expect	Labor Department 's survey	0	ORGANIZATION

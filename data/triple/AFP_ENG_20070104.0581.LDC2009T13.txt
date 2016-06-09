@@ -1,0 +1,121 @@
+1.0	observer	have forecast change to	Bush 's Iraq policy	0	LOCATION
+1.0	controversial tenure	end at_time	week	0	DATE
+1.0	popular anger	shortly help sweep opposition democrat in	November election	0	DATE
+1.0	National Security Agency	have	head	O	ORGANIZATION
+1.0	White House	challenge	report	ORGANIZATION	0
+1.0	US President George W. Bush	to	Iraq policy	PERSON	LOCATION
+0.8461417105666218	sweep opposition democrat	anger over	Iraq	0	LOCATION
+1.0	president	consider	boost there	0	0
+1.0	US President George W. Bush	move at_time	Thursday	LOCATION	DATE
+1.0	he	dump	secretary Donald Rumsfeld	0	PERSON
+1.0	president	consider	boost	0	0
+1.0	Democrats	respond to	change	MISC	0
+1.0	mission	be	accomplish	0	0
+1.0	anger	help sweep opposition democrat in	November election	0	DATE
+1.0	US forces	have	head	O	O
+1.0	aide	say on	condition	0	0
+1.0	personnel overhaul	have	part	O	O
+0.5259786054960929	dictator 's death	horrific chapter in	Iraq 's history	0	LOCATION
+1.0	US President George W. Bush	also break	he silence	PERSON	0
+1.0	anger	shortly help sweep opposition democrat to	control	0	0
+1.0	dictator 's death	close	horrific chapter	0	0
+1.0	oust dictator 's death	close	chapter	0	0
+1.0	he	dump secretary donald rumsfeld in	favor of Robert Gates	0	ORGANIZATION
+1.0	controversial tenure	end at_time	last week	0	DATE
+1.0	deputy	have	US Secretary	O	O
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	US President George W. Bush	have	Iraq policy	O	PERSON
+0.8461417105666218	sweep opposition democrat	popular anger over	Iraq	0	LOCATION
+1.0	people	have	thousands	O	O
+1.0	war	be in	Afghanistan	0	LOCATION
+1.0	Condoleezza Rice	be 's	State	PERSON	ORGANIZATION
+1.0	US Congress	have	control	O	ORGANIZATION
+1.0	Nuri al-Maliki	be with	iraqi	PERSON	0
+1.0	I	make	sure	0	0
+0.62403497430156	a	retool war-fighting strategy at_time	sometime next week	0	DATE
+1.0	John Negroponte	be spy chief of	US	PERSON	LOCATION
+1.0	US President George W. Bush	move	diplomatic	LOCATION	0
+1.0	Robert Gates	have	favor	O	ORGANIZATION
+1.0	nations	have	Group	O	O
+1.0	aide	say on	condition of anonymity	0	0
+1.0	US President George W. Bush	move to	shuffle intelligence	LOCATION	0
+1.0	anger	shortly help sweep opposition democrat in	November election	0	DATE
+1.0	Germany	assume	leadership	LOCATION	0
+1.0	popular anger	shortly help sweep opposition democrat to	control	0	0
+1.0	things	have	one	NUMBER	O
+1.0	few observer	have forecast	sweeping change	0	0
+1.0	oust dictator 's death	close	horrific chapter in Iraq 's history	0	LOCATION
+1.0	anger	help sweep opposition democrat to	control of US Congress	0	ORGANIZATION
+1.0	anger	shortly help	sweep opposition democrat	0	0
+1.0	Merkel	acknowledge	Germany 's opposition	PERSON	LOCATION
+1.0	US President George W. Bush	break	he silence	PERSON	0
+1.0	Iraq	have	history	O	LOCATION
+0.6445317110961839	Bush	will name us ambassador to	Iraq	PERSON	LOCATION
+1.0	John Abizaid	be at	Central command	PERSON	ORGANIZATION
+1.0	Maliki	be	strong	PERSON	0
+1.0	popular anger	help sweep opposition democrat to	control	0	0
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	military aide	tie to	Iraq conflict	0	LOCATION
+1.0	aide	tie to	Iraq conflict	0	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	mission	be	clear	0	0
+1.0	he	dump	then-defense secretary Donald Rumsfeld	0	PERSON
+1.0	US President George W. Bush	have	silence	O	O
+1.0	talk	be with	Bush	0	PERSON
+1.0	he	dump secretary donald rumsfeld in	favor	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Condoleezza Rice	of	deputy	PERSON	0
+1.0	few observer	have forecast change to	Bush 's Iraq policy	0	LOCATION
+1.0	top military commander	be in	Iraq	0	LOCATION
+1.0	anger	help sweep opposition democrat to	control	0	0
+1.0	dictator 's death	close	chapter in Iraq 's history	0	LOCATION
+1.0	Donald Rumsfeld	be	Defense	PERSON	ORGANIZATION
+1.0	country	have	objective	O	O
+1.0	horrific chapter	be in	Iraq 's history	0	LOCATION
+1.0	popular anger	help sweep opposition democrat to	control of US Congress	0	ORGANIZATION
+1.0	popular anger	help sweep opposition democrat in	November election	0	DATE
+1.0	oust dictator 's death	close	horrific chapter	0	0
+1.0	Donald Rumsfeld	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	oust dictator	have	death	0	0
+1.0	popular anger	shortly help sweep opposition democrat to	control of US Congress	0	ORGANIZATION
+1.0	Germany	have	opposition	LOCATION	0
+1.0	US President George W. Bush	move to	shuffle top intelligence	LOCATION	0
+1.0	Iraq	in	history	LOCATION	0
+1.0	two-hour videoconference	be with	Nuri al-Maliki	DURATION	PERSON
+1.0	Germany	assume	leadership of European Union	LOCATION	ORGANIZATION
+1.0	US President George W. Bush	visit	Chancellor Angela Merkel	0	PERSON
+1.0	Bush	have	personnel overhaul	O	PERSON
+0.5259786054960929	oust dictator 's death	chapter in	Iraq 's history	0	LOCATION
+1.0	dictator 's death	close	horrific chapter in Iraq 's history	0	LOCATION
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	tenure	end at_time	week	0	DATE
+1.0	George Casey	be with	David Petraeus	PERSON	PERSON
+1.0	Bush	have	personnel overhaul	PERSON	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	Germany	have	opposition	O	LOCATION
+1.0	anger	help	sweep opposition democrat	0	0
+1.0	dictator	have	death	O	O
+1.0	proceedings	go in	more dignified way	0	0
+1.0	observer	have forecast	change	0	0
+1.0	proceedings	go in	dignified way	0	0
+1.0	observer	have forecast	sweeping change	0	0
+0.5259786054960929	oust dictator 's death	horrific chapter in	Iraq 's history	0	LOCATION
+1.0	anger	shortly help sweep opposition democrat to	control of US Congress	0	ORGANIZATION
+1.0	European Union	have	leadership	O	ORGANIZATION
+1.0	Saddam Hussein	over	execution	PERSON	0
+1.0	US President George W. Bush	say after	talk	0	0
+1.0	oust dictator 's death	close	chapter in Iraq 's history	0	LOCATION
+1.0	popular anger	help	sweep opposition democrat	0	0
+1.0	few observer	have forecast	change	0	0
+0.6445317110961839	Bush	will name	current US ambassador	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	tenure	end at_time	last week	0	DATE
+1.0	John Negroponte	be	US	PERSON	LOCATION
+1.0	Iraq	be	Zalmay Khalilzad	LOCATION	PERSON
+1.0	popular anger	shortly help	sweep opposition democrat	0	0
+1.0	US President George W. Bush	visit	german Chancellor Angela Merkel	0	PERSON
+1.0	State Condoleezza Rice	have	deputy	O	PERSON
+1.0	it	be	unclear	0	0
+1.0	dictator 's death	close	chapter	0	0
+0.6445317110961839	Bush	will name	US ambassador	PERSON	LOCATION
+0.5259786054960929	dictator 's death	chapter in	Iraq 's history	0	LOCATION

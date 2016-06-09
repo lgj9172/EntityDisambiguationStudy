@@ -1,0 +1,41 @@
+1.0	court	be in	Munich	0	LOCATION
+1.0	administrator Martin Prager	far tell here	news conference	PERSON	0
+1.0	talks	have	course	O	O
+1.0	administrator Martin Prager	so far tell here	news conference	PERSON	0
+1.0	administrator Martin Prager	so far tell	news conference	PERSON	0
+1.0	Prager	refuse	comment on state	PERSON	0
+1.0	workforce	have	working	O	O
+1.0	September	have	end	DATE	DATE
+1.0	court	open insolvency proceedings against	company	0	0
+1.0	administrator	have	have be try so far	0	0
+1.0	parties	have	number	O	O
+1.0	administrator Martin Prager	tell here	news conference	PERSON	0
+1.0	arm	have	administrator	O	O
+1.0	electronics maker	have	arm	O	O
+1.0	drop	have	view	O	O
+1.0	phone maker BenQ Mobile	have	acquisition	O	ORGANIZATION
+1.0	court	officially open insolvency proceedings on	Monday	0	DATE
+1.0	court	open	insolvency proceedings	0	0
+1.0	administrator	have	have be try	0	0
+1.0	talks	have	state	O	O
+1.0	court	officially open insolvency proceedings against	company	0	0
+1.0	euros	have	millions	MONEY	MONEY
+1.0	Prager	refuse	comment on state of talk	PERSON	0
+1.0	Prager	comment on	state of talk	PERSON	0
+1.0	millions	have	hundreds	O	MONEY
+1.0	deal	have	sign	O	O
+1.0	Prager	refuse	comment	PERSON	0
+1.0	sharp drop	be in	BenQ 's sale	0	0
+1.0	BenQ	in	sale	0	0
+1.0	administrator Martin Prager	tell	news conference	PERSON	0
+1.0	administrator	find	buyer	0	0
+1.0	BenQ	have	sales	O	O
+1.0	court	officially open	insolvency proceedings	0	0
+1.0	administrator Martin Prager	far tell	news conference	PERSON	0
+1.0	these	have	31	NUMBER	O
+1.0	mobile phone maker BenQ Mobile	say on	Wednesday	ORGANIZATION	DATE
+1.0	Prager	comment on	state	PERSON	0
+1.0	talk	be with	potential investor over possible acquisition of mobile phone maker BenQ Mobile	0	ORGANIZATION
+1.0	court	open insolvency proceedings on	Monday	0	DATE
+1.0	administrator	have	have be try far	0	0
+1.0	company	have	takeover	O	O

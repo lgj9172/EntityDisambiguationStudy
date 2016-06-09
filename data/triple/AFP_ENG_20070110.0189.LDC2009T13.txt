@@ -1,0 +1,89 @@
+1.0	Ahmed al-Mussawi	spokesman for	iraqi transport ministry	PERSON	0
+1.0	worker	employ by	firm	0	0
+1.0	survivor	have	identity	O	O
+1.0	team	be aboard	ilyushin assist	0	0
+1.0	business	undertake	dozen of contract	0	0
+1.0	Adana	have	province	O	LOCATION
+1.0	plane	be expect	return with body later	0	DATE
+1.0	government official	cite	failure as possible cause	0	0
+1.0	government official	cite	technical failure	0	0
+1.0	Ahmed al-Mussawi	tell	afp	PERSON	0
+1.0	plane	return at_time	Wednesday	0	DATE
+1.0	turkish business	undertake	dozen	0	0
+1.0	turkish business	grab share in	reconstruction	0	0
+1.0	plane	return with	body	0	0
+1.0	person	survive crash with	serious injury	0	0
+1.0	plane	be expect	return to Turkey Wednesday	0	DATE
+1.0	plane	be expect	return	0	0
+1.0	most	be	worker employ	0	0
+1.0	ill-fated plane	have	have charter by adana-based Kulak construction company	0	PERSON
+1.0	Balad	north of	Baghdad	LOCATION	LOCATION
+1.0	person	survive crash with	injury	0	0
+1.0	medical team	be aboard	ilyushin	0	0
+1.0	shipping goods	have	dozens	O	O
+1.0	plane	return with	body later	0	DATE
+1.0	Baghdad	have	plane crash north	O	LOCATION
+1.0	passengers	have	most	O	O
+1.0	plane	be expect	return to Turkey	0	LOCATION
+1.0	Balad	have	town	O	LOCATION
+1.0	plane	be expect	return to Turkey with body later	0	DATE
+1.0	Ahmed al-Mussawi	believe	authority	0	0
+1.0	Adana Governor Cahit Kirac	say in	remark	PERSON	0
+1.0	plane	have	have charter by Kulak construction company	0	PERSON
+1.0	most	be	worker employ by firm	0	0
+1.0	plane	be	expect	0	0
+1.0	turkish business	undertake dozen to	country	0	0
+1.0	The ill-fated plane	have	passengers	O	O
+1.0	plane	return to	Turkey for Iraq	0	LOCATION
+1.0	official	have blame	bad weather	0	0
+1.0	three civil aviation experts who will investigate the cause of Tuesday 's crash	have	aim	O	O
+1.0	turkish business	have	have keen	0	0
+1.0	people	have	bodies	O	O
+1.0	plane	be expect	return to Turkey with body	0	LOCATION
+1.0	most	be	worker	0	0
+1.0	business	have	have keen	0	0
+1.0	Adana Governor Cahit Kirac	say in	televise remark	PERSON	0
+1.0	official	have blame	weather	0	0
+1.0	turkish business	undertake	dozen of contract	0	0
+1.0	one person	survive crash with	serious injury	NUMBER	0
+1.0	iraqi government official	cite	technical failure as possible cause	0	0
+1.0	they	aircraft	Antonov	0	MISC
+1.0	person	survive	crash	0	0
+1.0	Tuesday	of	crash	DATE	0
+1.0	aviation experience	have	lack	O	O
+1.0	iraqi government official	cite	failure	0	0
+1.0	turkish business	grab	share	0	0
+1.0	business	undertake dozen to	country	0	0
+1.0	iraqi government official	cite	technical failure	0	0
+1.0	one person	survive	crash	NUMBER	0
+1.0	turkish official	have blame weather for	disaster	0	0
+1.0	plane	be expect	return with body	0	0
+1.0	plane	have	have charter by adana-based Kulak construction company	0	PERSON
+1.0	ill-fated plane	have	have charter	0	0
+1.0	official	have blame weather for	disaster	0	0
+1.0	business	undertake	dozen	0	0
+1.0	Turkey	be for	war-torn Iraq	LOCATION	LOCATION
+1.0	plane	be expect	return Wednesday	0	DATE
+1.0	plane	be expect	return with body later Wednesday	0	DATE
+1.0	government official	cite	technical failure as possible cause	0	0
+1.0	Cahit Kirac	be governor of	Adana	PERSON	LOCATION
+1.0	one person	survive crash with	injury	NUMBER	0
+1.0	the victims	have	aircraft	O	O
+1.0	medical team	be aboard	ilyushin assist	0	0
+1.0	ill-fated plane	have	have charter by Kulak construction company	0	PERSON
+1.0	Baghdad	have	north	O	LOCATION
+1.0	crash	have	cause	O	O
+1.0	turkish official	have blame	bad weather	0	0
+1.0	business	grab	share	0	0
+1.0	Cahit Kirac	be	Adana	PERSON	LOCATION
+1.0	team	be aboard	ilyushin	0	0
+1.0	iraqi government official	cite	failure as possible cause	0	0
+1.0	plane	have	have charter	0	0
+1.0	turkish official	have blame	weather	0	0
+1.0	business	grab share in	reconstruction	0	0
+1.0	government official	cite	failure	0	0
+1.0	contracts	have	dozens	O	O
+1.0	Tuesday	have	crash	O	DATE
+1.0	plane	be expect	return with body Wednesday	0	DATE
+1.0	plane	be expect	return to Turkey with body Wednesday	0	DATE
+1.0	plane	be expect	return to Turkey with body later Wednesday	0	DATE

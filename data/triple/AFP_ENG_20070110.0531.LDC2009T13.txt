@@ -1,0 +1,183 @@
+1.0	english-born Alan Harper	be	elect by he bishop as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Patrick	be saint of	Dublin	PERSON	LOCATION
+1.0	Dublin	have	Cathedral	O	LOCATION
+1.0	Ireland	have	Church	O	LOCATION
+1.0	Harper	be	62	PERSON	NUMBER
+1.0	church	be	second protestant congregation	0	ORDINAL
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	John Neill	be doctor of	Dublin	PERSON	LOCATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	350,000 member	275,000 of	they	NUMBER	0
+1.0	Alan Harper	be	elect by he bishop as head	PERSON	0
+1.0	english-born Alan Harper	be	elect	PERSON	0
+1.0	Archbishop of Armagh	be in	succession	ORGANIZATION	0
+1.0	number	have	have boost from Africa	0	LOCATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Archbishop of Armagh	be to	Robin Eames	ORGANIZATION	PERSON
+1.0	The English-born Alan Harper	have	bishops	O	O
+1.0	Alan Harper	be	elect by he bishop as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	church	be second protestant congregation in	Ireland	0	LOCATION
+1.0	church	be second largest protestant congregation in	northern Ireland	0	LOCATION
+1.0	England	have	west	O	LOCATION
+1.0	english-born Alan Harper	be	elect Wednesday as new head	PERSON	DATE
+1.0	Alan Harper	be elect as	head	PERSON	0
+1.0	Connor	have	Bishop	O	O
+1.0	Alan Harper	be	english-born	PERSON	0
+1.0	church	be	congregation	0	0
+1.0	Northern Ireland	since	Patrick	LOCATION	PERSON
+1.0	Bishop	have	Church	O	O
+1.0	Connor	have	Bishop	PERSON	PERSON
+1.0	Armagh	have	Archbishop	ORGANIZATION	ORGANIZATION
+1.0	english-born Alan Harper	be elect as	new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he fellow bishop as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	the Protestant Church of Ireland	will	will joy work with he	0	0
+1.0	church	be protestant congregation in	northern Ireland	0	LOCATION
+0.5950643590979563	announce	election in	Dublin 's Saint Patrick 's Cathedral	0	LOCATION
+1.0	english-born Alan Harper	be	elect Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	church	be	protestant congregation	0	0
+1.0	Harper	study	divinity	PERSON	0
+1.0	Alan Harper	be elect by	he bishop	PERSON	0
+1.0	church	be	largest protestant congregation	0	0
+1.0	Alan Harper	be elect as	new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop as new head	PERSON	0
+1.0	english-born Alan Harper	be	elect Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop Wednesday as head	PERSON	DATE
+1.0	english-born Alan Harper	be	elect by he fellow bishop as head of Protestant Church	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday	PERSON	DATE
+1.0	Protestant Church	have	head	O	ORGANIZATION
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as head	PERSON	DATE
+1.0	church	be largest protestant congregation in	Ireland	0	LOCATION
+1.0	them	have	275,000	NUMBER	O
+1.0	Alan Harper	be elect as	head of Protestant Church	PERSON	ORGANIZATION
+1.0	Ireland	have	Archbishop	ORGANIZATION	LOCATION
+1.0	Alan Harper	be	elect by he bishop as head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Harper	bear in	west	PERSON	0
+1.0	Alan Harper	be elect as	new head	PERSON	0
+0.932486567220423	the Protestant Church of Ireland	work with	he	0	0
+1.0	english-born Alan Harper	be elect as	head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Harper	become in	2001	PERSON	DATE
+1.0	number	have	have boost in recent year	0	DURATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	archbishops	have	succession	O	O
+1.0	Alan Harper	be	elect Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	bishops	have	succession	O	O
+1.0	John Neill	be of	Dublin	PERSON	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	number	have	have boost in year by immigration from Africa	0	LOCATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as new head	PERSON	DATE
+1.0	Archbishop	announce	election	0	0
+1.0	Church	have	275,000 of they in Northern Ireland	0	LOCATION
+1.0	english-born Alan Harper	be elect at_time	Wednesday	PERSON	DATE
+1.0	english-born Alan Harper	be	elect by he fellow bishop as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he fellow bishop as new head	PERSON	0
+1.0	Alan Harper	be	elect Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be elect as	head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	Archbishop	announce	election in Dublin 's Saint Patrick 's Cathedral	0	LOCATION
+1.0	Saint Patrick	have	Cathedral	O	PERSON
+1.0	second largest protestant congregation	be in	northern Ireland	ORDINAL	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday	PERSON	DATE
+0.7456459283869392	Harper 62	bishop of	Connor in Northern Ireland	NUMBER	LOCATION
+1.0	church	be second congregation in	northern Ireland	0	LOCATION
+1.0	english-born Alan Harper	be elect by	he fellow bishop	PERSON	0
+1.0	Alan Harper	be	elect by he fellow bishop as head	PERSON	0
+1.0	Church	have	350,000 member	0	NUMBER
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be elect as	new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Dublin	in	Cathedral	LOCATION	0
+1.0	church	be	second largest protestant congregation	0	ORDINAL
+1.0	Harper	bear in	west of England	PERSON	LOCATION
+1.0	Northern Ireland	have	patron Saint Patrick	PERSON	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop as head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be elect by	he fellow bishop	PERSON	0
+1.0	church	be	second largest congregation	0	ORDINAL
+1.0	350,000 member	275,000 in	Northern Ireland	NUMBER	LOCATION
+1.0	Alan Harper	be	elect Wednesday as head	PERSON	DATE
+1.0	Dublin Doctor John Neill	have	Archbishop	O	PERSON
+1.0	Alan Harper	be elect at_time	Wednesday	PERSON	DATE
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as head	PERSON	DATE
+1.0	number	have	have boost in year	0	0
+1.0	english-born Alan Harper	be	elect by he bishop as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be elect as	head	PERSON	0
+1.0	english-born Alan Harper	be elect as	new head	PERSON	0
+1.0	the Protestant Church of Ireland	will	will joy	0	0
+1.0	Primate	have	Archbishop	ORGANIZATION	O
+1.0	the Protestant Church of Ireland	will	will joy work	0	0
+1.0	church	be largest congregation in	northern Ireland	0	LOCATION
+1.0	Patrick	in	Cathedral	PERSON	0
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	church	be second largest protestant congregation in	Ireland	0	LOCATION
+1.0	church	be second largest congregation in	northern Ireland	0	LOCATION
+1.0	church	be second largest congregation in	Ireland	0	LOCATION
+1.0	election	be in	Dublin 's Saint Patrick 's Cathedral	0	LOCATION
+1.0	Armagh	be since	Patrick	LOCATION	PERSON
+1.0	number	have	have boost in year from Africa	0	LOCATION
+1.0	Alan Harper	be	elect by he bishop as new head	PERSON	0
+1.0	church	be protestant congregation in	Ireland	0	LOCATION
+1.0	church	be congregation in	northern Ireland	0	LOCATION
+1.0	english-born Alan Harper	be	elect Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop as head	PERSON	0
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	Ireland priest	have	Church	O	O
+1.0	Harper	bear in	west of central England	PERSON	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Harper	bear in	Tamworth	PERSON	LOCATION
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he fellow bishop as head of Protestant Church	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	number	have	have boost by immigration from Africa	0	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as new head	PERSON	DATE
+1.0	number	have	have boost by immigration	0	0
+1.0	Alan Harper	be	elect by he fellow bishop as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Patrick	be patron saint of	Northern Ireland	PERSON	LOCATION
+1.0	Alan Harper	be	elect	PERSON	0
+1.0	english-born Alan Harper	be	elect Wednesday as head	PERSON	DATE
+1.0	church	be	largest congregation	0	0
+1.0	Ireland	have	Republic	LOCATION	LOCATION
+1.0	church	be largest protestant congregation in	northern Ireland	0	LOCATION
+1.0	Ireland priest	be in	1979	LOCATION	DATE
+1.0	Harper	become	church of Ireland priest in 1979	PERSON	DATE
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday	PERSON	DATE
+1.0	english-born Alan Harper	be elect as	new head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop Wednesday as new head	PERSON	DATE
+1.0	number	have	have boost in recent year by immigration from Africa	0	DURATION
+1.0	Ireland	have	Protestant Church	ORGANIZATION	ORGANIZATION
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as head	PERSON	DATE
+1.0	his	have	colleagues	O	O
+1.0	Alan Harper	be	elect by he bishop as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	church	be second protestant congregation in	northern Ireland	0	LOCATION
+1.0	Harper	become	church of Ireland priest	PERSON	LOCATION
+1.0	number	have	have boost in recent year from Africa	0	DURATION
+1.0	church	be second congregation in	Ireland	0	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop as head	PERSON	0
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as new head	PERSON	DATE
+1.0	english-born Alan Harper	be elect by	he bishop	PERSON	0
+1.0	english-born Alan Harper	be	elect by he bishop Wednesday as new head of Protestant Church	PERSON	ORGANIZATION
+1.0	number	have	have boost in year by immigration	0	0
+1.0	will 104th	be in	succession of abbot	0	0
+1.0	Alan Harper	be	elect by he fellow bishop as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	english-born Alan Harper	be	elect Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	church	be congregation in	Ireland	0	LOCATION
+1.0	number	have	have boost in recent year by immigration	0	DURATION
+1.0	Alan Harper	be	elect by he bishop Wednesday	PERSON	DATE
+1.0	church	be	second congregation	0	ORDINAL
+1.0	abbots	have	succession	O	O
+1.0	communion	have	part	O	O
+1.0	Harper	become	church	PERSON	0
+1.0	english-born Alan Harper	be	elect by he fellow bishop Wednesday as head of Protestant Church	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he fellow bishop Wednesday as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	number	have	have boost	0	0
+1.0	Alan Harper	be	elect by he bishop Wednesday as head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Alan Harper	be	elect by he bishop as new head of Protestant Church of Ireland	PERSON	ORGANIZATION
+1.0	Archbishop of Armagh	be of	all Ireland	ORGANIZATION	LOCATION
+1.0	english-born Alan Harper	be	elect by he bishop as new head	PERSON	0
+1.0	church	be largest congregation in	Ireland	0	LOCATION
+1.0	Armagh	have	104th	O	LOCATION
+1.0	Archbishop of Armagh	be on	February 2	ORGANIZATION	DATE
+1.0	Alan Harper	be	elect Wednesday as new head	PERSON	DATE
+1.0	Alan Harper	be elect as	head of Protestant Church of Ireland	PERSON	ORGANIZATION

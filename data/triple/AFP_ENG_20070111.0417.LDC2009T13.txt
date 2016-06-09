@@ -1,0 +1,59 @@
+1.0	lithuanian lower court	approve request to	hand	0	0
+1.0	Sergej Monic	be detain in	Vilnius	PERSON	LOCATION
+1.0	Sergej Monic	be	detain in Vilnius on November 25 at request	PERSON	DATE
+1.0	Vilnius	be on	November 25	LOCATION	DATE
+1.0	his	have	lawyer	O	O
+1.0	employees	have	lists	O	O
+1.0	Sergej Monic	be spy of	Belarus	PERSON	LOCATION
+1.0	lower court	approve request over	spy	0	0
+1.0	Sergej Monic	be	Belarus	PERSON	LOCATION
+1.0	they telephone number	be in	Lithuania	0	LOCATION
+1.0	lithuanian appeal court	uphold	decision of court	0	0
+1.0	lithuanian court	approve	request	0	0
+1.0	list	can	can find	0	0
+1.0	list	can	can find easily	0	0
+1.0	court	approve request over	spy	0	0
+1.0	appeal court	have	decision	O	O
+1.0	list	can	can find on ministry 's internet site	0	0
+1.0	lower court	approve	request	0	0
+1.0	appeal court	uphold	decision	0	0
+1.0	appeal court	uphold	decision of court	0	0
+1.0	Sergej Monic	be	detain	PERSON	0
+1.0	lithuanian lower court	approve request over	spy	0	0
+1.0	lithuanian appeal court	uphold	decision	0	0
+1.0	Sergej Monic	be	detain in Vilnius at request	PERSON	LOCATION
+1.0	lithuanian court	approve request over	suspected spy	0	0
+1.0	court	approve request over	suspected spy	0	0
+1.0	Sergej Monic	be detain at	request	PERSON	0
+1.0	lithuanian appeal court	uphold	decision of lower court	0	0
+1.0	lithuanian court	approve	polish request	0	0
+1.0	list	can	can find easily on ministry 's internet site	0	0
+1.0	court	approve	request	0	0
+1.0	Poland	have	information	O	LOCATION
+1.0	lithuanian court	approve request to	hand	0	0
+1.0	Monic	have	lawyers	O	PERSON
+1.0	lithuanian lower court	approve request over	suspected spy	0	0
+1.0	lithuanian lower court	approve	polish request	0	0
+1.0	importance	have	information	O	O
+1.0	Sergej Monic	be detain in	Vilnius on November 25	PERSON	DATE
+1.0	Monic 's lawyer	appeal	extradition decision	PERSON	0
+1.0	lower court	approve	polish request	0	0
+1.0	court	approve request to	hand	0	0
+1.0	ministry employees	have	list	O	O
+1.0	ministry	on	internet site	0	0
+1.0	court	have	decision	O	O
+1.0	appeal court	say at_time	Thursday	0	DATE
+1.0	lithuanian lower court	approve	request	0	0
+1.0	lithuanian court	approve request over	spy	0	0
+1.0	lithuanian lower court	be in	December	0	DATE
+1.0	foreign ministry employees	have	telephone numbers	O	O
+1.0	lower court	approve request over	suspected spy	0	0
+1.0	ministry	have	Internet site	O	O
+1.0	court	approve	polish request	0	0
+1.0	Monic	have	lawyer	PERSON	0
+1.0	prosecutors	have	request	O	O
+1.0	lithuanian appeal court	say at_time	Thursday	0	DATE
+1.0	decision	be	final	0	0
+1.0	Sergej Monic	have deny	accusation	PERSON	0
+1.0	appeal court	uphold	decision of lower court	0	0
+1.0	lower court	approve request to	hand	0	0

@@ -1,0 +1,32 @@
+0.853131457712043	China	be	very important step	0	0
+1.0	senior Hong Kong official	denominate bond for	currency move	LOCATION	0
+1.0	Hong Kong Monetary Authority	have	executive	O	ORGANIZATION
+1.0	bond	be in	Hong Kong	0	LOCATION
+1.0	bonds	have	issue	O	O
+1.0	Hong Kong official	denominate bond for	currency move	LOCATION	0
+1.0	Hong Kong official	denominate bond for	currency move towards stage	LOCATION	0
+1.0	renminbi	have	expansion	O	O
+1.0	Hong Kong official	denominate bond for	currency move towards international stage	LOCATION	0
+1.0	senior Hong Kong official	denominate	bond	LOCATION	0
+1.0	Hong Kong official	denominate	bond	LOCATION	0
+1.0	China	have	State Council	LOCATION	ORGANIZATION
+1.0	China	have	State Council	ORGANIZATION	LOCATION
+1.0	senior Hong Kong official	denominate bond for	currency	LOCATION	0
+1.0	Joseph Yam	executive of	Hong Kong Monetary Authority	PERSON	ORGANIZATION
+0.853131457712043	China	be	step	0	0
+1.0	business	be in	southern territory pave	0	0
+1.0	senior Hong Kong official	denominate bond for	currency move towards stage	LOCATION	0
+1.0	senior Hong Kong official	denominate bond for	currency move towards international stage	LOCATION	0
+0.5452223425274604	currency	move towards	international stage	0	0
+0.853131457712043	China	be	important step	0	0
+1.0	renminbi	of expansion be	yuan	0	0
+1.0	China	be	important	0	0
+1.0	China	sell	yuan	LOCATION	0
+1.0	renminbi	have	category	O	O
+1.0	Hong Kong official	denominate	bond in Hong Kong	LOCATION	LOCATION
+1.0	Hong Kong official	denominate bond for	currency	LOCATION	0
+1.0	a year	be with	chinese authority	DURATION	DURATION
+1.0	renminbi	of category be	yuan	0	0
+0.5452223425274604	currency	move towards	stage	0	0
+1.0	senior Hong Kong official	denominate	bond in Hong Kong	LOCATION	LOCATION
+1.0	Donald Tsang	be	Hong Kong	PERSON	LOCATION

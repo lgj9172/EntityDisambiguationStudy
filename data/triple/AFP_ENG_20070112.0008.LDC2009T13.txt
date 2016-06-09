@@ -1,0 +1,31 @@
+1.0	Ferris wheel	have	metre skyscraper	O	O
+0.9715202504449502	Jiangxi	one	China 's province	LOCATION	LOCATION
+0.9715202504449502	Jiangxi	one	China 's poorest province	LOCATION	LOCATION
+0.9715202504449502	Jiangxi	one of	China 's poorest eastern province	LOCATION	LOCATION
+1.0	China	of	poorest eastern province	LOCATION	0
+1.0	Jiangxi	one of	China 's poorest eastern province	LOCATION	LOCATION
+1.0	Jiangxi	register	its own 160 metre wheel	LOCATION	NUMBER
+1.0	Jiangxi	register	its 160 metre wheel	LOCATION	NUMBER
+1.0	Jiangxi	register	its 160 metre wheel as world 's	LOCATION	NUMBER
+1.0	Jiangxi	register	its 160 metre wheel as world 's tallest	LOCATION	NUMBER
+1.0	Records	have	Guinness Book	ORGANIZATION	ORGANIZATION
+1.0	China	of	economic hub	LOCATION	0
+1.0	official	have apply to	Guinness Book	0	0
+1.0	China	have	provinces	O	LOCATION
+1.0	Jiangxi	have	metre wheel	O	O
+0.9715202504449502	Jiangxi	one of	China 's province	LOCATION	LOCATION
+1.0	state press report	say at_time	Friday	0	DATE
+1.0	official	have apply to	Guinness Book of Records	0	0
+1.0	Records	have	Guinness Book	O	O
+0.9715202504449502	Jiangxi	one of	China 's poorest province	LOCATION	LOCATION
+1.0	provinces	have	one	NUMBER	O
+1.0	Jiangxi	register	its own 160 metre wheel as world 's tallest	LOCATION	NUMBER
+1.0	world	have	tallest Ferris wheel	0	PERSON
+1.0	hub	have	skyline	O	O
+1.0	Jiangxi	register	its own 160 metre wheel as world 's	LOCATION	NUMBER
+1.0	official	have apply for	title	0	0
+0.9715202504449502	Jiangxi	one of	China 's eastern province	LOCATION	LOCATION
+1.0	world	have	Ferris wheel	O	O
+1.0	China	have	hub	O	LOCATION
+0.9715202504449502	Jiangxi	one	China 's poorest eastern province	LOCATION	LOCATION
+0.9715202504449502	Jiangxi	one	China 's eastern province	LOCATION	LOCATION

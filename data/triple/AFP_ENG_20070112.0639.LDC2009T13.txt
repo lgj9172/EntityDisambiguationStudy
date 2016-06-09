@@ -1,0 +1,38 @@
+1.0	girl	keep after	Christmas holiday	0	DATE
+1.0	The girl	have	religion	O	O
+1.0	teacher	be in	England	0	LOCATION
+1.0	my right	wear	cross	0	0
+1.0	Sikh	can wear	symbol	MISC	0
+1.0	The girl	be	proud	0	0
+1.0	Sikh	can wear	religious symbol	MISC	0
+1.0	religion	have	proud	O	O
+1.0	girl	keep at_time	next week	0	DATE
+1.0	The girl	have	neck	O	O
+1.0	Daily Mail	report at_time	Saturday	ORGANIZATION	DATE
+1.0	The girl	be proud of	my religion	0	0
+0.9004894840335742	it	wear	cross	0	0
+1.0	England	be in	Gillingham	LOCATION	LOCATION
+1.0	Nadia Eweida	be of	British Airways	PERSON	ORGANIZATION
+1.0	it	be	my right	0	0
+1.0	my right	wear cross around	my neck	0	0
+1.0	The girl	have	right	O	O
+1.0	she family	accuse	school discriminate against christian	0	0
+1.0	Samantha	be tell by	teacher in Gillingham south-east England	PERSON	LOCATION
+1.0	Her family	have	necklace	O	O
+1.0	Samantha	be tell by	teacher in Gillingham England	PERSON	LOCATION
+1.0	clothing	be in	accordance	0	0
+1.0	she necklace	hide	a crucifix necklace	0	0
+1.0	girl	keep at_time	week	0	DATE
+1.0	girl	have pledge	keep next week	0	DATE
+1.0	Samantha	be tell by	teacher	PERSON	0
+1.0	Nadia Eweida	be employee of	British Airways	PERSON	ORGANIZATION
+1.0	girl	have pledge	keep after Christmas holiday	0	DATE
+1.0	Samantha	be	tell	PERSON	0
+1.0	she family	accuse	school	0	0
+1.0	girl	have pledge	keep next week after Christmas holiday	0	DATE
+1.0	girl	have pledge	keep	0	0
+1.0	girl	have pledge	keep week after Christmas holiday	0	DATE
+0.9004894840335742	it	wear cross around	my neck	0	0
+1.0	Samantha Devine	have	family	O	O
+1.0	girl	have pledge	keep week	0	DATE
+1.0	she family	accuse	school discriminate	0	0

@@ -1,0 +1,20 @@
+1.0	coalition efforts	have	support	O	O
+1.0	Iraq strategy	have	outcome	O	O
+1.0	war	be	fight	0	0
+1.0	last two year	be in	office	DATE	0
+1.0	countries	have	ministers	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US President George W. Bush	have	war-fighting strategy	O	O
+1.0	coalition	have	formation	O	O
+1.0	US President George W. Bush	have	years	DATE	O
+1.0	Australia	be war ally of	Iraq	LOCATION	LOCATION
+1.0	national security spokesman Gordon Johndroe	tell	reporter	PERSON	0
+1.0	coalition effort	be in	Iraq	0	LOCATION
+1.0	war	be fight during	he last two year	0	DATE
+1.0	conversation	come at_time	one day	0	DURATION
+1.0	Iraq war allies	have	leaders	O	O
+1.0	war	be fight during	he two year in office	0	DATE
+1.0	war	be fight during	he last two year in office	0	DATE
+1.0	war	be fight during	he two year	0	DATE
+1.0	the prime ministers of all three countries	have	support	O	O

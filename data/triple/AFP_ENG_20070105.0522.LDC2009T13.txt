@@ -1,0 +1,49 @@
+1.0	citizen	be	arrest	0	0
+0.5303694244783237	embassy	have in	have contact with US authority in relation to detention	0	LOCATION
+1.0	citizen	engage in	anti- coalition activity	0	0
+1.0	citizen	allegedly engage in	anti- coalition activity	0	0
+0.5303694244783237	australian embassy	have in	have contact to detention	0	0
+0.5303694244783237	australian embassy	have in	have contact	0	0
+0.5303694244783237	australian embassy	have in	have contact with US authority to detention	0	LOCATION
+1.0	foreign affair spokeswoman	tell	Associated Press	0	ORGANIZATION
+1.0	have contact	be with	man	0	0
+1.0	australian citizen	be	arrest	0	0
+0.5303694244783237	australian embassy	have in	have contact with US authority	0	LOCATION
+1.0	citizen	be arrest in	Iraq	0	LOCATION
+1.0	official	be in	touch	0	0
+1.0	Kanie	have	daughter	O	O
+1.0	new wife	be in	Iraq	0	LOCATION
+1.0	australian citizen	be arrest in	Iraq	0	LOCATION
+0.5303694244783237	embassy	have in	have contact to detention	0	0
+1.0	australian citizen	allegedly engage in	coalition activity	0	0
+0.5303694244783237	australian embassy	have in	have contact with US authority in relation	0	LOCATION
+1.0	australian citizen	engage in	anti- coalition activity	0	0
+1.0	have contact	be with	US authority in relation	0	LOCATION
+0.5303694244783237	embassy	have in	have contact with US authority to detention	0	LOCATION
+1.0	touch	be with	man 's family	0	0
+1.0	australian citizen	allegedly engage in	anti- coalition activity	0	0
+1.0	authority	confirm at_time	Saturday	0	DATE
+0.5303694244783237	embassy	have in	have contact	0	0
+1.0	origin	have	Australian	MISC	O
+1.0	foreign affair department	be detain by	coalition authority	0	0
+1.0	Kanie	have	family	O	O
+1.0	United Nations Security Council Resolution	have	authority	O	ORGANIZATION
+0.5303694244783237	embassy	have in	have contact with US authority	0	LOCATION
+1.0	man	have	family	O	O
+0.5303694244783237	australian embassy	have in	have contact with US authority in relation to detention	0	LOCATION
+1.0	citizen	allegedly engage in	coalition activity	0	0
+1.0	official	be in	Canberra	0	LOCATION
+1.0	official	be in	touch with man 's family	0	0
+1.0	australian authority	confirm at_time	Saturday	0	DATE
+1.0	man	with	family	0	0
+1.0	affair department	be	detain	0	0
+1.0	australian embassy	be in	Baghdad	0	LOCATION
+1.0	affair spokeswoman	tell	Associated Press	0	ORGANIZATION
+1.0	foreign affair spokeswoman	tell	australian Associated Press	0	ORGANIZATION
+0.5303694244783237	embassy	have in	have contact with US authority in relation	0	LOCATION
+1.0	US authority	be in	relation	LOCATION	0
+1.0	citizen	engage in	coalition activity	0	0
+1.0	affair department	be detain by	coalition authority	0	0
+1.0	foreign affair department	be	detain	0	0
+1.0	affair spokeswoman	tell	australian Associated Press	0	ORGANIZATION
+1.0	australian citizen	engage in	coalition activity	0	0

@@ -1,0 +1,34 @@
+1.0	future	be at	56.80 dollar	0	MONEY
+1.0	US crude oil inventory	fall in	past week	LOCATION	DATE
+1.0	government datum	show at_time	Thursday	0	DATE
+1.0	crude future	be at	after report down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	benchmark crude future	be at	after report down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	future	be at	down 56.80 dollar	0	MONEY
+1.0	benchmark crude future	be at	after report down 56.80 dollar	0	MONEY
+1.0	future	be at	down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	crude future	be at	56.80 dollar	0	MONEY
+1.0	benchmark future	be at	down 56.80 dollar	0	MONEY
+1.0	benchmark future	be at	56.80 dollar	0	MONEY
+1.0	crude future	be at	after report down 56.80 dollar	0	MONEY
+1.0	crude future	be at	after report 56.80 dollar	0	MONEY
+1.0	crude future	be at	down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	benchmark crude future	be at	down 56.80 dollar	0	MONEY
+1.0	barrels	have	rise	O	O
+1.0	benchmark future	be at	after report down 56.80 dollar	0	MONEY
+1.0	future	be at	after report down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	heating oil	have	stockpiles	O	O
+1.0	benchmark crude future	be in	New York	0	LOCATION
+1.0	future	be at	after report 56.80 dollar	0	MONEY
+1.0	benchmark crude future	be at	down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	benchmark crude future	be at	after report 56.80 dollar	0	MONEY
+1.0	US oil inventory	fall in	past week	LOCATION	DATE
+1.0	Energy	have	Department	ORGANIZATION	ORGANIZATION
+1.0	benchmark crude future	be at	56.80 dollar	0	MONEY
+1.0	gasoline	have	stockpiles	O	O
+1.0	distillate products	have	levels	O	O
+1.0	rise	have	expectations	O	O
+1.0	benchmark future	be at	down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	benchmark future	be at	after report down 1.52 dollar 56.80 dollar	0	MONEY
+1.0	benchmark future	be at	after report 56.80 dollar	0	MONEY
+1.0	crude future	be at	down 56.80 dollar	0	MONEY
+1.0	future	be at	after report down 56.80 dollar	0	MONEY

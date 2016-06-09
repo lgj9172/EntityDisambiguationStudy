@@ -1,0 +1,41 @@
+1.0	one 22-year-old man	be kill at_time	year	NUMBER	DATE
+1.0	22-year-old man	be kill by	homemade firework	DATE	0
+1.0	homemade firework	be in	Italy 's	0	LOCATION
+1.0	22-year-old man	be	year kill by homemade firework	DATE	DATE
+1.0	Italy 's new-year firework celebration	injure with	injury	LOCATION	0
+1.0	Italy 's new-year firework celebration	injure with	injury to hand	LOCATION	0
+1.0	Italy 's firework celebration	injure with	526 people seriously injury to hand	LOCATION	NUMBER
+1.0	22-year-old man	be kill at_time	last year	DATE	DATE
+1.0	Italy 's firework celebration	injure with	injury to hand	LOCATION	0
+1.0	22-year-old man	be kill at_time	year	DATE	DATE
+1.0	526 people	29 of	they	NUMBER	0
+1.0	Italy 's new-year firework celebration	injure with	seriously injury to hand	LOCATION	0
+1.0	Italy 's firework celebration	injure with	injury	LOCATION	0
+1.0	22-year-old man	be	last year kill by homemade firework	DATE	DATE
+1.0	Italy	have	firework celebrations	O	LOCATION
+1.0	Italy 's firework celebration	injure with	seriously injury to hand	LOCATION	0
+1.0	Italy 's new-year firework celebration	injure with	seriously injury	LOCATION	0
+1.0	Italy 's firework celebration	injure with	526 people seriously injury	LOCATION	NUMBER
+1.0	one 22-year-old man	be	kill	NUMBER	0
+1.0	Italy 's new-year firework celebration	injure with	526 people seriously injury	LOCATION	NUMBER
+1.0	Italy 's new-year firework celebration	injure with	526 people seriously injury to hand	LOCATION	NUMBER
+1.0	one 22-year-old man	be kill at_time	last year	NUMBER	DATE
+1.0	reference	have	sending-off	O	O
+1.0	22-year-old man	be	kill	DATE	0
+1.0	583	be	injure	NUMBER	0
+1.0	one 22-year-old man	be	last year kill by homemade firework in Italy	NUMBER	LOCATION
+1.0	one 22-year-old man	be	year kill by homemade firework	NUMBER	DATE
+1.0	22-year-old man	be	year kill by homemade firework in Italy	DATE	LOCATION
+1.0	one 22-year-old man	be	last year kill by homemade firework	NUMBER	DATE
+1.0	22-year-old man	be kill by	homemade firework in Italy	DATE	LOCATION
+1.0	material	have	tonnes	O	O
+1.0	Zidane	have	Headbutt	O	LOCATION
+1.0	Italy	have	new-year firework celebration	LOCATION	0
+1.0	one 22-year-old man	be kill by	homemade firework in Italy	NUMBER	LOCATION
+1.0	minister	say at_time	Monday	0	DATE
+1.0	interior minister	say at_time	Monday	0	DATE
+1.0	one 22-year-old man	be	year kill by homemade firework in Italy	NUMBER	LOCATION
+1.0	22-year-old man	be	last year kill by homemade firework in Italy	DATE	LOCATION
+1.0	526 people	have	29	NUMBER	O
+1.0	one 22-year-old man	be kill by	homemade firework	NUMBER	0
+1.0	Italy 's firework celebration	injure with	seriously injury	LOCATION	0

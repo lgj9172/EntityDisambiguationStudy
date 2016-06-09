@@ -1,0 +1,40 @@
+1.0	upsurge	have leave at_time	alone last year	0	DATE
+1.0	Sri Lanka	in	Jaffna peninsula	LOCATION	LOCATION
+1.0	upsurge	have leave despite	truce in place since February 2002	0	DATE
+1.0	upsurge	have leave dead at_time	year	0	DATE
+1.0	President Mahinda Rajapakse and the LTTE	have	Year messages	O	O
+1.0	upsurge	be in	violence between government troops	0	0
+1.0	upsurge	have leave dead at_time	alone year	0	DATE
+1.0	upsurge	have leave despite	truce in place	0	0
+1.0	upsurge	have leave despite	truce	0	0
+1.0	military vehicle	be in	Navalady	0	LOCATION
+1.0	upsurge	have leave dead despite	norwegian-arranged truce	0	0
+1.0	Day	have	hours	DATE	DATE
+1.0	Tamil Tiger rebel	be in	Jaffna peninsula	ORGANIZATION	LOCATION
+1.0	rebel	be fight for	independence	0	0
+1.0	Sri Lanka	have	Jaffna peninsula	LOCATION	LOCATION
+1.0	conflict	have claim than	60,000 life	0	NUMBER
+1.0	island	be in	they new year message	0	0
+1.0	upsurge	have leave at_time	last year	0	DATE
+1.0	island	for	minority	0	0
+1.0	upsurge	have leave at_time	alone year	0	DATE
+1.0	defence official	say at_time	Monday	0	DATE
+1.0	upsurge	have leave dead despite	truce	0	0
+1.0	upsurge	have leave dead despite	truce in place since February 2002	0	DATE
+1.0	New Year	have	Day	DATE	DATE
+1.0	rebel	be fight for	independence for island 's minority	0	0
+1.0	upsurge	have leave dead despite	truce in place	0	0
+1.0	Tamil Ealam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	upsurge	have leave dead despite	norwegian-arranged truce in place	0	0
+1.0	upsurge	have leave dead at_time	last year	0	DATE
+1.0	explosion	come as	President Mahinda Rajapakse	0	PERSON
+1.0	conflict	have claim than	60,000 life since 1972	0	DATE
+1.0	upsurge	have leave despite	norwegian-arranged truce in place since February 2002	0	DATE
+1.0	upsurge	have leave dead at_time	alone last year	0	DATE
+1.0	norwegian-arranged truce	be in	place since February 2002	0	DATE
+1.0	upsurge	have leave despite	norwegian-arranged truce in place	0	0
+1.0	upsurge	have leave dead despite	norwegian-arranged truce in place since February 2002	0	DATE
+1.0	Jaffna	have	state	O	LOCATION
+1.0	island	have	minority	O	O
+1.0	upsurge	have leave at_time	year	0	DATE
+1.0	upsurge	have leave despite	norwegian-arranged truce	0	0

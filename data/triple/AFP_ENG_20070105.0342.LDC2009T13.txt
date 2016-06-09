@@ -1,0 +1,97 @@
+1.0	head	meet	opposition leader	0	0
+1.0	former UN secretary	recommend in	he report on Ivory Coast	ORGANIZATION	LOCATION
+1.0	former UN secretary	recommend in	he last report	ORGANIZATION	DURATION
+1.0	sanction	undermine	peace reconciliation	0	0
+1.0	force	be oversee	ceasefire between rebel	0	0
+1.0	Laurent Gbagbo	be in	control of south	PERSON	0
+1.0	UNOCI	have	activities	O	ORGANIZATION
+1.0	head	meet opposition leader at_time	next Thursday	0	DATE
+1.0	Gbagbo	have	term	O	PERSON
+1.0	Abidjan	be in	ivorian	LOCATION	0
+1.0	head	meet opposition leader in	town	0	0
+1.0	peace reconciliation	obstruct	activity	0	0
+1.0	the United Nations '	have	deployment	O	O
+1.0	mandate	monitor arm embargo in	former french colony	0	0
+1.0	The UN Security Council	have	peacekeeping operations	O	O
+1.0	peace reconciliation	obstruct	activity of unoci	0	0
+1.0	forces	have	activities	O	O
+1.0	force	be oversee	fragile ceasefire	0	0
+0.6065650333821869	opposition leader	head of	country 's New Forces rebel group	0	0
+1.0	Council	decide in	separate resolution	ORGANIZATION	0
+1.0	UN security Council	will meet	decide	ORGANIZATION	0
+1.0	November	have	deployed	O	DATE
+1.0	panel	have	mandate	O	O
+1.0	force	be oversee	fragile ceasefire between rebel	0	0
+1.0	mandate	monitor arm embargo in	former colony	0	0
+1.0	head	meet opposition leader in	rebel-held town of Bouake	0	LOCATION
+1.0	Security Council	adopt resolution in	November	ORGANIZATION	DATE
+1.0	the United Nations '	extend	its deployment	ORGANIZATION	0
+1.0	peace reconciliation	commit	human rights violation	0	0
+1.0	head	meet	ivorian opposition leader	0	0
+1.0	mandate	monitor	arm embargo	0	0
+1.0	the United Nations ' Pierre Schori	tell	press conference	PERSON	0
+1.0	Council	decide in	resolution in November	ORGANIZATION	DATE
+1.0	country	's group be	fn	0	0
+1.0	the United Nations '	extend there	its deployment	ORGANIZATION	0
+1.0	Alain Lobognon	be spokesman of	fn	PERSON	0
+1.0	dialogue	be in	Bouake	0	LOCATION
+1.0	head	meet opposition leader in	central town of Bouake	0	LOCATION
+1.0	head	meet opposition leader at_time	Thursday	0	DATE
+1.0	state Henri Konan Bedie	have	head	O	PERSON
+1.0	AFP	learn in	separate development	ORGANIZATION	0
+1.0	Council	decide in	resolution	ORGANIZATION	0
+1.0	Gbagbo	have	term for one year	PERSON	DURATION
+1.0	force	be oversee	ceasefire	0	0
+1.0	rebel	be in	north	0	0
+1.0	country	of	New Forces rebel group	0	0
+1.0	lead UN representative	be in	african nation	ORGANIZATION	0
+1.0	country	's group be	Guillaume Soro	0	PERSON
+1.0	opposition parties	have	heads	O	O
+1.0	New Forces rebel group	have	head	O	O
+1.0	Bouake	have	town	O	LOCATION
+1.0	disagreements	have	off put	O	O
+1.0	the United Nations ' Pierre Schori	have	report	O	O
+1.0	UN security Council	will meet at_time	next week	ORGANIZATION	DATE
+1.0	AFP	learn at_time	Friday	ORGANIZATION	DATE
+0.6065650333821869	ivorian opposition leader	head of	fn	0	0
+1.0	Ivory Coast	have	Democratic Party	ORGANIZATION	ORGANIZATION
+1.0	Security Council	adopt	resolution	ORGANIZATION	0
+1.0	Council	decide	extend	ORGANIZATION	0
+1.0	United Nations	have	Pierre Schori	PERSON	ORGANIZATION
+1.0	former UN secretary	recommend in	he report	ORGANIZATION	0
+0.7728560620712472	obstruct	activity of	unoci	0	0
+0.6065650333821869	ivorian opposition leader	head of	country 's New Forces rebel group	0	0
+1.0	fn spokesman Alain Lobognon	tell	AFP	PERSON	ORGANIZATION
+1.0	Alain Lobognon	be	fn	PERSON	0
+1.0	head	meet opposition leader in	rebel-held town	0	0
+1.0	Republicans	have	Rally	O	O
+1.0	separate resolution	be in	November 20	0	DATE
+1.0	force	be oversee	fragile ceasefire between rebel in north	0	0
+1.0	head	meet opposition leader in	rebel-held central town	0	0
+1.0	presidential election	be in	Ivory Coast	0	LOCATION
+1.0	force	be oversee	ceasefire between rebel in north	0	0
+1.0	Licorne force	have	extension'	O	O
+1.0	south	have	control	O	O
+1.0	UN mandate	have	extension	O	O
+1.0	country	have	New Forces rebel group	O	O
+0.6065650333821869	opposition leader	head of	fn	0	0
+1.0	President Laurent Gbagbo	have	government forces	O	PERSON
+1.0	UN security Council	will meet at_time	week	ORGANIZATION	DATE
+1.0	the United Nations ' Pierre Schori	tell press conference in	ivorian capital Abidjan	PERSON	LOCATION
+1.0	AFP	learn in	development	ORGANIZATION	0
+1.0	Ivory Coast	representative in	african nation	LOCATION	0
+0.6065650333821869	opposition leader	head of	Guillaume Soro	0	PERSON
+1.0	former UN secretary	recommend in	he last report on Ivory Coast	ORGANIZATION	LOCATION
+0.6065650333821869	ivorian opposition leader	head of	Guillaume Soro	0	PERSON
+1.0	October	have	end	DATE	DATE
+1.0	head	meet opposition leader in	town of Bouake	0	LOCATION
+1.0	council	also threaten	impose	0	0
+1.0	head	meet opposition leader in	rebel-held central town of Bouake	0	LOCATION
+1.0	UN experts	have	panel	O	O
+1.0	head	meet opposition leader in	central town	0	0
+1.0	Rally	have	minister Alassane Ouattara	PERSON	O
+1.0	council	threaten	impose	0	0
+1.0	the United Nations ' Pierre Schori	tell press conference in	capital Abidjan	PERSON	LOCATION
+1.0	UNOCI force	have	future	DATE	O
+1.0	Council	decide in	separate resolution in November	ORGANIZATION	DATE
+1.0	peace reconciliation	commit	rights violation	0	0

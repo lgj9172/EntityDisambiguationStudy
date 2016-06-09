@@ -1,0 +1,39 @@
+0.6997830540599724	bomb	philippine city of	General Santos	0	PERSON
+1.0	this weekend	have	ASEAN summit	DATE	ORGANIZATION
+1.0	bomb	rock	southern city of General Santos	0	PERSON
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	bomb	rock	southern philippine city of General Santos	0	PERSON
+1.0	Adam Air flight	go	miss	MISC	0
+1.0	president	have	attention	O	O
+1.0	bomb	rock	southern city	0	0
+1.0	Association	have	summit	O	ORGANIZATION
+1.0	bomb	rock	philippine city of General Santos	0	PERSON
+1.0	Susilo Bambang Yudhoyono	be	indonesian	PERSON	0
+1.0	Indonesian President Susilo Bambang Yudhoyono	have	attendance	O	O
+1.0	General Santos	have	city	O	PERSON
+0.6997830540599724	bomb	city of	General Santos	0	PERSON
+1.0	Indonesian President Susilo Bambang Yudhoyono	confirm	he attendance	PERSON	DURATION
+1.0	Adam Air flight	miss over	Sulawesi island	MISC	LOCATION
+1.0	he	miss	East Asia Summit	0	0
+1.0	bomb	rock	philippine city	0	0
+1.0	East Asia Summit	gather	10 nation of ASEAN	0	NUMBER
+1.0	Myanmar	be	Brunei	LOCATION	LOCATION
+1.0	Senopati Nusantara	carry	some 600 people	0	NUMBER
+1.0	spokesman	say at_time	Thursday	0	DATE
+1.0	he	miss	second East Asia Summit	0	ORDINAL
+0.6997830540599724	bomb	southern philippine city of	General Santos	0	PERSON
+1.0	Adam Air flight	go	miss over Sulawesi island	MISC	LOCATION
+1.0	ASEAN	have	nations	O	ORGANIZATION
+1.0	bomb	kill	seven people	0	NUMBER
+1.0	Adam Air flight	miss on	January 1	MISC	DATE
+1.0	New Zealand	be	South Korea	LOCATION	LOCATION
+1.0	bomb	rock	city of General Santos	0	PERSON
+1.0	East Asia Summit	gather	10 nation	0	NUMBER
+1.0	plane	have	wrecks	O	O
+1.0	Adam Air flight	go	miss over Sulawesi island on January 1	MISC	LOCATION
+1.0	bomb	rock	city	0	0
+1.0	Adam Air flight	go	miss on January 1	MISC	DATE
+0.6997830540599724	bomb	southern city of	General Santos	0	PERSON
+1.0	ferry	have	wrecks	O	O
+1.0	bomb	rock	southern philippine city	0	0
+1.0	weekend	have	ASEAN summit	O	DATE

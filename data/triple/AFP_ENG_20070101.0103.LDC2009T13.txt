@@ -1,0 +1,79 @@
+1.0	mouse	have lose	at least 20 percent of they body weight	0	PERCENT
+1.0	incretin	have	first	ORDINAL	O
+1.0	diabetes patients	have	blood sugar levels	O	O
+1.0	glp-1	normalize	glucose level	0	0
+1.0	study	have	author	O	O
+1.0	study	be in	Proceedings of National Academy of Sciences	0	ORGANIZATION
+1.0	diabetic mouse	have lose	at least 20 percent of they body weight	DURATION	PERCENT
+1.0	diabetes patient	stimulate pancreas after	meal	0	0
+0.7677612389629302	researcher	have continue to	hunt	0	0
+1.0	compound	have	have test	0	DURATION
+1.0	researcher	screen	thousand	0	0
+1.0	China	have	National Center	ORGANIZATION	LOCATION
+1.0	boc5	curb	appetite	0	0
+0.9003421019717227	a compound that controls diabetes in mice and may point the way to more user-friendly treatments for the most common type of human diabetes	could	could turn into drug	0	0
+1.0	hormone	have	effects	O	O
+1.0	its efficacy	have	attention	O	O
+1.0	body	of	own glucose-regulating gut hormone	0	NUMBER
+1.0	diabetes	be in	mouse	0	0
+1.0	mouse	have lose	at least 20 percent	0	PERCENT
+1.0	diabetes	have	type	O	O
+1.0	Amylin Pharmaceuticals	begin	Eli Lilly	ORGANIZATION	ORGANIZATION
+1.0	Byetta	have	have also show	LOCATION	0
+1.0	author	say ming for	Drug Screening	0	ORGANIZATION
+1.0	diabetes patient	stimulate	pancreas	0	0
+0.41267623187973773	medicine	call	Byetta	0	LOCATION
+1.0	weight loss	be in	patient	0	0
+1.0	glp-1	normalize glucose level in	diabetic patient	0	0
+1.0	Byetta	curb	appetite	LOCATION	0
+1.0	National Center	have	director	O	ORGANIZATION
+0.633593924617174	author	say for	Drug Screening	0	ORGANIZATION
+1.0	diabetes patient	manage	they blood sugar level	0	0
+1.0	diabetic mouse	have lose	at least 20 percent	DURATION	PERCENT
+1.0	body weight	have	percent	PERCENT	O
+1.0	Amylin Pharmaceuticals	market	Eli Lilly	ORGANIZATION	ORGANIZATION
+1.0	agents	have	class	O	O
+1.0	National Center for Drug Screening	be in	Shanghai	ORGANIZATION	LOCATION
+1.0	drug industry	have focus	its attention	0	0
+1.0	author	say ming for	Drug Screening in Shanghai	0	LOCATION
+1.0	Amylin Pharmaceuticals	market	first onset diabetes	ORGANIZATION	ORDINAL
+1.0	food	leave	glucose	0	0
+1.0	glp-1	normalize glucose level in	patient	0	0
+1.0	glp-1	have	have show	0	0
+1.0	boc5	reduce	cholesterol level	0	0
+1.0	Byetta	curb appetite with	weight loss in patient	LOCATION	0
+0.739445412069764	mice	could	could produce in pill form	0	0
+1.0	Sciences	have	National Academy	ORGANIZATION	ORGANIZATION
+1.0	Amylin Pharmaceuticals	begin in	2005	ORGANIZATION	DATE
+1.0	National Academy	have	Proceedings	O	ORGANIZATION
+1.0	researcher	screen	thousand of substance	0	0
+1.0	boc5	increase insulin sensitivity in	lab test	0	0
+0.16462840434805412	food	stomach	glucose	0	0
+0.739445412069764	mice	could	could produce	0	0
+1.0	Amylin Pharmaceuticals	market	onset diabetes	ORGANIZATION	0
+1.0	Ming Wei Wang	director of	National Center for Drug Screening	PERSON	ORGANIZATION
+1.0	diabetic mouse	perform	same	DURATION	DURATION
+1.0	its efficacy	diminish quickly with	time	0	0
+1.0	substances	have	thousands	O	O
+1.0	China	of	National Center for Drug Screening	LOCATION	ORGANIZATION
+1.0	Byetta	curb appetite with	weight loss	LOCATION	0
+1.0	mouse	perform	same	0	DURATION
+1.0	its efficacy	have	efficacy	O	O
+1.0	body	have	gut hormones	O	O
+1.0	compound	have	have only test	0	DURATION
+1.0	its efficacy	diminish with	time	0	0
+1.0	food	leave	stomach	0	0
+1.0	boc5	increase	insulin sensitivity	0	0
+1.0	pain	have	some	O	O
+1.0	Byetta	have	have show	LOCATION	0
+0.633593924617174	author	say for	Drug Screening in Shanghai	0	LOCATION
+0.9003421019717227	a compound that controls diabetes in mice and may point the way to more user-friendly treatments for the most common type of human diabetes	could	could turn	0	0
+1.0	diabetes	have	form	O	O
+1.0	study	have	authors	O	O
+1.0	author	say	Ming	0	PERSON
+1.0	boc5	increase insulin sensitivity in	lab test on diabetic mouse	0	0
+1.0	a compound that controls diabetes in mice and may point the way to more user-friendly treatments for the most common type of human diabetes	be	show	0	0
+1.0	some patients	have	body weight	O	O
+1.0	boc5	increase insulin sensitivity in	lab test on mouse	0	0
+1.0	researcher	identify	molecule	0	0
+1.0	gut hormones	have	one	NUMBER	O

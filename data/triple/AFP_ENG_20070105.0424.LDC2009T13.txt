@@ -1,0 +1,36 @@
+1.0	Nigeria	of	main opposition party	LOCATION	0
+1.0	nation	have	anti-graft agency	0	0
+1.0	nation	have	agency	O	O
+1.0	Nigeria	have	parties	O	LOCATION
+1.0	AC	have	candidate	O	ORGANIZATION
+1.0	candidates	have	validity	O	O
+1.0	nation 's anti-graft agency	indict	ac 's presidential candidate	0	0
+1.0	presidential election	be in	April	0	DATE
+1.0	Nigeria	have	history	O	LOCATION
+1.0	nation 's agency	indict	INEC spokesman Muhammed Abubakar	0	PERSON
+1.0	His	have	post	O	O
+1.0	Muhammed Abubakar	be spokesman of	INEC	PERSON	ORGANIZATION
+1.0	Nigeria	have	opposition parties	O	LOCATION
+1.0	country	have	electoral commission	0	0
+1.0	candidates	have	total	O	O
+1.0	country	have	commission	O	O
+1.0	ruling People	have	Democratic Party	ORGANIZATION	ORGANIZATION
+1.0	Muhammed Abubakar	be	INEC	PERSON	ORGANIZATION
+1.0	he	defect to	ac	0	0
+1.0	first transition	be in	Nigeria 's history	ORDINAL	LOCATION
+1.0	ac	have	presidential candidate	0	0
+1.0	April after eight year	be in	power	DATE	0
+1.0	Nigeria 's main opposition party	of one be	Action Congress	LOCATION	ORGANIZATION
+1.0	opposition parties	have	One	NUMBER	O
+1.0	nation 's anti-graft agency	indict	ac 's candidate	0	0
+1.0	Nigeria	have	landmark	O	LOCATION
+1.0	nation 's agency	indict	ac 's presidential candidate	0	0
+1.0	ac	's candidate be	INEC spokesman Muhammed Abubakar	0	PERSON
+1.0	nation 's anti-graft agency	indict	INEC spokesman Muhammed Abubakar	0	PERSON
+1.0	nation	's agency be	efcc	0	0
+1.0	Nigeria	have	50 register political party	LOCATION	NUMBER
+1.0	Nigeria	in	history	LOCATION	0
+1.0	he	defect from	ruling people 's Democratic Party	0	ORGANIZATION
+1.0	Nigeria	have	landmark	LOCATION	0
+1.0	nation 's agency	indict	ac 's candidate	0	0
+1.0	President Olusegun Obasanjo	back	Abubakar	PERSON	PERSON

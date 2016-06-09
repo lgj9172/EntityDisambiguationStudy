@@ -1,0 +1,64 @@
+1.0	Olmert	have	office	PERSON	0
+1.0	extremist	hope for	future	0	DATE
+1.0	The Palestinian government	have	refusal	O	O
+1.0	roadmap	foresee	two state live	0	NUMBER
+1.0	intifada	start in	2000	0	DATE
+1.0	Abbas	be in	he standoff	PERSON	0
+1.0	Livni	say at_time	week	PERSON	DATE
+1.0	Haaretz	have	weekend magazine	O	ORGANIZATION
+1.0	government	have	have boycott	0	0
+1.0	army radio	quote	she	0	0
+1.0	details	have	all	O	O
+1.0	she	want	show	0	0
+1.0	side	be in	peace	0	0
+1.0	israeli Prime Minister Ehud Olmert	head to	Egypt	PERSON	LOCATION
+1.0	Mark Regev	be spokesman of	Livni	PERSON	PERSON
+1.0	roadmap	foresee	two state	0	NUMBER
+0.5606008758653529	government	lead by	the Islamist Hamas	0	ORGANIZATION
+1.0	refugees	have	that	O	O
+0.526002805280653	its refusal	recognise	Israel	0	LOCATION
+1.0	states	have	principle	O	O
+1.0	trade union leaders	have	meeting	O	O
+1.0	Abbas	between	Fatah movement	PERSON	ORGANIZATION
+1.0	palestinian government	have	have boycott	0	0
+1.0	the Islamist Hamas	be by	islamist	ORGANIZATION	0
+1.0	palestinian intifada	start in	2000	0	DATE
+1.0	she	support	moderate	0	0
+0.5606008758653529	government	lead by	islamist Hamas	0	ORGANIZATION
+1.0	so-called roadmap	foresee	two state	0	NUMBER
+1.0	dozen	roll on	arrest raid	0	0
+1.0	Livni	have	spokesman Mark Regev	PERSON	PERSON
+1.0	we	support	palestinian president Abu Mazen	0	PERSON
+1.0	Prime Minister Ehud Olmert	head to	Egypt	PERSON	LOCATION
+1.0	Tzipi Livni	be	Israeli	PERSON	MISC
+1.0	fighting	have increase in	week	0	0
+0.5606008758653529	palestinian government	lead by	the Islamist Hamas	0	ORGANIZATION
+1.0	moderation	have	path	O	O
+1.0	Abu Mazen	be	palestinian	PERSON	0
+1.0	we	support	Mahmud Abbas	0	PERSON
+1.0	Livni	have	Mark Regev	PERSON	PERSON
+1.0	Livni	say at_time	last week	PERSON	DATE
+1.0	we	negotiate with	he	0	0
+0.5606008758653529	palestinian government	lead by	islamist Hamas	0	ORGANIZATION
+1.0	Abbas	have	forces	O	PERSON
+1.0	Egyptian President Hosni Mubarak	have	standoff	O	O
+1.0	Livni 's spokesman Mark Regev	tell	AFP	PERSON	ORGANIZATION
+1.0	dozen	roll into	Ramallah in West Bank	0	LOCATION
+1.0	The Palestinian government	win january election over	its refusal	0	0
+1.0	Abbas	have	Fatah movement	O	PERSON
+1.0	Ramallah	be in	West Bank	LOCATION	LOCATION
+1.0	four Palestinians	wound	20 other	NUMBER	NUMBER
+1.0	so-called roadmap	foresee	two state live	0	NUMBER
+1.0	The Palestinian government	win	January election	0	DATE
+1.0	Olmert	have	office	O	PERSON
+1.0	we	support	president Abu Mazen	0	PERSON
+1.0	its	have	details	O	O
+1.0	army vehicles	have	dozens	O	O
+1.0	dozen	roll into	Ramallah in occupied West Bank	0	LOCATION
+1.0	palestinian government	have	have boycott by Israel	0	LOCATION
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Hosni Mubarak	be with	egyptian	PERSON	0
+1.0	government	have	have boycott by Israel	0	LOCATION
+1.0	fighting	have increase in	recent week	0	DURATION
+1.0	Israeli Foreign Minister Tzipi Livni	tell	meeting	PERSON	0
+1.0	dozen	roll into	Ramallah	0	LOCATION

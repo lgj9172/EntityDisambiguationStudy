@@ -1,0 +1,14 @@
+1.0	dollars	have	seizures	O	O
+1.0	54	have	ages	O	NUMBER
+1.0	counterfeiter	be in	Portugal	0	LOCATION
+1.0	Their	have	nationalities	O	O
+1.0	euro banknote	be in	country	0	0
+1.0	dollars	have	possession	O	MONEY
+1.0	seizure	be in	August	0	DATE
+1.0	country	be in	2002	0	DATE
+1.0	Portuguese police	say at_time	Thursday	0	DATE
+1.0	US dollars	have	face value	O	MONEY
+1.0	46	have	ages	O	NUMBER
+1.0	seizures	have	one	NUMBER	O
+1.0	Portugal	be 's	third	LOCATION	ORDINAL
+1.0	Coimbra	have	city	O	LOCATION

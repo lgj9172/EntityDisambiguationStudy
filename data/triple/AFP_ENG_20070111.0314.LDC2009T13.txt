@@ -1,0 +1,37 @@
+1.0	Arab League	have	its headquarters	ORGANIZATION	0
+1.0	syrian involvement	be in	Lebanon	0	LOCATION
+0.607086605440925	sit-in protest	call for	Lebanese Prime Minister Fuad Siniora	0	PERSON
+1.0	grouping	have	delegations	O	O
+1.0	Amr Mussa	have	spokesman Alaa Rushdie	PERSON	PERSON
+1.0	latest development	be in	Lebanon	0	LOCATION
+1.0	meeting	be with	Hosni Mubarak	0	PERSON
+1.0	Amr Mussa	be secretary general of	the Arab League	PERSON	ORGANIZATION
+1.0	Lebanese Prime Minister Fuad Siniora	will see	Amr Mussa	PERSON	PERSON
+1.0	crisis	persist with	group Hezbollah	0	ORGANIZATION
+1.0	crisis	persist with	shiite group Hezbollah	0	ORGANIZATION
+1.0	Amr Mussa	try	mediate	PERSON	0
+1.0	French Foreign Minister Philippe Douste - Blazy	have	counterpart	O	O
+1.0	crisis	persist however with	shiite group Hezbollah	0	ORGANIZATION
+1.0	Fuad Siniora	be	lebanese	PERSON	0
+1.0	Hezbollah	be group of	shiite	ORGANIZATION	0
+1.0	Israel-Hezbollah war	have	wake	O	O
+1.0	Philippe Douste Blazy	be	French	PERSON	MISC
+1.0	Lebanon	have	debt	O	LOCATION
+1.0	Amr Mussa	be	the Arab League	PERSON	ORGANIZATION
+1.0	French Foreign Minister Philippe Douste	attend	donor conference	PERSON	0
+1.0	Arab mediation	be in	Lebanon	MISC	LOCATION
+1.0	Amr Mussa	have	Alaa Rushdie	PERSON	PERSON
+1.0	Hezbollah	be with	shiite	ORGANIZATION	0
+1.0	Lebanese Prime Minister Fuad Siniora	will also see	Amr Mussa	PERSON	PERSON
+1.0	Amr Mussa	try at_time	last month	PERSON	DATE
+1.0	Alaa Rushdie	be spokesman of	Amr Mussa	PERSON	PERSON
+1.0	political crisis	be in	Lebanon	0	LOCATION
+1.0	official	say at_time	Thursday	0	DATE
+1.0	unity	have	government	O	O
+1.0	Egyptian President Hosni Mubarak and Arab League Secretary General Amr Mussa	have	discussions	O	O
+1.0	Hosni Mubarak	be with	egyptian	PERSON	0
+1.0	Lebanon	have	crush external debt	LOCATION	0
+1.0	Paris III conference	have	holding	O	O
+1.0	Amr Mussa	try at_time	month	PERSON	DATE
+1.0	crisis	persist however with	group Hezbollah	0	ORGANIZATION
+1.0	the Arab League	have	headquarters	O	O

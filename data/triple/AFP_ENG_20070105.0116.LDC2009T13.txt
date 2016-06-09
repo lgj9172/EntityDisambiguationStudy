@@ -1,0 +1,99 @@
+1.0	handwriting experts	have	strength	O	O
+1.0	... Sobhraj	be	convict	PERSON	0
+1.0	... Sobhraj	visit	Nepal then in 1975	PERSON	LOCATION
+1.0	Sobhraj	have	defence lawyer	O	PERSON
+1.0	the 1970	be in	India	DATE	LOCATION
+1.0	Connie Joe Brozich	be of	american	PERSON	0
+1.0	officer 's identification	contradict	plank	0	0
+1.0	friend	have	bodies	O	O
+1.0	body	be	when discover in Kathmandu Valley	0	LOCATION
+1.0	smooth-talking Sobhraj	be	now 63	PERSON	NUMBER
+1.0	court official	say at_time	Friday	0	DATE
+1.0	he	escape from	prison	0	0
+1.0	his	have	casino arrest	O	O
+1.0	officer	have	identification	O	O
+1.0	officer 's identification	contradict	central plank	0	0
+1.0	valuables	have	robbed	O	O
+1.0	Jo Brozich	be of	US	PERSON	LOCATION
+1.0	appeal	have	plank	O	O
+1.0	murder	have	convicted	O	O
+1.0	Nepal then -LRB- in 1975 -RRB-	be in	1975	LOCATION	DATE
+1.0	Jo Brozich	be tourist connie of	US	PERSON	LOCATION
+1.0	his	have	career	O	O
+1.0	his	have	hotel	O	O
+1.0	their	have	passports	O	O
+1.0	Frenchman	have	appeal	O	MISC
+1.0	Sobhraj	have	defence lawyer	PERSON	0
+1.0	... Sobhraj	have	identification	O	PERSON
+1.0	officer 's identification	directly contradict	central plank	0	0
+1.0	... Sobhraj	visit	Nepal	PERSON	LOCATION
+1.0	man	have	passport	O	O
+1.0	passports	have	robbed	O	O
+1.0	The lower court judge who convicted him	have	lawyers	O	O
+1.0	victims	have	Most	O	O
+1.0	... Sobhraj	be appeal after	he conviction	PERSON	0
+1.0	slayings	have	string	O	O
+1.0	... Sobhraj	have	conviction	O	O
+1.0	The officer 's	have	arrest	O	O
+1.0	officer 's identification	directly contradict	plank	0	0
+0.20705328168532028	The officer 's	nepal before	he arrest	0	0
+1.0	Nepal	be in	1975	LOCATION	DATE
+1.0	... Sobhraj	enter	Nepal then -LRB- in 1975 -RRB-	PERSON	LOCATION
+1.0	His	have	claim	O	O
+1.0	char body	be	when discover in Kathmandu Valley	0	LOCATION
+1.0	Laurent Armand Carriere	have	murder	O	PERSON
+1.0	his	have	handwriting	O	O
+1.0	most	rob of	they passport	0	0
+1.0	... Sobhraj	use	passport of man	PERSON	0
+1.0	Laurent Armand Carriere	be	canadian	PERSON	0
+1.0	officer 's identification	contradict	central plank of Frenchman 's appeal	0	MISC
+1.0	officer 's identification	contradict	plank of Frenchman 's appeal	0	MISC
+1.0	body	be	discover	0	0
+1.0	travel agency	tell	court	0	0
+1.0	... Sobhraj	visit	Nepal then	PERSON	LOCATION
+1.0	his	have	arrest	O	O
+1.0	body	be	when discover	0	0
+1.0	Jo Brozich	have	friend	O	O
+1.0	most	be	drug	0	0
+1.0	Connie Joe Brozich	have	murder	O	PERSON
+0.7814794479979937	... Sobhraj	passport of	dutch man	PERSON	0
+1.0	prison	be in	India	0	LOCATION
+1.0	Brozich	for	death	PERSON	0
+1.0	... Sobhraj	have	face	O	PERSON
+1.0	Jo Brozich	of body be	Canadian national Laurent Armand Carriere	PERSON	PERSON
+1.0	prosecution	have	request	O	O
+1.0	Frenchman	of	appeal	MISC	0
+1.0	travellers	have	deaths	O	O
+1.0	officer	have	identification of Sobhraj	0	PERSON
+1.0	... Sobhraj	be appeal against	sentence	PERSON	0
+1.0	... Sobhraj	be appeal against	20-year-jail sentence	PERSON	DURATION
+1.0	... Sobhraj	be convict after	he 2003 casino arrest	PERSON	DATE
+1.0	... Sobhraj	visit	Nepal in 1975	PERSON	LOCATION
+1.0	... Sobhraj	have	face	PERSON	0
+1.0	char body	be	discover	0	0
+1.0	... Sobhraj	be convict largely after	he 2003 casino arrest	PERSON	DATE
+1.0	he	escape during	he career	0	0
+1.0	char body	be	when discover	0	0
+1.0	US tourist Connie Jo Brozich	have	bodies	O	PERSON
+1.0	officer 's identification	directly contradict	central plank of Frenchman 's appeal	0	MISC
+1.0	... Sobhraj	use	passport	PERSON	0
+1.0	... Sobhraj	use	passport of dutch man	PERSON	0
+1.0	his	have	victims	O	O
+1.0	testimony	have	identification	O	O
+1.0	body	be discover in	Kathmandu Valley	0	LOCATION
+0.7814794479979937	... Sobhraj	passport of	man	PERSON	0
+1.0	char body	be discover in	Kathmandu Valley	0	LOCATION
+1.0	Sobhraj 's defence lawyer	say at_time	Friday	PERSON	DATE
+1.0	Brozich	have	death	O	PERSON
+1.0	officer 's identification	directly contradict	plank of Frenchman 's appeal	0	MISC
+1.0	police superintendent	be in	1975	0	DATE
+1.0	he	escape from	prison in India	0	LOCATION
+1.0	... Sobhraj	be	convict largely	PERSON	0
+1.0	Charles Sobhraj	be in	1975	PERSON	DATE
+1.0	... Sobhraj	be appeal after	he conviction for Brozich 's death	PERSON	PERSON
+1.0	police officer	tell	court	0	0
+1.0	Sobhraj	be	now 63	PERSON	NUMBER
+1.0	backpackers	have	killings	O	O
+1.0	... Sobhraj	could	could arrest	0	0
+1.0	he	escape during	he criminal career	0	0
+1.0	... Sobhraj	enter	Nepal in 1975	PERSON	LOCATION

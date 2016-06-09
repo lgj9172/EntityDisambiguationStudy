@@ -1,0 +1,7 @@
+0.7163547904497114	limit	impose by	President George W. Bush on federal funding for stem cell research	0	PERSON
+0.7163547904497114	limit	impose by	President George W. Bush on funding for stem cell research	0	PERSON
+1.0	US	vote for	legislation	LOCATION	0
+0.7163547904497114	limit	impose by	President George W. Bush	0	PERSON
+0.7163547904497114	limit	impose by	President George W. Bush on funding	0	PERSON
+0.7163547904497114	limit	impose by	President George W. Bush on federal funding	0	PERSON
+1.0	US	vote at_time	Thursday	LOCATION	DATE

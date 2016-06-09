@@ -1,0 +1,39 @@
+1.0	half	die in	state of Michoacan	0	LOCATION
+1.0	which	have	half	O	O
+1.0	illegal migrant	head for	United States	0	LOCATION
+1.0	US government official	have often criticize	Mexico	LOCATION	LOCATION
+1.0	US government official	accuse	government fail	LOCATION	0
+1.0	7,000 soldier	send	federal police	NUMBER	DURATION
+1.0	risk	be in	area	0	0
+0.5551298497955125	7,000 soldier	eastern state	federal police	NUMBER	DURATION
+1.0	criminals	have	impunity	O	O
+1.0	violence	have	scene	O	O
+1.0	Tijuana	come at_time	month	DURATION	DURATION
+0.5551298497955125	soldier	eastern state	federal police	0	DURATION
+1.0	US government official	have criticize	Mexico	LOCATION	LOCATION
+1.0	american illegal migrant	head for	United States	0	LOCATION
+1.0	mexican american migrant	head for	United States	0	LOCATION
+1.0	Francisco Ramirez	be minister of	Interior	PERSON	ORGANIZATION
+1.0	american migrant	head for	United States	0	LOCATION
+1.0	border city	serve as	main transit point	0	0
+1.0	soldier	send	federal police	0	DURATION
+1.0	border	be with	the United States	0	LOCATION
+0.5551298497955125	soldier	state	federal police	0	DURATION
+1.0	Baja California	have	state	O	LOCATION
+1.0	border city	serve as	transit point for cocaine	0	0
+1.0	Michoacan	have	state	O	LOCATION
+1.0	half	die in	state	0	0
+1.0	mexican illegal migrant	head for	United States	0	LOCATION
+0.5551298497955125	7,000 soldier	state	federal police	NUMBER	DURATION
+1.0	government	say at_time	Tuesday	0	DATE
+1.0	Francisco Ramirez	be	Interior	PERSON	ORGANIZATION
+1.0	Tijuana	have	surroundings	O	O
+1.0	Tijuana	have	border city	O	LOCATION
+1.0	mexican american illegal migrant	head for	United States	0	LOCATION
+1.0	Michoacan	scene of	lethal violence between rival drug cartel	LOCATION	DURATION
+0.7841812873011106	violence	associate with	the northwest to combat drug trafficking	0	0
+1.0	US government official	accuse	government	LOCATION	0
+1.0	traffic	be in	drug	0	0
+1.0	mexican migrant	head for	United States	0	LOCATION
+1.0	border city	serve as	transit point	0	0
+1.0	migrant	head for	United States	0	LOCATION

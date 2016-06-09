@@ -1,0 +1,72 @@
+1.0	W. Bush	be later at_time	Wednesday	PERSON	DATE
+1.0	Baghdad	have	South	O	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Abdullah 's vehicle	have come under	car bomb attack in restive city of Mosul	PERSON	LOCATION
+1.0	car bomb attack	be in	restive city of Mosul	0	LOCATION
+1.0	four civilian	be	wound	NUMBER	0
+1.0	men	have	bodies	O	O
+1.0	Abdullah 's vehicle	have come under	car bomb attack in city of Mosul	PERSON	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district	0	0
+1.0	Brigadier General Najem Abdullah	have	clinic	O	O
+1.0	W. Bush	unveil	long	PERSON	0
+1.0	four civilian	be wound in	Baghdad	NUMBER	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district of Sadr City	0	LOCATION
+1.0	water pipeline	say	security source	0	0
+1.0	Iraq 's diet	continue on	Wednesday	LOCATION	DATE
+1.0	Iraq	have	diet	O	LOCATION
+1.0	Abdullah 's vehicle	have come under	car bomb attack	PERSON	0
+1.0	Iraq 's diet	continue with	at least seven people kill	LOCATION	NUMBER
+1.0	Iraq 's daily diet	continue with	at least seven people kill	LOCATION	NUMBER
+0.7842015714225353	water pipeline	supply	slum district	0	0
+1.0	shootings	have	diet	O	O
+1.0	Baghdad	have	south	O	LOCATION
+1.0	crowded market	be in	Al-Khadra neighbourhood of Tal Afar	0	LOCATION
+1.0	Iraq 's diet	continue with	at least seven people	LOCATION	NUMBER
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in restive city	PERSON	0
+1.0	Tal Afar	councillor 's	northern town	LOCATION	0
+1.0	bombings	have	diet	O	O
+0.633593924617174	water pipeline	say on	condition of anonymity	0	0
+1.0	Sadr City	have	slum district	O	LOCATION
+1.0	nine men aged between 20 and 30	have	hands	O	O
+1.0	sectarian-torn Iraq	have	city	O	LOCATION
+1.0	nine men aged between 20 and 30	have	eyes	O	O
+1.0	Abdullah 's vehicle	have come under	car bomb attack in city	PERSON	0
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in city of Mosul	PERSON	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished slum district	0	0
+1.0	Qahira	have	neighbourhood	O	LOCATION
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in city	PERSON	0
+1.0	Iraq 's daily diet	continue with	at least seven people	LOCATION	NUMBER
+1.0	civilian	be	wound	0	0
+1.0	major Mohammed Ahmed	be	in which expect	0	0
+1.0	Abdullah	have	vehicle	O	PERSON
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack in restive city of Mosul	PERSON	LOCATION
+1.0	Iraq 's daily diet	continue on	Wednesday	LOCATION	DATE
+1.0	W. Bush	be at_time	Wednesday	PERSON	DATE
+1.0	Mosul	city of	sectarian-torn Iraq	LOCATION	LOCATION
+1.0	Iraq	have	daily diet of bombing	LOCATION	SET
+1.0	which	have	one	NUMBER	O
+1.0	people	be	kill	0	0
+1.0	water pipeline	say security source on	condition	0	0
+1.0	assassination attempts	have	diet	O	O
+1.0	Mosul	have	city	O	LOCATION
+1.0	civilian	be wound in	Baghdad	0	LOCATION
+1.0	Abdullah 's vehicle	have earlier come under	car bomb attack	PERSON	0
+1.0	water pipeline	say security source on	condition of anonymity	0	0
+0.7842015714225353	water pipeline	supply	shiite slum district	0	0
+1.0	Abdullah	have	vehicle	PERSON	0
+1.0	bodies	have	diet	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished slum district of Sadr City	0	LOCATION
+1.0	constant curse	be in	sectarian-torn Iraq	0	LOCATION
+1.0	town	have	councillor	O	O
+1.0	major Mohammed Ahmed	be	expect	0	0
+1.0	northern town	have	councillor	0	0
+1.0	chaos	have	brink	O	O
+1.0	four people	be	kill	0	0
+1.0	Brigadier General Najem Abdullah	have	driver	O	O
+0.633593924617174	water pipeline	say on	condition	0	0
+0.7842015714225353	water pipeline	supply	slum district of Sadr City	0	LOCATION
+0.7842015714225353	water pipeline	supply	shiite slum district of Sadr City	0	LOCATION
+1.0	anonymity	have	condition	O	O
+1.0	Abdullah 's vehicle	have come under	car bomb attack in restive city	PERSON	0
+1.0	Tal Afar	have	Al-Khadra neighbourhood	O	LOCATION

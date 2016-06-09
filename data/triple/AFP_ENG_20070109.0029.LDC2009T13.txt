@@ -1,0 +1,39 @@
+1.0	Russia	have	exports	O	LOCATION
+1.0	oil exports	have	percent	PERCENT	O
+0.6320703057892548	downstream	transit through	Belarus on its way to EU member	0	LOCATION
+1.0	Viktor Khristenko	be	Russian	PERSON	MISC
+1.0	Czech Republic	have	Poland	LOCATION	LOCATION
+1.0	failure	re-route	oil in Russia	0	LOCATION
+0.6320703057892548	downstream	transit through	Belarus	0	LOCATION
+1.0	Belarus	have	direction	O	LOCATION
+1.0	supply cuts	have	advance	O	O
+1.0	technical failure	re-route	oil in Russia	0	LOCATION
+1.0	oil	have	third	ORDINAL	O
+1.0	cut-off	be result of	pricing row	0	0
+1.0	oil transit	have	territory	O	O
+1.0	cut-off	be	result	0	0
+1.0	Russia	seek	oil export route	LOCATION	0
+1.0	technical failure	re-route	oil	0	0
+0.6320703057892548	downstream	transit through	Belarus on its way to several EU member	0	LOCATION
+1.0	transit	state	downstream	0	0
+0.8894371942256114	re-route	oil in	Russia	0	LOCATION
+1.0	Czech Republic	have	Germany	LOCATION	LOCATION
+1.0	Czech Republic	have	Hungary	LOCATION	LOCATION
+1.0	transit	state	further downstream	0	0
+1.0	January	have	morning	TIME	DATE
+1.0	pipeline	have	end	O	O
+1.0	failure	re-route	oil	0	0
+1.0	Moscow	have dismiss transit fee as	illegal	LOCATION	0
+1.0	Angela Merkel	be on	Tuesday	PERSON	DATE
+1.0	Russia	of	total export	LOCATION	0
+1.0	Russia	seek	alternative oil export route	LOCATION	0
+1.0	exports	have	third	ORDINAL	O
+0.6320703057892548	downstream	transit through	Belarus on its way	0	LOCATION
+1.0	cut-off	be result of	pricing row between Moscow	0	LOCATION
+1.0	Viktor Khristenko	be on	Tuesday	PERSON	DATE
+1.0	Czech Republic	have	Slovakia	LOCATION	LOCATION
+1.0	The Druzhba -LRB- `` Friendship '' -RRB- pipeline	have	way	O	O
+1.0	its	have	territory	O	O
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	pricing row	have	result	O	O
+1.0	oil	be in	Russia	0	LOCATION

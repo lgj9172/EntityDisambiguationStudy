@@ -1,0 +1,26 @@
+1.0	the skiier on Tuesday	be	where trap	0	0
+1.0	emergency service	recover	body of skiier on Tuesday	0	DATE
+1.0	Meribel	have	resorts	O	LOCATION
+1.0	emergency service	recover body at_time	evening	0	TIME
+1.0	snow	have	centimetres	O	O
+1.0	the skiier on Tuesday	be trap in	avalanche	0	0
+1.0	avalanches	have	series	O	O
+1.0	emergency service	recover body in	alpine resort	0	0
+1.0	emergency service	recover	body of skiier	0	0
+1.0	the skiier on Tuesday	be	trap	0	0
+1.0	Tignes	have	resorts	O	LOCATION
+1.0	Les Arcs	have	resort	O	LOCATION
+1.0	skiier	have	body	O	O
+1.0	emergency service	recover	body	0	0
+1.0	Chamonix	have	resorts	O	LOCATION
+1.0	weather expert	have issue	avalanche warning of four	DURATION	NUMBER
+1.0	weather expert	have issue	avalanche warning	DURATION	0
+1.0	emergency service	recover body in	resort	0	0
+1.0	emergency service	recover body in	northern resort	0	0
+1.0	weather expert	have issue avalanche warning on	scale	DURATION	0
+1.0	weather expert	have issue avalanche warning on	five-point scale	DURATION	0
+1.0	four	have	avalanche warning	O	NUMBER
+1.0	emergency service	recover body in	northern alpine resort	0	0
+1.0	snow	of centimetre be	12 30 inch	0	NUMBER
+1.0	the skiier on Tuesday	be	where trap in avalanche	0	0
+1.0	victims	have	One	NUMBER	O

@@ -1,0 +1,44 @@
+1.0	one	can only make comparison after	race	0	0
+1.0	Raikkonen	have	arrival	PERSON	0
+1.0	more experience	be with	Ferrari	0	ORGANIZATION
+1.0	expectation	have	weight	O	O
+1.0	Raikkonen	will have	same car	0	0
+1.0	one	can make comparison after	race	0	0
+1.0	Italy	have	Dolomite mountains	LOCATION	LOCATION
+1.0	Raikkonen	have	style	O	O
+1.0	Felipe Massa	be driver of	Ferrari	PERSON	ORGANIZATION
+1.0	Italy	in	Dolomite mountain	LOCATION	LOCATION
+1.0	Felipe Massa	be	Ferrari	PERSON	ORGANIZATION
+1.0	Kimi Raikkonen	be	New Ferrari	PERSON	ORGANIZATION
+1.0	sport	have	most successful driver with 91 career win	0	NUMBER
+1.0	Kimi Raikkonen	be driver of	New Ferrari	PERSON	ORGANIZATION
+1.0	my	have	person	O	O
+1.0	New Ferrari driver Kimi Raikkonen	have	shoulders	O	O
+1.0	himslef	show	he value	0	0
+1.0	he	be	understudy again	0	0
+1.0	italian team	at	winter retreat	0	DATE
+1.0	team	have	winter retreat	O	O
+1.0	everything	will depend on	we individual skill	0	0
+1.0	closest raikkonen	be	crown	0	0
+1.0	sport	have	driver	O	O
+1.0	himslef	show	he true value	0	0
+1.0	sport 's successful driver	be with	91 career win	0	NUMBER
+1.0	Schumacher	have	heir	O	PERSON
+1.0	one	can make	comparison	0	0
+1.0	Raikkonen	have	best	O	O
+1.0	drivers	have	championship	O	O
+1.0	raikkonen	be	crown	0	0
+1.0	one	can make comparison after	several race	0	0
+1.0	Madonna di Campiglio	be in	Dolomite mountain	LOCATION	LOCATION
+1.0	Finn	be	27-year-old	PERSON	DATE
+1.0	his	have	value	O	O
+1.0	one	can only make	comparison	0	0
+1.0	season	have	end	DATE	DATE
+1.0	Massa	welcome	Raikkonen 's arrival	PERSON	PERSON
+1.0	Kimi	adapt	himslef	PERSON	0
+1.0	Raikkonen	have	arrival	O	PERSON
+1.0	everything	will depend on	we skill	0	0
+1.0	one	can only make comparison after	several race	0	0
+1.0	four year	be with	Mclaren	DURATION	PERSON
+1.0	Raikkonen	will have	car	0	0
+1.0	our	have	skills	O	O

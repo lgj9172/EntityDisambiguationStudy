@@ -1,0 +1,158 @@
+1.0	Ahmed al-Mussawi	spokesman for	iraqi transport ministry	PERSON	0
+1.0	antonov-26 aircraft	crash on	its second attempt	0	ORDINAL
+1.0	Abdulkadir Akyuz	regain	consciousness	PERSON	0
+1.0	33	have	bodies	O	NUMBER
+1.0	moldovan-registered antonov-26 aircraft	land at	airbase	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land at military airbase in town	0	0
+1.0	Ahmed al-Mussawi	tell	afp	PERSON	0
+1.0	US infrastructure	have	piece	O	O
+1.0	official	identify survivor as	34-year-old Turk	0	PERSON
+1.0	nearby base	piece of	US military infrastructure	0	LOCATION
+1.0	antonov-26 aircraft	land at	airbase	0	0
+1.0	antonov-26 aircraft	crash on	its attempt	0	0
+1.0	shipping goods	have	dozens	O	O
+1.0	28 Turks and the crew of three Moldovans , a Russian and a Ukrainian	have	aim	O	O
+1.0	military airbase	be in	town of Balad	0	LOCATION
+1.0	Balad	have	town	O	LOCATION
+1.0	bodies	have	said	O	O
+1.0	people	have	total	O	O
+1.0	airplane	crash north in	fog	0	0
+1.0	moldovan-registered antonov-26 aircraft	land at	military airbase	0	0
+1.0	antonov-26 aircraft	land at	airbase in town	0	0
+1.0	the sole survivor of a plane crash	have	relatives	O	O
+1.0	turkish business	undertake dozen to	country	0	0
+0.002137766610063929	airplane	crash in	heavy fog	0	0
+1.0	turkish official	identify	sole survivor	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land at military airbase	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land	0	0
+1.0	turkish business	have	have keen	0	0
+1.0	most	be	worker	0	0
+1.0	US force	take body accord to	turkish NTV news channel	LOCATION	ORGANIZATION
+1.0	it	have	have charter	0	0
+1.0	the Moldovan-registered Antonov-26 aircraft	have	attempt	O	O
+1.0	official	have blame	weather	0	0
+1.0	business	have	have keen	0	0
+1.0	moldovan-registered antonov-26 aircraft	land at	airbase in town	0	0
+0.43587681423361546	official	sole survivor of	plane crash	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land at airbase in town of Balad	0	LOCATION
+1.0	turkish official	spark joy among	he relative	0	0
+1.0	aviation experience	have	lack	O	O
+1.0	iraqi government official	cite	failure	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash on	its second attempt	0	ORDINAL
+1.0	turkish business	grab	share	0	0
+0.002137766610063929	airplane	crash in	fog	0	0
+1.0	iraqi government official	cite	technical failure	0	0
+1.0	business	undertake dozen to	country	0	0
+1.0	moldova-registered airplane	crash north in	heavy fog	0	0
+1.0	turkish official	have blame weather for	disaster	0	0
+0.7227542650745554	moldova-registered airplane	fly from	city	0	0
+1.0	airplane	crash	north of Baghdad	0	LOCATION
+1.0	government official	cite failure as	possible cause	0	0
+1.0	need	have	assist	O	O
+0.43587681423361546	official	survivor of	plane crash	0	0
+0.002137766610063929	moldova-registered airplane	crash in	fog	0	0
+0.6092830896334693	airplane	north of	Baghdad	0	LOCATION
+1.0	Abdulkadir Akyuz	be	injured	PERSON	0
+1.0	victims	have	bodies	O	O
+1.0	moldovan-registered antonov-26 aircraft	crash	land at airbase	0	0
+1.0	crash	have	survivor	O	O
+0.7227542650745554	moldova-registered airplane	fly from	southern turkish city Adana	0	LOCATION
+1.0	Baghdad	have	north	O	LOCATION
+1.0	antonov-26 aircraft	crash	land at military airbase in town of Balad	0	LOCATION
+1.0	Ukrainian	have	crew	O	MISC
+1.0	it	have	have charter by Kulak construction company	0	PERSON
+0.7227542650745554	airplane	fly from	city	0	0
+1.0	Adana Governor Cahit Kirac	say in	remark	0	0
+1.0	business	grab	share	0	0
+1.0	it	have	have charter by adana-based Kulak construction company	0	PERSON
+1.0	turkish official	identify survivor as	Turk	0	PERSON
+1.0	antonov-26 aircraft	land at	military airbase in town of Balad	0	LOCATION
+1.0	antonov-26 aircraft	crash	land at military airbase	0	0
+1.0	antonov-26 aircraft	crash	land at military airbase in town	0	0
+1.0	The 34	have	passengers	O	O
+1.0	he	believe	authority	0	0
+1.0	antonov-26 aircraft	crash	land at airbase	0	0
+1.0	moldovan-registered antonov-26 aircraft	land at	military airbase in town	0	0
+1.0	turkish official	have blame	weather	0	0
+1.0	moldovan-registered antonov-26 aircraft	land at	airbase in town of Balad	0	LOCATION
+1.0	moldova-registered airplane	crash	north	0	0
+1.0	construction machines	have	operator	O	O
+1.0	antonov-26 aircraft	land at	military airbase in town	0	0
+0.7227542650745554	airplane	fly from	southern turkish city Adana	0	LOCATION
+1.0	Abdulkadir Akyuz	regain consciousness in	hospital	PERSON	0
+1.0	US force	take body accord to	NTV news channel	LOCATION	ORGANIZATION
+1.0	antonov-26 aircraft	crash	land at airbase in town	0	0
+1.0	US force	be in	war-torn Iraq	LOCATION	LOCATION
+1.0	worker	employ by	firm	0	0
+1.0	Abdulkadir Akyuz	be	seriously injured	PERSON	0
+1.0	Adana Governor Cahit Kirac	say in	televise remark	0	0
+1.0	business	undertake	dozen of contract	0	0
+1.0	turkish official	identify survivor at_time	Wednesday	0	DATE
+1.0	plane crash	have	survivor	O	O
+1.0	person	have	body	O	O
+1.0	government official	cite	technical failure	0	0
+1.0	US force	take	body of other person	LOCATION	0
+1.0	turkish business	undertake	dozen	0	0
+0.7227542650745554	moldova-registered airplane	fly from	southern turkish city	0	0
+1.0	turkish business	grab share in	reconstruction	0	0
+0.7227542650745554	moldova-registered airplane	fly from	turkish city Adana	0	LOCATION
+1.0	most	be	worker employ	0	0
+1.0	official	identify	survivor	0	0
+1.0	moldova-registered airplane	crash	north of Baghdad	0	LOCATION
+0.7227542650745554	airplane	fly from	southern city	0	0
+0.7227542650745554	airplane	fly from	city Adana	0	LOCATION
+1.0	passengers	have	most	O	O
+0.43587681423361546	turkish official	survivor of	plane crash	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land at airbase in town	0	0
+1.0	US force	take	body	LOCATION	0
+1.0	antonov-26 aircraft	land at	airbase in town of Balad	0	LOCATION
+1.0	most	be	worker employ by firm	0	0
+1.0	official	spark joy among	he relative	0	0
+1.0	official	have blame	bad weather	0	0
+0.7227542650745554	airplane	fly from	southern turkish city	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash on	its attempt	0	0
+1.0	the sole survivor of a plane crash	have	compatriots	O	O
+0.7227542650745554	moldova-registered airplane	fly from	city Adana	0	LOCATION
+0.7227542650745554	moldova-registered airplane	fly from	southern city	0	0
+1.0	official	identify	sole survivor	0	0
+1.0	turkish business	undertake	dozen of contract	0	0
+1.0	official	identify survivor as	Turk	0	PERSON
+0.7227542650745554	airplane	fly from	turkish city	0	0
+1.0	airplane	crash north in	heavy fog	0	0
+1.0	compatriots	have	bodies	O	O
+1.0	antonov-26 aircraft	crash	land	0	0
+0.7227542650745554	moldova-registered airplane	fly from	southern city Adana	0	LOCATION
+0.7227542650745554	airplane	fly from	southern city Adana	0	LOCATION
+1.0	Russian	have	crew	O	MISC
+1.0	antonov-26 aircraft	crash	land at airbase in town of Balad	0	LOCATION
+1.0	official	have blame weather for	disaster	0	0
+1.0	turkish official	identify survivor as	34-year-old Turk	0	PERSON
+1.0	official	identify survivor at_time	Wednesday	0	DATE
+0.43587681423361546	turkish official	sole survivor of	plane crash	0	0
+1.0	moldovan-registered antonov-26 aircraft	crash	land at military airbase in town of Balad	0	LOCATION
+1.0	business	undertake	dozen	0	0
+1.0	iraqi government official	cite failure as	possible cause	0	0
+1.0	airplane	crash	north	0	0
+1.0	Cahit Kirac	be governor of	Adana	PERSON	LOCATION
+0.002137766610063929	moldova-registered airplane	crash in	heavy fog	0	0
+1.0	US force	take	body of person	LOCATION	0
+1.0	antonov-26 aircraft	land at	military airbase	0	0
+1.0	turkish official	have blame	bad weather	0	0
+1.0	Cahit Kirac	be	Adana	PERSON	LOCATION
+1.0	Adana	have	city	O	LOCATION
+0.6092830896334693	moldova-registered airplane	north of	Baghdad	0	LOCATION
+1.0	Turk	be as	34-year-old	PERSON	DURATION
+1.0	Abdulkadir Akyuz	operator of	construction machine	PERSON	0
+1.0	two	have	father	O	NUMBER
+1.0	moldova-registered airplane	crash north in	fog	0	0
+1.0	turkish official	identify	survivor	0	0
+0.7227542650745554	moldova-registered airplane	fly from	turkish city	0	0
+0.7227542650745554	airplane	fly from	turkish city Adana	0	LOCATION
+1.0	turkish official	spark	joy	0	0
+1.0	business	grab share in	reconstruction	0	0
+1.0	moldovan-registered antonov-26 aircraft	land at	military airbase in town of Balad	0	LOCATION
+1.0	government official	cite	failure	0	0
+1.0	contracts	have	dozens	O	O
+1.0	Mardin	have	province	O	LOCATION
+1.0	official	spark	joy	0	0
+1.0	Moldovans	have	crew	O	MISC

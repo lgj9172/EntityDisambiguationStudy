@@ -1,0 +1,109 @@
+1.0	President George W. Bush	announce	21,500-man hike of US troops	PERSON	LOCATION
+1.0	President George W. Bush	basically transfer us blame on	Maliki	PERSON	PERSON
+1.0	Maliki	have	hands	O	PERSON
+1.0	President George W. Bush	basically transfer	US public blame	PERSON	LOCATION
+1.0	AFP	be in	Dubai	ORGANIZATION	LOCATION
+1.0	television interviews	have	one	NUMBER	O
+1.0	Bush	have	supporter	PERSON	0
+1.0	Our	have	policy	O	O
+1.0	America	have	commitment	LOCATION	0
+1.0	Maliki	have	government	O	PERSON
+1.0	President George W. Bush	announce hike in	Iraq in last-ditch attempt	PERSON	LOCATION
+1.0	President George W. Bush	basically transfer	US blame	PERSON	LOCATION
+1.0	President George W. Bush	announce	hike of US troops	PERSON	LOCATION
+1.0	its	have	commitments	O	O
+1.0	its	have	promises	O	O
+1.0	she	say in	one of several television interview	0	NUMBER
+1.0	Justin Logan	analyst at	Cato Institute	PERSON	ORGANIZATION
+1.0	our	have	options	O	O
+1.0	President George W. Bush	announce	hike	PERSON	0
+1.0	his	have	government	O	O
+1.0	focus	undermine	President George W. Bush	0	0
+1.0	day	have	end	DATE	DATE
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	Center	have	security	O	ORGANIZATION
+1.0	President George W. Bush	say at_time	Wednesday	PERSON	DATE
+0.8435125371755341	President George W. Bush	hike of	US troops	PERSON	LOCATION
+1.0	Bush	have	new plan work	PERSON	DURATION
+1.0	Gates	tell	they	0	0
+0.5663133394212823	Maliki	be on	borrow time	PERSON	0
+1.0	Condoleezza Rice	speak at_time	day	PERSON	DURATION
+1.0	will operation	be in	Shiite neighborhood	0	MISC
+1.0	Defense Secretary Robert Gates	tell	House of Representatives	PERSON	ORGANIZATION
+1.0	The president	have	alliances	O	O
+1.0	Mustafa Alani	director of	Gulf Research Center	PERSON	ORGANIZATION
+1.0	Gulf Research Center	be of	dubai-based	ORGANIZATION	0
+1.0	Sadr	have	group	O	PERSON
+1.0	President George W. Bush	say at_time	late Wednesday	PERSON	DATE
+1.0	President George W. Bush	transfer	US public blame	PERSON	LOCATION
+0.5663133394212823	Maliki	be on	borrow	PERSON	0
+1.0	Prime Minister Nuri al	have	government	O	PERSON
+1.0	President George W. Bush	transfer	US blame	PERSON	LOCATION
+1.0	House Armed Services Committee	have	Lawmakers	O	ORGANIZATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	she	say in	one of television interview	0	NUMBER
+1.0	our	have	strategy	O	O
+1.0	he	say	add	0	0
+1.0	President George W. Bush	transfer us blame into	pressure	PERSON	0
+1.0	President George W. Bush	transfer	US public blame over Iraq morass	PERSON	LOCATION
+1.0	Iraq	have	government	O	LOCATION
+1.0	President George W. Bush	restore	peace	PERSON	DURATION
+1.0	leaders	have	eyes	O	O
+0.618761338287068	warn	government of	Prime Minister Nuri al	0	PERSON
+1.0	your	have	chance	O	O
+1.0	Moqtada al-Sadr	be by	shiite	PERSON	0
+1.0	them	have	expects	O	O
+1.0	President George W. Bush	say in	major broadcast address	PERSON	0
+1.0	Nuri al - Maliki	have	government	O	PERSON
+1.0	violence	have	much	O	O
+1.0	Bush	have	plan work	O	PERSON
+1.0	she	say in	one television interview	0	NUMBER
+1.0	President George W. Bush	basically transfer us blame into	pressure	PERSON	0
+1.0	focus	be	more likely	0	0
+1.0	Nuri al - Maliki	have	hand	PERSON	0
+1.0	we	have debate	we option	0	0
+1.0	President George W. Bush	transfer us blame on	Maliki	PERSON	PERSON
+1.0	Secretary of State Condoleezza Rice	have meet	Nuri al - Maliki	0	PERSON
+1.0	Bush administration	prepare	scapegoat	PERSON	0
+0.5356443033472524	president	have have	same concern	0	0
+1.0	United States Thursday	demonstrate	commitment	LOCATION	0
+1.0	Nuri al - Maliki	have	hands	O	PERSON
+1.0	President George W. Bush	basically transfer	US public blame over Iraq morass	PERSON	LOCATION
+1.0	Nuri al - Maliki	have	security team	O	O
+1.0	Bush	have	supporters	O	PERSON
+1.0	State	have	Secretary	O	ORGANIZATION
+1.0	President George W. Bush	announce hike in	Iraq in attempt	PERSON	LOCATION
+1.0	Bush administration	direct	attention	PERSON	0
+1.0	Rice	add to	pressure	PERSON	0
+1.0	President George W. Bush	basically transfer	US blame over Iraq morass	PERSON	LOCATION
+1.0	Rice	add at_time	Thursday	PERSON	DATE
+1.0	she	say in	one several television interview	0	NUMBER
+1.0	Bush administration	direct attention on	Maliki	PERSON	PERSON
+1.0	Gulf Research Center	have	security	ORGANIZATION	0
+1.0	United States Thursday	demonstrate	stronger commitment	LOCATION	0
+1.0	Cato Institute	be in	Washington	ORGANIZATION	LOCATION
+1.0	Gulf Research	have	director	O	ORGANIZATION
+1.0	Nuri al - Maliki	have	government	PERSON	0
+1.0	President George W. Bush	announce hike in	Iraq	PERSON	LOCATION
+1.0	US troops	have	deployment	O	O
+1.0	Sadris	have	support	O	O
+1.0	America	have	commitment	O	LOCATION
+1.0	Bush administration	prepare	handy scapegoat	PERSON	0
+1.0	Americans	have	stooge	O	MISC
+0.8435125371755341	President George W. Bush	21,500-man hike of	US troops	PERSON	LOCATION
+1.0	President George W. Bush	say in	broadcast address	PERSON	0
+1.0	focus	be	likely	0	0
+1.0	Defense Secretary Robert Gates	tell	House	PERSON	ORGANIZATION
+1.0	US troops	have	hike	O	O
+1.0	President George W. Bush	announce	21,500-man hike	PERSON	DURATION
+1.0	Iraq	be in	last-ditch attempt	LOCATION	DURATION
+1.0	his	have	speech	O	O
+1.0	Maliki	have	hand	PERSON	0
+1.0	Maliki	have	government	PERSON	0
+1.0	their	have	commitments	O	O
+1.0	Mahdi Army	have	hostage	O	ORGANIZATION
+0.5356443033472524	president	have have	concern	0	0
+1.0	Robert Gates	be	Defense	PERSON	ORGANIZATION
+1.0	his	have	resolve	O	O
+1.0	President George W. Bush	transfer	US blame over Iraq morass	PERSON	LOCATION
+1.0	people	have	support	O	O

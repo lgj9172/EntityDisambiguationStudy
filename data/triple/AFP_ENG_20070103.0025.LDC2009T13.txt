@@ -1,0 +1,37 @@
+1.0	animal	head for	exit	0	0
+1.0	J.C. Khanna	say	shelter	PERSON	0
+1.0	calf	break from	rest	0	0
+1.0	animal	be	be slaughter	0	0
+1.0	animal	head straight for	exit	0	0
+1.0	hajj	have	end	O	O
+1.0	calf	break away from	rest of herd	0	0
+1.0	US President George W. Bush	be after	US	PERSON	LOCATION
+1.0	Deonar slaughter house	be in	India 's financial capital	0	LOCATION
+1.0	India	have	capital	O	LOCATION
+1.0	calf	break at_time	Monday	0	DATE
+1.0	calf	break from	rest of herd	0	0
+1.0	animal	be	be slaughter for festival	0	0
+1.0	his	have	life	O	O
+1.0	animal	be	be slaughter for muslim festival Monday	0	DATE
+1.0	Cruelty	have	Prevention	ORGANIZATION	ORGANIZATION
+0.7994971631700597	mark	end of	hajj	0	0
+0.7994971631700597	mark	end of	annual hajj	0	SET
+1.0	US President George W. Bush	be	lucky	PERSON	0
+1.0	The terrified animal	corner in	scrap metal warehouse	0	0
+1.0	our	have	officials	O	O
+1.0	India	have	Times	ORGANIZATION	ORGANIZATION
+1.0	defence	have	form	O	O
+1.0	he	life	struggle	0	0
+1.0	anyone	be	slaughter Monday at abattoir	0	DATE
+1.0	animal	be	be slaughter for muslim festival	0	0
+1.0	animal	be	be slaughter for festival Monday	0	DATE
+1.0	India	in	financial capital	LOCATION	0
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	US President George W. Bush	be president of	US	PERSON	LOCATION
+1.0	anyone	come near	he	0	0
+1.0	terrify animal	head for	exit	0	0
+1.0	abattoir	be in	Mumbai	0	LOCATION
+1.0	terrify animal	head straight for	exit	0	0
+1.0	calf	break away from	rest	0	0
+1.0	calf	break away at_time	Monday	0	DATE
+1.0	herd	have	rest	O	O

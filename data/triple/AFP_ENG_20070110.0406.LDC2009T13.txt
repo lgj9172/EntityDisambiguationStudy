@@ -1,0 +1,29 @@
+1.0	Endesa	to	shareholder	ORGANIZATION	0
+1.0	Germany	have	biggest power supplier	LOCATION	0
+1.0	injunction	be	lift	0	0
+1.0	Gas Natural	against	offer for Endesa	ORGANIZATION	ORGANIZATION
+1.0	Spain	have	court	O	LOCATION
+1.0	E.ON	have	bid	O	O
+1.0	this	be	key	0	0
+1.0	injunction	be	lift shortly	0	0
+1.0	Germany	have	power supplier	O	LOCATION
+1.0	Spanish Supreme Court	be in	Madrid	ORGANIZATION	LOCATION
+1.0	E.ON	for	own rival bid	0	0
+1.0	Mercantile Court	be in	Madrid	ORGANIZATION	LOCATION
+1.0	other injunction	be	lift	0	0
+1.0	Gas Natural	have	offer	O	ORGANIZATION
+1.0	this	be	hurdle overcome	0	0
+1.0	E.ON	say at_time	Wednesday	0	DATE
+1.0	this	be	hurdle	0	0
+1.0	Endesa	have	shareholders	O	ORGANIZATION
+1.0	Spain	by	supreme court	LOCATION	0
+1.0	shareholder	will	finally will able	0	0
+1.0	Endesa	have	takeover	O	ORGANIZATION
+1.0	other injunction	be	lift shortly	0	0
+1.0	We	have	offer	O	O
+1.0	shareholder	will	will able	0	0
+1.0	shareholder	make	decision	0	0
+0.9714609140827272	this	be	overcome	0	0
+1.0	this	be	key hurdle overcome	0	0
+1.0	we	be	confident	0	0
+1.0	this	be	key hurdle	0	0

@@ -1,0 +1,80 @@
+1.0	13 Taliban	be	support	ORGANIZATION	0
+1.0	Paktika	have	province	O	LOCATION
+1.0	hospital	be in	Lashkar Gah	0	LOCATION
+1.0	13 Taliban	be support by	Al	ORGANIZATION	ORGANIZATION
+1.0	renew violence	be in	Afghanistan	0	LOCATION
+1.0	Kabul	have	south	O	LOCATION
+1.0	suicide car bomb	meanwhile strike	vehicle	0	0
+1.0	Afghan engineer	be	elsewhere ago find	MISC	DATE
+1.0	NATO-led International Security Assistance Force	say in	biggest clash	ORGANIZATION	0
+1.0	NATO force	bomb headquarters in	day of violence	ORGANIZATION	DURATION
+1.0	Osama bin Laden	have	Al-Qaeda network	O	PERSON
+1.0	Ghazni	have	province	O	LOCATION
+1.0	isaf	want	use	0	0
+1.0	fight	undermine	rebel ' ability	0	0
+1.0	Afghan engineer	be	three week ago find	MISC	DATE
+1.0	Taliban	be topple from	government in late 2001	ORGANIZATION	DATE
+1.0	province	have	south	O	O
+1.0	strike	have	time	DATE	O
+1.0	operation	say	number of Taliban	0	ORGANIZATION
+1.0	its	have	year	DATE	O
+1.0	them	have	one	NUMBER	O
+1.0	13 Taliban	be	in which support	ORGANIZATION	0
+1.0	Afghan engineer	ago be find	dead	MISC	0
+1.0	37-nation isaf	want	use	0	0
+1.0	british force	say in	statement	0	0
+1.0	37-nation isaf	use at_time	winter month	0	DATE
+1.0	suicide car bomb	wound	US national	0	LOCATION
+1.0	taliban-style suicide car bomb	meanwhile strike	vehicle	0	0
+1.0	their	have	spring offensive	O	O
+1.0	Mohammad Nabi Mullahkhail	be	Helmand	PERSON	LOCATION
+1.0	Afghan engineer	elsewhere ago be find	dead	MISC	0
+1.0	Pakistan	be from	overnight	LOCATION	TIME
+1.0	Osama bin Laden	have	Al-Qaeda network	PERSON	ORGANIZATION
+1.0	Afghan engineer	be	elsewhere find	MISC	0
+1.0	NATO-led International Security Assistance Force	say in	clash	ORGANIZATION	0
+1.0	isaf	want	use winter month	0	DATE
+1.0	Mohammad Nabi Mullahkhail	be police chief of	Helmand	PERSON	LOCATION
+1.0	government	be in	late 2001	0	DATE
+1.0	operation	say	number	0	0
+1.0	Taliban	be topple from	government	ORGANIZATION	0
+1.0	Afghan engineer	be	ago find	MISC	DATE
+1.0	Taliban	have	number	O	ORGANIZATION
+1.0	Taliban force	be in	south of province	ORGANIZATION	0
+1.0	headquarters	have	one	NUMBER	O
+1.0	NATO force	bomb headquarters in	day of renew violence	ORGANIZATION	DURATION
+1.0	Afghan engineer	have	body	O	O
+1.0	taliban-style suicide car bomb	wound	US national	0	LOCATION
+1.0	Taliban	shelter	Osama bin Laden 's Al-Qaeda network	ORGANIZATION	PERSON
+1.0	Afghan engineer	be	elsewhere three week ago find	MISC	DATE
+1.0	NATO force	bomb	headquarters	ORGANIZATION	DURATION
+1.0	whose	have	body	O	O
+1.0	NATO force	bomb headquarters in	day	ORGANIZATION	DURATION
+0.7057725931159924	police	say at_time	Friday	0	DURATION
+0.7480331188773984	Afghan engineer	kidnap by	Taliban militant	MISC	ORGANIZATION
+1.0	rebels	have	most	O	O
+1.0	their	have	attacks	O	O
+1.0	Afghan engineer	be find	dead	MISC	0
+1.0	37-nation isaf	want	use winter month	0	DATE
+0.43105425452459456	operation	number of	Taliban	0	ORGANIZATION
+1.0	suicide car bomb	strike	vehicle	0	0
+1.0	13 Taliban	be	in which support by Al	ORGANIZATION	ORGANIZATION
+1.0	taliban-style suicide car bomb	strike	vehicle	0	0
+1.0	sixteen civilian	kill	13 Taliban	DURATION	NUMBER
+0.43105425452459456	operation	significant number of	Taliban	0	ORGANIZATION
+1.0	isaf	use at_time	winter month	0	DATE
+1.0	rebels	have	ability	O	O
+1.0	civilian	kill	13 Taliban	DURATION	NUMBER
+1.0	NATO force	bomb headquarters in	day of renew violence in Afghanistan	ORGANIZATION	DURATION
+1.0	force	say in	statement	0	0
+1.0	NATO force	bomb headquarters in	day of violence in Afghanistan	ORGANIZATION	DURATION
+1.0	operation	say	significant number	0	0
+1.0	Taliban	be	topple	ORGANIZATION	0
+1.0	Afghan engineer	be	find	MISC	0
+1.0	Afghan engineer	elsewhere be find	dead	MISC	0
+1.0	operation	say	significant number of Taliban	0	ORGANIZATION
+1.0	violence	have	day	DURATION	O
+1.0	strike	be in	southernmost Garmser district	0	LOCATION
+1.0	attacks	have	intensity	O	O
+1.0	NATO-led International Security Assistance Force	say at_time	Thursday	ORGANIZATION	DATE
+1.0	NATO force	bomb	rebel headquarters	ORGANIZATION	DURATION

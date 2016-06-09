@@ -1,0 +1,46 @@
+1.0	man	be	sentence	0	0
+1.0	groups	have	consisting	O	O
+1.0	Emomali Rakhmonov	be by	current	PERSON	DATE
+1.0	Popular front	consist of	group	0	0
+1.0	Kalashnikov assault rifle	shoot	17 man in village of Tilloobod	MISC	LOCATION
+1.0	pro-commmunist	overthrow	islamic administration	0	0
+1.0	units	have	some	O	O
+0.8390075560449907	Rakhmonov	reelect in	November for year	PERSON	DATE
+1.0	militia	have	captain	O	O
+1.0	The defendants	have use	Kalashnikov assault rifle	0	MISC
+1.0	five man	be	sentence	0	0
+1.0	Tajikistan	have	republic	O	LOCATION
+1.0	The defendants	have use kalashnikov assault rifle on	December 6 1992	0	DATE
+1.0	Kalashnikov	tell	AFP	0	ORGANIZATION
+1.0	Popular front	consist of	various armed group	0	0
+1.0	defendant	gunman of	Popular front	0	ORGANIZATION
+1.0	court	have	Judge Salim Khodzhaev	PERSON	O
+1.0	Popular Front	have	gunmen	O	ORGANIZATION
+1.0	Popular front	consist of	armed group	0	0
+1.0	Popular front	join	government force	0	0
+1.0	Popular Front	have	verdict	O	O
+1.0	Rakhmonov	fire	last three minister	PERSON	NUMBER
+0.8246114161877479	pro-commmunist	lead by	President Emomali Rakhmonov	0	PERSON
+1.0	pro-commmunist	overthrow administration in	December 6 , 1992	0	DATE
+1.0	years	have	jail	O	DURATION
+1.0	Tajikistan	have	court	O	LOCATION
+0.8246114161877479	pro-commmunist	lead by	current President Emomali Rakhmonov	0	PERSON
+1.0	man	murder	19 villager	0	DATE
+0.08525081604622908	The defendants	have use on	December 6 1992	0	DATE
+1.0	Rakhmonov	fire	three minister	PERSON	NUMBER
+1.0	Tajikistan	become in	1991	LOCATION	DATE
+1.0	17 man	be in	village of Tilloobod	NUMBER	LOCATION
+1.0	judge	confirm at_time	Thursday	0	DATE
+1.0	five man	murder	19 villager	0	DATE
+1.0	Tajikistan	of	high court	LOCATION	0
+1.0	capital Dushanbe	have	outskirts	O	LOCATION
+1.0	Tajikistan	become	independent	LOCATION	0
+1.0	pro-commmunist	overthrow	administration	0	0
+1.0	Islamists	be in	central asian former soviet republic of Tajikistan	MISC	LOCATION
+1.0	Kalashnikov assault rifle	shoot	17 man	MISC	NUMBER
+1.0	Kalashnikov assault rifle	shoot	17 man in village	MISC	NUMBER
+1.0	its	have	units	O	O
+0.8390075560449907	Rakhmonov	reelect in	November for seven year	PERSON	DATE
+1.0	Popular front	consist of	various group	0	0
+1.0	coalition	have	ministers	O	O
+1.0	Tilloobod	have	village	O	LOCATION

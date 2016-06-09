@@ -1,0 +1,16 @@
+1.0	NATO Secretary General Jaap de Hoop Scheffer	have	presence	O	O
+1.0	NATO Secretary General Jaap de Hoop Scheffer	have	mandate	O	O
+1.0	world	of	biggest military alliance	0	0
+1.0	North Atlantic Treaty Organisation	have	secretary general	O	ORGANIZATION
+1.0	mandate	have	extension	O	O
+1.0	NATO Secretary General Jaap de Hoop Scheffer	have	contract	O	O
+1.0	diplomat	tell	afp	0	0
+1.0	North Atlantic Council	have	meeting	O	ORGANIZATION
+1.0	alliance	have	head	O	O
+1.0	Jaap de Hoop Scheffer	be	the North Atlantic Treaty Organisation	PERSON	ORGANIZATION
+1.0	diplomat	tell afp on	condition	0	0
+1.0	Jaap de Hoop Scheffer	be secretary general of	the North Atlantic Treaty Organisation	PERSON	ORGANIZATION
+1.0	diplomat	tell afp on	condition of anonymity	0	0
+1.0	world	have	alliance	O	O
+1.0	secretary general	as robertson be	the North Atlantic Treaty Organisation	0	ORGANIZATION
+1.0	anonymity	have	condition	O	O

@@ -1,0 +1,40 @@
+1.0	DaimlerChrysler	have	Viano	PERSON	ORGANIZATION
+1.0	1.2 billion euro	be in	China	MONEY	LOCATION
+1.0	plans	have	part	O	O
+0.5105386040397026	term	approve by	ministry commerce	0	ORGANIZATION
+1.0	venture	be with	state	0	0
+0.3937749524414964	passenger car	part	heavy truck	0	0
+1.0	auto firm	control	50 percent stake in venture	0	PERCENT
+1.0	50 percent stake	be in	joint venture	PERCENT	0
+1.0	giant DaimlerChrysler	be invest	1.2 billion euro in China	ORGANIZATION	LOCATION
+1.0	action	be in	fast grow market	0	0
+1.0	auto firm	control	50 percent stake in joint venture	0	PERCENT
+1.0	Viano	have	output	O	PERSON
+1.0	fujian auto firm	control	50 percent stake	0	PERCENT
+1.0	giant DaimlerChrysler	make	passenger car	ORGANIZATION	0
+1.0	giant DaimlerChrysler	make passenger car as	part of plan	ORGANIZATION	0
+1.0	state press report	say at_time	Thursday	0	DATE
+1.0	DaimlerChrysler	have	US arm	ORGANIZATION	LOCATION
+1.0	DaimlerChrysler	have	US arm	O	ORGANIZATION
+1.0	giant DaimlerChrysler	make passenger car as	part	ORGANIZATION	0
+1.0	fujian auto firm	control	50 percent stake in joint venture	0	PERCENT
+1.0	China	have	Chery Automotive Co.	ORGANIZATION	LOCATION
+1.0	giant DaimlerChrysler	be invest	1.2 billion euro	ORGANIZATION	MONEY
+0.3937749524414964	passenger car	part	van	0	0
+0.5105386040397026	term	approve by	ministry commerce own	0	ORGANIZATION
+1.0	commerce	have	ministry	ORGANIZATION	ORGANIZATION
+1.0	action	have	piece	O	O
+1.0	auto firm	control	50 percent stake	0	PERCENT
+0.5105386040397026	term	approve by	ministry	0	ORGANIZATION
+1.0	Taiwan	have	China Motor Corp.	ORGANIZATION	LOCATION
+1.0	Taiwan	have	China Motor Corp.	LOCATION	ORGANIZATION
+1.0	fujian auto firm	control	50 percent stake in venture	0	PERCENT
+1.0	2008	have	end	DATE	DATE
+1.0	small car	be in	China	0	LOCATION
+1.0	Viato	have	output	O	PERSON
+1.0	Sprinter vans	have	output	O	O
+1.0	Mercedes-Benz	produce	Chrysler 300C	0	ORGANIZATION
+0.3937749524414964	passenger car	part	truck	0	0
+1.0	giant DaimlerChrysler	will hold	33.78 percent	ORGANIZATION	PERCENT
+1.0	DaimlerChrysler	of	Viano	ORGANIZATION	PERSON
+1.0	China	with	Chery Automotive Co.	LOCATION	ORGANIZATION

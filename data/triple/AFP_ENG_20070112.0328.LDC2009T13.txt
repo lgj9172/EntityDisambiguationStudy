@@ -1,0 +1,20 @@
+1.0	Denmark	have	leaders	O	LOCATION
+1.0	Bush	have	push	O	PERSON
+1.0	Condoleezza Rice	of	upcome trip to region	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	trip	have	US Secretary	O	O
+1.0	Britain	have	leaders	O	LOCATION
+1.0	Condoleezza Rice	be 's	State	PERSON	ORGANIZATION
+1.0	Abdullah	be king of	Jordan	PERSON	LOCATION
+1.0	State Condoleezza Rice	have	trip	O	PERSON
+1.0	US President George W. Bush on Friday	have	Iraq plan	O	O
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	Bush	have	push increase	PERSON	0
+1.0	whose	have	war	O	O
+1.0	Hosni Mubarak	be	Egyptian	PERSON	MISC
+1.0	Jordan	with	King Abdullah II	LOCATION	PERSON
+1.0	US troop level	be in	Iraq	LOCATION	LOCATION
+1.0	South Korea	be on	Tuesday	LOCATION	DATE
+1.0	Australia	have	leaders	O	LOCATION
+1.0	Jordan	have	King Abdullah II	O	LOCATION

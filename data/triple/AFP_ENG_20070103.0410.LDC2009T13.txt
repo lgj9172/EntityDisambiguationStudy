@@ -1,0 +1,65 @@
+1.0	number	leave	office due to improper behavior	0	0
+1.0	Nardelli	be with	immediate effect	PERSON	0
+1.0	company	have	vice chairman	O	O
+1.0	Nardelli	have	benefit package	O	PERSON
+1.0	company	have	vice chairman	0	0
+1.0	Frank Blake	have succeed	Bob Nardelli	PERSON	PERSON
+1.0	Bob Nardelli	have	departure	O	O
+1.0	number	leave	office due to behavior	0	0
+1.0	the Laborers ' International Union of North America	have	affiliates	O	O
+1.0	majority	be due to	retirement	0	0
+1.0	office	due to	improper behavior	0	0
+1.0	office	due to	behavior	0	0
+1.0	union	control	its affiliate	0	0
+1.0	record number	quit boardroom at_time	year	0	DATE
+1.0	rise number	leave	office due to improper behavior	0	0
+1.0	the decision	have	chief executive	O	O
+1.0	Frank Blake	have succeed	Nardelli	PERSON	PERSON
+1.0	Nardelli	have	parting gift	PERSON	0
+1.0	Nardelli	have	benefit package	PERSON	0
+1.0	departures	have	majority	O	O
+1.0	US house-improvement chain Home Depot	have	boss Bob Nardelli	PERSON	O
+1.0	late	have	struggling	O	O
+1.0	US bosses	have	record number	O	O
+1.0	executives	have	number	O	O
+1.0	pension fund	have	Trustees	O	O
+1.0	majority	be	due	0	0
+1.0	giant Pfizer	have	executive	O	O
+1.0	Bob Nardelli	have	leadership	O	O
+1.0	company	be with	210-million	0	0
+1.0	number	leave	office due	0	0
+1.0	US house-improvement chain home	say at_time	Wednesday	LOCATION	DATE
+1.0	Home Depot	have	share price	O	ORGANIZATION
+1.0	firm	have	share price	O	O
+1.0	Laborers	have	International Union	ORGANIZATION	ORGANIZATION
+1.0	firm	have	share price	0	0
+1.0	union	have	pension fund	O	O
+1.0	rise number	leave	office due to behavior	0	0
+1.0	the home Depot	be over	the past six year	ORGANIZATION	DURATION
+1.0	Nardelli	have	parting gift	O	PERSON
+1.0	he departure	be	sweeten	0	0
+1.0	Home Depot 's share price	rise on	news	ORGANIZATION	0
+1.0	union	control	1.7 million Home Depot share	0	ORGANIZATION
+1.0	he departure	be	however sweeten	0	0
+1.0	Bob Nardelli	have	compensation	O	O
+1.0	rise number	leave	office due	0	0
+1.0	office	be in	2006	0	DATE
+1.0	Home Depot	have	share price	ORGANIZATION	0
+1.0	incentive payments	have	acceleration	O	O
+1.0	Bob Nardelli	have	pay package	O	O
+1.0	home Depot	be	US	ORGANIZATION	LOCATION
+1.0	union	say in	statement	0	0
+1.0	record number	quit boardroom at_time	last year	0	DATE
+1.0	union	of	pension fund	0	0
+1.0	Home	have	leadership	O	ORGANIZATION
+1.0	record number	quit	boardroom	0	0
+1.0	bonuses	have	acceleration	O	O
+1.0	US house-improvement chain Home Depot	have	opportunities	O	O
+1.0	dollars	have	cash payment	O	MONEY
+1.0	Frank Blake	chairman 's	company	PERSON	0
+1.0	Bob Nardelli	have	pay	O	O
+1.0	North America	have	International Union	ORGANIZATION	ORGANIZATION
+1.0	Frank Blake	have succeed	Nardelli with effect	PERSON	PERSON
+1.0	stock awards	have	acceleration	O	O
+1.0	US chain home	say at_time	Wednesday	LOCATION	DATE
+1.0	Home Depot	say in	statement	ORGANIZATION	0

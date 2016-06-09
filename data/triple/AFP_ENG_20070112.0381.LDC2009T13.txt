@@ -1,0 +1,95 @@
+1.0	turkish international	have	respond to charge make after review	0	0
+1.0	international	have	respond to charge make by English Football Association	0	ORGANIZATION
+1.0	turkish international	have	respond to charge make after preliminary review of alleged incident	0	0
+1.0	international	respond to	charge make by English Football Association after review of alleged incident	0	ORGANIZATION
+1.0	international	have	respond to charge make by English Football Association after preliminary review of alleged incident	0	ORGANIZATION
+1.0	turkish international	respond to	charge make after preliminary review	0	0
+1.0	international	respond to	charge	0	0
+1.0	international	have	respond to charge make	0	0
+1.0	international	respond to	charge make after review of alleged incident	0	0
+1.0	international	have	respond	0	0
+1.0	international	have	respond to charge make after review of alleged incident	0	0
+1.0	international	respond to	charge make by English Football Association after preliminary review of incident	0	ORGANIZATION
+1.0	turkish international	respond to	charge make by English Football Association after review of alleged incident	0	ORGANIZATION
+1.0	turkish international	respond to	charge make by English Football Association after review	0	ORGANIZATION
+1.0	fact	have	mention	O	O
+1.0	international	respond to	charge make after preliminary review of incident	0	0
+1.0	Emre , 26	make	racist comment	PERSON	0
+1.0	Turkey midfielder Emre	insulting word on	December 30	PERSON	DATE
+1.0	international	have	respond to charge make by English Football Association after review	0	ORGANIZATION
+1.0	international	respond to	charge make by English Football Association after preliminary review of alleged incident	0	ORGANIZATION
+1.0	Emre 26	make	racist comment	PERSON	0
+1.0	international	respond to	charge make after review	0	0
+1.0	Emre	be	Turkey	PERSON	LOCATION
+1.0	international	have	respond to charge make after preliminary review of alleged incident	0	0
+1.0	Emre , 26	be	26	PERSON	NUMBER
+1.0	Emre	have	conduct	O	PERSON
+1.0	Emre 26	have	have accuse	PERSON	0
+1.0	Everton	have	goalkeeper Tim Howard	PERSON	ORGANIZATION
+1.0	turkish international	have	respond	0	0
+1.0	turkish international	have	respond to charge make by English Football Association after preliminary review of alleged incident	0	ORGANIZATION
+1.0	Turkey midfielder Emre	be friday	aggravate	PERSON	0
+1.0	international	have	respond to charge make after review	0	0
+1.0	international	respond to	charge make by English Football Association after preliminary review	0	ORGANIZATION
+1.0	turkish international	have	respond to charge make by English Football Association after preliminary review	0	ORGANIZATION
+1.0	international	have	respond to charge make after preliminary review of incident	0	0
+1.0	turkish international	respond to	charge make by English Football Association after preliminary review	0	ORGANIZATION
+1.0	Emre 26	make	comment	PERSON	0
+1.0	charge	have	found	O	O
+1.0	international	respond to	charge make	0	0
+1.0	international	respond to	charge make after preliminary review	0	0
+1.0	international	have	respond to charge make after preliminary review	0	0
+1.0	turkish international	have	respond to charge make after preliminary review	0	0
+1.0	turkish international	have until	January 29	0	DATE
+1.0	The referee	have	match report	O	O
+1.0	turkish international	have	respond to charge make by English Football Association after review of incident	0	ORGANIZATION
+1.0	Everton player	complain to	he	ORGANIZATION	0
+1.0	turkish international	have	respond to charge make by English Football Association	0	ORGANIZATION
+1.0	Turkey midfielder Emre	insulting word during	he club	PERSON	0
+1.0	turkish international	respond to	charge make	0	0
+1.0	turkish international	respond to	charge make by English Football Association after preliminary review of incident	0	ORGANIZATION
+1.0	turkish international	respond to	charge make after preliminary review of alleged incident	0	0
+1.0	international	have	respond to charge make by English Football Association after review of alleged incident	0	ORGANIZATION
+1.0	international	respond to	charge make by English Football Association	0	ORGANIZATION
+1.0	Emre , 26	have	have accuse	PERSON	0
+1.0	Turkey midfielder Emre	have	club	O	O
+1.0	turkish international	respond to	charge	0	0
+1.0	turkish international	have	respond to charge make	0	0
+0.6975662183247333	he match report	mention of	fact	0	0
+1.0	Newcastle	have	Premiership match	O	ORGANIZATION
+1.0	turkish international	have	respond to charge make after preliminary review of incident	0	0
+1.0	turkish international	have	respond to charge make by English Football Association after review of alleged incident	0	ORGANIZATION
+1.0	turkish international	have	respond to charge make by English Football Association after review	0	ORGANIZATION
+1.0	turkish international	have	respond to charge	0	0
+1.0	Everton	have	Tim Howard	ORGANIZATION	PERSON
+1.0	Emre	be midfielder of	Turkey	PERSON	LOCATION
+1.0	incident	have	review	O	O
+1.0	international	have	respond to charge make by English Football Association after preliminary review of incident	0	ORGANIZATION
+1.0	international	have	respond to charge make by English Football Association after review of incident	0	ORGANIZATION
+1.0	Emre	about	conduct	PERSON	0
+1.0	turkish international	respond to	charge make after review of incident	0	0
+1.0	Turkey midfielder Emre	word on	December 30	PERSON	DATE
+1.0	turkish international	have	respond to charge make by English Football Association after preliminary review of incident	0	ORGANIZATION
+1.0	international	have	respond to charge	0	0
+1.0	turkish international	respond to	charge make by English Football Association after review of incident	0	ORGANIZATION
+1.0	turkish international	respond to	charge make after preliminary review of incident	0	0
+1.0	he match report	include	mention of fact	0	0
+1.0	turkish international	have	respond to charge make after review of incident	0	0
+1.0	international	have	respond to charge make by English Football Association after preliminary review	0	ORGANIZATION
+1.0	he match report	include	mention	0	0
+1.0	turkish international	respond to	charge make by English Football Association after preliminary review of alleged incident	0	ORGANIZATION
+1.0	Tim Howard	be goalkeeper of	Everton	PERSON	ORGANIZATION
+1.0	international	respond to	charge make by English Football Association after review of incident	0	ORGANIZATION
+1.0	Emre , 26	make	comment	PERSON	0
+1.0	international	respond to	charge make after review of incident	0	0
+1.0	international	have	respond to charge make after review of incident	0	0
+1.0	turkish international	have	respond to charge make after review of alleged incident	0	0
+1.0	Everton player	complain about	Emre 's conduct	ORGANIZATION	PERSON
+1.0	international	respond to	charge make after preliminary review of alleged incident	0	0
+1.0	Turkey midfielder Emre	word during	he club	PERSON	0
+1.0	turkish international	respond to	charge make after review of alleged incident	0	0
+1.0	international	have until	January 29	0	DATE
+1.0	international	respond to	charge make by English Football Association after review	0	ORGANIZATION
+1.0	Newcastle	have	premiership match at Everton	ORGANIZATION	ORGANIZATION
+1.0	turkish international	respond to	charge make after review	0	0
+1.0	turkish international	respond to	charge make by English Football Association	0	ORGANIZATION

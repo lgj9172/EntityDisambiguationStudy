@@ -1,0 +1,46 @@
+1.0	National Population Commission chairman Sama'ila Makama	stand at	63 percent increase	ORGANIZATION	PERCENT
+1.0	Sama'ila Makama	be	National Population Commission	PERSON	ORGANIZATION
+1.0	Obasanjo 's address	follow release of	state-by-state population figure	PERSON	0
+1.0	Obasanjo 's address	follow release at_time	Tuesday	PERSON	DATE
+1.0	Obasanjo	have	address	O	PERSON
+1.0	Sama'ila Makama	be in	late December	PERSON	DATE
+1.0	President	urge	Nigerians	0	MISC
+1.0	Nigeria 's population	grow at	rate	LOCATION	0
+1.0	Nigerians	support	Independent National Electoral Commission	MISC	ORGANIZATION
+1.0	they	just support	npc	0	0
+1.0	Nigerians	support	INEC	MISC	ORGANIZATION
+1.0	minimum	have	growth rate	O	O
+1.0	Nigeria 's total population	grow at	rate of 3.2 percent	LOCATION	PERCENT
+1.0	Nigeria 's population	grow at	annual rate	LOCATION	SET
+1.0	Nigeria	have	total population	LOCATION	0
+1.0	Obasanjo 's address	follow	release	PERSON	0
+1.0	Nigeria 's total population	grow at	annual rate of 3.2 percent	LOCATION	SET
+1.0	population figures	have	followed	O	O
+1.0	Nigeria 's total population	grow at	rate	LOCATION	0
+1.0	breakdown	have by	have gender	0	0
+1.0	15	have	age	O	NUMBER
+1.0	Nigeria 's total population	grow at	annual rate	LOCATION	SET
+1.0	our	have	own	O	O
+1.0	election	be in	April	0	DATE
+1.0	economy	have	growth	O	O
+1.0	population	have	percentage	O	O
+1.0	President Olusegun Obasanjo	say at_time	Tuesday	PERSON	DATE
+1.0	National Population Commission chairman Sama'ila Makama	stand at	63 percent increase in 15 year	ORGANIZATION	PERCENT
+1.0	Nigeria	have	population	O	LOCATION
+1.0	population growth	have	curbing	O	O
+1.0	Nigeria 's population	grow at	annual rate of 3.2 percent	LOCATION	SET
+1.0	only breakdown	have by	have gender	0	0
+1.0	our	have	population growth rate	O	O
+1.0	figures	have	breakdown	O	O
+1.0	our	have	growth rate	O	O
+1.0	percent	have	rate	O	PERCENT
+1.0	63 percent increase	be in	15 year	PERCENT	DURATION
+1.0	Nigeria 's population	grow at	rate of 3.2 percent	LOCATION	PERCENT
+1.0	practices	have	discouragement	O	O
+1.0	Obasanjo 's address	follow release of	population figure	PERSON	0
+1.0	our	have	economy	O	O
+1.0	Nigeria	have	population growth rate	O	O
+1.0	percent	have	minimum	O	PERCENT
+1.0	poverty	have	rates	O	O
+1.0	they	support	npc	0	0
+1.0	Obasanjo	have	address	PERSON	0

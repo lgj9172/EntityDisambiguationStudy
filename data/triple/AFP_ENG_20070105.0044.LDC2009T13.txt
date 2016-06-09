@@ -1,0 +1,37 @@
+1.0	military	announce	death	0	DATE
+1.0	patrol	be attack by	small arm fire	0	0
+1.0	patrol	kill	one soldier of Thursday 's attack	0	NUMBER
+1.0	death	bring us loss since	invasion	0	0
+1.0	patrol	kill	one soldier in part of Thursday 's attack	0	NUMBER
+1.0	patrol	be	attack	0	0
+1.0	patrol	kill	one soldier in western part of capital	0	NUMBER
+1.0	patrol	kill	one soldier in western part of Thursday 's attack	0	NUMBER
+1.0	attack	have	soldier	O	O
+1.0	patrol	kill	one soldier in part of iraqi capital	0	NUMBER
+1.0	patrol	kill	one soldier in western part	0	NUMBER
+1.0	Thursday	have	attack	O	DATE
+1.0	patrol	kill	one soldier in western part of iraqi capital of Thursday 's attack	0	NUMBER
+1.0	patrol	kill	one soldier in part	0	NUMBER
+1.0	one soldier	be in	western part of iraqi capital	NUMBER	0
+1.0	death	bring us loss accord to	afp count	0	0
+1.0	2007	have	death	DATE	DATE
+1.0	military	announce	death of 2007	0	DATE
+1.0	death	bring us loss accord to	afp count base on Pentagon figure	0	ORGANIZATION
+1.0	death	bring us loss to	2,996	0	NUMBER
+1.0	patrol	kill	one soldier in part of capital of Thursday 's attack	0	NUMBER
+1.0	patrol	kill	one soldier in part of iraqi capital of Thursday 's attack	0	NUMBER
+1.0	patrol	kill	one soldier	0	NUMBER
+1.0	patrol	kill	one soldier in part of capital	0	NUMBER
+1.0	patrol	kill	one soldier in western part of capital of Thursday 's attack	0	NUMBER
+1.0	capital	have	part	O	O
+1.0	death	bring	total US loss	0	LOCATION
+1.0	death	bring	US military loss	0	LOCATION
+1.0	Thursday	of	attack	DATE	0
+1.0	military	announce	second death	0	DATE
+1.0	death	bring	US loss	0	LOCATION
+1.0	military	say at_time	Friday	0	DATE
+1.0	military	announce	second death of 2007	0	DATE
+1.0	death	bring us loss accord to	afp count base	0	0
+1.0	patrol	be attack by	arm fire	0	0
+1.0	death	bring	total US military loss	0	LOCATION
+1.0	patrol	kill	one soldier in western part of iraqi capital	0	NUMBER

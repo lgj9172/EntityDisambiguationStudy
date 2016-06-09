@@ -1,0 +1,16 @@
+1.0	Maria Milz , 100 , from Blankenheim in the western state of North Rhine-Westphalia	pack	my bag	0	0
+1.0	Milz	be	reunite	PERSON	0
+1.0	Milz	be reunite at	home	PERSON	0
+1.0	Milz	be reunite with	she dachshund Inka	PERSON	0
+1.0	Milz	be	reunite at home with she 17-year-old dachshund Inka	PERSON	DURATION
+1.0	Maria Milz , 100 , from Blankenheim in the western state of North Rhine-Westphalia	have	bags	O	O
+1.0	people	have	full	O	O
+1.0	North Rhine-Westphalia	have	state	O	LOCATION
+1.0	my	have	eyes	O	O
+1.0	her	have	dachshund Inka	O	O
+1.0	Milz	be	reunite at home with she dachshund Inka	PERSON	0
+1.0	Milz	be reunite with	she 17-year-old dachshund Inka	PERSON	DURATION
+1.0	Maria Milz , 100 , from Blankenheim in the western state of North Rhine-Westphalia	be	100	PERSON	NUMBER
+1.0	it	have	night owl	O	O
+1.0	Maria Milz , 100 , from Blankenheim in the western state of North Rhine-Westphalia	be from	Blankenheim	PERSON	PERSON
+1.0	Maria Milz , 100 , from Blankenheim in the western state of North Rhine-Westphalia	be	night owl	0	TIME

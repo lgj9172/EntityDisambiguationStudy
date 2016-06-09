@@ -1,0 +1,28 @@
+1.0	Guangzhou Wednesday	have	capital	O	DATE
+1.0	market	be in	Guangzhou 's Shahe district	0	LOCATION
+1.0	mafia group	have	part	O	O
+1.0	the suspects	have	breakfast meeting	O	O
+1.0	mafia group	of part be	paper quote	0	0
+1.0	two group	say in	August 2005	NUMBER	DATE
+1.0	they	be part of	mafia group from Hunan province	0	LOCATION
+1.0	group	have	members	O	O
+1.0	hotel	have	banquet rooms	O	O
+1.0	hotel	be in	Guangdong 's provincial capital of Guangzhou Wednesday	0	LOCATION
+1.0	group	plan	disturbance	0	0
+1.0	Guangzhou	have	Shahe district	O	LOCATION
+1.0	police	be in	China	0	LOCATION
+1.0	group	be	suspect	0	0
+1.0	hotel	in	banquet room	0	0
+1.0	group	say in	August 2005	0	DATE
+1.0	group	be in	handcuffs	0	0
+1.0	Guangdong	in	provincial capital of Guangzhou Wednesday	LOCATION	LOCATION
+1.0	Guangzhou	in	Shahe district	LOCATION	LOCATION
+1.0	state press	say at_time	Thursday	0	DATE
+1.0	they	be part of	mafia group from neighbor Hunan province	0	LOCATION
+1.0	it	cite	hotel staff	0	0
+1.0	they	be	part	0	0
+1.0	business	have	control	O	O
+1.0	mafia gang	have	members	O	O
+1.0	the group in handcuffs and black hoods	have	business	O	O
+1.0	they	be part of	mafia group	0	0
+1.0	Guangdong	have	capital	O	LOCATION

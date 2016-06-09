@@ -1,0 +1,50 @@
+0.9157890059936434	Bulgaria	take	membership of union	LOCATION	0
+1.0	they	have	say	0	0
+0.9157890059936434	Bulgaria	take membership to	27	LOCATION	NUMBER
+1.0	commissioner	have	principle	O	O
+1.0	Sweden	have	Margot Wallstrom	LOCATION	PERSON
+1.0	Siim Kallas	be of	Estonia	PERSON	LOCATION
+1.0	membership	force	creation of commissioner responsibility	0	0
+1.0	member state	should have	somebody accountable	0	0
+0.581336257177636	they	say in	affair	0	0
+1.0	bloc	have	executive body	O	O
+1.0	they	have	say in european affair	0	0
+1.0	Sweden 's Margot Wallstrom	tell	reporter	PERSON	0
+1.0	only place	be in	EU	0	LOCATION
+1.0	Vice-President Guenter Verheugen	suggest at_time	week	PERSON	DATE
+0.7972606605191824	force	creation of	commissioner responsibility	0	0
+1.0	a smaller commission	have	citizens	O	O
+1.0	membership	force	creation	0	0
+1.0	union	have	membership	O	O
+1.0	Vice-President Guenter Verheugen	make	Commission slimmer	PERSON	ORGANIZATION
+1.0	Vice-President Guenter Verheugen	suggest at_time	last week	PERSON	DATE
+0.7335590182397729	favour	say	favour of each EU member state	0	0
+1.0	Guenter Verheugen	be of	Germany	PERSON	LOCATION
+1.0	people	have	feeling	O	O
+1.0	they	have	say in affair	0	0
+1.0	bloc	in	executive body	0	0
+1.0	Bulgaria	join	Romania	LOCATION	LOCATION
+1.0	Sweden	have	Margot Wallstrom	PERSON	LOCATION
+1.0	Union	have	credibility	O	O
+1.0	Estonia	have	Siim Kallas	PERSON	LOCATION
+0.9187747673178711	somebody	accountable in	Brussels	0	LOCATION
+1.0	that with a 27-member one	have	colleague Guenter Verheugen	PERSON	O
+1.0	Vice-President Guenter Verheugen	suggest	make	PERSON	0
+1.0	they	increase	feeling of people	0	0
+1.0	seat	be in	bloc 's executive body	0	0
+1.0	Bulgaria	join eu on	January 1	LOCATION	DATE
+1.0	member state	should have	somebody accountable in Brussels	0	LOCATION
+1.0	say	be in	european affair	0	0
+1.0	membership	force	creation of new commissioner responsibility	0	0
+1.0	Bulgaria	join	the EU	LOCATION	ORGANIZATION
+1.0	commissioner responsibilities	have	creation	O	O
+0.9157890059936434	Bulgaria	take	Romania	LOCATION	LOCATION
+1.0	Germany	have	Vice-President Guenter Verheugen	PERSON	LOCATION
+0.581336257177636	they	say in	european affair	0	0
+0.7972606605191824	force	creation of	new commissioner responsibility	0	0
+1.0	EU member state	have	favour	O	O
+1.0	member state	should have	somebody	0	0
+1.0	Sweden 's Margot Wallstrom	tell reporter in	capital	PERSON	0
+1.0	Sweden 's Margot Wallstrom	tell reporter in	estonian capital	PERSON	0
+1.0	they	increase	feeling	0	0
+0.9157890059936434	Bulgaria	take	membership	LOCATION	0

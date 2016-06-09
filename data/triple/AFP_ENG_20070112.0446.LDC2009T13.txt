@@ -1,0 +1,55 @@
+1.0	government spokesperson	say at_time	last week	0	DATE
+1.0	Greece	agree to	compromise in name standoff	0	0
+1.0	Greece	agree to	compromise	0	0
+1.0	the two neighbours	have	heritage	O	O
+1.0	Skopje	use	name republic of Macedonia	LOCATION	LOCATION
+1.0	the name Macedonia	name	Skopje airport	LOCATION	LOCATION
+1.0	Skopje	break from	Belgrade	LOCATION	LOCATION
+1.0	Skopje	break away from	Belgrade	LOCATION	LOCATION
+1.0	Greece	invite	special envoy Matthew Nimetz	LOCATION	PERSON
+1.0	the name Macedonia	name skopje airport in	honour	LOCATION	0
+1.0	tiny balkan nation	over	name	0	0
+1.0	Greece	mediate in	talk	LOCATION	0
+1.0	UN 's point man	resolve	14-year dispute	ORGANIZATION	DURATION
+1.0	heritage	have	part	O	O
+1.0	UN	have	point man	O	ORGANIZATION
+1.0	Great	be	historic	PERSON	0
+1.0	UN official	say at_time	Friday	ORGANIZATION	DATE
+1.0	UN 's point man	resolve	14-year dispute between Athens	ORGANIZATION	LOCATION
+1.0	UN 's point man	resolve	dispute between Athens	ORGANIZATION	LOCATION
+1.0	compromise	be in	name standoff	0	0
+1.0	special envoy Matthew Nimetz	say	The United Nations	PERSON	ORGANIZATION
+1.0	power	have	birthplace	O	O
+1.0	special envoy Matthew Nimetz	be	UN 's point man	PERSON	ORGANIZATION
+1.0	senior UN official	say at_time	Friday	ORGANIZATION	DATE
+1.0	UN 's point man	resolve	broader dispute	ORGANIZATION	0
+1.0	UN 's point man	resolve	broader dispute between Athens	ORGANIZATION	LOCATION
+1.0	UN 's point man	resolve	dispute	ORGANIZATION	0
+1.0	UN	have	point man resolve over name	ORGANIZATION	0
+1.0	macedonian government spokesperson	say at_time	last week	0	DATE
+1.0	Belgrade in 1991	have	constitution	O	O
+1.0	neighbour	have	ambitions	O	O
+1.0	Matthew Nimetz	be special envoy of	The United Nations	PERSON	ORGANIZATION
+1.0	UN 's point man	resolve	broader 14-year dispute between Athens	ORGANIZATION	LOCATION
+1.0	Alexander	have	birthplace of power	PERSON	0
+1.0	warrior	have	honour	O	O
+1.0	macedonian government spokesperson	say at_time	week	0	DATE
+1.0	Alexander	have	birthplace	O	PERSON
+1.0	its	have	neighbour	O	O
+1.0	Macedonia	have	decision call after Alexander Great	LOCATION	PERSON
+1.0	Macedonia	have	Yugolsav Republic	LOCATION	LOCATION
+1.0	Skopje	break from	Belgrade in 1991	LOCATION	DATE
+1.0	Belgrade	be in	1991	LOCATION	DATE
+1.0	Macedonia	have	name Republic	LOCATION	LOCATION
+1.0	Skopje	use globally	name republic of Macedonia	LOCATION	LOCATION
+1.0	name Macedonia	have	use	O	LOCATION
+1.0	government spokesperson	say at_time	week	0	DATE
+1.0	Greece	block	its neighbour 's ambition	0	0
+1.0	Skopje	use	name republic	LOCATION	0
+1.0	UN 's point man	resolve	broader 14-year dispute	ORGANIZATION	DURATION
+1.0	Greece	invite nimetz at_time	January 12	LOCATION	DATE
+1.0	Skopje	break away from	Belgrade in 1991	LOCATION	DATE
+1.0	Skopje	use globally	name republic	LOCATION	0
+1.0	Macedonia	have	decision	O	LOCATION
+1.0	neighbour	have	ambition join	0	0
+1.0	Balkan nation	have	name	O	O

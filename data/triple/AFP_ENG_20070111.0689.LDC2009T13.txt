@@ -1,0 +1,35 @@
+1.0	Castro	of	illness	PERSON	0
+1.0	Fidel Castro	have	timeframe	O	O
+1.0	Top US spy chief John Negroponte	be	quote	PERSON	0
+1.0	Top US spy chief John Negroponte	be quote at_time	last month	PERSON	DATE
+1.0	his	have	brother	O	O
+1.0	post	have	expectation	O	O
+1.0	illness	have	nature	O	O
+1.0	intelligence	have	director	O	O
+1.0	Fidel Castro	have	illness	PERSON	0
+1.0	power	have	transfer	O	O
+1.0	John Negroponte	be spy chief of	US	PERSON	LOCATION
+1.0	Top US spy chief John Negroponte	be quote at_time	month	PERSON	DATE
+1.0	Top US spy chief John Negroponte	testify on	Intelligence	ORGANIZATION	ORGANIZATION
+1.0	Cuba	have treat	nature	LOCATION	0
+1.0	country	have	leader	O	O
+1.0	Fidel Castro	have	terminal illness	PERSON	0
+1.0	Cuba	have treat nature as	state secret	LOCATION	0
+1.0	Castro	have	illness	O	PERSON
+1.0	Top US spy chief John Negroponte	director of	national intelligence	ORGANIZATION	ORGANIZATION
+1.0	Cuba	have treat	nature of Castro 's illness	LOCATION	PERSON
+1.0	top US spy chief John Negroponte	say at_time	Thursday	LOCATION	DATE
+1.0	John Negroponte	be	US	PERSON	LOCATION
+1.0	population	be in	expectation of post	0	0
+1.0	Fidel Castro	have	days	DURATION	PERSON
+1.0	US spy chief John Negroponte	say at_time	Thursday	LOCATION	DATE
+0.9129447633152606	Top US spy chief John Negroponte	director of	national intelligence	ORGANIZATION	ORGANIZATION
+1.0	there have political ferment	be in	population	0	0
+1.0	Top US spy chief John Negroponte	testify before	Senate Select Committee	ORGANIZATION	ORGANIZATION
+1.0	Fidel Castro	have	day	PERSON	0
+1.0	Top US spy chief John Negroponte	be	last month quote by Washington Post	PERSON	ORGANIZATION
+1.0	leader	have	demise	O	O
+0.9129447633152606	Top US spy chief John Negroponte	director of	intelligence	ORGANIZATION	0
+1.0	Top US spy chief John Negroponte	be	month quote by Washington Post	PERSON	ORGANIZATION
+0.9129447633152606	Top US spy chief John Negroponte	director of	dni	ORGANIZATION	0
+1.0	Top US spy chief John Negroponte	be quote by	Washington Post	PERSON	ORGANIZATION

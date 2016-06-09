@@ -1,0 +1,59 @@
+1.0	China 's Foreign Minister Li Zhaoxing	visit	Japan as part of effort	0	LOCATION
+1.0	China 's Foreign Minister Li Zhaoxing	visit	Japan	0	LOCATION
+1.0	abe	travel in	bid	0	0
+1.0	Japan	have	New Komeito party	O	LOCATION
+1.0	China	anger	Japan	LOCATION	LOCATION
+1.0	China 's Foreign Minister Li Zhaoxing	confirm at_time	Thursday	PERSON	DATE
+1.0	Chinese Foreign Ministry spokesman Liu Jianchao	say at_time	Tuesday	PERSON	DATE
+1.0	Liu Jianchao	be spokesman of	Chinese Foreign Ministry	PERSON	ORGANIZATION
+1.0	Japan 's new Prime Minister	repair tie with	China 's	LOCATION	LOCATION
+1.0	Prime Minister Shinzo Abe	visit china at_time	last year	PERSON	DATE
+1.0	China 's	have	neighbors	O	O
+1.0	japanese media	say at_time	Tuesday	0	DATE
+1.0	Hu Jintao	be	Chinese	PERSON	MISC
+1.0	abe	take	office	0	0
+1.0	talk	be with	chinese diplomat in Beijing	0	LOCATION
+1.0	Japan 's Prime Minister	repair tie with	China 's	LOCATION	LOCATION
+1.0	China	block	its bid	LOCATION	0
+1.0	Japan 's Prime Minister	repair	tie	LOCATION	0
+1.0	China	anger japan at_time	year	LOCATION	DATE
+1.0	Prime Minister Shinzo Abe	visit china at_time	year	PERSON	DATE
+0.12365209490538466	China 's Foreign Minister Li Zhaoxing	japan as	part of effort	0	0
+1.0	Japan	of	New Komeito party	LOCATION	0
+1.0	Japan 's new Prime Minister	repair	tie	LOCATION	0
+1.0	Akihiro Ota	leader of	Japan 's New Komeito party	PERSON	LOCATION
+1.0	media	say at_time	Tuesday	0	DATE
+1.0	Japan	be in	talk	LOCATION	0
+1.0	his	have	readiness	O	O
+1.0	China 's Foreign Minister Li Zhaoxing	visit	Japan as part of continue effort	0	LOCATION
+1.0	Wen Jiabao	be by	chinese	PERSON	0
+1.0	chinese diplomat	be in	Beijing	0	LOCATION
+1.0	China 's Foreign Minister Li Zhaoxing	tell	reporter	PERSON	0
+1.0	China 's Foreign Minister Li Zhaoxing	improve	relation	0	0
+1.0	China	have	Foreign Minister Li Zhaoxing	PERSON	LOCATION
+0.12365209490538466	China 's Foreign Minister Li Zhaoxing	japan as	part	0	0
+1.0	abe	shortly take	office	0	0
+1.0	its	have	bid	O	O
+1.0	China	anger japan at_time	last year	LOCATION	DATE
+1.0	aggression	have	symbol	O	O
+1.0	New Komeito party	have	leader	O	O
+1.0	China 's Foreign Minister Li Zhaoxing	improve	relation between country	0	0
+1.0	Japan	's minister be	Prime Minister Shinzo Abe	LOCATION	PERSON
+1.0	efforts	have	part	O	O
+0.12365209490538466	China 's Foreign Minister Li Zhaoxing	japan as	part of continue effort	0	0
+1.0	abe	travel in	October	0	DATE
+1.0	abe	travel in	early October	0	DATE
+1.0	side	stress	importance	0	0
+1.0	Liu Jianchao	be	Chinese Foreign Ministry	PERSON	ORGANIZATION
+1.0	Tokyo	have	aggression	O	LOCATION
+1.0	his	have	predecessor	O	O
+1.0	Junichiro Koizumi	have	visits	O	PERSON
+1.0	Japan	have	new Prime Minister	LOCATION	0
+1.0	Chinese President Hu Jintao	express	he readiness	PERSON	0
+1.0	Japan	have	Prime Minister	O	LOCATION
+1.0	Hu Jintao	be on	Monday	PERSON	DATE
+1.0	China	have	Li Zhaoxing	LOCATION	PERSON
+1.0	Li Zhaoxing	be foreign minister of	China	PERSON	LOCATION
+1.0	Prime Minister Shinzo Abe	visit	China	PERSON	LOCATION
+1.0	abe	travel to	Beijing	0	LOCATION
+1.0	China 's Foreign Minister Li Zhaoxing	visit	Japan as part	0	LOCATION

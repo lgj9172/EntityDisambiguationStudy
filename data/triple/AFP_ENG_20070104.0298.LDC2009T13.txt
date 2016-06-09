@@ -1,0 +1,10 @@
+1.0	British Airways Flight	have	captain	O	O
+1.0	runway	have	length	O	O
+1.0	Boeing 747-400	taxi to	gate	ORGANIZATION	0
+1.0	National Transportation	say in	report	ORGANIZATION	0
+1.0	National Transportation	say	Safety Board	ORGANIZATION	ORGANIZATION
+1.0	Tony Blair	have	family	O	O
+1.0	Prime Minister Tony Blair	travel	he family	PERSON	0
+1.0	british Prime Minister Tony Blair	travel	he family	PERSON	0
+1.0	Tony Blair	be	british	PERSON	0
+1.0	arrival	be in	Miami International Airport	0	LOCATION

@@ -1,0 +1,55 @@
+1.0	W. Bush	be later at_time	Wednesday	PERSON	DATE
+1.0	Baghdad	have	South	O	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	four civilian	be	wound	NUMBER	0
+1.0	four civilian	be wound in	capital	NUMBER	0
+1.0	men	have	bodies	O	O
+1.0	four civilian	be wound in	iraqi capital	NUMBER	0
+1.0	their	have	hands	O	O
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district	0	0
+1.0	country	in	third largest city of Mosul	0	LOCATION
+1.0	constant curse	be in	Iraq	0	LOCATION
+1.0	W. Bush	unveil	long	PERSON	0
+0.7842015714225353	water pipeline	supply	impoverished shiite slum district of Sadr City	0	LOCATION
+1.0	water pipeline	say	security source	0	0
+1.0	Iraq 's diet	continue on	Wednesday	LOCATION	DATE
+1.0	Iraq	have	diet	O	LOCATION
+1.0	their	have	eyes	O	O
+0.7842015714225353	water pipeline	supply	slum district	0	0
+1.0	shootings	have	diet	O	O
+1.0	Baghdad	have	south	O	LOCATION
+1.0	bombings	have	diet	O	O
+0.633593924617174	water pipeline	say on	condition of anonymity	0	0
+1.0	Sadr City	have	slum district	O	LOCATION
+1.0	separate shooting	be in	country 's third largest city of Mosul	0	LOCATION
+1.0	he	be	in which expect	0	0
+1.0	separate shooting	be in	north	0	0
+1.0	civilian	be wound in	capital	0	0
+1.0	His	have	driver	O	O
+0.7842015714225353	water pipeline	supply	impoverished slum district	0	0
+1.0	country	have	city	O	O
+1.0	Qahira	have	neighbourhood	O	LOCATION
+1.0	civilian	be	wound	0	0
+1.0	he	be	expect	0	0
+1.0	attack	have	time	DATE	O
+1.0	Iraq 's daily diet	continue on	Wednesday	LOCATION	DATE
+1.0	W. Bush	be at_time	Wednesday	PERSON	DATE
+1.0	his	have	clinic	O	O
+1.0	Iraq	have	daily diet of bombing	LOCATION	SET
+1.0	which	have	one	NUMBER	O
+1.0	woman	be	kill	0	0
+1.0	water pipeline	say security source on	condition	0	0
+1.0	assassination attempts	have	diet	O	O
+1.0	Mosul	have	city	O	LOCATION
+1.0	water pipeline	say security source on	condition of anonymity	0	0
+1.0	civilian	be wound in	iraqi capital	0	0
+0.7842015714225353	water pipeline	supply	shiite slum district	0	0
+1.0	bodies	have	diet	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+0.7842015714225353	water pipeline	supply	impoverished slum district of Sadr City	0	LOCATION
+1.0	Najem Abdullah	have	vehicle	O	PERSON
+1.0	chaos	have	brink	O	O
+0.633593924617174	water pipeline	say on	condition	0	0
+0.7842015714225353	water pipeline	supply	slum district of Sadr City	0	LOCATION
+0.7842015714225353	water pipeline	supply	shiite slum district of Sadr City	0	LOCATION
+1.0	anonymity	have	condition	O	O

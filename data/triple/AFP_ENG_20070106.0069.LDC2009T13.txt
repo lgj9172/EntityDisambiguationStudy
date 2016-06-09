@@ -1,0 +1,108 @@
+1.0	authority	use	version of 2000 voter list	0	DATE
+1.0	Bangladesh	have	opposition	LOCATION	0
+1.0	caretaker government	use	2000 list	0	DATE
+1.0	newspaper	carry report in	Bangladesh	0	LOCATION
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	newspaper	however carry report at_time	Saturday	0	DATE
+1.0	opposition supporters	have	hundreds	O	O
+1.0	newspaper	carry report on	arrest	0	0
+1.0	impoverished nation	have	have paralyse by opposition protest	0	0
+1.0	nation	highlight	its demand	0	0
+1.0	nation	have	in past year have paralyse	0	DATE
+1.0	newspaper	carry	front-page report	0	0
+1.0	we right	hold	peaceful protest	0	0
+1.0	impoverished nation	have	have paralyse	0	0
+1.0	government	hand power at	end of October	0	DATE
+1.0	newspaper	carry report at_time	Saturday	0	DATE
+1.0	government	hand power to	government	0	0
+1.0	opposition	have	statements	O	O
+1.0	impoverished nation	have	in past year have repeatedly paralyse by opposition protest	0	DATE
+1.0	opposition	have call	nationwide transport blockade for Sunday	0	DATE
+1.0	Bangladesh 's opposition	vow at_time	Saturday	LOCATION	DATE
+1.0	it	take part in	late December	0	DATE
+1.0	nation	have	have repeatedly paralyse	0	0
+1.0	impoverished nation	highlight	its demand	0	0
+1.0	newspaper	however carry	report	0	0
+1.0	it	take part in	election	0	0
+1.0	impoverished nation	have	in past year have paralyse by opposition protest	0	DATE
+1.0	nationalist Party	be	need	ORGANIZATION	0
+1.0	authority	use	version	0	0
+1.0	authority	use	update version	0	0
+1.0	opposition	have call	transport blockade	0	0
+1.0	voter list	prepare over	past year	0	DURATION
+1.0	nation	have	in past year have repeatedly paralyse by opposition protest	0	DATE
+1.0	latest voter list	prepare over	past year	0	DURATION
+1.0	government	hand power to	interim government	0	0
+1.0	nation	have	have paralyse by opposition protest	0	0
+1.0	opposition	have call	transport blockade for Sunday	0	DATE
+1.0	we right	hold	protest	0	0
+1.0	we democratic right	hold	protest	0	0
+1.0	Awami League	have	demand	O	ORGANIZATION
+1.0	our	have	activists	O	O
+1.0	impoverished nation	have	in past year have paralyse	0	DATE
+1.0	blockade	have	arrested	O	O
+1.0	bnp-led government	hand	power	0	0
+1.0	newspaper	carry report in	Bangladesh of opposition protest	0	LOCATION
+1.0	our	have	right	O	O
+1.0	nation	have	in past year have repeatedly paralyse	0	DATE
+1.0	Bangladesh	have	opposition	O	LOCATION
+0.7172768149641172	opposition alliance	lead by	Awami League	0	ORGANIZATION
+1.0	newspaper	carry	report	0	0
+1.0	newspaper	however carry report in	Bangladesh ahead of opposition protest	0	LOCATION
+1.0	newspaper	however carry report in	Bangladesh ahead of major opposition protest	0	LOCATION
+1.0	government	hand	power	0	0
+1.0	opposition alliance	announce	boycott of election	0	0
+1.0	country	have	government	O	O
+1.0	we democratic right	hold	peaceful protest	0	0
+1.0	newspaper	carry report in	Bangladesh of major opposition protest	0	LOCATION
+1.0	nation	have	in past year have paralyse by opposition protest	0	DATE
+1.0	it	take part in	December	0	DATE
+1.0	impoverished nation	have	have repeatedly paralyse	0	0
+1.0	newspaper	however carry report in	Bangladesh of major opposition protest	0	LOCATION
+1.0	caretaker government	use	update 2000 list	0	DATE
+1.0	bnp-led government	hand power at	end of October	0	DATE
+1.0	impoverished nation	have	have repeatedly paralyse by opposition protest	0	0
+1.0	people	have	have kill	0	0
+1.0	it	take	part	0	0
+1.0	voter list	have	version	O	O
+1.0	latest voter list	prepare over	past few year	0	DURATION
+1.0	bnp-led government	hand power to	interim government	0	0
+1.0	opposition alliance	announce	boycott	0	0
+1.0	Party	be	need	ORGANIZATION	0
+1.0	newspaper	however carry report in	Bangladesh of opposition protest	0	LOCATION
+1.0	newspaper	however carry	front-page report	0	0
+1.0	nation	have	have paralyse	0	0
+1.0	its	have	demands	O	O
+1.0	newspaper	however carry report on	arrest of hundred of opposition supporter	0	0
+1.0	it	be	we right	0	0
+1.0	people	have	have kill in unrest	0	0
+1.0	this	be list	will use	0	0
+1.0	impoverished nation	have	in past year have repeatedly paralyse	0	DATE
+1.0	opposition alliance	earlier announce	boycott of election	0	0
+1.0	hundreds	have	arrest	O	O
+1.0	caretaker government	use	list	0	0
+1.0	Election Commission	be by	current	ORGANIZATION	DATE
+1.0	government	hand power at	end	0	DATE
+1.0	poll	have produce	voter list	0	0
+1.0	bnp-led government	hand power to	government	0	0
+1.0	authority	use	update version of 2000 voter list	0	DATE
+1.0	poll	have produce	flawed voter list	0	0
+1.0	it	be	we democratic right	0	0
+1.0	caretaker government	use	update list	0	0
+1.0	October	have	end	DATE	DATE
+1.0	newspaper	carry report in	Bangladesh ahead of opposition protest	0	LOCATION
+1.0	newspaper	carry report on	arrest of hundred of opposition supporter	0	0
+1.0	opposition protests	have	Bangladesh	LOCATION	O
+1.0	nation	have	have repeatedly paralyse by opposition protest	0	0
+1.0	country	have	interim government	0	0
+1.0	newspaper	carry report in	Bangladesh ahead of major opposition protest	0	LOCATION
+1.0	newspaper	carry report on	arrest of hundred	0	0
+1.0	newspaper	however carry report in	Bangladesh	0	LOCATION
+1.0	opposition alliance	earlier announce	boycott	0	0
+1.0	newspaper	however carry report on	arrest of hundred	0	0
+1.0	Awami League	have	main demand	ORGANIZATION	0
+1.0	newspaper	however carry report on	arrest	0	0
+1.0	elections	have	boycott	O	O
+1.0	bnp-led government	hand power at	end	0	DATE
+1.0	opposition	have call	nationwide transport blockade	0	0
+1.0	voter list	prepare over	past few year	0	DURATION

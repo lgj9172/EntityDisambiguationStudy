@@ -1,0 +1,176 @@
+1.0	Ando	host	international conference	PERSON	0
+1.0	Ando	unveil plan at_time	last year	PERSON	DATE
+1.0	Momofuku Ando	be student at	Ritsumeikan University in Kyoto	0	LOCATION
+1.0	japanese newspaper	publish	lengthy obituary of businessman	0	0
+1.0	japanese newspaper	publish obituary of businessman with	Asahi Shimbun	0	ORGANIZATION
+1.0	he business venture	be in	when trouble	0	0
+1.0	vacuum	pack	noodle to astronaut Soichi Noguchi	0	PERSON
+1.0	Mitsubishi Corp.	be	after Japan 's trading house commission in 1959	ORGANIZATION	DATE
+1.0	Momofuku Ando	own clothing company in	city	PERSON	0
+1.0	Ando	retire	serve	PERSON	0
+1.0	japanese newspaper	publish lengthy obituary of businessman on saturday with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	Ando	open	museum	PERSON	0
+1.0	Momofuku Ando	found	precursor of Nissin	PERSON	ORGANIZATION
+1.0	Mitsubishi Corp.	be	commission	ORGANIZATION	0
+1.0	mass consumption	have	age	O	O
+1.0	Mitsubishi Corp.	be commission in	1959	ORGANIZATION	DATE
+1.0	Japan	have	trading house	O	LOCATION
+1.0	newspaper	publish lengthy obituary of businessman with	Asahi Shimbun	0	ORGANIZATION
+1.0	Japan	bid farewell to	Momofuku Ando aged 96	LOCATION	NUMBER
+1.0	Ando	open	museum of Ramen	PERSON	0
+1.0	Mitsubishi Corp.	be	after Japan 's number-one general trading house commission in 1959	ORGANIZATION	DATE
+1.0	Nissin	launch cup noodle in	next year	ORGANIZATION	DATE
+1.0	His	have	company	O	O
+1.0	Ando	unveil plan at_time	year	PERSON	DATE
+1.0	noodles	have	sales	O	O
+1.0	Ando	unveil	plan	PERSON	0
+1.0	Momofuku Ando	be see accord to	Mainichi Shimbun newspaper	PERSON	ORGANIZATION
+1.0	USA -rrb- Inc.	be	Nissin Foods	LOCATION	ORGANIZATION
+1.0	he company	also use	advertisement	0	0
+1.0	Ramen	have	museum	O	O
+1.0	newspaper	publish lengthy obituary of businessman on saturday with	Asahi Shimbun	0	ORGANIZATION
+1.0	japanese newspaper	publish	lengthy obituary of businessman on Saturday	0	DATE
+1.0	Momofuku Ando	own clothing company in	city of Taipei	PERSON	LOCATION
+1.0	Ando	host conference on	noodle	PERSON	0
+1.0	Japan	bid farewell to	Momofuku Ando	LOCATION	PERSON
+1.0	japanese newspaper	publish obituary of businessman with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	his	have	business ventures	O	O
+1.0	Chicken Ramen	have	bowl	O	MISC
+1.0	Momofuku Ando	bear in	1910	PERSON	DATE
+1.0	Ando	open museum in	Osaka	PERSON	LOCATION
+1.0	japanese newspaper	publish lengthy obituary of businessman with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	newspaper	publish obituary with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	vacuum	pack	noodle	0	0
+1.0	people	have	line	O	O
+1.0	Momofuku Ando	put	Chicken Ramen	PERSON	MISC
+1.0	vacuum	pack	noodle to japanese astronaut Soichi Noguchi	0	PERSON
+1.0	Ando	retire	serve in honorary role as founder-chairman	PERSON	0
+1.0	vacuum	pack	instant noodle to japanese astronaut Soichi Noguchi	0	PERSON
+1.0	executive	bowl of	Chicken Ramen	0	MISC
+1.0	his	have	assets	O	O
+1.0	newspaper	publish obituary of businessman on saturday with	Asahi Shimbun	0	ORGANIZATION
+1.0	Momofuku Ando	be last see accord to	Mainichi Shimbun newspaper	PERSON	ORGANIZATION
+1.0	he	have lunch with	rice cake	0	0
+1.0	its	have	industrialisation	O	O
+1.0	Mitsubishi Corp.	be commission after	Japan 's number-one trading house	ORGANIZATION	LOCATION
+1.0	newspaper	publish	obituary of businessman	0	0
+1.0	Ando	host	conference	PERSON	0
+1.0	newspaper	publish obituary of businessman on saturday with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	japanese newspaper	publish obituary with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	newspaper	publish lengthy obituary of businessman with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	Momofuku Ando	found in	aftermath of World War II	0	MISC
+1.0	chairman	have	post	O	O
+1.0	vacuum	pack	instant noodle to astronaut Soichi Noguchi	0	PERSON
+1.0	Momofuku Ando	be	see	PERSON	0
+1.0	Japan	after	number-one general trading house	LOCATION	0
+1.0	Ando	retire from	chairman 's post	PERSON	0
+1.0	Nissin	establish	Nissin Foods Inc.	ORGANIZATION	ORGANIZATION
+1.0	Nissin Food Products Co	supply in	2005	ORGANIZATION	DATE
+1.0	he company	use	advertisement	0	0
+1.0	businessman	have	obituaries	O	O
+1.0	Japan	bid	farewell	LOCATION	0
+1.0	Momofuku Ando	build into	multi-billion dollar empire	0	0
+1.0	japanese newspaper	publish	obituary	0	0
+1.0	noodle	be in	waterproof styrofoam container	0	0
+1.0	Mitsubishi Corp.	be commission after	Japan 's number-one general trading house	ORGANIZATION	LOCATION
+1.0	Nissin	establish	its US subsidiary	ORGANIZATION	LOCATION
+1.0	Year	have	speech	O	DATE
+1.0	japanese newspaper	publish	lengthy obituary	0	0
+1.0	world	of	food culture	0	0
+1.0	Taipei	have	cities	O	LOCATION
+1.0	newspaper	publish obituary with	Asahi Shimbun	0	ORGANIZATION
+1.0	lunch	be with	executive	0	0
+1.0	newspaper	publish obituary of businessman with	Asahi Shimbun	0	ORGANIZATION
+1.0	Mitsubishi Corp.	be	after Japan 's number-one trading house commission in 1959	ORGANIZATION	DATE
+1.0	Nissin	have	sales	O	ORGANIZATION
+1.0	Ando	open museum in	Osaka in 1999	PERSON	DATE
+1.0	chairman 's post	be in	2005	0	DATE
+1.0	he	make	year 's speech	0	DATE
+1.0	Nissin Food Products Co	have	precursor	O	ORGANIZATION
+1.0	he company	also use	advertisement film	0	0
+1.0	Momofuku Ando	bear under	Japanese occupation	PERSON	MISC
+1.0	instant noodle	be in	Osaka	0	LOCATION
+1.0	newspaper	publish	lengthy obituary of businessman on Saturday	0	DATE
+1.0	Ando	open	museum of instant Ramen	PERSON	0
+1.0	he company	also use	advertisement film in space	0	0
+1.0	Japan	bid farewell to	Momofuku Ando aged	LOCATION	PERSON
+1.0	Ando	host conference in	2008	PERSON	DATE
+1.0	newspaper	publish lengthy obituary with	Asahi Shimbun	0	ORGANIZATION
+1.0	Ritsumeikan University	be in	Kyoto	ORGANIZATION	LOCATION
+1.0	Ando	retire	serve in honorary role	PERSON	0
+1.0	Momofuku Ando	found in	aftermath	0	0
+1.0	Ando	say in	he biography	PERSON	0
+1.0	japanese newspaper	publish lengthy obituary with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	new chapter	be in	history of world 's food culture	0	0
+1.0	japanese newspaper	publish	obituary of businessman	0	0
+1.0	Momofuku Ando	initially own clothing company in	city of Taipei	PERSON	LOCATION
+1.0	Osaka	be in	1999	LOCATION	DATE
+1.0	Ando	tell	reporter	PERSON	0
+1.0	Momofuku Ando	be	student	0	0
+1.0	japanese newspaper	publish obituary of businessman on saturday with	Asahi Shimbun	0	ORGANIZATION
+1.0	credit union	have	director	O	O
+1.0	Chicken Ramen	have	Sales	ORGANIZATION	ORGANIZATION
+1.0	Japan	be on	Saturday	LOCATION	DATE
+1.0	Japan	bid farewell to	Momofuku Ando know aged	LOCATION	PERSON
+1.0	he	have	lunch	0	0
+1.0	its	subsidiary	USA -rrb- Inc.	0	LOCATION
+1.0	noodles	have	slab	O	O
+1.0	Nissin	launch	Cup Noodle	ORGANIZATION	MISC
+1.0	Ando	host conference on	instant noodle in Osaka	PERSON	LOCATION
+1.0	heart failure	have	died	O	O
+1.0	japanese newspaper	publish obituary of businessman on saturday with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	world	have	food culture	O	O
+1.0	he business venture	be in	trouble	0	0
+1.0	Momofuku Ando	be student at	Ritsumeikan University	0	ORGANIZATION
+1.0	he	make	new year 's speech	0	DATE
+1.0	Mitsubishi Corp.	be	after Japan 's general trading house commission in 1959	ORGANIZATION	DATE
+1.0	Japan	bid farewell to	Momofuku Ando know	LOCATION	PERSON
+1.0	newspaper	publish lengthy obituary of businessman on saturday with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	newspaper	publish	obituary	0	0
+1.0	chairman	from	post in 2005	0	DATE
+1.0	Momofuku Ando	bear in	Taiwan	PERSON	LOCATION
+1.0	japanese newspaper	publish lengthy obituary of businessman on saturday with	Asahi Shimbun	0	ORGANIZATION
+1.0	food culture	have	history	O	O
+0.6053639497982628	advertisement	film in	space	0	0
+1.0	Momofuku Ando	found	precursor	PERSON	0
+1.0	he company	use	advertisement film in space	0	0
+1.0	World War II	have	aftermath	O	MISC
+1.0	newspaper	publish	obituary of businessman on Saturday	0	DATE
+1.0	Momofuku Ando	be	last see	PERSON	0
+1.0	vacuum	pack noodle aboard	US space shuttle Discovery	0	LOCATION
+1.0	vacuum	pack	instant noodle	0	0
+1.0	Ando	host conference on	instant noodle	PERSON	0
+1.0	japanese newspaper	publish lengthy obituary of businessman with	Asahi Shimbun	0	ORGANIZATION
+1.0	Nissin	at	head office	ORGANIZATION	0
+1.0	Ando	host conference on	noodle in Osaka	PERSON	LOCATION
+1.0	japanese newspaper	publish	obituary of businessman on Saturday	0	DATE
+1.0	Momofuku Ando	found in	1948	0	DATE
+1.0	Ando	retire	serve in role	PERSON	0
+1.0	Momofuku Ando	put chicken ramen on	market	PERSON	0
+1.0	Mitsubishi Corp.	be commission after	Japan 's general trading house	ORGANIZATION	LOCATION
+1.0	Momofuku Ando	initially own	clothing company	PERSON	0
+1.0	Ando	retire	serve in role as founder-chairman	PERSON	0
+1.0	Momofuku Ando	have	biography	O	O
+1.0	newspaper	publish lengthy obituary with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	Mitsubishi Corp.	be commission after	Japan 's trading house	ORGANIZATION	LOCATION
+1.0	Nissin	launch cup noodle in	year	ORGANIZATION	DATE
+1.0	Mitsubishi Corp.	be commission	help	ORGANIZATION	0
+1.0	new year 's	have	speech	DATE	0
+1.0	japanese newspaper	publish lengthy obituary with	Asahi Shimbun	0	ORGANIZATION
+1.0	Momofuku Ando	build into	dollar empire	0	0
+1.0	newspaper	publish	lengthy obituary	0	0
+1.0	first instant noodle product	be in	1958	ORDINAL	DATE
+1.0	Osaka	have	cities	O	LOCATION
+1.0	Japan	bid farewell to	Momofuku Ando know aged 96	LOCATION	NUMBER
+1.0	japanese newspaper	publish obituary with	Asahi Shimbun	0	ORGANIZATION
+1.0	Soichi Noguchi	be to	japanese	PERSON	0
+1.0	Momofuku Ando	initially own clothing company in	city	PERSON	0
+1.0	Ando	retire from	chairman 's post in 2005	PERSON	DATE
+1.0	Momofuku Ando	own	clothing company	PERSON	0
+1.0	Nissin	have	head office	O	ORGANIZATION
+1.0	noodles	have	inventor	O	O
+1.0	newspaper	publish obituary of businessman with	influential Asahi Shimbun	0	ORGANIZATION
+1.0	newspaper	publish	lengthy obituary of businessman	0	0
+1.0	its	have	US subsidiary	O	O
+1.0	he company	use	advertisement film	0	0
+1.0	he	have	lunch with executive	0	0

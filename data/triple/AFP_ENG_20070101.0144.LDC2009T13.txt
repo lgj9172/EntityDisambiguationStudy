@@ -1,0 +1,34 @@
+1.0	reading	be	0.1 degree Celsius higher	0	MISC
+1.0	record 's day	be smash in	capital on Sunday	DATE	DATE
+1.0	Prague thermometer	register	12.5 degree	TIME	NUMBER
+1.0	86-year-old record 's day	be smash in	capital	DATE	0
+1.0	local record 's day	be smash in	czech capital on Sunday	DATE	DATE
+1.0	reading	be	0.1 degree Celsius higher than previous record date from 1921	0	MISC
+1.0	54 fahrenheit	around degree be	Celsius	NUMBER	MISC
+1.0	86-year-old record 's day	be smash in	czech capital on Sunday	DATE	DATE
+1.0	reading	be	0.1 degree Celsius higher than record date from 1921	0	MISC
+1.0	record 's day	be smash in	czech capital	DATE	0
+1.0	86-year-old record 's day	be	smash	DATE	0
+1.0	record 's day	be	smash	DATE	0
+1.0	reading	be	0.1 degree Celsius	0	MISC
+1.0	86-year-old local record 's day	be smash in	capital on Sunday	DATE	DATE
+1.0	Prague thermometer	register	12.5 degree around 54 fahrenheit	TIME	NUMBER
+1.0	86-year-old record 's day	be smash in	czech capital	DATE	0
+1.0	reading	be	0.1 degree Celsius higher than previous record	0	MISC
+1.0	Prague thermometer	register	Celsius	TIME	MISC
+1.0	local record 's day	be	smash	DATE	0
+1.0	86-year-old local record 's day	be	smash	DATE	0
+1.0	local record 's day	be smash in	czech capital	DATE	0
+1.0	86-year-old local record 's day	be smash in	capital	DATE	0
+1.0	86-year-old local record 's day	be smash in	czech capital on Sunday	DATE	DATE
+1.0	record 's day	be smash in	capital	DATE	0
+1.0	reading	be	0.1 degree Celsius higher than record date	0	MISC
+1.0	86-year-old local record	have	new year 's day	DURATION	DATE
+1.0	local record 's day	be smash in	capital	DATE	0
+1.0	record 's day	be smash in	czech capital on Sunday	DATE	DATE
+1.0	local record 's day	be smash in	capital on Sunday	DATE	DATE
+1.0	reading	be	0.1 degree Celsius higher than record	0	MISC
+1.0	reading	be	0.1 degree Celsius higher than previous record date	0	MISC
+1.0	record	have	day	DATE	O
+1.0	86-year-old record 's day	be smash in	capital on Sunday	DATE	DATE
+1.0	86-year-old local record 's day	be smash in	czech capital	DATE	0

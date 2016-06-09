@@ -1,0 +1,97 @@
+1.0	reading	be	expect	0	0
+1.0	US economy	have	services sector	O	O
+1.0	reading	be slightly stronger expect despite	slowdown	0	0
+1.0	market	be also wait for	lead	0	0
+1.0	the US economy 's services sector	have	index	O	O
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	yen	garner support from	Japan 's top	0	LOCATION
+1.0	Japan governor Toshihiko Fukui	have	Bank	ORGANIZATION	PERSON
+1.0	market	be wait for	fresh lead	0	0
+1.0	reading	be	stronger than expect	0	0
+1.0	nonfarm US	moderate to	100,000 position	LOCATION	NUMBER
+1.0	Supply Management	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	Toshihiko Fukui	be governor of	Bank of Japan	PERSON	ORGANIZATION
+1.0	reading	be slightly stronger expect despite	slowdown in activity	0	0
+1.0	yen	garner support from	report in Yomiuri Shimbun	0	ORGANIZATION
+1.0	euro	soften well above	158 level	0	NUMBER
+1.0	nonfarm US	moderate to	100,000 position in December	LOCATION	NUMBER
+1.0	dollar	drop at_time	Thursday	0	DATE
+1.0	Toshihiko Fukui	be of	Bank of Japan	PERSON	ORGANIZATION
+1.0	118.62 yen	be in	Tokyo morning trade	MONEY	TIME
+1.0	dollar	on	recent rise against yen	0	0
+1.0	reading	be expect despite	slowdown	0	0
+1.0	euro	soften above	158 level	0	NUMBER
+1.0	100,000 new position	be in	the December	NUMBER	DATE
+1.0	central bank	raise	its interest rate	0	0
+1.0	profit-taking	be in	US unit	ORGANIZATION	LOCATION
+1.0	dollar	drop in	New York	0	LOCATION
+1.0	attention	be focus on	December payroll figure in	0	DATE
+1.0	the central bank	have	interest rate	O	O
+1.0	attention	be now focus on	December	0	DATE
+1.0	dollar	have rise	overnight	0	TIME
+1.0	report	top 's	Japan	0	LOCATION
+1.0	Japan governor Toshihiko Fukui	raise rate at	point	0	0
+1.0	reading	be slightly expect despite	slowdown	0	0
+1.0	dollar	drop to	118.62 yen in Tokyo morning trade	0	TIME
+1.0	attention	be focus on	December non-farm payroll figure in	0	DATE
+1.0	dollar	drop from	119.01	0	NUMBER
+1.0	nonfarm US	moderate in	November	LOCATION	DATE
+1.0	market	be also wait for	fresh lead	0	0
+1.0	Traders	have	positions	O	O
+1.0	reading	be	slightly expect	0	0
+1.0	euro	soften to	1.3078 dollar from 1.3082	0	NUMBER
+1.0	key December employment figure	be in	United States	DATE	LOCATION
+1.0	dollar	have rise	overnight against euro	0	TIME
+1.0	nonfarm US	moderate after	132,000	LOCATION	NUMBER
+1.0	attention	be	focus	0	0
+1.0	reading	be slightly expect despite	slowdown in activity	0	0
+1.0	Noriaki Ichikawa	be	Hachijuni Bank	PERSON	ORGANIZATION
+1.0	nonfarm US	moderate to	100,000 new position in December	LOCATION	NUMBER
+1.0	US	moderate to	100,000 position	LOCATION	NUMBER
+1.0	US	moderate after	132,000	LOCATION	NUMBER
+1.0	the Bank of Japan	have	January meeting	O	O
+1.0	activity	have	index	O	O
+1.0	US	moderate in	November	LOCATION	DATE
+1.0	US	moderate to	100,000 new position	LOCATION	NUMBER
+1.0	reading	be stronger expect despite	slowdown in activity	0	0
+1.0	reading	be stronger expect despite	slowdown	0	0
+1.0	trader	readjust	they position	0	0
+1.0	report	be in	Yomiuri Shimbun	0	ORGANIZATION
+1.0	Bank of Japan	be of	Toshihiko Fukui	ORGANIZATION	PERSON
+1.0	US economy	have	service sector	LOCATION	0
+1.0	rise	be in	japanese interest rate	0	0
+1.0	December employment figures	have	release	O	O
+1.0	dollar	have	rise	O	O
+1.0	attention	be focus on	December	0	DATE
+1.0	dollar	drop to	118.62 yen	0	MONEY
+1.0	bank	raise	its interest rate	0	0
+1.0	Ben Bernanke	be chairman of	Federal Reserve	PERSON	ORGANIZATION
+1.0	index	drop to	57	0	NUMBER
+1.0	euro	soften well to	1.3078 dollar from 1.3082	0	NUMBER
+1.0	December	be in	non-farm payroll figure	DATE	0
+1.0	dollar	drop at_time	late Thursday	0	DATE
+1.0	reading	be	slightly stronger than expect	0	0
+1.0	bank	raise	its benchmark interest rate	0	0
+1.0	attention	be now focus on	December non-farm payroll figure in	0	DATE
+1.0	Economic Association	have	meeting	O	ORGANIZATION
+1.0	nonfarm US	moderate to	100,000 new position	LOCATION	NUMBER
+1.0	US	moderate to	100,000 new position in December	LOCATION	NUMBER
+1.0	slowdown	be in	activity	0	0
+1.0	euro	soften well to	1.3078 dollar	0	MONEY
+1.0	Wednesday	have	record	O	DATE
+1.0	Ben Bernanke	be from	Federal Reserve	PERSON	ORGANIZATION
+1.0	Japan	have	top	LOCATION	0
+1.0	central bank	raise	its benchmark interest rate	0	0
+1.0	reading	be expect despite	slowdown in activity	0	0
+1.0	yen	garner	support	0	0
+1.0	attention	be	now focus	0	DATE
+1.0	euro	soften to	1.3078 dollar	0	MONEY
+1.0	market	be wait for	lead	0	0
+1.0	Japan	have	top	O	LOCATION
+1.0	US	moderate to	100,000 position in December	LOCATION	NUMBER
+1.0	Japan governor Toshihiko Fukui	raise	rate	0	0
+1.0	yen-buying	be	temporary	0	0
+1.0	attention	be now focus on	December payroll figure in	0	DATE
+1.0	trader	simply readjust	they position	0	0
+1.0	Wednesday	below	record high	DATE	0
+1.0	yen	garner support from	report	0	0

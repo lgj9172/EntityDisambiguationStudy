@@ -1,0 +1,29 @@
+1.0	Ferrari	be in	1993	ORGANIZATION	DATE
+1.0	Italy	have	Dolomite mountains	LOCATION	LOCATION
+1.0	Stefano Domenicali	say at_time	Thursday	PERSON	DATE
+1.0	Domenicali	also tell	press conference	PERSON	0
+1.0	Italy	in	Dolomite mountain	LOCATION	LOCATION
+1.0	Domenicali	also tell press conference at	Madonna di Campiglio	PERSON	LOCATION
+1.0	Todt	have	extensive knowledge	PERSON	0
+1.0	Domenicali	also tell press conference in	Italy 's Dolomite mountain	PERSON	LOCATION
+1.0	he	give to	driver	0	0
+1.0	italian team	at	winter retreat	0	DATE
+1.0	their	have	Maranello headquarters	O	O
+0.8946058498753064	Ferrari	sport	director	PERSON	0
+1.0	Domenicali	tell press conference in	Italy 's Dolomite mountain	PERSON	LOCATION
+1.0	team	have	winter retreat	O	O
+1.0	he	eventually give to	driver	0	0
+1.0	his	have	knowledge	O	O
+1.0	Todt	have	knowledge	O	PERSON
+1.0	Domenicali	tell	press conference	PERSON	0
+1.0	Domenicali	tell press conference at	team 's winter retreat	PERSON	DATE
+1.0	their	have	car	O	O
+1.0	Domenicali	tell press conference in	northern Italy 's Dolomite mountain	PERSON	LOCATION
+1.0	constructors	have	championships	O	O
+1.0	we	can benefit from	from he knowledge	0	0
+1.0	we	can only benefit from	from he knowledge	0	0
+1.0	Domenicali	tell press conference at	italian team 's winter retreat	PERSON	DATE
+1.0	Domenicali	tell press conference at	Madonna di Campiglio	PERSON	LOCATION
+1.0	Domenicali	also tell press conference at	team 's winter retreat	PERSON	DATE
+1.0	Domenicali	also tell press conference in	northern Italy 's Dolomite mountain	PERSON	LOCATION
+1.0	Domenicali	also tell press conference at	italian team 's winter retreat	PERSON	DATE

@@ -1,0 +1,72 @@
+1.0	quantity	be probably result of	contact	0	0
+1.0	ultra-trace quantity	be probably result of	contact	0	0
+1.0	ultra-trace quantity	be most probably result of	contact	0	0
+0.7105154479952752	test	publish in	Royal Society of Chemistry 's journal	0	ORGANIZATION
+1.0	quantity	be	only probably result	0	0
+1.0	quantity	be	result	0	0
+1.0	kind	be in	Ireland	0	LOCATION
+1.0	Royal Society of Chemistry	's journal be	Analyst	ORGANIZATION	0
+1.0	trace	be	also detect	0	0
+1.0	quantity	only be most probably result of	contact	0	0
+1.0	ultra-trace quantity	be	only most probably result	0	0
+1.0	quantity	be	only most probably result	0	0
+1.0	notes	have	remainder	O	O
+1.0	quantity	only be result of	contact	0	0
+0.4898848695162416	research	work for	Sensor Research	0	ORGANIZATION
+1.0	note	be in	drug dealing	0	0
+1.0	notes	have	percent	PERCENT	O
+0.7105154479952752	test	publish in	Royal Society	0	ORGANIZATION
+1.0	ultra-trace quantity	be	most probably result	0	0
+1.0	quantity	be	most probably result	0	0
+1.0	note	be with	5 percent	0	PERCENT
+1.0	trace	be detect on	three of note	0	NUMBER
+1.0	kind	have	experiment	O	O
+1.0	Brett Paull	be at	National Centre for Sensor Research	PERSON	ORGANIZATION
+1.0	note	have	use	O	O
+1.0	currency	have	drug contamination	O	O
+1.0	cocaine	have	levels	O	O
+1.0	quantity	only be probably result of	contact	0	0
+1.0	ultra-trace quantity	only be most probably result of	contact	0	0
+1.0	substances	have	presence	O	O
+1.0	contact	have	result	O	O
+1.0	cocaine	have	traces	O	O
+1.0	ultra-trace quantity	be	only result	0	0
+1.0	quantity	be	only result	0	0
+1.0	highest amount	be	find	0	0
+1.0	Professor Brett Paull	have	supervision	O	PERSON
+1.0	dollar notes	have	percent	PERCENT	O
+1.0	cocaine	have	quantities	O	O
+1.0	quantity	be most probably result of	contact	0	0
+0.4898848695162416	research	work under	supervision Professor Brett Paull	0	PERSON
+1.0	notes	have	sample	O	O
+1.0	trace	be also detect on	three note	0	NUMBER
+1.0	Chemistry	have	journal	O	ORGANIZATION
+1.0	amount	be	find	0	0
+1.0	degree	have	indication	O	O
+1.0	drug contamination	have	study	O	O
+1.0	journal	have	Royal Society	ORGANIZATION	O
+0.4898848695162416	research	work under	supervision	0	0
+1.0	trace	be	detect	0	0
+1.0	quantity	be	probably result	0	0
+1.0	DCU	at	National Centre for Sensor Research	ORGANIZATION	ORGANIZATION
+1.0	ultra-trace quantity	only be probably result of	contact	0	0
+1.0	banknotes	have	one	NUMBER	O
+1.0	ultra-trace quantity	be	result	0	0
+1.0	quantity	be result of	contact	0	0
+1.0	Researchers	voice	suprise	0	0
+1.0	cocaine residues	have	amounts	O	O
+1.0	Royal Society of Chemistry	of	journal	ORGANIZATION	0
+1.0	ultra-trace quantity	be result of	contact	0	0
+1.0	notes	have	three	NUMBER	O
+1.0	euro	have	cotton structure	O	O
+1.0	Dublin City University	say on	Thursday	ORGANIZATION	DATE
+1.0	ultra-trace quantity	be	only probably result	0	0
+1.0	trace	be detect on	three note	0	NUMBER
+0.4898848695162416	research	work under	supervision Professor Brett Paull DCU National Centre	0	ORGANIZATION
+1.0	cocaine	have	trace quantities	O	O
+1.0	heroin	have	Traces	O	O
+1.0	ultra-trace quantity	only be result of	contact	0	0
+1.0	ultra-trace quantity	be	probably result	0	0
+1.0	dollar bills	have	thirds	O	O
+1.0	DCU	have	National Centre	ORGANIZATION	ORGANIZATION
+1.0	trace	be also detect on	three of note	0	NUMBER

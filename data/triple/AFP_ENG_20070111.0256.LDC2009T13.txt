@@ -1,0 +1,9 @@
+1.0	US troops	arrest	five employee	LOCATION	NUMBER
+1.0	Iran	have	consulate	O	LOCATION
+1.0	US troops	raid	Iran 's consulate	LOCATION	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	she	say on	Fox News television	0	ORGANIZATION
+1.0	State Condoleezza Rice	speak	hour	PERSON	0
+1.0	Arbil	have	city	O	LOCATION
+1.0	Iran	have	consulate	LOCATION	0

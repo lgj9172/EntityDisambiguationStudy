@@ -1,0 +1,15 @@
+1.0	US dollar	be	change	LOCATION	0
+1.0	euro	be in	thin Tuesday morning trade	0	TIME
+1.0	euro	be at	1.3208 dollar	0	MONEY
+1.0	US dollar	be	little change	LOCATION	0
+1.0	dealer	say follow	New Year holiday	0	DATE
+1.0	US Federal Reserve	have	policy meeting	O	ORGANIZATION
+1.0	euro	be at	1.3208 dollar up	0	MONEY
+1.0	president Gerald Ford	have	passing	O	PERSON
+1.0	US dollar	be change against	yen	LOCATION	0
+1.0	New York	be on	Friday	LOCATION	DATE
+1.0	policy meeting	have	minutes	DURATION	O
+1.0	US dollar	be little change against	yen	LOCATION	0
+1.0	late trade	be in	New York	0	LOCATION
+1.0	euro	be at	1.3208 dollar up from 1.3196 in New York	0	MONEY
+1.0	US Federal Reserve	of	policy meeting on December 12	ORGANIZATION	DATE

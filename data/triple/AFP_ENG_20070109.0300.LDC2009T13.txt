@@ -1,0 +1,30 @@
+1.0	time	have	waste	O	O
+1.0	PSV Eindhoven	announce plan at_time	Monday	ORGANIZATION	DATE
+1.0	Sun	train with	psv year	PERSON	DATE
+1.0	psv	be in	November last year	0	DATE
+1.0	Sun 24	train with	psv in November year	PERSON	DATE
+1.0	Sun	train with	he brother Sun Ji	PERSON	PERSON
+1.0	Sun 24	train with	psv in November	PERSON	DATE
+1.0	Sun	train with	psv in November last year	PERSON	DATE
+1.0	Sun 24	train with	psv in November last year	PERSON	DATE
+1.0	Sun	train with	psv in November year	PERSON	DATE
+1.0	his twin brother Sun Ji	have	brother Sun Ji	PERSON	O
+1.0	Sun 24	train with	he twin brother Sun Ji	PERSON	PERSON
+1.0	Sun	be	24	PERSON	NUMBER
+1.0	the player	offer	deal	0	0
+1.0	Sun 24	train with	he brother Sun Ji	PERSON	PERSON
+1.0	Sun 24	train with	psv year	PERSON	DATE
+1.0	psv	be  at_time	November last year	0	DATE
+1.0	Sun	train with	psv last year	PERSON	DATE
+1.0	state press	report at_time	Wednesday	0	DATE
+1.0	loan	be with	option for longer contract	MONEY	MONEY
+1.0	Sun 24	train with	psv last year	PERSON	DATE
+1.0	his twin brother Sun Ji	have	players	O	O
+1.0	PSV Eindhoven	announce	plan	ORGANIZATION	MONEY
+1.0	Sun 24	train with	psv	PERSON	0
+1.0	Sun	train with	he twin brother Sun Ji	PERSON	PERSON
+1.0	Sun Xiang	be	chinese	PERSON	0
+1.0	the player	offer	longer-term deal	0	DURATION
+1.0	Sun	train with	psv in November	PERSON	DATE
+1.0	club	have	manager	O	O
+1.0	Sun	train with	psv	PERSON	0

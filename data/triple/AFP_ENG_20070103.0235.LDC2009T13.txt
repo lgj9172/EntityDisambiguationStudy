@@ -1,0 +1,67 @@
+1.0	aides	have	one	NUMBER	O
+1.0	they	be convict along for	massacre of 148 Shiites in 1980 in revenge for attempt on then-president 's life	DATE	MISC
+1.0	they	be convict along for	massacre	DATE	0
+1.0	they	be convict for	massacre of 148 Shiites in 1980 in revenge for failed attempt	DATE	MISC
+1.0	they	be convict along for	massacre of 148 Shiites in 1980 in revenge for attempt	DATE	MISC
+1.0	Barzan Ibrahim al-Tikriti	be hang along with	Saddam Hussein who are to be hanged for crimes against humanity	PERSON	PERSON
+1.0	Saddam Hussein	have	aides	O	PERSON
+1.0	Saddam	have	half-brother	O	PERSON
+1.0	The court that ordered the hanging	have	judgment	O	O
+1.0	Shiites	have	massacre	O	MISC
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980 in revenge for failed attempt on then-president 's life	DATE	MISC
+1.0	they	be convict for	massacre	DATE	0
+1.0	they	be convict for	massacre of 148 Shiites in 1980 in revenge for failed attempt on then-president 's life	DATE	MISC
+1.0	Barzan Ibrahim al-Tikriti	be	hang	PERSON	0
+1.0	intelligence	have	head	O	O
+1.0	they	be	convict	DATE	0
+1.0	they	be convict along for	massacre of 148 Shiites in 1980	DATE	MISC
+1.0	they	be convict along for	massacre of 148 Shiites in 1980 in revenge	DATE	MISC
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites	DATE	MISC
+1.0	Amal Ibrahim , sister of Barzan Ibrahim al-Tikriti , who was head of intelligence under the former Iraqi dictator	tell	AFP	0	ORGANIZATION
+1.0	they	be convict for	massacre of 148 Shiites in 1980 in revenge for attempt	DATE	MISC
+1.0	Amal Ibrahim	sister of	Barzan Ibrahim al-Tikriti	PERSON	PERSON
+1.0	Barzan and Bandar	have	execution	O	O
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980 in revenge	DATE	MISC
+1.0	they	be convict for	massacre of 148 Shiites	DATE	MISC
+1.0	Barzan Ibrahim al-Tikriti	be	have hang with Saddam	PERSON	PERSON
+1.0	Barzan Ibrahim al-Tikriti	be	have hang	PERSON	0
+1.0	Saddam Hussein who are to be hanged for crimes against humanity	be hang on	Saturday	PERSON	DATE
+1.0	Barzan Ibrahim al-Tikriti	be	Bandar	PERSON	PERSON
+1.0	courts	have	chief judge	O	O
+1.0	Awad Ahmed al-Bandar	judge of	revolutionary court	PERSON	0
+1.0	they	be	convict along	DATE	0
+1.0	sister	issue	plea	0	0
+1.0	the 1980	be in	revenge for failed attempt on then-president 's life	DATE	DATE
+1.0	Barzan Ibrahim al-Tikriti	have	sister	O	PERSON
+1.0	one	have	sister	O	NUMBER
+1.0	state	have	chiefs	O	O
+1.0	Barzan Ibrahim al-Tikriti	be	hang along	PERSON	0
+1.0	they	be	convict along with Saddam	DATE	PERSON
+1.0	Barzan Ibrahim al-Tikriti	hang	Bandar	PERSON	PERSON
+1.0	they	be convict along for	massacre of 148 Shiites in 1980 in revenge for failed attempt on then-president 's life	DATE	MISC
+1.0	Barzan Ibrahim al-Tikriti	be	have hang along	PERSON	0
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980 in revenge for attempt on then-president 's life	DATE	MISC
+1.0	they execution	be	later postpone	0	0
+1.0	then-president	on	life	DATE	0
+1.0	sister	issue plea at_time	Wednesday	0	DATE
+1.0	they execution	be	postpone	0	0
+1.0	Shiites	be in	the 1980	MISC	DATE
+1.0	they	be	convict along with Saddam for massacre	DATE	PERSON
+1.0	they	be convict for	massacre of 148 Shiites in 1980 in revenge	DATE	MISC
+1.0	they	be convict along for	massacre of 148 Shiites in 1980 in revenge for failed attempt	DATE	MISC
+1.0	then-president	have	life	O	O
+1.0	Saddam Hussein who are to be hanged for crimes against humanity	be	hang	PERSON	0
+1.0	they	be convict along for	massacre of 148 Shiites	DATE	MISC
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980 in revenge for failed attempt	DATE	MISC
+1.0	AFP	be in	Tripoli	ORGANIZATION	LOCATION
+1.0	Saddam Hussein who are to be hanged for crimes against humanity	have	life	O	O
+1.0	Amal Ibrahim , sister of Barzan Ibrahim al-Tikriti , who was head of intelligence under the former Iraqi dictator	tell	AFP in Tripoli	0	ORGANIZATION
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980 in revenge for attempt	DATE	MISC
+1.0	Barzan Ibrahim al-Tikriti	hang along	Bandar	PERSON	PERSON
+1.0	Barzan Ibrahim al-Tikriti	be hang with	Saddam Hussein who are to be hanged for crimes against humanity	PERSON	PERSON
+1.0	they	be convict for	massacre of 148 Shiites in 1980	DATE	MISC
+1.0	Saddam	have	half-brother	PERSON	0
+1.0	they	be convict for	massacre of 148 Shiites in 1980 in revenge for attempt on then-president 's life	DATE	MISC
+1.0	sister	issue plea for	he life	0	0
+1.0	Barzan Ibrahim al-Tikriti	be	have hang along with Saddam	PERSON	PERSON
+1.0	they	be	convict along with Saddam for massacre of 148 Shiites in 1980	DATE	MISC

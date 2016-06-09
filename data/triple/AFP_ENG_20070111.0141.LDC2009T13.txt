@@ -1,0 +1,63 @@
+1.0	bloc	have	summit	O	O
+1.0	ASEAN	have	members	O	O
+1.0	non	have	policy	O	O
+1.0	Singapore Deputy Prime Minister S. Jayakumar	say at_time	weekend	PERSON	DATE
+1.0	former president Fidel Ramos	say at_time	month	PERSON	DATE
+1.0	charter	aim	change	0	0
+1.0	it	refer to	one Union '	0	ORGANIZATION
+1.0	S. Jayakumar	be	Singapore	PERSON	LOCATION
+1.0	S. Jayakumar	be deputy prime minister of	Singapore	PERSON	LOCATION
+1.0	same	have	more	O	O
+1.0	summit	have	highlight	O	O
+1.0	presentation	will	will highlight of bloc 's summit	0	0
+1.0	nothing	get formally approve by	group	0	0
+1.0	charter	earlier would get	nation	0	0
+1.0	it	will form	basis	0	0
+1.0	organisations	have	one	NUMBER	O
+1.0	way	impose	sanction	0	0
+1.0	word union	cause	few problem	0	0
+1.0	Southeast Asian Nation	have	Association	ORGANIZATION	ORGANIZATION
+1.0	Union	have	One	NUMBER	O
+1.0	Association	operate by	tradition	ORGANIZATION	0
+1.0	presentation	will	will highlight of 10-nation bloc 's summit in Philippines	0	LOCATION
+1.0	country	have	representative	O	O
+1.0	Association	operate on	consensus	ORGANIZATION	0
+1.0	ASEAN leader	will sign at	weekend	ORGANIZATION	DATE
+1.0	10-nation bloc	of	summit in Philippines	0	LOCATION
+1.0	presentation	will	will highlight	0	0
+1.0	Association	operate on	consensus of its member nation	ORGANIZATION	ORGANIZATION
+1.0	ASEAN member ' traditional non-intervention	be in	other 's affair	ORGANIZATION	0
+1.0	word union	also cause problem in	draft blueprint	0	0
+0.26940217424488	The presentation of the charter plans	be	talk	0	0
+1.0	mini-constitution	have	basis	O	O
+1.0	word union	cause	problem	0	0
+1.0	presentation	will	will highlight of 10-nation bloc 's summit	0	0
+1.0	nothing	get	approve	0	0
+1.0	Singapore Deputy Prime Minister S. Jayakumar	say at_time	last weekend	PERSON	DATE
+1.0	the Association of Southeast Asian Nation -LRB- ASEAN -RRB-	have	member nations	O	O
+1.0	time	have	period	O	O
+1.0	charter	would get	nation	0	0
+0.6953810580724407	diplomat	work on	framework agreement	0	0
+1.0	10-nation bloc 's summit	be in	Philippines	0	LOCATION
+1.0	word union	also cause	problem	0	0
+1.0	nothing	get approve by	group	0	0
+1.0	member nations	have	consensus	O	O
+1.0	country	have	representative on high-level panel	0	0
+1.0	former president Fidel Ramos	say at_time	last month	PERSON	DATE
+1.0	other	in	affair	0	0
+1.0	other	have	affairs	O	O
+1.0	Fidel Ramos	representative 's	country	PERSON	0
+1.0	former philippine president Fidel Ramos	say at_time	month	PERSON	DATE
+1.0	Fidel Ramos	representative on	high-level panel	PERSON	0
+1.0	Fidel Ramos	be	philippine	PERSON	0
+1.0	european union-style legal entity	be with	binding rule on its member	0	0
+1.0	ASEAN members	have	non-intervention	O	O
+1.0	member states	have	all	O	O
+1.0	word union	cause problem in	draft blueprint	0	0
+1.0	former philippine president Fidel Ramos	say at_time	last month	PERSON	DATE
+1.0	presentation	will	will highlight of bloc 's summit in Philippines	0	LOCATION
+1.0	nothing	get	formally approve	0	0
+1.0	clear way	impose	sanction	0	0
+1.0	word union	also cause	few problem	0	0
+1.0	charter plans	have	presentation	O	O
+1.0	its	have	member states	O	O

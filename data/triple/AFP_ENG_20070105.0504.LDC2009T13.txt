@@ -1,0 +1,45 @@
+1.0	fan	be with	display of powerful hit	0	0
+1.0	long-hitting Holmes	rebound from	bogey	PERSON	0
+1.0	Holmes	rebound at	first hole	PERSON	ORDINAL
+1.0	Holmes	rebound at	hole	PERSON	0
+1.0	long-hitting Holmes	rebound at	first hole	PERSON	ORDINAL
+1.0	yards	have	average	O	O
+1.0	Fiji	have	Vijay Singh	LOCATION	PERSON
+1.0	The long-hitting Holmes	play at_time	Friday	PERSON	DATE
+1.0	Holmes	rebound from	bogey	PERSON	0
+1.0	Holmes	have	total	PERSON	0
+1.0	weather	mitigate	effect	0	0
+1.0	The long-hitting Holmes	play alone at_time	Friday	PERSON	DATE
+1.0	contention	be in	US PGA Tour season-opening Mercedes-Benz Championship	0	MISC
+1.0	Will MacKenzie	be	American	PERSON	MISC
+1.0	Fiji	have	Vijay Singh	PERSON	LOCATION
+1.0	long-hitting Holmes	have	halfway total of five-under 141	PERSON	NUMBER
+1.0	weather	soften	course	0	0
+1.0	wind	have	effect	O	O
+1.0	Arron Oberholser	withdraw with	back	PERSON	0
+1.0	Holmes	have	halfway total of five-under 141	PERSON	NUMBER
+1.0	long-hitting Holmes	rebound at	hole	PERSON	0
+1.0	wet weather	soften	course	0	0
+1.0	year	rank in	distance	DATE	0
+1.0	year	rank with	average	DATE	0
+1.0	year	rank in	drive distance	DATE	0
+1.0	wet weather	mitigate	effect	0	0
+1.0	powerful	have	display	O	O
+1.0	The long-hitting Holmes	surge into	contention in US PGA Tour season-opening Mercedes-Benz Championship	PERSON	MISC
+1.0	long-hitting Holmes	have	halfway total	PERSON	0
+1.0	Holmes	have	halfway total	PERSON	0
+1.0	Holmes	have	total of five-under 141	PERSON	NUMBER
+1.0	Fiji 's Vijay Singh	be	American Will MacKenzie	PERSON	PERSON
+1.0	long-hitting Holmes	have	total of five-under 141	PERSON	NUMBER
+1.0	The long-hitting Holmes	surge into	contention	PERSON	0
+1.0	long-hitting Holmes	have	total	PERSON	0
+1.0	year	rank in	drive distance on US Tour	DATE	LOCATION
+1.0	wet weather	mitigate	effect of wind	0	0
+1.0	141	have	total	O	NUMBER
+1.0	year	rank	second	DATE	ORDINAL
+1.0	Fiji 's Vijay Singh	be both	American Will MacKenzie	PERSON	PERSON
+1.0	The long-hitting Holmes	surge into	contention in US PGA Tour Mercedes-Benz Championship	PERSON	MISC
+1.0	weather	mitigate	effect of wind	0	0
+1.0	year	rank with	average of 319 yard	DATE	NUMBER
+1.0	year	rank in	distance on US Tour	DATE	LOCATION
+1.0	Arron Oberholser	withdraw with	sore back	PERSON	0

@@ -1,0 +1,56 @@
+1.0	both	be on	US government 's list of terrorist organisation	0	LOCATION
+1.0	leader	be	head to resort isle of Cebu for annual ASEAN	0	ORGANIZATION
+1.0	terror group	stage attack in	other part	0	0
+1.0	Senior Superintendent Peraco Macacua	tell	local radio	PERSON	0
+1.0	Cebu	have	resort isle	O	LOCATION
+1.0	Senior Superintendent Peraco Macacua	tell	radio	PERSON	0
+1.0	Cotabato	be one	site hit	LOCATION	0
+1.0	leader	be	head to resort isle of Cebu for ASEAN	0	ORGANIZATION
+1.0	leader	be head for	ASEAN	0	ORGANIZATION
+1.0	country	have	parts	O	O
+1.0	US government	on	list of foreign terrorist organisation	LOCATION	0
+1.0	ASEAN	be for	annual	ORGANIZATION	SET
+1.0	both	be on	US government 's list of foreign terrorist organisation	0	LOCATION
+1.0	Jolo	have	island	O	LOCATION
+1.0	terror group	stage attack in	other part of country	0	0
+1.0	sites	have	one	NUMBER	O
+1.0	philippine police	say at_time	Thursday	0	DATE
+1.0	leader	be	head to philippine resort isle for ASEAN	0	ORGANIZATION
+1.0	leader	be	head to resort isle for ASEAN	0	ORGANIZATION
+1.0	leader	be	head to philippine resort isle of Cebu for ASEAN	0	ORGANIZATION
+1.0	leader	be head to	philippine resort isle	0	0
+1.0	Cotabato	be one	site	LOCATION	0
+1.0	leader	be	head to resort isle for annual ASEAN	0	ORGANIZATION
+1.0	US government	have	list	O	O
+1.0	leader	be head to	resort isle	0	0
+1.0	Foreign	gather	economic minister	0	0
+1.0	intelligence report	point to	attack	0	0
+1.0	terror group	stage	attack	0	0
+1.0	leader	be	head	0	0
+1.0	Mindanao	from kilometre be	mile	LOCATION	0
+1.0	Cotabato city	have	Senior Superintendent Peraco Macacua	PERSON	LOCATION
+1.0	leader	be head to	philippine resort isle of Cebu	0	LOCATION
+1.0	intelligence report	point to	impend attack	0	0
+1.0	Cotabato	be one of	site	LOCATION	0
+1.0	Mindanao	have	island	O	LOCATION
+1.0	leader	be	head to philippine resort isle of Cebu for annual ASEAN	0	ORGANIZATION
+1.0	terror group	stage attack in	part	0	0
+1.0	leader	be head for	annual ASEAN	0	ORGANIZATION
+1.0	Foreign	gather	minister	0	0
+1.0	Kidapawan police chief Inspector Leo Ajero	have	jurisdiction	O	O
+1.0	both	be on	US government 's list	0	LOCATION
+1.0	Foreign	already gather	economic minister	0	0
+1.0	improvise bomb	be in	he jurisdiction	0	0
+1.0	terror group	stage attack in	part of country	0	0
+1.0	Cotabato	be one of	site hit	LOCATION	0
+1.0	Peraco Macacua	be of	Cotabato city	PERSON	LOCATION
+1.0	kilometres	have	hundreds	O	O
+1.0	leader	be	head to philippine resort isle for annual ASEAN	0	ORGANIZATION
+1.0	Foreign	already gather	minister	0	0
+0.7737426397578471	police	treat	the improvised bomb in his jurisdiction	0	0
+1.0	intelligence report	say	police	0	0
+1.0	leader	be head to	resort isle of Cebu	0	LOCATION
+1.0	both	be on	US government 's list of foreign organisation	0	LOCATION
+1.0	organisations	have	list	O	O
+1.0	both	be on	US government 's list of organisation	0	LOCATION
+1.0	police	say at_time	Thursday	0	DATE

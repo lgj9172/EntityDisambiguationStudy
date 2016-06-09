@@ -1,0 +1,62 @@
+1.0	Albert Frere 's hold company	decline	comment	PERSON	0
+1.0	biggest single investor	be in	Suez	0	ORGANIZATION
+1.0	Suez	have	energy assets	O	ORGANIZATION
+1.0	Suez	plan	merge with Gaz de France	ORGANIZATION	LOCATION
+1.0	Suez	plan	merge under deal	ORGANIZATION	LOCATION
+1.0	Suez	merge under	government-backed deal	ORGANIZATION	LOCATION
+1.0	Suez	be for	french	ORGANIZATION	0
+1.0	billionaire Francois Pinault	mull	bid	PERSON	0
+1.0	Suez	plan	merge with Gaz de France under controversial deal	ORGANIZATION	LOCATION
+1.0	Suez	plan	merge under controversial deal	ORGANIZATION	LOCATION
+1.0	Albert Frere 's company	comment on	claim	PERSON	0
+1.0	Albert Frere 's company	decline	comment on claim	PERSON	0
+1.0	Suez	be for	675.6 million euro	ORGANIZATION	MONEY
+1.0	stake	have	sale	O	O
+1.0	Suez	plan	merge with Gaz de France under government-backed deal	ORGANIZATION	LOCATION
+1.0	Suez with a stake of about 8.0 percent	have	stake	O	O
+1.0	french billionaire Francois Pinault	mull	counter bid for group	PERSON	0
+1.0	LVMH	have	Saturday edition	O	O
+1.0	LVMH	be	Bernard Arnault	ORGANIZATION	PERSON
+1.0	Suez	plan	merge under controversial government-backed deal	ORGANIZATION	LOCATION
+1.0	this	be deny by	government	0	0
+1.0	billionaire Francois Pinault	mull	counter bid for group	PERSON	0
+1.0	Spanish bank La Caixa	say on	Thursday	ORGANIZATION	DATE
+1.0	billionaire Francois Pinault	be	also rumour	PERSON	0
+1.0	Suez	merge under	controversial deal	ORGANIZATION	LOCATION
+1.0	Suez	plan	merge with state-controlled Gaz de France under controversial government-backed deal	ORGANIZATION	LOCATION
+1.0	french billionaire Francois Pinault	be	also rumour	PERSON	0
+1.0	Suez	plan	merge with state-controlled Gaz de France under deal	ORGANIZATION	LOCATION
+1.0	Albert Frere 's company	decline	comment	PERSON	0
+1.0	its	have	water	O	O
+1.0	weekly Marianne claim	be in	its Saturday edition	SET	DATE
+1.0	this	be deny by	french government	0	0
+1.0	Suez	plan	merge	ORGANIZATION	0
+1.0	french billionaire Francois Pinault	mull	counter bid	PERSON	0
+1.0	Suez	merge under	deal	ORGANIZATION	LOCATION
+1.0	Albert Frere 's hold company	comment on	claim	PERSON	0
+1.0	Albert Frere 's hold company	decline	comment on claim	PERSON	0
+1.0	billionaire Francois Pinault	mull	bid for group	PERSON	0
+1.0	Suez	merge with	state-controlled Gaz de France	ORGANIZATION	LOCATION
+1.0	billionaire Francois Pinault	be	rumour	PERSON	0
+1.0	Francois Pinault	be	french	PERSON	0
+1.0	Suez	plan	merge with state-controlled Gaz de France	ORGANIZATION	LOCATION
+1.0	Suez	plan	merge with Gaz de France under deal	ORGANIZATION	LOCATION
+1.0	french billionaire Francois Pinault	mull	bid	PERSON	0
+1.0	Albert Frere	have	hold company	PERSON	0
+1.0	Thierry Breton	be	french	PERSON	0
+1.0	billionaire Francois Pinault	mull	counter bid	PERSON	0
+1.0	Suez	be with	stake of about 8.0 percent	ORGANIZATION	PERCENT
+1.0	Suez	plan	merge with Gaz de France under controversial government-backed deal	ORGANIZATION	LOCATION
+1.0	Albert Frere	have	company	O	PERSON
+1.0	Suez	plan	merge with state-controlled Gaz de France under government-backed deal	ORGANIZATION	LOCATION
+1.0	french billionaire Francois Pinault	be	rumour	PERSON	0
+1.0	french billionaire Francois Pinault	mull	bid for group	PERSON	0
+1.0	Suez	plan	merge with state-controlled Gaz de France under controversial deal	ORGANIZATION	LOCATION
+1.0	Suez	plan	merge under government-backed deal	ORGANIZATION	LOCATION
+1.0	Suez	merge under	controversial government-backed deal	ORGANIZATION	LOCATION
+1.0	Spanish bank La Caixa	say on	separately Thursday	ORGANIZATION	DATE
+1.0	Suez	merge with	Gaz de France	ORGANIZATION	LOCATION
+1.0	euros	have	capital gain	O	MONEY
+1.0	this	be	deny	0	0
+1.0	luxury goods	have	executive	O	O
+1.0	Suez	have	source	O	O

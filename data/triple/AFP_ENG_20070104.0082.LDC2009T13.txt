@@ -1,0 +1,83 @@
+1.0	case	be	transfer from police to team	0	0
+1.0	state official	say at_time	Thursday	0	DATE
+1.0	The suspended officials	have	case	O	O
+1.0	relative	reject	offer	0	0
+1.0	Noida	be	where located	LOCATION	0
+1.0	those	have	many	O	O
+1.0	National Commission	be look into	case	ORGANIZATION	0
+1.0	India 's Supreme Court	be conduct by	top federal detective	ORGANIZATION	0
+1.0	India	have	Supreme Court	ORGANIZATION	LOCATION
+1.0	party	demand	welfare group	0	0
+1.0	government	name on	Wednesday	0	DATE
+1.0	angry relative	reject	offer	0	0
+1.0	furious resident	have accuse	police fail	0	0
+1.0	panel	will decide on	action	0	0
+1.0	federal government	name on	Wednesday	0	DATE
+1.0	India newspaper	have	Times	ORGANIZATION	O
+1.0	India 's Supreme Court	be conduct by	federal detective	ORGANIZATION	0
+1.0	victims	have	welfare groups	O	O
+1.0	victims	have	remains	O	O
+1.0	panel	investigate	role of police	0	0
+1.0	case	be transfer to	team of federal investigator	0	0
+1.0	businessman	have	have arrest	0	0
+1.0	furious resident	have accuse	police	0	0
+1.0	Ajai Raj Sharma	be	Delhi	PERSON	LOCATION
+1.0	people	have	serial murders	O	O
+1.0	Media report	also quote	police official	0	0
+1.0	crime	investigate	disappearance	0	0
+1.0	Navin Chandra Bajpai	tell	afp	PERSON	0
+1.0	panel	investigate	role	0	0
+1.0	case	be	transfer	0	0
+1.0	businessman	charge	he servant	0	0
+1.0	case	be	transfer from police to team of federal investigator	0	0
+1.0	Media report	quote	unnamed police official	0	0
+1.0	resident	have accuse	police	0	0
+1.0	political party	demand	welfare group	0	0
+1.0	Navin Chandra Bajpai	bureaucrat of	Uttar pradesh state	PERSON	LOCATION
+1.0	political party	demand	welfare group of victim	0	0
+1.0	former Delhi police chief Ajai Raj	say by	Times of India newspaper	PERSON	ORGANIZATION
+1.0	former Delhi police chief Ajai Raj	be	quote	PERSON	0
+1.0	horrors	have	house	O	O
+1.0	India 's Supreme Court	reject plea for	probe	ORGANIZATION	0
+1.0	Media report	quote	police official	0	0
+1.0	young woman	be in	August last year	0	DATE
+1.0	India 's Supreme Court	be conduct by	detective	ORGANIZATION	0
+1.0	angry relative	reject	initial offer	0	0
+1.0	party	demand	welfare group of victim	0	0
+1.0	four-member panel	investigate	role of police	0	0
+1.0	case	be transfer from	police	0	0
+1.0	panel	investigate role in	case	0	0
+1.0	India 's Supreme Court	be	conduct	ORGANIZATION	0
+1.0	Noida	be	located	LOCATION	0
+1.0	India	have	Supreme Court	LOCATION	ORGANIZATION
+1.0	Uttar Pradesh	have	state government	O	LOCATION
+1.0	assistance	have	level	O	O
+1.0	Uttar state	have	bureaucrat	O	O
+1.0	woman	have	disappearance	O	O
+1.0	victim	have	families	O	O
+1.0	investigators	have	team	O	O
+1.0	political party	demand	social welfare group	0	0
+1.0	resident	have accuse	police fail	0	0
+1.0	country	have	National Human Rights Commission	ORGANIZATION	O
+1.0	party	demand	social welfare group	0	0
+1.0	country	have	National Human Rights Commission	0	ORGANIZATION
+1.0	Media report	also quote	unnamed police official	0	0
+1.0	four-member panel	investigate role in	case	0	0
+1.0	panel	will decide on	further action	0	0
+1.0	Ajai Raj Sharma	be police chief of	Delhi	PERSON	LOCATION
+1.0	cooperation	have	level	O	O
+1.0	case	be	transfer from police to team of investigator	0	0
+1.0	police	have	role	O	O
+1.0	political party	demand	social welfare group of victim	0	0
+1.0	four-member panel	investigate	role	0	0
+1.0	bureaucrats	have	up made	O	O
+1.0	case	be transfer to	team of investigator	0	0
+1.0	victims	have	relatives	O	O
+1.0	India 's Supreme Court	reject	plea	ORGANIZATION	0
+1.0	A businessman	have	servant	O	O
+1.0	case	be transfer to	team	0	0
+1.0	party	demand	social welfare group of victim	0	0
+1.0	former Delhi police chief Ajai Raj	say by	Times	PERSON	ORGANIZATION
+1.0	relative	reject	initial offer	0	0
+1.0	India 's Supreme Court	be conduct by	top detective	ORGANIZATION	0
+1.0	plea	say	country 's National Human Rights Commission	0	ORGANIZATION

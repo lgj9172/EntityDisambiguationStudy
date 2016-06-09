@@ -1,0 +1,16 @@
+1.0	woman	have	World Cup	0	MISC
+1.0	she	finish with	Norway 's Marit Bjoergen in place	0	PERSON
+1.0	she	finish of	compatriot Aino Kaisa Saarinen	0	PERSON
+1.0	Finland	have	Virpi Kuitunen	LOCATION	PERSON
+1.0	she	finish ahead of	compatriot Aino Kaisa Saarinen	0	PERSON
+1.0	she	finish ahead with	Norway 's Marit Bjoergen in place	0	PERSON
+1.0	she	finish with	Norway 's Marit Bjoergen in third place	0	PERSON
+1.0	Marit Bjoergen	be in	third place	PERSON	ORDINAL
+1.0	compatriot Aino Kaisa Saarinen	have	finished	O	PERSON
+1.0	she	finish ahead with	Norway 's Marit Bjoergen	0	PERSON
+1.0	Norway	have	Marit Bjoergen	PERSON	LOCATION
+1.0	she	finish with	Norway 's Marit Bjoergen	0	PERSON
+1.0	women	have	World Cup	MISC	O
+1.0	she	finish ahead with	Norway 's Marit Bjoergen in third place	0	PERSON
+1.0	Finland	have	Virpi Kuitunen	PERSON	LOCATION
+1.0	Norway	with	Marit Bjoergen	LOCATION	PERSON

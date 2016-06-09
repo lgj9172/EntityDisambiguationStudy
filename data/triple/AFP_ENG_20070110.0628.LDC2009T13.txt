@@ -1,0 +1,103 @@
+1.0	demonstration	be	also plan itself	0	0
+1.0	other demonstration	be	plan	0	0
+1.0	protestor	hold vigil outside	official residence of british Prime Minister Tony Blair	0	PERSON
+1.0	protestor	hold vigil outside	official residence	0	0
+1.0	demonstration	be	plan itself	0	0
+1.0	US President George W. Bush	release	one of those hold	LOCATION	NUMBER
+1.0	british citizen	be free by	September 2004	0	DATE
+1.0	protestor	hold	vigil	0	0
+1.0	those	have	one	NUMBER	O
+1.0	London	have	Metropolitan Police	LOCATION	ORGANIZATION
+1.0	demonstration	be	also plan itself in Cuba	0	LOCATION
+1.0	demonstration	be part of	programme of protest around world	0	0
+1.0	demonstration	be	part of programme of protest at Guantanamo Bay	0	LOCATION
+1.0	demonstration	be	plan in United States itself in Cuba	0	LOCATION
+1.0	demonstration	mark at_time	five year	0	DURATION
+1.0	demonstration	be	part	0	0
+1.0	London 's Metropolitan Police	provide	they estimate	ORGANIZATION	0
+1.0	other demonstration	be	also plan	0	0
+1.0	demonstration	be	also plan	0	0
+1.0	demonstration	be part of	programme of protest around world against US detention camp	0	LOCATION
+1.0	protest	will reach climax here outside	US Embassy	0	LOCATION
+1.0	residents	have	release	O	O
+1.0	demonstration	be part of	programme of protest	0	0
+1.0	camp	have	reconstitution	O	O
+1.0	300 people came to the vigil , '' which occurred between 6:00 pm -LRB- 1800 GMT -RRB- and 7:30 pm -LRB- 1930 GMT -RRB- outside Downing Street , central London , a spokesman for the London-based human rights group	have	estimates	O	O
+1.0	demonstration	be	also plan in United States itself in Cuba	0	LOCATION
+1.0	its	have	opening	O	O
+1.0	protestor	hold vigil outside	official residence of Prime Minister Tony Blair	0	PERSON
+1.0	participants	have	number	O	O
+1.0	demonstration	be part at	Guantanamo Bay	0	LOCATION
+1.0	protest	will reach here	climax in London	0	LOCATION
+1.0	demonstration	be	part of programme of protest around world at Guantanamo Bay in Cuba	0	LOCATION
+1.0	London	spokesman for	london-based human rights group	LOCATION	0
+1.0	Amnesty International	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	Guantanamo camp	have	reconstruction	O	O
+1.0	Bisher al-Rawi	personally ask	US President George W. Bush	PERSON	LOCATION
+1.0	demonstration	be also plan in	Cuba	0	LOCATION
+1.0	demonstration	be part of	programme	0	0
+1.0	british citizen	be	free	0	0
+1.0	other demonstration	be	plan in United States itself	0	LOCATION
+1.0	climax	be in	London	0	LOCATION
+1.0	protestor	hold vigil outside	residence of british Prime Minister Tony Blair	0	PERSON
+1.0	London 's Metropolitan Police	contact by	afp	ORGANIZATION	0
+1.0	demonstration	be	also plan in United States itself	0	LOCATION
+1.0	british citizen	be free from	Guantanamo	0	LOCATION
+1.0	british citizen	be	free from Guantanamo by September 2004	0	LOCATION
+1.0	other demonstration	be	plan itself in Cuba	0	LOCATION
+1.0	demonstration	be	part of programme of protest around world at Guantanamo Bay	0	LOCATION
+1.0	US President George W. Bush	release	one of those	LOCATION	NUMBER
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	demonstration	be	part of programme at Guantanamo Bay	0	LOCATION
+1.0	camp	be with	300 people in orange jumpsuit	0	NUMBER
+1.0	protest	will reach	climax in London	0	LOCATION
+1.0	Tony Blair	be of	british	PERSON	0
+1.0	London	be outside	Downing Street	LOCATION	LOCATION
+1.0	other demonstration	be	also plan itself in Cuba	0	LOCATION
+1.0	protest	will reach	climax	0	0
+1.0	camp	open in	January 2002	0	DATE
+1.0	London 's Metropolitan Police	contact	Downing Street	ORGANIZATION	0
+1.0	demonstration	be	plan in United States itself	0	LOCATION
+1.0	Guantanamo Bay	be in	Cuba	LOCATION	LOCATION
+1.0	demonstration	be	plan itself in Cuba	0	LOCATION
+1.0	nationals	have	intervene	O	O
+1.0	London 's Metropolitan Police	be	unable	ORGANIZATION	0
+1.0	protests	have	programme	O	O
+1.0	protest	will reach climax here with	reconstruction of Guantanamo camp	0	LOCATION
+1.0	other demonstration	be	also plan itself	0	0
+1.0	London 's Metropolitan Police	unable	Downing Street	ORGANIZATION	0
+1.0	Prime Minister Tony Blair	have	residence	O	PERSON
+1.0	demonstration	mark since	its opening	0	0
+1.0	protest	will reach climax outside	US Embassy	0	LOCATION
+1.0	demonstration	be	part of programme of protest at Guantanamo Bay in Cuba	0	LOCATION
+1.0	300 people	be in	orange jumpsuit	NUMBER	0
+1.0	demonstration	mark since	its opening on January 11 2002	0	DATE
+1.0	protestor	hold vigil outside	residence of Prime Minister Tony Blair	0	PERSON
+1.0	Bisher al-Rawi	ask	US President George W. Bush	PERSON	LOCATION
+1.0	other demonstration	be	also plan in United States itself	0	LOCATION
+1.0	Guantanamo Bay	have	UK residents	O	LOCATION
+1.0	London 's Metropolitan Police	provide	they own estimate	ORGANIZATION	0
+1.0	programme	have	part	O	O
+1.0	protest	will reach here	climax	0	0
+1.0	protest	will reach climax here with	reconstruction	0	0
+1.0	demonstration	be	part of programme of protest around world against US detention camp at Guantanamo Bay in Cuba	0	LOCATION
+1.0	other demonstration	be also plan in	Cuba	0	LOCATION
+1.0	protest	will reach climax with	reconstruction of Guantanamo camp	0	LOCATION
+1.0	other demonstration	be	also plan in United States itself in Cuba	0	LOCATION
+1.0	London	have	Metropolitan Police	ORGANIZATION	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	protestor	hold vigil outside	residence	0	0
+1.0	demonstration	be part at	Guantanamo Bay in Cuba	0	LOCATION
+0.8937938396645659	Blair	be on	Tuesday	PERSON	DATE
+1.0	other demonstration	be	plan itself	0	0
+1.0	London 's Metropolitan Police	provide	Downing Street	ORGANIZATION	0
+1.0	demonstration	be plan in	Cuba	0	LOCATION
+1.0	demonstration	be	part of programme at Guantanamo Bay in Cuba	0	LOCATION
+1.0	protest	will reach climax with	reconstruction	0	0
+1.0	Japan	be	Spain	LOCATION	LOCATION
+1.0	other demonstration	be	plan in United States itself in Cuba	0	LOCATION
+1.0	demonstration	be	plan	0	0
+1.0	protestor	hold vigil on	Wednesday	0	DATE
+1.0	demonstration	be	part of programme of protest around world against US detention camp at Guantanamo Bay	0	LOCATION
+1.0	UK residents	have	issue	O	O
+1.0	other demonstration	be plan in	Cuba	0	LOCATION

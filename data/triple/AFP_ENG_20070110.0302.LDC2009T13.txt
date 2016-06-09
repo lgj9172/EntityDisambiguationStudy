@@ -1,0 +1,28 @@
+1.0	Continental	release	figure	0	0
+1.0	Continental	say on	Wednesday	ORGANIZATION	DATE
+1.0	Continental	pay	dividend	ORGANIZATION	0
+1.0	Continental	have	forecast	O	O
+0.9652381129169338	Continental	maker of	tyre	ORGANIZATION	0
+1.0	Continental	publish	its detailed 2006 result	ORGANIZATION	DATE
+1.0	Continental	have	results	O	O
+1.0	analysts	have	conference	O	O
+1.0	Continental	maker of	tyre	ORGANIZATION	0
+1.0	Continental	be	schedule	ORGANIZATION	0
+1.0	Continental	release figure at	analyst ' conference	0	0
+1.0	car parts	have	maker	O	O
+1.0	Continental	publish	its detailed 2006 result in February	ORGANIZATION	DATE
+1.0	Continental	release figure on	Wednesday	0	DATE
+1.0	13.8 billion euro	be in	2005	MONEY	DATE
+1.0	euro	have	dividend	O	MONEY
+1.0	Continental	pay	dividend of 1.0 euro	ORGANIZATION	MONEY
+0.9652381129169338	Continental	german maker of	tyre	ORGANIZATION	0
+1.0	Continental	pay	dividend of 1.0 euro per share	ORGANIZATION	MONEY
+1.0	Continental	reaffirm	its forecast	ORGANIZATION	0
+1.0	2006	in euro be	19.5 billion dollar	DATE	MONEY
+1.0	Continental	release	preliminary figure	0	0
+1.0	Continental	pay dividend for	2005	ORGANIZATION	DATE
+1.0	15 billion euro	be in	2006	MONEY	DATE
+1.0	Continental	publish	its 2006 result	ORGANIZATION	DATE
+1.0	tyres	have	maker	O	O
+1.0	Continental	publish	its 2006 result in February	ORGANIZATION	DATE
+1.0	its detailed 2006 result	be in	February	DATE	DATE

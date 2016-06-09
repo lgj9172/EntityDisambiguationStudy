@@ -1,0 +1,68 @@
+1.0	Arsenal captain Thierry Henry	have	return	O	O
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he goal	PERSON	DURATION
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	have	goal	O	O
+1.0	Gunners	be award	penalty late	0	DURATION
+1.0	Persie	score twice during	4-0 league	PERSON	0
+1.0	France	forward put	Arsenal	LOCATION	ORGANIZATION
+1.0	ever	have	one	NUMBER	O
+1.0	France	be in	World Cup	LOCATION	MISC
+1.0	France	put	Arsenal	LOCATION	ORGANIZATION
+1.0	Osei Sankofa	be	Charlton	PERSON	PERSON
+1.0	Persie	score during	4-0 league	PERSON	0
+1.0	his	have	tally	O	O
+1.0	Premiership	for	lead scorer	0	0
+1.0	Arsenal	have	performance	O	ORGANIZATION
+1.0	Dennis Bergkamp	be	dutch	PERSON	0
+1.0	goal	have	van Persie	PERSON	O
+1.0	France	put ahead	Arsenal	LOCATION	ORGANIZATION
+1.0	comparison	be	be draw between van Persie	0	PERSON
+1.0	Osei Sankofa	be full-back of	Charlton	PERSON	PERSON
+0.16136531398835796	Charlton full-back Osei Sankofa	be	show	PERSON	0
+1.0	Arsenal captain Thierry Henry	believe	Gunners striker Robin van Persie	PERSON	PERSON
+1.0	Gunners	be award	penalty	0	DURATION
+1.0	Premiership	have	scorer	O	O
+1.0	Arsenal	as	best overseas player	ORGANIZATION	0
+1.0	your	have	body	O	O
+1.0	Arsenal	have	scorer	O	ORGANIZATION
+1.0	Gunners	be award	second penalty	0	ORDINAL
+1.0	comparison	be	be draw	0	0
+1.0	Arsenal captain Thierry Henry	be make	he return	PERSON	0
+1.0	Arsenal	about	performance	ORGANIZATION	0
+1.0	I	score	seven	0	NUMBER
+1.0	players	have	one	NUMBER	O
+1.0	suspension	tie at	Liverpool	0	LOCATION
+1.0	Persie	score during	league	PERSON	0
+1.0	Arsenal captain Thierry Henry	believe	fellow Gunners striker Robin van Persie	PERSON	PERSON
+1.0	Arsenal	have	Emirates Stadium	LOCATION	ORGANIZATION
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he goal in last minute	PERSON	DATE
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	be	dutch	PERSON	0
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he second goal in last minute	PERSON	DATE
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	have	matches	O	O
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he second goal	PERSON	ORDINAL
+0.4977764679188449	campaign	interrupt by	injury problem	0	0
+1.0	suspension	tie on	Saturday	0	DATE
+1.0	Thierry Henry	be	Arsenal	PERSON	ORGANIZATION
+1.0	it five goal	be in	he last four match	NUMBER	NUMBER
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	want	score	0	0
+1.0	Persie	score twice during	league	PERSON	0
+1.0	Charlton full-back Osei Sankofa	be show	straight red	PERSON	0
+1.0	season	have	end	O	O
+1.0	last year	in	World Cup	DATE	MISC
+1.0	Gunners	be award	second penalty late	0	ORDINAL
+1.0	he second goal	be in	the last minute	ORDINAL	DATE
+1.0	van persie	serve	midfielder Cesc Fabregas	PERSON	PERSON
+1.0	he	take	penalty	0	0
+1.0	your	have	game	O	O
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	have	head	O	O
+1.0	Arsenal captain Thierry Henry	be make out	he return	PERSON	0
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he second goal in minute	PERSON	DATE
+1.0	fellow Gunners striker Robin van Persie has it in him to become one of the Premiership 's greatest players	chip in	he goal in minute	PERSON	DATE
+1.0	Thierry Henry	be captain of	Arsenal	PERSON	ORGANIZATION
+1.0	Premiership	have	players	O	O
+1.0	Arsenal	on	Emirates Stadium	ORGANIZATION	LOCATION
+1.0	year	have	World Cup	MISC	DATE
+1.0	Premiership	of	greatest player	0	0
+1.0	Charlton full-back Osei Sankofa	be show	red	PERSON	0
+1.0	Arsenal	have	player	O	ORGANIZATION
+1.0	Henry	be	29	PERSON	NUMBER
+1.0	France	forward put ahead	Arsenal	LOCATION	ORGANIZATION

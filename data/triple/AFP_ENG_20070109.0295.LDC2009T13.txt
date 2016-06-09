@@ -1,0 +1,102 @@
+1.0	Souray	edge	511,457	PERSON	NUMBER
+1.0	West	have	goaltender	O	O
+1.0	league	be with	24 win	0	NUMBER
+1.0	Niedermayer	be appear in	he fourth All-Star Game	PERSON	ORDINAL
+1.0	Colorado Avalanche	have	center Joe Sakic	PERSON	ORGANIZATION
+1.0	Souray	edge	Boston Bruin Zdeno Chara	PERSON	PERSON
+1.0	Kiprusoff	have	four shutout	PERSON	NUMBER
+1.0	Nicklas Lidstrom	be of	Detroit Red Wings	PERSON	ORGANIZATION
+1.0	it	will	will nhl 's first All-Star Game	0	ORDINAL
+1.0	his	have	All-Star Game	MISC	O
+1.0	Alex Ovechkin	wing of	Washington Capitals	PERSON	LOCATION
+1.0	Year	have	NHL Rookie	O	DATE
+1.0	Stars	lead eastern conference into	55th game	0	ORDINAL
+1.0	nhl	be player	vote	0	0
+1.0	Joe Thornton	be of	San Jose Sharks	PERSON	ORGANIZATION
+1.0	his	have	first	ORDINAL	O
+1.0	Calgary Flames	have	Miikka Kiprusoff	PERSON	ORGANIZATION
+1.0	Buffalo	's campbell be	602,982 vote	LOCATION	NUMBER
+1.0	it	will	will nhl 's All-Star Game	0	MISC
+1.0	Stars	lead	Eastern Conference	0	0
+1.0	Stars	lead eastern conference into	55th all-star game	0	ORDINAL
+1.0	Buffalo	have	Brian Campbell	LOCATION	PERSON
+1.0	Crosby	be	19-year-old	PERSON	DURATION
+1.0	NHL	have	All-Star Game	MISC	ORGANIZATION
+1.0	Ovechkin	native of	Russia	PERSON	LOCATION
+1.0	Luongo	be second in	league with 24 win	PERSON	NUMBER
+1.0	Vancouver	have	Roberto Luongo	PERSON	LOCATION
+1.0	defenseman	be	Scott Niedermayer	0	PERSON
+1.0	Washington Capitals	have	wing	O	LOCATION
+1.0	Buffalo Sabres teammate Maxim Afinogenov	finish	fourth	ORGANIZATION	ORDINAL
+0.9652381129169338	Ovechkin	native of	Russia	PERSON	LOCATION
+1.0	Luongo	be	second	PERSON	ORDINAL
+1.0	Niedermayer	be appear in	he All-Star Game	PERSON	MISC
+1.0	The 19-year-old Crosby	center of	Pittsburgh Penguins	LOCATION	ORGANIZATION
+1.0	Ovechkin	be	third forwards	PERSON	ORDINAL
+1.0	defense	afterthought in	All-Star Game	0	MISC
+1.0	Montreal	's souray be	534,647	LOCATION	NUMBER
+1.0	Stars	lead eastern conference on	January 24	0	DATE
+1.0	nhl	be youngest player	vote	0	0
+0.9652381129169338	Ovechkin	21-year-old native of	Russia	PERSON	LOCATION
+1.0	Stars	lead eastern conference into	game	0	0
+1.0	Crosby	receive	825,783 vote	PERSON	NUMBER
+1.0	San Jose Sharks	of thornton be	663,931	ORGANIZATION	NUMBER
+1.0	Buffalo	have	Brian Campbell	PERSON	LOCATION
+1.0	right wing Jonathan Cheechoo	join sakic	Thornton on line	PERSON	PERSON
+1.0	right wing Jonathan Cheechoo	join sakic	Thornton on start line	PERSON	PERSON
+1.0	Ovechkin	be	third forwards with 475,297 vote	PERSON	NUMBER
+1.0	West	have	start goaltender	0	0
+1.0	Buffalo Sabres teammate Maxim Afinogenov	finish with	469,431 vote	ORGANIZATION	NUMBER
+1.0	Lidstrom	be play in	he ninth	PERSON	ORDINAL
+1.0	Stars	lead eastern conference into	all-star game	0	0
+1.0	his	have	appearance	O	O
+1.0	League	star	The 19-year-old Crosby	ORGANIZATION	PERSON
+1.0	nhl	have	All-Star Game	0	MISC
+1.0	Pittsburgh Penguins	have	superstar center	O	ORGANIZATION
+1.0	Stars	lead eastern conference into	55th all-star game in Dallas	0	LOCATION
+0.7871545492157753	Souray	select to	he All-Star Game	PERSON	MISC
+1.0	Maxim Afinogenov	be teammate of	Buffalo Sabres	PERSON	ORGANIZATION
+1.0	nhl	be include	44	0	NUMBER
+1.0	way	be in	new-look All-Star Game	0	MISC
+1.0	Maxim Afinogenov	be	Buffalo Sabres	PERSON	ORGANIZATION
+1.0	55th all-star game	be in	Dallas	ORDINAL	LOCATION
+1.0	lead vote-getter	be in	western conference	0	0
+1.0	wing Jonathan Cheechoo	join sakic	Thornton	PERSON	PERSON
+1.0	right wing Jonathan Cheechoo	join sakic	Thornton	PERSON	PERSON
+1.0	Ovechkin	be	third	PERSON	ORDINAL
+0.7871545492157753	Souray	select to	he second All-Star Game	PERSON	ORDINAL
+1.0	Luongo	be second in	league	PERSON	0
+1.0	Ovechkin	be third among	East	PERSON	0
+1.0	Stars	lead eastern conference into	game in Dallas	0	LOCATION
+1.0	league	have	Scott Niedermayer	PERSON	O
+1.0	it	will	will nhl 's first All-Star Game since 2004	0	ORDINAL
+1.0	Stars	lead eastern conference into	all-star game in Dallas	0	LOCATION
+1.0	Montreal	have	Sheldon Souray	PERSON	LOCATION
+1.0	it	will	will nhl 's All-Star Game since 2004	0	DATE
+1.0	Vancouver	have	Rory Fitzpatrick	PERSON	LOCATION
+1.0	Detroit Red Wings	have	Nicklas Lidstrom	PERSON	ORGANIZATION
+1.0	Joe Sakic	be of	Colorado avalanche	PERSON	ORGANIZATION
+1.0	Ovechkin	be	third among East forwards with 475,297 vote	PERSON	NUMBER
+1.0	start defenseman	be	Scott Niedermayer	0	PERSON
+1.0	nhl	be with	65 point	0	NUMBER
+1.0	19-year-old Crosby	receive	825,783 vote	PERSON	NUMBER
+1.0	Stars	lead eastern conference into	55th game in Dallas	0	LOCATION
+1.0	his	have	ninth	ORDINAL	O
+1.0	San Jose Sharks	have	Joe Thornton	PERSON	ORGANIZATION
+1.0	Russia	have	native	O	LOCATION
+1.0	best record	be in	East	0	LOCATION
+1.0	fan balloting	begin in	1986	0	DURATION
+1.0	Roberto Luongo	be of	Vancouver	PERSON	LOCATION
+1.0	afterthought	be in	All-Star Game	0	MISC
+1.0	wing Jonathan Cheechoo	join sakic	Thornton on line	PERSON	PERSON
+1.0	nhl	be in	score	0	0
+1.0	season	have	game	O	O
+1.0	Ovechkin	be third forwards among	East	PERSON	0
+1.0	Buffalo	have	Ryan Miller	PERSON	LOCATION
+1.0	player	have	most	O	O
+1.0	wing Jonathan Cheechoo	join sakic	Thornton on start line	PERSON	PERSON
+1.0	West 's start goaltender	be	Roberto Luongo	0	PERSON
+1.0	West 's goaltender	be	Roberto Luongo	0	PERSON
+1.0	Montreal	by	Sheldon Souray	LOCATION	PERSON
+1.0	fan balloting	most of	player	0	0
+1.0	his	have	All-Star	MISC	O

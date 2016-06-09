@@ -1,0 +1,42 @@
+1.0	Financial Supervisory Service	have	vice governor	O	ORGANIZATION
+1.0	Grace Department Store	be in	Seoul	ORGANIZATION	LOCATION
+1.0	mutual savings bank	be in	2001	0	DATE
+1.0	Financial Supervisory Service	of governor be	the Financial Supervisory Service	ORGANIZATION	0
+1.0	korean prosecutor	have arrest	watchdog chief	0	0
+1.0	bribe	be in	return	0	0
+1.0	it	quote	Seoul prosecution official	0	LOCATION
+1.0	owner	have	fail bid take	0	0
+1.0	Kim Heung-ju	owner of	Grace Department Store	PERSON	ORGANIZATION
+1.0	prosecutor	have arrest watchdog chief on	suspicion	0	0
+0.800160677958774	official media	report at_time	Friday	0	DATE
+1.0	FSS branch	have	head	O	O
+1.0	fss director	be in	charge oversee	0	0
+1.0	Kim jung-hoe	governor in	connection	PERSON	0
+1.0	owner	have	bid	O	O
+1.0	korean prosecutor	have arrest watchdog chief on	suspicion	0	0
+1.0	Kim jung-hoe	be	fss director in charge	PERSON	0
+1.0	fraud	have	charges	O	O
+1.0	Kim Heung-ju	have	attempt	O	O
+0.800160677958774	korean media	report at_time	Friday	0	DATE
+1.0	officials at the mutual savings bank	have	influence	O	O
+1.0	Grace Department Store	have	owner	O	ORGANIZATION
+0.800160677958774	media	report at_time	Friday	0	DATE
+1.0	Kim jung-hoe	be	suspect	PERSON	0
+1.0	south korean prosecutor	have arrest	financial watchdog chief	0	0
+1.0	connection	in governor be	the Financial Supervisory Service	0	0
+0.800160677958774	official south korean media	report at_time	Friday	0	DATE
+1.0	vice governor	be in	connection	0	0
+1.0	a businessman	have	time	O	O
+0.800160677958774	official korean media	report at_time	Friday	0	DATE
+1.0	Kim jung-hoe	be	at time fss director	PERSON	DATE
+1.0	prosecutor	have arrest	watchdog chief	0	0
+1.0	Kim Heung-ju	have	department store	O	O
+1.0	Kim jung-hoe	be	at time fss director in charge	PERSON	DATE
+0.800160677958774	south korean media	report at_time	Friday	0	DATE
+1.0	Kim jung-hoe	be	fss director	PERSON	0
+1.0	south korean prosecutor	have arrest watchdog chief on	suspicion	0	0
+1.0	south korean prosecutor	have arrest	watchdog chief	0	0
+1.0	Yonhap	report at_time	Friday	ORGANIZATION	DATE
+1.0	Kim jung-hoe	governor of	Financial Supervisory Service	PERSON	ORGANIZATION
+1.0	prosecutor	have arrest	financial watchdog chief	0	0
+1.0	korean prosecutor	have arrest	financial watchdog chief	0	0

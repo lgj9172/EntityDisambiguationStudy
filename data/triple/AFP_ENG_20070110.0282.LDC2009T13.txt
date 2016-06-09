@@ -1,0 +1,19 @@
+1.0	US lawmaker	brief on	plan	LOCATION	0
+1.0	America	have	commitment	O	LOCATION
+1.0	troops	have	number	O	O
+1.0	plans	have	part	O	O
+1.0	their	have	country	O	O
+1.0	that	be	difference	0	0
+1.0	Dan Bartlett	be	White House	PERSON	ORGANIZATION
+1.0	President George W. Bush	have	battle plan	O	O
+1.0	132,000	have	deployment	O	NUMBER
+1.0	Dan Bartlett	be counsel of	White House	PERSON	ORGANIZATION
+1.0	he	will make	clear	0	0
+1.0	that	be go	difference	0	0
+1.0	he	will make	very clear	0	0
+1.0	US lawmaker	brief on	plan say	LOCATION	0
+1.0	Bartlett	dismiss	concern	PERSON	0
+1.0	country	have	control	O	O
+1.0	America	have	commitment	LOCATION	0
+1.0	his	have	pm speech	O	O
+1.0	he	add	20,000 US soldier	0	LOCATION

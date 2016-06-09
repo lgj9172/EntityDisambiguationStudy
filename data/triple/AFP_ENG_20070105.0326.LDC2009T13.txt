@@ -1,0 +1,39 @@
+1.0	convincing North Korea	walk away from	talk	LOCATION	0
+1.0	convincing North Korea	walk from	talk in protest	LOCATION	0
+1.0	parallel talk	be	due	0	0
+1.0	Pyongyang	agree	return month	LOCATION	DATE
+1.0	talk	be	due	0	0
+1.0	department spokesman Sean McCormack	say of	talk	PERSON	0
+1.0	Pyongyang	agree	return to discussion	LOCATION	0
+1.0	department spokesman Sean McCormack	say of	talk involve China Korea	PERSON	LOCATION
+1.0	Pyongyang	agree	return to discussion month	LOCATION	DATE
+1.0	talk	be in	protest	0	0
+1.0	parallel talk	be	also due	0	0
+1.0	talk	be	also due	0	0
+1.0	Pyongyang	return at_time	last month	LOCATION	DATE
+1.0	Pyongyang	agree	return	LOCATION	0
+1.0	Pyongyang	agree	return to discussion last month	LOCATION	DATE
+1.0	department spokesman Sean McCormack	say at_time	Friday	PERSON	DATE
+1.0	South Korea	be involve	China	LOCATION	LOCATION
+1.0	disarmament negotiation	be	suspend	0	0
+1.0	Pyongyang	agree	return last month	LOCATION	DATE
+1.0	Pyongyang	return at_time	month	LOCATION	DATE
+1.0	convincing North Korea	walk away at	US sanction	LOCATION	LOCATION
+1.0	talks hosted by China	have	round	O	O
+1.0	convincing North Korea	walk at	US sanction	LOCATION	LOCATION
+1.0	Pyongyang	spark	condemnation	LOCATION	0
+1.0	Pyongyang	spark	international condemnation	LOCATION	0
+1.0	convincing North Korea	walk from	talk	LOCATION	0
+1.0	convincing North Korea	walk away at	US financial sanction	LOCATION	LOCATION
+1.0	convincing North Korea	have	weapons	O	O
+1.0	six-party disarmament negotiation	be suspend in	late 2005	0	DATE
+1.0	State Department	say at_time	Friday	ORGANIZATION	DATE
+1.0	convincing North Korea	walk at	US financial sanction	LOCATION	LOCATION
+1.0	six-party disarmament negotiation	be	suspend	0	0
+1.0	money-laundering	have	accused	O	O
+1.0	talks	have	said	O	O
+1.0	last month	have	device	O	O
+1.0	talks	have	days	DURATION	O
+1.0	Pyongyang	return to	discussion	LOCATION	0
+1.0	convincing North Korea	walk away from	talk in protest	LOCATION	0
+1.0	disarmament negotiation	be suspend in	late 2005	0	DATE

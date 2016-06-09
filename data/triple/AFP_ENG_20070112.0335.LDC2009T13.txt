@@ -1,0 +1,63 @@
+1.0	Pavla Topolankova	run in	Senate election	0	ORGANIZATION
+1.0	Topolanek 50	announce at_time	last week	PERSON	DATE
+1.0	this	be	weak	0	0
+1.0	Topolanek 's coalition	be give	chance	PERSON	0
+1.0	Pavla Topolankova	unsucessfully run in	Senate election	0	ORGANIZATION
+1.0	Topolankova	explain	add	PERSON	0
+1.0	Topolanek	have	coalition with Christian Democrats	PERSON	ORGANIZATION
+1.0	he centre-right coalition	focus on	they fail marriage	0	0
+1.0	100 vote	be in	200-seat lower house	NUMBER	0
+1.0	The 51-year-old mother of three	say to	question	0	0
+1.0	her	have	future	DATE	O
+1.0	lover	have	boudoir	O	O
+1.0	their	have	marriage	O	O
+1.0	he coalition	focus on	they marriage	0	0
+1.0	her	have	husband	O	O
+1.0	Pavla Topolankova	run as	candidate	0	0
+1.0	Topolanek 50	announce at_time	week	PERSON	DATE
+1.0	Pavla Topolankova	run in	last Senate election	0	ORGANIZATION
+1.0	he form centre-right coalition	focus on	they marriage	0	0
+1.0	Topolanek , 50	announce at_time	week	PERSON	DATE
+1.0	The 51-year-old mother of three	say in	reply	0	0
+1.0	it	rely on	rebel	0	0
+1.0	his	have	government	O	O
+1.0	Czech Prime Minister Mirek Topolanek	have	coalition	O	O
+1.0	he centre-right coalition	focus on	they marriage	0	0
+1.0	maximum	force	it	0	0
+1.0	Czech Prime Minister Mirek Topolanek	have	wife	O	PERSON
+1.0	three	have	mother	O	NUMBER
+1.0	he coalition	focus on	they fail marriage	0	0
+1.0	she husband 's government	win at_time	next week	0	DATE
+1.0	his	have	career	O	O
+1.0	he form coalition	focus on	they fail marriage	0	0
+1.0	she husband 's government	win at_time	week	0	DATE
+1.0	Topolanek , 50	have	39	NUMBER	O
+1.0	Mirek Topolanek	be of	Czech	PERSON	MISC
+1.0	Topolanek , 50	have	post	O	O
+1.0	Czech Republic	have	month search	O	LOCATION
+1.0	election	be	solution	0	0
+1.0	he form centre-right coalition	focus on	they fail marriage	0	0
+1.0	she husband 's government	even win at_time	next week	0	DATE
+1.0	Topolanek	have	coalition	O	PERSON
+1.0	she husband 's government	even narrowly win at_time	next week	0	DATE
+1.0	Topolanek 's coalition	be with	Christian Democrats	PERSON	ORGANIZATION
+1.0	she husband 's government	even win at_time	week	0	DATE
+1.0	she husband 's government	narrowly win at_time	week	0	DATE
+1.0	she husband 's government	narrowly win at_time	next week	0	DATE
+1.0	Pavla Topolankova	unsucessfully run in	last Senate election	0	ORGANIZATION
+1.0	it	rely on	leftwing rebel	0	0
+1.0	she husband 's government	even narrowly win at_time	week	0	DATE
+1.0	her	have	marriage	O	O
+1.0	Topolanek , 50	be	50	PERSON	NUMBER
+1.0	Topolanek , 50	announce at_time	last week	PERSON	DATE
+1.0	confidence	have	vote	O	O
+1.0	Pavla Topolankova	unsucessfully run as	candidate	0	0
+1.0	husband	have	government	0	0
+1.0	Civic Democrat party	have	leader	O	O
+1.0	election	be	best solution	0	0
+1.0	Politika party	have	leader	O	O
+1.0	Topolanek 's coalition	be give	chance last	PERSON	0
+1.0	husband	have	government	O	O
+1.0	he form coalition	focus on	they marriage	0	0
+1.0	Czech Republic	have	more seven month search for stable government	LOCATION	DURATION
+1.0	his	have	boudoir	O	O

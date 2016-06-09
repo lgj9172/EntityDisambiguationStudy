@@ -1,0 +1,12 @@
+1.0	Transneft	be pipeline monopoly of	Russia	ORGANIZATION	LOCATION
+1.0	Thursday	executive at	Russia 's pipeline monopoly	DATE	LOCATION
+1.0	Sergei Grigoryev	be	quote	PERSON	0
+1.0	Belarus	through pipeline be	friendship	LOCATION	0
+1.0	supplies	begin on	Druzhba pipeline through Belarus	0	LOCATION
+1.0	Russia	at	pipeline monopoly	LOCATION	0
+1.0	Transneft	have	deputy CEO	O	ORGANIZATION
+1.0	supplies	begin on	friendship	0	0
+1.0	Belarus	be	Sergei Grigoryev	LOCATION	PERSON
+1.0	supplies	begin on	Druzhba pipeline	0	0
+1.0	Sergei Grigoryev	ceo of	Transneft	PERSON	ORGANIZATION
+1.0	Russia	have	pipeline monopoly	O	LOCATION

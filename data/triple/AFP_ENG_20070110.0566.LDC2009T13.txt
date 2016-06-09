@@ -1,0 +1,61 @@
+1.0	general Kofi Annan	deploy un force to	Chad	PERSON	LOCATION
+1.0	United Nations	send	assessment team	ORGANIZATION	0
+1.0	Security Council	be on	Wednesday	ORGANIZATION	DATE
+1.0	council member	want	team	0	0
+1.0	its	have	capabilities	O	O
+1.0	civilians	have	sent'	O	O
+1.0	turmoil	have	unable	O	O
+1.0	hostilities	have	midst	O	O
+1.0	team	get to	many area	0	0
+1.0	Kofi Annan	warn in	report write month	PERSON	DATE
+1.0	general Kofi Annan	warn in	UN secretary	PERSON	ORGANIZATION
+1.0	UN diplomat	mull	possibility	ORGANIZATION	0
+1.0	Vitaly Churkin	be	the United Nations	PERSON	ORGANIZATION
+1.0	Vitaly Churkin	be ambassador of	the United Nations	PERSON	ORGANIZATION
+1.0	Khartoum	have reject	allegation	LOCATION	0
+1.0	team	make	recommendation	0	0
+1.0	UN diplomat	mull possibility at_time	late year	ORGANIZATION	DATE
+1.0	situation	have	successful	O	O
+1.0	United Nations	send assessment team to	area	ORGANIZATION	0
+1.0	fighting	have	unable	O	O
+1.0	United Nations	send assessment team at_time	last November	ORGANIZATION	DATE
+1.0	he country	be back	cross-border	0	0
+1.0	car	support rebel in	Darfur	0	LOCATION
+1.0	his	have	country	O	O
+1.0	Republic	have	dispatch	O	LOCATION
+1.0	car	support	rebel	0	0
+1.0	general Kofi Annan	warn in	report write last month	PERSON	DATE
+1.0	general Kofi Annan	deploy	UN force	PERSON	ORGANIZATION
+1.0	Kofi Annan	warn in	report write	PERSON	0
+1.0	it	have plan	visit	0	0
+1.0	Sudan	have	Darfur conflict	O	LOCATION
+1.0	team	make	specific recommendation for peacekeeping mission	0	0
+1.0	UN force	start	peace talk	ORGANIZATION	0
+1.0	Kofi Annan	warn in	report write last month	PERSON	DATE
+1.0	general Kofi Annan	warn in	then UN secretary	PERSON	ORGANIZATION
+1.0	team	be	unable	0	0
+1.0	UN diplomat	mull possibility at_time	year	ORGANIZATION	DATE
+1.0	Sudan	from	Darfur conflict	LOCATION	LOCATION
+1.0	team	be	able	0	0
+1.0	Kofi Annan	warn in	UN secretary	PERSON	ORGANIZATION
+1.0	general Kofi Annan	warn in	report write month	PERSON	DATE
+1.0	general Kofi Annan	warn in	report write	PERSON	0
+1.0	general Kofi Annan	warn in	report	PERSON	0
+1.0	team	get to	area	0	0
+1.0	Kofi Annan	deploy un force to	Chad	PERSON	LOCATION
+1.0	United Nations	send assessment team at_time	November	ORGANIZATION	DATE
+1.0	Kofi Annan	warn in	report	PERSON	0
+1.0	UN diplomat	mull possibility at_time	last year	ORGANIZATION	DATE
+1.0	side	be in	conflict agree to ceasefire	0	0
+1.0	UN team	have	dispatch	O	O
+1.0	team	make	specific recommendation	0	0
+1.0	displaced people	be in	Chad	0	LOCATION
+1.0	Kofi Annan	warn in	then UN secretary	PERSON	ORGANIZATION
+1.0	Russia	have	Vitaly Churkin	LOCATION	PERSON
+1.0	Russia	have	UN Ambassador Vitaly Churkin	PERSON	LOCATION
+1.0	turn	accuse	Chad	0	LOCATION
+1.0	UN diplomat	mull possibility at_time	late last year	ORGANIZATION	DATE
+1.0	team	be unable of	fighting	0	0
+1.0	he	express	hope	0	0
+1.0	team	make	recommendation for peacekeeping mission	0	0
+1.0	Kofi Annan	deploy	UN force	PERSON	ORGANIZATION

@@ -1,0 +1,60 @@
+1.0	people	die in	clash last April	0	DATE
+1.0	last year	at	deadly unrest in East Timor	DATE	LOCATION
+1.0	year	have	unrest	O	DATE
+1.0	Amity	have	Treaty	O	O
+1.0	you	compare death toll in	crisis	0	0
+1.0	peacekeepers	have	arrival	O	O
+1.0	grouping	have	Treaty	O	O
+1.0	membership	have	date	O	O
+1.0	its	have	membership application	O	O
+1.0	attitude	be	favourable	0	0
+1.0	we	stabilise	situation	0	0
+1.0	government	have	installation	O	O
+1.0	violence	have	repeat	O	O
+1.0	stability	have return follow	arrival of foreign peacekeeper	0	0
+1.0	stability	have largely return follow	arrival	0	0
+1.0	Foreign Minister Jose Luis Guterres	meet	foreign ministr	PERSON	0
+1.0	new government	be in	July	0	DATE
+1.0	stability	have largely return follow	arrival of peacekeeper	0	0
+1.0	37 people	have	homes	O	O
+1.0	ruler Indonesia	have	attitude	O	LOCATION
+1.0	we	promote	democracy	0	0
+1.0	37 people	die in	clash	NUMBER	0
+1.0	you	compare death toll in	country more people	0	0
+1.0	you	compare death toll in	other country people	0	0
+1.0	situation	be in	newly independent nation	0	0
+1.0	last year	have	violence	DATE	0
+1.0	Cooperation	have	Treaty	O	O
+1.0	Foreign Minister Jose Luis Guterres	meet ministr from	association	PERSON	0
+1.0	his	have	country	O	O
+1.0	ASEAN	have	10 member	ORGANIZATION	NUMBER
+1.0	Foreign Minister Jose Luis Guterres	say at_time	Friday	PERSON	DATE
+1.0	Foreign Minister Jose Luis Guterres	meet ministr from	association of nation	PERSON	ORGANIZATION
+1.0	its	have	preparations	O	O
+1.0	last year 's deadly unrest	be in	East Timor	DATE	LOCATION
+1.0	you	compare	death toll	0	DURATION
+1.0	East Timor	have	accession	O	LOCATION
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	you	compare death toll in	other country more people	0	0
+1.0	accident	be in	a day	DURATION	DURATION
+1.0	37 people	die in	clash April	NUMBER	DATE
+1.0	year	have	violence	O	DATE
+1.0	Foreign Minister Jose Luis Guterres	meet ministr from	association of southeast asian nation	PERSON	ORGANIZATION
+1.0	people	die in	clash	0	0
+1.0	37 people	die in	clash last April	NUMBER	DATE
+1.0	50	have	crisis	O	NUMBER
+1.0	people	die in	clash April	0	DATE
+1.0	Foreign Minister Jose Luis Guterres	tell	reporter	PERSON	0
+1.0	Foreign Minister Jose Luis Guterres	meet	ministr	PERSON	0
+1.0	East Timor	have	accession	LOCATION	0
+1.0	attitude	be	very favourable	0	0
+1.0	country	have	membership	O	O
+1.0	stability	have largely return follow	arrival of foreign peacekeeper	0	0
+1.0	Foreign Minister Jose Luis Guterres	meet ministr from	association of asian nation	PERSON	ORGANIZATION
+1.0	country	of	membership	0	0
+1.0	you	compare death toll in	country people	0	0
+1.0	grouping	to	Treaty of Amity	0	0
+1.0	stability	have return follow	arrival	0	0
+1.0	stability	have return follow	arrival of peacekeeper	0	0
+1.0	ASEAN	have	application	O	O
+1.0	ASEAN	have	members	O	ORGANIZATION

@@ -1,0 +1,150 @@
+1.0	its	have	actions	O	O
+1.0	Europe	play role in	absence	LOCATION	0
+1.0	US prison camp	be in	Guantanamo Bay	LOCATION	LOCATION
+1.0	Human Rights Watch	paint	grim picture of rights abuse	ORGANIZATION	0
+1.0	EU	have	credibility	O	ORGANIZATION
+1.0	report	disappearance in	its war	0	0
+1.0	these	be glimmer of	hope	0	0
+1.0	China	have	position	O	LOCATION
+1.0	the 556-page report	have	war	O	O
+1.0	US government	after	use of detention	LOCATION	0
+1.0	world need	have	people	O	O
+1.0	Russia 's goal	further accuse	Beijing	0	LOCATION
+1.0	report	accuse	27-member bloc	0	0
+1.0	one way	people of	world need	0	0
+1.0	report	accuse	bloc	0	0
+1.0	dictators	have	people	O	O
+1.0	it	do	little	0	0
+1.0	tyrant	will enjoy	free rein	0	0
+1.0	UN system	have	credibility	O	O
+1.0	his	have	misdeeds	O	O
+0.7014476313440845	United States	practice	arbitrary detention	LOCATION	0
+1.0	its	have	weight	O	O
+1.0	EU	have	boundaries	O	ORGANIZATION
+1.0	Human Rights Watch	paint	picture of rights abuse	ORGANIZATION	0
+1.0	member	have	wishes	O	O
+0.7436758144637863	rights issue	state in	Latin America	0	LOCATION
+1.0	Russia 's goal	import	whose oil	0	0
+1.0	Russia 's goal	remain at	indifferent practice of country	0	0
+1.0	Russia	have	goal	O	LOCATION
+0.6286773441655111	North Korea	enormous cruelty	Myanmar	LOCATION	LOCATION
+1.0	Human Rights Watch	paint picture at_time	Thursday	ORGANIZATION	DATE
+1.0	rights abuses	have	picture	O	O
+1.0	whose	have	oil	O	O
+1.0	these	be	glimmer	0	0
+0.7563505200601226	they	criticism of	they rights record	0	0
+1.0	influence	have	sphere	O	O
+1.0	its	have	crackdown	O	O
+1.0	group 's director	say in	report	0	0
+1.0	China	have	position on human rights	LOCATION	0
+1.0	North Korea	be	Zimbabwe	LOCATION	LOCATION
+1.0	tyrant	will enjoy	rein	0	0
+1.0	Russia 's goal	remain at	indifferent to human rights practice of country	0	0
+1.0	migrants	have	treatment	O	O
+1.0	US government	have	use	O	O
+1.0	Russia 's goal	remain at	practice of country	0	0
+1.0	group 's director	say in	556-page report	0	0
+1.0	world	have	tyrants	O	O
+1.0	Russia 's goal	rebuild sphere among	nation	LOCATION	0
+0.536066213907059	Beijing	use	arbitrary detention	LOCATION	0
+1.0	leadership	have	absence	O	O
+1.0	Russia 's goal	accuse	Beijing	0	LOCATION
+1.0	Russia 's goal	remain at	indifferent practice	0	0
+1.0	Their	have	grumbling	O	O
+1.0	Human Rights Watch	urge	Europe	ORGANIZATION	LOCATION
+1.0	Russia 's goal	rebuild sphere among	nation of former Soviet Union	LOCATION	LOCATION
+1.0	the United States	be	the European Union	LOCATION	ORGANIZATION
+1.0	report	accuse	27-member bloc pander	0	0
+1.0	Europe	play role in	absence of leadership	LOCATION	0
+1.0	hope	have	glimmers	O	O
+1.0	these	be rare glimmer of	hope	0	0
+1.0	Russia 's goal	remain at	indifferent to human rights practice	0	0
+1.0	trend	be	bleak	0	0
+1.0	report	also accuse	bloc pander	0	0
+1.0	its dirty war	be in	Chechnya	0	LOCATION
+1.0	countries	have	critical	O	O
+1.0	group	have	director	0	0
+1.0	Russia 's goal	rebuild	sphere of influence	LOCATION	0
+1.0	Europe	play	role	LOCATION	0
+1.0	Putin	have pay price like	China	PERSON	LOCATION
+1.0	Russia	have	strength	O	LOCATION
+1.0	report	also accuse	27-member bloc	0	0
+1.0	report	also accuse	bloc	0	0
+1.0	Putin	have pay price like	President Vladimir	PERSON	PERSON
+1.0	Russia 's goal	remain at	best indifferent to rights practice	0	0
+1.0	Human Rights Watch	paint	picture	ORGANIZATION	0
+1.0	world	be in	its annual report	0	SET
+1.0	Human Rights Watch	paint picture around	world	ORGANIZATION	0
+1.0	Putin	have pay	price	PERSON	0
+1.0	European Union	do	more	ORGANIZATION	0
+1.0	report	say in	turn	0	0
+1.0	report	disappearance in	its war on terror	0	0
+1.0	torture	have	use	O	O
+1.0	their	have	rights record	O	O
+1.0	rights record	have	criticism	O	O
+1.0	their	have	people	O	O
+1.0	counter-terrorism	have	name	O	O
+1.0	Russia 's goal	rebuild sphere among	especially nation	LOCATION	0
+1.0	Russia 's goal	rebuild sphere among	especially nation of former Soviet Union	LOCATION	LOCATION
+1.0	asylum seekers	have	treatment	O	O
+1.0	Russia 's goal	remain at	best practice	0	0
+1.0	report	accuse	United States	0	LOCATION
+1.0	dictatorship	persist in	Vietnam	0	LOCATION
+1.0	Russia 's goal	remain at	best indifferent to human rights practice	0	0
+1.0	Putin	have pay	price for dancing	PERSON	0
+1.0	Europe	play	stronger role	LOCATION	0
+0.6286773441655111	North Korea	enormous cruelty on	they people	LOCATION	0
+1.0	Sudan	such as country be	North Korea	LOCATION	LOCATION
+1.0	closed dictatorship	persist in	Vietnam	0	LOCATION
+1.0	report	accuse	bloc pander	0	0
+1.0	state	be tackle	rights issue	0	0
+1.0	Iraq	urge	European Union	0	ORGANIZATION
+1.0	Russia 's goal	remain at	best practice of country	0	0
+1.0	Russia 's goal	remain at	indifferent to rights practice	0	0
+1.0	rights	have	promoter	O	O
+1.0	rights	have	champion	O	O
+1.0	its	have	27 member states	O	O
+1.0	Russia 's goal	remain at	best indifferent to rights practice of country	0	0
+1.0	report	also accuse	27-member bloc pander	0	0
+1.0	Russia 's goal	remain at	best indifferent to human rights practice of country	0	0
+1.0	China	have	strength	O	LOCATION
+1.0	its	have	member	O	O
+1.0	Europe	play role in	absence of credible leadership	LOCATION	0
+0.7014476313440845	United States	practice	detention	LOCATION	0
+1.0	it	say	pariah state	0	0
+1.0	these	be	rare glimmer	0	0
+1.0	group	's director be	Kenneth Roth	0	PERSON
+1.0	EU	have	credibility as principled promoter of human rights	ORGANIZATION	0
+1.0	disappearance	be in	its war on terror	0	0
+1.0	state	be tackle	human rights issue	0	0
+1.0	Putin	have pay	little price for dancing	PERSON	0
+1.0	Russia 's goal	remain at	best indifferent practice of country	0	0
+1.0	Europe	play role in	absence of leadership from United States	LOCATION	LOCATION
+1.0	Human Rights Watch	paint picture around	world in its report	ORGANIZATION	0
+1.0	Russia 's goal	remain at	indifferent to rights practice of country	0	0
+1.0	its	have	war	O	O
+1.0	Human Rights Watch	paint picture around	world in its annual report	ORGANIZATION	SET
+1.0	detention	have	use	O	O
+1.0	countries	have	practices	O	O
+1.0	Europe	play role in	absence of credible leadership from United States	LOCATION	LOCATION
+1.0	Soviet Union	have	nations	O	LOCATION
+0.7436758144637863	human rights issue	state in	Latin America	0	LOCATION
+1.0	Human Rights Watch	paint	grim picture	ORGANIZATION	0
+1.0	enemy combatants	have	anniversary	O	O
+1.0	Russia 's goal	rebuild	sphere	LOCATION	0
+1.0	their	have	groveling	O	O
+1.0	need	have	urgency	O	O
+1.0	Putin	have pay	little price	PERSON	0
+1.0	group	have	director	O	O
+1.0	state	be in	Latin America	0	LOCATION
+1.0	that	embrace	tyrant	0	0
+0.6286773441655111	North Korea	cruelty on	they people	LOCATION	0
+1.0	Russia 's goal	remain at	best indifferent practice	0	0
+1.0	Putin	have pay price with	dictator	PERSON	0
+1.0	Darfur	have	region	O	LOCATION
+1.0	Russia 's goal	remain at	practice	0	0
+1.0	Russia	have	goal	LOCATION	0
+0.6286773441655111	North Korea	cruelty	Myanmar	LOCATION	LOCATION
+1.0	Human Rights Watch	have	report	O	O
+1.0	UN resolutions	have	reams	O	O
+0.536066213907059	Beijing	use	detention	LOCATION	0

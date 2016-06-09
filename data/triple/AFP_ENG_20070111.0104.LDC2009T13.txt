@@ -1,0 +1,43 @@
+1.0	coalition government	bring deficit ratio by	2007	0	DATE
+1.0	so-called coalition government	bring deficit ratio back by	2007	0	DATE
+1.0	coalition government	bring back	deficit ratio	0	0
+1.0	GDP	have	percent	PERCENT	O
+1.0	Germany	architect of	stability pact	LOCATION	0
+1.0	so-called grand coalition government	bring back	deficit ratio	0	0
+1.0	left	have	coalition government	O	O
+1.0	so-called grand coalition government	bring deficit ratio by	2007	0	DATE
+1.0	Growth Pact	have	terms	O	O
+1.0	upturn	have generate	bigger than tax revenue	0	0
+1.0	product	have	percent	PERCENT	O
+1.0	so-called grand coalition government	bring	deficit ratio	0	0
+1.0	euros	have	deficit	O	MONEY
+1.0	eurozone	have	economy	O	O
+1.0	so-called coalition government	bring back	deficit ratio	0	0
+1.0	strong upturn	have generate	bigger than tax revenue	0	0
+0.9628518092501194	federal statistics office destatis	calculate on	Thursday	0	DATE
+1.0	coalition government	bring deficit ratio back by	2007	0	DATE
+0.9628518092501194	statistics office destatis	calculate on	Thursday	0	DATE
+1.0	upturn	enable	Germany	0	LOCATION
+1.0	Germany	be in	breach year	LOCATION	SET
+1.0	grand coalition government	bring deficit ratio by	2007	0	DATE
+1.0	stability pact	have	architect	O	O
+1.0	so-called coalition government	bring deficit ratio by	2007	0	DATE
+1.0	percent	have	excess	O	PERCENT
+1.0	upturn	have generate	bigger	0	0
+1.0	grand coalition government	bring deficit ratio back by	2007	0	DATE
+1.0	grand coalition government	bring	deficit ratio	0	0
+1.0	strong upturn	enable	Germany	0	LOCATION
+1.0	coalition government	bring	deficit ratio	0	0
+1.0	Germany	have	deficit	O	O
+1.0	strong upturn	be in	eurozone 's biggest economy	0	0
+1.0	limit	have	breach	O	O
+0.9652381129169338	Germany	main architect of	stability pact	LOCATION	0
+0.9652381129169338	Germany	architect of	stability pact	LOCATION	0
+1.0	Stability	have	terms	O	O
+1.0	german economy	biggest in	13-country eurozone	0	0
+1.0	right	have	coalition government	O	O
+1.0	grand coalition government	bring back	deficit ratio	0	0
+1.0	so-called coalition government	bring	deficit ratio	0	0
+1.0	so-called grand coalition government	bring deficit ratio back by	2007	0	DATE
+1.0	eurozone	in	biggest economy	0	0
+1.0	strong upturn	have generate	bigger	0	0

@@ -1,0 +1,31 @@
+1.0	Iraq	have	oil industry	LOCATION	0
+1.0	anger fueling violence	have	some	O	O
+1.0	Iraq	have	law	O	LOCATION
+1.0	US oil company	have	opportunity invest	LOCATION	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	US President George W. Bush	pass	legislation perhaps early as next month	LOCATION	DATE
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	US President George W. Bush	pass	step	LOCATION	0
+1.0	petro-socialism	have	fiefdom	O	O
+1.0	US President George W. Bush	pass	legislation perhaps as early	LOCATION	0
+1.0	US President George W. Bush	pass	legislation perhaps	LOCATION	0
+1.0	US President George W. Bush	pass	key step	LOCATION	0
+1.0	US President George W. Bush	pass	legislation perhaps early as month	LOCATION	DATE
+1.0	US President George W. Bush	pass	legislation perhaps as early as month	LOCATION	DATE
+1.0	Tony Snow	be	US President George W. Bush	PERSON	PERSON
+1.0	US oil company	have	opportunity	LOCATION	0
+1.0	US oil company	have	opportunity invest there	LOCATION	0
+1.0	Bush spokesman Tony Snow	tell	reporter	PERSON	0
+1.0	Iraq	among	Shiite	LOCATION	MISC
+1.0	Iraq	have	oil industry	O	LOCATION
+1.0	Iraq	have	pend law on oil-revenue sharing	LOCATION	0
+1.0	US President George W. Bush	pass	legislation perhaps as month	LOCATION	DATE
+1.0	hydrocarbon law	be in	Alaska	0	LOCATION
+1.0	US President George W. Bush	pass	legislation perhaps early	LOCATION	0
+1.0	Tony Snow	be spokesman of	US President George W. Bush	PERSON	PERSON
+1.0	US President George W. Bush	pass	legislation perhaps as early as next month	LOCATION	DATE
+1.0	country	have	petroleum industry	O	O
+1.0	Iraq	have	Shiite	MISC	LOCATION
+1.0	US President George W. Bush	pass	legislation	LOCATION	0
+1.0	Iraq Compact	have	Part	O	O
+1.0	US President George W. Bush	pass	legislation perhaps as next month	LOCATION	DATE

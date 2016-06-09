@@ -1,0 +1,33 @@
+1.0	A New York opera singer who says she was bitten more than 150 times by bedbugs while staying at a top class hotel in Arizona	have	bed	O	O
+1.0	her lawyer Kenneth Glassman	have	client	O	O
+1.0	trainer	be quote by	New York Daily News	0	ORGANIZATION
+1.0	array	have	part	O	O
+1.0	stay	have	result	O	O
+1.0	Hilton Suites	be in	Arizona	ORGANIZATION	LOCATION
+1.0	he	client	Alison Trainer	0	PERSON
+1.0	Alison Trainer	have	lawyer Kenneth Glassman	PERSON	O
+1.0	my	have	life	O	O
+1.0	dollars	have	millions	MONEY	MONEY
+1.0	she lawyer Kenneth Glassman	say	add	PERSON	0
+1.0	he client	still need	attention	0	0
+1.0	he client	need attention as	result	0	0
+1.0	night	have	middle	O	TIME
+1.0	he client	need attention as	result of she stay	0	0
+1.0	Alison Trainer	have	stay	O	O
+1.0	he client	still need	medical attention	0	0
+1.0	top class hotel	be in	Arizona	0	LOCATION
+1.0	my	have	career	O	O
+1.0	he client	still need attention as	result	0	0
+1.0	bugs	have	couple	O	O
+1.0	he client	need	attention	0	0
+1.0	he client	suffer	scarring	0	0
+1.0	he client	need	medical attention	0	0
+1.0	her lawyer Kenneth Glassman	tell	AFP	0	ORGANIZATION
+1.0	million of dollar	be in	compensation	MONEY	0
+1.0	he client	lose	weight	0	0
+1.0	damages	have	array	O	O
+1.0	bed	have	out leapt	O	O
+1.0	A New York opera singer who says she was bitten more than 150 times by bedbugs while staying at a top class hotel in Arizona	have	body	O	O
+1.0	he client	still need attention as	result of she stay	0	0
+1.0	five million dollar	be in	compensation	MONEY	0
+1.0	trainer	be	quote	0	0

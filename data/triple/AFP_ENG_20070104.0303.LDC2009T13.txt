@@ -1,0 +1,12 @@
+1.0	barrel	be in	electronic trading	0	0
+1.0	price	slide to	56.26 dollar per barrel	0	MONEY
+1.0	price	slide on	Thursday	0	DATE
+1.0	price	slide to	56.26 dollar per barrel in trading	0	MONEY
+1.0	price	slide to	56.26 dollar	0	MONEY
+1.0	price	slide on	lowest level	0	0
+1.0	Thursday	level since	December 28 2005	DATE	DATE
+1.0	price	slide on	level	0	0
+1.0	Brent North Sea	have	price	O	LOCATION
+1.0	price	slide on	level since December 28 2005	0	DATE
+1.0	price	slide to	56.26 dollar per barrel in electronic trading	0	MONEY
+1.0	price	slide on	lowest level since December 28 2005	0	DATE

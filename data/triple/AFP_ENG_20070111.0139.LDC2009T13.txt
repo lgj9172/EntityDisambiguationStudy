@@ -1,0 +1,40 @@
+1.0	official datum	show on	Thursday	0	DATE
+1.0	2.5 percent	be in	2006	PERCENT	DATE
+1.0	growth rate	be express	term	0	0
+1.0	growth rate	be express term as	percentage change in real	0	0
+1.0	datum	show on	Thursday	0	DATE
+1.0	german economy	grow by	its rate	0	0
+1.0	12-month percentage change	be in	real	DURATION	0
+1.0	growth	have	table	O	O
+1.0	economy	grow by	its fastest rate	0	0
+1.0	here	calculate by	destatis	0	0
+1.0	here	be table of	growth of product	0	0
+1.0	economy	grow by	its fastest rate of growth	0	0
+1.0	a table of growth of gross domestic product -LRB- GDP -RRB- and its main components for the past four years	have	components	O	O
+1.0	here	be table of	growth	0	0
+1.0	2.5 percent	by rate be	The German economy	PERCENT	0
+1.0	german economy	grow by	2.5 percent in 2006	0	PERCENT
+1.0	economy	grow in	six year	0	DURATION
+1.0	here	be table of	growth of domestic product	0	0
+1.0	growth rate	be express term as	12-month percentage change in real	0	DURATION
+1.0	economy	grow by	its rate of growth	0	0
+1.0	here	calculate by	statistics office	0	0
+1.0	here	be table of	growth of gross domestic product	0	NUMBER
+1.0	growth rate	be express term as	percentage change	0	0
+1.0	here	calculate by	federal statistics office	0	0
+1.0	german economy	grow by	its rate of growth	0	0
+1.0	german economy	grow by	its fastest rate of growth	0	0
+1.0	growth rate	be express term as	12-month percentage change	0	DURATION
+1.0	growth	have	rate	O	O
+1.0	The German economy	have	rate	O	O
+1.0	here	be	table	0	0
+1.0	german economy	grow in	six year	0	DURATION
+1.0	product	have	growth	O	O
+1.0	german economy	grow by	its fastest rate	0	0
+1.0	economy	grow by	its rate	0	0
+1.0	economy	grow by	2.5 percent in 2006	0	PERCENT
+1.0	german economy	grow by	2.5 percent	0	PERCENT
+1.0	components	have	table	O	O
+1.0	2.5 percent	rate of	growth	PERCENT	0
+1.0	here	be table of	growth of gross product	0	NUMBER
+1.0	economy	grow by	2.5 percent	0	PERCENT

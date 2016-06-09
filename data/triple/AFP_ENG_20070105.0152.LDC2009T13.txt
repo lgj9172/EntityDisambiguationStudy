@@ -1,0 +1,66 @@
+1.0	China fourth country	be in	world develop	ORDINAL	0
+1.0	China on Friday	depend on	aircraft	LOCATION	0
+1.0	China on Friday	only fourth country in	world	ORGANIZATION	0
+1.0	fighter-bomber	make	China country	0	ORGANIZATION
+1.0	video	have	model	O	O
+1.0	russian plane	design	its own version of they	0	0
+1.0	fighter	have	manufacturer	O	O
+1.0	fighter	have	manufacturer	0	0
+1.0	plane	design	its version of they	0	0
+1.0	fighter-bomber	make	China country in world	0	ORGANIZATION
+1.0	jian-10	on	specification	0	0
+1.0	China on Friday	have	fighter aircraft	O	O
+1.0	fighter-bomber	make	China fourth country in world	0	ORDINAL
+1.0	Geng Ruguang	say on	Friday	PERSON	DATE
+0.9739484694999777	the Jian-10	have in	have development since early 1990s	0	DATE
+1.0	China Aviation Industry Corporation	have	deputy manager	O	ORGANIZATION
+1.0	russian plane	design	its version	0	0
+1.0	Geng Ruguang	be quote	say by Xinhua	PERSON	ORGANIZATION
+1.0	China on Friday	have	generation jet fighter	O	O
+1.0	fighter-bomber	make	China only fourth country	0	ORDINAL
+1.0	Geng Ruguang	also say on	Friday	PERSON	DATE
+1.0	precision attack	make	long-distance assault	0	0
+1.0	country	have	missiles	O	O
+1.0	China on Friday	depend for	decade	LOCATION	0
+1.0	Geng Ruguang	be	quote	PERSON	0
+1.0	plane	design	its own version	0	0
+1.0	plane	design	its version	0	0
+1.0	precision attack	make assault at	altitude	0	0
+1.0	fighter-bomber	make	China fourth country	0	ORDINAL
+1.0	source	be	quote	0	0
+1.0	fighter-bomber	make	China only fourth country in world	0	ORDINAL
+1.0	China on Friday	be on	Friday	LOCATION	DATE
+1.0	the Jian-10	enter	active service	0	0
+1.0	Geng Ruguang	manager of	China Aviation Industry Corporation	PERSON	ORGANIZATION
+1.0	state media	report at_time	Friday	0	DATE
+1.0	the Jian-10	enter	service	0	0
+1.0	precision attack	make	assault	0	0
+1.0	fighter-bomber	make	China only country	0	ORGANIZATION
+1.0	country	with	newly-developed fourth-generation air-to-air missile	0	0
+1.0	plane	design	its own version of they	0	0
+1.0	China on Friday	have	capabilities	O	O
+1.0	China Aviation Industry Corporation	manufacturer 's	fighter	ORGANIZATION	0
+1.0	russian plane	design	its version of they	0	0
+1.0	China on Friday	fourth country in	world	ORGANIZATION	0
+1.0	Jian-10	have	model	O	O
+1.0	Geng Ruguang	say by	Xinhua	PERSON	ORGANIZATION
+1.0	Xinhua	quote	source	ORGANIZATION	0
+1.0	Geng Ruguang	be quote	say	PERSON	0
+1.0	China on Friday	have keep mum in	have development	LOCATION	0
+1.0	russian plane	design	its own version	0	0
+1.0	precision attack	make assault at	altitude above 10,000 meter	0	NUMBER
+1.0	Jian-10	have	specifications	O	O
+0.9739484694999777	the Jian-10	have in	have development	0	0
+1.0	China on Friday	depend on	russian-made aircraft	LOCATION	0
+1.0	the Jian-10	have	Taihang turbofan engine	O	O
+1.0	Xinhua	quote	military source	ORGANIZATION	0
+1.0	fighter-bomber	make	China only country in world	0	ORGANIZATION
+1.0	China on Friday	only country in	world	ORGANIZATION	0
+1.0	China on Friday	have keep mum in	have development since early 1990s	LOCATION	DATE
+1.0	China on Friday	depend on	russian-made military aircraft	LOCATION	0
+1.0	China on Friday	country in	world	ORGANIZATION	0
+1.0	plane	be	capable	0	0
+1.0	China on Friday	have	versions	O	O
+1.0	China on Friday	depend on	military aircraft	LOCATION	0
+1.0	the Jian-10 and a short video	have	versions	O	O
+1.0	press conference	be in	Beijing	0	LOCATION

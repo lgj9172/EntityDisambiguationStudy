@@ -1,0 +1,134 @@
+1.0	airplane	try	land at US base north of Baghdad	0	LOCATION
+1.0	airplane	try	land at US military base north	0	LOCATION
+1.0	aviation expert	be work in	cooperation with US official	0	LOCATION
+1.0	then	serve	interest add to grief of relative with untrue information	0	0
+1.0	mourn relative	be with	untrue information	0	0
+1.0	Transport Minister Binali Yildirim	dismiss speculation over	cause of deadly plane crash	PERSON	0
+1.0	moldovan civil aviation expert	decipher	recorder	0	0
+1.0	plane crash	have	cause	O	O
+1.0	turkish man	survive	disaster	0	0
+1.0	press report	meanwhile have suggest	possible play	0	0
+1.0	moldova-registered airplane	try	land at US base north of Baghdad	0	LOCATION
+1.0	press report	have suggest	possible play	0	0
+1.0	moldovan civil aviation expert	be work in	cooperation	0	0
+1.0	moldovan civil aviation expert	be work in	cooperation with US official	0	LOCATION
+1.0	aircraft	have	flight recorder	0	0
+1.0	plane	have	have charter by Kulak construction company	0	PERSON
+1.0	then	serve	interest add to grief of mourn relative with information	0	0
+1.0	people	have	total	O	O
+1.0	then	be	mere speculation	0	0
+1.0	moldovan aviation expert	be work in	cooperation with US official	0	LOCATION
+1.0	civil aviation expert	be work in	cooperation	0	0
+1.0	press report	have suggest	possible foul play	0	0
+1.0	official	have blame	weather	0	0
+1.0	airplane	try	land at US military base north of Baghdad	0	LOCATION
+1.0	aviation expert	decipher	recorder	0	0
+1.0	turkish Transport Minister Binali Yildirim	dismiss	speculation	PERSON	0
+1.0	Transport Minister Binali Yildirim	dismiss	speculation	PERSON	0
+1.0	aircraft 's black box	be	still decipher	0	0
+1.0	iraqi government official	cite	failure	0	0
+1.0	aircraft	have	black box	0	0
+1.0	then	serve	interest add to grief of relative with information	0	0
+1.0	iraqi government official	cite	technical failure	0	0
+1.0	moldova-registered airplane	try	land	0	0
+1.0	turkish official	have blame weather for	disaster	0	0
+1.0	Baghdad	have	US base north	O	LOCATION
+1.0	one	have	interest add to grief of mourn relative with untrue information	NUMBER	0
+1.0	relatives	have	grief	O	O
+1.0	plane	have	have charter by adana-based Kulak construction company	0	PERSON
+1.0	government official	cite failure as	possible cause	0	0
+1.0	turkish press report	meanwhile have suggest	possible foul play	0	0
+1.0	moldovan aviation expert	be work in	cooperation	0	0
+1.0	Transport Minister Binali Yildirim	dismiss speculation over	cause of plane crash	PERSON	0
+1.0	victims	have	bodies	O	O
+1.0	man	survive	disaster	0	0
+0.7185978092164151	moldova-registered airplane	fly from	city Adana	0	LOCATION
+0.7185978092164151	moldova-registered airplane	fly from	southern turkish city Adana	0	LOCATION
+1.0	turkish press report	have suggest	possible play	0	0
+1.0	moldovan civil aviation expert	be currently work in	cooperation	0	0
+1.0	civil aviation expert	be currently work in	cooperation	0	0
+0.7185978092164151	moldova-registered airplane	fly from	city	0	0
+1.0	Turkish Transport Minister Binali Yildirim on Thursday	say here in	televise remark	PERSON	0
+1.0	US force	be in	Iraq	LOCATION	LOCATION
+1.0	Binali Yildirim	be on	Thursday	PERSON	DATE
+1.0	victims	have	relatives	O	O
+1.0	aviation expert	be currently work in	cooperation	0	0
+1.0	moldovan aviation expert	be currently work in	cooperation	0	0
+1.0	plane	have	have charter	0	0
+1.0	aviation expert	be currently work in	cooperation with US official	0	LOCATION
+1.0	turkish official	have blame	weather	0	0
+1.0	then	serve	interest add to grief of mourn relative with untrue information	0	0
+0.7185978092164151	airplane	fly from	southern turkish city Adana	0	LOCATION
+1.0	Transport Minister Binali Yildirim	dismiss speculation over	cause	PERSON	0
+0.660460668196303	US force	body of	american passenger	LOCATION	0
+1.0	aircraft 's black box	be	decipher	0	0
+0.7185978092164151	airplane	fly from	turkish city Adana	0	LOCATION
+1.0	their	have	work	O	O
+1.0	turkish Transport Minister Binali Yildirim	dismiss speculation over	cause of plane crash	PERSON	0
+1.0	then	serve	interest add to grief	0	0
+1.0	government official	cite	technical failure	0	0
+1.0	Binali Yildirim	be	turkish	PERSON	0
+1.0	aircraft 's box	be	decipher	0	0
+0.7185978092164151	airplane	fly from	turkish city	0	0
+1.0	aircraft	have	boxes	O	O
+0.7185978092164151	moldova-registered airplane	fly from	southern city	0	0
+1.0	moldovan civil aviation expert	be currently work in	cooperation with US official	0	LOCATION
+1.0	cooperation	be with	US official	0	LOCATION
+1.0	turkish press report	meanwhile have suggest	possible play	0	0
+1.0	plane	have	have charter by adana-based Kulak construction company from company	0	PERSON
+1.0	then	serve	interest add to grief of relative	0	0
+1.0	then	be	speculation	0	0
+1.0	civil aviation expert	decipher	recorder	0	0
+1.0	aviation expert	be work in	cooperation	0	0
+1.0	US force	take	body	LOCATION	0
+0.7185978092164151	airplane	fly from	southern city	0	0
+1.0	airplane	try	land	0	0
+0.7185978092164151	airplane	fly from	city	0	0
+1.0	official	have blame	bad weather	0	0
+1.0	Turkish Transport Minister Binali Yildirim on Thursday	say here in	remark	PERSON	0
+1.0	turkish Transport Minister Binali Yildirim	dismiss speculation over	cause of deadly plane crash	PERSON	0
+1.0	then	serve	interest	0	0
+1.0	plane	have	have charter from company	0	0
+1.0	press report	meanwhile have suggest	possible foul play	0	0
+1.0	then	serve	interest add to grief of mourn relative	0	0
+1.0	airplane	try	land at US base north	0	LOCATION
+1.0	moldovan aviation expert	decipher	recorder	0	0
+1.0	moldova-registered airplane	try	land at US military base north of Baghdad	0	LOCATION
+1.0	passenger	have	body	O	O
+0.7185978092164151	moldova-registered airplane	fly from	southern turkish city	0	0
+1.0	plane	have	have charter by Kulak construction company from moldovian company	0	PERSON
+1.0	Transport Minister Binali Yildirim	dismiss speculation in	Iraq	PERSON	LOCATION
+1.0	civil aviation expert	be currently work in	cooperation with US official	0	LOCATION
+1.0	civil aviation expert	be work in	cooperation with US official	0	LOCATION
+1.0	plane	have	have charter by Kulak construction company from company	0	PERSON
+1.0	moldova-registered airplane	try	land at US military base north	0	LOCATION
+1.0	aircraft	have	flight recorders	O	O
+0.660460668196303	US force	body of	passenger	LOCATION	0
+1.0	then	serve	interest add	0	0
+1.0	official	have blame weather for	disaster	0	0
+1.0	moldovan aviation expert	be currently work in	cooperation with US official	0	LOCATION
+1.0	plane	have	have charter by adana-based Kulak construction company from moldovian company	0	PERSON
+0.7185978092164151	moldova-registered airplane	fly from	turkish city Adana	0	LOCATION
+1.0	iraqi government official	cite failure as	possible cause	0	0
+1.0	34-year-old man	survive	disaster	DURATION	0
+0.7185978092164151	airplane	fly from	southern turkish city	0	0
+1.0	turkish Transport Minister Binali Yildirim	dismiss speculation in	Iraq	PERSON	LOCATION
+0.7185978092164151	moldova-registered airplane	fly from	turkish city	0	0
+1.0	crash	have	cause	O	O
+0.7185978092164151	airplane	fly from	southern city Adana	0	LOCATION
+1.0	34-year-old turkish man	survive	disaster	DURATION	0
+0.7185978092164151	airplane	fly from	city Adana	0	LOCATION
+1.0	turkish official	have blame	bad weather	0	0
+1.0	Turkish Transport Minister Binali Yildirim on Thursday	say in	televise remark	PERSON	0
+1.0	US force	take	body of american passenger	LOCATION	0
+1.0	Adana	have	city	O	LOCATION
+1.0	turkish Transport Minister Binali Yildirim	dismiss speculation over	cause	PERSON	0
+1.0	aircraft 's box	be	still decipher	0	0
+1.0	plane	have	have charter from moldovian company	0	0
+1.0	US force	take	body of passenger	LOCATION	0
+0.7185978092164151	moldova-registered airplane	fly from	southern city Adana	0	LOCATION
+1.0	moldova-registered airplane	try	land at US base north	0	LOCATION
+1.0	government official	cite	failure	0	0
+1.0	Turkish Transport Minister Binali Yildirim on Thursday	say in	remark	PERSON	0
+1.0	one	have	interest	O	NUMBER
+1.0	turkish press report	have suggest	possible foul play	0	0

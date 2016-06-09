@@ -1,0 +1,38 @@
+1.0	their	have	relations	O	O
+1.0	brokerage house employee	have	wife	O	O
+1.0	Kaori Mihashi	kill	she husband	0	0
+1.0	The wife of a brokerage house employee	have	husband	O	O
+1.0	Kaori Mihashi	be	32	PERSON	NUMBER
+1.0	Kaori Mihashi	have	wife	O	PERSON
+1.0	several location	be in	Tokyo	0	LOCATION
+1.0	they relation	begin	sour after six month of marriage	0	DURATION
+1.0	Police	have	body	O	O
+1.0	his	have	violence	O	O
+1.0	husband	have	body	0	0
+1.0	her	have	husband	O	O
+1.0	they relation	sour after	six month	0	DURATION
+1.0	couple	have	have marry for three-and-a-half year	0	NUMBER
+1.0	Kaori Mihashi	wife of	Kaori Mihashi	PERSON	PERSON
+1.0	securities firm	have	employee	O	O
+1.0	her husband 's	have	head	O	O
+1.0	Kaori Mihashi	club	he head	0	0
+1.0	marriage	have	months	DURATION	O
+0.8569030897866524	her husband 's	be in	bed	0	0
+1.0	they relation	sour after	six month of marriage	0	DURATION
+1.0	they relation	begin	sour	0	0
+1.0	Kaori Mihashi	tell	police officer	0	0
+1.0	arrest	come at_time	week	0	0
+1.0	Kaori Mihashi	have	husband	O	O
+1.0	our	have	ways	O	O
+1.0	police report	say at_time	Thursday	0	DATE
+1.0	husband	have	body	O	O
+1.0	they relation	begin	sour after six month	0	DURATION
+1.0	body	have	torso	O	O
+1.0	body	have	parts	O	O
+1.0	Police	have	torso	O	O
+1.0	Kaori Mihashi	have	testimony	O	O
+1.0	her husband 's	have	violence	O	O
+1.0	Their	have	wedding	O	O
+1.0	body	be with	saw she kill	0	0
+1.0	couple	have	have marry	0	0
+1.0	Kaori Mihashi	admit in	bed	0	0

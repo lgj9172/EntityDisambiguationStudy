@@ -1,0 +1,10 @@
+1.0	US President George W. Bush	risk	fight	LOCATION	0
+1.0	chairman	warn at_time	Thursday	0	DATE
+1.0	US President George W. Bush	should send	US troops	0	LOCATION
+1.0	US President George W. Bush	risk	major fight	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Senate Foreign Relations Committee	have	chairman	O	ORGANIZATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US President George W. Bush	risk fight with	Congress	LOCATION	ORGANIZATION
+1.0	US President George W. Bush	should send us troops into	Iran	0	LOCATION
+1.0	US President George W. Bush	should send us troops across	Iraq border	0	LOCATION

@@ -1,0 +1,62 @@
+1.0	bombing	shatter ceasefire by	armed basque separatist group ETA	0	ORGANIZATION
+1.0	he	also reject	assertion	0	0
+1.0	minister	end	day of talk	0	DURATION
+1.0	he	reject assertion by	leader	0	0
+1.0	minister	tell	press conference	0	0
+1.0	Spain	have	minister	O	LOCATION
+1.0	minister	end	second day of talk with political party leader	0	DURATION
+1.0	ETA	be by	basque	ORGANIZATION	0
+1.0	minister	end	second day of talk	0	DURATION
+1.0	bombing	shatter ceasefire by	armed separatist group ETA	0	ORGANIZATION
+1.0	Spain	in	northern basque region	LOCATION	0
+1.0	ETA	have	view	O	ORGANIZATION
+1.0	he	reject	assertion	0	0
+1.0	basque police	uncover	180 kilo of explosive near car	0	NUMBER
+1.0	ETA	of	ban political wing	ORGANIZATION	0
+1.0	bombing	kill	two man	0	NUMBER
+1.0	bombing	shatter	ceasefire	0	0
+1.0	Atxondo	have	town	O	LOCATION
+1.0	Spain	have	region	O	LOCATION
+1.0	explosives	have	kilos	O	O
+1.0	police	uncover	180 kilo	0	NUMBER
+1.0	bomb blast	have	warn	O	O
+1.0	police	uncover	180 kilo of explosive	0	NUMBER
+1.0	police	work accord to	Rubalcaba	0	PERSON
+1.0	view	be	sufficient	0	0
+1.0	police	uncover	180 kilo of explosive near abandon car	0	NUMBER
+1.0	talks	have	day	DURATION	O
+1.0	explosives found recently in Spain 's northern Basque region	have	kilos	O	O
+1.0	minister	end	second day	0	DURATION
+1.0	minister	end	day of talk with party leader	0	DURATION
+1.0	December 30 bomb blast	be in	Madrid	DATE	LOCATION
+1.0	talk	be with	political party leader	DURATION	DURATION
+1.0	bombing	have	telephone warnings	O	O
+1.0	wing	have	leader	O	O
+1.0	he	reject assertion by	leader of ETA 's ban wing	0	ORGANIZATION
+1.0	basque police	uncover	180 kilo	0	NUMBER
+1.0	he	also reject assertion by	leader of ETA 's ban wing	0	ORGANIZATION
+1.0	which	have	one	NUMBER	O
+1.0	minister	end	second day of talk with party leader	0	DURATION
+1.0	ETA	have	name	O	ORGANIZATION
+1.0	minister	end	day of talk with political party leader	0	DURATION
+1.0	ETA	have	view	ORGANIZATION	0
+0.9475375590847931	two detainee	suspect	ETA member	NUMBER	ORGANIZATION
+1.0	police	work on	thesis	0	0
+1.0	bombing	shatter ceasefire by	basque separatist group ETA	0	ORGANIZATION
+1.0	basque police	uncover	180 kilo of explosive	0	NUMBER
+1.0	ETA	's wing be	Arnaldo Otegi	ORGANIZATION	PERSON
+1.0	he	also reject assertion by	leader of ETA 's wing	0	ORGANIZATION
+1.0	he	be	wrong	0	0
+1.0	bombing	kill	two ecuadoran man	0	NUMBER
+1.0	bombing	be in	car park at Madrid airport	0	LOCATION
+1.0	bombing	shatter ceasefire by	separatist group ETA	0	ORGANIZATION
+1.0	minister	end	day	0	DURATION
+1.0	he	reject assertion by	leader of ETA 's wing	0	ORGANIZATION
+1.0	Asier Larrinaga	may	may have link	PERSON	0
+1.0	basque police	uncover	180 kilo of explosive near abandon car	0	NUMBER
+1.0	telephone warnings	have	one	NUMBER	O
+1.0	bombing	shatter	nine-month ceasefire	0	DURATION
+1.0	Batasuna	be	Arnaldo Otegi	ORGANIZATION	PERSON
+1.0	ETA	have	wing	O	ORGANIZATION
+1.0	he	also reject assertion by	leader	0	0
+1.0	police	uncover	180 kilo of explosive near car	0	NUMBER

@@ -1,0 +1,66 @@
+1.0	media baron	have	subsidiary	O	O
+1.0	we	learn	nothing	0	0
+1.0	Paris car crash	be in	1997	LOCATION	DATE
+1.0	News International	use	paparazzi shot	ORGANIZATION	0
+1.0	Prince William	have	girlfriend	O	PERSON
+1.0	mother	have	death	O	O
+0.9131970950663901	Henri Paul	be	kill	PERSON	0
+1.0	News International	have	newspapers	O	O
+1.0	Prime Minister Tony Blair	have	government	O	PERSON
+1.0	Prince William 's	have	mother	O	PERSON
+1.0	she relationship	be with	Prince William 's	0	PERSON
+1.0	Wales	have	princess	O	LOCATION
+1.0	Diana , princess of Wales	have	life	O	PERSON
+1.0	photographers pursuing Kate Middleton	have	scenes	O	O
+1.0	inquest	have	midst	O	O
+1.0	it	be	grotesque	0	0
+1.0	House of Commons	be of	Jack Straw	ORGANIZATION	PERSON
+1.0	Kate Middleton	eventually become	king	PERSON	0
+1.0	sight	be	reminiscent	0	0
+0.9131970950663901	Henri Paul	be kill in	Paris car crash	PERSON	LOCATION
+1.0	John Major	premier between	1990 and 1997	PERSON	DATE
+1.0	major	write to	Times newspaper	0	ORGANIZATION
+1.0	photographers	have	Dozens	O	O
+1.0	Kate Middleton	have	paparazzi shots	O	LOCATION
+1.0	Prince Harry	have	mother	O	PERSON
+1.0	News International	subsidiary of	media baron	ORGANIZATION	0
+1.0	News International	use	paparazzi shot of Middleton	ORGANIZATION	LOCATION
+1.0	west	have	Chelsea district	O	O
+1.0	Prince William 's	have	queen	O	O
+1.0	Cabinet minister	be in	House of Commons leader Jack Straw , also	ORGANIZATION	PERSON
+1.0	House of Commons leader Jack Straw , also	house of	Jack Straw	PERSON	PERSON
+1.0	Kate Middleton	have	relationship	O	O
+1.0	we	learn nothing from	death	0	0
+1.0	Jack Straw	be of	House of Commons	PERSON	ORGANIZATION
+1.0	Diana , princess of Wales	have	death	O	PERSON
+1.0	Rupert Murdoch	have	News Corporation empire	PERSON	ORGANIZATION
+1.0	William	of	girlfriend Thursday	PERSON	DATE
+1.0	Diana , princess of Wales	princess of	Wales	PERSON	LOCATION
+1.0	Tony Blair	's government be	House of Commons	PERSON	ORGANIZATION
+1.0	Cabinet minister	join	debate	ORGANIZATION	0
+1.0	John Major	have	chauffeur	O	O
+1.0	woman	be	he queen	0	0
+1.0	we	learn nothing from	death of Diana	0	PERSON
+1.0	camera crews	have	Dozens	O	O
+1.0	Kate Middleton	have	privacy	O	O
+1.0	media	have	attention	O	O
+1.0	Commons leader Jack Straw	have	House	ORGANIZATION	PERSON
+1.0	Jack Straw	be leader of	House of Commons	PERSON	ORGANIZATION
+1.0	House of Commons	be government of	Tony Blair	ORGANIZATION	PERSON
+1.0	Kate Middleton	have	boyfriend Dodi Fayed	PERSON	O
+1.0	major	write in	letter	0	0
+1.0	News International	have ban	its newspaper	ORGANIZATION	0
+1.0	privacy	have	invasion	O	O
+1.0	sight	be	eerily reminiscent	0	0
+1.0	Kate Middleton	become	king	PERSON	0
+1.0	Tony Blair	in	government	PERSON	0
+1.0	The princess , her boyfriend Dodi Fayed and his chauffeur Henri Paul were killed in a Paris car crash in 1997 , speeding away from paparazzi .	learn	nothing	0	0
+1.0	Cabinet minister	join debate at_time	Thursday	ORGANIZATION	DATE
+1.0	Rupert Murdoch	have	News Corporation empire	O	PERSON
+0.9131970950663901	Henri Paul	be kill in	Paris car crash in 1997	PERSON	LOCATION
+1.0	those	have	reminiscent	O	O
+1.0	Kate Middleton	have	London	LOCATION	O
+1.0	photographers	have	sight	O	O
+1.0	woman	tip	he queen	0	0
+1.0	News International	have ban	newspaper	ORGANIZATION	0
+1.0	girlfriend	have	press harassment	O	O

@@ -1,0 +1,120 @@
+1.0	Bernhard	have	departure	PERSON	0
+1.0	he	be	tip	0	0
+1.0	VW share	be	up at 83.12 euro GMT	ORGANIZATION	MISC
+1.0	he	be	overlook	0	0
+1.0	VW	have	board chief	O	ORGANIZATION
+1.0	DaimlerChrysler	have	loss-making Chrysler unit slash there	ORGANIZATION	ORGANIZATION
+1.0	Audi	have	head	O	ORGANIZATION
+1.0	46-year-old marathon runner	be with	movie star	DURATION	0
+1.0	darling	oversee restructuring at_time	week	0	DURATION
+1.0	Wolfgang Bernhard	have	role	O	O
+1.0	VW share	be	up 0.63 percent at 83.12 euro GMT follow announcement of Bernhard 's departure	ORGANIZATION	MISC
+1.0	Bernd Pischetsrieder	have	shock departure	O	PERSON
+0.33821287129516114	Wolfgang Bernhard	executive follow	shock departure	0	0
+1.0	he	join vw board in	February 2005	0	DATE
+1.0	Bernhard	have	departure	O	PERSON
+1.0	Bernhard	have	answer	DURATION	DURATION
+1.0	report	be in	Der Spiegel magazine	0	ORGANIZATION
+1.0	VW share	be up gmt follow	announcement	ORGANIZATION	0
+1.0	Europe 's biggest carmaker Volkswagen	say in	statement	ORGANIZATION	0
+1.0	VW brand	have just go into	red for first time in decade	DURATION	ORDINAL
+1.0	VW brand	have go into	red for time in decade	DURATION	DURATION
+1.0	VW share	be	up 0.63 percent GMT follow announcement of Bernhard 's departure	ORGANIZATION	MISC
+1.0	he	be overlook in	favour	0	0
+1.0	luxury carmaker Porsche	exert influence over	volkswagen	ORGANIZATION	0
+0.5090270115384484	cost-cutting measure	previous limit	broker	DURATION	0
+1.0	increase competition	be in	China	DURATION	LOCATION
+1.0	he	succeed	Bernd Pischetsrieder	0	PERSON
+1.0	Skoda	be	Bentley	LOCATION	PERSON
+1.0	VW share	be	up 0.63 percent at 83.12 euro at 1543 GMT follow announcement of Bernhard 's departure	ORGANIZATION	MISC
+1.0	VW brand	have just go into	red for time	DURATION	0
+1.0	VW share	be	up 0.63 percent at 83.12 euro GMT	ORGANIZATION	MISC
+1.0	Winterkorn	have	offer	O	ORGANIZATION
+1.0	Winterkorn	have	offer accept at group	ORGANIZATION	0
+1.0	VW	of	supervisory board chief	ORGANIZATION	0
+0.33821287129516114	Wolfgang Bernhard	chief executive follow	shock departure	0	0
+1.0	VW share	be	up 0.63 percent GMT	ORGANIZATION	MISC
+1.0	price war	be in	United States	DURATION	LOCATION
+1.0	VW share	be	up at 83.12 euro GMT follow announcement	ORGANIZATION	MISC
+1.0	November	have	stake	O	O
+1.0	Bernhard	have	answer	O	PERSON
+1.0	Europe 's biggest carmaker Volkswagen	brand	Wolfgang Bernhard	0	PERSON
+1.0	VW brand	have go into	red for first time	DURATION	ORDINAL
+1.0	responsibilities	have	reorganisation	O	O
+1.0	January	have	agreement	O	DATE
+1.0	Thursday	have	re-organisation	O	DATE
+1.0	DaimlerChrysler	have	Chrysler unit	O	ORGANIZATION
+1.0	VW brand	have just go into	red for first time	DURATION	ORDINAL
+1.0	board chief	have	family	O	O
+1.0	reorganisation	have	part	O	O
+1.0	he	be	credit	0	0
+1.0	Europe	have	carmaker Volkswagen	ORGANIZATION	LOCATION
+1.0	Europe	have	volkswagen	LOCATION	0
+1.0	hours	have	limit	O	DURATION
+1.0	luxury carmaker Porsche	must launch	takeover bid	0	0
+1.0	VW share	be gmt follow	announcement	ORGANIZATION	0
+1.0	VW brand	have go as	result of demand	DURATION	DURATION
+0.33821287129516114	Wolfgang Bernhard	executive follow	shock departure of Bernd Pischetsrieder	0	PERSON
+1.0	VW share	be	GMT	ORGANIZATION	MISC
+1.0	flagship VW brand	have	head	O	O
+1.0	Europe 's carmaker volkswagen	say at_time	Thursday	LOCATION	DATE
+1.0	VW	be	Skoda	ORGANIZATION	ORGANIZATION
+1.0	VW share	be	up at 83.12 euro at 1543 GMT follow announcement of Bernhard 's departure	ORGANIZATION	MISC
+1.0	Volkswagen group	have	role	O	O
+1.0	group	be re-organise with	different brand	0	0
+1.0	VW brand	have just go as	result	DURATION	0
+1.0	VW share	be	up 0.63 percent GMT follow announcement	ORGANIZATION	MISC
+1.0	luxury carmaker Porsche	exert	more influence	ORGANIZATION	0
+1.0	VW share	be	up 0.63 percent at 83.12 euro GMT follow announcement	ORGANIZATION	MISC
+1.0	Europe 's biggest carmaker Volkswagen	have	flagship VW brand	O	O
+1.0	Martin Winterkorn	head of	Audi	PERSON	ORGANIZATION
+1.0	VW brand	have go into	red for first time in decade	DURATION	ORDINAL
+1.0	group	have	structuring	O	O
+0.5090270115384484	measure	limit	broker	DURATION	0
+1.0	luxury carmaker Porsche	must launch takeover bid under	german law	0	0
+1.0	20,000 job	be in	Germany	NUMBER	LOCATION
+1.0	VW share	be gmt follow	announcement of Bernhard 's departure	ORGANIZATION	PERSON
+1.0	first time	be in	a decade	ORDINAL	DURATION
+1.0	luxury carmaker Porsche	gain	30-percent hold	0	0
+1.0	demand	have	result	O	O
+1.0	Volkswagen brand	have	chief	O	O
+1.0	Bernhard 's departure	have	have rumour	PERSON	0
+1.0	Wolfgang Bernhard	runner with	movie star	PERSON	0
+1.0	group	be	re-organise	0	0
+1.0	Bugatti	be	Audi	PERSON	ORGANIZATION
+1.0	Europe 's biggest carmaker volkswagen	say at_time	Thursday	LOCATION	DATE
+1.0	luxury carmaker Porsche	exert	influence	ORGANIZATION	0
+1.0	luxury carmaker Porsche	be	poise	ORGANIZATION	0
+0.5090270115384484	cost-cutting measure	limit	broker	DURATION	0
+1.0	luxury carmaker Porsche	must launch takeover bid under	law	0	0
+0.33821287129516114	Wolfgang Bernhard	chief executive follow	shock departure of Bernd Pischetsrieder	0	PERSON
+1.0	Thursday	until	re-organisation	DATE	0
+1.0	VW brand	have go into	red for time	DURATION	0
+1.0	VW brand	have go into	red	DURATION	0
+1.0	departure	have	announcement	O	O
+1.0	darling	oversee	restructuring	0	0
+0.5090270115384484	measure	previous limit	broker	DURATION	0
+1.0	VW share	be	up GMT	ORGANIZATION	MISC
+1.0	VW share	be	up at 83.12 euro at 1543 GMT follow announcement	ORGANIZATION	MISC
+1.0	he	join	VW board	0	ORGANIZATION
+1.0	Bernhard	of	departure	PERSON	0
+1.0	darling	oversee	major restructuring	0	0
+1.0	VW brand	have just go as	result of demand	DURATION	DURATION
+1.0	Bernhard 's answer	introduce measure compare with	previous limit	DURATION	0
+1.0	VW brand	have just go as	result of slack demand	DURATION	DURATION
+1.0	VW brand	have just go into	red for time in decade	DURATION	DURATION
+1.0	VW brand	have go as	result	DURATION	0
+1.0	VW share	be	up 0.63 percent at 83.12 euro at 1543 GMT follow announcement	ORGANIZATION	MISC
+1.0	he	be overlook in	favour of Winterkorn	0	PERSON
+1.0	VW brand	have go as	result of slack demand	DURATION	DURATION
+1.0	Bernhard 's answer	introduce measure compare with	limit	DURATION	0
+1.0	VW share	be	up at 83.12 euro GMT follow announcement of Bernhard 's departure	ORGANIZATION	MISC
+1.0	luxury carmaker Porsche	gain	30-percent	0	0
+1.0	VW share	be	up 0.63 percent at 83.12 euro at 1543 GMT	ORGANIZATION	MISC
+1.0	group	be re-organise with	brand	0	0
+1.0	VW share	be up gmt follow	announcement of Bernhard 's departure	ORGANIZATION	PERSON
+1.0	VW brand	have just go into	red	DURATION	0
+1.0	markets	have	darling	O	O
+1.0	VW brand	have	restructuring	O	O
+1.0	VW share	be	up at 83.12 euro at 1543 GMT	ORGANIZATION	MISC
+1.0	Martin Winterkorn	have	favour	O	PERSON

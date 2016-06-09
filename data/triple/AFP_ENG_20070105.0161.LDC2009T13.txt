@@ -1,0 +1,80 @@
+1.0	bluefin tuna	be in	Mediterranean	0	LOCATION
+1.0	2007	have	auction	O	DATE
+1.0	bluefin	net about	35,000 dollar in first auction of 2007	0	ORDINAL
+1.0	Japan	have accept	major cut in its quota	LOCATION	0
+1.0	bluefin	net at	Tsukiji fish market on Friday	0	LOCATION
+1.0	pig	have	year	DATE	O
+1.0	Japan	have accept	cut	LOCATION	0
+1.0	Japan	have also accept cut for	southern bluefin tuna in Pacific Ocean	LOCATION	LOCATION
+1.0	bluefin	net about	35,000 dollar in first auction	0	ORDINAL
+1.0	Japan	eat	quarter of world 's tuna	LOCATION	DURATION
+1.0	import crunch	be in	Japan	0	LOCATION
+1.0	Japan	have also accept	major cut in its quota	LOCATION	0
+1.0	Japan	have also accept cut for	southern bluefin tuna	LOCATION	0
+1.0	Japan	have also accept	cut in its quota	LOCATION	0
+1.0	commission	lead to	import crunch in Japan	0	LOCATION
+0.01311160545069101	commission	reduce to	29,500 ton for 2007	0	NUMBER
+1.0	southern bluefin tuna	be in	Pacific Ocean	0	LOCATION
+1.0	Japan	face	pressure	LOCATION	0
+0.01311160545069101	international commission	reduce to	29,500 ton for 2007	0	NUMBER
+1.0	Japan	have accept cut as	punishment for overfishing	LOCATION	0
+1.0	world	have	tuna	O	O
+1.0	it	may	may year of pig	0	DATE
+1.0	Japan	eat	quarter	LOCATION	DURATION
+1.0	Japan	have also accept	cut	LOCATION	0
+1.0	Japan	have accept cut for	bluefin tuna	LOCATION	0
+0.01311160545069101	commission	reduce to	29,500 ton	0	NUMBER
+1.0	world	have	fish market	O	O
+1.0	Japan	have also accept cut for	bluefin tuna	LOCATION	0
+1.0	Japan	have also accept cut as	punishment	LOCATION	0
+1.0	international commission	likely lead to	import crunch in Japan	0	LOCATION
+1.0	commission	reduce	world 's catch	0	0
+1.0	Japan	have also accept cut for	bluefin tuna in Pacific Ocean	LOCATION	LOCATION
+0.01311160545069101	commission	reduce from	32,000 ton	0	NUMBER
+1.0	world	have	gross catch of bluefin tuna in Mediterranean	0	NUMBER
+1.0	international commission	likely lead to	import crunch	0	0
+1.0	world	of	tuna	0	DURATION
+1.0	bluefin tuna	have	catch	O	O
+1.0	commission	lead to	import crunch	0	0
+1.0	international commission	reduce	world 's catch	0	0
+1.0	international commission	lead to	import crunch	0	0
+1.0	Masaki Kimura	be spokesman of	Kiyomura	PERSON	PERSON
+1.0	major cut	be in	its quota	0	0
+1.0	it	may	may year	0	DATE
+1.0	car	have	price	O	O
+1.0	Japan	have accept cut for	bluefin tuna in Pacific Ocean	LOCATION	LOCATION
+1.0	extinction	have	brink	O	O
+1.0	Japan	have also accept cut as	punishment for overfishing	LOCATION	0
+1.0	bluefin	net about	35,000 dollar	0	MONEY
+1.0	Japan	have accept cut as	punishment	LOCATION	0
+1.0	world	at	largest fish market	0	0
+1.0	international commission	lead to	import crunch in Japan	0	LOCATION
+1.0	tuna	be king in	Japan	0	LOCATION
+0.01311160545069101	international commission	reduce from	32,000 ton	0	NUMBER
+0.01311160545069101	international commission	reduce to	29,500 ton	0	NUMBER
+1.0	commission	likely lead to	import crunch	0	0
+1.0	Japan	have accept	major cut	LOCATION	0
+1.0	tuna	be	king	0	0
+1.0	tuna	have	end prices	O	O
+1.0	world 's tuna	more than	other country	DURATION	0
+1.0	Japan	have	quota	O	O
+1.0	tuna	be still king in	Japan	0	LOCATION
+1.0	Japan	have accept cut for	southern bluefin tuna	LOCATION	0
+1.0	Masaki Kimura	be	Kiyomura	PERSON	PERSON
+1.0	35,000 dollar	be in	first auction of 2007	MONEY	ORDINAL
+1.0	bluefin	net about	35,000 dollar in auction	0	MONEY
+1.0	Japan	have also accept	major cut	LOCATION	0
+1.0	bluefin	net at	Tsukiji fish market	0	LOCATION
+1.0	world	have	catch	O	O
+1.0	bluefin tuna in the Mediterranean	have	price	O	O
+1.0	commission	likely lead to	import crunch in Japan	0	LOCATION
+1.0	Japan	have accept	cut in its quota	LOCATION	0
+1.0	tuna	be	still king	0	0
+1.0	world	's tuna be	more than other country	0	DURATION
+1.0	tuna	have	quarter	DURATION	O
+1.0	king	be in	Japan	0	LOCATION
+1.0	Japan	have accept cut for	southern bluefin tuna in Pacific Ocean	LOCATION	LOCATION
+1.0	bluefin	net about	35,000 dollar in auction of 2007	0	DATE
+1.0	day	have	sale	O	DATE
+1.0	international commission	be in	November	0	DATE
+1.0	year	have	bluefin tuna bidding	O	DATE

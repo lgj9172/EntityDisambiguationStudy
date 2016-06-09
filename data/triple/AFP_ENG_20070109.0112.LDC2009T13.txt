@@ -1,0 +1,80 @@
+1.0	Russia	pay	45-dollar-per-tonne fee	LOCATION	0
+1.0	Russian officials	halt	oil export	0	0
+1.0	official	fly to	european country	0	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline	LOCATION	0
+1.0	republic	have	demand	O	O
+1.0	Russian officials	halt	crude oil export via Belarus pipeline network	0	LOCATION
+1.0	belarussian official	fly to	several country	0	0
+1.0	Russian officials	halt oil export after	first trading allegation with Belarus counterpart	0	ORDINAL
+1.0	Russian officials	halt oil export since	Monday	0	DATE
+1.0	official	fly to	Moscow follow cut	0	LOCATION
+0.563282089210161	Russia	fee for	oil transit through pipeline across its territory	LOCATION	0
+1.0	Russian officials	halt	crude oil export	0	0
+1.0	ex-soviet republic	have	illegal demand for transit fee	0	0
+1.0	talk	end at_time	Tuesday	0	DATE
+0.563282089210161	Russia	fee for	oil transit	LOCATION	0
+1.0	Russia	cut	oil supplies	LOCATION	0
+1.0	russian official	acknowledge at_time	Tuesday	0	DATE
+1.0	Russian officials	halt oil export after	trading allegation	0	0
+1.0	Belarus	with	Andrei Kobyakov	LOCATION	PERSON
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	official	fly through	Druzhba pipeline	0	LOCATION
+1.0	Russia	pay	fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	speak with	Belarus ' Deputy Prime Minister Andrei Kobyakov	PERSON	LOCATION
+1.0	belarussian official	fly from	Russia	0	LOCATION
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil	LOCATION	0
+1.0	belarussian official	fly to	several european country	0	0
+1.0	their	have	energy sources	O	O
+1.0	oil	have	siphoning	O	O
+1.0	belarussian official	fly to	Moscow	0	LOCATION
+1.0	belarussian official	fly to	Moscow follow cut	0	LOCATION
+1.0	Russian officials	halt oil export after	trading allegation with Belarus counterpart	0	LOCATION
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit	LOCATION	0
+1.0	official	fly to	several european country	0	0
+1.0	official	fly to	several country	0	0
+1.0	energy supply	have	sources	O	O
+1.0	Russia	cut	oil supplies via Belarus	LOCATION	LOCATION
+1.0	Belarus	be in	response	LOCATION	0
+1.0	Vladimir Putin	be	Russian	PERSON	MISC
+1.0	belarussian official	fly through	Druzhba pipeline	0	LOCATION
+1.0	Belarus	be to	European Union	LOCATION	ORGANIZATION
+1.0	Russian officials	halt oil export after	first trading allegation	0	ORDINAL
+0.563282089210161	Russia	fee for	oil	LOCATION	0
+1.0	countries	have	borders	O	O
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline across its territory	LOCATION	0
+1.0	petrol shipments	have	shutting	O	O
+1.0	Belarus	have	Deputy Prime Minister Andrei Kobyakov	PERSON	LOCATION
+1.0	cut	be in	oil supplies	0	0
+1.0	official	fly to	Moscow	0	LOCATION
+1.0	we	have	demand	O	O
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline	LOCATION	0
+1.0	official	fly through	Druzhba pipeline across Belarus	0	LOCATION
+1.0	belarussian official	fly to	Moscow follow cut in oil supplies	0	LOCATION
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	row	have	effects	O	O
+1.0	official	fly to	country	0	0
+1.0	official	fly from	Russia	0	LOCATION
+1.0	Russian officials	halt	oil export via Belarus pipeline network	0	LOCATION
+1.0	first trading allegation	be with	Belarus counterpart	ORDINAL	LOCATION
+1.0	official	acknowledge at_time	Tuesday	0	DATE
+1.0	Russia	pay	fee	LOCATION	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit	LOCATION	0
+1.0	Russia	pay	fee for oil transit through pipeline	LOCATION	0
+1.0	russian news agency	have	have lift	0	0
+1.0	belarussian official	fly to	european country	0	0
+1.0	Russia	have	territory	O	O
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	speak after	meeting	PERSON	0
+1.0	belarussian official	fly through	Druzhba pipeline across Belarus	0	LOCATION
+1.0	confidence	be in	Moscow	0	LOCATION
+1.0	Russia	pay	fee for oil transit	LOCATION	0
+1.0	Angela Merkel	be	German	PERSON	MISC
+1.0	news agency	have	have lift	0	0
+1.0	official	fly to	Moscow follow cut in oil supplies	0	LOCATION
+1.0	Russia	pay	fee for oil	LOCATION	0
+1.0	Economic Development Minister German Gref as saying that `` we are ready to begin talks on all questions as soon as illegal and unprecedented measures such as the transit tax and shutting down of petrol shipments	speak after	long meeting	PERSON	0
+1.0	talk	end here at_time	Tuesday	0	DATE
+0.563282089210161	Russia	fee for	oil transit through pipeline	LOCATION	0
+1.0	belarussian official	fly to	country	0	0
+1.0	Russia	cut	oil supplies via Belarus in response	LOCATION	LOCATION
+1.0	Russia	pay	45-dollar-per-tonne fee for oil	LOCATION	0

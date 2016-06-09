@@ -1,0 +1,84 @@
+1.0	crucial vote	will	will transition from rule	0	0
+1.0	newspaper group	have	head	O	O
+1.0	vote	will	will first transition	0	ORDINAL
+1.0	Olusegun Obasanjo	be illegally shareholder in	private airline	PERSON	0
+1.0	nigerian guild	say day on	Tuesday	0	DATE
+0.633593924617174	nigerian guild	say in	statement	0	0
+1.0	Olusegun Obasanjo	be illegally shareholder in	airline	PERSON	0
+1.0	elections	have	Nigeria	LOCATION	O
+0.633593924617174	nigerian guild	say in	statement that invasion of leadership newspaper	0	ORGANIZATION
+1.0	weekly	have	edition	O	SET
+1.0	nigerian guild	say day in	statement that invasion	0	0
+1.0	guild	say	day	0	DATE
+0.633593924617174	guild	say in	statement	0	0
+1.0	crucial vote	choose	successor	0	0
+1.0	guild	say day in	statement	0	0
+1.0	tension	be rise in	Nigeria of election	0	LOCATION
+1.0	newspapers	have	raids	O	O
+1.0	SSS	invade premise over	story	ORGANIZATION	0
+1.0	nigerian guild	say day in	statement	0	0
+1.0	SSS	invade	premise	ORGANIZATION	0
+1.0	Olusegun Obasanjo	be shareholder in	airline	PERSON	0
+1.0	years	have	terms	O	DURATION
+1.0	country	have	nascent democracy	0	0
+0.633593924617174	nigerian guild	say on	Tuesday	0	DATE
+0.633593924617174	nigerian guild	say in	statement that invasion	0	0
+1.0	vote	will	will first transition from rule	0	ORDINAL
+1.0	guild	say day in	statement that invasion	0	0
+1.0	vote	will	will first transition from civilian rule	0	ORDINAL
+1.0	SSS	invade	premise of Abuja Inquirer	ORGANIZATION	ORGANIZATION
+1.0	nigerian guild	say	day	0	DATE
+1.0	nigerian guild	say	day by officer	0	DATE
+1.0	Leadership newspaper	have	Abuja office	O	O
+1.0	SSS	invade premise on	Wednesday	ORGANIZATION	DATE
+1.0	Abuja office	be	search	LOCATION	0
+1.0	tension	be rise in	April	0	DATE
+1.0	crucial vote	will	will transition from civilian rule	0	0
+1.0	crucial vote	be in	west african country	0	0
+1.0	nigerian guild	say	day by officer of State Security Service	0	DATE
+1.0	shareholder	be in	private airline	0	0
+1.0	Editors	have	Guild	ORGANIZATION	ORGANIZATION
+1.0	Abuja Inquirer	have	premises	O	ORGANIZATION
+1.0	State Security Service	have	officers	O	ORGANIZATION
+1.0	guild	say	follow day by officer of State Security Service	0	DATE
+0.633593924617174	guild	say in	statement that invasion	0	0
+1.0	tension	be rise in	Nigeria	0	LOCATION
+1.0	country	have	democracy	O	O
+1.0	guild	say	day by officer	0	DATE
+1.0	Olusegun Obasanjo	be	illegally shareholder	PERSON	0
+1.0	raid	come at_time	barely 24 hour	0	DURATION
+1.0	vote	choose	successor	0	0
+1.0	nigerian guild	say	follow day by officer	0	DATE
+1.0	guild	say day on	Tuesday	0	DATE
+1.0	vote	will	will transition from civilian rule	0	0
+1.0	tension	be rise in	Nigeria ahead of election	0	LOCATION
+1.0	crucial vote	will	will first transition	0	ORDINAL
+1.0	crucial vote	will	will transition from civilian civilian rule	0	0
+1.0	Leadership newspaper	have	invasion	O	O
+1.0	guild	say	follow day	0	DATE
+1.0	crucial vote	will	will transition	0	0
+1.0	crucial vote	will	will first transition from civilian rule	0	ORDINAL
+1.0	guild	say	day by officer of State Security Service	0	DATE
+1.0	vote	will	will transition from rule	0	0
+1.0	this week	have	raid of two private newspaper	DATE	NUMBER
+1.0	story	be in	current edition of weekly	0	SET
+1.0	vote	will	will transition	0	0
+1.0	Olusegun Obasanjo	be	shareholder	PERSON	0
+1.0	nigerian guild	say	follow day	0	DATE
+1.0	vote	will	will transition from civilian civilian rule	0	0
+1.0	crucial vote	will	will first transition from civilian civilian rule	0	ORDINAL
+0.633593924617174	guild	say on	Tuesday	0	DATE
+1.0	company	have	official	O	O
+1.0	crucial vote	will	will first transition from rule	0	ORDINAL
+1.0	guild	say day in	statement that invasion of leadership newspaper	0	ORGANIZATION
+1.0	Olusegun Obasanjo	be shareholder in	private airline	PERSON	0
+1.0	guild	say	follow day by officer	0	DATE
+1.0	nigerian guild	say day in	statement that invasion of leadership newspaper	0	ORGANIZATION
+1.0	tension	be rise in	Nigeria of gubernatorial election	0	LOCATION
+1.0	tension	be rise in	Nigeria ahead of gubernatorial election	0	LOCATION
+1.0	SSS	invade premise over	story in edition	ORGANIZATION	0
+1.0	vote	will	will first transition from civilian civilian rule	0	ORDINAL
+1.0	nigerian guild	say	follow day by officer of State Security Service	0	DATE
+0.633593924617174	guild	say in	statement that invasion of leadership newspaper	0	ORGANIZATION
+1.0	SSS	invade premise over	story in current edition	ORGANIZATION	DATE
+1.0	week	have	raids	O	DATE

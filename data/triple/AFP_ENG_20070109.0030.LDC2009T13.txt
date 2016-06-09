@@ -1,0 +1,104 @@
+0.5205416861437989	arm	rebel from	minority tribe in vast western province	0	0
+1.0	Beshir	reject there	large-scale UN troop deployment	PERSON	ORGANIZATION
+1.0	President Omar al-Beshir	have	government	O	PERSON
+1.0	official SANA agency	get	rebel	ORGANIZATION	0
+1.0	violence	be in	Darfur	0	LOCATION
+1.0	United Nations	call on	government of President Omar al-Beshir	ORGANIZATION	PERSON
+1.0	rebels from minority tribes in the vast western province	have	names	O	O
+0.14130322439590892	Swedish diplomat	stress	UN 's determination work with au	MISC	ORGANIZATION
+0.5262329739201279	interim envoy	arrive from	African Union	0	LOCATION
+1.0	war	be in	Darfur	0	LOCATION
+1.0	Khartoum government	sign peace agreement with	faction	LOCATION	0
+0.5205416861437989	arm	rebel from	minority tribe in vast province	0	0
+1.0	SANA agency	get	rebel	ORGANIZATION	0
+1.0	Khartoum government	sign peace agreement with	main faction lead	LOCATION	0
+1.0	headquarters	be in	Addis Ababa	0	LOCATION
+1.0	New United Nations Secretary General Ban Ki-moon	have make	Darfur he top concern	PERSON	LOCATION
+1.0	rebel	prompt	heavy	0	0
+1.0	UN interim representative	arrive on	Tuesday	ORGANIZATION	DATE
+1.0	The interim envoy	also discuss violence in	Darfur	0	LOCATION
+0.632832863116628	arm	demand	equal share	0	0
+1.0	Khartoum government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead by Minni Minnawi	LOCATION	ORGANIZATION
+1.0	UN interim special representative	arrive with	hope	ORGANIZATION	0
+1.0	minority tribe	be in	vast western province	0	0
+1.0	United Nations	accept	deployment	ORGANIZATION	0
+1.0	plan	agree at	high-level November meeting	0	DATE
+1.0	Khartoum government	sign peace agreement with	faction lead	LOCATION	0
+1.0	interim envoy	arrive headquarters from	au	0	0
+0.5262329739201279	envoy	arrive from	au	0	0
+1.0	Khartoum government	sign peace agreement with	faction of Sudan Liberation Movement/Army	LOCATION	ORGANIZATION
+1.0	Beshir	steadfastly reject	large-scale UN troop deployment	PERSON	ORGANIZATION
+1.0	their	have	Janjaweed proxy militia	O	O
+0.5262329739201279	interim envoy	arrive from	au	0	0
+1.0	United Nations	be in	July	ORGANIZATION	DATE
+1.0	three-phase plan	agree at	November meeting	0	DATE
+1.0	plan	agree for	deployment	0	0
+0.46794757358078337	au	find political solution to	conflict	0	0
+1.0	New United Nations Secretary General Ban Ki-moon	have make	Darfur he concern	PERSON	LOCATION
+1.0	violence	have	level	O	O
+1.0	The interim envoy	discuss	violence	0	0
+1.0	envoy	arrive headquarters from	African Union	0	LOCATION
+1.0	hybrid AU-UN	have	deployment	O	MISC
+0.632832863116628	arm	demand	share of national resource	0	0
+1.0	Jan Eliasson	have	visit	O	O
+1.0	official SANA agency	get	recalcitrant rebel	ORGANIZATION	0
+1.0	resources	have	share	O	O
+0.46794757358078337	au	find	solution	0	0
+1.0	talk	be with	sudanese official	0	0
+1.0	Swedish diplomat	head to	Ethiopia	MISC	LOCATION
+1.0	interim envoy	arrive headquarters from	African Union	0	LOCATION
+1.0	UN interim representative	arrive in	Khartoum	ORGANIZATION	LOCATION
+1.0	hand	be in	hand with diplomacy	0	0
+0.632832863116628	arm	demand	equal share of national resource	0	0
+1.0	SANA agency	get	recalcitrant rebel	ORGANIZATION	0
+1.0	Khartoum government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead	LOCATION	ORGANIZATION
+1.0	plan	agree for	deployment of hybrid au-un	0	0
+1.0	Khartoum government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead	LOCATION	ORGANIZATION
+0.46794757358078337	au	find	political solution	0	0
+1.0	Khartoum government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead by Minni Minnawi	LOCATION	ORGANIZATION
+1.0	three-phase plan	agree for	deployment of hybrid au-un	0	0
+0.632832863116628	arm	demand	share	0	0
+0.14130322439590892	Swedish diplomat	stress	UN 's determination work	MISC	ORGANIZATION
+1.0	other	put	they name	0	0
+1.0	United Nations	accept	deployment of 20,000 UN peacekeeper	ORGANIZATION	ORGANIZATION
+1.0	hand	be with	diplomacy	0	0
+1.0	UN peacekeepers	have	deployment	O	O
+0.5205416861437989	arm	rebel from	minority tribe	0	0
+1.0	his	have	concern	O	O
+0.632832863116628	arm	demand	share of resource	0	0
+1.0	envoy	arrive	headquarters	0	0
+1.0	Sudan Liberation Movement/Army	have	faction	O	ORGANIZATION
+1.0	Beshir	steadfastly reject there	large-scale UN troop deployment	PERSON	ORGANIZATION
+1.0	UN interim special representative	arrive on	Tuesday	ORGANIZATION	DATE
+1.0	three-phase plan	agree for	deployment	0	0
+1.0	UN interim special representative	arrive in	Khartoum	ORGANIZATION	LOCATION
+1.0	Khartoum government	sign	peace agreement	LOCATION	0
+1.0	Beshir	reject	large-scale UN troop deployment	PERSON	ORGANIZATION
+1.0	Khartoum government	sign peace agreement with	faction lead by Minni Minnawi	LOCATION	PERSON
+1.0	Khartoum government	sign peace agreement with	main faction lead by Minni Minnawi	LOCATION	PERSON
+0.5262329739201279	envoy	arrive from	African Union	0	LOCATION
+1.0	UN interim representative	arrive with	hope	ORGANIZATION	0
+1.0	The interim envoy	discuss violence in	Darfur	0	LOCATION
+1.0	The interim envoy	also discuss	violence	0	0
+1.0	Ban Ki-moon	be secretary general of	New United Nations	PERSON	ORGANIZATION
+1.0	envoy	arrive headquarters from	au	0	0
+1.0	Khartoum government	sign peace agreement with	main faction	LOCATION	0
+1.0	United Nations	call on	government	ORGANIZATION	0
+1.0	plan	agree in	Ethiopia	0	LOCATION
+0.632832863116628	arm	demand	equal share of resource	0	0
+0.46794757358078337	au	find solution to	conflict	0	0
+0.5205416861437989	arm	rebel from	minority tribe in province	0	0
+1.0	three-phase plan	agree at	high-level November meeting	0	DATE
+1.0	UN	have	determination work with au find to conflict	ORGANIZATION	0
+1.0	Khartoum government	sign peace agreement in	May 2006	LOCATION	DATE
+1.0	UN	have	determination	O	ORGANIZATION
+1.0	plan	agree at	November meeting	0	DATE
+1.0	Ban Ki-moon	be	New United Nations	PERSON	ORGANIZATION
+1.0	interim envoy	arrive	headquarters	0	0
+1.0	Khartoum government	sign peace agreement with	main faction of Sudan Liberation Movement/Army	LOCATION	ORGANIZATION
+0.5205416861437989	arm	rebel from	minority tribe in western province	0	0
+1.0	Darfur	have	region	O	LOCATION
+1.0	Lam Akol	be on	Wednesday	PERSON	DATE
+1.0	three-phase plan	agree in	Ethiopia	0	LOCATION
+1.0	Swedish diplomat	stress	UN 's determination	MISC	ORGANIZATION
+1.0	Sudan	be	Jan Eliasson	LOCATION	PERSON

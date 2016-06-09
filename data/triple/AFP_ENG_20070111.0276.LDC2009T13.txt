@@ -1,0 +1,119 @@
+1.0	strike	paralyze	west nation	0	DATE
+1.0	Guinea	have	labour unions	O	LOCATION
+1.0	Conte	suffer from	form	PERSON	0
+1.0	Guinea	have	have wrack by crisis	LOCATION	0
+1.0	it	be	third general strike	0	ORDINAL
+1.0	leukaemia	have	form	O	O
+1.0	general strike	paralyze	african nation	DATE	DATE
+1.0	it	be third strike in	12 month in poverty	0	DURATION
+1.0	people	engage in	civil disobedience campaign	0	0
+1.0	Guinea	have	Workers	ORGANIZATION	LOCATION
+1.0	Conte	have	have unwell for year	PERSON	0
+1.0	general strike	paralyze	african nation of Guinea	DATE	LOCATION
+1.0	west nation	protest	President Lansana Conte 's decision	DATE	PERSON
+1.0	it	be third strike in	12 month	0	DURATION
+1.0	general strike	paralyze	west african nation	DATE	DATE
+0.3181712544296814	strike	west nation of	Guinea	0	LOCATION
+1.0	it	be third general strike in	12 month in poverty	0	DURATION
+1.0	president	pardon	Conde in 2001	0	DATE
+1.0	resident	tell	afp	0	0
+1.0	third general strike	be in	12 month	ORDINAL	DURATION
+1.0	Yamadou Toure	say on	day	PERSON	DATE
+0.3181712544296814	strike	nation of	Guinea	0	LOCATION
+1.0	nation	protest	President Lansana Conte 's decision	DATE	PERSON
+1.0	chemists	have	shops	O	O
+1.0	Guinea	of	wealthiest man	LOCATION	0
+1.0	Conte	suffer from	acute form	PERSON	0
+1.0	His	have	foe	O	O
+1.0	capital	have	parts	O	O
+1.0	bank	be	shut	0	0
+1.0	strike	paralyze	west african nation	0	DATE
+1.0	strike	paralyze	nation	0	DATE
+1.0	general strike	paralyze	west nation	DATE	DATE
+1.0	towns	have	Residents	O	O
+1.0	National Confederation	have	National Union	ORGANIZATION	ORGANIZATION
+1.0	bank	be	all shut	0	0
+0.3181712544296814	strike	west african nation of	Guinea	0	LOCATION
+1.0	resident	tell afp by	phone	0	0
+1.0	strike	paralyze nation for	day	0	DATE
+1.0	Yamadou Toure	say after	near work stoppage	PERSON	0
+1.0	it	be	strike	0	0
+0.3181712544296814	general strike	west nation of	Guinea	DATE	LOCATION
+1.0	Guinea	have	men	O	LOCATION
+1.0	Conde	be in	2001	LOCATION	DATE
+1.0	entire country	be	paralyzed	0	0
+1.0	strike	paralyze	african nation	0	DATE
+1.0	bank	be shut in	part	0	0
+1.0	general strike	paralyze	nation	DATE	DATE
+1.0	National Union	have	secretary general	O	ORGANIZATION
+1.0	strike	paralyze nation for	second day	0	DATE
+1.0	men	have	one	NUMBER	O
+1.0	Yamadou Toure	say after	total work stoppage	PERSON	0
+1.0	general strike	paralyze nation at_time	Thursday	DATE	DATE
+0.3181712544296814	strike	african nation of	Guinea	0	LOCATION
+1.0	embezzlement	have	accused	O	O
+0.3181712544296814	general strike	west african nation of	Guinea	DATE	LOCATION
+1.0	Lansana Conte	have	decision	PERSON	0
+1.0	their	have	release	O	O
+1.0	general strike	paralyze	west african nation of Guinea	DATE	LOCATION
+1.0	Guinea	by	two biggest labour union	LOCATION	NUMBER
+1.0	bank	be all shut in	part of capital	0	0
+0.3181712544296814	general strike	nation of	Guinea	DATE	LOCATION
+1.0	president	pardon	Conde	0	LOCATION
+1.0	Conte	have	decision	O	PERSON
+1.0	strike	paralyze	nation of Guinea	0	LOCATION
+1.0	Yamadou Toure	say after	near total work stoppage	PERSON	0
+1.0	he	renounce	politics	0	0
+1.0	west african nation	protest	President Lansana Conte 's decision	DATE	PERSON
+1.0	National Union of Workers	be of	Guinea	ORGANIZATION	LOCATION
+1.0	Conte	take power in	coup in April 1984	PERSON	DATE
+1.0	Yamadou Toure	say on	second day	PERSON	DATE
+1.0	it	be strike in	12 month	0	DURATION
+1.0	Conte	take	power	PERSON	0
+1.0	it	be	general strike	0	0
+1.0	Guinea	have	have wrack	LOCATION	0
+1.0	President Lansana Conte	have	decision	O	PERSON
+1.0	workers	have	percent	PERCENT	O
+1.0	it	be	third strike	0	ORDINAL
+1.0	National Union	be protest	Conte 's decision	ORGANIZATION	PERSON
+1.0	Guinea	have	nation	O	LOCATION
+1.0	Conte	have	have unwell	PERSON	0
+1.0	Ibrahima Fofana	general of	National Union	PERSON	ORGANIZATION
+1.0	state	have	head	O	O
+1.0	Yamadou Toure	spokesman for	powerful labour federation	PERSON	0
+1.0	bank	be shut in	part of capital	0	0
+1.0	12 month	be in	poverty	DURATION	0
+0.3181712544296814	general strike	african nation of	Guinea	DATE	LOCATION
+1.0	source	be in	presidency	0	0
+1.0	Guinean Workers	have	National Confederation	ORGANIZATION	ORGANIZATION
+1.0	Workers	have	National Union	ORGANIZATION	ORGANIZATION
+1.0	strike	paralyze	west nation of Guinea	0	LOCATION
+1.0	Conte	suffer from	acute form of diabetes	PERSON	0
+1.0	Ibrahima Fofana	announce	add	PERSON	0
+1.0	strike	paralyze nation at_time	Thursday	0	DATE
+1.0	it	be general strike in	12 month	0	DURATION
+1.0	people	engage in	non-violent civil disobedience campaign	0	0
+1.0	Ibrahima Fofana	announce on	Tuesday	PERSON	DATE
+1.0	Yamadou Toure	say after	work stoppage	PERSON	0
+1.0	it	be third general strike in	12 month	0	DURATION
+1.0	people	engage in	non-violent disobedience campaign	0	0
+1.0	coup	be in	April 1984	0	DATE
+1.0	Conte	suffer from	form of diabetes	PERSON	0
+1.0	Guinea	have	have wrack by economic crisis	LOCATION	0
+1.0	country	be	paralyzed	0	0
+1.0	Conte	be	re-elect	PERSON	0
+1.0	african nation	protest	President Lansana Conte 's decision	DATE	PERSON
+1.0	it	be general strike in	12 month in poverty	0	DURATION
+1.0	general strike	paralyze	nation of Guinea	DATE	LOCATION
+1.0	general strike	paralyze nation for	second day	DATE	DATE
+1.0	general strike	paralyze nation for	day	DATE	DATE
+1.0	strike	paralyze	african nation of Guinea	0	LOCATION
+1.0	Conte	take power in	coup	PERSON	0
+1.0	general strike	paralyze	west nation of Guinea	DATE	LOCATION
+1.0	Yamadou Toure	say at_time	Wednesday	PERSON	DATE
+1.0	people	engage in	disobedience campaign	0	0
+1.0	Conte	have	decision release last month	PERSON	DATE
+1.0	diabetes	have	form	O	O
+1.0	it	be strike in	12 month in poverty	0	DURATION
+1.0	strike	paralyze	west african nation of Guinea	0	LOCATION
+1.0	bank	be all shut in	part	0	0

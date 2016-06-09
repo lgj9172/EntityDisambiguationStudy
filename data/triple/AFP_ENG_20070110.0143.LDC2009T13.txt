@@ -1,0 +1,39 @@
+1.0	doctor	be in	Malawi 's	0	LOCATION
+1.0	court 's order	be	set	0	0
+1.0	Cassim Chilumpha	be	arrest in April year	PERSON	DATE
+1.0	Cassim Chilumpha	have	have sack by Mutharika	PERSON	LOCATION
+1.0	Cassim Chilumpha	be	arrest	PERSON	0
+1.0	Yusuf Matumula	ally of	Bakili Muluzi	PERSON	PERSON
+1.0	president	reinstate	he	0	0
+1.0	Cassim Chilumpha	have	ruling	O	O
+1.0	vice president	be	charge	0	0
+1.0	Malawi	have	Vice President Cassim Chilumpha	PERSON	LOCATION
+1.0	president Bakili Muluzi	have	allies	O	PERSON
+1.0	vice president	be	charge along	0	0
+1.0	doctor	diagnose	he illness	0	0
+1.0	Cassim Chilumpha	charge with	conspiracy	PERSON	0
+1.0	Cassim Chilumpha	jump	bail	PERSON	0
+1.0	court	have	order	0	0
+1.0	Cassim Chilumpha	have	passport	O	O
+1.0	court	have	order	O	O
+1.0	Malawi	have	Cassim Chilumpha	LOCATION	PERSON
+1.0	court 's order	be	set aside	0	0
+1.0	president	be	force	0	0
+1.0	court 's order	be	hereby set aside	0	0
+1.0	Cassim Chilumpha	have	have sack in February 2006	PERSON	DATE
+1.0	Cassim Chilumpha	be arrest at_time	year	PERSON	DATE
+1.0	Cassim Chilumpha	have	body	O	O
+1.0	Cassim Chilumpha	be vice president of	Malawi	PERSON	LOCATION
+1.0	doctor	be	unable	0	0
+1.0	Cassim Chilumpha	later charge to	murder	PERSON	0
+1.0	Cassim Chilumpha	charge to	murder	PERSON	0
+1.0	Cassim Chilumpha	have	have sack	PERSON	0
+1.0	pain	have	complained	O	O
+1.0	Cassim Chilumpha	have	illness	O	O
+1.0	justice	have	interest	O	O
+1.0	Cassim Chilumpha	be	arrest in April last year	PERSON	DATE
+1.0	Cassim Chilumpha	be arrest in	April	PERSON	DATE
+1.0	Cassim Chilumpha	be arrest at_time	last year	PERSON	DATE
+1.0	court 's order	be	hereby set	0	0
+1.0	Cassim Chilumpha	later charge with	conspiracy	PERSON	0
+1.0	Cassim Chilumpha	have	have sack by Mutharika in February 2006	PERSON	DATE

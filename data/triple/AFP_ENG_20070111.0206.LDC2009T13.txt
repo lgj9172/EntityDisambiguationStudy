@@ -1,0 +1,44 @@
+1.0	Dennis Kucinich	opponent for	Democratic Party	PERSON	ORGANIZATION
+1.0	anyone	have	sense	0	0
+1.0	president	after	late Wednesday speech	0	DATE
+1.0	Dennis Kucinich	say in	statement issue after president 's late Wednesday speech	PERSON	DATE
+1.0	Kucinich	be	candidate	PERSON	0
+1.0	President	have	path	O	O
+1.0	pacifist	consider on	flank	0	0
+1.0	avowed pacifist	consider on	left flank of he party	0	0
+1.0	he	have blame	Iran	0	LOCATION
+1.0	do	leave at	all	0	0
+1.0	Dennis Kucinich	say in	statement issue	PERSON	0
+1.0	he	have blame iran on	America	0	LOCATION
+1.0	pacifist	consider on	flank of he party	0	0
+1.0	Dennis Kucinich	be	US	PERSON	LOCATION
+1.0	our	have	friends	O	O
+1.0	John Kerry	be by	democratic	PERSON	0
+1.0	wider war	be in	region	0	0
+1.0	party	have	flank	O	O
+1.0	Dennis Kucinich	be representative of	US	PERSON	LOCATION
+1.0	pacifist	want	Congress	0	ORGANIZATION
+1.0	Dennis Kucinich	say in	statement issue on Iraq policy	PERSON	LOCATION
+1.0	president	have	Wednesday speech	O	O
+1.0	our	have	war	O	O
+1.0	avowed pacifist	consider on	left flank	0	0
+1.0	US Representative Dennis Kucinich	say at_time	Thursday	LOCATION	DATE
+1.0	Dennis Kucinich	say in	statement issue after president 's Wednesday speech on Iraq policy	PERSON	LOCATION
+1.0	his	have	bid	O	O
+1.0	avowed pacifist	consider on	flank	0	0
+1.0	bid	have	centerpiece	O	O
+1.0	Dennis Kucinich	say in	statement issue after president 's Wednesday speech	PERSON	DATE
+1.0	Dennis Kucinich	say in	statement	PERSON	0
+1.0	avowed pacifist	want	Congress	0	ORGANIZATION
+1.0	war	have	path	O	O
+1.0	he	have blame	Iran for attack	0	LOCATION
+1.0	Dennis Kucinich	say in	statement issue after president 's late Wednesday speech on Iraq policy	PERSON	LOCATION
+1.0	his	have	party	O	O
+1.0	his	have	opposition	O	O
+1.0	Iran	have	coast	O	LOCATION
+1.0	pacifist	consider on	left flank of he party	0	0
+1.0	war	have	middle	O	O
+1.0	anyone	be in	administration	0	0
+1.0	pacifist	consider on	left flank	0	0
+1.0	avowed pacifist	consider on	flank of he party	0	0
+1.0	coast	have	add	O	O

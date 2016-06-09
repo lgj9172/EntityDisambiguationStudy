@@ -1,0 +1,227 @@
+1.0	two side	create fund in	different field	NUMBER	0
+1.0	China	host	palestinian minister	LOCATION	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	Ehud Olmert	speak to	reporter	PERSON	0
+1.0	Olmert	be	before meeting receive by Wen at Great Hall	PERSON	LOCATION
+1.0	community	prepare for	next round of sanction	0	0
+1.0	China	be player as	member of UN security Council	LOCATION	ORGANIZATION
+1.0	Wen	speak	refer to sojourn	PERSON	0
+1.0	Ehud Olmert	refuse	elaborate	0	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	side	create fund in	different field	0	0
+1.0	China	be player as	veto-wielding member	LOCATION	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	official	tell afp since	then	0	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	two side	create	joint fund	NUMBER	0
+1.0	China	be player as	veto-wielding permanent member	LOCATION	0
+1.0	China	be pivotal player as	member of UN security Council	LOCATION	ORGANIZATION
+1.0	Israel	be	force	LOCATION	0
+1.0	China	be pivotal player as	permanent member	LOCATION	0
+1.0	Olmert	attend	concert	PERSON	0
+1.0	China	be pivotal player as	veto-wielding member of UN security Council	LOCATION	ORGANIZATION
+1.0	israeli Prime Minister Ehud Olmert	say at_time	Wednesday	PERSON	DATE
+1.0	Olmert	have	remarks	O	PERSON
+1.0	side	create	joint fund for research	0	0
+1.0	community	prepare in	coming month	0	DATE
+1.0	israeli tie	have	have strain	DURATION	DURATION
+1.0	his	have	talks	O	O
+1.0	China	be player as	veto-wielding member of UN security Council	LOCATION	ORGANIZATION
+1.0	Olmert	be	receive by Wen at Great Hall	PERSON	LOCATION
+1.0	that	impose sanction on	Iran	0	LOCATION
+1.0	international community	prepare for	next round of sanction	0	0
+1.0	Olmert	be receive by	Wen	PERSON	PERSON
+1.0	Olmert 's remark	contrast with	expectation of shoulder	PERSON	0
+1.0	it	bow to	UN demand	0	ORGANIZATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	day	have	part	O	DATE
+1.0	Olmert	will meet	President Hu Jintao	PERSON	PERSON
+1.0	Olmert	be receive at	Great Hall	PERSON	LOCATION
+0.7863880899336431	Ehud Olmert	discuss	implementation	PERSON	0
+1.0	Ehud Olmert	elaborate on	contents	0	0
+1.0	China	host	palestinian foreign minister	LOCATION	0
+1.0	side	create fund in	field	0	0
+1.0	two side	create	fund	NUMBER	0
+1.0	China	be pivotal player as	veto-wielding permanent member	LOCATION	0
+1.0	international community	prepare in	coming month	0	DATE
+1.0	official	tell	afp	0	0
+1.0	Olmert	be	before meeting receive by Wen at Great Hall of people	PERSON	LOCATION
+1.0	israeli diplomatic tie	have	have strain for several year	DURATION	DURATION
+1.0	Prime Minister Ehud Olmert	say at_time	Wednesday	PERSON	DATE
+1.0	its need for Iranian oil	have	programme	O	O
+1.0	they	sign	agreement	0	0
+1.0	he historical linkage	be with	China	0	LOCATION
+1.0	Wen	speak of	he historical linkage with China	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	expectation	PERSON	0
+1.0	Olmert	discuss	Wen	PERSON	PERSON
+1.0	side	create	fund	0	0
+1.0	China	have	Great Wall	LOCATION	LOCATION
+1.0	Israel	scrap	two deal	LOCATION	NUMBER
+1.0	Olmert	discuss tie besides	iranian question	PERSON	0
+1.0	arms sales	have	topic	O	O
+1.0	two side	create fund in	field	NUMBER	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder	PERSON	0
+1.0	boycott	have	Hamas member	O	O
+1.0	arms sales	have	issue	O	O
+1.0	December resolution	have	implementation	O	O
+1.0	linkage	have	spoke	O	O
+1.0	that	impose	sanction	0	0
+1.0	they	also sign	agreement	0	0
+1.0	Olmert	discuss tie at	length	PERSON	0
+1.0	Wen	welcome	leader	PERSON	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	diplomatic tie	have	have strain	DURATION	DURATION
+1.0	China	be player as	member	LOCATION	0
+1.0	China	be pivotal player as	veto-wielding member	LOCATION	0
+1.0	US pressure	be in	2000	LOCATION	DATE
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	Olmert	discuss	economic tie	PERSON	0
+1.0	Olmert	be receive before	meeting	PERSON	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	China	oppose	Iran	0	LOCATION
+1.0	Wen	welcome leader at	opening of talk	PERSON	0
+1.0	China	anger israel at_time	year	LOCATION	DATE
+1.0	two side	also agree accord to	Ehud Olmert	NUMBER	PERSON
+1.0	two side	agree accord to	Ehud Olmert	NUMBER	PERSON
+1.0	People	have	Great Hall	LOCATION	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	international community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	israeli diplomatic tie	have	have strain	DURATION	DURATION
+1.0	community	prepare for	round	0	0
+1.0	Olmert	be receive at	Great Hall of people	PERSON	LOCATION
+1.0	companies	have	some	O	O
+1.0	Iran	have	ambitions	O	LOCATION
+1.0	Olmert 's remark	slam brake on	Iran 's nuclear ambition	PERSON	LOCATION
+1.0	side	also agree accord to	Ehud Olmert	0	PERSON
+1.0	its programme	be	peaceful	0	0
+1.0	Olmert	discuss	bilateral tie	PERSON	0
+1.0	Hamas member	be in	defiance	ORGANIZATION	0
+1.0	China	of	largest company	LOCATION	0
+1.0	Ehud Olmert	refuse	elaborate on contents of he talk	0	0
+1.0	he	review	honour guard	0	0
+1.0	its nuclear programme	be	peaceful	0	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Olmert 's remark	slam	brake	PERSON	0
+1.0	talks	have	contents	O	O
+1.0	Ehud Olmert	have	visit	O	O
+1.0	Olmert	be	receive by Wen at Great Hall of people	PERSON	LOCATION
+1.0	diplomatic tie	have	have strain for year	DURATION	DURATION
+1.0	Wen Jiabao	be with	chinese	PERSON	0
+1.0	two side	create	joint fund for research	NUMBER	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	China	have	companies	O	LOCATION
+1.0	Ehud Olmert	have	ancestors	O	PERSON
+1.0	tie	have	have strain	0	DURATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder	PERSON	0
+1.0	israeli diplomatic tie	have	have strain for year	DURATION	DURATION
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call for tough sanction	PERSON	LOCATION
+1.0	side	create fund include	technology	0	0
+1.0	ancestors	have	China	LOCATION	O
+1.0	community	prepare for	round of sanction	0	0
+1.0	Olmert	discuss	bilateral economic tie	PERSON	0
+1.0	community	prepare for	round of sanction against Iran	0	LOCATION
+1.0	international community	prepare for	round of sanction	0	0
+1.0	two side	create fund include	hydro	NUMBER	0
+1.0	Ehud Olmert	refuse	elaborate on contents	0	0
+1.0	China	be	player	LOCATION	0
+1.0	side	create fund include	hydro	0	0
+0.7863880899336431	Ehud Olmert	discuss	implementation of December 23 resolution	PERSON	DATE
+1.0	international community	prepare for	next round	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	Olmert	be	before meeting receive at Great Hall of people	PERSON	LOCATION
+1.0	its programme	be	entirely peaceful	0	0
+1.0	sanctions	have	round	O	O
+1.0	Olmert	be	receive	PERSON	0
+1.0	China	anger	Israel	LOCATION	LOCATION
+1.0	tie	have	have strain for year	0	DURATION
+1.0	side	create	fund for research	0	0
+1.0	China	be pivotal player as	permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	he	tell	reporter	0	0
+1.0	israeli tie	have	have strain for several year	DURATION	DURATION
+1.0	shoulder	have	expectations	O	O
+1.0	Wen	welcome	israeli leader	PERSON	0
+1.0	that	impose	limited sanction	0	0
+1.0	Wen	speak of	he linkage with China	PERSON	LOCATION
+1.0	it	be	exciting	0	0
+1.0	diplomatic tie	have	have strain for several year	DURATION	DURATION
+1.0	Wen	speak	refer	PERSON	0
+1.0	China	be pivotal player as	veto-wielding permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Wen	speak of	he historical linkage	PERSON	0
+1.0	Olmert	will meet president hu jintao on	Thursday	PERSON	DATE
+1.0	leader	stress	wen	0	0
+1.0	its	have	position	O	O
+1.0	community	prepare in	month	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	talks	have	opening	O	O
+1.0	state	have	call	O	O
+1.0	Ehud Olmert	of	ancestor	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	its nuclear programme	be	entirely peaceful	0	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder	PERSON	0
+1.0	its	have	economy	O	O
+0.651379077089985	Ehud Olmert	implementation of	December 23 resolution	PERSON	DATE
+1.0	international community	prepare in	month	0	0
+1.0	community	prepare for	next round of sanction against Iran	0	LOCATION
+1.0	Olmert	be	before meeting receive at Great Hall	PERSON	LOCATION
+1.0	its	have	need	O	O
+1.0	two side	create fund include	technology	NUMBER	0
+1.0	China	anger israel at_time	last year	LOCATION	DATE
+1.0	China	be player as	permanent member	LOCATION	0
+1.0	it	have refuse	bow to UN demand	0	ORGANIZATION
+1.0	international community	prepare for	round	0	0
+1.0	Olmert	have	remark	PERSON	0
+1.0	international community	prepare for	next round of sanction against Iran	0	LOCATION
+1.0	China	make	it clear	LOCATION	0
+1.0	Olmert 's remark	contrast with	israeli expectation	PERSON	0
+1.0	Ehud Olmert	have	talks	O	O
+1.0	two side	create	fund for research	NUMBER	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	Iran	on	nuclear ambition	LOCATION	0
+1.0	some	have	heads	O	O
+1.0	Wen	welcome leader at	opening	PERSON	0
+1.0	Wen	speak of	he linkage	PERSON	0
+1.0	his	have	linkage	O	O
+1.0	China	be	pivotal	LOCATION	0
+1.0	israeli leader	stress	wen	0	0
+1.0	tie	have	have strain for several year	0	DURATION
+1.0	China	oppose iran with	bomb	0	0
+1.0	UN Security Council	have	member	O	ORGANIZATION
+1.0	community	prepare for	next round	0	0
+1.0	China	oppose iran with	nuclear bomb	0	0
+1.0	jewish state	over	call for tough sanction	0	0
+1.0	Ehud Olmert	elaborate on	contents of he talk	0	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call	PERSON	LOCATION
+1.0	citrus fruit	have	import	O	O
+1.0	group	have	boycott	O	O
+1.0	Olmert 's remark	slam brake on	Iran 's ambition	PERSON	LOCATION
+1.0	it	have refuse	bow	0	0
+1.0	China	host	foreign minister	LOCATION	0
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	China	host	minister	LOCATION	0
+1.0	side	create fund include	high technology	0	0
+1.0	side	agree accord to	Ehud Olmert	0	PERSON
+1.0	ties	have	years	DURATION	O
+1.0	China	be pivotal player as	member	LOCATION	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over jewish state 's call for sanction	PERSON	LOCATION
+1.0	side	create	joint fund	0	0
+1.0	Olmert 's remark	contrast with	israeli expectation of cold shoulder from Beijing	PERSON	LOCATION
+1.0	China	be player as	veto-wielding permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	israeli tie	have	have strain for year	DURATION	DURATION
+1.0	Olmert 's remark	contrast with	israeli expectation of shoulder from Beijing over state 's call	PERSON	LOCATION
+1.0	China	make	it absolutely clear	LOCATION	0
+1.0	Olmert	be	before meeting receive by Wen	PERSON	PERSON
+1.0	two side	create fund include	high technology	NUMBER	0
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing	PERSON	LOCATION
+1.0	Olmert 's remark	contrast with	expectation of cold shoulder from Beijing over state 's call for tough sanction	PERSON	LOCATION
+1.0	Olmert	attend	special concert	PERSON	0
+1.0	my	have	talks	O	O
+1.0	Olmert	discuss	tie	PERSON	0
+1.0	China	be player as	permanent member of UN security Council	LOCATION	ORGANIZATION
+1.0	Olmert 's remark	contrast with	expectation of shoulder from Beijing over state 's call for sanction	PERSON	LOCATION
+1.0	China	be	pivotal player	LOCATION	0
+1.0	Olmert	discuss tie besides	question	PERSON	0

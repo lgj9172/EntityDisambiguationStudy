@@ -1,0 +1,9 @@
+1.0	US State Department spokesman	be in	Washington	ORGANIZATION	LOCATION
+1.0	Kurtis Cooper	be spokesman of	US State Department	PERSON	ORGANIZATION
+1.0	US State Department spokesman Kurtis Cooper	say in	statement	PERSON	0
+1.0	US State Department spokesman Kurtis Cooper	say in	Washington	PERSON	LOCATION
+1.0	US embassy	be in	Athens	ORGANIZATION	LOCATION
+1.0	Kurtis Cooper	be	US State Department	PERSON	ORGANIZATION
+1.0	January	have	12th	DATE	DATE
+1.0	US State Department spokesman Kurtis Cooper	say in	brief statement	PERSON	0
+1.0	kind	have	injuries	O	O

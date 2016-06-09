@@ -1,0 +1,21 @@
+1.0	man	have	have tag as form of house arrest	0	0
+1.0	Orthodox man	have	tagging	O	O
+1.0	Prison officers	have	vehicle	O	O
+1.0	the city -- a stronghold of Haredi Judaism , the most conservative branch of the Jewish faith --	have	windows	O	O
+1.0	israeli city	be in	row	0	0
+1.0	Haredi Judaism	branch of	jewish faith	ORGANIZATION	0
+1.0	gay pride parade	be in	Jerusalem	0	LOCATION
+1.0	man	have	have electronically tag	0	0
+1.0	newspaper	report at_time	Tuesday	0	DATE
+1.0	house arrest	have	form	O	O
+1.0	man	have	have electronically tag as form	0	0
+1.0	man	have	have tag as form of house arrest for he role	0	0
+1.0	man	have	have electronically tag as form of house arrest	0	0
+1.0	man	have	have electronically tag as form of house arrest for he role	0	0
+1.0	man	have	have tag as form	0	0
+1.0	faith	have	branch	O	O
+1.0	prison	confront by	mob	0	0
+1.0	an Orthodox Jewish man	have	role	O	O
+1.0	prison	confront by	angry mob	0	0
+1.0	man	have	have tag	0	0
+1.0	Haredi Judaism	have	stronghold	O	ORGANIZATION

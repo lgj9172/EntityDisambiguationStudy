@@ -1,0 +1,28 @@
+1.0	Kek	previously train	side	PERSON	0
+1.0	45-year-old Kek	previously train	under-17 side	DURATION	0
+1.0	Branko Oblak	have	Slovenia football coach	O	PERSON
+1.0	matches	have	three	NUMBER	O
+1.0	45-year-old Kek	win	two league title	DURATION	NUMBER
+1.0	Kek	win	two league title	PERSON	NUMBER
+1.0	Kek	train	side	PERSON	0
+1.0	45-year-old Kek	train	side	DURATION	0
+1.0	Kek	win	two slovenian league title	PERSON	NUMBER
+1.0	45-year-old Kek	previously train	national under-17 side	DURATION	0
+1.0	Kek	previously train	national side	PERSON	0
+1.0	45-year-old Kek	win	two slovenian league title	DURATION	NUMBER
+1.0	45-year-old Kek	previously train	side	DURATION	0
+1.0	football Federation	announce at_time	Friday	ORGANIZATION	DATE
+1.0	Kek	train	under-17 side	PERSON	0
+1.0	slovenian football Federation	announce at_time	Friday	ORGANIZATION	DATE
+1.0	Kek	be	45-year-old	PERSON	DURATION
+1.0	their	have	matches	O	O
+1.0	Kek	previously train	national under-17 side	PERSON	0
+1.0	45-year-old Kek	train	national under-17 side	DURATION	0
+1.0	Kek	train	national side	PERSON	0
+1.0	The 45-year-old Kek	be appoint	Slovenia national football coach	PERSON	LOCATION
+1.0	45-year-old Kek	train	under-17 side	DURATION	0
+1.0	Kek	previously train	under-17 side	PERSON	0
+1.0	45-year-old Kek	train	national side	DURATION	0
+1.0	The 45-year-old Kek	be appoint	Slovenia football coach	PERSON	LOCATION
+1.0	Kek	train	national under-17 side	PERSON	0
+1.0	45-year-old Kek	previously train	national side	DURATION	0

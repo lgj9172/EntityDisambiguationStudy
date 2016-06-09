@@ -1,0 +1,32 @@
+1.0	two side	call	ceasefire	NUMBER	0
+1.0	Al-Aqsa Martyrs Brigades	have	member	O	ORGANIZATION
+1.0	25-year-old	be	local	DURATION	0
+1.0	Palestinian president Mahmud Abbas 's	announce	plan	PERSON	0
+1.0	Wednesday 's unrest	follow	clash	DATE	0
+1.0	Ala Mohammed Ainaya	have	house	O	O
+1.0	Wednesday	have	unrest	O	DATE
+1.0	local Fatah leader	be in	northern Gaza town	ORGANIZATION	LOCATION
+1.0	Palestinian president Mahmud Abbas 's	resolve	standoff	PERSON	0
+1.0	interior ministry	be in	Jabaliya	ORGANIZATION	MISC
+1.0	Wednesday 's unrest	follow clash in	north of coastal strip	DATE	0
+0.06141471494456796	two side	call on	December 20	NUMBER	DATE
+1.0	Palestinian president Mahmud Abbas 's	resolve standoff with	ruling	PERSON	0
+1.0	Palestinian president Mahmud Abbas 's	announce plan for	early presidential	PERSON	0
+1.0	president Mahmud Abbas	have	group Fatah party	O	PERSON
+1.0	interior ministry	be of	hamas-led	ORGANIZATION	0
+1.0	two side	call ceasefire on	December 20	NUMBER	DATE
+1.0	Palestinian president Mahmud Abbas 's	announce plan for	presidential	PERSON	0
+1.0	strip	have	north	O	O
+1.0	Wednesday	have	unrest	DATE	0
+1.0	side	call	ceasefire	0	0
+0.06141471494456796	side	call on	December 20	0	DATE
+1.0	Mahmud Abbas	be 's	palestinian	PERSON	0
+1.0	side	call ceasefire on	December 20	0	DATE
+1.0	Ala Mohammed Ainaya	member of	Al-Aqsa Martyrs Brigades	PERSON	ORGANIZATION
+1.0	Wednesday 's unrest	follow clash in	north of strip	DATE	0
+1.0	security source	say	medic	0	0
+1.0	ministry	have	those	O	ORGANIZATION
+1.0	Wednesday 's unrest	follow clash in	north	DATE	0
+1.0	Palestinian president Mahmud Abbas 's	resolve	months-long standoff	PERSON	0
+1.0	Wednesday 's unrest	follow clash from	ruling Hamas party	DATE	ORGANIZATION
+1.0	abductions	have	series	O	O

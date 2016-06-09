@@ -1,0 +1,75 @@
+1.0	China 's Li Na	both lose	they round match	PERSON	0
+1.0	unseeded italian Tathiana Garbin	cruise into	quarter-final	PERSON	0
+1.0	Women	have	Hardcourt tennis championships	O	O
+1.0	seed Dinara Safina	move into	round of Women 's Hardcourt tennis championship here	PERSON	MISC
+1.0	seed Dinara Safina	move into	round of australian Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	Elena Vesnina	be of	Russia	PERSON	LOCATION
+1.0	men	have	star Marit Safin	PERSON	O
+1.0	Elena Likhovtseva	describe as	right foot irritation	PERSON	0
+1.0	men 's star Marit Safin	disturb	I	0	0
+1.0	men 's star Marit Safin	accuse	she opponent of cheating	0	0
+1.0	Tathiana Garbin	cruise with	6-3	PERSON	NUMBER
+1.0	Colombia	have	Catalina Castano	LOCATION	LOCATION
+1.0	seed Dinara Safina	move into	second round of australian Women 's Hardcourt tennis championship here	PERSON	ORDINAL
+1.0	China 's Li Na	lose	Katarina Srebotnik of Slovakia	PERSON	PERSON
+1.0	second seed Dinara Safina	move at_time	Tuesday	ORDINAL	DATE
+1.0	China 's Li Na	both lose	Katarina Srebotnik of Slovakia	PERSON	PERSON
+1.0	China	's na be	7	LOCATION	NUMBER
+1.0	Tathiana Garbin	cruise into	quarter-final	PERSON	0
+1.0	China 's Li Na -LRB- 6 -RRB- and Katarina Srebotnik of Slovakia -LRB- 7 -RRB-	have	round matches	O	O
+1.0	star Marit Safin	have	sister	O	PERSON
+1.0	China 's Li Na	lose	they second round match	PERSON	ORDINAL
+1.0	cheating	have	opponent	O	O
+1.0	men 's star Marit Safin	beat	Elena	0	PERSON
+1.0	Safina	serve in	next game	PERSON	0
+1.0	China	's na be	6	LOCATION	NUMBER
+1.0	China	have	Li Na	PERSON	LOCATION
+1.0	second seed Dinara Safina	move into	second round of australian Women 's Hardcourt tennis championship here	ORDINAL	ORDINAL
+1.0	Elena Likhovtseva	describe as	foot irritation	PERSON	0
+1.0	Katarina Srebotnik	be of	Slovakia	PERSON	LOCATION
+1.0	seed Dinara Safina	move into	round of Women 's Hardcourt tennis championship	PERSON	MISC
+1.0	men 's star Marit Safin	have	opponent	O	O
+1.0	second seed Dinara Safina	move into	round of australian Women 's Hardcourt tennis championship here	ORDINAL	MISC
+1.0	second seed Dinara Safina	move into	second round of australian Women 's Hardcourt tennis championship	ORDINAL	ORDINAL
+1.0	Safina	serve in	game	PERSON	0
+1.0	seed Dinara Safina	move into	round of australian Women 's Hardcourt tennis championship here	PERSON	MISC
+1.0	Dinara Safina	be	Second	PERSON	ORDINAL
+1.0	Hardcourt tennis championships	have	round	O	O
+1.0	Slovakia	have	Katarina Srebotnik	PERSON	LOCATION
+1.0	italian Tathiana Garbin	cruise with	6-3	PERSON	NUMBER
+1.0	australian Women	of	Hardcourt tennis championship here	0	MISC
+1.0	6-1	win over	Frenchwoman Severine Bremond	NUMBER	PERSON
+1.0	unseeded italian Tathiana Garbin	cruise with	6-3	PERSON	NUMBER
+0.9652381129169338	men 's star Marit Safin	younger sister of	man 's star Marit Safin	PERSON	PERSON
+1.0	second seed Dinara Safina	move into	second round of Women 's Hardcourt tennis championship	ORDINAL	ORDINAL
+1.0	italian Tathiana Garbin	cruise into	quarter-final	PERSON	0
+1.0	second seed Dinara Safina	move into	round of australian Women 's Hardcourt tennis championship	ORDINAL	MISC
+1.0	Elena Likhovtseva	be	russian	PERSON	0
+1.0	second seed Dinara Safina	move into	second round	ORDINAL	ORDINAL
+1.0	men 's star Marit Safin	beat	fellow Elena	0	PERSON
+1.0	China 's Li Na	both lose	Katarina Srebotnik	PERSON	PERSON
+1.0	men 's star Marit Safin	accuse	she opponent	0	0
+1.0	second seed Dinara Safina	move into	second round of Women 's Hardcourt tennis championship here	ORDINAL	ORDINAL
+1.0	Elena Likhovtseva	be	treat	PERSON	0
+1.0	China 's Li Na	lose	they round match	PERSON	0
+1.0	China 's Li Na	both lose	they second round match	PERSON	ORDINAL
+1.0	Colombia	's castano be	6-2	LOCATION	NUMBER
+1.0	men 's star Marit Safin	beat	russian Elena	0	PERSON
+1.0	seed Dinara Safina	move into	round	PERSON	0
+1.0	seed Dinara Safina	move into	second round of Women 's Hardcourt tennis championship	PERSON	ORDINAL
+0.9652381129169338	men 's star Marit Safin	sister of	man 's star Marit Safin	PERSON	PERSON
+1.0	Russia	have	Elena Vesnina	PERSON	LOCATION
+1.0	Tathiana Garbin	be	italian	PERSON	0
+1.0	seed Dinara Safina	move into	second round of australian Women 's Hardcourt tennis championship	PERSON	ORDINAL
+1.0	seed Dinara Safina	move at_time	Tuesday	PERSON	DATE
+1.0	seed Dinara Safina	move into	second round of Women 's Hardcourt tennis championship here	PERSON	ORDINAL
+1.0	men 's star Marit Safin	beat	fellow russian Elena	0	PERSON
+1.0	China	have	Li Na	LOCATION	PERSON
+1.0	seed Dinara Safina	move into	second round	PERSON	ORDINAL
+1.0	second seed Dinara Safina	move into	round of Women 's Hardcourt tennis championship	ORDINAL	MISC
+1.0	man	of	men 's star Marit Safin	0	PERSON
+1.0	second seed Dinara Safina	move into	round of Women 's Hardcourt tennis championship here	ORDINAL	MISC
+1.0	China 's Li Na	lose	Katarina Srebotnik	PERSON	PERSON
+1.0	second seed Dinara Safina	move into	round	ORDINAL	0
+1.0	men 's star Marit Safin	sister of	men 's star Marit Safin	PERSON	PERSON
+1.0	Safina	be	20-year-old	PERSON	DURATION

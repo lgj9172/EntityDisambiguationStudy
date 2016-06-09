@@ -1,0 +1,28 @@
+1.0	US house-improvement chain home	say at_time	Wednesday	LOCATION	DATE
+1.0	Home Depot 's board	say in	statement	ORGANIZATION	0
+1.0	Nardelli	be with	immediate effect	PERSON	0
+1.0	company	have	vice chairman	O	O
+1.0	compensation	have	size	O	O
+1.0	company	have	vice chairman	0	0
+1.0	he departure	be	sweeten	0	0
+1.0	Bob Nardelli	have	departure	O	O
+1.0	Bob Nardelli	have	compensation	O	O
+1.0	Home Depot	have	leadership	O	ORGANIZATION
+1.0	company	be with	210	0	NUMBER
+1.0	the decision	have	chief executive	O	O
+1.0	incentive payments	have	acceleration	O	O
+1.0	Bob Nardelli	have	pay package	O	O
+1.0	Frank Blake	have succeed	Nardelli	PERSON	PERSON
+1.0	Frank Blake	have succeed	Nardelli with immediate effect	PERSON	PERSON
+1.0	home Depot	be	US	ORGANIZATION	LOCATION
+1.0	US house-improvement chain Home Depot	have	boss Bob Nardelli	PERSON	O
+1.0	late	have	struggling	O	O
+1.0	bonuses	have	acceleration	O	O
+1.0	Home Depot	have	board	O	ORGANIZATION
+1.0	dollars	have	cash payment	O	MONEY
+1.0	Home Depot	have	board	ORGANIZATION	0
+1.0	Frank Blake	chairman 's	company	PERSON	0
+1.0	Frank Blake	have succeed	Nardelli with effect	PERSON	PERSON
+1.0	stock awards	have	acceleration	O	O
+1.0	US chain home	say at_time	Wednesday	LOCATION	DATE
+1.0	Bob Nardelli	have	leadership	O	O

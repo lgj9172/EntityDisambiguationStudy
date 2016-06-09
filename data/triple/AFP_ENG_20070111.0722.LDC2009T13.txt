@@ -1,0 +1,35 @@
+1.0	New York 's main contract	crude for	delivery in February	LOCATION	DATE
+1.0	New York 's contract	be at	52.23 dollar from 51.88 dollar	LOCATION	MONEY
+1.0	oil	hit	record high of 78 dollar in middle of year	0	DATE
+1.0	78 dollar	be in	the middle of the year	MONEY	DATE
+1.0	New York 's contract	be at	52.23 dollar up 35 cent from 51.88 dollar in US trade	LOCATION	LOCATION
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	New York 's main contract	be at	52.23 dollar from 51.88 dollar	LOCATION	MONEY
+1.0	New York 's main contract	be at	52.23 dollar up 35 cent from 51.88 dollar	LOCATION	MONEY
+1.0	51.88 dollar	be in	late US trade	MONEY	LOCATION
+1.0	New York	have	contract	O	LOCATION
+1.0	New York 's contract	be at	52.23 dollar up 35 cent	LOCATION	MONEY
+1.0	New York 's main contract	be at	52.23 dollar from 51.88 dollar in late US trade	LOCATION	LOCATION
+1.0	New York 's main contract	be at	52.23 dollar from 51.88 dollar in US trade	LOCATION	LOCATION
+1.0	New York 's contract	be at	52.23 dollar up 35 cent from 51.88 dollar in late US trade	LOCATION	LOCATION
+1.0	oil	be above	at close 60 dollar	0	MONEY
+1.0	New York	have	main contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	New York 's main contract	be at	52.23 dollar up 35 cent from 51.88 dollar in late US trade	LOCATION	LOCATION
+1.0	contract	plummet	2.14 dollar	0	MONEY
+1.0	oil	be above	at close of 2006 60 dollar	0	MONEY
+1.0	warm weather	be in	northern hemisphere	0	0
+1.0	dollars	have	record highs	O	MONEY
+1.0	2006	have	close	O	DATE
+1.0	New York 's contract	be at	52.23 dollar from 51.88 dollar in US trade	LOCATION	LOCATION
+1.0	New York 's main contract	be at	52.23 dollar up 35 cent	LOCATION	MONEY
+1.0	oil	be above	60 dollar	0	MONEY
+1.0	New York 's contract	be at	52.23 dollar	LOCATION	MONEY
+1.0	year	have	middle	DATE	DATE
+1.0	New York 's contract	be at	52.23 dollar from 51.88 dollar in late US trade	LOCATION	LOCATION
+1.0	oil	hit	record high	0	0
+1.0	New York 's main contract	be at	52.23 dollar up 35 cent from 51.88 dollar in US trade	LOCATION	LOCATION
+1.0	oil	hit	record high of 78 dollar in middle	0	DATE
+1.0	oil	hit	record high of 78 dollar	0	DATE
+1.0	New York 's contract	be at	52.23 dollar up 35 cent from 51.88 dollar	LOCATION	MONEY
+1.0	New York 's main contract	be at	52.23 dollar	LOCATION	MONEY

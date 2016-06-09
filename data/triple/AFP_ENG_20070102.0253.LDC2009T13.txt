@@ -1,0 +1,50 @@
+1.0	EU entry	represent	motive for other european country	LOCATION	0
+1.0	EU entry	also represent	motive for other southeast european country	LOCATION	0
+1.0	important step	be in	Union 's enlargement	0	0
+1.0	EU entry	represent	motive for european country	LOCATION	0
+1.0	countries	have	entry	O	O
+1.0	EU	have	determination	O	ORGANIZATION
+1.0	EU entry	also represent	additional motive for country	LOCATION	0
+1.0	EU entry	represent	additional motive for country	LOCATION	0
+0.8368953524354535	Croatia	see as	front-runner	LOCATION	0
+1.0	unity	have	enlargement	O	O
+1.0	EU entry	also represent	motive	LOCATION	0
+1.0	cooperation	have	enlargement	O	O
+0.8368953524354535	Croatia	see as	front-runner among country hope	LOCATION	0
+1.0	EU entry	also represent	motive for other european country	LOCATION	0
+1.0	EU entry	represent	motive for other southeast european country	LOCATION	0
+1.0	Bulgaria	have	accession	O	LOCATION
+1.0	EU entry	also represent	additional motive for other southeast country	LOCATION	0
+1.0	EU entry	also represent	additional motive for southeast country	LOCATION	0
+1.0	policy chapters	have	two	NUMBER	O
+1.0	EU entry	represent	motive for country	LOCATION	0
+1.0	EU entry	represent	additional motive	LOCATION	0
+1.0	EU entry	represent	additional motive for other southeast country	LOCATION	0
+1.0	EU	both	determination achieve	ORGANIZATION	0
+1.0	EU entry	also represent	motive for country	LOCATION	0
+1.0	EU entry	represent	motive for other country	LOCATION	0
+1.0	Union	have	enlargement	O	O
+1.0	Croatia	hail to	bloc	LOCATION	0
+1.0	EU entry	represent	motive for southeast country	LOCATION	0
+1.0	Croatia	hail on	Tuesday	LOCATION	DATE
+1.0	EU entry	also represent	additional motive	LOCATION	0
+1.0	EU entry	represent	motive for southeast european country	LOCATION	0
+1.0	Croatia	open	membership talk	LOCATION	0
+0.8368953524354535	Croatia	see as	front-runner among country	LOCATION	0
+1.0	EU entry	represent	additional motive for other country	LOCATION	0
+1.0	EU entry	also represent	motive for european country	LOCATION	0
+1.0	EU entry	represent	motive	LOCATION	0
+1.0	EU entry	also represent	additional motive for other country	LOCATION	0
+1.0	Union	in	enlargement	0	0
+1.0	EU entry	also represent	motive for southeast european country	LOCATION	0
+1.0	EU entry	also represent	motive for other country	LOCATION	0
+1.0	decade	have	end	DATE	DATE
+1.0	EU entry	also represent	motive for other southeast country	LOCATION	0
+1.0	Croatia	open membership talk with	EU year	LOCATION	DATE
+1.0	Croatia	open membership talk with	EU last year	LOCATION	DATE
+1.0	EU entry	also represent	motive for southeast country	LOCATION	0
+1.0	Romania	have	accession	O	LOCATION
+1.0	EU entry	represent	additional motive for southeast country	LOCATION	0
+1.0	Bulgaria	have	EU entry	O	LOCATION
+1.0	Romania	have	EU entry	O	LOCATION
+1.0	EU entry	represent	motive for other southeast country	LOCATION	0

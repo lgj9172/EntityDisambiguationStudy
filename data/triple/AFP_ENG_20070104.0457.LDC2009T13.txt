@@ -1,0 +1,132 @@
+1.0	the	answer	30 charge include bankruptcy	0	NUMBER
+1.0	Khalifa	have	arrest	O	PERSON
+1.0	empire	start	crumble in 2003	0	DATE
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity in management of deposit	0	ORGANIZATION
+1.0	alleged irregularity	be in	management of deposit	0	0
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity	0	ORGANIZATION
+1.0	Algeria	have	bank	O	LOCATION
+1.0	charge	concern	sum miss from account of Khalifa Bank follow irregularity	0	ORGANIZATION
+1.0	100 defendant	be in	Algeria 's biggest financial scandal	NUMBER	LOCATION
+1.0	Algeria	have	scandal	O	LOCATION
+1.0	defendant	be	exile	0	0
+1.0	Rafik Abdelmoumen Khalifa	be	Algerian	PERSON	MISC
+1.0	defendant	be currently exile in	London	0	LOCATION
+1.0	charge	concern	sum miss from account of Khalifa Bank follow irregularity in management of deposit	0	ORGANIZATION
+1.0	sum	observe	proper safety precaution	0	0
+1.0	main	will	will try in absentia	0	0
+1.0	Algeria	have	first privately own bank	LOCATION	ORDINAL
+1.0	group	comprise airline in	France	0	LOCATION
+1.0	Algeria	have	president	O	LOCATION
+1.0	country	have	smuggle	O	O
+1.0	main	will	will try	0	0
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity in management	0	ORGANIZATION
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow irregularity in management	0	ORGANIZATION
+1.0	years	have	period	O	DURATION
+1.0	charge	concern	sum of 3.2 billion dinar miss from account	0	MONEY
+1.0	group	also comprise	airline	0	0
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity in management of deposit	0	ORGANIZATION
+1.0	charge	concern	sum of 3.2 billion dinar miss	0	MONEY
+1.0	Algerian authority	have issue	warrant for Khalifa 's arrest	MISC	PERSON
+1.0	empire	start	crumble	0	0
+1.0	main charge	concern	sum of 3.2 billion dinar miss	0	MONEY
+1.0	employee	allegedly try	smuggle two million euro out	0	MONEY
+1.0	employee	try	smuggle	0	0
+1.0	charge	concern	sum	0	0
+1.0	three employee	be	arrest	NUMBER	0
+1.0	employee	allegedly try	smuggle of country	0	0
+1.0	criminal association	abuse of	trust	0	0
+1.0	The flamboyant high-liver who once had three villas in on the French Riviera	have	extradition	O	O
+1.0	108	be at	liberty	NUMBER	0
+1.0	three employee	allegedly try	smuggle	NUMBER	0
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity in management	0	ORGANIZATION
+1.0	empire	crumble in	2003	0	DATE
+1.0	president	have	government	O	O
+1.0	three employee	try	smuggle	NUMBER	0
+1.0	group	comprise	airline	0	0
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity in management	0	ORGANIZATION
+1.0	forgery	have	abuse	O	O
+0.9604039313497614	association	abuse of	trust	0	0
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity	0	ORGANIZATION
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity	0	ORGANIZATION
+1.0	embezzlement	have	abuse	O	O
+1.0	main defendant	be currently exile in	London	0	LOCATION
+1.0	charge	concern	sum miss	0	0
+1.0	main defendant	be	currently exile	0	DATE
+1.0	main charge	concern	sum miss	0	0
+1.0	main defendant	be exile in	London	0	LOCATION
+1.0	charge	concern	sum of 3.2 billion dinar	0	MONEY
+1.0	exile	be in	London	0	LOCATION
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity	0	ORGANIZATION
+1.0	seven	be	fugitive	NUMBER	0
+1.0	penalty	could	could as high	0	0
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity	0	ORGANIZATION
+1.0	Algerian authority	have issue	international warrant	MISC	0
+1.0	trust	have	abuse	O	O
+1.0	deposits	have	management	O	O
+1.0	Algeria	in	biggest financial scandal	LOCATION	0
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow irregularity in management of deposit	0	ORGANIZATION
+1.0	three employee	allegedly try	smuggle two million euro out	NUMBER	MONEY
+1.0	Khalifa Bank	be	hub	ORGANIZATION	0
+1.0	employee	try	smuggle two million euro out of country	0	MONEY
+1.0	main charge	concern	sum miss from account of Khalifa Bank	0	ORGANIZATION
+1.0	empire	first start	crumble	0	0
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity in management	0	ORGANIZATION
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity in management of deposit	0	ORGANIZATION
+1.0	group	also comprise airline in	France	0	LOCATION
+1.0	three employee	try	smuggle two million euro out of country	NUMBER	MONEY
+1.0	Algerian authority	have issue	warrant	MISC	0
+1.0	penalty	could	could high as 10 year ' jail	0	DURATION
+1.0	charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity in management	0	ORGANIZATION
+1.0	defendant	be exile in	London	0	LOCATION
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow alleged irregularity in management	0	ORGANIZATION
+1.0	Khalifa	for	arrest	PERSON	0
+1.0	defendant	be	currently exile	0	DATE
+1.0	three employee	allegedly try	smuggle two million euro out of country	NUMBER	MONEY
+1.0	main defendant	be	exile	0	0
+1.0	employee	allegedly try	smuggle	0	0
+1.0	empire	be with	7,000 employee	0	NUMBER
+1.0	empire	have	hub	O	O
+1.0	failure	have	management	O	O
+1.0	Khalifa Bank	have	accounts	O	ORGANIZATION
+1.0	years	have	jail	O	DURATION
+1.0	three employee	be	when arrest	NUMBER	0
+1.0	employee	be	when arrest	0	0
+1.0	empire	crumble at	Algiers airport	0	LOCATION
+1.0	main charge	concern	sum miss from account	0	0
+1.0	dinars	have	sum	O	MONEY
+1.0	three employee	try	smuggle two million euro out	NUMBER	MONEY
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity in management of deposit	0	ORGANIZATION
+1.0	the	answer	30 charge include fraudulent bankruptcy	0	NUMBER
+1.0	the	answer	30 charge	0	NUMBER
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank follow irregularity in management of deposit	0	ORGANIZATION
+1.0	charge	concern	sum miss from account of Khalifa Bank follow irregularity in management	0	ORGANIZATION
+1.0	108	be at	provisionally liberty	NUMBER	0
+1.0	charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity	0	ORGANIZATION
+1.0	three employee	allegedly try	smuggle of country	NUMBER	0
+1.0	employee	try	smuggle two million euro out	0	MONEY
+1.0	empire	first start	crumble in 2003	0	DATE
+1.0	charge	concern	sum miss from account	0	0
+1.0	main charge	concern	sum miss from account of Khalifa Bank follow irregularity	0	ORGANIZATION
+1.0	charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank	0	ORGANIZATION
+1.0	penalty	could	could as high as 10 year ' jail	0	DURATION
+1.0	employee	try	smuggle of country	0	0
+1.0	Rafik Abdelmoumen Khalifa	be	40	PERSON	NUMBER
+1.0	penalty	could	could high	0	0
+0.9604039313497614	criminal association	abuse of	trust	0	0
+1.0	sum	observe	safety precaution	0	0
+1.0	employee	be	arrest	0	0
+1.0	main charge	concern	sum	0	0
+1.0	three employee	try	smuggle of country	NUMBER	0
+1.0	charge	concern	sum miss from account of Khalifa Bank	0	ORGANIZATION
+1.0	Algiers	have	Blida west	O	LOCATION
+1.0	minister	have	pharmacist	O	O
+1.0	main charge	concern	sum of 3.2 billion dinar	0	MONEY
+1.0	Khalifa	have	group	O	PERSON
+1.0	employee	allegedly try	smuggle two million euro out of country	0	MONEY
+1.0	charge	concern	sum miss from account of Khalifa Bank follow alleged irregularity in management of deposit	0	ORGANIZATION
+1.0	Algerian authority	have issue	international warrant for Khalifa 's arrest	MISC	PERSON
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account	0	MONEY
+1.0	fraud trial	be	due	0	0
+1.0	fraud trial	open at_time	Monday	0	DATE
+1.0	bribery	have	abuse	O	O
+1.0	main charge	concern	sum of 3.2 billion dinar miss from account of Khalifa Bank	0	ORGANIZATION

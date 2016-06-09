@@ -1,0 +1,66 @@
+1.0	performances	have	one	NUMBER	O
+1.0	VAT	be increase from	January 1	0	DATE
+1.0	new car registration	be in	2006	0	DATE
+1.0	Automobile sale	be in	Germany	0	LOCATION
+1.0	VAT	be	increase by three full percentage point from January 1	0	DATE
+1.0	VAT	be	increase by three percentage point to 19 percent	0	PERCENT
+1.0	VAT	be	increase to 19 percent with effect from January 1	0	DATE
+1.0	export sale	be at	in 2006 as whole up 3.891 million vehicle	0	NUMBER
+1.0	export sale	be at	up 3.891 million vehicle	0	NUMBER
+1.0	VAT	be	where increase to 19 percent	0	PERCENT
+1.0	car	have	purchase	O	O
+1.0	VAT	be	where increase to 19 percent with effect from January 1	0	DATE
+1.0	VAT	be	where increase by three full percentage point to 19 percent with effect	0	PERCENT
+1.0	export sale	rise to	289,400 car	0	NUMBER
+1.0	2007	have	start	DATE	DATE
+1.0	export sale	be at	in 2006 as whole up three percent 3.891 million vehicle	0	PERCENT
+1.0	VAT	be	increase by three full percentage point to 19 percent	0	PERCENT
+1.0	VAT	be	where increase by three percentage point	0	PERCENT
+1.0	VAT	be	increase	0	0
+1.0	19 percent	be with	effect	PERCENT	0
+1.0	VAT	be	increase to 19 percent from January 1	0	DATE
+1.0	Bernd Gottschalk	be	VDA	PERSON	ORGANIZATION
+1.0	VAT	be	where increase	0	0
+1.0	cars	have	total	O	O
+1.0	VAT	be	where increase by three percentage point to 19 percent with effect	0	PERCENT
+1.0	2006	have	whole	O	DATE
+1.0	year	have	months	DATE	DATE
+1.0	VAT	be increase to	19 percent	0	PERCENT
+1.0	VAT	be	increase by three percentage point to 19 percent with effect	0	PERCENT
+1.0	Bernd Gottschalk	be president of	VDA	PERSON	ORGANIZATION
+1.0	export sale	rise by	one percent	0	PERCENT
+1.0	export sale	be at	in 2006 as whole 3.891 million vehicle	0	NUMBER
+1.0	domestic demand	be in	sector	0	0
+1.0	veritable explosion	be in	new car registration	0	0
+1.0	VAT	be	where increase from January 1	0	DATE
+1.0	VAT	be increase by	three percentage point	0	PERCENT
+1.0	VAT	be	increase by three full percentage point to 19 percent with effect from January 1	0	DATE
+1.0	VAT	be	increase by three percentage point to 19 percent with effect from January 1	0	DATE
+1.0	VAT	be	where increase by three full percentage point from January 1	0	DATE
+1.0	rise	have	car	O	O
+1.0	VAT	be	where increase by three percentage point to 19 percent with effect from January 1	0	DATE
+1.0	VAT	be	where increase to 19 percent from January 1	0	DATE
+1.0	VAT	be	increase by three percentage point to 19 percent from January 1	0	DATE
+1.0	export sale	rise in	December	0	DATE
+1.0	VAT	be	increase by three full percentage point to 19 percent from January 1	0	DATE
+1.0	VAT	be	where increase to 19 percent with effect	0	PERCENT
+1.0	VAT	be	increase by three percentage point from January 1	0	DATE
+1.0	VAT	be	where increase by three full percentage point to 19 percent with effect from January 1	0	DATE
+1.0	its	have	performances	O	O
+1.0	3.891 million vehicle	be in	2006	NUMBER	DATE
+1.0	VAT	be	where increase by three percentage point from January 1	0	DATE
+1.0	VAT	be	increase by three full percentage point to 19 percent with effect	0	PERCENT
+1.0	export sale	be at	up three percent 3.891 million vehicle	0	PERCENT
+1.0	VAT	be	where increase by three full percentage point	0	PERCENT
+1.0	rise	be in	value-added	0	0
+1.0	car registrations	have	number	O	O
+1.0	VDA	say in	statement	ORGANIZATION	0
+1.0	seven year	be in	whole of 2006	DURATION	DATE
+1.0	VAT	be	where increase by three full percentage point to 19 percent from January 1	0	DATE
+1.0	export sale	be at	3.891 million vehicle	0	NUMBER
+1.0	VAT	be	where increase by three full percentage point to 19 percent	0	PERCENT
+1.0	VAT	be increase by	three full percentage point	0	PERCENT
+1.0	VAT	be	where increase by three percentage point to 19 percent	0	PERCENT
+1.0	VAT	be increase to	19 percent with effect	0	PERCENT
+1.0	demand	have	yardstick	O	O
+1.0	VAT	be	where increase by three percentage point to 19 percent from January 1	0	DATE

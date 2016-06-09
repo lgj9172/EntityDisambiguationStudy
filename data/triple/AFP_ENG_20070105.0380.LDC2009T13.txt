@@ -1,0 +1,71 @@
+1.0	Javed	be of	England	PERSON	LOCATION
+1.0	Umran Javed	shout at_time	bomb Denmark	PERSON	LOCATION
+1.0	they	be just at_time	slogan	0	0
+1.0	court	be	tell	0	0
+1.0	Abu Musab al-Zarqawi	leader of	Al-Qaeda	PERSON	LOCATION
+1.0	they	be at_time	slogan	0	0
+1.0	muslim	be find at_time	guilty Friday	0	DATE
+1.0	Umran Javed 27	address demonstration outside	embassy in Knightsbridge London	PERSON	LOCATION
+1.0	filmmaker Theo van Gogh	have	murder	O	PERSON
+1.0	Umran Javed 27	address demonstration outside	embassy in Knightsbridge central London	PERSON	LOCATION
+1.0	muslim	be	find	0	0
+1.0	Umran Javed	be	say	PERSON	0
+1.0	citizens	have	murder	O	O
+1.0	Umran Javed	address demonstration outside	embassy in Knightsbridge London	PERSON	LOCATION
+1.0	Al-Qaeda	be in	Iraq insurgent group	LOCATION	LOCATION
+1.0	they	be just at_time	soundbite	0	0
+1.0	british muslim	call during	protest	0	0
+1.0	muslim	call during	protest	0	0
+1.0	Abu Musab al-Zarqawi	will	will sentence	0	0
+1.0	Jews	have	slaughter	O	MISC
+1.0	Umran Javed 27	address demonstration outside	danish embassy in Knightsbridge London	PERSON	LOCATION
+1.0	United States	have	murder	O	LOCATION
+1.0	Umran Javed	address demonstration outside	danish embassy in Knightsbridge London	PERSON	LOCATION
+1.0	british muslim	call during	protest against cartoon	0	0
+1.0	Javed	be	remand	PERSON	0
+1.0	Umran Javed	address demonstration outside	embassy in Knightsbridge central London	PERSON	LOCATION
+1.0	Umran Javed	address	demonstration	PERSON	0
+1.0	Umran Javed 27	address	demonstration	PERSON	0
+1.0	Umran Javed	address	300-strong demonstration	PERSON	0
+1.0	Umran Javed	address demonstration outside	danish embassy	PERSON	0
+1.0	british muslim	be	find	0	0
+1.0	Umran Javed	be allege in	reference	0	0
+1.0	Bailey	be old of	London	PERSON	LOCATION
+1.0	Birmingham England	have	Javed	PERSON	LOCATION
+1.0	Umran Javed	be also say	have shout bomb	PERSON	0
+1.0	London	have	Old Bailey court	O	LOCATION
+1.0	his	have	audience	O	O
+1.0	Javed	be remand in	custody	PERSON	0
+1.0	London	be in	Knightsbridge	LOCATION	LOCATION
+1.0	Umran Javed 27	address demonstration outside	embassy	PERSON	0
+1.0	muslim	call for	murder of United States	0	LOCATION
+1.0	british muslim	be find at_time	Friday	0	DATE
+1.0	Javed	be find	guilty	PERSON	0
+1.0	Umran Javed	address demonstration outside	danish embassy in Knightsbridge central London	PERSON	LOCATION
+0.25331100359622694	I	regret	say	0	0
+1.0	british muslim	call for	murder of United States	0	LOCATION
+1.0	british muslim	call for	murder	0	0
+1.0	danish embassy	be in	London	0	LOCATION
+1.0	Umran Javed	shout at_time	bomb	PERSON	0
+1.0	Abu Musab al-Zarqawi	will	when will sentence	0	0
+1.0	Umran Javed 27	address demonstration outside	danish embassy	PERSON	0
+1.0	Umran Javed 27	address demonstration outside	danish embassy in Knightsbridge central London	PERSON	LOCATION
+1.0	Umran Javed	be	allege	0	0
+1.0	they	be at_time	soundbite	0	0
+1.0	Javed	be	find	PERSON	0
+1.0	muslim	call during	protest against cartoon	0	0
+1.0	muslim	be find at_time	Friday	0	DATE
+1.0	Umran Javed	be say	have shout	PERSON	0
+1.0	Umran Javed 27	address	300-strong demonstration	PERSON	0
+1.0	Umran Javed	address demonstration outside	embassy	PERSON	0
+1.0	Al-Qaeda	have	leader	O	LOCATION
+1.0	London	have	Old Bailey court	LOCATION	PERSON
+1.0	Theo van Gogh	be of	dutch	PERSON	0
+1.0	England	be of	Birmingham	LOCATION	LOCATION
+1.0	muslim	call for	murder	0	0
+1.0	british muslim	be find at_time	guilty Friday	0	DATE
+1.0	Umran Javed	be	also say	PERSON	0
+1.0	Umran Javed	be also say	have shout	PERSON	0
+1.0	Umran Javed	be	27	PERSON	NUMBER
+1.0	Umran Javed	be say	have shout bomb	PERSON	0
+1.0	Umran Javed	be allege	have say	0	0

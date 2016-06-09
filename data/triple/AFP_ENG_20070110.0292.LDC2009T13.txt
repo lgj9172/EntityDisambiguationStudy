@@ -1,0 +1,54 @@
+1.0	sprinter Alessandro Petacchi	recruit	Igor Astarloa of Spain for 2007 season	PERSON	LOCATION
+1.0	Zabel	should	as long should allow	0	0
+0.7867096282735154	important thing	be	clarify soon	0	0
+1.0	Zabel	should	long should allow	0	0
+1.0	top sprinter Alessandro Petacchi	recruit	Igor Astarloa of Spain	PERSON	LOCATION
+1.0	Spain	have	Igor Astarloa	PERSON	LOCATION
+1.0	sprinter Alessandro Petacchi	recruit	Igor Astarloa of Spain	PERSON	LOCATION
+1.0	jersey	continue	winner	0	0
+1.0	Italy	have	sprinter Alessandro Petacchi	PERSON	LOCATION
+0.7867096282735154	important thing	be	clarify as soon	0	0
+1.0	Zabel	rejoin	rank	0	0
+0.9043991784413697	former Tour de France champion Jan Ullrich	name in	doping scandal	MISC	0
+1.0	green jersey	continue	winner	0	0
+1.0	important thing	be for	situation clarify soon	0	0
+1.0	Jan Ullrich	be	name	PERSON	0
+1.0	top sprinter Alessandro Petacchi	recruit	Igor Astarloa	PERSON	PERSON
+1.0	year	have	world road	O	DATE
+1.0	Jan Ullrich	win	1997 Tour de France	PERSON	LOCATION
+0.9043991784413697	former Tour de France champion Jan Ullrich	name	year	MISC	DATE
+1.0	Lance Armstrong	have	team	O	ORGANIZATION
+1.0	new	have	sprinter Alessandro Petacchi	PERSON	O
+1.0	1997 Tour de France	claim runner-up spot at_time	five time	LOCATION	NUMBER
+1.0	German/Italian Milram team	also boast apart from	Zabel	MISC	PERSON
+1.0	Eufemiano Fuentes	be by	spanish	PERSON	0
+1.0	former Tour de France champion Jan Ullrich	receive	boost	MISC	0
+1.0	sprinter Alessandro Petacchi	recruit	Igor Astarloa	PERSON	PERSON
+0.7867096282735154	important thing	be	clarify	0	0
+1.0	important thing	be for	situation clarify	0	0
+1.0	top sprinter Alessandro Petacchi	recruit	Igor Astarloa of Spain for 2007 season	PERSON	LOCATION
+1.0	involvement	have	proof	O	O
+1.0	important thing	be for	situation clarify as soon	0	0
+1.0	Zabel	rejoin	professional rank	0	0
+1.0	Jan Ullrich	have	generation	O	O
+1.0	1997 Tour de France	take	gold	LOCATION	0
+1.0	Eufemiano Fuentes	have	T-Mobile team	O	O
+1.0	Alessandro Petacchi	be of	Italy	PERSON	LOCATION
+1.0	Eufemiano Fuentes	have	involvement	O	O
+1.0	Ullrich and Basso	have	place	O	O
+1.0	generation	have	riders	O	O
+1.0	German/Italian Milram team	boast apart from	Zabel	MISC	PERSON
+1.0	1997 Tour de France	claim	runner-up spot	LOCATION	0
+1.0	riders	have	one	NUMBER	O
+1.0	last year	of	world road	DATE	0
+1.0	Igor Astarloa	be of	Spain	PERSON	LOCATION
+1.0	1997 Tour de France	take gold at	2000 Sydney Olympics	LOCATION	LOCATION
+1.0	important thing	be for	situation	0	0
+1.0	Jan Ullrich	be	France	PERSON	MISC
+0.9043991784413697	former Tour de France champion Jan Ullrich	name	last year	MISC	DATE
+1.0	world road	have	runner-up	O	O
+1.0	Tour de France	have	winner	O	MISC
+1.0	Jan Ullrich	have	Milram team	O	O
+1.0	Milram team	have	presentation	O	O
+1.0	Zabel	should	should allow	0	0
+1.0	Lance Armstrong	for	former team	ORGANIZATION	0

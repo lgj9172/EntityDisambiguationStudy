@@ -1,0 +1,60 @@
+1.0	lawmaker	will	will still allow	0	0
+0.7036604549556208	lawmaker	suffer from	nicotine withdrawal	0	0
+1.0	cities	have	dozens	O	O
+1.0	Nancy Pelosi	be	US	PERSON	LOCATION
+1.0	tobacco use	be	where permit	0	0
+1.0	cancer respiratory diseases	have	risk	O	O
+1.0	the US Congress	be	exempt	ORGANIZATION	0
+1.0	New US congressional leader Nancy Pelosi	ban	smoking	LOCATION	0
+1.0	New US leader Nancy Pelosi	ban smoking in	one remain corridor of US Congress	LOCATION	LOCATION
+1.0	Pelosi , the House Speaker	say in	statement	0	0
+1.0	city	ban smoking in	its restaurant	0	0
+1.0	New US leader Nancy Pelosi	ban smoking in	one of remain corridor of US Congress	LOCATION	LOCATION
+1.0	New US congressional leader Nancy Pelosi	ban smoking in	one remain corridor of US Congress	LOCATION	LOCATION
+1.0	the House Speaker	official in	the House	0	ORGANIZATION
+1.0	corridors	have	one	NUMBER	O
+1.0	New US congressional leader Nancy Pelosi	ban smoking in	one of remain corridor of US Congress	LOCATION	LOCATION
+1.0	smoke-filled room	be in	United States Capitol	0	LOCATION
+1.0	city	recently ban smoking in	its restaurant	0	0
+1.0	District	ban smoking in	public space	ORGANIZATION	0
+1.0	the House Speaker	have	role	O	O
+1.0	Pelosi , the House Speaker	have	hometown	O	O
+1.0	New US congressional leader Nancy Pelosi	ban smoking in	one of few remain corridor of US Congress	LOCATION	LOCATION
+1.0	District	recently ban smoking in	public space	ORGANIZATION	0
+1.0	New US leader Nancy Pelosi	ban smoking in	Speaker 's Lobby	LOCATION	0
+1.0	decision	be	take	0	0
+1.0	decision	be take largely for	health reason	0	0
+1.0	the city of Washington DC also	have	restaurants	O	O
+1.0	Speaker	's lobby be	one	0	NUMBER
+1.0	the US Congress	be exempt from	law	ORGANIZATION	0
+1.0	decision	be	take largely	0	0
+1.0	city	ban	smoking	0	0
+1.0	New US leader Nancy Pelosi	ban smoking in	one of few remain corridor of US Congress	LOCATION	LOCATION
+0.8747553971408163	smoking	city of	Washington DC also	0	LOCATION
+1.0	New US congressional leader Nancy Pelosi	ban smoking in	one few remain corridor of US Congress	LOCATION	LOCATION
+1.0	smoke	have	effects	O	O
+1.0	Speaker	have	Lobby	O	O
+1.0	New US leader Nancy Pelosi	ban	smoking	LOCATION	0
+1.0	tobacco use	be	where still permit	0	0
+1.0	New US congressional leader Nancy Pelosi	ban smoking in	Speaker 's Lobby	LOCATION	0
+1.0	tobacco use	be	still permit	0	0
+1.0	lawmaker	will	will allow	0	0
+1.0	rooms	have	days	DURATION	O
+1.0	Representatives	have	official	O	ORGANIZATION
+1.0	the House Speaker	official of	the House	0	ORGANIZATION
+1.0	top elect official	be in	the House	ORGANIZATION	ORGANIZATION
+1.0	US Congress	have	corridors	O	ORGANIZATION
+1.0	Washington DC	have	city	O	LOCATION
+1.0	San Francisco	have	hometown	O	LOCATION
+0.8747553971408163	smoking	city of	Washington DC	0	LOCATION
+1.0	Columbia	have	District	ORGANIZATION	ORGANIZATION
+1.0	Nancy Pelosi	be on	Wednesday	PERSON	DATE
+1.0	Pelosi , the House Speaker	say	add	PERSON	0
+1.0	Speaker 's Lobby	one of	few remain corridor	0	0
+1.0	Pelosi , the House Speaker	say in	statement	PERSON	0
+1.0	Speaker	in	Lobby	0	0
+1.0	New US leader Nancy Pelosi	ban smoking in	one few remain corridor of US Congress	LOCATION	LOCATION
+1.0	tobacco use	be	permit	0	0
+1.0	city	recently ban	smoking	0	0
+1.0	Lawmakers suffering from nicotine withdrawal	have	offices	O	O
+1.0	decision	be take for	health reason	0	0

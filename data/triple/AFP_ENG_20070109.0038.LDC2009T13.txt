@@ -1,0 +1,44 @@
+1.0	Pope Benedict XVI	over	political acumen	PERSON	0
+1.0	Stanislaw Wielgus	archbishop of	Warsaw	PERSON	LOCATION
+1.0	his	have	compatriots	O	O
+1.0	republic	have	espionage	O	O
+1.0	Wielgus	of	collaboration	PERSON	0
+1.0	The scandal	have	courage	O	O
+1.0	Stanislaw Wielgus	have	links	O	O
+1.0	John Paul II	have	spokesman	O	PERSON
+1.0	Warsaw archbishop	have	mistake	O	O
+1.0	Vatican	praise	Roman Catholic Church	LOCATION	ORGANIZATION
+1.0	Vatican	reel to	communist-era police	LOCATION	0
+1.0	scandal	raise doubt over	Pope Benedict XVI 's acumen	0	PERSON
+1.0	former spokesman	say on	Monday	0	DATE
+1.0	Wielgus	be	foreign	PERSON	0
+1.0	Tarcisio Bertone	number in	Roman Catholic Church hierarchy	PERSON	ORGANIZATION
+1.0	state	have	Vatican secretary	O	O
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	communist regime	be in	Europe	0	LOCATION
+1.0	Vatican	reel from	scandal over link	LOCATION	0
+1.0	Wielgus	have	collaboration	O	PERSON
+1.0	compatriots	have	many	O	O
+1.0	scandal	raise	doubt	0	0
+1.0	Tarcisio Bertone	secretary of	state	PERSON	0
+1.0	Vatican	be on	Tuesday	LOCATION	DATE
+1.0	links	have	revelations	O	O
+1.0	pope John Paul II	have	spokesman	O	PERSON
+0.5234402687498816	interview	publish	Tuesday	0	DATE
+1.0	power	have	abuses	O	O
+1.0	scandal	have embarrass	The Vatican on Tuesday	0	LOCATION
+1.0	Vatican	reel to	communist-era secret police	LOCATION	0
+1.0	Vatican	praise	polish Catholic Church	LOCATION	ORGANIZATION
+1.0	scandal	raise	new doubt	0	0
+1.0	The Vatican on Tuesday	be	Tarcisio Bertone	ORGANIZATION	PERSON
+1.0	collaboration	have	extent	O	O
+1.0	Vatican	reel from	scandal	LOCATION	0
+1.0	Tarcisio Bertone	speak on	The Vatican on Tuesday	PERSON	ORGANIZATION
+1.0	scandal	raise doubt over	Pope Benedict XVI 's political acumen	0	PERSON
+1.0	which	have	victim	O	O
+1.0	Vatican	reel for	its courage	LOCATION	0
+1.0	Pope Benedict XVI	have	acumen	O	PERSON
+1.0	Tadeusz Isakowicz	tell	Corriere della Sera	PERSON	ORGANIZATION
+1.0	number two	be in	Roman Catholic Church hierarchy	NUMBER	ORGANIZATION
+1.0	collaboration	have	type	O	O
+1.0	would-be Warsaw archbishop	have	worst mistake	LOCATION	0

@@ -1,0 +1,39 @@
+1.0	senior aide	ask by	afp in egyptian Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	Peretz	result in	return	PERSON	0
+1.0	staff	have	general	O	O
+1.0	security matter	be in	aftermath of July	0	DATE
+1.0	Olmert	have	office	PERSON	0
+1.0	aide	ask by	afp	0	0
+1.0	two	have	return	O	NUMBER
+1.0	senior aide	ask by	afp in egyptian Red Sea resort	0	LOCATION
+1.0	key coalition partner Amir Peretz	leader of	Labour party	PERSON	ORGANIZATION
+1.0	July	have	aftermath	O	DATE
+1.0	television report	come as	part of cabinet reshuffle	0	0
+1.0	Olmert	meet	President Hosni Mubarak	PERSON	PERSON
+1.0	Ehud Olmert	be on	Thursday	PERSON	DATE
+1.0	the defense minister	have	post	O	O
+1.0	aide	ask by	afp in egyptian Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	it	be	major	0	0
+1.0	senior aide	ask by	afp in Red Sea resort	0	LOCATION
+1.0	aide	ask by	afp in egyptian Red Sea resort	0	LOCATION
+1.0	afp	be in	egyptian Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	aide	ask by	afp in Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	aide	ask about	report	0	0
+1.0	senior aide	ask by	afp	0	0
+1.0	Labour party	have	leader	O	O
+1.0	Olmert	have	office	O	PERSON
+1.0	israeli Prime Minister Ehud Olmert	deny	report	PERSON	0
+1.0	experience	have	lack	O	O
+1.0	television report	come as	part	0	0
+1.0	key coalition partner Amir Peretz	have	abilities	O	O
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	it	be	social	0	0
+1.0	his	have	lack	O	O
+1.0	cabinet reshuffle	have	part	O	O
+1.0	Peretz	be with	Ehud Barak	PERSON	PERSON
+1.0	senior aide	ask by	afp in Red Sea resort of sharm el-sheikh	0	LOCATION
+1.0	senior aide	ask about	report	0	0
+1.0	Prime Minister Ehud Olmert	deny	report	PERSON	0
+1.0	August war	be with	hezbollah	DATE	0
+1.0	Sharm el-Sheikh	have	Red Sea resort	O	LOCATION
+1.0	aide	ask by	afp in Red Sea resort	0	LOCATION

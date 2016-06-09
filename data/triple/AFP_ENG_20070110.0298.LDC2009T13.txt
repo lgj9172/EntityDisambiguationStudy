@@ -1,0 +1,57 @@
+1.0	dhoom 2	be	surprise	NUMBER	0
+1.0	last year 's gross film	be in	Bollywood	DATE	LOCATION
+1.0	dhoom	be	last year 's gross film in Bollywood	0	LOCATION
+1.0	Sanjay Gadhvi	say	Sanjay Gadhvi	PERSON	0
+1.0	dhoom	be	year 's gross film	0	DATE
+1.0	Dhoom	have	sequel	O	O
+1.0	accidents	have	percent	PERCENT	O
+1.0	dhoom	be	surprise by move	0	0
+1.0	dhoom 2	be	year 's gross film	NUMBER	DATE
+1.0	last year	have	gross film in Bollywood collect worldwide	DATE	LOCATION
+1.0	dhoom	be	last year 's gross film	0	DATE
+1.0	top transport official	be in	Maharashtra state	0	LOCATION
+1.0	Shyamsunder D. Shinde	official in	Maharashtra state	PERSON	LOCATION
+1.0	last year 's gross film	collect worldwide	1.65 billion rupee	DATE	MONEY
+0.6841415343592048	John Abraham	lead	actor	PERSON	0
+1.0	which	have	capital	O	O
+1.0	dhoom 2	be	last year 's gross film in Bollywood	NUMBER	LOCATION
+1.0	Most young men	have	bikes	O	O
+1.0	motorcycle stunts	have	series	O	O
+1.0	John Abraham	have	vehicle	O	O
+1.0	dhoom 2	be	year 's film	NUMBER	DATE
+1.0	year 's gross film	collect worldwide	1.65 billion rupee	DATE	MONEY
+1.0	their	have	action scenes	O	O
+1.0	authorities	have	movie	O	O
+0.633593924617174	dhoom 2	be	surprise by move	NUMBER	0
+0.633593924617174	dhoom 2	be	surprise	NUMBER	0
+1.0	dhoom 2	be	last year 's gross film	NUMBER	DATE
+0.708026823639663	language film industry	be	know	0	0
+1.0	dhoom	be	last year 's film	0	DATE
+1.0	dhoom 2	be	surprise by move	NUMBER	0
+1.0	year 's film	collect worldwide	1.65 billion rupee	DATE	MONEY
+1.0	two people	be with	he vehicle	NUMBER	0
+1.0	dhoom	be	year 's gross film in Bollywood	0	LOCATION
+1.0	year 's film	collect	1.65 billion rupee	DATE	MONEY
+1.0	last year 's film	collect worldwide	1.65 billion rupee	DATE	MONEY
+1.0	movie	have	Allan Amin	0	PERSON
+1.0	dhoom 2	be	last year 's film in Bollywood	NUMBER	LOCATION
+1.0	Mumbai	be	capital	LOCATION	0
+1.0	last year 's film	collect	1.65 billion rupee	DATE	MONEY
+1.0	dhoom	be	last year 's film in Bollywood	0	LOCATION
+1.0	language film industry	be in	base western Mumbai city	0	LOCATION
+0.633593924617174	dhoom	be	surprise by move	0	0
+1.0	dhoom 2	be	year 's film in Bollywood	NUMBER	LOCATION
+0.633593924617174	dhoom	be	surprise	0	0
+1.0	last year 's gross film	collect	1.65 billion rupee	DATE	MONEY
+1.0	movie	have	director Allan Amin	PERSON	O
+1.0	two blockbuster biker film	be	slam	0	0
+1.0	Mumbai	be	of which capital	LOCATION	0
+1.0	blockbuster biker film	be	slam	0	0
+1.0	dhoom	be	year 's film in Bollywood	0	LOCATION
+1.0	Bollywood	have	stars	O	O
+1.0	dhoom	be	surprise	0	0
+1.0	dhoom 2	be	year 's gross film in Bollywood	NUMBER	LOCATION
+1.0	year 's gross film	collect	1.65 billion rupee	DATE	MONEY
+1.0	dhoom	be	year 's film	0	DATE
+1.0	dhoom 2	be	last year 's film	NUMBER	DATE
+1.0	year	have	film	O	DATE

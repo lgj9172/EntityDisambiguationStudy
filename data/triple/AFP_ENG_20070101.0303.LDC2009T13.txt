@@ -1,0 +1,88 @@
+1.0	bird	tell joke in	US custody	0	LOCATION
+0.5004747390455692	St Louis Post-Dispatch	publish on	Sunday	ORGANIZATION	DATE
+1.0	crimes	have	convicted	O	O
+1.0	stories	have	lot	O	O
+1.0	Saddam	be convict of	crime against humanity	PERSON	0
+1.0	Hussein	be	avid	PERSON	0
+1.0	he	be	avid	0	0
+1.0	thing	have	sort	O	O
+1.0	time	have	most	O	O
+1.0	Robert Ellis	tell	CNN	PERSON	ORGANIZATION
+1.0	guard	slide food through	slot	0	0
+0.5565956656723683	Former Iraqi president Saddam Hussein	be in	US custody	0	LOCATION
+1.0	Saddam	be convict of	crime	PERSON	0
+1.0	Saddam	go on	hunger strike	PERSON	0
+1.0	Former Iraqi president Saddam Hussein	earn over	Iraq	PERSON	LOCATION
+1.0	stem	have	kind	O	O
+1.0	his	have	hunger strike	O	O
+1.0	United States	have lead	invasion of Iraq	LOCATION	LOCATION
+1.0	he patient	do ask	he	0	0
+1.0	Robert Ellis	be	56	PERSON	NUMBER
+1.0	Saddam	go	refuse	PERSON	0
+1.0	Former Iraqi president Saddam Hussein	have	health	O	PERSON
+1.0	former iraqi president Saddam Hussein	be	reader	PERSON	0
+1.0	his	have	home	O	O
+1.0	Robert Ellis	tell	paper	PERSON	0
+1.0	Ellis	recount from	he home	PERSON	0
+1.0	he	be	different	0	0
+1.0	he	be	reader	0	0
+1.0	Ellis	recount with	St Louis Post-Dispatch publish	PERSON	ORGANIZATION
+1.0	Former Iraqi president Saddam Hussein	have	trial proceedings	O	O
+1.0	Ellis	recount with	St Louis Post-Dispatch	PERSON	ORGANIZATION
+1.0	Robert Ellis	have	rule	O	O
+1.0	Robert Ellis	have mix	feeling about he role	PERSON	0
+1.0	cell door	have	bottom	O	O
+1.0	former president Saddam Hussein	be	avid reader	PERSON	0
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Robert Ellis	have mix	feeling	PERSON	0
+1.0	Saddam	be	convict	PERSON	0
+1.0	his	have	cell door	O	O
+1.0	Saddam	refuse	eat	PERSON	0
+1.0	bread	have	birds pieces	O	O
+1.0	Robert Ellis	have	US detention	O	O
+1.0	life	have	rest	O	O
+1.0	guard	slide food on	bottom	0	0
+1.0	he	be	avid reader	0	0
+1.0	Robert Ellis	tell	CNN on Monday	PERSON	DATE
+1.0	Ellis	tell	CNN	PERSON	ORGANIZATION
+0.8173266657541881	United States	invasion of	Iraq	LOCATION	LOCATION
+1.0	my	have	job	O	O
+1.0	humor	have	sense	O	O
+1.0	my	have	grain	O	O
+1.0	former iraqi president Saddam Hussein	be	avid reader	PERSON	0
+1.0	Ellis	recount with	St Louis Post-Dispatch publish on Sunday	PERSON	ORGANIZATION
+1.0	Former Iraqi president Saddam Hussein	have	appearances	O	O
+1.0	I	see	Robert Ellis	0	0
+1.0	CNN	be on	Monday	ORGANIZATION	DATE
+1.0	Saddam	have	good sense of humor	PERSON	0
+1.0	former president Saddam Hussein	be	reader	PERSON	0
+1.0	his	have	blood pressure	O	O
+1.0	United States	have lead invasion in	2003	LOCATION	DATE
+1.0	Saddam Hussein	be	iraqi	PERSON	0
+1.0	weeds	have	plot	O	O
+1.0	Ellis	recount in	interview	PERSON	0
+1.0	dying	have	spoke	O	O
+1.0	Former Iraqi president Saddam Hussein	earn during	he rule	PERSON	0
+1.0	guard	slide	food	0	0
+1.0	Former Iraqi president Saddam Hussein	say in	interview	0	0
+1.0	Ellis	tell	St Louis newspaper	PERSON	ORGANIZATION
+1.0	his	have	role	O	O
+1.0	Saddam	have	good sense	PERSON	0
+1.0	Ellis	recount from	he home in Normandy Missouri	PERSON	LOCATION
+1.0	United States	have lead	invasion	LOCATION	0
+1.0	his	have	meals	O	O
+1.0	Saddam	have	sense	PERSON	0
+1.0	guard	slide food on	bottom of he cell door	0	0
+1.0	Saddam at one point	have	time	O	O
+1.0	nurse	tell	St Louis newspaper	0	ORGANIZATION
+1.0	Robert Ellis	ask at_time	one day	0	DURATION
+1.0	his	have	patient	O	O
+1.0	Former Iraqi president Saddam Hussein	have	wife	O	O
+1.0	Former Iraqi president Saddam Hussein	say with	US media	0	LOCATION
+1.0	he home	be in	Missouri	0	LOCATION
+1.0	Saddam	have	sense of humor	PERSON	0
+1.0	Former Iraqi president Saddam Hussein	have	health	PERSON	DURATION
+1.0	The master sergeant	have	life	O	O
+1.0	violence	have	some	O	O
+1.0	Saddam	go at	one point	PERSON	NUMBER
+1.0	Former Iraqi president Saddam Hussein	have	children	O	O

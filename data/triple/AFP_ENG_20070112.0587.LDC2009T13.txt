@@ -1,0 +1,12 @@
+1.0	Argentina	have	ex-president Isabel Peron	PERSON	LOCATION
+1.0	Isabel Peron	be ex-president of	Argentina	PERSON	LOCATION
+1.0	Argentina 's ex-president Isabel Peron	have	rule	O	O
+1.0	Argentina 's ex-president Isabel Peron	have	home country	O	O
+1.0	Argentina	have	Isabel Peron	LOCATION	PERSON
+1.0	charge	be in	she home country	0	0
+1.0	Spain	at	highest criminal court	LOCATION	0
+1.0	Spain	have	court	O	LOCATION
+1.0	judicial source	tell	afp	0	0
+1.0	source	tell	afp	0	0
+1.0	court	be in	two week	0	DURATION
+1.0	Spain	's court be	Juan del Olmo	LOCATION	PERSON

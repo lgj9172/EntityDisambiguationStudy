@@ -1,0 +1,8 @@
+0.6028006137587475	solution	official from	country	0	0
+1.0	Russian Prime Minister Mikhail Fradkov	be	quote	PERSON	0
+0.6028006137587475	balanced solution	official from	two country	0	NUMBER
+1.0	countries	have	interests	O	O
+1.0	Russian Prime Minister Mikhail Fradkov	be quote by	itar-tass	PERSON	0
+1.0	Mikhail Fradkov	be	Russian	PERSON	MISC
+0.6028006137587475	balanced solution	official from	country	0	0
+0.6028006137587475	solution	official from	two country	0	NUMBER

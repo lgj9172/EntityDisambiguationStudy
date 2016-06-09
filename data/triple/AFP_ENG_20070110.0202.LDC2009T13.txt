@@ -1,0 +1,59 @@
+1.0	they	leave	port	0	0
+1.0	legislation	be	screen within three year check	0	DURATION
+1.0	measure	be overwhelmingly pass by	vote	0	0
+1.0	recommendation	be in	report	0	0
+1.0	similar measure	must pass in	Senate	0	ORGANIZATION
+1.0	Democrats	take	control of Congress follow November 7 election	MISC	DATE
+1.0	deadly 2001 terror attack	be in	the United States	DATE	LOCATION
+1.0	package	be first	expect	0	0
+1.0	recommendation	be in	report by September 11 panel	0	DATE
+1.0	Representatives	have	US House	ORGANIZATION	ORGANIZATION
+1.0	legislation	be	screen within three year check for weapon	0	DURATION
+1.0	measure	must now pass in	Senate	0	ORGANIZATION
+1.0	US House	approve	measure	LOCATION	0
+1.0	bill	be	harmonize	0	0
+1.0	bills	have	first	ORDINAL	O
+1.0	measure	be pass by	299-128 vote	0	0
+1.0	House of Representatives	be	the United States	ORGANIZATION	LOCATION
+1.0	legislation	call for	cargo on passenger plane	0	0
+1.0	legislation	increase homeland security fund for	city likely	0	0
+1.0	legislation	be	screen within three year check for nuclear weapon	0	DURATION
+1.0	two	need	President George W. Bush 's signature become	0	PERSON
+0.5758315603460424	Democrats	control of	Congress follow November 7 election	MISC	DATE
+0.5390662362346902	all	support by	majority	0	0
+1.0	two bill	be	once harmonize	NUMBER	DATE
+1.0	similar measure	must now pass in	Senate	0	ORGANIZATION
+1.0	two bill	be	harmonize	NUMBER	0
+1.0	recommendation	be in	final report by September 11 panel	0	DATE
+1.0	bill	be	once harmonize	0	DATE
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+1.0	legislation	increase	homeland security fund	0	0
+0.5390662362346902	all	support by	democratic majority	0	0
+1.0	recommendation	be in	final report by bipartisan September 11 panel	0	DATE
+1.0	measure	be overwhelmingly pass by	299-128 vote	0	0
+1.0	anti-terrorism package	be first	expect	0	0
+1.0	increase	be in	minimum wage	0	0
+1.0	measure	be pass by	vote	0	0
+1.0	US House	approve	measure aim	LOCATION	0
+1.0	recommendation	be in	final report	0	0
+1.0	two	need	President George W. Bush 's signature	0	PERSON
+1.0	Democrats	take	control of Congress follow November election	MISC	DATE
+1.0	panel	issue	the final report	0	0
+1.0	they	leave	foreign port	0	0
+0.5758315603460424	Democrats	control of	Congress follow November election	MISC	DATE
+1.0	legislation	be screen within	three year	0	DURATION
+1.0	legislation	be	screen	0	0
+1.0	recommendation	be in	report by bipartisan September 11 panel	0	DATE
+1.0	measure	be	pass	0	0
+1.0	President George W. Bush	have	signature	O	PERSON
+1.0	US House	approve measure at_time	Tuesday	LOCATION	DATE
+1.0	Democrats	take	control	MISC	0
+1.0	panel	issue	its report	0	0
+1.0	measure	be	overwhelmingly pass	0	0
+1.0	recommendation	offer	advice	0	0
+1.0	George W. Bush	have	signature become	PERSON	0
+1.0	measure	must pass in	Senate	0	ORGANIZATION
+1.0	US House	approve measure at_time	late Tuesday	LOCATION	DATE
+1.0	House	be	expect	ORGANIZATION	0
+1.0	the bipartisan September 11 panel	have	report	O	O
+1.0	Congress	have	control	O	ORGANIZATION

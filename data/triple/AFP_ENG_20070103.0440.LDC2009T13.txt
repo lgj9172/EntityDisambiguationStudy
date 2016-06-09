@@ -1,0 +1,65 @@
+1.0	nations	have	Group	ORGANIZATION	O
+1.0	Doha	be in	2001	LOCATION	DATE
+1.0	Schwab	meet	Amorim	PERSON	PERSON
+1.0	US Trade Representative Susan Schwab	hold talk at_time	Wednesday	LOCATION	PERSON
+1.0	World Economic Forum	be in	Switzerland	ORGANIZATION	LOCATION
+1.0	US Trade Representative Susan Schwab	break impasse in	stall round of global trade talk	LOCATION	0
+1.0	we	be have	good start	0	0
+1.0	Schwab	would meet at	World Economic Forum in Davos Switzerland	PERSON	ORGANIZATION
+1.0	key lie	make	progress	0	0
+1.0	Schwab	meet again	Amorim	PERSON	PERSON
+1.0	ministerial level	be in	small group	0	0
+1.0	New year	be with	talk	DATE	0
+1.0	Schwab	would meet again at	World Economic Forum in Davos Switzerland	PERSON	ORGANIZATION
+1.0	US Trade Representative Susan Schwab	break impasse in	stall round of trade talk	LOCATION	0
+1.0	small group	in level be	sub	0	0
+1.0	trade talks	have	round	O	O
+1.0	chief WTO negotiators	have	one	NUMBER	O
+1.0	Brazil	with	Brazil 's Foreign Minister Celso Amorim	LOCATION	PERSON
+1.0	key lie	make progress on	lot	0	0
+1.0	US Trade Representative Susan Schwab	break	impasse	LOCATION	0
+1.0	lie	make	progress	0	0
+1.0	Brazil	head	group of 20 develop nation struggle	LOCATION	NUMBER
+1.0	bargaining	have	lot	O	O
+1.0	Susan Schwab	be	the United States	PERSON	LOCATION
+1.0	bilateral	in level be	sub	0	0
+1.0	we	think on	side	0	0
+1.0	US Trade Representative Susan Schwab	hold talk as	part of effort	LOCATION	0
+1.0	US Trade Representative Susan Schwab	break impasse in	stall round	LOCATION	0
+1.0	lie	make progress on	lot of technical issue	0	0
+1.0	we	be have	start for New year	0	DATE
+1.0	developed state	end	farm subsidy	0	0
+1.0	Brazil	have	Foreign Minister Celso Amorim	PERSON	LOCATION
+1.0	trade talks	have	years	DURATION	O
+1.0	US Trade Representative Susan Schwab	hold	talk	LOCATION	0
+1.0	Brazil	head	group	LOCATION	0
+1.0	talk	be with	Brazil 's Foreign Minister Celso Amorim	0	PERSON
+1.0	his	have	talks	O	O
+1.0	US Trade Representative Susan Schwab	break impasse in	round of global trade talk	LOCATION	0
+1.0	issues	have	lot	O	O
+1.0	efforts	have	part	O	O
+1.0	lie	make progress on	lot	0	0
+1.0	Schwab	would meet at	World Economic Forum	PERSON	ORGANIZATION
+1.0	ministerial level	be in	bilateral	0	0
+1.0	key lie	make progress on	lot of technical issue	0	0
+1.0	Brazil	head	group of 20 develop nation	LOCATION	NUMBER
+1.0	Schwab	would meet again at	World Economic Forum	PERSON	ORGANIZATION
+1.0	US Trade Representative Susan Schwab	hold talk as	part	LOCATION	0
+1.0	Brazil 's Foreign Minister Celso Amorim	be foreign minister of	Brazil	PERSON	LOCATION
+1.0	we	be have	start	0	0
+1.0	kinds	have	More	O	O
+0.42290026505896555	US Trade Representative Susan Schwab	point	manner	PERSON	0
+1.0	Brazil 's	be among	chief negotiator	LOCATION	0
+1.0	Brazil	head	group of 20 nation	LOCATION	NUMBER
+1.0	conversations	have	lots	O	O
+1.0	Susan Schwab	be trade representative of	the United States	PERSON	LOCATION
+1.0	lie	make progress on	lot of issue	0	0
+1.0	state	end	farm subsidy	0	0
+1.0	key lie	make progress on	lot of issue	0	0
+1.0	US Trade Representative Susan Schwab	break impasse in	round of trade talk	LOCATION	0
+1.0	US Trade Representative Susan Schwab	break impasse in	round	LOCATION	0
+1.0	Brazil 's	be among	chief negotiator unable	LOCATION	0
+1.0	we	be have	good start for New year	0	DATE
+1.0	conversations	have	kinds	O	O
+1.0	US Trade Representative Susan Schwab	hold	talk with Brazil 's Foreign Minister Celso Amorim	LOCATION	PERSON
+1.0	Brazil	head	group of 20 nation struggle	LOCATION	NUMBER

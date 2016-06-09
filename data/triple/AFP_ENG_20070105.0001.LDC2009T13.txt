@@ -1,0 +1,226 @@
+1.0	signal	be	detect on Monday around village of Nuangan	0	LOCATION
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	Indonesia Friday	shift	search	LOCATION	0
+1.0	plane	have	destination	O	O
+0.9586979926470376	wreckage	have	have find in West Sulawesi	0	LOCATION
+0.5368487492027397	wreckage	remote jungle-covered mountain	survivor	0	0
+1.0	troops Friday	head back	police	DATE	0
+1.0	signal	only report on	Police Thursday	0	DATE
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast	0	LOCATION
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone	0	LOCATION
+1.0	signal	be detect around	coastal village	0	0
+1.0	Indonesia Friday	shift search on	board	LOCATION	0
+1.0	signal	be	detect on Monday around village of Nuangan in Bolaang Mongondow district	0	LOCATION
+1.0	focus	have shift to	area south	0	0
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	woman	have	report	O	O
+1.0	Adam Air Boeing	vanish from	radar screen Monday	ORGANIZATION	DATE
+0.9586979926470376	wreckage	have	have find	0	0
+1.0	search area	be	around Manado 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone	0	LOCATION
+1.0	troops	head back	police	0	0
+1.0	signal	be	detect on Monday around village in Bolaang Mongondow district	0	LOCATION
+1.0	search area	be	750 kilometre northeast of search zone in sea	0	NUMBER
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain near town in West Sulawesi	0	LOCATION
+1.0	search	be in	dinghy	0	0
+1.0	country	have	transport system	0	0
+0.9586979926470376	wreckage	have	have find on remote mountain near town	0	0
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain near town of Polewali in West Sulawesi	0	LOCATION
+1.0	Makassar	be in	South Sulawesi	LOCATION	LOCATION
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of original search zone	0	LOCATION
+1.0	search area	be	around Manado 750 kilometre northeast of search zone	0	LOCATION
+0.9495011854530412	four navy warship	carry	diver	NUMBER	0
+1.0	search area	be	around Manado 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	search area	be	around Manado 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	search area	be	750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	island	have	landscape	O	O
+1.0	search area	be	750 kilometre northeast of original search zone in sea	0	NUMBER
+1.0	search area	be	around Manado 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	Eddy Suyanto	be	also official spokesman	PERSON	0
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone	0	LOCATION
+1.0	rescue team	comb	area	0	0
+1.0	new search area	be	around Manado 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	Eddy Suyanto	be	official spokesman	PERSON	0
+1.0	main focus	have shift to	area south of Manado	0	LOCATION
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+0.9586979926470376	wreckage	have	have find on mountain near town	0	0
+1.0	new search area	be	around Manado 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	signal	be detect in	110 kilometre	0	NUMBER
+1.0	Eddy Suyanto	be spokesman for	search team	PERSON	0
+1.0	plane	do	same	DURATION	DURATION
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain	0	0
+1.0	signal	be	detect around village in Bolaang Mongondow district	0	LOCATION
+1.0	aircraft	from	emergency locator beacon	0	0
+1.0	Adam Air Boeing 737-400	vanish on	tip of Sulawesi island	ORGANIZATION	LOCATION
+1.0	troops	head	police	0	0
+1.0	Police Thursday	send	helicopter	DATE	0
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain near town in West Sulawesi	0	LOCATION
+0.9586979926470376	wreckage	have	have find on mountain in West Sulawesi	0	LOCATION
+1.0	signal	be	detect on Monday around coastal village in Bolaang Mongondow district	0	LOCATION
+1.0	search area	be	in North Sulawesi 750 kilometre northeast	0	LOCATION
+1.0	search area	be	750 kilometre northeast of search zone	0	NUMBER
+1.0	Eddy Suyanto	be also official spokesman for	search team	PERSON	0
+1.0	President Susilo Bambang Yudhoyono	have order	the	PERSON	0
+1.0	Manado 's Sam Ratulangi Airport	detect	signal	PERSON	0
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of original search zone	0	LOCATION
+1.0	Adam Air Boeing 737-400	vanish on	tip	ORGANIZATION	0
+1.0	country	have	transport systems	O	O
+1.0	helicopter	be force by	poor weather condition	0	DURATION
+1.0	Eddy Suyanto	be official spokesman for	search team	PERSON	0
+1.0	we	receive lead base on	elba	0	0
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	West Sulawesi	have	seas	O	LOCATION
+0.9586979926470376	wreckage	have	have find on remote mountain in West Sulawesi	0	LOCATION
+0.5368487492027397	wreckage	jungle-covered mountain	survivor	0	0
+1.0	airport	only report	Manado 's Sam Ratulangi Airport	0	0
+1.0	Singapore	be also help with	search	LOCATION	0
+1.0	signal	be	detect around coastal village of Nuangan in Bolaang Mongondow district	0	LOCATION
+1.0	Manado	have	south	O	LOCATION
+1.0	Hasanuddin Air Base	have	commander	O	LOCATION
+1.0	signal	be	detect around coastal village in Bolaang Mongondow district	0	LOCATION
+1.0	signal	be detect around	village of Nuangan	0	LOCATION
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of search zone	0	LOCATION
+1.0	Eddy Suyanto	commander of	Hasanuddin Air Base	PERSON	LOCATION
+1.0	new search area	be	750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	Adam Air Boeing	vanish on	northeast tip	ORGANIZATION	0
+1.0	750 kilometre northeast	be in	North Sulawesi	NUMBER	LOCATION
+0.9586979926470376	wreckage	have	have find on remote mountain near town in West Sulawesi	0	LOCATION
+1.0	signal	be	detect on Monday in Bolaang Mongondow district	0	LOCATION
+1.0	signal	be	detect on Monday around coastal village of Nuangan in Bolaang Mongondow district	0	LOCATION
+1.0	signal	be detect around	coastal village of Nuangan	0	LOCATION
+1.0	Singapore	have send	fokker-50 complete with search equipment	LOCATION	0
+1.0	new search area	be	750 kilometre northeast of search zone	0	NUMBER
+1.0	plane	have	bits	O	O
+1.0	plane	sink in	sea	0	0
+1.0	Indonesia Friday	shift	search for passenger jet	LOCATION	0
+1.0	Polewali	have	town	O	LOCATION
+1.0	signal	be detect around	village	0	0
+1.0	Manado	have	Sam Ratulangi Airport	LOCATION	PERSON
+1.0	Indonesia Friday	shift	search for miss passenger jet	LOCATION	0
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast	0	LOCATION
+1.0	troops	head back	villager	0	0
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain	0	0
+0.9586979926470376	wreckage	have	have find on remote mountain	0	0
+1.0	Adam Air Boeing	vanish to	Manado	ORGANIZATION	LOCATION
+1.0	Manado	have	southwest	O	LOCATION
+0.9586979926470376	wreckage	have	have find on mountain near town of Polewali	0	LOCATION
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain in West Sulawesi	0	LOCATION
+0.5368487492027397	wreckage	remote mountain	survivor	0	0
+1.0	Eddy Suyanto	be	also spokesman	PERSON	0
+0.9586979926470376	wreckage	have	have find on remote mountain near town of Polewali	0	LOCATION
+1.0	new search area	be	750 kilometre northeast of original search zone	0	NUMBER
+1.0	Adam Air Boeing	vanish through	flight	ORGANIZATION	0
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	Hasanuddin Air Base	be at	Makassar	LOCATION	LOCATION
+1.0	Manado	have	part	O	LOCATION
+1.0	new search area	be	around Manado 750 kilometre northeast of search zone	0	LOCATION
+1.0	troops	head	villager	0	0
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain near town of Polewali	0	LOCATION
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain in West Sulawesi	0	LOCATION
+1.0	Adam Air Boeing 737-400	vanish through	flight	ORGANIZATION	0
+1.0	Adam Air Boeing 737-400	vanish through	halfway flight	ORGANIZATION	0
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	Manado	have	Sam Ratulangi Airport	PERSON	LOCATION
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	Singapore	have send	fokker-50 complete	LOCATION	0
+1.0	focus	have shift to	area	0	0
+1.0	Air Marshal Eddy Suyanto	say in	Republika newspaper	PERSON	LOCATION
+1.0	Air Marshal Eddy Suyanto	be	quote	PERSON	0
+1.0	troops	head back	volunteer	0	0
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	Majene	have	concentrated	O	LOCATION
+1.0	search area	be	around Manado 750 kilometre northeast	0	LOCATION
+1.0	focus	have shift to	area south of Manado	0	LOCATION
+0.5368487492027397	wreckage	mountain	survivor	0	0
+1.0	plane	have	original destination	0	0
+1.0	signal	be	detect	0	0
+1.0	team	have	up setting	O	O
+1.0	signal	be detect in	Bolaang Mongondow district	0	LOCATION
+1.0	troops Friday	head	police	DATE	0
+1.0	Adam Air Boeing 737-400	vanish from	radar screen	ORGANIZATION	0
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	new search area	be	around Manado 750 kilometre northeast of original search zone	0	LOCATION
+1.0	signal	be detect on	Monday	0	DATE
+1.0	helicopter	be force by	weather condition	0	DURATION
+1.0	Adam Air Boeing	vanish through	halfway flight	ORGANIZATION	0
+1.0	new search area	be	750 kilometre northeast of search zone in sea	0	NUMBER
+1.0	Police Thursday	also send	helicopter	DATE	0
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	search area	be	750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	the air traffic control	detect	signal	0	0
+0.2808011379204011	Indonesia Friday	search for	miss passenger jet	LOCATION	0
+1.0	The search has been concentrated on the sea off Majene and Mamuju in West Sulawesi and areas inland based on	have	position	O	O
+0.9586979926470376	wreckage	have	have find on mountain	0	0
+1.0	Singapore	be help with	search	LOCATION	0
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	Sulawesi island	have	tip	O	O
+1.0	new search area	be	around Manado 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	Singapore	help	United States	LOCATION	LOCATION
+1.0	signal	be	detect on Monday around coastal village of Nuangan	0	LOCATION
+1.0	search area	be	around Manado 750 kilometre northeast of original search zone	0	LOCATION
+1.0	troops	head	volunteer	0	0
+1.0	troops Friday	head back	volunteer	DATE	0
+1.0	Eddy Suyanto	be also spokesman for	search team	PERSON	0
+1.0	Adam Air Boeing	vanish on	tip	ORGANIZATION	0
+1.0	signal	be	detect on Monday around village	0	DATE
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone	0	LOCATION
+1.0	Adam Air Boeing	vanish from	radar screen	ORGANIZATION	0
+1.0	signal	be detect in	68 mile	0	NUMBER
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain near town	0	0
+1.0	troops Friday	head	volunteer	DATE	0
+1.0	new search area	be	around Manado 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	signal	be	detect around village of Nuangan in Bolaang Mongondow district	0	LOCATION
+1.0	search area	be	in North Sulawesi 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	Adam Air Boeing 737-400	vanish from	radar screen Monday	ORGANIZATION	DATE
+1.0	signal	report on	Police Thursday	0	DATE
+1.0	Nuangan	have	village	O	LOCATION
+1.0	the air traffic control	detect signal from	aircraft 's emergency locator beacon	0	0
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone in sea	0	LOCATION
+1.0	airport	report	Manado 's Sam Ratulangi Airport	0	0
+1.0	Aircraft	be comb	search area	0	0
+1.0	Eddy Suyanto	be	spokesman	PERSON	0
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain near town	0	0
+1.0	Adam Air Boeing	vanish on	northeast tip of Sulawesi island	ORGANIZATION	LOCATION
+1.0	helicopter	make emergency landing at_time	Thursday	0	DURATION
+1.0	troops Friday	head back	villager	DATE	0
+1.0	search area	be	750 kilometre northeast	0	NUMBER
+1.0	Adam Air Boeing 737-400	vanish on	northeast tip	ORGANIZATION	0
+1.0	original search zone	be in	sea of West Sulawesi	0	LOCATION
+1.0	troops Friday	head	villager	DATE	0
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of original search zone in sea	0	LOCATION
+1.0	new search area	be	around Manado 750 kilometre northeast	0	LOCATION
+1.0	Singapore	also help	United States	LOCATION	LOCATION
+1.0	Mamuju	have	concentrated	O	LOCATION
+1.0	new search area	be	750 kilometre northeast of original search zone in sea of West Sulawesi	0	LOCATION
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast of search zone	0	LOCATION
+1.0	main focus	have shift to	area	0	0
+0.9586979926470376	wreckage	have	have find on mountain near town of Polewali in West Sulawesi	0	LOCATION
+1.0	helicopter	make	emergency landing	0	DURATION
+0.2808011379204011	Indonesia Friday	search for	passenger jet	LOCATION	0
+1.0	signal	be	detect on Monday around coastal village	0	DATE
+1.0	search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	Adam Air Boeing	vanish on	tip of Sulawesi island	ORGANIZATION	LOCATION
+1.0	Adam Air Boeing 737-400	vanish on	northeast tip of Sulawesi island	ORGANIZATION	LOCATION
+1.0	new search area	be	750 kilometre northeast of original search zone in sea	0	NUMBER
+0.9586979926470376	wreckage	have	have find on mountain near town in West Sulawesi	0	LOCATION
+1.0	helicopter	be	force	0	0
+1.0	Manado	destination 's	plane	LOCATION	0
+1.0	Adam Air Boeing	vanish through	flight from Surabaya	ORGANIZATION	LOCATION
+1.0	new search area	be	around Manado in North Sulawesi 750 kilometre northeast of search zone in sea of West Sulawesi	0	LOCATION
+1.0	woman	have	report see	0	0
+1.0	search area	be	750 kilometre northeast of original search zone	0	NUMBER
+1.0	fokker-50	complete with	search equipment	0	0
+1.0	Police Thursday	check	woman 's report	DATE	0
+0.9586979926470376	wreckage	have	have find on remote mountain near town of Polewali in West Sulawesi	0	LOCATION
+1.0	Adam Air Boeing 737-400	vanish through	flight from Surabaya	ORGANIZATION	LOCATION
+0.9586979926470376	wreckage	have	have find on remote jungle-covered mountain near town of Polewali in West Sulawesi	0	LOCATION
+1.0	Indonesia Friday	shift search with	102 people	LOCATION	NUMBER
+1.0	new search area	be	in North Sulawesi 750 kilometre northeast	0	LOCATION
+1.0	main focus	have shift to	area south	0	0
+1.0	aircraft	have	emergency locator beacon	O	O
+1.0	new search area	be	750 kilometre northeast	0	NUMBER
+0.9586979926470376	wreckage	have	have find on jungle-covered mountain near town of Polewali	0	LOCATION
+1.0	Adam Air Boeing	be with	96 passenger	ORGANIZATION	NUMBER
+1.0	search zones	have	kilometres northeast	O	O
+1.0	Adam Air Boeing 737-400	vanish to	Manado	ORGANIZATION	LOCATION
+1.0	Manado 's Sam Ratulangi Airport	detect signal from	plane	PERSON	0

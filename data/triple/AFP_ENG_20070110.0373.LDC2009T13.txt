@@ -1,0 +1,40 @@
+1.0	preparation	be among	subject discuss by egyptian President Hosni Mubarak	0	PERSON
+1.0	coalition	have	kind	O	O
+0.5861173442001438	Jordan	will meet at_time	week	LOCATION	DATE
+1.0	GCC	have meet time to	United States	ORGANIZATION	LOCATION
+1.0	GCC	have meet time with	Condoleezza Rice	ORGANIZATION	0
+1.0	Egypt	have	ministers	O	LOCATION
+1.0	Foreign Minister Ahmed Abul Gheit	tell news conference with	he counterpart	PERSON	0
+1.0	Rose al Yussef	be	daily	PERSON	SET
+1.0	Arab nation	be with	close tie	MISC	0
+1.0	GCC	have meet time over	past year	ORGANIZATION	DATE
+1.0	Rose al Yussef	be	egyptian	PERSON	0
+1.0	GCC	have meet	time	ORGANIZATION	0
+1.0	preparation	be among	subject discuss	0	0
+1.0	Abdullah II	be	Jordanian	PERSON	MISC
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	the subjects discussed by Egyptian President Hosni Mubarak and Jordanian King Abdullah II in a meeting the two had in Cairo	have	discussions	O	O
+1.0	preparation	be among	subject	0	0
+1.0	Foreign Minister Ahmed Abul Gheit	tell	news conference	PERSON	0
+1.0	preparation	be among	subject discuss by President Hosni Mubarak	0	PERSON
+1.0	GCC	have meet	many time	ORGANIZATION	0
+0.5861173442001438	Jordan	meet	Gulf Cooperation Council	LOCATION	ORGANIZATION
+1.0	government	have	formation	O	O
+1.0	subject	discuss by	President Hosni Mubarak	0	PERSON
+0.5861173442001438	Jordan	will meet in	Kuwait	LOCATION	LOCATION
+1.0	infighting	also figure highly in	they discussion	0	0
+1.0	Foreign Minister Ahmed Abul Gheit	tell news conference with	he jordanian counterpart	PERSON	0
+1.0	Foreign Minister Ahmed Abul Gheit	have	counterpart	O	O
+0.5861173442001438	Jordan	will meet with	US Secretary	LOCATION	LOCATION
+1.0	two	have in	Cairo	NUMBER	LOCATION
+0.5861173442001438	Jordan	will meet at_time	next week	LOCATION	DATE
+1.0	GCC	have	leaders	O	ORGANIZATION
+0.5861173442001438	Jordan	will meet with	US Secretary of State Condoleezza Rice	LOCATION	PERSON
+1.0	infighting	figure in	they discussion	0	0
+1.0	infighting	figure highly in	they discussion	0	0
+1.0	unity	have	government	O	O
+1.0	Hosni Mubarak	be by	egyptian	PERSON	0
+1.0	infighting	also figure in	they discussion	0	0
+1.0	technocrats	have	government	O	O
+1.0	subject	discuss by	egyptian President Hosni Mubarak	0	PERSON
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION

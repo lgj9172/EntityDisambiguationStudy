@@ -1,0 +1,140 @@
+1.0	458 run	be in	seven inning	NUMBER	NUMBER
+1.0	sizeable inning	lead with	England	0	LOCATION
+1.0	Read	have take	10 catch in two inning in series	0	NUMBER
+1.0	Steve Harmison	be for	four	PERSON	NUMBER
+1.0	England	get	wicket	LOCATION	0
+1.0	Bowden 's decision	be boo by	australian supporter in capacity SCG crowd	PERSON	ORGANIZATION
+0.8872082137934932	Shane Warne	give standing ovation to	crease	PERSON	0
+1.0	trademark	have	one	NUMBER	O
+1.0	Hussey	have score	458 run in seven inning in series	PERSON	NUMBER
+1.0	Adam Gilchrist in full cry	put australia in front of	England 's first inning	0	ORDINAL
+1.0	England	have	innings	O	LOCATION
+1.0	he	reach	10,000 first-class run	0	ORDINAL
+1.0	Adam Gilchrist in full cry	put on	58 run off 44 ball in partnership	PERSON	NUMBER
+1.0	inning	lead and with	England	0	0
+1.0	Panesar	have	deliveries	O	PERSON
+1.0	Adam Gilchrist in full cry	put australia in front of	England 's inning	0	LOCATION
+1.0	one	have	midst	O	NUMBER
+1.0	England	get wicket over	over day beat by Anderson 's swing off pitch	LOCATION	PERSON
+1.0	Adam Gilchrist in full cry	contain	Shane Warne	PERSON	PERSON
+1.0	allrounder 's bat	miss delivery from	James Anderson	0	PERSON
+1.0	inning	lead down and with	England	0	LOCATION
+1.0	England	get	wicket of Mike Hussey in second	LOCATION	ORDINAL
+1.0	he	reach	10,000 run	0	NUMBER
+1.0	England	contain	Australians	LOCATION	MISC
+1.0	Adam Gilchrist in full cry	cut	Steve Harmison for four	0	NUMBER
+1.0	inning	be with	single	0	0
+1.0	Adam Gilchrist in full cry	put on	58 run off just 44 ball	PERSON	NUMBER
+1.0	Adam Gilchrist in full cry	cut	Steve Harmison	0	PERSON
+1.0	inning	lead with	England	0	0
+1.0	James Anderson	be  at_time	10 minute	PERSON	DURATION
+1.0	Adam Gilchrist in full cry	put	Australia	0	LOCATION
+1.0	Shane Warne	have	intentions	O	O
+1.0	he	replace	Geraint Jones	0	PERSON
+1.0	England	get	prize wicket of Mike Hussey in second	LOCATION	ORDINAL
+1.0	England	contain	rapid-scoring Australians	LOCATION	MISC
+1.0	England	get wicket over	over day beat	LOCATION	DATE
+1.0	Panesar	off	next two delivery	PERSON	NUMBER
+1.0	pitch	have	beaten	O	O
+1.0	Gilchrist	with	controversial dismissal	PERSON	0
+1.0	sizeable inning	lead and with	England	0	LOCATION
+1.0	inning	lead and with	England	0	LOCATION
+1.0	Shane Warne	have	farewell Test appearance	O	O
+1.0	crease	be in	he farewell test appearance	0	0
+1.0	Adam Gilchrist in full cry	repeat	dose next ball	0	0
+1.0	allrounder	have	bat	0	0
+1.0	Hussey	have score	458 run	PERSON	NUMBER
+1.0	his	have	left	O	O
+1.0	Gilchrist	become	australian batsman	PERSON	0
+1.0	Read	have take	10 catch	0	NUMBER
+1.0	Bowden 's decision	be boo by	supporter in capacity SCG crowd television replay show	PERSON	ORGANIZATION
+1.0	he	replace	Geraint Jones for Melbourne Test	0	PERSON
+1.0	Bowden 's decision	be boo by	australian supporter	PERSON	0
+1.0	Dar	be	unmoved	PERSON	0
+1.0	umpire Dar	be	unmoved	PERSON	0
+1.0	Adam Gilchrist in full cry	put on	58 run	PERSON	NUMBER
+1.0	Andrew Symonds	be dismiss within	sight of he half-century attempt	PERSON	0
+1.0	innings	have	put	O	O
+1.0	Hussey	be on	score	PERSON	NUMBER
+1.0	Adam Gilchrist in full cry	be	swashbuckle	PERSON	0
+1.0	allrounder 's bat	miss delivery from	James Anderson 10 minute	0	DURATION
+1.0	Adam Gilchrist in full cry	put	contain	PERSON	0
+1.0	day	have	got	O	DATE
+1.0	his	have	trademark	O	O
+1.0	England	get	prize wicket	LOCATION	0
+1.0	Adam Gilchrist	be in	full cry	PERSON	0
+1.0	Shane Warne	show	he intention	PERSON	0
+1.0	Bowden	have	decision	PERSON	0
+1.0	Mike Hussey	be in	second	PERSON	ORDINAL
+1.0	he	replace	Geraint Jones for fourth Melbourne Test	0	ORDINAL
+1.0	10 catch	be in	two inning	NUMBER	NUMBER
+1.0	Andrew Symonds	be	dismiss	PERSON	0
+1.0	Adam Gilchrist in full cry	put on	58 run off 44 ball	PERSON	NUMBER
+1.0	Andrew Symonds	have	breakthrough Test century	DURATION	O
+1.0	Adam Gilchrist in full cry	put on	58 run off just 44 ball in partnership	PERSON	NUMBER
+1.0	Hussey	have now score	458 run in seven inning in series	PERSON	NUMBER
+1.0	Mike Hussey	have	wicket	O	PERSON
+1.0	England	get wicket over	over day beat by Anderson 's swing	LOCATION	PERSON
+1.0	Gilchrist	become	first australian batsman	PERSON	ORDINAL
+1.0	his	have	score	NUMBER	O
+1.0	Australia	threaten	establish	LOCATION	0
+1.0	Bowden 's decision	be	boo	PERSON	0
+1.0	century	be in	Melbourne	DURATION	LOCATION
+1.0	seven inning	be in	series	NUMBER	0
+1.0	Anderson	have	swing	O	PERSON
+1.0	Andrew Symonds	follow	he breakthrough test century	PERSON	DURATION
+1.0	Bowden	have	decision	O	PERSON
+1.0	Read	have take	10 catch in two inning	0	NUMBER
+1.0	England	in front of	first inning	LOCATION	ORDINAL
+1.0	two inning	be in	series	NUMBER	0
+1.0	Andrew Symonds	be dismiss within	sight of he half-century	PERSON	0
+1.0	allrounder 's bat	miss	wide delivery	0	0
+1.0	sizeable inning	lead and with	England	0	0
+1.0	Hussey	have now score	458 run in seven inning	PERSON	NUMBER
+1.0	sizeable inning	lead with	England	0	0
+1.0	England	wrestle	contain	LOCATION	0
+1.0	Gilchrist	reach	50 in inning	PERSON	NUMBER
+1.0	Gilchrist	have	dismissal	O	PERSON
+1.0	sizeable inning	lead down and with	England	0	LOCATION
+1.0	Andrew Symonds	be dismiss within	sight	PERSON	0
+1.0	allrounder 's bat	miss delivery before	lunch	0	0
+1.0	Anderson	by	swing	PERSON	0
+1.0	Panesar	have	reach	O	PERSON
+1.0	England	get wicket over	over day	LOCATION	DATE
+1.0	Bowden 's decision	be boo by	supporter in capacity SCG crowd	PERSON	ORGANIZATION
+1.0	Adam Gilchrist in full cry	put on	58 run off	PERSON	NUMBER
+1.0	Gilchrist	become	batsman	PERSON	0
+1.0	Gilchrist	reach	50 in inning with single	PERSON	NUMBER
+1.0	Adam Gilchrist in full cry	put	Shane Warne	PERSON	PERSON
+1.0	australian supporter	be in	capacity SCG crowd television replay show	0	ORGANIZATION
+1.0	England	get wicket over	over day beat off pitch	LOCATION	DATE
+1.0	Adam Gilchrist in full cry	repeat	dose ball	0	0
+1.0	Adam Gilchrist in full cry	put on	58 run off in partnership	PERSON	NUMBER
+1.0	Adam Gilchrist in full cry	contain	some hit	PERSON	0
+1.0	Bowden 's decision	be boo by	australian supporter in capacity SCG crowd television replay show	PERSON	ORGANIZATION
+1.0	Andrew Symonds	have	off-stump	O	O
+0.8872082137934932	Shane Warne	give	standing ovation	PERSON	0
+1.0	allrounder	have	bat	O	O
+1.0	Hussey	have now score	458 run	PERSON	NUMBER
+1.0	sizeable inning	lead down and with	England	0	0
+1.0	inning	lead with	England	0	LOCATION
+1.0	England	get	wicket of Mike Hussey	LOCATION	PERSON
+1.0	Bowden 's decision	be boo by	supporter	PERSON	0
+1.0	Andrew Symonds	follow	he breakthrough test century in Melbourne	PERSON	LOCATION
+1.0	deliveries	have	showed	O	O
+1.0	inning	lead down and with	England	0	0
+1.0	37	have	score	NUMBER	NUMBER
+0.8872082137934932	Shane Warne	give standing ovation to	crease in he farewell test appearance	PERSON	0
+1.0	Shane Warne	immediately show	he intention	PERSON	0
+1.0	Australia	roar into	34-run inning	LOCATION	0
+1.0	ground	have	scoop	O	O
+1.0	Adam Gilchrist	have	dismissal	O	PERSON
+1.0	Gilchrist	become	first batsman	PERSON	ORDINAL
+1.0	Billy Bowden	be for	62	PERSON	NUMBER
+1.0	Hussey	have score	458 run in seven inning	PERSON	NUMBER
+1.0	Australia	roar into	inning	LOCATION	0
+1.0	Andrew Symonds	have	half-century	O	O
+1.0	last laugh	be with	jubilant	0	0
+1.0	half-century	have	sight	O	O
+1.0	allrounder 's bat	miss	delivery	0	0
+1.0	England	get	prize wicket of Mike Hussey	LOCATION	PERSON

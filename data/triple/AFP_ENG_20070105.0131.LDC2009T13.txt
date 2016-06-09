@@ -1,0 +1,58 @@
+1.0	body	be	discover	0	0
+1.0	activist	hold	fresh protest	0	0
+1.0	up to 40 people , mostly children	have	village	O	O
+1.0	activist	hold protest in	Noida	0	LOCATION
+1.0	police	appear	keen	0	0
+1.0	police	fail	act	0	0
+1.0	businessman	behind	stylish bungalow	0	0
+1.0	activist	hold	protest	0	0
+1.0	Officials at the laboratory	have	cooperation	O	O
+1.0	tests	have	Results	O	O
+1.0	activist	hold	village resident	0	0
+1.0	victims	have	remains	O	O
+1.0	Officials at the laboratory	cooperation	condition	0	0
+1.0	people	be kill in	Noida home	0	LOCATION
+1.0	duty	have	neglect	O	O
+1.0	businessman	have	bungalow	O	O
+1.0	police	have	have accuse	0	0
+1.0	many people	be kill in	Noida home	0	LOCATION
+1.0	organ	be	sell	0	0
+1.0	medical official	release on	Thursday	0	DATE
+1.0	Forensic Science Laboratory	have	director	O	ORGANIZATION
+1.0	businessman	have	Noida home	O	O
+1.0	Moninder Singh Pandher	have	help	O	O
+1.0	media report	say at_time	Friday	0	DATE
+1.0	horrors	have	house	O	O
+1.0	Moninder Singh Pandher	surender	he help	PERSON	0
+1.0	official	release on	Thursday	0	DATE
+1.0	they village	be in	Noida	DURATION	LOCATION
+1.0	official	tell	newspaper	DURATION	DURATION
+1.0	the victims	have	torsos	O	O
+1.0	J.M Vyas	tell	reporter	PERSON	0
+1.0	J.M Vyas	tell reporter in	western Gandhinagar city	PERSON	LOCATION
+1.0	Officials at the laboratory	have	condition	O	O
+1.0	victims	have	11	NUMBER	O
+1.0	result	be	use primarily	0	0
+1.0	the accused	have	faculties	O	O
+1.0	affluent Noida	city of	New Delhi	LOCATION	LOCATION
+1.0	country	have	part	O	O
+1.0	they	list	11 of victim	0	NUMBER
+1.0	activist	hold protest outside	house	0	0
+1.0	brain	have	reaction	0	0
+1.0	brain	have	reaction	O	O
+1.0	people	be	kill	0	0
+1.0	victim	come from	poor family	0	0
+1.0	body	be	where discover	0	0
+1.0	New Delhi	have	satellite city	O	LOCATION
+1.0	victims	have	kidneys	O	O
+1.0	corpses	have	remains	O	O
+1.0	J.M Vyas	director of	Forensic Science Laboratory	PERSON	ORGANIZATION
+1.0	many people	be	kill	0	0
+1.0	victim	come from	family	0	0
+1.0	J.M Vyas	tell reporter in	Gandhinagar city	PERSON	LOCATION
+1.0	victims	have	photographs	O	O
+1.0	result	be	use	0	0
+1.0	Moninder Singh Pandher	surender	he domestic help	PERSON	0
+1.0	Moninder Singh Pandher	surender	kolus	PERSON	0
+1.0	people	have	murder	O	O
+1.0	they	list	11 victim	0	NUMBER

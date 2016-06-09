@@ -1,0 +1,53 @@
+1.0	future	have	economics	O	DATE
+1.0	number	rise to	50 million	0	NUMBER
+1.0	US official	be engage	government	LOCATION	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	its	have	iTunes online music	O	O
+1.0	Carlos Gutierrez	say in	Las Vegas	PERSON	LOCATION
+1.0	standards	have	pockets	O	O
+1.0	Apple	have	ipod-itunes bond	ORGANIZATION	0
+1.0	Government regulation	be	archaic in comparison to marketplace change	0	0
+1.0	Carlos Gutierrez	say at	international technology policy forum at Consumer Electronics Show	PERSON	0
+1.0	number	be	forecast	0	0
+1.0	worldwide	should	should free	0	0
+1.0	company	share	proprietary technology	0	0
+1.0	number	be forecast by	year 2010	0	DATE
+1.0	Government regulation	be archaic to	marketplace change work by technology	0	0
+1.0	we	need	recognize	0	0
+1.0	California	have	Apple Computer	ORGANIZATION	LOCATION
+1.0	technology	can reach	frontier	0	0
+1.0	US official	be also engage	french government	LOCATION	0
+1.0	Government regulation	be	archaic	0	0
+1.0	world	have	consumer electronics	O	O
+1.0	Government regulation	be archaic to	marketplace change work	0	0
+1.0	Government regulation	be in	US telecommunications industry	0	LOCATION
+1.0	Commerce	have	Department	ORGANIZATION	ORGANIZATION
+1.0	number	be forecast	rise to 50 million from just few million in 2005	0	NUMBER
+1.0	thousands	have	Tens	O	O
+1.0	number	be forecast	rise from just few million in 2005	0	DATE
+1.0	homes	have	number	O	O
+1.0	number	be forecast	rise to 50 million	0	NUMBER
+1.0	people	have	thousands	O	O
+1.0	Carlos Gutierrez	say at	technology policy forum	PERSON	0
+1.0	New technology	change	world	0	0
+1.0	Government regulation	be	dismantle	0	0
+1.0	Apple	have	bond	O	ORGANIZATION
+1.0	number	be forecast	rise	0	0
+1.0	Government regulation	be archaic to	marketplace change	0	0
+1.0	US President George W. Bush	have	administration	O	PERSON
+1.0	number	rise from	just few million in 2005	0	DATE
+1.0	US official	be also engage	government	LOCATION	0
+1.0	Government regulation	be	archaic in comparison to marketplace change work by technology	0	0
+1.0	Carlos Gutierrez	say at	international technology policy forum	PERSON	0
+1.0	Carlos Gutierrez	say at	technology policy forum at Consumer Electronics Show	PERSON	0
+1.0	California	have	Apple Computer	LOCATION	ORGANIZATION
+1.0	Government regulation	be archaic in	comparison	0	0
+1.0	world	at	largest consumer electronics	0	0
+1.0	we	need	policy	0	0
+1.0	Government regulation	be	archaic in comparison to marketplace change work	0	0
+0.49340962830233065	marketplace change	work by	technology	0	0
+1.0	decisions	have	takes	O	O
+1.0	US official	be engage	french government	LOCATION	0
+1.0	regulation	have	Much	O	O
+1.0	George W. Bush	be of	US	PERSON	LOCATION
+1.0	our	have	regulation	O	O

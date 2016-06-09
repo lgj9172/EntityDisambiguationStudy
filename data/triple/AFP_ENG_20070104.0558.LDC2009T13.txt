@@ -1,0 +1,86 @@
+1.0	Syria	be give	push	LOCATION	0
+1.0	Rafiq Hariri	be of	lebanese	PERSON	0
+1.0	problem	be	easier	0	0
+1.0	Bush	say after	talk at White House	PERSON	LOCATION
+1.0	Bush	say after	talk	PERSON	0
+1.0	ex-premier Rafiq Hariri	have	murder	O	PERSON
+1.0	Syrians	be	constructive	MISC	0
+1.0	its	have	work	O	O
+1.0	European Union	speak	say	ORGANIZATION	0
+1.0	Germany	assume	six-month presidency of European Union	LOCATION	ORGANIZATION
+1.0	Germany	to	call	LOCATION	0
+1.0	Darfur	have	province	O	LOCATION
+1.0	George W. Bush	be	the United States	PERSON	LOCATION
+1.0	European Union	have	presidency	O	ORGANIZATION
+1.0	problems	have	lot	O	O
+1.0	evolution	strengthen	bolster	0	0
+1.0	problem	lot of	other problem	0	0
+1.0	EU	forge	common position	LOCATION	0
+1.0	we	want	evolution of strong Lebanon	0	LOCATION
+1.0	Germany	assume	presidency of European Union	LOCATION	ORGANIZATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	EU	forge	position	LOCATION	0
+0.03191106735239502	we	want	strengthen	0	0
+1.0	Madam Chancellor	have	idea	0	0
+1.0	we	would like	European Union	0	ORGANIZATION
+1.0	refusal	have	critics	O	O
+1.0	Israel	have	state	O	LOCATION
+1.0	US President George W. Bush	agree for	Middle East peace push	LOCATION	LOCATION
+1.0	Germany	have	call	O	LOCATION
+1.0	Bush	reject talk in	he have context of Iraq	PERSON	LOCATION
+1.0	EU	forge	common position for negotiation on successor	LOCATION	0
+1.0	Angela Merkel	be with	German	PERSON	MISC
+1.0	Damascus	play	role	LOCATION	0
+1.0	George W. Bush	be on	Thursday	PERSON	DATE
+1.0	ministry spokesman	say at_time	Wednesday	0	DATE
+1.0	we	also want	evolution of strong Lebanon	0	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	her	have	third	ORDINAL	O
+1.0	Madam Chancellor	have	good idea	0	0
+1.0	we	also want	evolution	0	0
+1.0	Damascus	play	more positive role	LOCATION	0
+1.0	EU	forge	common position for negotiation	LOCATION	0
+1.0	Damascus	play	positive role	LOCATION	0
+1.0	past	have	debates	O	DATE
+1.0	Merkel	have	US visit	PERSON	LOCATION
+1.0	Merkel	's visit be	third	PERSON	ORDINAL
+1.0	right point	be in	time	0	0
+1.0	German Chancellor Angela Merkel	say at	US refusal	PERSON	LOCATION
+1.0	it	consider	auspicious time	0	0
+1.0	US President George W. Bush	agree for	new Middle East peace push	LOCATION	LOCATION
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	we	want	evolution	0	0
+1.0	quartet	have	mandate	0	0
+1.0	Group	have	leadership	O	O
+1.0	quartet	have	mandate	O	O
+1.0	state	have	recognition	O	O
+1.0	Merkel	say through	interpreter	PERSON	0
+1.0	Iraq	have	context	O	LOCATION
+1.0	we	also want	evolution of Lebanon	0	LOCATION
+1.0	Washington	have	refusal	O	LOCATION
+1.0	foreign ministry spokesman	say at_time	Wednesday	0	DATE
+1.0	countries	have	Group	O	O
+1.0	Washington	of	refusal back	LOCATION	0
+1.0	we	want	evolution of Lebanon	0	LOCATION
+1.0	US President George W. Bush	agree to	Germany 's call	LOCATION	LOCATION
+1.0	EU	forge	position for negotiation	LOCATION	0
+1.0	EU	forge	position for negotiation on successor	LOCATION	0
+1.0	it	be	auspicious time	0	0
+1.0	Lebanon	have	evolution	O	LOCATION
+1.0	Damascus	have squander	chance	LOCATION	0
+1.0	german ministry spokesman	say at_time	Wednesday	0	DATE
+1.0	Bush	say with	German Chancellor Angela Merkel	PERSON	MISC
+0.03191106735239502	we	also want	strengthen	0	0
+1.0	Bush	reject talk in	he have context	PERSON	0
+1.0	it	be	time	0	0
+1.0	Germany	assume	six-month presidency	LOCATION	DURATION
+0.9779158494769932	problem	lot of	other problem	0	0
+1.0	german foreign ministry spokesman	say at_time	Wednesday	0	DATE
+1.0	it	be	auspicious	0	0
+1.0	its	have	province	O	O
+1.0	Merkel	have	US visit	O	PERSON
+0.9779158494769932	problem	lot of	problem	0	0
+1.0	Germany	assume	presidency	LOCATION	0
+1.0	Syria	be give push on	Lebanon	LOCATION	LOCATION
+1.0	Iraq war	have	favor	O	O
+1.0	it	consider	time	0	0

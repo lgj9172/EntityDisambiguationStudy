@@ -1,0 +1,41 @@
+1.0	government	equitise	follow in 2009	0	DATE
+1.0	direct air link	be with	24 destination	0	NUMBER
+1.0	World Trade Organisation	be on	January 11	ORGANIZATION	DATE
+1.0	Vietnam 's stock market	witness growth in	2006	LOCATION	DATE
+1.0	government	say on	its official website	0	0
+1.0	official	have say in	past	0	DATE
+1.0	Vietnam Textile	become	Apparel Group	ORGANIZATION	ORGANIZATION
+1.0	nation	start soe reform in	1980s	0	DATE
+1.0	Vietnam Airlines	one of	most profitable state	ORGANIZATION	0
+1.0	Vietnam Textile	become	part	ORGANIZATION	0
+1.0	Vietnam 's stock market	be small by	standard	LOCATION	0
+1.0	control stake	be in	flag-carrier	0	0
+1.0	The communist nation	have	industrial	O	O
+1.0	communist nation	start soe reform in	1980s	0	DATE
+1.0	set	have	go	O	O
+1.0	which	have	15	NUMBER	O
+1.0	government	equitise by	year	0	DATE
+1.0	Vietnam 's stock market	witness	spectacular growth	LOCATION	0
+1.0	government	equitise by	next year	0	DATE
+1.0	nation	start	SOE reform	0	0
+1.0	Vietnam	have	airline	O	O
+1.0	Vietnam 's stock market	be small by	regional standard	LOCATION	0
+1.0	Vietnam	have	stock market	O	LOCATION
+1.0	Vietnam Airlines	have	website	O	O
+1.0	government	equitise	follow	0	0
+1.0	Vietnam 's stock market	be in	Ho Chi Minh City	LOCATION	LOCATION
+1.0	Vietnam	have	stock market in Ho Chi Minh City	LOCATION	LOCATION
+1.0	nation	start	modest SOE reform	0	0
+1.0	communist nation	start	SOE reform	0	0
+1.0	government	equitise	follow by Paper Corporation in 2009	0	ORGANIZATION
+1.0	government	say on	its website	0	0
+1.0	government	be in	statement	0	0
+1.0	communist nation	start	modest SOE reform	0	0
+1.0	Vietnam 's stock market	be	small	LOCATION	0
+1.0	500 million dollar	be in	January 11	MONEY	DATE
+1.0	dollars	have	value	O	MONEY
+1.0	government	say at_time	Tuesday	0	DATE
+1.0	Vietnam 's stock market	witness	growth	LOCATION	0
+1.0	government	equitise	follow by Paper Corporation	0	ORGANIZATION
+1.0	share	be in	more 50 major state-owned enterprise by 2010	0	NUMBER
+1.0	state	have	one	NUMBER	O

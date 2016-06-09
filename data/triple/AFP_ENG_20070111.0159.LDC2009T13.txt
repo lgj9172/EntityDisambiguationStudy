@@ -1,0 +1,78 @@
+1.0	the state-owned Sepah , Iran 's fifth largest bank	actively assist	Iran 's pursuit	ORGANIZATION	LOCATION
+1.0	Iran 's Bank Sepah Thursday	reject	US charge	DATE	ORGANIZATION
+1.0	Iran	have	pursuit	O	LOCATION
+1.0	US	cite	its allege	LOCATION	0
+1.0	mass destruction	have	weapons	O	O
+1.0	Iran	have	missile program	O	LOCATION
+1.0	US Treasury Department Tuesday	blacklist	Iran 's largest bank	ORGANIZATION	LOCATION
+1.0	department	have	anti-terrorism intelligence office	0	0
+1.0	uranium enrichment	have	program	O	O
+1.0	its allege	support for	terrorism	0	0
+1.0	Tehran	have	program	O	O
+1.0	Iran	have	missile procurement network	O	LOCATION
+1.0	Iran	have	Bank Saderat	ORGANIZATION	LOCATION
+1.0	bank	have ban	dollar	0	0
+1.0	US	similarly blacklist	Iran 's Bank Saderat	LOCATION	ORGANIZATION
+1.0	US	similarly blacklist	Iran 's state-owned Bank Saderat	LOCATION	ORGANIZATION
+1.0	Iran	have	bank	O	LOCATION
+1.0	which	have	some	O	O
+1.0	demand	halt	its program	0	0
+1.0	US	blacklist	Iran 's state-owned Bank Saderat	LOCATION	ORGANIZATION
+1.0	Iran	have	Bank Sepah Thursday	DATE	LOCATION
+1.0	issue	be in	the near future	0	DATE
+1.0	euro	be in	bid	0	0
+1.0	US Treasury Department Tuesday	blacklist	Iran 's fifth bank	ORGANIZATION	ORDINAL
+1.0	bank	have	commitments	O	O
+1.0	its	support for	terrorism	0	0
+1.0	US Treasury Department Tuesday	blacklist	Iran 's bank	ORGANIZATION	LOCATION
+1.0	a US Treasury	finance	country 's weapon program	0	0
+1.0	the state-owned Sepah , Iran 's fifth largest bank	be financial linchpin of	Iran 's missile procurement network	ORGANIZATION	LOCATION
+1.0	Iran	of	missile procurement network	LOCATION	0
+1.0	the state-owned Sepah , Iran 's fifth largest bank	actively assist	Iran 's pursuit of missile	ORGANIZATION	LOCATION
+1.0	wide implication	be in	global financial system heavily dependent on US currency	0	LOCATION
+1.0	Iran 's	have turn to	other currency	LOCATION	0
+1.0	Iran	's organization be	AIO	LOCATION	ORGANIZATION
+1.0	demand	halt	its nuclear program	0	0
+1.0	the state-owned Sepah , Iran 's fifth largest bank	actively assist	Iran 's pursuit of missile capable	ORGANIZATION	LOCATION
+1.0	the state-owned Sepah , Iran 's fifth largest bank	be linchpin of	Iran 's missile procurement network	ORGANIZATION	LOCATION
+1.0	country	have	weapons programs	O	O
+1.0	official Stuart Levey	head	department 's anti-terrorism intelligence office	PERSON	0
+1.0	Iran	to	Aerospace Industries Organization	LOCATION	ORGANIZATION
+1.0	bank	have	website	O	O
+1.0	Iran	have	fifth largest bank	LOCATION	ORDINAL
+1.0	Iran	have	pursuit of missile capable	LOCATION	0
+1.0	the boycott	have	domestic	O	O
+1.0	missiles	have	pursuit	O	O
+1.0	US Treasury Department Tuesday	accuse	The US Treasury Department Tuesday	ORGANIZATION	0
+1.0	US Treasury	charge in	statement	ORGANIZATION	0
+1.0	there would disturbance	be in	its domestic	0	0
+1.0	US	blacklist	Iran 's Bank Saderat	LOCATION	ORGANIZATION
+1.0	US Treasury Department Tuesday	blacklist	state-owned Sepah	ORGANIZATION	ORGANIZATION
+1.0	the state-owned Sepah , Iran 's fifth largest bank	be	linchpin	ORGANIZATION	0
+1.0	demand	halt	its controversial nuclear program	0	0
+1.0	country	have	weapon program	0	0
+1.0	missile procurement network	have	linchpin	O	O
+0.8565159297217301	dollar	base transaction of	of country	0	0
+1.0	the boycott	have	clients	O	O
+1.0	department	have	intelligence office	O	O
+1.0	US Treasury Department Tuesday	blacklist	the state-owned Sepah , Iran 's fifth largest bank	ORGANIZATION	ORGANIZATION
+1.0	the state-owned Sepah , Iran 's fifth largest bank	assist	Iran 's pursuit of missile capable	ORGANIZATION	LOCATION
+1.0	US	cite	its	LOCATION	0
+1.0	West fear	could	could use	MISC	0
+1.0	bank	on	website	0	0
+1.0	Iran	have	Bank Saderat	LOCATION	ORGANIZATION
+1.0	demand	halt	its controversial program	0	0
+1.0	the state-owned Sepah , Iran 's fifth largest bank	be	financial linchpin	ORGANIZATION	0
+1.0	a US Treasury	have	activities	O	O
+1.0	the state-owned Sepah , Iran 's fifth largest bank	assist	Iran 's pursuit	ORGANIZATION	LOCATION
+1.0	Iran	have	Aerospace Industries Organization	ORGANIZATION	LOCATION
+1.0	the state-owned Sepah , Iran 's fifth largest bank	assist	Iran 's pursuit of missile	ORGANIZATION	LOCATION
+1.0	transaction	be in	US dollar	0	LOCATION
+1.0	Iran	have	missile program	LOCATION	0
+1.0	Treasury	accuse	Bank Sepah	ORGANIZATION	ORGANIZATION
+1.0	Iran	have	Thursday	LOCATION	DATE
+1.0	official Stuart Levey	head	department 's intelligence office	PERSON	0
+1.0	Iran 's	have turn to	currency	LOCATION	0
+1.0	US Treasury Department Tuesday	blacklist	the state-owned Sepah , Iran 's fifth largest bank	ORGANIZATION	ORDINAL
+1.0	Iran 's	dodge	ban	LOCATION	0
+1.0	Tehran	defy	demand	LOCATION	0

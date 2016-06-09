@@ -1,0 +1,39 @@
+1.0	Dallas	add to	its lead	LOCATION	0
+1.0	Dallas	begin	fourth quarter	LOCATION	DATE
+1.0	Dallas	down seattle supersonics at_time	112-88	LOCATION	NUMBER
+1.0	Dallas	add with	78-72 advantage	LOCATION	NUMBER
+1.0	Dallas	add with	78-72 advantage already in hand	LOCATION	NUMBER
+1.0	18 point	assist	eight	NUMBER	NUMBER
+1.0	Mavericks	be	able	ORGANIZATION	0
+1.0	Mavericks	be able	Phoenix Suns ' 15	ORGANIZATION	ORGANIZATION
+1.0	Dirk Nowitzki	lead	the streak	PERSON	0
+1.0	Erick Dampier	have	trio	O	PERSON
+1.0	its	have	lead	O	O
+1.0	Mavericks	be	able to December behind Phoenix Suns ' 15	ORGANIZATION	ORGANIZATION
+1.0	the streaking	have	National Basketball Association victory	O	O
+1.0	78-72 advantage	be in	already hand	NUMBER	0
+1.0	Dirk Nowitzki	lead	the	PERSON	0
+1.0	second longest streak	be in	NBA	ORDINAL	ORGANIZATION
+1.0	Mavericks	be able to	December	ORGANIZATION	DATE
+1.0	Devin Harris	score	16	PERSON	NUMBER
+1.0	Josh Howard	add	21 point	PERSON	NUMBER
+1.0	Dallas	add with	78-72 advantage in hand	LOCATION	NUMBER
+1.0	Mavericks	capture	season-high 12 consecutive game from November 9	ORGANIZATION	DATE
+1.0	Dallas	begin	quarter	LOCATION	DATE
+1.0	Dallas	add with	impressive 15-3 burst	LOCATION	NUMBER
+1.0	Mavericks	capture	12 consecutive game from November 9	ORGANIZATION	DATE
+1.0	Dallas	down	Seattle SuperSonics	LOCATION	ORGANIZATION
+1.0	Greg Bucker	have	trio	O	PERSON
+1.0	Dallas	add with	burst	LOCATION	0
+1.0	Howard	have	trio	O	PERSON
+1.0	game-time decision	be with	sinus infection	0	0
+1.0	Mavericks	capture	season-high 12 game from November 9	ORGANIZATION	DATE
+1.0	Mavericks	capture	12 consecutive game	ORGANIZATION	DATE
+1.0	Mavericks	capture	12 game from November 9	ORGANIZATION	DATE
+1.0	Mavericks	capture	season-high 12 consecutive game	ORGANIZATION	DATE
+1.0	Dirk Nowitzki	nab	31 point	PERSON	NUMBER
+1.0	Jason Terry	have	18 point assist	PERSON	NUMBER
+1.0	Mavericks	capture	12 game	ORGANIZATION	DATE
+1.0	Dallas	add with	impressive burst	LOCATION	0
+0.13578433017498404	Dallas	add	begin	LOCATION	0
+1.0	Mavericks	capture	season-high 12 game	ORGANIZATION	DATE

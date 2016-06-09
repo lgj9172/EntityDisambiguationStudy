@@ -1,0 +1,238 @@
+1.0	chief negotiator Saeb Erakat	be	cautious	PERSON	0
+1.0	Corporal Gilad Shalit	be hand over	over custody	PERSON	0
+1.0	chief negotiator Saeb Erakat	be cautious about	move	PERSON	0
+1.0	israeli official	tell afp daily in	response	0	0
+1.0	Israel on Monday	would free in	second phase	LOCATION	ORDINAL
+1.0	prisoner exchange proposal	swiftly dismiss by	Israel on Monday	0	LOCATION
+1.0	prisoner exchange proposal	be deliver to	minister Ismail Haniya	0	PERSON
+1.0	Abu Obeida	spokesman for	military wing of Hamas	PERSON	ORGANIZATION
+1.0	israeli official	tell afp daily to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	senior official	tell afp to	report	0	0
+1.0	he	capture	London	0	LOCATION
+1.0	soldier	have	father	O	O
+1.0	prisoner exchange proposal	be reportedly deliver to	palestinian prime minister Ismail Haniya	0	PERSON
+1.0	Tzahi Hanegbi	have	knowledge	O	O
+1.0	groups	have	one	NUMBER	O
+0.25331100359622694	demand	release for	capture israeli soldier say	0	0
+1.0	israeli official	tell afp daily to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	premier	improve	humanitarian condition	0	0
+1.0	fluidity	have	reports	O	O
+1.0	prisoner exchange proposal	be reportedly deliver to	palestinian minister Ismail Haniya	0	PERSON
+1.0	children	have	release	O	O
+1.0	israeli premier	improve	humanitarian condition for Palestinians	0	MISC
+1.0	unspecified number	bring release to	around 1,500	0	NUMBER
+1.0	israeli premier	improve	condition for Palestinians	0	MISC
+1.0	senior israeli official	tell afp in	response	0	0
+1.0	Saeb Erakat	be	palestinian	PERSON	0
+1.0	1,500 prisoner	be in	return	NUMBER	0
+1.0	women	have	release	O	O
+1.0	senior official	tell	AFP	0	ORGANIZATION
+1.0	senior israeli official	tell afp daily to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	advances	have	Hamas declarations	O	O
+1.0	Hamas	have	wing	O	ORGANIZATION
+1.0	Corporal Gilad Shalit	once be hand over	over custody	PERSON	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release spark by Hamas declaration of advance	LOCATION	ORGANIZATION
+1.0	Abu Obeida	refer to	breakthrough	PERSON	0
+1.0	prisoner exchange proposal	be	reportedly deliver	0	0
+1.0	senior israeli official	tell afp daily to	report	0	0
+1.0	official	tell afp daily in	response	0	0
+1.0	information	have	lot	O	O
+1.0	report	be in	meanwhile West Bank	0	LOCATION
+1.0	two man 's first meeting	be in	six month	ORDINAL	DURATION
+1.0	Defence Minister Amir Peretz	tell	army radio	PERSON	ORGANIZATION
+1.0	Omar Suleiman	be	egyptian	PERSON	0
+1.0	israeli premier	improve condition with	president Mahmud Abbas	0	PERSON
+1.0	number	would	two month later would free	0	DATE
+1.0	palestinian chief negotiator Saeb Erakat	be cautious about	move	PERSON	0
+1.0	checkpoint	be in	West Bank	0	LOCATION
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release spark	LOCATION	PERSON
+1.0	Shalit	of	imminent release spark by Hamas declaration of advance in negotiation for prisoner swap	PERSON	ORGANIZATION
+1.0	Haniya 's Hamas movement	be one of	three group involve	PERSON	NUMBER
+0.25331100359622694	palestinian demand	release for	soldier say	0	0
+1.0	men	have	meeting	O	O
+1.0	demand	release for	capture soldier	0	0
+1.0	report	be in	the occupied West Bank	0	LOCATION
+1.0	senior israeli official	tell afp daily to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release spark by Hamas declaration of advance	LOCATION	ORGANIZATION
+1.0	prisoner exchange proposal	be reportedly deliver to	minister Ismail Haniya	0	PERSON
+1.0	Israel on Monday	ease there	restriction	0	0
+1.0	israeli Prime Minister Ehud Olmert	discuss	issue	PERSON	0
+1.0	soldier 's father	deny	significant progress	0	0
+1.0	Haniya 's Hamas movement	be one	three group involve	PERSON	NUMBER
+1.0	palestinian demand	release around	1,500 prisoner in return	0	NUMBER
+1.0	unspecified number	would	two month later would free	0	DATE
+1.0	Abu Obeida	say at_time	Sunday	PERSON	DATE
+0.25331100359622694	palestinian demand	release for	capture soldier say	0	0
+1.0	Corporal Gilad Shalit	have	video	O	PERSON
+1.0	Ehud Olmert	be in	December	PERSON	DATE
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release spark	LOCATION	PERSON
+1.0	unspecified number	bring	total release	0	0
+1.0	Israel 's rejection	dampen	rumour	LOCATION	0
+1.0	palestinian chief negotiator Saeb Erakat	be	cautious	PERSON	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release spark by Hamas declaration of advance in negotiation	LOCATION	ORGANIZATION
+1.0	official	tell	AFP	0	ORGANIZATION
+1.0	soldier	have	father	0	0
+1.0	Palestinians	have	conditions	O	MISC
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release spark by Hamas declaration of advance in negotiation for prisoner swap	LOCATION	ORGANIZATION
+1.0	senior israeli official	tell daily	AFP	0	ORGANIZATION
+1.0	premier	improve	condition for Palestinians	0	MISC
+1.0	Prime Minister Ehud Olmert	discuss issue at_time	Monday	PERSON	DATE
+1.0	soldier 's father	also deny	significant progress	0	0
+1.0	prisoner exchange proposal	be deliver to	palestinian minister Ismail Haniya	0	PERSON
+1.0	premier	improve condition with	palestinian president Mahmud Abbas	0	PERSON
+1.0	Corporal Gilad Shalit	be hand over	over egyptian custody	PERSON	0
+1.0	number	bring	total release	0	0
+1.0	palestinian demand	release for	capture soldier	0	0
+1.0	prisoner exchange proposal	be	deliver to palestinian prime minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	israeli Prime Minister Ehud Olmert	discuss issue at_time	Monday	PERSON	DATE
+1.0	Tzahi Hanegbi	say	lawmaker	PERSON	0
+1.0	number	bring release to	around 1,500	0	NUMBER
+1.0	afp correspondent	be in	West Bank	0	LOCATION
+1.0	number	would	would free	0	0
+0.25331100359622694	demand	release for	israeli soldier say	0	0
+1.0	Sharm el-Sheikh	have	Red Sea resort	O	LOCATION
+1.0	palestinian demand	release for	soldier	0	0
+1.0	prisoners	have	number	O	O
+1.0	palestinian demand	release for	capture israeli soldier	0	0
+1.0	intelligence chief Omar Suleiman	deliver	three	PERSON	NUMBER
+1.0	Shalit	have	release	O	PERSON
+1.0	official	tell afp to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	Corporal Gilad Shalit	be seize in	cross-border raid	PERSON	0
+1.0	demand	release around	1,500 prisoner in return	0	NUMBER
+1.0	official	call for	restraint	0	0
+1.0	egyptian intelligence chief Omar Suleiman	deliver	three	PERSON	NUMBER
+1.0	Israel on Monday	would free in	phase	LOCATION	0
+1.0	Haniya 's Hamas movement	be one	three group involve in June capture of corporal Gilad Shalit	PERSON	NUMBER
+1.0	Corporal Gilad Shalit	be seize in	deadly raid from Gaza	PERSON	LOCATION
+1.0	prisoner exchange proposal	be	reportedly deliver to palestinian minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	Israel	be on	Monday	LOCATION	DATE
+1.0	Israel	have	rejection	O	LOCATION
+1.0	Corporal Gilad Shalit	be	hand	PERSON	0
+1.0	prisoner exchange proposal	be	reportedly deliver to minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	senior official	tell afp daily to	report	0	0
+1.0	Israel on Monday	ease	restriction	0	0
+1.0	palestinian demand	release around	1,500 prisoner	0	NUMBER
+1.0	prisoner exchange proposal	be deliver during	pilgrimage	0	0
+1.0	unspecified number	would	later would free	0	DATE
+1.0	Corporal Gilad Shalit	be	seize	PERSON	0
+1.0	premier	improve condition with	president Mahmud Abbas	0	PERSON
+1.0	official	tell afp to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	senior israeli official	tell	AFP	0	ORGANIZATION
+1.0	Abu Obeida	refer to	breakthrough in talk	PERSON	0
+1.0	premier	improve	condition	0	0
+0.25331100359622694	demand	release for	capture soldier say	0	0
+1.0	israeli official	tell afp to	report	0	0
+1.0	senior official	tell afp daily to	report by Asharq Al-Awsat	0	ORGANIZATION
+0.25331100359622694	palestinian demand	release for	israeli soldier say	0	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release spark by Hamas declaration of advance in negotiation for prisoner swap	LOCATION	ORGANIZATION
+1.0	Mahmud Abbas	be with	palestinian	PERSON	0
+1.0	Haniya 's Hamas movement	be one	three group	PERSON	NUMBER
+1.0	unspecified number	bring	release	0	0
+1.0	senior official	tell afp to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	official	tell afp daily to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	Ismail Haniya	be to	palestinian	PERSON	0
+1.0	prisoner exchange proposal	dismiss by	Israel on Monday	0	LOCATION
+1.0	prisoner exchange proposal	be deliver to	palestinian prime minister Ismail Haniya	0	PERSON
+1.0	official	tell afp daily to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	official	tell afp to	report	0	0
+1.0	release	have	rumours	O	O
+1.0	Abu Obeida	refer to	important breakthrough in talk	PERSON	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release	LOCATION	PERSON
+1.0	Prime Minister Ehud Olmert	discuss	issue	PERSON	0
+1.0	israeli official	tell	AFP	0	ORGANIZATION
+1.0	Haniya 's Hamas movement	be one	three group involve in June capture	PERSON	NUMBER
+1.0	soldier 's father	free	he son	0	0
+1.0	israeli official	tell afp to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	450 male prisoners on a list	have	exchange	O	O
+1.0	israeli premier	improve condition after	December 23 talk	0	DATE
+1.0	Corporal Gilad Shalit	be	once hand	PERSON	DATE
+1.0	senior israeli official	tell afp to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	Israel on Monday	once receive	recent video of corporal Gilad Shalit	LOCATION	PERSON
+1.0	prisoner exchange proposal	be	deliver to palestinian minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	premier	improve	humanitarian condition for Palestinians	0	MISC
+1.0	Hosni Mubarak	be between	Egyptian	PERSON	MISC
+1.0	Haniya 's Hamas movement	be one of	three group involve in June capture	PERSON	NUMBER
+1.0	israeli official	tell afp in	response	0	0
+1.0	prisoner exchange proposal	be	deliver to minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	Corporal Gilad Shalit	be seize in	deadly raid	PERSON	0
+1.0	demand	release for	israeli soldier	0	0
+1.0	prisoner exchange proposal	be	reportedly deliver to prime minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	premier	improve condition after	December 23 talk	0	DATE
+1.0	Corporal Gilad Shalit	tell	radio	0	0
+1.0	advance	be in	negotiation for prisoner swap	0	0
+1.0	prisoner exchange proposal	be	reportedly deliver to palestinian prime minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	Egyptian intelligence chief Omar Suleiman	have	capture	O	O
+0.6575298827892421	AFP	request	anonymity	ORGANIZATION	0
+1.0	Israel	have	rejection of plan	LOCATION	0
+1.0	important breakthrough	be in	talk	0	0
+1.0	plan	have	rejection	O	O
+1.0	senior official	tell afp daily in	response	0	0
+1.0	senior israeli official	tell afp daily in	response	0	0
+1.0	prisoner exchange proposal	be deliver to	prime minister Ismail Haniya	0	PERSON
+1.0	demand	release for	soldier	0	0
+1.0	Palestinians	have	hundreds	O	MISC
+1.0	prisoner exchange proposal	part of	most-detailed egyptian plan yet	0	0
+1.0	israeli premier	improve condition with	palestinian president Mahmud Abbas	0	PERSON
+1.0	senior official	tell afp to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	Haniya	have	Hamas movement	PERSON	ORGANIZATION
+1.0	Abu Obeida	refer to	important breakthrough	PERSON	0
+1.0	prisoner exchange proposal	be	deliver	0	0
+1.0	Corporal Gilad Shalit	be seize in	raid from Gaza	PERSON	LOCATION
+1.0	Corporal Gilad Shalit	be seize in	cross-border raid from Gaza	PERSON	LOCATION
+0.25331100359622694	palestinian demand	release for	capture israeli soldier say	0	0
+1.0	Corporal Gilad Shalit	have	June capture	O	PERSON
+0.618903677852906	Israel on Monday	recent video of	corporal Gilad Shalit	LOCATION	PERSON
+1.0	Palestinian chief negotiator Saeb Erakat	tell	AFP	0	ORGANIZATION
+1.0	palestinian demand	release for	israeli soldier	0	0
+1.0	israeli premier	improve	humanitarian condition	0	0
+1.0	israeli premier	improve	condition	0	0
+1.0	Haniya 's Hamas movement	be one of	three group	PERSON	NUMBER
+1.0	senior israeli official	tell afp to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	Corporal Gilad Shalit	once be hand over	over egyptian custody	PERSON	0
+1.0	official	tell afp daily to	report	0	0
+1.0	israeli official	tell daily	AFP	0	ORGANIZATION
+1.0	number	bring	release	0	0
+1.0	senior israeli official	tell afp to	report	0	0
+1.0	Corporal Gilad Shalit	have	son	O	O
+1.0	Haniya 's Hamas movement	be one of	three group involve in June capture of corporal Gilad Shalit	PERSON	NUMBER
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release spark by Hamas declaration	LOCATION	ORGANIZATION
+1.0	Asharq Al-Awsat	be by	saudi-owned	ORGANIZATION	0
+1.0	soldier	's father be	Corporal Gilad Shalit	0	PERSON
+1.0	prisoner exchange proposal	be reportedly deliver during	pilgrimage	0	0
+1.0	Corporal Gilad Shalit	be seize in	raid	PERSON	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release	LOCATION	PERSON
+1.0	security official	say	witness	0	0
+1.0	Israel on Monday	say despite	apparent stalemate	LOCATION	0
+1.0	report	be in	meanwhile occupied West Bank	0	LOCATION
+1.0	Haniya	have	Hamas movement	O	PERSON
+1.0	news	have	piece	O	O
+1.0	a lot of information -LRB- about a breakthrough -RRB-	be	unfounded	0	0
+1.0	senior official	tell daily	AFP	0	ORGANIZATION
+1.0	Prime Minister Ehud Olmert	discuss issue with	security expert	PERSON	0
+1.0	two man	have	first meeting in six month	NUMBER	ORDINAL
+1.0	Corporal Gilad Shalit	have	release	O	PERSON
+1.0	senior official	tell afp in	response	0	0
+1.0	senior official	tell afp daily to	report by saudi-owned Asharq Al-Awsat	0	ORGANIZATION
+1.0	Corporal Gilad Shalit	tell	israeli radio	0	0
+1.0	plan	have	part	O	O
+1.0	Corporal Gilad Shalit	be seize in	deadly cross-border raid from Gaza	PERSON	LOCATION
+1.0	israeli official	tell afp daily to	report	0	0
+1.0	unspecified number	would	would free	0	0
+1.0	security official	be in	Nablus	0	LOCATION
+1.0	Israel 's rejection	dampen	rumour of Shalit 's release spark by Hamas declaration	LOCATION	ORGANIZATION
+1.0	israeli official	tell afp to	report by Asharq Al-Awsat	0	ORGANIZATION
+1.0	prisoner exchange proposal	be	deliver to prime minister Ismail Haniya during pilgrimage	0	PERSON
+1.0	report	be in	occupied West Bank	0	LOCATION
+1.0	demand	release for	capture israeli soldier	0	0
+1.0	official	tell daily	AFP	0	ORGANIZATION
+1.0	demand	release around	1,500 prisoner	0	NUMBER
+1.0	israeli Prime Minister Ehud Olmert	discuss issue with	security expert	PERSON	0
+1.0	Ehud Olmert	be	Israeli	PERSON	MISC
+1.0	prisoner exchange proposal	be reportedly deliver to	prime minister Ismail Haniya	0	PERSON
+1.0	number	would	later would free	0	DATE
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	Israel 's rejection	dampen	rumour of Shalit 's imminent release spark by Hamas declaration of advance in negotiation	LOCATION	ORGANIZATION
+1.0	Security officials and witnesses in Nablus	have	eyes	O	O
+1.0	Corporal Gilad Shalit	be seize in	deadly cross-border raid	PERSON	0
+0.25331100359622694	demand	release for	soldier say	0	0
+1.0	official	tell afp in	response	0	0

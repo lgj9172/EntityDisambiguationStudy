@@ -1,0 +1,12 @@
+1.0	CAC 40 index	lose	0.12 percent	NUMBER	PERCENT
+1.0	european stock market	close	mostly higher	0	0
+1.0	stock market	close	mostly higher	0	0
+1.0	european stock market	close	higher	0	0
+1.0	stock market	close with	London ftse 100 index	0	LOCATION
+1.0	Dax	end at	6,691.32 point	0	NUMBER
+1.0	european stock market	close with	London ftse 100 index	0	LOCATION
+1.0	stock market	close on	Wednesday	0	DATE
+1.0	stock market	close	higher	0	0
+1.0	Dax	gain	0.15 percent	0	PERCENT
+1.0	CAC index	lose	0.12 percent	MISC	PERCENT
+1.0	european stock market	close on	Wednesday	0	DATE

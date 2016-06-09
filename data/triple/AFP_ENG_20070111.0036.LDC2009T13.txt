@@ -1,0 +1,93 @@
+1.0	draw	include	eight former world number one	0	NUMBER
+1.0	Spain 's Rafael Nadal	be	seed	LOCATION	0
+1.0	eight former world number one	compete	18 of top 20 woman	NUMBER	NUMBER
+1.0	second seed	be in	the man 's	ORDINAL	0
+1.0	Kim Clijsters	be finalist at	Open	PERSON	MISC
+1.0	Sharapova	claim	five title include US Open	PERSON	MISC
+1.0	woman seed	could face	dangerous floater	0	0
+1.0	man 's seeding	include	in-form Serb Novak Djokovic	0	ORGANIZATION
+1.0	woman seed	could face	floater	0	0
+1.0	eight former world number one	compete	18 top 20 woman	NUMBER	NUMBER
+1.0	Spain 's Rafael Nadal	miss	australian Open last year	LOCATION	MISC
+1.0	greek Cypriot crowd-pleaser Marcos Baghdatis	be	seed	PERSON	0
+1.0	Amelie Mauresmo	come into	2007 event	PERSON	DATE
+1.0	Sharapova	lead	strong russian contingent	PERSON	0
+1.0	eight former world number one	compete	all top 20 man	NUMBER	NUMBER
+1.0	Kim Clijsters	embark on	she year	PERSON	DURATION
+1.0	Marcos Baghdatis	be	greek Cypriot	PERSON	MISC
+1.0	man 's seeding	include	in-form Serb Novak Djokovic at No. 14	0	ORGANIZATION
+1.0	Svetlana Kuznetsova	be	US Open	PERSON	MISC
+1.0	eight former world number one	compete	18 20 woman	NUMBER	NUMBER
+1.0	man 's seeding	include	Serb Novak Djokovic at No. 14	0	ORGANIZATION
+1.0	woman	have	seeding	0	0
+1.0	Australia	with	Alicia Molik	LOCATION	PERSON
+1.0	draw	be with	Alicia Molik	0	PERSON
+1.0	Australia	have	Alicia Molik	PERSON	LOCATION
+1.0	men	have	seedings	O	O
+1.0	eight former world number one	compete	all of top 20 man	NUMBER	NUMBER
+1.0	Spain 's Rafael Nadal	be	second seed	LOCATION	ORDINAL
+1.0	man 's seeding	also include	Serb Novak Djokovic	0	ORGANIZATION
+1.0	Sharapova	claim	five title in 2006 include US Open	PERSON	MISC
+1.0	Sharapova	lead	russian contingent	PERSON	0
+1.0	Open draw	take	place	MISC	0
+1.0	Kim Clijsters	be seed	no. 4	PERSON	NUMBER
+1.0	man 's seeding	also include	in-form Serb Novak Djokovic at No. 14	0	ORGANIZATION
+1.0	five title	be in	2006	NUMBER	DATE
+1.0	Kim Clijsters	embark on	she final year	PERSON	DURATION
+1.0	Sharapova	lead	strong contingent	PERSON	0
+1.0	woman seed	could face floater in	draw with Australia 's Alicia Molik	0	PERSON
+1.0	Spain 's Rafael Nadal	miss	Open year	LOCATION	MISC
+1.0	singles	announce 's	man 's	0	0
+1.0	Kim Clijsters	be finalist at	2004 australian Open	PERSON	MISC
+1.0	Spain 's Rafael Nadal	be second seed in	the man 's	LOCATION	0
+1.0	Spain	have	Rafael Nadal	PERSON	LOCATION
+1.0	greek Cypriot crowd-pleaser Marcos Baghdatis	be seed at	11	PERSON	NUMBER
+1.0	Sharapova	claim	five title	PERSON	NUMBER
+1.0	Cypriot crowd-pleaser Marcos Baghdatis	be	seed	PERSON	0
+1.0	Kim Clijsters	embark on	she final year on WTA Tour	PERSON	MISC
+1.0	Kim Clijsters	be finalist at	australian Open	PERSON	MISC
+1.0	Britain	have	Andy Murray	PERSON	LOCATION
+1.0	men	have	all	O	O
+1.0	Spain 's Rafael Nadal	miss	australian Open last year with left foot injury	LOCATION	MISC
+1.0	her	have	year	DURATION	O
+1.0	Spain 's Rafael Nadal	be seed in	the man 's	LOCATION	0
+1.0	australian Open draw	take	place on Friday	MISC	DATE
+1.0	seeds	have	contingent	O	O
+1.0	Serena Williams	be	australian Open	PERSON	MISC
+1.0	Sharapova	top	woman 's seeding	PERSON	0
+1.0	Amelie Mauresmo	defend	woman 's champion	PERSON	0
+1.0	men	have	the	O	O
+1.0	eight former world number one	compete	18 of 20 woman	NUMBER	NUMBER
+1.0	singles	announce as	top seed	0	0
+1.0	australian Open draw	take	place	MISC	0
+1.0	Sharapova	claim	five title in 2006	PERSON	NUMBER
+1.0	Open draw	take	place on Friday	MISC	DATE
+1.0	Spain 's Rafael Nadal	miss	australian Open year with left foot injury	LOCATION	MISC
+1.0	Kim Clijsters	embark on	she year on WTA Tour	PERSON	MISC
+1.0	Spain 's Rafael Nadal	miss	Open last year	LOCATION	MISC
+1.0	Sharapova	lead	contingent	PERSON	0
+1.0	singles	announce as	seed	0	0
+1.0	Spain 's Rafael Nadal	miss	australian Open last year with foot injury	LOCATION	MISC
+1.0	man	have	seeding	0	0
+1.0	Kim Clijsters	be	finalist	PERSON	0
+1.0	Spain 's Rafael Nadal	miss	australian Open year with foot injury	LOCATION	MISC
+1.0	woman seed	could face floater in	draw	0	0
+1.0	next week	at	australian Open	DATE	MISC
+1.0	women	have	champion	O	O
+1.0	Spain 's Rafael Nadal	miss	Open year with left foot injury	LOCATION	MISC
+1.0	women	have	18	NUMBER	O
+1.0	Spain 's Rafael Nadal	miss	Open year with foot injury	LOCATION	MISC
+0.4689281731460334	Roger Federer	be	Maria Sharapova	PERSON	PERSON
+1.0	last year	be with	left foot injury	DATE	0
+1.0	Cypriot crowd-pleaser Marcos Baghdatis	be seed at	11	PERSON	NUMBER
+1.0	Spain	have	Rafael Nadal	LOCATION	PERSON
+0.4689281731460334	Roger Federer	be at_time	Thursday	PERSON	DATE
+1.0	woman	have	champion	0	0
+1.0	Spain 's Rafael Nadal	miss	Open last year with foot injury	LOCATION	MISC
+1.0	week	have	Open	MISC	DATE
+1.0	man 's seeding	also include	in-form Serb Novak Djokovic	0	ORGANIZATION
+1.0	man 's seeding	include	Serb Novak Djokovic	0	ORGANIZATION
+1.0	Spain 's Rafael Nadal	miss	Open last year with left foot injury	LOCATION	MISC
+1.0	man 's seeding	also include	Serb Novak Djokovic at No. 14	0	ORGANIZATION
+1.0	Spain 's Rafael Nadal	miss	australian Open year	LOCATION	MISC
+1.0	women	have	seedings	O	O

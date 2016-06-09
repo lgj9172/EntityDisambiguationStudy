@@ -1,0 +1,14 @@
+1.0	Bank of Japan	of	policy board	ORGANIZATION	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	drop	104.23 point	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	extend	Wednesday 's loss	ORGANIZATION	DATE
+1.0	policy board	have	Bank	ORGANIZATION	O
+1.0	Wednesday	have	losses	O	DATE
+1.0	meeting next week	be with	market still divide about	DATE	0
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	0
+1.0	Japan	have	policy board	O	ORGANIZATION
+1.0	Wednesday	have	sharp loss	DATE	0
+1.0	Bank	have	meeting	O	ORGANIZATION
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	extend	Wednesday 's sharp loss	ORGANIZATION	DATE
+1.0	companies	have	TOPIX index	O	O

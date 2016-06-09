@@ -1,0 +1,35 @@
+1.0	polish meat	be in	November 2005	0	DATE
+1.0	their	have	relations	O	O
+1.0	EU Health	have	authorities	O	ORGANIZATION
+1.0	Warsaw	be on	Monday	LOCATION	DATE
+1.0	Russia	have	ban	O	O
+1.0	Markos Kyprianou	be commissioner of	EU Health	PERSON	ORGANIZATION
+1.0	Russia	impose	its ban	LOCATION	0
+1.0	Moscow	have	concerns	O	LOCATION
+0.08525081604622908	Warsaw on Monday	have use in	bloc	LOCATION	0
+1.0	Berlin	be with	participation	LOCATION	0
+1.0	Poland	have	embargo	O	O
+1.0	EU Health Commissioner Markos Kyprianou	raise	issue of its embargo	PERSON	0
+1.0	EU	have	decade-old accord with Russia	ORGANIZATION	LOCATION
+1.0	Warsaw on Monday	have use	its veto power	LOCATION	0
+1.0	EU 's decade-old accord	be with	Russia	DURATION	LOCATION
+1.0	Poland	be say	disappoint	LOCATION	0
+1.0	russian authority	be in	Berlin	0	LOCATION
+1.0	authorities	have	authorities	O	O
+0.08525081604622908	Warsaw on Monday	have use in	27-nation bloc	LOCATION	0
+1.0	eu-russia summit	be in	Helsinki	DURATION	LOCATION
+1.0	meat	have	safety	O	O
+1.0	Andrzej Lepper	be with	polish	PERSON	0
+1.0	presidency	have	authorities	O	O
+1.0	EU Health Commissioner Markos Kyprianou	manage in	December visit	PERSON	DATE
+1.0	Warsaw on Monday	have	veto power	O	O
+1.0	Poland	be	disappoint	LOCATION	0
+1.0	Markos Kyprianou	be	EU Health	PERSON	ORGANIZATION
+1.0	Berlin	be on	17	LOCATION	NUMBER
+1.0	Poland	be	say	LOCATION	0
+1.0	EU Health Commissioner Markos Kyprianou	have	spokesman	O	O
+1.0	EU	have	accord	O	ORGANIZATION
+1.0	EU Health Commissioner Markos Kyprianou	manage in	December visit to Moscow	PERSON	LOCATION
+1.0	EU Health Commissioner Markos Kyprianou	raise	issue	PERSON	0
+1.0	embargo	have	issue	O	O
+1.0	talks	have	start	O	O

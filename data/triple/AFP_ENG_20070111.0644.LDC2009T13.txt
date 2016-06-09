@@ -1,0 +1,40 @@
+1.0	Britain 's foreign ministry	advise	its citizen against travel	LOCATION	0
+1.0	Britain 's foreign ministry	advise	its citizen against essential travel	LOCATION	0
+1.0	Britain 's foreign ministry	have	citizens	O	O
+1.0	Britain 's foreign ministry	advise	its citizen against essential travel to Bangladesh	LOCATION	LOCATION
+1.0	Britain 's ministry	advise	its citizen against travel to Bangladesh	LOCATION	LOCATION
+1.0	Bangladesh 's President Iajuddin Ahmed	buckle to	pressure	PERSON	0
+1.0	country 's president	postpone	national election	0	0
+1.0	the declaration of a state of emergency	have	travel advice	O	O
+1.0	Britain 's ministry	advise	its citizen against all essential travel	LOCATION	0
+1.0	Britain 's ministry	advise	its citizen against travel	LOCATION	0
+1.0	Bangladesh 's President Iajuddin Ahmed	buckle at_time	Thursday	PERSON	DATE
+1.0	security situation	be in	Bangladesh	0	LOCATION
+1.0	Britain 's foreign ministry	advise	its citizen against travel to Bangladesh	LOCATION	LOCATION
+1.0	Bangladesh	have	Iajuddin Ahmed	LOCATION	PERSON
+1.0	Iajuddin Ahmed	be president of	Bangladesh	PERSON	LOCATION
+1.0	emergency	have	state	O	O
+1.0	Bangladesh 's President Iajuddin Ahmed	buckle to	international pressure	PERSON	0
+1.0	Bangladesh	have	President Iajuddin Ahmed	PERSON	LOCATION
+1.0	Britain	have	foreign ministry	LOCATION	0
+1.0	Bangladesh 's President Iajuddin Ahmed	quit	he role	PERSON	0
+1.0	Britain 's foreign ministry	advise	its citizen against all essential travel to Bangladesh	LOCATION	LOCATION
+1.0	country 's president	declare	state of emergency	0	0
+1.0	Britain 's ministry	advise	its citizen against all essential travel to Bangladesh	LOCATION	LOCATION
+1.0	british citizen	visit country at_time	year	0	SET
+0.8248126077492078	country 's president	state of	emergency	0	0
+1.0	Britain 's foreign ministry	advise	its citizen against all essential travel	LOCATION	0
+1.0	Britain 's ministry	advise	its citizen against essential travel to Bangladesh	LOCATION	LOCATION
+1.0	country 's president	postpone	election	0	0
+1.0	his	have	role	O	O
+1.0	ministry	say in	statement	0	0
+1.0	terrorism	be in	Bangladesh	0	LOCATION
+1.0	Britain 's ministry	advise	its citizen against essential travel	LOCATION	0
+1.0	government	have	head	O	O
+0.5665966021597978	poll	schedule for	January 22	0	DATE
+1.0	Britain	have	ministry	O	LOCATION
+1.0	country	have	president	O	O
+1.0	country 's president	declare	state	0	0
+1.0	country	have	president	0	0
+1.0	security situation	be	uncertain	0	0
+1.0	state	have	declaration	O	O

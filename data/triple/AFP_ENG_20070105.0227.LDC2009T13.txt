@@ -1,0 +1,81 @@
+1.0	US	need	come with offer in term	LOCATION	0
+1.0	Commission official	see	change	ORGANIZATION	0
+1.0	talk	be	also expect	0	0
+1.0	World Trade Organisation	suspend	Doha round	ORGANIZATION	LOCATION
+1.0	european Commission official	see	change in willingness	ORGANIZATION	0
+1.0	Peter Mandelson	be commissioner of	EU Trade	PERSON	ORGANIZATION
+1.0	trade spokesman	say at_time	Friday	0	DATE
+1.0	talk	aside be also expect	focus on energy security	0	0
+1.0	talk	aside be expect	focus on energy security	0	0
+1.0	european Commission official	see	change in political willingness	ORGANIZATION	0
+1.0	US	need	come to table with genuine offer in term	LOCATION	0
+1.0	talk	be	Trade aside also expect	0	0
+1.0	Waldner	will take	part	0	0
+1.0	control	have	passage	O	O
+1.0	Peter Mandelson	say spokesman for	EU Trade Commissioner	PERSON	ORGANIZATION
+1.0	US	come with	genuine offer	LOCATION	0
+1.0	talk	be expect	focus on energy security	0	0
+1.0	World Trade Organisation	suspend doha round in	July	ORGANIZATION	DATE
+1.0	US	come to	table	LOCATION	0
+1.0	senior european Commission official	see	change in willingness	ORGANIZATION	0
+1.0	US	need	come to table with offer	LOCATION	0
+0.633593924617174	Peter Mandelson	say for	EU Trade Commissioner	PERSON	ORGANIZATION
+1.0	world trade talks	have	Doha round	O	O
+1.0	accord	have	framework	O	O
+1.0	deal	have	makings	O	O
+1.0	US	come with	offer in term	LOCATION	0
+1.0	senior Commission official	see	change	ORGANIZATION	0
+1.0	Washington	be on	Monday	LOCATION	DATE
+1.0	World Trade Organisation	suspend	so-called Doha round	ORGANIZATION	LOCATION
+1.0	Waldner	will also take	part in visit	0	0
+1.0	US	need	come to table with genuine offer	LOCATION	0
+1.0	talk	be	expect	0	0
+1.0	talk	be also expect	focus	0	0
+1.0	Agricultural subsidy	be	obstacle	0	0
+1.0	EU	have	executive	ORGANIZATION	0
+1.0	talk	focus on	energy security	0	0
+1.0	Peter Mandelson	say	spokesman	PERSON	0
+1.0	US	need	come to table with offer in term	LOCATION	0
+1.0	talk	be	Trade aside expect	0	0
+1.0	landscape	have	advantage week	DATE	O
+1.0	talk	be also expect	focus on energy security	0	0
+1.0	part	be in	visit	0	0
+1.0	talk	be expect	focus	0	0
+1.0	senior european Commission official	see	change	ORGANIZATION	0
+1.0	White House	have	combination	O	ORGANIZATION
+1.0	US	need	come with genuine offer	LOCATION	0
+1.0	control	be in	Congress	0	ORGANIZATION
+1.0	US	come with	genuine offer in term	LOCATION	0
+1.0	Congress	have	combination	O	ORGANIZATION
+1.0	US	need	come	LOCATION	0
+1.0	US	need	come to table	LOCATION	0
+1.0	talk	aside be expect	focus	0	0
+1.0	Waldner	will also take part apart from	Mandelson	0	PERSON
+1.0	change	be in	political willingness	0	0
+1.0	talk	be	aside expect	0	0
+1.0	talk	be	aside also expect	0	0
+1.0	US	need	come with offer	LOCATION	0
+1.0	Commission official	see	change in political willingness	ORGANIZATION	0
+1.0	senior european Commission official	see	change in political willingness	ORGANIZATION	0
+1.0	Congress	be in	advantage next week of the new political landscape in the United States	ORGANIZATION	LOCATION
+1.0	US	need	come with genuine offer in term	LOCATION	0
+1.0	senior Commission official	see	change in willingness	ORGANIZATION	0
+1.0	election	be in	November	0	DATE
+1.0	genuine offer	be in	term it can do	0	0
+1.0	US	come with	offer	LOCATION	0
+1.0	talks	have	years	DURATION	O
+1.0	Waldner	will take	part in visit	0	0
+1.0	Agricultural subsidy	be	main obstacle	0	0
+1.0	US	be	EU	LOCATION	ORGANIZATION
+1.0	new political landscape	be in	United States	0	LOCATION
+0.8021492317804825	visit	washington on	Monday	0	DATE
+1.0	Waldner	will take part apart from	Mandelson	0	PERSON
+1.0	talk	aside be also expect	focus	0	0
+1.0	european Commission official	see	change	ORGANIZATION	0
+1.0	Waldner	will also take	part	0	0
+1.0	Commission official	see	change in willingness	ORGANIZATION	0
+1.0	executive	have	president	0	0
+1.0	senior Commission official	see	change in political willingness	ORGANIZATION	0
+1.0	executive	have	president	O	O
+1.0	EU	have	executive	O	ORGANIZATION
+1.0	domestic subsidy	be in	agriculture	0	0

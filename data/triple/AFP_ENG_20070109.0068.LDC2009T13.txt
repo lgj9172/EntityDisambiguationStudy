@@ -1,0 +1,139 @@
+1.0	belarussian official	arrive in	Moscow for talk Tuesday	0	LOCATION
+1.0	oil shortage	be in	Western Europe	0	LOCATION
+1.0	development	come despite	ongoing disruption	0	0
+1.0	price	be because of	down weather in US	0	LOCATION
+1.0	mild weather	be in	US	0	LOCATION
+0.3721952939920179	future	fall in	particularly United States	0	LOCATION
+0.3721952939920179	crude future	fall in	particularly United States	0	LOCATION
+1.0	price	be because of	down very mild weather	0	0
+1.0	market concerns	have	forefront	O	O
+1.0	New York 's main contract	tumble	1.29 dollar 54.80 dollar barrel	LOCATION	MONEY
+1.0	price	be because of	down very mild weather in US	0	LOCATION
+1.0	development	come despite	disruption of russian oil export	0	0
+1.0	official	arrive in	Moscow	0	LOCATION
+1.0	official	arrive through	pipeline	0	0
+1.0	oil imports	have	half	O	O
+1.0	official	arrive after	cut	0	0
+1.0	New York 's main contract	crude for	February delivery	LOCATION	DATE
+1.0	future	fall demand in	particularly United States	0	LOCATION
+1.0	price	be because of	down weather	0	0
+1.0	warm weather	remain at	forefront of market concern	0	0
+1.0	price	be because of	very mild weather	0	0
+1.0	27-nation bloc	of	oil import	0	0
+1.0	weather forecaster	predict temperature in	northeastern United States over next ten day	DURATION	DURATION
+1.0	development	come despite	ongoing disruption of russian oil export	0	0
+1.0	crude future	fall demand in	United States	0	LOCATION
+1.0	weather forecaster	predict	temperature	DURATION	0
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit	LOCATION	0
+1.0	Europe 's strategic oil reserve	could	could utilise	LOCATION	0
+1.0	price	be because of	weather in US	0	LOCATION
+1.0	cut	be in	oil supplies from Russia	0	LOCATION
+1.0	its	have	territory	O	O
+1.0	their	have	points	O	O
+1.0	weather forecaster	predict temperature in	United States over ten day	DURATION	DURATION
+1.0	Europe	have	oil reserves	O	LOCATION
+1.0	Brent North Sea crude	hit	53.64 dollar	LOCATION	MONEY
+1.0	Europe	have	strategic oil reserve	LOCATION	0
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline across its territory	LOCATION	0
+1.0	future	have slump by	almost 12.0 percent	0	PERCENT
+1.0	future	fall	demand	0	0
+1.0	Brent North Sea crude	sink	1.32 dollar 54.28 dollar barrel	LOCATION	MONEY
+1.0	weather	remain at	forefront	0	0
+1.0	Europe 's oil reserve	could	could utilise	LOCATION	0
+1.0	New York 's main contract	meanwhile tumble	1.29 dollar 54.80 dollar	LOCATION	MONEY
+1.0	belarussian official	arrive after	cut	0	0
+1.0	weather forecaster	predict temperature in	northeastern United States	DURATION	LOCATION
+1.0	bloc	have	oil imports	O	O
+1.0	price	be because of	down mild weather in US	0	LOCATION
+1.0	price	be because of	mild weather	0	0
+1.0	belarussian official	arrive in	Moscow	0	LOCATION
+0.3721952939920179	future	fall in	United States	0	LOCATION
+1.0	Russia	pay	fee	LOCATION	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit	LOCATION	0
+1.0	Russia	pay	fee for oil transit through pipeline	LOCATION	0
+1.0	warm weather	remain at	forefront	0	0
+1.0	disruption	become	prolonged	0	0
+1.0	New York 's main contract	meanwhile tumble	1.29 dollar 54.80 dollar barrel	LOCATION	MONEY
+1.0	oil shortages	have	threat	O	O
+1.0	Russia	pay	fee for oil transit	LOCATION	0
+1.0	Russia	pay	fee for oil	LOCATION	0
+1.0	Europe 's strategic oil reserve	could	moreover could utilise	LOCATION	0
+1.0	Kevin Norrish	be analyst of	Barclays Capital	PERSON	ORGANIZATION
+1.0	Brent North Sea crude	earlier hit	53.64 dollar	LOCATION	MONEY
+1.0	crude future	have slump by	12.0 percent since start of 2007	0	PERCENT
+1.0	crude future	have slump by	12.0 percent	0	PERCENT
+0.563282089210161	Russia	fee for	oil transit through pipeline	LOCATION	0
+1.0	future	fall demand in	United States	0	LOCATION
+1.0	official	arrive after	cut in oil supplies	0	0
+1.0	United States	be over	the next ten day	LOCATION	DURATION
+1.0	Russia	pay	45-dollar-per-tonne fee for oil	LOCATION	0
+0.3721952939920179	future	fall for	heating fuel	0	0
+1.0	Atlantic	have	sides	O	LOCATION
+1.0	weather forecaster	predict temperature in	United States over next ten day	DURATION	DURATION
+1.0	Russia	pay	45-dollar-per-tonne fee	LOCATION	0
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	official	arrive in	Moscow Tuesday	0	LOCATION
+1.0	belarussian official	arrive in	Moscow for talk	0	LOCATION
+1.0	Russia	pay	45-dollar-per-tonne fee for oil transit through pipeline	LOCATION	0
+1.0	Viktor Khristenko	be	Russian	PERSON	MISC
+1.0	weather	remain at	forefront of market concern	0	0
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	EU	consume about	12.5 percent of oil	ORGANIZATION	PERCENT
+0.563282089210161	Russia	fee for	oil transit through pipeline across its territory	LOCATION	0
+0.563282089210161	Russia	fee for	oil transit	LOCATION	0
+1.0	crude future	have slump by	12.0 percent since start	0	PERCENT
+1.0	price	be because of	down mild weather	0	0
+1.0	crude future	have slump by	almost 12.0 percent	0	PERCENT
+1.0	New York 's contract	meanwhile tumble	1.29 dollar 54.80 dollar barrel	LOCATION	MONEY
+1.0	Russia	pay	fee for oil transit through pipeline across its territory	LOCATION	0
+1.0	official	arrive after	cut in oil supplies from Russia	0	LOCATION
+1.0	future	have slump by	12.0 percent since start	0	PERCENT
+1.0	oil	have	percent	PERCENT	O
+1.0	official	arrive in	Moscow for talk	0	LOCATION
+1.0	2007	have	start	DATE	DATE
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil	LOCATION	0
+1.0	Brent North Sea crude	sink	1.32 dollar 54.28 dollar	LOCATION	MONEY
+1.0	crude future	have slump by	almost 12.0 percent since start of 2007	0	PERCENT
+1.0	Viktor Khristenko	be on	Tuesday	PERSON	DATE
+1.0	future	have slump by	almost 12.0 percent since start	0	PERCENT
+1.0	weather forecaster	predict	warmer-than-normal temperature	DURATION	0
+1.0	New York 's contract	tumble	1.29 dollar 54.80 dollar	LOCATION	MONEY
+1.0	price	be because of	weather	0	0
+1.0	Kevin Norrish	be	Barclays Capital	PERSON	ORGANIZATION
+0.563282089210161	Russia	fee for	oil	LOCATION	0
+1.0	crude future	fall	demand	0	0
+1.0	crude future	have slump by	almost 12.0 percent since start	0	PERCENT
+1.0	official	arrive in	Moscow for talk Tuesday	0	LOCATION
+1.0	EU	consume about	12.5 percent	ORGANIZATION	PERCENT
+0.3721952939920179	crude future	fall in	United States	0	LOCATION
+0.563282089210161	Russia	45-dollar-per-tonne fee for	oil transit through pipeline	LOCATION	0
+1.0	future	have slump by	12.0 percent	0	PERCENT
+1.0	crude future	fall demand in	particularly United States	0	LOCATION
+1.0	New York 's contract	tumble	1.29 dollar 54.80 dollar barrel	LOCATION	MONEY
+1.0	New York	have	contract	O	LOCATION
+1.0	future	fall demand for	heating fuel	0	0
+1.0	belarussian official	arrive through	pipeline	0	0
+1.0	New York	have	main contract	LOCATION	0
+1.0	delivery	be in	February	0	DATE
+1.0	dispute	have	escalation	O	O
+1.0	future	have slump by	12.0 percent since start of 2007	0	PERCENT
+1.0	development	come despite	ongoing disruption of oil export	0	0
+1.0	future	have slump by	almost 12.0 percent since start of 2007	0	PERCENT
+1.0	warm weather	be in	northern hemisphere	0	0
+1.0	Moscow	be  at_time	Tuesday	LOCATION	DATE
+1.0	price	be because of	mild weather in US	0	LOCATION
+0.3721952939920179	crude future	fall for	heating fuel	0	0
+1.0	crude future	fall demand for	heating fuel	0	0
+1.0	oil exports	have	disruption	O	O
+1.0	belarussian official	arrive after	cut in oil supplies	0	0
+1.0	price	be because of	very mild weather in US	0	LOCATION
+1.0	weather forecaster	predict temperature in	northeastern United States over ten day	DURATION	DURATION
+1.0	development	come despite	disruption of oil export	0	0
+1.0	belarussian official	arrive in	Moscow Tuesday	0	LOCATION
+1.0	New York 's main contract	tumble	1.29 dollar 54.80 dollar	LOCATION	MONEY
+1.0	belarussian official	arrive after	cut in oil supplies from Russia	0	LOCATION
+1.0	development	come to	Europe	0	LOCATION
+1.0	New York 's contract	meanwhile tumble	1.29 dollar 54.80 dollar	LOCATION	MONEY
+1.0	weather forecaster	predict temperature in	United States	DURATION	LOCATION
+1.0	Europe 's oil reserve	could	moreover could utilise	LOCATION	0
+1.0	development	come despite	disruption	0	0

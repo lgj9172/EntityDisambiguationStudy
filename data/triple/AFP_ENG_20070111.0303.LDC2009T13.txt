@@ -1,0 +1,84 @@
+1.0	Ireland	press	Ireland 's main catholic party	LOCATION	LOCATION
+1.0	effort	have founder on	democratic unionist	0	0
+1.0	Ireland	press	northern Ireland 's main party	LOCATION	LOCATION
+1.0	self-rule	have	restoration	O	O
+1.0	northern Ireland	for	party restore	LOCATION	0
+1.0	self-rule	be in	Belfast	0	LOCATION
+1.0	Sinn Fein 's national executive	be	meet Saturday	ORGANIZATION	DATE
+1.0	catholic-backed party	work with	Police Service of Northern Ireland	0	ORGANIZATION
+1.0	effort	have founder on	dup	0	0
+1.0	Sinn Fein	have	executive	O	ORGANIZATION
+0.7701398811465265	effort	implement	last November 's St Andews Agreement	0	DATE
+1.0	Ireland	press	northern Ireland 's party	LOCATION	LOCATION
+1.0	Ireland	hold conference on	crunch issue stumble block	LOCATION	0
+1.0	effort	have founder	work with Sinn Fein	0	ORGANIZATION
+1.0	Police Service	be of	Northern Ireland	ORGANIZATION	LOCATION
+1.0	Sinn Fein	have	national executive	ORGANIZATION	0
+1.0	gloom	have	climate	O	O
+1.0	Sinn Fein 's national executive	be	meet again Saturday	ORGANIZATION	DATE
+1.0	Sinn Fein 's executive	meet at_time	again Saturday	ORGANIZATION	DATE
+1.0	northern Ireland	have	main catholic party	LOCATION	0
+1.0	retain link	be with	Britain	0	LOCATION
+1.0	uncertainty	have	climate	O	O
+1.0	Ireland	hold conference on	crunch issue key block	LOCATION	0
+1.0	Sinn Fein 's executive	be	meet Saturday	ORGANIZATION	DATE
+1.0	newspaper	write in	Irish News	0	0
+1.0	Sinn Fein 's national executive	meet at_time	again Saturday	ORGANIZATION	DATE
+1.0	province	rule from	London	0	LOCATION
+1.0	Ireland	press	Ireland 's catholic party	LOCATION	LOCATION
+1.0	`` no going forward '' with the self-rule process -- aimed at restoring a power-sharing government in March -- if the Republican Sinn Fein party delays over the issue again	have	party conference	O	O
+1.0	northern Ireland	have	reform police force	LOCATION	0
+1.0	catholic-backed party	be	reluctant	0	0
+1.0	party	work with	Police Service	0	ORGANIZATION
+1.0	the Irish News	be	define	0	0
+1.0	Ireland	press	northern Ireland 's catholic party	LOCATION	LOCATION
+1.0	party	work with	Police Service of Northern Ireland	0	ORGANIZATION
+1.0	Ireland	have	police force	O	LOCATION
+1.0	force	have	successor	O	O
+1.0	Ireland	hold conference on	crunch issue	LOCATION	0
+1.0	main nationalist newspaper	be in	Ahern	0	PERSON
+1.0	November	have	St Andews Agreement	ORGANIZATION	DATE
+1.0	effort	have founder as	police issue	0	0
+1.0	Sinn Fein 's executive	meet at_time	Saturday	ORGANIZATION	DATE
+1.0	effort	have founder	work	0	0
+1.0	Republican Sinn Fein	go ahead despite	uncertainty	ORGANIZATION	0
+1.0	effort	have founder as	issue	0	0
+1.0	Ireland	hold conference on	crunch issue key stumble block	LOCATION	0
+1.0	Sinn Fein 's national executive	meet at_time	Saturday	ORGANIZATION	DATE
+1.0	main newspaper	write in	Irish News	0	0
+1.0	can excuse	be in	circumstance	0	0
+0.7701398811465265	effort	implement	November 's St Andews Agreement	0	DATE
+1.0	Sinn Fein 's executive	be	meet	ORGANIZATION	0
+1.0	delegate conference	be hold	vote	0	0
+1.0	nationalist newspaper	write in	Irish News	0	0
+1.0	he	know	full	0	0
+1.0	effort	have founder	work in government with Sinn Fein	0	ORGANIZATION
+1.0	delegate conference	be	hold	0	0
+1.0	Ireland	press	northern Ireland 's main catholic party	LOCATION	LOCATION
+1.0	Ireland	hold	conference	LOCATION	0
+1.0	Ireland	press	Ireland 's party	LOCATION	LOCATION
+1.0	province	rule indefinitely from	London	0	LOCATION
+1.0	Republican Sinn Fein	go ahead with	they party conference	ORGANIZATION	0
+1.0	issue	have	sensitivities	O	O
+1.0	party	be	reluctant	0	0
+1.0	Republican Sinn Fein	go with	they party conference	ORGANIZATION	0
+1.0	Ireland	hold conference on	crunch issue block	LOCATION	0
+1.0	Sinn Fein 's national executive	be	meet	ORGANIZATION	0
+1.0	Northern Ireland	successor of	force	LOCATION	0
+1.0	Republican Sinn Fein	go despite	uncertainty	ORGANIZATION	0
+1.0	Ireland	press	Ireland 's main party	LOCATION	LOCATION
+1.0	he	urge	Republican Sinn Fein	0	ORGANIZATION
+1.0	special delegate conference	be	hold	0	0
+1.0	last November	have	St Andews Agreement	DATE	ORGANIZATION
+1.0	special delegate conference	be hold	vote	0	0
+1.0	Ireland	have	parties	O	LOCATION
+1.0	catholic-backed party	work with	Police Service	0	ORGANIZATION
+1.0	effort	have founder on	unionist	0	0
+1.0	main nationalist newspaper	write in	Irish News	0	0
+1.0	effort	have founder	work in government	0	0
+1.0	Ireland	have	party	O	LOCATION
+1.0	`` no going forward '' with the self-rule process -- aimed at restoring a power-sharing government in March -- if the Republican Sinn Fein party delays over the issue again	have	desire	O	O
+1.0	Sinn Fein 's executive	be	meet again Saturday	ORGANIZATION	DATE
+1.0	effort	work with	Sinn Fein	0	ORGANIZATION
+1.0	Northern Ireland	have	Police Service	ORGANIZATION	LOCATION
+1.0	effort	work in	government	0	0

@@ -1,0 +1,37 @@
+1.0	Chrysler	have	vice president	O	ORGANIZATION
+1.0	A report by the BBC	have	listeners	O	O
+1.0	British Broadcasting Corporation	say on	its website	ORGANIZATION	0
+1.0	Chicken Little '	have	politics	O	O
+1.0	report	have	view	O	O
+1.0	company	have	policy	O	O
+1.0	DaimlerChrysler AG	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Chrysler Group	have	chief economist	ORGANIZATION	0
+1.0	climate change	have	interpretations	O	O
+1.0	the BBC	have	report	O	O
+1.0	US auto industry	of	chief economist	LOCATION	0
+1.0	Society	have	meeting	O	ORGANIZATION
+1.0	DaimlerChrysler Chief Economist Van Jolissaint	have	comments	O	PERSON
+1.0	DaimlerChrysler	have	position	O	ORGANIZATION
+1.0	warming	have	issue	O	O
+1.0	Chrysler Group	have	economist	O	ORGANIZATION
+1.0	DaimlerChrysler AG	misquote	he	0	0
+1.0	Jason Vines	president for	communication	PERSON	0
+1.0	US child	to	story	LOCATION	0
+1.0	Chrysler Group	's economist be	DaimlerChrysler Chief Economist Van Jolissaint 's	ORGANIZATION	PERSON
+1.0	politics	have	smacked	O	O
+1.0	Van Jolissaint	have	comment concern policy on global climate change	PERSON	0
+1.0	DaimlerChrysler AG	say	argue	ORGANIZATION	0
+1.0	The British Broadcasting Corporation	have	website	O	O
+1.0	US auto industry	have	chief economists	O	O
+1.0	Automotive Analysts	have	Society	ORGANIZATION	ORGANIZATION
+1.0	chief economists	have	meeting	O	O
+1.0	there have Daimler office	be in	Stuttgart	ORGANIZATION	LOCATION
+1.0	Michigan	be on	Tuesday	LOCATION	DATE
+1.0	Van Jolissaint	be 's	DaimlerChrysler AG	PERSON	ORGANIZATION
+1.0	US children	have	story	O	O
+1.0	Jason Vines	say in	statement	0	0
+1.0	Chrysler	have	vice president for communication	ORGANIZATION	0
+1.0	company	concern	policy on global climate change	0	0
+1.0	Van Jolissaint	be chief economist of	DaimlerChrysler AG	PERSON	ORGANIZATION
+1.0	DaimlerChrysler Chief Economist Van Jolissaint 's	describe	view	PERSON	0
+1.0	course	have	said	O	O

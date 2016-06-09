@@ -1,0 +1,38 @@
+1.0	aircraft	be currently ground at	Tehran 's Mehrabad airport	0	LOCATION
+1.0	United States	have agree to	overhaul of six Airbus plane	LOCATION	NUMBER
+1.0	Airbus planes	have	overhaul	O	O
+1.0	Iran	in	flagship airline	LOCATION	0
+1.0	Iran 's	have	one world 's worst air safety record	LOCATION	NUMBER
+1.0	Iran 's	have	one of world 's air safety record	LOCATION	NUMBER
+1.0	United States	allow sale in	October 2006	LOCATION	DATE
+1.0	US Boeings	have	sale	O	O
+1.0	world	of	worst air safety record	0	0
+1.0	ISNA news agency	say at_time	Friday	ORGANIZATION	DATE
+1.0	air safety records	have	one	NUMBER	O
+1.0	ISNA news agency	quote	top aviation official	ORGANIZATION	0
+1.0	Tehran	have	Mehrabad airport	O	LOCATION
+1.0	aircraft	be	ground	0	0
+1.0	aircraft	be	currently ground	0	DATE
+1.0	600 life	be in	the past five year	NUMBER	DURATION
+1.0	Iran 's	have	one of world 's worst air safety record	LOCATION	NUMBER
+1.0	head	tell	agency	0	0
+0.33669769426858	United States	allow in	October 2006	LOCATION	DATE
+1.0	US sanction	prohibit	sale of US Boeings	LOCATION	LOCATION
+1.0	aviation company	have	head	O	O
+1.0	aircraft parts	have	sale	O	O
+1.0	airbus	contain us part to	Iran 's	0	LOCATION
+1.0	Iran 's	to	ageing civilian fleet	LOCATION	0
+1.0	Iran	have	flagship airline	O	LOCATION
+1.0	ISNA news agency	quote	aviation official	ORGANIZATION	0
+1.0	United States	allow	sale	LOCATION	0
+1.0	european airbus	contain	US part	0	LOCATION
+1.0	United States	have agree to	overhaul	LOCATION	0
+1.0	US sanction	prohibit	sale	LOCATION	0
+1.0	aircraft	be ground at	Tehran 's Mehrabad airport	0	LOCATION
+1.0	european airbus	contain us part to	Iran 's	0	LOCATION
+1.0	Tehran	at	Mehrabad airport	LOCATION	LOCATION
+1.0	airbus	contain	US part	0	LOCATION
+1.0	Iran 's	have	fleet	O	LOCATION
+1.0	Iran 's	have	one world 's air safety record	LOCATION	NUMBER
+1.0	world	have	air safety records	O	O
+1.0	United States	allow	sale of aircraft part	LOCATION	0

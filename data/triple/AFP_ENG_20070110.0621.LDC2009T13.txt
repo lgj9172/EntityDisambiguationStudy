@@ -1,0 +1,49 @@
+1.0	Pentagon	have	out run	O	ORGANIZATION
+1.0	414 million dollar	expand	reconstruction team run	MONEY	0
+1.0	414 million dollar	expand	provincial reconstruction team run by State Department	MONEY	ORGANIZATION
+1.0	Iraq	have	plight	O	LOCATION
+1.0	Iraq	be in	major televised address	LOCATION	0
+1.0	5.6 billion dollar	send extra troops to	destabilizing Iraq	MONEY	LOCATION
+1.0	Bush	will submit budget request with	plan spending for war	PERSON	0
+1.0	US plan	have	out lay	O	O
+1.0	Baath Party	have	members	O	ORGANIZATION
+1.0	5.6 billion dollar	send troops to	destabilizing Iraq	MONEY	LOCATION
+1.0	Bush	will submit budget request with	Congress	PERSON	ORGANIZATION
+1.0	job creation program	be in	Baghdad	0	LOCATION
+1.0	plan	will gradually send	21,500 US troops	0	LOCATION
+0.6933089218461141	officer population	lead	rebuilding	0	0
+1.0	Bush	will submit budget request with	spending for war	PERSON	0
+1.0	reconstruction teams	have	number	O	O
+1.0	population	shift from	previous priority transfer to Iraqis	0	MISC
+1.0	Iraq	have	offensive	O	LOCATION
+1.0	army	have	brigades	O	O
+1.0	Bush	will submit budget request with	plan spending	PERSON	0
+1.0	plan	will send	21,500 US troops	0	LOCATION
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	5.6 billion dollar	send	extra troops	MONEY	0
+1.0	Bush	will submit budget request with	annual spending for war	PERSON	SET
+1.0	Bush	will submit	budget request for 6.8 billion dollar	PERSON	MONEY
+1.0	Bush	will submit budget request with	plan annual spending for war	PERSON	SET
+1.0	its	have	foes	O	O
+1.0	commander emergency response program	for dollar be	reconstruction effort	0	0
+1.0	plan	will gradually send	21,500 extra US troops	0	LOCATION
+1.0	number	have	doubling	O	O
+1.0	Bush	will submit budget request with	annual spending	PERSON	SET
+1.0	414 million dollar	expand	reconstruction team run by State Department	MONEY	ORGANIZATION
+1.0	414 million dollar	expand	provincial reconstruction team run	MONEY	0
+1.0	5.6 billion dollar	send	troops	MONEY	0
+1.0	Bush	will submit	additional budget request	PERSON	0
+1.0	its	have	reluctance	O	O
+1.0	Bush	will submit	budget request	PERSON	0
+1.0	their	have	country	O	O
+1.0	Bush	will submit budget request with	plan annual spending	PERSON	SET
+1.0	414 million dollar	expand	provincial reconstruction team	MONEY	0
+0.6933089218461141	military officer population	lead	rebuilding	0	0
+1.0	414 million dollar	expand	reconstruction team	MONEY	0
+1.0	Bush	will submit	additional budget request for 6.8 billion dollar	PERSON	MONEY
+1.0	strategy	have	Herewith points	O	O
+1.0	Bush	will submit budget request with	spending	PERSON	0
+1.0	oil revenues	have	sharing	O	O
+1.0	Congress	spending for	war	ORGANIZATION	0
+1.0	plan	will send	21,500 extra US troops	0	LOCATION
+1.0	country	have	security forces	O	O

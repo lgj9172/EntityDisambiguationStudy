@@ -1,0 +1,55 @@
+1.0	Iraq	of	kurdish northern region	LOCATION	0
+1.0	six	be nab in	swoop	NUMBER	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	raid	come on	heel	0	0
+1.0	raid	initially be claim in	Tehran	0	LOCATION
+1.0	raid	come by	US President George W. Bush	0	LOCATION
+1.0	six	be	nab in night-time swoop by US force on office in Iraq	NUMBER	LOCATION
+1.0	State Department spokesman Sean McCormack	say of	building	0	0
+1.0	State Department spokesman Sean McCormack	say in	city of Arbil	0	LOCATION
+1.0	six	be	nab in swoop by US force	NUMBER	LOCATION
+1.0	office	be	in Baghdad describe as liason office	0	LOCATION
+1.0	United States	incite	anti-us attack	LOCATION	0
+1.0	six	be	nab in swoop by US force on office in Iraq	NUMBER	LOCATION
+1.0	Sean McCormack	be spokesman of	the State Department	PERSON	ORGANIZATION
+1.0	six	prompt protest from	government	NUMBER	0
+1.0	office	be in	Iraq	0	LOCATION
+1.0	six	be	nab in swoop by US force on office in northern Iraq	NUMBER	LOCATION
+1.0	Iraq	have	Foreign Minister Hoshyar Zebari	PERSON	LOCATION
+1.0	six	be	nab in night-time swoop by US force	NUMBER	LOCATION
+1.0	office	be	in Baghdad describe as iranian liason office	0	LOCATION
+1.0	six	be nab by	US force on office in northern Iraq	NUMBER	LOCATION
+1.0	people	have	one	NUMBER	O
+1.0	office	be describe as	liason office	0	0
+1.0	George W. Bush	be by	US	PERSON	LOCATION
+1.0	Iraq	have	Hoshyar Zebari	LOCATION	PERSON
+1.0	office	be describe as	iranian liason office	0	0
+1.0	warning	have	heels	O	O
+1.0	six	be	nab	NUMBER	0
+1.0	office	be describe in	Baghdad	0	LOCATION
+1.0	six	be nab by	US force on office	NUMBER	LOCATION
+1.0	United States	incite	attack	LOCATION	0
+1.0	raid	come on	heel of warning	0	0
+1.0	six	be	nab in night-time swoop by US force on office in northern Iraq	NUMBER	LOCATION
+1.0	six	be nab by	US force	NUMBER	LOCATION
+1.0	six	prompt protest from	Iran	NUMBER	LOCATION
+1.0	State Department spokesman Sean McCormack	say in	city	0	0
+1.0	office	be	describe	0	0
+1.0	building	have	said	O	O
+1.0	six	be nab by	US force on office in Iraq	NUMBER	LOCATION
+1.0	six	be	nab in swoop by US force on office	NUMBER	LOCATION
+1.0	Arbil	capital of	Iraq 's kurdish northern region	LOCATION	LOCATION
+1.0	six	prompt protest from	other government	NUMBER	0
+1.0	State Department spokesman Sean McCormack	tell	reporter	PERSON	0
+1.0	Sean McCormack	be	the State Department	PERSON	ORGANIZATION
+1.0	Tehran	have	agent	LOCATION	0
+1.0	six	prompt	protest	NUMBER	0
+1.0	six	be nab in	night-time swoop	NUMBER	0
+1.0	Hoshyar Zebari	be foreign minister of	Iraq	PERSON	LOCATION
+1.0	iranian meddling	be in	Iraq	0	LOCATION
+1.0	Iraq	have	region	O	LOCATION
+1.0	six	be	nab in night-time swoop by US force on office	NUMBER	LOCATION
+1.0	effort	have	part	O	O
+1.0	Tehran	have	agents	O	LOCATION
+1.0	Arbil	have	city	O	LOCATION
+1.0	region	have	capital	O	O

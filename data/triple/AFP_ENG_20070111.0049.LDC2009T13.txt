@@ -1,0 +1,50 @@
+1.0	iraqi official	give	welcome	0	0
+1.0	Bush	take	blame	PERSON	0
+1.0	iraqi government	fulfil promise give	give Bush	0	PERSON
+1.0	iraqi official	give	welcome on Thursday	0	DATE
+1.0	he	see	nothing new	0	0
+1.0	government	fulfil promise give	give Bush	0	PERSON
+1.0	onus	be on	Iraqis	0	MISC
+1.0	he	see	nothing	0	0
+1.0	government	be	capable	0	0
+1.0	Bush	warn	Baghdad 's leader	PERSON	LOCATION
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	Iraqi officials	have	agenda	O	O
+1.0	country	have	control	O	O
+1.0	he	see nothing in	it	0	0
+1.0	Baghdad	have	leaders	O	LOCATION
+1.0	Bush	take blame for	blunder	PERSON	0
+1.0	Bush	take blame in	televise address to United States	PERSON	LOCATION
+1.0	Bush	take blame in	televise address	PERSON	0
+1.0	Bush plan	have	lot more feature	PERSON	0
+1.0	Bush plan	have	feature	PERSON	0
+1.0	Mahmud Othman	be	kurdish	PERSON	0
+1.0	Maliki	have	promise	O	PERSON
+1.0	Iraq	have	security forces	O	LOCATION
+1.0	we	have	we own agenda	0	0
+1.0	Bush	take blame for	strategic blunder in Iraq	PERSON	LOCATION
+1.0	Baghdad	have	leader do	LOCATION	0
+1.0	US president	take	more aggressive step	LOCATION	0
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	increase	be in	US troops	0	LOCATION
+1.0	onus	make	blueprint work	0	0
+1.0	Bush	take blame for	strategic blunder	PERSON	0
+1.0	official	give	welcome	0	0
+1.0	we	have	we agenda	0	0
+1.0	Bush	take blame for	blunder in Iraq	PERSON	LOCATION
+1.0	strategic blunder	be in	Iraq	0	LOCATION
+1.0	Iraqi officials	have	country	O	O
+1.0	George W. Bush	to	new strategy	PERSON	0
+1.0	Bush	order	21,500 more US troops	PERSON	LOCATION
+1.0	Bush plan	have	more feature	PERSON	0
+1.0	Bush	take blame in	address	PERSON	0
+1.0	US President George W. Bush	have	strategy	O	PERSON
+1.0	we	wait for	US President George W. Bush 's	0	PERSON
+1.0	Bush	take blame at_time	Wednesday	PERSON	DATE
+1.0	US president	take	step	LOCATION	0
+1.0	iraqi government	be	capable	0	0
+1.0	Bush	take blame in	address to United States	PERSON	LOCATION
+1.0	US president	take	aggressive step	LOCATION	0
+1.0	Iraq	have	security force	LOCATION	0
+1.0	official	give	welcome on Thursday	0	DATE
+1.0	our	have	best	O	O

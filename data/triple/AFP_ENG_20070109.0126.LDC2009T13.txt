@@ -1,0 +1,145 @@
+1.0	President Hugo Chavez	be	first elect	PERSON	ORDINAL
+1.0	that Venezuela	have	Socialist Republic	O	LOCATION
+1.0	Chavez	say at_time	Monday 's	PERSON	DATE
+1.0	Caracas '	be major supplier to	United States	LOCATION	LOCATION
+1.0	President Hugo Chavez	also announce	reform	PERSON	0
+1.0	Verizon Communications	be with	28.5 percent stake	ORGANIZATION	PERCENT
+1.0	share	tumble in	New York	DURATION	LOCATION
+1.0	President Hugo Chavez	be elect in	1998	PERSON	DATE
+1.0	relation	have	have strain	0	0
+1.0	President Hugo Chavez	say in	in cabinet for he new government 's six-year term	PERSON	DURATION
+1.0	President Hugo Chavez	announce	reform of constitution	PERSON	LOCATION
+1.0	oil	have	much	O	O
+1.0	Caracas '	be	also major supplier	LOCATION	0
+1.0	CANTV	have become	aware	ORGANIZATION	0
+1.0	populist Chavez	say at_time	Monday 's	PERSON	DATE
+1.0	large stake	be in	most of company work	0	0
+1.0	State Department spokesman Sean McCormack	say in	Washington	PERSON	LOCATION
+1.0	share	be in	telecom company CANTV	DURATION	ORGANIZATION
+1.0	Samuel Bodman	be	US	PERSON	LOCATION
+1.0	Samuel Bodman	be secretary of	US	PERSON	LOCATION
+1.0	current official name	republic of	bolivarian republic of Venezuela	LOCATION	LOCATION
+1.0	Caracas '	be	also supplier of oil to United States	LOCATION	LOCATION
+1.0	crude	have	refineries	O	O
+1.0	whose	have	shareholder	O	O
+1.0	President Hugo Chavez	say in	Orinoco region	PERSON	LOCATION
+1.0	laws	have	mother	O	O
+1.0	Bodman	tell	reporter	PERSON	0
+1.0	Caracas '	be	major supplier	LOCATION	0
+1.0	United States	voice	strong concern	LOCATION	0
+1.0	President Hugo Chavez	say in	in cabinet	PERSON	0
+1.0	President Hugo Chavez	announce	deep reform	PERSON	0
+1.0	State Condeleezza	have	Secretary	O	PERSON
+1.0	United States	be	Venezuela 's largest trading partner	LOCATION	LOCATION
+1.0	statements	have	become	O	O
+1.0	Venezuela	be	source	LOCATION	0
+1.0	President Hugo Chavez	intend for	Venezela 's sector	0	0
+1.0	us-venezuelan relation	have	have strain	0	0
+1.0	US multinational	have	stake in most of company work	LOCATION	0
+1.0	United States	be	also Venezuela 's largest trading partner	LOCATION	LOCATION
+1.0	stock	plunge at_time	Tuesday	0	DATE
+1.0	share	tumble off in	New York	DURATION	LOCATION
+1.0	relation	gradually expand on	populist	0	0
+1.0	President Hugo Chavez	intend for	Venezela 's chief revenue-making sector	0	0
+1.0	Venezuela	be source of	about 11 percent of US oil import	LOCATION	LOCATION
+1.0	US oil imports	have	percent	PERCENT	O
+1.0	Caracas '	be	major supplier of oil to United States	LOCATION	LOCATION
+1.0	US	have	Verizon Communications	ORGANIZATION	LOCATION
+1.0	course	have	monitoring	O	O
+1.0	crude	have	refining processes	O	O
+1.0	relation	expand on	populist	0	0
+1.0	US multinational	have	stake in most	LOCATION	0
+1.0	United States	be	also Venezuela 's trading partner	LOCATION	LOCATION
+1.0	CANTV	have become of	statement make by Chavez	ORGANIZATION	PERSON
+1.0	President Hugo Chavez	give	detail	0	0
+1.0	contracts	have	sanctity	O	O
+1.0	Venezela	have	sector	O	O
+1.0	stock	plunge on	Caracas ' exchange	0	LOCATION
+1.0	President Hugo Chavez	also announce	deep reform of constitution	PERSON	LOCATION
+1.0	President Chavez	have	comments	O	PERSON
+1.0	US multinational	have	large stake in most of company	LOCATION	0
+1.0	Monday	have	close	O	DATE
+1.0	share	tumble off by	quarter on opening	DURATION	DURATION
+0.7113984160550734	official name	establish in	1999 constitution	LOCATION	DATE
+1.0	Caracas	have	exchange	O	LOCATION
+1.0	Caracas '	be	supplier	LOCATION	0
+1.0	percent	have	source	O	PERCENT
+1.0	US multinational	have	large stake in most of company work in two sector	LOCATION	NUMBER
+1.0	cabinet	have	said	O	O
+1.0	President Hugo Chavez	intend for	Venezela 's revenue-making sector	0	0
+1.0	obligations	have	all	O	O
+1.0	US multinational	have	large stake in most of company work	LOCATION	0
+1.0	US multinational	have	stake in most of company	LOCATION	0
+1.0	President Hugo Chavez	also announce	reform of constitution	PERSON	LOCATION
+1.0	that	have	pass	0	0
+1.0	President Hugo Chavez	take	power	PERSON	0
+1.0	nationalization	be	well-worn	0	0
+1.0	President Hugo Chavez	create	Socialist Republic	PERSON	LOCATION
+1.0	US multinational	have	stake in most of company work in two sector	LOCATION	NUMBER
+1.0	Chavez	on	comment	PERSON	0
+1.0	President Hugo Chavez	intend for	Venezela 's chief sector	0	0
+1.0	President Hugo Chavez	be	elect	PERSON	0
+0.7113984160550734	current name	establish in	1999 constitution	DATE	DATE
+1.0	President Hugo Chavez	say in	in cabinet for he government 's term	PERSON	0
+1.0	oil	have	supplier	O	O
+1.0	that Venezuela	have	oil	O	O
+1.0	CANTV	have become of	statement	ORGANIZATION	0
+1.0	President Hugo Chavez	be first elect in	1998	PERSON	DATE
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	Monday	from	close	DATE	0
+1.0	Caracas '	be	also major supplier of oil to United States	LOCATION	LOCATION
+1.0	United States	voice concern over	Chavez 's plan	LOCATION	PERSON
+1.0	reform	have	details	O	O
+1.0	that	be	pass	0	0
+1.0	us-venezuelan relation	expand on	populist	0	0
+1.0	Caracas '	be also supplier of	oil	LOCATION	0
+1.0	new government	for	six-year term	0	DURATION
+1.0	US multinational	have	large stake in most	LOCATION	0
+1.0	refineries	have	control	O	O
+1.0	United States	voice	concern	LOCATION	0
+0.7113984160550734	current official name	establish in	1999 constitution	LOCATION	DATE
+1.0	Venezela	for	chief revenue-making sector	0	0
+1.0	President Hugo Chavez	create	Socialist Republic of Venezuela	PERSON	LOCATION
+1.0	plans	have	details	O	O
+1.0	Chavez	have	plans	O	PERSON
+1.0	share	tumble by	quarter on opening	DURATION	DURATION
+1.0	Caracas '	be	supplier of oil to United States	LOCATION	LOCATION
+1.0	Caracas '	be supplier to	United States	LOCATION	LOCATION
+1.0	details	have	aware	O	O
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	that	have	pass on to venezuelan	0	0
+1.0	CANTV	have become of	statement make	ORGANIZATION	0
+1.0	government	have	plans	O	O
+1.0	President Hugo Chavez	announce	reform	PERSON	0
+1.0	US multinational	have	large stake	LOCATION	0
+1.0	share	tumble by	quarter	DURATION	DURATION
+1.0	Venezuela	have	trading partner	O	LOCATION
+1.0	Samuel Bodman	be	Energy	PERSON	ORGANIZATION
+1.0	President Hugo Chavez	say at	swearing	PERSON	0
+1.0	its	have	obligations	O	O
+1.0	Caracas '	be	major	LOCATION	0
+1.0	Caracas '	be also major supplier of	oil	LOCATION	0
+1.0	United States	be	Venezuela 's trading partner	LOCATION	LOCATION
+1.0	Caracas '	be also supplier to	United States	LOCATION	LOCATION
+1.0	President Hugo Chavez	say in	in cabinet for he new government 's term	PERSON	0
+0.7113984160550734	name	establish in	1999 constitution	0	DATE
+1.0	constitution	have	reform	O	O
+1.0	Caracas '	be	also supplier	LOCATION	0
+1.0	Chavez	over	plan	PERSON	0
+1.0	government	have	term	O	O
+1.0	companies	have	most	O	O
+1.0	comment	have	aware	O	O
+1.0	accepted international practice	be in	foreign company compensate at fair market value for asset	0	0
+1.0	Caracas '	be major supplier of	oil	LOCATION	0
+1.0	President Hugo Chavez	announce	deep reform of constitution	PERSON	LOCATION
+1.0	President Hugo Chavez	say in	in cabinet for he government 's six-year term	PERSON	DURATION
+1.0	US multinational	have	stake	LOCATION	0
+1.0	Caracas '	be supplier of	oil	LOCATION	0
+1.0	share	tumble off by	quarter	DURATION	DURATION
+1.0	President Hugo Chavez	have	government	O	O
+1.0	that Venezuela	have	Republic	LOCATION	LOCATION
+1.0	that	be pass on	on venezuelan	0	0
+1.0	us-venezuelan relation	gradually expand on	populist	0	0
+1.0	President Hugo Chavez	also announce	deep reform	PERSON	0
+1.0	Caracas '	be also major supplier to	United States	LOCATION	LOCATION
+1.0	President Hugo Chavez	give	further detail	0	0

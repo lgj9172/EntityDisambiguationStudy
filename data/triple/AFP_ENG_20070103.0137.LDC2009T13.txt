@@ -1,0 +1,76 @@
+1.0	China 's national average	be	117 male	LOCATION	NUMBER
+1.0	her	have	spouse	O	O
+1.0	pregnancy	will harm	mother	0	0
+1.0	family	identify	sex of foetus	0	0
+1.0	continual pregnancy	will harm	mother	0	0
+1.0	ratio	be higher accord to	China 's census	0	LOCATION
+1.0	France	by	National Institute of Demographic study	LOCATION	ORGANIZATION
+1.0	technology	have	use	O	O
+1.0	move	be see as	supportive measure for set of new regulation	0	0
+1.0	ratio	be	higher	0	0
+1.0	couple	prefer boy to	girl	0	0
+1.0	couple	prefer boy in	especially rural family	0	0
+1.0	China	accord to	last census in 2000	LOCATION	DATE
+1.0	move	be see as	supportive measure	0	0
+1.0	abortion	be	legal	0	0
+1.0	Xinhua	quote	local government source	ORGANIZATION	0
+1.0	foetus	have	disease	0	0
+1.0	ratio	be higher accord to	China 's census in 2000	0	DATE
+1.0	move	be see as	measure for set of new regulation	0	0
+1.0	China	have	policy	O	LOCATION
+1.0	Demographic Studies	have	National Institute	ORGANIZATION	ORGANIZATION
+1.0	couple	prefer boy in	family	0	0
+1.0	103-107 100	have	world ratio	O	NUMBER
+1.0	couple	prefer	boy	0	0
+1.0	China	have	average	O	LOCATION
+1.0	move	ban	foetal gender selection	0	0
+1.0	ratio	be higher accord to	China 's last census in 2000	0	DATE
+1.0	move	ban gender selection by	abortion	0	0
+1.0	newborn boy	be in	Henan	0	LOCATION
+1.0	couple	prefer boy in	especially family	0	0
+1.0	yuan	have	fine	O	MONEY
+1.0	family	identify	sex	0	0
+1.0	China 's average	be	117 male	LOCATION	NUMBER
+1.0	Henan	have	authorities	O	LOCATION
+1.0	Henan 's authority	have blame	gender imbalance	LOCATION	0
+1.0	sex	abort	girl	0	0
+1.0	yuan	have	fines	O	MONEY
+1.0	ratio	be with	population of 100 million resident	0	NUMBER
+1.0	Xinhua	quote	government source	ORGANIZATION	0
+1.0	ratio	be considerably higher accord to	China 's census	0	LOCATION
+1.0	abortion drugs	have	sale	O	O
+1.0	foetus	have	serious hereditary disease	0	0
+1.0	ratio	be considerably higher accord to	China 's last census in 2000	0	DATE
+1.0	move	be	see	0	0
+1.0	efforts	have	part	O	O
+1.0	ratio	be higher accord to	China 's last census	0	LOCATION
+1.0	foetus	have	hereditary disease	0	0
+1.0	China	have	national average	LOCATION	0
+1.0	abortion	be legal accord to	regulation	0	0
+1.0	A central Chinese province	have	efforts	O	O
+1.0	Henan 's local authority	have blame	serious gender imbalance	LOCATION	0
+1.0	ratio	be considerably higher accord to	China 's last census	0	LOCATION
+1.0	China	have	census	O	LOCATION
+1.0	Henan	have	local authority	LOCATION	0
+1.0	regulations	have	set	O	O
+1.0	China 's average	be	117 male bear for 100 female bear	LOCATION	NUMBER
+1.0	ratio	be	considerably higher	0	0
+1.0	abortion drugs	have	vendors	O	O
+1.0	foetuses	have	sex	O	O
+1.0	couple	prefer boy in	rural family	0	0
+1.0	residents	have	population	O	O
+1.0	newborns	have	babies	O	O
+1.0	foetus	have	serious disease	0	0
+1.0	move	be see as	measure	0	0
+1.0	move	be see as	supportive measure for set of regulation	0	0
+1.0	Henan 's authority	have blame	serious gender imbalance	LOCATION	0
+1.0	China 's last census	be in	2000	LOCATION	DATE
+1.0	move	be see as	measure for set	0	0
+1.0	move	be see as	measure for set of regulation	0	0
+1.0	Henan 's local authority	have blame	gender imbalance	LOCATION	0
+1.0	France	have	National Institute	ORGANIZATION	LOCATION
+1.0	new rule	be in	Henan province	0	LOCATION
+1.0	move	be see as	supportive measure for set	0	0
+1.0	ratio	be considerably higher accord to	China 's census in 2000	0	DATE
+1.0	move	ban	gender selection	0	0
+1.0	China 's national average	be	117 male bear for 100 female bear	LOCATION	NUMBER

@@ -1,0 +1,91 @@
+1.0	it	be important for	sake	0	0
+1.0	Russia	have	bid	O	LOCATION
+1.0	Syria	have	level	O	LOCATION
+1.0	we	focus on	one country	0	NUMBER
+1.0	Brammertz	say at_time	month	PERSON	DATE
+1.0	lack	have	serious consequence	0	0
+1.0	response	be	overdue	0	0
+1.0	United States	object	european member	LOCATION	0
+1.0	lack	have	serious consequence in term of delay for work of commission	0	0
+1.0	council	have	members	O	O
+1.0	Brammertz	have	predecessor	O	PERSON
+0.9009711679433988	serious consequence	lack of	responsiveness by certain state	0	0
+1.0	Brammertz 's german predecessor	have implicate	senior official	PERSON	0
+1.0	its	have	probe	O	O
+1.0	responsiveness	have	lack	O	O
+1.0	level	remain	generally satisfactory	0	0
+1.0	we	focus	hard	0	0
+1.0	controversy	be in	Tuesday	0	DATE
+1.0	United States	object	european member of council	LOCATION	0
+1.0	commission	have	work	O	O
+1.0	serious consequence	be in	term of delay for work of commission	0	0
+1.0	he panel	believe	authority	0	0
+1.0	lack	have	serious consequence in term of delay for work	0	0
+1.0	Russia	have	UN	LOCATION	ORGANIZATION
+1.0	Vitaly Churkin	tell here	reporter	PERSON	0
+1.0	UN probe	have focus	attention on Syria 's level of cooperation	ORGANIZATION	LOCATION
+1.0	level	remain	satisfactory	0	0
+1.0	Serge Brammertz	be chief investigator of	Russia 's UN	PERSON	ORGANIZATION
+0.9009711679433988	consequence	lack of	responsiveness by certain state	0	0
+1.0	UN interim report	make	it clear	ORGANIZATION	0
+1.0	Brammertz 's german predecessor	have implicate official in	Hariri slaying	PERSON	PERSON
+1.0	we	focus	so hard	0	0
+1.0	Brammertz	have	german predecessor	PERSON	0
+1.0	Russia	have	UN	ORGANIZATION	LOCATION
+1.0	he panel	believe	lebanese authority	0	0
+1.0	lack	have	consequence in term of delay for work of commission	0	0
+0.9009711679433988	serious consequence	lack of	responsiveness	0	0
+1.0	Vitaly Churkin	have	attempt	O	O
+1.0	UN probe	have focus	attention on Syria 's level	ORGANIZATION	LOCATION
+1.0	United States	object	member of council	LOCATION	0
+1.0	Vitaly Churkin	be envoy of	UN	PERSON	ORGANIZATION
+1.0	power broker	be in	its smaller neighbor	0	0
+1.0	Brammertz 's german predecessor	have implicate	official	PERSON	0
+1.0	the lack of responsiveness by certain states	have	process	O	O
+1.0	process	have	work	O	O
+1.0	principle	have	sake	O	O
+1.0	suspect	be in	public domain	0	0
+1.0	council	be in	March	0	DATE
+1.0	Brammertz 's predecessor	have implicate	senior official	PERSON	0
+1.0	delay	have	terms	O	O
+0.9009711679433988	consequence	lack of	responsiveness by state	0	0
+1.0	United States	object	member	LOCATION	0
+1.0	Brammertz 's predecessor	have implicate	official	PERSON	0
+1.0	lack	have	consequence in term of delay	0	0
+0.9009711679433988	serious consequence	lack of	responsiveness by state	0	0
+0.13471641524158007	Brammertz 's german predecessor	have implicate in	Hariri slaying	PERSON	PERSON
+1.0	lack	have	consequence	0	0
+1.0	Vitaly Churkin	tell	reporter	PERSON	0
+1.0	lack	have	serious consequence in term	0	0
+1.0	we	focus on	Syria	0	LOCATION
+1.0	Brammertz 's predecessor	have implicate official in	Hariri slaying	PERSON	PERSON
+1.0	assistance	have	level	O	O
+1.0	lack	have	serious consequence in term of delay	0	0
+1.0	lack	have	consequence in term	0	0
+1.0	it	be important for	sake of principle	0	0
+1.0	lack	have	consequence in term of delay for work	0	0
+1.0	Hariri	have	slaying	O	PERSON
+1.0	Russia	to	bid press	LOCATION	0
+0.9009711679433988	consequence	lack of	responsiveness	0	0
+1.0	22 other	be in	Beirut	NUMBER	LOCATION
+1.0	cooperation	have	level	O	O
+1.0	he panel	engage	lebanese authority	0	0
+0.13471641524158007	Brammertz 's predecessor	have implicate in	Hariri slaying	PERSON	PERSON
+1.0	Syria	on	level of cooperation	LOCATION	0
+1.0	Brammertz	have	report	O	PERSON
+1.0	he panel	engage with	commission	0	0
+1.0	Serge Brammertz	be	Russia 's UN	PERSON	ORGANIZATION
+1.0	United States	object to	Russia 's bid	LOCATION	LOCATION
+1.0	UN probe	have focus attention with	UN investigator	ORGANIZATION	ORGANIZATION
+1.0	his	have	panel	O	O
+1.0	Brammertz	say at_time	last month	PERSON	DATE
+1.0	objectivity	have	sake	O	O
+1.0	ex-premier	have	murder	O	O
+1.0	Brammertz	's predecessor be	Detlev Mehlis	PERSON	PERSON
+1.0	he panel	engage	authority	0	0
+1.0	its	have	neighbor	O	O
+1.0	Vitaly Churkin	be	UN	PERSON	ORGANIZATION
+1.0	it	be	important	0	0
+1.0	credibility	have	sake	O	O
+1.0	anonymity	have	condition	O	O
+1.0	UN probe	have focus	attention	ORGANIZATION	0

@@ -1,0 +1,59 @@
+1.0	Ljuben Paunovski	have	father-in-law	O	O
+1.0	Macedonia	have	minister	O	LOCATION
+1.0	court	enable	the	0	0
+1.0	minister	fire paunovski in	2001	0	DATE
+1.0	former defence minister	be	sentence Thursday for abuse of power	0	DATE
+1.0	defendant	be	Paunovski 's deputy give one year 's imprisonment	0	DURATION
+1.0	prime minister	fire paunovski in	2001	0	DATE
+1.0	court	find	Paunovski guilty	0	PERSON
+1.0	Paunovski	have	brother-in-law sentence to three year	PERSON	NUMBER
+1.0	former defence minister	embezzle	state fund	0	0
+1.0	Ljubco Petkovski	be father-in-law of	Paunovski	PERSON	PERSON
+1.0	Macedonia	be	former constituent republic	LOCATION	0
+1.0	court	thus enable	the	0	0
+1.0	Macedonia	be	former constituent republic of defunct state	LOCATION	0
+1.0	Ljuben Paunovski	abuse	he power	PERSON	0
+1.0	Macedonia	be	former constituent republic of state	LOCATION	0
+1.0	power	have	abuse	O	O
+1.0	Kiril Gjorgov	be deputy of	Paunovski	PERSON	PERSON
+1.0	Paunovski	have	deputy give imprisonment	PERSON	0
+1.0	defendant	be	three other defendants	0	PERSON
+1.0	state	have	constituent republic	O	O
+1.0	minister	fire	Paunovski over scandal	0	PERSON
+1.0	year	have	imprisonment	O	DURATION
+1.0	balkan state	in minister be	Ljuben Paunovski	0	PERSON
+1.0	year	be in	jail	0	0
+1.0	Paunovski	have	brother-in-law	O	PERSON
+1.0	one year	give	imprisonment	DURATION	0
+1.0	Macedonia	be	former constituent republic of now defunct state	LOCATION	DATE
+1.0	Paunovski	's deputy be	Kiril Gjorgov	PERSON	PERSON
+1.0	former defence minister	embezzle state fund in	property scam	0	0
+1.0	court	thus enable	the accuse	0	0
+1.0	Macedonia	be	Ljuben Paunovski	LOCATION	PERSON
+1.0	Paunovski	's brother-in-law be	Vladimir Talevski	PERSON	PERSON
+1.0	former defence minister	be in	balkan state of Macedonia	0	LOCATION
+1.0	former defence minister	be sentence at_time	Thursday	0	DATE
+1.0	Paunovski	have	father-in-law	O	PERSON
+1.0	Macedonia	be	Ljupco Georgievski	LOCATION	PERSON
+1.0	Vladimir Talevski	be brother-in-law of	Paunovski	PERSON	PERSON
+1.0	prime minister	fire	Paunovski	0	PERSON
+1.0	father-in-law	with	private company build	0	0
+1.0	Macedonia	have	state	O	LOCATION
+1.0	former defence minister	be	sentence	0	0
+1.0	Macedonia	be	former constituent republic of state of Yugoslavia	LOCATION	LOCATION
+1.0	father-in-law	have	company	O	O
+1.0	former defence minister	be sentence for	abuse	0	0
+1.0	Yugoslavia	have	state	O	LOCATION
+1.0	former defence minister	be sentence for	abuse of power	0	0
+1.0	court	enable	the accuse	0	0
+1.0	Paunovski	have	deputy	O	PERSON
+1.0	former defence minister	be	sentence Thursday for abuse	0	DATE
+1.0	other defendant	be	Paunovski 's deputy give one year 's imprisonment	0	DURATION
+1.0	minister	fire	Paunovski	0	PERSON
+1.0	prime minister	fire	Paunovski over scandal	0	PERSON
+1.0	Macedonia	be	former constituent republic of defunct state of Yugoslavia	LOCATION	LOCATION
+1.0	Ljuben Paunovski	have	powers	O	O
+1.0	Paunovski	have	father-in-law	PERSON	0
+1.0	other defendant	be	three other defendants	0	PERSON
+1.0	Macedonia	be	former constituent republic of now defunct state of Yugoslavia	LOCATION	DATE
+1.0	one year 's imprisonment	give deputy be	Kiril Gjorgov	DURATION	PERSON

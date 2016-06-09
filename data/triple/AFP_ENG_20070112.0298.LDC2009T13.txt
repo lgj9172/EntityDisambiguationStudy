@@ -1,0 +1,65 @@
+1.0	group	have	information	O	O
+1.0	group 's information	of head be	Thomas Ganswindt	0	PERSON
+1.0	prosecutor	launch probe amid	suspicion of embezzlement	0	0
+1.0	Siemens employees	have	number	O	O
+1.0	sum	be	use	0	0
+1.0	press conference	be schedule	hold	0	0
+1.0	bribery	have	suspicions	O	O
+1.0	former Siemens	be	Heinz-Joachim Neubuerger	ORGANIZATION	PERSON
+1.0	embezzlement	have	suspicions	O	O
+1.0	spokesman	partially confirm	newspaper report	0	0
+1.0	420 million euro	be in	suspicious payment over past seven year even	MONEY	DURATION
+1.0	consultancy payments	have	existence	O	O
+0.7414502906821414	sum	hold in	account 200 million euro	0	MONEY
+1.0	spokesman	disclose	detail	0	0
+1.0	prosecutor	launch	probe	0	0
+1.0	sum	obtain	contract	0	0
+1.0	Siemens supervisory board chief	have come under	fire	ORGANIZATION	0
+1.0	spokesman	partially confirm	corresponding newspaper report	0	0
+1.0	prosecutor	launch	massive probe	0	0
+1.0	prosecutor	launch	massive probe at Siemens	0	ORGANIZATION
+1.0	Heinz-Joachim Neubuerger	have say as	as December	PERSON	DATE
+1.0	Heinz-Joachim Neubuerger	have say as	as recently December	PERSON	DATE
+1.0	Siemens board chief	have come under	fire for he role in affair	ORGANIZATION	0
+1.0	420 million euro	be in	suspicious payment	MONEY	0
+1.0	prosecutor	be in	Munich	0	LOCATION
+1.0	Siemens board chief	have come under	fire for he role	ORGANIZATION	0
+1.0	prosecutor	launch probe in	November	0	DATE
+1.0	press conference	be	hold	0	0
+1.0	slush funds	have	existence	O	O
+1.0	Heinz-Joachim Neubuerger	have say in	newspaper interview	PERSON	0
+1.0	Siemens supervisory board chief Heinrich von Pierer	have	role	O	O
+0.7414502906821414	sum	hold in	account euro	0	0
+1.0	spokesman	confirm	corresponding newspaper report	0	0
+1.0	press conference	be	schedule	0	0
+1.0	he role	be in	affair	0	0
+1.0	newsmagazine	have	edition	O	O
+1.0	group	of	information	0	0
+1.0	Siemens board chief	have come under	fire	ORGANIZATION	0
+1.0	press conference	be hold on	matter	0	DATE
+1.0	sum	be use as	bribe	0	0
+1.0	number	have	homes	O	O
+1.0	information	have	head	O	O
+1.0	prosecutor	launch	probe at Siemens	0	ORGANIZATION
+1.0	spokesman	confirm	newspaper report	0	0
+1.0	consultant	be in	2003	0	DATE
+1.0	employee	be	suspect	0	0
+1.0	spokesman	disclose	further detail	0	0
+1.0	Siemens supervisory board chief	have come under	fire for he role in affair	ORGANIZATION	0
+1.0	press conference	be schedule	hold on matter	0	DATE
+1.0	money	have	all	O	O
+1.0	tax evasion	have	suspicions	O	O
+1.0	sum	obtain abroad	contract	0	0
+1.0	prosecutor	launch probe amid	suspicion	0	0
+1.0	communications unit	have	head	O	O
+1.0	Sueddeutsche Zeitung	be in	daily	ORGANIZATION	SET
+1.0	money	have	some	O	O
+1.0	Neubuerger	be	54-year-old	PERSON	DURATION
+1.0	german prosecutor	say at_time	Friday	0	DATE
+1.0	prosecutor	say at_time	Friday	0	DATE
+1.0	Siemens supervisory board chief	have come under	fire for he role	ORGANIZATION	0
+1.0	Der Spiegel	be in	Sueddeutsche Zeitung	ORGANIZATION	ORGANIZATION
+1.0	corruption	have	cases	O	O
+1.0	spokesman	decline	note	0	0
+1.0	probe	have	part	O	O
+1.0	former Siemens	have	finance chief	O	ORGANIZATION

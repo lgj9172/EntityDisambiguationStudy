@@ -1,0 +1,37 @@
+1.0	the United Nations	have	observation mission	O	O
+1.0	the United Nations	have	coordination office	O	O
+1.0	election	take place by	alliance lead by main opposition Awami League	0	ORGANIZATION
+1.0	Bangladesh 's	have	people	O	LOCATION
+1.0	election	take place by	alliance	0	0
+1.0	the opposition	have	threat	O	O
+1.0	Britain	urge	Bangladesh 's government	LOCATION	LOCATION
+0.8310462019193273	alliance	lead by	opposition Awami League	0	ORGANIZATION
+1.0	people	have	have kill	0	0
+1.0	35	boycott election on	January 3	0	DATE
+1.0	election	take place by	alliance lead	0	0
+1.0	Bangladesh	have	government	O	LOCATION
+1.0	United Nations	close	its international coordination office	ORGANIZATION	0
+1.0	election	take	place on January 22	0	DATE
+1.0	election	take	place	0	0
+1.0	Britain	urge	Bangladesh 's interim government	LOCATION	LOCATION
+1.0	United Nations	close	its coordination office	ORGANIZATION	0
+1.0	their	have	part	O	O
+1.0	Party	hand	power	ORGANIZATION	0
+1.0	election	take place by	alliance lead by opposition Awami League	0	ORGANIZATION
+1.0	election observer	be in	Dhaka	0	LOCATION
+1.0	step	discourage	opposition	0	0
+1.0	Bangladesh 's government	take	step	LOCATION	0
+1.0	Bangladesh 's interim government	take	step	LOCATION	0
+1.0	Britain	be on	Thursday	LOCATION	DATE
+1.0	their	have	differences	O	O
+1.0	nationalist Party	hand	power	ORGANIZATION	0
+1.0	election	take place despite	boycott	0	0
+1.0	people	have	have kill in unrest	0	0
+1.0	Bangladesh	have	interim government	LOCATION	0
+1.0	nationalist Party	hand ago	power	ORGANIZATION	0
+0.8310462019193273	alliance	lead by	main opposition Awami League	0	ORGANIZATION
+1.0	election	be	set	0	0
+1.0	Party	hand ago	power	ORGANIZATION	0
+1.0	Bangladesh	have	interests	O	LOCATION
+1.0	35	boycott	election	0	0
+1.0	people	have	have kill in pre-election unrest	0	0

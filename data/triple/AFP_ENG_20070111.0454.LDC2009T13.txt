@@ -1,0 +1,63 @@
+1.0	Turkey Thursday	welcome	US President George W. Bush 's plan	DATE	LOCATION
+1.0	ministry	be refer to	group list	0	0
+1.0	ministry	be refer to	separatist group list as organization	0	0
+1.0	pkk office	remain	open	0	0
+1.0	ministry	be refer to	group	0	0
+1.0	Kurdistan Workers	have	Party	ORGANIZATION	ORGANIZATION
+1.0	ministry	be refer to	armed group list as terrorist organization by Ankara	0	LOCATION
+1.0	ministry	be refer to	armed group list as organization by Ankara	0	LOCATION
+1.0	Bush	have	call	O	PERSON
+1.0	ministry	be refer to	armed separatist group	0	0
+1.0	Ankara	have threaten	operation	LOCATION	0
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	Ankara	have threaten operation into	northern Iraq	LOCATION	LOCATION
+1.0	Washington	declare	commitment	LOCATION	0
+1.0	PKK presence	be in	Iraq	ORGANIZATION	LOCATION
+1.0	ministry	be refer to	armed separatist group list	0	0
+1.0	ministry	be refer to	group list as organization by Ankara	0	LOCATION
+1.0	ministry	be refer to	armed group list as terrorist organization	0	0
+1.0	Iraq	take	US	LOCATION	LOCATION
+1.0	Ankara	have threaten	cross-border operation	LOCATION	0
+1.0	Turkish Kurd	have	neighbor	O	O
+1.0	ministry	be refer to	armed group list	0	0
+1.0	ministry	be refer to	separatist group list as organization by Ankara	0	LOCATION
+1.0	ministry	be refer to	armed group list as organization	0	0
+1.0	ministry	be refer to	armed separatist group list as organization by Ankara	0	LOCATION
+1.0	pkk office	remain by	Baghdad	0	LOCATION
+1.0	oil revenue	be share by	Iraqis	0	MISC
+1.0	Bush	have	call	PERSON	0
+1.0	ministry	be refer to	separatist group list by Ankara	0	LOCATION
+1.0	ministry	be refer to	group list as organization	0	0
+1.0	ministry	be refer to	armed separatist group list as terrorist organization by Ankara	0	LOCATION
+1.0	Kurdistan Workers ' Party	party be	armed separatist group list as terrorist organization by Ankara	ORGANIZATION	LOCATION
+0.8240447577827171	militant	refuge in	Iraq	0	LOCATION
+1.0	pkk office	be in	Iraq	0	LOCATION
+1.0	George W. Bush	have	plan send to Iraq	PERSON	LOCATION
+1.0	ministry	be refer to	group list as terrorist organization	0	0
+0.8240447577827171	militant	refuge in	northern Iraq	0	LOCATION
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+1.0	ministry	be refer to	armed separatist group list by Ankara	0	LOCATION
+1.0	pkk office	remain	open despite September announcement	0	DATE
+1.0	Turkish Kurd rebels	be all	close	0	0
+1.0	ministry	be refer to	armed separatist group list as terrorist organization	0	0
+1.0	kurdish self-rule	be in	Turkey	0	LOCATION
+1.0	ministry	be refer to	separatist group	0	0
+1.0	US President George W. Bush	have	plan	O	PERSON
+1.0	ministry	be refer to	separatist group list	0	0
+1.0	Ankara	have threaten operation into	Iraq	LOCATION	LOCATION
+1.0	Iraq	take	action	LOCATION	0
+1.0	Washington 's	keep	pledge	LOCATION	0
+1.0	ministry	be refer to	armed separatist group list as organization	0	0
+1.0	ministry	be refer to	separatist group list as terrorist organization	0	0
+1.0	ministry	be refer to	Kurdistan Workers ' Party	0	ORGANIZATION
+1.0	ministry	be refer to	group list by Ankara	0	LOCATION
+1.0	Prime Minister Recep Tayyip Erdogan	charge at_time	last week	PERSON	DATE
+1.0	Prime Minister Recep Tayyip Erdogan	charge at_time	week	PERSON	DATE
+1.0	Iraq	fail	US	LOCATION	LOCATION
+1.0	southeast Turkey	be	unhappy	LOCATION	0
+1.0	ministry	be refer to	group list as terrorist organization by Ankara	0	LOCATION
+1.0	ministry	be refer to	armed group list by Ankara	0	LOCATION
+1.0	southeast Turkey	be unhappy with	United States	LOCATION	LOCATION
+1.0	ministry	be refer to	armed group	0	0
+1.0	ministry	be refer to	separatist group list as terrorist organization by Ankara	0	LOCATION
+1.0	refuge	be in	Iraq	0	LOCATION

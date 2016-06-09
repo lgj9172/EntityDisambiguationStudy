@@ -1,0 +1,45 @@
+1.0	Josh Howard	be	western conference winner for second week in row	PERSON	DURATION
+1.0	their	have	streak	O	O
+1.0	Josh Howard	be	western conference winner for second week	PERSON	DURATION
+1.0	he	average at_time	week	0	DATE
+1.0	each	win	weekly award	0	SET
+1.0	Josh Howard	be	conference winner for second week in row	PERSON	DURATION
+1.0	Redd	win for	period	PERSON	0
+1.0	Redd	receive	Eastern Conference honor	PERSON	0
+1.0	point	help	3.0	0	NUMBER
+1.0	Howard	have	28 point	PERSON	NUMBER
+1.0	27.0 point	assist	3.0	NUMBER	NUMBER
+1.0	Redd	receive eastern conference honor for	time	PERSON	0
+1.0	point	assist	5.3 rebound	0	NUMBER
+1.0	Josh Howard	be	conference winner for second week	PERSON	DURATION
+1.0	a	win ago at	San Antonio	DATE	LOCATION
+1.0	Michael Redd	be guard of	Milwaukee Bucks	PERSON	ORGANIZATION
+1.0	he	average at_time	last week	0	DATE
+1.0	it	be	second time	0	ORDINAL
+1.0	three block	be in	89-85	NUMBER	0
+1.0	each	win	award	0	0
+1.0	Josh Howard	be	conference winner for week in row	PERSON	DURATION
+1.0	27.0 point	assist	5.3 rebound	NUMBER	NUMBER
+1.0	point	assist	3.0	0	NUMBER
+1.0	Redd	also win for	period	PERSON	0
+1.0	point	help	5.3 rebound	0	NUMBER
+1.0	27.0 point	help	Bucks	NUMBER	0
+1.0	Redd	win from	November 27-december	PERSON	DATE
+1.0	it	be	time	0	0
+1.0	Josh Howard	be	western conference winner for week in row	PERSON	DURATION
+1.0	Josh Howard	be	western conference winner for week	PERSON	DURATION
+1.0	Josh Howard	be	conference winner for week	PERSON	DURATION
+1.0	27.0 point	help bucks to	3-1 record	NUMBER	NUMBER
+1.0	point	help	Bucks	0	0
+1.0	a	win at	San Antonio	DATE	LOCATION
+1.0	Josh Howard	be	western conference winner	PERSON	DURATION
+1.0	week	have	National Basketball Association players	O	DATE
+1.0	Michael Redd	be	Milwaukee Bucks	PERSON	ORGANIZATION
+1.0	27.0 point	help	5.3 rebound	NUMBER	NUMBER
+1.0	in a	win ago at	San Antonio	DATE	LOCATION
+1.0	Josh Howard	be	conference winner	PERSON	DURATION
+1.0	in a	win at	San Antonio	DATE	LOCATION
+1.0	Redd	also win from	November 27-december	PERSON	DATE
+1.0	27.0 point	help	3.0	NUMBER	NUMBER
+1.0	point	help bucks to	3-1 record	0	NUMBER
+1.0	Redd	receive eastern conference honor for	second time	PERSON	ORDINAL

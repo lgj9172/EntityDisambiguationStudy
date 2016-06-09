@@ -1,0 +1,146 @@
+1.0	euro	rise on	highest point	0	0
+1.0	Belgrade	have	control	O	LOCATION
+1.0	euro	replace	currency introduce as symbol of country 's independence	0	0
+1.0	european currency	be in	recent month	0	DURATION
+1.0	Slovenia former state	join	European Union 's common currency	LOCATION	ORGANIZATION
+1.0	european currency	strike	157.88 yen	0	MONEY
+1.0	last year have difference	be in	interest rate	DATE	0
+1.0	euro	be	be now use	0	DATE
+1.0	euro	be	be now use by 13 country	0	DATE
+1.0	euro	rise	as high	0	0
+1.0	exchange market	have	driver	O	O
+1.0	country	have	independence	O	O
+1.0	euro	be change hand at	1.3287 dollar	0	MONEY
+1.0	dollar	stand at	1.2191	0	NUMBER
+1.0	euro	replace	currency introduce in 1991 as symbol	0	DATE
+1.0	Slovenia	have	adoption of euro	LOCATION	0
+1.0	dollar	stand at	118.82 yen	0	MONEY
+1.0	euro	be	be meanwhile use	0	0
+1.0	Slovenia first former communist state	join	European Union 's common currency	DATE	ORGANIZATION
+1.0	dollar	drop to	118.82 yen	0	MONEY
+1.0	euro	be change hand at	1.3287 dollar against 1.3197 dollar on Friday	0	DATE
+1.0	rate hike	have	expectations	O	O
+1.0	datum	have dampen there	expectation	0	0
+1.0	european single currency	also strike	157.88 yen	0	MONEY
+1.0	tiny country	of	independence	0	0
+1.0	US trading	be put on	hold	LOCATION	0
+1.0	interest rate	give	momentum	0	0
+1.0	euro	rise	as high as 1.3288 dollar in european exchange	0	MONEY
+1.0	Slovenia	accede to	the EU	LOCATION	ORGANIZATION
+1.0	price	climb on	London Bullion Market	0	ORGANIZATION
+1.0	recent datum	be in	Japan	DURATION	LOCATION
+1.0	Tokyo market	close for	New Year celebration	LOCATION	DATE
+1.0	Americans	mark	recent passing of former president Gerald Ford	MISC	PERSON
+1.0	pound	be	be trade at 1.9736 dollar	0	MONEY
+1.0	European Union	have	currency	O	ORGANIZATION
+1.0	euro	have	adoption	O	O
+1.0	Slovenia	become	former communist state	LOCATION	0
+1.0	euro bill	be	introduce	0	0
+1.0	US trading	be	put	LOCATION	0
+1.0	price	climb to	639.75 dollar	0	MONEY
+1.0	Belgrade	have	monetary control over slovenian economy	LOCATION	0
+1.0	euro	replace	tolar	0	0
+1.0	interest rate	give momentum to	currency in month	0	0
+1.0	2006	have	course	O	DATE
+1.0	euro	rise	as high as 1.3288 dollar	0	MONEY
+1.0	The European single currency	stand on	Friday	0	DATE
+1.0	Slovenia	become	former state	LOCATION	0
+1.0	Slovenia former communist state	join	European Union 's common currency	LOCATION	ORGANIZATION
+1.0	Tokyo market	remain	close for New Year celebration	LOCATION	DATE
+1.0	Slovenia	declare independence from	former Yugoslavia	LOCATION	LOCATION
+1.0	euro	be	be meanwhile now use	0	DATE
+0.8103219951678404	expectation	datum in	Japan	0	LOCATION
+1.0	euro	rise on	point since December 13 2006	0	DATE
+1.0	euro	replace	currency introduce in 1991 as symbol of tiny country 's independence	0	DATE
+1.0	euro	rise on	point	0	0
+1.0	Slovenia first former state	join	European Union 's common currency	DATE	ORGANIZATION
+1.0	euro	replace	currency introduce as symbol of tiny country 's independence	0	0
+1.0	euro	rise on	Tuesday	0	DATE
+1.0	The European single currency	stand at	1.3287 dollar	0	MONEY
+1.0	Stuart Bennet	be	Calyon	PERSON	ORGANIZATION
+1.0	dollar	drop to	118.82 yen from 118.96 yen	0	MONEY
+1.0	euro	rise	high as 1.3288 dollar	0	MONEY
+1.0	euro	gain	11.4 percent	0	PERCENT
+1.0	Slovenia	declare	independence	LOCATION	0
+1.0	euro	rise on	highest point since December 13 2006	0	DATE
+1.0	Slovenia	have	adoption	O	LOCATION
+1.0	euro	rise	high as 1.3288 dollar in early exchange	0	MONEY
+1.0	euro	be change	hand	0	0
+1.0	interest rate	give momentum to	european currency in recent month	0	DURATION
+1.0	Slovenia first former state	join	European Union 's currency	DATE	ORGANIZATION
+0.022365932509734954	Slovenia	declare from	former Yugoslavia	LOCATION	LOCATION
+1.0	currency	also strike	157.88 yen	0	MONEY
+1.0	euro	gain	11.4 percent against dollar	0	PERCENT
+1.0	euro	replace	currency introduce in 1991	0	DATE
+1.0	interest rate	give momentum to	european currency in month	0	0
+1.0	price	climb from	635.70 dollar early on Friday	0	DATE
+1.0	The European single currency	stand from	1.3197 dollar	0	MONEY
+1.0	euro	be	be use	0	0
+0.14059619431790493	US trading	be put	allow	LOCATION	0
+1.0	Tuesday	point since	December 13 2006	DATE	DATE
+0.8103219951678404	expectation	recent datum in	Japan	0	LOCATION
+1.0	Slovenia	become on	Monday	LOCATION	DATE
+1.0	The European single currency	stand from	1.3197 dollar late	0	MONEY
+1.0	euro	be change hand at	1.3287 dollar against 1.3197 dollar	0	MONEY
+1.0	price	climb from	635.70 dollar early	0	MONEY
+1.0	Friday	be in	New York	DATE	LOCATION
+1.0	Slovenia former state	join	European Union 's currency	LOCATION	ORGANIZATION
+1.0	US trading	allow	Americans	LOCATION	MISC
+1.0	euro	rise	high as 1.3288 dollar in early european exchange	0	MONEY
+1.0	The European single currency	stand in	trading	0	0
+1.0	euro	be	be use by 13 country	0	NUMBER
+1.0	euro	replace	currency introduce in 1991 as symbol of country 's independence	0	DATE
+1.0	independence	have	symbol	O	O
+1.0	euro	rise	high as 1.3288 dollar in european exchange	0	MONEY
+1.0	single currency	also strike	157.88 yen	0	MONEY
+1.0	euro	be	be meanwhile use by 13 country	0	NUMBER
+1.0	price	climb from	635.70 dollar	0	MONEY
+1.0	price	climb to	639.75 dollar per ounce	0	MONEY
+1.0	gold	have	price	O	O
+1.0	euro	be	be meanwhile now use by 13 country	0	DATE
+1.0	The European single currency	stand on	Friday in New York	0	LOCATION
+1.0	datum	have dampen	expectation	0	0
+1.0	dollar	drop to	118.82 yen from 118.96 yen late	0	MONEY
+1.0	interest rate	have	have hold	0	0
+1.0	pound	be	be trade	0	0
+1.0	quarter	have	end	DATE	DATE
+1.0	euro	hit	near three-week	0	DURATION
+1.0	dollar	stand at	118.96	0	NUMBER
+1.0	euro	replace	currency	0	0
+1.0	Slovenia	become	first former communist state	LOCATION	DATE
+1.0	euro	set record against	yen	0	0
+1.0	euro	hit	three-week	0	DURATION
+1.0	recent datum	have dampen there	expectation	DURATION	0
+1.0	Americans	mark	recent passing	MISC	0
+1.0	euro	rise	as high as 1.3288 dollar in early exchange	0	MONEY
+1.0	euro	replace	currency introduce as symbol	0	0
+1.0	Slovenia former communist state	join	European Union 's currency	LOCATION	ORGANIZATION
+1.0	Americans	mark	passing of former president Gerald Ford	MISC	PERSON
+1.0	dollars	have	distance	O	MONEY
+1.0	euro	rise	as high as 1.3288 dollar in early european exchange	0	MONEY
+1.0	euro	set	new record	0	0
+1.0	European Union	have	common currency	ORGANIZATION	0
+1.0	euro	replace	currency introduce	0	0
+1.0	european currency	also strike	157.88 yen	0	MONEY
+1.0	Slovenia	become	first former state	LOCATION	DATE
+1.0	single currency	strike	157.88 yen	0	MONEY
+1.0	The European single currency	stand in	late trading	0	0
+1.0	euro	set	record	0	0
+1.0	1.3288 dollar	be in	early european exchange	MONEY	0
+1.0	Stuart Bennet	be analyst of	Calyon	PERSON	ORGANIZATION
+1.0	euro	rise	high as 1.3288 dollar in exchange	0	MONEY
+1.0	dollar	drop on	Friday in New York	0	DATE
+1.0	interest rate	give momentum to	european currency	0	0
+1.0	Americans	mark	passing	MISC	0
+1.0	interest rate	give momentum to	currency	0	0
+1.0	currency	strike	157.88 yen	0	MONEY
+1.0	recent datum	have dampen	expectation	DURATION	0
+1.0	president Gerald Ford	have	passing	O	PERSON
+1.0	interest rate	give momentum to	currency in recent month	0	DURATION
+1.0	interest rate	be in	US	0	LOCATION
+1.0	Tokyo market	remain	close	LOCATION	0
+1.0	euro	rise	as high as 1.3288 dollar in exchange	0	MONEY
+1.0	euro	rise	high	0	0
+1.0	euro bill	introduce	coin	0	0
+1.0	european single currency	strike	157.88 yen	0	MONEY
+1.0	Slovenia first former communist state	join	European Union 's currency	DATE	ORGANIZATION

@@ -1,0 +1,82 @@
+1.0	AirAsia	be	launch	LOCATION	0
+1.0	world	of	top budget carrier include virgin	0	0
+1.0	Kuala Lumpur	have	airport terminal	O	LOCATION
+1.0	government	be in	region	0	0
+1.0	excitement	have	lot	O	O
+1.0	budget carriers	have	Three	NUMBER	O
+1.0	AirAsia	have	Tony Fernandes	ORGANIZATION	PERSON
+1.0	destination	be in	China	0	LOCATION
+1.0	AirAsia	be	launch as budget carrier in December 2001 with just two aircraft	LOCATION	NUMBER
+1.0	budget carrier	be in	December 2001	0	DATE
+1.0	announcement	be expect	make	0	0
+1.0	announcement	be make by	government	0	0
+1.0	Hangzhou	be near	Shanghai	LOCATION	LOCATION
+1.0	carriers	have	one	NUMBER	O
+1.0	virgin Atlantic	have	network	LOCATION	0
+1.0	Malaysia	become	low cost hub	LOCATION	0
+1.0	AirAsia	have	expansion plan	ORGANIZATION	0
+1.0	Malaysia	become	cost hub	LOCATION	0
+1.0	virgin Atlantic 's network	cover	United States	LOCATION	LOCATION
+1.0	cost carrier	give	they succe	0	0
+1.0	world	have	budget carriers	O	O
+1.0	plan	be	realise	0	0
+1.0	low cost carrier	focus on	route	0	0
+1.0	Atlantic 's network	cover	United States	LOCATION	LOCATION
+1.0	Atlantic	have	network	O	LOCATION
+1.0	budget business model	have	talk	O	O
+1.0	region	have	cost hub	O	O
+0.7333872939622461	domestic	destination	international flight	0	0
+1.0	announcement	be	make	0	0
+1.0	cost carrier	focus on	route	0	0
+1.0	AirAsia	be launch with	two aircraft	LOCATION	NUMBER
+1.0	cost carrier	largely focus on	short-haul route	0	0
+1.0	Richard Branson	include	virgin	PERSON	0
+1.0	their	have	Europe	LOCATION	O
+1.0	Stelios Haji-Ioannou	be sir of	easyJet	PERSON	ORGANIZATION
+1.0	Malaysia	become	cost hub of region	LOCATION	0
+1.0	destination	be in	Southeast Asia	0	LOCATION
+1.0	easyJet	's haji-ioannou be	greek-british tycoon	ORGANIZATION	0
+1.0	Star	would fly between	Kuala Lumpur	0	LOCATION
+0.7333872939622461	domestic	destination	flight	0	0
+1.0	Star	would fly in	Britain	0	LOCATION
+1.0	Kuala Lumpur	to	low-cost airport terminal	LOCATION	0
+0.5581423422813182	world	sell ticket on	internet	0	0
+1.0	cost carrier	largely focus on	route	0	0
+1.0	AirAsia	be	launch as budget carrier with just two aircraft	LOCATION	NUMBER
+1.0	AirAsia	be launch as	budget carrier in December 2001	LOCATION	DATE
+1.0	announcement	be expect	make by government	0	0
+1.0	AirAsia	be	launch as budget carrier in December 2001 with two aircraft	LOCATION	NUMBER
+1.0	announcement	be	expect	0	0
+1.0	announcement	be make by	malaysian government	0	0
+0.5400361759855915	plan	fly to	London	0	LOCATION
+1.0	Star	would first fly between	Kuala Lumpur	0	LOCATION
+1.0	fare	will between	will 300 ringgit	0	NUMBER
+0.7360052311331206	source	familiar with	discussion	0	0
+1.0	AirAsia	be	launch as budget carrier with two aircraft	LOCATION	NUMBER
+1.0	announcement	be expect	make by malaysian government	0	0
+1.0	easyJet	have	Stelios Haji-Ioannou	ORGANIZATION	PERSON
+1.0	ticket	have	price	O	O
+1.0	low cost carrier	largely focus on	route	0	0
+1.0	there have much talk	be with	Oasis Hong Kong	0	ORGANIZATION
+1.0	AirAsia	have	deputy chief executive officer	ORGANIZATION	0
+1.0	AirAsia	have	deputy chief executive officer	O	ORGANIZATION
+1.0	cost carrier	focus on	short-haul route	0	0
+1.0	easyJet	have	Sir Stelios Haji-Ioannou	PERSON	ORGANIZATION
+1.0	Malaysia	become	low cost hub of region	LOCATION	0
+0.5581423422813182	world	sell	ticket	0	0
+1.0	their	have	succes	O	O
+1.0	various parties for mutual benefit	have	support	O	O
+1.0	companies	have	government aspirations	O	O
+1.0	Tony Fernandes	be boss of	AirAsia	PERSON	ORGANIZATION
+1.0	low cost carrier	focus on	short-haul route	0	0
+1.0	AirAsia	have	expansion plans	O	ORGANIZATION
+1.0	capital	have	north	O	O
+1.0	AirAsia	have	boss Tony Fernandes	PERSON	ORGANIZATION
+1.0	AirAsia	be launch with	just two aircraft	LOCATION	NUMBER
+1.0	AirAsia 's deputy chief executive officer	tell	afp	ORGANIZATION	0
+1.0	low cost carrier	largely focus on	short-haul route	0	0
+1.0	report	say at_time	Monday	0	DATE
+1.0	low cost carrier	give	they succe	0	0
+1.0	AirAsia	be launch as	budget carrier	LOCATION	0
+1.0	Richard Branson	have	Virgin	O	PERSON
+1.0	Star	would first fly in	Britain	0	LOCATION

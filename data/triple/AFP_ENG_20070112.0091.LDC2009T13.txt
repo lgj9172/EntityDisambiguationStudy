@@ -1,0 +1,59 @@
+1.0	Sun	be release	due to they concern	0	0
+1.0	Wu Yinan	have	players	O	O
+1.0	Zheng Zhi	be sign by	English Premiership club Charlton	PERSON	PERSON
+1.0	Zheng Zhi	be sign from	Shandong Luneng in late December	PERSON	ORGANIZATION
+1.0	deal	have	details	O	O
+1.0	Zheng Zhi	be sign by	English Premiership club Charlton on loan	PERSON	PERSON
+1.0	Charlton	be club of	English Premiership	PERSON	ORGANIZATION
+1.0	Dai Chunhua	tell	afp	PERSON	0
+1.0	Sun	train with	psv in November last year	PERSON	DATE
+1.0	China	after	national team captain	LOCATION	0
+1.0	Sun	have	loan	PERSON	0
+1.0	Sun	have	loan	O	PERSON
+1.0	Sun	be release	due	0	0
+1.0	the highly rated Chinese international	have	concerns	O	O
+1.0	Sun 24	train with	psv in November last year	PERSON	DATE
+1.0	Sun	be	24	PERSON	NUMBER
+1.0	statement	be	twist	0	0
+1.0	Sun 24	train with	he brother Sun Ji	PERSON	PERSON
+1.0	Sun 24	train with	psv year	PERSON	DATE
+1.0	psv	be  at_time	November last year	0	DATE
+1.0	statement	be	latest twist	0	0
+1.0	Zheng Zhi	be sign from	Shandong Luneng in December	PERSON	ORGANIZATION
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton on loan from Shandong Luneng	PERSON	ORGANIZATION
+1.0	Sun 24	train with	psv last year	PERSON	DATE
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton on loan from Shandong Luneng in late December	PERSON	ORGANIZATION
+1.0	Zheng Zhi	be sign from	Shandong Luneng	PERSON	ORGANIZATION
+1.0	statement	be latest twist in	saga	0	0
+1.0	statement	be twist in	saga	0	0
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton from Shandong Luneng in December	PERSON	ORGANIZATION
+1.0	PSV Eindhoven	announce	plan	ORGANIZATION	MONEY
+1.0	club	have	manager	O	O
+1.0	Sun	train with	psv	PERSON	0
+1.0	Zheng Zhi	be	sign	PERSON	0
+1.0	time	have	waste	O	O
+1.0	PSV Eindhoven	announce plan at_time	Monday	ORGANIZATION	DATE
+1.0	Sun	train with	psv year	PERSON	DATE
+1.0	psv	be in	November last year	0	DATE
+1.0	China	have	team captain	O	LOCATION
+1.0	Sun 24	train with	psv in November year	PERSON	DATE
+1.0	Sun	train with	he brother Sun Ji	PERSON	PERSON
+1.0	Sun 24	train with	psv in November	PERSON	DATE
+1.0	Dai Chunhua	spokesman for	Shanghai Shenhua	PERSON	ORGANIZATION
+1.0	Sun	train with	psv in November year	PERSON	DATE
+1.0	Charlton	be by	English Premiership	PERSON	ORGANIZATION
+1.0	Sun 24	train with	he twin brother Sun Ji	PERSON	PERSON
+1.0	his	have	brother Sun Ji	PERSON	O
+1.0	Shanghai Shenhua Friday	sell to	PSV Eindhoven	ORGANIZATION	ORGANIZATION
+1.0	latest twist	be in	saga surround	0	0
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton from Shandong Luneng in late December	PERSON	ORGANIZATION
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton on loan from Shandong Luneng in December	PERSON	ORGANIZATION
+1.0	Sun	train with	psv last year	PERSON	DATE
+1.0	loan period	be in	2005	0	DATE
+1.0	Sun	be	release	0	0
+1.0	loan	be with	option for longer contract	MONEY	MONEY
+1.0	Shandong Luneng	be in	late December	ORGANIZATION	DATE
+1.0	Zheng Zhi	be	sign by English Premiership club Charlton from Shandong Luneng	PERSON	ORGANIZATION
+1.0	Sun 24	train with	psv	PERSON	0
+1.0	Sun	train with	he twin brother Sun Ji	PERSON	PERSON
+1.0	Sun	train with	psv in November	PERSON	DATE

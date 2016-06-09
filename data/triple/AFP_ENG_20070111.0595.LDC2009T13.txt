@@ -1,0 +1,87 @@
+1.0	senator	be elect in	1974	0	DATE
+1.0	Dennis Kucinich	be	Ohio	PERSON	LOCATION
+1.0	senior democratic leader	be in	Senate	0	ORGANIZATION
+1.0	senator	be	elect to Congress in 1974	0	DATE
+1.0	Barack Obama	be senator of	Illinois	PERSON	LOCATION
+0.9997963960426699	today grave risk	lose	many thing	DATE	0
+1.0	Connecticut Senator Chris Dodd	run for	democratic nomination	0	0
+1.0	her	have	candidacy	O	O
+1.0	party	have	starlet	O	O
+0.9997963960426699	risk	lose	many thing	0	0
+1.0	campaign	have	critic	O	O
+1.0	United States	have	president	O	LOCATION
+1.0	Dodd	join	field of candidate include former senator	PERSON	0
+1.0	Dodd	join	field of declare candidate include former senator	PERSON	0
+1.0	Connecticut Senator Chris Dodd	join	field	PERSON	0
+0.9997963960426699	today risk	lose	thing	DATE	0
+0.9997963960426699	the United States of America	be at	today risk	LOCATION	DATE
+1.0	senator	be first elect in	1974	0	DATE
+1.0	senator	be first elect to	Congress	0	ORGANIZATION
+1.0	define moment	be in	american history	0	0
+1.0	favorite	remain	New York Senator	0	LOCATION
+1.0	Connecticut Senator Chris Dodd	leader in	Senate	PERSON	ORGANIZATION
+0.8330613623558839	Connecticut Senator Chris Dodd	senior leader in	Senate	PERSON	ORGANIZATION
+1.0	Our	have	leadership	O	O
+1.0	Chris Dodd	be senator of	Connecticut	PERSON	LOCATION
+1.0	62-year-old senator	be elect to	Congress	DURATION	ORGANIZATION
+1.0	senator	be	first elect to Congress in 1974	0	ORDINAL
+0.9997963960426699	risk	lose	thing	0	0
+1.0	Joseph Biden	be	Delaware	PERSON	LOCATION
+1.0	democratic nomination	be in	US	0	LOCATION
+1.0	62-year-old senator	be elect in	1974	DURATION	DATE
+1.0	senator	serve	six year in House of Representatives	0	ORGANIZATION
+1.0	62-year-old senator	be	elect	DURATION	0
+0.8330613623558839	Connecticut Senator Chris Dodd	leader in	Senate	PERSON	ORGANIZATION
+1.0	Dodd	join	field of candidate	PERSON	0
+1.0	senator	be	first elect	0	ORDINAL
+1.0	Representatives	have	House	ORGANIZATION	ORGANIZATION
+0.9997963960426699	the United States of America	be at	risk	LOCATION	0
+1.0	Connecticut Senator Chris Dodd	run for	nomination in 2008 US	0	LOCATION
+0.9997963960426699	today risk	lose	many thing	DATE	0
+1.0	our	have	role	O	O
+1.0	Chris Dodd	be	Connecticut	PERSON	LOCATION
+1.0	Connecticut Senator Chris Dodd	run for	democratic nomination in 2008 US	0	LOCATION
+1.0	likely challengers	have take for	grant	0	0
+0.9997963960426699	the United States of America	be at	today grave risk	LOCATION	DATE
+1.0	challengers	have	field	O	O
+1.0	senator	serve	six year in House	0	ORGANIZATION
+1.0	six year	be in	House of Representatives	DURATION	ORGANIZATION
+1.0	likely challengers	have always take for	grant	0	0
+1.0	senator	serve	six year	0	DURATION
+0.8330613623558839	Connecticut Senator Chris Dodd	democratic leader in	Senate	PERSON	ORGANIZATION
+1.0	62-year-old senator	be	first elect to Congress in 1974	DURATION	ORDINAL
+0.9997963960426699	grave risk	lose	thing	0	0
+0.9067606802892346	the United States of America	lose	many thing	LOCATION	0
+0.5425682436898807	join	field of	likely challenger	0	0
+1.0	Joseph Biden	be senator of	Delaware	PERSON	LOCATION
+1.0	Tom Vilsack	be governor of	Iowa	PERSON	LOCATION
+1.0	Hillary Clinton	be	first	PERSON	ORDINAL
+1.0	candidates	have	field	O	O
+1.0	Dodd	join	field	PERSON	0
+1.0	Barack Obama	be	Illinois	PERSON	LOCATION
+1.0	Connecticut Senator Chris Dodd	join	field of likely challenger	PERSON	0
+1.0	62-year-old senator	be first elect in	1974	DURATION	DATE
+1.0	Dodd	join	field of declare candidate	PERSON	0
+1.0	Connecticut Senator Chris Dodd	join	grow field of likely challenger	PERSON	0
+0.9997963960426699	today grave risk	lose	thing	DATE	0
+1.0	62-year-old senator	serve	six year	DURATION	DURATION
+1.0	62-year-old senator	be first elect to	Congress	DURATION	ORGANIZATION
+1.0	62-year-old senator	serve	six year in House	DURATION	ORGANIZATION
+1.0	senator	be elect to	Congress	0	ORGANIZATION
+0.9997963960426699	the United States of America	be at	grave risk	LOCATION	0
+1.0	62-year-old senator	be	elect to Congress in 1974	DURATION	DATE
+1.0	62-year-old senator	be	first elect	DURATION	ORDINAL
+1.0	62-year-old senator	serve	six year in House of Representatives	DURATION	ORGANIZATION
+0.9067606802892346	the United States of America	lose	thing	LOCATION	0
+1.0	Connecticut Senator Chris Dodd	run for	nomination	0	0
+0.5425682436898807	join	grow field of	likely challenger	0	0
+1.0	Dennis Kucinich	be representative of	Ohio	PERSON	LOCATION
+1.0	our	have	hopes	O	O
+0.8330613623558839	Connecticut Senator Chris Dodd	senior democratic leader in	Senate	PERSON	ORGANIZATION
+0.9997963960426699	grave risk	lose	many thing	0	0
+1.0	Tom Vilsack	be	Iowa	PERSON	LOCATION
+1.0	Connecticut Senator Chris Dodd	join	grow field	PERSON	0
+1.0	senator	be	elect	0	0
+1.0	America	have	United States	LOCATION	LOCATION
+1.0	Connecticut Senator Chris Dodd	announce at_time	Thursday	PERSON	DATE
+1.0	Connecticut Senator Chris Dodd	say in	statement	PERSON	0

@@ -1,0 +1,82 @@
+1.0	low-cost airline operator	have repeatedly ask	airport official	0	0
+1.0	low-cost airline operator	have ask	airport official	0	0
+1.0	airport	have	problem include bathroom	0	0
+0.8798303166008885	whose name	land in	Thai	0	MISC
+1.0	whose name	mean	land in Thai	0	MISC
+1.0	Bangkok	have	potential	O	LOCATION
+1.0	commercial flight	move on	September 28	0	DATE
+1.0	whose name	mean	golden land	0	0
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	the Don Muang	have	use	O	PERSON
+1.0	they	move back to	Don Muang	0	PERSON
+0.11056553347562792	need	move to	Don Muang	0	PERSON
+1.0	airline	could lower	operate cost	0	0
+1.0	we exist capacity	could immediately serve	domestic	0	0
+1.0	airline operator	have repeatedly ask	airport official	0	0
+1.0	we capacity	could serve	domestic	0	0
+0.6474187381356924	IATA spokesman	base in	Singapore	ORGANIZATION	LOCATION
+1.0	harassment	have	complained	O	O
+1.0	the Don Muang	have	have use only	PERSON	0
+1.0	whose name	mean land into	Southeast Asia 's largest aviation hub	0	LOCATION
+1.0	whose name	mean land into	Southeast Asia 's aviation hub	0	LOCATION
+1.0	inconvenience	have	lot	O	O
+1.0	need	move	flight	0	0
+1.0	their	have	costs	O	O
+1.0	airline operator	have ask	airport official	0	0
+1.0	we exist capacity	could serve	domestic	0	0
+1.0	Suvarnabhumi	have	initial capacity	LOCATION	DURATION
+1.0	its	have	operations	O	O
+1.0	Our	have	capacity	O	O
+1.0	Thailand	have	Airports	O	LOCATION
+1.0	they	move to	Don Muang	0	PERSON
+1.0	journey	use	two airport	0	NUMBER
+1.0	infrastructure	remain	available	0	0
+1.0	commercial flight	move to	Suvarnabhumi	0	LOCATION
+1.0	Suvarnabhumi	east of	cost	LOCATION	0
+1.0	Bangkok	of	old airport for domestic commercial flight	LOCATION	0
+1.0	Apinan Sumanaseni	be president of	Thai Airways	PERSON	ORGANIZATION
+1.0	new airport	have	problem include bathroom	0	0
+1.0	airport	have	problem include bathroom about dirtiness	0	0
+1.0	airport	have	problem	0	0
+1.0	airline	could lower	cost	0	0
+1.0	airport	have	problem include inadequate bathroom	0	0
+1.0	new airport	have	problem include inadequate bathroom	0	0
+1.0	Charter flight	be	only 14 daily	0	SET
+1.0	Suvarnabhumi	have	capacity	LOCATION	DURATION
+1.0	airline	operate at	the Don Muang	0	PERSON
+1.0	need	move	domestic flight	0	0
+1.0	Southeast Asia	have	aviation hub	O	LOCATION
+1.0	we capacity	could immediately serve	domestic	0	0
+1.0	new airport	have	problem	0	0
+1.0	Thailand	have	attractiveness	O	LOCATION
+1.0	its	have	equipment	O	O
+1.0	new airport	have	problem about dirtiness	0	0
+0.25331100359622694	say	have become	congested	0	0
+1.0	the Don Muang	have	have use for charter flight	PERSON	0
+1.0	Thailand	have	airports operator	O	LOCATION
+1.0	they cost	rise to	Suvarnabhumi	0	LOCATION
+0.8798303166008885	whose name	golden land in	Thai	0	MISC
+1.0	Don Muang	have	The	O	PERSON
+1.0	whose name	mean	golden land in Thai	0	MISC
+1.0	Southeast Asia	into	largest aviation hub	LOCATION	0
+1.0	Thailand 's airport operator	say at_time	Friday	LOCATION	DATE
+1.0	whose	have	name	O	O
+1.0	board	maximise	use	0	0
+1.0	National carrier Thai Airways International	welcome	move	ORGANIZATION	0
+1.0	golden land	be in	Thai	0	MISC
+1.0	Bangkok	have	airport	O	LOCATION
+1.0	Charter flight	be	only 14 daily at moment	0	SET
+1.0	Bangkok	have	potential	LOCATION	0
+1.0	Suvarnabhumi	east of	Bangkok	LOCATION	LOCATION
+1.0	whose name	mean	land	0	0
+1.0	they cost	rise after	relocation	0	0
+1.0	Apinan Sumanaseni	be	Thai Airways	PERSON	ORGANIZATION
+1.0	Don Muang airport	have	manager	O	O
+1.0	the Don Muang	have	have use	PERSON	0
+1.0	new airport	have	problem include bathroom about dirtiness	0	0
+1.0	Bangkok	have	east	O	LOCATION
+1.0	airport	have	the	O	O
+1.0	the Don Muang	have	have use only for charter flight	PERSON	0
+1.0	need	move flight to	Don Muang	0	PERSON
+1.0	Thailand	have	airport operator	LOCATION	0
+1.0	airport	have	problem about dirtiness	0	0

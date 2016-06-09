@@ -1,0 +1,89 @@
+1.0	's	take	we country	0	0
+1.0	presidency	be	under Fiji 's system figurehead role with prime minister	0	LOCATION
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be swear as	as minister	PERSON	0
+1.0	he	accuse government against	country 's ethnic minority	0	0
+1.0	coup	have	plotters	O	O
+1.0	Voreqe Bainimarama	be coup leader of	Fiji	PERSON	LOCATION
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	swear in as interim minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	political condition	be	when conducive	0	0
+1.0	presidency	be	largely figurehead role with prime minister	0	0
+1.0	South Pacific island nation 's bainimarama	oust	minister Laisenia Qarase 's government	LOCATION	PERSON
+1.0	our	have	citizens	O	O
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be swear by	President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	South Pacific island nation 's bainimarama	oust	prime minister Laisenia Qarase 's government	LOCATION	PERSON
+1.0	country	against	ethnic indian minority	0	0
+1.0	presidency	be	under Fiji 's system largely figurehead role	0	LOCATION
+1.0	presidency	be	figurehead role with minister	0	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	shortly swear in as minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	Fiji	have	coup leader Voreqe Bainimarama	PERSON	LOCATION
+1.0	presidency	be	under Fiji 's political system largely figurehead role with minister	0	LOCATION
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	shortly swear in as prime minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	shortly swear	PERSON	0
+1.0	presidency	be	under Fiji 's political system largely figurehead role with prime minister	0	LOCATION
+1.0	South Pacific island nation 's bainimarama	oust in	December 5 bloodless coup	LOCATION	DATE
+1.0	presidency	be	under Fiji 's political system largely figurehead role	0	LOCATION
+1.0	our	have	country	O	O
+1.0	South Pacific island nation 's bainimarama	oust	minister Laisenia Qarase 's nationalist government	LOCATION	PERSON
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be swear as	as prime minister	PERSON	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	shortly be swear as	as minister	PERSON	0
+1.0	political condition	be	conducive	0	0
+1.0	presidency	be	under Fiji 's political system figurehead role	0	LOCATION
+1.0	This	have	actions	O	O
+1.0	nation	have	interests	O	O
+1.0	condition	be	when conducive	0	0
+1.0	South Pacific island nation 's bainimarama	oust in	December 5 coup	LOCATION	DATE
+1.0	Fiji Military Forces	have	Republic	ORGANIZATION	ORGANIZATION
+1.0	Fiji	under	political system	LOCATION	0
+1.0	presidency	be	under Fiji 's system figurehead role with minister	0	LOCATION
+1.0	minister	have	salary	O	O
+1.0	he	accuse	government of corruption	0	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	shortly be swear as	as interim prime minister	PERSON	0
+1.0	presidency	be	under Fiji 's system largely figurehead role with prime minister	0	LOCATION
+1.0	presidency	be	under Fiji 's political system figurehead role with prime minister	0	LOCATION
+1.0	Fiji	have	system	O	LOCATION
+1.0	presidency	be	under Fiji 's political system figurehead role with minister	0	LOCATION
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	shortly be swear as	as prime minister	PERSON	0
+1.0	condition	be	conducive	0	0
+1.0	corruption	have	government	O	O
+1.0	country	have	minority	O	O
+1.0	bainimarama	be	fourth	0	ORDINAL
+1.0	coup	be in	2000	0	DATE
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	shortly be swear by	President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	presidency	be	largely figurehead role with minister	0	0
+1.0	Fiji	have	Voreqe Bainimarama	LOCATION	PERSON
+1.0	presidency	be	under Fiji 's system largely figurehead role with minister	0	LOCATION
+1.0	they action	be in	coup	0	0
+1.0	South Pacific island nation 's bainimarama	oust	prime minister Laisenia Qarase 's nationalist government	LOCATION	PERSON
+1.0	our	have	potential	O	O
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be swear as	as interim prime minister	PERSON	0
+1.0	Laisenia Qarase	have	government	O	PERSON
+1.0	he	accuse government against	country 's ethnic indian minority	0	0
+1.0	he	accuse government against	country 's indian minority	0	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	swear	PERSON	0
+1.0	presidency	be	under Fiji 's system figurehead role	0	LOCATION
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	have	government	O	O
+1.0	he	accuse	government	0	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be speak at_time	Friday	PERSON	DATE
+1.0	RFMF	have	commander	O	O
+1.0	government	have	authority	O	O
+1.0	he	accuse government against	country 's minority	0	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	shortly swear in as interim minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	South Pacific island nation	have	bainimarama	LOCATION	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be swear as	as interim minister	PERSON	0
+1.0	presidency	be	largely figurehead role	0	0
+1.0	figurehead role	be with	prime minister	0	0
+1.0	South Pacific island nation 's fourth bainimarama	oust in	December 5 coup	ORDINAL	DATE
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be speak in	address to nation	PERSON	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	swear in as interim prime minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	swear in as minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	shortly swear in as interim prime minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	South Pacific island nation	have	Bainimarama	PERSON	O
+1.0	presidency	be	figurehead role	0	0
+1.0	minister	have	post	O	O
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	shortly be swear as	as interim minister	PERSON	0
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be speak in	address	PERSON	0
+1.0	Fiji 's coup leader Voreqe Bainimarama	say at_time	Friday	PERSON	DATE
+1.0	the South Pacific island nation 's fourth in two decades , Bainimarama	be	swear in as prime minister by President Ratu Josefa Iloilo	PERSON	PERSON
+1.0	our	have	economy	O	O
+1.0	presidency	be	figurehead role with prime minister	0	0
+1.0	South Pacific island nation 's fourth bainimarama	oust in	December 5 bloodless coup	ORDINAL	DATE

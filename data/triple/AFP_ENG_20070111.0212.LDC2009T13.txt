@@ -1,0 +1,61 @@
+1.0	archipelago nation	between	17,000 island	0	NUMBER
+1.0	ferry	frequently carry	people	0	0
+1.0	conditions	have	halt	O	O
+1.0	wrecks	have	level	O	O
+1.0	December	have	night	TIME	DATE
+1.0	two navy vessel	try	research ship	ORGANIZATION	0
+1.0	archipelago nation	have	islands	O	O
+1.0	Central Java province	have	coast	O	O
+1.0	hand	have	end	O	O
+1.0	ferry	have	captain	O	O
+1.0	Senopati Nusantara ferry	carry	600 passenger	MISC	NUMBER
+1.0	sea bed	have	area	O	O
+1.0	navy ships	have	One	NUMBER	O
+1.0	ferry	have	wreck	O	O
+1.0	captain	start	talk	0	0
+1.0	ferry	have	engine	0	0
+1.0	navy vessel	try	research ship	ORGANIZATION	0
+1.0	Eastern Fleet spokesman Lieutenant Colonel Toni Syaiful	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	ferry	frequently carry	more people	0	0
+1.0	ferry	have	engine	O	O
+1.0	ferry	be	link	0	0
+1.0	Toni Syaiful	be	Eastern Fleet	PERSON	ORGANIZATION
+1.0	ferry	be	link than officially	0	0
+1.0	their	have	operations	O	O
+0.7801220787698837	sea mine	search	shipwreck	0	0
+1.0	captain	talk to	official	0	0
+1.0	ferry	be	crucial link than officially	0	0
+1.0	location	remain	unknown	0	0
+1.0	Toni Syaiful	be spokesman lieutenant colonel of	Eastern Fleet	PERSON	ORGANIZATION
+1.0	ferry	carry	more people	0	0
+1.0	Syaiful	tell	Antara news agency	PERSON	LOCATION
+1.0	captain	start	talk to official	0	0
+1.0	coast	have	scanning	O	O
+1.0	visibility	have	halt	O	O
+1.0	ferry	be link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	vessel	be carry	542 passenger	0	NUMBER
+1.0	ferry	carry	people	0	0
+1.0	Wiratno	tell	officer	PERSON	0
+1.0	Senopati Nusantara ferry	sink to	Semarang	MISC	0
+1.0	Wiratno	reportedly tell	officer	PERSON	0
+1.0	sea bed	be in	area	0	0
+0.4145713036106342	two navy vessel	area	research ship	ORGANIZATION	0
+0.4145713036106342	navy vessel	area	research ship	ORGANIZATION	0
+1.0	Central Java	have	island	O	MISC
+1.0	ferry	be crucial link between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	ferry	be	crucial link	0	0
+1.0	ferry	be	crucial	0	0
+1.0	Senopati Nusantara ferry	sink in	rough sea	MISC	0
+1.0	diver	halt	they operation	0	0
+1.0	your	have	hand	O	O
+1.0	Senopati Nusantara ferry	sink in	sea	MISC	0
+1.0	wreck	have	location	O	O
+1.0	island	have	north	O	O
+1.0	Senopati Nusantara ferry	sink from	Kumai on Borneo island	MISC	PERSON
+1.0	Wiratno	be	53	PERSON	NUMBER
+1.0	World War II	be in	the seab	MISC	0
+1.0	navy	shift	search	0	0
+1.0	exact location	remain	unknown	0	0
+1.0	ferry	be link officially between	archipelago nation 's 17,000 island	0	NUMBER
+1.0	Senopati Nusantara ferry	sink from	Kumai	MISC	PERSON
+1.0	ferry	be crucial link officially between	archipelago nation 's 17,000 island	0	NUMBER

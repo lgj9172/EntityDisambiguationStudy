@@ -1,0 +1,46 @@
+1.0	Ali Larijani	make	remark	PERSON	0
+1.0	Beijing	have	diplomats	O	LOCATION
+1.0	Western	have	programme	O	O
+1.0	response	in agency be	IAEA	0	ORGANIZATION
+1.0	parliament	pass bill at_time	last year	0	DATE
+1.0	state media	report at_time	Friday	0	DATE
+1.0	Ali Larijani	make remark at_time	Thursday	PERSON	DATE
+0.5204263579808635	government	revise its cooperation with	International Energy Agency response	0	ORGANIZATION
+1.0	Beijing	of	top diplomat	LOCATION	0
+1.0	iranian parliament	pass bill at_time	last year	0	DATE
+1.0	iranian parliament	pass bill at_time	late year	0	DATE
+1.0	government spokesman Gholam Hossein Elham	tell	reporter	PERSON	0
+1.0	Iran	of	national security council	LOCATION	0
+1.0	International atomic Energy Agency	be in	response	ORGANIZATION	0
+1.0	Council	have	resolution	O	ORGANIZATION
+1.0	Tang Jiaxuan	be with	chinese	PERSON	0
+1.0	iranian parliament	pass bill at_time	late last year	0	DATE
+1.0	treaty	have	out drop	O	O
+1.0	Ali Larijani	meet with	chinese state Councilor Tang Jiaxuan	PERSON	PERSON
+1.0	Ali Larijani	meet with	state Councilor Tang Jiaxuan	PERSON	PERSON
+1.0	parliament	pass bill at_time	late last year	0	DATE
+0.5204263579808635	government	revise its cooperation with	International atomic Energy Agency response	0	ORGANIZATION
+1.0	pledge	be report at_time	week	0	DATE
+1.0	parliament	pass bill at_time	late year	0	DATE
+1.0	Non	have	principles	O	O
+1.0	Iran	have	top nuclear negotiator	LOCATION	0
+1.0	Iran	have	negotiator	O	LOCATION
+1.0	parliament	pass	bill	0	0
+1.0	Iran 's	say on	Tuesday	LOCATION	DATE
+1.0	parliament	pass bill at_time	year	0	DATE
+1.0	iranian parliament	pass	bill	0	0
+1.0	pledge	head of	Iran 's national security council	0	LOCATION
+1.0	security council	have	head	O	O
+0.5204263579808635	government	revise its cooperation with	International atomic Energy Agency	0	ORGANIZATION
+1.0	The Iranian parliament	have	cooperation	O	O
+1.0	Iran	have	security council	O	LOCATION
+1.0	UN security Council	have	resolution	ORGANIZATION	0
+1.0	iranian parliament	pass bill at_time	year	0	DATE
+0.5204263579808635	government	revise	its cooperation	0	0
+1.0	Chinese State Councilor Tang Jiaxuan , a former foreign minister and one of Beijing 's top diplomats	have	capacity	O	O
+1.0	diplomats	have	one	NUMBER	O
+1.0	Chinese State Councilor Tang Jiaxuan , a former foreign minister and one of Beijing 's top diplomats	have	rights	O	O
+1.0	rights	have	deprived	O	O
+1.0	pledge	be report at_time	same week	0	DATE
+1.0	pledge	be	report	0	0
+0.5204263579808635	government	revise its cooperation with	International Energy Agency	0	ORGANIZATION

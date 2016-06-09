@@ -1,0 +1,84 @@
+1.0	public mass	be	schedule	0	0
+1.0	Father Stanislaw Wielgus	have	collaboration	O	O
+1.0	Warsaw 's	have	faithful	O	LOCATION
+1.0	Poland	have	communist-era	O	LOCATION
+0.7153915663755561	Warsaw 's new archbishop on Friday	expose tie with	Poland 's hate communist-era	0	LOCATION
+1.0	Father Stanislaw Wielgus	have acknowledge	have meet	PERSON	0
+0.7153915663755561	Warsaw 's new archbishop on Friday	tie with	Poland 's hate communist-era police	0	LOCATION
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	Father Stanislaw Wielgus	have	consecration	O	O
+1.0	Poles	have	do at time	0	DATE
+1.0	public mass	be	when schedule	0	0
+1.0	Father Stanislaw Wielgus	deny	wrongdoing	PERSON	0
+1.0	Wielgus	be in	December	PERSON	DATE
+1.0	Pope Benedict XVI	have	hands	O	PERSON
+1.0	media	continue	collaborate	0	0
+1.0	archdiocese	have	pastor	O	O
+1.0	Vatican	reissue statement on	Friday	LOCATION	DATE
+1.0	Poland	with	hate communist-era police	LOCATION	0
+1.0	polish media	be in	recent day	0	DURATION
+1.0	Father Stanislaw Wielgus	be recruit as	philosophy student	PERSON	0
+1.0	pastor	have	mission	O	O
+1.0	life	have	circumstances	O	O
+1.0	Poles	have	Two-thirds	O	O
+1.0	Poles	do at	time	0	DATE
+1.0	Father Stanislaw Wielgus	say at_time	Friday	PERSON	DATE
+1.0	Father Stanislaw Wielgus	have acknowledge	have meet with sb agent	PERSON	0
+1.0	polish media	publish	file	0	0
+1.0	Father Stanislaw Wielgus	have	life	O	O
+1.0	Wielgus	call on	clergy	PERSON	0
+1.0	Father Stanislaw Wielgus	consistently deny	wrongdoing	PERSON	0
+0.7153915663755561	Warsaw 's new archbishop on Friday	tie with	Poland 's communist-era	0	LOCATION
+1.0	Warsaw 's new archbishop	put	he fate	LOCATION	0
+1.0	secret police	be in	1967	0	DATE
+1.0	investigative commission	confirm	Wielgus 's past tie	0	DATE
+1.0	Friday	name	Wielgus	0	PERSON
+1.0	Warsaw 's new archbishop on Friday	have	fate	O	O
+1.0	Warsaw	have	pulpits	O	LOCATION
+1.0	Father Stanislaw Wielgus	be	recruit by Sluzba Bezpieczenstwa as 28-year-old philosophy student	PERSON	PERSON
+1.0	Father Stanislaw Wielgus	have	past	DATE	O
+1.0	commission	confirm	Wielgus 's past tie	0	DATE
+1.0	mass	be	when schedule	0	0
+1.0	the Holy Father	have	decisions	O	O
+1.0	expose tie	be with	Poland 's hate communist-era police	0	LOCATION
+1.0	media	continue	collaborate for two decade	0	DURATION
+0.7153915663755561	Warsaw 's new archbishop on Friday	tie with	Poland 's hate communist-era	0	LOCATION
+1.0	Warsaw 's new archbishop on Friday	be at	fault	0	0
+1.0	Friday	name	Father Stanislaw Wielgus	0	DATE
+1.0	Father Stanislaw Wielgus	be recruit by	sb	PERSON	0
+1.0	Warsaw 's	have	archdiocese	O	LOCATION
+1.0	Warsaw 's new archbishop on Friday	be at	fault for he recently	0	DATE
+1.0	polish media	continue	collaborate	0	0
+0.7153915663755561	Warsaw 's new archbishop on Friday	expose tie with	Poland 's communist-era police	0	LOCATION
+1.0	the clergy	have	church	O	O
+1.0	Father Stanislaw Wielgus	be	recruit	PERSON	0
+1.0	Father Stanislaw Wielgus	be	recruit by Sluzba Bezpieczenstwa as philosophy student	PERSON	PERSON
+1.0	polish media	continue	collaborate for two decade	0	DURATION
+0.7153915663755561	Warsaw 's new archbishop on Friday	expose tie with	Poland 's communist-era	0	LOCATION
+1.0	Father Stanislaw Wielgus	be recruit as	28-year-old philosophy student	PERSON	DURATION
+0.7153915663755561	Warsaw 's new archbishop on Friday	expose tie with	Poland 's hate communist-era police	0	LOCATION
+1.0	Warsaw	from	pulpit	LOCATION	0
+1.0	Wielgus	have	ties	O	PERSON
+0.7153915663755561	Warsaw 's new archbishop on Friday	tie with	Poland 's communist-era police	0	LOCATION
+1.0	mass	be	schedule	0	0
+1.0	Poles	have	do	0	0
+1.0	Vatican	reissue	unprecedented statement	LOCATION	0
+1.0	Warsaw	have	new archbishop on Friday	LOCATION	DATE
+1.0	Father Stanislaw Wielgus	have already acknowledge	have meet	PERSON	0
+1.0	public mass	mark	he consecration	0	0
+1.0	Father Stanislaw Wielgus	meet with	sb agent	PERSON	0
+1.0	Father Stanislaw Wielgus	be recruit by	Sluzba Bezpieczenstwa	PERSON	PERSON
+1.0	decisions	have	each	O	O
+1.0	Father Stanislaw Wielgus	have already acknowledge	have meet with sb agent	PERSON	0
+1.0	media	publish	file	0	0
+1.0	its counterparts	obtain	travel authorisation	0	0
+1.0	saints	have	church	O	O
+1.0	Warsaw 's archbishop	put	he fate	LOCATION	0
+1.0	sinners	have	church	O	O
+1.0	ceremony	be	blighted	0	0
+1.0	Warsaw 's new archbishop on Friday	have	recently	DATE	O
+1.0	episcopate	have	commission	O	O
+1.0	Wielgus	have	past tie	PERSON	DATE
+1.0	The investigative commission of the Polish Catholic episcopate on Friday	have	counterparts	O	O
+1.0	Vatican	reissue	statement	LOCATION	0
+1.0	mass	mark	he consecration	0	0

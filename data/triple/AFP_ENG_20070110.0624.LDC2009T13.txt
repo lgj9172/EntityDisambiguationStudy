@@ -1,0 +1,16 @@
+1.0	George W. Bush	say in	excerpt	PERSON	0
+1.0	George W. Bush	say in	excerpt of he speech release	PERSON	0
+1.0	George W. Bush	say in	excerpt of he speech release by White House	PERSON	ORGANIZATION
+1.0	George W. Bush	have	speech	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	government	have	collapse	O	O
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	government longer war	have	collapse	O	O
+1.0	US President George W. Bush	warn at_time	Wednesday	LOCATION	DATE
+1.0	more US troops	have	troops	O	O
+1.0	scenario	would result in	we troops	0	0
+1.0	speech	have	excerpts	O	O
+1.0	such scenario	would result in	we troops	0	0
+1.0	more US troops	have	support	O	O
+1.0	violence	have	cycle	O	O
+1.0	George W. Bush	say in	excerpt of he speech	PERSON	0

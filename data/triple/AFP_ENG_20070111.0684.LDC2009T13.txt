@@ -1,0 +1,62 @@
+1.0	collision	be with	ConocoPhillips gas platform	0	ORGANIZATION
+1.0	crew	be work	hard	0	0
+1.0	cargo ship adrift	be in	North Sea	0	LOCATION
+1.0	Vindo	have lose	engine power	0	0
+1.0	Vindo	have lose	engine power off coast of England Thursday	0	LOCATION
+1.0	England	have	coast	O	LOCATION
+1.0	nine-member crew	be work	very hard	0	0
+1.0	Vindo	be	involve in collision last year	0	DATE
+1.0	Vindo	have lose	engine power off east coast of England	0	LOCATION
+1.0	20 rig worker	have	have evacuate as precaution	NUMBER	0
+1.0	20 rig worker	have	have earlier evacuate	NUMBER	0
+1.0	20 rig worker	have	from which have earlier evacuate	NUMBER	0
+1.0	rig worker	have	have evacuate	0	0
+1.0	rig worker	have	have evacuate as precaution	0	0
+1.0	Antigua vessel	fail	respond to radio message	LOCATION	0
+1.0	20 rig worker	have	from which have evacuate as precaution	NUMBER	0
+1.0	Britain	have	Maritime	LOCATION	0
+1.0	Vindo	have lose	engine power off east coast	0	0
+1.0	Vindo	be involve in	collision	0	0
+1.0	Britain 's Maritime	tell	Coastguard Agency	LOCATION	ORGANIZATION
+1.0	fertilizer	have	cargo	O	O
+1.0	Vindo	be involve at_time	year	0	DATE
+1.0	Vindo	have lose	engine power off coast of England earlier	0	LOCATION
+1.0	rig worker	have	from which have earlier evacuate	0	0
+1.0	rig worker	have	from which have evacuate	0	0
+1.0	rig worker	have	have earlier evacuate	0	0
+1.0	20 rig worker	have	have evacuate	NUMBER	0
+1.0	Vindo	regain	engine power	0	0
+1.0	coast	have	engine power	O	O
+1.0	Vindo	have lose	engine power off coast of England earlier Thursday	0	LOCATION
+1.0	Vindo	set	itself	0	0
+1.0	Vindo	have lose	engine power off east coast of England earlier	0	LOCATION
+1.0	english coast	be in	September last year	0	DATE
+1.0	collision course	be with	Murdoch gas platform	0	PERSON
+1.0	Vindo	inadvertently set	itself	0	0
+1.0	Vindo	regain engine power for	time	0	0
+1.0	England	be  at_time	earlier Thursday	LOCATION	DATE
+0.7436069906187137	Vindo	carry	cargo of fertilizer	0	0
+1.0	Vindo	have lose	engine power off coast	0	0
+1.0	Vindo	be	involve	0	0
+1.0	Vindo	have lose	engine power off east coast of England earlier Thursday	0	LOCATION
+1.0	Vindo	be involve at_time	last year	0	DATE
+1.0	20 rig worker	have	from which have earlier evacuate as precaution	NUMBER	0
+1.0	Vindo	have lose	engine power off coast of England	0	LOCATION
+1.0	rig worker	have	from which have earlier evacuate as precaution	0	0
+1.0	rig worker	have	have earlier evacuate as precaution	0	0
+0.8032640221154881	carry	cargo of	fertilizer	0	0
+1.0	Vindo	regain engine power for	short time	0	0
+1.0	Britain	have	Maritime	O	LOCATION
+1.0	Vindo	be	involve in collision year	0	DATE
+1.0	we	be monitor	situation	0	0
+1.0	nine-member crew	be work	hard	0	0
+1.0	Vindo	have lose	engine power off east coast of England Thursday	0	LOCATION
+1.0	20 rig worker	have	have earlier evacuate as precaution	NUMBER	0
+1.0	rig worker	have	from which have evacuate as precaution	0	0
+1.0	coast	have	involved	O	O
+1.0	crew	be work	very hard	0	0
+1.0	20 rig worker	have	from which have evacuate	NUMBER	0
+1.0	we	be still monitor	situation	0	0
+0.7436069906187137	Vindo	carry	cargo	0	0
+1.0	Antigua vessel	fail	respond	LOCATION	0
+1.0	other platform	be in	area	0	0

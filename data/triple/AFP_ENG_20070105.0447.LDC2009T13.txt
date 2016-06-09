@@ -1,0 +1,33 @@
+1.0	telecom group	say at_time	late Thursday	0	DATE
+1.0	US stock	end	lower	LOCATION	0
+1.0	hourly earnings	rise eight 17.04 dollar compare to	December 2005	SET	DATE
+1.0	telecom group	say at_time	Thursday	0	DATE
+0.39304889992967795	hourly earnings	rise compare to	December 2005	SET	DATE
+1.0	broad-market Standard	lose	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	US stock	end	sharply lower	LOCATION	0
+1.0	average earnings	rise eight 17.04 dollar compare to	December 2005	0	DATE
+1.0	11.8 billion 12.1 billion	have	range	O	NUMBER
+1.0	average hourly earnings	rise eight 17.04 dollar compare to	December 2005	SET	DATE
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	government job report	have	wake	O	O
+1.0	Nasdaq composite	finish lower at	2,434.25	ORGANIZATION	NUMBER
+0.39304889992967795	average hourly earnings	rise compare to	December 2005	SET	DATE
+1.0	earnings	rise eight 17.04 dollar compare to	December 2005	0	DATE
+1.0	tech-heavy Nasdaq composite	finish at	2,434.25	ORGANIZATION	NUMBER
+1.0	US stock	end at_time	Friday	LOCATION	DATE
+1.0	interest rate	have	likelihood	O	O
+0.39304889992967795	average earnings	rise compare to	December 2005	0	DATE
+1.0	Nasdaq composite	finish at	2,434.25	ORGANIZATION	NUMBER
+1.0	likelihood	dwindle in	wake	0	0
+1.0	its	have	sales forecast	O	O
+0.39304889992967795	earnings	rise compare to	December 2005	0	DATE
+1.0	broad-market Standard	lose	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	Fed rate	have	odds	O	O
+1.0	healthy 167,000 new job	be in	December	NUMBER	DATE
+1.0	jump	be in	wages last month	0	DATE
+1.0	profit warning	also contribute to	stock gloom	0	0
+1.0	likelihood	dwindle rapidly in	wake	0	0
+1.0	12,398.33	at point be	0.66 percent	NUMBER	PERCENT
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	profit warning	contribute to	stock gloom	0	0
+1.0	tech-heavy Nasdaq composite	finish lower at	2,434.25	ORGANIZATION	NUMBER

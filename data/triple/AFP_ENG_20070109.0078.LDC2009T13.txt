@@ -1,0 +1,14 @@
+1.0	share price	have decline	10.5 percent	0	PERCENT
+1.0	Monday	have	close	O	DATE
+1.0	autonomy	have	bank	O	O
+1.0	its	have	autonomy	O	O
+1.0	stock price	be in	Venezuela	0	DURATION
+1.0	President Hugo Chavez	propose	nationalize	PERSON	DURATION
+1.0	stock price	plunge at_time	day	0	DURATION
+1.0	President Hugo Chavez	nationalize	telecom firm CANTV	PERSON	ORGANIZATION
+1.0	stock price	plunge on	Tuesday	0	DURATION
+1.0	refineries	have	control	O	O
+1.0	crude	have	refineries	O	O
+1.0	Monday	below	close	DATE	0
+1.0	laws	have	mother	O	O
+1.0	country	have	bank	O	O

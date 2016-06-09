@@ -1,0 +1,80 @@
+1.0	Meilen Tu	be of	United States	PERSON	LOCATION
+1.0	Sixth seed Martina Muller	become	third	PERSON	ORDINAL
+1.0	seed Jelena Jankovic	suffer jet lag after	arrival	PERSON	0
+1.0	year	have	finalist	O	DATE
+1.0	third seed Daniela Hantuchova	reach here	final 16 Auckland Classic	PERSON	LOCATION
+1.0	seed Daniela Hantuchova	reach	final 16 Auckland Classic	PERSON	LOCATION
+1.0	Jankovic	have	6-4 victory over Julia Schruff	PERSON	PERSON
+1.0	seed Jelena Jankovic	suffer jet lag after	late arrival in Auckland Monday	PERSON	LOCATION
+1.0	her	have	compatriot	O	O
+1.0	Hantuchova	start	focus	0	0
+1.0	seed Jelena Jankovic	have path through	round	PERSON	0
+0.6813683945333062	Hantuchova	semi-finalist in	145,000 US dollar tournament last year	PERSON	NUMBER
+1.0	seed Jelena Jankovic	suffer jet lag after	arrival in Auckland Monday	PERSON	LOCATION
+1.0	she	be beat by	argentinian veteran	0	0
+1.0	Jankovic	have	6-4 victory over german Julia Schruff	PERSON	PERSON
+1.0	top seed Jelena Jankovic	suffer jet lag after	arrival in Auckland Monday	PERSON	LOCATION
+1.0	New Zealander	decide midway through	set	0	0
+1.0	seed Jelena Jankovic	suffer jet lag after	late arrival	PERSON	0
+1.0	third seed Daniela Hantuchova	reach	final 16 of Auckland Classic	PERSON	LOCATION
+1.0	seed Jelena Jankovic	have path in	contrast	PERSON	0
+1.0	seed	have	come	0	0
+1.0	Germany	have	Sixth seed Martina Muller	PERSON	LOCATION
+1.0	Hantuchova	start	focus again	0	0
+1.0	fifth seed	finalist 's	last year	0	DATE
+1.0	seed Jelena Jankovic	have	straightforward path	PERSON	0
+1.0	Martina Muller	be	Sixth	PERSON	ORDINAL
+1.0	third seed Daniela Hantuchova	reach	final 16 Auckland Classic	PERSON	LOCATION
+1.0	she	be	when beat by veteran	0	0
+1.0	top seed Jelena Jankovic	have path in	contrast	PERSON	0
+1.0	United States	have	Meilen Tu	PERSON	LOCATION
+1.0	Daniela Hantuchova	be	third	PERSON	0
+1.0	Hantuchova	start in	set	0	0
+1.0	she	be beat by	veteran	0	0
+1.0	third seed Daniela Hantuchova	reach here	final 16 of Auckland Classic	PERSON	LOCATION
+1.0	top seed Jelena Jankovic	suffer jet lag after	late arrival in Auckland Monday	PERSON	LOCATION
+1.0	Russia	have	seed Jelena Jankovic	PERSON	LOCATION
+1.0	top seed Jelena Jankovic	suffer	jet lag	PERSON	0
+1.0	Jelena Jankovic	be of	Russia	PERSON	LOCATION
+1.0	Jankovic	have	6-4 victory	PERSON	NUMBER
+1.0	her	have	composure	O	O
+1.0	New Zealander	decide through	last set	0	0
+1.0	seed Daniela Hantuchova	overcome	second set hiccup	PERSON	DURATION
+1.0	New Zealander	decide midway through	last set	0	0
+1.0	Hantuchova	semi-finalist in	145,000 US dollar tournament last year	PERSON	NUMBER
+1.0	seed Daniela Hantuchova	reach	final 16 of Auckland Classic	PERSON	LOCATION
+0.9393766772310763	Hantuchova	rank	17	PERSON	NUMBER
+1.0	top seed Jelena Jankovic	have path through	first round	PERSON	ORDINAL
+1.0	Marina Erakovic	be teenager of	New Zealand	PERSON	LOCATION
+1.0	Marina Erakovic	be	New Zealand	PERSON	LOCATION
+1.0	seed Jelena Jankovic	suffer	jet lag	PERSON	0
+1.0	late arrival	be in	Monday	0	DATE
+1.0	third seed Daniela Hantuchova	overcome	second set hiccup	PERSON	DURATION
+1.0	ball	attack	more	0	0
+1.0	top seed Jelena Jankovic	have	path	PERSON	0
+1.0	her	have	opponent	O	O
+1.0	seed Daniela Hantuchova	reach here	final 16 Auckland Classic	PERSON	LOCATION
+1.0	Martina Muller	be of	Germany	PERSON	LOCATION
+1.0	Hantuchova	start in	third set	0	ORDINAL
+1.0	Julia Schruff	be over	german	PERSON	0
+1.0	last year	have	beaten finalist	DATE	0
+1.0	Dominika Cibulkoval	be	Slovakian	PERSON	MISC
+1.0	seed Jelena Jankovic	have	path	PERSON	0
+1.0	seed Jelena Jankovic	have path through	first round	PERSON	ORDINAL
+1.0	top seed Jelena Jankovic	have	straightforward path	PERSON	0
+1.0	third	seed	player	ORDINAL	0
+1.0	semi-finalist	be in	145,000 US dollar tournament last year	0	NUMBER
+1.0	Vera Zvonareva	be	russian	PERSON	0
+0.6813683945333062	Hantuchova	semi-finalist in	US dollar tournament last year	PERSON	DATE
+1.0	New Zealander	decide through	set	0	0
+1.0	fifth seed	have	come	0	0
+1.0	she	be	beat	0	0
+1.0	seed Daniela Hantuchova	overcome	set hiccup	PERSON	0
+1.0	top seed Jelena Jankovic	have path through	round	PERSON	0
+1.0	she	be	when beat by argentinian veteran	0	0
+1.0	Auckland Classic	have	16	NUMBER	LOCATION
+1.0	seed Daniela Hantuchova	reach here	final 16 of Auckland Classic	PERSON	LOCATION
+1.0	she	be	when beat	0	0
+1.0	third seed Daniela Hantuchova	overcome	set hiccup	PERSON	0
+1.0	top seed Jelena Jankovic	suffer jet lag after	late arrival	PERSON	0
+1.0	top seed Jelena Jankovic	suffer jet lag after	arrival	PERSON	0

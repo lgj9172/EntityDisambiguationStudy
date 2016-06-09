@@ -1,0 +1,58 @@
+1.0	country	in	full surplus	0	0
+1.0	research department	have	director general	O	O
+1.0	appreciation	be attribute to	US dollar weakness	0	LOCATION
+1.0	appreciation	be	attribute	0	0
+1.0	Xinhua	quote	director general of research department of China 's central bank	ORGANIZATION	LOCATION
+1.0	yuan	increase in	value	0	0
+1.0	China	have	currency	LOCATION	0
+1.0	Xinhua	cite	custom bureau statistics	ORGANIZATION	0
+0.7021325608010331	Beijing	wallop rise in	country 's full surplus	LOCATION	0
+1.0	Xinhua	quote	Tang Xu	ORGANIZATION	PERSON
+1.0	chinese unit	be under	pressure	0	0
+1.0	unit	be under	heavy pressure appreciate	0	0
+1.0	Xinhua	report at_time	late Wednesday	ORGANIZATION	DATE
+1.0	yuan	continue	increase in value	0	0
+1.0	custom bureau statistics	be	yet release	0	0
+1.0	Beijing	announce	rise in country 's surplus	LOCATION	0
+1.0	chinese unit	be under	heavy pressure	0	0
+1.0	China	have	currency	O	LOCATION
+1.0	unit	be under	heavy pressure	0	0
+1.0	unit	be under	pressure appreciate	0	0
+1.0	Xinhua	quote	director general	ORGANIZATION	0
+1.0	wallop rise	be in	country 's full surplus	0	0
+1.0	China	's currency be	yuan	LOCATION	0
+1.0	China	have	trade surplus	LOCATION	0
+1.0	China 's currency , the yuan	hit	record	LOCATION	0
+1.0	yuan	continue	increase	0	0
+1.0	Industrial Bank	be in	Shanghai	ORGANIZATION	LOCATION
+0.7021325608010331	Beijing	rise in	country 's surplus	LOCATION	0
+1.0	chinese unit	be under	pressure appreciate	0	0
+0.7021325608010331	Beijing	rise in	country 's full surplus	LOCATION	0
+1.0	Xinhua	quote	director general of research department of China 's bank	ORGANIZATION	LOCATION
+1.0	China	have	bank	O	LOCATION
+1.0	country	have	surplus	O	O
+1.0	currency	have	value	O	O
+1.0	bank	have	research department	O	O
+1.0	China	of	central bank	LOCATION	0
+1.0	China 's currency , the yuan	hit record in	one day	LOCATION	DURATION
+1.0	dealer	be with	Industrial Bank	0	ORGANIZATION
+1.0	Tang Xu	general of	research department	PERSON	0
+1.0	China 's currency , the yuan	have	value	O	O
+1.0	everything	have	exports	O	O
+1.0	custom bureau statistics	be	release	0	0
+1.0	Xinhua	quote	director general of research department	ORGANIZATION	0
+1.0	chinese unit	be under	heavy pressure appreciate	0	0
+1.0	Beijing	announce	wallop rise in country 's full surplus	LOCATION	0
+1.0	China 's currency , the yuan	hit	record high	LOCATION	0
+1.0	Beijing	announce	rise	LOCATION	0
+1.0	Zhang Li	dealer with	Industrial Bank	PERSON	ORGANIZATION
+1.0	Beijing	announce	rise in country 's full surplus	LOCATION	0
+1.0	unit	be under	pressure	0	0
+1.0	currency	have	value	0	0
+1.0	Beijing	announce	wallop rise	LOCATION	0
+1.0	China 's currency , the yuan	hit record in	Thursday trade	LOCATION	DURATION
+1.0	Beijing	announce	wallop rise in country 's surplus	LOCATION	0
+1.0	China 's currency , the yuan	hit	record post-revaluation high	LOCATION	0
+1.0	China	have	trade surplus	O	LOCATION
+1.0	Xinhua	report at_time	Wednesday	ORGANIZATION	DATE
+0.7021325608010331	Beijing	wallop rise in	country 's surplus	LOCATION	0

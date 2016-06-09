@@ -1,0 +1,26 @@
+1.0	Baha al Araji	be	Shiite	PERSON	ORGANIZATION
+1.0	henchmen	have	executions	O	O
+1.0	Prime Minister Nuri al-Maliki	have	office	O	PERSON
+1.0	Awad Ahmed al-Bandar	head of	revolutionary court	PERSON	0
+1.0	Moqtada al-Sadr	have	group	O	LOCATION
+1.0	Saddam	have	half-brother	O	PERSON
+1.0	Saddam	have	execution	O	PERSON
+1.0	Barzan Ibrahim al-Tikrit	be hang at_time	Thursday	PERSON	DATE
+1.0	Sami al-Askari	be	shiite	PERSON	0
+1.0	senior official	be with	Prime Minister Nuri al-Maliki 's office	0	PERSON
+1.0	government	have	members	O	O
+1.0	shiite lawmaker	tell	iraqi government official	0	0
+1.0	Taha Yassin Ramadan	be	also hang	PERSON	0
+1.0	Nuri al-Maliki	with	office	PERSON	0
+1.0	his	have	aides	O	O
+1.0	Barzan Ibrahim al-Tikrit	be	hang	PERSON	0
+1.0	Barzan Ibrahim al-Tikrit	be	hang Thursday	PERSON	DATE
+1.0	his	have	role	O	O
+1.0	villagers	have	killing	O	O
+1.0	two shiite lawmaker	tell	iraqi government official	NUMBER	0
+1.0	Saddam	have	half-brother	PERSON	0
+1.0	Baha al Araji	be mp of	Shiite	PERSON	ORGANIZATION
+1.0	court	have	head	O	O
+1.0	dictator Saddam Hussein	have	henchmen	O	PERSON
+1.0	Taha Yassin Ramadan	be	hang	PERSON	0
+1.0	148 shiite villager	be in	the 1980	NUMBER	DATE

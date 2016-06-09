@@ -1,0 +1,77 @@
+1.0	Rice	may also participate in	ministerial meeting of peace quartet	0	DATE
+1.0	chief US diplomat	be expect	go on East tour	LOCATION	LOCATION
+1.0	US diplomat	be	expect	LOCATION	0
+1.0	lebanese government	seek	forgiveness of some	0	0
+1.0	chief US diplomat	be expect	go on Middle East tour	LOCATION	LOCATION
+1.0	US diplomat	go on	tour	LOCATION	0
+1.0	Prime Minister Fuad Siniora	have	government	O	PERSON
+1.0	Rice	may participate in	meeting of peace quartet	0	DATE
+1.0	peace quartet	have	meeting	O	O
+1.0	country	rebuild after	1975-90 civil war	0	NUMBER
+1.0	conference	secure	assistance	0	0
+1.0	Rice	may participate in	ministerial meeting	0	0
+1.0	his	have	strategy	O	O
+1.0	Condoleezza Rice	be of	State Department	PERSON	ORGANIZATION
+1.0	US diplomat	go on	East tour	LOCATION	LOCATION
+1.0	Rice	may also participate in	meeting of East peace quartet	0	LOCATION
+1.0	government	be expect at	meeting	0	0
+1.0	some	have	forgiveness	O	O
+1.0	Sean McCormack	be spokesman of	State Department	PERSON	ORGANIZATION
+1.0	chief US diplomat	go on	East tour	LOCATION	LOCATION
+1.0	Lebanon	recover from	Israel 's conflict	LOCATION	LOCATION
+1.0	Her	have	itinerary	O	O
+1.0	US diplomat	be expect	go on East tour	LOCATION	LOCATION
+1.0	US diplomat	be expect	go on tour	LOCATION	0
+1.0	conference	be	attend by institution	0	0
+1.0	Rice	may also participate in	meeting	0	0
+1.0	Rice	may participate in	ministerial meeting of Middle East peace quartet	0	LOCATION
+1.0	Rice	may participate in	meeting	0	0
+1.0	Lebanon	recover from	Israel 's 34-day conflict	LOCATION	LOCATION
+1.0	Rice	may participate in	meeting of East peace quartet	0	LOCATION
+1.0	US diplomat	be expect	go on Middle East tour	LOCATION	LOCATION
+1.0	government	be	expect	0	0
+1.0	conference	secure	long-term assistance	0	0
+1.0	Israel	from	34-day conflict	LOCATION	DURATION
+1.0	Rice	may also participate in	meeting of peace quartet	0	DATE
+1.0	conference	be	attend	0	0
+1.0	Rice	may participate in	meeting of Middle East peace quartet	0	LOCATION
+1.0	chief US diplomat	go on	tour	LOCATION	0
+1.0	chief US diplomat	be expect	go on tour	LOCATION	0
+1.0	Rice	may also participate in	meeting of Middle East peace quartet	0	LOCATION
+1.0	conference	be	attend by financial institution	0	0
+1.0	conference	be attend by	institution	0	0
+1.0	Rice	may also participate in	ministerial meeting of Middle East peace quartet	0	LOCATION
+1.0	Sean McCormack	be	State Department	PERSON	ORGANIZATION
+1.0	country	rebuild after	1975-90 war	0	NUMBER
+1.0	the end of the month	be in	Berlin	DATE	LOCATION
+1.0	lebanese government	seek	forgiveness	0	0
+1.0	US diplomat	go on	Middle East tour	LOCATION	LOCATION
+1.0	US spokesman	devastate	economy	LOCATION	0
+1.0	Lebanon	recover with	Hezbollah guerrilla	LOCATION	ORGANIZATION
+0.9065749641156441	it	be	possible	0	0
+1.0	lebanese government	be	expect	0	0
+1.0	month	have	end	DATE	DATE
+1.0	conference	be attend by	international institution	0	0
+0.4968793960127973	conference	sponsor by	France	0	LOCATION
+1.0	Rice	may also participate in	ministerial meeting	0	0
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	conference	be	also mean	0	0
+1.0	conference	be	attend by international financial institution	0	0
+1.0	conference	be	mean	0	0
+1.0	conference	be attend by	financial institution	0	0
+1.0	US diplomat	be expect	go	LOCATION	0
+1.0	government	seek	forgiveness	0	0
+1.0	conference	be attend by	international financial institution	0	0
+1.0	government	seek	forgiveness of some	0	0
+1.0	Rice	may participate in	ministerial meeting of East peace quartet	0	LOCATION
+1.0	41 billion dollar	be in	debt	MONEY	0
+1.0	conference	be	attend by international institution	0	0
+1.0	State Condoleezza Rice	have	war	O	O
+1.0	chief US diplomat	be expect	go	LOCATION	0
+1.0	dollars	have	some	O	MONEY
+1.0	chief US diplomat	be	expect	LOCATION	0
+1.0	Rice	may participate in	ministerial meeting of peace quartet	0	DATE
+1.0	Rice	may also participate in	ministerial meeting of East peace quartet	0	LOCATION
+1.0	Israel	have	conflict	O	LOCATION
+1.0	chief US diplomat	go on	Middle East tour	LOCATION	LOCATION
+1.0	lebanese government	be expect at	meeting	0	0

@@ -1,0 +1,55 @@
+1.0	Kollek	will	will remember by city 's population	PERSON	0
+1.0	Israel	consider	city	LOCATION	0
+1.0	Israel	be in	1949	LOCATION	DATE
+1.0	Theodor Teddy Kollek	die in	Jerusalem	PERSON	LOCATION
+1.0	hill	bound	east Jerusalem	0	LOCATION
+1.0	Jerusalem for nearly 30 years	capital of	state of Israel in 1949	LOCATION	LOCATION
+1.0	Kollek	will	will remember by city 's population as builder	PERSON	0
+1.0	city	by	jewish population	0	0
+1.0	Ehud Olmert	pay tribute in	oration	PERSON	0
+1.0	Ehud Olmert	pay tribute to	long-serving mayor	PERSON	0
+1.0	Mount Herzl	place of	israeli dignitary	LOCATION	0
+1.0	top figure	be in	israeli labour party	0	0
+1.0	David Ben Gurion	declare	Jerusalem capital of state of Israel	PERSON	LOCATION
+1.0	its	have	Old City	LOCATION	O
+1.0	Jerusalem for nearly 30 years	capital of	state	LOCATION	0
+1.0	Theodor Teddy Kollek	die on	Tuesday	PERSON	DATE
+1.0	Theodor Teddy Kollek	die in	Jerusalem aged	PERSON	LOCATION
+1.0	hill	bound	Jerusalem for nearly 30 years	0	LOCATION
+1.0	Ehud Olmert	pay tribute in	funeral oration	PERSON	0
+1.0	his	have	creativity	O	O
+1.0	Israel	have	state	O	LOCATION
+1.0	David Ben Gurion	declare	Jerusalem capital	PERSON	LOCATION
+1.0	Kollek	will	will remember by city 's jewish population	PERSON	0
+1.0	Moshe Katsav	have	wife Gila	PERSON	O
+1.0	Jerusalem	have	mayor	O	LOCATION
+1.0	he	be mayor of	Jerusalem	0	LOCATION
+1.0	holy city	at	Mount Herzl	0	LOCATION
+1.0	dignitaries	have	place	O	O
+1.0	its	have	unified	O	O
+1.0	David Ben Gurion	declare	Jerusalem capital of state	PERSON	LOCATION
+1.0	Jerusalem	be for	nearly 30 year	LOCATION	DURATION
+1.0	Kollek	will	will remember as builder	PERSON	0
+1.0	Kollek	be	Theodor	PERSON	PERSON
+1.0	Ehud Olmert	pay tribute to	mayor	PERSON	0
+1.0	Kollek	will	will remember by city 's jewish population as builder	PERSON	0
+1.0	their	have	state	O	O
+1.0	Jerusalem for nearly 30 years	capital of	state of Israel	LOCATION	LOCATION
+1.0	diligence	have	evoking'	O	O
+1.0	city	have	Mount Herzl	LOCATION	O
+1.0	holy city	's herzl be	final rest place of israeli dignitary	0	0
+1.0	Theodor Teddy Kollek	die in	Jerusalem aged 95	PERSON	NUMBER
+1.0	David Ben Gurion	declare	Jerusalem capital of state of Israel in 1949	PERSON	LOCATION
+1.0	mourner	include	President Moshe Katsav	0	PERSON
+1.0	his	have	ability	O	O
+1.0	Ehud Olmert	pay	tribute	PERSON	0
+1.0	Palestinians	want	capital	MISC	0
+1.0	his	have	diligence	O	O
+1.0	Jerusalem	have	major	O	LOCATION
+1.0	state	have	capital	O	O
+1.0	Kollek	will	will remember	PERSON	0
+1.0	they future state	be in	Jerusalem	DATE	LOCATION
+1.0	Israel	consider	entire city	LOCATION	0
+1.0	city	have	population	O	O
+1.0	Kollek	figure in	israeli labour party	PERSON	0
+1.0	he	be	mayor	0	0

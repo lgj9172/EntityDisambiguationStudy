@@ -1,0 +1,65 @@
+1.0	abe	be in	Berlin on leg of tour	0	LOCATION
+1.0	Japanese Prime Minister Shinzo Abe	have	convenience	O	O
+1.0	George W. Bush	be with	US	PERSON	LOCATION
+1.0	Iraq	have	stability	O	LOCATION
+1.0	abe	visit	United States	0	LOCATION
+0.14333428163517403	the United States	note in	10-minute telephone conversation	PERSON	DURATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	the United States	note	Abe 's coherent stance against North Korea	PERSON	LOCATION
+1.0	US policy	have	review	O	O
+1.0	the United States	note	Abe 's stance	PERSON	PERSON
+1.0	abe	be in	Berlin on second leg of tour see	0	ORDINAL
+1.0	embassy	invite	abe	0	0
+1.0	abe	be in	Berlin on second leg of four-nation tour see	0	ORDINAL
+1.0	abe	be in	Berlin on leg of european tour	0	LOCATION
+1.0	japanese embassy	say at_time	Iraq Wednesday	0	DATE
+1.0	Japanese Prime Minister Shinzo Abe	have	country	O	O
+1.0	embassy	say at_time	Iraq Wednesday	0	DATE
+1.0	abe	be in	Berlin on leg of tour see	0	LOCATION
+1.0	the United States	also note	Abe 's coherent stance	PERSON	PERSON
+1.0	abe	be in	Berlin on leg	0	LOCATION
+1.0	air force	have	deployment	O	O
+1.0	Abe	have	stance	O	PERSON
+1.0	embassy	here say at_time	Iraq Wednesday	0	DATE
+1.0	japanese embassy	here say at_time	Iraq Wednesday	0	DATE
+1.0	soldiers	have	deployment	O	O
+0.14333428163517403	the United States	also note in	10-minute telephone conversation	PERSON	DURATION
+1.0	abe	be in	Berlin	0	LOCATION
+1.0	abe	visit united states at	he convenience	0	0
+1.0	abe	be in	Berlin on leg of four-nation tour see	0	LOCATION
+1.0	telephone conversation	be with	George W. Bush	0	PERSON
+1.0	the United States	also note	Abe 's stance	PERSON	PERSON
+1.0	Japanese Prime Minister Shinzo Abe	have	stance	O	O
+0.14333428163517403	the United States	note in	telephone conversation	PERSON	0
+1.0	embassy	say in	statement	0	0
+0.14333428163517403	the United States	also note in	telephone conversation	PERSON	0
+1.0	his	have	policy	O	O
+1.0	abe	visit united states at	he earliest convenience	0	0
+1.0	Bush	outline	he new policy	PERSON	0
+1.0	North Korea	have	program	O	LOCATION
+1.0	abe	be in	Berlin on second leg	0	ORDINAL
+1.0	abe	be in	Berlin on leg of four-nation tour	0	LOCATION
+1.0	abe	be in	Berlin on second leg of four-nation tour	0	ORDINAL
+1.0	abe	be in	Berlin on leg of european tour see	0	LOCATION
+1.0	North Korea	on	nuclear program	LOCATION	0
+1.0	abe	be in	Berlin on second leg of european tour	0	ORDINAL
+1.0	Iraq	be in	major broadcast	LOCATION	0
+1.0	Bush	outline	he policy	PERSON	0
+1.0	abe	be in	Berlin on second leg of four-nation european tour	0	ORDINAL
+1.0	Shinzo Abe	be	japanese	PERSON	0
+1.0	the United States	also note	Abe 's coherent stance against North Korea	PERSON	LOCATION
+1.0	tour	have	leg	O	O
+1.0	the United States	note	Abe 's stance against North Korea	PERSON	LOCATION
+1.0	abe	be in	Berlin on leg of four-nation european tour see	0	LOCATION
+1.0	Abe	have	coherent stance against North Korea	PERSON	LOCATION
+1.0	the United States	also note	Abe 's stance against North Korea	PERSON	LOCATION
+1.0	abe	be in	Berlin on leg of four-nation european tour	0	LOCATION
+1.0	cargo plane	be in	Iraq	0	LOCATION
+1.0	December , Tokyo	have	air force	O	O
+1.0	abe	be in	Berlin on second leg of european tour see	0	ORDINAL
+1.0	the United States	note	Abe 's coherent stance	PERSON	PERSON
+1.0	Iraq	be in	cooperation	LOCATION	0
+1.0	Japanese Prime Minister Shinzo Abe	have	strategy	O	O
+1.0	abe	be in	Berlin on second leg of tour	0	ORDINAL
+1.0	Iraq	have	stabilisation	O	LOCATION
+1.0	abe	be in	Berlin on second leg of four-nation european tour see	0	ORDINAL

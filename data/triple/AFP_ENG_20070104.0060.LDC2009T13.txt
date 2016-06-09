@@ -1,0 +1,9 @@
+1.0	South Korea	have	second airline	LOCATION	ORDINAL
+1.0	flag carrier Korean Air	announce	5.5 billion dollar order	ORGANIZATION	MONEY
+1.0	aircraft	have	delivery	O	O
+1.0	Boeing 777-200ER	have	delivery	O	O
+1.0	Asiana Airlines	say at_time	Thursday	ORGANIZATION	DATE
+1.0	company spokeswoman	give	detail	0	0
+1.0	South Korea	have	airline	O	LOCATION
+1.0	Airbus A321-200	have	delivery	O	O
+1.0	Airbus	have	delivery	O	ORGANIZATION

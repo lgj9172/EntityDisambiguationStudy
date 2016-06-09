@@ -1,0 +1,54 @@
+0.7551066328754615	journalist	reveal	hygiene condition	0	0
+1.0	L'Espresso last week	describe	overflow rubbish bin	PERSON	0
+1.0	Ubaldo Montaguti	tell	L'Espresso in interview publish	PERSON	PERSON
+1.0	clothing other objects	have	theft	O	O
+1.0	more money	go than	maintenance	0	0
+1.0	Ubaldo Montaguti	tell	weekly	0	SET
+1.0	Umberto	have	director	O	O
+1.0	hospital	be	old	0	DURATION
+1.0	degradation	have	photographs	O	O
+1.0	more money	go into	renovation	0	0
+1.0	director	have reveal	fear	0	0
+0.7551066328754615	journalist	reveal	poor hygiene condition	0	0
+1.0	public hospital	italy about	with 1,300 bed	0	NUMBER
+1.0	Walter Veltroni	be to	Rome	PERSON	LOCATION
+1.0	Ubaldo Montaguti	tell	L'Espresso in interview publish Friday	PERSON	PERSON
+1.0	Ubaldo Montaguti	tell	L'Espresso	PERSON	PERSON
+1.0	Umberto	hospital of	horror	PERSON	0
+1.0	L'Espresso week	describe	overflow rubbish bin	PERSON	0
+1.0	L'Espresso last week	describe	bin	PERSON	0
+1.0	money	go than	maintenance	0	0
+1.0	Walter Veltroni	be mayor of	Rome	PERSON	LOCATION
+1.0	outsider	steal cornea from	cadaver	0	0
+1.0	facility	in	morgue	0	0
+1.0	horrors	have	hospital	O	O
+1.0	L'Espresso week	describe	overflow bin	PERSON	0
+1.0	private armed guards	have	hospital rooms	O	O
+1.0	L'Espresso last week	describe	rubbish bin	PERSON	0
+1.0	money	go than	important maintenance	0	0
+1.0	Ubaldo Montaguti	tell	L'Espresso in interview	PERSON	PERSON
+1.0	dog excrement	be in	hallway	0	0
+1.0	patients	have	transfer	O	O
+1.0	L'Espresso last week	describe	overflow bin	PERSON	0
+1.0	fact	have	informed	O	O
+1.0	dog excrement	have	discovery	O	O
+0.7551066328754615	undercover journalist	reveal	poor hygiene condition	0	0
+1.0	L'Espresso week	describe	rubbish bin	PERSON	0
+1.0	Ubaldo Montaguti	director of	Umberto I	PERSON	0
+1.0	director	be in	spotlight undercover journalist reveal	0	0
+0.7551066328754615	undercover journalist	reveal	hygiene condition	0	0
+1.0	facility	have	morgue	O	O
+1.0	article	prompt health inspection at	321 hospital	0	NUMBER
+1.0	outsider	steal cornea from	cadaver in facility 's morgue	0	0
+1.0	outsider	steal	cornea	0	0
+1.0	article	prompt	health inspection	0	0
+1.0	Rome	have	Umberto	O	LOCATION
+1.0	Umberto I	have	director	O	O
+1.0	money	go into	renovation	0	0
+1.0	Rome	of	Umberto	LOCATION	0
+1.0	more money	go than	important maintenance	0	0
+1.0	L'Espresso	be in	interview publish Friday	PERSON	DATE
+1.0	L'Espresso week	describe	bin	PERSON	0
+1.0	cadaver	be in	facility 's morgue	0	0
+1.0	public hospital	be	old	0	DURATION
+1.0	dog excrement	be in	one hallway	0	NUMBER

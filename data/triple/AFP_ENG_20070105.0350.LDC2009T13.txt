@@ -1,0 +1,177 @@
+1.0	sentiment	edge for	month	0	DATE
+1.0	it	be	slight improvement	0	0
+1.0	sentiment	edge for	second month	0	DATE
+1.0	Eurozone unemployment	ease accord to	EU 's Eurostat datum agency	0	ORGANIZATION
+1.0	it	be slight improvement over	forecast	0	0
+1.0	it	be at	still its highest level since beginning	0	DATE
+1.0	reforms	have	mix	O	O
+1.0	sentiment	edge back for	second successive month	0	DATE
+1.0	retail sale figure	be	also stronger	0	0
+1.0	110.3 point	be in	November	NUMBER	DATE
+1.0	unemployment	peak during	extended period	0	0
+1.0	Slovenia	13th member of	eurozone	LOCATION	0
+1.0	Commission	put down	result	ORGANIZATION	0
+1.0	it	be at	still its level since beginning	0	DATE
+1.0	sale figure	be stronger in	12 country	0	NUMBER
+1.0	it	be improvement over	forecast of analyst	0	0
+1.0	household confidence	fall in	December	0	DATE
+1.0	economy	remain	buoyant	0	0
+1.0	Eurozone unemployment	meanwhile ease in	November	0	DATE
+1.0	it	be slight improvement over	forecast of analyst poll	0	0
+1.0	it	be at	its level since beginning	0	DATE
+0.8246114161877479	economist	poll by	AFX news agency	0	ORGANIZATION
+1.0	it	say that	point to growth in quarter	0	DATE
+1.0	economists	have	expectations	O	O
+1.0	0.5 percent	be in	November	PERCENT	DATE
+1.0	it	be at	its third highest level	0	ORDINAL
+1.0	December	have	average	O	O
+1.0	its	have	level	O	O
+1.0	Commission	have	eurozone business climate indicator	ORGANIZATION	0
+1.0	America	have	Holger Schmieding	PERSON	ORGANIZATION
+1.0	it	be at	its level	0	0
+1.0	it	be improvement over	forecast of analyst poll	0	0
+1.0	it	be improvement over	forecast	0	0
+1.0	year-on	have	increase	O	O
+1.0	economic sentiment	edge for	second month in December	0	DATE
+1.0	finding analyst	attribute to	concern over inflation prospects	0	0
+1.0	sentiment	edge for	successive month	0	DATE
+1.0	recovery	take	hold	0	0
+0.6072882740219778	eurozone country	organisation for	Economic Cooperation	0	ORGANIZATION
+1.0	analysts	have	forecast	O	O
+1.0	decline unemployment	be in	eurozone result from mix of structural reform	0	ORGANIZATION
+1.0	percent	have	year rise	O	PERCENT
+1.0	sentiment	edge back for	successive month in December	0	DATE
+1.0	sale figure	be also stronger accord to	Eurostat	0	ORGANIZATION
+1.0	economic sentiment	edge back for	second successive month	0	DATE
+1.0	it	be at	still its third level since beginning	0	ORDINAL
+1.0	Commission	have	eurozone business climate indicator	O	ORGANIZATION
+1.0	optimism	remain above	its average	0	0
+1.0	figure	clash from	France	0	LOCATION
+1.0	increase	exceed	expectation	DURATION	DURATION
+1.0	economic sentiment	edge for	successive month in December	0	DATE
+1.0	it	say that	point to growth in fourth quarter	0	DATE
+1.0	percent	have	drop	O	PERCENT
+1.0	it	say that	point to growth	0	0
+1.0	eurozone	have	member	O	O
+1.0	economic optimism	remain above	its long-term average	0	0
+1.0	household confidence	fall for	third month	0	DURATION
+1.0	it	be	slight	0	0
+1.0	Slovenia	become	member	LOCATION	0
+1.0	it	say that	point to sustained growth in fourth quarter	0	DATE
+1.0	it	be at	its highest level since beginning	0	DATE
+1.0	sale figure	be	stronger	0	0
+1.0	Eurozone unemployment	ease again in	November	0	DATE
+0.49460700930926943	12 country	use euro	year	NUMBER	DATE
+1.0	sentiment	edge back for	successive month	0	DATE
+1.0	sentiment	edge back for	month in December	0	DATE
+1.0	economic optimism	remain well above	its average	0	0
+1.0	it	be at	still its highest level	0	0
+1.0	unemployment	be in	eurozone	0	0
+1.0	sentiment	edge for	month in December	0	DATE
+1.0	EU	accord to	Eurostat datum agency	ORGANIZATION	ORGANIZATION
+1.0	percent	have	increase	O	PERCENT
+1.0	eurozone country	make	structural reform	0	ORGANIZATION
+1.0	economic optimism	remain well above	its long-term average	0	0
+1.0	their	have	area	O	O
+1.0	unemployment	peak during	period	0	0
+1.0	european Commission	put result down in	service sector	ORGANIZATION	0
+1.0	european Commission	put	strong result	ORGANIZATION	0
+1.0	sentiment	edge for	second successive month in December	0	DATE
+1.0	it	say that	point to sustained industrial growth in fourth quarter	0	DATE
+1.0	sentiment	edge for	successive month in December	0	DATE
+1.0	economic sentiment	edge back for	second month	0	DATE
+1.0	2001	have	beginning	DATE	DATE
+1.0	economic sentiment	edge back for	month in December	0	DATE
+1.0	it	say that	point to sustained growth	0	0
+1.0	1.55	have	market expectations	O	NUMBER
+1.0	figure	be	release	0	DURATION
+1.0	Commission	put result in	service sector	ORGANIZATION	0
+1.0	european Commission	put	result	ORGANIZATION	0
+1.0	Eurozone unemployment	meanwhile ease accord to	EU 's Eurostat datum agency	0	ORGANIZATION
+1.0	economic sentiment	edge back for	second month in December	0	DATE
+1.0	Eurozone unemployment	meanwhile ease again in	November	0	DATE
+1.0	european Commission	put down	strong result	ORGANIZATION	0
+1.0	Howard Archer	economist at	global Insight	PERSON	ORGANIZATION
+1.0	household confidence	fall for	straight month	0	DURATION
+1.0	sale figure	be stronger accord to	Eurostat	0	ORGANIZATION
+1.0	Slovenia	become	member of eurozone	LOCATION	0
+1.0	sentiment	edge back for	month	0	DATE
+1.0	Slovenia	become	13th member of eurozone	LOCATION	ORDINAL
+1.0	unemployment	peak during	extended period end	0	0
+1.0	figure	clash with	datum	0	0
+1.0	Organisation for Economic Cooperation and Development	for organisation be	OECD	ORGANIZATION	ORGANIZATION
+1.0	Slovenia	become on	Monday	LOCATION	DATE
+1.0	it	say that	point to sustained growth in quarter	0	DATE
+1.0	unemployment	peak during	extended period end in September 2004	0	DATE
+1.0	Slovenia	become	13th member	LOCATION	ORDINAL
+1.0	sentiment	edge for	second month in December	0	DATE
+1.0	it	say that	point to industrial growth in quarter	0	DATE
+1.0	economic optimism	remain above	its average	0	0
+1.0	economic sentiment	edge for	month	0	DATE
+1.0	finding analyst	attribute to	concern	0	0
+1.0	steady increase	be in	consumer confidence	0	0
+1.0	it	say that	point to sustained industrial growth	0	0
+1.0	unemployment	peak during	period end in September 2004	0	DATE
+1.0	economic sentiment	edge back for	second successive month in December	0	DATE
+1.0	retail sale figure	be	stronger	0	0
+1.0	Commission	put	result	ORGANIZATION	0
+1.0	Commission	put down	strong result	ORGANIZATION	0
+1.0	sentiment	edge back for	second month in December	0	DATE
+1.0	household confidence	fall for	third straight month	0	DURATION
+1.0	it	be at	its third level	0	ORDINAL
+1.0	Holger Schmieding	have	Bank	ORGANIZATION	PERSON
+1.0	Commission	put result down in	service sector	ORGANIZATION	0
+1.0	it	say that	point to industrial growth	0	0
+1.0	retail sale figure	be also stronger accord to	Eurostat	0	ORGANIZATION
+0.49460700930926943	12 country	use	euro	NUMBER	0
+1.0	it	be at	still its third highest level	0	ORDINAL
+1.0	european Commission	put result in	service sector	ORGANIZATION	0
+1.0	it	say that	point	0	0
+1.0	it	be	improvement	0	0
+1.0	optimism	remain above	its long-term average	0	0
+1.0	retail sale figure	be also stronger in	12 country	0	NUMBER
+1.0	economic sentiment	edge for	successive month	0	DATE
+1.0	it	be slight improvement over	forecast of analyst	0	0
+1.0	Commission	put	strong result	ORGANIZATION	0
+1.0	upswing	have	mix	O	O
+1.0	sale figure	be	also stronger	0	0
+1.0	sustained industrial growth	be in	the fourth quarter	0	DATE
+1.0	it	be at	still its third level	0	ORDINAL
+1.0	economic sentiment	edge back for	successive month	0	DATE
+1.0	it	be at	its highest level	0	0
+1.0	Eurozone unemployment	ease again accord to	EU 's Eurostat datum agency	0	ORGANIZATION
+1.0	eurozone country	make	more structural reform	0	ORGANIZATION
+1.0	optimism	remain well above	its average	0	0
+0.6147041112849497	Slovenia	join group at_time	week	LOCATION	DATE
+1.0	it	be at	its third level since beginning	0	ORDINAL
+1.0	economic sentiment	edge back for	month	0	DATE
+1.0	household confidence	fall for	month	0	DURATION
+1.0	economy	gather	pace	0	0
+1.0	sentiment	edge for	second successive month	0	DATE
+1.0	unemployment	peak during	period end	0	0
+1.0	it	be at	still its level	0	0
+1.0	retail sale figure	be stronger in	12 country	0	NUMBER
+1.0	Organisation	urge	eurozone country	ORGANIZATION	0
+1.0	Eurozone unemployment	meanwhile ease again accord to	EU 's Eurostat datum agency	0	ORGANIZATION
+0.49460700930926943	12 country	use euro	last year	NUMBER	DATE
+1.0	Slovenia	member of	eurozone	LOCATION	0
+1.0	optimism	remain well above	its long-term average	0	0
+1.0	economic sentiment	edge for	month in December	0	DATE
+1.0	european Commission	put down	result	ORGANIZATION	0
+1.0	sentiment	edge back for	second successive month in December	0	DATE
+1.0	economic sentiment	edge for	second successive month	0	DATE
+1.0	economic sentiment	edge for	second month	0	DATE
+1.0	Bank of America	of	Holger Schmieding	ORGANIZATION	PERSON
+1.0	economy	remain	buoyant in nation	0	0
+1.0	it	say that	point to industrial growth in fourth quarter	0	DATE
+1.0	economic sentiment	edge back for	successive month in December	0	DATE
+1.0	economic sentiment	edge for	second successive month in December	0	DATE
+1.0	EU	have	Eurostat data agency	O	ORGANIZATION
+1.0	unemployment	peak at	8.9 percent	0	PERCENT
+1.0	1.60	have	record high	O	NUMBER
+1.0	eurozone unemployment	remain	stable	0	0
+1.0	retail sale figure	be stronger accord to	Eurostat	0	ORGANIZATION
+1.0	sentiment	edge back for	second month	0	DATE
+1.0	sale figure	be also stronger in	12 country	0	NUMBER
+1.0	it	say that	point to sustained industrial growth in quarter	0	DATE
+1.0	Eurozone unemployment	ease in	November	0	DATE

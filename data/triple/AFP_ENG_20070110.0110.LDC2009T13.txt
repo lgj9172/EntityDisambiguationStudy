@@ -1,0 +1,12 @@
+1.0	21 billion dollar	fall from	22.9 billion dollar	MONEY	MONEY
+1.0	trade surplus	be record of	101.9 billion dollar	0	MONEY
+1.0	November	have	dollars	MONEY	DATE
+1.0	China	have	trade surplus	LOCATION	0
+1.0	trade surplus	be	record	0	0
+1.0	China	have	trade surplus	O	LOCATION
+1.0	Xinhua	cite	custom bureau	ORGANIZATION	0
+1.0	trade surplus	be	then record	0	0
+1.0	dollars	have	record	O	MONEY
+1.0	trade surplus	be	then record of 101.9 billion dollar	0	MONEY
+1.0	November	from	22.9 billion dollar	DATE	MONEY
+1.0	trade surplus	be in	2005	0	DATE

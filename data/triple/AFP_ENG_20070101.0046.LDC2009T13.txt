@@ -1,0 +1,73 @@
+1.0	the South Asian arch rivals	have	disputes	O	O
+1.0	ministry spokeswoman Tasnim Aslam	tell	AFP	PERSON	ORGANIZATION
+1.0	foreign ministry spokeswoman Tasnim Aslam	tell	AFP	PERSON	ORGANIZATION
+1.0	Islamabad	deny	involvement	LOCATION	0
+1.0	its rule	sponsor attack elsewhere in	country	0	0
+1.0	rival	have fight	three war	0	NUMBER
+1.0	the South Asian arch rivals	have	two	NUMBER	O
+1.0	country	formalise agreement on	pre test	0	0
+1.0	two country	formalise	agreement	NUMBER	0
+0.889899408213097	Islamabad	arm	militant	LOCATION	0
+1.0	war	have	event	O	O
+1.0	country	formalise agreement in	October 2005	0	DATE
+1.0	their	have	sites	O	O
+1.0	rival	claim in	full	0	0
+1.0	the South Asian arch rivals	come in	January 2004	0	DATE
+1.0	three-year-old talk	be in	face of public outrage over July 's deadly attack	DURATION	DATE
+1.0	other	have	nuclear facility	0	0
+1.0	exchange	be on	January 1 1992	0	DATE
+0.8073225430040563	militant	battle	its rule	0	0
+1.0	the South Asian arch rivals	begin	talk	0	0
+1.0	first exchange	be on	January 1 1992	ORDINAL	DATE
+1.0	rival	have fight both	three war	0	NUMBER
+1.0	Pakistan	detonate	its own device	LOCATION	0
+1.0	July	over	deadly attack	DATE	0
+1.0	its rule	sponsor elsewhere	attack	0	0
+1.0	agreement	come in	1991	0	DATE
+1.0	Pakistan	have	devices	O	O
+1.0	Mumbai	on	commuter network	LOCATION	0
+0.48854181805052616	agreement	sign in	1988 arch rival	0	DATE
+1.0	rival	have fight	two of they	0	NUMBER
+1.0	Pakistan	detonate later	its own device	LOCATION	0
+1.0	sites	have	lists	O	O
+1.0	Muslim-majority Indian Kashmir	have	region	O	LOCATION
+1.0	country	formalise agreement on	test	0	0
+1.0	Mumbai	have	commuter network	O	LOCATION
+1.0	country	formalise	agreement	0	0
+1.0	missile	have	notification	O	O
+0.48854181805052616	agreement	sign in	1988 south asian arch rival	0	DATE
+1.0	agreement	come into	force	0	0
+1.0	Pakistan	detonate	its device	LOCATION	0
+1.0	Pakistan	on	spy agency	LOCATION	0
+1.0	India	conduct	weapon test	LOCATION	DATE
+1.0	sites	have	Lists	O	O
+1.0	Pakistan	detonate later	its device	LOCATION	0
+1.0	war	be in	2002	0	DATE
+1.0	other	have	facilities	O	O
+1.0	New Delhi	accuse	Islamabad	LOCATION	LOCATION
+1.0	Pakistan	be on	Monday	LOCATION	DATE
+0.889899408213097	Islamabad	arm	islamic militant	LOCATION	0
+1.0	India	conduct weapon test in	May 1998	LOCATION	DATE
+1.0	two country	formalise agreement in	October 2005	NUMBER	DATE
+1.0	New Year	have	Day	DATE	DATE
+1.0	the South Asian arch rivals	resolve	they dispute	0	0
+1.0	its rule	sponsor	attack	0	0
+1.0	three war	two of	they	NUMBER	0
+1.0	Pakistan	have	spy agency	O	LOCATION
+1.0	two country	formalise agreement on	pre test	NUMBER	0
+1.0	information	have	exchange	O	O
+1.0	two country	formalise agreement on	test	NUMBER	0
+0.48854181805052616	agreement	sign in	1988 asian arch rival	0	DATE
+1.0	the South Asian arch rivals	resolve dispute include	Muslim-majority Indian Kashmir	0	LOCATION
+1.0	first such exchange	be on	January 1 1992	ORDINAL	DATE
+1.0	such exchange	be on	January 1 1992	0	DATE
+1.0	outrage	have	face	O	O
+1.0	its rule	sponsor attack in	country	0	0
+1.0	rival	have fight both	two of they	0	NUMBER
+0.8073225430040563	islamic militant	battle	its rule	0	0
+1.0	its	have	rule	O	O
+1.0	New Delhi	be in	mid-November	LOCATION	DATE
+1.0	level talk	be in	New Delhi	0	LOCATION
+1.0	July	have	attacks	O	DATE
+1.0	the South Asian arch rivals	resolve	dispute	0	0
+1.0	India	conduct	nuclear weapon test	LOCATION	DATE

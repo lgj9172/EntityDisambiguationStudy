@@ -1,0 +1,133 @@
+1.0	overcapacity	have	problem	O	O
+1.0	auto makers	have	one	NUMBER	O
+1.0	demand	be	only 71.5 percent	ORGANIZATION	PERCENT
+1.0	demand	be	only 71.5 percent last year	ORGANIZATION	PERCENT
+1.0	capacity	have	percent	PERCENT	O
+1.0	urge	result from	year of investment	0	0
+1.0	Xinhua	quote	unsourced statistics	ORGANIZATION	0
+1.0	they	sell	at least 80 percent of they annual production capacity	DATE	PERCENT
+1.0	urge	be link	result	0	0
+1.0	trade datum	double at_time	year	0	DATE
+1.0	urge	be link to	problem	0	0
+1.0	auto parts exports	have	value	O	O
+1.0	auto	be sell to	emerge market	0	0
+1.0	country 's production capacity	reach	eight million unit	0	NUMBER
+1.0	Vice Minister	say accord to	Xinhua	0	ORGANIZATION
+1.0	urge	be link	result from year of expensive investment	0	0
+1.0	demand	be	only 71.5 percent of capacity last year	ORGANIZATION	PERCENT
+1.0	vehicle export	be in	2005	0	DATE
+1.0	they	sell	at least 80 percent of they production capacity	DATE	PERCENT
+1.0	China	have	demand	O	LOCATION
+1.0	DaimlerChrysler 's US arm	say at_time	week	LOCATION	DATE
+1.0	demand	be	71.5 percent	ORGANIZATION	PERCENT
+1.0	Brilliance China	have	vehicle	O	O
+1.0	China	have	auto industry	LOCATION	0
+1.0	demand	be	71.5 percent year	ORGANIZATION	PERCENT
+1.0	their	have	production capacity	O	O
+1.0	year	have	course	O	DATE
+1.0	chinese auto	be mainly sell to	emerge market in Middle East	0	LOCATION
+1.0	China 's auto industry	export total at_time	year	LOCATION	DATE
+1.0	urge	be link	result from year of investment	0	0
+1.0	country	have	production capacity	0	0
+1.0	they	be able at_time	previous year	DATE	DATE
+1.0	Brilliance China Automotive Holdings	one of	nation 's top auto maker	ORGANIZATION	0
+1.0	1,025 chinese enterprise	be	involve	NUMBER	0
+1.0	demand	be	71.5 percent of capacity last year	ORGANIZATION	PERCENT
+1.0	urge	be link to	problem of overcapacity	0	0
+1.0	600 enterprise	be in	less 10 vehicle	NUMBER	NUMBER
+1.0	China	say at_time	late last month	LOCATION	DATE
+1.0	trade datum	double at_time	last year	0	DATE
+1.0	chinese auto	be mainly sell to	market in Middle East	0	LOCATION
+1.0	China	have	Chery Automotive	O	LOCATION
+1.0	auto	be mainly sell to	emerge market	0	0
+1.0	nation	of	top auto maker	0	0
+1.0	these	have	exported	O	O
+1.0	vehicles	have	total	O	O
+1.0	chinese enterprise	be involve in	vehicle export	0	0
+1.0	auto	be sell to	emerge market in Middle East	0	LOCATION
+1.0	chinese auto	be sell to	emerge market in Middle East	0	LOCATION
+1.0	urge	be partly link to	problem	0	0
+1.0	chinese auto	be mainly sell to	market	0	0
+1.0	DaimlerChrysler	have	US arm	ORGANIZATION	LOCATION
+1.0	demand	be	only 71.5 percent of capacity year	ORGANIZATION	PERCENT
+1.0	chinese auto	be sell to	market in Middle East	0	LOCATION
+1.0	DaimlerChrysler 's US arm	say at_time	last week	LOCATION	DATE
+1.0	production capacity	have	percent	PERCENT	O
+1.0	percent	have	increase	O	PERCENT
+1.0	nation	in	push become in global vehicle market	0	0
+1.0	chinese auto	be sell to	market	0	0
+1.0	investment	be in	new auto project	0	0
+1.0	auto	be mainly sell to	emerge market in Middle East	0	LOCATION
+1.0	urge	result from	year	0	0
+1.0	China 's auto industry	export	total	LOCATION	0
+1.0	China	say at_time	month	LOCATION	DATE
+1.0	world 's total vehicle trading volume	be in	the next 10 year	0	DURATION
+1.0	demand	be	only 71.5 percent year	ORGANIZATION	PERCENT
+1.0	world	of	total vehicle trading volume in next 10 year	0	DURATION
+1.0	chinese enterprise	be involve in	vehicle export in 2005	0	DATE
+1.0	urge	be partly link to	problem of overcapacity	0	0
+1.0	demand	be	only 71.5 percent of capacity	ORGANIZATION	PERCENT
+1.0	its	have	brand	O	O
+1.0	urge	be partly link	result from year of expensive investment	0	0
+1.0	chaos	be with	problem such cut-throat competition arise	0	0
+1.0	vehicle	have	value	O	O
+1.0	world	have	vehicle trading volume	O	O
+1.0	1,025 chinese enterprise	be involve in	vehicle export	NUMBER	0
+1.0	investment	have	years	DURATION	O
+1.0	urge	result from	year of expensive investment	0	0
+1.0	they	be able accord to	earlier report	DATE	0
+1.0	China	with	Chery Automotive	LOCATION	0
+1.0	trade	have	percent	PERCENT	O
+1.0	earlier report	be in	state media	0	0
+1.0	class	have	lifestyle symbol	O	O
+1.0	measures	have	announcement	O	O
+1.0	urge	be partly link	result	0	0
+1.0	Commerce Wei Jianguo	have	Vice Minister	O	PERSON
+1.0	chinese auto	be mainly sell to	emerge market	0	0
+1.0	auto	be sell to	market in Middle East	0	LOCATION
+1.0	urge	be	partly link	0	0
+1.0	chinese auto	be	sell	0	0
+1.0	chinese enterprise	be	involve	0	0
+1.0	auto	be mainly sell to	market in Middle East	0	LOCATION
+1.0	demand	be	71.5 percent of capacity	ORGANIZATION	PERCENT
+1.0	auto	be sell to	market	0	0
+1.0	they	be able accord to	report in state media	DATE	0
+1.0	Xinhua	quote	statistics	ORGANIZATION	0
+1.0	DaimlerChrysler 's US arm	ship	158,000 car	0	NUMBER
+1.0	1,025 chinese enterprise	be involve in	vehicle export in 2005	NUMBER	DATE
+1.0	auto	be	sell	0	0
+1.0	China 's auto industry	export total from	173,000	LOCATION	NUMBER
+1.0	nation	have	push	O	O
+1.0	China 's auto industry	export	total of 340,000 vehicle	LOCATION	NUMBER
+1.0	small car	be in	China	0	LOCATION
+1.0	urge	be partly link	result from year of investment	0	0
+1.0	vehicle trading volume	have	percent	PERCENT	O
+1.0	country	have	production capacity	O	O
+1.0	China	say at_time	late month	LOCATION	DATE
+1.0	China 's auto industry	export total in	increase	LOCATION	0
+1.0	auto	be mainly sell to	market	0	0
+1.0	auto	be	mainly sell	0	0
+1.0	Xinhua	cite	commerce ministry	ORGANIZATION	0
+1.0	they	be	able	DATE	0
+1.0	demand	be	71.5 percent of capacity year	ORGANIZATION	PERCENT
+1.0	they	be able accord to	report	DATE	0
+1.0	they	sell	at least 80 percent	DATE	PERCENT
+1.0	China 's auto industry	export total in	increase of 96 percent	LOCATION	PERCENT
+1.0	urge	be	link	0	0
+1.0	nation	have	auto makers	O	O
+1.0	urge	be link	result from year	0	0
+1.0	China	say at_time	last month	LOCATION	DATE
+1.0	emerge market	be in	Middle East	0	LOCATION
+1.0	chinese auto	be sell to	emerge market	0	0
+1.0	DaimlerChrysler	have	US arm	O	ORGANIZATION
+1.0	urge	be partly link	result from year	0	0
+1.0	Europe	be over	the next five year	LOCATION	DURATION
+1.0	China	have	booming demand	LOCATION	0
+1.0	car	symbol of	emerge middle class	0	0
+1.0	demand	be	71.5 percent last year	ORGANIZATION	PERCENT
+1.0	they	be able at_time	year	DATE	DATE
+1.0	commerce ministry	have	website	O	O
+1.0	they	be able accord to	earlier report in state media	DATE	0
+1.0	China	have	auto industry	O	LOCATION
+1.0	chinese auto	be	mainly sell	0	0
+1.0	Brilliance China Automotive Holdings	announce in	November	ORGANIZATION	DATE

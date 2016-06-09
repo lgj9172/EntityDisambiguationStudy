@@ -1,0 +1,140 @@
+1.0	authority	aim	capital control measure	0	0
+1.0	Thailand	have	capital control rules	O	ORGANIZATION
+1.0	bomb	cause panic about	domestic security	0	0
+1.0	people	visit	Thailand	0	LOCATION
+1.0	Tourism	be	money spinner generate	0	0
+1.0	Thais	brace for	at least two month of unrest	MISC	DURATION
+1.0	13.45 million people	visit	generate tourism income	NUMBER	0
+1.0	percent	have	projection	O	PERCENT
+1.0	13.45 million people	visit	Thailand	NUMBER	LOCATION
+1.0	instability	be	prolong	0	0
+1.0	capital control rules	have	Bank	ORGANIZATION	O
+1.0	Tourism	be	key money spinner generate about six percent	0	PERCENT
+0.632832863116628	step	reassure	foreign investor	0	0
+1.0	13.45 million people	visit	generate tourism income of 428 billion baht	NUMBER	MONEY
+1.0	damage	result in	half-point decline in first quarter gdp	0	DATE
+1.0	its	have	GDP forecast	O	O
+1.0	damage	result in	decline in quarter gdp	0	DATE
+1.0	Thailand	income of	428 billion baht	LOCATION	MONEY
+1.0	investors	have	worries	O	O
+1.0	damage	result in	decline	0	0
+1.0	13.45 million people	visit	tourism income of 428 billion baht	NUMBER	MONEY
+1.0	baht	have	tourism income	O	MONEY
+1.0	bomb	cause panic inside	inside Thailand	0	LOCATION
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of gross product	0	PERCENT
+1.0	Tourism	be	money spinner for Thailand generate about six percent of product	0	PERCENT
+1.0	number	will drop from	we previous projection	0	0
+1.0	Bank of Thailand	of	new capital control rule	ORGANIZATION	0
+1.0	damage	result from	original projection of 4.0 percent	0	PERCENT
+1.0	year	have	Thailand	LOCATION	DATE
+1.0	damage	result from	projection of 4.0 percent	0	PERCENT
+1.0	Tourism	be	money spinner for Thailand generate about six percent of gross product	0	PERCENT
+1.0	product	have	percent	PERCENT	O
+1.0	Thais	brace for	at least two month	MISC	DURATION
+1.0	Tourism	be	key money spinner	0	0
+1.0	he	tell	reporter	0	0
+1.0	fdi	drop to	5.86 billion dollar	0	MONEY
+1.0	think-tank	say at_time	Friday	0	DATE
+1.0	13.45 million people	have	projection	O	O
+1.0	authority	halt	quickly reversed capital control measure	0	0
+1.0	Tourism	be	money spinner generate about six percent of domestic product	0	PERCENT
+1.0	economic growth	drop by	1.0 percent	0	PERCENT
+1.0	army-installed Prime Minister Surayud Chulanont	warn at_time	Friday	PERSON	DATE
+1.0	Thailand	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	authority	halt	then reversed capital control measure	0	0
+1.0	Thanavath	say apart from	tourism	PERSON	0
+1.0	Thailand	be of	the first three month of the year may	LOCATION	DATE
+1.0	foreigners	have	number	O	O
+1.0	Tourism	be	key money spinner generate about six percent of domestic product	0	PERCENT
+1.0	Tourism	be	key money spinner generate about six percent of gross domestic product	0	PERCENT
+1.0	authority	halt	then quickly reversed capital control measure	0	0
+1.0	our	have	currency	O	O
+1.0	coordinate bomb	cause	panic	0	0
+1.0	Tourism	be	money spinner for Thailand generate	0	LOCATION
+1.0	Tourism	be	key money spinner for Thailand generate	0	LOCATION
+1.0	baht	have	gains	O	O
+1.0	authority	aim	reversed capital control measure	0	0
+1.0	foreigners	have	perception	O	O
+1.0	bomb	cause panic about	security	0	0
+1.0	Finance minister Pridiyathorn Devakula	urge	government	PERSON	0
+1.0	half-point decline	be in	first quarter gdp	0	DATE
+1.0	authority	aim	then quickly reversed capital control measure	0	0
+1.0	tourists	have	percent	PERCENT	O
+1.0	fdi	drop by	38 percent from 9.45 billion dollar	0	PERCENT
+1.0	Thais	have	number	O	MISC
+1.0	center	have	director	O	O
+1.0	9.45 billion dollar	be in	2006	MONEY	DATE
+1.0	authority	halt	capital control measure	0	0
+1.0	Tourism	be	money spinner generate about six percent of gross product	0	PERCENT
+1.0	authority	halt	then capital control measure	0	0
+0.632832863116628	step	reassure	investor	0	0
+1.0	authority	halt	baht 's gain	0	0
+1.0	Tourism	be	key money spinner generate	0	0
+1.0	damage	result from	original projection	0	0
+1.0	growth	drop in	worst-case scenario	0	0
+1.0	FDI	plunge to	seven-year low of three billion dollar	0	MONEY
+1.0	Tourism	be	money spinner generate about six percent	0	PERCENT
+1.0	Tourism	be	key money spinner for Thailand generate about six percent	0	PERCENT
+1.0	Tourism	be	money spinner generate about six percent of product	0	PERCENT
+1.0	coordinate bomb	cause panic about	security	0	0
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of gross domestic product	0	PERCENT
+1.0	tourists	have	number	O	O
+1.0	Thais	brace for	at least two month of political unrest	MISC	DURATION
+1.0	deadly bombing	be in	Bangkok	0	LOCATION
+1.0	Tourism	be	key money spinner generate about six percent of gross product	0	PERCENT
+1.0	economic growth	drop in	worst-case scenario	0	0
+1.0	centre	have	earlier forecast	0	0
+1.0	people	visit	generate tourism income	0	0
+1.0	fdi	drop by	38 percent from 9.45 billion dollar in 2006	0	PERCENT
+1.0	Tourism	be	money spinner for Thailand generate about six percent	0	PERCENT
+1.0	dollars	have	low	O	MONEY
+1.0	blast	be	expect	0	0
+1.0	FDI	reach	7.0 billion dollar	0	MONEY
+1.0	Tourism	be	money spinner	0	0
+1.0	baht	have	sharp gain	0	0
+1.0	people	visit	generate tourism income of 428 billion baht	0	MONEY
+1.0	FDI	plunge to	low of three billion dollar	0	MONEY
+1.0	Tourism	be	money spinner for Thailand generate about six percent of domestic product	0	PERCENT
+1.0	damage	result in	half-point decline	0	0
+1.0	7.0 billion dollar	be in	2007	MONEY	DATE
+1.0	damage	result from	projection	0	0
+1.0	lead think-tank	say at_time	Friday	0	DATE
+1.0	number	will drop from	we projection	0	0
+1.0	Tourism	be	key	0	0
+1.0	FDI	plunge to	seven-year low	0	DURATION
+1.0	unrest	have	months	DURATION	O
+1.0	the four million tourists expected to visit Thailand in the first three months of the year	have	trips	O	O
+1.0	Prime Minister Surayud Chulanont	warn at_time	Friday	PERSON	DATE
+1.0	FDI	reach	7.0 billion dollar in 2007	0	MONEY
+1.0	fdi	drop by	38 percent	0	PERCENT
+1.0	authority	halt	baht 's sharp gain	0	0
+1.0	Tourism	be	money spinner for Thailand	0	LOCATION
+1.0	Tourism	be	money spinner generate about six percent of gross domestic product	0	PERCENT
+1.0	bomb	cause	panic	0	0
+1.0	centre	have	forecast	0	0
+1.0	coordinate bomb	cause panic about	domestic security	0	0
+1.0	percent	have	range	O	PERCENT
+1.0	damage	result in	half-point decline in quarter gdp	0	DATE
+1.0	coordinate bomb	cause panic inside	inside Thailand	0	LOCATION
+1.0	Tourism	be	key money spinner for Thailand	0	LOCATION
+1.0	growth	drop by	1.0 percent	0	PERCENT
+1.0	people	visit	tourism income	0	0
+1.0	authority	be in	mid-december introduce	0	0
+1.0	growth	drop in	scenario	0	0
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of product	0	PERCENT
+1.0	economic growth	drop in	scenario	0	0
+1.0	authority	aim	then capital control measure	0	0
+1.0	Tourism	be	money spinner for Thailand generate about six percent of gross domestic product	0	PERCENT
+1.0	damage	result in	decline in first quarter gdp	0	DATE
+1.0	authority	halt	reversed capital control measure	0	0
+1.0	coordinate bomb	be in	Bangkok	0	LOCATION
+1.0	FDI	plunge to	low	0	0
+1.0	Thailand	be in	the first three month of the year may	LOCATION	DATE
+1.0	13.45 million people	visit	tourism income	NUMBER	0
+1.0	our	have	economy	O	O
+1.0	Surayud Chulanont	be	army-installed	PERSON	0
+1.0	authority	aim	quickly reversed capital control measure	0	0
+1.0	authority	aim	then reversed capital control measure	0	0
+1.0	people	visit	tourism income of 428 billion baht	0	MONEY
+1.0	Tourism	be	key money spinner generate about six percent of product	0	PERCENT
+1.0	Tourism	be	key money spinner for Thailand generate about six percent of domestic product	0	PERCENT

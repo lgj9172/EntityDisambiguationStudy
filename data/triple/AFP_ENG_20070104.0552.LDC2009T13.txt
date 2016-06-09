@@ -1,0 +1,151 @@
+1.0	Saturday	have	issue	O	DATE
+1.0	this	have pitch	activist	0	0
+1.0	herceptin	have receive	approval in market	0	0
+1.0	breast cancer	have	curse	O	O
+1.0	breast cancer	have	cases	O	O
+1.0	health fund	buy	drug	0	0
+1.0	Lancet	have	issue	O	ORGANIZATION
+1.0	Herceptin	be	be test on patient	MISC	0
+1.0	The breast-cancer drug Herceptin	be engineered antibody	that adhere to so-called her-2 protein on tumour cell 's surface	0	0
+1.0	herceptin	have receive	approval in key market	0	0
+1.0	The breast-cancer drug Herceptin	reduce risk by	52 percent at two-year mark	0	PERCENT
+1.0	Herceptin	be	be test on patient with disease in its stage	MISC	0
+1.0	wonder drug	be	find	0	0
+1.0	herceptin	have already receive	approval in market	0	0
+1.0	Herceptin	have	apparent benefit	0	0
+1.0	it	block	instruction for cell	0	0
+1.0	breast cancer	have	form	O	O
+1.0	The breast-cancer drug Herceptin	be antibody	that adhere	0	0
+1.0	The breast-cancer drug Herceptin	be engineered antibody	that adhere to her-2 protein on tumour cell 's surface	0	0
+1.0	The breast-cancer drug Herceptin	reduce	risk of cancer	0	0
+1.0	fifty-nine woman	be in	Herceptin group	0	MISC
+1.0	woman	be with	early-stage breast cancer	0	0
+1.0	trial	be good news for	woman with her-2 early breast cancer	0	0
+1.0	patient	be with	disease in its early stage	0	0
+1.0	Herceptin	be	be now test on patient with disease	MISC	DATE
+0.9289387536545167	The breast-cancer drug Herceptin	risk of	cancer	0	0
+1.0	catastrophic side-effect	emerge for	trastuzumab	0	0
+1.0	action	be	vital	0	0
+1.0	The breast-cancer drug Herceptin	be engineered antibody	that adhere	0	0
+1.0	study	appear in	Saturday 's issue	0	DATE
+1.0	trial	be news for	woman with her-2 early breast cancer	0	0
+1.0	Royal Marsden Hospital	have	Ian Smith	PERSON	ORGANIZATION
+1.0	The breast-cancer drug Herceptin	reduce	risk of premature death of cancer	0	0
+1.0	Saturday	in	issue of Lancet alongside commentary	DATE	ORGANIZATION
+1.0	two US trial	find in	2005	LOCATION	DATE
+1.0	The breast-cancer drug Herceptin	reduce	risk of death of cancer	0	0
+1.0	Herceptin	be	why be now test on patient with disease in its early stage	MISC	DATE
+1.0	this	have pitch activist against	group	0	0
+1.0	trial	be news for	woman with her-2 positive early breast cancer	0	0
+1.0	Herceptin	be	why be now test on patient with disease	MISC	DATE
+1.0	US trial	find in	2005	LOCATION	DATE
+1.0	herceptin	have already receive	approval	0	0
+1.0	tumour cell	have	surface	O	O
+1.0	question	remain	unresolved	0	0
+1.0	The breast-cancer drug Herceptin	use with	chemotherapy	0	0
+1.0	approval	be in	key market	0	0
+1.0	death	have	risk	O	O
+0.9066283379515536	Herceptin 's apparent benefit	risk of	damage	0	0
+1.0	Herceptin	be	why be test	MISC	0
+1.0	Herceptin	be	why be test on patient with disease in its early stage	MISC	0
+1.0	Herceptin	be	be now test	MISC	DATE
+1.0	herceptin	treat	her-2 cancer	0	0
+1.0	The breast-cancer drug Herceptin	be	engineered	0	0
+0.9289387536545167	The breast-cancer drug Herceptin	risk of	premature death	0	0
+1.0	herceptin	treat her-2 cancer in	its stage	0	0
+1.0	health fund	devote to	problem	0	0
+1.0	new study	appear in	Saturday 's issue	0	DATE
+1.0	herceptin	have already receive	approval in key market	0	0
+1.0	Herceptin	be	be now test on patient with disease in its early stage	MISC	DATE
+1.0	women	have	percent	PERCENT	O
+1.0	women	have	fifth	ORDINAL	O
+1.0	The breast-cancer drug Herceptin	reduce	risk of premature death of early-stage cancer	0	0
+1.0	long	remain	unclear	0	0
+1.0	cancer	have	risk	O	O
+1.0	trial	be	news	0	0
+0.9066283379515536	Herceptin 's apparent benefit	risk of	cardiac damage	0	0
+1.0	trial	be good news for	woman with her-2 breast cancer	0	0
+1.0	long-term side-effect	emerge for	trastuzumab	0	0
+1.0	side-effect	emerge for	trastuzumab	0	0
+1.0	The breast-cancer drug Herceptin	reduce risk by	52 percent at mark	0	PERCENT
+1.0	signal	destroy	tumour cell	0	0
+1.0	trial	be	good news	0	0
+1.0	trial	be news for	woman with her-2 positive breast cancer	0	0
+1.0	it	block	instruction	0	0
+1.0	Herceptin	be	why be test on patient with disease in its stage	MISC	0
+0.9134300175268706	The breast-cancer drug Herceptin	market by	US genentech	0	LOCATION
+1.0	90	die in	control group	NUMBER	0
+1.0	woman	be with	her-2 positive early breast cancer	0	0
+1.0	Herceptin	be	be now test on patient with disease in its stage	MISC	DATE
+1.0	study	appear in	Saturday 's issue of Lancet	0	DATE
+1.0	wonder drug	be find for	curse of breast cancer	0	0
+1.0	Herceptin	be	why be test on patient with disease	MISC	0
+1.0	The breast-cancer drug Herceptin	be engineered antibody	that adhere to so-called her-2 protein	0	0
+1.0	health fund	buy	costly drug	0	0
+1.0	trial	be good news for	woman with her-2 positive breast cancer	0	0
+1.0	disease	be in	its early stage	0	0
+0.01311160545069101	The breast-cancer drug Herceptin	reduce by	52 percent at two-year mark	0	PERCENT
+1.0	The breast-cancer drug Herceptin	reduce	risk of death	0	0
+1.0	Herceptin	be	why be now test	MISC	DATE
+1.0	scarce health fund	buy	drug	0	0
+0.9289387536545167	The breast-cancer drug Herceptin	risk of	early-stage cancer	0	0
+1.0	heart failure	have	cases	O	O
+1.0	trial	be good news for	woman	0	0
+1.0	trial	be good news for	woman with her-2 positive early breast cancer	0	0
+1.0	Ian Smith	be of	Royal Marsden Hospital	PERSON	ORGANIZATION
+1.0	this	have pitch activist against	other group	0	0
+0.9289387536545167	The breast-cancer drug Herceptin	risk of	death	0	0
+1.0	herceptin	have receive	approval	0	0
+1.0	The breast-cancer drug Herceptin	be engineered antibody	that adhere to her-2 protein	0	0
+1.0	Herceptin	be	be test	MISC	0
+1.0	The breast-cancer drug Herceptin	reduce	risk of premature death	0	0
+1.0	trial	be news for	woman with her-2 breast cancer	0	0
+1.0	The breast-cancer drug Herceptin	reduce risk by	52 percent	0	PERCENT
+1.0	Herceptin	be	why be now test on patient with disease in its stage	MISC	DATE
+1.0	Switzerland	have	Roche	PERSON	LOCATION
+1.0	scarce health fund	devote to	other problem	0	0
+1.0	The breast-cancer drug Herceptin	reduce	risk of death of early-stage cancer	0	0
+1.0	this	have pitch	breast-cancer activist	0	0
+1.0	an adjuvant -- a follow-up drug -- among women with early-stage HER-2 positive cancer	have	stages	O	O
+1.0	survival	have	hope	O	O
+1.0	Roche	have	website	O	ORGANIZATION
+1.0	health fund	devote to	other problem	0	0
+1.0	trial	be news for	woman	0	0
+1.0	scarce health fund	devote to	problem	0	0
+0.9134300175268706	The breast-cancer drug Herceptin	market by	US biotech genentech	0	LOCATION
+1.0	herceptin	treat her-2 cancer in	its advanced stage	0	0
+1.0	Herceptin	be	why be now test on patient	MISC	DATE
+1.0	doctor	lead by	Ian Smith	0	PERSON
+1.0	Herceptin	be	be now test on patient	MISC	DATE
+1.0	The breast-cancer drug Herceptin	be antibody	that adhere to her-2 protein	0	0
+1.0	its	have	stages	O	O
+1.0	Herceptin	be	why be test on patient	MISC	0
+1.0	genentech	be by	US	0	LOCATION
+1.0	The breast-cancer drug Herceptin	reduce	risk of early-stage cancer	0	0
+1.0	woman	be with	her-2	0	0
+0.9134300175268706	The breast-cancer drug Herceptin	market by	US biotech giant genentech	0	LOCATION
+1.0	The breast-cancer drug Herceptin	be antibody	that adhere to so-called her-2 protein on tumour cell 's surface	0	0
+1.0	The breast-cancer drug Herceptin	reduce	risk	0	0
+1.0	new study	appear in	Saturday 's issue of Lancet	0	DATE
+1.0	tumour cell	on	surface	0	0
+1.0	The breast-cancer drug Herceptin	be antibody	that adhere to so-called her-2 protein	0	0
+1.0	early action	be	vital	0	0
+1.0	recurrence	have	risk	O	O
+1.0	catastrophic long-term side-effect	emerge for	trastuzumab	0	0
+1.0	Herceptin	have	benefits	O	O
+0.9134300175268706	The breast-cancer drug Herceptin	market by	US giant genentech	0	LOCATION
+1.0	Herceptin costs	have	course	O	O
+0.01311160545069101	The breast-cancer drug Herceptin	reduce by	52 percent	0	PERCENT
+1.0	it	block	instruction for cell divide	0	0
+1.0	doctor	lead by	Ian Smith of Royal Marsden Hospital	0	ORGANIZATION
+1.0	Herceptin	be	be test on patient with disease in its early stage	MISC	0
+1.0	wonder drug	be find for	curse	0	0
+1.0	The breast-cancer drug Herceptin	be antibody	that adhere to her-2 protein on tumour cell 's surface	0	0
+0.01311160545069101	The breast-cancer drug Herceptin	reduce by	52 percent at mark	0	PERCENT
+1.0	scarce health fund	buy	costly drug	0	0
+1.0	doctor	lead in	London	0	LOCATION
+1.0	their	have	lifetime	O	O
+1.0	Herceptin	be	be test on patient with disease	MISC	0
+1.0	damage	have	risks	O	O
+1.0	people	have	death rate	O	O
+1.0	Roche	accord to	website	ORGANIZATION	0

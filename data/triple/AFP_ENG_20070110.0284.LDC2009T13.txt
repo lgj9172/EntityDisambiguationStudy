@@ -1,0 +1,147 @@
+1.0	television station	say	party 's leader Mariano Rajoy speak	0	PERSON
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	continue on	also Wednesday	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various regional party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with party	PERSON	DATE
+1.0	the Spanish government	have	duty	O	O
+1.0	3 television station	say	party 's leader Mariano Rajoy speak	NUMBER	PERSON
+0.09510152750802991	spanish government	continue in	basque region	0	0
+1.0	authorization	have	the	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support from	leader of Spain 's main political party	PERSON	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	revised government strategy	PERSON	0
+1.0	television station	say	party 's leader Mariano Rajoy	0	PERSON
+1.0	its political arm Batasuna	be	illegal	0	0
+1.0	basque group	claim	responsibility	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	have	Socialist Party	ORGANIZATION	O
+1.0	the day	be with	various regional party from he own Socialist Party	DATE	ORGANIZATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with regional party from he Socialist Party	PERSON	DATE
+1.0	the ETA	have	arrest	O	ORGANIZATION
+1.0	government	continue	its crackdown	0	0
+1.0	he	dismiss	ETA statement	0	ORGANIZATION
+1.0	attacks	have	warning	O	O
+1.0	Spain	have	opposition	O	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support from	leader	PERSON	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	government strategy deal with ETA	PERSON	ORGANIZATION
+1.0	conversation	have	types	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various party from he Socialist Party	PERSON	DATE
+1.0	Spain	have	opposition meanwhile call Wednesday for the rescind of authorization	LOCATION	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with party from he Socialist Party	PERSON	DATE
+1.0	the Spanish government	have	Tuesday communique	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various regional party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with regional party from he Socialist Party	PERSON	DATE
+1.0	Spain 's opposition	enter talk with	ETA	LOCATION	ORGANIZATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with party	PERSON	DATE
+1.0	Spain 's opposition	enter	talk	LOCATION	0
+1.0	group	claim responsibility in	its Tuesday communique	0	DATE
+1.0	Spain 's Deputy Prime Minister Maria Teresa Fernandez	say at_time	Wednesday	PERSON	DATE
+1.0	3 television station	say	party 's leader Mariano Rajoy	NUMBER	PERSON
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support from	leader of Spain 's political party	PERSON	LOCATION
+1.0	peace process	be with	courage	0	0
+1.0	Popular Party	have	members	O	ORGANIZATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support from	leader of Spain 's main party	PERSON	LOCATION
+1.0	elections	have	status	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various regional party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with regional party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various regional party	PERSON	DATE
+1.0	government	do	government	0	0
+1.0	he	earlier dismiss	ETA statement as height of sarcasm	0	ORGANIZATION
+1.0	negotiation	have	types	O	O
+1.0	dialogue	have	types	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various regional party from he own Socialist Party	PERSON	DATE
+1.0	he	dismiss	ETA statement as height	0	ORGANIZATION
+1.0	its Tuesday communique	say in	militant	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various regional party	PERSON	DATE
+1.0	he	earlier dismiss	ETA statement as height	0	ORGANIZATION
+1.0	Maria Teresa Fernandez de la Vega	be deputy prime minister of	Spain	PERSON	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit	support	PERSON	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with party from he Socialist Party	PERSON	DATE
+1.0	government	have	behavior	O	O
+0.09510152750802991	government	continue in	basque region	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various party	PERSON	DATE
+1.0	party	have	leader Mariano Rajoy	PERSON	O
+1.0	the Spanish government	have	crackdown	O	O
+1.0	Spain 's opposition	grant by	parliament	LOCATION	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	government strategy	PERSON	0
+1.0	the ETA	have	decisions	O	ORGANIZATION
+1.0	contact	be with	the ETA	0	ORGANIZATION
+1.0	government	do	previous government	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various regional party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with regional party from he Socialist Party	PERSON	DATE
+1.0	he	earlier dismiss	ETA statement	0	ORGANIZATION
+1.0	its	have	savagery	O	O
+1.0	its Tuesday communique	say in	veil militant	0	0
+1.0	group	have	wing	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various party from he Socialist Party	PERSON	DATE
+1.0	the ETA	have	decision	ORGANIZATION	0
+1.0	Spain	have	parties	O	LOCATION
+1.0	the ETA	show	willingness	ORGANIZATION	0
+1.0	socialist government	of	authorization	0	0
+0.09510152750802991	spanish government	continue in	region	0	0
+1.0	Spain	have	Maria Teresa Fernandez de la Vega	LOCATION	PERSON
+1.0	sarcasm	have	height	O	O
+1.0	two	have	ceasefire	O	O
+1.0	the ETA	be in	March last year	ORGANIZATION	DATE
+1.0	the ETA	show	clear willingness	ORGANIZATION	0
+1.0	conservative party	have	Mariano Rajoy	0	PERSON
+1.0	he	dismiss	ETA statement as height of sarcasm	0	ORGANIZATION
+1.0	Spain 's opposition	grant in	May 2005	LOCATION	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with party from he own Socialist Party	PERSON	DATE
+1.0	arm Batasuna	have	the	O	PERSON
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with party from he Socialist Party	PERSON	DATE
+1.0	spanish government	continue	its crackdown	0	0
+1.0	government	have	authorization	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support from	leader of Spain 's party	PERSON	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with regional party from he own Socialist Party	PERSON	DATE
+1.0	Spain	have	Deputy Prime Minister Maria Teresa Fernandez	PERSON	LOCATION
+1.0	Zapatero	have	number	PERSON	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	government strategy deal	PERSON	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day	PERSON	DATE
+1.0	group	claim	responsibility	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with party from he Socialist Party	PERSON	DATE
+1.0	one	have	acts	O	NUMBER
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet	PERSON	0
+1.0	one	of	act	NUMBER	0
+1.0	the Popular Party	be opposition of	Spain	ORGANIZATION	LOCATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	revised government strategy deal with ETA	PERSON	ORGANIZATION
+0.09510152750802991	government	continue in	region	0	0
+1.0	Zapatero	have	number	O	PERSON
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with various regional party from he Socialist Party	PERSON	DATE
+1.0	Spain	of	main political party	LOCATION	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with party from he own Socialist Party	PERSON	DATE
+1.0	parties	have	leaders	O	O
+0.5256259496184006	revised government strategy	deal with	the ETA	0	ORGANIZATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	continue on	Wednesday	PERSON	DATE
+1.0	acts	have	consequences	O	O
+0.5256259496184006	government strategy	deal with	the ETA	0	ORGANIZATION
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with regional party	PERSON	DATE
+1.0	the ETA	have	arm Batasuna	PERSON	O
+1.0	basque group	claim responsibility in	its Tuesday communique	0	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	solicit support for	revised government strategy deal	PERSON	0
+1.0	carpark attack	have	warning	O	O
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day with various party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various regional party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later	PERSON	0
+1.0	armed group	have	political wing	0	0
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with various party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with regional party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet later in	day with regional party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various party from he Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	meet in	day	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various regional party from he own Socialist Party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet later in day with various party	PERSON	DATE
+1.0	Interior Minister Alfredo Perez Rubalcaba	be	meet in day with regional party	PERSON	DATE

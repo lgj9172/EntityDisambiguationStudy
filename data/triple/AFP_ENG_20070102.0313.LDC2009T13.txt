@@ -1,0 +1,152 @@
+1.0	Rangers	unfortunate	former Monaco striker Dado Prso	ORGANIZATION	PERSON
+0.9135890228418696	Ferguson	veteran of	game for Rangers	PERSON	ORGANIZATION
+1.0	Barry Ferguson	win	move into spot	PERSON	0
+1.0	Gavin Rae	find	space	PERSON	0
+1.0	the bemused Rangers	though almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	second Champions League spot	be with	Czech Republic striker	ORDINAL	LOCATION
+1.0	Ferguson	have	support	O	PERSON
+1.0	Rangers	be struggle at	Motherwell	0	ORGANIZATION
+1.0	Motherwell	have	Marc Fitzpatrick	ORGANIZATION	PERSON
+1.0	other	urge	they manager resign	0	0
+1.0	Rangers defender Alan Hutton	handle	ball	ORGANIZATION	0
+1.0	Spanish striker Nacho Novo	have	team-mate	O	O
+1.0	home side	have	appeal	0	0
+1.0	side	be	reduce	0	0
+0.11982177299755592	Hearts	have turn into	fight for second Champions League spot with Czech Republic striker	ORGANIZATION	LOCATION
+1.0	Gavin Rae	get on	end of Kris Boyd lay-off	PERSON	PERSON
+1.0	the bemused Rangers	though almost take	lead	ORGANIZATION	0
+1.0	Nacho Novo	be	spanish	PERSON	0
+1.0	Gavin Rae	only mis-cue	he shot	PERSON	0
+1.0	it	be	first match	0	ORDINAL
+1.0	Many of the Rangers fans in the 10,338	walk through	Fir Park main door	0	0
+1.0	his	have	free	O	O
+1.0	Barry Ferguson	win over	Motherwell	PERSON	ORGANIZATION
+0.11982177299755592	Hearts	have turn into	fight for Champions League spot with Czech Republic striker	ORGANIZATION	LOCATION
+1.0	Alan Hutton	be	the bemused Rangers	PERSON	ORGANIZATION
+1.0	the scoring	be deny	penalty	0	0
+1.0	the bemused Rangers	take	lead inside 37 seconds	ORGANIZATION	DURATION
+0.632832863116628	chance	open	the	0	0
+1.0	side	be	three minute reduce to ten man	0	NUMBER
+1.0	the bemused Rangers	take lead through	minute Boyd penalty	ORGANIZATION	DATE
+1.0	Rangers	be	unfortunate	ORGANIZATION	0
+1.0	fall-out	shoot	saw punch	0	0
+1.0	the bemused Rangers	almost take	lead	ORGANIZATION	0
+1.0	Rangers defender Alan Hutton	jump for	handball	0	0
+1.0	the bemused Rangers	ironically though take	lead	ORGANIZATION	0
+1.0	Motherwell	have chance through	australian striker Scott McDonald	ORGANIZATION	PERSON
+1.0	the bemused Rangers	take lead through	Boyd penalty	ORGANIZATION	PERSON
+1.0	Barry Ferguson	be with	single-goal	PERSON	0
+1.0	he	cut in	in left flank	0	0
+1.0	Aberdeen	drop to	place	ORGANIZATION	0
+0.11982177299755592	Hearts	have turn into	fight for Champions League spot	ORGANIZATION	MISC
+0.11982177299755592	Hearts	have turn into	fight for second Champions League spot	ORGANIZATION	ORDINAL
+1.0	side	be reduce to	ten man	0	NUMBER
+1.0	games	have	veteran	O	O
+1.0	the bemused Rangers	ironically take	lead inside 37 seconds	ORGANIZATION	DURATION
+0.11982177299755592	Hearts	have turn in	SPL	ORGANIZATION	ORGANIZATION
+1.0	keeper Allan McGregor	parry	Richie Foran effort	0	PERSON
+1.0	Ferguson	be strip by	manager Paul Le Guen	PERSON	PERSON
+1.0	Aberdeen	drop to	third place	ORGANIZATION	ORDINAL
+1.0	Rangers fan	be in	10,338	ORGANIZATION	NUMBER
+1.0	it	be	match	0	0
+1.0	score level	save in	quick succession	0	0
+1.0	area	be in	Glasgow	0	LOCATION
+1.0	he	cut in	in flank	0	0
+1.0	other	pen banner in	support	0	0
+1.0	first	see	keeper Allan McGregor	ORDINAL	0
+1.0	the bemused Rangers	take	lead	ORGANIZATION	0
+1.0	score level	save in	succession	0	0
+0.9135890228418696	Ferguson	veteran of	over 300 game for Rangers	PERSON	ORGANIZATION
+0.11982177299755592	Hearts	have turn	net	ORGANIZATION	0
+1.0	score level	save after	hour mark	0	DATE
+1.0	Ferguson	veteran of	over 300 game for Rangers	PERSON	ORGANIZATION
+1.0	the bemused Rangers	ironically almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Gavin Rae	find space inside	18-yard box	PERSON	0
+1.0	Motherwell	have	chance	ORGANIZATION	0
+1.0	Rangers	have	15 yard drive	ORGANIZATION	NUMBER
+1.0	score level	save after	just hour mark	0	DATE
+1.0	Shunsuke Nakamura	be	Japanese	PERSON	MISC
+1.0	the bemused Rangers	though take	lead	ORGANIZATION	0
+1.0	side	be reduce at_time	three minute	0	0
+1.0	Kris Boyd lay-off	have	end	O	O
+1.0	Motherwell	have	Marc Fitzpatrick	PERSON	ORGANIZATION
+1.0	captaincy	have	stripped	O	O
+0.9058481882812295	saw punch	fall-out from	Trevor Molloy	0	PERSON
+1.0	the bemused Rangers	ironically though take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Frenchman	under	reign	MISC	0
+1.0	Motherwell	take	command of game	ORGANIZATION	0
+1.0	Alan Hutton	be defender of	the bemused Rangers	PERSON	ORGANIZATION
+1.0	Barry Ferguson	move into	second spot	PERSON	ORDINAL
+0.11982177299755592	Hearts	have turn into	three-way fight for second Champions League spot	ORGANIZATION	ORDINAL
+1.0	other	pen	banner	0	0
+1.0	the bemused Rangers	begin	life	0	0
+1.0	Rangers	have	15 yard drive save	ORGANIZATION	NUMBER
+1.0	side	be reduce at_time	three minute later	0	DATE
+1.0	side	be	three minute later reduce to ten man	0	NUMBER
+1.0	the bemused Rangers	ironically take	lead	ORGANIZATION	0
+1.0	Aiden McGeady	add	second	PERSON	DURATION
+1.0	two	cross	goal-line	0	0
+0.11982177299755592	Hearts	have turn into	three-way fight for Champions League spot with Czech Republic striker	ORGANIZATION	LOCATION
+1.0	the scoring	have	grasp	O	O
+1.0	Dado Prso	be striker of	Monaco	PERSON	ORGANIZATION
+1.0	Ferguson	be	strip of he captaincy on Monday	PERSON	DATE
+1.0	Ferguson	be	strip of he captaincy by manager Paul Le Guen	PERSON	PERSON
+1.0	winner	be in	1-0	0	NUMBER
+1.0	Aiden McGeady	add	late second	PERSON	DURATION
+0.9058481882812295	saw punch	fall-out from	scramble Trevor Molloy	0	PERSON
+0.632832863116628	chance	open	the score	0	0
+1.0	the bemused Rangers	have	keeper Allan McGregor	ORGANIZATION	PERSON
+1.0	Ferguson	have	captaincy	O	O
+0.11982177299755592	Hearts	have turn in	elsewhere SPL	ORGANIZATION	ORGANIZATION
+1.0	Gavin Rae	have	shot	O	O
+0.11982177299755592	Hearts	have turn into	fight	ORGANIZATION	0
+1.0	Rangers fans	have	Many	O	O
+1.0	the bemused Rangers	have	depth	O	O
+1.0	Rangers	have	15 yard drive save by Graeme Smith	ORGANIZATION	PERSON
+1.0	Gavin Rae	get on	end	PERSON	0
+1.0	Rangers defender Alan Hutton	handle	ball inside box	ORGANIZATION	0
+1.0	the bemused Rangers	have	advantage	O	O
+1.0	other	pen banner in	support of Ferguson	0	PERSON
+1.0	keeper Allan McGregor	parry richie foran effort from	resultant corner	0	0
+1.0	Barry Ferguson	win	move into second spot	PERSON	ORDINAL
+0.11982177299755592	Hearts	have turn into	three-way fight for Champions League spot	ORGANIZATION	MISC
+1.0	Motherwell	take	command	ORGANIZATION	0
+1.0	keeper Allan McGregor	parry richie foran effort from	corner	0	0
+0.11982177299755592	Hearts	have turn into	three-way fight for second Champions League spot with Czech Republic striker	ORGANIZATION	LOCATION
+1.0	Scott McDonald	be through	australian	PERSON	0
+1.0	feeling	have	depth	O	O
+1.0	he	drive	ball	0	0
+1.0	score level	be with	two	0	NUMBER
+1.0	the Rangers fans in the 10,338	have	manager	O	O
+1.0	Barry Ferguson	win	move	PERSON	0
+1.0	Many of the Rangers fans in the 10,338	walk through	Fir Park door	0	0
+1.0	former Monaco striker Dado Prso	be striker of	the bemused Rangers	PERSON	ORGANIZATION
+1.0	Ferguson	be strip on	Monday	PERSON	DATE
+1.0	other	urge	they manager	0	0
+1.0	the bemused Rangers	ironically though almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+0.11982177299755592	Hearts	have turn into	three-way fight	ORGANIZATION	0
+1.0	home side	have	appeals	O	O
+1.0	the bemused Rangers	ironically though almost take	lead	ORGANIZATION	0
+1.0	Motherwell	have chance through	striker Scott McDonald	ORGANIZATION	PERSON
+1.0	net	have	corner	O	O
+1.0	Rangers	have	former Monaco striker Dado Prso	ORGANIZATION	PERSON
+1.0	former Monaco striker Dado Prso	be	the bemused Rangers	PERSON	ORGANIZATION
+1.0	the bemused Rangers	though take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	their	have	part	O	O
+1.0	Ferguson	be	strip	PERSON	0
+1.0	the bemused Rangers	ironically almost take	lead	ORGANIZATION	0
+1.0	Gavin Rae	mis-cue	he shot	PERSON	0
+1.0	Ferguson	be	strip by manager Paul Le Guen on Monday	PERSON	PERSON
+1.0	they	could manage	0-0 draw	0	NUMBER
+1.0	Barry Ferguson	move into	spot	PERSON	0
+1.0	Hearts	have turn	it	ORGANIZATION	0
+1.0	the bemused Rangers	almost take	lead inside 37 seconds	ORGANIZATION	DURATION
+1.0	Gavin Rae	find space inside	box	PERSON	0
+1.0	Dado Prso	be	Monaco	PERSON	ORGANIZATION
+1.0	73 minute	be in	1-0	DURATION	NUMBER
+1.0	Ferguson	be strip of	he captaincy	PERSON	0
+1.0	Many of the Rangers fans in the 10,338	walk before	kick-off	0	0
+1.0	Frenchman	have	reign	O	MISC
+1.0	Ferguson	be	strip of he captaincy by manager Paul Le Guen on Monday	PERSON	PERSON
+1.0	they	could only manage	0-0 draw	0	NUMBER
+1.0	game	have	command	O	O

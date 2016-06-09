@@ -1,0 +1,51 @@
+1.0	term	keep	private specifics behind Griffin 's anti-doping program violation	0	PERSON
+1.0	Eddie Griffin	join	New Jersey net	PERSON	LOCATION
+1.0	Griffin	be in	2003	PERSON	DATE
+1.0	Eddie Griffin	miss	2003-04 campaign due	PERSON	DATE
+1.0	he	admit to	security camera	0	0
+1.0	Griffin 's banishment	begin with	Friday 's game	PERSON	DATE
+1.0	Griffin 's banishment	include	game against New Jersey	PERSON	LOCATION
+1.0	Griffin 's banishment	begin at	Memphis	PERSON	LOCATION
+1.0	Griffin	have	program violation	O	PERSON
+1.0	Detroit	be on	Monday	LOCATION	DATE
+1.0	Griffin 's banishment	include	game	PERSON	0
+1.0	2003-04 campaign	due to	alcohol rehabilitation	DATE	0
+1.0	bargaining agreement	have	Terms	O	O
+1.0	NBA 's collective bargaining agreement	be with	player	ORGANIZATION	0
+1.0	whose	have	career	O	O
+1.0	he	miss	practice	0	0
+1.0	Griffin 's banishment	include	game against New Jersey on Saturday	PERSON	DATE
+1.0	Friday	have	game	O	DATE
+1.0	New Jersey	be on	Saturday	LOCATION	DATE
+1.0	Friday	with	game	DATE	0
+1.0	Griffin	have	banishment	PERSON	0
+1.0	Griffin in 2003	receive	18 month probation	0	DURATION
+1.0	NBA	of	collective bargaining agreement with player	ORGANIZATION	0
+1.0	Griffin in 2003	spend at_time	11 day	0	DURATION
+1.0	Griffin	have	banishment	O	PERSON
+1.0	Eddie Griffin	be	involve	PERSON	0
+1.0	Houston Rockets	waive	Griffin	ORGANIZATION	PERSON
+1.0	Griffin 's banishment	include game next	Wednesday	PERSON	DATE
+1.0	points	have	career averages	O	O
+1.0	Eddie Griffin	miss	entire 2003-04 campaign due to alcohol rehabilitation	PERSON	DATE
+1.0	Griffin in 2003	fire gun at	former girlfriend	0	0
+1.0	Griffin	behind	anti-doping program violation	PERSON	0
+1.0	Eddie Griffin	miss	entire 2003-04 campaign due	PERSON	DATE
+1.0	Griffin in 2003	fire	gun	0	0
+1.0	term	keep	private specifics behind Griffin 's program violation	0	PERSON
+1.0	Eddie Griffin	be involve at_time	last March	PERSON	DATE
+1.0	term	keep	specifics behind Griffin 's program violation	0	PERSON
+1.0	Griffin in 2003	spend in	2004	0	DATE
+1.0	Eddie Griffin	be involve at_time	March	PERSON	DATE
+1.0	Houston Rockets	waive	Griffin in 2003	ORGANIZATION	PERSON
+1.0	Griffin in 2003	spend in	jail	0	0
+1.0	term	keep	specifics	0	0
+1.0	term	keep	private specifics	0	0
+1.0	Eddie Griffin	miss	2003-04 campaign due to alcohol rehabilitation	PERSON	DATE
+1.0	NBA	have	bargaining agreement	O	ORGANIZATION
+1.0	he	be	drunk	0	0
+1.0	entire 2003-04 campaign	due to	alcohol rehabilitation	DATE	0
+1.0	term	keep	specifics behind Griffin 's anti-doping program violation	0	PERSON
+1.0	whose career	have	have mark by trouble	0	0
+1.0	whose career	have	have mark	0	0
+1.0	Griffin	be	24	PERSON	NUMBER

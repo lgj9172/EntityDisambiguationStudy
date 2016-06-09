@@ -1,0 +1,28 @@
+1.0	new order	plummet	revised 8.1 percent	0	PERCENT
+1.0	most Wall Street analysts	have	decline	O	O
+1.0	factory order	fall	hefty 3.5 percent	0	PERCENT
+0.3721952939920179	factory order	fall in	month	0	DATE
+1.0	factory order	fall	3.5 percent	0	PERCENT
+1.0	October factory order	be revise compare with	original reading	DATE	0
+1.0	order	mark	they fourth monthly decline	0	ORDINAL
+1.0	October factory order	be revise compare with	reading	DATE	0
+1.0	order	mark	they fourth decline	0	ORDINAL
+1.0	bounce	be in	November order	0	DATE
+1.0	factory order	rise	0.1 percent	0	PERCENT
+1.0	percent	have	decline	O	PERCENT
+1.0	percent	have	dive	O	PERCENT
+1.0	Commerce Department	say at_time	Thursday	ORGANIZATION	DATE
+1.0	order	mark	they decline	0	0
+0.3721952939920179	factory order	fall in	prior month	0	DATE
+1.0	order	plummet	revised 8.1 percent	0	PERCENT
+1.0	new order	rebound to	1.6 percent	0	PERCENT
+1.0	order	be exclude	transport sector	0	0
+0.8032640221154881	show	dive of	4.7 percent	0	PERCENT
+1.0	order	plummet	8.1 percent	0	PERCENT
+1.0	new order	plummet	8.1 percent	0	PERCENT
+1.0	0.9 percent	be in	November	PERCENT	DATE
+1.0	Wall Street analysts	have	hopes	O	O
+1.0	order	mark	they monthly decline	0	SET
+1.0	order	rebound to	1.6 percent	0	PERCENT
+1.0	order	be down exclude	transport sector	0	0
+0.28627611980559997	factory order	rise with	defense order	0	0

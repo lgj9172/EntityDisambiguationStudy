@@ -1,0 +1,37 @@
+1.0	Barbaro	be 's	Kentucky Derby	PERSON	ORGANIZATION
+1.0	Kentucky Derby winner Barbaro	have	condition	O	PERSON
+1.0	he	shatter	he leg	0	0
+1.0	Barbaro 's	have	leg	O	O
+1.0	we	be consider	therapeutic option	0	0
+1.0	new separation	be	find	0	0
+1.0	separation	be	find	0	0
+1.0	we	be consider	additional option	0	0
+0.4984217867238905	radiograph	take	yesterday	0	DATE
+1.0	foot cast	be	remove	0	0
+1.0	surgery Dr	have	chief	O	O
+1.0	Barbaro 's	have	own	O	O
+1.0	tissue	have	removal	O	O
+1.0	we	be consider	several additional therapeutic option	0	0
+1.0	Barbaro 's	have	hoof	O	O
+1.0	portion	have	separation	O	O
+1.0	Barbaro	suffer	injury	PERSON	0
+1.0	hoof	have	portion	O	O
+1.0	Barbaro	be winner of	Kentucky Derby	PERSON	ORGANIZATION
+1.0	Medicine	have	Pennsylvania School	ORGANIZATION	ORGANIZATION
+1.0	his	have	foot	O	O
+1.0	Riddle Equine Hospital	be in	Kentucky	LOCATION	LOCATION
+1.0	screws	have	number	O	O
+1.0	develop discomfort	be in	leg	0	0
+1.0	we	be consider	additional therapeutic option	0	0
+1.0	he	have	titanium plate	0	0
+1.0	Barbaro	have	troubles	O	PERSON
+1.0	he	be	hospitalize	0	0
+1.0	we	be consider	several additional option	0	0
+1.0	we	be consider	several therapeutic option	0	0
+1.0	Pennsylvania School	have	University	ORGANIZATION	ORGANIZATION
+1.0	we	be consider	several option	0	0
+1.0	Barbaro	have	trouble	PERSON	0
+1.0	he	be	hospitalize since	0	0
+1.0	we	be consider	option	0	0
+1.0	Barbaro	have	condition	PERSON	0
+1.0	Barbaro	suffer	life-threatening injury	PERSON	0

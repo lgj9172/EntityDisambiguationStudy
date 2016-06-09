@@ -1,0 +1,60 @@
+1.0	record	exceed	previous peak of 1929	0	DATE
+1.0	Berlin	register	new-year high	LOCATION	0
+1.0	country	have	west	O	O
+1.0	Vienna	have	Year	DATE	O
+1.0	skiing resort	have	have hit by unseasonally mild weather	0	0
+1.0	snow	have	centimetres	O	O
+1.0	Year	have	day	DATE	DATE
+1.0	skiing resort	have	have hard hit by unseasonally mild weather	0	0
+1.0	Berlin	register respectively	high	LOCATION	0
+1.0	record	exceed	previous 13.2 c peak	0	NUMBER
+1.0	Berlin	also register respectively	new-year high	LOCATION	0
+1.0	Berlin	register respectively	new-year high	LOCATION	0
+1.0	record	exceed	previous 13.2 c peak of 1929	0	DATE
+1.0	record	exceed	previous peak	0	0
+1.0	austrian Meteorological service	say at_time	Tuesday	0	DATE
+1.0	Berlin	also register respectively	high of 11 c	LOCATION	NUMBER
+1.0	Berlin	register respectively	high of 11 c	LOCATION	NUMBER
+1.0	austrian skiing resort	have	have hit	0	0
+1.0	skiing resort	have	have hit by mild weather	0	0
+1.0	temperature	degree above	seasonal norm	0	0
+1.0	austrian skiing resort	have	have hard hit	0	0
+1.0	its mildest New Year	have	time	O	DURATION
+1.0	Meteorological service	say at_time	Tuesday	0	DATE
+1.0	skiing resort	have	have hard hit by mild weather	0	0
+1.0	1929	have	peak	O	DATE
+1.0	Berlin	also register	new-year high of 11 c	LOCATION	NUMBER
+1.0	austrian skiing resort	have	have hard hit by mild weather	0	0
+1.0	Berlin	also register respectively	high	LOCATION	0
+1.0	centimetres	have	forcasts	O	O
+1.0	record	exceed	55.76 f	0	NUMBER
+1.0	skiing resort	have	have hard hit	0	0
+1.0	austrian skiing resort	have	have hit by unseasonally mild weather	0	0
+1.0	Berlin	register	high of 11 c	LOCATION	NUMBER
+1.0	Berlin	register	new-year high of 11 c	LOCATION	NUMBER
+1.0	record	exceed	peak of 1929	0	DATE
+1.0	tourism professionals	have	faces	O	O
+1.0	Berlin	also register	high	LOCATION	0
+1.0	austrian skiing resort	have	have hard hit by weather	0	0
+1.0	record	exceed	13.2 c peak of 1929	0	DATE
+1.0	austrian skiing resort	have	have hit by weather	0	0
+1.0	Berlin	also register respectively	Czech Republic	LOCATION	LOCATION
+1.0	austrian skiing resort	have	have hard hit by unseasonally mild weather	0	0
+1.0	Berlin	also register	new-year high	LOCATION	0
+1.0	Berlin	also register	Czech Republic	LOCATION	LOCATION
+1.0	Berlin	also register respectively	new-year high of 11 c	LOCATION	NUMBER
+1.0	Berlin	register	high	LOCATION	0
+1.0	Berlin	register respectively	Czech Republic	LOCATION	LOCATION
+1.0	record	exceed	peak	0	0
+1.0	skiing resort	have	have hit	0	0
+1.0	C	have	highs	O	O
+1.0	Berlin	register	Czech Republic	LOCATION	LOCATION
+1.0	Berlin	also register	high of 11 c	LOCATION	NUMBER
+1.0	skiing resort	have	have hit by weather	0	0
+1.0	skiing resort	have	have hard hit by weather	0	0
+1.0	lowest temperature	be in	austrian capital	0	0
+1.0	record	exceed	13.2 c peak	0	NUMBER
+1.0	austrian skiing resort	have	have hit by mild weather	0	0
+1.0	Berlin	register respectively	new-year high of 11 c	LOCATION	NUMBER
+0.9055798788023554	smile	forcast of	centimetre of snow in west of country for week	0	DATE
+1.0	1929	of peak be	f	DATE	0

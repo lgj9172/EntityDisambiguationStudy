@@ -1,0 +1,28 @@
+1.0	Los Angeles manager Dean Lombardi	announce on	Friday	PERSON	DATE
+1.0	Fukufuji 's opportunity	will	will Saturday	PERSON	DATE
+1.0	Fukufuji 's first opportunity	will	will Saturday in St. Louis	ORDINAL	LOCATION
+1.0	24-year-old	be	promote	DURATION	0
+1.0	Fukufuji 's first opportunity	will	will Saturday in St. Louis against Blues	ORDINAL	LOCATION
+1.0	Fukufuji 's first opportunity	will	will Saturday	ORDINAL	DATE
+1.0	1.30	have	goals-against-average	O	NUMBER
+1.0	Fukufuji 's opportunity	will	will Saturday in St. Louis against Blues	PERSON	LOCATION
+1.0	Yutaka Fukufuji	dress for	for nhl game	0	0
+1.0	this	be	second time	0	ORDINAL
+1.0	this	be	time	0	0
+1.0	play	be in	National hockey League	0	ORGANIZATION
+1.0	Yutaka Fukufuji	have	record	PERSON	0
+1.0	.954	have	save-percentage	O	NUMBER
+1.0	Los Angeles general manager Dean Lombardi	announce on	Friday	PERSON	DATE
+1.0	Yutaka Fukufuji	have record in	three game	PERSON	NUMBER
+1.0	2-0-0	have	record	O	NUMBER
+1.0	24-year-old	be	promote to Kings from Manchester Monarchs	DURATION	ORGANIZATION
+1.0	Yutaka Fukufuji	have	record of 2-0-0	PERSON	NUMBER
+1.0	Yutaka Fukufuji	have record in	three game with Monarchs	PERSON	ORGANIZATION
+1.0	Fukufuji 's opportunity	will	will Saturday in St. Louis	PERSON	LOCATION
+1.0	Fukufuji	have	first opportunity play for Kings	PERSON	ORGANIZATION
+1.0	Dean Lombardi	be	the Los Angeles Kings	PERSON	LOCATION
+1.0	Saturday	be in	St. Louis	DATE	LOCATION
+1.0	Fukufuji	have	opportunity	O	PERSON
+1.0	24-year-old	be promote from	Manchester Monarchs	DURATION	ORGANIZATION
+1.0	second time	be in	the past month	ORDINAL	DATE
+1.0	24-year-old	be promote to	Kings	DURATION	0

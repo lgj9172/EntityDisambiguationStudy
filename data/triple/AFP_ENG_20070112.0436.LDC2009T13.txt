@@ -1,0 +1,81 @@
+0.6247965484600756	contain	name of	diplomat resident	0	0
+1.0	explosives	have	quantities	O	O
+1.0	shoot-out	be with	guerrilla in late December	0	DATE
+1.0	quantity	contain	document	0	0
+1.0	twelve people	be kill in	clash	0	0
+1.0	twelve people	be kill in	clash include alleged leader name	0	0
+1.0	investigation	allow	we	0	0
+1.0	twelve people	be kill in	clash include alleged leader name as Lassad Sassi	0	PERSON
+1.0	twelve people	be kill in	clash include leader name as Lassad Sassi	0	PERSON
+1.0	people	be kill in	clash include alleged leader name as Lassad Sassi	0	PERSON
+1.0	people	be kill in	clash include leader name as Lassad Sassi	0	PERSON
+1.0	guerrilla	be in	late December	0	DATE
+0.6247965484600756	contain	name of	certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	people	be kill in	clash name	0	0
+1.0	diplomats	have	list	O	O
+1.0	people	be kill in	clash include alleged leader	0	0
+1.0	explosive	have	have seize	0	0
+1.0	people	be kill in	clash include alleged leader name	0	0
+1.0	diplomats resident	have	names	O	O
+1.0	twelve people	be kill in	clash include leader name	0	0
+1.0	group	have	leader	O	O
+1.0	explosive	have	have seize by police	0	0
+1.0	quantity	contain	name of certain diplomat resident in Tunisia	0	LOCATION
+1.0	people	be kill in	clash include leader of group name	0	0
+1.0	twelve people	be kill in	clash include leader	0	0
+1.0	people	be kill in	clash include alleged leader of group name	0	0
+1.0	people	be kill in	clash include leader of group name as Lassad Sassi	0	PERSON
+1.0	embassies	have	plans	O	O
+1.0	certain foreign diplomat resident	be in	Tunis	0	LOCATION
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	January	PERSON	DATE
+1.0	people	be kill in	clash include leader of group	0	0
+1.0	people	be kill in	clash name as Lassad Sassi	0	PERSON
+1.0	people	be kill in	clash include leader name	0	0
+1.0	quantity	contain	plan of embassy	0	0
+1.0	the police	have	inquiries	O	O
+0.6247965484600756	contain	name of	foreign diplomat resident in Tunisia	0	LOCATION
+1.0	explosive	have	have seize after shoot-out	0	0
+1.0	twelve people	be kill in	clash include alleged leader of group name as Lassad Sassi	0	PERSON
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	Friday	PERSON	DATE
+1.0	quantity	contain	name of diplomat resident	0	0
+1.0	twelve people	be kill in	clash include leader of group name as Lassad Sassi	0	PERSON
+1.0	quantity	contain	plan	0	0
+1.0	explosive	have	have seize by police after shoot-out	0	0
+1.0	minister	be	quote	0	0
+1.0	quantity	contain	plan of certain foreign embassy	0	0
+1.0	member	be in	first official acknowledgement	0	ORDINAL
+1.0	twelve people	be kill in	clash include alleged leader of group	0	0
+0.6247965484600756	contain	name of	certain foreign diplomat resident	0	0
+1.0	people	be kill in	clash include alleged leader of group name as Lassad Sassi	0	PERSON
+1.0	group	have	members	O	O
+1.0	quantity	contain	name of foreign diplomat resident	0	0
+1.0	people	be	kill	0	0
+1.0	quantity	contain	plan of foreign embassy	0	0
+1.0	quantity	contain	name of certain foreign diplomat resident	0	0
+0.6247965484600756	contain	name of	diplomat resident in Tunisia	0	LOCATION
+1.0	quantity	contain	plan of certain embassy	0	0
+1.0	people	be kill in	clash include alleged leader of group	0	0
+1.0	quantity	contain	name of diplomat resident in Tunisia	0	LOCATION
+1.0	twelve people	be kill in	clash include alleged leader of group name	0	0
+1.0	foreign diplomat	be in	Tunis	0	LOCATION
+1.0	quantity	contain	name of certain diplomat resident	0	0
+1.0	quantity	contain	name	0	0
+1.0	we	seize	quantity	0	0
+1.0	twelve people	be	kill	0	0
+1.0	Interior Minister Rafik Haj Kacem	announce at_time	early January	PERSON	DATE
+0.6247965484600756	contain	name of	foreign diplomat resident	0	0
+1.0	quantity	contain	name of foreign diplomat resident in Tunisia	0	LOCATION
+1.0	people	be kill in	clash	0	0
+1.0	twelve people	be kill in	clash name	0	0
+1.0	people	be kill in	clash include leader	0	0
+0.6247965484600756	contain	name of	certain diplomat resident in Tunisia	0	LOCATION
+1.0	quantity	contain	name of certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	twelve people	be kill in	clash include leader of group	0	0
+1.0	twelve people	be kill in	clash name as Lassad Sassi	0	PERSON
+1.0	list	have	Explosives	O	O
+1.0	we	seize	quantity of home-made explosive	0	0
+1.0	twelve people	be kill in	clash include alleged leader	0	0
+1.0	twelve people	be kill in	clash include leader of group name	0	0
+0.6247965484600756	contain	name of	certain diplomat resident	0	0
+1.0	we	seize	quantity of explosive	0	0
+1.0	embassies	have	Explosives	O	O

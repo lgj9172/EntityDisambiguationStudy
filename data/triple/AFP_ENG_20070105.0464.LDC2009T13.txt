@@ -1,0 +1,23 @@
+1.0	Raja Bell	be	the Suns ' 100-98	PERSON	ORGANIZATION
+1.0	National Basketball Association	kick	forward Andrea Bargnani	ORGANIZATION	PERSON
+1.0	National Basketball Association	suspend	Suns guard Raja Bell for one game on Friday	ORGANIZATION	PERSON
+1.0	National Basketball Association	suspend	Suns guard Raja Bell for one game	ORGANIZATION	PERSON
+1.0	Bell 's first brush	be with	league authority	ORDINAL	0
+1.0	series	have	game	O	O
+1.0	Conference quarter-finals	have	game	O	O
+1.0	his	have	strong	O	O
+1.0	Stu Jackson	be	NBA	PERSON	ORGANIZATION
+1.0	top selection	be in	June	0	DATE
+1.0	Bell sitting out Friday night 's game against the Miami Heat	kick bargnani at_time	Friday night 's	0	TIME
+1.0	Raja Bell	be guard of	the Suns ' 100-98	PERSON	ORGANIZATION
+1.0	Bell sitting out Friday night 's game against the Miami Heat	kick bargnani on	Wednesday	0	DATE
+1.0	Bell	have	first brush with league authority	ORGANIZATION	ORDINAL
+1.0	Los Angeles Lakers	have	Kobe Bryant	PERSON	ORGANIZATION
+1.0	top selection	be in	NBA draft	0	ORGANIZATION
+1.0	National Basketball Association	kick	Andrea Bargnani	ORGANIZATION	PERSON
+1.0	National Basketball Association	suspend	Suns guard Raja Bell	ORGANIZATION	PERSON
+1.0	Bell sitting out Friday night 's game against the Miami Heat	kick	Andrea Bargnani	0	PERSON
+1.0	night	have	game against Miami Heat	TIME	ORGANIZATION
+1.0	top selection	be with	3:04	0	TIME
+1.0	Bell	have	brush	O	ORGANIZATION
+1.0	Friday night	have	game	O	TIME

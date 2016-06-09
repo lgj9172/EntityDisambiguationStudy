@@ -1,0 +1,77 @@
+1.0	Bruce	be	self-confessed	PERSON	0
+1.0	Manchester United	have	Wes Brown	PERSON	ORGANIZATION
+1.0	them	seek return after	last season 's relegation	0	DATE
+1.0	Nicky Butt	face	late fitness test	PERSON	0
+1.0	Championship	have	top	O	O
+1.0	them	seek return after	season 's relegation	0	DATE
+1.0	international Nicky Butt	face	fitness test	PERSON	0
+1.0	Bruce	be	self-confessed Newcastle fan	PERSON	ORGANIZATION
+1.0	Some managers in Bruce position 's	want	do well in it	0	0
+1.0	people	get sack at	Birmingham	0	LOCATION
+1.0	Bruce	have	side	O	O
+1.0	people	get	sack	0	0
+1.0	Birmingham	have	only injury concern head into third round	LOCATION	ORDINAL
+1.0	Birmingham	have	injury concern	O	LOCATION
+1.0	international Nicky Butt	face	late fitness test	PERSON	0
+1.0	Bruce	want	he side	0	0
+1.0	Newcastle manager	have	long-list of player	ORGANIZATION	0
+1.0	players	have	couple	O	O
+1.0	them	have	one	NUMBER	O
+1.0	quality players	have	lot	O	O
+1.0	Some managers in Bruce position 's	do well in	a secret	0	0
+1.0	last season	after	relegation	DATE	DATE
+1.0	Scott Parker	be suspend for	Premier League side	PERSON	ORGANIZATION
+1.0	Bruce	almost lose	he job	0	0
+1.0	them	seek	return	0	0
+1.0	people	recently be call for	Bruce	0	0
+1.0	them	seek	immediate return	0	DATE
+1.0	position	have	Bruce	PERSON	O
+1.0	Newcastle United	have	manager	O	ORGANIZATION
+1.0	Some managers in Bruce position 's	want	do in it	0	0
+1.0	Inter-Cities Fairs Cup	forerunner of	UEFA Cup	MISC	MISC
+1.0	Nicky Butt	face	fitness test	PERSON	0
+1.0	Some managers in Bruce position 's	want	do	0	0
+1.0	Bruce	be	great	0	0
+1.0	his	have	shortage	O	O
+1.0	Bruce	now want	he side	0	0
+1.0	manager	be in	Bruce	0	PERSON
+1.0	their	have	trophy	O	O
+1.0	them	seek return to	English Premier League	0	MISC
+1.0	Newcastle manager	have	long-list of player unavailable	ORGANIZATION	0
+1.0	Newcastle manager	have	long-list	ORGANIZATION	0
+1.0	Nicky Butt	face fitness test on	ankle injury	PERSON	0
+1.0	Bruce	have	job	O	O
+1.0	months	have	couple	DATE	DATE
+1.0	FA Cup	have	importance	MISC	0
+1.0	Peter Crouch	be striker of	Liverpool	PERSON	ORGANIZATION
+1.0	Some managers in Bruce position 's	want	do well	0	0
+1.0	players	have	long-list	O	O
+1.0	Bruce	lose	he job	0	0
+0.17974797504936701	Bruce	want	he side continue	0	0
+1.0	Saturday	have	round	O	DATE
+1.0	position	in	Bruce	0	PERSON
+1.0	Some managers in Bruce position 's	do in	a secret	0	0
+1.0	international Nicky Butt	face fitness test on	ankle injury	PERSON	0
+1.0	Saturday	into	third round	DATE	ORDINAL
+1.0	Sebastien Larsson	have	pounds transfer	O	PERSON
+1.0	Bruce	complete	500,000 pound transfer	PERSON	MONEY
+1.0	Cameron Jerome	be around	3 million pound	PERSON	MONEY
+1.0	people	more recently be call for	Bruce	0	0
+1.0	Steve Bruce	lead	short-list	PERSON	0
+0.17974797504936701	Bruce	now want	he side continue	0	0
+1.0	our	have	needs	O	O
+1.0	his	have	number Glenn Roeder	PERSON	O
+1.0	UEFA Cup	have	forerunner	O	MISC
+1.0	Peter Crouch	be for	Liverpool	PERSON	ORGANIZATION
+1.0	Southampton	have	defender	O	ORGANIZATION
+1.0	Manchester United	have	Wes Brown	ORGANIZATION	PERSON
+1.0	Scott Parker	be	suspend	PERSON	0
+1.0	season	have	relegation	O	O
+1.0	this	be	the Inter-Cities Fairs Cup	0	MISC
+1.0	Bruce	be	Newcastle fan	PERSON	ORGANIZATION
+1.0	Bruce	complete	500,000 pound transfer of Sebastien Larsson	PERSON	PERSON
+1.0	FA Cup	have	importance	O	MISC
+1.0	Emre	be	turkish	PERSON	0
+1.0	people	be call for	Bruce	0	0
+1.0	options	have	shortage	O	O
+1.0	great believer	be in	idea	0	0

@@ -1,0 +1,76 @@
+1.0	constituent assembly	have	election	O	O
+1.0	Nepal	have	constitution	LOCATION	0
+1.0	Nepal 's Maoists	predict at_time	Wednesday	LOCATION	DATE
+1.0	Nepal	have	Gyanendra	LOCATION	PERSON
+1.0	political party	cripple	country	0	0
+1.0	Nepal 's much-criticized King Gyanendra	be	force	LOCATION	0
+1.0	rule	reinstate parliament in	nation in April	0	DATE
+1.0	party	cripple	country	0	0
+1.0	Nepal 's much-criticized King Gyanendra	be force after	mass protest	LOCATION	0
+1.0	rebel	have observe	ceasefire for eight month	0	DURATION
+1.0	Nepal 's much-criticized King Gyanendra	end	rule	LOCATION	0
+1.0	they	will place	they weapon	0	0
+1.0	we	have	ideology	0	0
+1.0	rule	reinstate parliament in	nation	0	0
+1.0	Nepal 's King Gyanendra	be force after	mass protest organise by rebel	LOCATION	0
+1.0	Gajurel	deny	report	PERSON	0
+1.0	Nepal 's King Gyanendra	end	direct rule	LOCATION	0
+1.0	The former rebels	have	roots	O	O
+1.0	Nepal 's King Gyanendra	end	rule	LOCATION	0
+1.0	majority	have	government	O	O
+1.0	it	be	likely	0	0
+1.0	direct rule	reinstate parliament in	nation	0	0
+1.0	Nepal	have	constitution	O	LOCATION
+1.0	direct rule	reinstate parliament in	himalayan nation	0	0
+1.0	direct rule	reinstate parliament in	nation in April	0	DATE
+1.0	our	have	party	O	O
+1.0	they	have	party	O	O
+1.0	Nepal 's King Gyanendra	be force after	mass protest	LOCATION	0
+1.0	political party	leave	at least 19 people dead	0	NUMBER
+1.0	they	extort	money	0	0
+1.0	mind group	be in	other country	0	0
+1.0	party	leave	at least 19 people dead	0	NUMBER
+1.0	they	form majority government after	election	0	0
+1.0	UN monitors	have	force	O	O
+1.0	Nepal 's much-criticized King Gyanendra	be force after	mass protest organise by rebel	LOCATION	0
+1.0	Nepal	have	Maoists	LOCATION	ORGANIZATION
+1.0	war	have	years	DURATION	O
+1.0	Nepal 's King Gyanendra	be force after	mass protest organise	LOCATION	0
+1.0	they	form	majority government	0	0
+0.8568229474124254	decide	fate of	238-year-old monarchy	0	DURATION
+1.0	Nepal 's much-criticized King Gyanendra	end	direct rule	LOCATION	0
+1.0	they	form majority government after	election slate	0	0
+1.0	relations	have	Maoist head	O	O
+1.0	monarchy	have	fate	O	O
+1.0	we party	be able after	election of constituent assembly	0	0
+1.0	party	have	vilification	O	O
+1.0	their	have	way	O	O
+1.0	Nepal 's King Gyanendra	be	force	LOCATION	0
+1.0	states	have	15	NUMBER	O
+1.0	monitoring mission	have	leader	O	O
+1.0	Nepal	have	King Gyanendra	PERSON	LOCATION
+1.0	their	have	weapons	O	O
+1.0	himalayan nation	be in	April	0	DATE
+0.5130083858188291	United Nations supervision	pave	they way	ORGANIZATION	0
+1.0	rule	reinstate	parliament	0	0
+1.0	direct rule	reinstate parliament in	himalayan nation in April	0	DATE
+1.0	the election of the constituent assembly	have	government	O	O
+0.9865601769964174	people	19 at	least	0	0
+1.0	direct rule	reinstate	parliament	0	0
+1.0	we party	be able after	election	0	0
+1.0	we	be	Maoists	0	MISC
+1.0	we party	form	its own government	0	0
+1.0	fraternal relation	be with	like	0	0
+0.8568229474124254	decide	fate of	monarchy	0	0
+1.0	deal	have	terms	O	O
+1.0	rule	reinstate parliament in	himalayan nation	0	0
+1.0	Nepal	have	Maoists	ORGANIZATION	LOCATION
+1.0	we party	form	its government	0	0
+1.0	rebel	have observe	ceasefire	0	0
+1.0	rule	reinstate parliament in	himalayan nation in April	0	DATE
+1.0	party	be in	India	0	LOCATION
+1.0	Nepal 's much-criticized King Gyanendra	be force after	mass protest organise	LOCATION	0
+1.0	330-seat interim parliament	be in	deal expect	0	0
+1.0	we party	be	able	0	0
+1.0	leader	tell	afp	0	0
+1.0	we	have	same ideology	0	0

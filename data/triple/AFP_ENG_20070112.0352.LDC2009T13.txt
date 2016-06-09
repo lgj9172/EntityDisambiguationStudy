@@ -1,0 +1,125 @@
+1.0	national press club	be in	Dhaka	0	LOCATION
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose late Thursday by President Iajuddin Ahmed	0	PERSON
+1.0	we	win press freedom after	year of struggle	0	0
+1.0	pictures	have	publication	O	O
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	Bangladesh President Iajuddin Ahmed	declare	state	PERSON	0
+1.0	journalist	demand	withdrawal of curb impose as part	0	0
+1.0	journalist	hold rally in front of	national press club	0	0
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare at_time	late Thursday	PERSON	DATE
+1.0	Ahmed	cancel	election	PERSON	0
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare after	month	PERSON	0
+1.0	features	have	publication	O	O
+1.0	dozen	defy	state of emergency in Bangladesh capital Dhaka Friday	0	LOCATION
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare after	month of political violence	PERSON	0
+1.0	Bengali	have	editor	O	MISC
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency	0	0
+1.0	government	also impose	restriction	0	0
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose Thursday by President Iajuddin Ahmed	0	PERSON
+1.0	country	of	main press association	0	0
+1.0	Manjurul Ahsan Bulbul	president of	country 's main press association	PERSON	0
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose late Thursday	0	DATE
+1.0	we	win	press freedom	0	0
+1.0	his	have	Bangladesh	ORGANIZATION	O
+1.0	interim government	slap ban by	country 's eight television channel	0	NUMBER
+1.0	journalist	hold rally in front of	press club in Dhaka	0	LOCATION
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose	0	0
+1.0	government	slap ban by	country 's eight television channel	0	NUMBER
+1.0	At least 60 journalists	have	news services	O	O
+1.0	interim government	have	curb	0	0
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare after	month of worsen violence	PERSON	0
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose late Thursday by President Iajuddin Ahmed	0	PERSON
+1.0	government	slap	ban	0	0
+1.0	immediatey	stop	they hourly news service	0	SET
+1.0	journalist	demand	withdrawal of curb impose	0	0
+1.0	Bangladesh President Iajuddin Ahmed	declare state after	month of political violence	PERSON	0
+1.0	journalists	have	Dozens	O	O
+0.8962508970570984	criticise	government in	country 's newspaper	0	0
+1.0	discussion programmes	have	broadcasting	O	O
+1.0	journalist	hold rally in front of	press club	0	0
+1.0	interim government	slap ban from	late Thursday	0	DATE
+1.0	we	win press freedom after	year	0	0
+1.0	Bangladesh President Iajuddin Ahmed	declare	state of emergency	PERSON	0
+1.0	Bangladesh President Iajuddin Ahmed	declare state at_time	Thursday	PERSON	DATE
+1.0	government	slap ban from	Thursday	0	DATE
+1.0	government	also impose restriction on	publication	0	0
+1.0	cartoons	have	publication	O	O
+1.0	affairs	have	broadcasting	O	O
+1.0	they news service	switch to	bulletin produce by Bangladesh Television	0	ORGANIZATION
+1.0	press club	have	held	O	O
+1.0	press association	have	president	O	O
+1.0	interim government	slap	ban	0	0
+1.0	journalist	demand	withdrawal of curb impose on media	0	0
+1.0	television news	have	broadcasting	O	O
+1.0	journalist	hold	rally	0	0
+1.0	government	have	head	O	O
+1.0	they hourly news service	switch instead to	bulletin produce by Bangladesh Television	SET	ORGANIZATION
+1.0	government	also impose restriction under	emergency	0	0
+1.0	they hourly news service	switch to	bulletin produce	SET	0
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose Thursday	0	DATE
+1.0	government	slap ban by	country 's eight private television channel	0	NUMBER
+1.0	country	have	newspapers	O	O
+1.0	journalist	demand	withdrawal of curb impose on media as part	0	0
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose	0	0
+1.0	interim government	slap ban by	country 's eight private television channel	0	NUMBER
+1.0	Bangladesh President Iajuddin Ahmed	declare state after	month of worsen violence	PERSON	0
+1.0	government	have	curb	O	O
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose Thursday	0	DATE
+1.0	they news service	switch instead to	bulletin produce by Bangladesh Television	0	ORGANIZATION
+1.0	journalist	demand	withdrawal of curb impose on media as part of emergency impose by President Iajuddin Ahmed	0	PERSON
+1.0	Bangladesh President Iajuddin Ahmed	declare state after	month of violence	PERSON	0
+1.0	immediatey	stop	they news service	0	0
+1.0	they news service	switch to	bulletin produce	0	0
+1.0	interim government	slap ban from	Thursday	0	DATE
+1.0	Bangladesh President Iajuddin Ahmed	declare state after	month	PERSON	0
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare at_time	Thursday	PERSON	DATE
+1.0	they news service	switch to	bulletin produce by state-owned Bangladesh Television	0	ORGANIZATION
+1.0	news	have	publication	O	O
+1.0	journalist	demand	withdrawal	0	0
+1.0	country	in	newspaper	0	0
+1.0	government	impose restriction on	publication of news	0	0
+1.0	our	have	rights	O	O
+1.0	they news service	switch to	bulletin	0	0
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare after	month of worsen political violence	PERSON	0
+1.0	Dhaka	be capital of	Bangladesh	LOCATION	LOCATION
+1.0	editorials	have	publication	O	O
+1.0	they hourly news service	switch to	bulletin produce by Bangladesh Television	SET	ORGANIZATION
+1.0	they hourly news service	switch instead to	bulletin produce	SET	0
+1.0	government	slap ban from	late Thursday	0	DATE
+1.0	they news service	switch instead to	bulletin produce	0	0
+1.0	government	also impose restriction on	publication of news	0	0
+1.0	they hourly news service	switch instead to	bulletin	SET	0
+1.0	dozen	defy	state of emergency	0	0
+1.0	country	have	television channels	O	O
+1.0	struggle	have	years	DURATION	O
+1.0	journalist	demand	withdrawal of curb	0	0
+1.0	emergency	be in	Friday	0	DATE
+1.0	government	impose restriction on	publication	0	0
+1.0	Bangladesh President Iajuddin Ahmed	declare state at_time	late Thursday	PERSON	DATE
+1.0	Ahmed	bow	BNP	PERSON	ORGANIZATION
+1.0	government	impose restriction under	emergency	0	0
+1.0	Iajuddin Ahmed	be president of	Bangladesh	PERSON	LOCATION
+1.0	emergency	have	state	O	O
+1.0	dozen	defy	state	0	0
+1.0	journalist	hold rally in front of	national press club in Dhaka	0	LOCATION
+1.0	they news service	switch instead to	bulletin produce by state-owned Bangladesh Television	0	ORGANIZATION
+1.0	journalist	demand	withdrawal of curb impose as part of emergency	0	0
+1.0	country	by	eight private television channel	0	NUMBER
+0.9865601769964174	journalist	60 at	least	0	0
+1.0	they hourly news service	switch instead to	bulletin produce by state-owned Bangladesh Television	SET	ORGANIZATION
+0.022365932509734954	Bangladesh President Iajuddin Ahmed	declare after	month of violence	PERSON	0
+1.0	curbs	have	withdrawal	O	O
+1.0	country	have	press association	O	O
+1.0	Iajuddin Ahmed	be	Bangladesh	PERSON	LOCATION
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose by President Iajuddin Ahmed	0	PERSON
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose Thursday by President Iajuddin Ahmed	0	PERSON
+1.0	they hourly news service	switch to	bulletin produce by state-owned Bangladesh Television	SET	ORGANIZATION
+1.0	government	be in	country 's newspaper	0	0
+1.0	journalist	demand	withdrawal of curb impose as part of emergency impose late Thursday	0	DATE
+1.0	they news service	switch instead to	bulletin	0	0
+1.0	rights	have	robbed	O	O
+1.0	government	impose	restriction	0	0
+1.0	Bangladesh President Iajuddin Ahmed	declare state after	month of worsen political violence	PERSON	0
+1.0	violence	have	months	DURATION	O
+1.0	they hourly news service	switch to	bulletin	SET	0
+1.0	emergency	have	part	O	O

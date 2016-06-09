@@ -1,0 +1,21 @@
+1.0	World War II	have	months	DURATION	MISC
+1.0	fissure	have cause	landslide	0	0
+1.0	earthquakes	have	half	O	O
+1.0	geologic fissure	have cause	landslide	0	0
+1.0	geologic fissure	be in	canal 's wall	0	0
+1.0	Army	sink	railroad car inside it	ORGANIZATION	0
+1.0	canal	have	walls	O	O
+1.0	german Army	be in	1944 set explosive	ORGANIZATION	DATE
+1.0	canal	have	flanks	O	O
+1.0	geologic fissure	have cause	several landslide	0	0
+1.0	several landslide	be in	the past	0	DATE
+1.0	the time	clear	canal for traffic	0	0
+1.0	canal	in	wall	0	0
+1.0	miles	have	detour	O	O
+1.0	a Sunday landslide	have	depth	O	O
+1.0	Army	sink	railroad car	ORGANIZATION	0
+1.0	canal	have	Maintenance	O	O
+1.0	fissure	have cause	several landslide	0	0
+1.0	the time	clear	canal	0	0
+1.0	Athens	have	one	NUMBER	LOCATION
+1.0	which	have	serious	O	O

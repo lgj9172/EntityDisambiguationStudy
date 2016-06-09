@@ -1,0 +1,15 @@
+1.0	Iran	visit	top negotiator	LOCATION	0
+1.0	China	have	state media	LOCATION	0
+1.0	Iran	make	response	LOCATION	0
+1.0	community	have	concerns	O	O
+1.0	a `` serious response ''	have	program	O	O
+1.0	China	have	state media	O	LOCATION
+1.0	Iran	make response to	resolution	LOCATION	0
+1.0	Iran	visit	top nuclear negotiator	LOCATION	0
+1.0	Iran	visit	nuclear negotiator	LOCATION	0
+1.0	Chinese President Hu Jintao	tell	Ali Larijani	PERSON	PERSON
+1.0	Chinese President Hu Jintao	be	quote	PERSON	0
+1.0	Iran	visit	negotiator	LOCATION	0
+1.0	Iran	make	serious response	LOCATION	0
+1.0	Chinese President Hu Jintao	say by	state television	PERSON	0
+1.0	Hu Jintao	be	Chinese	PERSON	MISC

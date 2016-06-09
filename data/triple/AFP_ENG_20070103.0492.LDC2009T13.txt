@@ -1,0 +1,14 @@
+1.0	Voreqe Bainimarama	take	control	PERSON	0
+1.0	Fiji	have	forces commander	O	LOCATION
+1.0	nation 's fourth coup	be in	two decade	ORDINAL	DURATION
+1.0	Voreqe Bainimarama	name	himself	PERSON	0
+1.0	nation	in	fourth coup in two decade	0	DURATION
+1.0	South Pacific country	have	control	O	O
+1.0	Voreqe Bainimarama	take	control of South Pacific country	PERSON	LOCATION
+1.0	last month	until	military coup	DATE	0
+1.0	interim president	be in	nation 's fourth coup	0	ORDINAL
+1.0	country	have	authority	O	O
+1.0	nation	have	coup	O	O
+1.0	Voreqe Bainimarama	take control on	December 5	PERSON	DATE
+1.0	Fiji	have	armed force commander	LOCATION	0
+1.0	month	have	coup	O	DATE

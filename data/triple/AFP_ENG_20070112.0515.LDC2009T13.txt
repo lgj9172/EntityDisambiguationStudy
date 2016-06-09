@@ -1,0 +1,33 @@
+1.0	Marseille fan	be outrage at	penalty award	ORGANIZATION	0
+1.0	second fan	pay	500 euro	ORDINAL	MONEY
+1.0	Marseille fan	be outrage to	they opponent	ORGANIZATION	0
+1.0	Marseille fan	be hand	one-month prison sentence	ORGANIZATION	DURATION
+1.0	second fan	be	order	ORDINAL	0
+1.0	Marseille fan	be	outrage at late penalty award to they opponent	ORGANIZATION	0
+1.0	Marseille fan	be	outrage at penalty award to they opponent	ORGANIZATION	0
+1.0	Marseille fan	be hand	one-month suspend prison sentence	ORGANIZATION	DURATION
+1.0	fan	pay	500 euro	0	MONEY
+1.0	Marseille	draw	they league match 1-1	ORGANIZATION	NUMBER
+1.0	one Marseille fan	send death threat to	referee	ORGANIZATION	0
+1.0	Marseille fan	be hand	suspend prison sentence	ORGANIZATION	0
+1.0	one Marseille fan	send	death threat	ORGANIZATION	0
+1.0	500 euro	be in	damages	MONEY	0
+1.0	Marseille fan	be	outrage	ORGANIZATION	0
+1.0	Marseille fan	send	death threat	ORGANIZATION	0
+1.0	Marseille	draw	they french league match 1-1	ORGANIZATION	NUMBER
+1.0	one Marseille fan	be hand	one-month suspend prison sentence	ORGANIZATION	DURATION
+1.0	second fan	be	also order	ORDINAL	0
+1.0	Marseille fans	have	opponents	O	O
+1.0	fan	pay	500 euro in damages	0	MONEY
+1.0	one Marseille fan	be hand	prison sentence	ORGANIZATION	0
+1.0	Marseille fans	have	league match	O	O
+1.0	second fan	pay	500 euro in damages	ORDINAL	MONEY
+1.0	fan	be	order	0	0
+1.0	Marseille fan	be hand	prison sentence	ORGANIZATION	0
+1.0	one Marseille fan	be hand	suspend prison sentence	ORGANIZATION	0
+1.0	Marseille fan	be outrage at	late penalty award	ORGANIZATION	0
+1.0	Marseille fan	send death threat to	referee	ORGANIZATION	0
+1.0	fan	be	also order	0	0
+1.0	1,000 euro	be in	damages	MONEY	0
+1.0	Marseille	draw	Lens	ORGANIZATION	ORGANIZATION
+1.0	one Marseille fan	be hand	one-month prison sentence	ORGANIZATION	DURATION

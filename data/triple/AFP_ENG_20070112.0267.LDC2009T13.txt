@@ -1,0 +1,33 @@
+1.0	sunshine	be	squib	0	0
+1.0	sunshine	be	damp	0	0
+1.0	prime minister	be arrive for	they opening dinner	0	0
+1.0	ASEAN summit	have	parade	O	O
+1.0	they	pray for	good weather for summit	0	0
+1.0	year	have	gathering	O	DATE
+1.0	their	have	opening dinner	O	O
+1.0	their	have	ASEAN summit	O	O
+1.0	they	pray for	weather	0	0
+1.0	minister	arrive	sultan	0	0
+1.0	press release	hail	President Gloria Arroyo	0	PERSON
+1.0	minister	be arrive for	they opening dinner	0	0
+1.0	terror attack	have	warnings	O	O
+1.0	umbrella	be in	by nightfall force	0	0
+1.0	her	have	arrival	O	O
+1.0	umbrella	be in	by nightfall out force	0	0
+1.0	sunshine	be	damp squib	0	0
+1.0	downpour	be	more poignant	0	0
+1.0	they	pray for	good weather	0	0
+1.0	pride	have	point	O	O
+1.0	Arroyo	for	government	PERSON	0
+1.0	downpour	be	poignant	0	0
+1.0	official	ask	they	0	0
+1.0	Cebu	be visit of	Gloria Arroyo	LOCATION	PERSON
+1.0	this year	have	gathering	DATE	0
+1.0	they	pray for	weather for summit	0	0
+1.0	umbrella	be in	out force	0	0
+1.0	downpour	be	even poignant	0	0
+1.0	umbrella	be in	force	0	0
+1.0	downpour	be	even more poignant	0	0
+1.0	Arroyo	have	government	O	PERSON
+1.0	prime minister	arrive	sultan	0	0
+1.0	press release	hail	President Gloria Arroyo say	0	PERSON

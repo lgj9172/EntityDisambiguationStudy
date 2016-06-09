@@ -1,0 +1,49 @@
+1.0	Spurs	post	98-84 National Basketball Association victory over Portland	ORGANIZATION	ORGANIZATION
+1.0	Spurs	win	they second straight game	ORGANIZATION	ORDINAL
+1.0	San Antonio	use	12-4 score run highlight by two 3-pointer	LOCATION	NUMBER
+1.0	Spurs	win	they game	ORGANIZATION	0
+1.0	Spurs	take control for	good	ORGANIZATION	0
+1.0	16 point	lead	four starter in figure	NUMBER	NUMBER
+1.0	16 point	lead	four starter in double figure	NUMBER	NUMBER
+1.0	four starters in double figures	have	game	O	O
+1.0	Tony Parker	return from	hip injury	PERSON	0
+1.0	San Antonio	use	12-4 run highlight by two 3-pointer from defensive-minded Bruce Bowen	LOCATION	NUMBER
+1.0	Parker	have	return	PERSON	0
+1.0	Tony Parker	play	role	PERSON	0
+1.0	Spurs	post	98-84 National Basketball Association victory	ORGANIZATION	ORGANIZATION
+0.6096066938457677	12-4 score run	highlight by	two 3-pointer	NUMBER	NUMBER
+0.6096066938457677	12-4 run	highlight by	two 3-pointer defensive-minded Bruce Bowen	NUMBER	NUMBER
+1.0	their	have	lead	O	O
+1.0	San Antonio	use	12-4 run highlight by two 3-pointer	LOCATION	NUMBER
+0.9343542278418644	worst	straight	three	0	NUMBER
+1.0	San Antonio	use	12-4 score run highlight	LOCATION	NUMBER
+1.0	Parker 's return	have in	have doubt	PERSON	0
+1.0	San Antonio	use	12-4 run highlight by two 3-pointer from Bruce Bowen	LOCATION	NUMBER
+1.0	San Antonio	use	12-4 score run highlight by two 3-pointer from Bruce Bowen	LOCATION	NUMBER
+1.0	San Antonio	use	12-4 run	LOCATION	NUMBER
+1.0	Spurs	win	they second game	ORGANIZATION	ORDINAL
+1.0	16 point	lead	four starter	NUMBER	NUMBER
+1.0	Tony Parker	score apiece	14 point	PERSON	NUMBER
+1.0	Parker	have	return	O	PERSON
+1.0	Spurs	drop	season	ORGANIZATION	0
+1.0	Portland	cut gap to	81-71	LOCATION	NUMBER
+0.6096066938457677	12-4 run	highlight by	two 3-pointer Bruce Bowen	NUMBER	NUMBER
+1.0	San Antonio	use	12-4 run highlight	LOCATION	NUMBER
+0.6096066938457677	12-4 run	highlight by	two 3-pointer	NUMBER	NUMBER
+1.0	Sunday	have	victory	O	DATE
+1.0	Tim Duncan	collect	16 point	PERSON	NUMBER
+1.0	Spurs	win	they straight game	ORGANIZATION	0
+1.0	Tony Parker	score apiece	Manu Ginobili	PERSON	PERSON
+1.0	Tony Parker	return at_time	Tuesday	PERSON	DATE
+1.0	San Antonio	use	12-4 score run highlight by two 3-pointer from defensive-minded Bruce Bowen	LOCATION	NUMBER
+1.0	San Antonio	stay in	control	LOCATION	0
+0.6096066938457677	12-4 score run	highlight by	two 3-pointer Bruce Bowen	NUMBER	NUMBER
+1.0	Parker 's return	have in	have doubt prior game	PERSON	0
+1.0	San Antonio	use	12-4 score run	LOCATION	NUMBER
+0.6096066938457677	12-4 score run	highlight by	two 3-pointer defensive-minded Bruce Bowen	NUMBER	NUMBER
+1.0	Tony Parker	score	14 point	PERSON	NUMBER
+1.0	four starter	be in	double figure	NUMBER	0
+1.0	Portland	cut	gap	LOCATION	0
+1.0	Tony Parker	score	Manu Ginobili	PERSON	PERSON
+1.0	Parker 's return	have in	have doubt prior	PERSON	0
+1.0	16 point	lead	nine rebound	NUMBER	NUMBER

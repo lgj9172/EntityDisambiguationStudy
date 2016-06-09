@@ -1,0 +1,123 @@
+1.0	Rana Naved-ul-Hasan	immediately hook	Ntini high to square leg	PERSON	PERSON
+1.0	batmen	have	seven	NUMBER	O
+1.0	danish Kaneria	fall to	catch	0	0
+0.6175492588948124	Naved-ul-Hasan	be	hook	0	0
+1.0	batsman	have	thigh pad	O	O
+1.0	71 run	be in	67 minute	NUMBER	DURATION
+1.0	Naved-ul-Hasan	be	seventh man	0	ORDINAL
+1.0	Rana Naved-ul-Hasan	hook	Ntini high to square leg	PERSON	PERSON
+1.0	morning	have	play	O	TIME
+1.0	danish Kaneria	fall to	routine catch at slip	0	0
+1.0	Makhaya Ntini	have	haul	O	O
+1.0	Kaneria	fall to	catch at slip	0	0
+1.0	Pakistan	pay penalty for	they obsession	LOCATION	DATE
+1.0	Pakistan	pull shot on	day of test	LOCATION	DATE
+1.0	their	have	obsession	O	O
+1.0	The tall Mohammad Asif	dismiss both	south african opener	PERSON	0
+1.0	Naved-ul-Hasan	be	man	0	0
+1.0	their	have	innings	O	O
+1.0	Pakistan	pull shot on	day of first test	LOCATION	ORDINAL
+1.0	Pakistan	pay	heavy penalty	LOCATION	0
+1.0	South Africa	be at	Friday	LOCATION	DATE
+1.0	Pakistan	pay	penalty	LOCATION	0
+1.0	Pakistan	pull shot on	second day of test against South Africa	LOCATION	DATE
+1.0	The tall Mohammad Asif	dismiss cheaply	south african opener	PERSON	0
+1.0	Pakistan	self-destruct in	frenetic morning 's play	LOCATION	TIME
+1.0	Mohammad Asif	gain	swing	PERSON	0
+1.0	he	hook ntini to	Hashim Amla	0	PERSON
+1.0	Asif	have	hold	O	PERSON
+1.0	morning	in	play	TIME	0
+0.9459329802259339	he	edge khan at	slip	0	0
+0.5605337935425311	out	swinger to	Younis	0	PERSON
+1.0	Pakistan	pull shot on	day of first test against South Africa at Centurion Park Friday	LOCATION	ORDINAL
+1.0	thigh pad	have	went	O	O
+1.0	Kaneria	fall to	routine catch	0	0
+1.0	Pakistan	pull shot on	second day of first test against South Africa at Centurion Park Friday	LOCATION	ORDINAL
+1.0	Ntini	high to	square leg	PERSON	0
+1.0	three wicket	fall to	hook shot	0	0
+1.0	he	hook ntini to	straight Hashim Amla	0	PERSON
+1.0	his	have	wicket	O	O
+1.0	Kaneria	fall to	catch	0	0
+1.0	pull	top-edge hook off	Makhaya Ntini	0	PERSON
+1.0	Pakistan	pull shot on	day of test against South Africa at Centurion Park Friday	LOCATION	DATE
+1.0	danish Kaneria	fall to	routine catch at second slip	0	ORDINAL
+1.0	balls	have	made	O	O
+1.0	trend	continue at_time	Friday	0	DURATION
+1.0	Test	have	day	DATE	O
+1.0	South Africa at Centurion Park Friday	could in	could have worse trouble	LOCATION	0
+1.0	Makhaya Ntini	take	five	PERSON	NUMBER
+1.0	his	have	bowling	O	O
+1.0	three wicket	fall on	first day	0	ORDINAL
+0.9459329802259339	he	edge khan at	second slip	0	ORDINAL
+1.0	Inzamam	be in	out fourth	PERSON	ORDINAL
+1.0	pull	top-edge	hook	0	0
+1.0	Ntini	high to	leg	PERSON	0
+1.0	Rana Naved-ul-Hasan	immediately hook after	Nazir 's dismissal	PERSON	PERSON
+1.0	De Villiers	follow in	in Asif next	PERSON	PERSON
+1.0	Rana Naved-ul-Hasan	be dismissal of	Nazir	PERSON	PERSON
+1.0	tall Mohammad Asif	gain	prodigious swing	PERSON	0
+1.0	bowling	have	hold	O	O
+1.0	Makhaya Ntini	take	he fifth wicket	PERSON	ORDINAL
+1.0	Amla	land over	boundary for batsman	PERSON	0
+1.0	Rana Naved-ul-Hasan	immediately hook	Ntini high to leg	PERSON	PERSON
+1.0	Kaneria	fall to	routine catch at slip	0	0
+1.0	Pakistan	pull shot on	second day of first test	LOCATION	ORDINAL
+1.0	Pakistan	pull shot on	second day of test	LOCATION	DATE
+1.0	Amla	take	diving catch	PERSON	0
+1.0	Amla	take	spectacular diving catch	PERSON	0
+1.0	The tall Mohammad Asif	dismiss	south african opener	PERSON	0
+1.0	danish Kaneria	fall to	catch at slip	0	0
+1.0	His	have	ball	O	O
+1.0	Kaneria	fall to	routine catch at second slip	0	ORDINAL
+1.0	Pakistan	self-destruct in	morning 's play	LOCATION	TIME
+1.0	Nazir	have	dismissal	O	PERSON
+1.0	Makhaya Ntini	take	he five-wicket haul	PERSON	0
+1.0	Naved-ul-Hasan	be	man hook	0	0
+1.0	trend	continue with	captain Inzamam-ul-Haq	0	PERSON
+1.0	tall Mohammad Asif	gain	swing	PERSON	0
+1.0	Pakistan	pull	shot	LOCATION	0
+1.0	Kaneria	fall to	catch at second slip	0	ORDINAL
+1.0	Pakistan	pull shot on	second day of test against South Africa at Centurion Park Friday	LOCATION	DATE
+1.0	Makhaya Ntini	have	top-edged	O	PERSON
+1.0	Rana Naved-ul-Hasan	hook	Ntini high	PERSON	PERSON
+1.0	Rana Naved-ul-Hasan	hook after	Nazir 's dismissal	PERSON	PERSON
+1.0	their	have	batmen	O	O
+1.0	pull	top-edge	attempt hook	0	0
+1.0	15	have	innings	O	NUMBER
+1.0	Makhaya Ntini	take	he 16th haul	PERSON	ORDINAL
+1.0	Amla	land over	boundary	PERSON	0
+1.0	Pakistan	pay penalty with	hook	LOCATION	0
+1.0	De Villiers	follow in	in Asif	PERSON	PERSON
+1.0	wicket	fall to	hook shot	0	0
+1.0	Makhaya Ntini	take	he 16th five-wicket haul	PERSON	ORDINAL
+1.0	wicket	fall on	day	0	DURATION
+1.0	Naved-ul-Hasan	be	seventh man hook	0	ORDINAL
+0.9459329802259339	he	edge	out Khan	0	PERSON
+1.0	South Africa	start	they inning	LOCATION	0
+1.0	Pakistan	pull shot on	second day	LOCATION	DATE
+1.0	danish Kaneria	fall to	catch at second slip	0	ORDINAL
+1.0	Pakistan	pull shot on	day of test against South Africa	LOCATION	DATE
+0.3243315741559112	attempt hook	pull to	mid	0	0
+0.3243315741559112	hook	pull to	mid	0	0
+1.0	Rana Naved-ul-Hasan	hook	Ntini high to leg	PERSON	PERSON
+1.0	South Africa at Centurion Park Friday	could in	could have trouble	LOCATION	0
+1.0	Inzamam	be in	fourth	PERSON	ORDINAL
+1.0	Pakistan	pull shot on	day	LOCATION	DATE
+1.0	Makhaya Ntini	take	he haul	PERSON	0
+1.0	Rana Naved-ul-Hasan	immediately hook	Ntini high	PERSON	PERSON
+1.0	71 run	lose	five wicket	NUMBER	NUMBER
+1.0	Pakistan	pull shot on	second day of first test against South Africa	LOCATION	ORDINAL
+1.0	could have several time	be in	hit-or-miss inning of 15	0	NUMBER
+1.0	wicket	fall on	first day	0	ORDINAL
+1.0	The tall Mohammad Asif	dismiss cheaply both	south african opener	PERSON	0
+1.0	Makhaya Ntini	take	he wicket	PERSON	0
+1.0	Mohammad Asif	gain	prodigious swing	PERSON	0
+1.0	Graeme Smith	be	south African	PERSON	MISC
+0.9459329802259339	he	edge	Khan	0	PERSON
+1.0	day	have	fourth	ORDINAL	DATE
+1.0	Nazir	after	dismissal	PERSON	0
+1.0	Makhaya Ntini	pull	shot	PERSON	0
+1.0	danish Kaneria	fall to	routine catch	0	0
+1.0	three wicket	fall on	day	0	DURATION
+1.0	Inzamam	be in	out for 42 fourth	PERSON	NUMBER
+1.0	Pakistan	pull shot on	day of first test against South Africa	LOCATION	ORDINAL

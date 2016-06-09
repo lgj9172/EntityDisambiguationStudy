@@ -1,0 +1,143 @@
+1.0	coast	have	restored	O	O
+1.0	Thailand	have	link	O	LOCATION
+1.0	user	avoid	non-essential activity	0	0
+1.0	Telephone	be	severely disrupt	0	0
+1.0	business	reopen after	break	0	0
+1.0	ship	have	send back to port	0	DURATION
+1.0	capacity	have	percent	PERCENT	O
+1.0	many Internet link	have	have restore off Taiwan 's coast Tuesday	MISC	DATE
+1.0	many Internet link	have	have restore since 7.1-magnitude quake	MISC	0
+1.0	line	be	50 percent	0	PERCENT
+1.0	Internet link	have	have restore since 7.1-magnitude quake last Tuesday	MISC	DATE
+1.0	ship	have	send for repair of its own	0	DURATION
+1.0	Telephone	severely disrupt	Internet traffic in many part of Asia	0	MISC
+1.0	Taiwan	have	operator	O	LOCATION
+1.0	Thailand	have	main link	LOCATION	0
+1.0	many Internet link	have	have restore since 7.1-magnitude quake last Tuesday	MISC	DATE
+1.0	ship	be send for	urgent repair of its own	0	DURATION
+1.0	ship	have	send	0	0
+1.0	ship	be expect	action	0	DURATION
+1.0	Internet email congestion	have	warned	O	O
+1.0	many Internet link	have	have restore	MISC	0
+1.0	many Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast	MISC	LOCATION
+1.0	access	remain	slow in area	0	0
+1.0	effort	have ease	some of communication woe	0	0
+1.0	ship	be send back for	repair of its own	0	DURATION
+1.0	worker	repair	undersea cable hit last week	0	DATE
+1.0	Internet link	have	have restore off Taiwan 's coast	MISC	LOCATION
+1.0	it	urge	user	0	0
+1.0	Taiwan	off	coast	LOCATION	0
+1.0	Taiwan	have	largest operator	LOCATION	DATE
+1.0	effort	have ease	some	0	0
+1.0	own	have	repairs	O	O
+0.504478467373967	internet link	cut to	South Korea	0	LOCATION
+1.0	Internet link	have	have restore since quake off Taiwan 's coast Tuesday	MISC	DATE
+1.0	access	remain	slow in many area	0	0
+1.0	ship	be send for	repair of its own	0	DURATION
+1.0	Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	email	those with	large file such image	0	0
+1.0	Internet traffic	be in	many part of Asia	MISC	LOCATION
+1.0	Internet link	have	have restore since 7.1-magnitude quake	MISC	0
+1.0	line	be	50 percent of level	0	PERCENT
+1.0	Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast	MISC	LOCATION
+1.0	many Internet link	have	have restore since quake last Tuesday	MISC	DATE
+1.0	many Internet link	have	have restore since 7.1-magnitude quake Tuesday	MISC	DATE
+1.0	ship	have	send back for repair of its own	0	DURATION
+1.0	ship	have	send back to port for repair	0	DURATION
+1.0	Internet link	have	have restore off Taiwan 's coast Tuesday	MISC	DATE
+1.0	business	reopen at_time	last Tuesday	0	DATE
+1.0	Suthas Lertnapapan	president for	international network at CAT Telecom	PERSON	ORGANIZATION
+1.0	authority	warn of	internet congestion	0	0
+1.0	networks	have	routing	O	O
+1.0	worker	repair	undersea cable	0	0
+1.0	ship	have	send for urgent repair	0	DURATION
+1.0	Internet access	be in	Thailand	MISC	LOCATION
+1.0	Internet link	have	have restore Tuesday	MISC	DATE
+1.0	Chunghwa Telecom	have	service	O	O
+1.0	China Telecom	have	voice service	ORGANIZATION	0
+1.0	many Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast Tuesday	MISC	DATE
+1.0	effort	have ease	some of communication woe however	0	0
+1.0	ship	be send for	urgent repair	0	DURATION
+1.0	spots	have	repair	O	O
+1.0	ship	have	send for repair	0	DURATION
+1.0	Voice line	be to	normal	0	0
+1.0	levels	have	percent	PERCENT	O
+1.0	Internet link	have	have restore	MISC	0
+1.0	many Internet link	have	have restore since quake off Taiwan 's coast	MISC	LOCATION
+1.0	repair ships	have	fault	O	O
+1.0	many Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	ship	have	send back for urgent repair of its own	0	DURATION
+1.0	ship	be	send back to port for urgent repair	0	DURATION
+1.0	communication authority cat	say in	Bangkok	0	LOCATION
+1.0	Internet link	have	have restore since quake	MISC	0
+1.0	effort	have ease	some communication woe	0	0
+1.0	ship	have	send back	0	DURATION
+1.0	Telephone	be	disrupt	0	0
+1.0	worker	repair	undersea cable hit by quake last week	0	DATE
+1.0	Internet link	have	have restore since quake last Tuesday	MISC	DATE
+1.0	ship	have	send back to port for repair of its own	0	DURATION
+1.0	Taiwan	's operator be	Chunghwa Telecom	LOCATION	ORGANIZATION
+1.0	many Internet link	have	have restore off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	Internet link	have	have restore since 7.1-magnitude quake Tuesday	MISC	DATE
+1.0	January	have	end	DATE	DATE
+1.0	The ship	have	own	O	O
+1.0	worker	repair	undersea cable hit by quake	0	0
+1.0	email	will take	time	0	0
+1.0	ship	be send back for	urgent repair of its own	0	DURATION
+1.0	email	will take	longer time	0	0
+1.0	Hong Kong	have	Office	ORGANIZATION	ORGANIZATION
+1.0	communication woes	have	some	O	O
+1.0	ship	have	send back to port for urgent repair	0	DURATION
+1.0	ship	be	send	0	0
+1.0	ship	be	send back	0	DURATION
+1.0	many Internet link	have	have restore since quake	MISC	0
+1.0	ship	have	send back for repair	0	DURATION
+1.0	ship	have	send back to port for urgent repair of its own	0	DURATION
+1.0	Beijing Times	report at_time	Monday	ORGANIZATION	DATE
+1.0	many Internet link	have	have restore last Tuesday	MISC	DATE
+1.0	Internet link	have	have restore off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	Internet link	have	have restore since quake off Taiwan 's coast	MISC	LOCATION
+1.0	effort	have ease	some communication woe however	0	0
+1.0	many Internet link	have	have restore since quake off Taiwan 's coast Tuesday	MISC	DATE
+1.0	Telephone	severely disrupt	Internet traffic in part of Asia	0	MISC
+1.0	many Internet link	have	have restore since quake Tuesday	MISC	DATE
+1.0	scene	be with	first	0	ORDINAL
+1.0	many Internet link	have	have restore Tuesday	MISC	DATE
+1.0	ship	be send for	repair	0	DURATION
+1.0	Internet link	have	have restore since 7.1-magnitude quake off Taiwan 's coast Tuesday	MISC	DATE
+1.0	ship	be	send back to port for urgent repair of its own	0	DURATION
+1.0	ship	be expect	action for week	0	DURATION
+1.0	ship	have	send back for urgent repair	0	DURATION
+0.504478467373967	internet link	totally cut to	South Korea	0	LOCATION
+1.0	worker	repair	undersea cable hit by quake week	0	DATE
+1.0	Telephone	disrupt	Internet traffic in part of Asia	0	MISC
+1.0	business	reopen after	festive break	0	0
+1.0	email	will take time than	destination	0	0
+1.0	authority	be in	Hong Kong	0	LOCATION
+1.0	ship	be	send back to port	0	DURATION
+1.0	Luzon Strait	be between	Taiwan 's	LOCATION	LOCATION
+1.0	ship	have	send for urgent repair of its own	0	DURATION
+1.0	Deputy manager	estimate	repair	0	0
+1.0	Voice line	be to	back normal	0	0
+1.0	ship	be	expect	0	0
+1.0	ship	be send back for	urgent repair	0	DURATION
+1.0	Telephone	disrupt	Internet traffic in many part of Asia	0	MISC
+1.0	service	have	much	O	O
+1.0	many Internet link	have	have restore off Taiwan 's coast	MISC	LOCATION
+1.0	Taiwan	have	coast	O	LOCATION
+1.0	ship	be send back for	repair	0	DURATION
+1.0	Asia	have	parts	O	LOCATION
+1.0	ship	be	send back to port for repair of its own	0	DURATION
+1.0	ship	be	send back to port for repair	0	DURATION
+1.0	Internet link	have	have restore last Tuesday	MISC	DATE
+1.0	worker	repair	undersea cable hit	0	0
+1.0	Internet link	have	have restore since quake Tuesday	MISC	DATE
+1.0	China Telecom	have	voice services	O	ORGANIZATION
+1.0	Internet link	have	have restore since quake off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	email	will take time than	usual destination	0	0
+1.0	Deputy general manager	estimate	repair	0	0
+1.0	worker	repair	undersea cable hit week	0	DATE
+1.0	line	be	50 percent of normal level	0	PERCENT
+1.0	many Internet link	have	have restore since quake off Taiwan 's coast last Tuesday	MISC	DATE
+1.0	Hong Kong authority	say in	statement	LOCATION	0
+1.0	Telecommunications Authority	have	Office	ORGANIZATION	ORGANIZATION

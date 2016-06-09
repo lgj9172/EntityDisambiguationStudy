@@ -1,0 +1,113 @@
+1.0	hundred	gather in	Beirut Wednesday	0	DATE
+1.0	protester	begin	arrive morning amid security by police guard	0	TIME
+1.0	protester	begin	arrive morning outside electricity ministry	0	TIME
+1.0	investment	hike tax by	two percent	0	PERCENT
+1.0	protester	begin	arrive outside electricity ministry amid security	0	0
+1.0	protester	begin	arrive amid security by police guard	0	0
+1.0	protester	arrive amid	tight security	0	0
+1.0	protester	begin	arrive late morning outside electricity ministry amid security	0	TIME
+1.0	labor union protest	have	day	DATE	O
+1.0	government	have	plan	O	O
+1.0	demonstration	be organize by	200,000 strong Federation of Labor union	0	NUMBER
+1.0	reforms	have	cost	O	O
+1.0	government	against	plan for economic reform	0	0
+1.0	opposition	accuse	those in power	0	0
+0.4748201593110141	reform plan	approve by	western-backed government	0	0
+0.4748201593110141	reform plan	approve by	western-backed government ahead donor conference	0	0
+1.0	protester	begin	arrive late morning outside electricity ministry	0	TIME
+1.0	population	be	to which have reduce after six week of impasse	0	DURATION
+1.0	protester	begin	arrive outside electricity ministry amid tight security by police guard	0	0
+1.0	people	have	discontent	O	O
+1.0	protester	arrive by	police guard	0	0
+1.0	protester	begin	arrive morning outside electricity ministry amid security by police guard	0	TIME
+0.4748201593110141	reform plan	approve by	government donor conference	0	0
+1.0	Fuad Siniora	by	government	PERSON	0
+1.0	protester	begin	arrive amid tight security	0	0
+1.0	hundred	gather for	second day of labor union protest	0	DATE
+1.0	protester	begin	arrive amid tight security by police guard	0	0
+1.0	demonstration	be organize by	Federation	0	ORGANIZATION
+1.0	small crowd	be in	comparison with pair of massive opposition rally	0	0
+1.0	press	highlight	relatively small crowd	0	0
+1.0	Labor Unions	have	Federation	ORGANIZATION	ORGANIZATION
+1.0	Prime Minister Fuad Siniora 's government	have	majority	O	O
+1.0	hundred	gather in	central Beirut Wednesday	0	DATE
+1.0	protester	begin	arrive morning by police guard	0	TIME
+1.0	protester	begin	arrive outside electricity ministry amid tight security	0	0
+1.0	protester	begin	arrive late morning outside electricity ministry amid security by police guard	0	TIME
+1.0	protester	begin	arrive outside electricity ministry amid security by police guard	0	0
+1.0	protester	begin	arrive late morning amid security	0	TIME
+1.0	protester	arrive at_time	morning	0	TIME
+1.0	people	demonstrate outside	finance ministry	0	0
+1.0	population	be	to which have reduce after six week	0	DURATION
+1.0	impasse	have	weeks	DURATION	O
+1.0	protester	begin	arrive late morning amid tight security	0	TIME
+1.0	protester	begin	arrive late morning by police guard	0	TIME
+1.0	people	demonstrate around	1,000	0	NUMBER
+1.0	protester	begin	arrive morning amid tight security	0	TIME
+1.0	weariness	have	state	O	O
+1.0	protester	begin	arrive	0	0
+0.4748201593110141	reform plan	approve by	western-backed government international donor conference	0	0
+1.0	population	be	to which have reduce	0	0
+1.0	investment	privatize	service sector	0	0
+1.0	lebanese press	highlight	relatively small crowd	0	0
+0.4748201593110141	reform plan	approve by	western-backed government donor conference	0	0
+1.0	lebanese press	highlight	small crowd	0	0
+1.0	protester	begin	arrive late morning outside electricity ministry amid tight security	0	TIME
+1.0	protester	arrive amid	security	0	0
+0.503548576754184	Paris III donor conference	schedule for	January 25	LOCATION	DATE
+1.0	hundred	gather against	government 's plan for reform	0	0
+1.0	protester	begin	arrive morning amid tight security by police guard	0	TIME
+1.0	thousand	converge on	capital	0	0
+0.4748201593110141	reform plan	approve by	government ahead donor conference	0	0
+1.0	press	highlight	small crowd	0	0
+1.0	protester	begin	arrive amid security	0	0
+0.4748201593110141	reform plan	approve by	western-backed government ahead international donor conference	0	0
+1.0	thousand	converge in	bid	0	0
+1.0	people	express	they discontent	0	0
+1.0	protester	begin	arrive morning	0	TIME
+1.0	hundred	gather against	government 's plan	0	0
+1.0	Prime Minister Fuad Siniora	have	government	O	PERSON
+1.0	hundred	gather against	government 's plan for economic reform	0	0
+1.0	thousand	converge at_time	last month	0	DATE
+0.4748201593110141	reform plan	approve by	government ahead international donor conference	0	0
+1.0	protester	begin	arrive morning outside electricity ministry by police guard	0	TIME
+1.0	change	be in	government	0	0
+1.0	protester	begin	arrive late morning amid tight security by police guard	0	TIME
+1.0	opposition rallies	have	pair	O	O
+1.0	protester	begin	arrive late morning	0	TIME
+1.0	demonstration	be organize by	200,000 strong Federation	0	NUMBER
+1.0	protester	begin	arrive late morning outside electricity ministry amid tight security by police guard	0	TIME
+1.0	population	be	have reduce	0	0
+1.0	protester	begin	arrive morning outside electricity ministry amid tight security by police guard	0	TIME
+1.0	donors conference	have	government	O	O
+1.0	hundred	gather for	second day	0	DATE
+1.0	protester	begin	arrive morning outside electricity ministry amid security	0	TIME
+1.0	protester	begin	arrive by police guard	0	0
+1.0	protester	begin	arrive morning amid security	0	TIME
+1.0	demonstration	be	organize	0	0
+1.0	investment	hike	tax	0	0
+1.0	hundred	gather for	day of labor union protest	0	DATE
+1.0	lebanese press	highlight	crowd	0	0
+1.0	demonstrators	have	Hundreds	O	O
+1.0	people	demonstrate at_time	Tuesday	0	DATE
+1.0	demonstration	be	support	0	0
+1.0	population	be	have reduce after six week	0	DURATION
+1.0	protesters	have	thousands	O	O
+1.0	protester	arrive outside	electricity ministry	0	0
+1.0	investment	hike	value-added tax	0	0
+1.0	comparison	be with	pair of massive opposition rally	0	0
+1.0	protester	begin	arrive late morning outside electricity ministry by police guard	0	TIME
+1.0	protester	begin	arrive morning outside electricity ministry amid tight security	0	TIME
+1.0	population	be	have reduce after six week of impasse	0	DURATION
+1.0	protester	begin	arrive outside electricity ministry	0	0
+0.4748201593110141	reform plan	approve by	government international donor conference	0	0
+1.0	press	highlight	crowd	0	0
+1.0	demonstration	be organize by	Federation of Labor union	0	ORGANIZATION
+1.0	protester	begin	arrive late morning amid security by police guard	0	TIME
+1.0	protester	arrive at_time	late morning	0	TIME
+1.0	opposition	accuse	those	0	0
+1.0	L'Orient Le-Jour	be	french-language	PERSON	0
+1.0	thousand	converge at_time	month	0	DATE
+1.0	hundred	gather for	day	0	DATE
+0.4748201593110141	reform plan	approve by	government	0	0
+1.0	protester	begin	arrive outside electricity ministry by police guard	0	0

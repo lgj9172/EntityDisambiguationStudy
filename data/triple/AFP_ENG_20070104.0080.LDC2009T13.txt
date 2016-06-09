@@ -1,0 +1,8 @@
+1.0	capital	have	streets	O	O
+1.0	medic	say	security official	0	0
+1.0	Baghdad	have	Mansour district	O	LOCATION
+1.0	Baghdad	at	Yarmuk hospital	LOCATION	LOCATION
+1.0	place	be in	mainly sunni district	0	0
+1.0	Baghdad	in	upscale Mansour district	LOCATION	LOCATION
+1.0	Baghdad	have	Yarmuk hospital	O	LOCATION
+1.0	gas station	be in	western Baghdad 's upscale Mansour district	0	LOCATION

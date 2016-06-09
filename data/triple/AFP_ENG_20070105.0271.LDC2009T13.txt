@@ -1,0 +1,67 @@
+1.0	drug	have	half of he trademark moustache	0	0
+1.0	film	have receive review from	press follow preview screening	0	0
+1.0	Charlie Chaplin	of	satirical masterpiece	PERSON	0
+1.0	audience	have	members	O	O
+1.0	that	appear at	german	0	0
+1.0	The British newspaper the Daily Telegraph said members of the audience	lack	punch of Charlie Chaplin 's masterpiece	0	PERSON
+1.0	Daily Telegraph	say	member of audience	ORGANIZATION	0
+1.0	Levy	have	film	O	PERSON
+1.0	drug	fail	make	0	0
+1.0	Daily Telegraph	say	member	ORGANIZATION	0
+1.0	Charlie Chaplin	have	masterpiece	O	PERSON
+1.0	film	have receive review from	local press follow preview screening in Berlin	0	LOCATION
+1.0	solidarity	have	great	O	O
+1.0	film	have receive review from	local press follow preview screening month	0	DATE
+1.0	film	have receive review from	local press follow preview screening	0	0
+1.0	depression	have	fog	O	O
+1.0	film	have receive review from	press follow preview screening in Berlin month	0	LOCATION
+1.0	film	have receive review from	press	0	0
+1.0	drug	play with	plastic battleship	0	0
+1.0	dictator	be show along	way	0	0
+1.0	actor	have	story	O	O
+1.0	Hitler	be in	new comedy depict as bed-wetting	PERSON	0
+1.0	Hitler	into	twisted psyche	PERSON	0
+1.0	drug	play with	battleship	0	0
+1.0	Helge Schneider	have	Fuehrer	O	O
+1.0	Eva Braun	happy in	bed	PERSON	0
+1.0	film	have receive review from	local press	0	0
+1.0	film	have receive	review	0	0
+1.0	drug	play with	plastic battleship in bathtub	0	0
+1.0	his	have	oratory talents	O	O
+0.5997756817265586	The British newspaper the Daily Telegraph said members of the audience	punch of	Charlie Chaplin 's satirical masterpiece	0	PERSON
+1.0	Adolf Hitler	have	trademark moustache	O	O
+1.0	dictator	be	show	0	0
+1.0	bed-wetting	weakling on	Friday	0	DATE
+0.822902484547225	The movie	hair	comedian	0	0
+1.0	Joseph Goebbels	be by	nazi	PERSON	0
+1.0	that	appear at	last german	0	0
+1.0	film	have receive	mixed review	0	0
+1.0	Levy	have	film	PERSON	0
+1.0	My	have	Fuehrer	O	O
+0.6077979669577646	have	half of	he trademark moustache	0	0
+1.0	director Dany Levy	have	caper	O	PERSON
+1.0	masterpiece	have	punch	O	O
+1.0	Germany	have	hour	LOCATION	DURATION
+1.0	comedy	be tragedy plus	time	0	0
+1.0	solidarity	be with	director	0	0
+1.0	drug	play with	battleship in bathtub	0	0
+1.0	comedy	be	tragedy	0	0
+1.0	drug	have	half	0	0
+0.5997756817265586	The British newspaper the Daily Telegraph said members of the audience	punch of	Charlie Chaplin 's masterpiece	0	PERSON
+1.0	Hitler	have	psyche	O	PERSON
+1.0	his	have	childhood	O	O
+1.0	The British newspaper the Daily Telegraph said members of the audience	lack	punch of Charlie Chaplin 's satirical masterpiece	0	PERSON
+1.0	New Year	have	Day	DATE	DATE
+1.0	The British newspaper the Daily Telegraph said members of the audience	lack	punch	0	0
+1.0	The British newspaper the Daily Telegraph said members of the audience	lack punch from	1940	0	DATE
+1.0	film	have receive review from	press follow preview screening in Berlin	0	LOCATION
+1.0	film	have receive review from	press follow preview screening month	0	DATE
+1.0	trademark moustache	have	half	O	O
+1.0	Germany	have	hour	DURATION	LOCATION
+0.642145695486394	Daily Telegraph	member of	audience	ORGANIZATION	0
+1.0	Joseph Goebbels	be to	Hitler	PERSON	PERSON
+1.0	concentration camp	have	taken	O	O
+1.0	caper	have	said	O	O
+1.0	film	have receive review from	local press follow preview screening in Berlin month	0	LOCATION
+1.0	that	appear	ready	0	0
+1.0	plastic battleship	be in	bathtub	0	0

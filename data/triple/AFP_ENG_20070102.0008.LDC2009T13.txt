@@ -1,0 +1,139 @@
+1.0	Strauss	be on	when 21	PERSON	NUMBER
+1.0	Andrew Strauss	be in	15th over drop earlier	PERSON	ORDINAL
+1.0	play	accommodate	day 's quota of over	0	DATE
+1.0	Ian Bell	scamper in	nine inning in series	PERSON	NUMBER
+1.0	England	face	prospect of ash series whitewash	LOCATION	0
+1.0	England	face	prospect of ash series whitewash in 86 year	LOCATION	DURATION
+1.0	test	get away after	morning rain	0	TIME
+1.0	Andrew Strauss	be in	15th over drop two over earlier	PERSON	ORDINAL
+1.0	he wicket	catch behind	behind inside-edge	0	0
+1.0	sweep	have	ignominy	O	O
+1.0	Australia	have	opening partnership	O	LOCATION
+1.0	run	hard	score against persistent bowling	0	NUMBER
+1.0	nine inning	be in	series	NUMBER	0
+1.0	cricket	be farewel	test great	0	0
+1.0	Andrew Strauss	be in	out 15th over drop	PERSON	ORDINAL
+1.0	openers Andrew Strauss	have	loss	O	PERSON
+1.0	Shane Warne	have	scampered	O	PERSON
+1.0	McGrath	get	ball	0	0
+1.0	England	be	at tea 149 for two with Bell unbeaten	LOCATION	NUMBER
+1.0	Ian Bell	have	half-century	O	O
+1.0	cook	fall over	over lunch	0	0
+1.0	score	have	life	O	O
+1.0	the Australian bowlers	have	bowling rhythm	O	O
+1.0	Pietersen	be on	36	PERSON	NUMBER
+1.0	England	face	prospect	LOCATION	0
+1.0	they	put on	91-run stand after loss of opener Andrew Strauss	0	PERSON
+1.0	two overs	have	quota	O	O
+1.0	Ian Bell	hit	defiant half-century	PERSON	0
+1.0	Ian Bell	hit	unbeaten half-century	PERSON	0
+1.0	Ian Bell	lead	England fightback on opening day of fifth	PERSON	DURATION
+1.0	run	score on	pitch	0	0
+1.0	they	put on	unbroken 91-run stand after loss of opener Andrew Strauss	0	PERSON
+1.0	the day	have	quota of over	DATE	0
+1.0	Cook	have	wicket	O	O
+1.0	Justin Langer	have	poor start	PERSON	0
+1.0	have match-winner	be in	golden era of australian cricket	0	0
+1.0	Strauss , who has scored only one half-century in nine innings in the series	have	off-stump	O	O
+1.0	England	find	run hard	LOCATION	0
+1.0	Justin Langer	have	105th	O	O
+1.0	series	have	wicket	O	O
+1.0	John Buchanan	be by	australian	PERSON	0
+1.0	Andrew Strauss	be in	15th over drop	PERSON	ORDINAL
+1.0	run	hard	score on pitch	0	NUMBER
+0.7972606605191824	face	prospect of	ash series whitewash	0	0
+1.0	they	put on	stand after loss	0	0
+1.0	Ian Bell	scamper off	Shane Warne for he half-century	PERSON	PERSON
+1.0	run	hard	score against persistent australian bowling	0	NUMBER
+1.0	Ashes cricket Test	have	opening day	DURATION	O
+1.0	Ian Bell	lead	England fightback	PERSON	LOCATION
+1.0	Ian Bell	find partner in	Kevin Pietersen	ORGANIZATION	PERSON
+1.0	he wicket	catch behind	behind inside-edge for 20	0	NUMBER
+1.0	Ian Bell	lead	stubborn England fightback	PERSON	LOCATION
+1.0	run	score against	persistent australian bowling	0	0
+1.0	England	face	prospect of first ash series whitewash in 86 year	LOCATION	DURATION
+1.0	cricket	have	era	O	O
+1.0	Shane Warne for his fourth half-century	be	McGrath	PERSON	PERSON
+1.0	they	put on	unbroken 91-run stand after loss	0	0
+1.0	Ricky Ponting 's team	have	chance	PERSON	0
+1.0	Ricky Ponting	have	team	O	PERSON
+1.0	they	put on	unbroken stand	0	0
+1.0	Ian Bell	lead	stubborn England fightback on opening day	PERSON	DURATION
+1.0	Ian Bell	lead england fightback at	Sydney Cricket Ground	PERSON	LOCATION
+1.0	opening partnership	have	Langer forms part	O	O
+1.0	run	hard	score against bowling	0	NUMBER
+1.0	Adam Gilchrist	be for	29	PERSON	NUMBER
+1.0	Ian Bell	scamper off	Shane Warne for he fourth half-century	PERSON	ORDINAL
+1.0	test	get away at_time	70 minute late	0	DURATION
+1.0	they	put on	unbroken stand after loss of opener Andrew Strauss	0	PERSON
+1.0	run	hard	score against australian bowling	0	NUMBER
+1.0	play	be schedule for	later finish	0	0
+1.0	England	be	at tea 149 for two with Bell unbeaten on 58	LOCATION	NUMBER
+1.0	run	score against	persistent bowling	0	0
+1.0	Alastair Cook	have	loss	O	PERSON
+1.0	England	face	prospect of first ash series whitewash	LOCATION	ORDINAL
+1.0	Ian Bell	hit	defiant unbeaten half-century	PERSON	0
+1.0	play	be	schedule	0	0
+1.0	Ian Bell	scamper through	through single	PERSON	0
+1.0	they	put on	stand after loss of opener Andrew Strauss	0	PERSON
+0.8960873339384264	McGrath	play in	he 124th at he home ground	PERSON	0
+1.0	Ricky Ponting	have	team	PERSON	0
+0.8960873339384264	McGrath	play in	he 124th	PERSON	0
+1.0	they	put on	91-run stand	0	0
+1.0	test	get at_time	70 minute	0	DURATION
+1.0	he 22nd wicket	give	Stuart Clark	ORDINAL	PERSON
+0.9866896983748662	Pietersen on 36	accuse by	australian coach John Buchanan	PERSON	PERSON
+1.0	they	put on	91-run stand after loss	0	0
+0.7972606605191824	face	prospect of	ash series whitewash in 86 year	0	DURATION
+0.7972606605191824	face	prospect of	first ash series whitewash in 86 year	0	DURATION
+1.0	australian cricket	be farewel	test great	0	0
+1.0	first ash series whitewash	be in	86 year	ORDINAL	DURATION
+1.0	day	have	quota	O	DATE
+1.0	Ian Bell	lead	England fightback on opening day	PERSON	DURATION
+1.0	120 ball	be with	six fours	NUMBER	NUMBER
+1.0	he 22nd wicket	catch behind	behind inside-edge for 20	ORDINAL	NUMBER
+1.0	Ian Bell	scamper in	nine inning	PERSON	NUMBER
+0.7972606605191824	face	prospect of	first ash series whitewash	0	ORDINAL
+1.0	McGrath	beat	bat	PERSON	0
+1.0	Ian Bell	lead england fightback at	Sydney Cricket Ground on Tuesday	PERSON	LOCATION
+1.0	run	hard	score against bowling on pitch	0	NUMBER
+1.0	Justin Langer	have	start	PERSON	0
+1.0	play	accommodate	day 's quota	0	DATE
+1.0	Ian Bell	scamper off	Shane Warne	PERSON	PERSON
+1.0	McGrath	bowl without	luck	PERSON	0
+1.0	Ian Bell	find	partner	ORGANIZATION	0
+1.0	test	get at_time	70 minute late	0	DURATION
+1.0	English batsmen	have	scourge	O	O
+1.0	run	score against	bowling	0	0
+1.0	Test greats	have	Test retirements	O	O
+1.0	cook	fall in	third	0	ORDINAL
+1.0	Ian Bell	lead england fightback against	Australia	PERSON	LOCATION
+1.0	England	be trail	4-0	LOCATION	0
+1.0	play	be schedule for	finish	0	0
+1.0	they	put on	unbroken 91-run stand	0	0
+1.0	Ian Bell	lead	stubborn England fightback on opening day of fifth	PERSON	DURATION
+1.0	Pietersen on 36	unsettle	they bowling rhythm	0	0
+1.0	Perth Test	have	innings	O	O
+1.0	he 22nd wicket	catch behind	behind inside-edge	ORDINAL	0
+1.0	Andrew Strauss	be in	out 15th over drop two over earlier	PERSON	ORDINAL
+1.0	Ian Bell	find	willing partner	ORGANIZATION	0
+1.0	run	hard	score against persistent bowling on pitch	0	NUMBER
+1.0	Australia	of	most prolific opening partnership	LOCATION	0
+1.0	run	score against	australian bowling	0	0
+1.0	they	put on	unbroken stand after loss	0	0
+1.0	McGrath	have	124th	O	O
+1.0	Andrew Strauss	be in	out 15th over drop earlier	PERSON	ORDINAL
+1.0	run	hard	score against australian bowling on pitch	0	NUMBER
+1.0	test	get away at_time	70 minute	0	DURATION
+1.0	test	get after	morning rain	0	TIME
+1.0	McGrath	have	home ground	O	O
+1.0	they	put on	stand	0	0
+1.0	run	hard	score	0	NUMBER
+1.0	run	hard	score against persistent australian bowling on pitch	0	NUMBER
+1.0	Ian Bell	hit	half-century	PERSON	0
+1.0	have match-winner	be with	Matthew Hayden	0	PERSON
+1.0	inside-edge	have	caught	O	O
+1.0	fifth	have	opening day	DURATION	ORDINAL
+1.0	he wicket	give	Stuart Clark	0	PERSON
+0.9866896983748662	Pietersen on 36	accuse by	coach John Buchanan	PERSON	PERSON
+1.0	Ashes series whitewash	have	prospect	O	O

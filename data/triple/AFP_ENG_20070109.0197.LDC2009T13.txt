@@ -1,0 +1,54 @@
+1.0	US Olympic Committee	will put	bid host	ORGANIZATION	0
+1.0	Summer Games	will	will Beijing in 2008	DATE	DATE
+1.0	Beijing	be in	2008	LOCATION	DATE
+0.7541733175328891	decision	expect	April 14	0	DATE
+1.0	We	have	evaluation process	O	O
+1.0	its bid	leave	Chicago	0	LOCATION
+1.0	city	will submit bid presentation with	decision	0	0
+1.0	Summer Games	will	will heldin Beijing	DATE	LOCATION
+1.0	they	have narrow	field	0	0
+1.0	city	will submit	domestic bid presentation	0	0
+1.0	city	will submit bid presentation with	decision expect	0	0
+1.0	next Summer Games	will	will heldin Beijing	DATE	LOCATION
+1.0	city	will submit bid presentation with	decision expect April 14	0	DATE
+1.0	US city	be atlanta in	1996	LOCATION	DATE
+1.0	US Olympic Committee	will put forward	bid host	ORGANIZATION	0
+1.0	US city	be	Atlanta	LOCATION	LOCATION
+1.0	race	be on	still on candidate Chicago	0	LOCATION
+1.0	next Summer Games	will	will Beijing in 2008	DATE	DATE
+1.0	US Olympic Committee	will put forward	bid	ORGANIZATION	0
+1.0	Summer Games	will	will Beijing	DATE	LOCATION
+1.0	host city	be select in	October 2009	0	DATE
+1.0	committee	consider	bid	0	0
+1.0	USOC	have until	September 15	ORGANIZATION	DATE
+1.0	We	have	analysis	O	O
+1.0	race	be on	on candidate Chicago for USOC backing	0	ORGANIZATION
+1.0	its	have	application	O	O
+1.0	city	will submit bid presentation on	January 22	0	DATE
+1.0	next Summer Games	will	will heldin Beijing in 2008	DATE	DATE
+1.0	Summer Games	will	will heldin Beijing in 2008	DATE	DATE
+1.0	race	be on	still on candidate Chicago for USOC backing	0	ORGANIZATION
+1.0	next Summer Games	will	will Beijing	DATE	LOCATION
+1.0	its	have	bid	O	O
+1.0	Peter Ueberroth	be	the USOC	PERSON	LOCATION
+1.0	city	will submit bid presentation to	USOC	0	ORGANIZATION
+1.0	committee	narrow	field	0	0
+1.0	one specific goal	be in	mind	NUMBER	0
+1.0	city	will submit	bid presentation	0	0
+1.0	USOC chairman Peter Ueberroth	say in	statement	LOCATION	0
+1.0	Atlanta	be in	1996	LOCATION	DATE
+1.0	last US city	be atlanta in	1996	LOCATION	DATE
+1.0	Los Angeles	have host	Olympics	LOCATION	MISC
+1.0	race	be on	on candidate Chicago	0	LOCATION
+1.0	USOC chairman Peter Ueberroth	say on	Tuesday	LOCATION	DATE
+1.0	USOC	submit	its application	ORGANIZATION	0
+1.0	vote	have	round	O	O
+1.0	Peter Ueberroth	be chairman of	the USOC	PERSON	LOCATION
+1.0	San Francisco	withdraw	its bid	LOCATION	0
+1.0	Los Angeles	have twice host	Olympics	LOCATION	MISC
+1.0	committee	consider	bid from Chicago	0	LOCATION
+1.0	every day	be in	partnership	SET	0
+1.0	last US city	be	Atlanta	LOCATION	LOCATION
+1.0	they	have narrow field to	three	0	NUMBER
+1.0	US Olympic Committee	will put	bid	ORGANIZATION	0
+1.0	host city	be	select	0	0

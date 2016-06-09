@@ -1,0 +1,55 @@
+1.0	Bush	announce	plan	PERSON	0
+1.0	Scott Stanzel	say	spokesman	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	president	have	focus	0	0
+1.0	president	have	focus	O	O
+1.0	violence	have	much	O	O
+1.0	oust dictator	be taunt by	shiite witness in immediate	0	0
+1.0	dictator	be taunt by	shiite witness	0	0
+1.0	US official	express	worry	LOCATION	0
+0.49043618890972485	scene	widely distribute across	Middle East	0	LOCATION
+1.0	William Caldwell	spokesman for	us-led coalition in Iraq	PERSON	LOCATION
+1.0	Sadr	have	Mahdi Army militia for much of sectarian violence plague	PERSON	ORGANIZATION
+1.0	the ousted dictator	have	hanging	O	O
+1.0	oust dictator	be taunt by	witness	0	0
+0.49043618890972485	scene	distribute by	cellphone	0	0
+1.0	Saddam	have	hanging	O	PERSON
+1.0	foes	have	reference	O	O
+1.0	shiite witness	be in	immediate	0	0
+1.0	Iraq	of	judicial step	LOCATION	0
+1.0	Iraq	have	steps	O	LOCATION
+1.0	the US military and diplomatic authorities in Iraq	have	`` concerns ''	O	O
+1.0	Saddam	before	hanging	PERSON	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	dictator	be taunt by	witness in immediate	0	0
+1.0	White House	be on	Wednesday	ORGANIZATION	DATE
+1.0	dictator	be taunt by	witness	0	0
+1.0	Iraq	to	government	LOCATION	0
+1.0	oust dictator	be taunt by	witness in immediate	0	0
+1.0	violence	be in	Iraq	0	LOCATION
+1.0	dictator	be	taunt	0	0
+1.0	US official	express worry before	Saddam 's hanging	LOCATION	PERSON
+1.0	oust dictator	be	taunt	0	0
+1.0	Saddam	have	death	O	PERSON
+1.0	scene	have stir	anger	0	0
+1.0	Bush	announce	new plan	PERSON	0
+1.0	US officials	have prior	comment	0	0
+1.0	US official	express worry to	Iraq 's government	LOCATION	LOCATION
+1.0	specific step	be in	process	0	0
+0.49043618890972485	scene	widely distribute by	cellphone	0	0
+0.49043618890972485	scene	distribute across	Middle East	0	LOCATION
+1.0	leader	have	foes	O	O
+1.0	US officials	have	comment	0	0
+1.0	oust dictator	be taunt by	shiite witness	0	0
+1.0	death	have	footage	O	O
+1.0	Saddam Hussein	before	execution	PERSON	0
+1.0	us-led coalition	be in	Iraq	0	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	dictator	be taunt by	shiite witness in immediate	0	0
+1.0	present	have	one	NUMBER	DATE
+1.0	Saddam	have	neck	O	PERSON
+1.0	Scott Stanzel	be hanging of	Saddam	PERSON	PERSON
+1.0	steps	have	said	O	O
+1.0	Sadr	have	Mahdi Army militia	O	PERSON
+1.0	US embassy	be in	Baghdad	LOCATION	LOCATION
+1.0	Iraq	have	government	O	LOCATION

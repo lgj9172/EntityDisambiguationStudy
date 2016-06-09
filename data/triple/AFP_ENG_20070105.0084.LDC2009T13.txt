@@ -1,0 +1,41 @@
+1.0	he	refer to	Football Association of Singapore	0	ORGANIZATION
+0.06141471494456796	the head coach Chow	call to	let in goal	PERSON	0
+1.0	Corrupt Practices Investigation Bureau	have	Football Association	ORGANIZATION	ORGANIZATION
+1.0	he	say	refer	0	0
+0.06141471494456796	the head coach Chow	call to	let in goal for upcoming match	PERSON	0
+1.0	The manager of Singapore 's Paya Lebar-Punggol FC	meet with	goalkeeper Zulkifli Zainolabidin	0	PERSON
+1.0	Lee Thong How	tell	court	PERSON	0
+1.0	he	say	refer to Football Association	0	ORGANIZATION
+1.0	he	be on	out bail of 20,000 dollar	0	MONEY
+1.0	he	refer to	Football Association	0	ORGANIZATION
+1.0	Chow 64	convict on	accusation	NUMBER	0
+1.0	Malaysia	of	national team	LOCATION	0
+1.0	Chow 64	convict on	accusation of bribery	NUMBER	0
+1.0	Singapore	have	Football Association	ORGANIZATION	ORGANIZATION
+0.8839469543571608	Chow	former coach of	club	PERSON	0
+0.06141471494456796	the head coach Chow	call to	let in goal for match	PERSON	0
+1.0	Zulkifli	have testify at_time	Thursday	PERSON	DATE
+1.0	he	say	refer to Football Association of Singapore	0	ORGANIZATION
+1.0	Lee Thong How	be	serious	0	0
+1.0	Paya Lebar-Punggol FC	have	manager	O	ORGANIZATION
+1.0	the head coach Chow	convict on	accusation	PERSON	0
+1.0	dollars	have	bail	O	MONEY
+1.0	Singapore	of	Paya Lebar-Punggol FC	LOCATION	ORGANIZATION
+1.0	he	be on	bail of 20,000 dollar	0	MONEY
+1.0	he trial	begin at_time	Wednesday	0	DATE
+1.0	he	be on	bail	0	0
+1.0	the head coach Chow	be	64	PERSON	NUMBER
+0.06141471494456796	the head coach Chow	call to	let	PERSON	0
+1.0	team	have	ex-coach	O	O
+1.0	Chow	coach of	club	PERSON	0
+1.0	Malaysia	have	team	O	LOCATION
+1.0	the head coach Chow	convict on	accusation of bribery	PERSON	0
+1.0	His	have	trial	O	O
+1.0	bribery	have	accusation	O	O
+1.0	manager	say at_time	Friday	0	DATE
+1.0	up to five year	be in	prison	DURATION	0
+1.0	club	have	coach	O	O
+1.0	dollars	have	maximum fine	O	MONEY
+1.0	he	be on	out bail	0	0
+1.0	Singapore	have	Paya Lebar-Punggol FC	ORGANIZATION	LOCATION
+1.0	Chow Kwai Lam	have	match trial	O	LOCATION

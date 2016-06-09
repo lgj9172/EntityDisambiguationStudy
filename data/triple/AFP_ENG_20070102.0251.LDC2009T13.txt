@@ -1,0 +1,75 @@
+1.0	symphony orchestras	have	most	O	O
+1.0	former musical director	have conduct	most	0	0
+1.0	event	be	conduct for time by frenchman	0	0
+1.0	annual event	be	conduct	SET	0
+1.0	Vienna Philharmonic	have	New Year	DATE	O
+1.0	2007 concert	televise by	austrian television station orf	DATE	0
+1.0	concerts	have	celebrated	O	O
+1.0	concert	televise by	austrian television station orf	0	0
+1.0	event	year be conduct for	first time	0	ORDINAL
+1.0	event	be	conduct for first time by frenchman	0	ORDINAL
+1.0	event	be conduct by	frenchman	0	0
+1.0	celebrated	have	one	NUMBER	O
+1.0	annual event	one of	most celebrated	SET	0
+1.0	annual event	year be conduct for	time	SET	0
+1.0	event	be	next year conduct for time by frenchman	0	DATE
+1.0	annual event	year be conduct by	frenchman	SET	0
+1.0	2007 concert	be lead for	time	DATE	0
+1.0	event	year be conduct for	time	0	0
+1.0	world	have	symphony orchestras	O	O
+1.0	event	be	next year conduct	0	DATE
+1.0	event	be	conduct	0	0
+1.0	concert	be lead for	fourth time	0	ORDINAL
+1.0	former musical director	have conduct	most of world 's symphony orchestra	0	0
+1.0	world	of	great symphony orchestra	0	0
+1.0	annual event	be	next year conduct	SET	DATE
+1.0	concert	be lead for	time	0	0
+1.0	event	be	next year conduct for first time by frenchman	0	ORDINAL
+1.0	touch	have	elegance	O	O
+1.0	2007 concert	be	lead	DATE	0
+1.0	event	be conduct for	time	0	0
+1.0	2007 concert	be lead for	fourth time	DATE	ORDINAL
+1.0	annual event	year be conduct for	first time	SET	ORDINAL
+1.0	annual event	be	conduct for first time by frenchman	SET	ORDINAL
+1.0	Strauss family	have	members	O	O
+1.0	former director	have conduct	most	0	0
+1.0	New Year	have	Day concert	O	DATE
+1.0	Georges Pretre	have	person	O	PERSON
+1.0	french conductor	be in	person of Georges Pretre	0	PERSON
+1.0	former musical director	have conduct	most of world 's great symphony orchestra include Vienna Philharmonic	0	ORGANIZATION
+1.0	event	year be conduct by	Georges Pretre	0	PERSON
+1.0	annual event	be conduct by	Georges Pretre	SET	PERSON
+1.0	annual event	be	next year conduct for time by frenchman	SET	DATE
+1.0	2007 concert	televise by	television station orf	DATE	0
+1.0	former director	have conduct	most of world 's great symphony orchestra	0	0
+1.0	opera legend Maria Callas	have	confidant	O	PERSON
+1.0	popular classical music concert	be in	world	0	0
+1.0	Vienna Philharmonic	have	New Year 's day	0	DATE
+1.0	annual event	year be conduct by	Georges Pretre	SET	PERSON
+1.0	former director	have conduct	most of world 's symphony orchestra	0	0
+1.0	former musical director	have conduct	most of world 's symphony orchestra include Vienna Philharmonic	0	ORGANIZATION
+1.0	former director	have conduct	most include Vienna Philharmonic	0	ORGANIZATION
+1.0	former director	have conduct	most of world 's great symphony orchestra include Vienna Philharmonic	0	ORGANIZATION
+1.0	Vienna	have	Neujahrskonzert	O	LOCATION
+1.0	Pretre	be	82-year-old	PERSON	DURATION
+1.0	Vienna	have	annual Neujahrskonzert	LOCATION	SET
+1.0	annual event	be conduct for	time	SET	0
+1.0	former director	have conduct	most of world 's symphony orchestra include Vienna Philharmonic	0	ORGANIZATION
+1.0	Paris Opera	have	director	O	ORGANIZATION
+1.0	concert	be	lead	0	0
+1.0	Bulgaria	have	entry	O	LOCATION
+1.0	event	be conduct by	Georges Pretre	0	PERSON
+1.0	annual event	be	conduct for time by frenchman	SET	0
+1.0	annual event	be conduct by	frenchman	SET	0
+1.0	orf	be by	austrian	0	0
+1.0	former musical director	have conduct	most of world 's great symphony orchestra	0	0
+1.0	50 million	have	audience	O	NUMBER
+1.0	event	be conduct for	first time	0	ORDINAL
+1.0	Philharmonic spokesman	tell	afp	ORGANIZATION	0
+1.0	annual event	be	next year conduct for first time by frenchman	SET	ORDINAL
+1.0	annual event	be conduct for	first time	SET	ORDINAL
+1.0	organizer	say at_time	Tuesday	0	DATE
+1.0	concert	televise by	television station orf	0	0
+1.0	former musical director	have conduct	most include Vienna Philharmonic	0	ORGANIZATION
+1.0	event	year be conduct by	frenchman	0	0
+1.0	Romania	have	entry	O	LOCATION

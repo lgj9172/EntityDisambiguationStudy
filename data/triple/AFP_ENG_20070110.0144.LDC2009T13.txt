@@ -1,0 +1,95 @@
+1.0	people	be catholics about	six million of Vietnam 's 84 million	0	NUMBER
+1.0	thaw	be in	relation	0	0
+1.0	tense relation	be with	previous pope	0	0
+1.0	2005	congratulate	Pope Benedict XVI in the next few weeks	0	PERSON
+1.0	Vietnam	have	establishment	O	LOCATION
+1.0	observer	have note	thaw	0	0
+1.0	tour	have yet	confirm	0	0
+1.0	Hanoi regime	have	relation	LOCATION	0
+1.0	Vatican visit	will play	key role	0	0
+1.0	senior Catholic official	be in	Hanoi	ORGANIZATION	LOCATION
+1.0	Vietnam	have	government committee	O	LOCATION
+1.0	vietnamese prime minister	have meet	pope	0	0
+1.0	Pope Benedict XVI in the next few weeks	become in	2005	0	DATE
+1.0	english-language Saigon Times	say at_time	last month	ORGANIZATION	DATE
+1.0	Southeast Asia	be after	Philippines	LOCATION	LOCATION
+1.0	observer	have note	thaw in relation in recent month	0	DURATION
+1.0	trip	switzerland for	World Economic Forum	0	0
+1.0	dung	have schedule	trip to Paris	0	LOCATION
+1.0	Vatican visit	be	confirm	LOCATION	0
+1.0	relation	be in	recent month	0	DURATION
+1.0	english-language Saigon Times	daily say at_time	last month	ORGANIZATION	DATE
+1.0	country	have	minister	O	O
+1.0	several observer	have note	thaw in relation in recent month	0	DURATION
+1.0	Prime Minister Nguyen Tan Dung	have	visit	O	O
+1.0	relations	have	establishment	O	O
+1.0	Communist Party	have	Central Committee	ORGANIZATION	ORGANIZATION
+1.0	several foreign observer	have note	thaw	0	0
+1.0	upcome Vatican visit	complete	Vietnam 's establishment	0	LOCATION
+1.0	Saigon Times	daily say at_time	last month	ORGANIZATION	DATE
+1.0	the first time a Vietnamese prime minister has met a pope	have	matter	O	O
+1.0	Vatican visit	complete	Vietnam 's establishment of international relation in sphere	0	LOCATION
+1.0	Pope Benedict XVI in the next few weeks	become	pope	0	0
+1.0	english-language Saigon Times	daily say at_time	month	ORGANIZATION	DATE
+1.0	dung	have schedule	Switzerland	0	LOCATION
+1.0	dung	have schedule	Switzerland for World Economic Forum	0	LOCATION
+1.0	observer	have note	thaw in relation	0	0
+1.0	Saigon Times	say at_time	month	ORGANIZATION	DATE
+1.0	communism	have	defeat	O	O
+1.0	ties	have	normalisation	O	O
+1.0	foreign observer	have note	thaw in relation in month	0	0
+1.0	Pope Benedict XVI	be in	the next few week	PERSON	DURATION
+1.0	Saigon Times	say at_time	last month	ORGANIZATION	DATE
+1.0	upcome Vatican visit	will play	role	0	0
+1.0	Vietnam	have	establishment of international diplomatic relation in sphere	LOCATION	0
+1.0	tour	be	confirm	0	0
+1.0	upcome Vatican visit	complete	Vietnam 's establishment of international relation in sphere	0	LOCATION
+1.0	minister	have meet	pope	0	0
+1.0	several foreign observer	have note	thaw in relation in month	0	0
+1.0	several foreign observer	have note	thaw in relation in recent month	0	DURATION
+1.0	several observer	have note	thaw	0	0
+1.0	foreign observer	have note	thaw	0	0
+1.0	followers	have	group	O	O
+1.0	prime minister	have meet	pope	0	0
+1.0	dung	have schedule	trip	0	0
+1.0	Pope Benedict XVI in the next few weeks	soon become in	2005	0	DATE
+1.0	several observer	have note	thaw in relation	0	0
+1.0	foreign observer	have note	thaw in relation	0	0
+1.0	tour	have	confirm	0	0
+1.0	several foreign observer	have note	thaw in relation	0	0
+1.0	senior Catholic official	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	Pope Benedict XVI in the next few weeks	soon become	pope	0	0
+1.0	upcome Vatican visit	first by	vietnamese prime minister	0	0
+1.0	people	be	Catholics	0	ORGANIZATION
+1.0	Catholic official	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	upcome Vatican visit	will play	key role	0	0
+1.0	upcome Vatican visit	complete	Vietnam 's establishment of international diplomatic relation in sphere	0	LOCATION
+1.0	government office	have	deputy chairman	O	O
+1.0	upcome Vatican visit	complete	Vietnam 's establishment of diplomatic relation in sphere	0	LOCATION
+1.0	Vietnam	have	government committee for religious affair	LOCATION	0
+1.0	Saigon Times	be	english-language	ORGANIZATION	0
+1.0	Pope Benedict XVI in the next few weeks	have	invitation	O	PERSON
+1.0	Paris	to trip be	Switzerland	LOCATION	LOCATION
+1.0	Vatican visit	complete	Vietnam 's establishment of diplomatic relation in sphere	0	LOCATION
+1.0	foreign observer	have note	thaw in relation in recent month	0	DURATION
+1.0	Vatican visit	complete	Vietnam 's establishment	0	LOCATION
+1.0	Vietnam 's government committee	decline	comment	LOCATION	0
+1.0	english-language Saigon Times	say at_time	month	ORGANIZATION	DATE
+1.0	vietnamese minister	have meet	pope	0	0
+1.0	Saigon Times	daily say at_time	month	ORGANIZATION	DATE
+1.0	vietnamese embassy	be in	Rome	0	LOCATION
+1.0	follower	be in	Southeast Asia	0	LOCATION
+1.0	upcome Vatican visit	complete	Vietnam 's establishment of relation in sphere	0	LOCATION
+1.0	communism	be in	Soviet Union	0	LOCATION
+1.0	international diplomatic relation	be in	sphere	0	0
+1.0	Vatican visit	will play	role	0	0
+1.0	several observer	have note	thaw in relation in month	0	0
+1.0	Catholics	be about	six million	ORGANIZATION	NUMBER
+1.0	observer	have note	thaw in relation in month	0	0
+1.0	Catholic church source	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	Vatican visit	complete	Vietnam 's establishment of international diplomatic relation in sphere	0	LOCATION
+1.0	Catholic church source	be in	Hanoi	ORGANIZATION	LOCATION
+1.0	Vatican visit	complete	Vietnam 's establishment of relation in sphere	0	LOCATION
+1.0	people	be catholics about	six million Vietnam 's 84 million	0	NUMBER
+1.0	Central Committee	have	meeting	O	ORGANIZATION
+1.0	Hanoi regime	have	tense relation	LOCATION	0

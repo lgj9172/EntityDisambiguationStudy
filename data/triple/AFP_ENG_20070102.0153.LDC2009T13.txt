@@ -1,0 +1,38 @@
+1.0	media	be under	state control in Turkmenistan	0	LOCATION
+1.0	first contest presidential poll	be in	former soviet republic 's history	ORDINAL	ORGANIZATION
+1.0	special meeting	pick	six candidate for February 11 vote	0	DATE
+1.0	state	have	Council	ORGANIZATION	O
+1.0	Gurbanguly Berdymukhammedov	ally of	Niyazov , who died of heart failure on November 21	PERSON	PERSON
+1.0	media	be under	entirely state control in Turkmenistan	0	LOCATION
+1.0	six candidates for the February 11 vote , the first contested presidential poll in the former Soviet republic 's history	have	campaign platforms	O	O
+1.0	then	be	name	DATE	0
+0.9673663182665696	six candidate	will on	will ballot	NUMBER	0
+1.0	authoritarian state	of	people 's Council	0	ORGANIZATION
+1.0	state control	be in	The Neitralny Turkmenistan	0	LOCATION
+1.0	Soviet Union	have	years	DATE	LOCATION
+1.0	then	become in	poll	DATE	0
+1.0	meeting	pick	six candidate for February 11 vote	0	DATE
+1.0	meeting	pick	six candidate	0	NUMBER
+1.0	special meeting	pick	six candidate	0	NUMBER
+1.0	media	be under	entirely state control	0	0
+1.0	Council	have	meeting	O	ORGANIZATION
+1.0	heart failure	have	died	O	O
+0.9673663182665696	candidate	will on	will ballot	0	0
+1.0	then	be name	president	DATE	0
+1.0	caretaker president Gurbanguly Berdymukhammedov	be	favourite	PERSON	0
+1.0	political opponent	live in	exile	0	0
+1.0	former soviet republic	in	history	0	0
+1.0	people 's Council	make on	will ballot	ORGANIZATION	0
+1.0	campaigns	have	sort	O	O
+1.0	media	be under	state control	0	0
+1.0	People	have	Council	ORGANIZATION	ORGANIZATION
+1.0	republic	have	history	O	O
+1.0	opponent	live in	exile	0	0
+1.0	then	become	president	DATE	0
+1.0	then	become in	unopposed poll	DATE	0
+1.0	February 11 vote	poll in	former soviet republic 's history	DATE	ORGANIZATION
+1.0	Niyazov , who died of heart failure on November 21	have	ally	O	PERSON
+1.0	Niyazov regime	have	opponents	O	O
+1.0	then	be name	president for life	DATE	0
+1.0	Gurbanguly Berdymukhammedov	be	current	PERSON	DATE
+1.0	current caretaker president Gurbanguly Berdymukhammedov	be	favourite	PERSON	0

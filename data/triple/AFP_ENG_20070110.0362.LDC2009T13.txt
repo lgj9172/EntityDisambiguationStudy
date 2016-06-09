@@ -1,0 +1,47 @@
+1.0	Rzeszow	have	city	O	LOCATION
+1.0	National Agency for Industrial Development	company under	the Ministry	ORGANIZATION	ORGANIZATION
+0.44919701085544034	provide	job for	1,500 people	0	NUMBER
+0.8804197822240069	international hawk helicopter	variant of	black hawk	0	0
+1.0	the Connecticut-based United Technologies Corporation	already employ	7,000 people at two factory	PERSON	NUMBER
+1.0	Poland	have	National Agency	ORGANIZATION	LOCATION
+1.0	Sikorsky	have	parent company	PERSON	0
+1.0	the Connecticut-based United Technologies Corporation	employ	7,000 people	PERSON	NUMBER
+1.0	US company	accord to	website	LOCATION	0
+1.0	polish group	say in	statement	0	0
+1.0	Sikorsky	maintain	group 's production line	PERSON	0
+1.0	Hawk	have	variant	O	ORGANIZATION
+1.0	the Connecticut-based United Technologies Corporation	employ	7,000 people at two factory in Poland	PERSON	NUMBER
+0.8804197822240069	hawk helicopter	variant of	black hawk	0	0
+1.0	Sikorsky	have	parent company	O	PERSON
+1.0	southeastern city	be in	southwest	0	0
+1.0	two factory	be in	Poland	NUMBER	LOCATION
+1.0	year	have	quarter	DATE	DATE
+1.0	Poland	to	National Agency for Industrial Development	LOCATION	ORGANIZATION
+1.0	the Connecticut-based United Technologies Corporation	already employ	7,000 people at two factory in Poland	PERSON	NUMBER
+1.0	group	have	production lines	O	O
+0.8804197822240069	international black hawk helicopter	variant of	hawk	0	0
+1.0	National Agency for Industrial Development	company of	the Ministry	ORGANIZATION	ORGANIZATION
+1.0	the Connecticut-based United Technologies Corporation	be	connecticut-based	ORGANIZATION	0
+1.0	Sikorsky	's company be	the Connecticut-based United Technologies Corporation	PERSON	ORGANIZATION
+1.0	factories	have	One	NUMBER	O
+1.0	Treasury	have	government company	O	ORGANIZATION
+1.0	polish group	have	current production line	0	DATE
+1.0	deal	in manufacturer be	PZL Mielec	0	ORGANIZATION
+1.0	biggest polish aircraft manufacturer	be in	deal	0	0
+1.0	Mielec	have	facility	LOCATION	0
+0.8804197822240069	international black hawk helicopter	variant of	black hawk	0	0
+0.8804197822240069	black hawk helicopter	variant of	black hawk	0	0
+1.0	fuselages	have	Production	O	O
+1.0	Sikorsky	maintain	group 's current production line	PERSON	DATE
+0.8804197822240069	hawk helicopter	variant of	hawk	0	0
+1.0	Sikorsky	maintain	polish group 's production line	PERSON	0
+1.0	the Connecticut-based United Technologies Corporation	employ	7,000 people at two factory	PERSON	NUMBER
+0.8804197822240069	international hawk helicopter	variant of	hawk	0	0
+1.0	the Connecticut-based United Technologies Corporation	already employ	7,000 people	PERSON	NUMBER
+1.0	US company	have	website	O	O
+1.0	Mielec	have	facilities	O	LOCATION
+1.0	group	say in	statement	0	0
+0.8804197822240069	black hawk helicopter	variant of	hawk	0	0
+1.0	United States	have	Sikorsky Aircraft Corporation	ORGANIZATION	LOCATION
+1.0	Sikorsky	maintain	polish group 's current production line	PERSON	DATE
+1.0	Sikorsky Aircraft Corporation	be of	United States	ORGANIZATION	LOCATION

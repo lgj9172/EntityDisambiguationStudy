@@ -1,0 +1,70 @@
+1.0	we	have detect	outbreak	0	0
+1.0	it	spread to	part of country	0	0
+1.0	deadly strain	be	first detect	0	ORDINAL
+1.0	we	have detect outbreak in	state capital	0	0
+1.0	Africa	have	parts	O	LOCATION
+1.0	Katsina	be on	January 2	LOCATION	DATE
+1.0	strain	be detect outside	nearby city	0	0
+1.0	deadly strain	be first detect outside	nearby northern city	0	0
+1.0	strain	be detect outside	city of Kaduna	0	LOCATION
+1.0	strain	be first detect outside	nearby city	0	0
+1.0	it	spread to	other part	0	0
+1.0	strain	be first detect outside	city	0	0
+1.0	deadly strain	be first detect outside	city of Kaduna	0	LOCATION
+1.0	deadly strain	be first detect outside	nearby city	0	0
+1.0	strain	be first detect outside	nearby northern city of Kaduna	0	LOCATION
+1.0	we	have detect	outbreak in three poultry farm	0	NUMBER
+1.0	country	have	parts	O	O
+1.0	symptom	suggest	flu infection	0	0
+1.0	Nigeria	have	Katsina state	O	LOCATION
+1.0	it	spread to	other part of country	0	0
+1.0	deadly strain	be first detect outside	northern city of Kaduna	0	LOCATION
+1.0	Katsina	be of	Batagarawa	LOCATION	LOCATION
+1.0	deadly strain	be detect outside	nearby northern city	0	0
+1.0	chickens	have	total	O	O
+0.5861879106646958	medical check	worker on	poultry farm	0	0
+1.0	deadly strain	be first detect outside	city	0	0
+1.0	deadly strain	be detect outside	nearby city of Kaduna	0	LOCATION
+1.0	Batagarawa Katsina	have	village	O	LOCATION
+1.0	deadly strain	be first detect outside	nearby northern city of Kaduna	0	LOCATION
+1.0	deadly strain	be first detect outside	northern city	0	0
+1.0	deadly strain	be first detect outside	nearby city of Kaduna	0	LOCATION
+1.0	pigeons	have	total	O	O
+1.0	deadly strain	be detect outside	city	0	0
+1.0	it	spread to	part	0	0
+1.0	Kaduna	have	city	O	LOCATION
+1.0	strain	be first detect outside	city of Kaduna	0	LOCATION
+1.0	birds	have	samples	O	O
+1.0	symptom	suggest	avian flu infection	0	0
+0.5861879106646958	check	worker on	poultry farm	0	0
+1.0	strain	be detect outside	northern city	0	0
+1.0	strain	be	first detect	0	ORDINAL
+1.0	influenza	have	outbreak	O	O
+1.0	deadly strain	be detect outside	nearby northern city of Kaduna	0	LOCATION
+1.0	agriculture commissioner	say at_time	Friday	0	DATE
+1.0	they	be	be monitor	0	0
+1.0	Nigeria	in	Katsina state	LOCATION	LOCATION
+1.0	they	develop	symptom	0	0
+1.0	strain	be detect outside	nearby city of Kaduna	0	LOCATION
+1.0	strain	be first detect outside	nearby northern city	0	0
+1.0	strain	be detect outside	city	0	0
+1.0	strain	be	detect	0	0
+1.0	strain	be first detect outside	northern city	0	0
+1.0	deadly strain	be detect outside	nearby city	0	0
+1.0	deadly strain	be detect outside	northern city	0	0
+1.0	deadly strain	be detect outside	northern city of Kaduna	0	LOCATION
+1.0	strain	be first detect outside	nearby city of Kaduna	0	LOCATION
+1.0	infection	have	signs	O	O
+1.0	our	have	efforts	O	O
+1.0	deadly strain	be	detect	0	0
+1.0	outbreak	be in	three poultry farm	0	NUMBER
+1.0	strain	be detect outside	nearby northern city of Kaduna	0	LOCATION
+1.0	we	have detect outbreak in	past week	0	DATE
+1.0	strain	be detect outside	northern city of Kaduna	0	LOCATION
+1.0	Jos	have	city	O	PERSON
+1.0	strain	be first detect outside	northern city of Kaduna	0	LOCATION
+1.0	strain	be detect outside	nearby northern city	0	0
+1.0	influenza	have	strain	O	O
+1.0	deadly strain	be detect outside	city of Kaduna	0	LOCATION
+1.0	they	be	be closely monitor	0	0
+1.0	farm	be in	Jaji	0	LOCATION

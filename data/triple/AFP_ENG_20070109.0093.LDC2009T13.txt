@@ -1,0 +1,17 @@
+1.0	government spokesman	say at_time	Tuesday	DURATION	DATE
+1.0	president Saddam Hussein	have	execution	O	PERSON
+1.0	iraqi government spokesman	say at_time	Tuesday	DURATION	DATE
+1.0	execution	have	postponement	O	O
+1.0	Eid al-Adha feast	have	day	DURATION	O
+1.0	he	tell	station	0	0
+1.0	Saddam	have	half-brother	O	PERSON
+1.0	those who were angry with Saddam	reject	the request	0	0
+1.0	he	tell	dubai-based station	0	0
+1.0	iraqi Prime Minister Nuri al-Maliki	say at_time	Tuesday	PERSON	DATE
+1.0	Prime Minister Nuri al-Maliki	say at_time	Tuesday	PERSON	DATE
+1.0	Nuri al-Maliki	be	iraqi	PERSON	0
+1.0	request	take	place	0	0
+1.0	former president Saddam Hussein	be	execute	PERSON	0
+1.0	US	say in	interview	PERSON	0
+1.0	US	say with	Al-Arabiya news channel	PERSON	ORGANIZATION
+1.0	former president Saddam Hussein	have	co-defendants	O	O

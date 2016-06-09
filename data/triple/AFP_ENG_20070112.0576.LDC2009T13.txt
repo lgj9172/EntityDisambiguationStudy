@@ -1,0 +1,104 @@
+1.0	Ouzghar , 41	be arrest in	Toronto	PERSON	LOCATION
+1.0	he crime	be in	France of falsifying documents for an Islamic terror group	0	LOCATION
+1.0	Ouzghar , 41	be release on	bail	PERSON	0
+1.0	claim	be dismiss by	canadian court	0	0
+1.0	court edict	can	can appeal	0	0
+1.0	Ouzghar , 41	have	extradition	O	O
+1.0	Patrick Charrette	be	Justice Department	PERSON	ORGANIZATION
+1.0	Ouzghar , 41	be	arrest	PERSON	0
+1.0	fourth claim	be dismiss for	evidence	ORDINAL	0
+1.0	Moroccan-born Canadian Abdellah Ouzghar	have	departure	O	O
+1.0	french claim	be dismiss by	court	0	0
+1.0	Friday	extradition of	moroccan-born Abdellah Ouzghar	DATE	PERSON
+1.0	fourth claim	be	dismiss by canadian court for evidence	ORDINAL	0
+1.0	fourth french claim	be dismiss for	evidence	ORDINAL	0
+1.0	he	obtain	citizenship	0	0
+1.0	fourth french claim	be dismiss by	court	ORDINAL	0
+1.0	Ouzghar , 41	belong	responsible for several hold-up	0	0
+1.0	he	obtain	canadian citizenship	0	0
+1.0	he	obtain citizenship in	1994	0	DATE
+1.0	Justice Minister Robert Nicholson	approve	extradition request	PERSON	0
+1.0	canadian tribunal	authorize to	France	0	LOCATION
+1.0	Justice Minister Robert Nicholson	still approve	extradition request	PERSON	0
+1.0	fourth claim	be	dismiss by court for evidence	ORDINAL	0
+1.0	canadian tribunal	authorize	Friday extradition of Abdellah Ouzghar	0	PERSON
+1.0	Ouzghar 41	be arrest in	October 2001	NUMBER	DATE
+1.0	canadian tribunal	authorize	Friday extradition	0	DATE
+1.0	minister	have	decision	O	O
+1.0	first step	be in	extradition process	ORDINAL	0
+1.0	Ouzghar , 41	be	41	PERSON	NUMBER
+1.0	french claim	be dismiss by	canadian court	0	0
+1.0	fourth french claim	be	dismiss by court for evidence	ORDINAL	0
+1.0	fourth french claim	be	dismiss by court for insufficient evidence	ORDINAL	0
+1.0	claim	be dismiss by	court	0	0
+1.0	Robert Nicholson	be	canadian	PERSON	0
+1.0	fourth french claim	be	dismiss by canadian court for insufficient evidence	ORDINAL	0
+1.0	policeman	be in	1996	0	DATE
+1.0	fourth claim	be	dismiss by court for insufficient evidence	ORDINAL	0
+1.0	claim	be	dismiss	0	0
+1.0	fourth claim	be dismiss by	court	ORDINAL	0
+1.0	Justice Department spokesman Patrick Charrette	tell	AFP	PERSON	ORGANIZATION
+1.0	tribunal	authorize	Friday extradition of moroccan-born canadian Abdellah Ouzghar	0	PERSON
+1.0	french claim	be dismiss for	evidence	0	0
+1.0	ruling	be	first	0	ORDINAL
+1.0	canadian tribunal	authorize	Friday extradition of moroccan-born canadian Abdellah Ouzghar	0	PERSON
+1.0	fourth french claim	be	dismiss by canadian court for evidence	ORDINAL	0
+1.0	Patrick Charrette	be spokesman of	Justice Department	PERSON	ORGANIZATION
+1.0	canadian tribunal	authorize	Friday extradition of canadian Abdellah Ouzghar	0	PERSON
+1.0	french claim	be	dismiss by canadian court for evidence	0	0
+1.0	claim	be	dismiss by canadian court for insufficient evidence	0	0
+1.0	Ouzghar 41	be arrest in	Toronto	NUMBER	LOCATION
+1.0	canadian Justice Minister Robert Nicholson	approve extradition request within	90 day	PERSON	DURATION
+1.0	Abdellah Ouzghar	be of	canadian	PERSON	0
+1.0	fourth claim	be dismiss by	canadian court	ORDINAL	0
+1.0	french claim	be dismiss for	insufficient evidence	0	0
+1.0	claim	be	dismiss by canadian court for evidence	0	0
+1.0	he	arrive in	1990	0	DATE
+1.0	Ouzghar , 41	belong	responsible for hold-up	0	0
+1.0	tribunal	authorize	Friday extradition	0	DATE
+1.0	Friday	extradition of	canadian Abdellah Ouzghar	DATE	PERSON
+1.0	Ouzghar , 41	be arrest in	October 2001	PERSON	DATE
+1.0	tribunal	authorize to	France	0	LOCATION
+1.0	Justice Minister Robert Nicholson	approve extradition request within	90 day	PERSON	DURATION
+1.0	An Ontario Superior Court judge	say	note	0	0
+1.0	Ouzghar , 41	be convict in	absentia	0	0
+1.0	french claim	be	dismiss by court for insufficient evidence	0	0
+1.0	fourth french claim	be dismiss by	canadian court	ORDINAL	0
+1.0	Friday	extradition of	moroccan-born canadian Abdellah Ouzghar	DATE	PERSON
+1.0	fourth french claim	be	dismiss	ORDINAL	0
+1.0	Ouzghar , 41	be	convict	0	0
+1.0	Ouzghar , 41	be convict in	France	0	LOCATION
+1.0	canadian Justice Minister Robert Nicholson	still approve extradition request within	90 day	PERSON	DURATION
+1.0	Friday	extradition of	Abdellah Ouzghar	DATE	PERSON
+1.0	Ouzghar , 41	have	crimes	O	O
+1.0	Ouzghar , 41	belong accord to	France of falsifying documents for an Islamic terror group	0	LOCATION
+1.0	canadian Justice Minister Robert Nicholson	still approve	extradition request	PERSON	0
+1.0	fourth claim	be	dismiss	ORDINAL	0
+1.0	french claim	be	dismiss by court for evidence	0	0
+1.0	he	arrive in	Canada	0	LOCATION
+1.0	Abdellah Ouzghar	have	extradition	O	PERSON
+1.0	minister	have	decision	0	0
+1.0	his	have	bail	O	O
+1.0	french claim	be	dismiss	0	0
+1.0	claim	be dismiss for	insufficient evidence	0	0
+1.0	tribunal	authorize	Friday extradition of moroccan-born Abdellah Ouzghar	0	PERSON
+1.0	canadian Justice Minister Robert Nicholson	approve	extradition request	PERSON	0
+1.0	claim	be	dismiss by court for evidence	0	0
+1.0	Ouzghar , 41	belong to	Roubaix Group	0	ORGANIZATION
+1.0	Ouzghar 41	be	arrest	NUMBER	0
+1.0	tribunal	authorize	Friday extradition of canadian Abdellah Ouzghar	0	PERSON
+1.0	fourth claim	be dismiss for	insufficient evidence	ORDINAL	0
+1.0	policeman	have	murder	O	O
+1.0	fourth claim	be	dismiss by canadian court for insufficient evidence	ORDINAL	0
+1.0	claim	be	dismiss by court for insufficient evidence	0	0
+1.0	fourth french claim	be dismiss for	insufficient evidence	ORDINAL	0
+1.0	Ouzghar , 41	be	release	PERSON	0
+1.0	claim	be dismiss for	evidence	0	0
+1.0	canadian tribunal	authorize	Friday extradition of moroccan-born Abdellah Ouzghar	0	PERSON
+1.0	tribunal	authorize	Friday extradition of Abdellah Ouzghar	0	PERSON
+1.0	Ouzghar 41	be	arrest in Toronto in October 2001	NUMBER	LOCATION
+1.0	Ouzghar , 41	be	arrest in Toronto in October 2001	PERSON	LOCATION
+1.0	Ouzghar , 41	belong	responsible	0	0
+1.0	Ouzghar , 41	be	convict in absentia in France	0	LOCATION
+1.0	french claim	be	dismiss by canadian court for insufficient evidence	0	0
+1.0	Justice Minister Robert Nicholson	still approve extradition request within	90 day	PERSON	DURATION

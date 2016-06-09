@@ -1,0 +1,9 @@
+1.0	other hospital	be in	area	0	0
+1.0	other 20	be	treat	NUMBER	0
+1.0	other 20	be treat at	plant	NUMBER	0
+1.0	other 20	be	discharge	NUMBER	0
+1.0	rescue official	say at_time	Thursday	0	DATE
+1.0	all	be	decontaminate	0	0
+1.0	Seal Sands	be on	Teesside	LOCATION	LOCATION
+1.0	all	be decontaminate on	site	0	0
+1.0	chemical plant	be in	north-east	0	0

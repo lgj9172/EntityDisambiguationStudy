@@ -1,0 +1,75 @@
+1.0	contract	have plunge	2.73 dollar	0	MONEY
+1.0	price	tumble to	level	0	0
+1.0	World oil price	climb before	publication of key datum on level	0	DATE
+1.0	World oil price	climb before	publication of datum on level of US energy stockpile	0	LOCATION
+1.0	World oil price	climb slightly on	trading above 58 dollar	0	MONEY
+1.0	data	have	publication	O	O
+1.0	World oil price	climb before	publication of key datum	0	DATE
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	Brent North Sea crude	gain 19 58.15 dollar on	Later Thursday	LOCATION	LOCATION
+1.0	Later Thursday	trading above	58 dollar	DATE	MONEY
+1.0	New York 's main contract	crude for	February delivery	LOCATION	DATE
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	World oil price	climb on	trading	0	DATE
+1.0	price	tumble in	London	0	LOCATION
+1.0	its	have	report	O	O
+1.0	Thursday	be in	London	DATE	LOCATION
+1.0	New York 's main contract	rise	six cent 58.38 dollar	LOCATION	MONEY
+1.0	New York 's contract	rise	six cent 58.38 dollar	LOCATION	MONEY
+1.0	New York 's contract	rise	six cent 58.38 dollar barrel	LOCATION	MONEY
+1.0	Brent North Sea crude	gain	19 58.15 dollar	LOCATION	MONEY
+1.0	World oil price	climb before	publication	0	DATE
+1.0	World oil price	climb slightly on	trading	0	DATE
+1.0	price	tumble also to	level since mid	0	0
+0.28627611980559997	New York 's contract	rise before	opening of US market	LOCATION	LOCATION
+1.0	Brent North Sea crude	gain 19 58.15 dollar in	electronic trading	LOCATION	0
+1.0	price	tumble to	lowest level	0	0
+1.0	Brent North Sea crude	gain 19 58.15 dollar in	trading	LOCATION	0
+1.0	World oil price	climb before	publication of key datum on level of US energy stockpile	0	LOCATION
+1.0	World oil price	climb on	trading above 58 dollar	0	MONEY
+1.0	US Department	be at_time	later Thursday	ORGANIZATION	DATE
+1.0	US energy stockpiles	have	level	O	O
+1.0	World oil price	climb slightly before	publication of datum on level of US energy stockpile	0	LOCATION
+0.28627611980559997	New York 's contract	rise on	Later Thursday	LOCATION	DATE
+0.7086201810541074	United States	experience	winter temperature	LOCATION	DATE
+1.0	price	tumble also to	lowest level	0	0
+1.0	trader	owe to	demand	0	0
+0.28627611980559997	New York 's main contract	rise before	opening	LOCATION	0
+0.28627611980559997	New York 's main contract	rise before	official opening	LOCATION	0
+1.0	trader	owe to	reduce demand for heating fuel	0	0
+1.0	World oil price	climb slightly before	publication of key datum	0	DATE
+1.0	trader	owe to	reduce demand	0	0
+0.28627611980559997	New York 's main contract	rise on	Later Thursday	LOCATION	DATE
+1.0	World oil price	climb slightly before	publication	0	DATE
+1.0	World oil price	climb slightly before	publication of key datum on level of US energy stockpile	0	LOCATION
+1.0	Brent North Sea crude	gain 19 58.15 dollar on	Thursday	LOCATION	DATE
+0.28627611980559997	New York 's main contract	rise before	official opening of US market	LOCATION	LOCATION
+1.0	World oil price	climb slightly before	publication of datum	0	DATE
+1.0	US Department	release	its weekly report	ORGANIZATION	SET
+1.0	New York	have	contract	O	LOCATION
+1.0	World oil price	climb before	publication of datum on level	0	DATE
+1.0	price	tumble to	level since mid	0	0
+0.28627611980559997	New York 's main contract	rise before	opening of US market	LOCATION	LOCATION
+1.0	US Department	be at_time	Thursday	ORGANIZATION	DATE
+1.0	price	tumble also to	level	0	0
+1.0	price	tumble to	lowest level since mid	0	0
+1.0	US market	have	opening	O	O
+1.0	World oil price	climb slightly before	publication of datum on level	0	DATE
+1.0	New York	have	main contract	LOCATION	0
+1.0	World oil price	climb slightly before	publication of key datum on level	0	DATE
+1.0	delivery	be in	February	0	DATE
+1.0	World oil price	climb on	Later Thursday	0	DATE
+1.0	New York 's main contract	rise	six cent 58.38 dollar barrel	LOCATION	MONEY
+0.28627611980559997	New York 's contract	rise before	official opening of US market	LOCATION	LOCATION
+0.28627611980559997	New York 's contract	rise before	official opening	LOCATION	0
+1.0	World oil price	climb before	publication of datum	0	DATE
+1.0	contract	close at	58.32	0	NUMBER
+1.0	contract	close on	Wednesday	0	DATE
+1.0	US Department	release	its report	ORGANIZATION	0
+1.0	price	tumble also in	London	0	LOCATION
+0.7086201810541074	United States	experience	warm winter temperature	LOCATION	DATE
+1.0	trader	owe to	demand for heating fuel	0	0
+1.0	World oil price	climb slightly on	Later Thursday	0	DATE
+1.0	price	tumble also to	lowest level since mid	0	0
+1.0	energy stockpile	be in	country	0	0
+0.28627611980559997	New York 's contract	rise before	opening	LOCATION	0

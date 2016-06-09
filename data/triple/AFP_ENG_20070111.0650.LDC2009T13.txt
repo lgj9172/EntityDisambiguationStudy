@@ -1,0 +1,44 @@
+1.0	Iran	have	security strategy	O	O
+1.0	Iran	use operation as	key element of its national security strategy	LOCATION	0
+1.0	Iran	use operation as	key element	LOCATION	0
+1.0	US soldier	act against	element	LOCATION	0
+1.0	country	director of	national intelligence	0	0
+1.0	Iran	use operation as	element of its security strategy	LOCATION	0
+1.0	US soldier	be in	Iraq	LOCATION	LOCATION
+1.0	Iran	have	terrorism strategy	O	LOCATION
+1.0	Iran	use operation abroad as	key element of its security strategy	LOCATION	0
+1.0	intelligence	have	director	O	O
+1.0	Iran	have	power	O	O
+0.9779158494769932	country	director of	national intelligence	0	0
+1.0	Lebanese Hezbollah	have	agenda	O	O
+1.0	Iran	use operation as	element of its national security strategy	LOCATION	0
+1.0	the `` center '' of Iran 's `` terrorism strategy '' was Lebanese Hezbollah	have	budget	O	O
+1.0	Iran	use operation as	key element of its security strategy	LOCATION	0
+1.0	Iran	use operation abroad as	element of its security strategy	LOCATION	0
+1.0	Iran	use operation abroad as	element of its national security strategy	LOCATION	0
+1.0	US soldier	act in	war	LOCATION	0
+1.0	Iran	use operation abroad as	element	LOCATION	0
+1.0	Lebanese Hezbollah	be act as	key agent	ORGANIZATION	0
+1.0	Iran	use	terrorist operation	LOCATION	0
+1.0	Iran	use abroad	operation	LOCATION	0
+1.0	Iran	have	influence	O	LOCATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+0.9779158494769932	country	director of	intelligence	0	0
+1.0	Iran	use operation abroad as	key element of its national security strategy	LOCATION	0
+1.0	Iran	have	regional influence	LOCATION	0
+1.0	Iran	use operation as	element	LOCATION	0
+1.0	US soldier	act against	iranian element	LOCATION	0
+1.0	Lebanese Hezbollah	be act as	agent for Tehran	ORGANIZATION	LOCATION
+1.0	Lebanese Hezbollah	be act as	agent	ORGANIZATION	0
+1.0	Iran	have	ability	O	O
+1.0	John Negroponte	be intelligence supremo of	US	PERSON	LOCATION
+1.0	Iran	use operation abroad as	key element	LOCATION	0
+1.0	security strategy	have	element	O	O
+1.0	budget	have	portion	O	O
+1.0	Iran	use	operation	LOCATION	0
+1.0	its agenda	be in	Lebanon	0	LOCATION
+1.0	Iran	of	terrorism strategy	LOCATION	0
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Iran	use abroad	terrorist operation	LOCATION	0
+1.0	Lebanese Hezbollah	be act as	key agent for Tehran	ORGANIZATION	LOCATION
+1.0	terrorism strategy	have	center	O	O

@@ -1,0 +1,97 @@
+1.0	China	split in	1949	LOCATION	DATE
+1.0	China	issue	key defence paper	LOCATION	0
+1.0	the Beijing 's	be	reunify	LOCATION	0
+1.0	Chen Shui bian	be president of	Taiwan	PERSON	LOCATION
+1.0	the Beijing 's	be reunify with	mainland	LOCATION	0
+0.7881215627751262	ruin	peaceful and stable development of	cross-strait tie	0	0
+1.0	exchange	ruin	development of cross-strait tie	0	0
+1.0	Taiwan 's president	insist at_time	Monday	DATE	DATE
+1.0	exchange	worsen	atmosphere of relation	0	0
+1.0	cross-strait exchange	ruin	development	0	0
+0.7156274541489378	worsen	atmosphere of	cross-strait relation	0	0
+1.0	New Year	have	message	O	DATE
+1.0	island	have	sovereignty	0	0
+1.0	the Beijing 's	be reunify by	force necessary	LOCATION	0
+1.0	island 's sovereignty	lay in	its own hand	DATE	0
+1.0	Tuesday Taiwan President Chen Shui - bian was trying to ruin bilateral ties , as it reacted angrily to his New Year message insisting the island was not part of China	restrict	exchange	PERSON	0
+1.0	Chen Shui - bian	have	New Year message	O	O
+0.7881215627751262	ruin	peaceful and stable development of	tie	0	0
+1.0	Beijing	from	Taiwan Affairs Office	LOCATION	LOCATION
+1.0	exchange	worsen	atmosphere	0	0
+1.0	exchange	worsen	atmosphere of cross-strait relation	0	0
+1.0	cross-strait exchange	ruin	peaceful development of tie	0	0
+1.0	Taiwan	have	future	DATE	LOCATION
+1.0	the 23 million	have	right decide on future of Taiwan	NUMBER	LOCATION
+1.0	motherland	be in	name	0	0
+1.0	the Beijing 's	be	reunify with mainland by force necessary	LOCATION	0
+1.0	the Beijing 's	still consider	island part of its territory	LOCATION	0
+1.0	the 23 million	only have	right decide on future	NUMBER	DATE
+1.0	Tuesday Taiwan President Chen Shui - bian was trying to ruin bilateral ties , as it reacted angrily to his New Year message insisting the island was not part of China	unreasonably restrict	cross-strait exchange	PERSON	0
+1.0	Taiwan 's independence-leaning president	insist in	New Year 's message	DATE	DATE
+1.0	Chen Shui bian	be	Tuesday	PERSON	DATE
+1.0	China	issue	defence paper	LOCATION	0
+1.0	cross-strait exchange	ruin	peaceful development of cross-strait tie	0	0
+1.0	ties	have	development	O	O
+1.0	cross-strait exchange	worsen	atmosphere	0	0
+1.0	the 23 million	have	right	NUMBER	0
+1.0	Tuesday Taiwan President Chen Shui - bian was trying to ruin bilateral ties , as it reacted angrily to his New Year message insisting the island was not part of China	be	quote	0	0
+1.0	the island 's sovereignty	have	hands	O	O
+1.0	Taiwan 's independence-leaning president	insist at_time	Monday	DATE	DATE
+1.0	exchange	ruin	peaceful development of cross-strait tie	0	0
+1.0	the Beijing 's	consider	island part of its territory	LOCATION	0
+0.7156274541489378	worsen	atmosphere of	relation	0	0
+0.7881215627751262	ruin	development of	tie	0	0
+1.0	exchange	ruin	development of tie	0	0
+1.0	the 23 million	only have	right	NUMBER	0
+1.0	Chen Shui bian	be	Taiwan	PERSON	LOCATION
+1.0	Tuesday Taiwan President Chen Shui - bian was trying to ruin bilateral ties , as it reacted angrily to his New Year message insisting the island was not part of China	restrict	cross-strait exchange	PERSON	0
+1.0	exchange	worsen	cooperation	0	0
+1.0	cross-strait exchange	worsen	cooperation	0	0
+1.0	cross-strait exchange	ruin	development of tie	0	0
+1.0	China	have	Republic	LOCATION	LOCATION
+1.0	Tuesday Taiwan President Chen Shui - bian was trying to ruin bilateral ties , as it reacted angrily to his New Year message insisting the island was not part of China	unreasonably restrict	exchange	PERSON	0
+0.7881215627751262	ruin	peaceful development of	tie	0	0
+1.0	cross-strait exchange	worsen	atmosphere of cross-strait relation	0	0
+1.0	world	have	part	O	O
+1.0	the Beijing 's	consider	island part	LOCATION	0
+1.0	island	have	sovereignty	O	O
+1.0	the 23 million	only have	right decide on future of Taiwan	NUMBER	LOCATION
+1.0	the 23 million	have	right decide on future	NUMBER	DATE
+1.0	cross-strait exchange	ruin	development of cross-strait tie	0	0
+1.0	Taiwan 's president	insist in	New Year 's message	DATE	DATE
+1.0	Taiwan	have	sovereignty	O	LOCATION
+1.0	Taiwan	be	we country	LOCATION	0
+1.0	cross-strait exchange	worsen	atmosphere of relation	0	0
+1.0	We	have	country	O	O
+1.0	New Year 's	in	message	DATE	0
+1.0	Beijing	have	Taiwan Affairs Office	ORGANIZATION	LOCATION
+1.0	exchange	ruin	cooperation	0	0
+1.0	the 23 million	only have	right decide	NUMBER	0
+1.0	Taiwan	have	independence drive	O	LOCATION
+1.0	People	have	Daily	ORGANIZATION	ORGANIZATION
+1.0	Taiwan	have	president	O	LOCATION
+1.0	China	split at	end	LOCATION	0
+1.0	the Beijing 's	have	territory	O	O
+1.0	the 23 million	have	right decide	NUMBER	0
+1.0	it	need	strong military	0	0
+0.7881215627751262	ruin	development of	cross-strait tie	0	0
+1.0	His	have	remarks	O	O
+1.0	cross-strait exchange	ruin	peaceful development	0	0
+1.0	exchange	ruin	development	0	0
+1.0	island 's sovereignty	lay in	its hand	DATE	0
+1.0	war	have	end	O	O
+1.0	exchange	ruin	peaceful development of tie	0	0
+1.0	the Beijing 's	be reunify by	force	LOCATION	0
+0.7881215627751262	ruin	peaceful development of	cross-strait tie	0	0
+1.0	Taiwan	have	independence-leaning president	LOCATION	0
+1.0	People	have	Republic	LOCATION	LOCATION
+1.0	relations	have	atmosphere	O	O
+1.0	territory	have	island part	O	O
+1.0	the Beijing 's	still consider	island part	LOCATION	0
+1.0	it	need	military	0	0
+1.0	cross-strait exchange	ruin	cooperation	0	0
+1.0	China	split	Taiwan	LOCATION	LOCATION
+1.0	China	have	part	O	LOCATION
+1.0	the Beijing 's	be	reunify with mainland by force	LOCATION	0
+1.0	Taiwan	such as	independence drive	LOCATION	0
+1.0	exchange	ruin	peaceful development	0	0

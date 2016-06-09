@@ -1,0 +1,104 @@
+1.0	Academy	have	four	NUMBER	MISC
+1.0	Golden Globes	predict	all four of act academy	LOCATION	NUMBER
+1.0	Martin Scorsese	in	bloody crime drama	PERSON	0
+1.0	Mirren	be	nominate	PERSON	0
+1.0	Golden Globes	predict	all four act academy award winner	LOCATION	NUMBER
+1.0	Golden Globes	however predict	all four of academy award winner	LOCATION	NUMBER
+1.0	Leonardo DiCaprio	be tip as	strong challenger for actor	PERSON	0
+1.0	Mirren	be	in best nominate as Queen Elizabeth II	PERSON	PERSON
+1.0	other nominee	support	actor category Alan Arkin for little Miss Sunshine	0	PERSON
+1.0	Leonardo DiCaprio	be nominate in	Peter O'Toole	PERSON	PERSON
+1.0	Leonardo DiCaprio	have already receive	nomination for Golden Globes	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	challenger for best actor along	PERSON	0
+0.7083875382726234	best	support	actress nominee	0	0
+1.0	Golden Globes	predict	all four academy	LOCATION	NUMBER
+1.0	SAG award	be first present in	1995	MISC	DATE
+1.0	other nominee	include	Meryl Streep	0	PERSON
+1.0	Leonardo DiCaprio	have receive	nomination for Golden Globes	PERSON	0
+1.0	other nominee	include	Penelope Cruz	0	PERSON
+1.0	other nominee	support	actor category Alan Arkin	0	PERSON
+1.0	Leonardo DiCaprio	have receive	nomination	PERSON	0
+1.0	Leonardo DiCaprio	have receive nomination on	January 15	PERSON	DATE
+1.0	Actor	have	recipients	O	O
+1.0	Mirren	be nominate as	Queen Elizabeth II in Queen	PERSON	PERSON
+1.0	Leonardo DiCaprio	have	performance	O	O
+1.0	month	have	Academy Awards	O	DATE
+1.0	Mirren	be	nominate for she performance as Queen Elizabeth II in Queen	PERSON	PERSON
+1.0	Golden Globes	predict	all four academy award winner	LOCATION	NUMBER
+1.0	Oscars contender Leonardo DiCaprio	be name among	nominee	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	challenger	PERSON	0
+1.0	Leonardo DiCaprio	have already receive	nomination	PERSON	0
+1.0	Mirren	be nominate as	Queen Elizabeth II	PERSON	PERSON
+1.0	nominee	include	Judi Dench	0	PERSON
+1.0	Mirren	have	performance	O	O
+1.0	Golden Globes	however predict	all four act academy	LOCATION	NUMBER
+1.0	Leonardo DiCaprio	be nominate in	best	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	strong challenger for best actor along with o'toole	PERSON	0
+1.0	Academy Awards	have	indicator	O	O
+1.0	SAG award	be	present	MISC	0
+1.0	Screen Actors Guild award	indicator of	ahead next month 's Academy award	ORGANIZATION	DATE
+1.0	Leonardo DiCaprio	be	nominate	PERSON	0
+1.0	nominee	djimon	Hounsou	0	PERSON
+1.0	nominee	support	actor category Alan Arkin	0	PERSON
+1.0	Golden Globes	however predict	all four of act academy award winner	LOCATION	NUMBER
+1.0	Leonardo DiCaprio	be	Oscars	PERSON	MISC
+1.0	nominee	support	actor category Alan Arkin for Miss Sunshine	0	PERSON
+1.0	Oscars contender Leonardo DiCaprio	be name among	nominee for Screen Actors Guild award	PERSON	ORGANIZATION
+1.0	he performance	be in	Blood Diamond join	0	0
+1.0	Leonardo DiCaprio	have receive	double nomination for Golden Globes	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	strong challenger for best actor	PERSON	0
+1.0	Leonardo DiCaprio	have already receive nomination on	January 15	PERSON	DATE
+1.0	nominee	support	actor category Alan Arkin for little Miss Sunshine	0	PERSON
+1.0	nominee	include	Meryl Streep	0	PERSON
+1.0	Golden Globes	however predict	all four academy award winner	LOCATION	NUMBER
+1.0	Golden Globes	predict	all four act academy	LOCATION	NUMBER
+1.0	Oscars contender Leonardo DiCaprio	be	name	PERSON	0
+1.0	Happyness	have	Pursuit	O	O
+1.0	Golden Globes	predict	all four of academy award winner	LOCATION	NUMBER
+1.0	other nominee	include	Judi Dench	0	PERSON
+1.0	Leonardo DiCaprio	be	tip	PERSON	0
+1.0	other nominee	djimon	Hounsou for Blood Diamond	0	PERSON
+1.0	Leonardo DiCaprio	have receive	double nomination	PERSON	0
+1.0	Golden Globes	predict	all four of academy	LOCATION	NUMBER
+1.0	Mirren	be	in best nominate for she performance as Queen Elizabeth II	PERSON	PERSON
+1.0	Golden Globes	however predict	all four of act academy	LOCATION	NUMBER
+1.0	Scotland	have	King	O	LOCATION
+1.0	Mirren	be	in best nominate for she performance	PERSON	0
+1.0	the SAG Awards	have	award	O	O
+1.0	SAG award winner	will	will name on January 28	MISC	DATE
+1.0	Leonardo DiCaprio	be tip as	strong challenger	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	challenger for actor along	PERSON	0
+1.0	Oscars contender Leonardo DiCaprio	name	Helen Mirren	PERSON	PERSON
+1.0	Mirren	be nominate in	best	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	challenger for actor	PERSON	0
+1.0	nominee	include	Penelope Cruz	0	PERSON
+1.0	other nominee	support	actor category Alan Arkin for Miss Sunshine	0	PERSON
+1.0	Babel	for barraza be	Cate Blanchett	0	PERSON
+1.0	other nominee	djimon	Hounsou	0	PERSON
+1.0	Leonardo DiCaprio	be tip as	challenger for best actor	PERSON	0
+1.0	Martin Scorsese	have	crime drama	O	PERSON
+1.0	Golden Globes	however predict	all four academy	LOCATION	NUMBER
+1.0	Leonardo DiCaprio	be on	Thursday	PERSON	DATE
+1.0	Leonardo DiCaprio	be tip as	strong challenger for actor along	PERSON	0
+1.0	Mirren	be	nominate for she performance as Queen Elizabeth II	PERSON	PERSON
+1.0	Leonardo DiCaprio	be tip as	strong challenger for best actor along	PERSON	0
+1.0	other nominee	be in	best	0	0
+1.0	Mirren	be	in best nominate for she performance as Queen Elizabeth II in Queen	PERSON	PERSON
+1.0	SAG award winner	will	will name	MISC	0
+1.0	nominee	djimon	Hounsou for Blood Diamond	0	PERSON
+1.0	Golden Globes	predict	all four of act academy award winner	LOCATION	NUMBER
+1.0	Leonardo DiCaprio	be tip as	challenger for actor along with o'toole	PERSON	0
+1.0	Leonardo DiCaprio	be tip as	challenger for best actor along with o'toole	PERSON	0
+1.0	Leonardo DiCaprio	have already receive	double nomination for Golden Globes	PERSON	0
+1.0	Golden Globes	however predict	all four act academy award winner	LOCATION	NUMBER
+1.0	best	be	Adriana Barraza	0	PERSON
+1.0	SAG award	be present in	1995	MISC	DATE
+1.0	Elizabeth II	be in	Queen	PERSON	0
+1.0	SAG award	be	first present	MISC	ORDINAL
+1.0	Mirren	be	in best nominate as Queen Elizabeth II in Queen	PERSON	PERSON
+1.0	Leonardo DiCaprio	be tip as	strong challenger for actor along with o'toole	PERSON	0
+1.0	Mirren	be nominate for	she performance	PERSON	0
+0.9116616025796281	djimon	hounsou for	Blood Diamond	0	0
+1.0	best	be	Adriana Barraza for Babel	0	PERSON
+1.0	Leonardo DiCaprio	have already receive	double nomination	PERSON	0
+1.0	Golden Globes	however predict	all four of academy	LOCATION	NUMBER

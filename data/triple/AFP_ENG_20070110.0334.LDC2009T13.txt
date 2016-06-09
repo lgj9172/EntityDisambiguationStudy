@@ -1,0 +1,26 @@
+1.0	conservative	announce	they team in coalition government	0	0
+1.0	conservative	announce they team in new coalition government on	Wednesday	0	DATE
+1.0	conservative	announce	they team	0	0
+1.0	6 state secretary	be in	new cabinet	NUMBER	0
+1.0	conservative	announce	they team in new coalition government	0	0
+1.0	conservative	announce they team in grand coalition government on	Wednesday	0	DATE
+1.0	Austria	be	inaugurate	LOCATION	0
+1.0	conservative	announce they team in new grand coalition government on	Wednesday	0	DATE
+1.0	Austria	inaugurate	conservative	LOCATION	0
+1.0	Austria	lead by	Social Democrat leader Alfred Gusenbauer	LOCATION	PERSON
+1.0	Austria	lead	inaugurate Thursday	LOCATION	DATE
+1.0	their	have	teams	O	O
+1.0	they team	be in	new grand coalition government	0	0
+1.0	conservative	announce they team on	Wednesday	0	DATE
+1.0	Austria	lead	inaugurate	LOCATION	0
+1.0	Women	have	Affairs	0	0
+1.0	Chancellor Alfred Gusenbauer	be by	Social Democrat	PERSON	ORGANIZATION
+1.0	conservative	announce	they team in new grand coalition government	0	0
+1.0	Chancellor Alfred Gusenbauer	be leader of	Social Democrat	PERSON	ORGANIZATION
+1.0	Austria	be inaugurate at_time	Thursday	LOCATION	DATE
+1.0	People	have	Party	ORGANIZATION	ORGANIZATION
+1.0	Austria	lead	conservative	LOCATION	0
+1.0	conservative	announce they team in coalition government on	Wednesday	0	DATE
+1.0	ministers	have	list	O	O
+1.0	conservative	announce	they team in grand coalition government	0	0
+1.0	Women	have	Affairs	O	O

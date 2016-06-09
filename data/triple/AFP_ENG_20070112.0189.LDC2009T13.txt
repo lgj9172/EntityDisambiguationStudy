@@ -1,0 +1,31 @@
+0.5355633268623122	officer	remains of	rocket	0	0
+1.0	officer	find	remains of rocket	0	0
+1.0	greek authority	be also look for	van believe	0	0
+0.6786274738635546	officer	scour	site of attack	0	0
+1.0	Charles Ries	be ambassador of	US	PERSON	LOCATION
+1.0	highways	have	one	NUMBER	O
+1.0	authority	be look for	van	0	0
+1.0	US ambassador Charles Ries	tell reporter outside	embassy	LOCATION	0
+1.0	building	have	interior	O	O
+1.0	buildings	have	one	NUMBER	O
+1.0	attack	have	site	O	O
+0.6786274738635546	officer	scour	site	0	0
+1.0	authority	be also look for	van believe	0	0
+1.0	authority	be also look for	van	0	0
+1.0	country	have	buildings	O	O
+1.0	building	to	interior	0	0
+1.0	ambassador	have	office	0	0
+1.0	US embassy	be in	Athens	LOCATION	LOCATION
+0.5355633268623122	officer	remains of	russian-made rocket	0	0
+1.0	greek authority	be look for	van believe	0	0
+1.0	ambassador	have	office	O	O
+1.0	officer	find	remains of russian-made rocket	0	0
+1.0	greek authority	be look for	van	0	0
+1.0	Athens	have	highways	O	LOCATION
+1.0	authority	be look for	van believe	0	0
+1.0	Charles Ries	be	US	PERSON	LOCATION
+1.0	rocket	have	remains	O	O
+1.0	US ambassador Charles Ries	tell	reporter	LOCATION	0
+1.0	officer	find	remains	0	0
+0.8032640221154881	scour	site of	attack	0	0
+1.0	greek authority	be also look for	van	0	0

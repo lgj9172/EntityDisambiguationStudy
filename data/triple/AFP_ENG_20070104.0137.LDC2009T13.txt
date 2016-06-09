@@ -1,0 +1,44 @@
+0.2134593464615807	United States Thursday	allow to	transit	LOCATION	0
+0.9218760926971398	United States Thursday	allow	taiwanese President Chen Shui-bian	LOCATION	PERSON
+1.0	China	regard	Taiwan as part of its territory	LOCATION	LOCATION
+1.0	China	warn united states thursday to	Nicaragua	LOCATION	LOCATION
+1.0	Taiwan	have	ministry	O	LOCATION
+1.0	Nicaragua	sever tie again with	the Taiwan Straits	LOCATION	LOCATION
+1.0	Daniel Ortega	have	inauguration	O	PERSON
+1.0	China	warn	United States Thursday	LOCATION	LOCATION
+1.0	visit	come amid	speculation	0	0
+1.0	plan stop	be in	Los Angeles	0	LOCATION
+1.0	Chad	switch recognition in	August 2006	LOCATION	DATE
+0.9218760926971398	United States Thursday	allow	President Chen Shui-bian	LOCATION	PERSON
+1.0	China	warn united states thursday at_time	week	LOCATION	DATE
+1.0	November	have	election	O	DATE
+1.0	China	warn united states thursday at_time	next week	LOCATION	DATE
+1.0	Nicaragua	sever	tie	LOCATION	0
+1.0	China	warn united states thursday during	trip	LOCATION	0
+1.0	latest visit	come amid	speculation	0	0
+1.0	Nicaragua	sever tie with	the Taiwan Straits	LOCATION	LOCATION
+1.0	China	await	reunification	LOCATION	0
+1.0	foreign ministry spokesman Liu Jianchao	say to	Taiwan news report	PERSON	LOCATION
+1.0	Nicaragua	sever again	diplomatic tie	LOCATION	0
+1.0	China	regard	Taiwan as part	LOCATION	LOCATION
+1.0	ministry spokesman Liu Jianchao	tell	press conference	PERSON	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	regular press conference	PERSON	0
+1.0	Nicaragua	sever again	tie	LOCATION	0
+1.0	China	await	reunification by force	LOCATION	0
+1.0	territory	have	part	O	O
+1.0	Nicaragua	sever	diplomatic tie	LOCATION	0
+1.0	Chen Shui-bian	be	taiwanese	PERSON	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	press conference	PERSON	0
+1.0	China	have	setback	O	O
+0.9218760926971398	United States Thursday	allow president chen shui-bian to	transit	LOCATION	0
+0.9218760926971398	United States Thursday	allow taiwanese president chen shui-bian to	transit	LOCATION	0
+1.0	China	regard	Taiwan	LOCATION	LOCATION
+0.23154884713092094	China	warn	United States Thursday allow	LOCATION	LOCATION
+1.0	Chad	switch recognition to	Beijing	LOCATION	LOCATION
+1.0	ministry spokesman Liu Jianchao	tell	regular press conference	PERSON	0
+1.0	foreign ministry spokesman Liu Jianchao	say to	Taiwan news report about possible transit stop	PERSON	LOCATION
+1.0	its	have	territory	O	O
+1.0	China	await	reunification by force necessary	LOCATION	0
+1.0	foreign ministry spokesman Liu Jianchao	say in	response	PERSON	0
+0.23154884713092094	China	warn	United States Thursday allow to transit	LOCATION	LOCATION
+1.0	Chad	switch	recognition	LOCATION	0

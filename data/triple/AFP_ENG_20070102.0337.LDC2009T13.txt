@@ -1,0 +1,67 @@
+1.0	security source	say in	latest crackdown on opposition group	0	0
+1.0	Brotherhood	manage despite	report electoral fraud in favour of rule party	ORGANIZATION	0
+1.0	Brotherhood	manage despite	electoral fraud in favour of rule party	ORGANIZATION	0
+1.0	three	have	website	O	O
+1.0	possession	have	membership	O	O
+1.0	membership of the banned Brotherhood and possession of books and publications	have	ideology hostile	O	O
+1.0	Brotherhood	manage despite	electoral fraud	ORGANIZATION	0
+1.0	student follower	stage show on	Cairo university campus	0	LOCATION
+0.9234144485217174	student follower	military-style show of	force	0	0
+1.0	group	enjoy	broad support	0	0
+1.0	Brotherhood	manage despite	fraud in favour	ORGANIZATION	0
+1.0	Brotherhood	manage despite	fraud in favour of rule party	ORGANIZATION	0
+1.0	books	have	possession	O	O
+1.0	Brotherhood	manage despite	widely report electoral fraud in favour of rule party	ORGANIZATION	0
+1.0	security source	say in	crackdown on opposition group	0	0
+1.0	Brotherhood	secure	fifth	ORGANIZATION	ORDINAL
+1.0	Brotherhood	secure	fifth of seat in 2005 parliamentary election	ORGANIZATION	ORDINAL
+1.0	Brotherhood	manage despite	widely report fraud in favour of rule party	ORGANIZATION	0
+1.0	Brotherhood	manage despite	electoral fraud in favour	ORGANIZATION	0
+1.0	seat	be in	2005 parliamentary election	0	DATE
+1.0	Brotherhood	manage despite	report fraud in favour of rule party	ORGANIZATION	0
+1.0	Brotherhood	secure	fifth of seat in 2005 election	ORGANIZATION	ORDINAL
+1.0	Brotherhood	give figure on	its website	ORGANIZATION	0
+1.0	Brotherhood	manage despite	electoral fraud in favour of party	ORGANIZATION	0
+1.0	the Muslim Brotherhood for membership of a banned organization	have	membership	O	ORGANIZATION
+1.0	student follower	stage	show of force	0	0
+1.0	publications	have	possession	O	O
+1.0	Brotherhood	manage despite	widely report fraud	ORGANIZATION	0
+1.0	student follower	stage	show	0	0
+1.0	Brotherhood	manage despite	widely report electoral fraud	ORGANIZATION	0
+1.0	group	be outlaw in	Egypt	0	LOCATION
+1.0	security source	say in	crackdown on lead opposition group	0	0
+1.0	student follower	stage show at_time	month	0	DATE
+1.0	The activists	have	homes	O	O
+1.0	force	have	show	O	O
+1.0	student follower	stage show at_time	last month	0	DATE
+1.0	Brotherhood	manage despite	report electoral fraud in favour of party	ORGANIZATION	0
+1.0	Brotherhood	manage despite	widely report electoral fraud in favour	ORGANIZATION	0
+1.0	security source	say in	latest crackdown	0	0
+1.0	group	be	outlaw	0	0
+1.0	Brotherhood	secure	fifth of seat	ORGANIZATION	ORDINAL
+1.0	Brotherhood	give	figure	ORGANIZATION	0
+1.0	Brotherhood	manage despite	widely report fraud in favour	ORGANIZATION	0
+1.0	student follower	stage	military-style show of force	0	0
+1.0	Brotherhood	manage despite	widely report fraud in favour of party	ORGANIZATION	0
+1.0	Brotherhood	manage despite	report fraud	ORGANIZATION	0
+1.0	group	be officially outlaw in	Egypt	0	LOCATION
+1.0	group	enjoy	support	0	0
+1.0	Brotherhood	have	members	O	ORGANIZATION
+1.0	Brotherhood	give	higher figure	ORGANIZATION	0
+1.0	party	have	favour	O	O
+1.0	three province	be in	Nile Delta	NUMBER	LOCATION
+1.0	Brotherhood	manage despite	report electoral fraud in favour	ORGANIZATION	0
+1.0	group	be	officially outlaw	0	0
+1.0	student follower	stage	military-style show	0	0
+1.0	Brotherhood	manage despite	report fraud in favour	ORGANIZATION	0
+1.0	report electoral fraud	be in	favour of rule party	0	0
+1.0	Brotherhood	manage despite	report fraud in favour of party	ORGANIZATION	0
+1.0	security source	say in	latest crackdown on lead opposition group	0	0
+0.9234144485217174	student follower	show of	force	0	0
+1.0	Brotherhood	manage despite	fraud	ORGANIZATION	0
+1.0	organization	have	membership	O	O
+1.0	Brotherhood	manage despite	widely report electoral fraud in favour of party	ORGANIZATION	0
+1.0	Brotherhood	manage despite	fraud in favour of party	ORGANIZATION	0
+1.0	seats	have	fifth	ORDINAL	O
+1.0	Brotherhood	manage despite	report electoral fraud	ORGANIZATION	0
+1.0	security source	say in	crackdown	0	0

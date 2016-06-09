@@ -1,0 +1,13 @@
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment	PERSON	0
+1.0	Ali Mohamed Gedi	be	Somali	PERSON	MISC
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	deployment of African Union peacekeeper	PERSON	LOCATION
+1.0	Somali Prime Minister Ali Mohamed Gedi	call between	ethiopia-backed government force	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day of fierce fighting	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call between	government force	PERSON	0
+1.0	African Union peacekeepers	have	deployment	O	O
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment of African Union peacekeeper	PERSON	LOCATION
+1.0	Ali Mohamed Gedi	be on	Monday	PERSON	DATE
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day of fighting	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call after	day	PERSON	0
+1.0	Somali Prime Minister Ali Mohamed Gedi	call for	urgent deployment	PERSON	0
+1.0	fighting	have	days	DURATION	O

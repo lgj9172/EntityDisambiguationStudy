@@ -1,0 +1,73 @@
+1.0	101st	have	members	O	ORGANIZATION
+1.0	Kentucky	have	state	O	LOCATION
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in central province	NUMBER	MISC
+1.0	three iraqi detainee	be	kill	NUMBER	0
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in central province	0	MISC
+1.0	military court	be in	week	0	0
+1.0	private	have	rank	O	O
+1.0	Salheddine	have	province	O	LOCATION
+1.0	specialist William Hunsaker	plead	guilty	PERSON	0
+0.7762213313463148	he	term of	he plea agreement	0	0
+1.0	suspect Al-Qaeda base	be in	central province of salheddine	MISC	0
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base	0	MISC
+1.0	iraqi detainee	be kill during	raid	0	0
+0.6105097045877094	he	violate	term of he plea agreement	0	0
+1.0	iraqi detainee	be kill during	raid against Al-Qaeda base	0	MISC
+1.0	Hunsaker risk life	be in	prison	PERSON	0
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in province of salheddine	0	MISC
+1.0	iraqi detainee	be kill during	raid against suspect Al-Qaeda base in central province of salheddine	0	MISC
+1.0	two soldier	member of	101st Airborne	NUMBER	ORGANIZATION
+1.0	iraqi detainee	be kill on	May 9 2006	0	DATE
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in central province	0	MISC
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in central province of salheddine	0	MISC
+1.0	his	have	plea agreement	O	O
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in central province of salheddine	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid against Al-Qaeda base in central province	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid against Al-Qaeda base in central province of salheddine	NUMBER	MISC
+1.0	iraqi detainee	be kill during	raid against suspect Al-Qaeda base in central province	0	MISC
+1.0	three iraqi detainee	be kill during	raid against Al-Qaeda base	NUMBER	MISC
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in province	0	MISC
+1.0	18 year	be in	prison	DURATION	0
+1.0	three iraqi detainee	be kill during	raid against suspect Al-Qaeda base in central province	NUMBER	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in province of salheddine	NUMBER	MISC
+1.0	iraqi detainee	be kill during	raid against Al-Qaeda base in central province of salheddine	0	MISC
+1.0	unit	have	member	O	O
+1.0	iraqi detainee	be	kill on May 9 2006 during raid	0	DATE
+1.0	three iraqi detainee	be kill during	raid against Al-Qaeda base in province	NUMBER	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid	NUMBER	DATE
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in central province of salheddine	0	MISC
+1.0	murder	attempt	obstruction	0	0
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid against suspect Al-Qaeda base	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid against Al-Qaeda base in province of salheddine	NUMBER	MISC
+1.0	member	accuse	soldier	0	0
+1.0	Hunsaker	have	sentence	PERSON	0
+1.0	Fort Campbell	be in	state of Kentucky	LOCATION	LOCATION
+1.0	iraqi detainee	be kill during	raid against Al-Qaeda base in central province	0	MISC
+1.0	three iraqi detainee	be kill on	May 9 2006	NUMBER	DATE
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base	0	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in central province	NUMBER	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in province	NUMBER	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in province of salheddine	NUMBER	MISC
+1.0	plea agreement	have	part	O	O
+1.0	three iraqi detainee	be kill during	raid against suspect Al-Qaeda base in province	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid against suspect Al-Qaeda base in central province of salheddine	NUMBER	MISC
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in province of salheddine	0	MISC
+1.0	Hunsaker	have	sentence	O	PERSON
+0.6105097045877094	he	violate	term	0	0
+1.0	justice	have	murder	O	O
+1.0	plea agreement	have	terms	O	O
+1.0	iraqi detainee	be kill during	raid against Al-Qaeda base in province of salheddine	0	MISC
+1.0	iraqi detainee	be kill during	raid against suspect Al-Qaeda base in province of salheddine	0	MISC
+1.0	member	accuse	fellow soldier	0	0
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in province	NUMBER	MISC
+1.0	specialist William Hunsaker	plead	guilty to murder	PERSON	0
+1.0	iraqi detainee	be kill during	raid against suspect Al-Qaeda base in province	0	MISC
+1.0	three iraqi detainee	be kill during	raid against suspect Al-Qaeda base in province of salheddine	NUMBER	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base	NUMBER	MISC
+1.0	iraqi detainee	be	kill on May 9 2006 during raid against suspect Al-Qaeda base in province	0	MISC
+1.0	iraqi detainee	be kill during	raid against suspect Al-Qaeda base	0	MISC
+1.0	three iraqi detainee	be	kill on May 9 2006 during raid against Al-Qaeda base in central province of salheddine	NUMBER	MISC
+1.0	three iraqi detainee	be kill during	raid	NUMBER	0
+1.0	iraqi detainee	be	kill	0	0
+1.0	iraqi detainee	be kill during	raid against Al-Qaeda base in province	0	MISC

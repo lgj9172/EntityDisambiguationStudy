@@ -1,0 +1,56 @@
+0.6247965484600756	contain	name of	diplomat resident	0	0
+1.0	explosives	have	quantities	O	O
+1.0	quantity	contain	document	0	0
+1.0	shoot-out	be with	guerrilla in recent week	0	DURATION
+1.0	clash	take south	place	0	0
+1.0	clash	take place at	Hamman-Lif	0	LOCATION
+1.0	investigation	allow	we	0	0
+0.6247965484600756	contain	name of	certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	diplomats	have	list	O	O
+1.0	diplomats resident	have	names	O	O
+1.0	quantity	contain	name of certain diplomat resident in Tunisia	0	LOCATION
+1.0	Rafik Haj Kacem	be minister of	Interior	PERSON	ORGANIZATION
+1.0	embassies	have	plans	O	O
+1.0	certain foreign diplomat resident	be in	the capital Tunis	0	LOCATION
+1.0	clash	take	place	0	0
+1.0	quantity	contain	plan of embassy	0	0
+1.0	the police	have	inquiries	O	O
+0.6247965484600756	contain	name of	foreign diplomat resident in Tunisia	0	LOCATION
+1.0	Salafist Group for Preaching	be affiliate of	Al-Qaeda	ORGANIZATION	ORGANIZATION
+1.0	capital Tunis	have	south	O	LOCATION
+1.0	quantity	contain	name of diplomat resident	0	0
+1.0	police	be in	clash	0	0
+1.0	quantity	contain	plan	0	0
+1.0	minister	be	quote	0	0
+1.0	security forces	have	members	O	O
+1.0	quantity	contain	plan of certain foreign embassy	0	0
+1.0	member	be in	first official acknowledgement	0	ORDINAL
+0.6247965484600756	contain	name of	certain foreign diplomat resident	0	0
+1.0	group	have	members	O	O
+1.0	quantity	contain	name of foreign diplomat resident	0	0
+1.0	clash	take place south at	Hamman-Lif	0	LOCATION
+1.0	quantity	contain	plan of foreign embassy	0	0
+1.0	Salafist Group for Preaching	be to	Al-Qaeda	ORGANIZATION	ORGANIZATION
+1.0	Rafik Haj Kacem	be	Interior	PERSON	ORGANIZATION
+1.0	quantity	contain	name of certain foreign diplomat resident	0	0
+0.6247965484600756	contain	name of	diplomat resident in Tunisia	0	LOCATION
+1.0	quantity	contain	plan of certain embassy	0	0
+1.0	quantity	contain	name of diplomat resident in Tunisia	0	LOCATION
+1.0	guerrilla	be in	recent week	0	DURATION
+1.0	quantity	contain	name of certain diplomat resident	0	0
+1.0	quantity	contain	name	0	0
+1.0	we	seize	quantity	0	0
+1.0	minister	say	Friday	0	DATE
+1.0	Interior Minister Rafik Haj Kacem	say at_time	Friday	PERSON	DATE
+1.0	foreign diplomat	be in	the capital Tunis	0	LOCATION
+0.4270380572397973	army unit	police in	clash	0	0
+0.6247965484600756	contain	name of	foreign diplomat resident	0	0
+1.0	economic facility	be in	resort town	0	0
+1.0	quantity	contain	name of foreign diplomat resident in Tunisia	0	LOCATION
+0.6247965484600756	contain	name of	certain diplomat resident in Tunisia	0	LOCATION
+1.0	quantity	contain	name of certain foreign diplomat resident in Tunisia	0	LOCATION
+1.0	list	have	Explosives	O	O
+1.0	we	seize	quantity of home-made explosive	0	0
+0.6247965484600756	contain	name of	certain diplomat resident	0	0
+1.0	we	seize	quantity of explosive	0	0
+1.0	embassies	have	Explosives	O	O

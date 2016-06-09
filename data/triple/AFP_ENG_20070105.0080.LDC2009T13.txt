@@ -1,0 +1,43 @@
+1.0	we	make	announcement	0	0
+1.0	AirAsia	be	launch as budget carrier with two aircraft	ORGANIZATION	NUMBER
+1.0	AirAsia	be	launch as budget carrier with just two aircraft	ORGANIZATION	NUMBER
+1.0	AirAsia	one of	Asia 's most successful low-cost carrier	LOCATION	LOCATION
+1.0	Malaysia 's budget carrier AirAsia	have	fleet	O	O
+1.0	200	have	fleet size	O	NUMBER
+1.0	fuel use	have	terms	O	O
+1.0	jet	have	type	O	O
+1.0	line	be with	ambitious route expansion plan	0	0
+0.9715202504449502	AirAsia	one	Asia 's most successful low-cost carrier	LOCATION	LOCATION
+1.0	budget carrier	be in	December 2001	0	DATE
+1.0	we	make announcement by	end of January	0	DATE
+1.0	AirAsia	be launch with	two aircraft	ORGANIZATION	NUMBER
+1.0	carriers	have	one	NUMBER	O
+1.0	we	make announcement by	end	0	DATE
+1.0	AirAsia	be	launch as budget carrier in December 2001 with two aircraft	ORGANIZATION	NUMBER
+1.0	report	have value deal base on	list price	0	0
+1.0	Asia	of	most successful low-cost carrier	LOCATION	0
+1.0	AirAsia	be	launch	ORGANIZATION	0
+1.0	AirAsia	have	fleet of 50 aircraft	LOCATION	NUMBER
+0.9715202504449502	AirAsia	one	Asia 's successful low-cost carrier	LOCATION	LOCATION
+1.0	Malaysia 's budget carrier AirAsia	say at_time	Friday	LOCATION	DATE
+1.0	Asia	have	carriers	O	LOCATION
+1.0	AirAsia	have	fleet	LOCATION	0
+1.0	type	have	up made	O	O
+1.0	aircraft	have	fleet	O	O
+1.0	AirAsia	be launch with	just two aircraft	ORGANIZATION	NUMBER
+1.0	AirAsia	be budget carrier of	Malaysia	ORGANIZATION	LOCATION
+1.0	domestic route	be in	country	0	0
+1.0	AirAsia	be launch as	budget carrier	ORGANIZATION	0
+1.0	Malaysia	have	AirAsia	LOCATION	ORGANIZATION
+1.0	Airbus A320 ets	have	fleet	O	O
+1.0	A320s	have	delivery	O	O
+1.0	its	have	fleet	O	O
+1.0	carrier Malaysia Airlines	have	route rationalisation	O	ORGANIZATION
+1.0	January	have	end	DATE	DATE
+1.0	routes	have	bulk	O	O
+0.9715202504449502	AirAsia	one of	Asia 's successful low-cost carrier	LOCATION	LOCATION
+0.9715202504449502	AirAsia	one of	Asia 's most successful low-cost carrier	LOCATION	LOCATION
+1.0	AirAsia	be	launch as budget carrier in December 2001 with just two aircraft	ORGANIZATION	NUMBER
+1.0	aircraft	have	said	O	O
+1.0	Malaysia	have	budget carrier AirAsia	ORGANIZATION	LOCATION
+1.0	AirAsia	be launch as	budget carrier in December 2001	ORGANIZATION	DATE

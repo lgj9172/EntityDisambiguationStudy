@@ -1,0 +1,45 @@
+0.6573596813858146	several top aide	tie to	Iraq conflict	0	LOCATION
+1.0	Iraq	have	commitment	O	LOCATION
+1.0	Staff	have	Joint Chiefs	ORGANIZATION	ORGANIZATION
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	Iraq	have	Sunni minority	O	LOCATION
+0.6573596813858146	several aide	tie to	Iraq conflict	0	LOCATION
+1.0	tour	accelerate	plan deployment	0	0
+1.0	President George W. Bush 's	have	security plan	O	O
+1.0	official	familiar with	debate	0	0
+1.0	US military	be	already stretch	LOCATION	0
+1.0	military official	be with	US	0	LOCATION
+1.0	all-volunteer US military	be	stretch	LOCATION	0
+1.0	government	have	reliability	O	O
+1.0	absenteeism	have	rates	O	O
+1.0	President George W. Bush 's	announce overhaul next	week	PERSON	DATE
+1.0	several aide	be	replace	0	0
+1.0	President George W. Bush 's	announce	overhaul of he Iraq strategy	PERSON	LOCATION
+0.6573596813858146	aide	tie to	Iraq conflict	0	LOCATION
+1.0	Iraq strategy	have	overhaul	O	O
+1.0	Iraq 's Sunni minority	backbone of	anti-us insurgency	MISC	0
+1.0	Iraq	have	military commitment to us-led operation with US military official	LOCATION	LOCATION
+1.0	aide	be	replace	0	0
+1.0	Iraq	have	Sunni minority	LOCATION	MISC
+1.0	George W. Bush	have	top adviser	PERSON	0
+1.0	President George W. Bush 's	announce	overhaul	PERSON	0
+1.0	Washington Post	cite	official familiar	ORGANIZATION	0
+1.0	Washington Post	report at_time	Friday	ORGANIZATION	DATE
+1.0	Maliki	have	government	O	PERSON
+1.0	desertion	have	rates	O	O
+0.6573596813858146	top aide	tie to	Iraq conflict	0	LOCATION
+1.0	tour	accelerate	deployment	0	0
+1.0	duty reserve units	have	tours	O	O
+1.0	insurgency	have	backbone	O	O
+1.0	President George W. Bush 's	have	Iraq strategy	O	O
+1.0	president	go	announce	0	0
+1.0	all-volunteer US military	be	already stretch	LOCATION	0
+1.0	Maliki	have	government	PERSON	0
+1.0	Iraq	's minority be	backbone of anti-us insurgency	LOCATION	0
+1.0	several top aide	be	replace	0	0
+1.0	US military	be	stretch	LOCATION	0
+1.0	president	be	likely	0	0
+1.0	Washington Post	cite	official familiar with debate	ORGANIZATION	0
+1.0	top aide	be	replace	0	0
+1.0	war	be in	Iraq	0	LOCATION
+1.0	President George W. Bush	have	advisers	O	PERSON

@@ -1,0 +1,67 @@
+1.0	his daughter	join	The last time we were in Islamabad	0	0
+1.0	the girl	run away from	she mother 's home	0	0
+1.0	Misbah Iram Ahmad	be name of	muslim	PERSON	0
+1.0	seminary	have	offices	O	O
+1.0	newspaper	cite interview with	girl	0	0
+1.0	the girl	run from	she mother 's home	0	0
+1.0	she	father	Sajjad Ahmed Rana	0	PERSON
+1.0	Pakistani President Pervez Musharraf	have	government	O	PERSON
+1.0	Times	report in	edition	ORGANIZATION	0
+1.0	custody battle	have	centre	O	O
+1.0	custody battle	be in	Pakistan	0	LOCATION
+1.0	Molly Campbell	have	education	O	O
+1.0	Times	report in	early edition	ORGANIZATION	0
+1.0	the girl	have	father	O	O
+1.0	the girl	run away	live	0	0
+1.0	religious seminary	of	office	0	0
+1.0	Sajjad Ahmed Rana	have	daughter	O	O
+1.0	Times	report in	edition of its Thursday newspaper	ORGANIZATION	DATE
+1.0	Thursday newspaper	have	edition	O	O
+1.0	his daughter	spend at_time	day	0	DURATION
+1.0	his daughter	be	grow	0	0
+1.0	the girl	run	live with she father	0	0
+1.0	Jamia Hafsa madrassa	be in	Islamabad	PERSON	LOCATION
+1.0	the girl	run	live	0	0
+1.0	Sajjad Ahmed Rana	be	quote	PERSON	0
+1.0	girl	spark police investigation at_time	last year	0	DATE
+1.0	girl	spark	police investigation	0	0
+1.0	his daughter	have	mind	O	O
+1.0	the girl	live with	she father	0	0
+1.0	Sajjad Ahmed Rana	have	home	O	O
+1.0	the girl	have	mother	O	O
+1.0	Pervez Musharraf	by	government harbour	PERSON	0
+1.0	Times	report in	early edition of its Thursday newspaper	ORGANIZATION	DATE
+1.0	Molly Campbell	be	12-year-old	ORGANIZATION	DURATION
+1.0	Sajjad Ahmed Rana	say by	Times	PERSON	ORGANIZATION
+1.0	newspaper	cite	interview	0	0
+1.0	the centre of a custody battle in Pakistan	have	Thursday newspaper	O	O
+1.0	Pervez Musharraf	be 's	Pakistani	PERSON	MISC
+1.0	he daughter	leave	he home	0	0
+1.0	the girl	run	live with she father in Pakistan	0	LOCATION
+1.0	mother	have	home	O	O
+1.0	the girl	run from	she mother 's home in Scotland	0	LOCATION
+1.0	the girl	run away	live with she father	0	0
+1.0	the girl	live with	she father in Pakistan	0	LOCATION
+1.0	girl	spark police investigation at_time	year	0	DATE
+1.0	the girl	run away from	she mother 's home in Scotland	0	LOCATION
+1.0	his daughter	be	grow person	0	0
+1.0	Red Mosque	want on	terrorism charge	LOCATION	0
+1.0	madrassa	have	officials	O	O
+1.0	his daughter	be	adult	0	0
+1.0	his daughter	be	person	0	0
+1.0	Red Mosque	be in	Islamabad	LOCATION	LOCATION
+1.0	madrassa	by	official	0	0
+1.0	Jamia Hafsa madrassa	be affiliate to	Lal Masjid	PERSON	PERSON
+1.0	Misbah Iram Ahmad	be by	muslim	PERSON	0
+1.0	an adult	be in	Islamabad	0	LOCATION
+1.0	Jamia Hafsa madrassa	be	affiliate	PERSON	0
+1.0	girl	spark	high-profile police investigation	0	0
+1.0	girl	spark police investigation in	August	0	DATE
+1.0	Molly Campbell	study	Islam	0	ORGANIZATION
+1.0	mother	from	home in Scotland	0	LOCATION
+1.0	she father	be in	Pakistan	0	LOCATION
+1.0	offices	have	one	NUMBER	O
+1.0	the girl	run away	live with she father in Pakistan	0	LOCATION
+1.0	his daughter	spend at	madrassa	0	DURATION
+1.0	she mother 's home	be in	Scotland	0	LOCATION
+1.0	Jamia Hafsa madrassa	be affiliate accord to	Times	PERSON	ORGANIZATION

@@ -1,0 +1,56 @@
+1.0	six-billion-dollar deal	be with	Thailand	0	LOCATION
+1.0	River	build	dam	LOCATION	0
+1.0	Shweli River	be in	Myanmar	LOCATION	LOCATION
+1.0	River	sign in	April	LOCATION	DATE
+1.0	Myanmar 's government	have recently sign	slate	LOCATION	0
+1.0	agreement	be with	China	0	LOCATION
+1.0	rights activists	have	ire	O	O
+1.0	Myanmar newspaper	have	New Light	O	O
+1.0	Myanmar	have	hydropower department	O	LOCATION
+1.0	Myanmar	in	Naypyidaw	LOCATION	LOCATION
+1.0	megawatts	have	maximum	O	O
+1.0	media	say at_time	Monday	0	DATE
+0.8330613623558839	River	longest undammed river in	Southeast Asia	LOCATION	LOCATION
+1.0	a new hydro-electric dam	destroy	habitat	0	0
+1.0	official media	say at_time	Monday	0	DATE
+1.0	dam projects	have	series	O	O
+1.0	dam	would	would biggest in Myanmar with capacity	0	LOCATION
+1.0	power	have	megawatts	O	O
+1.0	hydropower department	have	head	O	O
+1.0	agreements	have	slate	O	O
+1.0	use	be in	Myanmar	0	LOCATION
+1.0	dam	would	would biggest with capacity	0	0
+1.0	a new hydro-electric dam	uproot	village	0	0
+1.0	Myanmar 's government	have recently sign	slate of agreement with neighbour China	LOCATION	LOCATION
+1.0	Yunnan United Power Development Co.	be	Huang Guangming	ORGANIZATION	PERSON
+1.0	their	have	own	O	O
+1.0	Myanmar	of	hydropower department	LOCATION	0
+1.0	groups	have	ire	O	O
+1.0	projects	have	biggest	O	O
+0.8330613623558839	River	river in	Southeast Asia	LOCATION	LOCATION
+1.0	Myanmar	have	government	LOCATION	0
+0.8330613623558839	River	undammed river in	Southeast Asia	LOCATION	LOCATION
+1.0	Myanmar 's government	have sign	slate of agreement	LOCATION	0
+1.0	Myanmar	have	Naypyidaw	LOCATION	LOCATION
+1.0	River	build dam on	Salween	LOCATION	LOCATION
+1.0	Myanmar	have	government	O	LOCATION
+1.0	Myanmar 's government	have sign	slate	LOCATION	0
+1.0	dam	would	would biggest in Myanmar	0	LOCATION
+0.8983656949261606	biggest	be six-billion-dollar deal with	Thailand	0	LOCATION
+1.0	Aung Koe Shwe	be hydropower department of	Myanmar	PERSON	LOCATION
+1.0	longest undammed river	be in	Southeast Asia	0	LOCATION
+1.0	dam	would	would biggest in Myanmar with 7,000-megawatt capacity	0	LOCATION
+1.0	dam project	be in	military-ruled state	0	0
+1.0	Salween River	river in	Southeast Asia	LOCATION	LOCATION
+0.8983656949261606	biggest	be deal with	Thailand	0	LOCATION
+1.0	Yunnan United Power Development Co.	have	chairman	O	ORGANIZATION
+1.0	dam	would	would biggest	0	0
+1.0	dam	would	would biggest with 7,000-megawatt capacity	0	0
+1.0	Myanmar 's government	have sign	slate of agreement with neighbour China	LOCATION	LOCATION
+0.8983656949261606	biggest	be	deal	0	0
+1.0	biggest	be	six-billion-dollar	0	0
+1.0	Myanmar 's government	have recently sign	slate of agreement	LOCATION	0
+0.8983656949261606	biggest	be	six-billion-dollar deal	0	0
+1.0	chairman	have	head	O	O
+0.8330613623558839	River	longest river in	Southeast Asia	LOCATION	LOCATION
+1.0	Aung Koe Shwe	have	head	O	PERSON

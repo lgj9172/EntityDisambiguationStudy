@@ -1,0 +1,63 @@
+1.0	Denmark	have	470 soldier in Iraq include 415 station under British command	LOCATION	NUMBER
+1.0	Soeren Gade	be	danish	PERSON	0
+1.0	Iraqis	assume responsibility for	security	MISC	0
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra in Iraq under British command	LOCATION	NUMBER
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra in Iraq	LOCATION	NUMBER
+1.0	provinces	have	security	O	O
+1.0	June	have	end	DATE	DATE
+1.0	force	have	withdrawal	O	O
+1.0	troops	have	some	O	O
+1.0	Denmark	have	470 soldier in Iraq include 415 station	LOCATION	NUMBER
+1.0	Denmark	have	470 soldier include 415 station in Basra	LOCATION	NUMBER
+1.0	The Danish defense	have	missions	O	O
+1.0	New Year 's	in	address	DATE	0
+1.0	multinational division	be in	Iraq	0	LOCATION
+1.0	Colonel Henrik Sommer	tell	television tv2	PERSON	0
+1.0	soldiers	have	number	O	O
+1.0	Prime Minister Anders Fogh Rasmussen	evoke	possibility	PERSON	0
+1.0	Colonel Henrik Sommer	tell	danish television tv2	PERSON	0
+1.0	adaptation	have	possibility	O	O
+1.0	mission	have	adaptation	O	O
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra under British command	LOCATION	NUMBER
+1.0	Iraqis	gradually assume	responsibility	MISC	0
+1.0	Denmark	have	470 soldier include 415 station	LOCATION	NUMBER
+1.0	army	have	command	O	O
+1.0	Iraqis	gradually assume responsibility for	security	MISC	0
+1.0	Danish Defense Minister Soeren Gade	tell	AFP	PERSON	ORGANIZATION
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra in southern Iraq	LOCATION	NUMBER
+1.0	Defense Minister Soeren Gade	say at_time	Wednesday	PERSON	DATE
+1.0	Denmark	have	470 soldier include 415 station under British command	LOCATION	NUMBER
+1.0	reduction	have	possibility	O	O
+1.0	470 soldier	be in	Iraq	NUMBER	LOCATION
+1.0	Denmark	have	470 soldier in Iraq	LOCATION	NUMBER
+1.0	some 470 soldiers in Iraq , including 415 stationed in Basra in southern Iraq under British command	have	mission	O	O
+1.0	Denmark	have	470 soldier include 415 station in Basra under British command	LOCATION	NUMBER
+1.0	Prime Minister Anders Fogh Rasmussen	evoke	possibility of reduction of number of british soldier	PERSON	0
+1.0	whose mandate	expire at	end of June	0	DATE
+1.0	Denmark	have	470 soldier	LOCATION	NUMBER
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra in southern Iraq under British command	LOCATION	NUMBER
+1.0	command	have	Colonel Henrik Sommer	PERSON	O
+1.0	scenarios	have	one	NUMBER	O
+1.0	division	have	headquarters	O	O
+1.0	danish Defense Minister Soeren Gade	say at_time	Wednesday	PERSON	DATE
+1.0	Prime Minister Anders Fogh Rasmussen	evoke	possibility of reduction of number of soldier	PERSON	0
+1.0	danish army	of	operational command	0	0
+1.0	last province	be in	south	0	0
+1.0	Denmark	have	470 soldier include 415 station in Basra in Iraq	LOCATION	NUMBER
+1.0	provinces	have	control	O	O
+1.0	some of its troops	have	forces	O	O
+1.0	Prime Minister Anders Fogh Rasmussen	evoke	possibility of reduction	PERSON	0
+1.0	whose mandate	expire at	end	0	DATE
+1.0	Prime Minister Anders Fogh Rasmussen	evoke possibility in	New Year 's address	PERSON	DATE
+1.0	Denmark	have	470 soldier in Iraq include 415 station in Basra	LOCATION	NUMBER
+1.0	Denmark	have	troops	O	O
+1.0	Denmark	have	470 soldier include 415 station in Basra in southern Iraq under British command	LOCATION	NUMBER
+1.0	number	have	reduction	O	O
+1.0	Prime Minister Anders Fogh Rasmussen	evoke	possibility of reduction of number	PERSON	0
+1.0	reduction	be in	danish contingent	0	0
+1.0	Denmark	have	470 soldier include 415 station in Basra in Iraq under British command	LOCATION	NUMBER
+1.0	Iraqis	assume	responsibility	MISC	0
+1.0	Denmark	have	470 soldier include 415 station in Basra in southern Iraq	LOCATION	NUMBER
+1.0	whose	have	mandate	O	O
+1.0	New Year	have	address	O	DATE
+1.0	Basra	be in	Iraq	LOCATION	LOCATION

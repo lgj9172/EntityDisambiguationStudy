@@ -1,0 +1,4 @@
+1.0	pullback	have	severity	O	O
+1.0	pullback	be in	US housing sector	0	LOCATION
+1.0	Federal Reserve meeting	have	minutes	DURATION	O
+1.0	minutes	have	release	O	DURATION

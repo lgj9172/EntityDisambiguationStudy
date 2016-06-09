@@ -1,0 +1,11 @@
+1.0	minister	have	spokesman	O	O
+1.0	Minsk	be	force	LOCATION	0
+1.0	Minsk	pay	higher price	LOCATION	0
+1.0	Minsk	pay price for	gas	LOCATION	0
+1.0	minister 's spokesman	say at_time	Wednesday	0	DATE
+1.0	oil	have	transit	O	O
+1.0	prime minister	have	spokesman	0	0
+1.0	prime minister 's spokesman	say at_time	Wednesday	0	DATE
+1.0	Minsk	pay price for	russian gas	LOCATION	0
+1.0	Belarus	have	territory	O	O
+1.0	Minsk	pay	price	LOCATION	0

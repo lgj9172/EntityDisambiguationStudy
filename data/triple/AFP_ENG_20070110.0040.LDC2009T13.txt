@@ -1,0 +1,97 @@
+1.0	Taipei	have	Apple Daily	ORGANIZATION	LOCATION
+1.0	Fred Lin	spokesman for	Taipei District prosecutor Office	PERSON	ORGANIZATION
+1.0	Wang You-theng	have remit	800 million dollar	PERSON	MONEY
+0.9357704206194211	bankruptcy reorganisation application	unit of	Rebar group	0	MISC
+1.0	Hualien	have	over taken	O	ORGANIZATION
+1.0	group	have	troubles	O	O
+1.0	day	come into	light	0	0
+1.0	80-year-old Rebar founder	fly to	Shanghai	DURATION	LOCATION
+1.0	Chia Hsin Food	be burden from	loss in its fiber business	ORGANIZATION	0
+1.0	Premier Su	tell	cabinet meeting	PERSON	0
+1.0	stock market	fall	1.17 percent	0	PERCENT
+1.0	Shih jun-ji	be chairman of	Financial Supervisory Commission	PERSON	ORGANIZATION
+1.0	member	remain in	country pend investigation	0	0
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss in its fiber business	ORGANIZATION	MONEY
+1.0	member	remain	conglomerate 's executive	0	0
+1.0	Chia Hsin Food	be burden from	loss in its man-made fiber business	ORGANIZATION	0
+1.0	Rebar founder	fly to	Shanghai	MISC	LOCATION
+1.0	Chia Hsin Food	be burden from	loss	ORGANIZATION	0
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss in its fiber business	ORGANIZATION	MONEY
+1.0	prosecutor	have order	member	0	0
+1.0	company funds	have	embezzlement	O	O
+1.0	alleged irregularity	be in	Rebar group	0	0
+1.0	prosecutor	have order	member of Wang family	0	PERSON
+1.0	Wang family	have	members	O	O
+1.0	accounting regulations	have	forgery	O	O
+1.0	conglomerate	have	founder Wang You-theng	PERSON	O
+0.47937962732886696	stock market	fall at_time	Wednesday	0	DATE
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss in its man-made fiber business	ORGANIZATION	MONEY
+1.0	conglomerate	of	Wang You-theng	0	PERSON
+1.0	The 80-year-old Rebar founder	have	wife	O	O
+1.0	Wang Ling-chiao	president of	the Chinese Bank	PERSON	ORGANIZATION
+1.0	Wang Ling-chiao	be	take away	PERSON	0
+1.0	Chia Hsin Food and Synthetic Fiber	subsidiary in	group	ORGANIZATION	0
+1.0	Chia Hsin Food and Synthetic Fiber	have	fiber business	O	O
+1.0	insider trading	embezzlement of	company fund	0	0
+1.0	founder Wang You-theng	have	son	O	PERSON
+1.0	headquarters	run with	its founder flee	0	0
+1.0	19.9 billion dollar	be in	debt	MONEY	0
+1.0	local stock market	fall	1.17 percent	0	PERCENT
+1.0	Shih jun-ji	be	Financial Supervisory Commission	PERSON	ORGANIZATION
+1.0	Ho Chih-chin	have	sizable investment	0	0
+1.0	local stock market	have	have hit by storm	0	0
+1.0	Chia Hsin Food	burden	Synthetic Fiber	ORGANIZATION	ORGANIZATION
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss in its man-made fiber business	ORGANIZATION	MONEY
+1.0	politics	have	sides	O	O
+1.0	Wang Ling-chiao	be	take	PERSON	0
+1.0	subsidiary	be in	group	0	0
+1.0	member	remain in	country investigation	0	0
+1.0	conglomerate	have	top executive	0	0
+1.0	The government	have	branches	O	O
+1.0	stock market	have	have hit hard by storm	0	0
+1.0	Premier Su tseng-chang	tell	cabinet meeting	PERSON	0
+1.0	Taipei 's Apple Daily	say before	he departure	LOCATION	0
+1.0	local stock market	have	have hit hard by financial storm	0	0
+1.0	Wang Ling-chiao	be take away by	Investigation Bureau officer	PERSON	ORGANIZATION
+1.0	Rebar group	have	headquarters	O	O
+1.0	group	have	unit	O	O
+1.0	Chinese Bank	have	vice president	O	ORGANIZATION
+1.0	Rebar founder	fly	he wife	MISC	0
+1.0	loss	be in	its man-made fiber business	0	0
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar in debt from loss	ORGANIZATION	MONEY
+1.0	Ho Chih-chin	have	investment	0	0
+1.0	great chinese bill Finance Corporation	unit of	group	ORGANIZATION	0
+1.0	local stock market	have	have hit hard	0	0
+1.0	Ho Chih-chin	have	departure	O	O
+1.0	stock market	have	have hit by storm	0	0
+1.0	Rebar founder	fly on	December 30	MISC	DATE
+1.0	Chia Hsin Food	be burden with	19.9 billion dollar	ORGANIZATION	MONEY
+1.0	Rebar	have	guarantor	O	O
+1.0	stock market	have	have hit hard	0	0
+1.0	the headquarters of the financially troubled Rebar group , officials said , which has been hit by bank	have	founder	O	O
+1.0	group	before	financial trouble	0	0
+1.0	80-year-old Rebar founder	fly on	December 30	DURATION	DATE
+1.0	Chia Hsin Food	be burden with	19.9 billion dollar in debt	ORGANIZATION	MONEY
+1.0	Taipei	have	Apple Daily	LOCATION	ORGANIZATION
+1.0	trust	have	breach	O	O
+1.0	Chia Hsin Food	be	burden	ORGANIZATION	0
+1.0	local stock market	have	have hit by financial storm	0	0
+1.0	finance minister Ho Chih-chin	step	Financial Supervisory Commission Chairman Shih jun-ji	PERSON	ORGANIZATION
+1.0	headquarters	run with	its founder	0	0
+1.0	Rebar	have debt worth	20.7 billion dollar	LOCATION	MONEY
+1.0	Rebar group	have	units	O	O
+1.0	local stock market	have	have hit	0	0
+1.0	80-year-old Rebar founder	fly	he wife	DURATION	0
+1.0	commission	have	watchlist	O	O
+1.0	stock market	have	have hit hard by financial storm	0	0
+1.0	stock market	have	have hit	0	0
+0.47937962732886696	local stock market	fall at_time	Wednesday	0	DATE
+0.9357704206194211	bankruptcy reorganisation application	stricken unit of	Rebar group	0	MISC
+1.0	stock market	have	have hit by financial storm	0	0
+1.0	local stock market	have	have hit hard by storm	0	0
+1.0	Wang Ling-chiao	be take by	Investigation Bureau officer	PERSON	ORGANIZATION
+1.0	Rebar	have	debt	LOCATION	0
+1.0	member	remain	conglomerate 's top executive	0	0
+1.0	conglomerate	have	executives	O	O
+1.0	Chia Hsin Food	be	burden with 19.9 billion dollar from loss	ORGANIZATION	MONEY
+1.0	headquarters	run with	its founder flee to China	0	LOCATION

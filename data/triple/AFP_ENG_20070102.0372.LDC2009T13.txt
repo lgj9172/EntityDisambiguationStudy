@@ -1,0 +1,42 @@
+1.0	violent clash	erupt between	war faction at prison southwest of Caracas	0	LOCATION
+1.0	violent clash	erupt between	faction	0	0
+1.0	National Guard troops	be	also call	ORGANIZATION	0
+1.0	National Guard troops	be call	help	ORGANIZATION	0
+1.0	people	die during	first nine month of 2006	0	DATE
+1.0	clash	erupt between	war faction at prison southwest	0	0
+1.0	Venezuela	have	justice ministry	LOCATION	0
+1.0	Uribana prison	be in	lara state	LOCATION	0
+1.0	Fanny Marquez	decline	elaborate	PERSON	0
+1.0	people	die during	first nine month	0	DATE
+1.0	clash	erupt between	faction	0	0
+1.0	National Guard troops	be	call	ORGANIZATION	0
+0.9865601769964174	people	309 at	least	0	0
+1.0	2006	have	months	DATE	DATE
+1.0	people	be	kill	0	0
+1.0	clash	erupt between	war faction	0	0
+1.0	National Guard troops	be also call	help	ORGANIZATION	0
+1.0	people	die in	32 venezuelan prison	0	NUMBER
+1.0	people	die during	nine month	0	DATE
+1.0	prisons	have	director	O	O
+1.0	violent clash	erupt between	war faction at prison southwest	0	0
+1.0	clash	erupt between	faction at prison southwest of Caracas	0	LOCATION
+1.0	people	die in	32 prison	0	NUMBER
+1.0	Venezuela	have	justice ministry	O	LOCATION
+1.0	Monday	be with	fight between prisoner	DATE	0
+1.0	Caracas	have	prison southwest	O	LOCATION
+1.0	director	say in	statement	0	0
+1.0	National Guard troops	be also call accord to	Globovision television	ORGANIZATION	ORGANIZATION
+0.08525081604622908	type	be	use	0	0
+1.0	13 other	say at_time	Tuesday	NUMBER	DATE
+1.0	violent clash	erupt between	faction at prison southwest	0	0
+1.0	people	die accord to	private organization Prison Observatory	0	ORGANIZATION
+1.0	facility	have	control	O	O
+1.0	situation	have	control	O	O
+1.0	clash	erupt between	war faction at prison southwest of Caracas	0	LOCATION
+1.0	weapons	have	types	O	O
+1.0	people	die accord to	organization Prison Observatory	0	ORGANIZATION
+1.0	violent clash	erupt between	faction at prison southwest of Caracas	0	LOCATION
+1.0	violent clash	erupt between	war faction	0	0
+1.0	people	die during	nine month of 2006	0	DATE
+1.0	clash	erupt between	faction at prison southwest	0	0
+1.0	National Guard troops	be call accord to	Globovision television	ORGANIZATION	ORGANIZATION

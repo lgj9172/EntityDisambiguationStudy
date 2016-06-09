@@ -1,0 +1,57 @@
+1.0	material	have	purchases	O	O
+1.0	Bank Sepah	have	US blacklisting	O	ORGANIZATION
+1.0	US government	have similarly blacklist	Iran 's Bank Saderat	LOCATION	ORGANIZATION
+1.0	Iran	's organization be	the AIO	LOCATION	ORGANIZATION
+1.0	US government	have blacklist	Iran 's Bank Saderat in September	LOCATION	ORGANIZATION
+1.0	Treasury 's decision	have dealings with	Bank Sepah	ORGANIZATION	ORGANIZATION
+1.0	Iran	have	pursuit	O	LOCATION
+1.0	mass destruction	have	weapons	O	O
+1.0	Iran	have	missile program	O	LOCATION
+1.0	Bank Sepah	be in	the same year	ORGANIZATION	DATE
+1.0	department	have	anti-terrorism intelligence office	0	0
+1.0	Iran	have	missile procurement network	O	LOCATION
+1.0	Stuart Levey	be	The US Treasury Department	PERSON	ORGANIZATION
+1.0	Iran	have	Bank Saderat	ORGANIZATION	LOCATION
+1.0	its role as a financial conduit	have	missile program	O	O
+1.0	which	have	some	O	O
+1.0	Iran	have	bank	O	LOCATION
+1.0	support	have	has	O	O
+1.0	Treasury 's decision	have	dealings	ORGANIZATION	0
+1.0	bank	allege	support	0	0
+1.0	Iran	have	international purchase of sensitive material	LOCATION	0
+1.0	its role as a financial conduit	have	role	O	O
+1.0	Bank Saderat	be in	September	ORGANIZATION	DATE
+1.0	Iran	have	fifth state-owned bank	LOCATION	ORDINAL
+1.0	chinese firm	have	sale of missile related item	0	0
+1.0	Iran	of	missile procurement network	LOCATION	0
+1.0	bank	allege support for	terrorism	0	0
+1.0	Bank Sepah	have	blacklisting	O	ORGANIZATION
+1.0	Iran	to	Aerospace Industries Organization	LOCATION	ORGANIZATION
+1.0	Treasury	have	decision	ORGANIZATION	0
+1.0	firm	have	sale	O	O
+1.0	missile items	have	sale	O	O
+1.0	Treasury	say in	statement	ORGANIZATION	0
+1.0	London	have	support	O	O
+1.0	Bank Sepah	have	chairman	O	ORGANIZATION
+1.0	Iran	have	pursuit of missile capable	LOCATION	0
+1.0	missiles	have	pursuit	O	O
+1.0	Bank Sepah	have	chairman	ORGANIZATION	0
+1.0	The US Treasury Department	subsidiary	Bank Sepah International Plc	0	ORGANIZATION
+1.0	office	be in	London	0	LOCATION
+1.0	Iran	have	purchases	O	LOCATION
+1.0	missile procurement network	have	linchpin	O	O
+1.0	The US Treasury Department	have	subsidiary	O	O
+1.0	Ahmad Derakhshandeh	be chairman of	Bank Sepah	PERSON	ORGANIZATION
+1.0	US government	have similarly blacklist	Iran 's Bank Saderat in September	LOCATION	ORGANIZATION
+1.0	department	have	intelligence office	O	O
+1.0	Iran	's bank be	Bank Sepah	LOCATION	ORGANIZATION
+1.0	Iran	have	government	O	LOCATION
+1.0	Treasury	have	decision	O	ORGANIZATION
+1.0	Iran	have	Bank Saderat	LOCATION	ORGANIZATION
+1.0	Iran	for	government	LOCATION	0
+1.0	blacklisting	conduct	transaction link to US financial system	0	LOCATION
+1.0	Iran	have	Aerospace Industries Organization	ORGANIZATION	LOCATION
+1.0	US Treasury Department	say at_time	Tuesday	ORGANIZATION	DATE
+1.0	Iran	have	missile program	LOCATION	0
+1.0	US government	have blacklist	Iran 's Bank Saderat	LOCATION	ORGANIZATION
+1.0	Iran	be with	missile technology	LOCATION	0

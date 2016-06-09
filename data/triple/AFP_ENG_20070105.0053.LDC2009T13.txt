@@ -1,0 +1,67 @@
+0.15287387298155464	Tokyo Stock Exchange 's nikkei-225 index	day after	its best finish	ORGANIZATION	0
+1.0	Hideo Mizutani	strategist at	Sieg Securities	PERSON	ORGANIZATION
+1.0	Showa Shell Sekiyu	drop	31 yen	ORGANIZATION	MONEY
+1.0	volume	rise to	2.15 billion share	0	MONEY
+1.0	its	have	water reactor	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down	day after its finish since April 21	ORGANIZATION	DATE
+1.0	Thursday	during	half-day session	DATE	0
+1.0	US jobs	have	market	O	O
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	Bank of Japan	of bank be	BoJ	ORGANIZATION	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down	day after its best finish	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange	have	nikkei-225 index of lead share	ORGANIZATION	DURATION
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down day at	17,091.59	ORGANIZATION	NUMBER
+1.0	euro	ease from	1.3082	0	NUMBER
+0.9749025778774665	profit-taking	set in	in investor	0	0
+1.0	decliner	outpace	gainer 1,347	0	NUMBER
+1.0	euro	slide to	154.72 yen	0	MONEY
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close	day after its finish since April 21	ORGANIZATION	DATE
+1.0	decliner	outpace	gainer 1,347 to 302	0	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close	day after its best finish	ORGANIZATION	DURATION
+1.0	Hideyuki Suzuki	strategist at	SBI Securities	PERSON	ORGANIZATION
+1.0	dollar	drop at_time	Thursday	0	DATE
+1.0	Toshiba	rise	13 yen	ORGANIZATION	MONEY
+1.0	dollar	drop to	118.34 yen	0	MONEY
+1.0	dollar	drop at_time	late Thursday	0	DATE
+1.0	euro	slide to	154.72 yen below Wednesday 's record	0	MONEY
+1.0	dollar	drop on	exchange market	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down	day after its best finish since April 21	ORGANIZATION	DATE
+1.0	Tokyo Stock Exchange	have	Nikkei-225 index	O	ORGANIZATION
+1.0	euro	slide to	154.72 yen from 155.75 below Wednesday 's record high	0	NUMBER
+1.0	euro	slide to	154.72 yen from 155.75 below Wednesday 's record	0	NUMBER
+1.0	profit-taking	now view	market	0	0
+1.0	dollar	drop in	New York	0	LOCATION
+1.0	euro	slide to	154.72 yen from 155.75	0	NUMBER
+1.0	volume	rise during	Thursday 's half-day session	0	DATE
+1.0	dollar	drop on	foreign exchange market	0	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close	day after its best finish since April 21	ORGANIZATION	DATE
+1.0	its	have	finish	O	O
+1.0	euro	slide to	154.72 yen below Wednesday 's record high	0	MONEY
+0.15287387298155464	Tokyo Stock Exchange 's nikkei-225 index	day after	its best finish since April 21	ORGANIZATION	DATE
+1.0	profit-taking	be	overbought	0	0
+1.0	Wednesday	have	record	O	DATE
+1.0	its	have	interest rate	O	O
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close	day after its finish	ORGANIZATION	DURATION
+1.0	profit-taking	view	market	0	0
+1.0	volume	rise from	1.06 billion	0	MONEY
+1.0	buying interest	be in	export-oriented share	0	0
+0.47937962732886696	Elpida memory	fall to	5,840	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down	day	ORGANIZATION	DURATION
+0.15287387298155464	Tokyo Stock Exchange 's nikkei-225 index	day after	its finish since April 21	ORGANIZATION	DATE
+1.0	companies	have	TOPIX index	O	O
+1.0	118.34 yen	be in	Tokyo afternoon trade	MONEY	LOCATION
+0.28627611980559997	Toshiba	rise to	808	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close	day	ORGANIZATION	DURATION
+0.15287387298155464	Tokyo Stock Exchange 's nikkei-225 index	day after	its finish	ORGANIZATION	0
+1.0	volume	rise during	Thursday 's session	0	DATE
+0.47937962732886696	Inpex	fall to	919,000	ORGANIZATION	NUMBER
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close day at	17,091.59	ORGANIZATION	NUMBER
+0.9749025778774665	profit-taking	also set in	in investor	0	0
+1.0	dollar	drop from	119.01	0	NUMBER
+1.0	dollar	drop to	118.34 yen in Tokyo afternoon trade	0	MONEY
+1.0	Thursday	have	session	O	DATE
+1.0	Wednesday	below	record high	DATE	0
+1.0	Tokyo Stock Exchange 's nikkei-225 index	close down	day after its finish	ORGANIZATION	DURATION
+1.0	shares	have	Nikkei-225 index	O	O
+1.0	euro	ease to	1.3074 dollar	0	MONEY
+1.0	fall	be in	world oil price	DATE	0

@@ -1,0 +1,52 @@
+1.0	democratic Senate Majority Leader Harry Reid	pressure	House Speaker Nancy Pelosi	PERSON	PERSON
+1.0	US President George W. Bush on Saturday	search with	he rival	0	0
+1.0	line	continue	we policy	0	0
+1.0	tens of thousands of US casualties	have	policies	O	O
+1.0	Harry Reid	be majority leader of	democratic Senate	PERSON	ORGANIZATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	democratic Senate Majority Leader Harry Reid	write	House Speaker Nancy Pelosi	PERSON	PERSON
+1.0	US President George W. Bush	offer	leader of Congress cooperation	LOCATION	ORGANIZATION
+1.0	tens of thousands of US casualties	hold	line on spending	0	0
+1.0	Senate Majority Leader Harry Reid	pressure	he	PERSON	0
+1.0	democratic Senate Majority Leader Harry Reid	write bush letter at_time	Friday	PERSON	DATE
+1.0	tens of thousands of US casualties	hold	line	0	0
+1.0	effort	improve	we school	0	0
+1.0	combat	have	years	DURATION	O
+1.0	Senate Majority Leader Harry Reid	write	House Speaker Nancy Pelosi	PERSON	PERSON
+1.0	US President George W. Bush on Saturday	avoid	issue of war	0	0
+1.0	US President George W. Bush	eliminate	budget deficit	LOCATION	0
+1.0	US President George W. Bush	offer	leader	LOCATION	0
+1.0	he	end	war	0	0
+1.0	president	outline	proposal	0	0
+1.0	George W. Bush	be on	Saturday	PERSON	DATE
+1.0	tens of thousands of US casualties	have	economy	O	O
+1.0	war	have	issue	O	O
+1.0	Senate Majority Leader Harry Reid	write bush letter at_time	Friday	PERSON	DATE
+1.0	Senate Majority Leader Harry Reid	pressure	House Speaker Nancy Pelosi	PERSON	PERSON
+1.0	Bush	have	radio address	O	O
+1.0	issue	be in	he weekly radio address	0	SET
+1.0	major political battle	be in	week	0	0
+1.0	US President George W. Bush on Saturday	have	rivals	O	O
+1.0	Congress cooperation	have	leaders	O	O
+1.0	nation	have	needs	O	O
+1.0	US President George W. Bush on Saturday	search with	he democratic rival	0	0
+1.0	budget deficit	improve	education	0	0
+1.0	democratic Senate Majority Leader Harry Reid	write	Bush letter	PERSON	PERSON
+1.0	US casualties	have	thousands	O	O
+1.0	our	have	schools	O	O
+1.0	United States	end	fiscal 2006	LOCATION	DATE
+1.0	US President George W. Bush on Saturday	search for	common ground	0	0
+1.0	tens of thousands of US casualties	have	nation	O	O
+1.0	Some Democrats	work together	Republicans	MISC	MISC
+1.0	US President George W. Bush on Saturday	avoid	issue	0	0
+1.0	Harry Reid	be	democratic Senate	PERSON	ORGANIZATION
+1.0	democratic Senate Majority Leader Harry Reid	pressure	he	PERSON	0
+1.0	The president	have	budget	O	O
+1.0	Some Democrats	work	Republicans	MISC	MISC
+1.0	Nancy Pelosi	be	House	PERSON	ORGANIZATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	tens of thousands of US casualties	balance	budget	0	0
+1.0	US President George W. Bush on Saturday	search for	ground	0	0
+1.0	Nancy Pelosi	be speaker of	House	PERSON	ORGANIZATION
+1.0	Senate Majority Leader Harry Reid	write	Bush letter	PERSON	PERSON
+1.0	line	continue	we pro-growth policy	0	0

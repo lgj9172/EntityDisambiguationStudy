@@ -1,0 +1,122 @@
+1.0	Hasanuddin air base	be in	Makassar	PERSON	LOCATION
+1.0	ship	have	have call to port	0	0
+1.0	Beechcraft King Air	be common in	vast archipelago nation stretch	0	0
+1.0	passengers	have	Relatives	O	O
+1.0	ship	be originally send to	area include survey ship KRI Leuser	0	0
+1.0	Singapore	have deploy	fokker-50 aircraft	LOCATION	0
+1.0	Beechcraft King Air	be	common	0	0
+1.0	plane	vanish through	halfway island	0	0
+1.0	large object	be detect in	sea	0	0
+1.0	five ship	be send to	area include indonesian survey ship KRI Leuser	0	0
+1.0	Sulawesi	have	detected	O	LOCATION
+1.0	Beechcraft King Air	be common in	archipelago nation stretch	0	0
+1.0	large object	be	detect at depth in sea	0	0
+1.0	Eddy Suyanto	be	First	PERSON	ORDINAL
+1.0	miles	have	area	O	O
+1.0	large object	be detect at	depth of around 1,000 metre	0	NUMBER
+1.0	ship	have	have call back	0	0
+1.0	large object	be	detect by sonar at depth of around 1,000 metre	0	NUMBER
+1.0	island	be in	northeast	0	0
+1.0	US ocean survey ship	comb water off	island	LOCATION	0
+1.0	Canada	have send	aircraft	LOCATION	0
+1.0	search team	have	where have hunting for trace	0	0
+1.0	object	be	detect by sonar in sea	0	0
+1.0	the Mary Sears	be	US Navy	PERSON	ORGANIZATION
+0.6464732521221654	wreckage	remote mountain	survivor	0	0
+1.0	ship	be send to	area	0	0
+1.0	navy	have	KRI Fatahillah	ORGANIZATION	ORGANIZATION
+1.0	air base	at	search	0	0
+1.0	five ship	be	send	0	0
+1.0	plane	vanish from	radar screen	0	0
+0.8875965336562167	wreckage	have	have find on remote mountain in West Sulawesi province	0	LOCATION
+1.0	ship	be send to	area include indonesian oceanographic survey ship KRI Leuser	0	0
+1.0	Mamuju in western Sulawesi	have	searching	O	LOCATION
+1.0	large object	be	detect by sonar in sea	0	0
+1.0	five ship	be send to	area	0	0
+1.0	object	be detect in	sea	0	0
+1.0	bad weather	have hamper	search	0	0
+1.0	plane	vanish through	island	0	0
+1.0	plane	vanish through	island in northeast	0	0
+1.0	New Year	have	Day	DATE	DATE
+1.0	location	west of	Mamuju in western Sulawesi	0	LOCATION
+1.0	mountainous	have	terrain	O	O
+1.0	ship	have	have call	0	0
+1.0	object	be detect at	depth of around 1,000 metre	0	NUMBER
+1.0	Fatahillah commander Lieutenant Colonel Maman Firmansyah	tell	journalist	PERSON	0
+1.0	plane	vanish through	halfway island in northeast	0	0
+1.0	ship	be	originally send	0	0
+1.0	area	have	quarter	DURATION	O
+1.0	US ocean survey ship	comb water off	indonesian island	LOCATION	0
+1.0	object	be	detect by sonar at depth of around 1,000 metre in sea	0	NUMBER
+1.0	Beechcraft King Air	common	accident	0	0
+1.0	object	be	detect at depth of around 1,000 metre in sea	0	NUMBER
+1.0	Beechcraft King Air	common	marine accident	0	0
+1.0	relative	be	leave	0	0
+1.0	five ship	be originally send to	area include indonesian oceanographic survey ship KRI Leuser	0	0
+1.0	ship	be	send	0	0
+1.0	search team	have	where have hunting	0	0
+1.0	object	be	detect at depth in sea	0	0
+0.8875965336562167	wreckage	have	have find on remote mountain	0	0
+1.0	Beechcraft King Air	be common in	Indonesia	0	LOCATION
+1.0	five ship	be send to	area include indonesian oceanographic survey ship KRI Leuser	0	0
+1.0	five ship	be originally send to	area include survey ship KRI Leuser	0	0
+1.0	Java	have	island	O	MISC
+1.0	search rescue personnel	have	ships	O	O
+1.0	large object	be	detect by sonar at depth	0	0
+1.0	ship	be send to	area include survey ship KRI Leuser	0	0
+1.0	fokker-50 aircraft	help	crew	0	0
+1.0	ship	be originally send to	area	0	0
+1.0	ship	be originally send to	area include indonesian oceanographic survey ship KRI Leuser	0	0
+0.8875965336562167	wreckage	have	have find on mountain in West Sulawesi province	0	LOCATION
+1.0	Lanang Bodi	officer on	duty at air base 's search	PERSON	0
+1.0	object	be detect at	depth	0	0
+1.0	island	have	combed	O	O
+1.0	search team	have	have hunting	0	0
+1.0	object	be	detect	0	0
+1.0	five ship	be send to	area include survey ship KRI Leuser	0	0
+1.0	ship	be originally send to	area include oceanographic survey ship KRI Leuser	0	0
+1.0	Adam Air jet	have	traces	O	O
+1.0	US ocean survey ship	comb	water	LOCATION	0
+1.0	police	have	ships	O	O
+1.0	ship	be send to	area include indonesian survey ship KRI Leuser	0	0
+1.0	plane	vanish from	radar screen on New Year 's day	0	DATE
+1.0	ship	have	have call back to port	0	0
+1.0	ship	be send to	area include oceanographic survey ship KRI Leuser	0	0
+1.0	US ocean survey ship	comb water at_time	Wednesday	LOCATION	DATE
+1.0	object	be	detect by sonar at depth in sea	0	0
+1.0	Canada	have also send	aircraft	LOCATION	0
+1.0	indonesian navy	have	KRI Fatahillah	ORGANIZATION	ORGANIZATION
+1.0	large object	be	detect	0	0
+1.0	remote mountain	be in	West Sulawesi province	0	LOCATION
+1.0	air base	have	search	O	O
+0.8875965336562167	wreckage	have	have find on mountain	0	0
+1.0	large object	be	detect by sonar at depth in sea	0	0
+1.0	object	be detect by	sonar	0	0
+1.0	metres	have	depth	O	O
+1.0	five ship	be	originally send	0	0
+1.0	Fatahillah commander Lieutenant Colonel Maman Firmansyah	tell journalist on	board	PERSON	0
+1.0	military	have	ships	O	O
+1.0	Beechcraft King Air	be common in	archipelago nation	0	0
+1.0	five ship	be originally send to	area include oceanographic survey ship KRI Leuser	0	0
+1.0	Beechcraft King Air	be common in	vast archipelago nation	0	0
+1.0	five ship	be originally send to	area include indonesian survey ship KRI Leuser	0	0
+1.0	object	be	detect by sonar at depth	0	0
+0.6464732521221654	wreckage	mountain	survivor	0	0
+0.8875965336562167	wreckage	have	have find	0	0
+1.0	five ship	be send to	area include oceanographic survey ship KRI Leuser	0	0
+1.0	crew	have	Relatives	O	O
+1.0	search team	have	where have hunting for trace of Adam Air jet	0	0
+1.0	weather	have hamper	search	0	0
+1.0	Mamuju in western Sulawesi	be in	Sulawesi	LOCATION	LOCATION
+1.0	search team	have	have hunting for trace of Adam Air jet	0	0
+1.0	large object	be detect by	sonar	0	0
+1.0	Singapore	have also deploy	fokker-50 aircraft	LOCATION	0
+1.0	large object	be	detect by sonar at depth of around 1,000 metre in sea	0	NUMBER
+1.0	large object	be	detect at depth of around 1,000 metre in sea	0	NUMBER
+1.0	search team	have	have hunting for trace	0	0
+1.0	five ship	be originally send to	area	0	0
+1.0	passenger jet	have	wreckage	O	O
+1.0	object	be	detect by sonar at depth of around 1,000 metre	0	NUMBER
+1.0	ship	be originally send to	area include indonesian survey ship KRI Leuser	0	0
+1.0	Mamuju in western Sulawesi	have	west	O	LOCATION
+1.0	large object	be detect at	depth	0	0

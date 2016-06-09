@@ -1,0 +1,75 @@
+1.0	winter	have	context	O	DATE
+1.0	Vladimir Senko	be ambassador of	Belarus	PERSON	LOCATION
+1.0	Belarus	agree under	term of accord strike late	LOCATION	0
+1.0	Belarus	agree under	term of accord strike with energy monopoly Gazprom	LOCATION	ORGANIZATION
+1.0	European Union energy expert	say at_time	Thursday	ORGANIZATION	DATE
+1.0	that	have	transits	O	O
+1.0	Belarus	agree under	term of accord strike with russian energy monopoly Gazprom	LOCATION	ORGANIZATION
+1.0	Minsk	sell	50 percent	LOCATION	PERCENT
+1.0	Belarus	agree under	term of accord strike	LOCATION	0
+1.0	EU	be	heavily dependent	ORGANIZATION	0
+1.0	20 percent	transit of	that	PERCENT	0
+1.0	the EU 's natural gas supplies	of security be	factual presentation	LOCATION	0
+1.0	gas expert	say in	statement	0	0
+1.0	Russia	agree to	supply contract	0	0
+1.0	Russia	agree with	higher price	0	0
+1.0	state pipeline operator Beltransgaz	have	percent	PERCENT	ORGANIZATION
+1.0	Minsk	sell	50 percent of state pipeline operator Beltransgaz	LOCATION	PERCENT
+1.0	dollars	have	price	O	MONEY
+1.0	meeting	be	call on December 28 in response to price standoff	0	DATE
+1.0	Russia	agree to	new supply contract	0	0
+1.0	Belarus	agree under	term of accord strike late with energy monopoly Gazprom	LOCATION	ORGANIZATION
+1.0	EU	have	natural gas supplies	ORGANIZATION	0
+1.0	percent	transit through	Ukraine	PERCENT	LOCATION
+1.0	storage gas flows	have	situation	O	O
+1.0	meeting	be call on	December 28	0	DATE
+1.0	meeting	be	call	0	0
+1.0	EU	be	dependent	ORGANIZATION	0
+1.0	percent	transit through	Belarus	PERCENT	LOCATION
+1.0	meeting	be call to	price standoff	0	0
+1.0	Russia	have	supplies	O	O
+1.0	EU	have	total gas need in 2005	ORGANIZATION	DATE
+1.0	EU	be heavily dependent on	energy	ORGANIZATION	0
+0.8291336565221455	EU 's total gas need	represent	40 percent of gas import	ORGANIZATION	PERCENT
+1.0	EU	have	gas needs	O	ORGANIZATION
+1.0	EU	be dependent on	energy	ORGANIZATION	0
+1.0	Eurogas	be from	european	ORGANIZATION	0
+1.0	meeting	be call in	response	0	0
+1.0	EU	be dependent on	russian energy	ORGANIZATION	0
+1.0	deal	have	presentation	O	O
+1.0	gas	have	metres	O	O
+1.0	Belarus	agree under	term	LOCATION	0
+1.0	20 percent	transit through	Ukraine	PERCENT	LOCATION
+1.0	EU 's total gas need	be in	2005	ORGANIZATION	DATE
+1.0	Russia	agree with	price	0	0
+1.0	percent	transit	mean	PERCENT	0
+1.0	meeting	be	call on December 28 to price standoff	0	DATE
+1.0	considering	have	context	O	O
+1.0	accord	have	terms	O	O
+1.0	meeting	be	call in response to price standoff	0	0
+1.0	security	presentation of	deal with Russia	0	LOCATION
+1.0	percent	transit of	that	PERCENT	0
+1.0	deal	be with	Russia	0	LOCATION
+1.0	EU	be heavily dependent on	russian energy	ORGANIZATION	0
+1.0	Gazprom	be with	russian	ORGANIZATION	0
+1.0	meeting	be in	Brussels	0	LOCATION
+1.0	Russia	have	territory	O	O
+1.0	Belarus	be on	January 1	LOCATION	DATE
+1.0	Vladimir Senko	be	Belarus	PERSON	LOCATION
+1.0	Belarus	agree under	term of accord strike late on December 31 with russian energy monopoly Gazprom	LOCATION	DATE
+1.0	20 percent	transit through	Belarus	PERCENT	LOCATION
+1.0	gas	have	percent	PERCENT	O
+1.0	Belarus	agree under	term of accord	LOCATION	0
+1.0	Belarus	agree under	term of accord strike late on December 31	LOCATION	DATE
+1.0	EU	have	gas supplies	O	ORGANIZATION
+0.8291336565221455	EU 's gas need	represent	40 percent of gas import	ORGANIZATION	PERCENT
+1.0	Europe	have	gas	O	LOCATION
+1.0	EU gas supplies	have	security	O	O
+1.0	Russia	supply	24 percent	LOCATION	PERCENT
+1.0	gas imports	have	percent	PERCENT	O
+1.0	meeting	be	call on December 28 in response	0	DATE
+1.0	Belarus	agree under	term of accord strike late with russian energy monopoly Gazprom	LOCATION	ORGANIZATION
+1.0	20 percent	transit	mean	PERCENT	0
+1.0	supply	have	security	O	O
+1.0	Russia	cut	the EU 's natural gas supplies	LOCATION	0
+1.0	Belarus	agree under	term of accord strike late on December 31 with energy monopoly Gazprom	LOCATION	DATE

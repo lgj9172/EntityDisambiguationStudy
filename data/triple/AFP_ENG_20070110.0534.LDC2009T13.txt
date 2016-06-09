@@ -1,0 +1,13 @@
+1.0	Johnny Hallyday	be veteran rock star of	France	PERSON	LOCATION
+1.0	France 's veteran rock star Johnny Hallyday	move to	Switzerland	0	LOCATION
+1.0	France	's singer be	France 's veteran rock star Johnny Hallyday	LOCATION	PERSON
+1.0	he press service	say at_time	Wednesday	0	DATE
+1.0	France	have	rock singer	O	LOCATION
+1.0	France	have	veteran rock star Johnny Hallyday	PERSON	LOCATION
+1.0	France 's veteran rock star Johnny Hallyday	move	avoid	0	0
+1.0	France 's veteran rock star Johnny Hallyday	have	press service	O	O
+1.0	Lausanne	have	city	O	LOCATION
+1.0	France	have	most famous rock singer bear	LOCATION	0
+1.0	France	have	Johnny Hallyday	LOCATION	PERSON
+1.0	tour	have	middle	O	O
+1.0	France 's veteran rock star Johnny Hallyday	be	63-year-old	PERSON	DURATION

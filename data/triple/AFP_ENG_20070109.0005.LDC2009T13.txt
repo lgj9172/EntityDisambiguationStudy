@@ -1,0 +1,83 @@
+1.0	Michel Kilo	be	go on trial before criminal court in capital	PERSON	DATE
+1.0	Bunni	refer after	brief period	PERSON	0
+1.0	openness	have	period	O	O
+1.0	Michel Kilo	be	go on trial on January 23	PERSON	DATE
+1.0	Michel Kilo	be	go on trial before court in syrian capital	PERSON	DATE
+1.0	Michel Kilo	be	go before court in syrian capital	PERSON	DATE
+1.0	UN human rights commission	press for	human rights	ORGANIZATION	0
+1.0	false information	provoke	dissent	0	0
+1.0	he	call for	release of political prisoner	0	0
+1.0	Michel Kilo	be	go on trial on January 23 before court in capital	PERSON	DATE
+1.0	Michel Kilo	both lose	communist activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	be	go before criminal court in syrian capital	PERSON	DATE
+1.0	Michel Kilo	be	go on trial on January 23 before criminal court	PERSON	DATE
+1.0	Michel Kilo	be arrest in	last May	0	DATE
+1.0	UN human rights commission	press	respect	ORGANIZATION	0
+1.0	Michel Kilo	lose	appeal	0	0
+1.0	Michel Kilo	go on	trial on January 23	PERSON	DATE
+1.0	Michel Kilo	go before	criminal court	PERSON	0
+1.0	he	call for	release	0	0
+1.0	aggression	have	danger	O	O
+1.0	Michel Kilo	be	go before court in capital	PERSON	DATE
+1.0	Michel Kilo	go before	criminal court in capital	PERSON	0
+1.0	Bunni	tell afp from	he prison near Damascus	PERSON	LOCATION
+1.0	Michel Kilo	be	go before criminal court	PERSON	DATE
+1.0	Bunni	refer to	crackdown	PERSON	0
+1.0	Michel Kilo	be	go	PERSON	0
+1.0	Michel Kilo	both lose	appeal	0	0
+1.0	Michel Kilo	both lose	activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	go before	court in syrian capital	PERSON	0
+1.0	Michel Kilo	be	go before criminal court in capital	PERSON	DATE
+1.0	Bunni	refer after	period	PERSON	0
+1.0	he	urge	UN human rights commission	0	ORGANIZATION
+1.0	Bunni	refer after	brief period of political openness	PERSON	0
+1.0	lawyer Anwar Bunni	have	trial	O	PERSON
+1.0	Michel Kilo	be	go on trial before court	PERSON	DATE
+1.0	Michel Kilo	be	go on trial on January 23 before criminal court in syrian capital	PERSON	DATE
+1.0	Bunni	tell afp from	he prison	PERSON	0
+1.0	Michel Kilo	lose	communist activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	drop	communist activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	be	go on trial before criminal court	PERSON	DATE
+1.0	Michel Kilo	be	go before court	PERSON	DATE
+1.0	prisoners	have	release	O	O
+1.0	Bunni	refer after	period of political openness	PERSON	0
+1.0	human rights	be in	Syria	0	LOCATION
+1.0	Michel Kilo	go before	court in capital	PERSON	0
+1.0	Michel Kilo	lose appeal in	December	0	DATE
+1.0	UN human rights commission	press	Security Council	ORGANIZATION	ORGANIZATION
+1.0	criminal court	be in	syrian capital	0	0
+1.0	National Organisation for Human Rights	be in	attack Syria	ORGANIZATION	LOCATION
+1.0	UN human rights commission	press for	rights	ORGANIZATION	0
+1.0	Michel Kilo	drop	activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	lose appeal in	December for charge	0	DATE
+1.0	Michel Kilo	lose	activist Mahmud Issa	0	PERSON
+1.0	Michel Kilo	be	go on trial before criminal court in syrian capital	PERSON	DATE
+1.0	Michel Kilo	be	go on trial on January 23 before court	PERSON	DATE
+1.0	Michel Kilo	go before	court	PERSON	0
+1.0	emergency laws	have	the	O	O
+1.0	Bunni	refer after	period of openness	PERSON	0
+1.0	his	have	prison	O	O
+1.0	Bunni	tell afp by	telephone	PERSON	0
+1.0	independence	have	recognition	O	O
+1.0	UN human rights commission	press for	rights in Syria	ORGANIZATION	LOCATION
+1.0	Lebanon	have	independence	O	LOCATION
+1.0	UN human rights commission	press for	human rights in Syria	ORGANIZATION	LOCATION
+1.0	Michel Kilo	both lose appeal in	December	0	DATE
+1.0	Lebanon	of	independence	LOCATION	0
+1.0	Michel Kilo	be	go on trial	PERSON	0
+1.0	Michel Kilo	go before	criminal court in syrian capital	PERSON	0
+1.0	Michel Kilo	be	drop	0	0
+1.0	Michel Kilo	be	go on trial before court in capital	PERSON	DATE
+1.0	Michel Kilo	go on	trial	PERSON	0
+1.0	Bunni	tell	afp	PERSON	0
+1.0	Michel Kilo	be	go on trial on January 23 before criminal court in capital	PERSON	DATE
+1.0	Michel Kilo	be	arrest	0	0
+1.0	Michel Kilo	arrest	Mahmud Issa	0	PERSON
+1.0	Michel Kilo	both lose appeal in	December for charge	0	DATE
+1.0	he	call for	release of prisoner	0	0
+1.0	Michel Kilo	be arrest along with	eight other	0	NUMBER
+1.0	arrests	have	wave	O	O
+1.0	Michel Kilo	be	go on trial on January 23 before court in syrian capital	PERSON	DATE
+1.0	defence lawyer Khalil Maatuk	say at_time	Tuesday	PERSON	DATE
+1.0	Bunni	refer after	brief period of openness	PERSON	0
+1.0	state	have	image	O	O

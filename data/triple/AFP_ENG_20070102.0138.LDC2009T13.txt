@@ -1,0 +1,64 @@
+1.0	filmmaker Amos Kollek	have	two child include filmmaker Amos Kollek	PERSON	PERSON
+1.0	filmmaker Amos Kollek	be	Theodor	PERSON	PERSON
+1.0	Israel	have	creation	O	LOCATION
+1.0	filmmaker Amos Kollek	have	two child	PERSON	NUMBER
+1.0	Jerusalem for almost 30 years	have	name	O	LOCATION
+1.0	filmmaker Amos Kollek	emigrate to	british-mandated Palestine	PERSON	MISC
+1.0	filmmaker Amos Kollek	buy	weapon for jewish organisation	PERSON	0
+1.0	Israel	be in	1948	LOCATION	DATE
+1.0	filmmaker Amos Kollek	know for	he moderate position	PERSON	0
+1.0	Jerusalem	have	theatre	O	LOCATION
+1.0	filmmaker Amos Kollek	know for	he position	PERSON	0
+1.0	filmmaker Amos Kollek	be	marry	PERSON	0
+1.0	Jerusalem	have	theatre	LOCATION	0
+1.0	filmmaker Amos Kollek	bear in	1911	PERSON	DATE
+1.0	filmmaker Amos Kollek	make	contribution	PERSON	0
+1.0	filmmaker Amos Kollek	make contribution to	Jerusalem 's landscape	PERSON	LOCATION
+1.0	Israel in 1948	have	founding fathers	O	LOCATION
+1.0	Jerusalem for almost 30 years	have	mayor	O	LOCATION
+1.0	filmmaker Amos Kollek	make contribution include	museum	PERSON	0
+1.0	filmmaker Amos Kollek	buy weapon during	first Israeli-Arab war after creation of Israel in 1948	PERSON	ORDINAL
+1.0	filmmaker Amos Kollek	make contribution include	museum of Israel	PERSON	LOCATION
+1.0	filmmaker Amos Kollek	know for	he position on israeli-palestinian conflict	PERSON	0
+1.0	jewish figure	be in	United States	0	LOCATION
+1.0	filmmaker Amos Kollek	buy weapon during	first Israeli-Arab war	PERSON	ORDINAL
+1.0	filmmaker Amos Kollek	buy weapon during	Israeli-Arab war after creation of Israel	PERSON	LOCATION
+1.0	Jerusalem	have	main financial donor	LOCATION	0
+1.0	filmmaker Amos Kollek	emigrate in	1935 aged 29	PERSON	DATE
+1.0	Jerusalem	have	mayor	O	LOCATION
+1.0	filmmaker Amos Kollek	buy weapon during	Israeli-Arab war after creation	PERSON	LOCATION
+1.0	filmmaker Amos Kollek	buy	weapon for paramilitary organisation	PERSON	0
+1.0	Ehud Olmert	be	current	PERSON	DATE
+1.0	founding fathers	have	one	NUMBER	O
+1.0	Old City	have	part	O	LOCATION
+1.0	1967	have	Arab war	O	DATE
+1.0	filmmaker Amos Kollek	emigrate in	1935 aged	PERSON	DATE
+1.0	Israel in 1948	have	museum	O	LOCATION
+1.0	filmmaker Amos Kollek	bear in	Austria	PERSON	LOCATION
+1.0	life	have	quality	O	O
+1.0	filmmaker Amos Kollek	make	many contribution	PERSON	0
+1.0	Jerusalem	have	donors	O	LOCATION
+1.0	current Prime Minister Ehud Olmert	pay	hommage	PERSON	0
+1.0	top figure	be in	israeli labour party	0	ORGANIZATION
+1.0	filmmaker Amos Kollek	buy weapon during	Israeli-Arab war	PERSON	LOCATION
+1.0	filmmaker Amos Kollek	buy	weapon for jewish paramilitary organisation	PERSON	0
+1.0	part	have	restoration	O	O
+1.0	filmmaker Amos Kollek	know for	he position on conflict	PERSON	0
+1.0	Jerusalem	be for	30 year	LOCATION	DURATION
+1.0	filmmaker Amos Kollek	buy weapon during	first Israeli-Arab war after creation	PERSON	ORDINAL
+1.0	he	be mayor of	Jerusalem for almost 30 years	0	LOCATION
+1.0	filmmaker Amos Kollek	figure in	israeli labour party	PERSON	ORGANIZATION
+1.0	filmmaker Amos Kollek	have	position	O	O
+1.0	filmmaker Amos Kollek	emigrate to	Palestine	PERSON	MISC
+1.0	current Prime Minister Ehud Olmert	pay hommage to	death	PERSON	0
+1.0	Jerusalem	to	landscape	LOCATION	0
+1.0	one	have	death	O	NUMBER
+1.0	filmmaker Amos Kollek	buy	weapon	PERSON	0
+1.0	filmmaker Amos Kollek	buy weapon during	first Israeli-Arab war after creation of Israel	PERSON	ORDINAL
+1.0	filmmaker Amos Kollek	buy	weapon for organisation	PERSON	0
+1.0	filmmaker Amos Kollek	buy weapon during	Israeli-Arab war after creation of Israel in 1948	PERSON	DATE
+1.0	filmmaker Amos Kollek	know for	he moderate position on israeli-palestinian conflict	PERSON	0
+1.0	their	have	faith	O	O
+1.0	Jerusalem	have	landscape	O	LOCATION
+1.0	filmmaker Amos Kollek	know for	he moderate position on conflict	PERSON	0
+1.0	he	be	mayor	0	0

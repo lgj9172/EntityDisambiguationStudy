@@ -1,0 +1,70 @@
+1.0	Irwandi Yusuf	win	Muhammad Nazar	PERSON	PERSON
+1.0	peace accord	sign between	gam	0	0
+1.0	president	implement government within	state of republic	0	LOCATION
+1.0	Irwandi Yusuf	say	Irwandi Yusuf	PERSON	0
+1.0	Indonesia	have	Republic	LOCATION	LOCATION
+0.8843052595900879	landslide victory	direct vote for	governor	0	0
+1.0	president	implement government within	unitary state	0	0
+1.0	president	implement government within	unitary state of republic	0	LOCATION
+0.8843052595900879	landslide victory	vote for	provincial governor	0	0
+1.0	Free Aceh Movement	for spokesman be	gam	ORGANIZATION	0
+1.0	President Susilo Bambang Yudhoyono	call here on	President Susilo Bambang Yudhoyono	0	PERSON
+0.4105455102450112	former separatist rebel	elect	governor of province	0	0
+1.0	president	implement government within	state of republic of Indonesia	0	LOCATION
+1.0	Aceh	have	province	O	LOCATION
+1.0	presidential spokesman Andi Mallarangeng	tell	journalist	PERSON	0
+0.4105455102450112	former separatist rebel	elect governor on	Thursday	0	DATE
+1.0	president	hold	dialogue	0	0
+1.0	2005 peace accord	sign between	gam	DATE	0
+0.8843052595900879	landslide victory	first vote for	governor	0	0
+1.0	President Susilo Bambang Yudhoyono	call on	they	PERSON	0
+1.0	province	have	governor	O	O
+0.4105455102450112	former separatist rebel	elect governor of province of aceh on	Thursday	0	DATE
+0.8843052595900879	landslide victory	direct vote for	provincial governor	0	0
+1.0	president	implement	government	0	0
+1.0	they rival	trail on	16.62 percent	0	PERCENT
+1.0	vote	have	percent	PERCENT	O
+0.4105455102450112	former separatist rebel	elect	governor of indonesian province	0	0
+1.0	line	be with	president 's instruction	0	0
+1.0	wave	compel	rebel	0	0
+1.0	President Susilo Bambang Yudhoyono	call on	President Susilo Bambang Yudhoyono	0	PERSON
+1.0	The governor-elect	want	introduce in Aceh	0	LOCATION
+0.8843052595900879	landslide victory	first direct vote for	governor	0	0
+1.0	tsunami	strike on	December 26 2004	0	DATE
+0.4105455102450112	former separatist rebel	elect	governor	0	0
+1.0	president	with	instruction	0	0
+1.0	President Susilo Bambang Yudhoyono	have congratulate	Irwandi Yusuf	PERSON	PERSON
+0.8843052595900879	landslide victory	first direct vote for	provincial governor	0	0
+1.0	president	implement	government in Aceh	0	LOCATION
+0.4105455102450112	former separatist rebel	elect governor of indonesian province on	Thursday	0	DATE
+1.0	president	have	instruction	O	O
+1.0	conflict	have	decades	DURATION	O
+1.0	Yusuf and his vice governor Muhammad Nazar	have	rivals	O	O
+0.4105455102450112	former separatist rebel	elect	governor of indonesian province of Aceh	0	LOCATION
+1.0	more than 168,000 people	have	priorities	O	O
+0.4105455102450112	former separatist rebel	elect governor of province on	Thursday	0	DATE
+1.0	president	implement government within	unitary state of republic of Indonesia	0	LOCATION
+1.0	Irwandi Yusuf	be	jail	PERSON	0
+1.0	The governor-elect	want	introduce	0	0
+0.4105455102450112	former separatist rebel	elect governor of indonesian province of aceh on	Thursday	0	DATE
+1.0	President Susilo Bambang Yudhoyono	call here at	palace	0	0
+1.0	Irwandi Yusuf	be	jail in 2003 for rebellion	PERSON	DATE
+1.0	government	be in	Aceh	0	LOCATION
+1.0	Republic	have	state	O	LOCATION
+1.0	peace process	have	consolidation	O	O
+0.8843052595900879	landslide victory	vote for	governor	0	0
+1.0	President Susilo Bambang Yudhoyono	have	vice governor	O	O
+0.4105455102450112	former separatist rebel	elect	governor of province of Aceh	0	LOCATION
+1.0	The governor-elect	introduce in	Aceh	0	LOCATION
+1.0	they nearest rival	trail on	16.62 percent	0	PERCENT
+1.0	Irwandi Yusuf	win	December 11 election	PERSON	DATE
+1.0	President Susilo Bambang Yudhoyono	call at	palace	0	0
+1.0	Irwandi Yusuf	be jail for	rebellion	PERSON	0
+1.0	giant wave	compel	rebel	0	0
+1.0	Irwandi Yusuf	be jail in	2003	PERSON	DATE
+1.0	Sumatra island	have	tip	O	O
+0.8843052595900879	landslide victory	first vote for	provincial governor	0	0
+1.0	president	implement government within	state	0	0
+1.0	Irwandi Yusuf	have	prison	O	O
+1.0	spokesman Andi Mallarangeng	tell	journalist	PERSON	0
+1.0	tsunami	flood	he prison	0	0

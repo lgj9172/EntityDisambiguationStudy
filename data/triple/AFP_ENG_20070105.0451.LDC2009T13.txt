@@ -1,0 +1,121 @@
+1.0	crude	close at	56.31 dollar	0	MONEY
+1.0	temperature	have drive oil future since	start	0	DATE
+1.0	Alaron	have	Flynn	DURATION	PERSON
+1.0	oil price	sink for	time	0	0
+1.0	weather	have curb	demand for heating oil	0	0
+1.0	oil price	sink for	time due to winter weather	0	DATE
+1.0	funds	have	talk	O	O
+1.0	warm temperature	have drive oil future since	start of 2007	0	DATE
+1.0	United States	region 's	world	LOCATION	0
+1.0	oil price	have slump in	July	0	DATE
+1.0	sweet crude	recover	72 cent	0	MONEY
+1.0	drop	be in	crude price	0	0
+1.0	oil price	sink for	first time since 2005 due to mild winter weather in United States	0	ORDINAL
+1.0	oil price	sink for	time since 2005 due to winter weather	0	DATE
+1.0	New York	have	benchmark contract	LOCATION	0
+1.0	weather	have curb	demand	0	0
+1.0	year	have	end	DATE	DATE
+1.0	market	have	moving	O	O
+1.0	Brent North Sea crude	gain	53 cent	LOCATION	MONEY
+1.0	weather	have curb demand in	world 's most energy-hungry region	0	0
+1.0	Department of Energy	of department be	DoE	ORGANIZATION	0
+0.9188077910013035	investor	push	New York 's contract	0	LOCATION
+1.0	oil price	sink for	time since 2005 due to winter weather in United States	0	DATE
+1.0	oil price	sink for	first time since 2005 due to winter weather in United States	0	ORDINAL
+1.0	Department	reveal at_time	Thursday	ORGANIZATION	DATE
+1.0	temperature	have drive oil future since	start of 2007	0	DATE
+1.0	warm temperature	have drive oil future since	start	0	DATE
+1.0	Alaron	have	Flynn	PERSON	PERSON
+1.0	warm weather	have curb demand in	world 's energy-hungry region	0	0
+1.0	oil price	sink for	first time due to mild winter weather	0	ORDINAL
+1.0	oil price	sink for	first time due to winter weather in United States	0	ORDINAL
+1.0	slump	cut	production	0	0
+1.0	slump	have extend by	Organization of Petroleum Exporting Countries	0	ORGANIZATION
+1.0	oil price	have slump from	record high above 78 dollar	0	MONEY
+1.0	oil price	sink for	first time since 2005 due to winter weather	0	ORDINAL
+1.0	oil price	recover	lose ground Friday	0	DATE
+0.7614694768313682	weather	demand for	heating oil	0	0
+1.0	market	have	direction	O	O
+1.0	oil price	recover	lose ground	0	0
+1.0	oil price	sink for	first time since 2005 due to mild winter weather	0	ORDINAL
+1.0	Kevin Norrish	be analyst of	Barclays Capital	PERSON	ORGANIZATION
+1.0	oil price	sink for	time due to mild winter weather	0	DATE
+0.9188077910013035	bearish investor	push	New York 's contract	0	LOCATION
+1.0	tension	grip	market	0	0
+1.0	mild winter weather	be in	United States	DATE	LOCATION
+1.0	government	say in	report	0	0
+1.0	Energy	have	Department	ORGANIZATION	ORGANIZATION
+0.1765160333133069	temperature	have drive since	start of 2007	0	DATE
+1.0	oil price	recover	ground Friday	0	DATE
+1.0	healthy 167,000 new job	be in	December	NUMBER	DATE
+0.7614694768313682	warm weather	demand for	heating oil	0	0
+1.0	light sweet crude	close at	56.31 dollar	0	MONEY
+1.0	oil price	sink for	time since 2005 due to mild winter weather in United States	0	DATE
+1.0	New Year	have	start	O	DATE
+1.0	oil price	sink for	time since 2005	0	DATE
+1.0	slump	have extend by	Organization	0	0
+1.0	oil price	have slump at_time	year	0	DATE
+1.0	oil price	sink for	time due to winter weather in United States	0	DATE
+1.0	world	have	region	O	O
+1.0	Michael Davies	be	Sucden	PERSON	ORGANIZATION
+0.589819325873794	market	tension in	Iran	0	LOCATION
+1.0	liquidation	have	lot	O	O
+0.9188077910013035	investor	push	New York 's benchmark contract	0	LOCATION
+0.1765160333133069	temperature	have drive since	start	0	DATE
+1.0	The DoE	add at_time	Thursday	0	DATE
+1.0	warm weather	have curb demand in	world 's most energy-hungry region	0	0
+1.0	warm weather	have curb	demand for heating oil	0	0
+1.0	slump	have extend from	end	0	DATE
+1.0	warm temperature	be in	United States	0	LOCATION
+1.0	Petroleum Exporting Countries	have	Organization	O	ORGANIZATION
+1.0	weather	have curb demand in	world 's energy-hungry region	0	0
+1.0	54.90 dollar	be in	electronic deal	MONEY	0
+0.9188077910013035	bearish investor	push	New York 's benchmark contract	0	LOCATION
+1.0	barrels	have	rise	O	O
+1.0	2007	have	start	DATE	DATE
+1.0	slump	have extend from	end of year	0	DATE
+1.0	oil price	have slump at_time	last year	0	DATE
+1.0	slump	have extend despite	effort	0	0
+1.0	Michael Davies	be analyst of	Sucden	PERSON	ORGANIZATION
+1.0	Brent North Sea crude	settle at	55.64 dollar	LOCATION	MONEY
+1.0	price	have tumble since	start of New year	0	DATE
+1.0	oil price	sink for	first time due to mild winter weather in United States	0	ORDINAL
+1.0	light sweet crude	recover	72 cent	0	MONEY
+1.0	bear	have win at_time	week	0	DATE
+1.0	temperature	have drive	oil future	0	0
+0.1765160333133069	warm temperature	have drive since	start of 2007	0	DATE
+1.0	market	have	bailing	O	O
+1.0	their	have	money	O	O
+1.0	world	have	most energy-hungry region	0	0
+1.0	oil price	sink for	first time	0	ORDINAL
+1.0	tension	be in	Iran	0	LOCATION
+1.0	Kevin Norrish	be	Barclays Capital	PERSON	ORGANIZATION
+1.0	oil price	sink beneath	55 dollar	0	MONEY
+1.0	oil price	sink for	time since 2005 due to mild winter weather	0	DATE
+1.0	oil price	sink for	time due	0	0
+1.0	warm weather	have curb	demand	0	0
+1.0	New York	have	contract	O	LOCATION
+1.0	warm temperature	have drive	oil future	0	0
+1.0	oil price	sink for	first time due	0	ORDINAL
+1.0	oil price	sink for	time due to mild winter weather in United States	0	DATE
+1.0	distillates	have	US stockpiles	O	O
+1.0	light crude	recover	72 cent	0	MONEY
+1.0	price	have tumble since	start	0	0
+1.0	delivery	be in	February	0	DATE
+0.1765160333133069	warm temperature	have drive since	start	0	DATE
+1.0	market	have	direction	DURATION	0
+1.0	oil price	have slump from	record high	0	0
+1.0	crude price	have tumble since	start of New year	0	DATE
+1.0	light crude	close at	56.31 dollar	0	MONEY
+1.0	oil price	sink for	first time since 2005	0	ORDINAL
+1.0	crude	recover	72 cent	0	MONEY
+1.0	oil price	sink for	first time due to winter weather	0	ORDINAL
+1.0	slump	have extend from	end of last year	0	DATE
+1.0	broader decline	be in	commodity include copper	0	0
+1.0	oil price	sink for	first time since 2005 due	0	ORDINAL
+1.0	oil price	recover	ground	0	0
+1.0	a	have	Expectations	O	O
+1.0	government	say at_time	Friday	0	DATE
+1.0	oil price	sink for	time since 2005 due	0	DATE
+1.0	sweet crude	close at	56.31 dollar	0	MONEY
+1.0	crude price	have tumble since	start	0	0

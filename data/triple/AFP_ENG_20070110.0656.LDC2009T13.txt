@@ -1,0 +1,13 @@
+1.0	share price	open with	nikkei-225 index	0	0
+1.0	japanese share price	open higher with	nikkei-225 index	0	0
+1.0	trading	have	minutes	DURATION	O
+1.0	japanese share price	open higher on	Thursday	0	DATE
+1.0	japanese share price	open with	nikkei-225 index	0	0
+1.0	share price	open on	Thursday	0	DATE
+1.0	japanese share price	open on	Thursday	0	DATE
+1.0	japanese share price	open with	benchmark nikkei-225 index	0	0
+1.0	share price	open higher on	Thursday	0	DATE
+1.0	share price	open with	benchmark nikkei-225 index	0	0
+1.0	share price	open higher with	nikkei-225 index	0	0
+1.0	share price	open higher with	benchmark nikkei-225 index	0	0
+1.0	japanese share price	open higher with	benchmark nikkei-225 index	0	0

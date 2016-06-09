@@ -1,0 +1,58 @@
+1.0	colleague	hold	relative	0	0
+1.0	whereabouts	have	word	O	O
+1.0	colleague	hold vigil at_time	Tuesday	0	DATE
+1.0	Peruvian AFP photographer Jaime Razuri	have	release	O	O
+0.47174672707847776	guild	represent	news photographer	0	0
+1.0	colleague	hold	vigil	0	0
+1.0	Razuri	have	mother	PERSON	0
+1.0	Peruvian AFP photographer Jaime Razuri	be abducted by	gunman in Gaza Strip	0	LOCATION
+1.0	Peruvian AFP photographer Jaime Razuri	be abducted by	gunman	0	0
+1.0	Razuri	have	whereabouts	O	PERSON
+1.0	gunman	be in	Gaza Strip	0	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	everything possible	PERSON	0
+1.0	Peruvian AFP photographer Jaime Razuri	have	kidnappers	O	O
+1.0	Jaime Razuri	be of	peruvian	PERSON	0
+1.0	Jose Antonio Garcia Belaunde	be foreign minister of	Peru	PERSON	LOCATION
+1.0	Peruvian AFP photographer Jaime Razuri	be	abducted	0	0
+1.0	Peruvian AFP photographer Jaime Razuri	have	candles	O	PERSON
+1.0	Delia Razuri	tell	reporter	PERSON	0
+1.0	AFP photographer Jaime Razuri	have	Colleagues	O	PERSON
+1.0	palestinian authority	persist in	its effort	0	0
+0.47174672707847776	guild	represent	peruvian news photographer	0	0
+1.0	Peru	have	Foreign Minister Jose Antonio Garcia Belaunde	PERSON	LOCATION
+1.0	Peruvian AFP photographer Jaime Razuri	have	brother	O	O
+1.0	Jaime Razuri	be of	afp	PERSON	0
+0.6856842486483582	group	represent foreign reporter in	Peru	0	LOCATION
+1.0	its	have	efforts	O	O
+1.0	group	express	its condemnation	0	0
+0.6856842486483582	group	represent	foreign reporter	0	0
+1.0	Razuri	's mother be	Delia	PERSON	PERSON
+0.6856842486483582	group	represent	reporter	0	0
+1.0	colleague	hold	friend	0	0
+1.0	vigil	call for	he release	0	0
+1.0	authority	persist in	its effort	0	0
+0.6856842486483582	group	represent reporter in	Peru	0	LOCATION
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	do	help	PERSON	0
+1.0	Peruvian AFP photographer Jaime Razuri	be abducted by	gunman in volatile Gaza Strip	0	LOCATION
+1.0	colleague	hold vigil at_time	late Tuesday	0	DATE
+1.0	group	separately express	its condemnation	0	0
+1.0	kidnappers	have	identity	O	O
+1.0	guild	organize	event	0	0
+1.0	Razuri 's mother	appear	he brother	PERSON	0
+1.0	he	brother	Carlos	0	PERSON
+1.0	Lima	at	historic downtown cathedral	LOCATION	0
+1.0	Razuri 's mother	appear	calm	PERSON	0
+1.0	group	urge	authority	0	0
+1.0	his	have	colleagues	O	O
+1.0	abduction	have	expressed	O	O
+1.0	its	have	condemnation	O	O
+1.0	Delia	be mother of	Razuri	PERSON	PERSON
+1.0	Peru 's Foreign Minister Jose Antonio Garcia Belaunde	promise	do	PERSON	0
+1.0	Jaime Razuri	be photographer of	afp	PERSON	0
+1.0	group	urge	palestinian authority	0	0
+1.0	Lima	have	downtown cathedral	O	LOCATION
+1.0	Razuri 's mother Delia and his brother Carlos	talk to	reporter	0	0
+1.0	vigil	be in	Lima	0	LOCATION
+1.0	Jose Antonio Garcia Belaunde	be on	Tuesday	PERSON	DATE
+1.0	Peru	have	Jose Antonio Garcia Belaunde	LOCATION	PERSON
+1.0	Razuri	have	mother	O	PERSON

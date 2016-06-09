@@ -1,0 +1,98 @@
+1.0	iraqi government	have give to	Bush 's new strategy	0	PERSON
+1.0	Sadr	in	movement in Shiite holy city of Najaf	LOCATION	MISC
+1.0	he Mahdi Army	have	have brand by Pentagon as faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	he Mahdi Army	have	have brand by Pentagon as dangerous faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION
+1.0	Iraq	have	affairs	O	LOCATION
+1.0	he Mahdi Army	have	have brand by Pentagon as dangerous faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand as dangerous faction	ORGANIZATION	0
+1.0	he Mahdi Army	have	have brand	ORGANIZATION	0
+1.0	The American people	have	sons	O	O
+1.0	US presence	be in	Iraq	LOCATION	LOCATION
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	Iraq	have	security	O	LOCATION
+1.0	dangerous faction	be in	Iraq 's bloody sectarian war	0	LOCATION
+1.0	he Mahdi Army	have	have brand by Pentagon as most dangerous faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	Sadr	such as	Mahdi Army	PERSON	ORGANIZATION
+1.0	stab	be in	heart for sovereignty of elect government	0	0
+1.0	troops	have	thousands	O	O
+1.0	senior official	be in	Sadr 's movement	PERSON	LOCATION
+1.0	group 's office	be in	Baghdad	0	LOCATION
+1.0	he Mahdi Army	have	have brand as dangerous faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	US presence	have	opponents	O	O
+1.0	terrorism	have	supporters	O	O
+1.0	he Mahdi Army	have	have brand by Pentagon as most dangerous faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	stability of this country	take role in	future security operation	0	DATE
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	country	have	stability	O	O
+1.0	Sadr 's movement	be in	Shiite holy city of Najaf	LOCATION	MISC
+1.0	he Mahdi Army	have	have brand by Pentagon as dangerous faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	group	of	office in western Baghdad	0	LOCATION
+1.0	he Mahdi Army	have	have brand as most dangerous faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	iraqi government	have give	grudging welcome	0	0
+1.0	he Mahdi Army	have	have brand by Pentagon as faction	ORGANIZATION	ORGANIZATION
+1.0	group	have	office	O	O
+1.0	iraqi government	have give to	Bush 's strategy	0	PERSON
+1.0	he Mahdi Army	have	have brand by Pentagon as most dangerous faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION
+1.0	iraqi government	have give	welcome	0	0
+1.0	Bush	to	new strategy	PERSON	0
+1.0	he Mahdi Army	have	have brand as faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	troops	have	number	O	O
+1.0	occupation	force	supporter	0	0
+1.0	he Mahdi Army	have	have brand by Pentagon as most dangerous faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	chaos	contain	it	0	0
+1.0	he Mahdi Army	have	have brand by Pentagon as faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand as dangerous faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	Nadawi	accuse	Bush	PERSON	PERSON
+1.0	Sadrist deputies	have	votes	O	O
+0.536066213907059	Bush	take	decision	PERSON	0
+1.0	he Mahdi Army	have	have brand as faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	he Mahdi Army	have	have brand as most dangerous faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION
+1.0	government	have give	grudging welcome	0	0
+1.0	stability of this country	take	lead role	0	0
+1.0	George W. Bush	that	new Iraq strategy risk send to death	PERSON	LOCATION
+1.0	US President George W. Bush 's	announce on	Wednesday	PERSON	DATE
+1.0	his	have	Mahdi Army	ORGANIZATION	O
+1.0	office	have	Hamdalla al-Rikabi	PERSON	O
+1.0	he Mahdi Army	have	have brand as faction	ORGANIZATION	0
+1.0	he Mahdi Army	have	have brand by Pentagon	ORGANIZATION	ORGANIZATION
+0.536066213907059	Bush	take	decision about Iraq 's security	PERSON	LOCATION
+1.0	Bush	have	strategy	O	PERSON
+1.0	Sadr	have	Mahdi Army	ORGANIZATION	PERSON
+1.0	thousands of American troops	have	deaths	O	O
+1.0	his	have	job	O	O
+1.0	Iraq	in	bloody sectarian war	LOCATION	0
+1.0	he Mahdi Army	have	have brand by Pentagon as faction in Iraq 's sectarian war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand by Pentagon as dangerous faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	occupation	force	supporter of terrorism	0	0
+1.0	Sadr	have	movement	O	LOCATION
+1.0	government	have	sovereignty	O	O
+1.0	he Mahdi Army	have	have brand as faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION
+1.0	Najaf	have	Shiite city	O	LOCATION
+1.0	Iraq	have	war	O	LOCATION
+1.0	Nuri al-Maliki	have	government	PERSON	0
+1.0	Iraq	about	security	LOCATION	0
+1.0	radical Iraqi cleric Moqtada	be for	iraqi	PERSON	0
+1.0	130,000-strong US force	be in	Iraq	LOCATION	LOCATION
+0.5946445384520366	occupation	supporter of	terrorism	0	0
+1.0	government	have give to	Bush 's new strategy	0	PERSON
+1.0	state	have	interference	O	O
+1.0	he Mahdi Army	have	have brand as dangerous faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand as most dangerous faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	Iraq	have	problem	O	LOCATION
+1.0	Abdel Razzaq al - Nadawi	tell	AFP	PERSON	ORGANIZATION
+1.0	Sadr movement mouthpiece	al-rikabi of	group 's office in western Baghdad	PERSON	LOCATION
+1.0	US President George W. Bush	have	Iraq strategy risks	O	PERSON
+1.0	Abdel Razzaq al Nadawi	official in	Sadr 's movement	PERSON	LOCATION
+1.0	he Mahdi Army	have	have brand as faction in Iraq 's bloody war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand by Pentagon as dangerous faction	ORGANIZATION	ORGANIZATION
+1.0	government	have give	welcome	0	0
+1.0	he Mahdi Army	have	have brand as most dangerous faction	ORGANIZATION	0
+1.0	opponents	have	one	NUMBER	O
+1.0	government	have give to	Bush 's strategy	0	PERSON
+1.0	he Mahdi Army	have	have brand by Pentagon as most dangerous faction	ORGANIZATION	ORGANIZATION
+1.0	stability of this country	take	role	0	0
+1.0	he Mahdi Army	have	have brand by Pentagon as faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand as most dangerous faction in Iraq 's war	ORGANIZATION	LOCATION
+1.0	he Mahdi Army	have	have brand as dangerous faction in Iraq 's bloody sectarian war	ORGANIZATION	LOCATION

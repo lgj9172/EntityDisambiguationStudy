@@ -1,0 +1,24 @@
+0.3846049039692831	France	win at_time	month	LOCATION	DATE
+1.0	last year	in	the Turin Olympics	DATE	MISC
+1.0	China	have	World Cup biathlon relay	O	LOCATION
+0.3846049039692831	France	win in	Austria	LOCATION	LOCATION
+1.0	quartet	dominate	event	0	0
+1.0	year	have	the Turin Olympics	MISC	DATE
+1.0	Delphine Peretto	have	same	O	PERSON
+1.0	woman	have	World Cup biathlon relay here on Wednesday ahead of Germany	0	MISC
+1.0	Florence Baverel-Robert	have	same	O	LOCATION
+0.3846049039692831	France	win at_time	last month	LOCATION	DATE
+1.0	France	win	woman 's World Cup biathlon relay here on Wednesday ahead of Germany	LOCATION	MISC
+1.0	Germany	have	World Cup biathlon relay	O	LOCATION
+1.0	quartet	same of	Florence Baverel-Robert	0	LOCATION
+1.0	Florence Baverel-Robert	be	Delphine Peretto	LOCATION	PERSON
+1.0	France	win	woman 's World Cup biathlon relay	LOCATION	MISC
+1.0	quartet	same at	the Turin Olympics	0	MISC
+1.0	women	have	World Cup biathlon relay	O	O
+1.0	France	win	woman 's World Cup biathlon relay here ahead of Germany	LOCATION	MISC
+1.0	China	be by	20.4 sec	LOCATION	DURATION
+1.0	Sylvie Becaert	have	same	O	PERSON
+1.0	Sandrine Bailly	have	same	O	PERSON
+1.0	quartet	dominate event from	start	0	0
+1.0	France	win	woman 's World Cup biathlon relay ahead of Germany	LOCATION	MISC
+1.0	France	win	woman 's World Cup biathlon relay of Germany	LOCATION	MISC

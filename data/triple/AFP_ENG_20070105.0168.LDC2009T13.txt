@@ -1,0 +1,31 @@
+1.0	uncle	find	he dead	0	0
+1.0	boy	be curious about	Saddam Hussein 's	0	PERSON
+1.0	Saddam	have	death	O	PERSON
+1.0	Saddam	have	execution	O	PERSON
+1.0	boy	be	curious	0	0
+1.0	New Year	have	eve	DATE	DATE
+1.0	New Year 's eve	's eve be	paper report	DATE	0
+1.0	Saddam Hussein	have	hanging	PERSON	0
+1.0	boy	tie	slipknot	0	0
+1.0	an uncle who was taking care of him and other children about the execution , according to the Chronicle	have	room	O	O
+1.0	boy	tie slipknot around	he neck	0	0
+1.0	Saddam	from	execution video	PERSON	0
+1.0	boy	tie slipknot while	while bunk bed	0	0
+1.0	Saddam	have	execution video	O	PERSON
+1.0	execution	have	minute film	O	O
+1.0	boy 's mother	tell	police	0	0
+1.0	uncle	find accord to	Chronicle	0	0
+1.0	he	dead in	he room	0	0
+1.0	Saddam	on	death on spanish-language Telemundo news broadcast	PERSON	ORGANIZATION
+1.0	boy	be	miss	0	0
+1.0	Saddam Hussein	have	hanging	O	PERSON
+1.0	uncle	find	he dead in he room	0	0
+1.0	A 10 year-old boy	have	care	O	O
+1.0	year-old boy	hang	a nine year-old boy	0	0
+1.0	boy	tie slipknot while	while bunk bed on New Year 's eve	0	DATE
+1.0	Houston Chronicle	report at_time	Thursday	ORGANIZATION	DATE
+1.0	nine year-old boy	hang	a nine year-old boy	NUMBER	0
+1.0	boy	have	mother	0	0
+1.0	A 10 year-old boy	have	neck	O	O
+1.0	kids	have	later	O	O
+1.0	boy	have	mother	O	O

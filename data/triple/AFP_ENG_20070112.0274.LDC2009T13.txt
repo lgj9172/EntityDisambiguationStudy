@@ -1,0 +1,20 @@
+1.0	percent	have	analyst forecast	O	PERCENT
+1.0	consumers	have	wallets	O	O
+1.0	gain	be stronger than	0.7 percent increase expect by Wall Street analyst	0	PERCENT
+1.0	economy	have	segments	O	O
+1.0	consumer	still open	they wallet	0	0
+1.0	datum	show at_time	Friday	0	DATE
+1.0	Commerce Department report	exclude	volatile automobile sale	ORGANIZATION	0
+1.0	US retail sale	increase	0.9 percent	LOCATION	PERCENT
+1.0	0.9 percent	be in	December	PERCENT	DATE
+1.0	Commerce Department report	exclude	automobile sale	ORGANIZATION	0
+1.0	gain	be stronger than	0.7 percent increase	0	PERCENT
+1.0	US sale	increase	0.9 percent	LOCATION	PERCENT
+1.0	US sale	increase	0.9 percent in December	LOCATION	PERCENT
+1.0	gain	be stronger than	0.7 percent increase expect	0	PERCENT
+0.6368641194277541	0.7 percent increase	expect by	Wall Street analyst	PERCENT	0
+1.0	weakness	be in	other segment of economy	0	0
+1.0	US retail sale	increase	0.9 percent in December	LOCATION	PERCENT
+1.0	gain	be	stronger	0	0
+1.0	consumer	open	they wallet	0	0
+1.0	Commerce Department report	show	sale	ORGANIZATION	0

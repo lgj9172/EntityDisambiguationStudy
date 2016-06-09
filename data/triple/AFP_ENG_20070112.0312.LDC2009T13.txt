@@ -1,0 +1,38 @@
+1.0	ambush	be in	Sudan	0	LOCATION
+1.0	Khartoum	sign	former rebel	LOCATION	0
+1.0	south	have	government	O	O
+1.0	Joseph	with	family at time	PERSON	0
+1.0	WFP	say under	escort from army of Sudan	ORGANIZATION	LOCATION
+1.0	Emanuel Chaku Joseph	be	28	PERSON	NUMBER
+1.0	war	have	years	DURATION	O
+1.0	WFP	say under	escort	ORGANIZATION	0
+1.0	Sudan	have	army	O	LOCATION
+1.0	war	have	decades	DURATION	O
+1.0	Mr. Joseph	have	family	O	PERSON
+1.0	road	be in	Sudan	0	LOCATION
+1.0	UN	have	World Food Programme	ORGANIZATION	ORGANIZATION
+1.0	WFP staff	have	thoughts	O	O
+1.0	WFP	say in	statement	ORGANIZATION	0
+1.0	WFP	say under	escort from army of southern Sudan	ORGANIZATION	LOCATION
+1.0	WFP executive director James Morris	say in	statement	PERSON	0
+1.0	Khartoum	sign	peace agreement	LOCATION	0
+1.0	deal	be	fragile	0	0
+1.0	WFP	say at_time	Friday	ORGANIZATION	DATE
+1.0	James Morris	be	the WFP	PERSON	ORGANIZATION
+1.0	Emanuel Chaku Joseph	have	country	O	O
+1.0	sudanese national Emanuel Chaku Joseph	be	kill	PERSON	0
+1.0	humanitarian groups	have	dissolution	O	O
+1.0	Sudan People	have	Liberation Movement/Army	ORGANIZATION	ORGANIZATION
+1.0	provision	be in	agreement call for they dissolution	0	0
+1.0	south 's government	accuse	Khartoum	0	LOCATION
+1.0	UN	for	World Food Programme	ORGANIZATION	ORGANIZATION
+1.0	south	have	semi-autonomous government	0	0
+1.0	man	have	killing	O	O
+1.0	James Morris	be executive director of	the WFP	PERSON	ORGANIZATION
+1.0	Khartoum	sign peace agreement in	January 2005	LOCATION	DATE
+1.0	WFP	say under	escort from army	ORGANIZATION	0
+1.0	thought	be with	Mr. Joseph 's family	0	PERSON
+1.0	road	have	stretch	O	O
+1.0	sudanese national Emanuel Chaku Joseph 28	be	kill	PERSON	0
+1.0	Emanuel Chaku Joseph	be	sudanese	PERSON	0
+1.0	south 's semi-autonomous government	accuse	Khartoum	0	LOCATION

@@ -1,0 +1,25 @@
+1.0	Barnes , 47	leave	Long Beach	PERSON	LOCATION
+1.0	country	have	tip	O	O
+1.0	Magellan	have	Strait	LOCATION	LOCATION
+1.0	search rescue plane	have	crew	O	O
+1.0	Third Naval Region	have	authorities	O	LOCATION
+1.0	Barnes , 47	be	47	PERSON	NUMBER
+1.0	chilean navy	dispatch plane at_time	Wednesday	0	DATE
+1.0	rains	have	find	O	O
+1.0	navy	fly over	area	0	0
+1.0	Barnes , 47	leave	Long Beach on October 28	PERSON	LOCATION
+1.0	maritime official	be in	Punta Arenas	0	ORGANIZATION
+1.0	authority	say in	statement	0	0
+1.0	Barnes , 47	have	sailboat Privateer	O	O
+1.0	Barnes , 47	leave	California	PERSON	LOCATION
+1.0	Cape Horn	have	Pacific Ocean west	O	LOCATION
+1.0	Long Beach	be on	October 28	LOCATION	DATE
+1.0	chilean navy	fly over	area	0	0
+1.0	fog	have	find	O	O
+1.0	Chile	have	coast	O	LOCATION
+1.0	October 28	on beach be	California	DATE	LOCATION
+1.0	chilean navy	dispatch	plane	0	0
+1.0	Barnes , 47	leave long beach on	solo journey	PERSON	0
+1.0	navy	dispatch plane at_time	Wednesday	0	DATE
+1.0	navy	dispatch	plane	0	0
+1.0	coast	have	adrift	O	O

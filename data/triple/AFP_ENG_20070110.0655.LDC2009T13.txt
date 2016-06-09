@@ -1,0 +1,14 @@
+1.0	Tokyo	have	reserve	LOCATION	0
+1.0	deposits	have	consist	O	O
+1.0	IMF	have	consist	O	O
+1.0	December	have	end	DATE	DATE
+1.0	whose	have	holdings	O	O
+1.0	Japan	have	foreign exchange reserve in December	LOCATION	DATE
+1.0	Japan 's foreign exchange reserve	be in	December	LOCATION	DATE
+1.0	Japan	have	exchange reserves	O	LOCATION
+1.0	September	have	end	DATE	DATE
+1.0	securities	have	consist	O	O
+1.0	finance ministry	say at_time	Thursday	0	DATE
+1.0	896.95 billion dollar	be in	November	MONEY	DATE
+1.0	dollars	have	record high	O	MONEY
+1.0	Tokyo	have	reserves	O	LOCATION

@@ -1,0 +1,19 @@
+1.0	president	have	plan	O	O
+1.0	chairman	warn at_time	Thursday	0	DATE
+1.0	US Senator Joseph Biden	warn	Secretary	LOCATION	0
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	Senate Foreign Relations Committee	have	chairman	O	ORGANIZATION
+1.0	Joseph Biden	be senator of	US	PERSON	LOCATION
+1.0	George W. Bush	be	US	PERSON	LOCATION
+1.0	US Senator Joseph Biden	warn secretary on	president 's plan	LOCATION	0
+1.0	US President George W. Bush	should send us troops across	Iraq border	0	LOCATION
+1.0	president	on	plan send to Iraq	0	LOCATION
+1.0	US President George W. Bush	risk	fight	LOCATION	0
+1.0	US President George W. Bush	should send	US troops	0	LOCATION
+1.0	US President George W. Bush	risk	major fight	LOCATION	0
+1.0	force	have	use	O	O
+1.0	US President George W. Bush	risk fight with	Congress	LOCATION	ORGANIZATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	US President George W. Bush	should send us troops into	Iran	0	LOCATION
+1.0	Joseph Biden	be	US	PERSON	LOCATION

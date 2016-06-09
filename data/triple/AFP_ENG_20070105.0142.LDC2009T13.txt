@@ -1,0 +1,14 @@
+1.0	Jacques Chirac	one of	fiercest oppoonent	PERSON	NUMBER
+1.0	conflict	provide	dangerous breeding ground for terrorism	0	0
+1.0	conflict	provide	new breeding ground for terrorism	0	0
+1.0	conflict	provide	dangerous new breeding ground for terrorism	0	0
+1.0	conflict	provide	breeding ground for terrorism	0	0
+1.0	conflict	provide	new breeding ground	0	0
+1.0	war	have	oppoonents	O	O
+1.0	conflict	provide	dangerous breeding ground	0	0
+1.0	conflict	provide	breeding ground	0	0
+1.0	Jacques Chirac	be	French	PERSON	MISC
+1.0	us-led war	be in	Iraq	0	LOCATION
+1.0	oppoonents	have	one	NUMBER	O
+1.0	French President Jacques Chirac	warn at_time	Friday	PERSON	DATE
+1.0	conflict	provide	dangerous new breeding ground	0	0

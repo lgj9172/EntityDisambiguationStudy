@@ -1,0 +1,27 @@
+1.0	car maker	in	home market of United States	0	LOCATION
+1.0	Chrysler	have	Chrysler Jeep Dodge models	O	O
+1.0	sales	have	fifth	ORDINAL	O
+1.0	sale	skid	seven percent	0	PERCENT
+1.0	Chrysler Jeep Dodge models	have	sales	O	O
+1.0	european sale	be at	up 110,559 car	0	NUMBER
+1.0	competition	have	face	O	O
+1.0	car maker	have	home market	O	O
+0.4288050264371259	sale	skid to	2.143 million vehicle in face of competition	0	NUMBER
+0.4288050264371259	sale	skid from	rival	0	0
+1.0	sale	be at	110,559 car	0	NUMBER
+1.0	Chrysler	arm of	DaimlerChrysler	ORGANIZATION	ORGANIZATION
+0.4288050264371259	sale	skid to	2.143 million vehicle in face of ferocious competition	0	NUMBER
+0.4288050264371259	sale	skid in	car maker 's home market	0	0
+1.0	Chrysler	have	sales	O	O
+0.4288050264371259	sale	skid in	car maker 's home market of United States	0	LOCATION
+1.0	european sale	be at	110,559 car	0	NUMBER
+1.0	Chrysler	say at_time	Thursday	ORGANIZATION	DATE
+1.0	sale	be at	up 110,559 car	0	NUMBER
+1.0	auto giant DaimlerChrysler	have	US arm	O	ORGANIZATION
+1.0	2.143 million vehicle	be in	face of ferocious competition	NUMBER	0
+1.0	european sale	be at	up 20 percent 110,559 car	0	PERCENT
+0.4288050264371259	sale	skid to	2.143 million vehicle in face	0	NUMBER
+0.4288050264371259	sale	skid from	asian rival	0	0
+1.0	sale	be at	up 20 percent 110,559 car	0	PERCENT
+1.0	the United States	have	home market	O	LOCATION
+0.4288050264371259	sale	skid to	2.143 million vehicle	0	NUMBER

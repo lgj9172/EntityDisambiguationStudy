@@ -1,0 +1,20 @@
+1.0	Congo	have	Republic	LOCATION	LOCATION
+1.0	mine	have	debris	O	O
+1.0	them	have	one	NUMBER	O
+1.0	their	have	presence	O	O
+1.0	Sud-Kivu province	have	town	O	LOCATION
+1.0	order	be in	running of recently opened-up facility	0	DATE
+1.0	rescue team	be	hunting	0	0
+1.0	Rescue teams	have	life	O	O
+1.0	mine	be located south at	Uvira	0	LOCATION
+1.0	mine	be	located south	0	0
+1.0	Bukavu	have	south	O	LOCATION
+1.0	facility	have	running	O	O
+1.0	mine	be located at	Uvira	0	LOCATION
+1.0	mine	be	located	0	0
+1.0	order	have	lack	O	O
+1.0	two military service personnel	one of	they	NUMBER	0
+1.0	mine	be	located south of Bukavu	0	LOCATION
+1.0	whose	have	number	O	O
+1.0	rescue team	be	still hunting	0	0
+1.0	mine	be	located at Uvira south of Bukavu	0	LOCATION

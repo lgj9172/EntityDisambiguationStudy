@@ -1,0 +1,69 @@
+1.0	Bangladesh 's president	declare	state of emergency bow	LOCATION	0
+1.0	Bangladesh 's president	declare	state	LOCATION	0
+1.0	Bangladesh 's president	resign at_time	Thursday	LOCATION	DATE
+1.0	the country	have	paralysis	O	O
+1.0	former Central Bank governor	be	name	ORGANIZATION	0
+1.0	former Central Bank governor	be expect	name later	ORGANIZATION	DATE
+1.0	Awami league-led opposition	announce	boycott	MISC	0
+0.9562590650265582	President Iajuddin Ahmed	see as	politically neutral figure	PERSON	0
+1.0	Bangladesh 's	have	have wrack by month	ORGANIZATION	0
+1.0	former Central Bank governor	be expect	name	ORGANIZATION	0
+1.0	Bangladesh 's president	declare	state bow	LOCATION	0
+1.0	Bangladesh 's president	declare	state bow to opposition demand follow month	LOCATION	0
+1.0	he wife Nina	tell	AFP	PERSON	ORGANIZATION
+1.0	former Central Bank governor	be name later at_time	Friday	ORGANIZATION	DATE
+1.0	Bangladesh 's president	declare	state of emergency bow to opposition demand follow month of street protest	LOCATION	0
+0.9562590650265582	President Iajuddin Ahmed	widely see as	neutral figure	PERSON	0
+1.0	Bangladesh 's	have	have wrack by month of protest	ORGANIZATION	0
+1.0	Bangladesh 's	have	have wrack amid opposition allegation	ORGANIZATION	0
+1.0	President Iajuddin Ahmed	cancel	election	PERSON	0
+1.0	former Central Bank governor	be name at_time	Friday	ORGANIZATION	DATE
+0.9562590650265582	President Iajuddin Ahmed	see as	figure	PERSON	0
+1.0	President Iajuddin Ahmed	have	wife Nina	PERSON	O
+1.0	President Iajuddin Ahmed	cancel	election schedule	PERSON	0
+1.0	former Central Bank governor	be expect	name Friday	ORGANIZATION	DATE
+1.0	Bangladesh 's president	declare	state bow to opposition demand	LOCATION	0
+1.0	outgoing Bangladesh	seek at_time	Party	ORGANIZATION	ORGANIZATION
+1.0	Bangladesh 's president	declare	state of emergency	LOCATION	0
+1.0	Bangladesh 's	have	have wrack by month amid opposition allegation	ORGANIZATION	0
+1.0	President Iajuddin Ahmed	cancel	election schedule for January 22	PERSON	DATE
+1.0	Bangladesh	have	president	O	LOCATION
+1.0	government	have	micro-finance department	0	0
+1.0	Bangladesh 's	seek at_time	nationalist Party	ORGANIZATION	ORGANIZATION
+1.0	former Central Bank governor	be	name later	ORGANIZATION	DATE
+1.0	government	have	micro-finance department	O	O
+1.0	Bangladesh 's	seek to	rig	ORGANIZATION	0
+1.0	Bangladesh 's president	declare	state of emergency bow to opposition demand follow month	LOCATION	0
+1.0	outgoing Bangladesh	seek at_time	nationalist Party	ORGANIZATION	ORGANIZATION
+1.0	Bangladesh 's	have	have wrack by month of violent protest amid opposition allegation	ORGANIZATION	0
+0.9562590650265582	President Iajuddin Ahmed	widely see as	politically neutral figure	PERSON	0
+1.0	Bangladesh	have	president	LOCATION	0
+1.0	Bangladesh 's	have	have wrack by month of violent protest	ORGANIZATION	0
+1.0	emergency	have	state	O	O
+1.0	outgoing Bangladesh	seek to	rig	ORGANIZATION	0
+1.0	President Iajuddin Ahmed	now head	government 's micro-finance department	PERSON	0
+1.0	Bangladesh 's president	resign as	head of interim government	LOCATION	0
+1.0	Bangladesh	have	government	O	LOCATION
+0.9562590650265582	President Iajuddin Ahmed	widely see as	figure	PERSON	0
+0.9562590650265582	President Iajuddin Ahmed	see as	neutral figure	PERSON	0
+1.0	President Iajuddin Ahmed	head	government 's micro-finance department	PERSON	0
+1.0	Bangladesh 's president	declare	state of emergency bow to opposition demand	LOCATION	0
+1.0	former Central Bank governor	be expect	name later Friday	ORGANIZATION	DATE
+1.0	President Iajuddin Ahmed	have	wife	O	O
+1.0	Bangladesh 's president	resign as	head of government	LOCATION	0
+1.0	Bangladesh	of	interim government	LOCATION	0
+1.0	Bangladesh 's president	declare	state bow to opposition demand follow month of street protest	LOCATION	0
+1.0	former Central Bank governor	be	expect	ORGANIZATION	0
+1.0	Awami opposition	announce	boycott	MISC	0
+1.0	The president , who maintains his role as a ceremonial figurehead	have	role	O	O
+1.0	Bangladesh 's	have	have wrack by month of protest amid opposition allegation	ORGANIZATION	0
+1.0	government	have	head	O	O
+1.0	paralysis	have	out steering	O	O
+1.0	Bangladesh 's president	postpone	election	LOCATION	0
+1.0	Bangladesh 's	have	have wrack	ORGANIZATION	0
+1.0	paralysis	have	months	DURATION	O
+1.0	street protests	have	months	DATE	O
+1.0	protests	have	months	DURATION	O
+1.0	Bangladesh 's president	resign as	head	LOCATION	0
+1.0	emergency rule	have	country	O	O
+1.0	Bangladesh 's	seek at_time	Party	ORGANIZATION	ORGANIZATION

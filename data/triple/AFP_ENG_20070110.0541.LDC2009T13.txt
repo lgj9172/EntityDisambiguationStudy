@@ -1,0 +1,191 @@
+0.5780337528012423	iranian firm	involve in	activity	0	0
+1.0	move	come at_time	Tuesday	0	DATE
+1.0	foreign bank	could eventually lose access to	US financial system	0	LOCATION
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm involve	PERSON	0
+0.5780337528012423	firm	allegedly involve in	activity	0	0
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm allegedly involve in illicit activity	PERSON	0
+1.0	world body	have	record	O	O
+1.0	Commerzbank	handle dollar transaction for	client	0	0
+1.0	bank	find	be deal with interest link	0	0
+1.0	State Department	have	Casey	ORGANIZATION	0
+1.0	unease	be in	Iran 's	0	LOCATION
+1.0	foreign bank	could lose access to	US system	0	LOCATION
+1.0	US Treasury Department	blacklist	Iran 's fifth bank	ORGANIZATION	ORDINAL
+1.0	bank	could lose access to	US system	0	LOCATION
+1.0	official	witness by	decision of major foreign bank	0	0
+1.0	senior US official	lead by	Secretary	LOCATION	0
+0.5179148382962989	same kind	circulate	couterfeit US currency	0	LOCATION
+1.0	Ahmadinejad 's approach	lead to	UN sanction	PERSON	ORGANIZATION
+0.5780337528012423	iranian firm	allegedly involve in	activity	0	0
+1.0	foreign bank	could eventually lose access to	US system	0	LOCATION
+1.0	UN	have	enrichment program	O	O
+1.0	Stuart Levey	be undersecretary of	the US Treasury Department	PERSON	ORGANIZATION
+1.0	foreign bank	find	be deal with iranian interest	0	0
+0.9691076243911523	Russia	key economic partner	China	LOCATION	LOCATION
+1.0	official	witness by	decision of major bank	0	0
+1.0	Condoleezza Rice	be of	the State Department 's	PERSON	ORGANIZATION
+1.0	sanction package	freeze	asset	0	0
+1.0	official	witness by	decision of several major foreign bank	0	0
+1.0	Washington	be on	Wednesday	LOCATION	DATE
+1.0	Washington on Wednesday	frustrate with	laborious pace	LOCATION	0
+1.0	two conservative newspaper	run	editorial	0	0
+1.0	bank	find	be deal with interest	0	0
+1.0	US Treasury Department	blacklist	Bank Sepah	ORGANIZATION	ORGANIZATION
+1.0	Germany	's bank be	Commerzbank	LOCATION	ORGANIZATION
+1.0	final sanction package	freeze	asset	0	0
+1.0	unilateral US measure	bear	fruit	LOCATION	0
+1.0	official	witness by	decision of several foreign bank	0	0
+1.0	the laborious pace of UN negotiations	have	support	O	O
+1.0	Washington on Wednesday	frustrate with	pace of UN negotiation	LOCATION	ORGANIZATION
+1.0	sanction package	freeze	asset of 10 firm	0	NUMBER
+1.0	technology	have	Iran	LOCATION	O
+1.0	Germany 's bank	announce at_time	Wednesday	LOCATION	DATE
+0.5780337528012423	iranian firm	involve in	illicit activity	0	0
+1.0	wide implication	be in	global financial system heavily dependent on US currency	0	LOCATION
+1.0	US official	lead at	same time	LOCATION	0
+1.0	this week	have	action against Bank Sepah	DATE	ORGANIZATION
+1.0	State Department deputy spokesman Tom Casey	tell	reporter	0	0
+1.0	Treasury Secretary Henry Paulson	take action against	firm allegedly involve in activity	PERSON	0
+1.0	country	have	weapons programs	O	O
+1.0	pressure	fuel	unease	0	0
+1.0	UN sanction	be adopt by	Security Council	ORGANIZATION	ORGANIZATION
+1.0	bank	find	be deal with interest link to terrorism	0	0
+1.0	US ally	be in	Europe	LOCATION	LOCATION
+1.0	Germany	have	bank	O	LOCATION
+1.0	bank	find	company	0	0
+1.0	Treasury Secretary Henry Paulson	be press	ally	PERSON	0
+1.0	business	be with	Tehran	0	LOCATION
+0.005153942488911989	two conservative newspaper	run	complain	0	0
+1.0	Germany 's biggest bank	announce at_time	Wednesday	LOCATION	DATE
+1.0	Treasury Secretary Henry Paulson	take	action	PERSON	0
+1.0	Iran	have	fifth largest bank	LOCATION	ORDINAL
+0.8053442545585926	freeze	asset of	10 firm	0	NUMBER
+1.0	Iran 's	have	partners	O	LOCATION
+1.0	conservative newspaper	run editorial at_time	Wednesday	0	DATE
+1.0	Tom Casey	be deputy spokesman of	the State Department 's	PERSON	ORGANIZATION
+1.0	firms	have	assets	O	O
+1.0	North Korea	have	couterfeit US currency	O	LOCATION
+1.0	US measure	bear	fruit	LOCATION	0
+1.0	bank	find	be deal with iranian interest link to terrorism	0	0
+1.0	final sanction package	freeze	asset of 10 iranian firm	0	NUMBER
+1.0	negotiations	have	months	DURATION	O
+1.0	US official	lead by	Secretary	LOCATION	0
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm	PERSON	0
+1.0	foreign bank	could eventually lose	access	0	0
+1.0	Washington	welcome	sign	LOCATION	0
+1.0	official	witness by	decision of several major bank	0	0
+1.0	The final sanctions package	have	nuclear	O	O
+1.0	country	have	illicit weapon program	0	0
+1.0	Iran	's bank be	Bank Sepah	LOCATION	ORGANIZATION
+1.0	Washington on Wednesday	frustrate with	laborious pace of UN negotiation	LOCATION	ORGANIZATION
+1.0	official	witness by	decision of foreign bank	0	0
+1.0	Washington on Wednesday	cite	its support	LOCATION	0
+1.0	Ahmadinejad	have	approach	O	PERSON
+1.0	two conservative newspaper	run editorial at_time	Wednesday	0	DATE
+1.0	US Treasury Department	blacklist	Bank Sepah	ORGANIZATION	ORDINAL
+1.0	foreign bank	could lose	access	0	0
+1.0	Treasury Secretary Henry Paulson	take action against	firm allegedly involve in illicit activity	PERSON	0
+1.0	Treasury Secretary Henry Paulson	take action against	firm involve in activity	PERSON	0
+1.0	sanction package	ban	sale	0	0
+0.005153942488911989	two conservative newspaper	run at_time	Wednesday	0	DATE
+1.0	money-laundering	have	accused	O	O
+1.0	State Department	have	Casey	O	ORGANIZATION
+1.0	latest move	come at_time	Tuesday	0	DATE
+1.0	final sanction package	freeze	asset of 10 firm	0	NUMBER
+1.0	Ahmadinejad	have	unyielding approach	PERSON	0
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm allegedly involve in activity	PERSON	0
+1.0	pressure	fuel unease with	hardline regime	0	0
+1.0	UN resolution	have	terms	O	O
+1.0	bank	could eventually lose access to	US system	0	LOCATION
+1.0	bank	find	be deal with iranian interest	0	0
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm allegedly involve	PERSON	0
+0.8053442545585926	freeze	asset of	10 iranian firm	0	NUMBER
+1.0	Treasury Secretary Henry Paulson	take action against	firm	PERSON	0
+1.0	bank	could lose access to	US financial system	0	LOCATION
+1.0	foreign bank	find	company	0	0
+1.0	individuals	have	assets	O	O
+1.0	Germany 's second bank	announce at_time	Wednesday	ORDINAL	DATE
+1.0	US measures	have	reach	O	O
+1.0	Washington on Wednesday	frustrate with	pace	LOCATION	0
+1.0	Commerzbank	would continue	dealings	0	0
+1.0	Washington on Wednesday	already take	action	LOCATION	0
+1.0	State Department deputy spokesman Tom Casey	tell reporter at_time	Wednesday	0	DATE
+1.0	world body	have	uneven record	0	0
+1.0	Washington on Wednesday	already take action in	September	LOCATION	DATE
+0.005153942488911989	conservative newspaper	run	complain	0	0
+1.0	key executive	be in	private sector about deceptive practice	0	0
+0.5179148382962989	kind	circulate	couterfeit US currency	0	LOCATION
+1.0	bank	could lose	access	0	0
+1.0	UN sanction	be	unanimously adopt	ORGANIZATION	0
+1.0	Germany	have	second biggest bank	LOCATION	ORDINAL
+1.0	pressure	fuel unease with	hardline regime of President Mahmoud Ahmadinejad	0	PERSON
+1.0	Treasury Secretary Henry Paulson	take action against	firm involve in illicit activity	PERSON	0
+1.0	pressure	fuel	unease in Iran	0	LOCATION
+1.0	official	witness by	decision	0	0
+1.0	Iran	have	bank	O	LOCATION
+1.0	Treasury Secretary Henry Paulson	take action against	firm involve	PERSON	0
+1.0	bank	find	be deal with iranian interest link	0	0
+1.0	conservative newspaper	run	editorial	0	0
+1.0	Commerzbank	handle	dollar transaction	0	0
+1.0	Tom Casey	be	the State Department 's	PERSON	ORGANIZATION
+1.0	bank	find	be deal	0	0
+1.0	official	witness by	decision of bank	0	0
+1.0	Stuart Levey	be	the US Treasury Department	PERSON	ORGANIZATION
+1.0	Treasury Secretary Henry Paulson	take	financial action	PERSON	0
+1.0	foreign bank	find	be deal with interest link to terrorism	0	0
+1.0	UN sanction	be unanimously adopt by	Security Council	ORGANIZATION	ORGANIZATION
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	steps	have	stopped	O	O
+1.0	UN negotiations	have	pace	O	O
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm involve in activity	PERSON	0
+1.0	Treasury Secretary Henry Paulson	take action against	iranian firm involve in illicit activity	PERSON	0
+1.0	Security Council	be after	month	ORGANIZATION	0
+1.0	Iran	have	weapons program	O	LOCATION
+1.0	foreign bank	find	be deal	0	0
+0.005153942488911989	conservative newspaper	run at_time	Wednesday	0	DATE
+1.0	President Mahmoud Ahmadinejad	have	hardline regime	O	PERSON
+1.0	battle	have	Weary	O	O
+1.0	US official	lead at	time	LOCATION	0
+1.0	Commerzbank	announce at_time	Wednesday	ORDINAL	DATE
+1.0	banks	have	decisions	O	O
+1.0	Treasury Secretary Henry Paulson	take action against	firm allegedly involve	PERSON	0
+1.0	foreign bank	find	be deal with iranian interest link to terrorism	0	0
+1.0	Russia	succeed	China	LOCATION	LOCATION
+1.0	week	have	action	O	DATE
+1.0	weapons	have	development	O	O
+1.0	bank	could eventually lose	access	0	0
+1.0	US Treasury Department	blacklist	Iran 's bank	ORGANIZATION	LOCATION
+1.0	foreign bank	find	be deal with interest	0	0
+1.0	foreign bank	could lose access to	US financial system	0	LOCATION
+0.17974797504936701	Commerzbank	would continue in	euro	0	0
+0.9691076243911523	Russia	key economic partner of	Iran 's	LOCATION	LOCATION
+1.0	Washington on Wednesday	take action in	September	LOCATION	DATE
+1.0	effect	have	kind	O	O
+1.0	Commerzbank	handle dollar transaction for	iranian client	0	0
+1.0	Henry Paulson	be secretary of	the US Treasury Department	PERSON	ORGANIZATION
+0.5780337528012423	iranian firm	allegedly involve in	illicit activity	0	0
+1.0	foreign bank	find	be deal with iranian interest link	0	0
+1.0	official	witness	restrict	0	0
+0.5780337528012423	firm	involve in	illicit activity	0	0
+1.0	Henry Paulson	be	the US Treasury Department	PERSON	ORGANIZATION
+1.0	information	be with	we foreign counterpart	0	0
+1.0	foreign bank	find	be deal with interest link	0	0
+1.0	official	witness by	decision of several bank	0	0
+1.0	Iran	have	suspect nuclear weapon program	LOCATION	0
+1.0	UN sanction	be	adopt	ORGANIZATION	0
+1.0	world	have	rest	O	O
+1.0	senior US official	lead at	same time	LOCATION	0
+1.0	senior US officials	have	counterparts	O	O
+1.0	Ahmadinejad 's unyielding approach	lead to	UN sanction	PERSON	ORGANIZATION
+1.0	sanction package	freeze	asset of 10 iranian firm	0	NUMBER
+1.0	Washington on Wednesday	take	action	LOCATION	0
+1.0	senior US official	lead at	time	LOCATION	0
+1.0	bank	could eventually lose access to	US financial system	0	LOCATION
+0.5780337528012423	firm	allegedly involve in	illicit activity	0	0
+1.0	transaction	be in	US dollar	0	LOCATION
+1.0	Commerzbank	would continue dealings in	euro	0	0
+1.0	materials	have	Iran	LOCATION	O
+1.0	US Treasury Department	blacklist	Iran 's largest bank	ORGANIZATION	LOCATION
+1.0	Washington on Wednesday	cite	its alleged support	LOCATION	0
+1.0	final sanction package	ban	sale	0	0
+0.5780337528012423	firm	involve in	activity	0	0

@@ -1,0 +1,43 @@
+1.0	architect Graham Dawbarn	jot	question mark	PERSON	0
+1.0	Television	have	refurbishment	O	O
+1.0	options	have	range	O	O
+1.0	boss	close	television Centre	0	0
+1.0	architect Graham Dawbarn	jot question mark on	back of envelope	PERSON	0
+1.0	Manchester	be in	400-million-pound move	LOCATION	0
+1.0	question mark	be	perfect design	0	0
+1.0	Ministers	will announce	size of licence fee settlement	0	0
+1.0	Prime Minister Tony Blair	have	government	O	PERSON
+1.0	deal	cover at_time	next six year	0	DURATION
+1.0	corporation	be downsize	its London operation	0	LOCATION
+1.0	strategy	have	part	O	O
+1.0	spokesman	confirm at_time	Thursday	0	DATE
+1.0	Bosses	ask for	for Prime Minister Tony Blair 's government	0	PERSON
+1.0	Ministers	will announce size within	day	0	0
+1.0	question mark	be	design	0	0
+1.0	it	gain	its shape	0	0
+1.0	architect Graham Dawbarn	jot question mark on	back of envelope in pub	PERSON	0
+1.0	television Centre	be	use in title sequence for many BBC programme	0	ORGANIZATION
+1.0	boss	close television centre in	west London	0	LOCATION
+1.0	deal	fall	short	0	0
+1.0	expectations	have	short	O	O
+1.0	Bosses	receive	lower grant	0	0
+1.0	television Centre	open in	1960	0	DATE
+1.0	The corporation	have	London operations	O	O
+1.0	deal	fall	short of expectation	0	0
+1.0	licence fee settlement	have	size	O	O
+1.0	deal	cover at_time	six year	0	DURATION
+1.0	question mark	dress	room	0	0
+1.0	broadcasting icon	be	bear	0	0
+1.0	architect Graham Dawbarn	jot question mark on	back	PERSON	0
+1.0	envelope	have	back	O	O
+1.0	envelope	be in	pub	0	0
+1.0	Bosses	receive	grant	0	0
+1.0	Television Centre	have	shape	O	O
+1.0	television Centre	be use for	many BBC programme	0	ORGANIZATION
+1.0	television Centre	be use for	BBC programme	0	ORGANIZATION
+1.0	broadcasting studios	have	one	NUMBER	O
+1.0	Ministers	will announce	size	0	0
+1.0	it	gain	its distinctive shape	0	0
+1.0	boss	close television centre in	London	0	LOCATION
+1.0	corporation	be already downsize	its London operation	0	LOCATION
+1.0	television Centre	be	use in title sequence for BBC programme	0	ORGANIZATION

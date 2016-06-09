@@ -1,0 +1,143 @@
+1.0	court action	have	have put on ice	0	0
+1.0	council	would meet	consider	0	0
+1.0	South Africa	expect	half million tourist	LOCATION	NUMBER
+1.0	provincial government	strip	world cup organiser	0	0
+1.0	stadium	be	erect on 18 hectare of land occupy	0	NUMBER
+1.0	plan	get	green light	0	0
+1.0	enough time	complete stadium by	end of 2009	0	DATE
+1.0	stadium	be	erect by golf course	0	0
+1.0	first time	be	stage in Africa	ORDINAL	LOCATION
+1.0	Essop	have	decision	O	PERSON
+1.0	Cape province	uphold	environmental authorisation	LOCATION	0
+1.0	a 68,000-seater stadium for Cape Town	dismiss	series	0	0
+1.0	plan	get light from	provincial government	0	0
+1.0	citizens	have	interests	O	O
+1.0	provincial government	strip	Cape Town of its World Cup host status	0	MISC
+1.0	mandate	be	obtain from resident at public meeting	0	0
+1.0	mandate	be	obtain from resident at public meeting plan for January 18	0	DATE
+1.0	Cape Town city council	stress	its commitment	LOCATION	0
+1.0	western Cape province	uphold	initial environmental authorisation	LOCATION	0
+1.0	propose stadium	be in	suburb of Green Point	0	LOCATION
+1.0	Essop	express	confidence	PERSON	0
+1.0	Essop	have	decision	PERSON	0
+1.0	stadium	be	erect on 18 hectare of land currently occupy by golf course	0	NUMBER
+1.0	time	be	stage in Africa	0	LOCATION
+1.0	provincial government	threaten	world cup organiser	0	0
+1.0	propose stadium	be one	city	0	0
+1.0	application	tell	reporter	0	0
+1.0	those	include	resident ' body	0	0
+1.0	South Africa	expect	nearly half million foreign tourist	LOCATION	NUMBER
+1.0	stadium	be	erect on 18 hectare of land currently occupy	0	NUMBER
+0.5988825823625264	those	oppose	authorisation	0	0
+1.0	2009	have	end	DATE	DATE
+1.0	Cape province	uphold	initial environmental authorisation	LOCATION	0
+1.0	important decision	be in	process ready	0	0
+1.0	propose stadium	be one of	few large city	0	0
+1.0	time	complete stadium by	end of 2009	0	DATE
+1.0	stadium	be erect on	18 hectare of land currently occupy	0	NUMBER
+1.0	park	have	layout	O	O
+1.0	residents ' spokesman David Polovin	be	encourage	0	0
+1.0	stadium	be erect on	18 hectare	0	NUMBER
+1.0	residents	have	spokesman David Polovin	PERSON	O
+1.0	its	have	role	O	O
+1.0	enough time	complete	stadium	0	0
+1.0	residents	have	body	O	O
+1.0	South Africa	expect	nearly half million tourist	LOCATION	NUMBER
+1.0	Green Point	have	suburb	O	LOCATION
+1.0	stadium	be	erect on 18 hectare of land by golf course	0	NUMBER
+1.0	stadium	be one of	few large city	0	0
+1.0	Green Point Common	one of	final prerequisite for stadium construction	ORGANIZATION	0
+1.0	stadium	be one	city	0	0
+1.0	authorisation process	have	stages	O	O
+1.0	plan	get light from	provincial government on Friday	0	DATE
+1.0	mandate	be obtain at	meeting plan for January 18	0	DATE
+1.0	mandate	be	obtain from resident at meeting plan for January 18	0	DATE
+1.0	us	have	All	O	O
+1.0	planning	have	rezoning	O	O
+1.0	Cape Town city council	note	Essop 's decision	LOCATION	PERSON
+1.0	mandate	be obtain at	meeting	0	0
+1.0	resident ' spokesman David Polovin	say on	Friday	PERSON	DATE
+1.0	mandate	be	obtain from resident at meeting plan	0	0
+1.0	western Cape province	uphold	environmental authorisation	LOCATION	0
+1.0	development minister Tasneem Essop	have	rezoning	O	PERSON
+1.0	plan	get light from	government on Friday	0	DATE
+1.0	propose stadium	be one	few large city	0	0
+1.0	stadium grounds	have	rezoning	O	O
+0.6254474269105283	a 68,000-seater stadium for Cape Town	series of	appeal	0	0
+1.0	mandate	be obtain from	resident	0	0
+1.0	environment	have	rezoning	O	O
+1.0	prerequisites	have	one	NUMBER	O
+1.0	first time	be stage in	Africa	ORDINAL	LOCATION
+1.0	mandate	be	obtain from resident at meeting	0	0
+1.0	World Cup	be in	2010	MISC	DATE
+1.0	time	be stage in	Africa	0	LOCATION
+1.0	government	strip	Cape Town	0	LOCATION
+1.0	Cape Town	of	citizen	LOCATION	0
+1.0	stadium	be	erect on 18 hectare of land	0	NUMBER
+1.0	the provincial government on Friday	have	World Cup host status	O	O
+1.0	stadium	be	erect	0	0
+1.0	stadium	be one of	large city	0	0
+1.0	western Cape province	uphold	authorisation	LOCATION	0
+1.0	stadium	be one	large city	0	0
+1.0	western Cape province	uphold	initial authorisation	LOCATION	0
+1.0	mandate	be obtain at	public meeting plan for January 18	0	DATE
+1.0	Our	have	concern	O	O
+1.0	mandate	be	obtain	0	0
+1.0	propose stadium	be one of	large city	0	0
+1.0	space	have	retention	O	O
+1.0	time	be	stage	0	0
+1.0	talk	be with	city council	0	0
+1.0	South Africa	expect	half million foreign tourist	LOCATION	NUMBER
+1.0	time	complete	stadium	0	0
+1.0	appeals	have	series	O	O
+1.0	Green Point Common Association	body	resident	ORGANIZATION	0
+1.0	threaten court action	have	have put	0	0
+1.0	government	subsequently threaten	world cup organiser	0	0
+1.0	resident		David Polovin	0	PERSON
+1.0	propose stadium	be one of	city	0	0
+1.0	provincial government	subsequently threaten	world cup organiser	0	0
+1.0	stadium	be erect on	18 hectare of land	0	NUMBER
+1.0	stadium	be	erect on 18 hectare of land occupy by golf course	0	NUMBER
+1.0	government	strip	Cape Town of its World Cup host status	0	MISC
+1.0	a 68,000-seater stadium for Cape Town	dismiss	series of appeal	0	0
+1.0	first time	be	stage	ORDINAL	0
+0.6385163161830061	reporter	application for	rezoning of stadium grounds	0	0
+1.0	government	strip	world cup organiser	0	0
+1.0	mandate	be	obtain from resident at public meeting plan	0	0
+1.0	Cape Town	have	citizens	O	LOCATION
+1.0	application	tell reporter in	Cape Town	0	LOCATION
+1.0	stadium	be	erect on 18 hectare	0	NUMBER
+1.0	residents ' spokesman David Polovin	tell	AFP	0	ORGANIZATION
+1.0	its	have	commitment	O	O
+1.0	stadium	have	construction	O	O
+1.0	dispute	delay	construction	0	0
+1.0	council	would meet on	January 17	0	DATE
+0.6419514607167984	construction	dispute over	planning process	0	0
+1.0	time	complete stadium by	end	0	DATE
+1.0	resident ' spokesman David Polovin	say	add	PERSON	0
+1.0	stadium	be	erect on 18 hectare by golf course	0	NUMBER
+1.0	mandate	be obtain at	public meeting	0	0
+1.0	stadium	be one	few large city	0	0
+0.6385163161830061	reporter	application for	rezoning	0	0
+1.0	court action	have	have put	0	0
+1.0	propose stadium	be one	large city	0	0
+1.0	Essop	express confidence on	Friday	PERSON	DATE
+1.0	threaten court action	have	have put on ice	0	0
+1.0	our	have	needs	O	O
+1.0	mandate	be obtain at	meeting plan	0	0
+1.0	World Cup host status	have	Cape Town	LOCATION	O
+1.0	Cape province	uphold	authorisation	LOCATION	0
+1.0	stadium	be one of	city	0	0
+1.0	government	threaten	world cup organiser	0	0
+1.0	cities	have	one	NUMBER	O
+1.0	this	be	important	0	0
+1.0	lasting legacy	be in	interest of Cape Town 's citizen	0	LOCATION
+1.0	provincial government	strip	Cape Town	0	LOCATION
+1.0	stadium	be erect by	golf course	0	0
+1.0	mandate	be obtain at	public meeting plan	0	0
+1.0	plan	get	light	0	0
+1.0	enough time	complete stadium by	end	0	DATE
+1.0	Cape province	uphold	initial authorisation	LOCATION	0
+1.0	land	have	hectares	O	O
+1.0	plan	get light from	government	0	0
+1.0	stadium	be erect on	18 hectare of land occupy	0	NUMBER

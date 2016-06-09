@@ -1,0 +1,124 @@
+1.0	European Union	be	Vladimir Chizhov	ORGANIZATION	PERSON
+1.0	dispute	have	concern about Russia 's reliability as energy supplier	0	LOCATION
+0.7021658753124069	report	show	ample heating oil supplies	0	0
+1.0	report	prompt	extension of market selloff	0	0
+1.0	barrels	have	disruption	O	O
+1.0	distillates	have	stockpiles	O	O
+1.0	market	be keep eye on	oil transit dispute	0	0
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand for heating fuel	0	PERCENT
+1.0	Russia	have	reliability	O	LOCATION
+1.0	future	have tumble in	United States	0	LOCATION
+0.7021658753124069	report	show	heating oil supplies	0	0
+1.0	report	prompt	extension	0	0
+1.0	Energy	have	US Department	ORGANIZATION	ORGANIZATION
+1.0	Minsk	be on	Wednesday	LOCATION	DATE
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop fuel	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due fuel	0	PERCENT
+1.0	cartel	have	emergency meeting	O	O
+1.0	Minsk	cancel tariff through	Druzhba pipeline to western Europe	LOCATION	LOCATION
+1.0	dispute	have	renew concern about Russia 's reliability as energy supplier	0	LOCATION
+1.0	oil producers	have	cartel	O	O
+1.0	oil	have	barrels	O	O
+1.0	dispute	have lead to	five european state	0	NUMBER
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand fuel	0	PERCENT
+0.660460668196303	report	extension of	market selloff	0	0
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand fuel particularly	0	PERCENT
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due fuel	0	PERCENT
+1.0	dispute	have lead from	Russia	0	LOCATION
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop fuel particularly	0	PERCENT
+1.0	crude future	have tumble amid	winter temperature	0	DATE
+1.0	World oil price	fall to	low	0	0
+1.0	dispute	have lead to	five state	0	NUMBER
+1.0	Russia	's ambassador be	Vladimir Chizhov	LOCATION	PERSON
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand fuel particularly	0	PERCENT
+1.0	Minsk	cancel tariff through	Druzhba pipeline to Europe	LOCATION	LOCATION
+1.0	ample heating oil supplies	be in	United States	0	LOCATION
+1.0	future	have tumble amid	winter temperature	0	DATE
+0.7021658753124069	report	show	heating oil supplies in United States	0	LOCATION
+1.0	Minsk	cancel	tariff	LOCATION	0
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand fuel	0	PERCENT
+1.0	Minsk	cancel tariff through	friendship	LOCATION	0
+1.0	market	elsewhere be keep	eye	0	0
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop fuel particularly	0	PERCENT
+1.0	fuel	have	start	DATE	O
+1.0	dispute	have lead to	disruption of around 1.4 million barrel	0	NUMBER
+0.948161230304371	predict	rise of	2.0 million barrel	0	NUMBER
+1.0	dispute	have lead to	disruption of around 1.4 million barrel of oil	0	NUMBER
+1.0	large drop	be in	demand for heating	0	0
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand for heating fuel	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 fuel particularly	0	PERCENT
+1.0	Minsk	cancel	exceptional tariff	LOCATION	0
+1.0	Minsk	cancel tariff through	Druzhba pipeline	LOCATION	0
+1.0	crude future	have tumble by	as much as 12 percent since start	0	PERCENT
+1.0	than-expected drop	be in	crude oil inventory	0	0
+1.0	Organization	for spokesman be	OPEC	0	ORGANIZATION
+1.0	crude future	have tumble in	United States	0	LOCATION
+1.0	World oil price	fall at_time	Wednesday	0	DATE
+1.0	future	have tumble by	as much as 12 percent since start	0	PERCENT
+1.0	dispute	have	concern about Russia 's reliability	0	LOCATION
+0.7057175744059004	exceptional tariff	minsk on	Wednesday	0	DATE
+1.0	Minsk	cancel tariff on	crude shipment	LOCATION	0
+1.0	market	elsewhere be keep	close eye	0	0
+1.0	US Department	say at_time	Wednesday	ORGANIZATION	DATE
+1.0	market	elsewhere be keep eye on	oil transit dispute	0	0
+1.0	New York	's contract be	light sweet crude for delivery in February	LOCATION	DATE
+1.0	crude future	have tumble by	as much as 12 percent	0	PERCENT
+1.0	future	have tumble amid	mild winter temperature	0	DATE
+1.0	New York 's main oil future contract	crude for	February delivery	LOCATION	DATE
+1.0	Europe	to pipeline be	friendship	LOCATION	0
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop fuel	0	PERCENT
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due fuel particularly	0	PERCENT
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop fuel	0	PERCENT
+1.0	Petroleum Exporting Countries	have	Organization	O	ORGANIZATION
+1.0	future	have tumble by	as much as 12 percent since start of 2007 fuel	0	PERCENT
+1.0	Brent North Sea crude	settle lower at	53.69 dollar	LOCATION	MONEY
+1.0	dispute	have lead to	disruption of around 1.4 million barrel of oil per day	0	DURATION
+1.0	barrels	have	rise	O	O
+1.0	New York 's main oil futures contract	have	close	O	O
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand for heating fuel	0	PERCENT
+1.0	dollars	have	low	O	MONEY
+1.0	future	have tumble by	as much as 12 percent since start of 2007 fuel particularly	0	PERCENT
+1.0	crude future	have tumble amid	mild winter temperature	0	DATE
+1.0	World oil price	fall to	19-month low	0	DURATION
+1.0	market	be keep	close eye	0	0
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand fuel particularly	0	PERCENT
+1.0	dispute	have lead to	disruption	0	0
+1.0	Brent North Sea crude	settle lower in	London	LOCATION	LOCATION
+1.0	Brent North Sea crude	settle in	London	LOCATION	LOCATION
+1.0	market selloff	have	extension	O	O
+1.0	market	elsewhere be keep eye on	oil transit dispute between Russia	0	LOCATION
+1.0	hours	have	question	O	DURATION
+1.0	distillate products	have	Inventories	O	O
+1.0	New York	have	oil futures contract	O	LOCATION
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand for heating fuel particularly	0	PERCENT
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop fuel particularly	0	PERCENT
+1.0	dispute	have	renew concern	0	0
+1.0	Russia	have	ambassador to European Union	LOCATION	ORGANIZATION
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand fuel	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop fuel particularly	0	PERCENT
+1.0	dispute	have	concern	0	0
+1.0	market	be keep	eye	0	0
+1.0	Russia	have	ambassador	O	LOCATION
+1.0	New York	have	main oil future contract	LOCATION	0
+1.0	Brent North Sea crude	settle at	53.69 dollar	LOCATION	MONEY
+1.0	inventory	increase	5.4 million barrel	0	NUMBER
+1.0	delivery	be in	February	0	DATE
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand fuel particularly	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop fuel	0	PERCENT
+1.0	market	be keep eye on	oil transit dispute between Russia	0	LOCATION
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 fuel	0	PERCENT
+1.0	future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand for heating fuel particularly	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand for heating fuel particularly	0	PERCENT
+1.0	Mike Fitzpatrick	analyst with	Fimat USA	PERSON	ORGANIZATION
+1.0	dispute	have	renew concern about Russia 's reliability	0	LOCATION
+1.0	future	have tumble by	as much as 12 percent	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to drop in demand for heating fuel	0	PERCENT
+1.0	US Department of Energy	of department be	DoE	ORGANIZATION	0
+1.0	oil analyst	be with	Fimat USA	0	ORGANIZATION
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due fuel particularly	0	PERCENT
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand fuel	0	PERCENT
+0.7021658753124069	report	show	ample heating oil supplies in United States	0	LOCATION
+1.0	gasoline	have	stockpiles	O	O
+1.0	Russia	about	reliability as energy supplier	LOCATION	0
+1.0	crude future	have tumble by	as much as 12 percent since start of 2007 due to large drop in demand for heating fuel particularly	0	PERCENT
+0.7057175744059004	tariff	minsk on	Wednesday	0	DATE

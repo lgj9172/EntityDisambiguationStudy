@@ -1,0 +1,55 @@
+1.0	we ability	depend on	Our ability to daydream about our future	0	0
+1.0	Our	have	future	DATE	O
+1.0	volunteers	alternately reminisce about	past event	DATE	DATE
+1.0	we ability	even depend on	Our ability to daydream about our future	0	0
+1.0	study	have	author	O	O
+1.0	future	have	kind	O	DATE
+1.0	images	have	reactivation	O	O
+1.0	Our	have	ability	O	O
+1.0	students	have	brain scans	O	O
+1.0	volunteers	have	brain activity	O	O
+1.0	student	say in	questionnaire	0	0
+1.0	we ability	be	closely related	0	0
+1.0	study	be publish in	journal of Proceedings	0	ORGANIZATION
+1.0	the 21 students who took part in the experiment revealed `` a surprisingly complete	have	findings	O	O
+1.0	people	condition involve	various degree of memory loss	0	ORGANIZATION
+1.0	people	be with	amnesia	0	0
+1.0	Our	have	past	DATE	O
+1.0	student	say in	post-testing questionnaire	0	0
+1.0	doctoral student	be in	psychology	0	0
+1.0	condition	have	quirk	O	O
+1.0	we ability	be closely related to	we ability	0	0
+1.0	volunteers	reminisce about	past personal event	DATE	DATE
+1.0	student	moreover say in	questionnaire	0	0
+1.0	amnesia	with people be	condition involve various degree of memory loss	0	ORGANIZATION
+0.5274195802119099	then	image of	similar scenario	DATE	0
+1.0	amnesiac	of	condition	0	0
+1.0	study	be publish in	journal of Proceedings of National Academy	0	ORGANIZATION
+1.0	Sciences	have	National Academy	ORGANIZATION	ORGANIZATION
+0.5274195802119099	then	image of	scenario	DATE	0
+1.0	memory loss	have	degrees	O	O
+1.0	Kathleen McDermott	co-author of	psychology in School	PERSON	ORGANIZATION
+1.0	National Academy	have	Proceedings	O	ORGANIZATION
+1.0	Washington University	be in	St. Louis	ORGANIZATION	LOCATION
+1.0	Medicine	have	School	ORGANIZATION	ORGANIZATION
+1.0	psychology	be in	School of Medicine	0	ORGANIZATION
+1.0	scenarios	have	images	O	O
+1.0	memories	have	storage	O	O
+1.0	we ability	be related to	we ability	0	0
+1.0	places	have	context	O	O
+1.0	study	be	publish	0	0
+1.0	volunteers	alternately reminisce about	past personal event	DATE	DATE
+1.0	psychology	have	co-author	O	O
+1.0	Proceedings	have	journal	O	O
+1.0	amnesiac	have	condition	O	O
+1.0	future	have	images	O	DATE
+1.0	people	have	context	O	O
+1.0	study	be publish in	journal of Proceedings of National Academy of Sciences	0	ORGANIZATION
+1.0	activity	have	patterns	O	O
+1.0	the 21 students who took part in the experiment revealed `` a surprisingly complete	have	images	O	O
+1.0	student	moreover say in	post-testing questionnaire	0	0
+1.0	volunteers	reminisce about	past event	DATE	DATE
+1.0	study	be publish in	journal	0	0
+1.0	body movements	have	memories	O	O
+1.0	School of Medicine	be at	Washington University in St. Louis , Missouri	ORGANIZATION	ORGANIZATION
+1.0	we ability	be	related	0	0

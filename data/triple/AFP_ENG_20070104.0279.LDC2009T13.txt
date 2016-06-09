@@ -1,0 +1,25 @@
+1.0	standings	have	top	O	O
+1.0	Norway 's Anders Jacobsen	soar in	prestigious event	PERSON	0
+1.0	leg	jump calendar at_time	here Thursday	0	DATE
+1.0	Thomas Morgenstern	have	finished	O	PERSON
+1.0	Norway 's Anders Jacobsen	finish of	Austria 's Thomas Morgenstern	PERSON	PERSON
+1.0	third leg	be in	Hills	ORDINAL	MISC
+1.0	Norway 's Anders Jacobsen	soar to	top	PERSON	0
+1.0	Norway 's Anders Jacobsen	soar to	top of overall standing	PERSON	0
+1.0	Norway 's Anders Jacobsen	finish of	Austria 's Thomas Morgenstern of Switzerland	PERSON	LOCATION
+1.0	Austria	of	Thomas Morgenstern	LOCATION	PERSON
+1.0	Norway	have	Anders Jacobsen	PERSON	LOCATION
+1.0	Norway 's Anders Jacobsen	finish ahead of	Austria 's Thomas Morgenstern	PERSON	PERSON
+1.0	Norway	have	Anders Jacobsen	LOCATION	PERSON
+1.0	third leg	jump calendar at_time	Thursday	ORDINAL	DATE
+1.0	Switzerland	have	Thomas Morgenstern	PERSON	LOCATION
+1.0	leg	jump	calendar	0	0
+1.0	leg	jump calendar at_time	Thursday	0	DATE
+1.0	Thomas Morgenstern	be of	Switzerland	PERSON	LOCATION
+1.0	Norway 's Anders Jacobsen	soar to	top of standing	PERSON	0
+1.0	third leg	jump calendar at_time	here Thursday	ORDINAL	DATE
+1.0	Norway 's Anders Jacobsen	soar in	event	PERSON	0
+1.0	third leg	jump	calendar	ORDINAL	0
+1.0	Simon Ammann	have	finished	O	PERSON
+1.0	Austria	have	Thomas Morgenstern	PERSON	LOCATION
+1.0	Norway 's Anders Jacobsen	finish ahead of	Austria 's Thomas Morgenstern of Switzerland	PERSON	LOCATION

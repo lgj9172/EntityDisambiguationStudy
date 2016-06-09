@@ -1,0 +1,39 @@
+1.0	we	have target in	EU	0	ORGANIZATION
+1.0	past	oppose	construction of sixth reactor	DATE	ORDINAL
+1.0	energy	have	use	O	O
+1.0	Finland	be in	process	LOCATION	0
+1.0	process	build	fifth reactor	0	ORDINAL
+0.660460668196303	past	construction of	sixth nuclear reactor	DATE	ORDINAL
+0.660460668196303	past	construction of	sixth reactor	DATE	ORDINAL
+1.0	we	have	new target	0	0
+1.0	Pekkarinen	member of	Centre Party	PERSON	ORGANIZATION
+1.0	finnish Trade	say at_time	Friday	0	DATE
+1.0	resources	have	share	O	O
+0.9129447633152606	Pekkarinen	member of	ruling Centre Party	PERSON	ORGANIZATION
+1.0	Trade	say at_time	Friday	0	DATE
+1.0	process	build	nuclear reactor	0	0
+1.0	primary energy	be in	Finland	0	LOCATION
+1.0	bio-energy	have	use	O	O
+1.0	we	have	very ambitious target	0	0
+1.0	Finland	be in	currently process	LOCATION	DATE
+0.660460668196303	past	construction of	reactor	DATE	0
+1.0	reactor	have	construction	O	O
+1.0	past	oppose	construction of sixth nuclear reactor	DATE	ORDINAL
+1.0	past	oppose	construction	DATE	0
+1.0	past	oppose	construction of reactor	DATE	0
+1.0	we	have	CO2 emissions	O	O
+1.0	we	have	ambitious new target	0	0
+1.0	share	be about	currently 25 percent	0	PERCENT
+1.0	we	have	target	0	0
+1.0	we	have	ambitious target	0	0
+1.0	renewable resource	be in	primary energy	0	0
+1.0	process	build	fifth nuclear reactor	0	ORDINAL
+0.660460668196303	past	construction of	nuclear reactor	DATE	0
+0.9129447633152606	Pekkarinen	member of	ruling agrarian Centre Party	PERSON	ORGANIZATION
+1.0	we	have	very ambitious new target	0	0
+1.0	past	oppose	construction of nuclear reactor	DATE	0
+1.0	Trade	say	Industry Minister Mauri Pekkarinen	0	PERSON
+1.0	share	be about	25 percent	0	PERCENT
+1.0	process	build	reactor	0	0
+1.0	ruling Centre Party	have	member	O	ORGANIZATION
+1.0	finnish Trade	say	Industry Minister Mauri Pekkarinen	0	PERSON

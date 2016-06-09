@@ -1,0 +1,77 @@
+1.0	capital	have	Olympic Games construction	O	O
+1.0	party 's clampdown	expand with	the	DURATION	0
+1.0	Liu Zhihua	be	Beijing	PERSON	LOCATION
+1.0	party	have	clampdown on corruption	DURATION	DURATION
+1.0	corruption probes	have	focus	O	O
+1.0	party 's clampdown	expand with	the sack	DURATION	DURATION
+1.0	Deng Xiaoping	call on	party get first as part of economic reform	PERSON	ORDINAL
+1.0	wing	have	meeting	O	O
+1.0	Qiu Xiaohua	head of	National Bureau of Statistics	PERSON	ORGANIZATION
+1.0	we	result in	public reaction	0	0
+1.0	we	result in	reaction	0	0
+1.0	land	have	seizure	O	O
+1.0	Hu	say in	speech Tuesday	PERSON	DATE
+1.0	party 's clampdown	expand in	2006	DURATION	DATE
+1.0	we	grasp	strong momentum	0	0
+1.0	reforms	have	part	O	O
+1.0	we	result in	strong reaction	0	0
+1.0	we	result in	strong public reaction	0	0
+1.0	National Bureau	have	head	O	ORGANIZATION
+1.0	Hu Jintao	be	Chinese	PERSON	MISC
+1.0	Hu	say in	speech Tuesday at meeting	PERSON	DATE
+1.0	Hu	say in	speech at meeting of party 's wing	PERSON	ORGANIZATION
+1.0	Hu	say in	speech Tuesday at meeting of party 's disciplinary wing	PERSON	ORGANIZATION
+1.0	Statistics	have	National Bureau	ORGANIZATION	ORGANIZATION
+1.0	ordinary citizen	of	land	0	0
+1.0	Liu Zhihua	be vice mayor of	Beijing	PERSON	LOCATION
+1.0	China	be in	a decade	LOCATION	DURATION
+1.0	capital	have	Olympic Games construction	0	MISC
+0.6437854983148699	widespread anger	relate to	interest	0	0
+1.0	corruption	be	arduous	0	0
+1.0	citizens	have	land	O	O
+1.0	Deng Xiaoping	call on	party	PERSON	0
+1.0	corrupt	must	must firmly punish	0	0
+1.0	state press	say at_time	Wednesday	0	DATE
+1.0	economic reform	be in	the 1980s	0	DATE
+1.0	Shanghai	have	official	O	LOCATION
+1.0	we	must make	effort	0	0
+1.0	party	have	wing	O	O
+1.0	Deng Xiaoping	call on	party get as part	PERSON	0
+1.0	president	urge	commission	0	0
+1.0	Hu	say in	speech	PERSON	0
+1.0	Deng Xiaoping	call on	party get as part of economic reform	PERSON	0
+1.0	Deng Xiaoping	call on	party get as part of reform	PERSON	0
+1.0	hedonism	have	itself	O	O
+1.0	discipline	have	violation	O	O
+1.0	Deng Xiaoping	call on	party get first	PERSON	ORDINAL
+1.0	People	have	Daily	ORGANIZATION	ORGANIZATION
+1.0	Deng Xiaoping	call on	party get	PERSON	0
+1.0	Deng Xiaoping	call on	party get first as part of reform	PERSON	ORDINAL
+1.0	corrupt	must	must punish	0	0
+1.0	Xinhua	quote	communique	ORGANIZATION	0
+1.0	Hu	say in	speech at meeting of party 's disciplinary wing	PERSON	ORGANIZATION
+1.0	Deng Xiaoping	call on	party get as part of reform in 1980s	PERSON	DATE
+0.6437854983148699	anger	relate to	interest	0	0
+1.0	Deng Xiaoping	call on	party get first as part of economic reform in 1980s	PERSON	DATE
+1.0	law	have	violation	O	O
+1.0	Deng Xiaoping	call on	party get first as part of reform in 1980s	PERSON	DATE
+1.0	Chinese President Hu Jintao	have	effort	O	O
+1.0	Hu	say in	speech Tuesday at meeting of party 's wing	PERSON	ORGANIZATION
+1.0	investigation	hit	China in decade	DURATION	LOCATION
+1.0	investigation	hit	China	DURATION	LOCATION
+1.0	Deng Xiaoping	call on	party get first as part	PERSON	ORDINAL
+1.0	Deng Xiaoping	call on	party get as part of economic reform in 1980s	PERSON	DATE
+1.0	ordinary citizens 's	have	work	O	O
+1.0	we	must crack	bigger case	0	0
+1.0	we	must crack	case	0	0
+1.0	Shanghai	of	then top official Chen Liangyu	LOCATION	PERSON
+1.0	Communist Party member	be in	2007	ORGANIZATION	DATE
+1.0	official	have	investigation	O	O
+1.0	we	grasp	momentum	0	0
+1.0	party	have	clampdown	O	O
+1.0	Hu	say in	speech at meeting	PERSON	0
+1.0	president	further urge	commission	0	0
+1.0	people	have	interests	O	O
+1.0	party	of	disciplinary wing	0	0
+1.0	money worship	have	itself	O	O
+1.0	crackdown	have	focus	O	O

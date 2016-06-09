@@ -1,0 +1,19 @@
+1.0	Kidman and country music singer	have	car	O	O
+1.0	road	have	side	O	O
+1.0	allege involvement	be with	bugging device find at Kidman 's home last year	0	PERSON
+1.0	report	say at_time	Tuesday	0	DATE
+1.0	row	be with	paparazzi	0	0
+1.0	Kidman	have	home	O	PERSON
+1.0	star	shout obscenity at	he	0	0
+1.0	Nicole Kidman	be	Hollywood	PERSON	LOCATION
+1.0	my	have	view	O	O
+1.0	Sydney 's	have	Daily Telegraph	ORGANIZATION	LOCATION
+1.0	Hollywood superstar Nicole Kidman	have	Australia	LOCATION	O
+1.0	Nicole Kidman	be superstar of	Hollywood	PERSON	LOCATION
+1.0	Sydney 's	have	Daily Telegraph	LOCATION	ORGANIZATION
+1.0	Monday	be in	private jet after row with paparazzi	DATE	0
+1.0	Sydney 's	have	jetted	O	LOCATION
+1.0	Kidman	at	home	PERSON	0
+1.0	Sydney 's Daily Telegraph	report	Kidman music singer	LOCATION	PERSON
+1.0	her	have	back	O	O
+1.0	star	shout	obscenity	0	0

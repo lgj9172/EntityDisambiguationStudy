@@ -1,0 +1,90 @@
+1.0	level meeting	take place on	Lebanon 's reconstruction on January 25	0	DATE
+1.0	German Chancellor Angela Merkel	currently tour at_time	East next week	PERSON	LOCATION
+0.4814058567235401	UN source	say to	early February	ORGANIZATION	DATE
+1.0	German Chancellor Angela Merkel	tour at_time	week	PERSON	DATE
+1.0	issue	be of	greatest importance for many other conflict in region	0	0
+1.0	Middle East	of	importance	LOCATION	0
+1.0	conference	have	sidelines	O	O
+1.0	German Chancellor Angela Merkel	will hold	talk with Rice	PERSON	PERSON
+1.0	United States	be	European Union	LOCATION	ORGANIZATION
+1.0	issue	be of	importance for other conflict in region	0	0
+1.0	US State Department spokesman Tom Casey	say at_time	Friday	ORGANIZATION	DATE
+1.0	responsibility	be in	Middle East process	0	LOCATION
+1.0	issue	be of	greatest importance for other conflict in region	0	0
+1.0	State Condoleezza Rice	have	description	O	O
+1.0	Lebanon	on	reconstruction on January 25	LOCATION	DATE
+1.0	German Chancellor Angela Merkel	join	EU foreign policy chief Javier Solana on visit	PERSON	PERSON
+1.0	level meeting	take	place on sideline	0	0
+1.0	donors	have	conference	O	O
+1.0	quartet	play	role	0	0
+1.0	Tom Casey	be	US State Department	PERSON	ORGANIZATION
+1.0	German Chancellor Angela Merkel	have	backing	O	O
+1.0	Javier Solana	be	European Union	PERSON	ORGANIZATION
+1.0	Tom Casey	be spokesman of	US State Department	PERSON	ORGANIZATION
+1.0	Quartet members	have	level meeting	O	O
+1.0	importance	have	United States	LOCATION	O
+1.0	many other conflict	be in	region	0	0
+0.4814058567235401	UN source	say recently to	early February	ORGANIZATION	DATE
+1.0	German Chancellor Angela Merkel	will hold	talk	PERSON	0
+1.0	German Chancellor Angela Merkel	currently tour at_time	week	PERSON	DATE
+1.0	ministerial level meeting	take	place on sideline	0	0
+1.0	ministerial level meeting	take	place on sideline of donor ' conference	0	0
+1.0	German Chancellor Angela Merkel	tour at_time	East next week	PERSON	LOCATION
+0.4814058567235401	UN source	say recently to	February	ORGANIZATION	DATE
+1.0	issue	be of	importance for many other conflict in region	0	0
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	German Chancellor Angela Merkel	currently tour at_time	Middle next week	PERSON	LOCATION
+1.0	level meeting	take	place on sideline of donor ' conference	0	0
+1.0	German Chancellor Angela Merkel	join eu policy chief javier solana at_time	week	PERSON	DATE
+1.0	level meeting	take place on	Lebanon 's reconstruction	0	LOCATION
+1.0	situation	have	description	O	O
+1.0	German Chancellor Angela Merkel	have	determination	O	O
+1.0	State Condoleezza Rice	have	United States Secretary	O	PERSON
+1.0	ministerial level meeting	take place in	Paris	0	LOCATION
+1.0	level meeting	take	place	0	0
+0.4814058567235401	UN source	probably say to	early February	ORGANIZATION	DATE
+1.0	European Union	have	consisting	O	ORGANIZATION
+1.0	United Nations	have	consisting	O	ORGANIZATION
+1.0	German Chancellor Angela Merkel	meet	United States Secretary of State Condoleezza Rice	0	PERSON
+1.0	an extremely difficult political area	be	political	0	0
+1.0	German Chancellor Angela Merkel	consist of	United States	PERSON	LOCATION
+0.4814058567235401	UN source	say to	February	ORGANIZATION	DATE
+1.0	German Chancellor Angela Merkel	tour at_time	next week	PERSON	DATE
+1.0	German Chancellor Angela Merkel	join	EU foreign policy chief Javier Solana on visit to Washington	PERSON	LOCATION
+1.0	German Chancellor Angela Merkel	tour at_time	Middle next week	PERSON	LOCATION
+1.0	ministerial level meeting	have	have expect	0	0
+1.0	German Chancellor Angela Merkel	consist in	Guardian interview	PERSON	MISC
+1.0	German Chancellor Angela Merkel	join	EU policy chief Javier Solana on visit	PERSON	PERSON
+1.0	level meeting	have	have expect	0	0
+1.0	Lebanon	have	reconstruction	O	LOCATION
+1.0	German Chancellor Angela Merkel	meet	United States Secretary	0	LOCATION
+1.0	ministerial level meeting	take place on	Lebanon 's reconstruction on January 25	0	DATE
+1.0	German Chancellor Angela Merkel	tour at_time	Middle East next week	PERSON	LOCATION
+1.0	talk	be with	State Condoleezza Rice	0	PERSON
+1.0	German Chancellor Angela Merkel	currently tour at_time	Middle East next week	PERSON	LOCATION
+1.0	German Chancellor Angela Merkel	join eu policy chief javier solana at_time	last week	PERSON	DATE
+1.0	Condoleezza Rice 's report	will	will basis	PERSON	0
+1.0	an extremely difficult political area	be	difficult	0	0
+0.4814058567235401	UN source	probably say recently to	February	ORGANIZATION	DATE
+1.0	German Chancellor Angela Merkel	join	EU policy chief Javier Solana	PERSON	PERSON
+1.0	ministerial level meeting	take place on	Lebanon 's reconstruction	0	LOCATION
+1.0	German Chancellor Angela Merkel	underline	she backing	PERSON	0
+1.0	level meeting	take place in	Paris	0	LOCATION
+1.0	Chancellor Angela Merkel	signal	she determination	PERSON	0
+1.0	Condoleezza Rice 's report	will	will basis see	PERSON	0
+1.0	Russia	have	consisting	O	LOCATION
+1.0	quartet	play	sensible role	0	0
+1.0	Condoleezza Rice	have	report	O	PERSON
+1.0	State Condoleezza Rice	have	trip	O	O
+1.0	German Chancellor Angela Merkel	join	EU foreign policy chief Javier Solana	PERSON	PERSON
+1.0	Middle East	have	importance	O	LOCATION
+1.0	German Chancellor Angela Merkel	currently tour at_time	next week	PERSON	DATE
+1.0	German Chancellor Angela Merkel	join	EU policy chief Javier Solana on visit to Washington	PERSON	LOCATION
+1.0	Condoleezza Rice	have	report	PERSON	0
+1.0	two-states solution	have	issue	O	O
+1.0	Angela Merkel	be	german	PERSON	0
+1.0	United States	have	consisting	O	LOCATION
+0.4814058567235401	UN source	probably say to	February	ORGANIZATION	DATE
+1.0	ministerial level meeting	take	place	0	0
+0.4814058567235401	UN source	probably say recently to	early February	ORGANIZATION	DATE
+1.0	german Chancellor Angela Merkel	signal	she determination	PERSON	0

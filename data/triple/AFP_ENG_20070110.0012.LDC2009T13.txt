@@ -1,0 +1,54 @@
+1.0	space rocket	disintegrate at_time	year	0	DATE
+1.0	space rocket	disintegrate after	lift	0	0
+1.0	space agency	say at_time	month	0	DATE
+0.8411362875115782	S.Krishnamurthy	spokesman for	indian Space Research Organisation	0	ORGANIZATION
+1.0	indian Space Research Organisation	also receive	payment	ORGANIZATION	0
+1.0	India	have	heaviest satellite	LOCATION	0
+1.0	space agency	say at_time	last month	0	DATE
+1.0	the space agency	have	re-entry	O	O
+1.0	country	to	ambitious space programme	0	0
+1.0	Space Research Organisation	have	budget allot	ORGANIZATION	0
+1.0	space agency	also say at_time	month	0	DATE
+1.0	remote	gather	climatic datum	0	0
+0.8411362875115782	S.Krishnamurthy	spokesman for	Space Research Organisation	0	ORGANIZATION
+1.0	space rocket	disintegrate in	smoke seconds	0	DURATION
+1.0	Space Research Organisation	have	budget of 36 billion rupee allot	ORGANIZATION	MONEY
+1.0	deep space rocket	disintegrate in	smoke seconds	0	DURATION
+1.0	India	's kilogram be	1,496 pound	LOCATION	MONEY
+1.0	payload	include	earth observation satellite	0	0
+1.0	deep space rocket	disintegrate in	July	0	DATE
+1.0	Space Research Organisation	have	budget allot by government	ORGANIZATION	0
+1.0	Space Research Organisation	receive	payment	ORGANIZATION	0
+1.0	Space Research Organisation	also receive	payment	ORGANIZATION	0
+1.0	India	have	kilogram	O	LOCATION
+1.0	deep space rocket	disintegrate after	lift	0	0
+1.0	other payload	include	earth observation satellite	0	0
+1.0	moon	be in	the next three year	0	DURATION
+1.0	indian Space Research Organisation	receive	payment	ORGANIZATION	0
+1.0	indian Space Research Organisation	have	budget	ORGANIZATION	0
+1.0	remote	gather	datum	0	0
+1.0	indian Space Research Organisation	have	budget allot by government	ORGANIZATION	0
+1.0	indian Space Research Organisation	have	budget allot	ORGANIZATION	0
+1.0	other payload	include earth observation satellite from	Argentina	0	LOCATION
+1.0	country	have	space programme	O	O
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee allot by government	ORGANIZATION	MONEY
+1.0	rupees	have	budget	O	MONEY
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee	ORGANIZATION	MONEY
+1.0	other payload	include	indonesian earth observation satellite	0	0
+1.0	Space Research Organisation	have	budget of 36 billion rupee	ORGANIZATION	MONEY
+1.0	deep space rocket	disintegrate at_time	last year	0	DATE
+1.0	S.Krishnamurthy	spokesman for	indian Space Research Organisation	0	ORGANIZATION
+1.0	Space Research Organisation	have	budget of 36 billion rupee allot by government	ORGANIZATION	MONEY
+1.0	space agency	also say at_time	last month	0	DATE
+1.0	indian Space Research Organisation	have	budget of 36 billion rupee allot	ORGANIZATION	MONEY
+1.0	Space Research Organisation	have	budget	ORGANIZATION	0
+1.0	deep space rocket	disintegrate at_time	year	0	DATE
+1.0	space agency	test	its re-entry	0	0
+1.0	India	include	indigenous 680 kilogram	LOCATION	NUMBER
+1.0	space rocket	disintegrate in	July	0	DATE
+1.0	India	have	satellite	O	LOCATION
+1.0	remote	be	use	0	0
+1.0	payload	include	indonesian earth observation satellite	0	0
+1.0	space rocket	disintegrate at_time	last year	0	DATE
+1.0	life	have	evidence	O	O
+1.0	payload	include earth observation satellite from	Argentina	0	LOCATION

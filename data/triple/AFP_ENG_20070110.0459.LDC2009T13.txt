@@ -1,0 +1,121 @@
+1.0	Poland	have	National remembrance Institute	LOCATION	ORGANIZATION
+0.5456713569066095	researcher	study	history of Roman Catholic Church	0	ORGANIZATION
+1.0	scandal	have dent	image of Church	0	0
+1.0	Lithuania	introduce law include	ban from hold public office	LOCATION	0
+1.0	row	rage over	he past	0	DATE
+1.0	it	resist pressure from	communist machine	0	0
+1.0	Polish Archbishop Stanislaw Wielgus 's	have	past	DATE	O
+1.0	police	have	archives	O	O
+1.0	Roman Catholic Church	have	history	O	ORGANIZATION
+1.0	the Roman Catholic Church	would	of course would have better	0	0
+1.0	priest	have	part	O	O
+1.0	population	have	percent	PERCENT	O
+1.0	Lithuania	have	lustration commission	O	LOCATION
+1.0	mass	be in	Warsaw Cathedral on Sunday	0	DATE
+1.0	it	resist pressure from	machine in communist-era	0	0
+1.0	Church	have	authority	O	O
+1.0	Lithuania	have	Roman	MISC	LOCATION
+1.0	Kaunas Sigitas Tamkevicius	have	Archbishop	O	PERSON
+1.0	state	have	laws	O	O
+1.0	mistake	enhance	authority	0	0
+1.0	state	be	soviet	0	0
+1.0	country	of	secret police	0	0
+1.0	baltic state	be	republic	0	0
+1.0	Lithuania 's Roman cleric	plead	try	LOCATION	0
+1.0	archbishop	be in	small closed-door service on Friday	0	DATE
+1.0	they name	provide under	state 's law	0	0
+1.0	they name	provide under	baltic state 's law	0	0
+1.0	Lithuania	have	Roman Catholic	LOCATION	MISC
+1.0	Poland	's remembrance be	National remembrance Institute	LOCATION	ORGANIZATION
+1.0	The 67-year-old cleric	announce	he resignation	0	0
+1.0	Archbishop of Kaunas Sigitas Tamkevicius	finally confess	everything	0	0
+1.0	percent	be	roman Catholics	PERCENT	MISC
+1.0	The 67-year-old cleric	have	resignation	O	O
+1.0	Poland	's remembrance be	IPN	LOCATION	ORGANIZATION
+1.0	Archbishop	be	quote	0	0
+1.0	communism	have	fall	DATE	O
+1.0	Lithuania 's Roman	plead with	Roman Catholic	LOCATION	MISC
+1.0	Lithuania 's highest-ranking Roman	plead with	Roman Catholic	LOCATION	MISC
+1.0	priests	have	percentage	O	O
+1.0	scandal	have dent	image	0	0
+0.5456713569066095	researcher	study history in	Lithuania 's	0	LOCATION
+1.0	67-year-old cleric	have initially deny	accusation	DURATION	0
+1.0	it	be	hard	0	0
+1.0	Lithuania 's highest-ranking Roman cleric	plead with	Roman Catholic	LOCATION	MISC
+1.0	percent	be	where roman Catholics	PERCENT	MISC
+1.0	extent	have	unaware	O	O
+1.0	percent	be	where Catholics	PERCENT	MISC
+1.0	Polish Archbishop Stanislaw Wielgus 's	collaborate with	police	0	0
+1.0	course	have	better	O	O
+1.0	Lithuania 's highest-ranking Roman Catholic cleric	plead	try	LOCATION	0
+0.569685687053398	Lithuania	be include	ban from hold public office	LOCATION	0
+1.0	Archbishop	be quote by	Baltic News Service	0	ORGANIZATION
+1.0	cleric	have deny	accusation	0	0
+1.0	Lithuania 's Roman cleric	plead with	Roman Catholic	LOCATION	MISC
+1.0	clergymen	have	number	O	O
+1.0	dozen priest	collaborate with	KGB	NUMBER	ORGANIZATION
+1.0	Archbishop of Kaunas Sigitas Tamkevicius	confess	everything	0	0
+1.0	their	have	names	O	O
+1.0	men of the cloth	have	community	O	O
+1.0	mistake	enhance	authority of Church	0	0
+1.0	recruits	have	many	O	O
+1.0	everyone	withstand	a machine that would grind down everybody	0	0
+1.0	it	resist	pressure	0	0
+1.0	dozen lithuanian priest	collaborate with	KGB	NUMBER	ORGANIZATION
+1.0	Wielgus	have	involvement	O	PERSON
+1.0	Warsaw	have	archbishop	O	LOCATION
+1.0	Stanislaw Wielgus	have	admission	PERSON	0
+1.0	Lithuania 's Roman	plead	try	LOCATION	0
+0.8491212309877177	accusation	have collaborate with	communist police	0	0
+1.0	country	have	police	O	O
+1.0	Lithuania 's highest-ranking Roman cleric	plead	try	LOCATION	0
+1.0	communist machine	be in	communist-era	0	0
+1.0	Archbishop Stanislaw Wielgus	have	admission	O	PERSON
+1.0	Church	have	image	O	O
+1.0	baltic state	under	law	0	0
+1.0	38.5 million	have	population	O	NUMBER
+1.0	Polish Archbishop Stanislaw Wielgus 's	collaborate with	communist secret police	0	0
+1.0	Lithuania 's Roman Catholic cleric	plead with	Roman Catholic	LOCATION	MISC
+1.0	row	rage as	communist collaborator	0	0
+0.8491212309877177	accusation	have collaborate with	reviled communist police	0	0
+1.0	Lithuania	introduce law include	ban from office	LOCATION	0
+1.0	clergy	have	percent	PERCENT	O
+1.0	67-year-old cleric	have deny	accusation	DURATION	0
+1.0	Lithuania 's Roman Catholic cleric	plead	try	LOCATION	0
+1.0	The 67-year-old cleric	have	consecration	O	O
+1.0	KGB collaborator	confess	they activity	ORGANIZATION	0
+1.0	KGB	have	recruits	O	ORGANIZATION
+0.569685687053398	Lithuania	be include	ban from office	LOCATION	0
+1.0	Poland	have	National Remembrance	ORGANIZATION	LOCATION
+1.0	cloth	have	men	O	O
+1.0	KGB	of	recruit	ORGANIZATION	0
+1.0	row	rage as	collaborator	0	0
+1.0	bishop	have	part	O	O
+1.0	state	be	soviet republic	0	0
+1.0	the Roman Catholic Church	would	would have better	0	0
+1.0	it	resist pressure from	communist machine in communist-era	0	0
+1.0	their	have	activities	O	O
+0.569685687053398	Lithuania	be include	ban	LOCATION	0
+1.0	archbishop	refuse	speculate	0	0
+0.569685687053398	Lithuania	be include	ban from public office	LOCATION	0
+1.0	Lithuania 's highest-ranking Roman	plead	try	LOCATION	0
+1.0	Arunas Streikus	have	estimates	O	O
+1.0	involvement	have	extent	O	O
+1.0	it	resist pressure from	machine	0	0
+1.0	Stanislaw Wielgus	be 's	polish	PERSON	0
+1.0	Polish Archbishop Stanislaw Wielgus 's	be	consecrate	0	0
+1.0	Lithuania	introduce law include	ban	LOCATION	0
+0.5456713569066095	researcher	study history of roman catholic church in	Lithuania 's	0	LOCATION
+1.0	lead position	be in	Church	0	0
+1.0	state	be	republic	0	0
+0.5456713569066095	researcher	study	history	0	0
+1.0	cleric	have initially deny	accusation	0	0
+1.0	Lithuania	introduce law include	ban from hold office	LOCATION	0
+1.0	Polish Archbishop Stanislaw Wielgus 's	collaborate with	secret police	0	0
+1.0	Vatican	have	dented'	O	LOCATION
+1.0	Lithuania	introduce law include	ban from public office	LOCATION	0
+1.0	Lithuania 's highest-ranking Roman Catholic cleric	plead with	Roman Catholic	LOCATION	MISC
+1.0	communism	be in	1991	0	DATE
+1.0	baltic state	be	soviet republic	0	0
+1.0	percent	be	Catholics	PERCENT	MISC
+0.569685687053398	Lithuania	be include	ban from hold office	LOCATION	0

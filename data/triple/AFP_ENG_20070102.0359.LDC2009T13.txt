@@ -1,0 +1,76 @@
+1.0	it	pay	more money	0	0
+1.0	train service	be	bad	0	0
+1.0	tourist	be	hit	0	0
+1.0	it	pay	money	0	0
+1.0	train service	be bad towards	end	0	DATE
+1.0	Tokyo	be over	in Tokyo just one euro	0	MONEY
+1.0	train service	be bad towards	end of last year	0	DATE
+1.0	percent	have	price rises	O	PERCENT
+1.0	London 's mainline rail commuters	have	transport system	O	O
+1.0	train service	be really bad towards	end of last year	0	DATE
+1.0	cash alternative	have	cost	O	O
+1.0	one euro	be in	Paris	MONEY	LOCATION
+1.0	Tokyo	be over	in Paris just one euro	0	LOCATION
+1.0	tourist	be	hit hard	0	0
+1.0	London	have	mainline rail commuters	O	LOCATION
+1.0	off-peak bus fare	rise	20 pence to one pound	NUMBER	MONEY
+1.0	London 's mainline rail commuter	face	price rise	LOCATION	0
+1.0	train service	be really bad towards	end of year	0	DATE
+1.0	fare	have	where have freeze at 1.50 pound on Tube	0	MONEY
+1.0	Tokyo	be over	in Tokyo one euro	0	MONEY
+1.0	percent	have	July inflation rate	O	PERCENT
+1.0	train service	be	really bad	0	0
+1.0	year	have	end	DATE	DATE
+1.0	Tokyo	be over	in Paris one euro	0	LOCATION
+1.0	bus ticket	rise by	same fraction	0	0
+1.0	London	for	Evening Standard newspaper	LOCATION	ORGANIZATION
+1.0	fare	be	deliberate	0	0
+1.0	bus fare	rise	20 pence to one pound	0	MONEY
+1.0	tourist	be	likely	0	0
+1.0	tariff	encourage	commuter	0	0
+1.0	price	rise by	third	0	ORDINAL
+1.0	fare	have	where have freeze at 1.50 pound	0	MONEY
+1.0	their	have	cars	O	O
+1.0	Tokyo	be over	just one euro	0	MONEY
+1.0	Katherine Burr	tell	newspaper	PERSON	0
+1.0	Tokyo	be over	in Paris in Tokyo one euro	0	LOCATION
+1.0	Tokyo	cost	two dollar	0	MONEY
+1.0	off-peak bus fare	rise	20 pence	NUMBER	MONEY
+1.0	tariff	be	design	0	0
+1.0	government strategy	have	part	O	O
+1.0	world	of	busiest public transport system	0	0
+1.0	railways	have	priced	O	O
+1.0	London	have	Evening Standard newspaper	O	LOCATION
+1.0	bus ticket	rise to	two pound	0	MONEY
+1.0	London 's mainline rail commuter	face	average price rise	LOCATION	0
+1.0	Chris Grayling	comment on	rail fare	PERSON	0
+1.0	fare	have	have freeze at 1.50 pound on Tube	0	MONEY
+1.0	many	be	unlikely	0	0
+1.0	Katherine Burr	executive from	Sevenoaks	PERSON	LOCATION
+1.0	bus ticket	rise by	fraction	0	0
+1.0	train service	be bad towards	end of year	0	DATE
+1.0	Ken Livingstone	be mayor of	London	PERSON	LOCATION
+1.0	fare	have	have freeze	0	0
+1.0	London	have	south	O	LOCATION
+1.0	tourist	be hit by	measure	0	0
+1.0	Tokyo	be over	one euro	0	MONEY
+1.0	world	have	transport systems	O	O
+1.0	one euro	be in	Tokyo	MONEY	LOCATION
+1.0	Tokyo	be over	in Paris in Tokyo just one euro	0	LOCATION
+1.0	we transport system	be	lifeblood	0	0
+1.0	tourist	be hit hard by	measure	0	0
+1.0	transport systems	have	one	NUMBER	O
+1.0	capital	have	lifeblood	O	O
+1.0	price	rise to	four pound	0	MONEY
+1.0	price	rise to	eight dollar	0	MONEY
+1.0	London	have	mainline rail commuter	LOCATION	0
+1.0	work	be in	new year	0	DATE
+1.0	fare	have	have freeze at 1.50 pound	0	MONEY
+1.0	Conservatives	have	transport spokesman	O	O
+1.0	bus fare	rise	20 pence	0	MONEY
+1.0	fare	have	where have freeze	0	0
+1.0	single underground train journey	be in	city centre	0	0
+1.0	Christian Wolmar	commentator for	London 's Evening Standard newspaper	PERSON	ORGANIZATION
+1.0	train journey	have	price	O	O
+1.0	train service	be really bad towards	end	0	DATE
+1.0	Ken Livingstone	be	London	PERSON	LOCATION

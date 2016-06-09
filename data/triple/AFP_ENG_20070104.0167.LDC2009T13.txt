@@ -1,0 +1,35 @@
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first public outing of year	PERSON	ORDINAL
+1.0	Pope Benedict XVI on Thursday	quote	his predecessor John Paul II	PERSON	PERSON
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first outing of new year	PERSON	ORDINAL
+1.0	race	have	serving	O	O
+1.0	love	have	beauty	O	O
+1.0	Pope Benedict XVI on Thursday	have	outing	O	O
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first outing of year	PERSON	ORDINAL
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he public outing	PERSON	0
+1.0	Jesus Christ	have	love	O	PERSON
+1.0	pontiff	unveil	plaque	0	0
+1.0	Caritas	be group of	catholic	ORGANIZATION	0
+1.0	year	have	outing	O	DATE
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first outing	PERSON	ORDINAL
+0.5582350100133853	staff	beauty	volunteer	0	0
+1.0	79-year-old pontiff	unveil	plaque	DURATION	0
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he public outing of new year	PERSON	DATE
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first public outing of new year	PERSON	ORDINAL
+1.0	The 79-year-old pontiff	have	predecessor John Paul II	PERSON	O
+1.0	Caritas	be to	catholic	ORGANIZATION	0
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he first public outing	PERSON	ORDINAL
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he public outing of year	PERSON	DATE
+1.0	pope	pay	tribute	0	0
+1.0	five soup kitchen	be in	italian capital	NUMBER	0
+1.0	culture	have	serving	O	O
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he outing	PERSON	0
+1.0	Caritas	run aid operation around	world	ORGANIZATION	0
+1.0	religion	have	serving	O	O
+1.0	Caritas	run	aid operation	ORGANIZATION	0
+1.0	Jesus Christ	of love be	joy	PERSON	0
+1.0	staff	experience	volunteer	0	0
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he outing of year	PERSON	DATE
+1.0	Benedict XVI	be on	Thursday	PERSON	DATE
+1.0	Pope Benedict XVI	visit rome soup kitchen from	Vatican	PERSON	LOCATION
+1.0	Pope Benedict XVI	visit	Rome soup kitchen	PERSON	LOCATION
+1.0	Pope Benedict XVI	visit rome soup kitchen on	he outing of new year	PERSON	DATE

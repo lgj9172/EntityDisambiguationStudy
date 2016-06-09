@@ -1,0 +1,9 @@
+1.0	official	say at_time	Friday	0	DATE
+1.0	Imoko	expand telecom service in	country	PERSON	0
+1.0	Imoko	expand	telecom service	PERSON	0
+1.0	dollars	have	licence fee	O	MONEY
+1.0	Global System	have	operator	O	ORGANIZATION
+1.0	people	have	country	O	O
+1.0	spokesman Dave Imoko	tell	AFP	PERSON	ORGANIZATION
+1.0	telecom service	be in	communications-starved country	0	0
+1.0	Mobile Communications	have	Global System	ORGANIZATION	ORGANIZATION

@@ -1,0 +1,99 @@
+1.0	opposition	want	right of veto	0	0
+0.7626421193230296	Mohammed Fneish	resign	other pro-syria minister	0	DATE
+1.0	Saudi Arabia	be close to	also leader of anti-syrian parliamentary majority	LOCATION	0
+1.0	he	be grant	audience with king in mainly sunni kingdom 's of Jeddah	0	LOCATION
+1.0	whose government	be support by	West	0	0
+1.0	Jeddah meeting	be positive on	rapprochement between kingdom	LOCATION	0
+1.0	movement	have	government ministers	O	O
+1.0	whose	have	government	O	O
+0.13471641524158007	UN probe	have implicate at_time	last February	ORGANIZATION	DATE
+1.0	Saudi Arabia	be close to	also leader of anti-syrian majority	LOCATION	0
+1.0	Jeddah meeting	be positive on	especially rapprochement	LOCATION	0
+1.0	opposition	have stage	central Beirut sit-in	0	LOCATION
+1.0	Hezbollah militant	spark	devastating war	ORGANIZATION	0
+1.0	Saudi Arabia	be close to	leader of anti-syrian majority	LOCATION	0
+1.0	Saudi Arabia	be close to	also leader of parliamentary majority	LOCATION	0
+1.0	he	be grant	audience with king in mainly kingdom 's of Jeddah	0	LOCATION
+1.0	Mohammed Fneish	minister in	Prime Minister Fuad Siniora 's government	PERSON	PERSON
+1.0	majority	have	leader	O	O
+1.0	Fuad Siniora	in	government	PERSON	0
+1.0	he	be grant	audience with king in kingdom 's	0	0
+0.7626421193230296	Mohammed Fneish	resign	five other pro-syria minister	0	NUMBER
+1.0	Saudi Arabia	slam	movement 's raid	LOCATION	0
+1.0	he	be grant	audience with king 's of Jeddah	0	LOCATION
+1.0	country	have	crisis	O	O
+1.0	Hezbollah militant	capture	two soldier	ORGANIZATION	NUMBER
+1.0	Saudi Arabia	be close to	also leader of majority	LOCATION	0
+1.0	Lebanon	have	Shiite Hezbollah	ORGANIZATION	LOCATION
+1.0	opposition	want	right of veto in government	0	0
+1.0	he	be grant	audience with king in mainly sunni kingdom 's	0	0
+1.0	Saudi Arabia	be close to	leader of parliamentary majority	LOCATION	0
+1.0	he	be grant	audience with king in mainly kingdom 's	0	0
+1.0	he	be grant	audience	0	0
+1.0	Rafiq	have	killing	O	PERSON
+1.0	encounter	be	first	0	ORDINAL
+1.0	he	be grant	audience with king in kingdom 's of Jeddah	0	LOCATION
+1.0	lebanese opposition	have stage	Beirut sit-in	DURATION	LOCATION
+1.0	movement	have	raid	O	O
+1.0	lebanese opposition	have stage	Beirut sit-in for a	DURATION	LOCATION
+1.0	Hezbollah militant	spark	devastating 34-day war	ORGANIZATION	DURATION
+1.0	he	be grant	audience with king in sunni kingdom 's	0	0
+1.0	Hezbollah militant	spark war with	state	ORGANIZATION	0
+1.0	encounter	be first between	monarch	0	0
+1.0	he	be grant audience at_time	last month	0	DATE
+1.0	Abdullah	be in	Saudi Arabia	PERSON	LOCATION
+1.0	Rafiq	into	killing	PERSON	0
+1.0	audience	be with	king in mainly sunni kingdom 's of Jeddah	0	LOCATION
+1.0	encounter	be	first of its kind between monarch	0	ORDINAL
+1.0	Mohammed Fneish	be	quote	PERSON	0
+1.0	Hezbollah militant	capture	two israeli soldier	ORGANIZATION	NUMBER
+1.0	movement	of	former government minister	0	0
+1.0	Jeddah meeting	be	positive	LOCATION	0
+1.0	whose government	be	support	0	0
+1.0	Hezbollah militant	spark	34-day war	ORGANIZATION	DURATION
+1.0	veto	be in	government of national unity	0	0
+1.0	Saudi Arabia	be close to	leader of anti-syrian parliamentary majority	LOCATION	0
+1.0	Lebanon	have	Shiite Hezbollah	LOCATION	ORGANIZATION
+1.0	unity	have	government	O	O
+1.0	lebanese opposition	have stage	central Beirut sit-in	DURATION	LOCATION
+1.0	Jeddah	have	king	O	LOCATION
+1.0	Saudi Arabia	be close to	leader	LOCATION	0
+1.0	opposition	have stage	Beirut sit-in	0	LOCATION
+1.0	opposition	want	right of veto in government of unity	0	0
+1.0	The Lebanese opposition	consider	government	0	0
+1.0	Prime Minister Fuad Siniora	have	government	O	PERSON
+1.0	opposition	have stage	Beirut sit-in for a	0	LOCATION
+1.0	encounter	be first between	saudi monarch	0	0
+1.0	`` the first of its kind '' between a Saudi monarch and his party	have	kind	O	O
+1.0	opposition	have stage	central Beirut sit-in for a	0	LOCATION
+1.0	Saudi Arabia	be close to	also leader	LOCATION	0
+1.0	energy minister	be in	Prime Minister Fuad Siniora 's government	0	PERSON
+0.13471641524158007	UN probe	have implicate at_time	February	ORGANIZATION	DATE
+1.0	veto	have	right	O	O
+1.0	encounter	be first of	its kind	0	0
+1.0	movement	have	cross-border raid	0	0
+1.0	encounter	be	first of its kind between saudi monarch	0	ORDINAL
+1.0	Saudi Arabia	have	influence	O	O
+1.0	Rafiq	be	joint	PERSON	0
+1.0	Jeddah meeting	be positive on	rapprochement	LOCATION	0
+1.0	kind	have	first	ORDINAL	O
+1.0	Hezbollah militant	spark	war	ORGANIZATION	0
+1.0	December	have	end	DATE	DATE
+1.0	country	in	political crisis	0	0
+1.0	opposition	want	right	0	0
+1.0	opposition	want	right of veto in government of national unity	0	0
+1.0	Saudi Arabia	be close to	leader of majority	LOCATION	0
+1.0	a Saudi monarch	have	party	O	O
+1.0	Jeddah meeting	be positive on	especially rapprochement between kingdom	LOCATION	0
+1.0	lebanese opposition	have stage	central Beirut sit-in for a	DURATION	LOCATION
+1.0	Friday	be in	media report	DATE	0
+1.0	government ministers	have	one	NUMBER	O
+1.0	mediator	have	role	O	O
+1.0	Hezbollah militant	spark war with	jewish state	ORGANIZATION	0
+1.0	UN probe	have implicate	syrian	ORGANIZATION	0
+1.0	he	be grant	audience with king in sunni kingdom 's of Jeddah	0	LOCATION
+1.0	minister	quit in	November	0	DATE
+1.0	Saudi Arabia	slam	movement 's cross-border raid	LOCATION	0
+1.0	he	be grant audience at_time	month	0	DATE
+1.0	Mohammed Fneish	tell	newspaper	PERSON	0
+1.0	he	be grant	audience with king 's	0	0

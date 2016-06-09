@@ -1,0 +1,44 @@
+1.0	respect	have	time	O	O
+1.0	couple	have	relationship	0	0
+1.0	couple	announce on	Thursday	0	DATE
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	attend	award	0	0
+1.0	we relationship	do with	love	0	0
+1.0	couple	have	relationship	O	O
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	tie knot at	wedding in south	0	0
+1.0	we relationship	do with	continue love	0	0
+1.0	we	end	we romantic relationship	0	0
+1.0	Pop-star Justin Timberlake and Hollywood siren Cameron Diaz	have	relationship	O	O
+1.0	Justin Timberlake	call on	they relationship	PERSON	0
+1.0	pop-star Justin Timberlake	call on	they relationship	PERSON	0
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	have	preference	O	O
+1.0	former n'sync front man	rage in	2005	0	DATE
+1.0	couple	announce in	statement	0	0
+1.0	red carpet event	be in	Los Angeles	0	LOCATION
+1.0	pop-star Justin Timberlake	call at_time	the time	PERSON	0
+1.0	report	have mount in	week	0	0
+1.0	we relationship	do	so mutually	0	0
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	attend alone	award	0	0
+1.0	speculation	have	light	O	O
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	tie knot at	wedding	0	0
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	have	relationship	O	O
+1.0	stories	have	number	O	O
+1.0	we romantic relationship	do	mutually	0	0
+1.0	pop-star Justin Timberlake	call	Hollywood siren Cameron Diaz	PERSON	PERSON
+1.0	Justin Timberlake	call at_time	the time	PERSON	0
+1.0	Cameron Diaz	be siren of	Hollywood	PERSON	LOCATION
+1.0	we relationship	do	mutually	0	0
+1.0	Cameron Diaz	be	Hollywood	PERSON	LOCATION
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	tie	knot	0	0
+1.0	Hollywood siren Cameron Diaz	be	34	PERSON	NUMBER
+1.0	we romantic relationship	do	so mutually	0	0
+1.0	France	have	south	O	LOCATION
+1.0	Justin Timberlake	be	25	PERSON	NUMBER
+1.0	we	end	we relationship	0	0
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	tie knot at	wedding in south of France	0	LOCATION
+1.0	Justin Timberlake	call	Hollywood siren Cameron Diaz	PERSON	PERSON
+1.0	wedding	be in	south of France	0	LOCATION
+1.0	Timberlake , 25 , and `` Charlie 's Angels ''	be	see	0	0
+1.0	relationship	have	status	O	O
+1.0	we romantic relationship	do with	continue love	0	0
+1.0	we	have in	fact	0	0
+1.0	we romantic relationship	do with	love	0	0

@@ -1,0 +1,37 @@
+1.0	spanish rider Isidre Esteve Pujol	win	768km fifth stage of Dakar rally	PERSON	ORDINAL
+1.0	rider Isidre Esteve Pujol	win stage between	Ouarzazate	PERSON	LOCATION
+1.0	rider Isidre Esteve Pujol	win	fifth stage	PERSON	ORDINAL
+1.0	spanish rider Isidre Esteve Pujol	win	stage	PERSON	0
+1.0	VW	win	stage	ORGANIZATION	0
+1.0	rider Isidre Esteve Pujol	win	768km fifth stage of Dakar rally	PERSON	ORDINAL
+1.0	spanish rider Isidre Esteve Pujol	win	768km stage	PERSON	0
+1.0	rider Isidre Esteve Pujol	win	768km stage of Dakar rally	PERSON	LOCATION
+1.0	Isidre Esteve Pujol	be	spanish	PERSON	0
+1.0	France	have	Stephane Peterhansel	PERSON	LOCATION
+1.0	spanish rider Isidre Esteve Pujol	win	768km stage of Dakar rally	PERSON	LOCATION
+1.0	compatriot overall leader Marc Coma	have	Wednesday	DATE	PERSON
+1.0	spanish rider Isidre Esteve Pujol	win	fifth stage of Dakar rally	PERSON	ORDINAL
+1.0	spanish rider Isidre Esteve Pujol	win	stage of Dakar rally	PERSON	LOCATION
+1.0	Dakar rally	have	stage	O	O
+1.0	VW	be of	Carlos Sainz	ORGANIZATION	PERSON
+1.0	spanish rider Isidre Esteve Pujol	win stage between	Ouarzazate	PERSON	LOCATION
+1.0	Carlos Sainz	have	VW	ORGANIZATION	PERSON
+1.0	rider Isidre Esteve Pujol	win	fifth stage of Dakar rally	PERSON	ORDINAL
+1.0	VW	win	stage ahead of France 's Stephane Peterhansel	ORGANIZATION	LOCATION
+1.0	spanish rider Isidre Esteve Pujol	win	768km fifth stage	PERSON	ORDINAL
+1.0	Cyril Despres	have	Wednesday	DATE	PERSON
+1.0	Spain	of	Carlos Sainz	LOCATION	PERSON
+1.0	rider Isidre Esteve Pujol	win	stage of Dakar rally	PERSON	LOCATION
+1.0	Stephane Peterhansel	have	stage	O	PERSON
+1.0	South Africa	have	Giniel De Villiers	ORGANIZATION	LOCATION
+1.0	VW	win stage in	car section	ORGANIZATION	0
+1.0	rider Isidre Esteve Pujol	win	stage	PERSON	0
+1.0	spanish rider Isidre Esteve Pujol	win	fifth stage	PERSON	ORDINAL
+1.0	South Africa	have	Giniel De Villiers	LOCATION	ORGANIZATION
+1.0	France	of	Stephane Peterhansel	LOCATION	PERSON
+1.0	VW	win	stage of France 's Stephane Peterhansel	ORGANIZATION	LOCATION
+1.0	rider Isidre Esteve Pujol	win	768km fifth stage	PERSON	ORDINAL
+1.0	France	have	Wednesday	DATE	LOCATION
+1.0	Giniel De Villiers	have	stage	O	ORGANIZATION
+1.0	rider Isidre Esteve Pujol	win	768km stage	PERSON	0
+1.0	Spain	have	Carlos Sainz	PERSON	LOCATION

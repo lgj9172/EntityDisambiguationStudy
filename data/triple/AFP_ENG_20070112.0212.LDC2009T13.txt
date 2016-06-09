@@ -1,0 +1,143 @@
+1.0	market	be wait nervously for	interest rate meeting	0	0
+1.0	market	be now wait with	view divide	0	0
+1.0	Bank of England	of	surprise interest rate rise	ORGANIZATION	0
+1.0	US currency	be	with dollar remain above 120 yen be trade at high	LOCATION	MONEY
+1.0	market	be wait nervously with	view divide on chance	0	0
+1.0	market	be wait nervously for	interest rate meeting week	0	DATE
+1.0	US currency	be	with dollar be trade at high	LOCATION	0
+1.0	surprise 0.25-point increase	be in	repurchase rate	0	0
+1.0	US currency	be	with dollar remain be trade at 13-month high against currency	LOCATION	DURATION
+1.0	Japan	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	US currency	be	with dollar remain above 120 yen be trade at high against currency	LOCATION	MONEY
+1.0	price	rise from	612 dollar	0	MONEY
+1.0	yen	be in	response	0	0
+1.0	market	be now wait with	view divide on chance of hike	0	ORGANIZATION
+1.0	US currency	be	be trade at 13-month high against japanese currency	LOCATION	DURATION
+1.0	market	be now wait nervously with	view divide on chance of hike	0	ORGANIZATION
+1.0	US currency	be	with dollar remain above 120 yen however be trade at 13-month high	LOCATION	MONEY
+1.0	euro	rise to	1.2910 dollar in trading	0	MONEY
+1.0	market	be wait with	view still divide on chance	0	0
+1.0	US sales figures	have	release	O	O
+1.0	New York	be on	Thursday	LOCATION	DATE
+1.0	market	be now wait nervously for	interest rate meeting next week	0	DATE
+1.0	market	be wait nervously with	view divide on chance of hike	0	ORGANIZATION
+1.0	market	be wait nervously with	view	0	0
+1.0	market	be now wait nervously with	view divide	0	0
+1.0	dollar	fall to	120.39 yen	0	MONEY
+1.0	market	be wait nervously with	view still divide on chance of hike	0	ORGANIZATION
+1.0	US currency	be	with dollar remain above 120 yen however be trade at 13-month high against currency	LOCATION	MONEY
+1.0	market	be wait nervously with	view still divide	0	0
+1.0	US currency	be	with dollar remain however be trade at high against japanese currency	LOCATION	0
+1.0	US currency	be	with dollar remain however be trade at 13-month high against japanese currency	LOCATION	DURATION
+1.0	euro	rise to	1.2910 dollar in european trading	0	MONEY
+1.0	market	be now wait nervously for	interest rate meeting week	0	DATE
+1.0	US currency	be	be trade at high against japanese currency	LOCATION	0
+1.0	US currency	be	be trade at 13-month high	LOCATION	DURATION
+1.0	US currency	be	with dollar be trade at high against currency	LOCATION	0
+1.0	market	be wait nervously with	view divide	0	0
+1.0	euro	be change hand at	1.2910 dollar against 1.2892 dollar	0	MONEY
+1.0	euro	rise in	New York on Thursday	0	LOCATION
+1.0	pound	have	buying	O	O
+1.0	price	rise to	613.50 dollar per ounce	0	MONEY
+1.0	US currency	be	with dollar remain however be trade at high	LOCATION	0
+1.0	market	be wait with	view	0	0
+1.0	dollar	stand at	120.43	0	NUMBER
+1.0	euro	rise to	1.2910 dollar in early european trading	0	MONEY
+1.0	market	be wait nervously for	interest rate meeting next week	0	DATE
+1.0	Bank	increase	its interest rate	ORGANIZATION	0
+1.0	US currency	be	with dollar remain above 120 yen however be trade at 13-month high against japanese currency	LOCATION	MONEY
+1.0	dollar	fall from	120.43 yen on Thursday	0	MONEY
+1.0	euro	be change hand at	1.2910 dollar against 1.2892 dollar on Thursday	0	MONEY
+1.0	US currency	be	with dollar be trade at 13-month high against japanese currency	LOCATION	DURATION
+1.0	euro	rise to	1.2910 dollar	0	MONEY
+1.0	US currency	be	with dollar remain above 120 yen however be trade at high against japanese currency	LOCATION	MONEY
+1.0	Thursday	have	interest rate	O	O
+1.0	US currency	be	with dollar remain however be trade	LOCATION	0
+1.0	exchange sales	have	head	O	O
+1.0	Tokyo-Mitsubishi	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	dollar	fall from	120.43 yen	0	MONEY
+1.0	market	be now wait nervously for	interest rate meeting	0	0
+1.0	US currency	be	with dollar be trade at 13-month high against currency	LOCATION	DURATION
+1.0	euro	rise from	1.2892 dollar late	0	MONEY
+1.0	euro	be change hand at	1.2910 dollar	0	MONEY
+1.0	price	rise on	London Bullion Market	0	ORGANIZATION
+1.0	US currency	be	with dollar be trade at 13-month high	LOCATION	DURATION
+1.0	US currency	be	with dollar remain above 120 yen be trade at high against japanese currency	LOCATION	MONEY
+1.0	change in wording as a signal that the European central bank	have	February meeting	O	O
+1.0	market	be now wait with	view still divide	0	0
+1.0	HSBC	be in	Tokyo	ORGANIZATION	LOCATION
+1.0	euro	be change	hand	0	0
+1.0	dollar	stand at	120.39 yen	0	MONEY
+1.0	HSBC	have	Hanao	ORGANIZATION	PERSON
+1.0	1.2910 dollar	be in	early european trading	MONEY	0
+1.0	Derek Halpenny	economist at	the Bank of Tokyo-Mitsubishi	PERSON	ORGANIZATION
+1.0	US currency	be	with dollar remain be trade at high against currency	LOCATION	0
+1.0	HSBC	have	Hanao	PERSON	ORGANIZATION
+1.0	surprise interest rate rise	have	Bank	ORGANIZATION	O
+1.0	US currency	be	with dollar remain be trade at 13-month high against japanese currency	LOCATION	DURATION
+1.0	market	be now wait with	view divide on chance	0	0
+1.0	market	be now wait with	view still divide on chance	0	0
+1.0	US currency	be	with dollar remain above 120 yen be trade at 13-month high	LOCATION	MONEY
+1.0	Bank	increase	its key interest rate	ORGANIZATION	0
+1.0	market	be now wait nervously with	view still divide on chance of hike	0	ORGANIZATION
+1.0	US currency	be	be trade	LOCATION	0
+1.0	market	be now wait nervously with	view	0	0
+1.0	US currency	be	with dollar remain however be trade at 13-month high against currency	LOCATION	DURATION
+1.0	US currency	be	with dollar remain be trade at 13-month high	LOCATION	DURATION
+1.0	market	be wait with	view still divide on chance of hike	0	ORGANIZATION
+1.0	market	be now wait with	view still divide on chance of hike	0	ORGANIZATION
+1.0	market	be now wait with	view	0	0
+1.0	euro	rise from	1.2892 dollar	0	MONEY
+1.0	euro	rise to	1.2910 dollar in early trading	0	MONEY
+1.0	market	be wait with	view divide on chance	0	0
+1.0	US currency	be	with dollar be trade at high against japanese currency	LOCATION	0
+1.0	US currency	be	be trade at 13-month high against currency	LOCATION	DURATION
+1.0	US currency	be	with dollar remain above 120 yen be trade at 13-month high against japanese currency	LOCATION	MONEY
+1.0	market	be now wait for	interest rate meeting	0	0
+1.0	change	leave	interest rate unchanged at its February meeting	0	DATE
+1.0	US currency	be	with dollar remain above 120 yen be trade	LOCATION	MONEY
+1.0	US currency	be	be trade at high	LOCATION	0
+1.0	pound	be	be trade at 1.9491 dollar	0	MONEY
+1.0	Kosuke Hanao	head of	foreign exchange sale at HSBC in Tokyo	PERSON	ORGANIZATION
+1.0	US currency	be	be trade at high against currency	LOCATION	0
+1.0	US currency	be	with dollar remain be trade	LOCATION	0
+1.0	hike	have	chances	O	O
+1.0	market	be now wait nervously with	view still divide	0	0
+1.0	gold	have	price	O	O
+1.0	interest rate	unchanged at	its February meeting	0	DATE
+1.0	market	be wait with	view divide	0	0
+1.0	market	be now wait for	interest rate meeting week	0	DATE
+1.0	market	be now wait for	interest rate meeting next week	0	DATE
+1.0	England	have	Bank	ORGANIZATION	ORGANIZATION
+1.0	change	leave	interest rate unchanged	0	0
+1.0	change in wording as a signal that the European central bank	do on	Thursday	0	DATE
+1.0	market	be wait with	view divide on chance of hike	0	ORGANIZATION
+1.0	market	be wait for	interest rate meeting	0	0
+1.0	US currency	be	with dollar remain however be trade at 13-month high	LOCATION	DURATION
+1.0	US currency	be	with dollar remain be trade at high against japanese currency	LOCATION	0
+1.0	US currency	be	with dollar remain above 120 yen however be trade at high against currency	LOCATION	MONEY
+1.0	pound	be	be trade	0	0
+1.0	dollar	stand at	1.2492	0	NUMBER
+1.0	US	retail	sale datum	LOCATION	0
+1.0	Jean-Claude Trichet	be president of	ecb	PERSON	0
+1.0	market	be wait nervously with	view still divide on chance	0	0
+1.0	price	rise from	612 dollar on Thursday	0	MONEY
+1.0	market	be now wait nervously with	view divide on chance	0	0
+1.0	US currency	be	with dollar remain be trade at high	LOCATION	0
+1.0	US currency	be	with dollar remain above 120 yen be trade at 13-month high against currency	LOCATION	MONEY
+1.0	Jean-Claude Trichet	be	ecb	PERSON	0
+1.0	US currency	be	with dollar remain above 120 yen however be trade	LOCATION	MONEY
+1.0	change	be	likely	0	0
+1.0	euro	rise in	New York	0	LOCATION
+1.0	England	have	surprise interest rate rise	O	ORGANIZATION
+1.0	Bank	fight inflation at_time	February	ORGANIZATION	DATE
+1.0	US currency	be	with dollar remain above 120 yen however be trade at high	LOCATION	MONEY
+1.0	market	be wait with	view still divide	0	0
+1.0	Bank	fight	inflation	ORGANIZATION	0
+1.0	change	be in	wording as signal that european central bank	0	0
+1.0	market	be wait for	interest rate meeting next week	0	DATE
+1.0	market	be wait for	interest rate meeting week	0	DATE
+1.0	US currency	be	with dollar be trade	LOCATION	0
+1.0	market	be now wait nervously with	view still divide on chance	0	0
+1.0	US currency	be	with dollar remain however be trade at high against currency	LOCATION	0
+1.0	price	rise to	613.50 dollar	0	MONEY

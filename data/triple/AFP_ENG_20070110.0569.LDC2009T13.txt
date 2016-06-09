@@ -1,0 +1,47 @@
+1.0	De Carlo 's first film	come at_time	here	ORDINAL	0
+1.0	she	win acclaim for	she portrayal	0	0
+1.0	Yvonne De Carlo	bear	Peggy Yvonne Middleton	PERSON	PERSON
+1.0	Cecil B. De Mille	have	epic	O	PERSON
+1.0	De Carlo 's first film	come in	1941	ORDINAL	DATE
+1.0	Yvonne De Carlo	emerge during	1950s	PERSON	DATE
+1.0	wife	have	portrayal	O	O
+1.0	De Carlo	make	string of low-budget horror movie	PERSON	0
+1.0	Peggy Yvonne Middleton in Vancouver , Canada	be	however know	0	0
+1.0	Peggy Yvonne Middleton in Vancouver , Canada	be	best know	0	0
+1.0	Peggy Yvonne Middleton in Vancouver , Canada	be	know	0	0
+1.0	her	have	portrayal	O	O
+1.0	Peggy Yvonne Middleton	be in	Canada	PERSON	LOCATION
+1.0	De Carlo	make	string	PERSON	0
+1.0	De Carlo	be marry to	stuntman Bob Morgan	PERSON	PERSON
+1.0	CBS	be television network of	US	ORGANIZATION	LOCATION
+1.0	horror movies	have	string	O	O
+1.0	Yvonne De Carlo	star of	hit 1960s television show	PERSON	DATE
+1.0	source	say at_time	Wednesday	0	DATE
+1.0	De Carlo	make	string of horror movie	PERSON	0
+1.0	Cecil B. De Mille	in	1956 biblical epic	PERSON	DATE
+1.0	De Carlo	have	first film	PERSON	ORDINAL
+1.0	hit television show	have	star	O	O
+1.0	Television Fund	have	Retirement Home	O	ORGANIZATION
+1.0	Lily Munster	be in	Munsters	PERSON	PERSON
+1.0	M Moses	have	wife	O	O
+1.0	De Carlo	have	film	O	PERSON
+1.0	she	win acclaim in	Cecil B. De Mille 's 1956 epic	0	DATE
+1.0	Motion Picture	have	Retirement Home	O	ORGANIZATION
+1.0	she	win	acclaim	0	0
+1.0	Motion Picture Retirement Home	be in	Woodland Hills district on outskirts of Los Angeles	ORGANIZATION	LOCATION
+1.0	Yvonne De Carlo	bear	Peggy Yvonne Middleton in Vancouver Canada	PERSON	PERSON
+1.0	Yvonne De Carlo	emerge as	screen star	PERSON	0
+1.0	De Carlo 's film	come at_time	here	PERSON	0
+1.0	she	win acclaim for	she portrayal of m mose ' wife	0	0
+1.0	CBS	be on	US	ORGANIZATION	LOCATION
+1.0	De Carlo 's film	come with	Harvard	PERSON	0
+1.0	Peggy Yvonne Middleton in Vancouver , Canada	be	however best know	0	0
+1.0	De Carlo	be	marry	PERSON	0
+1.0	Los Angeles	have	outskirts	O	LOCATION
+1.0	couple	have	two son	0	NUMBER
+1.0	De Carlo 's film	come in	1941	PERSON	DATE
+1.0	De Carlo 's first film	come with	Harvard	ORDINAL	0
+1.0	she	win acclaim in	Cecil B. De Mille 's 1956 biblical epic	0	DATE
+1.0	De Carlo	be marry to	late stuntman Bob Morgan	PERSON	PERSON
+1.0	her	have	retirement home	O	O
+1.0	movies	have	one	NUMBER	O

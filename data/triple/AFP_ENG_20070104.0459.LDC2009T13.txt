@@ -1,0 +1,26 @@
+1.0	Belarus	have	Republic	LOCATION	LOCATION
+0.3473158478976496	Belarus	tax of	34 euro	LOCATION	MONEY
+1.0	Belarus	announce tax on	russian oil	LOCATION	0
+1.0	gas deliveries	have	price	O	O
+1.0	Russian oil	be	process by country 's custom service	MISC	0
+1.0	Belarus	announce	tax of 45 US dollar	LOCATION	MONEY
+1.0	tonne	per dollar be	34 euro	0	MONEY
+1.0	Belarus	announce	tax of 45 US dollar per tonne	LOCATION	MONEY
+1.0	country	by	custom service	0	0
+1.0	US dollars	have	tax	O	MONEY
+1.0	price	have	doubling	O	O
+1.0	country	have	customs service	O	O
+1.0	Belarus	announce at_time	Thursday	LOCATION	DATE
+1.0	Russian oil	be process by	country 's custom service	MISC	0
+1.0	Belarus	announce tax on	Wednesday	LOCATION	DATE
+1.0	customs union	have	subject	O	O
+1.0	countries	have	decade	DURATION	O
+1.0	country	be in	apparent retaliation	0	0
+1.0	Belarus	announce	tax	LOCATION	0
+0.3473158478976496	Belarus	tax of	45 US dollar	LOCATION	MONEY
+1.0	Republic	have	customs territory	O	LOCATION
+0.5211678792915077	Russian oil	transit	country	MISC	0
+1.0	Belarus	announce tax on	oil	LOCATION	0
+1.0	Russia	have	plank	O	LOCATION
+1.0	Russian oil	be	process	MISC	0
+0.3473158478976496	Belarus	tax of	45 US dollar per tonne	LOCATION	MONEY

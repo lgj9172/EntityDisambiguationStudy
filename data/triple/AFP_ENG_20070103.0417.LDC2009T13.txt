@@ -1,0 +1,171 @@
+1.0	its annual US sale	fall	8.7 percent	LOCATION	PERCENT
+1.0	central bank 's federal market committee	continue at_time	month	0	DATE
+1.0	Nardelli	be with	immediate effect	PERSON	0
+1.0	stock	reverse	course follow earlier gain	0	0
+1.0	bank 's federal market committee	continue at_time	month	0	DATE
+1.0	company	have	vice chairman	O	O
+1.0	world	have	automaker	O	O
+1.0	his	have	compensation	O	O
+1.0	additional policy	be	possible	0	0
+1.0	12,580.35	have	intraday record high	O	NUMBER
+1.0	ISM index	have rise to	51.4 percent	MISC	PERCENT
+1.0	activity	have	ISM index	O	O
+1.0	policy	be	possible	0	0
+1.0	central bank 's federal market committee	continue at_time	last month	0	DATE
+1.0	point	be off	well intraday record high of 12,580.35	0	NUMBER
+1.0	Japan 's Toyota	have	shares	O	ORGANIZATION
+1.0	ISM index	have rise from	weak 49.5 percent	MISC	PERCENT
+1.0	US house-improvement chain home	say	its boss	LOCATION	0
+1.0	central bank 's federal market committee	continue	focus on inflation risk	0	0
+1.0	US house-improvement chain Home Depot	have	chief executive	O	O
+1.0	central bank 's federal market committee	focus on	inflation risk	0	0
+1.0	his	have	pay package	O	O
+1.0	bank 's open market committee	continue	focus	0	0
+1.0	less focus	have	meeting	O	O
+1.0	central bank 's market committee	continue	focus	0	0
+1.0	Supply Management	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	central bank 's federal open market committee	focus on	inflation risk	0	0
+1.0	Home Depot	have	stock	ORGANIZATION	0
+1.0	central bank 's federal market committee	continue	focus	0	0
+1.0	bank 's market committee	continue	focus	0	0
+1.0	ISM index	have rise from	49.5 percent in November	MISC	DATE
+1.0	eight percent drop	be in	2006 US sale	PERCENT	LOCATION
+1.0	point	be off	intraday record high of 12,580.35	0	NUMBER
+1.0	meeting participant	remain	concerned	0	0
+1.0	bank 's federal market committee	continue	focus	0	0
+1.0	the auto front	have	US sales	O	O
+1.0	central bank 's market committee	continue	focus on inflation risk	0	0
+1.0	stock	have roar higher give	give Institute	0	ORGANIZATION
+1.0	FOMC	keep	its fed fund rate peg	ORGANIZATION	0
+1.0	Bob Nardelli	have	leadership	O	O
+1.0	bank 's federal open market committee	continue at_time	month	0	DATE
+1.0	FOMC	keep	its key fed fund rate	ORGANIZATION	0
+1.0	company	be with	210-million	0	0
+1.0	point	be off	intraday record high	0	0
+1.0	meeting participant	remain about	outlook for inflation	0	0
+1.0	the home Depot	be over	the past six year	ORGANIZATION	DURATION
+1.0	bank 's federal open market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	49.5 percent	be in	November	PERCENT	DATE
+1.0	latest minute	reveal despite	fall oil price	DURATION	0
+1.0	5.25 percent	be in	December	PERCENT	DATE
+1.0	its annual US sale	fall	8.7 percent from 2005	LOCATION	DATE
+1.0	central bank	have	federal open market committee	0	0
+1.0	the auto front	have	recovery	O	O
+1.0	broad-market Standard	shed	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	central bank 's open market committee	continue at_time	last month	0	DATE
+1.0	vehicles	have	record US sales	O	O
+1.0	Ford	have at_time	year forget	ORGANIZATION	DURATION
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	central bank 's open market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	minute	reveal despite	oil price	0	0
+1.0	broad-market Standard	shed	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	reading	have	release	O	O
+1.0	US central banker	remain	preoccupy	LOCATION	0
+1.0	central bank 's federal open market committee	continue at_time	last month	0	DATE
+1.0	US banker	preoccupy with	inflation	LOCATION	0
+1.0	central bank 's federal open market committee	continue	focus	0	0
+1.0	home Depot	be	US	ORGANIZATION	LOCATION
+0.434683980509494	its US sale	fall to	just over 4.124 million last year	LOCATION	NUMBER
+1.0	US central banker	preoccupy with	inflation	LOCATION	0
+1.0	stock	reverse	course	0	0
+1.0	bank 's federal open market committee	continue	focus	0	0
+1.0	FOMC	keep	its fed fund rate	ORGANIZATION	0
+1.0	ISM index	have rise to	51.4 percent in December	MISC	PERCENT
+0.434683980509494	its annual US sale	fall to	just over 4.124 million last year	LOCATION	NUMBER
+1.0	statement	continue	convey	0	0
+1.0	Japan 's Toyota	have	us-listed share	ORGANIZATION	0
+1.0	Fed	have	December meeting	O	ORGANIZATION
+1.0	bank 's open market committee	continue at_time	last month	0	DATE
+1.0	Wall Street	have	enthusiasm	0	0
+1.0	US banker	remain	preoccupy	LOCATION	0
+1.0	bank 's market committee	focus on	inflation risk	0	0
+1.0	bank 's federal open market committee	focus on	inflation risk	0	0
+1.0	central bank 's open market committee	continue	focus on inflation risk	0	0
+1.0	stock	have roar give	give Institute	0	ORGANIZATION
+1.0	Wall Street stock gain	recede at_time	Wednesday	0	DATE
+1.0	51.4 percent	be in	December	PERCENT	DATE
+1.0	minute	reveal despite	fall oil price	0	0
+1.0	bank 's market committee	continue at_time	month	0	DATE
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent	ORGANIZATION	PERCENT
+1.0	company	have	vice chairman	0	0
+1.0	FOMC	keep	its key fed fund rate peg	ORGANIZATION	0
+0.434683980509494	its annual US sale	fall to	just over 4.124 million year	LOCATION	NUMBER
+1.0	Home Depot 's stock	close at	41.07 dollar	ORGANIZATION	MONEY
+1.0	stock	have roar higher give	give Institute of Supply Management	0	ORGANIZATION
+1.0	Japan	have	Toyota	ORGANIZATION	LOCATION
+1.0	point	be off	well intraday record high	0	0
+1.0	central bank 's federal open market committee	continue	focus on inflation risk	0	0
+1.0	central bank 's market committee	continue at_time	last month	0	DATE
+1.0	world	as	lead automaker	0	0
+1.0	Home Depot 's stock	close up at	41.07 dollar	ORGANIZATION	MONEY
+1.0	latest minute	reveal despite	oil price	DURATION	0
+1.0	bank 's federal market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	GM share	close down at	29.45 dollar	ORGANIZATION	MONEY
+1.0	bank 's market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	bank 's open market committee	continue	focus on inflation risk	0	0
+1.0	central bank 's federal open market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+0.434683980509494	its US sale	fall to	just over 4.124 million year	LOCATION	NUMBER
+1.0	Frank Blake	have succeed	Nardelli	PERSON	PERSON
+1.0	Fed	from	December 12 meeting	ORGANIZATION	DATE
+1.0	Frank Blake	have succeed	Nardelli with immediate effect	PERSON	PERSON
+1.0	its	have	boss	O	O
+1.0	late	have	struggling	O	O
+1.0	bank 's federal market committee	continue at_time	last month	0	DATE
+1.0	US banker	remain	preoccupy with inflation	LOCATION	0
+1.0	central bank 's open market committee	continue at_time	month	0	DATE
+1.0	concern	have	remained	O	O
+1.0	stock	reverse	course follow strong gain	0	0
+1.0	The FOMC	have	fed funds rate	O	O
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent in December	ORGANIZATION	PERCENT
+1.0	central bank 's federal market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	its	have	US sales	O	O
+1.0	central bank 's market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	meeting participant	remain about	outlook	0	0
+1.0	US central banker	remain	preoccupy with inflation	LOCATION	0
+1.0	Art Hogan	analyst at	Jefferies and Co.	PERSON	ORGANIZATION
+1.0	central bank 's open market committee	focus on	inflation risk	0	0
+1.0	world	to	largest economy	0	0
+1.0	FOMC	keep	its fed fund rate peg at 5.25 percent	ORGANIZATION	PERCENT
+1.0	central bank 's market committee	focus on	inflation risk	0	0
+1.0	Ford Motor Co.	have	stock	O	ORGANIZATION
+1.0	ISM index	have rise from	weak 49.5 percent in November	MISC	DATE
+1.0	ISM index	have rise from	surprisingly weak 49.5 percent	MISC	PERCENT
+1.0	central bank 's market committee	continue at_time	month	0	DATE
+1.0	bank 's open market committee	focus on	inflation risk	0	0
+1.0	stock	reverse	course follow gain	0	0
+1.0	US house-improvement chain home	meanwhile say	its boss	LOCATION	0
+1.0	Japan	have	Toyota	LOCATION	ORGANIZATION
+1.0	central bank 's federal open market committee	continue at_time	month	0	DATE
+1.0	FOMC	keep	its key fed fund rate peg at 5.25 percent in December	ORGANIZATION	PERCENT
+1.0	its recovery	be on	track	0	0
+1.0	its US sale	fall	8.7 percent from 2005	LOCATION	DATE
+1.0	ISM index	have rise from	49.5 percent	MISC	PERCENT
+1.0	bank 's federal open market committee	continue at_time	last month	0	DATE
+1.0	bank 's open market committee	continue at	the Fed 's December 12 meeting said further rate hikes might be needed to keep price pressures in check	0	0
+1.0	stock	reverse course after	minute	0	0
+1.0	bank 's market committee	continue	focus on inflation risk	0	0
+1.0	bank 's federal open market committee	continue	focus on inflation risk	0	0
+1.0	bank	have	market committee	O	O
+1.0	Federal Reserve	have	tone	O	ORGANIZATION
+1.0	central bank	's committee be	fomc	0	0
+1.0	world	have	economy	O	O
+1.0	US chain home	say	its boss	LOCATION	0
+1.0	Wall Street	have	enthusiasm	O	O
+1.0	stock	have roar give	give Institute of Supply Management	0	ORGANIZATION
+1.0	minute	temper	Wall Street 's enthusiasm	0	0
+1.0	US chain home	meanwhile say	its boss	LOCATION	0
+1.0	GM share	close at	29.45 dollar	ORGANIZATION	MONEY
+1.0	Home	have	leadership	O	ORGANIZATION
+1.0	stock	reverse	course follow strong earlier gain	0	0
+1.0	Ford	have at_time	year	ORGANIZATION	DURATION
+1.0	bank 's market committee	continue at_time	last month	0	DATE
+1.0	its US sale	fall	8.7 percent	LOCATION	PERCENT
+1.0	Frank Blake	chairman 's	company	PERSON	0
+1.0	Home Depot	have	stock	O	ORGANIZATION
+1.0	bank 's open market committee	continue at_time	month	0	DATE
+1.0	ISM index	have rise from	surprisingly weak 49.5 percent in November	MISC	DATE
+1.0	Frank Blake	have succeed	Nardelli with effect	PERSON	PERSON
+1.0	central bank 's open market committee	continue	focus	0	0
+1.0	bank 's federal market committee	focus on	inflation risk	0	0
+1.0	bank 's federal market committee	continue	focus on inflation risk	0	0

@@ -1,0 +1,94 @@
+1.0	privileges	have	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	O	O
+1.0	The two leaders	have	candidate	O	O
+1.0	Appeal	have	Court	ORGANIZATION	ORGANIZATION
+1.0	people 's Democratic Party	's party be	PDP	ORGANIZATION	ORGANIZATION
+1.0	appeal court	restrain	President Olusegun Obasanjo	0	PERSON
+1.0	two leader	have	have for month embroil in bitter row	NUMBER	0
+1.0	two leader	have	have for several month embroil in bitter row	NUMBER	DURATION
+1.0	nigerian appeal court Friday	restrain	President Olusegun Obasanjo	DATE	PERSON
+1.0	Atiku Abubakar	approach court at_time	Wednesday	PERSON	DATE
+1.0	leader	have	have for several month embroil in bitter row	0	DURATION
+1.0	Atiku Abubakar	also apply for	interim injunction	PERSON	0
+1.0	two leader	have	have for month embroil	NUMBER	0
+1.0	appeal court Friday	temporarily restrain	President Olusegun Obasanjo	DATE	PERSON
+1.0	leader	have	have embroil in row	0	0
+1.0	vacation	be in	United States	0	LOCATION
+1.0	leader	have	have for month embroil in bitter row	0	0
+1.0	leader	have	have embroil in bitter row	0	0
+1.0	case	have	determination	O	O
+1.0	leader	have	have embroil	0	0
+1.0	Atiku Abubakar	defect to	opposition Action Congress	0	ORGANIZATION
+1.0	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	deprive	he of he rights	PERSON	0
+0.8077975021131599	Atiku Abubakar	now on	vacation	PERSON	0
+1.0	Atiku Abubakar	vacate	he office	0	ORGANIZATION
+1.0	Atiku Abubakar	challenge claim by	presidency	PERSON	0
+1.0	Atiku Abubakar	apply for	interim injunction	PERSON	0
+1.0	Atiku Abubakar	have	office	O	O
+1.0	leader	publically trade	allegation	0	0
+1.0	two leader	have	have embroil in row	NUMBER	0
+1.0	terms	have	end	O	O
+1.0	appeal court Friday	restrain	President Olusegun Obasanjo	DATE	PERSON
+1.0	Umaru Abdullahi	be president of	Court of Appeal	PERSON	ORGANIZATION
+1.0	Atiku Abubakar	apply for	injunction	PERSON	0
+1.0	Atiku Abubakar	approach court in	Abuja	PERSON	LOCATION
+1.0	Atiku Abubakar	approach	Court	PERSON	ORGANIZATION
+1.0	Court	say in	unanimous ruling of five judge	ORGANIZATION	NUMBER
+1.0	corruption	have	allegations	O	O
+1.0	two leader	trade	allegation	NUMBER	0
+0.6618364627457914	President Olusegun Obasanjo	sack	he deputy latter defect	PERSON	0
+1.0	Atiku Abubakar	quit	ruling pdp	PERSON	0
+1.0	case	have	have refer to Surpreme Court	0	ORGANIZATION
+1.0	two leader	have	have for month embroil in row	NUMBER	0
+1.0	deputy	have	ambition	O	O
+1.0	leader	have	have for several month embroil	0	DURATION
+1.0	immunity	have	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	O	O
+1.0	leader	have	have for month embroil	0	0
+1.0	Atiku Abubakar	defect from	PDP	0	ORGANIZATION
+1.0	Court	say here in	unanimous ruling	ORGANIZATION	0
+1.0	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	have	deputy	O	O
+1.0	appeal court	temporarily restrain	President Olusegun Obasanjo	0	PERSON
+1.0	Atiku Abubakar	defect to	ac	0	0
+1.0	nigerian appeal court	temporarily restrain	President Olusegun Obasanjo	0	PERSON
+1.0	his	have	deputy	O	O
+1.0	Court	say here in	unanimous ruling of five judge	ORGANIZATION	NUMBER
+1.0	leader	have	have for several month embroil in row	0	DURATION
+1.0	Atiku Abubakar	challenge	claim	PERSON	0
+1.0	Atiku Abubakar	willingly vacate	he office	0	ORGANIZATION
+1.0	two leader	have	have for several month embroil	NUMBER	DURATION
+1.0	leader	publically trade	allegation of corruption	0	0
+1.0	two leader	have	have for several month embroil in row	NUMBER	DURATION
+1.0	Court	say in	unanimous ruling	ORGANIZATION	0
+1.0	two leader	publically trade	allegation	NUMBER	0
+1.0	Appeal president Umaru Abdullahi	have	Court	ORGANIZATION	PERSON
+1.0	Court	say in	ruling of five judge	ORGANIZATION	NUMBER
+1.0	ruling People	have	Democratic Party	ORGANIZATION	ORGANIZATION
+1.0	Court	say here in	ruling of five judge	ORGANIZATION	NUMBER
+1.0	two leader	have	have embroil in bitter row	NUMBER	0
+1.0	rights	have	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	O	O
+0.7010270392886618	latter	defect to	opposition party	0	0
+1.0	Atiku Abubakar	approach court at_time	last Wednesday	PERSON	DATE
+1.0	Atiku Abubakar	defect from	ruling people 's Democratic Party	0	ORGANIZATION
+1.0	two leader	publically trade	allegation of corruption	NUMBER	0
+0.6618364627457914	President Olusegun Obasanjo	sack	he deputy	PERSON	0
+1.0	injunction	have	order	O	O
+1.0	Atiku Abubakar	also apply for	injunction	PERSON	0
+1.0	nigerian appeal court Friday	temporarily restrain	President Olusegun Obasanjo	DATE	PERSON
+1.0	Umaru Abdullahi	be of	Court of Appeal	PERSON	ORGANIZATION
+1.0	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	have	rights	O	O
+1.0	Court	say in	ruling	ORGANIZATION	0
+1.0	two leader	have	have embroil	NUMBER	0
+1.0	leader	trade	allegation	0	0
+0.8077975021131599	Atiku Abubakar	now on	vacation in United States	PERSON	LOCATION
+1.0	nigerian appeal court	restrain	President Olusegun Obasanjo	0	PERSON
+1.0	Court	say here in	ruling	ORGANIZATION	0
+1.0	leader	trade	allegation of corruption	0	0
+1.0	Atiku Abubakar	therefore quit	ruling pdp	PERSON	0
+1.0	he	deputy	Atiku Abubakar	0	PERSON
+1.0	leader	have	have for month embroil in row	0	0
+1.0	judges	have	ruling	O	O
+1.0	President Olusegun Obasanjo from sacking his deputy , Atiku Abubakar , after the latter defected to an opposition party	deprive	he	PERSON	0
+1.0	Atiku Abubakar	now on	vacation in United States	PERSON	LOCATION
+0.6618364627457914	President Olusegun Obasanjo	sack	he deputy latter defect to opposition party	PERSON	0
+1.0	case	have	have refer	0	0
+1.0	Court of Appeal	be of	Umaru Abdullahi	ORGANIZATION	PERSON
+1.0	two leader	trade	allegation of corruption	NUMBER	0

@@ -1,0 +1,31 @@
+1.0	Art Shell	last	one season	ORGANIZATION	NUMBER
+1.0	Art Shell	be	fire	ORGANIZATION	0
+1.0	April	in	draft	DATE	0
+1.0	Shell	negotiate settlement on	year of he contract	ORGANIZATION	DURATION
+1.0	Shell	guide raiders to	league-worst 2-14 record	ORGANIZATION	NUMBER
+1.0	Shell	negotiate settlement on	final year	ORGANIZATION	DURATION
+1.0	Shell	replace	Norv Turner	ORGANIZATION	PERSON
+1.0	franchise	have	record	O	O
+1.0	Shell	negotiate	Raiders	ORGANIZATION	0
+1.0	Shell	guide raiders to	2-14 record	ORGANIZATION	NUMBER
+1.0	April	have	draft	O	DATE
+1.0	Shell	guide	Raiders	ORGANIZATION	ORGANIZATION
+1.0	he	fire	Shell follow 1994 season	0	DATE
+1.0	his	be fire at_time	Thursday	0	DATE
+1.0	Shell	negotiate settlement on	final year of he contract	ORGANIZATION	DURATION
+1.0	top pick	be in	April 's draft	0	DATE
+1.0	Shell	negotiate	settlement	ORGANIZATION	0
+1.0	Shell	be	believe	ORGANIZATION	0
+1.0	his	be	fire	0	0
+1.0	Raiders	have	maverick owner	O	ORGANIZATION
+1.0	Shell	believe	Raiders	ORGANIZATION	0
+1.0	contract	have	year	DURATION	O
+1.0	Art Shell	be fire by	club	ORGANIZATION	0
+1.0	his	have	contract	O	O
+1.0	his	be fire as	coach	0	0
+1.0	his	have	return	O	O
+1.0	Shell	negotiate settlement on	year	ORGANIZATION	DURATION
+1.0	he	fire	Art Shell	0	ORGANIZATION
+1.0	Art Shell	last	just one season	ORGANIZATION	NUMBER
+1.0	his	be	fire as coach Thursday	0	DATE
+1.0	Fame lineman	have	Pro Football Hall	ORGANIZATION	O

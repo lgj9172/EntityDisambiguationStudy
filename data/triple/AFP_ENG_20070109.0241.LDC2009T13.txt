@@ -1,0 +1,95 @@
+1.0	statement	express concern over	recent israeli military incursion	0	0
+1.0	statement	express concern over	recent incursion	0	0
+1.0	statement	express concern over	recent israeli incursion in occupied territory	0	0
+1.0	statement	express concern over	israeli military incursion in occupied palestinian territory	0	0
+1.0	israeli Prime Minister Ehud Olmert	hold	Egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	way	bring	peace	0	0
+1.0	statement	express concern over	israeli incursion in territory	0	0
+1.0	statement	express concern over	recent israeli incursion	0	0
+1.0	Indonesia	be among	five new non-permanent member	LOCATION	NUMBER
+1.0	statement	express concern over	military incursion in palestinian territory	0	0
+1.0	council	have	members	O	O
+1.0	statement	express concern over	israeli military incursion in occupied territory	0	0
+1.0	viable way	bring	peace	0	0
+1.0	only viable way	bring	peace	0	0
+1.0	Indonesia	be on	Tuesday	LOCATION	DATE
+1.0	statement	express	concern	0	0
+1.0	israeli Prime Minister Ehud Olmert	try	Egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	israeli incursion	be in	West Bank political capital of Ramallah	0	LOCATION
+1.0	statement	express concern over	recent incursion in occupied palestinian territory	0	0
+1.0	statement	express concern over	recent military incursion in territory	0	0
+1.0	Prime Minister Ehud Olmert	try	Egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	statement	express concern over	recent military incursion in occupied palestinian territory	0	0
+1.0	Dumisani Kumalo	be ambassador of	the UN Security	PERSON	ORGANIZATION
+1.0	recent israeli military incursion	be in	occupied palestinian territory	0	0
+1.0	viable way	bring peace to	people Middle East	0	LOCATION
+1.0	only way	bring	peace	0	0
+1.0	statement	express concern over	military incursion in occupied palestinian territory	0	0
+1.0	Prime Minister Ehud Olmert	hold	talk	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	hold talk at_time	week	PERSON	DATE
+1.0	negotiation	be	way	0	0
+1.0	South Africa	have	UN Ambassador	O	LOCATION
+1.0	israeli Prime Minister Ehud Olmert	hold talk at_time	last week	PERSON	DATE
+1.0	statement	express	great concern	0	0
+1.0	statement	express concern over	recent incursion in palestinian territory	0	0
+1.0	Vitaly Churkin	be	russian	PERSON	0
+1.0	only viable way	bring peace to	people	0	0
+1.0	Indonesia	be among	five new member	LOCATION	NUMBER
+1.0	statement	express concern over	recent military incursion	0	0
+1.0	statement	express concern over	israeli incursion in occupied territory	0	0
+1.0	statement	express concern over	military incursion	0	0
+1.0	statement	express concern over	recent israeli military incursion in palestinian territory	0	0
+1.0	statement	express concern over	israeli incursion in occupied palestinian territory	0	0
+1.0	only way	bring peace to	people Middle East	0	LOCATION
+1.0	negotiation	be	only way	0	0
+1.0	statement	express concern over	recent israeli incursion in territory	0	0
+0.8889567457102894	US	act	Ambassador Alejandro Wolff	LOCATION	PERSON
+1.0	situation	have	snapshot	O	O
+1.0	statement	express concern over	recent israeli incursion in palestinian territory	0	0
+1.0	Prime Minister Ehud Olmert	hold	Egyptian President Hosni Mubarak	PERSON	PERSON
+1.0	israeli Prime Minister Ehud Olmert	hold	talk	PERSON	0
+1.0	Indonesia	be among	five member	LOCATION	NUMBER
+0.5552399227343617	negotiation	bring peace to	people	0	0
+1.0	negotiation	be	only viable way	0	0
+1.0	accord	have	spirit	O	O
+1.0	statement	express concern over	israeli military incursion	0	0
+1.0	Prime Minister Ehud Olmert	hold talk at_time	last week	PERSON	DATE
+1.0	statement	express concern over	israeli military incursion in territory	0	0
+1.0	statement	express concern over	incursion	0	0
+1.0	statement	express concern over	recent israeli military incursion in occupied territory	0	0
+1.0	statement	express concern over	recent incursion in occupied territory	0	0
+1.0	way	bring peace to	people Middle East	0	LOCATION
+1.0	statement	express concern over	incursion in occupied palestinian territory	0	0
+1.0	statement	express concern over	recent israeli military incursion in territory	0	0
+1.0	statement	express concern over	recent military incursion in palestinian territory	0	0
+1.0	statement	express concern over	military incursion in occupied territory	0	0
+1.0	statement	express concern over	recent incursion in territory	0	0
+1.0	only viable way	bring peace to	people Middle East	0	LOCATION
+1.0	statement	express concern over	military incursion in territory	0	0
+1.0	Prime Minister Ehud Olmert	hold talk at_time	week	PERSON	DATE
+1.0	statement	express concern over	israeli incursion in palestinian territory	0	0
+1.0	statement	express concern over	recent military incursion in occupied territory	0	0
+1.0	South Africa	have	UN Ambassador	LOCATION	ORGANIZATION
+1.0	statement	express concern over	recent israeli military incursion in occupied palestinian territory	0	0
+1.0	Hosni Mubarak	be	Egyptian	PERSON	LOCATION
+0.5552399227343617	negotiation	bring	peace	0	0
+1.0	Beit Hanun	have	Gaza town	O	LOCATION
+1.0	negotiation	be	viable way	0	0
+1.0	way	bring peace to	people	0	0
+1.0	Indonesia	be among	five non-permanent member	LOCATION	NUMBER
+1.0	statement	express concern over	israeli military incursion in palestinian territory	0	0
+1.0	statement	express concern over	recent israeli incursion in occupied palestinian territory	0	0
+1.0	they meeting	be	overshadow	0	0
+1.0	Israeli Prime Minister Ehud Olmert and Egyptian President Hosni Mubarak	have	meeting	O	O
+1.0	statement	express concern over	incursion in occupied territory	0	0
+1.0	statement	express concern over	israeli incursion	0	0
+1.0	Ehud Olmert	be	israeli	PERSON	0
+1.0	israeli Prime Minister Ehud Olmert	hold talk in	Egypt	PERSON	LOCATION
+1.0	Dumisani Kumalo	say	South Africa 's UN Ambassador	PERSON	ORGANIZATION
+1.0	Prime Minister Ehud Olmert	hold talk in	Egypt	PERSON	LOCATION
+1.0	viable way	bring peace to	people	0	0
+1.0	only way	bring peace to	people	0	0
+1.0	statement	express concern over	incursion in territory	0	0
+1.0	statement	express concern over	incursion in palestinian territory	0	0
+0.5552399227343617	negotiation	bring peace to	people throughout Middle East	0	LOCATION
+1.0	Ramallah	have	West Bank capital	O	LOCATION

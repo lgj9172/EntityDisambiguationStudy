@@ -1,0 +1,93 @@
+1.0	that	climb from	4.724 percent	0	PERCENT
+1.0	surge	spur	Fed	0	ORGANIZATION
+1.0	strong surge	spur	Fed	0	ORGANIZATION
+1.0	Motorola	have	shares	O	ORGANIZATION
+1.0	yield	rise at_time	Thursday	0	DATE
+1.0	Motorola	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Fed	consider	rate	ORGANIZATION	0
+1.0	profit warning	contribute on	Wall Street	0	0
+1.0	sales	have	mix	O	O
+1.0	job growth	be	definitely solid	0	0
+1.0	quarter	have	start	DATE	DATE
+1.0	Fed 's key fed fund rate	be currently set at	5.25 percent	ORGANIZATION	PERCENT
+1.0	the day	have	trading	DATE	0
+1.0	hourly earnings	rise eight 17.04 dollar compare with	December 2005	SET	DATE
+1.0	strong surge	be in	inflation	0	0
+0.39304889992967795	hourly earnings	rise compare with	December 2005	SET	DATE
+1.0	US central bank	have already voice	its concern	LOCATION	0
+1.0	government job report	have	wake	O	O
+1.0	profit warning	contribute on	corporate front	0	0
+1.0	Fed	have	fed funds rate	O	ORGANIZATION
+1.0	profit warning	also contribute on	corporate front	0	0
+1.0	automaker stock	be mix on	eve of opening of Detroit auto show	0	LOCATION
+1.0	automaker stock	be mix on	eve	0	0
+1.0	policymaker	debate	rate	0	0
+1.0	Nokia	shed	1.08 dollar	ORGANIZATION	MONEY
+1.0	US stock	close at_time	Friday	LOCATION	DATE
+1.0	profit warning	also contribute to	mood	0	0
+1.0	profit warning	contribute to	downbeat mood	0	0
+1.0	US bank	have already voice	its concern	LOCATION	0
+1.0	Dow Jones Industrial Average	close down at	12,398.01	MISC	NUMBER
+1.0	US central bank	have voice	its concern	LOCATION	0
+1.0	company	have	forecast	O	O
+1.0	Fed rate	have	odds	O	O
+1.0	Fed 's fed fund rate	be currently set at	5.25 percent	ORGANIZATION	PERCENT
+1.0	Fed 's fed fund rate	be set at	5.25 percent	ORGANIZATION	PERCENT
+1.0	that	climb to	4.743 percent	0	PERCENT
+1.0	Fed 's key fed fund rate	be	currently set	ORGANIZATION	DATE
+1.0	Fed 's key fed fund rate	be	set	ORGANIZATION	0
+1.0	Dow Jones Industrial Average	close at	12,398.01	MISC	NUMBER
+1.0	average hourly earnings	rise eight 17.04 dollar compare with	December 2005	SET	DATE
+1.0	percent	have	rise	O	PERCENT
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	cents	have	range	O	MONEY
+1.0	automaker stock	be	mix	0	0
+0.39304889992967795	earnings	rise compare with	December 2005	0	DATE
+1.0	Ford	finish down at	7.62 dollar	ORGANIZATION	MONEY
+1.0	Fed	have	key fed fund rate	ORGANIZATION	0
+1.0	its	have	concern	O	O
+1.0	Motorola	say at_time	late Thursday	ORGANIZATION	DATE
+1.0	US stock	close	lower	LOCATION	0
+1.0	job growth	be	solid	0	0
+1.0	day	have	trading	O	DATE
+1.0	spike	be in	wages last month	0	DATE
+1.0	Nasdaq composite	finish lower at	2,434.25	MISC	NUMBER
+0.8626256814411832	Fed	surge in	inflation	ORGANIZATION	0
+1.0	share	be in	range of 13 16 cent per share	0	DATE
+1.0	Ford	finish at	7.62 dollar	ORGANIZATION	MONEY
+1.0	policymaker	debate rate on	January 31	0	DATE
+1.0	shortfall	be in	sale	0	0
+1.0	broad-market Standard	shed	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	Detroit auto show	have	opening	O	O
+1.0	11.8 billion 12.1 billion	have	range	O	NUMBER
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	Fed 's key fed fund rate	be set at	5.25 percent	ORGANIZATION	PERCENT
+1.0	Fed 's fed fund rate	be	currently set	ORGANIZATION	DATE
+1.0	Nasdaq composite	finish at	2,434.25	MISC	NUMBER
+1.0	Motorola	have	share	ORGANIZATION	0
+1.0	automaker stock	be mix on	eve of opening	0	0
+1.0	yield	rise to	4.646 percent	0	PERCENT
+1.0	broad-market Standard	shed	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	company	below	internal forecast at start of fourth quarter	0	DATE
+1.0	interest rate	have	likelihood	O	O
+1.0	earnings	rise eight 17.04 dollar compare with	December 2005	0	DATE
+1.0	Motorola 's share	close at	18.94 dollar	ORGANIZATION	MONEY
+1.0	profit warning	contribute to	mood	0	0
+0.8626256814411832	Fed	strong surge in	inflation	ORGANIZATION	0
+1.0	profit warning	also contribute on	front	0	0
+1.0	yield	rise from	4.618 percent	0	PERCENT
+0.39304889992967795	average hourly earnings	rise compare with	December 2005	SET	DATE
+1.0	profit warning	also contribute on	Wall Street	0	0
+1.0	likelihood	dwindle in	wake	0	0
+1.0	average earnings	rise eight 17.04 dollar compare with	December 2005	0	DATE
+1.0	its	have	sales forecast	O	O
+1.0	profit warning	also contribute to	downbeat mood	0	0
+1.0	Motorola 's share	close down at	18.94 dollar	ORGANIZATION	MONEY
+1.0	US bank	have voice	its concern	LOCATION	0
+1.0	Fed	consider	hike rate	ORGANIZATION	0
+0.39304889992967795	average earnings	rise compare with	December 2005	0	DATE
+1.0	healthy 167,000 new job	be in	December	NUMBER	DATE
+1.0	Fed 's fed fund rate	be	set	ORGANIZATION	0
+1.0	opening	have	eve	O	O
+1.0	likelihood	dwindle rapidly in	wake	0	0
+1.0	profit warning	contribute on	front	0	0

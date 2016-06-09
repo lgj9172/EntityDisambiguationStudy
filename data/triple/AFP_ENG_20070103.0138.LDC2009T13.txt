@@ -1,0 +1,84 @@
+1.0	left-arm spinner Paul Harris	have	Tendulkar catch	PERSON	PERSON
+0.3785555549486713	four sweetly-timed fours side	reach he half-century in	match	NUMBER	0
+1.0	Harris	have	hold	O	PERSON
+1.0	his	have	boundary	O	O
+1.0	he	resume on	28	0	NUMBER
+0.06221292408889589	Tendulkar caught at slip for 64	add for	wicket	PERSON	0
+1.0	Makhaya Ntini	have	hitting	O	PERSON
+1.0	leg stump	have	out spin	O	O
+0.3785555549486713	four sweetly-timed fours side	reach he half-century in	successive match	NUMBER	0
+0.3785555549486713	four fours side	reach he second half-century in	match	NUMBER	0
+1.0	Dale Steyn	bowl	VVS Laxman for 13	PERSON	NUMBER
+1.0	India	press on	day of test	LOCATION	DATE
+1.0	Virender Sehwag	come in	in bat	PERSON	0
+1.0	their	have	innings	O	O
+1.0	Tendulkar	start with	series lock	PERSON	0
+1.0	ball	have	use	O	O
+1.0	Tendulkar caught at slip for 64	add	68	PERSON	NUMBER
+1.0	game	have	India	LOCATION	O
+1.0	his	have	bat	O	O
+1.0	South Africa	be at	Tuesday	LOCATION	DATE
+1.0	he	resume out on	28	0	NUMBER
+0.3785555549486713	four fours side	reach he half-century in	successive match	NUMBER	0
+1.0	day	have	boundary	O	DATE
+1.0	morning	have	came	O	TIME
+1.0	India	press on	second day of third test	LOCATION	DATE
+1.0	left-arm spinner Paul Harris	have	Tendulkar	PERSON	PERSON
+1.0	India	press in	in they first inning	LOCATION	ORDINAL
+0.06221292408889589	Tendulkar caught at slip for 64	add	Ganguly	PERSON	PERSON
+1.0	he	require	treatment	0	0
+1.0	India	press against	South Africa	LOCATION	LOCATION
+0.3785555549486713	four fours side	reach	he half-century	NUMBER	0
+1.0	Tendulkar	start in	watchful mode	PERSON	0
+0.06221292408889589	Tendulkar caught at slip for 64	add for	fifth wicket	PERSON	ORDINAL
+1.0	spinner Paul Harris	have	Tendulkar catch at slip for 64	PERSON	NUMBER
+1.0	Sachin Tendulkar	make	solid half-century	PERSON	0
+1.0	Sachin Tendulkar	make	half-century	PERSON	0
+1.0	Tendulkar caught at slip for 64	be	dismiss	PERSON	0
+1.0	India	press on	second day of test	LOCATION	DATE
+1.0	India	seek to	bat South Africa	LOCATION	LOCATION
+1.0	it	hit	he boundary	0	0
+1.0	Tendulkar	start with	series	PERSON	0
+1.0	India	seek out to	bat South Africa	LOCATION	LOCATION
+1.0	Tendulkar caught at slip for 64	strike	four fours	0	NUMBER
+1.0	South Africa	be	able	LOCATION	0
+1.0	he	be	beat	0	0
+1.0	he	require treatment on	field	0	0
+1.0	left-arm spinner Paul Harris	have	Tendulkar catch at slip for 64	PERSON	NUMBER
+1.0	spinner Paul Harris	have	Tendulkar	PERSON	PERSON
+1.0	India	press on	day	LOCATION	DATE
+0.3785555549486713	four fours side	reach he second half-century in	successive match	NUMBER	0
+1.0	Virender Sehwag	go for	he shot	PERSON	0
+1.0	Tendulkar caught at slip for 64	strike	four sweetly-timed fours	0	NUMBER
+1.0	his	have	shots	O	O
+1.0	left-arm spinner Paul Harris	have	Tendulkar catch at slip	PERSON	PERSON
+1.0	Ganguly	duck into	Steyn bouncer	PERSON	PERSON
+1.0	Virender Sehwag	immediately go for	he shot	PERSON	0
+1.0	Virender Sehwag	come at	number seven	PERSON	NUMBER
+1.0	Test	have	day	DATE	O
+1.0	India	press on	day of third test	LOCATION	DATE
+1.0	it	hit	he first boundary of day	0	ORDINAL
+0.3785555549486713	four sweetly-timed fours side	reach he second half-century in	successive match	NUMBER	0
+0.8202394894275041	Tendulkar	catch at	slip	PERSON	0
+0.3785555549486713	four fours side	reach	he second half-century	NUMBER	ORDINAL
+1.0	Tendulkar caught at slip for 64	add	Ganguly	PERSON	PERSON
+1.0	it	hit	he first boundary	0	ORDINAL
+1.0	Dale Steyn	bowl	VVS Laxman	PERSON	0
+1.0	Sachin Tendulkar	fall before	lunch	PERSON	0
+1.0	Tendulkar	start with	series lock at 1-1	PERSON	NUMBER
+1.0	South Africa	be	only able	LOCATION	0
+1.0	India	press on	second day	LOCATION	DATE
+1.0	India	press in	in they inning	LOCATION	DATE
+1.0	Sachin Tendulkar	fall shortly before	lunch	PERSON	0
+1.0	spinner Paul Harris	have	Tendulkar catch at slip	PERSON	PERSON
+0.3785555549486713	four sweetly-timed fours side	reach	he half-century	NUMBER	0
+1.0	India	press against	South Africa at Newlands Tuesday	LOCATION	DATE
+0.3785555549486713	four sweetly-timed fours side	reach	he second half-century	NUMBER	ORDINAL
+1.0	it	hit	he boundary of day	0	DATE
+1.0	spinner Paul Harris	have	Tendulkar catch	PERSON	PERSON
+0.3785555549486713	four sweetly-timed fours side	reach he second half-century in	match	NUMBER	0
+1.0	Tendulkar	start in	mode	PERSON	0
+0.3785555549486713	four fours side	reach he half-century in	match	NUMBER	0
+0.8202394894275041	Tendulkar	catch at	slip for 64	PERSON	NUMBER
+1.0	Tendulkar caught at slip for 64	edge	it	PERSON	0
+1.0	his	have	half-century	O	O

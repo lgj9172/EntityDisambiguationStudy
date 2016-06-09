@@ -1,0 +1,55 @@
+1.0	former european	retire	World Footballer	0	MISC
+1.0	Serie A	have	winter break	O	O
+1.0	Luis Figo	play with	Sporting Lisbon	PERSON	ORGANIZATION
+1.0	Inter	will face	Bahrain national team come	ORGANIZATION	LOCATION
+1.0	Year	have	World Footballer	MISC	DATE
+1.0	Inter	will face	Bahrain team come Saturday	ORGANIZATION	DATE
+1.0	France	be in	World Cup	LOCATION	MISC
+1.0	whose	have	contract	O	O
+1.0	Bahrain national team	come at_time	Saturday	LOCATION	DATE
+1.0	player	have	departure	O	O
+1.0	Al Ittihad 's website	arrive on	January 5	PERSON	DATE
+1.0	Bahrain team	come at_time	Saturday	LOCATION	DATE
+1.0	Inter	will face	Bahrain team come	ORGANIZATION	LOCATION
+1.0	Luis Figo	be	Inter player	PERSON	ORGANIZATION
+0.9861015636988545	Inter Milan coach Roberto Mancini	speak on	short visit	PERSON	0
+1.0	Portugal	lose to	France in World Cup	LOCATION	MISC
+1.0	deal	have	lure	O	O
+1.0	Inter Milan coach Roberto Mancini	say by	Inter 's website	PERSON	ORGANIZATION
+0.9861015636988545	Inter Milan coach Roberto Mancini	speak on	where visit	PERSON	0
+1.0	former european	retire	World Footballer of year	0	MISC
+1.0	Luis Figo	previously play with	1989-1995	PERSON	DURATION
+1.0	report	be	true	0	0
+1.0	Roberto Mancini	be coach of	Inter Milan	PERSON	ORGANIZATION
+1.0	Inter	will face	Bahrain national team come Saturday	ORGANIZATION	DATE
+1.0	Bahrain team	fly back to	Italy	LOCATION	LOCATION
+1.0	Luis Figo	play with	1989-1995	PERSON	DURATION
+1.0	Al Ittihad	have	website	O	PERSON
+1.0	player	of	imminent departure	0	0
+1.0	Inter Milan coach Roberto Mancini	be	quote	PERSON	0
+1.0	Al Ittihad 's official website	arrive on	January 5	PERSON	DATE
+1.0	press conference	be in	Bahrain	0	LOCATION
+1.0	Inter Milan coach Roberto Mancini	say by	Inter 's official website	PERSON	ORGANIZATION
+1.0	a one-year contract	be with	Inter	0	ORGANIZATION
+0.9830697439928073	team	be on	short visit	0	0
+1.0	Bahrain team	fly to	Italy	LOCATION	LOCATION
+1.0	Al Ittihad	have	official website	PERSON	0
+1.0	Luis Figo	previously play with	Sporting Lisbon	PERSON	ORGANIZATION
+1.0	Luis Figo	join	Inter	PERSON	ORGANIZATION
+1.0	team	be	short	0	0
+1.0	Inter	by	official website	ORGANIZATION	0
+1.0	final	be in	July	0	DATE
+1.0	Roberto Mancini	be	Inter Milan	PERSON	ORGANIZATION
+0.9830697439928073	team	be on	where short visit	0	0
+0.9861015636988545	Inter Milan coach Roberto Mancini	speak on	where short visit	PERSON	0
+0.9830697439928073	team	be on	visit	0	0
+1.0	Bahrain national team	fly to	Italy	LOCATION	LOCATION
+1.0	season	have	end	O	O
+1.0	Bahrain national team	fly back to	Italy	LOCATION	LOCATION
+1.0	Portugal	lose to	France	LOCATION	LOCATION
+1.0	Serie A	resume after	its winter break	0	DATE
+1.0	departure	have	reports	O	O
+1.0	Inter	have	website	O	ORGANIZATION
+0.9861015636988545	Inter Milan coach Roberto Mancini	speak on	visit	PERSON	0
+1.0	Luis Figo	will stay at	Inter	0	ORGANIZATION
+0.9830697439928073	team	be on	where visit	0	0

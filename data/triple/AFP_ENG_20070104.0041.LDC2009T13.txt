@@ -1,0 +1,29 @@
+1.0	next week	be in	country 's southeast	DATE	0
+1.0	media report	say at_time	Thursday	0	DATE
+1.0	Division	say	fog	ORGANIZATION	0
+1.0	capital Kathmandu	have	east	O	LOCATION
+1.0	summer temperature	cross	40 degree	DATE	NUMBER
+1.0	temperature	hit	low Celsius	0	MISC
+1.0	country	in	southeast	0	0
+0.4009579909513197	Celsius	temperature in	terrai region	MISC	0
+1.0	temperature	be in	terrai region	0	0
+1.0	death	come as	cold air hit village	0	0
+1.0	death	come as	air hit village	0	0
+1.0	school	shut	business	0	0
+1.0	village	be in	region	0	0
+1.0	village	have	have also shroud	0	0
+1.0	temperature	hit	low of eight degree Celsius	0	NUMBER
+1.0	temperature	hit	Celsius	0	MISC
+1.0	village	have	have shroud	0	0
+1.0	Nepal	have	lowlands	O	LOCATION
+1.0	degrees	have	low	O	O
+1.0	country	have	southeast	O	O
+1.0	newspaper	report	note	0	0
+1.0	adequate fuel	be in	region	0	0
+1.0	death	come as	air hit poor village	0	0
+0.4009579909513197	low Celsius	temperature in	terrai region	MISC	0
+1.0	death	come as	cold air hit poor village	0	0
+1.0	Division	say	thick fog	ORGANIZATION	0
+1.0	Nepal	have	Meteorological forecasting Division	LOCATION	ORGANIZATION
+1.0	summer temperature	cross	a low of eight degrees Celsius -LRB- 46 degrees Fahrenheit -RRB-	DATE	MISC
+1.0	Nepal	have	Meteorological Forecasting	ORGANIZATION	LOCATION

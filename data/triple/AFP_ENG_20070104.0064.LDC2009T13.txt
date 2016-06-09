@@ -1,0 +1,75 @@
+1.0	plan	would consider	possible taiwanese declaration	0	0
+1.0	Japan	plan	response in event of armed conflict	LOCATION	0
+1.0	Japan	plan	United States	LOCATION	LOCATION
+1.0	Japan	plan	coordinate response in event	LOCATION	0
+1.0	Japan	plan	coordinate response in event of conflict	LOCATION	0
+1.0	independence	have	declaration	O	O
+0.6578562348561748	Japan	response in	event of armed conflict	LOCATION	0
+1.0	Taiwan	be	inseparable part	LOCATION	0
+1.0	Taiwan	be inseparable part of	China	LOCATION	LOCATION
+0.07149773898788192	plan	would consider by	China of force	0	LOCATION
+1.0	confrontation	have	scenarios	O	O
+1.0	China Thursday	express	serious concern over report	LOCATION	0
+1.0	Beijing	still consider	island part of its territory	LOCATION	0
+0.07149773898788192	plan	would consider by	China of military force	0	LOCATION
+0.6578562348561748	Japan	response in	event of conflict over Taiwan	LOCATION	LOCATION
+1.0	China	have	have separate since end	LOCATION	0
+0.6578562348561748	Japan	coordinate response	United States	LOCATION	LOCATION
+1.0	Japan	plan	response in event of armed conflict over Taiwan	LOCATION	LOCATION
+1.0	plan	would consider	possible taiwanese declaration of independence	0	0
+1.0	China	have	have separate since end of war in 1949	LOCATION	DATE
+0.07149773898788192	plan	would consider by	China of military force against island	0	LOCATION
+1.0	plan	would consider	possible declaration	0	0
+0.07149773898788192	plan	would consider by	China of force against island	0	LOCATION
+1.0	coordinate response	be in	event of armed conflict over Taiwan	0	LOCATION
+1.0	Japan	plan	coordinate response	LOCATION	0
+1.0	Liu	be respond to	report	PERSON	0
+1.0	civil war	be in	1949	0	DATE
+1.0	China	have	have separate	LOCATION	0
+1.0	plan	would consider	possible declaration of independence	0	0
+1.0	its	have	territory	O	O
+1.0	Japan	plan	coordinate response in event of conflict over Taiwan	LOCATION	LOCATION
+1.0	China Thursday	express	serious concern	LOCATION	0
+1.0	ministry spokesman Liu Jianchao	tell	briefing	PERSON	0
+1.0	Beijing	consider	island part of its territory	LOCATION	0
+0.6578562348561748	Japan	coordinate response in	event of conflict over Taiwan	LOCATION	LOCATION
+1.0	Japan	plan	coordinate response in event of armed conflict over Taiwan	LOCATION	LOCATION
+1.0	Japan	plan	response	LOCATION	0
+0.07149773898788192	plan	would consider by	China	0	LOCATION
+1.0	China Thursday	express	concern over report	LOCATION	0
+0.6578562348561748	Japan	coordinate response in	event of conflict	LOCATION	0
+0.6578562348561748	Japan	response in	event of conflict	LOCATION	0
+1.0	Japan	plan	response in event of conflict over Taiwan	LOCATION	LOCATION
+1.0	Beijing	consider	island part	LOCATION	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	briefing	PERSON	0
+1.0	foreign ministry spokesman Liu Jianchao	tell	regular briefing	PERSON	0
+1.0	China	have	have separate since end of civil war in 1949	LOCATION	DATE
+0.6578562348561748	Japan	coordinate response in	event of armed conflict over Taiwan	LOCATION	LOCATION
+1.0	China	have	have separate since end of war	LOCATION	0
+1.0	conflict	have	event	O	O
+1.0	Japan	plan	coordinate response in event of armed conflict	LOCATION	0
+1.0	Taiwan	be part of	China	LOCATION	LOCATION
+1.0	Japan	plan	response in event of conflict	LOCATION	0
+1.0	China	have	have separate since end of civil war	LOCATION	0
+1.0	their	have	forces	O	O
+1.0	war	have	end	O	O
+0.6578562348561748	Japan	response in	event of armed conflict over Taiwan	LOCATION	LOCATION
+1.0	Japan	plan	response in event	LOCATION	0
+1.0	China Thursday	express	concern	LOCATION	0
+1.0	Liu	be respond earlier to	report	PERSON	0
+1.0	forces	have	response	O	O
+0.6578562348561748	Japan	response	United States	LOCATION	LOCATION
+1.0	Beijing	still consider	island part	LOCATION	0
+1.0	force	have	China	LOCATION	O
+1.0	Taiwan	be	part	LOCATION	0
+1.0	territory	have	island part	O	O
+0.6578562348561748	Japan	response in	event	LOCATION	0
+1.0	ministry spokesman Liu Jianchao	tell	regular briefing	PERSON	0
+1.0	use	have	declaration	O	O
+1.0	China	have	part	O	LOCATION
+1.0	China	have	power	O	LOCATION
+0.6578562348561748	Japan	coordinate response in	event of armed conflict	LOCATION	0
+1.0	one	have	principle	O	NUMBER
+0.6578562348561748	Japan	coordinate response in	event	LOCATION	0
+1.0	Taiwan	be	inseparable	LOCATION	0
+1.0	China	over	grow military power	LOCATION	0

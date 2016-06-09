@@ -1,0 +1,40 @@
+1.0	president Saddam Hussein	have	execution	O	PERSON
+1.0	verbal exchange	leak	mobile phone footage	0	0
+1.0	Foreign Secretary Margaret Beckett	give	government line	PERSON	0
+1.0	government	conduct	inquiry	0	0
+1.0	Tony Blair	be of	british	PERSON	0
+1.0	John Prescott	be on	Tuesday	PERSON	DATE
+1.0	Foreign Secretary Margaret Beckett	give government line from	London	PERSON	LOCATION
+1.0	iraqi government	say as	they	0	0
+1.0	Prescott	have	comment	PERSON	0
+1.0	verbal exchange	leak	phone footage	0	0
+1.0	Britain	have	opposition	LOCATION	0
+1.0	Deputy Prime Minister John Prescott	describe manner as	deplorable	PERSON	0
+1.0	shia Muslims	be in	Iraq	0	LOCATION
+1.0	Saddam	of	hanging	PERSON	0
+1.0	execution	be	in which conduct	0	0
+1.0	Foreign Secretary Margaret Beckett	give	official government line	PERSON	0
+1.0	former president Saddam Hussein	have	office	O	O
+1.0	exchange	leak	phone footage	0	0
+1.0	Prime Minister Tony Blair	have	backing	O	PERSON
+1.0	holiday	be in	United States	0	LOCATION
+1.0	phone footage	have	leaking	O	O
+1.0	government	have	backing	O	O
+1.0	government	say as	they	0	0
+1.0	hanging	have	manner	O	O
+1.0	Saddam	have	hanging	O	PERSON
+1.0	iraqi government	conduct	inquiry	0	0
+1.0	former president Saddam Hussein	have	crimes	O	O
+1.0	he office	say at_time	Wednesday	0	DATE
+1.0	John Prescott	be in	charge during Blair 's absence	PERSON	PERSON
+1.0	that	be	stronger	0	0
+1.0	exchange	leak	mobile phone footage	0	0
+1.0	former president Saddam Hussein	have	government	O	O
+1.0	Deputy Prime Minister John Prescott -- in charge during Blair 's absence -- on Tuesday	have	view	O	O
+1.0	Britain	have	opposition	O	LOCATION
+1.0	execution	be	conduct	0	0
+1.0	Blair	have	absence	O	PERSON
+1.0	Nuri al-Maliki	be	iraqi	PERSON	0
+1.0	Prescott	have	comments	O	PERSON
+1.0	Blair	during	absence	PERSON	0
+1.0	that	be	considerably stronger	0	0

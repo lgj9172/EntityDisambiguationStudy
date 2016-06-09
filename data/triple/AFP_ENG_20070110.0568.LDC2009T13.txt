@@ -1,0 +1,63 @@
+1.0	Saturday	have	issue	O	DATE
+1.0	british weekly New Scientist	be in	report	SET	0
+1.0	next Saturday	in	issue	DATE	0
+1.0	WikiLeaks in Washington	be	international	ORGANIZATION	0
+1.0	various background	of collaboration be	chinese	0	0
+1.0	journalist Shi Tao	publicise email from	chinese official	PERSON	0
+1.0	whistleblower	email	sensitive document	0	0
+1.0	backgrounds	have	collaboration	O	O
+1.0	journalist Shi Tao	be sentence to	10-year jail term	PERSON	DURATION
+1.0	WikiLeaks	have	website	O	ORGANIZATION
+1.0	anyone	be author	lead to vast intelligence	0	0
+1.0	journalist Shi Tao	publicise	email	PERSON	0
+1.0	anyone	be author	lead to intelligence	0	0
+1.0	10-year jail term	be in	2005	DURATION	DATE
+1.0	chinese journalist Shi Tao	be sentence to	10-year jail term	PERSON	DURATION
+1.0	contribution	will	will post	0	0
+1.0	chinese journalist Shi Tao	publicise email from	official	PERSON	0
+1.0	contribution	will	will post on site	0	0
+1.0	journalist Shi Tao	publicise email from	official about 1989 Tiananmen Square crackdown	PERSON	DATE
+1.0	other	be	will discover	DATE	0
+1.0	Internet service provider	have	address	O	O
+1.0	anyone	be author	lead to collective intelligence	0	0
+1.0	chinese journalist Shi Tao	publicise email from	official about 1989 Tiananmen Square crackdown	PERSON	DATE
+1.0	oppressive regime	be in	Asia	0	LOCATION
+1.0	chinese journalist Shi Tao	publicise email from	chinese official	PERSON	0
+1.0	anyone	be author	lead	0	0
+1.0	mathematician	of collaboration be	chinese	0	0
+1.0	WikiLeaks	be in	Washington	ORGANIZATION	LOCATION
+1.0	journalist Shi Tao	publicise email from	official	PERSON	0
+1.0	servers	have	network	O	O
+1.0	data packets	have	up made	O	O
+1.0	chinese journalist Shi Tao	be sentence to	10-year jail term in 2005	PERSON	DURATION
+1.0	chinese journalist Shi Tao	publicise	email	PERSON	0
+1.0	board	have	cryptographer	O	O
+1.0	whistleblower	email	journalist	0	0
+1.0	Our	have	board	O	O
+1.0	datum packet	carry	address	0	0
+1.0	Shi Tao	be	chinese	PERSON	0
+1.0	mathematicians	have	collaboration	O	O
+1.0	Tor route datum	use by	datum packet	0	0
+1.0	journalist Shi Tao	be sentence to	jail term	PERSON	0
+1.0	its	have	software	O	O
+0.8786989803212047	Chinese	live in	China but expatriate	MISC	LOCATION
+1.0	chinese journalist Shi Tao	publicise email from	chinese official about 1989 Tiananmen Square crackdown	PERSON	DATE
+1.0	chinese journalist Shi Tao	be	sentence	PERSON	0
+1.0	contribution	provide	information	0	0
+1.0	official	identify	An official for WikiLeaks in Washington	0	0
+1.0	report	be in	next Saturday 's issue	0	DATE
+1.0	encryption software	have	help	O	O
+1.0	the group	have	launch	O	O
+1.0	journalist Shi Tao	be sentence to	jail term in 2005	PERSON	DATE
+1.0	journalist Shi Tao	be	sentence	PERSON	0
+1.0	Tor	have	security	O	PERSON
+1.0	chinese dissident	be with	help of powerful encryption software	0	0
+1.0	chinese journalist Shi Tao	be sentence to	jail term in 2005	PERSON	DATE
+1.0	Chinese dissidents	have	interests	O	O
+1.0	Chinese dissidents , with the help of powerful encryption software	have	governments	O	O
+1.0	South Africa	be	Taiwan	LOCATION	LOCATION
+1.0	chinese journalist Shi Tao	be sentence to	jail term	PERSON	0
+1.0	journalist Shi Tao	be sentence to	10-year jail term in 2005	PERSON	DURATION
+1.0	Tor	have	security	PERSON	0
+1.0	anyone	be author	lead to vast collective intelligence	0	0
+1.0	journalist Shi Tao	publicise email from	chinese official about 1989 Tiananmen Square crackdown	PERSON	DATE

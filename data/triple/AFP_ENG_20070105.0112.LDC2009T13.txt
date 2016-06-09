@@ -1,0 +1,39 @@
+1.0	Open	have	start	O	MISC
+1.0	rasheed	be	Hewitt 's coach	0	PERSON
+1.0	it	be	believe	0	0
+1.0	Lleyton Hewitt 's	look accusingly at	rasheed	PERSON	0
+1.0	Roger Rasheed	be on	Friday	PERSON	DATE
+0.4332009986312979	he decision	come before	start of australian Open	0	MISC
+1.0	Lleyton Hewitt	have	coach Roger Rasheed	PERSON	PERSON
+1.0	Australia	with	former world number	LOCATION	0
+1.0	rasheed	be	Hewitt 's coach	DURATION	PERSON
+1.0	Jason Stoltenberg	have	decision	O	O
+1.0	Lleyton Hewitt 's	be see	look	PERSON	0
+1.0	Hewitt	have	coach	O	PERSON
+1.0	Lleyton Hewitt 's	be see	look accusingly at rasheed	PERSON	0
+1.0	he decision	come	little over week	0	DURATION
+1.0	Lleyton Hewitt	have	Roger Rasheed	PERSON	PERSON
+1.0	rasheed	be	Hewitt 's third coach	0	PERSON
+1.0	Lleyton Hewitt 's coach Roger Rasheed on Friday	quit	he role	0	0
+1.0	Jason Stoltenberg	have	statement	O	O
+0.4332009986312979	he decision	come before	start	0	DURATION
+1.0	Lleyton Hewitt 's	be	see	PERSON	0
+1.0	he decision	come	little	0	0
+1.0	Lleyton as a player	have	environment	O	O
+0.4332009986312979	he decision	come before	start of Open	0	MISC
+1.0	Lleyton Hewitt 's	go at	Adelaide Invitational	PERSON	LOCATION
+1.0	Hewitt 's coach	have	decision	O	O
+1.0	Lleyton Hewitt 's	go down at	Adelaide Invitational	PERSON	LOCATION
+1.0	Hewitt	have	third coach	PERSON	ORDINAL
+1.0	Lleyton Hewitt 's	look at	rasheed	PERSON	0
+1.0	Lleyton Hewitt 's coach Roger Rasheed on Friday	say in	he statement	PERSON	0
+1.0	Lleyton Hewitt 's	be see	look accusingly	PERSON	0
+1.0	Lleyton Hewitt 's	be see	look at rasheed	PERSON	0
+1.0	coaching jobs	have	one	NUMBER	O
+1.0	Australia	have	world number	O	LOCATION
+1.0	Roger Rasheed	be coach of	Lleyton Hewitt	PERSON	PERSON
+1.0	Igor Kunitsyn	be to	russian	PERSON	DURATION
+1.0	Hewitt 's third coach	turn	professional	0	0
+1.0	Lleyton Hewitt 's coach Roger Rasheed on Friday	say in	statement	PERSON	0
+1.0	rasheed	be	Hewitt 's coach since 2003	DURATION	PERSON
+1.0	Lleyton Hewitt 's coach Roger Rasheed on Friday	have	role	O	O

@@ -1,0 +1,138 @@
+1.0	their	have	employee	O	O
+1.0	Smith	inherit	national squad in disarray	PERSON	0
+1.0	team	challenge	Celtic 's current dominance of scottish game	0	DATE
+1.0	SFA Chief Executive David Taylor	have	dismay	PERSON	0
+1.0	Paul Le Guen	be	man	PERSON	0
+1.0	club	in	135-year history	0	DURATION
+1.0	contract	have	breach	O	O
+1.0	lowest point	be in	its history	DATE	0
+1.0	consecutive scottish Premier League title	be in	sole charge of Rangers for seven of nine	ORGANIZATION	NUMBER
+1.0	our	have	Euro qualification campaign	O	O
+1.0	tenure	come in	December 2004	0	DATE
+1.0	58-year-old	take	Rangers	DURATION	ORGANIZATION
+1.0	he	strip	Ferguson	0	PERSON
+1.0	former celtic reserve	will serve as	first	0	ORDINAL
+1.0	team	challenge	Celtic 's current dominance of game	0	DATE
+1.0	SFA Chief Executive David Taylor	have	dismay	O	PERSON
+1.0	Guen	be	honourable	PERSON	0
+1.0	we	wish well	Walter Smith	0	0
+1.0	Scotland	have	fortune	LOCATION	0
+1.0	Everton	have	charge	O	LOCATION
+1.0	Le Guen	quit by	consent	PERSON	0
+1.0	regret	have	bit	O	O
+1.0	Rangers	have	charge	O	O
+1.0	disappointment	have	level	O	O
+1.0	three victory	be in	they first four match	NUMBER	ORDINAL
+1.0	they	win during	period	0	0
+1.0	their	have	matches	O	O
+1.0	58-year-old	take rangers within	one victory	DURATION	NUMBER
+1.0	he	strip	Ferguson of captaincy	0	PERSON
+1.0	Walter Smith	do	job	PERSON	0
+1.0	his	have	contract	O	O
+1.0	they	win during	successful period in club 's 135-year history	0	DURATION
+1.0	nine	have	seven	NUMBER	NUMBER
+1.0	successful period	be in	club 's 135-year history	0	DURATION
+1.0	we	thank	Walter Smith	0	0
+1.0	they	win during	successful period in club 's history	0	0
+1.0	he	make	it clear	0	0
+1.0	Smith	inherit	national squad in total disarray	PERSON	0
+1.0	Ally McCoist	be striker of	Rangers	PERSON	ORGANIZATION
+1.0	fa	be to	scottish	0	0
+1.0	they	win during	period in club 's history	0	0
+1.0	club	's history be	Paul Le Guen	0	PERSON
+1.0	national squad	be in	total disarray	0	0
+1.0	they	win during	successful period	0	0
+1.0	Euro	have	top	O	MISC
+1.0	Le Guen	spend at_time	seven month	PERSON	DURATION
+1.0	former reserve	will serve as	first	0	ORDINAL
+1.0	tenure	come to	end	0	DATE
+1.0	SFA Chief Executive David Taylor	take individually	action against Smith	ORGANIZATION	PERSON
+1.0	Smith	inherit	squad in total disarray	PERSON	0
+1.0	team	challenge	Celtic 's dominance of scottish game	0	ORGANIZATION
+1.0	club	in	history	0	0
+1.0	David Murray	be chairman of	Rangers	PERSON	ORGANIZATION
+1.0	SFA	allow	Smith	ORGANIZATION	PERSON
+1.0	Walter	have	departure	O	PERSON
+1.0	his	have	efforts	O	O
+0.8109196383019809	we	have	problem	0	0
+1.0	Rangers	have	manager returns	O	O
+1.0	Paul Le Guen	be	honourable man	PERSON	0
+1.0	manager	lead scotland through	through end of Euro 2008	0	MISC
+1.0	unsuccesful spell	be in	charge of Everton	0	LOCATION
+1.0	Smith	inherit	squad	PERSON	0
+1.0	shortest	have	departure	O	O
+1.0	Hampden	be in	October	LOCATION	DATE
+1.0	David Taylor	be	SFA	PERSON	ORGANIZATION
+1.0	they	win during	period in club 's 135-year history	0	DURATION
+1.0	we	wish	Walter Smith	0	0
+1.0	Ally McCoist	be by	Rangers	PERSON	ORGANIZATION
+1.0	Murray	explain	Le Guen 's departure	PERSON	PERSON
+1.0	game	have	dominance	O	O
+1.0	you	be say	only one person	0	NUMBER
+1.0	Smith 's decision	spark	reaction	PERSON	0
+1.0	Taylor 's dismay	be	mirror	PERSON	0
+1.0	Walter Smith	do	superb job	PERSON	0
+1.0	Walter	have	departure	PERSON	0
+1.0	that	be	I	0	0
+1.0	manager	be	prepare	0	0
+1.0	David Murray	be of	Rangers	PERSON	ORGANIZATION
+1.0	you	be say	one person	0	NUMBER
+1.0	Walter Smith	enjoy success in	1990s	0	DATE
+1.0	Celtic 's	have	current dominance of scottish game	ORGANIZATION	DATE
+1.0	Smith	have	decision	O	PERSON
+1.0	Smith 's decision	spark	furious reaction	PERSON	0
+1.0	disastrous tenure	come in	December 2004	0	DATE
+1.0	their	have	Euro	MISC	O
+1.0	David Taylor	be chief executive of	SFA	PERSON	ORGANIZATION
+1.0	Smith	combine	club duty	PERSON	0
+1.0	58-year-old	deliver	three cup	DURATION	NUMBER
+1.0	SFA Chief Executive David Taylor	take individually	action	ORGANIZATION	0
+1.0	its	have	history	O	O
+1.0	Murray	be departure of	Le Guen	PERSON	PERSON
+1.0	58-year-old	take rangers within	one victory reach	DURATION	NUMBER
+1.0	Celtic 's	have	dominance	O	ORGANIZATION
+1.0	team	challenge	Celtic 's dominance	0	ORGANIZATION
+1.0	58-year-old	deliver	three scottish cup	DURATION	NUMBER
+1.0	they	win during	most successful period in club 's history	0	0
+1.0	departure	be	serious	0	0
+1.0	Walter Smith	enjoy	unprecedented success	0	0
+1.0	Berti Vogts	have	tenure	O	PERSON
+1.0	Le Guen	spend at_time	just seven month	PERSON	DURATION
+1.0	they	win during	most successful period in club 's 135-year history	0	DURATION
+1.0	club	have	history	O	O
+1.0	manager	lead scotland through	through end	0	0
+1.0	Smith	leave	Scotland	PERSON	LOCATION
+1.0	they	win during	most successful period	0	0
+1.0	hand	be in	resignation letter	0	0
+1.0	Rangers chairman David Murray	have	delight	O	PERSON
+1.0	disastrous tenure	come to	end	0	DATE
+1.0	Taylor 's dismay	be mirror by	delight	PERSON	0
+1.0	58-year-old	also deliver	three cup	DURATION	NUMBER
+1.0	team	challenge	Celtic 's dominance of game	0	ORGANIZATION
+1.0	Le Guen	have	departure	PERSON	0
+1.0	Smith	inherit	national squad	PERSON	0
+1.0	captaincy	have	Ferguson	PERSON	O
+1.0	Scotland midfielder	be	sell	LOCATION	0
+1.0	Walter Smith	be on	Wednesday	PERSON	DATE
+1.0	disappointment	be in	myself	0	0
+1.0	Wednesday	on smith be	manager	DATE	0
+1.0	Paul Le Guen	be	very honourable man	PERSON	0
+1.0	supporters	have	Army	ORGANIZATION	O
+1.0	Walter Smith	enjoy	success	0	0
+1.0	Le Guen	spend at	helm	PERSON	0
+1.0	Walter Smith	have	employers	O	O
+1.0	Smith	inherit	squad in disarray	PERSON	0
+1.0	Scotland	have	fortunes	O	LOCATION
+1.0	SFA Chief Executive David Taylor	take	action	ORGANIZATION	0
+1.0	his	have	broadcasting work	O	O
+1.0	team	challenge	Celtic 's current dominance	0	DATE
+1.0	France	be over	World Cup	LOCATION	MISC
+1.0	Smith	have	decision return to club	PERSON	0
+1.0	Smith 's decision	spark reaction from	he former employer	PERSON	0
+0.5488413653700084	he	ferguson of	captaincy	0	0
+1.0	manager	lead	Scotland 's	0	LOCATION
+1.0	58-year-old	also deliver	three scottish cup	DURATION	NUMBER
+1.0	Smith	leave	Scotland at top	PERSON	LOCATION
+1.0	SFA Chief Executive David Taylor	take	action against Smith	ORGANIZATION	PERSON
+1.0	Euro	have	end	O	MISC
+1.0	Le Guen	have	departure	O	PERSON

@@ -1,0 +1,78 @@
+1.0	Top seed Jelena Jankovic	semi-finalist in	US Open	PERSON	MISC
+1.0	final hurdle	be in	Auckland	0	LOCATION
+1.0	shot-making	prove	decisive	0	0
+1.0	semi-finalist	be in	US Open	0	MISC
+1.0	US dollar Classic	have	other	O	MISC
+1.0	Russian Vera Zvonareva	strike in	set	PERSON	0
+0.773644740164754	superb shot-making	mix with	number of error	0	0
+0.773644740164754	shot-making	mix with	large number	0	0
+0.773644740164754	superb shot-making	mix with	large number	0	0
+1.0	seed Jelena Jankovic	repel	russian Vera Zvonareva	PERSON	PERSON
+1.0	fortune	flow	one way	0	NUMBER
+1.0	top seed Jelena Jankovic	repel	Vera Zvonareva	PERSON	PERSON
+1.0	pair	require	tie-breaker	0	0
+0.5147177518833785	Top seed Jelena Jankovic	semi-finalist in	year 's US Open	PERSON	MISC
+1.0	she	be	too dishearten	0	0
+1.0	she	refuse	dishearten	0	0
+1.0	Top seed Jelena Jankovic	have expect	difficult match	PERSON	0
+1.0	Russian Vera Zvonareva	point at	start of third set	PERSON	ORDINAL
+0.773644740164754	superb shot-making	mix with	number	0	0
+0.773644740164754	shot-making	mix with	number	0	0
+1.0	top seed Jelena Jankovic	repel	russian Vera Zvonareva	PERSON	PERSON
+1.0	Top seed Jelena Jankovic	serve for	match	PERSON	0
+1.0	russian Vera Zvonareva	win	Auckland Classic tennis title	PERSON	0
+1.0	Top seed Jelena Jankovic	have expect match against	world number	PERSON	0
+1.0	set	have	start	O	O
+1.0	opponent	to	aggression	0	0
+1.0	Russian Vera Zvonareva	strike in	second set	PERSON	ORDINAL
+1.0	year	have	US Open	MISC	DATE
+1.0	last year	in	US Open	DATE	MISC
+0.773644740164754	shot-making	mix with	number of error	0	0
+1.0	Jankovic	have	drop serve at 5-5	PERSON	NUMBER
+1.0	Top seed Jelena Jankovic	save	two point	PERSON	NUMBER
+1.0	seed Jelena Jankovic	repel	Vera Zvonareva	PERSON	PERSON
+1.0	jet-lag	have	complained	O	O
+1.0	Russian Vera Zvonareva	strike back in	set	PERSON	0
+1.0	opponent	have	aggression	O	O
+1.0	22-year-old Zvonareva	have	settle	PERSON	0
+1.0	Russian Vera Zvonareva	strike back in	second set	PERSON	ORDINAL
+1.0	jet-lag early in the tournament	have	round match	O	O
+1.0	superb shot-making	prove	decisive	0	0
+1.0	Russian Vera Zvonareva	point at	start of set	PERSON	0
+1.0	russian	eventually surrender	she	0	0
+1.0	22-year-old Zvonareva	come	agonisingly close	PERSON	0
+1.0	jet-lag	be in	tournament	0	0
+0.10229525773632098	Top seed Jelena Jankovic	have expect against	world number	PERSON	0
+1.0	Jankovic 's drop	serve at	5-5	PERSON	NUMBER
+0.773644740164754	superb shot-making	mix with	large number of error	0	0
+1.0	she	be	dishearten	0	0
+1.0	Russian Vera Zvonareva	point to	she opponent 's aggression	PERSON	0
+1.0	Russian Vera Zvonareva	point at	start	PERSON	0
+1.0	Russian Vera Zvonareva	use	clever lob	PERSON	0
+1.0	player	hold	serve in windy condition	0	0
+1.0	Zvonareva	come	close	PERSON	0
+1.0	Top seed Jelena Jankovic	save	two set point	PERSON	NUMBER
+1.0	Zvonareva	have	settle	PERSON	0
+1.0	Jankovic	have	drop	O	PERSON
+1.0	Russian Vera Zvonareva	point at	start of set as key	PERSON	0
+1.0	Top seed Jelena Jankovic	have	game	O	O
+1.0	errors	have	number	O	O
+1.0	she	refuse	too dishearten	0	0
+1.0	player	hold	serve in condition	0	0
+1.0	russian	surrender	she	0	0
+1.0	Top seed Jelena Jankovic	have expect	match	PERSON	0
+1.0	Vera Zvonareva	win auckland classic tennis title at_time	Saturday	PERSON	DATE
+1.0	Zvonareva	come	agonisingly close	PERSON	0
+1.0	russian Vera Zvonareva	win auckland classic tennis title at_time	Saturday	PERSON	DATE
+1.0	Zvonareva	be	22-year-old	PERSON	DATE
+1.0	Vera Zvonareva	win	Auckland Classic tennis title	PERSON	0
+1.0	Russian Vera Zvonareva	point at	start of third set as key	PERSON	ORDINAL
+0.5147177518833785	Top seed Jelena Jankovic	semi-finalist in	last year 's US Open	PERSON	MISC
+1.0	Russian Vera Zvonareva	use	lob	PERSON	0
+1.0	Russian Vera Zvonareva	have	opponent	O	O
+1.0	Russian Vera Zvonareva	point to	result	PERSON	0
+1.0	Vera Zvonareva	be	russian	PERSON	0
+1.0	22-year-old Zvonareva	come	close	PERSON	0
+0.773644740164754	shot-making	mix with	large number of error	0	0
+1.0	player	hold	serve	0	0
+1.0	player	struggle	hold	0	0

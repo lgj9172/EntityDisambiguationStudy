@@ -1,0 +1,14 @@
+1.0	coast guard	be	indian	ORGANIZATION	0
+1.0	capital Kolkata	have	south	O	LOCATION
+1.0	West Bengal	have	capital Kolkata	LOCATION	LOCATION
+1.0	state	have	police chief	0	0
+1.0	fishing	be in	Bay of Bengal	0	LOCATION
+1.0	Bengal	have	Bay	LOCATION	LOCATION
+1.0	West Bengal	of	Kolkata	LOCATION	LOCATION
+1.0	captain	be malaysian of	Thai origin	0	MISC
+1.0	local official	say at_time	Tuesday	LOCATION	DATE
+1.0	state	have	police chief	O	O
+1.0	official	say at_time	Tuesday	LOCATION	DATE
+1.0	Kolkata	be capital of	West Bengal	LOCATION	LOCATION
+1.0	trawler	have	captain	O	O
+0.8947805179888851	other	be of	Thai origin	0	MISC

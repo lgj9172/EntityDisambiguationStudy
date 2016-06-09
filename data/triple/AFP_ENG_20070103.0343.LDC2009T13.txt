@@ -1,0 +1,13 @@
+1.0	Washington	have	US state	O	LOCATION
+1.0	14	have	ages	O	NUMBER
+1.0	victim	about	identity	0	0
+1.0	18	have	ages	O	NUMBER
+1.0	gunman	have	identity	O	O
+1.0	thing	have	sort	O	O
+1.0	police	be in	Tacoma	0	LOCATION
+1.0	gunman	have	identity	0	0
+1.0	victim	have	condition	O	O
+1.0	victim	have	identity	O	O
+1.0	US media	report at_time	Wednesday	LOCATION	DATE
+1.0	school	be in	northwestern US state of Washington	0	LOCATION
+1.0	Foss High School	be in	Tacoma	ORGANIZATION	LOCATION

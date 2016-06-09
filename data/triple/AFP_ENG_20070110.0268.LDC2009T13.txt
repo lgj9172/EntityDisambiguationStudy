@@ -1,0 +1,44 @@
+1.0	their	have	demands	O	O
+1.0	Shalit	have	capture	O	PERSON
+1.0	Shalit 's release	be in	exchange	PERSON	0
+1.0	Abu Mujahid , spokesman of the Popular Resistance Committees	be	treat	PERSON	0
+1.0	group	have	wing	O	O
+1.0	father	offer at_time	Wednesday	0	DATE
+1.0	prime minister Ismail Haniya	say at_time	week	PERSON	DATE
+1.0	Abu Mujahid , spokesman of the Popular Resistance Committees	spokesman of	Popular Resistance committee	PERSON	ORGANIZATION
+1.0	palestinian militant	be in	Gaza Strip	0	LOCATION
+1.0	palestinian prime minister Ismail Haniya	say at_time	week	PERSON	DATE
+0.5043601407181039	prisoner	hold in	Israel	0	LOCATION
+1.0	Ismail Haniya	be	palestinian	PERSON	0
+1.0	palestinian minister Ismail Haniya	say at_time	last week	PERSON	DATE
+1.0	Shalit	have	release	O	PERSON
+1.0	The father of an Israeli soldier captured by Palestinian militants in the Gaza Strip last June	have	freedom	O	O
+1.0	deal	can	can reach for he freedom	0	0
+1.0	soldier	have	father	O	O
+1.0	Army	seize	corporal Gilad Shalit	ORGANIZATION	PERSON
+1.0	palestinian prime minister Ismail Haniya	say at_time	last week	PERSON	DATE
+1.0	Palestinian prisoners	have	lot	O	O
+1.0	Palestinians	have	hundreds	O	MISC
+1.0	Hamas	have	security forces	O	ORGANIZATION
+1.0	Army	seize	corporal Gilad Shalit in June 25 raid	ORGANIZATION	PERSON
+1.0	Shalit	have	capture	PERSON	0
+0.5043601407181039	palestinian prisoner	hold in	Israel	0	LOCATION
+1.0	demands	have	all	O	O
+1.0	hundred	be	in which kill	0	0
+1.0	Abu Mujahid , spokesman of the Popular Resistance Committees	be	treat well	PERSON	0
+1.0	Popular Resistance Committees	have	spokesman	O	ORGANIZATION
+1.0	Islam	have	Army	ORGANIZATION	ORGANIZATION
+1.0	father	join	he	0	0
+1.0	minister Ismail Haniya	say at_time	last week	PERSON	DATE
+1.0	prime minister Ismail Haniya	say at_time	last week	PERSON	DATE
+1.0	Palestinian prisoners	have	list	O	O
+1.0	Noam Shalit	tell	radio	PERSON	0
+1.0	Abu Mujahid , spokesman of the Popular Resistance Committees	say at_time	Tuesday	PERSON	DATE
+1.0	the governing Hamas	have	wing	O	ORGANIZATION
+1.0	palestinian minister Ismail Haniya	say at_time	week	PERSON	DATE
+1.0	Hamas	with	security force	ORGANIZATION	0
+1.0	Gilad Shalit	be in	June 25 raid	PERSON	DATE
+1.0	deal	can	can reach	0	0
+1.0	hundred	be	kill	0	0
+1.0	Shalit	have	release in exchange	PERSON	0
+1.0	minister Ismail Haniya	say at_time	week	PERSON	DATE

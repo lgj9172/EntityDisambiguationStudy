@@ -1,0 +1,40 @@
+1.0	his client	have	spine	O	O
+1.0	September	have	murder	O	DATE
+1.0	Andrei Kozlov	have	killing	O	PERSON
+1.0	Frenkel 35	formerly chair	board	NUMBER	0
+1.0	Frenkel 's	be	35	PERSON	NUMBER
+1.0	result	be have	difficulty	0	0
+1.0	his client	have	client	O	O
+1.0	detention	have	course	O	O
+1.0	Frenkel	have	detention	O	PERSON
+1.0	he spine	be in	course of he detention	0	0
+1.0	our	have	application	O	O
+1.0	Frenkel	follow	detention Thursday in connection	PERSON	DATE
+1.0	his client	have	detention	O	O
+1.0	VIP-Bank	have	board	O	ORGANIZATION
+1.0	fear	akin to	that	0	0
+1.0	Frenkel 's	chair	board	PERSON	0
+1.0	suspect	have	lawyer	0	0
+1.0	Frenkel 's detention Thursday	be in	connection	DATE	0
+1.0	suspect	have	lawyer	O	O
+1.0	deterioration	have	fears	O	O
+1.0	Andrei Kozlov	have	driver	O	O
+1.0	last September	have	murder of deputy head of central bank	DATE	0
+1.0	result	be have	difficulty sit	0	0
+1.0	35	have	licence	O	O
+1.0	people	have	total	O	O
+0.5436135402578122	hearing	arrest	financier Alexei Frenkel	0	PERSON
+1.0	deputy head	have	murder	O	O
+1.0	fear	akin to	that in 1990s	0	DATE
+1.0	Interfax	quote	suspect 's lawyer	ORGANIZATION	0
+0.5436135402578122	hearing	formally arrest	financier Alexei Frenkel on suspicion	0	PERSON
+1.0	suspect	's lawyer be	Igor Trunov	0	PERSON
+1.0	deterioration	be in	business climate	0	0
+1.0	Frenkel 's	formerly chair	board	PERSON	0
+1.0	Interfax	quote	Igor Trunov	ORGANIZATION	PERSON
+1.0	Moscow court	delay at_time	Friday	LOCATION	DATE
+1.0	bank	have	deputy head	O	O
+1.0	Frenkel 35	chair	board	NUMBER	0
+0.5436135402578122	hearing	arrest	financier Alexei Frenkel on suspicion	0	PERSON
+1.0	Andrei Kozlov	have	murder	O	PERSON
+0.5436135402578122	hearing	formally arrest	financier Alexei Frenkel	0	PERSON

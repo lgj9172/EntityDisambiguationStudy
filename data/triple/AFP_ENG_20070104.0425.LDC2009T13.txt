@@ -1,0 +1,28 @@
+1.0	Croatia	have	Ana Jelusic	PERSON	LOCATION
+1.0	Austria	have	Marlies Schild	LOCATION	PERSON
+1.0	Ana Jelusic	have	Thursday	DATE	PERSON
+1.0	Croatia	of	Ana Jelusic	LOCATION	PERSON
+1.0	Ana Jelusic	be of	Czech Republic	PERSON	LOCATION
+1.0	it	be	fourth	0	ORDINAL
+1.0	Sarka Zahrobska	have	Thursday	DATE	PERSON
+1.0	Zahrobska	have	lead	O	LOCATION
+1.0	Sweden 's Anja Paerson	be on	course	PERSON	0
+1.0	Austria	have	Marlies Schild	PERSON	LOCATION
+1.0	Sweden 's Anja Paerson	have	have second	PERSON	ORDINAL
+1.0	Sweden 's Anja Paerson	have	have second after first run	PERSON	ORDINAL
+1.0	Ana Jelusic	be	20	PERSON	NUMBER
+1.0	Czech Republic	have	Ana Jelusic	PERSON	LOCATION
+1.0	women	have	World Cup Alpine Skiing	MISC	O
+1.0	woman	have	World Cup Alpine skiing	0	MISC
+1.0	slaloms	have	out win	O	O
+1.0	Austria 's Marlies Schild	have	lead	O	O
+1.0	Zahrobska	be	21	LOCATION	NUMBER
+1.0	Sweden 's Anja Paerson	have	have second after run	PERSON	ORDINAL
+1.0	20	have	lead	O	NUMBER
+1.0	Sweden	have	Anja Paerson	PERSON	LOCATION
+1.0	she lead	be in	second	0	ORDINAL
+1.0	Ana Jelusic	have	lead	O	PERSON
+1.0	Sweden	have	Anja Paerson	LOCATION	PERSON
+1.0	five slaloms	have	podium finishes	O	O
+1.0	Austria 's Marlies Schild	have	World Cup lead	O	O
+1.0	Sweden 's Anja Paerson	be on	course for podium finish	PERSON	0

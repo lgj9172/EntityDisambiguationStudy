@@ -1,0 +1,29 @@
+1.0	Financial Times	be in	interview publish on Friday	ORGANIZATION	DATE
+1.0	decision	be	implement	0	0
+1.0	Germany	have	stance	O	O
+1.0	integrated companies	be	fail	DURATION	DURATION
+1.0	enough competition	be in	german market	0	0
+1.0	EU	have	member states	O	ORGANIZATION
+1.0	country	have	economics minister	0	0
+1.0	country	have	economics minister	O	O
+1.0	Michael Glos	be	quote	PERSON	0
+0.7780596407713917	we	enough competition in	german market	0	0
+1.0	operator	have	up setting	O	O
+1.0	producers	have	unbundling	O	O
+1.0	European Union	have	presidency	O	ORGANIZATION
+1.0	Michael Glos	say in	business	PERSON	0
+1.0	Michael Glos	say daily in	business	PERSON	0
+1.0	decision	be	implement everywhere	0	0
+1.0	country 's economics minister	tell	Financial Times in interview	0	ORGANIZATION
+1.0	integrated companies	only be	fail	DURATION	DURATION
+1.0	their	have	distribution networks	O	O
+1.0	country 's economics minister	tell	Financial Times	0	ORGANIZATION
+1.0	companies	have	management	O	O
+1.0	that	be	prerequisite	0	0
+1.0	European Union	have	six-month presidency	ORGANIZATION	DURATION
+1.0	country 's economics minister	tell	Financial Times in interview publish on Friday	0	ORGANIZATION
+1.0	energy market	have	liberalisation	O	O
+1.0	country 's economics minister	tell	Financial Times in interview publish	0	ORGANIZATION
+1.0	we	first make	sure	0	0
+1.0	EU	between	27 member state	ORGANIZATION	NUMBER
+1.0	we	make	sure	0	0

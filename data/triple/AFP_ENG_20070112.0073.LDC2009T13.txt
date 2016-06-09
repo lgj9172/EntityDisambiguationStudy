@@ -1,0 +1,41 @@
+1.0	Bangladesh army	arrest overnight	former opposition party lawmaker	LOCATION	0
+1.0	President Iajuddin Ahmed	resign at_time	Thursday	PERSON	DATE
+1.0	Awami League	lead	month of protest	ORGANIZATION	0
+1.0	main opposition Awami League spokesman Abdul Jalil	tell	AFP	ORGANIZATION	ORGANIZATION
+0.8154911295998323	Awami League	month of	protest	ORGANIZATION	0
+1.0	opposition spokesman	say of	political strife	0	0
+1.0	President Iajuddin Ahmed	declare	emergency	PERSON	0
+1.0	Awami League	lead	month of violent protest	ORGANIZATION	0
+1.0	nationalist Party	be rig in	favour	ORGANIZATION	0
+1.0	President Iajuddin Ahmed	resign at_time	late Thursday	PERSON	DATE
+1.0	Abdul Jalil	be	Awami League	PERSON	ORGANIZATION
+1.0	emergency	have	state	O	O
+1.0	Bangladesh	have	favour	O	ORGANIZATION
+1.0	opposition Awami League spokesman Abdul Jalil	tell	AFP	ORGANIZATION	ORGANIZATION
+1.0	opposition spokesman	say of	strife	0	0
+1.0	he home	be in	Dhaka	0	LOCATION
+1.0	Awami League	lead	month	ORGANIZATION	0
+1.0	nationalist Party	be rig in	favour of outgoing Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	Chittagong	have	city	O	LOCATION
+1.0	nation 's president	declare	state	0	0
+1.0	Abdul Jalil	be spokesman of	Awami League	PERSON	ORGANIZATION
+0.8091389020000153	election	be	cancel	0	0
+1.0	Party	be	rig	ORGANIZATION	0
+1.0	strife	have	said	O	O
+1.0	nation	have	president	O	O
+1.0	nation	have	president	0	0
+1.0	Bangladesh army	arrest	former opposition party lawmaker	LOCATION	0
+1.0	nationalist Party	be	rig	ORGANIZATION	0
+1.0	Party	be rig in	favour	ORGANIZATION	0
+1.0	opposition spokesman	say at_time	Friday	0	DATE
+1.0	government	have	head	O	O
+1.0	nationalist Party	be rig in	favour of Bangladesh	ORGANIZATION	ORGANIZATION
+0.7926805200317282	nation 's president	state of	emergency	0	0
+1.0	nation 's president	declare	state of emergency	0	0
+1.0	Kamal Ahmed Majumder	have	home	O	O
+1.0	Party	be rig in	favour of outgoing Bangladesh	ORGANIZATION	ORGANIZATION
+0.8154911295998323	Awami League	month of	violent protest	ORGANIZATION	0
+1.0	head	schedule for	January 22	0	DATE
+1.0	protests	have	months	DURATION	O
+1.0	Party	be rig in	favour of Bangladesh	ORGANIZATION	ORGANIZATION
+1.0	anonymity	have	condition	O	O

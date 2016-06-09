@@ -1,0 +1,46 @@
+1.0	Colonel Karuna	lead split in	March 2004	PERSON	DATE
+1.0	ltte	have accuse	military collaborate	0	0
+1.0	Tiger guerrilla	be in	island 's restive eastern province	0	0
+1.0	diplomatic attempt	politically have end in	failure	0	0
+1.0	Tamil Eelam	have	Liberation Tigers	ORGANIZATION	ORGANIZATION
+1.0	troops	be in	same district	0	0
+0.7601841672954861	diplomatic attempt	end	conflict	0	0
+1.0	Colonel Karuna	lead campaign against	Tiger guerrilla in island 's eastern province	PERSON	0
+1.0	Colonel Karuna	lead split in	Tamil rebel leadership	PERSON	MISC
+1.0	eastern region	be with	more 3,800 people kill in past year despite truce in place since February 2002	0	DATE
+1.0	dead	have	two	NUMBER	O
+1.0	fight	be with	splinter group know as Karuna faction	0	LOCATION
+1.0	wire	have	meters	O	O
+1.0	Colonel Karuna	lead	split	PERSON	0
+1.0	truce	be in	place	0	0
+1.0	Sri Lanka	in	embattled eastern province	LOCATION	0
+1.0	clash	be with	security force	0	0
+0.7601841672954861	attempt	end	conflict	0	0
+1.0	Colonel Karuna	lead campaign against	Tiger guerrilla	PERSON	0
+1.0	diplomatic attempt	have end in	failure	0	0
+1.0	attempt	have end in	failure	0	0
+1.0	Sri Lanka	have	Tamil separatist conflict	O	LOCATION
+1.0	island	in	restive eastern province	0	0
+1.0	Sri Lanka	have	province	O	LOCATION
+1.0	Sri Lanka	in	Tamil separatist conflict	LOCATION	MISC
+1.0	Colonel Karuna	since lead campaign against	Tiger guerrilla in island 's eastern province	PERSON	0
+1.0	rebel artillery attack	be in	Batticaloa district	0	LOCATION
+1.0	ammunition	have	rounds	O	O
+1.0	Colonel Karuna	lead campaign against	Tiger guerrilla in island 's restive province	PERSON	0
+1.0	attempt	politically have end in	failure	0	0
+1.0	ltte	have accuse	military	0	0
+1.0	Tamil Tiger rebels	have	bodies	O	O
+1.0	Colonel Karuna	lead	unprecedented split	PERSON	0
+1.0	three t-56 rifle	round of	t-56 ammunition	NUMBER	0
+1.0	Colonel Karuna	lead campaign against	Tiger guerrilla in island 's province	PERSON	0
+1.0	island	have	province	O	O
+1.0	Colonel Karuna	since lead campaign against	Tiger guerrilla in island 's restive eastern province	PERSON	0
+1.0	defence ministry	say at_time	Wednesday	0	DATE
+1.0	Colonel Karuna	since lead campaign against	Tiger guerrilla in island 's province	PERSON	0
+1.0	Colonel Karuna	since lead campaign against	Tiger guerrilla in island 's restive province	PERSON	0
+1.0	Colonel Karuna	lead campaign against	Tiger guerrilla in island 's restive eastern province	PERSON	0
+1.0	Liberation Tigers	have	members	O	ORGANIZATION
+1.0	Karuna group	have	members	O	O
+1.0	rival rebel	be in	Sri Lanka 's embattled eastern province	0	LOCATION
+1.0	ltte	have accuse	military collaborate with Karuna group	0	LOCATION
+1.0	Colonel Karuna	since lead campaign against	Tiger guerrilla	PERSON	0

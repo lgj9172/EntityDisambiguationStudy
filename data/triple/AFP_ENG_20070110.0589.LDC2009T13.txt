@@ -1,0 +1,50 @@
+1.0	Kohler	will also visit monarch in	Kumasi	PERSON	ORDINAL
+1.0	Ghana	have	second biggest city	LOCATION	ORDINAL
+1.0	german Chancellor	make	reciprocal visit	0	0
+1.0	Chancellor	make	reciprocal visit	0	0
+1.0	Kohler	will also visit	traditional monarch	PERSON	0
+1.0	Kufuor	pay	visit	PERSON	0
+1.0	bilateral talk	be with	John Kufour	0	PERSON
+1.0	Kohler	will visit monarch in	Ghana 's biggest city	PERSON	LOCATION
+1.0	german Chancellor	make visit to	Ghana	0	LOCATION
+1.0	Kohler	will visit monarch in	Kumasi	PERSON	LOCATION
+1.0	conflict	have	environment	O	O
+1.0	Kohler	will visit	monarch of Ashanti Kingdom	PERSON	LOCATION
+1.0	Kohler	will visit monarch at	Manhyia Palace	PERSON	LOCATION
+1.0	Kohler	will also visit	monarch of Ashanti Kingdom	PERSON	LOCATION
+1.0	Kohler	have	wife Eva Liuse	PERSON	O
+1.0	employment	have	environment	O	O
+1.0	Kufuor	pay visit to	Germany	PERSON	LOCATION
+1.0	Kwame Nkrumah University of Science and Technology	be	kumasi-based	ORGANIZATION	0
+1.0	german Chancellor	make	visit	0	0
+1.0	Kufuor	pay	four-day official visit	PERSON	DURATION
+1.0	Kohler	will visit	traditional monarch	PERSON	0
+1.0	Kohler	will also visit	monarch	PERSON	0
+1.0	Kohler	will also visit monarch at	Manhyia Palace	PERSON	LOCATION
+1.0	Centre	be in	Accra	0	LOCATION
+0.9627380865704696	Kohler	join by	he wife Eva Liuse	PERSON	PERSON
+1.0	Ashanti Kingdom	be	Otumfuo Osei Tutu	LOCATION	PERSON
+1.0	Kufuor	pay	official visit	PERSON	0
+1.0	Kohler	will also visit monarch in	Ghana 's second city	PERSON	ORDINAL
+1.0	presidential spokesman Andrews Awuni	tell	AFP	PERSON	ORGANIZATION
+1.0	Chancellor	make visit to	Ghana	0	LOCATION
+1.0	Kohler	will also visit monarch in	Kumasi	PERSON	LOCATION
+1.0	Ashanti Kingdom	have	monarch	O	LOCATION
+1.0	Science	have	Kwame Nkrumah University	ORGANIZATION	ORGANIZATION
+1.0	Ghana	have	city	O	LOCATION
+0.9627380865704696	Kohler	join on	trip	PERSON	0
+1.0	opportunities	have	environment	O	O
+1.0	government spokesman	say at_time	Wednesday	0	DATE
+1.0	Kohler	will also visit monarch in	Ghana 's city	PERSON	LOCATION
+1.0	Technology	have	Kwame Nkrumah University	ORGANIZATION	ORGANIZATION
+1.0	Kufuor	pay visit in	June 2000	PERSON	DATE
+1.0	Chancellor	make	visit	0	0
+1.0	Kohler	will also visit monarch in	Ghana 's biggest city	PERSON	LOCATION
+1.0	Horst Koehler	be	german	PERSON	0
+1.0	Kohler	will visit monarch in	Ghana 's city	PERSON	LOCATION
+1.0	spokesman Andrews Awuni	tell	AFP	PERSON	ORGANIZATION
+1.0	world	have	environment	O	O
+1.0	Kohler	will visit	monarch	PERSON	0
+1.0	Kufuor	pay	four-day visit	PERSON	DURATION
+1.0	Kohler	will visit monarch in	Ghana 's second city	PERSON	ORDINAL
+1.0	Kohler	will visit monarch in	Kumasi	PERSON	ORDINAL

@@ -1,0 +1,71 @@
+1.0	dollar convention center	be one of	venue	MONEY	0
+1.0	riot police	disperse	hundred of activist	0	0
+1.0	dollar convention center	be one	venue	MONEY	0
+1.0	Navy vessel	will patrol off	Mactan island	ORGANIZATION	LOCATION
+1.0	11 million dollar convention center	be one of	venue for three day	MONEY	DURATION
+1.0	summit	will	will hold	0	0
+1.0	summit	have	duration	O	O
+1.0	summit	will	will hold Saturday in surroundings of shangri-la hotel	0	DATE
+1.0	philippine riot police	disperse	hundred	0	0
+1.0	11 million dollar convention center	be one	venue for three day of meeting	MONEY	DURATION
+1.0	them	have	three	NUMBER	O
+1.0	no-fly zone	have	have impose	0	0
+1.0	protester	burn	effigy	0	0
+1.0	Gloria Arroyo	be of	Philippine	PERSON	MISC
+1.0	Mactan island	have	patrol	O	O
+1.0	protester	burn	effigy of Philippine President Gloria Arroyo	0	PERSON
+1.0	zone	have	have impose over venue	0	0
+1.0	riot police	disperse	hundred	0	0
+1.0	philippine riot police	arrest	three of they	0	NUMBER
+1.0	summit	will	will hold in surroundings	0	0
+1.0	no-fly zone	have	have impose over venue	0	0
+1.0	summit	will	will hold Saturday in plush surroundings	0	DATE
+0.9818486402872485	helmet	arrival of	riot police	0	0
+1.0	Shangri-La hotel	have	surroundings	O	O
+1.0	summit	will	will hold in plush surroundings of shangri-la hotel on Mactan Island	0	LOCATION
+1.0	summit	will	will hold in surroundings of shangri-la hotel on Mactan Island	0	LOCATION
+1.0	summit	will	will hold Saturday in plush surroundings of shangri-la hotel on Mactan Island	0	DATE
+1.0	Regional security	will	will topic	0	0
+1.0	summit	will	will hold Saturday	0	DATE
+1.0	summit	will	will hold Saturday in surroundings of shangri-la hotel on Mactan Island	0	DATE
+1.0	Alexander Abadines	be	Mandaue City	PERSON	LOCATION
+1.0	11 million dollar convention center	be one	venue for three day	MONEY	DURATION
+1.0	11 million dollar convention center	be one	venue	MONEY	0
+1.0	summit	will	will hold in plush surroundings	0	0
+1.0	venues	have	one	NUMBER	O
+1.0	security	be	step	0	0
+1.0	police	provide	troops	0	0
+1.0	security	be	step up	0	0
+1.0	activists	have	hundreds	O	O
+1.0	Philippine President Gloria Arroyo	have	effigy	O	PERSON
+1.0	Regional security	will	will key topic during event	0	0
+1.0	Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	this weekend	for	summit	DATE	0
+1.0	arrival	carry	shield	0	0
+1.0	meetings	have	days	DURATION	O
+1.0	Association	have	summit	O	ORGANIZATION
+1.0	Regional security	will	will key topic	0	0
+1.0	11 million dollar convention center	be one of	venue	MONEY	0
+1.0	dollar convention center	be one	venue for three day	MONEY	DURATION
+1.0	dollar convention center	be one	venue for three day of meeting	MONEY	DURATION
+1.0	demonstration	be	illegal	0	0
+1.0	zone	have	have impose	0	0
+1.0	dollar convention center	be one of	venue for three day of meeting	MONEY	DURATION
+1.0	summit	will	will hold Saturday in plush surroundings of shangri-la hotel	0	DATE
+1.0	dollar convention center	be one of	venue for three day	MONEY	DURATION
+1.0	terror threats	have	governments	O	O
+1.0	he	be	quickly disperse	0	0
+1.0	Alexander Abadines	be police chief of	Mandaue City	PERSON	LOCATION
+1.0	he	be	disperse	0	0
+1.0	riot police	arrest	three of they	0	NUMBER
+1.0	riot police	have	arrival	O	O
+1.0	philippine riot police	disperse	hundred of activist	0	0
+1.0	weekend	have	summit	O	DATE
+1.0	summit	will	will hold in plush surroundings of shangri-la hotel	0	ORGANIZATION
+1.0	New Zealand	be	Australia	LOCATION	LOCATION
+1.0	summit	will	will hold in surroundings of shangri-la hotel	0	ORGANIZATION
+1.0	security	be	key	0	0
+1.0	11 million dollar convention center	be one of	venue for three day of meeting	MONEY	DURATION
+1.0	arrival	wear	helmet	0	0
+1.0	Regional security	will	will topic during event	0	0
+1.0	summit	will	will hold Saturday in surroundings	0	DATE

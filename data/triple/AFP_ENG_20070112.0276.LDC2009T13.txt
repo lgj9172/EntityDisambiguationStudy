@@ -1,0 +1,27 @@
+1.0	he	be	player	0	0
+1.0	Sir Alex Ferguson	have	response	O	O
+1.0	Major League Soccer	have	Los Angeles Galaxy team	O	ORGANIZATION
+1.0	he	be	terrific player	0	0
+1.0	25 million pound	be in	2003	MONEY	DATE
+1.0	it	have	business	O	O
+1.0	David Beckham	have	move to United States	PERSON	ORGANIZATION
+1.0	he	go to	America	0	LOCATION
+0.7411223120301652	Sir Alex Ferguson	ask	he response	PERSON	0
+1.0	Beckham	have	move	O	PERSON
+1.0	he	be player for	Manchester United	0	ORGANIZATION
+0.10229525773632098	a United fan	expect	go	0	0
+1.0	a United fan	expect	he	0	0
+1.0	other club	be in	England	0	LOCATION
+1.0	Beckham 's move	be	accelerate	PERSON	0
+1.0	Beckham	have	move to United States	PERSON	LOCATION
+1.0	his	have	position	O	O
+1.0	he	do well in	America	0	LOCATION
+0.10229525773632098	a United fan	expect	go to America	0	LOCATION
+1.0	Beckham	be captain of	England	PERSON	LOCATION
+1.0	he	do in	America	0	LOCATION
+1.0	Sir Alex Ferguson	reveal at_time	Friday	PERSON	DATE
+1.0	David Beckham	have	move	O	PERSON
+1.0	he	be terrific player for	Manchester United	0	ORGANIZATION
+1.0	Beckham	to	money-spinning move	PERSON	0
+1.0	he	be	terrific	0	0
+1.0	top player	want	play	0	0

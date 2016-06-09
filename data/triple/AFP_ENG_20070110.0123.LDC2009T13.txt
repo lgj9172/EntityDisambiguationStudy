@@ -1,0 +1,66 @@
+1.0	sino-foreign joint venture	be	China 's three producer	0	NUMBER
+1.0	increase	be	growth	0	0
+1.0	joint venture	be	China 's top three producer of passenger vehicle	0	NUMBER
+1.0	China	have	producers	O	LOCATION
+1.0	sale	reach up	51,600 car	0	NUMBER
+1.0	small car	supply	market	0	0
+1.0	joint venture	be	China 's three producer	0	NUMBER
+1.0	China 's Chery Automobile	have	car sales	O	O
+1.0	chinese automaker	enter	highly competitive	0	0
+1.0	sino-foreign joint venture	be	China 's top three producer of passenger vehicle in 2006	0	NUMBER
+1.0	Anhui	have	province	O	LOCATION
+1.0	passenger vehicles	have	producers	O	O
+1.0	its 2006 car sales	have	terms	O	O
+1.0	increase	be growth by	chinese-brand car manufacturer	0	0
+1.0	venture	be	China 's top three producer of passenger vehicle	0	NUMBER
+1.0	DaimlerChrysler	have	board	O	ORGANIZATION
+1.0	venture	be	China 's top three producer of passenger vehicle in 2006	0	NUMBER
+1.0	sino-foreign venture	be	China 's top three producer of passenger vehicle	0	NUMBER
+1.0	China	have	Chery Automobile	LOCATION	ORGANIZATION
+1.0	increase	be growth by	car manufacturer	0	0
+1.0	overseas sale	reach	51,600 car	0	NUMBER
+1.0	units	have	sales	O	O
+1.0	sino-foreign venture	be	China 's three producer	0	NUMBER
+1.0	sino-foreign joint venture	be	China 's three producer of passenger vehicle in 2006	0	NUMBER
+1.0	car	supply	market	0	0
+1.0	nation	have	market	O	O
+1.0	increase	be fastest growth by	car manufacturer	0	0
+1.0	joint venture	be	China 's top three producer of passenger vehicle in 2006	0	NUMBER
+1.0	sale	reach	51,600 car	0	NUMBER
+1.0	automaker	enter	competitive	0	0
+1.0	overseas sale	reach up	51,600 car	0	NUMBER
+1.0	joint venture	be	China 's three producer of passenger vehicle	0	NUMBER
+1.0	sino-foreign joint venture	be	China 's top three producer of passenger vehicle	0	NUMBER
+1.0	increase	be	fastest growth	0	0
+1.0	sino-foreign venture	be	China 's top three producer	0	NUMBER
+1.0	chinese automaker	enter	competitive	0	0
+1.0	it	build car for	german	0	0
+1.0	joint venture	be	China 's three producer of passenger vehicle in 2006	0	NUMBER
+1.0	car	supply	global market	0	0
+1.0	sino-foreign venture	be	China 's three producer of passenger vehicle in 2006	0	NUMBER
+1.0	company	have	spokesman	0	0
+1.0	China	be in	term of sale	LOCATION	0
+1.0	it	have reach	basic agreement	0	0
+1.0	joint venture	be	China 's top three producer	0	NUMBER
+1.0	venture	be	China 's three producer of passenger vehicle	0	NUMBER
+1.0	company	have	spokesman	O	O
+1.0	Wang Chao	spokesman 's	company	PERSON	0
+1.0	China 's Chery Automobile	have	sales	O	O
+1.0	small car	supply	global market	0	0
+1.0	automaker	enter	highly competitive	0	0
+1.0	China	have	top three producer of passenger vehicle in 2006	LOCATION	NUMBER
+1.0	sino-foreign joint venture	be	China 's top three producer	0	NUMBER
+1.0	Wang Chao	tell	afp	PERSON	0
+1.0	passenger vehicle	be in	2006	0	DATE
+1.0	state press	report at_time	Wednesday	0	DATE
+1.0	it	have reach	agreement	0	0
+1.0	venture	be	China 's three producer	0	NUMBER
+1.0	China	have	Chery Automobile	ORGANIZATION	LOCATION
+1.0	fourth passenger vehicle producer	be in	China	ORDINAL	LOCATION
+1.0	nation	in	booming market	0	0
+1.0	venture	be	China 's top three producer	0	NUMBER
+1.0	venture	be	China 's three producer of passenger vehicle in 2006	0	NUMBER
+1.0	increase	be fastest growth by	chinese-brand car manufacturer	0	0
+1.0	sino-foreign venture	be	China 's three producer of passenger vehicle	0	NUMBER
+1.0	sino-foreign venture	be	China 's top three producer of passenger vehicle in 2006	0	NUMBER
+1.0	sino-foreign joint venture	be	China 's three producer of passenger vehicle	0	NUMBER

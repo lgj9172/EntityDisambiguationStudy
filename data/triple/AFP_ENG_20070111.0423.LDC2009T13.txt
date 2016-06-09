@@ -1,0 +1,18 @@
+1.0	line	be with	market expectation	0	0
+1.0	euro	slide in	afternoon european trade	0	TIME
+1.0	euro	reach	level	0	0
+1.0	euro	reach	level see on November 22 2006	0	DATE
+1.0	euro	reach	level see	0	0
+1.0	its key interest rate	steady at	3.50 percent	0	PERCENT
+1.0	euro	slide in	late afternoon trade	0	TIME
+1.0	euro	slide in	afternoon trade	0	TIME
+1.0	its	have	interest rate	O	O
+1.0	euro	reach	level last	0	0
+1.0	euro	reach	level last see	0	0
+1.0	its	have	policy	O	O
+1.0	euro	slide to	1.2892 dollar	0	MONEY
+1.0	euro	slide in	late afternoon european trade	0	TIME
+1.0	year	have	meeting	O	DATE
+1.0	its interest rate	steady at	3.50 percent	0	PERCENT
+1.0	euro	reach	level last see on November 22 2006	0	DATE
+0.7092363594431859	set	meeting of	year	0	DATE

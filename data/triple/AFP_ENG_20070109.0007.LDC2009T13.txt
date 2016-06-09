@@ -1,0 +1,30 @@
+1.0	fatality	occur in	overt US military intervention	0	LOCATION
+1.0	first overt US military intervention	be in	Somalia	LOCATION	LOCATION
+1.0	two area	intervention in	Somalia	NUMBER	LOCATION
+1.0	fatality	occur in	first overt US intervention in Somalia	0	LOCATION
+1.0	fatality	occur in	first overt US intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	first overt US intervention	0	LOCATION
+1.0	fatality	occur in	US military intervention	0	LOCATION
+1.0	fatality	occur in	first overt US military intervention	0	LOCATION
+1.0	fatality	occur in	US military intervention in Somalia	0	LOCATION
+1.0	fatality	occur in	US military intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	first US intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	US intervention in Somalia	0	LOCATION
+1.0	elder	say on	Tuesday	0	DATE
+1.0	fatality	occur in	overt US intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	first US military intervention	0	LOCATION
+1.0	fatality	occur in	US intervention	0	LOCATION
+1.0	fatality	occur in	first US military intervention in Somalia	0	LOCATION
+1.0	fatality	occur in	first overt US military intervention in Somalia	0	LOCATION
+1.0	fatality	occur in	overt US intervention in Somalia	0	LOCATION
+1.0	fatality	occur in	first US intervention in Somalia	0	LOCATION
+1.0	Al-Qaeda	have	hideouts	O	O
+1.0	fatality	occur in	overt US military intervention in Somalia	0	LOCATION
+1.0	local elder	say on	Tuesday	0	DATE
+1.0	Somalia	be since	the early 1990s	LOCATION	DATE
+1.0	fatality	occur in	first US intervention	0	LOCATION
+1.0	fatality	occur in	overt US intervention	0	LOCATION
+1.0	fatality	occur in	overt US military intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	US intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	first US military intervention in Somalia since early 1990s	0	DATE
+1.0	fatality	occur in	first overt US military intervention in Somalia since early 1990s	0	DATE

@@ -1,0 +1,25 @@
+1.0	Abdullahi Ali Malabon	tell	afp	0	0
+1.0	100 civilian	be	kill	NUMBER	0
+1.0	civilian	be	kill in US on Al	0	LOCATION
+1.0	Clan elder	say	resident	0	0
+1.0	Clan elder	say	resident of Somalia	0	LOCATION
+1.0	100 civilian	be	kill in US on Al	NUMBER	LOCATION
+1.0	civilian	be	kill	0	0
+1.0	100 civilian	be kill on	suspect Al	NUMBER	ORGANIZATION
+1.0	Clan elder	say	resident of southern Somalia	0	LOCATION
+1.0	100 civilian	be	kill in US on suspect Al	NUMBER	LOCATION
+1.0	Abdullahi Ali Malabon	tell afp from	area	0	0
+1.0	100 civilian	be kill in	US	NUMBER	LOCATION
+1.0	civilian	be kill in	US	0	LOCATION
+1.0	civilian	be kill on	suspect Al	0	ORGANIZATION
+1.0	elder	be in	village hit near kenyan border	0	0
+1.0	civilian	be kill on	Al	0	ORGANIZATION
+1.0	Abdullahi Ali Malabon	tell afp from	remote area	0	0
+1.0	Abdullahi Ali Malabon	tell afp by	phone	0	0
+1.0	several	have	one	NUMBER	O
+1.0	elder	say	resident	0	0
+1.0	civilian	be	kill in US on suspect Al	0	LOCATION
+1.0	Somalia	have	residents	O	LOCATION
+1.0	Abdullahi Ali Malabon	elder in	Afmadow area	PERSON	LOCATION
+1.0	100 civilian	be kill on	Al	NUMBER	ORGANIZATION
+0.5853443186950805	Qaeda	target in	region	ORGANIZATION	0

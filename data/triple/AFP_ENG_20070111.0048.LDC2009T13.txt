@@ -1,0 +1,67 @@
+0.07083908523668803	Iverson	convert	make	PERSON	0
+1.0	JR Smith	serve suspension for	he involvement in brawl against New York on December 16	PERSON	DATE
+1.0	champion	be	acquire	0	0
+1.0	four-time score champion	be acquire in	trade from Philadelphia	0	LOCATION
+1.0	Smith	look	bit	PERSON	0
+1.0	four-time champion	be acquire in	trade from Philadelphia	0	LOCATION
+1.0	four-time champion	be acquire in	trade	0	0
+1.0	Iverson	score	33 point	PERSON	NUMBER
+1.0	league	have	lead scorer	0	0
+1.0	score champion	be acquire in	trade from Philadelphia	0	LOCATION
+1.0	champion	be acquire in	trade	0	0
+1.0	JR Smith	serve suspension for	he involvement in brawl against New York	PERSON	LOCATION
+1.0	score champion	be	acquire	0	0
+1.0	score champion	be acquire in	trade	0	0
+1.0	Ginobili	drain jumper off	glass	PERSON	0
+1.0	two	steal in	32 minute	NUMBER	DURATION
+0.6614897899512966	five game	leave on	he suspension	NUMBER	0
+1.0	our	have	puzzle	O	O
+1.0	92-83	win on	Wednesday	NUMBER	DATE
+1.0	two	steal off	bench	NUMBER	0
+1.0	game	result in	loss of Carmelo Anthony	0	PERSON
+1.0	Carmelo Anthony	have	suspension	O	O
+1.0	point	steal	four	0	NUMBER
+1.0	champion	be acquire in	trade from Philadelphia	0	LOCATION
+1.0	league	have	scorer	O	O
+1.0	point	lead	seven	0	NUMBER
+1.0	26 point	assist	seven	NUMBER	NUMBER
+1.0	three-point play	make	it 88-85	0	DATE
+0.6614897899512966	five game	leave on	he 15-game suspension	NUMBER	0
+1.0	26 point	lead	seven	NUMBER	NUMBER
+1.0	Iverson	convert play with	40 seconds	PERSON	DURATION
+1.0	he involvement	be in	brawl against New York on December 16	0	DATE
+1.0	it	be	fun	0	0
+1.0	JR Smith	serve suspension for	he involvement	PERSON	0
+1.0	Ginobili	late drain	jumper	PERSON	0
+1.0	Carmelo Anthony	have	loss	O	PERSON
+1.0	JR Smith	have	involvement	O	O
+1.0	play	make	it 88-85	0	DATE
+0.7910152140392092	Parker	streak	1:31 remain	PERSON	TIME
+1.0	JR Smith	serve suspension for	he involvement in brawl	PERSON	0
+0.07083908523668803	Iverson	convert with	40 seconds	PERSON	DURATION
+1.0	16 point	steal	four	NUMBER	NUMBER
+1.0	Ginobili	drain	jumper	PERSON	0
+1.0	glass	have	drained	O	O
+1.0	JR Smith	serve	10-game suspension	PERSON	0
+1.0	Smith	look	bit rusty	PERSON	0
+1.0	JR Smith	serve	suspension	PERSON	0
+1.0	Ginobili	steal	pass	PERSON	0
+1.0	bench	have	steals	O	O
+1.0	game	also result in	loss	0	0
+1.0	four-time score champion	be	acquire	0	0
+1.0	Ginobili	late drain jumper off	glass	PERSON	0
+1.0	point	assist	seven	0	NUMBER
+1.0	Tim Duncan	collect	19 point	PERSON	NUMBER
+1.0	game	also result in	loss of Carmelo Anthony	0	PERSON
+1.0	Iverson	convert	three-point play	PERSON	0
+1.0	four-time score champion	be acquire in	trade	0	0
+1.0	his	have	game	O	O
+1.0	game	result in	loss	0	0
+1.0	four starter	be in	double figure	NUMBER	0
+1.0	Carmelo Anthony	scorer 's	league	PERSON	0
+1.0	Smith	finish with	12 point	PERSON	NUMBER
+1.0	four-time champion	be	acquire	0	0
+1.0	my	have	teammates	O	O
+1.0	92-83	win over	Denver Nuggets	NUMBER	ORGANIZATION
+1.0	Iverson	convert	play	PERSON	0
+1.0	New York	be on	December 16	LOCATION	DATE

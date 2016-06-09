@@ -1,0 +1,95 @@
+1.0	hand	be with	diplomacy	0	0
+0.5205416861437989	arm	rebel from	minority tribe in vast western province	0	0
+1.0	UN peacekeepers	have	deployment	O	O
+0.46794757358078337	au	find	way	0	0
+1.0	President Omar al-Beshir	have	government	O	PERSON
+0.5205416861437989	arm	rebel from	minority tribe	0	0
+1.0	violence	be in	Darfur	0	LOCATION
+0.14130322439590892	diplomat	underscore	UN 's determination work	0	ORGANIZATION
+1.0	United Nations	call on	government of President Omar al-Beshir	ORGANIZATION	PERSON
+0.632832863116628	arm	demand	share of resource	0	0
+1.0	government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead by Minni Minnawi	0	ORGANIZATION
+1.0	sudanese government	sign peace agreement in	May 2006	0	DATE
+1.0	sudanese government	sign peace agreement with	faction lead by Minni Minnawi	0	PERSON
+1.0	conflict	have	find	O	O
+1.0	war	be in	Darfur	0	LOCATION
+1.0	United Nations	deploy	Sudan	ORGANIZATION	LOCATION
+1.0	UN	have	determination work with au find out conflict in Darfur	ORGANIZATION	LOCATION
+0.5205416861437989	arm	rebel from	minority tribe in vast province	0	0
+1.0	government	sign peace agreement with	main faction lead	0	0
+1.0	United Nations	reach	au	ORGANIZATION	0
+1.0	Sudan Liberation Movement/Army	have	faction	O	ORGANIZATION
+1.0	bloodshed	be in	Darfur	0	LOCATION
+1.0	conflict	be in	Darfur	0	LOCATION
+1.0	government	sign peace agreement with	main faction lead by Minni Minnawi	0	PERSON
+1.0	Jan Eliasson	have	discussions	O	O
+1.0	Beshir	have	agenda	O	O
+1.0	au summit	be in	Addis Abeba later Friday to find a solution to the bloodshed in Darfur	0	LOCATION
+1.0	Ban Ki-moon	would meet in	Ethiopia	0	LOCATION
+0.14130322439590892	diplomat	underscore	UN 's determination work with au	0	ORGANIZATION
+1.0	sudanese government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead	0	ORGANIZATION
+1.0	rebel	prompt	heavy	0	0
+1.0	Ban Ki-moon	be	United Nations	PERSON	ORGANIZATION
+1.0	sudanese government	sign peace agreement with	faction of Sudan Liberation Movement/Army	0	ORGANIZATION
+0.632832863116628	arm	demand	equal share	0	0
+1.0	sudanese government	sign peace agreement with	main faction lead	0	0
+1.0	sudanese government	sign	peace agreement	0	0
+1.0	Beshir	reject	resolution	PERSON	0
+1.0	minority tribe	be in	vast western province	0	0
+1.0	government	sign peace agreement with	main faction of Sudan Liberation Movement/Army	0	ORGANIZATION
+1.0	United Nations	accept	deployment	ORGANIZATION	0
+1.0	Ban Ki-moon	be secretary general of	United Nations	PERSON	ORGANIZATION
+1.0	Jan Eliasson	say on	Tuesday	PERSON	DATE
+1.0	government	sign peace agreement with	faction	0	0
+1.0	Ban Ki-moon	would meet with	au chairman Alpha Oumar Konare	0	PERSON
+1.0	sudanese government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead	0	ORGANIZATION
+0.46794757358078337	au	find	political way	0	0
+1.0	day	have	end	DATE	DATE
+1.0	United Nations	be in	July	ORGANIZATION	DATE
+1.0	Ban Ki-moon	have	concern	O	O
+1.0	rebels from minority tribes in the vast western province	have	Janjaweed proxy militia	O	O
+1.0	government	sign peace agreement with	faction lead by Minni Minnawi	0	PERSON
+1.0	sudanese government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead by Minni Minnawi	0	ORGANIZATION
+0.14130322439590892	swedish diplomat	underscore	UN 's determination work	0	ORGANIZATION
+1.0	United Nations	call on	government	ORGANIZATION	0
+0.632832863116628	arm	demand	equal share of resource	0	0
+0.5205416861437989	arm	rebel from	minority tribe in province	0	0
+1.0	United Nations	reach	Sudan	ORGANIZATION	LOCATION
+1.0	government	sign	peace agreement	0	0
+1.0	violence	have	level	O	O
+1.0	government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead	0	ORGANIZATION
+1.0	United Nations	deploy	au	ORGANIZATION	0
+1.0	meeting	be with	Salim Ahmed Salim	0	PERSON
+1.0	sudanese government	sign peace agreement with	main faction of Sudan Liberation Movement/Army	0	ORGANIZATION
+1.0	discussions	have	objective	O	O
+0.632832863116628	arm	demand	share of national resource	0	0
+1.0	others -- including an SLA faction led by Abdel Wahid Nur , and the Justice and Equality Movement --	have	names	O	O
+1.0	swedish diplomat	underscore	UN 's determination	0	ORGANIZATION
+1.0	agenda	have	top	O	O
+0.8434355550297071	hybrid au-un	peacekeep	force	0	0
+1.0	resources	have	share	O	O
+1.0	sudanese government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead by Minni Minnawi	0	ORGANIZATION
+1.0	government	sign peace agreement with	faction of Sudan Liberation Movement/Army lead	0	ORGANIZATION
+1.0	United Nations	reach compromise agreement in	November	ORGANIZATION	DATE
+1.0	government	sign peace agreement with	main faction	0	0
+1.0	government	sign peace agreement with	faction lead	0	0
+1.0	diplomat	underscore	UN 's determination	0	ORGANIZATION
+1.0	sudanese government	sign peace agreement with	main faction lead by Minni Minnawi	0	PERSON
+1.0	sudanese government	sign peace agreement with	main faction	0	0
+1.0	hand	be in	hand with diplomacy	0	0
+1.0	sudanese government	sign peace agreement with	faction	0	0
+0.14130322439590892	swedish diplomat	underscore	UN 's determination work with au	0	ORGANIZATION
+1.0	UN	have	determination	O	ORGANIZATION
+1.0	United Nations	reach	compromise agreement	ORGANIZATION	0
+0.632832863116628	arm	demand	equal share of national resource	0	0
+1.0	Addis Abeba	be  at_time	later Friday	LOCATION	DATE
+1.0	government	sign peace agreement with	main faction of Sudan Liberation Movement/Army lead by Minni Minnawi	0	ORGANIZATION
+1.0	government	sign peace agreement in	May 2006	0	DATE
+1.0	government	sign peace agreement with	faction of Sudan Liberation Movement/Army	0	ORGANIZATION
+0.5205416861437989	arm	rebel from	minority tribe in western province	0	0
+0.632832863116628	arm	demand	share	0	0
+1.0	sudanese government	sign peace agreement with	faction lead	0	0
+1.0	other	put	they name	0	0
+1.0	United Nations	accept	deployment of 20,000 UN peacekeeper	ORGANIZATION	ORGANIZATION
+1.0	Sudan	be	Jan Eliasson	LOCATION	PERSON
+1.0	sudanese authority	be in	Khartoum	0	LOCATION

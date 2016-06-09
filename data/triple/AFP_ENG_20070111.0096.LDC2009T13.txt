@@ -1,0 +1,14 @@
+1.0	POSCO	have	Shares	O	ORGANIZATION
+1.0	POSCO	say	due to steel price	ORGANIZATION	0
+1.0	POSCO	have	quarter earnings	O	O
+1.0	company	have	efforts	O	O
+1.0	POSCO	say	due to higher steel price	ORGANIZATION	0
+1.0	POSCO	say at_time	Thursday	ORGANIZATION	DATE
+1.0	fall	be in	steel price	DATE	0
+0.6762177687693539	year	hurt by	fall	DURATION	DATE
+0.49076837790870814	operating profit	tumble	34.2 percent	0	PERCENT
+1.0	company	have	effort cut	0	0
+1.0	South Korea	have	steelmaker	O	LOCATION
+1.0	South Korea	have	lead steelmaker	LOCATION	DATE
+0.6762177687693539	year	hurt by	fall in steel price	DURATION	DATE
+1.0	POSCO	say	due	ORGANIZATION	0

@@ -1,0 +1,10 @@
+1.0	minister	say on	Friday	0	DATE
+1.0	February	be	postpone	DATE	0
+1.0	irregularities	have	charge	O	O
+0.660460668196303	authority	charge of	irregularity	0	0
+1.0	Senegal	have	polls	O	LOCATION
+1.0	authority	uphold	charge	0	0
+1.0	Senegal	have	legislative poll	LOCATION	0
+1.0	February 25	be	postpone	DATE	0
+1.0	interior minister	say on	Friday	0	DATE
+1.0	authority	uphold	charge of irregularity	0	0

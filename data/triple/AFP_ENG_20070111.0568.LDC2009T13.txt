@@ -1,0 +1,68 @@
+1.0	Tehran	accuse	enemy Washington	LOCATION	LOCATION
+1.0	US President George W. Bush	have	warning	O	PERSON
+1.0	United States	destroy	suspect iranian network	LOCATION	0
+1.0	captive	be	tie	0	0
+1.0	raiding	have	US troops	O	O
+1.0	captive	be closely tie to	activity	0	0
+1.0	US security spokesman Gordon Johndroe	decline	comment specifically	LOCATION	0
+1.0	Tehran	accuse	US troops of raiding	LOCATION	LOCATION
+1.0	building	be	consulate	0	0
+1.0	US force	arrest	six people describe by official	LOCATION	NUMBER
+1.0	Tehran	accuse	government of Kurdistan	LOCATION	LOCATION
+1.0	George W. Bush	be 's	the United States	PERSON	LOCATION
+1.0	Tehran	accuse	regional government	LOCATION	0
+0.6027337935589214	enemy Washington	violate	law	LOCATION	0
+1.0	captive	be	closely tie	0	0
+1.0	US force	arrest	six people describe	LOCATION	NUMBER
+1.0	US national security spokesman Gordon Johndroe	point in	speech late Wednesday	PERSON	DATE
+1.0	detainee	be	release	0	0
+1.0	Tehran	accuse	regional government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	Tehran	accuse	government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	captive	be	suspect	0	0
+1.0	US force	arrest	six people describe by iraqi official	LOCATION	NUMBER
+1.0	Tehran	accuse	regional government of Kurdistan	LOCATION	LOCATION
+1.0	US force	arrest	six people describe by iraqi official as staff at consulate	LOCATION	NUMBER
+1.0	Iranians	interfere with	Iraq	MISC	LOCATION
+1.0	captive	be tie to	activity	0	0
+1.0	White House	be on	Thursday	ORGANIZATION	DATE
+1.0	US force	arrest	six people describe by official as staff	LOCATION	NUMBER
+1.0	US national security spokesman Gordon Johndroe	point in	speech Wednesday	PERSON	DATE
+1.0	White House	defend	US raid	ORGANIZATION	LOCATION
+1.0	George W. Bush	to	warning	PERSON	0
+1.0	Tehran	accuse	government	LOCATION	0
+1.0	US force	arrest	six people describe by iraqi official as staff	LOCATION	NUMBER
+1.0	US force	arrest	six people describe as staff	LOCATION	NUMBER
+1.0	Iraq	among	neighbor	LOCATION	0
+1.0	US national security spokesman Gordon Johndroe	decline	comment	LOCATION	0
+1.0	Tehran	demand	government of Kurdistan	LOCATION	LOCATION
+1.0	Tehran	condemn	operation	LOCATION	0
+1.0	US national security spokesman Gordon Johndroe	point in	speech	PERSON	0
+1.0	US security spokesman Gordon Johndroe	decline	comment	LOCATION	0
+1.0	Tehran	demand	regional government of Kurdistan	LOCATION	LOCATION
+1.0	US force	arrest	six people	LOCATION	NUMBER
+1.0	George W. Bush	be president of	the United States	PERSON	LOCATION
+0.6027337935589214	arch enemy Washington	violate	law	LOCATION	0
+1.0	Iraq	have	neighbors	O	LOCATION
+1.0	Tehran	demand	regional government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	US force	arrest	six people describe by official as staff at iranian consulate	LOCATION	NUMBER
+1.0	US force	arrest	six people describe as staff at consulate	LOCATION	NUMBER
+1.0	Tehran	demand	regional government	LOCATION	0
+1.0	US force	arrest	six people describe as staff at iranian consulate	LOCATION	NUMBER
+1.0	Gordon Johndroe	be	the United States	PERSON	LOCATION
+1.0	US national security spokesman Gordon Johndroe	point to	US President George W. Bush 's warning	PERSON	LOCATION
+0.6027337935589214	enemy Washington	violate	international law	LOCATION	0
+1.0	Pentagon spokesman	deny in	Washington	ORGANIZATION	LOCATION
+1.0	US force	arrest	six people describe by official as staff at consulate	LOCATION	NUMBER
+1.0	Tehran	accuse	arch enemy Washington	LOCATION	LOCATION
+0.6027337935589214	arch enemy Washington	violate	international law	LOCATION	0
+1.0	US force	arrest	six people describe by iraqi official as staff at iranian consulate	LOCATION	NUMBER
+1.0	US national security spokesman Gordon Johndroe	decline	comment specifically	LOCATION	0
+1.0	United States	have make	it clear	LOCATION	0
+1.0	Tehran	demand	government of iraqi Kurdistan	LOCATION	LOCATION
+1.0	White House	unapologetically defend	US raid	ORGANIZATION	LOCATION
+1.0	Kurdistan	have	government	O	LOCATION
+1.0	Tehran	angrily condemn	operation	LOCATION	0
+1.0	Arbil	have	city	O	LOCATION
+1.0	United States	destroy	iranian network	LOCATION	0
+1.0	Tehran	demand	government	LOCATION	0
+1.0	Tehran	accuse	US troops	LOCATION	LOCATION

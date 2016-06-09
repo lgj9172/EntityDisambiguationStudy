@@ -1,0 +1,125 @@
+1.0	US allies	have	one	NUMBER	O
+1.0	Iran	have strongly condemn	action	LOCATION	0
+1.0	government	have	approval	O	O
+1.0	regional government	one of	staunchest US ally	0	LOCATION
+1.0	statement	describe	five Iranians arrest as diplomat	0	NUMBER
+1.0	kurdish administration	demand	release of prisoner take	0	0
+1.0	leader	brand	even Moscow	0	LOCATION
+1.0	he	tell	AFP	0	ORGANIZATION
+1.0	night-time swoop	trigger	criticism	0	0
+1.0	we	open	consulate in Arbil	0	LOCATION
+1.0	iranian flag	abandon	premise	0	0
+1.0	commando	throw grenade in	show of force	0	0
+1.0	work	have	nature	O	O
+1.0	witness	describe	operation	0	0
+1.0	flag	abandon	premise	0	0
+1.0	criticism	come from	Moscow	0	LOCATION
+1.0	Iran	have condemn action by	US force	LOCATION	LOCATION
+1.0	building	metre from	Kurdistan administration	0	LOCATION
+1.0	latest criticism	however come from	Moscow	0	LOCATION
+1.0	russian ministry spokesman Mikhail Kamynin	say in	statement	PERSON	0
+1.0	Thursday	have	hours	DATE	DATE
+1.0	we	have already agree with	Iranians	0	MISC
+1.0	employee	be in	its custody	0	0
+1.0	Iraq	have	Foreign Minister Hoshyar Zebari	PERSON	LOCATION
+1.0	commando	throw	grenade	0	0
+1.0	kurdish leader	brand	raid unacceptable	0	0
+1.0	iranian office	be in	Iraq	0	LOCATION
+1.0	Iran	have strongly condemn action by	US force	LOCATION	LOCATION
+1.0	work	have	place	O	O
+1.0	prisoners	have	release	O	O
+1.0	George W. Bush	be by	US	PERSON	LOCATION
+1.0	force	have	show	O	O
+1.0	warning	have	heels	O	O
+1.0	Mikhail Kamynin	be	russian	PERSON	0
+1.0	statement	be direct against	iranian consulate	0	0
+1.0	Vienna convention	have	violation	O	O
+1.0	US President George W. Bush	incite	anti-american attack	0	0
+1.0	foreign ministry spokesman Mikhail Kamynin	say in	statement	PERSON	0
+1.0	statement	describe	five Iranians arrest	0	NUMBER
+1.0	liason office	detain	six iranian employee	DATE	NUMBER
+1.0	we	submit	information available to we	0	0
+1.0	Hoshyar Zebari	be foreign minister of	Iraq	PERSON	LOCATION
+1.0	100 metre	be in	Arbil	NUMBER	LOCATION
+1.0	ministry spokesman Mikhail Kamynin	say in	statement	PERSON	0
+1.0	Arbil	in metre be	yard	LOCATION	0
+1.0	ministry spokesman Mikhail Kamynin	say at_time	Friday	PERSON	DATE
+1.0	administration	also condemn	raid	0	0
+1.0	Tehran	have	agents	O	LOCATION
+1.0	leader	brand	raid unacceptable	0	0
+1.0	anonymity	have	condition	O	O
+1.0	liason office	detain	six employee	DATE	NUMBER
+1.0	Fuad Hussein	official in	kurdish presidency	PERSON	0
+1.0	US grenade	shatter	window of building	LOCATION	0
+1.0	it	be	liaison office	0	0
+0.6930205168816385	US grenade	window of	two-storey building	LOCATION	0
+1.0	leader	brand	Moscow	0	LOCATION
+1.0	their	have	work	O	O
+1.0	russian foreign ministry spokesman Mikhail Kamynin	say in	statement	PERSON	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	US President George W. Bush	incite	attack	0	0
+1.0	we	submit	information available to we on nature of they work	0	0
+1.0	US grenade	shatter	window of two-storey building	LOCATION	0
+1.0	iranian liason office	detain	six iranian employee	DATE	NUMBER
+1.0	US troops	drop in	hour	LOCATION	0
+1.0	its	have	custody	O	O
+1.0	five employee	be in	its custody	NUMBER	0
+1.0	kurdish administration	condemn	raid	0	0
+1.0	swoop	trigger criticism at_time	Friday	0	DATE
+1.0	statement	be direct against	consulate	0	0
+1.0	swoop	trigger	criticism	0	0
+1.0	criticism	however come from	Moscow	0	LOCATION
+1.0	senior official	be in	kurdish presidency	0	0
+0.5936798645302545	five Iranians	arrest as	diplomat	NUMBER	0
+1.0	russian foreign ministry spokesman Mikhail Kamynin	say at_time	Friday	PERSON	DATE
+1.0	information	available to	we on nature of they work	0	0
+1.0	night-time swoop	trigger criticism at_time	Friday	0	DATE
+1.0	kurdish witness	describe	operation	0	0
+1.0	administration	demand	immediate release of prisoner take	0	0
+1.0	building	have	windows	O	O
+1.0	we	open consulate in	return	0	0
+1.0	commando	throw	stun grenade	0	0
+1.0	US grenade	shatter window as	troops	LOCATION	0
+1.0	administration	condemn	raid	0	0
+1.0	statement	be direct against	iranian consulate general	0	0
+1.0	opening	consulate in	Mashhad	0	LOCATION
+1.0	russian ministry spokesman Mikhail Kamynin	say at_time	Friday	PERSON	DATE
+1.0	statement	be	direct	0	0
+1.0	people	have	one	NUMBER	O
+1.0	statement	refer to	raid	0	0
+1.0	we	contact	US embassy	0	LOCATION
+1.0	iranian government building	be in	downtown Arbil	0	LOCATION
+1.0	kurdish administration	demand	immediate release of prisoner take	0	0
+1.0	Iraq	have	Hoshyar Zebari	LOCATION	PERSON
+1.0	downtown Arbil	capital of	northern iraqi Kurdistan region	LOCATION	LOCATION
+1.0	regional government	one in	Middle East	0	LOCATION
+1.0	kurdish force	be in	armed stand-off	0	0
+1.0	administration	demand	release of prisoner take	0	0
+1.0	Iran	have condemn	action	LOCATION	0
+1.0	commando	throw grenade in	show	0	0
+1.0	latest criticism	come from	Moscow	0	LOCATION
+0.6930205168816385	US grenade	window of	building	LOCATION	0
+1.0	we	open	consulate	0	0
+1.0	information	available to	we	0	0
+1.0	US troops	drop in	early hour	LOCATION	DATE
+1.0	we	submit	information available	0	0
+1.0	foreign ministry spokesman Mikhail Kamynin	say at_time	Friday	PERSON	DATE
+1.0	night-time swoop	trigger	strong criticism	0	0
+1.0	swoop	trigger	strong criticism	0	0
+1.0	statement	describe	five Iranians	0	NUMBER
+1.0	US grenade	shatter	window	LOCATION	0
+1.0	kurdish leader	brand	even Moscow	0	LOCATION
+1.0	information	available to	we on nature	0	0
+1.0	building	metre in	Arbil	0	LOCATION
+1.0	we	have agree with	Iranians	0	MISC
+1.0	Kurdistan region	have	capital	O	O
+1.0	kurdish administration	also condemn	raid	0	0
+1.0	Kurdistan administration	from metre be	yard	LOCATION	0
+1.0	US troops	drop in	early hour of Thursday	LOCATION	DATE
+1.0	raid	initially be claim in	Tehran 's	0	LOCATION
+1.0	we	submit	information available to we on nature	0	0
+1.0	US troops	drop in	hour of Thursday	LOCATION	DATE
+1.0	kurdish leader	brand	Moscow	0	LOCATION
+1.0	iranian liason office	detain	six employee	DATE	NUMBER
+1.0	consulate	be in	Arbil	0	LOCATION
+1.0	statement	be direct against	consulate general	0	0

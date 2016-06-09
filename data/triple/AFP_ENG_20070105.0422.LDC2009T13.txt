@@ -1,0 +1,47 @@
+1.0	Gutierrez	tell	reporter	PERSON	0
+1.0	his	have	brother Raul	PERSON	O
+1.0	Raul Castro	now call with	United States	PERSON	LOCATION
+1.0	Cuba 's communist government	again nix engagement with	leader Raul Castro	LOCATION	PERSON
+1.0	Cuba 's government	embrace	political reform	LOCATION	0
+1.0	Cuba 's communist government	again nix engagement with	interim leader Raul Castro	LOCATION	PERSON
+1.0	we law	be	clear	0	0
+1.0	Cuba 's government	nix engagement with	interim leader Raul Castro	LOCATION	PERSON
+1.0	state	have	helm	O	O
+1.0	Gutierrez	tell reporter at	US Chamber	PERSON	ORGANIZATION
+1.0	our	have	policy	O	O
+1.0	Fidel Castro	have	leadership	PERSON	0
+1.0	Gutierrez	tell reporter after	speech	PERSON	0
+1.0	Cuba 's government	nix	engagement	LOCATION	0
+1.0	regime	outlive	Fidel Castro 's leadership	0	PERSON
+1.0	we policy	be	very clear	0	0
+1.0	Cuba 's government	again nix engagement with	interim leader Raul Castro	LOCATION	PERSON
+1.0	Our	have	policy	O	O
+1.0	Raul Castro	now call for	dialogue	PERSON	0
+1.0	Cuba 's government	nix engagement with	leader Raul Castro	LOCATION	PERSON
+1.0	Cuba 's government	embrace	reform	LOCATION	0
+1.0	we law	be	very clear	0	0
+1.0	Cuba 's communist government	nix	engagement	LOCATION	0
+1.0	Fidel Castro	be	80	PERSON	NUMBER
+1.0	United States	urge	Cuba 's communist government	LOCATION	LOCATION
+1.0	Our	have	law	O	O
+1.0	United States	urge	Cuba 's government	LOCATION	LOCATION
+1.0	Cuba	have	government	O	LOCATION
+1.0	Commerce	have	US Chamber	ORGANIZATION	ORGANIZATION
+1.0	United States	be on	Friday	LOCATION	DATE
+1.0	Raul Castro	call with	United States	PERSON	LOCATION
+1.0	Cuba 's communist government	nix engagement with	leader Raul Castro	LOCATION	PERSON
+1.0	Americas	have	state	O	LOCATION
+1.0	Cuba 's communist government	nix engagement with	interim leader Raul Castro	LOCATION	PERSON
+1.0	Raul Castro	call for	dialogue	PERSON	0
+1.0	he	raul	75	0	NUMBER
+1.0	Cuba 's communist government	embrace	reform	LOCATION	0
+1.0	Cuba 's communist government	again nix	engagement	LOCATION	0
+1.0	communist regime	outlive	Fidel Castro 's leadership	0	PERSON
+1.0	Fidel Castro	have	leadership	O	PERSON
+1.0	Cuba	have	communist government	LOCATION	0
+1.0	Gutierrez	tell reporter at	US Chamber of Commerce	PERSON	ORGANIZATION
+1.0	prisoners	have	release	O	O
+1.0	we policy	be	clear	0	0
+1.0	Cuba 's government	again nix	engagement	LOCATION	0
+1.0	Cuba 's government	again nix engagement with	leader Raul Castro	LOCATION	PERSON
+1.0	Cuba 's communist government	embrace	political reform	LOCATION	0

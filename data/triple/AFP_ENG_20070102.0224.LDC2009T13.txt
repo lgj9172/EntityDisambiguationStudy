@@ -1,0 +1,37 @@
+1.0	France	have	Vincent Vittoz	PERSON	LOCATION
+0.6737934993399767	half	be in	classic of Legkov with Angerer	0	PERSON
+1.0	World pursuit champion	be in	2005	0	DATE
+0.6737934993399767	half	be in	classic 0.9 sec ahead of Legkov with Angerer	0	DURATION
+1.0	Germany	have	Alexander Legkov	PERSON	LOCATION
+1.0	frenchman	finish ahead of	Alexander Legkov	0	PERSON
+1.0	France	have	Vincent Vittoz	LOCATION	PERSON
+0.6737934993399767	half	be in	classic	0	0
+0.6737934993399767	half	be in	classic with Angerer	0	PERSON
+1.0	Norways	have	Simen Oestensen	PERSON	O
+1.0	Vittoz	time	50 minute	PERSON	DURATION
+1.0	Tobias Angerer	have	finished	O	PERSON
+0.6737934993399767	half	be in	classic just 0.9 sec ahead of Legkov with Angerer	0	DURATION
+0.6737934993399767	half	be in	classic 0.9 sec ahead of Legkov	0	DURATION
+1.0	frenchman	finish of	russian Alexander Legkov	0	PERSON
+1.0	men	have	country pursuit race	O	O
+1.0	Tour Ski	have	stage	O	MISC
+1.0	Alexander Legkov	be of	Germany	PERSON	LOCATION
+1.0	frenchman	finish of	russian Alexander Legkov of Germany	0	LOCATION
+1.0	Alexander Legkov	be of	russian	PERSON	0
+1.0	frenchman	finish ahead of	russian Alexander Legkov of Germany	0	LOCATION
+1.0	Alexander Legkov	have	finished	O	PERSON
+0.6737934993399767	half	be in	classic ahead of Legkov	0	PERSON
+1.0	Tuesday the second	stage of	Tour de Ski	DATE	MISC
+1.0	second place	be in	Tour de Ski	DURATION	MISC
+1.0	frenchman	finish ahead of	russian Alexander Legkov	0	PERSON
+1.0	half	be in	freestyle	0	0
+0.6737934993399767	half	be in	classic ahead of Legkov with Angerer	0	PERSON
+0.6737934993399767	half	be in	classic just 0.9 sec ahead of Legkov	0	DURATION
+0.6737934993399767	half	be in	classic of Legkov	0	PERSON
+1.0	frenchman	finish of	Alexander Legkov of Germany	0	LOCATION
+1.0	France 's Vincent Vittoz	win	man 's country pursuit race	LOCATION	0
+1.0	frenchman	finish of	Alexander Legkov	0	PERSON
+1.0	Legkov	have	classic	O	PERSON
+1.0	man	have	cross country pursuit race	0	0
+1.0	France 's Vincent Vittoz	win	man 's cross country pursuit race	LOCATION	0
+1.0	frenchman	finish ahead of	Alexander Legkov of Germany	0	LOCATION

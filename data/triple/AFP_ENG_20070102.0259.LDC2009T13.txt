@@ -1,0 +1,34 @@
+1.0	french legend Michel Platini	be challenge	Johansson for powerful position	PERSON	PERSON
+1.0	vote	will	will decide by representative of 52 football federation	0	NUMBER
+1.0	election	have	outcome	O	O
+1.0	he post	come for	election	0	0
+1.0	UEFA	have	weight	O	ORGANIZATION
+1.0	legend Michel Platini	be challenge johansson with	election	PERSON	0
+1.0	legend Michel Platini	be challenge	Johansson	PERSON	PERSON
+1.0	french legend Michel Platini	be challenge johansson with	election	PERSON	0
+1.0	UEFA	outcome of	election	ORGANIZATION	0
+1.0	vote	will	will decide by representative	0	0
+1.0	Michel Platini	be	french	PERSON	0
+1.0	Theo Zwanziger	be	dfb	PERSON	0
+1.0	vote	will	will decide by representative of 52 european football federation	0	NUMBER
+1.0	Lennart Johansson	be	current	PERSON	DATE
+1.0	legend Michel Platini	be challenge	Johansson for position	PERSON	PERSON
+1.0	UEFA	be confront by	division	ORGANIZATION	0
+1.0	UEFA	be	still confront	ORGANIZATION	0
+1.0	Theo Zwanziger	be president of	dfb	PERSON	0
+1.0	talk	be with	European Union	0	LOCATION
+1.0	french legend Michel Platini	be challenge	Johansson	PERSON	PERSON
+1.0	Lennart Johansson	be president of	UEFA	PERSON	ORGANIZATION
+1.0	french legend Michel Platini	be challenge	Johansson for position	PERSON	PERSON
+1.0	legend Michel Platini	be challenge	Johansson for powerful position	PERSON	PERSON
+1.0	UEFA	still be confront by	division	ORGANIZATION	0
+1.0	UEFA	be	confront	ORGANIZATION	0
+1.0	dfb president Theo Zwanziger	say to	bi-weekly football magazine kicker	PERSON	SET
+1.0	dfb president Theo Zwanziger	say to	football magazine kicker	PERSON	0
+1.0	his	have	post	O	O
+1.0	legend Michel Platini	be challenge johansson with	election due on January 26	PERSON	DATE
+1.0	Lennart Johansson	be	UEFA	PERSON	ORGANIZATION
+1.0	vote	will	will decide	0	0
+1.0	football federations	have	representatives	O	O
+1.0	dfb president Theo Zwanziger	say in	statement	PERSON	0
+1.0	french legend Michel Platini	be challenge johansson with	election due on January 26	PERSON	DATE

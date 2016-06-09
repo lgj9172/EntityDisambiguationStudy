@@ -1,0 +1,61 @@
+1.0	capital	have	movement	O	O
+1.0	Association meeting	be	postpone amid warning by foreign government	ORGANIZATION	0
+1.0	weather	be	blame	0	0
+1.0	Association meeting	be	postpone amid warning by government of terror strike	ORGANIZATION	ORGANIZATION
+1.0	bloc	will also sign	blueprint of its charter	0	0
+1.0	Association meeting	be	postpone	ORGANIZATION	0
+1.0	declaration	will	will sign	0	0
+1.0	asian leader	open	they annual summit	0	SET
+1.0	charter	have	blueprint	O	O
+1.0	population	have	one-sixth	ORDINAL	O
+1.0	leader	open	they summit	0	0
+1.0	bloc	will also sign	blueprint aim	0	0
+1.0	european union-style legal entity	be with	binding rule	0	0
+1.0	Association meeting	be postpone by	government	ORGANIZATION	0
+1.0	three bombing	be in	southern island of Mindanao week	NUMBER	DATE
+1.0	declaration	protect	region 's army of worker	0	0
+1.0	southeast asian leader	open	they summit	0	0
+1.0	southeast asian leader	open	they annual summit	0	SET
+1.0	terror strike	have	governments	O	O
+1.0	investment	have	movement	O	O
+1.0	Association meeting	be	postpone amid warning by government	ORGANIZATION	0
+1.0	world	have	population	O	O
+1.0	Association meeting	be postpone by	government of terror strike	ORGANIZATION	ORGANIZATION
+1.0	Southeast Asian Nations	have	Association	ORGANIZATION	ORGANIZATION
+1.0	Association meeting	be	postpone amid warning by foreign government of terror strike	ORGANIZATION	ORGANIZATION
+1.0	bloc	will sign	blueprint aim	0	0
+1.0	the bloc	track	suspect	0	0
+1.0	Association meeting	be postpone by	foreign government of terror strike	ORGANIZATION	ORGANIZATION
+1.0	region	have	army of migrant worker	0	0
+1.0	bloc	will sign	blueprint of its first-ever charter aim	0	0
+1.0	goods	have	movement	O	O
+1.0	Association of Southeast Asian Nations	of association be	ASEAN	ORGANIZATION	ORGANIZATION
+1.0	bloc	will also sign	blueprint of its charter aim	0	0
+1.0	bloc	will also sign	blueprint	0	0
+1.0	asian leader	open	they summit	0	0
+1.0	declaration	protect	region 's army of migrant worker	0	0
+1.0	the bloc	have	charter	O	O
+1.0	bloc	do	business	0	0
+1.0	leader	open	they annual summit	0	SET
+1.0	bloc	will sign	blueprint of its first-ever charter	0	0
+1.0	region	have	army	O	O
+1.0	Mindanao	have	island	O	LOCATION
+1.0	Association meeting	be postpone amid	warning	ORGANIZATION	0
+1.0	bloc	will sign	blueprint of its charter	0	0
+0.90151347785178	seven people	bombing in	southern island of Mindanao week	NUMBER	DATE
+1.0	world	of	population	0	0
+1.0	exploitation	have	risks	O	O
+1.0	Cebu	have	island	O	LOCATION
+1.0	abuse	have	risks	O	O
+1.0	Association meeting	be postpone by	foreign government	ORGANIZATION	0
+1.0	bad weather	be	blame	0	0
+1.0	bloc	will also sign	blueprint of its first-ever charter	0	0
+1.0	security	remain	concern	0	0
+1.0	summit site	be in	separate island of Cebu	0	LOCATION
+1.0	bloc	will sign	blueprint	0	0
+1.0	declaration	protect	region 's army	0	0
+1.0	Southeast Asian leaders	have	summit	O	O
+1.0	services	have	movement	O	O
+1.0	bloc	will sign	blueprint of its charter aim	0	0
+1.0	workers	have	army	O	O
+1.0	bloc	will also sign	blueprint of its first-ever charter aim	0	0

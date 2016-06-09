@@ -1,0 +1,45 @@
+1.0	members of the Catholic priesthood	have	duties	O	O
+1.0	Judge John Heyburn	allow	suit	PERSON	0
+1.0	the Vatican over priests molesting young victims	have	control	O	LOCATION
+0.32468555244207997	member	be	consider	0	0
+1.0	cover-up	be orchestrate by	Vatican	0	LOCATION
+1.0	Roman Catholic church	have	seat	O	O
+1.0	part of their official duties	have	priests	O	O
+0.32468555244207997	member	be consider under	control of Vatican	0	LOCATION
+0.5995939190951534	church	force	resignation of top bishop	0	0
+1.0	abuse	have	cases	O	O
+0.5995939190951534	church	force	resignation of bishop	0	0
+1.0	priests	have	some	O	O
+1.0	clergy	surface since	1990s thousand	0	DATE
+0.6163833618669883	crime	commit by	some its priest	0	0
+1.0	member	be consider employee under	control	0	0
+1.0	Catholic priesthood	have	members	O	O
+1.0	clergy	surface since	1990s thousand of case	0	DATE
+0.5995939190951534	church	force resignation to	victim	0	0
+0.5995939190951534	church	force	resignation of several top bishop	0	0
+1.0	bishops	have	resignation	O	O
+1.0	duties	have	part	O	O
+0.6163833618669883	crime	commit by	some	0	0
+1.0	accuser	will have	prove	0	0
+0.32468555244207997	member	be consider under	control	0	0
+1.0	Judge John Heyburn	allow suit in	Louisville Kentucky	PERSON	LOCATION
+1.0	clergy	surface since	1990s thousand of case of abuse	0	DATE
+0.33669769426858	Judge John Heyburn	allow in	Louisville Kentucky	PERSON	LOCATION
+1.0	cover-up	be	orchestrate	0	0
+1.0	court official	say at_time	Friday	0	DATE
+0.5995939190951534	church	force	resignation of several bishop	0	0
+1.0	member	be consider employee under	control of Vatican	0	LOCATION
+0.5995939190951534	church	force	resignation	0	0
+1.0	priests	have	victims	O	O
+1.0	damage payouts	have	resignation	O	O
+1.0	Judge John Heyburn	allow	suit proceed	PERSON	0
+1.0	case	go to	trial	0	0
+1.0	members of the Catholic priesthood	have	actions	O	O
+1.0	Judge John Heyburn	rule in	he decision	PERSON	0
+0.6163833618669883	crime	commit against	child	0	0
+1.0	the seat of the Roman Catholic church	have	priests	O	O
+1.0	Judge John Heyburn	have	decision	O	O
+1.0	Judge John Heyburn	rule at_time	Thursday	PERSON	DATE
+1.0	clergy	surface since	1990s thousand of case of abuse by Catholic	0	DATE
+1.0	member	be consider	employee	0	0
+1.0	cases	have	thousands	O	O

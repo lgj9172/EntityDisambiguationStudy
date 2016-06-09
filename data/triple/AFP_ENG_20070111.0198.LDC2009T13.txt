@@ -1,0 +1,137 @@
+1.0	investor focus	be on	in Europe interest rate decision	0	LOCATION
+1.0	group	have	prospects	0	0
+0.10229525773632098	company	post	stronger-than expect	0	0
+1.0	dealer	say after	gain on Wall Street	0	LOCATION
+1.0	Metro share	jump	1.31 percent	ORGANIZATION	PERCENT
+1.0	equity	be	boost	0	0
+1.0	key investor focus	be on	in Europe on Thursday interest rate decision from european Central Bank	0	ORGANIZATION
+1.0	key investor focus	be on	interest rate decision from Central Bank	0	ORGANIZATION
+0.164266332496663	Metro share	jump to	50.30 euro	ORGANIZATION	MONEY
+0.164266332496663	Deutsche Boerse share	back jump to	149 euro	ORGANIZATION	MONEY
+0.10229525773632098	leading german company	post	stronger-than expect	0	0
+1.0	Dow Jones Industrial Average	rise	0.21 percent	MISC	PERCENT
+0.585844376396279	stock market regulator	oversee	european Euronext stock market	0	ORGANIZATION
+1.0	Dow Jones Industrial Average	close at	12,442.16 point	MISC	NUMBER
+1.0	European Central Bank	increase	its target price	ORGANIZATION	0
+0.10229525773632098	german company	post	stronger-than expect	0	0
+1.0	sharp drop	be in	crude oil price	0	0
+1.0	key investor focus	be on	interest rate decision from european Central Bank	0	ORGANIZATION
+1.0	broad-market Standard	add	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	Paris CAC 40	win	0.79 percent	LOCATION	PERCENT
+1.0	german retail company	post	stronger-than	0	0
+1.0	results	have	out fizzled	O	O
+1.0	investor focus	be on	in Europe interest rate decision from european Central Bank	0	ORGANIZATION
+1.0	Tokyo	have	nikkei-225 index of lead share	LOCATION	0
+0.7603806595184428	skittishness	go into	heart of corporate earnings season	0	0
+0.28627611980559997	Dow Jones Industrial Average	rise in	US deal	MISC	LOCATION
+1.0	dealer	say after	modest overnight gain on Wall Street	0	LOCATION
+1.0	key investor focus	be on	in Europe on Thursday interest rate decision from Central Bank	0	ORGANIZATION
+1.0	Europe	be on	Thursday	LOCATION	DATE
+1.0	dealer	say after	overnight gain	0	TIME
+1.0	London	have	FTSE index	O	LOCATION
+1.0	England	have	interest rate decisions	O	ORGANIZATION
+1.0	eurozone chip shares	have	DJ Euro Stoxx	MISC	O
+1.0	european equity	be	also boost	0	0
+1.0	Tokyo 's nikkei-225 index	drop	0.62 percent	LOCATION	PERCENT
+1.0	stock market	advance before	european interest rate decision	0	0
+1.0	Deutsche Boerse share	jump	5.46 percent	ORGANIZATION	PERCENT
+1.0	Hong Kong	have	Hang Seng Index	MISC	LOCATION
+1.0	stock market regulator	say on	Thursday	0	DATE
+1.0	dealer	say after	overnight gain on Wall Street	0	LOCATION
+1.0	dealer	say after	modest overnight gain	0	TIME
+0.164266332496663	Deutsche Boerse share	jump to	149 euro	ORGANIZATION	MONEY
+1.0	interest rate	be	crucial	0	0
+1.0	Poor	have	index	O	ORGANIZATION
+1.0	European Central Bank	have	target price	O	O
+1.0	London	have	ftse 100 index of lead share	LOCATION	NUMBER
+0.28627611980559997	Dow Jones Industrial Average	rise in	US deal on Wednesday	MISC	LOCATION
+1.0	dealer	say after	gain	0	0
+1.0	european stock market	advance before	key interest rate decision	0	0
+0.10229525773632098	leading retail company	post	stronger-than expect	0	0
+1.0	leading german company	post	stronger-than	0	0
+1.0	german company	post	stronger-than	0	0
+1.0	DAX index	add	0.70 percent	MISC	PERCENT
+1.0	drop	offset	skittishness	0	0
+1.0	Nasdaq composite	increase	0.63 percent	MISC	PERCENT
+1.0	stock market	be in	Paris	0	LOCATION
+0.06221292408889589	DAX 30 index	add to	6,612.83 point	NUMBER	NUMBER
+1.0	key investor focus	be on	in Europe on Thursday interest rate decision	0	LOCATION
+1.0	stock market	advance before	key interest rate decision	0	0
+1.0	Deutsche Boerse share	back jump	5.46 percent	ORGANIZATION	PERCENT
+1.0	investor focus	be on	in Europe on Thursday interest rate decision from european Central Bank	0	ORGANIZATION
+1.0	dealer	say after	modest gain	0	0
+1.0	euro	stand at	1.2970 dollar	0	MONEY
+1.0	drop	offset	skittishness go into heart of corporate earnings season	0	0
+1.0	European Euronext	comprise	stock market	ORGANIZATION	0
+1.0	group	have	prospects	O	O
+0.585844376396279	stock market regulator	oversee	Euronext stock market	0	ORGANIZATION
+1.0	ITV	top	ftse 100 leaderboard	ORGANIZATION	NUMBER
+1.0	interest rate decision	be in	Europe	0	LOCATION
+1.0	sharp drop	offset	skittishness go into heart of corporate earnings season	0	0
+1.0	stock market	advance before	key european interest rate decision	0	0
+1.0	DAX 30 index	add	0.70 percent	NUMBER	PERCENT
+1.0	investor focus	be on	in Europe on Thursday interest rate decision	0	LOCATION
+1.0	key investor focus	be on	interest rate decision	0	0
+1.0	european stock market	advance on	Thursday	0	DATE
+1.0	european stock market	advance before	interest rate decision	0	0
+1.0	European Euronext	comprise	stock market in Paris	ORGANIZATION	LOCATION
+1.0	investor focus	be on	interest rate decision from european Central Bank	0	ORGANIZATION
+1.0	European Central Bank	raise	its stance	ORGANIZATION	0
+1.0	european stock market	advance before	european interest rate decision	0	0
+1.0	company	post	stronger-than	0	0
+0.10229525773632098	leading company	post	stronger-than expect	0	0
+1.0	investor focus	be on	interest rate decision from Central Bank	0	ORGANIZATION
+1.0	oil prices	have	fall	DATE	O
+1.0	leading german retail company	post	stronger-than	0	0
+1.0	dealer	say after	modest gain on Wall Street	0	LOCATION
+1.0	ITV	top	up 2.57 percent	ORGANIZATION	PERCENT
+1.0	leading company	post	stronger-than	0	0
+1.0	key investor focus	be on	in Europe interest rate decision from european Central Bank	0	ORGANIZATION
+0.06221292408889589	DAX 30 index	add in	Frankfurt	NUMBER	LOCATION
+1.0	broad-market Standard	add	Poor 's index	ORGANIZATION	ORGANIZATION
+0.10229525773632098	retail company	post	stronger-than expect	0	0
+0.335545539246895	Euronext share	soar in	Paris deal	ORGANIZATION	LOCATION
+0.06221292408889589	DAX index	add to	6,612.83 point	MISC	NUMBER
+1.0	key investor focus	be on	in Europe interest rate decision from Central Bank	0	ORGANIZATION
+1.0	drop	offset	skittishness go into heart	0	0
+1.0	Standard and Poor	have	500 index	ORGANIZATION	NUMBER
+1.0	equity	be	also boost	0	0
+1.0	european equity	be	boost	0	0
+1.0	retail company	post	stronger-than	0	0
+1.0	Euronext share	soar	2.85 percent	ORGANIZATION	PERCENT
+1.0	companies	affect	they borrowing repayment	0	0
+1.0	leading retail company	post	stronger-than	0	0
+0.7603806595184428	skittishness	go into	heart	0	0
+0.06221292408889589	DAX index	add in	Frankfurt	MISC	LOCATION
+0.10229525773632098	german retail company	post	stronger-than expect	0	0
+1.0	Tokyo	have	Nikkei-225 index	O	LOCATION
+1.0	european stock market	advance before	key european interest rate decision	0	0
+0.164266332496663	Metro share	jump in	Frankfurt	ORGANIZATION	LOCATION
+1.0	investor focus	be on	in Europe interest rate decision from Central Bank	0	ORGANIZATION
+1.0	earnings season	have	heart	O	O
+1.0	key investor focus	be on	in Europe interest rate decision	0	LOCATION
+1.0	interest rate	be crucial for	company	0	0
+1.0	stock market	advance before	interest rate decision	0	0
+0.335545539246895	Euronext share	soar to	97.6 euro	ORGANIZATION	MONEY
+1.0	Paris CAC	win	0.79 percent	LOCATION	PERCENT
+1.0	drop	offset	skittishness go	0	0
+0.06221292408889589	broad-market Standard	add	Poor 's 500 index	ORGANIZATION	NUMBER
+1.0	investor focus	be on	in Europe on Thursday interest rate decision from Central Bank	0	ORGANIZATION
+1.0	sharp drop	offset	skittishness go	0	0
+0.06221292408889589	broad-market Standard	add	Poor 's index	ORGANIZATION	ORGANIZATION
+1.0	shares	have	FTSE index	O	O
+1.0	sharp drop	offset	skittishness go into heart of earnings season	0	0
+0.10229525773632098	leading german retail company	post	stronger-than expect	0	0
+1.0	companies	have	borrowing repayments	O	O
+1.0	sharp drop	offset	skittishness	0	0
+1.0	sharp drop	offset	skittishness go into heart	0	0
+1.0	interest rate decision	have	out fizzled	O	O
+1.0	stock market	advance on	Thursday	0	DATE
+1.0	drop	offset	skittishness go into heart of earnings season	0	0
+1.0	European Central Bank	have	stance	O	O
+1.0	shares	have	Nikkei-225 index	O	O
+0.5523366655289409	effect	reduce	company cost	0	0
+1.0	investor focus	be on	interest rate decision	0	0
+0.7603806595184428	skittishness	go into	heart of earnings season	0	0
+1.0	stock market regulator	meanwhile say on	Thursday	0	DATE
+1.0	European Euronext	comprise stock market in	London 's	ORGANIZATION	LOCATION

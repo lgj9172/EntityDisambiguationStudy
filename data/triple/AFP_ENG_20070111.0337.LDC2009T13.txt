@@ -1,0 +1,55 @@
+1.0	largest opposition bloc	dominate by	Mubarak 's party	0	PERSON
+0.8032640221154881	ban	formation of	party	0	0
+1.0	country	have	main opposition bloc	0	0
+1.0	the weekly Al-Osboa	underline danger in	interview	0	0
+1.0	Islamists	make	implicit reference	MISC	0
+1.0	opposition bloc	dominate by	Mubarak 's party	0	PERSON
+1.0	Egyptian President Hosni Mubarak on Thursday	have	party	O	PERSON
+1.0	interview	be with	weekly Al-Osboa	0	SET
+1.0	Islamists	make reference to	Hamas ' electoral victory in territory	MISC	ORGANIZATION
+1.0	Mubarak	also note	diversity of egyptian people	PERSON	0
+1.0	many	have	money	O	O
+1.0	state	have	question	O	O
+1.0	many	take	they money	0	0
+1.0	Islamists	make	reference	MISC	0
+0.8032640221154881	ban	formation of	religious party	0	0
+1.0	the weekly Al-Osboa	underline danger in	interview with Al-Osboa	0	0
+1.0	Islamists	take	power	MISC	0
+1.0	parties	have	formation	O	O
+1.0	2005	have	end	DATE	DATE
+1.0	Islamists	make reference to	Hamas ' victory	MISC	ORGANIZATION
+1.0	people	have	diversity	O	O
+1.0	many	flee	country	0	0
+1.0	Hamas	have	victory	O	ORGANIZATION
+1.0	their	have	peoples	O	O
+1.0	Mubarak	note	diversity	PERSON	0
+1.0	sharia	be basis of	legislation in Egypt	0	LOCATION
+1.0	Egypt	have	security	O	LOCATION
+1.0	country	have	opposition bloc	O	O
+0.904311301950593	Islam	be	solution	MISC	0
+1.0	legislation	have	basis	O	O
+1.0	largest opposition bloc	be in	body	0	0
+1.0	the weekly Al-Osboa	underline	danger	0	0
+1.0	Mubarak	note	diversity of people	PERSON	0
+1.0	Hosni Mubarak	be on	Thursday	PERSON	DATE
+1.0	sharia	be already basis of	legislation in Egypt	0	LOCATION
+1.0	Hosni Mubarak	be	egyptian	PERSON	0
+1.0	Mubarak	have propose	amendment	PERSON	0
+1.0	Islamists	make reference to	Hamas ' electoral victory in palestinian territory	MISC	ORGANIZATION
+1.0	Mubarak	note	diversity of egyptian people	PERSON	0
+1.0	regimes	have	experience	O	O
+1.0	Hamas ' electoral victory	be in	palestinian territory	ORGANIZATION	0
+1.0	Islamists	make reference to	Hamas ' victory in territory	MISC	ORGANIZATION
+1.0	Islamists	make reference to	Hamas ' victory in palestinian territory	MISC	ORGANIZATION
+1.0	Mubarak	also note	diversity of people	PERSON	0
+1.0	egyptian President Hosni Mubarak	warn of	danger	PERSON	0
+1.0	Mubarak	also note	diversity	PERSON	0
+1.0	Mubarak	have propose amendment to	constitution	PERSON	0
+1.0	the weekly Al-Osboa	underline	certain danger	0	0
+1.0	dangers	have	warned	O	O
+1.0	seats	have	won	O	O
+1.0	Egyptian President Hosni Mubarak on Thursday	by	rule party	PERSON	0
+1.0	Islamists	make reference to	Hamas ' electoral victory	MISC	ORGANIZATION
+1.0	the weekly Al-Osboa	underline danger in	interview with weekly Al-Osboa	0	SET
+1.0	Mubarak	add	article	PERSON	0
+1.0	President Hosni Mubarak	warn of	danger	PERSON	0

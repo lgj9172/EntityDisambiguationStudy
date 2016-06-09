@@ -1,0 +1,6 @@
+1.0	bird flu	have	H5N1 strain	O	O
+1.0	China	report at_time	Wednesday	LOCATION	DATE
+1.0	China	have	case	O	O
+1.0	bird flu	be in	six month	0	DURATION
+1.0	bird flu	have	case	O	O
+1.0	Anhui	have	province	O	LOCATION

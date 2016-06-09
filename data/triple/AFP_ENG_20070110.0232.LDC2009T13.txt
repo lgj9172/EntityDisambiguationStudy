@@ -1,0 +1,52 @@
+1.0	secret	last be among	11 poem	0	NUMBER
+1.0	Bruni	come at	age of five	PERSON	NUMBER
+1.0	2002	have	surprise hit	O	DATE
+1.0	writer 's block	be in	French	0	MISC
+1.0	you	be come in	fall	0	DATE
+1.0	Bruni	come at	age	PERSON	0
+1.0	it	be	all link to success of album	0	0
+1.0	Bruni	be bear into	wealthy Turin family in 1968	PERSON	DATE
+1.0	former model Carla Bruni	turn to	language poet	PERSON	0
+1.0	italian-born chanteuse	seek	inspiration	0	0
+1.0	it	be	all link	0	0
+1.0	her	have	career	O	O
+1.0	italian-born chanteuse	seek inspiration from	English poetry	0	MISC
+1.0	whose	have	CD Quelqu'un m	O	O
+1.0	italian-born chanteuse	escape	writer 's block	0	0
+1.0	italian-born chanteuse	escape	writer 's block in French	0	MISC
+1.0	Bruni	be	bear	PERSON	0
+1.0	chanteuse	escape	writer 's block in French	0	MISC
+1.0	you	be come in	fall by Emily Dickinson	0	DATE
+1.0	it	be	all link to success of first album	0	ORDINAL
+1.0	Rossetti	have	Christina	PERSON	PERSON
+1.0	it	be	all	0	0
+1.0	former top model Carla Bruni	turn to	language poet	PERSON	0
+1.0	former top model Carla Bruni	turn to	english language poet	PERSON	0
+1.0	Bruni	be bear into	wealthy Turin family	PERSON	LOCATION
+1.0	it	be	all link to huge success of album	0	0
+1.0	Former top model Carla Bruni	have	album	O	O
+1.0	secret	be out among	11 poem	0	NUMBER
+1.0	chanteuse	seek	inspiration	0	0
+1.0	secret	be among	11 poem	0	NUMBER
+1.0	chanteuse	seek inspiration from	English poetry	0	MISC
+1.0	Bruni	come to	France	PERSON	LOCATION
+1.0	Bruni	be bear into	Turin family	PERSON	LOCATION
+1.0	Shakespeare sonnets	have	anthology	O	O
+1.0	it	be	all link to huge success of first album	0	ORDINAL
+1.0	former model Carla Bruni	turn to	english language poet	PERSON	0
+1.0	you be come	promise like	piecrust	0	0
+1.0	you be come	promise by	Yeats	0	PERSON
+1.0	Bruni	be bear into	Turin family in 1968	PERSON	DATE
+1.0	it	be	all link to success	0	0
+1.0	chanteuse	escape	writer 's block	0	0
+1.0	it	be	all link to huge success	0	0
+1.0	No promises	have	album	O	O
+1.0	secret	last be out among	11 poem	0	NUMBER
+1.0	Her	have	album	O	O
+1.0	Marianne Faithfull	be by	english	PERSON	0
+1.0	five	have	age	O	NUMBER
+1.0	writer	have	block in French	0	MISC
+0.7345754566148686	someone	tell	I	0	0
+1.0	writer	have	block	O	O
+1.0	wealthy Turin family	be in	1968	LOCATION	DATE
+1.0	album	have	success	O	O

@@ -1,0 +1,63 @@
+1.0	Indonesia	be	nation hit	LOCATION	0
+1.0	search	be underway for	miss airliner	0	0
+1.0	miss airliner	be with	102 people on board	0	NUMBER
+1.0	search	be	underway around Sulawesi for airliner	0	LOCATION
+1.0	Manado	have	city	O	LOCATION
+1.0	Mako	official at	agency	PERSON	0
+1.0	search	be underway for	miss airliner with 102 people on board	0	NUMBER
+1.0	massive search	be	underway around Sulawesi for airliner with 102 people	0	LOCATION
+1.0	Sulawesi Sea	have	bed	O	LOCATION
+1.0	search	be	underway around western Sulawesi for airliner with 102 people on board	0	LOCATION
+1.0	massive search	be underway for	miss airliner with 102 people	0	NUMBER
+1.0	massive search	be underway for	airliner with 102 people on board	0	NUMBER
+1.0	massive search	be	underway around western Sulawesi for airliner with 102 people on board	0	LOCATION
+1.0	massive search	be underway for	miss airliner with 102 people on board	0	NUMBER
+1.0	search	be	underway around western Sulawesi for airliner with 102 people	0	LOCATION
+1.0	massive search	be underway around	western Sulawesi	0	LOCATION
+0.6019421056290336	Mako	official at	agency	PERSON	0
+1.0	168,000 people	be in	Aceh province	NUMBER	LOCATION
+1.0	massive search	be underway for	airliner	0	0
+1.0	search	be	underway around Sulawesi for airliner with 102 people on board	0	LOCATION
+1.0	city	have	northwest	O	O
+1.0	search	be underway around	western Sulawesi	0	LOCATION
+1.0	massive search	be	underway	0	0
+1.0	earthquake-triggered asian tsunami	be in	December 2004	0	DATE
+1.0	indonesian archipelago	cause	seismic	0	0
+1.0	search	be	underway around Sulawesi for miss airliner with 102 people	0	LOCATION
+1.0	search	be	underway around western Sulawesi for miss airliner	0	LOCATION
+1.0	archipelago	sit on	Pacific ring	0	LOCATION
+1.0	earthquake	hit at	1:12 pm	0	TIME
+1.0	massive search	be	underway around Sulawesi for airliner with 102 people on board	0	LOCATION
+1.0	search	be	underway around western Sulawesi for airliner	0	LOCATION
+1.0	indonesian archipelago	cause	frequent seismic	0	0
+1.0	massive search	be	underway around western Sulawesi for airliner	0	LOCATION
+1.0	Fire	have	Pacific Ring	LOCATION	LOCATION
+1.0	search	be underway for	miss airliner with 102 people	0	NUMBER
+1.0	massive search	be	underway around western Sulawesi for miss airliner with 102 people on board	0	LOCATION
+1.0	massive search	be underway for	airliner with 102 people	0	NUMBER
+1.0	massive search	be	underway around Sulawesi for miss airliner with 102 people	0	LOCATION
+1.0	Sulawesi	have	island	O	LOCATION
+1.0	indonesian archipelago	sit on	Pacific ring of fire	0	LOCATION
+1.0	massive search	be underway for	miss airliner	0	0
+1.0	search	be	underway around western Sulawesi for miss airliner with 102 people	0	LOCATION
+1.0	archipelago	sit on	Pacific ring of fire	0	LOCATION
+1.0	archipelago	cause	frequent seismic	0	0
+1.0	search	be underway around	Sulawesi	0	LOCATION
+1.0	search	be underway for	airliner with 102 people on board	0	NUMBER
+1.0	indonesian archipelago	sit on	Pacific ring	0	LOCATION
+1.0	search	be	underway around Sulawesi for miss airliner with 102 people on board	0	LOCATION
+1.0	massive search	be	underway around Sulawesi for miss airliner	0	LOCATION
+1.0	massive search	be	underway around western Sulawesi for miss airliner with 102 people	0	LOCATION
+1.0	search	be	underway around Sulawesi for miss airliner	0	LOCATION
+1.0	search	be underway for	airliner	0	0
+1.0	massive search	be underway around	Sulawesi	0	LOCATION
+1.0	massive search	be	underway around Sulawesi for airliner	0	LOCATION
+1.0	search	be	underway around Sulawesi for airliner with 102 people	0	LOCATION
+1.0	search	be underway for	airliner with 102 people	0	NUMBER
+1.0	search	be	underway around western Sulawesi for miss airliner with 102 people on board	0	LOCATION
+1.0	search	be	underway	0	0
+1.0	massive search	be	underway around western Sulawesi for airliner with 102 people	0	LOCATION
+1.0	massive search	be	underway around western Sulawesi for miss airliner	0	LOCATION
+1.0	massive search	be	underway around Sulawesi for miss airliner with 102 people on board	0	LOCATION
+1.0	archipelago	cause	seismic	0	0
+1.0	Indonesia	be	nation	LOCATION	0

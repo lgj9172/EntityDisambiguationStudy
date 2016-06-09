@@ -1,0 +1,31 @@
+1.0	general Kofi Annan	deploy	UN force	PERSON	ORGANIZATION
+1.0	general Kofi Annan	deploy un force to	Chad	PERSON	LOCATION
+1.0	conflict	be in	Sudan 's Darfur region	0	LOCATION
+0.6287069372981849	ethnic minority rebel	complain of	marginalization	0	0
+1.0	Security Council	ask in	2006	ORGANIZATION	DATE
+1.0	war	have	effects	O	O
+1.0	Security Council	ask	secretary general	ORGANIZATION	0
+0.8457206589008148	possible way	protect	civilian affect by conflict in Sudan 's Darfur region	0	LOCATION
+1.0	Sudan	have	Darfur region	O	LOCATION
+1.0	general Kofi Annan	write at_time	last month	PERSON	DATE
+0.6287069372981849	minority rebel	complain of	marginalization	0	0
+1.0	report	have	writing	O	O
+1.0	Kofi Annan	deploy un force to	Chad	PERSON	LOCATION
+0.7163547904497114	civilian	affect by	conflict in Sudan 's Darfur region	0	LOCATION
+1.0	civilians	have	sent'	O	O
+1.0	conflict	ally	militia	0	0
+1.0	hostilities	have	midst	O	O
+1.0	general Kofi Annan	write to	UN security Council	PERSON	ORGANIZATION
+1.0	Then-UN secretary	have	successor Ban Ki-moon	MISC	O
+1.0	marginalization	have	complaining	O	O
+1.0	general Kofi Annan	write at_time	month	PERSON	DATE
+0.8457206589008148	possible way	protect	civilian affect by conflict	0	0
+1.0	secretary	study	possible way	0	0
+0.8457206589008148	possible way	protect	civilian affect	0	0
+1.0	writing	have	time	DATE	O
+1.0	United Nations	have	capabilities	O	O
+1.0	Sudan	in	Darfur region	LOCATION	LOCATION
+1.0	side	be in	conflict	0	0
+0.8457206589008148	possible way	protect	civilian	0	0
+0.7163547904497114	civilian	affect by	conflict	0	0
+1.0	Kofi Annan	deploy	UN force	PERSON	ORGANIZATION

@@ -1,0 +1,65 @@
+1.0	The 73-year-old `` King of Soul ''	have	embalmment	O	O
+1.0	Brown	have	lawyer	O	PERSON
+1.0	legendary soul singer James Brown	have	lawyer	O	O
+1.0	inductee	of	Roll Hall of Fame	0	ORGANIZATION
+1.0	73-year-old King	die on	December 25 of heart failure	DURATION	DATE
+1.0	effort	have	lot	O	O
+1.0	Augusta funeral home	be in	charge of he embalmment	0	0
+1.0	The 73-year-old `` King of Soul ''	have	house	O	O
+1.0	tribute	have	time	DATE	O
+1.0	73-year-old King	die on	December 25 congestive heart failure	DURATION	DATE
+1.0	Brown	have	partner	O	PERSON
+1.0	legendary soul singer James Brown	have	death	O	O
+1.0	sign	be begin	emerge	0	0
+1.0	New York	be on	December 28	LOCATION	DATE
+1.0	King	die on	December 25 heart failure	0	DATE
+1.0	Hynie	have	marriage	O	PERSON
+1.0	73-year-old King	die on	December 25	DURATION	DATE
+1.0	Brown	over	estate	PERSON	0
+1.0	73-year-old King	die in	Atlanta Georgia	DURATION	LOCATION
+1.0	Brown	have	lawyer	PERSON	0
+1.0	he house	be in	Beach Island	0	LOCATION
+1.0	legendary soul singer James Brown	have	family	O	O
+1.0	Brown	's lawyer be	Buddy Dallas	PERSON	PERSON
+1.0	Brown	's partner be	Tomi Rae Hynie	PERSON	PERSON
+1.0	Apollo Theater	be in	New York	LOCATION	LOCATION
+1.0	Tomi Rae Hynie	be	36-year-old	PERSON	DURATION
+1.0	heart failure	have	December	DATE	O
+1.0	sign	be begin at	time of tribute to Brown at Apollo Theater in New York	0	DATE
+1.0	King	die on	December 25 of heart failure	0	DATE
+1.0	Brown	be at	Apollo Theater	PERSON	LOCATION
+1.0	sign	be begin at	time of tribute to Brown at Apollo Theater	0	DATE
+1.0	Soul	have	King	O	O
+1.0	sign	be begin at	time of tribute to Brown at Apollo Theater in New York on December 28	0	DATE
+1.0	Augusta funeral home	have	employee	O	O
+1.0	discord	have	signs	O	O
+1.0	marriage	have	legality	O	O
+1.0	King	die in	hospital	0	0
+1.0	Fame	have	Rock Roll Hall	ORGANIZATION	ORGANIZATION
+1.0	star	have	house	O	O
+1.0	star	have	house	0	0
+1.0	inductee	have	Fame	ORGANIZATION	O
+1.0	embalmment	have	charge	O	O
+1.0	King	die in	Atlanta Georgia	0	LOCATION
+1.0	sign	be begin at	time	0	DATE
+1.0	his	have	son	O	O
+1.0	King	die on	December 25 of congestive heart failure	0	DATE
+1.0	73-year-old King	die in	hospital	DURATION	0
+1.0	sign	be begin at	time of tribute	0	DATE
+1.0	Brown	have	partner	PERSON	0
+1.0	Fame inductee 's	son	James	0	PERSON
+1.0	Buddy Dallas	be lawyer of	Brown	PERSON	PERSON
+1.0	Fame inductee 's	have	children	O	O
+1.0	his	have	affairs	O	O
+1.0	sign	be begin at	time of tribute to Brown	0	DATE
+1.0	The 73-year-old `` King of Soul ''	have	body	O	O
+1.0	burial	have	place	O	O
+1.0	soul singer James Brown	have	body	O	PERSON
+1.0	73-year-old King	die on	December 25 heart failure	DURATION	DATE
+1.0	King	die on	December 25	0	DATE
+1.0	Fame inductee 's	have	burial	O	O
+1.0	73-year-old King	die on	December 25 of congestive heart failure	DURATION	DATE
+1.0	King	die on	December 25 congestive heart failure	0	DATE
+1.0	Brown	have	estate	O	PERSON
+1.0	James	be	five-year-old	PERSON	DURATION
+1.0	death	have	day	DATE	O

@@ -1,0 +1,60 @@
+1.0	applicant	hold	various object include bean	0	0
+1.0	school	have	traditional class	0	0
+1.0	they	less well verse in	chopstick etiquette	0	0
+1.0	school 's vice principal	accuse	celebrity	0	0
+1.0	school	have	vice principal	0	0
+1.0	school	have	vice principal	O	O
+1.0	child	be with	work parent	0	0
+0.9563100733604296	chopstick	percent of	elementary student	0	0
+1.0	curriculum	have	fitting etiquette cooking part	O	O
+1.0	entrance exam	have	part	O	O
+1.0	knife	have	use	O	O
+1.0	school 's vice principal	accuse	celebrity appear on television food	0	0
+1.0	school	have	space	0	0
+1.0	number	eat	leave	0	0
+1.0	children	have	number	O	O
+1.0	number	eat alone	leave	0	0
+1.0	Hisata Gakuen Girls	have	High School	ORGANIZATION	ORGANIZATION
+1.0	applicant	hold	small object	0	0
+0.19813553748698515	brain	education	also etiquette	0	0
+1.0	exam	have	kind	O	O
+1.0	fork	have	use	O	O
+1.0	bean	be with	chopstick as part of entrance exam	0	0
+1.0	40 student	be in	grade	NUMBER	0
+1.0	girl	be in	Sasebo	0	LOCATION
+1.0	students	have	success rates	O	O
+1.0	school	have	class in tea ceremony	0	0
+1.0	they	well verse in	chopstick etiquette	0	0
+0.5313358978278349	celebrity	appear on	television food	0	0
+1.0	Katushi Hisata	tell	afp	0	0
+1.0	applicant	hold	small object include bean	0	0
+1.0	most basic element	be in	education	0	0
+1.0	they	verse in	chopstick etiquette	0	0
+1.0	eating habits	have	westernization	O	O
+1.0	grow number	eat	leave	0	0
+1.0	applicant	hold	object include bean	0	0
+1.0	school	have	kimono	0	0
+1.0	High School	have	vice principal	O	ORGANIZATION
+1.0	use	be	increasingly common	0	0
+1.0	school	have	class	0	0
+1.0	students	have	percent	PERCENT	O
+1.0	applicant	be	will ask	0	0
+1.0	applicant	hold	various object	0	0
+1.0	Japan	of	eating habit	LOCATION	0
+1.0	school 's vice principal	accuse	celebrity appear	0	0
+1.0	Katushi Hisata	tell afp by	telephone	0	0
+1.0	Japan	have	eating habits	O	LOCATION
+1.0	applicant	hold	object	0	0
+1.0	school	have	traditional class in tea ceremony	0	0
+1.0	use	be	common	0	0
+1.0	traditional class	be in	tea ceremony	0	0
+1.0	culture	have	beauty	O	O
+1.0	Katushi Hisata	principal of	Hisata Gakuen Girls ' High School	PERSON	ORGANIZATION
+0.47054228759947436	school	build in	1902	0	DATE
+1.0	beauty	have	part	O	O
+1.0	applicant	hold	various small object include bean	0	0
+1.0	grow number	eat alone	leave	0	0
+1.0	Sasebo	be in	Nagasaki Prefecture	LOCATION	LOCATION
+1.0	some students	have	ability	O	O
+0.9563100733604296	chopstick	only percent of	elementary student	0	0
+1.0	applicant	hold	various small object	0	0

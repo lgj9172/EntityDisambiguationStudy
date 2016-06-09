@@ -1,0 +1,46 @@
+1.0	organization	have	teammates	O	O
+1.0	Denver bronco	make service arrangement for	Darrent Williams	ORGANIZATION	PERSON
+1.0	Denver bronco	make	funeral service arrangement	ORGANIZATION	0
+1.0	his	have	years	DURATION	O
+1.0	Darrent Williams	say on	Wednesday	PERSON	DATE
+1.0	Darrent Williams	have	son	O	O
+1.0	hour	kill in	drive-by shooting	0	0
+1.0	funeral service	will take	place	0	0
+1.0	service	will take place at	church in Fort Worth	0	LOCATION
+1.0	future	have	kind	O	DATE
+1.0	funeral service	will take place at	church	0	0
+1.0	service	will take place at	church	0	0
+1.0	Oklahoma State	have	had	O	LOCATION
+1.0	hour	kill at_time	early Monday morning	0	TIME
+1.0	funeral service	will take place at_time	Saturday	0	DATE
+1.0	Oklahoma State	be in	2005	LOCATION	DATE
+1.0	he	be do in	college	0	0
+1.0	kids	have	one	NUMBER	O
+1.0	his	have	problems	O	O
+1.0	Denver	in	26-23 overtime loss	LOCATION	NUMBER
+1.0	hour	kill at_time	Monday morning	0	TIME
+1.0	My	have	son	O	O
+1.0	Williams	coach be	Anthony Criss	PERSON	PERSON
+1.0	hour	kill in	drive-by shooting in downtown Denver	0	LOCATION
+1.0	Williams	have	teammates	O	PERSON
+1.0	funeral service	will take place at	church in Fort Worth	0	LOCATION
+1.0	Williams	have	school coach	O	PERSON
+1.0	service	will take	place	0	0
+1.0	Dee	have	time	O	O
+1.0	hour	kill in	shooting	0	0
+0.24511853840911302	three	return for	for 50 yard	NUMBER	NUMBER
+1.0	three	return	two punt	NUMBER	NUMBER
+1.0	Criss	tell	Fort Worth Star	PERSON	ORGANIZATION
+1.0	I	call	he	0	0
+1.0	hour	kill in	shooting in downtown Denver	0	LOCATION
+1.0	church	be in	Fort Worth	0	LOCATION
+1.0	Williams		high school coach	PERSON	0
+1.0	hour	be	shoot	0	0
+1.0	Dee	have	life	O	O
+1.0	drive-by shooting	be in	Denver	0	LOCATION
+1.0	slay football player	have	mother	0	0
+1.0	Denver bronco	make	service arrangement	ORGANIZATION	0
+1.0	service	will take place at_time	Saturday	0	DATE
+1.0	Denver	have	overtime loss	O	LOCATION
+1.0	my	have	kids	O	O
+1.0	football player	have	mother	O	O

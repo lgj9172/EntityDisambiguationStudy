@@ -1,0 +1,28 @@
+1.0	french inflation	be	1.5 percent	0	PERCENT
+1.0	analyst	reflect at_time	fall	0	DATE
+1.0	0.2 percent	be in	December	PERCENT	DATE
+1.0	they	have show	monthly increase of 0.1 percent	0	PERCENT
+1.0	they	have show	increase of 0.1 percent	0	PERCENT
+1.0	datum	show on	Friday	0	DATE
+1.0	lowest	have	one	NUMBER	O
+1.0	they	have show	monthly increase	0	SET
+1.0	official datum	show on	Friday	0	DATE
+1.0	consumer price	rise from	price level in November	0	DATE
+1.0	inflation	be	1.5 percent	0	PERCENT
+1.0	oil products	have	price	O	O
+1.0	euro	have	strength	O	O
+1.0	analyst	reflect in	price of oil product	0	0
+1.0	french inflation	be	1.5 percent in 2006	0	PERCENT
+1.0	percent	have	increase	O	PERCENT
+1.0	analyst	reflect in	price	0	0
+1.0	consumer price	rise by	0.2 percent in December	0	PERCENT
+1.0	percent	have	rate	O	PERCENT
+1.0	inflation	be	1.5 percent in 2006	0	PERCENT
+1.0	they	have show	increase	0	0
+1.0	globalisation	have	effects	O	O
+1.0	consumer price	rise from	price level	0	0
+1.0	price level	be in	November	0	DATE
+0.7652159251300378	they	increase of	0.1 percent	0	PERCENT
+1.0	1.5 percent	be in	2006	PERCENT	DATE
+1.0	consumer price	rise by	0.2 percent	0	PERCENT
+0.7652159251300378	they	monthly increase of	0.1 percent	0	PERCENT

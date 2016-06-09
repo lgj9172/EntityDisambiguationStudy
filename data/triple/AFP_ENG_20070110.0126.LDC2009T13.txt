@@ -1,0 +1,73 @@
+1.0	China 's trade surplus	hit	official Xinhua news agency report Wednesday	LOCATION	DATE
+1.0	surplus	have	have major concern for China 's trading partner	0	LOCATION
+1.0	China	have	exporters	O	LOCATION
+1.0	Wednesday	have	number	DATE	0
+1.0	China 's trade surplus	sky-rocket	more than five-fold	LOCATION	0
+0.164266332496663	China 's trade surplus	jump from	record of 101.9 billion dollar in 2005	LOCATION	MONEY
+0.164266332496663	China 's trade surplus	jump from	then record	LOCATION	0
+1.0	surplus	have	have concern for China 's trading partner	0	LOCATION
+1.0	China 's trade surplus	hit	official Xinhua news agency report	LOCATION	ORGANIZATION
+1.0	21 billion dollar	fall from	22.9 billion dollar	MONEY	MONEY
+0.6046692291320666	action	reverse	trend	0	0
+1.0	China	for	biggest trading partner	LOCATION	0
+1.0	surplus	have	have major concern for China 's trading partner particularly United States	0	LOCATION
+1.0	complaints	have	One	NUMBER	O
+0.28627611980559997	export	rise to	969.08 billion dollar	0	MONEY
+0.28627611980559997	export	rise from	year	0	DATE
+0.335545539246895	China 's trade surplus	soar at_time	last year	LOCATION	DATE
+1.0	November	from	22.9 billion dollar	DATE	MONEY
+0.164266332496663	China 's trade surplus	jump from	record of 101.9 billion dollar	LOCATION	MONEY
+1.0	yuan	have	value	O	O
+1.0	Wednesday 's number	fuel	call for Beijing	DATE	LOCATION
+1.0	November	have	dollars	MONEY	DATE
+1.0	China 's trade surplus	hit	Xinhua news agency	LOCATION	ORGANIZATION
+1.0	surplus	have	have major concern for China 's trading partner United States	0	LOCATION
+0.6046692291320666	tougher action	reverse	trend	0	0
+1.0	import	increase	20 percent	0	PERCENT
+1.0	China 's trade surplus	soar	74 percent	LOCATION	PERCENT
+1.0	China 's trade surplus	hit	record	LOCATION	0
+1.0	China 's trade surplus	hit	official Xinhua news agency	LOCATION	ORGANIZATION
+1.0	China	have	trading partners	O	LOCATION
+1.0	nation	's currency be	yuan	0	0
+1.0	China 's trade surplus	jump	74.1 percent	LOCATION	PERCENT
+1.0	China 's trade surplus	sky-rocket	five-fold	LOCATION	0
+1.0	China	have	trade surplus	LOCATION	0
+1.0	surplus	have	have major concern United States	0	LOCATION
+1.0	Beijing	keep	nation 's currency artificially low	LOCATION	0
+1.0	surplus	have	have major concern	0	0
+1.0	China 's trade surplus	sky-rocket	more than five-fold from 31.98 billion dollar	LOCATION	MONEY
+1.0	China 's trade surplus	sky-rocket in	2004	LOCATION	DATE
+1.0	Wednesday 's number	fuel	call	DATE	0
+1.0	Wednesday 's number	be	expect	DATE	0
+1.0	export	rise	27.2 percent	0	PERCENT
+1.0	China 's trade surplus	hit	Xinhua news agency report	LOCATION	ORGANIZATION
+1.0	China 's exporter	get	advantage	LOCATION	0
+1.0	Xinhua	cite	custom bureau	ORGANIZATION	0
+0.164266332496663	China 's trade surplus	jump from	then record of 101.9 billion dollar	LOCATION	MONEY
+0.164266332496663	China 's trade surplus	jump at_time	last year	LOCATION	DATE
+1.0	China 's trade surplus	sky-rocket	five-fold from 31.98 billion dollar	LOCATION	MONEY
+1.0	surplus	have	have concern particularly United States	0	LOCATION
+0.28627611980559997	export	rise in	2006	0	PERCENT
+1.0	Wednesday	have	numbers	O	DATE
+1.0	Beijing	keep	nation 's currency low	LOCATION	0
+1.0	surplus	have	have concern United States	0	LOCATION
+1.0	surplus	be	major	0	0
+1.0	China	have	exporter	LOCATION	0
+1.0	China 's exporter	get	unfair advantage	LOCATION	0
+1.0	song guoqing	professor at	Beijing University	0	ORGANIZATION
+0.164266332496663	China 's trade surplus	jump at_time	year	LOCATION	DATE
+0.28627611980559997	export	rise from	previous year	0	DATE
+0.164266332496663	China 's trade surplus	jump from	record	LOCATION	0
+0.335545539246895	China 's trade surplus	soar at_time	year	LOCATION	DATE
+1.0	China 's trade surplus	hit	Xinhua news agency report Wednesday	LOCATION	DATE
+0.164266332496663	China 's trade surplus	jump from	then record of 101.9 billion dollar in 2005	LOCATION	MONEY
+1.0	nation	have	currency	O	O
+1.0	101.9 billion dollar	be in	2005	MONEY	DATE
+1.0	surplus	have	have major concern particularly United States	0	LOCATION
+1.0	nation	have	currency	0	0
+1.0	China	have	trade surplus	O	LOCATION
+1.0	surplus	have	have concern for China 's trading partner particularly United States	0	LOCATION
+1.0	surplus	be	huge	0	0
+1.0	dollars	have	record	O	MONEY
+1.0	surplus	have	have concern	0	0
+1.0	surplus	have	have concern for China 's trading partner United States	0	LOCATION

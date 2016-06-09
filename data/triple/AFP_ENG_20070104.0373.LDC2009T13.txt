@@ -1,0 +1,56 @@
+1.0	its	have	passenger jets	O	O
+1.0	figure	be dominate by	order	0	0
+1.0	729 Boeing 737s	have	product line	O	O
+1.0	Airbus	win	net order	ORGANIZATION	0
+1.0	US aviation giant Boeing Co.	have	new	O	O
+1.0	marketplace	have	needs	O	O
+1.0	Airbus	be	best-selling aircraft maker since 2001	ORGANIZATION	DATE
+1.0	Boeing	be 's	third	ORGANIZATION	ORDINAL
+1.0	Boeing Co.	be	US	ORGANIZATION	LOCATION
+1.0	Airbus	win	order in 2006	ORGANIZATION	DATE
+1.0	Airbus	be in	contrast	ORGANIZATION	0
+1.0	figure	be dominate by	order for 729 Boeing 737 include 82 from low-cost US carrier Southwest Airlines	0	LOCATION
+1.0	Australia	have	Qantas	ORGANIZATION	LOCATION
+1.0	new	have	157	NUMBER	O
+1.0	Airbus	win	net order in 2006	ORGANIZATION	DATE
+1.0	a350	rival to	The Dreamliner	0	0
+1.0	its	have	A380 superjumbo	O	O
+1.0	Airbus	win	800-odd order	ORGANIZATION	0
+1.0	Boeing	be after	737	ORGANIZATION	NUMBER
+1.0	Boeing Commercial Airplanes	have	executive	O	ORGANIZATION
+1.0	Boeing	have	gross order	ORGANIZATION	NUMBER
+1.0	Southwest Airlines	be from	US	ORGANIZATION	LOCATION
+1.0	800-odd net order	be in	2006	0	DATE
+1.0	Southwest Airlines	be carrier of	US	ORGANIZATION	LOCATION
+1.0	Airbus	result in	cost overrun	ORGANIZATION	0
+1.0	82	include 737 be	world 's most popular medium-haul plane	NUMBER	0
+1.0	Airbus	be	aircraft maker	ORGANIZATION	0
+1.0	world	have	plane	O	O
+1.0	long-range 777	be 's	Boeing	NUMBER	ORGANIZATION
+1.0	Scott Carson	say in	statement	PERSON	0
+1.0	Airbus	win	800-odd net order	ORGANIZATION	0
+1.0	Scott Carson	executive of	Boeing Commercial Airplanes	PERSON	ORGANIZATION
+1.0	Boeing Co.	be aviation giant of	US	ORGANIZATION	LOCATION
+1.0	figure	be	dominate	0	0
+1.0	729 Boeing 737	plane 's	world	NUMBER	0
+1.0	Boeing	have	orders	O	ORGANIZATION
+1.0	US aviation giant Boeing Co.	say at_time	Thursday	LOCATION	DATE
+1.0	need	fund	its passenger jet	0	0
+1.0	Australia	to	Qantas	LOCATION	ORGANIZATION
+1.0	figure	be dominate by	order for 729 Boeing 737	0	NUMBER
+1.0	figure	be dominate by	order for 729 Boeing 737 include 82 from US carrier Southwest Airlines	0	LOCATION
+1.0	our	have	promises	O	O
+1.0	last year	be with	76 order	DATE	NUMBER
+1.0	Airbus	win	800-odd order in 2006	ORGANIZATION	DATE
+1.0	Airbus	be from	european	ORGANIZATION	0
+1.0	Airbus	win	800-odd net order in 2006	ORGANIZATION	DATE
+1.0	Airbus	result in	cost overrun notably	ORGANIZATION	0
+1.0	its	have	sales data	O	O
+1.0	Airbus	be	best-selling aircraft maker	ORGANIZATION	0
+1.0	Airbus	be	aircraft maker since 2001	ORGANIZATION	DATE
+1.0	need	fund	its other passenger jet	0	0
+1.0	Airbus	have	have plague	ORGANIZATION	0
+1.0	our	have	customers	O	O
+1.0	world	have	most popular medium-haul plane	0	0
+1.0	long-range 777	be 's	Boeing third	NUMBER	ORDINAL
+1.0	Airbus	win	order	ORGANIZATION	0

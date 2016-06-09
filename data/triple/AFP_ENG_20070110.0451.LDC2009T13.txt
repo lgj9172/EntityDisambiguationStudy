@@ -1,0 +1,135 @@
+1.0	Basra	have	city	O	LOCATION
+1.0	government	have however make	clear	0	0
+1.0	US	withdraw	thousand of 7,100 troops base before end of 2007	0	DATE
+1.0	The British premier	have	legacy	O	O
+1.0	US President George W. Bush	have	question-and-answer session	O	O
+1.0	Iraq	have	capability take progressively over time	LOCATION	0
+0.7919282709293802	al	qaeda in	way	0	0
+1.0	my	have	view	O	O
+1.0	US President George W. Bush	announce at_time	later Wednesday	PERSON	DATE
+1.0	plan	leave	group	0	0
+1.0	he policy	be	too dependent	0	0
+1.0	US	withdraw	thousand of 7,100 troops base around second city before end	0	ORDINAL
+1.0	government	have make	clear	0	0
+1.0	US	withdraw	thousand of 7,100 british troops base around city of Basra before end of 2007	0	LOCATION
+1.0	The British premier	stress	importance	0	0
+1.0	Prime Minister Blair	speak ahead by	US leader	PERSON	LOCATION
+1.0	policy	have	part	O	O
+1.0	he policy	be	dependent	0	0
+1.0	troops	have	thousands	O	O
+1.0	US	withdraw	thousand of 7,100 british troops	0	DATE
+1.0	US	withdraw	thousand of 7,100 british troops base around second city of Basra before end of 2007	0	ORDINAL
+1.0	british withdrawal plan	depend on	success of ongoing mission	0	0
+1.0	Bush	be	set	PERSON	0
+1.0	Bush	have	staunchest ally in 2003 invasion of Iraq	PERSON	LOCATION
+1.0	british withdrawal plan	depend on	success of mission	0	0
+1.0	withdrawal plan	depend on	success of mission	0	0
+1.0	plan	leave	armed group	0	0
+1.0	US	withdraw	thousand of 7,100 troops base around second city before end of 2007	0	ORDINAL
+0.4014412613117932	some	say to	al-anbar province	0	0
+1.0	Britain	have	Tony Blair	PERSON	LOCATION
+1.0	his	have	policy	O	O
+1.0	british national interest	be in	my view	0	0
+1.0	Moqtada al-Sadr	have	Mahdi Army	LOCATION	ORGANIZATION
+1.0	Prime Minister Blair	speak by	US leader	PERSON	LOCATION
+1.0	US	withdraw	thousand of 7,100 troops base around second city of Basra	0	ORDINAL
+1.0	US	withdraw	thousand	0	0
+0.7919282709293802	al	qaeda operate in	same way	0	0
+1.0	british government	have however make	clear	0	0
+1.0	premier	rebuff	accusation	0	0
+1.0	10 year	be in	power	DURATION	0
+1.0	hour	announce	more troops	0	0
+1.0	our	have	policy	O	O
+1.0	The British premier	stress	importance of European Union	0	ORGANIZATION
+1.0	European Union	have	importance	O	ORGANIZATION
+1.0	office	be in	the coming month	0	DATE
+1.0	US President George W. Bush	tell lawmaker in	parliament 's House	0	ORGANIZATION
+1.0	US	withdraw	thousand of 7,100 troops base before end	0	DATE
+0.4014412613117932	some	say to	restive al-anbar province	0	0
+1.0	US President George W. Bush	tell lawmaker during	he question-and-answer session	0	0
+1.0	US	withdraw	thousand of 7,100 troops base around second city of Basra before end of 2007	0	ORDINAL
+0.633593924617174	some	say	Moqtada al-Sadr 's powerful Mahdi Army	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 troops base around city of Basra before end	0	LOCATION
+1.0	Britain	have	Tony Blair	LOCATION	PERSON
+0.633593924617174	some	say	Moqtada al-Sadr 's Mahdi Army	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 british troops base before end	0	DATE
+1.0	US President George W. Bush	tell lawmaker during	he weekly question-and-answer session	0	SET
+1.0	he foreign policy	be	too dependent	0	0
+1.0	british withdrawal plan	depend on	success	0	0
+1.0	US President George W. Bush	tell lawmaker in	parliament 's lower House	0	ORGANIZATION
+1.0	US	withdraw	thousand of 7,100 british troops base around second city before end	0	ORDINAL
+1.0	US	withdraw	thousand of 7,100 british troops base around city of Basra before end	0	LOCATION
+0.7919282709293802	al	qaeda operate in	way	0	0
+1.0	US	withdraw	thousand of 7,100 troops	0	DATE
+1.0	hour	be	expect	0	0
+1.0	lawmaker	brief on	plan	0	0
+1.0	it	be	important	0	0
+1.0	respect	have	particular	O	O
+1.0	Britain 's Tony Blair	stress at_time	later Wednesday	LOCATION	DATE
+1.0	US President George W. Bush	tell lawmaker in	parliament 's House of Commons	0	ORGANIZATION
+1.0	US	withdraw	thousand of 7,100 british troops base around city before end of 2007	0	DATE
+1.0	troops	have	Most	O	O
+1.0	America	have	United states	O	LOCATION
+1.0	british premier	rebuff	accusation	0	0
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	one chief target	be in	iraqi capital	NUMBER	0
+1.0	US	withdraw	thousand of 7,100 troops base around second city	0	ORDINAL
+1.0	situation	be in	Baghdad	0	LOCATION
+1.0	US President George W. Bush	tell	lawmaker	0	0
+1.0	premier	meanwhile rebuff	accusation	0	0
+1.0	US President George W. Bush	announce at_time	Wednesday	PERSON	DATE
+1.0	US	withdraw	thousand of 7,100 troops base around city before end of 2007	0	DATE
+1.0	plan	lack	US	0	LOCATION
+1.0	parliament	in	House of Commons	0	ORGANIZATION
+1.0	The British premier	stress too	importance	0	0
+1.0	he foreign policy	be too dependent on	Washington	0	LOCATION
+1.0	hour	announce troops for	Iraq	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 british troops base around second city	0	ORDINAL
+1.0	he policy	be too dependent on	Washington	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 british troops base before end of 2007	0	DATE
+1.0	Qaeda operate	be in	same way	0	0
+1.0	2007	have	end	DATE	DATE
+0.7919282709293802	al	qaeda in	same way	0	0
+1.0	US President George W. Bush	tell lawmaker in	parliament 's lower House of Commons	0	ORGANIZATION
+1.0	withdrawal plan	depend on	success	0	0
+1.0	he policy	be dependent on	Washington	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 troops base around city of Basra	0	LOCATION
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	Bush	have	ally	O	PERSON
+1.0	he foreign policy	be dependent on	Washington	0	LOCATION
+1.0	Bush	be set accord to	aide	PERSON	0
+1.0	their	have	own	O	O
+1.0	George W. Bush	be before	US	PERSON	LOCATION
+1.0	Moqtada al-Sadr	have	Mahdi Army	ORGANIZATION	LOCATION
+1.0	US	withdraw	thousand of 7,100 british troops base around city before end	0	DATE
+1.0	US	withdraw	thousand of 7,100 troops base around second city of Basra before end	0	ORDINAL
+1.0	he foreign policy	be	dependent	0	0
+0.4014412613117932	some	say to	restive province	0	0
+1.0	US	withdraw	thousand of 7,100 british troops base around city of Basra	0	LOCATION
+1.0	situation	be in	Basra	0	LOCATION
+0.4014412613117932	some	say to	province	0	0
+1.0	mission	have	success	O	O
+1.0	british government	have make	clear	0	0
+1.0	US	withdraw	thousand of 7,100 troops base around city before end	0	DATE
+1.0	Iraq	have	capability	O	LOCATION
+1.0	withdrawal plan	depend on	success of ongoing mission	0	0
+1.0	US	withdraw	thousand of 7,100 troops base around city of Basra before end of 2007	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 troops base	0	DATE
+1.0	alliance	be with	United state of America	0	ORGANIZATION
+1.0	US forces	have	policy	O	O
+1.0	parliament	have	House	ORGANIZATION	O
+1.0	US	withdraw	thousand of 7,100 british troops base	0	DATE
+1.0	US President George W. Bush	add	20,000 US soldier	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 british troops base around city	0	DATE
+1.0	keynote address	have	ahead	O	O
+1.0	The British premier	stress too	importance of European Union	0	ORGANIZATION
+1.0	plan	lack	sufficient US	0	LOCATION
+1.0	US	withdraw	thousand of 7,100 troops base around city	0	DATE
+1.0	Bush 's staunchest ally	be in	2003 invasion of Iraq	PERSON	LOCATION
+1.0	plan	have	purpose	O	O
+1.0	Commons	have	House	ORGANIZATION	ORGANIZATION
+1.0	US	withdraw	thousand of 7,100 british troops base around second city before end of 2007	0	ORDINAL
+1.0	US	withdraw	thousand of 7,100 british troops base around second city of Basra before end	0	ORDINAL
+1.0	US	withdraw	thousand of 7,100 british troops base around second city of Basra	0	ORDINAL
+1.0	british premier	meanwhile rebuff	accusation	0	0
+1.0	hour	announce	troops	0	0

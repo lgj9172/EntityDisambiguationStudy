@@ -1,0 +1,5 @@
+1.0	Spain	in	basque region	LOCATION	DURATION
+1.0	explosive	be in	two day	0	DURATION
+1.0	same area	be in	Spain 's basque region	DURATION	LOCATION
+1.0	Spain	have	region	O	LOCATION
+1.0	explosives	have	load	O	O

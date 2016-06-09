@@ -1,0 +1,22 @@
+1.0	culprit	be	arrest	0	0
+1.0	four attacker	kill	official	0	0
+1.0	Anwar Bhinder	have	car	O	PERSON
+1.0	attackers	have	One	NUMBER	O
+1.0	Ramzan Chaudhry	be	Lahore Bar Council	PERSON	ORGANIZATION
+1.0	his newphew	have	newphew	O	O
+1.0	a state attorney for the Punjab provincial government	have	guards	O	O
+1.0	he guard	return	fire	0	0
+1.0	other	flee in	car	0	0
+1.0	his newphew	have	office	O	O
+1.0	other	flee in	wait car	0	0
+1.0	culprit	be	arrest soon	0	0
+1.0	court	tell	AFP	0	ORGANIZATION
+1.0	A senior judicial official	have	car	O	O
+1.0	Lahore	have	city	O	LOCATION
+1.0	A senior judicial official	have	brother	O	O
+1.0	killing	trigger	protest	0	0
+1.0	local court	tell	AFP	0	ORGANIZATION
+1.0	investigation	be	underway	0	0
+1.0	we	be	confident	0	0
+1.0	old nephew , senior police officer Aamir Zulfiqar	say	add	PERSON	0
+1.0	attacker	kill	official	0	0

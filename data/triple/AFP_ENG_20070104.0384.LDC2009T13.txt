@@ -1,0 +1,52 @@
+1.0	aides	have	one	NUMBER	O
+1.0	I	be	grateful	0	0
+1.0	Harriet Miers	have	nomination	O	O
+1.0	George W. Bush	be president of	US	PERSON	LOCATION
+1.0	I	allow	opportunity to service	0	0
+1.0	she	serve as	Bush 's personal attorney	0	PERSON
+1.0	Miers	have at	have center from among he conservative core supporter	PERSON	0
+1.0	it	leave task at	hand	0	0
+1.0	Miers	have at	have center from among he core supporter	PERSON	0
+1.0	Bush	have	press office	O	PERSON
+1.0	your	have	leadership	O	O
+1.0	our	have	country	O	O
+1.0	my service	be in	White House	0	LOCATION
+1.0	Harriet Miers	be	the White House	PERSON	ORGANIZATION
+1.0	Bush	have	aides	O	PERSON
+1.0	his	have	core supporters	O	O
+1.0	One White House official	be	elect	0	0
+1.0	Miers	have at	have center even from among he core supporter	PERSON	0
+1.0	Bush	have	attorney	O	PERSON
+1.0	Harriet Miers	be counsel of	the White House	PERSON	ORGANIZATION
+1.0	One White House official	be governor of	Texas	0	LOCATION
+1.0	George W. Bush	be 's	US	PERSON	LOCATION
+1.0	the White House	say at_time	Thursday	ORGANIZATION	DATE
+1.0	Texas	have	governor	O	LOCATION
+1.0	George W. Bush	's lawyer be	Harriet Miers	PERSON	PERSON
+1.0	Miers	have at	have center even from among he conservative core supporter	PERSON	0
+1.0	our	have	times	O	O
+1.0	One White House official	be	when governor of Texas	0	LOCATION
+1.0	her	have	departure	O	O
+1.0	George W. Bush	have	official government lawyer	PERSON	0
+1.0	One White House official	be	when governor	0	0
+1.0	White House	be in	2000	LOCATION	DATE
+1.0	Bush	of	most longstanding aide	PERSON	0
+1.0	I	be deeply grateful to	you	0	0
+1.0	One White House official	be elect to	White House in 2000	0	LOCATION
+1.0	one	have	center	O	NUMBER
+1.0	she	serve as	Bush 's attorney	0	PERSON
+1.0	it	be	hard	0	0
+1.0	One White House official	be elect to	White House	0	LOCATION
+1.0	US President George W. Bush	have	government lawyer	O	PERSON
+1.0	country	have	leadership	O	O
+1.0	I	allow	opportunity	0	0
+1.0	I	be grateful to	you	0	0
+1.0	I	be	deeply grateful	0	0
+1.0	Bush	as	personal attorney	PERSON	0
+1.0	times	have	battles	O	O
+1.0	One White House official	be	governor	0	0
+1.0	times	have	trying	O	O
+1.0	Miers	have at	have center	PERSON	0
+1.0	my service	come to	end	0	0
+1.0	my	have	service	O	O
+1.0	it	leave	task	0	0

@@ -1,0 +1,24 @@
+1.0	Malayer	have	towns	O	LOCATION
+1.0	The cause of the accident	have	lane	O	O
+1.0	Iran	have	road	LOCATION	0
+1.0	early morning accident	be on	road	TIME	0
+1.0	Iran 's road	be among	most dangerous in world	LOCATION	0
+0.7802942394140986	link	town of	Malayer	0	LOCATION
+1.0	Malayer	be in	Hamedan province	LOCATION	LOCATION
+1.0	Iran 's road	be among	dangerous	LOCATION	0
+0.7802942394140986	link	town of	Malayer in Hamedan province	0	LOCATION
+1.0	Iran 's road	be among	dangerous in world	LOCATION	0
+1.0	road	link	town	0	0
+1.0	Arak	have	towns	O	LOCATION
+1.0	road	link	town of Malayer	0	LOCATION
+1.0	69 million	have	country	O	NUMBER
+1.0	sleepiness	have	veering	O	O
+1.0	tiredness	have	veering	O	O
+1.0	Iran	have	roads	O	LOCATION
+1.0	road	link	town of Malayer in Hamedan province	0	LOCATION
+1.0	Iran 's road	be among	most dangerous	LOCATION	0
+1.0	road	be in	Iran	0	LOCATION
+1.0	Arak	be in	Markazi province	LOCATION	LOCATION
+1.0	bus driver	be among	dead	0	0
+1.0	accident	have	cause	O	O
+1.0	morning accident	be on	road	TIME	0

@@ -1,0 +1,87 @@
+1.0	The iconic elder Cuban leader	have	surgery	O	O
+1.0	National Intelligence John Negroponte	have	US Director	O	PERSON
+0.7170828648039138	mark	anniversary of	Castro 's ousting	0	PERSON
+1.0	Fidel Castro 's health	be	be treat	PERSON	0
+1.0	Cuba	have	revolution	O	LOCATION
+1.0	medical update	have	have make since he intestinal surgery in July	0	DATE
+1.0	Castro	to	rule	PERSON	0
+1.0	medical update	have	have make since he report intestinal surgery	0	0
+1.0	medical update	have	have make since he report surgery	0	0
+0.3879725152742649	year	mark	48th anniversary	DATE	ORDINAL
+1.0	National Assembly	from	last session of year	ORGANIZATION	DATE
+1.0	Fidel Castro	have	health	PERSON	0
+1.0	medical update	have	have make since he intestinal surgery	0	0
+0.6726029514081513	dissident group	oppose to	Castro 's rule	0	PERSON
+1.0	Fidel Castro	be	75	PERSON	NUMBER
+1.0	Fidel Castro	have	health	O	PERSON
+1.0	medical update	have	have make since he surgery	0	0
+1.0	whose cut-rate oil	keep	Cuba 's communist regime afloat	0	LOCATION
+1.0	Cuba	to	helm full-time	LOCATION	0
+1.0	Fidel	about	recovery	PERSON	0
+1.0	Fidel Castro	have	brother	O	O
+0.7170828648039138	mark	anniversary of	Castro 's ousting of dictator Fulgencio Batista	0	PERSON
+1.0	48th	be mark time at_time	last week	0	DATE
+1.0	Granma	be newspaper of	Communist Party	ORGANIZATION	ORGANIZATION
+1.0	48th	be mark time from	National Assembly 's session of year	0	ORGANIZATION
+1.0	few medical update	have	have make since he intestinal surgery in July	0	DATE
+1.0	few medical update	have	have make since he surgery	0	0
+0.7170828648039138	mark	48th anniversary of	Castro 's ousting	0	PERSON
+1.0	ailing Cuban leader	have	friend	O	O
+1.0	medical update	have	have make since he surgery in July	0	DATE
+1.0	few medical update	have	have make since he surgery in July	0	DATE
+1.0	few medical update	have	have make since he report surgery	0	0
+1.0	Castro	have	ousting	O	PERSON
+0.3879725152742649	year	mark	anniversary of Castro 's ousting	DATE	PERSON
+1.0	ousting	have	anniversary	O	O
+1.0	year	have	session	O	DATE
+1.0	Fidel Castro 's health	be	in Cuba be treat as state secret	PERSON	LOCATION
+1.0	48th	have	absence	O	O
+1.0	Fidel Castro 's health	be	be treat as state secret	PERSON	0
+1.0	few medical update	have	have make	0	0
+0.3879725152742649	year	mark	anniversary	DATE	0
+1.0	medical update	have	have make since he report surgery in July	0	DATE
+1.0	books	have	number	O	O
+1.0	whose	have	oil	O	O
+0.7225274771398935	48th	might	might seriously ill	0	0
+1.0	48th	be mark time at_time	week	0	DATE
+1.0	few medical update	have	have make since he report intestinal surgery	0	0
+1.0	Fidel Castro	have	absence	O	O
+1.0	medical update	have	have make	0	0
+1.0	New Year 's day anniversary	on castro be	he friend	DATE	0
+1.0	Cuba	have	regime	O	LOCATION
+1.0	whose oil	keep	Cuba 's regime afloat	0	LOCATION
+1.0	whose oil	keep	Cuba 's communist regime afloat	0	LOCATION
+1.0	Hugo Chavez	be	venezuelan	PERSON	0
+0.3879725152742649	year	mark	anniversary of Castro 's ousting of dictator Fulgencio Batista	DATE	PERSON
+0.7170828648039138	mark	48th anniversary of	Castro 's ousting of dictator Fulgencio Batista	0	PERSON
+1.0	48th	be mark time from	National Assembly 's session	0	ORGANIZATION
+1.0	few medical update	have	have make since he report intestinal surgery in July	0	DATE
+1.0	Castro	have	rule	O	PERSON
+1.0	medical update	have	have make since he report intestinal surgery in July	0	DATE
+0.7225274771398935	48th	might	might ill	0	0
+1.0	48th	be mark time from	National Assembly 's last session of year	0	ORGANIZATION
+1.0	whose oil	have	have critical	0	0
+1.0	Fidel	have	recovery	O	PERSON
+1.0	whose cut-rate oil	keep	Cuba 's regime afloat	0	LOCATION
+1.0	whose cut-rate oil	have	have critical	0	0
+1.0	Fidel Castro	have miss	assembly meeting	PERSON	0
+1.0	US Director	tell	Washington Post	LOCATION	ORGANIZATION
+0.6726029514081513	group	oppose to	Castro 's rule	0	PERSON
+1.0	Fidel Castro 's health	be	in Cuba be treat	PERSON	LOCATION
+1.0	Cuba	have	helm	O	LOCATION
+1.0	48th	be mark time from	National Assembly 's last session	0	ORGANIZATION
+1.0	John Negroponte	be of	National Intelligence	PERSON	ORGANIZATION
+1.0	Cuba	of	revolution	LOCATION	0
+0.3879725152742649	year	mark	48th anniversary of Castro 's ousting	DATE	PERSON
+1.0	he report intestinal surgery	be in	July 27	0	DATE
+1.0	Castro	of	ousting of dictator Fulgencio Batista	PERSON	PERSON
+1.0	Simon Bolivar	have	works	O	PERSON
+1.0	few medical update	have	have make since he intestinal surgery	0	0
+1.0	few medical update	have	have make since he report surgery in July	0	DATE
+1.0	revolution	have	leader	O	O
+0.3879725152742649	year	mark	48th anniversary of Castro 's ousting of dictator Fulgencio Batista	DATE	PERSON
+1.0	Cuba	have	communist regime	LOCATION	0
+1.0	New Year	have	Day anniversary	O	DATE
+1.0	National Assembly	have	session	O	ORGANIZATION
+1.0	dictator Fulgencio Batista	have	ousting	O	PERSON
+1.0	US Director	tell washington post on	December 15	LOCATION	DATE

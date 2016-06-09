@@ -1,0 +1,15 @@
+1.0	20	have	readings	O	NUMBER
+1.0	index	have	components	O	O
+1.0	21	have	readings	O	NUMBER
+1.0	INSEE	report at_time	Friday	ORGANIZATION	DATE
+1.0	Household confidence	fall for	third straight month	0	DURATION
+1.0	Household confidence in France	have	confidence indicator	O	O
+1.0	Household confidence	fall for	third month	0	DURATION
+1.0	INSEE	cite	seasonally figure	ORGANIZATION	0
+1.0	Household confidence	fall for	straight month	0	DURATION
+1.0	INSEE	cite	correct figure	ORGANIZATION	0
+1.0	Household confidence	fall for	month	0	DURATION
+1.0	Household confidence	be in	France	0	LOCATION
+1.0	INSEE	cite	seasonally correct figure	ORGANIZATION	0
+1.0	Household confidence	fall in	December	0	DATE
+1.0	INSEE	cite	figure	ORGANIZATION	0

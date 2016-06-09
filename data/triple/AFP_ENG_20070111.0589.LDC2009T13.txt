@@ -1,0 +1,45 @@
+1.0	artifact	be	work	0	0
+1.0	excavation	have	level	O	O
+1.0	Andrei Sinitsyn	be of	russian academy of Sciences	PERSON	ORGANIZATION
+1.0	John Hoffecker	fellow of	Institute of Arctic	PERSON	ORGANIZATION
+1.0	Arctic Alpine Research	have	Institute	ORGANIZATION	ORGANIZATION
+1.0	excavation	take place at	Kostenki	0	LOCATION
+1.0	researchers	have	team	O	O
+1.0	Modern man 's presence	be in	Europe	0	LOCATION
+1.0	remains	be	confine	0	0
+1.0	figurine	have	head	O	O
+1.0	art	have	piece	O	O
+1.0	site	also contain	perforated shell ornament	0	0
+1.0	site	contain	shell ornament	0	0
+1.0	site	contain	perforated shell ornament	0	0
+1.0	coldest driest place	be in	Europe	0	LOCATION
+1.0	excavation	take	place	0	0
+1.0	Kostenki	group of	20 site along Don River	LOCATION	NUMBER
+1.0	ivory	have	piece	O	O
+1.0	humans	have	presence	O	O
+1.0	team	report at_time	Thursday	0	DATE
+1.0	he	report	Michael Anikovich	0	PERSON
+1.0	Modern man	have	presence in Europe	0	LOCATION
+1.0	human remains	be	confine	0	0
+1.0	humans	have	evidence	O	O
+1.0	humans	have	work	O	O
+1.0	Sciences	have	Academy	ORGANIZATION	ORGANIZATION
+1.0	school	of	Institute of Arctic	0	ORGANIZATION
+1.0	Academy	have	Andrei Sinitsyn	PERSON	ORGANIZATION
+1.0	school	have	Institute	ORGANIZATION	O
+1.0	places	have	one	NUMBER	O
+1.0	site	also contain	shell ornament	0	0
+1.0	Institute	have	fellow	O	ORGANIZATION
+1.0	human skeletal remains	be	confine	0	0
+1.0	Colorado	have	University	ORGANIZATION	ORGANIZATION
+1.0	their	have	findings	O	O
+1.0	human skeletal remains	be in	earliest level of excavation	0	0
+1.0	bone needle	be with	eyelet	0	0
+1.0	modern human	be in	one	0	NUMBER
+1.0	he	report	they finding	0	0
+1.0	Science	have	January issue	O	O
+1.0	sites	have	group	O	O
+1.0	Moscow	have	south	O	LOCATION
+1.0	Don River	be in	Russia	LOCATION	LOCATION
+1.0	skeletal remains	be	confine	0	0
+1.0	Modern man	have	presence	O	O

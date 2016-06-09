@@ -1,0 +1,51 @@
+1.0	The 35-year-old	be send to	league	0	0
+1.0	Edmonton Oilers	bring center back for	stint	ORGANIZATION	0
+1.0	Edmonton Oilers	bring center for	stint with National hockey League team	ORGANIZATION	ORGANIZATION
+1.0	15 season	be with	Vancouver	NUMBER	LOCATION
+1.0	six	assist in	21 game	NUMBER	NUMBER
+1.0	seven	assist in	11 game with Philadelphia Phantoms	NUMBER	ORGANIZATION
+1.0	35-year-old	have	goal	DURATION	0
+1.0	five goal	assist	10	NUMBER	NUMBER
+1.0	Edmonton Oilers	bring center back for	stint with National hockey League team	ORGANIZATION	ORGANIZATION
+1.0	The 35-year-old	however be send twice to	league	0	0
+1.0	The 35-year-old	however be send to	league	0	0
+1.0	Edmonton Oilers	claim petr nedved off	waiver	ORGANIZATION	DURATION
+1.0	seven	assist in	11 game with Philadelphia Phantoms of AHL	NUMBER	ORGANIZATION
+1.0	Petr Nedved	have	309 goal	PERSON	NUMBER
+1.0	Petr Nedved	play at	tail end	PERSON	0
+1.0	goal	assist	10	0	NUMBER
+1.0	AHL	have	Philadelphia Phantoms	ORGANIZATION	ORGANIZATION
+1.0	Edmonton Oilers	claim petr nedved on	Tuesday	ORGANIZATION	DATE
+1.0	Edmonton Oilers	bring center for	stint	ORGANIZATION	0
+1.0	35-year-old	start	season	DURATION	0
+1.0	The 35-year-old	be	however send twice	0	0
+1.0	The 35-year-old	be send twice to	league	0	0
+1.0	waivers	have	claimed	O	O
+1.0	The 35-year-old	be	send	0	0
+1.0	Petr Nedved	have	four goal	PERSON	NUMBER
+1.0	Edmonton Oilers	bring center for	second stint	ORGANIZATION	DURATION
+1.0	Edmonton Oilers	claim	Petr Nedved	ORGANIZATION	PERSON
+0.9588533191859536	Petr Nedved	native of	Czech Republic	PERSON	LOCATION
+1.0	Edmonton Oilers	bring center back for	second stint	ORGANIZATION	DURATION
+1.0	Petr Nedved	play at	tail end of 2003-04 season	PERSON	DATE
+1.0	Petr Nedved	play	collect	PERSON	0
+1.0	The 35-year-old	however be send to	minor league	0	0
+1.0	35-year-old	start season with	Flyers	DURATION	0
+1.0	Edmonton Oilers	claim petr nedved off	waiver from Philadelphia	ORGANIZATION	LOCATION
+1.0	second stint	be with	National hockey League team	DURATION	ORGANIZATION
+1.0	Edmonton Oilers	bring back	center	ORGANIZATION	0
+1.0	Petr Nedved	native of	Czech Republic	PERSON	LOCATION
+1.0	The 35-year-old	be send twice to	minor league	0	0
+1.0	The 35-year-old	however be send twice to	minor league	0	0
+1.0	Petr Nedved	play for	Oilers	PERSON	ORGANIZATION
+1.0	Philadelphia Phantoms	be of	AHL	ORGANIZATION	ORGANIZATION
+1.0	The 35-year-old	be	send twice	0	0
+1.0	Edmonton Oilers	bring center back for	second stint with National hockey League team	ORGANIZATION	DURATION
+1.0	11 game	be with	Philadelphia Phantoms	NUMBER	ORGANIZATION
+1.0	Czech Republic	have	native	O	LOCATION
+1.0	The 35-year-old	be send to	minor league	0	0
+1.0	Edmonton Oilers	bring	center	ORGANIZATION	0
+1.0	The 35-year-old	be	however send	0	0
+1.0	season	have	tail end	O	O
+1.0	Edmonton Oilers	bring center for	second stint with National hockey League team	ORGANIZATION	DURATION
+1.0	seven	assist in	11 game	NUMBER	NUMBER

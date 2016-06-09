@@ -1,0 +1,71 @@
+1.0	34	have	age	O	NUMBER
+1.0	admiration	have	BBC	ORGANIZATION	O
+1.0	I	move to	Madrid	0	ORGANIZATION
+1.0	LA Galaxy general manager Alexi Lalas	tell	BBC of he admiration	PERSON	ORGANIZATION
+1.0	LA Galaxy manager Alexi Lalas	tell bbc for	former England captain	PERSON	LOCATION
+1.0	play	be honour for	four year play	0	DURATION
+1.0	Spain	be to	Uniited States	LOCATION	LOCATION
+1.0	LA Galaxy general manager Alexi Lalas	tell	BBC	PERSON	ORGANIZATION
+1.0	LA Galaxy manager Alexi Lalas	tell	BBC of he admiration	PERSON	ORGANIZATION
+1.0	Former England skipper David Beckham	be	sorry	0	0
+1.0	we	have success in	best stadium	0	0
+1.0	it	leave	because	0	0
+1.0	we	have	incredible success	0	0
+1.0	Soccer	be in	United States	0	LOCATION
+1.0	we	have success over	history	0	0
+1.0	Ronaldo	be	Roberto Carlos	PERSON	PERSON
+1.0	Former England skipper David Beckham	have	life	O	O
+1.0	Major League Soccer	have	jewel	O	MISC
+1.0	Former England skipper David Beckham	lead	american soccer	PERSON	0
+1.0	David Beckham	be	England	PERSON	LOCATION
+1.0	I	need	new challenge	0	0
+1.0	real Madrid for LA Galaxy	be in	report deal	ORGANIZATION	0
+1.0	potential	have	lot	O	O
+1.0	LA Galaxy general manager Alexi Lalas	tell bbc for	former England captain	PERSON	LOCATION
+1.0	appeal	have	lot	O	O
+1.0	clubs	have	two	NUMBER	O
+1.0	my	have	football career	O	O
+1.0	LA Galaxy manager Alexi Lalas	tell	BBC	PERSON	ORGANIZATION
+1.0	Beckham	have	stature	O	PERSON
+1.0	his	have	admiration	O	O
+1.0	it	will	will sad	0	0
+1.0	we	have success in	stadium	0	0
+1.0	Ronaldo	have	likes	O	PERSON
+1.0	England	have	World Cup exit	O	LOCATION
+1.0	that	excite	Former England skipper David Beckham	0	0
+1.0	I	have enjoy	my time	0	0
+1.0	stature	have	players	O	O
+1.0	Former England skipper David Beckham	vow on	Thursday	PERSON	DATE
+1.0	The 31-year-old	have	experience	O	O
+1.0	Former England skipper David Beckham	leave	Spain	0	LOCATION
+1.0	Alexi Lalas	be	LA Galaxy	PERSON	ORGANIZATION
+1.0	play	be honour for	four year	0	DURATION
+1.0	we	have success over	history of league	0	0
+1.0	my	have	time	O	O
+1.0	excellence	have	tradition	O	O
+1.0	I	have enjoy here	my time	0	0
+1.0	league	have	history	O	O
+1.0	play	be	honour	0	0
+1.0	David Beckham	be skipper of	England	PERSON	LOCATION
+1.0	we	have	success	0	0
+1.0	Former England skipper David Beckham	lead soccer into	golden age	PERSON	0
+1.0	Former England skipper David Beckham	have	career	O	O
+1.0	his	have	switch	O	O
+1.0	Former England skipper David Beckham	lead	soccer	PERSON	0
+1.0	Former England skipper David Beckham	lead soccer into	age	PERSON	0
+1.0	I	move in	2003	0	DATE
+1.0	Soccer in the United States	potentially can go	higher	0	0
+1.0	play	be honour for	four year play with player	0	DURATION
+1.0	we	have have	individual player	0	0
+1.0	this	have	All	O	O
+1.0	it	be	sad	0	0
+1.0	Beckham	be	huge	PERSON	0
+1.0	England	after	World Cup quarter-final exit	LOCATION	MISC
+1.0	I	need	challenge	0	0
+1.0	we	have have	great player	0	0
+1.0	he	be happy in	Spain	0	LOCATION
+1.0	we	have have	great individual player	0	0
+1.0	we	have have	player	0	0
+1.0	I	move to	real Madrid	0	ORGANIZATION
+1.0	he	be	happy	0	0
+1.0	Soccer in the United States	can go	higher	0	0

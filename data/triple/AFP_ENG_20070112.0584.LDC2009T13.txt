@@ -1,0 +1,75 @@
+1.0	President George W. Bush	have	media	O	PERSON
+1.0	United States	have	image	O	LOCATION
+1.0	woman	have	group	0	0
+1.0	Beijing	be on	January 17	LOCATION	DATE
+1.0	student	be in	political science	0	0
+1.0	Michelle Kwan	will begin	visit to China	PERSON	LOCATION
+1.0	Karen Hughes	be of	the State Department	PERSON	ORGANIZATION
+1.0	Michelle Kwan	will begin visit at_time	next week	PERSON	DATE
+1.0	Hong-Kong	guru	decorate figure-skater in US history	0	LOCATION
+1.0	Hong-Kong	accompany	decorate figure-skater in US history	0	LOCATION
+1.0	US Secretary	appoint	Kwan 26	LOCATION	PERSON
+1.0	Denver	have	University	ORGANIZATION	ORGANIZATION
+1.0	Michelle Kwan	begin	skate at age of five	PERSON	NUMBER
+1.0	US Secretary	appoint kwan in	November	LOCATION	DATE
+1.0	Michelle Kwan	will begin	weeklong visit	PERSON	DATE
+1.0	Michelle Kwan	have	capacity	O	O
+0.13578433017498404	Michelle Kwan	will begin at_time	week	PERSON	DATE
+1.0	Condoleezza Rice	be of	the State Department	PERSON	ORGANIZATION
+1.0	she	be	currently student	0	DATE
+1.0	Michelle Kwan	will begin	weeklong visit to China	PERSON	LOCATION
+0.13578433017498404	Michelle Kwan	will begin at_time	next week	PERSON	DATE
+1.0	Michelle Kwan	begin	skate at age	PERSON	0
+1.0	Michelle Kwan	begin	skate	PERSON	0
+1.0	Michelle Kwan	be	26	PERSON	NUMBER
+1.0	Michelle Kwan	will begin visit in	she capacity as US diplomacy ambassador	PERSON	LOCATION
+1.0	State Department	announce at_time	Friday	ORGANIZATION	DATE
+0.13578433017498404	Michelle Kwan	will begin in	she capacity	PERSON	0
+1.0	Rice	have	Alma Mater	PERSON	ORGANIZATION
+1.0	she	international relation at	University	0	ORGANIZATION
+1.0	Michelle Kwan	have	competition	O	O
+0.8843098557814607	Michelle Kwan	weeklong visit to	China	PERSON	LOCATION
+1.0	Michelle Kwan	will begin visit in	she new capacity	PERSON	0
+1.0	she	be	student	0	0
+1.0	Michelle Kwan	win	she competition	PERSON	0
+1.0	US Secretary	appoint	Michelle Kwan	LOCATION	PERSON
+0.13578433017498404	Michelle Kwan	will begin in	she new capacity as US diplomacy ambassador	PERSON	LOCATION
+1.0	she	international relation at	University of Denver	0	ORGANIZATION
+0.13578433017498404	Michelle Kwan	will begin in	she new capacity as US public diplomacy ambassador	PERSON	LOCATION
+1.0	Rice	have	Alma Mater	ORGANIZATION	PERSON
+1.0	Hong-Kong	accompany	two-time Olympic medalist	0	MISC
+1.0	decorate figure-skater	be in	US history	0	LOCATION
+1.0	Michelle Kwan	will begin visit in	she capacity as US public diplomacy ambassador	PERSON	LOCATION
+1.0	George W. Bush	have	former media	PERSON	0
+0.8843098557814607	Michelle Kwan	visit to	China	PERSON	LOCATION
+1.0	Hong-Kong	accompany	Olympic medalist	0	MISC
+1.0	US Secretary	be	US diplomacy ambassador	LOCATION	LOCATION
+1.0	US Secretary	be	US public diplomacy ambassador	LOCATION	LOCATION
+1.0	she	relation at	University of Denver	0	ORGANIZATION
+1.0	Michelle Kwan	will begin visit in	she new capacity as US diplomacy ambassador	PERSON	LOCATION
+1.0	US Secretary	be	first US public diplomacy ambassador	LOCATION	ORDINAL
+1.0	Michelle Kwan	skate at	age	PERSON	0
+1.0	Hong-Kong	guru	Olympic medalist	0	MISC
+1.0	Karen Hughes	media 's	George W. Bush	PERSON	PERSON
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Michelle Kwan	skate at	age of five	PERSON	NUMBER
+1.0	US Secretary	be	first US diplomacy ambassador	LOCATION	ORDINAL
+1.0	she	be currently student in	science	0	0
+0.13578433017498404	Michelle Kwan	will begin in	she capacity as US public diplomacy ambassador	PERSON	LOCATION
+0.13578433017498404	Michelle Kwan	will begin in	she new capacity	PERSON	0
+1.0	Michelle Kwan	win	she first competition	PERSON	ORDINAL
+1.0	she	be student in	science	0	0
+1.0	Hong-Kong	guru	most decorate figure-skater in US history	0	LOCATION
+1.0	she	relation at	University	0	ORGANIZATION
+1.0	Michelle Kwan	will begin visit at_time	week	PERSON	DATE
+1.0	Hong-Kong	accompany	most decorate figure-skater in US history	0	LOCATION
+1.0	five	have	age	O	NUMBER
+1.0	women	have	groups	O	O
+1.0	State Karen Hughes	have	Secretary	O	PERSON
+0.13578433017498404	Michelle Kwan	will begin in	she capacity as US diplomacy ambassador	PERSON	LOCATION
+1.0	Michelle Kwan	will begin	visit	PERSON	0
+1.0	she	be currently student in	political science	0	0
+1.0	she	be student in	political science	0	0
+1.0	Michelle Kwan	will begin visit in	she new capacity as US public diplomacy ambassador	PERSON	LOCATION
+1.0	Hong-Kong	guru	two-time Olympic medalist	0	MISC
+1.0	Michelle Kwan	will begin visit in	she capacity	PERSON	0

@@ -1,0 +1,6 @@
+1.0	Prime Minister Nuri al-Maliki	review	relation	PERSON	0
+1.0	iraqi Prime Minister Nuri al-Maliki	threaten at_time	Saturday	PERSON	DATE
+1.0	Prime Minister Nuri al-Maliki	threaten at_time	Saturday	PERSON	DATE
+1.0	Nuri al-Maliki	be	iraqi	PERSON	0
+1.0	Saddam Hussein	have	execution	O	PERSON
+1.0	iraqi Prime Minister Nuri al-Maliki	review	relation	PERSON	0

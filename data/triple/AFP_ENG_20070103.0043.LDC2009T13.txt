@@ -1,0 +1,50 @@
+0.321570031283521	opposition alliance	have accuse	nationalist Party try to rig	0	ORGANIZATION
+1.0	government chief	have	post	O	O
+1.0	opposition alliance	have accuse	BNP	0	ORGANIZATION
+1.0	Bangladesh 's main opposition parties	boycott	election	0	0
+1.0	Awami League	call	repeat strike	ORGANIZATION	0
+1.0	bnp-led government	step at	end	0	DATE
+0.4795932810725323	election	appoint party loyalist to	key position	0	0
+1.0	bnp-led government	step down at	end of October	0	DATE
+1.0	Awami League	call	strike	ORGANIZATION	0
+1.0	bnp-led government	step at	end of October	0	DATE
+1.0	Hasina Wajed	be leader sheikh of	The Awami League	PERSON	ORGANIZATION
+1.0	government	step down at	end of October	0	DATE
+1.0	reforms	have	string	O	O
+0.4795932810725323	election	appoint	party loyalist	0	0
+1.0	Awami League leader Sheikh Hasina Wajed	speak on behalf of	alliance	ORGANIZATION	0
+1.0	government	step at	end	0	DATE
+1.0	Bangladesh 's main opposition parties	boycott	national election schedule	0	0
+1.0	Bangladesh 's main opposition party	announce at_time	Wednesday	LOCATION	DATE
+1.0	opposition	have demand	string	0	0
+1.0	Bangladesh	have	main opposition party	LOCATION	0
+1.0	Bangladesh	have	opposition parties	O	LOCATION
+1.0	Hasina Wajed	be	The Awami League	PERSON	ORGANIZATION
+1.0	alliance	have	speaking	O	O
+1.0	Bangladesh 's main opposition parties	boycott	national election schedule for January 22	0	DATE
+0.4795932810725323	election	appoint party loyalist to	position administration	0	0
+0.321570031283521	opposition alliance	have accuse	BNP	0	ORGANIZATION
+1.0	Bangladesh 's main opposition parties	boycott	national election	0	0
+0.4795932810725323	election	appoint party loyalist to	position	0	0
+1.0	opposition parties	have	alliance	O	O
+1.0	Bangladesh 's opposition party	announce	allege	LOCATION	0
+1.0	opposition alliance	have accuse	nationalist Party	0	ORGANIZATION
+1.0	government	step down at	end	0	DATE
+1.0	October	have	end	DATE	DATE
+1.0	Awami League	say on	December 24	ORGANIZATION	DATE
+0.321570031283521	opposition alliance	have accuse	Party try	0	ORGANIZATION
+1.0	Bangladesh 's opposition party	announce at_time	Wednesday	LOCATION	DATE
+1.0	Bangladesh 's main opposition parties	boycott	election schedule	0	0
+1.0	President Iajuddin Ahmed	have	post	O	O
+1.0	Bangladesh 's main opposition parties	boycott	election schedule for January 22	0	DATE
+1.0	key position	be in	temporary administration	0	0
+0.321570031283521	opposition alliance	have accuse	nationalist Party try	0	ORGANIZATION
+0.4795932810725323	election	appoint party loyalist to	position temporary administration	0	0
+1.0	government	step at	end of October	0	DATE
+1.0	opposition alliance	have accuse	Party	0	ORGANIZATION
+0.4795932810725323	election	appoint party loyalist to	key position temporary administration	0	0
+0.321570031283521	opposition alliance	have accuse	Party try to rig	0	ORGANIZATION
+1.0	Awami League leader Sheikh Hasina Wajed	speak on behalf of	alliance of 14 opposition party	ORGANIZATION	NUMBER
+1.0	bnp-led government	step down at	end	0	DATE
+1.0	Bangladesh 's main opposition party	announce	allege	LOCATION	0
+0.4795932810725323	election	appoint party loyalist to	key position administration	0	0

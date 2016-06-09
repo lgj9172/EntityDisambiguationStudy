@@ -1,0 +1,139 @@
+1.0	Washington	work	Tokyo	LOCATION	LOCATION
+0.7207079773187147	its first test explosion	spark	international condemnation	ORDINAL	0
+1.0	negotiation	be suspend in	late 2005	0	DATE
+1.0	United States	intensify	effort	LOCATION	0
+1.0	US officials	include	site	0	0
+1.0	White House spokesman Tony Snow on Friday	say	the United States	0	LOCATION
+1.0	talk	be	due	0	0
+1.0	Pyongyang	have	accused	O	LOCATION
+1.0	North Korea	make	preparation for second nuclear test explosion	LOCATION	DURATION
+0.7207079773187147	its first nuclear test explosion	spark	international condemnation	ORDINAL	0
+1.0	North Korea	sign	statement agree	LOCATION	0
+1.0	North Korea	make	preparation	LOCATION	DURATION
+0.7094333260706428	North Korea	preparation for	test explosion	LOCATION	0
+1.0	North	agree	return month	LOCATION	DATE
+1.0	further	deepen	they isolation	0	0
+1.0	preparation	have	part	O	O
+1.0	North Korea	make	preparation for nuclear test explosion	LOCATION	DURATION
+1.0	State Condoleezza Rice	decline	speculate	PERSON	0
+1.0	five-day round	make	progress	DURATION	0
+1.0	concession	be in	next round of talk	0	DURATION
+1.0	financial sanction	accuse of	dealings	0	0
+1.0	North	agree under	pressure	LOCATION	0
+1.0	sanction	accuse of	dealings	0	0
+1.0	US officials	be	believe	0	0
+1.0	North	agree	return last month	LOCATION	DATE
+1.0	US officials	include site to	UN inspector	0	ORGANIZATION
+1.0	financial sanction	accuse on behalf of	Pyongyang	0	LOCATION
+1.0	North Koreans	have	out lay	O	O
+0.7094333260706428	North Korea	preparation for	second nuclear test explosion	LOCATION	DURATION
+1.0	North	agree under	pressure from its main ally	LOCATION	0
+1.0	the breakdown	have	test explosion	O	O
+1.0	financial sanction	tackle	nuclear disarmament issue	0	0
+1.0	sanction	accuse of	illicit dealings	0	0
+1.0	State Condoleezza Rice	say at_time	Friday	PERSON	DATE
+1.0	the breakdown	conduct	its nuclear test explosion	0	0
+1.0	North Korea	have	turn come back to we with positive response to proposal make to Pyongyang during talk December 18-22 in Beijing	LOCATION	LOCATION
+1.0	it	be	standard	0	0
+0.7207079773187147	its nuclear test explosion	spark	international condemnation	0	0
+1.0	dealings	have	accused	O	O
+0.7170162436691713	financial sanction	impose on	Macau bank	0	LOCATION
+1.0	financial sanction	accuse of	illicit dealings	0	0
+1.0	Taro Aso	be in	Tokyo	PERSON	LOCATION
+1.0	government	of	preparation try internationally	0	0
+1.0	North Korea	make	preparation for test explosion	LOCATION	DURATION
+1.0	US Secretary	visit	south korean Foreign Minister song min	LOCATION	DURATION
+1.0	the breakdown	have	weapons program	O	O
+0.7207079773187147	its test explosion	spark	condemnation	0	0
+1.0	North	agree under	intense pressure	LOCATION	0
+1.0	North Korea	have	turn	O	LOCATION
+1.0	parallel talk	be	also due	0	0
+1.0	sanction	be lift as	condition	0	0
+0.7207079773187147	its test explosion	spark	international condemnation	0	0
+1.0	US Secretary	visit	korean Foreign Minister song min	LOCATION	DURATION
+1.0	US officials	include	reopen site	0	0
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	United States	resume disarmament talk with	North Korea	LOCATION	LOCATION
+1.0	the breakdown	have	ally	O	O
+1.0	US officials	be believe include	nuclear testing center	0	0
+1.0	North	agree under	intense pressure from its ally	LOCATION	0
+1.0	government	have	preparation	O	O
+1.0	Washington	work on	emergency plan for possible crisis on peninsula	LOCATION	LOCATION
+1.0	result round	make	progress	0	0
+1.0	aim	protect	20,000 resident	0	NUMBER
+1.0	talks	have	round	O	O
+1.0	round	make	progress	0	0
+1.0	further	obviously deepen	they isolation	0	0
+1.0	United States	resume	nuclear disarmament talk	LOCATION	0
+1.0	White House spokesman Tony Snow on Friday	tell	reporter	0	0
+0.7207079773187147	its first test explosion	spark	condemnation	ORDINAL	0
+0.7207079773187147	its nuclear test explosion	spark	condemnation	0	0
+1.0	US officials	have	demands	O	O
+1.0	talk	be in	Beijing	0	LOCATION
+1.0	the breakdown	conduct	its test explosion	0	0
+1.0	North	agree under	pressure from its ally	LOCATION	0
+1.0	North Korea	sign statement before	breakdown	LOCATION	0
+1.0	round	end without	apparent progress	0	0
+1.0	North	return to	talk	LOCATION	0
+1.0	US officials	be believe include	testing center in mountain north	0	0
+1.0	US officials	include	reopen nuclear site	0	0
+1.0	North	agree	return	LOCATION	0
+1.0	Tony Snow	be spokesman of	White House	PERSON	ORGANIZATION
+1.0	Washington	work on	emergency plan	LOCATION	0
+1.0	Taro Aso	be	Japanese	PERSON	MISC
+1.0	negotiation	be in	Beijing last month involving the six -- China , Japan , North Korea , South Korea , Russia and the United States --	0	LOCATION
+1.0	the breakdown	conduct	its first test explosion	0	ORDINAL
+1.0	North	agree	return to talk last month	LOCATION	DATE
+1.0	US officials	be believe include	testing center	0	0
+1.0	Tony Snow	be	White House	PERSON	ORGANIZATION
+1.0	financial sanction	be lift as	condition	0	0
+1.0	US Secretary	visit	Foreign Minister song min	LOCATION	DURATION
+1.0	sanction	tackle	disarmament issue	0	0
+1.0	Tony Snow	be on	Friday	PERSON	DATE
+1.0	North	agree under	intense pressure from its main ally	LOCATION	0
+1.0	financial sanction	tackle	disarmament issue	0	0
+1.0	discussion	be with	reclusive communist regime	0	0
+1.0	negotiation	be	suspend	0	0
+1.0	North Korea	make	preparation for second test explosion	LOCATION	DURATION
+1.0	US officials	include	nuclear site	0	0
+1.0	party talks to resume soon	have	round	O	O
+1.0	discussions	have	days	DURATION	O
+1.0	State Condoleezza Rice	have	spokesman	O	O
+1.0	North Korea	make preparation as	way	LOCATION	DURATION
+1.0	financial sanction	be	lift	0	0
+1.0	negotiations	have	round	O	O
+1.0	United States	be on	Friday	LOCATION	DATE
+1.0	North Korea	sign	statement	LOCATION	0
+0.7207079773187147	its first nuclear test explosion	spark	condemnation	ORDINAL	0
+1.0	response	have	know	O	O
+1.0	North	return at_time	month	LOCATION	DATE
+1.0	her spokesman	have	part	O	O
+0.7170162436691713	sanction	impose on	Macau bank	0	LOCATION
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Washington	work on	emergency plan for possible crisis	LOCATION	0
+1.0	talks	have	resumption	O	O
+1.0	parallel talk	be	due	0	0
+1.0	North Korea	have	partners	O	O
+1.0	their	have	isolation	O	O
+1.0	the breakdown	conduct	its first nuclear test explosion	0	ORDINAL
+1.0	talk December 18-22	be in	Beijing last month involving the six -- China , Japan , North Korea , South Korea , Russia and the United States --	DATE	LOCATION
+1.0	United States	resume	disarmament talk	LOCATION	0
+1.0	sanction	be	lift	0	0
+1.0	talk	be	also due	0	0
+1.0	North	return at_time	later this month	LOCATION	DATE
+1.0	sanction	accuse on behalf of	Pyongyang	0	LOCATION
+1.0	sanction	tackle	nuclear disarmament issue	0	0
+1.0	tourists	have	thousands	O	O
+1.0	the breakdown	ally	China	0	LOCATION
+1.0	first round	end without	apparent progress	ORDINAL	0
+1.0	nuclear testing center	be in	mountain north of Pyongyang	0	LOCATION
+1.0	North	agree	return to talk	LOCATION	0
+1.0	North	agree	return to talk month	LOCATION	DATE
+1.0	Pyongyang	have	mountains north	O	LOCATION
+1.0	possible crisis	be in	korean peninsula	0	LOCATION
+0.7094333260706428	North Korea	preparation for	second test explosion	LOCATION	DURATION
+1.0	aim	protect	20,000 japanese resident	0	NUMBER
+1.0	result five-day round	make	progress	DURATION	0
+1.0	Washington	work on	emergency plan for possible crisis on korean peninsula	LOCATION	LOCATION
+1.0	White House	be	routine	0	0
+0.7094333260706428	North Korea	preparation for	nuclear test explosion	LOCATION	DURATION

@@ -1,0 +1,47 @@
+1.0	Chris Bosh	have miss	12 game with bruised knee	PERSON	NUMBER
+1.0	he	do back	game	0	0
+1.0	Chris Bosh	have miss	12 game with knee	PERSON	NUMBER
+1.0	Canada	have	Nash	LOCATION	PERSON
+1.0	Chris Bosh	have miss	previous 12 game with bruised left knee	PERSON	NUMBER
+1.0	Raja Bell	be guard of	Suns	PERSON	ORGANIZATION
+0.4338802089057346	quarter	lead	five starter in double figure	DATE	NUMBER
+0.6015396689953806	Nash	score	next five point include jumper with 11 seconds	PERSON	NUMBER
+1.0	their	have	straight	O	O
+1.0	points	have	13	NUMBER	O
+0.6015396689953806	Nash	score	five point include pull-up jumper	PERSON	NUMBER
+1.0	Phoenix	be	99-95	LOCATION	DATE
+0.6015396689953806	Nash	score	five point include jumper	PERSON	NUMBER
+1.0	previous 12 game	be with	bruised left knee	NUMBER	0
+1.0	Anthony Parker	be swingman of	Toronto	PERSON	LOCATION
+1.0	Chris Bosh	have miss	previous 12 game with bruised knee	PERSON	NUMBER
+1.0	Canada 's Nash	have	points	O	O
+1.0	Chris Bosh	have miss	12 game with left knee	PERSON	NUMBER
+1.0	he	do	first game	0	ORDINAL
+0.6015396689953806	Nash	score	five point include jumper with 11 seconds	PERSON	NUMBER
+1.0	he	be	able	0	0
+0.6015396689953806	Nash	score	five point include pull-up jumper with 11 seconds	PERSON	NUMBER
+1.0	Canada 's Nash	score	13 of he 15 point	PERSON	NUMBER
+1.0	he	do back	first game	0	ORDINAL
+1.0	Chris Bosh	have miss	12 game	PERSON	NUMBER
+1.0	it	be	unbelievable	0	0
+1.0	Canada 's Nash	score	13 he 15 point	PERSON	NUMBER
+1.0	Anthony Parker	be	Toronto	PERSON	LOCATION
+0.6015396689953806	Nash	score	next five point include pull-up jumper	PERSON	NUMBER
+1.0	Chris Bosh	have miss	previous 12 game	PERSON	NUMBER
+1.0	Chris Bosh	have miss	12 game with bruised left knee	PERSON	NUMBER
+1.0	fourth overall pick	be in	2003	ORDINAL	DATE
+1.0	he	do	game	0	0
+1.0	Nash	have	3-pointer from right wing	PERSON	0
+1.0	Nash	have	3-pointer	O	PERSON
+1.0	it	be	really unbelievable	0	0
+1.0	Chris Bosh	have miss	previous 12 game with left knee	PERSON	NUMBER
+0.6015396689953806	Nash	score	next five point include pull-up jumper with 11 seconds	PERSON	NUMBER
+0.6015396689953806	Nash	score	next five point	PERSON	NUMBER
+0.6015396689953806	Nash	score	five point	PERSON	NUMBER
+1.0	Raja Bell	be	Suns	PERSON	ORGANIZATION
+1.0	Canada	have	Nash	PERSON	LOCATION
+1.0	94-92 advantage	be with	1:19	NUMBER	TIME
+0.6015396689953806	Nash	score	next five point include jumper	PERSON	NUMBER
+1.0	Chris Bosh	have miss	previous 12 game with knee	PERSON	NUMBER
+1.0	pull-up jumper	be with	11 seconds	0	DURATION
+0.4338802089057346	fourth quarter	lead	five starter in double figure	DATE	NUMBER

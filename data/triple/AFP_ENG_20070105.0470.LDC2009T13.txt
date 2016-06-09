@@ -1,0 +1,135 @@
+1.0	National Security Agency	have	head	O	ORGANIZATION
+1.0	admiral William Fallon	succeed	General John Abizaid	PERSON	PERSON
+1.0	Petraeus , 54	be widely praise for	he subsequent work	PERSON	0
+1.0	retired vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	Bush	be unhappy with	performance of general	PERSON	0
+1.0	Petraeus	serve as	commander	PERSON	0
+1.0	Petraeus , 54	be praise for	he work	PERSON	0
+1.0	vice admiral Michael McConnell	replace	Negroponte	PERSON	PERSON
+1.0	Bush	choose	retired vice admiral Michael McConnell	PERSON	PERSON
+1.0	his	have	strategy	O	O
+1.0	chain	have	most	O	O
+1.0	Bush	describe fallon as	one of America 's foremost strategist	PERSON	LOCATION
+1.0	Bush	overhaul	most of senior chain	PERSON	0
+1.0	Bush	pursue	aggressive overhaul	PERSON	0
+1.0	Bush	describe fallon as	one of America 's military strategist	PERSON	LOCATION
+1.0	Bush	overhaul	most of chain of command	PERSON	0
+1.0	forces	have	commander	O	O
+1.0	retired vice admiral Michael McConnell	replace	Negroponte	PERSON	PERSON
+1.0	vision	have	soldier	O	O
+1.0	multinational force	be in	Iraq	0	LOCATION
+1.0	Petraeus 54	serve at	Fort Leavenworth	NUMBER	LOCATION
+1.0	Petraeus	currently serve as	commander of US Army Combined arm Center	PERSON	ORGANIZATION
+1.0	America	have	strategists	O	LOCATION
+1.0	George W. Bush	be on	Friday	PERSON	DATE
+1.0	George Casey	commander of	multinational force in Iraq	PERSON	LOCATION
+1.0	president	announce at_time	Friday	0	DATE
+1.0	Petraeus	currently serve at	Kansas	PERSON	LOCATION
+0.6680355964290994	he	director of	National Intelligence John Negroponte	0	PERSON
+1.0	Petraeus , 54	be widely praise for	he work	PERSON	0
+1.0	Michael McConnell	head of	National Security Agency	PERSON	ORGANIZATION
+1.0	command	have	chain	O	O
+1.0	Bush	now overhaul	most of senior chain of command	PERSON	0
+1.0	Bush	now overhaul	most of chain of command	PERSON	0
+1.0	White House	dismiss	suggestion	ORGANIZATION	0
+1.0	Bush	also choose	vice admiral Michael McConnell	PERSON	PERSON
+1.0	Petraeus 54	currently serve as	commander of US Army Combined arm Center	NUMBER	ORGANIZATION
+1.0	America	of	foremost military strategist	LOCATION	0
+1.0	Mosul	have	city	O	LOCATION
+0.41896844371269354	violence	wrack	nation	0	0
+1.0	admiral William Fallon	succeed general john abizaid as	commander	PERSON	0
+1.0	Petraeus 54	serve as	commander of US Army Combined arm Center	NUMBER	ORGANIZATION
+1.0	NATO	have	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	staff	have	Army chief	O	O
+1.0	Bush	describe fallon as	one of America 's foremost military strategist	PERSON	LOCATION
+1.0	he	move director as	deputy	0	0
+1.0	Bush	choose	vice admiral Michael McConnell	PERSON	PERSON
+1.0	President George W. Bush	replace	US general	PERSON	LOCATION
+1.0	Bush	now overhaul	most of chain	PERSON	0
+1.0	strategists	have	one	NUMBER	O
+1.0	priority mission	have	soldiers	O	O
+1.0	Bush	describe fallon as	one America 's strategist	PERSON	LOCATION
+1.0	Petraeus , 54	be	praise	PERSON	0
+1.0	he	move	director of National Intelligence John Negroponte	0	PERSON
+1.0	Bush	now overhaul	most of senior chain	PERSON	0
+1.0	Petraeus 54	serve at	Kansas	NUMBER	LOCATION
+1.0	Robert Gates	be secretary of	Defense	PERSON	ORGANIZATION
+1.0	Petraeus	serve at	Fort Leavenworth	PERSON	LOCATION
+1.0	admiral William Fallon	succeed general john abizaid as	commander of Central command	PERSON	LOCATION
+1.0	diplomatic	have	charge	O	O
+1.0	personnel	have	charge	O	O
+1.0	Lieutenant General David Petraeus who has served several tours in the country since the 2003 invasion	have	experience	O	O
+1.0	Petraeus 54	serve as	commander	NUMBER	0
+1.0	Bush	also choose	former head	PERSON	0
+1.0	he	propose	admiral William Fallon	0	PERSON
+1.0	Bush	describe fallon as	one America 's foremost military strategist	PERSON	LOCATION
+1.0	US Army Combined Arms Center	have	commander	O	ORGANIZATION
+1.0	Petraeus	serve as	commander of US Army Combined arm Center	PERSON	ORGANIZATION
+1.0	new Defense Secretary Robert Gates	say in	statement	0	0
+1.0	Bush	now overhaul	most	PERSON	0
+1.0	enemy	have	understanding	O	O
+1.0	Petraeus 54	currently serve at	Kansas	NUMBER	LOCATION
+1.0	North Africa	be to	Central Asia	LOCATION	LOCATION
+1.0	George Casey	be promote to	Army chief of staff	PERSON	ORGANIZATION
+1.0	Bush	describe fallon as	one America 's foremost strategist	PERSON	LOCATION
+1.0	Bush	describe fallon as	one America 's military strategist	PERSON	LOCATION
+1.0	Bush	describe	Fallon	PERSON	PERSON
+1.0	he	move director to	Secretary	0	0
+1.0	our	have	country	O	O
+1.0	Petraeus , 54	be praise for	he subsequent work	PERSON	0
+1.0	Bush	describe fallon as	one of America 's strategist	PERSON	LOCATION
+1.0	Iraq	have	charge	O	LOCATION
+1.0	Bush	be unhappy with	performance	PERSON	0
+1.0	State Condoleezza Rice	have	Secretary	O	PERSON
+1.0	latest move	be in	shake-up of key US	0	LOCATION
+0.41896844371269354	violence	wrack nation	week	0	DATE
+1.0	Bush	pursue	overhaul	PERSON	0
+1.0	Bush	also choose	former head of National Security Agency	PERSON	ORGANIZATION
+1.0	Bush	overhaul	most	PERSON	0
+1.0	he	move	director	0	0
+1.0	intelligence	have	charge	O	O
+1.0	Fallon	be	62	PERSON	NUMBER
+1.0	Robert Gates	be include	Defense	PERSON	ORGANIZATION
+1.0	Petraeus 54	currently serve as	commander	NUMBER	0
+1.0	National Intelligence John Negroponte	have	Director	O	PERSON
+1.0	vice admiral Michael McConnell	replace negroponte at	head of 16 US spy agency	PERSON	LOCATION
+1.0	determination	have	soldier	O	O
+1.0	Iraq	have	invasion	O	LOCATION
+1.0	President George W. Bush	replace us general in	charge of Iraq	PERSON	LOCATION
+1.0	George Casey	be	promote	PERSON	0
+1.0	George Casey	be promote to	Army chief	PERSON	ORGANIZATION
+1.0	NATO	in	Operation Deliberate Force	ORGANIZATION	ORGANIZATION
+1.0	His	have	service	O	O
+1.0	Petraeus , 54	be	widely praise	PERSON	0
+1.0	Bush	choose	former head	PERSON	0
+1.0	Zalmay Khalilzad	be	next week	PERSON	DATE
+0.6680355964290994	he	director of	National Intelligence John Negroponte to State Department	0	PERSON
+1.0	generals	have	performance	O	O
+1.0	Bush	overhaul	most of senior chain of command	PERSON	0
+1.0	Petraeus	currently serve as	commander	PERSON	0
+1.0	Bush	also choose	retired vice admiral Michael McConnell	PERSON	PERSON
+1.0	admiral William Fallon	succeed	retire General John Abizaid	PERSON	PERSON
+1.0	soldiers	have	training	O	O
+1.0	his	have	work	O	O
+1.0	Zalmay Khalilzad	ambassador to	Iraq	PERSON	LOCATION
+1.0	Bush	say in	statement	PERSON	0
+1.0	Petraeus 54	currently serve at	Fort Leavenworth	NUMBER	LOCATION
+1.0	Bush	pursue	overhaul among he leadership team	PERSON	0
+1.0	Petraeus , 54	have	leadership team	O	O
+1.0	Petraeus	serve at	Kansas	PERSON	LOCATION
+1.0	Bush	choose	former head of National Security Agency	PERSON	ORGANIZATION
+0.41896844371269354	violence	wrack nation	next week	0	DATE
+1.0	John Negroponte	be to	State Department	PERSON	ORGANIZATION
+1.0	Petraeus , 54	command	101st Airborne Division	PERSON	ORGANIZATION
+1.0	Bush	pursue	aggressive overhaul among he leadership team	PERSON	0
+1.0	Bush	overhaul	most of chain	PERSON	0
+1.0	President George W. Bush	replace us general in	charge	PERSON	0
+1.0	he	move director to	Secretary of State Condoleezza Rice	0	PERSON
+1.0	Petraeus	currently serve at	Fort Leavenworth	PERSON	LOCATION
+1.0	Petraeus	be	54	PERSON	NUMBER
+1.0	US spy agencies	have	head	O	O
+1.0	US	have	shake-up	O	LOCATION
+1.0	he	move	director of National Intelligence John Negroponte to State Department	0	PERSON
+1.0	central command	be in	latest move	0	0
+1.0	Bush	be	unhappy	PERSON	0
+1.0	Central Command	have	commander	O	ORGANIZATION

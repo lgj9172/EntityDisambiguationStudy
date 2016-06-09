@@ -1,0 +1,28 @@
+1.0	India	put	its civilian-use reactor	LOCATION	0
+1.0	India	with	Manmohan Singh	LOCATION	PERSON
+1.0	India	be in	1998	LOCATION	DATE
+1.0	India	declare	itself nuclear weapon power	LOCATION	0
+1.0	India	have	tests	O	LOCATION
+1.0	India	have	reactors	O	O
+1.0	India	put	its atomic reactor	LOCATION	0
+1.0	its	have	rise	O	O
+1.0	Tokyo	start	talk	LOCATION	0
+1.0	only nation	be in	world have victim of atomic bomb	0	0
+1.0	Tokyo	start talk with	India on trade pact	LOCATION	LOCATION
+1.0	India	declare	itself weapon power	LOCATION	0
+1.0	whose	have	development	O	O
+1.0	Tokyo	start talk with	India on free trade pact	LOCATION	LOCATION
+1.0	International atomic Energy Agency	have	scanner	ORGANIZATION	0
+1.0	Prime Minister Shinzo Abe this year	have	support	O	O
+1.0	Tokyo	agree in	December	LOCATION	DATE
+1.0	power stations	have	construction	O	O
+1.0	Manmohan Singh	be prime minister of	India	PERSON	LOCATION
+1.0	India	toward	nuclear test	LOCATION	0
+1.0	India	have	Prime Minister Manmohan Singh	PERSON	LOCATION
+1.0	bombs	have	victim	O	O
+1.0	report	say at_time	Wednesday	0	DATE
+1.0	Tokyo	start talk with	India	LOCATION	LOCATION
+1.0	relation	be with	India	0	LOCATION
+1.0	Energy Agency	have	scanner	O	ORGANIZATION
+1.0	India	put	its reactor	LOCATION	0
+1.0	India	put	its civilian-use atomic reactor	LOCATION	0

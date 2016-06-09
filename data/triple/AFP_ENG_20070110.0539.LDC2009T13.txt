@@ -1,0 +1,35 @@
+1.0	Defence	have	Ministry	ORGANIZATION	ORGANIZATION
+0.7965507797838163	limb injury	pair in	other helicopter	0	0
+1.0	second occupant	be age in	he 30	ORDINAL	0
+1.0	pair	be in	other helicopter	0	0
+1.0	another	be	injured	0	0
+0.7965507797838163	limb injury	pair in	helicopter	0	0
+1.0	victim	have	helicopter	O	O
+1.0	occupant	suffer	fracture	0	0
+1.0	second occupant	suffer	facial fracture	ORDINAL	0
+1.0	Britain	have	city	O	LOCATION
+1.0	more people	be	also injure	0	0
+1.0	two more people	be	injure	NUMBER	0
+1.0	two more people	be	also injure	NUMBER	0
+1.0	The second occupant of the dead victim 's helicopter	have	30s	O	O
+1.0	pair	sustain	limb injury	0	0
+1.0	occupant	be	age	0	0
+1.0	England	have	west	O	LOCATION
+1.0	personnel	have	efforts	O	O
+1.0	dead victim	of	helicopter	0	0
+1.0	Britain	have	second city in west of central England	LOCATION	ORDINAL
+1.0	another	be	seriously injured	0	0
+1.0	inquiry	have	RAF board	O	O
+1.0	second occupant	suffer	fracture	ORDINAL	0
+1.0	ambulance crews	have	efforts	O	O
+1.0	Birmingham	city in	west of central England	LOCATION	LOCATION
+1.0	second occupant	be	age	ORDINAL	0
+1.0	Birmingham	have	northwest	O	LOCATION
+1.0	Britain 's second city	be in	west of central England	ORDINAL	LOCATION
+1.0	two people	be in	helicopter	NUMBER	0
+1.0	occupant	suffer	facial fracture	0	0
+1.0	more people	be	injure	0	0
+1.0	Britain	have	Ministry of Defence	LOCATION	ORGANIZATION
+1.0	Britain	have	Ministry	ORGANIZATION	LOCATION
+1.0	helicopter	have	occupant	O	O
+1.0	occupant	be age in	he 30	0	0

@@ -1,0 +1,121 @@
+1.0	Prime Minister Nuri al-Maliki	have	government	O	PERSON
+1.0	Electricity	remain below	level	0	0
+1.0	Carey	be part of	civilian team deploy to Iraq	PERSON	LOCATION
+1.0	State Condoleezza Rice	increase	number	PERSON	0
+1.0	strategy	have	element	O	O
+1.0	Bush	have	Iraq plan	O	PERSON
+0.7359553132981527	team	deploy after	2003 invasion	DURATION	DATE
+1.0	Washington Post	report at_time	Thursday	ORGANIZATION	DATE
+1.0	nearly four year	be in	country	DURATION	0
+0.7359553132981527	first civilian team	deploy after	2003 invasion	ORDINAL	DATE
+0.7359553132981527	civilian team	deploy after	2003 invasion	DURATION	DATE
+1.0	Carey	be part of	team deploy	PERSON	DURATION
+1.0	State Condoleezza Rice	increase	number in Baghdad	PERSON	LOCATION
+1.0	US diplomats	have	Hundreds	O	O
+1.0	President George W. Bush 's	fight insurgent in	Baghdad	PERSON	LOCATION
+1.0	Iraq	have	battle	O	LOCATION
+1.0	lion	have	share of burden for rebuilding	0	0
+1.0	success	be in	Iraq 's	0	LOCATION
+1.0	21,500 troops	be add to	deployment of 132,000 soldier	NUMBER	NUMBER
+1.0	21,500 troops	be add to	currrent deployment	NUMBER	0
+0.7359553132981527	first team	deploy after	2003 invasion	ORDINAL	DATE
+1.0	President George W. Bush 's	unveil	he long-awaited new strategy	PERSON	0
+1.0	President George W. Bush 's	unveil	he long-awaited strategy	PERSON	0
+1.0	Carey	remain in	country for month	PERSON	0
+1.0	Bush administration	have send	21 billion dollar	PERSON	MONEY
+1.0	Iraq	in	battle	LOCATION	0
+1.0	State Condoleezza Rice	run program from	Baghdad as Coordinator for Iraq Transitional Assistance	PERSON	LOCATION
+1.0	success	have	records	O	O
+1.0	State Condoleezza Rice	run program from	Baghdad Coordinator for Iraq Transitional Assistance	PERSON	LOCATION
+1.0	State Condoleezza Rice	run program from	Baghdad Coordinator	PERSON	LOCATION
+1.0	State Condoleezza Rice	run program from	Baghdad as Coordinator	PERSON	LOCATION
+1.0	number	be in	Baghdad	0	LOCATION
+1.0	plan	curb violence in	country	0	0
+1.0	lion 's share	lay with	government	0	0
+1.0	Carey	be part of	first civilian team deploy to Iraq after 2003 invasion	PERSON	ORDINAL
+1.0	State Condoleezza Rice	have	US Secretary	O	PERSON
+1.0	Carey	be	part	PERSON	DURATION
+1.0	State Condoleezza Rice	name	retire diplomat	PERSON	0
+1.0	sum	have	have lose	0	0
+1.0	Carey	be part of	civilian team	PERSON	DURATION
+1.0	stabilizing	have	share	O	O
+1.0	21,500 troops	be add to	deployment	NUMBER	0
+0.7359553132981527	civilian team	deploy to	Iraq 's	DURATION	LOCATION
+1.0	troops	be add to	currrent deployment of 132,000 soldier	0	NUMBER
+1.0	PRTs	have	number	O	O
+1.0	US Secretary	say at_time	Thursday	LOCATION	DATE
+1.0	sum	have	have lose to corruption	0	0
+1.0	Carey	be part of	first team deploy to Iraq	PERSON	ORDINAL
+1.0	Bush	of	new Iraq plan	PERSON	LOCATION
+1.0	State Condoleezza Rice	tell	Congress	PERSON	ORGANIZATION
+1.0	Carey	be part of	first civilian team deploy after 2003 invasion	PERSON	ORDINAL
+1.0	Carey	be part of	first civilian team deploy to Iraq	PERSON	ORDINAL
+1.0	Carey	remain in	country for few month	PERSON	DURATION
+1.0	President George W. Bush	have	drive	O	PERSON
+1.0	plan	curb	violence	0	0
+1.0	Electricity	remain below	pre-war level	0	0
+1.0	Provincial Reconstruction Teams	have	network	O	MISC
+1.0	Carey	be part of	first team deploy to Iraq after 2003 invasion	PERSON	ORDINAL
+1.0	drive	have	countryside	O	O
+1.0	21,500 troops	be	add	NUMBER	0
+1.0	President George W. Bush 's	fight	insurgent	PERSON	0
+1.0	Our	have	efforts	O	O
+1.0	President George W. Bush 's	primarily fight	insurgent	PERSON	0
+1.0	insurgency	have	hotbed	O	O
+1.0	troops	be	add	0	0
+1.0	Carey	remain in	country for only few month	PERSON	DURATION
+1.0	Carey	be part of	team	PERSON	DURATION
+0.7359553132981527	first team	deploy to	Iraq 's	ORDINAL	LOCATION
+1.0	Carey	be part of	civilian team deploy after 2003 invasion	PERSON	DATE
+1.0	21,500 troops	be add to	currrent deployment of 132,000 soldier	NUMBER	NUMBER
+1.0	civilians	have	Hundreds	O	O
+1.0	Carey	remain in	country	PERSON	0
+1.0	State Condoleezza Rice	describe	plan military	0	0
+1.0	projects	have	many	O	O
+1.0	huyndreds of additional civilians	have	nation	O	O
+1.0	the	have	isolation	O	O
+1.0	Electricity	remain	oil production	0	0
+1.0	State Condoleezza Rice	name	Timothy Carney	PERSON	PERSON
+1.0	soldiers	have	deployment	O	O
+1.0	Bush administration	have already send	21 billion dollar	PERSON	MONEY
+1.0	President George W. Bush 's	have	strategy	O	O
+1.0	parallel	be with	bid	0	0
+1.0	President George W. Bush 's	unveil	he new strategy	PERSON	0
+1.0	isolation	have	getting	O	O
+1.0	State Condoleezza Rice	run	program	PERSON	0
+1.0	civilians	have	huyndreds	O	O
+1.0	Condoleezza Rice	be of	State	PERSON	ORGANIZATION
+1.0	Carey	be part of	civilian team deploy	PERSON	DURATION
+1.0	Carey	be part of	team deploy after 2003 invasion	PERSON	DATE
+1.0	George W. Bush	of	last-ditch drive	PERSON	0
+1.0	State Condoleezza Rice	name	diplomat	PERSON	0
+1.0	troops	be add to	deployment of 132,000 soldier	0	NUMBER
+1.0	Carey	be part of	team deploy to Iraq after 2003 invasion	PERSON	LOCATION
+1.0	President George W. Bush 's	unveil	he strategy	PERSON	0
+1.0	Carey	be part of	first civilian team deploy	PERSON	ORDINAL
+1.0	Carey	be part of	first team	PERSON	ORDINAL
+1.0	team	have	part	O	O
+1.0	lion	have	share	O	O
+1.0	Iraq	have	economy	LOCATION	0
+1.0	Carey	be part of	first team deploy	PERSON	ORDINAL
+1.0	Carey	be part of	team deploy to Iraq	PERSON	LOCATION
+0.7359553132981527	team	deploy to	Iraq 's	DURATION	LOCATION
+0.7359553132981527	first civilian team	deploy to	Iraq 's	ORDINAL	LOCATION
+1.0	Iraq	have	economy	O	LOCATION
+1.0	last	have	sign	O	O
+1.0	burden	have	share	O	O
+1.0	Carey	be part of	civilian team deploy to Iraq after 2003 invasion	PERSON	LOCATION
+1.0	Iraq plan	have	nature	O	O
+1.0	significant sum	have	have lose	0	0
+1.0	Our	have	mission	O	O
+1.0	State Condoleezza Rice	stress in	interview	PERSON	0
+1.0	State Condoleezza Rice	tell	Senate panel	0	ORGANIZATION
+1.0	lion 's share	lay with	iraqi government	0	0
+1.0	troops	be add to	deployment	0	0
+1.0	troops	be add to	currrent deployment	0	0
+1.0	Hundreds of US diplomats and other civilians	have	efforts	O	O
+1.0	Carey	be part of	first civilian team	PERSON	ORDINAL
+0.9709094119264784	plan	rebuild	Iraq 's economy	0	LOCATION
+1.0	significant sum	have	have lose to corruption	0	0
+1.0	Carey	be part of	first team deploy after 2003 invasion	PERSON	ORDINAL
+1.0	President George W. Bush 's	primarily fight insurgent in	Baghdad	PERSON	LOCATION

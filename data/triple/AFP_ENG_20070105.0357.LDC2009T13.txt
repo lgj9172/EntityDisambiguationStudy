@@ -1,0 +1,18 @@
+1.0	Simon Mol	have	poems	O	O
+1.0	Mol	be know in	Poland	ORGANIZATION	LOCATION
+1.0	Warsaw prosecutor	have	office	LOCATION	0
+1.0	have refugee	be in	Poland	0	LOCATION
+1.0	he poem	have	have translate into polish	0	0
+1.0	Simon Mol	be	33	PERSON	NUMBER
+1.0	he poem	have	have translate	0	0
+1.0	he formal name	be	Simon Moleke Njie	0	PERSON
+1.0	Warsaw prosecutor	have	office	O	O
+1.0	Simon Mol	have	name	O	O
+1.0	victims	have	doctors	O	O
+1.0	prosecutor	have	office	O	O
+1.0	Simon Mol	have	campaigns	O	O
+1.0	up to 10 year	be in	prison	DURATION	0
+1.0	prosecutor	have	office	DURATION	0
+1.0	he name	be	Simon Moleke Njie	0	PERSON
+1.0	refugees	have	favour	O	O
+1.0	Mol	be	know	ORGANIZATION	0

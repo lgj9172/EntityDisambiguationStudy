@@ -1,0 +1,44 @@
+1.0	Nairobi	tighten security on	frontier	LOCATION	0
+1.0	ethiopian helicopter	miss	they islamist target	0	0
+0.6629573156285158	helicopter	pursue	Somali Islamists	0	MISC
+1.0	their	have	targets	O	O
+1.0	somali government	vow	they backer	0	0
+1.0	violence	be in	Somalia	0	MISC
+1.0	ethiopian helicopter	bomb	border post	0	0
+1.0	Dhobley	have	town	O	LOCATION
+0.6865857926866107	government	have	earlier	0	0
+1.0	helicopter	miss	they target	0	0
+1.0	somali government	pursue	they ethiopian backer	0	0
+1.0	Authorities on Wednesday	have	targets	O	O
+1.0	government	pursue	they backer	0	0
+1.0	government	pursue	they ethiopian backer	0	0
+1.0	police	escort refugee across	border into Somalia	0	LOCATION
+1.0	police	say in	addition	0	0
+1.0	360 refugee	be in	Liboi	NUMBER	LOCATION
+1.0	refugees	have	hundreds	O	O
+1.0	ethiopian helicopter	bomb	kenyan border post	0	0
+1.0	somali government	vow	they ethiopian backer	0	0
+1.0	law	have	contravention	O	O
+1.0	we	have deport around	400 refugee	0	NUMBER
+1.0	government	vow	they ethiopian backer	0	0
+1.0	Humanitarian Affairs	have	Coordination	ORGANIZATION	ORGANIZATION
+1.0	registration centre	be in	Liboi	0	LOCATION
+1.0	UN office for the coordination of Humanitarian Affairs	be on	Tuesday	ORGANIZATION	DATE
+1.0	pursuit	have	intensity	O	O
+1.0	somali government	pursue	they backer	0	0
+1.0	police	escort	refugee	0	0
+1.0	government	vow	they backer	0	0
+1.0	helicopter	bomb	kenyan border post	0	0
+0.7972606605191824	highlight	intensity of	pursuit	0	0
+1.0	links	have	accused	O	O
+1.0	helicopter	bomb	border post	0	0
+1.0	ethiopian helicopter	miss	they target	0	0
+1.0	unrest	have	years	DURATION	O
+1.0	Nairobi	tighten	security	LOCATION	0
+0.6629573156285158	ethiopian helicopter	pursue	Somali Islamists	0	MISC
+1.0	capital	have	northeast	O	O
+1.0	police	escort refugee across	border	0	0
+0.6865857926866107	kenyan government	have	earlier	0	0
+1.0	their	have	backers	O	O
+1.0	helicopter	miss	they islamist target	0	0
+1.0	Millicent Mutuli	spokeswoman for	UN refugee agency	PERSON	ORGANIZATION

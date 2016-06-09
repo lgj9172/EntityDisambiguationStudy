@@ -1,0 +1,91 @@
+1.0	Cebu governor Gwendolyn Garcia	tell	AFP	0	ORGANIZATION
+1.0	security	be criticise in	press	0	0
+1.0	police operations	have	head	O	O
+1.0	Silverio Alarsio	head of	police operation in Cebu	PERSON	LOCATION
+1.0	Philippines	postpone	December 's meeting	LOCATION	DATE
+1.0	Philippines	postpone	last December 's meeting	LOCATION	DATE
+1.0	bloc 's charter	pave	way	0	0
+1.0	Al-Qaeda	be in	jungle clash	LOCATION	0
+1.0	attack	have	warnings	O	O
+1.0	blast	be relate to	event on resort isle	0	0
+1.0	abrupt cancellation	alert from	Australia	0	LOCATION
+1.0	terror group	stage attack in	other part	0	0
+1.0	General Santos	have	city	O	ORGANIZATION
+1.0	terror	have	wake	O	O
+1.0	bloc 's first charter	pave	way	ORDINAL	0
+1.0	force	fight	terrorism	0	0
+1.0	blast	be relate to	event	0	0
+1.0	Cebu	have	resort isle	O	LOCATION
+1.0	East Asia	have	integration	O	LOCATION
+1.0	blast	be relate to	event on separate resort isle	0	0
+1.0	cancellation	alert from	Australia	0	LOCATION
+1.0	security	be	criticise	0	0
+1.0	country	have	parts	O	O
+1.0	bloc 's first charter	pave way by	2015	ORDINAL	DATE
+1.0	closely	have	eve	O	O
+1.0	official	conduct test run across	city	0	0
+1.0	official	conduct	regular test run	0	0
+1.0	terror group	stage attack in	other part of country	0	0
+1.0	Philippine President Gloria Arroyo	begin before	bombing	PERSON	0
+1.0	official	conduct	test run	0	0
+1.0	ASEAN	entity along	line of European Union	ORGANIZATION	ORGANIZATION
+1.0	summit	be in	December	0	DATE
+1.0	ASEAN	legal entity along	line of European Union	ORGANIZATION	ORGANIZATION
+1.0	December	have	meeting	O	DATE
+1.0	bloc 's first charter	pave	way for market	ORDINAL	0
+1.0	Gwendolyn Garcia	be governor of	Cebu governor Gwendolyn Garcia	PERSON	PERSON
+1.0	terror group	stage	attack	0	0
+1.0	Philippine President Gloria Arroyo	begin with	call	PERSON	0
+1.0	Philippines	blame typhoon rather than	terror threat	LOCATION	0
+1.0	bloc 's charter	pave way by	2015	0	DATE
+1.0	abrupt cancellation	alert for	Cebu	0	LOCATION
+1.0	police	have	head	O	O
+1.0	ASEAN	legal entity along	line	ORGANIZATION	0
+1.0	security	be widely criticise in	press	0	0
+1.0	security	be	widely criticise	0	0
+1.0	cancellation	alert for	Cebu	0	LOCATION
+1.0	Gloria Arroyo	be	Philippine	PERSON	MISC
+1.0	official	be	quick	0	0
+1.0	Philippine President Gloria Arroyo	begin at_time	day	PERSON	DATE
+1.0	transport travel procedures	have	test runs	O	O
+1.0	bombing	be in	Santos	0	PERSON
+1.0	official	conduct	test run of transport procedure	0	0
+1.0	Philippines	blame	typhoon	LOCATION	0
+1.0	leader	meet	regional ally	0	0
+1.0	terror group	stage attack in	part	0	0
+1.0	leader	meet	regional ally include Australia	0	LOCATION
+1.0	Gwendolyn Garcia	be	Cebu governor Gwendolyn Garcia	PERSON	PERSON
+1.0	summit security task force	be in	place	0	0
+1.0	Philippine President Gloria Arroyo	begin with	call for country	PERSON	0
+1.0	European Union	have	lines	O	ORGANIZATION
+1.0	bloc 's charter	pave	way for single market	0	0
+1.0	Arroyo	urge	region	PERSON	0
+1.0	attacks	have	target	O	O
+1.0	bloc 's first charter	pave	way for single market	ORDINAL	0
+1.0	police operation	be in	Cebu	0	LOCATION
+1.0	Philippine President Gloria Arroyo	join	force	PERSON	0
+1.0	miles	have	hundreds	O	O
+1.0	official	conduct	regular test run of transport procedure	0	0
+1.0	blast	be	relate	0	0
+1.0	December	be in	wake of terror	DATE	0
+1.0	bomb	be in	Philippines	0	LOCATION
+1.0	terror group	stage attack in	part of country	0	0
+1.0	country	have	south	O	O
+1.0	summits	have	cancellation	O	O
+1.0	bloc	have	charter	O	O
+1.0	blast	be relate to	event on separate resort isle of Cebu	0	LOCATION
+1.0	ASEAN	entity along	line	ORGANIZATION	0
+1.0	leader	meet	ally include Australia	0	LOCATION
+1.0	terrorists	have	rehabilitation	O	O
+1.0	convention centre	have	roof	O	O
+1.0	Philippines	blame	approach typhoon	LOCATION	0
+1.0	blast	be relate to	event on resort isle of Cebu	0	LOCATION
+1.0	bloc	have	first charter	0	ORDINAL
+1.0	Philippine President Gloria Arroyo	begin before	well bombing	PERSON	0
+1.0	leader	meet	ally	0	0
+1.0	bloc 's charter	pave	way for market	0	0
+1.0	Philippine President Gloria Arroyo	begin with	call for regional country	PERSON	0
+1.0	we	have	vigilant at time	0	0
+1.0	Arroyo	say in	statement	PERSON	0
+1.0	6,000-strong summit security task force	be in	place	0	0
+1.0	last December	have	meeting	DATE	0
