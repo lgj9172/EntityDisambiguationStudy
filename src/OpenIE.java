@@ -115,7 +115,7 @@ public class OpenIE {
 						tmp[3] = coref.get(tmp[3]);
 					}
 					
-					String newTriple = tmp[0] + "\t" + tmp[1] + "\t" + tmp[2] + "\t" + tmp[3];
+					String newTriple = tmp[0] + "\t" + tmp[1] + "\t" + tmp[2] + "\t" + tmp[3]+ "\t" + tmp[4]+ "\t" + tmp[5];
 					result.add(newTriple);
 				}
 			}
@@ -185,10 +185,10 @@ public class OpenIE {
 					}
 					
 					if(coref.containsKey(tmp[3])) {
-						tmp[3] = coref.get(tmp[32]);
+						tmp[3] = coref.get(tmp[3]);
 					}
 					
-					String newTriple = tmp[0] + "\t" + tmp[1] + "\t" + tmp[2] + "\t" + tmp[3];
+					String newTriple = tmp[0] + "\t" + tmp[1] + "\t" + tmp[2] + "\t" + tmp[3]+ "\t" + tmp[4]+ "\t" + tmp[5];
 					result.add(newTriple);
 				}
 			}
@@ -278,21 +278,55 @@ public class OpenIE {
 		
 		ArrayList<String> result = new ArrayList<String>();
 		
+		HashMap<String, String> ner = new HashMap<String, String>();
+		
 		if (sentences != null && ! sentences.isEmpty()) {
 			CoreMap sentence = sentences.get(0);
+			//System.out.println("---------------------------------------\n" + str);
+			for (CoreLabel token: sentence.get(TokensAnnotation.class)) {
+		        String word = token.get(TextAnnotation.class);
+		        String ne = token.get(NamedEntityTagAnnotation.class);
+		        
+		        if(!ne.equals("O")) {
+		        	ner.put(word, ne);
+		        	//System.out.println("w: " + word + "/ ne: " + ne);
+		        }	        
+			}
+		
 			Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
 
 			// Print the triples
 			for (RelationTriple triple : triples) {
+				String ner_e1 = "0";
+				String ner_e2 = "0";
+				
 				/*
-				System.out.println(triple.confidence + "\t" +
-				triple.subjectLemmaGloss() + "\t" +
-				triple.relationLemmaGloss() + "\t" +
-				triple.objectLemmaGloss());
+				if(ner.containsKey(triple.subjectLemmaGloss()))
+					e1 = ner.get(triple.subjectLemmaGloss());
+				
+				if(ner.containsKey(triple.objectLemmaGloss()))
+					e2 = ner.get(triple.objectLemmaGloss());
 				*/
-				String tmp = triple.confidence + "\t" +  triple.subjectLemmaGloss() + "\t" + triple.relationLemmaGloss() + "\t" + triple.objectLemmaGloss();
+				
+				String e1 = triple.subjectLemmaGloss();
+				String e2 = triple.objectLemmaGloss();
+				
+		        for( String key : ner.keySet() ){
+		        	//System.out.println("current key: " + key);
+		        	if(e1.contains(key)) {
+		        		ner_e1 = ner.get(key);
+		        	}
+		        	if(e2.contains(key)) {
+		        		ner_e2 = ner.get(key);
+		        	}
+		        }
+		        
+				String tmp = triple.confidence + "\t"
+							+ e1 + "\t" + triple.relationLemmaGloss() + "\t" + e2 + "\t"
+							+ ner_e1 + "\t" + ner_e2;
 				//System.out.println(tmp);
 				result.add(tmp);
+				//System.out.println(tmp);
 			}
 		}
 			
@@ -381,12 +415,12 @@ public class OpenIE {
 					
 					if(edge.getRelation().toString().contains("pos")){	// pos로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add("1" + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
+						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
 					}
 					
 					else if(edge.getRelation().toString().contains("of")){	// of로 이루어진 경우
 						//System.out.println(targetTerm+ "	" + "have" + "	" + sourceTerm );
-						result.add("1" + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
+						result.add(1.0 + "\t" + targetTerm+ "\t" + "have" + "\t" + sourceTerm);
 					}
 					else
 					{
