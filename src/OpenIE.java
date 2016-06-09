@@ -196,10 +196,12 @@ public class OpenIE {
 						
 		}
 		
+		/*
 		System.out.println("->");
 		for(int i=0; i<result.size(); i++) {
 			System.out.println(i+1 + ": " + result.get(i));
 		}
+		*/
 		
 		return result;
 	}
@@ -287,7 +289,7 @@ public class OpenIE {
 				triple.objectLemmaGloss());
 				*/
 				String tmp = triple.confidence + "\t" +  triple.subjectLemmaGloss() + "\t" + triple.relationLemmaGloss() + "\t" + triple.objectLemmaGloss();
-				System.out.println(tmp);
+				//System.out.println(tmp);
 				result.add(tmp);
 			}
 		}
@@ -486,7 +488,7 @@ public class OpenIE {
 				result += triple.confidence + "\t" + "Gloss: " + triple.subjectGloss() + "/Head: " + triple.subjectHead() + "/" + triple.subjectLemmaGloss() + "\t" + triple.relationLemmaGloss() + "\t" + triple.objectLemmaGloss()+"\n";
 			}
 		}
-		System.out.println(result);
+		//System.out.println(result);
 		return result;
 	}
 	
