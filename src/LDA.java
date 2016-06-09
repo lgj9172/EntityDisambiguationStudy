@@ -66,16 +66,62 @@ public class LDA
 		return distribution;
 	}
 	
-	public void compareTopicSimilarity(String docAName, String docBName)
+	public double compareTopicSimilarity(String docAName, String docBName)
 	{
-		int docANum = 0;
-		int docBNum = 0;
+		String distA = getDistributionByFileName(docAName);
+		String distB = getDistributionByFileName(docBName);
+		String[] stringDistA = distA.split(" ");
+		String[] stringDistB = distA.split(" ");
+		double[] doubleDistA = new double[stringDistA.length];
+		double[] doubleDistB = new double[stringDistB.length];
+		int num = 0;
+		
+		for(String eachProp:stringDistA)
+		{
+			doubleDistA[num] = Double.valueOf(eachProp);
+			num = num + 1;
+		}
+		
+		num = 0;
+		for(String eachProp:stringDistB)
+		{
+			doubleDistB[num] = Double.valueOf(eachProp);
+			num = num + 1;
+		}
+		
+		double result = klDivergence(doubleDistA, doubleDistB);
+		return result;
+	}
+	
+	public static final double log2 = Math.log(2);
+	public static double klDivergence(double[] p1, double[] p2)
+	{
+
+		double klDiv = 0.0;
+
+		for (int i = 0; i < p1.length; ++i)
+		{
+			if (p1[i] == 0)
+			{
+				continue;
+			}
+			if (p2[i] == 0.0)
+			{
+				continue;
+			} // Limin
+
+			klDiv += p1[i] * Math.log(p1[i] / p2[i]);
+		}
+
+		return klDiv / log2; // moved this division out of the loop -DM
 	}
 	
 	public static void main(String[] args)
 	{
 		LDA lda = new LDA();
-		String distribution = lda.getDistributionByFileName("AFP_ENG_20070124.0600.LDC2009T13");
-		System.out.println(distribution);
+		//String distribution = lda.getDistributionByFileName("AFP_ENG_20070124.0600.LDC2009T13");
+		//System.out.println(distribution);
+		
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070124.0600.LDC2009T13", "AFP_ENG_20070101.0074.LDC2009T13"));
 	}
 }
