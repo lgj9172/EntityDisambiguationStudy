@@ -84,6 +84,137 @@ public class DocumentParserForLDA
 						continue;
 					case "~":
 						continue;
+					case "on":
+						continue;
+					case "of":
+						continue;
+					case "to":
+						continue;
+					case "in":
+						continue;
+					case "the":
+						continue;
+					case "by":
+						continue;
+					case "he":
+						continue;
+					case "she":
+						continue;
+					case "a":
+						continue;
+					case "and":
+						continue;
+					case "or":
+						continue;
+					case "his":
+						continue;
+					case "him":
+						continue;
+					case "her":
+						continue;
+					case "for":
+						continue;
+					case "over":
+						continue;
+					case "men":
+						continue;
+					case "woman":
+						continue;
+					case "?":
+						continue;
+					case "!":
+						continue;
+					case "'":
+						continue;
+					case "at":
+						continue;
+					case "as":
+						continue;
+					case "it":
+						continue;
+					case "its":
+						continue;
+					case "other":
+						continue;
+					case "another":
+						continue;
+					case "'s":
+						continue;
+					case "-":
+						continue;
+					case "an":
+						continue;
+					case "but":
+						continue;
+					case "just":
+						continue;
+					case "we":
+						continue;
+					case "all":
+						continue;
+					case "some":
+						continue;
+					case "were":
+						continue;
+					case "had":
+						continue;
+					case "off":
+						continue;
+					case "from":
+						continue;
+					case "was":
+						continue;
+					case "more":
+						continue;
+					case "that":
+						continue;
+					case "such":
+						continue;
+					case "She":
+						continue;
+					case "He":
+						continue;
+					case "The":
+						continue;
+					case "if":
+						continue;
+					case "before":
+						continue;
+					case "after":
+						continue;
+					case "until":
+						continue;
+					case "also":
+						continue;
+					case "has":
+						continue;
+					case "But":
+						continue;
+					case "Be":
+						continue;
+					case "be":
+						continue;
+					case "who":
+						continue;
+					case "And":
+						continue;
+					case "At":
+						continue;
+					case "I":
+						continue;
+					case "next":
+						continue;
+					case "last":
+						continue;
+					case "than":
+						continue;
+					case "said":
+						continue;
+					case "My":
+						continue;
+					case "my":
+						continue;
+						
 					default:
 						break;
 				}
