@@ -215,7 +215,84 @@ public class DocumentParserForLDA
 						continue;
 					case "my":
 						continue;
-						
+					case "with":
+						continue;
+					case "is":
+						continue;
+					case "are":
+						continue;
+					case "not":
+						continue;
+					case "will":
+						continue;
+					case "been":
+						continue;
+					case "they":
+						continue;
+					case "their":
+						continue;
+					case "would":
+						continue;
+					case "there":
+						continue;
+					case "0":
+						continue;
+					case "1":
+						continue;
+					case "2":
+						continue;
+					case "3":
+						continue;
+					case "4":
+						continue;
+					case "5":
+						continue;
+					case "6":
+						continue;
+					case "7":
+						continue;
+					case "8":
+						continue;
+					case "9":
+						continue;
+					case "10":
+						continue;
+					case "which":
+						continue;
+					case "have":
+						continue;
+					case "this":
+						continue;
+					case "do":
+						continue;
+					case "It":
+						continue;
+					case "We":
+						continue;
+					case "you":
+						continue;
+					case "can":
+						continue;
+					case "very":
+						continue;
+					case "about":
+						continue;
+					case "no":
+						continue;
+					case "could":
+						continue;
+					case "what":
+						continue;
+					case "so":
+						continue;
+					case "now":
+						continue;
+					case "out":
+						continue;
+					case "up":
+						continue;
+					case "A":
+						continue;
 					default:
 						break;
 				}
@@ -278,6 +355,7 @@ public class DocumentParserForLDA
 		}
 	}
 	
+	public ArrayList<ArrayList<String>> documentMap = new ArrayList<ArrayList<String>>();
 	public void saveDocumentFile(File targetFile)
 	{
 		if(loadedDocument.size() == 0)
@@ -288,11 +366,18 @@ public class DocumentParserForLDA
 		
 		// 모든 문서들을 규합함
 		ArrayList<String> documentSet = new ArrayList<String>();
+		int num = 0;
 		for(String eachDocumentName:loadedDocument.keySet())
 		{
 			ArrayList<String> eachDocument = loadedDocument.get(eachDocumentName);
 			String eachDocumentLine = eachDocument.toString().replace(",", "").replace("[", "").replace("]", "").trim();
 			documentSet.add(eachDocumentLine);
+			
+			ArrayList<String> eachMap = new ArrayList<String>();
+			eachMap.add(String.valueOf(num));
+			eachMap.add(eachDocumentName);
+			documentMap.add(eachMap);
+			num = num + 1;
 		}
 		
 		// 규합한 문서들을 파일로 저장함
@@ -366,11 +451,10 @@ public class DocumentParserForLDA
 				folderFaths.add(sourceArea + eachFolderName);
 			}
 		}
-		System.out.println(sourceClue + " 로 시작하는 " + folderFaths.size() +"개의 폴더를 찾았습니다.");
+		System.out.println(sourceClue + " 로 시작하는 " + folderFaths.size() + "개의 폴더를 찾았습니다.");
 		
 		// 모든 폴더를 순회하면서 모든 파일의 패스를 얻어냄
 		ArrayList<String> fileFaths = new ArrayList<String>();
-		ArrayList<ArrayList<String>> documentMap = new ArrayList<ArrayList<String>>();
 		System.out.println(folderFaths.size() +"개의 폴더에 있는 모든 파일 목록을 얻어내는 중입니다.");
 		int num = 0;
 		for(String folderFath:folderFaths)
@@ -383,13 +467,7 @@ public class DocumentParserForLDA
 				if(eachFile.isFile())
 				{
 					//System.out.println(eachFolderName);
-					///////////////sdddddddddd
-					ArrayList<String> map = new ArrayList<String>();
-					map.add(String.valueOf(num));
-					map.add(eachFile.getName());
-					documentMap.add(map);
 					fileFaths.add(eachFile.getAbsolutePath());
-					
 				}
 				num = num + 1;
 			}
@@ -406,14 +484,14 @@ public class DocumentParserForLDA
 			File sourceFile = new File(eachDocument);
 			// 문서 파서로 로드할 파일을 읽어들임
 			dp.loadHTMLFile(sourceFile);
-			System.out.print(num + "/" + fileFaths.size() +"개 진행"); System.out.print("\r");
+			System.out.println(num + "/" + fileFaths.size() +"개 진행");
 			num = num + 1;
 		}
 		
 		
 		// 로드한 파일을 LDA에 적용 될 수 있는 형태로 저장함
 		dp.saveDocumentFile(targetFile);
-		dp.saveMapFile(documentMap);
+		dp.saveMapFile(dp.documentMap);
 		//System.out.println( dp.applyLemma("The director of the company is Marge. Marge's son is Bart.") );
 	}
 }

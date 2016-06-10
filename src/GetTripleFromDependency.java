@@ -38,8 +38,9 @@ public class GetTripleFromDependency
 		StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
 		// read some text in the text variable
-		String text = "The director of the company is Marge. Marge's son is Bart."; // Add your text here!
-
+		//String text = "The director of the company is Marge. Marge's son is Bart."; // Add your text here!
+		String text = "Bart Simpson is son of Marge Simpson."; // Add your text here!
+		
 		// create an empty Annotation just with the given text
 		Annotation document = new Annotation(text);
 

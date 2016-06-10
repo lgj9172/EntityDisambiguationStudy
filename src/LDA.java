@@ -20,7 +20,7 @@ public class LDA
 				//System.out.println(row[1]);
 				if(row[1].equals(docName))
 				{
-					System.out.println(row[0]);	// 문서 번호 0 부터 시작함
+					//System.out.println(row[0]);	// 문서 번호 0 부터 시작함
 					System.out.println(row[1]);	// 문서 이름
 					return Integer.valueOf(row[0]);
 				}
@@ -68,8 +68,11 @@ public class LDA
 	
 	public double compareTopicSimilarity(String docAName, String docBName)
 	{
+		
 		String distA = getDistributionByFileName(docAName);
 		String distB = getDistributionByFileName(docBName);
+		//System.out.println(distA);
+		//System.out.println(distB);
 		String[] stringDistA = distA.split(" ");
 		String[] stringDistB = distB.split(" ");
 		double[] doubleDistA = new double[stringDistA.length];
@@ -119,9 +122,33 @@ public class LDA
 	public static void main(String[] args)
 	{
 		LDA lda = new LDA();
-		
-		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0002.LDC2009T13", "AFP_ENG_20070101.0074.LDC2009T13"));
+		/*
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0022.LDC2009T13", "AFP_ENG_20070101.0037.LDC2009T13"));System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0022.LDC2009T13", "AFP_ENG_20070101.0204.LDC2009T13"));System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0022.LDC2009T13", "AFP_ENG_20070101.0205.LDC2009T13"));System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0022.LDC2009T13", "AFP_ENG_20070101.0206.LDC2009T13"));System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0022.LDC2009T13", "AFP_ENG_20070101.0212.LDC2009T13"));System.out.println();
+
 		System.out.println();
-		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070101.0074.LDC2009T13", "AFP_ENG_20070101.0002.LDC2009T13"));
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070104.0355.LDC2009T13", "AFP_ENG_20070111.0369.LDC2009T13"));System.out.println();
+		System.out.println(lda.compareTopicSimilarity("AFP_ENG_20070104.0355.LDC2009T13", "AFP_ENG_20070104.0077.LDC2009T13"));
+		*/
+		System.out.println(lda.getDistribution(3));
+		System.out.println(lda.getDistribution(4));
+		System.out.println(lda.getDistribution(5));
+		
+		System.out.println("");
+		System.out.println("  Doc1 : [0.0186567164179104460,  0.2723880597014925500,  0.0111940298507462680, ...,  0.123134328358208950]");
+		System.out.println("  Doc2 : [0.0647668393782383400,  0.0077720207253886010,  0.0025906735751295338, ...,  0.007772020725388601]");
+		System.out.println("  Doc3 : [0.0057471264367816090,  0.0977011494252873600,  0.0172413793103448270, ...,  0.005747126436781609]");
+		System.out.println("  Doc4 : [0.0037878787878787880,  0.0643939393939393900,  0.0037878787878787880, ...,  0.003787878787878788]");
+		System.out.println("  Doc5 : [0.0152439024390243900,  0.0030487804878048780,  0.0030487804878048780, ...,  0.003048780487804878]");
+		System.out.println("");
+		                         
+		
 	}
 }
