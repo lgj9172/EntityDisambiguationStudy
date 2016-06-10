@@ -148,6 +148,18 @@ public class LDA
 		System.out.println("  Doc4 : [0.0037878787878787880,  0.0643939393939393900,  0.0037878787878787880, ...,  0.003787878787878788]");
 		System.out.println("  Doc5 : [0.0152439024390243900,  0.0030487804878048780,  0.0030487804878048780, ...,  0.003048780487804878]");
 		System.out.println("");
+		
+		System.out.println("  entity name: Hewlett Packard");
+		System.out.println("  entity name: Korean Air");
+		System.out.println("  entity name: The People");
+		System.out.println("  entity name: Shiite holy city of Najaf");
+		System.out.println("  entity name: anticipated broaden of recovery to self-sustaining nature of economic expansion in euro area");
+		System.out.println("  entity name: Kosovo Liberation Army");
+		System.out.println("  entity name: Their");
+		System.out.println("  entity name: Chinese-built media centre");
+		System.out.println("  entity name: exit door");
+		System.out.println("  entity name: Audley Harrison");
+		
 		                         
 		
 	}
